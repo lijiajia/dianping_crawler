@@ -5,9 +5,9 @@ import os
 import csv
 import json
 
-CATEGORY_FILE = '/home/lijiajia/work/datamine/category_map.txt'
-SRC_DIR = '/home/lijiajia/work/datamine/dianping_data'
-DST_DIR = '/home/lijiajia/work/datamine/trans_category'
+CATEGORY_FILE = '/home/lijiajia/work/myproject/dianping_crawler/src/category_map.txt'
+SRC_DIR = '/home/lijiajia/work/myproject/dianping_crawler/src/dianping_data'
+DST_DIR = '/home/lijiajia/work/myproject/dianping_crawler/src/trans_category'
 
 def process():
     category_map = {}

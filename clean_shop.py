@@ -10,9 +10,9 @@ import re
 ENG_BRACKET_PAT = re.compile('\(.*\)')
 CHI_BRACKET_PAT = re.compile('（.*）')
 
-FILTER_FILE = '/home/lijiajia/work/datamine/filter_out.txt'
-SRC_FILE = '/home/lijiajia/work/datamine/restaurants.txt'
-DST_FILE = '/home/lijiajia/work/datamine/restaurants_strict.txt'
+FILTER_FILE = '/home/lijiajia/work/myproject/dianping_crawler/src/filter_out.txt'
+SRC_FILE = '/home/lijiajia/work/myproject/dianping_crawler/src/restaurants.txt'
+DST_FILE = '/home/lijiajia/work/myproject/dianping_crawler/src/restaurants_strict.txt'
 
 def process():
     shop_list = []

@@ -7,7 +7,7 @@ sys.setdefaultencoding('utf-8')
 
 import csv
 
-SRC_FILE = '/home/lijiajia/work/datamine/restaurants.txt'
+SRC_FILE = '/home/lijiajia/work/myproject/dianping_crawler/src/restaurants.txt'
 
 def main(argv=sys.argv):
     shop_name = argv[1]

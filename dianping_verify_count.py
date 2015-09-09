@@ -10,7 +10,7 @@ from BeautifulSoup import BeautifulSoup
 from env import USER_AGENT_CHOICES
 
 HOST = 'http://www.dianping.com'
-SRC_DIR = '/home/lijiajia/work/datamine/dianping_data'
+SRC_DIR = '/home/lijiajia/work/myproject/dianping_crawler/src/dianping_data'
 URL = 'http://www.dianping.com/search/category/%d/10'
 
 def process():

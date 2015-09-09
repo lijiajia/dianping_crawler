@@ -8,8 +8,8 @@ import re
 
 FILTER_PAT = re.compile(ur'\(.*\)$')
 
-SRC_DIR = '/home/lijiajia/work/datamine/trans_category'
-RES_FILE = '/home/lijiajia/work/datamine/shop_filter.txt'
+SRC_DIR = '/home/lijiajia/work/myproject/dianping_crawler/src/trans_category'
+RES_FILE = '/home/lijiajia/work/myproject/dianping_crawler/src/shop_filter.txt'
 
 def process():
     shop_map = {}

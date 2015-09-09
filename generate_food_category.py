@@ -5,7 +5,7 @@ import os
 import csv
 import shutil
 
-ROOT_DIR = '/home/lijiajia/work/datamine/dianping_data'
+ROOT_DIR = '/home/lijiajia/work/myproject/dianping_crawler/src/dianping_data'
 
 def process():
     category_set = set()
