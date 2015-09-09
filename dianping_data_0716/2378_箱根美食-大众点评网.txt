@@ -1,0 +1,156 @@
+日本料理,大涌谷观光中心玉子茶屋
+日本料理,田むら銀かつ亭
+日本料理,料理茶屋 花さがみ
+日本料理,よし鮨
+日本料理,里久rikyu
+日本料理,大正
+日本料理,璎珞
+日本料理,小田急あしのこ茶屋
+日本料理,桃源台景观餐厅
+日本料理,本阵
+日本料理,Yubadonnaokichi
+日本料理,はつ花そば蒿麦面
+日本料理,Tamago Chaya
+日本料理,箱根嘻嘻
+日本料理,Daichi
+日本料理,Hakonesaryo Chinzanso
+日本料理,Ginkatsu Kobou
+日本料理,Nisshin Tei
+日本料理,Sushimiyafuji
+日本料理,Sobakiri Izayoi
+日本料理,Ginnoho
+日本料理,Kamaya
+日本料理,Hakone Akakura
+日本料理,Tamura Ginkatutei
+日本料理,Tai Gohan Kaiseki Yoraku
+日本料理,Cafe Restaurant Shunsai
+日本料理,Stew&Curry Mizumitei
+日本料理,Steak House Yoshiike
+日本料理,Jiyoryori Yamaboshi
+日本料理,Kaisekiryori Kadan
+日本料理,Madam Sun
+日本料理,Oan
+日本料理,Shizukutei
+日本料理,Hyosekikaku
+日本料理,Honjin
+日本料理,Hoteruhatsuhana
+日本料理,Yamahiko Sushi
+日本料理,Restaurant Trout
+日本料理,中村家
+日本料理,箱根寿司
+日本料理,强罗花坛怀石料理
+日本料理,富士见茶屋
+日本料理,福よし
+日本料理,懐石
+日本料理,花さがみ
+日本料理,鮨 みやふじ
+日本料理,知客茶家
+东南亚菜,Azure Moon
+中餐,香华
+中餐,Tsubosen Kaennokomichi
+中餐,Salon de The Rosage
+中餐,Wangfujing
+中餐,Tea Lounge Orchid
+中餐,箱根飲茶楼
+中餐,翆阳エクシブ箱根离宫
+西式正餐,ITOH DINING by NOBU
+西式正餐,Le Petit Prince
+西式正餐,La Terrazza
+西式正餐,RESTAURANT ROI
+西式正餐,Arei
+西式正餐,Restaurant Le Trianon (The Prince Hakone )
+西式正餐,The Dining Room
+西式正餐,Antiepasta
+西式正餐,Cafe & Pizza ASSO Sengokuhara
+西式正餐,The Fujiya
+西式正餐,Choudumeya
+西式正餐,Veruboa
+西式正餐,Primera Hotel Laforet Gora
+西式正餐,La Foret
+西式正餐,La Bazza
+西式正餐,Neo Bistro Le Virgule
+西式正餐,Albergo bamboo
+西式正餐,Grill Wisteria
+西式正餐,Gurinhirusoan
+西式正餐,Yoshokusukotto
+西式正餐,Aruberugobanbu
+西式正餐,LYS
+西式正餐,RESTAURANT Array
+西式正餐,Chozumeya
+西式快餐,Solo Pizza
+西式快餐,Resutorankinoyakata
+酒吧,Iroriya
+小吃,Gyoza Center
+小吃,Hatsuhana Soba Honten
+小吃,手打荞麦 彦
+小吃,Fukuyoshi
+小吃,Hatsuhana Soba Shinkan
+小吃,Chainahausu
+小吃,Sobakiriiwasaki
+小吃,Yamasoba
+小吃,Takeyabu Hakoneten
+小吃,Mendokoro Sai
+小吃,Nakamura
+小吃,Shinsho Soba
+小吃,Hakoneen Nanakamado
+小吃,Sobadokorotsuchiya
+小吃,Kamako
+小吃,Jihei
+小吃,Chikuzen
+小吃,Sobadokorohoshinoan
+小吃,Kirakuso
+小吃,Yamaga
+小吃,Hakoneakatsukian
+咖啡厅,玻璃之森咖啡馆
+咖啡厅,季節風
+咖啡厅,Pannomimi
+咖啡厅,Naraya Cafe
+咖啡厅,Terrazza Cafe
+咖啡厅,Woody
+咖啡厅,Tea Lounge Kisetsufu
+咖啡厅,Le Petit Prlance
+咖啡厅,Cafe de motonami
+咖啡厅,Gallery Cafe
+咖啡厅,Salom de the ROSAGE
+面包甜点,菜之花和果子
+面包甜点,箱根焙煎咖啡
+面包甜点,豆腐处狄野
+面包甜点,Marushima Honten
+面包甜点,Living Room
+面包甜点,Sabonanohana
+面包甜点,Wagashi Nanohana
+面包甜点,Chimoto
+面包甜点,Lucky's cafe
+面包甜点,Watanabebekari
+面包甜点,PICOT
+面包甜点,Hime Shara
+面包甜点,Hakonebekari
+面包甜点,GRANDE RIVIERE Hakone
+面包甜点,Sugiyohoenhakoneten
+面包甜点,Hanakotoba
+面包甜点,Kikukawashoten
+面包甜点,Ashigarabakushin Mugishi
+面包甜点,Ochadokoro Hagi
+面包甜点,Hiroshiya
+其他美食,Bakery & Table Hakone
+其他美食,GRANDVERT
+其他美食,Yamayasu Himono Yumoto Yamazato
+其他美食,Meshidokorodaiwa
+其他美食,Hakone Curry Cocoro
+其他美食,Togendai View Restaurant
+其他美食,Hotel Okada
+其他美食,Kikka-so
+其他美食,Gindofu
+其他美食,Chinese Cuisine Taigen
+其他美食,Shikajaya
+其他美食,Tofudokoro Hagino
+其他美食,Fujiya
+其他美食,Koroniarumirado
+其他美食,Restaurant Bright
+其他美食,Auberge Au Mirador
+其他美食,Hakonesasato-fu Katsumata
+其他美食,Toyoshimatofuten
+其他美食,Minoya Kichibe Hakone Yumoto
+其他美食,Kikugawa Manju
+其他美食,姫沙羅
+其他美食,IL MIRAGGIO

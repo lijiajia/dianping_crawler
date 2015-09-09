@@ -1,0 +1,843 @@
+意大利菜,Vapiano,Vapiano,0,其他,7.6,8.5,7.6
+意大利菜,Monte Bianco,Monte Bianco,0,日内瓦城市中心,7.5,7.5,7.5
+意大利菜,Il Lago at The Four Seasons Hotel,Il Lago at The Four Seasons Hotel,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Fifty-Fifty,Fifty-Fifty,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Restaurant Roberto,Restaurant Roberto,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La Matze,La Matze,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Restaurant-Pizzeria Ariana,Restaurant-Pizzeria Ariana,0,日内瓦城机场,0.0,0.0,0.0
+意大利菜,Le Casanova,Le Casanova,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Milan,Milan,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Espresso Club,Espresso Club,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La Gondola,La Gondola,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Les Tilleuls,Les Tilleuls,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La Favola,La Favola,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,In fine,In fine,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La tarantella,La tarantella,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Cafe Flore,Cafe Flore,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Da Paolo,Da Paolo,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Restaurant l'olivo,Restaurant l'olivo,0,日内瓦城机场,0.0,0.0,0.0
+意大利菜,Il Giardino Romano,Il Giardino Romano,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Citadella,Citadella,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Le Point du Jour,Le Point du Jour,0,日内瓦城机场,0.0,0.0,0.0
+意大利菜,La Terrasse,La Terrasse,0,其他,0.0,0.0,0.0
+意大利菜,Le Décanteur,Le Décanteur,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Il Carosello,Il Carosello,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Pizzeria Calabria,Pizzeria Calabria,0,其他,0.0,0.0,0.0
+意大利菜,Luigia,Luigia,0,日内瓦城机场,0.0,0.0,0.0
+意大利菜,Pizzeria Molino,Pizzeria Molino,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Da Gabriele,Da Gabriele,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Les Marronniers,Les Marronniers,0,其他,0.0,0.0,0.0
+意大利菜,Chez Marino,Chez Marino,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Zio,Zio,0,其他,0.0,0.0,0.0
+意大利菜,Pasta d'Oro,Pasta d'Oro,0,其他,0.0,0.0,0.0
+意大利菜,sesflo,sesflo,0,其他,0.0,0.0,0.0
+意大利菜,Da Ettore,Da Ettore,0,其他,0.0,0.0,0.0
+意大利菜,Dario's,Dario's,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La Cuccagna,La Cuccagna,0,其他,0.0,0.0,0.0
+意大利菜,Dai 3 Fratelli Scalea,Dai 3 Fratelli Scalea,0,其他,0.0,0.0,0.0
+意大利菜,Olio Design,Olio Design,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La Pignata,La Pignata,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Il Colosseo,Il Colosseo,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Restaurant La Printaniere,Restaurant La Printaniere,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Spaghetti Factory,Spaghetti Factory,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Camilo's place,Camilo's place,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,The Key & Eagle,The Key & Eagle,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,IL Punto,IL Punto,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La Trattoria,La Trattoria,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Piatto d'Oro,Piatto d'Oro,0,日内瓦城机场,0.0,0.0,0.0
+意大利菜,L'Etna,L'Etna,0,其他,0.0,0.0,0.0
+意大利菜,Spaghetti d'Oro,Spaghetti d'Oro,0,其他,0.0,0.0,0.0
+意大利菜,Ponte de Vecchio,Ponte de Vecchio,0,其他,0.0,0.0,0.0
+意大利菜,Restaurant Pizzeria Italia,Restaurant Pizzeria Italia,0,其他,0.0,0.0,0.0
+意大利菜,Come Prima,Come Prima,0,其他,0.0,0.0,0.0
+意大利菜,L'incontro,L'incontro,0,其他,0.0,0.0,0.0
+意大利菜,La passione,La passione,0,其他,0.0,0.0,0.0
+意大利菜,La Vecchia Napoli,La Vecchia Napoli,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria La Primavera,Pizzeria La Primavera,0,其他,0.0,0.0,0.0
+意大利菜,La Croisette,La Croisette,0,其他,0.0,0.0,0.0
+意大利菜,La Pizza d'Oro,La Pizza d'Oro,0,其他,0.0,0.0,0.0
+意大利菜,Chez Remo,Chez Remo,0,其他,0.0,0.0,0.0
+意大利菜,Semplice,Semplice,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Le New Navy Bar & Restaurant Syracuse,Le New Navy Bar & Restaurant Syracuse,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,vino olio cafe,vino olio cafe,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La conca d oro geneve,La conca d oro geneve,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La casa,La casa,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,San Marco,San Marco,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La Boursiere,La Boursiere,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,A Table,A Table,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Mamma corleone,Mamma corleone,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Da Pulcinella,Da Pulcinella,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Alfredo,Alfredo,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Da Raffaele,Da Raffaele,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Nopizza,Nopizza,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La Rotonde,La Rotonde,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La Grotta,La Grotta,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Giardino Italiano,Giardino Italiano,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Domino,Domino,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Al Volo Pizzeria,Al Volo Pizzeria,0,日内瓦城机场,0.0,0.0,0.0
+意大利菜,Al Castellino,Al Castellino,0,其他,0.0,0.0,0.0
+意大利菜,Il Destino,Il Destino,0,其他,0.0,0.0,0.0
+意大利菜,Le Cheval Blanc,Le Cheval Blanc,0,其他,0.0,0.0,0.0
+意大利菜,La Calabria Acacias,La Calabria Acacias,0,其他,0.0,0.0,0.0
+意大利菜,La Squadra,La Squadra,0,其他,0.0,0.0,0.0
+意大利菜,Vivendo,Vivendo,0,其他,0.0,0.0,0.0
+意大利菜,La Cantina Dei Vini,La Cantina Dei Vini,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria dei Trulli,Trattoria dei Trulli,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Tortellino,Pizzeria Tortellino,0,其他,0.0,0.0,0.0
+意大利菜,Sole Mio,Sole Mio,0,其他,0.0,0.0,0.0
+意大利菜,Yourgurteria,Yourgurteria,0,其他,0.0,0.0,0.0
+意大利菜,Italian Pub & Restaurant,Italian Pub & Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,La Follia,La Follia,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria la Vecchia Napoli,Pizzeria la Vecchia Napoli,0,其他,0.0,0.0,0.0
+意大利菜,Casa Vostra,Casa Vostra,0,其他,0.0,0.0,0.0
+意大利菜,L'Ambiance,L'Ambiance,0,其他,0.0,0.0,0.0
+意大利菜,Restaurant du Cheval-Blanc,Restaurant du Cheval-Blanc,0,其他,0.0,0.0,0.0
+意大利菜,Cote Parc,Cote Parc,0,其他,0.0,0.0,0.0
+意大利菜,Lolivo Restaurant Italien,Lolivo Restaurant Italien,0,其他,0.0,0.0,0.0
+意大利菜,Il Ritrovo,Il Ritrovo,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,L'Evento,L'Evento,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,Rest. Molino - Molard,Rest. Molino - Molard,0,日内瓦城市中心,0.0,0.0,0.0
+意大利菜,La Romana,La Romana,0,日内瓦城机场,0.0,0.0,0.0
+意大利菜,L'Amalfi,L'Amalfi,0,其他,0.0,0.0,0.0
+法国菜,Cafe de Paris,Cafe de Paris,0,日内瓦城市中心,7.9,7.9,7.9
+法国菜,Windows Restaurant at Hotel d'Angleterre,Windows Restaurant at Hotel d'Angleterre,0,日内瓦城市中心,7.8,7.8,7.8
+法国菜,Vertig'O,Vertig'O,0,其他,8.1,8.1,8.1
+法国菜,Cafe du Centre,Cafe du Centre,0,日内瓦城市中心,7.6,7.6,7.6
+法国菜,La Table du 9,La Table du 9,0,日内瓦城市中心,6.0,7.4,8.3
+法国菜,Bistrot du Boeuf Rouge,Bistrot du Boeuf Rouge,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Restaurant Le Duo,Restaurant Le Duo,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Le Vieux Bois,Le Vieux Bois,0,日内瓦城机场,0.0,0.0,0.0
+法国菜,Brasserie Lipp,Brasserie Lipp,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Les Armures,Les Armures,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Le Bistrot de Charlotte,Le Bistrot de Charlotte,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,L'Entrecote St-Jean,L'Entrecote St-Jean,0,其他,0.0,0.0,0.0
+法国菜,Chez Dede,Chez Dede,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,La Clemence,La Clemence,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Le Thermometre,Le Thermometre,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Cafe des Banques,Cafe des Banques,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Lemon Cafe Restaurant,Lemon Cafe Restaurant,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,cigogne,cigogne,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Cafe de la Place,Cafe de la Place,0,其他,0.0,0.0,0.0
+法国菜,Domaine de Chateauvieux,Domaine de Chateauvieux,0,其他,0.0,0.0,0.0
+法国菜,l'Opera Bouffe,l'Opera Bouffe,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Le Lexique,Le Lexique,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,La Plancha,La Plancha,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Le 15,Le 15,0,其他,0.0,0.0,0.0
+法国菜,"Cote Cour, Cote Jardin","Cote Cour, Cote Jardin",0,其他,0.0,0.0,0.0
+法国菜,"Café Calla at Mandarin Oriental, Geneva","Café Calla at Mandarin Oriental, Geneva",0,其他,0.0,0.0,0.0
+法国菜,Restaurant The Ambassador Hotel,Restaurant The Ambassador Hotel,0,其他,0.0,0.0,0.0
+法国菜,Petrus,Petrus,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Swiss Bistro,Swiss Bistro,0,日内瓦城机场,0.0,0.0,0.0
+法国菜,L'Omnibus,L'Omnibus,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Cohiba Lounge,Cohiba Lounge,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Le Parc des Bastions,Le Parc des Bastions,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Le Boel,Le Boel,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,La Cantina Chez Marco,La Cantina Chez Marco,0,其他,0.0,0.0,0.0
+法国菜,Cote Lac,Cote Lac,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Cafe Zinette,Cafe Zinette,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Wine & Beef,Wine & Beef,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Auberge de la Mairie,Auberge de la Mairie,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Restaurant Latitude,Restaurant Latitude,0,日内瓦城机场,0.0,0.0,0.0
+法国菜,Le Gout des Autres,Le Gout des Autres,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Restaurant La Broche,Restaurant La Broche,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Chez Jacky,Chez Jacky,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Cafe de la Mairie,Cafe de la Mairie,0,日内瓦城机场,0.0,0.0,0.0
+法国菜,Au Lavandou,Au Lavandou,0,其他,0.0,0.0,0.0
+法国菜,Le Flacon,Le Flacon,0,其他,0.0,0.0,0.0
+法国菜,Restaurant la Maison Rouge,Restaurant la Maison Rouge,0,其他,0.0,0.0,0.0
+法国菜,L'Escapade,L'Escapade,0,其他,0.0,0.0,0.0
+法国菜,La Brasserie,La Brasserie,0,其他,0.0,0.0,0.0
+法国菜,Bistrot du Rhône,Bistrot du Rhône,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Chez Lucien,Chez Lucien,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Perle du Lac,Perle du Lac,0,其他,0.0,0.0,0.0
+法国菜,le C geneve rue du simplon,le C geneve rue du simplon,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,La Cantine,La Cantine,0,其他,0.0,0.0,0.0
+法国菜,Gallay,Gallay,0,其他,0.0,0.0,0.0
+法国菜,La Diligence,La Diligence,0,其他,0.0,0.0,0.0
+法国菜,Le Barocco,Le Barocco,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,La Table,La Table,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Au carnivore,Au carnivore,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Chez Arsène,Chez Arsène,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Le Grand Cafe,Le Grand Cafe,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Comme un Bouchon,Comme un Bouchon,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Esquisse,Esquisse,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Arthur's Rivegauche,Arthur's Rivegauche,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,L'Escalade,L'Escalade,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Au Phil Du Temps,Au Phil Du Temps,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Relais Bristol Restaurant & Bar,Relais Bristol Restaurant & Bar,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,la Vouivre,la Vouivre,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Palais Mascotte,Palais Mascotte,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Boulangerie Eric Emery,Boulangerie Eric Emery,0,日内瓦城机场,0.0,0.0,0.0
+法国菜,Auberge de Landecy,Auberge de Landecy,0,其他,0.0,0.0,0.0
+法国菜,L'Ecu de Geneve,L'Ecu de Geneve,0,其他,0.0,0.0,0.0
+法国菜,Le Franco-Suisse,Le Franco-Suisse,0,其他,0.0,0.0,0.0
+法国菜,Cafe Julienne,Cafe Julienne,0,其他,0.0,0.0,0.0
+法国菜,Cafe du Signal,Cafe du Signal,0,其他,0.0,0.0,0.0
+法国菜,Auberge de floris,Auberge de floris,0,其他,0.0,0.0,0.0
+法国菜,L'Hedoniste,L'Hedoniste,0,其他,0.0,0.0,0.0
+法国菜,Le Jardin d'Eliette,Le Jardin d'Eliette,0,其他,0.0,0.0,0.0
+法国菜,Restaurant La Grange,Restaurant La Grange,0,其他,0.0,0.0,0.0
+法国菜,Bar & Restaurant Plage du Reposoir,Bar & Restaurant Plage du Reposoir,0,其他,0.0,0.0,0.0
+法国菜,Le Loti,Le Loti,0,其他,0.0,0.0,0.0
+法国菜,Lacustre,Lacustre,0,其他,0.0,0.0,0.0
+法国菜,Aigle D'Or,Aigle D'Or,0,其他,0.0,0.0,0.0
+法国菜,Europraille,Europraille,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Le St-Germain,Le St-Germain,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Restaurant Pizzeria Le Velours,Restaurant Pizzeria Le Velours,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Le C. Richard Cressac,Le C. Richard Cressac,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,2 la Rue,2 la Rue,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Restaurant Francis,Restaurant Francis,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Chez Dédé,Chez Dédé,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,L'O à la Bouche,L'O à la Bouche,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,So Mel,So Mel,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Auberge de Grand-Lancy,Auberge de Grand-Lancy,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,La Mairie,La Mairie,0,日内瓦城机场,0.0,0.0,0.0
+法国菜,Restaurant Antes,Restaurant Antes,0,其他,0.0,0.0,0.0
+法国菜,IMPREVU Cafe Bar,IMPREVU Cafe Bar,0,其他,0.0,0.0,0.0
+法国菜,Carla et Nuno,Carla et Nuno,0,其他,0.0,0.0,0.0
+法国菜,Le Pret-a-manger de Gilles Desplanches,Le Pret-a-manger de Gilles Desplanches,0,其他,0.0,0.0,0.0
+法国菜,Cafe du Marche,Cafe du Marche,0,其他,0.0,0.0,0.0
+法国菜,Le Paris Bistrot,Le Paris Bistrot,0,其他,0.0,0.0,0.0
+法国菜,Restaurant Le Victoria,Restaurant Le Victoria,0,其他,0.0,0.0,0.0
+法国菜,Cafe du Lys,Cafe du Lys,0,其他,0.0,0.0,0.0
+法国菜,Come Prima,Come Prima,0,其他,0.0,0.0,0.0
+法国菜,Le Cafe du Clos,Le Cafe du Clos,0,其他,0.0,0.0,0.0
+法国菜,Restaurant Mon-Idee,Restaurant Mon-Idee,0,其他,0.0,0.0,0.0
+法国菜,Auberge des Vieux Chenes,Auberge des Vieux Chenes,0,其他,0.0,0.0,0.0
+法国菜,Auberge communale de Meyrin,Auberge communale de Meyrin,0,其他,0.0,0.0,0.0
+法国菜,Auberge de Gy,Auberge de Gy,0,其他,0.0,0.0,0.0
+法国菜,Cafe Restaurant Le Coup De Coeur,Cafe Restaurant Le Coup De Coeur,0,其他,0.0,0.0,0.0
+法国菜,Auberge de Compesières,Auberge de Compesières,0,其他,0.0,0.0,0.0
+法国菜,Cafe du Grutli,Cafe du Grutli,0,其他,0.0,0.0,0.0
+法国菜,Le Rozzel Creperie,Le Rozzel Creperie,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Restaurant San Remo,Restaurant San Remo,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,cafe camille,cafe camille,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Café Sud,Café Sud,0,其他,0.0,0.0,0.0
+法国菜,Café de la Comédie,Café de la Comédie,0,其他,0.0,0.0,0.0
+法国菜,Yachting club geneva,Yachting club geneva,0,其他,0.0,0.0,0.0
+法国菜,Château de Genthod,Château de Genthod,0,其他,0.0,0.0,0.0
+法国菜,Café Restaurant de l'Etoile,Café Restaurant de l'Etoile,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Au Coin du Bar,Au Coin du Bar,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Brasserie Le Sud,Brasserie Le Sud,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Chez Francis,Chez Francis,0,日内瓦城市中心,0.0,0.0,0.0
+法国菜,Le Cent Suisses,Le Cent Suisses,0,日内瓦城机场,0.0,0.0,0.0
+法国菜,Espace Picard,Espace Picard,0,日内瓦城机场,0.0,0.0,0.0
+法国菜,Le Plateau,Le Plateau,0,其他,0.0,0.0,0.0
+法国菜,Buffet de la Gare des Eaux-Vives,Buffet de la Gare des Eaux-Vives,0,其他,0.0,0.0,0.0
+法国菜,Le,Le,0,其他,0.0,0.0,0.0
+墨西哥菜,Manana,Manana,0,日内瓦城市中心,0.0,0.0,0.0
+墨西哥菜,Fiesta Mexicana,Fiesta Mexicana,0,日内瓦城机场,0.0,0.0,0.0
+墨西哥菜,Le Chat Rouge,Le Chat Rouge,0,日内瓦城市中心,0.0,0.0,0.0
+墨西哥菜,La Pinata,La Pinata,0,其他,0.0,0.0,0.0
+其他西餐,Grand Duke Pub,Grand Duke Pub,0,日内瓦城市中心,8.5,8.5,8.5
+其他西餐,Vertig'O,Vertig'O,0,其他,8.1,8.1,8.1
+其他西餐,Remor Georges,Remor Georges,0,日内瓦城市中心,7.4,8.1,7.4
+其他西餐,Le Jardin,Le Jardin,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Cafe du Soleil,Cafe du Soleil,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,Cottage Cafe,Cottage Cafe,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Mosaique,Mosaique,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Le Relais de l'Entrecote,Le Relais de l'Entrecote,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Les Brasseurs,Les Brasseurs,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Au Pied de Cochon,Au Pied de Cochon,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Awash,Awash,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Zara 2001,Zara 2001,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Le Grand Quai,Le Grand Quai,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Edelweiss,Restaurant Edelweiss,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,le radar de poche,le radar de poche,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Brasserie de l'Hotel de Ville,Brasserie de l'Hotel de Ville,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Cafe du Bourg de Four,Cafe du Bourg de Four,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Minotor Steakhouse,Minotor Steakhouse,0,其他,0.0,0.0,0.0
+其他西餐,"Manora,","Manora,",0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Au Renfort,Au Renfort,0,其他,0.0,0.0,0.0
+其他西餐,Globus,Globus,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,FloorTwo Restaurant - Il Vero,FloorTwo Restaurant - Il Vero,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Auberge de Saviese,Auberge de Saviese,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Cafe du Perron,Cafe du Perron,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Restaurant CAJUPI,Restaurant CAJUPI,0,其他,0.0,0.0,0.0
+其他西餐,Le Bain des Paquis,Le Bain des Paquis,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,La Veranda Restaurant,La Veranda Restaurant,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,La Bergerie du Gruyérien,La Bergerie du Gruyérien,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Teseo,Teseo,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Denise's Art of Burger,Denise's Art of Burger,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Golestan,Golestan,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,La Petite Vendee,La Petite Vendee,0,其他,0.0,0.0,0.0
+其他西餐,Au Carrefour,Au Carrefour,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Le M,Restaurant Le M,0,其他,0.0,0.0,0.0
+其他西餐,Brasserie des Halles de L'Ile,Brasserie des Halles de L'Ile,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Tiffany,Tiffany,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Brasserie Port Saladin,Brasserie Port Saladin,0,其他,0.0,0.0,0.0
+其他西餐,La Coupole,La Coupole,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Restaurant Gazelle d'Or Village Africain,Restaurant Gazelle d'Or Village Africain,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Le Pradier,Le Pradier,0,其他,0.0,0.0,0.0
+其他西餐,Britannia Pub,Britannia Pub,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Chez Stucki,Chez Stucki,0,其他,0.0,0.0,0.0
+其他西餐,Le coup de girafe,Le coup de girafe,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Le Lacustre,Le Lacustre,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Ole-Ole,Ole-Ole,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Aux Coquelets Dores,Aux Coquelets Dores,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,El Ruedo,El Ruedo,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Ze-do-Pipo,Ze-do-Pipo,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Starling Cafe,Starling Cafe,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,C bar & lounge,C bar & lounge,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,The Swiss Chalet,The Swiss Chalet,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,La Chaumaz,La Chaumaz,0,其他,0.0,0.0,0.0
+其他西餐,Patisserie Mage,Patisserie Mage,0,其他,0.0,0.0,0.0
+其他西餐,Auberge du Grand-Saconnex,Auberge du Grand-Saconnex,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,Cafe Metropole,Cafe Metropole,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Brasserie Portugalia,Brasserie Portugalia,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Le Bistrot 37'2,Le Bistrot 37'2,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Cafe de la limite,Cafe de la limite,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Les Curiades,Les Curiades,0,其他,0.0,0.0,0.0
+其他西餐,Spikisi,Spikisi,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Restaurant des Voyageurs,Cafe Restaurant des Voyageurs,0,其他,0.0,0.0,0.0
+其他西餐,La Creperie de la Place,La Creperie de la Place,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,A Tasca Do Primo,A Tasca Do Primo,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Cafe du Rond-Point,Cafe du Rond-Point,0,其他,0.0,0.0,0.0
+其他西餐,Caviar House & Prunier,Caviar House & Prunier,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Lady Godiva,Lady Godiva,0,其他,0.0,0.0,0.0
+其他西餐,Aioli,Aioli,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Restaurant Portobello and Co,Restaurant Portobello and Co,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Gallay,Gallay,0,其他,0.0,0.0,0.0
+其他西餐,Dorian,Dorian,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,L'Envers du Decor,L'Envers du Decor,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Odeon,Odeon,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Soleil Rouge,Soleil Rouge,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Les Vins d'Urbain,Les Vins d'Urbain,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Chez ma cousine,Chez ma cousine,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,L'Age d'Or,L'Age d'Or,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Terroirific,Terroirific,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Restaurant Lamartine,Restaurant Lamartine,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Brasserie Baloise,Brasserie Baloise,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Restaurant Nomade,Restaurant Nomade,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Novotel Café,Novotel Café,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Restaurant des Trois Rois,Restaurant des Trois Rois,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Glow Bar,Glow Bar,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Cafeteria du Jardin Botanique,Cafeteria du Jardin Botanique,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,Auberge de la Croix-de-Rozon,Auberge de la Croix-de-Rozon,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Babel,Cafe Babel,0,其他,0.0,0.0,0.0
+其他西餐,Chez Renato,Chez Renato,0,其他,0.0,0.0,0.0
+其他西餐,Cafe d'Avusy (chez Casa),Cafe d'Avusy (chez Casa),0,其他,0.0,0.0,0.0
+其他西餐,Les Fourneaux du Manege,Les Fourneaux du Manege,0,其他,0.0,0.0,0.0
+其他西餐,Les Palettes,Les Palettes,0,其他,0.0,0.0,0.0
+其他西餐,Le Portugais,Le Portugais,0,其他,0.0,0.0,0.0
+其他西餐,Le Senat,Le Senat,0,其他,0.0,0.0,0.0
+其他西餐,Cafe des Bains,Cafe des Bains,0,其他,0.0,0.0,0.0
+其他西餐,L'ENTRACTE,L'ENTRACTE,0,其他,0.0,0.0,0.0
+其他西餐,Nyala,Nyala,0,其他,0.0,0.0,0.0
+其他西餐,La Taverne du Valais,La Taverne du Valais,0,其他,0.0,0.0,0.0
+其他西餐,Aigle D'Or,Aigle D'Or,0,其他,0.0,0.0,0.0
+其他西餐,Le Cadran Solaire,Le Cadran Solaire,0,其他,0.0,0.0,0.0
+其他西餐,Les Twins Cafe,Les Twins Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Le Moulin a Poivre,Le Moulin a Poivre,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,"Bouche - Cherie, La","Bouche - Cherie, La",0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Rose des Sables,Rose des Sables,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Le Florentin,Le Florentin,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,La Brasserie Genevoise,La Brasserie Genevoise,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Cafe Cult,Cafe Cult,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,le Festival,le Festival,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Café de l'Amitié,Café de l'Amitié,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Quirinale,Quirinale,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Les Salons de Théophile,Les Salons de Théophile,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Mamounia,Mamounia,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,"Finestra, La","Finestra, La",0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Edward's,Edward's,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,La Tour du Molard,La Tour du Molard,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Perle des Lions,Perle des Lions,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Le Baroque Restaurant,Le Baroque Restaurant,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Restaurant de Transports,Restaurant de Transports,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,La Nasse,La Nasse,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Cafe des Charmilles,Cafe des Charmilles,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,L'Academia,L'Academia,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,"Cantina Libertino, Cocina y Vino","Cantina Libertino, Cocina y Vino",0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Romana,Romana,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,"Le Liotard, chez Julia & Vitor","Le Liotard, chez Julia & Vitor",0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Planeta Rodizio,Planeta Rodizio,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Restaurant Atlas,Restaurant Atlas,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Al manzil,Al manzil,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Brasserie aux Cheminots,Brasserie aux Cheminots,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,O'Viriato,O'Viriato,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,La Espanola,La Espanola,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,El Caribeno,El Caribeno,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Restaurant le Galicia,Restaurant le Galicia,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Charly O'Neills Irish Bar,Charly O'Neills Irish Bar,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Aux Bonnes Choses,Aux Bonnes Choses,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,Babylone,Babylone,0,其他,0.0,0.0,0.0
+其他西餐,Cafe de la Place,Cafe de la Place,0,其他,0.0,0.0,0.0
+其他西餐,Le Chalet a nico,Le Chalet a nico,0,其他,0.0,0.0,0.0
+其他西餐,Café Marius,Café Marius,0,其他,0.0,0.0,0.0
+其他西餐,A Table !,A Table !,0,其他,0.0,0.0,0.0
+其他西餐,Les Enfants Terribles,Les Enfants Terribles,0,其他,0.0,0.0,0.0
+其他西餐,Chez Pierrot,Chez Pierrot,0,其他,0.0,0.0,0.0
+其他西餐,L'Air Du Temps,L'Air Du Temps,0,其他,0.0,0.0,0.0
+其他西餐,Chausse - Coqs,Chausse - Coqs,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant du Grand Chene,Restaurant du Grand Chene,0,其他,0.0,0.0,0.0
+其他西餐,Chocolaterie Micheli,Chocolaterie Micheli,0,其他,0.0,0.0,0.0
+其他西餐,Emilios,Emilios,0,其他,0.0,0.0,0.0
+其他西餐,"Cazar,Le","Cazar,Le",0,其他,0.0,0.0,0.0
+其他西餐,Ikea,Ikea,0,其他,0.0,0.0,0.0
+其他西餐,Golf Club de Geneve,Golf Club de Geneve,0,其他,0.0,0.0,0.0
+其他西餐,Meyrinoise,Meyrinoise,0,其他,0.0,0.0,0.0
+其他西餐,Ile Rousseau,Ile Rousseau,0,其他,0.0,0.0,0.0
+其他西餐,La Vigne Blanche,La Vigne Blanche,0,其他,0.0,0.0,0.0
+其他西餐,Le Consulat,Le Consulat,0,其他,0.0,0.0,0.0
+其他西餐,Subway,Subway,0,其他,0.0,0.0,0.0
+其他西餐,Florissant,Florissant,0,其他,0.0,0.0,0.0
+其他西餐,Cafe du Grutli,Cafe du Grutli,0,其他,0.0,0.0,0.0
+其他西餐,Tapas Nocturnes,Tapas Nocturnes,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Marco Polo Bar,Marco Polo Bar,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,Le Pyramus geneva,Le Pyramus geneva,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,L'Olivier,L'Olivier,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,Café-Restaurant Le Raisin,Café-Restaurant Le Raisin,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,Gravines,Gravines,0,其他,0.0,0.0,0.0
+其他西餐,"Semailles, Des","Semailles, Des",0,其他,0.0,0.0,0.0
+其他西餐,Hosteria de Villette,Hosteria de Villette,0,其他,0.0,0.0,0.0
+其他西餐,Meskerem,Meskerem,0,其他,0.0,0.0,0.0
+其他西餐,Les Recyclables,Les Recyclables,0,其他,0.0,0.0,0.0
+其他西餐,Café de la Comédie,Café de la Comédie,0,其他,0.0,0.0,0.0
+其他西餐,Brasserie Nouvelle,Brasserie Nouvelle,0,其他,0.0,0.0,0.0
+其他西餐,Mortimer,Mortimer,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,Pauly's,Pauly's,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,CittaDella,CittaDella,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,L'Amiral,L'Amiral,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,L'improviste,L'improviste,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,The Melting Pot,The Melting Pot,0,日内瓦城市中心,0.0,0.0,0.0
+其他西餐,L'Aviation,L'Aviation,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,Recolte,Recolte,0,日内瓦城机场,0.0,0.0,0.0
+其他西餐,Restaurant ,Restaurant ,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Restaurant Curiositas,Cafe Restaurant Curiositas,0,其他,0.0,0.0,0.0
+其他西餐,Les 3S,Les 3S,0,其他,0.0,0.0,0.0
+中餐,Panda Express Geneva,Panda Express Geneva,0,其他,8.8,8.8,8.8
+中餐,Le Mandarin,Le Mandarin,0,日内瓦城市中心,8.3,8.4,8.7
+中餐,Jiawei,Jiawei,0,日内瓦城市中心,8.4,8.4,8.4
+中餐,Le Phenix,Le Phenix,0,日内瓦城市中心,8.5,7.8,8.5
+中餐,Hungky,Hungky,0,日内瓦城市中心,6.6,5.7,6.0
+中餐,Hung Wan,Hung Wan,0,日内瓦城市中心,5.1,5.5,5.1
+中餐,Boky,Boky,0,日内瓦城市中心,6.8,6.8,6.8
+中餐,Han Lung,Han Lung,0,日内瓦城机场,7.5,7.1,7.5
+中餐,Workn'Go,Workn'Go,0,日内瓦城市中心,6.8,7.2,6.8
+中餐,Au Bol,Au Bol,0,日内瓦城市中心,0.0,0.0,0.0
+中餐,Le Tse Fung,Le Tse Fung,0,其他,0.0,0.0,0.0
+中餐,China Garden,China Garden,0,日内瓦城机场,0.0,0.0,0.0
+中餐,Snack Mama Wasi,Snack Mama Wasi,0,日内瓦城市中心,0.0,0.0,0.0
+中餐,Le The,Le The,0,日内瓦城市中心,0.0,0.0,0.0
+中餐,Wokn go,Wokn go,0,日内瓦城市中心,0.0,0.0,0.0
+中餐,Le Bar des Bergues,Le Bar des Bergues,0,日内瓦城市中心,0.0,0.0,0.0
+中餐,Tse Yang,Tse Yang,0,其他,0.0,0.0,0.0
+中餐,Restaurant Dragon,Restaurant Dragon,0,日内瓦城市中心,0.0,0.0,0.0
+中餐,"Baguette D'Or, La","Baguette D'Or, La",0,其他,0.0,0.0,0.0
+中餐,Le Bistrot Chinois,Le Bistrot Chinois,0,其他,0.0,0.0,0.0
+中餐,Lin-Xiang,Lin-Xiang,0,日内瓦城市中心,0.0,0.0,0.0
+中餐,la sixieme heure,la sixieme heure,0,其他,0.0,0.0,0.0
+中餐,Les Quatre Saisons,Les Quatre Saisons,0,日内瓦城市中心,0.0,0.0,0.0
+中餐,Lui Garden,Lui Garden,0,其他,0.0,0.0,0.0
+中餐,Chez Kuk,Chez Kuk,0,其他,0.0,0.0,0.0
+中餐,Comptoirs du the,Comptoirs du the,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Mikado,Mikado,0,日内瓦城市中心,6.7,6.7,6.7
+日韩料理,Kamome,Kamome,0,日内瓦城机场,7.4,7.4,7.4
+日韩料理,K Pub,K Pub,0,日内瓦城市中心,6.7,6.7,7.4
+日韩料理,Miyako,Miyako,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Izumi,Izumi,0,其他,0.0,0.0,0.0
+日韩料理,Sauan,Sauan,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Seoul,Seoul,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Kakinuma,Kakinuma,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Gaya,Gaya,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Opensushi,Opensushi,0,其他,0.0,0.0,0.0
+日韩料理,Yukiguni,Yukiguni,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Fuji,Fuji,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,"BAP, urban korean food","BAP, urban korean food",0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Wasabi Sushi,Wasabi Sushi,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Nagomi,Nagomi,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Mikado (Eaux-Vives),Mikado (Eaux-Vives),0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Moshimoshi,Moshimoshi,0,其他,0.0,0.0,0.0
+日韩料理,Uchitomi,Uchitomi,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Sushi Train Kiteki,Sushi Train Kiteki,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Hashimoto,Hashimoto,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Matsuri,Matsuri,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Shibata,Shibata,0,,0.0,0.0,0.0
+日韩料理,Sake,Sake,0,其他,0.0,0.0,0.0
+日韩料理,Maison de Coree,Maison de Coree,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Takumi,Takumi,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Sumo Yakitori,Sumo Yakitori,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Kirin,Kirin,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,sansui,sansui,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Massa,Massa,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Lo'13'To,Lo'13'To,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Sushi Time,Sushi Time,0,其他,0.0,0.0,0.0
+日韩料理,Ketori,Ketori,0,其他,0.0,0.0,0.0
+日韩料理,Tanuki,Tanuki,0,其他,0.0,0.0,0.0
+日韩料理,Ekai Sushi,Ekai Sushi,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,Kamotaka Sushi,Kamotaka Sushi,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,l'Annexe Kotobuki,l'Annexe Kotobuki,0,日内瓦城市中心,0.0,0.0,0.0
+日韩料理,L Avant Premiere at Pathe Balexert,L Avant Premiere at Pathe Balexert,0,日内瓦城机场,0.0,0.0,0.0
+更多亚洲菜,Pad Thai,Pad Thai,0,日内瓦城市中心,8.0,7.4,7.4
+更多亚洲菜,Cholon,Cholon,0,其他,8.3,8.3,8.3
+更多亚洲菜,Sushi Boky,Sushi Boky,0,日内瓦城市中心,6.5,6.5,6.5
+更多亚洲菜,Thai Phuket,Thai Phuket,0,日内瓦城机场,0.0,0.0,0.0
+更多亚洲菜,The Mediterranean Grill,The Mediterranean Grill,0,其他,0.0,0.0,0.0
+更多亚洲菜,Chez Kei,Chez Kei,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Gandhi Cafe,Gandhi Cafe,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,yinde,yinde,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Le Figuier,Le Figuier,0,日内瓦城机场,0.0,0.0,0.0
+更多亚洲菜,Royal Oriental,Royal Oriental,0,日内瓦城机场,0.0,0.0,0.0
+更多亚洲菜,"Rasoi by Vineet at Mandarin Oriental, Geneva","Rasoi by Vineet at Mandarin Oriental, Geneva",0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Patara Fine Thai Cuisine,Patara Fine Thai Cuisine,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Sajna Restaurant,Sajna Restaurant,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Bat Dat,Bat Dat,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Little India,Little India,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Supatra (Versoix),Supatra (Versoix),0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Spice of India,Spice of India,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Restaurant Kha Tha Thai,Restaurant Kha Tha Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Ya Sham,Ya Sham,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,THAI,THAI,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,pyramide d'asie,pyramide d'asie,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Mandarin,Mandarin,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Coral,Coral,0,其他,0.0,0.0,0.0
+更多亚洲菜,Ka-Chon,Ka-Chon,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Ital'India by Shahi,Ital'India by Shahi,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Shahi Food,Shahi Food,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Bollywood,Bollywood,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,E-Wok,E-Wok,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Turquoise,Turquoise,0,日内瓦城机场,0.0,0.0,0.0
+更多亚洲菜,Asadal,Asadal,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Chandigarh Tandoori,Chandigarh Tandoori,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,SawasDee,SawasDee,0,其他,0.0,0.0,0.0
+更多亚洲菜,A-Nam lll,A-Nam lll,0,其他,0.0,0.0,0.0
+更多亚洲菜,Little Buddha,Little Buddha,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Tanah Merah,Tanah Merah,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,La Maison d'Asie,La Maison d'Asie,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Rajmoni,Rajmoni,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Relais Thai de Vuillonnex,Relais Thai de Vuillonnex,0,其他,0.0,0.0,0.0
+更多亚洲菜,Green Mango,Green Mango,0,其他,0.0,0.0,0.0
+更多亚洲菜,Trois Bonheurs,Trois Bonheurs,0,其他,0.0,0.0,0.0
+更多亚洲菜,Feuille de Banane,Feuille de Banane,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thé & Vapeur,Thé & Vapeur,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bai Toey Geneva,Bai Toey Geneva,0,其他,0.0,0.0,0.0
+更多亚洲菜,Cafe Dunia,Cafe Dunia,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kutchi Restaurant,Kutchi Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Le Darshana,Le Darshana,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Cafe-Restaurant le Nyamuk,Cafe-Restaurant le Nyamuk,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,A-Nam II,A-Nam II,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Bamboo Garden,Bamboo Garden,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,"Celeste Empire, Le","Celeste Empire, Le",0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Bombay Palace,Bombay Palace,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Ege,Ege,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Siam,Siam,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Taste of Madras,Taste of Madras,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Sam-Lor Thai,Sam-Lor Thai,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Royal India,Royal India,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Indian Plaza,Indian Plaza,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Cho Lon,Cho Lon,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,La Baïta,La Baïta,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Fenomeno,Fenomeno,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Indochine,Indochine,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,La Table des Nations,La Table des Nations,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Sala thai,Sala thai,0,日内瓦城机场,0.0,0.0,0.0
+更多亚洲菜,Aero Bistro,Aero Bistro,0,日内瓦城机场,0.0,0.0,0.0
+更多亚洲菜,Bang Yai,Bang Yai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Basilic Thai,Basilic Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant le Mekong,Restaurant le Mekong,0,其他,0.0,0.0,0.0
+更多亚洲菜,Dun-Huang,Dun-Huang,0,其他,0.0,0.0,0.0
+更多亚洲菜,mike wong,mike wong,0,其他,0.0,0.0,0.0
+更多亚洲菜,Jaipur,Jaipur,0,其他,0.0,0.0,0.0
+更多亚洲菜,Au Royaume de Jade,Au Royaume de Jade,0,其他,0.0,0.0,0.0
+更多亚洲菜,Champs Frechets Doner Kebab,Champs Frechets Doner Kebab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Hafez,Hafez,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,A Nam,A Nam,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Thai Orchidee,Thai Orchidee,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Kwai Food,Kwai Food,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Le Bonheur,Le Bonheur,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Piment Vert,Piment Vert,0,日内瓦城市中心,0.0,0.0,0.0
+更多亚洲菜,Sofram,Sofram,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,Holy Cow! Gourmet Burger Bar,Holy Cow! Gourmet Burger Bar,0,日内瓦城市中心,7.3,7.3,7.3
+快餐简餐,The Hamburger Foundation,The Hamburger Foundation,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,The Clubhouse,The Clubhouse,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,Holy Cow! Gourmet Burger Company,Holy Cow! Gourmet Burger Company,0,其他,0.0,0.0,0.0
+快餐简餐,Inglewood,Inglewood,0,其他,0.0,0.0,0.0
+快餐简餐,Tag's Café,Tag's Café,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,Domino's Pizza,Domino's Pizza,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,Inglewood,Inglewood,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,Thé & Vapeur,Thé & Vapeur,0,其他,0.0,0.0,0.0
+快餐简餐,Le Calamar,Le Calamar,0,其他,0.0,0.0,0.0
+快餐简餐,Road Runner,Road Runner,0,其他,0.0,0.0,0.0
+快餐简餐,207 Café,207 Café,0,其他,0.0,0.0,0.0
+快餐简餐,Cheesecake & Co,Cheesecake & Co,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,Messapia - Tesori del Salento,Messapia - Tesori del Salento,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,Cafe Cuba,Cafe Cuba,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,Katrepices,Katrepices,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,Funky Monkey Room,Funky Monkey Room,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,F.M.R Bar-Restaurant,F.M.R Bar-Restaurant,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,Domino's Pizza,Domino's Pizza,0,其他,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,日内瓦城市中心,0.0,0.0,0.0
+快餐简餐,丁里青春羊肉馆,丁里青春羊肉馆,0,,0.0,0.0,0.0
+快餐简餐,Le Moustachu,Le Moustachu,0,日内瓦城市中心,0.0,0.0,0.0
+海鲜,Corail Rose,Corail Rose,0,日内瓦城市中心,0.0,0.0,0.0
+烧烤,CHARBONNADE,CHARBONNADE,0,日内瓦城机场,7.1,7.3,7.1
+烧烤,Le Grill Restaurant at Grand Hotel Kempinski,Le Grill Restaurant at Grand Hotel Kempinski,0,日内瓦城市中心,0.0,0.0,0.0
+烧烤,Red Ox Steak House,Red Ox Steak House,0,其他,0.0,0.0,0.0
+烧烤,Les Grillades,Les Grillades,0,日内瓦城市中心,0.0,0.0,0.0
+烧烤,Le Bouchon,Le Bouchon,0,其他,0.0,0.0,0.0
+烧烤,La Lagune,La Lagune,0,其他,0.0,0.0,0.0
+比萨,Luigia,Luigia,0,日内瓦城市中心,0.0,0.0,0.0
+比萨,La Grappe D'or,La Grappe D'or,0,日内瓦城市中心,0.0,0.0,0.0
+比萨,Restaurant-Pizzeria l'Europa,Restaurant-Pizzeria l'Europa,0,日内瓦城市中心,0.0,0.0,0.0
+比萨,Chez Angelo,Chez Angelo,0,其他,0.0,0.0,0.0
+比萨,cafe des augustins geneve,cafe des augustins geneve,0,其他,0.0,0.0,0.0
+比萨,Molino,Molino,0,其他,0.0,0.0,0.0
+比萨,Le Saint Jean,Le Saint Jean,0,其他,0.0,0.0,0.0
+比萨,Domino's Pizza,Domino's Pizza,0,日内瓦城市中心,0.0,0.0,0.0
+咖啡厅,Tea-Room Martel,Tea-Room Martel,0,其他,8.1,7.4,8.1
+咖啡厅,Boreal Coffee Shop,Boreal Coffee Shop,0,日内瓦城市中心,0.0,0.0,0.0
+咖啡厅,The Laughing Teapot,The Laughing Teapot,0,日内瓦城市中心,0.0,0.0,0.0
+咖啡厅,Starbucks Mont-Blanc,Starbucks Mont-Blanc,0,日内瓦城市中心,0.0,0.0,0.0
+咖啡厅,Boulevard du Vin,Boulevard du Vin,0,日内瓦城市中心,0.0,0.0,0.0
+咖啡厅,Les Marronniers,Les Marronniers,0,其他,0.0,0.0,0.0
+咖啡厅,Starbucks Rive,Starbucks Rive,0,日内瓦城市中心,0.0,0.0,0.0
+咖啡厅,Du Rhone,Du Rhone,0,日内瓦城市中心,0.0,0.0,0.0
+咖啡厅,Starbucks Bergues,Starbucks Bergues,0,日内瓦城市中心,0.0,0.0,0.0
+咖啡厅,La Montparnasse,La Montparnasse,0,日内瓦城市中心,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,日内瓦城机场,0.0,0.0,0.0
+咖啡厅,Angoletta,Angoletta,0,其他,0.0,0.0,0.0
+面包甜点,movenpick,movenpick,0,,7.5,7.5,7.5
+面包甜点,AUER,AUER,0,,7.0,6.9,7.0
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,日内瓦城市中心,0.0,0.0,0.0
+面包甜点,Glacier ArtyGlaces,Glacier ArtyGlaces,0,其他,0.0,0.0,0.0
+面包甜点,Creperie des Paquis,Creperie des Paquis,0,日内瓦城市中心,0.0,0.0,0.0
+面包甜点,Celine & Sebastien,Celine & Sebastien,0,日内瓦城市中心,0.0,0.0,0.0
+面包甜点,Creperie St-Pierre,Creperie St-Pierre,0,日内瓦城市中心,0.0,0.0,0.0
+面包甜点,Manu Il Gelato Italiano,Manu Il Gelato Italiano,0,日内瓦城市中心,0.0,0.0,0.0
+面包甜点,Chez Quartier,Chez Quartier,0,日内瓦城市中心,0.0,0.0,0.0
+面包甜点,L'Arlecchino,L'Arlecchino,0,日内瓦城市中心,0.0,0.0,0.0
+面包甜点,Les Mangeurs,Les Mangeurs,0,日内瓦城市中心,0.0,0.0,0.0
+面包甜点,Manu Il Gelato Italiano,Manu Il Gelato Italiano,0,其他,0.0,0.0,0.0
+面包甜点,Muller's Factory,Muller's Factory,0,其他,0.0,0.0,0.0
+面包甜点,Muller's Factory,Muller's Factory,0,其他,0.0,0.0,0.0
+面包甜点,Patisserie Da Favorito,Patisserie Da Favorito,0,日内瓦城市中心,0.0,0.0,0.0
+面包甜点,A. Pougnier,A. Pougnier,0,其他,0.0,0.0,0.0
+面包甜点,Le B d'Armand,Le B d'Armand,0,其他,0.0,0.0,0.0
+面包甜点,La maison du Gateau,La maison du Gateau,0,其他,0.0,0.0,0.0
+面包甜点,"Castricher - Boulangerie, Confiseur","Castricher - Boulangerie, Confiseur",0,其他,0.0,0.0,0.0
+面包甜点,Green Spot,Green Spot,0,其他,0.0,0.0,0.0
+面包甜点,Debi's Kitchen,Debi's Kitchen,0,其他,0.0,0.0,0.0
+面包甜点,Subway,Subway,0,其他,0.0,0.0,0.0
+面包甜点,LADURÉE,LADURÉE,0,日内瓦城市中心,0.0,0.0,0.0
+面包甜点,Pietro Romanengo fu Stefano,Pietro Romanengo fu Stefano,0,,0.0,0.0,0.0
+酒吧,Au Chat Noir,Au Chat Noir,0,其他,8.0,7.4,7.4
+酒吧,Le Comptoir Canaille,Le Comptoir Canaille,0,其他,0.0,0.0,0.0
+酒吧,Le Décanteur,Le Décanteur,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Trilby Restaurant,Trilby Restaurant,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Blue Note,Blue Note,0,其他,0.0,0.0,0.0
+酒吧,Cafe de la Gare,Cafe de la Gare,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Poolgarden Bar,Poolgarden Bar,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Milk Klub,Milk Klub,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,La Petite Reine,La Petite Reine,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Le Socrate,Le Socrate,0,其他,0.0,0.0,0.0
+酒吧,La SIP,La SIP,0,其他,0.0,0.0,0.0
+酒吧,L'atelier cocktail club,L'atelier cocktail club,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Lady Godiva English Pub,Lady Godiva English Pub,0,其他,0.0,0.0,0.0
+酒吧,Le ZN,Le ZN,0,其他,0.0,0.0,0.0
+酒吧,La Fabrique,La Fabrique,0,其他,0.0,0.0,0.0
+酒吧,MasQmenos,MasQmenos,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Les Salons de Théophile,Les Salons de Théophile,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,MaD Geneve,MaD Geneve,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,L'Usine,L'Usine,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,La suite 115,La suite 115,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Silencio,Silencio,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Mr. Pickwick Pub,Mr. Pickwick Pub,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Café Marius,Café Marius,0,其他,0.0,0.0,0.0
+酒吧,le cafe theatre de la comedie,le cafe theatre de la comedie,0,其他,0.0,0.0,0.0
+酒吧,Moa,Moa,0,其他,0.0,0.0,0.0
+酒吧,Cafe de la Frontiere,Cafe de la Frontiere,0,其他,0.0,0.0,0.0
+酒吧,Griffin's Club,Griffin's Club,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Alhambar,Alhambar,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,Post' Cafe,Post' Cafe,0,日内瓦城市中心,0.0,0.0,0.0
+酒吧,The Marco Polo,The Marco Polo,0,日内瓦城机场,0.0,0.0,0.0
+酒吧,Thermos,Thermos,0,其他,0.0,0.0,0.0
+更多美食,N'vY Bar,N'vY Bar,0,日内瓦城市中心,8.4,8.4,8.4
+更多美食,Tsing Tao,Tsing Tao,0,日内瓦城机场,7.3,7.3,7.3
+更多美食,Le Chat-Botte,Le Chat-Botte,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,L'Entrecôte Couronnée,L'Entrecôte Couronnée,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Altitude,Altitude,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Le Comptoir,Le Comptoir,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Woods at The Intercontinental Hotel,Woods at The Intercontinental Hotel,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,L'Adresse,L'Adresse,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,L'Epicentre,L'Epicentre,0,其他,0.0,0.0,0.0
+更多美食,Restaurant de l'Hôtel de la Cigogne,Restaurant de l'Hôtel de la Cigogne,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,El Parador,El Parador,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Au Petit Chalet,Au Petit Chalet,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Brasserie du Molard,Brasserie du Molard,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Sagano,Sagano,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Chez Ma Cousine,Chez Ma Cousine,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,L'Arabesque,L'Arabesque,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,shibata,shibata,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Bayview,Bayview,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Cafe des Sources - Eric Vouriot,Cafe des Sources - Eric Vouriot,0,其他,0.0,0.0,0.0
+更多美食,Cafe Papon,Cafe Papon,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Chez ma cousine,Chez ma cousine,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Eastwest Hotel Restaurant,Eastwest Hotel Restaurant,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Na Village,Na Village,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Leopard Lounge & Bar,Leopard Lounge & Bar,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Chez Nina,Chez Nina,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Umami by Michel Roth,Umami by Michel Roth,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Auberge d'Onex,Auberge d'Onex,0,其他,0.0,0.0,0.0
+更多美食,Cantine des Commercants,Cantine des Commercants,0,其他,0.0,0.0,0.0
+更多美食,Misuji,Misuji,0,其他,0.0,0.0,0.0
+更多美食,Le Bistrot du Boucher,Le Bistrot du Boucher,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Saveurs du Liban,Saveurs du Liban,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Palais des Nations cafeteria,Palais des Nations cafeteria,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Bagatelle,Bagatelle,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le Petit Ocean,Le Petit Ocean,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,5 Lounge Bar Restaurant,5 Lounge Bar Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Le Rouge et Le Blanc,Le Rouge et Le Blanc,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Chez Sami,Chez Sami,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Cafe Restaurant Art's,Cafe Restaurant Art's,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,American Dream,American Dream,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,La caravane passe,La caravane passe,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Kudeta,Kudeta,0,其他,0.0,0.0,0.0
+更多美食,Chez la Voisine,Chez la Voisine,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Bar im Hotel Crown Plaza Geneva,Bar im Hotel Crown Plaza Geneva,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Yo'Mo Lounge,Yo'Mo Lounge,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,WMO Cafeteria,WMO Cafeteria,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Al Narjise Lebanse Cusine,Al Narjise Lebanse Cusine,0,其他,0.0,0.0,0.0
+更多美食,Coop Restaurant Vernier Blandonnet Centre,Coop Restaurant Vernier Blandonnet Centre,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Restaurant Eden,Restaurant Eden,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Willi's Cafe,Willi's Cafe,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,La Romantica,La Romantica,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Chocolaterie de Rive,Chocolaterie de Rive,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le Cygne,Le Cygne,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Pizza&Pasta,Pizza&Pasta,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,日内瓦号蒸汽船,日内瓦号蒸汽船,0,其他,0.0,0.0,0.0
+更多美食,Swiss Bistro,Swiss Bistro,0,其他,0.0,0.0,0.0
+更多美食,La Colombiere,La Colombiere,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Montreux Jazz Cafe,Montreux Jazz Cafe,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le Patio,Le Patio,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Restaurant Les Trois Verres,Restaurant Les Trois Verres,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,le 3 Rive Gauche,le 3 Rive Gauche,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,L'Echalotte,L'Echalotte,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Barraco Chic,Barraco Chic,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Parfums de Beyrouth,Parfums de Beyrouth,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Grizzly,Grizzly,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Le Gruyerien,Le Gruyerien,0,其他,0.0,0.0,0.0
+更多美食,Et Caetera CafeRestaurant,Et Caetera CafeRestaurant,0,其他,0.0,0.0,0.0
+更多美食,Pachacamac,Pachacamac,0,其他,0.0,0.0,0.0
+更多美食,Nonolet,Nonolet,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Bateau Savoie - Philippe Chevrier,Bateau Savoie - Philippe Chevrier,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Snack Libanais,Snack Libanais,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Carnivor Du Centre,Carnivor Du Centre,0,其他,0.0,0.0,0.0
+更多美食,Il Salento,Il Salento,0,其他,0.0,0.0,0.0
+更多美食,Le Mesnil,Le Mesnil,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,La Salle a Manger,La Salle a Manger,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Demi Lune Cafe,Demi Lune Cafe,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Insens geneve,Insens geneve,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Soupcon,Soupcon,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Mango Deck,Mango Deck,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le Lyrique,Le Lyrique,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Planet Caviar,Planet Caviar,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Auer,Auer,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Bon-Vin,Bon-Vin,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,La Crise,La Crise,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Rooftop 42,Rooftop 42,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Sugar Hut,Sugar Hut,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Qibi I Urban Smart Food,Qibi I Urban Smart Food,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Pasta Prima,Pasta Prima,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Bombay Restaurant,Bombay Restaurant,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Pizz'Arte,Pizz'Arte,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le Diwane,Le Diwane,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Les 5 portes,Les 5 portes,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Il Forno a Legna,Il Forno a Legna,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Costa Smeralda,Costa Smeralda,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,La Fontaine,La Fontaine,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,La Chaumiere,La Chaumiere,0,其他,0.0,0.0,0.0
+更多美食,Helveg Cafe,Helveg Cafe,0,其他,0.0,0.0,0.0
+更多美食,Le Vallon,Le Vallon,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Galliano,Restaurante Galliano,0,其他,0.0,0.0,0.0
+更多美食,Le Bistrot Dumas,Le Bistrot Dumas,0,其他,0.0,0.0,0.0
+更多美食,le Paravent bleu,le Paravent bleu,0,其他,0.0,0.0,0.0
+更多美食,Cafe Universal,Cafe Universal,0,其他,0.0,0.0,0.0
+更多美食,Churrascaria Gaucho,Churrascaria Gaucho,0,其他,0.0,0.0,0.0
+更多美食,Au Chat Gourmand,Au Chat Gourmand,0,其他,0.0,0.0,0.0
+更多美食,Tout Simplement et Pas Autrement,Tout Simplement et Pas Autrement,0,其他,0.0,0.0,0.0
+更多美食,Vivel,Vivel,0,其他,0.0,0.0,0.0
+更多美食,Restaurant-Pizzeria La Bella Vita,Restaurant-Pizzeria La Bella Vita,0,其他,0.0,0.0,0.0
+更多美食,Chez Moi,Chez Moi,0,其他,0.0,0.0,0.0
+更多美食,Le Sofra,Le Sofra,0,其他,0.0,0.0,0.0
+更多美食,Al Dar,Al Dar,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Matsu,Restaurant Matsu,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le Reservoir Restaurant & Bar,Le Reservoir Restaurant & Bar,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Espace Jean-Jacques Rousseau,Espace Jean-Jacques Rousseau,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,UneBonneSante,UneBonneSante,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Bistrot des Halles de Rive,Bistrot des Halles de Rive,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Grey Lounge,Grey Lounge,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,La Boheme,La Boheme,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le Paon,Le Paon,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Gastrobio,Gastrobio,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Yvette de Marseille,Yvette de Marseille,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,L'Incontournable,L'Incontournable,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Capocaccia,Capocaccia,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Café des Forces Motrices,Café des Forces Motrices,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Shogun,Shogun,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Riverside Cafe,Riverside Cafe,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le bateau-lavoir,Le bateau-lavoir,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Gelato Mania,Gelato Mania,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,MO Bar,MO Bar,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Ete Comme Hiver,Ete Comme Hiver,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le Jardin des Douceurs,Le Jardin des Douceurs,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,bristol,bristol,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le Paki,Le Paki,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Istanbul Kebab Restaurant,Istanbul Kebab Restaurant,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le Scarface,Le Scarface,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Cafe PanAM,Cafe PanAM,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Nologo,Nologo,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Bar Nobel,Bar Nobel,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Trigal,Trigal,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Aux Deux Portes,Aux Deux Portes,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Oriental Bar,Oriental Bar,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,O Bom Gosto,O Bom Gosto,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Frederic Ducret,Frederic Ducret,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Pizza Presto,Pizza Presto,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Le Blandonnet Pizzeria,Le Blandonnet Pizzeria,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Jardin des Iles,Jardin des Iles,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Cockpit - Canonica Sa,Cockpit - Canonica Sa,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Restaurant Sunset,Restaurant Sunset,0,其他,0.0,0.0,0.0
+更多美食,La Maison D'arare,La Maison D'arare,0,其他,0.0,0.0,0.0
+更多美食,Cafe de la Poste,Cafe de la Poste,0,其他,0.0,0.0,0.0
+更多美食,La Ferme,La Ferme,0,其他,0.0,0.0,0.0
+更多美食,o5,o5,0,其他,0.0,0.0,0.0
+更多美食,Le Grand Bleu Pizzeria,Le Grand Bleu Pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Le Cyrano,Le Cyrano,0,其他,0.0,0.0,0.0
+更多美食,Le VG,Le VG,0,其他,0.0,0.0,0.0
+更多美食,L'Atelier Lounge,L'Atelier Lounge,0,其他,0.0,0.0,0.0
+更多美食,Le vieux martin,Le vieux martin,0,其他,0.0,0.0,0.0
+更多美食,Jules Verne,Jules Verne,0,其他,0.0,0.0,0.0
+更多美食,Samourai,Samourai,0,其他,0.0,0.0,0.0
+更多美食,La Fleur de Champel,La Fleur de Champel,0,其他,0.0,0.0,0.0
+更多美食,Jardin des Crepes,Jardin des Crepes,0,其他,0.0,0.0,0.0
+更多美食,Cafe Kid,Cafe Kid,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Pizzeria Il Pomodoro,Restaurant Pizzeria Il Pomodoro,0,其他,0.0,0.0,0.0
+更多美食,Gelato Mania,Gelato Mania,0,其他,0.0,0.0,0.0
+更多美食,Chez Leung,Chez Leung,0,其他,0.0,0.0,0.0
+更多美食,Soul Food Restaurant and Lounge,Soul Food Restaurant and Lounge,0,其他,0.0,0.0,0.0
+更多美食,Le Liban,Le Liban,0,其他,0.0,0.0,0.0
+更多美食,Passing COLOGNY,Passing COLOGNY,0,其他,0.0,0.0,0.0
+更多美食,El Pueblo,El Pueblo,0,其他,0.0,0.0,0.0
+更多美食,La Suite,La Suite,0,其他,0.0,0.0,0.0
+更多美食,Auberge du Cheval-Blanc,Auberge du Cheval-Blanc,0,其他,0.0,0.0,0.0
+更多美食,Ado (Hotel La Reserve),Ado (Hotel La Reserve),0,其他,0.0,0.0,0.0
+更多美食,Le petit Cafe de la Frontiere,Le petit Cafe de la Frontiere,0,其他,0.0,0.0,0.0
+更多美食,El Safir,El Safir,0,其他,0.0,0.0,0.0
+更多美食,El Rey Bar a Vin,El Rey Bar a Vin,0,其他,0.0,0.0,0.0
+更多美食,La Zinguerie,La Zinguerie,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,L'Ethno,L'Ethno,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Cafe de la Presse,Cafe de la Presse,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,La Bodega,La Bodega,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Dunes Cafe,Dunes Cafe,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,L'Aiglon,L'Aiglon,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Bowling de Meyrin Restaurant,Bowling de Meyrin Restaurant,0,日内瓦城机场,0.0,0.0,0.0
+更多美食,Evordes Country Club Restaurant,Evordes Country Club Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Le Green Café,Le Green Café,0,其他,0.0,0.0,0.0
+更多美食,La Zinguerie,La Zinguerie,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Auberge de Coutance,Auberge de Coutance,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,La Buvette des Bains des Paquis,La Buvette des Bains des Paquis,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Inagiko,Inagiko,0,日内瓦城市中心,0.0,0.0,0.0
+更多美食,Central Perk,Central Perk,0,其他,0.0,0.0,0.0
+更多美食,Contemporain,Contemporain,0,其他,0.0,0.0,0.0

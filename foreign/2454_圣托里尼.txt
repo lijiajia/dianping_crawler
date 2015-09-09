@@ -1,0 +1,298 @@
+意大利菜,Cacio e Pepe,Cacio e Pepe,0,其他,8.3,8.3,8.3
+意大利菜,Sabbia Nera Trattoria,Sabbia Nera Trattoria,0,其他,0.0,0.0,0.0
+意大利菜,Al Fresco,Al Fresco,0,卡马力,0.0,0.0,0.0
+意大利菜,Kapellino,Kapellino,0,伊梅罗韦格利,0.0,0.0,0.0
+意大利菜,Restaurant,Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Mama's House,Mama's House,0,菲拉,8.0,8.0,8.4
+其他西餐,Lotza,Lotza,0,伊亚镇,7.2,7.7,6.9
+其他西餐,Ochre Restaurant,Ochre Restaurant,0,伊亚镇,8.6,8.6,8.6
+其他西餐,Nikolas,Nikolas,0,卡特瑞杜斯,8.1,7.7,7.7
+其他西餐,Salt & Pepper,Salt & Pepper,0,菲拉,7.9,7.3,8.5
+其他西餐,Mama Thira Tavern,Mama Thira Tavern,0,菲拉,7.9,7.5,7.9
+其他西餐,Why Not! Souvlaki,Why Not! Souvlaki,0,其他,8.1,7.6,8.1
+其他西餐,Niki Restaurant,Niki Restaurant,0,其他,7.8,7.6,7.6
+其他西餐,Nick The Grill,Nick The Grill,0,其他,7.0,7.0,7.2
+其他西餐,Mamma Mia's,Mamma Mia's,0,其他,8.5,8.0,8.5
+其他西餐,Tabasco,Tabasco,0,菲拉,7.5,7.5,7.5
+其他西餐,Stani Tavern,Stani Tavern,0,其他,8.1,8.4,7.8
+其他西餐,Sea Side Restaurant,Sea Side Restaurant,0,菲拉,7.2,7.2,7.0
+其他西餐,Greek Souvlaki Karvounaki,Greek Souvlaki Karvounaki,0,其他,7.5,7.3,7.3
+其他西餐,Pyrgos Taverna,Pyrgos Taverna,0,皮尔戈斯,7.2,7.2,7.7
+其他西餐,Sunset Tavern,Sunset Tavern,0,伊亚镇,6.7,7.5,7.5
+其他西餐,Ladokolla,Ladokolla,0,菲拉,8.4,8.4,8.4
+其他西餐,Franco's Bar,Franco's Bar,0,菲拉,7.8,7.8,7.8
+其他西餐,Ammoudi Fish Tavern,Ammoudi Fish Tavern,0,伊亚镇,7.5,8.3,8.3
+其他西餐,Poseidon,Poseidon,0,佩里萨,7.1,7.1,7.1
+其他西餐,Gyroland,Gyroland,0,菲拉,8.0,6.7,7.4
+其他西餐,Idol Restaurant Bar Santorini,Idol Restaurant Bar Santorini,0,菲拉,7.3,7.3,7.3
+其他西餐,Remvi Restaurant Santorini,Remvi Restaurant Santorini,0,菲拉,6.7,7.5,7.5
+其他西餐,Taverna Camille Stefani,Taverna Camille Stefani,0,菲拉,7.6,7.2,7.6
+其他西餐,Volcano Blue,Volcano Blue,0,菲拉,7.5,7.5,7.5
+其他西餐,Franco's Cafe,Franco's Cafe,0,其他,7.5,7.5,7.5
+其他西餐,Chillbox Frozen Yogurt,Chillbox Frozen Yogurt,0,其他,8.2,8.2,8.2
+其他西餐,Stamna Garden Tavern,Stamna Garden Tavern,0,菲拉,7.5,7.2,7.5
+其他西餐,Cafe Galini,Cafe Galini,0,菲拉,7.5,7.5,7.5
+其他西餐,Acropolis,Acropolis,0,佩里萨,7.2,7.2,7.2
+其他西餐,grill house,grill house,0,,7.0,7.0,7.0
+其他西餐,Souvlakia,Souvlakia,0,其他,6.7,6.7,7.5
+其他西餐,Santorini Mou,Santorini Mou,0,伊亚镇,0.0,0.0,0.0
+其他西餐,Armenistis Tavern,Armenistis Tavern,0,莫诺利霍斯,0.0,0.0,0.0
+其他西餐,floga,floga,0,伊亚镇,0.0,0.0,0.0
+其他西餐,Kapari Wine Restaurant,Kapari Wine Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Nichteri,Nichteri,0,其他,0.0,0.0,0.0
+其他西餐,Selene,Selene,0,皮尔戈斯,0.0,0.0,0.0
+其他西餐,Vanilia,Vanilia,0,菲拉,0.0,0.0,0.0
+其他西餐,Strogili Restaurant,Strogili Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Ampelos Greek Restaurant & Wine Bar,Ampelos Greek Restaurant & Wine Bar,0,其他,0.0,0.0,0.0
+其他西餐,Pelekanos,Pelekanos,0,其他,0.0,0.0,0.0
+其他西餐,Terra Nera,Terra Nera,0,佩里萨,0.0,0.0,0.0
+其他西餐,Two Brothers / Ta duo adelfia,Two Brothers / Ta duo adelfia,0,菲拉,0.0,0.0,0.0
+其他西餐,kastro,kastro,0,其他,0.0,0.0,0.0
+其他西餐,Remvi,Remvi,0,其他,0.0,0.0,0.0
+其他西餐,The Dolphins,The Dolphins,0,其他,0.0,0.0,0.0
+其他西餐,Parathiri,Parathiri,0,菲拉,0.0,0.0,0.0
+其他西餐,To Perasma Tou Xoriou,To Perasma Tou Xoriou,0,皮尔戈斯,0.0,0.0,0.0
+其他西餐,Meltemi Bar,Meltemi Bar,0,其他,0.0,0.0,0.0
+其他西餐,Delfinia,Delfinia,0,阿克罗蒂里,0.0,0.0,0.0
+其他西餐,Jerry's Food,Jerry's Food,0,卡特瑞杜斯,0.0,0.0,0.0
+其他西餐,Family Taverna,Family Taverna,0,其他,0.0,0.0,0.0
+其他西餐,Terpsi in Oia,Terpsi in Oia,0,其他,0.0,0.0,0.0
+其他西餐,Avocado Restaurant,Avocado Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Estia Traditional Grill House,Estia Traditional Grill House,0,其他,0.0,0.0,0.0
+其他西餐,Taverna Aeolos,Taverna Aeolos,0,阿克罗蒂里,0.0,0.0,0.0
+其他西餐,Taverna Perigiali,Taverna Perigiali,0,卡马力,0.0,0.0,0.0
+其他西餐,Mario No 1,Mario No 1,0,莫诺利霍斯,0.0,0.0,0.0
+其他西餐,Bagiatiko Food Bar,Bagiatiko Food Bar,0,菲拉,0.0,0.0,0.0
+其他西餐,Taverna Romantica,Taverna Romantica,0,其他,0.0,0.0,0.0
+其他西餐,To Psaraki,To Psaraki,0,维哈达,0.0,0.0,0.0
+其他西餐,The Greeks,The Greeks,0,其他,0.0,0.0,0.0
+其他西餐,Sun set,Sun set,0,伊亚镇,0.0,0.0,0.0
+其他西餐,Dorians Bar,Dorians Bar,0,佩里萨,0.0,0.0,0.0
+其他西餐,Nimeli,Nimeli,0,其他,0.0,0.0,0.0
+其他西餐,Mezzo Cafe,Mezzo Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Hotel Pelagos,Hotel Pelagos,0,伊亚镇,0.0,0.0,0.0
+其他西餐,Wet Stories,Wet Stories,0,菲拉,0.0,0.0,0.0
+其他西餐,Mistral Fish Tavern,Mistral Fish Tavern,0,卡马力,0.0,0.0,0.0
+其他西餐,Fanari Restaurant,Fanari Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Dimitris Ammoudi Taverna,Dimitris Ammoudi Taverna,0,伊亚镇,0.0,0.0,0.0
+其他西餐,Anestis,Anestis,0,伊梅罗韦格利,0.0,0.0,0.0
+其他西餐,Taverna Geromanolis,Taverna Geromanolis,0,梅加罗切利,0.0,0.0,0.0
+其他西餐,Sirocco,Sirocco,0,佩里萨,0.0,0.0,0.0
+其他西餐,Tsipouradiko,Tsipouradiko,0,菲拉,0.0,0.0,0.0
+其他西餐,Poseidon Restaurant,Poseidon Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Sky Lounge,Sky Lounge,0,卡马力,0.0,0.0,0.0
+其他西餐,Taverna Andreas,Taverna Andreas,0,卡马力,0.0,0.0,0.0
+其他西餐,Assyrtico,Assyrtico,0,菲拉,0.0,0.0,0.0
+其他西餐,Tis Pandoras,Tis Pandoras,0,其他,0.0,0.0,0.0
+其他西餐,Alexis taverna,Alexis taverna,0,卡马力,0.0,0.0,0.0
+其他西餐,Taverna - Skaramagas,Taverna - Skaramagas,0,卡特瑞杜斯,0.0,0.0,0.0
+其他西餐,Captain Loizos Fish Restaurant,Captain Loizos Fish Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Kings Cafe Restaurant,Kings Cafe Restaurant,0,卡马力,0.0,0.0,0.0
+其他西餐,Dazur Restaurant Cocktail Bar,Dazur Restaurant Cocktail Bar,0,菲拉,0.0,0.0,0.0
+其他西餐,Giorgaros Restaurant,Giorgaros Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Taverna Roza,Taverna Roza,0,其他,0.0,0.0,0.0
+其他西餐,To Kati Allo,To Kati Allo,0,卡马力,0.0,0.0,0.0
+其他西餐,Splash Cafe-Bar-Restaurant,Splash Cafe-Bar-Restaurant,0,卡马力,0.0,0.0,0.0
+其他西餐,Pleasure Lounge Bar - Restaurant,Pleasure Lounge Bar - Restaurant,0,佩里萨,0.0,0.0,0.0
+其他西餐,Aquarius,Aquarius,0,佩里萨,0.0,0.0,0.0
+其他西餐,The Volcano Restaurant-Taverna,The Volcano Restaurant-Taverna,0,佩里萨,0.0,0.0,0.0
+其他西餐,The Nets Fish Tavern,The Nets Fish Tavern,0,菲拉,0.0,0.0,0.0
+其他西餐,pitogyros,pitogyros,0,其他,0.0,0.0,0.0
+其他西餐,Taverna Sellada,Taverna Sellada,0,其他,0.0,0.0,0.0
+其他西餐,Meteora Restaurant,Meteora Restaurant,0,佩里沃罗,0.0,0.0,0.0
+其他西餐,Tranquilo,Tranquilo,0,安坡里奥,0.0,0.0,0.0
+其他西餐,Taverna Mesa Pigadia,Taverna Mesa Pigadia,0,其他,0.0,0.0,0.0
+其他西餐,O Filippos,O Filippos,0,其他,0.0,0.0,0.0
+其他西餐,Liver Bird Cafe,Liver Bird Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Grandma's Recipes,Grandma's Recipes,0,其他,0.0,0.0,0.0
+其他西餐,Mousiko Kouti,Mousiko Kouti,0,其他,0.0,0.0,0.0
+其他西餐,Inogi,Inogi,0,其他,0.0,0.0,0.0
+其他西餐,Sirtaki Taverna,Sirtaki Taverna,0,菲拉,0.0,0.0,0.0
+其他西餐,Lava Cafe and Bar,Lava Cafe and Bar,0,梅加罗切利,0.0,0.0,0.0
+其他西餐,Ta dichtia,Ta dichtia,0,其他,0.0,0.0,0.0
+其他西餐,Danas Family Tavern,Danas Family Tavern,0,卡马力,0.0,0.0,0.0
+其他西餐,Aris Restaurant,Aris Restaurant,0,菲拉,0.0,0.0,0.0
+其他西餐,Magma City Cafe,Magma City Cafe,0,菲拉,0.0,0.0,0.0
+其他西餐,Finikia,Finikia,0,佩里萨,0.0,0.0,0.0
+其他西餐,Casablanca Lounge Restaurant,Casablanca Lounge Restaurant,0,菲拉,0.0,0.0,0.0
+其他西餐,Restaurant Iris,Restaurant Iris,0,其他,0.0,0.0,0.0
+其他西餐,Syrtaki Restaurant,Syrtaki Restaurant,0,卡马力,0.0,0.0,0.0
+其他西餐,Peros,Peros,0,卡马力,0.0,0.0,0.0
+其他西餐,Y A Z Z. Beach Restaurant,Y A Z Z. Beach Restaurant,0,佩里萨,0.0,0.0,0.0
+其他西餐,Nicholas,Nicholas,0,其他,0.0,0.0,0.0
+其他西餐,"calypso restaurant, Santorini, greece","calypso restaurant, Santorini, greece",0,伊亚镇,0.0,0.0,0.0
+其他西餐,Above & Beyond Restaurant,Above & Beyond Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Zorbas Taverna,Zorbas Taverna,0,卡马力,0.0,0.0,0.0
+其他西餐,Art Cafe,Art Cafe,0,菲拉,0.0,0.0,0.0
+其他西餐,Souvlakia Ta Xalarakia,Souvlakia Ta Xalarakia,0,菲拉,0.0,0.0,0.0
+其他西餐,Traffico,Traffico,0,卡马力,0.0,0.0,0.0
+其他西餐,Restaurant Maria,Restaurant Maria,0,其他,0.0,0.0,0.0
+其他西餐,Kenzo Grill House,Kenzo Grill House,0,佩里萨,0.0,0.0,0.0
+其他西餐,Thiras Ye,Thiras Ye,0,卡马力,0.0,0.0,0.0
+其他西餐,Byzantio Restaurant,Byzantio Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Daphne Restaurant,Daphne Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,The Spring,The Spring,0,其他,0.0,0.0,0.0
+其他西餐,Gyros Time,Gyros Time,0,其他,0.0,0.0,0.0
+其他西餐,Classico,Classico,0,其他,0.0,0.0,0.0
+其他西餐,Captain Dimitri's,Captain Dimitri's,0,其他,0.0,0.0,0.0
+其他西餐,To-Chorio,To-Chorio,0,其他,0.0,0.0,0.0
+其他西餐,The Rakomelo,The Rakomelo,0,其他,0.0,0.0,0.0
+其他西餐,Alismari Taverna,Alismari Taverna,0,其他,0.0,0.0,0.0
+其他西餐,Demi's Bistro,Demi's Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Convivium,Convivium,0,其他,0.0,0.0,0.0
+其他西餐,Caldera Romantica Restaurant,Caldera Romantica Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Santorganics,Santorganics,0,其他,0.0,0.0,0.0
+其他西餐,Aegialos,Aegialos,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Raki,Restaurant Raki,0,梅加罗切利,0.0,0.0,0.0
+其他西餐,Afros,Afros,0,佩里沃罗,0.0,0.0,0.0
+其他西餐,Don & Donna,Don & Donna,0,菲拉,0.0,0.0,0.0
+其他西餐,So Bar So Food,So Bar So Food,0,其他,0.0,0.0,0.0
+其他西餐,Stavros,Stavros,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Del Mar E Sol,Cafe Del Mar E Sol,0,其他,0.0,0.0,0.0
+其他西餐,yamas,yamas,0,其他,0.0,0.0,0.0
+其他西餐,Tzanakis Tavern,Tzanakis Tavern,0,其他,0.0,0.0,0.0
+其他西餐,Kantouni Traditional Cafe,Kantouni Traditional Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Family Taverna,Family Taverna,0,其他,0.0,0.0,0.0
+其他西餐,Fresh Coffee,Fresh Coffee,0,其他,0.0,0.0,0.0
+其他西餐,218⁰ Cafe Restaurant,218⁰ Cafe Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Meet me - Meat Bar Grill House,Meet me - Meat Bar Grill House,0,其他,0.0,0.0,0.0
+其他西餐,Hook Bar,Hook Bar,0,卡马力,0.0,0.0,0.0
+其他西餐,Melina's Tavern,Melina's Tavern,0,其他,0.0,0.0,0.0
+其他西餐,Kastelli,Kastelli,0,其他,0.0,0.0,0.0
+其他西餐,Blue Note,Blue Note,0,其他,0.0,0.0,0.0
+其他西餐,Balcony Taverna,Balcony Taverna,0,其他,0.0,0.0,0.0
+其他西餐,Family Taverna,Family Taverna,0,其他,0.0,0.0,0.0
+其他西餐,Atlantis,Atlantis,0,其他,0.0,0.0,0.0
+其他西餐,Dimitris,Dimitris,0,其他,0.0,0.0,0.0
+其他西餐,Taverna Delfini,Taverna Delfini,0,其他,0.0,0.0,0.0
+其他西餐,Alonakia,Alonakia,0,其他,0.0,0.0,0.0
+其他西餐,Caspiri,Caspiri,0,其他,0.0,0.0,0.0
+其他西餐,Skaramangas,Skaramangas,0,其他,0.0,0.0,0.0
+其他西餐,OIKOS Taverna,OIKOS Taverna,0,其他,0.0,0.0,0.0
+其他西餐,Nikos Place Gril House,Nikos Place Gril House,0,其他,0.0,0.0,0.0
+其他西餐,Minori Restaurant,Minori Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Hausbrandt,Cafe Hausbrandt,0,其他,0.0,0.0,0.0
+其他西餐,Giorgoros Tavern,Giorgoros Tavern,0,其他,0.0,0.0,0.0
+其他西餐,Savvas popeye,Savvas popeye,0,其他,0.0,0.0,0.0
+其他西餐,Juttas Biergarten,Juttas Biergarten,0,其他,0.0,0.0,0.0
+其他西餐,NoBlu Meal & Wine,NoBlu Meal & Wine,0,其他,0.0,0.0,0.0
+其他西餐,Aidani,Aidani,0,其他,0.0,0.0,0.0
+其他西餐,Vitrin Cafe-Creperie,Vitrin Cafe-Creperie,0,菲拉,0.0,0.0,0.0
+其他西餐,Espresso Cafe,Espresso Cafe,0,菲拉,0.0,0.0,0.0
+其他西餐,Poldo,Poldo,0,菲拉,0.0,0.0,0.0
+其他西餐,Panoramic restaurant,Panoramic restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Theros Beach Bar,Theros Beach Bar,0,其他,0.0,0.0,0.0
+其他西餐,Rivas,Rivas,0,佩里沃罗,0.0,0.0,0.0
+其他西餐,Tavern Limanaki,Tavern Limanaki,0,其他,0.0,0.0,0.0
+其他西餐,The Tastes of Greece,The Tastes of Greece,0,其他,0.0,0.0,0.0
+其他西餐,Nefeles,Nefeles,0,其他,0.0,0.0,0.0
+其他西餐,Rocka Cafe Bar,Rocka Cafe Bar,0,其他,0.0,0.0,0.0
+其他西餐,Akrobalena,Akrobalena,0,菲拉,0.0,0.0,0.0
+其他西餐,Spiliotica,Spiliotica,0,伊梅罗韦格利,0.0,0.0,0.0
+其他西餐,Ammoudi Fish Restaurant,Ammoudi Fish Restaurant,0,伊亚镇,0.0,0.0,0.0
+其他西餐,Papagalos Restaurant,Papagalos Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Ya mas,Ya mas,0,卡马力,0.0,0.0,0.0
+其他西餐,Ancient Thera,Ancient Thera,0,佩里萨,0.0,0.0,0.0
+其他西餐,Castro,Castro,0,伊亚镇,0.0,0.0,0.0
+其他西餐,Parea Tavern,Parea Tavern,0,菲拉,0.0,0.0,0.0
+其他西餐,Nectar and Ambrosia,Nectar and Ambrosia,0,其他,0.0,0.0,0.0
+其他西餐,Aphrodite,Aphrodite,0,其他,0.0,0.0,0.0
+其他西餐,Kaluva tou Kaluva,Kaluva tou Kaluva,0,其他,0.0,0.0,0.0
+其他西餐,Dorian's Pub,Dorian's Pub,0,其他,0.0,0.0,0.0
+其他西餐,NYCHTERI,NYCHTERI,0,其他,0.0,0.0,0.0
+其他西餐,Perasma Cafe Restaurant,Perasma Cafe Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Loco Loco,Loco Loco,0,其他,0.0,0.0,0.0
+其他西餐,Nicholas Restaurant,Nicholas Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Dolphins Fish Taverna,Dolphins Fish Taverna,0,其他,0.0,0.0,0.0
+其他西餐,KoyToyki,KoyToyki,0,其他,0.0,0.0,0.0
+其他西餐,Skaramagas,Skaramagas,0,其他,0.0,0.0,0.0
+其他西餐,La Plaza,La Plaza,0,其他,0.0,0.0,0.0
+其他西餐,La Plaza,La Plaza,0,其他,0.0,0.0,0.0
+其他西餐,Acrobaleno Restaurant,Acrobaleno Restaurant,0,其他,0.0,0.0,0.0
+中餐,溢香居,溢香居,74,菲拉,9.2,9.1,9.2
+中餐,Asia Club 食坊,Asia Club 食坊,0,,7.6,7.6,7.8
+中餐,溢香园,溢香园,0,卡特瑞杜斯,8.4,8.7,8.7
+中餐,Kiwi,Kiwi,0,,8.5,8.5,8.5
+日韩料理,Paradox Thai Food & Bar,Paradox Thai Food & Bar,0,其他,6.8,6.8,7.2
+更多亚洲菜,Visanto Restaurant,Visanto Restaurant,0,佩里萨,0.0,0.0,0.0
+快餐简餐,mama'house,mama'house,154,伊梅罗韦格利,7.2,7.3,7.4
+快餐简餐,Mama's House,Mama's House,0,菲拉,8.0,8.0,8.4
+快餐简餐,Senor Zorba,Senor Zorba,0,其他,0.0,0.0,0.0
+快餐简餐,Jo Jo's Beach Bar,Jo Jo's Beach Bar,0,其他,0.0,0.0,0.0
+快餐简餐,tropical bar,tropical bar,0,其他,0.0,0.0,0.0
+海鲜,blue sky restaurant - cafe,blue sky restaurant - cafe,0,,5.8,6.3,5.8
+海鲜,Dimitri's at Amoudi Bay,Dimitri's at Amoudi Bay,0,伊亚镇,0.0,0.0,0.0
+海鲜,Albatross Beach Club,Albatross Beach Club,0,其他,0.0,0.0,0.0
+海鲜,Stis Varkes,Stis Varkes,0,其他,0.0,0.0,0.0
+海鲜,Captain Antonis,Captain Antonis,0,其他,0.0,0.0,0.0
+烧烤,Summer Time,Summer Time,0,菲拉,0.0,0.0,0.0
+烧烤,O'Mezes Grill House,O'Mezes Grill House,0,其他,0.0,0.0,0.0
+咖啡厅,cafe classico,cafe classico,0,,0.0,0.0,0.0
+咖啡厅,The Pure Coffee Bar,The Pure Coffee Bar,0,菲拉,0.0,0.0,0.0
+咖啡厅,Kings Cafe Restaurant,Kings Cafe Restaurant,0,卡马力,0.0,0.0,0.0
+咖啡厅,Elixir Cafe Bar Restaurant,Elixir Cafe Bar Restaurant,0,卡马力,0.0,0.0,0.0
+咖啡厅,Magma City Cafe,Magma City Cafe,0,菲拉,0.0,0.0,0.0
+咖啡厅,Kastro,Kastro,0,其他,0.0,0.0,0.0
+咖啡厅,Porto Carra Hotel Cafe,Porto Carra Hotel Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Taxidi,Taxidi,0,其他,0.0,0.0,0.0
+咖啡厅,Istros cafe,Istros cafe,0,,6.9,6.9,6.9
+咖啡厅,Blue Palace Bar,Blue Palace Bar,0,佩里萨,0.0,0.0,0.0
+咖啡厅,广屿的窝,广屿的窝,0,菲拉,0.0,0.0,0.0
+面包甜点,to-steki,to-steki,0,,6.9,6.9,6.9
+面包甜点,''Chocolat'' Creperie - Pasteria - Cafe,''Chocolat'' Creperie - Pasteria - Cafe,0,佩里萨,0.0,0.0,0.0
+面包甜点,Elixir Cafe Bar Restaurant,Elixir Cafe Bar Restaurant,0,卡马力,0.0,0.0,0.0
+酒吧,lucky s souvalaki,lucky s souvalaki,0,菲拉,0.0,0.0,0.0
+酒吧,V Lounge Cafe & Cocktail Bar,V Lounge Cafe & Cocktail Bar,0,其他,0.0,0.0,0.0
+酒吧,Tango Bar,Tango Bar,0,菲拉,0.0,0.0,0.0
+酒吧,Cyclades Tavern Restaurant,Cyclades Tavern Restaurant,0,其他,0.0,0.0,0.0
+酒吧,Love Boat Bar,Love Boat Bar,0,卡马力,0.0,0.0,0.0
+酒吧,Groove Bar Kamari,Groove Bar Kamari,0,其他,0.0,0.0,0.0
+酒吧,Town Club,Town Club,0,菲拉,0.0,0.0,0.0
+酒吧,Bob's Bar,Bob's Bar,0,佩里萨,0.0,0.0,0.0
+酒吧,Silia Pool Bar,Silia Pool Bar,0,其他,0.0,0.0,0.0
+酒吧,Rocka Cafe Imerovigli,Rocka Cafe Imerovigli,0,其他,0.0,0.0,0.0
+酒吧,Two Brothers Bar,Two Brothers Bar,0,其他,0.0,0.0,0.0
+酒吧,Bel Air Lounge,Bel Air Lounge,0,其他,0.0,0.0,0.0
+酒吧,The Lazy Lizard,The Lazy Lizard,0,佩里萨,0.0,0.0,0.0
+更多美食,Lithos,Lithos,0,菲拉,7.1,7.5,7.5
+更多美食,Alkyona Sunset,Alkyona Sunset,0,伊亚镇,6.5,6.2,5.6
+更多美食,Onar Cafe & Wine Bar,Onar Cafe & Wine Bar,0,其他,7.5,7.5,7.5
+更多美食,Roka,Roka,0,伊亚镇,8.4,8.4,7.5
+更多美食,Taverna Lolos,Taverna Lolos,0,菲拉,0.0,0.0,0.0
+更多美食,Ginger Sushi Lounge,Ginger Sushi Lounge,0,菲拉,0.0,0.0,0.0
+更多美食,Red Bicycle,Red Bicycle,0,伊亚镇,0.0,0.0,0.0
+更多美食,SPHINX Restaurant,SPHINX Restaurant,0,菲拉,0.0,0.0,0.0
+更多美食,Elia,Elia,0,其他,0.0,0.0,0.0
+更多美食,I Avli The Courtyard,I Avli The Courtyard,0,其他,0.0,0.0,0.0
+更多美食,Finikia's Place Restaurant,Finikia's Place Restaurant,0,伊亚镇,0.0,0.0,0.0
+更多美食,Melenio Cafe,Melenio Cafe,0,其他,0.0,0.0,0.0
+更多美食,Louis Restaurant,Louis Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Bekris,Bekris,0,卡马力,0.0,0.0,0.0
+更多美食,Katerina's Traditional Restaurant,Katerina's Traditional Restaurant,0,卡特瑞杜斯,0.0,0.0,0.0
+更多美食,Crepe Academy,Crepe Academy,0,其他,0.0,0.0,0.0
+更多美食,Skaramagas,Skaramagas,0,卡马力,0.0,0.0,0.0
+更多美食,Aigaion Irish pub,Aigaion Irish pub,0,卡马力,0.0,0.0,0.0
+更多美食,Saliveros,Saliveros,0,卡马力,0.0,0.0,0.0
+更多美食,Aqua Beach Restaurant,Aqua Beach Restaurant,0,佩里萨,0.0,0.0,0.0
+更多美食,Remezzo,Remezzo,0,其他,0.0,0.0,0.0
+更多美食,To Eteki,To Eteki,0,其他,0.0,0.0,0.0
+更多美食,Dolphins Beach Bar and Restaurant,Dolphins Beach Bar and Restaurant,0,卡马力,0.0,0.0,0.0
+更多美食,Kira Niki,Kira Niki,0,其他,0.0,0.0,0.0
+更多美食,Volcano Taverna,Volcano Taverna,0,其他,0.0,0.0,0.0
+更多美食,Akis Bar,Akis Bar,0,卡马力,0.0,0.0,0.0
+更多美食,Cambia Beach,Cambia Beach,0,其他,0.0,0.0,0.0
+更多美食,selatrevo Greek Frozen Yogurt,selatrevo Greek Frozen Yogurt,0,其他,0.0,0.0,0.0
+更多美食,Yazz Beach Bar Restaurant,Yazz Beach Bar Restaurant,0,佩里萨,0.0,0.0,0.0
+更多美食,Pergola,Pergola,0,其他,0.0,0.0,0.0
+更多美食,Kellys Beach Bar,Kellys Beach Bar,0,其他,0.0,0.0,0.0
+更多美食,Mpoukia kai Syxwrio Traditional Restaurant,Mpoukia kai Syxwrio Traditional Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Atlantida Barbeque Restaurant,Atlantida Barbeque Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Häagen Dazs,Häagen Dazs,0,其他,0.0,0.0,0.0
+更多美食,Arvaniti Kyriaki E. Bakeries,Arvaniti Kyriaki E. Bakeries,0,其他,0.0,0.0,0.0
+更多美食,Palea Orihia,Palea Orihia,0,其他,0.0,0.0,0.0
+更多美食,TA Dixtya,TA Dixtya,0,佩里沃罗,0.0,0.0,0.0
+更多美食,Strogili,Strogili,0,菲拉,0.0,0.0,0.0
+更多美食,Ramaya Restaurant Bar,Ramaya Restaurant Bar,0,其他,0.0,0.0,0.0
+更多美食,Saltsa,Saltsa,0,其他,0.0,0.0,0.0
+更多美食,Sea View,Sea View,0,其他,0.0,0.0,0.0
+更多美食,Flame of the Volcano,Flame of the Volcano,0,菲拉,0.0,0.0,0.0

@@ -1,0 +1,1138 @@
+意大利菜,Scampino,Scampino,0,米尔海姆,7.6,7.1,7.1
+意大利菜,Osman 30,Osman 30,0,科隆市中心,7.4,7.4,7.4
+意大利菜,La Tagliatella,La Tagliatella,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Zippiri Gourmetwerkstatt & Wein-Bar,Zippiri Gourmetwerkstatt & Wein-Bar,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Pasta Bar,Pasta Bar,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Rossini,Rossini,0,科隆市中心,0.0,0.0,0.0
+意大利菜,XII Apostel Koln,XII Apostel Koln,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Marcellino,Marcellino,0,米尔海姆,0.0,0.0,0.0
+意大利菜,Pizzeria Piccola L'Originale,Pizzeria Piccola L'Originale,0,科隆埃伦费尔德区,0.0,0.0,0.0
+意大利菜,Mercato Deluxe,Mercato Deluxe,0,科隆市中心,0.0,0.0,0.0
+意大利菜,L'Assaggio,L'Assaggio,0,其他,0.0,0.0,0.0
+意大利菜,Casa Nuova,Casa Nuova,0,其他,0.0,0.0,0.0
+意大利菜,Zucchini,Zucchini,0,米尔海姆,0.0,0.0,0.0
+意大利菜,Ristorante Parmigiano,Ristorante Parmigiano,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Pizzeria Palazzo,Pizzeria Palazzo,0,米尔海姆,0.0,0.0,0.0
+意大利菜,Pizzeria Grande Milano,Pizzeria Grande Milano,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Da Tullio,Da Tullio,0,其他,0.0,0.0,0.0
+意大利菜,San Remo,San Remo,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Pizzeria Ciao Salvatore,Pizzeria Ciao Salvatore,0,科隆市中心,0.0,0.0,0.0
+意大利菜,La Baia D'oro,La Baia D'oro,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Collina's,Collina's,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Enoteca La Cantina,Enoteca La Cantina,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Pizza Pasta e Basta,Pizza Pasta e Basta,0,林登索尔,0.0,0.0,0.0
+意大利菜,Fellini,Fellini,0,林登索尔,0.0,0.0,0.0
+意大利菜,Etrusca,Etrusca,0,林登索尔,0.0,0.0,0.0
+意大利菜,Caminetto,Caminetto,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Eis Caffe TOTO,Eis Caffe TOTO,0,科隆市中心,0.0,0.0,0.0
+意大利菜,La Gustosa,La Gustosa,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Sant' Angelo - Bar & Trattoria,Sant' Angelo - Bar & Trattoria,0,科隆市中心,0.0,0.0,0.0
+意大利菜,L'Accento,L'Accento,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Ristorante Il Carpaccio,Ristorante Il Carpaccio,0,科隆市中心,0.0,0.0,0.0
+意大利菜,La Piazzetta,La Piazzetta,0,科隆市中心,0.0,0.0,0.0
+意大利菜,L'Osteria Pizza E Pasta,L'Osteria Pizza E Pasta,0,科隆市中心,0.0,0.0,0.0
+意大利菜,4 Cani,4 Cani,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Bella Italia,Bella Italia,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Alfredo,Alfredo,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Il mezzogiorno,Il mezzogiorno,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Eiscafe Raffaello Pin,Eiscafe Raffaello Pin,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Trattoria Casa di Modica,Trattoria Casa di Modica,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Montanara,Montanara,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Trattoria Bennyssimo,Trattoria Bennyssimo,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Koln,Koln,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Lo Sfizio,Lo Sfizio,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Trattoria Bar Celentano,Trattoria Bar Celentano,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Fioretto,Fioretto,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Cucina di Rosa,Cucina di Rosa,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Ristorante Antica Roma,Ristorante Antica Roma,0,波尔斯,0.0,0.0,0.0
+意大利菜,Ristorante Ischia,Ristorante Ischia,0,卡尔克,0.0,0.0,0.0
+意大利菜,Il Valentino,Il Valentino,0,卡尔克,0.0,0.0,0.0
+意大利菜,Salute,Salute,0,林登索尔,0.0,0.0,0.0
+意大利菜,Distinto,Distinto,0,林登索尔,0.0,0.0,0.0
+意大利菜,Pizzeria Da Franco,Pizzeria Da Franco,0,尼佩斯,0.0,0.0,0.0
+意大利菜,La Cena,La Cena,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Rosticceria Massimo,Rosticceria Massimo,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Cubana Bar,Cubana Bar,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Grande Milano,Grande Milano,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Im Schofchen,Im Schofchen,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Maca-Ronni,Maca-Ronni,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Grande Italia,Grande Italia,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Eiscafe Stella Doro,Eiscafe Stella Doro,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Da Pino,Da Pino,0,科隆市中心,0.0,0.0,0.0
+意大利菜,V!A Bene,V!A Bene,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Buon Giorno,Buon Giorno,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Da Luigi,Da Luigi,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Culinarius,Culinarius,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Il Forno,Il Forno,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Bistro Trattoria La Torre,Bistro Trattoria La Torre,0,科隆市中心,0.0,0.0,0.0
+意大利菜,La Vita,La Vita,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Natuzzi Café,Natuzzi Café,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Sansone Due,Sansone Due,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Ristorante Botticelli,Ristorante Botticelli,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Luciano Il Ristorante,Luciano Il Ristorante,0,科隆市中心,0.0,0.0,0.0
+意大利菜,La Dolce Vita,La Dolce Vita,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Da Enzo,Da Enzo,0,米尔海姆,0.0,0.0,0.0
+意大利菜,Il Rustico,Il Rustico,0,米尔海姆,0.0,0.0,0.0
+意大利菜,Imperium Steakhaus,Imperium Steakhaus,0,波尔斯,0.0,0.0,0.0
+意大利菜,Cafe Bistro Primo Piano,Cafe Bistro Primo Piano,0,其他,0.0,0.0,0.0
+意大利菜,La Stella,La Stella,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Il Valentino,Ristorante Il Valentino,0,其他,0.0,0.0,0.0
+意大利菜,Palladio Cafe,Palladio Cafe,0,其他,0.0,0.0,0.0
+意大利菜,Del Bajazzo,Del Bajazzo,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Gelateria Perino,Trattoria Gelateria Perino,0,卡尔克,0.0,0.0,0.0
+意大利菜,Pizzeria Il Futuro,Pizzeria Il Futuro,0,卡尔克,0.0,0.0,0.0
+意大利菜,Filippo Nisi,Filippo Nisi,0,林登索尔,0.0,0.0,0.0
+意大利菜,Stuzzichino,Stuzzichino,0,林登索尔,0.0,0.0,0.0
+意大利菜,Novello,Novello,0,林登索尔,0.0,0.0,0.0
+意大利菜,Ars Vivendi,Ars Vivendi,0,林登索尔,0.0,0.0,0.0
+意大利菜,vini diretti Caffe & Weinbar,vini diretti Caffe & Weinbar,0,林登索尔,0.0,0.0,0.0
+意大利菜,Eupener Hof,Eupener Hof,0,林登索尔,0.0,0.0,0.0
+意大利菜,Pizzeria-Ristorante Mare E Monti,Pizzeria-Ristorante Mare E Monti,0,林登索尔,0.0,0.0,0.0
+意大利菜,Giovanni's Ristorante & Pizzeria,Giovanni's Ristorante & Pizzeria,0,尼佩斯,0.0,0.0,0.0
+意大利菜,Da Enzo,Da Enzo,0,尼佩斯,0.0,0.0,0.0
+意大利菜,Amoroso,Amoroso,0,科隆埃伦费尔德区,0.0,0.0,0.0
+意大利菜,Bayenthaler Grill & Pizzeria,Bayenthaler Grill & Pizzeria,0,Raderberg,0.0,0.0,0.0
+意大利菜,La Grotta,La Grotta,0,科隆Chorweiler区,0.0,0.0,0.0
+意大利菜,Ristorante Arlecchino,Ristorante Arlecchino,0,其他,0.0,0.0,0.0
+意大利菜,Peperoni Pizza Pasta Bar,Peperoni Pizza Pasta Bar,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Ludari,Ludari,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Casa di Biase,Casa di Biase,0,科隆市中心,0.0,0.0,0.0
+意大利菜,La vecchia Trattoria,La vecchia Trattoria,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Italia,Ristorante Pizzeria Italia,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Trattorio Palermo da Salvatore,Trattorio Palermo da Salvatore,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Quattro Cavalli,Quattro Cavalli,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Ristorante Ramazzotti,Ristorante Ramazzotti,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Cosa Nostra,Cosa Nostra,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Il Cancello,Il Cancello,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Pizza E Pasta,Pizza E Pasta,0,林登索尔,0.0,0.0,0.0
+意大利菜,La Locanda,La Locanda,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Pinot De Pinot,Pinot De Pinot,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Pan e Vin,Pan e Vin,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Amato Mio,Amato Mio,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Campi im Funkhaus,Campi im Funkhaus,0,科隆市中心,0.0,0.0,0.0
+意大利菜,Da Massimo,Da Massimo,0,林登索尔,0.0,0.0,0.0
+法国菜,Osman 30,Osman 30,0,科隆市中心,7.4,7.4,7.4
+法国菜,Bistrot B,Bistrot B,0,科隆市中心,0.0,0.0,0.0
+法国菜,Amabile,Amabile,0,科隆市中心,0.0,0.0,0.0
+法国菜,Maison Blue,Maison Blue,0,科隆市中心,0.0,0.0,0.0
+法国菜,Le Moissonnier,Le Moissonnier,0,科隆市中心,0.0,0.0,0.0
+法国菜,Bado La Poele D or,Bado La Poele D or,0,科隆市中心,0.0,0.0,0.0
+法国菜,La Societe,La Societe,0,科隆市中心,0.0,0.0,0.0
+法国菜,Brasserie Fou,Brasserie Fou,0,科隆市中心,0.0,0.0,0.0
+法国菜,Belgischer Hof,Belgischer Hof,0,科隆市中心,0.0,0.0,0.0
+法国菜,Oyster,Oyster,0,科隆市中心,0.0,0.0,0.0
+法国菜,Le Coq,Le Coq,0,米尔海姆,0.0,0.0,0.0
+法国菜,Heising & Adelmann,Heising & Adelmann,0,米尔海姆,0.0,0.0,0.0
+法国菜,Brauhaus Goldener Pflug,Brauhaus Goldener Pflug,0,卡尔克,0.0,0.0,0.0
+法国菜,Le Bistrot 99,Le Bistrot 99,0,林登索尔,0.0,0.0,0.0
+法国菜,Capricorn i Aries,Capricorn i Aries,0,科隆市中心,0.0,0.0,0.0
+法国菜,Dr. Wackes,Dr. Wackes,0,科隆市中心,0.0,0.0,0.0
+法国菜,Restaurant Petite France,Restaurant Petite France,0,林登索尔,0.0,0.0,0.0
+法国菜,Gustav-Eck,Gustav-Eck,0,林登索尔,0.0,0.0,0.0
+法国菜,Le Bouffon - Epicerie Fine - Anja Krips,Le Bouffon - Epicerie Fine - Anja Krips,0,林登索尔,0.0,0.0,0.0
+法国菜,Maitre im Landhaus Kuckuck,Maitre im Landhaus Kuckuck,0,林登索尔,0.0,0.0,0.0
+法国菜,Im Rosenstock,Im Rosenstock,0,尼佩斯,0.0,0.0,0.0
+法国菜,AU CHIMPANZÉ,AU CHIMPANZÉ,0,科隆埃伦费尔德区,0.0,0.0,0.0
+法国菜,Epicerie Boucherie,Epicerie Boucherie,0,科隆市中心,0.0,0.0,0.0
+法国菜,W Restaurant,W Restaurant,0,科隆市中心,0.0,0.0,0.0
+法国菜,Alter Wartesaal,Alter Wartesaal,0,其他,0.0,0.0,0.0
+法国菜,Aborylang,Aborylang,0,科隆市中心,0.0,0.0,0.0
+墨西哥菜,Maggiano's,Maggiano's,0,科隆市中心,0.0,0.0,0.0
+墨西哥菜,Sausalitos,Sausalitos,0,科隆市中心,0.0,0.0,0.0
+墨西哥菜,Barrios,Barrios,0,科隆市中心,0.0,0.0,0.0
+墨西哥菜,Cafe Especial,Cafe Especial,0,科隆市中心,0.0,0.0,0.0
+墨西哥菜,Cantina Mexicana,Cantina Mexicana,0,科隆市中心,0.0,0.0,0.0
+墨西哥菜,Cantina Conchita,Cantina Conchita,0,其他,0.0,0.0,0.0
+墨西哥菜,Coco Pancho,Coco Pancho,0,卡尔克,0.0,0.0,0.0
+墨西哥菜,El Gato,El Gato,0,科隆市中心,0.0,0.0,0.0
+墨西哥菜,Restaurant Maggioanos,Restaurant Maggioanos,0,科隆市中心,0.0,0.0,0.0
+墨西哥菜,El Chico,El Chico,0,林登索尔,0.0,0.0,0.0
+其他西餐,Gaffel am Dom,Gaffel am Dom,0,科隆市中心,8.6,8.7,8.7
+其他西餐,Haxenhaus zum Rheingarten,Haxenhaus zum Rheingarten,0,科隆市中心,7.5,7.5,7.5
+其他西餐,Frueh am Dom,Frueh am Dom,0,科隆市中心,8.2,8.2,8.2
+其他西餐,El Chango,El Chango,0,科隆市中心,8.3,6.7,6.7
+其他西餐,Maredo,Maredo,0,科隆市中心,6.7,7.4,7.4
+其他西餐,Bierhaus en d'r Salzgass,Bierhaus en d'r Salzgass,0,科隆市中心,7.5,7.5,7.5
+其他西餐,Weinhaus Vogel,Weinhaus Vogel,0,科隆市中心,7.1,7.1,7.1
+其他西餐,Das kleine Steakhaus,Das kleine Steakhaus,0,科隆市中心,7.4,7.4,6.7
+其他西餐,The Grill,The Grill,0,科隆市中心,6.8,6.8,6.8
+其他西餐,Lommerzheim,Lommerzheim,0,科隆市中心,0.0,0.0,0.0
+其他西餐,GASTSTAETTE IM MARIENGARTEN,GASTSTAETTE IM MARIENGARTEN,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Basilicum,Basilicum,0,科隆市中心,0.0,0.0,0.0
+其他西餐,BierHaus am Rhein,BierHaus am Rhein,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Steakhouse Royal,Steakhouse Royal,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Brauhaus Putz,Brauhaus Putz,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Brauerei zur Malzmuehle,Brauerei zur Malzmuehle,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Gilden im Zims,Gilden im Zims,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Steakhouse Ponchos,Steakhouse Ponchos,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Restaurant Konrad,Restaurant Konrad,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Dom Im Stapelhaus,Dom Im Stapelhaus,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Paeffgen,Paeffgen,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Limani,Limani,0,科隆市中心,0.0,0.0,0.0
+其他西餐,HASE,HASE,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Brauhaus Sunner im Walfisch,Brauhaus Sunner im Walfisch,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Brauhaus ohne Namen,Brauhaus ohne Namen,0,波尔斯,0.0,0.0,0.0
+其他西餐,Brauhaus Reissdorf,Brauhaus Reissdorf,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Pantanal Rodizio,Pantanal Rodizio,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Oma's Kuche,Oma's Kuche,0,科隆市中心,0.0,0.0,0.0
+其他西餐,"Restaurant Brucken, Cologne","Restaurant Brucken, Cologne",0,科隆市中心,0.0,0.0,0.0
+其他西餐,Gaststatte Lederer,Gaststatte Lederer,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Latino Cubana,Latino Cubana,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Reissdorf am Hahnentor,Reissdorf am Hahnentor,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Heumarkt,Heumarkt,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Rheinterrassen,Rheinterrassen,0,科隆市中心,0.0,0.0,0.0
+其他西餐,KLAAF Bistro & Restaurant,KLAAF Bistro & Restaurant,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Gaffel-Haus,Gaffel-Haus,0,尼佩斯,0.0,0.0,0.0
+其他西餐,Restaurant - Cafe Sankt Petersburg,Restaurant - Cafe Sankt Petersburg,0,其他,0.0,0.0,0.0
+其他西餐,Haus Robinson,Haus Robinson,0,尼佩斯,0.0,0.0,0.0
+其他西餐,Deutzer Fischhaus,Deutzer Fischhaus,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Gasthaus Goldenes Fass,Gasthaus Goldenes Fass,0,米尔海姆,0.0,0.0,0.0
+其他西餐,SPITZ,SPITZ,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Cafe Reichard,Cafe Reichard,0,科隆市中心,0.0,0.0,0.0
+其他西餐,La Bodega Tapas Bar,La Bodega Tapas Bar,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Jameson Distillery Pub and Restaurant,Jameson Distillery Pub and Restaurant,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Schreckenskammer,Schreckenskammer,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Beef Brothers,Beef Brothers,0,波尔斯,0.0,0.0,0.0
+其他西餐,Plomari,Plomari,0,林登索尔,0.0,0.0,0.0
+其他西餐,Gaststaette Bei Oma Kleinmann,Gaststaette Bei Oma Kleinmann,0,林登索尔,0.0,0.0,0.0
+其他西餐,Tapeo Picus,Tapeo Picus,0,林登索尔,0.0,0.0,0.0
+其他西餐,Die Fette Kuh,Die Fette Kuh,0,科隆市中心,0.0,0.0,0.0
+其他西餐,La Barra,La Barra,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Bell Arte,Bell Arte,0,科隆市中心,0.0,0.0,0.0
+其他西餐,LyLy,LyLy,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Cafe Central,Cafe Central,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Brauhaus-Muhlenkosch,Brauhaus-Muhlenkosch,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Bei dr Tant,Bei dr Tant,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Villa Mat­hilde,Villa Mat­hilde,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Antk Brauhaus Sion-Braeues,Antk Brauhaus Sion-Braeues,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Keule,Keule,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Toro Negro,Toro Negro,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Candia Koln,Candia Koln,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Staendige Vertretung,Staendige Vertretung,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Kleine Glocke,Kleine Glocke,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Neideck Bistro Restaurant,Neideck Bistro Restaurant,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Bieresel,Bieresel,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Cafe Printen Schmitz,Cafe Printen Schmitz,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Slavia,Slavia,0,科隆市中心,0.0,0.0,0.0
+其他西餐,PEPE,PEPE,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Em Krutzche,Em Krutzche,0,科隆市中心,0.0,0.0,0.0
+其他西餐,maiBeck,maiBeck,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Maracana Rodizio,Maracana Rodizio,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Tapas Y Tapas,Tapas Y Tapas,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Zimmermann's,Zimmermann's,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Freddy Schilling Die Hamburger Manufaktur,Freddy Schilling Die Hamburger Manufaktur,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Cafe Schmitz,Cafe Schmitz,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Meersalz,Meersalz,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Flogaus,Flogaus,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Nada,Nada,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Wein Und Dine,Wein Und Dine,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Zum Treppchen,Zum Treppchen,0,波尔斯,0.0,0.0,0.0
+其他西餐,Alt Strunden,Alt Strunden,0,其他,0.0,0.0,0.0
+其他西餐,Diogenis,Diogenis,0,林登索尔,0.0,0.0,0.0
+其他西餐,Lindental,Lindental,0,林登索尔,0.0,0.0,0.0
+其他西餐,Bar im Hotel Regent,Bar im Hotel Regent,0,林登索尔,0.0,0.0,0.0
+其他西餐,Rosenrot,Rosenrot,0,尼佩斯,0.0,0.0,0.0
+其他西餐,Haus Scholzen,Haus Scholzen,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Meer sehen,Meer sehen,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Selam,Selam,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Der Goldfisch,Der Goldfisch,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Braustelle,Braustelle,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Trattoria Salento,Trattoria Salento,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Essers Gasthaus,Essers Gasthaus,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Restaurant Athen's Koln,Restaurant Athen's Koln,0,其他,0.0,0.0,0.0
+其他西餐,Vintage,Vintage,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Kartoeffelchen,Kartoeffelchen,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Joseph's Restaurant & Bar,Joseph's Restaurant & Bar,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Comedia Wagenhalle,Comedia Wagenhalle,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Alteburger Hof,Alteburger Hof,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Petite faim,Petite faim,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Magnus,Magnus,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Meister Gerhard,Meister Gerhard,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Al Salam,Al Salam,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Heller's Brauhaus,Heller's Brauhaus,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Weinstube Bacchus,Weinstube Bacchus,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Manuela Tapas Restaurant,Manuela Tapas Restaurant,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Jonny Turista,Jonny Turista,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Pfeffermihle,Pfeffermihle,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Hopper Restaurant Et Cetera,Hopper Restaurant Et Cetera,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Kölsche Stuff,Kölsche Stuff,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Brennerei Weiss,Brennerei Weiss,0,科隆市中心,0.0,0.0,0.0
+其他西餐,La Campana,La Campana,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Sion am Ring,Sion am Ring,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Cafe Lichtenberg,Cafe Lichtenberg,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Gloria,Gloria,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Maultasche,Maultasche,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Cappuvino,Cappuvino,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Ech Kölsch,Ech Kölsch,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Rosendorn,Rosendorn,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Schwimmbad Sommer Garten,Schwimmbad Sommer Garten,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Curry B.,Curry B.,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Cafe Konditorei Fromme,Cafe Konditorei Fromme,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Pure,Pure,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Schmittchen,Schmittchen,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Oasis,Oasis,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Kleines,Kleines,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Orgelchen,Orgelchen,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Restaurant La Fe,Restaurant La Fe,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Cafe Waschsalon,Cafe Waschsalon,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Alcazar,Alcazar,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Petit Prince,Petit Prince,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Residenz am Dom Alte Post,Residenz am Dom Alte Post,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Marcellus Cafe Restaurant,Marcellus Cafe Restaurant,0,科隆市中心,0.0,0.0,0.0
+其他西餐,L. Fritz im Hopper,L. Fritz im Hopper,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Heimatsuende,Heimatsuende,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Durst,Durst,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Leo bar restaurant,Leo bar restaurant,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Gasthaus Zur Linde,Gasthaus Zur Linde,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Weissenburg,Weissenburg,0,科隆市中心,0.0,0.0,0.0
+其他西餐,La Casona,La Casona,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Burgklause,Burgklause,0,米尔海姆,0.0,0.0,0.0
+其他西餐,Wirtshaus Helfer,Wirtshaus Helfer,0,波尔斯,0.0,0.0,0.0
+其他西餐,Akti Grill,Akti Grill,0,波尔斯,0.0,0.0,0.0
+其他西餐,Newport,Newport,0,波尔斯,0.0,0.0,0.0
+其他西餐,La Tranquera,La Tranquera,0,波尔斯,0.0,0.0,0.0
+其他西餐,Trendis,Trendis,0,波尔斯,0.0,0.0,0.0
+其他西餐,Dinea,Dinea,0,波尔斯,0.0,0.0,0.0
+其他西餐,Asado,Asado,0,波尔斯,0.0,0.0,0.0
+其他西餐,Geißbockheim - Clubhaus des 1. FC Köln,Geißbockheim - Clubhaus des 1. FC Köln,0,其他,0.0,0.0,0.0
+其他西餐,Bayenthaler,Bayenthaler,0,其他,0.0,0.0,0.0
+其他西餐,Haidan's Bar & Restaurant,Haidan's Bar & Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Landgasthof Pohlhof,Landgasthof Pohlhof,0,其他,0.0,0.0,0.0
+其他西餐,Wienerwald Koln Arcaden,Wienerwald Koln Arcaden,0,卡尔克,0.0,0.0,0.0
+其他西餐,Ristorante Selini,Ristorante Selini,0,林登索尔,0.0,0.0,0.0
+其他西餐,Kolsch Kultur,Kolsch Kultur,0,林登索尔,0.0,0.0,0.0
+其他西餐,LUX Restaurant,LUX Restaurant,0,林登索尔,0.0,0.0,0.0
+其他西餐,heckmanns,heckmanns,0,林登索尔,0.0,0.0,0.0
+其他西餐,BonFrit,BonFrit,0,林登索尔,0.0,0.0,0.0
+其他西餐,Bocksbeutel,Bocksbeutel,0,林登索尔,0.0,0.0,0.0
+其他西餐,Cafe Krumel,Cafe Krumel,0,林登索尔,0.0,0.0,0.0
+其他西餐,Erpel & Co,Erpel & Co,0,林登索尔,0.0,0.0,0.0
+其他西餐,Bratwurst manufaktur,Bratwurst manufaktur,0,林登索尔,0.0,0.0,0.0
+其他西餐,Hofbraustuben,Hofbraustuben,0,林登索尔,0.0,0.0,0.0
+其他西餐,Sophias,Sophias,0,林登索尔,0.0,0.0,0.0
+其他西餐,The Tasty Pasty Company,The Tasty Pasty Company,0,林登索尔,0.0,0.0,0.0
+其他西餐,Alt Melaten - Adria Restaurant,Alt Melaten - Adria Restaurant,0,林登索尔,0.0,0.0,0.0
+其他西餐,Brasserie Marienbild,Brasserie Marienbild,0,林登索尔,0.0,0.0,0.0
+其他西餐,Alte Schmeide,Alte Schmeide,0,林登索尔,0.0,0.0,0.0
+其他西餐,Jamas,Jamas,0,尼佩斯,0.0,0.0,0.0
+其他西餐,Colonia Brauhaus,Colonia Brauhaus,0,尼佩斯,0.0,0.0,0.0
+其他西餐,Hippodrom,Hippodrom,0,尼佩斯,0.0,0.0,0.0
+其他西餐,Nebenraum,Nebenraum,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Saudade,Saudade,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,AU CHIMPANZÉ,AU CHIMPANZÉ,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Kääzmann´s,Kääzmann´s,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Adria,Adria,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Steaks aus aller Welt,Steaks aus aller Welt,0,科隆Chorweiler区,0.0,0.0,0.0
+其他西餐,Bistro Miro,Bistro Miro,0,科隆Chorweiler区,0.0,0.0,0.0
+其他西餐,Haus Odendahl,Haus Odendahl,0,科隆Chorweiler区,0.0,0.0,0.0
+其他西餐,Maredo,Maredo,0,Airport Cologne/Bonn,0.0,0.0,0.0
+其他西餐,Aura,Aura,0,其他,0.0,0.0,0.0
+其他西餐,Burgerlich,Burgerlich,0,其他,0.0,0.0,0.0
+其他西餐,Cafehaus Romerpark,Cafehaus Romerpark,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Cafe Dialog,Cafe Dialog,0,科隆市中心,0.0,0.0,0.0
+其他西餐,La Patata,La Patata,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Cana,Cana,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Bistro Verde,Bistro Verde,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Turista Süd,Turista Süd,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Opera Koln,Opera Koln,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Gaststaette Spielplatz,Gaststaette Spielplatz,0,科隆市中心,0.0,0.0,0.0
+其他西餐,La capannina,La capannina,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Leone im Rheinauhafen,Leone im Rheinauhafen,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Ferkulum,Ferkulum,0,科隆市中心,0.0,0.0,0.0
+其他西餐,La Croque,La Croque,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Bagutta,Bagutta,0,科隆市中心,0.0,0.0,0.0
+其他西餐,A Caravela,A Caravela,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Metronom,Metronom,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Feynsinn,Feynsinn,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Hotelux Sovietbar,Hotelux Sovietbar,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Koschere Kantine Weiss,Koschere Kantine Weiss,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Apadana,Apadana,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Haas Café,Haas Café,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Riphahn,Riphahn,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Hacienda el rustico,Hacienda el rustico,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Columbus Restaurant,Columbus Restaurant,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Guten Abend,Guten Abend,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Manufactum Brot & Butter,Manufactum Brot & Butter,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Henkelmännchen,Henkelmännchen,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Kopfsalat,Kopfsalat,0,科隆市中心,0.0,0.0,0.0
+其他西餐,La Reina,La Reina,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Dom Im Stepelhaus,Dom Im Stepelhaus,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Johannisklause,Johannisklause,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Aubele im Nussbaum,Aubele im Nussbaum,0,米尔海姆,0.0,0.0,0.0
+其他西餐,Stussers Brauhaus,Stussers Brauhaus,0,波尔斯,0.0,0.0,0.0
+其他西餐,Rodenkirchener Kartoffelhaus,Rodenkirchener Kartoffelhaus,0,其他,0.0,0.0,0.0
+其他西餐,Bootshaus Albatros,Bootshaus Albatros,0,其他,0.0,0.0,0.0
+其他西餐,Haus Schaffer,Haus Schaffer,0,其他,0.0,0.0,0.0
+其他西餐,Kaneo,Kaneo,0,卡尔克,0.0,0.0,0.0
+其他西餐,Die Malve Restaurant,Die Malve Restaurant,0,林登索尔,0.0,0.0,0.0
+其他西餐,Sentimiento,Sentimiento,0,科隆埃伦费尔德区,0.0,0.0,0.0
+其他西餐,Die Aphrodite,Die Aphrodite,0,Raderberg,0.0,0.0,0.0
+其他西餐,Alem-Mar,Alem-Mar,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Filmdose,Filmdose,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Le Merou Restaurant,Le Merou Restaurant,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Trattoria Vesuvio,Trattoria Vesuvio,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Culux,Culux,0,科隆市中心,0.0,0.0,0.0
+其他西餐,B.Easy,B.Easy,0,科隆市中心,0.0,0.0,0.0
+其他西餐,3Frits,3Frits,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Reisfeld,Reisfeld,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Pan & Pani,Pan & Pani,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Haus Abels,Haus Abels,0,米尔海姆,0.0,0.0,0.0
+其他西餐,Bernstein am Rhein,Bernstein am Rhein,0,波尔斯,0.0,0.0,0.0
+其他西餐,Kostas Taverne,Kostas Taverne,0,其他,0.0,0.0,0.0
+其他西餐,Haus Waldfrieden,Haus Waldfrieden,0,卡尔克,0.0,0.0,0.0
+其他西餐,Elia,Elia,0,林登索尔,0.0,0.0,0.0
+其他西餐,Viertelkueche,Viertelkueche,0,尼佩斯,0.0,0.0,0.0
+其他西餐,Gasthaus Fuhlingen,Gasthaus Fuhlingen,0,科隆Chorweiler区,0.0,0.0,0.0
+其他西餐,Eleon im Haus Ettelt,Eleon im Haus Ettelt,0,Neustadt-Süd,0.0,0.0,0.0
+其他西餐,Litho,Litho,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Südwind-Restaurant,Südwind-Restaurant,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Schwach&Sinn,Schwach&Sinn,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Cubana,Cubana,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Fischers,Fischers,0,科隆市中心,0.0,0.0,0.0
+其他西餐,Geartudenhof,Geartudenhof,0,其他,0.0,0.0,0.0
+中餐,Great Wall,Great Wall,0,科隆市中心,7.6,7.6,7.8
+中餐,鲜入唯煮,鲜入唯煮,0,,8.6,8.6,8.6
+中餐,China-Town,China-Town,0,其他,6.8,6.9,6.7
+中餐,China Restaurant Tchang,China Restaurant Tchang,0,科隆市中心,7.3,7.5,7.5
+中餐,Big China,Big China,0,科隆市中心,5.5,5.5,5.5
+中餐,Ni Hao,Ni Hao,0,科隆市中心,7.5,6.7,6.7
+中餐,Ginger,Ginger,0,科隆市中心,0.0,0.0,0.0
+中餐,Chen Xi,Chen Xi,0,科隆市中心,0.0,0.0,0.0
+中餐,China-Jumbo`s Buffet & Restaurant,China-Jumbo`s Buffet & Restaurant,0,科隆市中心,0.0,0.0,0.0
+中餐,Buddha's Eye,Buddha's Eye,0,科隆市中心,0.0,0.0,0.0
+中餐,New Konfuzius GmbHug,New Konfuzius GmbHug,0,科隆市中心,0.0,0.0,0.0
+中餐,Asia Gourmet Hakka,Asia Gourmet Hakka,0,林登索尔,0.0,0.0,0.0
+中餐,Yu Xin Lou Chinese Restaurant,Yu Xin Lou Chinese Restaurant,0,尼佩斯,0.0,0.0,0.0
+中餐,China Restaurant Canton,China Restaurant Canton,0,科隆市中心,0.0,0.0,0.0
+中餐,Dong Kun,Dong Kun,0,米尔海姆,0.0,0.0,0.0
+中餐,China Garten,China Garten,0,卡尔克,0.0,0.0,0.0
+中餐,Kim Van,Kim Van,0,科隆市中心,0.0,0.0,0.0
+中餐,Mr. Wok,Mr. Wok,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Bento Box,Bento Box,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Momotaro,Momotaro,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Bulgogi Haus,Bulgogi Haus,0,尼佩斯,0.0,0.0,0.0
+日韩料理,Daitokai,Daitokai,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Okinii,Okinii,0,科隆市中心,0.0,0.0,0.0
+日韩料理,sweet sushi,sweet sushi,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Black Karate,Black Karate,0,科隆市中心,0.0,0.0,0.0
+日韩料理,meat.ing Korean BBQ,meat.ing Korean BBQ,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Fraulein ChiChi,Fraulein ChiChi,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Sakura Running Sushi,Sakura Running Sushi,0,林登索尔,0.0,0.0,0.0
+日韩料理,Son Nim,Son Nim,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Sushi am Ring,Sushi am Ring,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Blue Marlin Sushi Bar,Blue Marlin Sushi Bar,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Kintaro,Kintaro,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Sushiou,Sushiou,0,科隆市中心,0.0,0.0,0.0
+日韩料理,sumo,sumo,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Fisch-Hof,Fisch-Hof,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Sushi Haus Deutz,Sushi Haus Deutz,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Sushi Nara 2,Sushi Nara 2,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Sushien,Sushien,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Namdaemun,Namdaemun,0,波尔斯,0.0,0.0,0.0
+日韩料理,Shokudo,Shokudo,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Kiku Sushi,Kiku Sushi,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Sumo Media Park - Japanese Bar & Restaurant,Sumo Media Park - Japanese Bar & Restaurant,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Do Re Mi,Do Re Mi,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Sushi Ninja,Sushi Ninja,0,科隆埃伦费尔德区,0.0,0.0,0.0
+日韩料理,Mj Sushi,Mj Sushi,0,科隆市中心,0.0,0.0,0.0
+日韩料理,BEN's Cocktailbar & Restaurant,BEN's Cocktailbar & Restaurant,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Buffet Chang,Buffet Chang,0,科隆市中心,0.0,0.0,0.0
+日韩料理,Kyoto,Kyoto,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Nakhon Thai,Nakhon Thai,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Beirut,Beirut,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Mongo's Restaurant,Mongo's Restaurant,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Taku,Taku,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Lu,Lu,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Haus Java,Haus Java,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Indian Curry Basmati House,Indian Curry Basmati House,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Kilim,Kilim,0,米尔海姆,0.0,0.0,0.0
+更多亚洲菜,Chino Latino,Chino Latino,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Bistro Vietnam,Bistro Vietnam,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Gaylord,Gaylord,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Mangal,Mangal,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Yummy Town,Yummy Town,0,Neustadt-Süd,0.0,0.0,0.0
+更多亚洲菜,Ginti Indische Restaurant,Ginti Indische Restaurant,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Mandalay,Mandalay,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Kittichai,Kittichai,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Habibi,Habibi,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Kamasutra,Kamasutra,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Mingo Bar,Mingo Bar,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Yuzu,Yuzu,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Karibik,Karibik,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Serithai,Serithai,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Ganesha,Ganesha,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Thai Haus,Thai Haus,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal,Taj Mahal,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,My Indigo,My Indigo,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Mai Thai,Mai Thai,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Thai Food,Thai Food,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Warung Bayu,Warung Bayu,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Royal Punjab,Royal Punjab,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Nha Trang Viet-Thai Restaurant,Nha Trang Viet-Thai Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Meti Thai,Meti Thai,0,卡尔克,0.0,0.0,0.0
+更多亚洲菜,bonjour saigon,bonjour saigon,0,林登索尔,0.0,0.0,0.0
+更多亚洲菜,Buy Buy,Buy Buy,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Noosou Koln,Noosou Koln,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Kim's Imbiss,Kim's Imbiss,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Grill am Ring,Grill am Ring,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Nagoya Sushi & Grill,Nagoya Sushi & Grill,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Oz Harran Doydoy,Oz Harran Doydoy,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Chang Thai,Chang Thai,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Cafe Heval,Cafe Heval,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Mevlana Restaurant,Mevlana Restaurant,0,米尔海姆,0.0,0.0,0.0
+更多亚洲菜,Konak,Konak,0,其他,0.0,0.0,0.0
+更多亚洲菜,Buy Buy,Buy Buy,0,林登索尔,0.0,0.0,0.0
+更多亚洲菜,Tasty India,Tasty India,0,林登索尔,0.0,0.0,0.0
+更多亚洲菜,Aroy D Thai Food,Aroy D Thai Food,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多亚洲菜,MeiWok V,MeiWok V,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多亚洲菜,Ban Thai,Ban Thai,0,Raderberg,0.0,0.0,0.0
+更多亚洲菜,Kabul,Kabul,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Basmati,Basmati,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Lai Thai 2,Lai Thai 2,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Lakshmi,Lakshmi,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Rangoli,Rangoli,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Saman Restaurant,Saman Restaurant,0,波尔斯,0.0,0.0,0.0
+更多亚洲菜,Merheimer Hof,Merheimer Hof,0,卡尔克,0.0,0.0,0.0
+更多亚洲菜,Yadaary Orienthaus,Yadaary Orienthaus,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多亚洲菜,Bombay Palace,Bombay Palace,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Ano-Thai,Ano-Thai,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Bep Viet,Bep Viet,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Sidarta,Sidarta,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Maharani,Maharani,0,科隆市中心,0.0,0.0,0.0
+更多亚洲菜,Kampung Indonesia,Kampung Indonesia,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Farmer's,Farmer's,0,科隆市中心,6.5,7.4,7.1
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Farmer's Steakhouse,Farmer's Steakhouse,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Bay Area Burrito Company,Bay Area Burrito Company,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Arizona,Arizona,0,林登索尔,0.0,0.0,0.0
+快餐简餐,Taco Loco,Taco Loco,0,尼佩斯,0.0,0.0,0.0
+快餐简餐,ONA MOR Bar,ONA MOR Bar,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Le PomPom,Le PomPom,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Joe Champs,Joe Champs,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Blanc de Blanc,Blanc de Blanc,0,林登索尔,0.0,0.0,0.0
+快餐简餐,Pfeiler Grill,Pfeiler Grill,0,科隆埃伦费尔德区,0.0,0.0,0.0
+快餐简餐,Berens Feinkost,Berens Feinkost,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Pizza Hut,Pizza Hut,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Moyos New Orleans Diner,Moyos New Orleans Diner,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,"Subway Subs, Sandwiches & Salads","Subway Subs, Sandwiches & Salads",0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Ranch House Restaurant,Ranch House Restaurant,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Anselmos Lilakissimo,Anselmos Lilakissimo,0,科隆市中心,0.0,0.0,0.0
+快餐简餐,Moyos,Moyos,0,其他,0.0,0.0,0.0
+快餐简餐,La Vision,La Vision,0,科隆市中心,0.0,0.0,0.0
+海鲜,新上海酒楼,新上海酒楼,0,,0.0,0.0,0.0
+海鲜,Herings im Martinswinkel,Herings im Martinswinkel,0,科隆市中心,0.0,0.0,0.0
+海鲜,Nordsee,Nordsee,0,科隆市中心,0.0,0.0,0.0
+海鲜,Nordsee,Nordsee,0,科隆市中心,0.0,0.0,0.0
+烧烤,Hafenterrasse am Schokoladenmuseum,Hafenterrasse am Schokoladenmuseum,0,科隆市中心,0.0,0.0,0.0
+烧烤,Cologne Sportspark,Cologne Sportspark,0,波尔斯,0.0,0.0,0.0
+烧烤,Hemingway Downtown BBQ,Hemingway Downtown BBQ,0,科隆市中心,0.0,0.0,0.0
+烧烤,Farmers Steakhouse,Farmers Steakhouse,0,科隆市中心,0.0,0.0,0.0
+比萨,Ristorante Al Solito Posto,Ristorante Al Solito Posto,0,卡尔克,0.0,0.0,0.0
+比萨,Restaurant and Pizzeria Diana,Restaurant and Pizzeria Diana,0,科隆市中心,0.0,0.0,0.0
+比萨,Tutto,Tutto,0,科隆市中心,0.0,0.0,0.0
+比萨,Mama Leone,Mama Leone,0,科隆市中心,0.0,0.0,0.0
+比萨,Pane E Cioccolata,Pane E Cioccolata,0,科隆埃伦费尔德区,0.0,0.0,0.0
+比萨,Zur Faehre,Zur Faehre,0,科隆Chorweiler区,0.0,0.0,0.0
+比萨,Il Nido,Il Nido,0,科隆埃伦费尔德区,0.0,0.0,0.0
+比萨,Pizzeria Mamma Mia,Pizzeria Mamma Mia,0,科隆埃伦费尔德区,0.0,0.0,0.0
+咖啡厅,Cafe Reichard,Cafe Reichard,0,米尔海姆,7.6,8.1,7.6
+咖啡厅,The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,0,科隆市中心,7.4,7.4,7.4
+咖啡厅,Starbucks,Starbucks,0,科隆市中心,7.4,7.4,8.1
+咖啡厅,Starbucks,Starbucks,0,其他,0.0,0.0,0.0
+咖啡厅,Galestro Bar & Pasticceria,Galestro Bar & Pasticceria,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Miss Papki,Miss Papki,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Osho's Place,Osho's Place,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Cafe Extrablatt,Cafe Extrablatt,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Epi,Epi,0,波尔斯,0.0,0.0,0.0
+咖啡厅,Cafe Extrablatt,Cafe Extrablatt,0,尼佩斯,0.0,0.0,0.0
+咖啡厅,Cafe & Chocolaterie 20o,Cafe & Chocolaterie 20o,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Cafecafe,Cafecafe,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Woyton im DuMont-Carre,Woyton im DuMont-Carre,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,All Bar One Köln,All Bar One Köln,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Kaffee & Kuchen,Kaffee & Kuchen,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Cafe Franck,Cafe Franck,0,波尔斯,0.0,0.0,0.0
+咖啡厅,Hernando Cortez,Hernando Cortez,0,波尔斯,0.0,0.0,0.0
+咖啡厅,Cafe Goltstein,Cafe Goltstein,0,其他,0.0,0.0,0.0
+咖啡厅,Melange Orange,Melange Orange,0,林登索尔,0.0,0.0,0.0
+咖啡厅,Wo ist Tom?,Wo ist Tom?,0,林登索尔,0.0,0.0,0.0
+咖啡厅,Café Rotkehlchen,Café Rotkehlchen,0,科隆埃伦费尔德区,0.0,0.0,0.0
+咖啡厅,Leuchte Kaffeebar,Leuchte Kaffeebar,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Barista Köln,Barista Köln,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Cafe Fromme,Cafe Fromme,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Cafe Scholl,Cafe Scholl,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Cafe Osterspey,Cafe Osterspey,0,林登索尔,0.0,0.0,0.0
+咖啡厅,Cafetiero Express,Cafetiero Express,0,Airport Cologne/Bonn,0.0,0.0,0.0
+咖啡厅,Kawa,Kawa,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Kult,Cafe Kult,0,科隆市中心,0.0,0.0,0.0
+咖啡厅,Café Kram,Café Kram,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Mr.Cake CupCake Manufaktur Cologne,Mr.Cake CupCake Manufaktur Cologne,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Cafe Eigel,Cafe Eigel,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Cafe Rico,Cafe Rico,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Eiscafe Tota,Eiscafe Tota,0,卡尔克,0.0,0.0,0.0
+面包甜点,Gelateria 4D,Gelateria 4D,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Merzenich Backereien,Merzenich Backereien,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Eiscafe Marco Polo,Eiscafe Marco Polo,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Cafe Wahlen,Cafe Wahlen,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Villa Mat­hilde,Villa Mat­hilde,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Cafe Riese,Cafe Riese,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Eis Engeln,Eis Engeln,0,尼佩斯,0.0,0.0,0.0
+面包甜点,Eiscafe Breda,Eiscafe Breda,0,其他,0.0,0.0,0.0
+面包甜点,Backerei Balkhausen,Backerei Balkhausen,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Backerei Brockmann,Backerei Brockmann,0,科隆市中心,0.0,0.0,0.0
+面包甜点,Cafe Walter,Cafe Walter,0,科隆市中心,0.0,0.0,0.0
+酒吧,Papa Joe s Klimperkasten,Papa Joe s Klimperkasten,0,科隆市中心,0.0,0.0,0.0
+酒吧,Kleines Schwarzes,Kleines Schwarzes,0,科隆埃伦费尔德区,0.0,0.0,0.0
+酒吧,Cafe Stern am Rathaus,Cafe Stern am Rathaus,0,科隆市中心,0.0,0.0,0.0
+酒吧,MADE by REWE Waidmarkt,MADE by REWE Waidmarkt,0,科隆市中心,0.0,0.0,0.0
+酒吧,Sunner Keller,Sunner Keller,0,卡尔克,0.0,0.0,0.0
+酒吧,Six Pack Bar,Six Pack Bar,0,科隆市中心,0.0,0.0,0.0
+酒吧,Orange,Orange,0,科隆市中心,0.0,0.0,0.0
+酒吧,Zulpicher Strasse,Zulpicher Strasse,0,林登索尔,0.0,0.0,0.0
+酒吧,Brauhaus Quetsch,Brauhaus Quetsch,0,林登索尔,0.0,0.0,0.0
+酒吧,Weinstube Morio,Weinstube Morio,0,尼佩斯,0.0,0.0,0.0
+酒吧,Frueh em Tutt,Frueh em Tutt,0,科隆埃伦费尔德区,0.0,0.0,0.0
+酒吧,Ivory Lounge,Ivory Lounge,0,科隆市中心,0.0,0.0,0.0
+酒吧,Gasthaus im Museum,Gasthaus im Museum,0,米尔海姆,0.0,0.0,0.0
+酒吧,Eckstein,Eckstein,0,林登索尔,0.0,0.0,0.0
+酒吧,Dos Equis,Dos Equis,0,科隆市中心,0.0,0.0,0.0
+酒吧,Melody,Melody,0,林登索尔,0.0,0.0,0.0
+酒吧,Vier Jahreszeiten Bistro & Biomarkt,Vier Jahreszeiten Bistro & Biomarkt,0,科隆市中心,0.0,0.0,0.0
+酒吧,Qhof,Qhof,0,科隆市中心,0.0,0.0,0.0
+酒吧,Caprici,Caprici,0,米尔海姆,0.0,0.0,0.0
+酒吧,Amadeus,Amadeus,0,科隆市中心,0.0,0.0,0.0
+更多美食,Brauhaus Sion,Brauhaus Sion,0,科隆市中心,7.9,7.9,7.7
+更多美食,Peters Brauhaus,Peters Brauhaus,0,科隆市中心,8.2,8.2,7.4
+更多美食,LeiLei Restaurant China Lounge,LeiLei Restaurant China Lounge,0,科隆市中心,7.3,7.3,7.3
+更多美食,Restaurant Fischermanns,Restaurant Fischermanns,0,科隆市中心,8.0,8.0,7.3
+更多美食,Istanbul,Istanbul,0,科隆市中心,6.7,6.7,6.7
+更多美食,Lowenbrau Koln Restaurant,Lowenbrau Koln Restaurant,0,科隆市中心,7.4,7.4,7.4
+更多美食,Peking am Dom,Peking am Dom,0,科隆市中心,5.0,5.0,5.0
+更多美食,Das Kleine Stapelhauschen,Das Kleine Stapelhauschen,0,科隆市中心,0.0,0.0,0.0
+更多美食,Wein am Rhein,Wein am Rhein,0,科隆市中心,0.0,0.0,0.0
+更多美食,Hanse-Stube,Hanse-Stube,0,科隆市中心,0.0,0.0,0.0
+更多美食,Il gelato,Il gelato,0,其他,0.0,0.0,0.0
+更多美食,Dʌblju ,Dʌblju ,0,,0.0,0.0,0.0
+更多美食,Gilden Brauhaus,Gilden Brauhaus,0,米尔海姆,0.0,0.0,0.0
+更多美食,Ristorante Da Damiano,Ristorante Da Damiano,0,科隆市中心,0.0,0.0,0.0
+更多美食,Modern China Hotpot Buffet,Modern China Hotpot Buffet,0,科隆市中心,0.0,0.0,0.0
+更多美食,L'escalier,L'escalier,0,科隆市中心,0.0,0.0,0.0
+更多美食,paparazzi restaurant,paparazzi restaurant,0,科隆市中心,0.0,0.0,0.0
+更多美食,Poisson,Poisson,0,科隆市中心,0.0,0.0,0.0
+更多美食,Dostoevsky,Dostoevsky,0,科隆市中心,0.0,0.0,0.0
+更多美食,Puszta Hutte,Puszta Hutte,0,科隆市中心,0.0,0.0,0.0
+更多美食,Alex,Alex,0,科隆市中心,0.0,0.0,0.0
+更多美食,El Gaucho - Argentinisches Restaurant,El Gaucho - Argentinisches Restaurant,0,科隆市中心,0.0,0.0,0.0
+更多美食,Toscanini,Toscanini,0,科隆市中心,0.0,0.0,0.0
+更多美食,Nudelhaus am Dom,Nudelhaus am Dom,0,科隆市中心,0.0,0.0,0.0
+更多美食,Fassbender,Fassbender,0,科隆市中心,0.0,0.0,0.0
+更多美食,Hyatt-Terrasse,Hyatt-Terrasse,0,科隆市中心,0.0,0.0,0.0
+更多美食,Indian Masala,Indian Masala,0,科隆市中心,0.0,0.0,0.0
+更多美食,Zur Tant,Zur Tant,0,波尔斯,0.0,0.0,0.0
+更多美食,Nikko,Nikko,0,林登索尔,0.0,0.0,0.0
+更多美食,Brauerei Weissbräeu,Brauerei Weissbräeu,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bellevue,Bellevue,0,科隆市中心,0.0,0.0,0.0
+更多美食,Osteria da Cristiano,Osteria da Cristiano,0,其他,0.0,0.0,0.0
+更多美食,Haus Mueller,Haus Mueller,0,科隆市中心,0.0,0.0,0.0
+更多美食,La Teca,La Teca,0,科隆市中心,0.0,0.0,0.0
+更多美食,Vreiheit,Vreiheit,0,米尔海姆,0.0,0.0,0.0
+更多美食,Gasthaus Brungs,Gasthaus Brungs,0,科隆市中心,0.0,0.0,0.0
+更多美食,Al Andalus,Al Andalus,0,科隆市中心,0.0,0.0,0.0
+更多美食,Holtmann s,Holtmann s,0,科隆市中心,0.0,0.0,0.0
+更多美食,Supasalad,Supasalad,0,其他,0.0,0.0,0.0
+更多美食,Dominikaner,Dominikaner,0,科隆市中心,0.0,0.0,0.0
+更多美食,Glashaus Restaurant,Glashaus Restaurant,0,科隆市中心,0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,科隆市中心,0.0,0.0,0.0
+更多美食,Hotelux,Hotelux,0,科隆市中心,0.0,0.0,0.0
+更多美食,Rosebud,Rosebud,0,科隆市中心,0.0,0.0,0.0
+更多美食,Braunsfeld Restaurant,Braunsfeld Restaurant,0,尼佩斯,0.0,0.0,0.0
+更多美食,l'Orange,l'Orange,0,科隆市中心,0.0,0.0,0.0
+更多美食,Aphrodite,Aphrodite,0,林登索尔,0.0,0.0,0.0
+更多美食,Im Hoefchen,Im Hoefchen,0,林登索尔,0.0,0.0,0.0
+更多美食,Ristorante Sansone,Ristorante Sansone,0,科隆市中心,0.0,0.0,0.0
+更多美食,Chez Mario,Chez Mario,0,科隆市中心,0.0,0.0,0.0
+更多美食,Haus Knott,Haus Knott,0,波尔斯,0.0,0.0,0.0
+更多美食,Mederrano,Mederrano,0,科隆市中心,0.0,0.0,0.0
+更多美食,Restaurant Colina,Restaurant Colina,0,科隆市中心,0.0,0.0,0.0
+更多美食,Gast und Weinhaus Brungs,Gast und Weinhaus Brungs,0,科隆市中心,0.0,0.0,0.0
+更多美食,Cafe Noa,Cafe Noa,0,科隆市中心,0.0,0.0,0.0
+更多美食,Well Being Vegetarian Restaurant,Well Being Vegetarian Restaurant,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bastian's,Bastian's,0,科隆市中心,0.0,0.0,0.0
+更多美食,Shaka Zulu,Shaka Zulu,0,科隆市中心,0.0,0.0,0.0
+更多美食,Meson El Cordobes,Meson El Cordobes,0,科隆市中心,0.0,0.0,0.0
+更多美食,Brauhaus Em Kolsche Boor,Brauhaus Em Kolsche Boor,0,科隆市中心,0.0,0.0,0.0
+更多美食,Gruber's,Gruber's,0,科隆市中心,0.0,0.0,0.0
+更多美食,Ox & Klee,Ox & Klee,0,波尔斯,0.0,0.0,0.0
+更多美食,Haus Schwan,Haus Schwan,0,林登索尔,0.0,0.0,0.0
+更多美食,Restaurant Fasika,Restaurant Fasika,0,科隆市中心,0.0,0.0,0.0
+更多美食,Freddy Schilling Hamburger Manufaktur,Freddy Schilling Hamburger Manufaktur,0,科隆市中心,0.0,0.0,0.0
+更多美食,Engelbat,Engelbat,0,科隆市中心,0.0,0.0,0.0
+更多美食,Restaurant Im Wasserturm,Restaurant Im Wasserturm,0,科隆市中心,0.0,0.0,0.0
+更多美食,Nh Köln-City,Nh Köln-City,0,,0.0,0.0,0.0
+更多美食,Magellan Wine Bar,Magellan Wine Bar,0,科隆市中心,0.0,0.0,0.0
+更多美食,Restaurant Zagreb,Restaurant Zagreb,0,米尔海姆,0.0,0.0,0.0
+更多美食,Subway,Subway,0,科隆市中心,0.0,0.0,0.0
+更多美食,Sion Brauhaus Gertrudenhof,Sion Brauhaus Gertrudenhof,0,科隆市中心,0.0,0.0,0.0
+更多美食,Burger King,Burger King,0,科隆市中心,0.0,0.0,0.0
+更多美食,Heideklause,Heideklause,0,波尔斯,0.0,0.0,0.0
+更多美食,Thai Basilikum,Thai Basilikum,0,科隆市中心,0.0,0.0,0.0
+更多美食,Pancho Villa,Pancho Villa,0,科隆市中心,0.0,0.0,0.0
+更多美食,Il Ponticello,Il Ponticello,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bento Box Koln-West,Bento Box Koln-West,0,林登索尔,0.0,0.0,0.0
+更多美食,China Restaurant Konfuzius,China Restaurant Konfuzius,0,科隆市中心,0.0,0.0,0.0
+更多美食,Vivaldi,Vivaldi,0,Airport Cologne/Bonn,0.0,0.0,0.0
+更多美食,Ristorante IL Cavallino,Ristorante IL Cavallino,0,波尔斯,0.0,0.0,0.0
+更多美食,Gosch Sylt,Gosch Sylt,0,科隆市中心,0.0,0.0,0.0
+更多美食,Monte Christo,Monte Christo,0,科隆市中心,0.0,0.0,0.0
+更多美食,Steakhaus Angusto,Steakhaus Angusto,0,科隆市中心,0.0,0.0,0.0
+更多美食,Vapiano Koln Habsburgerring,Vapiano Koln Habsburgerring,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bobotie,Bobotie,0,科隆市中心,0.0,0.0,0.0
+更多美食,Die Wohngemeinschaft,Die Wohngemeinschaft,0,科隆市中心,0.0,0.0,0.0
+更多美食,Krua Thai,Krua Thai,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bauturm Cafe,Bauturm Cafe,0,科隆市中心,0.0,0.0,0.0
+更多美食,Restaurant Sweet & Chilli,Restaurant Sweet & Chilli,0,科隆市中心,0.0,0.0,0.0
+更多美食,Herr Pimock,Herr Pimock,0,科隆市中心,0.0,0.0,0.0
+更多美食,Latino Loco,Latino Loco,0,科隆市中心,0.0,0.0,0.0
+更多美食,Christofs,Christofs,0,科隆市中心,0.0,0.0,0.0
+更多美食,Ponchos,Ponchos,0,科隆市中心,0.0,0.0,0.0
+更多美食,Vier Jahreszeiten,Vier Jahreszeiten,0,科隆市中心,0.0,0.0,0.0
+更多美食,Via Sistina Ristorante,Via Sistina Ristorante,0,科隆市中心,0.0,0.0,0.0
+更多美食,Ristorante Via Bene,Ristorante Via Bene,0,科隆市中心,0.0,0.0,0.0
+更多美食,Eden Garten,Eden Garten,0,科隆市中心,0.0,0.0,0.0
+更多美食,Culinarius 2 - Culinarius In-Biss,Culinarius 2 - Culinarius In-Biss,0,科隆市中心,0.0,0.0,0.0
+更多美食,King Wah,King Wah,0,科隆市中心,0.0,0.0,0.0
+更多美食,Royal Cupcakes,Royal Cupcakes,0,科隆市中心,0.0,0.0,0.0
+更多美食,Tortchen Tortchen,Tortchen Tortchen,0,科隆市中心,0.0,0.0,0.0
+更多美食,Consilium,Consilium,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bei Bepi,Bei Bepi,0,科隆市中心,0.0,0.0,0.0
+更多美食,"Corkonian, The","Corkonian, The",0,科隆市中心,0.0,0.0,0.0
+更多美食,Karawane,Karawane,0,科隆市中心,0.0,0.0,0.0
+更多美食,Cafe Era,Cafe Era,0,科隆市中心,0.0,0.0,0.0
+更多美食,Limbourg,Limbourg,0,科隆市中心,0.0,0.0,0.0
+更多美食,Sorgenfrei,Sorgenfrei,0,科隆市中心,0.0,0.0,0.0
+更多美食,Curry Cologne,Curry Cologne,0,科隆市中心,0.0,0.0,0.0
+更多美食,H&A Tagesbar,H&A Tagesbar,0,科隆市中心,0.0,0.0,0.0
+更多美食,"Si, Claro","Si, Claro",0,科隆市中心,0.0,0.0,0.0
+更多美食,Hallmackenreuther,Hallmackenreuther,0,科隆市中心,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,科隆市中心,0.0,0.0,0.0
+更多美食,Sion am Bahnhof,Sion am Bahnhof,0,科隆市中心,0.0,0.0,0.0
+更多美食,Acht,Acht,0,科隆市中心,0.0,0.0,0.0
+更多美食,Em Haehnche,Em Haehnche,0,科隆市中心,0.0,0.0,0.0
+更多美食,Jaipur,Jaipur,0,科隆市中心,0.0,0.0,0.0
+更多美食,Jan von werth,Jan von werth,0,科隆市中心,0.0,0.0,0.0
+更多美食,Gado Gado,Gado Gado,0,科隆市中心,0.0,0.0,0.0
+更多美食,Maybach,Maybach,0,科隆市中心,0.0,0.0,0.0
+更多美食,Zum Kobes,Zum Kobes,0,科隆市中心,0.0,0.0,0.0
+更多美食,Textilcafe,Textilcafe,0,科隆市中心,0.0,0.0,0.0
+更多美食,DIX,DIX,0,科隆市中心,0.0,0.0,0.0
+更多美食,Purino,Purino,0,米尔海姆,0.0,0.0,0.0
+更多美食,Dolce & Vita,Dolce & Vita,0,米尔海姆,0.0,0.0,0.0
+更多美食,Zur Alten Post,Zur Alten Post,0,米尔海姆,0.0,0.0,0.0
+更多美食,Waldschenke,Waldschenke,0,米尔海姆,0.0,0.0,0.0
+更多美食,Salon Schmitz,Salon Schmitz,0,波尔斯,0.0,0.0,0.0
+更多美食,Fischermann's at Apropos Koeln,Fischermann's at Apropos Koeln,0,波尔斯,0.0,0.0,0.0
+更多美食,Falderhof,Falderhof,0,其他,0.0,0.0,0.0
+更多美食,Sala Rim Naam,Sala Rim Naam,0,其他,0.0,0.0,0.0
+更多美食,Tappo,Tappo,0,林登索尔,0.0,0.0,0.0
+更多美食,Steinmetz,Steinmetz,0,林登索尔,0.0,0.0,0.0
+更多美食,Al Caminetto,Al Caminetto,0,林登索尔,0.0,0.0,0.0
+更多美食,Sushi Ninja,Sushi Ninja,0,林登索尔,0.0,0.0,0.0
+更多美食,Hof 18,Hof 18,0,林登索尔,0.0,0.0,0.0
+更多美食,Carlos,Carlos,0,林登索尔,0.0,0.0,0.0
+更多美食,Trattoria Stella,Trattoria Stella,0,林登索尔,0.0,0.0,0.0
+更多美食,Claudio,Claudio,0,林登索尔,0.0,0.0,0.0
+更多美食,Jan's Restaurant in der Remise,Jan's Restaurant in der Remise,0,林登索尔,0.0,0.0,0.0
+更多美食,Haus Schnackertz,Haus Schnackertz,0,尼佩斯,0.0,0.0,0.0
+更多美食,Em Golde Kappes,Em Golde Kappes,0,尼佩斯,0.0,0.0,0.0
+更多美食,Adolph's Gasthaus,Adolph's Gasthaus,0,尼佩斯,0.0,0.0,0.0
+更多美食,Herr Schulz,Herr Schulz,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Alekos,Alekos,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Goldmund Literatur Cafe,Goldmund Literatur Cafe,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Trinachria,Trinachria,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Rocios,Rocios,0,科隆市中心,0.0,0.0,0.0
+更多美食,La Guitarra,La Guitarra,0,科隆市中心,0.0,0.0,0.0
+更多美食,El Alli Oli,El Alli Oli,0,科隆市中心,0.0,0.0,0.0
+更多美食,Pane e Vino,Pane e Vino,0,科隆市中心,0.0,0.0,0.0
+更多美食,Rheinau,Rheinau,0,科隆市中心,0.0,0.0,0.0
+更多美食,La Galette,La Galette,0,科隆市中心,0.0,0.0,0.0
+更多美食,THE COFFEE GANG,THE COFFEE GANG,0,科隆市中心,0.0,0.0,0.0
+更多美食,Thali,Thali,0,科隆市中心,0.0,0.0,0.0
+更多美食,El Inca,El Inca,0,科隆市中心,0.0,0.0,0.0
+更多美食,La Pachamama,La Pachamama,0,科隆市中心,0.0,0.0,0.0
+更多美食,Pinocchio,Pinocchio,0,科隆市中心,0.0,0.0,0.0
+更多美食,Gedankengut,Gedankengut,0,科隆市中心,0.0,0.0,0.0
+更多美食,Zur Leckeren Pann,Zur Leckeren Pann,0,科隆市中心,0.0,0.0,0.0
+更多美食,Mumbai Palace,Mumbai Palace,0,科隆市中心,0.0,0.0,0.0
+更多美食,Cafe Fleur,Cafe Fleur,0,科隆市中心,0.0,0.0,0.0
+更多美食,Stadthausschanke,Stadthausschanke,0,科隆市中心,0.0,0.0,0.0
+更多美食,Stanton,Stanton,0,科隆市中心,0.0,0.0,0.0
+更多美食,Hofer essBar,Hofer essBar,0,科隆市中心,0.0,0.0,0.0
+更多美食,Piccola L'originale Aachener Straße,Piccola L'originale Aachener Straße,0,科隆市中心,0.0,0.0,0.0
+更多美食,La Buff,La Buff,0,科隆市中心,0.0,0.0,0.0
+更多美食,Metzgerei Schmitz,Metzgerei Schmitz,0,科隆市中心,0.0,0.0,0.0
+更多美食,Burger King,Burger King,0,科隆市中心,0.0,0.0,0.0
+更多美食,Los Flamencos,Los Flamencos,0,科隆市中心,0.0,0.0,0.0
+更多美食,Gertrudenhof am Neumarkt,Gertrudenhof am Neumarkt,0,科隆市中心,0.0,0.0,0.0
+更多美食,Speisekammer,Speisekammer,0,科隆市中心,0.0,0.0,0.0
+更多美食,La Fiamma,La Fiamma,0,科隆市中心,0.0,0.0,0.0
+更多美食,Il Pazzo,Il Pazzo,0,科隆市中心,0.0,0.0,0.0
+更多美食,Restaurant Heule,Restaurant Heule,0,科隆市中心,0.0,0.0,0.0
+更多美食,Kolsch Pinte,Kolsch Pinte,0,科隆市中心,0.0,0.0,0.0
+更多美食,Pfaffen Brauerei,Pfaffen Brauerei,0,科隆市中心,0.0,0.0,0.0
+更多美食,Marx's Winebar,Marx's Winebar,0,科隆市中心,0.0,0.0,0.0
+更多美食,Ego,Ego,0,科隆市中心,0.0,0.0,0.0
+更多美食,Grande Il Piatto Pizzeria,Grande Il Piatto Pizzeria,0,科隆市中心,0.0,0.0,0.0
+更多美食,Delfter Haus,Delfter Haus,0,科隆市中心,0.0,0.0,0.0
+更多美食,Ouzeria,Ouzeria,0,科隆市中心,0.0,0.0,0.0
+更多美食,Gir Keller,Gir Keller,0,科隆市中心,0.0,0.0,0.0
+更多美食,Biermuseum,Biermuseum,0,科隆市中心,0.0,0.0,0.0
+更多美食,Sonderbar,Sonderbar,0,科隆市中心,0.0,0.0,0.0
+更多美食,Laden fur Geniesser,Laden fur Geniesser,0,科隆市中心,0.0,0.0,0.0
+更多美食,China-Restaurant Shanghai,China-Restaurant Shanghai,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bali,Bali,0,科隆市中心,0.0,0.0,0.0
+更多美食,The Real Bagel Company,The Real Bagel Company,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bastard,Bastard,0,科隆市中心,0.0,0.0,0.0
+更多美食,Vinoteca Alfredo,Vinoteca Alfredo,0,科隆市中心,0.0,0.0,0.0
+更多美食,Kabuki,Kabuki,0,科隆市中心,0.0,0.0,0.0
+更多美食,Zur grunen Eck,Zur grunen Eck,0,科隆市中心,0.0,0.0,0.0
+更多美食,Kaennchen,Kaennchen,0,科隆市中心,0.0,0.0,0.0
+更多美食,Rheinzeit,Rheinzeit,0,科隆市中心,0.0,0.0,0.0
+更多美食,Restaurant georgeM.,Restaurant georgeM.,0,科隆市中心,0.0,0.0,0.0
+更多美食,Maigrun,Maigrun,0,科隆市中心,0.0,0.0,0.0
+更多美食,Planet Oriental Restaurant,Planet Oriental Restaurant,0,科隆市中心,0.0,0.0,0.0
+更多美食,La Brasserie,La Brasserie,0,科隆市中心,0.0,0.0,0.0
+更多美食,Sushi & More Hbf,Sushi & More Hbf,0,科隆市中心,0.0,0.0,0.0
+更多美食,Schweinske Hauptbahnhof,Schweinske Hauptbahnhof,0,科隆市中心,0.0,0.0,0.0
+更多美食,Le Cro Bag,Le Cro Bag,0,科隆市中心,0.0,0.0,0.0
+更多美食,Dulce Ice Cream & Chocolate Köln-Hauptbahnhof,Dulce Ice Cream & Chocolate Köln-Hauptbahnhof,0,科隆市中心,0.0,0.0,0.0
+更多美食,Cafetiero im Hauptbahnhof,Cafetiero im Hauptbahnhof,0,科隆市中心,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,科隆市中心,0.0,0.0,0.0
+更多美食,Delice,Delice,0,科隆市中心,0.0,0.0,0.0
+更多美食,Galestro Bar & Pasticceria,Galestro Bar & Pasticceria,0,科隆市中心,0.0,0.0,0.0
+更多美食,Stadtgarten-Restaurant,Stadtgarten-Restaurant,0,科隆市中心,0.0,0.0,0.0
+更多美食,Elit,Elit,0,科隆市中心,0.0,0.0,0.0
+更多美食,km 689 Cologne Beach Club,km 689 Cologne Beach Club,0,科隆市中心,0.0,0.0,0.0
+更多美食,Kitchenette,Kitchenette,0,科隆市中心,0.0,0.0,0.0
+更多美食,Pizzeria Pinocchio,Pizzeria Pinocchio,0,科隆市中心,0.0,0.0,0.0
+更多美食,Oz Urfali Restaurant,Oz Urfali Restaurant,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bosporus,Bosporus,0,科隆市中心,0.0,0.0,0.0
+更多美食,Olaf'S Imbiss,Olaf'S Imbiss,0,科隆市中心,0.0,0.0,0.0
+更多美食,unsicht-Bar Koln,unsicht-Bar Koln,0,科隆市中心,0.0,0.0,0.0
+更多美食,Westflugel Das Kleine Lokal,Westflugel Das Kleine Lokal,0,科隆市中心,0.0,0.0,0.0
+更多美食,Kandinsky,Kandinsky,0,科隆市中心,0.0,0.0,0.0
+更多美食,Hoai Viet,Hoai Viet,0,科隆市中心,0.0,0.0,0.0
+更多美食,Em Altertuemche,Em Altertuemche,0,科隆市中心,0.0,0.0,0.0
+更多美食,Lapidarium,Lapidarium,0,科隆市中心,0.0,0.0,0.0
+更多美食,La Difference,La Difference,0,科隆市中心,0.0,0.0,0.0
+更多美食,Cafe Schnurrke,Cafe Schnurrke,0,科隆市中心,0.0,0.0,0.0
+更多美食,Big Daddy Cologne,Big Daddy Cologne,0,科隆市中心,0.0,0.0,0.0
+更多美食,Havana,Havana,0,科隆市中心,0.0,0.0,0.0
+更多美食,Wirtshaus Spitz,Wirtshaus Spitz,0,科隆市中心,0.0,0.0,0.0
+更多美食,Alte Feuerwache,Alte Feuerwache,0,科隆市中心,0.0,0.0,0.0
+更多美食,Osteria,Osteria,0,科隆市中心,0.0,0.0,0.0
+更多美食,Oellig,Oellig,0,科隆市中心,0.0,0.0,0.0
+更多美食,Buyuk Harran Doy Doy,Buyuk Harran Doy Doy,0,米尔海姆,0.0,0.0,0.0
+更多美食,Buergerstube Strunden,Buergerstube Strunden,0,米尔海姆,0.0,0.0,0.0
+更多美食,Em Hoettche,Em Hoettche,0,米尔海姆,0.0,0.0,0.0
+更多美食,Knippschild's Restaurant,Knippschild's Restaurant,0,米尔海姆,0.0,0.0,0.0
+更多美食,Rosenzeit,Rosenzeit,0,波尔斯,0.0,0.0,0.0
+更多美食,La Casa del Marisco,La Casa del Marisco,0,波尔斯,0.0,0.0,0.0
+更多美食,Restaurant ,Restaurant ,0,波尔斯,0.0,0.0,0.0
+更多美食,Alte Reichspost,Alte Reichspost,0,波尔斯,0.0,0.0,0.0
+更多美食,Bitzhof,Bitzhof,0,波尔斯,0.0,0.0,0.0
+更多美食,Groov-Terrasse,Groov-Terrasse,0,波尔斯,0.0,0.0,0.0
+更多美食,Kostas,Kostas,0,波尔斯,0.0,0.0,0.0
+更多美食,Zum Jagerhof,Zum Jagerhof,0,波尔斯,0.0,0.0,0.0
+更多美食,Pizzeria La Fornace,Pizzeria La Fornace,0,波尔斯,0.0,0.0,0.0
+更多美食,Kaiser Restaurant,Kaiser Restaurant,0,波尔斯,0.0,0.0,0.0
+更多美食,Ratskeller,Ratskeller,0,波尔斯,0.0,0.0,0.0
+更多美食,Dubrovnik,Dubrovnik,0,波尔斯,0.0,0.0,0.0
+更多美食,Carmeladchen - Cafe Und Kostlichkeiten,Carmeladchen - Cafe Und Kostlichkeiten,0,波尔斯,0.0,0.0,0.0
+更多美食,Haus Kranz,Haus Kranz,0,波尔斯,0.0,0.0,0.0
+更多美食,Der Feilenhof- Alte Schleiferei,Der Feilenhof- Alte Schleiferei,0,波尔斯,0.0,0.0,0.0
+更多美食,Poller Fischerhaus,Poller Fischerhaus,0,波尔斯,0.0,0.0,0.0
+更多美食,Pollerhaus,Pollerhaus,0,波尔斯,0.0,0.0,0.0
+更多美食,Haus Godorf,Haus Godorf,0,其他,0.0,0.0,0.0
+更多美食,Whisky Depot,Whisky Depot,0,其他,0.0,0.0,0.0
+更多美食,Delphi,Delphi,0,其他,0.0,0.0,0.0
+更多美食,Hauptsache,Hauptsache,0,其他,0.0,0.0,0.0
+更多美食,Haus Schmitz,Haus Schmitz,0,其他,0.0,0.0,0.0
+更多美食,Al Capriccio,Al Capriccio,0,其他,0.0,0.0,0.0
+更多美食,Zum St. Martin,Zum St. Martin,0,其他,0.0,0.0,0.0
+更多美食,L'imprimerie,L'imprimerie,0,其他,0.0,0.0,0.0
+更多美食,L'ambiente,L'ambiente,0,其他,0.0,0.0,0.0
+更多美食,Gasthaus-Wessel,Gasthaus-Wessel,0,卡尔克,0.0,0.0,0.0
+更多美食,Burger,Burger,0,卡尔克,0.0,0.0,0.0
+更多美食,Rather Hof,Rather Hof,0,卡尔克,0.0,0.0,0.0
+更多美食,Gaststaette Jaegerhof,Gaststaette Jaegerhof,0,卡尔克,0.0,0.0,0.0
+更多美食,Reissdorf em Cornely,Reissdorf em Cornely,0,卡尔克,0.0,0.0,0.0
+更多美食,Culinarius,Culinarius,0,卡尔克,0.0,0.0,0.0
+更多美食,Resturant Sokrates,Resturant Sokrates,0,卡尔克,0.0,0.0,0.0
+更多美食,Eiscafe Sagittario,Eiscafe Sagittario,0,林登索尔,0.0,0.0,0.0
+更多美食,Cafe Bo,Cafe Bo,0,林登索尔,0.0,0.0,0.0
+更多美食,ABS,ABS,0,林登索尔,0.0,0.0,0.0
+更多美食,Petersberger Hof,Petersberger Hof,0,林登索尔,0.0,0.0,0.0
+更多美食,Trattoria Riviera,Trattoria Riviera,0,林登索尔,0.0,0.0,0.0
+更多美食,Wirtshaus Solzer Klaaf,Wirtshaus Solzer Klaaf,0,林登索尔,0.0,0.0,0.0
+更多美食,Saigon Pho,Saigon Pho,0,林登索尔,0.0,0.0,0.0
+更多美食,My Thai,My Thai,0,林登索尔,0.0,0.0,0.0
+更多美食,Ha-Long Bucht,Ha-Long Bucht,0,林登索尔,0.0,0.0,0.0
+更多美食,Jules Coffee & Restaurant,Jules Coffee & Restaurant,0,林登索尔,0.0,0.0,0.0
+更多美食,Pizzeria Portobello,Pizzeria Portobello,0,林登索尔,0.0,0.0,0.0
+更多美食,Haus am See,Haus am See,0,林登索尔,0.0,0.0,0.0
+更多美食,Restaurant Palanta,Restaurant Palanta,0,林登索尔,0.0,0.0,0.0
+更多美食,Kyoto Running Sushi,Kyoto Running Sushi,0,林登索尔,0.0,0.0,0.0
+更多美食,Ristorante Bellavista Cavallaro,Ristorante Bellavista Cavallaro,0,林登索尔,0.0,0.0,0.0
+更多美食,restaurant Alborz,restaurant Alborz,0,林登索尔,0.0,0.0,0.0
+更多美食,Albertus,Albertus,0,林登索尔,0.0,0.0,0.0
+更多美食,Grunlilie,Grunlilie,0,林登索尔,0.0,0.0,0.0
+更多美食,Lieblings Kuche & Kuchen,Lieblings Kuche & Kuchen,0,林登索尔,0.0,0.0,0.0
+更多美食,Brasserie Marie,Brasserie Marie,0,林登索尔,0.0,0.0,0.0
+更多美食,Da Siro,Da Siro,0,林登索尔,0.0,0.0,0.0
+更多美食,Restaurant Beijing,Restaurant Beijing,0,林登索尔,0.0,0.0,0.0
+更多美食,Tiziano,Tiziano,0,林登索尔,0.0,0.0,0.0
+更多美食,La Strada,La Strada,0,林登索尔,0.0,0.0,0.0
+更多美食,Cafe Bonnen,Cafe Bonnen,0,林登索尔,0.0,0.0,0.0
+更多美食,Signor Verde -Milchfreie Caffebar-,Signor Verde -Milchfreie Caffebar-,0,林登索尔,0.0,0.0,0.0
+更多美食,Osteria Toscana,Osteria Toscana,0,林登索尔,0.0,0.0,0.0
+更多美食,Kolsche Bodega,Kolsche Bodega,0,林登索尔,0.0,0.0,0.0
+更多美食,Lugar,Lugar,0,林登索尔,0.0,0.0,0.0
+更多美食,Al Gufo,Al Gufo,0,林登索尔,0.0,0.0,0.0
+更多美食,Club Astoria,Club Astoria,0,林登索尔,0.0,0.0,0.0
+更多美食,Faro Ristorante Pizzeria,Faro Ristorante Pizzeria,0,林登索尔,0.0,0.0,0.0
+更多美食,Cotta's,Cotta's,0,林登索尔,0.0,0.0,0.0
+更多美食,Sion im Birkenhof,Sion im Birkenhof,0,林登索尔,0.0,0.0,0.0
+更多美食,Schumacher,Schumacher,0,林登索尔,0.0,0.0,0.0
+更多美食,Borsen Restaurant Maitre,Borsen Restaurant Maitre,0,林登索尔,0.0,0.0,0.0
+更多美食,Alt Uesdorf,Alt Uesdorf,0,林登索尔,0.0,0.0,0.0
+更多美食,Lannathai,Lannathai,0,林登索尔,0.0,0.0,0.0
+更多美食,Restaurant Arena,Restaurant Arena,0,林登索尔,0.0,0.0,0.0
+更多美食,Kolnisch Wasser,Kolnisch Wasser,0,林登索尔,0.0,0.0,0.0
+更多美食,Pizza Boy Junkersdorf,Pizza Boy Junkersdorf,0,林登索尔,0.0,0.0,0.0
+更多美食,"Dubai, Koln","Dubai, Koln",0,林登索尔,0.0,0.0,0.0
+更多美食,Taco Loco 3,Taco Loco 3,0,林登索尔,0.0,0.0,0.0
+更多美食,LaTasca,LaTasca,0,林登索尔,0.0,0.0,0.0
+更多美食,China Restaurant Mandarin,China Restaurant Mandarin,0,林登索尔,0.0,0.0,0.0
+更多美食,Bei Mir zu Haus,Bei Mir zu Haus,0,林登索尔,0.0,0.0,0.0
+更多美食,Gasthaus im 1/4,Gasthaus im 1/4,0,尼佩斯,0.0,0.0,0.0
+更多美食,Kornbrenner,Kornbrenner,0,尼佩斯,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,尼佩斯,0.0,0.0,0.0
+更多美食,Antica Osteria,Antica Osteria,0,尼佩斯,0.0,0.0,0.0
+更多美食,Pizza Terminator,Pizza Terminator,0,尼佩斯,0.0,0.0,0.0
+更多美食,La Spendula,La Spendula,0,尼佩斯,0.0,0.0,0.0
+更多美食,Korner's,Korner's,0,尼佩斯,0.0,0.0,0.0
+更多美食,Bistro Pause,Bistro Pause,0,尼佩斯,0.0,0.0,0.0
+更多美食,Cafe Celli,Cafe Celli,0,尼佩斯,0.0,0.0,0.0
+更多美食,Mitica Italia,Mitica Italia,0,尼佩斯,0.0,0.0,0.0
+更多美食,Gernots Cafehaus Restaurant and Bar,Gernots Cafehaus Restaurant and Bar,0,尼佩斯,0.0,0.0,0.0
+更多美食,Hansa Stube,Hansa Stube,0,尼佩斯,0.0,0.0,0.0
+更多美食,Riehler Tal,Riehler Tal,0,尼佩斯,0.0,0.0,0.0
+更多美食,Irodion,Irodion,0,尼佩斯,0.0,0.0,0.0
+更多美食,Zur alten Zollgrenze,Zur alten Zollgrenze,0,尼佩斯,0.0,0.0,0.0
+更多美食,Rennbahn,Rennbahn,0,尼佩斯,0.0,0.0,0.0
+更多美食,Zum Feierabend,Zum Feierabend,0,尼佩斯,0.0,0.0,0.0
+更多美食,Jaegerhof,Jaegerhof,0,尼佩斯,0.0,0.0,0.0
+更多美食,Museum of East Asian Art Cafeteria,Museum of East Asian Art Cafeteria,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Maria Eetcafe Koln,Maria Eetcafe Koln,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Limone,Limone,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Weinlokal Secco,Weinlokal Secco,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Cafe Sehnsucht,Cafe Sehnsucht,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Konak,Konak,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Pizzeria Piccola,Pizzeria Piccola,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Pizzeria Colosseum,Pizzeria Colosseum,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Haus Eichendorff,Haus Eichendorff,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Moselstubchen,Moselstubchen,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Försterstube,Försterstube,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Restaurant Pottgen,Restaurant Pottgen,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Maifeld Cafe-Bar-Restaurant,Maifeld Cafe-Bar-Restaurant,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Wirtshaus Hotzenplotz,Wirtshaus Hotzenplotz,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Trattoria Sicula,Trattoria Sicula,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Bethlehem,Bethlehem,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,EFFI,EFFI,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Akazienhof,Akazienhof,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Brauhaus am Kloster,Brauhaus am Kloster,0,Raderberg,0.0,0.0,0.0
+更多美食,La Serenissina,La Serenissina,0,科隆Chorweiler区,0.0,0.0,0.0
+更多美食,Alte Liebe,Alte Liebe,0,科隆Chorweiler区,0.0,0.0,0.0
+更多美食,Hoeninger,Hoeninger,0,Neustadt-Süd,0.0,0.0,0.0
+更多美食,Asiagourmet,Asiagourmet,0,其他,0.0,0.0,0.0
+更多美食,Bier Und Brezel,Bier Und Brezel,0,其他,0.0,0.0,0.0
+更多美食,Zum Schwan,Zum Schwan,0,其他,0.0,0.0,0.0
+更多美食,TripseBock,TripseBock,0,科隆市中心,0.0,0.0,0.0
+更多美食,Feldkueche,Feldkueche,0,科隆市中心,0.0,0.0,0.0
+更多美食,Hdmona,Hdmona,0,科隆市中心,0.0,0.0,0.0
+更多美食,Latte Macchiato,Latte Macchiato,0,科隆市中心,0.0,0.0,0.0
+更多美食,Oxin,Oxin,0,科隆市中心,0.0,0.0,0.0
+更多美食,Thaiimbiss Rim Khong,Thaiimbiss Rim Khong,0,科隆市中心,0.0,0.0,0.0
+更多美食,Tomatoes,Tomatoes,0,科隆市中心,0.0,0.0,0.0
+更多美食,Keimaks,Keimaks,0,科隆市中心,0.0,0.0,0.0
+更多美食,Limes Restaurant,Limes Restaurant,0,科隆市中心,0.0,0.0,0.0
+更多美食,Mainzer Hof,Mainzer Hof,0,科隆市中心,0.0,0.0,0.0
+更多美食,Meister Gerhard,Meister Gerhard,0,科隆市中心,0.0,0.0,0.0
+更多美食,Peperino,Peperino,0,科隆市中心,0.0,0.0,0.0
+更多美食,Veedel Vital Koln,Veedel Vital Koln,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bento Box,Bento Box,0,科隆市中心,0.0,0.0,0.0
+更多美食,Weinhaus Sud,Weinhaus Sud,0,科隆市中心,0.0,0.0,0.0
+更多美食,Dinnerclub,Dinnerclub,0,科隆市中心,0.0,0.0,0.0
+更多美食,ecco,ecco,0,科隆市中心,0.0,0.0,0.0
+更多美食,Tobioka,Tobioka,0,科隆市中心,0.0,0.0,0.0
+更多美食,BAR Lotta,BAR Lotta,0,科隆市中心,0.0,0.0,0.0
+更多美食,Severin Gaststätte,Severin Gaststätte,0,科隆市中心,0.0,0.0,0.0
+更多美食,Del Bajazzo,Del Bajazzo,0,科隆市中心,0.0,0.0,0.0
+更多美食,La Esquina,La Esquina,0,科隆市中心,0.0,0.0,0.0
+更多美食,Zum Alten Brauhaus,Zum Alten Brauhaus,0,科隆市中心,0.0,0.0,0.0
+更多美食,Gaststatte Wirtz,Gaststatte Wirtz,0,科隆市中心,0.0,0.0,0.0
+更多美食,Em Scheffge,Em Scheffge,0,科隆市中心,0.0,0.0,0.0
+更多美食,Fahrhaus,Fahrhaus,0,科隆市中心,0.0,0.0,0.0
+更多美食,Rotonda Restaurant,Rotonda Restaurant,0,科隆市中心,0.0,0.0,0.0
+更多美食,Zum Salzruempchen,Zum Salzruempchen,0,科隆市中心,0.0,0.0,0.0
+更多美食,Tom Yam Gung,Tom Yam Gung,0,科隆市中心,0.0,0.0,0.0
+更多美食,Khun Mae,Khun Mae,0,科隆市中心,0.0,0.0,0.0
+更多美食,Zarathustra,Zarathustra,0,科隆市中心,0.0,0.0,0.0
+更多美食,Manni's Rastorang,Manni's Rastorang,0,科隆市中心,0.0,0.0,0.0
+更多美食,Viva Brasil,Viva Brasil,0,科隆市中心,0.0,0.0,0.0
+更多美食,Pizza Mista,Pizza Mista,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bella Rosa,Bella Rosa,0,科隆市中心,0.0,0.0,0.0
+更多美食,Roter Platz,Roter Platz,0,科隆市中心,0.0,0.0,0.0
+更多美食,Restaurant Mango,Restaurant Mango,0,科隆市中心,0.0,0.0,0.0
+更多美食,Buffet Chen,Buffet Chen,0,科隆市中心,0.0,0.0,0.0
+更多美食,Beim Köelsche Jung,Beim Köelsche Jung,0,科隆市中心,0.0,0.0,0.0
+更多美食,Haus Toller,Haus Toller,0,科隆市中心,0.0,0.0,0.0
+更多美食,Shepheard,Shepheard,0,科隆市中心,0.0,0.0,0.0
+更多美食,Al Gambero,Al Gambero,0,科隆市中心,0.0,0.0,0.0
+更多美食,Alte Griechenschanke,Alte Griechenschanke,0,科隆市中心,0.0,0.0,0.0
+更多美食,Gate to India,Gate to India,0,科隆市中心,0.0,0.0,0.0
+更多美食,Sadaf,Sadaf,0,科隆市中心,0.0,0.0,0.0
+更多美食,Injera,Injera,0,科隆市中心,0.0,0.0,0.0
+更多美食,Himmel Un Äd,Himmel Un Äd,0,,0.0,0.0,0.0
+更多美食,Rosenstock,Rosenstock,0,科隆市中心,0.0,0.0,0.0
+更多美食,Wackes Weinstube,Wackes Weinstube,0,科隆市中心,0.0,0.0,0.0
+更多美食,Al Castello Romano,Al Castello Romano,0,科隆市中心,0.0,0.0,0.0
+更多美食,Nyam Nyam,Nyam Nyam,0,科隆市中心,0.0,0.0,0.0
+更多美食,McDonalds,McDonalds,0,科隆市中心,0.0,0.0,0.0
+更多美食,Wirtshaus-Schwejk,Wirtshaus-Schwejk,0,科隆市中心,0.0,0.0,0.0
+更多美食,Yo,Yo,0,科隆市中心,0.0,0.0,0.0
+更多美食,Beef Farm-Inn,Beef Farm-Inn,0,科隆市中心,0.0,0.0,0.0
+更多美食,Chicago Steakhouse,Chicago Steakhouse,0,科隆市中心,0.0,0.0,0.0
+更多美食,L'Antipasto,L'Antipasto,0,科隆市中心,0.0,0.0,0.0
+更多美食,Buongusto,Buongusto,0,科隆市中心,0.0,0.0,0.0
+更多美食,Klein-Koeln,Klein-Koeln,0,科隆市中心,0.0,0.0,0.0
+更多美食,Ambiance Am Dom,Ambiance Am Dom,0,科隆市中心,0.0,0.0,0.0
+更多美食,Sansone,Sansone,0,科隆市中心,0.0,0.0,0.0
+更多美食,Kervansaray,Kervansaray,0,米尔海姆,0.0,0.0,0.0
+更多美食,Brauhaus Dellbrueck,Brauhaus Dellbrueck,0,米尔海姆,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,米尔海姆,0.0,0.0,0.0
+更多美食,Peking Garden,Peking Garden,0,米尔海姆,0.0,0.0,0.0
+更多美食,Eltzhof,Eltzhof,0,波尔斯,0.0,0.0,0.0
+更多美食,Papillon Restaurant,Papillon Restaurant,0,波尔斯,0.0,0.0,0.0
+更多美食,Granarium,Granarium,0,波尔斯,0.0,0.0,0.0
+更多美食,Kaiser Palast,Kaiser Palast,0,波尔斯,0.0,0.0,0.0
+更多美食,Efes Pub,Efes Pub,0,波尔斯,0.0,0.0,0.0
+更多美食,Bitzerhof,Bitzerhof,0,其他,0.0,0.0,0.0
+更多美食,Surther Bootshaus,Surther Bootshaus,0,其他,0.0,0.0,0.0
+更多美食,Temma Deli & Cafe,Temma Deli & Cafe,0,其他,0.0,0.0,0.0
+更多美食,Decksteiner Muhle,Decksteiner Muhle,0,其他,0.0,0.0,0.0
+更多美食,Gut Wistorfs,Gut Wistorfs,0,卡尔克,0.0,0.0,0.0
+更多美食,Em Birkebaumche,Em Birkebaumche,0,林登索尔,0.0,0.0,0.0
+更多美食,Em Neuenhof,Em Neuenhof,0,林登索尔,0.0,0.0,0.0
+更多美食,Trattoria Siciliana,Trattoria Siciliana,0,林登索尔,0.0,0.0,0.0
+更多美食,Pablo Tapas Bar,Pablo Tapas Bar,0,林登索尔,0.0,0.0,0.0
+更多美食,L'Apero,L'Apero,0,林登索尔,0.0,0.0,0.0
+更多美食,Brenner scher Hof,Brenner scher Hof,0,林登索尔,0.0,0.0,0.0
+更多美食,Restaurant Hotel Germania,Restaurant Hotel Germania,0,林登索尔,0.0,0.0,0.0
+更多美食,Ehrenfelder Geissbock,Ehrenfelder Geissbock,0,林登索尔,0.0,0.0,0.0
+更多美食,Pizza Pazza,Pizza Pazza,0,尼佩斯,0.0,0.0,0.0
+更多美食,Gaststatte Zur Schmiede,Gaststatte Zur Schmiede,0,尼佩斯,0.0,0.0,0.0
+更多美食,djinn,djinn,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Jaely's,Jaely's,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Bistro Fritz,Bistro Fritz,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Herbrandt s,Herbrandt s,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Wicleff,Wicleff,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Iltiseck,Iltiseck,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Culinarius,Culinarius,0,Raderberg,0.0,0.0,0.0
+更多美食,Boquerones,Boquerones,0,科隆Chorweiler区,0.0,0.0,0.0
+更多美食,Seepavillion,Seepavillion,0,科隆Chorweiler区,0.0,0.0,0.0
+更多美食,Koelsch & Co,Koelsch & Co,0,Airport Cologne/Bonn,0.0,0.0,0.0
+更多美食,Filos,Filos,0,科隆市中心,0.0,0.0,0.0
+更多美食,Mar Y Sol,Mar Y Sol,0,科隆市中心,0.0,0.0,0.0
+更多美食,Ca'n Marcos - Der Kolsche Mallorquiner,Ca'n Marcos - Der Kolsche Mallorquiner,0,科隆市中心,0.0,0.0,0.0
+更多美食,Abyssinia,Abyssinia,0,科隆市中心,0.0,0.0,0.0
+更多美食,Falafel Salam,Falafel Salam,0,科隆市中心,0.0,0.0,0.0
+更多美食,Oscar,Oscar,0,科隆市中心,0.0,0.0,0.0
+更多美食,Wolkenburg,Wolkenburg,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bruecken-Stuebchen,Bruecken-Stuebchen,0,科隆市中心,0.0,0.0,0.0
+更多美食,Delix,Delix,0,科隆市中心,0.0,0.0,0.0
+更多美食,Zur alten Munze,Zur alten Munze,0,科隆市中心,0.0,0.0,0.0
+更多美食,Loewenbrau,Loewenbrau,0,科隆市中心,0.0,0.0,0.0
+更多美食,SIN Koln,SIN Koln,0,科隆市中心,0.0,0.0,0.0
+更多美食,Zipps,Zipps,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bons Restaurant,Bons Restaurant,0,科隆市中心,0.0,0.0,0.0
+更多美食,Tandoor Palace,Tandoor Palace,0,科隆市中心,0.0,0.0,0.0
+更多美食,Pasta E Musica,Pasta E Musica,0,科隆市中心,0.0,0.0,0.0
+更多美食,Gonzalez & Gonzalez,Gonzalez & Gonzalez,0,科隆市中心,0.0,0.0,0.0
+更多美食,BAR TABAC,BAR TABAC,0,科隆市中心,0.0,0.0,0.0
+更多美食,Suppenkaspar,Suppenkaspar,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bangkok,Bangkok,0,科隆市中心,0.0,0.0,0.0
+更多美食,Morgenstern,Morgenstern,0,科隆市中心,0.0,0.0,0.0
+更多美食,Mario's Trattoria,Mario's Trattoria,0,科隆市中心,0.0,0.0,0.0
+更多美食,Taberna Flamenca,Taberna Flamenca,0,科隆市中心,0.0,0.0,0.0
+更多美食,Don Quijote,Don Quijote,0,科隆市中心,0.0,0.0,0.0
+更多美食,Hammersteins,Hammersteins,0,科隆市中心,0.0,0.0,0.0
+更多美食,FRITS,FRITS,0,科隆市中心,0.0,0.0,0.0
+更多美食,M 20,M 20,0,科隆市中心,0.0,0.0,0.0
+更多美食,Eiscafe und Bistro Opera,Eiscafe und Bistro Opera,0,科隆市中心,0.0,0.0,0.0
+更多美食,La Pad Karl Heinz Kern,La Pad Karl Heinz Kern,0,科隆市中心,0.0,0.0,0.0
+更多美食,Limburger Hof,Limburger Hof,0,科隆市中心,0.0,0.0,0.0
+更多美食,Alex Gaststatten Gesellschaft,Alex Gaststatten Gesellschaft,0,科隆市中心,0.0,0.0,0.0
+更多美食,Arkadia,Arkadia,0,科隆市中心,0.0,0.0,0.0
+更多美食,Atelier Am Dom,Atelier Am Dom,0,科隆市中心,0.0,0.0,0.0
+更多美食,Zeicafe,Zeicafe,0,科隆市中心,0.0,0.0,0.0
+更多美食,Banker's,Banker's,0,科隆市中心,0.0,0.0,0.0
+更多美食,Bistro Corner,Bistro Corner,0,科隆市中心,0.0,0.0,0.0
+更多美食,Gezeiten,Gezeiten,0,科隆市中心,0.0,0.0,0.0
+更多美食,Monheimer Hof,Monheimer Hof,0,科隆市中心,0.0,0.0,0.0
+更多美食,Gaffel-Stuebchen,Gaffel-Stuebchen,0,米尔海姆,0.0,0.0,0.0
+更多美食,Gross,Gross,0,米尔海姆,0.0,0.0,0.0
+更多美食,Cantina Latino Mexicana,Cantina Latino Mexicana,0,米尔海姆,0.0,0.0,0.0
+更多美食,Korfu,Korfu,0,米尔海姆,0.0,0.0,0.0
+更多美食,Conde,Conde,0,米尔海姆,0.0,0.0,0.0
+更多美食,B.W.,B.W.,0,波尔斯,0.0,0.0,0.0
+更多美食,Demmer,Demmer,0,波尔斯,0.0,0.0,0.0
+更多美食,C M B,C M B,0,波尔斯,0.0,0.0,0.0
+更多美食,Zur Lindenwirtin,Zur Lindenwirtin,0,波尔斯,0.0,0.0,0.0
+更多美食,San Marco,San Marco,0,波尔斯,0.0,0.0,0.0
+更多美食,Cancun,Cancun,0,其他,0.0,0.0,0.0
+更多美食,Steakhaus El Dorado,Steakhaus El Dorado,0,其他,0.0,0.0,0.0
+更多美食,Sysuco,Sysuco,0,其他,0.0,0.0,0.0
+更多美食,Le Patron,Le Patron,0,其他,0.0,0.0,0.0
+更多美食,La Modicana,La Modicana,0,其他,0.0,0.0,0.0
+更多美食,Settantotto,Settantotto,0,其他,0.0,0.0,0.0
+更多美食,Dellbrucker Schlemmerhusje,Dellbrucker Schlemmerhusje,0,其他,0.0,0.0,0.0
+更多美食,Anno Pomm,Anno Pomm,0,卡尔克,0.0,0.0,0.0
+更多美食,Alt Ostheim,Alt Ostheim,0,卡尔克,0.0,0.0,0.0
+更多美食,Arenas,Arenas,0,卡尔克,0.0,0.0,0.0
+更多美食,Sion Eck,Sion Eck,0,卡尔克,0.0,0.0,0.0
+更多美食,Pizza Rakete,Pizza Rakete,0,卡尔克,0.0,0.0,0.0
+更多美食,Ristorante Gatti,Ristorante Gatti,0,卡尔克,0.0,0.0,0.0
+更多美食,Em Ahle Kohberg,Em Ahle Kohberg,0,卡尔克,0.0,0.0,0.0
+更多美食,Central Kebab Haus,Central Kebab Haus,0,林登索尔,0.0,0.0,0.0
+更多美食,Aeppel Store,Aeppel Store,0,林登索尔,0.0,0.0,0.0
+更多美食,Steakhaus Die Fleischerei,Steakhaus Die Fleischerei,0,林登索尔,0.0,0.0,0.0
+更多美食,The Root,The Root,0,林登索尔,0.0,0.0,0.0
+更多美食,Sion im Schaefer,Sion im Schaefer,0,林登索尔,0.0,0.0,0.0
+更多美食,Fruh Feinkosttheke,Fruh Feinkosttheke,0,林登索尔,0.0,0.0,0.0
+更多美食,Haus Brecher,Haus Brecher,0,林登索尔,0.0,0.0,0.0
+更多美食,Schluters Bar & Restaurant,Schluters Bar & Restaurant,0,林登索尔,0.0,0.0,0.0
+更多美食,Im Braunsfeld,Im Braunsfeld,0,林登索尔,0.0,0.0,0.0
+更多美食,Immer Essen,Immer Essen,0,科隆埃伦费尔德区,0.0,0.0,0.0
+更多美食,Zum Funkhaus,Zum Funkhaus,0,莱德塔尔,0.0,0.0,0.0
+更多美食,Taqueria Especial,Taqueria Especial,0,科隆市中心,0.0,0.0,0.0
+更多美食,Höhns Dome Brasserie & Bar,Höhns Dome Brasserie & Bar,0,科隆市中心,0.0,0.0,0.0
+更多美食,Fonda,Fonda,0,科隆市中心,0.0,0.0,0.0
+更多美食,Louisiana,Louisiana,0,科隆市中心,0.0,0.0,0.0
+更多美食,Restaurant zur Bottmuhle,Restaurant zur Bottmuhle,0,科隆市中心,0.0,0.0,0.0
+更多美食,Severins-Klause,Severins-Klause,0,科隆市中心,0.0,0.0,0.0
+更多美食,Govindam,Govindam,0,科隆市中心,0.0,0.0,0.0
+更多美食,Stiefel,Stiefel,0,科隆市中心,0.0,0.0,0.0
+更多美食,Taco Loco I,Taco Loco I,0,科隆市中心,0.0,0.0,0.0
+更多美食,Playboyclub,Playboyclub,0,科隆市中心,0.0,0.0,0.0
+更多美食,George M.,George M.,0,,0.0,0.0,0.0

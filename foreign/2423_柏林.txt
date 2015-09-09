@@ -1,0 +1,3097 @@
+意大利菜,La Via del Muro,La Via del Muro,0,,8.3,8.3,8.3
+意大利菜,Pizza Point,Pizza Point,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Salumeria Lamuri,Salumeria Lamuri,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Rinascimento,Rinascimento,0,,0.0,0.0,0.0
+意大利菜,Osteria da Silvio e Amici,Osteria da Silvio e Amici,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Sagrantino,Sagrantino,0,,0.0,0.0,0.0
+意大利菜,Centolire,Centolire,0,,0.0,0.0,0.0
+意大利菜,La Focaccia,La Focaccia,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Appetito Italiano,Appetito Italiano,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Trattoria Milano,Trattoria Milano,0,,0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,,0.0,0.0,0.0
+意大利菜,Ristorante Stelle,Ristorante Stelle,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Cuore Di Vetro,Cuore Di Vetro,0,,0.0,0.0,0.0
+意大利菜,Trattoria Lo Spaghettino,Trattoria Lo Spaghettino,0,蒂尔加滕,0.0,0.0,0.0
+意大利菜,Salut Mediterranean Food,Salut Mediterranean Food,0,,0.0,0.0,0.0
+意大利菜,Pizza Delizia,Pizza Delizia,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Ristorante Galileo,Ristorante Galileo,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Ristorante La Merita,Ristorante La Merita,0,新克尔恩,0.0,0.0,0.0
+意大利菜,Osteria dell'Arte,Osteria dell'Arte,0,蒂尔加滕,0.0,0.0,0.0
+意大利菜,Osteria il Vino da Tano,Osteria il Vino da Tano,0,,0.0,0.0,0.0
+意大利菜,Sfizy Veg,Sfizy Veg,0,新克尔恩,0.0,0.0,0.0
+意大利菜,Ristorante La Tettoia,Ristorante La Tettoia,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+意大利菜,Brigantino,Brigantino,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Pino,Pino,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Trattoria Tropea,Trattoria Tropea,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Bruno,Bruno,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,Vapiano Berlin Hauptbahnhof,Vapiano Berlin Hauptbahnhof,0,,0.0,0.0,0.0
+意大利菜,Sapori Italiani,Sapori Italiani,0,,0.0,0.0,0.0
+意大利菜,Bocca di Bacco,Bocca di Bacco,0,,0.0,0.0,0.0
+意大利菜,Ristorante Stella Alpina,Ristorante Stella Alpina,0,,0.0,0.0,0.0
+意大利菜,Boccondivino,Boccondivino,0,,0.0,0.0,0.0
+意大利菜,Focacceria,Focacceria,0,,0.0,0.0,0.0
+意大利菜,Locanda,Locanda,0,,0.0,0.0,0.0
+意大利菜,Trattoria Felice,Trattoria Felice,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Toni's Ristorante,Toni's Ristorante,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Nuovo Mario,Nuovo Mario,0,,0.0,0.0,0.0
+意大利菜,Porta Nova,Porta Nova,0,,0.0,0.0,0.0
+意大利菜,Vinoteca,Vinoteca,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Ristorante Piccolo Mondo,Ristorante Piccolo Mondo,0,,0.0,0.0,0.0
+意大利菜,Salumeria Pizza Pasta,Salumeria Pizza Pasta,0,,0.0,0.0,0.0
+意大利菜,Cafe & Bistro CaliBocca,Cafe & Bistro CaliBocca,0,,0.0,0.0,0.0
+意大利菜,Trattoria Vesuvio,Trattoria Vesuvio,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Restaurant Gino,Restaurant Gino,0,柏林利希滕贝格,0.0,0.0,0.0
+意大利菜,Ristorante Essenza,Ristorante Essenza,0,,0.0,0.0,0.0
+意大利菜,Ristorante Peppone,Ristorante Peppone,0,,0.0,0.0,0.0
+意大利菜,Trattoria Peretti,Trattoria Peretti,0,,0.0,0.0,0.0
+意大利菜,Pizzeria Ledi Berlin,Pizzeria Ledi Berlin,0,柏林利希滕贝格,0.0,0.0,0.0
+意大利菜,Amici am Gendarmenmarkt,Amici am Gendarmenmarkt,0,,0.0,0.0,0.0
+意大利菜,Ristorante Marinelli,Ristorante Marinelli,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Romantica,Ristorante Pizzeria Romantica,0,,0.0,0.0,0.0
+意大利菜,Restaurant La Serra,Restaurant La Serra,0,新克尔恩,0.0,0.0,0.0
+意大利菜,Vino Del. Sol,Vino Del. Sol,0,柏林利希滕贝格,0.0,0.0,0.0
+意大利菜,Ristorante Roma,Ristorante Roma,0,,0.0,0.0,0.0
+意大利菜,L'Osteria Bikini Berlin,L'Osteria Bikini Berlin,0,,0.0,0.0,0.0
+意大利菜,La Piccola,La Piccola,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Masteca e Tasi,Masteca e Tasi,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Isino,Isino,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Aytens Loeffelbar,Aytens Loeffelbar,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Il Bufalo,Il Bufalo,0,柏林利希滕贝格,0.0,0.0,0.0
+意大利菜,Ristorante La Buca,Ristorante La Buca,0,柏林利希滕贝格,0.0,0.0,0.0
+意大利菜,Bergamotto,Bergamotto,0,柏林利希滕贝格,0.0,0.0,0.0
+意大利菜,Antipasteria Garbatella,Antipasteria Garbatella,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Toscane,Ristorante Pizzeria Toscane,0,新克尔恩,0.0,0.0,0.0
+意大利菜,Café KATULKI,Café KATULKI,0,新克尔恩,0.0,0.0,0.0
+意大利菜,Stella Marina,Stella Marina,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,Trattoria da Francesco,Trattoria da Francesco,0,施潘道,0.0,0.0,0.0
+意大利菜,Pescara,Pescara,0,施潘道,0.0,0.0,0.0
+意大利菜,Trattoria Pasta degli Angeli,Trattoria Pasta degli Angeli,0,潘科,0.0,0.0,0.0
+意大利菜,Don Pasquale,Don Pasquale,0,潘科,0.0,0.0,0.0
+意大利菜,Restaurante Tresoli,Restaurante Tresoli,0,克珀尼克,0.0,0.0,0.0
+意大利菜,Il Kop,Il Kop,0,克珀尼克,0.0,0.0,0.0
+意大利菜,Mia Toscana,Mia Toscana,0,特雷普托,0.0,0.0,0.0
+意大利菜,Aversa,Aversa,0,特雷普托,0.0,0.0,0.0
+意大利菜,Trattoria Lioni,Trattoria Lioni,0,,0.0,0.0,0.0
+意大利菜,La Maremma,La Maremma,0,,0.0,0.0,0.0
+意大利菜,La Culinaria,La Culinaria,0,,0.0,0.0,0.0
+意大利菜,Gusto,Gusto,0,,0.0,0.0,0.0
+意大利菜,Trattoria Pietrafitta,Trattoria Pietrafitta,0,,0.0,0.0,0.0
+意大利菜,Ristorante I Portici,Ristorante I Portici,0,,0.0,0.0,0.0
+意大利菜,Nabucco,Nabucco,0,,0.0,0.0,0.0
+意大利菜,Vini e Salumi,Vini e Salumi,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Bocelli Berlin,Bocelli Berlin,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,bar - pizzeria italiano,bar - pizzeria italiano,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Via Lattea,Via Lattea,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Al Muretto,Al Muretto,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Doremi,Doremi,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Call a Pizza,Call a Pizza,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Caffè Monelli,Caffè Monelli,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Trattoria Terra Sarda,Trattoria Terra Sarda,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Ristorante Primo,Ristorante Primo,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,L'assaggino Berlin-Kreuzberg,L'assaggino Berlin-Kreuzberg,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Parlamento,Parlamento,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Vino e Cucina,Vino e Cucina,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Brio,Brio,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Martinello,Martinello,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Azul,Azul,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,La Castellana,La Castellana,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Tutti Gusti,Tutti Gusti,0,,0.0,0.0,0.0
+意大利菜,Portofino im Estrel Hotel Berlin,Portofino im Estrel Hotel Berlin,0,,0.0,0.0,0.0
+意大利菜,Restaurant Edoni,Restaurant Edoni,0,,0.0,0.0,0.0
+意大利菜,Cucina Comoda,Cucina Comoda,0,,0.0,0.0,0.0
+意大利菜,Trattoria Pan Degli Angeli,Trattoria Pan Degli Angeli,0,,0.0,0.0,0.0
+意大利菜,Cross Finest Deli,Cross Finest Deli,0,,0.0,0.0,0.0
+意大利菜,Osteria Caruso,Osteria Caruso,0,,0.0,0.0,0.0
+意大利菜,Ristorante Osteria Centrale Berlin,Ristorante Osteria Centrale Berlin,0,,0.0,0.0,0.0
+意大利菜,Petrocelli am Savignyplatz,Petrocelli am Savignyplatz,0,,0.0,0.0,0.0
+意大利菜,Ristorante Dal terrone,Ristorante Dal terrone,0,,0.0,0.0,0.0
+意大利菜,Don Camillo,Don Camillo,0,,0.0,0.0,0.0
+意大利菜,Il Punto,Il Punto,0,,0.0,0.0,0.0
+意大利菜,Ristorante A Mano,Ristorante A Mano,0,,0.0,0.0,0.0
+意大利菜,12 Apostel,12 Apostel,0,,0.0,0.0,0.0
+意大利菜,Ristorante Cinque,Ristorante Cinque,0,,0.0,0.0,0.0
+意大利菜,Oliva,Oliva,0,,0.0,0.0,0.0
+意大利菜,Ristorante Dolce,Ristorante Dolce,0,,0.0,0.0,0.0
+意大利菜,muret la barba,muret la barba,0,,0.0,0.0,0.0
+意大利菜,Al Contadino Sotte Le Stelle,Al Contadino Sotte Le Stelle,0,,0.0,0.0,0.0
+意大利菜,Cavallino Rosso Restaurant,Cavallino Rosso Restaurant,0,,0.0,0.0,0.0
+意大利菜,La Galleria Italiana,La Galleria Italiana,0,,0.0,0.0,0.0
+意大利菜,petrarca vinantipasteria,petrarca vinantipasteria,0,,0.0,0.0,0.0
+意大利菜,Vino e Libri,Vino e Libri,0,,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Papa Pane di Sorrento,Pizzeria Ristorante Papa Pane di Sorrento,0,,0.0,0.0,0.0
+意大利菜,Pasta & Passione,Pasta & Passione,0,,0.0,0.0,0.0
+意大利菜,Ristorante Bella Italia,Ristorante Bella Italia,0,,0.0,0.0,0.0
+意大利菜,La Famiglia,La Famiglia,0,,0.0,0.0,0.0
+意大利菜,Il Valentino,Il Valentino,0,,0.0,0.0,0.0
+意大利菜,Restaurant Yasmin,Restaurant Yasmin,0,,0.0,0.0,0.0
+意大利菜,Cassa Matti,Cassa Matti,0,蒂尔加滕,0.0,0.0,0.0
+意大利菜,Gaststatte Mediterraneo,Gaststatte Mediterraneo,0,蒂尔加滕,0.0,0.0,0.0
+意大利菜,Terra Mia - Cucina Campana,Terra Mia - Cucina Campana,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Metamorfosia,Metamorfosia,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Mediterranean Flavour,Mediterranean Flavour,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Brot & Rosen,Brot & Rosen,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Il Mondo,Il Mondo,0,柏林利希滕贝格,0.0,0.0,0.0
+意大利菜,Arcimboldo,Arcimboldo,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,La Gondola Due,La Gondola Due,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Il Gondole II,Il Gondole II,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,La Montanara,La Montanara,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Ristorante il Mulino,Ristorante il Mulino,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Osteria Maria,Osteria Maria,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Casa Montella,Casa Montella,0,新克尔恩,0.0,0.0,0.0
+意大利菜,Gallo Nero,Gallo Nero,0,新克尔恩,0.0,0.0,0.0
+意大利菜,Dolcini,Dolcini,0,新克尔恩,0.0,0.0,0.0
+意大利菜,Ponte,Ponte,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,La Maria,La Maria,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,Nuovo Mario Berlin Sud,Nuovo Mario Berlin Sud,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,Ristorante Rusticana,Ristorante Rusticana,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,Arcino's,Arcino's,0,潘科,0.0,0.0,0.0
+意大利菜,Marcello Schoeneberg,Marcello Schoeneberg,0,潘科,0.0,0.0,0.0
+意大利菜,Restaurante Trattoria da Gianni,Restaurante Trattoria da Gianni,0,马察恩,0.0,0.0,0.0
+意大利菜,Trofeo,Trofeo,0,,0.0,0.0,0.0
+意大利菜,Machiavelli am Roseneck,Machiavelli am Roseneck,0,,0.0,0.0,0.0
+意大利菜,Osteria Eccolo,Osteria Eccolo,0,,0.0,0.0,0.0
+意大利菜,Pizza Factory,Pizza Factory,0,,0.0,0.0,0.0
+意大利菜,Piazza Bra,Piazza Bra,0,,0.0,0.0,0.0
+意大利菜,Belluccis,Belluccis,0,,0.0,0.0,0.0
+意大利菜,Luardi,Luardi,0,,0.0,0.0,0.0
+意大利菜,Ristorante San Giorgio,Ristorante San Giorgio,0,,0.0,0.0,0.0
+意大利菜,Ristorante Mario,Ristorante Mario,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Trattoria Perla Jonica,Trattoria Perla Jonica,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Petite Europe,Petite Europe,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Punto e Virgola,Punto e Virgola,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Osteria Ribaltone,Osteria Ribaltone,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Centro Sud,Centro Sud,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Giorgio,Giorgio,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Luigi Zuckermann,Luigi Zuckermann,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Mami Camilla,Mami Camilla,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Il Buco di Heidi,Il Buco di Heidi,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Al Dente,Al Dente,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Herr Rossi,Herr Rossi,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Zefiro,Zefiro,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Opitergium,Opitergium,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,CENACOLO,CENACOLO,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Pasta Divina,Pasta Divina,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Vai mo,Vai mo,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Miro,Miro,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Trattoria Tre Soli,Trattoria Tre Soli,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Da Enzo,Da Enzo,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,M. Molinari und K. Koob GbR,M. Molinari und K. Koob GbR,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Gasthaus Figl,Gasthaus Figl,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Tire Bouchon,Tire Bouchon,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Gruenfisch,Gruenfisch,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Peperoncino,Peperoncino,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Maselli Ristorante,Maselli Ristorante,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,I Golosi Briganti,I Golosi Briganti,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Ruby's,Ruby's,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Vaporetto,Vaporetto,0,,0.0,0.0,0.0
+意大利菜,Ristorante Fratelli,Ristorante Fratelli,0,,0.0,0.0,0.0
+意大利菜,Pasta Deli,Pasta Deli,0,,0.0,0.0,0.0
+意大利菜,Casa Italia,Casa Italia,0,,0.0,0.0,0.0
+意大利菜,La Forchetta,La Forchetta,0,,0.0,0.0,0.0
+意大利菜,Ristorante Diomira,Ristorante Diomira,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Goldener Hahn,Goldener Hahn,0,,0.0,0.0,0.0
+意大利菜,Ristorante la Sardegna,Ristorante la Sardegna,0,,0.0,0.0,0.0
+意大利菜,Ottavio,Ottavio,0,,0.0,0.0,0.0
+意大利菜,mondo pazzo,mondo pazzo,0,,0.0,0.0,0.0
+意大利菜,Die Zwolf Apostel,Die Zwolf Apostel,0,,0.0,0.0,0.0
+意大利菜,Portofino,Portofino,0,,0.0,0.0,0.0
+意大利菜,Restaurant Brunello,Restaurant Brunello,0,,0.0,0.0,0.0
+意大利菜,Il Passetto,Il Passetto,0,,0.0,0.0,0.0
+意大利菜,valmontone,valmontone,0,,0.0,0.0,0.0
+意大利菜,Cantinetta,Cantinetta,0,,0.0,0.0,0.0
+意大利菜,Dal Moro,Dal Moro,0,,0.0,0.0,0.0
+意大利菜,Rosati,Rosati,0,,0.0,0.0,0.0
+意大利菜,Don Giovanni,Don Giovanni,0,,0.0,0.0,0.0
+意大利菜,Pontecarlo,Pontecarlo,0,,0.0,0.0,0.0
+意大利菜,Il pastificio,Il pastificio,0,,0.0,0.0,0.0
+意大利菜,Solino,Solino,0,,0.0,0.0,0.0
+意大利菜,Trattoria Rathaus Piazza,Trattoria Rathaus Piazza,0,,0.0,0.0,0.0
+意大利菜,Trattoria Fra Diavoli,Trattoria Fra Diavoli,0,,0.0,0.0,0.0
+意大利菜,Machiavelli Albrechtstrasse,Machiavelli Albrechtstrasse,0,,0.0,0.0,0.0
+意大利菜,La Vespa Bar and Trattoria,La Vespa Bar and Trattoria,0,,0.0,0.0,0.0
+意大利菜,Don Angelo,Don Angelo,0,,0.0,0.0,0.0
+意大利菜,Pane e Vino,Pane e Vino,0,,0.0,0.0,0.0
+意大利菜,basi'l Berlin,basi'l Berlin,0,,0.0,0.0,0.0
+意大利菜,Trattoria Ossena,Trattoria Ossena,0,,0.0,0.0,0.0
+意大利菜,Ristorante Garda,Ristorante Garda,0,,0.0,0.0,0.0
+意大利菜,Al Dente,Al Dente,0,,0.0,0.0,0.0
+意大利菜,Al Contadino Weinbar,Al Contadino Weinbar,0,,0.0,0.0,0.0
+意大利菜,da Piadina,da Piadina,0,,0.0,0.0,0.0
+意大利菜,Poverraci,Poverraci,0,,0.0,0.0,0.0
+意大利菜,Petrocellli Restaurant,Petrocellli Restaurant,0,,0.0,0.0,0.0
+意大利菜,La Focaccia,La Focaccia,0,,0.0,0.0,0.0
+意大利菜,Ristoro Padre Pio,Ristoro Padre Pio,0,,0.0,0.0,0.0
+意大利菜,Bar dello Sport,Bar dello Sport,0,,0.0,0.0,0.0
+意大利菜,Hostaria del Monte Croce,Hostaria del Monte Croce,0,,0.0,0.0,0.0
+意大利菜,Ristorante Trattoria Pizzeria La Locanda,Ristorante Trattoria Pizzeria La Locanda,0,,0.0,0.0,0.0
+意大利菜,Die Zwoelf Apostel,Die Zwoelf Apostel,0,,0.0,0.0,0.0
+意大利菜,Da Vinci,Da Vinci,0,,0.0,0.0,0.0
+意大利菜,Pane e Vino,Pane e Vino,0,,0.0,0.0,0.0
+意大利菜,Bosco Verde,Bosco Verde,0,,0.0,0.0,0.0
+意大利菜,Pizza Luna,Pizza Luna,0,,0.0,0.0,0.0
+意大利菜,Ristorante ,Ristorante ,0,,0.0,0.0,0.0
+意大利菜,Ristorante II Sorriso,Ristorante II Sorriso,0,蒂尔加滕,0.0,0.0,0.0
+意大利菜,Don Giovanni,Don Giovanni,0,蒂尔加滕,0.0,0.0,0.0
+意大利菜,Firolino Piadineria e Caffe,Firolino Piadineria e Caffe,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Cafe Via Nova,Cafe Via Nova,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Trattoria Libau,Trattoria Libau,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Il Ritrovo,Il Ritrovo,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Vineria Fraschetta,Vineria Fraschetta,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Pizza Dach,Pizza Dach,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Trattoria da Salvatore Pizzeria,Trattoria da Salvatore Pizzeria,0,弗里德里希,0.0,0.0,0.0
+意大利菜,IL Tinello,IL Tinello,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,柏林利希滕贝格,0.0,0.0,0.0
+意大利菜,Ristorante Il Nuovo Cristallo,Ristorante Il Nuovo Cristallo,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Villa Medici,Villa Medici,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Dal Conte,Dal Conte,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Mare e Monti,Mare e Monti,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Piazza Fontana,Piazza Fontana,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Si,Si,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Ristorante Nuovo Paladino,Ristorante Nuovo Paladino,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Madonna del Castello,Madonna del Castello,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Ristorante Albergo,Ristorante Albergo,0,新克尔恩,0.0,0.0,0.0
+意大利菜,Restaurant La Musica,Restaurant La Musica,0,新克尔恩,0.0,0.0,0.0
+意大利菜,Sippi Osteria,Sippi Osteria,0,新克尔恩,0.0,0.0,0.0
+意大利菜,Piccola Italia Pizzeria,Piccola Italia Pizzeria,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,Trattoria Toscana,Trattoria Toscana,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,Osteria del Pescatore,Osteria del Pescatore,0,施潘道,0.0,0.0,0.0
+意大利菜,Isola di Capri,Isola di Capri,0,克珀尼克,0.0,0.0,0.0
+意大利菜,Ristorante italiano Berlin,Ristorante italiano Berlin,0,,0.0,0.0,0.0
+意大利菜,Salento,Salento,0,,0.0,0.0,0.0
+意大利菜,Zosimo,Zosimo,0,,0.0,0.0,0.0
+意大利菜,Trattoria Freni E Frizioni,Trattoria Freni E Frizioni,0,,0.0,0.0,0.0
+意大利菜,PICCOLA TAORMINA,PICCOLA TAORMINA,0,,0.0,0.0,0.0
+意大利菜,Ristorante DA Papa',Ristorante DA Papa',0,,0.0,0.0,0.0
+意大利菜,Osteria,Osteria,0,,0.0,0.0,0.0
+意大利菜,Restaurant Paul,Restaurant Paul,0,,0.0,0.0,0.0
+意大利菜,Bacco,Bacco,0,,0.0,0.0,0.0
+意大利菜,Enoiteca Il Calice,Enoiteca Il Calice,0,,0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,,0.0,0.0,0.0
+意大利菜,Adnan,Adnan,0,,0.0,0.0,0.0
+意大利菜,Tavola Calda,Tavola Calda,0,,0.0,0.0,0.0
+意大利菜,La Cantina,La Cantina,0,蒂尔加滕,0.0,0.0,0.0
+意大利菜,Trattoria dell'Arte,Trattoria dell'Arte,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Cafe Tuffstein,Cafe Tuffstein,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Due Emigranti,Due Emigranti,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Bella Italia,Bella Italia,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Bella Italia,Bella Italia,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Netfes,Netfes,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Gusto Vini e Specialita Italiana,Gusto Vini e Specialita Italiana,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Caffè-Bistro-Sport-Italia,Caffè-Bistro-Sport-Italia,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Tre Secondi,Tre Secondi,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,La Cucina,La Cucina,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Pizzeria Metro,Pizzeria Metro,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Acqua e Farina,Acqua e Farina,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Trattoria Lappeggi,Trattoria Lappeggi,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Belluno,Belluno,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Siediti e Mangia da Gianna,Siediti e Mangia da Gianna,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Delizie D'Italia,Delizie D'Italia,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Due Facce,Due Facce,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Fratelli La Bionda,Fratelli La Bionda,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Tomasa Villa Kreuzberg,Tomasa Villa Kreuzberg,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Restaurant Berlin Kreuzberg +39 piutrentanove,Restaurant Berlin Kreuzberg +39 piutrentanove,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Parlamento Degli Angeli,Parlamento Degli Angeli,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Bellini,Bellini,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Amici Amici Paste & Pizze,Amici Amici Paste & Pizze,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Bar Centrale,Bar Centrale,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Il Casolare,Il Casolare,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,De' Noantri,De' Noantri,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Cicciolina,Cicciolina,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Stiege,Stiege,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Marechiaro Trattoria,Marechiaro Trattoria,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Fontana della Favola,Fontana della Favola,0,,0.0,0.0,0.0
+意大利菜,La Bottega,La Bottega,0,,0.0,0.0,0.0
+意大利菜,Enoteca Zagato,Enoteca Zagato,0,,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Allegro,Ristorante Pizzeria Allegro,0,,0.0,0.0,0.0
+意大利菜,La Piadina,La Piadina,0,,0.0,0.0,0.0
+意大利菜,Ristorant San Marino,Ristorant San Marino,0,,0.0,0.0,0.0
+意大利菜,Mamma Monti,Mamma Monti,0,,0.0,0.0,0.0
+意大利菜,Da Franco,Da Franco,0,,0.0,0.0,0.0
+意大利菜,Sardegna a Tavola,Sardegna a Tavola,0,,0.0,0.0,0.0
+意大利菜,Cavaliere,Cavaliere,0,,0.0,0.0,0.0
+意大利菜,Pizzeria Roma,Pizzeria Roma,0,,0.0,0.0,0.0
+意大利菜,Berlinoff,Berlinoff,0,,0.0,0.0,0.0
+意大利菜,Trattoria Pizzeria Vivo,Trattoria Pizzeria Vivo,0,,0.0,0.0,0.0
+意大利菜,Da Peppino,Da Peppino,0,,0.0,0.0,0.0
+意大利菜,Ristorante Diverso,Ristorante Diverso,0,,0.0,0.0,0.0
+意大利菜,Miele Gallery,Miele Gallery,0,,0.0,0.0,0.0
+意大利菜,Ana e Bruno,Ana e Bruno,0,,0.0,0.0,0.0
+意大利菜,Daniele,Daniele,0,,0.0,0.0,0.0
+意大利菜,Via Nova II,Via Nova II,0,,0.0,0.0,0.0
+意大利菜,La Rustica,La Rustica,0,,0.0,0.0,0.0
+意大利菜,Osteria-Amedeo,Osteria-Amedeo,0,,0.0,0.0,0.0
+意大利菜,Ossena,Ossena,0,,0.0,0.0,0.0
+意大利菜,Call a Pizza,Call a Pizza,0,,0.0,0.0,0.0
+意大利菜,Bonito,Bonito,0,,0.0,0.0,0.0
+意大利菜,CoComo Bistro,CoComo Bistro,0,,0.0,0.0,0.0
+意大利菜,Pas'qua,Pas'qua,0,,0.0,0.0,0.0
+意大利菜,D'Angeli Pizzeria Trattoria,D'Angeli Pizzeria Trattoria,0,,0.0,0.0,0.0
+意大利菜,Risotto,Risotto,0,,0.0,0.0,0.0
+意大利菜,Focolare,Focolare,0,,0.0,0.0,0.0
+意大利菜,Mozzarella E Pomodro,Mozzarella E Pomodro,0,,0.0,0.0,0.0
+意大利菜,Noodeli - Pasta Take Away,Noodeli - Pasta Take Away,0,,0.0,0.0,0.0
+意大利菜,La Caffetteria,La Caffetteria,0,,0.0,0.0,0.0
+意大利菜,Il Campo,Il Campo,0,,0.0,0.0,0.0
+意大利菜,Trattoria Pizzeria Valle Dei Templi,Trattoria Pizzeria Valle Dei Templi,0,,0.0,0.0,0.0
+意大利菜,Cafe Pfortner,Cafe Pfortner,0,,0.0,0.0,0.0
+意大利菜,Sara,Sara,0,,0.0,0.0,0.0
+意大利菜,Sigismondo a Berlino,Sigismondo a Berlino,0,,0.0,0.0,0.0
+意大利菜,Isola Verde,Isola Verde,0,,0.0,0.0,0.0
+意大利菜,Cavallino,Cavallino,0,,0.0,0.0,0.0
+意大利菜,Aceto Lokanta,Aceto Lokanta,0,,0.0,0.0,0.0
+意大利菜,Antonello,Antonello,0,,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Romana,Ristorante Pizzeria Romana,0,,0.0,0.0,0.0
+意大利菜,Ristorante Brescia,Ristorante Brescia,0,,0.0,0.0,0.0
+意大利菜,Ristorante Da Mastrangelo,Ristorante Da Mastrangelo,0,,0.0,0.0,0.0
+意大利菜,La Mandria,La Mandria,0,蒂尔加滕,0.0,0.0,0.0
+意大利菜,"MioMatto - Pasta, Pizza, Passion","MioMatto - Pasta, Pizza, Passion",0,弗里德里希,0.0,0.0,0.0
+意大利菜,Sala da Mangiare,Sala da Mangiare,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Ristorante Oscar's,Ristorante Oscar's,0,柏林利希滕贝格,0.0,0.0,0.0
+意大利菜,To Beef or Not To Beef,To Beef or Not To Beef,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Villa del Sol,Villa del Sol,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Pappa e Ciccia,Pappa e Ciccia,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,Avanti,Avanti,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,Trattoria Piazza Rossa,Trattoria Piazza Rossa,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,La Pecora Nera,La Pecora Nera,0,滕珀尔霍夫,0.0,0.0,0.0
+意大利菜,La Dolce Vita,La Dolce Vita,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+意大利菜,La mia Toscana,La mia Toscana,0,,0.0,0.0,0.0
+意大利菜,La Piazza,La Piazza,0,,0.0,0.0,0.0
+意大利菜,Pasta Deli GmbH,Pasta Deli GmbH,0,,0.0,0.0,0.0
+意大利菜,Pirate Pizza,Pirate Pizza,0,,0.0,0.0,0.0
+意大利菜,Paulo Scutarro,Paulo Scutarro,0,,0.0,0.0,0.0
+意大利菜,Petrocelli Ristorante am Kurfuerstendamm,Petrocelli Ristorante am Kurfuerstendamm,0,,0.0,0.0,0.0
+意大利菜,Trattoria Boccacelli,Trattoria Boccacelli,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Medel,Medel,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Restaurant San Marino,Restaurant San Marino,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Passaparola,Passaparola,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Boccacelli am Winterfeldplatz,Boccacelli am Winterfeldplatz,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Trattoria a Muntagnola,Trattoria a Muntagnola,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Loggia,Loggia,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Aromi e Sapori,Aromi e Sapori,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Il Giradischi,Il Giradischi,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Trattoria Paparazzi,Trattoria Paparazzi,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,San Marco,San Marco,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Osteria No. 1,Osteria No. 1,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Piccola Musica,Piccola Musica,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Paglia,Paglia,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Fraticelli's Berlin,Fraticelli's Berlin,0,,0.0,0.0,0.0
+意大利菜,San Marino Restaurant,San Marino Restaurant,0,,0.0,0.0,0.0
+意大利菜,Rocco,Rocco,0,,0.0,0.0,0.0
+意大利菜,antica lasagneria,antica lasagneria,0,,0.0,0.0,0.0
+意大利菜,Il Cortegiano,Il Cortegiano,0,,0.0,0.0,0.0
+意大利菜,Antica Pizzicheria,Antica Pizzicheria,0,,0.0,0.0,0.0
+意大利菜,Restaurant Mangoo,Restaurant Mangoo,0,,0.0,0.0,0.0
+意大利菜,Restaurant Linosa,Restaurant Linosa,0,柏林利希滕贝格,0.0,0.0,0.0
+意大利菜,La Ronda,La Ronda,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+意大利菜,Casa Italiana da Alberto,Casa Italiana da Alberto,0,施潘道,0.0,0.0,0.0
+意大利菜,Stella di Mare,Stella di Mare,0,,0.0,0.0,0.0
+意大利菜,Gusto DiVino,Gusto DiVino,0,,0.0,0.0,0.0
+意大利菜,ferris gastronomie,ferris gastronomie,0,,0.0,0.0,0.0
+意大利菜,Imperial,Imperial,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,"Bellissimo, berlin","Bellissimo, berlin",0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Ristorante Antica Roma,Ristorante Antica Roma,0,舍讷贝格,0.0,0.0,0.0
+意大利菜,Femminamorta,Femminamorta,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Sapori di Napoli,Sapori di Napoli,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Restaurante Aldente,Restaurante Aldente,0,普伦茨劳贝格,0.0,0.0,0.0
+意大利菜,Trattotia da Vinci,Trattotia da Vinci,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,OllaOrient Lounge,OllaOrient Lounge,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Toscanafraktion,Toscanafraktion,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Gorgonzola Club,Gorgonzola Club,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Ossena,Ossena,0,克罗伊茨贝格,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Roma,Ristorante Pizzeria Roma,0,,0.0,0.0,0.0
+意大利菜,Divino Amore,Divino Amore,0,,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Focolare,Ristorante Pizzeria Focolare,0,,0.0,0.0,0.0
+意大利菜,Locanda Aux petits oignons,Locanda Aux petits oignons,0,,0.0,0.0,0.0
+意大利菜,La Riva Restaurant Berlin,La Riva Restaurant Berlin,0,,0.0,0.0,0.0
+意大利菜,Vaporetto Gastro Gmbh,Vaporetto Gastro Gmbh,0,,0.0,0.0,0.0
+意大利菜,Palermo,Palermo,0,,0.0,0.0,0.0
+意大利菜,Vinaggio,Vinaggio,0,,0.0,0.0,0.0
+意大利菜,Gusto,Gusto,0,,0.0,0.0,0.0
+意大利菜,Abbraccio,Abbraccio,0,,0.0,0.0,0.0
+意大利菜,Trattoria Peretti,Trattoria Peretti,0,,0.0,0.0,0.0
+意大利菜,Maialino,Maialino,0,,0.0,0.0,0.0
+意大利菜,Il Syndicato,Il Syndicato,0,,0.0,0.0,0.0
+意大利菜,Locanda Pane,Locanda Pane,0,,0.0,0.0,0.0
+意大利菜,Pantalone,Pantalone,0,,0.0,0.0,0.0
+意大利菜,La Vecchia Trattoria,La Vecchia Trattoria,0,弗里德里希,0.0,0.0,0.0
+意大利菜,Gusto,Gusto,0,蒂尔加滕,0.0,0.0,0.0
+意大利菜,Tolerance Berlin,Tolerance Berlin,0,克罗伊茨贝格,0.0,0.0,0.0
+法国菜,le petit Felix,le petit Felix,0,,0.0,0.0,0.0
+法国菜,Eins44 Kantine Neuköelln,Eins44 Kantine Neuköelln,0,新克尔恩,0.0,0.0,0.0
+法国菜,KaDeWe Gourmet Boulllabaisse,KaDeWe Gourmet Boulllabaisse,0,,0.0,0.0,0.0
+法国菜,Paris-Moskau,Paris-Moskau,0,蒂尔加滕,0.0,0.0,0.0
+法国菜,Brasserie Le Faubourg,Brasserie Le Faubourg,0,,0.0,0.0,0.0
+法国菜,Alt Luxemburg,Alt Luxemburg,0,,0.0,0.0,0.0
+法国菜,Dressler,Dressler,0,,0.0,0.0,0.0
+法国菜,L' Escargot,L' Escargot,0,,0.0,0.0,0.0
+法国菜,Eiffel,Eiffel,0,,0.0,0.0,0.0
+法国菜,Frau Mittenmang,Frau Mittenmang,0,普伦茨劳贝格,0.0,0.0,0.0
+法国菜,Restaurant Le Compagnon,Restaurant Le Compagnon,0,,0.0,0.0,0.0
+法国菜,Entrecote,Entrecote,0,克罗伊茨贝格,0.0,0.0,0.0
+法国菜,Paul Bocuse - Gourmet Bar at Kadewe,Paul Bocuse - Gourmet Bar at Kadewe,0,舍讷贝格,0.0,0.0,0.0
+法国菜,Cafe Lyon,Cafe Lyon,0,弗里德里希,0.0,0.0,0.0
+法国菜,Chez Gustave,Chez Gustave,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+法国菜,Borchardt,Borchardt,0,,0.0,0.0,0.0
+法国菜,Gendarmerie Restaurant,Gendarmerie Restaurant,0,,0.0,0.0,0.0
+法国菜,Maxwell,Maxwell,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+法国菜,Madinina,Madinina,0,弗里德里希,0.0,0.0,0.0
+法国菜,Creperie ShakePoint Ali,Creperie ShakePoint Ali,0,新克尔恩,0.0,0.0,0.0
+法国菜,Restaurant Richard,Restaurant Richard,0,马察恩,0.0,0.0,0.0
+法国菜,Belon,Belon,0,,0.0,0.0,0.0
+法国菜,Cassonade,Cassonade,0,克罗伊茨贝格,0.0,0.0,0.0
+法国菜,1900 Cafe Bistro,1900 Cafe Bistro,0,,0.0,0.0,0.0
+法国菜,"Franke Brasserie, Organic Eatery","Franke Brasserie, Organic Eatery",0,,0.0,0.0,0.0
+法国菜,Belmondo Restaurant,Belmondo Restaurant,0,,0.0,0.0,0.0
+法国菜,Le Provencal,Le Provencal,0,,0.0,0.0,0.0
+法国菜,Nord-Sud,Nord-Sud,0,,0.0,0.0,0.0
+法国菜,Bandol sur Mer,Bandol sur Mer,0,,0.0,0.0,0.0
+法国菜,Mani Restaurant,Mani Restaurant,0,,0.0,0.0,0.0
+法国菜,Sucre et Sel,Sucre et Sel,0,,0.0,0.0,0.0
+法国菜,Brasserie La Bonne Franquette,Brasserie La Bonne Franquette,0,,0.0,0.0,0.0
+法国菜,Cafe Fleury,Cafe Fleury,0,,0.0,0.0,0.0
+法国菜,Der Hahn ist tot,Der Hahn ist tot,0,,0.0,0.0,0.0
+法国菜,Fabrics im nhow Hotel Berlin,Fabrics im nhow Hotel Berlin,0,弗里德里希,0.0,0.0,0.0
+法国菜,L´Origine du Monde,L´Origine du Monde,0,弗里德里希,0.0,0.0,0.0
+法国菜,Major Grubert,Major Grubert,0,新克尔恩,0.0,0.0,0.0
+法国菜,Restaurant und Weinstube Berlin-Sankt Moritz,Restaurant und Weinstube Berlin-Sankt Moritz,0,滕珀尔霍夫,0.0,0.0,0.0
+法国菜,Ars Vini III,Ars Vini III,0,,0.0,0.0,0.0
+法国菜,La Cocotte,La Cocotte,0,舍讷贝格,0.0,0.0,0.0
+法国菜,ParisSaigon,ParisSaigon,0,舍讷贝格,0.0,0.0,0.0
+法国菜,Tous le jour,Tous le jour,0,普伦茨劳贝格,0.0,0.0,0.0
+法国菜,Restaurant Les Valseuses,Restaurant Les Valseuses,0,普伦茨劳贝格,0.0,0.0,0.0
+法国菜,Chez Ginette,Chez Ginette,0,普伦茨劳贝格,0.0,0.0,0.0
+法国菜,Creperie Suzette,Creperie Suzette,0,普伦茨劳贝格,0.0,0.0,0.0
+法国菜,Maison Blanche,Maison Blanche,0,克罗伊茨贝格,0.0,0.0,0.0
+法国菜,Lamazere Brasserie,Lamazere Brasserie,0,,0.0,0.0,0.0
+法国菜,Waldorf Astoria - les Solistes,Waldorf Astoria - les Solistes,0,,0.0,0.0,0.0
+法国菜,Ganymed,Ganymed,0,,0.0,0.0,0.0
+法国菜,Mittendrin,Mittendrin,0,,0.0,0.0,0.0
+法国菜,Bandol,Bandol,0,,0.0,0.0,0.0
+法国菜,Les Patisseries de Sebastien,Les Patisseries de Sebastien,0,,0.0,0.0,0.0
+法国菜,Chalet Suisse,Chalet Suisse,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+法国菜,Saarbach,Saarbach,0,新克尔恩,0.0,0.0,0.0
+法国菜,Feinkost Kaefer,Feinkost Kaefer,0,潘科,0.0,0.0,0.0
+法国菜,Majakowski,Majakowski,0,潘科,0.0,0.0,0.0
+法国菜,Brasserie de France,Brasserie de France,0,,0.0,0.0,0.0
+法国菜,Garage Weinstube-Bistro,Garage Weinstube-Bistro,0,,0.0,0.0,0.0
+法国菜,Reste Fidele,Reste Fidele,0,,0.0,0.0,0.0
+法国菜,Cafe Des Artistes,Cafe Des Artistes,0,舍讷贝格,0.0,0.0,0.0
+法国菜,Frische Paradies,Frische Paradies,0,普伦茨劳贝格,0.0,0.0,0.0
+法国菜,Glasneck,Glasneck,0,普伦茨劳贝格,0.0,0.0,0.0
+法国菜,La Cantine Francaise / Die franzosiche Kantine,La Cantine Francaise / Die franzosiche Kantine,0,普伦茨劳贝格,0.0,0.0,0.0
+法国菜,Moustache,Moustache,0,,0.0,0.0,0.0
+法国菜,Cafe le Paris,Cafe le Paris,0,,0.0,0.0,0.0
+法国菜,Restaurant S-Zimmer,Restaurant S-Zimmer,0,,0.0,0.0,0.0
+法国菜,Lilobop Macarons,Lilobop Macarons,0,,0.0,0.0,0.0
+法国菜,Englers,Englers,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+法国菜,Le Cochon Bourgeois,Le Cochon Bourgeois,0,新克尔恩,0.0,0.0,0.0
+法国菜,Brasserie Le Paris,Brasserie Le Paris,0,,0.0,0.0,0.0
+法国菜,Bistro Chez Maurice,Bistro Chez Maurice,0,普伦茨劳贝格,0.0,0.0,0.0
+法国菜,Josephine,Josephine,0,克罗伊茨贝格,0.0,0.0,0.0
+法国菜,La Raclette,La Raclette,0,克罗伊茨贝格,0.0,0.0,0.0
+法国菜,La Crapule,La Crapule,0,克罗伊茨贝格,0.0,0.0,0.0
+法国菜,Aznavourian,Aznavourian,0,普伦茨劳贝格,0.0,0.0,0.0
+法国菜,Deux ou Trois Choses,Deux ou Trois Choses,0,克罗伊茨贝格,0.0,0.0,0.0
+法国菜,Restaurant Margaux,Restaurant Margaux,0,,0.0,0.0,0.0
+法国菜,Locanda Aux petits oignons,Locanda Aux petits oignons,0,,0.0,0.0,0.0
+法国菜,Tartane,Tartane,0,,0.0,0.0,0.0
+法国菜,Toulouse,Toulouse,0,,0.0,0.0,0.0
+墨西哥菜,MACHETE Burrito Box,MACHETE Burrito Box,0,弗里德里希,0.0,0.0,0.0
+墨西哥菜,Papalotl,Papalotl,0,普伦茨劳贝格,0.0,0.0,0.0
+墨西哥菜,SAUSALITOS Berlin,SAUSALITOS Berlin,0,,0.0,0.0,0.0
+墨西哥菜,El Paso,El Paso,0,弗里德里希,0.0,0.0,0.0
+墨西哥菜,Maria Bonita,Maria Bonita,0,普伦茨劳贝格,0.0,0.0,0.0
+墨西哥菜,Tequila Steakhaus,Tequila Steakhaus,0,新克尔恩,0.0,0.0,0.0
+墨西哥菜,Plaza de Toros,Plaza de Toros,0,普伦茨劳贝格,0.0,0.0,0.0
+墨西哥菜,MOJITO Restaurant - Bar,MOJITO Restaurant - Bar,0,弗里德里希,0.0,0.0,0.0
+墨西哥菜,Berlin Burrito Company,Berlin Burrito Company,0,舍讷贝格,0.0,0.0,0.0
+墨西哥菜,Chaparro,Chaparro,0,克罗伊茨贝格,0.0,0.0,0.0
+墨西哥菜,La Paz Friedrichshain,La Paz Friedrichshain,0,弗里德里希,0.0,0.0,0.0
+墨西哥菜,Tin Tan. Mexikanische Street Food Kultur,Tin Tan. Mexikanische Street Food Kultur,0,,0.0,0.0,0.0
+墨西哥菜,Dirty South,Dirty South,0,弗里德里希,0.0,0.0,0.0
+墨西哥菜,Tacos de Mexico,Tacos de Mexico,0,,0.0,0.0,0.0
+墨西哥菜,El Sabor,El Sabor,0,,0.0,0.0,0.0
+墨西哥菜,Taquería Ta'Cabrón,Taquería Ta'Cabrón,0,克罗伊茨贝格,0.0,0.0,0.0
+墨西哥菜,Quepasa Mexicana,Quepasa Mexicana,0,克罗伊茨贝格,0.0,0.0,0.0
+墨西哥菜,La Casita,La Casita,0,潘科,0.0,0.0,0.0
+墨西哥菜,Salsa,Salsa,0,柏林利希滕贝格,0.0,0.0,0.0
+墨西哥菜,Morelos Steakhouse + Cocktailbar,Morelos Steakhouse + Cocktailbar,0,柏林利希滕贝格,0.0,0.0,0.0
+墨西哥菜,tipica,tipica,0,克珀尼克,0.0,0.0,0.0
+墨西哥菜,Treinta Y Seis,Treinta Y Seis,0,克罗伊茨贝格,0.0,0.0,0.0
+墨西哥菜,Maria Peligro,Maria Peligro,0,克罗伊茨贝格,0.0,0.0,0.0
+墨西哥菜,Santa Maria,Santa Maria,0,克罗伊茨贝格,0.0,0.0,0.0
+墨西哥菜,Paracas II,Paracas II,0,克罗伊茨贝格,0.0,0.0,0.0
+墨西哥菜,Aguevo! Taqueria Cantina,Aguevo! Taqueria Cantina,0,,0.0,0.0,0.0
+墨西哥菜,La Paz,La Paz,0,,0.0,0.0,0.0
+墨西哥菜,Yokatan,Yokatan,0,蒂尔加滕,0.0,0.0,0.0
+墨西哥菜,Cuernavaca,Cuernavaca,0,滕珀尔霍夫,0.0,0.0,0.0
+墨西哥菜,Trienta y sies,Trienta y sies,0,克罗伊茨贝格,0.0,0.0,0.0
+墨西哥菜,Las Cucarachas,Las Cucarachas,0,,0.0,0.0,0.0
+墨西哥菜,Bariton Cafe,Bariton Cafe,0,弗里德里希,0.0,0.0,0.0
+墨西哥菜,La Paz,La Paz,0,普伦茨劳贝格,0.0,0.0,0.0
+墨西哥菜,Frida Kahlo,Frida Kahlo,0,普伦茨劳贝格,0.0,0.0,0.0
+墨西哥菜,Joe Penas Tres Kilos,Joe Penas Tres Kilos,0,克罗伊茨贝格,0.0,0.0,0.0
+墨西哥菜,Lone star taqueria,Lone star taqueria,0,克罗伊茨贝格,0.0,0.0,0.0
+墨西哥菜,Cancun,Cancun,0,,0.0,0.0,0.0
+潮粤菜,中国城大酒楼,中国城大酒楼,0,,8.4,8.4,8.4
+其他西餐,Augustiner am Gendarmenmarkt,Augustiner am Gendarmenmarkt,0,,7.5,7.3,7.2
+其他西餐,Hofbrau Munchen Berlin,Hofbrau Munchen Berlin,0,,8.5,8.5,8.5
+其他西餐,Lowenbrau Berlin,Lowenbrau Berlin,0,,8.2,8.4,8.2
+其他西餐,YOSOY Tapas Bar,YOSOY Tapas Bar,0,,7.9,7.5,7.1
+其他西餐,Corroboree Sony Center,Corroboree Sony Center,0,,8.4,7.5,7.5
+其他西餐,Lutter und Wegner,Lutter und Wegner,0,,8.0,8.0,8.4
+其他西餐,Aigner Gendarmenmarkt,Aigner Gendarmenmarkt,0,,6.7,7.5,7.5
+其他西餐,ATAME Tapasbar,ATAME Tapasbar,0,,8.3,7.4,6.7
+其他西餐,Weihenstephaner,Weihenstephaner,0,,8.4,8.4,8.4
+其他西餐,5 - Cinco by Paco Pérez,5 - Cinco by Paco Pérez,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Schwarzes Cafe,Schwarzes Cafe,0,,0.0,0.0,0.0
+其他西餐,Dressler,Dressler,0,,0.0,0.0,0.0
+其他西餐,Lutter und Wegner,Lutter und Wegner,0,,7.5,7.5,7.5
+其他西餐,Brauhaus Lemke,Brauhaus Lemke,0,,6.7,7.4,7.4
+其他西餐,Sophien 11,Sophien 11,0,,7.1,6.8,6.8
+其他西餐,Stammhaus Siemensstadt,Stammhaus Siemensstadt,0,施潘道,0.0,0.0,0.0
+其他西餐,Maredo - Potsdamer Platz,Maredo - Potsdamer Platz,0,,0.0,0.0,0.0
+其他西餐,Deutsche Kuche Am Checkpoint,Deutsche Kuche Am Checkpoint,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Restaurant Louis,Restaurant Louis,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Cassambalis Taverna,Cassambalis Taverna,0,,0.0,0.0,0.0
+其他西餐,HB Hasir Burger,HB Hasir Burger,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Engelbecken,Engelbecken,0,,0.0,0.0,0.0
+其他西餐,Cabinett Cafe & Bistro,Cabinett Cafe & Bistro,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Staendige Vertretung,Staendige Vertretung,0,,0.0,0.0,0.0
+其他西餐,Schwarzer Hahn,Schwarzer Hahn,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Nanoosh,Nanoosh,0,,0.0,0.0,0.0
+其他西餐,Michelberger Restaurant,Michelberger Restaurant,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Mommseneck,Mommseneck,0,,0.0,0.0,0.0
+其他西餐,Altberliner Restaurant,Altberliner Restaurant,0,,0.0,0.0,0.0
+其他西餐,Zeughaus,Zeughaus,0,,0.0,0.0,0.0
+其他西餐,Lutter & Wegner im weinhaus huth,Lutter & Wegner im weinhaus huth,0,,0.0,0.0,0.0
+其他西餐,Kartoffelhaus No1,Kartoffelhaus No1,0,,0.0,0.0,0.0
+其他西餐,Scheers Schnitzel,Scheers Schnitzel,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Rienacker Restaurant,Rienacker Restaurant,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Restaurant Weingeist,Restaurant Weingeist,0,,0.0,0.0,0.0
+其他西餐,The Kitchen Cafe,The Kitchen Cafe,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Restaurant Buntspecht,Restaurant Buntspecht,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Aspazia Restaurant,Aspazia Restaurant,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Café Kauderwelsch,Café Kauderwelsch,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Trespassers,Trespassers,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Speisehaus Spielmann,Speisehaus Spielmann,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Luso,Luso,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Gilka,Gilka,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Madre's Restaurant,Madre's Restaurant,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Mendoza Restaurant,Mendoza Restaurant,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Der Hot Dog Laden,Der Hot Dog Laden,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Le Dome,Le Dome,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Luftbrucke Cafe,Luftbrucke Cafe,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Pequena Habana Berlin,Pequena Habana Berlin,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,La Moza,La Moza,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Weinstein,Weinstein,0,柏林利希滕贝格,0.0,0.0,0.0
+其他西餐,Schnitzelhaus,Schnitzelhaus,0,,0.0,0.0,0.0
+其他西餐,Zwei Fur Allerlei,Zwei Fur Allerlei,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Le Buffet Berlin Hermannplatz,Le Buffet Berlin Hermannplatz,0,,0.0,0.0,0.0
+其他西餐,Viva la Vida!,Viva la Vida!,0,,0.0,0.0,0.0
+其他西餐,Mutter Fourage,Mutter Fourage,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Eins44 Kantine Neuköelln,Eins44 Kantine Neuköelln,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Zur Letzten Instanz (seit 1621),Zur Letzten Instanz (seit 1621),0,,0.0,0.0,0.0
+其他西餐,VAU,VAU,0,,0.0,0.0,0.0
+其他西餐,Zum Nussbaum,Zum Nussbaum,0,,0.0,0.0,0.0
+其他西餐,Brauhaus Rixdorf,Brauhaus Rixdorf,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Lebensmittel in Mitte,Lebensmittel in Mitte,0,,0.0,0.0,0.0
+其他西餐,Fischkutter,Fischkutter,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Restaurant Hof Zwei,Restaurant Hof Zwei,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Mark Brandenburg,Mark Brandenburg,0,,0.0,0.0,0.0
+其他西餐,Huhnerhaus,Huhnerhaus,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Captn Schillow,Captn Schillow,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,mesa,mesa,0,,0.0,0.0,0.0
+其他西餐,Gerichtslaube,Gerichtslaube,0,,0.0,0.0,0.0
+其他西餐,Block House,Block House,0,,0.0,0.0,0.0
+其他西餐,Volver,Volver,0,,0.0,0.0,0.0
+其他西餐,Brasserie Am Gendarmenmarkt,Brasserie Am Gendarmenmarkt,0,,0.0,0.0,0.0
+其他西餐,Refugium,Refugium,0,,0.0,0.0,0.0
+其他西餐,Maredo Steak-Restaurant,Maredo Steak-Restaurant,0,,0.0,0.0,0.0
+其他西餐,BBI (Berlin Burger International),BBI (Berlin Burger International),0,新克尔恩,0.0,0.0,0.0
+其他西餐,Kapitan's Kajute,Kapitan's Kajute,0,施潘道,0.0,0.0,0.0
+其他西餐,Wirtshaus zum Mitterhofer,Wirtshaus zum Mitterhofer,0,,0.0,0.0,0.0
+其他西餐,Brauhaus Spandau,Brauhaus Spandau,0,施潘道,0.0,0.0,0.0
+其他西餐,Thalassa,Thalassa,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Cafe Sarotti Hofe,Cafe Sarotti Hofe,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Curry 61,Curry 61,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Nibs Cacao,Nibs Cacao,0,,0.0,0.0,0.0
+其他西餐,Mutzenbacher,Mutzenbacher,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Abba Mia,Abba Mia,0,,0.0,0.0,0.0
+其他西餐,L.A. Cafe,L.A. Cafe,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Restauration 1840,Restauration 1840,0,,0.0,0.0,0.0
+其他西餐,Boulevard Friedrichstrasse,Boulevard Friedrichstrasse,0,,0.0,0.0,0.0
+其他西餐,Grand Restaurant M,Grand Restaurant M,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Alt-Berliner Wirtshaus,Alt-Berliner Wirtshaus,0,,0.0,0.0,0.0
+其他西餐,Restaurant Zur Nolle,Restaurant Zur Nolle,0,,0.0,0.0,0.0
+其他西餐,La Siesta,La Siesta,0,,0.0,0.0,0.0
+其他西餐,Maredo - Kurfurstendamm,Maredo - Kurfurstendamm,0,,0.0,0.0,0.0
+其他西餐,Corroboree Australian Bar & Restaurant,Corroboree Australian Bar & Restaurant,0,,0.0,0.0,0.0
+其他西餐,cafe lebensArt,cafe lebensArt,0,,0.0,0.0,0.0
+其他西餐,Jedermann's,Jedermann's,0,,0.0,0.0,0.0
+其他西餐,Pasternak,Pasternak,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Allegretto,Allegretto,0,,0.0,0.0,0.0
+其他西餐,Pizzeria Pisa,Pizzeria Pisa,0,,0.0,0.0,0.0
+其他西餐,Kaffer,Kaffer,0,,0.0,0.0,0.0
+其他西餐,Marche,Marche,0,,0.0,0.0,0.0
+其他西餐,el borriquito,el borriquito,0,,0.0,0.0,0.0
+其他西餐,Steak Point Galerie Lafayette,Steak Point Galerie Lafayette,0,,0.0,0.0,0.0
+其他西餐,Estrel-Stube im Estrel Hotel,Estrel-Stube im Estrel Hotel,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Belegschaft,Belegschaft,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,La Maison de L'entrecote,La Maison de L'entrecote,0,,0.0,0.0,0.0
+其他西餐,E.T.A Hoffmann,E.T.A Hoffmann,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Max & Moritz,Max & Moritz,0,,0.0,0.0,0.0
+其他西餐,Bonito,Bonito,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Curry 36,Curry 36,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Weltrestaurant Markthalle,Weltrestaurant Markthalle,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,staV,staV,0,,0.0,0.0,0.0
+其他西餐,Kartoffelhaus No1,Kartoffelhaus No1,0,,0.0,0.0,0.0
+其他西餐,"Maredo, Friedrichstr. 103","Maredo, Friedrichstr. 103",0,,0.0,0.0,0.0
+其他西餐,Restaurant Schildkroete,Restaurant Schildkroete,0,,0.0,0.0,0.0
+其他西餐,Irish Times,Irish Times,0,,0.0,0.0,0.0
+其他西餐,Giraffe Restaurant-Kneipe-Cafe,Giraffe Restaurant-Kneipe-Cafe,0,,0.0,0.0,0.0
+其他西餐,Alt Nurnberg,Alt Nurnberg,0,,0.0,0.0,0.0
+其他西餐,Restaurant Galija,Restaurant Galija,0,,0.0,0.0,0.0
+其他西餐,Sudaka,Sudaka,0,潘科,0.0,0.0,0.0
+其他西餐,Curry 195,Curry 195,0,,0.0,0.0,0.0
+其他西餐,Cafe Hardenberg,Cafe Hardenberg,0,,0.0,0.0,0.0
+其他西餐,Café Nazca,Café Nazca,0,,0.0,0.0,0.0
+其他西餐,Savigny eleven,Savigny eleven,0,,0.0,0.0,0.0
+其他西餐,Hasenecke,Hasenecke,0,,0.0,0.0,0.0
+其他西餐,Gasthaus zum Ulrich,Gasthaus zum Ulrich,0,,0.0,0.0,0.0
+其他西餐,Ano Kato,Ano Kato,0,,0.0,0.0,0.0
+其他西餐,Mezem,Mezem,0,,0.0,0.0,0.0
+其他西餐,Taverna Merkouri,Taverna Merkouri,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Der BackerMann,Der BackerMann,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Keule,Keule,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Proviant,Proviant,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Lisboa,Lisboa,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Lisboa tapas Bar,Lisboa tapas Bar,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Jägerstube,Jägerstube,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Melzers Wirsthaus,Melzers Wirsthaus,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Cafe Paulines,Cafe Paulines,0,柏林利希滕贝格,0.0,0.0,0.0
+其他西餐,Tierpark Bistro,Tierpark Bistro,0,柏林利希滕贝格,0.0,0.0,0.0
+其他西餐,Adria Grill,Adria Grill,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Restaurant Friedhard's Lichterfelde,Restaurant Friedhard's Lichterfelde,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Bahnhofswirtschaft Nouza,Bahnhofswirtschaft Nouza,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Villa Appenzell,Villa Appenzell,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Cafe Lenné,Cafe Lenné,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Buckower Tonnchen,Buckower Tonnchen,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Berlin Kulinarium Wein & Meer,Berlin Kulinarium Wein & Meer,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Meat & Beat,Meat & Beat,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Feliu,Feliu,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Café KATULKI,Café KATULKI,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Cafe Salut,Cafe Salut,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Taverna Kreta,Taverna Kreta,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Sylter Hof,Sylter Hof,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Kurze Pause,Kurze Pause,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Restaurant Mousses,Restaurant Mousses,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+其他西餐,Zum Eisernen Gustav,Zum Eisernen Gustav,0,潘科,0.0,0.0,0.0
+其他西餐,Spreearche,Spreearche,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Teeteathe,Teeteathe,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Funkturn Restaurant,Funkturn Restaurant,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Haifisch,Haifisch,0,特雷普托,0.0,0.0,0.0
+其他西餐,Treptower Klause,Treptower Klause,0,特雷普托,0.0,0.0,0.0
+其他西餐,Herkules 1,Herkules 1,0,马察恩,0.0,0.0,0.0
+其他西餐,Casa Delizia Trattoria Bar,Casa Delizia Trattoria Bar,0,,0.0,0.0,0.0
+其他西餐,Restaurant Hugo,Restaurant Hugo,0,,0.0,0.0,0.0
+其他西餐,Les 3 Veuves de Wilmersdorf,Les 3 Veuves de Wilmersdorf,0,,0.0,0.0,0.0
+其他西餐,Belmer,Belmer,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Patisserie Lezard,Patisserie Lezard,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Stolz und Vorurteil,Stolz und Vorurteil,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Do The Pop,Do The Pop,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Franz-Karl,Franz-Karl,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Pan amb Oli,Pan amb Oli,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Meierei,Meierei,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Guglelhof,Guglelhof,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Plucinskys,Plucinskys,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Imbiss 204,Imbiss 204,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Tamra,Tamra,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Bar & Restaurant Shan Shan,Bar & Restaurant Shan Shan,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Polnische Spezialitaten,Polnische Spezialitaten,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Caminito,Caminito,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Le Bon,Le Bon,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Picoteo,Picoteo,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,La Paloma,La Paloma,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Lokanta Restaurant Berlin,Lokanta Restaurant Berlin,0,,0.0,0.0,0.0
+其他西餐,Dionysos,Dionysos,0,,0.0,0.0,0.0
+其他西餐,Pizza Hut,Pizza Hut,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Hafis,Hafis,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,MIO,MIO,0,,0.0,0.0,0.0
+其他西餐,Joe's Restaurant und Wirtshaus,Joe's Restaurant und Wirtshaus,0,,0.0,0.0,0.0
+其他西餐,Restaurant Boulevard im relexa hotel,Restaurant Boulevard im relexa hotel,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,PauLily,PauLily,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Cafe Bleibtreu,Cafe Bleibtreu,0,,0.0,0.0,0.0
+其他西餐,El Gato Azul,El Gato Azul,0,,0.0,0.0,0.0
+其他西餐,H Otello K 80,H Otello K 80,0,,0.0,0.0,0.0
+其他西餐,La Areperia,La Areperia,0,,0.0,0.0,0.0
+其他西餐,Kenzo,Kenzo,0,,0.0,0.0,0.0
+其他西餐,Burger de Ville,Burger de Ville,0,,0.0,0.0,0.0
+其他西餐,Maximilan II,Maximilan II,0,,0.0,0.0,0.0
+其他西餐,Dicke Wirtin,Dicke Wirtin,0,,0.0,0.0,0.0
+其他西餐,Cafe Savigny,Cafe Savigny,0,,0.0,0.0,0.0
+其他西餐,Thomas Eck,Thomas Eck,0,,0.0,0.0,0.0
+其他西餐,Vaust Braugaststatte,Vaust Braugaststatte,0,,0.0,0.0,0.0
+其他西餐,La Tia Rica,La Tia Rica,0,,0.0,0.0,0.0
+其他西餐,Pasta e basta,Pasta e basta,0,,0.0,0.0,0.0
+其他西餐,Tapas y Mas Tres,Tapas y Mas Tres,0,,0.0,0.0,0.0
+其他西餐,Schleusenkrug,Schleusenkrug,0,,0.0,0.0,0.0
+其他西餐,Fraulein Fiona,Fraulein Fiona,0,,0.0,0.0,0.0
+其他西餐,Meisterstuck,Meisterstuck,0,,0.0,0.0,0.0
+其他西餐,Zur Rippe,Zur Rippe,0,,0.0,0.0,0.0
+其他西餐,Georgenbraeu,Georgenbraeu,0,,0.0,0.0,0.0
+其他西餐,Zum Paddenwirt,Zum Paddenwirt,0,,0.0,0.0,0.0
+其他西餐,Berlin Moscow,Berlin Moscow,0,,0.0,0.0,0.0
+其他西餐,Block House,Block House,0,,0.0,0.0,0.0
+其他西餐,Restaurant Schlossgarten,Restaurant Schlossgarten,0,,0.0,0.0,0.0
+其他西餐,Treffpunkt Berlin - Alt Berliner Kneipe,Treffpunkt Berlin - Alt Berliner Kneipe,0,,0.0,0.0,0.0
+其他西餐,Umspannwerk Ost,Umspannwerk Ost,0,,0.0,0.0,0.0
+其他西餐,Gaffel Haus Berlin an der Friedrichstrasse,Gaffel Haus Berlin an der Friedrichstrasse,0,,0.0,0.0,0.0
+其他西餐,Restaurant ,Restaurant ,0,,0.0,0.0,0.0
+其他西餐,Kantine Deluxe,Kantine Deluxe,0,,0.0,0.0,0.0
+其他西餐,Lemke,Lemke,0,,0.0,0.0,0.0
+其他西餐,Murphy Pub,Murphy Pub,0,,0.0,0.0,0.0
+其他西餐,Brauhaus Mitte,Brauhaus Mitte,0,,0.0,0.0,0.0
+其他西餐,The Pub,The Pub,0,,0.0,0.0,0.0
+其他西餐,Der alte Fritz,Der alte Fritz,0,,0.0,0.0,0.0
+其他西餐,CORDOBAR deutsch-osterreichische Weinbar,CORDOBAR deutsch-osterreichische Weinbar,0,,0.0,0.0,0.0
+其他西餐,Gambrinus,Gambrinus,0,,0.0,0.0,0.0
+其他西餐,Clarchens Ballhaus Mitte,Clarchens Ballhaus Mitte,0,,0.0,0.0,0.0
+其他西餐,Madchenitaliener,Madchenitaliener,0,,0.0,0.0,0.0
+其他西餐,Belushi's,Belushi's,0,,0.0,0.0,0.0
+其他西餐,Shiso Burger,Shiso Burger,0,,0.0,0.0,0.0
+其他西餐,Kasbah,Kasbah,0,,0.0,0.0,0.0
+其他西餐,Restaurant Ruz,Restaurant Ruz,0,,0.0,0.0,0.0
+其他西餐,Schwarzwaldstuben,Schwarzwaldstuben,0,,0.0,0.0,0.0
+其他西餐,Lokal,Lokal,0,,0.0,0.0,0.0
+其他西餐,Rutz Restaurant - Weinbar,Rutz Restaurant - Weinbar,0,,0.0,0.0,0.0
+其他西餐,Pauly Saal,Pauly Saal,0,,0.0,0.0,0.0
+其他西餐,Honigmond,Honigmond,0,,0.0,0.0,0.0
+其他西餐,Restaurant Alpenstueck,Restaurant Alpenstueck,0,,0.0,0.0,0.0
+其他西餐,Zur Rose,Zur Rose,0,,0.0,0.0,0.0
+其他西餐,Gorky Park,Gorky Park,0,,0.0,0.0,0.0
+其他西餐,Sauerkraut,Sauerkraut,0,,0.0,0.0,0.0
+其他西餐,Nola's am Weinberg,Nola's am Weinberg,0,,0.0,0.0,0.0
+其他西餐,Hackethals,Hackethals,0,,0.0,0.0,0.0
+其他西餐,Restaurant Die Schule,Restaurant Die Schule,0,,0.0,0.0,0.0
+其他西餐,Das Goldene Prag,Das Goldene Prag,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Frau Behrens Torten,Frau Behrens Torten,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Café Tiergarten,Café Tiergarten,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Lir Irish Bar,Lir Irish Bar,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Matreshka,Matreshka,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Txokoa Gastro Bar,Txokoa Gastro Bar,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Yaam,Yaam,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Schweizer Krone,Schweizer Krone,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Speisehaus,Speisehaus,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Hirsch Bar,Hirsch Bar,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Volkskammer,Volkskammer,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Nil,Nil,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Feuer und Flamme - Das Fonduerestaurant,Feuer und Flamme - Das Fonduerestaurant,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Filafood,Filafood,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Restaurante Casa Lola,Restaurante Casa Lola,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Abgedreht,Abgedreht,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Kater Mikesch,Kater Mikesch,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Don Quichote,Don Quichote,0,柏林利希滕贝格,0.0,0.0,0.0
+其他西餐,Wirtshaus Funf-Landereck,Wirtshaus Funf-Landereck,0,柏林利希滕贝格,0.0,0.0,0.0
+其他西餐,Steakhaus Rio Negro,Steakhaus Rio Negro,0,柏林利希滕贝格,0.0,0.0,0.0
+其他西餐,kaufbar,kaufbar,0,柏林利希滕贝格,0.0,0.0,0.0
+其他西餐,Die Eselin von A. am Wannsee,Die Eselin von A. am Wannsee,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Restaurant Zeus,Restaurant Zeus,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Pikilia,Pikilia,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Krasselts Currywurst,Krasselts Currywurst,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Restaurant Linden-Garten,Restaurant Linden-Garten,0,新克尔恩,0.0,0.0,0.0
+其他西餐,On Egin,On Egin,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Mariamulata,Mariamulata,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Kindl Stuben,Kindl Stuben,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Foellerei,Foellerei,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Shayan Persisches Spezialitatenrestaurant,Shayan Persisches Spezialitatenrestaurant,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Restaurant Brenner,Restaurant Brenner,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Bei Bolte,Bei Bolte,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Bei Radi,Bei Radi,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Mama Kalo,Mama Kalo,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Gianni Trattoria Toscana,Gianni Trattoria Toscana,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+其他西餐,Gasthaus Glashaus,Gasthaus Glashaus,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+其他西餐,Spandauer Bierbrunnen,Spandauer Bierbrunnen,0,施潘道,0.0,0.0,0.0
+其他西餐,Restaurant Heideroechen,Restaurant Heideroechen,0,潘科,0.0,0.0,0.0
+其他西餐,Böse Buben Bar,Böse Buben Bar,0,潘科,0.0,0.0,0.0
+其他西餐,il pozzetto,il pozzetto,0,潘科,0.0,0.0,0.0
+其他西餐,Restaurant Strandlust,Restaurant Strandlust,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Luise,Luise,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Ratskeller Kopenick,Ratskeller Kopenick,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Asteria Griechisches Restaurant,Asteria Griechisches Restaurant,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Cafe Restaurant le Journale,Cafe Restaurant le Journale,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Die Spindel,Die Spindel,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Butterhandlung,Butterhandlung,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Taverna Dimokritos,Taverna Dimokritos,0,特雷普托,0.0,0.0,0.0
+其他西餐,Club der Visionaere,Club der Visionaere,0,特雷普托,0.0,0.0,0.0
+其他西餐,Tante Emma,Tante Emma,0,马察恩,0.0,0.0,0.0
+其他西餐,Trofeo,Trofeo,0,,0.0,0.0,0.0
+其他西餐,Gaststatte Balkanstube Wilmersdorf,Gaststatte Balkanstube Wilmersdorf,0,,0.0,0.0,0.0
+其他西餐,Roter Jager Restaurant,Roter Jager Restaurant,0,,0.0,0.0,0.0
+其他西餐,Reinhard's Landhaus,Reinhard's Landhaus,0,,0.0,0.0,0.0
+其他西餐,Weinkost,Weinkost,0,,0.0,0.0,0.0
+其他西餐,Gasteiner,Gasteiner,0,,0.0,0.0,0.0
+其他西餐,Scheune,Scheune,0,,0.0,0.0,0.0
+其他西餐,TA PANTA RI,TA PANTA RI,0,,0.0,0.0,0.0
+其他西餐,Amma,Amma,0,,0.0,0.0,0.0
+其他西餐,Hermann's Einkehr,Hermann's Einkehr,0,,0.0,0.0,0.0
+其他西餐,Egger's Steakhaus,Egger's Steakhaus,0,,0.0,0.0,0.0
+其他西餐,Grand QBA,Grand QBA,0,,0.0,0.0,0.0
+其他西餐,Sueno Argentinisches Steakhouse,Sueno Argentinisches Steakhouse,0,,0.0,0.0,0.0
+其他西餐,Deli 31,Deli 31,0,,0.0,0.0,0.0
+其他西餐,Babis' Ouzeri,Babis' Ouzeri,0,,0.0,0.0,0.0
+其他西餐,Gasthaus Krombach,Gasthaus Krombach,0,,0.0,0.0,0.0
+其他西餐,Berliner Stube,Berliner Stube,0,,0.0,0.0,0.0
+其他西餐,Zum Patzenhofer,Zum Patzenhofer,0,,0.0,0.0,0.0
+其他西餐,Restaurant A Telha,Restaurant A Telha,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Bieberbau,Bieberbau,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Feinbeckerei,Feinbeckerei,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Restaurant Weinrot,Restaurant Weinrot,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Ousies,Ousies,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Restaurant Dalmacija,Restaurant Dalmacija,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Cafe Kalwil Berlin,Cafe Kalwil Berlin,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Rüedigers,Rüedigers,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Schoneberger Weltlaterne,Schoneberger Weltlaterne,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Restaurant Wiesenstein,Restaurant Wiesenstein,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Munch's Hus,Munch's Hus,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Bejte Ethiopian Restaurant,Bejte Ethiopian Restaurant,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,LATA Berlin Has it,LATA Berlin Has it,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Café Juli´s,Café Juli´s,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Leibhaftig,Leibhaftig,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Restaurant Senefelder,Restaurant Senefelder,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Gasthaus Alt Wien,Gasthaus Alt Wien,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Schwarze Pumpe,Schwarze Pumpe,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Basim,Basim,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,dasWins,dasWins,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Seeblick,Seeblick,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Morgenrot,Morgenrot,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Zum Dritten Mann,Zum Dritten Mann,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Taverna Apollon,Taverna Apollon,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Schlawiner,Schlawiner,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Suicide Sue,Suicide Sue,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Filetstuck,Filetstuck,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Asteria,Asteria,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Neugruens Koche,Neugruens Koche,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Tostina,Tostina,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Fraulein Dickes,Fraulein Dickes,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Meta Cafe,Meta Cafe,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Yellow Burgermanufaktur,Yellow Burgermanufaktur,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Colibri,Colibri,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Hans Huckebein,Hans Huckebein,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Mokkabar,Mokkabar,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Hamburger Heaven,Hamburger Heaven,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Restaurant Split,Restaurant Split,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Langano,Langano,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Kreuzberger-Weltlaterne,Kreuzberger-Weltlaterne,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Spaetzle Express,Spaetzle Express,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Taverna Athene,Taverna Athene,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Salt & Pepper,Salt & Pepper,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Bar Restaurante Faro,Bar Restaurante Faro,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Burgersteig berlin,Burgersteig berlin,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Mariona,Mariona,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Baracka,Baracka,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Restaurant So,Restaurant So,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Burgermeister,Burgermeister,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Sol y Sombra,Sol y Sombra,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Steakhouse ASADOR,Steakhouse ASADOR,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Henne,Henne,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Etap Berlin Potsdamer Platz,Etap Berlin Potsdamer Platz,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Johnny's Bar,Johnny's Bar,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Carow,Carow,0,,0.0,0.0,0.0
+其他西餐,Funf & Sechzig,Funf & Sechzig,0,,0.0,0.0,0.0
+其他西餐,Deichgraf,Deichgraf,0,,0.0,0.0,0.0
+其他西餐,Restaurant Zwiwwel - Speise- & Schankwirtschaft,Restaurant Zwiwwel - Speise- & Schankwirtschaft,0,,0.0,0.0,0.0
+其他西餐,Spindler & Klatt,Spindler & Klatt,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Little Green Rabbit,Little Green Rabbit,0,,0.0,0.0,0.0
+其他西餐,Berlin XXL,Berlin XXL,0,,0.0,0.0,0.0
+其他西餐,Lindenbrau,Lindenbrau,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Huehnerstall,Huehnerstall,0,,0.0,0.0,0.0
+其他西餐,Restaurant Cafe Madrid,Restaurant Cafe Madrid,0,,0.0,0.0,0.0
+其他西餐,Cafe Sizzle,Cafe Sizzle,0,,0.0,0.0,0.0
+其他西餐,Georg braeu brauhauss,Georg braeu brauhauss,0,,0.0,0.0,0.0
+其他西餐,"Beef Bar , Berlin","Beef Bar , Berlin",0,,0.0,0.0,0.0
+其他西餐,Stadtklause,Stadtklause,0,,0.0,0.0,0.0
+其他西餐,Jim Block Burger Restaurant,Jim Block Burger Restaurant,0,,0.0,0.0,0.0
+其他西餐,Voltaire Restaurant,Voltaire Restaurant,0,,0.0,0.0,0.0
+其他西餐,Ottenthal Restaurant & Weinhandlung,Ottenthal Restaurant & Weinhandlung,0,,0.0,0.0,0.0
+其他西餐,Veli's,Veli's,0,,0.0,0.0,0.0
+其他西餐,Genazvale,Genazvale,0,,0.0,0.0,0.0
+其他西餐,Die Stulle,Die Stulle,0,,0.0,0.0,0.0
+其他西餐,Tapas bar,Tapas bar,0,,0.0,0.0,0.0
+其他西餐,Tizian,Tizian,0,,0.0,0.0,0.0
+其他西餐,Wohlfahrts,Wohlfahrts,0,,0.0,0.0,0.0
+其他西餐,Cafe am Petriplatz,Cafe am Petriplatz,0,,0.0,0.0,0.0
+其他西餐,Dom Curry,Dom Curry,0,,0.0,0.0,0.0
+其他西餐,Wilhelm Hoeck,Wilhelm Hoeck,0,,0.0,0.0,0.0
+其他西餐,Bistro am Gendarmenmarkt,Bistro am Gendarmenmarkt,0,,0.0,0.0,0.0
+其他西餐,Ephraim's,Ephraim's,0,,0.0,0.0,0.0
+其他西餐,Spreeblick,Spreeblick,0,,0.0,0.0,0.0
+其他西餐,Tucher am Tor,Tucher am Tor,0,,0.0,0.0,0.0
+其他西餐,Daimlers,Daimlers,0,,0.0,0.0,0.0
+其他西餐,Cafe Leon,Cafe Leon,0,,0.0,0.0,0.0
+其他西餐,Die Berliner Republik,Die Berliner Republik,0,,0.0,0.0,0.0
+其他西餐,Schlogl's,Schlogl's,0,,0.0,0.0,0.0
+其他西餐,La Parrilla,La Parrilla,0,,0.0,0.0,0.0
+其他西餐,Traube,Traube,0,,0.0,0.0,0.0
+其他西餐,Restaurant Hackescher Hof,Restaurant Hackescher Hof,0,,0.0,0.0,0.0
+其他西餐,Las Olas,Las Olas,0,,0.0,0.0,0.0
+其他西餐,Cafe Orange,Cafe Orange,0,,0.0,0.0,0.0
+其他西餐,Bellini Lounge,Bellini Lounge,0,,0.0,0.0,0.0
+其他西餐,Qba,Qba,0,,0.0,0.0,0.0
+其他西餐,Gin & Tonic Bar,Gin & Tonic Bar,0,,0.0,0.0,0.0
+其他西餐,Sauers Cafe,Sauers Cafe,0,,0.0,0.0,0.0
+其他西餐,cafe altes europa,cafe altes europa,0,,0.0,0.0,0.0
+其他西餐,Beth Cafe,Beth Cafe,0,,0.0,0.0,0.0
+其他西餐,Strandbad Mitte,Strandbad Mitte,0,,0.0,0.0,0.0
+其他西餐,Hackbarth s Bar,Hackbarth s Bar,0,,0.0,0.0,0.0
+其他西餐,Currymitte Berlin,Currymitte Berlin,0,,0.0,0.0,0.0
+其他西餐,Bocca del Buen Gusto,Bocca del Buen Gusto,0,,0.0,0.0,0.0
+其他西餐,Jette Café & Restaurant,Jette Café & Restaurant,0,,0.0,0.0,0.0
+其他西餐,Mommsen-Eck,Mommsen-Eck,0,,0.0,0.0,0.0
+其他西餐,Der Platzhirsch,Der Platzhirsch,0,,0.0,0.0,0.0
+其他西餐,Syrtaki,Syrtaki,0,,0.0,0.0,0.0
+其他西餐,Cup Arkona,Cup Arkona,0,,0.0,0.0,0.0
+其他西餐,Wursterei,Wursterei,0,,0.0,0.0,0.0
+其他西餐,die esS-bahn,die esS-bahn,0,,0.0,0.0,0.0
+其他西餐,Doreedos,Doreedos,0,,0.0,0.0,0.0
+其他西餐,Mommseneck am Pergamon,Mommseneck am Pergamon,0,,0.0,0.0,0.0
+其他西餐,Becerro,Becerro,0,,0.0,0.0,0.0
+其他西餐,Taverna Phaestos,Taverna Phaestos,0,,0.0,0.0,0.0
+其他西餐,Mandragoras,Mandragoras,0,,0.0,0.0,0.0
+其他西餐,Ristorante ,Ristorante ,0,,0.0,0.0,0.0
+其他西餐,Restaurant im Wintergarten Varietè,Restaurant im Wintergarten Varietè,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Cafe am Neuen See,Cafe am Neuen See,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Chorasco,Chorasco,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Tony's Grill Bistro,Tony's Grill Bistro,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Schneeweiss,Schneeweiss,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Spätzle & Knödel,Spätzle & Knödel,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Hops & Barley Hausbrauerei,Hops & Barley Hausbrauerei,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Macondo,Macondo,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Kurhaus Korsakow,Kurhaus Korsakow,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Curry 66,Curry 66,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Leander,Leander,0,弗里德里希,0.0,0.0,0.0
+其他西餐,La Tienda del Toro,La Tienda del Toro,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Englers Unikat,Englers Unikat,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Kafer,Kafer,0,柏林利希滕贝格,0.0,0.0,0.0
+其他西餐,Weisses Rossl,Weisses Rossl,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Johannes Restaurant-Cafe-Bar,Johannes Restaurant-Cafe-Bar,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,ASADO - Steakhaus,ASADO - Steakhaus,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Wirthaus an der Rehwiese,Wirthaus an der Rehwiese,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Krone,Krone,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Der Kretaner,Der Kretaner,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Kartoffelkeller,Kartoffelkeller,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Gasthaus Wiesenstein in Steglitz,Gasthaus Wiesenstein in Steglitz,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Gaststatte Eierschale,Gaststatte Eierschale,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,San Marco,San Marco,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Filia,Filia,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Cafe am See,Cafe am See,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Cafe Rix,Cafe Rix,0,新克尔恩,0.0,0.0,0.0
+其他西餐,HEat,HEat,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Melbourne Canteen,Melbourne Canteen,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Vin Aqua Vin,Vin Aqua Vin,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Alte Pumpe,Alte Pumpe,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Gasthaus Zum Ulmenhof,Gasthaus Zum Ulmenhof,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Zur Grunen Linde,Zur Grunen Linde,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Maredo - Alexanderplatz,Maredo - Alexanderplatz,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Altberliner Weissbierstube,Altberliner Weissbierstube,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Ban Ban Kitchen,Ban Ban Kitchen,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Wienerwald,Wienerwald,0,施潘道,0.0,0.0,0.0
+其他西餐,Luitpold,Luitpold,0,施潘道,0.0,0.0,0.0
+其他西餐,Cafe Liebig,Cafe Liebig,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Gaststatte zum Wendenkrug,Gaststatte zum Wendenkrug,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Koepenicker Seeterassen,Koepenicker Seeterassen,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Spree arche,Spree arche,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Restaurant Taverna Der Grieche,Restaurant Taverna Der Grieche,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Cafe la Martina,Cafe la Martina,0,特雷普托,0.0,0.0,0.0
+其他西餐,Lenders,Lenders,0,特雷普托,0.0,0.0,0.0
+其他西餐,Vogelweide,Vogelweide,0,马察恩,0.0,0.0,0.0
+其他西餐,ALAS Mediterraneum,ALAS Mediterraneum,0,,0.0,0.0,0.0
+其他西餐,Wirtshaaus zum Nussbaum,Wirtshaaus zum Nussbaum,0,,0.0,0.0,0.0
+其他西餐,Romiosini Bundesplatz,Romiosini Bundesplatz,0,,0.0,0.0,0.0
+其他西餐,Blisse14,Blisse14,0,,0.0,0.0,0.0
+其他西餐,Schloss Glienicke,Schloss Glienicke,0,,0.0,0.0,0.0
+其他西餐,Floh,Floh,0,,0.0,0.0,0.0
+其他西餐,Hell oder Dunkel,Hell oder Dunkel,0,,0.0,0.0,0.0
+其他西餐,Opatya-Grill,Opatya-Grill,0,,0.0,0.0,0.0
+其他西餐,Restaurant Ebert,Restaurant Ebert,0,,0.0,0.0,0.0
+其他西餐,Nordwind - Kneipe,Nordwind - Kneipe,0,,0.0,0.0,0.0
+其他西餐,Restaurant Kneipe Kuschel-Eck,Restaurant Kneipe Kuschel-Eck,0,,0.0,0.0,0.0
+其他西餐,Das Haus der 100 Biere am Ku'damm,Das Haus der 100 Biere am Ku'damm,0,,0.0,0.0,0.0
+其他西餐,Restaurant Vogelweide Stadtheuriger,Restaurant Vogelweide Stadtheuriger,0,,0.0,0.0,0.0
+其他西餐,Filetstuck,Filetstuck,0,,0.0,0.0,0.0
+其他西餐,Ach! Niko Ach!,Ach! Niko Ach!,0,,0.0,0.0,0.0
+其他西餐,Nau Portuguese Flavors,Nau Portuguese Flavors,0,,0.0,0.0,0.0
+其他西餐,GOLD Winebar,GOLD Winebar,0,,0.0,0.0,0.0
+其他西餐,Meineke X,Meineke X,0,,0.0,0.0,0.0
+其他西餐,Bier's Kudamm 195,Bier's Kudamm 195,0,,0.0,0.0,0.0
+其他西餐,Zur Kneipe,Zur Kneipe,0,,0.0,0.0,0.0
+其他西餐,Cafe im Literaturhause,Cafe im Literaturhause,0,,0.0,0.0,0.0
+其他西餐,Zlata Praha,Zlata Praha,0,,0.0,0.0,0.0
+其他西餐,KNESE Berliner Speiselokal,KNESE Berliner Speiselokal,0,,0.0,0.0,0.0
+其他西餐,Cafe Richter,Cafe Richter,0,,0.0,0.0,0.0
+其他西餐,Don Quijote,Don Quijote,0,,0.0,0.0,0.0
+其他西餐,Mommensen-Eck,Mommensen-Eck,0,,0.0,0.0,0.0
+其他西餐,Leibniz Klause,Leibniz Klause,0,,0.0,0.0,0.0
+其他西餐,Irish Pub,Irish Pub,0,,0.0,0.0,0.0
+其他西餐,Haus der 100 Biere,Haus der 100 Biere,0,,0.0,0.0,0.0
+其他西餐,Cafe Melanie,Cafe Melanie,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,IKEA Restaurant,IKEA Restaurant,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Tomasa,Tomasa,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Hell oder Dunkel,Hell oder Dunkel,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Soleys,Soleys,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Heuberger,Heuberger,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Cafe BilderBuch,Cafe BilderBuch,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Lenzig,Lenzig,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Toronto,Toronto,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Cafe Finovo,Cafe Finovo,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Alpengold,Alpengold,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Schwabisches Restaurant,Schwabisches Restaurant,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Taverna Trilogie,Taverna Trilogie,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Berkis Greek Art,Berkis Greek Art,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Restaurant Cafe Bar Maibach,Restaurant Cafe Bar Maibach,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Die Quadriga,Die Quadriga,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Rosado,Rosado,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Vineria Carvalho,Vineria Carvalho,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Goldapfel Cafe & Bar,Goldapfel Cafe & Bar,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Gagarin,Gagarin,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Restaurant Roberts,Restaurant Roberts,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Lafil Tapas Restaurant & Brunch Lokal,Lafil Tapas Restaurant & Brunch Lokal,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Walden,Walden,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Restauration 1900,Restauration 1900,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,November,November,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Oderquelle,Oderquelle,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,An einem Sonntag im August,An einem Sonntag im August,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Prater,Prater,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,konnopke's,konnopke's,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Wohnzimmer,Wohnzimmer,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Bruninghaus,Bruninghaus,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Cafe Butter,Cafe Butter,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Zander,Zander,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Marietta Bar,Marietta Bar,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Brauerei Sudstern,Brauerei Sudstern,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Noiquattro,Noiquattro,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,"Austria, Das Original","Austria, Das Original",0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Locus Restaurant,Locus Restaurant,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Felix Austria,Felix Austria,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Destille,Destille,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Restaurant Riehmers,Restaurant Riehmers,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Ron Telesky,Ron Telesky,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Kreuzberger Himmel,Kreuzberger Himmel,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Yorckschlosschen,Yorckschlosschen,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Kantina von Hugo,Kantina von Hugo,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Van Loon,Van Loon,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Defne,Defne,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Regenbogenfabrik Block 109 e.V.,Regenbogenfabrik Block 109 e.V.,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Ankerklause,Ankerklause,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Cafe am Ufer,Cafe am Ufer,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Gloria Bar,Gloria Bar,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Restaurant Horvath,Restaurant Horvath,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Brachvogel Restaurant,Brachvogel Restaurant,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Blue Nile,Blue Nile,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Marx,Marx,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Cicciolina,Cicciolina,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Cafe Morgenland,Cafe Morgenland,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Chez Gino,Chez Gino,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Baraka,Baraka,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Cafe Obermaier,Cafe Obermaier,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Jolesch,Jolesch,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Ottorink,Ottorink,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Max und Moritz,Max und Moritz,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Brauhaus am Schloss,Brauhaus am Schloss,0,,0.0,0.0,0.0
+其他西餐,Berlin Moskau,Berlin Moskau,0,,0.0,0.0,0.0
+其他西餐,Ziko's Grill,Ziko's Grill,0,,0.0,0.0,0.0
+其他西餐,Goldener Stern,Goldener Stern,0,,0.0,0.0,0.0
+其他西餐,Steakhouse Guacho,Steakhouse Guacho,0,,0.0,0.0,0.0
+其他西餐,Tavernaki Restaurant,Tavernaki Restaurant,0,,0.0,0.0,0.0
+其他西餐,Berkis,Berkis,0,,0.0,0.0,0.0
+其他西餐,Seven Spices,Seven Spices,0,,0.0,0.0,0.0
+其他西餐,Cafe Tiffanys,Cafe Tiffanys,0,,0.0,0.0,0.0
+其他西餐,Moevenpick,Moevenpick,0,,0.0,0.0,0.0
+其他西餐,Cafe Dollinger,Cafe Dollinger,0,,0.0,0.0,0.0
+其他西餐,Cafe Rossia Berlin,Cafe Rossia Berlin,0,,0.0,0.0,0.0
+其他西餐,Mar y Sol,Mar y Sol,0,,0.0,0.0,0.0
+其他西餐,Vida Leben,Vida Leben,0,,0.0,0.0,0.0
+其他西餐,Chalkias Restaurant,Chalkias Restaurant,0,,0.0,0.0,0.0
+其他西餐,Luxemburg Bar,Luxemburg Bar,0,,0.0,0.0,0.0
+其他西餐,LeBuffet Berlin Charlottenburg,LeBuffet Berlin Charlottenburg,0,,0.0,0.0,0.0
+其他西餐,Kaisersaal,Kaisersaal,0,,0.0,0.0,0.0
+其他西餐,Berlinoff,Berlinoff,0,,0.0,0.0,0.0
+其他西餐,Manufactum Brot & Butter,Manufactum Brot & Butter,0,,0.0,0.0,0.0
+其他西餐,Der Thuringer,Der Thuringer,0,,0.0,0.0,0.0
+其他西餐,Marador berlin,Marador berlin,0,,0.0,0.0,0.0
+其他西餐,Restaurantschiff Deckshaus,Restaurantschiff Deckshaus,0,,0.0,0.0,0.0
+其他西餐,Café Re,Café Re,0,,0.0,0.0,0.0
+其他西餐,La Perle,La Perle,0,,0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,,0.0,0.0,0.0
+其他西餐,Weissgold Restaurant,Weissgold Restaurant,0,,0.0,0.0,0.0
+其他西餐,Einstein Coffee Shop - Friedrichstrasse,Einstein Coffee Shop - Friedrichstrasse,0,,0.0,0.0,0.0
+其他西餐,Bistro Olivenbaum,Bistro Olivenbaum,0,,0.0,0.0,0.0
+其他西餐,Zur Bratpfanne,Zur Bratpfanne,0,,0.0,0.0,0.0
+其他西餐,Zur Jannowitzbrucke,Zur Jannowitzbrucke,0,,0.0,0.0,0.0
+其他西餐,Cafe Feine Dahme,Cafe Feine Dahme,0,,0.0,0.0,0.0
+其他西餐,Kaffeestube,Kaffeestube,0,,0.0,0.0,0.0
+其他西餐,Gallo Pinto,Gallo Pinto,0,,0.0,0.0,0.0
+其他西餐,Cafeuropa,Cafeuropa,0,,0.0,0.0,0.0
+其他西餐,Bonne Vie berlin,Bonne Vie berlin,0,,0.0,0.0,0.0
+其他西餐,kartoffel laube,kartoffel laube,0,,0.0,0.0,0.0
+其他西餐,Henselmann,Henselmann,0,,0.0,0.0,0.0
+其他西餐,Q-Masch,Q-Masch,0,,0.0,0.0,0.0
+其他西餐,Mendoza Berlin Spandauer Damm 157• 14050 Berlín,Mendoza Berlin Spandauer Damm 157• 14050 Berlín,0,,0.0,0.0,0.0
+其他西餐,Karagiosis,Karagiosis,0,,0.0,0.0,0.0
+其他西餐,Humboldt-Restaurant,Humboldt-Restaurant,0,,0.0,0.0,0.0
+其他西餐,Das Restaurant in Der Humboldt- Universitat,Das Restaurant in Der Humboldt- Universitat,0,,0.0,0.0,0.0
+其他西餐,Am Food Lounge Berlin,Am Food Lounge Berlin,0,,0.0,0.0,0.0
+其他西餐,Ristorante Sophie 11 a Berlino Germania,Ristorante Sophie 11 a Berlino Germania,0,,0.0,0.0,0.0
+其他西餐,Goldneun,Goldneun,0,,0.0,0.0,0.0
+其他西餐,Käse König,Käse König,0,,0.0,0.0,0.0
+其他西餐,Restaurante Giratorio de la,Restaurante Giratorio de la,0,,0.0,0.0,0.0
+其他西餐,Flammengrill,Flammengrill,0,,0.0,0.0,0.0
+其他西餐,Jones Food Store,Jones Food Store,0,,0.0,0.0,0.0
+其他西餐,Marcus-Brau Microbrauerei Barkowsky,Marcus-Brau Microbrauerei Barkowsky,0,,0.0,0.0,0.0
+其他西餐,Suppeto,Suppeto,0,,0.0,0.0,0.0
+其他西餐,Oscar Wilde,Oscar Wilde,0,,0.0,0.0,0.0
+其他西餐,Giotto,Giotto,0,,0.0,0.0,0.0
+其他西餐,Zum Alten Tor,Zum Alten Tor,0,,0.0,0.0,0.0
+其他西餐,Village Voice,Village Voice,0,,0.0,0.0,0.0
+其他西餐,Shiloh Vegetarian Cafe - Bistro,Shiloh Vegetarian Cafe - Bistro,0,,0.0,0.0,0.0
+其他西餐,Finnegan's Irish Pub,Finnegan's Irish Pub,0,,0.0,0.0,0.0
+其他西餐,Galao a Pastelaria,Galao a Pastelaria,0,,0.0,0.0,0.0
+其他西餐,Alois Oberbacher,Alois Oberbacher,0,,0.0,0.0,0.0
+其他西餐,Naked Lunch,Naked Lunch,0,,0.0,0.0,0.0
+其他西餐,Roberta,Roberta,0,,0.0,0.0,0.0
+其他西餐,Sally Bowles,Sally Bowles,0,,0.0,0.0,0.0
+其他西餐,Restaurant Garage,Restaurant Garage,0,,0.0,0.0,0.0
+其他西餐,La Casa Buena Vista,La Casa Buena Vista,0,,0.0,0.0,0.0
+其他西餐,Taverna Knossos,Taverna Knossos,0,,0.0,0.0,0.0
+其他西餐,Restaurant Pula-Grill,Restaurant Pula-Grill,0,,0.0,0.0,0.0
+其他西餐,Alt Reinickendorf,Alt Reinickendorf,0,,0.0,0.0,0.0
+其他西餐,Sabzi,Sabzi,0,,0.0,0.0,0.0
+其他西餐,Hofstall,Hofstall,0,,0.0,0.0,0.0
+其他西餐,Restaurant Aventuras,Restaurant Aventuras,0,,0.0,0.0,0.0
+其他西餐,Mignon Steakhaus,Mignon Steakhaus,0,,0.0,0.0,0.0
+其他西餐,Habba-Habba,Habba-Habba,0,,0.0,0.0,0.0
+其他西餐,Mani,Mani,0,,0.0,0.0,0.0
+其他西餐,Tegernseer Tönnchen,Tegernseer Tönnchen,0,,0.0,0.0,0.0
+其他西餐,Romiosini in Tegel,Romiosini in Tegel,0,,0.0,0.0,0.0
+其他西餐,Ja! NIKO Ja!,Ja! NIKO Ja!,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,The Casual,The Casual,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Ya-Man,Ya-Man,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Rosario,Rosario,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Biergarten Lowenbrau-Speicher,Biergarten Lowenbrau-Speicher,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Die Turnhalle,Die Turnhalle,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Currywurst Express,Currywurst Express,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Gastón,Gastón,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Caldera,Caldera,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Friesendeel,Friesendeel,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Steakhouse San Diego,Steakhouse San Diego,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Hafenküche,Hafenküche,0,柏林利希滕贝格,0.0,0.0,0.0
+其他西餐,Cafe Schlacht,Cafe Schlacht,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Adebar,Adebar,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Villa Rixdorf,Villa Rixdorf,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Cafe & Backerei Suss,Cafe & Backerei Suss,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Blaue Tische,Blaue Tische,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Alex im Sony Center Berlin,Alex im Sony Center Berlin,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Donath,Donath,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Grune Lampe,Grune Lampe,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Wiener Stüberl,Wiener Stüberl,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Wirtshaus Halali,Wirtshaus Halali,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,,0.0,0.0,0.0
+其他西餐,Restaurant Kolk,Restaurant Kolk,0,施潘道,0.0,0.0,0.0
+其他西餐,Cafe Ole,Cafe Ole,0,潘科,0.0,0.0,0.0
+其他西餐,Gasthaus Landauer,Gasthaus Landauer,0,,0.0,0.0,0.0
+其他西餐,KiiWii Familienrestaurant,KiiWii Familienrestaurant,0,,0.0,0.0,0.0
+其他西餐,Zum Haxenwirt,Zum Haxenwirt,0,,0.0,0.0,0.0
+其他西餐,Bistro Budapest,Bistro Budapest,0,,0.0,0.0,0.0
+其他西餐,keno,keno,0,,0.0,0.0,0.0
+其他西餐,Romiosini Ku Damm,Romiosini Ku Damm,0,,0.0,0.0,0.0
+其他西餐,EL-DORADO,EL-DORADO,0,,0.0,0.0,0.0
+其他西餐,Reinhard's,Reinhard's,0,,0.0,0.0,0.0
+其他西餐,Cafe Montevideo,Cafe Montevideo,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Gustav Feinkostimbiss & Heurigenstube,Gustav Feinkostimbiss & Heurigenstube,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Da Mario,Da Mario,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Grenander Cafehaus,Grenander Cafehaus,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Nocti Vagus,Nocti Vagus,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Blue Label,Blue Label,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Mi Amor,Mi Amor,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Endlos Restaurant Cafe Bar,Endlos Restaurant Cafe Bar,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Istoria,Istoria,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Osswald,Osswald,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Duckwitz zum Gege Restaurant,Duckwitz zum Gege Restaurant,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Tres Tapas,Tres Tapas,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Kreuzburger,Kreuzburger,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Goa II,Goa II,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,AndaluZia,AndaluZia,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Wirtshaus Hasenheide,Wirtshaus Hasenheide,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Floriansgarten,Floriansgarten,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Atlantic,Atlantic,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Tierra Colombiana,Tierra Colombiana,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,East London,East London,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Eckbert Zwo,Eckbert Zwo,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Frau Rauscher,Frau Rauscher,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,P103,P103,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Kreuzburger,Kreuzburger,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Wirtshaus Stresemann,Wirtshaus Stresemann,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Safran,Safran,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Café Alibi,Café Alibi,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Mundvoll,Mundvoll,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Kuchen Kaiser,Kuchen Kaiser,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Kobes ene Kolsch,Kobes ene Kolsch,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Oleo Pazzo,Oleo Pazzo,0,克罗伊茨贝格,0.0,0.0,0.0
+其他西餐,Seekrug,Seekrug,0,,0.0,0.0,0.0
+其他西餐,Maison Courage,Maison Courage,0,,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,,0.0,0.0,0.0
+其他西餐,Restaurante Andalucia,Restaurante Andalucia,0,,0.0,0.0,0.0
+其他西餐,Berliner Wappen,Berliner Wappen,0,,0.0,0.0,0.0
+其他西餐,Suess & Wuerzig,Suess & Wuerzig,0,,0.0,0.0,0.0
+其他西餐,Plus Minus Null,Plus Minus Null,0,,0.0,0.0,0.0
+其他西餐,Doener Inn,Doener Inn,0,,0.0,0.0,0.0
+其他西餐,Anatre,Anatre,0,,0.0,0.0,0.0
+其他西餐,Restaurante Bar-Celona,Restaurante Bar-Celona,0,,0.0,0.0,0.0
+其他西餐,Sloppy Joe´s Bar & restaurant,Sloppy Joe´s Bar & restaurant,0,,0.0,0.0,0.0
+其他西餐,Guidos Restaurant,Guidos Restaurant,0,,0.0,0.0,0.0
+其他西餐,Milchhäuschen Berlin,Milchhäuschen Berlin,0,,0.0,0.0,0.0
+其他西餐,Rheinsberg am See,Rheinsberg am See,0,,0.0,0.0,0.0
+其他西餐,Romiosini am Zoo,Romiosini am Zoo,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Cafe in Der Neuen Nationalgalerie,Cafe in Der Neuen Nationalgalerie,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,ProMo,ProMo,0,蒂尔加滕,0.0,0.0,0.0
+其他西餐,Gabriel,Gabriel,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Alpenwirt,Alpenwirt,0,弗里德里希,0.0,0.0,0.0
+其他西餐,Syrtaki Karlshorst,Syrtaki Karlshorst,0,柏林利希滕贝格,0.0,0.0,0.0
+其他西餐,Rivado,Rivado,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Filouu,Filouu,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Das Cafe in der Gartenakademie,Das Cafe in der Gartenakademie,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+其他西餐,Malena Bar,Malena Bar,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Goldberg Cafe Bar,Goldberg Cafe Bar,0,新克尔恩,0.0,0.0,0.0
+其他西餐,Lux,Lux,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Peterhof,Peterhof,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Veltins,Veltins,0,滕珀尔霍夫,0.0,0.0,0.0
+其他西餐,Cafe in der Schwartzschen Villa,Cafe in der Schwartzschen Villa,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+其他西餐,Historischer Weinkeller Steile Stiege,Historischer Weinkeller Steile Stiege,0,施潘道,0.0,0.0,0.0
+其他西餐,Ruebezahl Berlin,Ruebezahl Berlin,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Gaststaette Zum Hauptmann von Coepenick,Gaststaette Zum Hauptmann von Coepenick,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Wirtshaus Friedrichshof,Wirtshaus Friedrichshof,0,克珀尼克,0.0,0.0,0.0
+其他西餐,Taverna Odyssee,Taverna Odyssee,0,特雷普托,0.0,0.0,0.0
+其他西餐,Brasil Brasileiro Churrascaria Rodizio,Brasil Brasileiro Churrascaria Rodizio,0,,0.0,0.0,0.0
+其他西餐,F8/eight Bar & Lounge,F8/eight Bar & Lounge,0,,0.0,0.0,0.0
+其他西餐,Beef Club by Hasir,Beef Club by Hasir,0,,0.0,0.0,0.0
+其他西餐,Schnitzel Haus Restaurant,Schnitzel Haus Restaurant,0,,0.0,0.0,0.0
+其他西餐,Ristorante Doro Berlin,Ristorante Doro Berlin,0,,0.0,0.0,0.0
+其他西餐,Rollenhagen - Restaurant Reinhards,Rollenhagen - Restaurant Reinhards,0,,0.0,0.0,0.0
+其他西餐,Restaurant Victor,Restaurant Victor,0,,0.0,0.0,0.0
+其他西餐,Springl's,Springl's,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Restaurante Romantica,Restaurante Romantica,0,舍讷贝格,0.0,0.0,0.0
+其他西餐,Ventura,Ventura,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Athina,Athina,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,Tafelgold,Tafelgold,0,普伦茨劳贝格,0.0,0.0,0.0
+其他西餐,La Bodeguita Del Medio,La Bodeguita Del Medio,0,普伦茨劳贝格,0.0,0.0,0.0
+江浙菜,XIANG SHAN CHINA RESTAURANT(香山酒楼),XIANG SHAN CHINA RESTAURANT(香山酒楼),0,蒂尔加滕,8.8,8.1,8.5
+江浙菜,Miss Wu 私房菜,Miss Wu 私房菜,0,,8.2,8.2,7.9
+江浙菜,Cafe Bar Restaurant 珊珊小屋,Cafe Bar Restaurant 珊珊小屋,0,普伦茨劳贝格,7.9,7.6,7.6
+中餐,Goodfriends Berlin,Goodfriends Berlin,0,,0.0,0.0,0.0
+中餐,Da Jia Le,Da Jia Le,0,舍讷贝格,0.0,0.0,0.0
+中餐,Wok to Walk,Wok to Walk,0,,7.4,7.4,7.9
+中餐,China City,China City,0,,7.4,7.4,7.4
+中餐,Tianfu,Tianfu,0,,0.0,0.0,0.0
+中餐,Wok Show,Wok Show,0,普伦茨劳贝格,0.0,0.0,0.0
+中餐,Lucky Star,Lucky Star,0,,8.4,8.4,8.4
+中餐,Ming Dynastie,Ming Dynastie,0,,7.1,7.1,7.1
+中餐,China Restaurant Tian Fu,China Restaurant Tian Fu,0,潘科,0.0,0.0,0.0
+中餐,Zhou's Five,Zhou's Five,0,蒂尔加滕,0.0,0.0,0.0
+中餐,Selig,Selig,0,,7.4,7.1,7.1
+中餐,Nin Hao,Nin Hao,0,,8.0,8.0,8.0
+中餐,East Restaurant,East Restaurant,0,,8.1,8.1,8.1
+中餐,Asia Pavillion,Asia Pavillion,0,,6.7,6.7,6.7
+中餐,Mings Garden,Mings Garden,0,,0.0,0.0,0.0
+中餐,Chinarestaurant BAO-BAO,Chinarestaurant BAO-BAO,0,克罗伊茨贝格,0.0,0.0,0.0
+中餐,Tangs Kantine,Tangs Kantine,0,克罗伊茨贝格,0.0,0.0,0.0
+中餐,Royal Garden,Royal Garden,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+中餐,China Restaurant Sonne,China Restaurant Sonne,0,,0.0,0.0,0.0
+中餐,Gung Jeon,Gung Jeon,0,,0.0,0.0,0.0
+中餐,Lon-Men,Lon-Men,0,滕珀尔霍夫,0.0,0.0,0.0
+中餐,balli,balli,0,滕珀尔霍夫,0.0,0.0,0.0
+中餐,Long March Canteen,Long March Canteen,0,克罗伊茨贝格,0.0,0.0,0.0
+中餐,Ming Jia,Ming Jia,0,,0.0,0.0,0.0
+中餐,Ho Lin Wah,Ho Lin Wah,0,,0.0,0.0,0.0
+中餐,Thai Terrace,Thai Terrace,0,克罗伊茨贝格,0.0,0.0,0.0
+中餐,Le Lamian,Le Lamian,0,弗里德里希,0.0,0.0,0.0
+中餐,Come Buy,Come Buy,0,,0.0,0.0,0.0
+中餐,Kang Feng,Kang Feng,0,滕珀尔霍夫,0.0,0.0,0.0
+中餐,Happy Buddha,Happy Buddha,0,滕珀尔霍夫,0.0,0.0,0.0
+中餐,China Garten,China Garten,0,克珀尼克,0.0,0.0,0.0
+中餐,Himali restaurant og bar,Himali restaurant og bar,0,舍讷贝格,0.0,0.0,0.0
+中餐,Ostwind,Ostwind,0,普伦茨劳贝格,0.0,0.0,0.0
+中餐,Nepal Haus,Nepal Haus,0,克罗伊茨贝格,0.0,0.0,0.0
+中餐,朱家大院,朱家大院,0,米特,0.0,0.0,0.0
+中餐,Asia Snack,Asia Snack,0,,0.0,0.0,0.0
+日韩料理,Daitokia,Daitokia,0,,0.0,0.0,0.0
+日韩料理,Cocoro,Cocoro,0,克罗伊茨贝格,0.0,0.0,0.0
+日韩料理,Aki Tatsu Sushi & more,Aki Tatsu Sushi & more,0,,0.0,0.0,0.0
+日韩料理,Daitokai Europa Center,Daitokai Europa Center,0,,0.0,0.0,0.0
+日韩料理,Soju Bar - Korean Street Food,Soju Bar - Korean Street Food,0,克罗伊茨贝格,0.0,0.0,0.0
+日韩料理,Sushi Bar,Sushi Bar,0,新克尔恩,0.0,0.0,0.0
+日韩料理,Abonim,Abonim,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Arirang,Arirang,0,韦丁,0.0,0.0,0.0
+日韩料理,Hanage - Japanese Okonomiyaki,Hanage - Japanese Okonomiyaki,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Hello Sushi,Hello Sushi,0,弗里德里希,0.0,0.0,0.0
+日韩料理,Korea Manna,Korea Manna,0,弗里德里希,0.0,0.0,0.0
+日韩料理,IZUMI - Restaurant - Sushi Bar,IZUMI - Restaurant - Sushi Bar,0,,0.0,0.0,0.0
+日韩料理,Kuchi,Kuchi,0,,0.0,0.0,0.0
+日韩料理,Sushi and Friends,Sushi and Friends,0,特雷普托,0.0,0.0,0.0
+日韩料理,Kushinoya,Kushinoya,0,,0.0,0.0,0.0
+日韩料理,Cocolo Ramenbar X-Berg,Cocolo Ramenbar X-Berg,0,克罗伊茨贝格,0.0,0.0,0.0
+日韩料理,Hanok - Korean Grill & Restaurant,Hanok - Korean Grill & Restaurant,0,,0.0,0.0,0.0
+日韩料理,Nhat Long,Nhat Long,0,,0.0,0.0,0.0
+日韩料理,Ishin Japanese Deli,Ishin Japanese Deli,0,柏林利希滕贝格,0.0,0.0,0.0
+日韩料理,Makoto,Makoto,0,,0.0,0.0,0.0
+日韩料理,Udagawa,Udagawa,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+日韩料理,Sasaya,Sasaya,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Goko,Goko,0,,0.0,0.0,0.0
+日韩料理,Sachiko Sushi,Sachiko Sushi,0,,0.0,0.0,0.0
+日韩料理,Aki Tatsu Sushi,Aki Tatsu Sushi,0,克罗伊茨贝格,0.0,0.0,0.0
+日韩料理,Sushi-bar Geisha,Sushi-bar Geisha,0,弗里德里希,0.0,0.0,0.0
+日韩料理,Rice In,Rice In,0,弗里德里希,0.0,0.0,0.0
+日韩料理,Hanoi''s Center,Hanoi''s Center,0,,0.0,0.0,0.0
+日韩料理,Sushi Circle - Neues Kranzler Eck,Sushi Circle - Neues Kranzler Eck,0,,0.0,0.0,0.0
+日韩料理,A-petit Restaurant,A-petit Restaurant,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Vietanh Fastfood,Vietanh Fastfood,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Sakura II,Sakura II,0,,0.0,0.0,0.0
+日韩料理,Ishin in der Bundesallee,Ishin in der Bundesallee,0,,0.0,0.0,0.0
+日韩料理,Sushi Express,Sushi Express,0,,0.0,0.0,0.0
+日韩料理,Cooking Papa,Cooking Papa,0,,0.0,0.0,0.0
+日韩料理,Restaurant Suno,Restaurant Suno,0,,0.0,0.0,0.0
+日韩料理,Susuru,Susuru,0,,0.0,0.0,0.0
+日韩料理,Aiko,Aiko,0,,0.0,0.0,0.0
+日韩料理,Yoko Sushi Friedrichshain,Yoko Sushi Friedrichshain,0,弗里德里希,0.0,0.0,0.0
+日韩料理,Onsen Japan Style Food,Onsen Japan Style Food,0,弗里德里希,0.0,0.0,0.0
+日韩料理,Lovely Sushi,Lovely Sushi,0,柏林利希滕贝格,0.0,0.0,0.0
+日韩料理,Tabibito,Tabibito,0,新克尔恩,0.0,0.0,0.0
+日韩料理,Hashi Izakaya,Hashi Izakaya,0,潘科,0.0,0.0,0.0
+日韩料理,Akiko Sushi,Akiko Sushi,0,克珀尼克,0.0,0.0,0.0
+日韩料理,I-Ke-Su japanisches Restaurant,I-Ke-Su japanisches Restaurant,0,,0.0,0.0,0.0
+日韩料理,Flying Fish Sushi,Flying Fish Sushi,0,舍讷贝格,0.0,0.0,0.0
+日韩料理,Yama,Yama,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Gingi Sushi Sashimi,Gingi Sushi Sashimi,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Tachi,Tachi,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Ky Sushi,Ky Sushi,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,GoBento,GoBento,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Mikoto Sushi,Mikoto Sushi,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,omoni,omoni,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Akitatsu,Akitatsu,0,克罗伊茨贝格,0.0,0.0,0.0
+日韩料理,Madang,Madang,0,克罗伊茨贝格,0.0,0.0,0.0
+日韩料理,Shochu Bar,Shochu Bar,0,,0.0,0.0,0.0
+日韩料理,Taisu,Taisu,0,克罗伊茨贝格,0.0,0.0,0.0
+日韩料理,Genki-Sushi,Genki-Sushi,0,,0.0,0.0,0.0
+日韩料理,Sushi Circle,Sushi Circle,0,,0.0,0.0,0.0
+日韩料理,Sy Restaurant,Sy Restaurant,0,,0.0,0.0,0.0
+日韩料理,Edo Sushi,Edo Sushi,0,,0.0,0.0,0.0
+日韩料理,Smart Deli,Smart Deli,0,,0.0,0.0,0.0
+日韩料理,ULA Berlin,ULA Berlin,0,,0.0,0.0,0.0
+日韩料理,Ryukin Japanese Sushi Bar & Asian Cuisine,Ryukin Japanese Sushi Bar & Asian Cuisine,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+日韩料理,Sapa Sushi,Sapa Sushi,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+日韩料理,mrhai life,mrhai life,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+日韩料理,Surf & Sushi,Surf & Sushi,0,滕珀尔霍夫,0.0,0.0,0.0
+日韩料理,Ohashi,Ohashi,0,潘科,0.0,0.0,0.0
+日韩料理,Mr Hai Kaiten Sushi Bar,Mr Hai Kaiten Sushi Bar,0,,0.0,0.0,0.0
+日韩料理,Sagano,Sagano,0,舍讷贝格,0.0,0.0,0.0
+日韩料理,Kochu Karu,Kochu Karu,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Core,Core,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Kimchi Princess,Kimchi Princess,0,克罗伊茨贝格,0.0,0.0,0.0
+日韩料理,Akito Sushi Bar,Akito Sushi Bar,0,,0.0,0.0,0.0
+日韩料理,Chopstix,Chopstix,0,,0.0,0.0,0.0
+日韩料理,Minakami. Japanese Fusion Kitchen,Minakami. Japanese Fusion Kitchen,0,,0.0,0.0,0.0
+日韩料理,Katsudo Sushi,Katsudo Sushi,0,,0.0,0.0,0.0
+日韩料理,Dasomi,Dasomi,0,,0.0,0.0,0.0
+日韩料理,Nishiki,Nishiki,0,,0.0,0.0,0.0
+日韩料理,Fuki Sushi,Fuki Sushi,0,,0.0,0.0,0.0
+日韩料理,Maki Rolls to go,Maki Rolls to go,0,,0.0,0.0,0.0
+日韩料理,Miyaki,Miyaki,0,弗里德里希,0.0,0.0,0.0
+日韩料理,Papa No,Papa No,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Ha Long Bay,Ha Long Bay,0,普伦茨劳贝格,0.0,0.0,0.0
+日韩料理,Dadu,Dadu,0,,0.0,0.0,0.0
+日韩料理,Thai-Nippon-Sushi-Bar,Thai-Nippon-Sushi-Bar,0,施潘道,0.0,0.0,0.0
+日韩料理,Oishi,Oishi,0,克罗伊茨贝格,0.0,0.0,0.0
+日韩料理,Cafe Silberstein,Cafe Silberstein,0,,0.0,0.0,0.0
+日韩料理,Kotobuki Sushi,Kotobuki Sushi,0,,0.0,0.0,0.0
+日韩料理,Sushi Fuji-San,Sushi Fuji-San,0,,0.0,0.0,0.0
+更多亚洲菜,cha cha - positive eating,cha cha - positive eating,0,,7.5,7.5,7.1
+更多亚洲菜,Lon Men's,Lon Men's,0,,0.0,0.0,0.0
+更多亚洲菜,Pho Nguyen,Pho Nguyen,0,,0.0,0.0,0.0
+更多亚洲菜,Viet-Frisch,Viet-Frisch,0,,7.5,7.5,7.5
+更多亚洲菜,Vox,Vox,0,,6.7,8.4,8.4
+更多亚洲菜,Old Shanghai,Old Shanghai,0,,7.1,7.1,7.1
+更多亚洲菜,Shaniu's House of Noodles,Shaniu's House of Noodles,0,,0.0,0.0,0.0
+更多亚洲菜,Agni,Agni,0,蒂尔加滕,0.0,0.0,0.0
+更多亚洲菜,Hung Sushi Bar,Hung Sushi Bar,0,,0.0,0.0,0.0
+更多亚洲菜,Pho Phan,Pho Phan,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Luna de Istanbul,Luna de Istanbul,0,,0.0,0.0,0.0
+更多亚洲菜,Tadschikische Teestube,Tadschikische Teestube,0,,0.0,0.0,0.0
+更多亚洲菜,Amrit Potsdamer Platz,Amrit Potsdamer Platz,0,,0.0,0.0,0.0
+更多亚洲菜,Restaurant Shi-Mai,Restaurant Shi-Mai,0,,0.0,0.0,0.0
+更多亚洲菜,Indus Restaurant,Indus Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Swera,Swera,0,,0.0,0.0,0.0
+更多亚洲菜,Mustafas Gemuse Kebab,Mustafas Gemuse Kebab,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Buddha Republic,Buddha Republic,0,,0.0,0.0,0.0
+更多亚洲菜,Tran Pho House,Tran Pho House,0,,0.0,0.0,0.0
+更多亚洲菜,China Restaurant HuaTing,China Restaurant HuaTing,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Black & White Turkisches Restaurant & Cafe,Black & White Turkisches Restaurant & Cafe,0,,0.0,0.0,0.0
+更多亚洲菜,coa,coa,0,,0.0,0.0,0.0
+更多亚洲菜,Dr To's,Dr To's,0,新克尔恩,0.0,0.0,0.0
+更多亚洲菜,Asia Wok,Asia Wok,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Le Buffet Berlin Schlosstrasse,Le Buffet Berlin Schlosstrasse,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多亚洲菜,"Good Time, Teltower Damm, Berlin","Good Time, Teltower Damm, Berlin",0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多亚洲菜,BALkaymak,BALkaymak,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Evim,Evim,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Vietnam Kuche,Vietnam Kuche,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多亚洲菜,Tonsai Thai-Restaurant,Tonsai Thai-Restaurant,0,滕珀尔霍夫,0.0,0.0,0.0
+更多亚洲菜,A.nam,A.nam,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Nam Long,Nam Long,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Tim Raue,Tim Raue,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,moon thai,moon thai,0,,0.0,0.0,0.0
+更多亚洲菜,Mabuhay - Indonesian Restaurant,Mabuhay - Indonesian Restaurant,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Vietnamese Food-Sushi,Vietnamese Food-Sushi,0,,0.0,0.0,0.0
+更多亚洲菜,Angkor Wat,Angkor Wat,0,蒂尔加滕,0.0,0.0,0.0
+更多亚洲菜,Thairestaurant Bai Tong,Thairestaurant Bai Tong,0,韦丁,0.0,0.0,0.0
+更多亚洲菜,Hisar,Hisar,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Taste Singapore Style Fusionkueche,Taste Singapore Style Fusionkueche,0,蒂尔加滕,0.0,0.0,0.0
+更多亚洲菜,Maharadscha,Maharadscha,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Restaurant Jolly,Restaurant Jolly,0,,0.0,0.0,0.0
+更多亚洲菜,Van-Long,Van-Long,0,,0.0,0.0,0.0
+更多亚洲菜,Feinberg's,Feinberg's,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,ISSAAN Fine Thai Cuisine,ISSAAN Fine Thai Cuisine,0,,0.0,0.0,0.0
+更多亚洲菜,Samadhi,Samadhi,0,,0.0,0.0,0.0
+更多亚洲菜,Sisaket (Mao Thai),Sisaket (Mao Thai),0,,0.0,0.0,0.0
+更多亚洲菜,Sushi-Wok at Checkpoint Charlie,Sushi-Wok at Checkpoint Charlie,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Good Morning Vietnam,Good Morning Vietnam,0,,0.0,0.0,0.0
+更多亚洲菜,Non La,Non La,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Thai Inside,Thai Inside,0,,0.0,0.0,0.0
+更多亚洲菜,Izmir Koeftecisi Konak Grill,Izmir Koeftecisi Konak Grill,0,柏林利希滕贝格,0.0,0.0,0.0
+更多亚洲菜,Doyum Grillhaus,Doyum Grillhaus,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Wok To Walk,Wok To Walk,0,,0.0,0.0,0.0
+更多亚洲菜,Maharadsch,Maharadsch,0,蒂尔加滕,0.0,0.0,0.0
+更多亚洲菜,Hadigari,Hadigari,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Meli Cafe,Meli Cafe,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Raj Mahaal,Raj Mahaal,0,施潘道,0.0,0.0,0.0
+更多亚洲菜,Naveena Path,Naveena Path,0,,0.0,0.0,0.0
+更多亚洲菜,Pho 12,Pho 12,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,May,May,0,,0.0,0.0,0.0
+更多亚洲菜,Masala I,Masala I,0,,0.0,0.0,0.0
+更多亚洲菜,Juki - Korean BBQ and Soju Bar,Juki - Korean BBQ and Soju Bar,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Monsieur Wan,Monsieur Wan,0,,0.0,0.0,0.0
+更多亚洲菜,Asia Snack Restaurant,Asia Snack Restaurant,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,maoa modern art asia Inh. Heinrich Kafer,maoa modern art asia Inh. Heinrich Kafer,0,,0.0,0.0,0.0
+更多亚洲菜,Pho Co,Pho Co,0,,0.0,0.0,0.0
+更多亚洲菜,Tuk Tuk,Tuk Tuk,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Gastronomie Gmbh,Gastronomie Gmbh,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Chi Sing,Chi Sing,0,,0.0,0.0,0.0
+更多亚洲菜,Tahala,Tahala,0,,0.0,0.0,0.0
+更多亚洲菜,Orangerie,Orangerie,0,,0.0,0.0,0.0
+更多亚洲菜,Durak,Durak,0,蒂尔加滕,0.0,0.0,0.0
+更多亚洲菜,Abone,Abone,0,蒂尔加滕,0.0,0.0,0.0
+更多亚洲菜,Nam Ky,Nam Ky,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Amaltas,Amaltas,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Chai Ji,Chai Ji,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Phoviet,Phoviet,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多亚洲菜,BAO Vietnamese Cooking,BAO Vietnamese Cooking,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多亚洲菜,Grillhaus Berlin,Grillhaus Berlin,0,新克尔恩,0.0,0.0,0.0
+更多亚洲菜,Chez Dang,Chez Dang,0,新克尔恩,0.0,0.0,0.0
+更多亚洲菜,Ajanta,Ajanta,0,潘科,0.0,0.0,0.0
+更多亚洲菜,Mauer Döner,Mauer Döner,0,潘科,0.0,0.0,0.0
+更多亚洲菜,Pan,Pan,0,,0.0,0.0,0.0
+更多亚洲菜,Mela,Mela,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Saigon New,Saigon New,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Vietanh Fastfood,Vietanh Fastfood,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Greenpearl,Greenpearl,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Sufis,Sufis,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Om Ganesha,Om Ganesha,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Shahjajahan India Restaurant & Lieferservice,Shahjajahan India Restaurant & Lieferservice,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Chan asian market food,Chan asian market food,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Phohoi,Phohoi,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Aanjal,Aanjal,0,,0.0,0.0,0.0
+更多亚洲菜,"Dara, Thai Food","Dara, Thai Food",0,,0.0,0.0,0.0
+更多亚洲菜,Little Tibet Restaurant,Little Tibet Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Viet's,Viet's,0,,0.0,0.0,0.0
+更多亚洲菜,Nu,Nu,0,,0.0,0.0,0.0
+更多亚洲菜,SaiGon-Today,SaiGon-Today,0,,0.0,0.0,0.0
+更多亚洲菜,Saigon - Green,Saigon - Green,0,,0.0,0.0,0.0
+更多亚洲菜,DAO Restaurant,DAO Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Rasas,Rasas,0,,0.0,0.0,0.0
+更多亚洲菜,GOODTIME,GOODTIME,0,,0.0,0.0,0.0
+更多亚洲菜,Hamy Cafe,Hamy Cafe,0,,0.0,0.0,0.0
+更多亚洲菜,Madami - Mom's Vietnamese Kitchen,Madami - Mom's Vietnamese Kitchen,0,,0.0,0.0,0.0
+更多亚洲菜,BOMBAY,BOMBAY,0,,0.0,0.0,0.0
+更多亚洲菜,Amrit,Amrit,0,,0.0,0.0,0.0
+更多亚洲菜,Dos Palillos,Dos Palillos,0,,0.0,0.0,0.0
+更多亚洲菜,Dada Falafel,Dada Falafel,0,,0.0,0.0,0.0
+更多亚洲菜,Manngo,Manngo,0,,0.0,0.0,0.0
+更多亚洲菜,Chen Che Teehaus,Chen Che Teehaus,0,,0.0,0.0,0.0
+更多亚洲菜,Hashi Izakaya,Hashi Izakaya,0,,0.0,0.0,0.0
+更多亚洲菜,Transit Restaurant,Transit Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Yarok Fine Syrian Food from Damascus,Yarok Fine Syrian Food from Damascus,0,,0.0,0.0,0.0
+更多亚洲菜,Royals & Rice Berlin,Royals & Rice Berlin,0,,0.0,0.0,0.0
+更多亚洲菜,Fam Dang,Fam Dang,0,,0.0,0.0,0.0
+更多亚洲菜,Nordbahnhof Two Buddhas,Nordbahnhof Two Buddhas,0,,0.0,0.0,0.0
+更多亚洲菜,Chay Viet,Chay Viet,0,,0.0,0.0,0.0
+更多亚洲菜,Chay Village,Chay Village,0,,0.0,0.0,0.0
+更多亚洲菜,Babel,Babel,0,,0.0,0.0,0.0
+更多亚洲菜,Peking Ente Berlin,Peking Ente Berlin,0,,0.0,0.0,0.0
+更多亚洲菜,Cafe Restaurant am Park,Cafe Restaurant am Park,0,蒂尔加滕,0.0,0.0,0.0
+更多亚洲菜,Haroun al Rachid,Haroun al Rachid,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Bistro Antalya,Bistro Antalya,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Lemon Leaf,Lemon Leaf,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,New Day,New Day,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Su Korean BBQ,Su Korean BBQ,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Seth Restaurant,Seth Restaurant,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Lovely Sushi,Lovely Sushi,0,柏林利希滕贝格,0.0,0.0,0.0
+更多亚洲菜,Dokmai,Dokmai,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多亚洲菜,Asir,Asir,0,新克尔恩,0.0,0.0,0.0
+更多亚洲菜,Azzam,Azzam,0,新克尔恩,0.0,0.0,0.0
+更多亚洲菜,Sadhu 2,Sadhu 2,0,新克尔恩,0.0,0.0,0.0
+更多亚洲菜,India Haus am Wannsee,India Haus am Wannsee,0,滕珀尔霍夫,0.0,0.0,0.0
+更多亚洲菜,KARMA Restaurant Berlin,KARMA Restaurant Berlin,0,滕珀尔霍夫,0.0,0.0,0.0
+更多亚洲菜,Amma,Amma,0,滕珀尔霍夫,0.0,0.0,0.0
+更多亚洲菜,Vinh Loc,Vinh Loc,0,施潘道,0.0,0.0,0.0
+更多亚洲菜,Cubi,Cubi,0,施潘道,0.0,0.0,0.0
+更多亚洲菜,Grill und Schlemmerbuffet,Grill und Schlemmerbuffet,0,潘科,0.0,0.0,0.0
+更多亚洲菜,Papaya am Kleistpark,Papaya am Kleistpark,0,潘科,0.0,0.0,0.0
+更多亚洲菜,Golden Thai Berlin,Golden Thai Berlin,0,韦丁,0.0,0.0,0.0
+更多亚洲菜,Ajad,Ajad,0,克珀尼克,0.0,0.0,0.0
+更多亚洲菜,V & L Asia & Sushi,V & L Asia & Sushi,0,马察恩,0.0,0.0,0.0
+更多亚洲菜,Soya Cosplay,Soya Cosplay,0,,0.0,0.0,0.0
+更多亚洲菜,Osmanya,Osmanya,0,,0.0,0.0,0.0
+更多亚洲菜,Antep Sofrasi,Antep Sofrasi,0,,0.0,0.0,0.0
+更多亚洲菜,Gel Gor Inegol Kofteci,Gel Gor Inegol Kofteci,0,,0.0,0.0,0.0
+更多亚洲菜,Vipan,Vipan,0,,0.0,0.0,0.0
+更多亚洲菜,Cyclo Restaurant - Vietnamese Cuisine,Cyclo Restaurant - Vietnamese Cuisine,0,,0.0,0.0,0.0
+更多亚洲菜,Goodtime Grill,Goodtime Grill,0,,0.0,0.0,0.0
+更多亚洲菜,Som Tam,Som Tam,0,,0.0,0.0,0.0
+更多亚洲菜,Masaledar,Masaledar,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Vietrice Restaurant,Vietrice Restaurant,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Tasty Cuisine,Tasty Cuisine,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,NEM Berlin,NEM Berlin,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Haveli,Haveli,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Atlantik Fischrestaurant,Atlantik Fischrestaurant,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Sawanya,Sawanya,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,SAIGON and more...,SAIGON and more...,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Sao Mai,Sao Mai,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Taleh Thai,Taleh Thai,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Mama India,Mama India,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Tibet Kitchen,Tibet Kitchen,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Zula,Zula,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Vietnam Village,Vietnam Village,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Asin,Asin,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Rice Queen,Rice Queen,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Thanh Restaurant in Berlin,Thanh Restaurant in Berlin,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Tofu Thai-Kueche,Tofu Thai-Kueche,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Sarod's Thai Restaurant,Sarod's Thai Restaurant,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,sen viet,sen viet,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Imren,Imren,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Abirams,Abirams,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Chandra-Kumari,Chandra-Kumari,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,3 Moms,3 Moms,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Carabao,Carabao,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,The King of Falafel – Mo's kleiner Imbiss,The King of Falafel – Mo's kleiner Imbiss,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Shiwa,Shiwa,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Chan,Chan,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Mercan Restaurant,Mercan Restaurant,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Cent Anni,Cent Anni,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Vietnamese Hoai Nam,Vietnamese Hoai Nam,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Shanti,Shanti,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Bagdad,Bagdad,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Kim-Qui Vietnam Cafe,Kim-Qui Vietnam Cafe,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Delhi 6,Delhi 6,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Sonha,Sonha,0,,0.0,0.0,0.0
+更多亚洲菜,Asia Bistro Doan Van Nghia,Asia Bistro Doan Van Nghia,0,,0.0,0.0,0.0
+更多亚洲菜,Thai Ha,Thai Ha,0,,0.0,0.0,0.0
+更多亚洲菜,Lin´s Mandarin,Lin´s Mandarin,0,,0.0,0.0,0.0
+更多亚洲菜,Sen Restaurant,Sen Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Friends & Friends,Friends & Friends,0,,0.0,0.0,0.0
+更多亚洲菜,Imbiss Kemal Gokhan Kaman,Imbiss Kemal Gokhan Kaman,0,,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal,Taj Mahal,0,,0.0,0.0,0.0
+更多亚洲菜,Mr Hai & Friends,Mr Hai & Friends,0,,0.0,0.0,0.0
+更多亚洲菜,Moli,Moli,0,,0.0,0.0,0.0
+更多亚洲菜,Papaya ,Papaya ,0,,0.0,0.0,0.0
+更多亚洲菜,Ben Thanh,Ben Thanh,0,,0.0,0.0,0.0
+更多亚洲菜,Ashoka,Ashoka,0,,0.0,0.0,0.0
+更多亚洲菜,Kabir,Kabir,0,,0.0,0.0,0.0
+更多亚洲菜,House of moon,House of moon,0,,0.0,0.0,0.0
+更多亚洲菜,Manjurani,Manjurani,0,,0.0,0.0,0.0
+更多亚洲菜,Hamy Sophie,Hamy Sophie,0,,0.0,0.0,0.0
+更多亚洲菜,Chenab,Chenab,0,,0.0,0.0,0.0
+更多亚洲菜,Curcuma,Curcuma,0,,0.0,0.0,0.0
+更多亚洲菜,Linhs Asian Restaurant,Linhs Asian Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Yogi Restaurant,Yogi Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Buddha,Buddha,0,,0.0,0.0,0.0
+更多亚洲菜,PAN ASIA,PAN ASIA,0,,0.0,0.0,0.0
+更多亚洲菜,Viet Village,Viet Village,0,,0.0,0.0,0.0
+更多亚洲菜,Mirchi Singapore Restaurant,Mirchi Singapore Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,District mot,District mot,0,,0.0,0.0,0.0
+更多亚洲菜,Tibet Haus,Tibet Haus,0,,0.0,0.0,0.0
+更多亚洲菜,Ya Karim,Ya Karim,0,,0.0,0.0,0.0
+更多亚洲菜,Vietnam Restaurant,Vietnam Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Aapka,Aapka,0,,0.0,0.0,0.0
+更多亚洲菜,Transit Restaurant,Transit Restaurant,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,My,My,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Le Coq D'or,Le Coq D'or,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Sala Thai,Sala Thai,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Pho Viet Nam,Pho Viet Nam,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Saibaba Restaurant,Saibaba Restaurant,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Thai by Thai,Thai by Thai,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多亚洲菜,Asiana,Asiana,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多亚洲菜,Chirag,Chirag,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多亚洲菜,Ox Adana,Ox Adana,0,新克尔恩,0.0,0.0,0.0
+更多亚洲菜,Avtaar,Avtaar,0,新克尔恩,0.0,0.0,0.0
+更多亚洲菜,Chelany,Chelany,0,新克尔恩,0.0,0.0,0.0
+更多亚洲菜,Viet Dream,Viet Dream,0,滕珀尔霍夫,0.0,0.0,0.0
+更多亚洲菜,Aaina Tempelhof,Aaina Tempelhof,0,滕珀尔霍夫,0.0,0.0,0.0
+更多亚洲菜,Thai Elephant,Thai Elephant,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多亚洲菜,Restaurant Sufissimo,Restaurant Sufissimo,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多亚洲菜,Rangla Punjab,Rangla Punjab,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多亚洲菜,Hasir - Spandau,Hasir - Spandau,0,潘科,0.0,0.0,0.0
+更多亚洲菜,Gumus Lahmacum Ve Simit Evi,Gumus Lahmacum Ve Simit Evi,0,潘科,0.0,0.0,0.0
+更多亚洲菜,Tandoori Palace,Tandoori Palace,0,克珀尼克,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal India,Taj Mahal India,0,特雷普托,0.0,0.0,0.0
+更多亚洲菜,China-Japan Restaurant,China-Japan Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Pho Ba,Pho Ba,0,,0.0,0.0,0.0
+更多亚洲菜,Namaskar,Namaskar,0,,0.0,0.0,0.0
+更多亚洲菜,Saray,Saray,0,,0.0,0.0,0.0
+更多亚洲菜,Tandur Lasan,Tandur Lasan,0,,0.0,0.0,0.0
+更多亚洲菜,Aapka - Indian Restaurant and Lounge,Aapka - Indian Restaurant and Lounge,0,,0.0,0.0,0.0
+更多亚洲菜,Aarna Devi,Aarna Devi,0,,0.0,0.0,0.0
+更多亚洲菜,Honca,Honca,0,,0.0,0.0,0.0
+更多亚洲菜,araya thai,araya thai,0,,0.0,0.0,0.0
+更多亚洲菜,Handoyo's - Sate & Coffee,Handoyo's - Sate & Coffee,0,,0.0,0.0,0.0
+更多亚洲菜,Restaurant Tugra,Restaurant Tugra,0,,0.0,0.0,0.0
+更多亚洲菜,Pho 56,Pho 56,0,,0.0,0.0,0.0
+更多亚洲菜,Hasir - Wilmersdorf,Hasir - Wilmersdorf,0,,0.0,0.0,0.0
+更多亚洲菜,black&white,black&white,0,,0.0,0.0,0.0
+更多亚洲菜,Asia Land,Asia Land,0,,0.0,0.0,0.0
+更多亚洲菜,Calcutta,Calcutta,0,,0.0,0.0,0.0
+更多亚洲菜,Lac Viet,Lac Viet,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Raamson,Raamson,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Chaapa,Chaapa,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Simplicity,Simplicity,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Chandni,Chandni,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Sytu,Sytu,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Mao Thai,Mao Thai,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Bangkok Treffpunkt,Bangkok Treffpunkt,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Ha-An,Ha-An,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Mr Long,Mr Long,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,si an,si an,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Sukho-Thai,Sukho-Thai,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Quang & Chinh,Quang & Chinh,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Maharadscha 2,Maharadscha 2,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Viet Sen,Viet Sen,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Osmans Toechter,Osmans Toechter,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Mai Thai Snack,Mai Thai Snack,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Indian Dhaba Mitra,Indian Dhaba Mitra,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Pagode,Pagode,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,India,India,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Guru Restaurant,Guru Restaurant,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Swera,Swera,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Phuket,Phuket,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Via He hai,Via He hai,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Yorck Stubchen,Yorck Stubchen,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,To Loc,To Loc,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Chung,Chung,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Green Bamboo,Green Bamboo,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Tadim Lahmacun,Tadim Lahmacun,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Mirchi Singapore Restaurant,Mirchi Singapore Restaurant,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Cuno,Cuno,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Chaapa,Chaapa,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Green Rice,Green Rice,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Rice Up,Rice Up,0,,0.0,0.0,0.0
+更多亚洲菜,The Ponch,The Ponch,0,,0.0,0.0,0.0
+更多亚洲菜,An Nam Gourmet,An Nam Gourmet,0,,0.0,0.0,0.0
+更多亚洲菜,Go Go Hachi,Go Go Hachi,0,,0.0,0.0,0.0
+更多亚洲菜,Eat Emely,Eat Emely,0,,0.0,0.0,0.0
+更多亚洲菜,Berlin Bistro Pomelo Tree,Berlin Bistro Pomelo Tree,0,,0.0,0.0,0.0
+更多亚洲菜,Kien-Du-Kiang-Thong,Kien-Du-Kiang-Thong,0,,0.0,0.0,0.0
+更多亚洲菜,Saigon Imbiss,Saigon Imbiss,0,,0.0,0.0,0.0
+更多亚洲菜,Happy Noodles,Happy Noodles,0,,0.0,0.0,0.0
+更多亚洲菜,Haiky,Haiky,0,,0.0,0.0,0.0
+更多亚洲菜,Kotobuchi Sushi in Kaufhof,Kotobuchi Sushi in Kaufhof,0,,0.0,0.0,0.0
+更多亚洲菜,ViLo - Vietnamese Love,ViLo - Vietnamese Love,0,,0.0,0.0,0.0
+更多亚洲菜,Com Viet,Com Viet,0,,0.0,0.0,0.0
+更多亚洲菜,LUXA,LUXA,0,,0.0,0.0,0.0
+更多亚洲菜,Taebs Bistro,Taebs Bistro,0,,0.0,0.0,0.0
+更多亚洲菜,Thai hoang snack,Thai hoang snack,0,,0.0,0.0,0.0
+更多亚洲菜,Lila,Lila,0,,0.0,0.0,0.0
+更多亚洲菜,ile de Bali,ile de Bali,0,,0.0,0.0,0.0
+更多亚洲菜,Baba Sultan Köfteci,Baba Sultan Köfteci,0,,0.0,0.0,0.0
+更多亚洲菜,Swami,Swami,0,,0.0,0.0,0.0
+更多亚洲菜,White Roll restaurant,White Roll restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Raja Rani,Raja Rani,0,,0.0,0.0,0.0
+更多亚洲菜,Neni at the Twenty Five Hours Hotel in Berlin,Neni at the Twenty Five Hours Hotel in Berlin,0,蒂尔加滕,0.0,0.0,0.0
+更多亚洲菜,Yogi-Ashram,Yogi-Ashram,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Kashmir,Kashmir,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal India,Taj Mahal India,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Anand,Anand,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多亚洲菜,Jimmy Woo,Jimmy Woo,0,新克尔恩,0.0,0.0,0.0
+更多亚洲菜,Rani,Rani,0,滕珀尔霍夫,0.0,0.0,0.0
+更多亚洲菜,Satyam,Satyam,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多亚洲菜,Restaurant Damas,Restaurant Damas,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多亚洲菜,Tandoor House,Tandoor House,0,特雷普托,0.0,0.0,0.0
+更多亚洲菜,Viet's,Viet's,0,,0.0,0.0,0.0
+更多亚洲菜,Miyabi Sushi,Miyabi Sushi,0,,0.0,0.0,0.0
+更多亚洲菜,Shaan II,Shaan II,0,,0.0,0.0,0.0
+更多亚洲菜,Yogi Haus,Yogi Haus,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Nami Sushi,Nami Sushi,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Edd s Thailandische Spezialiten,Edd s Thailandische Spezialiten,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Amrit,Amrit,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Wraps & Rolls,Wraps & Rolls,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Asia Tiger,Asia Tiger,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Restaurant Bali,Restaurant Bali,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Royal Elephant,Royal Elephant,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Naan,Naan,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Simla Indisches Restaurant,Simla Indisches Restaurant,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Meena Kumari,Meena Kumari,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Houdini,Houdini,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Madras,Madras,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,Via He,Via He,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Arman,Arman,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Alsancak Simit Sarayı,Alsancak Simit Sarayı,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Assam Indian Restaurant,Assam Indian Restaurant,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Yildiz Restaurant,Yildiz Restaurant,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Hasir Kreuzberg,Hasir Kreuzberg,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Hasir Ocakbasi,Hasir Ocakbasi,0,克罗伊茨贝格,0.0,0.0,0.0
+更多亚洲菜,Dildile,Dildile,0,,0.0,0.0,0.0
+更多亚洲菜,BabaQ Restaurant Grill and More,BabaQ Restaurant Grill and More,0,,0.0,0.0,0.0
+更多亚洲菜,Maoa Restaurant,Maoa Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Chinco,Chinco,0,,0.0,0.0,0.0
+更多亚洲菜,Fatih Servet,Fatih Servet,0,,0.0,0.0,0.0
+更多亚洲菜,Krishna,Krishna,0,,0.0,0.0,0.0
+更多亚洲菜,Thai Cuisine Goldenes Dreieck,Thai Cuisine Goldenes Dreieck,0,,0.0,0.0,0.0
+更多亚洲菜,Pamfilya,Pamfilya,0,,0.0,0.0,0.0
+更多亚洲菜,Korea Haus,Korea Haus,0,,0.0,0.0,0.0
+更多亚洲菜,Aarju,Aarju,0,,0.0,0.0,0.0
+更多亚洲菜,Lal Haweli,Lal Haweli,0,蒂尔加滕,0.0,0.0,0.0
+更多亚洲菜,Amber,Amber,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal,Taj Mahal,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Jade House,Jade House,0,弗里德里希,0.0,0.0,0.0
+更多亚洲菜,Restaurant Aneka Rasa,Restaurant Aneka Rasa,0,潘科,0.0,0.0,0.0
+更多亚洲菜,103,103,0,潘科,0.0,0.0,0.0
+更多亚洲菜,Kilis Asia Bistro,Kilis Asia Bistro,0,,0.0,0.0,0.0
+更多亚洲菜,Lin's Mandarin 2,Lin's Mandarin 2,0,,0.0,0.0,0.0
+更多亚洲菜,Tao,Tao,0,,0.0,0.0,0.0
+更多亚洲菜,Rocco,Rocco,0,舍讷贝格,0.0,0.0,0.0
+更多亚洲菜,Mumbai,Mumbai,0,普伦茨劳贝格,0.0,0.0,0.0
+更多亚洲菜,BiWon - Korean Restaurant,BiWon - Korean Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Adersh,Adersh,0,,0.0,0.0,0.0
+更多亚洲菜,MOO Cafe,MOO Cafe,0,,0.0,0.0,0.0
+更多亚洲菜,Wokalicious,Wokalicious,0,,0.0,0.0,0.0
+更多亚洲菜,Tan Yaa,Tan Yaa,0,,0.0,0.0,0.0
+更多亚洲菜,Hira Palace,Hira Palace,0,,0.0,0.0,0.0
+更多亚洲菜,Aarti,Aarti,0,,0.0,0.0,0.0
+更多亚洲菜,Hello Vietnam,Hello Vietnam,0,,0.0,0.0,0.0
+更多亚洲菜,Meli wellfood,Meli wellfood,0,克罗伊茨贝格,0.0,0.0,0.0
+快餐简餐,北方饺子 Wok Show,北方饺子 Wok Show,0,,8.6,7.8,8.0
+快餐简餐,A. Choice,A. Choice,0,柏林利希滕贝格,0.0,0.0,0.0
+快餐简餐,The Bird,The Bird,0,普伦茨劳贝格,0.0,0.0,0.0
+快餐简餐,Pele-Mele,Pele-Mele,0,新克尔恩,0.0,0.0,0.0
+快餐简餐,Hamburger Mary's,Hamburger Mary's,0,舍讷贝格,0.0,0.0,0.0
+快餐简餐,Cindy's Diner Berlin-Tegel,Cindy's Diner Berlin-Tegel,0,,6.7,6.7,6.7
+快餐简餐,Alex,Alex,0,,6.1,7.4,8.1
+快餐简餐,Bistro-Döner-Grill,Bistro-Döner-Grill,0,,6.8,6.8,6.8
+快餐简餐,天府火锅美食城,天府火锅美食城,0,,6.9,6.9,6.9
+快餐简餐,Midtown Grill,Midtown Grill,0,,0.0,0.0,0.0
+快餐简餐,Le Piaf,Le Piaf,0,,0.0,0.0,0.0
+快餐简餐,Mama Blooms,Mama Blooms,0,,0.0,0.0,0.0
+快餐简餐,Just Dim Sum,Just Dim Sum,0,舍讷贝格,0.0,0.0,0.0
+快餐简餐,Barcomi's Deli,Barcomi's Deli,0,,0.0,0.0,0.0
+快餐简餐,Cocolo Ramen,Cocolo Ramen,0,,0.0,0.0,0.0
+快餐简餐,Wilson's - The Prime Rib Restaurant,Wilson's - The Prime Rib Restaurant,0,,0.0,0.0,0.0
+快餐简餐,Las Malvinas - Steakhaus Restaurant Berlin,Las Malvinas - Steakhaus Restaurant Berlin,0,弗里德里希,0.0,0.0,0.0
+快餐简餐,Hot-Dog-Soup,Hot-Dog-Soup,0,弗里德里希,0.0,0.0,0.0
+快餐简餐,Curry at the Wall,Curry at the Wall,0,克罗伊茨贝格,0.0,0.0,0.0
+快餐简餐,CK-99 - The Next Level Lounge,CK-99 - The Next Level Lounge,0,弗里德里希,0.0,0.0,0.0
+快餐简餐,Wahrhaft Nahrhaft,Wahrhaft Nahrhaft,0,弗里德里希,0.0,0.0,0.0
+快餐简餐,Muttis Kleine Pause,Muttis Kleine Pause,0,新克尔恩,0.0,0.0,0.0
+快餐简餐,Salumeria Treviso,Salumeria Treviso,0,滕珀尔霍夫,0.0,0.0,0.0
+快餐简餐,Cafe Kubitza,Cafe Kubitza,0,潘科,0.0,0.0,0.0
+快餐简餐,kid creole,kid creole,0,克珀尼克,0.0,0.0,0.0
+快餐简餐,Fine Bagels,Fine Bagels,0,普伦茨劳贝格,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,,0.0,0.0,0.0
+快餐简餐,Wirtshaus Alte Stadt-Mauer,Wirtshaus Alte Stadt-Mauer,0,,0.0,0.0,0.0
+快餐简餐,PLAY OFF American Sportsabar,PLAY OFF American Sportsabar,0,弗里德里希,0.0,0.0,0.0
+快餐简餐,Mogg & Melzer Delicatessen,Mogg & Melzer Delicatessen,0,,0.0,0.0,0.0
+快餐简餐,Cappuccino,Cappuccino,0,,0.0,0.0,0.0
+快餐简餐,Ruben & Carla,Ruben & Carla,0,,0.0,0.0,0.0
+快餐简餐,Rosenburger,Rosenburger,0,,0.0,0.0,0.0
+快餐简餐,Tex Mex Cantina,Tex Mex Cantina,0,,0.0,0.0,0.0
+快餐简餐,Burgeramt,Burgeramt,0,弗里德里希,0.0,0.0,0.0
+快餐简餐,GRILL by Boston,GRILL by Boston,0,弗里德里希,0.0,0.0,0.0
+快餐简餐,KussKuss,KussKuss,0,新克尔恩,0.0,0.0,0.0
+快餐简餐,Girasol,Girasol,0,滕珀尔霍夫,0.0,0.0,0.0
+快餐简餐,Cut! Moviecafe,Cut! Moviecafe,0,,0.0,0.0,0.0
+快餐简餐,Juleps New York Bar & Restaurant,Juleps New York Bar & Restaurant,0,,0.0,0.0,0.0
+快餐简餐,Restaurant Lorbeer,Restaurant Lorbeer,0,普伦茨劳贝格,0.0,0.0,0.0
+快餐简餐,Stadt Land Fluss,Stadt Land Fluss,0,普伦茨劳贝格,0.0,0.0,0.0
+快餐简餐,Mey Restaurant,Mey Restaurant,0,,0.0,0.0,0.0
+快餐简餐,Brooklyn Beef Club,Brooklyn Beef Club,0,,0.0,0.0,0.0
+快餐简餐,Bagel Company Sandwich & Coffee,Bagel Company Sandwich & Coffee,0,,0.0,0.0,0.0
+快餐简餐,Andy's Diner & Bar,Andy's Diner & Bar,0,,0.0,0.0,0.0
+快餐简餐,Auberge Marechal Ney,Auberge Marechal Ney,0,,0.0,0.0,0.0
+快餐简餐,Hausbrauerei Eschenbrau,Hausbrauerei Eschenbrau,0,,0.0,0.0,0.0
+快餐简餐,ProbierMahl,ProbierMahl,0,蒂尔加滕,0.0,0.0,0.0
+快餐简餐,No Hablo Espanol Burritos,No Hablo Espanol Burritos,0,弗里德里希,0.0,0.0,0.0
+快餐简餐,Balzac Coffee,Balzac Coffee,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+快餐简餐,Ringo,Ringo,0,新克尔恩,0.0,0.0,0.0
+快餐简餐,Goldmarie,Goldmarie,0,滕珀尔霍夫,0.0,0.0,0.0
+快餐简餐,Cruise-In American Diner,Cruise-In American Diner,0,施潘道,0.0,0.0,0.0
+快餐简餐,Manzini - Diner Bar,Manzini - Diner Bar,0,,0.0,0.0,0.0
+快餐简餐,Hard Rock Cafe Berlin,Hard Rock Cafe Berlin,0,,0.0,0.0,0.0
+快餐简餐,Luigi Zuckermann,Luigi Zuckermann,0,舍讷贝格,0.0,0.0,0.0
+快餐简餐,Shakespeare and Sons,Shakespeare and Sons,0,普伦茨劳贝格,0.0,0.0,0.0
+快餐简餐,Burgerie,Burgerie,0,普伦茨劳贝格,0.0,0.0,0.0
+快餐简餐,Manon Espresso Bar & Chocolaterie,Manon Espresso Bar & Chocolaterie,0,,0.0,0.0,0.0
+快餐简餐,Salomon Bagel,Salomon Bagel,0,,0.0,0.0,0.0
+快餐简餐,Frau Backerin in der Villa Oppenheim,Frau Backerin in der Villa Oppenheim,0,,0.0,0.0,0.0
+快餐简餐,Bennywood,Bennywood,0,,0.0,0.0,0.0
+快餐简餐,Restaurant Alberts,Restaurant Alberts,0,,0.0,0.0,0.0
+快餐简餐,Hosskost Berlin,Hosskost Berlin,0,,0.0,0.0,0.0
+快餐简餐,TassenKuchen,TassenKuchen,0,,0.0,0.0,0.0
+快餐简餐,Fabulous Route 66 50s Diner,Fabulous Route 66 50s Diner,0,,0.0,0.0,0.0
+快餐简餐,New York Musik-Cafe,New York Musik-Cafe,0,,0.0,0.0,0.0
+快餐简餐,Joy,Joy,0,普伦茨劳贝格,0.0,0.0,0.0
+快餐简餐,Wienerwald,Wienerwald,0,克罗伊茨贝格,0.0,0.0,0.0
+快餐简餐,Ost-West-Cafe,Ost-West-Cafe,0,,0.0,0.0,0.0
+快餐简餐,Sixties Diner,Sixties Diner,0,滕珀尔霍夫,0.0,0.0,0.0
+快餐简餐,Carturan,Carturan,0,潘科,0.0,0.0,0.0
+快餐简餐,Okeh - An American Eatery,Okeh - An American Eatery,0,,0.0,0.0,0.0
+快餐简餐,Ribs & More,Ribs & More,0,,0.0,0.0,0.0
+快餐简餐,Gorli Burger,Gorli Burger,0,克罗伊茨贝格,0.0,0.0,0.0
+快餐简餐,Elvis Bar,Elvis Bar,0,柏林利希滕贝格,0.0,0.0,0.0
+快餐简餐,Ombretta,Ombretta,0,滕珀尔霍夫,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,蒂尔加滕,0.0,0.0,0.0
+日本料理,Takara,Takara,0,蒂尔加滕,0.0,0.0,0.0
+日本料理,Kabuki,Kabuki,0,蒂尔加滕,0.0,0.0,0.0
+日本料理,Daruma,Daruma,0,蒂尔加滕,0.0,0.0,0.0
+海鲜,Nordsee,Nordsee,0,,6.8,6.3,6.3
+海鲜,Midtown Grill Berlin,Midtown Grill Berlin,0,,0.0,0.0,0.0
+海鲜,Nordsee,Nordsee,0,,0.0,0.0,0.0
+海鲜,Oyster Bar KaDeWe,Oyster Bar KaDeWe,0,舍讷贝格,0.0,0.0,0.0
+海鲜,Balikci Ergun,Balikci Ergun,0,蒂尔加滕,0.0,0.0,0.0
+海鲜,Der Fischladen,Der Fischladen,0,潘科,0.0,0.0,0.0
+海鲜,Gosch Sylt,Gosch Sylt,0,,0.0,0.0,0.0
+海鲜,Austeria Brasserie,Austeria Brasserie,0,,0.0,0.0,0.0
+海鲜,Let's go Sylt,Let's go Sylt,0,,0.0,0.0,0.0
+海鲜,Raymons - Das Fischrestaurant,Raymons - Das Fischrestaurant,0,施潘道,0.0,0.0,0.0
+海鲜,Gosch,Gosch,0,,0.0,0.0,0.0
+海鲜,Fischfabrik,Fischfabrik,0,普伦茨劳贝格,0.0,0.0,0.0
+西餐,Xantener Eck,Xantener Eck,0,克罗伊茨贝格,8.1,8.1,8.1
+西餐,La Piazza Nuovo Mario,La Piazza Nuovo Mario,0,蒂尔加滕,8.1,8.1,8.1
+西餐,China Restaurant Tian-Fu,China Restaurant Tian-Fu,0,蒂尔加滕,6.9,6.9,6.9
+西餐,MAREDO,MAREDO,0,蒂尔加滕,8.1,8.1,8.1
+西餐,La Piazza Nuovo Mario,La Piazza Nuovo Mario,0,蒂尔加滕,8.1,8.1,8.1
+西餐,Restaurant Schildkröte,Restaurant Schildkröte,0,蒂尔加滕,6.9,6.7,6.7
+西餐,Beckers Fritte,Beckers Fritte,0,,6.7,6.7,6.7
+西餐,Lieu in Berlin - Vietnamesisches Restaurant,Lieu in Berlin - Vietnamesisches Restaurant,0,蒂尔加滕,0.0,0.0,0.0
+西餐,Brechtmanns Botschaft,Brechtmanns Botschaft,0,,0.0,0.0,0.0
+西餐,Restaurant Wegner,Restaurant Wegner,0,蒂尔加滕,0.0,0.0,0.0
+西餐,Shanghai China Restaurant,Shanghai China Restaurant,0,蒂尔加滕,0.0,0.0,0.0
+西餐,Mövenpick Restaurant,Mövenpick Restaurant,0,蒂尔加滕,0.0,0.0,0.0
+西餐,Restaurant Rocco,Restaurant Rocco,0,施潘道,0.0,0.0,0.0
+西餐,Astoria Restaurant Berlin,Astoria Restaurant Berlin,0,蒂尔加滕,0.0,0.0,0.0
+西餐,McDonalds Restaurant,McDonalds Restaurant,0,蒂尔加滕,0.0,0.0,0.0
+西餐,Italienisches Restaurant Loggia Pizzeria,Italienisches Restaurant Loggia Pizzeria,0,蒂尔加滕,0.0,0.0,0.0
+西餐,Restaurant Berlinchen,Restaurant Berlinchen,0,蒂尔加滕,0.0,0.0,0.0
+西餐,Büyükuzun Ali China Food Restaurant,Büyükuzun Ali China Food Restaurant,0,蒂尔加滕,0.0,0.0,0.0
+西餐,La Piazza Nuovo Mario,La Piazza Nuovo Mario,0,克罗伊茨贝格,0.0,0.0,0.0
+西餐,McDonald's Restaurant,McDonald's Restaurant,0,蒂尔加滕,0.0,0.0,0.0
+西餐,MAREDO,MAREDO,0,蒂尔加滕,0.0,0.0,0.0
+西餐,McDonald's Restaurant,McDonald's Restaurant,0,蒂尔加滕,0.0,0.0,0.0
+西餐,NU Restaurant,NU Restaurant,0,蒂尔加滕,0.0,0.0,0.0
+西餐,Restaurant Tavola Calda,Restaurant Tavola Calda,0,蒂尔加滕,0.0,0.0,0.0
+西餐,Drul Restaurant GmbH,Drul Restaurant GmbH,0,蒂尔加滕,0.0,0.0,0.0
+烧烤,Steckerlfisch & Co,Steckerlfisch & Co,0,舍讷贝格,0.0,0.0,0.0
+烧烤,El Toro,El Toro,0,新克尔恩,0.0,0.0,0.0
+烧烤,BBQ Kitchen,BBQ Kitchen,0,,0.0,0.0,0.0
+烧烤,Hendrik's Berlin,Hendrik's Berlin,0,蒂尔加滕,0.0,0.0,0.0
+烧烤,Rosenthaler Grill und Schlemmerbuffet,Rosenthaler Grill und Schlemmerbuffet,0,,0.0,0.0,0.0
+烧烤,Las Vigas Steakhouse,Las Vigas Steakhouse,0,克珀尼克,0.0,0.0,0.0
+烧烤,Kyo Japanese Grill,Kyo Japanese Grill,0,潘科,0.0,0.0,0.0
+烧烤,Villa Rodizio,Villa Rodizio,0,普伦茨劳贝格,0.0,0.0,0.0
+烧烤,Pavillon im Volkspark Friedrichshain,Pavillon im Volkspark Friedrichshain,0,弗里德里希,0.0,0.0,0.0
+烧烤,Restaurant Palamyra,Restaurant Palamyra,0,新克尔恩,0.0,0.0,0.0
+烧烤,Split-Grill,Split-Grill,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+烧烤,Imren Grill,Imren Grill,0,韦丁,0.0,0.0,0.0
+烧烤,Cafe Klatsch Berlin,Cafe Klatsch Berlin,0,滕珀尔霍夫,0.0,0.0,0.0
+烧烤,Hannibal,Hannibal,0,克罗伊茨贝格,0.0,0.0,0.0
+烧烤,Waldhaus Zehlendorf,Waldhaus Zehlendorf,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+烧烤,Rivado,Rivado,0,新克尔恩,0.0,0.0,0.0
+比萨,Trattoria Pizzeria Mira,Trattoria Pizzeria Mira,0,舍讷贝格,0.0,0.0,0.0
+比萨,Dolce Pizza,Dolce Pizza,0,舍讷贝格,0.0,0.0,0.0
+比萨,Ristorante Lungomare,Ristorante Lungomare,0,,0.0,0.0,0.0
+比萨,Ristorante Caffe Bocconi,Ristorante Caffe Bocconi,0,,0.0,0.0,0.0
+比萨,Die Zwoelf Apostel,Die Zwoelf Apostel,0,弗里德里希,0.0,0.0,0.0
+比萨,Trattoria Don Bosco,Trattoria Don Bosco,0,施潘道,0.0,0.0,0.0
+比萨,Pizzeria Dorado,Pizzeria Dorado,0,克珀尼克,0.0,0.0,0.0
+比萨,Pizza Zia Maria,Pizza Zia Maria,0,普伦茨劳贝格,0.0,0.0,0.0
+比萨,Pizza alla grande berlino,Pizza alla grande berlino,0,普伦茨劳贝格,0.0,0.0,0.0
+比萨,Il Cardinale,Il Cardinale,0,,0.0,0.0,0.0
+比萨,Simela,Simela,0,,0.0,0.0,0.0
+比萨,Aida,Aida,0,,0.0,0.0,0.0
+比萨,Ampelmann Restaurant,Ampelmann Restaurant,0,,0.0,0.0,0.0
+比萨,Bonfini,Bonfini,0,,0.0,0.0,0.0
+比萨,Trattoria La Terrazza,Trattoria La Terrazza,0,弗里德里希,0.0,0.0,0.0
+比萨,Garda Pizza,Garda Pizza,0,舍讷贝格,0.0,0.0,0.0
+比萨,A Magica,A Magica,0,普伦茨劳贝格,0.0,0.0,0.0
+比萨,Ponte Rosa Biergarten,Ponte Rosa Biergarten,0,克罗伊茨贝格,0.0,0.0,0.0
+比萨,La Piazza Nuova Mario,La Piazza Nuova Mario,0,,0.0,0.0,0.0
+比萨,Bellissimo,Bellissimo,0,滕珀尔霍夫,0.0,0.0,0.0
+比萨,Pizzeria Via Veneto,Pizzeria Via Veneto,0,,0.0,0.0,0.0
+比萨,Cielo di Berlino,Cielo di Berlino,0,舍讷贝格,0.0,0.0,0.0
+比萨,Vicolo Bergmann,Vicolo Bergmann,0,克罗伊茨贝格,0.0,0.0,0.0
+比萨,Kattelbach,Kattelbach,0,克罗伊茨贝格,0.0,0.0,0.0
+比萨,Pizzeria Meyman,Pizzeria Meyman,0,,0.0,0.0,0.0
+比萨,Restaurant Amigo,Restaurant Amigo,0,,0.0,0.0,0.0
+比萨,Dal Buongustaio,Dal Buongustaio,0,,0.0,0.0,0.0
+比萨,Allermunde,Allermunde,0,,0.0,0.0,0.0
+比萨,Pizza Villa,Pizza Villa,0,,0.0,0.0,0.0
+比萨,Salina,Salina,0,,0.0,0.0,0.0
+比萨,Da Giorgio,Da Giorgio,0,,0.0,0.0,0.0
+比萨,Due Pini,Due Pini,0,,0.0,0.0,0.0
+比萨,Pizza XXL,Pizza XXL,0,弗里德里希,0.0,0.0,0.0
+比萨,A Posto,A Posto,0,弗里德里希,0.0,0.0,0.0
+比萨,Doree,Doree,0,舍讷贝格,0.0,0.0,0.0
+比萨,I Due Forni,I Due Forni,0,普伦茨劳贝格,0.0,0.0,0.0
+比萨,Pink Flamingo Pizza,Pink Flamingo Pizza,0,普伦茨劳贝格,0.0,0.0,0.0
+比萨,James June Sommergarten,James June Sommergarten,0,弗里德里希,0.0,0.0,0.0
+比萨,Pizzeria Verona,Pizzeria Verona,0,施潘道,0.0,0.0,0.0
+比萨,Pizza Piccolo,Pizza Piccolo,0,克珀尼克,0.0,0.0,0.0
+比萨,Cafe und Restaurant Olive,Cafe und Restaurant Olive,0,,0.0,0.0,0.0
+比萨,Pizzeria Bleibtreu,Pizzeria Bleibtreu,0,,0.0,0.0,0.0
+比萨,Pizza Mario,Pizza Mario,0,,0.0,0.0,0.0
+比萨,La Castania,La Castania,0,,0.0,0.0,0.0
+比萨,Restaurant Cristallo,Restaurant Cristallo,0,,0.0,0.0,0.0
+比萨,Pizza Seven,Pizza Seven,0,蒂尔加滕,0.0,0.0,0.0
+比萨,Hallo Pizza,Hallo Pizza,0,蒂尔加滕,0.0,0.0,0.0
+比萨,Mastro Pizza,Mastro Pizza,0,蒂尔加滕,0.0,0.0,0.0
+比萨,Pizzeria Ansbach,Pizzeria Ansbach,0,舍讷贝格,0.0,0.0,0.0
+咖啡厅,Godshot,Godshot,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Cafe Tagomago,Cafe Tagomago,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Oliv Cafe,Oliv Cafe,0,,8.1,8.1,8.1
+咖啡厅,Pure Origins,Pure Origins,0,,8.1,8.1,8.1
+咖啡厅,Starbucks,Starbucks,0,蒂尔加滕,6.9,6.9,6.9
+咖啡厅,Einstein Kaffee Berlin,Einstein Kaffee Berlin,0,,0.0,0.0,0.0
+咖啡厅,What Do You Fancy Love?,What Do You Fancy Love?,0,,0.0,0.0,0.0
+咖啡厅,Cupcake Cuisine,Cupcake Cuisine,0,,0.0,0.0,0.0
+咖啡厅,Panorama Punkt,Panorama Punkt,0,,0.0,0.0,0.0
+咖啡厅,Kollwitz Back,Kollwitz Back,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Chez Karl et Johanna,Chez Karl et Johanna,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Croissanterie,Croissanterie,0,新克尔恩,0.0,0.0,0.0
+咖啡厅,BaLou Die Baby Lounge,BaLou Die Baby Lounge,0,舍讷贝格,0.0,0.0,0.0
+咖啡厅,Blaumilchkanal,Blaumilchkanal,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Cafe Einstein,Cafe Einstein,0,,0.0,0.0,0.0
+咖啡厅,Flamingo Fresh Food Bar,Flamingo Fresh Food Bar,0,,0.0,0.0,0.0
+咖啡厅,Cafe Wintergarten in Literaturhaus Berlin,Cafe Wintergarten in Literaturhaus Berlin,0,,0.0,0.0,0.0
+咖啡厅,Starbucks Cafe,Starbucks Cafe,0,,0.0,0.0,0.0
+咖啡厅,Humboldt-Box Berlin,Humboldt-Box Berlin,0,,0.0,0.0,0.0
+咖啡厅,Amitola,Amitola,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Benkys,Benkys,0,克珀尼克,0.0,0.0,0.0
+咖啡厅,More,More,0,舍讷贝格,0.0,0.0,0.0
+咖啡厅,Cafe Minouche,Cafe Minouche,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,,0.0,0.0,0.0
+咖啡厅,Starbucks Cafe,Starbucks Cafe,0,,0.0,0.0,0.0
+咖啡厅,Friendly Society Berlin,Friendly Society Berlin,0,,0.0,0.0,0.0
+咖啡厅,Tussy Lounge,Tussy Lounge,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Conny & Conny,Conny & Conny,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Cafe Colectivo,Cafe Colectivo,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Creative Office Cafe Bar,Creative Office Cafe Bar,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Salon Blaue Elise,Salon Blaue Elise,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Cafe Blume,Cafe Blume,0,滕珀尔霍夫,0.0,0.0,0.0
+咖啡厅,Alte Backstube,Alte Backstube,0,滕珀尔霍夫,0.0,0.0,0.0
+咖啡厅,Altstadtcafe Spandau,Altstadtcafe Spandau,0,施潘道,0.0,0.0,0.0
+咖啡厅,Cafe Rosenrot,Cafe Rosenrot,0,潘科,0.0,0.0,0.0
+咖啡厅,Café Mint,Café Mint,0,潘科,0.0,0.0,0.0
+咖啡厅,Gilmore's Cafe - Bar,Gilmore's Cafe - Bar,0,韦丁,0.0,0.0,0.0
+咖啡厅,Konditorei Tillmann,Konditorei Tillmann,0,,0.0,0.0,0.0
+咖啡厅,Morning Glory Coffeeshop,Morning Glory Coffeeshop,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Nothaft&Seidel,Nothaft&Seidel,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Kekstraum,Kekstraum,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Kaffeeroesterei Pakolat,Kaffeeroesterei Pakolat,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Café IM NU,Café IM NU,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Cafe NahrReich,Cafe NahrReich,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Caffè Monelli,Caffè Monelli,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Blinis Espressolounge,Blinis Espressolounge,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Monsieur Ibrahim,Monsieur Ibrahim,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Amour Fou,Amour Fou,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Bagel Coffee & Culure,Bagel Coffee & Culure,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,KoffÄin Coffee Kreuzberg,KoffÄin Coffee Kreuzberg,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Companion Coffee,Companion Coffee,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Kaffeehaus Mila,Kaffeehaus Mila,0,,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,,0.0,0.0,0.0
+咖啡厅,Van Gogh,Van Gogh,0,,0.0,0.0,0.0
+咖啡厅,KaffeeMitte,KaffeeMitte,0,,0.0,0.0,0.0
+咖啡厅,Princess Cheesecake,Princess Cheesecake,0,,0.0,0.0,0.0
+咖啡厅,Back-Factory,Back-Factory,0,,0.0,0.0,0.0
+咖啡厅,Mein Haus am See,Mein Haus am See,0,,0.0,0.0,0.0
+咖啡厅,Factory Girl,Factory Girl,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Kaffeeladen,Kaffeeladen,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Ohlala,Ohlala,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Lauter Eis,Lauter Eis,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+咖啡厅,SETs,SETs,0,,0.0,0.0,0.0
+咖啡厅,Aux Plaisirs Patisserie Boulangerie,Aux Plaisirs Patisserie Boulangerie,0,舍讷贝格,0.0,0.0,0.0
+咖啡厅,Double Eye,Double Eye,0,舍讷贝格,0.0,0.0,0.0
+咖啡厅,impala coffee kaffeerosterei,impala coffee kaffeerosterei,0,舍讷贝格,0.0,0.0,0.0
+咖啡厅,Antipodes,Antipodes,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Elbspeicher B,Elbspeicher B,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,DÄRI Frozen Yogurt,DÄRI Frozen Yogurt,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Sowohl Als Auch,Sowohl Als Auch,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Engelberg,Engelberg,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,The Dairy,The Dairy,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,The Black or White,The Black or White,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Blumencafe,Blumencafe,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,st Gaudy cafe,st Gaudy cafe,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Belleville,Belleville,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Elf,Elf,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Milchschaum,Milchschaum,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Westberlin bar&shop,Westberlin bar&shop,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,We Love Coffee,We Love Coffee,0,,0.0,0.0,0.0
+咖啡厅,Maxway Coffee,Maxway Coffee,0,,0.0,0.0,0.0
+咖啡厅,Glückliches Wedding,Glückliches Wedding,0,,0.0,0.0,0.0
+咖啡厅,Cafe Sinn & Sinnlichkeit,Cafe Sinn & Sinnlichkeit,0,,0.0,0.0,0.0
+咖啡厅,Zeitlos,Zeitlos,0,,0.0,0.0,0.0
+咖啡厅,Cafe Cinema,Cafe Cinema,0,,0.0,0.0,0.0
+咖啡厅,Caras Gourmet Coffee Cafe,Caras Gourmet Coffee Cafe,0,,0.0,0.0,0.0
+咖啡厅,Victoria,Victoria,0,,0.0,0.0,0.0
+咖啡厅,Good Q,Good Q,0,,0.0,0.0,0.0
+咖啡厅,Weinerei,Weinerei,0,,0.0,0.0,0.0
+咖啡厅,La Bigoudene,La Bigoudene,0,,0.0,0.0,0.0
+咖啡厅,White Chocolate Cafe,White Chocolate Cafe,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,Kulturzeit,Kulturzeit,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Silo,Silo,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Restaurant/Bar Meilenstein,Restaurant/Bar Meilenstein,0,施潘道,0.0,0.0,0.0
+咖啡厅,Mantee Cafe,Mantee Cafe,0,潘科,0.0,0.0,0.0
+咖啡厅,Eterna,Eterna,0,,0.0,0.0,0.0
+咖啡厅,Café Hilde,Café Hilde,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Impala Coffe,Impala Coffe,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Cafe 3Gold,Cafe 3Gold,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Peccato DiVino Weinbar,Peccato DiVino Weinbar,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Pfau,Pfau,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Barcomi s,Barcomi s,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Freckles,Freckles,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Restaurant Bastard,Restaurant Bastard,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,A.Horn,A.Horn,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Salon Schmück,Salon Schmück,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Mediterrane Botschaft,Mediterrane Botschaft,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Luzia,Luzia,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Giro Coffee Bar,Giro Coffee Bar,0,,0.0,0.0,0.0
+咖啡厅,Chef Etage,Chef Etage,0,,0.0,0.0,0.0
+咖啡厅,TortenheBar - Weincafe An Der Oper,TortenheBar - Weincafe An Der Oper,0,,0.0,0.0,0.0
+咖啡厅,Allegretto,Allegretto,0,,0.0,0.0,0.0
+咖啡厅,handmade BERLIN - Yarns & Coffee,handmade BERLIN - Yarns & Coffee,0,,0.0,0.0,0.0
+咖啡厅,Kaffee Hauser,Kaffee Hauser,0,,0.0,0.0,0.0
+咖啡厅,Saladette & Freunde,Saladette & Freunde,0,,0.0,0.0,0.0
+咖啡厅,Milchhalle,Milchhalle,0,,0.0,0.0,0.0
+咖啡厅,Röststätte Berlin,Röststätte Berlin,0,,0.0,0.0,0.0
+咖啡厅,Efa's Frozen Yogurt,Efa's Frozen Yogurt,0,,0.0,0.0,0.0
+咖啡厅,Petit Fleury Cafe-Bistro,Petit Fleury Cafe-Bistro,0,,0.0,0.0,0.0
+咖啡厅,Café Solvey,Café Solvey,0,,0.0,0.0,0.0
+咖啡厅,Bei Maria,Bei Maria,0,,0.0,0.0,0.0
+咖啡厅,Hermann Eicke,Hermann Eicke,0,,0.0,0.0,0.0
+咖啡厅,Glucklich am Park,Glucklich am Park,0,,0.0,0.0,0.0
+咖啡厅,Rosalyn,Rosalyn,0,,0.0,0.0,0.0
+咖啡厅,Kaffeehaus Zeltinger,Kaffeehaus Zeltinger,0,,0.0,0.0,0.0
+咖啡厅,Karvana,Karvana,0,弗里德里希,0.0,0.0,0.0
+咖啡厅,Caras,Caras,0,,0.0,0.0,0.0
+咖啡厅,Kollberg 35,Kollberg 35,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Kaffee am Meer,Kaffee am Meer,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Avril,Avril,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Cafe Bar Morena,Cafe Bar Morena,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Das Edelweiss,Das Edelweiss,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Coffeeshop Company,Coffeeshop Company,0,,0.0,0.0,0.0
+咖啡厅,Bäcker Taudien,Bäcker Taudien,0,,0.0,0.0,0.0
+咖啡厅,Café 7 Rock,Café 7 Rock,0,,0.0,0.0,0.0
+咖啡厅,Restaurant and Kaffeehaus Schupke,Restaurant and Kaffeehaus Schupke,0,,0.0,0.0,0.0
+咖啡厅,Milchmanns,Milchmanns,0,,0.0,0.0,0.0
+咖啡厅,Kaffeehaus Rosenstein,Kaffeehaus Rosenstein,0,潘科,0.0,0.0,0.0
+咖啡厅,Gecco (Cocktail)Bar,Gecco (Cocktail)Bar,0,,0.0,0.0,0.0
+咖啡厅,Wild Caffe,Wild Caffe,0,舍讷贝格,0.0,0.0,0.0
+咖啡厅,Silberdistel,Silberdistel,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Glory Whole,Glory Whole,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Soupanova,Soupanova,0,普伦茨劳贝格,0.0,0.0,0.0
+咖啡厅,Melita Sundstroem,Melita Sundstroem,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Nest Speise- & Schankwirtschaft,Nest Speise- & Schankwirtschaft,0,克罗伊茨贝格,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,,0.0,0.0,0.0
+咖啡厅,Pavilion at the Reichstag,Pavilion at the Reichstag,0,,0.0,0.0,0.0
+咖啡厅,Café Hardenberg,Café Hardenberg,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,CARAS,CARAS,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,Sevil Cantimur Cafe,Sevil Cantimur Cafe,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,Café Tiffanys,Café Tiffanys,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,Café Croque,Café Croque,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,Salomon Bagels,Salomon Bagels,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,Café The Olive,Café The Olive,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,Kant-Café,Kant-Café,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,Pasticceria e Rosticceria Italiana,Pasticceria e Rosticceria Italiana,0,蒂尔加滕,0.0,0.0,0.0
+咖啡厅,通州时光机器音乐工作室,通州时光机器音乐工作室,0,米特,0.0,0.0,0.0
+面包甜点,Zuccherino,Zuccherino,0,普伦茨劳贝格,0.0,0.0,0.0
+面包甜点,La Fontana,La Fontana,0,,7.5,7.5,7.5
+面包甜点,Eismanufaktur Fedora,Eismanufaktur Fedora,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Caramello,Caramello,0,弗里德里希,0.0,0.0,0.0
+面包甜点,Caffe e Gelato,Caffe e Gelato,0,,0.0,0.0,0.0
+面包甜点,Der Kuchenladen,Der Kuchenladen,0,,0.0,0.0,0.0
+面包甜点,Eis Dadalt,Eis Dadalt,0,克珀尼克,0.0,0.0,0.0
+面包甜点,Ralf's Torten Atelier,Ralf's Torten Atelier,0,普伦茨劳贝格,0.0,0.0,0.0
+面包甜点,Vanille & Marille,Vanille & Marille,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,FrozenYogurt by Lunchidee,FrozenYogurt by Lunchidee,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+面包甜点,Pasam Baklava,Pasam Baklava,0,舍讷贝格,0.0,0.0,0.0
+面包甜点,Cafe-Haus Koch Berlin,Cafe-Haus Koch Berlin,0,,0.0,0.0,0.0
+面包甜点,Youghurt,Youghurt,0,,0.0,0.0,0.0
+面包甜点,Lafayette Gourmet Berlin,Lafayette Gourmet Berlin,0,,0.0,0.0,0.0
+面包甜点,Zeit fuer Brot,Zeit fuer Brot,0,,0.0,0.0,0.0
+面包甜点,Sapori del Sud,Sapori del Sud,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Albrechts Patisserie,Albrechts Patisserie,0,舍讷贝格,0.0,0.0,0.0
+面包甜点,Martin's Place,Martin's Place,0,新克尔恩,0.0,0.0,0.0
+面包甜点,Kamps Backstube,Kamps Backstube,0,,0.0,0.0,0.0
+面包甜点,Albrechts Patisserie,Albrechts Patisserie,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+面包甜点,Eisklecks,Eisklecks,0,普伦茨劳贝格,0.0,0.0,0.0
+面包甜点,Vanilla Berlin,Vanilla Berlin,0,普伦茨劳贝格,0.0,0.0,0.0
+面包甜点,Orly Cafe,Orly Cafe,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Aldemir,Aldemir,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,KoffÄin Coffee Kreuzberg,KoffÄin Coffee Kreuzberg,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Fräulein Wild,Fräulein Wild,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Cafe Kranzler,Cafe Kranzler,0,,0.0,0.0,0.0
+面包甜点,Konditorei Buchwald,Konditorei Buchwald,0,,0.0,0.0,0.0
+面包甜点,Haagen Dasz,Haagen Dasz,0,,0.0,0.0,0.0
+面包甜点,Haagen-Dazs,Haagen-Dazs,0,,0.0,0.0,0.0
+面包甜点,Crepes Culture,Crepes Culture,0,弗里德里希,0.0,0.0,0.0
+面包甜点,Cupcake Berlin,Cupcake Berlin,0,弗里德里希,0.0,0.0,0.0
+面包甜点,Eiscafe Incontri,Eiscafe Incontri,0,弗里德里希,0.0,0.0,0.0
+面包甜点,Melis Cafe - Backerei,Melis Cafe - Backerei,0,弗里德里希,0.0,0.0,0.0
+面包甜点,Szimpla,Szimpla,0,柏林利希滕贝格,0.0,0.0,0.0
+面包甜点,Florida,Florida,0,施潘道,0.0,0.0,0.0
+面包甜点,Stuck vom Gluck,Stuck vom Gluck,0,潘科,0.0,0.0,0.0
+面包甜点,Albrechts Patisserie,Albrechts Patisserie,0,普伦茨劳贝格,0.0,0.0,0.0
+面包甜点,DÄRI Frozen Yogurt,DÄRI Frozen Yogurt,0,普伦茨劳贝格,0.0,0.0,0.0
+面包甜点,Cafe KRONE,Cafe KRONE,0,普伦茨劳贝格,0.0,0.0,0.0
+面包甜点,Bekarei,Bekarei,0,普伦茨劳贝格,0.0,0.0,0.0
+面包甜点,Steinecke,Steinecke,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Cuccuma Cafe,Cuccuma Cafe,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Anna Durkes,Anna Durkes,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Mr. Minsch,Mr. Minsch,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Creperie Bretonne,Creperie Bretonne,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Eiskaffee Tanne B,Eiskaffee Tanne B,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Ans-Back Cafe Baeckerei,Ans-Back Cafe Baeckerei,0,舍讷贝格,0.0,0.0,0.0
+面包甜点,"Dunkin Donuts, Berlin Harderbergplatz","Dunkin Donuts, Berlin Harderbergplatz",0,,0.0,0.0,0.0
+面包甜点,Lindner,Lindner,0,,0.0,0.0,0.0
+面包甜点,Haagen-Dasz,Haagen-Dasz,0,,0.0,0.0,0.0
+面包甜点,Amorino,Amorino,0,,0.0,0.0,0.0
+面包甜点,Alpenstueck Baeckerei,Alpenstueck Baeckerei,0,,0.0,0.0,0.0
+面包甜点,Mauer Cafe,Mauer Cafe,0,,0.0,0.0,0.0
+面包甜点,Café Mal Anders,Café Mal Anders,0,弗里德里希,0.0,0.0,0.0
+面包甜点,Qadmous,Qadmous,0,弗里德里希,0.0,0.0,0.0
+面包甜点,Thürmann – Bäckerei & Konditorei,Thürmann – Bäckerei & Konditorei,0,滕珀尔霍夫,0.0,0.0,0.0
+面包甜点,Kochhaus Gmbh,Kochhaus Gmbh,0,舍讷贝格,0.0,0.0,0.0
+面包甜点,Creperie ,Creperie ,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Salon Sucre,Salon Sucre,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Restaurant Weiss,Restaurant Weiss,0,,0.0,0.0,0.0
+面包甜点,Thurmann Backerei & Konditorei,Thurmann Backerei & Konditorei,0,,0.0,0.0,0.0
+面包甜点,Wiener Feinbäckerei Heberer GmbH,Wiener Feinbäckerei Heberer GmbH,0,,0.0,0.0,0.0
+面包甜点,Janny's Eis,Janny's Eis,0,,0.0,0.0,0.0
+面包甜点,Weidemann Backer,Weidemann Backer,0,,0.0,0.0,0.0
+面包甜点,Der Havelbacker im Berlin Carre,Der Havelbacker im Berlin Carre,0,,0.0,0.0,0.0
+面包甜点,Eis-Manufaktur,Eis-Manufaktur,0,,0.0,0.0,0.0
+面包甜点,Süsse Sünde,Süsse Sünde,0,,0.0,0.0,0.0
+面包甜点,Der Eisladen,Der Eisladen,0,,0.0,0.0,0.0
+面包甜点,Eiscafe Eiskimo,Eiscafe Eiskimo,0,,0.0,0.0,0.0
+面包甜点,Kamps Backstube,Kamps Backstube,0,弗里德里希,0.0,0.0,0.0
+面包甜点,Eis Delfino,Eis Delfino,0,新克尔恩,0.0,0.0,0.0
+面包甜点,Dunkin' Donuts,Dunkin' Donuts,0,施潘道,0.0,0.0,0.0
+面包甜点,Kaffee Raum,Kaffee Raum,0,普伦茨劳贝格,0.0,0.0,0.0
+面包甜点,Hudson's British Cafe & Cake Shop,Hudson's British Cafe & Cake Shop,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,WonderWaffel,WonderWaffel,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Kalter Krieg,Kalter Krieg,0,克罗伊茨贝格,0.0,0.0,0.0
+面包甜点,Bäckerei & Konditorei,Bäckerei & Konditorei,0,蒂尔加滕,0.0,0.0,0.0
+面包甜点,Opern Palais,Opern Palais,0,,0.0,0.0,0.0
+面包甜点,Ihr Back-Paradies,Ihr Back-Paradies,0,蒂尔加滕,0.0,0.0,0.0
+面包甜点,Confiserie Melanie,Confiserie Melanie,0,蒂尔加滕,0.0,0.0,0.0
+面包甜点,Steinecke's Heidebrot Backstube GmbH & Co. KG,Steinecke's Heidebrot Backstube GmbH & Co. KG,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Good Friends,Good Friends,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Regent Bar,Regent Bar,0,,7.4,7.1,7.1
+酒吧,Mr. Hai & Friends,Mr. Hai & Friends,0,蒂尔加滕,6.9,6.9,6.9
+酒吧,Freischwimmer,Freischwimmer,0,特雷普托,0.0,0.0,0.0
+酒吧,Rivabar,Rivabar,0,,0.0,0.0,0.0
+酒吧,Greys l Bar & Lounge,Greys l Bar & Lounge,0,,0.0,0.0,0.0
+酒吧,Galander Charlottenburg,Galander Charlottenburg,0,,0.0,0.0,0.0
+酒吧,MY Starklatsch Coffee,MY Starklatsch Coffee,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Crack Bellmer,Crack Bellmer,0,弗里德里希,0.0,0.0,0.0
+酒吧,Nightwalker Bar,Nightwalker Bar,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Zaffke,Zaffke,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Voima,Voima,0,舍讷贝格,0.0,0.0,0.0
+酒吧,Silver Future,Silver Future,0,新克尔恩,0.0,0.0,0.0
+酒吧,Rotisserie Weingrun,Rotisserie Weingrun,0,,0.0,0.0,0.0
+酒吧,Billy Wilders,Billy Wilders,0,,0.0,0.0,0.0
+酒吧,Monster Ronsons Ichiban Karaoke,Monster Ronsons Ichiban Karaoke,0,弗里德里希,0.0,0.0,0.0
+酒吧,Tresor,Tresor,0,,0.0,0.0,0.0
+酒吧,Rum Trader,Rum Trader,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+酒吧,Newton Bar,Newton Bar,0,,0.0,0.0,0.0
+酒吧,Amano Bar,Amano Bar,0,,0.0,0.0,0.0
+酒吧,Bar am Lutzowplatz,Bar am Lutzowplatz,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Charlie's Beach,Charlie's Beach,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+酒吧,Paris Bar,Paris Bar,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Harry's New York Bar,Harry's New York Bar,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Marlene Bar,Marlene Bar,0,,0.0,0.0,0.0
+酒吧,Brauhaus Georgbraeu,Brauhaus Georgbraeu,0,,0.0,0.0,0.0
+酒吧,Kirk Bar,Kirk Bar,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,BoeseBubenBar,BoeseBubenBar,0,潘科,0.0,0.0,0.0
+酒吧,Kuchel-Eck,Kuchel-Eck,0,,0.0,0.0,0.0
+酒吧,Roberta Cafe Gelateria,Roberta Cafe Gelateria,0,,0.0,0.0,0.0
+酒吧,Nachbar,Nachbar,0,舍讷贝格,0.0,0.0,0.0
+酒吧,Cafe Chagall,Cafe Chagall,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Dr. Pong,Dr. Pong,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Zahers,Zahers,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,SchwuZ,SchwuZ,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Cafe Grenzbereich,Cafe Grenzbereich,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Essen Fassen,Essen Fassen,0,,0.0,0.0,0.0
+酒吧,Catwalk Bar,Catwalk Bar,0,,0.0,0.0,0.0
+酒吧,Aufsturz,Aufsturz,0,,0.0,0.0,0.0
+酒吧,Walhalla,Walhalla,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Dachkammer (DK Bar),Dachkammer (DK Bar),0,弗里德里希,0.0,0.0,0.0
+酒吧,Bergklause,Bergklause,0,新克尔恩,0.0,0.0,0.0
+酒吧,Quasimodo Jazz Club,Quasimodo Jazz Club,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+酒吧,Scheune,Scheune,0,舍讷贝格,0.0,0.0,0.0
+酒吧,Saphire Bar,Saphire Bar,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Weinstein,Weinstein,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Serene Bar,Serene Bar,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Der Boiler,Der Boiler,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Madonna,Madonna,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Galander,Galander,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Week End,Week End,0,,0.0,0.0,0.0
+酒吧,Tigelleria Berlin,Tigelleria Berlin,0,,0.0,0.0,0.0
+酒吧,SO36,SO36,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Panorama Bar,Panorama Bar,0,弗里德里希,0.0,0.0,0.0
+酒吧,Puro Sky Lounge,Puro Sky Lounge,0,,0.0,0.0,0.0
+酒吧,Connection,Connection,0,舍讷贝格,0.0,0.0,0.0
+酒吧,Devil's Kitchen,Devil's Kitchen,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Gainsbourg,Gainsbourg,0,,0.0,0.0,0.0
+酒吧,Brokers Bier Borse,Brokers Bier Borse,0,,0.0,0.0,0.0
+酒吧,Kilkenny Irish Pub,Kilkenny Irish Pub,0,,0.0,0.0,0.0
+酒吧,Oxymoron,Oxymoron,0,,0.0,0.0,0.0
+酒吧,Zosch,Zosch,0,,0.0,0.0,0.0
+酒吧,Berlin's beachside bars,Berlin's beachside bars,0,,0.0,0.0,0.0
+酒吧,Reingold Cocktailbar,Reingold Cocktailbar,0,,0.0,0.0,0.0
+酒吧,Z,Z,0,,0.0,0.0,0.0
+酒吧,Cafe Auszeit,Cafe Auszeit,0,,0.0,0.0,0.0
+酒吧,Vagabund Brauerei,Vagabund Brauerei,0,,0.0,0.0,0.0
+酒吧,RAW Tempel Nightclub,RAW Tempel Nightclub,0,弗里德里希,0.0,0.0,0.0
+酒吧,Wein&Stein,Wein&Stein,0,弗里德里希,0.0,0.0,0.0
+酒吧,sky.bar,sky.bar,0,柏林利希滕贝格,0.0,0.0,0.0
+酒吧,Loch Ness Scottish Pub,Loch Ness Scottish Pub,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+酒吧,Adagio,Adagio,0,,0.0,0.0,0.0
+酒吧,Green Door,Green Door,0,舍讷贝格,0.0,0.0,0.0
+酒吧,White Trash,White Trash,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Scotch & Sofa,Scotch & Sofa,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Druide,Druide,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Deck 5 Skybeach,Deck 5 Skybeach,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Kaiserstein,Kaiserstein,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Junction Bar Jazz Cafe,Junction Bar Jazz Cafe,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Konrad Tonz,Konrad Tonz,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Wiener Blut,Wiener Blut,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Madame Claude Bar,Madame Claude Bar,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Bateau Ivre,Bateau Ivre,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Wurgeengel,Wurgeengel,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Oberbaum-Eck,Oberbaum-Eck,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Hubertuslounge,Hubertuslounge,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Lang Bar,Lang Bar,0,,0.0,0.0,0.0
+酒吧,Caroshi Bar,Caroshi Bar,0,,0.0,0.0,0.0
+酒吧,Bebel Bar,Bebel Bar,0,,0.0,0.0,0.0
+酒吧,Kula-Karma,Kula-Karma,0,,0.0,0.0,0.0
+酒吧,Cocktailbar Oase,Cocktailbar Oase,0,,0.0,0.0,0.0
+酒吧,Murphy's Irish Pub,Murphy's Irish Pub,0,,0.0,0.0,0.0
+酒吧,1a Lauschgift,1a Lauschgift,0,,0.0,0.0,0.0
+酒吧,Fire Bar,Fire Bar,0,,0.0,0.0,0.0
+酒吧,Hackbarth's,Hackbarth's,0,,0.0,0.0,0.0
+酒吧,Rothaus,Rothaus,0,,0.0,0.0,0.0
+酒吧,Weinerei,Weinerei,0,,0.0,0.0,0.0
+酒吧,Cafe Freysinn,Cafe Freysinn,0,,0.0,0.0,0.0
+酒吧,Zaza,Zaza,0,,0.0,0.0,0.0
+酒吧,Berghain,Berghain,0,弗里德里希,0.0,0.0,0.0
+酒吧,Matrix Club,Matrix Club,0,弗里德里希,0.0,0.0,0.0
+酒吧,MIO,MIO,0,弗里德里希,0.0,0.0,0.0
+酒吧,Amber Suite,Amber Suite,0,滕珀尔霍夫,0.0,0.0,0.0
+酒吧,Rosen-Bistro,Rosen-Bistro,0,潘科,0.0,0.0,0.0
+酒吧,B-Flat,B-Flat,0,潘科,0.0,0.0,0.0
+酒吧,Q-Dorf,Q-Dorf,0,,0.0,0.0,0.0
+酒吧,Diener,Diener,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Zu mir oder zu Dir,Zu mir oder zu Dir,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Intersoup,Intersoup,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Wirtschaftswunder,Wirtschaftswunder,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,La Vie en Rose,La Vie en Rose,0,,0.0,0.0,0.0
+酒吧,Joe's Beer Haus,Joe's Beer Haus,0,,0.0,0.0,0.0
+酒吧,Wellenreiter,Wellenreiter,0,,0.0,0.0,0.0
+酒吧,Bellinilounge,Bellinilounge,0,,0.0,0.0,0.0
+酒吧,Pip's,Pip's,0,,0.0,0.0,0.0
+酒吧,The House of a Hundred Beers,The House of a Hundred Beers,0,,0.0,0.0,0.0
+酒吧,Astro-Bar,Astro-Bar,0,弗里德里希,0.0,0.0,0.0
+酒吧,Strandgut Berlin,Strandgut Berlin,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+酒吧,Cafe Baier,Cafe Baier,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+酒吧,East side blick,East side blick,0,潘科,0.0,0.0,0.0
+酒吧,Kudamm Beach,Kudamm Beach,0,,0.0,0.0,0.0
+酒吧,Kemmons Bar,Kemmons Bar,0,舍讷贝格,0.0,0.0,0.0
+酒吧,Watergate,Watergate,0,普伦茨劳贝格,0.0,0.0,0.0
+酒吧,Kumpelnest 3000,Kumpelnest 3000,0,克罗伊茨贝格,0.0,0.0,0.0
+酒吧,Erdbeer,Erdbeer,0,,0.0,0.0,0.0
+酒吧,Brotfabrikkneipe,Brotfabrikkneipe,0,,0.0,0.0,0.0
+酒吧,Illy Bar,Illy Bar,0,,0.0,0.0,0.0
+酒吧,Hugo Junkers Lounge,Hugo Junkers Lounge,0,,0.0,0.0,0.0
+酒吧,Bistro Osiris,Bistro Osiris,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Tiergartenquelle,Tiergartenquelle,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Tapas Bar,Tapas Bar,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Cascade,Cascade,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Route 66 Diner,Route 66 Diner,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Rickenbackers Music Inn Live Musik,Rickenbackers Music Inn Live Musik,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Tom's Bar,Tom's Bar,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Lutter & Wegner,Lutter & Wegner,0,蒂尔加滕,0.0,0.0,0.0
+酒吧,Baileys Irish Pub,Baileys Irish Pub,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Tiergarten Quelle,Tiergarten Quelle,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Curry 36,Curry 36,0,,8.4,8.4,8.4
+更多美食,Nante Eck,Nante Eck,0,,8.4,8.4,8.4
+更多美食,Maredo im Zollernhof,Maredo im Zollernhof,0,,0.0,0.0,0.0
+更多美食,Kori & Fay,Kori & Fay,0,,0.0,0.0,0.0
+更多美食,Leysieffer Chocolaterie,Leysieffer Chocolaterie,0,,0.0,0.0,0.0
+更多美食,Hodori,Hodori,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Cappuccino,Cappuccino,0,施潘道,0.0,0.0,0.0
+更多美食,Cafe Melt,Cafe Melt,0,弗里德里希,0.0,0.0,0.0
+更多美食,Hans Im Gluck,Hans Im Gluck,0,,8.2,8.2,8.2
+更多美食,Josty,Josty,0,,7.5,6.7,7.5
+更多美食,Cancun,Cancun,0,,7.4,7.4,7.4
+更多美食,Hua Li Du,Hua Li Du,0,新克尔恩,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,,6.7,6.7,6.7
+更多美食,Red Baron,Red Baron,0,,8.3,8.3,8.3
+更多美食,Solar,Solar,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,The Dubliner Irish Pub,The Dubliner Irish Pub,0,普伦茨劳贝格,6.5,6.5,6.5
+更多美食,Catering's Best by InterContinental Berlin,Catering's Best by InterContinental Berlin,0,,0.0,0.0,0.0
+更多美食,Brasserie Desbrosses Berlin,Brasserie Desbrosses Berlin,0,,0.0,0.0,0.0
+更多美食,FACIL,FACIL,0,,0.0,0.0,0.0
+更多美食,Blockhouse Steak Restaurant,Blockhouse Steak Restaurant,0,,0.0,0.0,0.0
+更多美食,Berliner Fernsehturm,Berliner Fernsehturm,0,,0.0,0.0,0.0
+更多美食,Bleibergs,Bleibergs,0,,0.0,0.0,0.0
+更多美食,Mali Raj,Mali Raj,0,施潘道,0.0,0.0,0.0
+更多美食,Qbini Café - Das Brot-Restaurant,Qbini Café - Das Brot-Restaurant,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Pho Hoang Hanoi,Pho Hoang Hanoi,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Brenner Bei Perfetto,Brenner Bei Perfetto,0,,0.0,0.0,0.0
+更多美食,Queen of Muffins,Queen of Muffins,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Pizzeria Italia,Pizzeria Italia,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,KaDeWe 6th Floor,KaDeWe 6th Floor,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Cafe Einstein - Unter Den Linden,Cafe Einstein - Unter Den Linden,0,,0.0,0.0,0.0
+更多美食,Quchnia,Quchnia,0,,0.0,0.0,0.0
+更多美食,Maultaschen Manufaktur,Maultaschen Manufaktur,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,The Mandala Suites in The Mandala Hotel,The Mandala Suites in The Mandala Hotel,0,,0.0,0.0,0.0
+更多美食,Lindenbrau Am Potsdamer Platz,Lindenbrau Am Potsdamer Platz,0,克珀尼克,0.0,0.0,0.0
+更多美食,Sarah Wiener,Sarah Wiener,0,,0.0,0.0,0.0
+更多美食,LeBuffet Berlin KaDeWe,LeBuffet Berlin KaDeWe,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Lobby Lounge at Berlin Marriott Hotel,Lobby Lounge at Berlin Marriott Hotel,0,,0.0,0.0,0.0
+更多美食,Brechts,Brechts,0,,0.0,0.0,0.0
+更多美食,Bootshaus Stella am Lietzensee,Bootshaus Stella am Lietzensee,0,,0.0,0.0,0.0
+更多美食,Aroma Espresso Bar,Aroma Espresso Bar,0,,0.0,0.0,0.0
+更多美食,Chinarestaurant Aroma,Chinarestaurant Aroma,0,,0.0,0.0,0.0
+更多美食,Bandy Brooks,Bandy Brooks,0,,0.0,0.0,0.0
+更多美食,Fontana di Trevi,Fontana di Trevi,0,,0.0,0.0,0.0
+更多美食,Casa Nostra,Casa Nostra,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Jacob's Bar & Restaurant,Jacob's Bar & Restaurant,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Mokalola,Mokalola,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Kaiserhof,Kaiserhof,0,施潘道,0.0,0.0,0.0
+更多美食,Zuckerfee - Cafe und Confiserie,Zuckerfee - Cafe und Confiserie,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Restaurant Antillo,Restaurant Antillo,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Die Gute Stube,Die Gute Stube,0,,0.0,0.0,0.0
+更多美食,Zum Doppelpass,Zum Doppelpass,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Berlin Tantuni,Berlin Tantuni,0,,0.0,0.0,0.0
+更多美食,Berliner Bierakademie,Berliner Bierakademie,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Sun Day Burgers,Sun Day Burgers,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,leuchtstoff - Kaffeebar,leuchtstoff - Kaffeebar,0,柏林利希滕贝格,0.0,0.0,0.0
+更多美食,Osteria Da Pino,Osteria Da Pino,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Xochimilco Cafe,Xochimilco Cafe,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Jungbluth-Restaurant,Jungbluth-Restaurant,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Stilbruch,Stilbruch,0,施潘道,0.0,0.0,0.0
+更多美食,Chocolaterie Manon - Espresso Bar,Chocolaterie Manon - Espresso Bar,0,,0.0,0.0,0.0
+更多美食,Jack,Jack,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Berliner Stadtkrug Inh. Jork Radnik,Berliner Stadtkrug Inh. Jork Radnik,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Sombrero,Sombrero,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Trattoria Alberto Pizzeria,Trattoria Alberto Pizzeria,0,施潘道,0.0,0.0,0.0
+更多美食,Omonia-Treff,Omonia-Treff,0,施潘道,0.0,0.0,0.0
+更多美食,Hey Cheuk Lau,Hey Cheuk Lau,0,潘科,0.0,0.0,0.0
+更多美食,Zoulou Bar,Zoulou Bar,0,潘科,0.0,0.0,0.0
+更多美食,Cafe Provinz,Cafe Provinz,0,特雷普托,0.0,0.0,0.0
+更多美食,China Restauran SICHUAN,China Restauran SICHUAN,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Restaurant Ramazzotti,Restaurant Ramazzotti,0,施潘道,0.0,0.0,0.0
+更多美食,Sultana,Sultana,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Q'Tea Cafe,Q'Tea Cafe,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,El Loco,El Loco,0,施潘道,0.0,0.0,0.0
+更多美食,Culiartis Kochschule,Culiartis Kochschule,0,,0.0,0.0,0.0
+更多美食,TuBi,TuBi,0,,0.0,0.0,0.0
+更多美食,Kaffee Pause,Kaffee Pause,0,克珀尼克,0.0,0.0,0.0
+更多美食,esswirtschaft,esswirtschaft,0,特雷普托,0.0,0.0,0.0
+更多美食,Schlemmer-Pylon am Tauentzien,Schlemmer-Pylon am Tauentzien,0,,0.0,0.0,0.0
+更多美食,baharat falafel,baharat falafel,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Pizzeria Alpacino,Pizzeria Alpacino,0,新克尔恩,0.0,0.0,0.0
+更多美食,Amira,Amira,0,新克尔恩,0.0,0.0,0.0
+更多美食,Gandhara,Gandhara,0,,0.0,0.0,0.0
+更多美食,Sopranos,Sopranos,0,,0.0,0.0,0.0
+更多美食,CO'M A Sushis + Asia Grille,CO'M A Sushis + Asia Grille,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Gaststatte Zur Sonne,Gaststatte Zur Sonne,0,柏林利希滕贝格,0.0,0.0,0.0
+更多美食,Thiels,Thiels,0,,0.0,0.0,0.0
+更多美食,KuchenRausch's Feinbackerei,KuchenRausch's Feinbackerei,0,弗里德里希,0.0,0.0,0.0
+更多美食,Sichuan Gourmet,Sichuan Gourmet,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Galeria,Galeria,0,舍讷贝格,0.0,0.0,0.0
+更多美食,PizzaBulls Deutschland,PizzaBulls Deutschland,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Lorenz Adlon,Lorenz Adlon,0,,0.0,0.0,0.0
+更多美食,Gasthaus Julchen Hoppe,Gasthaus Julchen Hoppe,0,,0.0,0.0,0.0
+更多美食,Dolores,Dolores,0,,0.0,0.0,0.0
+更多美食,Mutter Hoppe,Mutter Hoppe,0,,0.0,0.0,0.0
+更多美食,Eleven Cafe & Bar,Eleven Cafe & Bar,0,,0.0,0.0,0.0
+更多美食,Fontana Della Favola,Fontana Della Favola,0,弗里德里希,0.0,0.0,0.0
+更多美食,Tony Roma,Tony Roma,0,,0.0,0.0,0.0
+更多美食,Shezan,Shezan,0,,0.0,0.0,0.0
+更多美食,Sra Bua by Tim Raue,Sra Bua by Tim Raue,0,,0.0,0.0,0.0
+更多美食,Marjan Grill Petar Vujcic,Marjan Grill Petar Vujcic,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Neffes Restaurant,Neffes Restaurant,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Artemis,Artemis,0,特雷普托,0.0,0.0,0.0
+更多美食,Restaurant Reinstoff,Restaurant Reinstoff,0,,0.0,0.0,0.0
+更多美食,Coco,Coco,0,柏林利希滕贝格,0.0,0.0,0.0
+更多美食,Berlino Wirthaus stresemann,Berlino Wirthaus stresemann,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Vux,Vux,0,新克尔恩,0.0,0.0,0.0
+更多美食,Sakura I,Sakura I,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Seerose,Seerose,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Lentz,Lentz,0,,0.0,0.0,0.0
+更多美食,Wiener Beisl,Wiener Beisl,0,,0.0,0.0,0.0
+更多美食,Samowar,Samowar,0,,0.0,0.0,0.0
+更多美食,La Cesta,La Cesta,0,弗里德里希,0.0,0.0,0.0
+更多美食,Mmaah,Mmaah,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Warschauer Pakt Kaffee Kombinat,Warschauer Pakt Kaffee Kombinat,0,弗里德里希,0.0,0.0,0.0
+更多美食,s...cultur,s...cultur,0,新克尔恩,0.0,0.0,0.0
+更多美食,Zimt & Zucker Kaffeehaus,Zimt & Zucker Kaffeehaus,0,,0.0,0.0,0.0
+更多美食,musashi,musashi,0,,0.0,0.0,0.0
+更多美食,Cafe Jacques,Cafe Jacques,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Hugos Restaurant,Hugos Restaurant,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Sy Restaurant,Sy Restaurant,0,,0.0,0.0,0.0
+更多美食,Otito,Otito,0,,0.0,0.0,0.0
+更多美食,PLAY OFF - Berlin Potsdamer Platz,PLAY OFF - Berlin Potsdamer Platz,0,,0.0,0.0,0.0
+更多美食,Lindenwirtin,Lindenwirtin,0,,0.0,0.0,0.0
+更多美食,Weingalerie u.Cafe ,Weingalerie u.Cafe ,0,,0.0,0.0,0.0
+更多美食,Quaree Restaurant,Quaree Restaurant,0,,0.0,0.0,0.0
+更多美食,Delphi,Delphi,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多美食,melia tapas,melia tapas,0,,0.0,0.0,0.0
+更多美食,Zur weissen Kastanie,Zur weissen Kastanie,0,,0.0,0.0,0.0
+更多美食,Firenze,Firenze,0,,0.0,0.0,0.0
+更多美食,Ho Lee,Ho Lee,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Sushi For You Lieferservice,Sushi For You Lieferservice,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Burger King,Burger King,0,,0.0,0.0,0.0
+更多美食,Duniya,Duniya,0,,0.0,0.0,0.0
+更多美食,Gaststaette W. Prassnik,Gaststaette W. Prassnik,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Litehouse,Litehouse,0,,0.0,0.0,0.0
+更多美食,Gourmet-Restaurant Vivaldi,Gourmet-Restaurant Vivaldi,0,,0.0,0.0,0.0
+更多美食,Currywurst Berlin & Friends,Currywurst Berlin & Friends,0,,0.0,0.0,0.0
+更多美食,Wilhelm & Medne,Wilhelm & Medne,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Opera Italiana,Opera Italiana,0,,0.0,0.0,0.0
+更多美食,Restaurant ammAmma,Restaurant ammAmma,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Berliner Kaffeerosterei,Berliner Kaffeerosterei,0,,0.0,0.0,0.0
+更多美食,Sohnel Werft Manufaktur,Sohnel Werft Manufaktur,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Mom's Favorite,Mom's Favorite,0,,0.0,0.0,0.0
+更多美食,Hopfingerbrau,Hopfingerbrau,0,,0.0,0.0,0.0
+更多美食,Restaurant La Sepia,Restaurant La Sepia,0,,0.0,0.0,0.0
+更多美食,23 Wallstreet at Park Plaza,23 Wallstreet at Park Plaza,0,,0.0,0.0,0.0
+更多美食,Cana Restaurant & Cafe,Cana Restaurant & Cafe,0,,0.0,0.0,0.0
+更多美食,WITTY,WITTY,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Floor's,Floor's,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Sage Restaurant,Sage Restaurant,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Gaststatte Budike,Gaststatte Budike,0,弗里德里希,0.0,0.0,0.0
+更多美食,Bei Lu,Bei Lu,0,新克尔恩,0.0,0.0,0.0
+更多美食,Ishin Japanese Deli,Ishin Japanese Deli,0,,0.0,0.0,0.0
+更多美食,Reinhard's im Kempinski,Reinhard's im Kempinski,0,,0.0,0.0,0.0
+更多美食,Pooja,Pooja,0,,0.0,0.0,0.0
+更多美食,Arema,Arema,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Jang-Tse-Kiang,Jang-Tse-Kiang,0,,0.0,0.0,0.0
+更多美食,Fugger-Grill,Fugger-Grill,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Asia-Gourmet,Asia-Gourmet,0,,0.0,0.0,0.0
+更多美食,Esra,Esra,0,,0.0,0.0,0.0
+更多美食,Theodor Tucher Speisekabinett & Leselounge,Theodor Tucher Speisekabinett & Leselounge,0,,0.0,0.0,0.0
+更多美食,Marin Fisch und Fleisch Restaurant,Marin Fisch und Fleisch Restaurant,0,新克尔恩,0.0,0.0,0.0
+更多美食,Por Que,Por Que,0,,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,,0.0,0.0,0.0
+更多美食,Dunkin' Donuts,Dunkin' Donuts,0,,0.0,0.0,0.0
+更多美食,Dunkin' Donuts,Dunkin' Donuts,0,,0.0,0.0,0.0
+更多美食,Einhorn Bistro Wittenbergplatz,Einhorn Bistro Wittenbergplatz,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Wandel,Wandel,0,,0.0,0.0,0.0
+更多美食,Coffee Fellows,Coffee Fellows,0,,0.0,0.0,0.0
+更多美食,Il Gusto Trattoria,Il Gusto Trattoria,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Cafe am Engelbecken,Cafe am Engelbecken,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Lehmofen,Lehmofen,0,克珀尼克,0.0,0.0,0.0
+更多美食,Austernbar at Galeries Lafayette,Austernbar at Galeries Lafayette,0,,0.0,0.0,0.0
+更多美食,Milja Und Schafa,Milja Und Schafa,0,弗里德里希,0.0,0.0,0.0
+更多美食,Currywurst und Coffeeshop,Currywurst und Coffeeshop,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Weilands Wellfood,Weilands Wellfood,0,,0.0,0.0,0.0
+更多美食,Restaurant Croatia,Restaurant Croatia,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多美食,Fritz & Co,Fritz & Co,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Fuerst & Iven Buchhandlung,Fuerst & Iven Buchhandlung,0,,0.0,0.0,0.0
+更多美食,Carpe Diem,Carpe Diem,0,,0.0,0.0,0.0
+更多美食,Cafe Aedes Signorello,Cafe Aedes Signorello,0,,0.0,0.0,0.0
+更多美食,Zum Hecht,Zum Hecht,0,,0.0,0.0,0.0
+更多美食,Zaim Falafel,Zaim Falafel,0,,0.0,0.0,0.0
+更多美食,"Da Nardino -Partyservice, Mittagstisch-","Da Nardino -Partyservice, Mittagstisch-",0,,0.0,0.0,0.0
+更多美食,Amira Cafe & Bar,Amira Cafe & Bar,0,,0.0,0.0,0.0
+更多美食,Ristorante Il Porto,Ristorante Il Porto,0,,0.0,0.0,0.0
+更多美食,Ambar,Ambar,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Seckin - Grillhaus & Partyservice,Seckin - Grillhaus & Partyservice,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Haura-Imbiss,Haura-Imbiss,0,弗里德里希,0.0,0.0,0.0
+更多美食,Rancho Grande,Rancho Grande,0,弗里德里希,0.0,0.0,0.0
+更多美食,Huftgold,Huftgold,0,弗里德里希,0.0,0.0,0.0
+更多美食,Tres Cabezas,Tres Cabezas,0,弗里德里希,0.0,0.0,0.0
+更多美食,Suppenwelt,Suppenwelt,0,弗里德里希,0.0,0.0,0.0
+更多美食,Mango Asia,Mango Asia,0,弗里德里希,0.0,0.0,0.0
+更多美食,Kurbishutte 1905,Kurbishutte 1905,0,弗里德里希,0.0,0.0,0.0
+更多美食,Marchenwaffel,Marchenwaffel,0,弗里德里希,0.0,0.0,0.0
+更多美食,Cafe Schmitzberger,Cafe Schmitzberger,0,弗里德里希,0.0,0.0,0.0
+更多美食,Fargo,Fargo,0,弗里德里希,0.0,0.0,0.0
+更多美食,Funk You - Natural Food,Funk You - Natural Food,0,弗里德里希,0.0,0.0,0.0
+更多美食,Primaria,Primaria,0,弗里德里希,0.0,0.0,0.0
+更多美食,Noa Lounge,Noa Lounge,0,弗里德里希,0.0,0.0,0.0
+更多美食,Germers,Germers,0,弗里德里希,0.0,0.0,0.0
+更多美食,Bretterbude,Bretterbude,0,弗里德里希,0.0,0.0,0.0
+更多美食,Cafe & Backerei Kosan,Cafe & Backerei Kosan,0,弗里德里希,0.0,0.0,0.0
+更多美食,Zydeco,Zydeco,0,弗里德里希,0.0,0.0,0.0
+更多美食,Zitto e Mangia,Zitto e Mangia,0,弗里德里希,0.0,0.0,0.0
+更多美食,In Der Tarte,In Der Tarte,0,弗里德里希,0.0,0.0,0.0
+更多美食,Saporito Berlin,Saporito Berlin,0,弗里德里希,0.0,0.0,0.0
+更多美食,Marco Polo,Marco Polo,0,柏林利希滕贝格,0.0,0.0,0.0
+更多美食,Ristorante - Enoteca Carpe Diem,Ristorante - Enoteca Carpe Diem,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Restaurant Aristoteles,Restaurant Aristoteles,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Piroschka,Piroschka,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Unser feines Restaurant,Unser feines Restaurant,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Weder Gestern Noch Morgen,Weder Gestern Noch Morgen,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Sirtaki,Sirtaki,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Suppengrun Inh.Hagen u. Christiane Franke,Suppengrun Inh.Hagen u. Christiane Franke,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Plancha II,Plancha II,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Nirwana,Nirwana,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Falafel Baba,Falafel Baba,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,"Restaurant Brentano, Berlin-Steglitz","Restaurant Brentano, Berlin-Steglitz",0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Da Capo,Da Capo,0,新克尔恩,0.0,0.0,0.0
+更多美食,Joe Beau Lais Biergarten GmbH,Joe Beau Lais Biergarten GmbH,0,新克尔恩,0.0,0.0,0.0
+更多美食,Trattoria La Terrazza,Trattoria La Terrazza,0,新克尔恩,0.0,0.0,0.0
+更多美食,Cafe Dritter Raum,Cafe Dritter Raum,0,新克尔恩,0.0,0.0,0.0
+更多美食,Let It Be - Vegan Creperie,Let It Be - Vegan Creperie,0,新克尔恩,0.0,0.0,0.0
+更多美食,Weser Vegetan,Weser Vegetan,0,新克尔恩,0.0,0.0,0.0
+更多美食,misu&musi,misu&musi,0,新克尔恩,0.0,0.0,0.0
+更多美食,Cafe Bar Hamburger Heaven,Cafe Bar Hamburger Heaven,0,新克尔恩,0.0,0.0,0.0
+更多美食,Katies Blue Cat,Katies Blue Cat,0,新克尔恩,0.0,0.0,0.0
+更多美食,MAHARAJA Indisches Restaurant,MAHARAJA Indisches Restaurant,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Boccato DI Cardina,Boccato DI Cardina,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Knossos,Knossos,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Die Blaue Donau,Die Blaue Donau,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Reiterkasino ,Reiterkasino ,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Split,Split,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Il Forno,Il Forno,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Buffalo,Buffalo,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Restaurant Adlermuhle,Restaurant Adlermuhle,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Sempre,Sempre,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Long,Long,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Taverna Olympia,Taverna Olympia,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Cafe Paula,Cafe Paula,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多美食,Restauration Schaukelpferd,Restauration Schaukelpferd,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多美食,Zum Wasserbauer,Zum Wasserbauer,0,施潘道,0.0,0.0,0.0
+更多美食,Havelkrug,Havelkrug,0,施潘道,0.0,0.0,0.0
+更多美食,Curry Pilz,Curry Pilz,0,施潘道,0.0,0.0,0.0
+更多美食,MAUI BARBECUE,MAUI BARBECUE,0,施潘道,0.0,0.0,0.0
+更多美食,Sipan,Sipan,0,施潘道,0.0,0.0,0.0
+更多美食,Spandower Zollhaus,Spandower Zollhaus,0,施潘道,0.0,0.0,0.0
+更多美食,Restaurant Athena - Roma,Restaurant Athena - Roma,0,潘科,0.0,0.0,0.0
+更多美食,Sapore Divino,Sapore Divino,0,潘科,0.0,0.0,0.0
+更多美食,Esplanade,Esplanade,0,潘科,0.0,0.0,0.0
+更多美食,Zum Innsbrucker,Zum Innsbrucker,0,潘科,0.0,0.0,0.0
+更多美食,Steckenpferd Pferdeladen & Cafe,Steckenpferd Pferdeladen & Cafe,0,潘科,0.0,0.0,0.0
+更多美食,Taverna Hellas,Taverna Hellas,0,韦丁,0.0,0.0,0.0
+更多美食,Altstadtcafe Copenick,Altstadtcafe Copenick,0,克珀尼克,0.0,0.0,0.0
+更多美食,Pfeffer & Salz,Pfeffer & Salz,0,克珀尼克,0.0,0.0,0.0
+更多美食,Eicheneck,Eicheneck,0,克珀尼克,0.0,0.0,0.0
+更多美食,Desha Snackeria,Desha Snackeria,0,特雷普托,0.0,0.0,0.0
+更多美食,Salon AlHamra,Salon AlHamra,0,马察恩,0.0,0.0,0.0
+更多美食,Palm,Palm,0,马察恩,0.0,0.0,0.0
+更多美食,Restaurant Calypso,Restaurant Calypso,0,马察恩,0.0,0.0,0.0
+更多美食,Wiener Conditorei Caffeehaus Bergmannstrasse,Wiener Conditorei Caffeehaus Bergmannstrasse,0,,0.0,0.0,0.0
+更多美食,Restaurant Prometheus Inh.Christos Chrissidis,Restaurant Prometheus Inh.Christos Chrissidis,0,,0.0,0.0,0.0
+更多美食,Grillimbiss Maximilian,Grillimbiss Maximilian,0,,0.0,0.0,0.0
+更多美食,L'Italiano,L'Italiano,0,,0.0,0.0,0.0
+更多美食,more,more,0,,0.0,0.0,0.0
+更多美食,Chinahaus,Chinahaus,0,,0.0,0.0,0.0
+更多美食,Greece,Greece,0,,0.0,0.0,0.0
+更多美食,Las Lenas,Las Lenas,0,,0.0,0.0,0.0
+更多美食,Cups Coffee,Cups Coffee,0,,0.0,0.0,0.0
+更多美食,Sayuri,Sayuri,0,,0.0,0.0,0.0
+更多美食,Restaurant Scarabeo,Restaurant Scarabeo,0,,0.0,0.0,0.0
+更多美食,Asteria Club,Asteria Club,0,,0.0,0.0,0.0
+更多美食,Restaurant DAN-le chinois,Restaurant DAN-le chinois,0,,0.0,0.0,0.0
+更多美食,Bistro Petite Claudine,Bistro Petite Claudine,0,,0.0,0.0,0.0
+更多美食,New y Restaurant,New y Restaurant,0,,0.0,0.0,0.0
+更多美食,Parkrestaurant,Parkrestaurant,0,,0.0,0.0,0.0
+更多美食,Cafe Taubenschlag,Cafe Taubenschlag,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Viet Rice,Viet Rice,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Eisfee,Eisfee,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Zur Alten Backstube,Zur Alten Backstube,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Molokai- Pro Afrika Gaststatten GmbH,Molokai- Pro Afrika Gaststatten GmbH,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Mamsell,Mamsell,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Pizzaklub,Pizzaklub,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Cafe Peri,Cafe Peri,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Donath & Roch Bistro,Donath & Roch Bistro,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Petrocelli,Petrocelli,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Le Soleil,Le Soleil,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Cafe Noir,Cafe Noir,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Cogai,Cogai,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Kit Kat Club @ Metropol,Kit Kat Club @ Metropol,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Kahrmann's Own,Kahrmann's Own,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,cantine sant'ambroeus,cantine sant'ambroeus,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Muse Berlin,Muse Berlin,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Ziervogels Kult Curry,Ziervogels Kult Curry,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Sorsi e Morsi,Sorsi e Morsi,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,ASIN 2 Singapore Restaurant,ASIN 2 Singapore Restaurant,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Frannz,Frannz,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Kiezkantine,Kiezkantine,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Werkstatt der Suesse,Werkstatt der Suesse,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Falafel Daye,Falafel Daye,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Imbiss Waltraut Ziervogel,Imbiss Waltraut Ziervogel,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,DESI,DESI,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Esperanza,Esperanza,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Himalya Restaurant,Himalya Restaurant,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,La Kaserie,La Kaserie,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Osswald Cafe Restaurant Bar,Osswald Cafe Restaurant Bar,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,CafeNaugarder,CafeNaugarder,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Asia Dream,Asia Dream,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Sushi Number One,Sushi Number One,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Restaurant Best Friends,Restaurant Best Friends,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Le Midi,Le Midi,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Kohlenquelle,Kohlenquelle,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,"Saladchen, Berlin","Saladchen, Berlin",0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Angolo Di Toscana,Angolo Di Toscana,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Taverna Apollon,Taverna Apollon,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Cafe Via Emilia,Cafe Via Emilia,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Pastarium,Pastarium,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Martinique Restaurant and Bar,Martinique Restaurant and Bar,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Cones Berlin,Cones Berlin,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Thurnagel,Thurnagel,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,ArabBelly,ArabBelly,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Vanillaz - Cup'n'Cake,Vanillaz - Cup'n'Cake,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Eismacher Berlin,Eismacher Berlin,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Suess Speisen,Suess Speisen,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Cantina Orange,Cantina Orange,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,BurgerBar61,BurgerBar61,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Salumeria & Bruschetta,Salumeria & Bruschetta,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Pic Nic 34,Pic Nic 34,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Nour Libanesische Spezialitaten,Nour Libanesische Spezialitaten,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,RISANI,RISANI,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Benitos,Benitos,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Khartoum Sudanesischer Imbiss,Khartoum Sudanesischer Imbiss,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Die Rebellion des Zimtsterns,Die Rebellion des Zimtsterns,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Trattoria Maria,Trattoria Maria,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Rootz,Rootz,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Pizza Espresso,Pizza Espresso,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Knofi,Knofi,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,China-Thailand Bistro,China-Thailand Bistro,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Noir Cafe Bar,Noir Cafe Bar,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Sotto Sopra,Sotto Sopra,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Restaurant Spurensuche,Restaurant Spurensuche,0,,0.0,0.0,0.0
+更多美食,Nour,Nour,0,,0.0,0.0,0.0
+更多美食,Restaurant Noah,Restaurant Noah,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Romanisches Cafe im Waldorf Astoria,Romanisches Cafe im Waldorf Astoria,0,,0.0,0.0,0.0
+更多美食,Kaffeepause,Kaffeepause,0,,0.0,0.0,0.0
+更多美食,Piano Cafe am Lietzensee,Piano Cafe am Lietzensee,0,,0.0,0.0,0.0
+更多美食,Zollpackhof Restaurant & Biergarten,Zollpackhof Restaurant & Biergarten,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Maredo - Zoologischer Garten,Maredo - Zoologischer Garten,0,,0.0,0.0,0.0
+更多美食,La Pergola,La Pergola,0,,0.0,0.0,0.0
+更多美食,Coco Komm Zu Mir,Coco Komm Zu Mir,0,,0.0,0.0,0.0
+更多美食,Cafe Extrablatt Wilmersdorfer Strasse,Cafe Extrablatt Wilmersdorfer Strasse,0,,0.0,0.0,0.0
+更多美食,Cafe Konzerthaus,Cafe Konzerthaus,0,,0.0,0.0,0.0
+更多美食,Muncheese Pizzabar,Muncheese Pizzabar,0,,0.0,0.0,0.0
+更多美食,imaki Sushi,imaki Sushi,0,弗里德里希,0.0,0.0,0.0
+更多美食,Pula-Grill Restaurant,Pula-Grill Restaurant,0,,0.0,0.0,0.0
+更多美食,Cantina Siciliana,Cantina Siciliana,0,,0.0,0.0,0.0
+更多美食,Via vai,Via vai,0,,0.0,0.0,0.0
+更多美食,Sushi Club,Sushi Club,0,,0.0,0.0,0.0
+更多美食,KFC,KFC,0,,0.0,0.0,0.0
+更多美食,Teehaus Tiergarten,Teehaus Tiergarten,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Carambar,Carambar,0,柏林利希滕贝格,0.0,0.0,0.0
+更多美食,Restaurant Berlinchen,Restaurant Berlinchen,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Die Eins,Die Eins,0,,0.0,0.0,0.0
+更多美食,Scandic Restaurant / Bar 3rd Floor,Scandic Restaurant / Bar 3rd Floor,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Bistro Restaurant,Bistro Restaurant,0,,0.0,0.0,0.0
+更多美食,Cafe Pizza Pasta,Cafe Pizza Pasta,0,,0.0,0.0,0.0
+更多美食,Funkturm Restaurant,Funkturm Restaurant,0,,0.0,0.0,0.0
+更多美食,Repke Suppenkantine,Repke Suppenkantine,0,,0.0,0.0,0.0
+更多美食,Focaccino,Focaccino,0,,0.0,0.0,0.0
+更多美食,Das Muntermacher,Das Muntermacher,0,,0.0,0.0,0.0
+更多美食,BagCo,BagCo,0,,0.0,0.0,0.0
+更多美食,Currywurst am Savignyplatz,Currywurst am Savignyplatz,0,,0.0,0.0,0.0
+更多美食,Latino,Latino,0,,0.0,0.0,0.0
+更多美食,Glass Berlin,Glass Berlin,0,,0.0,0.0,0.0
+更多美食,Pascarella,Pascarella,0,,0.0,0.0,0.0
+更多美食,Ajanta,Ajanta,0,,0.0,0.0,0.0
+更多美食,The curtain club,The curtain club,0,,0.0,0.0,0.0
+更多美食,Rogacki,Rogacki,0,,0.0,0.0,0.0
+更多美食,Chipps,Chipps,0,,0.0,0.0,0.0
+更多美食,Reinhards Restaurant and Cafe,Reinhards Restaurant and Cafe,0,,0.0,0.0,0.0
+更多美食,Emmas Bar & Restaurant,Emmas Bar & Restaurant,0,,0.0,0.0,0.0
+更多美食,Kartoffelkiste,Kartoffelkiste,0,,0.0,0.0,0.0
+更多美食,Cantina in der Bar Tausend,Cantina in der Bar Tausend,0,,0.0,0.0,0.0
+更多美食,Grill Royal,Grill Royal,0,,0.0,0.0,0.0
+更多美食,Alkopole,Alkopole,0,,0.0,0.0,0.0
+更多美食,Tuans Hutte - Kleines Restaurant,Tuans Hutte - Kleines Restaurant,0,,0.0,0.0,0.0
+更多美食,Oxymoron,Oxymoron,0,,0.0,0.0,0.0
+更多美食,Espresso Ambulanz,Espresso Ambulanz,0,,0.0,0.0,0.0
+更多美食,Pantry,Pantry,0,,0.0,0.0,0.0
+更多美食,Monsieur Vuong,Monsieur Vuong,0,,0.0,0.0,0.0
+更多美食,Chicago Williams GmbH,Chicago Williams GmbH,0,,0.0,0.0,0.0
+更多美食,Blaues Band,Blaues Band,0,,0.0,0.0,0.0
+更多美食,Boetzow Privat,Boetzow Privat,0,,0.0,0.0,0.0
+更多美食,Toca Rouge,Toca Rouge,0,,0.0,0.0,0.0
+更多美食,Asia Gourmet,Asia Gourmet,0,,0.0,0.0,0.0
+更多美食,Restauration Tucholsky,Restauration Tucholsky,0,,0.0,0.0,0.0
+更多美食,Themroc,Themroc,0,,0.0,0.0,0.0
+更多美食,Spaghetti Western,Spaghetti Western,0,,0.0,0.0,0.0
+更多美食,KOPPS Bar and Restaurant,KOPPS Bar and Restaurant,0,,0.0,0.0,0.0
+更多美食,Noto,Noto,0,,0.0,0.0,0.0
+更多美食,Keller-Restaurant Im Brecht-JHaus-Berlin,Keller-Restaurant Im Brecht-JHaus-Berlin,0,,0.0,0.0,0.0
+更多美食,Hartweizen,Hartweizen,0,,0.0,0.0,0.0
+更多美食,St. Oberholz Restaurant,St. Oberholz Restaurant,0,,0.0,0.0,0.0
+更多美食,Dudu,Dudu,0,,0.0,0.0,0.0
+更多美食,Adonis,Adonis,0,,0.0,0.0,0.0
+更多美食,La Pausa,La Pausa,0,,0.0,0.0,0.0
+更多美食,Fleischerei,Fleischerei,0,,0.0,0.0,0.0
+更多美食,Yumcha Heroes,Yumcha Heroes,0,,0.0,0.0,0.0
+更多美食,W-Der Imbiss,W-Der Imbiss,0,,0.0,0.0,0.0
+更多美食,Cafe Restaurant Lichtburg,Cafe Restaurant Lichtburg,0,,0.0,0.0,0.0
+更多美食,Deponie No. 3,Deponie No. 3,0,,0.0,0.0,0.0
+更多美食,Pizza Pane,Pizza Pane,0,,0.0,0.0,0.0
+更多美食,Lebensstern - Bar im Einstein,Lebensstern - Bar im Einstein,0,,0.0,0.0,0.0
+更多美食,Bogazici,Bogazici,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Lei e lui Cafe Restaurant Karin Kaiser,Lei e lui Cafe Restaurant Karin Kaiser,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Taverna Amphipolis,Taverna Amphipolis,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Gastronomie Classic Remise Berlin,Gastronomie Classic Remise Berlin,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Stellwerk,Stellwerk,0,弗里德里希,0.0,0.0,0.0
+更多美食,Mamo Falafel,Mamo Falafel,0,弗里德里希,0.0,0.0,0.0
+更多美食,Restaurant Fischschuppen,Restaurant Fischschuppen,0,弗里德里希,0.0,0.0,0.0
+更多美食,Voner,Voner,0,弗里德里希,0.0,0.0,0.0
+更多美食,Primitiv,Primitiv,0,弗里德里希,0.0,0.0,0.0
+更多美食,Schiller Burger,Schiller Burger,0,弗里德里希,0.0,0.0,0.0
+更多美食,"pastapresti, Inh. Roberto Presti","pastapresti, Inh. Roberto Presti",0,弗里德里希,0.0,0.0,0.0
+更多美食,Olivia: Torten- und Schokoladenladen,Olivia: Torten- und Schokoladenladen,0,弗里德里希,0.0,0.0,0.0
+更多美食,Blechbilderbar,Blechbilderbar,0,弗里德里希,0.0,0.0,0.0
+更多美食,Aunt Benny,Aunt Benny,0,弗里德里希,0.0,0.0,0.0
+更多美食,Café Casero,Café Casero,0,弗里德里希,0.0,0.0,0.0
+更多美食,Volkswirtschaft,Volkswirtschaft,0,弗里德里希,0.0,0.0,0.0
+更多美食,Oase,Oase,0,弗里德里希,0.0,0.0,0.0
+更多美食,Papaya,Papaya,0,弗里德里希,0.0,0.0,0.0
+更多美食,Tonkin Restaurant,Tonkin Restaurant,0,弗里德里希,0.0,0.0,0.0
+更多美食,Sanabel Imbiss,Sanabel Imbiss,0,弗里德里希,0.0,0.0,0.0
+更多美食,Eispiraten,Eispiraten,0,弗里德里希,0.0,0.0,0.0
+更多美食,elfida,elfida,0,弗里德里希,0.0,0.0,0.0
+更多美食,Pizzawerk,Pizzawerk,0,弗里德里希,0.0,0.0,0.0
+更多美食,Restaurant Sigiriya,Restaurant Sigiriya,0,弗里德里希,0.0,0.0,0.0
+更多美食,Milch & Zucker,Milch & Zucker,0,弗里德里希,0.0,0.0,0.0
+更多美食,Goodies Berlin,Goodies Berlin,0,弗里德里希,0.0,0.0,0.0
+更多美食,Bierhof Rudersdorf,Bierhof Rudersdorf,0,弗里德里希,0.0,0.0,0.0
+更多美食,Kreuzburger,Kreuzburger,0,弗里德里希,0.0,0.0,0.0
+更多美食,Currybox,Currybox,0,弗里德里希,0.0,0.0,0.0
+更多美食,Mirsham,Mirsham,0,弗里德里希,0.0,0.0,0.0
+更多美食,deseo Restaurant*Cocktailbar,deseo Restaurant*Cocktailbar,0,弗里德里希,0.0,0.0,0.0
+更多美食,Don Sushi,Don Sushi,0,弗里德里希,0.0,0.0,0.0
+更多美食,Ristorante Mona Lisa,Ristorante Mona Lisa,0,弗里德里希,0.0,0.0,0.0
+更多美食,Cafe Tasso,Cafe Tasso,0,弗里德里希,0.0,0.0,0.0
+更多美食,maru,maru,0,弗里德里希,0.0,0.0,0.0
+更多美食,Kos-House,Kos-House,0,弗里德里希,0.0,0.0,0.0
+更多美食,Waterlily,Waterlily,0,弗里德里希,0.0,0.0,0.0
+更多美食,Cafe Mocca,Cafe Mocca,0,弗里德里希,0.0,0.0,0.0
+更多美食,Schalander Hausbrauerei Berlin,Schalander Hausbrauerei Berlin,0,弗里德里希,0.0,0.0,0.0
+更多美食,Anastasia,Anastasia,0,弗里德里希,0.0,0.0,0.0
+更多美食,Cafe ,Cafe ,0,弗里德里希,0.0,0.0,0.0
+更多美食,Kino Tilsiter Lichtspiele - Programmkino & Kneipe,Kino Tilsiter Lichtspiele - Programmkino & Kneipe,0,弗里德里希,0.0,0.0,0.0
+更多美食,Pomodorino,Pomodorino,0,弗里德里希,0.0,0.0,0.0
+更多美食,Furama,Furama,0,弗里德里希,0.0,0.0,0.0
+更多美食,Speisegaststatte PILA,Speisegaststatte PILA,0,弗里德里希,0.0,0.0,0.0
+更多美食,Restaurant Schoenbrunn,Restaurant Schoenbrunn,0,弗里德里希,0.0,0.0,0.0
+更多美食,Il Pane e le Rose,Il Pane e le Rose,0,弗里德里希,0.0,0.0,0.0
+更多美食,Wernesgruner Bierstube,Wernesgruner Bierstube,0,柏林利希滕贝格,0.0,0.0,0.0
+更多美食,Nadia und Kosta,Nadia und Kosta,0,柏林利希滕贝格,0.0,0.0,0.0
+更多美食,Friedrichsfelde,Friedrichsfelde,0,柏林利希滕贝格,0.0,0.0,0.0
+更多美食,Restaurant Dicke Paula,Restaurant Dicke Paula,0,柏林利希滕贝格,0.0,0.0,0.0
+更多美食,Moeve Im Felsenkeller,Moeve Im Felsenkeller,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Ristorante Pascoli,Ristorante Pascoli,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Cadadia,Cadadia,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Ko Phai,Ko Phai,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Al Mulino,Al Mulino,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Rikes Gasthaus,Rikes Gasthaus,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Baekes,Baekes,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,La Fontaine,La Fontaine,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Asador,Asador,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,La Malga,La Malga,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Mademoiselle choco,Mademoiselle choco,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Fratelli Heinz & Josef,Fratelli Heinz & Josef,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Diversi,Diversi,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,La Favorita,La Favorita,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Daniele,Daniele,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Amar,Amar,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Zur Bratpfanne,Zur Bratpfanne,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Sida,Sida,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Thai Restaurant Mai Phai,Thai Restaurant Mai Phai,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Baguette Berlin,Baguette Berlin,0,新克尔恩,0.0,0.0,0.0
+更多美食,Tung Long,Tung Long,0,新克尔恩,0.0,0.0,0.0
+更多美食,Dolly,Dolly,0,新克尔恩,0.0,0.0,0.0
+更多美食,Bondi,Bondi,0,新克尔恩,0.0,0.0,0.0
+更多美食,Habibi,Habibi,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Al Tavolaccio,Al Tavolaccio,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Mizzio's,Mizzio's,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Geist im Glas,Geist im Glas,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Brezel Company,Brezel Company,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Deja vu,Deja vu,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Remise No. 1,Remise No. 1,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Koenig 19,Koenig 19,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Restaurant Attila,Restaurant Attila,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Loislane Cafe & Bar,Loislane Cafe & Bar,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Feuerbach,Feuerbach,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Biertempel 2,Biertempel 2,0,滕珀尔霍夫,0.0,0.0,0.0
+更多美食,Schiller-Klause,Schiller-Klause,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多美食,Rhodos,Rhodos,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多美食,La Riviera,La Riviera,0,施潘道,0.0,0.0,0.0
+更多美食,Arcino,Arcino,0,施潘道,0.0,0.0,0.0
+更多美食,G7 Inh. Monika Drechsler,G7 Inh. Monika Drechsler,0,施潘道,0.0,0.0,0.0
+更多美食,Dioklecijan Split,Dioklecijan Split,0,施潘道,0.0,0.0,0.0
+更多美食,Dalmacija Grill,Dalmacija Grill,0,施潘道,0.0,0.0,0.0
+更多美食,Mamma Mia,Mamma Mia,0,施潘道,0.0,0.0,0.0
+更多美食,Bohmerland,Bohmerland,0,施潘道,0.0,0.0,0.0
+更多美食,Schutzenhof,Schutzenhof,0,施潘道,0.0,0.0,0.0
+更多美食,Ristorante Siena,Ristorante Siena,0,潘科,0.0,0.0,0.0
+更多美食,Restaurant Ypsilon,Restaurant Ypsilon,0,潘科,0.0,0.0,0.0
+更多美食,Nemesis,Nemesis,0,潘科,0.0,0.0,0.0
+更多美食,La Casserole,La Casserole,0,潘科,0.0,0.0,0.0
+更多美食,Sisal,Sisal,0,潘科,0.0,0.0,0.0
+更多美食,atti's cafe,atti's cafe,0,韦丁,0.0,0.0,0.0
+更多美食,Mykonos,Mykonos,0,克珀尼克,0.0,0.0,0.0
+更多美食,"Zur alten Laterne,","Zur alten Laterne,",0,克珀尼克,0.0,0.0,0.0
+更多美食,Mauna Kea,Mauna Kea,0,克珀尼克,0.0,0.0,0.0
+更多美食,Ristorante Rossini,Ristorante Rossini,0,马察恩,0.0,0.0,0.0
+更多美食,Spreestern,Spreestern,0,马察恩,0.0,0.0,0.0
+更多美食,Krasselts Curry und Scampi,Krasselts Curry und Scampi,0,,0.0,0.0,0.0
+更多美食,Wiener Conditorei Caffeehaus Betriebs GmbH,Wiener Conditorei Caffeehaus Betriebs GmbH,0,,0.0,0.0,0.0
+更多美食,Trattoria Vale un Peccato,Trattoria Vale un Peccato,0,,0.0,0.0,0.0
+更多美食,Mesa,Mesa,0,,0.0,0.0,0.0
+更多美食,Tulum Mexikanisches Restaurant,Tulum Mexikanisches Restaurant,0,,0.0,0.0,0.0
+更多美食,Fruhsammers Restaurant,Fruhsammers Restaurant,0,,0.0,0.0,0.0
+更多美食,Wiener Am Hagenplatz,Wiener Am Hagenplatz,0,,0.0,0.0,0.0
+更多美食,La Cenetta,La Cenetta,0,,0.0,0.0,0.0
+更多美食,St. Michaels Restaurant,St. Michaels Restaurant,0,,0.0,0.0,0.0
+更多美食,Friends Cocktailbar,Friends Cocktailbar,0,,0.0,0.0,0.0
+更多美食,Pusteblume,Pusteblume,0,,0.0,0.0,0.0
+更多美食,Sushi Berlin,Sushi Berlin,0,,0.0,0.0,0.0
+更多美食,Garcon,Garcon,0,,0.0,0.0,0.0
+更多美食,Nea Knosso,Nea Knosso,0,,0.0,0.0,0.0
+更多美食,Paracas,Paracas,0,,0.0,0.0,0.0
+更多美食,Witwe Bolte,Witwe Bolte,0,,0.0,0.0,0.0
+更多美食,Osteria da Elena,Osteria da Elena,0,,0.0,0.0,0.0
+更多美食,Nikos Restaurant,Nikos Restaurant,0,,0.0,0.0,0.0
+更多美食,Kochkunst-Ereignisse Markus Semmler,Kochkunst-Ereignisse Markus Semmler,0,,0.0,0.0,0.0
+更多美食,RicoFalafel,RicoFalafel,0,,0.0,0.0,0.0
+更多美食,Restaurante Serrano,Restaurante Serrano,0,,0.0,0.0,0.0
+更多美食,La Vigna,La Vigna,0,,0.0,0.0,0.0
+更多美食,Besenwirtschaft,Besenwirtschaft,0,,0.0,0.0,0.0
+更多美食,Zum Seidel-Wirt,Zum Seidel-Wirt,0,,0.0,0.0,0.0
+更多美食,Balthazar,Balthazar,0,,0.0,0.0,0.0
+更多美食,Pane e Pomodoro,Pane e Pomodoro,0,,0.0,0.0,0.0
+更多美食,Maranello,Maranello,0,,0.0,0.0,0.0
+更多美食,Factory Restaurant & Bar,Factory Restaurant & Bar,0,,0.0,0.0,0.0
+更多美食,Levante,Levante,0,,0.0,0.0,0.0
+更多美食,Restaurant Il Castello,Restaurant Il Castello,0,,0.0,0.0,0.0
+更多美食,Restaurantschiff Alte Liebe Ihb. Angelika Ludicke,Restaurantschiff Alte Liebe Ihb. Angelika Ludicke,0,,0.0,0.0,0.0
+更多美食,s'Braetle,s'Braetle,0,,0.0,0.0,0.0
+更多美食,Kurpfalz-Weinstuben,Kurpfalz-Weinstuben,0,,0.0,0.0,0.0
+更多美食,Carisma Bakery,Carisma Bakery,0,,0.0,0.0,0.0
+更多美食,Imbissbetrieb Klaus Bier,Imbissbetrieb Klaus Bier,0,,0.0,0.0,0.0
+更多美食,Die Nussbaumerin,Die Nussbaumerin,0,,0.0,0.0,0.0
+更多美食,Assafir,Assafir,0,,0.0,0.0,0.0
+更多美食,Cafe K,Cafe K,0,,0.0,0.0,0.0
+更多美食,Miss Hanoi,Miss Hanoi,0,,0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,,0.0,0.0,0.0
+更多美食,AbsetzBar,AbsetzBar,0,,0.0,0.0,0.0
+更多美食,La Bottarga,La Bottarga,0,,0.0,0.0,0.0
+更多美食,La Marianna,La Marianna,0,舍讷贝格,0.0,0.0,0.0
+更多美食,La Mariana Ristorant in Berliin Steglitz,La Mariana Ristorant in Berliin Steglitz,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Lindners Restaurant,Lindners Restaurant,0,舍讷贝格,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,舍讷贝格,0.0,0.0,0.0
+更多美食,SEOUL-KWAN Koreanisches Restaurant,SEOUL-KWAN Koreanisches Restaurant,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Achilles Taverna,Achilles Taverna,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Trattoria Del Corso,Trattoria Del Corso,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Resonanz,Resonanz,0,舍讷贝格,0.0,0.0,0.0
+更多美食,ARGENTINO Arg.Steakhaus,ARGENTINO Arg.Steakhaus,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Renger-Patzsch Restaurant,Renger-Patzsch Restaurant,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Leuchtturm,Leuchtturm,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Robbengatter,Robbengatter,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Ferdinand,Ferdinand,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Restaurant Varadero kubanische Spezialitaten,Restaurant Varadero kubanische Spezialitaten,0,舍讷贝格,0.0,0.0,0.0
+更多美食,N.N. Train Cocktail Bar,N.N. Train Cocktail Bar,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Abissinia,Abissinia,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Chichikan,Chichikan,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Chi Chi Kan,Chi Chi Kan,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Bar Tolucci,Bar Tolucci,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Zum Topfgucker,Zum Topfgucker,0,舍讷贝格,0.0,0.0,0.0
+更多美食,China Club,China Club,0,舍讷贝格,0.0,0.0,0.0
+更多美食,honeypenny,honeypenny,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Raststatte Gnadenbrot,Raststatte Gnadenbrot,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Sissi - Osterreichisches Gasthaus,Sissi - Osterreichisches Gasthaus,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Boussi Falafel,Boussi Falafel,0,舍讷贝格,0.0,0.0,0.0
+更多美食,La Soupe Populaire,La Soupe Populaire,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Momos,Momos,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Minh Quang,Minh Quang,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Metzer Eck,Metzer Eck,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Lucky Leek,Lucky Leek,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Cafe am Wasserturm,Cafe am Wasserturm,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Haus Bar,Haus Bar,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Cafe Slorm,Cafe Slorm,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,NO FIRE NO GLORY,NO FIRE NO GLORY,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Osteria Fiorello,Osteria Fiorello,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Mena,Mena,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Bogus,Bogus,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Cafe Anna Blume,Cafe Anna Blume,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Queso y Jamon,Queso y Jamon,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Savanna,Savanna,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Ars Vini I,Ars Vini I,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Duy Thai,Duy Thai,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Joey's Pizza Service,Joey's Pizza Service,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Entwederoder,Entwederoder,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Kauf dich glucklich,Kauf dich glucklich,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Huftengold,Huftengold,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Bonanza Coffee Heroes,Bonanza Coffee Heroes,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Suppe & Salat,Suppe & Salat,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Pizza Nostra,Pizza Nostra,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Ristorantino Cotto e Crudo,Ristorantino Cotto e Crudo,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Al Hamra,Al Hamra,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,asian deli,asian deli,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Lo Sgranocchio,Lo Sgranocchio,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Speiches Rock- & Blueskneipe,Speiches Rock- & Blueskneipe,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Thuringer Stuben,Thuringer Stuben,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Zur Haxe,Zur Haxe,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Beakers,Beakers,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Pizza Zia Maria,Pizza Zia Maria,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Der Fischladen Thomas Forcher,Der Fischladen Thomas Forcher,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Tapitas,Tapitas,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Duc Tam Quan,Duc Tam Quan,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Schwalbe,Schwalbe,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Onkel Ho,Onkel Ho,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Van Hoa,Van Hoa,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Jalla Jalla Inh. Nabil Iraki,Jalla Jalla Inh. Nabil Iraki,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Russisches Cafe Voland,Russisches Cafe Voland,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Cafe Saluti Da Berlino,Cafe Saluti Da Berlino,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Zum Bayernmichel,Zum Bayernmichel,0,普伦茨劳贝格,0.0,0.0,0.0
+更多美食,Restaurant Z,Restaurant Z,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Masaniello,Masaniello,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Brezel Bar,Brezel Bar,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,REDSdeli,REDSdeli,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Cafe do Brasil,Cafe do Brasil,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,cube,cube,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,madchen ohne abitur,madchen ohne abitur,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Merle's Roti & Rum,Merle's Roti & Rum,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Volt,Volt,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Schrotti's Inn,Schrotti's Inn,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,45,45,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Viasko,Viasko,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Grand Ma's,Grand Ma's,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Rissani,Rissani,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Sadhu,Sadhu,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Buddha's Kitchen,Buddha's Kitchen,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Alt-Spandau,Alt-Spandau,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,|Amrit Restaurant || Berlin Kreuzberg|,|Amrit Restaurant || Berlin Kreuzberg|,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,1001 Falafel,1001 Falafel,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,cream,cream,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Café Jenseits,Café Jenseits,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Cafe V,Cafe V,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Maroush,Maroush,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,RosaCaleta,RosaCaleta,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Chez Michel,Chez Michel,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Zur Kleinen Markthalle,Zur Kleinen Markthalle,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Coffee Box,Coffee Box,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Maultaschle,Maultaschle,0,克罗伊茨贝格,0.0,0.0,0.0
+更多美食,Sophienclub,Sophienclub,0,,0.0,0.0,0.0
+更多美食,La Foresta,La Foresta,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Haus Sanssouci,Haus Sanssouci,0,斯德格丽兹/扎伦多夫,0.0,0.0,0.0
+更多美食,Oktogon Fusion Restaurant,Oktogon Fusion Restaurant,0,,0.0,0.0,0.0
+更多美食,Lagano,Lagano,0,,0.0,0.0,0.0
+更多美食,Eosander,Eosander,0,,0.0,0.0,0.0
+更多美食,Ristorante-Pizzeria Allegro - Inh. Kamel Mamoghli,Ristorante-Pizzeria Allegro - Inh. Kamel Mamoghli,0,,0.0,0.0,0.0
+更多美食,Postkutsche,Postkutsche,0,,0.0,0.0,0.0
+更多美食,Zum Bohnsdorfer Eck,Zum Bohnsdorfer Eck,0,柏林机场-舍讷费尔德,0.0,0.0,0.0
+更多美食,Ick koof mir Dave Lombardo wenn ick reich bin,Ick koof mir Dave Lombardo wenn ick reich bin,0,,0.0,0.0,0.0
+更多美食,Sofram,Sofram,0,舍讷贝格,0.0,0.0,0.0
+更多美食,Pizza Hut,Pizza Hut,0,韦丁,0.0,0.0,0.0
+更多美食,teichterrasse,teichterrasse,0,,0.0,0.0,0.0
+更多美食,Zanetti Eis,Zanetti Eis,0,,0.0,0.0,0.0
+更多美食,Bistro Vital,Bistro Vital,0,,0.0,0.0,0.0
+更多美食,Barbizon,Barbizon,0,,0.0,0.0,0.0
+更多美食,Curry und mehr,Curry und mehr,0,,0.0,0.0,0.0
+更多美食,Elements,Elements,0,蒂尔加滕,0.0,0.0,0.0
+更多美食,Ferri's Restaurant,Ferri's Restaurant,0,,0.0,0.0,0.0
+更多美食,Hefner,Hefner,0,,0.0,0.0,0.0
+更多美食,Shan Rahimkhan-- Cafe Am Gendarmenmarkt,Shan Rahimkhan-- Cafe Am Gendarmenmarkt,0,,0.0,0.0,0.0
+更多美食,Aspendos,Aspendos,0,,0.0,0.0,0.0
+更多美食,Lekkamokka,Lekkamokka,0,,0.0,0.0,0.0
+更多美食,Parker Bowles,Parker Bowles,0,,0.0,0.0,0.0
+更多美食,Fast Rabbit Fast Food,Fast Rabbit Fast Food,0,,0.0,0.0,0.0
+更多美食,Karstadt Fish Restaurant in Basement,Karstadt Fish Restaurant in Basement,0,,0.0,0.0,0.0
+更多美食,Bit stop europacenter,Bit stop europacenter,0,,0.0,0.0,0.0
+更多美食,Ali Baba,Ali Baba,0,,0.0,0.0,0.0
+更多美食,Akropolis Taverna Gregorius Antonakopoulos,Akropolis Taverna Gregorius Antonakopoulos,0,,0.0,0.0,0.0
+更多美食,Trattoria Rossi,Trattoria Rossi,0,,0.0,0.0,0.0
+更多美食,Eiscafe Schmidt,Eiscafe Schmidt,0,,0.0,0.0,0.0
+更多美食,Lutter und Wegner,Lutter und Wegner,0,,0.0,0.0,0.0
+更多美食,Mimino Royal,Mimino Royal,0,,0.0,0.0,0.0
+更多美食,Winklers,Winklers,0,,0.0,0.0,0.0
+更多美食,Gasthaus Lenz,Gasthaus Lenz,0,,0.0,0.0,0.0
+更多美食,Salumeria da Pino,Salumeria da Pino,0,,0.0,0.0,0.0
+更多美食,George's Restaurant u. Bierkontor,George's Restaurant u. Bierkontor,0,,0.0,0.0,0.0
+更多美食,The Quasimodo-Cafe,The Quasimodo-Cafe,0,,0.0,0.0,0.0
+更多美食,Phonguyen 68,Phonguyen 68,0,,0.0,0.0,0.0
+更多美食,DONG LEI SCHOEN,DONG LEI SCHOEN,0,,0.0,0.0,0.0
+更多美食,Come 2 Eat,Come 2 Eat,0,,0.0,0.0,0.0
+更多美食,Kuchi,Kuchi,0,,0.0,0.0,0.0
+更多美食,La Forneria,La Forneria,0,,0.0,0.0,0.0
+更多美食,Curry Baude,Curry Baude,0,,0.0,0.0,0.0
+更多美食,Restaurant Mylos,Restaurant Mylos,0,,0.0,0.0,0.0
+更多美食,Nordsee,Nordsee,0,,0.0,0.0,0.0
+更多美食,FURUSATO,FURUSATO,0,,0.0,0.0,0.0
+更多美食,Minh-Trang,Minh-Trang,0,,0.0,0.0,0.0
+更多美食,Cafe Kredenz,Cafe Kredenz,0,,0.0,0.0,0.0
+更多美食,Tiroler Bauernstuben,Tiroler Bauernstuben,0,,0.0,0.0,0.0
+更多美食,La Batea,La Batea,0,,0.0,0.0,0.0
+更多美食,Maremoto,Maremoto,0,,0.0,0.0,0.0
+更多美食,Bond,Bond,0,,0.0,0.0,0.0
+更多美食,Filmbuhne am Steinplatz,Filmbuhne am Steinplatz,0,,0.0,0.0,0.0
+更多美食,FBI Eatery,FBI Eatery,0,,0.0,0.0,0.0
+更多美食,Schweighofer's Weinstube Heuriger,Schweighofer's Weinstube Heuriger,0,,0.0,0.0,0.0
+更多美食,Courtyard by Marriott Berlin-Mitte,Courtyard by Marriott Berlin-Mitte,0,,0.0,0.0,0.0
+更多美食,Preussisches Landwirtshaus,Preussisches Landwirtshaus,0,,0.0,0.0,0.0
+更多美食,Spitteleck,Spitteleck,0,,0.0,0.0,0.0
+更多美食,La Spiga,La Spiga,0,,0.0,0.0,0.0
+更多美食,Thurmann Cafe,Thurmann Cafe,0,,0.0,0.0,0.0
+更多美食,Scent,Scent,0,,0.0,0.0,0.0
+更多美食,rdo Restaurant Deutsche Oper Berlin,rdo Restaurant Deutsche Oper Berlin,0,,0.0,0.0,0.0
+更多美食,Mittmann Restaurant,Mittmann Restaurant,0,,0.0,0.0,0.0
+更多美食,Gasthaus Johann Stelzeneder,Gasthaus Johann Stelzeneder,0,,0.0,0.0,0.0
+更多美食,Trattoria Toscana,Trattoria Toscana,0,,0.0,0.0,0.0
+更多美食,Marinehaus,Marinehaus,0,,0.0,0.0,0.0
+更多美食,Relish Restaurant & Bar,Relish Restaurant & Bar,0,,0.0,0.0,0.0
+更多美食,Restaurant Wendel,Restaurant Wendel,0,,0.0,0.0,0.0
+更多美食,Marcellino,Marcellino,0,,0.0,0.0,0.0
+更多美食,Schlossrestaurant Lietzenburg,Schlossrestaurant Lietzenburg,0,,0.0,0.0,0.0
+更多美食,Tigertortchen,Tigertortchen,0,,0.0,0.0,0.0
+更多美食,DDR-Restaurant Domklause,DDR-Restaurant Domklause,0,,0.0,0.0,0.0
+更多美食,Little Tokyo,Little Tokyo,0,,0.0,0.0,0.0
+更多美食,Crepes & Ragout / FroYoCake,Crepes & Ragout / FroYoCake,0,,0.0,0.0,0.0
+更多美食,Subway,Subway,0,,0.0,0.0,0.0
+更多美食,Pergamonkeller,Pergamonkeller,0,,0.0,0.0,0.0
+更多美食,.HBC,.HBC,0,,0.0,0.0,0.0
+更多美食,Berliner Ensemble Kantine,Berliner Ensemble Kantine,0,,0.0,0.0,0.0
+更多美食,Dinea Restaurant Berlin,Dinea Restaurant Berlin,0,,0.0,0.0,0.0
+更多美食,Friedrichs 106,Friedrichs 106,0,,0.0,0.0,0.0
+更多美食,Alto,Alto,0,,0.0,0.0,0.0
+更多美食,Aposto,Aposto,0,,0.0,0.0,0.0
+更多美食,Barist,Barist,0,,0.0,0.0,0.0
+更多美食,Olla Grill & Orient Lounge,Olla Grill & Orient Lounge,0,,0.0,0.0,0.0
+更多美食,Hasir - Mitte,Hasir - Mitte,0,,0.0,0.0,0.0
+更多美食,Escados Steakhouse,Escados Steakhouse,0,,0.0,0.0,0.0
+更多美食,All in One,All in One,0,,0.0,0.0,0.0
+更多美食,"Eschloraque, Rumschrump","Eschloraque, Rumschrump",0,,0.0,0.0,0.0

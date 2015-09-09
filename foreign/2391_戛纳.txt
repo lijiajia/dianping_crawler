@@ -1,0 +1,530 @@
+咖啡厅,Cafe manuel,Cafe manuel,0,,0.0,0.0,0.0
+咖啡厅,Caffe Lalu,Caffe Lalu,0,戛纳,0.0,0.0,0.0
+咖啡厅,L'Epicurieux,L'Epicurieux,0,戛纳,0.0,0.0,0.0
+咖啡厅,Club & co Café,Club & co Café,0,戛纳,0.0,0.0,0.0
+咖啡厅,Seas'On,Seas'On,0,戛纳,0.0,0.0,0.0
+咖啡厅,Choco Times,Choco Times,0,戛纳,0.0,0.0,0.0
+法国菜,Cannelle,Cannelle,0,戛纳,0.0,0.0,0.0
+法国菜,Sea Sens,Sea Sens,0,戛纳,0.0,0.0,0.0
+法国菜,Bistro Les Canailles,Bistro Les Canailles,0,戛纳,0.0,0.0,0.0
+法国菜,Le 38,Le 38,0,戛纳,0.0,0.0,0.0
+法国菜,Grill & Wines Cannes,Grill & Wines Cannes,0,戛纳,0.0,0.0,0.0
+法国菜,La Chaufferette,La Chaufferette,0,戛纳,0.0,0.0,0.0
+法国菜,La Table du Chef,La Table du Chef,0,戛纳,0.0,0.0,0.0
+法国菜,Carlton Restaurant,Carlton Restaurant,0,戛纳,0.0,0.0,0.0
+法国菜,Plage Royale,Plage Royale,0,戛纳,0.0,0.0,0.0
+法国菜,La Toque D'or,La Toque D'or,0,戛纳,0.0,0.0,0.0
+法国菜,L'assiette provencale,L'assiette provencale,0,,0.0,0.0,0.0
+法国菜,Mantel,Mantel,0,戛纳,0.0,0.0,0.0
+法国菜,Assiette,Assiette,0,戛纳,0.0,0.0,0.0
+法国菜,Astoux et Cie Brun,Astoux et Cie Brun,0,戛纳,0.0,0.0,0.0
+法国菜,Au Martin Pecheur,Au Martin Pecheur,0,戛纳,0.0,0.0,0.0
+法国菜,The Legend,The Legend,0,戛纳,0.0,0.0,0.0
+法国菜,Le Switch,Le Switch,0,戛纳,0.0,0.0,0.0
+法国菜,Crepperie de la Croisette,Crepperie de la Croisette,0,戛纳,0.0,0.0,0.0
+法国菜,La Cabane,La Cabane,0,戛纳,0.0,0.0,0.0
+法国菜,Cafe Lenotre,Cafe Lenotre,0,戛纳,0.0,0.0,0.0
+法国菜,Eurest France,Eurest France,0,戛纳其他,0.0,0.0,0.0
+法国菜,Sous le Soleil Exactement,Sous le Soleil Exactement,0,戛纳,0.0,0.0,0.0
+法国菜,Tapis Rouge,Tapis Rouge,0,戛纳,0.0,0.0,0.0
+法国菜,"L'heure Gourmande, ","L'heure Gourmande, ",0,戛纳,0.0,0.0,0.0
+法国菜,"Le cafe bleu, residence cannes verrerie","Le cafe bleu, residence cannes verrerie",0,戛纳其他,0.0,0.0,0.0
+法国菜,L'Affable,L'Affable,0,戛纳,0.0,0.0,0.0
+法国菜,Aux P'tits Anges,Aux P'tits Anges,0,戛纳,0.0,0.0,0.0
+法国菜,Couby's Café,Couby's Café,0,戛纳,0.0,0.0,0.0
+法国菜,le Comptoir Des Vins,le Comptoir Des Vins,0,戛纳,0.0,0.0,0.0
+法国菜,Le Maschou,Le Maschou,0,戛纳,0.0,0.0,0.0
+法国菜,Le Bistrot Gourmand,Le Bistrot Gourmand,0,戛纳,0.0,0.0,0.0
+法国菜,Cave Ets Vallauri,Cave Ets Vallauri,0,戛纳,0.0,0.0,0.0
+法国菜,Le 7 Place,Le 7 Place,0,戛纳,0.0,0.0,0.0
+法国菜,La Meissouniere,La Meissouniere,0,戛纳,0.0,0.0,0.0
+法国菜,Le Petit Paris,Le Petit Paris,0,戛纳,0.0,0.0,0.0
+法国菜,Caviar House,Caviar House,0,戛纳,0.0,0.0,0.0
+法国菜,Le Relais du Martinez,Le Relais du Martinez,0,戛纳,0.0,0.0,0.0
+法国菜,Riviera Beach,Riviera Beach,0,戛纳,0.0,0.0,0.0
+法国菜,Le Mesclun,Le Mesclun,0,戛纳,0.0,0.0,0.0
+法国菜,Le cirque,Le cirque,0,戛纳,0.0,0.0,0.0
+法国菜,Plage les Dunes,Plage les Dunes,0,戛纳,0.0,0.0,0.0
+法国菜,Chez Thérèse,Chez Thérèse,0,戛纳,0.0,0.0,0.0
+法国菜,Le Mocca,Le Mocca,0,戛纳,0.0,0.0,0.0
+法国菜,Opinel Bernard,Opinel Bernard,0,戛纳,0.0,0.0,0.0
+法国菜,Brasserie Cannoise,Brasserie Cannoise,0,戛纳,0.0,0.0,0.0
+法国菜,Hotel Le Cristal,Hotel Le Cristal,0,戛纳,0.0,0.0,0.0
+法国菜,Lips,Lips,0,戛纳,0.0,0.0,0.0
+法国菜,Le Bistrot du Quatre,Le Bistrot du Quatre,0,戛纳,0.0,0.0,0.0
+法国菜,Restaurant de l'Etoile,Restaurant de l'Etoile,0,戛纳其他,0.0,0.0,0.0
+法国菜,Le Comptoir de la Mer,Le Comptoir de la Mer,0,戛纳,0.0,0.0,0.0
+法国菜,Plage Croisette Beach,Plage Croisette Beach,0,戛纳,0.0,0.0,0.0
+法国菜,Au Riche-Lieu,Au Riche-Lieu,0,戛纳,0.0,0.0,0.0
+法国菜,Babord & Tribord,Babord & Tribord,0,戛纳,0.0,0.0,0.0
+法国菜,Bay Cafe,Bay Cafe,0,戛纳,0.0,0.0,0.0
+法国菜,Blue Beach,Blue Beach,0,戛纳,0.0,0.0,0.0
+法国菜,Couleurs caraibes restaurant glacier,Couleurs caraibes restaurant glacier,0,戛纳,0.0,0.0,0.0
+法国菜,La Mome du Tapis Rouge,La Mome du Tapis Rouge,0,戛纳,0.0,0.0,0.0
+法国菜,Philcat,Philcat,0,戛纳,0.0,0.0,0.0
+法国菜,Le Petit Lardon,Le Petit Lardon,0,戛纳,0.0,0.0,0.0
+法国菜,L'Epicure,L'Epicure,0,戛纳,0.0,0.0,0.0
+法国菜,Creperie Bretonne,Creperie Bretonne,0,戛纳,0.0,0.0,0.0
+法国菜,Le Cosi,Le Cosi,0,戛纳,0.0,0.0,0.0
+法国菜,Restaurant L'Antidote Christophe Ferre,Restaurant L'Antidote Christophe Ferre,0,戛纳,0.0,0.0,0.0
+法国菜,Chez Sabrina & Stephane,Chez Sabrina & Stephane,0,戛纳,0.0,0.0,0.0
+法国菜,Latomium,Latomium,0,戛纳,0.0,0.0,0.0
+法国菜,La Cannoise des Cafes and des Thes,La Cannoise des Cafes and des Thes,0,戛纳,0.0,0.0,0.0
+法国菜,La Brasserie du Marche,La Brasserie du Marche,0,戛纳,0.0,0.0,0.0
+法国菜,Brouette de Grand-Mere,Brouette de Grand-Mere,0,戛纳,0.0,0.0,0.0
+法国菜,Le pot de vin,Le pot de vin,0,戛纳,0.0,0.0,0.0
+法国菜,Le Hit,Le Hit,0,戛纳,0.0,0.0,0.0
+法国菜,Luna Caffé,Luna Caffé,0,戛纳其他,0.0,0.0,0.0
+法国菜,Biffer,Biffer,0,戛纳其他,0.0,0.0,0.0
+法国菜,Le Bistrot des Toques,Le Bistrot des Toques,0,戛纳其他,0.0,0.0,0.0
+法国菜,La Petite Maison,La Petite Maison,0,,0.0,0.0,0.0
+法国菜,Le Duplex,Le Duplex,0,戛纳,0.0,0.0,0.0
+法国菜,Privilège,Privilège,0,戛纳,0.0,0.0,0.0
+法国菜,"Pizzicato, le","Pizzicato, le",0,戛纳,0.0,0.0,0.0
+法国菜,O'key Beach,O'key Beach,0,戛纳,0.0,0.0,0.0
+法国菜,Le pacifique,Le pacifique,0,戛纳,0.0,0.0,0.0
+法国菜,Grill House Restaurant,Grill House Restaurant,0,戛纳,0.0,0.0,0.0
+法国菜,Le Domino,Le Domino,0,戛纳,0.0,0.0,0.0
+法国菜,Mechant Loup,Mechant Loup,0,戛纳,0.0,0.0,0.0
+法国菜,La Farigoule,La Farigoule,0,戛纳,0.0,0.0,0.0
+法国菜,La Rotisserie,La Rotisserie,0,戛纳,0.0,0.0,0.0
+法国菜,La Galette de Marie,La Galette de Marie,0,戛纳,0.0,0.0,0.0
+法国菜,La Table Provencale,La Table Provencale,0,戛纳,0.0,0.0,0.0
+法国菜,L'Aparte,L'Aparte,0,戛纳,0.0,0.0,0.0
+法国菜,L'Ardoise,L'Ardoise,0,戛纳,0.0,0.0,0.0
+法国菜,Lenotre,Lenotre,0,戛纳,0.0,0.0,0.0
+法国菜,Pausa Café,Pausa Café,0,戛纳,0.0,0.0,0.0
+法国菜,Xavier La Pizzaiola,Xavier La Pizzaiola,0,戛纳,0.0,0.0,0.0
+法国菜,6 Boulevard,6 Boulevard,0,戛纳,0.0,0.0,0.0
+法国菜,Restaurant Au Petit Saint Jean,Restaurant Au Petit Saint Jean,0,戛纳,0.0,0.0,0.0
+法国菜,Michou,Michou,0,戛纳其他,0.0,0.0,0.0
+法国菜,La Pause,La Pause,0,戛纳其他,0.0,0.0,0.0
+法国菜,Le Babylon,Le Babylon,0,戛纳,0.0,0.0,0.0
+法国菜,Italian Caffe,Italian Caffe,0,戛纳,0.0,0.0,0.0
+法国菜,Au mal assis,Au mal assis,0,戛纳,0.0,0.0,0.0
+法国菜,Le 360,Le 360,0,戛纳,0.0,0.0,0.0
+法国菜,Le Relais des Semailles,Le Relais des Semailles,0,戛纳,0.0,0.0,0.0
+法国菜,Difredo,Difredo,0,戛纳,0.0,0.0,0.0
+法国菜,La Mere Besson,La Mere Besson,0,戛纳,0.0,0.0,0.0
+法国菜,Le porto,Le porto,0,戛纳,0.0,0.0,0.0
+法国菜,Bistro du Rendez-Vous,Bistro du Rendez-Vous,0,戛纳,0.0,0.0,0.0
+法国菜,Au Bureau,Au Bureau,0,戛纳,0.0,0.0,0.0
+法国菜,1929 Restaurant in Palm Beach Casino,1929 Restaurant in Palm Beach Casino,0,戛纳其他,0.0,0.0,0.0
+法国菜,Freesbea,Freesbea,0,戛纳其他,0.0,0.0,0.0
+法国菜,Bistrot de l'Etang,Bistrot de l'Etang,0,戛纳,0.0,0.0,0.0
+法国菜,La Brasserie,La Brasserie,0,戛纳,0.0,0.0,0.0
+法国菜,Le Moure Rouge,Le Moure Rouge,0,戛纳,0.0,0.0,0.0
+法国菜,Banana Blue,Banana Blue,0,戛纳,0.0,0.0,0.0
+法国菜,Le Festival,Le Festival,0,戛纳,0.0,0.0,0.0
+法国菜,Adriana Café,Adriana Café,0,戛纳,0.0,0.0,0.0
+法国菜,A La Maree,A La Maree,0,戛纳,0.0,0.0,0.0
+法国菜,Le Pastis,Le Pastis,0,戛纳,0.0,0.0,0.0
+法国菜,L'Annex,L'Annex,0,戛纳,0.0,0.0,0.0
+法国菜,Le Bistro Croisette,Le Bistro Croisette,0,戛纳,0.0,0.0,0.0
+法国菜,Brasserie le 29,Brasserie le 29,0,戛纳,0.0,0.0,0.0
+法国菜,Quai 55,Quai 55,0,戛纳,0.0,0.0,0.0
+法国菜,La Creperie,La Creperie,0,戛纳,0.0,0.0,0.0
+法国菜,Bijou Plage,Bijou Plage,0,戛纳,0.0,0.0,0.0
+法国菜,Les Sables d'Or,Les Sables d'Or,0,戛纳其他,0.0,0.0,0.0
+法国菜,Lorenzo - Pizzeria,Lorenzo - Pizzeria,0,戛纳其他,0.0,0.0,0.0
+法国菜,tantra,tantra,0,戛纳,0.0,0.0,0.0
+酒吧,Cote Jardin,Cote Jardin,0,戛纳,0.0,0.0,0.0
+酒吧,Fame,Fame,0,戛纳,0.0,0.0,0.0
+酒吧,Brasserie le Californie,Brasserie le Californie,0,戛纳,0.0,0.0,0.0
+酒吧,Morrisons Irish Pub,Morrisons Irish Pub,0,戛纳,0.0,0.0,0.0
+酒吧,Le Bar l'Amiral,Le Bar l'Amiral,0,戛纳,0.0,0.0,0.0
+酒吧,le Melting Pot,le Melting Pot,0,戛纳,0.0,0.0,0.0
+酒吧,No18 by Micka,No18 by Micka,0,戛纳,0.0,0.0,0.0
+酒吧,Le Crillon,Le Crillon,0,戛纳,0.0,0.0,0.0
+酒吧,Le Cercle Bar,Le Cercle Bar,0,戛纳,0.0,0.0,0.0
+酒吧,L'Angle,L'Angle,0,戛纳,0.0,0.0,0.0
+酒吧,Le Tube,Le Tube,0,戛纳,0.0,0.0,0.0
+酒吧,Cocoon,Cocoon,0,戛纳,0.0,0.0,0.0
+酒吧,Ô 2 Anges,Ô 2 Anges,0,戛纳,0.0,0.0,0.0
+酒吧,Morrisons Lounge,Morrisons Lounge,0,戛纳,0.0,0.0,0.0
+酒吧,La bulle doree,La bulle doree,0,戛纳,0.0,0.0,0.0
+酒吧,Le Vogue,Le Vogue,0,戛纳,0.0,0.0,0.0
+酒吧,Shiloh,Shiloh,0,戛纳,0.0,0.0,0.0
+酒吧,Le Bar a Vin,Le Bar a Vin,0,戛纳,0.0,0.0,0.0
+酒吧,le First Cafe Cannes,le First Cafe Cannes,0,戛纳,0.0,0.0,0.0
+酒吧,Gotha Club,Gotha Club,0,戛纳,0.0,0.0,0.0
+酒吧,Brasserie Le Sandra,Brasserie Le Sandra,0,戛纳,0.0,0.0,0.0
+酒吧,Quai 13,Quai 13,0,戛纳,0.0,0.0,0.0
+酒吧,Bistrot Margaux,Bistrot Margaux,0,戛纳,0.0,0.0,0.0
+酒吧,Petit Majestic,Petit Majestic,0,戛纳,0.0,0.0,0.0
+酒吧,Disco Le Sept,Disco Le Sept,0,戛纳,0.0,0.0,0.0
+酒吧,Le Romarin,Le Romarin,0,戛纳,0.0,0.0,0.0
+酒吧,La Baptistin,La Baptistin,0,戛纳其他,0.0,0.0,0.0
+意大利菜,Gastone Pizza Alla Pala,Gastone Pizza Alla Pala,0,戛纳,0.0,0.0,0.0
+意大利菜,Caffe Giulia,Caffe Giulia,0,戛纳其他,0.0,0.0,0.0
+意大利菜,Surtout Maison da Maurizia,Surtout Maison da Maurizia,0,戛纳,0.0,0.0,0.0
+意大利菜,Lenoa's Cafe,Lenoa's Cafe,0,戛纳,0.0,0.0,0.0
+意大利菜,Bellitalia,Bellitalia,0,戛纳,0.0,0.0,0.0
+意大利菜,"Salsamenteria di parma, cannes","Salsamenteria di parma, cannes",0,戛纳其他,0.0,0.0,0.0
+意大利菜,Da Mimmo,Da Mimmo,0,戛纳,0.0,0.0,0.0
+意大利菜,DAME Cafe,DAME Cafe,0,戛纳,0.0,0.0,0.0
+意大利菜,Paparazzi Pizza Al Taglio,Paparazzi Pizza Al Taglio,0,戛纳,0.0,0.0,0.0
+意大利菜,Barista Cannes,Barista Cannes,0,戛纳,0.0,0.0,0.0
+意大利菜,Zero zero,Zero zero,0,戛纳,0.0,0.0,0.0
+意大利菜,Da Stefano,Da Stefano,0,戛纳,0.0,0.0,0.0
+意大利菜,Il convivio,Il convivio,0,戛纳,0.0,0.0,0.0
+意大利菜,Punto Pasta,Punto Pasta,0,戛纳,0.0,0.0,0.0
+意大利菜,Arcimboldo,Arcimboldo,0,戛纳,0.0,0.0,0.0
+意大利菜,Ristorante Angolo Italiano,Ristorante Angolo Italiano,0,戛纳,0.0,0.0,0.0
+意大利菜,Le Melaudy,Le Melaudy,0,戛纳,0.0,0.0,0.0
+意大利菜,Ciro,Ciro,0,戛纳,0.0,0.0,0.0
+意大利菜,Salsarossa,Salsarossa,0,戛纳,0.0,0.0,0.0
+意大利菜,Maccheroni,Maccheroni,0,戛纳,0.0,0.0,0.0
+意大利菜,Cafe Boheme,Cafe Boheme,0,戛纳,0.0,0.0,0.0
+意大利菜,La boussole carree,La boussole carree,0,戛纳,0.0,0.0,0.0
+意大利菜,Da Laura,Da Laura,0,戛纳,0.0,0.0,0.0
+意大利菜,Il Viaggio,Il Viaggio,0,戛纳,0.0,0.0,0.0
+意大利菜,San Telmo,San Telmo,0,戛纳,0.0,0.0,0.0
+意大利菜,Casa Mia,Casa Mia,0,戛纳,0.0,0.0,0.0
+意大利菜,Gusti d'Italia,Gusti d'Italia,0,戛纳,0.0,0.0,0.0
+意大利菜,Cinquanta Caffe,Cinquanta Caffe,0,戛纳其他,0.0,0.0,0.0
+意大利菜,Il Gambero,Il Gambero,0,戛纳其他,0.0,0.0,0.0
+意大利菜,IX-Nove,IX-Nove,0,戛纳,0.0,0.0,0.0
+意大利菜,Au Poisson Grille,Au Poisson Grille,0,戛纳,0.0,0.0,0.0
+意大利菜,L'Andrea,L'Andrea,0,戛纳,0.0,0.0,0.0
+意大利菜,La Libera,La Libera,0,戛纳,0.0,0.0,0.0
+意大利菜,Il Girasole - Chez Franco,Il Girasole - Chez Franco,0,戛纳,0.0,0.0,0.0
+意大利菜,Diamond,Diamond,0,戛纳,0.0,0.0,0.0
+意大利菜,Marina Caffe,Marina Caffe,0,戛纳,0.0,0.0,0.0
+墨西哥菜,Le Saloon Pub,Le Saloon Pub,0,戛纳,0.0,0.0,0.0
+其他西餐,Mal Assis,Mal Assis,0,戛纳,0.0,0.0,0.0
+其他西餐,La Cigale Bistrot,La Cigale Bistrot,0,戛纳,0.0,0.0,0.0
+其他西餐,"Le Bouche a Oreille, Cannes","Le Bouche a Oreille, Cannes",0,戛纳,0.0,0.0,0.0
+其他西餐,El Regal,El Regal,0,戛纳,0.0,0.0,0.0
+其他西餐,"Royal Gray, le","Royal Gray, le",0,戛纳,0.0,0.0,0.0
+其他西餐,JW Grill Cannes,JW Grill Cannes,0,戛纳,0.0,0.0,0.0
+其他西餐,"Moule Rit, la","Moule Rit, la",0,戛纳,0.0,0.0,0.0
+其他西餐,La Palme d'Or,La Palme d'Or,0,戛纳,0.0,0.0,0.0
+其他西餐,La Petite Maison de Nicole,La Petite Maison de Nicole,0,戛纳,0.0,0.0,0.0
+其他西餐,Couby's Café,Couby's Café,0,戛纳,0.0,0.0,0.0
+其他西餐,O'happy,O'happy,0,戛纳,0.0,0.0,0.0
+其他西餐,le bivi,le bivi,0,戛纳,0.0,0.0,0.0
+其他西餐,Restaurant Plage Soleil,Restaurant Plage Soleil,0,戛纳,0.0,0.0,0.0
+其他西餐,"Mirabelle, la","Mirabelle, la",0,戛纳,0.0,0.0,0.0
+其他西餐,restaurant noun,restaurant noun,0,戛纳,0.0,0.0,0.0
+其他西餐,Plage l'Ondine,Plage l'Ondine,0,戛纳,0.0,0.0,0.0
+其他西餐,Restaurant ELBEY,Restaurant ELBEY,0,戛纳,0.0,0.0,0.0
+其他西餐,Snack Chez Vincent,Snack Chez Vincent,0,戛纳,0.0,0.0,0.0
+其他西餐,Oasis,Oasis,0,戛纳,0.0,0.0,0.0
+其他西餐,Le Jardin Secret,Le Jardin Secret,0,戛纳,0.0,0.0,0.0
+其他西餐,New Hoche,New Hoche,0,戛纳,0.0,0.0,0.0
+其他西餐,"Masque De Fer, le","Masque De Fer, le",0,戛纳其他,0.0,0.0,0.0
+其他西餐,3.14 Resto Bar Club,3.14 Resto Bar Club,0,戛纳,0.0,0.0,0.0
+其他西餐,Sos Pizza Poulet,Sos Pizza Poulet,0,戛纳,0.0,0.0,0.0
+其他西餐,L'armenien,L'armenien,0,戛纳,0.0,0.0,0.0
+其他西餐,Plage Belle PLage,Plage Belle PLage,0,戛纳,0.0,0.0,0.0
+其他西餐,"Manoir, le","Manoir, le",0,戛纳,0.0,0.0,0.0
+其他西餐,Oulivie,Oulivie,0,戛纳,0.0,0.0,0.0
+其他西餐,Le Fish and Chips Cannes,Le Fish and Chips Cannes,0,戛纳,0.0,0.0,0.0
+其他西餐,Club & co Café,Club & co Café,0,戛纳,0.0,0.0,0.0
+其他西餐,Restaurant Le 69 Garden,Restaurant Le 69 Garden,0,戛纳,0.0,0.0,0.0
+其他西餐,Baoli Beach Restaurant,Baoli Beach Restaurant,0,戛纳,0.0,0.0,0.0
+其他西餐,Chez Freddy,Chez Freddy,0,戛纳,0.0,0.0,0.0
+其他西餐,Roule Ma Moule,Roule Ma Moule,0,戛纳其他,0.0,0.0,0.0
+其他西餐,Fred L'Ecailler,Fred L'Ecailler,0,戛纳,0.0,0.0,0.0
+其他西餐,"72 Croisette, le","72 Croisette, le",0,戛纳,0.0,0.0,0.0
+其他西餐,Vegaluna,Vegaluna,0,戛纳,0.0,0.0,0.0
+其他西餐,"Voilier, le","Voilier, le",0,戛纳,0.0,0.0,0.0
+其他西餐,Papa Nino 2,Papa Nino 2,0,戛纳,0.0,0.0,0.0
+其他西餐,Gaston Gastounette,Gaston Gastounette,0,戛纳,0.0,0.0,0.0
+其他西餐,C Beach,C Beach,0,戛纳,0.0,0.0,0.0
+其他西餐,"Madeleine, le","Madeleine, le",0,戛纳,0.0,0.0,0.0
+其他西餐,La Sousta,La Sousta,0,戛纳,0.0,0.0,0.0
+其他西餐,La Fabrik,La Fabrik,0,戛纳,0.0,0.0,0.0
+其他西餐,Echiquier,Echiquier,0,戛纳,0.0,0.0,0.0
+其他西餐,Le Saint Antoine,Le Saint Antoine,0,戛纳,0.0,0.0,0.0
+其他西餐,Chez Vincent et Nicolas,Chez Vincent et Nicolas,0,戛纳,0.0,0.0,0.0
+其他西餐,Le Bistrot Du Suquet,Le Bistrot Du Suquet,0,戛纳,0.0,0.0,0.0
+其他西餐,"Ma Nolan's, Cannes","Ma Nolan's, Cannes",0,戛纳,0.0,0.0,0.0
+其他西餐,"Socca, la","Socca, la",0,戛纳,0.0,0.0,0.0
+其他西餐,L'Avion,L'Avion,0,戛纳,0.0,0.0,0.0
+其他西餐,Little Next Door,Little Next Door,0,戛纳,0.0,0.0,0.0
+其他西餐,La Fleur D'oranger,La Fleur D'oranger,0,戛纳,0.0,0.0,0.0
+其他西餐,"Cave, la","Cave, la",0,戛纳,0.0,0.0,0.0
+其他西餐,"Claire Fontaine, la","Claire Fontaine, la",0,戛纳,0.0,0.0,0.0
+其他西餐,"Dolce Vita, le","Dolce Vita, le",0,戛纳其他,0.0,0.0,0.0
+其他西餐,Aux Palmiers,Aux Palmiers,0,戛纳其他,0.0,0.0,0.0
+其他西餐,La Palmeraie,La Palmeraie,0,戛纳其他,0.0,0.0,0.0
+其他西餐,Los Faroles,Los Faroles,0,戛纳,0.0,0.0,0.0
+其他西餐,Gavroche,Gavroche,0,戛纳,0.0,0.0,0.0
+其他西餐,"Piazza, la","Piazza, la",0,戛纳,0.0,0.0,0.0
+其他西餐,Le Pacific Express,Le Pacific Express,0,戛纳,0.0,0.0,0.0
+其他西餐,Steak'n'Shake,Steak'n'Shake,0,戛纳,0.0,0.0,0.0
+其他西餐,"Bistrot Casanova, le","Bistrot Casanova, le",0,戛纳,0.0,0.0,0.0
+其他西餐,"Pacific, le","Pacific, le",0,戛纳,0.0,0.0,0.0
+其他西餐,The Tavern,The Tavern,0,戛纳,0.0,0.0,0.0
+其他西餐,Escale,Escale,0,戛纳其他,0.0,0.0,0.0
+其他西餐,La Guerite,La Guerite,0,戛纳其他,0.0,0.0,0.0
+其他西餐,Waikiki,Waikiki,0,戛纳其他,0.0,0.0,0.0
+其他西餐,"Chateau De La Tour, le","Chateau De La Tour, le",0,戛纳其他,0.0,0.0,0.0
+其他西餐,la tonnelle,la tonnelle,0,戛纳,0.0,0.0,0.0
+其他西餐,L'Ecrin Plage,L'Ecrin Plage,0,戛纳,0.0,0.0,0.0
+其他西餐,Cafedes,Cafedes,0,戛纳,0.0,0.0,0.0
+其他西餐,Restaurant L'Alhambra,Restaurant L'Alhambra,0,戛纳,0.0,0.0,0.0
+其他西餐,"Marais, le","Marais, le",0,戛纳,0.0,0.0,0.0
+其他西餐,Mio Cafe,Mio Cafe,0,戛纳,0.0,0.0,0.0
+其他西餐,Entrecote,Entrecote,0,戛纳,0.0,0.0,0.0
+其他西餐,Byron,Byron,0,戛纳,0.0,0.0,0.0
+其他西餐,Bar Tabac Le Meynadier,Bar Tabac Le Meynadier,0,戛纳,0.0,0.0,0.0
+其他西餐,Bacchouse,Bacchouse,0,戛纳,0.0,0.0,0.0
+其他西餐,Warm ' Up,Warm ' Up,0,戛纳其他,0.0,0.0,0.0
+其他西餐,"Jumelles, le","Jumelles, le",0,戛纳其他,0.0,0.0,0.0
+中餐,Le Jardin de Bambou,Le Jardin de Bambou,0,戛纳,0.0,0.0,0.0
+中餐,Salon de Gourmandises Intuitions By J.,Salon de Gourmandises Intuitions By J.,0,戛纳,0.0,0.0,0.0
+中餐,El Bodega del Havana,El Bodega del Havana,0,戛纳其他,6.7,6.7,6.7
+中餐,Le Bangkok,Le Bangkok,0,戛纳,0.0,0.0,0.0
+中餐,Le royal de chine,Le royal de chine,0,戛纳其他,0.0,0.0,0.0
+日韩料理,Wasabi d'Azur,Wasabi d'Azur,0,戛纳,0.0,0.0,0.0
+日韩料理,Tokyo,Tokyo,0,戛纳其他,0.0,0.0,0.0
+日韩料理,Wazakura,Wazakura,0,戛纳,0.0,0.0,0.0
+日韩料理,Sushi Kan,Sushi Kan,0,戛纳,0.0,0.0,0.0
+日韩料理,Cali Sushi,Cali Sushi,0,戛纳,0.0,0.0,0.0
+日韩料理,MiDaHe,MiDaHe,0,戛纳,0.0,0.0,0.0
+日韩料理,Master Sushi,Master Sushi,0,戛纳,0.0,0.0,0.0
+日韩料理,Le Carré des Sens,Le Carré des Sens,0,戛纳,0.0,0.0,0.0
+日韩料理,Sushi Ki,Sushi Ki,0,戛纳,0.0,0.0,0.0
+日韩料理,New Saigon,New Saigon,0,戛纳其他,0.0,0.0,0.0
+日韩料理,SushiKan Fly,SushiKan Fly,0,戛纳,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,戛纳,0.0,0.0,0.0
+快餐简餐,New York New York,New York New York,0,戛纳,0.0,0.0,0.0
+快餐简餐,Pat & Jo Cafe,Pat & Jo Cafe,0,戛纳,0.0,0.0,0.0
+快餐简餐,Saveurs du Chef,Saveurs du Chef,0,戛纳,0.0,0.0,0.0
+快餐简餐,Le XXIV,Le XXIV,0,戛纳,0.0,0.0,0.0
+快餐简餐,Au Bon Raviolis,Au Bon Raviolis,0,戛纳,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,戛纳其他,0.0,0.0,0.0
+快餐简餐,Balkan,Balkan,0,戛纳其他,0.0,0.0,0.0
+快餐简餐,JW Marriott,JW Marriott,0,戛纳,0.0,0.0,0.0
+快餐简餐,Le Salon des Independants,Le Salon des Independants,0,戛纳,0.0,0.0,0.0
+快餐简餐,Ernest Traiteur,Ernest Traiteur,0,戛纳,0.0,0.0,0.0
+快餐简餐,11 Carnot,11 Carnot,0,戛纳,0.0,0.0,0.0
+快餐简餐,Coffee & Cookies,Coffee & Cookies,0,戛纳,0.0,0.0,0.0
+快餐简餐,Coubi's,Coubi's,0,戛纳,0.0,0.0,0.0
+快餐简餐,L'instant gourmand,L'instant gourmand,0,戛纳,0.0,0.0,0.0
+快餐简餐,Brooklyn,Brooklyn,0,戛纳其他,0.0,0.0,0.0
+快餐简餐,Cafe Pico,Cafe Pico,0,戛纳其他,0.0,0.0,0.0
+快餐简餐,Restaurant Beef House,Restaurant Beef House,0,戛纳,0.0,0.0,0.0
+快餐简餐,Cocoon KF,Cocoon KF,0,戛纳,0.0,0.0,0.0
+快餐简餐,Mokka,Mokka,0,戛纳,0.0,0.0,0.0
+快餐简餐,Le Coffee,Le Coffee,0,戛纳,0.0,0.0,0.0
+快餐简餐,Belliard,Belliard,0,戛纳,0.0,0.0,0.0
+快餐简餐,Sequoia Cafe,Sequoia Cafe,0,戛纳其他,0.0,0.0,0.0
+更多亚洲菜,Asie Fast Food,Asie Fast Food,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Chez Mai,Chez Mai,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Sushi Time,Sushi Time,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Dong Nam,Dong Nam,0,戛纳其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant,Restaurant,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Le Jaipur,Le Jaipur,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Le Saigon,Le Saigon,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Specialites Le Jade,Specialites Le Jade,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Bosphore Kebab,Bosphore Kebab,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Xuan Le Printemps,Xuan Le Printemps,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Wok Inn,Wok Inn,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,La Plage,La Plage,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Restaurant Chez Heng,Restaurant Chez Heng,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,maharajah,maharajah,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Sushi by Nam,Sushi by Nam,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Zoa,Zoa,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Le comptoir de macao,Le comptoir de macao,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Délices Yang,Délices Yang,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Le Baoli,Le Baoli,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Restaurant Indien Ganesh,Restaurant Indien Ganesh,0,戛纳,0.0,0.0,0.0
+更多亚洲菜,Sri Vishnu,Sri Vishnu,0,戛纳,0.0,0.0,0.0
+海鲜,Chez Astoux,Chez Astoux,0,戛纳,0.0,0.0,0.0
+海鲜,La Cave Forville,La Cave Forville,0,戛纳,0.0,0.0,0.0
+海鲜,Coquillages Brun,Coquillages Brun,0,戛纳,0.0,0.0,0.0
+海鲜,Cave a Vins,Cave a Vins,0,戛纳,0.0,0.0,0.0
+海鲜,L' ANNEXE astoux et brun,L' ANNEXE astoux et brun,0,戛纳,0.0,0.0,0.0
+比萨,"Potiniere Du Palais, la","Potiniere Du Palais, la",0,戛纳,0.0,0.0,0.0
+比萨,Star di pizza,Star di pizza,0,戛纳,0.0,0.0,0.0
+比萨,Pizza Shop Cannes la Bocca,Pizza Shop Cannes la Bocca,0,戛纳其他,0.0,0.0,0.0
+比萨,Pizza Shop Cannes,Pizza Shop Cannes,0,戛纳,0.0,0.0,0.0
+面包甜点,Amorino Gelato,Amorino Gelato,0,戛纳,0.0,0.0,0.0
+面包甜点,Les Coquelicots,Les Coquelicots,0,戛纳,0.0,0.0,0.0
+面包甜点,Douce Folie,Douce Folie,0,戛纳,0.0,0.0,0.0
+面包甜点,Lux Cafe,Lux Cafe,0,戛纳,0.0,0.0,0.0
+面包甜点,Ristorante Pizzeria Gusto Italiano,Ristorante Pizzeria Gusto Italiano,0,戛纳其他,0.0,0.0,0.0
+面包甜点,Jean Luc Pele Patisserie,Jean Luc Pele Patisserie,0,戛纳,0.0,0.0,0.0
+面包甜点,Vilfeu,Vilfeu,0,戛纳,0.0,0.0,0.0
+面包甜点,La maison du chocolat cannes,La maison du chocolat cannes,0,戛纳,0.0,0.0,0.0
+面包甜点,Kiosque 29 - La Casa Blanca,Kiosque 29 - La Casa Blanca,0,戛纳其他,0.0,0.0,0.0
+面包甜点,Barbarac,Barbarac,0,戛纳,0.0,0.0,0.0
+面包甜点,La Maison Du Chocolat,La Maison Du Chocolat,0,戛纳,0.0,0.0,0.0
+其他美食,Caffe Roma,Caffe Roma,0,戛纳,0.0,0.0,0.0
+其他美食,Plage Goeland,Plage Goeland,0,戛纳,0.0,0.0,0.0
+其他美食,Solidor,Solidor,0,戛纳,0.0,0.0,0.0
+其他美食,Armani Caffe,Armani Caffe,0,戛纳,0.0,0.0,0.0
+其他美食,L'Espelette,L'Espelette,0,戛纳,0.0,0.0,0.0
+其他美食,Il Teatro,Il Teatro,0,戛纳,0.0,0.0,0.0
+其他美食,Le Restaurant Armenien,Le Restaurant Armenien,0,戛纳,0.0,0.0,0.0
+其他美食,Le Panorama Rooftop Bar,Le Panorama Rooftop Bar,0,戛纳,0.0,0.0,0.0
+其他美食,Private Beach Restaurant,Private Beach Restaurant,0,戛纳,0.0,0.0,0.0
+其他美食,Bar Majestic,Bar Majestic,0,戛纳,0.0,0.0,0.0
+其他美食,Itineraire Cafe,Itineraire Cafe,0,戛纳,0.0,0.0,0.0
+其他美食,"Scala, la","Scala, la",0,戛纳,0.0,0.0,0.0
+其他美食,Mahattan Food,Mahattan Food,0,戛纳,0.0,0.0,0.0
+其他美食,L'Amira,L'Amira,0,戛纳,0.0,0.0,0.0
+其他美食,"Triomphe, le","Triomphe, le",0,戛纳其他,0.0,0.0,0.0
+其他美食,Le Ksar,Le Ksar,0,戛纳,0.0,0.0,0.0
+其他美食,DA LAURA,DA LAURA,0,,0.0,0.0,0.0
+其他美食,Thien Phu,Thien Phu,0,戛纳,0.0,0.0,0.0
+其他美食,Le Beija Flor,Le Beija Flor,0,戛纳,0.0,0.0,0.0
+其他美食,Excel Foie Gras,Excel Foie Gras,0,戛纳,0.0,0.0,0.0
+其他美食,"Mediterranee, le","Mediterranee, le",0,戛纳,0.0,0.0,0.0
+其他美食,Amici,Amici,0,戛纳其他,0.0,0.0,0.0
+其他美食,Miramar Plage,Miramar Plage,0,戛纳,0.0,0.0,0.0
+其他美食,Auberge Provençale da Bouttau,Auberge Provençale da Bouttau,0,戛纳,0.0,0.0,0.0
+其他美食,LA PLAGE,LA PLAGE,0,,0.0,0.0,0.0
+其他美食,Restaurant Barocco,Restaurant Barocco,0,戛纳,0.0,0.0,0.0
+其他美食,Z Plage,Z Plage,0,戛纳,0.0,0.0,0.0
+其他美食,Le Pistou,Le Pistou,0,戛纳,0.0,0.0,0.0
+其他美食,Up Side Down,Up Side Down,0,戛纳,0.0,0.0,0.0
+其他美食,Le Cafe Brun,Le Cafe Brun,0,戛纳,0.0,0.0,0.0
+其他美食,Jean Luc Pelé La Table,Jean Luc Pelé La Table,0,戛纳,0.0,0.0,0.0
+其他美食,La Gold Plage,La Gold Plage,0,戛纳,0.0,0.0,0.0
+其他美食,L'Hippo Croq,L'Hippo Croq,0,戛纳,0.0,0.0,0.0
+其他美食,Le Fournil Cannois,Le Fournil Cannois,0,戛纳,0.0,0.0,0.0
+其他美食,L'Americain,L'Americain,0,戛纳,0.0,0.0,0.0
+其他美食,Restaurant de la Bourse,Restaurant de la Bourse,0,戛纳,0.0,0.0,0.0
+其他美食,"Saint Barth, le","Saint Barth, le",0,戛纳其他,0.0,0.0,0.0
+其他美食,VEGALUNA RESTAURANT PLAGE SPECIAL EVENTS,VEGALUNA RESTAURANT PLAGE SPECIAL EVENTS,0,,0.0,0.0,0.0
+其他美食,AMICI RISTORANTE ITALIANO,AMICI RISTORANTE ITALIANO,0,,0.0,0.0,0.0
+其他美食,CIRO,CIRO,0,,0.0,0.0,0.0
+其他美食,Vesuvio,Vesuvio,0,戛纳,0.0,0.0,0.0
+其他美食,LA PLAGE,LA PLAGE,0,,0.0,0.0,0.0
+其他美食,"Rendez-Vous, le","Rendez-Vous, le",0,戛纳,0.0,0.0,0.0
+其他美食,Legend Cafe,Legend Cafe,0,戛纳,0.0,0.0,0.0
+其他美食,Lou Souleou,Lou Souleou,0,戛纳,0.0,0.0,0.0
+其他美食,Chez Eve et Jean-Claude,Chez Eve et Jean-Claude,0,戛纳,0.0,0.0,0.0
+其他美食,Barbarella,Barbarella,0,戛纳,0.0,0.0,0.0
+其他美食,Cave Croisette,Cave Croisette,0,戛纳,0.0,0.0,0.0
+其他美食,Le Venise,Le Venise,0,戛纳,0.0,0.0,0.0
+其他美食,La Cava,La Cava,0,戛纳,0.0,0.0,0.0
+其他美食,L'Enoteca,L'Enoteca,0,戛纳,0.0,0.0,0.0
+其他美食,La Bravade,La Bravade,0,戛纳,0.0,0.0,0.0
+其他美食,Hotel des Orangers,Hotel des Orangers,0,戛纳,0.0,0.0,0.0
+其他美食,"Bistro, le","Bistro, le",0,戛纳,0.0,0.0,0.0
+其他美食,Poivre et Sel,Poivre et Sel,0,戛纳,0.0,0.0,0.0
+其他美食,Olivier,Olivier,0,戛纳,0.0,0.0,0.0
+其他美食,Volupte,Volupte,0,戛纳,0.0,0.0,0.0
+其他美食,Al 20,Al 20,0,戛纳,0.0,0.0,0.0
+其他美食,Apollino,Apollino,0,戛纳,0.0,0.0,0.0
+其他美食,le magrheb,le magrheb,0,戛纳,0.0,0.0,0.0
+其他美食,Solola,Solola,0,戛纳,0.0,0.0,0.0
+其他美食,L'Authentic,L'Authentic,0,戛纳其他,0.0,0.0,0.0
+其他美食,YO'MO LOUNGE,YO'MO LOUNGE,0,,0.0,0.0,0.0
+其他美食,CAFé FLORIAN,CAFé FLORIAN,0,,0.0,0.0,0.0
+其他美食,MAITRE RENARD,MAITRE RENARD,0,,0.0,0.0,0.0
+其他美食,AL CHARQ,AL CHARQ,0,,0.0,0.0,0.0
+其他美食,Le Sevrina,Le Sevrina,0,戛纳,0.0,0.0,0.0
+其他美食,La Mandala,La Mandala,0,戛纳,0.0,0.0,0.0
+其他美食,Carlton Beach,Carlton Beach,0,戛纳,0.0,0.0,0.0
+其他美食,Fouquet's Cannes,Fouquet's Cannes,0,戛纳,0.0,0.0,0.0
+其他美食,Le Factory Cafe,Le Factory Cafe,0,戛纳,0.0,0.0,0.0
+其他美食,Rado Plage,Rado Plage,0,戛纳,0.0,0.0,0.0
+其他美食,Space Sushi Pink Shark Restaurant,Space Sushi Pink Shark Restaurant,0,戛纳,0.0,0.0,0.0
+其他美食,Maema Plage du Midi,Maema Plage du Midi,0,戛纳,0.0,0.0,0.0
+其他美食,Plage du Festival,Plage du Festival,0,戛纳,0.0,0.0,0.0
+其他美食,Cote Croisette,Cote Croisette,0,戛纳,0.0,0.0,0.0
+其他美食,Vinh Phat,Vinh Phat,0,戛纳,0.0,0.0,0.0
+其他美食,Faroles,Faroles,0,戛纳,0.0,0.0,0.0
+其他美食,Brown sugar,Brown sugar,0,戛纳,0.0,0.0,0.0
+其他美食,24 Suquet,24 Suquet,0,戛纳,0.0,0.0,0.0
+其他美食,Le Chaperon Rouge,Le Chaperon Rouge,0,戛纳,0.0,0.0,0.0
+其他美食,Coco Loco,Coco Loco,0,戛纳,0.0,0.0,0.0
+其他美食,Aux Bons Enfants,Aux Bons Enfants,0,戛纳,0.0,0.0,0.0
+其他美食,La Maison Corse (Cantine Et Epicerie Fine Cannes),La Maison Corse (Cantine Et Epicerie Fine Cannes),0,戛纳,0.0,0.0,0.0
+其他美食,The Claridge,The Claridge,0,戛纳,0.0,0.0,0.0
+其他美食,Esther Cafe,Esther Cafe,0,戛纳,0.0,0.0,0.0
+其他美食,Modo Mio,Modo Mio,0,戛纳,0.0,0.0,0.0
+其他美食,"Toscana, la","Toscana, la",0,戛纳,0.0,0.0,0.0
+其他美食,Pierrot 1Er,Pierrot 1Er,0,戛纳,0.0,0.0,0.0
+其他美食,La Cave du Vieux Port,La Cave du Vieux Port,0,戛纳,0.0,0.0,0.0
+其他美食,Pizza Caldo,Pizza Caldo,0,戛纳,0.0,0.0,0.0
+其他美食,Cool Heure Cafe,Cool Heure Cafe,0,戛纳,0.0,0.0,0.0
+其他美食,Warner Cafe,Warner Cafe,0,戛纳,0.0,0.0,0.0
+其他美食,Le Passage,Le Passage,0,戛纳,0.0,0.0,0.0
+其他美食,Chicago Cafe,Chicago Cafe,0,戛纳,0.0,0.0,0.0
+其他美食,Mon reve de gosse,Mon reve de gosse,0,戛纳,0.0,0.0,0.0
+其他美食,Paprika,Paprika,0,戛纳,0.0,0.0,0.0
+其他美食,Pause Cafe,Pause Cafe,0,戛纳,0.0,0.0,0.0
+其他美食,O'Sushi.Cannes,O'Sushi.Cannes,0,戛纳,0.0,0.0,0.0
+其他美食,Le Balthazar Cafe,Le Balthazar Cafe,0,戛纳,0.0,0.0,0.0
+其他美食,La Briocherie,La Briocherie,0,戛纳,0.0,0.0,0.0
+其他美食,Lemonot,Lemonot,0,戛纳,0.0,0.0,0.0
+其他美食,Papa Nino Pizzeria Cannes,Papa Nino Pizzeria Cannes,0,戛纳,0.0,0.0,0.0
+其他美食,O'Naturelle,O'Naturelle,0,戛纳,0.0,0.0,0.0
+其他美食,Le Valentino,Le Valentino,0,戛纳,0.0,0.0,0.0
+其他美食,Le Maghreb,Le Maghreb,0,戛纳,0.0,0.0,0.0
+其他美食,Between'us,Between'us,0,戛纳,0.0,0.0,0.0
+其他美食,Le Bistrot des Artisans,Le Bistrot des Artisans,0,戛纳,0.0,0.0,0.0
+其他美食,Mister Pizza,Mister Pizza,0,戛纳其他,0.0,0.0,0.0
+其他美食,Epices et Caramel Terrasse,Epices et Caramel Terrasse,0,戛纳其他,0.0,0.0,0.0
+其他美食,LES GOURMETS,LES GOURMETS,0,,0.0,0.0,0.0
+其他美食,RESTAURANT GASTON ET GASTOUNETTE,RESTAURANT GASTON ET GASTOUNETTE,0,,0.0,0.0,0.0
+其他美食,Restaurant La dolce vita,Restaurant La dolce vita,0,戛纳,0.0,0.0,0.0
+其他美食,Felix,Felix,0,戛纳,0.0,0.0,0.0
+其他美食,Les Coulisses,Les Coulisses,0,戛纳,0.0,0.0,0.0
+其他美食,Le bureau,Le bureau,0,戛纳,0.0,0.0,0.0
+其他美食,Le SWING,Le SWING,0,戛纳,0.0,0.0,0.0
+其他美食,"Dauphin, le","Dauphin, le",0,戛纳,0.0,0.0,0.0
+其他美食,"Caveau 30, le","Caveau 30, le",0,戛纳,0.0,0.0,0.0
+其他美食,L'Aparthe,L'Aparthe,0,戛纳,0.0,0.0,0.0
+其他美食,Le Grand Café,Le Grand Café,0,戛纳,0.0,0.0,0.0
+其他美食,Upside Down,Upside Down,0,戛纳,0.0,0.0,0.0
+其他美食,Pepperoni,Pepperoni,0,戛纳,0.0,0.0,0.0
+其他美食,Le Loft,Le Loft,0,戛纳,0.0,0.0,0.0
+其他美食,Escale de Chine,Escale de Chine,0,戛纳,0.0,0.0,0.0
+其他美食,Le Lion d'Or,Le Lion d'Or,0,戛纳,0.0,0.0,0.0
+其他美食,L' Osmose Restaurant Lounge,L' Osmose Restaurant Lounge,0,戛纳,0.0,0.0,0.0
+其他美食,"Farigoule, la","Farigoule, la",0,戛纳,0.0,0.0,0.0
+其他美食,"Miranda, la","Miranda, la",0,戛纳其他,0.0,0.0,0.0
+其他美食,Pagoda Fast Food,Pagoda Fast Food,0,戛纳其他,0.0,0.0,0.0
+其他美食,Campanile,Campanile,0,戛纳其他,0.0,0.0,0.0
+其他美食,"Splendid, le","Splendid, le",0,戛纳其他,0.0,0.0,0.0
+其他美食,LA PLAGE MAJESTIC BARRIèRE,LA PLAGE MAJESTIC BARRIèRE,0,,0.0,0.0,0.0
+其他美食,LA TABLéE PROVENçALE,LA TABLéE PROVENçALE,0,,0.0,0.0,0.0
+其他美食,BRASSERIE DU CASINO,BRASSERIE DU CASINO,0,,0.0,0.0,0.0
+其他美食,CAFé K,CAFé K,0,,0.0,0.0,0.0
+其他美食,L'éPONYME,L'éPONYME,0,,0.0,0.0,0.0
+其他美食,Croisette Corner,Croisette Corner,0,戛纳其他,0.0,0.0,0.0
+其他美食,Pomme d'Api,Pomme d'Api,0,戛纳,0.0,0.0,0.0
+其他美食,Peach Pit,Peach Pit,0,戛纳,0.0,0.0,0.0
+其他美食,Villa Romana Croisette,Villa Romana Croisette,0,戛纳,0.0,0.0,0.0
+其他美食,La Chunga,La Chunga,0,戛纳,0.0,0.0,0.0
+其他美食,Al Gambero,Al Gambero,0,戛纳,0.0,0.0,0.0
+其他美食,La Pizza Cresci,La Pizza Cresci,0,戛纳,0.0,0.0,0.0
+其他美食,La Fregate,La Fregate,0,戛纳,0.0,0.0,0.0
+其他美食,"Coco De Mer, le","Coco De Mer, le",0,戛纳,0.0,0.0,0.0
+其他美食,Comme Chez Soi,Comme Chez Soi,0,戛纳,0.0,0.0,0.0
+其他美食,"Maison Du Porto, la","Maison Du Porto, la",0,戛纳,0.0,0.0,0.0
+其他美食,"Festival de la Crepe, le","Festival de la Crepe, le",0,戛纳,0.0,0.0,0.0
+其他美食,La Canna Suisse,La Canna Suisse,0,戛纳,0.0,0.0,0.0
+其他美食,Le Riad,Le Riad,0,戛纳,0.0,0.0,0.0
+其他美食,Freddy,Freddy,0,戛纳,0.0,0.0,0.0
+其他美食,Asia Express,Asia Express,0,戛纳,0.0,0.0,0.0
+其他美食,Ecrin,Ecrin,0,戛纳,0.0,0.0,0.0
+其他美食,Bar des Negociants,Bar des Negociants,0,戛纳,0.0,0.0,0.0
+其他美食,"Cannes Beach, le","Cannes Beach, le",0,戛纳其他,0.0,0.0,0.0
+其他美食,L'African Restaurant,L'African Restaurant,0,戛纳其他,0.0,0.0,0.0
+其他美食,SUPER VIANDES,SUPER VIANDES,0,,0.0,0.0,0.0
+其他美食,SEA SENS,SEA SENS,0,,0.0,0.0,0.0
+其他美食,PLAGE WAIKIKI,PLAGE WAIKIKI,0,,0.0,0.0,0.0
+其他美食,LE RELAIS DU GRAND VENISE,LE RELAIS DU GRAND VENISE,0,,0.0,0.0,0.0
+其他美食,Melaudy Cafe,Melaudy Cafe,0,戛纳,0.0,0.0,0.0
+其他美食,"Bourgogne, le","Bourgogne, le",0,戛纳,0.0,0.0,0.0
+其他美食,LE JOCKEY CLUB,LE JOCKEY CLUB,0,,0.0,0.0,0.0
+其他美食,LA PIZZA,LA PIZZA,0,,0.0,0.0,0.0
+其他美食,BRASSERIE BRUN,BRASSERIE BRUN,0,,0.0,0.0,0.0
+其他美食,RESTAURANT DU CERCLE VILLA VERA,RESTAURANT DU CERCLE VILLA VERA,0,,0.0,0.0,0.0
+其他美食,LE REPUBLIK,LE REPUBLIK,0,,0.0,0.0,0.0
+其他美食,EDEN HôTEL &AMP; SPA,EDEN HôTEL &AMP; SPA,0,,0.0,0.0,0.0
+其他美食,LE BISTROT A HUITRES,LE BISTROT A HUITRES,0,,0.0,0.0,0.0
+其他美食,LANTIDOTE,LANTIDOTE,0,,0.0,0.0,0.0
+其他美食,LE GRAND LIBAN,LE GRAND LIBAN,0,,0.0,0.0,0.0
+其他美食,BUFALLO GRIL,BUFALLO GRIL,0,,0.0,0.0,0.0
+其他美食,LA ROSE DES SABLES,LA ROSE DES SABLES,0,,0.0,0.0,0.0

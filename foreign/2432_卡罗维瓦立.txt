@@ -1,0 +1,62 @@
+意大利菜,Ristorante Pizzeria Venezia,Ristorante Pizzeria Venezia,0,卡罗维发利市中心,0.0,0.0,0.0
+意大利菜,Novissimo,Novissimo,0,,0.0,0.0,0.0
+意大利菜,Re Carlo,Re Carlo,0,,0.0,0.0,0.0
+法国菜,Le Marche,Le Marche,0,Near Center,0.0,0.0,0.0
+墨西哥菜,Chilli Chilli bar&grill,Chilli Chilli bar&grill,0,Karlovy Vary Suburbs,0.0,0.0,0.0
+其他西餐,Restaurace U Tomáše,Restaurace U Tomáše,0,卡罗维发利市中心,7.7,7.7,7.7
+其他西餐,Restaurant Petr,Restaurant Petr,0,卡罗维发利市中心,7.7,7.7,7.7
+其他西餐,Restaurace U Svejka,Restaurace U Svejka,0,Near Center,0.0,0.0,0.0
+其他西餐,Cafe Restaurant Atrium,Cafe Restaurant Atrium,0,卡罗维发利市中心,0.0,0.0,0.0
+其他西餐,Chebský Dvůr,Chebský Dvůr,0,Near Center,0.0,0.0,0.0
+其他西餐,Cafe-Restaurant Quisisana Palace,Cafe-Restaurant Quisisana Palace,0,Near Center,0.0,0.0,0.0
+其他西餐,Hotel Embassy Restaurant,Hotel Embassy Restaurant,0,Near Center,0.0,0.0,0.0
+其他西餐,Jeleni Skok,Jeleni Skok,0,Near Center,0.0,0.0,0.0
+其他西餐,Charleston,Charleston,0,卡罗维发利市中心,0.0,0.0,0.0
+其他西餐,Grill Restaurant,Grill Restaurant,0,Near Center,0.0,0.0,0.0
+其他西餐,Hotel Saint Petersburg Restaurant,Hotel Saint Petersburg Restaurant,0,Near Center,0.0,0.0,0.0
+其他西餐,Hotel Promenada Restaurant,Hotel Promenada Restaurant,0,Near Center,0.0,0.0,0.0
+其他西餐,Restaurant Karel IV,Restaurant Karel IV,0,Near Center,0.0,0.0,0.0
+其他西餐,Becherplatz Pivovar Karel IV.,Becherplatz Pivovar Karel IV.,0,卡罗维发利市中心,0.0,0.0,0.0
+其他西餐,Grill James,Grill James,0,Near Center,0.0,0.0,0.0
+其他西餐,Staroceska Restaurace,Staroceska Restaurace,0,卡罗维发利市中心,0.0,0.0,0.0
+其他西餐,Hotel Palacky,Hotel Palacky,0,Near Center,0.0,0.0,0.0
+其他西餐,Hotel Salvator Restuarant,Hotel Salvator Restuarant,0,Near Center,0.0,0.0,0.0
+其他西餐,Male Versailles,Male Versailles,0,卡罗维发利市中心,0.0,0.0,0.0
+其他西餐,Restaurace Sklipek,Restaurace Sklipek,0,卡罗维发利市中心,0.0,0.0,0.0
+其他西餐,Czech Republic,Czech Republic,0,卡罗维发利市中心,0.0,0.0,0.0
+其他西餐,Pizzeria Capri,Pizzeria Capri,0,Near Center,0.0,0.0,0.0
+其他西餐,V&M Restaurant S.R.O,V&M Restaurant S.R.O,0,Near Center,0.0,0.0,0.0
+其他西餐,Seabowl,Seabowl,0,其他,0.0,0.0,0.0
+其他西餐,U ŠIMLA,U ŠIMLA,0,Waterfront/Beach,0.0,0.0,0.0
+其他西餐,Pivnice Cerna Plzen,Pivnice Cerna Plzen,0,,0.0,0.0,0.0
+其他西餐,Sedlecka pub,Sedlecka pub,0,,0.0,0.0,0.0
+其他西餐,Metro Zapadni,Metro Zapadni,0,,0.0,0.0,0.0
+其他西餐,Bacardi Bar,Bacardi Bar,0,,0.0,0.0,0.0
+其他西餐,Bistro Slunicko (Cesky Jarmark),Bistro Slunicko (Cesky Jarmark),0,,0.0,0.0,0.0
+其他西餐,Restaurace Duo,Restaurace Duo,0,,0.0,0.0,0.0
+其他西餐,TAPAS y COPAS,TAPAS y COPAS,0,,0.0,0.0,0.0
+中餐,Cantina - Cafe Nostress,Cantina - Cafe Nostress,0,其他,0.0,0.0,0.0
+更多亚洲菜,Tandoor Indicka,Tandoor Indicka,0,其他,0.0,0.0,0.0
+快餐简餐,Edie Cocktail Bar & Restarant,Edie Cocktail Bar & Restarant,0,卡罗维发利市中心,0.0,0.0,0.0
+咖啡厅,Cafe Elephant karlovy vary,Cafe Elephant karlovy vary,0,Near Center,7.7,7.7,7.7
+咖啡厅,Freedom Cafe,Freedom Cafe,0,卡罗维发利市中心,0.0,0.0,0.0
+咖啡厅,Restaurant and Cafe Charlie,Restaurant and Cafe Charlie,0,卡罗维发利市中心,0.0,0.0,0.0
+面包甜点,Sladky Život,Sladky Život,0,,0.0,0.0,0.0
+更多美食,Restaurant Azyl,Restaurant Azyl,0,Near Center,0.0,0.0,0.0
+更多美食,Orion,Orion,0,Near Center,0.0,0.0,0.0
+更多美食,Restaurants Galerka,Restaurants Galerka,0,Near Center,0.0,0.0,0.0
+更多美食,Ventura PUB,Ventura PUB,0,卡罗维发利市中心,0.0,0.0,0.0
+更多美食,Panoptikum,Panoptikum,0,卡罗维发利市中心,0.0,0.0,0.0
+更多美食,Olympia Hotel Restaurant,Olympia Hotel Restaurant,0,Near Center,0.0,0.0,0.0
+更多美食,Restaurant Palacky,Restaurant Palacky,0,Near Center,0.0,0.0,0.0
+更多美食,Velkopopovicka pub,Velkopopovicka pub,0,Near Center,0.0,0.0,0.0
+更多美食,Parlament,Parlament,0,卡罗维发利市中心,0.0,0.0,0.0
+更多美食,Restaurant Panorama,Restaurant Panorama,0,Near Center,0.0,0.0,0.0
+更多美食,Pirosmani,Pirosmani,0,Near Center,0.0,0.0,0.0
+更多美食,Lobkowiczka Krcma,Lobkowiczka Krcma,0,卡罗维发利市中心,0.0,0.0,0.0
+更多美食,In Piazza,In Piazza,0,卡罗维发利市中心,0.0,0.0,0.0
+更多美食,Repre Restaurant & Bar,Repre Restaurant & Bar,0,卡罗维发利市中心,0.0,0.0,0.0
+更多美食,Spa hotel Marttel,Spa hotel Marttel,0,卡罗维发利市中心,0.0,0.0,0.0
+更多美食,Royal Golf,Royal Golf,0,其他,0.0,0.0,0.0
+更多美食,Retro Cafe Bar,Retro Cafe Bar,0,Karlovy Vary Suburbs,0.0,0.0,0.0
+更多美食,Penzion U Karla IV,Penzion U Karla IV,0,Waterfront/Beach,0.0,0.0,0.0

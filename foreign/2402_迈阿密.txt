@@ -1,0 +1,2299 @@
+咖啡厅,IceBox Cafe,IceBox Cafe,0,,7.3,7.3,7.3
+咖啡厅,Cafe Nuvo,Cafe Nuvo,0,,7.3,7.2,7.2
+咖啡厅,Orange Blossom,Orange Blossom,0,迈阿密海滩(Miami Beach),6.9,6.7,6.9
+咖啡厅,Chandlers Place,Chandlers Place,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+咖啡厅,Cafe Pastis,Cafe Pastis,0,,0.0,0.0,0.0
+咖啡厅,Dunkin' Donuts,Dunkin' Donuts,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+咖啡厅,The Daily Creative Food Co.,The Daily Creative Food Co.,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+咖啡厅,Eternity Coffee Roasters,Eternity Coffee Roasters,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+咖啡厅,Imperia Healthy Garden,Imperia Healthy Garden,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+咖啡厅,Flavorish Market,Flavorish Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+咖啡厅,Miss Saigon,Miss Saigon,0,,7.2,7.2,7.2
+咖啡厅,Khong River House,Khong River House,0,,7.2,7.2,7.2
+咖啡厅,Alaska Coffee Roasting Company,Alaska Coffee Roasting Company,0,北迈阿密(North Miami),0.0,0.0,0.0
+咖啡厅,Latin Cafe 2000,Latin Cafe 2000,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+咖啡厅,Roho,Roho,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+咖啡厅,La Provence Miami,La Provence Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+咖啡厅,specialTEA Lounge,specialTEA Lounge,0,迈阿密其他,0.0,0.0,0.0
+咖啡厅,"Thai House, South Beach","Thai House, South Beach",0,,7.2,7.2,7.2
+咖啡厅,Cafe Charlotte,Cafe Charlotte,0,,7.2,7.2,7.2
+咖啡厅,Nespresso boutique in Miami Beach,Nespresso boutique in Miami Beach,0,,7.2,7.2,7.2
+咖啡厅,Deli Lane Cafe,Deli Lane Cafe,0,,7.2,7.2,7.2
+咖啡厅,Latin Cafe II on the Beach - Cafe and Food,Latin Cafe II on the Beach - Cafe and Food,0,,7.0,6.9,6.7
+咖啡厅,Lul grill cafe,Lul grill cafe,0,,7.0,7.0,7.0
+咖啡厅,Patagonia Coral Gables,Patagonia Coral Gables,0,,7.1,7.1,7.1
+咖啡厅,Tasti Cafe,Tasti Cafe,0,,7.1,7.1,6.8
+咖啡厅,Bongos Cuban Cafe,Bongos Cuban Cafe,0,,7.0,7.0,7.0
+咖啡厅,Miami Art Cafe,Miami Art Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+咖啡厅,Freshko Gourmet,Freshko Gourmet,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+咖啡厅,Jimmy's Eastside Diner,Jimmy's Eastside Diner,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+咖啡厅,Yard House,Yard House,0,,7.2,7.2,7.2
+咖啡厅,Love is Blind,Love is Blind,0,,7.2,7.2,7.2
+咖啡厅,Ruth's Chris Steak House,Ruth's Chris Steak House,0,,7.2,7.2,7.2
+咖啡厅,Miss Saigon Bistro,Miss Saigon Bistro,0,,7.2,7.2,7.2
+咖啡厅,The Local House,The Local House,0,,7.2,7.2,7.2
+咖啡厅,Park Central Cafe,Park Central Cafe,0,,7.2,7.2,7.2
+咖啡厅,News Cafe,News Cafe,0,,7.2,7.2,7.2
+咖啡厅,Pelican Cafe,Pelican Cafe,0,,7.2,7.2,7.2
+咖啡厅,Mango's Tropical Cafe,Mango's Tropical Cafe,0,,7.2,7.2,7.2
+咖啡厅,Serafina Dream South Beach,Serafina Dream South Beach,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.2,7.2,7.2
+咖啡厅,Sushi Rock Cafe,Sushi Rock Cafe,0,,7.2,7.2,7.2
+咖啡厅,Purple Penguin Cafe,Purple Penguin Cafe,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.2,7.2,7.2
+咖啡厅,Nexxt Cafe,Nexxt Cafe,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.2,7.2,7.2
+咖啡厅,Ice Box Cafe,Ice Box Cafe,0,,7.2,7.2,7.2
+咖啡厅,Doral Ale House,Doral Ale House,0,,7.2,7.2,7.2
+咖啡厅,Tropical Beach Cafe,Tropical Beach Cafe,0,,7.2,7.2,7.2
+咖啡厅,Carolina Ale House,Carolina Ale House,0,,7.2,7.2,7.2
+咖啡厅,Latin Cafe,Latin Cafe,0,,7.2,7.2,7.2
+咖啡厅,Thai House 2,Thai House 2,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.2,7.2,7.2
+咖啡厅,Epicure Gourmet Cafe,Epicure Gourmet Cafe,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.2,7.2,7.2
+咖啡厅,Cafe Pastis,Cafe Pastis,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.6,7.2,7.2
+咖啡厅,Taco Rico Tex Mex Cafe,Taco Rico Tex Mex Cafe,0,,7.1,7.1,6.8
+咖啡厅,Cafe Demetrio,Cafe Demetrio,0,,7.1,7.1,7.1
+咖啡厅,Emilys Cafe and Deli,Emilys Cafe and Deli,0,,6.9,6.9,6.9
+咖啡厅,Cafe Del Mar,Cafe Del Mar,0,,7.1,7.1,7.1
+咖啡厅,Taste Bakery Cafe,Taste Bakery Cafe,0,,7.1,7.1,7.1
+咖啡厅,Rice House of Kabob,Rice House of Kabob,0,,7.1,7.1,7.1
+咖啡厅,Einstein Bros. Bagels,Einstein Bros. Bagels,0,,7.1,6.8,6.8
+咖啡厅,Starbucks,Starbucks,0,,6.9,7.1,7.1
+咖啡厅,Panther Coffee,Panther Coffee,0,,7.1,7.1,7.3
+咖啡厅,Bubble Cafe and Tea Lounge,Bubble Cafe and Tea Lounge,0,,6.9,6.9,6.9
+咖啡厅,The Original Pancake House,The Original Pancake House,0,,7.1,7.1,7.1
+咖啡厅,China Steak House,China Steak House,0,,6.9,6.9,6.9
+咖啡厅,Cypo cafe,Cypo cafe,0,,7.1,7.1,7.1
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Sapori D' Italia Cafe,Sapori D' Italia Cafe,0,,6.9,6.9,6.9
+咖啡厅,Latin Cuban Cafeteria,Latin Cuban Cafeteria,0,,7.0,7.0,7.0
+咖啡厅,Frankie's Pizza Cafe,Frankie's Pizza Cafe,0,,6.9,6.9,6.9
+咖啡厅,New York's Big Apple Deli,New York's Big Apple Deli,0,,7.1,7.1,7.1
+咖啡厅,Rice House of Kabob,Rice House of Kabob,0,,6.9,6.9,6.9
+咖啡厅,Beverly Hills Cafe I,Beverly Hills Cafe I,0,,7.1,7.1,7.1
+咖啡厅,Thai Cafe,Thai Cafe,0,,7.1,7.1,7.1
+咖啡厅,Sushi House - North Miami Beach,Sushi House - North Miami Beach,0,,7.1,7.1,7.1
+咖啡厅,Blue Marlin Fish House,Blue Marlin Fish House,0,,7.1,7.1,7.1
+咖啡厅,La barra,La barra,0,,7.1,7.1,7.1
+咖啡厅,The Cafe,The Cafe,0,,6.9,6.9,6.9
+咖啡厅,Lula Kebab House,Lula Kebab House,0,,7.1,7.1,7.1
+咖啡厅,Pause Cafe,Pause Cafe,0,,7.1,7.1,7.1
+咖啡厅,Sunset Cafe at Turnberry North Tower,Sunset Cafe at Turnberry North Tower,0,,6.9,6.9,6.9
+咖啡厅,Felix's Cafe,Felix's Cafe,0,,7.1,7.1,7.0
+咖啡厅,Patagonia,Patagonia,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Starbucks,Starbucks,0,,7.0,7.1,7.0
+咖啡厅,Pan Pan Cafe at the Wolfsonian Museum,Pan Pan Cafe at the Wolfsonian Museum,0,,6.9,6.9,6.9
+咖啡厅,Kill Your Idol,Kill Your Idol,0,,6.9,6.9,6.9
+咖啡厅,Cafe Nuvo - Miami Bistro,Cafe Nuvo - Miami Bistro,0,,7.0,7.0,7.0
+咖啡厅,Taste Bakery Cafe,Taste Bakery Cafe,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,7.0,7.0,7.0
+咖啡厅,Free Spirits Sports Cafe,Free Spirits Sports Cafe,0,,6.9,7.1,7.0
+咖啡厅,Xpress Cafe,Xpress Cafe,0,,6.9,6.9,6.9
+咖啡厅,Sabores Cafe,Sabores Cafe,0,,7.0,7.1,7.1
+咖啡厅,Beach Cafe,Beach Cafe,0,,7.0,6.9,6.9
+咖啡厅,Adelita's Cafe,Adelita's Cafe,0,,6.9,6.9,6.9
+咖啡厅,Treats Cafe,Treats Cafe,0,,6.9,6.9,6.9
+咖啡厅,Las Mercedes Cafeteria,Las Mercedes Cafeteria,0,,6.9,6.9,6.9
+咖啡厅,The Kitchen Loft,The Kitchen Loft,0,,6.9,7.0,7.1
+咖啡厅,Rococoa Cafe Miami Beach,Rococoa Cafe Miami Beach,0,,6.9,6.9,6.9
+咖啡厅,Vecinos Cafe Restaurant,Vecinos Cafe Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Buenos Aires Cafe,Buenos Aires Cafe,0,,6.9,6.9,6.9
+咖啡厅,Mangu Cafe Restaurant,Mangu Cafe Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Latin Corner,Latin Corner,0,,6.9,6.9,6.9
+咖啡厅,Costa Peruana,Costa Peruana,0,,7.0,7.1,7.0
+咖啡厅,Starbucks,Starbucks,0,,6.7,6.7,6.9
+咖啡厅,1909 Cafe,1909 Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Vialetto,Cafe Vialetto,0,,7.2,7.2,7.2
+咖啡厅,Sacha's Cafe,Sacha's Cafe,0,,6.9,7.0,7.0
+咖啡厅,Le Petit Cafe,Le Petit Cafe,0,,7.1,7.1,7.1
+咖啡厅,Angelique Euro Cafe,Angelique Euro Cafe,0,,7.2,7.2,7.2
+咖啡厅,Miller's Ale House,Miller's Ale House,0,,7.1,7.1,7.1
+咖啡厅,Romeo's Cafe,Romeo's Cafe,0,,7.2,7.2,7.2
+咖啡厅,Green Gables Cafe,Green Gables Cafe,0,,7.0,7.0,7.0
+咖啡厅,Eating House,Eating House,0,,7.2,7.2,7.2
+咖啡厅,La Vie En Raw Cafe,La Vie En Raw Cafe,0,,7.1,7.0,7.1
+咖啡厅,Cafe Mistral,Cafe Mistral,0,,7.3,7.1,7.1
+咖啡厅,South Beach Cafe,South Beach Cafe,0,,7.0,7.0,7.0
+咖啡厅,Las Olas Cafe,Las Olas Cafe,0,,7.2,7.2,7.2
+咖啡厅,On Ocean 7 Cafe,On Ocean 7 Cafe,0,,7.2,7.2,7.2
+咖啡厅,Beach Cafe,Beach Cafe,0,,6.9,6.9,6.9
+咖啡厅,Prime Time Cafe,Prime Time Cafe,0,,7.2,6.8,7.2
+咖啡厅,Cafe Bonjour,Cafe Bonjour,0,,7.1,7.1,7.1
+咖啡厅,Voluez-Vouz French Cafe,Voluez-Vouz French Cafe,0,,7.1,7.1,7.1
+咖啡厅,Bamboo House,Bamboo House,0,,7.1,7.1,7.1
+咖啡厅,Cafe Cardozo,Cafe Cardozo,0,,7.2,7.2,7.2
+咖啡厅,Venue Cafe,Venue Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Des Arts,Cafe Des Arts,0,,7.1,7.1,7.1
+咖啡厅,Cafe Mozart,Cafe Mozart,0,,6.8,6.8,6.8
+咖啡厅,Front Porch Cafe,Front Porch Cafe,0,,7.2,7.2,7.2
+咖啡厅,Sriracha House,Sriracha House,0,,7.1,7.3,7.1
+咖啡厅,Playa Cafe,Playa Cafe,0,,7.1,7.1,7.1
+咖啡厅,Haven,Haven,0,,7.2,7.2,7.2
+咖啡厅,Maxim's Cafe,Maxim's Cafe,0,,7.2,7.2,7.2
+咖啡厅,Panna Cafe Express,Panna Cafe Express,0,,7.0,7.0,7.0
+咖啡厅,Smoothie Cafe,Smoothie Cafe,0,,7.0,7.0,7.0
+咖啡厅,Bazzura Cafe,Bazzura Cafe,0,,6.7,6.7,6.7
+咖啡厅,Patagonia,Patagonia,0,,7.1,7.1,7.1
+咖啡厅,Bagel Time,Bagel Time,0,,6.7,6.7,6.7
+咖啡厅,Grill House,Grill House,0,,7.1,7.1,7.1
+咖啡厅,Cafe Avanti,Cafe Avanti,0,,7.2,7.2,7.2
+咖啡厅,Cozy Corner,Cozy Corner,0,,7.1,7.1,7.1
+咖啡厅,Shula's Steak House at the Alexander Hotel,Shula's Steak House at the Alexander Hotel,0,,7.2,7.2,7.2
+咖啡厅,Arlen Beach Cafe,Arlen Beach Cafe,0,,7.0,7.0,7.0
+咖啡厅,Little Italian Cafe,Little Italian Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cj Cafe,Cj Cafe,0,,6.9,6.9,6.9
+咖啡厅,Sabor Latin Restaurant and Cafe,Sabor Latin Restaurant and Cafe,0,,6.9,6.9,6.9
+咖啡厅,Mi Colombia Cafeteria Y Restaurante,Mi Colombia Cafeteria Y Restaurante,0,,7.0,7.0,7.0
+咖啡厅,Cafe Prima Pasta,Cafe Prima Pasta,0,,7.2,7.2,7.2
+咖啡厅,Restaurante Cafe Mi Tierra,Restaurante Cafe Mi Tierra,0,,7.0,7.0,7.0
+咖啡厅,Buenos Aires Bakery and Cafe,Buenos Aires Bakery and Cafe,0,,7.2,7.2,7.2
+咖啡厅,Latin Cafe 2000,Latin Cafe 2000,0,,7.1,6.8,6.8
+咖啡厅,Three Palms Cuban Cafe,Three Palms Cuban Cafe,0,,7.0,7.0,7.0
+咖啡厅,Serendipity Yogurt Cafe,Serendipity Yogurt Cafe,0,,7.0,7.0,7.0
+咖啡厅,Specchio Cafe,Specchio Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Ragazzi,Cafe Ragazzi,0,,7.2,7.2,7.2
+咖啡厅,The Palm Steak House miami,The Palm Steak House miami,0,,7.1,7.1,7.1
+咖啡厅,Caribbean Cafe,Caribbean Cafe,0,,7.0,7.0,6.9
+咖啡厅,Ranch House Original,Ranch House Original,0,,7.0,7.1,7.0
+咖啡厅,Miami Lakes Ale House,Miami Lakes Ale House,0,,7.1,7.1,7.1
+咖啡厅,Einstein Bros Bagels,Einstein Bros Bagels,0,,6.9,6.9,6.9
+咖啡厅,Vie de France,Vie de France,0,,7.0,7.0,7.0
+咖啡厅,Green Papaya,Green Papaya,0,,7.0,7.0,7.0
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Cafe Bambini,Cafe Bambini,0,,7.0,7.0,7.0
+咖啡厅,Miami Ale House,Miami Ale House,0,,6.9,6.9,6.9
+咖啡厅,Jungle Juice Cafe,Jungle Juice Cafe,0,,7.0,7.0,7.0
+咖啡厅,Milano Pizza Cafe,Milano Pizza Cafe,0,,6.8,7.1,7.1
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Mozart Cafe,Mozart Cafe,0,,7.1,7.1,6.8
+咖啡厅,Salsa Fiesta,Salsa Fiesta,0,,7.0,7.1,7.0
+咖啡厅,Peekaboo Cafe,Peekaboo Cafe,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Nordstrom Cafe Bistro,Nordstrom Cafe Bistro,0,,7.0,7.0,7.0
+咖啡厅,Gigi's Cafe,Gigi's Cafe,0,,7.1,7.1,7.1
+咖啡厅,The Original Pancake House,The Original Pancake House,0,,7.2,7.2,6.8
+咖啡厅,House of Subs Deli,House of Subs Deli,0,,7.0,7.0,7.0
+咖啡厅,Peking House,Peking House,0,,7.1,7.1,7.1
+咖啡厅,Victoria's Bonnquen Cafe,Victoria's Bonnquen Cafe,0,,7.0,7.0,6.9
+咖啡厅,Mango Cafe,Mango Cafe,0,,6.9,6.9,6.9
+咖啡厅,The Lighthouse Cafe,The Lighthouse Cafe,0,,7.2,7.2,7.2
+咖啡厅,Haagen-Dazs Cafe',Haagen-Dazs Cafe',0,,7.0,7.0,6.9
+咖啡厅,Oasis Cafe At Key Biscayne,Oasis Cafe At Key Biscayne,0,,7.1,7.1,7.1
+咖啡厅,Chez Enzo,Chez Enzo,0,,7.0,7.0,7.0
+咖啡厅,Dunkin' Donuts,Dunkin' Donuts,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+咖啡厅,Alhambra Station Cafe,Alhambra Station Cafe,0,,6.9,6.9,6.9
+咖啡厅,New China Rose,New China Rose,0,,6.9,6.9,6.9
+咖啡厅,cala cafe,cala cafe,0,,0.0,0.0,0.0
+咖啡厅,ShuckErs Bar & Grill,ShuckErs Bar & Grill,0,,0.0,0.0,0.0
+意大利菜,La cantinetta,La cantinetta,0,南海滩(South Beach),0.0,0.0,0.0
+意大利菜,Calamari,Calamari,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,Mozzarella,Mozzarella,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,Vino E Olio,Vino E Olio,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,MEGA PIZA,MEGA PIZA,0,南海滩(South Beach),0.0,0.0,0.0
+意大利菜,Tratoria Rosalia's,Tratoria Rosalia's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Capriccio il Ristorante,Capriccio il Ristorante,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Carrabba's Italian Grill,Carrabba's Italian Grill,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,Pericon'es,Pericon'es,0,南海滩(South Beach),0.0,0.0,0.0
+意大利菜,MC Kitchen,MC Kitchen,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Silvio's Downtown Bar & Grill,Silvio's Downtown Bar & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Primos,Primos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Trattoria Rosalia's,Trattoria Rosalia's,0,迈阿密其他,0.0,0.0,0.0
+意大利菜,Tuscany Trattoria,Tuscany Trattoria,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,Longoni Gourmet,Longoni Gourmet,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Pizzarium,Pizzarium,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Zucchero Ristorante Bistro,Zucchero Ristorante Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Ristorante Adriatico,Ristorante Adriatico,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,CHE Pasta Incorporated,CHE Pasta Incorporated,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,VERO Italian,VERO Italian,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Caffe Portofino,Caffe Portofino,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Mike's Pizzeria & Italian,Mike's Pizzeria & Italian,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Caffe Di Notte,Caffe Di Notte,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,Caffee Di Note,Caffee Di Note,0,迈阿密其他,0.0,0.0,0.0
+意大利菜,DI Papa's Fine Italian Restaurant,DI Papa's Fine Italian Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Ni.do. Caffe and Mozzarella Bar,Ni.do. Caffe and Mozzarella Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,La Dolce Vita Pizza,La Dolce Vita Pizza,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,Betto's ristorante italiano,Betto's ristorante italiano,0,北迈阿密(North Miami),0.0,0.0,0.0
+意大利菜,Basilico Ristorante,Basilico Ristorante,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,Bellacapri by Anacapri,Bellacapri by Anacapri,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,Mamma Lucia Pizza & Pasta,Mamma Lucia Pizza & Pasta,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Il Gabbiano,Il Gabbiano,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Fratelli Milano,Fratelli Milano,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Tre Italian Bistro,Tre Italian Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Harry's Pizzeria,Harry's Pizzeria,0,北迈阿密(North Miami),0.0,0.0,0.0
+意大利菜,Salumeria 104,Salumeria 104,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Toscana Divino,Toscana Divino,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,Mondo Pasta,Mondo Pasta,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Bocce Bar,Bocce Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Pasta Del Giorno,Pasta Del Giorno,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Anacapri Italian Restaurant,Anacapri Italian Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Nunzio's Restaurant INC,Nunzio's Restaurant INC,0,迈阿密其他,0.0,0.0,0.0
+意大利菜,Two Brothers Italian Restaurant,Two Brothers Italian Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,La Dolce Vita,La Dolce Vita,0,,6.8,7.1,7.1
+意大利菜,Big Fish,Big Fish,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Lombardi's INC,Lombardi's INC,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Sbarro,Sbarro,0,迈阿密其他,0.0,0.0,0.0
+意大利菜,Villagio,Villagio,0,迈阿密其他,0.0,0.0,0.0
+意大利菜,Mama Jennie's,Mama Jennie's,0,北迈阿密(North Miami),0.0,0.0,0.0
+意大利菜,Ludo's Italian Restaurant,Ludo's Italian Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,Focaccia Bistro,Focaccia Bistro,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,Bice Bistro,Bice Bistro,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,Rocco's Pizza Lounge,Rocco's Pizza Lounge,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,La Bottega Enoteca Sociale,La Bottega Enoteca Sociale,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,Bice Restaurant,Bice Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,Anacapri Italian Cuisine & Market,Anacapri Italian Cuisine & Market,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,La Nonna Italian Restaurant,La Nonna Italian Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,Olive Garden,Olive Garden,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,La Divina Commedia,La Divina Commedia,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,Villa Fresh Italian Kitchen,Villa Fresh Italian Kitchen,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,Spris Pizza,Spris Pizza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Piola Miami - Brickell,Piola Miami - Brickell,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+意大利菜,MaiTardi,MaiTardi,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Joey's Italian Cafe,Joey's Italian Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Scalina Ristorante,Scalina Ristorante,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,La Bottega on the Bay,La Bottega on the Bay,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Thea Pizzeria & Cafe,Thea Pizzeria & Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Capriccio on the river,Capriccio on the river,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Rosinella Downtown,Rosinella Downtown,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Amici's Trattoria Italiana,Amici's Trattoria Italiana,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Ciro's Italian Restaurant,Ciro's Italian Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Trattoria Dolce Vita,Trattoria Dolce Vita,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Trattoria Romanza,Trattoria Romanza,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Brio Tuscan Grill,Brio Tuscan Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Pizza Bianco,Pizza Bianco,0,迈阿密其他,0.0,0.0,0.0
+意大利菜,Nunzio's Italian Ristorante,Nunzio's Italian Ristorante,0,迈阿密其他,0.0,0.0,0.0
+意大利菜,Salvatore D.,Salvatore D.,0,迈阿密其他,0.0,0.0,0.0
+意大利菜,Olive Garden,Olive Garden,0,迈阿密其他,0.0,0.0,0.0
+意大利菜,La Locanda,La Locanda,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Andiamo,Andiamo,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Pizza Point,Pizza Point,0,北迈阿密(North Miami),0.0,0.0,0.0
+意大利菜,El Polo Norte,El Polo Norte,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,Romano's Macaroni Grill,Romano's Macaroni Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,Rotelli,Rotelli,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,Sabbia at Brickell,Sabbia at Brickell,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Largo Bar & Grill,Largo Bar & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,D'oro Caffe & Market,D'oro Caffe & Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Cipriani,Cipriani,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,"Rotelli, Pizza, Pasta, Perfect","Rotelli, Pizza, Pasta, Perfect",0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,Carmine's La Trattoria Restaurant,Carmine's La Trattoria Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+意大利菜,La Terraza,La Terraza,0,迈阿密其他,0.0,0.0,0.0
+意大利菜,Pittzza,Pittzza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Basilico,Basilico,0,,7.2,7.2,7.2
+意大利菜,Valentino Sul Mare,Valentino Sul Mare,0,,7.1,7.1,7.1
+意大利菜,Flora East Side Pizza,Flora East Side Pizza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Pasta Factory,Pasta Factory,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+意大利菜,Safi Restaurant and Gourmet Market,Safi Restaurant and Gourmet Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+意大利菜,Cici,Cici,0,迈阿密其他,0.0,0.0,0.0
+意大利菜,Sugo,Sugo,0,,6.9,6.9,6.9
+酒吧,IceBox Cafe,IceBox Cafe,0,,7.3,7.3,7.3
+酒吧,The Corner,The Corner,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,Bunbury,Bunbury,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,World of Beer,World of Beer,0,肯德尔(Kendall),0.0,0.0,0.0
+酒吧,Canela Tapas & Wine Bar,Canela Tapas & Wine Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,BarMeli,BarMeli,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,Twist,Twist,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,Upstairs at the Van Dyke Cafe,Upstairs at the Van Dyke Cafe,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,Hoy Como Ayer,Hoy Como Ayer,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,Bongos Cuban Cafe,Bongos Cuban Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,Blue Martini Brickell,Blue Martini Brickell,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+酒吧,Club 50,Club 50,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,B and S Gastropub,B and S Gastropub,0,肯德尔(Kendall),0.0,0.0,0.0
+酒吧,Vino's in the Grove,Vino's in the Grove,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+酒吧,Blackbird Ordinary,Blackbird Ordinary,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,Story Nightclub,Story Nightclub,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,Chili's,Chili's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+酒吧,Bella Luna,Bella Luna,0,,7.2,7.2,7.2
+酒吧,Cabana Beach Club,Cabana Beach Club,0,,7.2,7.2,7.2
+酒吧,Mynt,Mynt,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,Rok Bar,Rok Bar,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,LIV,LIV,0,迈阿密其他,0.0,0.0,0.0
+酒吧,Uva 69,Uva 69,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,Laundry Bar,Laundry Bar,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,MO Bar + Lounge,MO Bar + Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,Transit Lounge,Transit Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,Kouzina Greek Bistro,Kouzina Greek Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,Tap79 Gastropub,Tap79 Gastropub,0,迈阿密其他,0.0,0.0,0.0
+酒吧,Big Pink,Big Pink,0,,7.2,7.2,7.2
+酒吧,Palace Food Bar,Palace Food Bar,0,,7.2,7.2,7.2
+酒吧,Flanigan's Seafood Bar and Grill,Flanigan's Seafood Bar and Grill,0,,7.2,7.2,7.2
+酒吧,19th Hole - Doral Park Country Club,19th Hole - Doral Park Country Club,0,,7.0,7.0,7.0
+酒吧,K17 Beach Club,K17 Beach Club,0,,6.9,6.9,6.9
+酒吧,Aqua,Aqua,0,,7.0,7.0,6.9
+酒吧,Cameo Nightclub,Cameo Nightclub,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,Cucu's Nest Bar,Cucu's Nest Bar,0,,6.9,6.7,6.7
+酒吧,Mansion Club,Mansion Club,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,Cheeseburger Baby,Cheeseburger Baby,0,,7.2,7.2,7.2
+酒吧,Little Hoolie's Sports Bar and Grille,Little Hoolie's Sports Bar and Grille,0,肯德尔(Kendall),0.0,0.0,0.0
+酒吧,Churchill's Pub,Churchill's Pub,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,Buck 15,Buck 15,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,The Lounge Barber Shop & Bar,The Lounge Barber Shop & Bar,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,Job of Hotel,Job of Hotel,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+酒吧,Wood Tavern,Wood Tavern,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,The Clevelander Bar,The Clevelander Bar,0,,7.2,7.2,7.2
+酒吧,Guru Indian Restaurant and Wine Bar,Guru Indian Restaurant and Wine Bar,0,,7.2,7.2,7.2
+酒吧,Tantra,Tantra,0,,7.2,7.2,7.2
+酒吧,Dolce,Dolce,0,,7.2,7.2,7.2
+酒吧,The Social Club,The Social Club,0,,7.2,7.2,7.2
+酒吧,sky bar,sky bar,0,,7.2,7.2,7.2
+酒吧,Rose Bar,Rose Bar,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,Set,Set,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,Georges,Georges,0,,7.1,7.1,7.1
+酒吧,Chu's Taiwanese Kitchen and Bar,Chu's Taiwanese Kitchen and Bar,0,,7.1,7.1,7.1
+酒吧,Bar Crudo,Bar Crudo,0,,7.1,7.1,7.1
+酒吧,Whopper Bar,Whopper Bar,0,,6.9,6.9,6.9
+酒吧,Marlin Bar at the Marlin Hotel,Marlin Bar at the Marlin Hotel,0,,7.3,7.3,7.3
+酒吧,Athens Juice Bar,Athens Juice Bar,0,,7.1,7.1,7.0
+酒吧,Pub Chicken,Pub Chicken,0,,6.9,6.9,6.9
+酒吧,Big Tomato Mini Springs,Big Tomato Mini Springs,0,,6.9,6.9,6.9
+酒吧,Athens Juice Bar,Athens Juice Bar,0,,7.1,7.1,7.0
+酒吧,Lotus Miami,Lotus Miami,0,,7.1,7.1,7.0
+酒吧,Bagel Bar Eastat San Souci,Bagel Bar Eastat San Souci,0,,7.1,7.1,7.1
+酒吧,Aroma Espresso Bar,Aroma Espresso Bar,0,,7.1,7.1,7.1
+酒吧,Dairy Queen,Dairy Queen,0,,7.1,7.1,7.1
+酒吧,Artisan Kitchen and Bar,Artisan Kitchen and Bar,0,,7.1,6.8,7.1
+酒吧,Ceviche Bar by Mixtura,Ceviche Bar by Mixtura,0,,6.9,6.9,6.9
+酒吧,Cava,Cava,0,,7.0,7.0,7.0
+酒吧,Top Burger,Top Burger,0,,7.0,7.0,7.0
+酒吧,Bryson's Pub,Bryson's Pub,0,,7.1,6.7,6.7
+酒吧,Miami Springs Golf and Country Club,Miami Springs Golf and Country Club,0,,6.9,6.9,6.9
+酒吧,American Czech and Slovak Social Club,American Czech and Slovak Social Club,0,,7.0,7.0,7.0
+酒吧,Corona Beach House,Corona Beach House,0,迈阿密其他,0.0,0.0,0.0
+酒吧,Biltmore Bar,Biltmore Bar,0,,6.5,7.1,7.1
+酒吧,Chocolate Fashion,Chocolate Fashion,0,,7.2,7.2,7.2
+酒吧,Swine Southern Table and Bar,Swine Southern Table and Bar,0,,7.2,7.2,7.2
+酒吧,Lotus Garden,Lotus Garden,0,,7.3,7.3,7.1
+酒吧,Cibo Wine Bar,Cibo Wine Bar,0,,7.2,7.2,7.2
+酒吧,The Bar,The Bar,0,,6.7,6.9,6.9
+酒吧,The Hangout Bar,The Hangout Bar,0,,6.9,6.9,6.9
+酒吧,Monty's Raw Bar,Monty's Raw Bar,0,,7.2,7.2,7.2
+酒吧,Aroma Expresso Bar,Aroma Expresso Bar,0,,7.1,7.1,7.1
+酒吧,Aroma Espresso Bar,Aroma Espresso Bar,0,,7.2,7.2,7.2
+酒吧,Clandestino Pub,Clandestino Pub,0,,6.9,7.1,7.1
+酒吧,MIX South Beach,MIX South Beach,0,,7.0,7.1,7.1
+酒吧,Toni's New Tokyo Cuisine and Sushi Bar,Toni's New Tokyo Cuisine and Sushi Bar,0,,7.2,7.2,7.2
+酒吧,Crazy Mexican Taco Bar,Crazy Mexican Taco Bar,0,,7.1,7.1,6.8
+酒吧,Soho Sobe Pizzeria,Soho Sobe Pizzeria,0,,6.9,7.0,6.9
+酒吧,Crema Gourmet Espresso Bar,Crema Gourmet Espresso Bar,0,,7.1,7.1,7.1
+酒吧,Pizza Bar,Pizza Bar,0,,7.2,7.2,7.2
+酒吧,Changes Bar and Grille,Changes Bar and Grille,0,,6.9,6.9,6.9
+酒吧,Cecconni's at Soho Hotel,Cecconni's at Soho Hotel,0,,7.2,7.2,7.2
+酒吧,Blue Sky Marketplace,Blue Sky Marketplace,0,,6.9,6.9,6.9
+酒吧,Havana,Havana,0,,7.0,6.9,6.9
+酒吧,Tahiti Beach Club,Tahiti Beach Club,0,,7.1,7.3,7.3
+酒吧,Fat Monkey Bar,Fat Monkey Bar,0,,6.9,7.1,6.9
+酒吧,Hooligan's Pub,Hooligan's Pub,0,,6.9,6.9,6.9
+酒吧,Chocolate Fashion,Chocolate Fashion,0,,7.0,7.0,7.0
+酒吧,B.E.D.,B.E.D.,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,Crobar,Crobar,0,南海滩(South Beach),0.0,0.0,0.0
+酒吧,World of Beer,World of Beer,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,Legends Sports Bar and Grill,Legends Sports Bar and Grill,0,迈阿密其他,0.0,0.0,0.0
+酒吧,Sun Juice Smoothie and Juice Bar,Sun Juice Smoothie and Juice Bar,0,,6.9,6.9,6.9
+酒吧,The River Seafood & Oyster Bar,The River Seafood & Oyster Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+酒吧,ShuckErs Bar & Grill,ShuckErs Bar & Grill,0,,0.0,0.0,0.0
+法国菜,La Baguette,La Baguette,0,迈阿密市区(Downtown Miami),8.1,8.1,8.1
+法国菜,Le Bouchon du Grove,Le Bouchon du Grove,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+法国菜,Seasalt and Pepper,Seasalt and Pepper,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,94th Aero Squadron,94th Aero Squadron,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+法国菜,Nutreat Restaurant,Nutreat Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,CrepeMaker Catering,CrepeMaker Catering,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+法国菜,CrepeMaker Sunset Place Mall,CrepeMaker Sunset Place Mall,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+法国菜,W Wine Bistro,W Wine Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Restaurante Monserrate,Restaurante Monserrate,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,db Bistro Moderne,db Bistro Moderne,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,The Island Bistro,The Island Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Le Cafe Bistro,Le Cafe Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Le Cafe Pop,Le Cafe Pop,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+法国菜,LouLou Le Petit Bistro,LouLou Le Petit Bistro,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+法国菜,Bvd,Bvd,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Downtown Bistro,Downtown Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,la Cigale,la Cigale,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Buena Vista Bistro,Buena Vista Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Dominique Bistro,Dominique Bistro,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+法国菜,La Provence,La Provence,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Lagniappe,Lagniappe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Nothing But The Best,Nothing But The Best,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Crepe Maker Cafe,Crepe Maker Cafe,0,肯德尔(Kendall),0.0,0.0,0.0
+法国菜,Café Catula Restaurant & Fine Art Gallery,Café Catula Restaurant & Fine Art Gallery,0,迈阿密其他,0.0,0.0,0.0
+法国菜,Bistro Foly,Bistro Foly,0,迈阿密其他,0.0,0.0,0.0
+法国菜,Magnum Lounge,Magnum Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,George's in the Grove,George's in the Grove,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+法国菜,Bistro Bisou,Bistro Bisou,0,肯德尔(Kendall),0.0,0.0,0.0
+法国菜,La Riviera at Sofitel Miami,La Riviera at Sofitel Miami,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+法国菜,Copperbox Culinary Atelier,Copperbox Culinary Atelier,0,北迈阿密(North Miami),0.0,0.0,0.0
+法国菜,Georges Kitchen,Georges Kitchen,0,北迈阿密(North Miami),0.0,0.0,0.0
+法国菜,Banna Strow's Crepes and Coffee,Banna Strow's Crepes and Coffee,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Fresco California Bistro,Fresco California Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Michy's,Michy's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,Petite Rouge,Petite Rouge,0,迈阿密其他,0.0,0.0,0.0
+法国菜,CrepeMaker Dadeland Mall,CrepeMaker Dadeland Mall,0,肯德尔(Kendall),0.0,0.0,0.0
+法国菜,L'Entrecote de Paris,L'Entrecote de Paris,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+法国菜,La Bodega,La Bodega,0,肯德尔(Kendall),0.0,0.0,0.0
+法国菜,LongHorn Steakhouse,LongHorn Steakhouse,0,,6.9,6.9,7.0
+法国菜,Whisk,Whisk,0,,7.2,7.2,7.2
+法国菜,Moloko: The Art of Crepe & Coffee,Moloko: The Art of Crepe & Coffee,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,Chipotle Mexican Grill,Chipotle Mexican Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+墨西哥菜,Mi Rinconcito Mexicano,Mi Rinconcito Mexicano,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,Jacalito Taqueria,Jacalito Taqueria,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,La Mexicana Cantina & Grill,La Mexicana Cantina & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,Salsa Fiesta,Salsa Fiesta,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,Bacardi Mojito Bar,Bacardi Mojito Bar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+墨西哥菜,Lime Fresh Mexican Grill,Lime Fresh Mexican Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,Mercadito Midtown,Mercadito Midtown,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,El Vato Tequila and Taco Bar,El Vato Tequila and Taco Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,Ernesto's Taco Shop,Ernesto's Taco Shop,0,肯德尔(Kendall),0.0,0.0,0.0
+墨西哥菜,Fisher's Seafood,Fisher's Seafood,0,迈阿密其他,0.0,0.0,0.0
+墨西哥菜,Iguana Ranas Mexican Grill,Iguana Ranas Mexican Grill,0,迈阿密其他,0.0,0.0,0.0
+墨西哥菜,Cheen Huaye,Cheen Huaye,0,迈阿密其他,0.0,0.0,0.0
+墨西哥菜,On the Border,On the Border,0,迈阿密其他,0.0,0.0,0.0
+墨西哥菜,The MexZican Gourmet,The MexZican Gourmet,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+墨西哥菜,Lime Fresh Mexican Grill,Lime Fresh Mexican Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+墨西哥菜,Chipotle Mexican Grill,Chipotle Mexican Grill,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+墨西哥菜,Lolita Cucina & Tequila Bar,Lolita Cucina & Tequila Bar,0,南海滩(South Beach),0.0,0.0,0.0
+墨西哥菜,La Lupita,La Lupita,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,Los Tres Amigos,Los Tres Amigos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,El Taquito,El Taquito,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,Taqueria El Mexicano,Taqueria El Mexicano,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,El Coladito Cafeteria,El Coladito Cafeteria,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,Offerdahl's Cafe Grill,Offerdahl's Cafe Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+墨西哥菜,Las Cazuelas,Las Cazuelas,0,肯德尔(Kendall),0.0,0.0,0.0
+墨西哥菜,Don Burrito,Don Burrito,0,迈阿密其他,0.0,0.0,0.0
+墨西哥菜,Rio Cristal,Rio Cristal,0,迈阿密其他,0.0,0.0,0.0
+墨西哥菜,Taco Bell,Taco Bell,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+墨西哥菜,Chevy's Fresh Mex,Chevy's Fresh Mex,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+墨西哥菜,Lime Fresh Mexican Grill,Lime Fresh Mexican Grill,0,北迈阿密(North Miami),0.0,0.0,0.0
+墨西哥菜,Lorena Garcia Cocina,Lorena Garcia Cocina,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+墨西哥菜,Cafe Tex Mex,Cafe Tex Mex,0,肯德尔(Kendall),0.0,0.0,0.0
+墨西哥菜,Jose Cuervo Tequileria,Jose Cuervo Tequileria,0,迈阿密其他,0.0,0.0,0.0
+墨西哥菜,Jose Cuervo Taquileria,Jose Cuervo Taquileria,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Versailles ResTaurAnt,Versailles ResTaurAnt,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Hard Rock Cafe,Hard Rock Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Toro Toro Restaurant & Bar,Toro Toro Restaurant & Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Whip 'N Dip Ice Cream,Whip 'N Dip Ice Cream,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,LuLu - Coconut Grove,LuLu - Coconut Grove,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,LoKal,LoKal,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Casa Juancho,Casa Juancho,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Los Ranchos Steakhouse,Los Ranchos Steakhouse,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Wolfgang's Steakhouse,Wolfgang's Steakhouse,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Mandolin Aegean Bistro,Mandolin Aegean Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Donde Pepe,Donde Pepe,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Whitney's,Whitney's,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Morton's The Steakhouse,Morton's The Steakhouse,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Lili's Catch of the Day,Lili's Catch of the Day,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Steak Brasil Churrascaria,Steak Brasil Churrascaria,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,The Corner,The Corner,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Bunbury,Bunbury,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Nutreat Restaurant,Nutreat Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Latin America Corner Restaurant & Plaza,Latin America Corner Restaurant & Plaza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,La Capital De Los Jugos,La Capital De Los Jugos,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,BarMeli,BarMeli,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Casabe 305 Bistro,Casabe 305 Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,La Casa de la Bohemia Habanera,La Casa de la Bohemia Habanera,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Hanks' Place,Hanks' Place,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Texas Do Brasil,Texas Do Brasil,0,迈阿密海滩(Miami Beach),0.0,0.0,0.0
+其他西餐,Bizcaya Restaurant,Bizcaya Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,La Camaronera Fish Market,La Camaronera Fish Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Tablazo Taberna Restaurant,El Tablazo Taberna Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Ku-va Restaurant & Bar,Ku-va Restaurant & Bar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Graziano's - Miami,Graziano's - Miami,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Texas de Brazil,Texas de Brazil,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Five Guys,Five Guys,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Pollo Inka Miami,El Pollo Inka Miami,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Patagonia Nahuen,Patagonia Nahuen,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Madrid Tapas y Vinos,Madrid Tapas y Vinos,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Conch Heaven,Conch Heaven,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他西餐,Lime Fresh Mexican Grill,Lime Fresh Mexican Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Devon,Devon,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Cava Flamenco Restaurant,Cava Flamenco Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Jhonny rocket dolphin mall,Jhonny rocket dolphin mall,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Patagonia Argentina,La Patagonia Argentina,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Puerto Madero,Puerto Madero,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Old Lisbon Restaurant,Old Lisbon Restaurant,0,南海滩(South Beach),0.0,0.0,0.0
+其他西餐,Sobe Munchies,Sobe Munchies,0,南海滩(South Beach),0.0,0.0,0.0
+其他西餐,Casa Juan Restaurant,Casa Juan Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Miami Grill Catering LLC,Miami Grill Catering LLC,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Carreta Airport,La Carreta Airport,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Casa Bacardi,Casa Bacardi,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Sabor Latino,Sabor Latino,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Delano,Delano,0,南海滩(South Beach),0.0,0.0,0.0
+其他西餐,David's Cafe I and Market Place,David's Cafe I and Market Place,0,南海滩(South Beach),0.0,0.0,0.0
+其他西餐,Novecento - Brickell,Novecento - Brickell,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Yambo Restaurant,Yambo Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Mesazul at Doral Golf Resort and Spa,Mesazul at Doral Golf Resort and Spa,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,LongHorn Steakhouse,LongHorn Steakhouse,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Carreta,La Carreta,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,79 cafe,79 cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Sitio,El Sitio,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Havana Spice,Havana Spice,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Bob's Burger Palace,Bob's Burger Palace,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Almazar,Almazar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Fogata BBQ,La Fogata BBQ,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Taberna Cubana,La Taberna Cubana,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Sabor De Espana,Sabor De Espana,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Yoly's Cuban Cafe and Restaurant,Yoly's Cuban Cafe and Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Zalameria Restaurant,Zalameria Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Sabores By Chef James,Sabores By Chef James,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Zalameria Tapas & More,Zalameria Tapas & More,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Pocho's Express,Pocho's Express,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Sol De Miami,Sol De Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Como Se Llama?,Como Se Llama?,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,KC's Cafe,KC's Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,La Parrilla,La Parrilla,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Los Catrachos,Los Catrachos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Forty Four Cafe,Forty Four Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Happy Wine Coconut Grove Florida,Happy Wine Coconut Grove Florida,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Coffeezone,Coffeezone,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Cao Chocolates,Cao Chocolates,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,La Prepago,La Prepago,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Hungry Bear,Hungry Bear,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Sabor A Cafe,Sabor A Cafe,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Military Burger,Military Burger,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Macitas Restaurant Kendalll,Macitas Restaurant Kendalll,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Juicy Luucy,Juicy Luucy,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Jamrock Cuisine,Jamrock Cuisine,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Pueblito Paisa Miami,Pueblito Paisa Miami,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Casa Marin II,Casa Marin II,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Bahia Honda Fish Market & Restaurant,Bahia Honda Fish Market & Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Sol y Son Cuban Cuisine,Sol y Son Cuban Cuisine,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Golden Krust,Golden Krust,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,4100 Restaurant,4100 Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Pasha's,Pasha's,0,南海滩(South Beach),0.0,0.0,0.0
+其他西餐,Ouzo's Greek Taverna,Ouzo's Greek Taverna,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Devita's Restaurant,Devita's Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Lo de Lea Argentinian Grill,Lo de Lea Argentinian Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Fiorito,Fiorito,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Royal Bavarian Schnitzel Haus,Royal Bavarian Schnitzel Haus,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他西餐,Mina's Mediterraneo,Mina's Mediterraneo,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Aroma Espresso Bar,Aroma Espresso Bar,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Villa Habana Restaurant,Villa Habana Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Rincon Espanol,Rincon Espanol,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Jardim de Portugal,Jardim de Portugal,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Carajo,El Carajo,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Doggi's Venezuelan Cuisine,Doggi's Venezuelan Cuisine,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Jaguar Ceviche Spoon Bar and Latin Grill,Jaguar Ceviche Spoon Bar and Latin Grill,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,El Mago de las Fritas,El Mago de las Fritas,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Rosa,La Rosa,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Makarena,La Makarena,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Savor Miami,Savor Miami,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Argentina Steak House,Argentina Steak House,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Luis Galindo Latin America,Luis Galindo Latin America,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Latin Cafe 2000,Latin Cafe 2000,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,El Gallego Spanish Tavern,El Gallego Spanish Tavern,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Sabores Chilenos,Sabores Chilenos,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Lola's Gourmet,Lola's Gourmet,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Madrono Restaurant,Madrono Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Elia Gourmet,Elia Gourmet,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Latin Cafe 2000,Latin Cafe 2000,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Coco Gelato,Coco Gelato,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Jean Paul's House,Jean Paul's House,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Guayacan Restaurant,Guayacan Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,SUGARCANE raw bar grill,SUGARCANE raw bar grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Rincon Asturiano,El Rincon Asturiano,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Jamon Jamon Jamon,Jamon Jamon Jamon,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Bin No. 18,Bin No. 18,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Catharsis Restaurant & Lounge,Catharsis Restaurant & Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Pub Restaurant,El Pub Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Las Tapas de Rosa,Las Tapas de Rosa,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Panther Coffee,Panther Coffee,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Tapas Xperience,Tapas Xperience,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,The Trapiche Room,The Trapiche Room,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Meson Ria de Vigo,Meson Ria de Vigo,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Enriqueta's Sandwich Shop,Enriqueta's Sandwich Shop,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,KFC,KFC,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Cristo Restaurant,El Cristo Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Los Tanitos,Los Tanitos,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Tardes Calenas,Tardes Calenas,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Café Catula Restaurant & Fine Art Gallery,Café Catula Restaurant & Fine Art Gallery,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,El Chalan Restaurant,El Chalan Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Mekato Paisa Restaurant,Mekato Paisa Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Los Arrieros Restaurant,Los Arrieros Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Panera Bread,Panera Bread,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Almanara Mediterranean Cuisine,Almanara Mediterranean Cuisine,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Islas Canarias,Islas Canarias,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Original Pancake House,Original Pancake House,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Brazucas Grill,Brazucas Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Mojito Grill,Mojito Grill,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Casa Paco,Casa Paco,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Tuto's Place,Tuto's Place,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Jumbo's Restaurant,Jumbo's Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Sopranos,Sopranos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Kouzina Greek Bistro,Kouzina Greek Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,TGI Friday's,TGI Friday's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Lazuli Lounge,Lazuli Lounge,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Sancho Restaurant,Sancho Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Luis Galindo Latin America 2,Luis Galindo Latin America 2,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他西餐,Choices Cafe,Choices Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Schnitzel House,Schnitzel House,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他西餐,Casola's Pizzeria & Sub Shop,Casola's Pizzeria & Sub Shop,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,El Novillo Restaurant,El Novillo Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,The Irish Times Pub and Eatery,The Irish Times Pub and Eatery,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,European Corner,European Corner,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,El Churrasquito Argentino,El Churrasquito Argentino,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Jimmy'z Kitchen,Jimmy'z Kitchen,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,"Taverna pita grill, miami florida","Taverna pita grill, miami florida",0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Las Culebrinas,Las Culebrinas,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Hard Rock Cafe,Hard Rock Cafe,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,La Gamba Restaurant,La Gamba Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Los Gallegos,Los Gallegos,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,"The Knife, Steak House","The Knife, Steak House",0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Cane Fire Grille,Cane Fire Grille,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Riviera at Sofitel Miami,La Riviera at Sofitel Miami,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Doubleshot Tapas and Burger Bar,Doubleshot Tapas and Burger Bar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Palomilla Grill,Palomilla Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Palma Latin Cafe,La Palma Latin Cafe,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,5300 Chop House at The Blue,5300 Chop House at The Blue,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Olivos Restaurant,Olivos Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Beaudevin Miami Airport,Beaudevin Miami Airport,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Don Davis Steak House,Don Davis Steak House,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Mojitos Cuban Cuisine,Mojitos Cuban Cuisine,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Que Bueno,Que Bueno,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Ultima Parada,La Ultima Parada,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Sbarro's,Sbarro's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Starbucks,Starbucks,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Caribe cafe rest,Caribe cafe rest,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Los Ranchos Steakhouse,Los Ranchos Steakhouse,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,A & G Burger Joint,A & G Burger Joint,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,El Corral,El Corral,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Barzola Restaurant,Barzola Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Casa Larios,Casa Larios,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Lagar de miami,Lagar de miami,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Outback Steakhouse,Outback Steakhouse,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Johnny Rockets,Johnny Rockets,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Let's Make A Daiquiri,Let's Make A Daiquiri,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Mondongo's Restaurant,Mondongo's Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Tutto Pasta,Tutto Pasta,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Freshko Gourmet,Freshko Gourmet,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Doma Polo Bistro,Doma Polo Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Giraffas,Giraffas,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,S & S Restaurant,S & S Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Crazy about you,Crazy about you,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Rey De Las Fritas,El Rey De Las Fritas,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,La Moon Restaurant,La Moon Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Manhattan Cafe & Market,Manhattan Cafe & Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Elwoods Gastro Pub,Elwoods Gastro Pub,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Egg & Dart,Egg & Dart,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Hamburguesa,Hamburguesa,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Latin American Cuban Cuisine,Latin American Cuban Cuisine,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,PM Buenos Aires,PM Buenos Aires,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Mare Nostrum,Mare Nostrum,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Fado Irish Pub and Restaurant,Fado Irish Pub and Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,The Cheese Course,The Cheese Course,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Bocaito Spanish Cuisine,Bocaito Spanish Cuisine,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Rincon Escondido Cafe,Rincon Escondido Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Sugar cane,Sugar cane,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,estiatorio milos,estiatorio milos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Jimmy'z Kitchen Wynwood,Jimmy'z Kitchen Wynwood,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Kokoriko,Kokoriko,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,University Restaurant & Patio,University Restaurant & Patio,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Los pinarenos,Los pinarenos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Rice House of Kabob,Rice House of Kabob,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Kokoriko,Kokoriko,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Waxy O'Connor's on the River,Waxy O'Connor's on the River,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Juana M,Juana M,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Diego's Tapas,Diego's Tapas,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Exquisito Restaurant,El Exquisito Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Ayestaran Restaurant,Ayestaran Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Ceviche Piano,Ceviche Piano,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Tete,Tete,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,La Gitana Tapas Y Tintos,La Gitana Tapas Y Tintos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Island Restaurant,Island Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Faroz Grill,Faroz Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Sergio's Kendall,Sergio's Kendall,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Outback Steakhouse,Outback Steakhouse,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Ruson Japanese Steak House,Ruson Japanese Steak House,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,El Rinconcito Latino,El Rinconcito Latino,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Havana Miami,Havana Miami,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,La Caretta,La Caretta,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Al Carbon,Al Carbon,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Rincon Argentino - Kendall,Rincon Argentino - Kendall,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Pueblito Viejo,Pueblito Viejo,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Holy Bagels & Pizzeria,Holy Bagels & Pizzeria,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Pasapoga Cuban Cusine,Pasapoga Cuban Cusine,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Palacio De Los Jugos,Palacio De Los Jugos,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,El Nuevo Siglo Supermarket,El Nuevo Siglo Supermarket,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,100 Montaditos,100 Montaditos,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,El Meson de la Cava Restaurant,El Meson de la Cava Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Polo Norte,Polo Norte,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,La Cosecha,La Cosecha,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Carreta 40th,La Carreta 40th,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Barrio Latino,Barrio Latino,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,La Giraldilla Restaurant,La Giraldilla Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Shalom-Haifa Restaurant,Shalom-Haifa Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Boteco Brazilian Bar,Boteco Brazilian Bar,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他西餐,"Soyka's Restaurant, Cafe & Bar","Soyka's Restaurant, Cafe & Bar",0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Los Chamos,Los Chamos,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Taperia Raca,Taperia Raca,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Acropolis Greek Taverna,Acropolis Greek Taverna,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Gibraltar Restaurant,Gibraltar Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Johnny Rockets,Johnny Rockets,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Blue Sky Food By The Pound,Blue Sky Food By The Pound,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,El Polo Norte,El Polo Norte,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Taverna Opa,Taverna Opa,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Rice House of Kabob,Rice House of Kabob,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Rosa Baker,La Rosa Baker,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Los Parados Cafeteria,Los Parados Cafeteria,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Clover Irish Pub,Clover Irish Pub,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Lime Fresh Mexican Grill,Lime Fresh Mexican Grill,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他西餐,Latin American Bayside Cafe,Latin American Bayside Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Baru Urbano,Baru Urbano,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,1401 Argentinean & Mediterranean Bistro,1401 Argentinean & Mediterranean Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Cartel columbian,El Cartel columbian,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Sergio's,Sergio's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,The Butcher Shop Beer Garden & Grill,The Butcher Shop Beer Garden & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Crumb on Parchment,Crumb on Parchment,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Bayside Lombardi’s,Bayside Lombardi’s,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Brasileiro Steakhouse Miami,Brasileiro Steakhouse Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,My Ceviche,My Ceviche,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,The Knife Restaurant,The Knife Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Grimpa Steakhouse,Grimpa Steakhouse,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Oye Cuban Grill,Oye Cuban Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Bargello Bistro,Bargello Bistro,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Malanga Cafe,Malanga Cafe,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Johnny Rockets,Johnny Rockets,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Latin American Restaurant & Cafeteria,Latin American Restaurant & Cafeteria,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Miller's Ale House Restaurants,Miller's Ale House Restaurants,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Miami Jai-alai Courtview Club,Miami Jai-alai Courtview Club,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Wajiro's,Wajiro's,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,La Bodeguita,La Bodeguita,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,LongHorn Steakhouse,LongHorn Steakhouse,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,La Casita,La Casita,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,La Nueva Argentina,La Nueva Argentina,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Homefield Sportsbar,Homefield Sportsbar,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Tasca De España,Tasca De España,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,El Chaman Peruvian Restaurant,El Chaman Peruvian Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,El Rinconcito Paisa #3,El Rinconcito Paisa #3,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Gauchos Argentinean Gourmet,Gauchos Argentinean Gourmet,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,Sergio's 40th,Sergio's 40th,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,The Room Cafe and Bar,The Room Cafe and Bar,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他西餐,Pittzza,Pittzza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Mykonos,Mykonos,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Celebration,Celebration,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他西餐,Finnegan's 2,Finnegan's 2,0,南海滩(South Beach),0.0,0.0,0.0
+其他西餐,Sonia's Seafood,Sonia's Seafood,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Benny's Seafood Restaurant,Benny's Seafood Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Casa Cani,Casa Cani,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Eat At Pita,Eat At Pita,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,Imperia Miami Restaurant&Lounge,Imperia Miami Restaurant&Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Oasis Cafe,Oasis Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,The Blue Piano,The Blue Piano,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,The Lucky Clover,The Lucky Clover,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Senorial,El Senorial,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Kork Wine and Cheese Bar,Kork Wine and Cheese Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Mambos at biscayne bay,Mambos at biscayne bay,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,El Arepazo 2 Brickell,El Arepazo 2 Brickell,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,La Pupusa Factory,La Pupusa Factory,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Casa Panza Cafe,Casa Panza Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Alhambra Restaurant,Alhambra Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Shawarma Mediterranean Grill,Shawarma Mediterranean Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,Casa Marin II,Casa Marin II,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,La Selecta,La Selecta,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他西餐,Moonlite Diner,Moonlite Diner,0,肯德尔(Kendall),0.0,0.0,0.0
+其他西餐,El Gallegazo Restaurant,El Gallegazo Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他西餐,CinéBistro,CinéBistro,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他西餐,La Boca,La Boca,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+中餐,Tropical Chinese Restaurant,Tropical Chinese Restaurant,0,迈阿密其他,0.0,0.0,0.0
+中餐,P.F. Chang's,P.F. Chang's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+中餐,P.F. Chang's,P.F. Chang's,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+中餐,四川餐馆,四川餐馆,0,,7.1,7.1,7.1
+中餐,3 Chef's,3 Chef's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+中餐,Kon Chau,Kon Chau,0,迈阿密其他,0.0,0.0,0.0
+中餐,Silver Palace Chinese Restaurant,Silver Palace Chinese Restaurant,0,迈阿密其他,0.0,0.0,0.0
+中餐,Hakkasan,Hakkasan,0,,6.5,7.0,7.5
+中餐,Hong Kong Restaurant,Hong Kong Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+中餐,Canton Palace Chinese Restaurant,Canton Palace Chinese Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+中餐,Canton,Canton,0,迈阿密其他,0.0,0.0,0.0
+中餐,Los Ranchos Steakhouse,Los Ranchos Steakhouse,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+中餐,Soi Chinese Kitchen,Soi Chinese Kitchen,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+中餐,Chung Heng Chinese Food,Chung Heng Chinese Food,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+中餐,Chang's Palace Restaurant,Chang's Palace Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+中餐,China Buffet II,China Buffet II,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+中餐,Patio Tipico bar and restaurant,Patio Tipico bar and restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+中餐,Gold China,Gold China,0,肯德尔(Kendall),0.0,0.0,0.0
+中餐,Tony Chan's Water Club,Tony Chan's Water Club,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+中餐,P F Chang,P F Chang,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+中餐,Ping House Chinese,Ping House Chinese,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+中餐,Pekin Chinese Restaurant,Pekin Chinese Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+中餐,China Wind,China Wind,0,肯德尔(Kendall),0.0,0.0,0.0
+中餐,China Kitchen,China Kitchen,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+中餐,Confucio Express,Confucio Express,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+中餐,Canton Rose,Canton Rose,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+中餐,PF Chang's,PF Chang's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+中餐,Wok Masters by Moy,Wok Masters by Moy,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+中餐,Canton Chinese Restaurant King's Bay,Canton Chinese Restaurant King's Bay,0,肯德尔(Kendall),0.0,0.0,0.0
+中餐,The Chinese Restaurant of Kendall,The Chinese Restaurant of Kendall,0,肯德尔(Kendall),0.0,0.0,0.0
+中餐,Jamrock Cuisine,Jamrock Cuisine,0,肯德尔(Kendall),0.0,0.0,0.0
+中餐,Sang's Chinese Food,Sang's Chinese Food,0,迈阿密其他,0.0,0.0,0.0
+中餐,Canton,Canton,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+中餐,Tien Hung Chinese Restaurant,Tien Hung Chinese Restaurant,0,迈阿密其他,0.0,0.0,0.0
+中餐,Hong Kong City,Hong Kong City,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+中餐,El Atlakat,El Atlakat,0,迈阿密其他,0.0,0.0,0.0
+中餐,P.F. Chang's,P.F. Chang's,0,肯德尔(Kendall),0.0,0.0,0.0
+中餐,Pei Wei Asian Diner,Pei Wei Asian Diner,0,肯德尔(Kendall),0.0,0.0,0.0
+中餐,South Garden Chinese Restuarant,South Garden Chinese Restuarant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+中餐,Wok & Roll,Wok & Roll,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+中餐,Main Moon Buffet,Main Moon Buffet,0,迈阿密其他,0.0,0.0,0.0
+中餐,MISS YIP CHINESE CAFE,MISS YIP CHINESE CAFE,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Hiro's Sushi Express,Hiro's Sushi Express,0,迈阿密海滩(Miami Beach),8.1,7.3,7.4
+日韩料理,Sushi Ko Japanese Restaurant,Sushi Ko Japanese Restaurant,0,迈阿密其他,0.0,0.0,0.0
+日韩料理,Moon Thai & Japanese,Moon Thai & Japanese,0,肯德尔(Kendall),0.0,0.0,0.0
+日韩料理,Gyu-Kaku Miami,Gyu-Kaku Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Kopas Peruvian Japanese Restaurant,Kopas Peruvian Japanese Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+日韩料理,Sip Bar,Sip Bar,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+日韩料理,Obba Sushi Miami,Obba Sushi Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Temaris,Temaris,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Kampai Sunset,Kampai Sunset,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+日韩料理,Yamato Sushi Restaurant,Yamato Sushi Restaurant,0,迈阿密其他,0.0,0.0,0.0
+日韩料理,Toni Sushi,Toni Sushi,0,南海滩(South Beach),0.0,0.0,0.0
+日韩料理,Matsuri Japanese Restaurant,Matsuri Japanese Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+日韩料理,SuViche,SuViche,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Asian Fusion Cafe,Asian Fusion Cafe,0,迈阿密其他,0.0,0.0,0.0
+日韩料理,Iron Sushi,Iron Sushi,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Tikl,Tikl,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Fuji Hana Japanese Restaurant,Fuji Hana Japanese Restaurant,0,迈阿密其他,0.0,0.0,0.0
+日韩料理,Sushi Siam,Sushi Siam,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Ozzi Sushi Bar,Ozzi Sushi Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Doraku,Doraku,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+日韩料理,Kaori Sushi Express,Kaori Sushi Express,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Kam Wah,Kam Wah,0,迈阿密其他,0.0,0.0,0.0
+日韩料理,Sushi Maki,Sushi Maki,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Benihana,Benihana,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+日韩料理,Naoe Miami,Naoe Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Sushi Lico,Sushi Lico,0,迈阿密其他,0.0,0.0,0.0
+日韩料理,Sushi Maki Kendall,Sushi Maki Kendall,0,肯德尔(Kendall),0.0,0.0,0.0
+日韩料理,Fujiya Japanese Restaurant,Fujiya Japanese Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+日韩料理,Shibui Japanese Restaurant,Shibui Japanese Restaurant,0,迈阿密其他,0.0,0.0,0.0
+日韩料理,Shinju Japanese Buffet,Shinju Japanese Buffet,0,迈阿密其他,0.0,0.0,0.0
+日韩料理,Sushi Siam Morningside,Sushi Siam Morningside,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Buddha Sushi Bar,Buddha Sushi Bar,0,北迈阿密(North Miami),0.0,0.0,0.0
+日韩料理,Makis Place Cocowalk,Makis Place Cocowalk,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+日韩料理,Siam Oishi - Coconut Grove,Siam Oishi - Coconut Grove,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+日韩料理,Seoul Garden Korean Restaurant,Seoul Garden Korean Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+日韩料理,Sushi Cafe & Shilla Korean BBQ,Sushi Cafe & Shilla Korean BBQ,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+日韩料理,Machiya Modern Japanese,Machiya Modern Japanese,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,NoVe Kitchen,NoVe Kitchen,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Sake Room,Sake Room,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Samurai,Samurai,0,肯德尔(Kendall),0.0,0.0,0.0
+日韩料理,Ruson Japanese Steak House,Ruson Japanese Steak House,0,肯德尔(Kendall),0.0,0.0,0.0
+日韩料理,Miyako Japanese Restaurant,Miyako Japanese Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+日韩料理,KOBE Japanese Steak & Seafood,KOBE Japanese Steak & Seafood,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+日韩料理,Sushi Sake,Sushi Sake,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,J Tokyo,J Tokyo,0,肯德尔(Kendall),0.0,0.0,0.0
+日韩料理,Sushi Sake Redlands,Sushi Sake Redlands,0,迈阿密其他,0.0,0.0,0.0
+日韩料理,Aoki Teppanyaki,Aoki Teppanyaki,0,肯德尔(Kendall),0.0,0.0,0.0
+日韩料理,Aijo Restaurant,Aijo Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Okinawa Sushi,Okinawa Sushi,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+日韩料理,Miyagi Sushi,Miyagi Sushi,0,迈阿密其他,0.0,0.0,0.0
+日韩料理,SooWoo Bistro,SooWoo Bistro,0,肯德尔(Kendall),0.0,0.0,0.0
+日韩料理,Zuma,Zuma,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,The Capital Grille,The Capital Grille,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Truluck's Restaurant,Truluck's Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Red Lobster,Red Lobster,0,北迈阿密(North Miami),0.0,0.0,0.0
+快餐简餐,The Cheesecake Factory,The Cheesecake Factory,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Hooters of Bay Side,Hooters of Bay Side,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Super Subs Etc.,Super Subs Etc.,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,The Cheesecake Factory,The Cheesecake Factory,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Hillstone Restaurant (Coral Gables),Hillstone Restaurant (Coral Gables),0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Flanigan's Loggerhead,Flanigan's Loggerhead,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Bulldog BBQ,Bulldog BBQ,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,LoKal,LoKal,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Berries,Berries,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Balans,Balans,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Monty's Raw Bar and Restaurant,Monty's Raw Bar and Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Seasalt and Pepper,Seasalt and Pepper,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Burger & Beer Joint - Brickell,Burger & Beer Joint - Brickell,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,94th Aero Squadron,94th Aero Squadron,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Duo,Duo,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Swensen's Ice Cream Parlor & Restaurant,Swensen's Ice Cream Parlor & Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Schulas bar and grill,Schulas bar and grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,TK's at the Villa Mayfair,TK's at the Villa Mayfair,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Yard House,Yard House,0,南海滩(South Beach),0.0,0.0,0.0
+快餐简餐,Pure Verdee Hyatt Regency Miami Fliorida,Pure Verdee Hyatt Regency Miami Fliorida,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Blue Collar,Blue Collar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Sports Grill,Sports Grill,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Five Guys,Five Guys,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Le Meridien - Sunny Isles Beach,Le Meridien - Sunny Isles Beach,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Ihop,Ihop,0,,7.2,7.2,7.2
+快餐简餐,Bonefish Grill,Bonefish Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Lime Fresh Mexican Grill,Lime Fresh Mexican Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Jimmy's Place 1,Jimmy's Place 1,0,北迈阿密(North Miami),0.0,0.0,0.0
+快餐简餐,The Filling Station,The Filling Station,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Michael's Genuine Food & Drink,Michael's Genuine Food & Drink,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Flanigan's Seafood Bar and Grill,Flanigan's Seafood Bar and Grill,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,The Bistro,The Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Shake Shack,Shake Shack,0,,7.2,7.2,7.2
+快餐简餐,Rare Steakhouse,Rare Steakhouse,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,"Chili's Too, Miami International Airport, Florida","Chili's Too, Miami International Airport, Florida",0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Riverwalk Cafe Miami,Riverwalk Cafe Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,The Setai Grill,The Setai Grill,0,南海滩(South Beach),0.0,0.0,0.0
+快餐简餐,Buns & Buns,Buns & Buns,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,The Daily Creative Food Co.,The Daily Creative Food Co.,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Miami Grill Catering LLC,Miami Grill Catering LLC,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,"T.G.I. Fridays - MIAMI, FL AIRPORT","T.G.I. Fridays - MIAMI, FL AIRPORT",0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Champions Sports Bar,Champions Sports Bar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Blue martini,Blue martini,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Bacardi Mojito Bar,Bacardi Mojito Bar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Rickenbacker Restaurant,Rickenbacker Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Buffalo Wild Wings,Buffalo Wild Wings,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,BJs Brewhouse and Restaurant,BJs Brewhouse and Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,City Hall,City Hall,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Gordon Biersch Brewery Restaurant,Gordon Biersch Brewery Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Kris's Restaurant and Grill,Kris's Restaurant and Grill,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Miami Marriott Biscayne Bay - Catch Bar & Grill,Miami Marriott Biscayne Bay - Catch Bar & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Iron Side Cafe,Iron Side Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Sweet Dogs,Sweet Dogs,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Latin Sports Grill,Latin Sports Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Al's,Al's,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Eat & Run Subs,Eat & Run Subs,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,New York Bagel,New York Bagel,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Box Park,Box Park,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Premios Deli,Premios Deli,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Grillit,Grillit,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Mainzer's German Deli,Mainzer's German Deli,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Kalinka Deli,Kalinka Deli,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Quiznos,Quiznos,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Arbetter's Hot Dogs,Arbetter's Hot Dogs,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Norman Brothers Produce,Norman Brothers Produce,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Anita Bakery,Anita Bakery,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Tobacco Road,Tobacco Road,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Shake Shack,Shake Shack,0,,7.2,7.2,7.2
+快餐简餐,Corona Beach House,Corona Beach House,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Chop House 305,Chop House 305,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Haagen Dazs,Haagen Dazs,0,,7.2,7.2,6.8
+快餐简餐,Subway,Subway,0,,7.2,7.2,7.2
+快餐简餐,4100 Restaurant,4100 Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Greenstreet Cafe,Greenstreet Cafe,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Aroma Espresso Bar,Aroma Espresso Bar,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Latin Cafeteria Restaurant,Latin Cafeteria Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Cafe Bistro at Nordstrom,Cafe Bistro at Nordstrom,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Peacock Garden Cafe,Peacock Garden Cafe,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Green Street Cafe,Green Street Cafe,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Italian Sports Grill,Italian Sports Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Duffy's Tavern,Duffy's Tavern,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Ice Box Cafe,Ice Box Cafe,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Dave & Buster's,Dave & Buster's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Miami Deli and Market,Miami Deli and Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Batch Gastropub,Batch Gastropub,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Jean Paul's House,Jean Paul's House,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Lost & Found Saloon,Lost & Found Saloon,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Cafeina Wynwood Lounge,Cafeina Wynwood Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Wynwood Kitchen and Bar,Wynwood Kitchen and Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Sustain Restaurant,Sustain Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,The Stage,The Stage,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Buena Vista Deli,Buena Vista Deli,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Edge Steak & Bar,Edge Steak & Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Sharkey's,Sharkey's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Top Burger,Top Burger,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Beit Burger,Beit Burger,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Daily melt,Daily melt,0,北迈阿密(North Miami),0.0,0.0,0.0
+快餐简餐,Jackson Soul Food,Jackson Soul Food,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,SALAD & Co,SALAD & Co,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Chef Adrianne's Vineyard Restaurant and Wine Bar,Chef Adrianne's Vineyard Restaurant and Wine Bar,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Cheesecake,Cheesecake,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Hooters,Hooters,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Stadium Diner,Stadium Diner,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Latin House Burger and Taco Bar,Latin House Burger and Taco Bar,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Empeek Cheke,Empeek Cheke,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Sports Grill,Sports Grill,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Tart and Berry Yogurt,Tart and Berry Yogurt,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Voodoo Bbq Kendall,Voodoo Bbq Kendall,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Steak 'n Shake,Steak 'n Shake,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Pamela's Delicatessens,Pamela's Delicatessens,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Houston's,Houston's,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Magnum Lounge,Magnum Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Jumbo's Restaurant,Jumbo's Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Sopranos,Sopranos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Ham & Eggery,Ham & Eggery,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Tradewinds Bar & Grill,Tradewinds Bar & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Bennigan's Grill & Tavern,Bennigan's Grill & Tavern,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Islander Bar,Islander Bar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.9
+快餐简餐,Mojito Bar,Mojito Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Shula's miami airport Terminal D,Shula's miami airport Terminal D,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Red Light Little River,Red Light Little River,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Metro,Metro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Biscayne Diner,Biscayne Diner,0,北迈阿密(North Miami),0.0,0.0,0.0
+快餐简餐,Dogma Grill,Dogma Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,The Big Cheese,The Big Cheese,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,ROK BRGR,ROK BRGR,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Johnny Rockets,Johnny Rockets,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,The Grove Spot,The Grove Spot,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Sandbar Grill,Sandbar Grill,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Captain's Tavern,Captain's Tavern,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Scotty's Landing,Scotty's Landing,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Shorty's Bar-B-Q,Shorty's Bar-B-Q,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Fox's Sherron Inn,Fox's Sherron Inn,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,barracudas,barracudas,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Roasters 'n Toasters,Roasters 'n Toasters,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Duffy's Sports Grill Coconut Grove,Duffy's Sports Grill Coconut Grove,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Fix,Fix,0,南海滩(South Beach),0.0,0.0,0.0
+快餐简餐,Cane Fire Grille,Cane Fire Grille,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Doubleshot Tapas and Burger Bar,Doubleshot Tapas and Burger Bar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Disco Fish Market & Restaurant,Disco Fish Market & Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,The Counter,The Counter,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Tony Roma's,Tony Roma's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,The Earl of Sandwich,The Earl of Sandwich,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Au Bon Pain,Au Bon Pain,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Miami Art Cafe,Miami Art Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Doma Polo Bistro,Doma Polo Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Giraffas,Giraffas,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Lippi Restaurants,Lippi Restaurants,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,S & S Restaurant,S & S Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Farolito,Farolito,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,"The Federal Food, Wine and Provisions","The Federal Food, Wine and Provisions",0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Cafe 46,Cafe 46,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Crescendo Jazz and Blues Lounge,Crescendo Jazz and Blues Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,OTC Over the Counter,OTC Over the Counter,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Oak Tavern,Oak Tavern,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,The Cypress Room,The Cypress Room,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,D-Dog House Restaurant & Bar,D-Dog House Restaurant & Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Biscayne Tavern,Biscayne Tavern,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Isabela's,Isabela's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Urban Oxy,Urban Oxy,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Granny Feelgood Restaurant,Granny Feelgood Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Offerdahl's Cafe Grill,Offerdahl's Cafe Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Rock Fish Grill,Rock Fish Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,3 & Out Irish Sports Taven,3 & Out Irish Sports Taven,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Shula Burger,Shula Burger,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,American Girl Bistro,American Girl Bistro,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Muffin Tin,Muffin Tin,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,IHOP,IHOP,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Johnny Rockets,Johnny Rockets,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Mo's Bagels INC,Mo's Bagels INC,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Bagel Cove Restaurant,Bagel Cove Restaurant,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,T.G.I. Friday's (Biscayne),T.G.I. Friday's (Biscayne),0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Etzel Itzik Deli,Etzel Itzik Deli,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Applebee's,Applebee's,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Red Lobster,Red Lobster,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,the Ale House,the Ale House,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Scully's Tavern,Scully's Tavern,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,don shula's,don shula's,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Epicure,Epicure,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Smashburger,Smashburger,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Empeek Aaweeke,Empeek Aaweeke,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Flanagan's Seafood Bar and Grill,Flanagan's Seafood Bar and Grill,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Jimmy's Eastside Diner,Jimmy's Eastside Diner,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Michy's,Michy's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,"Soyka's Restaurant, Cafe & Bar","Soyka's Restaurant, Cafe & Bar",0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Island Chicken Grill,Island Chicken Grill,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,The Mighty,The Mighty,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Sbarro,Sbarro,0,,7.2,7.2,7.2
+快餐简餐,Burger King,Burger King,0,,7.2,7.2,7.2
+快餐简餐,Subway,Subway,0,,7.2,7.2,7.2
+快餐简餐,IHOP,IHOP,0,,7.2,7.2,7.2
+快餐简餐,Evios Pizza and Grill,Evios Pizza and Grill,0,北迈阿密(North Miami),0.0,0.0,0.0
+快餐简餐,Chili's Restaurant,Chili's Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Chuck Wagon,Chuck Wagon,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Papa John's,Papa John's,0,,7.2,7.2,6.8
+快餐简餐,Chili's Grill & Bar,Chili's Grill & Bar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Windows on the Green,Windows on the Green,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Bennys,Bennys,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Shula's Bar & Grill,Shula's Bar & Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Denny's,Denny's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Balans Restaurant,Balans Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Prelude by Barton G.,Prelude by Barton G.,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Le Faubourg Deli,Le Faubourg Deli,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Los Gauchitos,Los Gauchitos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,South Street,South Street,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Lester's,Lester's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Bar Louie,Bar Louie,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,LA Vasca Deli,LA Vasca Deli,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Verde,Verde,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,The District Miami,The District Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Sea salt and. Pepper. Miami fl,Sea salt and. Pepper. Miami fl,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Touche Rooftop Lounge & Restaurant,Touche Rooftop Lounge & Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,BJ's Restaurant & Brewhouse,BJ's Restaurant & Brewhouse,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Red Robin Gourmet Burgers,Red Robin Gourmet Burgers,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Miller's Ale House Restaurants,Miller's Ale House Restaurants,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Miami Jai-alai Courtview Club,Miami Jai-alai Courtview Club,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Outback Steakhouse,Outback Steakhouse,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Chili's Grill & Bar,Chili's Grill & Bar,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Shorty's Bar-B-Q 40th,Shorty's Bar-B-Q 40th,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Hurricane Grill & Wings,Hurricane Grill & Wings,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,NMB Ale House,NMB Ale House,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Tasty Soul Food,Tasty Soul Food,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Denny's,Denny's,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,The Room Cafe and Bar,The Room Cafe and Bar,0,北迈阿密(North Miami),0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,,7.0,7.0,7.0
+快餐简餐,Smoothie King,Smoothie King,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.1,7.1,7.1
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Fusion 77 Miami,Fusion 77 Miami,0,,6.9,6.9,6.9
+快餐简餐,Denny's,Denny's,0,,7.1,7.1,7.1
+快餐简餐,IHOP,IHOP,0,,6.8,6.8,7.1
+快餐简餐,Chili's,Chili's,0,,7.1,7.1,7.1
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.8,6.8,7.1
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.3,6.8,6.8
+快餐简餐,Denny's,Denny's,0,,7.1,7.1,7.1
+快餐简餐,Burger King,Burger King,0,,6.8,6.8,6.6
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.1,7.1,7.1
+快餐简餐,Tonys Asian Fusion Restaraunt,Tonys Asian Fusion Restaraunt,0,,6.9,6.9,6.9
+快餐简餐,Kosher Subway,Kosher Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,7.0,7.0,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,7.0,7.0,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.0,7.0,7.0
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Sbarro,Sbarro,0,,6.9,6.9,6.9
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.9,7.1,7.0
+快餐简餐,Chick-fil-A,Chick-fil-A,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.1,7.1,7.1
+快餐简餐,Chivas Express,Chivas Express,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,IHOP,IHOP,0,,6.9,6.9,6.9
+快餐简餐,KFC - Kentucky Fried Chicken,KFC - Kentucky Fried Chicken,0,,6.9,6.7,6.7
+快餐简餐,Subway,Subway,0,,7.0,7.0,6.9
+快餐简餐,Papa John's,Papa John's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.1,7.0,7.1
+快餐简餐,Denny's,Denny's,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Dome,Dome,0,,7.1,7.1,7.3
+快餐简餐,Denny's,Denny's,0,,7.1,7.1,7.1
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,7.0,7.1,7.1
+快餐简餐,Burger King,Burger King,0,,6.8,6.6,6.8
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.7,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.0,6.9,6.9
+快餐简餐,Five Guys,Five Guys,0,,7.2,7.2,7.2
+快餐简餐,Subway,Subway,0,,7.1,7.0,6.9
+快餐简餐,Hiro's Sushi Express South,Hiro's Sushi Express South,0,,7.2,7.2,7.2
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,The Terrace,The Terrace,0,,7.0,7.0,7.0
+快餐简餐,Carrot Express,Carrot Express,0,,6.7,6.7,6.7
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.1,7.1,7.1
+快餐简餐,Chick-Fil-A,Chick-Fil-A,0,,7.0,7.0,7.0
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Five Guys,Five Guys,0,,7.1,7.1,7.1
+快餐简餐,Salad Creations,Salad Creations,0,,7.0,7.0,7.0
+快餐简餐,McDonald's,McDonald's,0,,7.1,7.1,6.9
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.9
+快餐简餐,Wendy's,Wendy's,0,,7.5,6.8,6.8
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.7,6.9,6.9
+快餐简餐,Papa John's,Papa John's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Arby's,Arby's,0,,7.0,7.0,6.9
+快餐简餐,Coral Bagels,Coral Bagels,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,,7.1,7.0,7.0
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Wendy's,Wendy's,0,,7.1,7.1,7.1
+快餐简餐,Denny's,Denny's,0,,7.0,7.0,7.0
+快餐简餐,McDonald's,McDonald's,0,,7.0,7.0,7.0
+快餐简餐,Denny's,Denny's,0,,7.0,6.7,7.0
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.1,6.8,6.8
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.9
+快餐简餐,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,,6.9,6.9,6.9
+快餐简餐,IHOP,IHOP,0,,7.0,7.0,6.7
+快餐简餐,Subway,Subway,0,,7.0,7.1,7.0
+快餐简餐,Chef Vincent Restaurant,Chef Vincent Restaurant,0,南海滩(South Beach),0.0,0.0,0.0
+快餐简餐,Bennigan's,Bennigan's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Nathan's,Nathan's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+快餐简餐,Imperia Miami Restaurant&Lounge,Imperia Miami Restaurant&Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,The People's Bar-B-Que,The People's Bar-B-Que,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,18th Street Cafe,18th Street Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Sweet Point,Sweet Point,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Batting Cage Sports Bar,Batting Cage Sports Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Marina's Bar & Grill,Marina's Bar & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Denny's,Denny's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+快餐简餐,Miller's Miami Falls Ale House,Miller's Miami Falls Ale House,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,Chili's Grill & Bar,Chili's Grill & Bar,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,The Pit,The Pit,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,Starlite Diner,Starlite Diner,0,肯德尔(Kendall),0.0,0.0,0.0
+快餐简餐,St Petersburg Deli,St Petersburg Deli,0,迈阿密其他,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,,6.8,6.8,6.8
+快餐简餐,Wendy's,Wendy's,0,,7.2,7.2,6.8
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,Benigans,Benigans,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+更多亚洲菜,3 Chef's,3 Chef's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Moon Thai & Japanese,Moon Thai & Japanese,0,肯德尔(Kendall),0.0,0.0,0.0
+更多亚洲菜,Hy-Vong Vietnamese Cuisine,Hy-Vong Vietnamese Cuisine,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+更多亚洲菜,Lan Pan-Asian Cafe,Lan Pan-Asian Cafe,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+更多亚洲菜,Mandolin Aegean Bistro,Mandolin Aegean Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Sakaya Kitchen,Sakaya Kitchen,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Sip Bar,Sip Bar,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+更多亚洲菜,Asian Thai Kitchen,Asian Thai Kitchen,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+更多亚洲菜,Rock a Bangkok,Rock a Bangkok,0,肯德尔(Kendall),0.0,0.0,0.0
+更多亚洲菜,Miss Saigon Vietnamese Resturant,Miss Saigon Vietnamese Resturant,0,北迈阿密(North Miami),0.0,0.0,0.0
+更多亚洲菜,Zuma,Zuma,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Momi Ramen,Momi Ramen,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Bombay Darbar,Bombay Darbar,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+更多亚洲菜,Ozzi Sushi Bar,Ozzi Sushi Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Cafe Sambal,Cafe Sambal,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Jasmine Sushi and Thai Cuisine,Jasmine Sushi and Thai Cuisine,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+更多亚洲菜,La Gazzetta,La Gazzetta,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,India Grill,India Grill,0,迈阿密其他,0.0,0.0,0.0
+更多亚洲菜,Siam Bistro,Siam Bistro,0,迈阿密其他,0.0,0.0,0.0
+更多亚洲菜,Sion Hee Restaurant Incorporated,Sion Hee Restaurant Incorporated,0,迈阿密其他,0.0,0.0,0.0
+更多亚洲菜,15th & Vine Kitchen and Bar,15th & Vine Kitchen and Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Bali Cafe,Bali Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Bloom,Bloom,0,北迈阿密(North Miami),0.0,0.0,0.0
+更多亚洲菜,Bonding,Bonding,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+更多亚洲菜,2B Asian Bistro,2B Asian Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Tani Thai,Tani Thai,0,肯德尔(Kendall),0.0,0.0,0.0
+更多亚洲菜,Ayesha Indian restaurant,Ayesha Indian restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+更多亚洲菜,Kyung Ju Restaurant,Kyung Ju Restaurant,0,迈阿密其他,0.0,0.0,0.0
+更多亚洲菜,SIAM Palace Restaurant,SIAM Palace Restaurant,0,迈阿密其他,0.0,0.0,0.0
+更多亚洲菜,PF Chang's,PF Chang's,0,迈阿密其他,0.0,0.0,0.0
+更多亚洲菜,Sushi Siam Morningside,Sushi Siam Morningside,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,First Hong Kong Cafe,First Hong Kong Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Namaste,Namaste,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,World of Beer Dadeland,World of Beer Dadeland,0,肯德尔(Kendall),0.0,0.0,0.0
+更多亚洲菜,Daily Bread Marketplace,Daily Bread Marketplace,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+更多亚洲菜,Royal Thai Restaurant,Royal Thai Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+更多亚洲菜,Machiya Modern Japanese,Machiya Modern Japanese,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Gigi,Gigi,0,北迈阿密(North Miami),0.0,0.0,0.0
+更多亚洲菜,Baklava Factory,Baklava Factory,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,P.F. Chang's,P.F. Chang's,0,肯德尔(Kendall),0.0,0.0,0.0
+更多亚洲菜,Bangkok Bangkok,Bangkok Bangkok,0,肯德尔(Kendall),0.0,0.0,0.0
+更多亚洲菜,Tiny Thai House,Tiny Thai House,0,北迈阿密(North Miami),0.0,0.0,0.0
+更多亚洲菜,Chart House Restaurant,Chart House Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+更多亚洲菜,Centro Restaurant,Centro Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Bengal,Bengal,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Mr Yum,Mr Yum,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Off the Hookah,Off the Hookah,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Pei Wei Asian Diner,Pei Wei Asian Diner,0,迈阿密其他,0.0,0.0,0.0
+更多亚洲菜,Siam Dragon,Siam Dragon,0,肯德尔(Kendall),0.0,0.0,0.0
+更多亚洲菜,Bollywood Masala,Bollywood Masala,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+更多亚洲菜,Oasis Cafe,Oasis Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Mint Leaf - Brickell,Mint Leaf - Brickell,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Hibachi Grill & Noodle,Hibachi Grill & Noodle,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Post Restaurant & Lounge,Post Restaurant & Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,Raja's Indian Cuisine Incorporated,Raja's Indian Cuisine Incorporated,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+更多亚洲菜,India Kebab Restaurant,India Kebab Restaurant,0,迈阿密其他,0.0,0.0,0.0
+海鲜,Joe's Stone Crab,Joe's Stone Crab,0,,8.1,7.5,7.5
+海鲜,Bubba Gump Shrimp Co,Bubba Gump Shrimp Co,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Red Lobster,Red Lobster,0,北迈阿密(North Miami),0.0,0.0,0.0
+海鲜,Bubba Gump,Bubba Gump,0,迈阿密市区(Downtown Miami),6.9,7.0,7.1
+海鲜,Calamari,Calamari,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+海鲜,Balans,Balans,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Viceroy Miami at Icon Brickell,Viceroy Miami at Icon Brickell,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Garcia Seafood Grille,Garcia Seafood Grille,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,The Oceanaire Seafood Room,The Oceanaire Seafood Room,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Cordozo Bar & Grill,Cordozo Bar & Grill,0,南海滩(South Beach),0.0,0.0,0.0
+海鲜,Lili's Catch of the Day,Lili's Catch of the Day,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Arline's Restaurant & Seafood,Arline's Restaurant & Seafood,0,迈阿密其他,0.0,0.0,0.0
+海鲜,Palmer's Seafood & Steakhouse,Palmer's Seafood & Steakhouse,0,迈阿密其他,0.0,0.0,0.0
+海鲜,Red Lobster,Red Lobster,0,肯德尔(Kendall),0.0,0.0,0.0
+海鲜,La Camaronera Fish Market,La Camaronera Fish Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,La Camaronera,La Camaronera,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Red Lobster,Red Lobster,0,,7.2,7.2,7.2
+海鲜,Meat Market,Meat Market,0,,7.2,7.2,7.2
+海鲜,The Fish House,The Fish House,0,迈阿密其他,0.0,0.0,0.0
+海鲜,El Pollo Inka Miami,El Pollo Inka Miami,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+海鲜,Bonefish Grill,Bonefish Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+海鲜,Devon,Devon,0,肯德尔(Kendall),0.0,0.0,0.0
+海鲜,Flanigan's Seafood Bar and Grill,Flanigan's Seafood Bar and Grill,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+海鲜,River Oyster Bar,River Oyster Bar,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+海鲜,Bahamas Fish Market,Bahamas Fish Market,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+海鲜,The Original Crab House,The Original Crab House,0,肯德尔(Kendall),0.0,0.0,0.0
+海鲜,Catch of the Day,Catch of the Day,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+海鲜,Key West In Miami Restaurant,Key West In Miami Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+海鲜,Miami Marriott Biscayne Bay - Catch Bar & Grill,Miami Marriott Biscayne Bay - Catch Bar & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Tali's Crab Shack,Tali's Crab Shack,0,迈阿密其他,0.0,0.0,0.0
+海鲜,Don Camaron Seafood Grill,Don Camaron Seafood Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Lure Fishbar,Lure Fishbar,0,,7.2,7.2,7.2
+海鲜,Ocean Deli Market,Ocean Deli Market,0,,7.1,7.1,7.1
+海鲜,Villa Habana Restaurant,Villa Habana Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Bangkok City Thai & Seafood,Bangkok City Thai & Seafood,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+海鲜,Tani Thai,Tani Thai,0,肯德尔(Kendall),0.0,0.0,0.0
+海鲜,El Floridita,El Floridita,0,迈阿密其他,0.0,0.0,0.0
+海鲜,Tradewinds Bar & Grill,Tradewinds Bar & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Cayo Esquivel Seafood,Cayo Esquivel Seafood,0,迈阿密其他,0.0,0.0,0.0
+海鲜,Big Fish,Big Fish,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Whole Foods Market,Whole Foods Market,0,,7.2,7.2,7.2
+海鲜,Boston Market,Boston Market,0,,7.0,7.0,7.0
+海鲜,Jerusalem Market and Deli,Jerusalem Market and Deli,0,,7.1,7.0,7.0
+海鲜,Lombardi's INC,Lombardi's INC,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Captain's Tavern,Captain's Tavern,0,肯德尔(Kendall),0.0,0.0,0.0
+海鲜,Catch of the Day Seafood Bar & Grill,Catch of the Day Seafood Bar & Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+海鲜,Farolito,Farolito,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Area 31 - Epic Hotel,Area 31 - Epic Hotel,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Rock Fish Grill,Rock Fish Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+海鲜,Red Lobster,Red Lobster,0,肯德尔(Kendall),0.0,0.0,0.0
+海鲜,the Ale House,the Ale House,0,肯德尔(Kendall),0.0,0.0,0.0
+海鲜,Black Pointe Ocean Grill,Black Pointe Ocean Grill,0,迈阿密其他,0.0,0.0,0.0
+海鲜,Red Lobster,Red Lobster,0,,7.2,7.2,7.2
+海鲜,captains tavern seafood market,captains tavern seafood market,0,肯德尔(Kendall),0.0,0.0,0.0
+海鲜,Taverna Opa,Taverna Opa,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+海鲜,Jimbo's,Jimbo's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Casablanca Seafood Bar & Grill,Casablanca Seafood Bar & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Bijan's On The River Restaurant,Bijan's On The River Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+海鲜,Gerardo's Market Place,Gerardo's Market Place,0,,6.9,6.9,6.9
+海鲜,D'tako Market,D'tako Market,0,,7.1,7.1,7.1
+海鲜,Boston Market,Boston Market,0,,7.1,7.0,6.9
+海鲜,Benihana of Tokyo,Benihana of Tokyo,0,,7.2,7.2,7.2
+海鲜,Boston Market,Boston Market,0,,6.9,7.0,7.0
+海鲜,Laurenzo's Italian Market,Laurenzo's Italian Market,0,,7.1,7.1,7.1
+海鲜,Red Lobster,Red Lobster,0,,7.1,7.1,7.1
+烧烤,The Capital Grille,The Capital Grille,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+烧烤,蜀香园,蜀香园,0,,7.8,6.8,7.8
+烧烤,Pride & Joy BBQ,Pride & Joy BBQ,0,北迈阿密(North Miami),0.0,0.0,0.0
+烧烤,Texas de Brasil Churrascaria,Texas de Brasil Churrascaria,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+烧烤,Sparky's Roadside Barbecue,Sparky's Roadside Barbecue,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+烧烤,Shorty's Bar-B-Q,Shorty's Bar-B-Q,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+烧烤,High Steaks BBQ,High Steaks BBQ,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+烧烤,Mama Lucy's Home Style Cooking,Mama Lucy's Home Style Cooking,0,北迈阿密(North Miami),0.0,0.0,0.0
+烧烤,BarBQue Ribs Chicken & Jerk Shack,BarBQue Ribs Chicken & Jerk Shack,0,北迈阿密(North Miami),0.0,0.0,0.0
+烧烤,Chili's,Chili's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+烧烤,Shorty's Bar-B-Q,Shorty's Bar-B-Q,0,肯德尔(Kendall),0.0,0.0,0.0
+烧烤,OTG Fast Fusion Grille,OTG Fast Fusion Grille,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+烧烤,Brother Jimmy's BBQ,Brother Jimmy's BBQ,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+烧烤,Craft Bar & Q,Craft Bar & Q,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+烧烤,Mr. Moe's Restaurant and Bar,Mr. Moe's Restaurant and Bar,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+烧烤,Chili's Grill & Bar,Chili's Grill & Bar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+烧烤,Chili's Grill & Bar,Chili's Grill & Bar,0,肯德尔(Kendall),0.0,0.0,0.0
+烧烤,Mesa's BBQ,Mesa's BBQ,0,,7.1,7.1,6.9
+烧烤,Brother Jimmy's Bbq,Brother Jimmy's Bbq,0,,6.9,6.9,6.9
+烧烤,Brother Jimmy's Bbq,Brother Jimmy's Bbq,0,,6.9,6.9,7.0
+烧烤,The People's Bar-B-Que,The People's Bar-B-Que,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+烧烤,Woody's Bar-B-Q,Woody's Bar-B-Q,0,肯德尔(Kendall),0.0,0.0,0.0
+比萨,Bertoni,Bertoni,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+比萨,Pieducks,Pieducks,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+比萨,Pizzarium,Pizzarium,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Pizza Bar Downtown,Pizza Bar Downtown,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Lil Anthony's Pizzeria,Lil Anthony's Pizzeria,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Muncy's Pizza,Muncy's Pizza,0,迈阿密其他,0.0,0.0,0.0
+比萨,Mike's Pizzeria & Italian,Mike's Pizzeria & Italian,0,肯德尔(Kendall),0.0,0.0,0.0
+比萨,Sal's Italian Restaurant & Pizzeria,Sal's Italian Restaurant & Pizzeria,0,迈阿密其他,0.0,0.0,0.0
+比萨,Vesuvio Pizzza & Subs,Vesuvio Pizzza & Subs,0,肯德尔(Kendall),0.0,0.0,0.0
+比萨,Vittocci's pizza,Vittocci's pizza,0,,7.7,7.7,7.2
+比萨,Pizza Dude,Pizza Dude,0,,7.3,7.3,7.1
+比萨,La Dolce Vita Pizza,La Dolce Vita Pizza,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+比萨,Famous Famiglia Pizzaria,Famous Famiglia Pizzaria,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+比萨,Stanzione 87,Stanzione 87,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Pizza Rustica,Pizza Rustica,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Tony's Pizza Cafe,Tony's Pizza Cafe,0,迈阿密其他,0.0,0.0,0.0
+比萨,Frankie's Pizza,Frankie's Pizza,0,迈阿密其他,0.0,0.0,0.0
+比萨,Marino's Pizza,Marino's Pizza,0,肯德尔(Kendall),0.0,0.0,0.0
+比萨,Sir Pizza,Sir Pizza,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+比萨,Prego Pizza,Prego Pizza,0,,7.3,7.1,7.3
+比萨,Spris Pizza,Spris Pizza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Amici's Trattoria Italiana,Amici's Trattoria Italiana,0,肯德尔(Kendall),0.0,0.0,0.0
+比萨,Papa Ricco's Restaurant,Papa Ricco's Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+比萨,Chuck E. Cheese's,Chuck E. Cheese's,0,迈阿密其他,0.0,0.0,0.0
+比萨,Andiamo,Andiamo,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Tutto Pizza Pasta,Tutto Pizza Pasta,0,,7.3,7.3,7.1
+比萨,Miami's Best Pizza,Miami's Best Pizza,0,,7.2,7.2,6.8
+比萨,California Pizza Kitchen,California Pizza Kitchen,0,,7.2,7.2,7.2
+比萨,Fratelli La Bufala,Fratelli La Bufala,0,,7.2,7.2,7.2
+比萨,Pizza Rustica,Pizza Rustica,0,,7.2,7.2,7.2
+比萨,Groovy's Pizza,Groovy's Pizza,0,,7.2,7.2,7.2
+比萨,Zesto Pizza,Zesto Pizza,0,,7.2,7.2,7.2
+比萨,Pizza Rustica,Pizza Rustica,0,,7.2,7.2,7.2
+比萨,Anthony's Coal Fired Pizza,Anthony's Coal Fired Pizza,0,,7.2,7.2,7.2
+比萨,Venezia Pizza,Venezia Pizza,0,,7.2,7.2,7.2
+比萨,Steve's Pizza,Steve's Pizza,0,,7.2,7.2,7.2
+比萨,Anthony's Coal Fired Pizza,Anthony's Coal Fired Pizza,0,,7.2,7.2,7.2
+比萨,Portofino Coal Fired Pizza,Portofino Coal Fired Pizza,0,,7.2,7.2,7.2
+比萨,Pizza Hut,Pizza Hut,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Tutto Pizza Beer House,Tutto Pizza Beer House,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Pucci's Pizza,Pucci's Pizza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Two Brothers Pizza,Two Brothers Pizza,0,迈阿密其他,0.0,0.0,0.0
+比萨,Super Pizza One,Super Pizza One,0,迈阿密其他,0.0,0.0,0.0
+比萨,Nonna Maria,Nonna Maria,0,迈阿密其他,0.0,0.0,0.0
+比萨,Gables Pizza and Salad,Gables Pizza and Salad,0,,6.9,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,7.3,7.1,7.1
+比萨,Groovy's Pizza,Groovy's Pizza,0,,7.1,6.8,6.8
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,CiCi's Pizza,CiCi's Pizza,0,,6.9,6.9,6.9
+比萨,Moncheese Pizza,Moncheese Pizza,0,,7.3,7.1,7.1
+比萨,Kongos Pizza,Kongos Pizza,0,,6.9,6.9,6.9
+比萨,Pomodoro's Pizza,Pomodoro's Pizza,0,,6.9,6.9,6.9
+比萨,Tony's Pizza Palm Springs N,Tony's Pizza Palm Springs N,0,,7.1,7.0,7.0
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,New York Roma Pizza,New York Roma Pizza,0,,6.9,6.9,6.9
+比萨,Romano's Pizza,Romano's Pizza,0,,7.1,7.0,7.1
+比萨,Vino's Pizza,Vino's Pizza,0,,6.9,6.9,6.9
+比萨,Rodittis Pizza,Rodittis Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.7,6.7,6.7
+比萨,Miami Beach Pizza Inc,Miami Beach Pizza Inc,0,,7.0,7.0,7.0
+比萨,Best Beach Pizza,Best Beach Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Dominos Pizza,Dominos Pizza,0,,6.9,6.9,6.9
+比萨,B and H Pizza,B and H Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,7.0,7.0,7.0
+比萨,Vocelli pizza,Vocelli pizza,0,,7.0,7.0,7.0
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.7
+比萨,Villa Pizza,Villa Pizza,0,,6.9,6.9,6.9
+比萨,Son of A Pizza,Son of A Pizza,0,,7.0,7.0,7.1
+比萨,Power Pizza,Power Pizza,0,,7.1,7.1,6.7
+比萨,New Yorker's pizza restaurant inc,New Yorker's pizza restaurant inc,0,迈阿密其他,0.0,0.0,0.0
+比萨,Pizza Rustica,Pizza Rustica,0,,6.9,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Primo Pizza,Primo Pizza,0,,7.1,7.1,7.1
+比萨,Pizza Fusion,Pizza Fusion,0,,7.1,7.0,7.0
+比萨,Giotto Maestro della Pizza,Giotto Maestro della Pizza,0,,7.2,7.2,7.2
+比萨,I Love Pizza,I Love Pizza,0,,7.0,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,7.0,7.0,7.0
+比萨,Villa Pizza,Villa Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Fiore,Pizza Fiore,0,,7.1,6.9,7.1
+比萨,Kongos Pizza,Kongos Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Delight,Pizza Delight,0,,7.0,7.1,6.9
+比萨,Hialeah Rey's Pizza II,Hialeah Rey's Pizza II,0,,6.9,7.1,6.9
+比萨,CiCi's Pizza,CiCi's Pizza,0,,7.0,7.0,7.0
+比萨,Slices Pizza and Pasta,Slices Pizza and Pasta,0,,6.7,7.0,7.0
+比萨,Anthony's Coal Fire Pizza,Anthony's Coal Fire Pizza,0,,7.1,7.1,7.1
+比萨,Pizza Fusion,Pizza Fusion,0,,7.0,6.9,6.9
+比萨,Mario the Baker,Mario the Baker,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+比萨,Domino's Pizza,Domino's Pizza,0,,7.0,7.0,7.0
+比萨,Jerusalem Pizza,Jerusalem Pizza,0,,7.0,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,7.1,7.1,6.8
+比萨,Il Torre Pizza Mia,Il Torre Pizza Mia,0,,7.0,7.1,6.9
+比萨,Pizza Roma,Pizza Roma,0,,7.2,7.2,6.8
+比萨,Jersey Boardwalk Pizza,Jersey Boardwalk Pizza,0,,7.1,7.0,7.0
+比萨,Pizza Hut,Pizza Hut,0,,7.0,6.7,6.7
+比萨,Anthony's Coal Fired Pizza,Anthony's Coal Fired Pizza,0,,7.7,7.2,7.2
+比萨,Archie's Pizza Key Biscayne,Archie's Pizza Key Biscayne,0,,7.2,7.2,7.2
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Pop's Pizza and Subs,Pop's Pizza and Subs,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+比萨,Montes DE OCA Pizza Cubana,Montes DE OCA Pizza Cubana,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+比萨,Mamma Caruso's Pizzeria,Mamma Caruso's Pizzeria,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Fast Pizza LLC,Fast Pizza LLC,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+比萨,Piazzolla,Piazzolla,0,肯德尔(Kendall),0.0,0.0,0.0
+比萨,Pizza Fiore,Pizza Fiore,0,,6.8,7.1,6.5
+比萨,Sir Pizza,Sir Pizza,0,,6.9,6.9,6.9
+比萨,Gino's Pizza and Brew,Gino's Pizza and Brew,0,,6.9,6.9,6.9
+面包甜点,Whip 'N Dip Ice Cream,Whip 'N Dip Ice Cream,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+面包甜点,Versailles Bakery,Versailles Bakery,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+面包甜点,Cheesecake Factory,Cheesecake Factory,0,,7.0,7.0,6.9
+面包甜点,Gusto Express Miami,Gusto Express Miami,0,南海滩(South Beach),0.0,0.0,0.0
+面包甜点,CrepeMaker Sunset Place Mall,CrepeMaker Sunset Place Mall,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+面包甜点,"Bourekas, Etc.","Bourekas, Etc.",0,迈阿密其他,0.0,0.0,0.0
+面包甜点,Godiva Chocolatier Miami,Godiva Chocolatier Miami,0,迈阿密其他,0.0,0.0,0.0
+面包甜点,Gelateria Parmalat,Gelateria Parmalat,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+面包甜点,Azucar Ice Cream Factory,Azucar Ice Cream Factory,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+面包甜点,Mrs Field's Cookies,Mrs Field's Cookies,0,迈阿密其他,0.0,0.0,0.0
+面包甜点,Krispy Kreme Doughnuts,Krispy Kreme Doughnuts,0,迈阿密其他,0.0,0.0,0.0
+面包甜点,Buns & Buns,Buns & Buns,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+面包甜点,Wall's Old Fashioned Ice Cream,Wall's Old Fashioned Ice Cream,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+面包甜点,Sweet Dogs,Sweet Dogs,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+面包甜点,Lucerne Bakery,Lucerne Bakery,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+面包甜点,Longoni Gourmet,Longoni Gourmet,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+面包甜点,2 Girls and a Cupcake,2 Girls and a Cupcake,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+面包甜点,Cao Chocolates,Cao Chocolates,0,肯德尔(Kendall),0.0,0.0,0.0
+面包甜点,Juicy Luucy,Juicy Luucy,0,肯德尔(Kendall),0.0,0.0,0.0
+面包甜点,Deliciosa Bakery,Deliciosa Bakery,0,迈阿密其他,0.0,0.0,0.0
+面包甜点,Sweetness Bakeshop and Cafe,Sweetness Bakeshop and Cafe,0,迈阿密其他,0.0,0.0,0.0
+面包甜点,Joe's Ice Cream,Joe's Ice Cream,0,迈阿密其他,0.0,0.0,0.0
+面包甜点,Ali's Sweet Treats,Ali's Sweet Treats,0,迈阿密其他,0.0,0.0,0.0
+面包甜点,Via Veneto,Via Veneto,0,肯德尔(Kendall),0.0,0.0,0.0
+面包甜点,Flavorish Market,Flavorish Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+面包甜点,Yiyas on 79 Street,Yiyas on 79 Street,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+面包甜点,Dolci Peccati Gelato,Dolci Peccati Gelato,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+面包甜点,Sweet Art By Lucila,Sweet Art By Lucila,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+面包甜点,Apropo Crepes & Baguettes,Apropo Crepes & Baguettes,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+面包甜点,Don Pan,Don Pan,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+面包甜点,Elia Gourmet,Elia Gourmet,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+面包甜点,Miami Deli and Market,Miami Deli and Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+面包甜点,Coco Gelato,Coco Gelato,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+面包甜点,El Brazo Fuerte Bakery,El Brazo Fuerte Bakery,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+面包甜点,Corner Bakery Cafe,Corner Bakery Cafe,0,肯德尔(Kendall),0.0,0.0,0.0
+面包甜点,Islas Canarias Cafe,Islas Canarias Cafe,0,迈阿密其他,0.0,0.0,0.0
+面包甜点,Cold Stone Creamery,Cold Stone Creamery,0,肯德尔(Kendall),0.0,0.0,0.0
+面包甜点,Best Time Wine,Best Time Wine,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+面包甜点,Don Pan International Bakery,Don Pan International Bakery,0,肯德尔(Kendall),0.0,0.0,0.0
+面包甜点,La Provence French Bakery/Cafe,La Provence French Bakery/Cafe,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+面包甜点,CrepeMaker Falls Cafe,CrepeMaker Falls Cafe,0,肯德尔(Kendall),0.0,0.0,0.0
+面包甜点,CrepeMaker London Square,CrepeMaker London Square,0,肯德尔(Kendall),0.0,0.0,0.0
+面包甜点,Artistic Cakes,Artistic Cakes,0,迈阿密其他,0.0,0.0,0.0
+面包甜点,CrepeMaker Dadeland Mall,CrepeMaker Dadeland Mall,0,肯德尔(Kendall),0.0,0.0,0.0
+面包甜点,Yogurtini Self Serve Frozen Yogurt,Yogurtini Self Serve Frozen Yogurt,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+面包甜点,Apropo,Apropo,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+面包甜点,Franktitude,Franktitude,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+面包甜点,Moloko: The Art of Crepe & Coffee,Moloko: The Art of Crepe & Coffee,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+面包甜点,Sweet Things Cakes,Sweet Things Cakes,0,肯德尔(Kendall),0.0,0.0,0.0
+面包甜点,D'lites,D'lites,0,迈阿密其他,0.0,0.0,0.0
+面包甜点,Gilbert's Bakery,Gilbert's Bakery,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Bayside Sun,Bayside Sun,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Ceviche 105,Ceviche 105,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,DiLido Beach Club,DiLido Beach Club,0,南海滩(South Beach),0.0,0.0,0.0
+其他美食,Shing Wang,Shing Wang,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Bubba Gump. Shrimp CO,Bubba Gump. Shrimp CO,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,New York Roma Pizza,New York Roma Pizza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,China Fortune,China Fortune,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Rosa Mexicano - Mary Brickell Village,Rosa Mexicano - Mary Brickell Village,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Miami BBQ,Miami BBQ,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Yuka Deli Restaurant,Yuka Deli Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Miami Subs Grill,Miami Subs Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Havana Rick's Cafe,Havana Rick's Cafe,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,La Crema De Las Empanadas,La Crema De Las Empanadas,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Specialty Restaurants,Specialty Restaurants,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,La Estacion Cafe,La Estacion Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,NIKKO by Sunshine,NIKKO by Sunshine,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Mario The Baker,Mario The Baker,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,La Casita Colombiana Restaurant,La Casita Colombiana Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Piacere News & Cafe,Piacere News & Cafe,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Asaka Japanese Restaurant,Asaka Japanese Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Mi Peru Restaurant,Mi Peru Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Panda Wok,Panda Wok,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Coral,Coral,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Misha's Cupcakes,Misha's Cupcakes,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Fuji Hana Kendall,Fuji Hana Kendall,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Golden Rule Grocery,Golden Rule Grocery,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Hong Kong Chinese Restaurant,Hong Kong Chinese Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Papa John's,Papa John's,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Las Mercedes Restaurant,Las Mercedes Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,La Canzone Ristorante Italiano and Lounge,La Canzone Ristorante Italiano and Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Mi Propiedad Privada,Mi Propiedad Privada,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Caviar and More,Caviar and More,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Mar Y Tierra Peru Seafood,Mar Y Tierra Peru Seafood,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Aguacates,Aguacates,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Bento Sushi & Chinese,Bento Sushi & Chinese,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Cafe Del Teatro,Cafe Del Teatro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Super Smoothie Doral,Super Smoothie Doral,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Pomodoros Pizza,Pomodoros Pizza,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Carvel Ice Cream Bakery,Carvel Ice Cream Bakery,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Le Cafe Limoge,Le Cafe Limoge,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,El rincon de Pepe,El rincon de Pepe,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Louis Famous Food 1st Black History Restaurant,Louis Famous Food 1st Black History Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Taqueria El Carnal,Taqueria El Carnal,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Milly's Restaurant,Milly's Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Mar Azul Cafe,Mar Azul Cafe,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Bird Bowl Bowling Center,Bird Bowl Bowling Center,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Cevichery Restobar,Cevichery Restobar,0,南海滩(South Beach),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Limon Y Sabor Restaurante,Limon Y Sabor Restaurante,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Govinda's Garden,Govinda's Garden,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,La Criollita Cafeteria,La Criollita Cafeteria,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Off The Grille Bistro,Off The Grille Bistro,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Starbucks Coffee,Starbucks Coffee,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Panorama Restaurant & Lounge,Panorama Restaurant & Lounge,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Ben & Jerry's,Ben & Jerry's,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Havana 1957 Cuban Cuisine Brickell,Havana 1957 Cuban Cuisine Brickell,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Mr Porchetta,Mr Porchetta,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Wetzel's Pretzels,Wetzel's Pretzels,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,El Atlacatl,El Atlacatl,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Peru Criollo,Peru Criollo,0,迈阿密其他,0.0,0.0,0.0
+其他美食,La Mar by Gaston Acurio,La Mar by Gaston Acurio,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Macy's Taste Bar,Macy's Taste Bar,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Karla Bakery,Karla Bakery,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Dunkin Donuts,Dunkin Donuts,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,Master Host Dinner Service & Caterers,Master Host Dinner Service & Caterers,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pasha's,Pasha's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Sumi yakitori miami,Sumi yakitori miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Atrio Restaurant & Wine Room at Conrad Miami,Atrio Restaurant & Wine Room at Conrad Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Neomi's Grill,Neomi's Grill,0,南海滩(South Beach),0.0,0.0,0.0
+其他美食,TaTaLe Cafe,TaTaLe Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Papa John's,Papa John's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Camila's Restaurants,Camila's Restaurants,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,House of Bagels and Bialys,House of Bagels and Bialys,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,RA Sushi,RA Sushi,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Villagio,Villagio,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,La Palma Restaurant in the Gables,La Palma Restaurant in the Gables,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Sammi's Cafe,Sammi's Cafe,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Hyatt Place Miami Airport-West/Doral,Hyatt Place Miami Airport-West/Doral,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Naranja Cafe and Lounge,Naranja Cafe and Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Ceviche al Toke,Ceviche al Toke,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Cerviche and Grill,Cerviche and Grill,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Tango Grill Parrillada,Tango Grill Parrillada,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Europa Car Wash and Cafe,Europa Car Wash and Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,3 Queens,3 Queens,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Gourmet Station,Gourmet Station,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Lums Restaurant,Lums Restaurant,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,Garden Eatin' Vegetarian Restaurant,Garden Eatin' Vegetarian Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Auntie Anne's,Auntie Anne's,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,IHOP,IHOP,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Subway,Subway,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Charley's Grilled Subs,Charley's Grilled Subs,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,L'Express Sandwicherie,L'Express Sandwicherie,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Grove Central,Grove Central,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Delices de France,Delices de France,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Todo Frio Ice Cream N More,Todo Frio Ice Cream N More,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Haagen Dazs,Haagen Dazs,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Fat Tuesday,Fat Tuesday,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Caffe 33,Caffe 33,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Blonde Bistro,Blonde Bistro,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Shaddai,Shaddai,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Cucina Creativa Ristorante,Cucina Creativa Ristorante,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Beehive Juice Bar,Beehive Juice Bar,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,La Casita,La Casita,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Cold Stone Creamery,Cold Stone Creamery,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Rincon Antiqueno Restaurant,Rincon Antiqueno Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Vegan and Juice,Vegan and Juice,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Carne Asada Tortilleria Nicas,Carne Asada Tortilleria Nicas,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,El Tropico Executive Offices,El Tropico Executive Offices,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,International Restaurant & Cafe',International Restaurant & Cafe',0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Rincon Criollo,Rincon Criollo,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,CiCi's Pizza,CiCi's Pizza,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Bita's Cafe,Bita's Cafe,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Cafe Faraya,Cafe Faraya,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Giardino Gourmet Salads,Giardino Gourmet Salads,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Uptown Buffet,Uptown Buffet,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Subrageous,Subrageous,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Sarussi Restaurant,Sarussi Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,La Fritanga Nagarote,La Fritanga Nagarote,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Divine Delicacies,Divine Delicacies,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Quiznos,Quiznos,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,La Sin Rival Bakery,La Sin Rival Bakery,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Latin America Cafe & Restaurant,Latin America Cafe & Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Ring The Bell Restaurant,Ring The Bell Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Muscle Beach Lemonade,Muscle Beach Lemonade,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Hungry Bear Sub Shop,Hungry Bear Sub Shop,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Nikki's Cafe,Nikki's Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,El Bajareque Restaurant,El Bajareque Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Best Friends,Best Friends,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pasha's,Pasha's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,El Nuevo Cafe,El Nuevo Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Milano's Pasta House Inc,Milano's Pasta House Inc,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Sake Room,Sake Room,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Zen Sushi Lounge,Zen Sushi Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Brooklyn Bagels,Brooklyn Bagels,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,La Paisana Restaurant,La Paisana Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Amore Gelato,Amore Gelato,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Hibachi Grill and Noodle Bar,Hibachi Grill and Noodle Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Monserrate Restaurant,Monserrate Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Diana Bakery Inc,Diana Bakery Inc,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Donut divas,Donut divas,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,KC Healty Cooking,KC Healty Cooking,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Seven Miami,Seven Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pronto Pasta,Pronto Pasta,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Powerpizzeria,Powerpizzeria,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,The Little Asian Kitchen,The Little Asian Kitchen,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Rico Bakery,Rico Bakery,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Little Havana Pizza House,Little Havana Pizza House,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Let's Make A Daiquiri,Let's Make A Daiquiri,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,TGI FRiDAY'S,TGI FRiDAY'S,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,YUZU Frozen Yogurt,YUZU Frozen Yogurt,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Lekoke Wine and Bites,Lekoke Wine and Bites,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Con Sabor A Mexico Carnitas Estilo Michoacan,Con Sabor A Mexico Carnitas Estilo Michoacan,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Yaya's Miami Sushi & Seafood,Yaya's Miami Sushi & Seafood,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Tinta y Cafe,Tinta y Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Piccola Italia,Piccola Italia,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Janet's Restaurant,Janet's Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Lemoni Cafe,Lemoni Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Plaza Seafood Market,Plaza Seafood Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Cold Stone Creamery,Cold Stone Creamery,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Ceviche Del Rey of Kendall,Ceviche Del Rey of Kendall,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Che Tito's I,Che Tito's I,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,RC Subs,RC Subs,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Cafe Villa Clara,Cafe Villa Clara,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Five Guys,Five Guys,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Sir Pizza of Sunny Land,Sir Pizza of Sunny Land,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Corbett's Sports Bar & Grill,Corbett's Sports Bar & Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Ruben's Cuban Restaurant,Ruben's Cuban Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Sports Grill Kendall,Sports Grill Kendall,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Best Sub Shop,Best Sub Shop,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Sports Grill-Hammocks,Sports Grill-Hammocks,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Island Spice,Island Spice,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Haagen Dazs,Haagen Dazs,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Carina's Stone Fired Pizza,Carina's Stone Fired Pizza,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Chill-N Ice Cream,Chill-N Ice Cream,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,"Haagen Dazs Ice Cream, The Falls Shopping Center","Haagen Dazs Ice Cream, The Falls Shopping Center",0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Smoothie King,Smoothie King,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Menchie's Frozen Yogurt,Menchie's Frozen Yogurt,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Miwi Cafe,Miwi Cafe,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Cafe Latino,Cafe Latino,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Miami Subs Grill,Miami Subs Grill,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Crapes of Aventura,Crapes of Aventura,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Bellante's Pizza & Pasta,Bellante's Pizza & Pasta,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Cafe Cafe Waterways Shoppers,Cafe Cafe Waterways Shoppers,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Hamptons,Hamptons,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Gallery of Cakes & More-Orc,Gallery of Cakes & More-Orc,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Nathan's Famous,Nathan's Famous,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Baskin-Robbins,Baskin-Robbins,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Tequenomania Inc,Tequenomania Inc,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Fritanga Monimbo Kendall,Fritanga Monimbo Kendall,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Coral Restaurant,Coral Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Crepe Connection Cafe,Crepe Connection Cafe,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Caballo Viejo Restaurant,Caballo Viejo Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,El Arte Bakery,El Arte Bakery,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Don Patacon Colombian Restaurant,Don Patacon Colombian Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Pan Pa'ya Bakery,Pan Pa'ya Bakery,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Bahama Fish Market & Rest II,Bahama Fish Market & Rest II,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Ankarr European Pastry Shop & Restaurant,Ankarr European Pastry Shop & Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Don Fernando Fish Market and Restaurant,Don Fernando Fish Market and Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Cuban Latin Cafe,Cuban Latin Cafe,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Jamaica Kitchen,Jamaica Kitchen,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Giardino Gourmet Salads,Giardino Gourmet Salads,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Ceviche & Grill,Ceviche & Grill,0,迈阿密其他,0.0,0.0,0.0
+其他美食,La Granja,La Granja,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Don Burrito,Don Burrito,0,迈阿密其他,0.0,0.0,0.0
+其他美食,La Casona,La Casona,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Fat Busters,Fat Busters,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Cantina Grill At Kendall Village,Cantina Grill At Kendall Village,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Subway,Subway,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Su Shin Japanese,Su Shin Japanese,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Bella Napoli II,Bella Napoli II,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Red,Red,0,迈阿密其他,0.0,0.0,0.0
+其他美食,The Butchers Block,The Butchers Block,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,El Rey De Las Fritas,El Rey De Las Fritas,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Don Burrito Restaurant,Don Burrito Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Rancho Mateo,Rancho Mateo,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Mekatos Bakery,Mekatos Bakery,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Los Verdes Corp,Los Verdes Corp,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Sweet Times Cupcakes & Coffee,Sweet Times Cupcakes & Coffee,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Shibui,Shibui,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Don Domingo,Don Domingo,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Madi's Tea Garden Tea Room,Madi's Tea Garden Tea Room,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Don Domingo,Don Domingo,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Osteria Vecchio Piemonte,Osteria Vecchio Piemonte,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Ricky Bakery,Ricky Bakery,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Island Delight,Island Delight,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Flor DE La Canela,Flor DE La Canela,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Bonsai Restaurant,Bonsai Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,La Perla Del Rincon Del Mar,La Perla Del Rincon Del Mar,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,Cocos Kitchen,Cocos Kitchen,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,Clives Cafe,Clives Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Esther's 103rd Street,Esther's 103rd Street,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,Che Sopranos,Che Sopranos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Football Sandwich Shop,Football Sandwich Shop,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,The Bakery Cafe and Restaurant,The Bakery Cafe and Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Luna Pasta,Luna Pasta,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Guarapo Organic Juice bar,Guarapo Organic Juice bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pinkberry,Pinkberry,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Jumbo Buffet 2,Jumbo Buffet 2,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,Met Cafe and Bar,Met Cafe and Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Coral Cafe,Coral Cafe,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Tamarind Restaurant & Bar,Tamarind Restaurant & Bar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Ghirardelli Chocolate,Ghirardelli Chocolate,0,迈阿密其他,0.0,0.0,0.0
+其他美食,IHOP,IHOP,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,Panera Bread,Panera Bread,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,"Mi Vida Cafe, Vegan Cuisine","Mi Vida Cafe, Vegan Cuisine",0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Cheescake Factory,Cheescake Factory,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Delicias de Espana,Delicias de Espana,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,S & S Diner South,S & S Diner South,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Crepe Maker,Crepe Maker,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Panera Bread,Panera Bread,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,La Carreta,La Carreta,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Villa Pizza,Villa Pizza,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,TCBY,TCBY,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Subway,Subway,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Maco's Pizza and Pasta,Maco's Pizza and Pasta,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Barley & Swine craft food & drink,Barley & Swine craft food & drink,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Neighborhood Bistro,Neighborhood Bistro,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,La Provence South Beach,La Provence South Beach,0,南海滩(South Beach),0.0,0.0,0.0
+其他美食,the atrium,the atrium,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Hermon Restaurant,Hermon Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Sakura Sushi Bar,Sakura Sushi Bar,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Rinconcito Latino,Rinconcito Latino,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Cinnabon,Cinnabon,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Chicken Kitchen,Chicken Kitchen,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Rinconcito Latino,Rinconcito Latino,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Date Aqui,Date Aqui,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Cafeteria Adelita II,Cafeteria Adelita II,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Caribe Cafe Restaurant,Caribe Cafe Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Aroma Del Peru of Coral Gables,Aroma Del Peru of Coral Gables,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,El Palacio De Los Jugos,El Palacio De Los Jugos,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Kelly's Cajun Grill,Kelly's Cajun Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Cinnabon,Cinnabon,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Sushi Runner,Sushi Runner,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Narco Bollo,Narco Bollo,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Cafe Versailles,Cafe Versailles,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Cebiche's Place,Cebiche's Place,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Cafe Bastille,Cafe Bastille,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Salad Creations Miami,Salad Creations Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,The Bar at Level 25,The Bar at Level 25,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Chop Suey International Restaurant,Chop Suey International Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Tutto Pizza,Tutto Pizza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Wok Town,Wok Town,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Nino's Pizza,Nino's Pizza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Graziano's Restaurant,Graziano's Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Union Restaurant and Cafe,Union Restaurant and Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Sacha's Cafe,Sacha's Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,The Juicery Bar,The Juicery Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pepper's Burrito Grill,Pepper's Burrito Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Soho Lounge,Soho Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Perfecto,Perfecto,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Chinois Chinois,Chinois Chinois,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,CLOS Bistro & Cafe,CLOS Bistro & Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,La Pizzeria Di Lemoni Inc,La Pizzeria Di Lemoni Inc,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Primo Pizza,Primo Pizza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Haagen Dazs Ice Cream,Haagen Dazs Ice Cream,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Sakaya Kitchen,Sakaya Kitchen,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Crepe Maker,Crepe Maker,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,El Palacio De Los Jugos,El Palacio De Los Jugos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Perricone's Marketplace & Cafe,Perricone's Marketplace & Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Ten Fruits,Ten Fruits,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Bluewater,Bluewater,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,R House,R House,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Sharkeys Beer & Wine,Sharkeys Beer & Wine,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,MPP Brickell - Fine Peruvian Cuisine,MPP Brickell - Fine Peruvian Cuisine,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,La Dinette,La Dinette,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Bahia,Bahia,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,La Loggia Ristorant,La Loggia Ristorant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Honey Tree Inc TheHoney Tree Inc The,Honey Tree Inc TheHoney Tree Inc The,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Stoupsy's of Athens,Stoupsy's of Athens,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Rigatti's Cafe,Rigatti's Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Cafe El Malecon,Cafe El Malecon,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Papo Llega Y PON,Papo Llega Y PON,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Soya & Pomodoro,Soya & Pomodoro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Offerdahl's,Offerdahl's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Oriental Bakery & Grocery Co,Oriental Bakery & Grocery Co,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Morro Castle,Morro Castle,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,neMesis Urban Bistro,neMesis Urban Bistro,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,Choices Cafe,Choices Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pier 94,Pier 94,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,La Sandwicherie,La Sandwicherie,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pollos y Jarras,Pollos y Jarras,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Bryan in the Kitchen,Bryan in the Kitchen,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,La Terraza Cafe & Bar,La Terraza Cafe & Bar,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Miami City Club,Miami City Club,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Taco Rico,Taco Rico,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,The Bagel Express,The Bagel Express,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Sakura Japanese Restaurant,Sakura Japanese Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Mamma Mia Pizzeria & Restaurant,Mamma Mia Pizzeria & Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Gyroville,Gyroville,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Sergios Restaurant,Sergios Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,French Bakery Delices De France,French Bakery Delices De France,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Origami Thai And Sushi,Origami Thai And Sushi,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Aromas del Peru,Aromas del Peru,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Grill Concepts Inc LLC,Grill Concepts Inc LLC,0,迈阿密其他,0.0,0.0,0.0
+其他美食,La Granja,La Granja,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Aaria at Acqualina,Aaria at Acqualina,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Starlite Cafe,Starlite Cafe,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Menchie's miller crossing,Menchie's miller crossing,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Five Guys,Five Guys,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Chuck Wagon Restaurant,Chuck Wagon Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,3 Chefs and a Chicken,3 Chefs and a Chicken,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Pincho Factory,Pincho Factory,0,迈阿密其他,0.0,0.0,0.0
+其他美食,El Rancho Grande,El Rancho Grande,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Bamboo Restaurant,Bamboo Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Casavana Cuban Cuisine,Casavana Cuban Cuisine,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Cipriano's Deli,Cipriano's Deli,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Einstein Bros,Einstein Bros,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,迈阿密其他,0.0,0.0,0.0
+其他美食,IHOP,IHOP,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Kings Creek Village Tavern Miami,Kings Creek Village Tavern Miami,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Las Vegas Cuban Cuisine,Las Vegas Cuban Cuisine,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Super Arepa Miami,Super Arepa Miami,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Olive Garden Italian Restaurant,Olive Garden Italian Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Il Tagliere,Il Tagliere,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Dona Paulina,Dona Paulina,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Wing Stop,Wing Stop,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Lazeez Asian Cuisine,Lazeez Asian Cuisine,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Francesco Cafe,Francesco Cafe,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Secreto,Secreto,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,The Pita Pit,The Pita Pit,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,La Perla Peruvian Restaurant,La Perla Peruvian Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,The News Lounge,The News Lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Siam Rice Thai & Sushi Restaurant,Siam Rice Thai & Sushi Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,La Tour Eiffel,La Tour Eiffel,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Bistro Urbano,Bistro Urbano,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,LA Sweets,LA Sweets,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Buffalo Wings,Buffalo Wings,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,ChateauBleau Hotel,ChateauBleau Hotel,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Lile's Airport Cafe,Lile's Airport Cafe,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Che Pasta,Che Pasta,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Jefe's Original Fish Taco & Burgers,Jefe's Original Fish Taco & Burgers,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,Here Comes the Sun,Here Comes the Sun,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,The Yardhouse,The Yardhouse,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Einstein Bros. Bagels,Einstein Bros. Bagels,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Atchana's East West Kitchen,Atchana's East West Kitchen,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Super Pizzeria and Restaurant,Super Pizzeria and Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Last Carrot,Last Carrot,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Mandarin Express Dadeland Inc,Mandarin Express Dadeland Inc,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Tony Roma's,Tony Roma's,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Dolce Vita Gelato,Dolce Vita Gelato,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Chicken Kitchen,Chicken Kitchen,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,First Hong KONG Express,First Hong KONG Express,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,ChurroMania Dadeland Mall,ChurroMania Dadeland Mall,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Pei Wei Asian Diner,Pei Wei Asian Diner,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,R & T Signature Grill,R & T Signature Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Strada in the Grove,Strada in the Grove,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Bobby's Burger Palace,Bobby's Burger Palace,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,New York Roma Pizza & Pasta,New York Roma Pizza & Pasta,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Gardner's Markets,Gardner's Markets,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Mixt,Mixt,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Two Chefs Restaurant,Two Chefs Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Barezitto,Barezitto,0,南海滩(South Beach),0.0,0.0,0.0
+其他美食,Rally's Hamburgers,Rally's Hamburgers,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Cerro Negro Restaurant,Cerro Negro Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Fit 2 Go,Fit 2 Go,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,El Huarike Peruano,El Huarike Peruano,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Don Toston and Dona Arepa,Don Toston and Dona Arepa,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Arby's,Arby's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Red Koi Lounge,Red Koi Lounge,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Ceviche,Ceviche,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Godfather's Pizza,Godfather's Pizza,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,El Centro Americano,El Centro Americano,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Zeitoun Restaurant,Zeitoun Restaurant,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Blue Sky,Blue Sky,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Hereford Grill,Hereford Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Sbarro,Sbarro,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Sunrise Bagel and Deli,Sunrise Bagel and Deli,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Auntie Anne's Soft Pretzels,Auntie Anne's Soft Pretzels,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Doral Bakery and Cafe,Doral Bakery and Cafe,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Cozzoli's Pizza,Cozzoli's Pizza,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Casa Kni,Casa Kni,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Sarussi,Sarussi,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Vintage Cafe & Bakery,Vintage Cafe & Bakery,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,La Portena,La Portena,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Las Totoritas,Las Totoritas,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Grill It,Grill It,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Armillary Grill,Armillary Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Giardino Gourmet Salads,Giardino Gourmet Salads,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Segafredo Brickell,Segafredo Brickell,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Shokudo,Shokudo,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,LaBoca Grill Cafe,LaBoca Grill Cafe,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Emily Restaurant #2,Emily Restaurant #2,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Intermezzo,Intermezzo,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Miami Subs Grill,Miami Subs Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Papa John's,Papa John's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Paseo Catracho,Paseo Catracho,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Grunberg's Deli,Grunberg's Deli,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Hooters,Hooters,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Mikan Japanese Restaurant,Mikan Japanese Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Kamlong Chinese Restaurant,Kamlong Chinese Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Wee-Bag-it,Wee-Bag-it,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Heads Or Tails Seafood,Heads Or Tails Seafood,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pollo Campero,Pollo Campero,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Carino's Pizza Pasta and Sub's,Carino's Pizza Pasta and Sub's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Parking Cafeteria,Parking Cafeteria,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Chez Le Bebe,Chez Le Bebe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Deli Lane,Deli Lane,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,One World Bistro & Market,One World Bistro & Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Conch Town USA,Conch Town USA,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Fritanga Cana Brava,Fritanga Cana Brava,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Rancho Luna Restaurant,Rancho Luna Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Islas Canarias,Islas Canarias,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Deli Antojitos,Deli Antojitos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Jimmy Johns,Jimmy Johns,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Zuperpollo INC,Zuperpollo INC,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Spice of Havanna Latin Grill,Spice of Havanna Latin Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Blue Parrot Grill,Blue Parrot Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,La Paris Cafe,La Paris Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pinolandia,Pinolandia,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Fat Tuesday,Fat Tuesday,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,100 montaditos,100 montaditos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Gelato Nostro,Gelato Nostro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Spaghettino,Spaghettino,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Table 40,Table 40,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pizza Pazza,Pizza Pazza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Delicias Peruano,Delicias Peruano,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Snappers Pier Five,Snappers Pier Five,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Blackbrick Chinese,Blackbrick Chinese,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Virggi Cafe,Virggi Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Sky Grille,Sky Grille,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Gigis,Gigis,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Will Call,Will Call,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Mercato,Mercato,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,TCBY Mary Brickell Village,TCBY Mary Brickell Village,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Toasted Bagelry & Deli,Toasted Bagelry & Deli,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pura Vida Natural Foods,Pura Vida Natural Foods,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Havana Sabor Cafe,Havana Sabor Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Trade Winds,Trade Winds,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Popeyes Chicken & Biscuits,Popeyes Chicken & Biscuits,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Riviera,Riviera,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Braziliero Restaurant,Braziliero Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,I Love Calle Ocho Cafe & Shop,I Love Calle Ocho Cafe & Shop,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Selva Negra Restaurant,Selva Negra Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Indochine Bistro,Indochine Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Mike's At Plaza Venetia,Mike's At Plaza Venetia,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Laguna Restaurant,Laguna Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,El Atlakat,El Atlakat,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Cacique's Lunch Restaurant,Cacique's Lunch Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Antigua Guatemala Cafeteria,Antigua Guatemala Cafeteria,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Sophie Bistro,Sophie Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Croissant D'or,Croissant D'or,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Cafe Progreso,Cafe Progreso,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Manolo & Rene Cafeteria,Manolo & Rene Cafeteria,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Sedici Cafe Grill Incorporated,Sedici Cafe Grill Incorporated,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Portobello Restaurant,Portobello Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Arahis Bakery & Restaurant,Arahis Bakery & Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Food Elements Incorporated,Food Elements Incorporated,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Marcelo Restaurant Pescadria,Marcelo Restaurant Pescadria,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Morgan's,Morgan's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Indigo at the InterContinental Miami,Indigo at the InterContinental Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,El Gran Inka - Brickell,El Gran Inka - Brickell,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Amuse restaurant and lounge,Amuse restaurant and lounge,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Sabor a Peru,Sabor a Peru,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Tuyo Restaurant,Tuyo Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,la granja downtown,la granja downtown,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,The DRB,The DRB,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Martini 28,Martini 28,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,El Pulpito,El Pulpito,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Salmon Salmon,Salmon Salmon,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Dolores But you can call me lolita,Dolores But you can call me lolita,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,The Back of The Road Sports Grill,The Back of The Road Sports Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,All Star Pizza,All Star Pizza,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Shiraz Kabab Cafe,Shiraz Kabab Cafe,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Village Chinese Restaurant,Village Chinese Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Jamba Juice,Jamba Juice,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Keg South of Kendall,Keg South of Kendall,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Keg South,Keg South,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,BBQ Chicken of London Square,BBQ Chicken of London Square,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Elsy's Cafe,Elsy's Cafe,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Ny's Pizza,Ny's Pizza,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Gold China,Gold China,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Subway,Subway,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,China Buffet,China Buffet,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Wagon's West Restaurant,Wagon's West Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Lots Of Lox Deli,Lots Of Lox Deli,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,QPizzarestaurant,QPizzarestaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Smashburger,Smashburger,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Latin Restaurant,Latin Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,La Tinajita Cafe,La Tinajita Cafe,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Mr Bee's Cakes,Mr Bee's Cakes,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Snapper's Seafood Restaurant,Snapper's Seafood Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,El Pollon Grill,El Pollon Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,El Meson del Paraiso,El Meson del Paraiso,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Original Big Tomato,Original Big Tomato,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Miami Squeeze,Miami Squeeze,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Boston Market,Boston Market,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Mario The Baker to Go,Mario The Baker to Go,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Kosher Kingdom,Kosher Kingdom,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Paradise Cafe,Paradise Cafe,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Auntie Anne's,Auntie Anne's,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Charley's Grilled Subs,Charley's Grilled Subs,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Five Guys,Five Guys,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Pashas,Pashas,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Juice & Java Inc,Juice & Java Inc,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Dolce Vita,Dolce Vita,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Sugar Rush Cafe,Sugar Rush Cafe,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Weber Cafe,Weber Cafe,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Miyako Restaurant,Miyako Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Jamaica House Restaurant,Jamaica House Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Original Junie's Restaurant,Original Junie's Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Yacht Club Cafe,Yacht Club Cafe,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Moez Express,Moez Express,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,迈阿密其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Cantina Grill,Cantina Grill,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Rice House of Kabob,Rice House of Kabob,0,迈阿密其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,My Little Organic Bistro,My Little Organic Bistro,0,迈阿密其他,0.0,0.0,0.0
+其他美食,KFC,KFC,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Sports Grill Bird Road,Sports Grill Bird Road,0,迈阿密其他,0.0,0.0,0.0
+其他美食,KFC,KFC,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Moe's Southwest Grill,Moe's Southwest Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Papa Piccolo Restaurant & Pizzeria,Papa Piccolo Restaurant & Pizzeria,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,BGR The Burger Joint,BGR The Burger Joint,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Old World Pizza Miami,Old World Pizza Miami,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Little Caesars,Little Caesars,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Sushi Runner,Sushi Runner,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Seaman Cafe,Seaman Cafe,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Havana Sunset Restaurante,Havana Sunset Restaurante,0,迈阿密其他,0.0,0.0,0.0
+其他美食,El Palacio De Los Jugos II,El Palacio De Los Jugos II,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Miami Subs Grill,Miami Subs Grill,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,迈阿密其他,0.0,0.0,0.0
+其他美食,La Granja Restaurant,La Granja Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Juventud,Juventud,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,King Palace Chinese Bar-B-Q Restaurant,King Palace Chinese Bar-B-Q Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,迈阿密其他,0.0,0.0,0.0
+其他美食,The Sushi Bar,The Sushi Bar,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Rinconcito Latino,Rinconcito Latino,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Lee's Chinese Food,Lee's Chinese Food,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Bonefish Grill - West Miami,Bonefish Grill - West Miami,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Cajun & Grill of Cutler Ridge Mall,Cajun & Grill of Cutler Ridge Mall,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Habana Vieja Restaurant,Habana Vieja Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Smoothie King Miami,Smoothie King Miami,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Bello Italia,Bello Italia,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Shawarma Mediterranean Grill,Shawarma Mediterranean Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Aromas Del Peru,Aromas Del Peru,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Las Vegas Restaurant,Las Vegas Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Melting Pot,Melting Pot,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Tea Room,Tea Room,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Flannigan's Seafood Bar and Gril,Flannigan's Seafood Bar and Gril,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,La Fogata,La Fogata,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Rusty Pelikan,Rusty Pelikan,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Bahama Breeze,Bahama Breeze,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Life Food Gourmet,Life Food Gourmet,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Blue Martini Kendall,Blue Martini Kendall,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Dr. Limon,Dr. Limon,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Chifa Du Kang Chinese Peruvian Restaurant,Chifa Du Kang Chinese Peruvian Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Coopertown Restaurant,Coopertown Restaurant,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Hook Fish & Chicken,Hook Fish & Chicken,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Parrillada El Torito,Parrillada El Torito,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Rick's Bar,Rick's Bar,0,北迈阿密(North Miami),0.0,0.0,0.0
+其他美食,B & M Market,B & M Market,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Runway Grille,Runway Grille,0,迈阿密其他,0.0,0.0,0.0
+其他美食,Taurus Bar,Taurus Bar,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Improv Comedy Club,Improv Comedy Club,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Subway,Subway,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Subway,Subway,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Delicias De Espana 3,Delicias De Espana 3,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,El Rinconcito El Chele Restaurant,El Rinconcito El Chele Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Akashi Japanese Restaurant,Akashi Japanese Restaurant,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Subway,Subway,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Subway,Subway,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Chick-fil-A,Chick-fil-A,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Yogurtland,Yogurtland,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Chicken Kitchen,Chicken Kitchen,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Barracuda Raw Bar & Grill,Barracuda Raw Bar & Grill,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Anacapri On NW 57th,Anacapri On NW 57th,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Clubhouse One,Clubhouse One,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,IHOP,IHOP,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Pizza Rustica,Pizza Rustica,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Salt and Pepper,Salt and Pepper,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Ibiza Tapas and Tintos,Ibiza Tapas and Tintos,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,Mi Pueblo,Mi Pueblo,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Miami Subs Grill,Miami Subs Grill,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Los Gauchitos,Los Gauchitos,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Strike,Strike,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Piccadilly,Piccadilly,0,迈阿密国际机场(MIA),0.0,0.0,0.0
+其他美食,Romanicos,Romanicos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Finnegan's River,Finnegan's River,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Bon Fromage,Bon Fromage,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Kukaramakara,Kukaramakara,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,100 Montaditos,100 Montaditos,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pasha's,Pasha's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Orgullo Catracho,Orgullo Catracho,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Rosalia's Inc,Rosalia's Inc,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Checker's,Checker's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Carol's,Carol's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Checker's-Rally's,Checker's-Rally's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,La Provence Biscayne,La Provence Biscayne,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Subway,Subway,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pizza Pizza Inc,Pizza Pizza Inc,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Chili's,Chili's,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Sushi Maki,Sushi Maki,0,科勒尔盖布尔斯(Coral Gables),0.0,0.0,0.0
+其他美食,La Latina,La Latina,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,The Cheese Course Bistro,The Cheese Course Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Budare Bistro,Budare Bistro,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Porcao,Porcao,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,7 Pecados Kitchen & Grill,7 Pecados Kitchen & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,The Embassy Miami,The Embassy Miami,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Sanpocho Restaurant,Sanpocho Restaurant,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Bayview Pool Bar & Grill,Bayview Pool Bar & Grill,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Christie's Cafe,Christie's Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Diana's Cafe,Diana's Cafe,0,迈阿密市区(Downtown Miami),0.0,0.0,0.0
+其他美食,Daily Bread II,Daily Bread II,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,El Floridita Seafood Restaurant,El Floridita Seafood Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Hole In The Wall Pub,Hole In The Wall Pub,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Di Napoli Italian Restaurant,Di Napoli Italian Restaurant,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Sea Siam Connection,Sea Siam Connection,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Yogen Fruz,Yogen Fruz,0,肯德尔(Kendall),0.0,0.0,0.0
+其他美食,Benihana,Benihana,0,肯德尔(Kendall),0.0,0.0,0.0

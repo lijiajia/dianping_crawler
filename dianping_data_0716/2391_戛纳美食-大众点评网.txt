@@ -1,0 +1,530 @@
+咖啡厅,Cafe manuel
+咖啡厅,L'Epicurieux
+咖啡厅,Club & co Café
+咖啡厅,Caffe Lalu
+咖啡厅,Seas'On
+咖啡厅,Choco Times
+法国菜,Sea Sens
+法国菜,Bistro Les Canailles
+法国菜,Cannelle
+法国菜,Le 38
+法国菜,Aux P'tits Anges
+法国菜,L'assiette provencale
+法国菜,Le Maschou
+法国菜,Carlton Restaurant
+法国菜,Astoux et Cie Brun
+法国菜,Riviera Beach
+法国菜,La Chaufferette
+法国菜,The Legend
+法国菜,Le Switch
+法国菜,Crepperie de la Croisette
+法国菜,La Cabane
+法国菜,Cafe Lenotre
+法国菜,Eurest France
+法国菜,Sous le Soleil Exactement
+法国菜,La Table du Chef
+法国菜,L'Affable
+法国菜,Plage Royale
+法国菜,La Toque D'or
+法国菜,Grill & Wines Cannes
+法国菜,Couby's Café
+法国菜,Mantel
+法国菜,le Comptoir Des Vins
+法国菜,Assiette
+法国菜,Le Petit Paris
+法国菜,Caviar House
+法国菜,Le Relais du Martinez
+法国菜,Le Mesclun
+法国菜,Le cirque
+法国菜,Plage les Dunes
+法国菜,Chez Thérèse
+法国菜,Opinel Bernard
+法国菜,Brasserie Cannoise
+法国菜,Tapis Rouge
+法国菜,Hotel Le Cristal
+法国菜,Lips
+法国菜,Le Bistrot du Quatre
+法国菜,"L'heure Gourmande, "
+法国菜,"Le cafe bleu, residence cannes verrerie"
+法国菜,Restaurant de l'Etoile
+法国菜,Le Comptoir de la Mer
+法国菜,Plage Croisette Beach
+法国菜,Au Riche-Lieu
+法国菜,Babord & Tribord
+法国菜,Bay Cafe
+法国菜,Blue Beach
+法国菜,Couleurs caraibes restaurant glacier
+法国菜,La Mome du Tapis Rouge
+法国菜,Le Petit Lardon
+法国菜,Philcat
+法国菜,L'Epicure
+法国菜,Creperie Bretonne
+法国菜,Le Cosi
+法国菜,Restaurant L'Antidote Christophe Ferre
+法国菜,Chez Sabrina & Stephane
+法国菜,Latomium
+法国菜,Au Martin Pecheur
+法国菜,Le Bistrot Gourmand
+法国菜,La Cannoise des Cafes and des Thes
+法国菜,Cave Ets Vallauri
+法国菜,La Brasserie du Marche
+法国菜,Le 7 Place
+法国菜,Brouette de Grand-Mere
+法国菜,Le pot de vin
+法国菜,Le Hit
+法国菜,La Meissouniere
+法国菜,Luna Caffé
+法国菜,Biffer
+法国菜,Le Bistrot des Toques
+法国菜,La Petite Maison
+法国菜,Le Duplex
+法国菜,Privilège
+法国菜,"Pizzicato, le"
+法国菜,O'key Beach
+法国菜,Le pacifique
+法国菜,Grill House Restaurant
+法国菜,Le Domino
+法国菜,Le Mocca
+法国菜,Mechant Loup
+法国菜,La Farigoule
+法国菜,La Rotisserie
+法国菜,La Galette de Marie
+法国菜,La Table Provencale
+法国菜,L'Aparte
+法国菜,L'Ardoise
+法国菜,Lenotre
+法国菜,Pausa Café
+法国菜,Xavier La Pizzaiola
+法国菜,6 Boulevard
+法国菜,Restaurant Au Petit Saint Jean
+法国菜,Michou
+法国菜,La Pause
+法国菜,Le Babylon
+法国菜,Italian Caffe
+法国菜,Au mal assis
+法国菜,Le 360
+法国菜,Le Relais des Semailles
+法国菜,Difredo
+法国菜,La Mere Besson
+法国菜,Le porto
+法国菜,Bistro du Rendez-Vous
+法国菜,Au Bureau
+法国菜,1929 Restaurant in Palm Beach Casino
+法国菜,Freesbea
+法国菜,Bistrot de l'Etang
+法国菜,La Brasserie
+法国菜,Le Moure Rouge
+法国菜,Banana Blue
+法国菜,Le Festival
+法国菜,Adriana Café
+法国菜,A La Maree
+法国菜,Le Pastis
+法国菜,L'Annex
+法国菜,Le Bistro Croisette
+法国菜,Brasserie le 29
+法国菜,Quai 55
+法国菜,La Creperie
+法国菜,Bijou Plage
+法国菜,Les Sables d'Or
+法国菜,Lorenzo - Pizzeria
+法国菜,tantra
+酒吧,Fame
+酒吧,Cote Jardin
+酒吧,Morrisons Irish Pub
+酒吧,Le Bar l'Amiral
+酒吧,Brasserie le Californie
+酒吧,No18 by Micka
+酒吧,Le Crillon
+酒吧,Le Cercle Bar
+酒吧,L'Angle
+酒吧,Le Tube
+酒吧,Cocoon
+酒吧,Ô 2 Anges
+酒吧,Morrisons Lounge
+酒吧,La bulle doree
+酒吧,le Melting Pot
+酒吧,Le Vogue
+酒吧,Shiloh
+酒吧,Le Bar a Vin
+酒吧,le First Cafe Cannes
+酒吧,Gotha Club
+酒吧,Brasserie Le Sandra
+酒吧,Quai 13
+酒吧,Bistrot Margaux
+酒吧,Petit Majestic
+酒吧,Disco Le Sept
+酒吧,Le Romarin
+酒吧,La Baptistin
+意大利菜,Gastone Pizza Alla Pala
+意大利菜,Surtout Maison da Maurizia
+意大利菜,Lenoa's Cafe
+意大利菜,Bellitalia
+意大利菜,Caffe Giulia
+意大利菜,"Salsamenteria di parma, cannes"
+意大利菜,Da Mimmo
+意大利菜,DAME Cafe
+意大利菜,Paparazzi Pizza Al Taglio
+意大利菜,Barista Cannes
+意大利菜,Zero zero
+意大利菜,Da Stefano
+意大利菜,Il convivio
+意大利菜,Punto Pasta
+意大利菜,Arcimboldo
+意大利菜,Ristorante Angolo Italiano
+意大利菜,Le Melaudy
+意大利菜,Ciro
+意大利菜,Salsarossa
+意大利菜,Maccheroni
+意大利菜,Cafe Boheme
+意大利菜,La boussole carree
+意大利菜,Da Laura
+意大利菜,Il Viaggio
+意大利菜,San Telmo
+意大利菜,Casa Mia
+意大利菜,Gusti d'Italia
+意大利菜,Cinquanta Caffe
+意大利菜,Il Gambero
+意大利菜,IX-Nove
+意大利菜,Au Poisson Grille
+意大利菜,L'Andrea
+意大利菜,La Libera
+意大利菜,Il Girasole - Chez Franco
+意大利菜,Diamond
+意大利菜,Marina Caffe
+墨西哥菜,Le Saloon Pub
+其他西餐,Mal Assis
+其他西餐,le bivi
+其他西餐,La Cigale Bistrot
+其他西餐,"Le Bouche a Oreille, Cannes"
+其他西餐,"Royal Gray, le"
+其他西餐,La Palme d'Or
+其他西餐,Couby's Café
+其他西餐,O'happy
+其他西餐,El Regal
+其他西餐,Club & co Café
+其他西餐,restaurant noun
+其他西餐,Plage l'Ondine
+其他西餐,Restaurant ELBEY
+其他西餐,Snack Chez Vincent
+其他西餐,Oasis
+其他西餐,"Moule Rit, la"
+其他西餐,Le Jardin Secret
+其他西餐,New Hoche
+其他西餐,"Masque De Fer, le"
+其他西餐,3.14 Resto Bar Club
+其他西餐,La Petite Maison de Nicole
+其他西餐,Steak'n'Shake
+其他西餐,Sos Pizza Poulet
+其他西餐,L'armenien
+其他西餐,Restaurant Plage Soleil
+其他西餐,Plage Belle PLage
+其他西餐,"Manoir, le"
+其他西餐,Oulivie
+其他西餐,"Mirabelle, la"
+其他西餐,Le Fish and Chips Cannes
+其他西餐,Restaurant Le 69 Garden
+其他西餐,JW Grill Cannes
+其他西餐,Roule Ma Moule
+其他西餐,Fred L'Ecailler
+其他西餐,"72 Croisette, le"
+其他西餐,Vegaluna
+其他西餐,"Voilier, le"
+其他西餐,Papa Nino 2
+其他西餐,Gaston Gastounette
+其他西餐,C Beach
+其他西餐,"Madeleine, le"
+其他西餐,La Sousta
+其他西餐,La Fabrik
+其他西餐,Echiquier
+其他西餐,Le Saint Antoine
+其他西餐,Chez Vincent et Nicolas
+其他西餐,Le Bistrot Du Suquet
+其他西餐,"Ma Nolan's, Cannes"
+其他西餐,"Socca, la"
+其他西餐,L'Avion
+其他西餐,Little Next Door
+其他西餐,La Fleur D'oranger
+其他西餐,"Cave, la"
+其他西餐,"Claire Fontaine, la"
+其他西餐,"Dolce Vita, le"
+其他西餐,Aux Palmiers
+其他西餐,La Palmeraie
+其他西餐,Baoli Beach Restaurant
+其他西餐,Los Faroles
+其他西餐,Gavroche
+其他西餐,"Piazza, la"
+其他西餐,Le Pacific Express
+其他西餐,Chez Freddy
+其他西餐,"Bistrot Casanova, le"
+其他西餐,"Pacific, le"
+其他西餐,The Tavern
+其他西餐,La Guerite
+其他西餐,Escale
+其他西餐,Waikiki
+其他西餐,"Chateau De La Tour, le"
+其他西餐,la tonnelle
+其他西餐,L'Ecrin Plage
+其他西餐,Cafedes
+其他西餐,Restaurant L'Alhambra
+其他西餐,"Marais, le"
+其他西餐,Mio Cafe
+其他西餐,Entrecote
+其他西餐,Byron
+其他西餐,Bar Tabac Le Meynadier
+其他西餐,Bacchouse
+其他西餐,Warm ' Up
+其他西餐,"Jumelles, le"
+中餐,Le Jardin de Bambou
+中餐,Salon de Gourmandises Intuitions By J.
+中餐,El Bodega del Havana
+中餐,Le Bangkok
+中餐,Le royal de chine
+日韩料理,Wazakura
+日韩料理,Wasabi d'Azur
+日韩料理,Tokyo
+日韩料理,New Saigon
+日韩料理,Sushi Kan
+日韩料理,Cali Sushi
+日韩料理,MiDaHe
+日韩料理,Master Sushi
+日韩料理,Le Carré des Sens
+日韩料理,Sushi Ki
+日韩料理,SushiKan Fly
+日韩料理,Sushi Shop
+快餐简餐,New York New York
+快餐简餐,Pat & Jo Cafe
+快餐简餐,Saveurs du Chef
+快餐简餐,Le XXIV
+快餐简餐,Au Bon Raviolis
+快餐简餐,Balkan
+快餐简餐,JW Marriott
+快餐简餐,Le Salon des Independants
+快餐简餐,Ernest Traiteur
+快餐简餐,11 Carnot
+快餐简餐,McDonald's
+快餐简餐,Coffee & Cookies
+快餐简餐,Coubi's
+快餐简餐,L'instant gourmand
+快餐简餐,Brooklyn
+快餐简餐,Cafe Pico
+快餐简餐,Restaurant Beef House
+快餐简餐,Cocoon KF
+快餐简餐,Mokka
+快餐简餐,Le Coffee
+快餐简餐,Belliard
+快餐简餐,Sequoia Cafe
+更多亚洲菜,Sushi Time
+更多亚洲菜,Asie Fast Food
+更多亚洲菜,Specialites Le Jade
+更多亚洲菜,Chez Mai
+更多亚洲菜,Dong Nam
+更多亚洲菜,Restaurant
+更多亚洲菜,Le Saigon
+更多亚洲菜,Bosphore Kebab
+更多亚洲菜,Xuan Le Printemps
+更多亚洲菜,Wok Inn
+更多亚洲菜,La Plage
+更多亚洲菜,Restaurant Chez Heng
+更多亚洲菜,maharajah
+更多亚洲菜,Le Jaipur
+更多亚洲菜,Sushi by Nam
+更多亚洲菜,Zoa
+更多亚洲菜,Le comptoir de macao
+更多亚洲菜,Délices Yang
+更多亚洲菜,Le Baoli
+更多亚洲菜,Restaurant Indien Ganesh
+更多亚洲菜,Sri Vishnu
+海鲜,Chez Astoux
+海鲜,La Cave Forville
+海鲜,Coquillages Brun
+海鲜,Cave a Vins
+海鲜,L' ANNEXE astoux et brun
+比萨,"Potiniere Du Palais, la"
+比萨,Star di pizza
+比萨,Pizza Shop Cannes la Bocca
+比萨,Pizza Shop Cannes
+面包甜点,Amorino Gelato
+面包甜点,Douce Folie
+面包甜点,Lux Cafe
+面包甜点,Ristorante Pizzeria Gusto Italiano
+面包甜点,Les Coquelicots
+面包甜点,Jean Luc Pele Patisserie
+面包甜点,Vilfeu
+面包甜点,La maison du chocolat cannes
+面包甜点,Kiosque 29 - La Casa Blanca
+面包甜点,Barbarac
+面包甜点,La Maison Du Chocolat
+其他美食,Plage Goeland
+其他美食,Caffe Roma
+其他美食,Miramar Plage
+其他美食,Le Panorama Rooftop Bar
+其他美食,Private Beach Restaurant
+其他美食,Bar Majestic
+其他美食,Itineraire Cafe
+其他美食,"Scala, la"
+其他美食,L'Hippo Croq
+其他美食,Mahattan Food
+其他美食,L'Amira
+其他美食,Le Fournil Cannois
+其他美食,Vesuvio
+其他美食,Solidor
+其他美食,Armani Caffe
+其他美食,Le Ksar
+其他美食,L'Espelette
+其他美食,DA LAURA
+其他美食,Le Restaurant Armenien
+其他美食,Thien Phu
+其他美食,Le Beija Flor
+其他美食,Excel Foie Gras
+其他美食,"Mediterranee, le"
+其他美食,le magrheb
+其他美食,Auberge Provençale da Bouttau
+其他美食,LA PLAGE
+其他美食,Restaurant Barocco
+其他美食,Il Teatro
+其他美食,Z Plage
+其他美食,Le Pistou
+其他美食,Up Side Down
+其他美食,Le Cafe Brun
+其他美食,Vinh Phat
+其他美食,VEGALUNA RESTAURANT PLAGE SPECIAL EVENTS
+其他美食,CIRO
+其他美食,AMICI RISTORANTE ITALIANO
+其他美食,La Gold Plage
+其他美食,L'Americain
+其他美食,Restaurant de la Bourse
+其他美食,"Saint Barth, le"
+其他美食,"Triomphe, le"
+其他美食,LA PLAGE
+其他美食,"Rendez-Vous, le"
+其他美食,Legend Cafe
+其他美食,Lou Souleou
+其他美食,Upside Down
+其他美食,Le Lion d'Or
+其他美食,YO'MO LOUNGE
+其他美食,CAFé FLORIAN
+其他美食,MAITRE RENARD
+其他美食,AL CHARQ
+其他美食,Chez Eve et Jean-Claude
+其他美食,Barbarella
+其他美食,Cave Croisette
+其他美食,Le Venise
+其他美食,La Cava
+其他美食,L'Enoteca
+其他美食,La Bravade
+其他美食,Hotel des Orangers
+其他美食,"Bistro, le"
+其他美食,Poivre et Sel
+其他美食,Olivier
+其他美食,Volupte
+其他美食,Al 20
+其他美食,Apollino
+其他美食,Solola
+其他美食,Amici
+其他美食,L'Authentic
+其他美食,Le Sevrina
+其他美食,LES GOURMETS
+其他美食,RESTAURANT GASTON ET GASTOUNETTE
+其他美食,La Mandala
+其他美食,Carlton Beach
+其他美食,Rado Plage
+其他美食,Le Factory Cafe
+其他美食,Fouquet's Cannes
+其他美食,Space Sushi Pink Shark Restaurant
+其他美食,Maema Plage du Midi
+其他美食,Plage du Festival
+其他美食,Cote Croisette
+其他美食,Faroles
+其他美食,Brown sugar
+其他美食,24 Suquet
+其他美食,Le Chaperon Rouge
+其他美食,Coco Loco
+其他美食,Aux Bons Enfants
+其他美食,La Maison Corse (Cantine Et Epicerie Fine Cannes)
+其他美食,The Claridge
+其他美食,Esther Cafe
+其他美食,Modo Mio
+其他美食,"Toscana, la"
+其他美食,Pierrot 1Er
+其他美食,La Cave du Vieux Port
+其他美食,Pizza Caldo
+其他美食,Cool Heure Cafe
+其他美食,Warner Cafe
+其他美食,Jean Luc Pelé La Table
+其他美食,Le Passage
+其他美食,Chicago Cafe
+其他美食,Mon reve de gosse
+其他美食,Paprika
+其他美食,Pause Cafe
+其他美食,O'Sushi.Cannes
+其他美食,Le Balthazar Cafe
+其他美食,La Briocherie
+其他美食,Lemonot
+其他美食,Papa Nino Pizzeria Cannes
+其他美食,O'Naturelle
+其他美食,Le Valentino
+其他美食,Le Maghreb
+其他美食,Between'us
+其他美食,Le Bistrot des Artisans
+其他美食,Mister Pizza
+其他美食,Epices et Caramel Terrasse
+其他美食,LA PLAGE MAJESTIC BARRIèRE
+其他美食,LA TABLéE PROVENçALE
+其他美食,BRASSERIE DU CASINO
+其他美食,CAFé K
+其他美食,L'éPONYME
+其他美食,Restaurant La dolce vita
+其他美食,Felix
+其他美食,Les Coulisses
+其他美食,Le bureau
+其他美食,Le SWING
+其他美食,"Dauphin, le"
+其他美食,L'Aparthe
+其他美食,"Caveau 30, le"
+其他美食,Le Grand Café
+其他美食,Pepperoni
+其他美食,Le Loft
+其他美食,Escale de Chine
+其他美食,L' Osmose Restaurant Lounge
+其他美食,"Farigoule, la"
+其他美食,"Miranda, la"
+其他美食,Pagoda Fast Food
+其他美食,Campanile
+其他美食,"Splendid, le"
+其他美食,Croisette Corner
+其他美食,SUPER VIANDES
+其他美食,Pomme d'Api
+其他美食,Peach Pit
+其他美食,Villa Romana Croisette
+其他美食,La Chunga
+其他美食,Al Gambero
+其他美食,La Pizza Cresci
+其他美食,La Fregate
+其他美食,"Coco De Mer, le"
+其他美食,Comme Chez Soi
+其他美食,"Maison Du Porto, la"
+其他美食,"Festival de la Crepe, le"
+其他美食,La Canna Suisse
+其他美食,Le Riad
+其他美食,Freddy
+其他美食,Asia Express
+其他美食,Ecrin
+其他美食,Bar des Negociants
+其他美食,"Cannes Beach, le"
+其他美食,L'African Restaurant
+其他美食,SEA SENS
+其他美食,PLAGE WAIKIKI
+其他美食,LE JOCKEY CLUB
+其他美食,LA PIZZA
+其他美食,BRASSERIE BRUN
+其他美食,LE RELAIS DU GRAND VENISE
+其他美食,RESTAURANT DU CERCLE VILLA VERA
+其他美食,LE REPUBLIK
+其他美食,EDEN HôTEL &AMP; SPA
+其他美食,LE BISTROT A HUITRES
+其他美食,LANTIDOTE
+其他美食,BUFALLO GRIL
+其他美食,LA ROSE DES SABLES
+其他美食,LE GRAND LIBAN
+其他美食,Melaudy Cafe
+其他美食,"Bourgogne, le"

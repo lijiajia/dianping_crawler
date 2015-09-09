@@ -1,0 +1,122 @@
+中餐,Spices,Spices,0,,7.2,7.2,7.2
+西式快餐,California Pizza Kitchen,California Pizza Kitchen,0,,7.2,7.2,7.2
+西式快餐,Domino's Pizza,Domino's Pizza,0,,7.1,7.1,6.8
+西式快餐,US Pizza,US Pizza,0,,6.9,6.9,6.9
+西式快餐,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+西式快餐,Pizza Hut,Pizza Hut,0,,7.2,6.8,7.2
+西式快餐,Pizza By The Bay,Pizza By The Bay,0,,7.2,7.2,7.2
+西式快餐,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+西式快餐,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+西式快餐,Sal's Pizza,Sal's Pizza,0,,7.0,6.9,7.0
+西式快餐,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+西式快餐,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+西式快餐,Aura,Aura,0,,6.9,7.0,6.9
+西式快餐,Pizza Casa Versova,Pizza Casa Versova,0,,6.9,6.9,6.9
+西式快餐,Juno's Pizza,Juno's Pizza,0,,6.9,6.9,6.9
+咖啡厅,Cosat coffee,Cosat coffee,0,,7.0,7.0,7.4
+咖啡厅,Leopold Cafe and Bar,Leopold Cafe and Bar,0,,7.2,7.2,7.2
+咖啡厅,Cafe Mocha,Cafe Mocha,0,,7.1,7.1,7.1
+咖啡厅,Salt Water Cafe,Salt Water Cafe,0,,7.2,7.2,7.2
+咖啡厅,Pondicherry Cafe,Pondicherry Cafe,0,,7.2,7.2,7.2
+咖啡厅,Mahesh Lunch Home,Mahesh Lunch Home,0,,7.2,7.2,7.2
+咖啡厅,Starbucks Coffee,Starbucks Coffee,0,,7.2,7.2,7.2
+咖啡厅,Home Town Cafe,Home Town Cafe,0,,7.1,7.1,7.1
+咖啡厅,Gloria Jeans Coffee,Gloria Jeans Coffee,0,,7.1,6.8,7.1
+咖啡厅,Cafe Moshe's,Cafe Moshe's,0,,7.1,6.9,7.0
+咖啡厅,Cafe Chokolade,Cafe Chokolade,0,,6.9,6.9,6.9
+咖啡厅,Cafe Coffee day,Cafe Coffee day,0,,6.9,6.7,7.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.9,6.9,6.9
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.9,6.9,6.9
+咖啡厅,Polpo Cafe,Polpo Cafe,0,,6.9,6.9,7.0
+咖啡厅,Jai Hind Lunch Home,Jai Hind Lunch Home,0,,7.5,7.1,7.1
+咖啡厅,Costa Coffee,Costa Coffee,0,,7.0,7.0,7.0
+咖啡厅,Cafe Moshe's,Cafe Moshe's,0,,6.9,7.0,7.0
+咖啡厅,Green Onion Resturant,Green Onion Resturant,0,,7.1,7.0,7.0
+咖啡厅,Cooling Tower Cafe,Cooling Tower Cafe,0,,6.9,6.9,6.9
+咖啡厅,Modern Cafe,Modern Cafe,0,,7.0,7.0,7.0
+咖啡厅,Costa Coffee,Costa Coffee,0,,6.9,6.9,6.9
+咖啡厅,Cafe Royal,Cafe Royal,0,,7.2,7.2,7.2
+咖啡厅,Cafe Noorani,Cafe Noorani,0,,7.2,7.2,6.8
+咖啡厅,Cafe Mysore,Cafe Mysore,0,,7.2,7.2,7.2
+咖啡厅,Cafe B9,Cafe B9,0,,7.2,7.2,7.2
+咖啡厅,Cafe Mondegar,Cafe Mondegar,0,,7.2,7.2,7.2
+咖啡厅,Hard Rock Cafe,Hard Rock Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.9,6.9,6.9
+咖啡厅,Hard Rock Cafe,Hard Rock Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Moshe’s,Cafe Moshe’s,0,,7.1,7.0,7.0
+咖啡厅,The Teapot Cafe,The Teapot Cafe,0,,7.0,7.0,7.1
+咖啡厅,Salt Water Cafe,Salt Water Cafe,0,,7.1,7.1,7.1
+咖啡厅,Mani's Lunch Home,Mani's Lunch Home,0,,7.1,7.1,7.0
+咖啡厅,Jai Hind Lunch Home,Jai Hind Lunch Home,0,,7.1,7.0,7.0
+咖啡厅,Pratap Lunch Home,Pratap Lunch Home,0,,7.1,7.1,7.1
+咖啡厅,Sundance Cafe,Sundance Cafe,0,,7.1,7.1,7.1
+咖啡厅,Ayyappa Dosa Corner,Ayyappa Dosa Corner,0,,6.9,6.9,6.9
+咖啡厅,Costa Coffee,Costa Coffee,0,,6.9,6.9,6.9
+咖啡厅,Madras Cafe,Madras Cafe,0,,7.1,6.9,6.7
+咖啡厅,Cafe Mangii,Cafe Mangii,0,,7.0,7.0,7.0
+咖啡厅,Time and Again,Time and Again,0,,6.9,6.9,6.9
+咖啡厅,Serpis' Wild Side Cafe,Serpis' Wild Side Cafe,0,,7.0,7.0,7.0
+咖啡厅,Sky Cafe Restaurant,Sky Cafe Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Fareed Seekh Kawab Corner,Fareed Seekh Kawab Corner,0,,7.0,7.0,6.7
+咖啡厅,Cafe Excelsior,Cafe Excelsior,0,,7.0,7.0,7.0
+咖啡厅,Green Court,Green Court,0,,7.0,7.0,7.0
+咖啡厅,Vinay Health Home,Vinay Health Home,0,,7.0,7.0,7.0
+咖啡厅,Cafe Millitary,Cafe Millitary,0,,7.0,7.0,7.0
+咖啡厅,Poornima Cafe,Poornima Cafe,0,,7.0,7.0,6.9
+咖啡厅,Oven Fresh,Oven Fresh,0,,7.2,7.2,7.2
+咖啡厅,Cafe Madras,Cafe Madras,0,,7.2,7.2,6.8
+咖啡厅,Home Chef,Home Chef,0,,6.9,6.7,6.9
+咖啡厅,Cafe Mailoo,Cafe Mailoo,0,,7.0,7.0,7.0
+咖啡厅,Manis Lunch Home,Manis Lunch Home,0,,7.1,7.1,7.1
+咖啡厅,Open House Cafe And Bar,Open House Cafe And Bar,0,,7.0,7.0,7.0
+咖啡厅,Cafe Mangii,Cafe Mangii,0,,7.2,7.2,7.2
+咖啡厅,Konkan Cafe,Konkan Cafe,0,,7.2,7.2,7.2
+咖啡厅,Dunkin' Donuts,Dunkin' Donuts,0,,6.9,6.9,6.9
+咖啡厅,Hometown Cafe,Hometown Cafe,0,,7.1,7.1,7.0
+咖啡厅,Cafe Bean Garu,Cafe Bean Garu,0,,7.1,7.1,7.1
+咖啡厅,Costa Coffee,Costa Coffee,0,,7.0,7.0,7.0
+咖啡厅,Modern Lunch Home,Modern Lunch Home,0,,7.0,6.9,6.9
+咖啡厅,Cafe Nizari,Cafe Nizari,0,,6.9,6.9,6.9
+咖啡厅,Jaihind Lunch Home,Jaihind Lunch Home,0,,7.0,7.0,7.0
+咖啡厅,Fresh Catch,Fresh Catch,0,,7.0,7.0,7.0
+咖啡厅,Mocha,Mocha,0,,7.1,7.1,7.1
+咖啡厅,Di Bella Coffee,Di Bella Coffee,0,,7.0,6.9,7.0
+咖啡厅,The Birdsong Organic Cafe,The Birdsong Organic Cafe,0,,7.1,7.0,7.0
+咖啡厅,MOCHA,MOCHA,0,,7.1,7.1,7.1
+咖啡厅,Harish Lunch Home,Harish Lunch Home,0,,7.0,7.0,6.9
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.8,6.8,6.8
+咖啡厅,Cooling Tower Cafe and Bar,Cooling Tower Cafe and Bar,0,,6.9,6.9,6.9
+咖啡厅,cafe fridos,cafe fridos,0,,0.0,0.0,0.0
+面包甜点,Sweet Passions,Sweet Passions,0,,7.1,7.1,7.1
+面包甜点,sk bakery and sk aweets,sk bakery and sk aweets,0,,6.9,6.9,6.9
+面包甜点,Sassanian Bakery,Sassanian Bakery,0,,7.0,7.0,7.0
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,,6.9,6.9,6.9
+面包甜点,Hearsch Bakery,Hearsch Bakery,0,,7.2,7.2,6.8
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,,7.2,7.2,7.2
+酒吧,Shanghai Club,Shanghai Club,0,,7.2,7.2,7.2
+酒吧,Noodle Bar,Noodle Bar,0,,7.2,7.2,7.2
+酒吧,Bayview Bar,Bayview Bar,0,,6.9,6.9,6.9
+酒吧,F Bar,F Bar,0,,7.1,7.1,7.1
+酒吧,Mantra Dining Bar,Mantra Dining Bar,0,,7.1,7.1,7.1
+酒吧,Gokul Bar,Gokul Bar,0,,7.1,7.1,6.8
+酒吧,Saltwater Bar and Restaurant,Saltwater Bar and Restaurant,0,,7.1,7.1,7.1
+酒吧,Arola - Restaurant and Bar,Arola - Restaurant and Bar,0,,7.1,7.1,7.1
+酒吧,Sheesha Sky Lounge,Sheesha Sky Lounge,0,,7.0,7.0,7.0
+酒吧,Apoorva Bar and Restaurant,Apoorva Bar and Restaurant,0,,7.2,7.2,7.2
+酒吧,The Blue Frog Club,The Blue Frog Club,0,,7.2,7.2,7.2
+酒吧,The Eau Bar,The Eau Bar,0,,6.9,6.9,6.9
+酒吧,Barista Lavazza Espresso Bar,Barista Lavazza Espresso Bar,0,,6.9,6.9,6.9
+酒吧,Barista Lavazza Espresso Bar,Barista Lavazza Espresso Bar,0,,6.9,6.9,6.9
+酒吧,Lido Bar,Lido Bar,0,,6.9,6.9,6.9
+酒吧,Harbour Bar,Harbour Bar,0,,7.1,7.0,7.0
+酒吧,Ssltwater bar and restaurant,Ssltwater bar and restaurant,0,,7.0,7.1,7.0
+酒吧,Hotel Yograj Bar and Restaurant,Hotel Yograj Bar and Restaurant,0,,6.9,6.9,6.9
+酒吧,The Acres Club,The Acres Club,0,,6.9,6.9,6.9
+酒吧,F Lounge Diner Bar,F Lounge Diner Bar,0,,7.0,6.9,7.0
+酒吧,Indigo,Indigo,0,,7.2,7.2,7.2
+酒吧,Cha Bar,Cha Bar,0,,7.0,7.0,7.0
+酒吧,Kobe Sizzler And Snack Bar,Kobe Sizzler And Snack Bar,0,,7.1,7.1,6.9
+酒吧,Rasna Punjab Restaurant And Bar,Rasna Punjab Restaurant And Bar,0,,6.9,6.9,6.9
+酒吧,Ruby's Bar and Grill,Ruby's Bar and Grill,0,,7.0,6.9,7.0
+酒吧,Indus cocktail bar and tandoor,Indus cocktail bar and tandoor,0,,7.0,7.0,7.0
+酒吧,Uno Bar,Uno Bar,0,,6.9,6.9,6.9

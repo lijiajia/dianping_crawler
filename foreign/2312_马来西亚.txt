@@ -1,0 +1,2623 @@
+东南亚菜,黄亚华小食店,黄亚华小食店(黄亚华小吃店),81,金三角/武吉免登,8.2,6.8,6.8
+东南亚菜,新记肉骨茶,新记肉骨茶,35,,8.7,7.4,8.3
+东南亚菜,关太,关太,79,双子塔,8.2,8.4,8.2
+东南亚菜,冯业,冯业,26,,8.4,7.8,7.9
+东南亚菜,罗汉果龙眼冰糖燉冬瓜,罗汉果龙眼冰糖燉冬瓜,4,吉隆坡唐人街,8.8,6.9,7.6
+东南亚菜,奶奶家传娘惹菜,奶奶家传娘惹菜,78,吉隆坡唐人街,8.1,8.5,8.4
+东南亚菜,五星海南家乡鸡饭和烧腊,五星海南家乡鸡饭和烧腊,31,亚庇市中心,7.6,7.2,7.3
+东南亚菜,天桥底榴莲水果市场,天桥底榴莲水果市场,35,,8.2,6.8,7.5
+东南亚菜,小槟城美食馆,小槟城美食馆,50,双子塔,7.7,7.7,7.8
+东南亚菜,伍秀泽海南鸡饭,伍秀泽海南鸡饭,16,乔治镇,7.6,6.8,7.3
+东南亚菜,新峰肉骨茶(新峰肉骨茶),新峰肉骨茶(新峰肉骨茶),57,双子塔,7.5,6.6,7.1
+东南亚菜,多春茶座,多春茶座,10,槟城其他,8.4,6.8,6.7
+东南亚菜,古城鸡饭粒,古城鸡饭粒,29,全城,7.6,7.6,7.4
+东南亚菜,怡丰茶室,怡丰茶室,19,,8.8,7.5,8.0
+东南亚菜,味雅鸡饭茶餐室,味雅鸡饭茶餐室,21,,7.9,7.0,7.6
+东南亚菜,鼎泰丰,鼎泰丰,51,金三角/武吉免登,8.2,8.2,8.3
+东南亚菜,槟榔律驰名潮州煎蕊红豆霜,槟榔律驰名潮州煎蕊红豆霜,15,槟城其他,7.5,7.3,7.5
+东南亚菜,红园夜市,红园夜市,0,槟城其他,8.3,7.6,8.3
+东南亚菜,大德古早味肉骨茶,大德古早味肉骨茶,0,,8.8,8.3,9.0
+东南亚菜,佳必多沙爹,佳必多沙爹,35,全城,7.5,7.1,7.4
+东南亚菜,愉园茶室,愉园茶室,0,乔治镇,7.8,6.7,7.1
+东南亚菜,唐人街胜记,唐人街胜记,27,中央火车站周边,7.0,6.7,6.6
+东南亚菜,沙巴餐厅 Sabah Restoran,沙巴餐厅 Sabah Restoran,0,沙巴其他,7.5,8.4,8.4
+东南亚菜,新月宫茶室,新月宫茶室,0,乔治镇,7.3,6.7,6.8
+东南亚菜,文昌海南鸡饭,文昌海南鸡饭,0,乔治镇,7.4,6.6,7.6
+东南亚菜,王美记,王美记,0,吉隆坡市南,8.3,7.0,7.1
+东南亚菜,食之秘,食之秘,34,,8.0,7.3,7.6
+东南亚菜,佑记肉骨茶,佑记肉骨茶,0,,7.6,7.1,7.2
+东南亚菜,金记肉骨茶(金明茶室),金记肉骨茶(金明茶室),0,,8.1,7.6,8.0
+东南亚菜,旺角茶餐厅,旺角茶餐厅,21,,7.0,6.9,6.8
+东南亚菜,食之秘,食之秘,30,双子塔,8.1,8.1,8.2
+东南亚菜,大宝小食,大宝小食,17,其他城市,7.3,7.3,7.2
+东南亚菜,兴发茶室,兴发茶室,0,,7.9,7.1,7.2
+东南亚菜,PENANG ROAD FAMOUS TEOCHEW CHENDUL,PENANG ROAD FAMOUS TEOCHEW CHENDUL,0,乔治镇,7.7,6.2,6.8
+东南亚菜,古城晶露,古城晶露,0,其他城市,7.7,7.0,6.9
+东南亚菜,亚依淡巴刹叻沙,亚依淡巴刹叻沙,0,Air Itam,7.3,5.9,6.4
+东南亚菜,南希的厨房,南希的厨房,43,全城,7.9,7.4,7.7
+东南亚菜,Taste of Asia,Taste of Asia,0,雪邦/吉隆坡国际机场,6.4,6.1,6.5
+东南亚菜,新记肉骨茶,新记肉骨茶,0,,8.2,7.1,7.3
+东南亚菜,小娘惹餐厅,小娘惹餐厅,0,其他城市,7.3,7.0,7.1
+东南亚菜,明记烧鱼美味店,明记烧鱼美味店,0,吉隆坡近郊,7.6,7.1,7.5
+东南亚菜,格成茶室,格成茶室,0,乔治镇,7.6,7.3,7.5
+东南亚菜,大口仔肉骨茶 鱼头,大口仔肉骨茶 鱼头,0,小印度及其周边,7.5,7.1,8.3
+东南亚菜,Miss Kwan‘s,Miss Kwan‘s,60,双子塔,6.9,7.0,7.0
+东南亚菜,阿顺肉骨茶,阿顺肉骨茶,0,,8.0,6.7,7.4
+东南亚菜,番茄Nasi Kandar印度料理,番茄Nasi Kandar印度料理,0,瓜镇,6.8,6.3,6.5
+东南亚菜,巴生毛山稿肉骨茶,巴生毛山稿肉骨茶,0,金三角/武吉免登,7.3,7.2,7.5
+东南亚菜,国民鱼滑面,国民鱼滑面,0,,7.7,7.3,7.6
+东南亚菜,肉骨茶王,肉骨茶王,0,,8.0,7.8,8.0
+东南亚菜,娘惹菜餐厅,娘惹菜餐厅,0,吉隆坡唐人街,7.5,7.5,7.5
+东南亚菜,福建虾面,福建虾面,0,槟城其他,7.9,7.9,8.0
+东南亚菜,快乐餐厅(粥),快乐餐厅(粥),0,,8.2,8.1,8.1
+东南亚菜,88肉骨茶,88肉骨茶,0,,7.1,7.1,7.8
+东南亚菜,老Malaya咖啡馆,老Malaya咖啡馆,0,,7.2,6.9,6.9
+东南亚菜,娘惹情,娘惹情,0,,7.7,7.9,7.7
+东南亚菜,金记家乡生煲肉骨茶,金记家乡生煲肉骨茶,0,吉隆坡近郊,7.4,6.8,6.9
+东南亚菜,椰林中华料理,椰林中华料理,0,其他城市,7.0,6.7,6.7
+东南亚菜,西湖餐馆,西湖餐馆,0,小印度及其周边,6.8,6.7,6.7
+东南亚菜,好友记,好友记,0,,6.1,6.5,6.1
+东南亚菜,金兴利茶室,金兴利茶室,0,,7.4,6.7,7.2
+东南亚菜,天旺海鲜楼,天旺海鲜楼,0,沙巴,7.4,7.3,7.3
+东南亚菜,旧街场咖啡,旧街场咖啡,0,中央火车站周边,0.0,0.0,0.0
+东南亚菜,义钦豆腐花,义钦豆腐花,0,吉隆坡近郊,7.2,6.6,7.2
+东南亚菜,棠记兄弟饼店,棠记兄弟饼店,0,吉隆坡近郊,7.0,6.9,6.8
+东南亚菜,麦哥娘惹餐馆,麦哥娘惹餐馆,0,全城,8.2,7.3,7.4
+东南亚菜,小娘惹餐厅,小娘惹餐厅,0,格尼车道,8.0,8.0,8.0
+东南亚菜,马六甲旺旺烧腊,马六甲旺旺烧腊,0,全城,7.3,7.3,7.3
+东南亚菜,香榭东南亚风味料理,香榭东南亚风味料理,0,瓜镇,7.7,7.7,7.7
+东南亚菜,汕头养生糖水店,汕头养生糖水店,0,,7.3,6.5,6.7
+东南亚菜,Aruba Bar at First Beach,Aruba Bar at First Beach,0,,0.0,0.0,0.0
+东南亚菜,Nancy's Kitchen,Nancy's Kitchen,0,其他城市,7.3,6.9,6.9
+东南亚菜,Restoran Sup Hameed,Restoran Sup Hameed,0,槟城其他,8.0,6.3,7.5
+东南亚菜,新烽肉骨茶,新烽肉骨茶,0,,7.7,7.7,7.7
+东南亚菜,新顺香肉骨茶,新顺香肉骨茶,0,太子世界贸易中心,7.5,5.9,7.2
+东南亚菜,handicraft market,handicraft market,0,,6.3,6.1,6.2
+东南亚菜,Tek Sen,Tek Sen,0,槟城其他,8.1,6.7,6.7
+东南亚菜,品品鸡饭,品品鸡饭,0,,6.0,5.9,6.0
+东南亚菜,铭记肉骨茶,铭记肉骨茶,0,吉隆坡近郊,8.4,7.1,7.3
+东南亚菜,鑫记,鑫记,0,金三角/武吉免登,6.8,6.8,6.8
+东南亚菜,Tigris Cafe,Tigris Cafe,0,,6.8,6.7,6.8
+东南亚菜,Jalan Alor Malaysian Street Food Kitchen,Jalan Alor Malaysian Street Food Kitchen,0,雪邦/吉隆坡国际机场,0.0,0.0,0.0
+东南亚菜,品品香餐室,品品香餐室,0,,6.8,6.7,6.7
+东南亚菜,阿喜肉骨茶,阿喜肉骨茶,0,,7.7,7.7,7.7
+东南亚菜,天天来正宗苦瓜汤,天天来正宗苦瓜汤,0,,7.4,6.7,6.7
+东南亚菜,Penang Road Famous Teochew Cendol,Penang Road Famous Teochew Cendol,0,槟城其他,7.5,6.5,7.0
+东南亚菜,安娜的厨房,安娜的厨房,0,,7.0,7.1,7.0
+东南亚菜,友谊肉骨茶,友谊肉骨茶,0,,7.3,6.7,7.2
+东南亚菜,大利茶餐厅,大利茶餐厅,0,,6.8,6.7,6.8
+东南亚菜,瓊南豐茶室,瓊南豐茶室,0,,8.2,7.4,8.2
+东南亚菜,Aliah Seafood ResTaurAnt,Aliah Seafood ResTaurAnt,0,,8.1,6.6,7.4
+东南亚菜,Soo Kee Restaurant,Soo Kee Restaurant,0,吉隆坡近郊,6.8,6.6,6.7
+东南亚菜,旧街场白咖啡,旧街场白咖啡,0,其他城市,7.1,7.0,7.1
+东南亚菜,唐城美食中心,唐城美食中心,0,吉隆坡近郊,6.8,6.7,6.8
+东南亚菜,麻芝婆婆的摊位,麻芝婆婆的摊位,0,,6.8,6.7,7.0
+东南亚菜,NZ curry house,NZ curry house,0,Kampung Si Rusa,6.1,6.1,6.1
+东南亚菜,Breakfast Station,Breakfast Station,0,,6.7,6.8,6.8
+东南亚菜,Spice Island,Spice Island,0,,0.0,0.0,0.0
+东南亚菜,Sakae Japanese Restaurant,Sakae Japanese Restaurant,0,巴彦勒帕,6.3,5.8,5.8
+东南亚菜,Shuangtian Seafood,Shuangtian Seafood,0,,0.0,0.0,0.0
+东南亚菜,Home Town Steamboat Restaurant - Setapak HQ,Home Town Steamboat Restaurant - Setapak HQ,0,吉隆坡市北,8.4,8.4,8.4
+东南亚菜,泰华宫,泰华宫,0,其他城市,7.0,7.1,7.0
+东南亚菜,兰卡威集市周日餐厅,兰卡威集市周日餐厅,0,,6.9,6.9,6.9
+东南亚菜,安记芽菜鸡沙河粉Onn Kee Taugeh,安记芽菜鸡沙河粉Onn Kee Taugeh,0,怡保,8.2,8.2,8.2
+东南亚菜,Restaurant Win Heng Seng,Restaurant Win Heng Seng,0,金三角/武吉免登,7.5,6.7,6.6
+东南亚菜,Absolute Thai,Absolute Thai,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,大肥咖喱面,大肥咖喱面,0,乔治镇,6.7,6.7,6.9
+东南亚菜,KIm Lian Kee Restaurant,KIm Lian Kee Restaurant,0,吉隆坡唐人街,6.2,6.7,7.2
+东南亚菜,Tambayan at Kainang Filipino Beverly Hills Branch,Tambayan at Kainang Filipino Beverly Hills Branch,0,,0.0,0.0,0.0
+东南亚菜,Ecco cafe,Ecco cafe,0,槟城其他,6.9,6.9,6.9
+东南亚菜,小二肉骨茶,小二肉骨茶,0,,7.1,7.1,7.1
+东南亚菜,汕头街炒粿条@kimberly,汕头街炒粿条@kimberly,0,,7.1,6.9,7.1
+东南亚菜,娘惹菜餐馆,娘惹菜餐馆,0,乔治镇,6.7,6.9,6.9
+东南亚菜,"Chakri Palace, KLCC","Chakri Palace, KLCC",0,双子塔,0.0,0.0,0.0
+东南亚菜,Tee Soon Loong Chan Teo Chew Seafood Restaurant,Tee Soon Loong Chan Teo Chew Seafood Restaurant,0,全城,7.5,7.5,7.2
+东南亚菜,宝香绑线肉骨茶,宝香绑线肉骨茶,0,,7.0,6.7,6.7
+东南亚菜,HJ Ramli,HJ Ramli,0,兰卡威其他,6.9,6.7,7.0
+东南亚菜,Nasi Kandar Line Clear,Nasi Kandar Line Clear,0,槟城其他,7.3,6.8,6.8
+东南亚菜,泰妈妈泰国家乡菜中华料理,泰妈妈泰国家乡菜中华料理,0,,6.9,6.9,6.9
+东南亚菜,Holiday Villa,Holiday Villa,0,庞太切南,6.9,6.7,6.9
+东南亚菜,Ichi Zen Japanese Restaurant,Ichi Zen Japanese Restaurant,0,金三角/武吉免登,7.5,7.5,7.5
+东南亚菜,永茂茶室,永茂茶室,0,,7.4,6.7,7.4
+东南亚菜,R K Restaurant,R K Restaurant,0,,6.9,6.9,6.9
+东南亚菜,yongtaufoo,yongtaufoo,0,雪邦/吉隆坡国际机场,7.4,7.4,7.4
+东南亚菜,Food Junction,Food Junction,0,吉隆坡唐人街,6.9,6.9,6.9
+东南亚菜,Kapitan,Kapitan,0,槟城其他,7.4,6.7,6.7
+东南亚菜,Kak Nong Restaurant,Kak Nong Restaurant,0,,0.0,0.0,0.0
+东南亚菜,亚三叻沙,亚三叻沙,0,槟城其他,7.1,7.1,7.1
+东南亚菜,西刀林鱼丸粿条汤专卖店,西刀林鱼丸粿条汤专卖店,0,槟城其他,7.1,7.1,7.1
+东南亚菜,Topspot Food Court,Topspot Food Court,0,,7.1,6.9,7.0
+东南亚菜,驰名海南鸡饭,驰名海南鸡饭,0,吉隆坡近郊,7.1,6.9,6.7
+东南亚菜,娘惹菜餐馆,娘惹菜餐馆,0,,7.1,7.0,7.1
+东南亚菜,明记烧腊,明记烧腊,0,吉隆坡市南,7.1,6.7,6.9
+东南亚菜,DuViet,DuViet,0,双子塔,6.9,6.9,6.7
+东南亚菜,Pappa Rich,Pappa Rich,0,吉隆坡近郊,6.9,7.0,7.0
+东南亚菜,Restoran Kampung Siam Langkawi,Restoran Kampung Siam Langkawi,0,庞太切南,6.9,6.7,6.7
+东南亚菜,福建虾面,福建虾面,0,,6.9,6.9,6.9
+东南亚菜,仙人掌视觉餐厅,仙人掌视觉餐厅,0,其他城市,6.9,6.9,6.9
+东南亚菜,De Ocean Restaurant,De Ocean Restaurant,0,全城,8.4,8.4,8.4
+东南亚菜,亚洲风味餐馆,亚洲风味餐馆,0,吉隆坡市南,6.5,6.9,6.8
+东南亚菜,潮洲粥家,潮洲粥家,0,吉隆坡市南,7.5,6.8,7.2
+东南亚菜,Batu Lanchang Market Food Court,Batu Lanchang Market Food Court,0,槟城其他,8.4,6.7,6.7
+东南亚菜,Nyonya Breeze,Nyonya Breeze,0,,7.5,7.5,7.5
+东南亚菜,强记肉骨茶,强记肉骨茶,0,,7.4,6.8,7.1
+东南亚菜,Golden Thai Restaurant,Golden Thai Restaurant,0,槟城其他,7.4,7.4,7.4
+东南亚菜,新翠园酒家,新翠园酒家,0,,6.7,6.7,7.4
+东南亚菜,万里香沙爹朱律茶餐室,万里香沙爹朱律茶餐室,0,马六甲,7.3,6.8,7.3
+东南亚菜,ALESSIO EXPRESS,ALESSIO EXPRESS,0,雪邦/吉隆坡国际机场,7.2,7.2,7.2
+东南亚菜,Gen Japanese Restaurant,Gen Japanese Restaurant,0,吉隆坡近郊,7.2,7.3,7.2
+东南亚菜,Ewan's Cafe/ResTaurAnt,Ewan's Cafe/ResTaurAnt,0,,7.1,7.1,7.1
+东南亚菜,满布海鲜饭店,满布海鲜饭店,0,仙本那,7.1,6.6,6.8
+东南亚菜,仕九粿条汤(西刀鱼丸),仕九粿条汤(西刀鱼丸),0,槟城其他,7.1,7.1,7.1
+东南亚菜,大树下清和海鲜粥,大树下清和海鲜粥,0,槟城其他,7.0,6.9,6.9
+东南亚菜,文华楼,文华楼,0,柔佛新山,7.0,7.0,7.0
+东南亚菜,点火心窝,点火心窝,0,其他城市,7.1,7.1,7.1
+东南亚菜,Seeri Authentic Thai Restaurant,Seeri Authentic Thai Restaurant,0,,7.0,7.0,6.9
+东南亚菜,TaiTong Seafood,TaiTong Seafood,0,槟城其他,8.4,8.4,8.4
+东南亚菜,大记河鱼饭店,大记河鱼饭店,0,吉隆坡市南,6.9,6.7,6.7
+东南亚菜,Madam Kwan's 关姐厨房,Madam Kwan's 关姐厨房,0,其他城市,7.1,7.0,7.0
+东南亚菜,古晋,古晋,0,沙巴其他,7.0,6.7,6.7
+东南亚菜,老港,老港,0,,6.9,6.9,6.9
+东南亚菜,客苑传统客家私房菜,客苑传统客家私房菜,0,,6.9,6.9,6.9
+东南亚菜,格成茶室,格成茶室,0,,7.1,6.9,6.9
+东南亚菜,布布长滩酒店,布布长滩酒店,0,其他城市,6.9,6.9,6.9
+东南亚菜,旧街场白咖啡,旧街场白咖啡,0,,0.0,0.0,0.0
+东南亚菜,新旺记海鲜专门店,新旺记海鲜专门店,0,吉隆坡近郊,6.7,6.7,6.7
+东南亚菜,ResToran Anak Nyonya,ResToran Anak Nyonya,0,,6.8,6.8,6.8
+东南亚菜,品芊肉骨茶,品芊肉骨茶,0,,6.8,6.8,6.8
+东南亚菜,新万泰,新万泰,0,亚庇市中心,6.8,6.4,6.4
+东南亚菜,YUZU Japanese Restaurant,YUZU Japanese Restaurant,0,双子塔,6.4,6.9,6.9
+东南亚菜,Kopitan Classic White Coffee,Kopitan Classic White Coffee,0,槟城其他,6.7,8.1,7.4
+东南亚菜,天香肉干,天香肉干(二分店),0,双子塔,6.7,6.9,7.0
+东南亚菜,老爷爷炒粿条摊,老爷爷炒粿条摊,0,其他城市,6.9,6.9,6.9
+东南亚菜,马来西亚美食街,马来西亚美食街,0,,6.9,6.7,6.7
+东南亚菜,肥仔风味海鲜村,肥仔风味海鲜村,0,,6.7,6.7,6.7
+东南亚菜,Asian Restaurant,Asian Restaurant,0,,6.6,7.1,7.1
+东南亚菜,Cristao Cafe & Grill,Cristao Cafe & Grill,0,,0.0,0.0,0.0
+东南亚菜,1885,1885,0,槟城其他,0.0,0.0,0.0
+东南亚菜,食德喜妈妈家常菜,食德喜妈妈家常菜,0,蒲种,7.5,7.5,7.5
+东南亚菜,Benson 海鲜,Benson 海鲜,0,古晋,7.5,6.8,7.2
+东南亚菜,ResTaurAnt Park Village,ResTaurAnt Park Village,0,,7.1,7.1,7.1
+东南亚菜,丽光粿条汤,丽光粿条汤,0,,7.1,6.9,7.0
+东南亚菜,南洋轩,南洋轩,0,吉隆坡近郊,6.9,6.9,6.9
+东南亚菜,Perahu resTaurAnt,Perahu resTaurAnt,0,其他城市,7.0,7.1,7.1
+东南亚菜,resToran Nyonya Nancy‘s Kitchen,resToran Nyonya Nancy‘s Kitchen,0,琼克大街,7.0,6.9,6.9
+东南亚菜,Natural Kitchen,Natural Kitchen,0,,7.0,6.9,7.0
+东南亚菜,Uncle Chong,Uncle Chong,0,,7.0,7.0,7.0
+东南亚菜,Kapitan印度风味餐馆,Kapitan印度风味餐馆,0,其他城市,7.0,6.9,6.7
+东南亚菜,美食村,美食村,0,其他城市,7.0,7.0,7.0
+东南亚菜,亲切餐厅,亲切餐厅,0,其他城市,7.0,7.0,7.0
+东南亚菜,Amarin Heavenly Thai,Amarin Heavenly Thai,0,吉隆坡唐人街,0.0,0.0,0.0
+东南亚菜,太平马登瓦煲海鲜粥,太平马登瓦煲海鲜粥,0,,6.7,6.7,6.7
+东南亚菜,Ohan Japanese Restaurant,Ohan Japanese Restaurant,0,全城,7.5,8.4,8.3
+东南亚菜,家乡鸡饭,家乡鸡饭,0,,6.8,6.3,6.8
+东南亚菜,大老二港式口味,大老二港式口味,0,亚庇市中心,6.4,6.4,6.4
+东南亚菜,super faczah cafeteria,super faczah cafeteria,0,亚庇市中心,6.4,6.4,6.4
+东南亚菜,Songket Restaurant,Songket Restaurant,0,双子塔,0.0,0.0,0.0
+东南亚菜,Cu Cha Restaurant,Cu Cha Restaurant,0,金三角/武吉免登,6.1,6.4,6.9
+东南亚菜,Tgs Nasi Kandar,Tgs Nasi Kandar,0,金三角/武吉免登,0.0,0.0,0.0
+东南亚菜,Kim Gary Restaurant,Kim Gary Restaurant,0,金三角/武吉免登,6.1,6.1,5.2
+东南亚菜,Tho Yuen Restaurant,Tho Yuen Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,New Lane Hawker Centre,New Lane Hawker Centre,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Sri Weld Food Court,Sri Weld Food Court,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Wishbone Art Cafe,Wishbone Art Cafe,0,,0.0,0.0,0.0
+东南亚菜,Sarkies Corner,Sarkies Corner,0,槟城其他,0.0,0.0,0.0
+东南亚菜,The Bungalow,The Bungalow,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Portuguezze Kitchen,Portuguezze Kitchen,0,吉隆坡近郊,0.0,0.0,0.0
+东南亚菜,Tan Sam Guan Seafood,Tan Sam Guan Seafood,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Muar Restaurant,Muar Restaurant,0,金三角/武吉免登,0.0,0.0,0.0
+东南亚菜,Sugar Bun Cafe,Sugar Bun Cafe,0,,0.0,0.0,0.0
+东南亚菜,Tamarind Brasserie,Tamarind Brasserie,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Nancy's Kitchen Restaurant,Nancy's Kitchen Restaurant,0,全城,7.2,7.2,6.8
+东南亚菜,Woodlands Vegetarian Restaurant,Woodlands Vegetarian Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,B@92 Eat &Drink,B@92 Eat &Drink,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Shangri-La Rasa Sayang,Shangri-La Rasa Sayang,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Johnny's Restaurant,Johnny's Restaurant,0,全城,7.1,7.1,7.1
+东南亚菜,Lorong Selamat Food Stalls,Lorong Selamat Food Stalls,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Long Beach,Long Beach,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Guan Guan Cafe,Guan Guan Cafe,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Borneo 1945 Museum Kopitiam,Borneo 1945 Museum Kopitiam,0,,0.0,0.0,0.0
+东南亚菜,Enca,Enca,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Little Penang Kafe,Little Penang Kafe,0,吉隆坡唐人街,0.0,0.0,0.0
+东南亚菜,Jassal Tandoori restaurant,Jassal Tandoori restaurant,0,中央火车站周边,7.1,7.1,7.1
+东南亚菜,Olio Italian Restaurant,Olio Italian Restaurant,0,全城,7.1,7.1,7.1
+东南亚菜,南洋茶馆,南洋茶馆,0,,0.0,0.0,0.0
+东南亚菜,万香饼家,万香饼家,0,乔治镇,0.0,0.0,0.0
+东南亚菜,Toh Soon Cafe,Toh Soon Cafe,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Mojo Restaurant & Bar KL,Mojo Restaurant & Bar KL,0,小印度及其周边,0.0,0.0,0.0
+东南亚菜,Nyonya Breeze,Nyonya Breeze,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Monaliza bar-restaurant,Monaliza bar-restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Keong Kee Restaurant,Keong Kee Restaurant,0,双子塔,0.0,0.0,0.0
+东南亚菜,岩石咖啡屋,岩石咖啡屋,0,,0.0,0.0,0.0
+东南亚菜,CF Hawker Centre,CF Hawker Centre,0,丹戎Bungah,0.0,0.0,0.0
+东南亚菜,Limablas,Limablas,0,金三角/武吉免登,0.0,0.0,0.0
+东南亚菜,Leisure Boat Cafe,Leisure Boat Cafe,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Kirishima,Kirishima,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Sirocco Restaurant,Sirocco Restaurant,0,全城,7.1,7.1,7.1
+东南亚菜,Persia Restaurant,Persia Restaurant,0,双子塔,7.1,7.1,7.1
+东南亚菜,Cottage Spices A Taste of Melaka,Cottage Spices A Taste of Melaka,0,全城,7.1,7.1,7.1
+东南亚菜,Lotus Restaurant in Chow Kit,Lotus Restaurant in Chow Kit,0,小印度及其周边,7.1,7.1,7.1
+东南亚菜,Lim Tian Puan Restaurant,Lim Tian Puan Restaurant,0,全城,7.0,7.0,7.0
+东南亚菜,Restaurant Sin Yin Hoe,Restaurant Sin Yin Hoe,0,全城,6.9,6.9,7.0
+东南亚菜,PappaRich,PappaRich,0,双子塔,6.9,6.9,6.9
+东南亚菜,Famosa Chicken Rice Ball Restaurant,Famosa Chicken Rice Ball Restaurant,0,全城,6.8,6.8,6.8
+东南亚菜,Mango Chili Restaurant,Mango Chili Restaurant,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Tasty Chapathi Restaurant,Tasty Chapathi Restaurant,0,吉隆坡市北,0.0,0.0,0.0
+东南亚菜,Mai Yai Thai Royal Orchid Restaurant,Mai Yai Thai Royal Orchid Restaurant,0,亚庇市中心,0.0,0.0,0.0
+东南亚菜,DeHappy Restaurant,DeHappy Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Mews Cafe,Mews Cafe,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Hua Hing Seafood Restaurant,Hua Hing Seafood Restaurant,0,,0.0,0.0,0.0
+东南亚菜,Magic 1,Magic 1,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Yeap Noodles,Yeap Noodles,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Seri Nyonya Restaurant,Seri Nyonya Restaurant,0,全城,7.2,7.2,7.2
+东南亚菜,Mai Yai Thai Orchid,Mai Yai Thai Orchid,0,,0.0,0.0,0.0
+东南亚菜,Mizi Bistro,Mizi Bistro,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Big Apple Restaurant,Big Apple Restaurant,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,La Veranda Coffee House,La Veranda Coffee House,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Madam Kwan's,Madam Kwan's,0,吉隆坡唐人街,0.0,0.0,0.0
+东南亚菜,Aesha Corner,Aesha Corner,0,,0.0,0.0,0.0
+东南亚菜,Lanna Amazing Thai Cuisine,Lanna Amazing Thai Cuisine,0,中央火车站周边,0.0,0.0,0.0
+东南亚菜,Kah Hiong Ngau Chap,Kah Hiong Ngau Chap,0,,0.0,0.0,0.0
+东南亚菜,Rama V Fine Thai Cuisine,Rama V Fine Thai Cuisine,0,双子塔,0.0,0.0,0.0
+东南亚菜,Wisma BTC Restaurant,Wisma BTC Restaurant,0,,0.0,0.0,0.0
+东南亚菜,"I Love You, Cafe Batu Ferringhi","I Love You, Cafe Batu Ferringhi",0,槟城其他,0.0,0.0,0.0
+东南亚菜,Nasi Kandar Kapitan,Nasi Kandar Kapitan,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Rani Vilas Restaurant Batu Caves,Rani Vilas Restaurant Batu Caves,0,黑风洞,0.0,0.0,0.0
+东南亚菜,Sushi Zanmai - Gurney Paragon Mall,Sushi Zanmai - Gurney Paragon Mall,0,槟城其他,0.0,0.0,0.0
+东南亚菜,GohKaKi,GohKaKi,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Dynasty Restaurant,Dynasty Restaurant,0,双子塔,7.1,7.1,7.1
+东南亚菜,Green Valley Vegetarian Restaurant,Green Valley Vegetarian Restaurant,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Bumbu Bali,Bumbu Bali,0,,7.1,7.1,7.1
+东南亚菜,Sunset Retreat Seafood Restaurant,Sunset Retreat Seafood Restaurant,0,全城,6.9,6.9,6.9
+东南亚菜,Kamimura Japanese Restaurant,Kamimura Japanese Restaurant,0,双子塔,6.9,6.9,6.9
+东南亚菜,Rong Mao Restaurant,Rong Mao Restaurant,0,全城,7.1,7.1,7.1
+东南亚菜,Carousel Restaurant,Carousel Restaurant,0,,6.9,6.9,6.9
+东南亚菜,Colonial Restaurant Intermark,Colonial Restaurant Intermark,0,双子塔,6.9,6.9,6.9
+东南亚菜,Kim Lee Fish Restaurant,Kim Lee Fish Restaurant,0,金三角/武吉免登,6.9,6.9,6.9
+东南亚菜,Nasi Hadramot Restaurant,Nasi Hadramot Restaurant,0,金三角/武吉免登,7.0,6.9,6.9
+东南亚菜,Old Village Satay Celup Restaurant,Old Village Satay Celup Restaurant,0,全城,6.9,6.9,6.9
+东南亚菜,Ming Palace Chinese Restaurant,Ming Palace Chinese Restaurant,0,双子塔,7.0,7.0,7.0
+东南亚菜,Super Pot Seafood Restaurant,Super Pot Seafood Restaurant,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Maiu Japanese Restaurant,Maiu Japanese Restaurant,0,吉隆坡市南,7.0,6.9,7.0
+东南亚菜,Tagine Restaurant,Tagine Restaurant,0,金三角/武吉免登,6.9,6.9,6.7
+东南亚菜,D'Lisbon Restaurant,D'Lisbon Restaurant,0,全城,7.0,6.9,6.9
+东南亚菜,Si Chuan Dou Hau Restaurant,Si Chuan Dou Hau Restaurant,0,双子塔,6.9,6.9,6.9
+东南亚菜,Paradise restaurant kuala lumpar,Paradise restaurant kuala lumpar,0,金三角/武吉免登,7.1,7.0,7.0
+东南亚菜,Mitasu Restaurant,Mitasu Restaurant,0,双子塔,7.0,7.0,7.0
+东南亚菜,Nubacha Artisan Steakhouse Restaurant,Nubacha Artisan Steakhouse Restaurant,0,全城,7.0,7.0,7.0
+东南亚菜,Monte's Restaurant Sdn Bhd,Monte's Restaurant Sdn Bhd,0,中央火车站周边,7.1,7.1,7.1
+东南亚菜,Daorae Korean BBQ Restaurant,Daorae Korean BBQ Restaurant,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Kiku Sakura Restaurant,Kiku Sakura Restaurant,0,吉隆坡唐人街,7.1,7.1,7.1
+东南亚菜,Tengkera Duck Noodle Restaurant,Tengkera Duck Noodle Restaurant,0,全城,7.1,7.1,6.9
+东南亚菜,Banana Leaf Restaurant,Banana Leaf Restaurant,0,全城,7.3,7.1,7.1
+东南亚菜,The Place,The Place,0,,0.0,0.0,0.0
+东南亚菜,Supertanker hawker food (Fried oyster is a must!),Supertanker hawker food (Fried oyster is a must!),0,巴彦勒帕,0.0,0.0,0.0
+东南亚菜,Chicago Rib House,Chicago Rib House,0,格尼车道,0.0,0.0,0.0
+东南亚菜,Pang Hainan Seafood,Pang Hainan Seafood,0,丹戎Bungah,0.0,0.0,0.0
+东南亚菜,Gurney Drive,Gurney Drive,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Padang Brown Food Court,Padang Brown Food Court,0,槟城其他,0.0,0.0,0.0
+东南亚菜,China House Restaurant,China House Restaurant,0,丹戎Bungah,0.0,0.0,0.0
+东南亚菜,Maple Palace Restaurant,Maple Palace Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,House of Udang Galah,House of Udang Galah,0,槟城其他,0.0,0.0,0.0
+东南亚菜,The Moon Bar,The Moon Bar,0,吉隆坡市北,0.0,0.0,0.0
+东南亚菜,Village Park Restaurant,Village Park Restaurant,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Purple Cane,Purple Cane,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Al Salam Restaurant KL,Al Salam Restaurant KL,0,吉隆坡市北,7.1,7.0,7.0
+东南亚菜,Mr Ho's Fine Foods,Mr Ho's Fine Foods,0,,0.0,0.0,0.0
+东南亚菜,Restaurant MImpi Muor,Restaurant MImpi Muor,0,,0.0,0.0,0.0
+东南亚菜,Restoran Nagasari Curry House,Restoran Nagasari Curry House,0,金三角/武吉免登,0.0,0.0,0.0
+东南亚菜,Sao Nam,Sao Nam,0,金三角/武吉免登,0.0,0.0,0.0
+东南亚菜,Kompleks Gerai Makanan Batu Lancang,Kompleks Gerai Makanan Batu Lancang,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Circle Restaurant Le Meridien Kota Kinabalu,Circle Restaurant Le Meridien Kota Kinabalu,0,,0.0,0.0,0.0
+东南亚菜,THIRTY8,THIRTY8,0,,0.0,0.0,0.0
+东南亚菜,D'Dapor,D'Dapor,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Isaki Japanese Restaurant,Isaki Japanese Restaurant,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Tamarind Hill,Tamarind Hill,0,双子塔,0.0,0.0,0.0
+东南亚菜,Essence Restaurant,Essence Restaurant,0,小印度及其周边,0.0,0.0,0.0
+东南亚菜,"English Tea House & Restaurant, Kota Kinabalu","English Tea House & Restaurant, Kota Kinabalu",0,,0.0,0.0,0.0
+东南亚菜,The Ship Batu Ferringi,The Ship Batu Ferringi,0,槟城其他,0.0,0.0,0.0
+东南亚菜,D'Chowkit Restaurant,D'Chowkit Restaurant,0,太子世界贸易中心,0.0,0.0,0.0
+东南亚菜,Suriana Restaurant,Suriana Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Bei Zhan Restaurant,Bei Zhan Restaurant,0,全城,7.2,7.2,7.2
+东南亚菜,Yas Restaurant,Yas Restaurant,0,,0.0,0.0,0.0
+东南亚菜,Ben's at Pavilion KL,Ben's at Pavilion KL,0,吉隆坡近郊,0.0,0.0,0.0
+东南亚菜,Simply Delicious,Simply Delicious,0,槟城其他,0.0,0.0,0.0
+东南亚菜,JP Teres,JP Teres,0,,0.0,0.0,0.0
+东南亚菜,Hornbill restaurant and cafe,Hornbill restaurant and cafe,0,小印度及其周边,0.0,0.0,0.0
+东南亚菜,Restaurant Hau Kee Seafood,Restaurant Hau Kee Seafood,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Kedai Makanan Lidiana,Kedai Makanan Lidiana,0,丹戎Bungah,0.0,0.0,0.0
+东南亚菜,Revolving Restaurant,Revolving Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Restaurant Chongqing Chicken Hot Pot,Restaurant Chongqing Chicken Hot Pot,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Dragon-i restaurant,Dragon-i restaurant,0,小印度及其周边,7.1,7.1,7.1
+东南亚菜,Tian Yian Vegetarian Restaurant,Tian Yian Vegetarian Restaurant,0,吉隆坡市南,7.1,7.0,7.0
+东南亚菜,Prime Restaurant Le Meridien Kuala Lumpur,Prime Restaurant Le Meridien Kuala Lumpur,0,中央火车站周边,7.1,7.1,7.1
+东南亚菜,The Flavors Restaurant,The Flavors Restaurant,0,金三角/武吉免登,6.9,6.9,6.9
+东南亚菜,Restaurant D' Tandoori House,Restaurant D' Tandoori House,0,全城,7.1,7.1,7.1
+东南亚菜,Serai Restaurant,Serai Restaurant,0,双子塔,7.1,7.1,7.1
+东南亚菜,Zest Restaurant,Zest Restaurant,0,,6.9,6.9,6.9
+东南亚菜,Matsuba Japanese Restaurant,Matsuba Japanese Restaurant,0,吉隆坡市北,7.1,7.1,7.0
+东南亚菜,龍門客棧 Dragon Door Inn Steamboat Restaurant,龍門客棧 Dragon Door Inn Steamboat Restaurant,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,lala chong seafood restaurant,lala chong seafood restaurant,0,八打灵再也,7.1,7.1,7.1
+东南亚菜,Restaurant TeoChew Lao Er,Restaurant TeoChew Lao Er,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Instant Restaurant,Instant Restaurant,0,金三角/武吉免登,7.1,7.0,7.0
+东南亚菜,Jawi House Cafe & Gallery,Jawi House Cafe & Gallery,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Purple Cane Tea Restaurant,Purple Cane Tea Restaurant,0,双子塔,6.9,6.9,6.9
+东南亚菜,Samudera Riverfish Restaurant,Samudera Riverfish Restaurant,0,太子世界贸易中心,7.1,7.0,7.0
+东南亚菜,Restaurant Thai Somtam Seafood,Restaurant Thai Somtam Seafood,0,金三角/武吉免登,6.9,6.9,6.9
+东南亚菜,Trishna,Trishna,0,金三角/武吉免登,7.0,7.0,6.9
+东南亚菜,The 39 Restaurant,The 39 Restaurant,0,双子塔,6.9,6.9,6.9
+东南亚菜,Fruit of Lebanon,Fruit of Lebanon,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Restoran Kopitan,Restoran Kopitan,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Thirty Eight Restaurant,Thirty Eight Restaurant,0,小印度及其周边,6.9,6.9,7.0
+东南亚菜,Tanjung Karang Seafood Restaurant,Tanjung Karang Seafood Restaurant,0,双子塔,7.0,7.0,6.9
+东南亚菜,Kedai Makan Fok Kee,Kedai Makan Fok Kee,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Secret Recipe Cakes & Cafe,Secret Recipe Cakes & Cafe,0,,0.0,0.0,0.0
+东南亚菜,New Rahmat Restoran,New Rahmat Restoran,0,,0.0,0.0,0.0
+东南亚菜,Madam Lim's Kitchen Restaurant,Madam Lim's Kitchen Restaurant,0,小印度及其周边,7.0,7.0,7.0
+东南亚菜,Ramen Izakaya Kazushi Restaurant,Ramen Izakaya Kazushi Restaurant,0,吉隆坡市北,7.0,7.0,6.9
+东南亚菜,Sagano Japanese Restaurant,Sagano Japanese Restaurant,0,双子塔,7.0,7.0,7.0
+东南亚菜,Benkay Japanese Restaurant,Benkay Japanese Restaurant,0,双子塔,6.9,6.9,6.9
+东南亚菜,Mom's Kitchen,Mom's Kitchen,0,双子塔,6.9,6.9,6.9
+东南亚菜,Pelita Restaurant,Pelita Restaurant,0,中央火车站周边,0.0,0.0,0.0
+东南亚菜,Restaurant Sri Nyonya,Restaurant Sri Nyonya,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Papparich,Papparich,0,,6.9,6.9,6.9
+东南亚菜,Mooks Thai Seafood restaurant,Mooks Thai Seafood restaurant,0,金三角/武吉免登,7.1,7.0,7.0
+东南亚菜,Curry Powder Restaurant,Curry Powder Restaurant,0,中央火车站周边,6.9,6.9,6.9
+东南亚菜,Restaurant 988,Restaurant 988,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Khuntai Restaurant,Khuntai Restaurant,0,,7.0,7.0,7.0
+东南亚菜,Uncle Cook Roast Restaurant,Uncle Cook Roast Restaurant,0,吉隆坡唐人街,6.9,6.9,6.9
+东南亚菜,Alibaba Kebab Iranian Restaurant,Alibaba Kebab Iranian Restaurant,0,双子塔,6.9,6.9,6.9
+东南亚菜,Amboi Restaurant,Amboi Restaurant,0,全城,7.1,7.0,7.0
+东南亚菜,ZK Restaurant,ZK Restaurant,0,小印度及其周边,6.9,6.9,6.9
+东南亚菜,Takumi Restaurant,Takumi Restaurant,0,金三角/武吉免登,7.0,7.0,7.0
+东南亚菜,Pao Xiang Bah Kut Teh,Pao Xiang Bah Kut Teh,0,金三角/武吉免登,7.1,7.1,7.1
+东南亚菜,hokkaido seafood restaurant,hokkaido seafood restaurant,0,太子世界贸易中心,7.0,7.0,6.9
+东南亚菜,Daorae Korean BBQ Restaurant,Daorae Korean BBQ Restaurant,0,小印度及其周边,6.9,6.9,6.9
+东南亚菜,The Noodle Room,The Noodle Room,0,中央火车站周边,6.9,6.7,7.0
+东南亚菜,Nyonya Makko Restaurant,Nyonya Makko Restaurant,0,全城,7.2,7.2,6.8
+东南亚菜,Toh Yuen,Toh Yuen,0,,7.1,7.1,7.1
+东南亚菜,"Graze Restaurant, Kuala lumpur","Graze Restaurant, Kuala lumpur",0,中央火车站周边,7.1,7.1,7.1
+东南亚菜,Kaveri Restaurant,Kaveri Restaurant,0,中央火车站周边,6.9,7.0,6.9
+东南亚菜,Bubu Restaurant,Bubu Restaurant,0,金三角/武吉免登,7.1,7.1,7.0
+东南亚菜,Kerala Restaurant,Kerala Restaurant,0,全城,6.9,6.9,6.9
+东南亚菜,Veg Fish Farm Thai Restaurant,Veg Fish Farm Thai Restaurant,0,吉隆坡唐人街,7.1,7.1,7.1
+东南亚菜,Restaurant De Maw,Restaurant De Maw,0,吉隆坡市南,7.1,7.0,7.0
+东南亚菜,Bavarian Bierhaus German Restaurant,Bavarian Bierhaus German Restaurant,0,双子塔,7.0,7.0,7.0
+东南亚菜,Daorae Korean Restaurant,Daorae Korean Restaurant,0,黑风洞,7.0,7.0,7.0
+东南亚菜,New Harbour Bay Seafood Restaurant,New Harbour Bay Seafood Restaurant,0,,6.9,6.9,6.9
+东南亚菜,Restaurant Ayam Kampung Wangsa Maju,Restaurant Ayam Kampung Wangsa Maju,0,吉隆坡市北,6.9,6.9,6.9
+东南亚菜,Beihai Restaurant,Beihai Restaurant,0,,6.9,6.9,6.9
+东南亚菜,Laziz Restaurant,Laziz Restaurant,0,吉隆坡市北,7.1,7.1,7.1
+东南亚菜,Pan Heong Restaurant,Pan Heong Restaurant,0,黑风洞,7.1,7.0,7.0
+东南亚菜,Zuan Yuan Chinese Restaurant,Zuan Yuan Chinese Restaurant,0,吉隆坡近郊,6.9,6.9,6.9
+东南亚菜,PappaRich,PappaRich,0,吉隆坡市南,7.0,7.0,7.0
+东南亚菜,Happyology Restaurant,Happyology Restaurant,0,吉隆坡市南,7.0,7.0,7.0
+东南亚菜,U-Village Restaurant,U-Village Restaurant,0,金三角/武吉免登,7.1,7.1,7.1
+东南亚菜,Dubu Dubu Restaurant,Dubu Dubu Restaurant,0,吉隆坡市南,7.0,7.0,7.0
+东南亚菜,Bosphorus Fine Turkish Cusine Restaurant,Bosphorus Fine Turkish Cusine Restaurant,0,金三角/武吉免登,7.0,7.0,6.9
+东南亚菜,Colonial Restaurant,Colonial Restaurant,0,小印度及其周边,7.0,7.0,7.0
+东南亚菜,Seroni Restaurant Malacca,Seroni Restaurant Malacca,0,全城,6.9,6.9,7.0
+东南亚菜,Jetty Seafood Restaurant,Jetty Seafood Restaurant,0,双子塔,6.9,6.9,6.9
+东南亚菜,Red Onion Restaurant,Red Onion Restaurant,0,中央火车站周边,6.7,6.9,6.7
+东南亚菜,Kunang Kunang Restaurant,Kunang Kunang Restaurant,0,,7.0,7.0,7.0
+东南亚菜,Restaurant New S.E.A Seafood,Restaurant New S.E.A Seafood,0,吉隆坡市北,0.0,0.0,0.0
+东南亚菜,Lotus Family Restaurant,Lotus Family Restaurant,0,小印度及其周边,7.0,7.0,6.9
+东南亚菜,One Plus Shabu-Shabu Restaurant,One Plus Shabu-Shabu Restaurant,0,中央火车站周边,7.0,7.0,6.9
+东南亚菜,Tiger Jit Singh Chapati Restaurant,Tiger Jit Singh Chapati Restaurant,0,吉隆坡市南,7.0,7.0,7.0
+东南亚菜,Chef Rasa Sayang Sharkfin Restaurant,Chef Rasa Sayang Sharkfin Restaurant,0,金三角/武吉免登,6.9,6.9,6.9
+东南亚菜,Restaurant Rani,Restaurant Rani,0,,6.9,6.9,6.7
+东南亚菜,Ah Koong Restaurant,Ah Koong Restaurant,0,吉隆坡市南,6.9,6.7,6.9
+东南亚菜,The Castle Restaurant,The Castle Restaurant,0,双子塔,7.0,7.0,7.0
+东南亚菜,Yes Thai Restaurant Sdn Bhd,Yes Thai Restaurant Sdn Bhd,0,全城,7.0,7.0,6.9
+东南亚菜,City Famous Seafood Restaurant,City Famous Seafood Restaurant,0,全城,7.0,6.9,6.7
+东南亚菜,Chuai Heng Restaurant,Chuai Heng Restaurant,0,金三角/武吉免登,7.0,6.9,7.0
+东南亚菜,The Bird Restaurant,The Bird Restaurant,0,黑风洞,7.0,7.0,7.1
+东南亚菜,Congee Rice Noodles Restaurant,Congee Rice Noodles Restaurant,0,全城,6.9,6.9,6.9
+东南亚菜,Jerejak Rainforest Resort Restaurant,Jerejak Rainforest Resort Restaurant,0,巴彦勒帕,0.0,0.0,0.0
+东南亚菜,Handsome Seafood Restaurant,Handsome Seafood Restaurant,0,全城,7.1,7.0,7.0
+东南亚菜,Ewa Ewa Restaurant,Ewa Ewa Restaurant,0,吉隆坡市北,6.9,6.9,6.9
+东南亚菜,Chez Rose Continental Restaurant,Chez Rose Continental Restaurant,0,吉隆坡市北,7.0,7.0,7.0
+东南亚菜,Venezia Italian Restaurant,Venezia Italian Restaurant,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Ka Soh Seafood Restaurant,Ka Soh Seafood Restaurant,0,金三角/武吉免登,6.8,7.1,6.8
+东南亚菜,Okomen Japanese Restaurant,Okomen Japanese Restaurant,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Dima Restaurant,Dima Restaurant,0,全城,7.0,7.0,7.0
+东南亚菜,Pondok Laguna,Pondok Laguna,0,,6.9,6.9,7.0
+东南亚菜,Bibik Neo Restaurant,Bibik Neo Restaurant,0,全城,6.8,6.8,6.8
+东南亚菜,Astana Restaurant,Astana Restaurant,0,吉隆坡近郊,7.0,6.9,6.9
+东南亚菜,Spring Garden Restaurant,Spring Garden Restaurant,0,双子塔,6.9,6.9,6.9
+东南亚菜,Uncle R' Original Charcoal BBQ Restaurant,Uncle R' Original Charcoal BBQ Restaurant,0,吉隆坡市南,7.1,7.1,7.1
+东南亚菜,Sampoorna Restaurant,Sampoorna Restaurant,0,中央火车站周边,6.9,6.9,6.9
+东南亚菜,Jung Won Korean BBQ Restaurant,Jung Won Korean BBQ Restaurant,0,双子塔,0.0,0.0,0.0
+东南亚菜,PappaRich,PappaRich,0,吉隆坡唐人街,6.9,6.9,6.9
+东南亚菜,Taste Enclave,Taste Enclave,0,双子塔,7.0,7.0,7.0
+东南亚菜,RJ AYAM BAKAR kopitiam,RJ AYAM BAKAR kopitiam,0,,7.1,7.1,7.1
+东南亚菜,Daorae Korean BBQ Restaurant,Daorae Korean BBQ Restaurant,0,全城,7.2,7.2,7.2
+东南亚菜,Odeon Restaurant,Odeon Restaurant,0,全城,6.7,6.9,6.7
+东南亚菜,The Smokehouse Restaurant,The Smokehouse Restaurant,0,中央火车站周边,6.9,6.7,6.7
+东南亚菜,Yuu-Jo Japanese Restaurant,Yuu-Jo Japanese Restaurant,0,吉隆坡市北,6.9,6.9,6.9
+东南亚菜,Restaurant Arrasiq.,Restaurant Arrasiq.,0,金三角/武吉免登,6.9,6.9,6.9
+东南亚菜,Pinang Taste Seafood Restaurant,Pinang Taste Seafood Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Minah Restaurant,Minah Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Miami Cafe,Miami Cafe,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Hainanese Delights,Hainanese Delights,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Sin Kheng Aun Restaurant,Sin Kheng Aun Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Ee Beng Vegetarian Food,Ee Beng Vegetarian Food,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Trois Canon Cafe,Trois Canon Cafe,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Hon Kei Food Corner,Hon Kei Food Corner,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Anthony's Beer Garden,Anthony's Beer Garden,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Brew Thirty Two Coffee House,Brew Thirty Two Coffee House,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Bangkok Lane Mee Goreng,Bangkok Lane Mee Goreng,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Full Of Beans,Full Of Beans,0,槟城其他,0.0,0.0,0.0
+东南亚菜,LivingFood Bistro & Cafe,LivingFood Bistro & Cafe,0,吉隆坡近郊,0.0,0.0,0.0
+东南亚菜,Bits & Bites,Bits & Bites,0,,0.0,0.0,0.0
+东南亚菜,Bella Italia Pizzeria,Bella Italia Pizzeria,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Beach Blanket Babylon,Beach Blanket Babylon,0,格尼车道,0.0,0.0,0.0
+东南亚菜,Restoran Pinang Peranakan,Restoran Pinang Peranakan,0,槟城其他,0.0,0.0,0.0
+东南亚菜,77 restaurant (fish head curry),77 restaurant (fish head curry),0,槟城其他,0.0,0.0,0.0
+东南亚菜,Evolution Serendib,Evolution Serendib,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Unknown Hawker,Unknown Hawker,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Red Chef Sizzling House,Red Chef Sizzling House,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Rockstarz Burger Ayer Itam/Greenlane,Rockstarz Burger Ayer Itam/Greenlane,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Nasrin Ocean Restaurant,Nasrin Ocean Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Midland Court Restaurant,Midland Court Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,MGI Classic Kitchen,MGI Classic Kitchen,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Max Gourmet,Max Gourmet,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Ismail Ikan Bakar,Ismail Ikan Bakar,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Tsurukame Shabu Shabu,Tsurukame Shabu Shabu,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Tupai-tupai,Tupai-tupai,0,吉隆坡唐人街,0.0,0.0,0.0
+东南亚菜,BAAN 26,BAAN 26,0,金三角/武吉免登,0.0,0.0,0.0
+东南亚菜,Coliseum Cafe,Coliseum Cafe,0,太子世界贸易中心,0.0,0.0,0.0
+东南亚菜,Dancing Fish,Dancing Fish,0,中央火车站周边,0.0,0.0,0.0
+东南亚菜,Sri Nirwana Maju Restaurant,Sri Nirwana Maju Restaurant,0,中央火车站周边,0.0,0.0,0.0
+东南亚菜,Kampung Nelayan,Kampung Nelayan,0,,0.0,0.0,0.0
+东南亚菜,Mango Garden Restaurant,Mango Garden Restaurant,0,,0.0,0.0,0.0
+东南亚菜,Tham Nak Thai,Tham Nak Thai,0,,0.0,0.0,0.0
+东南亚菜,Laguna Restaurant Phil Food kuala Lumpur,Laguna Restaurant Phil Food kuala Lumpur,0,小印度及其周边,0.0,0.0,0.0
+东南亚菜,Bangsar Seafood Restaurant,Bangsar Seafood Restaurant,0,中央火车站周边,0.0,0.0,0.0
+东南亚菜,Syriana restaurant fast food,Syriana restaurant fast food,0,金三角/武吉免登,0.0,0.0,0.0
+东南亚菜,Restaurant Ming Hoe,Restaurant Ming Hoe,0,吉隆坡市北,0.0,0.0,0.0
+东南亚菜,"Purple Cane Restaurant, Kuala Lumpur","Purple Cane Restaurant, Kuala Lumpur",0,吉隆坡唐人街,0.0,0.0,0.0
+东南亚菜,Golden Sun Seafood Restaurant,Golden Sun Seafood Restaurant,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Hubbaba's Arabic Kitchen,Hubbaba's Arabic Kitchen,0,,7.2,7.2,7.2
+东南亚菜,Garam Masala Restaurant,Garam Masala Restaurant,0,中央火车站周边,6.9,6.9,6.9
+东南亚菜,The Press Room,The Press Room,0,中央火车站周边,7.1,7.1,7.1
+东南亚菜,Mama Fat's Restaurant,Mama Fat's Restaurant,0,吉隆坡近郊,6.9,6.9,6.9
+东南亚菜,Gonbei Japanese Restaurant,Gonbei Japanese Restaurant,0,金三角/武吉免登,6.9,6.9,6.9
+东南亚菜,Purple Cane Tea Restaurant,Purple Cane Tea Restaurant,0,吉隆坡唐人街,7.1,7.1,7.1
+东南亚菜,Taste Of Foochow,Taste Of Foochow,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Yi Hao Dim Sum Restaurant,Yi Hao Dim Sum Restaurant,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Wasabi Japanese Restaurant,Wasabi Japanese Restaurant,0,全城,6.9,6.9,6.9
+东南亚菜,Old Farmosa Vegetarian Restaurant,Old Farmosa Vegetarian Restaurant,0,全城,6.9,6.9,6.9
+东南亚菜,"巴生奇香肉骨茶Kee Hiong Bak Kut Teh (Sunway Branch, PJ)","巴生奇香肉骨茶Kee Hiong Bak Kut Teh (Sunway Branch, PJ)",0,,0.0,0.0,0.0
+东南亚菜,Restaurant Nepal - Himalayan Cuisine KL,Restaurant Nepal - Himalayan Cuisine KL,0,吉隆坡市北,7.0,7.0,7.0
+东南亚菜,TableTalk Restaurant,TableTalk Restaurant,0,吉隆坡市北,6.9,6.9,6.9
+东南亚菜,Persian Restaurant,Persian Restaurant,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Kar Hee Restaurant,Kar Hee Restaurant,0,黑风洞,6.9,6.9,6.9
+东南亚菜,Kuriya Japanese Restaurant,Kuriya Japanese Restaurant,0,中央火车站周边,7.0,7.0,7.0
+东南亚菜,Fan Cai Xiang Vegetarian Restaurant Sdn. Bhd.,Fan Cai Xiang Vegetarian Restaurant Sdn. Bhd.,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Thong Lung Sang Seafood Restaurant,Thong Lung Sang Seafood Restaurant,0,黑风洞,7.0,7.0,7.0
+东南亚菜,Al Rawsha Restaurant,Al Rawsha Restaurant,0,双子塔,6.9,6.9,6.9
+东南亚菜,Octopus Sushi and Thai Restaurant,Octopus Sushi and Thai Restaurant,0,吉隆坡市北,7.0,7.0,7.0
+东南亚菜,Al Rawsha Restaurant Kuala Lumpur,Al Rawsha Restaurant Kuala Lumpur,0,双子塔,7.0,7.0,6.9
+东南亚菜,Sitka Restaurant,Sitka Restaurant,0,吉隆坡市北,7.1,7.0,7.0
+东南亚菜,Restaurant Lau Heong,Restaurant Lau Heong,0,吉隆坡市北,7.1,6.9,6.9
+东南亚菜,La Suisse Restaurant,La Suisse Restaurant,0,中央火车站周边,7.0,7.0,7.0
+东南亚菜,Meng Kee Seafood Restaurant,Meng Kee Seafood Restaurant,0,小印度及其周边,7.0,7.0,7.0
+东南亚菜,Sagar Restaurant,Sagar Restaurant,0,中央火车站周边,7.0,7.0,7.0
+东南亚菜,Restaurant Pau Kee,Restaurant Pau Kee,0,双子塔,6.9,6.9,6.9
+东南亚菜,Gills Restaurant,Gills Restaurant,0,吉隆坡市北,7.0,7.0,7.0
+东南亚菜,Chong Heng Restaurant,Chong Heng Restaurant,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Yan's Restaurant,Yan's Restaurant,0,金三角/武吉免登,7.0,7.0,7.0
+东南亚菜,Grand Harbour Restaurant,Grand Harbour Restaurant,0,金三角/武吉免登,7.0,7.0,7.0
+东南亚菜,Restaurant Sekmechoy,Restaurant Sekmechoy,0,吉隆坡市南,7.0,7.0,7.0
+东南亚菜,Ichiriki Tonkatsu Japanese Restaurant,Ichiriki Tonkatsu Japanese Restaurant,0,吉隆坡唐人街,6.9,6.9,6.9
+东南亚菜,Coriander Leaf Restaurant,Coriander Leaf Restaurant,0,双子塔,6.9,6.9,6.9
+东南亚菜,The Hotel Mehran Restaurant,The Hotel Mehran Restaurant,0,太子世界贸易中心,7.0,7.0,7.0
+东南亚菜,Revolving Bintang Restaurant,Revolving Bintang Restaurant,0,金三角/武吉免登,7.0,7.0,7.0
+东南亚菜,Swee Kang Ais Kacang,Swee Kang Ais Kacang,0,,7.0,7.0,7.0
+东南亚菜,Hui Yuan Vegetarian Restaurant,Hui Yuan Vegetarian Restaurant,0,全城,6.9,6.9,6.9
+东南亚菜,The Korean House Restaurant,The Korean House Restaurant,0,全城,6.9,6.9,6.9
+东南亚菜,Springhills Family Restaurant,Springhills Family Restaurant,0,全城,6.9,6.9,6.9
+东南亚菜,Zest,Zest,0,,7.0,7.0,7.0
+东南亚菜,Rooftop Kafe,Rooftop Kafe,0,丹戎Bungah,0.0,0.0,0.0
+东南亚菜,Menya Miyabi Hokkaido Ramen,Menya Miyabi Hokkaido Ramen,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Soft Rock Cafe,Soft Rock Cafe,0,槟城其他,0.0,0.0,0.0
+东南亚菜,PappaRich,PappaRich,0,小印度及其周边,0.0,0.0,0.0
+东南亚菜,Esquire Kitchen,Esquire Kitchen,0,吉隆坡唐人街,6.8,6.6,6.8
+东南亚菜,Vietnam Kitchen,Vietnam Kitchen,0,吉隆坡市南,7.0,7.0,7.0
+东南亚菜,Zende Restaurant,Zende Restaurant,0,小印度及其周边,7.0,7.0,7.0
+东南亚菜,Tajine Restaurant,Tajine Restaurant,0,双子塔,0.0,0.0,0.0
+东南亚菜,Boardwalk Poolside Restaurant,Boardwalk Poolside Restaurant,0,中央火车站周边,6.7,6.9,6.9
+东南亚菜,Loon Sing Oriental Thai Seafood Restaurant Sdn Bhd,Loon Sing Oriental Thai Seafood Restaurant Sdn Bhd,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Tsim Tung Restaurant,Tsim Tung Restaurant,0,,6.9,6.7,7.0
+东南亚菜,Chile Caliente Restaurant,Chile Caliente Restaurant,0,金三角/武吉免登,6.7,6.9,7.0
+东南亚菜,Grand Imperial Restaurant,Grand Imperial Restaurant,0,中央火车站周边,7.1,7.1,7.1
+东南亚菜,Nihon Kai Japanese Restaurant,Nihon Kai Japanese Restaurant,0,吉隆坡市南,7.0,7.0,7.0
+东南亚菜,Old Malaya Kopitiam,Old Malaya Kopitiam,0,小印度及其周边,6.7,6.9,6.7
+东南亚菜,Mughal Restaurant,Mughal Restaurant,0,双子塔,7.0,7.0,7.0
+东南亚菜,Ozen Zanmai Japanese Restaurant,Ozen Zanmai Japanese Restaurant,0,小印度及其周边,7.0,7.0,7.0
+东南亚菜,U Restaurant,U Restaurant,0,中央火车站周边,7.1,7.1,7.0
+东南亚菜,Kirishima Japanese Restaurant,Kirishima Japanese Restaurant,0,双子塔,6.9,6.9,6.9
+东南亚菜,"Bon Ga Korean Bbq Restaurant, Solaris Mont Kiara","Bon Ga Korean Bbq Restaurant, Solaris Mont Kiara",0,吉隆坡市北,6.9,7.0,6.9
+东南亚菜,Lala Seafood Restaurant,Lala Seafood Restaurant,0,太子世界贸易中心,7.1,7.0,7.0
+东南亚菜,i The One Restaurant,i The One Restaurant,0,金三角/武吉免登,7.0,7.0,7.0
+东南亚菜,Restaurant rebung,Restaurant rebung,0,中央火车站周边,7.1,7.1,7.0
+东南亚菜,Amethyst Restaurant,Amethyst Restaurant,0,吉隆坡市北,7.1,7.1,7.1
+东南亚菜,Sudu Restaurant,Sudu Restaurant,0,小印度及其周边,6.9,6.9,6.9
+东南亚菜,Restaurant Halia Sime Darby,Restaurant Halia Sime Darby,0,吉隆坡市北,6.9,6.9,6.9
+东南亚菜,Esquire kitchen,Esquire kitchen,0,金三角/武吉免登,6.9,6.7,7.0
+东南亚菜,"Du Viet Vietnamese Restaurant, Kuala Lumpur","Du Viet Vietnamese Restaurant, Kuala Lumpur",0,小印度及其周边,7.1,7.1,7.1
+东南亚菜,Restaurant De Hunan,Restaurant De Hunan,0,吉隆坡市南,7.1,7.1,7.0
+东南亚菜,Dynasty Dragon Seafood Restaurant,Dynasty Dragon Seafood Restaurant,0,吉隆坡市南,7.0,7.0,7.0
+东南亚菜,Juro Haven Restaurant,Juro Haven Restaurant,0,黑风洞,0.0,0.0,0.0
+东南亚菜,Hj Sharin Low Grand Restaurant,Hj Sharin Low Grand Restaurant,0,双子塔,7.0,6.9,6.9
+东南亚菜,U Yen Vegetarian Restaurant,U Yen Vegetarian Restaurant,0,吉隆坡市南,6.9,6.9,6.9
+东南亚菜,Ring Zhi Vegetarian Restaurant,Ring Zhi Vegetarian Restaurant,0,黑风洞,6.9,6.9,6.9
+东南亚菜,Sugimoto Japanese Restaurant,Sugimoto Japanese Restaurant,0,吉隆坡市北,7.1,7.1,7.1
+东南亚菜,Marakesh Restaurant,Marakesh Restaurant,0,金三角/武吉免登,6.9,6.7,6.9
+东南亚菜,Chandelier Restaurant,Chandelier Restaurant,0,吉隆坡唐人街,6.7,6.7,6.7
+东南亚菜,Tak Fok Hong Kong Seafood Restaurant,Tak Fok Hong Kong Seafood Restaurant,0,吉隆坡市南,7.0,6.9,7.0
+东南亚菜,basaga,basaga,0,,6.8,6.8,7.2
+东南亚菜,John's Place,John's Place,0,,7.2,7.2,7.2
+东南亚菜,Calvery,Calvery,0,,7.0,7.0,7.0
+东南亚菜,Benson Seafood,Benson Seafood,0,,7.1,7.1,7.1
+东南亚菜,My Village Barok,My Village Barok,0,,7.1,7.1,7.1
+东南亚菜,Restaurant Oro,Restaurant Oro,0,全城,7.0,7.0,7.0
+东南亚菜,Big Taste,Big Taste,0,,7.0,7.1,7.1
+东南亚菜,Esquire Kitchen,Esquire Kitchen,0,,6.9,7.0,6.7
+东南亚菜,Al Fresco,Al Fresco,0,,7.0,7.0,6.7
+东南亚菜,D'Ceilo Italian Restaurant,D'Ceilo Italian Restaurant,0,中央火车站周边,6.9,6.9,6.9
+东南亚菜,Sushi Tie Japanese Restaurant,Sushi Tie Japanese Restaurant,0,,6.9,6.9,6.9
+东南亚菜,The Georgian Restaurant 4th Floor Harrod's KL,The Georgian Restaurant 4th Floor Harrod's KL,0,双子塔,6.9,6.9,6.9
+东南亚菜,Kampachi Japanese Restaurant Hotel Equatorial Pena,Kampachi Japanese Restaurant Hotel Equatorial Pena,0,槟城其他,0.0,0.0,0.0
+东南亚菜,老黄芽菜鸡沙河粉Lou Wong Tauge Ayam KueTiau,老黄芽菜鸡沙河粉Lou Wong Tauge Ayam KueTiau,0,怡保,0.0,0.0,0.0
+东南亚菜,万泰泰国餐厅,万泰泰国餐厅,0,瓜镇,0.0,0.0,0.0
+东南亚菜,金糖Gam Tong(Hong Kong Recipe),金糖Gam Tong(Hong Kong Recipe),0,,0.0,0.0,0.0
+东南亚菜,Arcana Perhentian Eco ResOrt & Beach Chalet,Arcana Perhentian Eco ResOrt & Beach Chalet,0,,0.0,0.0,0.0
+东南亚菜,Hameediyah Restaurant,Hameediyah Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,小蓬莱茶室,小蓬莱茶室,0,,0.0,0.0,0.0
+东南亚菜,安顺燎记猪肠粉,安顺燎记猪肠粉,0,怡保,0.0,0.0,0.0
+东南亚菜,金明茶室,金明茶室,0,,0.0,0.0,0.0
+东南亚菜,Kristao,Kristao,0,小印度及其周边,0.0,0.0,0.0
+东南亚菜,三条路888 福建面,三条路888 福建面,0,,0.0,0.0,0.0
+东南亚菜,Restaurant Sri Melati,Restaurant Sri Melati,0,,0.0,0.0,0.0
+东南亚菜,xiao ming fried noodles restaurant,xiao ming fried noodles restaurant,0,,0.0,0.0,0.0
+东南亚菜,B.bap,B.bap,0,中央火车站周边,0.0,0.0,0.0
+东南亚菜,Feng Man Lou Tom Yam Restaurant,Feng Man Lou Tom Yam Restaurant,0,,0.0,0.0,0.0
+东南亚菜,娘惹餐厅,娘惹餐厅,0,金三角/武吉免登,0.0,0.0,0.0
+东南亚菜,阿大鱼头米,阿大鱼头米,0,蕉赖,0.0,0.0,0.0
+东南亚菜,佑记肉骨茶,佑记肉骨茶,0,亚庇市郊,0.0,0.0,0.0
+东南亚菜,阿依淡巴刹桥头老婆婆咖喱面,阿依淡巴刹桥头老婆婆咖喱面,0,Air Itam,0.0,0.0,0.0
+东南亚菜,Nyonya 娘惹小厨房,Nyonya 娘惹小厨房,0,马六甲,0.0,0.0,0.0
+东南亚菜,肥佬肉骨茶与鱼头Fatty Bak Kut Teh & Fish Head,肥佬肉骨茶与鱼头Fatty Bak Kut Teh & Fish Head,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,FIKA - a taste of Sweden,FIKA - a taste of Sweden,0,蒲种,0.0,0.0,0.0
+东南亚菜,佳必多,佳必多,0,,0.0,0.0,0.0
+东南亚菜,泰王宫餐厅,泰王宫餐厅,0,双子塔,0.0,0.0,0.0
+东南亚菜,spice iland,spice iland,0,,0.0,0.0,0.0
+东南亚菜,丽光粿条汤,丽光粿条汤,0,,0.0,0.0,0.0
+东南亚菜,"Nak Won Korean BBQ Restaurant, Ampang","Nak Won Korean BBQ Restaurant, Ampang",0,,0.0,0.0,0.0
+东南亚菜,Nr Sweets Restaurant N Café Sdn. Bhd.,Nr Sweets Restaurant N Café Sdn. Bhd.,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Kedai Kopi Mei Mei,Kedai Kopi Mei Mei,0,亚庇市中心,0.0,0.0,0.0
+东南亚菜,Hong Kee ResTaurAnt Sdn. Bhd.特色葡萄牙烧鱼,Hong Kee ResTaurAnt Sdn. Bhd.特色葡萄牙烧鱼,0,吉隆坡唐人街,0.0,0.0,0.0
+东南亚菜,Fusion Restaurant,Fusion Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,madam kwan's At Alamanda Putrajaya,madam kwan's At Alamanda Putrajaya,0,吉隆坡近郊,0.0,0.0,0.0
+东南亚菜,天香肉干,天香肉干(总店),0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Al-Musafir Restaurant,Al-Musafir Restaurant,0,双子塔,0.0,0.0,0.0
+东南亚菜,Amandari Malay Restaurant,Amandari Malay Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Kafe lam,Kafe lam,0,,0.0,0.0,0.0
+东南亚菜,Cherry Blossom Restaurant,Cherry Blossom Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Chilli Corner Thai Restaurant,Chilli Corner Thai Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Golden Triangle Restaurant,Golden Triangle Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Kaliammans Restaurant,Kaliammans Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Restaurant Shakahari,Restaurant Shakahari,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Ocean Restaurant,Ocean Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Hui Sin Vegetarian Restaurant,Hui Sin Vegetarian Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Bon Ga Korean BBQ Restaurant,Bon Ga Korean BBQ Restaurant,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,雙威度假村雙威金字塔酒店,雙威度假村雙威金字塔酒店,0,,0.0,0.0,0.0
+东南亚菜,Kalliammans Restaurant,Kalliammans Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,旺旺烧腊,旺旺烧腊,0,全城,0.0,0.0,0.0
+东南亚菜,马六甲,马六甲,0,全城,0.0,0.0,0.0
+东南亚菜,Thai Express,Thai Express,0,金三角/武吉免登,0.0,0.0,0.0
+东南亚菜,K.s Ismail Restaurant,K.s Ismail Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Husen cafe,Husen cafe,0,中央火车站周边,0.0,0.0,0.0
+东南亚菜,Bangkok House,Bangkok House,0,吉隆坡市北,0.0,0.0,0.0
+东南亚菜,83 Classic resTaurAnt,83 Classic resTaurAnt,0,,0.0,0.0,0.0
+东南亚菜,TinOt Laksa SaraWak,TinOt Laksa SaraWak,0,,0.0,0.0,0.0
+东南亚菜,RainTree ResTaurAnt,RainTree ResTaurAnt,0,古晋,0.0,0.0,0.0
+东南亚菜,Basaga,Basaga,0,古晋,0.0,0.0,0.0
+东南亚菜,顺乐炭烧脆皮烧鸭,顺乐炭烧脆皮烧鸭,0,,0.0,0.0,0.0
+东南亚菜,E Kia Restaurant,E Kia Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Khunthai Restaurant @ Butterworth,Khunthai Restaurant @ Butterworth,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Pondok Laguna,Pondok Laguna,0,,0.0,0.0,0.0
+东南亚菜,Yummy Restaurant,Yummy Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Krung Thep Thai Restaurant @ Sogo,Krung Thep Thai Restaurant @ Sogo,0,小印度及其周边,0.0,0.0,0.0
+东南亚菜,My Village Barok,My Village Barok,0,古晋,0.0,0.0,0.0
+东南亚菜,De' Orchard Restaurant,De' Orchard Restaurant,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Restaurant 786,Restaurant 786,0,小印度及其周边,0.0,0.0,0.0
+东南亚菜,Tien Chen Vegetarian Restaurant,Tien Chen Vegetarian Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,PappaRich @ E-Gate,PappaRich @ E-Gate,0,槟城其他,0.0,0.0,0.0
+东南亚菜,海龙城,海龙城,0,,0.0,0.0,0.0
+东南亚菜,Dragon King Restaurant,Dragon King Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Uncle Chong's Kitchen,Uncle Chong's Kitchen,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Da onn korean restaurant,Da onn korean restaurant,0,金三角/武吉免登,0.0,0.0,0.0
+东南亚菜,Yishensu Vegetarian Restaurant,Yishensu Vegetarian Restaurant,0,小印度及其周边,0.0,0.0,0.0
+东南亚菜,槟城啰吔,槟城啰吔,0,,0.0,0.0,0.0
+东南亚菜,KEDAI KOPI DAN MAKANAN MAXIM 美心小食馆,KEDAI KOPI DAN MAKANAN MAXIM 美心小食馆,0,槟城其他,0.0,0.0,0.0
+东南亚菜,32 Restaurant,32 Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Andrews Kampung Restaurant,Andrews Kampung Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,坤哥车仔饭店,坤哥车仔饭店,0,蒲种,0.0,0.0,0.0
+东南亚菜,天香肉干,天香肉干(一分店),0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,金糖Gam Tong(Hong Kong Recipe),金糖Gam Tong(Hong Kong Recipe),0,亚庇市中心,0.0,0.0,0.0
+东南亚菜,Four Seasons Vegetarian Restaurant,Four Seasons Vegetarian Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,OXO Restaurant Sdn. Bhd.,OXO Restaurant Sdn. Bhd.,0,槟城其他,0.0,0.0,0.0
+东南亚菜,May Tip Thai Food Restaurant,May Tip Thai Food Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,天满香肉骨茶(Restoran Bah Kut Teh Tian Man Xiang),天满香肉骨茶(Restoran Bah Kut Teh Tian Man Xiang),0,黑风洞,0.0,0.0,0.0
+东南亚菜,Kim Hee Restaurant,Kim Hee Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Weng Sang Restaurant,Weng Sang Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Chew Chun Restaurant,Chew Chun Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Happy Young Restaurant,Happy Young Restaurant,0,,0.0,0.0,0.0
+东南亚菜,Suffolk House Restaurant,Suffolk House Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Kor Cha Restaurant,Kor Cha Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Cheng Sim Vegetarian Restaurant,Cheng Sim Vegetarian Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Four Seasons Tea Restaurant,Four Seasons Tea Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Bangkok Lane Mee Goreng 曼谷巷印度炒面,Bangkok Lane Mee Goreng 曼谷巷印度炒面,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Hollywood Restaurant,Hollywood Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Hot Wok Restaurant,Hot Wok Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Maxim Dim Sum Restaurant,Maxim Dim Sum Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Zhonghua Restaurant Sdn Bhd,Zhonghua Restaurant Sdn Bhd,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Thai Thong Grand Restaurant,Thai Thong Grand Restaurant,0,双子塔,0.0,0.0,0.0
+东南亚菜,Stone Bay Restaurant,Stone Bay Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Shelaiton Restaurant 喜来登,Shelaiton Restaurant 喜来登,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Restaurant Venosheni,Restaurant Venosheni,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Restaurant Fais,Restaurant Fais,0,槟城其他,0.0,0.0,0.0
+东南亚菜,新中华,新中华,0,,0.0,0.0,0.0
+东南亚菜,桃园餐厅,桃园餐厅,0,,0.0,0.0,0.0
+东南亚菜,Uncle Jimmy Cuisine,Uncle Jimmy Cuisine,0,,0.0,0.0,0.0
+东南亚菜,Sabah Spoon,Sabah Spoon,0,,0.0,0.0,0.0
+东南亚菜,D'Fish,D'Fish,0,,0.0,0.0,0.0
+东南亚菜,印度档,印度档,0,,0.0,0.0,0.0
+东南亚菜,Sri Ayutthaya Thai Retaurant,Sri Ayutthaya Thai Retaurant,0,吉隆坡市北,0.0,0.0,0.0
+东南亚菜,兴园餐室,兴园餐室,0,,0.0,0.0,0.0
+东南亚菜,pao xiang bah kut teh,pao xiang bah kut teh,0,双子塔,0.0,0.0,0.0
+东南亚菜,Calvery,Calvery,0,古晋,0.0,0.0,0.0
+东南亚菜,Kim Bay HK-MacAu ResTaurAnt,Kim Bay HK-MacAu ResTaurAnt,0,古晋,0.0,0.0,0.0
+东南亚菜,Daity Mee,Daity Mee,0,沙巴,0.0,0.0,0.0
+东南亚菜,Fantasy Ribs Restaurant,Fantasy Ribs Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Shores Restaurant,Shores Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Sri Ananda Bahwan Restaurant(TanjungBun),Sri Ananda Bahwan Restaurant(TanjungBun),0,槟城其他,0.0,0.0,0.0
+东南亚菜,Casablance Restaurant (Red Rose Resources Shd Bhd),Casablance Restaurant (Red Rose Resources Shd Bhd),0,槟城其他,0.0,0.0,0.0
+东南亚菜,Crc Restaurant,Crc Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Hainanese Delights Restaurant Penang,Hainanese Delights Restaurant Penang,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Hai Pin Restaurant,Hai Pin Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Lang Sae Lee Thai Restaurant,Lang Sae Lee Thai Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Coster Buffer Catering Services,Coster Buffer Catering Services,0,吉隆坡近郊,0.0,0.0,0.0
+东南亚菜,Nasi Kandar Line Clear,Nasi Kandar Line Clear,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Kapitan Restaurant,Kapitan Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Yean Thai Restaurant Sdn Bhd,Yean Thai Restaurant Sdn Bhd,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Four Seasons Tea Restaurant,Four Seasons Tea Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Shang Place Restaurant,Shang Place Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Restaurant Bravo Italiana,Restaurant Bravo Italiana,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Restaurant Red Chopstick,Restaurant Red Chopstick,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Kings Bay Restaurant,Kings Bay Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Golden Hill Vegetarian Restaurant,Golden Hill Vegetarian Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Sai Toh Lim Restaurant,Sai Toh Lim Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Golden BBQ Steamboat Restaurant,Golden BBQ Steamboat Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Gem Restaurant,Gem Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Obake-Ya Restaurant Sdn. Bhd.,Obake-Ya Restaurant Sdn. Bhd.,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Foong Wei Heong Restaurant Sdn. Bhd.,Foong Wei Heong Restaurant Sdn. Bhd.,0,槟城其他,0.0,0.0,0.0
+东南亚菜,传奇酒店天然有机菜餐厅,传奇酒店天然有机菜餐厅,0,太子世界贸易中心,0.0,0.0,0.0
+东南亚菜,Asia Gold Media Sdn Bhd,Asia Gold Media Sdn Bhd,0,,0.0,0.0,0.0
+东南亚菜,Maitreya Vegetarian Restaurant,Maitreya Vegetarian Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Lin Restaurant,Lin Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Old Master Restaurant (Bak Kut Teh),Old Master Restaurant (Bak Kut Teh),0,槟城其他,0.0,0.0,0.0
+东南亚菜,King's Restaurant,King's Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Abka Restaurant,Abka Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,PappaRich Seri Tanjung @ Penang,PappaRich Seri Tanjung @ Penang,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Kannichikan Yakiniku Restaurant,Kannichikan Yakiniku Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Restaurant Teppan Yaki Junction,Restaurant Teppan Yaki Junction,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Karaikudi Restaurant (M) Sdn Bhd,Karaikudi Restaurant (M) Sdn Bhd,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Dawood Restaurant,Dawood Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Prontip Thai Restaurant Sdn Bhd,Prontip Thai Restaurant Sdn Bhd,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Cassis Restaurant,Cassis Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Aroi Thai Restaurant,Aroi Thai Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Bukit Minyak Restaurant,Bukit Minyak Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Sea Palace Restaurant,Sea Palace Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,Ming Yuen Restaurant,Ming Yuen Restaurant,0,槟城其他,0.0,0.0,0.0
+东南亚菜,John's Pie,John's Pie,0,古晋,0.0,0.0,0.0
+东南亚菜,Hoi Tin Lau ResTaurAnt Sdn Bhd,Hoi Tin Lau ResTaurAnt Sdn Bhd,0,古晋,0.0,0.0,0.0
+东南亚菜,Ipoh Town Kopitiam,Ipoh Town Kopitiam,0,古晋,0.0,0.0,0.0
+东南亚菜,The Venue,The Venue,0,古晋,0.0,0.0,0.0
+东南亚菜,Toh Yuen,Toh Yuen,0,古晋,0.0,0.0,0.0
+东南亚菜,万挠蘭姐清蒸非洲鱼,万挠蘭姐清蒸非洲鱼,0,沙巴,0.0,0.0,0.0
+东南亚菜,肥佬大炒,肥佬大炒,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Casbah at Mandarin Oriental,Casbah at Mandarin Oriental,0,,0.0,0.0,0.0
+东南亚菜,阿莎南美食中心,阿莎南美食中心,0,吉隆坡近郊,0.0,0.0,0.0
+东南亚菜,Busy Corner,Busy Corner,0,吉隆坡近郊,0.0,0.0,0.0
+东南亚菜,丝雅琳膜-马来西亚总经销,丝雅琳膜-马来西亚总经销,0,,0.0,0.0,0.0
+东南亚菜,利增茶餐厅 Legend Coffee Tea,利增茶餐厅 Legend Coffee Tea,0,,0.0,0.0,0.0
+东南亚菜,Mango chili restaurant,Mango chili restaurant,0,吉隆坡市北,0.0,0.0,0.0
+东南亚菜,Calorie Restaurant,Calorie Restaurant,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Warisan Kohiang Restaurant,Warisan Kohiang Restaurant,0,双子塔,0.0,0.0,0.0
+东南亚菜,Plaza Court Chinese Restaurant,Plaza Court Chinese Restaurant,0,小印度及其周边,0.0,0.0,0.0
+东南亚菜,Secret Garden Restaurant,Secret Garden Restaurant,0,吉隆坡市北,0.0,0.0,0.0
+东南亚菜,Uncle Weng Restaurant,Uncle Weng Restaurant,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Shabuland Restaurant,Shabuland Restaurant,0,黑风洞,0.0,0.0,0.0
+东南亚菜,BB Steamboat Restaurant at Connaught Avenue,BB Steamboat Restaurant at Connaught Avenue,0,吉隆坡近郊,0.0,0.0,0.0
+东南亚菜,Al Jabban Restaurant,Al Jabban Restaurant,0,吉隆坡市北,0.0,0.0,0.0
+东南亚菜,Gourmet Recipes Restaurant,Gourmet Recipes Restaurant,0,吉隆坡市南,0.0,0.0,0.0
+东南亚菜,Xinjiaxi Seafood Cool Air Restaurant,Xinjiaxi Seafood Cool Air Restaurant,0,黑风洞,0.0,0.0,0.0
+东南亚菜,Hong Bee Bak Kut Teh Restaurant,Hong Bee Bak Kut Teh Restaurant,0,黑风洞,0.0,0.0,0.0
+东南亚菜,Al-Umdah Restaurant,Al-Umdah Restaurant,0,吉隆坡市北,0.0,0.0,0.0
+海鲜,大茄来海鲜餐厅,大茄来海鲜餐厅,117,,9.1,7.9,8.3
+海鲜,双天海鲜楼,双天海鲜楼,142,,9.0,7.5,8.1
+海鲜,华兴海鲜楼,华兴海鲜楼,145,,8.9,7.5,8.3
+海鲜,真浪花园海鲜餐馆,真浪花园海鲜餐馆,161,庞太切南,8.4,7.7,7.8
+海鲜,渔人码头,渔人码头,166,,9.1,9.1,9.1
+海鲜,真浪大家乐海鲜餐馆,真浪大家乐海鲜餐馆,128,Mukim Kedawang,9.3,8.6,9.2
+海鲜,食唯鲜,食唯鲜,144,,9.1,9.0,9.1
+海鲜,正宗肥妈海鲜楼,正宗肥妈海鲜楼,86,,8.7,7.9,8.1
+海鲜,卓峰海鲜餐厅,卓峰海鲜餐厅,129,班底登加,8.3,8.3,8.1
+海鲜,真浪大家乐海鲜餐馆,真浪大家乐海鲜餐馆,0,,8.8,8.2,8.6
+海鲜,灯笼海鲜餐厅,灯笼海鲜餐厅,106,班底登加,7.2,7.2,7.2
+海鲜,金陵生猛海鲜饭檔,金陵生猛海鲜饭檔,124,,8.2,7.3,8.1
+海鲜,珍珠海鲜酒家,珍珠海鲜酒家,134,,7.0,6.6,7.4
+海鲜,船海鲜,船海鲜,0,兰卡威其他,8.1,7.5,8.1
+海鲜,巴厘海鲜市场,巴厘海鲜市场,227,槟城其他,7.6,6.9,7.0
+海鲜,龙虾王,龙虾王,0,,8.6,8.0,8.4
+海鲜,海王城,海王城,175,,7.3,7.2,7.1
+海鲜,中华楼,中华楼,0,兰卡威其他,8.2,7.5,8.2
+海鲜,渔港海鲜楼 Fish Village Seafood Restourant,渔港海鲜楼 Fish Village Seafood Restourant,0,,8.6,8.0,8.4
+海鲜,荣隆海鲜,荣隆海鲜,0,,7.6,7.8,8.1
+海鲜,欢乐天饮食中心,欢乐天饮食中心,0,,7.1,6.9,7.5
+海鲜,Tanjung Aru Seafood Restaurant,Tanjung Aru Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,椰林中华料理,椰林中华料理,0,,6.6,6.5,6.6
+海鲜,金宝海鲜餐厅,金宝海鲜餐厅,0,沙巴其他,7.9,7.3,7.6
+海鲜,晶喜海鲜楼,晶喜海鲜楼,87,其他城市,8.1,7.1,8.1
+海鲜,佳扬海鲜餐厅,佳扬海鲜餐厅,0,,8.2,8.2,8.2
+海鲜,Gayang Seafood Restaurant,Gayang Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,不夜天海鲜酒楼,不夜天海鲜酒楼,171,其他城市,7.0,6.6,6.6
+海鲜,IKAN IKAN SEAFOOD RESTAURANT,IKAN IKAN SEAFOOD RESTAURANT,0,,7.3,6.9,7.2
+海鲜,海中宝餐厅,海中宝餐厅,0,,6.5,7.3,7.0
+海鲜,强师傅海鲜,强师傅海鲜,0,,7.4,7.4,7.9
+海鲜,复古海滨餐厅,复古海滨餐厅,0,Mukim Kedawang,7.8,7.5,7.5
+海鲜,晶喜海鲜楼,晶喜海鲜楼,0,,8.1,7.9,8.1
+海鲜,椰林中华料理,椰林中华料理,0,庞太切南,7.4,7.0,7.2
+海鲜,美香海鲜饭店,美香海鲜饭店,0,,8.4,8.0,8.5
+海鲜,森森海鲜,森森海鲜,0,,7.1,6.7,6.9
+海鲜,肥妈,肥妈,0,仙本那,7.7,7.4,7.5
+海鲜,东方海鲜市场,东方海鲜市场,0,槟城其他,7.2,7.6,7.0
+海鲜,真浪花园海鲜,真浪花园海鲜,0,兰卡威其他,7.5,7.3,7.3
+海鲜,真浪花园,真浪花园,0,,7.5,7.2,7.0
+海鲜,屋顶海鲜餐厅,屋顶海鲜餐厅,0,,8.1,7.4,8.1
+海鲜,馥苑海鲜酒家,馥苑海鲜酒家,0,,0.0,0.0,0.0
+海鲜,Kitta Seafood ResTaurAnt,Kitta Seafood ResTaurAnt,0,,6.8,6.6,6.9
+海鲜,海王城,海王城,0,,0.0,0.0,0.0
+海鲜,天旺海鲜酒楼,天旺海鲜酒楼,0,仙本那,7.2,6.8,7.2
+海鲜,Sabah Fish Marketing Sdn Bhd,Sabah Fish Marketing Sdn Bhd,0,,8.3,7.3,7.3
+海鲜,Welcome Seafood Restaurant,Welcome Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,顺潮来中华料理,顺潮来中华料理,0,,7.0,6.3,6.3
+海鲜,不夜天海鲜楼,不夜天海鲜楼,0,,5.9,5.9,6.7
+海鲜,中华楼海鲜餐厅,中华楼海鲜餐厅,0,,7.1,6.8,7.5
+海鲜,古村海鲜餐厅,古村海鲜餐厅,0,沙巴其他,5.4,5.4,5.4
+海鲜,天下客海鲜楼,天下客海鲜楼,0,,7.5,7.5,7.7
+海鲜,卓峰海鲜中餐厅,卓峰海鲜中餐厅,0,班底登加,8.1,8.1,8.1
+海鲜,暹罗村海鲜餐厅,暹罗村海鲜餐厅,0,兰卡威其他,6.7,6.7,7.1
+海鲜,美香海鲜楼,美香海鲜楼,0,,6.3,5.4,5.5
+海鲜,隆美茶餐室,隆美茶餐室,0,,7.5,6.7,7.4
+海鲜,美香海鲜,美香海鲜,0,沙巴其他,7.2,7.0,6.8
+海鲜,Golden Wok Live Seafood Restaurant,Golden Wok Live Seafood Restaurant,0,兰卡威其他,7.7,7.7,7.7
+海鲜,新旺记潮州海鲜饭店,新旺记潮州海鲜饭店,0,,8.4,8.4,8.4
+海鲜,露天海鲜餐厅,露天海鲜餐厅,0,瓜镇,8.3,7.4,7.4
+海鲜,蔡师傅粤菜馆,蔡师傅粤菜馆,0,双子塔,6.8,7.7,6.8
+海鲜,One Seafood Restaurant,One Seafood Restaurant,0,双子塔,7.2,7.2,7.2
+海鲜,真浪大家乐海鲜餐馆,真浪大家乐海鲜餐馆,0,兰卡威其他,8.1,8.1,8.1
+海鲜,珍味海鲜村,珍味海鲜村,0,,6.9,6.9,6.9
+海鲜,DeHappy Seafood Restaurant,DeHappy Seafood Restaurant,0,槟城其他,8.4,7.5,8.4
+海鲜,Grand Portview Restaurant,Grand Portview Restaurant,0,,0.0,0.0,0.0
+海鲜,Salut Seafood Restaurant,Salut Seafood Restaurant,0,,7.4,7.4,7.4
+海鲜,田老爷城市海鲜餐厅,田老爷城市海鲜餐厅,0,,7.7,7.2,6.8
+海鲜,Mayhian Seafood ResTaurAnt,Mayhian Seafood ResTaurAnt(美香海鲜大饭店),0,班底登加,7.0,7.0,7.1
+海鲜,金凌海鲜酒家,金凌海鲜酒家,0,,7.5,7.5,7.5
+海鲜,Ocean Green Seafood Restaurant,Ocean Green Seafood Restaurant,0,格尼车道,6.7,6.7,6.7
+海鲜,罗叔私房菜,罗叔私房菜,0,,7.4,7.4,7.4
+海鲜,芳苑海鲜饭店,芳苑海鲜饭店,0,吉隆坡唐人街,6.6,6.6,6.6
+海鲜,食家村 Tambun Garden Restaurant,食家村 Tambun Garden Restaurant,0,,7.1,7.1,7.1
+海鲜,龙虾王,龙虾王,0,,8.2,8.2,8.2
+海鲜,真浪大家乐海鲜餐馆,真浪大家乐海鲜餐馆,0,,8.3,8.3,8.3
+海鲜,江中泰河海鲜,江中泰河海鲜,0,,8.1,8.1,8.1
+海鲜,Chinese Restaurant,Chinese Restaurant,0,,6.7,6.7,6.7
+海鲜,肥妈海鲜楼,肥妈海鲜楼,0,,7.7,7.2,7.2
+海鲜,海滨海鲜楼,海滨海鲜楼,0,吉隆坡市南,7.1,7.0,7.1
+海鲜,渔村风味海鲜楼,渔村风味海鲜楼,0,,7.1,7.1,7.1
+海鲜,Wee Kee,Wee Kee,0,,7.1,7.1,7.0
+海鲜,龙虾村海鲜酒家,龙虾村海鲜酒家,0,,7.0,6.7,6.9
+海鲜,肥仔风味海鲜村,肥仔风味海鲜村,0,,6.9,6.9,6.9
+海鲜,船屋,船屋,0,其他城市,8.4,7.5,7.5
+海鲜,新快樂海鲜飯店,新快樂海鲜飯店,0,,8.4,6.7,5.9
+海鲜,德大海鲜茶室,德大海鲜茶室,0,,7.3,7.3,8.0
+海鲜,海港渔村,海港渔村,0,,7.7,7.7,7.7
+海鲜,灯笼海鲜酒家,灯笼海鲜酒家,0,,8.4,8.4,8.4
+海鲜,潮州铭小食馆,潮州铭小食馆,0,,7.2,6.8,7.2
+海鲜,大东海鲜楼,大东海鲜楼,0,,7.1,7.1,7.1
+海鲜,大石路海鲜酒楼,大石路海鲜酒楼,0,,7.6,7.6,7.2
+海鲜,青山岩海鲜,青山岩海鲜,0,其他城市,7.1,6.7,6.9
+海鲜,Yi Ji Seafood and Steamboat Restaurant,Yi Ji Seafood and Steamboat Restaurant,0,,7.4,6.1,6.7
+海鲜,晶喜海鲜楼(香港),晶喜海鲜楼(香港),0,,7.7,7.2,7.7
+海鲜,Mandarin Grill & Bar,Mandarin Grill & Bar,0,吉隆坡近郊,0.0,0.0,0.0
+海鲜,Mei Keng Fatt Seafood Restaurant,Mei Keng Fatt Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Beach Corner Seafood,Beach Corner Seafood,0,槟城其他,0.0,0.0,0.0
+海鲜,Kedai Makan Pukat,Kedai Makan Pukat,0,沙巴其他,0.0,0.0,0.0
+海鲜,Alu Alu Cafe,Alu Alu Cafe,0,,0.0,0.0,0.0
+海鲜,Sri Maju Steamboat,Sri Maju Steamboat,0,,0.0,0.0,0.0
+海鲜,Windbell Seafood Restaurant,Windbell Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Lobster King Seafood Restaurant,Lobster King Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Twin-Sky Seafood Restaurant,Twin-Sky Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Ocean King,Ocean King,0,,0.0,0.0,0.0
+海鲜,Hao You Seafood,Hao You Seafood,0,巴彦勒帕,0.0,0.0,0.0
+海鲜,LaLa Chong Seafood Restaurant,LaLa Chong Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Sim Sim Seafood,Sim Sim Seafood,0,沙巴其他,0.0,0.0,0.0
+海鲜,Sri Tanjung,Sri Tanjung,0,,0.0,0.0,0.0
+海鲜,Tsunami Village,Tsunami Village,0,丹戎Bungah,0.0,0.0,0.0
+海鲜,Maxim's Seafood Restaurant,Maxim's Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Seafood Bagan Lalang,Seafood Bagan Lalang,0,吉隆坡近郊,0.0,0.0,0.0
+海鲜,Luyang Seafood Restaurant,Luyang Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Restoran Seafood Sim-Sim 88,Restoran Seafood Sim-Sim 88,0,沙巴其他,0.0,0.0,0.0
+海鲜,Salut Seafood,Salut Seafood,0,,0.0,0.0,0.0
+海鲜,Be ringgits Seafood Restaurant,Be ringgits Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Ikan Ikan Live Seafood Restaurant,Ikan Ikan Live Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Trig Hill Restaurant,Trig Hill Restaurant,0,沙巴其他,0.0,0.0,0.0
+海鲜,Ocean Treasure Live Seafood Restaurant,Ocean Treasure Live Seafood Restaurant,0,沙巴其他,0.0,0.0,0.0
+海鲜,End Of The World Seafood,End Of The World Seafood,0,槟城其他,0.0,0.0,0.0
+海鲜,Port View Seafood Village,Port View Seafood Village,0,,0.0,0.0,0.0
+海鲜,Old Village Seafood Restaurant,Old Village Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Citidiners Seafood Centre,Citidiners Seafood Centre,0,双子塔,0.0,0.0,0.0
+海鲜,龙记海鲜饭店,龙记海鲜饭店,0,,0.0,0.0,0.0
+海鲜,Eden Seafood,Eden Seafood,0,双子塔,0.0,0.0,0.0
+海鲜,KLIAS,KLIAS,0,,0.0,0.0,0.0
+海鲜,Du Ye Seafood Restaurant,Du Ye Seafood Restaurant,0,双子塔,0.0,0.0,0.0
+海鲜,龙虾王,龙虾王,0,,0.0,0.0,0.0
+海鲜,Dynasty Dragon Seafood,Dynasty Dragon Seafood,0,双子塔,0.0,0.0,0.0
+海鲜,Ka Soh Seafood Restaurant,Ka Soh Seafood Restaurant,0,金三角/武吉免登,0.0,0.0,0.0
+海鲜,Restoran Hoong Kee Seafood Noodle House Sdn. Bhd.,Restoran Hoong Kee Seafood Noodle House Sdn. Bhd.,0,吉隆坡唐人街,0.0,0.0,0.0
+海鲜,焦赖登嘉园金鱼村福建面炒粉面档,焦赖登嘉园金鱼村福建面炒粉面档,0,吉隆坡市南,0.0,0.0,0.0
+海鲜,Crystal Palm Seafood Restaurant,Crystal Palm Seafood Restaurant,0,太子世界贸易中心,0.0,0.0,0.0
+海鲜,Grand Port View Seafood Restaurant Sdn Bhd,Grand Port View Seafood Restaurant Sdn Bhd,0,,0.0,0.0,0.0
+海鲜,Boat Seafood,Boat Seafood,0,,0.0,0.0,0.0
+海鲜,肥成海鲜,肥成海鲜,0,其他城市,0.0,0.0,0.0
+海鲜,Uncle Chong's Kitchen 钟叔叔美食坊,Uncle Chong's Kitchen 钟叔叔美食坊,0,,0.0,0.0,0.0
+海鲜,Imperial Court Seafood Cuisine,Imperial Court Seafood Cuisine,0,小印度及其周边,0.0,0.0,0.0
+海鲜,Kelana Seafood Centre Sdn Bhd,Kelana Seafood Centre Sdn Bhd,0,,0.0,0.0,0.0
+海鲜,Rajawali Seafood Restaurant,Rajawali Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,D' White Beach Seafood Restaurant,D' White Beach Seafood Restaurant,0,槟城其他,0.0,0.0,0.0
+海鲜,凯达库板山兴,凯达库板山兴,0,,0.0,0.0,0.0
+海鲜,Port View Seafood Village Sdn. Bhd.,Port View Seafood Village Sdn. Bhd.,0,,0.0,0.0,0.0
+海鲜,Happy Valley Seafood Restaurant,Happy Valley Seafood Restaurant,0,双子塔,0.0,0.0,0.0
+海鲜,新阿拉法特餐馆,新阿拉法特餐馆,0,,0.0,0.0,0.0
+海鲜,苏乞兒海鲜饭店,苏乞兒海鲜饭店,0,,0.0,0.0,0.0
+海鲜,欢乐天海鲜,欢乐天海鲜,0,瓜镇,0.0,0.0,0.0
+海鲜,龙虾王,龙虾王,0,吉隆坡近郊,0.0,0.0,0.0
+海鲜,Ka-Soh Fish Head Noodle and Seafood Restaurant,Ka-Soh Fish Head Noodle and Seafood Restaurant,0,双子塔,0.0,0.0,0.0
+海鲜,Teluk Kumbar Seafood 公巴好友海鲜,Teluk Kumbar Seafood 公巴好友海鲜,0,槟城其他,0.0,0.0,0.0
+海鲜,The Big Wave Seafood Restaurant,The Big Wave Seafood Restaurant,0,槟城其他,0.0,0.0,0.0
+海鲜,Zealand Bak Kut Teh and Seafood,Zealand Bak Kut Teh and Seafood,0,槟城其他,0.0,0.0,0.0
+海鲜,Ong Cheng Huat Seafood 王清发海鲜(椰脚),Ong Cheng Huat Seafood 王清发海鲜(椰脚),0,槟城其他,0.0,0.0,0.0
+海鲜,Bali Hai Seafood Market,Bali Hai Seafood Market,0,槟城其他,0.0,0.0,0.0
+海鲜,Restoran Fresh Unique Seafood 23,Restoran Fresh Unique Seafood 23,0,,0.0,0.0,0.0
+海鲜,Unique Seafood (PJ) Sdn Bhd,Unique Seafood (PJ) Sdn Bhd,0,,0.0,0.0,0.0
+海鲜,Chip Loong Frozen Seafood,Chip Loong Frozen Seafood,0,吉隆坡市南,0.0,0.0,0.0
+海鲜,Fung Seng Seafood Supplier Sdn. Bhd.,Fung Seng Seafood Supplier Sdn. Bhd.,0,,0.0,0.0,0.0
+海鲜,Pormtip Thai & BBQ Seafood Restaurant,Pormtip Thai & BBQ Seafood Restaurant,0,双子塔,0.0,0.0,0.0
+海鲜,Wooi Mei Seafood Restaurant,Wooi Mei Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Global Ocean Seafood Sdn. Bhd.,Global Ocean Seafood Sdn. Bhd.,0,,0.0,0.0,0.0
+海鲜,Mayflower Seafood Restaurant,Mayflower Seafood Restaurant,0,中央火车站周边,0.0,0.0,0.0
+海鲜,RNC Seafood Steamboat (Buffet) 任你吃海鲜生锅,RNC Seafood Steamboat (Buffet) 任你吃海鲜生锅,0,,0.0,0.0,0.0
+海鲜,海湾海鲜,海湾海鲜,0,,0.0,0.0,0.0
+海鲜,Oriental Seafood,Oriental Seafood,0,槟城其他,0.0,0.0,0.0
+海鲜,Hai Hong Frozen Seafood (Pg) Sdn. Bhd.,Hai Hong Frozen Seafood (Pg) Sdn. Bhd.,0,槟城其他,0.0,0.0,0.0
+海鲜,Tsunami Seafood restaurant,Tsunami Seafood restaurant,0,槟城其他,0.0,0.0,0.0
+海鲜,美景发海鲜酒楼,美景发海鲜酒楼,0,,0.0,0.0,0.0
+海鲜,Bangsar Seafood Garden Restaurant,Bangsar Seafood Garden Restaurant,0,中央火车站周边,0.0,0.0,0.0
+海鲜,Dynasty Dragon Seafood Restaurant 皇龙海鲜大酒楼,Dynasty Dragon Seafood Restaurant 皇龙海鲜大酒楼,0,,0.0,0.0,0.0
+海鲜,S L Seafood Products Sdn. Bhd.,S L Seafood Products Sdn. Bhd.,0,,0.0,0.0,0.0
+海鲜,Jade Palace Seafood Restaurant,Jade Palace Seafood Restaurant,0,槟城其他,0.0,0.0,0.0
+海鲜,翼洲,翼洲,0,槟城其他,0.0,0.0,0.0
+海鲜,Bayu Timur Seafood,Bayu Timur Seafood,0,槟城其他,0.0,0.0,0.0
+海鲜,Restoran Crocodile Farm Seafood Village,Restoran Crocodile Farm Seafood Village,0,,0.0,0.0,0.0
+海鲜,SAM PI NONG THAI SEAFOOD,SAM PI NONG THAI SEAFOOD,0,金三角/武吉免登,0.0,0.0,0.0
+海鲜,Ferringhi Green Seafood Restaurant,Ferringhi Green Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Fullon Seafood Restaurant,Fullon Seafood Restaurant,0,金三角/武吉免登,0.0,0.0,0.0
+海鲜,Rootian Seafood Restaurant,Rootian Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,亿家海鲜,亿家海鲜,0,其他城市,0.0,0.0,0.0
+海鲜,Sin Yee Kee Seafood Restaurant,Sin Yee Kee Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,巴里渔港,巴里渔港,0,,0.0,0.0,0.0
+海鲜,Jungang,Jungang,0,,0.0,0.0,0.0
+海鲜,陈秀莲鱼头,陈秀莲鱼头,0,,0.0,0.0,0.0
+海鲜,天旺海鲜楼,天旺海鲜楼,0,,0.0,0.0,0.0
+海鲜,Sin Hwa Lam Seafood Restaurant,Sin Hwa Lam Seafood Restaurant,0,槟城其他,0.0,0.0,0.0
+海鲜,Restoran Penang Nibong Tebal Seafood Porridge,Restoran Penang Nibong Tebal Seafood Porridge,0,黑风洞,0.0,0.0,0.0
+海鲜,Swee Garden Seafood Restaurant,Swee Garden Seafood Restaurant,0,槟城其他,0.0,0.0,0.0
+海鲜,East Hokkaido Seafood Restaurant,East Hokkaido Seafood Restaurant,0,槟城其他,0.0,0.0,0.0
+海鲜,好景生猛海鲜,好景生猛海鲜,0,,0.0,0.0,0.0
+海鲜,情人岛海鲜小食馆,情人岛海鲜小食馆,0,吉隆坡近郊,0.0,0.0,0.0
+海鲜,苏乞儿海鲜饭店,苏乞儿海鲜饭店,0,其他城市,0.0,0.0,0.0
+海鲜,Tangerine restaurant,Tangerine restaurant,0,,0.0,0.0,0.0
+海鲜,Dragon Star Aircond Seafood Restaurant,Dragon Star Aircond Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Penang Lanta Seafood Restaurant,Penang Lanta Seafood Restaurant,0,黑风洞,0.0,0.0,0.0
+海鲜,Siang Seafood Restaurant @ Sogo,Siang Seafood Restaurant @ Sogo,0,小印度及其周边,0.0,0.0,0.0
+海鲜,Seng Cheong Seafood,Seng Cheong Seafood,0,槟城其他,0.0,0.0,0.0
+海鲜,Piau Kee Seafood Retails (M) Sdn. Bhd.,Piau Kee Seafood Retails (M) Sdn. Bhd.,0,吉隆坡市南,0.0,0.0,0.0
+海鲜,露天海鲜饭店,露天海鲜饭店,0,,0.0,0.0,0.0
+海鲜,阿顺生虾鱼头米,阿顺生虾鱼头米,0,,0.0,0.0,0.0
+海鲜,Tasty Porridge 海鲜粥,Tasty Porridge 海鲜粥,0,,0.0,0.0,0.0
+海鲜,Lok Lok King Seafood,Lok Lok King Seafood,0,吉隆坡市北,0.0,0.0,0.0
+海鲜,May Shiang Seafood Restaurant,May Shiang Seafood Restaurant,0,槟城其他,0.0,0.0,0.0
+海鲜,Fullwealth Seafood Restaurant,Fullwealth Seafood Restaurant,0,黑风洞,0.0,0.0,0.0
+海鲜,椰林海鲜饭店,椰林海鲜饭店,0,,0.0,0.0,0.0
+海鲜,Gami Korean Seafood Restaurant,Gami Korean Seafood Restaurant,0,吉隆坡市北,0.0,0.0,0.0
+海鲜,Chip Loong Shark's Fin Seafood Sdn. Bhd.,Chip Loong Shark's Fin Seafood Sdn. Bhd.,0,黑风洞,0.0,0.0,0.0
+海鲜,Dynasty Dragon Seafood Restaurant(Puchong) Sdn Bhd,Dynasty Dragon Seafood Restaurant(Puchong) Sdn Bhd,0,,0.0,0.0,0.0
+海鲜,Chee Hing Seafood Restaurant,Chee Hing Seafood Restaurant,0,吉隆坡市南,0.0,0.0,0.0
+海鲜,Cheong Wah Seafood Restaurant 中华酒家,Cheong Wah Seafood Restaurant 中华酒家,0,,0.0,0.0,0.0
+海鲜,Lucky Seafood Restaurant,Lucky Seafood Restaurant,0,沙巴其他,0.0,0.0,0.0
+海鲜,Atlantis Seafood Restaurant,Atlantis Seafood Restaurant,0,沙巴其他,0.0,0.0,0.0
+海鲜,Restoran Long Grilled Fish Seafood 亚龙槟城烧鱼海鲜饭店,Restoran Long Grilled Fish Seafood 亚龙槟城烧鱼海鲜饭店,0,吉隆坡市北,0.0,0.0,0.0
+海鲜,Deep Sea Seafood Restaurant Sdn. Bhd.,Deep Sea Seafood Restaurant Sdn. Bhd.,0,,0.0,0.0,0.0
+海鲜,Fook Soon Seafood Cold Storage,Fook Soon Seafood Cold Storage,0,,0.0,0.0,0.0
+海鲜,Ting Hing Seafood,Ting Hing Seafood,0,双子塔,0.0,0.0,0.0
+海鲜,Piau Kee Seafood,Piau Kee Seafood,0,吉隆坡市南,0.0,0.0,0.0
+海鲜,Lok Lok King Seafood,Lok Lok King Seafood,0,吉隆坡市北,0.0,0.0,0.0
+海鲜,Pin Seong Seafood,Pin Seong Seafood,0,槟城其他,0.0,0.0,0.0
+海鲜,North Ocean Seafood Restaurant Sdn. Bhd.,North Ocean Seafood Restaurant Sdn. Bhd.,0,,0.0,0.0,0.0
+海鲜,Southern Rock Seafood Sdn Bhd,Southern Rock Seafood Sdn Bhd,0,中央火车站周边,0.0,0.0,0.0
+海鲜,Ocean Star Seafood Trading,Ocean Star Seafood Trading,0,,0.0,0.0,0.0
+海鲜,Maa Roy Thai Seafood,Maa Roy Thai Seafood,0,槟城其他,0.0,0.0,0.0
+海鲜,Wong Weng Soon Seafood Supplies Sdn Bhd,Wong Weng Soon Seafood Supplies Sdn Bhd,0,吉隆坡市南,0.0,0.0,0.0
+海鲜,美人鱼的梦Mantanani Dream,美人鱼的梦Mantanani Dream,0,沙巴其他,0.0,0.0,0.0
+中餐厅,金莲记,金莲记,41,吉隆坡唐人街,7.2,6.5,6.6
+中餐厅,中华茶室,中华茶室,21,全城,7.5,6.6,7.1
+中餐厅,老街沙巴特產專賣店,老街沙巴特產專賣店,50,亚庇市区,8.6,8.2,8.2
+中餐厅,卓峰海鲜餐厅,卓峰海鲜餐厅,129,班底登加,8.3,8.3,8.1
+中餐厅,和记鸡饭,和记鸡饭,25,全城,7.5,7.1,7.4
+中餐厅,金沙园生肉面,金沙园生肉面,17,,8.1,7.2,7.9
+中餐厅,Precious Old China,Precious Old China,0,吉隆坡唐人街,7.2,7.4,7.3
+中餐厅,知味海鲜餐厅,知味海鲜餐厅,0,,7.8,7.5,8.3
+中餐厅,洪金买饭店,洪金买饭店,0,,7.7,6.9,7.3
+中餐厅,Five Sails,Five Sails,0,,7.5,7.7,7.5
+中餐厅,德盛饭店,德盛饭店,0,乔治镇,7.7,7.3,7.1
+中餐厅,荔苑,荔苑,230,双子塔,8.0,7.5,7.8
+中餐厅,Din Tai Fung Pavilion KL,Din Tai Fung Pavilion KL,0,金三角/武吉免登,0.0,0.0,0.0
+中餐厅,林记沙煲肉骨茶,林记沙煲肉骨茶,0,全城,8.2,7.5,8.2
+中餐厅,海外天大饭店,海外天大饭店,0,,7.9,7.9,7.9
+中餐厅,kiki,kiki,0,,7.1,7.4,7.4
+中餐厅,点心苑,点心苑,0,,8.3,8.3,8.3
+中餐厅,槐记赛味烧腊,槐记赛味烧腊,0,槟城其他,8.2,6.1,7.5
+中餐厅,顺发肉骨茶,顺发肉骨茶,0,新山城市中心,7.5,6.6,7.2
+中餐厅,兰卡威鱼市场,兰卡威鱼市场,0,兰卡威其他,7.0,7.0,7.0
+中餐厅,小肥羊火锅吉隆坡,小肥羊火锅吉隆坡,0,武吉免登,7.5,7.4,7.4
+中餐厅,东庭,东庭,0,吉隆坡近郊,7.4,7.3,7.4
+中餐厅,红辣椒川菜火锅城,红辣椒川菜火锅城,0,吉隆坡市南,7.6,6.7,7.2
+中餐厅,寿司轨道涮涮锅,寿司轨道涮涮锅,0,槟城其他,7.5,7.5,7.5
+中餐厅,Fatty Crab Restaurant,Fatty Crab Restaurant,0,,0.0,0.0,0.0
+中餐厅,家香生肉面,家香生肉面,0,,7.5,7.3,7.3
+中餐厅,胜记瓦煲老鼠粉,胜记瓦煲老鼠粉,0,吉隆坡唐人街,6.7,6.4,6.4
+中餐厅,龙的传人,龙的传人,0,巴彦勒帕,6.4,7.0,6.8
+中餐厅,冠记云吞面,冠记云吞面,0,,7.3,5.9,7.3
+中餐厅,香港金加利茶餐厅,香港金加利茶餐厅,0,吉隆坡唐人街,7.3,6.8,6.9
+中餐厅,阿一鲍鱼,阿一鲍鱼,0,小印度及其周边,7.2,7.2,7.2
+中餐厅,北栈,北栈,0,全城,7.6,7.5,7.4
+中餐厅,西门町-台湾风味小食,西门町-台湾风味小食,0,槟城其他,7.5,7.5,7.5
+中餐厅,峰粥,峰粥,0,,8.2,8.2,8.2
+中餐厅,翠恒酒家,翠恒酒家,0,其他城市,7.1,6.8,7.0
+中餐厅,新奇珍,新奇珍,0,中央火车站周边,0.0,0.0,0.0
+中餐厅,一风堂拉面,一风堂拉面,0,武吉免登,8.4,8.4,8.4
+中餐厅,川菜馆,川菜馆,0,,7.4,7.4,7.4
+中餐厅,Hakka Restaurant,Hakka Restaurant,0,双子塔,0.0,0.0,0.0
+中餐厅,齐齐滚火锅,齐齐滚火锅,0,吉隆坡市南,7.1,7.1,7.1
+中餐厅,Hong Kong Food Culture,Hong Kong Food Culture,0,金三角/武吉免登,8.3,8.3,8.3
+中餐厅,小槟城美食馆,小槟城美食馆,0,双子塔,0.0,0.0,0.0
+中餐厅,中环美食中心,中环美食中心,0,,6.7,6.7,6.7
+中餐厅,猪脚王,猪脚王,0,沙巴其他,7.7,7.7,7.7
+中餐厅,龙记为食街,龙记为食街,0,金三角/武吉免登,7.0,7.0,7.1
+中餐厅,粥杰伦,粥杰伦,0,,6.9,6.9,6.9
+中餐厅,Shang Palac,Shang Palac,0,,8.2,8.2,8.2
+中餐厅,笼的传人北京烤鸭,笼的传人北京烤鸭,0,,7.2,7.2,7.2
+中餐厅,Pot村中餐厅,Pot村中餐厅,0,,6.9,7.0,7.0
+中餐厅,一品湘,一品湘,0,,7.2,7.7,7.2
+中餐厅,丽雅四川菜馆,丽雅四川菜馆,0,沙巴,7.3,7.3,7.3
+中餐厅,Din Tai Fung (The Gardens),Din Tai Fung (The Gardens),0,吉隆坡唐人街,0.0,0.0,0.0
+中餐厅,何荣记,何荣记,0,,6.8,7.2,7.2
+中餐厅,雅轩Elegant Inn,雅轩Elegant Inn,0,双子塔,7.0,7.0,7.0
+中餐厅,Penang One,Penang One,0,,6.9,6.9,6.9
+中餐厅,Kitchen Village @ PRIMA AVE,Kitchen Village @ PRIMA AVE,0,,6.8,7.1,7.1
+中餐厅,李叔叔私厨,李叔叔私厨,0,,8.0,8.0,8.0
+中餐厅,San Hui Wei ResTaurAnt,San Hui Wei ResTaurAnt,0,,6.7,6.9,7.0
+中餐厅,地道美食,地道美食,0,中央火车站周边,7.5,7.5,6.7
+中餐厅,Makan Kitchen at DoubleTree by Hilton Hotel,Makan Kitchen at DoubleTree by Hilton Hotel,0,双子塔,0.0,0.0,0.0
+中餐厅,Overseas Restaurant,Overseas Restaurant,0,金三角/武吉免登,0.0,0.0,0.0
+中餐厅,Celestial Court,Celestial Court,0,小印度及其周边,0.0,0.0,0.0
+中餐厅,76号公馆私房菜,76号公馆私房菜,0,,7.1,7.1,7.1
+中餐厅,潮顺龙栈,潮顺龙栈,0,马六甲,7.1,7.0,7.1
+中餐厅,趣台北,趣台北,0,,7.1,7.0,7.1
+中餐厅,老招牌枫林品鲜馆,老招牌枫林品鲜馆,0,小印度及其周边,6.9,7.1,6.9
+中餐厅,Lohas Vegetarian Bistro,Lohas Vegetarian Bistro,0,其他城市,7.0,7.0,7.0
+中餐厅,Uncle Lim's Kitchen,Uncle Lim's Kitchen,0,其他城市,7.0,7.0,7.0
+中餐厅,海南餐厅,海南餐厅,0,小印度及其周边,6.9,6.9,6.9
+中餐厅,广西仔,广西仔,0,,6.9,6.9,6.9
+中餐厅,简铺寨土菜馆,简铺寨土菜馆,0,,6.9,6.9,6.9
+中餐厅,大肥罗Fatty Loh Chicken Rice,大肥罗Fatty Loh Chicken Rice,0,,6.7,7.4,7.4
+中餐厅,banana餐厅,banana餐厅,0,,6.7,6.7,7.4
+中餐厅,慧玲美味食馆,慧玲美味食馆,0,金三角/武吉免登,7.4,7.4,7.4
+中餐厅,荣茂茶室,荣茂茶室,0,其他城市,7.1,6.7,6.9
+中餐厅,Good Taste Restaurant,Good Taste Restaurant,0,,0.0,0.0,0.0
+中餐厅,皇宫海鲜酒家,皇宫海鲜酒家,0,双子塔,6.7,6.7,6.7
+中餐厅,Ah Yat abalone,Ah Yat abalone,0,双子塔,0.0,0.0,0.0
+中餐厅,The Chinese Restaurant,The Chinese Restaurant,0,,0.0,0.0,0.0
+中餐厅,Soohongry,Soohongry,0,槟城其他,0.0,0.0,0.0
+中餐厅,Kedai Kopi Wah Juan,Kedai Kopi Wah Juan,0,,0.0,0.0,0.0
+中餐厅,Five Sen5es,Five Sen5es,0,金三角/武吉免登,0.0,0.0,0.0
+中餐厅,Cafe Little Angel,Cafe Little Angel,0,槟城其他,0.0,0.0,0.0
+中餐厅,Madam Kwan's,Madam Kwan's,0,双子塔,0.0,0.0,0.0
+中餐厅,Penang Food Centre,Penang Food Centre,0,,0.0,0.0,0.0
+中餐厅,Hai Boey,Hai Boey,0,巴彦勒帕,0.0,0.0,0.0
+中餐厅,Restoran Sek Yuen,Restoran Sek Yuen,0,吉隆坡市南,0.0,0.0,0.0
+中餐厅,Sunshine Bay Seafood Restaurant,Sunshine Bay Seafood Restaurant,0,丹戎Bungah,0.0,0.0,0.0
+中餐厅,Taynton Fish Head Noodle,Taynton Fish Head Noodle,0,吉隆坡市南,0.0,0.0,0.0
+中餐厅,Kin Kin Restaurant,Kin Kin Restaurant,0,太子世界贸易中心,0.0,0.0,0.0
+中餐厅,Fong Lye Tea House,Fong Lye Tea House,0,吉隆坡唐人街,0.0,0.0,0.0
+中餐厅,Happy Garden,Happy Garden,0,槟城其他,0.0,0.0,0.0
+中餐厅,De Tai Tong Dim Sum Restaurant,De Tai Tong Dim Sum Restaurant,0,槟城其他,0.0,0.0,0.0
+中餐厅,Boatman Restaurant,Boatman Restaurant,0,槟城其他,0.0,0.0,0.0
+中餐厅,Papa's Nyonya House,Papa's Nyonya House,0,槟城其他,0.0,0.0,0.0
+中餐厅,Golden River,Golden River,0,槟城其他,0.0,0.0,0.0
+中餐厅,Pavilion,Pavilion,0,槟城其他,0.0,0.0,0.0
+中餐厅,Super Tanker,Super Tanker,0,沙巴其他,0.0,0.0,0.0
+中餐厅,Lai Po Heen,Lai Po Heen,0,双子塔,0.0,0.0,0.0
+中餐厅,Li Yen,Li Yen,0,金三角/武吉免登,0.0,0.0,0.0
+中餐厅,Harbour Garden Cafe,Harbour Garden Cafe,0,沙巴其他,0.0,0.0,0.0
+中餐厅,Din Tai Fung,Din Tai Fung,0,金三角/武吉免登,7.0,7.0,7.0
+中餐厅,Gam Tong HONGKONG restaurant,Gam Tong HONGKONG restaurant,0,,0.0,0.0,0.0
+中餐厅,1881 Chong Tian Hotel,1881 Chong Tian Hotel,0,槟城其他,0.0,0.0,0.0
+中餐厅,Chi Hao Dian Dim Sum Yum Cha,Chi Hao Dian Dim Sum Yum Cha,0,吉隆坡市南,0.0,0.0,0.0
+中餐厅,Home Style Restaurant,Home Style Restaurant,0,槟城其他,0.0,0.0,0.0
+中餐厅,Sea Pearl Lagoon Cafe,Sea Pearl Lagoon Cafe,0,槟城其他,0.0,0.0,0.0
+中餐厅,New Man Tai,New Man Tai,0,,0.0,0.0,0.0
+中餐厅,Dragon-i,Dragon-i,0,槟城其他,0.0,0.0,0.0
+中餐厅,Shanghai,Shanghai,0,金三角/武吉免登,0.0,0.0,0.0
+中餐厅,Shang Palace,Shang Palace,0,太子世界贸易中心,0.0,0.0,0.0
+中餐厅,Ming Ge Cafe,Ming Ge Cafe,0,,0.0,0.0,0.0
+中餐厅,See Kong Ooi Restaurant,See Kong Ooi Restaurant,0,槟城其他,0.0,0.0,0.0
+中餐厅,Sun Yoon Kee Restaurant,Sun Yoon Kee Restaurant,0,槟城其他,0.0,0.0,0.0
+中餐厅,Chin Bee Tea Restaurant,Chin Bee Tea Restaurant,0,槟城其他,0.0,0.0,0.0
+中餐厅,Siang Pin,Siang Pin,0,槟城其他,0.0,0.0,0.0
+中餐厅,Chynna,Chynna,0,小印度及其周边,0.0,0.0,0.0
+中餐厅,Starview,Starview,0,槟城其他,0.0,0.0,0.0
+中餐厅,Mary's Garden Restaurant,Mary's Garden Restaurant,0,槟城其他,0.0,0.0,0.0
+中餐厅,May Garden Palace,May Garden Palace,0,槟城其他,0.0,0.0,0.0
+中餐厅,Leslie Cafe,Leslie Cafe,0,,0.0,0.0,0.0
+中餐厅,Port View Seafood Village,Port View Seafood Village,0,,0.0,0.0,0.0
+中餐厅,Penang One,Penang One,0,,7.0,7.0,7.0
+中餐厅,La Cucur,La Cucur,0,双子塔,7.0,7.0,7.1
+中餐厅,Oriental Seafood Gurney,Oriental Seafood Gurney,0,槟城其他,0.0,0.0,0.0
+中餐厅,Chin's Stylish Chinese Cuisine,Chin's Stylish Chinese Cuisine,0,槟城其他,0.0,0.0,0.0
+中餐厅,Xing Wan Pan Mien,Xing Wan Pan Mien,0,,0.0,0.0,0.0
+中餐厅,Harbour Steamboat,Harbour Steamboat,0,吉隆坡近郊,0.0,0.0,0.0
+中餐厅,Penang One,Penang One,0,,7.1,6.8,6.8
+中餐厅,鼎泰丰(The Gardens Branch),鼎泰丰(The Gardens Branch),0,吉隆坡近郊,0.0,0.0,0.0
+中餐厅,北京烤鸭,北京烤鸭,0,全城,0.0,0.0,0.0
+中餐厅,Kim MA Chinese Restaurant,Kim MA Chinese Restaurant,0,,0.0,0.0,0.0
+中餐厅,Chef Loong Hong Kong Dessert & Shanghai Cuisine,Chef Loong Hong Kong Dessert & Shanghai Cuisine,0,,0.0,0.0,0.0
+中餐厅,Poh Kee Hong Kong Bbq,Poh Kee Hong Kong Bbq,0,吉隆坡唐人街,0.0,0.0,0.0
+中餐厅,Marco Polo Restaurant,Marco Polo Restaurant,0,双子塔,0.0,0.0,0.0
+中餐厅,东方茶餐厅,东方茶餐厅,0,,0.0,0.0,0.0
+中餐厅,天鼎香,天鼎香,0,,0.0,0.0,0.0
+中餐厅,Elegant Inn Hong Kong Cuisine,Elegant Inn Hong Kong Cuisine,0,双子塔,0.0,0.0,0.0
+中餐厅,龙顺潮潮州菜,龙顺潮潮州菜,0,全城,0.0,0.0,0.0
+中餐厅,Beijing Roasted Duck,Beijing Roasted Duck,0,吉隆坡市南,0.0,0.0,0.0
+中餐厅,阿姨老鼠粉,阿姨老鼠粉,0,,0.0,0.0,0.0
+中餐厅,伸波士頓餐室,伸波士頓餐室,0,,0.0,0.0,0.0
+中餐厅,Toh Lee Chinese Restaurant,Toh Lee Chinese Restaurant,0,双子塔,0.0,0.0,0.0
+中餐厅,家嫂肉菇板面,家嫂肉菇板面,0,,0.0,0.0,0.0
+中餐厅,Hong Kong Express,Hong Kong Express,0,,0.0,0.0,0.0
+中餐厅,Spring Valley Chinese Restaurant,Spring Valley Chinese Restaurant,0,吉隆坡唐人街,0.0,0.0,0.0
+中餐厅,Sunrise ResTaurAnt,Sunrise ResTaurAnt,0,,0.0,0.0,0.0
+中餐厅,胜记瓦煲老鼠粉,胜记瓦煲老鼠粉,0,吉隆坡唐人街,0.0,0.0,0.0
+中餐厅,裔記豬腸粉,裔記豬腸粉,0,,0.0,0.0,0.0
+中餐厅,House of China Kepong,House of China Kepong,0,黑风洞,0.0,0.0,0.0
+中餐厅,ResTaurAnt Char Siew Yoong,ResTaurAnt Char Siew Yoong,0,吉隆坡市南,0.0,0.0,0.0
+中餐厅,三友(沙登)酒家,三友(沙登)酒家,0,其他城市,0.0,0.0,0.0
+中餐厅,一品湘,一品湘,0,其他城市,0.0,0.0,0.0
+中餐厅,Char Koay Teow,Char Koay Teow,0,乔治镇,0.0,0.0,0.0
+中餐厅,Xin Cuisine Chinese Restaurant,Xin Cuisine Chinese Restaurant,0,双子塔,0.0,0.0,0.0
+中餐厅,Ampang Food House,Ampang Food House,0,,0.0,0.0,0.0
+中餐厅,Wu Jia Chinese Cuisine,Wu Jia Chinese Cuisine,0,,0.0,0.0,0.0
+中餐厅,Sister s Char Koay Teow @ Lam Heng Cafe,Sister s Char Koay Teow @ Lam Heng Cafe,0,乔治镇,0.0,0.0,0.0
+中餐厅,Tiger Char Koay Teow @ Rio Hotel,Tiger Char Koay Teow @ Rio Hotel,0,乔治镇,0.0,0.0,0.0
+中餐厅,Ee Chinese Cuisine Restaurant,Ee Chinese Cuisine Restaurant,0,,0.0,0.0,0.0
+中餐厅,开心食馆,开心食馆,0,金三角/武吉免登,0.0,0.0,0.0
+中餐厅,West Lake Garden Chinese Restaurant,West Lake Garden Chinese Restaurant,0,,0.0,0.0,0.0
+中餐厅,成佳手工西刀鱼丸,成佳手工西刀鱼丸,0,全城,0.0,0.0,0.0
+中餐厅,New ShangHai @ Pavilion KL,New ShangHai @ Pavilion KL,0,双子塔,0.0,0.0,0.0
+中餐厅,好味馆(冷气)海鲜饭店,好味馆(冷气)海鲜饭店,0,吉隆坡市南,0.0,0.0,0.0
+中餐厅,丽雅四川菜馆,丽雅四川菜馆,0,亚庇市中心,0.0,0.0,0.0
+中餐厅,Precious Old China,Precious Old China,0,吉隆坡唐人街,0.0,0.0,0.0
+中餐厅,手工面,手工面,0,亚庇市区,0.0,0.0,0.0
+中餐厅,Shanghai Restaurant,Shanghai Restaurant,0,金三角/武吉免登,0.0,0.0,0.0
+中餐厅,Xuang Xi Chinese Restaurant,Xuang Xi Chinese Restaurant,0,太子世界贸易中心,0.0,0.0,0.0
+中餐厅,Royal China,Royal China,0,双子塔,0.0,0.0,0.0
+中餐厅,Qing Zhen Chinese Restaurant,Qing Zhen Chinese Restaurant,0,双子塔,0.0,0.0,0.0
+中餐厅,大丰收,大丰收,0,其他城市,0.0,0.0,0.0
+中餐厅,River Garden Chinese Cuisine @ Jalan Ipoh天河,River Garden Chinese Cuisine @ Jalan Ipoh天河,0,吉隆坡市北,0.0,0.0,0.0
+中餐厅,Jin Xuan Hong Kong Dim Sum @ Kuchai Lama,Jin Xuan Hong Kong Dim Sum @ Kuchai Lama,0,吉隆坡市南,0.0,0.0,0.0
+中餐厅,Siam Road Char Koay Teow,Siam Road Char Koay Teow,0,乔治镇,0.0,0.0,0.0
+中餐厅,Koay Teow Guan @ Kafe Heng Huat,Koay Teow Guan @ Kafe Heng Huat,0,乔治镇,0.0,0.0,0.0
+中餐厅,Kafe Khoon Hiang,Kafe Khoon Hiang,0,乔治镇,0.0,0.0,0.0
+中餐厅,Johnny Rockets,Johnny Rockets,0,,0.0,0.0,0.0
+中餐厅,Hajime,Hajime,0,双子塔,0.0,0.0,0.0
+中餐厅,Restoran Talipon,Restoran Talipon,0,吉隆坡市南,0.0,0.0,0.0
+中餐厅,Hong Kong Dessert 甜品哥哥,Hong Kong Dessert 甜品哥哥,0,黑风洞,0.0,0.0,0.0
+中餐厅,大姑云吞面,大姑云吞面,0,,0.0,0.0,0.0
+中餐厅,龙宫海鲜酒楼,龙宫海鲜酒楼,0,双子塔,0.0,0.0,0.0
+中餐厅,HongKong Noodles House,HongKong Noodles House,0,古晋,0.0,0.0,0.0
+中餐厅,Emperor Q Chinese Restaurant,Emperor Q Chinese Restaurant,0,金三角/武吉免登,0.0,0.0,0.0
+中餐厅,Zhia's Kitchen Chinese Cuisine,Zhia's Kitchen Chinese Cuisine,0,,0.0,0.0,0.0
+中餐厅,You You Chinese Dining @ The Weld,You You Chinese Dining @ The Weld,0,双子塔,0.0,0.0,0.0
+中餐厅,Li Yen Chinese Restaurant 麗苑,Li Yen Chinese Restaurant 麗苑,0,金三角/武吉免登,0.0,0.0,0.0
+中餐厅,harbour steamboat,harbour steamboat,0,吉隆坡近郊,0.0,0.0,0.0
+日韩料理,上閤屋,上閤屋,180,吉隆坡近郊,7.0,7.5,7.3
+日韩料理,Unkaizan Japanese Restaurant,Unkaizan Japanese Restaurant,0,,8.0,7.5,8.1
+日韩料理,首尔花园餐厅,首尔花园餐厅,0,乔治镇,7.5,7.6,8.0
+日韩料理,Hokkaido Ramen Santouka,Hokkaido Ramen Santouka,0,金三角/武吉免登,0.0,0.0,0.0
+日韩料理,寿司王,寿司王,0,其他城市,6.7,6.8,6.7
+日韩料理,Manmaru Homemade Udon,Manmaru Homemade Udon,0,吉隆坡唐人街,0.0,0.0,0.0
+日韩料理,将军日式自助餐厅,将军日式自助餐厅,0,,7.1,7.1,7.1
+日韩料理,美子日式涮涮锅,美子日式涮涮锅,0,,7.0,7.0,7.0
+日韩料理,Sakae Sushi,Sakae Sushi,0,槟城其他,6.7,6.7,6.7
+日韩料理,Da On Fine Korean Cuisine,Da On Fine Korean Cuisine,0,吉隆坡近郊,0.0,0.0,0.0
+日韩料理,Daorea Korean BBQ,Daorea Korean BBQ,0,吉隆坡市北,0.0,0.0,0.0
+日韩料理,槟城国际贵都大酒店餐厅,槟城国际贵都大酒店餐厅,0,双子塔,0.0,0.0,0.0
+日韩料理,山小屋,山小屋,0,,7.0,7.0,7.0
+日韩料理,Yo! Sushi,Yo! Sushi,0,吉隆坡唐人街,6.9,6.9,6.9
+日韩料理,Hi Seoul Korean Restaurant,Hi Seoul Korean Restaurant,0,,7.0,7.0,7.0
+日韩料理,Tokyo TepPen,Tokyo TepPen,0,金三角/武吉免登,6.9,6.9,6.9
+日韩料理,寿司王,寿司王,0,,8.1,8.1,8.1
+日韩料理,Shogun Japanese Buffet Restaurant,Shogun Japanese Buffet Restaurant,0,,6.8,6.5,6.5
+日韩料理,Hanare Authentic Japanese Cuisine,Hanare Authentic Japanese Cuisine,0,太子世界贸易中心,0.0,0.0,0.0
+日韩料理,Izakaya Shuraku,Izakaya Shuraku,0,吉隆坡市北,0.0,0.0,0.0
+日韩料理,"Sushi Tei, Pavilion Kuala Lumpur","Sushi Tei, Pavilion Kuala Lumpur",0,金三角/武吉免登,0.0,0.0,0.0
+日韩料理,Gonbei,Gonbei,0,金三角/武吉免登,0.0,0.0,0.0
+日韩料理,Fukuya,Fukuya,0,双子塔,0.0,0.0,0.0
+日韩料理,Oh Sushi,Oh Sushi,0,槟城其他,0.0,0.0,0.0
+日韩料理,Senya Dining @ Isetan KLCC,Senya Dining @ Isetan KLCC,0,吉隆坡近郊,0.0,0.0,0.0
+日韩料理,Senya Izakaya Jln P.Ramlee,Senya Izakaya Jln P.Ramlee,0,吉隆坡市南,0.0,0.0,0.0
+日韩料理,Mr. Dakgalbi,Mr. Dakgalbi,0,吉隆坡市北,0.0,0.0,0.0
+日韩料理,Ippudo,Ippudo,0,金三角/武吉免登,7.1,7.1,7.1
+日韩料理,Sushi King,Sushi King,0,太子世界贸易中心,7.0,7.0,7.0
+日韩料理,The Spice Market Cafe,The Spice Market Cafe,0,槟城其他,0.0,0.0,0.0
+日韩料理,Wasabi Bistro at Mandarin Oriental,Wasabi Bistro at Mandarin Oriental,0,双子塔,0.0,0.0,0.0
+日韩料理,Contango,Contango,0,双子塔,0.0,0.0,0.0
+日韩料理,Hokkaido Ichiba,Hokkaido Ichiba,0,吉隆坡唐人街,0.0,0.0,0.0
+日韩料理,Ozeki Tokyo Cuisine,Ozeki Tokyo Cuisine,0,双子塔,0.0,0.0,0.0
+日韩料理,Kingyo,Kingyo,0,双子塔,6.9,6.9,6.9
+日韩料理,Menya Musashi,Menya Musashi,0,双子塔,7.1,7.0,7.0
+日韩料理,Sushi Tei,Sushi Tei,0,吉隆坡市南,6.9,6.9,6.9
+日韩料理,Wasabi,Wasabi,0,吉隆坡唐人街,0.0,0.0,0.0
+日韩料理,Sakae Sushi,Sakae Sushi,0,,6.7,6.7,6.9
+日韩料理,Sakae Sushi,Sakae Sushi,0,,7.1,7.1,7.1
+日韩料理,Aji Noren Japanese Restaurant,Aji Noren Japanese Restaurant,0,丹戎Bungah,0.0,0.0,0.0
+日韩料理,Iketeru Restaurant,Iketeru Restaurant,0,中央火车站周边,0.0,0.0,0.0
+日韩料理,Zipangu,Zipangu,0,双子塔,0.0,0.0,0.0
+日韩料理,Bulgogi Brothers,Bulgogi Brothers,0,金三角/武吉免登,0.0,0.0,0.0
+日韩料理,Soba Yoshi Japanese Noodle Restaurant,Soba Yoshi Japanese Noodle Restaurant,0,槟城其他,0.0,0.0,0.0
+日韩料理,Kampachi,Kampachi,0,金三角/武吉免登,0.0,0.0,0.0
+日韩料理,Watami,Watami,0,吉隆坡近郊,0.0,0.0,0.0
+日韩料理,Xuan Feng Restaurant,Xuan Feng Restaurant,0,巴彦勒帕,0.0,0.0,0.0
+日韩料理,Sushi Zanmai,Sushi Zanmai,0,吉隆坡唐人街,0.0,0.0,0.0
+日韩料理,"Ichiban Boshi, Pavillion KL","Ichiban Boshi, Pavillion KL",0,金三角/武吉免登,0.0,0.0,0.0
+日韩料理,Hisago Modern Japanese Restaurant,Hisago Modern Japanese Restaurant,0,槟城其他,0.0,0.0,0.0
+日韩料理,Sushi King,Sushi King,0,黑风洞,7.0,6.9,6.9
+日韩料理,Sakae Sushi,Sakae Sushi,0,中央火车站周边,7.1,6.8,7.1
+日韩料理,Sakae Sushi,Sakae Sushi,0,,6.8,6.8,6.8
+日韩料理,Miraku Restaurant,Miraku Restaurant,0,槟城其他,0.0,0.0,0.0
+日韩料理,Sakana Japanese Restaurant,Sakana Japanese Restaurant,0,槟城其他,0.0,0.0,0.0
+日韩料理,NEW KOREAN FOODS SDN BHD,NEW KOREAN FOODS SDN BHD,0,丹戎Bungah,0.0,0.0,0.0
+日韩料理,Gurney ABC Hawker,Gurney ABC Hawker,0,槟城其他,0.0,0.0,0.0
+日韩料理,Kampachi Japanese Restaurant,Kampachi Japanese Restaurant,0,槟城其他,0.0,0.0,0.0
+日韩料理,Kannichikan Yakiniku Restaurant,Kannichikan Yakiniku Restaurant,0,丹戎Bungah,0.0,0.0,0.0
+日韩料理,Ippudo,Ippudo,0,吉隆坡唐人街,7.0,7.1,7.0
+日韩料理,Mizumi Japanese Restaurant,Mizumi Japanese Restaurant,0,,0.0,0.0,0.0
+日韩料理,Kampachi Japanese Restaurant,Kampachi Japanese Restaurant,0,金三角/武吉免登,0.0,0.0,0.0
+日韩料理,Kan Chiku Japanese Restaurant,Kan Chiku Japanese Restaurant,0,双子塔,0.0,0.0,0.0
+日韩料理,UNKAN,UNKAN,0,,0.0,0.0,0.0
+日韩料理,Rakuzen Japanese Restaurant @ GTower,Rakuzen Japanese Restaurant @ GTower,0,双子塔,0.0,0.0,0.0
+日韩料理,Tatsu Japanese Restaurant @ InterContinental KL,Tatsu Japanese Restaurant @ InterContinental KL,0,双子塔,0.0,0.0,0.0
+日韩料理,Michi Japanese Restaurant 1 Borneo Hypermall,Michi Japanese Restaurant 1 Borneo Hypermall,0,,0.0,0.0,0.0
+日韩料理,Koreana Restaurant,Koreana Restaurant,0,,0.0,0.0,0.0
+日韩料理,Sakae Sushi,Sakae Sushi,0,槟城其他,0.0,0.0,0.0
+日韩料理,Benkay Japanese Restaurant,Benkay Japanese Restaurant,0,双子塔,0.0,0.0,0.0
+日韩料理,San Nae Deul,San Nae Deul,0,,0.0,0.0,0.0
+日韩料理,Menya Musashi,Menya Musashi,0,,0.0,0.0,0.0
+日韩料理,日式料理,日式料理,0,,0.0,0.0,0.0
+日韩料理,Waka Japanese Restaurant,Waka Japanese Restaurant,0,槟城其他,0.0,0.0,0.0
+日韩料理,KIKI Japanese Restaurant,KIKI Japanese Restaurant,0,吉隆坡市南,0.0,0.0,0.0
+日韩料理,Hanare Japanese Restaurant,Hanare Japanese Restaurant,0,双子塔,0.0,0.0,0.0
+日韩料理,Sushi Zanmai,Sushi Zanmai,0,吉隆坡唐人街,0.0,0.0,0.0
+日韩料理,Taiyo Japanese Restaurant,Taiyo Japanese Restaurant,0,双子塔,0.0,0.0,0.0
+日韩料理,Umai-Ya Japanese Restaurant @ KLCC,Umai-Ya Japanese Restaurant @ KLCC,0,双子塔,0.0,0.0,0.0
+日韩料理,Sushi King @ Suria KLCC,Sushi King @ Suria KLCC,0,双子塔,0.0,0.0,0.0
+日韩料理,Sagano Japanese Restaurant,Sagano Japanese Restaurant,0,双子塔,0.0,0.0,0.0
+日韩料理,SUSHI TEI,SUSHI TEI,0,,0.0,0.0,0.0
+日韩料理,Genji Japanese Restaurant,Genji Japanese Restaurant,0,,0.0,0.0,0.0
+日韩料理,Shimino Japanese Crepes @ Berjaya Times Square,Shimino Japanese Crepes @ Berjaya Times Square,0,双子塔,0.0,0.0,0.0
+日韩料理,Iketeru Restaurant,Iketeru Restaurant,0,吉隆坡近郊,0.0,0.0,0.0
+日韩料理,Kazu Sushi @ Viva Home,Kazu Sushi @ Viva Home,0,吉隆坡市南,0.0,0.0,0.0
+日韩料理,Sakae Sushi,Sakae Sushi,0,槟城其他,0.0,0.0,0.0
+日韩料理,Omitsu Koshi Japanese Restaurant Sdn Bhd,Omitsu Koshi Japanese Restaurant Sdn Bhd,0,,0.0,0.0,0.0
+日韩料理,Sushi Zen,Sushi Zen,0,吉隆坡唐人街,0.0,0.0,0.0
+日韩料理,Nippon Tei Japanese Restaurant,Nippon Tei Japanese Restaurant,0,双子塔,0.0,0.0,0.0
+日韩料理,Ichibantei Japanese Restaurant,Ichibantei Japanese Restaurant,0,,0.0,0.0,0.0
+日韩料理,Woo Lim Jeong Korean BBQ Restaurant友林亭,Woo Lim Jeong Korean BBQ Restaurant友林亭,0,吉隆坡市北,0.0,0.0,0.0
+日韩料理,Waka Japanese Restaurant,Waka Japanese Restaurant,0,槟城其他,0.0,0.0,0.0
+日韩料理,sushi king,sushi king,0,,0.0,0.0,0.0
+日韩料理,Sushi King @ Low Yat Plaza,Sushi King @ Low Yat Plaza,0,金三角/武吉免登,0.0,0.0,0.0
+日韩料理,Koryo Won Korean Restaurant,Koryo Won Korean Restaurant,0,双子塔,0.0,0.0,0.0
+日韩料理,Japanese Restaurant Munakata,Japanese Restaurant Munakata,0,双子塔,0.0,0.0,0.0
+日韩料理,Sushi Zanmai,Sushi Zanmai,0,,0.0,0.0,0.0
+日韩料理,Sushi King @ Suria KLCC,Sushi King @ Suria KLCC,0,双子塔,0.0,0.0,0.0
+日韩料理,Sushi King @ Cheras Leisure Mall,Sushi King @ Cheras Leisure Mall,0,吉隆坡市南,0.0,0.0,0.0
+日韩料理,Korean and Japan Restaurant,Korean and Japan Restaurant,0,黑风洞,0.0,0.0,0.0
+日韩料理,Koganei Japanese Restaurant,Koganei Japanese Restaurant,0,,0.0,0.0,0.0
+日韩料理,Kiku Zakura Japanese Restaurant,Kiku Zakura Japanese Restaurant,0,双子塔,0.0,0.0,0.0
+日韩料理,Sopoong Korean Food,Sopoong Korean Food,0,金三角/武吉免登,0.0,0.0,0.0
+日韩料理,Hobahn Korean Restaurant @ Desa Parkcity,Hobahn Korean Restaurant @ Desa Parkcity,0,黑风洞,0.0,0.0,0.0
+日韩料理,味觉屋,味觉屋,0,,0.0,0.0,0.0
+自助餐,JANG-GUN韩式烧烤,JANG-GUN韩式烧烤,0,,7.1,7.1,7.1
+自助餐,麒麟素食館,麒麟素食館,0,,0.0,0.0,0.0
+酒吧,Skybar,Skybar,0,双子塔,6.8,7.1,7.0
+酒吧,Healy Mac's Irish Pub and Restaurant,Healy Mac's Irish Pub and Restaurant,0,金三角/武吉免登,0.0,0.0,0.0
+酒吧,Zenzi Bar,Zenzi Bar,0,,7.5,7.5,7.5
+酒吧,Velvet Bar & Grill,Velvet Bar & Grill,0,,6.9,7.5,7.5
+酒吧,upstar,upstar,0,,7.4,8.2,7.4
+酒吧,沙巴香格里拉日落酒吧,沙巴香格里拉日落酒吧,0,,8.4,8.4,8.4
+酒吧,拉古娜沙滩酒吧,拉古娜沙滩酒吧,0,,8.0,8.1,8.1
+酒吧,水龙头啤酒吧,水龙头啤酒吧,0,金三角/武吉免登,0.0,0.0,0.0
+酒吧,Boost Juice Bars,Boost Juice Bars,0,双子塔,7.5,7.5,7.5
+酒吧,胖男孩的汉堡酒吧,胖男孩的汉堡酒吧,0,,8.0,8.0,8.0
+酒吧,cock&bull,cock&bull,0,,7.1,6.9,6.9
+酒吧,BB cafe,BB cafe,0,沙巴其他,7.4,8.1,7.4
+酒吧,Dice And Coffee,Dice And Coffee,0,,6.9,6.9,6.9
+酒吧,Bar B Q Plaza,Bar B Q Plaza,0,吉隆坡市北,7.4,7.4,6.8
+酒吧,Labuan InTernational Golf Club,Labuan InTernational Golf Club,0,,7.3,7.3,7.3
+酒吧,Why Not Kitchen + Bar,Why Not Kitchen + Bar,0,双子塔,6.8,6.8,7.2
+酒吧,Pinchos Tapas Bar,Pinchos Tapas Bar,0,金三角/武吉免登,7.1,7.0,7.1
+酒吧,Neway Karaoke Box,Neway Karaoke Box,0,吉隆坡市南,7.1,7.1,7.1
+酒吧,Bora Bora by Sunset,Bora Bora by Sunset,0,槟城其他,0.0,0.0,0.0
+酒吧,Acme Bar & Coffee at The Troika,Acme Bar & Coffee at The Troika,0,双子塔,0.0,0.0,0.0
+酒吧,Hakka Republic Wine Bar & Bistro,Hakka Republic Wine Bar & Bistro,0,双子塔,0.0,0.0,0.0
+酒吧,Eleven,Eleven,0,全城,7.2,7.2,7.2
+酒吧,Balin Roof Garden Bar & Bistro,Balin Roof Garden Bar & Bistro,0,,0.0,0.0,0.0
+酒吧,The Patio Bar and Lounge,The Patio Bar and Lounge,0,,6.9,6.9,7.1
+酒吧,Bintang Cafe and Restaurant,Bintang Cafe and Restaurant,0,沙巴其他,0.0,0.0,0.0
+酒吧,Bentley's Pub,Bentley's Pub,0,双子塔,6.9,6.9,6.9
+酒吧,"Table No.1, Tanjung Aru","Table No.1, Tanjung Aru",0,,0.0,0.0,0.0
+酒吧,SoHo Freehouse,SoHo Freehouse,0,,7.0,7.0,6.9
+酒吧,The Pub,The Pub,0,双子塔,6.9,6.9,6.9
+酒吧,Chez Papa French Bistro and Wine Bar,Chez Papa French Bistro and Wine Bar,0,,7.2,7.2,7.2
+酒吧,View Bar,View Bar,0,双子塔,7.0,6.9,7.0
+酒吧,Poodoo,Poodoo,0,吉隆坡市南,0.0,0.0,0.0
+酒吧,The Cellar - Macalister Mansion,The Cellar - Macalister Mansion,0,槟城其他,0.0,0.0,0.0
+酒吧,El Faro Tapas Bar And Wine,El Faro Tapas Bar And Wine,0,槟城其他,0.0,0.0,0.0
+酒吧,The Pressroom Bistro,The Pressroom Bistro,0,吉隆坡近郊,0.0,0.0,0.0
+酒吧,Canteloupe at Troika Sky Dining,Canteloupe at Troika Sky Dining,0,双子塔,7.2,7.2,7.2
+酒吧,The Magnificent Fish & Chips Bar,The Magnificent Fish & Chips Bar,0,金三角/武吉免登,0.0,0.0,0.0
+酒吧,Starbucks,Starbucks,0,格尼车道,0.0,0.0,0.0
+酒吧,El Cactus Bistro and Bar,El Cactus Bistro and Bar,0,,7.2,7.2,7.2
+酒吧,"MO Bar at Mandarin Oriental, Kuala Lumpur","MO Bar at Mandarin Oriental, Kuala Lumpur",0,双子塔,6.9,7.1,7.0
+酒吧,Nueve,Nueve,0,槟城其他,0.0,0.0,0.0
+酒吧,Bergie Evergreen Bar and Restaurant,Bergie Evergreen Bar and Restaurant,0,金三角/武吉免登,6.9,6.9,6.9
+酒吧,The School Bus,The School Bus,0,中央火车站周边,6.9,6.9,6.9
+酒吧,Aloha delicatessen.bakery,Aloha delicatessen.bakery,0,,7.1,7.1,7.1
+酒吧,Pool Bar at The Ritz-Carlton,Pool Bar at The Ritz-Carlton,0,金三角/武吉免登,6.9,6.9,6.9
+酒吧,Shucked Oyster and Seafood Bar,Shucked Oyster and Seafood Bar,0,吉隆坡市北,7.1,7.1,7.1
+酒吧,Monkey Bar,Monkey Bar,0,,6.9,6.9,6.9
+酒吧,Delaney's The Irish Pub,Delaney's The Irish Pub,0,金三角/武吉免登,7.1,7.1,7.0
+酒吧,Whisk Espresso Bar and Bake Shop,Whisk Espresso Bar and Bake Shop,0,,7.0,7.0,7.0
+酒吧,Temptations Kitchen + Bar,Temptations Kitchen + Bar,0,金三角/武吉免登,7.0,6.9,7.1
+酒吧,The Porterhouse Pub and Bistro,The Porterhouse Pub and Bistro,0,,7.0,7.0,7.0
+酒吧,Paradise Dynasty,Paradise Dynasty,0,中央火车站周边,7.0,7.0,7.0
+酒吧,Saloon Bar,Saloon Bar,0,吉隆坡近郊,7.0,7.0,7.0
+酒吧,Bones Raw Bar,Bones Raw Bar,0,雪邦/吉隆坡国际机场,6.9,6.9,6.9
+酒吧,Reggae Club,Reggae Club,0,,7.1,7.1,7.1
+酒吧,Acme Bar and Coffee,Acme Bar and Coffee,0,双子塔,0.0,0.0,0.0
+酒吧,Subang Chili's Bar and Grill,Subang Chili's Bar and Grill,0,,6.9,6.9,7.0
+酒吧,One63 European Bistro and Bar,One63 European Bistro and Bar,0,,7.1,7.1,7.1
+酒吧,Banker's Club,Banker's Club,0,金三角/武吉免登,6.9,6.9,6.9
+酒吧,The Shack,The Shack,0,槟城其他,0.0,0.0,0.0
+酒吧,O'Coffee Club,O'Coffee Club,0,金三角/武吉免登,6.9,7.0,7.0
+酒吧,Fuego at Troika Sky Dining,Fuego at Troika Sky Dining,0,双子塔,7.0,7.0,7.0
+酒吧,Barfly,Barfly,0,吉隆坡市北,6.9,7.0,7.0
+酒吧,Plan B,Plan B,0,,7.1,6.8,7.1
+酒吧,"Laman Grill steak n Bar B Que,","Laman Grill steak n Bar B Que,",0,,7.1,6.8,7.1
+酒吧,"Fat Boys, The Burger Bar","Fat Boys, The Burger Bar",0,吉隆坡市北,7.1,6.8,7.1
+酒吧,Infusion,Infusion,0,,7.1,7.1,7.1
+酒吧,d'Beach Bistro Bar and Restaurant,d'Beach Bistro Bar and Restaurant,0,,6.9,6.9,6.9
+酒吧,The Grind Burger Bar,The Grind Burger Bar,0,,6.8,7.1,7.1
+酒吧,O'Briens Sandwich Bar,O'Briens Sandwich Bar,0,,6.8,6.8,6.8
+酒吧,D Legends bar,D Legends bar,0,吉隆坡市北,7.1,7.1,7.1
+酒吧,Satay Club,Satay Club,0,雪邦/吉隆坡国际机场,6.9,6.9,6.9
+酒吧,D'Balcony Bistro And Bar,D'Balcony Bistro And Bar,0,吉隆坡市北,6.9,6.9,6.9
+酒吧,Red Corner Restaurant and Bar,Red Corner Restaurant and Bar,0,,7.2,7.2,7.2
+酒吧,LimeLight Rooftop Lounge,LimeLight Rooftop Lounge,0,,7.2,7.2,7.2
+酒吧,Pub the Forest,Pub the Forest,0,,6.9,6.9,6.9
+酒吧,Sid's Pub,Sid's Pub,0,吉隆坡市北,7.1,7.1,7.1
+酒吧,Lilian's Pub and Bar,Lilian's Pub and Bar,0,蒲种,6.9,6.9,6.9
+酒吧,Chinese Recreation Club Restaurant,Chinese Recreation Club Restaurant,0,,7.1,7.0,7.0
+酒吧,Obrien's Irish Sandwich Bar,Obrien's Irish Sandwich Bar,0,双子塔,6.9,6.9,6.9
+酒吧,Buns Burger Bar,Buns Burger Bar,0,吉隆坡市北,6.9,6.9,6.9
+酒吧,Crossover,Crossover,0,,6.9,6.9,6.9
+酒吧,Bar B Q Tonight Malaysia,Bar B Q Tonight Malaysia,0,双子塔,7.0,7.0,7.0
+酒吧,Estilo Spanish Tapas Bar Kuala Lumpur,Estilo Spanish Tapas Bar Kuala Lumpur,0,吉隆坡市北,7.1,7.1,7.1
+酒吧,Wall Street Bar,Wall Street Bar,0,吉隆坡市北,7.0,7.0,6.9
+酒吧,Basil Thai Nudle Bar,Basil Thai Nudle Bar,0,中央火车站周边,6.9,6.9,6.9
+酒吧,Sids Pub,Sids Pub,0,吉隆坡市北,6.9,7.0,7.0
+酒吧,Paradise Grill,Paradise Grill,0,金三角/武吉免登,6.9,6.9,6.9
+酒吧,Bier Bar KL,Bier Bar KL,0,金三角/武吉免登,7.0,7.0,7.0
+酒吧,Mughle Azam Bar n Grill,Mughle Azam Bar n Grill,0,双子塔,7.0,6.9,7.0
+酒吧,Racks Bar and Baby Backs,Racks Bar and Baby Backs,0,金三角/武吉免登,7.1,7.1,7.1
+酒吧,Obrien's Irish Sandwich Bar,Obrien's Irish Sandwich Bar,0,双子塔,6.9,6.9,6.9
+酒吧,Fuzio Bar Kuala Lumpur,Fuzio Bar Kuala Lumpur,0,金三角/武吉免登,7.1,7.1,7.1
+酒吧,Roost Juice Bar,Roost Juice Bar,0,,6.9,6.9,7.1
+酒吧,Grill Bar,Grill Bar,0,,7.2,7.2,7.2
+酒吧,Ruai Bar,Ruai Bar,0,,6.9,6.9,7.1
+酒吧,KAFFA Espresso Bar,KAFFA Espresso Bar,0,,7.2,7.2,7.2
+酒吧,Hadramout Paradise,Hadramout Paradise,0,,7.0,7.0,7.0
+酒吧,Healy Mac's Irish Bar and Restaurant,Healy Mac's Irish Bar and Restaurant,0,,7.2,7.2,7.2
+酒吧,ARTHUR BAR,ARTHUR BAR,0,,0.0,0.0,0.0
+酒吧,Rhu Bar,Rhu Bar,0,,0.0,0.0,0.0
+酒吧,Cowboy Bar KK,Cowboy Bar KK,0,,0.0,0.0,0.0
+酒吧,News Ktv,News Ktv,0,金三角/武吉免登,0.0,0.0,0.0
+酒吧,House Restaurant Bar Winepost,House Restaurant Bar Winepost,0,双子塔,0.0,0.0,0.0
+酒吧,Iron chef house铁人屋,Iron chef house铁人屋,0,吉隆坡市南,0.0,0.0,0.0
+酒吧,Royal Langkawi Yacht Club Captain's Deck Restauran,Royal Langkawi Yacht Club Captain's Deck Restauran,0,兰卡威其他,0.0,0.0,0.0
+酒吧,Hotline Laser KTV Karaoke Lounge Sdn. Bhd.,Hotline Laser KTV Karaoke Lounge Sdn. Bhd.,0,,0.0,0.0,0.0
+酒吧,IceBar@1Borneo,IceBar@1Borneo,0,,0.0,0.0,0.0
+酒吧,Mantra Restaurant and Bar @ Sunway Pyramid,Mantra Restaurant and Bar @ Sunway Pyramid,0,,0.0,0.0,0.0
+酒吧,Chili's Grill & Bar,Chili's Grill & Bar,0,双子塔,0.0,0.0,0.0
+酒吧,Zouk Café Bar,Zouk Café Bar,0,吉隆坡唐人街,0.0,0.0,0.0
+酒吧,Igk KTV & Pub,Igk KTV & Pub,0,槟城其他,0.0,0.0,0.0
+酒吧,Jugs Sports Bar,Jugs Sports Bar,0,,0.0,0.0,0.0
+酒吧,Secret Garden Bistro Bar,Secret Garden Bistro Bar,0,,0.0,0.0,0.0
+酒吧,Red Box,Red Box,0,槟城其他,0.0,0.0,0.0
+酒吧,RK Mubaraka Sdn. Bhd.,RK Mubaraka Sdn. Bhd.,0,,0.0,0.0,0.0
+酒吧,Movida Bar & Lounge,Movida Bar & Lounge,0,,0.0,0.0,0.0
+酒吧,Suara Gemilang,Suara Gemilang,0,吉隆坡市北,0.0,0.0,0.0
+酒吧,Neway Karaoke Box,Neway Karaoke Box,0,,0.0,0.0,0.0
+酒吧,"Trilogy Restaurant, Hotel, Bar","Trilogy Restaurant, Hotel, Bar",0,小印度及其周边,0.0,0.0,0.0
+酒吧,Restoran Kiew Yee Baru,Restoran Kiew Yee Baru,0,吉隆坡唐人街,0.0,0.0,0.0
+酒吧,Red Box Low Yat,Red Box Low Yat,0,金三角/武吉免登,0.0,0.0,0.0
+酒吧,Pinang Bar at Shangri-La's Rasa Sayang Resort and,Pinang Bar at Shangri-La's Rasa Sayang Resort and,0,槟城其他,0.0,0.0,0.0
+酒吧,Red Box @ IOI Mall,Red Box @ IOI Mall,0,,0.0,0.0,0.0
+酒吧,Benvenuto Ristorante e Bar,Benvenuto Ristorante e Bar,0,槟城其他,0.0,0.0,0.0
+酒吧,Feringgi Bar at Shangri-La's Rasa Sayang Resort an,Feringgi Bar at Shangri-La's Rasa Sayang Resort an,0,槟城其他,0.0,0.0,0.0
+酒吧,Reggae Mansion酒吧,Reggae Mansion酒吧,0,,0.0,0.0,0.0
+酒吧,The Passion,The Passion,0,双子塔,0.0,0.0,0.0
+酒吧,Hakka Republic欢乐共和国,Hakka Republic欢乐共和国,0,双子塔,0.0,0.0,0.0
+酒吧,Dinty's Pub & Restoran,Dinty's Pub & Restoran,0,中央火车站周边,0.0,0.0,0.0
+酒吧,Red Box Avenue,Red Box Avenue,0,槟城其他,0.0,0.0,0.0
+酒吧,Oriental Ktv Penang,Oriental Ktv Penang,0,槟城其他,0.0,0.0,0.0
+酒吧,Restaurant Thai Baiyok @ Heritage Club,Restaurant Thai Baiyok @ Heritage Club,0,槟城其他,0.0,0.0,0.0
+酒吧,nevEr mine,nevEr mine,0,其他城市,0.0,0.0,0.0
+酒吧,Bar.b.q Plaza,Bar.b.q Plaza,0,吉隆坡市南,0.0,0.0,0.0
+酒吧,"Penang Paradise Floral | Wedding Event, Ballroom,","Penang Paradise Floral | Wedding Event, Ballroom,",0,槟城其他,0.0,0.0,0.0
+酒吧,House Of JourNey,House Of JourNey,0,Air Itam,0.0,0.0,0.0
+酒吧,CHEERS,CHEERS,0,其他城市,0.0,0.0,0.0
+酒吧,Aneka family BOX,Aneka family BOX,0,吉隆坡唐人街,0.0,0.0,0.0
+酒吧,Rahsia Restaurant & Bar,Rahsia Restaurant & Bar,0,双子塔,0.0,0.0,0.0
+酒吧,Brotzeit German Bier Bar & Restaurant,Brotzeit German Bier Bar & Restaurant,0,吉隆坡唐人街,0.0,0.0,0.0
+酒吧,Aloha DelicatesSen.Bakery,Aloha DelicatesSen.Bakery,0,,0.0,0.0,0.0
+酒吧,That Little Wine Bar,That Little Wine Bar,0,槟城其他,0.0,0.0,0.0
+酒吧,Sigi's Bar and Grill on the Beach at Golden Sands,Sigi's Bar and Grill on the Beach at Golden Sands,0,槟城其他,0.0,0.0,0.0
+酒吧,Pak Hailam Kopitiam @ Kepong Baru,Pak Hailam Kopitiam @ Kepong Baru,0,黑风洞,0.0,0.0,0.0
+酒吧,Red Box,Red Box,0,金三角/武吉免登,0.0,0.0,0.0
+酒吧,Hazuki Japanese Club,Hazuki Japanese Club,0,金三角/武吉免登,0.0,0.0,0.0
+酒吧,Finnegan's Irish Pub And Restaurant,Finnegan's Irish Pub And Restaurant,0,槟城其他,0.0,0.0,0.0
+酒吧,Cameo Restaurant and Bar,Cameo Restaurant and Bar,0,吉隆坡市北,0.0,0.0,0.0
+酒吧,Sky Palace,Sky Palace,0,金三角/武吉免登,0.0,0.0,0.0
+酒吧,Shizen Sushi Bar,Shizen Sushi Bar,0,吉隆坡近郊,0.0,0.0,0.0
+酒吧,Logo,Logo,0,吉隆坡市北,0.0,0.0,0.0
+酒吧,Kanpei Restaurant and Bar,Kanpei Restaurant and Bar,0,双子塔,0.0,0.0,0.0
+酒吧,O'Briens Irish Sandwich Bars @ Menara OCBC,O'Briens Irish Sandwich Bars @ Menara OCBC,0,小印度及其周边,0.0,0.0,0.0
+酒吧,798 Wine Bar (Sunway Mentari),798 Wine Bar (Sunway Mentari),0,,0.0,0.0,0.0
+酒吧,Long Bar,Long Bar,0,,0.0,0.0,0.0
+酒吧,Cheers Lounge & Grill,Cheers Lounge & Grill,0,吉隆坡市北,0.0,0.0,0.0
+酒吧,Neway Karaoke Box,Neway Karaoke Box,0,吉隆坡市南,0.0,0.0,0.0
+酒吧,Sports Bar @ Hotel Istana KL,Sports Bar @ Hotel Istana KL,0,金三角/武吉免登,0.0,0.0,0.0
+酒吧,The Pool Bar @ Swiss-Garden Hotel KL,The Pool Bar @ Swiss-Garden Hotel KL,0,金三角/武吉免登,0.0,0.0,0.0
+酒吧,Oggi Restaurant & Bar,Oggi Restaurant & Bar,0,金三角/武吉免登,0.0,0.0,0.0
+酒吧,Spices Restaurant & Wine Bar,Spices Restaurant & Wine Bar,0,双子塔,0.0,0.0,0.0
+酒吧,Neway Karaoke Box,Neway Karaoke Box,0,,0.0,0.0,0.0
+酒吧,Bar.b.q Plaza,Bar.b.q Plaza,0,,0.0,0.0,0.0
+酒吧,Restoran Insaf Baru Sdn Bhd,Restoran Insaf Baru Sdn Bhd,0,小印度及其周边,0.0,0.0,0.0
+酒吧,Sanook,Sanook,0,,0.0,0.0,0.0
+酒吧,Arthur's Bar & Grill @ Shangri-La Hotel KL,Arthur's Bar & Grill @ Shangri-La Hotel KL,0,双子塔,0.0,0.0,0.0
+酒吧,Crystal Focus,Crystal Focus,0,双子塔,0.0,0.0,0.0
+酒吧,Kelab D'boss,Kelab D'boss,0,吉隆坡市南,0.0,0.0,0.0
+酒吧,Uni Cute Enterprise School uniform Georgetown Pena,Uni Cute Enterprise School uniform Georgetown Pena,0,槟城其他,0.0,0.0,0.0
+酒吧,Dart Addicts Sports Bar & Restaurant,Dart Addicts Sports Bar & Restaurant,0,槟城其他,0.0,0.0,0.0
+酒吧,"Sangria Island, Bar and restaurant","Sangria Island, Bar and restaurant",0,双子塔,0.0,0.0,0.0
+西餐,红番茄餐厅,红番茄餐厅,79,兰卡威其他,7.3,7.0,6.6
+西餐,Artisans Pizza,Artisans Pizza,0,,7.7,7.6,7.6
+西餐,小意大利餐厅,小意大利餐厅,0,,8.3,8.0,8.0
+西餐,Teo Seafood Restaurant,Teo Seafood Restaurant,0,,7.9,7.5,7.4
+西餐,汉堡王机场店,汉堡王机场店,0,,7.2,7.5,7.5
+西餐,鹰海湾海鲜坊 Fish Farm Restaurant,鹰海湾海鲜坊 Fish Farm Restaurant,0,,8.0,8.5,7.9
+西餐,食之秘,食之秘,0,瓜镇,7.2,7.2,6.9
+西餐,Actisans Cafe Restaurant,Actisans Cafe Restaurant,0,兰卡威其他,7.0,6.7,7.0
+西餐,小墨西哥人餐厅,小墨西哥人餐厅,0,,7.5,8.0,8.0
+西餐,新幸运海鲜,新幸运海鲜,0,,7.3,7.3,7.3
+西餐,Pakeeza 餐厅,Pakeeza 餐厅,0,,7.4,7.4,7.4
+西餐,Restaurant Lou Leong,Restaurant Lou Leong,0,,7.6,7.6,7.6
+西餐,Nando's,Nando's,0,,7.5,7.5,7.4
+西餐,Secret Recipe Beyond Veggie,Secret Recipe Beyond Veggie,0,,8.2,8.2,8.2
+西餐,Tera-Thai泰式美味餐厅,Tera-Thai泰式美味餐厅,0,,7.4,7.4,7.4
+西餐,四季餐厅,四季餐厅,0,,7.7,7.3,7.7
+西餐,必胜客,必胜客,0,,7.0,7.0,7.1
+西餐,Restaurant Teck Sing,Restaurant Teck Sing,0,,7.2,6.9,7.1
+西餐,Nam Restaurant,Nam Restaurant,0,,7.0,7.0,7.0
+西餐,Domino 餐厅,Domino 餐厅,0,,7.4,6.9,7.3
+西餐,The Best Wood Fire Pizza,The Best Wood Fire Pizza,0,其他城市,7.1,6.7,7.0
+西餐,The Smokehouse Hotel & ResTaurAnt,The Smokehouse Hotel & ResTaurAnt,0,其他城市,6.7,7.0,7.0
+西餐,皇家海滩俱乐部,皇家海滩俱乐部,0,其他城市,7.0,7.0,7.0
+西餐,Kura Japanese Restaurant,Kura Japanese Restaurant,0,,7.0,7.0,6.9
+西餐,Piedra Negra Mexican Restaurant,Piedra Negra Mexican Restaurant,0,,6.9,6.9,7.3
+西餐,黑峡谷餐厅,黑峡谷餐厅,0,,6.7,6.7,6.7
+西餐,Hainan Kitchen Restaurant,Hainan Kitchen Restaurant,0,,6.8,6.6,6.8
+西餐,The pizza maker Langkawi,The pizza maker Langkawi,0,庞太切南,0.0,0.0,0.0
+西餐,Serai,Serai,0,丹戎禺,0.0,0.0,0.0
+西餐,Orkid Ria Seafood Restaurant,Orkid Ria Seafood Restaurant,0,,7.2,7.2,7.2
+西餐,Restaurant 99,Restaurant 99,0,,6.9,6.9,6.9
+西餐,Hiro Zen Japanese Restaurant,Hiro Zen Japanese Restaurant,0,,7.0,7.0,7.0
+西餐,Aik Hoe Restaurant,Aik Hoe Restaurant,0,,7.0,7.0,7.0
+西餐,Shiweixian Restaurant,Shiweixian Restaurant,0,,6.9,6.9,6.9
+西餐,Jade Garden Seafood Restaurant,Jade Garden Seafood Restaurant,0,,7.1,7.1,7.0
+西餐,Kudat Seafood Restaurant,Kudat Seafood Restaurant,0,,7.0,7.0,7.0
+西餐,Tea Garden Restaurant,Tea Garden Restaurant,0,,7.1,6.8,6.8
+西餐,Magenta Restaurant at The Old Courthouse,Magenta Restaurant at The Old Courthouse,0,,7.1,7.1,7.1
+西餐,SILK ROAD Restaurant - Taman Serdang Perdana,SILK ROAD Restaurant - Taman Serdang Perdana,0,,6.9,6.9,6.9
+西餐,Restaurant Mei Jing,Restaurant Mei Jing,0,,6.9,6.9,6.9
+西餐,Al Rawsha Restaurant,Al Rawsha Restaurant,0,,6.9,6.9,6.9
+西餐,Chuan Kie Restaurant,Chuan Kie Restaurant,0,,7.0,7.0,6.9
+西餐,TGI Friday's,TGI Friday's,0,,7.0,7.0,7.0
+西餐,Da Sa Rang Korean Restaurant,Da Sa Rang Korean Restaurant,0,,7.0,6.9,6.9
+西餐,Kinsahi Japanese Restaurant,Kinsahi Japanese Restaurant,0,,6.8,7.1,7.1
+西餐,Restaurant Da Tuan Yuan,Restaurant Da Tuan Yuan,0,,6.9,6.9,6.9
+西餐,Phoenix Chinese Restaurant,Phoenix Chinese Restaurant,0,,6.9,7.0,6.7
+西餐,Saigon Fusion - Vietnamese Cuisine Restaurant,Saigon Fusion - Vietnamese Cuisine Restaurant,0,,6.9,6.9,6.9
+西餐,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+西餐,Restaurant Kam Heong,Restaurant Kam Heong,0,,6.9,6.9,6.9
+西餐,LeBOSS Restaurant,LeBOSS Restaurant,0,,6.9,6.9,6.9
+西餐,Alor Akar Restaurant,Alor Akar Restaurant,0,,7.2,7.2,6.8
+西餐,Bella Italia,Bella Italia,0,,7.2,7.2,7.2
+西餐,Rakuzen Japanese Restaurant,Rakuzen Japanese Restaurant,0,,7.2,7.2,7.2
+西餐,Bp Ocean Restaurant,Bp Ocean Restaurant,0,,6.9,6.9,6.9
+西餐,Kinpachi Japanese Restaurant,Kinpachi Japanese Restaurant,0,,7.1,7.1,7.0
+西餐,My Restaurant,My Restaurant,0,,7.1,7.1,7.1
+西餐,Peking Restaurant,Peking Restaurant,0,,7.1,7.1,7.1
+西餐,Korean House Restaurant,Korean House Restaurant,0,,7.1,7.1,7.1
+西餐,Chao Sheng Restaurant,Chao Sheng Restaurant,0,,7.0,7.0,7.0
+西餐,Restaurant Briyani Gam,Restaurant Briyani Gam,0,,7.1,6.8,6.8
+西餐,Genting Palace Restaurant,Genting Palace Restaurant,0,,7.1,7.1,7.1
+西餐,FS Restaurant,FS Restaurant,0,,6.9,6.9,6.9
+西餐,Xing Zhu Restaurant,Xing Zhu Restaurant,0,,6.9,6.9,6.9
+西餐,Ah Tuan Ee's Place Restaurant,Ah Tuan Ee's Place Restaurant,0,,7.0,7.0,7.0
+西餐,Pulau Ketam's Steamboat Restaurant,Pulau Ketam's Steamboat Restaurant,0,,7.1,7.0,6.9
+西餐,Bamboo Restaurant,Bamboo Restaurant,0,,6.9,7.0,7.0
+西餐,Pizza Hut Tebrau City,Pizza Hut Tebrau City,0,,6.9,6.9,6.9
+西餐,Rockafellas Restaurant and Pub,Rockafellas Restaurant and Pub,0,,6.9,6.9,6.9
+西餐,Ong Shun Seafood Restaurant,Ong Shun Seafood Restaurant,0,,7.0,7.0,7.0
+西餐,Restaurant Chang Man,Restaurant Chang Man,0,,7.0,7.0,7.0
+西餐,Kam Ling Restaurant,Kam Ling Restaurant,0,,7.0,7.0,7.0
+西餐,Chef Wah Restaurant,Chef Wah Restaurant,0,,7.0,7.0,7.0
+西餐,SF Restaurant,SF Restaurant,0,,6.9,6.9,6.9
+西餐,Restaurant Light House Seafood,Restaurant Light House Seafood,0,,7.0,7.0,7.0
+西餐,T-Bowl Concept Restaurant,T-Bowl Concept Restaurant,0,,7.0,7.0,7.0
+西餐,Daorae Korean BBQ Restaurant,Daorae Korean BBQ Restaurant,0,,7.1,7.1,6.9
+西餐,Pen Mutiara Restaurant,Pen Mutiara Restaurant,0,,7.0,7.0,7.0
+西餐,Good Friends Restaurant,Good Friends Restaurant,0,,7.2,7.2,7.2
+西餐,Restaurant Hoi Yin,Restaurant Hoi Yin,0,,7.2,6.8,6.8
+西餐,Kai Xuan Chinese Restaurant,Kai Xuan Chinese Restaurant,0,,7.1,7.0,7.0
+西餐,Sabi-Wasabi Japanese Restaurant,Sabi-Wasabi Japanese Restaurant,0,,7.1,7.1,7.1
+西餐,Hou Mei Restaurant,Hou Mei Restaurant,0,,6.6,6.8,6.6
+西餐,Shogun Japanese Buffet Restaurant,Shogun Japanese Buffet Restaurant,0,,6.9,6.9,6.9
+西餐,Sun Two Restaurant,Sun Two Restaurant,0,,7.1,7.1,7.1
+西餐,River View Seafood Restaurant,River View Seafood Restaurant,0,,7.2,7.2,7.2
+西餐,New Hong Kong Restaurant,New Hong Kong Restaurant,0,,7.1,7.1,7.1
+西餐,Sri Patani Restaurant,Sri Patani Restaurant,0,,6.9,6.9,6.9
+西餐,TGI Friday's,TGI Friday's,0,,7.2,7.2,7.2
+西餐,"Miyagi Restaurant, Bangi, Malaysia","Miyagi Restaurant, Bangi, Malaysia",0,,7.0,7.0,7.0
+西餐,Kung Fu Restaurant,Kung Fu Restaurant,0,,7.1,7.1,7.0
+西餐,Haji Ramli Restaurant Nasi Kandar,Haji Ramli Restaurant Nasi Kandar,0,,7.3,7.1,7.1
+西餐,Meisan Restaurant,Meisan Restaurant,0,,7.1,7.0,7.1
+西餐,Star Restaurant,Star Restaurant,0,,7.0,6.9,7.0
+西餐,Pizza Italia,Pizza Italia,0,,7.0,7.0,7.0
+西餐,Sri Mahkota Seafood Restaurant,Sri Mahkota Seafood Restaurant,0,,7.0,7.0,7.0
+西餐,Kura Japanese Restaurant,Kura Japanese Restaurant,0,,7.0,6.9,7.1
+西餐,Hokano Japanese Restaurant,Hokano Japanese Restaurant,0,,7.1,7.1,7.1
+西餐,Tomoe Japanese Restaurant,Tomoe Japanese Restaurant,0,,7.0,6.9,7.0
+西餐,Restaurant Doli,Restaurant Doli,0,,6.8,6.6,6.8
+西餐,Restaurant Lucky Loke,Restaurant Lucky Loke,0,,7.0,7.0,7.0
+西餐,Sri Melur Restaurant,Sri Melur Restaurant,0,,7.0,6.9,6.9
+西餐,The Apartment,The Apartment,0,,7.1,7.1,7.1
+西餐,Shee Yaan Restaurant,Shee Yaan Restaurant,0,,7.0,7.0,7.0
+西餐,Azur Restaurant,Azur Restaurant,0,,6.9,6.9,6.9
+西餐,Yishensu Vegetarian Restaurant,Yishensu Vegetarian Restaurant,0,,7.0,7.0,7.0
+西餐,Extra Super Tanker Fine Chinese Restaurant,Extra Super Tanker Fine Chinese Restaurant,0,,6.9,6.9,6.9
+西餐,Delight Seafood Restaurant,Delight Seafood Restaurant,0,,7.0,7.0,7.0
+西餐,Ramzan Restaurant,Ramzan Restaurant,0,,7.1,7.1,7.0
+西餐,Bei King Restaurant,Bei King Restaurant,0,,6.8,6.8,6.8
+西餐,Waraku Japanese Restaurant (Ipoh),Waraku Japanese Restaurant (Ipoh),0,,6.9,7.0,7.0
+西餐,Restaurant Oz,Restaurant Oz,0,,7.0,7.0,7.0
+西餐,The Secret Sanctuary Restaurant and Lounge,The Secret Sanctuary Restaurant and Lounge,0,,7.0,7.0,7.0
+西餐,Tom's Pizza,Tom's Pizza,0,,7.0,7.0,7.0
+西餐,Mersing Seafood Restaurant,Mersing Seafood Restaurant,0,,7.0,6.9,7.0
+西餐,Serai Thai Restaurant,Serai Thai Restaurant,0,,7.0,7.0,6.9
+西餐,East Coast Buffet Steamboat Restaurant,East Coast Buffet Steamboat Restaurant,0,,6.9,6.9,6.9
+西餐,Highlands Steamboat Restaurant,Highlands Steamboat Restaurant,0,,7.0,7.0,6.9
+西餐,"Pusing Public Seafood Restaurant, Seafood","Pusing Public Seafood Restaurant, Seafood",0,,7.2,7.2,7.2
+西餐,Tiara Seafood Restaurant,Tiara Seafood Restaurant,0,,7.5,7.1,7.1
+西餐,Beef Restaurant,Beef Restaurant,0,,6.9,6.9,6.9
+西餐,Umaiya Japanese Restaurant,Umaiya Japanese Restaurant,0,,6.7,6.7,6.9
+西餐,Yati Restaurant,Yati Restaurant,0,,7.2,7.2,6.8
+西餐,Sweetwater Restaurant,Sweetwater Restaurant,0,,7.2,7.2,7.2
+西餐,Nijyumaru Japanese Restaurant,Nijyumaru Japanese Restaurant,0,,7.2,7.2,7.2
+西餐,Rock Road Seafood Restaurant,Rock Road Seafood Restaurant,0,,7.2,7.2,7.2
+西餐,Lyn's Tandoori Restaurant,Lyn's Tandoori Restaurant,0,,7.2,7.2,7.2
+西餐,Yee Lin Restaurant,Yee Lin Restaurant,0,,7.2,7.2,6.8
+西餐,Foong Wei Heong Restaurant,Foong Wei Heong Restaurant,0,,7.1,7.1,7.1
+西餐,Yoshiya Japanese Restaurant,Yoshiya Japanese Restaurant,0,,6.9,6.9,6.9
+西餐,Kaede Japanese Restaurant,Kaede Japanese Restaurant,0,,6.9,6.9,6.9
+西餐,Shahrzad Restaurant,Shahrzad Restaurant,0,,7.1,7.1,7.1
+西餐,Tsuki Japanese Restaurant,Tsuki Japanese Restaurant,0,,7.1,7.0,7.0
+西餐,Qing Palace Chinese Restaurant,Qing Palace Chinese Restaurant,0,,7.1,7.1,7.1
+西餐,Shack restaurant,Shack restaurant,0,,6.9,6.9,6.9
+西餐,Little Penang Restaurant,Little Penang Restaurant,0,,7.1,7.1,7.1
+西餐,Hornbill Restaurant,Hornbill Restaurant,0,,7.1,7.1,6.8
+西餐,Khan's Islamic Restaurant,Khan's Islamic Restaurant,0,,7.1,7.1,6.8
+西餐,Poh San Restaurant,Poh San Restaurant,0,,6.9,6.9,6.9
+西餐,Fu Tien Vegetarian Restaurant,Fu Tien Vegetarian Restaurant,0,,7.1,7.1,7.1
+西餐,Shin Japanese Restaurant,Shin Japanese Restaurant,0,,6.9,6.9,6.9
+西餐,Jia Yi Dao Vegetarian Restaurant,Jia Yi Dao Vegetarian Restaurant,0,,6.9,6.9,6.9
+西餐,Hazeme Seafood Restaurant,Hazeme Seafood Restaurant,0,,7.1,6.9,6.9
+西餐,Hover Restaurant,Hover Restaurant,0,,6.9,6.9,6.9
+西餐,Sbai-Sbai Seafood Restaurant,Sbai-Sbai Seafood Restaurant,0,,6.9,6.9,6.9
+西餐,Yaoki Japanese Restaurant,Yaoki Japanese Restaurant,0,,7.0,7.0,7.0
+西餐,59 Restaurant,59 Restaurant,0,,6.9,6.9,6.9
+西餐,Kong inn seafood restaurant,Kong inn seafood restaurant,0,,7.0,7.0,7.0
+西餐,Vaanavil Restaurant,Vaanavil Restaurant,0,,7.0,7.0,7.0
+西餐,Sin Hui Bin Restaurant,Sin Hui Bin Restaurant,0,,6.9,6.9,6.9
+西餐,Osome Wood Fired Pizza,Osome Wood Fired Pizza,0,,7.0,7.0,7.0
+西餐,Kim Bay HK-Macau Restaurant,Kim Bay HK-Macau Restaurant,0,,7.0,7.0,6.9
+西餐,Hoi Tin Lau Restaurant Sdn Bhd,Hoi Tin Lau Restaurant Sdn Bhd,0,,7.0,6.9,7.0
+西餐,Lok Thian Restaurant,Lok Thian Restaurant,0,,6.9,6.9,6.9
+西餐,Ten Ichi Japanese Restaurant,Ten Ichi Japanese Restaurant,0,,7.0,6.9,7.0
+西餐,Sengat Seafood Restaurant,Sengat Seafood Restaurant,0,,6.9,6.9,6.9
+西餐,Chuan Yi Restaurant Duck Rice/noodles,Chuan Yi Restaurant Duck Rice/noodles,0,,6.9,6.9,6.9
+西餐,E Ru Vegetarian Restaurant,E Ru Vegetarian Restaurant,0,,6.9,6.9,6.9
+西餐,Chong Fei Restaurant,Chong Fei Restaurant,0,,6.9,6.9,6.9
+西餐,Yamada Japanese Restaurant,Yamada Japanese Restaurant,0,,6.9,6.9,6.9
+西餐,Restaurant Ho's Flavour,Restaurant Ho's Flavour,0,,6.9,6.9,6.9
+西餐,Sr Nonya Restaurant,Sr Nonya Restaurant,0,,6.9,6.9,6.9
+西餐,D'Fong Restaurant,D'Fong Restaurant,0,,6.9,6.9,6.9
+西餐,D' Tandoor Restaurant,D' Tandoor Restaurant,0,,6.9,6.9,6.9
+西餐,Puzzini Swedish Pizza,Puzzini Swedish Pizza,0,,6.9,6.9,6.9
+西餐,Brisik Restaurant,Brisik Restaurant,0,,7.0,7.0,7.0
+西餐,Mexica Garden Restaurant,Mexica Garden Restaurant,0,,7.0,7.0,6.9
+西餐,Restaurant Kim Wah,Restaurant Kim Wah,0,,6.9,6.9,6.9
+西餐,Super Taste Steamboat Restaurant,Super Taste Steamboat Restaurant,0,,7.1,7.0,7.0
+西餐,Hakka Mee Restaurant Paris (Yin Yau Kui),Hakka Mee Restaurant Paris (Yin Yau Kui),0,,7.1,7.0,7.0
+西餐,East Come Restaurant,East Come Restaurant,0,,6.9,6.9,6.9
+西餐,Restaurant Nasi Lemak Ayam Kampung,Restaurant Nasi Lemak Ayam Kampung,0,,7.0,7.0,6.9
+西餐,Sin Hup Kee Restaurant,Sin Hup Kee Restaurant,0,,7.0,7.0,6.9
+西餐,Thin Hei Vegetarian Restaurant,Thin Hei Vegetarian Restaurant,0,,7.1,7.1,7.0
+西餐,Golden Restaurant,Golden Restaurant,0,,6.9,6.9,6.9
+西餐,Aima Grill Fish Restaurant,Aima Grill Fish Restaurant,0,,7.2,7.2,7.2
+西餐,Watercolours Resort Restaurant,Watercolours Resort Restaurant,0,,7.2,6.8,7.2
+西餐,Jeddah Arabic Cuisine Restaurant,Jeddah Arabic Cuisine Restaurant,0,,7.1,6.9,6.9
+西餐,Greenland Restaurant,Greenland Restaurant,0,,6.9,6.9,6.9
+西餐,Wau Restaurant,Wau Restaurant,0,,7.1,7.1,7.1
+西餐,Pizza Hut,Pizza Hut,0,,7.0,7.0,6.9
+西餐,Kuala Perlis seafood restaurant,Kuala Perlis seafood restaurant,0,,7.1,7.1,6.8
+西餐,Warakuya Japanese Restaurant,Warakuya Japanese Restaurant,0,,6.9,6.7,6.9
+西餐,Eastern Dragon Restaurant,Eastern Dragon Restaurant,0,,7.0,6.9,7.0
+西餐,Tasconis Pizza Angsana Jb,Tasconis Pizza Angsana Jb,0,,7.0,7.0,7.1
+西餐,Michikusa Japanese Restaurant,Michikusa Japanese Restaurant,0,,6.9,6.9,6.9
+西餐,Restaurant Ah Kow,Restaurant Ah Kow,0,,7.0,7.0,6.9
+西餐,Little Hainan Restaurant,Little Hainan Restaurant,0,,7.0,6.9,7.0
+西餐,Restaurant Kah Kah Loke,Restaurant Kah Kah Loke,0,,7.1,7.0,7.0
+西餐,Jambu Restaurant and Lounge,Jambu Restaurant and Lounge,0,,7.2,7.2,7.2
+西餐,Imperial Duck Restaurant,Imperial Duck Restaurant,0,,7.1,6.8,6.8
+西餐,Tumis Restaurant,Tumis Restaurant,0,,7.0,7.0,7.0
+西餐,"128 Seafood Restaurant, Kluang","128 Seafood Restaurant, Kluang",0,,7.0,7.0,7.0
+西餐,Restaurant Yi Poh,Restaurant Yi Poh,0,,6.9,6.9,6.9
+西餐,Chola Kitchen Restaurant,Chola Kitchen Restaurant,0,,7.0,7.0,7.0
+西餐,La Cocina,La Cocina,0,,7.0,7.0,7.0
+西餐,Restoran Uno,Restoran Uno,0,,6.9,6.9,6.9
+西餐,Big Nose Restaurant,Big Nose Restaurant,0,,6.9,6.9,6.9
+西餐,Million Dollar Vegetarian Restaurant,Million Dollar Vegetarian Restaurant,0,,6.9,6.9,6.9
+西餐,Tao Cuisine Restaurant,Tao Cuisine Restaurant,0,,7.0,7.0,7.0
+西餐,Sam Hadramawt Restaurant,Sam Hadramawt Restaurant,0,,7.0,7.0,6.9
+西餐,Pizza Hut 1-Utama,Pizza Hut 1-Utama,0,,6.9,6.9,6.9
+西餐,Yin Her Restaurant,Yin Her Restaurant,0,,7.0,7.0,7.0
+西餐,Organic Leaf Restaurant,Organic Leaf Restaurant,0,,7.0,7.0,7.0
+西餐,Melaka Street Restaurant,Melaka Street Restaurant,0,,7.0,7.0,7.0
+西餐,Wong Poh Restaurant,Wong Poh Restaurant,0,,7.0,6.9,6.9
+西餐,Dn Curry Leaf Restaurant Sdn Bhd,Dn Curry Leaf Restaurant Sdn Bhd,0,,7.0,7.1,7.0
+西餐,Bangkok House Restaurant,Bangkok House Restaurant,0,,6.9,6.7,7.0
+西餐,RK Restaurant,RK Restaurant,0,,6.9,7.0,7.0
+西餐,Restaurant Leong Ya Indah,Restaurant Leong Ya Indah,0,,7.0,6.9,6.9
+西餐,Swan Seafood Restaurant,Swan Seafood Restaurant,0,,7.1,7.0,7.0
+西餐,Dallah Restaurant,Dallah Restaurant,0,,7.0,7.0,7.1
+西餐,Restaurant Oversky,Restaurant Oversky,0,,7.1,6.9,6.9
+西餐,Chicken Bun Restaurant Yau Kee,Chicken Bun Restaurant Yau Kee,0,,7.0,6.9,6.9
+西餐,Family Restaurant,Family Restaurant,0,,7.2,6.8,7.2
+西餐,Gossip Corner Restaurant,Gossip Corner Restaurant,0,,7.1,7.1,7.1
+西餐,Restaurant Jew May Yen,Restaurant Jew May Yen,0,,6.9,6.7,6.9
+西餐,Ong Kee Restaurant,Ong Kee Restaurant,0,,7.1,6.8,6.8
+西餐,Wong Koh Kee Restaurant,Wong Koh Kee Restaurant,0,,7.0,7.1,7.0
+西餐,Oversea Restaurant,Oversea Restaurant,0,,7.1,7.0,7.0
+西餐,Yut Sun Restaurant,Yut Sun Restaurant,0,,7.0,6.9,6.9
+西餐,Bukit Genting Hill Leisure Park and Restaurant,Bukit Genting Hill Leisure Park and Restaurant,0,,6.9,6.9,7.0
+西餐,Ah Koong restaurant,Ah Koong restaurant,0,,7.1,6.8,6.8
+西餐,Muara Ikan Bakar Restaurant,Muara Ikan Bakar Restaurant,0,,7.1,6.8,7.1
+西餐,La Bodega,La Bodega,0,,6.8,7.1,6.8
+西餐,May Flower Restaurant,May Flower Restaurant,0,,6.8,6.8,6.8
+西餐,Kwan Kee Seafood Restaurant,Kwan Kee Seafood Restaurant,0,,6.8,6.8,6.8
+西餐,"Di Wei Chinese Restaurant, Empire Hotel Subang","Di Wei Chinese Restaurant, Empire Hotel Subang",0,,6.9,6.7,7.0
+西餐,Blood Type Restaurant,Blood Type Restaurant,0,,6.9,6.9,6.9
+西餐,"Tomi Japanese Restaurant, Ipoh","Tomi Japanese Restaurant, Ipoh",0,,6.9,6.9,6.9
+西餐,Verandah Restaurant,Verandah Restaurant,0,,6.9,6.9,6.9
+西餐,Nala Island Restaurant,Nala Island Restaurant,0,兰卡威其他,0.0,0.0,0.0
+西餐,Mare Blu Italian Restaurant,Mare Blu Italian Restaurant,0,,0.0,0.0,0.0
+西餐,Niyom Thai Restaurant,Niyom Thai Restaurant,0,庞太切南,0.0,0.0,0.0
+西餐,Jai Restaurant,Jai Restaurant,0,,0.0,0.0,0.0
+西餐,Bamboo Beach Restaurant,Bamboo Beach Restaurant,0,兰卡威其他,0.0,0.0,0.0
+西餐,Spice Market Restaurant,Spice Market Restaurant,0,,0.0,0.0,0.0
+西餐,Nando's,Nando's,0,,0.0,0.0,0.0
+西餐,Lagenda Restaurant Langkawi,Lagenda Restaurant Langkawi,0,班底登加,0.0,0.0,0.0
+西餐,Arabic Restaurant Langkawi,Arabic Restaurant Langkawi,0,庞太切南,0.0,0.0,0.0
+西餐,83 Classic resTaurAnt,83 Classic resTaurAnt,0,,0.0,0.0,0.0
+西餐,Beach Sea Food ResTaurAnt,Beach Sea Food ResTaurAnt,0,,0.0,0.0,0.0
+西餐,Tommyboy Cafe,Tommyboy Cafe,0,,0.0,0.0,0.0
+西餐,Little HainAn ResTaurAnt,Little HainAn ResTaurAnt,0,,0.0,0.0,0.0
+西餐,Ten Ichi Japanese ResTaurAnt,Ten Ichi Japanese ResTaurAnt,0,,0.0,0.0,0.0
+西餐,Tumis ResTaurAnt,Tumis ResTaurAnt,0,,0.0,0.0,0.0
+西餐,subway resOrt,subway resOrt,0,,0.0,0.0,0.0
+西餐,Kuching Mandarin Restaurant,Kuching Mandarin Restaurant,0,,0.0,0.0,0.0
+西餐,Imperial Duck Restaurant,Imperial Duck Restaurant,0,,0.0,0.0,0.0
+西餐,Carré des Feuillants,Carré des Feuillants,0,,0.0,0.0,0.0
+西餐,Jom Masak Masak BBQ Steamboat ResTaurAnt,Jom Masak Masak BBQ Steamboat ResTaurAnt,0,,0.0,0.0,0.0
+西餐,Central Cafe,Central Cafe,0,,0.0,0.0,0.0
+西餐,Cowboy BurGer,Cowboy BurGer,0,,0.0,0.0,0.0
+西餐,Domino’s Pizza,Domino’s Pizza,0,巴生,0.0,0.0,0.0
+西餐,Tom's Pizza,Tom's Pizza,0,古晋,0.0,0.0,0.0
+西餐,Bojio Cafe,Bojio Cafe,0,,0.0,0.0,0.0
+西餐,Mentari Restaurant,Mentari Restaurant,0,兰卡威其他,0.0,0.0,0.0
+西餐,Hartz ChickEn Buffet,Hartz ChickEn Buffet,0,,0.0,0.0,0.0
+西餐,SNOW ICE REST STATION,SNOW ICE REST STATION,0,,0.0,0.0,0.0
+西餐,Db KaraOke & Pub,Db KaraOke & Pub,0,,0.0,0.0,0.0
+西餐,Crystal Garden Restaurant,Crystal Garden Restaurant,0,,0.0,0.0,0.0
+西餐,Pizza Hut Kuching,Pizza Hut Kuching,0,,0.0,0.0,0.0
+西餐,Pinang Nyonya Restaurant,Pinang Nyonya Restaurant,0,,0.0,0.0,0.0
+西餐,"Middle EAST Restaurant Kuching,sarawak","Middle EAST Restaurant Kuching,sarawak",0,,0.0,0.0,0.0
+西餐,Raisa Restaurant,Raisa Restaurant,0,,0.0,0.0,0.0
+西餐,Saigon Fusion - Vietnamese Cuisine Restaurant,Saigon Fusion - Vietnamese Cuisine Restaurant,0,,0.0,0.0,0.0
+西餐,Causeway Bay Hong Kong Restaurant,Causeway Bay Hong Kong Restaurant,0,,0.0,0.0,0.0
+西餐,Lok Thian Restaurant,Lok Thian Restaurant,0,,0.0,0.0,0.0
+西餐,Udang Galah House Restaurant,Udang Galah House Restaurant,0,,0.0,0.0,0.0
+咖啡厅,旧街场,旧街场,39,雪邦/吉隆坡国际机场,7.5,7.3,7.2
+咖啡厅,老街场白咖啡(LCCT),老街场白咖啡(LCCT),32,其他城市,7.4,7.0,7.2
+咖啡厅,老街场白咖啡,老街场白咖啡,29,其他城市,7.4,6.8,6.8
+咖啡厅,地理学家咖啡馆,地理学家咖啡馆,48,全城,7.6,8.1,7.8
+咖啡厅,千层蛋糕,千层蛋糕,23,全城,8.4,8.3,8.4
+咖啡厅,旧街场白咖啡,旧街场白咖啡,25,中央火车站周边,8.5,8.2,8.2
+咖啡厅,旧街场白咖啡,旧街场白咖啡,0,兰卡威其他,7.5,7.9,7.4
+咖啡厅,Dal.komm Coffee KLCC,Dal.komm Coffee KLCC,0,双子塔,8.5,8.5,8.5
+咖啡厅,星巴克,星巴克,0,,7.6,7.6,7.4
+咖啡厅,旧街场白咖啡新世界公园店,旧街场白咖啡新世界公园店(槟城店),0,槟城其他,7.6,7.1,7.1
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,吉隆坡唐人街,7.5,7.6,7.8
+咖啡厅,旧街场咖啡,旧街场咖啡,0,双子塔,8.0,7.6,7.5
+咖啡厅,ART IN CAFE,ART IN CAFE,0,Teluk Burau,8.4,8.4,8.4
+咖啡厅,旧街场白咖啡皇后湾广场店,旧街场白咖啡皇后湾广场店,0,槟城其他,7.5,8.3,8.0
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,旧街场咖啡,旧街场咖啡,0,吉隆坡市南,7.8,7.8,7.8
+咖啡厅,利增 legend coffee tea,利增 legend coffee tea,0,,8.1,7.3,7.4
+咖啡厅,成兴茶餐厅,成兴茶餐厅,0,,7.7,6.9,7.2
+咖啡厅,The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,0,双子塔,7.5,7.0,7.0
+咖啡厅,多春茶座,多春茶座,0,,7.1,6.2,6.6
+咖啡厅,旧街场咖啡,旧街场咖啡,0,中央火车站周边,7.5,7.2,6.8
+咖啡厅,星巴克,星巴克,0,,7.5,7.1,7.1
+咖啡厅,The Loaf,The Loaf,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,雪邦/吉隆坡国际机场,6.9,7.5,7.3
+咖啡厅,Palm Cafe,Palm Cafe,0,,6.8,6.6,6.7
+咖啡厅,魚池18 TEA&COFFEE,魚池18 TEA&COFFEE,0,其他城市,8.0,8.0,8.0
+咖啡厅,旧街场白咖啡,旧街场白咖啡,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,星巴克,星巴克,0,吉隆坡近郊,6.7,6.7,6.7
+咖啡厅,Gloria Jean's Coffees,Gloria Jean's Coffees,0,其他城市,6.7,6.8,7.5
+咖啡厅,星巴克,星巴克,0,中央火车站周边,7.5,7.5,7.5
+咖啡厅,旧街场白咖啡,旧街场白咖啡,0,,8.3,8.2,8.3
+咖啡厅,Oldtown White Coffee,Oldtown White Coffee,0,太子世界贸易中心,7.5,7.2,7.2
+咖啡厅,First Beach Cafe,First Beach Cafe,0,,0.0,0.0,0.0
+咖啡厅,Hornbill Restaurant & Cafe,Hornbill Restaurant & Cafe,0,小印度及其周边,7.4,7.5,7.4
+咖啡厅,Purrfect Cat Cafe,Purrfect Cat Cafe,0,槟城其他,5.9,6.7,6.3
+咖啡厅,维莹茶餐厅,维莹茶餐厅,0,金三角/武吉免登,6.7,6.3,6.7
+咖啡厅,Dalkomm Coffee,Dalkomm Coffee,0,,7.9,8.5,7.4
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,,7.8,7.5,7.5
+咖啡厅,魚池18 TEA & COFFEE,魚池18 TEA & COFFEE,0,,7.7,7.7,7.7
+咖啡厅,Hard Rock Cafe Melaka,Hard Rock Cafe Melaka,0,全城,7.5,7.9,7.9
+咖啡厅,Dunkin' Donuts,Dunkin' Donuts,0,吉隆坡唐人街,7.1,7.1,7.5
+咖啡厅,ARCH Cafe Kuala Lumpur,ARCH Cafe Kuala Lumpur,0,小印度及其周边,8.2,8.2,8.2
+咖啡厅,发记茶餐室,发记茶餐室,0,,0.0,0.0,0.0
+咖啡厅,旧街场咖啡,旧街场咖啡,0,,6.6,6.7,6.7
+咖啡厅,李阿姨咖啡,李阿姨咖啡,0,,7.4,7.4,6.8
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,小印度及其周边,8.2,8.2,6.7
+咖啡厅,The Mugshot Cafe,The Mugshot Cafe,0,槟城其他,7.4,7.4,6.7
+咖啡厅,Chong Choon Cafe,Chong Choon Cafe,0,,7.2,7.2,7.2
+咖啡厅,金爸爸马来风味餐厅,金爸爸马来风味餐厅,0,全城,7.4,7.4,7.4
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,吉隆坡市南,7.2,6.8,6.0
+咖啡厅,Jasmine Cafe House,Jasmine Cafe House,0,,8.0,8.0,7.5
+咖啡厅,Brussels Beer Cafe,Brussels Beer Cafe,0,,7.5,7.5,7.5
+咖啡厅,Coffee Bean @ Damai Phase 2,Coffee Bean @ Damai Phase 2,0,,7.0,7.1,7.1
+咖啡厅,Calanthe Art Cafe,Calanthe Art Cafe,0,全城,7.1,8.0,7.5
+咖啡厅,Yew咖啡,Yew咖啡,0,,6.7,8.1,8.1
+咖啡厅,乔治城白咖啡,乔治城白咖啡,0,乔治镇,7.2,7.2,7.2
+咖啡厅,南洋十号咖啡,南洋十号咖啡,0,,7.2,6.8,7.2
+咖啡厅,第一世界咖啡,第一世界咖啡,0,,7.6,7.6,7.6
+咖啡厅,Viet Cafe,Viet Cafe,0,,0.0,0.0,0.0
+咖啡厅,Hailam Kopitiam @ Damansara Perdana,Hailam Kopitiam @ Damansara Perdana,0,八打灵再也,7.7,7.7,7.7
+咖啡厅,星巴克,星巴克,0,金三角/武吉免登,7.2,7.2,7.2
+咖啡厅,O's Corner,O's Corner,0,,7.7,7.7,7.7
+咖啡厅,23号新鲜特有海鲜店,23号新鲜特有海鲜店,0,,7.7,7.4,7.4
+咖啡厅,The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,0,巴彦勒帕,7.4,7.4,7.4
+咖啡厅,Starbucks,Starbucks,0,吉隆坡唐人街,0.0,0.0,0.0
+咖啡厅,Hard Rock Cafe Kuala Lumpur,Hard Rock Cafe Kuala Lumpur,0,双子塔,7.1,7.1,7.1
+咖啡厅,Dal.komm Coffee SS15,Dal.komm Coffee SS15,0,,8.4,8.4,8.4
+咖啡厅,旧街场白咖啡,旧街场白咖啡,0,其他城市,7.0,6.7,6.7
+咖啡厅,日出茶太,日出茶太,0,槟城其他,7.1,7.0,7.1
+咖啡厅,S. Wine Cafe,S. Wine Cafe,0,吉隆坡市北,8.0,8.0,8.0
+咖啡厅,亚洲咖啡,亚洲咖啡,0,,6.8,6.3,6.3
+咖啡厅,高乐雅咖啡,高乐雅咖啡,0,太子世界贸易中心,8.0,8.0,8.0
+咖啡厅,Gloria Jean's Coffee,Gloria Jean's Coffee,0,,7.5,7.5,6.7
+咖啡厅,The Cafe at the Royal Selangor Visitor Centre,The Cafe at the Royal Selangor Visitor Centre,0,吉隆坡市北,6.8,6.8,6.8
+咖啡厅,星巴克,星巴克,0,巴彦勒帕,0.0,0.0,0.0
+咖啡厅,老爹咖啡,老爹咖啡,0,,7.4,7.4,7.1
+咖啡厅,Dice And Coffee,Dice And Coffee,0,,6.9,6.9,6.9
+咖啡厅,Victoria Station,Victoria Station,0,吉隆坡市北,7.2,7.7,7.7
+咖啡厅,旧金山咖啡,旧金山咖啡,0,太子世界贸易中心,7.2,7.2,7.2
+咖啡厅,甜心园Sweet Corner,甜心园Sweet Corner,0,,7.2,7.2,7.2
+咖啡厅,Cafe Serena Brasserie,Cafe Serena Brasserie,0,双子塔,7.1,7.1,7.1
+咖啡厅,Cafe Cafe,Cafe Cafe,0,吉隆坡唐人街,0.0,0.0,0.0
+咖啡厅,旧街场白咖啡,旧街场白咖啡,0,,7.0,7.0,7.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,其他城市,7.1,7.0,7.0
+咖啡厅,Cafe 96°,Cafe 96°,0,,7.0,7.0,6.9
+咖啡厅,Beach Club Cafe,Beach Club Cafe,0,双子塔,5.9,6.7,5.9
+咖啡厅,Kedai Kopi Ho Ping,Kedai Kopi Ho Ping,0,槟城其他,6.7,6.0,6.0
+咖啡厅,Orang Belanda Art Cafe,Orang Belanda Art Cafe,0,全城,7.5,7.0,7.0
+咖啡厅,Dalkomm Coffee KLCC,Dalkomm Coffee KLCC,0,,0.0,0.0,0.0
+咖啡厅,Hameed Corner,Hameed Corner,0,,6.4,6.4,6.4
+咖啡厅,Jamaica Blue,Jamaica Blue,0,吉隆坡唐人街,7.4,6.7,6.7
+咖啡厅,caffe bene,caffe bene,0,吉隆坡市北,7.0,7.1,6.9
+咖啡厅,1511咖啡馆,1511咖啡馆,0,马六甲,7.0,7.0,7.0
+咖啡厅,Joy Cafe,Joy Cafe,0,吉隆坡市南,7.1,7.0,7.0
+咖啡厅,Emo DesSert & Cafe,Emo DesSert & Cafe,0,其他城市,7.0,7.0,7.0
+咖啡厅,大红草莓咖啡馆,大红草莓咖啡馆,0,其他城市,6.9,6.7,6.9
+咖啡厅,Reminisce Cafe,Reminisce Cafe,0,吉隆坡唐人街,6.7,7.4,6.7
+咖啡厅,AMPM Cafe,AMPM Cafe,0,,0.0,0.0,0.0
+咖啡厅,Green market,Green market,0,,8.4,7.5,8.4
+咖啡厅,LOKL Coffee Co.,LOKL Coffee Co.,0,双子塔,0.0,0.0,0.0
+咖啡厅,The Daily Dose,The Daily Dose,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Yellow cafe beach,Yellow cafe beach,0,,0.0,0.0,0.0
+咖啡厅,The Lighthouse Cafe and Bakery,The Lighthouse Cafe and Bakery,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Limau Limau Cafe,Limau Limau Cafe,0,全城,7.2,7.2,7.2
+咖啡厅,Yellow Cafe,Yellow Cafe,0,,7.2,7.2,7.2
+咖啡厅,Marry Me Sandowichi,Marry Me Sandowichi,0,,0.0,0.0,0.0
+咖啡厅,Coffee Junkie @ Junk,Coffee Junkie @ Junk,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Peter Hoe Cafe,Peter Hoe Cafe,0,吉隆坡唐人街,0.0,0.0,0.0
+咖啡厅,Lao Qian Ice Cafe,Lao Qian Ice Cafe,0,全城,7.1,7.0,7.1
+咖啡厅,Tous les Jours,Tous les Jours(旗舰店),0,武吉免登,0.0,0.0,0.0
+咖啡厅,Coffee Atelier,Coffee Atelier,0,,7.0,7.0,6.9
+咖啡厅,De Moonlight Cafe,De Moonlight Cafe,0,丹戎Bungah,0.0,0.0,0.0
+咖啡厅,Little Lylias Chillout Cafe,Little Lylias Chillout Cafe,0,,7.2,7.2,7.2
+咖啡厅,"Kedai Loi Hin, Bornion Centre","Kedai Loi Hin, Bornion Centre",0,,0.0,0.0,0.0
+咖啡厅,Green Hill Corner Hawker Centre,Green Hill Corner Hawker Centre,0,,7.2,7.2,6.8
+咖啡厅,Kopi Ping Cafe,Kopi Ping Cafe,0,,0.0,0.0,0.0
+咖啡厅,Coffee Terrace,Coffee Terrace,0,,7.2,7.2,7.2
+咖啡厅,Hard Rock Cafe Penang,Hard Rock Cafe Penang,0,,7.2,7.2,7.2
+咖啡厅,Coffea Coffee,Coffea Coffee,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,Melting Pot Cafe,Melting Pot Cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,The Hangout Cafe,The Hangout Cafe,0,,6.9,6.9,6.9
+咖啡厅,STG Tea House Cafe,STG Tea House Cafe,0,,6.9,6.9,6.9
+咖啡厅,Niello Cafe,Niello Cafe,0,,6.9,6.9,6.9
+咖啡厅,Vogue Cafe,Vogue Cafe,0,双子塔,7.0,7.0,7.0
+咖啡厅,Poker Cafe,Poker Cafe,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Yeng Keng Cafe,Yeng Keng Cafe,0,,7.2,7.2,7.2
+咖啡厅,Toys cafe,Toys cafe,0,槟城其他,0.0,0.0,0.0
+咖啡厅,The Warehouse,The Warehouse,0,小印度及其周边,0.0,0.0,0.0
+咖啡厅,Hilltop coffee shop,Hilltop coffee shop,0,,0.0,0.0,0.0
+咖啡厅,Life Cafe,Life Cafe,0,,7.2,7.2,7.2
+咖啡厅,Ming Cafe,Ming Cafe,0,,7.2,7.2,7.2
+咖啡厅,Tjantek Cafe and Art Bistro,Tjantek Cafe and Art Bistro,0,,7.1,7.1,7.1
+咖啡厅,"De Yard Cafe, Penang","De Yard Cafe, Penang",0,,7.0,7.0,7.1
+咖啡厅,Wondermama Restaurant and Cafe,Wondermama Restaurant and Cafe,0,吉隆坡近郊,7.1,7.1,7.1
+咖啡厅,Ombak Cafe Perhentian Island,Ombak Cafe Perhentian Island,0,,7.1,7.1,7.1
+咖啡厅,Eight Ounce Coffee Company,Eight Ounce Coffee Company,0,双子塔,6.9,6.9,6.9
+咖啡厅,Capital Cafe,Capital Cafe,0,小印度及其周边,7.0,7.0,7.0
+咖啡厅,Ourika Restaurant And Cafe,Ourika Restaurant And Cafe,0,金三角/武吉免登,6.9,6.9,6.9
+咖啡厅,Scribble Garden Cafe,Scribble Garden Cafe,0,,6.9,6.9,6.9
+咖啡厅,Hardy Dahlia Cafe,Hardy Dahlia Cafe,0,,7.0,7.0,7.0
+咖啡厅,MG's Cafe - Desa Sri Hartamas,MG's Cafe - Desa Sri Hartamas,0,吉隆坡市北,7.0,7.0,7.0
+咖啡厅,Wakakakaka Cafe,Wakakakaka Cafe,0,,6.9,6.9,6.9
+咖啡厅,Old Andersonian Cafeteria,Old Andersonian Cafeteria,0,,7.1,7.0,7.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,吉隆坡市北,7.1,7.1,7.1
+咖啡厅,Mei Sin Cafe,Mei Sin Cafe,0,全城,7.0,7.0,6.9
+咖啡厅,The Green Elephant,The Green Elephant,0,,7.0,7.0,7.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,吉隆坡市南,7.0,6.9,7.0
+咖啡厅,Geographer Cafe,Geographer Cafe,0,全城,7.2,7.2,7.2
+咖啡厅,Nostalgie Cafe,Nostalgie Cafe,0,,7.0,7.0,7.0
+咖啡厅,Ping Anchorage Travellers Cafe,Ping Anchorage Travellers Cafe,0,,6.9,7.0,7.0
+咖啡厅,Amex fresh mexican cuisine,Amex fresh mexican cuisine,0,,7.1,7.1,7.0
+咖啡厅,De Asian Cafe at Menara CMY,De Asian Cafe at Menara CMY,0,双子塔,6.9,6.7,6.9
+咖啡厅,Home Kitchen,Home Kitchen,0,吉隆坡近郊,6.9,6.9,6.9
+咖啡厅,The Mill Cafe - Grand Millennium Kuala Lumpur,The Mill Cafe - Grand Millennium Kuala Lumpur,0,金三角/武吉免登,7.1,7.1,7.1
+咖啡厅,Full House Cafe,Full House Cafe,0,双子塔,7.0,7.0,7.0
+咖啡厅,Western Spices @Green Hall,Western Spices @Green Hall,0,,7.2,7.2,7.2
+咖啡厅,Cafe Vienna,Cafe Vienna,0,吉隆坡市南,7.1,7.1,7.1
+咖啡厅,Chin Chai Chiak Cafe,Chin Chai Chiak Cafe,0,,7.0,7.1,7.0
+咖啡厅,Crepe Express,Crepe Express,0,,0.0,0.0,0.0
+咖啡厅,Coffee 5 Cups,Coffee 5 Cups,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Yong Len Penang Hokkein Mee,Yong Len Penang Hokkein Mee,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Salt 'n' Pepper Cafe Restaurant,Salt 'n' Pepper Cafe Restaurant,0,,6.7,6.9,6.9
+咖啡厅,Kek Seng Cafe,Kek Seng Cafe,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Coffee Lane,Coffee Lane,0,槟城其他,0.0,0.0,0.0
+咖啡厅,55 Cafe and Restaurant,55 Cafe and Restaurant,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Sugar Honey,Sugar Honey,0,槟城其他,0.0,0.0,0.0
+咖啡厅,The Twelve Cups,The Twelve Cups,0,槟城其他,0.0,0.0,0.0
+咖啡厅,747 CAFE,747 CAFE,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Maggie Cafe,Maggie Cafe,0,,6.9,6.9,6.9
+咖啡厅,Coffee Bean & Tea Leaf,Coffee Bean & Tea Leaf,0,,0.0,0.0,0.0
+咖啡厅,Gloria Jean's Coffees,Gloria Jean's Coffees,0,双子塔,0.0,0.0,0.0
+咖啡厅,Lemon Garden Cafe,Lemon Garden Cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,Coffee Berry,Coffee Berry,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Reggae Mansion Restaurant,Reggae Mansion Restaurant,0,吉隆坡唐人街,0.0,0.0,0.0
+咖啡厅,G Cafe,G Cafe,0,,0.0,0.0,0.0
+咖啡厅,Dome Cafe,Dome Cafe,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,Asia Cafe Food Court,Asia Cafe Food Court,0,,7.2,7.2,7.2
+咖啡厅,Marmalade Cafe & Boutique,Marmalade Cafe & Boutique,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,Manhattan Cafe,Manhattan Cafe,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,BB TOWN CAFE,BB TOWN CAFE,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,Swich Cafe,Swich Cafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,PNB Darby Cafe,PNB Darby Cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,Brussels Beer Cafe,Brussels Beer Cafe,0,,7.1,7.1,7.1
+咖啡厅,Betty's Cafe,Betty's Cafe,0,双子塔,6.9,6.9,6.9
+咖啡厅,Antipodean Cafe - Mid Valley Megamall,Antipodean Cafe - Mid Valley Megamall,0,吉隆坡唐人街,6.9,6.9,6.9
+咖啡厅,Cafe Cafe,Cafe Cafe,0,,7.1,7.1,7.1
+咖啡厅,Nam Heong Coffee Shop,Nam Heong Coffee Shop,0,,7.1,7.1,7.1
+咖啡厅,Mango's Tropical Cafe,Mango's Tropical Cafe,0,金三角/武吉免登,6.9,6.9,6.9
+咖啡厅,D'Istana Jalamas Cafe,D'Istana Jalamas Cafe,0,双子塔,6.9,6.9,6.9
+咖啡厅,Uncle Wah Coffee Corner,Uncle Wah Coffee Corner,0,吉隆坡唐人街,7.0,7.0,7.0
+咖啡厅,Tofu Flower Cafe,Tofu Flower Cafe,0,,6.9,6.9,6.9
+咖啡厅,Lao San Cafe,Lao San Cafe,0,全城,7.1,7.3,7.3
+咖啡厅,siTigun,siTigun,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Golfer's Cafe,Golfer's Cafe,0,,7.1,7.1,7.1
+咖啡厅,Pacific Coffee Company,Pacific Coffee Company,0,吉隆坡近郊,6.9,6.9,6.9
+咖啡厅,Coffee Inlove Cafe,Coffee Inlove Cafe,0,吉隆坡市北,7.0,7.1,7.1
+咖啡厅,Cafe Miri,Cafe Miri,0,,7.1,7.1,7.1
+咖啡厅,Coffee Societe @ Publika,Coffee Societe @ Publika,0,吉隆坡市北,7.1,7.1,7.1
+咖啡厅,Bonser Corner,Bonser Corner,0,金三角/武吉免登,6.9,6.9,6.9
+咖啡厅,Village Briyani Cafe,Village Briyani Cafe,0,,7.1,7.1,7.1
+咖啡厅,Home Town Cafe,Home Town Cafe,0,,6.9,6.9,6.9
+咖啡厅,Zang Toi Cafe,Zang Toi Cafe,0,金三角/武吉免登,6.9,6.9,6.9
+咖啡厅,Zouk Cafe Bar @ The Gardens,Zouk Cafe Bar @ The Gardens,0,吉隆坡市南,6.9,6.9,6.9
+咖啡厅,The Original Cafe Sdn Bhd,The Original Cafe Sdn Bhd,0,,6.9,6.9,6.9
+咖啡厅,OIC Cafe,OIC Cafe,0,,7.0,7.0,7.0
+咖啡厅,Cafe Para Para,Cafe Para Para,0,,7.0,7.0,7.0
+咖啡厅,My Liberica Coffee,My Liberica Coffee,0,,6.9,6.9,6.9
+咖啡厅,Speed Zone Cafe,Speed Zone Cafe,0,,6.9,6.9,6.9
+咖啡厅,hainan joy cafe,hainan joy cafe,0,,6.9,6.9,6.9
+咖啡厅,Ocean Cafe,Ocean Cafe,0,全城,7.0,7.0,7.0
+咖啡厅,Sarifah Cafe,Sarifah Cafe,0,金三角/武吉免登,6.9,6.9,6.9
+咖啡厅,Quay Cafe,Quay Cafe,0,,6.9,6.9,6.9
+咖啡厅,Kopi O Corner,Kopi O Corner,0,,7.0,7.0,7.0
+咖啡厅,Kopi O Corner,Kopi O Corner,0,,7.0,7.1,7.0
+咖啡厅,Six Inch Cafe,Six Inch Cafe,0,黑风洞,6.9,6.9,6.9
+咖啡厅,Kaffe Cafe,Kaffe Cafe,0,吉隆坡市北,7.0,7.0,7.0
+咖啡厅,Laomazis Home Cooked Dishes,Laomazis Home Cooked Dishes,0,黑风洞,7.0,7.0,6.9
+咖啡厅,Home Recipe,Home Recipe,0,,7.0,7.0,7.0
+咖啡厅,Own Town White Coffee,Own Town White Coffee,0,,7.1,7.1,7.1
+咖啡厅,Saigon Cafe,Saigon Cafe,0,,7.0,7.0,6.9
+咖啡厅,La Promise Bakery and Cafe,La Promise Bakery and Cafe,0,,6.9,6.9,6.9
+咖啡厅,Madras Cafe,Madras Cafe,0,吉隆坡市北,7.0,7.0,7.0
+咖啡厅,Coffee Ink,Coffee Ink,0,,7.0,7.0,7.0
+咖啡厅,Colonial Cafe,Colonial Cafe,0,小印度及其周边,7.1,7.1,7.3
+咖啡厅,Gourmet Hotdog Cafe,Gourmet Hotdog Cafe,0,吉隆坡近郊,6.9,6.9,6.9
+咖啡厅,Guan Seang Cafe,Guan Seang Cafe,0,,6.9,6.9,6.9
+咖啡厅,Old Town Coffee,Old Town Coffee,0,,7.1,7.1,7.1
+咖啡厅,IT Roo Cafe,IT Roo Cafe,0,,7.2,7.2,7.2
+咖啡厅,Restoran Cafe De Sky Garden,Restoran Cafe De Sky Garden,0,,7.0,7.0,7.0
+咖啡厅,Indonesian Corner Fast Food,Indonesian Corner Fast Food,0,,6.9,6.9,6.9
+咖啡厅,Taste Bugs Restaurant and Cafe,Taste Bugs Restaurant and Cafe,0,,7.1,6.8,7.1
+咖啡厅,"Cinnamon Coffee House,","Cinnamon Coffee House,",0,,7.0,7.0,7.0
+咖啡厅,Coffee Amo,Coffee Amo,0,双子塔,7.1,7.1,7.1
+咖啡厅,Black Bean,Black Bean,0,,7.2,7.2,7.2
+咖啡厅,Awet Thai Cafe,Awet Thai Cafe,0,,6.9,6.7,6.9
+咖啡厅,The Roof Cafe,The Roof Cafe,0,小印度及其周边,6.9,6.9,7.1
+咖啡厅,Monsta Cafe,Monsta Cafe,0,,7.0,7.0,7.0
+咖啡厅,Nipah CoffeeShop,Nipah CoffeeShop,0,双子塔,6.9,6.9,6.9
+咖啡厅,Delicious Cafe Mid Valley,Delicious Cafe Mid Valley,0,吉隆坡唐人街,6.8,6.8,7.1
+咖啡厅,Riverbank Music Cafe,Riverbank Music Cafe,0,全城,7.0,7.0,7.1
+咖啡厅,Dutch Harbour Cafe,Dutch Harbour Cafe,0,全城,7.2,7.2,7.2
+咖啡厅,Tray Cafe,Tray Cafe,0,,7.0,7.0,7.0
+咖啡厅,J.Co Donuts & Coffee,J.Co Donuts & Coffee,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Juzwaffle Cafe,Juzwaffle Cafe,0,,6.9,6.9,6.9
+咖啡厅,Zakka Loft,Zakka Loft,0,,6.9,6.9,6.9
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,,6.9,6.7,6.7
+咖啡厅,Pak Maidin's Coffee Shop,Pak Maidin's Coffee Shop,0,,6.9,6.9,6.9
+咖啡厅,Ete Cafe,Ete Cafe,0,,7.1,7.1,7.1
+咖啡厅,Nana's Green Tea,Nana's Green Tea,0,吉隆坡唐人街,7.0,7.0,7.0
+咖啡厅,BR Coffee Shop,BR Coffee Shop,0,,6.9,6.9,6.9
+咖啡厅,Lam Heng Cafe,Lam Heng Cafe,0,,6.9,6.9,6.9
+咖啡厅,Asia Cafe,Asia Cafe,0,,6.9,6.9,6.9
+咖啡厅,May N Mikes Spicy Corner,May N Mikes Spicy Corner,0,,7.0,7.0,7.0
+咖啡厅,Ancasa Hotel Coffee House,Ancasa Hotel Coffee House,0,金三角/武吉免登,6.9,6.9,6.9
+咖啡厅,Victoria Station,Victoria Station,0,双子塔,6.9,7.0,7.0
+咖啡厅,Good Friends Cafe,Good Friends Cafe,0,,7.0,7.1,7.1
+咖啡厅,The Place Cafe,The Place Cafe,0,全城,7.0,7.0,7.0
+咖啡厅,Long Hiang Coffee Shop,Long Hiang Coffee Shop,0,全城,7.0,7.0,7.0
+咖啡厅,Lobby Cafe,Lobby Cafe,0,,6.9,6.9,6.9
+咖啡厅,Gathers Cafe,Gathers Cafe,0,,6.9,6.9,7.0
+咖啡厅,Yin's Sourdough Bakery and Cafe,Yin's Sourdough Bakery and Cafe,0,,7.1,7.0,7.0
+咖啡厅,Dome Cafe,Dome Cafe,0,双子塔,6.9,6.9,6.9
+咖啡厅,Juan Valdez Cafe,Juan Valdez Cafe,0,双子塔,7.0,7.0,7.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,,7.1,6.8,6.8
+咖啡厅,Nineteen Eighties Music Bar Cafe,Nineteen Eighties Music Bar Cafe,0,,7.0,7.0,7.1
+咖啡厅,Trio Cafe,Trio Cafe,0,,6.9,6.9,6.9
+咖啡厅,Far East Cafe,Far East Cafe,0,全城,7.1,6.8,7.1
+咖啡厅,Brussels Beer Cafe,Brussels Beer Cafe,0,双子塔,6.8,6.8,7.1
+咖啡厅,Tops Thai Coffee House Staff,Tops Thai Coffee House Staff,0,,6.9,6.9,6.9
+咖啡厅,Ritch Cafe,Ritch Cafe,0,,7.0,7.0,7.0
+咖啡厅,Busy Corner,Busy Corner,0,,6.7,6.9,6.9
+咖啡厅,Johnny's Stall Corner,Johnny's Stall Corner,0,吉隆坡唐人街,7.0,7.0,7.0
+咖啡厅,1881 De Cafe,1881 De Cafe,0,吉隆坡唐人街,6.9,6.9,6.9
+咖啡厅,Killiney,Killiney,0,金三角/武吉免登,6.7,6.9,6.9
+咖啡厅,The Port Cafe and Bistro,The Port Cafe and Bistro,0,,6.8,6.8,6.8
+咖啡厅,Pan Cafe,Pan Cafe,0,,6.9,6.9,7.0
+咖啡厅,The Art Cafe,The Art Cafe,0,,7.1,7.1,7.1
+咖啡厅,Old Forest Cafe,Old Forest Cafe,0,,7.1,7.0,7.0
+咖啡厅,Pak Ngah Corner,Pak Ngah Corner,0,双子塔,6.9,6.9,6.9
+咖啡厅,Malaysian Recipe Cafe,Malaysian Recipe Cafe,0,小印度及其周边,6.7,6.7,6.9
+咖啡厅,Breeks Cafe,Breeks Cafe,0,,6.9,6.9,6.9
+咖啡厅,Al-Arabi Bakery and Cafe,Al-Arabi Bakery and Cafe,0,吉隆坡市北,6.9,6.9,6.9
+咖啡厅,Just Caffe,Just Caffe,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Amelie Cafe,Amelie Cafe,0,槟城其他,0.0,0.0,0.0
+咖啡厅,KAMI Western Cafe,KAMI Western Cafe,0,吉隆坡市南,6.9,6.9,6.9
+咖啡厅,Media Cafe,Media Cafe,0,,6.9,6.9,6.9
+咖啡厅,Edgecumbe Retreat,Edgecumbe Retreat,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Golden Phoenix Cafe,Golden Phoenix Cafe,0,槟城其他,0.0,0.0,0.0
+咖啡厅,RAW coffee,RAW coffee,0,双子塔,0.0,0.0,0.0
+咖啡厅,Espressamente Illy,Espressamente Illy,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,Bobohouse cafe,Bobohouse cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,Shiraz Wine and Cafe,Shiraz Wine and Cafe,0,,0.0,0.0,0.0
+咖啡厅,dr CAFE Malaysia,dr CAFE Malaysia,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,The Lord's Cafe,The Lord's Cafe,0,,7.2,7.2,7.2
+咖啡厅,Joyeux Cafe,Joyeux Cafe,0,,6.9,6.9,6.9
+咖啡厅,Myarte Cafe,Myarte Cafe,0,,7.1,7.1,7.1
+咖啡厅,Monkeycup Cafe @ JCT,Monkeycup Cafe @ JCT,0,,6.9,6.9,6.9
+咖啡厅,Sri Inai Cafe,Sri Inai Cafe,0,,6.9,6.9,6.9
+咖啡厅,PIK NIK Cafe,PIK NIK Cafe,0,,6.9,6.9,6.9
+咖啡厅,Parrot Espresso Cafe,Parrot Espresso Cafe,0,,6.9,6.9,6.9
+咖啡厅,Home Cooked Indian Food,Home Cooked Indian Food,0,吉隆坡唐人街,6.9,6.9,6.9
+咖啡厅,Mollydooker's Coffee Bar,Mollydooker's Coffee Bar,0,吉隆坡市北,6.9,6.9,6.9
+咖啡厅,Home and Away,Home and Away,0,,6.9,6.9,6.9
+咖啡厅,Nalanda Book Cafe,Nalanda Book Cafe,0,吉隆坡市南,6.9,6.9,6.9
+咖啡厅,MJ De Kenanga Cafe,MJ De Kenanga Cafe,0,吉隆坡市南,6.9,6.9,6.9
+咖啡厅,The Black Bean Coffee and Tea Company,The Black Bean Coffee and Tea Company,0,,7.1,7.1,7.1
+咖啡厅,Aroma Cafe,Aroma Cafe,0,,7.1,7.1,7.1
+咖啡厅,Satok Fly Over Cafe,Satok Fly Over Cafe,0,,6.9,6.9,6.9
+咖啡厅,Payung Cafe,Payung Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Lavista,Cafe Lavista,0,,7.1,7.1,7.1
+咖啡厅,Unplugged Music Cafe,Unplugged Music Cafe,0,,6.9,6.9,6.9
+咖啡厅,the BULB COFFEE,the BULB COFFEE,0,,7.0,7.1,7.1
+咖啡厅,Coffee Famille,Coffee Famille,0,,6.9,6.9,6.9
+咖啡厅,Sera Cafe,Sera Cafe,0,,6.9,6.9,6.9
+咖啡厅,palm tree coffee house,palm tree coffee house,0,,6.9,6.9,6.9
+咖啡厅,Foodie Cafe,Foodie Cafe,0,,6.9,6.9,6.9
+咖啡厅,Heng Seng Coffeeshop,Heng Seng Coffeeshop,0,,6.9,6.9,6.9
+咖啡厅,Coob Coffee Club,Coob Coffee Club,0,,6.9,6.9,6.9
+咖啡厅,Nice Kopitiam/Cafe Restaurant,Nice Kopitiam/Cafe Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Seed Natural Food Cafe,Seed Natural Food Cafe,0,,6.9,6.9,6.9
+咖啡厅,Bougainvillea Cafe,Bougainvillea Cafe,0,,7.0,7.0,7.0
+咖啡厅,Riverside Cafe,Riverside Cafe,0,小印度及其周边,7.0,7.0,7.0
+咖啡厅,Boardriders Cafe,Boardriders Cafe,0,吉隆坡唐人街,6.9,6.9,6.9
+咖啡厅,Sakura Kristal Cafe,Sakura Kristal Cafe,0,,6.9,7.0,7.0
+咖啡厅,Three Little Birds Coffee,Three Little Birds Coffee,0,吉隆坡市北,7.0,7.0,7.0
+咖啡厅,Brussels Beer Cafe,Brussels Beer Cafe,0,吉隆坡市北,7.0,7.0,7.0
+咖啡厅,Bondi Junction Cafe KL,Bondi Junction Cafe KL,0,双子塔,6.9,6.9,6.9
+咖啡厅,Await Cafe Kuala Lumpur,Await Cafe Kuala Lumpur,0,吉隆坡市南,6.9,7.1,7.0
+咖啡厅,Yoga Life Cafe,Yoga Life Cafe,0,小印度及其周边,6.9,6.9,6.9
+咖啡厅,Cafe Barbera,Cafe Barbera,0,中央火车站周边,6.9,6.9,6.9
+咖啡厅,Loving Cafe Seri Petaling,Loving Cafe Seri Petaling,0,吉隆坡市南,7.0,7.1,7.0
+咖啡厅,Eight Ounce Coffee,Eight Ounce Coffee,0,吉隆坡唐人街,7.0,7.0,7.0
+咖啡厅,Bakeroni Cafe,Bakeroni Cafe,0,吉隆坡市南,6.9,6.9,6.9
+咖啡厅,Nelson Tan Cafe,Nelson Tan Cafe,0,黑风洞,7.0,7.0,7.0
+咖啡厅,Garden Lifestyle Cafe,Garden Lifestyle Cafe,0,吉隆坡唐人街,6.9,6.9,6.9
+咖啡厅,Chaiwalla Cafe,Chaiwalla Cafe,0,,7.0,7.0,7.0
+咖啡厅,Cuppa-Kap Coffee,Cuppa-Kap Coffee,0,,6.9,6.9,6.9
+咖啡厅,Anmour Cafe Mount Austin Johor Bahru,Anmour Cafe Mount Austin Johor Bahru,0,,7.0,7.0,7.0
+咖啡厅,Woon Lam Cafe,Woon Lam Cafe,0,,6.9,6.9,6.9
+咖啡厅,Aladdin Cafe,Aladdin Cafe,0,,6.9,6.9,6.9
+咖啡厅,Coffee Chemistry Signature,Coffee Chemistry Signature,0,,7.0,7.0,7.0
+咖啡厅,Peppercorn Cafe,Peppercorn Cafe,0,,7.0,6.9,7.0
+咖啡厅,Upstairs Cafe,Upstairs Cafe,0,,7.0,7.0,7.0
+咖啡厅,Free Time Corner,Free Time Corner,0,,6.9,6.9,6.9
+咖啡厅,Umi Corner,Umi Corner,0,,6.9,6.9,6.9
+咖啡厅,Summit Cafe,Summit Cafe,0,,7.0,6.9,7.0
+咖啡厅,Village Coffee shop,Village Coffee shop,0,,6.9,6.9,6.9
+咖啡厅,Austin Chase,Austin Chase,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Taman Emas Coffee Shop,Taman Emas Coffee Shop,0,,7.0,7.0,6.9
+咖啡厅,The World Cafe,The World Cafe,0,,7.1,6.8,7.3
+咖啡厅,Ewan Cafe,Ewan Cafe,0,,7.2,7.2,7.2
+咖啡厅,Neko Cafe,Neko Cafe,0,,7.0,7.0,7.0
+咖啡厅,Embun Dingin Corner,Embun Dingin Corner,0,,6.9,6.9,6.9
+咖啡厅,Mai Cafe Herbal Kopitiam,Mai Cafe Herbal Kopitiam,0,,7.0,7.0,7.0
+咖啡厅,"Meet Fresh, Pavilion KL","Meet Fresh, Pavilion KL",0,金三角/武吉免登,7.1,7.1,7.1
+咖啡厅,The Ganga Cafe,The Ganga Cafe,0,中央火车站周边,7.0,7.0,7.0
+咖啡厅,Horus Cafe and Restaurant,Horus Cafe and Restaurant,0,吉隆坡市南,7.0,7.1,7.0
+咖啡厅,La Boca Cafe,La Boca Cafe,0,双子塔,7.0,7.0,7.0
+咖啡厅,Pesona Cafe,Pesona Cafe,0,,7.0,7.0,7.0
+咖啡厅,Shogo Cafe,Shogo Cafe,0,小印度及其周边,7.1,7.0,7.0
+咖啡厅,GeorgeTown White Coffee,GeorgeTown White Coffee,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Bagel 'n' Coffee Station,Bagel 'n' Coffee Station,0,吉隆坡市北,7.0,7.0,7.0
+咖啡厅,Tray Cafe,Tray Cafe,0,吉隆坡市北,7.1,7.0,7.0
+咖啡厅,Nemo Cafe,Nemo Cafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Huck's Cafe,Huck's Cafe,0,中央火车站周边,7.0,7.0,7.0
+咖啡厅,Steven's Corner,Steven's Corner,0,,6.9,6.9,6.9
+咖啡厅,Sviezy Home,Sviezy Home,0,吉隆坡市北,6.9,6.9,6.9
+咖啡厅,Pat Kin Pat Sun Cafe,Pat Kin Pat Sun Cafe,0,小印度及其周边,7.0,7.0,7.0
+咖啡厅,The Hot Chocolate Cafe,The Hot Chocolate Cafe,0,吉隆坡市北,6.7,6.7,6.7
+咖啡厅,Haven,Haven,0,双子塔,7.0,7.0,7.0
+咖啡厅,Cafe Magpie,Cafe Magpie,0,小印度及其周边,7.1,7.1,7.1
+咖啡厅,Austin Chase Coffee The Intermark,Austin Chase Coffee The Intermark,0,双子塔,6.9,6.9,6.9
+咖啡厅,Cafe Blu,Cafe Blu,0,双子塔,7.1,7.1,7.1
+咖啡厅,Blue Cow Cafe,Blue Cow Cafe,0,吉隆坡市北,7.1,6.8,6.8
+咖啡厅,Tonka Bean Cafe,Tonka Bean Cafe,0,吉隆坡唐人街,7.1,6.8,7.1
+咖啡厅,Win Soon Cafe,Win Soon Cafe,0,吉隆坡市南,7.0,6.9,6.9
+咖啡厅,Restoran A Wet Thai Cafe,Restoran A Wet Thai Cafe,0,吉隆坡市南,7.0,6.9,6.9
+咖啡厅,Hobby N Coffee at TTDI,Hobby N Coffee at TTDI,0,吉隆坡市北,7.0,7.0,7.0
+咖啡厅,Cafe Olivio,Cafe Olivio,0,太子世界贸易中心,6.9,6.9,6.9
+咖啡厅,Cafe Barbera,Cafe Barbera,0,小印度及其周边,6.9,6.9,7.0
+咖啡厅,Lavender Cafe 1 Utama,Lavender Cafe 1 Utama,0,,7.1,7.1,7.0
+咖啡厅,Steven's Corner,Steven's Corner,0,吉隆坡市南,6.6,6.6,6.6
+咖啡厅,Tappers Cafe,Tappers Cafe,0,吉隆坡近郊,6.9,6.9,6.9
+咖啡厅,Star Cafe,Star Cafe,0,吉隆坡市南,6.9,6.9,6.9
+咖啡厅,En Ginza Cafe,En Ginza Cafe,0,小印度及其周边,7.0,7.0,6.9
+咖啡厅,Warisan Cafe,Warisan Cafe,0,双子塔,7.1,7.1,7.1
+咖啡厅,MALI's Corner,MALI's Corner,0,吉隆坡市北,7.0,6.9,7.0
+咖啡厅,San Francisco Coffee Co.,San Francisco Coffee Co.,0,双子塔,7.1,7.1,7.1
+咖啡厅,D mamak corner,D mamak corner,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Season's Cafe,Season's Cafe,0,,6.9,6.9,6.9
+咖啡厅,Tarot Cafe,Tarot Cafe,0,,6.9,6.9,7.0
+咖啡厅,Choon Hui Cafe,Choon Hui Cafe,0,,7.0,7.0,7.0
+咖啡厅,Old Baazar Cafe / Daniel's Kitchen,Old Baazar Cafe / Daniel's Kitchen,0,,7.0,7.1,7.1
+咖啡厅,Attap Corner Kopitiam,Attap Corner Kopitiam,0,,7.1,7.5,7.1
+咖啡厅,Nyan Shin Cafe,Nyan Shin Cafe,0,,7.0,7.0,6.9
+咖啡厅,Pak Amit Cafe,Pak Amit Cafe,0,,6.9,6.9,6.9
+咖啡厅,Little Cafe,Little Cafe,0,,6.8,7.1,7.1
+咖啡厅,Sibu Manna Cafe,Sibu Manna Cafe,0,,6.9,6.9,6.9
+咖啡厅,La Roasteria Coffee,La Roasteria Coffee,0,,7.0,7.0,7.0
+咖啡厅,Tokio Cafe,Tokio Cafe,0,,7.1,7.1,7.1
+咖啡厅,Simply Nyonya Cafe,Simply Nyonya Cafe,0,,7.0,7.0,7.0
+咖啡厅,Allegro Cafe,Allegro Cafe,0,,7.0,7.0,7.0
+咖啡厅,Dome Cafe,Dome Cafe,0,,7.0,7.0,7.0
+咖啡厅,Coffee Planet Shah Alam,Coffee Planet Shah Alam,0,,6.9,6.9,6.9
+咖啡厅,Pig Out Cafe,Pig Out Cafe,0,,6.9,6.9,6.9
+咖啡厅,Coffee Sprex,Coffee Sprex,0,,7.0,7.0,7.0
+咖啡厅,Bonjour Garden Bakery and Cafe,Bonjour Garden Bakery and Cafe,0,,7.1,7.1,7.1
+咖啡厅,"Rumbia Coffee House, De Palma Hotel Ampang","Rumbia Coffee House, De Palma Hotel Ampang",0,,7.1,7.0,7.0
+咖啡厅,Brussels Beer Cafe,Brussels Beer Cafe,0,,7.0,6.9,7.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,,6.9,6.9,6.9
+咖啡厅,WZT Cafe,WZT Cafe,0,,7.0,7.0,6.9
+咖啡厅,Hill Station Cafe,Hill Station Cafe,0,,7.2,7.2,7.2
+咖啡厅,Yong Teng Cafe,Yong Teng Cafe,0,,7.2,7.2,6.8
+咖啡厅,Coffee Shop at Copthorne Hotel Cameron Highlands,Coffee Shop at Copthorne Hotel Cameron Highlands,0,,6.7,6.9,6.7
+咖啡厅,Thumb's cafe,Thumb's cafe,0,,6.9,6.9,7.0
+咖啡厅,Bougainvillea City Cafe,Bougainvillea City Cafe,0,,7.0,7.0,7.0
+咖啡厅,Yut Loy Coffeeshop,Yut Loy Coffeeshop,0,,7.0,7.0,7.0
+咖啡厅,Hotel Panorama Coffee House,Hotel Panorama Coffee House,0,,7.0,6.9,6.9
+咖啡厅,Cafe de Memoire,Cafe de Memoire,0,,7.0,7.0,7.0
+咖啡厅,Charlie Brown Cafe,Charlie Brown Cafe,0,,6.9,6.9,7.0
+咖啡厅,Woody Cafe,Woody Cafe,0,,7.0,7.0,7.0
+咖啡厅,Little Big Cafe,Little Big Cafe,0,,7.1,7.1,7.1
+咖啡厅,D'khas cafe,D'khas cafe,0,,7.1,6.8,7.1
+咖啡厅,Mods Cafe,Mods Cafe,0,全城,6.8,6.8,7.2
+咖啡厅,Anggun Fusion Cafe,Anggun Fusion Cafe,0,吉隆坡市北,6.9,6.9,6.9
+咖啡厅,Ristretto Cafe,Ristretto Cafe,0,吉隆坡市北,6.9,6.9,6.9
+咖啡厅,Min Chong Hygienic Ice Cafe,Min Chong Hygienic Ice Cafe,0,全城,6.9,6.7,6.7
+咖啡厅,Laos Cafe,Laos Cafe,0,,6.9,6.9,6.9
+咖啡厅,Citi Cafe,Citi Cafe,0,吉隆坡唐人街,6.9,6.9,6.9
+咖啡厅,Cafe In The Park,Cafe In The Park,0,金三角/武吉免登,6.9,6.9,6.9
+咖啡厅,D' Mezzanine Coffee House,D' Mezzanine Coffee House,0,,6.9,6.7,6.9
+咖啡厅,3H's Corner,3H's Corner,0,,6.9,6.9,6.9
+咖啡厅,Kuta Bali Cafe,Kuta Bali Cafe,0,,6.9,6.9,6.9
+咖啡厅,发记茶餐室,发记茶餐室,0,,0.0,0.0,0.0
+咖啡厅,Dalkomm Coffee,Dalkomm Coffee,0,,0.0,0.0,0.0
+咖啡厅,OLD TOWN WHITE COFFEE,OLD TOWN WHITE COFFEE,0,,0.0,0.0,0.0
+咖啡厅,STARBUCKS,STARBUCKS,0,,0.0,0.0,0.0
+咖啡厅,Sanrio Hello Kitty Town咖啡厅,Sanrio Hello Kitty Town咖啡厅,0,柔佛新山,0.0,0.0,0.0
+咖啡厅,DiscovEry Cafe & Guest House,DiscovEry Cafe & Guest House,0,全城,0.0,0.0,0.0
+咖啡厅,Delle Coffee,Delle Coffee,0,,0.0,0.0,0.0
+咖啡厅,Suteramaya Cafe,Suteramaya Cafe,0,,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee @ Damansara Uptown 2,Starbucks Coffee @ Damansara Uptown 2,0,,0.0,0.0,0.0
+咖啡厅,Coffee Shack Cafe,Coffee Shack Cafe,0,吉隆坡唐人街,0.0,0.0,0.0
+咖啡厅,Libra Coffee House,Libra Coffee House,0,槟城其他,0.0,0.0,0.0
+咖啡厅,星巴克,星巴克,0,,0.0,0.0,0.0
+咖啡厅,Yellow cafe,Yellow cafe,0,,0.0,0.0,0.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Aseana Cafe,Aseana Cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,Big Apple Donuts & Coffee,Big Apple Donuts & Coffee,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,Intown Cafe & Restaurant,Intown Cafe & Restaurant,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,Teppanyaki Corner,Teppanyaki Corner,0,,0.0,0.0,0.0
+咖啡厅,UM Research Cafe,UM Research Cafe,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,Fit For 2 Studio And Cafe @ Bangsar Shopping Villa,Fit For 2 Studio And Cafe @ Bangsar Shopping Villa,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,Big Apple Donuts Coffee,Big Apple Donuts Coffee,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Home Town hainan coffee,Home Town hainan coffee,0,,0.0,0.0,0.0
+咖啡厅,Hailam Kopitiam @ Damansara Perdana(@ Pudu),Hailam Kopitiam @ Damansara Perdana(@ Pudu),0,吉隆坡唐人街,0.0,0.0,0.0
+咖啡厅,Jia Yan Coffee Shop,Jia Yan Coffee Shop,0,沙巴其他,0.0,0.0,0.0
+咖啡厅,巴林屋顶花园咖啡座,巴林屋顶花园咖啡座,0,,0.0,0.0,0.0
+咖啡厅,Terrace Cafe @ Swiss-Inn KL,Terrace Cafe @ Swiss-Inn KL,0,吉隆坡唐人街,0.0,0.0,0.0
+咖啡厅,鲜芋仙 Pavilion KL,鲜芋仙 Pavilion KL,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,De Familia Corner,De Familia Corner,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,黑风洞,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee @ IOI Mall,Starbucks Coffee @ IOI Mall,0,,0.0,0.0,0.0
+咖啡厅,Egypt Cafe,Egypt Cafe,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,糖朝,糖朝,0,,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee -Gurney Tower-,Starbucks Coffee -Gurney Tower-,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Old Town White Coffee @ Alam Damai,Old Town White Coffee @ Alam Damai,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Cock and Bull Jesselton Point,Cock and Bull Jesselton Point,0,,0.0,0.0,0.0
+咖啡厅,Olympia Coffee House,Olympia Coffee House,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,The Coffee Bean & Tea Leaf @ HSBC Kiosk,The Coffee Bean & Tea Leaf @ HSBC Kiosk,0,吉隆坡唐人街,0.0,0.0,0.0
+咖啡厅,Old Town White Coffee @ Bangsar South,Old Town White Coffee @ Bangsar South,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Dome Cafe @ Pavilion KL,Dome Cafe @ Pavilion KL,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,Big Apple Donuts & Coffee,Big Apple Donuts & Coffee,0,吉隆坡唐人街,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee -Kuala Lumpur Convention Centre-,Starbucks Coffee -Kuala Lumpur Convention Centre-,0,双子塔,0.0,0.0,0.0
+咖啡厅,Omelette Home Kitchen,Omelette Home Kitchen,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Arie Beehoon Sup Corner,Arie Beehoon Sup Corner,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Dining Bowl Vege Cuisine Cafe,Dining Bowl Vege Cuisine Cafe,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,,0.0,0.0,0.0
+咖啡厅,Tommyboy Cafe,Tommyboy Cafe,0,,0.0,0.0,0.0
+咖啡厅,O & N Coffee Shop,O & N Coffee Shop,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Ocean Green,Ocean Green,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Babush Cafe,Babush Cafe,0,,0.0,0.0,0.0
+咖啡厅,Nelson Tan Cafe and Restaurant鸟生蛋,Nelson Tan Cafe and Restaurant鸟生蛋,0,黑风洞,0.0,0.0,0.0
+咖啡厅,Museum Restaurant & Cafe Sdn Bhd,Museum Restaurant & Cafe Sdn Bhd,0,小印度及其周边,0.0,0.0,0.0
+咖啡厅,Sayang Coffee House,Sayang Coffee House,0,槟城其他,0.0,0.0,0.0
+咖啡厅,小雨傘,小雨傘,0,,0.0,0.0,0.0
+咖啡厅,Wakakakaka Cafe,Wakakakaka Cafe,0,,0.0,0.0,0.0
+咖啡厅,Tarot Cafe,Tarot Cafe,0,,0.0,0.0,0.0
+咖啡厅,Deli Cafe,Deli Cafe,0,,0.0,0.0,0.0
+咖啡厅,Coffee by Austin Chase,Coffee by Austin Chase,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Coffee Omega (M) Sdn Bhd,Coffee Omega (M) Sdn Bhd,0,,0.0,0.0,0.0
+咖啡厅,Apex Coffee Bay Avenue,Apex Coffee Bay Avenue,0,槟城其他,0.0,0.0,0.0
+咖啡厅,FeelingCafe,FeelingCafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Victoria Station,Victoria Station,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Big Boy Coffee House & Catering,Big Boy Coffee House & Catering,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Tian Yian Cafe & Restaurant @ Taman Miharja,Tian Yian Cafe & Restaurant @ Taman Miharja,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,New Town White Coffee,New Town White Coffee,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Pacific Cafe,Pacific Cafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Five F Corner,Five F Corner,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Winter Warmers Coffee & Tea House,Winter Warmers Coffee & Tea House,0,槟城其他,0.0,0.0,0.0
+咖啡厅,"Food Loft, Gurney Plaza","Food Loft, Gurney Plaza",0,槟城其他,0.0,0.0,0.0
+咖啡厅,Little Penang Cafe,Little Penang Cafe,0,吉隆坡唐人街,0.0,0.0,0.0
+咖啡厅,Perfect Cup Coffee (M) Sdn Bhd,Perfect Cup Coffee (M) Sdn Bhd,0,,0.0,0.0,0.0
+咖啡厅,Home Sweet Home,Home Sweet Home,0,槟城其他,0.0,0.0,0.0
+咖啡厅,老街场白咖啡,老街场白咖啡,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Tawau Citi Cafe,Tawau Citi Cafe,0,,0.0,0.0,0.0
+咖啡厅,Saemaeul Yeo Pe Cafe,Saemaeul Yeo Pe Cafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Emo DesSert & Cafe,Emo DesSert & Cafe,0,,0.0,0.0,0.0
+咖啡厅,香兴茶馆,香兴茶馆,0,,0.0,0.0,0.0
+咖啡厅,Central Cafe,Central Cafe,0,,0.0,0.0,0.0
+咖啡厅,HainAn Tea,HainAn Tea,0,,0.0,0.0,0.0
+咖啡厅,Rex Cafe,Rex Cafe,0,古晋,0.0,0.0,0.0
+咖啡厅,Hardy Dahlia Cafe,Hardy Dahlia Cafe,0,,0.0,0.0,0.0
+咖啡厅,Seed Cafe,Seed Cafe,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,Haikara Style Cafe,Haikara Style Cafe,0,,0.0,0.0,0.0
+咖啡厅,Islamic Cafe,Islamic Cafe,0,,0.0,0.0,0.0
+咖啡厅,Pak Amit Cafe,Pak Amit Cafe,0,,0.0,0.0,0.0
+咖啡厅,Garden Cafe Summit USJ,Garden Cafe Summit USJ,0,,0.0,0.0,0.0
+咖啡厅,The Coffee Bean & Tea Leaf @ Beach Hut Gurney,The Coffee Bean & Tea Leaf @ Beach Hut Gurney,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Spice Market Cafe at Shangri-La's Rasa Sayang Reso,Spice Market Cafe at Shangri-La's Rasa Sayang Reso,0,槟城其他,0.0,0.0,0.0
+咖啡厅,1 Stop Cafe 大家乐咖啡店,1 Stop Cafe 大家乐咖啡店,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Jaya Cater's Corner,Jaya Cater's Corner,0,槟城其他,0.0,0.0,0.0
+咖啡厅,PV 10 D Bakery Cafe,PV 10 D Bakery Cafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,The Coffee Bean & Tealeaf,The Coffee Bean & Tealeaf,0,,0.0,0.0,0.0
+咖啡厅,Ilham Food Corner,Ilham Food Corner,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Thyme Bakery and Cafe @ Aman Suria,Thyme Bakery and Cafe @ Aman Suria,0,,0.0,0.0,0.0
+咖啡厅,J.co Donut & Coffee,J.co Donut & Coffee,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,pause coffee,pause coffee,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Nyan Shin Cafe,Nyan Shin Cafe,0,古晋,0.0,0.0,0.0
+咖啡厅,Geodesic Dome,Geodesic Dome,0,,0.0,0.0,0.0
+咖啡厅,GRANDPA KOPITIAM,GRANDPA KOPITIAM,0,,0.0,0.0,0.0
+咖啡厅,咖啡店,咖啡店,0,,0.0,0.0,0.0
+咖啡厅,Ear things Coffee Workshop,Ear things Coffee Workshop,0,,0.0,0.0,0.0
+咖啡厅,Bojio Cafe,Bojio Cafe,0,,0.0,0.0,0.0
+咖啡厅,RK Recipe Cafe,RK Recipe Cafe,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Svea Cafe,Svea Cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,Hinz Cafe,Hinz Cafe,0,黑风洞,0.0,0.0,0.0
+咖啡厅,"Pearl Point Cafe, Pearl Point Condominium.","Pearl Point Cafe, Pearl Point Condominium.",0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Restoran Sri Steven's Corner,Restoran Sri Steven's Corner,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Whippy Fresh Ice Cream Cafe,Whippy Fresh Ice Cream Cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,Lomo House Cafe,Lomo House Cafe,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Sedap Kebab Corner,Sedap Kebab Corner,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Stadium Cafe Wangsa Maju,Stadium Cafe Wangsa Maju,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Lol Cafe,Lol Cafe,0,,0.0,0.0,0.0
+咖啡厅,LKL Western Food Corner,LKL Western Food Corner,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Jackie Chan's Cafe,Jackie Chan's Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe' La' Teh,Cafe' La' Teh,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Cafe La Teh,Cafe La Teh,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Claypot Foods Cafe,Claypot Foods Cafe,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,The Art Cafe,The Art Cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,Silver Leaf Cafe Patisserie and Confectionery,Silver Leaf Cafe Patisserie and Confectionery,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,La Venue Cafe,La Venue Cafe,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Cafe Berlin,Cafe Berlin,0,太子世界贸易中心,0.0,0.0,0.0
+咖啡厅,GILLY COFFEE INN,GILLY COFFEE INN,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Istanbul Cafe,Istanbul Cafe,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,Restoran Ali Food Corner,Restoran Ali Food Corner,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Cafe Jiran,Cafe Jiran,0,暗邦,0.0,0.0,0.0
+咖啡厅,Horoscope Cafe,Horoscope Cafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Upper East Side Cafe,Upper East Side Cafe,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Tery Pork Cafe,Tery Pork Cafe,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Micofz Cafe,Micofz Cafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,The Owl and The Pussycat Cafe by Kokopelli,The Owl and The Pussycat Cafe by Kokopelli,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,New Black Coffee Lab,New Black Coffee Lab,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Relish*Restaurant*Cafe*Bar,Relish*Restaurant*Cafe*Bar,0,双子塔,0.0,0.0,0.0
+咖啡厅,Spice Loft Cafe,Spice Loft Cafe,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Limau Nipis Cafe,Limau Nipis Cafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Tazza Cafe,Tazza Cafe,0,小印度及其周边,0.0,0.0,0.0
+咖啡厅,The Saddle Coffee House,The Saddle Coffee House,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Quinz Cafe,Quinz Cafe,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Viva Mocha Coffee Bar,Viva Mocha Coffee Bar,0,双子塔,0.0,0.0,0.0
+咖啡厅,Green Lotus,Green Lotus,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,Akmal's Corner Char Kuey Toew,Akmal's Corner Char Kuey Toew,0,黑风洞,0.0,0.0,0.0
+咖啡厅,Players Cafe,Players Cafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Mat Salai Corner Kampung Tok Adam,Mat Salai Corner Kampung Tok Adam,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Cafe Caterpillar,Cafe Caterpillar,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Par Tea Time (Setapak),Par Tea Time (Setapak),0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,L'amour Cafe,L'amour Cafe,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Garden Cafe,Garden Cafe,0,小印度及其周边,0.0,0.0,0.0
+咖啡厅,Gasoline Cafe,Gasoline Cafe,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,Mamam CAFE,Mamam CAFE,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,Aoyama The Green Room,Aoyama The Green Room,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,D'Loft Cafe,D'Loft Cafe,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,True Brew Cafe,True Brew Cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,myespressoLAB Coffee Roaster,myespressoLAB Coffee Roaster,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Elise's Cafe at Plaza Damas,Elise's Cafe at Plaza Damas,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,VAC cafe,VAC cafe,0,黑风洞,0.0,0.0,0.0
+咖啡厅,Kabab Corner IIUM,Kabab Corner IIUM,0,黑风洞,0.0,0.0,0.0
+咖啡厅,My Darts Cafe,My Darts Cafe,0,,0.0,0.0,0.0
+咖啡厅,My Mama Cafe,My Mama Cafe,0,黑风洞,0.0,0.0,0.0
+咖啡厅,Emporium Grand Cafe and The Lounge,Emporium Grand Cafe and The Lounge,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Social Chat Bistro and Cafe,Social Chat Bistro and Cafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Yaaho Cafe,Yaaho Cafe,0,金三角/武吉免登,0.0,0.0,0.0
+咖啡厅,Daddy's Gurlz Cafe,Daddy's Gurlz Cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,Coffee Berry Express,Coffee Berry Express,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Benjiana Steakhouse Cafe,Benjiana Steakhouse Cafe,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Sa'Sa De Cafe,Sa'Sa De Cafe,0,,0.0,0.0,0.0
+咖啡厅,Siti Et Sara Cafe,Siti Et Sara Cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,Health cafe,Health cafe,0,双子塔,0.0,0.0,0.0
+咖啡厅,Green Garden Organic Recipe,Green Garden Organic Recipe,0,黑风洞,0.0,0.0,0.0
+咖啡厅,Stop City Cafe,Stop City Cafe,0,小印度及其周边,0.0,0.0,0.0
+咖啡厅,Glaziers Cafe,Glaziers Cafe,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,D' Fashion Cafe,D' Fashion Cafe,0,中央火车站周边,0.0,0.0,0.0
+咖啡厅,Cafe Takahashi,Cafe Takahashi,0,双子塔,0.0,0.0,0.0
+咖啡厅,Meet Time Kitchen,Meet Time Kitchen,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Haavin Corner Paragon Selayang,Haavin Corner Paragon Selayang,0,黑风洞,0.0,0.0,0.0
+咖啡厅,Rimba Corner,Rimba Corner,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,Chim Chum by Cafe Upstairs,Chim Chum by Cafe Upstairs,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Rosso Cafe,Rosso Cafe,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,星巴克,星巴克,0,,0.0,0.0,0.0
+咖啡厅,Wings Musicafe @ Times Walk KL回音石民歌餐厅,Wings Musicafe @ Times Walk KL回音石民歌餐厅,0,双子塔,0.0,0.0,0.0
+咖啡厅,Chopper Board Food Corner Sdn Bhd,Chopper Board Food Corner Sdn Bhd,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee @ Taylor's Lakeside,Starbucks Coffee @ Taylor's Lakeside,0,,0.0,0.0,0.0
+咖啡厅,Robert Harris Cafe,Robert Harris Cafe,0,,0.0,0.0,0.0
+咖啡厅,Kopitan,Kopitan,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Coffee Loft,Coffee Loft,0,柔佛新山,0.0,0.0,0.0
+咖啡厅,Hailam Kopitiam @ Damansara Perdana(@W.Maju),Hailam Kopitiam @ Damansara Perdana(@W.Maju),0,,0.0,0.0,0.0
+咖啡厅,San Francisco Coffee @ Symphony House,San Francisco Coffee @ Symphony House,0,,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee -Cheras Leisure Mall-,Starbucks Coffee -Cheras Leisure Mall-,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,21st Century Cafe (KL) Sdn. Bhd.,21st Century Cafe (KL) Sdn. Bhd.,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Stationone Coffee @ Kepong,Stationone Coffee @ Kepong,0,黑风洞,0.0,0.0,0.0
+咖啡厅,Country Cafe Sdn. Bhd.,Country Cafe Sdn. Bhd.,0,,0.0,0.0,0.0
+咖啡厅,Stationone Coffee @ Queensbay Mall,Stationone Coffee @ Queensbay Mall,0,槟城其他,0.0,0.0,0.0
+咖啡厅,Gloria Jeans Coffees Kenanga International,Gloria Jeans Coffees Kenanga International,0,双子塔,0.0,0.0,0.0
+咖啡厅,"Lemon Garden Cafe, Shangri-La Hotel, Kuala Lumpur","Lemon Garden Cafe, Shangri-La Hotel, Kuala Lumpur",0,双子塔,0.0,0.0,0.0
+咖啡厅,Old Town White Coffee @ Summit USJ,Old Town White Coffee @ Summit USJ,0,,0.0,0.0,0.0
+咖啡厅,Aladdin Cafe,Aladdin Cafe,0,,0.0,0.0,0.0
+咖啡厅,Garden Cafe & ResTaurAnt,Garden Cafe & ResTaurAnt,0,,0.0,0.0,0.0
+咖啡厅,Woon Lam Cafe,Woon Lam Cafe,0,,0.0,0.0,0.0
+咖啡厅,Celebrity Cafe Kuching,Celebrity Cafe Kuching,0,,0.0,0.0,0.0
+咖啡厅,Old Town White Coffee,Old Town White Coffee,0,,0.0,0.0,0.0
+咖啡厅,Lynn's Cafe & Catering,Lynn's Cafe & Catering,0,,0.0,0.0,0.0
+咖啡厅,D'Fortune Western Cuisine & Cafe,D'Fortune Western Cuisine & Cafe,0,黑风洞,0.0,0.0,0.0
+咖啡厅,Wok and Roll Cafe @ Connaught,Wok and Roll Cafe @ Connaught,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,Tai Zi Cafe @ Tmn Cheras,Tai Zi Cafe @ Tmn Cheras,0,吉隆坡近郊,0.0,0.0,0.0
+咖啡厅,The Coffee Bean & Tea Leaf @ Solaris Mont' Kiara,The Coffee Bean & Tea Leaf @ Solaris Mont' Kiara,0,吉隆坡市北,0.0,0.0,0.0
+咖啡厅,The Vanilla Box Bakery Cafe,The Vanilla Box Bakery Cafe,0,小印度及其周边,0.0,0.0,0.0
+咖啡厅,strawberry cafe,strawberry cafe,0,,0.0,0.0,0.0
+咖啡厅,The Summers Cafe,The Summers Cafe,0,吉隆坡市南,0.0,0.0,0.0
+咖啡厅,Green Apple Cafe House,Green Apple Cafe House,0,,0.0,0.0,0.0
+咖啡厅,The Coffee Bean,The Coffee Bean,0,小印度及其周边,0.0,0.0,0.0
+咖啡厅,MALAYSIAN Recipe Cafe,MALAYSIAN Recipe Cafe,0,,0.0,0.0,0.0
+咖啡厅,浮罗夜来香咖啡店,浮罗夜来香咖啡店,0,,0.0,0.0,0.0
+咖啡厅,汤米男孩,汤米男孩,0,其他城市,0.0,0.0,0.0
+咖啡厅,Deli Cafe,Deli Cafe,0,,0.0,0.0,0.0
+咖啡厅,Serapi Corner,Serapi Corner,0,,0.0,0.0,0.0
+咖啡厅,3H's Corner,3H's Corner,0,,0.0,0.0,0.0
+咖啡厅,Thonmpson Corner Food court,Thonmpson Corner Food court,0,,0.0,0.0,0.0
+咖啡厅,Bismi Cafe,Bismi Cafe,0,,0.0,0.0,0.0
+咖啡厅,D'Dayak Cafe,D'Dayak Cafe,0,,0.0,0.0,0.0
+咖啡厅,Teberuh Cafe,Teberuh Cafe,0,,0.0,0.0,0.0
+咖啡厅,Hua Hee Corner,Hua Hee Corner,0,,0.0,0.0,0.0
+咖啡厅,Secret Garden Cafe,Secret Garden Cafe,0,,0.0,0.0,0.0
+咖啡厅,Dining Place Cafe,Dining Place Cafe,0,,0.0,0.0,0.0
+咖啡厅,THE RITZ CAFE,THE RITZ CAFE,0,,0.0,0.0,0.0
+咖啡厅,Bemmers cafe,Bemmers cafe,0,,0.0,0.0,0.0
+面包甜点,富源茶餐厅,富源茶餐厅,21,,7.9,7.8,7.6
+面包甜点,一口吃榴莲泡芙,一口吃榴莲泡芙,8,,8.3,7.7,8.2
+面包甜点,Roti Boy,Roti Boy,6,双子塔,7.9,7.6,7.6
+面包甜点,榴莲王,榴莲王,0,,8.7,8.3,8.3
+面包甜点,糖百府,糖百府,19,双子塔,8.1,8.0,7.9
+面包甜点,四果汤,四果汤,0,乔治镇,7.4,7.1,7.5
+面包甜点,仙Q甜品专卖店,仙Q甜品专卖店,13,,7.9,7.6,7.7
+面包甜点,The Loaf Bakery & Bistro,The Loaf Bakery & Bistro,34,,7.2,7.7,7.7
+面包甜点,名香泰饼家,名香泰饼家,0,槟城其他,7.7,7.6,7.5
+面包甜点,Durian Durian,Durian Durian,0,双子塔,7.7,7.3,7.4
+面包甜点,琼万兴,琼万兴,0,,7.9,7.4,8.0
+面包甜点,BISOU BAKE SHOP,BISOU BAKE SHOP,0,双子塔,6.6,7.1,7.2
+面包甜点,Rotiboy Bakeshoppe,Rotiboy Bakeshoppe,11,其他城市,7.6,7.1,7.2
+面包甜点,汕头街养生糖水铺,汕头街养生糖水铺,0,乔治镇,8.1,7.6,7.9
+面包甜点,沙巴榴莲王,沙巴榴莲王,0,亚庇市中心,7.1,6.8,6.6
+面包甜点,伍记饼家,伍记饼家,0,乔治镇,7.5,7.5,7.9
+面包甜点,许留山,许留山,0,,7.7,7.2,7.2
+面包甜点,Nadeje Cake House,Nadeje Cake House,0,全城,8.4,7.8,8.1
+面包甜点,Nadeje Patisserie,Nadeje Patisserie,0,马六甲,7.3,7.4,7.4
+面包甜点,小江豆浆,小江豆浆,0,,7.7,8.1,8.1
+面包甜点,彭记极品榴莲档,彭记极品榴莲档,0,,6.3,5.8,6.1
+面包甜点,Smoothieci,Smoothieci,0,,7.5,7.5,7.5
+面包甜点,Eha Juice & Veggie Bistro,Eha Juice & Veggie Bistro,0,全城,7.0,7.0,7.0
+面包甜点,Moonlight Cake House Taman Johor Jaya,Moonlight Cake House Taman Johor Jaya,0,,7.7,7.7,7.7
+面包甜点,Roti Boy,Roti Boy,0,双子塔,7.6,7.6,7.6
+面包甜点,The Loaf 面包馆,The Loaf 面包馆,0,兰卡威其他,6.7,6.7,6.7
+面包甜点,Secret Recipe Cakes & Cafe,Secret Recipe Cakes & Cafe,0,吉隆坡市北,7.4,7.4,7.4
+面包甜点,Rainforest Bakery & Pastry Sdn. Bhd.,Rainforest Bakery & Pastry Sdn. Bhd.,0,槟城其他,7.5,8.4,7.5
+面包甜点,Boost,Boost,0,,7.3,7.3,6.8
+面包甜点,大大蛋糕烘焙屋,大大蛋糕烘焙屋,0,槟城其他,7.0,7.1,7.1
+面包甜点,Black Ball--Original Taiwanese Tea & Dessert,Black Ball--Original Taiwanese Tea & Dessert,0,,6.9,6.9,6.9
+面包甜点,仙q甜品,仙q甜品,0,,5.9,5.9,5.9
+面包甜点,意大利甜品屋,意大利甜品屋,0,其他城市,7.2,7.2,7.2
+面包甜点,Taste Better,Taste Better,0,,7.1,6.9,6.9
+面包甜点,Singtech Machinery Enterprise,Singtech Machinery Enterprise,0,槟城其他,7.1,7.1,7.1
+面包甜点,7 Heaven,7 Heaven,0,,6.9,6.9,6.9
+面包甜点,Garrett Popcorn shops,Garrett Popcorn shops,0,,8.2,8.2,8.2
+面包甜点,BOH VISITOR CENTRE,BOH VISITOR CENTRE,0,其他城市,6.9,7.0,6.9
+面包甜点,Bisou烘焙店,Bisou烘焙店,0,,6.9,7.0,7.0
+面包甜点,sugar spice,sugar spice,0,,6.7,6.7,6.9
+面包甜点,仙Q甜品专卖店,仙Q甜品专卖店,0,吉隆坡近郊,6.9,7.0,7.1
+面包甜点,安邦家乡酿豆腐,安邦家乡酿豆腐,0,,6.8,6.3,6.8
+面包甜点,茉莉蛋糕店,茉莉蛋糕店,0,槟城其他,7.9,7.3,7.3
+面包甜点,Rasa nikmat,Rasa nikmat,0,其他城市,7.1,7.0,7.0
+面包甜点,曼煎糕,曼煎糕,0,,7.1,6.7,6.9
+面包甜点,Kelly Cake House,Kelly Cake House,0,,7.2,7.2,7.2
+面包甜点,叶之味,叶之味,0,,6.9,6.9,6.9
+面包甜点,Mister Donut,Mister Donut,0,槟城其他,6.9,6.9,7.0
+面包甜点,RT Pastry House @ Taman Desa,RT Pastry House @ Taman Desa,0,吉隆坡市南,7.2,6.9,6.9
+面包甜点,Auntie Anne's,Auntie Anne's,0,其他城市,7.1,6.9,6.9
+面包甜点,许留山,许留山,0,其他城市,7.0,7.0,7.0
+面包甜点,记得食,记得食,0,,6.9,6.9,6.9
+面包甜点,Baskin Robbins,Baskin Robbins,0,其他城市,6.9,6.9,6.9
+面包甜点,许留山,许留山,0,金三角/武吉免登,7.5,7.5,5.9
+面包甜点,Passion Heart,Passion Heart,0,槟城其他,0.0,0.0,0.0
+面包甜点,Yin's Sourdough Bakery,Yin's Sourdough Bakery,0,槟城其他,0.0,0.0,0.0
+面包甜点,"J.Co Donuts, Coffee and yogurt","J.Co Donuts, Coffee and yogurt",0,双子塔,0.0,0.0,0.0
+面包甜点,The Bakery,The Bakery,0,,7.1,7.1,7.1
+面包甜点,7 Heaven,7 Heaven,0,沙巴其他,0.0,0.0,0.0
+面包甜点,Levain Boulangerie,Levain Boulangerie,0,双子塔,0.0,0.0,0.0
+面包甜点,Lovelocks,Lovelocks,0,槟城其他,0.0,0.0,0.0
+面包甜点,Sun Moulin Bakery,Sun Moulin Bakery,0,双子塔,0.0,0.0,0.0
+面包甜点,Hui Lau Shan,Hui Lau Shan,0,槟城其他,0.0,0.0,0.0
+面包甜点,Chatime,Chatime,0,吉隆坡市北,7.0,7.0,7.0
+面包甜点,Wafflemeister,Wafflemeister,0,双子塔,7.0,7.0,7.0
+面包甜点,Ipoh Bakery,Ipoh Bakery,0,,7.0,6.9,6.9
+面包甜点,Delicious,Delicious,0,丹戎Bungah,0.0,0.0,0.0
+面包甜点,Meidi-ya Fresh Bakery,Meidi-ya Fresh Bakery,0,小印度及其周边,7.0,7.0,6.9
+面包甜点,Ming Xiang Tai Cake and Pastry,Ming Xiang Tai Cake and Pastry,0,,7.0,7.0,7.0
+面包甜点,Moonlight Cake House Bukit Indah,Moonlight Cake House Bukit Indah,0,,7.1,7.1,7.1
+面包甜点,Brown Pocket,Brown Pocket,0,槟城其他,0.0,0.0,0.0
+面包甜点,LB (Lian Bee) Confectionery Sdn Bhd,LB (Lian Bee) Confectionery Sdn Bhd,0,吉隆坡市南,0.0,0.0,0.0
+面包甜点,"Papparoti, Sungei Wang","Papparoti, Sungei Wang",0,金三角/武吉免登,6.9,6.9,6.9
+面包甜点,Tedboy Bakery,Tedboy Bakery,0,中央火车站周边,7.1,7.1,7.1
+面包甜点,Godiva Chocolatier- Pavilion KL,Godiva Chocolatier- Pavilion KL,0,金三角/武吉免登,6.9,6.9,6.9
+面包甜点,Sweet Hut,Sweet Hut,0,吉隆坡近郊,6.9,6.9,6.9
+面包甜点,The Kitchen Table Bakery and Restauarant,The Kitchen Table Bakery and Restauarant,0,,7.0,7.1,7.0
+面包甜点,Sweet Day Malaysia,Sweet Day Malaysia,0,双子塔,0.0,0.0,0.0
+面包甜点,Moonlight Cake House Taman Pelangi,Moonlight Cake House Taman Pelangi,0,,6.7,6.7,6.7
+面包甜点,Bisou Bake Shop,Bisou Bake Shop,0,中央火车站周边,6.9,6.9,6.9
+面包甜点,Muhibah Aneka Cake House,Muhibah Aneka Cake House,0,,7.0,7.0,7.1
+面包甜点,Pinocchio,Pinocchio,0,,7.0,7.0,7.0
+面包甜点,Sweet Hut Seremban S2,Sweet Hut Seremban S2,0,,6.9,6.9,6.9
+面包甜点,梁池记老饼家,梁池记老饼家,0,乔治镇,0.0,0.0,0.0
+面包甜点,北洋捷源饼家,北洋捷源饼家,0,,0.0,0.0,0.0
+面包甜点,峰甜品,峰甜品,0,沙巴其他,0.0,0.0,0.0
+面包甜点,Papparoti,Papparoti,0,金三角/武吉免登,0.0,0.0,0.0
+面包甜点,Baskin Robbins,Baskin Robbins,0,槟城其他,0.0,0.0,0.0
+面包甜点,Cupcake Chic @ Pavilion KL,Cupcake Chic @ Pavilion KL,0,金三角/武吉免登,0.0,0.0,0.0
+面包甜点,BOOST,BOOST,0,吉隆坡近郊,0.0,0.0,0.0
+面包甜点,星记凉茶,星记凉茶,0,,0.0,0.0,0.0
+面包甜点,New Zealand Natural,New Zealand Natural,0,槟城其他,0.0,0.0,0.0
+面包甜点,Kedai Kek & Bahulu Rashidah,Kedai Kek & Bahulu Rashidah,0,,0.0,0.0,0.0
+面包甜点,Disco Fresh Milk 迪斯哥鲜奶摊,Disco Fresh Milk 迪斯哥鲜奶摊,0,槟城其他,0.0,0.0,0.0
+面包甜点,Sunflower Bakery & Cake House,Sunflower Bakery & Cake House,0,,0.0,0.0,0.0
+面包甜点,Taste Better榴莲泡芙,Taste Better榴莲泡芙,0,,0.0,0.0,0.0
+面包甜点,Haagen Dazs,Haagen Dazs,0,槟城其他,0.0,0.0,0.0
+面包甜点,Mr. Bread,Mr. Bread,0,,0.0,0.0,0.0
+面包甜点,Rotiboy Bakeshoppe,Rotiboy Bakeshoppe,0,吉隆坡市北,0.0,0.0,0.0
+面包甜点,The Baker's Cottage @ Oug,The Baker's Cottage @ Oug,0,吉隆坡市南,0.0,0.0,0.0
+面包甜点,Honey Bake Sdn. Bhd.,Honey Bake Sdn. Bhd.,0,金三角/武吉免登,0.0,0.0,0.0
+面包甜点,冰糖龙眼罗汉果炖冬瓜,冰糖龙眼罗汉果炖冬瓜,0,,0.0,0.0,0.0
+面包甜点,Breadtalk,Breadtalk,0,金三角/武吉免登,0.0,0.0,0.0
+面包甜点,honeyzone bakery,honeyzone bakery,0,,0.0,0.0,0.0
+面包甜点,"Mee & Cake House, Wisma Merdeka","Mee & Cake House, Wisma Merdeka",0,,0.0,0.0,0.0
+面包甜点,Eha Juice & Veggie Bistro,Eha Juice & Veggie Bistro,0,马六甲,0.0,0.0,0.0
+面包甜点,Kedai Kek Berry's,Kedai Kek Berry's,0,,0.0,0.0,0.0
+面包甜点,San Terri Cottage,San Terri Cottage,0,吉隆坡市北,0.0,0.0,0.0
+面包甜点,Secret Recipe Cakes & Cafe Sdn. Bhd.,Secret Recipe Cakes & Cafe Sdn. Bhd.,0,,0.0,0.0,0.0
+面包甜点,Roti-Roti International Sdn. Bhd.,Roti-Roti International Sdn. Bhd.,0,,0.0,0.0,0.0
+面包甜点,Orange Zone Bakery,Orange Zone Bakery,0,,0.0,0.0,0.0
+面包甜点,Tasty Food Industries Sdn Bhd,Tasty Food Industries Sdn Bhd,0,槟城其他,0.0,0.0,0.0
+面包甜点,Summer Dessert Bakery,Summer Dessert Bakery,0,槟城其他,0.0,0.0,0.0
+面包甜点,New Zealand Natural,New Zealand Natural,0,槟城其他,0.0,0.0,0.0
+面包甜点,Sweet ShaSha Cheese Tart N Macarons,Sweet ShaSha Cheese Tart N Macarons,0,中央火车站周边,0.0,0.0,0.0
+面包甜点,Wendy Cake House,Wendy Cake House,0,,0.0,0.0,0.0
+面包甜点,Paddington House of Pancakes @ Queensbay Mall,Paddington House of Pancakes @ Queensbay Mall,0,槟城其他,0.0,0.0,0.0
+面包甜点,Tong Wah Confectionery,Tong Wah Confectionery,0,吉隆坡唐人街,0.0,0.0,0.0
+面包甜点,Snow Factory,Snow Factory,0,双子塔,0.0,0.0,0.0
+面包甜点,Choc Boutique,Choc Boutique,0,中央火车站周边,0.0,0.0,0.0
+面包甜点,"BreadTalk, Pavilion Kuala Lumpur","BreadTalk, Pavilion Kuala Lumpur",0,金三角/武吉免登,0.0,0.0,0.0
+面包甜点,Beha's Bakery,Beha's Bakery,0,双子塔,0.0,0.0,0.0
+面包甜点,Hai Joo Bakery & Confectionery Sdn. Bhd.,Hai Joo Bakery & Confectionery Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+面包甜点,Y. S. Bakery,Y. S. Bakery,0,槟城其他,0.0,0.0,0.0
+面包甜点,CHOCOMOCO,CHOCOMOCO,0,,0.0,0.0,0.0
+面包甜点,Cake Story,Cake Story,0,槟城其他,0.0,0.0,0.0
+面包甜点,富兴点心屋,富兴点心屋,0,蒲种,0.0,0.0,0.0
+面包甜点,甜圈港式点心茶楼,甜圈港式点心茶楼,0,,0.0,0.0,0.0
+面包甜点,Breadtop Bakery,Breadtop Bakery,0,槟城其他,0.0,0.0,0.0
+面包甜点,Baskin Robbins,Baskin Robbins,0,槟城其他,0.0,0.0,0.0
+面包甜点,King's Confectionery @ Pudu Plaza,King's Confectionery @ Pudu Plaza,0,吉隆坡市南,0.0,0.0,0.0
+面包甜点,Saint-Non Bakery Sdn. Bhd.,Saint-Non Bakery Sdn. Bhd.,0,,0.0,0.0,0.0
+面包甜点,糖百府,糖百府,0,吉隆坡近郊,0.0,0.0,0.0
+面包甜点,Y2K Cafe & Cake House,Y2K Cafe & Cake House,0,其他城市,0.0,0.0,0.0
+面包甜点,Baker's Joy Latisserie,Baker's Joy Latisserie,0,吉隆坡市南,0.0,0.0,0.0
+面包甜点,King's Confectionery @ Kepong Baru,King's Confectionery @ Kepong Baru,0,黑风洞,0.0,0.0,0.0
+面包甜点,Maple Leaf Bakery Care,Maple Leaf Bakery Care,0,槟城其他,0.0,0.0,0.0
+面包甜点,Ms Cake House,Ms Cake House,0,槟城其他,0.0,0.0,0.0
+面包甜点,Little Lim Penang Pancake 小林慢煎糕,Little Lim Penang Pancake 小林慢煎糕,0,,0.0,0.0,0.0
+面包甜点,King's Confectionery @ Tesco Jelutong Penang,King's Confectionery @ Tesco Jelutong Penang,0,槟城其他,0.0,0.0,0.0
+面包甜点,Bread One Bakery,Bread One Bakery,0,槟城其他,0.0,0.0,0.0
+面包甜点,Pistachios Bakery,Pistachios Bakery,0,,0.0,0.0,0.0
+面包甜点,Bonjour Trading,Bonjour Trading,0,槟城其他,0.0,0.0,0.0
+面包甜点,King's Confectionery Sdn. Bhd.,King's Confectionery Sdn. Bhd.,0,黑风洞,0.0,0.0,0.0
+面包甜点,Bima Bakery Enterprise,Bima Bakery Enterprise,0,,0.0,0.0,0.0
+面包甜点,Mallinckrodt Baker Sdn. Bhd.,Mallinckrodt Baker Sdn. Bhd.,0,,0.0,0.0,0.0
+面包甜点,Sinmag Bakery Equipment Sdn Bhd,Sinmag Bakery Equipment Sdn Bhd,0,,0.0,0.0,0.0
+面包甜点,Papparoti,Papparoti,0,,0.0,0.0,0.0
+面包甜点,Minimooncake.Com,Minimooncake.Com,0,双子塔,0.0,0.0,0.0
+面包甜点,Novelty Bakery & Confectionery Sdn. Bhd.,Novelty Bakery & Confectionery Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+面包甜点,Meinga Bakery & Confectionery Sdn. Bhd.,Meinga Bakery & Confectionery Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+面包甜点,King's Confectionery Sdn. Bhd.,King's Confectionery Sdn. Bhd.,0,双子塔,0.0,0.0,0.0
+面包甜点,Honey Food Industries (M) Sdn. Bhd.,Honey Food Industries (M) Sdn. Bhd.,0,槟城其他,0.0,0.0,0.0
+面包甜点,Home Bakery Jiney park,Home Bakery Jiney park,0,沙巴其他,0.0,0.0,0.0
+面包甜点,Mega Came House,Mega Came House,0,,0.0,0.0,0.0
+面包甜点,Yohan Bakery & Cake Sdn. Bhd.,Yohan Bakery & Cake Sdn. Bhd.,0,双子塔,0.0,0.0,0.0
+面包甜点,Boutique Cupcakes,Boutique Cupcakes,0,,0.0,0.0,0.0
+面包甜点,Consolidated Foodchem Sdn. Bhd.,Consolidated Foodchem Sdn. Bhd.,0,,0.0,0.0,0.0
+面包甜点,Sun Delight Bakery,Sun Delight Bakery,0,槟城其他,0.0,0.0,0.0
+面包甜点,Syamaltra Sdn. Bhd.,Syamaltra Sdn. Bhd.,0,,0.0,0.0,0.0
+面包甜点,Patchee Bakery Sdn. Bhd.,Patchee Bakery Sdn. Bhd.,0,,0.0,0.0,0.0
+面包甜点,Pelangi Bakery Shop,Pelangi Bakery Shop,0,,0.0,0.0,0.0
+面包甜点,Shobah Cakes,Shobah Cakes,0,中央火车站周边,0.0,0.0,0.0
+面包甜点,Gingerbread Bakery,Gingerbread Bakery,0,槟城其他,0.0,0.0,0.0
+面包甜点,Maxim's Cake,Maxim's Cake,0,吉隆坡市南,0.0,0.0,0.0
+面包甜点,Merdeka Bakery,Merdeka Bakery,0,槟城其他,0.0,0.0,0.0
+面包甜点,Bread Culture Bakery,Bread Culture Bakery,0,槟城其他,0.0,0.0,0.0
+面包甜点,Cheeze Choc Haven Bistro and Cake House,Cheeze Choc Haven Bistro and Cake House,0,,0.0,0.0,0.0
+面包甜点,Chatime kepong,Chatime kepong,0,黑风洞,0.0,0.0,0.0
+面包甜点,Yum Yum Bakery,Yum Yum Bakery,0,太子世界贸易中心,0.0,0.0,0.0
+面包甜点,PASTEL,PASTEL,0,吉隆坡市北,0.0,0.0,0.0
+面包甜点,Rosmanis Bakery,Rosmanis Bakery,0,吉隆坡近郊,0.0,0.0,0.0
+面包甜点,Sweet Tooth Bakery,Sweet Tooth Bakery,0,太子世界贸易中心,0.0,0.0,0.0
+面包甜点,Home Bakery,Home Bakery,0,,0.0,0.0,0.0
+面包甜点,Amigo Bakery,Amigo Bakery,0,槟城其他,0.0,0.0,0.0
+面包甜点,Wahaha Bakery,Wahaha Bakery,0,槟城其他,0.0,0.0,0.0
+面包甜点,Everyday Fresh MBG @ Stesen Sentral Kuala Lumpur,Everyday Fresh MBG @ Stesen Sentral Kuala Lumpur,0,中央火车站周边,0.0,0.0,0.0
+面包甜点,Hong Kim Confectioner Sdn. Bhd.,Hong Kim Confectioner Sdn. Bhd.,0,黑风洞,0.0,0.0,0.0
+面包甜点,GONGCHA,GONGCHA,0,吉隆坡近郊,0.0,0.0,0.0
+快餐,老街场白咖啡,老街场白咖啡,0,,6.6,6.9,6.7
+快餐,勝記老鼠粉,勝記老鼠粉,0,,7.7,7.0,7.3
+快餐,哈瑞小站Harrytrip.My,哈瑞小站Harrytrip.My,0,庞太切南,7.9,7.8,7.9
+快餐,麦当劳,麦当劳,0,其他城市,7.9,7.7,7.9
+快餐,NOOODLES,NOOODLES,0,其他城市,7.6,7.5,7.5
+快餐,KFC @ Telaga Harbour Park,KFC @ Telaga Harbour Park,0,,7.2,7.2,7.1
+快餐,Marrybrown,Marrybrown,0,其他城市,7.2,7.1,7.0
+快餐,Marry Brown,Marry Brown,0,瓜镇,8.0,7.5,7.5
+快餐,麦当劳,麦当劳,0,兰卡威其他,7.0,7.3,7.0
+快餐,汉堡王机场店,汉堡王机场店,0,,7.2,7.5,7.5
+快餐,槟榔律驰名潮州煎蕊红豆霜,槟榔律驰名潮州煎蕊红豆霜,0,,8.4,7.0,7.5
+快餐,东甲牛肉面,东甲牛肉面,0,,8.5,8.5,8.5
+快餐,梦想,梦想,0,,8.0,7.4,8.0
+快餐,成兴茶餐厅,成兴茶餐厅,0,,7.5,6.1,6.8
+快餐,Pasta Pasta / 意大利面专卖店,Pasta Pasta / 意大利面专卖店,0,,7.1,7.1,7.1
+快餐,麦当劳,麦当劳,0,兰卡威其他,8.1,8.1,8.1
+快餐,新儒记牛腩粉,新儒记牛腩粉,0,,8.2,6.7,7.4
+快餐,安邦家乡酿豆腐,安邦家乡酿豆腐,0,,6.8,6.3,6.8
+快餐,明泰轩点心粥面家,明泰轩点心粥面家,0,,6.7,6.7,6.7
+快餐,潮州铭小食馆,潮州铭小食馆,0,,7.2,6.8,7.2
+快餐,烧烤炸㖨㖨,烧烤炸㖨㖨,0,,7.2,6.4,7.2
+快餐,开心小食店,开心小食店,0,,7.2,6.4,7.2
+快餐,胜记老鼠粉,胜记老鼠粉,0,,6.9,6.7,6.7
+快餐,福建虾面卤面,福建虾面卤面,0,其他城市,7.1,6.9,7.0
+快餐,泉春茶室,泉春茶室,0,其他城市,7.0,6.7,6.7
+快餐,Dutch Barbour Cafe,Dutch Barbour Cafe,0,,6.7,6.9,6.7
+快餐,家乡鸡饭,家乡鸡饭,0,,6.8,6.3,6.8
+快餐,香港粥面家,香港粥面家,0,,7.2,7.2,6.8
+快餐,鸡肉米饭铺,鸡肉米饭铺,0,,7.2,7.2,7.2
+快餐,Beijing BBQ Steamboat Buffet,Beijing BBQ Steamboat Buffet,0,,6.9,6.9,6.9
+快餐,Carl's Junior,Carl's Junior,0,,7.1,7.1,7.1
+快餐,Lgk Yummy Yummy Seafood,Lgk Yummy Yummy Seafood,0,,6.9,6.9,6.9
+快餐,Kfc,Kfc,0,,7.0,7.0,7.1
+快餐,Marry Brown,Marry Brown,0,,6.9,6.9,6.9
+快餐,Kenny Rogers Roasters,Kenny Rogers Roasters,0,,6.8,6.8,6.8
+快餐,Panera,Panera,0,,7.0,7.1,7.0
+快餐,Din BBQ Station,Din BBQ Station,0,,7.0,6.9,7.0
+快餐,Kenny Rogers Roasters,Kenny Rogers Roasters,0,,6.9,6.9,6.9
+快餐,Supreme BBQ Steamboat,Supreme BBQ Steamboat,0,,6.9,6.9,6.9
+快餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐,Restoran Mr BBQ,Restoran Mr BBQ,0,,7.1,7.1,7.1
+快餐,Island BBQ Steamboat,Island BBQ Steamboat,0,,7.0,7.0,7.0
+快餐,Food Court,Food Court,0,,7.0,6.9,7.0
+快餐,Carl's Junior,Carl's Junior,0,,7.0,7.0,7.0
+快餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐,Bolaven Cafes Langkawi,Bolaven Cafes Langkawi,0,,0.0,0.0,0.0
+快餐,DLangkawi.Com,DLangkawi.Com,0,,0.0,0.0,0.0
+快餐,Alphabetic Internet,Alphabetic Internet,0,,0.0,0.0,0.0
+快餐,Telaga Cafe & Restaurant,Telaga Cafe & Restaurant,0,,0.0,0.0,0.0
+快餐,宴琼林盐焗鸡 Aun Kheng Lim,宴琼林盐焗鸡 Aun Kheng Lim,0,怡保,0.0,0.0,0.0
+快餐,KFC,KFC,0,,0.0,0.0,0.0
+快餐,一品湘,一品湘,0,其他城市,0.0,0.0,0.0
+快餐,麻辣云吞面,麻辣云吞面,0,其他城市,0.0,0.0,0.0
+快餐,Lima Cafe,Lima Cafe,0,兰卡威其他,0.0,0.0,0.0
+快餐,Mcdonald's Langkawi,Mcdonald's Langkawi,0,,0.0,0.0,0.0
+快餐,RIMBA,RIMBA,0,其他城市,0.0,0.0,0.0
+快餐,好好吃啡館,好好吃啡館,0,,0.0,0.0,0.0
+快餐,鱿侠客愤怒大鱿鱼,鱿侠客愤怒大鱿鱼,0,马六甲,0.0,0.0,0.0
+快餐,瑞荣家乡烧鸭饭店,瑞荣家乡烧鸭饭店,0,,0.0,0.0,0.0
+快餐,subway resOrt,subway resOrt,0,,0.0,0.0,0.0
+快餐,兴园餐室,兴园餐室,0,,0.0,0.0,0.0
+快餐,发师傅点心,发师傅点心,0,其他城市,0.0,0.0,0.0
+快餐,Andy Cafe,Andy Cafe,0,,0.0,0.0,0.0
+快餐,香港粥面家,香港粥面家,0,,0.0,0.0,0.0
+快餐,Porkies BBQ Spare Ribs,Porkies BBQ Spare Ribs,0,,0.0,0.0,0.0
+快餐,面久拉查面(Dirty Mee),面久拉查面(Dirty Mee),0,,0.0,0.0,0.0
+快餐,中央市场饮食大排档,中央市场饮食大排档,0,,0.0,0.0,0.0
+快餐,汉记,汉记,0,其他城市,0.0,0.0,0.0
+快餐,KFC,KFC,0,,0.0,0.0,0.0
+快餐,hiii,hiii,0,,0.0,0.0,0.0

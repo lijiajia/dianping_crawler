@@ -1,0 +1,1129 @@
+意大利菜,Vincenzo,Vincenzo,0,,7.5,7.5,7.5
+意大利菜,Collage,Collage,0,布拉卡区(Plaka),8.1,8.1,8.1
+意大利菜,Oroscopo,Oroscopo,0,帕格拉提(Pagkrati),7.3,7.3,7.3
+意大利菜,Belpaese,Belpaese,0,卫城周边(Acropolis&Koukaki;),7.3,7.3,7.3
+意大利菜,Botrini's,Botrini's,0,,7.3,7.3,7.3
+意大利菜,I Gusti Cafe Restaurant,I Gusti Cafe Restaurant,0,宪法广场周边(Syntagma Square),7.0,7.0,7.0
+意大利菜,"Aglio, Olio & Peperoncino","Aglio, Olio & Peperoncino",0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+意大利菜,Diva Pizza,Diva Pizza,0,卫城周边(Acropolis&Koukaki;),7.3,7.3,7.1
+意大利菜,Tony Bonano,Tony Bonano,0,其他,7.1,7.1,7.1
+意大利菜,The Rooftop Restaurant at AthenStyle,The Rooftop Restaurant at AthenStyle,0,普西里(Psiri),7.1,7.1,7.1
+意大利菜,Vespa Rossa Osteria,Vespa Rossa Osteria,0,其他,7.1,7.1,7.1
+意大利菜,Peperoncino,Peperoncino,0,其他,7.1,7.1,7.1
+意大利菜,Alberobello,Alberobello,0,,7.0,7.0,7.0
+意大利菜,Luna Rossa,Luna Rossa,0,,7.0,7.0,7.0
+意大利菜,21 Ristorante,21 Ristorante,0,宪法广场周边(Syntagma Square),7.1,7.0,7.1
+意大利菜,IL Cantuccio,IL Cantuccio,0,普西里(Psiri),7.0,7.0,7.0
+意大利菜,AL DENTE,AL DENTE,0,,7.0,7.0,7.0
+意大利菜,Trattoria,Trattoria,0,奥莫尼亚(Omonia),7.0,7.0,7.0
+意大利菜,Mageirevontas Ti Mesogeio,Mageirevontas Ti Mesogeio,0,布拉卡区(Plaka),7.0,7.0,7.0
+意大利菜,Gallo Nero,Gallo Nero,0,维多利亚(Victoria),7.1,7.1,7.1
+意大利菜,Pecora Nera,Pecora Nera,0,宪法广场周边(Syntagma Square),7.1,7.1,7.1
+意大利菜,Albion,Albion,0,,7.0,7.0,7.0
+意大利菜,Brasserie Omirou,Brasserie Omirou,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+意大利菜,IL Postino,IL Postino,0,伊哈瑞亚(Exarhia),7.2,7.2,7.2
+意大利菜,Matilde Pizza Bar,Matilde Pizza Bar,0,其他,7.1,7.1,7.1
+意大利菜,Willy's in Ksllithea,Willy's in Ksllithea,0,其他,7.1,7.0,7.0
+意大利菜,PAUSA,PAUSA,0,其他,7.1,7.1,7.1
+意大利菜,Due P,Due P,0,,6.9,6.9,6.9
+意大利菜,Impasto,Impasto,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+意大利菜,Codice Blu,Codice Blu,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+意大利菜,Malconi's,Malconi's,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+意大利菜,Nonna Pina,Nonna Pina,0,维多利亚(Victoria),6.9,6.9,6.9
+意大利菜,Pastore,Pastore,0,里欧斯波斯菊(Neos Kosmos),6.9,6.9,6.9
+意大利菜,Paper Moon,Paper Moon,0,其他,6.9,6.9,6.9
+意大利菜,Fatto Cibo Italiano,Fatto Cibo Italiano,0,其他,7.0,7.0,7.0
+意大利菜,School Pizza Bar,School Pizza Bar,0,其他,7.0,7.0,7.0
+意大利菜,IL DOPPIO,IL DOPPIO,0,北雅典,7.0,7.0,7.0
+意大利菜,Galeone,Galeone,0,中雅典,7.0,7.0,7.0
+意大利菜,Small Italy,Small Italy,0,维多利亚(Victoria),6.9,6.9,6.9
+意大利菜,Trattoria il Doppio,Trattoria il Doppio,0,伊哈瑞亚(Exarhia),7.1,6.9,7.1
+意大利菜,La Trattoria,La Trattoria,0,其他,7.0,6.9,7.0
+意大利菜,Fragma,Fragma,0,其他,7.0,7.0,7.0
+意大利菜,Il Salotto,Il Salotto,0,,7.2,7.7,7.2
+意大利菜,Pizzeria Romas,Pizzeria Romas,0,卫城周边(Acropolis&Koukaki;),7.3,7.3,7.1
+意大利菜,Briciole pizzabar,Briciole pizzabar,0,柯洛纳基(Kolonaki),7.1,7.0,7.0
+意大利菜,Prytanion,Prytanion,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+意大利菜,Tuttitalia,Tuttitalia,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+意大利菜,Fabrizios',Fabrizios',0,柯洛纳基(Kolonaki),7.1,7.0,7.0
+意大利菜,Pizzeria Trattoria Capanna,Pizzeria Trattoria Capanna,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+意大利菜,La Scala,La Scala,0,柯洛纳基(Kolonaki),6.9,7.0,6.9
+意大利菜,al milanese,al milanese,0,柯洛纳基(Kolonaki),7.0,6.9,7.0
+意大利菜,Facce Strane,Facce Strane,0,帕格拉提(Pagkrati),6.9,6.9,6.9
+意大利菜,Ombra,Ombra,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+法国菜,Restaurant Spiros & Vasilis,Restaurant Spiros & Vasilis,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+法国菜,Chez Lucien,Chez Lucien,0,其他,7.2,7.2,7.2
+法国菜,L'Abreuvoir,L'Abreuvoir,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+法国菜,Chez Violette,Chez Violette,0,,7.1,7.1,7.1
+法国菜,Trano Pastry Shop,Trano Pastry Shop,0,普西里(Psiri),7.1,7.1,7.1
+法国菜,Bistrot le Mignon,Bistrot le Mignon,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+法国菜,Spondi,Spondi,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+法国菜,Polly Maggoo,Polly Maggoo,0,其他,7.3,7.1,7.1
+法国菜,To Tsai,To Tsai,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+法国菜,Prunier,Prunier,0,柯洛纳基(Kolonaki),7.1,7.1,7.0
+法国菜,Paul Greece,Paul Greece,0,,7.1,7.1,7.1
+法国菜,F+W Food and Wine,F+W Food and Wine,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+法国菜,Avenue Bistro & Bar,Avenue Bistro & Bar,0,其他,7.1,7.5,7.1
+法国菜,Pere Ubu,Pere Ubu,0,,6.8,7.1,7.1
+法国菜,Blue Pine Restaurant,Blue Pine Restaurant,0,,7.1,7.1,7.1
+法国菜,Browns' Restaurant,Browns' Restaurant,0,帕格拉提(Pagkrati),7.1,7.1,7.1
+墨西哥菜,Altamira,Altamira,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+墨西哥菜,Amigos,Amigos,0,,7.2,7.2,7.2
+墨西哥菜,Tapas Bar,Tapas Bar,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+墨西哥菜,Santa Fe,Santa Fe,0,维多利亚(Victoria),7.1,7.1,7.1
+墨西哥菜,O Mexicanos,O Mexicanos,0,其他,7.1,7.1,7.1
+墨西哥菜,Meson El Mirador,Meson El Mirador,0,普西里(Psiri),7.1,7.1,7.1
+墨西哥菜,Aguador's,Aguador's,0,奥莫尼亚(Omonia),6.7,7.0,7.0
+墨西哥菜,Paella Barcelona,Paella Barcelona,0,柯洛纳基(Kolonaki),6.9,7.0,7.0
+墨西哥菜,Buffalo Bills's,Buffalo Bills's,0,其他,6.9,6.9,6.9
+其他西餐,Psaras,Psaras,0,布拉卡区(Plaka),7.8,8.2,8.2
+其他西餐,Trattoria Plaka,Trattoria Plaka,0,布拉卡区(Plaka),8.0,7.9,8.4
+其他西餐,Melilotos,Melilotos,0,普西里(Psiri),8.0,7.6,8.2
+其他西餐,Ydria restaurant,Ydria restaurant,0,布拉卡区(Plaka),7.9,7.6,7.6
+其他西餐,Balux Cafe House Project,Balux Cafe House Project,0,,7.2,7.7,7.3
+其他西餐,Quick Pitta,Quick Pitta,0,布拉卡区(Plaka),7.3,7.1,7.3
+其他西餐,Tudor Hall,Tudor Hall,0,帕格拉提(Pagkrati),8.1,8.4,7.7
+其他西餐,Smile Cafe Restaurant,Smile Cafe Restaurant,0,卫城周边(Acropolis&Koukaki;),7.5,7.5,8.1
+其他西餐,Thespidos,Thespidos,0,南雅典,8.0,8.0,8.0
+其他西餐,Rozalia,Rozalia,0,伊哈瑞亚(Exarhia),8.0,8.0,8.0
+其他西餐,Yard Cafe,Yard Cafe,0,卫城周边(Acropolis&Koukaki;),7.6,7.6,7.6
+其他西餐,Piazza Duomo,Piazza Duomo,0,布拉卡区(Plaka),8.0,8.0,8.0
+其他西餐,Pita Pan,Pita Pan,0,帕格拉提(Pagkrati),6.9,7.5,7.3
+其他西餐,Oroscopo,Oroscopo,0,帕格拉提(Pagkrati),7.3,7.3,7.3
+其他西餐,Krissa Gi,Krissa Gi,0,,7.1,7.1,7.1
+其他西餐,Ariston,Ariston,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+其他西餐,Tzitzikas kai Mermigas,Tzitzikas kai Mermigas,0,普西里(Psiri),7.5,7.1,7.1
+其他西餐,Pirouni kai Koutali,Pirouni kai Koutali,0,柯洛纳基(Kolonaki),7.5,7.2,7.5
+其他西餐,Pasaji,Pasaji,0,宪法广场周边(Syntagma Square),7.4,7.2,7.4
+其他西餐,Belpaese,Belpaese,0,卫城周边(Acropolis&Koukaki;),7.3,7.3,7.3
+其他西餐,Ex Arxis,Ex Arxis,0,伊哈瑞亚(Exarhia),7.4,7.4,7.4
+其他西餐,Metro Cafe,Metro Cafe,0,卫城周边(Acropolis&Koukaki;),7.3,7.3,7.3
+其他西餐,Grand Dionysos,Grand Dionysos,0,奥莫尼亚(Omonia),7.6,6.9,6.9
+其他西餐,Taki 13,Taki 13,0,普西里(Psiri),7.2,7.2,7.7
+其他西餐,Masina,Masina,0,里欧斯波斯菊(Neos Kosmos),7.5,7.5,7.5
+其他西餐,Oineas Restaurant,Oineas Restaurant,0,普西里(Psiri),8.1,8.1,8.1
+其他西餐,Fast Good Hot Dog,Fast Good Hot Dog,0,伊哈瑞亚(Exarhia),7.5,7.5,7.5
+其他西餐,Dia Tayta,Dia Tayta,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Savas,Savas,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Old Ithaki,Old Ithaki,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Strofi,Strofi,0,卫城周边(Acropolis&Koukaki;),0.0,0.0,0.0
+其他西餐,Meatropoleos 3,Meatropoleos 3,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+其他西餐,Manh Manh,Manh Manh,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,Galaxy Bar and Restaurant,Galaxy Bar and Restaurant,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+其他西餐,Palio Roloi,Palio Roloi,0,,6.9,6.9,6.9
+其他西餐,Terra Cafe-Deli-Enoteca,Terra Cafe-Deli-Enoteca,0,宪法广场周边(Syntagma Square),7.0,7.0,7.0
+其他西餐,O Tzitzikas Ke O Mermigkas,O Tzitzikas Ke O Mermigkas,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+其他西餐,Dionysos Zonar's,Dionysos Zonar's,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,Restaurant at the Acropolis Museum,Restaurant at the Acropolis Museum,0,卫城周边(Acropolis&Koukaki;),7.2,6.8,7.2
+其他西餐,Paradosiako,Paradosiako,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Taverna Tou Psirri,Taverna Tou Psirri,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Mama Roux,Mama Roux,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Base Grill,Base Grill,0,其他,7.2,7.2,7.2
+其他西餐,Restaurant Cabana,Restaurant Cabana,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.0
+其他西餐,Olympos Naousa,Olympos Naousa,0,宪法广场周边(Syntagma Square),7.1,7.1,7.0
+其他西餐,To mezedopoleio tis Alekas,To mezedopoleio tis Alekas,0,拉里萨火车站(Larissis),7.1,7.0,7.1
+其他西餐,Stoa Tou Kosta,Stoa Tou Kosta,0,普西里(Psiri),6.9,6.9,6.9
+其他西餐,Athinaikon Bakery,Athinaikon Bakery,0,布拉卡区(Plaka),6.9,6.9,6.9
+其他西餐,Ristotante 24 Ore,Ristotante 24 Ore,0,卫城周边(Acropolis&Koukaki;),6.9,6.9,6.9
+其他西餐,Trata Fish Tavern,Trata Fish Tavern,0,奥莫尼亚(Omonia),7.0,7.0,7.0
+其他西餐,PS restaurant,PS restaurant,0,梅塔速尔基奥(Metaxourgeio),7.0,7.0,6.9
+其他西餐,To Mantri,To Mantri,0,其他,6.9,6.9,6.9
+其他西餐,Kentrikon,Kentrikon,0,宪法广场周边(Syntagma Square),7.0,7.1,7.0
+其他西餐,Byzantino,Byzantino,0,柯洛纳基(Kolonaki),6.8,7.1,7.1
+其他西餐,The Plaka Restaurant,The Plaka Restaurant,0,布拉卡区(Plaka),7.2,6.8,7.2
+其他西餐,Kosmikon,Kosmikon,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Acropolis View Restaurant,Acropolis View Restaurant,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,The Athens Gate Restaurant,The Athens Gate Restaurant,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,To Spitiko Fagito,To Spitiko Fagito,0,其他,7.1,7.1,7.0
+其他西餐,Mikri Venetia,Mikri Venetia,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,Gostijo,Gostijo,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,To Omorfo,To Omorfo,0,柯洛纳基(Kolonaki),7.5,7.5,7.5
+其他西餐,Vana's,Vana's,0,,7.3,7.3,7.3
+其他西餐,Daphne's,Daphne's,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Olive Garden,Olive Garden,0,奥莫尼亚(Omonia),7.2,7.2,7.2
+其他西餐,Thissio View,Thissio View,0,其他,7.2,7.2,7.2
+其他西餐,Agora Restaurant Bar,Agora Restaurant Bar,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+其他西餐,Liopetro,Liopetro,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Electra Roof Garden Restaurant,Electra Roof Garden Restaurant,0,其他,7.2,7.2,7.2
+其他西餐,Arcadia Restaurant,Arcadia Restaurant,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,Filoistron,Filoistron,0,其他,7.2,7.2,7.2
+其他西餐,Athiri,Athiri,0,其他,7.2,7.2,7.2
+其他西餐,Cucina Povera,Cucina Povera,0,帕格拉提(Pagkrati),7.2,7.2,7.2
+其他西餐,Petros Grill House,Petros Grill House,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Terina,Terina,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,L'Abreuvoir,L'Abreuvoir,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+其他西餐,Vyzantino Taverna,Vyzantino Taverna,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Estia - Cafe Restaurant,Estia - Cafe Restaurant,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Gods' Restaurant,Gods' Restaurant,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,Krithamos,Krithamos,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+其他西餐,O Glykis,O Glykis,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Grill House Vassilis,Grill House Vassilis,0,里欧斯波斯菊(Neos Kosmos),7.1,7.1,7.1
+其他西餐,Monastiri,Monastiri,0,普西里(Psiri),6.9,6.9,6.9
+其他西餐,Taverna Saita,Taverna Saita,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Tsak,Tsak,0,其他,6.9,6.9,6.9
+其他西餐,Athinai Bistrot,Athinai Bistrot,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+其他西餐,Sablo,Sablo,0,拉里萨火车站(Larissis),7.0,7.1,7.0
+其他西餐,Karavi,Karavi,0,梅塔速尔基奥(Metaxourgeio),6.9,6.9,6.9
+其他西餐,Filema Mezedopoleio,Filema Mezedopoleio,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,Armonia Kafe,Armonia Kafe,0,布拉卡区(Plaka),7.0,7.1,7.1
+其他西餐,Restaurant Palea Athina,Restaurant Palea Athina,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,The Rooftop Restaurant at AthenStyle,The Rooftop Restaurant at AthenStyle,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,Psaras,Psaras,0,,7.1,7.1,7.1
+其他西餐,Petit,Petit,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+其他西餐,Aegli Restaurant,Aegli Restaurant,0,宪法广场周边(Syntagma Square),7.1,7.1,7.1
+其他西餐,To Triantafyllo,To Triantafyllo,0,宪法广场周边(Syntagma Square),7.1,7.1,7.0
+其他西餐,Enastro,Enastro,0,里欧斯波斯菊(Neos Kosmos),7.1,7.1,7.1
+其他西餐,Zephyros,Zephyros,0,里欧斯波斯菊(Neos Kosmos),7.1,7.0,7.0
+其他西餐,O Stelios,O Stelios,0,卫城周边(Acropolis&Koukaki;),6.9,6.9,6.9
+其他西餐,Tapas Bar,Tapas Bar,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+其他西餐,Wra Ellados,Wra Ellados,0,普西里(Psiri),6.9,6.9,6.9
+其他西餐,Pasional,Pasional,0,奥莫尼亚(Omonia),7.1,7.3,7.3
+其他西餐,Arxaion Gefseis,Arxaion Gefseis,0,梅塔速尔基奥(Metaxourgeio),7.1,7.1,7.1
+其他西餐,Tavernas Saitas,Tavernas Saitas,0,布拉卡区(Plaka),7.1,7.0,7.0
+其他西餐,Bock Beer Restaurant,Bock Beer Restaurant,0,其他,7.1,7.1,7.1
+其他西餐,Gh,Gh,0,拉里萨火车站(Larissis),6.9,6.9,6.9
+其他西餐,Gastronomy Museum Restaurant,Gastronomy Museum Restaurant,0,普西里(Psiri),7.0,7.0,7.1
+其他西餐,Diavlos,Diavlos,0,普西里(Psiri),6.9,7.0,7.0
+其他西餐,souvlaki restaurant,souvlaki restaurant,0,普西里(Psiri),7.0,7.0,7.0
+其他西餐,O Glikis,O Glikis,0,布拉卡区(Plaka),6.9,6.9,6.9
+其他西餐,Geonas Restaurant,Geonas Restaurant,0,奥莫尼亚(Omonia),7.0,7.0,7.0
+其他西餐,Faidra,Faidra,0,宪法广场周边(Syntagma Square),6.9,6.9,6.9
+其他西餐,Dion Cafe & Restaurant,Dion Cafe & Restaurant,0,宪法广场周边(Syntagma Square),6.9,6.9,6.9
+其他西餐,To Aftoforo,To Aftoforo,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+其他西餐,Inothira,Inothira,0,维多利亚(Victoria),6.9,6.9,6.9
+其他西餐,Ksilino,Ksilino,0,,7.0,7.0,7.0
+其他西餐,Savvas Souvlaki Gyros Restaurant,Savvas Souvlaki Gyros Restaurant,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Opos palia,Opos palia,0,卫城周边(Acropolis&Koukaki;),6.9,6.9,6.9
+其他西餐,Cappuccino d'Achille,Cappuccino d'Achille,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+其他西餐,Makalo,Makalo,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+其他西餐,Fish Cafe,Fish Cafe,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,Yiasemi Cafe Bistrot,Yiasemi Cafe Bistrot,0,布拉卡区(Plaka),7.2,7.2,7.7
+其他西餐,To Kafeneio,To Kafeneio,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Fresko Yogurt Bar,Fresko Yogurt Bar,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,Aischylou Grill House,Aischylou Grill House,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,Geros Tou Moria,Geros Tou Moria,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Jimas Ginger,Jimas Ginger,0,柯洛纳基(Kolonaki),7.7,7.2,7.2
+其他西餐,Athens Beer,Athens Beer,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+其他西餐,Diporto Agoras,Diporto Agoras,0,普西里(Psiri),7.6,7.2,7.2
+其他西餐,Taverna Ta Varelia,Taverna Ta Varelia,0,梅塔速尔基奥(Metaxourgeio),7.1,7.1,7.1
+其他西餐,To Trikyklo,To Trikyklo,0,卫城周边(Acropolis&Koukaki;),7.2,7.7,7.2
+其他西餐,Mouragio Ouzeri,Mouragio Ouzeri,0,,7.0,7.0,7.0
+其他西餐,Posto,Posto,0,柯洛纳基(Kolonaki),6.7,6.7,6.7
+其他西餐,Adrianos,Adrianos,0,布拉卡区(Plaka),6.8,6.8,7.2
+其他西餐,Taverna Acropolis,Taverna Acropolis,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Karavitis Tavern,Karavitis Tavern,0,帕格拉提(Pagkrati),7.2,7.2,7.2
+其他西餐,H Mapmita,H Mapmita,0,柯洛纳基(Kolonaki),7.1,7.0,7.0
+其他西餐,Stamatopoulos Tavern,Stamatopoulos Tavern,0,奥莫尼亚(Omonia),7.2,7.2,7.2
+其他西餐,Aleksandra,Aleksandra,0,维多利亚(Victoria),7.2,7.2,7.2
+其他西餐,Peacock Roof Garden,Peacock Roof Garden,0,卫城周边(Acropolis&Koukaki;),7.5,7.5,7.1
+其他西餐,Acropolis Secret Bar Restaurant,Acropolis Secret Bar Restaurant,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+其他西餐,Taverna Elia,Taverna Elia,0,其他,6.9,6.9,6.9
+其他西餐,To Katiallo,To Katiallo,0,卫城周边(Acropolis&Koukaki;),6.9,6.9,6.9
+其他西餐,Mikri Vouli,Mikri Vouli,0,其他,7.1,7.1,7.0
+其他西餐,Aegli Zappiou,Aegli Zappiou,0,其他,7.1,6.9,7.1
+其他西餐,Alexandra Restaurant,Alexandra Restaurant,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+其他西餐,O&B Athens All Day Bar Restaurant,O&B Athens All Day Bar Restaurant,0,普西里(Psiri),7.7,7.7,7.2
+其他西餐,Svoura,Svoura,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+其他西餐,Grille Koutouki,Grille Koutouki,0,奥莫尼亚(Omonia),7.1,7.0,7.1
+其他西餐,Aleria,Aleria,0,其他,7.2,7.2,7.2
+其他西餐,21,21,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,Voliotis,Voliotis,0,维多利亚(Victoria),7.0,7.1,7.1
+其他西餐,Kohylia Restaurant,Kohylia Restaurant,0,,7.1,6.8,7.1
+其他西餐,Maiandros,Maiandros,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Garbi Restaurant,Garbi Restaurant,0,拉里萨火车站(Larissis),7.2,7.2,7.2
+其他西餐,Cucina Fresca,Cucina Fresca,0,帕格拉提(Pagkrati),7.0,7.0,7.0
+其他西餐,Klimataria,Klimataria,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Meta's Restaurant,Meta's Restaurant,0,帕格拉提(Pagkrati),7.3,7.1,7.1
+其他西餐,O'Brettos Bar and Restaurant,O'Brettos Bar and Restaurant,0,其他,7.0,7.0,7.0
+其他西餐,Skoumbri,Skoumbri,0,其他,7.0,7.0,7.0
+其他西餐,Karyatis,Karyatis,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Trapezaria,Trapezaria,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,Taverna Theklas,Taverna Theklas,0,卫城周边(Acropolis&Koukaki;),7.0,7.0,7.0
+其他西餐,Acropolis,Acropolis,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,Ta Kalamia,Ta Kalamia,0,奥莫尼亚(Omonia),7.1,7.0,7.0
+其他西餐,Mageirevontas Ti Mesogeio,Mageirevontas Ti Mesogeio,0,布拉卡区(Plaka),7.0,7.0,7.0
+其他西餐,New Taste Restaurant,New Taste Restaurant,0,宪法广场周边(Syntagma Square),7.2,7.2,7.6
+其他西餐,Kamaronia,Kamaronia,0,宪法广场周边(Syntagma Square),7.0,7.1,7.0
+其他西餐,To Paradosiako,To Paradosiako,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+其他西餐,"""A for Athens"" Breakfast Loung...","""A for Athens"" Breakfast Loung...",0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Oinopoleio,Oinopoleio,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Neoklassiko,Neoklassiko,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+其他西餐,AiNikolas,AiNikolas,0,维多利亚(Victoria),7.1,7.3,7.1
+其他西餐,To Souvlaki tou Hasapi,To Souvlaki tou Hasapi,0,宪法广场周边(Syntagma Square),7.1,7.0,6.9
+其他西餐,Dimitris & Grigoris,Dimitris & Grigoris,0,帕格拉提(Pagkrati),7.2,7.2,7.2
+其他西餐,Palia Istoria,Palia Istoria,0,维多利亚(Victoria),7.1,7.1,7.0
+其他西餐,Liondi Coffee & Wine,Liondi Coffee & Wine,0,卫城周边(Acropolis&Koukaki;),7.3,7.3,7.3
+其他西餐,Taverna Plaka,Taverna Plaka,0,布拉卡区(Plaka),6.8,6.8,6.8
+其他西餐,Ithaki,Ithaki,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,In Town,In Town,0,布拉卡区(Plaka),6.8,6.8,7.2
+其他西餐,Bakaliarakia o Damigos,Bakaliarakia o Damigos,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,2MAZI Restaurant,2MAZI Restaurant,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Kostas,Kostas,0,北雅典,7.2,7.2,7.2
+其他西餐,Albion,Albion,0,,7.0,7.0,7.0
+其他西餐,I Kriti,I Kriti,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+其他西餐,Pulitzer,Pulitzer,0,其他,7.1,6.8,7.1
+其他西餐,Cave of Acropolis,Cave of Acropolis,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Yopia,Yopia,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Styl Cafe&Restaurant,Styl Cafe&Restaurant,0,布拉卡区(Plaka),7.0,7.0,7.0
+其他西餐,Duende,Duende,0,卫城周边(Acropolis&Koukaki;),6.7,6.9,7.0
+其他西餐,Adamo,Adamo,0,奥莫尼亚(Omonia),6.7,6.7,6.9
+其他西餐,El Greco,El Greco,0,宪法广场周边(Syntagma Square),6.7,6.7,6.7
+其他西餐,Chocolat Royal,Chocolat Royal,0,其他,7.2,7.2,7.2
+其他西餐,43 Sarantatrio,43 Sarantatrio,0,里欧斯波斯菊(Neos Kosmos),7.7,7.7,7.7
+其他西餐,Rakor,Rakor,0,其他,7.3,7.1,7.1
+其他西餐,Chaplin Coffee & Cocktail Bar,Chaplin Coffee & Cocktail Bar,0,普西里(Psiri),7.3,7.1,7.3
+其他西餐,Ergon,Ergon,0,奥莫尼亚(Omonia),7.2,7.2,7.2
+其他西餐,Elaia Restaurant,Elaia Restaurant,0,其他,7.2,7.2,7.2
+其他西餐,Sardelles,Sardelles,0,其他,7.2,7.2,7.2
+其他西餐,Restaurant Scholarhio,Restaurant Scholarhio,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Sissifos,Sissifos,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Zorbas,Zorbas,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Eat at Milton's,Eat at Milton's,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Hermion,Hermion,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Dioskouroi Cafe,Dioskouroi Cafe,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Souvlaki Bar,Souvlaki Bar,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,The James Joyce,The James Joyce,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Nice n Easy,Nice n Easy,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+其他西餐,BALTHAZAR,BALTHAZAR,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+其他西餐,Agora Restaurant - Bar,Agora Restaurant - Bar,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+其他西餐,Bar.B.Q,Bar.B.Q,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+其他西餐,Yiantes,Yiantes,0,伊哈瑞亚(Exarhia),7.2,7.2,7.2
+其他西餐,Mavro Provato,Mavro Provato,0,帕格拉提(Pagkrati),7.2,7.2,7.2
+其他西餐,O Vatrachos,O Vatrachos,0,其他,6.9,6.9,6.9
+其他西餐,DK Fast Food,DK Fast Food,0,其他,6.9,6.9,6.9
+其他西餐,Hliogerma,Hliogerma,0,其他,7.1,7.1,7.1
+其他西餐,Kyra Zoi,Kyra Zoi,0,其他,7.1,7.1,7.0
+其他西餐,Barin,Barin,0,其他,7.1,7.1,7.1
+其他西餐,O Aris,O Aris,0,其他,7.1,7.1,7.1
+其他西餐,Wasabi wok and sushi,Wasabi wok and sushi,0,其他,6.9,6.9,6.9
+其他西餐,Opium Bar Restaurant,Opium Bar Restaurant,0,,6.9,6.9,6.9
+其他西餐,Alkiones,Alkiones,0,其他,6.9,6.9,6.9
+其他西餐,To Thio Tragi,To Thio Tragi,0,其他,7.1,7.1,7.1
+其他西餐,Oi Psarades,Oi Psarades,0,,7.1,7.1,7.0
+其他西餐,Lefteris Fish Tavern,Lefteris Fish Tavern,0,其他,6.9,6.9,6.9
+其他西餐,The Big Bad Wolf Souvlaki Bar,The Big Bad Wolf Souvlaki Bar,0,其他,7.0,7.0,7.0
+其他西餐,Gkou Gkou Meze,Gkou Gkou Meze,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+其他西餐,Pili Pili Souvlakia,Pili Pili Souvlakia,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+其他西餐,Cups+Plates,Cups+Plates,0,奥莫尼亚(Omonia),7.1,7.1,7.0
+其他西餐,Pasifai,Pasifai,0,其他,7.1,7.1,7.0
+其他西餐,Rantevou,Rantevou,0,其他,6.9,6.9,6.9
+其他西餐,Aster,Aster,0,其他,7.1,7.1,7.1
+其他西餐,O Kipos Tis Troon,O Kipos Tis Troon,0,其他,7.1,7.1,7.1
+其他西餐,Villa Mercedes,Villa Mercedes,0,其他,7.1,7.1,7.1
+其他西餐,Apsenti,Apsenti,0,其他,6.9,6.9,6.9
+其他西餐,Nezos,Nezos,0,其他,7.1,7.0,7.0
+其他西餐,Oinothoi,Oinothoi,0,其他,7.1,7.1,7.1
+其他西餐,Tirbouson,Tirbouson,0,其他,7.1,7.1,7.1
+其他西餐,Saladin,Saladin,0,其他,6.9,6.9,6.9
+其他西餐,Tavern Metaxourgeio,Tavern Metaxourgeio,0,其他,7.1,7.1,7.1
+其他西餐,Gialiskari,Gialiskari,0,其他,6.9,6.9,6.9
+其他西餐,Doukissa Taverna,Doukissa Taverna,0,其他,7.0,7.0,7.0
+其他西餐,Alexandria,Alexandria,0,其他,7.1,7.1,7.1
+其他西餐,Gyrokomeio,Gyrokomeio,0,北雅典,6.9,6.9,6.9
+其他西餐,To Tsipouradiko by RIF,To Tsipouradiko by RIF,0,其他,7.1,7.0,7.0
+其他西餐,Chochlidaki,Chochlidaki,0,北雅典,7.1,7.1,7.1
+其他西餐,To Patriko,To Patriko,0,其他,6.9,6.9,6.9
+其他西餐,Lemoni Grill House,Lemoni Grill House,0,其他,7.1,7.1,7.1
+其他西餐,Safka,Safka,0,其他,7.1,7.1,7.1
+其他西餐,Gusto Grill,Gusto Grill,0,其他,6.9,6.9,6.9
+其他西餐,Kivotos,Kivotos,0,其他,6.9,6.9,6.9
+其他西餐,Fago-Potion,Fago-Potion,0,其他,7.1,7.1,7.1
+其他西餐,Geuseis Zois,Geuseis Zois,0,,6.9,6.9,6.9
+其他西餐,Eris Cafe,Eris Cafe,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Erato,Erato,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Smiling Cafe,Smiling Cafe,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Oinoscent,Oinoscent,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Evgenia,Evgenia,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Commerce,Commerce,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,BAYERN BIERHAUS,BAYERN BIERHAUS,0,,7.1,7.1,7.1
+其他西餐,Olla Restaurant,Olla Restaurant,0,,6.9,6.9,6.9
+其他西餐,Mexikaniko Souvlaki,Mexikaniko Souvlaki,0,普西里(Psiri),6.9,6.9,6.9
+其他西餐,Akordeon,Akordeon,0,普西里(Psiri),7.0,7.1,7.0
+其他西餐,Palio Grammofono,Palio Grammofono,0,普西里(Psiri),7.0,7.1,7.0
+其他西餐,Taverna Orea Penteli,Taverna Orea Penteli,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,Stou Babi,Stou Babi,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.0
+其他西餐,Deliolanis Old Baker's,Deliolanis Old Baker's,0,卫城周边(Acropolis&Koukaki;),6.9,6.9,6.9
+其他西餐,Tiki Athens,Tiki Athens,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+其他西餐,Kalosionos,Kalosionos,0,卫城周边(Acropolis&Koukaki;),6.9,6.9,6.9
+其他西餐,Showroom Cafe Bar Restaurant,Showroom Cafe Bar Restaurant,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+其他西餐,Malconi's,Malconi's,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+其他西餐,Dexameni,Dexameni,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+其他西餐,ACE Taste & Drink,ACE Taste & Drink,0,宪法广场周边(Syntagma Square),6.9,6.9,6.9
+其他西餐,Il Salumaio Di Atene,Il Salumaio Di Atene,0,,7.1,7.1,7.1
+其他西餐,Da Luz,Da Luz,0,,6.9,6.9,6.9
+其他西餐,Bloom Restaurant,Bloom Restaurant,0,,6.9,6.9,6.9
+其他西餐,Xromata Vithou,Xromata Vithou,0,,7.1,7.1,7.0
+其他西餐,Kalamaki sta Orthia,Kalamaki sta Orthia,0,,6.9,6.9,6.9
+其他西餐,Cinco,Cinco,0,伊哈瑞亚(Exarhia),7.1,7.1,7.1
+其他西餐,Scala Vinoteca,Scala Vinoteca,0,伊哈瑞亚(Exarhia),7.1,7.1,7.1
+其他西餐,Psisto,Psisto,0,伊哈瑞亚(Exarhia),7.1,7.1,7.1
+其他西餐,Casa del Toro,Casa del Toro,0,,7.1,7.1,7.1
+其他西餐,Taverna Virinis,Taverna Virinis,0,帕格拉提(Pagkrati),7.1,7.1,7.1
+其他西餐,Mavros Gatos,Mavros Gatos,0,帕格拉提(Pagkrati),7.1,7.1,7.1
+其他西餐,Vegera Gefseon,Vegera Gefseon,0,,6.9,6.9,6.9
+其他西餐,En Ethria,En Ethria,0,其他,7.0,7.0,7.0
+其他西餐,Akponoa,Akponoa,0,其他,7.1,7.1,7.1
+其他西餐,To Pilioritiko,To Pilioritiko,0,其他,6.9,6.9,6.9
+其他西餐,Alexis R. Delicatessen,Alexis R. Delicatessen,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+其他西餐,Resto,Resto,0,奥莫尼亚(Omonia),7.1,7.1,7.0
+其他西餐,Urban,Urban,0,其他,6.9,6.9,6.9
+其他西餐,Therapeutirio Restaurant,Therapeutirio Restaurant,0,其他,7.1,7.0,7.0
+其他西餐,Oikonomou,Oikonomou,0,其他,7.0,7.0,7.0
+其他西餐,H' Monopolio Athinon,H' Monopolio Athinon,0,其他,7.0,7.0,7.0
+其他西餐,Athineon Politia,Athineon Politia,0,其他,6.9,6.9,7.0
+其他西餐,Melitis,Melitis,0,其他,7.0,7.0,7.0
+其他西餐,Rakomperdemata,Rakomperdemata,0,其他,7.1,7.1,6.9
+其他西餐,Koukouvagia,Koukouvagia,0,其他,7.1,7.1,7.1
+其他西餐,Beduin Cafe,Beduin Cafe,0,其他,6.9,6.9,7.0
+其他西餐,Berlin Raki,Berlin Raki,0,其他,7.0,7.0,7.0
+其他西餐,kitrino podilato,kitrino podilato,0,其他,6.9,6.9,6.9
+其他西餐,Kebabtzidiko Kir Aristos,Kebabtzidiko Kir Aristos,0,,7.0,7.0,7.0
+其他西餐,Fabrica De Vino,Fabrica De Vino,0,其他,7.0,7.0,7.0
+其他西餐,To Petrino tou Kritikou,To Petrino tou Kritikou,0,,7.0,7.0,7.0
+其他西餐,Alimanaki,Alimanaki,0,其他,7.0,7.0,7.0
+其他西餐,Morias,Morias,0,,7.0,7.0,7.0
+其他西餐,Magginas,Magginas,0,,7.0,7.0,7.0
+其他西餐,The Ant and the Cricket,The Ant and the Cricket,0,其他,7.0,7.0,7.0
+其他西餐,Mitsos,Mitsos,0,,6.9,7.0,7.0
+其他西餐,Ta Ampelakia,Ta Ampelakia,0,,7.0,7.0,7.0
+其他西餐,The Hani,The Hani,0,布拉卡区(Plaka),7.0,7.0,7.0
+其他西餐,Kalokairinos Tavern,Kalokairinos Tavern,0,布拉卡区(Plaka),7.0,7.0,7.0
+其他西餐,Diolos,Diolos,0,普西里(Psiri),7.0,7.0,7.0
+其他西餐,Abyssinia,Abyssinia,0,普西里(Psiri),7.0,7.0,7.0
+其他西餐,Magaze,Magaze,0,普西里(Psiri),6.9,6.9,6.9
+其他西餐,Elaikon,Elaikon,0,卫城周边(Acropolis&Koukaki;),7.0,6.9,6.9
+其他西餐,Derlicious,Derlicious,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+其他西餐,TA KIOYPIA,TA KIOYPIA,0,柯洛纳基(Kolonaki),7.1,7.1,6.9
+其他西餐,Tsipouradikon O Daskalos,Tsipouradikon O Daskalos,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+其他西餐,Taverna tou Barba Yianni,Taverna tou Barba Yianni,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+其他西餐,Barceloneta,Barceloneta,0,,6.9,6.9,6.9
+其他西餐,GARDEN (KIPOS),GARDEN (KIPOS),0,,7.0,7.0,7.0
+其他西餐,Ellados Ikones,Ellados Ikones,0,,6.9,6.9,6.9
+其他西餐,Suzanna,Suzanna,0,,7.0,6.9,6.9
+其他西餐,Kallisti Gefsis,Kallisti Gefsis,0,伊哈瑞亚(Exarhia),7.0,7.0,7.0
+其他西餐,Afthereto,Afthereto,0,,7.0,7.0,7.0
+其他西餐,Amalour,Amalour,0,帕格拉提(Pagkrati),7.0,7.1,7.1
+其他西餐,Akrotiri Lounge,Akrotiri Lounge,0,帕格拉提(Pagkrati),7.0,7.0,7.0
+其他西餐,Magic Flute,Magic Flute,0,帕格拉提(Pagkrati),6.9,6.9,6.9
+其他西餐,Plakiotissa Taverna Mezedopolio,Plakiotissa Taverna Mezedopolio,0,其他,6.8,6.8,6.8
+其他西餐,Vale Vale,Vale Vale,0,其他,7.0,7.0,7.0
+其他西餐,Telis of Pendeli,Telis of Pendeli,0,其他,7.1,7.1,7.0
+其他西餐,Dia Noche,Dia Noche,0,其他,7.0,6.9,7.0
+其他西餐,RIFIFI,RIFIFI,0,其他,7.2,7.2,7.2
+其他西餐,LEMONOKIPOS,LEMONOKIPOS,0,,6.8,6.8,7.1
+其他西餐,Nautical Club of Paleon Faliro,Nautical Club of Paleon Faliro,0,其他,7.1,6.8,7.1
+其他西餐,You Yappa,You Yappa,0,其他,6.9,7.0,7.0
+其他西餐,Gyristroula,Gyristroula,0,其他,7.1,7.1,7.1
+其他西餐,Barba Yannis Tavern,Barba Yannis Tavern,0,其他,7.0,7.0,7.0
+其他西餐,Fagopoti,Fagopoti,0,其他,7.1,7.1,7.0
+其他西餐,Aischilou,Aischilou,0,其他,7.0,7.0,7.1
+其他西餐,Iontos Cafe-Restaurant,Iontos Cafe-Restaurant,0,其他,7.1,7.0,7.1
+其他西餐,Ostria-Sea n' the City,Ostria-Sea n' the City,0,,7.0,6.9,7.0
+其他西餐,Bairaktari Kirikion,Bairaktari Kirikion,0,其他,7.1,7.1,7.1
+其他西餐,Euxapis,Euxapis,0,其他,7.5,7.1,7.1
+其他西餐,Psarou fish tavern athens,Psarou fish tavern athens,0,其他,7.0,7.1,7.0
+其他西餐,B&A Beer Restaurant,B&A Beer Restaurant,0,其他,7.0,7.0,7.0
+其他西餐,Biftekakia & Souvlakia,Biftekakia & Souvlakia,0,其他,7.0,7.0,7.0
+其他西餐,Spollati,Spollati,0,其他,6.9,6.9,6.9
+其他西餐,T Square,T Square,0,其他,7.0,6.9,7.0
+其他西餐,Ama Laxei,Ama Laxei,0,其他,7.0,7.0,7.0
+其他西餐,Thios Fanis,Thios Fanis,0,,7.0,7.0,6.7
+其他西餐,Souvlakoupoli,Souvlakoupoli,0,其他,7.0,7.0,6.9
+其他西餐,Thalasses,Thalasses,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+其他西餐,Doris,Doris,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+其他西餐,Cafe Boheme,Cafe Boheme,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+其他西餐,Gougou Meze,Gougou Meze,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+其他西餐,Loukumami,Loukumami,0,奥莫尼亚(Omonia),7.0,7.1,7.0
+其他西餐,Loukoumades Aigaion,Loukoumades Aigaion,0,奥莫尼亚(Omonia),7.0,7.0,7.0
+其他西餐,Stoa,Stoa,0,奥莫尼亚(Omonia),7.0,7.0,7.0
+其他西餐,Alexandra,Alexandra,0,奥莫尼亚(Omonia),7.1,7.0,7.1
+其他西餐,Ouzeri Lesvos,Ouzeri Lesvos,0,奥莫尼亚(Omonia),7.2,7.2,7.2
+其他西餐,Souvlaki Leivadia,Souvlaki Leivadia,0,奥莫尼亚(Omonia),7.1,7.0,7.0
+其他西餐,TO IΑΣIO,TO IΑΣIO,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+其他西餐,Dioskouri,Dioskouri,0,其他,6.9,6.9,7.0
+其他西餐,Folia tou Koukou ( H ),Folia tou Koukou ( H ),0,,7.0,7.0,7.0
+其他西餐,Skyfall Bar,Skyfall Bar,0,其他,7.1,7.1,7.1
+其他西餐,Chromata Vythou,Chromata Vythou,0,其他,7.1,7.3,7.3
+其他西餐,Perivolaki,Perivolaki,0,其他,7.0,7.0,7.0
+其他西餐,Harvest Coffee & Wine,Harvest Coffee & Wine,0,其他,7.1,7.1,7.1
+其他西餐,Tou Lagonika,Tou Lagonika,0,其他,7.1,7.1,7.1
+其他西餐,The Old Fava,The Old Fava,0,其他,7.1,7.0,6.9
+其他西餐,O SANTORINIOS,O SANTORINIOS,0,其他,7.1,7.1,7.1
+其他西餐,O Kipos Tis Troon,O Kipos Tis Troon,0,其他,7.1,7.0,7.1
+其他西餐,Lontos,Lontos,0,其他,7.2,7.2,7.2
+其他西餐,Sin Athina,Sin Athina,0,其他,7.1,7.1,7.1
+其他西餐,Piedra,Piedra,0,其他,7.0,7.0,7.0
+其他西餐,Gevomai Kai Magevomai,Gevomai Kai Magevomai,0,其他,7.0,7.0,7.0
+其他西餐,Abibayio,Abibayio,0,其他,7.1,7.0,7.0
+其他西餐,Alatsi,Alatsi,0,其他,7.2,7.2,6.8
+其他西餐,Prosopa,Prosopa,0,其他,7.2,7.2,7.2
+其他西餐,Skoufias,Skoufias,0,其他,7.1,7.0,7.0
+其他西餐,Korkofilas,Korkofilas,0,其他,7.1,7.1,7.1
+其他西餐,To Steki Tou Ilia,To Steki Tou Ilia,0,其他,7.2,7.2,7.2
+其他西餐,Ampakas Cretan Restaurant,Ampakas Cretan Restaurant,0,其他,7.0,7.0,7.0
+其他西餐,Hellenic Street Food,Hellenic Street Food,0,其他,7.0,7.0,7.0
+其他西餐,Cartone,Cartone,0,其他,7.3,7.3,7.1
+其他西餐,Schweinchen Dick,Schweinchen Dick,0,其他,6.9,7.0,6.9
+其他西餐,Tsiflik Bahce,Tsiflik Bahce,0,其他,7.1,7.0,7.0
+其他西餐,Asty 68,Asty 68,0,其他,7.3,7.3,7.1
+其他西餐,Fragma,Fragma,0,其他,7.0,7.0,7.0
+其他西餐,Elia,Elia,0,其他,7.1,7.1,7.1
+其他西餐,Adiahorito,Adiahorito,0,其他,6.9,6.9,6.9
+其他西餐,Sxara Lemoni,Sxara Lemoni,0,其他,7.0,7.0,7.0
+其他西餐,Filadelfi,Filadelfi,0,其他,7.0,7.0,7.0
+其他西餐,Nikiforos,Nikiforos,0,其他,7.1,7.1,7.1
+其他西餐,Alargino Rakadiko,Alargino Rakadiko,0,其他,7.0,7.0,7.0
+其他西餐,Elia,Elia,0,其他,7.0,7.0,7.0
+其他西餐,Tilemaxos,Tilemaxos,0,北雅典,7.2,7.2,7.2
+其他西餐,Elaea Cafe Bistrot,Elaea Cafe Bistrot,0,北雅典,7.1,7.0,7.1
+其他西餐,To kalosorisma tou Antoni,To kalosorisma tou Antoni,0,其他,7.1,7.1,7.1
+其他西餐,rakadiko,rakadiko,0,北雅典,7.0,7.0,7.0
+其他西餐,To petalo,To petalo,0,其他,7.0,7.0,7.0
+其他西餐,To Paramithi,To Paramithi,0,其他,7.0,7.1,7.1
+其他西餐,Magaze Cafe,Magaze Cafe,0,其他,7.1,7.1,7.1
+其他西餐,To Piato tis Voulas,To Piato tis Voulas,0,其他,7.0,7.0,7.0
+其他西餐,Lalibela,Lalibela,0,其他,7.0,7.0,7.0
+其他西餐,Mourouzis Taverna,Mourouzis Taverna,0,西雅典,7.1,7.1,7.1
+其他西餐,Ta Skalakia,Ta Skalakia,0,西雅典,7.1,7.1,7.0
+其他西餐,Oxo Nou,Oxo Nou,0,西雅典,7.0,7.0,7.0
+其他西餐,To Drami,To Drami,0,其他,7.1,7.0,7.0
+其他西餐,Krystallis,Krystallis,0,西雅典,7.0,7.0,7.0
+其他西餐,Koundouros,Koundouros,0,其他,7.0,7.0,7.0
+其他西餐,Nama,Nama,0,,7.1,7.1,7.1
+其他西餐,By The Glass,By The Glass,0,其他,7.1,7.1,7.1
+其他西餐,Dia Xeiros Kai Sthn Ladokola,Dia Xeiros Kai Sthn Ladokola,0,其他,7.0,7.0,7.0
+其他西餐,Kalamaki Lambrinaki,Kalamaki Lambrinaki,0,其他,7.1,7.1,6.9
+其他西餐,Peinirli Eleftheriadis,Peinirli Eleftheriadis,0,,7.0,6.9,7.0
+其他西餐,Centrale,Centrale,0,其他,7.0,6.9,7.0
+其他西餐,Ta Giouvetsakia,Ta Giouvetsakia,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Acropolis Restaurant,Acropolis Restaurant,0,布拉卡区(Plaka),7.0,7.1,7.1
+其他西餐,Byzantino,Byzantino,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Diogenes,Diogenes,0,布拉卡区(Plaka),7.2,6.8,7.2
+其他西餐,Xenios Zeus,Xenios Zeus,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Aleka's Taverna,Aleka's Taverna,0,布拉卡区(Plaka),7.1,7.1,7.0
+其他西餐,Melina Cafe,Melina Cafe,0,布拉卡区(Plaka),7.1,7.1,7.5
+其他西餐,Apollonia Lyra,Apollonia Lyra,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Anafiotika,Anafiotika,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Klepsidra Cafe,Klepsidra Cafe,0,布拉卡区(Plaka),7.1,7.1,7.1
+其他西餐,Taverna Platanos,Taverna Platanos,0,布拉卡区(Plaka),7.2,6.8,7.2
+其他西餐,Hip Cafe,Hip Cafe,0,布拉卡区(Plaka),7.2,7.2,7.2
+其他西餐,Loakh Barbecue,Loakh Barbecue,0,布拉卡区(Plaka),6.9,6.9,6.9
+其他西餐,Jamon,Jamon,0,,6.9,6.9,7.0
+其他西餐,Feticcio,Feticcio,0,,7.1,7.1,6.8
+其他西餐,Pere Ubu,Pere Ubu,0,,6.8,7.1,7.1
+其他西餐,Ziogas,Ziogas,0,,7.0,7.0,7.0
+其他西餐,Vryssaki Living space of Art and Action,Vryssaki Living space of Art and Action,0,普西里(Psiri),6.7,7.0,7.0
+其他西餐,Kotili,Kotili,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Moma Rest & Cafe,Moma Rest & Cafe,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Cafe Avissinia,Cafe Avissinia,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Stoa of Attalos,Stoa of Attalos,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Poikili Stoa,Poikili Stoa,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,OYZOY MELATHRON,OYZOY MELATHRON,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,Kalipatira,Kalipatira,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,Souvlaki Kostas,Souvlaki Kostas,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,Dipylo,Dipylo,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,IX Mommy's Kitchen,IX Mommy's Kitchen,0,普西里(Psiri),7.1,7.0,7.1
+其他西餐,Throubi,Throubi,0,普西里(Psiri),7.0,6.9,7.0
+其他西餐,Miniatura,Miniatura,0,普西里(Psiri),7.0,7.1,7.1
+其他西餐,Six Dogs,Six Dogs,0,普西里(Psiri),7.2,7.2,7.6
+其他西餐,Koubelos,Koubelos,0,普西里(Psiri),7.0,7.0,7.0
+其他西餐,Lithos,Lithos,0,普西里(Psiri),7.2,7.2,7.2
+其他西餐,Oraia Penteli,Oraia Penteli,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,Pica Pica,Pica Pica,0,普西里(Psiri),6.9,6.9,6.9
+其他西餐,Nikitas,Nikitas,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,Bouloukos,Bouloukos,0,普西里(Psiri),7.0,7.0,7.0
+其他西餐,Theikon grill house,Theikon grill house,0,普西里(Psiri),7.1,7.1,7.0
+其他西餐,Argoura,Argoura,0,普西里(Psiri),7.1,7.1,7.1
+其他西餐,Olympiou Amalthia,Olympiou Amalthia,0,卫城周边(Acropolis&Koukaki;),7.0,7.1,7.0
+其他西餐,Edodi,Edodi,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+其他西餐,Pizzeria Romas,Pizzeria Romas,0,卫城周边(Acropolis&Koukaki;),7.3,7.3,7.1
+其他西餐,Kalamaki Bar,Kalamaki Bar,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,To Kati Allo,To Kati Allo,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+其他西餐,Oinomageireio Ton Theon,Oinomageireio Ton Theon,0,卫城周边(Acropolis&Koukaki;),6.7,6.7,6.7
+其他西餐,Agrotera,Agrotera,0,卫城周边(Acropolis&Koukaki;),7.0,7.0,7.1
+其他西餐,Chemin Bistro Cafe,Chemin Bistro Cafe,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+其他西餐,Ouzadiko,Ouzadiko,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+其他西餐,Fagopoteion,Fagopoteion,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+其他西餐,Meat-Meat-Meat the Grill,Meat-Meat-Meat the Grill,0,柯洛纳基(Kolonaki),7.3,7.1,7.1
+其他西餐,Al Sette,Al Sette,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+其他西餐,Stinking Bishop,Stinking Bishop,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+其他西餐,Veranda Cafe,Veranda Cafe,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+其他西餐,Para Siempre,Para Siempre,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+其他西餐,Kalamaki Kolonaki,Kalamaki Kolonaki,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+其他西餐,Kavatza,Kavatza,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+其他西餐,Bouka,Bouka,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+其他西餐,Mastra Psaromezedes,Mastra Psaromezedes,0,柯洛纳基(Kolonaki),7.0,7.0,7.1
+其他西餐,Paella Barcelona,Paella Barcelona,0,柯洛纳基(Kolonaki),6.9,7.0,7.0
+其他西餐,Papayannis,Papayannis,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+其他西餐,Fuga,Fuga,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+其他西餐,Willy's Music Cafe,Willy's Music Cafe,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+其他西餐,Baraonda,Baraonda,0,柯洛纳基(Kolonaki),6.8,6.8,7.2
+其他西餐,Estia,Estia,0,北雅典,6.9,6.9,6.9
+其他西餐,Barley Cargo,Barley Cargo,0,宪法广场周边(Syntagma Square),7.1,7.1,7.1
+其他西餐,17 Restaurant-Bar,17 Restaurant-Bar,0,宪法广场周边(Syntagma Square),7.0,7.0,7.0
+其他西餐,Meat Bar,Meat Bar,0,,7.1,7.1,7.0
+其他西餐,Biftekakia & Souvlakia Kifisias,Biftekakia & Souvlakia Kifisias,0,,7.0,7.0,7.0
+其他西餐,Premiere Restaurant & Lounge Bar,Premiere Restaurant & Lounge Bar,0,维多利亚(Victoria),7.2,7.2,7.2
+其他西餐,Flavour Business Resto Cafe,Flavour Business Resto Cafe,0,里欧斯波斯菊(Neos Kosmos),7.1,7.3,7.1
+其他西餐,Filanthi,Filanthi,0,里欧斯波斯菊(Neos Kosmos),7.0,7.1,7.0
+其他西餐,Oinosxoleio,Oinosxoleio,0,里欧斯波斯菊(Neos Kosmos),7.0,7.0,7.0
+其他西餐,Salero,Salero,0,伊哈瑞亚(Exarhia),7.2,7.2,7.2
+其他西餐,O Agleouras,O Agleouras,0,伊哈瑞亚(Exarhia),7.0,7.0,6.9
+其他西餐,TA Peristeria Restaurant,TA Peristeria Restaurant,0,伊哈瑞亚(Exarhia),7.1,7.1,7.1
+其他西餐,Lokanta,Lokanta,0,,7.0,7.0,7.0
+其他西餐,Aneton,Aneton,0,,7.2,7.2,7.2
+其他西餐,Pezodromos,Pezodromos,0,,6.9,6.9,6.9
+其他西餐,Megaritis,Megaritis,0,帕格拉提(Pagkrati),7.0,7.0,7.0
+其他西餐,Melaki,Melaki,0,帕格拉提(Pagkrati),7.0,7.1,7.0
+其他西餐,Katsourbos,Katsourbos,0,帕格拉提(Pagkrati),7.5,7.1,7.1
+其他西餐,Roloi,Roloi,0,帕格拉提(Pagkrati),7.0,7.1,7.0
+其他西餐,Magemenos Avlos,Magemenos Avlos,0,帕格拉提(Pagkrati),7.0,7.0,7.1
+其他西餐,Fatsio,Fatsio,0,帕格拉提(Pagkrati),7.1,7.1,7.0
+其他西餐,Thea Thissio,Thea Thissio,0,其他,6.8,6.6,7.1
+其他西餐,Mamaca's,Mamaca's,0,其他,6.8,6.8,7.2
+其他西餐,Mespilea,Mespilea,0,其他,7.1,6.8,6.8
+其他西餐,Neos Rigas,Neos Rigas,0,布拉卡区(Plaka),6.8,6.8,7.1
+其他西餐,Tavern Kalokerinos,Tavern Kalokerinos,0,布拉卡区(Plaka),6.8,7.1,7.1
+其他西餐,Kouti,Kouti,0,普西里(Psiri),6.8,6.8,7.1
+其他西餐,I Epirus,I Epirus,0,其他,6.9,6.9,6.9
+其他西餐,Dream Grill,Dream Grill,0,,6.7,6.7,6.9
+其他西餐,Tou Psara,Tou Psara,0,奥莫尼亚(Omonia),0.0,0.0,0.0
+其他西餐,Aegli Cafe,Aegli Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Lampros Restaurant,Lampros Restaurant,0,其他,0.0,0.0,0.0
+中餐,Jing 京品食尚,Jing 京品食尚,0,卫城周边(Acropolis&Koukaki;),9.0,9.0,9.0
+中餐,夜上海饭店,夜上海饭店,0,卫城周边(Acropolis&Koukaki;),7.3,7.3,7.3
+中餐,夜上海,夜上海,0,卫城周边(Acropolis&Koukaki;),7.4,7.3,7.1
+中餐,福云龙饭店,福云龙饭店,0,,7.4,8.2,8.2
+中餐,天香一品肥牛,天香一品肥牛,0,,6.6,7.0,6.7
+中餐,Asiantaste,Asiantaste,0,其他,6.5,6.8,6.8
+中餐,远东,远东,0,宪法广场周边(Syntagma Square),6.9,6.9,6.9
+中餐,Jasmin,Jasmin,0,,6.9,6.9,6.9
+中餐,China's Food & Fantasy,China's Food & Fantasy,0,,7.1,7.1,7.1
+中餐,中国城,中国城,0,南雅典,6.8,7.1,6.8
+中餐,Imperial Town,Imperial Town,0,奥莫尼亚(Omonia),7.0,6.9,6.9
+中餐,阿尔塔米拉,阿尔塔米拉,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+中餐,九龙烧味,九龙烧味,0,,7.1,7.1,7.1
+中餐,金凤凰,金凤凰,0,里欧斯波斯菊(Neos Kosmos),7.1,7.1,7.1
+中餐,Sao Tao,Sao Tao,0,,6.9,7.0,6.9
+中餐,Fu Lu Shu,Fu Lu Shu,0,奥莫尼亚(Omonia),6.9,6.9,6.7
+中餐,Saipan,Saipan,0,,7.1,7.1,7.0
+中餐,Pekino Restaurant,Pekino Restaurant,0,,7.0,7.0,6.9
+中餐,Golden Phoenix Kefalari,Golden Phoenix Kefalari,0,伊哈瑞亚(Exarhia),6.9,7.0,7.0
+中餐,China's Fantasy,China's Fantasy,0,北雅典,7.0,7.0,7.1
+中餐,Spring Rolls,Spring Rolls,0,其他,6.7,7.0,7.0
+中餐,北京烤鸭,北京烤鸭,0,帕里欧弗里欧(Paleo Faliro),0.0,0.0,0.0
+日韩料理,Balux Cafe House Project,Balux Cafe House Project,0,,7.2,7.7,7.3
+日韩料理,Dosirak,Dosirak,0,布拉卡区(Plaka),6.6,7.1,6.6
+日韩料理,Furin Kazan,Furin Kazan,0,宪法广场周边(Syntagma Square),7.4,7.4,7.2
+日韩料理,Galaxy Bar and Restaurant,Galaxy Bar and Restaurant,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+日韩料理,Kyoto,Kyoto,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+日韩料理,Godzilla Sushi Bar,Godzilla Sushi Bar,0,普西里(Psiri),7.1,7.1,7.1
+日韩料理,Wagamama,Wagamama,0,,7.1,7.1,7.1
+日韩料理,Koi Sushi Bar,Koi Sushi Bar,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+日韩料理,Kohylia Restaurant,Kohylia Restaurant,0,,7.1,6.8,7.1
+日韩料理,Sushi Sushi by Nelmezzo,Sushi Sushi by Nelmezzo,0,柯洛纳基(Kolonaki),7.1,7.0,7.0
+日韩料理,Nobu,Nobu,0,南雅典,7.1,7.1,7.3
+更多亚洲菜,Falafellas,Falafellas,0,普西里(Psiri),8.2,7.4,7.7
+更多亚洲菜,Altamira,Altamira,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+更多亚洲菜,Mama Roux,Mama Roux,0,普西里(Psiri),7.2,7.2,7.2
+更多亚洲菜,Red Elephant,Red Elephant,0,其他,7.2,7.2,7.2
+更多亚洲菜,Iskandar,Iskandar,0,宪法广场周边(Syntagma Square),7.1,7.1,7.1
+更多亚洲菜,NOODLE BAR,NOODLE BAR,0,布拉卡区(Plaka),7.2,7.2,7.2
+更多亚洲菜,Pita & Bab,Pita & Bab,0,,6.9,6.9,6.9
+更多亚洲菜,Indian Kitchen,Indian Kitchen,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+更多亚洲菜,Indian Masala,Indian Masala,0,普西里(Psiri),7.2,7.2,7.2
+更多亚洲菜,Tamarind Thai Kitchen,Tamarind Thai Kitchen,0,梅塔速尔基奥(Metaxourgeio),7.1,7.1,7.1
+更多亚洲菜,Sablo,Sablo,0,拉里萨火车站(Larissis),7.0,7.1,7.0
+更多亚洲菜,Karakoy Gulluoglu,Karakoy Gulluoglu,0,其他,7.1,7.0,7.0
+更多亚洲菜,Kohenoor,Kohenoor,0,其他,7.2,7.2,6.8
+更多亚洲菜,Vietnam,Vietnam,0,,7.0,7.0,7.0
+更多亚洲菜,Pandelis,Pandelis,0,帕格拉提(Pagkrati),7.0,7.0,7.0
+更多亚洲菜,Bollywood Kitchen,Bollywood Kitchen,0,其他,7.1,7.1,7.1
+更多亚洲菜,Mutfak,Mutfak,0,,7.1,7.1,7.1
+更多亚洲菜,Mirch Indian Take Away,Mirch Indian Take Away,0,普西里(Psiri),7.1,7.1,7.1
+更多亚洲菜,Pita Vosporos,Pita Vosporos,0,伊哈瑞亚(Exarhia),6.9,6.9,6.9
+更多亚洲菜,Bollywood Gazi,Bollywood Gazi,0,其他,7.0,7.0,7.0
+更多亚洲菜,Bereket,Bereket,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+更多亚洲菜,Jaipur Palace,Jaipur Palace,0,,7.1,7.1,7.1
+快餐简餐,Thanasis,Thanasis,0,奥莫尼亚(Omonia),8.3,7.8,8.1
+快餐简餐,Ice Grill,Ice Grill,0,奥莫尼亚(Omonia),7.0,6.9,7.0
+快餐简餐,Tzitzikas kai Mermigas,Tzitzikas kai Mermigas,0,普西里(Psiri),7.5,7.1,7.1
+快餐简餐,Bairaktaris,Bairaktaris,0,布拉卡区(Plaka),6.8,6.8,7.2
+快餐简餐,Fast Good Hot Dog,Fast Good Hot Dog,0,伊哈瑞亚(Exarhia),7.5,7.5,7.5
+快餐简餐,McDonald's Constitution,McDonald's Constitution,0,宪法广场周边(Syntagma Square),6.8,6.8,7.1
+快餐简餐,Saloon Piano Restaurant,Saloon Piano Restaurant,0,其他,7.2,7.2,7.2
+快餐简餐,NOODLE BAR,NOODLE BAR,0,布拉卡区(Plaka),7.2,7.2,7.2
+快餐简餐,Amigos,Amigos,0,,7.2,7.2,7.2
+快餐简餐,Regal Cafe Bar,Regal Cafe Bar,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+快餐简餐,Sam,Sam,0,其他,6.9,6.9,6.9
+快餐简餐,Point Of View,Point Of View,0,其他,7.0,7.1,7.1
+快餐简餐,Cake Acropolis,Cake Acropolis,0,,7.0,6.9,7.1
+快餐简餐,TGI Friday's,TGI Friday's,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+快餐简餐,Emi's Cupcakes,Emi's Cupcakes,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+快餐简餐,TGI Friday's,TGI Friday's,0,其他,7.2,7.2,7.2
+快餐简餐,Bar.B.Q,Bar.B.Q,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+快餐简餐,Rock & Balls,Rock & Balls,0,普西里(Psiri),7.1,7.1,7.1
+快餐简餐,TA KIOYPIA,TA KIOYPIA,0,柯洛纳基(Kolonaki),7.1,7.1,6.9
+快餐简餐,American Burger,American Burger,0,,7.0,7.0,7.0
+快餐简餐,Hardrock Cafe Athens,Hardrock Cafe Athens,0,其他,7.0,7.0,7.0
+快餐简餐,TGI Friday's,TGI Friday's,0,,7.1,7.0,7.0
+快餐简餐,TGI Friday's,TGI Friday's,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+快餐简餐,Chemin Bistro Cafe,Chemin Bistro Cafe,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+快餐简餐,Apollonion,Apollonion,0,柯洛纳基(Kolonaki),6.9,7.0,7.0
+快餐简餐,Hard Rock Cafe Athens,Hard Rock Cafe Athens,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+快餐简餐,New York Sandwiches,New York Sandwiches,0,柯洛纳基(Kolonaki),7.1,6.8,7.1
+海鲜,明月楼,明月楼,0,中雅典,9.0,9.0,9.0
+海鲜,Delfinia,Delfinia,0,,8.2,8.2,8.2
+海鲜,Vezene,Vezene,0,其他,7.2,7.2,7.2
+海鲜,Papadakis,Papadakis,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+海鲜,Ellinon Pelagos,Ellinon Pelagos,0,其他,7.1,7.1,7.0
+海鲜,Nikolas tis Schinoussas,Nikolas tis Schinoussas,0,,7.1,7.1,7.1
+海鲜,To 25araki,To 25araki,0,,7.1,7.1,7.1
+海鲜,Fishalida Sea-food,Fishalida Sea-food,0,帕格拉提(Pagkrati),7.1,7.1,7.1
+海鲜,Fish Cafe,Fish Cafe,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+海鲜,To Trikyklo,To Trikyklo,0,卫城周边(Acropolis&Koukaki;),7.2,7.7,7.2
+海鲜,AiNikolas,AiNikolas,0,维多利亚(Victoria),7.1,7.3,7.1
+海鲜,To Tsipouradiko By RIF South Edition,To Tsipouradiko By RIF South Edition,0,其他,6.9,6.9,6.9
+海鲜,Kastelorizo,Kastelorizo,0,,7.1,7.0,6.9
+海鲜,Faros,Faros,0,,6.9,6.9,6.9
+海鲜,Ammos,Ammos,0,,6.9,6.9,6.9
+海鲜,Psaroma,Psaroma,0,,7.0,6.9,6.9
+烧烤,Rozalia,Rozalia,0,伊哈瑞亚(Exarhia),8.0,8.0,8.0
+烧烤,China's Food & Fantasy,China's Food & Fantasy,0,,7.1,7.1,7.1
+烧烤,Grill Academy,Grill Academy,0,维多利亚(Victoria),6.9,6.9,6.9
+烧烤,Dion Cafe & Restaurant,Dion Cafe & Restaurant,0,宪法广场周边(Syntagma Square),6.9,6.9,6.9
+烧烤,BeerTime,BeerTime,0,普西里(Psiri),7.2,7.2,7.2
+烧烤,Simeia & Kreata,Simeia & Kreata,0,其他,6.9,6.9,6.9
+烧烤,To Special,To Special,0,其他,7.1,7.1,7.0
+烧烤,Brizolakia. Gr,Brizolakia. Gr,0,维多利亚(Victoria),7.0,7.0,7.0
+烧烤,I Gonia,I Gonia,0,其他,6.9,6.9,6.9
+烧烤,OYZOY MELATHRON,OYZOY MELATHRON,0,普西里(Psiri),7.1,7.1,7.1
+比萨,Collage,Collage,0,布拉卡区(Plaka),8.1,8.1,8.1
+比萨,Ariston,Ariston,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+比萨,Domino's Pizza,Domino's Pizza,0,奥莫尼亚(Omonia),7.0,7.0,7.0
+比萨,Bush Bar,Bush Bar,0,普西里(Psiri),7.1,7.5,7.1
+比萨,Mystic Pizza & Pasta,Mystic Pizza & Pasta,0,其他,7.1,7.1,7.1
+比萨,Mystic Pizza & Pasta,Mystic Pizza & Pasta,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+比萨,Zeas pizza,Zeas pizza,0,里欧斯波斯菊(Neos Kosmos),7.1,7.1,7.1
+比萨,Portofino Pizza,Portofino Pizza,0,,6.9,6.9,6.9
+咖啡厅,Ydria restaurant,Ydria restaurant,0,布拉卡区(Plaka),7.9,7.6,7.6
+咖啡厅,雅典普拉卡咖啡,雅典普拉卡咖啡,0,奥莫尼亚(Omonia),6.6,6.7,7.0
+咖啡厅,Tailor Made,Tailor Made,0,普西里(Psiri),7.2,7.3,7.2
+咖啡厅,only1,only1,0,布拉卡区(Plaka),6.4,6.4,6.8
+咖啡厅,Ex Arxis,Ex Arxis,0,伊哈瑞亚(Exarhia),7.4,7.4,7.4
+咖啡厅,White Frozen Yogurt Cafe,White Frozen Yogurt Cafe,0,宪法广场周边(Syntagma Square),7.1,7.1,7.1
+咖啡厅,"Public Cafe, Syntagma Square, Athens","Public Cafe, Syntagma Square, Athens",0,宪法广场周边(Syntagma Square),6.8,7.1,6.8
+咖啡厅,Cafe Taf,Cafe Taf,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+咖啡厅,O Glykis,O Glykis,0,布拉卡区(Plaka),7.1,7.1,7.1
+咖啡厅,Ice Scream,Ice Scream,0,布拉卡区(Plaka),7.1,7.1,7.0
+咖啡厅,Sugar Inn,Sugar Inn,0,维多利亚(Victoria),6.9,6.9,6.9
+咖啡厅,Petit,Petit,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+咖啡厅,Coco Cafe,Coco Cafe,0,卫城周边(Acropolis&Koukaki;),6.9,6.9,6.9
+咖啡厅,All Day Cafe,All Day Cafe,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+咖啡厅,Off White Cafe Bar,Off White Cafe Bar,0,布拉卡区(Plaka),7.0,7.1,7.1
+咖啡厅,Sokolata,Sokolata,0,布拉卡区(Plaka),7.1,7.1,7.1
+咖啡厅,Zahari & Alati,Zahari & Alati,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+咖啡厅,Makriyianni 3,Makriyianni 3,0,卫城周边(Acropolis&Koukaki;),7.0,7.0,7.0
+咖啡厅,O&B Athens All Day Bar Restaurant,O&B Athens All Day Bar Restaurant,0,普西里(Psiri),7.7,7.7,7.2
+咖啡厅,To Tsai,To Tsai,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+咖啡厅,The truly amazing acrobat,The truly amazing acrobat,0,梅塔速尔基奥(Metaxourgeio),7.0,7.1,7.0
+咖啡厅,Liondi Coffee & Wine,Liondi Coffee & Wine,0,卫城周边(Acropolis&Koukaki;),7.3,7.3,7.3
+咖啡厅,Plastiko,Plastiko,0,其他,6.9,6.9,6.9
+咖啡厅,Bliss Cafe Restaurant,Bliss Cafe Restaurant,0,普西里(Psiri),7.2,7.2,7.2
+咖啡厅,Nice n Easy,Nice n Easy,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+咖啡厅,Atitamos,Atitamos,0,其他,7.1,7.1,7.0
+咖啡厅,Kyklos,Kyklos,0,奥莫尼亚(Omonia),7.0,7.1,7.1
+咖啡厅,Cups+Plates,Cups+Plates,0,奥莫尼亚(Omonia),7.1,7.1,7.0
+咖啡厅,Crème Royale,Crème Royale,0,,7.1,7.0,7.0
+咖啡厅,Ilissia Cafe Bistrot,Ilissia Cafe Bistrot,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+咖啡厅,Sweet Habit,Sweet Habit,0,西雅典,6.9,6.9,6.9
+咖啡厅,Camp Cafe Bar,Camp Cafe Bar,0,奥莫尼亚(Omonia),6.9,6.9,7.1
+咖啡厅,Gregorys & Coffeeright,Gregorys & Coffeeright,0,奥莫尼亚(Omonia),7.0,7.0,7.0
+咖啡厅,L'arret du temps,L'arret du temps,0,其他,7.0,7.1,7.1
+咖啡厅,Rooster,Rooster,0,普西里(Psiri),6.8,6.8,7.1
+咖啡厅,Ta Serbetia stou Psyrri,Ta Serbetia stou Psyrri,0,普西里(Psiri),7.2,7.2,7.2
+咖啡厅,HBH Coffee Bar,HBH Coffee Bar,0,伊哈瑞亚(Exarhia),7.1,7.1,7.1
+咖啡厅,Galla,Galla,0,,6.9,6.9,6.9
+咖啡厅,Mikro Cafe,Mikro Cafe,0,布拉卡区(Plaka),7.0,6.9,6.9
+面包甜点,Terkenlis,Terkenlis,0,奥莫尼亚(Omonia),7.2,7.1,7.2
+面包甜点,Froyo,Froyo,0,布拉卡区(Plaka),8.1,7.5,7.5
+面包甜点,Bliss,Bliss,0,其他,7.0,6.9,7.0
+面包甜点,Gelato Gelateria,Gelato Gelateria,0,卫城周边(Acropolis&Koukaki;),7.0,7.1,7.1
+面包甜点,White Frozen Yogurt Cafe,White Frozen Yogurt Cafe,0,宪法广场周边(Syntagma Square),7.1,7.1,7.1
+面包甜点,Stani,Stani,0,奥莫尼亚(Omonia),7.3,7.1,7.1
+面包甜点,Konstandinidis,Konstandinidis,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+面包甜点,Ice Scream,Ice Scream,0,布拉卡区(Plaka),7.1,7.1,7.0
+面包甜点,Sugar Inn,Sugar Inn,0,维多利亚(Victoria),6.9,6.9,6.9
+面包甜点,Beneth,Beneth,0,布拉卡区(Plaka),7.1,7.1,7.0
+面包甜点,Cake Acropolis,Cake Acropolis,0,,7.0,6.9,7.1
+面包甜点,Mattonella,Mattonella,0,普西里(Psiri),7.0,7.0,7.0
+面包甜点,Karakoy Gulluoglu,Karakoy Gulluoglu,0,其他,7.1,7.0,7.0
+面包甜点,Crème Royale,Crème Royale,0,,7.1,7.0,7.0
+面包甜点,Yoo moo,Yoo moo,0,,7.1,7.1,7.0
+面包甜点,Yogilicius,Yogilicius,0,普西里(Psiri),7.1,7.0,7.0
+面包甜点,The Ice Cream Shop,The Ice Cream Shop,0,普西里(Psiri),7.1,7.1,7.1
+面包甜点,Yoging,Yoging,0,普西里(Psiri),6.9,6.9,6.9
+面包甜点,Cantina De Lycabetto,Cantina De Lycabetto,0,普西里(Psiri),7.1,7.1,7.0
+面包甜点,Deliolanis Old Baker's,Deliolanis Old Baker's,0,卫城周边(Acropolis&Koukaki;),6.9,6.9,6.9
+面包甜点,Ilissia Cafe Bistrot,Ilissia Cafe Bistrot,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+面包甜点,Aesthiseis Cafe - Creperie,Aesthiseis Cafe - Creperie,0,宪法广场周边(Syntagma Square),6.9,6.9,6.9
+面包甜点,The Dark Side of Chocolate,The Dark Side of Chocolate,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+面包甜点,Loukumami,Loukumami,0,奥莫尼亚(Omonia),7.0,7.1,7.0
+面包甜点,L'atelier de Patisserie,L'atelier de Patisserie,0,,7.0,7.0,7.0
+面包甜点,Yogolicious,Yogolicious,0,普西里(Psiri),7.2,7.2,7.2
+面包甜点,Pagotomania,Pagotomania,0,普西里(Psiri),7.1,7.5,7.5
+面包甜点,Sweet Alchemy,Sweet Alchemy,0,柯洛纳基(Kolonaki),7.0,6.9,7.0
+面包甜点,Zillion's Ice Cream Bar,Zillion's Ice Cream Bar,0,,7.0,7.1,6.9
+面包甜点,Galla,Galla,0,,6.9,6.9,6.9
+面包甜点,Zonar's,Zonar's,0,其他,7.1,6.6,7.1
+酒吧,Brettos Bar,Brettos Bar,0,布拉卡区(Plaka),8.4,8.4,8.4
+酒吧,ELEVEN,ELEVEN,0,北雅典,7.5,7.5,7.5
+酒吧,Athens Sports Bar,Athens Sports Bar,0,卫城周边(Acropolis&Koukaki;),0.0,0.0,0.0
+酒吧,A for Athens Cocktail Bar,A for Athens Cocktail Bar,0,普西里(Psiri),0.0,0.0,0.0
+酒吧,Athens Bar Crawl,Athens Bar Crawl,0,布拉卡区(Plaka),0.0,0.0,0.0
+酒吧,Regal Cafe Bar,Regal Cafe Bar,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+酒吧,Minnie The Moocher,Minnie The Moocher,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+酒吧,Off White Cafe Bar,Off White Cafe Bar,0,布拉卡区(Plaka),7.0,7.1,7.1
+酒吧,BAR 56,BAR 56,0,伊哈瑞亚(Exarhia),6.9,7.1,7.0
+酒吧,Winepoint,Winepoint,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+酒吧,BeerTime,BeerTime,0,普西里(Psiri),7.2,7.2,7.2
+酒吧,Bush Bar,Bush Bar,0,普西里(Psiri),7.1,7.5,7.1
+酒吧,Schinovatis Cafe Bar,Schinovatis Cafe Bar,0,其他,6.9,7.3,7.3
+酒吧,Minibar,Minibar,0,普西里(Psiri),0.0,0.0,0.0
+酒吧,Ratka,Ratka,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+酒吧,Ginger Ale cocktail lounge bar,Ginger Ale cocktail lounge bar,0,伊哈瑞亚(Exarhia),0.0,0.0,0.0
+酒吧,BOOX cafe bar,BOOX cafe bar,0,奥莫尼亚(Omonia),7.0,7.1,7.1
+酒吧,Osterman,Osterman,0,普西里(Psiri),7.1,7.1,7.1
+酒吧,Crudo,Crudo,0,其他,6.9,6.9,6.9
+酒吧,Luxus,Luxus,0,伊哈瑞亚(Exarhia),6.9,6.9,6.9
+酒吧,Sound and Light,Sound and Light,0,其他,0.0,0.0,0.0
+酒吧,Camp Cafe Bar,Camp Cafe Bar,0,奥莫尼亚(Omonia),6.9,6.9,7.1
+酒吧,Stoa Athanaton,Stoa Athanaton,0,普西里(Psiri),0.0,0.0,0.0
+酒吧,Imperia Ice Club,Imperia Ice Club,0,普西里(Psiri),0.0,0.0,0.0
+酒吧,Wine Booth,Wine Booth,0,宪法广场周边(Syntagma Square),7.0,7.1,7.1
+酒吧,Barley Cargo,Barley Cargo,0,宪法广场周边(Syntagma Square),7.1,7.1,7.1
+更多美食,Alexander the Great Restaurant,Alexander the Great Restaurant,0,梅塔速尔基奥(Metaxourgeio),7.8,7.7,7.9
+更多美食,Hytra,Hytra,0,里欧斯波斯菊(Neos Kosmos),8.2,8.2,8.2
+更多美食,Dosirak,Dosirak,0,布拉卡区(Plaka),7.0,7.3,7.3
+更多美食,Thea Terrace Bar,Thea Terrace Bar,0,布拉卡区(Plaka),7.7,8.5,8.0
+更多美食,Aspro Alogo,Aspro Alogo,0,布拉卡区(Plaka),7.2,7.5,8.1
+更多美食,New Hotel,New Hotel,0,宪法广场周边(Syntagma Square),7.6,7.6,7.3
+更多美食,Kaltherimi,Kaltherimi,0,奥莫尼亚(Omonia),8.1,8.2,8.2
+更多美食,Scholarchio Yerani,Scholarchio Yerani,0,布拉卡区(Plaka),5.9,8.1,5.9
+更多美食,Beirut Restaurant,Beirut Restaurant,0,,7.6,7.6,7.6
+更多美食,Balkan Restaurant,Balkan Restaurant,0,梅塔速尔基奥(Metaxourgeio),7.5,8.4,7.5
+更多美食,Mouses,Mouses,0,普西里(Psiri),7.3,7.0,7.0
+更多美食,Première,Première,0,,0.0,0.0,0.0
+更多美食,Psarra's Tavern,Psarra's Tavern,0,,0.0,0.0,0.0
+更多美食,Plakiotissa,Plakiotissa,0,其他,6.9,7.0,6.9
+更多美食,Kuzina,Kuzina,0,普西里(Psiri),7.2,7.2,7.2
+更多美食,ISLAND,ISLAND,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+更多美食,Kona Kai,Kona Kai,0,里欧斯波斯菊(Neos Kosmos),7.2,7.2,7.2
+更多美食,Telis,Telis,0,奥莫尼亚(Omonia),7.2,7.2,6.8
+更多美食,Vlassis,Vlassis,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+更多美食,Chroma,Chroma,0,宪法广场周边(Syntagma Square),6.9,6.9,6.9
+更多美食,Etrusco,Etrusco,0,卫城周边(Acropolis&Koukaki;),6.9,6.9,6.9
+更多美食,Tranzistor Cafe,Tranzistor Cafe,0,其他,7.0,7.0,7.0
+更多美食,Gallery Tou Meze,Gallery Tou Meze,0,宪法广场周边(Syntagma Square),7.0,7.1,7.0
+更多美食,Eis Ygeian,Eis Ygeian,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+更多美食,Gkel Bistrot,Gkel Bistrot,0,普西里(Psiri),7.0,7.0,7.0
+更多美食,Milos Estiatorio,Milos Estiatorio,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+更多美食,Enoteca,Enoteca,0,北雅典,6.9,6.9,7.0
+更多美食,Minotauros,Minotauros,0,普西里(Psiri),7.1,7.1,7.1
+更多美食,Byzantine,Byzantine,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+更多美食,Themis Taverna,Themis Taverna,0,布拉卡区(Plaka),7.0,7.0,6.9
+更多美食,Salt and Pepper,Salt and Pepper,0,北雅典,7.1,7.0,7.0
+更多美食,Avocado,Avocado,0,布拉卡区(Plaka),7.2,7.2,7.2
+更多美食,diodos,diodos,0,普西里(Psiri),7.2,7.2,7.2
+更多美食,Ioakh Barbeque,Ioakh Barbeque,0,帕格拉提(Pagkrati),7.1,7.1,7.0
+更多美食,Cafezoe,Cafezoe,0,,0.0,0.0,0.0
+更多美食,Funky Gourmet,Funky Gourmet,0,其他,7.7,7.7,7.2
+更多美食,Mohnblumchen,Mohnblumchen,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+更多美食,Palia Vouli,Palia Vouli,0,宪法广场周边(Syntagma Square),6.9,6.9,6.9
+更多美食,Krasopoulio Tou Kokkora,Krasopoulio Tou Kokkora,0,普西里(Psiri),7.3,7.1,7.3
+更多美食,Orizontes,Orizontes,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+更多美食,Colibri,Colibri,0,帕格拉提(Pagkrati),7.2,7.2,7.2
+更多美食,Filippou,Filippou,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+更多美食,Attikos Greek House,Attikos Greek House,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+更多美食,Ma'ergeio,Ma'ergeio,0,卫城周边(Acropolis&Koukaki;),7.0,7.0,7.0
+更多美食,Paradise Restaurant,Paradise Restaurant,0,普西里(Psiri),6.9,6.9,6.9
+更多美食,Lukumades,Lukumades,0,,7.1,7.0,7.0
+更多美食,Yamato,Yamato,0,帕格拉提(Pagkrati),7.3,7.1,7.1
+更多美食,Voliotiko Tsipouradiko,Voliotiko Tsipouradiko,0,普西里(Psiri),6.9,6.9,6.9
+更多美食,Kolonaki Pizza Restaurant,Kolonaki Pizza Restaurant,0,柯洛纳基(Kolonaki),7.1,7.1,7.0
+更多美食,Piu Verde,Piu Verde,0,北雅典,7.1,7.1,7.1
+更多美食,Ai Nicolas,Ai Nicolas,0,里欧斯波斯菊(Neos Kosmos),6.9,6.9,6.9
+更多美食,Ioannis Restaurant,Ioannis Restaurant,0,卫城周边(Acropolis&Koukaki;),7.0,7.0,7.1
+更多美食,Air Lounge Bar & Restaurant,Air Lounge Bar & Restaurant,0,普西里(Psiri),7.0,7.0,7.0
+更多美食,Ristorante La Rocca,Ristorante La Rocca,0,卫城周边(Acropolis&Koukaki;),7.0,7.0,7.0
+更多美食,Beer Acadamy,Beer Acadamy,0,奥莫尼亚(Omonia),6.9,6.7,6.7
+更多美食,La Bussola,La Bussola,0,其他,7.0,7.0,7.0
+更多美食,Mikra Asia,Mikra Asia,0,其他,6.9,6.9,6.9
+更多美食,Elias 1958,Elias 1958,0,其他,6.9,6.9,6.9
+更多美食,Chrysomilo,Chrysomilo,0,普西里(Psiri),6.9,6.9,6.9
+更多美食,Route Nationale 7,Route Nationale 7,0,,7.0,7.0,7.0
+更多美食,Raeti,Raeti,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+更多美食,La Pasteria,La Pasteria,0,其他,7.0,7.0,7.0
+更多美食,Le Petit Sommelier,Le Petit Sommelier,0,伊哈瑞亚(Exarhia),7.0,7.0,7.0
+更多美食,Rozgara,Rozgara,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+更多美食,GB Roof Garden - Hotel Grande Bretagne,GB Roof Garden - Hotel Grande Bretagne,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+更多美食,Athenian Callirhoe Hotel Roof Garden,Athenian Callirhoe Hotel Roof Garden,0,卫城周边(Acropolis&Koukaki;),7.1,7.5,7.1
+更多美食,Cafe Veneti,Cafe Veneti,0,其他,7.1,7.0,7.0
+更多美食,O Panache World Famous Kebab,O Panache World Famous Kebab,0,其他,6.9,6.9,6.9
+更多美食,Aperitivo Pizza Bar,Aperitivo Pizza Bar,0,,7.1,7.1,6.8
+更多美食,Dekaepta,Dekaepta,0,宪法广场周边(Syntagma Square),6.9,6.9,6.9
+更多美食,GefstIkI Gonia,GefstIkI Gonia,0,拉里萨火车站(Larissis),7.1,7.1,7.1
+更多美食,Orizontes Lycavittou,Orizontes Lycavittou,0,其他,7.2,7.2,7.2
+更多美食,Monsieur Barbu,Monsieur Barbu,0,卫城周边(Acropolis&Koukaki;),7.0,7.1,7.0
+更多美食,PAPANDREOU,PAPANDREOU,0,其他,7.1,7.1,7.1
+更多美食,Naxos,Naxos,0,布拉卡区(Plaka),7.1,7.1,7.1
+更多美食,Starbucks Coffee Company,Starbucks Coffee Company,0,其他,6.9,6.9,6.9
+更多美食,Maistrali,Maistrali,0,南雅典,7.1,7.0,7.0
+更多美食,Panorama,Panorama,0,里欧斯波斯菊(Neos Kosmos),6.7,6.7,7.0
+更多美食,GB Corner - Hotel Grande Bretagne,GB Corner - Hotel Grande Bretagne,0,宪法广场周边(Syntagma Square),7.2,7.2,7.2
+更多美食,Kalypso,Kalypso,0,,7.1,7.5,7.1
+更多美食,Lefkas Taverna,Lefkas Taverna,0,其他,7.0,7.0,7.0
+更多美食,Kozi's,Kozi's,0,其他,7.2,7.2,7.2
+更多美食,Sushi Bar,Sushi Bar,0,帕格拉提(Pagkrati),6.9,6.9,6.9
+更多美食,Kandaylos,Kandaylos,0,其他,7.1,6.8,6.8
+更多美食,Pak Indian,Pak Indian,0,普西里(Psiri),7.1,7.0,7.0
+更多美食,K.Grill,K.Grill,0,,6.9,6.7,6.9
+更多美食,Kritikos,Kritikos,0,普西里(Psiri),7.1,6.8,6.8
+更多美食,Cash,Cash,0,,7.1,7.1,7.1
+更多美食,Agani,Agani,0,,7.1,7.1,7.1
+更多美食,Semiramis Restaurant,Semiramis Restaurant,0,宪法广场周边(Syntagma Square),7.1,7.1,7.1
+更多美食,Club Neon Restaurant,Club Neon Restaurant,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+更多美食,Gallery Cafe,Gallery Cafe,0,维多利亚(Victoria),7.0,7.1,7.0
+更多美食,42 Bar,42 Bar,0,宪法广场周边(Syntagma Square),7.3,7.1,7.1
+更多美食,Golden Dragon,Golden Dragon,0,卫城周边(Acropolis&Koukaki;),7.1,7.0,7.1
+更多美食,Acropolis,Acropolis,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.7
+更多美食,O Mpakalogatos,O Mpakalogatos,0,,7.0,7.0,7.0
+更多美食,Aleksandreia,Aleksandreia,0,奥莫尼亚(Omonia),7.5,7.5,7.1
+更多美食,Cosmos,Cosmos,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+更多美食,Aethrion Bar & Lounge,Aethrion Bar & Lounge,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+更多美食,Palmie Bistro,Palmie Bistro,0,奥莫尼亚(Omonia),6.8,7.1,6.8
+更多美食,Ambrosia,Ambrosia,0,卫城周边(Acropolis&Koukaki;),7.2,7.2,7.2
+更多美食,Black Duck,Black Duck,0,奥莫尼亚(Omonia),7.0,7.0,7.0
+更多美食,Paper Moon,Paper Moon,0,宪法广场周边(Syntagma Square),6.9,6.9,6.9
+更多美食,Ta Koutalakia,Ta Koutalakia,0,其他,7.3,7.3,7.1
+更多美食,The Butcher Shop,The Butcher Shop,0,其他,7.2,7.2,7.2
+更多美食,Dirty Ginger,Dirty Ginger,0,其他,7.2,7.2,7.2
+更多美食,Kanella,Kanella,0,其他,7.2,7.2,7.2
+更多美食,Antica Cafe,Antica Cafe,0,普西里(Psiri),7.2,7.2,7.2
+更多美食,KIKU Japanese Restaurant,KIKU Japanese Restaurant,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+更多美食,Trattoria Amici Miei,Trattoria Amici Miei,0,其他,6.9,6.9,6.9
+更多美食,Time Out,Time Out,0,其他,7.1,7.1,7.1
+更多美食,La Pasteria,La Pasteria,0,其他,7.1,7.1,7.1
+更多美食,Riva Cafe,Riva Cafe,0,其他,6.9,6.9,6.9
+更多美食,Oinapothiki,Oinapothiki,0,其他,7.0,7.0,7.0
+更多美食,Terra Petra,Terra Petra,0,其他,6.9,6.9,6.9
+更多美食,Cairo Coffee,Cairo Coffee,0,其他,6.9,6.9,6.9
+更多美食,Erythros Grill,Erythros Grill,0,其他,7.0,7.0,6.9
+更多美食,Dio Dekares I Oka,Dio Dekares I Oka,0,其他,6.9,6.9,6.9
+更多美食,Bacaro,Bacaro,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+更多美食,Big Apple,Big Apple,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+更多美食,Ideal,Ideal,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+更多美食,Mama's Grill,Mama's Grill,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+更多美食,To Fasoli,To Fasoli,0,奥莫尼亚(Omonia),7.1,7.1,7.1
+更多美食,O Andreas,O Andreas,0,奥莫尼亚(Omonia),7.0,7.0,7.0
+更多美食,Tsipourito,Tsipourito,0,其他,7.1,7.1,7.1
+更多美食,Lolita,Lolita,0,其他,6.9,6.9,6.9
+更多美食,En Athinais,En Athinais,0,其他,6.9,6.9,6.9
+更多美食,Secreto,Secreto,0,其他,6.9,6.9,6.9
+更多美食,Gazarte,Gazarte,0,其他,7.1,7.1,7.1
+更多美食,San Francisco Sandwich Shop,San Francisco Sandwich Shop,0,其他,7.1,7.0,7.0
+更多美食,Boutique Kalamaki,Boutique Kalamaki,0,其他,7.0,7.0,7.0
+更多美食,Cibus,Cibus,0,其他,7.1,7.0,7.1
+更多美食,Pandeli,Pandeli,0,,6.9,6.9,6.9
+更多美食,Estia,Estia,0,布拉卡区(Plaka),7.1,7.1,7.1
+更多美食,Twin Peaks- All Day Bar,Twin Peaks- All Day Bar,0,布拉卡区(Plaka),6.9,6.9,6.9
+更多美食,Garden of Eden,Garden of Eden,0,,6.9,6.9,6.9
+更多美食,Carte Postale Cafe Restaurant,Carte Postale Cafe Restaurant,0,普西里(Psiri),7.1,7.1,7.1
+更多美食,Avissynia Cafe,Avissynia Cafe,0,普西里(Psiri),7.1,7.1,7.1
+更多美食,Vintage Shopping Bar,Vintage Shopping Bar,0,普西里(Psiri),6.9,6.9,6.9
+更多美食,To Serbetospito Tis Nansy,To Serbetospito Tis Nansy,0,普西里(Psiri),7.1,7.1,7.0
+更多美食,To restaurant bar,To restaurant bar,0,普西里(Psiri),6.9,6.9,6.9
+更多美食,Cafezoe,Cafezoe,0,卫城周边(Acropolis&Koukaki;),7.1,7.0,7.1
+更多美食,Kykladikis Technis,Kykladikis Technis,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+更多美食,Kitrinos Skiouros,Kitrinos Skiouros,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+更多美食,Showroom,Showroom,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+更多美食,Nterlicatessen,Nterlicatessen,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+更多美食,Brasserie Valaoritou,Brasserie Valaoritou,0,柯洛纳基(Kolonaki),7.1,7.0,7.0
+更多美食,Capanna,Capanna,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+更多美食,Attikoi,Attikoi,0,柯洛纳基(Kolonaki),7.1,7.0,6.9
+更多美食,Captain's House Restaurant,Captain's House Restaurant,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+更多美食,FREUD ORIENTAL,FREUD ORIENTAL,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+更多美食,Dante,Dante,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+更多美食,Sale e Pepe,Sale e Pepe,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+更多美食,Mommy,Mommy,0,伊哈瑞亚(Exarhia),7.1,7.1,7.1
+更多美食,Cookabarra,Cookabarra,0,伊哈瑞亚(Exarhia),6.9,6.9,6.9
+更多美食,Kaldera,Kaldera,0,,6.9,6.9,6.9
+更多美食,Sette,Sette,0,,7.1,7.1,7.1
+更多美食,Godzilla,Godzilla,0,其他,7.0,7.0,7.0
+更多美食,Kastelorizo,Kastelorizo,0,其他,6.9,6.9,6.9
+更多美食,Zinc,Zinc,0,其他,7.0,7.0,7.0
+更多美食,Pic Nic Bar,Pic Nic Bar,0,其他,6.9,6.9,6.9
+更多美食,City Bistro,City Bistro,0,其他,7.0,7.0,7.0
+更多美食,Ioakh Barbeque Cafe,Ioakh Barbeque Cafe,0,其他,6.9,6.9,6.9
+更多美食,Theory Bar&More,Theory Bar&More,0,其他,6.9,7.0,7.1
+更多美食,Istioploikos,Istioploikos,0,其他,6.9,7.0,7.0
+更多美食,Brasserie Vintage,Brasserie Vintage,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+更多美食,Mikres Kyklades,Mikres Kyklades,0,其他,6.9,6.9,6.9
+更多美食,COSCA,COSCA,0,其他,7.0,7.1,7.0
+更多美食,Mini Size,Mini Size,0,,7.1,7.0,7.0
+更多美食,Bampis,Bampis,0,其他,7.0,7.0,6.9
+更多美食,The House of Mr Pil-Poul,The House of Mr Pil-Poul,0,其他,7.0,6.9,7.1
+更多美食,THISIO VIEW,THISIO VIEW,0,其他,7.0,7.0,7.1
+更多美食,To Steki Tou Ilia,To Steki Tou Ilia,0,其他,6.9,6.9,6.9
+更多美食,Shamone,Shamone,0,其他,7.0,7.1,7.0
+更多美食,Chryssa,Chryssa,0,其他,7.0,7.0,7.0
+更多美食,Mparmpa Aleksis,Mparmpa Aleksis,0,其他,7.0,7.0,6.9
+更多美食,santa botella,santa botella,0,其他,7.1,7.1,7.1
+更多美食,Tilemahos Barbeque Club,Tilemahos Barbeque Club,0,北雅典,7.0,7.0,7.0
+更多美食,Pecora Nera,Pecora Nera,0,北雅典,7.0,7.1,7.0
+更多美食,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+更多美食,Mazomos,Mazomos,0,,7.0,7.0,7.0
+更多美食,Dada's,Dada's,0,,7.0,7.0,7.0
+更多美食,Amalthea,Amalthea,0,布拉卡区(Plaka),7.0,7.0,7.0
+更多美食,Kapnikarea,Kapnikarea,0,布拉卡区(Plaka),6.9,6.9,6.9
+更多美食,KLIMATARIA,KLIMATARIA,0,布拉卡区(Plaka),7.0,7.0,7.0
+更多美食,Burgering House,Burgering House,0,,7.0,7.0,6.9
+更多美食,Zeytoon,Zeytoon,0,,6.9,6.9,6.9
+更多美食,Rakes +,Rakes +,0,,7.0,7.0,7.0
+更多美食,Ntomates,Ntomates,0,,7.0,7.0,7.0
+更多美食,Ouzou Melathron,Ouzou Melathron,0,普西里(Psiri),6.9,6.9,6.9
+更多美食,Cafe Aiolis,Cafe Aiolis,0,普西里(Psiri),7.1,7.1,7.1
+更多美食,Avalon,Avalon,0,普西里(Psiri),6.9,6.9,6.9
+更多美食,Red Indian,Red Indian,0,普西里(Psiri),7.0,7.0,7.0
+更多美食,Bynh,Bynh,0,卫城周边(Acropolis&Koukaki;),7.0,7.0,7.0
+更多美食,Vivliothiki,Vivliothiki,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+更多美食,Mai Tai,Mai Tai,0,柯洛纳基(Kolonaki),7.0,7.0,6.9
+更多美食,Lalu,Lalu,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+更多美食,Veranda,Veranda,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+更多美食,Café Merlin,Café Merlin,0,宪法广场周边(Syntagma Square),6.9,6.9,6.9
+更多美食,Beer Acadamy,Beer Acadamy,0,,6.9,6.9,6.9
+更多美食,Bierkeller,Bierkeller,0,,6.7,6.7,6.7
+更多美食,Svejk,Svejk,0,里欧斯波斯菊(Neos Kosmos),7.0,7.1,7.1
+更多美食,Psipsina,Psipsina,0,,7.0,7.0,7.0
+更多美食,Platia Psaraki,Platia Psaraki,0,,6.9,6.9,6.9
+更多美食,Circus,Circus,0,伊哈瑞亚(Exarhia),7.0,7.0,7.0
+更多美食,Vyzantino stou Strefi,Vyzantino stou Strefi,0,伊哈瑞亚(Exarhia),6.9,6.9,6.9
+更多美食,Brown's - Divani Caravel,Brown's - Divani Caravel,0,帕格拉提(Pagkrati),7.1,7.1,7.1
+更多美食,Garidomania,Garidomania,0,北雅典,6.9,6.9,6.9
+更多美食,Rena Tis Ftelias,Rena Tis Ftelias,0,其他,7.0,7.0,7.0
+更多美食,Papaioannou @ Akanthus,Papaioannou @ Akanthus,0,南雅典,6.9,6.9,6.9
+更多美食,Razgouliay,Razgouliay,0,其他,7.1,7.1,7.1
+更多美食,Yades,Yades,0,其他,7.0,7.1,7.0
+更多美食,Cafe Peros or Peros Cafe,Cafe Peros or Peros Cafe,0,其他,7.1,7.1,7.1
+更多美食,30 Something,30 Something,0,其他,7.0,7.0,7.0
+更多美食,Spezie,Spezie,0,其他,6.9,7.0,6.9
+更多美食,Mylolithos,Mylolithos,0,其他,7.0,7.0,7.0
+更多美食,Cafe Amoroso,Cafe Amoroso,0,其他,6.9,7.1,6.9
+更多美食,La pasteria,La pasteria,0,其他,7.1,6.8,6.8
+更多美食,Evergreen Casual Food Bar,Evergreen Casual Food Bar,0,奥莫尼亚(Omonia),7.0,6.9,6.9
+更多美食,Gaspar Food and Mood,Gaspar Food and Mood,0,奥莫尼亚(Omonia),7.2,7.2,7.2
+更多美食,Heterocliton Wine Bar,Heterocliton Wine Bar,0,其他,7.1,7.0,7.1
+更多美食,Parko,Parko,0,其他,7.0,7.0,7.0
+更多美食,Liasti tomata,Liasti tomata,0,其他,6.9,6.9,6.9
+更多美食,Aschimopapo,Aschimopapo,0,其他,7.0,7.0,7.0
+更多美食,To Tsipouradiko tou Apostoli,To Tsipouradiko tou Apostoli,0,其他,6.9,6.9,6.9
+更多美食,Pleiades,Pleiades,0,其他,7.1,7.1,7.1
+更多美食,Akanthus Winter,Akanthus Winter,0,其他,7.0,7.1,7.1
+更多美食,Malvazia,Malvazia,0,其他,7.0,7.1,7.0
+更多美食,Ampakas,Ampakas,0,其他,7.1,7.0,7.0
+更多美食,Jamon,Jamon,0,其他,6.7,6.7,6.7
+更多美食,Aeriofos,Aeriofos,0,其他,6.9,6.9,6.9
+更多美食,Spitakia,Spitakia,0,其他,6.9,6.9,7.0
+更多美食,Soul Kitchen,Soul Kitchen,0,其他,7.0,7.0,7.0
+更多美食,My Plate,My Plate,0,其他,7.1,7.1,7.1
+更多美食,Gazohori,Gazohori,0,其他,7.1,7.1,7.1
+更多美食,Gazi College,Gazi College,0,其他,7.2,7.2,7.2
+更多美食,Del Sol,Del Sol,0,其他,7.1,7.1,7.1
+更多美食,Soho,Soho,0,其他,7.0,7.0,6.9
+更多美食,Improv Cafe and Resto,Improv Cafe and Resto,0,其他,7.2,7.2,7.2
+更多美食,MoMix Molecular Mixology Bar,MoMix Molecular Mixology Bar,0,其他,7.1,7.1,7.1
+更多美食,CV,CV,0,其他,6.9,6.9,6.9
+更多美食,Taverna o Tasos,Taverna o Tasos,0,其他,7.1,7.0,7.0
+更多美食,Vinoterra Resto & Cava,Vinoterra Resto & Cava,0,其他,7.1,6.8,7.1
+更多美食,St'Astra,St'Astra,0,其他,7.1,7.1,7.1
+更多美食,Apsendi,Apsendi,0,北雅典,7.1,7.1,7.0
+更多美食,Rakaki,Rakaki,0,其他,7.0,7.0,6.9
+更多美食,Central,Central,0,其他,6.7,7.0,7.0
+更多美食,Nanninella,Nanninella,0,,7.3,7.1,7.1
+更多美食,Sokolata 56,Sokolata 56,0,西雅典,7.1,7.0,7.0
+更多美食,Taverna Papaioannou,Taverna Papaioannou,0,其他,7.1,7.0,7.0
+更多美食,1920,1920,0,其他,7.0,7.0,7.0
+更多美食,Koundouros Kritikes Magergies,Koundouros Kritikes Magergies,0,,7.1,7.1,7.1
+更多美食,Die 3 Konige,Die 3 Konige,0,,7.0,7.0,7.0
+更多美食,Zachari Ke Alati,Zachari Ke Alati,0,其他,7.0,7.1,7.1
+更多美食,Cafe Latifis,Cafe Latifis,0,布拉卡区(Plaka),7.1,7.1,7.1
+更多美食,Mono Restaurant,Mono Restaurant,0,布拉卡区(Plaka),7.2,7.2,7.2
+更多美食,Bottega Wine Bar,Bottega Wine Bar,0,布拉卡区(Plaka),6.9,7.0,7.0
+更多美食,Butcher's Grill,Butcher's Grill,0,,6.9,6.9,6.9
+更多美食,PARAMITHI,PARAMITHI,0,,7.1,7.0,7.1
+更多美食,Piatsa Tilichto,Piatsa Tilichto,0,,7.0,7.0,7.0
+更多美食,El Resto Bar,El Resto Bar,0,,7.0,7.0,7.1
+更多美食,Efxaris,Efxaris,0,普西里(Psiri),7.2,7.2,7.2
+更多美食,33 Adrianou,33 Adrianou,0,普西里(Psiri),6.7,7.0,7.0
+更多美食,Coffee Room,Coffee Room,0,普西里(Psiri),7.0,7.0,7.0
+更多美食,Topos Gefsis Kriti,Topos Gefsis Kriti,0,普西里(Psiri),6.9,6.9,6.9
+更多美食,Kalamaki Ermou Parrilla,Kalamaki Ermou Parrilla,0,普西里(Psiri),7.0,7.0,6.9
+更多美食,Coffee Island,Coffee Island,0,普西里(Psiri),7.1,7.1,7.1
+更多美食,Baba Au Rum,Baba Au Rum,0,普西里(Psiri),7.1,7.1,7.1
+更多美食,El Pecado,El Pecado,0,普西里(Psiri),6.9,6.7,6.9
+更多美食,Venti,Venti,0,普西里(Psiri),7.0,7.0,7.0
+更多美食,Beer Academy,Beer Academy,0,普西里(Psiri),7.0,7.1,7.1
+更多美食,NIXON,NIXON,0,普西里(Psiri),7.1,7.1,7.1
+更多美食,Premiere,Premiere,0,卫城周边(Acropolis&Koukaki;),7.0,7.0,7.0
+更多美食,Rincon Mexicano,Rincon Mexicano,0,卫城周边(Acropolis&Koukaki;),7.1,7.1,7.1
+更多美食,JK Restaurant,JK Restaurant,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+更多美食,Rock n Roll,Rock n Roll,0,柯洛纳基(Kolonaki),7.0,6.9,7.0
+更多美食,Rock and Roll,Rock and Roll,0,柯洛纳基(Kolonaki),7.1,7.1,6.8
+更多美食,Kafeneio,Kafeneio,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+更多美食,P. Box Hotel Periscope,P. Box Hotel Periscope,0,柯洛纳基(Kolonaki),7.1,7.1,7.0
+更多美食,La Pasteria,La Pasteria,0,柯洛纳基(Kolonaki),7.2,7.2,7.2
+更多美食,Inbi,Inbi,0,柯洛纳基(Kolonaki),7.3,7.3,7.1
+更多美食,Frame,Frame,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+更多美食,2 (Duo),2 (Duo),0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+更多美食,Madeya Food and Coffee Concept,Madeya Food and Coffee Concept,0,柯洛纳基(Kolonaki),7.0,7.0,7.0
+更多美食,Rosebud,Rosebud,0,柯洛纳基(Kolonaki),7.7,7.7,7.2
+更多美食,Zio Peppe,Zio Peppe,0,柯洛纳基(Kolonaki),7.0,7.0,6.9
+更多美食,Mparmpagiannis,Mparmpagiannis,0,柯洛纳基(Kolonaki),7.1,7.1,7.1
+更多美食,Tivoli,Tivoli,0,柯洛纳基(Kolonaki),6.9,7.0,7.0
+更多美食,Metaksourgeio,Metaksourgeio,0,梅塔速尔基奥(Metaxourgeio),6.9,6.9,6.9
+更多美食,Bohemia,Bohemia,0,柯洛纳基(Kolonaki),7.1,7.0,7.0
+更多美食,Myrovolos,Myrovolos,0,梅塔速尔基奥(Metaxourgeio),6.9,6.9,7.0
+更多美食,Chau's,Chau's,0,梅塔速尔基奥(Metaxourgeio),7.0,7.0,7.0
+更多美食,El Bandoneon,El Bandoneon,0,梅塔速尔基奥(Metaxourgeio),6.9,7.0,7.0
+更多美食,Archeon Gefsis,Archeon Gefsis,0,梅塔速尔基奥(Metaxourgeio),7.1,7.1,7.1
+更多美食,GB Corner,GB Corner,0,宪法广场周边(Syntagma Square),6.7,6.9,6.9
+更多美食,The Place,The Place,0,宪法广场周边(Syntagma Square),6.9,6.7,6.7
+更多美食,1055,1055,0,宪法广场周边(Syntagma Square),6.7,6.9,6.7
+更多美食,En Kassaveti Peridromos,En Kassaveti Peridromos,0,,7.1,7.0,6.9
+更多美食,Golden Phoenix,Golden Phoenix,0,,7.0,7.0,7.0
+更多美食,Il Salumaio di Montenapoleone,Il Salumaio di Montenapoleone,0,,7.1,7.1,7.1
+更多美食,Prytanion,Prytanion,0,,7.0,6.7,7.0
+更多美食,Cookart,Cookart,0,,7.0,7.1,7.0
+更多美食,Ouzeri tou Laki,Ouzeri tou Laki,0,维多利亚(Victoria),7.1,7.0,7.0
+更多美食,Cookou Food,Cookou Food,0,伊哈瑞亚(Exarhia),6.9,6.9,6.9
+更多美食,Jackson Hall,Jackson Hall,0,伊哈瑞亚(Exarhia),7.1,7.1,7.1
+更多美食,Wasabi,Wasabi,0,,6.9,6.9,6.9
+更多美食,Almyra,Almyra,0,,7.0,7.0,7.1
+更多美食,The Italian Place,The Italian Place,0,,7.0,7.1,6.9
+更多美食,Street 310,Street 310,0,,6.9,6.9,6.9
+更多美食,Ep avli,Ep avli,0,帕格拉提(Pagkrati),7.1,7.1,7.1
+更多美食,Meat Me,Meat Me,0,奥莫尼亚(Omonia),6.5,6.5,6.8
+更多美食,Prytaneion Kifissia,Prytaneion Kifissia,0,普西里(Psiri),7.1,7.1,7.1
+更多美食,Zebereki,Zebereki,0,奥莫尼亚(Omonia),6.9,6.9,6.9
+更多美食,Le Grand Balcon,Le Grand Balcon,0,,6.7,6.7,6.7
+更多美食,Motivo Restaurant,Motivo Restaurant,0,其他,6.9,6.9,6.9
+更多美食,Asteroskopeio,Asteroskopeio,0,其他,6.9,6.9,6.9
+更多美食,My Sushi,My Sushi,0,柯洛纳基(Kolonaki),6.9,6.9,6.9
+更多美食,Gaipur Palace,Gaipur Palace,0,其他,6.9,6.9,6.9
+更多美食,PASTA LA VISTA,PASTA LA VISTA,0,其他,6.9,6.9,6.9
+更多美食,El Churrasco,El Churrasco,0,帕格拉提(Pagkrati),6.7,6.7,6.7
+更多美食,Byzantine,Byzantine,0,,0.0,0.0,0.0
+更多美食,Karavi,Karavi,0,,0.0,0.0,0.0
+更多美食,Lordos,Lordos,0,其他,0.0,0.0,0.0
+更多美食,ResTaurAnt Plaka,ResTaurAnt Plaka,0,奥莫尼亚(Omonia),0.0,0.0,0.0
+更多美食,Mesoghaia,Mesoghaia,0,,0.0,0.0,0.0

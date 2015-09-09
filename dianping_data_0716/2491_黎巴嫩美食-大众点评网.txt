@@ -1,0 +1,34 @@
+法国菜,L'Atelier
+其他西餐,Al Jazira
+快餐简餐,Chili's
+快餐简餐,Summer Place
+快餐简餐,McDonald's
+海鲜,Trattoria Toscana
+比萨,Una Pizza
+比萨,Tomatomatic Pizza
+比萨,Nonna Pizza
+比萨,La Pizzeria
+咖啡厅,Bay Rock Cafe
+咖啡厅,Cafe Blanc
+咖啡厅,Momo at the Souks
+咖啡厅,Cafe de Prague
+咖啡厅,Bali
+咖啡厅,Brisk Cafe
+咖啡厅,Ka3kaya Cafe
+咖啡厅,Tonic Cafe Bar
+咖啡厅,Petite Cafe
+面包甜点,Ichkhanian Bakery
+面包甜点,Bread Republic
+面包甜点,Fauchon
+面包甜点,Flor Gelato Italiano
+面包甜点,Dunkin Donut
+面包甜点,Lina's
+酒吧,Le Sushi Bar
+酒吧,Neighbors Pub
+酒吧,Calibri Pub
+酒吧,bar a vin
+酒吧,Pinocchio
+酒吧,Le Bar a Thym
+酒吧,Bar Tartine
+酒吧,Merlot Wine and Spirits Bar
+酒吧,Tapas Bar

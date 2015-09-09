@@ -1,0 +1,148 @@
+意大利菜,Caffe Torino
+意大利菜,Bella Italia
+意大利菜,Sale e Pepe
+意大利菜,Pane e Vino
+意大利菜,Bella Vita
+意大利菜,Sole Mio
+意大利菜,Pane e Vino
+意大利菜,Spazio
+意大利菜,La Dolce Vita
+法国菜,La Marmite
+法国菜,Spoon
+法国菜,Spoon
+其他西餐,Mi Tierra
+其他西餐,Trattoria Bologna
+其他西餐,Delicatessen
+其他西餐,Tony Roma's
+其他西餐,Hooters
+日韩料理,Fuji
+快餐简餐,Subway
+快餐简餐,Papa John's
+快餐简餐,McDonald's
+海鲜,Restaurant Casa Jose
+海鲜,Restaurant Casa Del Parque
+烧烤,LongBoards BBQ
+比萨,Pizza Pata
+比萨,pizza Don Carlo
+比萨,PIZZA CHAPU`S
+比萨,Mundo Pizza
+比萨,Pizza Pronto
+比萨,The Pizza Shop
+比萨,Nari Pizza and Pasta Cafeteria
+比萨,Pizza Bocha
+比萨,Pizza Pata
+比萨,Pizza de Marco
+比萨,Fratelli's Pizza
+比萨,Pizza Rica
+比萨,La Casita Pizza
+比萨,Lolo's Pizza and Vinery
+比萨,Pizza Ciao
+咖啡厅,Cafe Tierra Madre
+咖啡厅,Cafe Mediterraneo Restaurante y Pizzeria
+咖啡厅,Cafe Rico
+咖啡厅,The Common Cup Community Coffee House and Roastery
+咖啡厅,Java 654 Coffee Shop
+咖啡厅,Cafe El Manglar
+咖啡厅,Cafe Kracovia
+咖啡厅,Chiquita Cafe
+咖啡厅,Donde Pipe Restaurante y Cafe
+咖啡厅,Cafeteria Giaccomin
+咖啡厅,Cafe de Paris
+咖啡厅,Cafe de los Deseos
+咖啡厅,Cafe Mundo
+咖啡厅,The Jazz Cafe
+咖啡厅,Fresh Foods
+咖啡厅,Oasis Coffee Shop
+咖啡厅,Cafe de Artistas
+咖啡厅,Cafe Moro Restaurante
+咖啡厅,Bikers Cafe
+咖啡厅,Cafe Organico
+咖啡厅,Carolinas Restaurante y Cafe
+咖啡厅,Cafe Sophia
+咖啡厅,Cafe Bodhi
+咖啡厅,Cafeteria Monka
+咖啡厅,Cafe Daniela
+咖啡厅,Ocean Cafe and Dinner
+咖啡厅,Cafe El Sueno
+咖啡厅,Cafe Buena Tierra
+咖啡厅,Cafe Amanda
+咖啡厅,Cafe Picasso
+咖啡厅,Aqus Cafe
+咖啡厅,Truchas Selva Madre Costa Rica
+咖啡厅,Aki Cafe
+咖啡厅,Espressivo Pan Chocolate Cafe
+咖啡厅,Cafe Colibri
+咖啡厅,Cafe Itabo
+咖啡厅,Aromas Cafe
+咖啡厅,cafe rain forest
+咖啡厅,Club cafe
+咖啡厅,Bri Art Cafe
+咖啡厅,Cafeteria LaLa
+咖啡厅,Cafe del Mar
+咖啡厅,Budda Cafe
+咖啡厅,Cafe Puntalitos de Manuela
+咖啡厅,Mambo
+咖啡厅,Graffiti Restro Cafe and Wine Bar
+咖啡厅,Cafe del Parquecito
+咖啡厅,El Patio de Cafe Milagro - Manuel Antonio
+咖啡厅,Emilio's Cafe
+咖啡厅,Moca Cafe
+咖啡厅,Cafe de Playa
+咖啡厅,Sushi Home
+咖啡厅,Biker's Cafe
+咖啡厅,Cafe Liberia
+咖啡厅,Cabuya Bakery and Cafe
+咖啡厅,Green Room
+咖啡厅,Pure Vibes Cafe
+咖啡厅,Falls Garden Cafe
+咖啡厅,Cafe Sonrisa Bella
+咖啡厅,Cafe Mediterraneo
+咖啡厅,Balcon de Cafe
+面包甜点,Guy's French Bakery
+面包甜点,Chez Christophe French Bakery and Bistro
+面包甜点,The Waffle Place
+面包甜点,The Bakery
+酒吧,Hoxton Pub
+酒吧,Tiki Hut Bar and Restaurant
+酒吧,The Park
+酒吧,Zi Lounge Restaurant/Bar
+酒吧,Chao's Paradise
+酒吧,Jaco Blu Beach Club
+酒吧,Central Pub
+酒吧,Restaurante Bar Boca Chica
+酒吧,Bar y Restaurante el Caima
+酒吧,Sloppy Pelican Bar
+酒吧,Club Banana
+酒吧,Mojitos Dance Club
+酒吧,Filippo Wood Oven and Pizza Bar
+酒吧,Pollos Bar
+酒吧,Rick's Sports Bar and Grill
+酒吧,Langosta Beach Club
+酒吧,Upper Deck Sports Bar and Restaurant
+酒吧,Isaga Bar and Restaurante
+酒吧,Osa Palmas Bar and Restaurante
+酒吧,Pub Rock
+酒吧,Mandarina Tropical Juice Bar
+酒吧,Mirador Bar y Restaurante El Faro
+酒吧,Gastro Bar en la 38
+酒吧,La Oveja Negra Bar y Boqueria
+酒吧,Green Papaya Taco Bar
+酒吧,falafel bar
+酒吧,Bar La Perla
+酒吧,The Shack Restaurant and Bar
+酒吧,The Beach House Restaurant and Bar
+酒吧,El Quijote bar and restaurant
+酒吧,Alice Ice Cream Bar
+酒吧,Falafel Bar
+酒吧,Mandarina Tropical Juice Bar
+酒吧,Picante Restaurant and Bar
+酒吧,Pangas Beach Club
+酒吧,Dragonfly Thai Restaurant and Bar
+酒吧,Don Tadeo Sports Bar
+酒吧,Caccio's Bar
+酒吧,Bamboo Sushi Club
+酒吧,Poas Bar and restaurant
+酒吧,Bar Morazon
+酒吧,El Bar del Patio
+更多美食,Loving Hut
+更多美食,La Caveja

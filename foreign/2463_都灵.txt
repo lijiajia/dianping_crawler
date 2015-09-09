@@ -1,0 +1,2779 @@
+意大利菜,Pizzeria Regina 2000,Pizzeria Regina 2000,0,图林,0.0,0.0,0.0
+意大利菜,Eataly Torino,Eataly Torino,0,图林,0.0,0.0,0.0
+意大利菜,Bengasi restaurant - hotel,Bengasi restaurant - hotel,0,图林,7.3,7.3,7.3
+意大利菜,Rosso Sapore,Rosso Sapore,0,图林,7.1,7.0,6.9
+意大利菜,Bar Zambon di Dreamakers,Bar Zambon di Dreamakers,0,图林,0.0,0.0,0.0
+意大利菜,Bar Pasticceria Fratelli Corso,Bar Pasticceria Fratelli Corso,0,其他,0.0,0.0,0.0
+意大利菜,Alto Gradimento,Alto Gradimento,0,图林,0.0,0.0,0.0
+意大利菜,Gastronomia Dell'Agnese,Gastronomia Dell'Agnese,0,图林,0.0,0.0,0.0
+意大利菜,Armonia Caffe,Armonia Caffe,0,图林,0.0,0.0,0.0
+意大利菜,Paleocapa Caffe,Paleocapa Caffe,0,图林,0.0,0.0,0.0
+意大利菜,AV Area Vip Restaurant,AV Area Vip Restaurant,0,图林,0.0,0.0,0.0
+意大利菜,Passione pizza,Passione pizza,0,图林,0.0,0.0,0.0
+意大利菜,BAR DOLCERIA FARFUI,BAR DOLCERIA FARFUI,0,图林,0.0,0.0,0.0
+意大利菜,"Via Lagrange, Torino","Via Lagrange, Torino",0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Piccolo Lord,Ristorante Piccolo Lord,0,图林,0.0,0.0,0.0
+意大利菜,al PASSATORE (piadineria),al PASSATORE (piadineria),0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Vecchio Forno Garibaldi,Pizzeria Vecchio Forno Garibaldi,0,图林,0.0,0.0,0.0
+意大利菜,Gofreria Piemonteisa,Gofreria Piemonteisa,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Marco Polo,Ristorante Marco Polo,0,图林,0.0,0.0,0.0
+意大利菜,Altamarea,Altamarea,0,图林,0.0,0.0,0.0
+意大利菜,IL Ristorantino - asd Fortino Bocciodromo,IL Ristorantino - asd Fortino Bocciodromo,0,图林,0.0,0.0,0.0
+意大利菜,Gastronomia Girarrosto,Gastronomia Girarrosto,0,图林,0.0,0.0,0.0
+意大利菜,La Barrique,La Barrique,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Dell'Universita',Pizzeria Dell'Universita',0,图林,0.0,0.0,0.0
+意大利菜,M2P Pasta&Pizza,M2P Pasta&Pizza,0,图林,0.0,0.0,0.0
+意大利菜,La Fucina Caffe,La Fucina Caffe,0,图林,0.0,0.0,0.0
+意大利菜,Gradisca (piadineria),Gradisca (piadineria),0,图林,0.0,0.0,0.0
+意大利菜,Tigelleria Artigianale,Tigelleria Artigianale,0,图林,0.0,0.0,0.0
+意大利菜,Funky Pizza Torino,Funky Pizza Torino,0,图林,0.0,0.0,0.0
+意大利菜,EATALY - Lingotto - LA PIZZA E LA FOCACCIA,EATALY - Lingotto - LA PIZZA E LA FOCACCIA,0,图林,0.0,0.0,0.0
+意大利菜,Locanda Da Betty,Locanda Da Betty,0,图林,0.0,0.0,0.0
+意大利菜,Taverna delle Rose,Taverna delle Rose,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria,Trattoria,0,图林,0.0,0.0,0.0
+意大利菜,Norma Polpetteria Artigiana,Norma Polpetteria Artigiana,0,图林,0.0,0.0,0.0
+意大利菜,REDOMANTE PAPPI,REDOMANTE PAPPI,0,其他,0.0,0.0,0.0
+意大利菜,Pane & Caffè,Pane & Caffè,0,图林,0.0,0.0,0.0
+意大利菜,Tecnicamente Libri Caffe' & More,Tecnicamente Libri Caffe' & More,0,图林,0.0,0.0,0.0
+意大利菜,Baretto torino,Baretto torino,0,图林,0.0,0.0,0.0
+意大利菜,Boccadillo Piadineria,Boccadillo Piadineria,0,图林,0.0,0.0,0.0
+意大利菜,Vino N.6,Vino N.6,0,图林,0.0,0.0,0.0
+意大利菜,Caffe Biscuit,Caffe Biscuit,0,图林,0.0,0.0,0.0
+意大利菜,Barz8,Barz8,0,图林,0.0,0.0,0.0
+意大利菜,Torino Antico Caffe,Torino Antico Caffe,0,图林,0.0,0.0,0.0
+意大利菜,Cafe Ventuno,Cafe Ventuno,0,图林,0.0,0.0,0.0
+意大利菜,Caffetteria Cairoli,Caffetteria Cairoli,0,图林,0.0,0.0,0.0
+意大利菜,Caffe Mancini,Caffe Mancini,0,图林,0.0,0.0,0.0
+意大利菜,AL NATURALE cucina e forno,AL NATURALE cucina e forno,0,图林,0.0,0.0,0.0
+意大利菜,LeScodelle . cucina e vini,LeScodelle . cucina e vini,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante La Cabassa Di Tranchina Girolamo,Ristorante La Cabassa Di Tranchina Girolamo,0,图林,0.0,0.0,0.0
+意大利菜,La Locanda Di Su,La Locanda Di Su,0,图林,0.0,0.0,0.0
+意大利菜,Lo Sfizietto Corso Belgio,Lo Sfizietto Corso Belgio,0,图林,0.0,0.0,0.0
+意大利菜,Tre galline,Tre galline,0,图林,0.0,0.0,0.0
+意大利菜,Ai Doi Scalin,Ai Doi Scalin,0,图林,0.0,0.0,0.0
+意大利菜,Pastificio Profeta,Pastificio Profeta,0,图林,0.0,0.0,0.0
+意大利菜,Gelato Piu,Gelato Piu,0,图林,0.0,0.0,0.0
+意大利菜,Long Ristorante Montebruno Ada,Long Ristorante Montebruno Ada,0,其他,0.0,0.0,0.0
+意大利菜,L'immagine,L'immagine,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria L'aquila,Pizzeria L'aquila,0,其他,0.0,0.0,0.0
+意大利菜,Torino,Torino,0,其他,0.0,0.0,0.0
+意大利菜,Piola del Villaretto,Piola del Villaretto,0,其他,0.0,0.0,0.0
+意大利菜,La caffetteria,La caffetteria,0,图林,0.0,0.0,0.0
+意大利菜,Bombo Piada,Bombo Piada,0,图林,0.0,0.0,0.0
+意大利菜,Billy Bar,Billy Bar,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante cucina mia,Ristorante cucina mia,0,图林,0.0,0.0,0.0
+意大利菜,La Locanda del Gusto,La Locanda del Gusto,0,图林,0.0,0.0,0.0
+意大利菜,Beautiful,Beautiful,0,图林,0.0,0.0,0.0
+意大利菜,Villa Somis,Villa Somis,0,图林,0.0,0.0,0.0
+意大利菜,Osteria La Cena Coi Fiocchi - Cucina Viva,Osteria La Cena Coi Fiocchi - Cucina Viva,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante La Petite,Pizzeria Ristorante La Petite,0,图林,0.0,0.0,0.0
+意大利菜,GV Pane & Caffe,GV Pane & Caffe,0,图林,0.0,0.0,0.0
+意大利菜,La Piadina Romagnola,La Piadina Romagnola,0,图林,0.0,0.0,0.0
+意大利菜,Bistrot Papillon,Bistrot Papillon,0,图林,0.0,0.0,0.0
+意大利菜,Da Bacco,Da Bacco,0,图林,0.0,0.0,0.0
+意大利菜,sú barrixeddu,sú barrixeddu,0,图林,0.0,0.0,0.0
+意大利菜,I Dolci Magazzini di Man,I Dolci Magazzini di Man,0,图林,0.0,0.0,0.0
+意大利菜,Thovez 60,Thovez 60,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Massena,Ristorante Massena,0,图林,0.0,0.0,0.0
+意大利菜,O'rafferty's,O'rafferty's,0,图林,0.0,0.0,0.0
+意大利菜,L'osterante,L'osterante,0,图林,0.0,0.0,0.0
+意大利菜,Locanda Leggera,Locanda Leggera,0,图林,0.0,0.0,0.0
+意大利菜,La Petite Maison des Crepes,La Petite Maison des Crepes,0,图林,0.0,0.0,0.0
+意大利菜,La graziosa,La graziosa,0,图林,0.0,0.0,0.0
+意大利菜,Caffe' D'Acaja Snc Di Luciano E Portolecchia,Caffe' D'Acaja Snc Di Luciano E Portolecchia,0,图林,0.0,0.0,0.0
+意大利菜,Pummaro'.it,Pummaro'.it,0,图林,0.0,0.0,0.0
+意大利菜,Monegato,Monegato,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria La Taverna,Trattoria La Taverna,0,图林,0.0,0.0,0.0
+意大利菜,Bar Torrefazione da Angela,Bar Torrefazione da Angela,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria la Guarnizione,Trattoria la Guarnizione,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Alpina,Trattoria Alpina,0,图林,0.0,0.0,0.0
+意大利菜,Peacock's Cafe,Peacock's Cafe,0,图林,0.0,0.0,0.0
+意大利菜,L'Antico Borgo,L'Antico Borgo,0,图林,0.0,0.0,0.0
+意大利菜,ROBY & ROBY,ROBY & ROBY,0,图林,0.0,0.0,0.0
+意大利菜,Bar Le Bistrot,Bar Le Bistrot,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Il Doc,Ristorante Il Doc,0,图林,0.0,0.0,0.0
+意大利菜,Gastronomia Baudracco,Gastronomia Baudracco,0,图林,0.0,0.0,0.0
+意大利菜,Tavola di Babele,Tavola di Babele,0,图林,0.0,0.0,0.0
+意大利菜,Caffe Bodoni,Caffe Bodoni,0,图林,0.0,0.0,0.0
+意大利菜,Brek Point,Brek Point,0,图林,0.0,0.0,0.0
+意大利菜,Mare Nostrum,Mare Nostrum,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Da Candido,Pizzeria Da Candido,0,图林,0.0,0.0,0.0
+意大利菜,Piadineria Romagnola La Famazza,Piadineria Romagnola La Famazza,0,图林,0.0,0.0,0.0
+意大利菜,Il Moschino Caffe',Il Moschino Caffe',0,图林,0.0,0.0,0.0
+意大利菜,Osteria Novecento,Osteria Novecento,0,图林,0.0,0.0,0.0
+意大利菜,Bicchierdivino Tavern - lunch only,Bicchierdivino Tavern - lunch only,0,图林,0.0,0.0,0.0
+意大利菜,Meeat Lounge Restaurant,Meeat Lounge Restaurant,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante I Cavalieri,Ristorante I Cavalieri,0,图林,0.0,0.0,0.0
+意大利菜,Glam Ristorante,Glam Ristorante,0,图林,0.0,0.0,0.0
+意大利菜,Taverna di Biagio,Taverna di Biagio,0,图林,0.0,0.0,0.0
+意大利菜,Nesis Ristopub,Nesis Ristopub,0,图林,0.0,0.0,0.0
+意大利菜,La Capannina,La Capannina,0,图林,0.0,0.0,0.0
+意大利菜,Pausaapranzo,Pausaapranzo,0,图林,0.0,0.0,0.0
+意大利菜,Gallery Ristorante Wine Bar Enoteca,Gallery Ristorante Wine Bar Enoteca,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante La Smarrita,Ristorante La Smarrita,0,图林,0.0,0.0,0.0
+意大利菜,Bistrot matteotti,Bistrot matteotti,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Solferino,Ristorante Solferino,0,图林,0.0,0.0,0.0
+意大利菜,Bar Lavazza,Bar Lavazza,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante da Elena,Ristorante da Elena,0,图林,0.0,0.0,0.0
+意大利菜,Dal Norcino,Dal Norcino,0,图林,0.0,0.0,0.0
+意大利菜,Piu' di un Gelato,Piu' di un Gelato,0,图林,0.0,0.0,0.0
+意大利菜,Tefy,Tefy,0,图林,0.0,0.0,0.0
+意大利菜,Taverna I Miserabili,Taverna I Miserabili,0,图林,0.0,0.0,0.0
+意大利菜,La Birba,La Birba,0,图林,0.0,0.0,0.0
+意大利菜,Osteria del Frate,Osteria del Frate,0,图林,0.0,0.0,0.0
+意大利菜,otto porte,otto porte,0,图林,0.0,0.0,0.0
+意大利菜,Machere,Machere,0,图林,0.0,0.0,0.0
+意大利菜,Caffe-Vini Emilio Ranzini,Caffe-Vini Emilio Ranzini,0,图林,0.0,0.0,0.0
+意大利菜,Plin & Tajarin,Plin & Tajarin,0,图林,0.0,0.0,0.0
+意大利菜,Focacceria sant'Agostino,Focacceria sant'Agostino,0,图林,0.0,0.0,0.0
+意大利菜,Focacceria Tipica Ligure,Focacceria Tipica Ligure,0,图林,0.0,0.0,0.0
+意大利菜,Oro Birra,Oro Birra,0,图林,0.0,0.0,0.0
+意大利菜,Piadineria Artigianale Emiliana,Piadineria Artigianale Emiliana,0,图林,0.0,0.0,0.0
+意大利菜,Il Gelato di Bruno,Il Gelato di Bruno,0,图林,0.0,0.0,0.0
+意大利菜,Caffe Basaglia,Caffe Basaglia,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Da LUCIO,Pizzeria Ristorante Da LUCIO,0,图林,0.0,0.0,0.0
+意大利菜,Rhum-More,Rhum-More,0,图林,0.0,0.0,0.0
+意大利菜,Take a Wine,Take a Wine,0,图林,0.0,0.0,0.0
+意大利菜,Chezà,Chezà,0,图林,0.0,0.0,0.0
+意大利菜,La Locanda del Bollito,La Locanda del Bollito,0,图林,0.0,0.0,0.0
+意大利菜,La Familiare Nuova Bocciofila,La Familiare Nuova Bocciofila,0,图林,0.0,0.0,0.0
+意大利菜,Bar Trattoria Da Dino,Bar Trattoria Da Dino,0,图林,0.0,0.0,0.0
+意大利菜,Che Bolle in Pentola,Che Bolle in Pentola,0,图林,0.0,0.0,0.0
+意大利菜,Osteria Les Racines,Osteria Les Racines,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante al Campidoglio,Ristorante al Campidoglio,0,图林,0.0,0.0,0.0
+意大利菜,Dock's Pizzeria Restaurant Cafe',Dock's Pizzeria Restaurant Cafe',0,图林,0.0,0.0,0.0
+意大利菜,Cenacolo ,Cenacolo ,0,图林,0.0,0.0,0.0
+意大利菜,Panificio Voglia Di Pane,Panificio Voglia Di Pane,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Rotonda Dei Facchinetti 2,Pizzeria Rotonda Dei Facchinetti 2,0,图林,0.0,0.0,0.0
+意大利菜,'l Ciau Turin,'l Ciau Turin,0,图林,0.0,0.0,0.0
+意大利菜,Vinosteria Celestino,Vinosteria Celestino,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Pratico,Pizzeria Pratico,0,图林,0.0,0.0,0.0
+意大利菜,Pizza Gio',Pizza Gio',0,图林,0.0,0.0,0.0
+意大利菜,Piadineria Romagnola,Piadineria Romagnola,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Andrea's Ristorante,Pizzeria Andrea's Ristorante,0,其他,0.0,0.0,0.0
+意大利菜,El Puig D'Estelles,El Puig D'Estelles,0,其他,0.0,0.0,0.0
+意大利菜,Tomatika,Tomatika,0,其他,0.0,0.0,0.0
+意大利菜,Bene...e Benvenuti,Bene...e Benvenuti,0,其他,0.0,0.0,0.0
+意大利菜,Scacco matto,Scacco matto,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Belvedere,Ristorante Belvedere,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Frejus,Pizzeria Frejus,0,其他,0.0,0.0,0.0
+意大利菜,Tiffany Lounge Bar,Tiffany Lounge Bar,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria da Luca,Pizzeria da Luca,0,其他,0.0,0.0,0.0
+意大利菜,I Tartufi Bistrot,I Tartufi Bistrot,0,其他,0.0,0.0,0.0
+意大利菜,Enrietto,Enrietto,0,其他,0.0,0.0,0.0
+意大利菜,Oltremare,Oltremare,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante dei Pittori,Ristorante dei Pittori,0,图林,0.0,0.0,0.0
+意大利菜,Del Sole,Del Sole,0,图林,0.0,0.0,0.0
+意大利菜,Osteria'n Cicinin,Osteria'n Cicinin,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Fermata Venchi,Ristorante Fermata Venchi,0,其他,0.0,0.0,0.0
+意大利菜,Marrons Glacees,Marrons Glacees,0,图林,0.0,0.0,0.0
+意大利菜,Pasticceria Dolci Pensieri,Pasticceria Dolci Pensieri,0,图林,0.0,0.0,0.0
+意大利菜,La Spada Nella Rocca,La Spada Nella Rocca,0,图林,0.0,0.0,0.0
+意大利菜,Il Giaguaro,Il Giaguaro,0,图林,0.0,0.0,0.0
+意大利菜,Pizza Fantasy,Pizza Fantasy,0,图林,0.0,0.0,0.0
+意大利菜,Inside,Inside,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria F.lli Bravo,Trattoria F.lli Bravo,0,图林,0.0,0.0,0.0
+意大利菜,Torino,Torino,0,图林,0.0,0.0,0.0
+意大利菜,Pasticceria Dell'Agnese Giovanni,Pasticceria Dell'Agnese Giovanni,0,图林,0.0,0.0,0.0
+意大利菜,Caffe Mania,Caffe Mania,0,图林,0.0,0.0,0.0
+意大利菜,Pfatisch,Pfatisch,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Berbel,Ristorante Berbel,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Casa Zanotti,Trattoria Casa Zanotti,0,图林,0.0,0.0,0.0
+意大利菜,La Piadineria degli artisti,La Piadineria degli artisti,0,图林,0.0,0.0,0.0
+意大利菜,Charlie Bird,Charlie Bird,0,图林,0.0,0.0,0.0
+意大利菜,Zia Lalla Pizzeria,Zia Lalla Pizzeria,0,图林,0.0,0.0,0.0
+意大利菜,Spes Cioccolateria Artigiana e Bottega Golosa,Spes Cioccolateria Artigiana e Bottega Golosa,0,图林,0.0,0.0,0.0
+意大利菜,Salumeria gastronomia Ramello,Salumeria gastronomia Ramello,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Trattoria A Casa Mia,Ristorante Trattoria A Casa Mia,0,图林,0.0,0.0,0.0
+意大利菜,Macelleria Pistis,Macelleria Pistis,0,图林,0.0,0.0,0.0
+意大利菜,Ferri Pasticicio Gastronomia,Ferri Pasticicio Gastronomia,0,图林,0.0,0.0,0.0
+意大利菜,Pizzamania,Pizzamania,0,图林,0.0,0.0,0.0
+意大利菜,Caffetteria Classic,Caffetteria Classic,0,图林,0.0,0.0,0.0
+意大利菜,Cafe Nations,Cafe Nations,0,图林,0.0,0.0,0.0
+意大利菜,Stefano Fanti al Ristorante Circolo dei Lettori,Stefano Fanti al Ristorante Circolo dei Lettori,0,图林,0.0,0.0,0.0
+意大利菜,spigo spago,spigo spago,0,图林,0.0,0.0,0.0
+意大利菜,Lou Brachette's,Lou Brachette's,0,其他,0.0,0.0,0.0
+意大利菜,Mediterraneo,Mediterraneo,0,图林,0.0,0.0,0.0
+意大利菜,Caffe Elena,Caffe Elena,0,图林,0.0,0.0,0.0
+意大利菜,La Griglia,La Griglia,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante La Mina,Ristorante La Mina,0,图林,0.0,0.0,0.0
+意大利菜,Caffetteria Carlo Alberto,Caffetteria Carlo Alberto,0,图林,0.0,0.0,0.0
+意大利菜,Regina Margherita,Regina Margherita,0,图林,0.0,0.0,0.0
+意大利菜,Pizzerio Rio,Pizzerio Rio,0,图林,0.0,0.0,0.0
+意大利菜,Ciacolon,Ciacolon,0,图林,0.0,0.0,0.0
+意大利菜,Guido Da Eataly Casa Vicina,Guido Da Eataly Casa Vicina,0,图林,0.0,0.0,0.0
+意大利菜,EATALY - TERRE DI SAVOIA,EATALY - TERRE DI SAVOIA,0,图林,0.0,0.0,0.0
+意大利菜,CentroSportivo La Tesorina,CentroSportivo La Tesorina,0,图林,0.0,0.0,0.0
+意大利菜,Osteria di Pierantonio,Osteria di Pierantonio,0,图林,0.0,0.0,0.0
+意大利菜,Dorian Gray Pub,Dorian Gray Pub,0,图林,0.0,0.0,0.0
+意大利菜,Bar Il Ciliegio,Bar Il Ciliegio,0,图林,0.0,0.0,0.0
+意大利菜,La Linea Continua,La Linea Continua,0,图林,0.0,0.0,0.0
+意大利菜,Bella sicilia,Bella sicilia,0,图林,0.0,0.0,0.0
+意大利菜,Bar Reale,Bar Reale,0,图林,0.0,0.0,0.0
+意大利菜,Caffe Dante,Caffe Dante,0,图林,0.0,0.0,0.0
+意大利菜,Miseria E Nobilta,Miseria E Nobilta,0,图林,0.0,0.0,0.0
+意大利菜,Birichin,Birichin,0,图林,0.0,0.0,0.0
+意大利菜,Birreria Garibaldi,Birreria Garibaldi,0,图林,0.0,0.0,0.0
+意大利菜,Osteria da Dario,Osteria da Dario,0,图林,0.0,0.0,0.0
+意大利菜,Bar Prima Pagina,Bar Prima Pagina,0,图林,0.0,0.0,0.0
+意大利菜,Andromeda,Andromeda,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Sotto La Luna,Trattoria Sotto La Luna,0,图林,0.0,0.0,0.0
+意大利菜,Turati Trentanove Pizzaria,Turati Trentanove Pizzaria,0,图林,0.0,0.0,0.0
+意大利菜,Angolo del caffe,Angolo del caffe,0,图林,0.0,0.0,0.0
+意大利菜,Torteria Luna'sTorta,Torteria Luna'sTorta,0,图林,0.0,0.0,0.0
+意大利菜,Circolo Eridano,Circolo Eridano,0,图林,0.0,0.0,0.0
+意大利菜,Al Gatto Nero,Al Gatto Nero,0,图林,0.0,0.0,0.0
+意大利菜,Le Putrelle,Le Putrelle,0,图林,0.0,0.0,0.0
+意大利菜,Imbarco del Re,Imbarco del Re,0,图林,0.0,0.0,0.0
+意大利菜,Caffe' dell'orologio,Caffe' dell'orologio,0,图林,0.0,0.0,0.0
+意大利菜,La Sartoria Cucina su misura,La Sartoria Cucina su misura,0,图林,0.0,0.0,0.0
+意大利菜,L'Hoste Matto Trattoria,L'Hoste Matto Trattoria,0,图林,0.0,0.0,0.0
+意大利菜,Boja Fauss,Boja Fauss,0,图林,0.0,0.0,0.0
+意大利菜,Camping,Camping,0,图林,0.0,0.0,0.0
+意大利菜,Centocinquanta,Centocinquanta,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria 4 Stagioni,Pizzeria 4 Stagioni,0,图林,0.0,0.0,0.0
+意大利菜,Lo Spaccio Alimentare,Lo Spaccio Alimentare,0,图林,0.0,0.0,0.0
+意大利菜,Caffe' D'arte,Caffe' D'arte,0,图林,0.0,0.0,0.0
+意大利菜,Sorriso,Sorriso,0,图林,0.0,0.0,0.0
+意大利菜,Il Camaleonte,Il Camaleonte,0,图林,0.0,0.0,0.0
+意大利菜,Pastificio Baretti,Pastificio Baretti,0,图林,0.0,0.0,0.0
+意大利菜,Dai Saro,Dai Saro,0,图林,0.0,0.0,0.0
+意大利菜,Diwan Cafe,Diwan Cafe,0,图林,0.0,0.0,0.0
+意大利菜,Carmen,Carmen,0,图林,0.0,0.0,0.0
+意大利菜,Ristorantino Tanti,Ristorantino Tanti,0,图林,0.0,0.0,0.0
+意大利菜,L'Antagonista,L'Antagonista,0,图林,0.0,0.0,0.0
+意大利菜,Il Timone,Il Timone,0,图林,0.0,0.0,0.0
+意大利菜,La Societa dei Carbonari,La Societa dei Carbonari,0,图林,0.0,0.0,0.0
+意大利菜,Croissanterie La Nuit,Croissanterie La Nuit,0,图林,0.0,0.0,0.0
+意大利菜,Da Lisa,Da Lisa,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Giusti,Ristorante Giusti,0,图林,0.0,0.0,0.0
+意大利菜,A Terra Mia by La Voglia,A Terra Mia by La Voglia,0,图林,0.0,0.0,0.0
+意大利菜,La Bocca,La Bocca,0,图林,0.0,0.0,0.0
+意大利菜,Dai Saletta,Dai Saletta,0,图林,0.0,0.0,0.0
+意大利菜,Six4you,Six4you,0,图林,0.0,0.0,0.0
+意大利菜,Masaniello e Turnat,Masaniello e Turnat,0,图林,0.0,0.0,0.0
+意大利菜,St. Paul,St. Paul,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Circolo Robilant,Ristorante Circolo Robilant,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Alba,Ristorante Alba,0,图林,0.0,0.0,0.0
+意大利菜,Due Mondi Ristorante,Due Mondi Ristorante,0,图林,0.0,0.0,0.0
+意大利菜,MARCELLO,MARCELLO,0,图林,0.0,0.0,0.0
+意大利菜,Bonta d'Amare,Bonta d'Amare,0,图林,0.0,0.0,0.0
+意大利菜,Morgan,Morgan,0,图林,0.0,0.0,0.0
+意大利菜,Bar Gelateria Cono D'Oro,Bar Gelateria Cono D'Oro,0,图林,0.0,0.0,0.0
+意大利菜,Montecarlo,Montecarlo,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante La Conca,Ristorante La Conca,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Piano B,Ristorante Pizzeria Piano B,0,图林,0.0,0.0,0.0
+意大利菜,Anema e Core,Anema e Core,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Airone,Ristorante Airone,0,图林,0.0,0.0,0.0
+意大利菜,Risto Civassa,Risto Civassa,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Monferrato,Ristorante Monferrato,0,图林,0.0,0.0,0.0
+意大利菜,Ceccarelli,Ceccarelli,0,图林,0.0,0.0,0.0
+意大利菜,Casaslurp,Casaslurp,0,图林,0.0,0.0,0.0
+意大利菜,Gran Gala',Gran Gala',0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Vittoria,Ristorante Vittoria,0,图林,0.0,0.0,0.0
+意大利菜,Torlovini enoteca con cucina,Torlovini enoteca con cucina,0,图林,0.0,0.0,0.0
+意大利菜,Caffè Clarissa,Caffè Clarissa,0,图林,0.0,0.0,0.0
+意大利菜,39,39,0,图林,0.0,0.0,0.0
+意大利菜,Pastificio Defilippis,Pastificio Defilippis,0,图林,0.0,0.0,0.0
+意大利菜,Il Tabisca,Il Tabisca,0,图林,0.0,0.0,0.0
+意大利菜,Antica trattoria del mercato,Antica trattoria del mercato,0,图林,0.0,0.0,0.0
+意大利菜,"Maccaroneria , Torino V","Maccaroneria , Torino V",0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Profumi e Sapori,Trattoria Profumi e Sapori,0,图林,0.0,0.0,0.0
+意大利菜,Hotel Ristorante Principi di Piemonte,Hotel Ristorante Principi di Piemonte,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria La Madia,Trattoria La Madia,0,图林,0.0,0.0,0.0
+意大利菜,Augusto Ristorante Pizzeria,Augusto Ristorante Pizzeria,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Augusto,Ristorante Pizzeria Augusto,0,图林,0.0,0.0,0.0
+意大利菜,Fratelli Ansaldi,Fratelli Ansaldi,0,图林,0.0,0.0,0.0
+意大利菜,Enomagoteca-Vini e cucina,Enomagoteca-Vini e cucina,0,图林,0.0,0.0,0.0
+意大利菜,Qualeaty - Take Away a KM 0,Qualeaty - Take Away a KM 0,0,图林,0.0,0.0,0.0
+意大利菜,Donna Prassede,Donna Prassede,0,图林,0.0,0.0,0.0
+意大利菜,Primosenso,Primosenso,0,图林,0.0,0.0,0.0
+意大利菜,Gerla 1927,Gerla 1927,0,图林,0.0,0.0,0.0
+意大利菜,Santa Pelagia,Santa Pelagia,0,图林,0.0,0.0,0.0
+意大利菜,New Glam,New Glam,0,图林,0.0,0.0,0.0
+意大利菜,Oryza,Oryza,0,图林,0.0,0.0,0.0
+意大利菜,La Scalinatella,La Scalinatella,0,图林,0.0,0.0,0.0
+意大利菜,La Svolta 2 La Locanda,La Svolta 2 La Locanda,0,图林,0.0,0.0,0.0
+意大利菜,Amici Miei,Amici Miei,0,图林,0.0,0.0,0.0
+意大利菜,Da Celso,Da Celso,0,图林,0.0,0.0,0.0
+意大利菜,Nishiki,Nishiki,0,图林,0.0,0.0,0.0
+意大利菜,Kettepare,Kettepare,0,图林,0.0,0.0,0.0
+意大利菜,La Botteghiotta,La Botteghiotta,0,图林,0.0,0.0,0.0
+意大利菜,Giorgio & Ugo Beautiful Lasagna!,Giorgio & Ugo Beautiful Lasagna!,0,图林,0.0,0.0,0.0
+意大利菜,G Ristorante Italiano of the Golden Palace,G Ristorante Italiano of the Golden Palace,0,图林,0.0,0.0,0.0
+意大利菜,La Limonaia Food as Culture,La Limonaia Food as Culture,0,图林,0.0,0.0,0.0
+意大利菜,Caffe Regio,Caffe Regio,0,图林,0.0,0.0,0.0
+意大利菜,Cantiere Edibile,Cantiere Edibile,0,图林,0.0,0.0,0.0
+意大利菜,La Nuova Brace,La Nuova Brace,0,图林,0.0,0.0,0.0
+意大利菜,La Via Del Sale,La Via Del Sale,0,图林,0.0,0.0,0.0
+意大利菜,Il Padellino,Il Padellino,0,图林,0.0,0.0,0.0
+意大利菜,Margo,Margo,0,图林,0.0,0.0,0.0
+意大利菜,Otto E 3/4,Otto E 3/4,0,图林,0.0,0.0,0.0
+意大利菜,Del Cambio,Del Cambio,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Ala,Trattoria Ala,0,图林,0.0,0.0,0.0
+意大利菜,Al 24,Al 24,0,图林,0.0,0.0,0.0
+意大利菜,La Costanza,La Costanza,0,图林,0.0,0.0,0.0
+意大利菜,La Magnolia,La Magnolia,0,图林,0.0,0.0,0.0
+意大利菜,Arcadia,Arcadia,0,图林,0.0,0.0,0.0
+意大利菜,Ala Toscana,Ala Toscana,0,图林,0.0,0.0,0.0
+意大利菜,Titanic,Titanic,0,图林,0.0,0.0,0.0
+意大利菜,Scalo Vanchiglia,Scalo Vanchiglia,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Italia,Pizzeria Italia,0,图林,0.0,0.0,0.0
+意大利菜,Luna Rossa,Luna Rossa,0,图林,0.0,0.0,0.0
+意大利菜,Barricata,Barricata,0,图林,0.0,0.0,0.0
+意大利菜,Antiche Sere,Antiche Sere,0,图林,0.0,0.0,0.0
+意大利菜,Algo Màs,Algo Màs,0,图林,0.0,0.0,0.0
+意大利菜,E' Cucina - Cesare Marretti,E' Cucina - Cesare Marretti,0,图林,0.0,0.0,0.0
+意大利菜,Rendez-vous,Rendez-vous,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Consorzio,Ristorante Consorzio,0,图林,0.0,0.0,0.0
+意大利菜,Bottega del Gusto,Bottega del Gusto,0,图林,0.0,0.0,0.0
+意大利菜,Bar Perotti,Bar Perotti,0,图林,0.0,0.0,0.0
+意大利菜,Da Cianci Piola Caffe,Da Cianci Piola Caffe,0,图林,0.0,0.0,0.0
+意大利菜,Bazaaar,Bazaaar,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Le Scodelle,Ristorante Le Scodelle,0,图林,0.0,0.0,0.0
+意大利菜,Diecicento,Diecicento,0,图林,0.0,0.0,0.0
+意大利菜,La Campana,La Campana,0,图林,0.0,0.0,0.0
+意大利菜,Enoteca Bordo,Enoteca Bordo,0,图林,0.0,0.0,0.0
+意大利菜,A'Livella,A'Livella,0,图林,0.0,0.0,0.0
+意大利菜,Corte Noa,Corte Noa,0,图林,0.0,0.0,0.0
+意大利菜,La Gola,La Gola,0,图林,0.0,0.0,0.0
+意大利菜,la piada,la piada,0,图林,0.0,0.0,0.0
+意大利菜,Caffe Rossini,Caffe Rossini,0,图林,0.0,0.0,0.0
+意大利菜,Il gusto giusto,Il gusto giusto,0,图林,0.0,0.0,0.0
+意大利菜,El Crinet,El Crinet,0,图林,0.0,0.0,0.0
+意大利菜,Il Giglio,Il Giglio,0,图林,0.0,0.0,0.0
+意大利菜,La Sueva,La Sueva,0,图林,0.0,0.0,0.0
+意大利菜,Ristoritaly,Ristoritaly,0,图林,0.0,0.0,0.0
+意大利菜,Il laboratorio del gusto,Il laboratorio del gusto,0,图林,0.0,0.0,0.0
+意大利菜,Osteria Povr'om,Osteria Povr'om,0,图林,0.0,0.0,0.0
+意大利菜,Babylon,Babylon,0,图林,0.0,0.0,0.0
+意大利菜,Le Fanfaron Bistrot,Le Fanfaron Bistrot,0,图林,0.0,0.0,0.0
+意大利菜,Basso30,Basso30,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Aldente,Trattoria Aldente,0,图林,0.0,0.0,0.0
+意大利菜,Arsenico,Arsenico,0,图林,0.0,0.0,0.0
+意大利菜,PRET A' MANGER (gastronomia torteria),PRET A' MANGER (gastronomia torteria),0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Saraceno,Pizzeria Saraceno,0,图林,0.0,0.0,0.0
+意大利菜,John Joy Restaurant,John Joy Restaurant,0,图林,0.0,0.0,0.0
+意大利菜,Il Cavaliere,Il Cavaliere,0,图林,0.0,0.0,0.0
+意大利菜,Da Giannino L'Angolo D' Abruzzo,Da Giannino L'Angolo D' Abruzzo,0,图林,0.0,0.0,0.0
+意大利菜,Ambharabar,Ambharabar,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Rural,Ristorante Rural,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Primavera,Trattoria Primavera,0,图林,0.0,0.0,0.0
+意大利菜,Il Cortiletto,Il Cortiletto,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria della Posta,Trattoria della Posta,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Exilles,Pizzeria Exilles,0,图林,0.0,0.0,0.0
+意大利菜,Teatroria,Teatroria,0,图林,0.0,0.0,0.0
+意大利菜,Stazione Sassi,Stazione Sassi,0,图林,0.0,0.0,0.0
+意大利菜,Gelateria Gabri,Gelateria Gabri,0,图林,0.0,0.0,0.0
+意大利菜,Bocciofila Nord,Bocciofila Nord,0,图林,0.0,0.0,0.0
+意大利菜,Don Gennaro,Don Gennaro,0,图林,0.0,0.0,0.0
+意大利菜,Cecchi Point,Cecchi Point,0,图林,0.0,0.0,0.0
+意大利菜,Cascina Marchesa Restaurant,Cascina Marchesa Restaurant,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Self-Service Pizzeria Alessia,Ristorante Self-Service Pizzeria Alessia,0,图林,0.0,0.0,0.0
+意大利菜,Eno',Eno',0,图林,0.0,0.0,0.0
+意大利菜,Piper Pub,Piper Pub,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria La Fonte,Ristorante Pizzeria La Fonte,0,图林,0.0,0.0,0.0
+意大利菜,Alla portata,Alla portata,0,图林,0.0,0.0,0.0
+意大利菜,La Fenice,La Fenice,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Tanzariello Vincenzo,Pizzeria Tanzariello Vincenzo,0,图林,0.0,0.0,0.0
+意大利菜,Mister Fantasy,Mister Fantasy,0,图林,0.0,0.0,0.0
+意大利菜,Birreria Seem,Birreria Seem,0,图林,0.0,0.0,0.0
+意大利菜,Menta e Rosmarino,Menta e Rosmarino,0,其他,0.0,0.0,0.0
+意大利菜,'A Furcina,'A Furcina,0,其他,0.0,0.0,0.0
+意大利菜,Unione Famigliare Reaglie,Unione Famigliare Reaglie,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Trattoria Bel Deuit,Ristorante Trattoria Bel Deuit,0,其他,0.0,0.0,0.0
+意大利菜,Il ristoro del priore,Il ristoro del priore,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante campo volo,Ristorante campo volo,0,其他,0.0,0.0,0.0
+意大利菜,La Piola D'le 2 Surele,La Piola D'le 2 Surele,0,其他,0.0,0.0,0.0
+意大利菜,La Piola d'le 2 Sorele,La Piola d'le 2 Sorele,0,其他,0.0,0.0,0.0
+意大利菜,Don Tano Il Siciliano,Don Tano Il Siciliano,0,其他,0.0,0.0,0.0
+意大利菜,Caffe' Vergnano 1882,Caffe' Vergnano 1882,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Al crinet,Trattoria Al crinet,0,其他,0.0,0.0,0.0
+意大利菜,Big Apple,Big Apple,0,其他,0.0,0.0,0.0
+意大利菜,La volpe,La volpe,0,其他,0.0,0.0,0.0
+意大利菜,Contesto Alimentare,Contesto Alimentare,0,其他,0.0,0.0,0.0
+意大利菜,Il Pensiero,Il Pensiero,0,图林,0.0,0.0,0.0
+意大利菜,La Cantina,La Cantina,0,图林,0.0,0.0,0.0
+意大利菜,La Pergola Rosa,La Pergola Rosa,0,图林,0.0,0.0,0.0
+意大利菜,Casale 93,Casale 93,0,图林,0.0,0.0,0.0
+意大利菜,Osteria Rosa Bianca,Osteria Rosa Bianca,0,图林,0.0,0.0,0.0
+意大利菜,La Gricia,La Gricia,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Raffaello 5,Trattoria Raffaello 5,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Torricelli,Trattoria Torricelli,0,图林,0.0,0.0,0.0
+意大利菜,Il Barotto,Il Barotto,0,图林,0.0,0.0,0.0
+意大利菜,Le Ramin-e,Le Ramin-e,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante da Camillo,Ristorante da Camillo,0,其他,0.0,0.0,0.0
+意大利菜,Buasca,Buasca,0,其他,0.0,0.0,0.0
+意大利菜,Fritto,Fritto,0,其他,0.0,0.0,0.0
+意大利菜,Gertosio,Gertosio,0,图林,0.0,0.0,0.0
+意大利菜,La Rusnenta,La Rusnenta,0,图林,0.0,0.0,0.0
+意大利菜,Vermouth Anselmo,Vermouth Anselmo,0,图林,0.0,0.0,0.0
+意大利菜,Cernaia 31,Cernaia 31,0,图林,0.0,0.0,0.0
+意大利菜,Tratto-ria Mamalicia,Tratto-ria Mamalicia,0,图林,0.0,0.0,0.0
+意大利菜,Cascina la Porchetta,Cascina la Porchetta,0,图林,0.0,0.0,0.0
+意大利菜,Cantine Vittoria,Cantine Vittoria,0,图林,0.0,0.0,0.0
+意大利菜,Al Vej Bicerin,Al Vej Bicerin,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Dado,Ristorante Dado,0,图林,0.0,0.0,0.0
+意大利菜,Savure,Savure,0,图林,0.0,0.0,0.0
+意大利菜,Le Fonderie Ozanam,Le Fonderie Ozanam,0,图林,0.0,0.0,0.0
+意大利菜,Mezzaluna Bio,Mezzaluna Bio,0,图林,0.0,0.0,0.0
+意大利菜,Chiccheria Risotteria Montebello,Chiccheria Risotteria Montebello,0,图林,0.0,0.0,0.0
+意大利菜,La Locanda del Pentegallo,La Locanda del Pentegallo,0,图林,0.0,0.0,0.0
+意大利菜,Moda Caffe,Moda Caffe,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria le Comiche,Pizzeria le Comiche,0,图林,0.0,0.0,0.0
+意大利菜,Pastis,Pastis,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Pollastrini,Ristorante Pollastrini,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Pantheon,Ristorante Pizzeria Pantheon,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria La Pignatella,Pizzeria La Pignatella,0,图林,0.0,0.0,0.0
+意大利菜,Il Pirata,Il Pirata,0,图林,0.0,0.0,0.0
+意大利菜,Ponte Regina,Ponte Regina,0,图林,0.0,0.0,0.0
+意大利菜,Angelo,Angelo,0,图林,0.0,0.0,0.0
+意大利菜,Bar del Corso,Bar del Corso,0,图林,0.0,0.0,0.0
+意大利菜,Ronchiverdi,Ronchiverdi,0,图林,0.0,0.0,0.0
+意大利菜,La Favola,La Favola,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Vecchio Lingotto,Trattoria Vecchio Lingotto,0,图林,0.0,0.0,0.0
+意大利菜,Vico Equense,Vico Equense,0,图林,0.0,0.0,0.0
+意大利菜,Black Angus,Black Angus,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Personaggio,Pizzeria Ristorante Personaggio,0,图林,0.0,0.0,0.0
+意大利菜,Osteria degli Ottoni,Osteria degli Ottoni,0,图林,0.0,0.0,0.0
+意大利菜,Il Kitchen,Il Kitchen,0,图林,0.0,0.0,0.0
+意大利菜,Scannabue Caffe Restaurant,Scannabue Caffe Restaurant,0,图林,0.0,0.0,0.0
+意大利菜,Casa Manitù,Casa Manitù,0,图林,0.0,0.0,0.0
+意大利菜,DA BENITO,DA BENITO,0,图林,0.0,0.0,0.0
+意大利菜,Samambaia,Samambaia,0,图林,0.0,0.0,0.0
+意大利菜,Bon bon,Bon bon,0,图林,0.0,0.0,0.0
+意大利菜,Tabernalibraria,Tabernalibraria,0,图林,0.0,0.0,0.0
+意大利菜,Cornetti Night,Cornetti Night,0,图林,0.0,0.0,0.0
+意大利菜,Enoteca Parlapa,Enoteca Parlapa,0,图林,0.0,0.0,0.0
+意大利菜,La Strambata,La Strambata,0,图林,0.0,0.0,0.0
+意大利菜,La Prima dal 1979 Moreno,La Prima dal 1979 Moreno,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Parthenope,Ristorante Pizzeria Parthenope,0,图林,0.0,0.0,0.0
+意大利菜,Borromini 72,Borromini 72,0,图林,0.0,0.0,0.0
+意大利菜,Agripiola,Agripiola,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Il Ponte,Ristorante Il Ponte,0,图林,0.0,0.0,0.0
+意大利菜,Ristoro 28 marzo,Ristoro 28 marzo,0,图林,0.0,0.0,0.0
+意大利菜,Bar Caffetteria Cossa,Bar Caffetteria Cossa,0,图林,0.0,0.0,0.0
+意大利菜,Il Porticciolo,Il Porticciolo,0,图林,0.0,0.0,0.0
+意大利菜,San Domenico,San Domenico,0,图林,0.0,0.0,0.0
+意大利菜,Belfood Cucina,Belfood Cucina,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Il Bergamotto,Ristorante Pizzeria Il Bergamotto,0,图林,0.0,0.0,0.0
+意大利菜,Capriccioli,Capriccioli,0,图林,0.0,0.0,0.0
+意大利菜,da Lia,da Lia,0,图林,0.0,0.0,0.0
+意大利菜,Da Lucia,Da Lucia,0,图林,0.0,0.0,0.0
+意大利菜,RATATUJ,RATATUJ,0,图林,0.0,0.0,0.0
+意大利菜,Sansalvario,Sansalvario,0,图林,0.0,0.0,0.0
+意大利菜,Villa Sassi,Villa Sassi,0,图林,0.0,0.0,0.0
+意大利菜,Lentini's,Lentini's,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Torpedo / Le Meridien Lingotto,Ristorante Torpedo / Le Meridien Lingotto,0,图林,0.0,0.0,0.0
+意大利菜,Pout Pourri Vintage Cafe,Pout Pourri Vintage Cafe,0,图林,0.0,0.0,0.0
+意大利菜,Alberoni,Alberoni,0,图林,0.0,0.0,0.0
+意大利菜,Officina Della Pasta,Officina Della Pasta,0,图林,0.0,0.0,0.0
+意大利菜,EATALY - Lingotto - VINERIA,EATALY - Lingotto - VINERIA,0,图林,0.0,0.0,0.0
+意大利菜,La Svolta,La Svolta,0,图林,0.0,0.0,0.0
+意大利菜,AL Fila,AL Fila,0,图林,0.0,0.0,0.0
+意大利菜,Bollicine,Bollicine,0,图林,0.0,0.0,0.0
+意大利菜,bar pasticceria beatrice,bar pasticceria beatrice,0,图林,0.0,0.0,0.0
+意大利菜,Da Toci,Da Toci,0,图林,0.0,0.0,0.0
+意大利菜,Gipso Chupiteria,Gipso Chupiteria,0,图林,0.0,0.0,0.0
+意大利菜,Da Cinzia,Da Cinzia,0,图林,0.0,0.0,0.0
+意大利菜,Caffe Amaranto Bistrot,Caffe Amaranto Bistrot,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Black Jack,Pizzeria Ristorante Black Jack,0,图林,0.0,0.0,0.0
+意大利菜,Angelo e Galia,Angelo e Galia,0,图林,0.0,0.0,0.0
+意大利菜,Birrificio San Paolo,Birrificio San Paolo,0,图林,0.0,0.0,0.0
+意大利菜,Cafe' Mash,Cafe' Mash,0,图林,0.0,0.0,0.0
+意大利菜,Pasticceria Abrate,Pasticceria Abrate,0,图林,0.0,0.0,0.0
+意大利菜,trattoria mombercelli,trattoria mombercelli,0,图林,0.0,0.0,0.0
+意大利菜,Fricando' Ristorante,Fricando' Ristorante,0,图林,0.0,0.0,0.0
+意大利菜,Spazio,Spazio,0,图林,0.0,0.0,0.0
+意大利菜,Alma La Verde,Alma La Verde,0,图林,0.0,0.0,0.0
+意大利菜,Lanificio San Salvatore,Lanificio San Salvatore,0,图林,0.0,0.0,0.0
+意大利菜,Pasticceria Calcagno,Pasticceria Calcagno,0,图林,0.0,0.0,0.0
+意大利菜,Il Sarchiapone,Il Sarchiapone,0,图林,0.0,0.0,0.0
+意大利菜,Santa Margo,Santa Margo,0,图林,0.0,0.0,0.0
+意大利菜,Nolita,Nolita,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Viareggio,Trattoria Viareggio,0,图林,0.0,0.0,0.0
+意大利菜,Area Cafe,Area Cafe,0,图林,0.0,0.0,0.0
+意大利菜,Ponte Vecchio,Ponte Vecchio,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Starbiglia,Ristorante Starbiglia,0,图林,0.0,0.0,0.0
+意大利菜,Pizza e Ristorantino da Paolo,Pizza e Ristorantino da Paolo,0,图林,0.0,0.0,0.0
+意大利菜,C'era una Volta,C'era una Volta,0,图林,0.0,0.0,0.0
+意大利菜,La Curia - Pizzicheria con Cucina,La Curia - Pizzicheria con Cucina,0,图林,0.0,0.0,0.0
+意大利菜,Circolo Canottieri Esperia,Circolo Canottieri Esperia,0,图林,0.0,0.0,0.0
+意大利菜,Toto' Sapore,Toto' Sapore,0,图林,0.0,0.0,0.0
+意大利菜,La lettera,La lettera,0,图林,0.0,0.0,0.0
+意大利菜,Il Mago di Oz,Il Mago di Oz,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Mazzini,Pizzeria Ristorante Mazzini,0,图林,0.0,0.0,0.0
+意大利菜,Primaepoi,Primaepoi,0,图林,0.0,0.0,0.0
+意大利菜,NINO DE FILIPPIS RISTORANTE,NINO DE FILIPPIS RISTORANTE,0,图林,0.0,0.0,0.0
+意大利菜,L'Azdora (Piadina & Crescioni),L'Azdora (Piadina & Crescioni),0,图林,0.0,0.0,0.0
+意大利菜,Bastimento,Bastimento,0,图林,0.0,0.0,0.0
+意大利菜,La Madama Della Rocca,La Madama Della Rocca,0,图林,0.0,0.0,0.0
+意大利菜,Soho 23,Soho 23,0,图林,0.0,0.0,0.0
+意大利菜,Platti,Platti,0,图林,0.0,0.0,0.0
+意大利菜,La Drogheria,La Drogheria,0,图林,0.0,0.0,0.0
+意大利菜,Bocciofila La Montagnola,Bocciofila La Montagnola,0,图林,0.0,0.0,0.0
+意大利菜,Il Peperoncino,Il Peperoncino,0,图林,0.0,0.0,0.0
+意大利菜,Macelleria Ristorante,Macelleria Ristorante,0,图林,0.0,0.0,0.0
+意大利菜,Fragole E Barbera,Fragole E Barbera,0,图林,0.0,0.0,0.0
+意大利菜,I Sibilla,I Sibilla,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Alba,Trattoria Alba,0,图林,0.0,0.0,0.0
+意大利菜,Camillo's,Camillo's,0,图林,0.0,0.0,0.0
+意大利菜,Da Michele,Da Michele,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Toscana,Trattoria Toscana,0,图林,0.0,0.0,0.0
+意大利菜,Pizzini Pizzeria,Pizzini Pizzeria,0,图林,0.0,0.0,0.0
+意大利菜,La Spiga d'Oro,La Spiga d'Oro,0,图林,0.0,0.0,0.0
+意大利菜,Eat Sicily,Eat Sicily,0,图林,0.0,0.0,0.0
+意大利菜,Porto di Savona,Porto di Savona,0,图林,0.0,0.0,0.0
+意大利菜,Tommy Tegamino,Tommy Tegamino,0,图林,0.0,0.0,0.0
+意大利菜,Mamma Ester,Mamma Ester,0,图林,0.0,0.0,0.0
+意大利菜,Apericena Gabetti,Apericena Gabetti,0,图林,0.0,0.0,0.0
+意大利菜,Non Solo Pizza,Non Solo Pizza,0,图林,0.0,0.0,0.0
+意大利菜,Tre daTre,Tre daTre,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Mamma mia,Pizzeria Mamma mia,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante La Passamaneria,Ristorante La Passamaneria,0,图林,0.0,0.0,0.0
+意大利菜,Ciopper,Ciopper,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante La Cricca,Ristorante La Cricca,0,图林,0.0,0.0,0.0
+意大利菜,BEAU BAR,BEAU BAR,0,图林,0.0,0.0,0.0
+意大利菜,Sotto La Mole,Sotto La Mole,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Piemontese,Trattoria Piemontese,0,图林,0.0,0.0,0.0
+意大利菜,Il Granaio,Il Granaio,0,图林,0.0,0.0,0.0
+意大利菜,Pizza Angelo,Pizza Angelo,0,图林,0.0,0.0,0.0
+意大利菜,Antica Trattoria delle Langhe,Antica Trattoria delle Langhe,0,图林,0.0,0.0,0.0
+意大利菜,BreK (piazza Solferino),BreK (piazza Solferino),0,图林,0.0,0.0,0.0
+意大利菜,La Tana del Re,La Tana del Re,0,图林,0.0,0.0,0.0
+意大利菜,Marechiaro,Marechiaro,0,图林,0.0,0.0,0.0
+意大利菜,Osteria il Torchio,Osteria il Torchio,0,图林,0.0,0.0,0.0
+意大利菜,Da Ciro,Da Ciro,0,图林,0.0,0.0,0.0
+意大利菜,Gusteau,Gusteau,0,图林,0.0,0.0,0.0
+意大利菜,Da Alba,Da Alba,0,图林,0.0,0.0,0.0
+意大利菜,Cavallo Di Bronzo,Cavallo Di Bronzo,0,图林,0.0,0.0,0.0
+意大利菜,Gaute La Nata,Gaute La Nata,0,图林,0.0,0.0,0.0
+意大利菜,Da Peppino,Da Peppino,0,图林,0.0,0.0,0.0
+意大利菜,Il Santo,Il Santo,0,图林,0.0,0.0,0.0
+意大利菜,CARLO Urban Restaurant & Cafe,CARLO Urban Restaurant & Cafe,0,图林,0.0,0.0,0.0
+意大利菜,Il Ristoro Dei Mercanti,Il Ristoro Dei Mercanti,0,图林,0.0,0.0,0.0
+意大利菜,Crudo Basta Non Cuocerlo,Crudo Basta Non Cuocerlo,0,图林,0.0,0.0,0.0
+意大利菜,Taverna Fiorentina,Taverna Fiorentina,0,图林,0.0,0.0,0.0
+意大利菜,La Papagorgia,La Papagorgia,0,图林,0.0,0.0,0.0
+意大利菜,Conte Verde,Conte Verde,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Santo Spirito,Trattoria Santo Spirito,0,图林,0.0,0.0,0.0
+意大利菜,Osteria Pappa & Ciccia,Osteria Pappa & Ciccia,0,图林,0.0,0.0,0.0
+意大利菜,L'Osto del Borgh Vej,L'Osto del Borgh Vej,0,图林,0.0,0.0,0.0
+意大利菜,Gastronomia Artigianale,Gastronomia Artigianale,0,图林,0.0,0.0,0.0
+意大利菜,OTIUM,OTIUM,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Gonzales,Pizzeria Gonzales,0,图林,0.0,0.0,0.0
+意大利菜,la Trottola,la Trottola,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria da Gianni,Pizzeria da Gianni,0,图林,0.0,0.0,0.0
+意大利菜,Lentini's,Lentini's,0,图林,0.0,0.0,0.0
+意大利菜,DA CARMEN PIZZERIA RISTORANTE,DA CARMEN PIZZERIA RISTORANTE,0,图林,0.0,0.0,0.0
+意大利菜,13 A Tavola,13 A Tavola,0,图林,0.0,0.0,0.0
+意大利菜,pippo paranza,pippo paranza,0,图林,0.0,0.0,0.0
+意大利菜,Le Rondini - pizzeria con cucina,Le Rondini - pizzeria con cucina,0,图林,0.0,0.0,0.0
+意大利菜,La Gare Susa,La Gare Susa,0,图林,0.0,0.0,0.0
+意大利菜,Arancia di Mezzanotte,Arancia di Mezzanotte,0,图林,0.0,0.0,0.0
+意大利菜,Caffe Savoia,Caffe Savoia,0,图林,0.0,0.0,0.0
+意大利菜,A Vucciria,A Vucciria,0,图林,0.0,0.0,0.0
+意大利菜,La Fenice,La Fenice,0,图林,0.0,0.0,0.0
+意大利菜,La cricca bocciofila,La cricca bocciofila,0,图林,0.0,0.0,0.0
+意大利菜,La Cozza,La Cozza,0,图林,0.0,0.0,0.0
+意大利菜,Toto e Macario,Toto e Macario,0,图林,0.0,0.0,0.0
+意大利菜,Il Brillo Sparlante,Il Brillo Sparlante,0,图林,0.0,0.0,0.0
+意大利菜,I Valenza,I Valenza,0,图林,0.0,0.0,0.0
+意大利菜,La Divina Commedia,La Divina Commedia,0,图林,0.0,0.0,0.0
+意大利菜,TRATTORIA AUSILIATRICE,TRATTORIA AUSILIATRICE,0,图林,0.0,0.0,0.0
+意大利菜,Bocciofila Mossetto,Bocciofila Mossetto,0,图林,0.0,0.0,0.0
+意大利菜,La Gustosa 1&2,La Gustosa 1&2,0,图林,0.0,0.0,0.0
+意大利菜,Miro',Miro',0,图林,0.0,0.0,0.0
+意大利菜,La Pace,La Pace,0,图林,0.0,0.0,0.0
+意大利菜,Osteria Vecchia Parma,Osteria Vecchia Parma,0,图林,0.0,0.0,0.0
+意大利菜,da Cristina,da Cristina,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria l'Oca Fola,Trattoria l'Oca Fola,0,图林,0.0,0.0,0.0
+意大利菜,Il Mattirolo,Il Mattirolo,0,图林,0.0,0.0,0.0
+意大利菜,Linopassamilvino,Linopassamilvino,0,图林,0.0,0.0,0.0
+意大利菜,Punto 12,Punto 12,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Urbani,Ristorante Urbani,0,其他,0.0,0.0,0.0
+意大利菜,La Dispensa,La Dispensa,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria il Proverbio,Ristorante Pizzeria il Proverbio,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria L'ultima spiaggia,Trattoria L'ultima spiaggia,0,其他,0.0,0.0,0.0
+意大利菜,Con Calma - Antica Trattoria,Con Calma - Antica Trattoria,0,其他,0.0,0.0,0.0
+意大利菜,Stuzzicone,Stuzzicone,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Millegusti,Ristorante Millegusti,0,其他,0.0,0.0,0.0
+意大利菜,Scirocco,Scirocco,0,其他,0.0,0.0,0.0
+意大利菜,O sole mio,O sole mio,0,其他,0.0,0.0,0.0
+意大利菜,Apra,Apra,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Cinese Grande Mare,Ristorante Cinese Grande Mare,0,其他,0.0,0.0,0.0
+意大利菜,Ciclope,Ciclope,0,其他,0.0,0.0,0.0
+意大利菜,Da Salvo,Da Salvo,0,其他,0.0,0.0,0.0
+意大利菜,Eataly,Eataly,0,其他,0.0,0.0,0.0
+意大利菜,Locanda Corona Grossa,Locanda Corona Grossa,0,其他,0.0,0.0,0.0
+意大利菜,Albergo Ristorante,Albergo Ristorante,0,其他,0.0,0.0,0.0
+意大利菜,Gelateria Ciuffo's,Gelateria Ciuffo's,0,其他,0.0,0.0,0.0
+意大利菜,Colors,Colors,0,其他,0.0,0.0,0.0
+意大利菜,Vineria Prosit,Vineria Prosit,0,其他,0.0,0.0,0.0
+意大利菜,Biancopanna,Biancopanna,0,其他,0.0,0.0,0.0
+意大利菜,Plaza Caffe Di Mancin Diego,Plaza Caffe Di Mancin Diego,0,其他,0.0,0.0,0.0
+意大利菜,Chez Walter,Chez Walter,0,其他,0.0,0.0,0.0
+意大利菜,Up Ristorante,Up Ristorante,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante L'Ancora,Ristorante L'Ancora,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Da Mauro,Ristorante Da Mauro,0,图林,0.0,0.0,0.0
+意大利菜,Maxela,Maxela,0,图林,0.0,0.0,0.0
+意大利菜,La Garganica,La Garganica,0,图林,0.0,0.0,0.0
+意大利菜,Silvestro,Silvestro,0,图林,0.0,0.0,0.0
+意大利菜,Area Nova,Area Nova,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Colibri,Ristorante Pizzeria Colibri,0,图林,0.0,0.0,0.0
+意大利菜,Romoletto,Romoletto,0,图林,0.0,0.0,0.0
+意大利菜,Il guscio,Il guscio,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante delle Alpi,Ristorante delle Alpi,0,图林,0.0,0.0,0.0
+意大利菜,Zi Teresa,Zi Teresa,0,图林,0.0,0.0,0.0
+意大利菜,Joy joy,Joy joy,0,图林,0.0,0.0,0.0
+意大利菜,Tamborini,Tamborini,0,图林,0.0,0.0,0.0
+意大利菜,La Carbonaia,La Carbonaia,0,图林,0.0,0.0,0.0
+意大利菜,Coffee Shop Vergnano 1882,Coffee Shop Vergnano 1882,0,图林,0.0,0.0,0.0
+意大利菜,Bora Bora Sun,Bora Bora Sun,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Vecchia Piola,Trattoria Vecchia Piola,0,图林,0.0,0.0,0.0
+意大利菜,Bruschetteria Pautasso,Bruschetteria Pautasso,0,图林,0.0,0.0,0.0
+意大利菜,Il Picchio,Il Picchio,0,图林,0.0,0.0,0.0
+意大利菜,Sfashion,Sfashion,0,图林,0.0,0.0,0.0
+意大利菜,Le Papille,Le Papille,0,图林,0.0,0.0,0.0
+意大利菜,Banco di Sicilia,Banco di Sicilia,0,图林,0.0,0.0,0.0
+意大利菜,Falco Rosso,Falco Rosso,0,图林,0.0,0.0,0.0
+意大利菜,Krabon,Krabon,0,图林,0.0,0.0,0.0
+意大利菜,Shore - Cocktail Bar,Shore - Cocktail Bar,0,图林,0.0,0.0,0.0
+意大利菜,Preludio Risto Pizza,Preludio Risto Pizza,0,图林,0.0,0.0,0.0
+意大利菜,I Sapori,I Sapori,0,图林,0.0,0.0,0.0
+意大利菜,CH4 Sporting Club Ristorante,CH4 Sporting Club Ristorante,0,图林,0.0,0.0,0.0
+意大利菜,L'Oasi di Cavoretto,L'Oasi di Cavoretto,0,图林,0.0,0.0,0.0
+意大利菜,Il Barone,Il Barone,0,图林,0.0,0.0,0.0
+意大利菜,Delizia,Delizia,0,图林,0.0,0.0,0.0
+意大利菜,Hotel Ristorante Pizzeria Parco Fiera,Hotel Ristorante Pizzeria Parco Fiera,0,图林,0.0,0.0,0.0
+意大利菜,VyTA Santa Margherita,VyTA Santa Margherita,0,图林,0.0,0.0,0.0
+意大利菜,Emporio Gastronomico,Emporio Gastronomico,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria 101,Ristorante Pizzeria 101,0,图林,0.0,0.0,0.0
+意大利菜,Quanto Basta,Quanto Basta,0,,7.2,7.2,7.2
+意大利菜,Villa Donato,Villa Donato,0,图林,0.0,0.0,0.0
+意大利菜,Basta Parej,Basta Parej,0,图林,0.0,0.0,0.0
+意大利菜,La Piola di San Salvario,La Piola di San Salvario,0,图林,0.0,0.0,0.0
+意大利菜,Osteria Vanchiglia,Osteria Vanchiglia,0,图林,0.0,0.0,0.0
+意大利菜,Dausin,Dausin,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Zeta,Pizzeria Zeta,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Decoratori E Imbianchini,Trattoria Decoratori E Imbianchini,0,图林,0.0,0.0,0.0
+意大利菜,Chez Remo,Chez Remo,0,图林,0.0,0.0,0.0
+意大利菜,The Beef Bieretheque,The Beef Bieretheque,0,图林,0.0,0.0,0.0
+意大利菜,Brasserie Bordeaux,Brasserie Bordeaux,0,图林,0.0,0.0,0.0
+意大利菜,Rossosapore,Rossosapore,0,图林,0.0,0.0,0.0
+意大利菜,Cristina Perino,Cristina Perino,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Cerere,Trattoria Cerere,0,图林,0.0,0.0,0.0
+意大利菜,Sapordivino,Sapordivino,0,图林,0.0,0.0,0.0
+意大利菜,RivaReno,RivaReno,0,图林,0.0,0.0,0.0
+意大利菜,Le Duchesse,Le Duchesse,0,图林,0.0,0.0,0.0
+意大利菜,La Gaia Scienza,La Gaia Scienza,0,图林,0.0,0.0,0.0
+意大利菜,DA GIGI,DA GIGI,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Rosso San Marzano,Pizzeria Ristorante Rosso San Marzano,0,图林,0.0,0.0,0.0
+意大利菜,Sapori di Mare,Sapori di Mare,0,图林,0.0,0.0,0.0
+意大利菜,Osteria del FIAT (Fate Infretta A Tavola),Osteria del FIAT (Fate Infretta A Tavola),0,图林,0.0,0.0,0.0
+意大利菜,Tavola Calda Bollicine,Tavola Calda Bollicine,0,图林,0.0,0.0,0.0
+意大利菜,Mirafiori Cafè,Mirafiori Cafè,0,图林,0.0,0.0,0.0
+意大利菜,Pizzotto,Pizzotto,0,图林,0.0,0.0,0.0
+意大利菜,Il Melograno Srl Self Service fast food,Il Melograno Srl Self Service fast food,0,图林,0.0,0.0,0.0
+意大利菜,Enoteca da Sergio,Enoteca da Sergio,0,图林,0.0,0.0,0.0
+意大利菜,La Capricciosa Ristorante Pizzeria,La Capricciosa Ristorante Pizzeria,0,图林,0.0,0.0,0.0
+意大利菜,Nuovo Picchio,Nuovo Picchio,0,图林,0.0,0.0,0.0
+意大利菜,Cento90due,Cento90due,0,图林,0.0,0.0,0.0
+意大利菜,The City,The City,0,图林,0.0,0.0,0.0
+意大利菜,Fattoria Propolis,Fattoria Propolis,0,图林,0.0,0.0,0.0
+意大利菜,Appennino Pistoiese,Appennino Pistoiese,0,图林,0.0,0.0,0.0
+意大利菜,Taverna Rossa,Taverna Rossa,0,图林,0.0,0.0,0.0
+意大利菜,Pastalandia,Pastalandia,0,图林,0.0,0.0,0.0
+意大利菜,Tiglio di Pan - Agriturismo,Tiglio di Pan - Agriturismo,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante Imbarco Perosino,Ristorante Imbarco Perosino,0,图林,0.0,0.0,0.0
+意大利菜,Passalvario,Passalvario,0,图林,0.0,0.0,0.0
+意大利菜,Le Grupie,Le Grupie,0,图林,0.0,0.0,0.0
+意大利菜,Toto e Martina,Toto e Martina,0,图林,0.0,0.0,0.0
+意大利菜,Marconi,Marconi,0,图林,0.0,0.0,0.0
+意大利菜,Cortile dei Santi - Cose buone dalla Puglia,Cortile dei Santi - Cose buone dalla Puglia,0,图林,0.0,0.0,0.0
+意大利菜,La Petanque Zibarba,La Petanque Zibarba,0,图林,0.0,0.0,0.0
+意大利菜,La Favorita del Fiume,La Favorita del Fiume,0,图林,0.0,0.0,0.0
+意大利菜,Damadama Cafe',Damadama Cafe',0,图林,0.0,0.0,0.0
+意大利菜,Boheme - Per Anime Libere,Boheme - Per Anime Libere,0,图林,0.0,0.0,0.0
+意大利菜,L'OSTU,L'OSTU,0,图林,0.0,0.0,0.0
+意大利菜,J'Amis D' La Piola,J'Amis D' La Piola,0,图林,0.0,0.0,0.0
+意大利菜,Chianti,Chianti,0,图林,0.0,0.0,0.0
+意大利菜,Artinfood,Artinfood,0,图林,0.0,0.0,0.0
+意大利菜,Artisteaks and Drinks,Artisteaks and Drinks,0,图林,0.0,0.0,0.0
+意大利菜,Il Golfo Di Napoli,Il Golfo Di Napoli,0,图林,0.0,0.0,0.0
+意大利菜,The Big Mama Club,The Big Mama Club,0,图林,0.0,0.0,0.0
+意大利菜,El Santo Cocinero Club,El Santo Cocinero Club,0,图林,0.0,0.0,0.0
+意大利菜,Forchettoni,Forchettoni,0,图林,0.0,0.0,0.0
+意大利菜,Gran Bar,Gran Bar,0,图林,0.0,0.0,0.0
+意大利菜,Hennessy Restaurant & Music,Hennessy Restaurant & Music,0,图林,0.0,0.0,0.0
+意大利菜,La Salumeria,La Salumeria,0,图林,0.0,0.0,0.0
+意大利菜,Maison Srl,Maison Srl,0,图林,0.0,0.0,0.0
+意大利菜,La Maison,La Maison,0,图林,0.0,0.0,0.0
+意大利菜,Napul'è,Napul'è,0,图林,0.0,0.0,0.0
+意大利菜,Grey,Grey,0,图林,0.0,0.0,0.0
+意大利菜,Antica Osteria dell'Hermada,Antica Osteria dell'Hermada,0,图林,0.0,0.0,0.0
+意大利菜,Mixto Torino,Mixto Torino,0,图林,0.0,0.0,0.0
+意大利菜,BreK (piazza Carlo Felice),BreK (piazza Carlo Felice),0,图林,0.0,0.0,0.0
+意大利菜,Jazz Club torino,Jazz Club torino,0,图林,0.0,0.0,0.0
+意大利菜,The Bar,The Bar,0,图林,0.0,0.0,0.0
+意大利菜,New College,New College,0,图林,0.0,0.0,0.0
+意大利菜,Chez Gaby,Chez Gaby,0,图林,0.0,0.0,0.0
+意大利菜,Musical Dream,Musical Dream,0,图林,0.0,0.0,0.0
+意大利菜,Confetteria Gabetti,Confetteria Gabetti,0,图林,0.0,0.0,0.0
+意大利菜,Caffe del Progresso,Caffe del Progresso,0,图林,0.0,0.0,0.0
+意大利菜,Bistrot Turin,Bistrot Turin,0,图林,0.0,0.0,0.0
+意大利菜,OY,OY,0,图林,0.0,0.0,0.0
+意大利菜,Focacceria Terre Liguri Via Po Torino,Focacceria Terre Liguri Via Po Torino,0,图林,0.0,0.0,0.0
+意大利菜,Mangio Bin,Mangio Bin,0,图林,0.0,0.0,0.0
+意大利菜,Caffe' Roberto,Caffe' Roberto,0,图林,0.0,0.0,0.0
+意大利菜,Il Cortiletto,Il Cortiletto,0,图林,0.0,0.0,0.0
+意大利菜,Caffe delle Scienze,Caffe delle Scienze,0,图林,0.0,0.0,0.0
+意大利菜,Cristal Bar,Cristal Bar,0,图林,0.0,0.0,0.0
+意大利菜,La Piola di Alfredo,La Piola di Alfredo,0,图林,0.0,0.0,0.0
+意大利菜,Osteria dell'Amicizia,Osteria dell'Amicizia,0,图林,0.0,0.0,0.0
+意大利菜,La Nonna,La Nonna,0,图林,0.0,0.0,0.0
+意大利菜,Pizzeria Al Solito Posto,Pizzeria Al Solito Posto,0,图林,0.0,0.0,0.0
+意大利菜,Piadineria Zerodue,Piadineria Zerodue,0,图林,0.0,0.0,0.0
+意大利菜,Diamond Lounge Bar,Diamond Lounge Bar,0,图林,0.0,0.0,0.0
+意大利菜,Bucaneve,Bucaneve,0,图林,0.0,0.0,0.0
+意大利菜,recalamaro,recalamaro,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria del Grappolo,Trattoria del Grappolo,0,图林,0.0,0.0,0.0
+意大利菜,Osteria degli Artisti,Osteria degli Artisti,0,图林,0.0,0.0,0.0
+意大利菜,Pan Cafè,Pan Cafè,0,图林,0.0,0.0,0.0
+意大利菜,Bar Prosit,Bar Prosit,0,图林,0.0,0.0,0.0
+意大利菜,mica male,mica male,0,图林,0.0,0.0,0.0
+意大利菜,Compagnia del Caffe - Il Caffe di Roma,Compagnia del Caffe - Il Caffe di Roma,0,图林,0.0,0.0,0.0
+意大利菜,Modena 55,Modena 55,0,图林,0.0,0.0,0.0
+意大利菜,Accademia Pub,Accademia Pub,0,图林,0.0,0.0,0.0
+意大利菜,Trattoria Maxipiatto,Trattoria Maxipiatto,0,图林,0.0,0.0,0.0
+意大利菜,Ristorante La dimora di Puccini,Ristorante La dimora di Puccini,0,图林,0.0,0.0,0.0
+意大利菜,Plaza Bar,Plaza Bar,0,图林,0.0,0.0,0.0
+法国菜,Baravan Ristorante - Cucina e Cantina,Baravan Ristorante - Cucina e Cantina,0,图林,0.0,0.0,0.0
+法国菜,La Creperie,La Creperie,0,图林,0.0,0.0,0.0
+法国菜,Kebaguette,Kebaguette,0,图林,0.0,0.0,0.0
+法国菜,La Cabane,La Cabane,0,图林,0.0,0.0,0.0
+法国菜,Le Rouge,Le Rouge,0,图林,0.0,0.0,0.0
+法国菜,Al Bue Rosso,Al Bue Rosso,0,图林,0.0,0.0,0.0
+法国菜,Miss Crepe e Taco,Miss Crepe e Taco,0,图林,0.0,0.0,0.0
+法国菜,La Louche restaurant,La Louche restaurant,0,图林,0.0,0.0,0.0
+法国菜,Al Grassi,Al Grassi,0,图林,0.0,0.0,0.0
+法国菜,Atelier Bistrot Liu,Atelier Bistrot Liu,0,图林,0.0,0.0,0.0
+法国菜,La Creperie,La Creperie,0,,7.1,7.0,7.0
+法国菜,Kebaguette,Kebaguette,0,图林,0.0,0.0,0.0
+法国菜,La Louche restaurant,La Louche restaurant,0,图林,0.0,0.0,0.0
+法国菜,Al Grassi,Al Grassi,0,图林,0.0,0.0,0.0
+墨西哥菜,La Posada Mexicana,La Posada Mexicana,0,图林,0.0,0.0,0.0
+墨西哥菜,La Ranchera de MTY,La Ranchera de MTY,0,图林,0.0,0.0,0.0
+墨西哥菜,Eldorado Tex-Mex,Eldorado Tex-Mex,0,图林,0.0,0.0,0.0
+墨西哥菜,Tacos Locos,Tacos Locos,0,图林,0.0,0.0,0.0
+墨西哥菜,El Cuento Mexicano,El Cuento Mexicano,0,其他,0.0,0.0,0.0
+墨西哥菜,El Centenario,El Centenario,0,图林,0.0,0.0,0.0
+墨西哥菜,Revolucion,Revolucion,0,图林,0.0,0.0,0.0
+墨西哥菜,Las Rosas,Las Rosas,0,图林,0.0,0.0,0.0
+墨西哥菜,America Graffiti Diner Torino,America Graffiti Diner Torino,0,图林,0.0,0.0,0.0
+墨西哥菜,El Pollo Loco,El Pollo Loco,0,图林,0.0,0.0,0.0
+墨西哥菜,Centenario Central,Centenario Central,0,图林,0.0,0.0,0.0
+墨西哥菜,Revolucion Plaza,Revolucion Plaza,0,其他,0.0,0.0,0.0
+墨西哥菜,Old Wild West Torino Stadio,Old Wild West Torino Stadio,0,其他,0.0,0.0,0.0
+墨西哥菜,Tacos Locos,Tacos Locos,0,图林,0.0,0.0,0.0
+墨西哥菜,Mamasita,Mamasita,0,图林,0.0,0.0,0.0
+墨西哥菜,Revolucion Plaza,Revolucion Plaza,0,图林,0.0,0.0,0.0
+墨西哥菜,Revolucion,Revolucion,0,图林,0.0,0.0,0.0
+墨西哥菜,La Posada Mexicana,La Posada Mexicana,0,图林,0.0,0.0,0.0
+墨西哥菜,El Cuento Mexicano,El Cuento Mexicano,0,图林,0.0,0.0,0.0
+墨西哥菜,Eldorado Tex-Mex,Eldorado Tex-Mex,0,图林,0.0,0.0,0.0
+墨西哥菜,Las Rosas,Las Rosas,0,图林,0.0,0.0,0.0
+墨西哥菜,Old Wild West Torino Stadio,Old Wild West Torino Stadio,0,图林,0.0,0.0,0.0
+墨西哥菜,El Centenario,El Centenario,0,图林,0.0,0.0,0.0
+其他西餐,La piadonza,La piadonza,0,图林,0.0,0.0,0.0
+其他西餐,Kebab dell'Università,Kebab dell'Università,0,图林,0.0,0.0,0.0
+其他西餐,Star Istanbul,Star Istanbul,0,图林,0.0,0.0,0.0
+其他西餐,Tropicana,Tropicana,0,图林,0.0,0.0,0.0
+其他西餐,Pasion Ristorante Argentino,Pasion Ristorante Argentino,0,图林,0.0,0.0,0.0
+其他西餐,Pane & Caffè,Pane & Caffè,0,图林,0.0,0.0,0.0
+其他西餐,Nuova Terra Brasili's,Nuova Terra Brasili's,0,图林,0.0,0.0,0.0
+其他西餐,Oinos Vini,Oinos Vini,0,图林,0.0,0.0,0.0
+其他西餐,Cow Burger,Cow Burger,0,图林,0.0,0.0,0.0
+其他西餐,Panificio Guala,Panificio Guala,0,图林,0.0,0.0,0.0
+其他西餐,MuUrGheria,MuUrGheria,0,图林,0.0,0.0,0.0
+其他西餐,Tati' Ristorante,Tati' Ristorante,0,图林,0.0,0.0,0.0
+其他西餐,Persian Food,Persian Food,0,图林,0.0,0.0,0.0
+其他西餐,Da Gregory - Kebab & Pizza,Da Gregory - Kebab & Pizza,0,图林,0.0,0.0,0.0
+其他西餐,I Love Panino,I Love Panino,0,图林,0.0,0.0,0.0
+其他西餐,Paddock Risto Wine Pub,Paddock Risto Wine Pub,0,图林,0.0,0.0,0.0
+其他西餐,Bori's Food Hamburgeria,Bori's Food Hamburgeria,0,图林,0.0,0.0,0.0
+其他西餐,IFood,IFood,0,图林,0.0,0.0,0.0
+其他西餐,Mitico,Mitico,0,图林,0.0,0.0,0.0
+其他西餐,Quanto Basta,Quanto Basta,0,图林,0.0,0.0,0.0
+其他西餐,Osteria del Balòn,Osteria del Balòn,0,图林,0.0,0.0,0.0
+其他西餐,El Andalus,El Andalus,0,图林,0.0,0.0,0.0
+其他西餐,Stringi! Il Gusto Segna,Stringi! Il Gusto Segna,0,图林,0.0,0.0,0.0
+其他西餐,The Maze Restaurant,The Maze Restaurant,0,图林,0.0,0.0,0.0
+其他西餐,Il Ritrovo,Il Ritrovo,0,图林,0.0,0.0,0.0
+其他西餐,Botero the Art of Food,Botero the Art of Food,0,图林,0.0,0.0,0.0
+其他西餐,Fratò,Fratò,0,图林,0.0,0.0,0.0
+其他西餐,Poormanger,Poormanger,0,图林,0.0,0.0,0.0
+其他西餐,Ingrosso Minuto,Ingrosso Minuto,0,图林,0.0,0.0,0.0
+其他西餐,Barbagusto,Barbagusto,0,图林,0.0,0.0,0.0
+其他西餐,Panino Giusto Torino,Panino Giusto Torino,0,图林,0.0,0.0,0.0
+其他西餐,Slurp! - Tuttociochegusto,Slurp! - Tuttociochegusto,0,图林,0.0,0.0,0.0
+其他西餐,Delfino Blu,Delfino Blu,0,图林,0.0,0.0,0.0
+其他西餐,Coven 125,Coven 125,0,图林,0.0,0.0,0.0
+其他西餐,Cake&Coffee,Cake&Coffee,0,图林,0.0,0.0,0.0
+其他西餐,The Duke of Wellington,The Duke of Wellington,0,图林,0.0,0.0,0.0
+其他西餐,Lo Zio Masseria Salentina,Lo Zio Masseria Salentina,0,图林,0.0,0.0,0.0
+其他西餐,Le Barbie're,Le Barbie're,0,图林,0.0,0.0,0.0
+其他西餐,Da Fatima,Da Fatima,0,图林,0.0,0.0,0.0
+其他西餐,Murphy's Pub Six Nations,Murphy's Pub Six Nations,0,图林,0.0,0.0,0.0
+其他西餐,Patasta,Patasta,0,图林,0.0,0.0,0.0
+其他西餐,Griglie Roventi San Mauro,Griglie Roventi San Mauro,0,图林,0.0,0.0,0.0
+其他西餐,M**bun,M**bun,0,图林,0.0,0.0,0.0
+其他西餐,Il Viceversa Osteria Pub,Il Viceversa Osteria Pub,0,图林,0.0,0.0,0.0
+其他西餐,Manzó,Manzó,0,图林,0.0,0.0,0.0
+其他西餐,La Mangiatoja Del Cutre,La Mangiatoja Del Cutre,0,图林,0.0,0.0,0.0
+其他西餐,Osteria Mezzaluna,Osteria Mezzaluna,0,图林,0.0,0.0,0.0
+其他西餐,Le Vitel Etonne,Le Vitel Etonne,0,图林,0.0,0.0,0.0
+其他西餐,Magorabin,Magorabin,0,图林,0.0,0.0,0.0
+其他西餐,Pizzeria Otto e Tre Quarti,Pizzeria Otto e Tre Quarti,0,图林,0.0,0.0,0.0
+其他西餐,Frieda's Pub Torino,Frieda's Pub Torino,0,图林,0.0,0.0,0.0
+其他西餐,Mijuna Wasy,Mijuna Wasy,0,图林,0.0,0.0,0.0
+其他西餐,Algo Màs,Algo Màs,0,图林,0.0,0.0,0.0
+其他西餐,Kebap da Demir,Kebap da Demir,0,图林,0.0,0.0,0.0
+其他西餐,M**Bun,M**Bun,0,图林,0.0,0.0,0.0
+其他西餐,Casablanca Kebab,Casablanca Kebab,0,图林,0.0,0.0,0.0
+其他西餐,Volver,Volver,0,图林,0.0,0.0,0.0
+其他西餐,Shanti,Shanti,0,图林,0.0,0.0,0.0
+其他西餐,La Deutsche Vita,La Deutsche Vita,0,图林,0.0,0.0,0.0
+其他西餐,La Revoltosa,La Revoltosa,0,图林,0.0,0.0,0.0
+其他西餐,Fassoneria,Fassoneria,0,图林,0.0,0.0,0.0
+其他西餐,Merenda Sinoira Torino,Merenda Sinoira Torino,0,图林,0.0,0.0,0.0
+其他西餐,Osteria Il Porto,Osteria Il Porto,0,图林,0.0,0.0,0.0
+其他西餐,Casa del Barolo,Casa del Barolo,0,图林,0.0,0.0,0.0
+其他西餐,Il Tempo Ritrovato,Il Tempo Ritrovato,0,图林,0.0,0.0,0.0
+其他西餐,risTOrante laPiazza - Piazza del Mestieri,risTOrante laPiazza - Piazza del Mestieri,0,图林,0.0,0.0,0.0
+其他西餐,Klec Blazna,Klec Blazna,0,图林,0.0,0.0,0.0
+其他西餐,Griglio,Griglio,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Molo 16,Ristorante Molo 16,0,图林,0.0,0.0,0.0
+其他西餐,La Locanda del Sorriso,La Locanda del Sorriso,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Du Parc,Ristorante Du Parc,0,图林,0.0,0.0,0.0
+其他西餐,Trattoria Bologna,Trattoria Bologna,0,图林,0.0,0.0,0.0
+其他西餐,Pantagruele,Pantagruele,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Pizzeria da Salvo,Ristorante Pizzeria da Salvo,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Adriano,Ristorante Adriano,0,图林,0.0,0.0,0.0
+其他西餐,Pizzeria La Stadera,Pizzeria La Stadera,0,图林,0.0,0.0,0.0
+其他西餐,A,A,0,图林,0.0,0.0,0.0
+其他西餐,La Stadera,La Stadera,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante De Amicis,Ristorante De Amicis,0,图林,0.0,0.0,0.0
+其他西餐,Augusto,Augusto,0,图林,0.0,0.0,0.0
+其他西餐,Mamasita,Mamasita,0,图林,0.0,0.0,0.0
+其他西餐,La Locanda Clandestina,La Locanda Clandestina,0,图林,0.0,0.0,0.0
+其他西餐,Alma Latina,Alma Latina,0,图林,0.0,0.0,0.0
+其他西餐,El Tambo,El Tambo,0,图林,0.0,0.0,0.0
+其他西餐,Spizzico le gru,Spizzico le gru,0,图林,0.0,0.0,0.0
+其他西餐,Cafe Lumiere,Cafe Lumiere,0,图林,0.0,0.0,0.0
+其他西餐,Cacimperio,Cacimperio,0,图林,0.0,0.0,0.0
+其他西餐,La nuova lampara,La nuova lampara,0,图林,0.0,0.0,0.0
+其他西餐,I Sibilla,I Sibilla,0,图林,0.0,0.0,0.0
+其他西餐,Rossopomodoro,Rossopomodoro,0,图林,0.0,0.0,0.0
+其他西餐,Kirkuk Kaffe,Kirkuk Kaffe,0,图林,0.0,0.0,0.0
+其他西餐,Hamburgeria di eataly,Hamburgeria di eataly,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Al Rossini,Ristorante Al Rossini,0,图林,0.0,0.0,0.0
+其他西餐,SHARAZAD,SHARAZAD,0,图林,0.0,0.0,0.0
+其他西餐,La Papagorgia,La Papagorgia,0,图林,0.0,0.0,0.0
+其他西餐,Agnolotti & Friends,Agnolotti & Friends,0,图林,0.0,0.0,0.0
+其他西餐,Sicomoro,Sicomoro,0,图林,0.0,0.0,0.0
+其他西餐,Hafa Cafe',Hafa Cafe',0,图林,0.0,0.0,0.0
+其他西餐,Rooster King,Rooster King,0,图林,0.0,0.0,0.0
+其他西餐,La Dentera,La Dentera,0,图林,0.0,0.0,0.0
+其他西餐,Al Jazira,Al Jazira,0,图林,0.0,0.0,0.0
+其他西餐,Wiener Haus,Wiener Haus,0,图林,0.0,0.0,0.0
+其他西餐,T-Bone Station,T-Bone Station,0,图林,0.0,0.0,0.0
+其他西餐,Keller Bier,Keller Bier,0,图林,0.0,0.0,0.0
+其他西餐,Londrina,Londrina,0,图林,0.0,0.0,0.0
+其他西餐,Porco rosso,Porco rosso,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Pizzeria Corallo,Ristorante Pizzeria Corallo,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Pizzeria Al 4,Ristorante Pizzeria Al 4,0,图林,0.0,0.0,0.0
+其他西餐,Chez Zeina,Chez Zeina,0,图林,0.0,0.0,0.0
+其他西餐,Wiener Haus,Wiener Haus,0,图林,0.0,0.0,0.0
+其他西餐,Rio's,Rio's,0,图林,0.0,0.0,0.0
+其他西餐,Marhaba,Marhaba,0,图林,0.0,0.0,0.0
+其他西餐,Cortile dei Santi - Cose buone dalla Puglia,Cortile dei Santi - Cose buone dalla Puglia,0,图林,0.0,0.0,0.0
+其他西餐,L'Hamburgheria di Eataly,L'Hamburgheria di Eataly,0,图林,0.0,0.0,0.0
+其他西餐,Shakespeare Pub,Shakespeare Pub,0,图林,0.0,0.0,0.0
+其他西餐,La Caravella,La Caravella,0,图林,0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,图林,0.0,0.0,0.0
+其他西餐,Marrakech,Marrakech,0,图林,0.0,0.0,0.0
+其他西餐,Al Andalus,Al Andalus,0,图林,0.0,0.0,0.0
+其他西餐,Roadhouse Grill,Roadhouse Grill,0,图林,0.0,0.0,0.0
+其他西餐,Risto due Leoni,Risto due Leoni,0,图林,0.0,0.0,0.0
+其他西餐,Volver,Volver,0,图林,0.0,0.0,0.0
+其他西餐,Gusto Latino,Gusto Latino,0,图林,0.0,0.0,0.0
+其他西餐,Chicken N Chicken,Chicken N Chicken,0,图林,0.0,0.0,0.0
+其他西餐,Churrascaria Brazil,Churrascaria Brazil,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Pizzeria Capri,Ristorante Pizzeria Capri,0,其他,0.0,0.0,0.0
+其他西餐,MIRO',MIRO',0,其他,0.0,0.0,0.0
+其他西餐,Ristorante La Nassa,Ristorante La Nassa,0,其他,0.0,0.0,0.0
+其他西餐,Sakura,Sakura,0,图林,0.0,0.0,0.0
+其他西餐,Brasileirinho,Brasileirinho,0,图林,0.0,0.0,0.0
+其他西餐,Copa Rio Show,Copa Rio Show,0,图林,0.0,0.0,0.0
+其他西餐,Le ciance,Le ciance,0,图林,0.0,0.0,0.0
+其他西餐,Wiener Haus,Wiener Haus,0,图林,0.0,0.0,0.0
+其他西餐,El borm rivoli,El borm rivoli,0,图林,0.0,0.0,0.0
+其他西餐,Sicomoro,Sicomoro,0,图林,0.0,0.0,0.0
+其他西餐,La Pappagorgia,La Pappagorgia,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Nuova Crocetta,Ristorante Nuova Crocetta,0,图林,0.0,0.0,0.0
+其他西餐,Dai Borboni,Dai Borboni,0,图林,0.0,0.0,0.0
+其他西餐,Banco,Banco,0,图林,0.0,0.0,0.0
+其他西餐,La Betulla,La Betulla,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Pizzeria Piano B,Ristorante Pizzeria Piano B,0,图林,0.0,0.0,0.0
+其他西餐,Il Quarto Miglio,Il Quarto Miglio,0,图林,0.0,0.0,0.0
+其他西餐,Osteria Il Porto,Osteria Il Porto,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Le Vigne,Ristorante Le Vigne,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Perbacco Alfredo in Cucina,Ristorante Perbacco Alfredo in Cucina,0,图林,0.0,0.0,0.0
+其他西餐,Osteria del Balòn,Osteria del Balòn,0,图林,0.0,0.0,0.0
+其他西餐,B*eat the American Bite!,B*eat the American Bite!,0,图林,0.0,0.0,0.0
+其他西餐,Le Vitel Etonne,Le Vitel Etonne,0,图林,0.0,0.0,0.0
+其他西餐,Tropicana,Tropicana,0,图林,0.0,0.0,0.0
+其他西餐,EATALY - Lingotto - LA CARNE,EATALY - Lingotto - LA CARNE,0,图林,0.0,0.0,0.0
+其他西餐,Klec Blazna,Klec Blazna,0,图林,0.0,0.0,0.0
+其他西餐,La Revoltosa,La Revoltosa,0,图林,0.0,0.0,0.0
+其他西餐,Manzó,Manzó,0,图林,0.0,0.0,0.0
+其他西餐,Il Ritrovo,Il Ritrovo,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Flu,Ristorante Flu,0,图林,0.0,0.0,0.0
+其他西餐,Casa del Barolo,Casa del Barolo,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Giovanni,Ristorante Giovanni,0,图林,0.0,0.0,0.0
+其他西餐,Istanbul Star 12,Istanbul Star 12,0,图林,0.0,0.0,0.0
+其他西餐,Marrakech,Marrakech,0,图林,0.0,0.0,0.0
+其他西餐,La casa del kebab,La casa del kebab,0,图林,0.0,0.0,0.0
+其他西餐,Wiener Haus,Wiener Haus,0,图林,0.0,0.0,0.0
+其他西餐,Al Jazira,Al Jazira,0,图林,0.0,0.0,0.0
+其他西餐,Terrazza 1883,Terrazza 1883,0,图林,0.0,0.0,0.0
+其他西餐,Osteria di San Quintino,Osteria di San Quintino,0,图林,0.0,0.0,0.0
+其他西餐,Cow Restaurant,Cow Restaurant,0,图林,0.0,0.0,0.0
+其他西餐,Cow Restaurant,Cow Restaurant,0,图林,0.0,0.0,0.0
+其他西餐,Pizza e kebab Turkish Urfa,Pizza e kebab Turkish Urfa,0,图林,0.0,0.0,0.0
+其他西餐,Mangia e Bevi,Mangia e Bevi,0,图林,0.0,0.0,0.0
+其他西餐,trattoria Serena,trattoria Serena,0,图林,0.0,0.0,0.0
+其他西餐,Santa Sophia Kebab,Santa Sophia Kebab,0,图林,0.0,0.0,0.0
+其他西餐,Londrina,Londrina,0,图林,0.0,0.0,0.0
+其他西餐,Mekan Turkish,Mekan Turkish,0,图林,0.0,0.0,0.0
+其他西餐,Wiener Haus,Wiener Haus,0,图林,0.0,0.0,0.0
+其他西餐,La Fila,La Fila,0,图林,0.0,0.0,0.0
+其他西餐,Sarajevo Balkan City Food Torino,Sarajevo Balkan City Food Torino,0,图林,0.0,0.0,0.0
+其他西餐,Il Ritrovo dei Sapori,Il Ritrovo dei Sapori,0,图林,0.0,0.0,0.0
+其他西餐,Bistronomie,Bistronomie,0,图林,0.0,0.0,0.0
+其他西餐,Hostaria Barbagia di Ollolai,Hostaria Barbagia di Ollolai,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante 1492,Ristorante 1492,0,图林,0.0,0.0,0.0
+其他西餐,Luce e Gas,Luce e Gas,0,图林,0.0,0.0,0.0
+其他西餐,Rosso Piccante in Cucina,Rosso Piccante in Cucina,0,,0.0,0.0,0.0
+其他西餐,Mulassano Bar,Mulassano Bar,0,图林,0.0,0.0,0.0
+其他西餐,La Casa del Demone,La Casa del Demone,0,图林,0.0,0.0,0.0
+其他西餐,Baravan Ristorante - Cucina e Cantina,Baravan Ristorante - Cucina e Cantina,0,图林,0.0,0.0,0.0
+其他西餐,BRISS Due Pesci Fuor d Acqua,BRISS Due Pesci Fuor d Acqua,0,图林,0.0,0.0,0.0
+其他西餐,Bakery Restaurant,Bakery Restaurant,0,图林,0.0,0.0,0.0
+其他西餐,La Badessa,La Badessa,0,图林,0.0,0.0,0.0
+其他西餐,L Antica Sinoira,L Antica Sinoira,0,图林,0.0,0.0,0.0
+其他西餐,Oinos Vini,Oinos Vini,0,图林,0.0,0.0,0.0
+其他西餐,Tati  Ristorante,Tati  Ristorante,0,图林,0.0,0.0,0.0
+其他西餐,Delfino Blu,Delfino Blu,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Piccolo Lord,Ristorante Piccolo Lord,0,图林,0.0,0.0,0.0
+其他西餐,Officine Bohemien,Officine Bohemien,0,图林,0.0,0.0,0.0
+其他西餐,La Monachella,La Monachella,0,图林,0.0,0.0,0.0
+其他西餐,risTOrante laPiazza - Piazza del Mestieri,risTOrante laPiazza - Piazza del Mestieri,0,图林,0.0,0.0,0.0
+其他西餐,Murphy s Pub Six Nations,Murphy s Pub Six Nations,0,图林,0.0,0.0,0.0
+其他西餐,Burgheria - Original Hamburgers,Burgheria - Original Hamburgers,0,图林,0.0,0.0,0.0
+其他西餐,Osteria Mezzaluna,Osteria Mezzaluna,0,图林,0.0,0.0,0.0
+其他西餐,Trattoria Coco s,Trattoria Coco s,0,图林,0.0,0.0,0.0
+其他西餐,Ristorante Pizzeria Capri,Ristorante Pizzeria Capri,0,图林,0.0,0.0,0.0
+其他西餐,MIRO',MIRO',0,图林,0.0,0.0,0.0
+其他西餐,Gar,Gar,0,图林,0.0,0.0,0.0
+其他西餐,Sibiriaki Bugianen,Sibiriaki Bugianen,0,图林,0.0,0.0,0.0
+其他西餐,tre galli,tre galli,0,图林,0.0,0.0,0.0
+其他西餐,Aglio,Aglio,0,图林,0.0,0.0,0.0
+其他西餐,G Ristorante Italiano of the Golden Palace,G Ristorante Italiano of the Golden Palace,0,图林,0.0,0.0,0.0
+其他西餐,Officina Dei Balocchi,Officina Dei Balocchi,0,图林,0.0,0.0,0.0
+其他西餐,Patasta,Patasta,0,图林,0.0,0.0,0.0
+其他西餐,Lo Zio Masseria Salentina,Lo Zio Masseria Salentina,0,图林,0.0,0.0,0.0
+其他西餐,Eataly Incontra,Eataly Incontra,0,图林,0.0,0.0,0.0
+其他西餐,Cacimperio,Cacimperio,0,图林,0.0,0.0,0.0
+其他西餐,Alma Latina,Alma Latina,0,图林,0.0,0.0,0.0
+其他西餐,OTIUM,OTIUM,0,图林,0.0,0.0,0.0
+其他西餐,Alef,Alef,0,图林,0.0,0.0,0.0
+其他西餐,El Andalus,El Andalus,0,图林,0.0,0.0,0.0
+其他西餐,kebap istanbul santasophia,kebap istanbul santasophia,0,图林,0.0,0.0,0.0
+其他西餐,Al Andalus,Al Andalus,0,图林,0.0,0.0,0.0
+中餐,Ristorante Cinese QIU-SONG di Zhou Sui Qin,Ristorante Cinese QIU-SONG di Zhou Sui Qin,0,图林,0.0,0.0,0.0
+中餐,Ristorante Pizzeria Singapore,Ristorante Pizzeria Singapore,0,图林,0.0,0.0,0.0
+中餐,Pechino,Pechino,0,图林,0.0,0.0,0.0
+中餐,Hong Yun,Hong Yun,0,图林,0.0,0.0,0.0
+中餐,Tre gusti,Tre gusti,0,图林,0.0,0.0,0.0
+中餐,Grande Muraglia,Grande Muraglia,0,图林,0.0,0.0,0.0
+中餐,Georgia's Bakery,Georgia's Bakery,0,图林,0.0,0.0,0.0
+中餐,Ben Da,Ben Da,0,图林,0.0,0.0,0.0
+中餐,New Century,New Century,0,图林,0.0,0.0,0.0
+中餐,Ristorante Cinese Ou Hua,Ristorante Cinese Ou Hua,0,图林,0.0,0.0,0.0
+中餐,Hua Dou Cheng,Hua Dou Cheng,0,图林,0.0,0.0,0.0
+中餐,Otello's,Otello's,0,图林,0.0,0.0,0.0
+中餐,Du Cheng,Du Cheng,0,图林,0.0,0.0,0.0
+中餐,Sugy Japanese,Sugy Japanese,0,图林,0.0,0.0,0.0
+中餐,Hong Sheng,Hong Sheng,0,图林,0.0,0.0,0.0
+中餐,Orient Burger,Orient Burger,0,图林,0.0,0.0,0.0
+中餐,Nuovo Jubin,Nuovo Jubin,0,其他,0.0,0.0,0.0
+中餐,Chen Lon,Chen Lon,0,图林,0.0,0.0,0.0
+中餐,Conti di Saluzzo,Conti di Saluzzo,0,图林,0.0,0.0,0.0
+中餐,La frasca,La frasca,0,图林,0.0,0.0,0.0
+中餐,ristorante cinese xin-peng,ristorante cinese xin-peng,0,图林,0.0,0.0,0.0
+中餐,La Nuova Felicita,La Nuova Felicita,0,图林,0.0,0.0,0.0
+中餐,La Pagoda,La Pagoda,0,图林,0.0,0.0,0.0
+中餐,MIshi Mishi,MIshi Mishi,0,其他,0.0,0.0,0.0
+中餐,I Bassitondi,I Bassitondi,0,图林,0.0,0.0,0.0
+中餐,Natsu,Natsu,0,图林,0.0,0.0,0.0
+中餐,Miss Sushi,Miss Sushi,0,图林,0.0,0.0,0.0
+中餐,Castello di Primavera,Castello di Primavera,0,图林,0.0,0.0,0.0
+中餐,Grande Oriente,Grande Oriente,0,图林,0.0,0.0,0.0
+中餐,Hua Li du,Hua Li du,0,图林,0.0,0.0,0.0
+中餐,Ristorante Pizzeria Fiorita,Ristorante Pizzeria Fiorita,0,图林,0.0,0.0,0.0
+中餐,Ying Bing,Ying Bing,0,其他,0.0,0.0,0.0
+中餐,Mister Wang,Mister Wang,0,其他,0.0,0.0,0.0
+中餐,Ristorante Imperial,Ristorante Imperial,0,图林,0.0,0.0,0.0
+中餐,KING HUA,KING HUA,0,图林,0.0,0.0,0.0
+中餐,Ristorante cinese La Giunca,Ristorante cinese La Giunca,0,图林,0.0,0.0,0.0
+中餐,Ristorante Cinese Tientsin,Ristorante Cinese Tientsin,0,图林,0.0,0.0,0.0
+中餐,Il Complice,Il Complice,0,图林,0.0,0.0,0.0
+中餐,Drago & Fenice,Drago & Fenice,0,图林,0.0,0.0,0.0
+中餐,Giardino Fiorito,Giardino Fiorito,0,图林,0.0,0.0,0.0
+中餐,Zhen Bao,Zhen Bao,0,图林,0.0,0.0,0.0
+中餐,La Grande Muraglia,La Grande Muraglia,0,图林,0.0,0.0,0.0
+中餐,La Via della Seta,La Via della Seta,0,图林,0.0,0.0,0.0
+中餐,Yong Jin,Yong Jin,0,图林,0.0,0.0,0.0
+中餐,L'incanto,L'incanto,0,图林,0.0,0.0,0.0
+中餐,la Trottola,la Trottola,0,图林,0.0,0.0,0.0
+中餐,La Felicita,La Felicita,0,图林,0.0,0.0,0.0
+中餐,Garden Wok,Garden Wok,0,图林,0.0,0.0,0.0
+中餐,Ristorante Primo Piano Corso Potenza Torino,Ristorante Primo Piano Corso Potenza Torino,0,图林,0.0,0.0,0.0
+中餐,Wok 168 Torino,Wok 168 Torino,0,图林,0.0,0.0,0.0
+中餐,Jubin,Jubin,0,图林,0.0,0.0,0.0
+中餐,Nihao torino,Nihao torino,0,图林,0.0,0.0,0.0
+中餐,Ristorante I Bassitondi,Ristorante I Bassitondi,0,图林,0.0,0.0,0.0
+中餐,Famiglia Chen,Famiglia Chen,0,图林,0.0,0.0,0.0
+中餐,Di Yang,Di Yang,0,图林,0.0,0.0,0.0
+中餐,Nanchino,Nanchino,0,图林,0.0,0.0,0.0
+中餐,Canton,Canton,0,图林,0.0,0.0,0.0
+中餐,Il Vecchio Posto,Il Vecchio Posto,0,图林,0.0,0.0,0.0
+中餐,Il Rifugio del Mondo,Il Rifugio del Mondo,0,图林,0.0,0.0,0.0
+中餐,In Primo Piano,In Primo Piano,0,图林,0.0,0.0,0.0
+中餐,La Reggia,La Reggia,0,其他,0.0,0.0,0.0
+中餐,Du Cheng,Du Cheng,0,图林,0.0,0.0,0.0
+中餐,Zheng Yang,Zheng Yang,0,图林,0.0,0.0,0.0
+中餐,New Century,New Century,0,图林,0.0,0.0,0.0
+中餐,Ben Da,Ben Da,0,图林,0.0,0.0,0.0
+中餐,Ristorante Cinese Sapori D Oriente Di Hu Linqi,Ristorante Cinese Sapori D Oriente Di Hu Linqi,0,图林,0.0,0.0,0.0
+中餐,New Century SNC Di Hu Zhisheng e Hu Pingping,New Century SNC Di Hu Zhisheng e Hu Pingping,0,图林,0.0,0.0,0.0
+中餐,L incanto,L incanto,0,图林,0.0,0.0,0.0
+中餐,Zhen Bao,Zhen Bao,0,图林,0.0,0.0,0.0
+中餐,Ristorante Cinese QIU-SONG di Zhou Sui Qin,Ristorante Cinese QIU-SONG di Zhou Sui Qin,0,图林,0.0,0.0,0.0
+中餐,Ristorante Pizzeria Fiorita,Ristorante Pizzeria Fiorita,0,图林,0.0,0.0,0.0
+中餐,La Felicita,La Felicita,0,图林,0.0,0.0,0.0
+中餐,La frasca,La frasca,0,图林,0.0,0.0,0.0
+中餐,Sanbao,Sanbao,0,图林,0.0,0.0,0.0
+中餐,Orient Burger,Orient Burger,0,图林,0.0,0.0,0.0
+中餐,Mr Wang,Mr Wang,0,图林,0.0,0.0,0.0
+中餐,Hua Li du,Hua Li du,0,图林,0.0,0.0,0.0
+中餐,Hong Yun,Hong Yun,0,图林,0.0,0.0,0.0
+中餐,la Trottola,la Trottola,0,图林,0.0,0.0,0.0
+中餐,Yong Jin,Yong Jin,0,图林,0.0,0.0,0.0
+中餐,La Via della Seta,La Via della Seta,0,图林,0.0,0.0,0.0
+中餐,Ristorante Cinese Ou Hua,Ristorante Cinese Ou Hua,0,图林,0.0,0.0,0.0
+中餐,Grande Oriente,Grande Oriente,0,图林,0.0,0.0,0.0
+中餐,Ying Bing,Ying Bing,0,图林,0.0,0.0,0.0
+中餐,Garden Wok,Garden Wok,0,图林,0.0,0.0,0.0
+中餐,La Pagoda,La Pagoda,0,图林,0.0,0.0,0.0
+日韩料理,Homu,Homu,0,图林,0.0,0.0,0.0
+日韩料理,Sushi Tei 2 di Hu Stefano,Sushi Tei 2 di Hu Stefano,0,图林,0.0,0.0,0.0
+日韩料理,Sashimi Japanese Restaurant,Sashimi Japanese Restaurant,0,图林,0.0,0.0,0.0
+日韩料理,Kombu,Kombu,0,图林,0.0,0.0,0.0
+日韩料理,Tobiko,Tobiko,0,图林,0.0,0.0,0.0
+日韩料理,Fuzion,Fuzion,0,图林,0.0,0.0,0.0
+日韩料理,Okinawa,Okinawa,0,图林,0.0,0.0,0.0
+日韩料理,Kokoroya,Kokoroya,0,图林,0.0,0.0,0.0
+日韩料理,ristorante giapponese hana sushi,ristorante giapponese hana sushi,0,图林,0.0,0.0,0.0
+日韩料理,Kombu,Kombu,0,图林,0.0,0.0,0.0
+日韩料理,Akademi Sushi,Akademi Sushi,0,图林,0.0,0.0,0.0
+日韩料理,Kirin,Kirin,0,图林,0.0,0.0,0.0
+日韩料理,To Go - Pizza e Sushi,To Go - Pizza e Sushi,0,图林,0.0,0.0,0.0
+日韩料理,Sushiko Kaiten,Sushiko Kaiten,0,图林,0.0,0.0,0.0
+日韩料理,Kata Radja,Kata Radja,0,图林,0.0,0.0,0.0
+日韩料理,Daiichi Po,Daiichi Po,0,图林,0.0,0.0,0.0
+日韩料理,Japs! Savoia,Japs! Savoia,0,图林,0.0,0.0,0.0
+日韩料理,Oinos,Oinos,0,图林,0.0,0.0,0.0
+日韩料理,Martial Arts Cafe,Martial Arts Cafe,0,其他,0.0,0.0,0.0
+日韩料理,Japs! crocetta,Japs! crocetta,0,图林,0.0,0.0,0.0
+日韩料理,Kyshi Japanese Restaurant,Kyshi Japanese Restaurant,0,图林,0.0,0.0,0.0
+日韩料理,Oriental Daily by Kiki,Oriental Daily by Kiki,0,图林,0.0,0.0,0.0
+日韩料理,Torino,Torino,0,图林,0.0,0.0,0.0
+日韩料理,Sol Levante,Sol Levante,0,其他,0.0,0.0,0.0
+日韩料理,ZEN japanese fusion restaurant,ZEN japanese fusion restaurant,0,图林,0.0,0.0,0.0
+日韩料理,Oishi!,Oishi!,0,图林,0.0,0.0,0.0
+日韩料理,Shizen,Shizen,0,图林,0.0,0.0,0.0
+日韩料理,MIkien,MIkien,0,图林,0.0,0.0,0.0
+日韩料理,Kobe Restaurant,Kobe Restaurant,0,图林,0.0,0.0,0.0
+日韩料理,Wasabi,Wasabi,0,图林,0.0,0.0,0.0
+日韩料理,Sushi at Home,Sushi at Home,0,图林,0.0,0.0,0.0
+日韩料理,Sushito Japanese Fusion Restaurant,Sushito Japanese Fusion Restaurant,0,图林,0.0,0.0,0.0
+日韩料理,Daiichi,Daiichi,0,图林,0.0,0.0,0.0
+日韩料理,dod's Delicious Oriental Delicatessen,dod's Delicious Oriental Delicatessen,0,图林,0.0,0.0,0.0
+日韩料理,Kombu,Kombu,0,图林,0.0,0.0,0.0
+日韩料理,Yoshi,Yoshi,0,图林,0.0,0.0,0.0
+日韩料理,Ohashi,Ohashi,0,图林,0.0,0.0,0.0
+日韩料理,"Sushiko, Parco Dora","Sushiko, Parco Dora",0,图林,0.0,0.0,0.0
+日韩料理,Osaka,Osaka,0,图林,0.0,0.0,0.0
+日韩料理,Ristorante Giapponese Ichi,Ristorante Giapponese Ichi,0,图林,0.0,0.0,0.0
+日韩料理,Sushisound,Sushisound,0,图林,0.0,0.0,0.0
+日韩料理,Voga sushi take away,Voga sushi take away,0,图林,0.0,0.0,0.0
+日韩料理,Higashi,Higashi,0,图林,0.0,0.0,0.0
+日韩料理,Sole,Sole,0,图林,0.0,0.0,0.0
+日韩料理,Sushizumi,Sushizumi,0,图林,0.0,0.0,0.0
+日韩料理,Arthur's,Arthur's,0,图林,0.0,0.0,0.0
+日韩料理,Senmiya,Senmiya,0,图林,0.0,0.0,0.0
+日韩料理,Fujiyama,Fujiyama,0,图林,0.0,0.0,0.0
+日韩料理,Sen mya,Sen mya,0,图林,0.0,0.0,0.0
+日韩料理,Sosushi,Sosushi,0,图林,0.0,0.0,0.0
+日韩料理,nagoya,nagoya,0,图林,0.0,0.0,0.0
+日韩料理,Hokkaido,Hokkaido,0,图林,0.0,0.0,0.0
+日韩料理,Kyoto,Kyoto,0,图林,0.0,0.0,0.0
+日韩料理,Japs! Sansalvario,Japs! Sansalvario,0,图林,0.0,0.0,0.0
+日韩料理,Teriyaki Experience,Teriyaki Experience,0,图林,0.0,0.0,0.0
+日韩料理,Il Paradiso Del Palato,Il Paradiso Del Palato,0,图林,0.0,0.0,0.0
+日韩料理,Giza Sushi King,Giza Sushi King,0,图林,0.0,0.0,0.0
+日韩料理,Torino sushi,Torino sushi,0,图林,0.0,0.0,0.0
+日韩料理,Tokio restaurant,Tokio restaurant,0,图林,0.0,0.0,0.0
+日韩料理,Grande Bambu,Grande Bambu,0,图林,0.0,0.0,0.0
+日韩料理,EBI SUSHI,EBI SUSHI,0,图林,0.0,0.0,0.0
+日韩料理,MIkien,MIkien,0,图林,0.0,0.0,0.0
+日韩料理,shizen japanese,shizen japanese,0,图林,0.0,0.0,0.0
+日韩料理,Sushito Japanese Fusion Restaurant,Sushito Japanese Fusion Restaurant,0,图林,0.0,0.0,0.0
+日韩料理,Sen Mi Ya,Sen Mi Ya,0,图林,0.0,0.0,0.0
+日韩料理,Kombu,Kombu,0,图林,0.0,0.0,0.0
+日韩料理,Daiichi Po,Daiichi Po,0,图林,0.0,0.0,0.0
+日韩料理,Yoshi,Yoshi,0,图林,0.0,0.0,0.0
+日韩料理,Sudhiko,Sudhiko,0,图林,0.0,0.0,0.0
+日韩料理,Kombu,Kombu,0,图林,0.0,0.0,0.0
+日韩料理,Arthur s,Arthur s,0,图林,0.0,0.0,0.0
+日韩料理,Xia Ristorante Giapponese,Xia Ristorante Giapponese,0,图林,0.0,0.0,0.0
+日韩料理,ristorante Fusjiama,ristorante Fusjiama,0,图林,0.0,0.0,0.0
+日韩料理,Japs! crocetta,Japs! crocetta,0,图林,0.0,0.0,0.0
+日韩料理,Japs! Centrale,Japs! Centrale,0,图林,0.0,0.0,0.0
+日韩料理,Oriental Daily by Kiki,Oriental Daily by Kiki,0,图林,0.0,0.0,0.0
+日韩料理,Homu,Homu,0,图林,0.0,0.0,0.0
+日韩料理,Sol Levante,Sol Levante,0,图林,0.0,0.0,0.0
+日韩料理,Wasabi,Wasabi,0,图林,0.0,0.0,0.0
+日韩料理,Kokoroya,Kokoroya,0,图林,0.0,0.0,0.0
+日韩料理,Kobe Restaurant,Kobe Restaurant,0,图林,0.0,0.0,0.0
+日韩料理,Nishiki,Nishiki,0,图林,0.0,0.0,0.0
+日韩料理,Tobiko,Tobiko,0,图林,0.0,0.0,0.0
+日韩料理,Akademi Sushi,Akademi Sushi,0,图林,0.0,0.0,0.0
+日韩料理,Japs! Savoia,Japs! Savoia,0,图林,0.0,0.0,0.0
+日韩料理,Sen mya,Sen mya,0,图林,0.0,0.0,0.0
+日韩料理,Teriyaki Experience,Teriyaki Experience,0,图林,0.0,0.0,0.0
+日韩料理,"Sushiko, Parco Dora","Sushiko, Parco Dora",0,图林,0.0,0.0,0.0
+日韩料理,Ohashi,Ohashi,0,图林,0.0,0.0,0.0
+日韩料理,Sashimi Japanese Restaurant,Sashimi Japanese Restaurant,0,图林,0.0,0.0,0.0
+日韩料理,Kyshi Japanese Restaurant,Kyshi Japanese Restaurant,0,图林,0.0,0.0,0.0
+日韩料理,Sushiko Kaiten,Sushiko Kaiten,0,图林,0.0,0.0,0.0
+日韩料理,Fujiyama,Fujiyama,0,图林,0.0,0.0,0.0
+日韩料理,Sugy Japanese,Sugy Japanese,0,图林,0.0,0.0,0.0
+日韩料理,Sushi at Home,Sushi at Home,0,图林,0.0,0.0,0.0
+日韩料理,Martial Arts Cafe,Martial Arts Cafe,0,图林,0.0,0.0,0.0
+日韩料理,Senmiya,Senmiya,0,图林,0.0,0.0,0.0
+更多亚洲菜,Toros,Toros,0,图林,0.0,0.0,0.0
+更多亚洲菜,kebap istanbul santasophia,kebap istanbul santasophia,0,图林,0.0,0.0,0.0
+更多亚洲菜,Da AYDIN pizza & kebap,Da AYDIN pizza & kebap,0,其他,0.0,0.0,0.0
+更多亚洲菜,Pura Vida Torino,Pura Vida Torino,0,图林,0.0,0.0,0.0
+更多亚洲菜,Kappa 2,Kappa 2,0,图林,0.0,0.0,0.0
+更多亚洲菜,Torino,Torino,0,图林,0.0,0.0,0.0
+更多亚洲菜,La casa del kebab,La casa del kebab,0,图林,0.0,0.0,0.0
+更多亚洲菜,Tiger Wok Society,Tiger Wok Society,0,图林,0.0,0.0,0.0
+更多亚洲菜,Curry & Co,Curry & Co,0,图林,0.0,0.0,0.0
+更多亚洲菜,Namaste India,Namaste India,0,图林,0.0,0.0,0.0
+更多亚洲菜,Asian Fusion,Asian Fusion,0,图林,0.0,0.0,0.0
+更多亚洲菜,Punjab,Punjab,0,图林,0.0,0.0,0.0
+更多亚洲菜,Simini,Simini,0,图林,0.0,0.0,0.0
+更多亚洲菜,Str.eat,Str.eat,0,图林,0.0,0.0,0.0
+更多亚洲菜,Ramses Pizzeria,Ramses Pizzeria,0,图林,0.0,0.0,0.0
+更多亚洲菜,Ristorante Indiano-Pakistano Curry Zone,Ristorante Indiano-Pakistano Curry Zone,0,图林,0.0,0.0,0.0
+更多亚洲菜,Yoshi,Yoshi,0,图林,0.0,0.0,0.0
+更多亚洲菜,L'isola del Pescatore,L'isola del Pescatore,0,图林,0.0,0.0,0.0
+更多亚洲菜,Kebap da Demir,Kebap da Demir,0,图林,0.0,0.0,0.0
+更多亚洲菜,The Isle of Skye Scottish Pub,The Isle of Skye Scottish Pub,0,图林,0.0,0.0,0.0
+更多亚洲菜,Italians Wok Better,Italians Wok Better,0,图林,0.0,0.0,0.0
+更多亚洲菜,Sindbad,Sindbad,0,图林,0.0,0.0,0.0
+更多亚洲菜,Karmacola,Karmacola,0,图林,0.0,0.0,0.0
+更多亚洲菜,Mekan Turkish,Mekan Turkish,0,图林,0.0,0.0,0.0
+更多亚洲菜,Mr Wang,Mr Wang,0,图林,0.0,0.0,0.0
+更多亚洲菜,Ristorante Indiano Taj Mahal,Ristorante Indiano Taj Mahal,0,图林,0.0,0.0,0.0
+更多亚洲菜,Ristorante Indiano Gandhi,Ristorante Indiano Gandhi,0,图林,0.0,0.0,0.0
+更多亚洲菜,Ristorante Indiano Jaipur,Ristorante Indiano Jaipur,0,图林,0.0,0.0,0.0
+更多亚洲菜,Passaggio in India,Passaggio in India,0,图林,0.0,0.0,0.0
+更多亚洲菜,Ristorante Pizzeria Jinjiang,Ristorante Pizzeria Jinjiang,0,图林,0.0,0.0,0.0
+更多亚洲菜,Indian Street Food,Indian Street Food,0,图林,0.0,0.0,0.0
+更多亚洲菜,Alef,Alef,0,图林,0.0,0.0,0.0
+更多亚洲菜,OTIUM,OTIUM,0,图林,0.0,0.0,0.0
+更多亚洲菜,Ristorante Asia,Ristorante Asia,0,图林,0.0,0.0,0.0
+更多亚洲菜,K2,K2,0,图林,0.0,0.0,0.0
+更多亚洲菜,Sushi Yu,Sushi Yu,0,图林,0.0,0.0,0.0
+更多亚洲菜,Kashmir,Kashmir,0,图林,0.0,0.0,0.0
+更多亚洲菜,Kohi Noor,Kohi Noor,0,图林,0.0,0.0,0.0
+更多亚洲菜,The Mongolian Barbecue,The Mongolian Barbecue,0,图林,0.0,0.0,0.0
+更多亚洲菜,Ristorante Indiano Surya,Ristorante Indiano Surya,0,图林,0.0,0.0,0.0
+更多亚洲菜,Gran Buffet,Gran Buffet,0,图林,0.0,0.0,0.0
+更多亚洲菜,Italians Wok Better,Italians Wok Better,0,图林,0.0,0.0,0.0
+更多亚洲菜,Yoshi,Yoshi,0,图林,0.0,0.0,0.0
+更多亚洲菜,Ristorante Indiano-Pakistano Curry Zone,Ristorante Indiano-Pakistano Curry Zone,0,图林,0.0,0.0,0.0
+更多亚洲菜,Daiichi,Daiichi,0,图林,0.0,0.0,0.0
+更多亚洲菜,Riccardo,Riccardo,0,图林,0.0,0.0,0.0
+更多亚洲菜,K2,K2,0,图林,0.0,0.0,0.0
+更多亚洲菜,Ristorante Pizzeria Singapore,Ristorante Pizzeria Singapore,0,图林,0.0,0.0,0.0
+更多亚洲菜,Karmacola,Karmacola,0,图林,0.0,0.0,0.0
+更多亚洲菜,Namaste India,Namaste India,0,图林,0.0,0.0,0.0
+更多亚洲菜,Mai Thai,Mai Thai,0,图林,0.0,0.0,0.0
+更多亚洲菜,Tiger Wok Society,Tiger Wok Society,0,图林,0.0,0.0,0.0
+更多亚洲菜,L isola del Pescatore,L isola del Pescatore,0,图林,0.0,0.0,0.0
+更多亚洲菜,Curry,Curry,0,图林,0.0,0.0,0.0
+更多亚洲菜,dod s Delicious Oriental Delicatessen,dod s Delicious Oriental Delicatessen,0,图林,0.0,0.0,0.0
+更多亚洲菜,Torino,Torino,0,图林,0.0,0.0,0.0
+更多亚洲菜,Pura Vida Torino,Pura Vida Torino,0,图林,0.0,0.0,0.0
+更多亚洲菜,Fuzion,Fuzion,0,图林,0.0,0.0,0.0
+更多亚洲菜,Asian Fusion,Asian Fusion,0,图林,0.0,0.0,0.0
+快餐简餐,Old Wild West,Old Wild West,0,图林,6.7,8.4,7.5
+快餐简餐,La Piccola Bottega delle Torte,La Piccola Bottega delle Torte,0,图林,0.0,0.0,0.0
+快餐简餐,Da Mimmo Pizza Al Gratin,Da Mimmo Pizza Al Gratin,0,图林,0.0,0.0,0.0
+快餐简餐,Bruzzone,Bruzzone,0,图林,0.0,0.0,0.0
+快餐简餐,Caferevolta,Caferevolta,0,图林,0.0,0.0,0.0
+快餐简餐,Dolce e Salato,Dolce e Salato,0,图林,0.0,0.0,0.0
+快餐简餐,La Casa del Demone,La Casa del Demone,0,图林,0.0,0.0,0.0
+快餐简餐,PaninHour Torino,PaninHour Torino,0,图林,0.0,0.0,0.0
+快餐简餐,Moi Moi Gastronomia Salentina,Moi Moi Gastronomia Salentina,0,其他,0.0,0.0,0.0
+快餐简餐,Brule,Brule,0,图林,0.0,0.0,0.0
+快餐简餐,Don Panino,Don Panino,0,图林,0.0,0.0,0.0
+快餐简餐,SANTA POLENTA,SANTA POLENTA,0,图林,0.0,0.0,0.0
+快餐简餐,Cibo Container Bistrot,Cibo Container Bistrot,0,图林,0.0,0.0,0.0
+快餐简餐,B*eat the American Bite!,B*eat the American Bite!,0,图林,0.0,0.0,0.0
+快餐简餐,Tramezzino.it Caffè Vergnano Torino,Tramezzino.it Caffè Vergnano Torino,0,图林,0.0,0.0,0.0
+快餐简餐,Burgheria - Original Hamburgers & Fries,Burgheria - Original Hamburgers & Fries,0,图林,0.0,0.0,0.0
+快餐简餐,gastronomia miglietta,gastronomia miglietta,0,图林,0.0,0.0,0.0
+快餐简餐,Bistekkone,Bistekkone,0,图林,0.0,0.0,0.0
+快餐简餐,Eldorado Tex-Mex,Eldorado Tex-Mex,0,图林,0.0,0.0,0.0
+快餐简餐,Petit Baladin,Petit Baladin,0,图林,0.0,0.0,0.0
+快餐简餐,Pizza and Fish,Pizza and Fish,0,图林,0.0,0.0,0.0
+快餐简餐,#MY! EcoSmartFood,#MY! EcoSmartFood,0,图林,0.0,0.0,0.0
+快餐简餐,Berlicabarbis,Berlicabarbis,0,图林,0.0,0.0,0.0
+快餐简餐,Pub Sherlock Holmes,Pub Sherlock Holmes,0,图林,0.0,0.0,0.0
+快餐简餐,Hamburgeria Slowburger,Hamburgeria Slowburger,0,图林,0.0,0.0,0.0
+快餐简餐,Dezzutto,Dezzutto,0,图林,0.0,0.0,0.0
+快餐简餐,Universo Vegano,Universo Vegano,0,图林,0.0,0.0,0.0
+快餐简餐,Astoria Bar & Basement,Astoria Bar & Basement,0,图林,0.0,0.0,0.0
+快餐简餐,Old Wild West,Old Wild West,0,图林,0.0,0.0,0.0
+快餐简餐,Rosso Sapore Torino Centro,Rosso Sapore Torino Centro,0,图林,0.0,0.0,0.0
+快餐简餐,ROSADA,ROSADA,0,图林,0.0,0.0,0.0
+快餐简餐,Rat New York Coffee Shop,Rat New York Coffee Shop,0,图林,0.0,0.0,0.0
+快餐简餐,La Reserve,La Reserve,0,图林,0.0,0.0,0.0
+快餐简餐,Fassoneria,Fassoneria,0,图林,0.0,0.0,0.0
+快餐简餐,Dirty Dick,Dirty Dick,0,图林,0.0,0.0,0.0
+快餐简餐,Wok N Roll Noodle Bar,Wok N Roll Noodle Bar,0,图林,0.0,0.0,0.0
+快餐简餐,Mitico,Mitico,0,图林,0.0,0.0,0.0
+快餐简餐,Dual,Dual,0,图林,0.0,0.0,0.0
+快餐简餐,Il Viceversa Osteria Pub,Il Viceversa Osteria Pub,0,图林,0.0,0.0,0.0
+快餐简餐,Parco Michelotti,Parco Michelotti,0,图林,0.0,0.0,0.0
+快餐简餐,L altra Piadineria,L altra Piadineria,0,图林,0.0,0.0,0.0
+快餐简餐,IL Panozio,IL Panozio,0,图林,0.0,0.0,0.0
+快餐简餐,Blah Blah,Blah Blah,0,图林,0.0,0.0,0.0
+快餐简餐,Caffe Mancini,Caffe Mancini,0,图林,0.0,0.0,0.0
+快餐简餐,Frieda s Pub Torino,Frieda s Pub Torino,0,图林,0.0,0.0,0.0
+快餐简餐,Algo Màs,Algo Màs,0,图林,0.0,0.0,0.0
+快餐简餐,Focacceria Riviera Ligure Snc Di,Focacceria Riviera Ligure Snc Di,0,图林,0.0,0.0,0.0
+快餐简餐,FINAL Pub - Hamburgeria,FINAL Pub - Hamburgeria,0,图林,0.0,0.0,0.0
+快餐简餐,Sweet Lab,Sweet Lab,0,图林,0.0,0.0,0.0
+快餐简餐,La Mangiatoja Del Cutre,La Mangiatoja Del Cutre,0,图林,0.0,0.0,0.0
+快餐简餐,Mini MUU  Cocktail Bar,Mini MUU  Cocktail Bar,0,图林,0.0,0.0,0.0
+快餐简餐,Panino Giusto Torino,Panino Giusto Torino,0,图林,0.0,0.0,0.0
+快餐简餐,Mordillo,Mordillo,0,图林,0.0,0.0,0.0
+快餐简餐,La Creperie,La Creperie,0,图林,0.0,0.0,0.0
+快餐简餐,MuUrGheria,MuUrGheria,0,图林,0.0,0.0,0.0
+快餐简餐,Convitto Cafe Bistrot Torteria,Convitto Cafe Bistrot Torteria,0,图林,0.0,0.0,0.0
+快餐简餐,Griglio,Griglio,0,图林,0.0,0.0,0.0
+快餐简餐,Panesalame,Panesalame,0,图林,0.0,0.0,0.0
+快餐简餐,Gradisca (piadineria),Gradisca (piadineria),0,图林,0.0,0.0,0.0
+快餐简餐,Soup,Soup,0,图林,0.0,0.0,0.0
+快餐简餐,Kebab dell Università,Kebab dell Università,0,图林,0.0,0.0,0.0
+快餐简餐,Taco Bang,Taco Bang,0,图林,0.0,0.0,0.0
+快餐简餐,Caffetteria D Azeglio,Caffetteria D Azeglio,0,图林,0.0,0.0,0.0
+快餐简餐,Mister Hot-Dog,Mister Hot-Dog,0,图林,0.0,0.0,0.0
+快餐简餐,I Love Panino,I Love Panino,0,图林,0.0,0.0,0.0
+快餐简餐,Paddock Risto Wine Pub,Paddock Risto Wine Pub,0,图林,0.0,0.0,0.0
+快餐简餐,M**Bun,M**Bun,0,图林,0.0,0.0,0.0
+快餐简餐,El Rapido,El Rapido,0,图林,0.0,0.0,0.0
+快餐简餐,Bar Zucca,Bar Zucca,0,图林,0.0,0.0,0.0
+快餐简餐,Rooster King,Rooster King,0,图林,0.0,0.0,0.0
+快餐简餐,Bentornati alla Tradizione,Bentornati alla Tradizione,0,图林,0.0,0.0,0.0
+快餐简餐,A Picciridda Eat Sicily,A Picciridda Eat Sicily,0,图林,0.0,0.0,0.0
+快餐简餐,PiadiNizza,PiadiNizza,0,图林,0.0,0.0,0.0
+快餐简餐,The Duke of Wellington,The Duke of Wellington,0,图林,0.0,0.0,0.0
+快餐简餐,Gramsci,Gramsci,0,图林,0.0,0.0,0.0
+快餐简餐,华侨中餐馆,华侨中餐馆,0,,0.0,0.0,0.0
+快餐简餐,Bori s Food Hamburgeria,Bori s Food Hamburgeria,0,图林,0.0,0.0,0.0
+快餐简餐,La Piadineria,La Piadineria,0,图林,0.0,0.0,0.0
+快餐简餐,Pulp kitchen torino,Pulp kitchen torino,0,图林,0.0,0.0,0.0
+快餐简餐,Hamburgeria di eataly,Hamburgeria di eataly,0,图林,0.0,0.0,0.0
+快餐简餐,BEAU BAR,BEAU BAR,0,图林,0.0,0.0,0.0
+快餐简餐,MiaGola Caffe,MiaGola Caffe,0,图林,0.0,0.0,0.0
+快餐简餐,Stringi! Il Gusto Segna,Stringi! Il Gusto Segna,0,图林,0.0,0.0,0.0
+快餐简餐,Ricreazione,Ricreazione,0,图林,0.0,0.0,0.0
+快餐简餐,L Hamburgheria di Eataly,L Hamburgheria di Eataly,0,图林,0.0,0.0,0.0
+快餐简餐,Da Gregory - Kebab,Da Gregory - Kebab,0,图林,0.0,0.0,0.0
+快餐简餐,Master Sandwich,Master Sandwich,0,图林,0.0,0.0,0.0
+海鲜,Circolo del Convivio,Circolo del Convivio,0,图林,0.0,0.0,0.0
+海鲜,Ristorante Giovanni,Ristorante Giovanni,0,图林,0.0,0.0,0.0
+海鲜,Altamarea,Altamarea,0,图林,0.0,0.0,0.0
+海鲜,Golosamente da Ricky,Golosamente da Ricky,0,图林,0.0,0.0,0.0
+海鲜,Il Veliero,Il Veliero,0,图林,0.0,0.0,0.0
+海鲜,Eataly- lingotto- ristorante del pesce,Eataly- lingotto- ristorante del pesce,0,图林,0.0,0.0,0.0
+海鲜,Osteria Civassa,Osteria Civassa,0,图林,0.0,0.0,0.0
+海鲜,La Piccola Trattoria,La Piccola Trattoria,0,其他,0.0,0.0,0.0
+海鲜,Lo Stonnato,Lo Stonnato,0,图林,0.0,0.0,0.0
+海鲜,Al solito posto,Al solito posto,0,其他,0.0,0.0,0.0
+海鲜,Caffetteria dell'Universita,Caffetteria dell'Universita,0,其他,0.0,0.0,0.0
+海鲜,Fish and,Fish and,0,图林,0.0,0.0,0.0
+海鲜,Planet Risto Cafe,Planet Risto Cafe,0,图林,0.0,0.0,0.0
+海鲜,Ruggine,Ruggine,0,图林,0.0,0.0,0.0
+海鲜,L'Ammiraglia,L'Ammiraglia,0,图林,0.0,0.0,0.0
+海鲜,Altamarea,Altamarea,0,图林,0.0,0.0,0.0
+海鲜,L Ammiraglia,L Ammiraglia,0,图林,0.0,0.0,0.0
+海鲜,TRATTORIA AUSILIATRICE,TRATTORIA AUSILIATRICE,0,图林,0.0,0.0,0.0
+海鲜,La Piccola Trattoria,La Piccola Trattoria,0,图林,0.0,0.0,0.0
+海鲜,Golosamente da Ricky,Golosamente da Ricky,0,图林,0.0,0.0,0.0
+海鲜,Circolo del Convivio,Circolo del Convivio,0,图林,0.0,0.0,0.0
+海鲜,Lo Stonnato,Lo Stonnato,0,图林,0.0,0.0,0.0
+海鲜,Il Barone,Il Barone,0,图林,0.0,0.0,0.0
+烧烤,Bar Pasticceria Uva,Bar Pasticceria Uva,0,图林,0.0,0.0,0.0
+烧烤,Oven Restaurant,Oven Restaurant,0,图林,0.0,0.0,0.0
+烧烤,Manzó,Manzó,0,图林,0.0,0.0,0.0
+烧烤,Sarajevo Balkan City Food Torino,Sarajevo Balkan City Food Torino,0,图林,0.0,0.0,0.0
+烧烤,Il Maglio cocktail&grill,Il Maglio cocktail&grill,0,图林,0.0,0.0,0.0
+烧烤,Macelleria Griglieria Allosso,Macelleria Griglieria Allosso,0,图林,0.0,0.0,0.0
+烧烤,Linopassamilvino Fast,Linopassamilvino Fast,0,图林,0.0,0.0,0.0
+烧烤,BBQ,BBQ,0,图林,0.0,0.0,0.0
+烧烤,Estrela do Sul,Estrela do Sul,0,图林,0.0,0.0,0.0
+烧烤,Old Wild West,Old Wild West,0,图林,0.0,0.0,0.0
+烧烤,Bar Pasticceria Uva,Bar Pasticceria Uva,0,图林,0.0,0.0,0.0
+烧烤,Il Maglio cocktail,Il Maglio cocktail,0,图林,0.0,0.0,0.0
+烧烤,Pasion Ristorante Argentino,Pasion Ristorante Argentino,0,图林,0.0,0.0,0.0
+烧烤,Brasil Musuc,Brasil Musuc,0,图林,0.0,0.0,0.0
+比萨,Azzurra,Azzurra,0,其他,0.0,0.0,0.0
+比萨,E' pizza Takeaway Anyway,E' pizza Takeaway Anyway,0,其他,0.0,0.0,0.0
+比萨,"Pizza Al Tegamino, Focacceria Ligure Da Moreno","Pizza Al Tegamino, Focacceria Ligure Da Moreno",0,图林,0.0,0.0,0.0
+比萨,Pizzeria Kiromina,Pizzeria Kiromina,0,图林,0.0,0.0,0.0
+比萨,DA Pecchia Pizzeria E Sfizi Napoletani,DA Pecchia Pizzeria E Sfizi Napoletani,0,其他,0.0,0.0,0.0
+比萨,Pizzeria dal Geo torino,Pizzeria dal Geo torino,0,图林,0.0,0.0,0.0
+比萨,La Chiacchiera,La Chiacchiera,0,图林,0.0,0.0,0.0
+比萨,Bar ristorante centro,Bar ristorante centro,0,其他,0.0,0.0,0.0
+比萨,Abat Jour,Abat Jour,0,图林,0.0,0.0,0.0
+比萨,Peccato di gola,Peccato di gola,0,图林,0.0,0.0,0.0
+比萨,Il Quadrifoglio,Il Quadrifoglio,0,图林,0.0,0.0,0.0
+比萨,Il Timone Pizzeria,Il Timone Pizzeria,0,图林,0.0,0.0,0.0
+比萨,Da Ciccillo,Da Ciccillo,0,图林,0.0,0.0,0.0
+比萨,Fonti Minerali Rifugio,Fonti Minerali Rifugio,0,图林,0.0,0.0,0.0
+比萨,Girarrosto Sanpaolo Da Zio Hani,Girarrosto Sanpaolo Da Zio Hani,0,图林,0.0,0.0,0.0
+比萨,Antica Pizzeria del Borgo,Antica Pizzeria del Borgo,0,图林,0.0,0.0,0.0
+比萨,Barbaroux Pizza,Barbaroux Pizza,0,图林,0.0,0.0,0.0
+比萨,Coco Babe,Coco Babe,0,图林,0.0,0.0,0.0
+比萨,Taglio,Taglio,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Pinocchio,Pizzeria Pinocchio,0,图林,0.0,0.0,0.0
+比萨,Scivoland Park,Scivoland Park,0,图林,0.0,0.0,0.0
+比萨,Trattoria Pizzeria Regina 224 Torino,Trattoria Pizzeria Regina 224 Torino,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Sa Crocoriga,Pizzeria Sa Crocoriga,0,图林,0.0,0.0,0.0
+比萨,Pizza Domus,Pizza Domus,0,其他,0.0,0.0,0.0
+比萨,A Casa di Pulcinella,A Casa di Pulcinella,0,图林,0.0,0.0,0.0
+比萨,Mitiko,Mitiko,0,图林,0.0,0.0,0.0
+比萨,Cacio & Pepe,Cacio & Pepe,0,图林,0.0,0.0,0.0
+比萨,Pizzeria l'Orchidea,Pizzeria l'Orchidea,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Don Peppino,Pizzeria Don Peppino,0,图林,0.0,0.0,0.0
+比萨,Blue Bird,Blue Bird,0,图林,0.0,0.0,0.0
+比萨,Cammafa,Cammafa,0,图林,0.0,0.0,0.0
+比萨,Tre Scalini Sas,Tre Scalini Sas,0,图林,0.0,0.0,0.0
+比萨,Andromeda,Andromeda,0,图林,0.0,0.0,0.0
+比萨,Da teo e samy: la nuova focacceria ligure,Da teo e samy: la nuova focacceria ligure,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Il Rustico,Pizzeria Il Rustico,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Marfi,Pizzeria Marfi,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Il Rospetto,Pizzeria Il Rospetto,0,图林,0.0,0.0,0.0
+比萨,Fratelli Pummaro',Fratelli Pummaro',0,图林,0.0,0.0,0.0
+比萨,Libery Pizza & Artigianal Beer,Libery Pizza & Artigianal Beer,0,图林,0.0,0.0,0.0
+比萨,Asterix,Asterix,0,图林,0.0,0.0,0.0
+比萨,Pizza Ad Hoc,Pizza Ad Hoc,0,图林,0.0,0.0,0.0
+比萨,Terra d'Oriente,Terra d'Oriente,0,图林,0.0,0.0,0.0
+比萨,Cit ma Bon,Cit ma Bon,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Da Gino,Pizzeria Da Gino,0,图林,0.0,0.0,0.0
+比萨,Quelli Che Ben Pensano 2,Quelli Che Ben Pensano 2,0,图林,0.0,0.0,0.0
+比萨,LA PIRAMIDE (gelati pizza e....),LA PIRAMIDE (gelati pizza e....),0,图林,0.0,0.0,0.0
+比萨,Pizza e Fichi,Pizza e Fichi,0,图林,0.0,0.0,0.0
+比萨,Sfeshion cafe,Sfeshion cafe,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Otto e Tre Quarti,Pizzeria Otto e Tre Quarti,0,图林,0.0,0.0,0.0
+比萨,Pozzeria Il Santo,Pozzeria Il Santo,0,图林,0.0,0.0,0.0
+比萨,Quick dei Giovani,Quick dei Giovani,0,图林,0.0,0.0,0.0
+比萨,Bardonecchia23,Bardonecchia23,0,图林,0.0,0.0,0.0
+比萨,Konopizza,Konopizza,0,图林,0.0,0.0,0.0
+比萨,Cinepizza,Cinepizza,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Ristorante Il Gusto,Pizzeria Ristorante Il Gusto,0,图林,0.0,0.0,0.0
+比萨,Gennaro Esposito,Gennaro Esposito,0,图林,0.0,0.0,0.0
+比萨,Quelli Che Ben Pensano,Quelli Che Ben Pensano,0,图林,0.0,0.0,0.0
+比萨,Pizzeria da Michi,Pizzeria da Michi,0,图林,0.0,0.0,0.0
+比萨,Il Geco,Il Geco,0,图林,0.0,0.0,0.0
+比萨,Pizzeria ,Pizzeria ,0,图林,0.0,0.0,0.0
+比萨,A Modo Mio,A Modo Mio,0,图林,0.0,0.0,0.0
+比萨,Fischetto,Fischetto,0,图林,0.0,0.0,0.0
+比萨,IL PENSIERO 3,IL PENSIERO 3,0,图林,0.0,0.0,0.0
+比萨,Fresh & Good,Fresh & Good,0,图林,0.0,0.0,0.0
+比萨,Resta Cu' mme,Resta Cu' mme,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Loiero Damiano,Pizzeria Loiero Damiano,0,图林,0.0,0.0,0.0
+比萨,La Vecchia Sueva,La Vecchia Sueva,0,图林,0.0,0.0,0.0
+比萨,Giampy,Giampy,0,图林,0.0,0.0,0.0
+比萨,Il Lapislazzulo,Il Lapislazzulo,0,图林,0.0,0.0,0.0
+比萨,Da Camisa,Da Camisa,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Mandis,Pizzeria Mandis,0,图林,0.0,0.0,0.0
+比萨,Antico Casale Ristorante Pizzeria,Antico Casale Ristorante Pizzeria,0,图林,0.0,0.0,0.0
+比萨,Pizza E Delizia Di Di Franco Felice,Pizza E Delizia Di Di Franco Felice,0,图林,0.0,0.0,0.0
+比萨,San Tommaso 10,San Tommaso 10,0,图林,0.0,0.0,0.0
+比萨,Mamma...che Pizza,Mamma...che Pizza,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Papillon,Pizzeria Papillon,0,图林,0.0,0.0,0.0
+比萨,Cammafa,Cammafa,0,图林,0.0,0.0,0.0
+比萨,Nuovi Orizzonti,Nuovi Orizzonti,0,图林,0.0,0.0,0.0
+比萨,Touche Restaurant Cafe Club,Touche Restaurant Cafe Club,0,图林,0.0,0.0,0.0
+比萨,Meridienne Cafè Risto Pizza Pub,Meridienne Cafè Risto Pizza Pub,0,图林,0.0,0.0,0.0
+比萨,Pizza Speedy,Pizza Speedy,0,图林,0.0,0.0,0.0
+比萨,Il Grifo,Il Grifo,0,图林,0.0,0.0,0.0
+比萨,Paprika Pizzeria-ristorante,Paprika Pizzeria-ristorante,0,图林,0.0,0.0,0.0
+比萨,iLikePizza,iLikePizza,0,图林,0.0,0.0,0.0
+比萨,ALL'OCA DI PULCINELLA,ALL'OCA DI PULCINELLA,0,图林,0.0,0.0,0.0
+比萨,CECCHI PIZZERIA GELATERIA,CECCHI PIZZERIA GELATERIA,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Stars & Roses,Pizzeria Stars & Roses,0,图林,0.0,0.0,0.0
+比萨,Poldo,Poldo,0,图林,0.0,0.0,0.0
+比萨,Pizzeria 7 Nani,Pizzeria 7 Nani,0,图林,0.0,0.0,0.0
+比萨,Antico Mare,Antico Mare,0,图林,0.0,0.0,0.0
+比萨,Pizzeria da Peppino,Pizzeria da Peppino,0,图林,0.0,0.0,0.0
+比萨,Maialino Pizza Al Padellino,Maialino Pizza Al Padellino,0,图林,0.0,0.0,0.0
+比萨,Pizza Speedy di Cira Alessandro,Pizza Speedy di Cira Alessandro,0,图林,0.0,0.0,0.0
+比萨,Tre daTre,Tre daTre,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Regina Margherita,Pizzeria Regina Margherita,0,图林,0.0,0.0,0.0
+比萨,Queendici,Queendici,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Cristina,Pizzeria Cristina,0,图林,0.0,0.0,0.0
+比萨,La Coccinella,La Coccinella,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Pizze & Delizie,Pizzeria Pizze & Delizie,0,图林,0.0,0.0,0.0
+比萨,Alla Lettera,Alla Lettera,0,其他,0.0,0.0,0.0
+比萨,Mister Pizza,Mister Pizza,0,其他,0.0,0.0,0.0
+比萨,Il Capriccio,Il Capriccio,0,其他,0.0,0.0,0.0
+比萨,CATULLO,CATULLO,0,图林,0.0,0.0,0.0
+比萨,Vecchia Londra,Vecchia Londra,0,图林,0.0,0.0,0.0
+比萨,Coco Pazzo,Coco Pazzo,0,图林,0.0,0.0,0.0
+比萨,Mai Dire Pizza,Mai Dire Pizza,0,图林,0.0,0.0,0.0
+比萨,Pizza Pistrocchio,Pizza Pistrocchio,0,图林,0.0,0.0,0.0
+比萨,Match pizza,Match pizza,0,图林,0.0,0.0,0.0
+比萨,La Panzanella,La Panzanella,0,图林,0.0,0.0,0.0
+比萨,Noe,Noe,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Pane e Panelle,Pizzeria Pane e Panelle,0,图林,0.0,0.0,0.0
+比萨,Simposio,Simposio,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Ideal,Pizzeria Ideal,0,图林,0.0,0.0,0.0
+比萨,Piadineria Bottega Artigianale,Piadineria Bottega Artigianale,0,图林,0.0,0.0,0.0
+比萨,Fratelli La Bufala,Fratelli La Bufala,0,图林,0.0,0.0,0.0
+比萨,Ischiaponte,Ischiaponte,0,图林,0.0,0.0,0.0
+比萨,Cammafa,Cammafa,0,图林,0.0,0.0,0.0
+比萨,I Soliti Amici 2,I Soliti Amici 2,0,图林,0.0,0.0,0.0
+比萨,Ai 4 Assi Pizzeria,Ai 4 Assi Pizzeria,0,图林,0.0,0.0,0.0
+比萨,Il Povero Felice,Il Povero Felice,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Alla Mole,Pizzeria Alla Mole,0,图林,0.0,0.0,0.0
+比萨,La Fugassa,La Fugassa,0,图林,0.0,0.0,0.0
+比萨,Ristorante Pizzeria Capitol,Ristorante Pizzeria Capitol,0,图林,0.0,0.0,0.0
+比萨,La Margherita,La Margherita,0,图林,0.0,0.0,0.0
+比萨,Pizze & Delizie,Pizze & Delizie,0,图林,0.0,0.0,0.0
+比萨,Bistrot di Gennaro Esposito,Bistrot di Gennaro Esposito,0,图林,0.0,0.0,0.0
+比萨,Il Mago Della Pizza,Il Mago Della Pizza,0,图林,0.0,0.0,0.0
+比萨,Pizza al taglio Montebello,Pizza al taglio Montebello,0,图林,0.0,0.0,0.0
+比萨,Fratelli la bufala,Fratelli la bufala,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Apple's Time,Pizzeria Apple's Time,0,图林,0.0,0.0,0.0
+比萨,Don Caciotto,Don Caciotto,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Venezia,Pizzeria Venezia,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Scirocco,Pizzeria Scirocco,0,其他,0.0,0.0,0.0
+比萨,I Soliti Amici,I Soliti Amici,0,图林,0.0,0.0,0.0
+比萨,La flegrea,La flegrea,0,图林,0.0,0.0,0.0
+比萨,Pizza dal Capitano,Pizza dal Capitano,0,,7.1,7.1,7.1
+比萨,Pizzeria Vesuvio,Pizzeria Vesuvio,0,图林,0.0,0.0,0.0
+比萨,EATALY - Lingotto - LA PIZZA E LA FOCACCIA,EATALY - Lingotto - LA PIZZA E LA FOCACCIA,0,图林,0.0,0.0,0.0
+比萨,Pizza e Fichi,Pizza e Fichi,0,图林,0.0,0.0,0.0
+比萨,LA PIRAMIDE (gelati pizza e....),LA PIRAMIDE (gelati pizza e....),0,图林,0.0,0.0,0.0
+比萨,Masaniello e Turnat,Masaniello e Turnat,0,图林,0.0,0.0,0.0
+比萨,Amici Miei,Amici Miei,0,图林,0.0,0.0,0.0
+比萨,Thovez 60,Thovez 60,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Marfi,Pizzeria Marfi,0,图林,0.0,0.0,0.0
+比萨,La Favola,La Favola,0,图林,0.0,0.0,0.0
+比萨,Pizzeria da Michi,Pizzeria da Michi,0,图林,0.0,0.0,0.0
+比萨,Arsenico,Arsenico,0,图林,0.0,0.0,0.0
+比萨,St. Paul,St. Paul,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Il Rospetto,Pizzeria Il Rospetto,0,图林,0.0,0.0,0.0
+比萨,Quelli Che Ben Pensano,Quelli Che Ben Pensano,0,图林,0.0,0.0,0.0
+比萨,Tre daTre,Tre daTre,0,图林,0.0,0.0,0.0
+比萨,Antica Pizzeria del Borgo,Antica Pizzeria del Borgo,0,图林,0.0,0.0,0.0
+比萨,Scivoland Park,Scivoland Park,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Meucci,Pizzeria Meucci,0,图林,0.0,0.0,0.0
+比萨,Don Gennaro,Don Gennaro,0,图林,0.0,0.0,0.0
+比萨,Al Primo Piano,Al Primo Piano,0,图林,0.0,0.0,0.0
+比萨,Il Quadrifoglio,Il Quadrifoglio,0,图林,0.0,0.0,0.0
+比萨,E  pizza Takeaway Anyway,E  pizza Takeaway Anyway,0,图林,0.0,0.0,0.0
+比萨,Slurp! - Tuttociochegusto,Slurp! - Tuttociochegusto,0,图林,0.0,0.0,0.0
+比萨,Tre Scalini Sas,Tre Scalini Sas,0,图林,0.0,0.0,0.0
+比萨,Cit ma Bon,Cit ma Bon,0,图林,0.0,0.0,0.0
+比萨,Fischetto,Fischetto,0,图林,0.0,0.0,0.0
+比萨,Eat Sicily,Eat Sicily,0,图林,0.0,0.0,0.0
+比萨,fatte  na pizza,fatte  na pizza,0,图林,0.0,0.0,0.0
+比萨,Il Forno di Ventrella Mattia Nicolò,Il Forno di Ventrella Mattia Nicolò,0,图林,0.0,0.0,0.0
+比萨,"via Piacenza,Torino","via Piacenza,Torino",0,图林,0.0,0.0,0.0
+比萨,Poldo,Poldo,0,图林,0.0,0.0,0.0
+比萨,La nuova lampara,La nuova lampara,0,图林,0.0,0.0,0.0
+比萨,La Spiga d Oro,La Spiga d Oro,0,图林,0.0,0.0,0.0
+比萨,GUSTI E SAPORI,GUSTI E SAPORI,0,图林,0.0,0.0,0.0
+比萨,Il Timone Pizzeria,Il Timone Pizzeria,0,图林,0.0,0.0,0.0
+比萨,Noe,Noe,0,图林,0.0,0.0,0.0
+比萨,I Soliti Amici,I Soliti Amici,0,图林,0.0,0.0,0.0
+比萨,Zappala s,Zappala s,0,图林,0.0,0.0,0.0
+比萨,Maialino Pizza Al Padellino,Maialino Pizza Al Padellino,0,图林,0.0,0.0,0.0
+比萨,"Via Delle rosine 8a, Turin, Italy","Via Delle rosine 8a, Turin, Italy",0,图林,0.0,0.0,0.0
+比萨,Azzurra,Azzurra,0,图林,0.0,0.0,0.0
+比萨,La Capricciosa Ristorante Pizzeria,La Capricciosa Ristorante Pizzeria,0,图林,0.0,0.0,0.0
+比萨,Morgan,Morgan,0,图林,0.0,0.0,0.0
+比萨,Pizzeria  Bella Puglia,Pizzeria  Bella Puglia,0,图林,0.0,0.0,0.0
+比萨,Vecchia Europa,Vecchia Europa,0,图林,0.0,0.0,0.0
+比萨,Regina Margherita,Regina Margherita,0,图林,0.0,0.0,0.0
+比萨,I soliti amici  uno,I soliti amici  uno,0,图林,0.0,0.0,0.0
+比萨,Da teo e samy: la nuova focacceria ligure,Da teo e samy: la nuova focacceria ligure,0,图林,0.0,0.0,0.0
+比萨,Sfeshion cafe,Sfeshion cafe,0,图林,0.0,0.0,0.0
+比萨,Le Magie del Forno,Le Magie del Forno,0,图林,0.0,0.0,0.0
+比萨,Peter Pan,Peter Pan,0,图林,0.0,0.0,0.0
+比萨,Pizzeria costa verde,Pizzeria costa verde,0,图林,0.0,0.0,0.0
+比萨,Il Gatto e la Volpe,Il Gatto e la Volpe,0,图林,0.0,0.0,0.0
+比萨,Focacceria ROMOLO,Focacceria ROMOLO,0,图林,0.0,0.0,0.0
+比萨,L arte dei sapori,L arte dei sapori,0,图林,0.0,0.0,0.0
+比萨,Pizzeria l Orchidea,Pizzeria l Orchidea,0,图林,0.0,0.0,0.0
+比萨,A Vucciria,A Vucciria,0,图林,0.0,0.0,0.0
+比萨,Konopizza,Konopizza,0,图林,0.0,0.0,0.0
+比萨,La Sueva,La Sueva,0,图林,0.0,0.0,0.0
+比萨,Terra d Oriente,Terra d Oriente,0,图林,0.0,0.0,0.0
+比萨,Blue Bird,Blue Bird,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Stars,Pizzeria Stars,0,图林,0.0,0.0,0.0
+比萨,Le Rondini - pizzeria con cucina,Le Rondini - pizzeria con cucina,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Biancaneve,Pizzeria Biancaneve,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Don Peppino,Pizzeria Don Peppino,0,图林,0.0,0.0,0.0
+比萨,Fresh,Fresh,0,图林,0.0,0.0,0.0
+比萨,Cacio,Cacio,0,图林,0.0,0.0,0.0
+比萨,Don Tano Il Siciliano,Don Tano Il Siciliano,0,图林,0.0,0.0,0.0
+比萨,Pizzeria 2010,Pizzeria 2010,0,图林,0.0,0.0,0.0
+比萨,Osteria Rotonda dei Facchinetti,Osteria Rotonda dei Facchinetti,0,图林,0.0,0.0,0.0
+比萨,50 Teglie,50 Teglie,0,图林,0.0,0.0,0.0
+比萨,Taglio,Taglio,0,图林,0.0,0.0,0.0
+比萨,Tomatika,Tomatika,0,图林,0.0,0.0,0.0
+比萨,Machere,Machere,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Sa Crocoriga,Pizzeria Sa Crocoriga,0,图林,0.0,0.0,0.0
+比萨,Coco Babe,Coco Babe,0,图林,0.0,0.0,0.0
+比萨,Da Mimmo Pizza Al Gratin,Da Mimmo Pizza Al Gratin,0,图林,0.0,0.0,0.0
+比萨,Pummaro .it,Pummaro .it,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Rotonda Dei Facchinetti 2,Pizzeria Rotonda Dei Facchinetti 2,0,图林,0.0,0.0,0.0
+比萨,Pizzeria da Luca,Pizzeria da Luca,0,图林,0.0,0.0,0.0
+比萨,Trattoria Pizzeria Regina 224 Torino,Trattoria Pizzeria Regina 224 Torino,0,图林,0.0,0.0,0.0
+比萨,Lo Scugnizzo,Lo Scugnizzo,0,图林,0.0,0.0,0.0
+比萨,Du  Cesari,Du  Cesari,0,图林,0.0,0.0,0.0
+比萨,Gerla 1927,Gerla 1927,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Da Gino,Pizzeria Da Gino,0,图林,0.0,0.0,0.0
+比萨,Mazzini 38,Mazzini 38,0,图林,0.0,0.0,0.0
+比萨,Pizza Ad Hoc,Pizza Ad Hoc,0,图林,0.0,0.0,0.0
+比萨,IL PENSIERO 3,IL PENSIERO 3,0,图林,0.0,0.0,0.0
+比萨,Stazione Sassi,Stazione Sassi,0,图林,0.0,0.0,0.0
+比萨,Da Ciccillo,Da Ciccillo,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Pinocchio,Pizzeria Pinocchio,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Pratico,Pizzeria Pratico,0,图林,0.0,0.0,0.0
+比萨,Libery Pizza,Libery Pizza,0,图林,0.0,0.0,0.0
+比萨,Gennaro Esposito,Gennaro Esposito,0,图林,0.0,0.0,0.0
+比萨,L Antagonista,L Antagonista,0,图林,0.0,0.0,0.0
+比萨,Quelli Che Ben Pensano 2,Quelli Che Ben Pensano 2,0,图林,0.0,0.0,0.0
+比萨,Fratelli Pummaro,Fratelli Pummaro,0,图林,0.0,0.0,0.0
+比萨,Au Lapin Agile,Au Lapin Agile,0,图林,0.0,0.0,0.0
+比萨,da Cristina,da Cristina,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Due Torri,Pizzeria Due Torri,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Gonzales,Pizzeria Gonzales,0,图林,0.0,0.0,0.0
+比萨,El Pan d’Na Volta,El Pan d’Na Volta,0,图林,0.0,0.0,0.0
+比萨,Bar ristorante centro,Bar ristorante centro,0,图林,0.0,0.0,0.0
+比萨,To Go - Pizza e Sushi,To Go - Pizza e Sushi,0,图林,0.0,0.0,0.0
+比萨,spigo spago,spigo spago,0,图林,0.0,0.0,0.0
+比萨,Andromeda,Andromeda,0,图林,0.0,0.0,0.0
+比萨,Sa di Pizza,Sa di Pizza,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Doc,Pizzeria Doc,0,图林,0.0,0.0,0.0
+比萨,Ricchi e poveri Pizzeria,Ricchi e poveri Pizzeria,0,图林,0.0,0.0,0.0
+比萨,La Saporita Di Atoufi Mourad,La Saporita Di Atoufi Mourad,0,图林,0.0,0.0,0.0
+比萨,Da Pippo,Da Pippo,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Vittoria,Pizzeria Vittoria,0,图林,0.0,0.0,0.0
+比萨,Made in Sud Pizzeria,Made in Sud Pizzeria,0,图林,0.0,0.0,0.0
+比萨,L Etna,L Etna,0,图林,0.0,0.0,0.0
+比萨,Antica Focacceria Genovese,Antica Focacceria Genovese,0,图林,0.0,0.0,0.0
+比萨,Na focaccia,Na focaccia,0,图林,0.0,0.0,0.0
+比萨,Pizza Speedy,Pizza Speedy,0,图林,0.0,0.0,0.0
+比萨,Il Capriccio,Il Capriccio,0,图林,0.0,0.0,0.0
+比萨,Mister Pizza,Mister Pizza,0,图林,0.0,0.0,0.0
+比萨,Pizza Da Asporto Toto E Peppino,Pizza Da Asporto Toto E Peppino,0,图林,0.0,0.0,0.0
+比萨,Pizzemporio,Pizzemporio,0,图林,0.0,0.0,0.0
+比萨,Cinepizza,Cinepizza,0,图林,0.0,0.0,0.0
+比萨,Funky Pizza Torino,Funky Pizza Torino,0,图林,0.0,0.0,0.0
+比萨,Da Ciro,Da Ciro,0,图林,0.0,0.0,0.0
+比萨,Fonti Minerali Rifugio,Fonti Minerali Rifugio,0,图林,0.0,0.0,0.0
+比萨,Pizzeria da Peppino,Pizzeria da Peppino,0,图林,0.0,0.0,0.0
+比萨,ALL OCA DI PULCINELLA,ALL OCA DI PULCINELLA,0,图林,0.0,0.0,0.0
+比萨,Bardonecchia23,Bardonecchia23,0,图林,0.0,0.0,0.0
+比萨,Pizza Domus,Pizza Domus,0,图林,0.0,0.0,0.0
+比萨,Pizzeria 7 Nani,Pizzeria 7 Nani,0,图林,0.0,0.0,0.0
+比萨,Dessi,Dessi,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Regina 2000,Pizzeria Regina 2000,0,图林,0.0,0.0,0.0
+比萨,Girarrosto Sanpaolo Da Zio Hani,Girarrosto Sanpaolo Da Zio Hani,0,图林,0.0,0.0,0.0
+比萨,Giovani,Giovani,0,图林,0.0,0.0,0.0
+比萨,DA Pecchia Pizzeria E Sfizi Napoletani,DA Pecchia Pizzeria E Sfizi Napoletani,0,图林,0.0,0.0,0.0
+比萨,Barbaroux Pizza,Barbaroux Pizza,0,图林,0.0,0.0,0.0
+比萨,La Coccinella,La Coccinella,0,图林,0.0,0.0,0.0
+比萨,Resta Cu  mme,Resta Cu  mme,0,图林,0.0,0.0,0.0
+比萨,Pizzeria Ristorante Il Gusto,Pizzeria Ristorante Il Gusto,0,图林,0.0,0.0,0.0
+比萨,Cammafa,Cammafa,0,图林,0.0,0.0,0.0
+比萨,La Dentera,La Dentera,0,图林,0.0,0.0,0.0
+比萨,La Svolta,La Svolta,0,图林,0.0,0.0,0.0
+比萨,Asterix,Asterix,0,图林,0.0,0.0,0.0
+比萨,"Pizza Al Tegamino, Focacceria Ligure Da Moreno","Pizza Al Tegamino, Focacceria Ligure Da Moreno",0,图林,0.0,0.0,0.0
+比萨,I Sapori,I Sapori,0,图林,0.0,0.0,0.0
+咖啡厅,CAFFETTERIA MALABAR TURETTA SERGIO,CAFFETTERIA MALABAR TURETTA SERGIO,0,图林,0.0,0.0,0.0
+咖啡厅,Caffetteria Beccuti,Caffetteria Beccuti,0,图林,0.0,0.0,0.0
+咖啡厅,Barney's,Barney's,0,图林,0.0,0.0,0.0
+咖啡厅,Caffetteria degli Angeli,Caffetteria degli Angeli,0,图林,0.0,0.0,0.0
+咖啡厅,Gelateria Veneta Pinerolo,Gelateria Veneta Pinerolo,0,图林,0.0,0.0,0.0
+咖啡厅,Cake Bar s.n.c di Valente Daniela ed Elena,Cake Bar s.n.c di Valente Daniela ed Elena,0,图林,0.0,0.0,0.0
+咖啡厅,Adrenalina Coffee & Food,Adrenalina Coffee & Food,0,图林,0.0,0.0,0.0
+咖啡厅,sú barrixeddu,sú barrixeddu,0,图林,0.0,0.0,0.0
+咖啡厅,Neo-head bar,Neo-head bar,0,图林,0.0,0.0,0.0
+咖啡厅,Caffetteria Pasticceria Sara,Caffetteria Pasticceria Sara,0,图林,0.0,0.0,0.0
+咖啡厅,Bene Cosi' Cafe',Bene Cosi' Cafe',0,图林,0.0,0.0,0.0
+咖啡厅,Stratta,Stratta,0,图林,0.0,0.0,0.0
+咖啡厅,Caffe della Basilica,Caffe della Basilica,0,图林,0.0,0.0,0.0
+咖啡厅,The Bikery,The Bikery,0,图林,0.0,0.0,0.0
+咖啡厅,Zuccheranto,Zuccheranto,0,图林,0.0,0.0,0.0
+咖啡厅,Baratti & Milano,Baratti & Milano,0,其他,0.0,0.0,0.0
+咖啡厅,Biffi Cafe',Biffi Cafe',0,,6.9,6.9,6.9
+咖啡厅,Caffetteria Clarissa,Caffetteria Clarissa,0,图林,0.0,0.0,0.0
+咖啡厅,Caffe Verdi,Caffe Verdi,0,图林,0.0,0.0,0.0
+咖啡厅,Gilda,Gilda,0,图林,0.0,0.0,0.0
+咖啡厅,Busters Coffee,Busters Coffee,0,图林,0.0,0.0,0.0
+咖啡厅,Espression Lavazza Torino,Espression Lavazza Torino,0,图林,0.0,0.0,0.0
+咖啡厅,Cafe' Michelange,Cafe' Michelange,0,,7.1,7.1,7.1
+咖啡厅,sú barrixeddu,sú barrixeddu,0,图林,0.0,0.0,0.0
+咖啡厅,Sublime,Sublime,0,图林,0.0,0.0,0.0
+咖啡厅,Zuccheranto,Zuccheranto,0,图林,0.0,0.0,0.0
+咖啡厅,Il Camaleonte,Il Camaleonte,0,图林,0.0,0.0,0.0
+咖啡厅,CAFFETTERIA MALABAR TURETTA SERGIO,CAFFETTERIA MALABAR TURETTA SERGIO,0,图林,0.0,0.0,0.0
+咖啡厅,Bene Cosi  Cafe,Bene Cosi  Cafe,0,图林,0.0,0.0,0.0
+咖啡厅,Torrefazionenon un Caffe.... IL CAFFE,Torrefazionenon un Caffe.... IL CAFFE,0,图林,0.0,0.0,0.0
+咖啡厅,Bar Old Fashion Le Monelle Snc di Ferraris Crist,Bar Old Fashion Le Monelle Snc di Ferraris Crist,0,图林,0.0,0.0,0.0
+咖啡厅,Caffetteria Ascot Saele Snc di Neri s.,Caffetteria Ascot Saele Snc di Neri s.,0,图林,0.0,0.0,0.0
+咖啡厅,Caffè Clarissa,Caffè Clarissa,0,图林,0.0,0.0,0.0
+咖啡厅,Busters Coffee,Busters Coffee,0,图林,0.0,0.0,0.0
+咖啡厅,ice blue,ice blue,0,图林,0.0,0.0,0.0
+咖啡厅,Osteria del Borgo,Osteria del Borgo,0,图林,0.0,0.0,0.0
+咖啡厅,Paleocapa Caffe,Paleocapa Caffe,0,图林,0.0,0.0,0.0
+咖啡厅,Pasticceria Venier,Pasticceria Venier,0,图林,0.0,0.0,0.0
+咖啡厅,Torre Cremeria,Torre Cremeria,0,图林,0.0,0.0,0.0
+咖啡厅,Caffe Ruffini,Caffe Ruffini,0,图林,0.0,0.0,0.0
+咖啡厅,Caffe della Basilica,Caffe della Basilica,0,图林,0.0,0.0,0.0
+咖啡厅,Olsen Cafe,Olsen Cafe,0,图林,0.0,0.0,0.0
+咖啡厅,Adrenalina Coffee,Adrenalina Coffee,0,图林,0.0,0.0,0.0
+咖啡厅,VyTA Santa Margherita,VyTA Santa Margherita,0,图林,0.0,0.0,0.0
+咖啡厅,MOOD (libri e caffe),MOOD (libri e caffe),0,图林,0.0,0.0,0.0
+咖啡厅,Gran Bar Tio Pepe,Gran Bar Tio Pepe,0,图林,0.0,0.0,0.0
+咖啡厅,Dea della Fortuna,Dea della Fortuna,0,图林,0.0,0.0,0.0
+咖啡厅,Neko Cafe,Neko Cafe,0,图林,0.0,0.0,0.0
+咖啡厅,Caffetteria Pasticceria Sara,Caffetteria Pasticceria Sara,0,图林,0.0,0.0,0.0
+咖啡厅,Neo-head bar,Neo-head bar,0,图林,0.0,0.0,0.0
+咖啡厅,Caffetteria Beccuti,Caffetteria Beccuti,0,图林,0.0,0.0,0.0
+咖啡厅,Caffetteria degli Angeli,Caffetteria degli Angeli,0,图林,0.0,0.0,0.0
+咖啡厅,The Bikery,The Bikery,0,图林,0.0,0.0,0.0
+咖啡厅,Gelateria Veneta Pinerolo,Gelateria Veneta Pinerolo,0,图林,0.0,0.0,0.0
+面包甜点,Cioccolateria Artigiana Selezione Guido Gobino,Cioccolateria Artigiana Selezione Guido Gobino,0,图林,7.1,7.0,6.9
+面包甜点,GELATERIA BIO SENSO,GELATERIA BIO SENSO,0,图林,0.0,0.0,0.0
+面包甜点,Panificio di Capobianco Lucia,Panificio di Capobianco Lucia,0,图林,0.0,0.0,0.0
+面包甜点,Gelato',Gelato',0,图林,0.0,0.0,0.0
+面包甜点,Pizzeria Biancaneve,Pizzeria Biancaneve,0,图林,0.0,0.0,0.0
+面包甜点,Gelatelier Torino,Gelatelier Torino,0,图林,0.0,0.0,0.0
+面包甜点,Mara dei Boschi,Mara dei Boschi,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Pianeta Gelato,Gelateria Pianeta Gelato,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria San Secondo by Stillitano,Pasticceria San Secondo by Stillitano,0,图林,0.0,0.0,0.0
+面包甜点,Dolci Melodie,Dolci Melodie,0,图林,0.0,0.0,0.0
+面包甜点,Bar L'Orchidea,Bar L'Orchidea,0,图林,0.0,0.0,0.0
+面包甜点,Abela,Abela,0,图林,0.0,0.0,0.0
+面包甜点,Cioccolateria Marino,Cioccolateria Marino,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria dei Principi,Gelateria dei Principi,0,图林,0.0,0.0,0.0
+面包甜点,Peyrano Cioccolato,Peyrano Cioccolato,0,图林,0.0,0.0,0.0
+面包甜点,Enoteca Mastrovini,Enoteca Mastrovini,0,图林,0.0,0.0,0.0
+面包甜点,Giordano - Dal 1897 cioccolato artigianale,Giordano - Dal 1897 cioccolato artigianale,0,图林,0.0,0.0,0.0
+面包甜点,Le delizie del Palato,Le delizie del Palato,0,图林,0.0,0.0,0.0
+面包甜点,Panesalame,Panesalame,0,图林,0.0,0.0,0.0
+面包甜点,Piadineria zero zero torino,Piadineria zero zero torino,0,图林,0.0,0.0,0.0
+面包甜点,Gelati D'Antan,Gelati D'Antan,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Settimo Gelo,Gelateria Settimo Gelo,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Leggio,Pasticceria Leggio,0,图林,0.0,0.0,0.0
+面包甜点,Eurodolce,Eurodolce,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Beatrice La Smorfia,Pasticceria Beatrice La Smorfia,0,图林,0.0,0.0,0.0
+面包甜点,Panificio Stelvi,Panificio Stelvi,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Alpina Làit Torino,Gelateria Alpina Làit Torino,0,图林,0.0,0.0,0.0
+面包甜点,Profumo di Pane,Profumo di Pane,0,图林,0.0,0.0,0.0
+面包甜点,GelaTiAmo,GelaTiAmo,0,图林,0.0,0.0,0.0
+面包甜点,Mastro Gelataio - Bon Bon Mania,Mastro Gelataio - Bon Bon Mania,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Romana,Gelateria Romana,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Caffetteria Zichella,Pasticceria Caffetteria Zichella,0,图林,0.0,0.0,0.0
+面包甜点,Mastrogelataio,Mastrogelataio,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria San Secondo 55,Gelateria San Secondo 55,0,图林,0.0,0.0,0.0
+面包甜点,Il Forno dell'Angolo,Il Forno dell'Angolo,0,图林,0.0,0.0,0.0
+面包甜点,Alberto Marchetti,Alberto Marchetti,0,图林,0.0,0.0,0.0
+面包甜点,Il Gelato Amico,Il Gelato Amico,0,图林,0.0,0.0,0.0
+面包甜点,Pane e Companatico,Pane e Companatico,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Monginevro,Gelateria Monginevro,0,图林,0.0,0.0,0.0
+面包甜点,Andrea Perino,Andrea Perino,0,图林,0.0,0.0,0.0
+面包甜点,L'Essenza del Gelato,L'Essenza del Gelato,0,图林,0.0,0.0,0.0
+面包甜点,Odilla Chocolat,Odilla Chocolat,0,图林,0.0,0.0,0.0
+面包甜点,Mister Hot-Dog,Mister Hot-Dog,0,图林,0.0,0.0,0.0
+面包甜点,Piu' di un Gelato,Piu' di un Gelato,0,图林,0.0,0.0,0.0
+面包甜点,Mulassano Bar,Mulassano Bar,0,图林,0.0,0.0,0.0
+面包甜点,Pregio Gelateria,Pregio Gelateria,0,图林,0.0,0.0,0.0
+面包甜点,Ottimo Gelateria,Ottimo Gelateria,0,图林,0.0,0.0,0.0
+面包甜点,Master Sandwich,Master Sandwich,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Ciacci,Gelateria Ciacci,0,图林,0.0,0.0,0.0
+面包甜点,Torre Cremeria,Torre Cremeria,0,图林,0.0,0.0,0.0
+面包甜点,Dolcevita,Dolcevita,0,图林,0.0,0.0,0.0
+面包甜点,La Voglia Matta,La Voglia Matta,0,图林,0.0,0.0,0.0
+面包甜点,SAPORITO,SAPORITO,0,图林,0.0,0.0,0.0
+面包甜点,Osteria Rotonda dei Facchinetti,Osteria Rotonda dei Facchinetti,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Il Confetto Blu,Pasticceria Il Confetto Blu,0,图林,0.0,0.0,0.0
+面包甜点,Perino Vesco,Perino Vesco,0,其他,0.0,0.0,0.0
+面包甜点,Bar Stampa,Bar Stampa,0,其他,0.0,0.0,0.0
+面包甜点,DOLCE MANIA,DOLCE MANIA,0,图林,0.0,0.0,0.0
+面包甜点,STOP PIZZA,STOP PIZZA,0,图林,0.0,0.0,0.0
+面包甜点,Conogelato,Conogelato,0,图林,0.0,0.0,0.0
+面包甜点,Il Paniere,Il Paniere,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Sebastopoli,Gelateria Sebastopoli,0,图林,0.0,0.0,0.0
+面包甜点,Il Covo dei Golosi,Il Covo dei Golosi,0,图林,0.0,0.0,0.0
+面包甜点,Mosa Gelateria,Mosa Gelateria,0,图林,0.0,0.0,0.0
+面包甜点,Adonis Creperie,Adonis Creperie,0,图林,0.0,0.0,0.0
+面包甜点,GELATERIA POPOLARE,GELATERIA POPOLARE,0,图林,0.0,0.0,0.0
+面包甜点,Bar Cremeria Mon Bijou,Bar Cremeria Mon Bijou,0,图林,0.0,0.0,0.0
+面包甜点,GianGusto Piadineria,GianGusto Piadineria,0,图林,0.0,0.0,0.0
+面包甜点,El Pan d’Na Volta,El Pan d’Na Volta,0,图林,0.0,0.0,0.0
+面包甜点,EUROCREM,EUROCREM,0,图林,0.0,0.0,0.0
+面包甜点,Sublime,Sublime,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria La Romana,Gelateria La Romana,0,图林,0.0,0.0,0.0
+面包甜点,Birilli,Birilli,0,图林,0.0,0.0,0.0
+面包甜点,Dear Wendy Sweets di Bosca Elena,Dear Wendy Sweets di Bosca Elena,0,图林,0.0,0.0,0.0
+面包甜点,La Reginella,La Reginella,0,图林,0.0,0.0,0.0
+面包甜点,RivaReno,RivaReno,0,图林,0.0,0.0,0.0
+面包甜点,Bentornati alla Tradizione,Bentornati alla Tradizione,0,图林,0.0,0.0,0.0
+面包甜点,Pulp kitchen torino,Pulp kitchen torino,0,图林,0.0,0.0,0.0
+面包甜点,La Torteria,La Torteria,0,图林,0.0,0.0,0.0
+面包甜点,Pistacchio,Pistacchio,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria la Romana,Gelateria la Romana,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Mondello,Gelateria Mondello,0,图林,0.0,0.0,0.0
+面包甜点,Boeknell SNC Di G. e M. Ziolla e C.,Boeknell SNC Di G. e M. Ziolla e C.,0,其他,0.0,0.0,0.0
+面包甜点,Bunet,Bunet,0,图林,0.0,0.0,0.0
+面包甜点,Pensieri Dolci Raspino,Pensieri Dolci Raspino,0,图林,0.0,0.0,0.0
+面包甜点,Re Sole,Re Sole,0,图林,0.0,0.0,0.0
+面包甜点,Lucco Gelartica,Lucco Gelartica,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Ghigo,Pasticceria Ghigo,0,图林,0.0,0.0,0.0
+面包甜点,Duepuntozero,Duepuntozero,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Grom,Gelateria Grom,0,图林,0.0,0.0,0.0
+面包甜点,La Cucina di Lido Baggiani,La Cucina di Lido Baggiani,0,图林,0.0,0.0,0.0
+面包甜点,Corner,Corner,0,图林,0.0,0.0,0.0
+面包甜点,Bellamia Gelateria Torino,Bellamia Gelateria Torino,0,图林,0.0,0.0,0.0
+面包甜点,Crema E Cioccolato,Crema E Cioccolato,0,图林,0.0,0.0,0.0
+面包甜点,El Pan D'na Volta,El Pan D'na Volta,0,图林,0.0,0.0,0.0
+面包甜点,Rivareno Gelateria,Rivareno Gelateria,0,图林,0.0,0.0,0.0
+面包甜点,ROMA GIA' TALMONE,ROMA GIA' TALMONE,0,图林,0.0,0.0,0.0
+面包甜点,El Pan D'Na Volta SRL,El Pan D'Na Volta SRL,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Pepino,Gelateria Pepino,0,图林,0.0,0.0,0.0
+面包甜点,GROM,GROM,0,图林,0.0,0.0,0.0
+面包甜点,Grom,Grom,0,图林,0.0,0.0,0.0
+面包甜点,GROM (via Garibaldi),GROM (via Garibaldi),0,图林,0.0,0.0,0.0
+面包甜点,Cioccogelateria Venchi,Cioccogelateria Venchi,0,图林,0.0,0.0,0.0
+面包甜点,Mattia,Mattia,0,图林,0.0,0.0,0.0
+面包甜点,Dezzutto,Dezzutto,0,图林,0.0,0.0,0.0
+面包甜点,Bar Pasticceria Gelateria Cento 21,Bar Pasticceria Gelateria Cento 21,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Arzilli,Pasticceria Arzilli,0,其他,0.0,0.0,0.0
+面包甜点,Yogorino,Yogorino,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Noisette s.n.c.,Gelateria Noisette s.n.c.,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria delle Alpi,Gelateria delle Alpi,0,图林,0.0,0.0,0.0
+面包甜点,Pizzeria dolceria La Gatta,Pizzeria dolceria La Gatta,0,图林,0.0,0.0,0.0
+面包甜点,dolcidea,dolcidea,0,图林,0.0,0.0,0.0
+面包甜点,El Pan d' Na Volta,El Pan d' Na Volta,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Mak.s,Gelateria Mak.s,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Cagliero,Pasticceria Cagliero,0,图林,0.0,0.0,0.0
+面包甜点,MaGa gel (gelateria artigianale),MaGa gel (gelateria artigianale),0,图林,0.0,0.0,0.0
+面包甜点,Chef Express - Torino Porta Susa,Chef Express - Torino Porta Susa,0,图林,0.0,0.0,0.0
+面包甜点,Panificio F.lli Da Col,Panificio F.lli Da Col,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria,Gelateria,0,图林,0.0,0.0,0.0
+面包甜点,Cioccolateria Marino,Cioccolateria Marino,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria San Secondo by Stillitano,Pasticceria San Secondo by Stillitano,0,图林,0.0,0.0,0.0
+面包甜点,La Pista Del Lingotto,La Pista Del Lingotto,0,图林,0.0,0.0,0.0
+面包甜点,Re Sole,Re Sole,0,图林,0.0,0.0,0.0
+面包甜点,Tecnicamente Libri Caffe,Tecnicamente Libri Caffe,0,图林,0.0,0.0,0.0
+面包甜点,RivaReno,RivaReno,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Il Confetto Blu,Pasticceria Il Confetto Blu,0,图林,0.0,0.0,0.0
+面包甜点,Dear Wendy Sweets di Bosca Elena,Dear Wendy Sweets di Bosca Elena,0,图林,0.0,0.0,0.0
+面包甜点,GROM,GROM,0,图林,0.0,0.0,0.0
+面包甜点,Yogorino,Yogorino,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Settimo Gelo,Gelateria Settimo Gelo,0,图林,0.0,0.0,0.0
+面包甜点,A Sara Tard,A Sara Tard,0,图林,0.0,0.0,0.0
+面包甜点,eispazzano,eispazzano,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Visconti,Pasticceria Visconti,0,图林,0.0,0.0,0.0
+面包甜点,Panetteria Costa,Panetteria Costa,0,图林,0.0,0.0,0.0
+面包甜点,Marilù fa il gelato,Marilù fa il gelato,0,图林,0.0,0.0,0.0
+面包甜点,Bar Pasticceria Gelateria Cento 21,Bar Pasticceria Gelateria Cento 21,0,图林,0.0,0.0,0.0
+面包甜点,Cioccogelateria Venchi,Cioccogelateria Venchi,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Arzilli,Pasticceria Arzilli,0,图林,0.0,0.0,0.0
+面包甜点,Bar Pasticceria De Coster s,Bar Pasticceria De Coster s,0,图林,0.0,0.0,0.0
+面包甜点,Yo! Yogurteria Della Mole,Yo! Yogurteria Della Mole,0,图林,0.0,0.0,0.0
+面包甜点,Venchi,Venchi,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Amore,Pasticceria Amore,0,图林,0.0,0.0,0.0
+面包甜点,Gelati D Antan,Gelati D Antan,0,图林,0.0,0.0,0.0
+面包甜点,Gelato,Gelato,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria La Romana,Gelateria La Romana,0,图林,0.0,0.0,0.0
+面包甜点,Ottimo,Ottimo,0,,0.0,0.0,0.0
+面包甜点,Alberto Marchetti,Alberto Marchetti,0,图林,0.0,0.0,0.0
+面包甜点,Pregio Gelateria,Pregio Gelateria,0,图林,0.0,0.0,0.0
+面包甜点,Mara dei Boschi,Mara dei Boschi,0,图林,0.0,0.0,0.0
+面包甜点,Andrea Perino,Andrea Perino,0,图林,0.0,0.0,0.0
+面包甜点,Ottimo Gelateria,Ottimo Gelateria,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Monginevro,Gelateria Monginevro,0,图林,0.0,0.0,0.0
+面包甜点,Il Forno dell Angolo,Il Forno dell Angolo,0,图林,0.0,0.0,0.0
+面包甜点,Il Gelato Amico,Il Gelato Amico,0,图林,0.0,0.0,0.0
+面包甜点,SICULO,SICULO,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Capello,Pasticceria Capello,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Issiglio,Pasticceria Issiglio,0,图林,0.0,0.0,0.0
+面包甜点,Piu  di un Gelato,Piu  di un Gelato,0,图林,0.0,0.0,0.0
+面包甜点,Odilla Chocolat,Odilla Chocolat,0,图林,0.0,0.0,0.0
+面包甜点,EATALY - Lingotto - AGRIGELATERIA,EATALY - Lingotto - AGRIGELATERIA,0,图林,0.0,0.0,0.0
+面包甜点,Georgia s Bakery,Georgia s Bakery,0,图林,0.0,0.0,0.0
+面包甜点,FLORIS HOUSE,FLORIS HOUSE,0,图林,0.0,0.0,0.0
+面包甜点,Perino Vesco,Perino Vesco,0,图林,0.0,0.0,0.0
+面包甜点,Moi Moi Gastronomia Salentina,Moi Moi Gastronomia Salentina,0,图林,0.0,0.0,0.0
+面包甜点,Articiocc,Articiocc,0,图林,0.0,0.0,0.0
+面包甜点,Ristorante VO,Ristorante VO,0,图林,0.0,0.0,0.0
+面包甜点,Abela,Abela,0,图林,0.0,0.0,0.0
+面包甜点,Mastrogelataio,Mastrogelataio,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria la Romana,Gelateria la Romana,0,图林,0.0,0.0,0.0
+面包甜点,Rosso Sapore Torino Centro,Rosso Sapore Torino Centro,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Mak.s,Gelateria Mak.s,0,图林,0.0,0.0,0.0
+面包甜点,La Torteria,La Torteria,0,图林,0.0,0.0,0.0
+面包甜点,Panificio 8 Spighe,Panificio 8 Spighe,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Nico,Gelateria Nico,0,图林,0.0,0.0,0.0
+面包甜点,Vanille S.A.S.,Vanille S.A.S.,0,图林,0.0,0.0,0.0
+面包甜点,Capitain Achab,Capitain Achab,0,图林,0.0,0.0,0.0
+面包甜点,PAPILLE BRILLE,PAPILLE BRILLE,0,图林,0.0,0.0,0.0
+面包甜点,SAPORITO,SAPORITO,0,图林,0.0,0.0,0.0
+面包甜点,Caffe Pasticceria la Vie en Rose,Caffe Pasticceria la Vie en Rose,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Mondello,Gelateria Mondello,0,图林,0.0,0.0,0.0
+面包甜点,Le delizie del Palato,Le delizie del Palato,0,图林,0.0,0.0,0.0
+面包甜点,Caffe Pasticceria Lo Iacono,Caffe Pasticceria Lo Iacono,0,图林,0.0,0.0,0.0
+面包甜点,GROM (via Garibaldi),GROM (via Garibaldi),0,图林,0.0,0.0,0.0
+面包甜点,Dolcevita,Dolcevita,0,图林,0.0,0.0,0.0
+面包甜点,Grom,Grom,0,图林,0.0,0.0,0.0
+面包甜点,Mastro Gelataio - Bon Bon Mania,Mastro Gelataio - Bon Bon Mania,0,图林,0.0,0.0,0.0
+面包甜点,Pane e Companatico,Pane e Companatico,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria dei Principi,Gelateria dei Principi,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Pepino,Gelateria Pepino,0,图林,0.0,0.0,0.0
+面包甜点,Dezzutto,Dezzutto,0,图林,0.0,0.0,0.0
+面包甜点,EUROCREM,EUROCREM,0,图林,0.0,0.0,0.0
+面包甜点,Panificio Guala,Panificio Guala,0,图林,0.0,0.0,0.0
+面包甜点,Pasticceria Elba,Pasticceria Elba,0,图林,0.0,0.0,0.0
+面包甜点,Dolci Melodie,Dolci Melodie,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Pianeta Gelato,Gelateria Pianeta Gelato,0,图林,0.0,0.0,0.0
+面包甜点,Piadineria zero zero torino,Piadineria zero zero torino,0,,0.0,0.0,0.0
+面包甜点,L Essenza del Gelato,L Essenza del Gelato,0,图林,0.0,0.0,0.0
+面包甜点,Piu  di un Gelato,Piu  di un Gelato,0,图林,0.0,0.0,0.0
+面包甜点,Gelateria Romana,Gelateria Romana,0,图林,0.0,0.0,0.0
+酒吧,La Fenice Pub,La Fenice Pub,0,图林,0.0,0.0,0.0
+酒吧,La Maison de Marie,La Maison de Marie,0,图林,0.0,0.0,0.0
+酒吧,Caffe vergnano lagrange,Caffe vergnano lagrange,0,图林,0.0,0.0,0.0
+酒吧,Bar Sprint,Bar Sprint,0,图林,0.0,0.0,0.0
+酒吧,Asso Di Bastoni,Asso Di Bastoni,0,图林,0.0,0.0,0.0
+酒吧,La Rhumerie 18,La Rhumerie 18,0,图林,0.0,0.0,0.0
+酒吧,Pasticceria Primavera,Pasticceria Primavera,0,图林,0.0,0.0,0.0
+酒吧,Bar Il Goliardo,Bar Il Goliardo,0,图林,0.0,0.0,0.0
+酒吧,Bar pasticceria Leo,Bar pasticceria Leo,0,图林,0.0,0.0,0.0
+酒吧,Bar Giulia,Bar Giulia,0,图林,0.0,0.0,0.0
+酒吧,Bar pino,Bar pino,0,图林,0.0,0.0,0.0
+酒吧,Rosario,Rosario,0,图林,0.0,0.0,0.0
+酒吧,Caffetteria Pitagora,Caffetteria Pitagora,0,图林,0.0,0.0,0.0
+酒吧,Cafe & Patisserie,Cafe & Patisserie,0,图林,0.0,0.0,0.0
+酒吧,bar imperfetto,bar imperfetto,0,图林,0.0,0.0,0.0
+酒吧,La Capanna Dei Nonni,La Capanna Dei Nonni,0,图林,0.0,0.0,0.0
+酒吧,Miss Cake,Miss Cake,0,图林,0.0,0.0,0.0
+酒吧,Soul Lab,Soul Lab,0,图林,0.0,0.0,0.0
+酒吧,L'Alambicco,L'Alambicco,0,图林,0.0,0.0,0.0
+酒吧,Si Vu Ple,Si Vu Ple,0,图林,0.0,0.0,0.0
+酒吧,Yankuam & co,Yankuam & co,0,图林,0.0,0.0,0.0
+酒吧,La vespa e l'uva,La vespa e l'uva,0,图林,0.0,0.0,0.0
+酒吧,Cafferossacci,Cafferossacci,0,图林,0.0,0.0,0.0
+酒吧,Funkiglia,Funkiglia,0,图林,0.0,0.0,0.0
+酒吧,Pizzeria la Sciantosa,Pizzeria la Sciantosa,0,图林,0.0,0.0,0.0
+酒吧,VaSte,VaSte,0,图林,0.0,0.0,0.0
+酒吧,TClub lounge bar,TClub lounge bar,0,图林,0.0,0.0,0.0
+酒吧,Carpe diem,Carpe diem,0,其他,0.0,0.0,0.0
+酒吧,Il Quartino,Il Quartino,0,图林,0.0,0.0,0.0
+酒吧,Cantina Torino,Cantina Torino,0,图林,0.0,0.0,0.0
+酒吧,Sir Francis Drake Pub,Sir Francis Drake Pub,0,图林,0.0,0.0,0.0
+酒吧,Caffe 900,Caffe 900,0,图林,0.0,0.0,0.0
+酒吧,La Rhumerie,La Rhumerie,0,图林,0.0,0.0,0.0
+酒吧,Zelli Wine Bar,Zelli Wine Bar,0,图林,0.0,0.0,0.0
+酒吧,Torino Alcool 2.0,Torino Alcool 2.0,0,图林,0.0,0.0,0.0
+酒吧,Steamboat,Steamboat,0,图林,0.0,0.0,0.0
+酒吧,McGuillycuddy's,McGuillycuddy's,0,图林,0.0,0.0,0.0
+酒吧,St Martin Pub,St Martin Pub,0,图林,0.0,0.0,0.0
+酒吧,Olsen Cafe,Olsen Cafe,0,图林,0.0,0.0,0.0
+酒吧,Enzo & Grazia,Enzo & Grazia,0,图林,0.0,0.0,0.0
+酒吧,Enoteca Bianco,Enoteca Bianco,0,图林,0.0,0.0,0.0
+酒吧,Didier,Didier,0,其他,0.0,0.0,0.0
+酒吧,bar cremeria gianni snc,bar cremeria gianni snc,0,其他,0.0,0.0,0.0
+酒吧,Biberon,Biberon,0,图林,0.0,0.0,0.0
+酒吧,RACCONIGI 13,RACCONIGI 13,0,图林,0.0,0.0,0.0
+酒吧,Caffe Confetteria al Bicerin,Caffe Confetteria al Bicerin,0,图林,0.0,0.0,0.0
+酒吧,La Buta Stupa - Enoteca Vineria con cucina,La Buta Stupa - Enoteca Vineria con cucina,0,图林,0.0,0.0,0.0
+酒吧,Rosso Rubino,Rosso Rubino,0,图林,0.0,0.0,0.0
+酒吧,Trattoria L'Alternativa,Trattoria L'Alternativa,0,图林,0.0,0.0,0.0
+酒吧,Soundart,Soundart,0,图林,0.0,0.0,0.0
+酒吧,Barbillar,Barbillar,0,图林,0.0,0.0,0.0
+酒吧,Caffe Damiani,Caffe Damiani,0,图林,0.0,0.0,0.0
+酒吧,Downpatrick Pub,Downpatrick Pub,0,图林,0.0,0.0,0.0
+酒吧,Crystal Bar,Crystal Bar,0,图林,0.0,0.0,0.0
+酒吧,La Zebra a Pua',La Zebra a Pua',0,其他,0.0,0.0,0.0
+酒吧,Coffee lab diamante,Coffee lab diamante,0,其他,0.0,0.0,0.0
+酒吧,KM5 BAR TORINO,KM5 BAR TORINO,0,图林,0.0,0.0,0.0
+酒吧,Birrificio Torino,Birrificio Torino,0,图林,0.0,0.0,0.0
+酒吧,Kombu Sushi Bar,Kombu Sushi Bar,0,,7.2,7.2,7.2
+酒吧,Bar lo Chalet,Bar lo Chalet,0,,7.0,7.0,7.0
+酒吧,Bar Arnaud Torre Pellice,Bar Arnaud Torre Pellice,0,,6.9,6.9,6.9
+酒吧,The Dubliner,The Dubliner,0,图林,0.0,0.0,0.0
+酒吧,Birreria del Borgo,Birreria del Borgo,0,图林,0.0,0.0,0.0
+酒吧,Bar Florian,Bar Florian,0,图林,0.0,0.0,0.0
+酒吧,Shamrock Inn,Shamrock Inn,0,图林,0.0,0.0,0.0
+酒吧,Enoteca Papa Noe,Enoteca Papa Noe,0,图林,0.0,0.0,0.0
+酒吧,Caffe Tiberio,Caffe Tiberio,0,图林,0.0,0.0,0.0
+酒吧,Bar Maison,Bar Maison,0,图林,0.0,0.0,0.0
+酒吧,Caffe Vittorio Veneto,Caffe Vittorio Veneto,0,图林,0.0,0.0,0.0
+酒吧,Cafè Accorsi Palace,Cafè Accorsi Palace,0,图林,0.0,0.0,0.0
+酒吧,MOOD (libri e caffe),MOOD (libri e caffe),0,图林,0.0,0.0,0.0
+酒吧,musine cafe,musine cafe,0,图林,0.0,0.0,0.0
+酒吧,Caffetteria Borgo Antico Torino,Caffetteria Borgo Antico Torino,0,图林,0.0,0.0,0.0
+酒吧,Bar Gelateria Svizzera,Bar Gelateria Svizzera,0,,6.8,6.8,7.1
+酒吧,Bar degli Artisti,Bar degli Artisti,0,,7.0,7.0,7.0
+酒吧,Bar Trattoria Da Riccardo,Bar Trattoria Da Riccardo,0,,6.9,6.9,6.7
+酒吧,Asso Di Bastoni,Asso Di Bastoni,0,图林,0.0,0.0,0.0
+酒吧,Zelli Wine Bar,Zelli Wine Bar,0,图林,0.0,0.0,0.0
+酒吧,St Martin Pub,St Martin Pub,0,图林,0.0,0.0,0.0
+酒吧,TClub lounge bar,TClub lounge bar,0,图林,0.0,0.0,0.0
+酒吧,La Rhumerie,La Rhumerie,0,图林,0.0,0.0,0.0
+酒吧,Enzo,Enzo,0,图林,0.0,0.0,0.0
+酒吧,Barbarella,Barbarella,0,图林,0.0,0.0,0.0
+酒吧,Bar pasticceria Leo,Bar pasticceria Leo,0,图林,0.0,0.0,0.0
+酒吧,Bar Sprint,Bar Sprint,0,图林,0.0,0.0,0.0
+酒吧,Bar Il Goliardo,Bar Il Goliardo,0,图林,0.0,0.0,0.0
+酒吧,Torino Alcool 2.0,Torino Alcool 2.0,0,图林,0.0,0.0,0.0
+酒吧,Bar Giulia,Bar Giulia,0,图林,0.0,0.0,0.0
+酒吧,EATALY - Lingotto - VINERIA,EATALY - Lingotto - VINERIA,0,图林,0.0,0.0,0.0
+酒吧,Downpatrick Pub,Downpatrick Pub,0,图林,0.0,0.0,0.0
+酒吧,Bar  Viola,Bar  Viola,0,图林,0.0,0.0,0.0
+酒吧,Domus,Domus,0,图林,0.0,0.0,0.0
+酒吧,C-House Coffee Shop,C-House Coffee Shop,0,图林,0.0,0.0,0.0
+酒吧,Loredana G.,Loredana G.,0,图林,0.0,0.0,0.0
+酒吧,Cafferossacci,Cafferossacci,0,图林,0.0,0.0,0.0
+酒吧,Pizzeria la Sciantosa,Pizzeria la Sciantosa,0,图林,0.0,0.0,0.0
+酒吧,CentroSportivo La Tesorina,CentroSportivo La Tesorina,0,图林,0.0,0.0,0.0
+酒吧,SANTA POLENTA,SANTA POLENTA,0,图林,0.0,0.0,0.0
+酒吧,Carpe diem,Carpe diem,0,图林,0.0,0.0,0.0
+酒吧,Oro Birra,Oro Birra,0,图林,0.0,0.0,0.0
+酒吧,Cafe,Cafe,0,图林,0.0,0.0,0.0
+酒吧,La Maison de Marie,La Maison de Marie,0,图林,0.0,0.0,0.0
+酒吧,Steamboat,Steamboat,0,图林,0.0,0.0,0.0
+酒吧,Enoteca Bianco,Enoteca Bianco,0,图林,0.0,0.0,0.0
+酒吧,Mache  Cocktailart,Mache  Cocktailart,0,图林,0.0,0.0,0.0
+酒吧,Oscar wilde,Oscar wilde,0,图林,0.0,0.0,0.0
+酒吧,Bar caffe 99,Bar caffe 99,0,图林,0.0,0.0,0.0
+酒吧,Bar Caffeine,Bar Caffeine,0,图林,0.0,0.0,0.0
+酒吧,HOST CAFE  BISTROT,HOST CAFE  BISTROT,0,图林,0.0,0.0,0.0
+酒吧,Bar Billy 84,Bar Billy 84,0,图林,0.0,0.0,0.0
+酒吧,Confetteria Pasticceria Guardia,Confetteria Pasticceria Guardia,0,图林,0.0,0.0,0.0
+酒吧,Macelleria Coppino,Macelleria Coppino,0,图林,0.0,0.0,0.0
+酒吧,Le Barbie re,Le Barbie re,0,图林,0.0,0.0,0.0
+酒吧,La vespa e l uva,La vespa e l uva,0,图林,0.0,0.0,0.0
+酒吧,Caffetteria Pitagora,Caffetteria Pitagora,0,图林,0.0,0.0,0.0
+酒吧,Caffe vergnano lagrange,Caffe vergnano lagrange,0,图林,0.0,0.0,0.0
+酒吧,bar imperfetto,bar imperfetto,0,图林,0.0,0.0,0.0
+酒吧,Coffee lab diamante,Coffee lab diamante,0,图林,0.0,0.0,0.0
+酒吧,Bruzzone,Bruzzone,0,图林,0.0,0.0,0.0
+酒吧,La Drogheria,La Drogheria,0,图林,0.0,0.0,0.0
+酒吧,La Zebra a Pua,La Zebra a Pua,0,图林,0.0,0.0,0.0
+酒吧,L Alambicco,L Alambicco,0,图林,0.0,0.0,0.0
+酒吧,Pasticceria Caffetteria Zichella,Pasticceria Caffetteria Zichella,0,图林,0.0,0.0,0.0
+酒吧,Pasticceria Primavera,Pasticceria Primavera,0,图林,0.0,0.0,0.0
+酒吧,McGuillycuddy s,McGuillycuddy s,0,图林,0.0,0.0,0.0
+更多美食,La fabbrica del Gelato,La fabbrica del Gelato,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Casa Vicina SNC,Ristorante Casa Vicina SNC,0,图林,0.0,0.0,0.0
+更多美食,Legends Club Restaurant,Legends Club Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Caffe Prestige,Caffe Prestige,0,图林,0.0,0.0,0.0
+更多美食,Amaranto,Amaranto,0,图林,0.0,0.0,0.0
+更多美食,Cafe e Poi,Cafe e Poi,0,图林,0.0,0.0,0.0
+更多美食,Granbio,Granbio,0,图林,0.0,0.0,0.0
+更多美食,Gelateria Abela,Gelateria Abela,0,图林,0.0,0.0,0.0
+更多美食,Le Regine,Le Regine,0,图林,0.0,0.0,0.0
+更多美食,L'Antica Sinoira,L'Antica Sinoira,0,图林,0.0,0.0,0.0
+更多美食,Bar Gli Archi,Bar Gli Archi,0,图林,0.0,0.0,0.0
+更多美食,Los Hermanos,Los Hermanos,0,图林,0.0,0.0,0.0
+更多美食,La piola libreria di Catia,La piola libreria di Catia,0,图林,0.0,0.0,0.0
+更多美食,LA PETITE CAVE,LA PETITE CAVE,0,图林,0.0,0.0,0.0
+更多美食,Atef L'egiziano Pizza-Kebab,Atef L'egiziano Pizza-Kebab,0,图林,0.0,0.0,0.0
+更多美食,Mai Thai,Mai Thai,0,图林,0.0,0.0,0.0
+更多美食,Al Garamond,Al Garamond,0,图林,0.0,0.0,0.0
+更多美食,Il Nuraghe,Il Nuraghe,0,图林,0.0,0.0,0.0
+更多美食,Il Marinaio,Il Marinaio,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Nuova Crocetta,Ristorante Nuova Crocetta,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Entremetier,Ristorante Pizzeria Entremetier,0,图林,0.0,0.0,0.0
+更多美食,La Pista Del Lingotto,La Pista Del Lingotto,0,图林,0.0,0.0,0.0
+更多美食,La Betulla,La Betulla,0,图林,0.0,0.0,0.0
+更多美食,Cremeria Paladino Gelato Genuino,Cremeria Paladino Gelato Genuino,0,图林,0.0,0.0,0.0
+更多美食,Bar Citta,Bar Citta,0,图林,0.0,0.0,0.0
+更多美食,Pasticceria Amore,Pasticceria Amore,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria D'Azeglio,Caffetteria D'Azeglio,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria del Borgo,Caffetteria del Borgo,0,图林,0.0,0.0,0.0
+更多美食,Caffe' Flora,Caffe' Flora,0,图林,0.0,0.0,0.0
+更多美食,guidoperEataly Casavicina,guidoperEataly Casavicina,0,图林,0.0,0.0,0.0
+更多美食,Cammafa,Cammafa,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria la Sarda,Pizzeria la Sarda,0,图林,0.0,0.0,0.0
+更多美食,Ristorante ControCorrente,Ristorante ControCorrente,0,图林,0.0,0.0,0.0
+更多美食,Bar Regina,Bar Regina,0,图林,0.0,0.0,0.0
+更多美食,L'Ancienne Maison du The,L'Ancienne Maison du The,0,图林,0.0,0.0,0.0
+更多美食,Red VS Food,Red VS Food,0,图林,0.0,0.0,0.0
+更多美食,Pasticceria Issiglio,Pasticceria Issiglio,0,图林,0.0,0.0,0.0
+更多美食,Officine Panino,Officine Panino,0,图林,0.0,0.0,0.0
+更多美食,Liliam Buffet,Liliam Buffet,0,图林,0.0,0.0,0.0
+更多美食,Ristorante del Citrone,Ristorante del Citrone,0,图林,0.0,0.0,0.0
+更多美食,Café Mosso,Café Mosso,0,图林,0.0,0.0,0.0
+更多美食,Amici Miei,Amici Miei,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Ristorante Amalfi,Pizzeria Ristorante Amalfi,0,图林,0.0,0.0,0.0
+更多美食,CENI DROGHERIA,CENI DROGHERIA,0,图林,0.0,0.0,0.0
+更多美食,Busters Coffee ,Busters Coffee ,0,图林,0.0,0.0,0.0
+更多美食,Coffee Hour,Coffee Hour,0,图林,0.0,0.0,0.0
+更多美食,Caffe' Roma Torrefazione,Caffe' Roma Torrefazione,0,图林,0.0,0.0,0.0
+更多美食,El Wheda Kebab,El Wheda Kebab,0,图林,0.0,0.0,0.0
+更多美食,Ristorante la Piola,Ristorante la Piola,0,图林,0.0,0.0,0.0
+更多美食,Doctor Remo,Doctor Remo,0,图林,0.0,0.0,0.0
+更多美食,Presto Pizza,Presto Pizza,0,图林,0.0,0.0,0.0
+更多美食,La Spanciata,La Spanciata,0,其他,0.0,0.0,0.0
+更多美食,BAR MYOSOTIS S.N.C,BAR MYOSOTIS S.N.C,0,图林,0.0,0.0,0.0
+更多美食,Etrusco,Etrusco,0,图林,0.0,0.0,0.0
+更多美食,Mizzica Sicilian Passion,Mizzica Sicilian Passion,0,图林,0.0,0.0,0.0
+更多美食,Torrefazione Roberta,Torrefazione Roberta,0,图林,0.0,0.0,0.0
+更多美食,CIRINGUITO Piadine e Crepes,CIRINGUITO Piadine e Crepes,0,图林,0.0,0.0,0.0
+更多美食,Il Circolo Virtuoso,Il Circolo Virtuoso,0,图林,0.0,0.0,0.0
+更多美食,Glutì,Glutì,0,图林,0.0,0.0,0.0
+更多美食,Caffe Fiorio,Caffe Fiorio,0,图林,0.0,0.0,0.0
+更多美食,Bottega Baretti,Bottega Baretti,0,图林,0.0,0.0,0.0
+更多美食,Cremeria Paladino il Gelato Genuino,Cremeria Paladino il Gelato Genuino,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Max Pomodoro,Ristorante Pizzeria Max Pomodoro,0,图林,0.0,0.0,0.0
+更多美食,Piadineria Romagnola da Claudio,Piadineria Romagnola da Claudio,0,图林,0.0,0.0,0.0
+更多美食,Pizza d'asporto La Delizia,Pizza d'asporto La Delizia,0,图林,0.0,0.0,0.0
+更多美食,Al Gufo Bianco,Al Gufo Bianco,0,图林,0.0,0.0,0.0
+更多美食,Caffe Pasticceria Lo Iacono,Caffe Pasticceria Lo Iacono,0,图林,0.0,0.0,0.0
+更多美食,Mordi E Fuggi,Mordi E Fuggi,0,图林,0.0,0.0,0.0
+更多美食,Taco Bang,Taco Bang,0,图林,0.0,0.0,0.0
+更多美食,BRISS Due Pesci Fuor d'Acqua,BRISS Due Pesci Fuor d'Acqua,0,图林,0.0,0.0,0.0
+更多美食,Pasticceria Elba,Pasticceria Elba,0,图林,0.0,0.0,0.0
+更多美食,A' Terra Mia,A' Terra Mia,0,图林,0.0,0.0,0.0
+更多美食,LunaBar,LunaBar,0,图林,0.0,0.0,0.0
+更多美食,Caffe Pasticceria la Vie en Rose,Caffe Pasticceria la Vie en Rose,0,图林,0.0,0.0,0.0
+更多美食,Kido-ism,Kido-ism,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria San Giorgio,Pizzeria San Giorgio,0,图林,0.0,0.0,0.0
+更多美食,Gar & B SRL,Gar & B SRL,0,图林,0.0,0.0,0.0
+更多美食,Il cortile,Il cortile,0,图林,0.0,0.0,0.0
+更多美食,El Shish Kebab,El Shish Kebab,0,图林,0.0,0.0,0.0
+更多美食,La Sacrestia,La Sacrestia,0,图林,0.0,0.0,0.0
+更多美食,L'imbarchino,L'imbarchino,0,图林,0.0,0.0,0.0
+更多美食,Pizza e Altro,Pizza e Altro,0,图林,0.0,0.0,0.0
+更多美食,Casa del Dolce,Casa del Dolce,0,图林,0.0,0.0,0.0
+更多美食,Mini MUU ,Mini MUU ,0,图林,0.0,0.0,0.0
+更多美食,Caffe Ruffini,Caffe Ruffini,0,图林,0.0,0.0,0.0
+更多美食,Ottimo,Ottimo,0,图林,0.0,0.0,0.0
+更多美食,Rosso Piccante in Cucina,Rosso Piccante in Cucina,0,图林,0.0,0.0,0.0
+更多美食,Cooperativa - Gelateria Naturale di San Salvario,Cooperativa - Gelateria Naturale di San Salvario,0,图林,0.0,0.0,0.0
+更多美食,Hostaria Barbagia di Ollolai,Hostaria Barbagia di Ollolai,0,图林,0.0,0.0,0.0
+更多美食,...e pronto! - Bistro Gastronomia,...e pronto! - Bistro Gastronomia,0,图林,0.0,0.0,0.0
+更多美食,La Rustica,La Rustica,0,图林,0.0,0.0,0.0
+更多美食,Wallpaper,Wallpaper,0,图林,0.0,0.0,0.0
+更多美食,Bar Trattoria Ichnusa,Bar Trattoria Ichnusa,0,图林,0.0,0.0,0.0
+更多美食,Le Bourriche,Le Bourriche,0,图林,0.0,0.0,0.0
+更多美食,PASTICCERIA MEDICO S.N.C,PASTICCERIA MEDICO S.N.C,0,图林,0.0,0.0,0.0
+更多美食,Il Circolo,Il Circolo,0,图林,0.0,0.0,0.0
+更多美食,Panetteria Star Pan,Panetteria Star Pan,0,图林,0.0,0.0,0.0
+更多美食,GUIDO GOBINO,GUIDO GOBINO,0,图林,0.0,0.0,0.0
+更多美食,500 Calorie,500 Calorie,0,图林,0.0,0.0,0.0
+更多美食,Ristorante La Rosa,Ristorante La Rosa,0,图林,0.0,0.0,0.0
+更多美食,Sardegna,Sardegna,0,图林,0.0,0.0,0.0
+更多美食,"La Caveja, Corso Ferrucci, Torino","La Caveja, Corso Ferrucci, Torino",0,图林,0.0,0.0,0.0
+更多美食,Convitto Cafe Bistrot Torteria,Convitto Cafe Bistrot Torteria,0,图林,0.0,0.0,0.0
+更多美食,El Rapido,El Rapido,0,图林,0.0,0.0,0.0
+更多美食,MAMYCAO,MAMYCAO,0,图林,0.0,0.0,0.0
+更多美食,Pasticceria Venier,Pasticceria Venier,0,图林,0.0,0.0,0.0
+更多美食,Verdi d'Invidia,Verdi d'Invidia,0,图林,0.0,0.0,0.0
+更多美食,Veg & Veg Ristorante,Veg & Veg Ristorante,0,图林,0.0,0.0,0.0
+更多美食,Articiocc,Articiocc,0,图林,0.0,0.0,0.0
+更多美食,Gelateria Vanilla,Gelateria Vanilla,0,图林,0.0,0.0,0.0
+更多美食,Antica Trattoria del Sole,Antica Trattoria del Sole,0,图林,0.0,0.0,0.0
+更多美食,Bottega Mia Restaurant,Bottega Mia Restaurant,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Galante,Ristorante Galante,0,图林,0.0,0.0,0.0
+更多美食,Soul Kitchen - Vegan & Raw Food,Soul Kitchen - Vegan & Raw Food,0,图林,0.0,0.0,0.0
+更多美食,Bakery Restaurant & Pizza,Bakery Restaurant & Pizza,0,图林,0.0,0.0,0.0
+更多美食,Salumerie Falchero,Salumerie Falchero,0,图林,0.0,0.0,0.0
+更多美食,Guido Gobino Sede,Guido Gobino Sede,0,图林,0.0,0.0,0.0
+更多美食,La Porta Rossa Restaurant,La Porta Rossa Restaurant,0,图林,0.0,0.0,0.0
+更多美食,Le Bourreau Bourre,Le Bourreau Bourre,0,图林,0.0,0.0,0.0
+更多美食,La Taverna dei Mercanti,La Taverna dei Mercanti,0,图林,0.0,0.0,0.0
+更多美食,Trattoria d'Agata,Trattoria d'Agata,0,图林,0.0,0.0,0.0
+更多美食,Hosteria Del Mecato,Hosteria Del Mecato,0,图林,0.0,0.0,0.0
+更多美食,Le Grand Maghreb,Le Grand Maghreb,0,图林,0.0,0.0,0.0
+更多美食,Sale in Zucca,Sale in Zucca,0,图林,0.0,0.0,0.0
+更多美食,Pasticceria Capello,Pasticceria Capello,0,图林,0.0,0.0,0.0
+更多美食,Il gusto di Carmilla,Il gusto di Carmilla,0,图林,0.0,0.0,0.0
+更多美食,Du' Cesari,Du' Cesari,0,图林,0.0,0.0,0.0
+更多美食,Capolinea8,Capolinea8,0,图林,0.0,0.0,0.0
+更多美食,Esportazione Cibi & Vini,Esportazione Cibi & Vini,0,图林,0.0,0.0,0.0
+更多美食,Il Tavoliere,Il Tavoliere,0,图林,0.0,0.0,0.0
+更多美食,50 Teglie,50 Teglie,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Sharing Torino,Ristorante Sharing Torino,0,其他,0.0,0.0,0.0
+更多美食,Gastronomia Vegetariana,Gastronomia Vegetariana,0,图林,0.0,0.0,0.0
+更多美食,Ristorante La Crota,Ristorante La Crota,0,图林,0.0,0.0,0.0
+更多美食,Gelateria La Coppa d'Oro,Gelateria La Coppa d'Oro,0,图林,0.0,0.0,0.0
+更多美食,River Side 506,River Side 506,0,图林,0.0,0.0,0.0
+更多美食,Naturalmente Veg,Naturalmente Veg,0,图林,0.0,0.0,0.0
+更多美食,Chikenriko Sabor Peruano,Chikenriko Sabor Peruano,0,图林,0.0,0.0,0.0
+更多美食,Hamburgheria,Hamburgheria,0,图林,0.0,0.0,0.0
+更多美食,Il Chiosco dello Zoo,Il Chiosco dello Zoo,0,图林,0.0,0.0,0.0
+更多美食,Le Tre Nuvole,Le Tre Nuvole,0,图林,0.0,0.0,0.0
+更多美食,Overfly,Overfly,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Canottieri Caprera,Ristorante Canottieri Caprera,0,图林,0.0,0.0,0.0
+更多美食,PASTICCERIA DICHIARA DOMENICO,PASTICCERIA DICHIARA DOMENICO,0,图林,0.0,0.0,0.0
+更多美食,Pasticceria Piana,Pasticceria Piana,0,图林,0.0,0.0,0.0
+更多美食,EATALY - Lingotto - I SALUMI E I FORMAGGI,EATALY - Lingotto - I SALUMI E I FORMAGGI,0,图林,0.0,0.0,0.0
+更多美食,EATALY - Lingotto - AGRIGELATERIA,EATALY - Lingotto - AGRIGELATERIA,0,图林,0.0,0.0,0.0
+更多美食,EATALY - Lingotto - LA CARNE,EATALY - Lingotto - LA CARNE,0,图林,0.0,0.0,0.0
+更多美食,Il Pinzimonio,Il Pinzimonio,0,图林,0.0,0.0,0.0
+更多美食,Gelateria al Paghoto,Gelateria al Paghoto,0,图林,0.0,0.0,0.0
+更多美食,Gelateria Silvano,Gelateria Silvano,0,图林,0.0,0.0,0.0
+更多美食,TORTE & AFFINI,TORTE & AFFINI,0,图林,0.0,0.0,0.0
+更多美食,New Chicago,New Chicago,0,图林,0.0,0.0,0.0
+更多美食,Colasanto Antonio,Colasanto Antonio,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria La Stampa,Caffetteria La Stampa,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Giudice,Ristorante Giudice,0,图林,0.0,0.0,0.0
+更多美食,Antico Ristoro Torino Di Dino Franceso,Antico Ristoro Torino Di Dino Franceso,0,图林,0.0,0.0,0.0
+更多美食,E.L.B.,E.L.B.,0,图林,0.0,0.0,0.0
+更多美食,Ristocolor Dining Tram,Ristocolor Dining Tram,0,图林,0.0,0.0,0.0
+更多美食,shizen japanese & oriental cuisine,shizen japanese & oriental cuisine,0,图林,0.0,0.0,0.0
+更多美食,Gennaro Esposito in Crimea,Gennaro Esposito in Crimea,0,图林,0.0,0.0,0.0
+更多美食,Borsatti e Martini,Borsatti e Martini,0,图林,0.0,0.0,0.0
+更多美食,"Bella Vita Birra, Pizza e ..Cucina","Bella Vita Birra, Pizza e ..Cucina",0,图林,0.0,0.0,0.0
+更多美食,Aglio,Aglio,0,图林,0.0,0.0,0.0
+更多美食,Tea Pot Tisaneria,Tea Pot Tisaneria,0,图林,0.0,0.0,0.0
+更多美食,Mar Rosso,Mar Rosso,0,图林,0.0,0.0,0.0
+更多美食,Spazio Mouv,Spazio Mouv,0,图林,0.0,0.0,0.0
+更多美食,Barnum,Barnum,0,图林,0.0,0.0,0.0
+更多美食,Horas Kebab,Horas Kebab,0,图林,0.0,0.0,0.0
+更多美食,Trattoria Coco's,Trattoria Coco's,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Mar Rosso,Pizzeria Mar Rosso,0,图林,0.0,0.0,0.0
+更多美食,Sushi Wok Srl,Sushi Wok Srl,0,图林,0.0,0.0,0.0
+更多美食,Ddr,Ddr,0,图林,0.0,0.0,0.0
+更多美食,Praetoria,Praetoria,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Flu,Ristorante Flu,0,图林,0.0,0.0,0.0
+更多美食,Il Covo della Taranta,Il Covo della Taranta,0,图林,0.0,0.0,0.0
+更多美食,B & C,B & C,0,图林,0.0,0.0,0.0
+更多美食,Osteria del Borgo,Osteria del Borgo,0,图林,0.0,0.0,0.0
+更多美食,Mamma Licia,Mamma Licia,0,图林,0.0,0.0,0.0
+更多美食,Mazzini 38,Mazzini 38,0,图林,0.0,0.0,0.0
+更多美食,Kipling,Kipling,0,图林,0.0,0.0,0.0
+更多美食,Belle Epoque,Belle Epoque,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Perbacco Alfredo in Cucina,Ristorante Perbacco Alfredo in Cucina,0,图林,0.0,0.0,0.0
+更多美食,L'Agrifoglio,L'Agrifoglio,0,图林,0.0,0.0,0.0
+更多美食,Ristorante VO,Ristorante VO,0,图林,0.0,0.0,0.0
+更多美食,Taverna dell'Oca,Taverna dell'Oca,0,图林,0.0,0.0,0.0
+更多美食,Emporio Mille900,Emporio Mille900,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Brande',Ristorante Brande',0,图林,0.0,0.0,0.0
+更多美食,Ciclocucina SAS di Fabrizio platzer &cc.,Ciclocucina SAS di Fabrizio platzer &cc.,0,图林,0.0,0.0,0.0
+更多美食,MiniMaison,MiniMaison,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Giapponese Sole,Ristorante Giapponese Sole,0,图林,0.0,0.0,0.0
+更多美食,... dell'Arsenale,... dell'Arsenale,0,图林,0.0,0.0,0.0
+更多美食,Sen Mi Ya,Sen Mi Ya,0,图林,0.0,0.0,0.0
+更多美食,Piu Trentanove,Piu Trentanove,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria SAN PAOLO,Pizzeria SAN PAOLO,0,图林,0.0,0.0,0.0
+更多美食,Bar Cafe Vendome,Bar Cafe Vendome,0,图林,0.0,0.0,0.0
+更多美食,Gramsci,Gramsci,0,图林,0.0,0.0,0.0
+更多美食,OSTERIA PORTA DI PO,OSTERIA PORTA DI PO,0,图林,0.0,0.0,0.0
+更多美食,Tegami e Farine,Tegami e Farine,0,图林,0.0,0.0,0.0
+更多美食,Ristorante A Tavola,Ristorante A Tavola,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Pietra Lavica Di Yu Jian e C. SAS,Ristorante Pietra Lavica Di Yu Jian e C. SAS,0,图林,0.0,0.0,0.0
+更多美食,Hamburgeria,Hamburgeria,0,图林,0.0,0.0,0.0
+更多美食,Miretti,Miretti,0,图林,0.0,0.0,0.0
+更多美食,La Spada Reale,La Spada Reale,0,图林,0.0,0.0,0.0
+更多美食,SERRANOS,SERRANOS,0,图林,0.0,0.0,0.0
+更多美食,Amazzonia,Amazzonia,0,图林,0.0,0.0,0.0
+更多美食,La Monachella,La Monachella,0,图林,0.0,0.0,0.0
+更多美食,La Badessa,La Badessa,0,图林,0.0,0.0,0.0
+更多美食,Sweet Lab,Sweet Lab,0,图林,0.0,0.0,0.0
+更多美食,Sabor Peruano,Sabor Peruano,0,图林,0.0,0.0,0.0
+更多美食,Piero's,Piero's,0,图林,0.0,0.0,0.0
+更多美食,Kuo Ji,Kuo Ji,0,图林,0.0,0.0,0.0
+更多美食,Crudo Osteria Contemporanea,Crudo Osteria Contemporanea,0,图林,0.0,0.0,0.0
+更多美食,SICULO,SICULO,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Gran Carlo,Ristorante Gran Carlo,0,图林,0.0,0.0,0.0
+更多美食,Le Cantine di Bacco,Le Cantine di Bacco,0,图林,0.0,0.0,0.0
+更多美食,Quattro Soldi,Quattro Soldi,0,图林,0.0,0.0,0.0
+更多美食,Noom,Noom,0,图林,0.0,0.0,0.0
+更多美食,Al Primo Piano,Al Primo Piano,0,图林,0.0,0.0,0.0
+更多美食,Lo Scugnizzo,Lo Scugnizzo,0,图林,0.0,0.0,0.0
+更多美食,Osteria dei 5 Piatti,Osteria dei 5 Piatti,0,图林,0.0,0.0,0.0
+更多美食,La Pie,La Pie,0,图林,0.0,0.0,0.0
+更多美食,Vintage 1997,Vintage 1997,0,图林,0.0,0.0,0.0
+更多美食,Pizzarello,Pizzarello,0,图林,0.0,0.0,0.0
+更多美食,Ratatouille,Ratatouille,0,图林,0.0,0.0,0.0
+更多美食,Cafe Creme,Cafe Creme,0,图林,0.0,0.0,0.0
+更多美食,Officine Bohemien,Officine Bohemien,0,图林,0.0,0.0,0.0
+更多美食,Oh! Mio Bio!,Oh! Mio Bio!,0,图林,0.0,0.0,0.0
+更多美食,Connery Pub,Connery Pub,0,图林,0.0,0.0,0.0
+更多美食,CECCHI,CECCHI,0,图林,0.0,0.0,0.0
+更多美食,Norman The New Concept Cafe',Norman The New Concept Cafe',0,图林,0.0,0.0,0.0
+更多美食,La Piadineria,La Piadineria,0,图林,0.0,0.0,0.0
+更多美食,Osteria In Vino Veritas,Osteria In Vino Veritas,0,图林,0.0,0.0,0.0
+更多美食,41 Bis,41 Bis,0,图林,0.0,0.0,0.0
+更多美食,La Petite Gourmande,La Petite Gourmande,0,图林,0.0,0.0,0.0
+更多美食,Dai Borboni,Dai Borboni,0,图林,0.0,0.0,0.0
+更多美食,Dalla Terra al Cielo,Dalla Terra al Cielo,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Ravello,Ristorante Ravello,0,图林,0.0,0.0,0.0
+更多美食,Il Chicco sul Po,Il Chicco sul Po,0,图林,0.0,0.0,0.0
+更多美食,Cala La Pasta,Cala La Pasta,0,图林,0.0,0.0,0.0
+更多美食,Zheng Yang,Zheng Yang,0,图林,0.0,0.0,0.0
+更多美食,Mordillo,Mordillo,0,图林,0.0,0.0,0.0
+更多美食,Trattoria Santa Maria,Trattoria Santa Maria,0,图林,0.0,0.0,0.0
+更多美食,Alle 8 Porte,Alle 8 Porte,0,图林,0.0,0.0,0.0
+更多美食,Soup & Go,Soup & Go,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Le Vigne,Ristorante Le Vigne,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Del Grappolo,Ristorante Del Grappolo,0,图林,0.0,0.0,0.0
+更多美食,Bar del Duomo Bicerin,Bar del Duomo Bicerin,0,图林,0.0,0.0,0.0
+更多美食,Cafe Vincent,Cafe Vincent,0,图林,0.0,0.0,0.0
+更多美食,Ri Ciacci,Ri Ciacci,0,图林,0.0,0.0,0.0
+更多美食,Il Ritrovo dei Sapori,Il Ritrovo dei Sapori,0,图林,0.0,0.0,0.0
+更多美食,Bicyclette,Bicyclette,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Torino,Ristorante Torino,0,图林,0.0,0.0,0.0
+更多美食,Il Ristorante di Settimo,Il Ristorante di Settimo,0,图林,0.0,0.0,0.0
+更多美食,Focacceria Lagrange,Focacceria Lagrange,0,图林,0.0,0.0,0.0
+更多美食,Ingrossominuto,Ingrossominuto,0,图林,0.0,0.0,0.0
+更多美食,Exki,Exki,0,图林,0.0,0.0,0.0
+更多美食,Simbad Kebab,Simbad Kebab,0,图林,0.0,0.0,0.0
+更多美食,PASTIFICIO FEDERICO,PASTIFICIO FEDERICO,0,图林,0.0,0.0,0.0
+更多美食,La Focacceria,La Focacceria,0,图林,0.0,0.0,0.0
+更多美食,Acquamarina Bar,Acquamarina Bar,0,图林,0.0,0.0,0.0
+更多美食,PIZZA DAY,PIZZA DAY,0,图林,0.0,0.0,0.0
+更多美食,Jet Set Torino,Jet Set Torino,0,图林,0.0,0.0,0.0
+更多美食,Le Scuderie della Tesoriera,Le Scuderie della Tesoriera,0,图林,0.0,0.0,0.0
+更多美食,Bistronomie,Bistronomie,0,图林,0.0,0.0,0.0
+更多美食,MYKONOS - gyrosteria greca,MYKONOS - gyrosteria greca,0,图林,0.0,0.0,0.0
+更多美食,Smile Tree,Smile Tree,0,图林,0.0,0.0,0.0
+更多美食,Revolucion Caliente,Revolucion Caliente,0,图林,0.0,0.0,0.0
+更多美食,Il Quarto Miglio,Il Quarto Miglio,0,图林,0.0,0.0,0.0
+更多美食,Amici dell'aquarela do brasil,Amici dell'aquarela do brasil,0,图林,0.0,0.0,0.0
+更多美食,Aladin,Aladin,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Ponte Barra,Ristorante Ponte Barra,0,图林,0.0,0.0,0.0
+更多美食,La vineria,La vineria,0,图林,0.0,0.0,0.0
+更多美食,Bar Antico Borgo,Bar Antico Borgo,0,图林,0.0,0.0,0.0
+更多美食,L'Ancora,L'Ancora,0,图林,0.0,0.0,0.0
+更多美食,Gelateria Golosando,Gelateria Golosando,0,图林,0.0,0.0,0.0
+更多美食,Cravero Pasticceria,Cravero Pasticceria,0,图林,0.0,0.0,0.0
+更多美食,La Granseola,La Granseola,0,图林,0.0,0.0,0.0
+更多美食,Hammam Al Bab,Hammam Al Bab,0,图林,0.0,0.0,0.0
+更多美食,Gelatitaly,Gelatitaly,0,图林,0.0,0.0,0.0
+更多美食,Da Ivo Ristorante,Da Ivo Ristorante,0,图林,0.0,0.0,0.0
+更多美食,Claudio Pizzeria,Claudio Pizzeria,0,图林,0.0,0.0,0.0
+更多美食,Dame' bistrot,Dame' bistrot,0,图林,0.0,0.0,0.0
+更多美食,Osteria di Prima,Osteria di Prima,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria Costadoro,Caffetteria Costadoro,0,图林,0.0,0.0,0.0
+更多美食,Osteria L'Oca Grassa,Osteria L'Oca Grassa,0,图林,0.0,0.0,0.0
+更多美食,Ristorante da Pietro,Ristorante da Pietro,0,图林,0.0,0.0,0.0
+更多美食,Li o La,Li o La,0,图林,0.0,0.0,0.0
+更多美食,Il Cavaliere,Il Cavaliere,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Onorato,Pizzeria Onorato,0,图林,0.0,0.0,0.0
+更多美食,Creperia Piadineria Sole Luna,Creperia Piadineria Sole Luna,0,图林,0.0,0.0,0.0
+更多美食,ALA da Silla,ALA da Silla,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria Minuto,Caffetteria Minuto,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Il Leone,Ristorante Il Leone,0,图林,0.0,0.0,0.0
+更多美食,Sciue Sciue,Sciue Sciue,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Nuovo Biellese,Ristorante Pizzeria Nuovo Biellese,0,图林,0.0,0.0,0.0
+更多美食,Maison du Brasil,Maison du Brasil,0,图林,0.0,0.0,0.0
+更多美食,La Paella,La Paella,0,图林,0.0,0.0,0.0
+更多美食,FLORIS HOUSE,FLORIS HOUSE,0,其他,0.0,0.0,0.0
+更多美食,Ristorante La Maison,Ristorante La Maison,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Meucci,Pizzeria Meucci,0,其他,0.0,0.0,0.0
+更多美食,Dirty Dick,Dirty Dick,0,其他,0.0,0.0,0.0
+更多美食,T&G Pizza & Restaurant,T&G Pizza & Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Il portico,Ristorante Pizzeria Il portico,0,其他,0.0,0.0,0.0
+更多美食,Trattoria L'Isola Verde,Trattoria L'Isola Verde,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Cinese Pechino,Ristorante Cinese Pechino,0,其他,0.0,0.0,0.0
+更多美食,Mangiabevi,Mangiabevi,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Ristorante Il Veliero,Pizzeria Ristorante Il Veliero,0,其他,0.0,0.0,0.0
+更多美食,Flunch Italia SRL,Flunch Italia SRL,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Toscano,Ristorante Toscano,0,其他,0.0,0.0,0.0
+更多美食,SEVE,SEVE,0,其他,0.0,0.0,0.0
+更多美食,PIZZA SPEEDY,PIZZA SPEEDY,0,图林,0.0,0.0,0.0
+更多美食,Officina Dei Balocchi,Officina Dei Balocchi,0,其他,0.0,0.0,0.0
+更多美食,Carignano,Carignano,0,其他,0.0,0.0,0.0
+更多美食,Rizzelli,Rizzelli,0,其他,0.0,0.0,0.0
+更多美食,La Reseda,La Reseda,0,图林,0.0,0.0,0.0
+更多美食,Bugianen,Bugianen,0,图林,0.0,0.0,0.0
+更多美食,Trattoria Lauro,Trattoria Lauro,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Conservatorio,Pizzeria Conservatorio,0,图林,0.0,0.0,0.0
+更多美食,La Locanda nel Parco,La Locanda nel Parco,0,图林,0.0,0.0,0.0
+更多美食,Pasticceria Deja Vu,Pasticceria Deja Vu,0,图林,0.0,0.0,0.0
+更多美食,Tromlin,Tromlin,0,图林,0.0,0.0,0.0
+更多美食,Casa Martin,Casa Martin,0,图林,0.0,0.0,0.0
+更多美食,Taverna Greca,Taverna Greca,0,图林,0.0,0.0,0.0
+更多美食,Ritual Café Brasileiro,Ritual Café Brasileiro,0,图林,0.0,0.0,0.0
+更多美食,La Cantinella,La Cantinella,0,图林,0.0,0.0,0.0
+更多美食,Abu Simbel,Abu Simbel,0,图林,0.0,0.0,0.0
+更多美食,Bocciofila Monte Sabotino,Bocciofila Monte Sabotino,0,图林,0.0,0.0,0.0
+更多美食,Punto Caffe 18 Di Dario Nocciolini,Punto Caffe 18 Di Dario Nocciolini,0,图林,0.0,0.0,0.0
+更多美食,Aperhaus,Aperhaus,0,图林,0.0,0.0,0.0
+更多美食,LA CLOCHE,LA CLOCHE,0,图林,0.0,0.0,0.0
+更多美食,Da noi,Da noi,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Mon Ami,Ristorante Mon Ami,0,图林,0.0,0.0,0.0
+更多美食,Moody,Moody,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Nuove Salette,Ristorante Nuove Salette,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Le Due Isole,Pizzeria Le Due Isole,0,图林,0.0,0.0,0.0
+更多美食,Joel SNC,Joel SNC,0,图林,0.0,0.0,0.0
+更多美食,EATALY - Lingotto - LE VERDURE,EATALY - Lingotto - LE VERDURE,0,图林,0.0,0.0,0.0
+更多美食,EATALY - Lingotto - DELLA BIRRA,EATALY - Lingotto - DELLA BIRRA,0,图林,0.0,0.0,0.0
+更多美食,La Fabbrica,La Fabbrica,0,图林,0.0,0.0,0.0
+更多美食,Girarrosto Santa Rita,Girarrosto Santa Rita,0,图林,0.0,0.0,0.0
+更多美食,Vecchia Europa,Vecchia Europa,0,图林,0.0,0.0,0.0
+更多美食,Girarrosti Santa Rita,Girarrosti Santa Rita,0,图林,0.0,0.0,0.0
+更多美食,Le Due Isole,Le Due Isole,0,图林,0.0,0.0,0.0
+更多美食,Comba Pasticceria,Comba Pasticceria,0,图林,0.0,0.0,0.0
+更多美食,L'Idrovolante,L'Idrovolante,0,图林,0.0,0.0,0.0
+更多美食,La Scaletta,La Scaletta,0,图林,0.0,0.0,0.0
+更多美食,Da Dino,Da Dino,0,图林,0.0,0.0,0.0
+更多美食,Dessi,Dessi,0,图林,0.0,0.0,0.0
+更多美食,Bocciofila Crimea,Bocciofila Crimea,0,图林,0.0,0.0,0.0
+更多美食,Paglia e Fieno Bistrot,Paglia e Fieno Bistrot,0,图林,0.0,0.0,0.0
+更多美食,Gelateria Testa,Gelateria Testa,0,图林,0.0,0.0,0.0
+更多美食,L'Angolo di Parin,L'Angolo di Parin,0,图林,0.0,0.0,0.0
+更多美食,MANHATTAN,MANHATTAN,0,图林,0.0,0.0,0.0
+更多美食,Tank,Tank,0,图林,0.0,0.0,0.0
+更多美食,Al monte dei Cappuccini,Al monte dei Cappuccini,0,图林,0.0,0.0,0.0
+更多美食,Filo di Marianna,Filo di Marianna,0,图林,0.0,0.0,0.0
+更多美食,Martimat,Martimat,0,图林,0.0,0.0,0.0
+更多美食,Trattoria Da Felice Di Colacillo Maria Grazia,Trattoria Da Felice Di Colacillo Maria Grazia,0,图林,0.0,0.0,0.0
+更多美食,Il Discorante,Il Discorante,0,图林,0.0,0.0,0.0
+更多美食,Franky's Cafe',Franky's Cafe',0,图林,0.0,0.0,0.0
+更多美食,ANTICA ENOTECA DEL BORGO,ANTICA ENOTECA DEL BORGO,0,图林,0.0,0.0,0.0
+更多美食,Ghiottus Taberna,Ghiottus Taberna,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Sciuscia,Ristorante Sciuscia,0,图林,0.0,0.0,0.0
+更多美食,Open Baladin,Open Baladin,0,图林,0.0,0.0,0.0
+更多美食,Il vicolo,Il vicolo,0,图林,0.0,0.0,0.0
+更多美食,Birrificio Angelo Poretti,Birrificio Angelo Poretti,0,图林,0.0,0.0,0.0
+更多美食,Ekki,Ekki,0,图林,0.0,0.0,0.0
+更多美食,Ristorante 1492,Ristorante 1492,0,图林,0.0,0.0,0.0
+更多美食,Cafe Cristal,Cafe Cristal,0,图林,0.0,0.0,0.0
+更多美食,Jazz Club,Jazz Club,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Ristorante Tomagra,Pizzeria Ristorante Tomagra,0,图林,0.0,0.0,0.0
+更多美食,Exki,Exki,0,图林,0.0,0.0,0.0
+更多美食,Ricreazione,Ricreazione,0,图林,0.0,0.0,0.0
+更多美食,Cafe Palazzo Accorsi,Cafe Palazzo Accorsi,0,图林,0.0,0.0,0.0
+更多美食,Wok'N Roll Noodle Bar,Wok'N Roll Noodle Bar,0,图林,0.0,0.0,0.0
+更多美食,Restaurant del Borgo,Restaurant del Borgo,0,图林,0.0,0.0,0.0
+更多美食,La Botte Gaia,La Botte Gaia,0,图林,0.0,0.0,0.0
+更多美食,Eataly Incontra,Eataly Incontra,0,图林,0.0,0.0,0.0
+更多美食,Trattoria Del Picchio,Trattoria Del Picchio,0,图林,0.0,0.0,0.0
+更多美食,Il Trullo,Il Trullo,0,图林,0.0,0.0,0.0
+更多美食,Zappala's,Zappala's,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Habanero,Ristorante Habanero,0,图林,0.0,0.0,0.0
+更多美食,Dual,Dual,0,图林,0.0,0.0,0.0
+更多美食,Blah Blah,Blah Blah,0,图林,0.0,0.0,0.0
+更多美食,La Fila,La Fila,0,图林,0.0,0.0,0.0
+更多美食,Ratatouille food,Ratatouille food,0,图林,0.0,0.0,0.0
+更多美食,Ristorante All'Opera,Ristorante All'Opera,0,图林,0.0,0.0,0.0
+更多美食,Il Padellino,Il Padellino,0,图林,0.0,0.0,0.0
+更多美食,DIVIZIA,DIVIZIA,0,图林,0.0,0.0,0.0
+更多美食,Re Calamaro,Re Calamaro,0,图林,0.0,0.0,0.0
+更多美食,Kuoki,Kuoki,0,图林,0.0,0.0,0.0
+更多美食,La Vetreria,La Vetreria,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Aumm Aumm,Pizzeria Aumm Aumm,0,图林,0.0,0.0,0.0
+更多美食,Cantine Barbaroux,Cantine Barbaroux,0,图林,0.0,0.0,0.0
+更多美食,Querio Bar Pasticceria,Querio Bar Pasticceria,0,图林,0.0,0.0,0.0
+更多美食,Forchetta Scarpetta,Forchetta Scarpetta,0,图林,0.0,0.0,0.0
+更多美食,I SOLITI IGNOTI,I SOLITI IGNOTI,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Sa Opera,Ristorante Sa Opera,0,图林,0.0,0.0,0.0
+更多美食,Luce e Gas,Luce e Gas,0,图林,0.0,0.0,0.0
+更多美食,I Tarocchi,I Tarocchi,0,图林,0.0,0.0,0.0
+更多美食,Bar della Colonna,Bar della Colonna,0,图林,0.0,0.0,0.0
+更多美食,Cinque Lire,Cinque Lire,0,图林,0.0,0.0,0.0
+更多美食,Lobelix,Lobelix,0,图林,0.0,0.0,0.0
+更多美食,Il Galluccio,Il Galluccio,0,图林,0.0,0.0,0.0
+更多美食,Trattoria Anna,Trattoria Anna,0,图林,0.0,0.0,0.0
+更多美食,tre galli,tre galli,0,图林,0.0,0.0,0.0
+更多美食,Umami,Umami,0,图林,0.0,0.0,0.0
+更多美食,La Piola del Cine,La Piola del Cine,0,图林,0.0,0.0,0.0
+更多美食,Osteria del Mercato,Osteria del Mercato,0,图林,0.0,0.0,0.0
+更多美食,Ai tre bicchieri,Ai tre bicchieri,0,图林,0.0,0.0,0.0
+更多美食,Ristorante San Giors,Ristorante San Giors,0,图林,0.0,0.0,0.0
+更多美食,Osteria Al Tagliere,Osteria Al Tagliere,0,图林,0.0,0.0,0.0
+更多美食,Aladino 1,Aladino 1,0,图林,0.0,0.0,0.0
+更多美食,Birrificio La Piazza,Birrificio La Piazza,0,图林,0.0,0.0,0.0
+更多美食,Il Martinetto,Il Martinetto,0,图林,0.0,0.0,0.0
+更多美食,Monnalisa,Monnalisa,0,图林,0.0,0.0,0.0
+更多美食,Osteria le Ferriere Di Torino,Osteria le Ferriere Di Torino,0,图林,0.0,0.0,0.0
+更多美食,LE GINESTRE,LE GINESTRE,0,图林,0.0,0.0,0.0
+更多美食,Bagni Municipali,Bagni Municipali,0,图林,0.0,0.0,0.0
+更多美食,La Divina,La Divina,0,图林,0.0,0.0,0.0
+更多美食,Cooking Art Restaurant,Cooking Art Restaurant,0,图林,0.0,0.0,0.0
+更多美食,Pizza Da Asporto Toto E Peppino,Pizza Da Asporto Toto E Peppino,0,图林,0.0,0.0,0.0
+更多美食,Vecchio Aratro,Vecchio Aratro,0,图林,0.0,0.0,0.0
+更多美食,Japs! Centrale,Japs! Centrale,0,其他,0.0,0.0,0.0
+更多美食,Locanda Botticelli,Locanda Botticelli,0,其他,0.0,0.0,0.0
+更多美食,Pasticceria Durighello,Pasticceria Durighello,0,其他,0.0,0.0,0.0
+更多美食,La Boheme,La Boheme,0,其他,0.0,0.0,0.0
+更多美食,L'Erede al Trono,L'Erede al Trono,0,其他,0.0,0.0,0.0
+更多美食,Agriturismo La Baita Fiorita,Agriturismo La Baita Fiorita,0,其他,0.0,0.0,0.0
+更多美食,Panetteria Marocchi,Panetteria Marocchi,0,其他,0.0,0.0,0.0
+更多美食,Serenata,Serenata,0,其他,0.0,0.0,0.0
+更多美食,Bar Chicco D'oro,Bar Chicco D'oro,0,其他,0.0,0.0,0.0
+更多美食,Banco,Banco,0,其他,0.0,0.0,0.0
+更多美食,Fiorio Gelati,Fiorio Gelati,0,其他,0.0,0.0,0.0
+更多美食,Focacceria Palestro,Focacceria Palestro,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Picchiarello,Ristorante Pizzeria Picchiarello,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Bivio Concept Cafe,Ristorante Bivio Concept Cafe,0,其他,0.0,0.0,0.0
+更多美食,Il Gatto e la Volpe,Il Gatto e la Volpe,0,图林,0.0,0.0,0.0
+更多美食,Ristorante MareLuna,Ristorante MareLuna,0,图林,0.0,0.0,0.0
+更多美食,Mexico '70,Mexico '70,0,图林,0.0,0.0,0.0
+更多美食,Pasticceria Colosseo Torino,Pasticceria Colosseo Torino,0,图林,0.0,0.0,0.0
+更多美食,Paese Zhou Sas Di Zhou Wenbin E C.,Paese Zhou Sas Di Zhou Wenbin E C.,0,图林,0.0,0.0,0.0
+更多美食,Al Tegamino,Al Tegamino,0,图林,0.0,0.0,0.0
+更多美食,La Ristonomia,La Ristonomia,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Sette Nani SNC,Pizzeria Sette Nani SNC,0,图林,0.0,0.0,0.0
+更多美食,Al Baccanale,Al Baccanale,0,图林,0.0,0.0,0.0
+更多美食,La Vela Di Faraci Giovanni e C.,La Vela Di Faraci Giovanni e C.,0,图林,0.0,0.0,0.0
+更多美食,Ganas de Mar,Ganas de Mar,0,图林,0.0,0.0,0.0
+更多美食,Il Punto Verde,Il Punto Verde,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Ristorante Da Gisella,Pizzeria Ristorante Da Gisella,0,图林,0.0,0.0,0.0
+更多美食,Jhon Lennon,Jhon Lennon,0,图林,0.0,0.0,0.0
+更多美食,El Pasion,El Pasion,0,图林,0.0,0.0,0.0
+更多美食,Gustotram,Gustotram,0,图林,0.0,0.0,0.0
+更多美食,Il Korallo,Il Korallo,0,图林,0.0,0.0,0.0
+更多美食,Sushi Tei,Sushi Tei,0,图林,0.0,0.0,0.0
+更多美食,Menodiciotto,Menodiciotto,0,图林,0.0,0.0,0.0
+更多美食,Da Angelino,Da Angelino,0,图林,0.0,0.0,0.0
+更多美食,Blanco,Blanco,0,图林,0.0,0.0,0.0
+更多美食,Shri Ganesh Restaurant,Shri Ganesh Restaurant,0,图林,0.0,0.0,0.0
+更多美食,Osteria Zero81,Osteria Zero81,0,图林,0.0,0.0,0.0
+更多美食,Salsamentario,Salsamentario,0,图林,0.0,0.0,0.0
+更多美食,Nifertiti,Nifertiti,0,图林,0.0,0.0,0.0
+更多美食,Rossopomodoro,Rossopomodoro,0,图林,0.0,0.0,0.0
+更多美食,Cinese Fu Lihua Di Hu Yong Hua & C.,Cinese Fu Lihua Di Hu Yong Hua & C.,0,图林,0.0,0.0,0.0
+更多美食,La Taverna da Johnny,La Taverna da Johnny,0,图林,0.0,0.0,0.0
+更多美食,Copacabana,Copacabana,0,图林,0.0,0.0,0.0
+更多美食,Kogin's Club,Kogin's Club,0,图林,0.0,0.0,0.0
+更多美食,Dalia Ristorante Giapponese,Dalia Ristorante Giapponese,0,图林,0.0,0.0,0.0
+更多美食,La Trattoria,La Trattoria,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Cinese Ni Hao Di Zhao Xueyun,Ristorante Cinese Ni Hao Di Zhao Xueyun,0,图林,0.0,0.0,0.0
+更多美食,Corner House,Corner House,0,图林,0.0,0.0,0.0
+更多美食,Bistrot del teatro,Bistrot del teatro,0,图林,0.0,0.0,0.0
+更多美食,Art & Coffe,Art & Coffe,0,图林,0.0,0.0,0.0
+更多美食,Bellavista,Bellavista,0,图林,0.0,0.0,0.0
+更多美食,Il Pavia,Il Pavia,0,图林,0.0,0.0,0.0
+更多美食,Fluido,Fluido,0,图林,0.0,0.0,0.0
+更多美食,La Croisette,La Croisette,0,图林,0.0,0.0,0.0
+更多美食,Binario 27,Binario 27,0,图林,0.0,0.0,0.0
+更多美食,Caffe del Corso,Caffe del Corso,0,图林,0.0,0.0,0.0
+更多美食,Ristorante e Caffe Petra,Ristorante e Caffe Petra,0,图林,0.0,0.0,0.0
+更多美食,le terrazze,le terrazze,0,图林,0.0,0.0,0.0
+更多美食,Cremeria 42,Cremeria 42,0,图林,0.0,0.0,0.0
+更多美食,Bottiglieria Valenzano Luigi,Bottiglieria Valenzano Luigi,0,图林,0.0,0.0,0.0
+更多美食,Strabiglia,Strabiglia,0,图林,0.0,0.0,0.0
+更多美食,Scali,Scali,0,图林,0.0,0.0,0.0
+更多美食,Giapu 2,Giapu 2,0,图林,0.0,0.0,0.0
+更多美食,Hua Qiao,Hua Qiao,0,图林,0.0,0.0,0.0
+更多美食,Sosushi Train,Sosushi Train,0,图林,0.0,0.0,0.0
+更多美食,New Ohashi,New Ohashi,0,图林,0.0,0.0,0.0
+更多美食,Bar Nelson,Bar Nelson,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Antonio La Trippa,Ristorante Antonio La Trippa,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Charlie Chaplin,Pizzeria Charlie Chaplin,0,图林,0.0,0.0,0.0
+更多美食,Bar Zucca,Bar Zucca,0,图林,0.0,0.0,0.0
+更多美食,Buck's Sport Cafe,Buck's Sport Cafe,0,图林,0.0,0.0,0.0
+更多美食,One Apple Concept Bar & Restaurant,One Apple Concept Bar & Restaurant,0,图林,0.0,0.0,0.0
+更多美食,Maialetto,Maialetto,0,图林,0.0,0.0,0.0
+更多美食,Xo' Cafe,Xo' Cafe,0,图林,0.0,0.0,0.0
+更多美食,Ichiban Sushi,Ichiban Sushi,0,图林,0.0,0.0,0.0
+更多美食,Ciro Pizza,Ciro Pizza,0,图林,0.0,0.0,0.0
+更多美食,Caffe' Pausa Pranzo,Caffe' Pausa Pranzo,0,图林,0.0,0.0,0.0
+更多美食,Royal Princess Pub,Royal Princess Pub,0,图林,0.0,0.0,0.0
+更多美食,The 1870 Huntsman Pub,The 1870 Huntsman Pub,0,图林,0.0,0.0,0.0
+更多美食,el dar...,el dar...,0,图林,0.0,0.0,0.0
+更多美食,Mokita,Mokita,0,图林,0.0,0.0,0.0
+更多美食,Cantine Risso,Cantine Risso,0,图林,0.0,0.0,0.0
+更多美食,Bruschetteria Pautasso da Angelo,Bruschetteria Pautasso da Angelo,0,图林,0.0,0.0,0.0
+更多美食,Il Ciuco Matto,Il Ciuco Matto,0,图林,0.0,0.0,0.0
+更多美食,I Vitelloni,I Vitelloni,0,图林,0.0,0.0,0.0
+更多美食,'L CAVAL 'D BRONS,'L CAVAL 'D BRONS,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Goffi,Ristorante Goffi,0,图林,0.0,0.0,0.0
+更多美食,Caffe San Carlo,Caffe San Carlo,0,图林,0.0,0.0,0.0
+更多美食,Neko Cafe,Neko Cafe,0,图林,0.0,0.0,0.0
+更多美食,Samoa,Samoa,0,图林,0.0,0.0,0.0
+更多美食,Miyako,Miyako,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Costello,Ristorante Costello,0,图林,0.0,0.0,0.0
+更多美食,Caffe Universita,Caffe Universita,0,图林,0.0,0.0,0.0
+更多美食,Boccaccio 80,Boccaccio 80,0,图林,0.0,0.0,0.0
+更多美食,Societa Anonima Bar,Societa Anonima Bar,0,图林,0.0,0.0,0.0
+更多美食,Aspettando Mimi,Aspettando Mimi,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Due Torri,Pizzeria Due Torri,0,图林,0.0,0.0,0.0
+更多美食,El Mir,El Mir,0,图林,0.0,0.0,0.0
+更多美食,Aladino 3,Aladino 3,0,图林,0.0,0.0,0.0
+更多美食,Pan per Focaccia,Pan per Focaccia,0,图林,0.0,0.0,0.0
+更多美食,MiaGola Caffe,MiaGola Caffe,0,图林,0.0,0.0,0.0
+更多美食,Tisaneria Della Consolata,Tisaneria Della Consolata,0,图林,0.0,0.0,0.0
+更多美食,Cialdini,Cialdini,0,图林,0.0,0.0,0.0
+更多美食,Pizza Jet,Pizza Jet,0,图林,0.0,0.0,0.0
+更多美食,happy days,happy days,0,图林,0.0,0.0,0.0
+更多美食,Re Taurisco,Re Taurisco,0,图林,0.0,0.0,0.0
+更多美食,La Verace,La Verace,0,图林,0.0,0.0,0.0
+更多美食,A Picciridda Eat Sicily,A Picciridda Eat Sicily,0,图林,0.0,0.0,0.0
+更多美食,A Picciridda,A Picciridda,0,图林,0.0,0.0,0.0
+更多美食,Casa Mad,Casa Mad,0,图林,0.0,0.0,0.0
+更多美食,Oblio,Oblio,0,图林,0.0,0.0,0.0
+更多美食,Il Marachella,Il Marachella,0,图林,0.0,0.0,0.0
+更多美食,Freevolo,Freevolo,0,图林,0.0,0.0,0.0
+更多美食,La Bufala,La Bufala,0,图林,0.0,0.0,0.0
+更多美食,McDonald's Torino Piazza Statuto,McDonald's Torino Piazza Statuto,0,图林,0.0,0.0,0.0
+更多美食,Aladino 2,Aladino 2,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Ratatui Di Magnano Ernestina,Ristorante Ratatui Di Magnano Ernestina,0,图林,0.0,0.0,0.0
+更多美食,Gilgamesh,Gilgamesh,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Trattoria Sichi Giuliano,Pizzeria Trattoria Sichi Giuliano,0,图林,0.0,0.0,0.0
+更多美食,Royal Regina Restaurant,Royal Regina Restaurant,0,图林,0.0,0.0,0.0
+更多美食,Burger King Parco Dora,Burger King Parco Dora,0,图林,0.0,0.0,0.0
+更多美食,Pulcinella,Pulcinella,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Il Giardino,Ristorante Il Giardino,0,图林,0.0,0.0,0.0
+更多美食,Marcellino Pizza E Vino,Marcellino Pizza E Vino,0,图林,0.0,0.0,0.0
+更多美食,Calaluna,Calaluna,0,图林,0.0,0.0,0.0
+更多美食,La Taverna del Santo Palato,La Taverna del Santo Palato,0,图林,0.0,0.0,0.0
+更多美食,Hotel Ristorante Interporto,Hotel Ristorante Interporto,0,其他,0.0,0.0,0.0
+更多美食,Jiang Di Wan Chong,Jiang Di Wan Chong,0,其他,0.0,0.0,0.0
+更多美食,Les Cafe Croissant,Les Cafe Croissant,0,其他,0.0,0.0,0.0
+更多美食,Princess,Princess,0,其他,0.0,0.0,0.0
+更多美食,Cafe de Nuit,Cafe de Nuit,0,其他,0.0,0.0,0.0
+更多美食,Satprem - Bioristorante Naturale,Satprem - Bioristorante Naturale,0,其他,0.0,0.0,0.0
+更多美食,Gospelfood - Bakery Cafe,Gospelfood - Bakery Cafe,0,其他,0.0,0.0,0.0
+更多美食,Caffetteria Carlo Emanuele,Caffetteria Carlo Emanuele,0,其他,0.0,0.0,0.0
+更多美食,Amici del Remo,Amici del Remo,0,其他,0.0,0.0,0.0
+更多美食,Societe Lutece,Societe Lutece,0,图林,0.0,0.0,0.0
+更多美食,Duca 102,Duca 102,0,图林,0.0,0.0,0.0
+更多美食,L Agrifoglio,L Agrifoglio,0,图林,0.0,0.0,0.0
+更多美食,tutto in famiglia,tutto in famiglia,0,图林,0.0,0.0,0.0
+更多美食,Osteria Numero 100,Osteria Numero 100,0,图林,0.0,0.0,0.0
+更多美食,J B Home,J B Home,0,图林,0.0,0.0,0.0
+更多美食,Il Clou,Il Clou,0,图林,0.0,0.0,0.0
+更多美食,Locanda Casale,Locanda Casale,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Malibu,Ristorante Malibu,0,图林,0.0,0.0,0.0
+更多美食,Lanterna Magica,Lanterna Magica,0,图林,0.0,0.0,0.0
+更多美食,MISTER HU,MISTER HU,0,图林,0.0,0.0,0.0
+更多美食,La Rugiada,La Rugiada,0,图林,0.0,0.0,0.0
+更多美食,MARAMAO,MARAMAO,0,图林,0.0,0.0,0.0
+更多美食,Vintage 1997,Vintage 1997,0,图林,0.0,0.0,0.0
+更多美食,Cammafa,Cammafa,0,图林,0.0,0.0,0.0
+更多美食,Revolucion Caliente,Revolucion Caliente,0,图林,0.0,0.0,0.0
+更多美食,Yankuam,Yankuam,0,图林,0.0,0.0,0.0
+更多美食,Lo Sfizietto Corso Belgio,Lo Sfizietto Corso Belgio,0,图林,0.0,0.0,0.0
+更多美食,Barnum,Barnum,0,图林,0.0,0.0,0.0
+更多美食,Il Tavoliere,Il Tavoliere,0,图林,0.0,0.0,0.0
+更多美食,Mar Rosso,Mar Rosso,0,图林,0.0,0.0,0.0
+更多美食,Kipling,Kipling,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Onorato,Pizzeria Onorato,0,图林,0.0,0.0,0.0
+更多美食,La Spanciata,La Spanciata,0,图林,0.0,0.0,0.0
+更多美食,Ristorante ControCorrente,Ristorante ControCorrente,0,图林,0.0,0.0,0.0
+更多美食,Sindbad,Sindbad,0,图林,0.0,0.0,0.0
+更多美食,L Ancora,L Ancora,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Brande,Ristorante Brande,0,图林,0.0,0.0,0.0
+更多美食,Coven 125,Coven 125,0,图林,0.0,0.0,0.0
+更多美食,Volver,Volver,0,图林,0.0,0.0,0.0
+更多美食,Osteria dei 5 Piatti,Osteria dei 5 Piatti,0,图林,0.0,0.0,0.0
+更多美食,Il gusto di Carmilla,Il gusto di Carmilla,0,图林,0.0,0.0,0.0
+更多美食,Connery Pub,Connery Pub,0,图林,0.0,0.0,0.0
+更多美食,Tea Pot Tisaneria,Tea Pot Tisaneria,0,图林,0.0,0.0,0.0
+更多美食,Esportazione Cibi,Esportazione Cibi,0,图林,0.0,0.0,0.0
+更多美食,Panetteria Marocchi,Panetteria Marocchi,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria Carlo Alberto,Caffetteria Carlo Alberto,0,其他,0.0,0.0,0.0
+更多美食,Le Cantine di Bacco,Le Cantine di Bacco,0,图林,0.0,0.0,0.0
+更多美食,La Medusa,La Medusa,0,图林,0.0,0.0,0.0
+更多美食,The Isle of Skye Scottish Pub,The Isle of Skye Scottish Pub,0,图林,0.0,0.0,0.0
+更多美食,Birrificio La Piazza,Birrificio La Piazza,0,图林,0.0,0.0,0.0
+更多美食,Il vicolo,Il vicolo,0,图林,0.0,0.0,0.0
+更多美食,Merenda Sinoira Torino,Merenda Sinoira Torino,0,图林,0.0,0.0,0.0
+更多美食,La Stua,La Stua,0,图林,0.0,0.0,0.0
+更多美食,Bicyclette,Bicyclette,0,图林,0.0,0.0,0.0
+更多美食,Oh! Mio Bio!,Oh! Mio Bio!,0,图林,0.0,0.0,0.0
+更多美食,Li o La,Li o La,0,图林,0.0,0.0,0.0
+更多美食,Borsatti e Martini,Borsatti e Martini,0,图林,0.0,0.0,0.0
+更多美食,Caffe Fiorio,Caffe Fiorio,0,图林,0.0,0.0,0.0
+更多美食,Kuo Ji,Kuo Ji,0,图林,0.0,0.0,0.0
+更多美食,Bottega Baretti,Bottega Baretti,0,图林,0.0,0.0,0.0
+更多美食,Ratatouille,Ratatouille,0,图林,0.0,0.0,0.0
+更多美食,Pizza e Altro,Pizza e Altro,0,图林,0.0,0.0,0.0
+更多美食,Gennaro Esposito in Crimea,Gennaro Esposito in Crimea,0,图林,0.0,0.0,0.0
+更多美食,T&G Pizza & Restaurant,T&G Pizza & Restaurant,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Habanero,Ristorante Habanero,0,图林,0.0,0.0,0.0
+更多美食,Spazio Mouv,Spazio Mouv,0,图林,0.0,0.0,0.0
+更多美食,Di Martino Antonio,Di Martino Antonio,0,图林,0.0,0.0,0.0
+更多美食,L angolo svedese - The swedish corner,L angolo svedese - The swedish corner,0,图林,0.0,0.0,0.0
+更多美食,Arepas Cocina Venezolana,Arepas Cocina Venezolana,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Ristorante Cocobabe,Pizzeria Ristorante Cocobabe,0,图林,0.0,0.0,0.0
+更多美食,Island Di Mancin Alessandro,Island Di Mancin Alessandro,0,图林,0.0,0.0,0.0
+更多美食,Birghiotto,Birghiotto,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria Viennese,Caffetteria Viennese,0,图林,0.0,0.0,0.0
+更多美食,Angeloni Giuseppe,Angeloni Giuseppe,0,图林,0.0,0.0,0.0
+更多美食,Il Shesh Kapap,Il Shesh Kapap,0,图林,0.0,0.0,0.0
+更多美食,CREMOLESE,CREMOLESE,0,图林,0.0,0.0,0.0
+更多美食,El Kesh Kebar,El Kesh Kebar,0,图林,0.0,0.0,0.0
+更多美食,Il Sorij,Il Sorij,0,图林,0.0,0.0,0.0
+更多美食,Las Lineas de Nasca,Las Lineas de Nasca,0,图林,0.0,0.0,0.0
+更多美食,Addimando Luca Alfredo,Addimando Luca Alfredo,0,图林,0.0,0.0,0.0
+更多美食,Dolce Mare,Dolce Mare,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Toto Di Oteri Maria,Pizzeria Toto Di Oteri Maria,0,图林,0.0,0.0,0.0
+更多美食,Caffe Martina,Caffe Martina,0,图林,0.0,0.0,0.0
+更多美食,Hu Xiao Yiao,Hu Xiao Yiao,0,图林,0.0,0.0,0.0
+更多美食,Birrerie,Birrerie,0,图林,0.0,0.0,0.0
+更多美食,Golo  Snc Gelateria,Golo  Snc Gelateria,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Caffe Svolta Di Contorno Debora,Ristorante Caffe Svolta Di Contorno Debora,0,图林,0.0,0.0,0.0
+更多美食,Risto-Bar LE 2 Sorelle,Risto-Bar LE 2 Sorelle,0,图林,0.0,0.0,0.0
+更多美食,Kebab da Mustapha,Kebab da Mustapha,0,图林,0.0,0.0,0.0
+更多美食,P.L. Ristorazioni SNC Di Parasiliti Rantone,P.L. Ristorazioni SNC Di Parasiliti Rantone,0,图林,0.0,0.0,0.0
+更多美食,Shams Cafe,Shams Cafe,0,图林,0.0,0.0,0.0
+更多美食,Jamaica Bar,Jamaica Bar,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Al Grassi Di Pascale Michele,Ristorante Al Grassi Di Pascale Michele,0,图林,0.0,0.0,0.0
+更多美食,Trattoria Il Gelso,Trattoria Il Gelso,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Il Pizzicotto,Ristorante Il Pizzicotto,0,图林,0.0,0.0,0.0
+更多美食,Xeres SAS Di Zhong Xuejing,Xeres SAS Di Zhong Xuejing,0,图林,0.0,0.0,0.0
+更多美食,Escargot,Escargot,0,图林,0.0,0.0,0.0
+更多美食,CIELO AZUL,CIELO AZUL,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria il re di torino,Pizzeria il re di torino,0,图林,0.0,0.0,0.0
+更多美食,Pasticceria Beatrice,Pasticceria Beatrice,0,图林,0.0,0.0,0.0
+更多美食,Kebab Mici Pizza,Kebab Mici Pizza,0,图林,0.0,0.0,0.0
+更多美食,Speedy Pizza,Speedy Pizza,0,图林,0.0,0.0,0.0
+更多美食,Cadran Solaire,Cadran Solaire,0,图林,0.0,0.0,0.0
+更多美食,Hosteria La Vallee,Hosteria La Vallee,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Cinese Take Away,Ristorante Cinese Take Away,0,图林,0.0,0.0,0.0
+更多美食,Jazz Club,Jazz Club,0,图林,0.0,0.0,0.0
+更多美食,Le Scuderie della Tesoriera,Le Scuderie della Tesoriera,0,图林,0.0,0.0,0.0
+更多美食,Franky s Cafe,Franky s Cafe,0,图林,0.0,0.0,0.0
+更多美食,Mijuna Wasy,Mijuna Wasy,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Casa Vicina SNC,Ristorante Casa Vicina SNC,0,图林,0.0,0.0,0.0
+更多美食,Ristorante la Piola,Ristorante la Piola,0,图林,0.0,0.0,0.0
+更多美食,Cafe Palazzo Accorsi,Cafe Palazzo Accorsi,0,图林,0.0,0.0,0.0
+更多美食,Volver,Volver,0,图林,0.0,0.0,0.0
+更多美食,Ristorante del Citrone,Ristorante del Citrone,0,图林,0.0,0.0,0.0
+更多美食,Querio Bar Pasticceria,Querio Bar Pasticceria,0,图林,0.0,0.0,0.0
+更多美食,I Vitelloni,I Vitelloni,0,图林,0.0,0.0,0.0
+更多美食,La Piccola Bottega delle Torte,La Piccola Bottega delle Torte,0,图林,0.0,0.0,0.0
+更多美食,Ramses Pizzeria,Ramses Pizzeria,0,图林,0.0,0.0,0.0
+更多美食,El Wheda Kebab,El Wheda Kebab,0,图林,0.0,0.0,0.0
+更多美食,41 Bis,41 Bis,0,图林,0.0,0.0,0.0
+更多美食,Gelateria Testa,Gelateria Testa,0,图林,0.0,0.0,0.0
+更多美食,Belle Epoque,Belle Epoque,0,图林,0.0,0.0,0.0
+更多美食,LE GINESTRE,LE GINESTRE,0,图林,0.0,0.0,0.0
+更多美食,EATALY - Lingotto - DELLA BIRRA,EATALY - Lingotto - DELLA BIRRA,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Cinese Pechino,Ristorante Cinese Pechino,0,图林,0.0,0.0,0.0
+更多美食,Bagni Municipali,Bagni Municipali,0,图林,0.0,0.0,0.0
+更多美食,La Taverna del Santo Palato,La Taverna del Santo Palato,0,图林,0.0,0.0,0.0
+更多美食,Gelateria al Paghoto,Gelateria al Paghoto,0,图林,0.0,0.0,0.0
+更多美食,L Idrovolante,L Idrovolante,0,图林,0.0,0.0,0.0
+更多美食,ANTICA ENOTECA DEL BORGO,ANTICA ENOTECA DEL BORGO,0,图林,0.0,0.0,0.0
+更多美食,Gelatitaly,Gelatitaly,0,图林,0.0,0.0,0.0
+更多美食,Il Marinaio,Il Marinaio,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria Minuto,Caffetteria Minuto,0,图林,0.0,0.0,0.0
+更多美食,Family s Bar,Family s Bar,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Da Beppe Di Bellassai Paolo,Pizzeria Da Beppe Di Bellassai Paolo,0,图林,0.0,0.0,0.0
+更多美食,Valle d Aosta Food,Valle d Aosta Food,0,图林,0.0,0.0,0.0
+更多美食,Mani in Pasta Al Cup Cafe,Mani in Pasta Al Cup Cafe,0,图林,0.0,0.0,0.0
+更多美食,Gelateria Due Salette,Gelateria Due Salette,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria e trattoria I Sibilla,Caffetteria e trattoria I Sibilla,0,图林,0.0,0.0,0.0
+更多美食,Sapori SNC di Tassinari,Sapori SNC di Tassinari,0,图林,0.0,0.0,0.0
+更多美食,Ristorante cinese Jia Yuan - Torino,Ristorante cinese Jia Yuan - Torino,0,图林,0.0,0.0,0.0
+更多美食,Cusmai Claudio,Cusmai Claudio,0,图林,0.0,0.0,0.0
+更多美食,FunHOUSE c.so francia OttantaSette,FunHOUSE c.so francia OttantaSette,0,图林,0.0,0.0,0.0
+更多美食,Circolo Arci Harry Loman,Circolo Arci Harry Loman,0,图林,0.0,0.0,0.0
+更多美食,"La Conchiglia, vente de poissons,coquillages","La Conchiglia, vente de poissons,coquillages",0,图林,0.0,0.0,0.0
+更多美食,Caffe Norma S.A.S. di Russo Mario,Caffe Norma S.A.S. di Russo Mario,0,图林,0.0,0.0,0.0
+更多美食,Le Meraviglie Del Quadrilatero,Le Meraviglie Del Quadrilatero,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Le Maschere,Ristorante Le Maschere,0,图林,0.0,0.0,0.0
+更多美食,Bar Francia,Bar Francia,0,图林,0.0,0.0,0.0
+更多美食,Rosticceria Pugliese Gnomo Gourmet,Rosticceria Pugliese Gnomo Gourmet,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria Filadelfia,Caffetteria Filadelfia,0,图林,0.0,0.0,0.0
+更多美食,Mon Cheri Cafe,Mon Cheri Cafe,0,图林,0.0,0.0,0.0
+更多美食,Disperso Francesco,Disperso Francesco,0,图林,0.0,0.0,0.0
+更多美食,Jam Off,Jam Off,0,图林,0.0,0.0,0.0
+更多美食,Aleramo,Aleramo,0,图林,0.0,0.0,0.0
+更多美食,Restaurant Romanesc Torino Italia Nunti Botezuri,Restaurant Romanesc Torino Italia Nunti Botezuri,0,图林,0.0,0.0,0.0
+更多美食,Metropole- The restaurant,Metropole- The restaurant,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria La Rustica Di El Nagar Naglaa,Pizzeria La Rustica Di El Nagar Naglaa,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria Panetteria Tondi,Caffetteria Panetteria Tondi,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Millemiglia,Pizzeria Millemiglia,0,图林,0.0,0.0,0.0
+更多美食,Osteria delle Alpi,Osteria delle Alpi,0,图林,0.0,0.0,0.0
+更多美食,Zena,Zena,0,图林,0.0,0.0,0.0
+更多美食,Pizzeria Le Volte Combina SAS,Pizzeria Le Volte Combina SAS,0,图林,0.0,0.0,0.0
+更多美食,Pietro 175 Di Pappalardo Pietro Felice,Pietro 175 Di Pappalardo Pietro Felice,0,图林,0.0,0.0,0.0
+更多美食,Spizzico,Spizzico,0,图林,0.0,0.0,0.0
+更多美食,La Pizza Loca,La Pizza Loca,0,图林,0.0,0.0,0.0
+更多美食,cremeria alice,cremeria alice,0,图林,0.0,0.0,0.0
+更多美食,Il Sabbione,Il Sabbione,0,图林,0.0,0.0,0.0
+更多美食,Gelateria Il Mirtillo Torino,Gelateria Il Mirtillo Torino,0,图林,0.0,0.0,0.0
+更多美食,L Emporio del Tè,L Emporio del Tè,0,图林,0.0,0.0,0.0
+更多美食,L Osto del Bon Umor,L Osto del Bon Umor,0,图林,0.0,0.0,0.0
+更多美食,Barney s,Barney s,0,图林,0.0,0.0,0.0
+更多美食,Acquamarina Bar,Acquamarina Bar,0,图林,0.0,0.0,0.0
+更多美食,Kirkuk Kaffe,Kirkuk Kaffe,0,图林,0.0,0.0,0.0
+更多美食,Dame  bistrot,Dame  bistrot,0,图林,0.0,0.0,0.0
+更多美食,Il Trullo,Il Trullo,0,图林,0.0,0.0,0.0
+更多美食,Simbad Kebab,Simbad Kebab,0,图林,0.0,0.0,0.0
+更多美食,Il Circolo,Il Circolo,0,图林,0.0,0.0,0.0
+更多美食,MANHATTAN,MANHATTAN,0,图林,0.0,0.0,0.0
+更多美食,Bar Citta,Bar Citta,0,图林,0.0,0.0,0.0
+更多美食,Bar Gli Archi,Bar Gli Archi,0,图林,0.0,0.0,0.0
+更多美食,Liliam Buffet,Liliam Buffet,0,图林,0.0,0.0,0.0
+更多美食,Agnolotti,Agnolotti,0,图林,0.0,0.0,0.0
+更多美食,Sale in Zucca,Sale in Zucca,0,图林,0.0,0.0,0.0
+更多美食,Caffetteria del Borgo,Caffetteria del Borgo,0,图林,0.0,0.0,0.0
+更多美食,Busters Coffee  Piazza Statuto,Busters Coffee  Piazza Statuto,0,图林,0.0,0.0,0.0
+更多美食,Il Cavaliere,Il Cavaliere,0,图林,0.0,0.0,0.0
+更多美食,Il Padellino,Il Padellino,0,图林,0.0,0.0,0.0
+更多美食,Alle 8 Porte,Alle 8 Porte,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Giudice,Ristorante Giudice,0,图林,0.0,0.0,0.0
+更多美食,Sciue Sciue,Sciue Sciue,0,图林,0.0,0.0,0.0
+更多美食,Ristorante La Maison,Ristorante La Maison,0,图林,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Nuovo Biellese,Ristorante Pizzeria Nuovo Biellese,0,图林,0.0,0.0,0.0
+更多美食,Locanda Botticelli,Locanda Botticelli,0,图林,0.0,0.0,0.0
+更多美食,Forchetta Scarpetta,Forchetta Scarpetta,0,图林,0.0,0.0,0.0
+更多美食,bastAncora,bastAncora,0,图林,0.0,0.0,0.0
+更多美食,Soul Kitchen - Vegan,Soul Kitchen - Vegan,0,图林,0.0,0.0,0.0
+更多美食,La Capanna Dei Nonni,La Capanna Dei Nonni,0,图林,0.0,0.0,0.0
+更多美食,VaSte,VaSte,0,图林,0.0,0.0,0.0
+更多美食,Al Gufo Bianco,Al Gufo Bianco,0,图林,0.0,0.0,0.0

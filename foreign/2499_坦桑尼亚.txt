@@ -1,0 +1,58 @@
+意大利菜,La Taverna,La Taverna,0,,7.2,7.2,7.2
+意大利菜,SALE E PEPE,SALE E PEPE,0,,7.2,7.2,7.2
+意大利菜,Mediterraneo Hotel & Restaurant,Mediterraneo Hotel & Restaurant,0,达累斯萨拉姆,0.0,0.0,0.0
+法国菜,全聚德烤鸭店,全聚德烤鸭店(和平门店),0,桑给巴尔,0.0,0.0,0.0
+更多亚洲菜,Curry Pot,Curry Pot,0,阿鲁沙,0.0,0.0,0.0
+快餐简餐,唐人饭店,唐人饭店,0,达累斯萨拉姆,7.2,7.2,6.8
+海鲜,Green Garden Restaurant,Green Garden Restaurant,0,,7.2,7.2,7.2
+烧烤,Mehboob's BBQ,Mehboob's BBQ,0,,6.9,6.9,6.9
+烧烤,Khan's BBQ,Khan's BBQ,0,,7.2,7.2,7.2
+比萨,Pizza Stop Arusha,Pizza Stop Arusha,0,,7.3,7.3,7.1
+比萨,Debonairs Pizza,Debonairs Pizza,0,,6.8,6.8,6.6
+咖啡厅,Tsavorite Cafe,Tsavorite Cafe,0,,7.2,7.4,7.6
+咖啡厅,Karambezi Cafe,Karambezi Cafe,0,,7.2,7.4,7.4
+咖啡厅,Green Hut Restaurant,Green Hut Restaurant,0,阿鲁沙,6.8,6.8,6.8
+咖啡厅,Archipelago Cafe & Restaurant,Archipelago Cafe & Restaurant,0,Stone Town,0.0,0.0,0.0
+咖啡厅,Monsoon Cafe & Restaurant,Monsoon Cafe & Restaurant,0,Stone Town,0.0,0.0,0.0
+咖啡厅,Kahawa cafe,Kahawa cafe,0,,7.1,7.1,7.1
+咖啡厅,Union Cafe,Union Cafe,0,,7.1,7.1,7.1
+咖啡厅,Travellers Cafe,Travellers Cafe,0,,7.1,7.1,7.1
+咖啡厅,Sipe Cafeteria,Sipe Cafeteria,0,,7.1,7.1,7.0
+咖啡厅,The Coffee Shop,The Coffee Shop,0,,7.2,7.2,7.2
+咖啡厅,Sheesha Garden Cafe,Sheesha Garden Cafe,0,,7.0,7.0,6.9
+咖啡厅,Savannah Coffee Lounge,Savannah Coffee Lounge,0,,6.9,6.9,6.9
+咖啡厅,Soko Cafe,Soko Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Afrika,Cafe Afrika,0,,7.1,7.0,7.0
+咖啡厅,Bumps Cafe,Bumps Cafe,0,,7.0,7.1,7.0
+咖啡厅,Zanzibar Coffee House Cafe,Zanzibar Coffee House Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe at Emerson Spice,Cafe at Emerson Spice,0,,7.2,7.2,7.7
+咖啡厅,Cafe Barrista,Cafe Barrista,0,,7.0,7.0,7.0
+咖啡厅,Baboo Cafe,Baboo Cafe,0,,7.1,7.0,7.1
+咖啡厅,Indian Coffee Shop,Indian Coffee Shop,0,,6.9,6.9,6.9
+咖啡厅,Stone Town Cafe,Stone Town Cafe,0,,7.2,7.2,7.2
+咖啡厅,MWEDO Coffee Shop,MWEDO Coffee Shop,0,,7.0,7.0,7.1
+咖啡厅,Havana Cafe,Havana Cafe,0,,7.0,7.0,7.0
+咖啡厅,Tanzania Coffee Lounge,Tanzania Coffee Lounge,0,,7.1,7.1,7.1
+咖啡厅,Green Bamboo,Green Bamboo,0,,7.0,7.0,7.0
+咖啡厅,Union Cafe,Union Cafe,0,,7.2,7.2,7.2
+咖啡厅,Coffee Union Cafe,Coffee Union Cafe,0,莫希,0.0,0.0,0.0
+面包甜点,Gelato Dreams,Gelato Dreams,0,达累斯萨拉姆,7.2,6.8,7.2
+面包甜点,Ice Cream Palour,Ice Cream Palour,0,阿鲁沙,7.2,6.8,6.3
+面包甜点,Fairy Delights Ice Cream Shop,Fairy Delights Ice Cream Shop,0,,6.9,6.9,7.0
+面包甜点,提拉米苏,提拉米苏,0,,0.0,0.0,0.0
+酒吧,Kibo Bar,Kibo Bar,0,,6.9,6.7,6.7
+酒吧,C'aFrica Bar,C'aFrica Bar,0,,7.2,7.6,7.6
+酒吧,Sikh Club,Sikh Club,0,,7.1,7.1,7.1
+酒吧,D'Amour Bar and Grill,D'Amour Bar and Grill,0,,7.1,7.1,7.1
+酒吧,Joey Pub Arusha,Joey Pub Arusha,0,,7.1,7.0,7.0
+酒吧,6 Degrees South Grill and Wine Bar,6 Degrees South Grill and Wine Bar,0,,7.2,7.2,7.2
+酒吧,Obama Beach Bar,Obama Beach Bar,0,,7.1,7.1,7.1
+酒吧,Greek Club Iringa,Greek Club Iringa,0,,7.0,7.0,7.0
+酒吧,Jambos Bar and Restaurant,Jambos Bar and Restaurant,0,,7.1,7.1,7.1
+酒吧,Sunset Bar at the Africa House,Sunset Bar at the Africa House,0,,6.8,6.8,7.2
+酒吧,Jackies Bar,Jackies Bar,0,,6.8,7.1,7.1
+更多美食,Mawasiliano Towers RestaraUnt,Mawasiliano Towers RestaraUnt,0,达累斯萨拉姆,7.7,7.2,7.2
+更多美食,Academia,Academia,0,多多马,7.2,6.4,6.8
+更多美食,Safari Nyama Choma,Safari Nyama Choma,0,多多马,6.8,6.4,6.8
+更多美食,Addis in Dar,Addis in Dar,0,,7.2,7.2,7.2
+更多美食,Sawasdee,Sawasdee,0,,7.1,7.1,7.1

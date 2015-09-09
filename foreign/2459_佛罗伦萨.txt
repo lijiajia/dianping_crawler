@@ -1,0 +1,1903 @@
+意大利菜,Za Za,Za Za,162,其他,8.8,8.3,8.5
+意大利菜,牛肚包,牛肚包,0,坎波蒂马特,7.8,6.8,7.5
+意大利菜,Da il Latini,Da il Latini,0,,8.0,8.1,7.2
+意大利菜,Trattoria Osteria dall'Oste,Trattoria Osteria dall'Oste,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria ZaZa,Trattoria ZaZa,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Vecchio Vicolo,Osteria Vecchio Vicolo,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Le Fonticine,Ristorante Le Fonticine,0,其他,0.0,0.0,0.0
+意大利菜,Antica Trattoria ,Antica Trattoria ,0,其他,0.0,0.0,0.0
+意大利菜,Finisterrae,Finisterrae,0,其他,0.0,0.0,0.0
+意大利菜,La Cantinetta Wine Bar,La Cantinetta Wine Bar,0,其他,0.0,0.0,0.0
+意大利菜,Osteria del Cinghiale Bianco,Osteria del Cinghiale Bianco,0,其他,0.0,0.0,0.0
+意大利菜,Bar Scudieri,Bar Scudieri,0,其他,0.0,0.0,0.0
+意大利菜,Buca Mario,Buca Mario,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Gigi Di Lippi Luciano,Trattoria Gigi Di Lippi Luciano,0,其他,0.0,0.0,0.0
+意大利菜,Gucci Cafe,Gucci Cafe,0,其他,0.0,0.0,0.0
+意大利菜,Il Portale,Il Portale,0,其他,0.0,0.0,0.0
+意大利菜,La Grotta di Leo,La Grotta di Leo,0,其他,0.0,0.0,0.0
+意大利菜,All'Antico Ristoro Di Cambi,All'Antico Ristoro Di Cambi,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Alla Griglia,Ristorante Alla Griglia,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Fantasia Firenze,Ristorante Fantasia Firenze,0,其他,6.7,6.7,6.7
+意大利菜,Osteria I Brincello,Osteria I Brincello,0,其他,0.0,0.0,0.0
+意大利菜,Il Gelato di Filo,Il Gelato di Filo,0,其他,0.0,0.0,0.0
+意大利菜,Lungarno Bistrot,Lungarno Bistrot,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Pastella,Osteria Pastella,0,其他,0.0,0.0,0.0
+意大利菜,Al Lungarni,Al Lungarni,0,其他,0.0,0.0,0.0
+意大利菜,Sabatini,Sabatini,0,其他,0.0,0.0,0.0
+意大利菜,Lungarno,Lungarno,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Mamma Gina,Trattoria Mamma Gina,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante San Jacopino,Pizzeria Ristorante San Jacopino,0,其他,0.0,0.0,0.0
+意大利菜,Gelateria Venchi Firenze,Gelateria Venchi Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria La Casalinga,Trattoria La Casalinga,0,其他,0.0,0.0,0.0
+意大利菜,Baccus dal 1985,Baccus dal 1985,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante RegginElla,Ristorante RegginElla,0,其他,7.3,7.3,7.3
+意大利菜,Casa del Vin Santo,Casa del Vin Santo,0,其他,0.0,0.0,0.0
+意大利菜,Le Antiche Carrozze,Le Antiche Carrozze,0,其他,0.0,0.0,0.0
+意大利菜,Club Culinario Toscano da Osvaldo,Club Culinario Toscano da Osvaldo,0,其他,0.0,0.0,0.0
+意大利菜,Caffe Santa Maria Novella,Caffe Santa Maria Novella,0,其他,6.7,6.7,5.9
+意大利菜,Il Cavallino,Il Cavallino,0,其他,6.7,6.7,6.7
+意大利菜,Trattoria Casalinga da Graziella,Trattoria Casalinga da Graziella,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Casa Toscana,Casa Toscana,0,其他,0.0,0.0,0.0
+意大利菜,12 Di Foco,12 Di Foco,0,其他,5.0,5.9,5.9
+意大利菜,The King of Salads,The King of Salads,0,其他,0.0,0.0,0.0
+意大利菜,Bar Galleria,Bar Galleria,0,其他,0.0,0.0,0.0
+意大利菜,Caffetteria Damiano,Caffetteria Damiano,0,其他,0.0,0.0,0.0
+意大利菜,Osteria delle Brache,Osteria delle Brache,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Bondi,Trattoria Bondi,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria San Lorenzo,Trattoria San Lorenzo,0,其他,0.0,0.0,0.0
+意大利菜,La Farina Bistrot,La Farina Bistrot,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Yelo Gelato,Yelo Gelato,0,其他,0.0,0.0,0.0
+意大利菜,Forno bistrot pugi,Forno bistrot pugi,0,其他,0.0,0.0,0.0
+意大利菜,Canottieri Firenze,Canottieri Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Grom,Grom,0,其他,0.0,0.0,0.0
+意大利菜,E'no Sfizio,E'no Sfizio,0,其他,0.0,0.0,0.0
+意大利菜,Santa Elisabetta,Santa Elisabetta,0,其他,0.0,0.0,0.0
+意大利菜,Pensavo Peggio,Pensavo Peggio,0,其他,0.0,0.0,0.0
+意大利菜,Pescheria San Pietro,Pescheria San Pietro,0,其他,0.0,0.0,0.0
+意大利菜,Il Cernacchino,Il Cernacchino,0,其他,0.0,0.0,0.0
+意大利菜,Tomasi Mercato centrale,Tomasi Mercato centrale,0,其他,0.0,0.0,0.0
+意大利菜,Saloon Bar&Grill,Saloon Bar&Grill,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria I Fratellini,Trattoria I Fratellini,0,其他,0.0,0.0,0.0
+意大利菜,House of Sizzle,House of Sizzle,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria al Trebbio,Trattoria al Trebbio,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria da Franco,Ristorante Pizzeria da Franco,0,其他,0.0,0.0,0.0
+意大利菜,Piccolo Vinaio,Piccolo Vinaio,0,其他,0.0,0.0,0.0
+意大利菜,Lupen e Margo,Lupen e Margo,0,其他,0.0,0.0,0.0
+意大利菜,Panificio Maddaloni di Maddaloni Gennaro,Panificio Maddaloni di Maddaloni Gennaro,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Il Cantone del Guelfo,Il Cantone del Guelfo,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Da Vinci,Ristorante Da Vinci,0,其他,0.0,0.0,0.0
+意大利菜,Chiosco ,Chiosco ,0,其他,0.0,0.0,0.0
+意大利菜,Come Dio Comanda,Come Dio Comanda,0,其他,0.0,0.0,0.0
+意大利菜,Damo Ganzo,Damo Ganzo,0,其他,0.0,0.0,0.0
+意大利菜,PassaGuai,PassaGuai,0,其他,0.0,0.0,0.0
+意大利菜,Boca Lapi,Boca Lapi,0,其他,0.0,0.0,0.0
+意大利菜,Il Bocconcino,Il Bocconcino,0,其他,0.0,0.0,0.0
+意大利菜,Targa,Targa,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Trattoria Baldini,Trattoria Baldini,0,其他,0.0,0.0,0.0
+意大利菜,Terra terra,Terra terra,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Antica Mescita San Niccolo,Osteria Antica Mescita San Niccolo,0,其他,0.0,0.0,0.0
+意大利菜,TATO Ristorante in Firenze,TATO Ristorante in Firenze,0,其他,0.0,0.0,0.0
+意大利菜,The Opposite,The Opposite,0,诺沃利,0.0,0.0,0.0
+意大利菜,Da Settimo,Da Settimo,0,其他,0.0,0.0,0.0
+意大利菜,Bistro del Mare,Bistro del Mare,0,其他,0.0,0.0,0.0
+意大利菜,i 4 Amici Firenze,i 4 Amici Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Birreria Centrale,Birreria Centrale,0,其他,0.0,0.0,0.0
+意大利菜,Hostaria del Bricco,Hostaria del Bricco,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria da Ginone,Trattoria da Ginone,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Il Buongustai,Osteria Il Buongustai,0,其他,0.0,0.0,0.0
+意大利菜,I Due Fratellini,I Due Fratellini,0,其他,0.0,0.0,0.0
+意大利菜,IL Farro,IL Farro,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,"Nabucco wine bar, florence","Nabucco wine bar, florence",0,其他,0.0,0.0,0.0
+意大利菜,Il Santo Graal,Il Santo Graal,0,其他,0.0,0.0,0.0
+意大利菜,Dondino Winebar,Dondino Winebar,0,其他,0.0,0.0,0.0
+意大利菜,La Creperie,La Creperie,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Acquacotta,Acquacotta,0,其他,0.0,0.0,0.0
+意大利菜,Pugi,Pugi,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Pallottino,Trattoria Pallottino,0,其他,0.0,0.0,0.0
+意大利菜,Leonardo Gelateria-Caffe,Leonardo Gelateria-Caffe,0,其他,0.0,0.0,0.0
+意大利菜,Gusta Pizza,Gusta Pizza,0,其他,0.0,0.0,0.0
+意大利菜,Gelateria Malotti,Gelateria Malotti,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Le Cappelle Medicee,Le Cappelle Medicee,0,其他,0.0,0.0,0.0
+意大利菜,Narbone,Narbone,0,其他,0.0,0.0,0.0
+意大利菜,Yummy Yummy Bar Restaurant,Yummy Yummy Bar Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,The Oil Shoppe,The Oil Shoppe,0,其他,0.0,0.0,0.0
+意大利菜,Un Caffe,Un Caffe,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Antellesi,Trattoria Antellesi,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Da Giorgio,Trattoria Da Giorgio,0,其他,0.0,0.0,0.0
+意大利菜,Cantinetta Antinori,Cantinetta Antinori,0,其他,0.0,0.0,0.0
+意大利菜,Firenze,Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Il Cavaliere,Il Cavaliere,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Trattoria Omero,Trattoria Omero,0,其他,0.0,0.0,0.0
+意大利菜,Momoyama,Momoyama,0,其他,0.0,0.0,0.0
+意大利菜,Enoteca Boccadama,Enoteca Boccadama,0,其他,0.0,0.0,0.0
+意大利菜,Cucina Torcicoda,Cucina Torcicoda,0,其他,0.0,0.0,0.0
+意大利菜,Genio Italiano,Genio Italiano,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Fiaschetteria Nuvoli,Fiaschetteria Nuvoli,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante & Wine Bar dei Frescobaldi,Ristorante & Wine Bar dei Frescobaldi,0,其他,0.0,0.0,0.0
+意大利菜,Mi Amor,Mi Amor,0,其他,0.0,0.0,0.0
+意大利菜,Osteria dei Centopoveri Restaurant and Pizzeria,Osteria dei Centopoveri Restaurant and Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,La Dantesca,La Dantesca,0,其他,0.0,0.0,0.0
+意大利菜,'ino Firenze,'ino Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Borgovino,Borgovino,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Osteria della Pagliazza,Osteria della Pagliazza,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria i Due G,Trattoria i Due G,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Buca Poldo,Ristorante Buca Poldo,0,其他,0.0,0.0,0.0
+意大利菜,Osteria dell'Agnolo,Osteria dell'Agnolo,0,其他,0.0,0.0,0.0
+意大利菜,Caffe Astra al Duomo,Caffe Astra al Duomo,0,其他,0.0,0.0,0.0
+意大利菜,Ballerini Pasticceria Cioccolateria,Ballerini Pasticceria Cioccolateria,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Trattoria 100 Rosso,Pizzeria Trattoria 100 Rosso,0,其他,0.0,0.0,0.0
+意大利菜,Antica Salumeria Terre Nobili Firenze Porta Romana,Antica Salumeria Terre Nobili Firenze Porta Romana,0,其他,0.0,0.0,0.0
+意大利菜,Bar Zocchi Di Boni Elisabetta,Bar Zocchi Di Boni Elisabetta,0,其他,0.0,0.0,0.0
+意大利菜,Dalle Nostre Mani - Gastronomia - Pasta Fresca,Dalle Nostre Mani - Gastronomia - Pasta Fresca,0,其他,0.0,0.0,0.0
+意大利菜,Cono Gelato,Cono Gelato,0,其他,0.0,0.0,0.0
+意大利菜,Mirabilia,Mirabilia,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Firenze,Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Cioccolateria pasticceria Moltobene,Cioccolateria pasticceria Moltobene,0,其他,0.0,0.0,0.0
+意大利菜,Caffe' del Mercato di Cubattoli Roberto,Caffe' del Mercato di Cubattoli Roberto,0,其他,0.0,0.0,0.0
+意大利菜,Gelateria Alpina,Gelateria Alpina,0,其他,0.0,0.0,0.0
+意大利菜,Mago Balducci,Mago Balducci,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Ristorante Canto di Maggio,Ristorante Canto di Maggio,0,,0.0,0.0,0.0
+意大利菜,The Florence Foodie,The Florence Foodie,0,其他,0.0,0.0,0.0
+意大利菜,Cremeria Il Prato,Cremeria Il Prato,0,其他,0.0,0.0,0.0
+意大利菜,Damiani,Damiani,0,其他,0.0,0.0,0.0
+意大利菜,LOST&FOUND,LOST&FOUND,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Gelateria Cillo,Gelateria Cillo,0,其他,0.0,0.0,0.0
+意大利菜,Lampredottaio Ponte Di Mezzo,Lampredottaio Ponte Di Mezzo,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,La Casareccia,La Casareccia,0,其他,0.0,0.0,0.0
+意大利菜,Macelleria Procacci,Macelleria Procacci,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,ViaIlPrato4,ViaIlPrato4,0,其他,0.0,0.0,0.0
+意大利菜,Paninopoli,Paninopoli,0,其他,0.0,0.0,0.0
+意大利菜,Diorama,Diorama,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria mercury,Pasticceria mercury,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Gusto Giusto,Gusto Giusto,0,其他,0.0,0.0,0.0
+意大利菜,Il Pizzicagnolo,Il Pizzicagnolo,0,其他,0.0,0.0,0.0
+意大利菜,La Cucina di Siro,La Cucina di Siro,0,其他,0.0,0.0,0.0
+意大利菜,Maximilian,Maximilian,0,其他,0.0,0.0,0.0
+意大利菜,PK PaniniK,PK PaniniK,0,其他,0.0,0.0,0.0
+意大利菜,Uoll,Uoll,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Sardonero Bistrot,Sardonero Bistrot,0,其他,0.0,0.0,0.0
+意大利菜,La Carraia 2,La Carraia 2,0,其他,0.0,0.0,0.0
+意大利菜,Le Souk Wine Bar Bistrot,Le Souk Wine Bar Bistrot,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Bar La Borsa,Bar La Borsa,0,其他,0.0,0.0,0.0
+意大利菜,Il re del panzerotto fast food,Il re del panzerotto fast food,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Mario,Trattoria Mario,0,其他,0.0,0.0,0.0
+意大利菜,Il Santo Bevitore,Il Santo Bevitore,0,其他,0.0,0.0,0.0
+意大利菜,Mr. Pizza,Mr. Pizza,0,其他,0.0,0.0,0.0
+意大利菜,City Restaurant,City Restaurant,0,诺沃利,0.0,0.0,0.0
+意大利菜,La Martinicca,La Martinicca,0,其他,0.0,0.0,0.0
+意大利菜,La Divina Osteria,La Divina Osteria,0,其他,0.0,0.0,0.0
+意大利菜,Il Giardino di Barbano,Il Giardino di Barbano,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Cornelius,Trattoria Cornelius,0,其他,0.0,0.0,0.0
+意大利菜,Giusti & Torricelli,Giusti & Torricelli,0,,0.0,0.0,0.0
+意大利菜,Trattoria Nella,Trattoria Nella,0,其他,0.0,0.0,0.0
+意大利菜,Del Fagioli,Del Fagioli,0,其他,0.0,0.0,0.0
+意大利菜,L'Osteria di Giovanni,L'Osteria di Giovanni,0,其他,0.0,0.0,0.0
+意大利菜,Il Piacere Osteria de Le Barrique,Il Piacere Osteria de Le Barrique,0,其他,0.0,0.0,0.0
+意大利菜,Il Profeta,Il Profeta,0,其他,0.0,0.0,0.0
+意大利菜,La Cucina del Garga,La Cucina del Garga,0,其他,0.0,0.0,0.0
+意大利菜,IO osteria personale,IO osteria personale,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Ruggero,Trattoria Ruggero,0,其他,0.0,0.0,0.0
+意大利菜,Hostaria il Desco,Hostaria il Desco,0,其他,0.0,0.0,0.0
+意大利菜,Oliviero,Oliviero,0,其他,0.0,0.0,0.0
+意大利菜,Trippaio del Porcellino,Trippaio del Porcellino,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Ristorante Il Clarinetto,Ristorante Il Clarinetto,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Vini e Vecchi Sapori,Vini e Vecchi Sapori,0,其他,0.0,0.0,0.0
+意大利菜,Il Borghetto,Il Borghetto,0,其他,0.0,0.0,0.0
+意大利菜,La Brasserie,La Brasserie,0,其他,0.0,0.0,0.0
+意大利菜,SASSO DI DANTE,SASSO DI DANTE,0,其他,0.0,0.0,0.0
+意大利菜,La Bussola,La Bussola,0,其他,0.0,0.0,0.0
+意大利菜,Toto Atto II,Toto Atto II,0,其他,0.0,0.0,0.0
+意大利菜,Ciro and Sons,Ciro and Sons,0,其他,0.0,0.0,0.0
+意大利菜,Napul...e',Napul...e',0,其他,0.0,0.0,0.0
+意大利菜,Caffe Gilli,Caffe Gilli,0,其他,0.0,0.0,0.0
+意大利菜,Quelo Food Bar,Quelo Food Bar,0,其他,0.0,0.0,0.0
+意大利菜,Il Gusto di Acasamia,Il Gusto di Acasamia,0,其他,0.0,0.0,0.0
+意大利菜,Cocco Trippone,Cocco Trippone,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Touch Florence,Touch Florence,0,其他,0.0,0.0,0.0
+意大利菜,Easy Living,Easy Living,0,其他,0.0,0.0,0.0
+意大利菜,Caffe Luisa,Caffe Luisa,0,其他,0.0,0.0,0.0
+意大利菜,Cantina del Gelato,Cantina del Gelato,0,其他,0.0,0.0,0.0
+意大利菜,Mangiafuoco Bracerie,Mangiafuoco Bracerie,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Giovanni,Trattoria Giovanni,0,其他,0.0,0.0,0.0
+意大利菜,Pulcinella Pizzaiolo,Pulcinella Pizzaiolo,0,其他,0.0,0.0,0.0
+意大利菜,Caffe Rosano,Caffe Rosano,0,其他,0.0,0.0,0.0
+意大利菜,Il Santino,Il Santino,0,其他,0.0,0.0,0.0
+意大利菜,La Terrazza Del Principe,La Terrazza Del Principe,0,其他,0.0,0.0,0.0
+意大利菜,Gelateria Rinascimento,Gelateria Rinascimento,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Sostanza (Il Troia),Trattoria Sostanza (Il Troia),0,其他,0.0,0.0,0.0
+意大利菜,Miccio Paninoteca - Lampredotto,Miccio Paninoteca - Lampredotto,0,其他,0.0,0.0,0.0
+意大利菜,Dal Barone,Dal Barone,0,其他,0.0,0.0,0.0
+意大利菜,Panbriaco,Panbriaco,0,其他,0.0,0.0,0.0
+意大利菜,Fuor d'acqua,Fuor d'acqua,0,其他,0.0,0.0,0.0
+意大利菜,Lampredotto E Trippa i'baracchino,Lampredotto E Trippa i'baracchino,0,其他,0.0,0.0,0.0
+意大利菜,Rodolfo,Rodolfo,0,其他,0.0,0.0,0.0
+意大利菜,II Santo Bevitore,II Santo Bevitore,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Icche C'e C'e Florence,Trattoria Icche C'e C'e Florence,0,其他,0.0,0.0,0.0
+意大利菜,Rivaltacafe,Rivaltacafe,0,其他,0.0,0.0,0.0
+意大利菜,Gilda,Gilda,0,其他,0.0,0.0,0.0
+意大利菜,Il Bufalo Trippone,Il Bufalo Trippone,0,其他,0.0,0.0,0.0
+意大利菜,il Ciclone,il Ciclone,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Da' Vinattieri,Da' Vinattieri,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Zeb,Zeb,0,其他,0.0,0.0,0.0
+意大利菜,Forno Pierguidi,Forno Pierguidi,0,其他,0.0,0.0,0.0
+意大利菜,Donnini D.O.C.,Donnini D.O.C.,0,其他,0.0,0.0,0.0
+意大利菜,Cafaggi,Cafaggi,0,其他,0.0,0.0,0.0
+意大利菜,H12,H12,0,其他,0.0,0.0,0.0
+意大利菜,I' Mangiarino,I' Mangiarino,0,其他,0.0,0.0,0.0
+意大利菜,Da i Dino,Da i Dino,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Pitta M'Ingolli,Pitta M'Ingolli,0,其他,0.0,0.0,0.0
+意大利菜,Tuscany Bistrot,Tuscany Bistrot,0,其他,0.0,0.0,0.0
+意大利菜,Il Teatro,Il Teatro,0,其他,0.0,0.0,0.0
+意大利菜,Rosticceria F.lli Fiordalisi,Rosticceria F.lli Fiordalisi,0,其他,0.0,0.0,0.0
+意大利菜,Trippaio Albergucci Mario,Trippaio Albergucci Mario,0,其他,0.0,0.0,0.0
+意大利菜,La Fettunta,La Fettunta,0,其他,0.0,0.0,0.0
+意大利菜,Bar Lambertesca,Bar Lambertesca,0,其他,0.0,0.0,0.0
+意大利菜,Buonamico,Buonamico,0,其他,0.0,0.0,0.0
+意大利菜,Il Vezzo,Il Vezzo,0,其他,0.0,0.0,0.0
+意大利菜,Capaccino,Capaccino,0,其他,0.0,0.0,0.0
+意大利菜,Cucini Toscana,Cucini Toscana,0,其他,0.0,0.0,0.0
+意大利菜,Uscio e Bottega,Uscio e Bottega,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Riflessi,Ristorante Riflessi,0,其他,0.0,0.0,0.0
+意大利菜,La Strega Nocciola,La Strega Nocciola,0,其他,0.0,0.0,0.0
+意大利菜,Amici di Ponte Vecchio Da Stefano,Amici di Ponte Vecchio Da Stefano,0,其他,0.0,0.0,0.0
+意大利菜,Forno Becagli,Forno Becagli,0,其他,0.0,0.0,0.0
+意大利菜,Il Bisonte,Il Bisonte,0,其他,0.0,0.0,0.0
+意大利菜,Giglio Pizza,Giglio Pizza,0,其他,0.0,0.0,0.0
+意大利菜,JT Caffè,JT Caffè,0,其他,0.0,0.0,0.0
+意大利菜,Palazzo Tempi,Palazzo Tempi,0,其他,0.0,0.0,0.0
+意大利菜,Osteria dei Baroncelli,Osteria dei Baroncelli,0,其他,0.0,0.0,0.0
+意大利菜,Winter Garden by Caino,Winter Garden by Caino,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria da Garibardi,Trattoria da Garibardi,0,其他,0.0,0.0,0.0
+意大利菜,Enoteca il grappolo,Enoteca il grappolo,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Filipepe,Filipepe,0,其他,0.0,0.0,0.0
+意大利菜,Caffe Vitali,Caffe Vitali,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante La Falterona,Ristorante La Falterona,0,其他,0.0,0.0,0.0
+意大利菜,Rose's,Rose's,0,其他,0.0,0.0,0.0
+意大利菜,Il Vecchio e il Mare,Il Vecchio e il Mare,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Oltrarno 14,Oltrarno 14,0,其他,0.0,0.0,0.0
+意大利菜,La Bottega del Gelato,La Bottega del Gelato,0,其他,0.0,0.0,0.0
+意大利菜,Star Gate,Star Gate,0,其他,0.0,0.0,0.0
+意大利菜,Osteria de' Golosi,Osteria de' Golosi,0,其他,0.0,0.0,0.0
+意大利菜,Vignamaggio,Vignamaggio,0,其他,0.0,0.0,0.0
+意大利菜,The florence pub,The florence pub,0,其他,0.0,0.0,0.0
+意大利菜,Lo Sdrucciolo,Lo Sdrucciolo,0,其他,0.0,0.0,0.0
+意大利菜,Cacio Vino Trallalla',Cacio Vino Trallalla',0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Toscana Gozzi Sergio,Trattoria Toscana Gozzi Sergio,0,其他,0.0,0.0,0.0
+意大利菜,Forno I Tre Pini Snc,Forno I Tre Pini Snc,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria For You,Ristorante Pizzeria For You,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Enzo e Piero,Trattoria Enzo e Piero,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria La Biritullera,Trattoria La Biritullera,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Miseria e Nobiltà,Miseria e Nobiltà,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,La Spada,La Spada,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Del Porcellino,Osteria Del Porcellino,0,其他,0.0,0.0,0.0
+意大利菜,EnotecaBar Fuori Porta,EnotecaBar Fuori Porta,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Cocotrippone,Osteria Cocotrippone,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Ora d'Aria,Ora d'Aria,0,其他,0.0,0.0,0.0
+意大利菜,Bettolina di Aurora s.a.s.,Bettolina di Aurora s.a.s.,0,其他,0.0,0.0,0.0
+意大利菜,Florens Pizzeria & Food,Florens Pizzeria & Food,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Lo Stracotto,Trattoria Lo Stracotto,0,其他,0.0,0.0,0.0
+意大利菜,Osteria dell Olio,Osteria dell Olio,0,其他,0.0,0.0,0.0
+意大利菜,Antico Fattore,Antico Fattore,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Le Cupole Di Amodeo Donato,Ristorante Le Cupole Di Amodeo Donato,0,,0.0,0.0,0.0
+意大利菜,Trattoria Da Burde,Trattoria Da Burde,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Trattoria Pizzeria San Gallo,Trattoria Pizzeria San Gallo,0,其他,0.0,0.0,0.0
+意大利菜,Edi House,Edi House,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Trattoria Gabriello,Trattoria Gabriello,0,其他,0.0,0.0,0.0
+意大利菜,"Obika Mozzarella Bar, Tornabuoni","Obika Mozzarella Bar, Tornabuoni",0,其他,0.0,0.0,0.0
+意大利菜,Cammillo Trattoria,Cammillo Trattoria,0,其他,0.0,0.0,0.0
+意大利菜,Pizza Man - Via Rocca Tedalda,Pizza Man - Via Rocca Tedalda,0,其他,0.0,0.0,0.0
+意大利菜,La Galleria Il Vino dei Guelfi,La Galleria Il Vino dei Guelfi,0,其他,0.0,0.0,0.0
+意大利菜,Natalino,Natalino,0,其他,0.0,0.0,0.0
+意大利菜,Pinolo,Pinolo,0,其他,0.0,0.0,0.0
+意大利菜,Tamero',Tamero',0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Toto,Ristorante Toto,0,其他,0.0,0.0,0.0
+意大利菜,Il Magazzino,Il Magazzino,0,其他,0.0,0.0,0.0
+意大利菜,Olio & Convivium,Olio & Convivium,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Caffè Italiano,Pizzeria Caffè Italiano,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Lo Stravizio,Ristorante Lo Stravizio,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria dei 13 Gobbi,Trattoria dei 13 Gobbi,0,其他,0.0,0.0,0.0
+意大利菜,Dolce Salato,Dolce Salato,0,其他,0.0,0.0,0.0
+意大利菜,All Pub One,All Pub One,0,其他,0.0,0.0,0.0
+意大利菜,Tratoria ponte vechio,Tratoria ponte vechio,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante La Tramvia Firenze,Ristorante La Tramvia Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Da Sergio,Trattoria Da Sergio,0,其他,0.0,0.0,0.0
+意大利菜,Useio E Bottega,Useio E Bottega,0,其他,0.0,0.0,0.0
+意大利菜,DolceSalato,DolceSalato,0,其他,0.0,0.0,0.0
+意大利菜,Nasone,Nasone,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Alla Vecchia Bettola,Alla Vecchia Bettola,0,其他,0.0,0.0,0.0
+意大利菜,La Mescita,La Mescita,0,其他,0.0,0.0,0.0
+意大利菜,Il Sorriso,Il Sorriso,0,其他,0.0,0.0,0.0
+意大利菜,BBQ Trattoria,BBQ Trattoria,0,其他,0.0,0.0,0.0
+意大利菜,La Canova di Gustavino,La Canova di Gustavino,0,其他,0.0,0.0,0.0
+意大利菜,Fiaschetteria Cambi,Fiaschetteria Cambi,0,其他,0.0,0.0,0.0
+意大利菜,Caffè Accademia,Caffè Accademia,0,其他,0.0,0.0,0.0
+意大利菜,La Frasca,La Frasca,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Bibe,Bibe,0,其他,0.0,0.0,0.0
+意大利菜,Alle Murate,Alle Murate,0,其他,0.0,0.0,0.0
+意大利菜,I' parione,I' parione,0,其他,0.0,0.0,0.0
+意大利菜,La Giostra,La Giostra,0,其他,0.0,0.0,0.0
+意大利菜,La Briciola,La Briciola,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Vecchia Osteria dal Nacchero,Vecchia Osteria dal Nacchero,0,其他,0.0,0.0,0.0
+意大利菜,Antico Noe,Antico Noe,0,其他,0.0,0.0,0.0
+意大利菜,Cafe' Bonetti,Cafe' Bonetti,0,其他,0.0,0.0,0.0
+意大利菜,Osteria del Proconsolo,Osteria del Proconsolo,0,其他,0.0,0.0,0.0
+意大利菜,SESTO On Arno,SESTO On Arno,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Gargani,Trattoria Gargani,0,其他,0.0,0.0,0.0
+意大利菜,Il Forno Da Graziella,Il Forno Da Graziella,0,,0.0,0.0,0.0
+意大利菜,Luci al Piazzale,Luci al Piazzale,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Bordino,Trattoria Bordino,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante il Pennello,Ristorante il Pennello,0,其他,0.0,0.0,0.0
+意大利菜,Papero Rosso Ristorante,Papero Rosso Ristorante,0,其他,0.0,0.0,0.0
+意大利菜,Il Barrino,Il Barrino,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Isabelle,Isabelle,0,其他,0.0,0.0,0.0
+意大利菜,Mr Pizza,Mr Pizza,0,其他,0.0,0.0,0.0
+意大利菜,Luci della Citta Restaurant,Luci della Citta Restaurant,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Pizzeria Cotta a Puntino,Pizzeria Cotta a Puntino,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Ristorante da Lino,Ristorante da Lino,0,其他,0.0,0.0,0.0
+意大利菜,Golden View Open Bar,Golden View Open Bar,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria 4 Leoni,Trattoria 4 Leoni,0,其他,0.0,0.0,0.0
+意大利菜,'O Munaciello,'O Munaciello,0,其他,0.0,0.0,0.0
+意大利菜,La Grotta Parri,La Grotta Parri,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Maso,Maso,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria da Guido Firenze,Trattoria da Guido Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Pepo,Osteria Pepo,0,其他,0.0,0.0,0.0
+意大利菜,Antica Pizzeria Del Duomo,Antica Pizzeria Del Duomo,0,其他,0.0,0.0,0.0
+意大利菜,La Mangiatoia,La Mangiatoia,0,其他,0.0,0.0,0.0
+意大利菜,La Cocotte cafè-bistrot-take away,La Cocotte cafè-bistrot-take away,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Trattoria Antichi Cancelli,Trattoria Antichi Cancelli,0,其他,0.0,0.0,0.0
+意大利菜,Antica Trattoria Il Giardino,Antica Trattoria Il Giardino,0,其他,0.0,0.0,0.0
+意大利菜,Robiglio,Robiglio,0,其他,0.0,0.0,0.0
+意大利菜,Antico Salumificio Anzuini - Massi e C.,Antico Salumificio Anzuini - Massi e C.,0,其他,0.0,0.0,0.0
+意大利菜,Cafe Ole,Cafe Ole,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Enoteca Bevo Vino,Enoteca Bevo Vino,0,其他,0.0,0.0,0.0
+意大利菜,Gallery Art Bar,Gallery Art Bar,0,其他,0.0,0.0,0.0
+意大利菜,Oibo,Oibo,0,其他,0.0,0.0,0.0
+意大利菜,GucciMuseo,GucciMuseo,0,其他,0.0,0.0,0.0
+意大利菜,La Bottega di Rosa,La Bottega di Rosa,0,其他,0.0,0.0,0.0
+意大利菜,Caffe San carlo,Caffe San carlo,0,其他,0.0,0.0,0.0
+意大利菜,Panificio Brunori,Panificio Brunori,0,其他,0.0,0.0,0.0
+意大利菜,Sei Divino!,Sei Divino!,0,其他,0.0,0.0,0.0
+意大利菜,Hops Pub,Hops Pub,0,其他,0.0,0.0,0.0
+意大利菜,Nazdravie,Nazdravie,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Noir,Noir,0,其他,0.0,0.0,0.0
+意大利菜,Panificio del Tacco,Panificio del Tacco,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,La Botteghina,La Botteghina,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Canto di Ramerino Buba Cafe,Canto di Ramerino Buba Cafe,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria il Gatto e la Volpe,Pasticceria il Gatto e la Volpe,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,"Da Tito, I Sette Peccati, Ristorante Pizzaria","Da Tito, I Sette Peccati, Ristorante Pizzaria",0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Ristorante Santa Felicita,Ristorante Santa Felicita,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,I Di Si - Pasticceria Renato,I Di Si - Pasticceria Renato,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,La Capanna di Moini,La Capanna di Moini,0,其他,0.0,0.0,0.0
+意大利菜,AC Firenze,AC Firenze,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Tavernetta della Signoria,Tavernetta della Signoria,0,其他,0.0,0.0,0.0
+意大利菜,Cento Canti,Cento Canti,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Trattoria Celestino,Trattoria Celestino,0,其他,0.0,0.0,0.0
+意大利菜,Il Micio,Il Micio,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Osteria delle Belle Donne,Osteria delle Belle Donne,0,其他,0.0,0.0,0.0
+意大利菜,Il Pipistrello,Il Pipistrello,0,其他,0.0,0.0,0.0
+意大利菜,Omarino Pizzeria Spaghetteria,Omarino Pizzeria Spaghetteria,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Il Brillo Parlante Enoteca Winebar,Il Brillo Parlante Enoteca Winebar,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Interno 27,Interno 27,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Il Panda,Ristorante Pizzeria Il Panda,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,La Forca,La Forca,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Moye',Moye',0,其他,0.0,0.0,0.0
+意大利菜,Da Zeus,Da Zeus,0,其他,0.0,0.0,0.0
+意大利菜,Le Botteghe di Donatello,Le Botteghe di Donatello,0,其他,0.0,0.0,0.0
+意大利菜,Fiorino D'Oro,Fiorino D'Oro,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Buca San Giovanni,Buca San Giovanni,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria da Rocco,Trattoria da Rocco,0,其他,0.0,0.0,0.0
+意大利菜,Sandwichic,Sandwichic,0,其他,0.0,0.0,0.0
+意大利菜,Gelateria Mascia,Gelateria Mascia,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Ciri Be,Ciri Be,0,诺沃利,0.0,0.0,0.0
+意大利菜,Da Gigi pizza e focacce a taglio,Da Gigi pizza e focacce a taglio,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Gastronomia Galanti,Gastronomia Galanti,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Sogni e Sapori,Sogni e Sapori,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Zibibbo,Zibibbo,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Sangelato,Sangelato,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Trattoria Tre Soldi,Trattoria Tre Soldi,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,La Taverna degli Artisti,La Taverna degli Artisti,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Pasticceria Villani Di Petrini Paola,Pasticceria Villani Di Petrini Paola,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Osteria delle Tre Panche,Osteria delle Tre Panche,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,La salmoneria,La salmoneria,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Caffeino,Caffeino,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,La Bottega del Buon Caffe',La Bottega del Buon Caffe',0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Virginia Caffe,Virginia Caffe,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Osteria di Giogo,Osteria di Giogo,0,其他,0.0,0.0,0.0
+意大利菜,Il Conventino a Marignolle,Il Conventino a Marignolle,0,,0.0,0.0,0.0
+意大利菜,Caffe Pieri,Caffe Pieri,0,其他,0.0,0.0,0.0
+意大利菜,Affie di Bacco,Affie di Bacco,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria Cosi,Pasticceria Cosi,0,其他,0.0,0.0,0.0
+意大利菜,Bar Migliorini,Bar Migliorini,0,其他,0.0,0.0,0.0
+意大利菜,Rosticceria Giuliano,Rosticceria Giuliano,0,其他,0.0,0.0,0.0
+意大利菜,I' Pizzacchiere,I' Pizzacchiere,0,其他,0.0,0.0,0.0
+意大利菜,High Bar,High Bar,0,其他,0.0,0.0,0.0
+意大利菜,I ragazzi di sipario,I ragazzi di sipario,0,其他,0.0,0.0,0.0
+意大利菜,Toscanella Osteria,Toscanella Osteria,0,其他,0.0,0.0,0.0
+意大利菜,Ilrubaconte Food wine,Ilrubaconte Food wine,0,其他,0.0,0.0,0.0
+意大利菜,Gusta Osteria,Gusta Osteria,0,其他,0.0,0.0,0.0
+意大利菜,Le Volpi E L'Uva,Le Volpi E L'Uva,0,其他,0.0,0.0,0.0
+意大利菜,Il Vinaino di Fiocco,Il Vinaino di Fiocco,0,其他,0.0,0.0,0.0
+意大利菜,La Buchetta Cafe,La Buchetta Cafe,0,其他,0.0,0.0,0.0
+意大利菜,Il Panino del Chianti,Il Panino del Chianti,0,其他,0.0,0.0,0.0
+意大利菜,Brac,Brac,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria da I'Coco Filippo,Trattoria da I'Coco Filippo,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Pandemonio di Casa Brogi,Trattoria Pandemonio di Casa Brogi,0,其他,0.0,0.0,0.0
+意大利菜,X Bacco Caffe / Lounge Bar,X Bacco Caffe / Lounge Bar,0,其他,0.0,0.0,0.0
+意大利菜,La Boutique della Trippa,La Boutique della Trippa,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria da Benvenuto,Trattoria da Benvenuto,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Ponte Vecchio,Trattoria Ponte Vecchio,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Cristallo Patrizia,Pizzeria Cristallo Patrizia,0,其他,0.0,0.0,0.0
+意大利菜,La Prosciutteria,La Prosciutteria,0,其他,0.0,0.0,0.0
+意大利菜,GRIF Glamour Restaurant in Florence,GRIF Glamour Restaurant in Florence,0,其他,0.0,0.0,0.0
+意大利菜,I'Brindellone,I'Brindellone,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante La Botte,Ristorante La Botte,0,其他,0.0,0.0,0.0
+意大利菜,Francesco Vini,Francesco Vini,0,其他,0.0,0.0,0.0
+意大利菜,Il Guscio,Il Guscio,0,其他,0.0,0.0,0.0
+意大利菜,Amble,Amble,0,其他,0.0,0.0,0.0
+意大利菜,La Trattoria il Bargello,La Trattoria il Bargello,0,其他,0.0,0.0,0.0
+意大利菜,Caffe' Del Borgo,Caffe' Del Borgo,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Dino,Ristorante Dino,0,其他,0.0,0.0,0.0
+意大利菜,I' Cartoccio,I' Cartoccio,0,其他,0.0,0.0,0.0
+意大利菜,Bar Ristoro,Bar Ristoro,0,其他,0.0,0.0,0.0
+意大利菜,Mangiafoco Cafe,Mangiafoco Cafe,0,其他,0.0,0.0,0.0
+意大利菜,'L Trippaio di San Frediano,'L Trippaio di San Frediano,0,其他,0.0,0.0,0.0
+意大利菜,La Maremma,La Maremma,0,其他,0.0,0.0,0.0
+意大利菜,Panino Afrodisiaco,Panino Afrodisiaco,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Osteria Da Que' Ganzi,Trattoria Osteria Da Que' Ganzi,0,其他,0.0,0.0,0.0
+意大利菜,La Gabbia,La Gabbia,0,其他,0.0,0.0,0.0
+意大利菜,La Vinaina Firenze,La Vinaina Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Il Borgo Della Pizza,Il Borgo Della Pizza,0,其他,0.0,0.0,0.0
+意大利菜,Slowly Cafe,Slowly Cafe,0,其他,0.0,0.0,0.0
+意大利菜,Salumeria Verdi,Salumeria Verdi,0,其他,0.0,0.0,0.0
+意大利菜,La Bocca di Leone,La Bocca di Leone,0,其他,0.0,0.0,0.0
+意大利菜,La Decima Musa,La Decima Musa,0,其他,0.0,0.0,0.0
+意大利菜,La Vie En Rose,La Vie En Rose,0,其他,0.0,0.0,0.0
+意大利菜,Il Barretto,Il Barretto,0,其他,0.0,0.0,0.0
+意大利菜,Semel,Semel,0,其他,0.0,0.0,0.0
+意大利菜,Sergio Pollini Lampredotto,Sergio Pollini Lampredotto,0,其他,0.0,0.0,0.0
+意大利菜,Da Ganino,Da Ganino,0,其他,0.0,0.0,0.0
+意大利菜,Cibreo Teatro del Sale,Cibreo Teatro del Sale,0,其他,0.0,0.0,0.0
+意大利菜,Vagalume,Vagalume,0,其他,0.0,0.0,0.0
+意大利菜,Modo Wine Bar,Modo Wine Bar,0,其他,0.0,0.0,0.0
+意大利菜,Hostaria Bibendum,Hostaria Bibendum,0,其他,0.0,0.0,0.0
+意大利菜,Caffe' Coquinarius,Caffe' Coquinarius,0,其他,0.0,0.0,0.0
+意大利菜,La Pentola dell'Oro,La Pentola dell'Oro,0,其他,0.0,0.0,0.0
+意大利菜,Caffetteria delle Oblate,Caffetteria delle Oblate,0,其他,0.0,0.0,0.0
+意大利菜,Cantina Barbagianni,Cantina Barbagianni,0,其他,0.0,0.0,0.0
+意大利菜,Il Caminetto Ristorante,Il Caminetto Ristorante,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Cesarino,Trattoria Cesarino,0,其他,0.0,0.0,0.0
+意大利菜,Biancorosso,Biancorosso,0,其他,0.0,0.0,0.0
+意大利菜,Rosticceria Ciacco,Rosticceria Ciacco,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Accadi,Trattoria Accadi,0,其他,0.0,0.0,0.0
+意大利菜,ritrovino,ritrovino,0,其他,0.0,0.0,0.0
+意大利菜,La Piccola Corte,La Piccola Corte,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Il Mostrino,Osteria Il Mostrino,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Armando,Trattoria Armando,0,其他,0.0,0.0,0.0
+意大利菜,Bianco e - Firenze,Bianco e - Firenze,0,其他,0.0,0.0,0.0
+意大利菜,News Cafe,News Cafe,0,其他,0.0,0.0,0.0
+意大利菜,CUCO Cucina Contemporanea,CUCO Cucina Contemporanea,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria La Carabaccia,Trattoria La Carabaccia,0,其他,0.0,0.0,0.0
+意大利菜,Il Ritrovino dei Servi,Il Ritrovino dei Servi,0,其他,0.0,0.0,0.0
+意大利菜,OK Bar,OK Bar,0,其他,0.0,0.0,0.0
+意大利菜,Osteria de L'Ortolano,Osteria de L'Ortolano,0,其他,0.0,0.0,0.0
+意大利菜,Fratelli Zanobini,Fratelli Zanobini,0,其他,0.0,0.0,0.0
+意大利菜,La Capannina Bistrot,La Capannina Bistrot,0,其他,0.0,0.0,0.0
+意大利菜,La Botteghina,La Botteghina,0,其他,0.0,0.0,0.0
+意大利菜,Atlantic Pub,Atlantic Pub,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria al Vecchio Mercato,Trattoria al Vecchio Mercato,0,其他,0.0,0.0,0.0
+意大利菜,Solo toscano,Solo toscano,0,其他,0.0,0.0,0.0
+意大利菜,L'Azdora Piadineria Romagnola,L'Azdora Piadineria Romagnola,0,其他,0.0,0.0,0.0
+意大利菜,Il Gourmet,Il Gourmet,0,其他,0.0,0.0,0.0
+意大利菜,La Burrasca,La Burrasca,0,其他,0.0,0.0,0.0
+意大利菜,Caffe il Sole,Caffe il Sole,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Tozzo di Pane,Osteria Tozzo di Pane,0,其他,0.0,0.0,0.0
+意大利菜,La Piadineria da Maurino,La Piadineria da Maurino,0,其他,0.0,0.0,0.0
+意大利菜,Brincellino,Brincellino,0,其他,0.0,0.0,0.0
+意大利菜,Caffe Sabatino,Caffe Sabatino,0,其他,0.0,0.0,0.0
+意大利菜,Pasticciera Ruggieri,Pasticciera Ruggieri,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria Ruggeri,Pasticceria Ruggeri,0,其他,0.0,0.0,0.0
+意大利菜,Snack Corner Italy,Snack Corner Italy,0,其他,0.0,0.0,0.0
+意大利菜,Caffe pitti,Caffe pitti,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Pizzeria Primavera,Trattoria Pizzeria Primavera,0,其他,0.0,0.0,0.0
+意大利菜,La Ribollita,La Ribollita,0,其他,0.0,0.0,0.0
+意大利菜,Jailhouse,Jailhouse,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria da MariaCristina,Pizzeria da MariaCristina,0,其他,0.0,0.0,0.0
+意大利菜,Brown Sugar Lounge Bar,Brown Sugar Lounge Bar,0,其他,0.0,0.0,0.0
+意大利菜,Pane e Toscana,Pane e Toscana,0,其他,0.0,0.0,0.0
+意大利菜,Lupus in Fabula,Lupus in Fabula,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Il Giglio Rosso,Il Giglio Rosso,0,其他,0.0,0.0,0.0
+意大利菜,Bar Luca & Manu,Bar Luca & Manu,0,其他,0.0,0.0,0.0
+意大利菜,L'Orto del Cigno,L'Orto del Cigno,0,其他,0.0,0.0,0.0
+意大利菜,Il David Ristorante Firenze,Il David Ristorante Firenze,0,其他,0.0,0.0,0.0
+意大利菜,I 4 Mori,I 4 Mori,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Pizzeria Le Delizie,Pizzeria Le Delizie,0,其他,0.0,0.0,0.0
+意大利菜,Alinari,Alinari,0,其他,0.0,0.0,0.0
+意大利菜,Mamma Toscana,Mamma Toscana,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Mangiore,Trattoria Mangiore,0,其他,0.0,0.0,0.0
+意大利菜,La Riseria,La Riseria,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Gran Caffe San Marco,Gran Caffe San Marco,0,其他,0.0,0.0,0.0
+意大利菜,Il Grifone,Il Grifone,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Grace lounge bar,Grace lounge bar,0,其他,0.0,0.0,0.0
+意大利菜,Tira...baralla,Tira...baralla,0,其他,0.0,0.0,0.0
+意大利菜,Caffetteria del Museo di Palazzo Vecchio,Caffetteria del Museo di Palazzo Vecchio,0,其他,0.0,0.0,0.0
+意大利菜,Caffè Imperiale,Caffè Imperiale,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Sciue' Sciue',Pizzeria Ristorante Sciue' Sciue',0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Pizza Man Sansovino,Pizza Man Sansovino,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,TRATTORIA IL PONTE,TRATTORIA IL PONTE,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Il laboratorio del gusto,Il laboratorio del gusto,0,诺沃利,0.0,0.0,0.0
+意大利菜,Pizza Man - Via Carlo del Prete,Pizza Man - Via Carlo del Prete,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,primizie di sapori,primizie di sapori,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Pizzeria Firenze Nova,Pizzeria Firenze Nova,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Pizzeria Hosteria dell'Altra Volta,Pizzeria Hosteria dell'Altra Volta,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Pizza Bike,Pizza Bike,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Sevenit,Sevenit,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,La Luna Pizzeria Ristorante,La Luna Pizzeria Ristorante,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Taverna dei Matti,Taverna dei Matti,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Magari... Vino Bistrot,Magari... Vino Bistrot,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Carapina,Carapina,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Ristorante Portofino,Ristorante Portofino,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Kortile,Kortile,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Stadio,Ristorante Pizzeria Stadio,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Pasticceria Cesare,Pasticceria Cesare,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Undici Leoni,Undici Leoni,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Trey,Trey,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Caffe Liberta,Caffe Liberta,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Gelateria Il Magnifico,Gelateria Il Magnifico,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Gelateria Cavini,Gelateria Cavini,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Cafe Godo,Cafe Godo,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Trattoria Cucchietta,Trattoria Cucchietta,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Trattoria Fratelli Briganti,Trattoria Fratelli Briganti,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Il Muretto S.r.l.,Il Muretto S.r.l.,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Ristorante Il Poggetto,Ristorante Il Poggetto,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Il Bistrot Bollicine e Dintorni,Il Bistrot Bollicine e Dintorni,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Primadonna,Primadonna,0,其他,0.0,0.0,0.0
+意大利菜,IN FABBRICA RISTORANTE,IN FABBRICA RISTORANTE,0,其他,0.0,0.0,0.0
+意大利菜,Crespino Ray,Crespino Ray,0,其他,0.0,0.0,0.0
+意大利菜,Naima,Naima,0,其他,0.0,0.0,0.0
+意大利菜,La Sosta del Convivium,La Sosta del Convivium,0,其他,0.0,0.0,0.0
+意大利菜,Cotta a Puntino,Cotta a Puntino,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Cent'ori,Trattoria Cent'ori,0,其他,0.0,0.0,0.0
+意大利菜,Il Vecchio Cigno,Il Vecchio Cigno,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Caffe Pitti,Ristorante Caffe Pitti,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria La Lola,Trattoria La Lola,0,其他,0.0,0.0,0.0
+意大利菜,Il Chicco di Caffe,Il Chicco di Caffe,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Vasari,Osteria Vasari,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Santo Spirito,Osteria Santo Spirito,0,其他,0.0,0.0,0.0
+意大利菜,Blue River,Blue River,0,其他,0.0,0.0,0.0
+意大利菜,I Raddi,I Raddi,0,其他,0.0,0.0,0.0
+意大利菜,5 e Cinque,5 e Cinque,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Alfredo Sull'Arno,Ristorante Alfredo Sull'Arno,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Sant'Agostino 23,Trattoria Sant'Agostino 23,0,其他,0.0,0.0,0.0
+意大利菜,Borgo San Jacopo,Borgo San Jacopo,0,其他,0.0,0.0,0.0
+意大利菜,Vip's Bar,Vip's Bar,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Roberto,Trattoria Roberto,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Da Roberto Firenze Via Dei Castellani,Trattoria Da Roberto Firenze Via Dei Castellani,0,其他,0.0,0.0,0.0
+意大利菜,bottega del gusto,bottega del gusto,0,其他,0.0,0.0,0.0
+意大利菜,Bar Paninoteca Da I Della,Bar Paninoteca Da I Della,0,其他,0.0,0.0,0.0
+意大利菜,il Fornaio,il Fornaio,0,其他,0.0,0.0,0.0
+意大利菜,Baldovino,Baldovino,0,其他,0.0,0.0,0.0
+意大利菜,Il Cantinone,Il Cantinone,0,其他,0.0,0.0,0.0
+意大利菜,I' Secco,I' Secco,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Anita,Trattoria Anita,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Napoleone,Trattoria Napoleone,0,其他,0.0,0.0,0.0
+意大利菜,I' Cche' c'e' c'e',I' Cche' c'e' c'e',0,其他,0.0,0.0,0.0
+意大利菜,mangiafoco,mangiafoco,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Alfredo,Trattoria Alfredo,0,其他,0.0,0.0,0.0
+意大利菜,Neromo,Neromo,0,其他,0.0,0.0,0.0
+意大利菜,Aroma Ristorante in Firenze,Aroma Ristorante in Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Baccarossa Bistrot,Baccarossa Bistrot,0,其他,0.0,0.0,0.0
+意大利菜,La Botteghina Rossa,La Botteghina Rossa,0,其他,0.0,0.0,0.0
+意大利菜,Il Barroccio,Il Barroccio,0,其他,0.0,0.0,0.0
+意大利菜,Il Cantastorie,Il Cantastorie,0,其他,0.0,0.0,0.0
+意大利菜,La Mucca sul Tetto,La Mucca sul Tetto,0,其他,0.0,0.0,0.0
+意大利菜,Acqua Al 2,Acqua Al 2,0,其他,0.0,0.0,0.0
+意大利菜,Nano Caffe,Nano Caffe,0,其他,0.0,0.0,0.0
+意大利菜,Boccanegra,Boccanegra,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Dago,Osteria Dago,0,其他,0.0,0.0,0.0
+意大利菜,Viktoria Lounge Bar,Viktoria Lounge Bar,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Il Gatto E la Volpe,Osteria Il Gatto E la Volpe,0,其他,0.0,0.0,0.0
+意大利菜,La Via del Te,La Via del Te,0,其他,0.0,0.0,0.0
+意大利菜,Rivalta Cafe,Rivalta Cafe,0,其他,0.0,0.0,0.0
+意大利菜,Spaghetteria Ir Tegame,Spaghetteria Ir Tegame,0,其他,0.0,0.0,0.0
+意大利菜,Pizza Man,Pizza Man,0,其他,0.0,0.0,0.0
+意大利菜,Gusto Leo,Gusto Leo,0,其他,0.0,0.0,0.0
+意大利菜,Pangie's Bistrot,Pangie's Bistrot,0,其他,0.0,0.0,0.0
+意大利菜,Gilda Bistrot,Gilda Bistrot,0,其他,0.0,0.0,0.0
+意大利菜,La Sosta dei Papi,La Sosta dei Papi,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Nome,Ristorante Nome,0,其他,0.0,0.0,0.0
+意大利菜,Paoli,Paoli,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria le Mossacce,Trattoria le Mossacce,0,其他,0.0,0.0,0.0
+意大利菜,Caffe Cibreo,Caffe Cibreo,0,其他,0.0,0.0,0.0
+意大利菜,Antica Osteria 1 Rosso,Antica Osteria 1 Rosso,0,其他,0.0,0.0,0.0
+意大利菜,Rosticceria Lo Sfizietto,Rosticceria Lo Sfizietto,0,其他,0.0,0.0,0.0
+意大利菜,I Ghibellini,I Ghibellini,0,其他,0.0,0.0,0.0
+意大利菜,Clarence,Clarence,0,其他,0.0,0.0,0.0
+意大利菜,I'bandito,I'bandito,0,其他,0.0,0.0,0.0
+意大利菜,Il Giova,Il Giova,0,其他,0.0,0.0,0.0
+意大利菜,La Ghiotta,La Ghiotta,0,其他,0.0,0.0,0.0
+意大利菜,Toscani,Toscani,0,其他,0.0,0.0,0.0
+意大利菜,Vecchia Firenze,Vecchia Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante il Paiolo,Ristorante il Paiolo,0,其他,0.0,0.0,0.0
+意大利菜,BAR 16,BAR 16,0,其他,0.0,0.0,0.0
+意大利菜,I Visacci Caffe,I Visacci Caffe,0,其他,0.0,0.0,0.0
+意大利菜,Il Bigallo,Il Bigallo,0,其他,0.0,0.0,0.0
+意大利菜,Le Bertucce,Le Bertucce,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Toto con Forno a Legna,Pizzeria Toto con Forno a Legna,0,其他,0.0,0.0,0.0
+意大利菜,Ottorino,Ottorino,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Angels,Ristorante Angels,0,其他,0.0,0.0,0.0
+意大利菜,Il Girasole Trattoria Pizzeria,Il Girasole Trattoria Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Zio Gigi,Zio Gigi,0,其他,0.0,0.0,0.0
+意大利菜,AI Lungarni,AI Lungarni,0,其他,0.0,0.0,0.0
+意大利菜,Osteria del Porcino,Osteria del Porcino,0,其他,0.0,0.0,0.0
+意大利菜,A Casa di Viola,A Casa di Viola,0,其他,0.0,0.0,0.0
+意大利菜,Aquarius,Aquarius,0,其他,0.0,0.0,0.0
+意大利菜,Mostodolce,Mostodolce,0,其他,0.0,0.0,0.0
+意大利菜,Decumanus Caffe,Decumanus Caffe,0,其他,0.0,0.0,0.0
+意大利菜,Boscolo Hotels Ristorante Palazzo Gaddi,Boscolo Hotels Ristorante Palazzo Gaddi,0,其他,0.0,0.0,0.0
+意大利菜,Peperoncino,Peperoncino,0,其他,0.0,0.0,0.0
+意大利菜,La Nuova Campana,La Nuova Campana,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Giglio Rosso,Ristorante Giglio Rosso,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Ciro & Sons Firenze,Ristorante Ciro & Sons Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Cipolla Rossa,Osteria Cipolla Rossa,0,其他,0.0,0.0,0.0
+意大利菜,i'Gruello,i'Gruello,0,其他,0.0,0.0,0.0
+意大利菜,Il Porcospino.,Il Porcospino.,0,其他,0.0,0.0,0.0
+意大利菜,La Cantinetta di Dante e Beatrice,La Cantinetta di Dante e Beatrice,0,其他,0.0,0.0,0.0
+意大利菜,La Padellaccia,La Padellaccia,0,其他,0.0,0.0,0.0
+意大利菜,MCF Mercato Centrale Firenze,MCF Mercato Centrale Firenze,0,其他,0.0,0.0,0.0
+意大利菜,Palle D'Oro,Palle D'Oro,0,其他,0.0,0.0,0.0
+意大利菜,Palle d'Oro,Palle d'Oro,0,其他,0.0,0.0,0.0
+意大利菜,Cellini,Cellini,0,其他,0.0,0.0,0.0
+意大利菜,Pescheria Ultima Spiaggia,Pescheria Ultima Spiaggia,0,其他,0.0,0.0,0.0
+意大利菜,Lob's Fish,Lob's Fish,0,其他,0.0,0.0,0.0
+意大利菜,Madame Popi,Madame Popi,0,其他,0.0,0.0,0.0
+意大利菜,Kitsch,Kitsch,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Nerone,Trattoria Nerone,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Guelfa,Trattoria Guelfa,0,其他,0.0,0.0,0.0
+意大利菜,Rosticceria Giuliano 3,Rosticceria Giuliano 3,0,其他,0.0,0.0,0.0
+意大利菜,Tiberio Trattoria,Tiberio Trattoria,0,其他,0.0,0.0,0.0
+意大利菜,Enotria,Enotria,0,其他,0.0,0.0,0.0
+意大利菜,Dolce Vegan,Dolce Vegan,0,其他,0.0,0.0,0.0
+意大利菜,Crudo e Non Solo,Crudo e Non Solo,0,其他,0.0,0.0,0.0
+意大利菜,I Templari,I Templari,0,其他,0.0,0.0,0.0
+意大利菜,Girasol Ristorante Pizzeria Disco Cocktail Bar,Girasol Ristorante Pizzeria Disco Cocktail Bar,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria Statuto,Pasticceria Statuto,0,其他,0.0,0.0,0.0
+意大利菜,Zerozero Pizzeria,Zerozero Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria Marisa,Pasticceria Marisa,0,其他,0.0,0.0,0.0
+意大利菜,Pizzaballa,Pizzaballa,0,其他,0.0,0.0,0.0
+意大利菜,La Lanterna Blu,La Lanterna Blu,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Senzanome,Pizzeria Senzanome,0,其他,0.0,0.0,0.0
+意大利菜,Pizza Man Baracca,Pizza Man Baracca,0,其他,0.0,0.0,0.0
+意大利菜,"Pizzeria, osteria, ristorante l'antica badia","Pizzeria, osteria, ristorante l'antica badia",0,其他,0.0,0.0,0.0
+意大利菜,Perseus,Perseus,0,其他,0.0,0.0,0.0
+意大利菜,Caffe 'Del 900,Caffe 'Del 900,0,其他,0.0,0.0,0.0
+意大利菜,Ops,Ops,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Calypso,Calypso,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Acasamia,Acasamia,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,RISTORANTE PIZZERIA LA REPUBBLICA,RISTORANTE PIZZERIA LA REPUBBLICA,0,其他,0.0,0.0,0.0
+意大利菜,Brek,Brek,0,其他,0.0,0.0,0.0
+意大利菜,Pork's - Spaghetteria Paninoteca,Pork's - Spaghetteria Paninoteca,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria Goretta,Pasticceria Goretta,0,其他,0.0,0.0,0.0
+意大利菜,Caffetteria Da Raffaella,Caffetteria Da Raffaella,0,其他,0.0,0.0,0.0
+意大利菜,Ambarabar,Ambarabar,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Ristorante Conte Mascetti,Ristorante Conte Mascetti,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,Ristorante il gusto di casa mia,Ristorante il gusto di casa mia,0,伊索洛妥,0.0,0.0,0.0
+意大利菜,IL Gioiello,IL Gioiello,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Uva Bar Firenze,Uva Bar Firenze,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Sottofiesole,Sottofiesole,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Self service Marchetti,Self service Marchetti,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Le panche,Le panche,0,瑞弗拉迪,0.0,0.0,0.0
+意大利菜,Bar Mazzini,Bar Mazzini,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Caffe' Dogali,Caffe' Dogali,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Rugby Pub,Rugby Pub,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Mastrobulletta,Mastrobulletta,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Da Pepe,Da Pepe,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Alfredo,Alfredo,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Toro Alla Brace,Toro Alla Brace,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Pantarei,Pantarei,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Pronto Soccorso,Pronto Soccorso,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,Trattoria da Teo,Trattoria da Teo,0,坎波蒂马特,0.0,0.0,0.0
+意大利菜,I' Canneto,I' Canneto,0,其他,0.0,0.0,0.0
+意大利菜,Rosticceria ,Rosticceria ,0,其他,0.0,0.0,0.0
+意大利菜,Giglio Nero,Giglio Nero,0,其他,0.0,0.0,0.0
+意大利菜,La Taverna degli Assi,La Taverna degli Assi,0,其他,0.0,0.0,0.0
+意大利菜,Bar Petrarca,Bar Petrarca,0,其他,0.0,0.0,0.0
+意大利菜,Firenze Sud Sporting Club,Firenze Sud Sporting Club,0,其他,0.0,0.0,0.0
+意大利菜,La Beppa Fioraia,La Beppa Fioraia,0,其他,0.0,0.0,0.0
+意大利菜,Rari Ristoro sull' Acqua,Rari Ristoro sull' Acqua,0,其他,0.0,0.0,0.0
+意大利菜,Blanco Beachbar,Blanco Beachbar,0,其他,0.0,0.0,0.0
+意大利菜,Il Rifrullo,Il Rifrullo,0,其他,0.0,0.0,0.0
+意大利菜,Caffe Bellini,Caffe Bellini,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Ricchi,Ristorante Ricchi,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Bibo',Ristorante Bibo',0,其他,0.0,0.0,0.0
+意大利菜,Maddina,Maddina,0,其他,0.0,0.0,0.0
+意大利菜,Moyo,Moyo,0,其他,0.0,0.0,0.0
+意大利菜,Osteria De'Benci,Osteria De'Benci,0,其他,0.0,0.0,0.0
+意大利菜,Il Ristoro Dei Perditempo,Il Ristoro Dei Perditempo,0,其他,0.0,0.0,0.0
+意大利菜,Gli Amici Degli Uffizi,Gli Amici Degli Uffizi,0,其他,0.0,0.0,0.0
+意大利菜,Uffizi Pizzeria Ristorante,Uffizi Pizzeria Ristorante,0,其他,0.0,0.0,0.0
+意大利菜,CAFFETTERIA STAD,CAFFETTERIA STAD,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Nove,Ristorante Nove,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria del Carmine,Trattoria del Carmine,0,其他,0.0,0.0,0.0
+意大利菜,Club Paradiso,Club Paradiso,0,其他,0.0,0.0,0.0
+意大利菜,RISTORANTE FINIS TERRAE,RISTORANTE FINIS TERRAE,0,其他,0.0,0.0,0.0
+意大利菜,La Posta,La Posta,0,其他,0.0,0.0,0.0
+意大利菜,Pizzicheria Guadagni,Pizzicheria Guadagni,0,其他,0.0,0.0,0.0
+意大利菜,Flet,Flet,0,其他,0.0,0.0,0.0
+意大利菜,Caffe le Logge,Caffe le Logge,0,其他,0.0,0.0,0.0
+意大利菜,Rubaconte,Rubaconte,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante da i 5 Amici,Ristorante da i 5 Amici,0,其他,0.0,0.0,0.0
+意大利菜,Via Vai,Via Vai,0,其他,0.0,0.0,0.0
+意大利菜,La Sosta de' Golosi,La Sosta de' Golosi,0,其他,0.0,0.0,0.0
+意大利菜,Odeon Bistro,Odeon Bistro,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Mastrociliegia,Ristorante Pizzeria Mastrociliegia,0,其他,0.0,0.0,0.0
+意大利菜,Caffe' La Terrazza,Caffe' La Terrazza,0,其他,0.0,0.0,0.0
+意大利菜,Caffe Donnini 1894,Caffe Donnini 1894,0,其他,0.0,0.0,0.0
+意大利菜,Caffe Paskoski,Caffe Paskoski,0,其他,0.0,0.0,0.0
+意大利菜,Risorgimento,Risorgimento,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Bella Donna,Osteria Bella Donna,0,其他,0.0,0.0,0.0
+意大利菜,Lo Scudo,Lo Scudo,0,其他,0.0,0.0,0.0
+意大利菜,Caffe Duomo,Caffe Duomo,0,其他,0.0,0.0,0.0
+意大利菜,Bottegone,Bottegone,0,其他,0.0,0.0,0.0
+意大利菜,Vincanto Ristorante,Vincanto Ristorante,0,其他,0.0,0.0,0.0
+意大利菜,Buca Niccolini,Buca Niccolini,0,其他,0.0,0.0,0.0
+意大利菜,Il Bambola,Il Bambola,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria pizzeria da i matti,Trattoria pizzeria da i matti,0,其他,0.0,0.0,0.0
+意大利菜,Il Vinaino,Il Vinaino,0,其他,0.0,0.0,0.0
+意大利菜,Il Grande Nuti,Il Grande Nuti,0,其他,0.0,0.0,0.0
+意大利菜,Obsequium Enoteca,Obsequium Enoteca,0,其他,0.0,0.0,0.0
+意大利菜,Shot Cafe,Shot Cafe,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Terrazza Rossini,Ristorante Terrazza Rossini,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Lorenzo de' Medici,Ristorante Lorenzo de' Medici,0,其他,0.0,0.0,0.0
+法国菜,boutique laduree,boutique laduree,0,其他,0.0,0.0,0.0
+法国菜,Enoteca Pinchiorri,Enoteca Pinchiorri,0,其他,0.0,0.0,0.0
+法国菜,La Brasserie,La Brasserie,0,其他,0.0,0.0,0.0
+法国菜,Baldobar,Baldobar,0,其他,0.0,0.0,0.0
+法国菜,La Fondue,La Fondue,0,其他,0.0,0.0,0.0
+墨西哥菜,I'Margaritaio Drink&Food,I'Margaritaio Drink&Food,0,其他,0.0,0.0,0.0
+墨西哥菜,Tijuana,Tijuana,0,其他,0.0,0.0,0.0
+墨西哥菜,Tequila Red,Tequila Red,0,瑞弗拉迪,0.0,0.0,0.0
+墨西哥菜,Tijuana 2,Tijuana 2,0,其他,0.0,0.0,0.0
+墨西哥菜,Eby's,Eby's,0,其他,0.0,0.0,0.0
+其他西餐,Trattoria Osteria dall'Oste,Trattoria Osteria dall'Oste,0,其他,0.0,0.0,0.0
+其他西餐,Osteria Vecchio Vicolo,Osteria Vecchio Vicolo,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Le Fonticine,Ristorante Le Fonticine,0,其他,0.0,0.0,0.0
+其他西餐,Antica Trattoria ,Antica Trattoria ,0,其他,0.0,0.0,0.0
+其他西餐,Finisterrae,Finisterrae,0,其他,0.0,0.0,0.0
+其他西餐,All'Antico Ristoro Di Cambi,All'Antico Ristoro Di Cambi,0,其他,0.0,0.0,0.0
+其他西餐,Circus,Circus,0,其他,0.0,0.0,0.0
+其他西餐,Gelatissimo,Gelatissimo,0,其他,0.0,0.0,0.0
+其他西餐,Tic Toc,Tic Toc,0,其他,0.0,0.0,0.0
+其他西餐,Mangia Pizza Firenze,Mangia Pizza Firenze,0,其他,0.0,0.0,0.0
+其他西餐,Targa,Targa,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,i 4 Amici Firenze,i 4 Amici Firenze,0,其他,0.0,0.0,0.0
+其他西餐,Black Bar,Black Bar,0,其他,0.0,0.0,0.0
+其他西餐,Trattoria Pallottino,Trattoria Pallottino,0,其他,0.0,0.0,0.0
+其他西餐,Trattoria Antellesi,Trattoria Antellesi,0,其他,0.0,0.0,0.0
+其他西餐,Cantinetta Antinori,Cantinetta Antinori,0,其他,0.0,0.0,0.0
+其他西餐,Trattoria Omero,Trattoria Omero,0,其他,0.0,0.0,0.0
+其他西餐,Cucina Torcicoda,Cucina Torcicoda,0,其他,0.0,0.0,0.0
+其他西餐,Genio Italiano,Genio Italiano,0,瑞弗拉迪,0.0,0.0,0.0
+其他西餐,Atrium bar,Atrium bar,0,其他,0.0,0.0,0.0
+其他西餐,Da Fulvione,Da Fulvione,0,其他,0.0,0.0,0.0
+其他西餐,Caffe' di Firenze,Caffe' di Firenze,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Pasticceria Buglione,Pasticceria Buglione,0,瑞弗拉迪,0.0,0.0,0.0
+其他西餐,Riva d'Arno Wine Bar,Riva d'Arno Wine Bar,0,其他,0.0,0.0,0.0
+其他西餐,Rusticheria,Rusticheria,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,I carbonari,I carbonari,0,其他,0.0,0.0,0.0
+其他西餐,Maximilian,Maximilian,0,其他,0.0,0.0,0.0
+其他西餐,Le Trippaie,Le Trippaie,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Enoteca Pinchiorri,Enoteca Pinchiorri,0,其他,0.0,0.0,0.0
+其他西餐,City Restaurant,City Restaurant,0,诺沃利,0.0,0.0,0.0
+其他西餐,La Martinicca,La Martinicca,0,其他,0.0,0.0,0.0
+其他西餐,Il Giardino di Barbano,Il Giardino di Barbano,0,其他,0.0,0.0,0.0
+其他西餐,Hostaria il Desco,Hostaria il Desco,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Il Clarinetto,Ristorante Il Clarinetto,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Il Gusto di Acasamia,Il Gusto di Acasamia,0,其他,0.0,0.0,0.0
+其他西餐,Touch Florence,Touch Florence,0,其他,0.0,0.0,0.0
+其他西餐,Easy Living,Easy Living,0,其他,0.0,0.0,0.0
+其他西餐,Trattoria Sostanza (Il Troia),Trattoria Sostanza (Il Troia),0,其他,0.0,0.0,0.0
+其他西餐,Aqua,Aqua,0,其他,0.0,0.0,0.0
+其他西餐,I'Margaritaio Drink&Food,I'Margaritaio Drink&Food,0,其他,0.0,0.0,0.0
+其他西餐,Cafaggi,Cafaggi,0,其他,0.0,0.0,0.0
+其他西餐,Il Vezzo,Il Vezzo,0,其他,0.0,0.0,0.0
+其他西餐,Winter Garden by Caino,Winter Garden by Caino,0,其他,0.0,0.0,0.0
+其他西餐,Alas le Delizie Greche,Alas le Delizie Greche,0,其他,0.0,0.0,0.0
+其他西餐,Filipepe,Filipepe,0,其他,0.0,0.0,0.0
+其他西餐,Rose's,Rose's,0,其他,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,其他,0.0,0.0,0.0
+其他西餐,Rio Grande,Rio Grande,0,伊索洛妥,0.0,0.0,0.0
+其他西餐,Osteria Cocotrippone,Osteria Cocotrippone,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Florens Pizzeria & Food,Florens Pizzeria & Food,0,其他,0.0,0.0,0.0
+其他西餐,La Piazzetta,La Piazzetta,0,其他,0.0,0.0,0.0
+其他西餐,Trattoria Lo Stracotto,Trattoria Lo Stracotto,0,其他,0.0,0.0,0.0
+其他西餐,Osteria All'Antico Mercato,Osteria All'Antico Mercato,0,其他,0.0,0.0,0.0
+其他西餐,La Galleria Il Vino dei Guelfi,La Galleria Il Vino dei Guelfi,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Toto,Ristorante Toto,0,其他,0.0,0.0,0.0
+其他西餐,Trattoria dei 13 Gobbi,Trattoria dei 13 Gobbi,0,其他,0.0,0.0,0.0
+其他西餐,Vivanda Gastronomia,Vivanda Gastronomia,0,其他,0.0,0.0,0.0
+其他西餐,La Giostra,La Giostra,0,其他,0.0,0.0,0.0
+其他西餐,Pizzeria Cinzia,Pizzeria Cinzia,0,伊索洛妥,0.0,0.0,0.0
+其他西餐,The Club House,The Club House,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante il Pennello,Ristorante il Pennello,0,其他,0.0,0.0,0.0
+其他西餐,Luci della Citta Restaurant,Luci della Citta Restaurant,0,伊索洛妥,0.0,0.0,0.0
+其他西餐,Da Tommy,Da Tommy,0,诺沃利,0.0,0.0,0.0
+其他西餐,Robiglio,Robiglio,0,其他,0.0,0.0,0.0
+其他西餐,Hops Pub,Hops Pub,0,其他,0.0,0.0,0.0
+其他西餐,La Tripperia delle Cure,La Tripperia delle Cure,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Bar Ristorante Pepito,Bar Ristorante Pepito,0,其他,0.0,0.0,0.0
+其他西餐,"Pane, salame e fantasia","Pane, salame e fantasia",0,其他,0.0,0.0,0.0
+其他西餐,Drogheria Bar & Grill,Drogheria Bar & Grill,0,其他,0.0,0.0,0.0
+其他西餐,Il Micio,Il Micio,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Ciri Be,Ciri Be,0,诺沃利,0.0,0.0,0.0
+其他西餐,Zibibbo,Zibibbo,0,瑞弗拉迪,0.0,0.0,0.0
+其他西餐,Trattoria Tre Soldi,Trattoria Tre Soldi,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Caffeino,Caffeino,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,La Volpe e l'Uva,La Volpe e l'Uva,0,其他,0.0,0.0,0.0
+其他西餐,Le Volpi E L'Uva,Le Volpi E L'Uva,0,其他,0.0,0.0,0.0
+其他西餐,La Buchetta Cafe,La Buchetta Cafe,0,其他,0.0,0.0,0.0
+其他西餐,"Da Simone, ","Da Simone, ",0,其他,0.0,0.0,0.0
+其他西餐,La Maremma,La Maremma,0,其他,0.0,0.0,0.0
+其他西餐,Il Barretto,Il Barretto,0,其他,0.0,0.0,0.0
+其他西餐,ORVM,ORVM,0,其他,0.0,0.0,0.0
+其他西餐,College,College,0,其他,0.0,0.0,0.0
+其他西餐,Hostaria Bibendum,Hostaria Bibendum,0,其他,0.0,0.0,0.0
+其他西餐,La Pentola dell'Oro,La Pentola dell'Oro,0,其他,0.0,0.0,0.0
+其他西餐,Cantina Barbagianni,Cantina Barbagianni,0,其他,0.0,0.0,0.0
+其他西餐,Bianco e - Firenze,Bianco e - Firenze,0,其他,0.0,0.0,0.0
+其他西餐,Trattoria La Carabaccia,Trattoria La Carabaccia,0,其他,0.0,0.0,0.0
+其他西餐,Derb,Derb,0,其他,0.0,0.0,0.0
+其他西餐,La Botteghina,La Botteghina,0,其他,0.0,0.0,0.0
+其他西餐,Solo toscano,Solo toscano,0,其他,0.0,0.0,0.0
+其他西餐,L'Azdora Piadineria Romagnola,L'Azdora Piadineria Romagnola,0,其他,0.0,0.0,0.0
+其他西餐,Arnold's,Arnold's,0,其他,0.0,0.0,0.0
+其他西餐,Il Desco,Il Desco,0,其他,0.0,0.0,0.0
+其他西餐,Bar Santa Reparata,Bar Santa Reparata,0,其他,0.0,0.0,0.0
+其他西餐,Snack Corner Italy,Snack Corner Italy,0,其他,0.0,0.0,0.0
+其他西餐,La Ribollita,La Ribollita,0,其他,0.0,0.0,0.0
+其他西餐,La taverna di Poldo,La taverna di Poldo,0,伊索洛妥,0.0,0.0,0.0
+其他西餐,I 4 Mori,I 4 Mori,0,瑞弗拉迪,0.0,0.0,0.0
+其他西餐,Pazza,Pazza,0,其他,0.0,0.0,0.0
+其他西餐,Rosso Mao,Rosso Mao,0,诺沃利,0.0,0.0,0.0
+其他西餐,Locanda Della Colla,Locanda Della Colla,0,其他,0.0,0.0,0.0
+其他西餐,PANINO DI CATEGORIA,PANINO DI CATEGORIA,0,瑞弗拉迪,0.0,0.0,0.0
+其他西餐,One Up Caffe,One Up Caffe,0,瑞弗拉迪,0.0,0.0,0.0
+其他西餐,Ovo Bay,Ovo Bay,0,瑞弗拉迪,0.0,0.0,0.0
+其他西餐,Undici Leoni,Undici Leoni,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Ristorante Alborada,Ristorante Alborada,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Osteria Santo Spirito,Osteria Santo Spirito,0,其他,0.0,0.0,0.0
+其他西餐,Baldovino,Baldovino,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Trattoria Angiolino,Ristorante Trattoria Angiolino,0,其他,0.0,0.0,0.0
+其他西餐,Fattoria Lanciola,Fattoria Lanciola,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Argentino 7 Secoli,Ristorante Argentino 7 Secoli,0,其他,0.0,0.0,0.0
+其他西餐,Pizza Man,Pizza Man,0,其他,0.0,0.0,0.0
+其他西餐,Acca Ristopizzaperitivo,Acca Ristopizzaperitivo,0,其他,0.0,0.0,0.0
+其他西餐,Caffe Rainer Borgo la Croce,Caffe Rainer Borgo la Croce,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante il Paiolo,Ristorante il Paiolo,0,其他,0.0,0.0,0.0
+其他西餐,Ruth's,Ruth's,0,其他,0.0,0.0,0.0
+其他西餐,il panino tondo,il panino tondo,0,其他,0.0,0.0,0.0
+其他西餐,Slah Kebab,Slah Kebab,0,其他,0.0,0.0,0.0
+其他西餐,Brasileiro,Brasileiro,0,其他,0.0,0.0,0.0
+其他西餐,Subway,Subway,0,其他,0.0,0.0,0.0
+其他西餐,Graneria Farina 00,Graneria Farina 00,0,其他,0.0,0.0,0.0
+其他西餐,Caffe Rainer San Zanobi,Caffe Rainer San Zanobi,0,其他,0.0,0.0,0.0
+其他西餐,Il Forno San Gallo,Il Forno San Gallo,0,其他,0.0,0.0,0.0
+其他西餐,Girasol Ristorante Pizzeria Disco Cocktail Bar,Girasol Ristorante Pizzeria Disco Cocktail Bar,0,其他,0.0,0.0,0.0
+其他西餐,Trattoria Da Damasco,Trattoria Da Damasco,0,其他,0.0,0.0,0.0
+其他西餐,Pizza Man Baracca,Pizza Man Baracca,0,其他,0.0,0.0,0.0
+其他西餐,Astrea Lunch bar,Astrea Lunch bar,0,诺沃利,0.0,0.0,0.0
+其他西餐,Alfredo,Alfredo,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Braumeister,Braumeister,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Firenze Sud Sporting Club,Firenze Sud Sporting Club,0,其他,0.0,0.0,0.0
+其他西餐,Blanco Beachbar,Blanco Beachbar,0,其他,0.0,0.0,0.0
+其他西餐,Maracana Grill,Maracana Grill,0,其他,0.0,0.0,0.0
+其他西餐,Birreria HB Firenze,Birreria HB Firenze,0,其他,0.0,0.0,0.0
+其他西餐,Osteria De'Benci,Osteria De'Benci,0,其他,0.0,0.0,0.0
+其他西餐,Caffe le torri,Caffe le torri,0,其他,0.0,0.0,0.0
+其他西餐,Cioccolateria Heminguay,Cioccolateria Heminguay,0,其他,0.0,0.0,0.0
+其他西餐,La Posta,La Posta,0,其他,0.0,0.0,0.0
+其他西餐,Darvish cafe,Darvish cafe,0,其他,0.0,0.0,0.0
+其他西餐,La Petite,La Petite,0,其他,0.0,0.0,0.0
+其他西餐,Porto Di Mare-Eskimo,Porto Di Mare-Eskimo,0,其他,0.0,0.0,0.0
+其他西餐,Little David,Little David,0,其他,0.0,0.0,0.0
+其他西餐,The Friends Pub,The Friends Pub,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Terrazza Rossini,Ristorante Terrazza Rossini,0,其他,0.0,0.0,0.0
+其他西餐,Ideal Firenze,Ideal Firenze,0,其他,0.0,0.0,0.0
+其他西餐,BAR DONATELLO,BAR DONATELLO,0,其他,0.0,0.0,0.0
+其他西餐,Dioniso,Dioniso,0,其他,0.0,0.0,0.0
+其他西餐,Odysseia,Odysseia,0,其他,0.0,0.0,0.0
+其他西餐,Arabian kebab,Arabian kebab,0,其他,0.0,0.0,0.0
+其他西餐,Ristopub Malborghetto,Ristopub Malborghetto,0,伊索洛妥,0.0,0.0,0.0
+其他西餐,La Panineria Dei Mille Sapori,La Panineria Dei Mille Sapori,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,Kiwy Karaoke Pub,Kiwy Karaoke Pub,0,坎波蒂马特,0.0,0.0,0.0
+其他西餐,tandoori cucina mediterranea,tandoori cucina mediterranea,0,其他,0.0,0.0,0.0
+其他西餐,Cantina Sabrosa,Cantina Sabrosa,0,其他,0.0,0.0,0.0
+其他西餐,La Loggia,La Loggia,0,其他,0.0,0.0,0.0
+其他西餐,Tremerli,Tremerli,0,其他,0.0,0.0,0.0
+其他西餐,La Fenice,La Fenice,0,其他,0.0,0.0,0.0
+其他西餐,Lupin Bistrot,Lupin Bistrot,0,其他,0.0,0.0,0.0
+其他西餐,Caffe FUORI SCHEMA,Caffe FUORI SCHEMA,0,其他,0.0,0.0,0.0
+其他西餐,Mc Donald's Piazza Stazione Firenze,Mc Donald's Piazza Stazione Firenze,0,其他,0.0,0.0,0.0
+中餐,重庆印象,重庆印象,69,坎波蒂马特,8.9,7.2,7.8
+中餐,中亚川菜馆,中亚川菜馆,0,坎波蒂马特,8.6,7.5,8.4
+中餐,唐朝,唐朝,0,特罗斯托里科,8.3,8.2,8.0
+中餐,Cinese Nin Hao,Cinese Nin Hao,0,其他,0.0,0.0,0.0
+中餐,京都大酒楼,京都大酒楼,0,特罗斯托里科,7.5,7.5,7.5
+中餐,万家源餐馆,万家源餐馆,0,其他,0.0,0.0,0.0
+中餐,Peking,Peking,0,其他,0.0,0.0,0.0
+中餐,唐朝 打包店,唐朝 打包店,0,,7.1,7.0,7.1
+中餐,华夏小吃,华夏小吃,0,,7.7,7.2,7.7
+中餐,La Nuova Citta Imperiale,La Nuova Citta Imperiale,0,瑞弗拉迪,0.0,0.0,0.0
+中餐,LIBRA香提,LIBRA香提,0,,6.9,6.9,6.9
+中餐,RISTORANTE CINESE CHINATOWN,RISTORANTE CINESE CHINATOWN,0,特罗斯托里科,6.8,6.8,6.8
+中餐,Dinastia Tang,Dinastia Tang,0,其他,0.0,0.0,0.0
+中餐,Meykadeh Bookstore Cafe,Meykadeh Bookstore Cafe,0,其他,0.0,0.0,0.0
+中餐,Il Mandarino,Il Mandarino,0,瑞弗拉迪,0.0,0.0,0.0
+中餐,Cuculia - Ristorante Libreria,Cuculia - Ristorante Libreria,0,其他,0.0,0.0,0.0
+中餐,Capitale della Cina,Capitale della Cina,0,其他,0.0,0.0,0.0
+中餐,Tang,Tang,0,其他,0.0,0.0,0.0
+中餐,Mister Hang,Mister Hang,0,诺沃利,0.0,0.0,0.0
+中餐,Rosticceria Cinese Tian Tian Hong,Rosticceria Cinese Tian Tian Hong,0,其他,0.0,0.0,0.0
+中餐,Il Cinesino,Il Cinesino,0,其他,0.0,0.0,0.0
+中餐,ChinaTown,ChinaTown,0,其他,0.0,0.0,0.0
+中餐,Giardino di Giada,Giardino di Giada,0,坎波蒂马特,0.0,0.0,0.0
+中餐,Rosticceria Casalinga,Rosticceria Casalinga,0,其他,0.0,0.0,0.0
+中餐,Perla d'oriente,Perla d'oriente,0,坎波蒂马特,0.0,0.0,0.0
+中餐,Delizie Cinesi,Delizie Cinesi,0,伊索洛妥,0.0,0.0,0.0
+中餐,XIERNA RISTORANTE CINESE,XIERNA RISTORANTE CINESE,0,瑞弗拉迪,0.0,0.0,0.0
+中餐,Senza nome,Senza nome,0,其他,0.0,0.0,0.0
+中餐,Rosticceria Gallo Bianco,Rosticceria Gallo Bianco,0,坎波蒂马特,0.0,0.0,0.0
+中餐,Sapori d'Oriente,Sapori d'Oriente,0,其他,0.0,0.0,0.0
+中餐,La Felicita,La Felicita,0,其他,0.0,0.0,0.0
+中餐,Rosticceria Cinese Il Panda,Rosticceria Cinese Il Panda,0,其他,0.0,0.0,0.0
+中餐,Giardino Di Bambu,Giardino Di Bambu,0,瑞弗拉迪,0.0,0.0,0.0
+中餐,La Fortuna,La Fortuna,0,其他,0.0,0.0,0.0
+中餐,I Piatti D'oro,I Piatti D'oro,0,其他,0.0,0.0,0.0
+中餐,Fu Qui,Fu Qui,0,坎波蒂马特,0.0,0.0,0.0
+中餐,Dong Bei,Dong Bei,0,其他,0.0,0.0,0.0
+中餐,I'abbondanza (Li Qing Yu),I'abbondanza (Li Qing Yu),0,其他,0.0,0.0,0.0
+中餐,Rosticceria Cinese Cuore D'oro,Rosticceria Cinese Cuore D'oro,0,其他,0.0,0.0,0.0
+中餐,Buona Fortuna,Buona Fortuna,0,其他,0.0,0.0,0.0
+中餐,Ristorante Paladar,Ristorante Paladar,0,伊索洛妥,0.0,0.0,0.0
+日韩料理,Niwa,Niwa,0,其他,0.0,0.0,0.0
+日韩料理,Banki Ramen,Banki Ramen,0,其他,0.0,0.0,0.0
+日韩料理,Aji Tei,Aji Tei,0,坎波蒂马特,0.0,0.0,0.0
+日韩料理,Sushi Mania,Sushi Mania,0,其他,0.0,0.0,0.0
+日韩料理,FENG COOKING,FENG COOKING,0,其他,0.0,0.0,0.0
+日韩料理,Ristorante Goong,Ristorante Goong,0,其他,0.0,0.0,0.0
+日韩料理,Momoyama,Momoyama,0,其他,0.0,0.0,0.0
+日韩料理,Kome,Kome,0,其他,0.0,0.0,0.0
+日韩料理,Eito,Eito,0,其他,0.0,0.0,0.0
+日韩料理,Wabi Sabi,Wabi Sabi,0,坎波蒂马特,0.0,0.0,0.0
+日韩料理,Uoll,Uoll,0,瑞弗拉迪,0.0,0.0,0.0
+日韩料理,Fusion Bar & Restaurant,Fusion Bar & Restaurant,0,其他,0.0,0.0,0.0
+日韩料理,Hoseki,Hoseki,0,其他,0.0,0.0,0.0
+日韩料理,Mr. Sushi,Mr. Sushi,0,瑞弗拉迪,0.0,0.0,0.0
+日韩料理,Lucky Sushi,Lucky Sushi,0,其他,0.0,0.0,0.0
+日韩料理,Galli,Galli,0,其他,0.0,0.0,0.0
+日韩料理,Sapporo,Sapporo,0,其他,0.0,0.0,0.0
+日韩料理,Iyoiyo,Iyoiyo,0,其他,0.0,0.0,0.0
+日韩料理,Da Kou,Da Kou,0,其他,0.0,0.0,0.0
+日韩料理,Ristorante Giapponese Yagura,Ristorante Giapponese Yagura,0,其他,0.0,0.0,0.0
+日韩料理,Baki Ramen,Baki Ramen,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Aurora,Sushi Aurora,0,其他,0.0,0.0,0.0
+日韩料理,Ichiban Sushi Wok,Ichiban Sushi Wok,0,其他,0.0,0.0,0.0
+日韩料理,Rakutei,Rakutei,0,其他,0.0,0.0,0.0
+日韩料理,Tomo Sushi,Tomo Sushi,0,瑞弗拉迪,0.0,0.0,0.0
+日韩料理,Ristorante Sushi Wok Bamboo,Ristorante Sushi Wok Bamboo,0,诺沃利,0.0,0.0,0.0
+日韩料理,Sushi Hama,Sushi Hama,0,瑞弗拉迪,0.0,0.0,0.0
+日韩料理,Hanami,Hanami,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Nami,Sushi Nami,0,其他,0.0,0.0,0.0
+日韩料理,Sakura,Sakura,0,诺沃利,0.0,0.0,0.0
+日韩料理,IN FABBRICA RISTORANTE,IN FABBRICA RISTORANTE,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Hama 2,Sushi Hama 2,0,诺沃利,0.0,0.0,0.0
+日韩料理,Sushimania,Sushimania,0,其他,0.0,0.0,0.0
+日韩料理,Porfirio Rubirosa,Porfirio Rubirosa,0,其他,0.0,0.0,0.0
+日韩料理,Osaka,Osaka,0,其他,0.0,0.0,0.0
+更多亚洲菜,La Nuova Citta Imperiale,La Nuova Citta Imperiale,0,瑞弗拉迪,0.0,0.0,0.0
+更多亚洲菜,Risalpiano S.R.L.,Risalpiano S.R.L.,0,其他,0.0,0.0,0.0
+更多亚洲菜,pak helal kebab,pak helal kebab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mister Hang,Mister Hang,0,诺沃利,0.0,0.0,0.0
+更多亚洲菜,Dim Sum,Dim Sum,0,其他,0.0,0.0,0.0
+更多亚洲菜,PANE AMORE FANTASIA,PANE AMORE FANTASIA,0,其他,0.0,0.0,0.0
+更多亚洲菜,Haveli Indian Restaurant,Haveli Indian Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Istanbul Doner Kebab,Istanbul Doner Kebab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Buddakan,Buddakan,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kashmir Kebab,Kashmir Kebab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Halal Indian Restaurant Saffron,Halal Indian Restaurant Saffron,0,其他,0.0,0.0,0.0
+更多亚洲菜,Koko,Koko,0,其他,0.0,0.0,0.0
+更多亚洲菜,Salaam Bombay,Salaam Bombay,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mavi kebap,Mavi kebap,0,其他,0.0,0.0,0.0
+更多亚洲菜,Ristorante Sushi Wok Bamboo,Ristorante Sushi Wok Bamboo,0,诺沃利,0.0,0.0,0.0
+更多亚洲菜,Istanbul Kebab,Istanbul Kebab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Pingusto,Pingusto,0,其他,0.0,0.0,0.0
+更多亚洲菜,Royal India ristorante,Royal India ristorante,0,其他,0.0,0.0,0.0
+更多亚洲菜,KOWLOON,KOWLOON,0,其他,0.0,0.0,0.0
+更多亚洲菜,Gandhi Ristorante Indiano,Gandhi Ristorante Indiano,0,其他,0.0,0.0,0.0
+更多亚洲菜,Nazar Kebab,Nazar Kebab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Paninoteca Babilonia,Paninoteca Babilonia,0,其他,0.0,0.0,0.0
+更多亚洲菜,Punjabi,Punjabi,0,伊索洛妥,0.0,0.0,0.0
+更多亚洲菜,francescano,francescano,0,其他,0.0,0.0,0.0
+更多亚洲菜,mangiafoco,mangiafoco,0,其他,0.0,0.0,0.0
+更多亚洲菜,Xing Wang,Xing Wang,0,其他,0.0,0.0,0.0
+更多亚洲菜,Turkuaz ristorante turco,Turkuaz ristorante turco,0,其他,0.0,0.0,0.0
+更多亚洲菜,Al Noor,Al Noor,0,其他,0.0,0.0,0.0
+更多亚洲菜,La Lanterna Blu,La Lanterna Blu,0,其他,0.0,0.0,0.0
+更多亚洲菜,Maddina,Maddina,0,其他,0.0,0.0,0.0
+更多亚洲菜,Caffe la posta,Caffe la posta,0,其他,0.0,0.0,0.0
+更多亚洲菜,Zam Zam Pizze & Kebab,Zam Zam Pizze & Kebab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Ashoka Ristorante Indiano,Ashoka Ristorante Indiano,0,伊索洛妥,0.0,0.0,0.0
+更多亚洲菜,Ristorante Ponte d'Oro Wok Sushi,Ristorante Ponte d'Oro Wok Sushi,0,伊索洛妥,0.0,0.0,0.0
+快餐简餐,天天美食,天天美食,0,,8.5,8.5,8.5
+快餐简餐,万家源餐馆,万家源餐馆,0,,7.7,7.7,7.7
+快餐简餐,Forno de'Ghiotti,Forno de'Ghiotti,0,其他,0.0,0.0,0.0
+快餐简餐,House of Sizzle,House of Sizzle,0,其他,0.0,0.0,0.0
+快餐简餐,Pane e Olio di Buchicchio,Pane e Olio di Buchicchio,0,其他,0.0,0.0,0.0
+快餐简餐,Friggitoria,Friggitoria,0,其他,0.0,0.0,0.0
+快餐简餐,IL Farro,IL Farro,0,瑞弗拉迪,0.0,0.0,0.0
+快餐简餐,The Oil Shoppe,The Oil Shoppe,0,其他,0.0,0.0,0.0
+快餐简餐,Vinaino di Parte Guelfa,Vinaino di Parte Guelfa,0,其他,0.0,0.0,0.0
+快餐简餐,Stuzzicheria de' Ciulli - Vegano e Vegetariano,Stuzzicheria de' Ciulli - Vegano e Vegetariano,0,其他,0.0,0.0,0.0
+快餐简餐,Snack Bar Anna,Snack Bar Anna,0,其他,0.0,0.0,0.0
+快餐简餐,Riva d'Arno Wine Bar,Riva d'Arno Wine Bar,0,其他,0.0,0.0,0.0
+快餐简餐,Toscana biologica,Toscana biologica,0,伊索洛妥,0.0,0.0,0.0
+快餐简餐,Uno Rosso,Uno Rosso,0,其他,0.0,0.0,0.0
+快餐简餐,Pane Amore e Fantasia,Pane Amore e Fantasia,0,其他,0.0,0.0,0.0
+快餐简餐,Il Santino,Il Santino,0,其他,0.0,0.0,0.0
+快餐简餐,Miccio Paninoteca - Lampredotto,Miccio Paninoteca - Lampredotto,0,其他,0.0,0.0,0.0
+快餐简餐,ARTE del cioccolato,ARTE del cioccolato,0,其他,0.0,0.0,0.0
+快餐简餐,Panbriaco,Panbriaco,0,其他,0.0,0.0,0.0
+快餐简餐,Il Bisonte,Il Bisonte,0,其他,0.0,0.0,0.0
+快餐简餐,JT Caffè,JT Caffè,0,其他,0.0,0.0,0.0
+快餐简餐,I Maledetti Toscani,I Maledetti Toscani,0,瑞弗拉迪,0.0,0.0,0.0
+快餐简餐,i Toscani,i Toscani,0,其他,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,其他,0.0,0.0,0.0
+快餐简餐,Mama's Bakery,Mama's Bakery,0,其他,0.0,0.0,0.0
+快餐简餐,Pizzicheria Antonio Porrati,Pizzicheria Antonio Porrati,0,其他,0.0,0.0,0.0
+快餐简餐,La salmoneria,La salmoneria,0,坎波蒂马特,0.0,0.0,0.0
+快餐简餐,Pizza in piazza,Pizza in piazza,0,坎波蒂马特,0.0,0.0,0.0
+快餐简餐,Noema,Noema,0,其他,0.0,0.0,0.0
+快餐简餐,Rosticceria Angelo,Rosticceria Angelo,0,其他,0.0,0.0,0.0
+快餐简餐,Panzerotto King,Panzerotto King,0,其他,0.0,0.0,0.0
+快餐简餐,Uncle Jimmy's Irish Pub,Uncle Jimmy's Irish Pub,0,其他,0.0,0.0,0.0
+快餐简餐,Pasticceria Di Figlia,Pasticceria Di Figlia,0,其他,0.0,0.0,0.0
+快餐简餐,La Divina Enoteca,La Divina Enoteca,0,其他,0.0,0.0,0.0
+快餐简餐,Jailhouse,Jailhouse,0,其他,0.0,0.0,0.0
+快餐简餐,Ciccia E Briciole,Ciccia E Briciole,0,伊索洛妥,0.0,0.0,0.0
+快餐简餐,One Eyed Jack,One Eyed Jack,0,其他,0.0,0.0,0.0
+快餐简餐,The Diner,The Diner,0,其他,0.0,0.0,0.0
+快餐简餐,il panino tondo,il panino tondo,0,其他,0.0,0.0,0.0
+快餐简餐,Sugar & Spice,Sugar & Spice,0,其他,0.0,0.0,0.0
+快餐简餐,Out-Side Ristobar,Out-Side Ristobar,0,其他,0.0,0.0,0.0
+快餐简餐,Danny Rock,Danny Rock,0,其他,0.0,0.0,0.0
+快餐简餐,firenze唐朝中餐厅,firenze唐朝中餐厅,0,,0.0,0.0,0.0
+快餐简餐,富豪快餐,富豪快餐,0,,0.0,0.0,0.0
+海鲜,Da Settimo,Da Settimo,0,其他,0.0,0.0,0.0
+海鲜,Bistro del Mare,Bistro del Mare,0,其他,0.0,0.0,0.0
+海鲜,Fiaschetteria di pesce,Fiaschetteria di pesce,0,其他,0.0,0.0,0.0
+海鲜,Fuor d'acqua,Fuor d'acqua,0,其他,0.0,0.0,0.0
+海鲜,Bettolina di Aurora s.a.s.,Bettolina di Aurora s.a.s.,0,其他,0.0,0.0,0.0
+海鲜,Ristorante Lo Stravizio,Ristorante Lo Stravizio,0,其他,0.0,0.0,0.0
+海鲜,Boccon Divino,Boccon Divino,0,其他,0.0,0.0,0.0
+海鲜,Da Florian,Da Florian,0,坎波蒂马特,0.0,0.0,0.0
+烧烤,Saloon Bar&Grill,Saloon Bar&Grill,0,其他,0.0,0.0,0.0
+烧烤,Rio Grande,Rio Grande,0,伊索洛妥,0.0,0.0,0.0
+烧烤,La Piazzetta,La Piazzetta,0,其他,0.0,0.0,0.0
+烧烤,Drogheria Bar & Grill,Drogheria Bar & Grill,0,其他,0.0,0.0,0.0
+烧烤,Ristorante Pizzeria L'Antico Veggio,Ristorante Pizzeria L'Antico Veggio,0,伊索洛妥,0.0,0.0,0.0
+烧烤,Pizzeria a Casa Mia,Pizzeria a Casa Mia,0,伊索洛妥,0.0,0.0,0.0
+烧烤,Osteria del Milione,Osteria del Milione,0,,0.0,0.0,0.0
+比萨,Il Pizzaiuolo,Il Pizzaiuolo,0,其他,0.0,0.0,0.0
+比萨,Circus,Circus,0,其他,0.0,0.0,0.0
+比萨,Mangia Pizza Firenze,Mangia Pizza Firenze,0,其他,0.0,0.0,0.0
+比萨,Caffettiera Moka Arra.,Caffettiera Moka Arra.,0,其他,0.0,0.0,0.0
+比萨,Focaccine Bondi,Focaccine Bondi,0,瑞弗拉迪,0.0,0.0,0.0
+比萨,Pizzeria Toto,Pizzeria Toto,0,其他,0.0,0.0,0.0
+比萨,Alice,Alice,0,其他,0.0,0.0,0.0
+比萨,La Dantesca,La Dantesca,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Trattoria 100 Rosso,Pizzeria Trattoria 100 Rosso,0,其他,0.0,0.0,0.0
+比萨,Pizza a taglio Orchidea Blu,Pizza a taglio Orchidea Blu,0,诺沃利,0.0,0.0,0.0
+比萨,Bar Carpe Diem!,Bar Carpe Diem!,0,诺沃利,0.0,0.0,0.0
+比萨,Divina pizza firenze,Divina pizza firenze,0,其他,0.0,0.0,0.0
+比萨,Pippirilli - pane e pizza,Pippirilli - pane e pizza,0,其他,0.0,0.0,0.0
+比萨,Pizzeria il ritrovo rufina,Pizzeria il ritrovo rufina,0,其他,0.0,0.0,0.0
+比萨,Il re del panzerotto fast food,Il re del panzerotto fast food,0,其他,0.0,0.0,0.0
+比萨,Time Out,Time Out,0,其他,0.0,0.0,0.0
+比萨,Mr. Pizza,Mr. Pizza,0,其他,0.0,0.0,0.0
+比萨,La Divina Osteria,La Divina Osteria,0,其他,0.0,0.0,0.0
+比萨,Trattoria Cornelius,Trattoria Cornelius,0,其他,0.0,0.0,0.0
+比萨,I'Ripiglino,I'Ripiglino,0,其他,0.0,0.0,0.0
+比萨,Strapizzami e Non Solo,Strapizzami e Non Solo,0,坎波蒂马特,0.0,0.0,0.0
+比萨,La Bussola,La Bussola,0,其他,0.0,0.0,0.0
+比萨,Toto Atto II,Toto Atto II,0,其他,0.0,0.0,0.0
+比萨,Ciro and Sons,Ciro and Sons,0,其他,0.0,0.0,0.0
+比萨,Master Pizza & Co,Master Pizza & Co,0,其他,0.0,0.0,0.0
+比萨,Amici di Ponte Vecchio Da Stefano,Amici di Ponte Vecchio Da Stefano,0,其他,0.0,0.0,0.0
+比萨,Trattoria da Garibardi,Trattoria da Garibardi,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Rocco e i Suoi Fratelli,Pizzeria Rocco e i Suoi Fratelli,0,其他,0.0,0.0,0.0
+比萨,Star Gate,Star Gate,0,其他,0.0,0.0,0.0
+比萨,Bounty,Bounty,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Osteria All'Antico Mercato,Osteria All'Antico Mercato,0,其他,0.0,0.0,0.0
+比萨,Pizza Man - Via Rocca Tedalda,Pizza Man - Via Rocca Tedalda,0,其他,0.0,0.0,0.0
+比萨,I Tarocchi,I Tarocchi,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Pizzeria Caffè Italiano,Pizzeria Caffè Italiano,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Cinzia,Pizzeria Cinzia,0,伊索洛妥,0.0,0.0,0.0
+比萨,Chiosco le Mulina Firenze,Chiosco le Mulina Firenze,0,伊索洛妥,0.0,0.0,0.0
+比萨,Mr Pizza,Mr Pizza,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Cotta a Puntino,Pizzeria Cotta a Puntino,0,坎波蒂马特,0.0,0.0,0.0
+比萨,'O Munaciello,'O Munaciello,0,其他,0.0,0.0,0.0
+比萨,Pizzeria O'Vesuvio,Pizzeria O'Vesuvio,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Mamma Napoli,Pizzeria Mamma Napoli,0,其他,0.0,0.0,0.0
+比萨,Pastarito,Pastarito,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Dalmazia,Pizzeria Dalmazia,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Pronto Pizza,Pronto Pizza,0,其他,0.0,0.0,0.0
+比萨,pizzeria coconovo,pizzeria coconovo,0,伊索洛妥,0.0,0.0,0.0
+比萨,I'Papero,I'Papero,0,瑞弗拉迪,0.0,0.0,0.0
+比萨,Pizzeria Antica Porta,Pizzeria Antica Porta,0,其他,0.0,0.0,0.0
+比萨,Il Forcaiolo,Il Forcaiolo,0,诺沃利,0.0,0.0,0.0
+比萨,Special Pizza,Special Pizza,0,诺沃利,0.0,0.0,0.0
+比萨,Pizza Man Viale De Amicis,Pizza Man Viale De Amicis,0,坎波蒂马特,0.0,0.0,0.0
+比萨,La Schiaccia Matta,La Schiaccia Matta,0,坎波蒂马特,0.0,0.0,0.0
+比萨,La Divina Pizza,La Divina Pizza,0,其他,0.0,0.0,0.0
+比萨,I' Pizzacchiere,I' Pizzacchiere,0,其他,0.0,0.0,0.0
+比萨,Francesco Vini,Francesco Vini,0,其他,0.0,0.0,0.0
+比萨,Il Borgo Della Pizza,Il Borgo Della Pizza,0,其他,0.0,0.0,0.0
+比萨,Triangolo delle Bermuda,Triangolo delle Bermuda,0,其他,0.0,0.0,0.0
+比萨,Trattoria Pizzeria Primavera,Trattoria Pizzeria Primavera,0,其他,0.0,0.0,0.0
+比萨,La Bottega Della Pizza,La Bottega Della Pizza,0,伊索洛妥,0.0,0.0,0.0
+比萨,Pizzeria A Taglio,Pizzeria A Taglio,0,其他,0.0,0.0,0.0
+比萨,Pizza Man Sansovino,Pizza Man Sansovino,0,伊索洛妥,0.0,0.0,0.0
+比萨,Pizza Man - Via Carlo del Prete,Pizza Man - Via Carlo del Prete,0,瑞弗拉迪,0.0,0.0,0.0
+比萨,Pizzeria Firenze Nova,Pizzeria Firenze Nova,0,瑞弗拉迪,0.0,0.0,0.0
+比萨,One Up Caffe,One Up Caffe,0,瑞弗拉迪,0.0,0.0,0.0
+比萨,Laurenziana,Laurenziana,0,瑞弗拉迪,0.0,0.0,0.0
+比萨,Strabiliardo,Strabiliardo,0,瑞弗拉迪,0.0,0.0,0.0
+比萨,Taverna dei Matti,Taverna dei Matti,0,坎波蒂马特,0.0,0.0,0.0
+比萨,La Bottega del Pizzaiolo,La Bottega del Pizzaiolo,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Ristorante Pizzeria Stadio,Ristorante Pizzeria Stadio,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Trey,Trey,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Papero Viola,Papero Viola,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Ristorante Alborada,Ristorante Alborada,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Trattoria Cucchietta,Trattoria Cucchietta,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Cotta a Puntino,Cotta a Puntino,0,其他,0.0,0.0,0.0
+比萨,Affe' di Bacco,Affe' di Bacco,0,其他,0.0,0.0,0.0
+比萨,Il Vecchio Cigno,Il Vecchio Cigno,0,其他,0.0,0.0,0.0
+比萨,Pizzeria O'Scugnizzo,Pizzeria O'Scugnizzo,0,其他,0.0,0.0,0.0
+比萨,Da Gherardo,Da Gherardo,0,其他,0.0,0.0,0.0
+比萨,Lo Sfizio,Lo Sfizio,0,其他,0.0,0.0,0.0
+比萨,Trattoria Nerone,Trattoria Nerone,0,其他,0.0,0.0,0.0
+比萨,Trattoria Pizzeria Santa Lucia,Trattoria Pizzeria Santa Lucia,0,其他,0.0,0.0,0.0
+比萨,Ristorante Pizzeria La Tortuga,Ristorante Pizzeria La Tortuga,0,其他,0.0,0.0,0.0
+比萨,Fo'Caccia la Notte,Fo'Caccia la Notte,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Mantignano,Pizzeria Mantignano,0,伊索洛妥,0.0,0.0,0.0
+比萨,La Playa,La Playa,0,诺沃利,0.0,0.0,0.0
+比萨,Le panche,Le panche,0,瑞弗拉迪,0.0,0.0,0.0
+比萨,Il Purgatorio,Il Purgatorio,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Ristorante Pizzeria Mastrociliegia,Ristorante Pizzeria Mastrociliegia,0,其他,0.0,0.0,0.0
+比萨,Vincanto Ristorante,Vincanto Ristorante,0,其他,0.0,0.0,0.0
+比萨,La Pizzeria,La Pizzeria,0,其他,0.0,0.0,0.0
+比萨,Little David,Little David,0,其他,0.0,0.0,0.0
+比萨,Il Grande Nuti,Il Grande Nuti,0,其他,0.0,0.0,0.0
+比萨,Ristorante La Lampara,Ristorante La Lampara,0,其他,0.0,0.0,0.0
+比萨,Rossopomodoro,Rossopomodoro,0,其他,0.0,0.0,0.0
+比萨,100% Pizza,100% Pizza,0,其他,0.0,0.0,0.0
+比萨,Movida,Movida,0,其他,0.0,0.0,0.0
+比萨,Pizza,Pizza,0,其他,0.0,0.0,0.0
+比萨,Peper,Peper,0,瑞弗拉迪,0.0,0.0,0.0
+比萨,Il Pallaio,Il Pallaio,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Ristorante Pizzeria Piccadilly,Ristorante Pizzeria Piccadilly,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Pepe Rosa,Pepe Rosa,0,其他,0.0,0.0,0.0
+比萨,le colonnine,le colonnine,0,其他,0.0,0.0,0.0
+比萨,Antica Pizzeria Nuti,Antica Pizzeria Nuti,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Funiculi,Pizzeria Funiculi,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Il Crostino,Pizzeria Il Crostino,0,其他,0.0,0.0,0.0
+比萨,La Tana,La Tana,0,其他,0.0,0.0,0.0
+比萨,Lupin Bistrot,Lupin Bistrot,0,其他,0.0,0.0,0.0
+比萨,Il Terzo Cerchio,Il Terzo Cerchio,0,伊索洛妥,0.0,0.0,0.0
+比萨,E che pizza,E che pizza,0,坎波蒂马特,0.0,0.0,0.0
+比萨,Re Pizza,Re Pizza,0,其他,0.0,0.0,0.0
+咖啡厅,Gilli,Gilli,0,坎波蒂马特,8.3,8.3,8.1
+咖啡厅,Bar Perseo s.r.l.,Bar Perseo s.r.l.,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Galleria,Bar Galleria,0,其他,0.0,0.0,0.0
+咖啡厅,Vivoli,Vivoli,0,其他,0.0,0.0,0.0
+咖啡厅,Mirabilia,Mirabilia,0,坎波蒂马特,0.0,0.0,0.0
+咖啡厅,Caffe' Mario,Caffe' Mario,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Carpe Diem!,Bar Carpe Diem!,0,诺沃利,0.0,0.0,0.0
+咖啡厅,Pasticceria Bellucci,Pasticceria Bellucci,0,坎波蒂马特,0.0,0.0,0.0
+咖啡厅,The Laundry Cafe,The Laundry Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,La Via Del Te 2,La Via Del Te 2,0,其他,0.0,0.0,0.0
+咖啡厅,Sardonero Bistrot,Sardonero Bistrot,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Il Cantuccio,Bar Il Cantuccio,0,其他,0.0,0.0,0.0
+咖啡厅,Gilli,Gilli,0,其他,0.0,0.0,0.0
+咖啡厅,Vivi-Market,Vivi-Market,0,其他,0.0,0.0,0.0
+咖啡厅,Caffetteria Il David,Caffetteria Il David,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Ginori,Bar Ginori,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe de la Paix,Cafe de la Paix,0,其他,0.0,0.0,0.0
+咖啡厅,Caffe Bargioni,Caffe Bargioni,0,其他,0.0,0.0,0.0
+咖啡厅,Royal Bar,Royal Bar,0,其他,0.0,0.0,0.0
+咖啡厅,It's Tea Time,It's Tea Time,0,伊索洛妥,0.0,0.0,0.0
+咖啡厅,Dolce Notte,Dolce Notte,0,伊索洛妥,0.0,0.0,0.0
+咖啡厅,FUK - Florence Unpopular Kafe,FUK - Florence Unpopular Kafe,0,其他,0.0,0.0,0.0
+咖啡厅,Caffe dei Fossi,Caffe dei Fossi,0,其他,0.0,0.0,0.0
+咖啡厅,Gli Stuzzichini Del Corso,Gli Stuzzichini Del Corso,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Pasticceria Piccioli,Bar Pasticceria Piccioli,0,其他,0.0,0.0,0.0
+咖啡厅,La Gatta e La Volpe,La Gatta e La Volpe,0,其他,0.0,0.0,0.0
+咖啡厅,Ovo Bay,Ovo Bay,0,瑞弗拉迪,0.0,0.0,0.0
+咖啡厅,Bar 900,Bar 900,0,瑞弗拉迪,0.0,0.0,0.0
+咖啡厅,Golose Tentazioni Bar e non solo,Golose Tentazioni Bar e non solo,0,瑞弗拉迪,0.0,0.0,0.0
+咖啡厅,Pizza Bike,Pizza Bike,0,瑞弗拉迪,0.0,0.0,0.0
+咖啡厅,Caffe Della Galleria,Caffe Della Galleria,0,其他,0.0,0.0,0.0
+咖啡厅,Ditta Artigianale,Ditta Artigianale,0,其他,0.0,0.0,0.0
+咖啡厅,Chiaroscuro Firenze,Chiaroscuro Firenze,0,其他,0.0,0.0,0.0
+咖啡厅,Café illy,Café illy,0,其他,0.0,0.0,0.0
+咖啡厅,Caffe' La Terrazza,Caffe' La Terrazza,0,其他,0.0,0.0,0.0
+咖啡厅,La Milkeria,La Milkeria,0,其他,0.0,0.0,0.0
+咖啡厅,Caffe Fabbricotti,Caffe Fabbricotti,0,坎波蒂马特,0.0,0.0,0.0
+咖啡厅,Cafe Sandy,Cafe Sandy,0,其他,0.0,0.0,0.0
+咖啡厅,Sun Cafe,Sun Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Sergiobar,Sergiobar,0,其他,0.0,0.0,0.0
+咖啡厅,Terracafe,Terracafe,0,其他,0.0,0.0,0.0
+面包甜点,GROM,GROM,0,坎波蒂马特,8.3,7.9,7.8
+面包甜点,Gelateria Santa TrinIta,Gelateria Santa TrinIta,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Vivoli Gelato,Vivoli Gelato,0,坎波蒂马特,8.1,8.1,8.1
+面包甜点,Gelateria La Carraia,Gelateria La Carraia,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria,Gelateria,0,坎波蒂马特,8.1,7.5,7.5
+面包甜点,Li x Li Firenze,Li x Li Firenze,0,其他,0.0,0.0,0.0
+面包甜点,Il Cantuccio Di San Lorenzo,Il Cantuccio Di San Lorenzo,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Lo Specchio di Liliana Polvani,Lo Specchio di Liliana Polvani,0,其他,0.0,0.0,0.0
+面包甜点,Lindt,Lindt,0,坎波蒂马特,7.2,7.6,7.6
+面包甜点,Il Gelato di Filo,Il Gelato di Filo,0,其他,0.0,0.0,0.0
+面包甜点,L'Angolo del Gelato,L'Angolo del Gelato,0,其他,0.0,0.0,0.0
+面包甜点,Forno de'Ghiotti,Forno de'Ghiotti,0,其他,0.0,0.0,0.0
+面包甜点,Edoardo Gelato Bio,Edoardo Gelato Bio,0,其他,0.0,0.0,0.0
+面包甜点,Mordilatte,Mordilatte,0,,7.1,6.9,6.9
+面包甜点,Dolceforte,Dolceforte,0,,7.6,7.2,7.6
+面包甜点,Bar Perseo s.r.l.,Bar Perseo s.r.l.,0,其他,0.0,0.0,0.0
+面包甜点,Gelatissimo,Gelatissimo,0,其他,0.0,0.0,0.0
+面包甜点,Yelo Gelato,Yelo Gelato,0,其他,0.0,0.0,0.0
+面包甜点,Forno bistrot pugi,Forno bistrot pugi,0,其他,0.0,0.0,0.0
+面包甜点,Grom,Grom,0,其他,0.0,0.0,0.0
+面包甜点,Il Cernacchino,Il Cernacchino,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Gaetano,Pasticceria Gaetano,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Dolcissima,Pasticceria Dolcissima,0,其他,0.0,0.0,0.0
+面包甜点,La bottega del chianti,La bottega del chianti,0,其他,0.0,0.0,0.0
+面包甜点,Le Voyage,Le Voyage,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Vivoli,Vivoli,0,其他,0.0,0.0,0.0
+面包甜点,Festival del Gelato‎,Festival del Gelato‎,0,其他,0.0,0.0,0.0
+面包甜点,Grom Gelateria Firenze,Grom Gelateria Firenze,0,其他,0.0,0.0,0.0
+面包甜点,I Due Fratellini,I Due Fratellini,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Carabe,Gelateria Carabe,0,其他,0.0,0.0,0.0
+面包甜点,Shake Cafe,Shake Cafe,0,其他,0.0,0.0,0.0
+面包甜点,Vinaino di Parte Guelfa,Vinaino di Parte Guelfa,0,其他,0.0,0.0,0.0
+面包甜点,Rivareno Gelato,Rivareno Gelato,0,其他,0.0,0.0,0.0
+面包甜点,Bar Dario,Bar Dario,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Stuzzicheria de' Ciulli - Vegano e Vegetariano,Stuzzicheria de' Ciulli - Vegano e Vegetariano,0,其他,0.0,0.0,0.0
+面包甜点,Due Sorsi & Un Boccone,Due Sorsi & Un Boccone,0,其他,0.0,0.0,0.0
+面包甜点,Ghibellino persiano,Ghibellino persiano,0,其他,0.0,0.0,0.0
+面包甜点,Cremeria Il Prato,Cremeria Il Prato,0,其他,0.0,0.0,0.0
+面包甜点,Amorino,Amorino,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Bellucci,Pasticceria Bellucci,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,PANE AMORE FANTASIA,PANE AMORE FANTASIA,0,其他,0.0,0.0,0.0
+面包甜点,The Laundry Cafe,The Laundry Cafe,0,其他,0.0,0.0,0.0
+面包甜点,DOLCISSIMA FIRENZE,DOLCISSIMA FIRENZE,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Roberto Firenze,Gelateria Roberto Firenze,0,其他,0.0,0.0,0.0
+面包甜点,La Carraia 2,La Carraia 2,0,其他,0.0,0.0,0.0
+面包甜点,Vecchio Forno,Vecchio Forno,0,其他,0.0,0.0,0.0
+面包甜点,La Finestra di Stefania,La Finestra di Stefania,0,其他,0.0,0.0,0.0
+面包甜点,Pane Amore e Fantasia,Pane Amore e Fantasia,0,其他,0.0,0.0,0.0
+面包甜点,Cantina del Gelato,Cantina del Gelato,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria vezzosi,Gelateria vezzosi,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Gelateria Rinascimento,Gelateria Rinascimento,0,其他,0.0,0.0,0.0
+面包甜点,PERCHE NO!,PERCHE NO!,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,ARTE del cioccolato,ARTE del cioccolato,0,其他,0.0,0.0,0.0
+面包甜点,Forno Sartoni,Forno Sartoni,0,其他,0.0,0.0,0.0
+面包甜点,Forno Pierguidi,Forno Pierguidi,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria de' Medici,Gelateria de' Medici,0,其他,0.0,0.0,0.0
+面包甜点,La Strega Nocciola,La Strega Nocciola,0,其他,0.0,0.0,0.0
+面包甜点,DI Pasco Filippo & C. SAS - Gelateria Lo Zodiaco,DI Pasco Filippo & C. SAS - Gelateria Lo Zodiaco,0,其他,0.0,0.0,0.0
+面包甜点,La Bottega del Gelato,La Bottega del Gelato,0,其他,0.0,0.0,0.0
+面包甜点,i Toscani,i Toscani,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Pitti,Gelateria Pitti,0,其他,0.0,0.0,0.0
+面包甜点,Ice £ Bakery Florence,Ice £ Bakery Florence,0,其他,0.0,0.0,0.0
+面包甜点,Mama's Bakery,Mama's Bakery,0,其他,0.0,0.0,0.0
+面包甜点,Mercato Centrale Firenze,Mercato Centrale Firenze,0,其他,0.0,0.0,0.0
+面包甜点,Chiosco le Mulina Firenze,Chiosco le Mulina Firenze,0,伊索洛妥,0.0,0.0,0.0
+面包甜点,Coronas Cafe,Coronas Cafe,0,其他,0.0,0.0,0.0
+面包甜点,Cafe Ole,Cafe Ole,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Il Principe delle Delizie,Il Principe delle Delizie,0,其他,0.0,0.0,0.0
+面包甜点,Serafino Gelateria,Serafino Gelateria,0,其他,0.0,0.0,0.0
+面包甜点,Crepapelle,Crepapelle,0,其他,0.0,0.0,0.0
+面包甜点,Caffe Bargioni,Caffe Bargioni,0,其他,0.0,0.0,0.0
+面包甜点,Angolo della Pizza,Angolo della Pizza,0,其他,0.0,0.0,0.0
+面包甜点,Cafe Pasticceria La Loggia Degli Albizi,Cafe Pasticceria La Loggia Degli Albizi,0,其他,0.0,0.0,0.0
+面包甜点,Panificio palatresi,Panificio palatresi,0,其他,0.0,0.0,0.0
+面包甜点,Bar Ristorante Pepito,Bar Ristorante Pepito,0,其他,0.0,0.0,0.0
+面包甜点,Sunny Wine Shop,Sunny Wine Shop,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Caffe Liberta,Pasticceria Caffe Liberta,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Pegaso,Pasticceria Pegaso,0,伊索洛妥,0.0,0.0,0.0
+面包甜点,Ristorante Pizzeria L'Antico Veggio,Ristorante Pizzeria L'Antico Veggio,0,伊索洛妥,0.0,0.0,0.0
+面包甜点,Migone,Migone,0,其他,0.0,0.0,0.0
+面包甜点,Cucineria la Mattonaia,Cucineria la Mattonaia,0,其他,0.0,0.0,0.0
+面包甜点,Vestri Cioccolateria,Vestri Cioccolateria,0,伊索洛妥,0.0,0.0,0.0
+面包甜点,Gelateria Mascia,Gelateria Mascia,0,伊索洛妥,0.0,0.0,0.0
+面包甜点,Il Biscurillo,Il Biscurillo,0,瑞弗拉迪,0.0,0.0,0.0
+面包甜点,Sangelato,Sangelato,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Mordilatte,Mordilatte,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Gelateria il Capriccio,Gelateria il Capriccio,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,La Schiaccia Matta,La Schiaccia Matta,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,L'Erta del Bau,L'Erta del Bau,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Gelateria Dalmazia,Gelateria Dalmazia,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Noema,Noema,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Vivaldi,Gelateria Vivaldi,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Cosi,Pasticceria Cosi,0,其他,0.0,0.0,0.0
+面包甜点,Pino's Firenze,Pino's Firenze,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria della Passera,Gelateria della Passera,0,其他,0.0,0.0,0.0
+面包甜点,La Sorbettiera,La Sorbettiera,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria dei Neri,Gelateria dei Neri,0,其他,0.0,0.0,0.0
+面包甜点,Dolce Lab,Dolce Lab,0,其他,0.0,0.0,0.0
+面包甜点,Traidue,Traidue,0,其他,0.0,0.0,0.0
+面包甜点,B.Ice Florence,B.Ice Florence,0,其他,0.0,0.0,0.0
+面包甜点,Caffe dei Fossi,Caffe dei Fossi,0,其他,0.0,0.0,0.0
+面包甜点,Gli Stuzzichini Del Corso,Gli Stuzzichini Del Corso,0,其他,0.0,0.0,0.0
+面包甜点,Mordilatte,Mordilatte,0,其他,0.0,0.0,0.0
+面包甜点,B. ICE - il gelato di Borgognissanti,B. ICE - il gelato di Borgognissanti,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Bellamia Firenze,Gelateria Bellamia Firenze,0,其他,0.0,0.0,0.0
+面包甜点,Le Botteghe di Leonardo,Le Botteghe di Leonardo,0,其他,0.0,0.0,0.0
+面包甜点,Antica Gelateria Fiorentina,Antica Gelateria Fiorentina,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Le Parigine,Gelateria Le Parigine,0,其他,0.0,0.0,0.0
+面包甜点,Triangolo delle Bermuda,Triangolo delle Bermuda,0,其他,0.0,0.0,0.0
+面包甜点,Arnold's,Arnold's,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Caldana,Pasticceria Caldana,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Giorgio,Pasticceria Giorgio,0,伊索洛妥,0.0,0.0,0.0
+面包甜点,Gelateria Yogurteria Porta Romana,Gelateria Yogurteria Porta Romana,0,其他,0.0,0.0,0.0
+面包甜点,Migone Tabacchi,Migone Tabacchi,0,其他,0.0,0.0,0.0
+面包甜点,Monariko Caffe,Monariko Caffe,0,其他,0.0,0.0,0.0
+面包甜点,Nobile caffe,Nobile caffe,0,瑞弗拉迪,0.0,0.0,0.0
+面包甜点,Carapina,Carapina,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Badiani,Badiani,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,dalla Birba,dalla Birba,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Gelateria Fiorentina di Albano Gino,Gelateria Fiorentina di Albano Gino,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Gelateria Caminia,Gelateria Caminia,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Conti,Gelateria Conti,0,其他,0.0,0.0,0.0
+面包甜点,Ditta Artigianale,Ditta Artigianale,0,其他,0.0,0.0,0.0
+面包甜点,La bottega del cioccolato di bianchini andrea,La bottega del cioccolato di bianchini andrea,0,其他,0.0,0.0,0.0
+面包甜点,Spaghetteria Ir Tegame,Spaghetteria Ir Tegame,0,其他,0.0,0.0,0.0
+面包甜点,Toscani,Toscani,0,其他,0.0,0.0,0.0
+面包甜点,I Visacci Caffe,I Visacci Caffe,0,其他,0.0,0.0,0.0
+面包甜点,L'Isola del Gelato,L'Isola del Gelato,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Lorenzo,Gelateria Lorenzo,0,其他,0.0,0.0,0.0
+面包甜点,Smalzi Firenze,Smalzi Firenze,0,其他,0.0,0.0,0.0
+面包甜点,Il Re Gelato,Il Re Gelato,0,其他,0.0,0.0,0.0
+面包甜点,Graneria Farina 00,Graneria Farina 00,0,其他,0.0,0.0,0.0
+面包甜点,Il Forno San Gallo,Il Forno San Gallo,0,其他,0.0,0.0,0.0
+面包甜点,Caffe 'Del 900,Caffe 'Del 900,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Il Lingotto,Gelateria Il Lingotto,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Scheggi Panineria,Scheggi Panineria,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Pasticceria Castaldini,Pasticceria Castaldini,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,"Bar Caffe, ","Bar Caffe, ",0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Veneta,Gelateria Veneta,0,其他,0.0,0.0,0.0
+面包甜点,La Milkeria,La Milkeria,0,其他,0.0,0.0,0.0
+面包甜点,Cucineria la Mattonaia,Cucineria la Mattonaia,0,其他,0.0,0.0,0.0
+面包甜点,Coccole Cioccolato,Coccole Cioccolato,0,其他,0.0,0.0,0.0
+面包甜点,Dolce Brivido,Dolce Brivido,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Leon Blanc Martinez,Pasticceria Leon Blanc Martinez,0,瑞弗拉迪,0.0,0.0,0.0
+面包甜点,Il fresca Senza Glutine,Il fresca Senza Glutine,0,坎波蒂马特,0.0,0.0,0.0
+面包甜点,Gelaterie Sofia SRL,Gelaterie Sofia SRL,0,其他,0.0,0.0,0.0
+面包甜点,Ristorante Self- Service L'Orologio,Ristorante Self- Service L'Orologio,0,其他,0.0,0.0,0.0
+面包甜点,Mokarico Caffe,Mokarico Caffe,0,其他,0.0,0.0,0.0
+面包甜点,Cremeria Migone,Cremeria Migone,0,其他,0.0,0.0,0.0
+面包甜点,La Loggia,La Loggia,0,其他,0.0,0.0,0.0
+面包甜点,Titto,Titto,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Slurp,Gelateria Slurp,0,其他,0.0,0.0,0.0
+酒吧,Piccolo Cafe,Piccolo Cafe,0,其他,0.0,0.0,0.0
+酒吧,避风塘 Bar Tea,避风塘 Bar Tea,0,,7.2,7.2,7.2
+酒吧,Tic Toc,Tic Toc,0,其他,0.0,0.0,0.0
+酒吧,Meykadeh Bookstore Cafe,Meykadeh Bookstore Cafe,0,其他,0.0,0.0,0.0
+酒吧,Pescheria San Pietro,Pescheria San Pietro,0,其他,0.0,0.0,0.0
+酒吧,Lo SchiacciaVino,Lo SchiacciaVino,0,其他,0.0,0.0,0.0
+酒吧,Caffe' di Firenze,Caffe' di Firenze,0,坎波蒂马特,0.0,0.0,0.0
+酒吧,Bar Dario,Bar Dario,0,坎波蒂马特,0.0,0.0,0.0
+酒吧,Due Sorsi & Un Boccone,Due Sorsi & Un Boccone,0,其他,0.0,0.0,0.0
+酒吧,Mamey Firenze Ovest Firenze,Mamey Firenze Ovest Firenze,0,伊索洛妥,0.0,0.0,0.0
+酒吧,Mago Balducci,Mago Balducci,0,坎波蒂马特,0.0,0.0,0.0
+酒吧,The Michael Collins,The Michael Collins,0,其他,0.0,0.0,0.0
+酒吧,Monkey Bar,Monkey Bar,0,其他,0.0,0.0,0.0
+酒吧,Cappocaccia,Cappocaccia,0,其他,0.0,0.0,0.0
+酒吧,Max PUB,Max PUB,0,其他,0.0,0.0,0.0
+酒吧,Rusticheria,Rusticheria,0,坎波蒂马特,0.0,0.0,0.0
+酒吧,Sabor Cubano,Sabor Cubano,0,其他,0.0,0.0,0.0
+酒吧,I'Ripiglino,I'Ripiglino,0,其他,0.0,0.0,0.0
+酒吧,Rullante Club,Rullante Club,0,其他,0.0,0.0,0.0
+酒吧,Chiosco Degli Sportivi,Chiosco Degli Sportivi,0,其他,0.0,0.0,0.0
+酒吧,Mayday Club,Mayday Club,0,其他,0.0,0.0,0.0
+酒吧,Quelo Food Bar,Quelo Food Bar,0,其他,0.0,0.0,0.0
+酒吧,Caffe Luisa,Caffe Luisa,0,其他,0.0,0.0,0.0
+酒吧,The Joshua Tree Pub,The Joshua Tree Pub,0,其他,0.0,0.0,0.0
+酒吧,Caffe degli Innocenti,Caffe degli Innocenti,0,其他,0.0,0.0,0.0
+酒吧,Trip per Tre,Trip per Tre,0,其他,0.0,0.0,0.0
+酒吧,Gastronomia ,Gastronomia ,0,其他,0.0,0.0,0.0
+酒吧,'Obar,'Obar,0,其他,0.0,0.0,0.0
+酒吧,Mignon Pasticceria Firenze Italia,Mignon Pasticceria Firenze Italia,0,其他,0.0,0.0,0.0
+酒吧,Tamero',Tamero',0,其他,0.0,0.0,0.0
+酒吧,La Canova di Gustavino,La Canova di Gustavino,0,其他,0.0,0.0,0.0
+酒吧,La Farmacia dei Sani,La Farmacia dei Sani,0,坎波蒂马特,0.0,0.0,0.0
+酒吧,The Club House,The Club House,0,其他,0.0,0.0,0.0
+酒吧,Luci al Piazzale,Luci al Piazzale,0,其他,0.0,0.0,0.0
+酒吧,Tenax,Tenax,0,瑞弗拉迪,0.0,0.0,0.0
+酒吧,Florence Irish Pub,Florence Irish Pub,0,其他,0.0,0.0,0.0
+酒吧,Da Tommy,Da Tommy,0,诺沃利,0.0,0.0,0.0
+酒吧,Vini E Delizie,Vini E Delizie,0,其他,0.0,0.0,0.0
+酒吧,Torini Fabrizio,Torini Fabrizio,0,其他,0.0,0.0,0.0
+酒吧,Mezzo Litro,Mezzo Litro,0,其他,0.0,0.0,0.0
+酒吧,Il rubaconte,Il rubaconte,0,其他,0.0,0.0,0.0
+酒吧,Royal Bar,Royal Bar,0,其他,0.0,0.0,0.0
+酒吧,Enoteca Alla Sosta dei Papi,Enoteca Alla Sosta dei Papi,0,其他,0.0,0.0,0.0
+酒吧,i5tavoli,i5tavoli,0,其他,0.0,0.0,0.0
+酒吧,Tequila Red,Tequila Red,0,瑞弗拉迪,0.0,0.0,0.0
+酒吧,Pane e Olio,Pane e Olio,0,坎波蒂马特,0.0,0.0,0.0
+酒吧,Volume,Volume,0,其他,0.0,0.0,0.0
+酒吧,Bar Pasticceria,Bar Pasticceria,0,其他,0.0,0.0,0.0
+酒吧,Beer House Club,Beer House Club,0,其他,0.0,0.0,0.0
+酒吧,GRIF Glamour Restaurant in Florence,GRIF Glamour Restaurant in Florence,0,其他,0.0,0.0,0.0
+酒吧,Amble,Amble,0,其他,0.0,0.0,0.0
+酒吧,I' Cartoccio,I' Cartoccio,0,其他,0.0,0.0,0.0
+酒吧,FUK - Florence Unpopular Kafe,FUK - Florence Unpopular Kafe,0,其他,0.0,0.0,0.0
+酒吧,Orlandino e il Leone,Orlandino e il Leone,0,其他,0.0,0.0,0.0
+酒吧,Bitter Bar,Bitter Bar,0,其他,0.0,0.0,0.0
+酒吧,Enoteca Alessi,Enoteca Alessi,0,其他,0.0,0.0,0.0
+酒吧,Punch & Judy,Punch & Judy,0,其他,0.0,0.0,0.0
+酒吧,Non solo Bar Firenze,Non solo Bar Firenze,0,其他,0.0,0.0,0.0
+酒吧,Osteria de L'Ortolano,Osteria de L'Ortolano,0,其他,0.0,0.0,0.0
+酒吧,Casa del Vino,Casa del Vino,0,其他,0.0,0.0,0.0
+酒吧,Aurelio Il Re della Trippa,Aurelio Il Re della Trippa,0,其他,0.0,0.0,0.0
+酒吧,Dogma,Dogma,0,其他,0.0,0.0,0.0
+酒吧,Le Petit,Le Petit,0,其他,0.0,0.0,0.0
+酒吧,Caffè Imperiale,Caffè Imperiale,0,伊索洛妥,0.0,0.0,0.0
+酒吧,Il Manduca,Il Manduca,0,伊索洛妥,0.0,0.0,0.0
+酒吧,Cafe batik,Cafe batik,0,诺沃利,0.0,0.0,0.0
+酒吧,Nobile caffe,Nobile caffe,0,瑞弗拉迪,0.0,0.0,0.0
+酒吧,Scacco Matto Firenze,Scacco Matto Firenze,0,瑞弗拉迪,0.0,0.0,0.0
+酒吧,Cabaret,Cabaret,0,坎波蒂马特,0.0,0.0,0.0
+酒吧,Naima,Naima,0,其他,0.0,0.0,0.0
+酒吧,Caffe Della Galleria,Caffe Della Galleria,0,其他,0.0,0.0,0.0
+酒吧,Beer House Ckub,Beer House Ckub,0,其他,0.0,0.0,0.0
+酒吧,Snack Bar Silvana,Snack Bar Silvana,0,其他,0.0,0.0,0.0
+酒吧,The Red Garter,The Red Garter,0,其他,0.0,0.0,0.0
+酒吧,Old Stove Signoria,Old Stove Signoria,0,其他,0.0,0.0,0.0
+酒吧,Neromo,Neromo,0,其他,0.0,0.0,0.0
+酒吧,Smalzi Firenze,Smalzi Firenze,0,其他,0.0,0.0,0.0
+酒吧,Space Electronic,Space Electronic,0,其他,0.0,0.0,0.0
+酒吧,BVeg,BVeg,0,其他,0.0,0.0,0.0
+酒吧,MCF Mercato Centrale Firenze,MCF Mercato Centrale Firenze,0,其他,0.0,0.0,0.0
+酒吧,Kitsch Bar,Kitsch Bar,0,其他,0.0,0.0,0.0
+酒吧,Cavolo Nero Bistrot,Cavolo Nero Bistrot,0,其他,0.0,0.0,0.0
+酒吧,Pasticceria Querci Vieusseux,Pasticceria Querci Vieusseux,0,其他,0.0,0.0,0.0
+酒吧,MaMi caffe,MaMi caffe,0,其他,0.0,0.0,0.0
+酒吧,James Joyce,James Joyce,0,其他,0.0,0.0,0.0
+酒吧,Zoe,Zoe,0,其他,0.0,0.0,0.0
+酒吧,Yag Bar,Yag Bar,0,其他,0.0,0.0,0.0
+酒吧,Dolce Vita,Dolce Vita,0,其他,0.0,0.0,0.0
+酒吧,Salamanca,Salamanca,0,其他,0.0,0.0,0.0
+酒吧,"Bar Caffe, ","Bar Caffe, ",0,其他,0.0,0.0,0.0
+酒吧,Meccanò,Meccanò,0,伊索洛妥,0.0,0.0,0.0
+酒吧,The Lido,The Lido,0,伊索洛妥,0.0,0.0,0.0
+酒吧,Cafe La Torre,Cafe La Torre,0,其他,0.0,0.0,0.0
+酒吧,I' Vinaino Di San Frediano,I' Vinaino Di San Frediano,0,其他,0.0,0.0,0.0
+酒吧,Tabasco,Tabasco,0,其他,0.0,0.0,0.0
+酒吧,Bar Pasticceria Zani,Bar Pasticceria Zani,0,其他,0.0,0.0,0.0
+酒吧,Birreria Artigianale Il Bovaro,Birreria Artigianale Il Bovaro,0,伊索洛妥,0.0,0.0,0.0
+酒吧,MILI COFFEE BAR&TAKE AWAY,MILI COFFEE BAR&TAKE AWAY,0,,0.0,0.0,0.0
+更多美食,Ristorante Belcore,Ristorante Belcore,0,其他,0.0,0.0,0.0
+更多美食,Mug Cafe,Mug Cafe,0,其他,0.0,0.0,0.0
+更多美食,Buca Lapi,Buca Lapi,0,其他,0.0,0.0,0.0
+更多美食,Lungarno 23,Lungarno 23,0,其他,0.0,0.0,0.0
+更多美食,Il Palagio - Four Seasons Hotel,Il Palagio - Four Seasons Hotel,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Katti,Trattoria Katti,0,其他,0.0,0.0,0.0
+更多美食,Caffe Fiorenza,Caffe Fiorenza,0,其他,8.4,7.5,7.5
+更多美食,S.I.R.A. SRL,S.I.R.A. SRL,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Baglioni,Ristorante Baglioni,0,其他,0.0,0.0,0.0
+更多美食,Caffe Mingo,Caffe Mingo,0,其他,0.0,0.0,0.0
+更多美食,Cantinetta il Francescano,Cantinetta il Francescano,0,其他,0.0,0.0,0.0
+更多美食,Osteria De' Peccatori,Osteria De' Peccatori,0,其他,0.0,0.0,0.0
+更多美食,F. Lli Perini Snc,F. Lli Perini Snc,0,其他,0.0,0.0,0.0
+更多美食,Note Di Vino,Note Di Vino,0,其他,0.0,0.0,0.0
+更多美食,MaMMaMia Firenze,MaMMaMia Firenze,0,其他,0.0,0.0,0.0
+更多美食,Griff's on the Bay Restaurant,Griff's on the Bay Restaurant,0,,0.0,0.0,0.0
+更多美食,L'erta del Mangia,L'erta del Mangia,0,其他,0.0,0.0,0.0
+更多美食,Divino - Wine Bar Cafe,Divino - Wine Bar Cafe,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Fitzcarraldo SRL,Fitzcarraldo SRL,0,其他,0.0,0.0,0.0
+更多美食,Stickhouse Firenze,Stickhouse Firenze,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Mesopotamia,Mesopotamia,0,其他,0.0,0.0,0.0
+更多美食,Starhotel Tuscany,Starhotel Tuscany,0,其他,0.0,0.0,0.0
+更多美食,L'Incontro,L'Incontro,0,其他,0.0,0.0,0.0
+更多美食,Panini e Vini di Nante,Panini e Vini di Nante,0,其他,0.0,0.0,0.0
+更多美食,Mcdonald's,Mcdonald's,0,其他,0.0,0.0,0.0
+更多美食,Barbecue Restaurant & Bar,Barbecue Restaurant & Bar,0,其他,0.0,0.0,0.0
+更多美食,Il Procopio,Il Procopio,0,其他,0.0,0.0,0.0
+更多美食,Bioveggy,Bioveggy,0,其他,0.0,0.0,0.0
+更多美食,Gelateria Caffe delle Carrozze,Gelateria Caffe delle Carrozze,0,其他,0.0,0.0,0.0
+更多美食,I Toscano,I Toscano,0,其他,0.0,0.0,0.0
+更多美食,Cibreo,Cibreo,0,其他,0.0,0.0,0.0
+更多美食,Pasticceria Silvano E Valentino,Pasticceria Silvano E Valentino,0,其他,0.0,0.0,0.0
+更多美食,Lovelife,Lovelife,0,其他,0.0,0.0,0.0
+更多美食,Gelateria Artigianale ,Gelateria Artigianale ,0,其他,0.0,0.0,0.0
+更多美食,Piccolo Ristoro Fiorentino,Piccolo Ristoro Fiorentino,0,其他,0.0,0.0,0.0
+更多美食,MaVa,MaVa,0,其他,0.0,0.0,0.0
+更多美食,Cantina Toscana,Cantina Toscana,0,其他,0.0,0.0,0.0
+更多美食,Amore Mio Pizza Di Bogazzi Monica & C SNC,Amore Mio Pizza Di Bogazzi Monica & C SNC,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Franco,Pizzeria Franco,0,其他,0.0,0.0,0.0
+更多美食,Mensa Universitaria Santa Apollonia,Mensa Universitaria Santa Apollonia,0,其他,0.0,0.0,0.0
+更多美食,Forno Top,Forno Top,0,其他,0.0,0.0,0.0
+更多美食,Burger King,Burger King,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Panino Vegano,Panino Vegano,0,其他,0.0,0.0,0.0
+更多美食,La Fiaschetteria Di Iuppa Bartolo,La Fiaschetteria Di Iuppa Bartolo,0,其他,0.0,0.0,0.0
+更多美食,Tipica Cucina Toscana,Tipica Cucina Toscana,0,其他,0.0,0.0,0.0
+更多美食,Millesimi,Millesimi,0,其他,0.0,0.0,0.0
+更多美食,Black Bar Pizzeria,Black Bar Pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Nerbone and Other Tripe Stalls,Nerbone and Other Tripe Stalls,0,其他,0.0,0.0,0.0
+更多美食,mariano,mariano,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Benedicta,Ristorante Benedicta,0,其他,0.0,0.0,0.0
+更多美食,Il Posticino Di Via San Gallo,Il Posticino Di Via San Gallo,0,其他,0.0,0.0,0.0
+更多美食,Il Faraone,Il Faraone,0,其他,0.0,0.0,0.0
+更多美食,La Barrique,La Barrique,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Diladdarno,Trattoria Diladdarno,0,其他,0.0,0.0,0.0
+更多美食,Gellateria Delice Glace,Gellateria Delice Glace,0,其他,0.0,0.0,0.0
+更多美食,Locanda Stenterello,Locanda Stenterello,0,其他,0.0,0.0,0.0
+更多美食,L'Antico Trippaio,L'Antico Trippaio,0,其他,0.0,0.0,0.0
+更多美食,Rio Freddo,Rio Freddo,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Procacci,Procacci,0,其他,0.0,0.0,0.0
+更多美食,JK Place Firenze,JK Place Firenze,0,其他,0.0,0.0,0.0
+更多美食,Bar Pasticceria Cucciolo,Bar Pasticceria Cucciolo,0,其他,0.0,0.0,0.0
+更多美食,Il Canapone,Il Canapone,0,其他,0.0,0.0,0.0
+更多美食,Gustapanino,Gustapanino,0,其他,0.0,0.0,0.0
+更多美食,Jazz Club Firenze,Jazz Club Firenze,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Self-Service Leonardo,Ristorante Self-Service Leonardo,0,其他,0.0,0.0,0.0
+更多美食,Amon,Amon,0,其他,0.0,0.0,0.0
+更多美食,La Cantina e Il Ghiottino,La Cantina e Il Ghiottino,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Taverna Del Bronzino,Taverna Del Bronzino,0,其他,0.0,0.0,0.0
+更多美食,Relais Le Jardin,Relais Le Jardin,0,其他,0.0,0.0,0.0
+更多美食,Trattoria La Gratella,Trattoria La Gratella,0,其他,0.0,0.0,0.0
+更多美食,Bar Cinquanta Rosso,Bar Cinquanta Rosso,0,其他,0.0,0.0,0.0
+更多美食,PIZZERIA DAVID,PIZZERIA DAVID,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,El Tiburon - Ristorante Peruviano,El Tiburon - Ristorante Peruviano,0,其他,0.0,0.0,0.0
+更多美食,Le Pavoniere,Le Pavoniere,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Sampei,Sampei,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Osteria Dei Pazzi,Osteria Dei Pazzi,0,其他,0.0,0.0,0.0
+更多美食,La Cantinetta,La Cantinetta,0,其他,0.0,0.0,0.0
+更多美食,Lo Skipper,Lo Skipper,0,其他,0.0,0.0,0.0
+更多美食,Osteria Vini E Cucina di Toscana,Osteria Vini E Cucina di Toscana,0,其他,0.0,0.0,0.0
+更多美食,Crema e Cioccolato Firenze,Crema e Cioccolato Firenze,0,其他,0.0,0.0,0.0
+更多美食,Caracol,Caracol,0,其他,0.0,0.0,0.0
+更多美食,La Taverna,La Taverna,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Ristorante Giannino in San Lorenzo,Ristorante Giannino in San Lorenzo,0,其他,0.0,0.0,0.0
+更多美食,Chalet Bellariva,Chalet Bellariva,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Il Borro Tuscan Bistro,Il Borro Tuscan Bistro,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Pasticceria Viesseux,Pasticceria Viesseux,0,其他,0.0,0.0,0.0
+更多美食,La Botteghina Di Daniele Di Mannaioni D. & C. SNC,La Botteghina Di Daniele Di Mannaioni D. & C. SNC,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Al Lume di Candela,Al Lume di Candela,0,其他,0.0,0.0,0.0
+更多美食,Osteria della Bistecca,Osteria della Bistecca,0,其他,0.0,0.0,0.0
+更多美食,Outside Bistrot,Outside Bistrot,0,其他,0.0,0.0,0.0
+更多美食,La Boccaccina,La Boccaccina,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Hard Rock Cafe Florence,Hard Rock Cafe Florence,0,其他,0.0,0.0,0.0
+更多美食,L'Egiziano,L'Egiziano,0,其他,0.0,0.0,0.0
+更多美食,Lochness Lounge,Lochness Lounge,0,其他,0.0,0.0,0.0
+更多美食,Guelfi & Ghibellini - Relais Santa Croce,Guelfi & Ghibellini - Relais Santa Croce,0,其他,0.0,0.0,0.0
+更多美食,Tao Firenze,Tao Firenze,0,其他,0.0,0.0,0.0
+更多美食,Cestello,Cestello,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Trattoria Osteria L'antico Noe',Ristorante Trattoria Osteria L'antico Noe',0,瑞弗拉迪,0.0,0.0,0.0
+更多美食,Ristorante Fellini,Ristorante Fellini,0,其他,0.0,0.0,0.0
+更多美食,L'e Maiala,L'e Maiala,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Pizzeria La Vera Napoli,Pizzeria La Vera Napoli,0,其他,0.0,0.0,0.0
+更多美食,Al Chirola di Jimmy,Al Chirola di Jimmy,0,其他,0.0,0.0,0.0
+更多美食,Il Vegetariano,Il Vegetariano,0,其他,0.0,0.0,0.0
+更多美食,Pasticceria Buscioni,Pasticceria Buscioni,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Buca dell'Orafo,Buca dell'Orafo,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Hostaria Ai Fontanile,Ristorante Hostaria Ai Fontanile,0,,0.0,0.0,0.0
+更多美食,Caffetteria Piansa,Caffetteria Piansa,0,其他,0.0,0.0,0.0
+更多美食,Baraka Cafe,Baraka Cafe,0,其他,0.0,0.0,0.0
+更多美食,Caffe Giacosa,Caffe Giacosa,0,其他,0.0,0.0,0.0
+更多美食,Francescano (Il),Francescano (Il),0,其他,0.0,0.0,0.0
+更多美食,Shenarya Food Centre,Shenarya Food Centre,0,其他,0.0,0.0,0.0
+更多美食,Giacosa,Giacosa,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Palazzo Gaddi,Ristorante Palazzo Gaddi,0,其他,0.0,0.0,0.0
+更多美食,La Passera di Mare,La Passera di Mare,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,La Congrega Lounge Bar,La Congrega Lounge Bar,0,其他,0.0,0.0,0.0
+更多美食,Harry's Bar,Harry's Bar,0,其他,0.0,0.0,0.0
+更多美食,L'altra Piadineria,L'altra Piadineria,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Casa Rossa,Casa Rossa,0,瑞弗拉迪,0.0,0.0,0.0
+更多美食,La Botteghina Della Nonna Nina,La Botteghina Della Nonna Nina,0,瑞弗拉迪,0.0,0.0,0.0
+更多美食,Rosticceria Alfio,Rosticceria Alfio,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Il Torrino,Il Torrino,0,其他,0.0,0.0,0.0
+更多美食,Sugar Blues by Ha-tha Maya,Sugar Blues by Ha-tha Maya,0,其他,0.0,0.0,0.0
+更多美食,Gauguin,Gauguin,0,其他,0.0,0.0,0.0
+更多美食,Antica Trattoria Palle D'oro,Antica Trattoria Palle D'oro,0,其他,0.0,0.0,0.0
+更多美食,Fourseason,Fourseason,0,其他,0.0,0.0,0.0
+更多美食,Torta Pistocchi,Torta Pistocchi,0,其他,0.0,0.0,0.0
+更多美食,Osteria Volendo,Osteria Volendo,0,瑞弗拉迪,0.0,0.0,0.0
+更多美食,Ristorante il Povero Pesce,Ristorante il Povero Pesce,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Otel Variete,Otel Variete,0,其他,0.0,0.0,0.0
+更多美食,Caffe Pasticceria Serafini,Caffe Pasticceria Serafini,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Caffe Rivoire,Caffe Rivoire,0,其他,0.0,0.0,0.0
+更多美食,Ichiban Sushi Wok,Ichiban Sushi Wok,0,其他,0.0,0.0,0.0
+更多美食,Panifico PAsticceria Lannote,Panifico PAsticceria Lannote,0,其他,0.0,0.0,0.0
+更多美食,La Piperna,La Piperna,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Rosso Blu,Ristorante Pizzeria Rosso Blu,0,瑞弗拉迪,0.0,0.0,0.0
+更多美食,Colle Bereto,Colle Bereto,0,其他,0.0,0.0,0.0
+更多美食,Gelateria Baroncini,Gelateria Baroncini,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Pinco Pallino,Trattoria Pinco Pallino,0,瑞弗拉迪,0.0,0.0,0.0
+更多美食,L'angolo Del Mare,L'angolo Del Mare,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,La sana gola,La sana gola,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,La Loggia degli Albizi,La Loggia degli Albizi,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Villa Montalto,Villa Montalto,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Ristorante Lo Stravagante,Ristorante Lo Stravagante,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Boutique Della Pasta Fresca,Boutique Della Pasta Fresca,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Osteria I Riffaioli,Osteria I Riffaioli,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Botteghina (La),Botteghina (La),0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Baroncini,Baroncini,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Jessy's Bar,Jessy's Bar,0,其他,0.0,0.0,0.0
+更多美食,Sweet Wine Bar,Sweet Wine Bar,0,其他,0.0,0.0,0.0
+更多美食,Tealicious,Tealicious,0,其他,0.0,0.0,0.0
+更多美食,The Dock,The Dock,0,其他,0.0,0.0,0.0
+更多美食,Caffe Notte,Caffe Notte,0,其他,0.0,0.0,0.0
+更多美食,Montecarla,Montecarla,0,其他,0.0,0.0,0.0
+更多美食,CIBI,CIBI,0,其他,0.0,0.0,0.0
+更多美食,Enoteca Le Barrique,Enoteca Le Barrique,0,其他,0.0,0.0,0.0
+更多美食,Caffe' Rachkova,Caffe' Rachkova,0,其他,0.0,0.0,0.0
+更多美食,Soul Kitchen,Soul Kitchen,0,其他,0.0,0.0,0.0
+更多美食,Carapina,Carapina,0,其他,0.0,0.0,0.0
+更多美食,StarChicken,StarChicken,0,其他,0.0,0.0,0.0
+更多美食,Le Vespe Cafe,Le Vespe Cafe,0,其他,0.0,0.0,0.0
+更多美食,Enoteca De Macci,Enoteca De Macci,0,其他,0.0,0.0,0.0
+更多美食,Enoteca Pane e Vino,Enoteca Pane e Vino,0,其他,0.0,0.0,0.0
+更多美食,Dolci e Dolcezze,Dolci e Dolcezze,0,其他,0.0,0.0,0.0
+更多美食,Sanfrediavino,Sanfrediavino,0,其他,0.0,0.0,0.0
+更多美食,Il cencio unto,Il cencio unto,0,其他,0.0,0.0,0.0
+更多美食,Bar Vittoria,Bar Vittoria,0,其他,0.0,0.0,0.0
+更多美食,L'Art Bar,L'Art Bar,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Zibibbo 2.0,Ristorante Zibibbo 2.0,0,其他,0.0,0.0,0.0
+更多美食,Trattoria anna,Trattoria anna,0,其他,0.0,0.0,0.0
+更多美食,Yogorino,Yogorino,0,其他,0.0,0.0,0.0
+更多美食,Love Life,Love Life,0,其他,0.0,0.0,0.0
+更多美食,La Raccolta,La Raccolta,0,其他,0.0,0.0,0.0
+更多美食,Il Mago Merlino,Il Mago Merlino,0,其他,0.0,0.0,0.0
+更多美食,Veggy Bar,Veggy Bar,0,其他,0.0,0.0,0.0
+更多美食,La Prova del Nove,La Prova del Nove,0,其他,0.0,0.0,0.0
+更多美食,Caffe dei Battistero,Caffe dei Battistero,0,其他,0.0,0.0,0.0
+更多美食,Turkuaz,Turkuaz,0,其他,0.0,0.0,0.0
+更多美食,The Grill House,The Grill House,0,其他,0.0,0.0,0.0
+更多美食,Tira...baralla,Tira...baralla,0,其他,0.0,0.0,0.0
+更多美食,Ara: E Sicilia,Ara: E Sicilia,0,其他,0.0,0.0,0.0
+更多美食,Ete Bistro,Ete Bistro,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Il Doge Di Firenze,Ristorante Il Doge Di Firenze,0,其他,0.0,0.0,0.0
+更多美食,Antico Caffe Cavour,Antico Caffe Cavour,0,其他,0.0,0.0,0.0
+更多美食,Acquapazza,Acquapazza,0,其他,0.0,0.0,0.0
+更多美食,VILLA VIVIANI Settignanella S.r.l.,VILLA VIVIANI Settignanella S.r.l.,0,其他,0.0,0.0,0.0
+更多美食,7 Rosso,7 Rosso,0,其他,0.0,0.0,0.0
+更多美食,Da Dieci,Da Dieci,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Ristorante Sud,Ristorante Sud,0,其他,0.0,0.0,0.0
+更多美食,Emin Group Kebab,Emin Group Kebab,0,其他,0.0,0.0,0.0
+更多美食,Il Conte Ugolino,Il Conte Ugolino,0,其他,0.0,0.0,0.0
+更多美食,Caffe La Cattedrale,Caffe La Cattedrale,0,其他,0.0,0.0,0.0
+更多美食,Caffe Martelli,Caffe Martelli,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Le Carceri,Ristorante Le Carceri,0,其他,0.0,0.0,0.0
+更多美食,Bar Ponte Vecchio,Bar Ponte Vecchio,0,其他,0.0,0.0,0.0
+更多美食,Flo Lounge Bar,Flo Lounge Bar,0,其他,0.0,0.0,0.0
+更多美食,Caffe Concerto Paszkowski,Caffe Concerto Paszkowski,0,其他,0.0,0.0,0.0
+更多美食,Bar Due Ponti,Bar Due Ponti,0,其他,0.0,0.0,0.0
+更多美食,Alla Corte dei 3,Alla Corte dei 3,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Fosso Bandito,Fosso Bandito,0,伊索洛妥,0.0,0.0,0.0
+更多美食,El Matador,El Matador,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Bar Opera 83,Bar Opera 83,0,诺沃利,0.0,0.0,0.0
+更多美食,Accademia dei Palati,Accademia dei Palati,0,诺沃利,0.0,0.0,0.0
+更多美食,Caffè d'Orzo,Caffè d'Orzo,0,瑞弗拉迪,0.0,0.0,0.0
+更多美食,Trattoria Fiorenza,Trattoria Fiorenza,0,瑞弗拉迪,0.0,0.0,0.0
+更多美食,Caffe Concerto,Caffe Concerto,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,I' pappagallo,I' pappagallo,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Together Restaurant,Together Restaurant,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Fuori Piazza,Fuori Piazza,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Trattoria Di' Sordo,Trattoria Di' Sordo,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Piazza del Vino,Piazza del Vino,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Ristorante I Cinque Sensi,Ristorante I Cinque Sensi,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Lo Spuntino S.A.S. Di Petraroli Filippo E Lucia,Lo Spuntino S.A.S. Di Petraroli Filippo E Lucia,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,I Giuggiolo,I Giuggiolo,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Sed Lex,Sed Lex,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Osteria & Pizzeria Re Matto,Osteria & Pizzeria Re Matto,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Pizzeria Spera,Pizzeria Spera,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Cipiglio,Cipiglio,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Pausa Caffe,Pausa Caffe,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,QuattroQuarti Paninoteca,QuattroQuarti Paninoteca,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Cdp Galluzzo,Cdp Galluzzo,0,其他,0.0,0.0,0.0
+更多美食,Malotti Giovanni e C. SAS,Malotti Giovanni e C. SAS,0,其他,0.0,0.0,0.0
+更多美食,Caffe Terre di Masaccio,Caffe Terre di Masaccio,0,其他,0.0,0.0,0.0
+更多美食,Caffe Florian,Caffe Florian,0,其他,0.0,0.0,0.0
+更多美食,Pasha,Pasha,0,其他,0.0,0.0,0.0
+更多美食,Onice (Villa La Vedetta),Onice (Villa La Vedetta),0,其他,0.0,0.0,0.0
+更多美食,Enoteca Fuoriporta,Enoteca Fuoriporta,0,其他,0.0,0.0,0.0
+更多美食,Trattoria da Beppino,Trattoria da Beppino,0,其他,0.0,0.0,0.0
+更多美食,Osteria Hiron,Osteria Hiron,0,其他,0.0,0.0,0.0
+更多美食,GATTABUIA,GATTABUIA,0,其他,0.0,0.0,0.0
+更多美食,Negroni Bar,Negroni Bar,0,其他,0.0,0.0,0.0
+更多美食,PopCafe,PopCafe,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Borgo Antico,Trattoria Borgo Antico,0,其他,0.0,0.0,0.0
+更多美食,Cabiria,Cabiria,0,其他,0.0,0.0,0.0
+更多美食,Caffe degli Artigiani,Caffe degli Artigiani,0,其他,0.0,0.0,0.0
+更多美食,Al Tranvai,Al Tranvai,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Valle dei Cedri,Ristorante Valle dei Cedri,0,其他,0.0,0.0,0.0
+更多美食,Tripp & Zampa: Il Club del Gusto,Tripp & Zampa: Il Club del Gusto,0,其他,0.0,0.0,0.0
+更多美食,Giuliano Centro Di Mazzanti- Rosticceria,Giuliano Centro Di Mazzanti- Rosticceria,0,其他,0.0,0.0,0.0
+更多美食,Kikuya,Kikuya,0,其他,0.0,0.0,0.0
+更多美食,osteria del guelfo viola,osteria del guelfo viola,0,其他,0.0,0.0,0.0
+更多美食,Le Fate - Cucina Veg & Stelle,Le Fate - Cucina Veg & Stelle,0,其他,0.0,0.0,0.0
+更多美食,Libreria Cafe La Cite,Libreria Cafe La Cite,0,其他,0.0,0.0,0.0
+更多美食,L'Verrocchio,L'Verrocchio,0,其他,0.0,0.0,0.0
+更多美食,Hotel de La Ville Restaurant,Hotel de La Ville Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Mex Cal Club,Mex Cal Club,0,其他,0.0,0.0,0.0
+更多美食,Corsini Restaurant,Corsini Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Marina Cucina Russa,Ristorante Marina Cucina Russa,0,其他,0.0,0.0,0.0
+更多美食,Caffe Michelangiolo,Caffe Michelangiolo,0,其他,0.0,0.0,0.0
+更多美食,Taverna Divina Commedia,Taverna Divina Commedia,0,其他,0.0,0.0,0.0
+更多美食,Masticabrodo,Masticabrodo,0,其他,0.0,0.0,0.0
+更多美食,Ganzo,Ganzo,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Sabatino,Trattoria Sabatino,0,其他,0.0,0.0,0.0
+更多美食,Il Vico del Carmine,Il Vico del Carmine,0,其他,0.0,0.0,0.0
+更多美食,Osteria da Carmine,Osteria da Carmine,0,其他,0.0,0.0,0.0
+更多美食,Caffe Amerini,Caffe Amerini,0,其他,0.0,0.0,0.0
+更多美食,Antico Caffe' del moro,Antico Caffe' del moro,0,其他,0.0,0.0,0.0
+更多美食,Lion's Fountain,Lion's Fountain,0,其他,0.0,0.0,0.0
+更多美食,yellow bar,yellow bar,0,其他,0.0,0.0,0.0
+更多美食,Caffe Megara,Caffe Megara,0,其他,0.0,0.0,0.0
+更多美食,San Michele all'arco,San Michele all'arco,0,其他,0.0,0.0,0.0
+更多美食,Sant'Ambrogio,Sant'Ambrogio,0,其他,0.0,0.0,0.0
+更多美食,Osteria Tornabuoni,Osteria Tornabuoni,0,其他,0.0,0.0,0.0
+更多美食,Rex Caffe,Rex Caffe,0,其他,0.0,0.0,0.0
+更多美食,Fiddler's Elbow,Fiddler's Elbow,0,其他,0.0,0.0,0.0
+更多美食,CENACOLO DEL PESCATORE,CENACOLO DEL PESCATORE,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Vittoria,Trattoria Vittoria,0,其他,0.0,0.0,0.0
+更多美食,Cipollarossa,Cipollarossa,0,其他,0.0,0.0,0.0
+更多美食,Terrazza Brunelleschi,Terrazza Brunelleschi,0,其他,0.0,0.0,0.0
+更多美食,Maracana,Maracana,0,其他,0.0,0.0,0.0
+更多美食,Oliandolo,Oliandolo,0,其他,0.0,0.0,0.0
+更多美食,Robiglio,Robiglio,0,其他,0.0,0.0,0.0
+更多美食,Gimar38 SRL,Gimar38 SRL,0,其他,0.0,0.0,0.0
+更多美食,Osir,Osir,0,其他,0.0,0.0,0.0
+更多美食,La Taverna di Pietro,La Taverna di Pietro,0,其他,0.0,0.0,0.0
+更多美食,Corno D'Africa,Corno D'Africa,0,其他,0.0,0.0,0.0
+更多美食,Lima Limon,Lima Limon,0,其他,0.0,0.0,0.0
+更多美食,Bio Bistrot,Bio Bistrot,0,其他,0.0,0.0,0.0
+更多美食,Pizza a Foho,Pizza a Foho,0,其他,0.0,0.0,0.0
+更多美食,Hosteria Michelaccio,Hosteria Michelaccio,0,其他,0.0,0.0,0.0
+更多美食,La Gioconda,La Gioconda,0,伊索洛妥,0.0,0.0,0.0
+更多美食,La Strega Nocciola,La Strega Nocciola,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Runner Pizza,Runner Pizza,0,其他,0.0,0.0,0.0
+更多美食,Caffe' L'Angolo,Caffe' L'Angolo,0,其他,0.0,0.0,0.0
+更多美食,Gelateria la Certosa,Gelateria la Certosa,0,其他,0.0,0.0,0.0
+更多美食,Desybar Lounge Bar & Restaurant,Desybar Lounge Bar & Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Gheri Carla,Gheri Carla,0,其他,0.0,0.0,0.0
+更多美食,Torracchione,Torracchione,0,诺沃利,0.0,0.0,0.0
+更多美食,le stagioni,le stagioni,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Aviazione,Aviazione,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,NaturaSi,NaturaSi,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Pizzeria Trattoria La Dolce Vita,Pizzeria Trattoria La Dolce Vita,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Ristorante Villa Le Rondini,Ristorante Villa Le Rondini,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria San Quirichino,Ristorante Pizzeria San Quirichino,0,,0.0,0.0,0.0
+更多美食,Ristorante Boccascena,Ristorante Boccascena,0,其他,0.0,0.0,0.0
+更多美食,I dolci di Massimo,I dolci di Massimo,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Boboli,Trattoria Boboli,0,其他,0.0,0.0,0.0
+更多美食,James Joyce,James Joyce,0,其他,0.0,0.0,0.0
+更多美食,Torre 69,Torre 69,0,其他,0.0,0.0,0.0
+更多美食,Caffe la Torre,Caffe la Torre,0,其他,0.0,0.0,0.0
+更多美食,Ristorante MOBA Villa Bardini,Ristorante MOBA Villa Bardini,0,其他,0.0,0.0,0.0
+更多美食,David 2,David 2,0,其他,0.0,0.0,0.0
+更多美食,Casamatta,Casamatta,0,其他,0.0,0.0,0.0
+更多美食,Circolo A.s. Aurora,Circolo A.s. Aurora,0,其他,0.0,0.0,0.0
+更多美食,Bar giudici,Bar giudici,0,其他,0.0,0.0,0.0
+更多美食,The William Pub,The William Pub,0,其他,0.0,0.0,0.0
+更多美食,Fratelli La Bufala,Fratelli La Bufala,0,其他,0.0,0.0,0.0
+更多美食,Hemingway,Hemingway,0,其他,0.0,0.0,0.0
+更多美食,African Sky,African Sky,0,其他,0.0,0.0,0.0
+更多美食,Caffe Letterario Le Murate,Caffe Letterario Le Murate,0,其他,0.0,0.0,0.0
+更多美食,Pasticceria Marino,Pasticceria Marino,0,其他,0.0,0.0,0.0
+更多美食,Ristorante e Vineria alle Murate,Ristorante e Vineria alle Murate,0,其他,0.0,0.0,0.0
+更多美食,Bar San Firenze,Bar San Firenze,0,其他,0.0,0.0,0.0
+更多美食,Il Bargello,Il Bargello,0,其他,0.0,0.0,0.0
+更多美食,Old Stove,Old Stove,0,其他,0.0,0.0,0.0
+更多美食,Blob,Blob,0,其他,0.0,0.0,0.0
+更多美食,Acasamia,Acasamia,0,其他,0.0,0.0,0.0
+更多美食,Ciao Bella,Ciao Bella,0,其他,0.0,0.0,0.0
+更多美食,Simon Boccanegra,Simon Boccanegra,0,其他,0.0,0.0,0.0
+更多美食,Hot Pot,Hot Pot,0,其他,0.0,0.0,0.0
+更多美食,Caffe Calimala,Caffe Calimala,0,其他,0.0,0.0,0.0
+更多美食,Bar Alighieri,Bar Alighieri,0,其他,0.0,0.0,0.0
+更多美食,Yab,Yab,0,其他,0.0,0.0,0.0
+更多美食,Antica Macelleria Falorni Firenze,Antica Macelleria Falorni Firenze,0,其他,0.0,0.0,0.0
+更多美食,Cibreo Trattoria (Il Cibreino),Cibreo Trattoria (Il Cibreino),0,其他,0.0,0.0,0.0
+更多美食,Caffe Nuove Poste,Caffe Nuove Poste,0,其他,0.0,0.0,0.0
+更多美食,Plaz,Plaz,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Le Campane,Ristorante Pizzeria Le Campane,0,其他,0.0,0.0,0.0
+更多美食,Bar Pasticceria Patrizio Cosi,Bar Pasticceria Patrizio Cosi,0,其他,0.0,0.0,0.0
+更多美食,Tre Merli,Tre Merli,0,其他,0.0,0.0,0.0
+更多美食,Un Punto Macrobiotico,Un Punto Macrobiotico,0,其他,0.0,0.0,0.0
+更多美食,Osteria No1,Osteria No1,0,其他,0.0,0.0,0.0
+更多美食,Amadeus,Amadeus,0,其他,0.0,0.0,0.0
+更多美食,Astor Cafe,Astor Cafe,0,其他,0.0,0.0,0.0
+更多美食,La Fiaschetteria del Pesce,La Fiaschetteria del Pesce,0,其他,0.0,0.0,0.0
+更多美食,Il Sedano Allegro,Il Sedano Allegro,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Pizzeria Gustoleo,Trattoria Pizzeria Gustoleo,0,其他,0.0,0.0,0.0
+更多美食,La Boulangerie del Rifrullo,La Boulangerie del Rifrullo,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Amalfitana,Pizzeria Amalfitana,0,其他,0.0,0.0,0.0
+更多美食,Sancho Panza,Sancho Panza,0,其他,0.0,0.0,0.0
+更多美食,Eataly,Eataly,0,其他,0.0,0.0,0.0
+更多美食,Giubbe Rosse,Giubbe Rosse,0,其他,0.0,0.0,0.0
+更多美食,Caffe Ricasoli,Caffe Ricasoli,0,其他,0.0,0.0,0.0
+更多美食,Hong Kong- Ristorante Cinese,Hong Kong- Ristorante Cinese,0,其他,0.0,0.0,0.0
+更多美食,Arnold's Coffee,Arnold's Coffee,0,其他,0.0,0.0,0.0
+更多美食,Tavernetta del battistero,Tavernetta del battistero,0,其他,0.0,0.0,0.0
+更多美食,La Rotonda,La Rotonda,0,其他,0.0,0.0,0.0
+更多美食,Osteria I'Vinaio,Osteria I'Vinaio,0,其他,0.0,0.0,0.0
+更多美食,Bar Cadillac Cafe,Bar Cadillac Cafe,0,其他,0.0,0.0,0.0
+更多美食,Osteria il Giardino,Osteria il Giardino,0,其他,0.0,0.0,0.0
+更多美食,Bar 53 Bottega,Bar 53 Bottega,0,其他,0.0,0.0,0.0
+更多美食,La Capponcina,La Capponcina,0,其他,0.0,0.0,0.0
+更多美食,Vaca Loka,Vaca Loka,0,其他,0.0,0.0,0.0
+更多美食,Pit Stop,Pit Stop,0,其他,0.0,0.0,0.0
+更多美食,Cafe De Paris,Cafe De Paris,0,其他,0.0,0.0,0.0
+更多美食,Bar San Michele,Bar San Michele,0,其他,0.0,0.0,0.0
+更多美食,Caffetteria Bartolini,Caffetteria Bartolini,0,其他,0.0,0.0,0.0
+更多美食,Crazy Bowling Ristorante,Crazy Bowling Ristorante,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Casa del Popolo di San Bartolo a Cintoia,Casa del Popolo di San Bartolo a Cintoia,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Aloisius,Aloisius,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Corcky Il Re della Pizza,Corcky Il Re della Pizza,0,瑞弗拉迪,0.0,0.0,0.0
+更多美食,Caffe Gioberti,Caffe Gioberti,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Gelateria Acquolina,Gelateria Acquolina,0,坎波蒂马特,0.0,0.0,0.0
+更多美食,Garbo srl,Garbo srl,0,其他,0.0,0.0,0.0
+更多美食,Casale dei Ricci,Casale dei Ricci,0,其他,0.0,0.0,0.0
+更多美食,feng gusto,feng gusto,0,其他,0.0,0.0,0.0
+更多美食,Du Monde Cafe,Du Monde Cafe,0,其他,0.0,0.0,0.0
+更多美食,Il Gambrero Rosso,Il Gambrero Rosso,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Beccaio,Ristorante Beccaio,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria le Follie,Ristorante Pizzeria le Follie,0,其他,0.0,0.0,0.0
+更多美食,Bar Pitti Di Bernoni Barbara,Bar Pitti Di Bernoni Barbara,0,其他,0.0,0.0,0.0
+更多美食,Caffe Ricchi,Caffe Ricchi,0,其他,0.0,0.0,0.0
+更多美食,Le Scuderie,Le Scuderie,0,其他,0.0,0.0,0.0
+更多美食,RINGO BAR,RINGO BAR,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Dante,Pizzeria Dante,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Orcagna,Ristorante Orcagna,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Snack Bar Piccadilly,Pizzeria Snack Bar Piccadilly,0,其他,0.0,0.0,0.0
+更多美食,Osteria del Pozzo,Osteria del Pozzo,0,其他,0.0,0.0,0.0
+更多美食,Bar Tiratoio,Bar Tiratoio,0,其他,0.0,0.0,0.0
+更多美食,Il Fiorino,Il Fiorino,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Pescerosso,Ristorante Pescerosso,0,其他,0.0,0.0,0.0
+更多美食,Miso di Riso,Miso di Riso,0,其他,0.0,0.0,0.0
+更多美食,Caffe' Bigallo,Caffe' Bigallo,0,其他,0.0,0.0,0.0
+更多美食,Rosticceria Tiburon,Rosticceria Tiburon,0,其他,0.0,0.0,0.0
+更多美食,Pizza,Pizza,0,其他,0.0,0.0,0.0
+更多美食,Caffe Curtatone,Caffe Curtatone,0,其他,0.0,0.0,0.0
+更多美食,Opera Wine Bar,Opera Wine Bar,0,其他,0.0,0.0,0.0
+更多美食,Settimo Cielo ristorante pizzeria,Settimo Cielo ristorante pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Caffellatte,Caffellatte,0,其他,0.0,0.0,0.0
+更多美食,Burian Bar,Burian Bar,0,其他,0.0,0.0,0.0
+更多美食,Caffe Le Rose,Caffe Le Rose,0,其他,0.0,0.0,0.0
+更多美食,Trattora Palle Doro,Trattora Palle Doro,0,其他,0.0,0.0,0.0
+更多美食,McDonalds,McDonalds,0,其他,0.0,0.0,0.0
+更多美食,Bistrot Il Magnifico,Bistrot Il Magnifico,0,其他,0.0,0.0,0.0
+更多美食,Amor di Vino,Amor di Vino,0,其他,0.0,0.0,0.0
+更多美食,O' Sole Mio,O' Sole Mio,0,其他,0.0,0.0,0.0
+更多美食,Bar Deanna,Bar Deanna,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Da Pino,Ristorante Da Pino,0,其他,0.0,0.0,0.0
+更多美食,Machu Picchu,Machu Picchu,0,其他,0.0,0.0,0.0
+更多美食,Pio Chicken 3,Pio Chicken 3,0,其他,0.0,0.0,0.0
+更多美食,Caffe Deco Music Hall,Caffe Deco Music Hall,0,其他,0.0,0.0,0.0
+更多美食,La Bisboccia,La Bisboccia,0,其他,0.0,0.0,0.0
+更多美食,Salamanca,Salamanca,0,其他,0.0,0.0,0.0
+更多美食,Pork's,Pork's,0,其他,0.0,0.0,0.0
+更多美食,Morgan's Country Kitchen,Morgan's Country Kitchen,0,其他,0.0,0.0,0.0
+更多美食,Bliss' Route 101 Restaurant & Lo,Bliss' Route 101 Restaurant & Lo,0,其他,0.0,0.0,0.0
+更多美食,Superpizza Di Guidotti Massimo,Superpizza Di Guidotti Massimo,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Cruise Lounge Bar - Ristorante,Cruise Lounge Bar - Ristorante,0,其他,0.0,0.0,0.0
+更多美食,Il Tocco Di Bacco,Il Tocco Di Bacco,0,其他,0.0,0.0,0.0
+更多美食,Alla Vecchia Bettola,Alla Vecchia Bettola,0,其他,0.0,0.0,0.0
+更多美食,Antica Friggitoria Dell'albero,Antica Friggitoria Dell'albero,0,其他,0.0,0.0,0.0
+更多美食,Vecchio Casale,Vecchio Casale,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Central Park,Central Park,0,伊索洛妥,0.0,0.0,0.0
+更多美食,Da Stefano,Da Stefano,0,其他,0.0,0.0,0.0
+更多美食,Brunello - Florence,Brunello - Florence,0,其他,0.0,0.0,0.0
+更多美食,Grand Hotel Baglioni Firenze Restaurant,Grand Hotel Baglioni Firenze Restaurant,0,其他,0.0,0.0,0.0

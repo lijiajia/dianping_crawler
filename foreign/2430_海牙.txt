@@ -1,0 +1,552 @@
+意大利菜,Giuliano's,Giuliano's,0,中心区,0.0,0.0,0.0
+意大利菜,La Liguria,La Liguria,0,中心区,0.0,0.0,0.0
+意大利菜,Pizzeria Taormina,Pizzeria Taormina,0,海牙豪特,0.0,0.0,0.0
+意大利菜,Very Italian Pizza,Very Italian Pizza,0,中心区,0.0,0.0,0.0
+意大利菜,vapiano,vapiano,0,中心区,0.0,0.0,0.0
+意大利菜,Caruso II,Caruso II,0,中心区,0.0,0.0,0.0
+意大利菜,Bacco Perbacco Cucina Italiana,Bacco Perbacco Cucina Italiana,0,中心区,0.0,0.0,0.0
+意大利菜,Vino & Cucina,Vino & Cucina,0,中心区,0.0,0.0,0.0
+意大利菜,Impero Romano,Impero Romano,0,中心区,0.0,0.0,0.0
+意大利菜,Ristorante Tanta Roba,Ristorante Tanta Roba,0,中心区,0.0,0.0,0.0
+意大利菜,Sapori D'Italia Ristorante,Sapori D'Italia Ristorante,0,中心区,0.0,0.0,0.0
+意大利菜,Pastanini,Pastanini,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,Follia,Follia,0,其他,0.0,0.0,0.0
+意大利菜,Artisti del gusto,Artisti del gusto,0,中心区,0.0,0.0,0.0
+意大利菜,Kruimels,Kruimels,0,中心区,0.0,0.0,0.0
+意大利菜,Il Senso,Il Senso,0,中心区,0.0,0.0,0.0
+意大利菜,La Pecora Nera,La Pecora Nera,0,中心区,0.0,0.0,0.0
+意大利菜,Sapore Pasta & Panini,Sapore Pasta & Panini,0,中心区,0.0,0.0,0.0
+意大利菜,Het Gouden Konijn,Het Gouden Konijn,0,中心区,0.0,0.0,0.0
+意大利菜,Ciao Ciao,Ciao Ciao,0,中心区,0.0,0.0,0.0
+意大利菜,Casa Caroni,Casa Caroni,0,中心区,0.0,0.0,0.0
+意大利菜,Pizzaria Il Vesuvio,Pizzaria Il Vesuvio,0,中心区,0.0,0.0,0.0
+意大利菜,Trattoria Da Sebastiano,Trattoria Da Sebastiano,0,中心区,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Isola Sardegna,Ristorante Pizzeria Isola Sardegna,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,Solo Vino & La Galleria,Solo Vino & La Galleria,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,Ristorante Da Braccini,Ristorante Da Braccini,0,其他,0.0,0.0,0.0
+意大利菜,Da Sebastiano 2,Da Sebastiano 2,0,其他,0.0,0.0,0.0
+意大利菜,That's Amore,That's Amore,0,其他,0.0,0.0,0.0
+意大利菜,A Roma,A Roma,0,中心区,0.0,0.0,0.0
+意大利菜,Casa da Toni,Casa da Toni,0,中心区,0.0,0.0,0.0
+意大利菜,Gusto Mangia e Bevi,Gusto Mangia e Bevi,0,中心区,0.0,0.0,0.0
+意大利菜,Zio Ciro,Zio Ciro,0,中心区,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Da Giacomo,Ristorante Pizzeria Da Giacomo,0,中心区,0.0,0.0,0.0
+意大利菜,Fratelli Ristorante,Fratelli Ristorante,0,中心区,0.0,0.0,0.0
+意大利菜,Da Enzo Marchese,Da Enzo Marchese,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,La Bruschetta,La Bruschetta,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,Pasta Company Scheveningen,Pasta Company Scheveningen,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,Il Gusto,Il Gusto,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,La Lanterna,La Lanterna,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,Il Mio Ristorante Italiano,Il Mio Ristorante Italiano,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,Pizzare,Pizzare,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,La Galleria,La Galleria,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,La bamba,La bamba,0,斯海弗宁恩,0.0,0.0,0.0
+意大利菜,Berhane's La Primavera,Berhane's La Primavera,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante La Luna,Pizzeria Ristorante La Luna,0,海牙豪特,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante La Lanterna,Pizzeria Ristorante La Lanterna,0,中心区,0.0,0.0,0.0
+意大利菜,Limoncello,Limoncello,0,中心区,0.0,0.0,0.0
+意大利菜,Antonio's Pizzeria & Restaurant,Antonio's Pizzeria & Restaurant,0,中心区,0.0,0.0,0.0
+意大利菜,Impero Romano,Impero Romano,0,中心区,0.0,0.0,0.0
+意大利菜,La Galeria,La Galeria,0,斯海弗宁恩,0.0,0.0,0.0
+法国菜,Le Gone,Le Gone,0,中心区,0.0,0.0,0.0
+法国菜,South of Houston,South of Houston,0,中心区,0.0,0.0,0.0
+法国菜,M Restaurant,M Restaurant,0,中心区,0.0,0.0,0.0
+法国菜,Maxime,Maxime,0,中心区,0.0,0.0,0.0
+法国菜,Restaurant Pearl,Restaurant Pearl,0,中心区,0.0,0.0,0.0
+法国菜,Floc Restaurant,Floc Restaurant,0,中心区,0.0,0.0,0.0
+法国菜,"Le Bistrot de la Place, Chez Norbert","Le Bistrot de la Place, Chez Norbert",0,中心区,0.0,0.0,0.0
+法国菜,Pastis Den Haag,Pastis Den Haag,0,中心区,0.0,0.0,0.0
+法国菜,Le Bistroquet,Le Bistroquet,0,中心区,0.0,0.0,0.0
+法国菜,'Restaurant Allard,'Restaurant Allard,0,中心区,0.0,0.0,0.0
+法国菜,pierre Winebar & shop,pierre Winebar & shop,0,中心区,0.0,0.0,0.0
+法国菜,Restaurant Calla's,Restaurant Calla's,0,中心区,0.0,0.0,0.0
+法国菜,Het Gouden Kalf,Het Gouden Kalf,0,斯海弗宁恩,0.0,0.0,0.0
+法国菜,Pavlov,Pavlov,0,中心区,0.0,0.0,0.0
+法国菜,Le Cafe,Le Cafe,0,中心区,0.0,0.0,0.0
+法国菜,Le Breton,Le Breton,0,中心区,0.0,0.0,0.0
+法国菜,Restaurant DesInDes,Restaurant DesInDes,0,中心区,0.0,0.0,0.0
+法国菜,viszooi,viszooi,0,中心区,0.0,0.0,0.0
+法国菜,Le Moulin Fou,Le Moulin Fou,0,中心区,0.0,0.0,0.0
+法国菜,Bistro-Mer,Bistro-Mer,0,中心区,0.0,0.0,0.0
+法国菜,De Tapperij,De Tapperij,0,中心区,0.0,0.0,0.0
+法国菜,Beachclub Titus,Beachclub Titus,0,斯海弗宁恩,0.0,0.0,0.0
+法国菜,1798 Restaurant,1798 Restaurant,0,其他,0.0,0.0,0.0
+法国菜,Chez Nicolle,Chez Nicolle,0,其他,0.0,0.0,0.0
+法国菜,Het Pleidooi,Het Pleidooi,0,海牙豪特,0.0,0.0,0.0
+法国菜,Restaurant Christian,Restaurant Christian,0,海牙豪特,0.0,0.0,0.0
+法国菜,Restaurant Bar Altro,Restaurant Bar Altro,0,洛斯德伊嫩,0.0,0.0,0.0
+法国菜,Cafe Schlemmer,Cafe Schlemmer,0,中心区,0.0,0.0,0.0
+法国菜,De Horizon,De Horizon,0,斯海弗宁恩,0.0,0.0,0.0
+法国菜,Cafe Madeleine,Cafe Madeleine,0,其他,0.0,0.0,0.0
+法国菜,Restaurant Chiparus,Restaurant Chiparus,0,,0.0,0.0,0.0
+法国菜,Maison de la Foret,Maison de la Foret,0,海牙豪特,0.0,0.0,0.0
+法国菜,Lof der Zotheid,Lof der Zotheid,0,海牙豪特,0.0,0.0,0.0
+法国菜,Paluco,Paluco,0,海牙豪特,0.0,0.0,0.0
+法国菜,Sfeer Eten en Drinken,Sfeer Eten en Drinken,0,洛斯德伊嫩,0.0,0.0,0.0
+法国菜,La Fontaine,La Fontaine,0,洛斯德伊嫩,0.0,0.0,0.0
+法国菜,Ketjes Mix,Ketjes Mix,0,洛斯德伊嫩,0.0,0.0,0.0
+法国菜,Queentower Restaurant,Queentower Restaurant,0,中心区,0.0,0.0,0.0
+法国菜,Restaurant Rousseau,Restaurant Rousseau,0,斯海弗宁恩,0.0,0.0,0.0
+法国菜,Sodafine,Sodafine,0,中心区,0.0,0.0,0.0
+法国菜,Grand Cafe Restaurant Des Deux Villes,Grand Cafe Restaurant Des Deux Villes,0,中心区,0.0,0.0,0.0
+法国菜,Brasserie H.P. Mutters,Brasserie H.P. Mutters,0,中心区,0.0,0.0,0.0
+墨西哥菜,Kua Mexican Kitchen,Kua Mexican Kitchen,0,中心区,0.0,0.0,0.0
+墨西哥菜,America Latina,America Latina,0,中心区,0.0,0.0,0.0
+墨西哥菜,Chicoleo Mexican Restaurant,Chicoleo Mexican Restaurant,0,洛斯德伊嫩,0.0,0.0,0.0
+墨西哥菜,Mexicaans Restaurant Tex Mex,Mexicaans Restaurant Tex Mex,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Paviljoen Malieveld,Paviljoen Malieveld,0,海牙豪特,7.2,7.2,7.2
+其他西餐,Oker,Oker,0,中心区,7.1,7.1,6.8
+其他西餐,La Place,La Place,0,中心区,0.0,0.0,0.0
+其他西餐,Barlow Bar & Restaurant,Barlow Bar & Restaurant,0,中心区,0.0,0.0,0.0
+其他西餐,Santos,Santos,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,De Vegetarische Snackbar,De Vegetarische Snackbar,0,中心区,0.0,0.0,0.0
+其他西餐,Crazy Pianos,Crazy Pianos,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Los Argentinos,Los Argentinos,0,中心区,0.0,0.0,0.0
+其他西餐,Bar Bistro de Twee Heeren,Bar Bistro de Twee Heeren,0,中心区,0.0,0.0,0.0
+其他西餐,De Bok,De Bok,0,中心区,0.0,0.0,0.0
+其他西餐,Dungelmann,Dungelmann,0,中心区,0.0,0.0,0.0
+其他西餐,Gauchos - Den Haag,Gauchos - Den Haag,0,中心区,0.0,0.0,0.0
+其他西餐,De oude mol,De oude mol,0,中心区,0.0,0.0,0.0
+其他西餐,Bij Hem,Bij Hem,0,中心区,0.0,0.0,0.0
+其他西餐,Restaurant Mazie,Restaurant Mazie,0,中心区,0.0,0.0,0.0
+其他西餐,Tapasbar & Restaurant Triana,Tapasbar & Restaurant Triana,0,中心区,0.0,0.0,0.0
+其他西餐,ROOM,ROOM,0,中心区,0.0,0.0,0.0
+其他西餐,Taveerne de Resident,Taveerne de Resident,0,中心区,0.0,0.0,0.0
+其他西餐,Restaurant Alexander,Restaurant Alexander,0,中心区,0.0,0.0,0.0
+其他西餐,Fouquet,Fouquet,0,中心区,0.0,0.0,0.0
+其他西餐,Rodizio,Rodizio,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Strandpaviljoen Zeezicht,Strandpaviljoen Zeezicht,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Flavor's,Flavor's,0,其他,0.0,0.0,0.0
+其他西餐,HofTrammm,HofTrammm,0,其他,0.0,0.0,0.0
+其他西餐,Est Est Est!,Est Est Est!,0,中心区,0.0,0.0,0.0
+其他西餐,El Barrio,El Barrio,0,中心区,0.0,0.0,0.0
+其他西餐,Rootz,Rootz,0,中心区,0.0,0.0,0.0
+其他西餐,Cafe Restaurant De Boterwaag,Cafe Restaurant De Boterwaag,0,中心区,0.0,0.0,0.0
+其他西餐,Bolyari,Bolyari,0,中心区,0.0,0.0,0.0
+其他西餐,Irodion,Irodion,0,中心区,0.0,0.0,0.0
+其他西餐,Fiddler,Fiddler,0,中心区,0.0,0.0,0.0
+其他西餐,'t Goude Hooft,'t Goude Hooft,0,中心区,0.0,0.0,0.0
+其他西餐,Knossos,Knossos,0,中心区,0.0,0.0,0.0
+其他西餐,Leuk Eten En Drinken,Leuk Eten En Drinken,0,中心区,0.0,0.0,0.0
+其他西餐,Deluca,Deluca,0,中心区,0.0,0.0,0.0
+其他西餐,Restaurant De Basiliek,Restaurant De Basiliek,0,中心区,0.0,0.0,0.0
+其他西餐,Cafe Juliana's,Cafe Juliana's,0,中心区,0.0,0.0,0.0
+其他西餐,De Haagsche Kluis,De Haagsche Kluis,0,中心区,0.0,0.0,0.0
+其他西餐,Het Kabinet,Het Kabinet,0,中心区,0.0,0.0,0.0
+其他西餐,o'casey's irish pub and restaurant,o'casey's irish pub and restaurant,0,中心区,0.0,0.0,0.0
+其他西餐,Olijf,Olijf,0,中心区,0.0,0.0,0.0
+其他西餐,Augustus,Augustus,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Adriatico,Adriatico,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Lunchroom & Restaurant Tasty,Lunchroom & Restaurant Tasty,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Dok 28,Dok 28,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Prosecco Ristorante Italiano,Prosecco Ristorante Italiano,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,'t Pannekoekenhuisje,'t Pannekoekenhuisje,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Boonoonoonoos,Boonoonoonoos,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,La Vina,La Vina,0,海牙豪特,0.0,0.0,0.0
+其他西餐,Tios,Tios,0,洛斯德伊嫩,0.0,0.0,0.0
+其他西餐,Apollo,Apollo,0,洛斯德伊嫩,0.0,0.0,0.0
+其他西餐,Le Bateau,Le Bateau,0,洛斯德伊嫩,0.0,0.0,0.0
+其他西餐,"Zo, Zoet en Zout","Zo, Zoet en Zout",0,其他,0.0,0.0,0.0
+其他西餐,Familierestaurant Kapitein Haak,Familierestaurant Kapitein Haak,0,,0.0,0.0,0.0
+其他西餐,Taverne Meer en Bosch,Taverne Meer en Bosch,0,其他,0.0,0.0,0.0
+其他西餐,La Basque,La Basque,0,其他,0.0,0.0,0.0
+其他西餐,MoGoGo,MoGoGo,0,中心区,0.0,0.0,0.0
+其他西餐,Filmhuis,Filmhuis,0,中心区,0.0,0.0,0.0
+其他西餐,Lunchroom Otten,Lunchroom Otten,0,中心区,0.0,0.0,0.0
+其他西餐,Stadsbrasserie de Ooievaer,Stadsbrasserie de Ooievaer,0,中心区,0.0,0.0,0.0
+其他西餐,Kensington,Kensington,0,中心区,0.0,0.0,0.0
+其他西餐,Du Passage,Du Passage,0,中心区,0.0,0.0,0.0
+其他西餐,Le Gourmet,Le Gourmet,0,中心区,0.0,0.0,0.0
+其他西餐,Balkan Grill,Balkan Grill,0,中心区,0.0,0.0,0.0
+其他西餐,Havana Den Haag,Havana Den Haag,0,中心区,0.0,0.0,0.0
+其他西餐,Athene Palace,Athene Palace,0,中心区,0.0,0.0,0.0
+其他西餐,La Bodeguita,La Bodeguita,0,中心区,0.0,0.0,0.0
+其他西餐,Eetcafe Cloos,Eetcafe Cloos,0,中心区,0.0,0.0,0.0
+其他西餐,Van Prinse en Co,Van Prinse en Co,0,中心区,0.0,0.0,0.0
+其他西餐,La Grenouille,La Grenouille,0,中心区,0.0,0.0,0.0
+其他西餐,Piazza Bar & Restaurant,Piazza Bar & Restaurant,0,中心区,0.0,0.0,0.0
+其他西餐,Groude hooft,Groude hooft,0,中心区,0.0,0.0,0.0
+其他西餐,Restaurant Saur,Restaurant Saur,0,中心区,0.0,0.0,0.0
+其他西餐,Bodega de Posthoorn,Bodega de Posthoorn,0,中心区,0.0,0.0,0.0
+其他西餐,La Cubanita,La Cubanita,0,中心区,0.0,0.0,0.0
+其他西餐,Cafe Van Delden,Cafe Van Delden,0,中心区,0.0,0.0,0.0
+其他西餐,San Telmo,San Telmo,0,中心区,0.0,0.0,0.0
+其他西餐,Cafe Hathor,Cafe Hathor,0,中心区,0.0,0.0,0.0
+其他西餐,Nul70,Nul70,0,中心区,0.0,0.0,0.0
+其他西餐,Restaurant Plato,Restaurant Plato,0,中心区,0.0,0.0,0.0
+其他西餐,Koetjes & Kalfjes,Koetjes & Kalfjes,0,中心区,0.0,0.0,0.0
+其他西餐,Le Mastroquet,Le Mastroquet,0,中心区,0.0,0.0,0.0
+其他西餐,Catootje,Catootje,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Fortune Coffee,Fortune Coffee,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Brasserie Berlage,Brasserie Berlage,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Lunchroom Delice,Lunchroom Delice,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Kicking Horse,Kicking Horse,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,De Staat,De Staat,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Bistro de Zoute Zoen,Bistro de Zoute Zoen,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Le Cirque,Le Cirque,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Mezze Arabische Tapasbar,Mezze Arabische Tapasbar,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Beachclub Culpepper,Beachclub Culpepper,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Topkapi,Topkapi,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Grand Cafe Restaurant BINNEN,Grand Cafe Restaurant BINNEN,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Big Bell,Big Bell,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Strandpaviljoen Grand Plage,Strandpaviljoen Grand Plage,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Oscars,Oscars,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Brasserie Archipel,Brasserie Archipel,0,其他,0.0,0.0,0.0
+其他西餐,Milos,Milos,0,其他,0.0,0.0,0.0
+其他西餐,Corfu,Corfu,0,其他,0.0,0.0,0.0
+其他西餐,'t Oude Gemaal,'t Oude Gemaal,0,其他,0.0,0.0,0.0
+其他西餐,Sirtaki,Sirtaki,0,其他,0.0,0.0,0.0
+其他西餐,De Burcht,De Burcht,0,其他,0.0,0.0,0.0
+其他西餐,Anatolie,Anatolie,0,其他,0.0,0.0,0.0
+其他西餐,Bis,Bis,0,其他,0.0,0.0,0.0
+其他西餐,Sint Joris en de Draeck,Sint Joris en de Draeck,0,其他,0.0,0.0,0.0
+其他西餐,Borsalino,Borsalino,0,其他,0.0,0.0,0.0
+其他西餐,Marathon,Marathon,0,,0.0,0.0,0.0
+其他西餐,It’s Greek to me,It’s Greek to me,0,海牙豪特,0.0,0.0,0.0
+其他西餐,Warung Blauwgrond,Warung Blauwgrond,0,海牙豪特,0.0,0.0,0.0
+其他西餐,Blt,Blt,0,海牙豪特,0.0,0.0,0.0
+其他西餐,nieuw Engelhard,nieuw Engelhard,0,海牙豪特,0.0,0.0,0.0
+其他西餐,Restaurant De Tuyn,Restaurant De Tuyn,0,海牙豪特,0.0,0.0,0.0
+其他西餐,Jack Snack,Jack Snack,0,海牙豪特,0.0,0.0,0.0
+其他西餐,Grand Cafe restaurant LTT,Grand Cafe restaurant LTT,0,洛斯德伊嫩,0.0,0.0,0.0
+其他西餐,Oase Beach Club,Oase Beach Club,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Que Pasa,Restaurant Que Pasa,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,De Drie Konijntjes,De Drie Konijntjes,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Hazzebaz,Hazzebaz,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Coco Bango,Coco Bango,0,其他,0.0,0.0,0.0
+其他西餐,Afasika,Afasika,0,中心区,0.0,0.0,0.0
+其他西餐,Y Mucho Mas,Y Mucho Mas,0,中心区,0.0,0.0,0.0
+其他西餐,Corona,Corona,0,中心区,0.0,0.0,0.0
+其他西餐,"Taste, the Wine Bar","Taste, the Wine Bar",0,中心区,0.0,0.0,0.0
+其他西餐,'t Eetcafe,'t Eetcafe,0,中心区,0.0,0.0,0.0
+其他西餐,Café 2005,Café 2005,0,中心区,0.0,0.0,0.0
+其他西餐,cafe Blossom,cafe Blossom,0,中心区,0.0,0.0,0.0
+其他西餐,Ennu Ginger,Ennu Ginger,0,中心区,0.0,0.0,0.0
+其他西餐,Gotcha Beach,Gotcha Beach,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Beachclub Copacanabana,Beachclub Copacanabana,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Wassenaar Snacks Schevenignen,Wassenaar Snacks Schevenignen,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,Restaurant van Holland,Restaurant van Holland,0,斯海弗宁恩,0.0,0.0,0.0
+其他西餐,restaurant dubrovnik,restaurant dubrovnik,0,其他,0.0,0.0,0.0
+中餐,Ming Dynasty,Ming Dynasty,0,中心区,7.7,7.2,7.7
+中餐,Kee Lun Palace,Kee Lun Palace,0,中心区,0.0,0.0,0.0
+中餐,Fat Kee,Fat Kee,0,中心区,0.0,0.0,0.0
+中餐,Wong Kee Den Haag,Wong Kee Den Haag,0,中心区,0.0,0.0,0.0
+中餐,Golden Leaf,Golden Leaf,0,中心区,0.0,0.0,0.0
+中餐,Cheung Wing,Cheung Wing,0,中心区,0.0,0.0,0.0
+中餐,Ming Kee,Ming Kee,0,中心区,0.0,0.0,0.0
+中餐,restaurant long ting (kam lung hin),restaurant long ting (kam lung hin),0,中心区,0.0,0.0,0.0
+中餐,Restaurant Full Moon,Restaurant Full Moon,0,中心区,0.0,0.0,0.0
+中餐,Peach Garden,Peach Garden,0,洛斯德伊嫩,0.0,0.0,0.0
+中餐,De Blauwe Lotus,De Blauwe Lotus,0,中心区,0.0,0.0,0.0
+中餐,Eethuisje Winston & Weiwei,Eethuisje Winston & Weiwei,0,中心区,0.0,0.0,0.0
+中餐,De Gouden Wok Zuiderpark,De Gouden Wok Zuiderpark,0,其他,0.0,0.0,0.0
+中餐,Lee's Garden,Lee's Garden,0,斯海弗宁恩,0.0,0.0,0.0
+中餐,Fong Shou,Fong Shou,0,其他,0.0,0.0,0.0
+中餐,De Chinese Muur,De Chinese Muur,0,其他,0.0,0.0,0.0
+中餐,Ruby Chinese Specialiteiten,Ruby Chinese Specialiteiten,0,其他,0.0,0.0,0.0
+中餐,Poesaka-Malacca,Poesaka-Malacca,0,其他,0.0,0.0,0.0
+中餐,San Wah Leidsenhage,San Wah Leidsenhage,0,,0.0,0.0,0.0
+日韩料理,Sumo Sushi & Grill Restaurant,Sumo Sushi & Grill Restaurant,0,中心区,0.0,0.0,0.0
+日韩料理,Seoul Garden,Seoul Garden,0,中心区,0.0,0.0,0.0
+日韩料理,Urban Sushi,Urban Sushi,0,中心区,0.0,0.0,0.0
+日韩料理,Oni Japanese Dining,Oni Japanese Dining,0,中心区,0.0,0.0,0.0
+日韩料理,Mochi,Mochi,0,中心区,0.0,0.0,0.0
+日韩料理,Sushi Morikawa,Sushi Morikawa,0,中心区,0.0,0.0,0.0
+日韩料理,NOH Restaurant,NOH Restaurant,0,中心区,0.0,0.0,0.0
+日韩料理,Yamasaki,Yamasaki,0,其他,0.0,0.0,0.0
+日韩料理,Momiji Sushi,Momiji Sushi,0,中心区,0.0,0.0,0.0
+日韩料理,Kiraku,Kiraku,0,中心区,0.0,0.0,0.0
+日韩料理,Kyoto Cafe,Kyoto Cafe,0,斯海弗宁恩,0.0,0.0,0.0
+日韩料理,Kimchi Korean Restaurant,Kimchi Korean Restaurant,0,中心区,0.0,0.0,0.0
+日韩料理,Suzuran,Suzuran,0,中心区,0.0,0.0,0.0
+日韩料理,Shabu Shabu,Shabu Shabu,0,中心区,0.0,0.0,0.0
+日韩料理,Sumo,Sumo,0,中心区,0.0,0.0,0.0
+日韩料理,Ben Kei,Ben Kei,0,中心区,0.0,0.0,0.0
+日韩料理,C&H Korean Food Den Haag,C&H Korean Food Den Haag,0,斯海弗宁恩,0.0,0.0,0.0
+日韩料理,Restaurant Shizo， Sushi & Grill,Restaurant Shizo， Sushi & Grill,0,中心区,0.0,0.0,0.0
+日韩料理,Shibuya,Shibuya,0,中心区,0.0,0.0,0.0
+日韩料理,NORI,NORI,0,中心区,0.0,0.0,0.0
+更多亚洲菜,St. Anny Food DimSum & Bakery,St. Anny Food DimSum & Bakery,0,中心区,7.7,7.2,7.7
+更多亚洲菜,Umami Den Haag,Umami Den Haag,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Little V,Little V,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Istana,Istana,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Irawaddy,Irawaddy,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Ngon Vietnamees Restaurant,Ngon Vietnamees Restaurant,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Wox,Wox,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Curry & Cocos,Curry & Cocos,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Warung Bude Kati,Warung Bude Kati,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Toek Toek Thais Restaurant,Toek Toek Thais Restaurant,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Indian Restaurant Ramna,Indian Restaurant Ramna,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Simply Thai,Simply Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Jimbaran,Jimbaran,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Bombay Palace,Bombay Palace,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Dulang,Dulang,0,海牙豪特,0.0,0.0,0.0
+更多亚洲菜,Restaurant Song Phi Nong,Restaurant Song Phi Nong,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Sarinande indonesisch restaurant,Sarinande indonesisch restaurant,0,海牙豪特,0.0,0.0,0.0
+更多亚洲菜,Spize,Spize,0,中心区,0.0,0.0,0.0
+更多亚洲菜,See You At Noon,See You At Noon,0,中心区,0.0,0.0,0.0
+更多亚洲菜,phonsawan,phonsawan,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Orchids,Orchids,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Indian Restaurant Maharani,Indian Restaurant Maharani,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Dekxels,Dekxels,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Didong,Didong,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Keraton Damai,Keraton Damai,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,WALONG Dim Sum Restaurant,WALONG Dim Sum Restaurant,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Leaf Vegetarian,Leaf Vegetarian,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Indian curry house,Indian curry house,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bab mansour,Bab mansour,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Soeboer,Soeboer,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Srikandi,Srikandi,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Songkhla,Songkhla,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Eazie,Eazie,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Indonesisch Restaurant Garoeda,Indonesisch Restaurant Garoeda,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Chef India Express,Chef India Express,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal Indian Restaurant,Taj Mahal Indian Restaurant,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Tampat Senang,Tampat Senang,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Blauw,Blauw,0,中心区,0.0,0.0,0.0
+更多亚洲菜,The Raffles,The Raffles,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Keuken van Waarden - Azië,Keuken van Waarden - Azië,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Naga Thai,Naga Thai,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Bay Dreams,Bay Dreams,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Restaurant Lemongrass,Restaurant Lemongrass,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Thais Restaurant Phuket,Thais Restaurant Phuket,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Ratu Raja,Ratu Raja,0,其他,0.0,0.0,0.0
+更多亚洲菜,RAKANG THAI,RAKANG THAI,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bogor,Bogor,0,其他,0.0,0.0,0.0
+更多亚洲菜,De sissende sampan,De sissende sampan,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Marmaris,Restaurant Marmaris,0,洛斯德伊嫩,0.0,0.0,0.0
+更多亚洲菜,Ruen Thai,Ruen Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Vuvu,Vuvu,0,其他,0.0,0.0,0.0
+更多亚洲菜,El Basha,El Basha,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Famous City,Famous City,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Indonesian Restaurant Poentjak,Indonesian Restaurant Poentjak,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Sangam,Sangam,0,中心区,0.0,0.0,0.0
+更多亚洲菜,"Den Haag, Toko Cendana","Den Haag, Toko Cendana",0,中心区,0.0,0.0,0.0
+更多亚洲菜,Tri Tunggal,Tri Tunggal,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Som Sri,Som Sri,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Kashmir,Kashmir,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Mandarin Palace,Mandarin Palace,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Warunee,Warunee,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,SeleraKu,SeleraKu,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Toko Sawa,Toko Sawa,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Baan Chokdee,Baan Chokdee,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,De Indo,De Indo,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,The Thai Box,The Thai Box,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Ramakham,Ramakham,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sarinah,Sarinah,0,其他,0.0,0.0,0.0
+更多亚洲菜,Senayan,Senayan,0,海牙豪特,0.0,0.0,0.0
+更多亚洲菜,India Glory,India Glory,0,其他,0.0,0.0,0.0
+更多亚洲菜,Marrakech,Marrakech,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Toko Frederik,Toko Frederik,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Peukie,Peukie,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,"Uthai Thani, Scheveningen","Uthai Thani, Scheveningen",0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Masada Grill,Masada Grill,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Wang Hai,Wang Hai,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,Thai 4 You,Thai 4 You,0,其他,0.0,0.0,0.0
+更多亚洲菜,AROIDEE,AROIDEE,0,其他,0.0,0.0,0.0
+更多亚洲菜,Palembang,Palembang,0,其他,0.0,0.0,0.0
+更多亚洲菜,Tenchi Noodle Bar,Tenchi Noodle Bar,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Bao's Kitchen,Bao's Kitchen,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Café 2005,Café 2005,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Bo & Xiao,Bo & Xiao,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,India Palace,India Palace,0,斯海弗宁恩,0.0,0.0,0.0
+更多亚洲菜,The Pink Elephant,The Pink Elephant,0,其他,0.0,0.0,0.0
+快餐简餐,Bloem,Bloem,0,中心区,0.0,0.0,0.0
+快餐简餐,Bagels & Beans,Bagels & Beans,0,中心区,0.0,0.0,0.0
+快餐简餐,New york,New york,0,中心区,0.0,0.0,0.0
+快餐简餐,Hudson Bar & Kitchen,Hudson Bar & Kitchen,0,斯海弗宁恩,0.0,0.0,0.0
+快餐简餐,Burgerz Scheveningen,Burgerz Scheveningen,0,斯海弗宁恩,0.0,0.0,0.0
+快餐简餐,Burgerz,Burgerz,0,中心区,0.0,0.0,0.0
+快餐简餐,Milly's,Milly's,0,中心区,0.0,0.0,0.0
+快餐简餐,Bagels & Beans,Bagels & Beans,0,斯海弗宁恩,0.0,0.0,0.0
+快餐简餐,Bel air,Bel air,0,斯海弗宁恩,0.0,0.0,0.0
+快餐简餐,江西,江西,0,,0.0,0.0,0.0
+快餐简餐,Dim Daily,Dim Daily,0,中心区,0.0,0.0,0.0
+海鲜,Catch by Simonis,Catch by Simonis,0,斯海弗宁恩,7.7,7.7,7.7
+海鲜,Simonis aan de Haven,Simonis aan de Haven,0,斯海弗宁恩,7.2,6.8,6.8
+海鲜,It Rains Fishes,It Rains Fishes,0,中心区,0.0,0.0,0.0
+海鲜,De Golfslag,De Golfslag,0,斯海弗宁恩,0.0,0.0,0.0
+海鲜,The Fish Club,The Fish Club,0,洛斯德伊嫩,0.0,0.0,0.0
+海鲜,Havenrestaurant de Weduwe van der Toorn,Havenrestaurant de Weduwe van der Toorn,0,斯海弗宁恩,0.0,0.0,0.0
+烧烤,Bistro Bontje,Bistro Bontje,0,斯海弗宁恩,0.0,0.0,0.0
+烧烤,EscuBelle beachclub,EscuBelle beachclub,0,斯海弗宁恩,0.0,0.0,0.0
+烧烤,Ramsis,Ramsis,0,其他,0.0,0.0,0.0
+烧烤,Toros Santiago,Toros Santiago,0,中心区,0.0,0.0,0.0
+烧烤,Sphinx II Steakhouse,Sphinx II Steakhouse,0,中心区,0.0,0.0,0.0
+烧烤,Grillroom Arena,Grillroom Arena,0,中心区,0.0,0.0,0.0
+烧烤,Zanzibar Beachclub,Zanzibar Beachclub,0,斯海弗宁恩,0.0,0.0,0.0
+烧烤,Beachclub Indigo,Beachclub Indigo,0,斯海弗宁恩,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,中心区,0.0,0.0,0.0
+比萨,Pizza Marino,Pizza Marino,0,其他,0.0,0.0,0.0
+咖啡厅,Coffee Company,Coffee Company,0,中心区,7.0,7.1,7.0
+咖啡厅,Brood & Koffie bij Clarence,Brood & Koffie bij Clarence,0,中心区,0.0,0.0,0.0
+咖啡厅,Meneer Chocola,Meneer Chocola,0,斯海弗宁恩,0.0,0.0,0.0
+咖啡厅,Cafe restaurant Pan,Cafe restaurant Pan,0,海牙豪特,0.0,0.0,0.0
+咖啡厅,'t Hof van Eten,'t Hof van Eten,0,中心区,0.0,0.0,0.0
+咖啡厅,Crunch,Crunch,0,中心区,0.0,0.0,0.0
+咖啡厅,Boosty,Boosty,0,斯海弗宁恩,0.0,0.0,0.0
+咖啡厅,Het Hofje Van Norman,Het Hofje Van Norman,0,斯海弗宁恩,0.0,0.0,0.0
+咖啡厅,Kaldi koffie en Thee,Kaldi koffie en Thee,0,中心区,0.0,0.0,0.0
+咖啡厅,Cafe Momfer de Mol,Cafe Momfer de Mol,0,中心区,0.0,0.0,0.0
+咖啡厅,CoffeeCompany,CoffeeCompany,0,中心区,0.0,0.0,0.0
+咖啡厅,Chox Chocolaterie Boulanger,Chox Chocolaterie Boulanger,0,斯海弗宁恩,0.0,0.0,0.0
+咖啡厅,Mecca food& drinks,Mecca food& drinks,0,斯海弗宁恩,0.0,0.0,0.0
+咖啡厅,Home Town,Home Town,0,中心区,0.0,0.0,0.0
+面包甜点,Cheesecake Company,Cheesecake Company,0,中心区,0.0,0.0,0.0
+面包甜点,De Bakkerswinkel,De Bakkerswinkel,0,中心区,0.0,0.0,0.0
+面包甜点,Swags central,Swags central,0,中心区,0.0,0.0,0.0
+面包甜点,Florencia IJs,Florencia IJs,0,中心区,0.0,0.0,0.0
+面包甜点,Lapsang,Lapsang,0,中心区,0.0,0.0,0.0
+面包甜点,CupcakeChic,CupcakeChic,0,中心区,0.0,0.0,0.0
+面包甜点,Wiener Konditorei,Wiener Konditorei,0,中心区,0.0,0.0,0.0
+面包甜点,Maison Belder,Maison Belder,0,中心区,0.0,0.0,0.0
+面包甜点,Philippe Galerne Patisserie,Philippe Galerne Patisserie,0,斯海弗宁恩,0.0,0.0,0.0
+面包甜点,Vlaamsch Broodhuys,Vlaamsch Broodhuys,0,斯海弗宁恩,0.0,0.0,0.0
+面包甜点,Yon,Yon,0,斯海弗宁恩,0.0,0.0,0.0
+面包甜点,Il Capriccio,Il Capriccio,0,其他,0.0,0.0,0.0
+面包甜点,Pattiserie Jarreau B.V,Pattiserie Jarreau B.V,0,海牙豪特,0.0,0.0,0.0
+面包甜点,Banketbakkerij Plasman,Banketbakkerij Plasman,0,中心区,0.0,0.0,0.0
+面包甜点,Vlaamsch Broodhuys,Vlaamsch Broodhuys,0,中心区,0.0,0.0,0.0
+面包甜点,MeesTerbakker Roodenrijs,MeesTerbakker Roodenrijs,0,中心区,0.0,0.0,0.0
+面包甜点,Bakkerij Bornhijm B.V.,Bakkerij Bornhijm B.V.,0,中心区,0.0,0.0,0.0
+酒吧,Huppel the Pub,Huppel the Pub,0,中心区,0.0,0.0,0.0
+酒吧,Plein,Plein,0,中心区,0.0,0.0,0.0
+酒吧,Eetcafe de deugd,Eetcafe de deugd,0,其他,0.0,0.0,0.0
+酒吧,Brasserie Buitenhof,Brasserie Buitenhof,0,中心区,0.0,0.0,0.0
+酒吧,Cafe Emma,Cafe Emma,0,其他,0.0,0.0,0.0
+酒吧,Brasserie What Else Kijkduin Den Haag,Brasserie What Else Kijkduin Den Haag,0,洛斯德伊嫩,0.0,0.0,0.0
+更多美食,HanTing Restaurant,HanTing Restaurant,0,中心区,7.2,7.2,7.2
+更多美食,Luden,Luden,0,中心区,0.0,0.0,0.0
+更多美食,Zebedeus,Zebedeus,0,中心区,0.0,0.0,0.0
+更多美食,De Paas Bierspeciaalcafe,De Paas Bierspeciaalcafe,0,中心区,0.0,0.0,0.0
+更多美食,Brasserie 't Ogenblik,Brasserie 't Ogenblik,0,中心区,0.0,0.0,0.0
+更多美食,Eten bij werelds,Eten bij werelds,0,中心区,0.0,0.0,0.0
+更多美食,Baklust,Baklust,0,中心区,0.0,0.0,0.0
+更多美食,Blij Lunch en Borrelroom,Blij Lunch en Borrelroom,0,中心区,0.0,0.0,0.0
+更多美食,Mero,Mero,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Juni Lekkernijen,Juni Lekkernijen,0,其他,0.0,0.0,0.0
+更多美食,Fine Fresh Food,Fine Fresh Food,0,中心区,0.0,0.0,0.0
+更多美食,Paraplu,Paraplu,0,中心区,0.0,0.0,0.0
+更多美食,Millers,Millers,0,中心区,0.0,0.0,0.0
+更多美食,Brasserie Brut-Bubbles & Bites,Brasserie Brut-Bubbles & Bites,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Chinese Restaurant Harvest,Chinese Restaurant Harvest,0,中心区,0.0,0.0,0.0
+更多美食,Genki Tei,Genki Tei,0,中心区,0.0,0.0,0.0
+更多美食,Milu,Milu,0,中心区,0.0,0.0,0.0
+更多美食,Les Ombrelles,Les Ombrelles,0,中心区,0.0,0.0,0.0
+更多美食,De Dis,De Dis,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Le Bon Mangeur,Le Bon Mangeur,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Brasserie NL,Brasserie NL,0,,0.0,0.0,0.0
+更多美食,Eethuis de Zon,Eethuis de Zon,0,中心区,0.0,0.0,0.0
+更多美食,`t Achterommetje,`t Achterommetje,0,中心区,0.0,0.0,0.0
+更多美食,Roem in de Keuken,Roem in de Keuken,0,中心区,0.0,0.0,0.0
+更多美食,Thirty-Seven,Thirty-Seven,0,中心区,0.0,0.0,0.0
+更多美食,De Waterreus,De Waterreus,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Dayang,Dayang,0,其他,0.0,0.0,0.0
+更多美食,"Tasty Dreams, Tearoom and Cakebakery","Tasty Dreams, Tearoom and Cakebakery",0,其他,0.0,0.0,0.0
+更多美食,Boomerang Beach,Boomerang Beach,0,其他,0.0,0.0,0.0
+更多美食,De Eeuwige Jachtvelden,De Eeuwige Jachtvelden,0,其他,0.0,0.0,0.0
+更多美食,"Scallywags, The Restaurant","Scallywags, The Restaurant",0,中心区,0.0,0.0,0.0
+更多美食,Le Connaisseur Den Haag,Le Connaisseur Den Haag,0,中心区,0.0,0.0,0.0
+更多美食,Himalayan,Himalayan,0,中心区,0.0,0.0,0.0
+更多美食,Bagels & Beans,Bagels & Beans,0,中心区,0.0,0.0,0.0
+更多美食,Dudok,Dudok,0,中心区,0.0,0.0,0.0
+更多美食,Pinocchio,Pinocchio,0,中心区,0.0,0.0,0.0
+更多美食,C'est Ca,C'est Ca,0,中心区,0.0,0.0,0.0
+更多美食,Amier,Amier,0,中心区,0.0,0.0,0.0
+更多美食,John & June's,John & June's,0,中心区,0.0,0.0,0.0
+更多美食,Het Heden,Het Heden,0,中心区,0.0,0.0,0.0
+更多美食,Bite Me,Bite Me,0,中心区,0.0,0.0,0.0
+更多美食,Logisch,Logisch,0,中心区,0.0,0.0,0.0
+更多美食,Bar Restaurant Dendy,Bar Restaurant Dendy,0,中心区,0.0,0.0,0.0
+更多美食,Rhodos,Rhodos,0,中心区,0.0,0.0,0.0
+更多美食,De wankele tafel,De wankele tafel,0,中心区,0.0,0.0,0.0
+更多美食,AndermansKeuken,AndermansKeuken,0,中心区,0.0,0.0,0.0
+更多美食,El Gusto,El Gusto,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,3 Stones,3 Stones,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Yagura,Yagura,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Gember,Gember,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Restaurant At Sea,Restaurant At Sea,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Het Brouwcafe,Het Brouwcafe,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,mero vis,mero vis,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Beachclub Copacabana,Beachclub Copacabana,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Zee op Tafel,Zee op Tafel,0,其他,0.0,0.0,0.0
+更多美食,Veggies On Fire,Veggies On Fire,0,其他,0.0,0.0,0.0
+更多美食,Eetcafe De Parodie,Eetcafe De Parodie,0,其他,0.0,0.0,0.0
+更多美食,La Galleria Ristorante Pizzeria,La Galleria Ristorante Pizzeria,0,洛斯德伊嫩,0.0,0.0,0.0
+更多美食,Everest Restaurant,Everest Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Dill Restaurant,Dill Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Parker Beachclub,Parker Beachclub,0,其他,0.0,0.0,0.0
+更多美食,Muziekcafe Foots,Muziekcafe Foots,0,其他,0.0,0.0,0.0
+更多美食,Tortuga Beachclub,Tortuga Beachclub,0,其他,0.0,0.0,0.0
+更多美食,Lins Restaurant,Lins Restaurant,0,其他,0.0,0.0,0.0
+更多美食,De Smaak & Zo,De Smaak & Zo,0,其他,0.0,0.0,0.0
+更多美食,New Sing Kee,New Sing Kee,0,中心区,0.0,0.0,0.0
+更多美食,Cafe Restaurant La Ruche,Cafe Restaurant La Ruche,0,中心区,0.0,0.0,0.0
+更多美食,Will's Pancake House,Will's Pancake House,0,中心区,0.0,0.0,0.0
+更多美食,Piccolo Mondo,Piccolo Mondo,0,中心区,0.0,0.0,0.0
+更多美食,Grand Cafe Haagsche Bluf,Grand Cafe Haagsche Bluf,0,中心区,0.0,0.0,0.0
+更多美食,Chinny,Chinny,0,中心区,0.0,0.0,0.0
+更多美食,Cafe Van Beek,Cafe Van Beek,0,中心区,0.0,0.0,0.0
+更多美食,De Hagedis,De Hagedis,0,中心区,0.0,0.0,0.0
+更多美食,Popocatepetl,Popocatepetl,0,中心区,0.0,0.0,0.0
+更多美食,dining,dining,0,中心区,0.0,0.0,0.0
+更多美食,Eigen Houtje,Eigen Houtje,0,中心区,0.0,0.0,0.0
+更多美食,EXKi,EXKi,0,中心区,0.0,0.0,0.0
+更多美食,Grand Cafe De Tijd,Grand Cafe De Tijd,0,中心区,0.0,0.0,0.0
+更多美食,Le Prince,Le Prince,0,中心区,0.0,0.0,0.0
+更多美食,The Coffee Company,The Coffee Company,0,中心区,0.0,0.0,0.0
+更多美食,Humphrey's,Humphrey's,0,中心区,0.0,0.0,0.0
+更多美食,A Taste of Persia,A Taste of Persia,0,中心区,0.0,0.0,0.0
+更多美食,Savanna,Savanna,0,中心区,0.0,0.0,0.0
+更多美食,Zalmhuys Noordeinde,Zalmhuys Noordeinde,0,中心区,0.0,0.0,0.0
+更多美食,Sinjoor,Sinjoor,0,中心区,0.0,0.0,0.0
+更多美食,Cafe de la Gare,Cafe de la Gare,0,中心区,0.0,0.0,0.0
+更多美食,Wicked Wines,Wicked Wines,0,中心区,0.0,0.0,0.0
+更多美食,Benkei,Benkei,0,中心区,0.0,0.0,0.0
+更多美食,Hooistraat,Hooistraat,0,中心区,0.0,0.0,0.0
+更多美食,Restaurant Mondiaal,Restaurant Mondiaal,0,中心区,0.0,0.0,0.0
+更多美食,Brasserie Passie,Brasserie Passie,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Water Brood,Water Brood,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Parker Beach Club,Parker Beach Club,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Vispaleis Scheveningen,Vispaleis Scheveningen,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,"Heerlijk Lunchen, Den Haag","Heerlijk Lunchen, Den Haag",0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Lunchroom MAF,Lunchroom MAF,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Le Debut,Le Debut,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Puur,Puur,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Westewind,Westewind,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Beach Pavilion Summertime,Beach Pavilion Summertime,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Grand Cafe Restaurant Vitesse,Grand Cafe Restaurant Vitesse,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Restaurant Columbus,Restaurant Columbus,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Restaurant TOFF,Restaurant TOFF,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,DownUnderBeach,DownUnderBeach,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Naturel,Naturel,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Paviljoen Kobus,Paviljoen Kobus,0,其他,0.0,0.0,0.0
+更多美食,Habana Beach,Habana Beach,0,其他,0.0,0.0,0.0
+更多美食,de Brave Hendrik,de Brave Hendrik,0,,0.0,0.0,0.0
+更多美食,Symbiose,Symbiose,0,其他,0.0,0.0,0.0
+更多美食,Djebena,Djebena,0,其他,0.0,0.0,0.0
+更多美食,Swingin Safari,Swingin Safari,0,其他,0.0,0.0,0.0
+更多美食,Toko Toet,Toko Toet,0,其他,0.0,0.0,0.0
+更多美食,Tel Aviv,Tel Aviv,0,,0.0,0.0,0.0
+更多美食,Bij Mauce,Bij Mauce,0,海牙豪特,0.0,0.0,0.0
+更多美食,La Cantina di Pierino,La Cantina di Pierino,0,海牙豪特,0.0,0.0,0.0
+更多美食,De Nieuwe Veenmolen,De Nieuwe Veenmolen,0,海牙豪特,0.0,0.0,0.0
+更多美食,Diner Thuis,Diner Thuis,0,海牙豪特,0.0,0.0,0.0
+更多美食,Restaurant Waterloo,Restaurant Waterloo,0,海牙豪特,0.0,0.0,0.0
+更多美食,Madestein,Madestein,0,洛斯德伊嫩,0.0,0.0,0.0
+更多美食,De Haagsche Beek,De Haagsche Beek,0,洛斯德伊嫩,0.0,0.0,0.0
+更多美食,De Kwartel,De Kwartel,0,其他,0.0,0.0,0.0
+更多美食,Van der Valk,Van der Valk,0,中心区,0.0,0.0,0.0
+更多美食,Kinyo Sushi & Grill,Kinyo Sushi & Grill,0,中心区,0.0,0.0,0.0
+更多美食,Strandpaviljoen Veronica Scheveningen,Strandpaviljoen Veronica Scheveningen,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Nalu Beach,Nalu Beach,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,Hoftrammm Tram Restaurant,Hoftrammm Tram Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Stadscafe Het Wapen van Den Haag,Stadscafe Het Wapen van Den Haag,0,中心区,0.0,0.0,0.0
+更多美食,EXKi,EXKi,0,中心区,0.0,0.0,0.0
+更多美食,Restaurant Oka,Restaurant Oka,0,中心区,0.0,0.0,0.0
+更多美食,Indonesisch Specialiteiten Restaurant De Poentjak,Indonesisch Specialiteiten Restaurant De Poentjak,0,中心区,0.0,0.0,0.0
+更多美食,Quirky,Quirky,0,中心区,0.0,0.0,0.0
+更多美食,Bojangles',Bojangles',0,中心区,0.0,0.0,0.0
+更多美食,Restaurant AOC,Restaurant AOC,0,中心区,0.0,0.0,0.0
+更多美食,Puerto Segundo,Puerto Segundo,0,斯海弗宁恩,0.0,0.0,0.0
+更多美食,De Pier,De Pier,0,其他,0.0,0.0,0.0

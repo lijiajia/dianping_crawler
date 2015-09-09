@@ -1,0 +1,329 @@
+意大利菜,Da Ernesto
+意大利菜,Angolo Pizza & Pasta
+意大利菜,Barbatti
+意大利菜,Trattoria Pizzeria da Vittorio
+意大利菜,Valentino
+意大利菜,Ristorante Rossini
+意大利菜,Le Stelle Ristorante
+意大利菜,Restaurant Einhorn - Pizzeria da Tommaso
+意大利菜,Ristorante Toscana
+意大利菜,Pizzeria Ciao
+意大利菜,Paninoteca Da Mario
+意大利菜,Restaurant Caravelle
+意大利菜,Angolo Pizza
+意大利菜,La Perla
+意大利菜,Basilico
+意大利菜,Restaurant Opus
+意大利菜,Cafe Bar Lokal
+意大利菜,Bellini Ristorante Ticinese
+意大利菜,Le Stelle Ristorante
+意大利菜,Schlossli Utenberg
+意大利菜,Trattoria Pizzeria da Vittorio
+意大利菜,RistorantePizzeria Zum Weissen Kreuz
+意大利菜,Valentino
+意大利菜,Militargarten
+意大利菜,Alfred Caffebar
+意大利菜,Restaurant Einhorn - Pizzeria da Tommaso
+意大利菜,Restaurant Portofino
+意大利菜,Mamma Leone
+意大利菜,Pizzeria Ciao
+意大利菜,SCALA RESTAURANT - Art Deco Hotel Montana
+意大利菜,Villa Hausermatte
+意大利菜,Grottino 1313
+意大利菜,Jam Jam
+意大利菜,La Cucina
+意大利菜,Pavarotti
+意大利菜,Daniele Winebar-Restaurant-Lounge
+意大利菜,La Fenice
+意大利菜,Restaurant Padrino
+意大利菜,La Gondola
+法国菜,Brasserie Joel's Restaurant
+法国菜,Wirtschaft zur Ente
+法国菜,Brasserie Joel s Restaurant
+法国菜,Restaurant Thorenberg Maximo
+法国菜,Wirtschaft zur Ente
+法国菜,Brasserie Chez Bodu
+墨西哥菜,Xalisco
+墨西哥菜,Crazy Cactus
+墨西哥菜,Mexxx
+墨西哥菜,Pacifico
+其他西餐,Old Swiss House
+其他西餐,Bodu
+其他西餐,stern
+其他西餐,Restaurant Wiederkehr
+其他西餐,Chimney's Steakhouse
+其他西餐,Fritschi
+其他西餐,Restaurant Olivo
+其他西餐,Nix s in der Laterne
+其他西餐,Balances
+其他西餐,Bolero Restaurant & Lounge
+其他西餐,Wirtshaus Taube
+其他西餐,Konditorei & Cafe Heini
+其他西餐,Restaurant Chateau Guetsch
+其他西餐,Soul Chicken
+其他西餐,Swiss Stuebli
+其他西餐,Manor Department Store Cafeteria
+其他西餐,Storchen Cafe & Bar
+其他西餐,Cabanas
+其他西餐,Pilatus Kulm
+其他西餐,Toni's Smash
+其他西餐,Schloss Swiss Chalet
+其他西餐,"Seehotel, Kastanienbaum, Lucerne"
+其他西餐,Restaurant Thorenberg Maximo
+其他西餐,Latino Restaurant
+其他西餐,Stadtkeller Swiss Folklore Restaurant
+其他西餐,Hofgarten
+其他西餐,Stedtkeller Restaurant
+其他西餐,Hotel Seeburg
+其他西餐,Restaurant Rathaus Brauerei Luzern
+其他西餐,Zunfthausrestaurant Pfistern
+其他西餐,Ruanthai Take Away
+其他西餐,Coop Restaurant
+其他西餐,Schuler Weinwirtschaft La bonne Cave
+其他西餐,Pizzeria da Milo
+其他西餐,Cafeteria Emilio
+其他西餐,Restaurant Lapin
+其他西餐,Prizzi
+其他西餐,Cafe-Bar Mardi Gras
+其他西餐,Unicum Lucerne
+其他西餐,Baccara
+其他西餐,Istanbul Grill
+其他西餐,Kostgeberei
+其他西餐,Wirtschaft zum Schuetzenhaus
+其他西餐,Brasserie Flora
+其他西餐,CrazyCupCake Cafe
+其他西餐,Restaurant Geissmatt
+其他西餐,Au Premier
+其他西餐,Hotel des Alpes Restaurant
+其他西餐,St. Magdalena
+其他西餐,Mr. Pickwick Pub
+其他西餐,Shamrock Irish Pub
+其他西餐,Bar Leon
+其他西餐,Sternegg
+其他西餐,Masala
+其他西餐,Les Artistes
+其他西餐,Waldstatterhof Restaurant
+其他西餐,Gasthaus Ochsen
+其他西餐,Chill s
+其他西餐,Sauvage
+其他西餐,Drei Konige
+其他西餐,Rote Perle
+其他西餐,De La Paix Lucerne
+其他西餐,Parterre
+其他西餐,Galerie (Schweizerhof)
+其他西餐,The Lounge
+其他西餐,Mövenpick Kantonalbank
+其他西餐,Cabanas
+其他西餐,Toni s Smash
+其他西餐,Titlis-Huette
+其他西餐,Restaurant bim buume Hannes Baumann
+其他西餐,Bistro du Theatre
+其他西餐,Luz Seebistro
+其他西餐,Storchen Cafe
+其他西餐,Sirtaki
+其他西餐,Restaurant Davis Luzern
+其他西餐,la Sinfonia
+其他西餐,Schiff
+其他西餐,Shine
+其他西餐,Soul Chicken
+其他西餐,Gastronomie Zu Wasser
+其他西餐,Landhaus Lerchenhof
+其他西餐,Moosschur
+其他西餐,Euro-Thai Food
+其他西餐,Mirch Masala Restaurant
+其他西餐,Swiss Stuebli
+其他西餐,Martini Stube
+其他西餐,Wirtshaus zum Unterlachenhof
+其他西餐,Blue Bar
+其他西餐,El Rincon Argentino
+其他西餐,Shanghai Nr. 1
+其他西餐,Restaurant Hof
+其他西餐,Schloss Swiss Chalet
+其他西餐,Wirtshaus Schutzengarten
+其他西餐,Restaurant Spatz
+其他西餐,Restaurant Rutli
+其他西餐,Rothaus Restaurant
+其他西餐,Grendel 19
+其他西餐,Konditorei
+其他西餐,Restaurant Chateau Guetsch
+其他西餐,Seepark
+其他西餐,Martini Stube
+其他西餐,Das Weisse Schaf
+其他西餐,Confiserie Speck
+其他西餐,Piccard
+其他西餐,City Restaurant
+其他西餐,St. Petersstube - Hotel des Alpes
+其他西餐,Seebar
+其他西餐,Max
+其他西餐,Tintoretto
+其他西餐,Green Apple
+其他西餐,"Seehotel, Kastanienbaum, Lucerne"
+其他西餐,Bleichi 23
+其他西餐,gartenHAUS 1313
+其他西餐,Restaurant Panorama
+其他西餐,Bolero Restaurant
+其他西餐,Wilden Mann
+其他西餐,Restaurant Olivo
+其他西餐,Schluessel
+其他西餐,Restaurant Reussbad  Las Torres
+其他西餐,Dean and David LU
+其他西餐,Hermitage
+其他西餐,Barbès
+其他西餐,Restaurant Moosmatt
+其他西餐,Jasper
+其他西餐,Hopfenkranz
+其他西餐,Felsenegg
+其他西餐,Restaurant Luce
+其他西餐,Casa Tolone
+其他西餐,Rebstock
+其他西餐,Maihofli
+其他西餐,Schiffrestaurant Wilhelm Tell
+其他西餐,Manor Department Store Cafeteria
+中餐,太白餐厅
+中餐,Delicious Bing House
+中餐,竹香阁快餐店
+中餐,China Shanghai 3
+中餐,"Bamboo Garden, Sushi & Chinese"
+中餐,CHENGDU
+中餐,China-Restaurant Hong Kong
+中餐,Li Tai Pe
+中餐,Asia town
+中餐,"Bamboo Garden, Sushi"
+日韩料理,Lounge & Bar suite
+日韩料理,Kaiten Sushi Restaurant & Take Away
+日韩料理,Korea Town
+日韩料理,Lounge
+日韩料理,Kyoto
+日韩料理,Kaiten Sushi Restaurant
+日韩料理,Kaiten Sushi Bar
+更多亚洲菜,Changcheng Take Away
+更多亚洲菜,Chang Cheng
+更多亚洲菜,Cha Cha
+更多亚洲菜,Kanchi Indian restaurant
+更多亚洲菜,Neville's Fine indian Dining
+更多亚洲菜,Apsara
+更多亚洲菜,Gandhi
+更多亚洲菜,Restaurant Thai Garden
+更多亚洲菜,Restaurant Bam Bou
+更多亚洲菜,Thai Lotus Restaurant
+更多亚洲菜,Kanchi Indian restaurant
+更多亚洲菜,Khoua Vientiane
+更多亚洲菜,Song Pi Nong
+更多亚洲菜,Takrai
+更多亚洲菜,Chang Cheng
+更多亚洲菜,GourmIndia
+更多亚洲菜,Isaan Market GmbH
+更多亚洲菜,Shanghai 2
+更多亚洲菜,Taj Palace
+更多亚洲菜,Cha Cha
+更多亚洲菜,Apsara
+更多亚洲菜,Sky Asia Take Away
+更多亚洲菜,Asian Takeaway
+更多亚洲菜,Restaurant Masala
+更多亚洲菜,Neville s Fine indian Dining
+快餐简餐,天鹅餐厅
+快餐简餐,Jeffs's Burger
+快餐简餐,熊猫快餐
+快餐简餐,Twiny Station
+快餐简餐,Restaurant Schwanen Cafe de Ville
+快餐简餐,Restaurant 1871
+海鲜,Sebastian s Sea Food
+比萨,Restaurant Einhorn
+比萨,Oskar Restaurant & Bar
+比萨,Pizza Sofra
+比萨,La Mannagia
+比萨,Rossli
+比萨,Modomio
+咖啡厅,星巴克
+咖啡厅,Starbucks
+咖啡厅,Konditorei & Cafe Heini
+咖啡厅,Maison Gout
+咖啡厅,Backerei Hug
+咖啡厅,"Cafe Corso, Luzern"
+咖啡厅,Bahnhof Restauration Luzern
+咖啡厅,National Bar
+咖啡厅,World Cafe
+面包甜点,Konditorei & Cafe Heini
+面包甜点,10' Dieci
+面包甜点,MERZ
+面包甜点,Gelateria dell  Alpi
+面包甜点,Konditorei
+酒吧,Mekong Restaurant
+酒吧,Bar Capitol
+酒吧,ArteBar Weggis
+更多美食,Taube Restaurant
+更多美食,Wirtshaus Galliker
+更多美食,Seerestaurant
+更多美食,Galerie (Schweizerhof)
+更多美食,Les Artistes
+更多美食,Restaurant Moosmatt
+更多美食,Restaurant 1871
+更多美食,Waldstatterhof Restaurant
+更多美食,Schiffrestaurant Wilhelm Tell
+更多美食,MÖvenpick Kantonalbank
+更多美食,Luz Seebistro
+更多美食,Restaurant Reussbad 
+更多美食,Chill's
+更多美食,Asian Fondue House
+更多美食,Tintoretto
+更多美食,Istanbul Grill & More
+更多美食,St. Petersstube - Hotel des Alpes
+更多美食,Restaurant bim buume Hannes Baumann
+更多美食,Backerei-Konditorei Hug AG
+更多美食,Restaurant Spatz
+更多美食,Ristorante Centro
+更多美食,Nectar Bar
+更多美食,Blue Bar & Smoker's Lounge
+更多美食,Don Carlos
+更多美食,Parterre
+更多美食,Havanna Cafe & Bar
+更多美食,Trattoria della Nonna
+更多美食,Bleichi 23
+更多美食,Rothaus Restaurant
+更多美食,Suter's Meile Bistro
+更多美食,Taj Palace
+更多美食,Scala Restaurant
+更多美食,La Terrazza
+更多美食,Dolce Amore
+更多美食,Memories of Asia
+更多美食,Restaurant Central
+更多美食,10  Dieci
+更多美食,Carrie Tan
+更多美食,Taberna Espanola
+更多美食,Betagtenzentrum Eichhof
+更多美食,Backpackers Lucern
+更多美食,Best Pizza Kurier
+更多美食,Gastro - Bus
+更多美食,Restaurant Gasshof
+更多美食,Larkspur
+更多美食,Asian Village Victoria
+更多美食,Cafe Hofli
+更多美食,California
+更多美食,Churrascaria do sul
+更多美食,Gasthaus St. Wendelin GmbH
+更多美食,Tribschen
+更多美食,Khrua Thai
+更多美食,Sawasdee
+更多美食,Klatsch
+更多美食,Naustadt
+更多美食,Ristorante Centro
+更多美食,Latino Restaurant
+更多美食,Regatta
+更多美食,Gennaro
+更多美食,Cafe Bar Peperoncini
+更多美食,Naustadt
+更多美食,Helvetia
+更多美食,Scala Restaurant
+更多美食,Schweizerische Hotelfachschule
+更多美食,Sonnmatt
+更多美食,Backerei Hug
+更多美食,Taburettli Kafi ond meh
+更多美食,Havanna Cafe
+更多美食,Tandoori
+更多美食,Aqua
+更多美食,Chimney s Steakhouse
+更多美食,Landgasthaus Strauss
+更多美食,Asian Fondue House
+更多美食,Nectar Bar
+更多美食,Restaurant Krone
+更多美食,Pilatus Kulm

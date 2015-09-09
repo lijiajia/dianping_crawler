@@ -1,0 +1,2163 @@
+意大利菜,Botanic,Botanic,0,布拉格04,6.7,7.5,7.5
+意大利菜,La Finestra in Cucina,La Finestra in Cucina,0,布拉格01,8.3,8.3,8.3
+意大利菜,Domecek Cafe,Domecek Cafe,0,布拉格01,8.1,7.4,8.1
+意大利菜,Pepe Nero,Pepe Nero,0,布拉格01,8.3,8.3,8.3
+意大利菜,Ristorante Caffe Italia,Ristorante Caffe Italia,0,布拉格01,8.4,8.4,8.4
+意大利菜,VinoDiVino,VinoDiVino,0,布拉格01,0.0,0.0,0.0
+意大利菜,Ambiente Pasta Fresca,Ambiente Pasta Fresca,0,布拉格01,0.0,0.0,0.0
+意大利菜,Osteria Da Clara,Osteria Da Clara,0,布拉格10,0.0,0.0,0.0
+意大利菜,Coloseum,Coloseum,0,布拉格01,0.0,0.0,0.0
+意大利菜,Alforno Focacceria Italiana,Alforno Focacceria Italiana,0,布拉格01,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Roma Uno,Pizzeria Ristorante Roma Uno,0,布拉格03,0.0,0.0,0.0
+意大利菜,U Minuty,U Minuty,0,布拉格01,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Vabene,Ristorante Pizzeria Vabene,0,布拉格01,0.0,0.0,0.0
+意大利菜,Marina Grosseto Ristorante,Marina Grosseto Ristorante,0,布拉格01,0.0,0.0,0.0
+意大利菜,Kogo,Kogo,0,布拉格01,0.0,0.0,0.0
+意大利菜,Cantinetta Fiorentina,Cantinetta Fiorentina,0,布拉格01,0.0,0.0,0.0
+意大利菜,Al minuto,Al minuto,0,布拉格01,0.0,0.0,0.0
+意大利菜,La Bottega di Finestra,La Bottega di Finestra,0,布拉格01,0.0,0.0,0.0
+意大利菜,Ichnusa Botega & Bistro,Ichnusa Botega & Bistro,0,布拉格01,0.0,0.0,0.0
+意大利菜,PIZZERIA GROSSETTO,PIZZERIA GROSSETTO,0,其他,0.0,0.0,0.0
+意大利菜,La Piccola Perla,La Piccola Perla,0,布拉格01,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Giovanni,Pizzeria Ristorante Giovanni,0,布拉格01,0.0,0.0,0.0
+意大利菜,Taverna Toscana,Taverna Toscana,0,布拉格01,0.0,0.0,0.0
+意大利菜,La Casata,La Casata,0,布拉格04,0.0,0.0,0.0
+意大利菜,Pizzeria Rugantino,Pizzeria Rugantino,0,布拉格01,0.0,0.0,0.0
+意大利菜,Trattoria by Giovanni,Trattoria by Giovanni,0,布拉格01,0.0,0.0,0.0
+意大利菜,La Corte,La Corte,0,布拉格01,0.0,0.0,0.0
+意大利菜,Grosseto,Grosseto,0,布拉格02,0.0,0.0,0.0
+意大利菜,Aromi,Aromi,0,布拉格02,0.0,0.0,0.0
+意大利菜,Aquarius Restaurant,Aquarius Restaurant,0,布拉格01,0.0,0.0,0.0
+意大利菜,Restaurant Cafe B. Braun,Restaurant Cafe B. Braun,0,布拉格02,0.0,0.0,0.0
+意大利菜,Casa de Carli,Casa de Carli,0,布拉格01,0.0,0.0,0.0
+意大利菜,Pasta Krusta,Pasta Krusta,0,布拉格01,0.0,0.0,0.0
+意大利菜,Trattoria Cicala,Trattoria Cicala,0,布拉格02,0.0,0.0,0.0
+意大利菜,Pizza Coloseum,Pizza Coloseum,0,布拉格02,0.0,0.0,0.0
+意大利菜,Restaurant Baterka,Restaurant Baterka,0,布拉格01,0.0,0.0,0.0
+意大利菜,Aldo Pizzerie,Aldo Pizzerie,0,布拉格04,0.0,0.0,0.0
+意大利菜,Restaurant Pizzeria Corto,Restaurant Pizzeria Corto,0,布拉格01,0.0,0.0,0.0
+意大利菜,Piccolo Mondo,Piccolo Mondo,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria di Carlo,Pizzeria di Carlo,0,布拉格02,0.0,0.0,0.0
+意大利菜,Capua,Capua,0,布拉格07,0.0,0.0,0.0
+意大利菜,U Mlsného Bobra Pizzeria,U Mlsného Bobra Pizzeria,0,布拉格02,0.0,0.0,0.0
+意大利菜,Veranda - pizzeria,Veranda - pizzeria,0,布拉格10,0.0,0.0,0.0
+意大利菜,Le Vigne,Le Vigne,0,布拉格01,0.0,0.0,0.0
+意大利菜,Topo Maschio,Topo Maschio,0,布拉格10,0.0,0.0,0.0
+意大利菜,KAFKA Snob Food,KAFKA Snob Food,0,布拉格01,0.0,0.0,0.0
+意大利菜,Litaliano prague risto pizza,Litaliano prague risto pizza,0,布拉格02,0.0,0.0,0.0
+意大利菜,Rustica Prague,Rustica Prague,0,布拉格01,0.0,0.0,0.0
+意大利菜,Oliva Verde,Oliva Verde,0,布拉格01,0.0,0.0,0.0
+意大利菜,Ristorante Italiano Buschetto,Ristorante Italiano Buschetto,0,布拉格01,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria LaScala,Ristorante Pizzeria LaScala,0,布拉格01,0.0,0.0,0.0
+意大利菜,U Plebana,U Plebana,0,布拉格01,0.0,0.0,0.0
+意大利菜,Il Nostro,Il Nostro,0,布拉格05,0.0,0.0,0.0
+意大利菜,Aumm Aumm Gusto Italiano,Aumm Aumm Gusto Italiano,0,布拉格01,0.0,0.0,0.0
+意大利菜,U Dzberu,U Dzberu,0,布拉格01,0.0,0.0,0.0
+意大利菜,Bibita Nuova,Bibita Nuova,0,布拉格01,0.0,0.0,0.0
+意大利菜,Pizzeria La Fame,Pizzeria La Fame,0,布拉格01,0.0,0.0,0.0
+意大利菜,Ristorante Adriatico,Ristorante Adriatico,0,布拉格01,0.0,0.0,0.0
+意大利菜,Marea restaurant & bar,Marea restaurant & bar,0,布拉格01,0.0,0.0,0.0
+意大利菜,Ristorante Carmelita,Ristorante Carmelita,0,布拉格01,0.0,0.0,0.0
+意大利菜,Donna pizzeria,Donna pizzeria,0,布拉格01,0.0,0.0,0.0
+意大利菜,Al Riso,Al Riso,0,布拉格01,0.0,0.0,0.0
+意大利菜,Le Cinque Corone,Le Cinque Corone,0,布拉格01,0.0,0.0,0.0
+意大利菜,U Budovce,U Budovce,0,布拉格01,0.0,0.0,0.0
+意大利菜,CottoCrudo,CottoCrudo,0,布拉格01,0.0,0.0,0.0
+意大利菜,Giallorossa,Giallorossa,0,布拉格01,0.0,0.0,0.0
+意大利菜,Pizzeria U Zeleneho Krale,Pizzeria U Zeleneho Krale,0,布拉格01,0.0,0.0,0.0
+意大利菜,Cerny Orel,Cerny Orel,0,布拉格01,0.0,0.0,0.0
+意大利菜,Divinis,Divinis,0,布拉格01,0.0,0.0,0.0
+意大利菜,Aldente,Aldente,0,布拉格01,0.0,0.0,0.0
+意大利菜,Hastalsky dedek,Hastalsky dedek,0,布拉格01,0.0,0.0,0.0
+意大利菜,Ristorante Matylda,Ristorante Matylda,0,布拉格02,0.0,0.0,0.0
+意大利菜,Gastronomica La Bottega di Aromi,Gastronomica La Bottega di Aromi,0,布拉格03,0.0,0.0,0.0
+意大利菜,La Casa,La Casa,0,布拉格03,0.0,0.0,0.0
+意大利菜,Restaurant PER TE,Restaurant PER TE,0,其他,0.0,0.0,0.0
+意大利菜,La Carezza Pizzeria Ristorante - Metropole Zličín,La Carezza Pizzeria Ristorante - Metropole Zličín,0,其他,0.0,0.0,0.0
+意大利菜,Mercato,Mercato,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Cerreto,Pizzeria Cerreto,0,其他,0.0,0.0,0.0
+意大利菜,Enoteca Pasqualini,Enoteca Pasqualini,0,布拉格01,0.0,0.0,0.0
+意大利菜,U Budovce,U Budovce,0,其他,0.0,0.0,0.0
+意大利菜,Enotria Restaurant & Wine Bar,Enotria Restaurant & Wine Bar,0,布拉格01,0.0,0.0,0.0
+意大利菜,Pagana Ristorante,Pagana Ristorante,0,布拉格01,0.0,0.0,0.0
+意大利菜,Toscana Grill,Toscana Grill,0,布拉格01,0.0,0.0,0.0
+意大利菜,Modra Zahrada,Modra Zahrada,0,布拉格01,0.0,0.0,0.0
+意大利菜,Pizzeria Pavaon,Pizzeria Pavaon,0,布拉格01,0.0,0.0,0.0
+意大利菜,Casanova Ristorante,Casanova Ristorante,0,布拉格01,0.0,0.0,0.0
+意大利菜,U Bakalare Pizza & Pasta,U Bakalare Pizza & Pasta,0,布拉格01,0.0,0.0,0.0
+意大利菜,Deli Kantyna,Deli Kantyna,0,布拉格01,0.0,0.0,0.0
+意大利菜,La Vita e Bella,La Vita e Bella,0,布拉格01,0.0,0.0,0.0
+意大利菜,Pizzeria da Marcello Ristorante,Pizzeria da Marcello Ristorante,0,布拉格01,0.0,0.0,0.0
+意大利菜,Mikulka's Pizzeria,Mikulka's Pizzeria,0,布拉格01,0.0,0.0,0.0
+意大利菜,Zlatá ulicka,Zlatá ulicka,0,布拉格01,0.0,0.0,0.0
+意大利菜,Giardino,Giardino,0,布拉格02,0.0,0.0,0.0
+意大利菜,Grosetto II,Grosetto II,0,布拉格02,0.0,0.0,0.0
+意大利菜,Restaurace Historie,Restaurace Historie,0,布拉格02,0.0,0.0,0.0
+意大利菜,Bollicine,Bollicine,0,布拉格02,0.0,0.0,0.0
+意大利菜,Pizzeria Concordia,Pizzeria Concordia,0,布拉格02,0.0,0.0,0.0
+意大利菜,Rispetto,Rispetto,0,布拉格02,0.0,0.0,0.0
+意大利菜,Pizza Dali Flora,Pizza Dali Flora,0,布拉格02,0.0,0.0,0.0
+意大利菜,Celebrity Cafe,Celebrity Cafe,0,布拉格02,0.0,0.0,0.0
+意大利菜,Restaurace 4 Mori,Restaurace 4 Mori,0,布拉格03,0.0,0.0,0.0
+意大利菜,SEZIO restaurant,SEZIO restaurant,0,布拉格03,0.0,0.0,0.0
+意大利菜,Wine food market,Wine food market,0,布拉格05,0.0,0.0,0.0
+意大利菜,Pizzeria Cipollini,Pizzeria Cipollini,0,布拉格05,0.0,0.0,0.0
+意大利菜,Corleone Restorante Pizzeria Andel,Corleone Restorante Pizzeria Andel,0,布拉格05,0.0,0.0,0.0
+意大利菜,il Giardino,il Giardino,0,布拉格04,0.0,0.0,0.0
+意大利菜,Concordia Ristorante,Concordia Ristorante,0,布拉格04,0.0,0.0,0.0
+意大利菜,Baretta,Baretta,0,布拉格04,0.0,0.0,0.0
+意大利菜,La strada ristorante,La strada ristorante,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Aria,Pizzeria Aria,0,其他,0.0,0.0,0.0
+意大利菜,Porto,Porto,0,其他,0.0,0.0,0.0
+意大利菜,Una Bella Canzone,Una Bella Canzone,0,其他,0.0,0.0,0.0
+意大利菜,Da Emanuel,Da Emanuel,0,其他,0.0,0.0,0.0
+意大利菜,La Gastronomia,La Gastronomia,0,其他,0.0,0.0,0.0
+意大利菜,la Torretta Pizzeria,la Torretta Pizzeria,0,布拉格10,0.0,0.0,0.0
+意大利菜,Peperoncino,Peperoncino,0,布拉格07,0.0,0.0,0.0
+意大利菜,Pizzerie Al Mulino,Pizzerie Al Mulino,0,布拉格14,0.0,0.0,0.0
+意大利菜,Cafe Terapie,Cafe Terapie,0,布拉格15,0.0,0.0,0.0
+意大利菜,Einstein,Einstein,0,布拉格01,0.0,0.0,0.0
+意大利菜,Del Mar Restaurant,Del Mar Restaurant,0,布拉格01,0.0,0.0,0.0
+意大利菜,Funiculi funicula,Funiculi funicula,0,布拉格01,0.0,0.0,0.0
+意大利菜,st nicholas cafe,st nicholas cafe,0,布拉格01,0.0,0.0,0.0
+意大利菜,Segafredo Espresso,Segafredo Espresso,0,布拉格01,0.0,0.0,0.0
+意大利菜,Trattoria Mercato,Trattoria Mercato,0,布拉格01,0.0,0.0,0.0
+意大利菜,Caffe Fresco,Caffe Fresco,0,布拉格02,0.0,0.0,0.0
+意大利菜,V Cafe,V Cafe,0,布拉格02,0.0,0.0,0.0
+意大利菜,Bacco Vinoteka,Bacco Vinoteka,0,布拉格02,0.0,0.0,0.0
+意大利菜,Fresco Vento,Fresco Vento,0,布拉格02,0.0,0.0,0.0
+意大利菜,Pizza Sicilia,Pizza Sicilia,0,布拉格02,0.0,0.0,0.0
+意大利菜,Pizzeria Sorrento,Pizzeria Sorrento,0,布拉格02,0.0,0.0,0.0
+意大利菜,Gusto,Gusto,0,布拉格02,0.0,0.0,0.0
+意大利菜,Infinity,Infinity,0,布拉格02,0.0,0.0,0.0
+意大利菜,Giallo Rossa,Giallo Rossa,0,布拉格02,0.0,0.0,0.0
+意大利菜,PAZZA IDEA - Restaurant & Lounge,PAZZA IDEA - Restaurant & Lounge,0,布拉格02,0.0,0.0,0.0
+意大利菜,La Grotta,La Grotta,0,布拉格02,0.0,0.0,0.0
+意大利菜,Pizzeria Detaillo,Pizzeria Detaillo,0,布拉格02,0.0,0.0,0.0
+意大利菜,Ristorate Soave,Ristorate Soave,0,布拉格03,0.0,0.0,0.0
+意大利菜,Corte di Angelo,Corte di Angelo,0,布拉格05,0.0,0.0,0.0
+意大利菜,"Ristorante, Pizzeria & Caffetteria Margherita","Ristorante, Pizzeria & Caffetteria Margherita",0,布拉格04,0.0,0.0,0.0
+意大利菜,Alcione Restorace,Alcione Restorace,0,布拉格04,0.0,0.0,0.0
+意大利菜,Restaurant Cirkus,Restaurant Cirkus,0,其他,0.0,0.0,0.0
+意大利菜,Fellini,Fellini,0,其他,0.0,0.0,0.0
+意大利菜,2 Pazzi Restaurant,2 Pazzi Restaurant,0,布拉格10,0.0,0.0,0.0
+意大利菜,Fabbricia,Fabbricia,0,布拉格07,0.0,0.0,0.0
+意大利菜,A Putia,A Putia,0,布拉格07,0.0,0.0,0.0
+意大利菜,Osteria ai Galli,Osteria ai Galli,0,布拉格07,0.0,0.0,0.0
+意大利菜,Pizzeria Il Pinocchio,Pizzeria Il Pinocchio,0,布拉格12,0.0,0.0,0.0
+意大利菜,La Festa Slivenec,La Festa Slivenec,0,布拉格12,0.0,0.0,0.0
+意大利菜,Il Gattopardo,Il Gattopardo,0,布拉格01,0.0,0.0,0.0
+意大利菜,Pizzeria Kampa Mulino,Pizzeria Kampa Mulino,0,布拉格01,0.0,0.0,0.0
+意大利菜,Alla Stella Nera,Alla Stella Nera,0,布拉格01,0.0,0.0,0.0
+意大利菜,Mattoni,Mattoni,0,布拉格01,0.0,0.0,0.0
+意大利菜,Ristorante San Nicola,Ristorante San Nicola,0,布拉格01,0.0,0.0,0.0
+意大利菜,La Piazzetta,La Piazzetta,0,布拉格01,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Lamberty,Ristorante Pizzeria Lamberty,0,布拉格01,0.0,0.0,0.0
+意大利菜,Cartelo Alto,Cartelo Alto,0,布拉格02,0.0,0.0,0.0
+意大利菜,Fregata,Fregata,0,布拉格02,0.0,0.0,0.0
+意大利菜,Buongiorno,Buongiorno,0,布拉格03,0.0,0.0,0.0
+意大利菜,Pizzeria San Severo,Pizzeria San Severo,0,布拉格04,0.0,0.0,0.0
+意大利菜,Rialto Pizza,Rialto Pizza,0,其他,0.0,0.0,0.0
+意大利菜,Vesuv,Vesuv,0,其他,0.0,0.0,0.0
+意大利菜,Decanto Wine Bar,Decanto Wine Bar,0,其他,0.0,0.0,0.0
+意大利菜,Rotella,Rotella,0,其他,0.0,0.0,0.0
+意大利菜,La vita e' bella,La vita e' bella,0,布拉格01,0.0,0.0,0.0
+意大利菜,Olivia Nera,Olivia Nera,0,布拉格01,0.0,0.0,0.0
+意大利菜,Bibitanuova,Bibitanuova,0,布拉格01,0.0,0.0,0.0
+意大利菜,Il Convento,Il Convento,0,布拉格01,0.0,0.0,0.0
+意大利菜,Green Tomato,Green Tomato,0,布拉格01,0.0,0.0,0.0
+意大利菜,Gabriele Ristorante,Gabriele Ristorante,0,布拉格01,0.0,0.0,0.0
+意大利菜,Locanda Marino,Locanda Marino,0,布拉格01,0.0,0.0,0.0
+意大利菜,daNico,daNico,0,布拉格01,0.0,0.0,0.0
+意大利菜,Toninni Enoteca-Wine Bar-Restaurant,Toninni Enoteca-Wine Bar-Restaurant,0,布拉格01,0.0,0.0,0.0
+意大利菜,Zaama Zaama,Zaama Zaama,0,布拉格01,0.0,0.0,0.0
+意大利菜,Pizzeria Venezia,Pizzeria Venezia,0,布拉格02,0.0,0.0,0.0
+意大利菜,Allegro,Allegro,0,布拉格02,0.0,0.0,0.0
+意大利菜,La Rocca,La Rocca,0,布拉格02,0.0,0.0,0.0
+意大利菜,Il Melograno,Il Melograno,0,布拉格02,0.0,0.0,0.0
+意大利菜,Pizzeria Also,Pizzeria Also,0,布拉格04,0.0,0.0,0.0
+意大利菜,Periferia Trattoria,Periferia Trattoria,0,其他,0.0,0.0,0.0
+意大利菜,Osteria de la Clara,Osteria de la Clara,0,布拉格10,0.0,0.0,0.0
+法国菜,Terrace at Hotel U Prince,Terrace at Hotel U Prince,0,布拉格01,7.4,7.4,7.4
+法国菜,U Bile Kravy,U Bile Kravy,0,布拉格02,8.4,8.4,8.4
+法国菜,Francouzska,Francouzska,0,布拉格01,7.4,7.4,7.4
+法国菜,Cafe De Paris,Cafe De Paris,0,布拉格01,7.5,7.5,8.4
+法国菜,Ginger & Fred Restaurant,Ginger & Fred Restaurant,0,其他,0.0,0.0,0.0
+法国菜,Sarah Bernhardt Restaurant,Sarah Bernhardt Restaurant,0,布拉格01,0.0,0.0,0.0
+法国菜,Cafe Creperie,Cafe Creperie,0,布拉格01,0.0,0.0,0.0
+法国菜,Paul - Braodway (Pasáž Broadway),Paul - Braodway (Pasáž Broadway),0,布拉格01,0.0,0.0,0.0
+法国菜,Cafe Saint Tropez,Cafe Saint Tropez,0,布拉格01,0.0,0.0,0.0
+法国菜,Terasa u Zlate Studne,Terasa u Zlate Studne,0,布拉格01,0.0,0.0,0.0
+法国菜,Universal,Universal,0,布拉格01,0.0,0.0,0.0
+法国菜,Svata Klara,Svata Klara,0,其他,0.0,0.0,0.0
+法国菜,Atelier Red & Wine,Atelier Red & Wine,0,布拉格01,0.0,0.0,0.0
+法国菜,The Wine Bar,The Wine Bar,0,布拉格01,0.0,0.0,0.0
+法国菜,Restaurant Cafe B. Braun,Restaurant Cafe B. Braun,0,布拉格02,0.0,0.0,0.0
+法国菜,Delice Restaurant,Delice Restaurant,0,布拉格01,0.0,0.0,0.0
+法国菜,Ema Destinnova,Ema Destinnova,0,布拉格02,0.0,0.0,0.0
+法国菜,Red Pif,Red Pif,0,布拉格01,0.0,0.0,0.0
+法国菜,Celeste Restaurant,Celeste Restaurant,0,布拉格02,0.0,0.0,0.0
+法国菜,Cafe Parisienne,Cafe Parisienne,0,布拉格01,0.0,0.0,0.0
+法国菜,La Truffe,La Truffe,0,布拉格01,0.0,0.0,0.0
+法国菜,Cafe de l'Art,Cafe de l'Art,0,布拉格02,0.0,0.0,0.0
+法国菜,De La Place,De La Place,0,布拉格01,0.0,0.0,0.0
+法国菜,French Garden,French Garden,0,其他,0.0,0.0,0.0
+法国菜,Cafe de Paris - Hotel Paris,Cafe de Paris - Hotel Paris,0,布拉格01,0.0,0.0,0.0
+法国菜,Kalina Restaurant,Kalina Restaurant,0,布拉格01,0.0,0.0,0.0
+法国菜,Pot au Feu,Pot au Feu,0,布拉格01,0.0,0.0,0.0
+法国菜,Grand Cru,Grand Cru,0,布拉格01,0.0,0.0,0.0
+法国菜,Cafe Amandine,Cafe Amandine,0,布拉格02,0.0,0.0,0.0
+法国菜,Blue Wagon,Blue Wagon,0,布拉格02,0.0,0.0,0.0
+法国菜,kaaba,kaaba,0,布拉格02,0.0,0.0,0.0
+法国菜,Musta koira,Musta koira,0,其他,0.0,0.0,0.0
+法国菜,Le Saint-Jacques,Le Saint-Jacques,0,布拉格01,0.0,0.0,0.0
+法国菜,Brasserie M,Brasserie M,0,布拉格01,0.0,0.0,0.0
+法国菜,Bistro Au Petit Prince,Bistro Au Petit Prince,0,布拉格01,0.0,0.0,0.0
+法国菜,U Patrona,U Patrona,0,布拉格01,0.0,0.0,0.0
+法国菜,Restaurant Le Saint-Tropez,Restaurant Le Saint-Tropez,0,布拉格01,0.0,0.0,0.0
+法国菜,Le Cafe Colonial,Le Cafe Colonial,0,布拉格01,0.0,0.0,0.0
+法国菜,Na břehu Rhôny,Na břehu Rhôny,0,布拉格02,0.0,0.0,0.0
+法国菜,IF Cafe,IF Cafe,0,布拉格02,0.0,0.0,0.0
+法国菜,Magnum Club & Restaurant,Magnum Club & Restaurant,0,布拉格05,0.0,0.0,0.0
+法国菜,Restaurant Vetrnik,Restaurant Vetrnik,0,其他,0.0,0.0,0.0
+法国菜,Bistro de France,Bistro de France,0,其他,0.0,0.0,0.0
+法国菜,Joy Cosmopolitan Restaurant,Joy Cosmopolitan Restaurant,0,布拉格01,0.0,0.0,0.0
+法国菜,Coffee and Cigars,Coffee and Cigars,0,布拉格01,0.0,0.0,0.0
+法国菜,Le Camille,Le Camille,0,布拉格05,0.0,0.0,0.0
+法国菜,Nabreldy Rltony,Nabreldy Rltony,0,布拉格15,0.0,0.0,0.0
+法国菜,Cafe Emma Prague,Cafe Emma Prague,0,布拉格01,0.0,0.0,0.0
+法国菜,Le Bistro de Marlene,Le Bistro de Marlene,0,布拉格02,0.0,0.0,0.0
+墨西哥菜,Cantina,Cantina,0,布拉格01,0.0,0.0,0.0
+墨西哥菜,El Pueblo Mexicana,El Pueblo Mexicana,0,布拉格01,0.0,0.0,0.0
+墨西哥菜,Burrito Loco,Burrito Loco,0,布拉格01,0.0,0.0,0.0
+墨西哥菜,Las Adelitas Restaurante & Tequila Bar,Las Adelitas Restaurante & Tequila Bar,0,布拉格01,0.0,0.0,0.0
+墨西哥菜,Las Adelitas,Las Adelitas,0,布拉格02,0.0,0.0,0.0
+墨西哥菜,Barabizna,Barabizna,0,其他,0.0,0.0,0.0
+墨西哥菜,Pricny Rez,Pricny Rez,0,布拉格01,0.0,0.0,0.0
+墨西哥菜,Zluta pumpa,Zluta pumpa,0,布拉格02,0.0,0.0,0.0
+墨西哥菜,El Pueblo Mexican Steak House,El Pueblo Mexican Steak House,0,布拉格01,0.0,0.0,0.0
+墨西哥菜,Fiesta,Fiesta,0,其他,0.0,0.0,0.0
+墨西哥菜,7 Tacos Steak and Grill,7 Tacos Steak and Grill,0,布拉格07,0.0,0.0,0.0
+墨西哥菜,Sonora,Sonora,0,布拉格03,0.0,0.0,0.0
+墨西哥菜,MaleDivy,MaleDivy,0,布拉格07,0.0,0.0,0.0
+墨西哥菜,El Paisa,El Paisa,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurant Svateho Vaclava,Restaurant Svateho Vaclava,0,布拉格01,7.7,7.7,8.2
+其他西餐,Rainer Maria Rilke,Rainer Maria Rilke,0,布拉格01,7.8,7.8,7.8
+其他西餐,Malostranska Hospudka,Malostranska Hospudka,0,布拉格01,7.6,7.3,7.0
+其他西餐,Cafe Savoy,Cafe Savoy,0,布拉格01,7.1,8.5,8.0
+其他西餐,Bredovsky dvur,Bredovsky dvur,0,布拉格01,8.2,8.2,8.2
+其他西餐,Mistral Cafe,Mistral Cafe,0,布拉格01,8.4,8.4,8.4
+其他西餐,Deminka,Deminka,0,布拉格02,8.1,8.1,8.1
+其他西餐,Restaurace U Labuti,Restaurace U Labuti,0,布拉格01,7.5,8.4,6.7
+其他西餐,La Republica,La Republica,0,布拉格01,7.3,7.8,7.8
+其他西餐,Budvarka,Budvarka,0,其他,7.5,8.4,7.5
+其他西餐,Restaurant Musketyr,Restaurant Musketyr,0,布拉格01,7.1,7.1,7.1
+其他西餐,U Laury,U Laury,0,布拉格01,8.3,8.3,8.3
+其他西餐,Restaurant Lvi Dvur,Restaurant Lvi Dvur,0,布拉格01,8.2,8.2,8.2
+其他西餐,U prince Miroslava,U prince Miroslava,0,布拉格05,8.3,7.4,7.4
+其他西餐,Ve Stare Radnici,Ve Stare Radnici,0,布拉格01,6.8,7.3,7.3
+其他西餐,host restaurant,host restaurant,0,布拉格01,7.8,7.8,7.8
+其他西餐,The PUB - Praha 1,The PUB - Praha 1,0,布拉格01,7.5,7.5,7.5
+其他西餐,Kolkovna Olympia,Kolkovna Olympia,0,布拉格01,7.5,7.5,7.5
+其他西餐,Restaurant u Schnellu,Restaurant u Schnellu,0,布拉格01,6.8,6.8,6.8
+其他西餐,HOOTERS,HOOTERS,0,布拉格01,7.1,7.1,7.3
+其他西餐,Lokal,Lokal,0,布拉格01,6.7,6.7,6.7
+其他西餐,U Fleku Restaurant and Brewery,U Fleku Restaurant and Brewery,0,布拉格01,6.7,7.5,6.7
+其他西餐,Elegantes,Elegantes,0,布拉格01,0.0,0.0,0.0
+其他西餐,Tom,Tom,0,布拉格01,0.0,0.0,0.0
+其他西餐,Svejk Restaurant U Karla,Svejk Restaurant U Karla,0,布拉格01,0.0,0.0,0.0
+其他西餐,Franz Josef Restaurant,Franz Josef Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Casa de la Havana vieja,La Casa de la Havana vieja,0,布拉格01,0.0,0.0,0.0
+其他西餐,ADA Restaurant,ADA Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Druhej Svet,Restaurace Druhej Svet,0,布拉格01,0.0,0.0,0.0
+其他西餐,Lokal U Bile Kuzelky,Lokal U Bile Kuzelky,0,布拉格01,0.0,0.0,0.0
+其他西餐,DEN NOC,DEN NOC,0,布拉格01,0.0,0.0,0.0
+其他西餐,Letem svetem,Letem svetem,0,布拉格15,0.0,0.0,0.0
+其他西餐,Zubaty pes pub,Zubaty pes pub,0,布拉格10,0.0,0.0,0.0
+其他西餐,Restaurant U Zlate Konvice,Restaurant U Zlate Konvice,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Boca,La Boca,0,布拉格01,0.0,0.0,0.0
+其他西餐,Mlejnice,Mlejnice,0,布拉格01,0.0,0.0,0.0
+其他西餐,Mlejnice,Mlejnice,0,布拉格01,0.0,0.0,0.0
+其他西餐,Tavern U Krale Brabantskeho,Tavern U Krale Brabantskeho,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Semika,U Semika,0,布拉格02,0.0,0.0,0.0
+其他西餐,Kozlovna Apropos,Kozlovna Apropos,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kozlovna,Kozlovna,0,布拉格05,0.0,0.0,0.0
+其他西餐,Cestr,Cestr,0,布拉格01,0.0,0.0,0.0
+其他西餐,Zlata Praha,Zlata Praha,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Medvidku,U Medvidku,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Zavesenyho Kafe (The Hanging Cafe),U Zavesenyho Kafe (The Hanging Cafe),0,布拉格01,0.0,0.0,0.0
+其他西餐,Kafe U zelenych kamen,Kafe U zelenych kamen,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pod Slavinem,Pod Slavinem,0,布拉格02,0.0,0.0,0.0
+其他西餐,Kolonial,Kolonial,0,布拉格01,0.0,0.0,0.0
+其他西餐,Potrefena Husa,Potrefena Husa,0,布拉格02,0.0,0.0,0.0
+其他西餐,Lobkowicz Palace Cafe and Restaurant,Lobkowicz Palace Cafe and Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Svejk Restaurant,Svejk Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Svejk Restaurant U Brazdu,Svejk Restaurant U Brazdu,0,其他,0.0,0.0,0.0
+其他西餐,Potrefena husa Pankrac,Potrefena husa Pankrac,0,布拉格04,0.0,0.0,0.0
+其他西餐,Restaurace Hajnovka,Restaurace Hajnovka,0,布拉格02,0.0,0.0,0.0
+其他西餐,Creperie Cafe Girafe,Creperie Cafe Girafe,0,布拉格01,0.0,0.0,0.0
+其他西餐,Červená Sedma (Red Seven),Červená Sedma (Red Seven),0,布拉格01,0.0,0.0,0.0
+其他西餐,Kolkovna Budejovicka,Kolkovna Budejovicka,0,布拉格04,0.0,0.0,0.0
+其他西餐,BISOS,BISOS,0,布拉格03,0.0,0.0,0.0
+其他西餐,Rest.,Rest.,0,布拉格04,0.0,0.0,0.0
+其他西餐,"Nenasyta, Deli and Bistro","Nenasyta, Deli and Bistro",0,其他,0.0,0.0,0.0
+其他西餐,restaurace Jana Nepomuckeho,restaurace Jana Nepomuckeho,0,布拉格01,0.0,0.0,0.0
+其他西餐,Svejk Restaurant U zeleneho stromu,Svejk Restaurant U zeleneho stromu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Gourmet Club Restaurant,Gourmet Club Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Žofín Garden,Žofín Garden,0,布拉格01,0.0,0.0,0.0
+其他西餐,Potrefena Husa Hybernska,Potrefena Husa Hybernska,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Rotonde,La Rotonde,0,布拉格01,0.0,0.0,0.0
+其他西餐,Bily Konicek Restaurant,Bily Konicek Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Potrefena Husa Andel,Potrefena Husa Andel,0,其他,0.0,0.0,0.0
+其他西餐,Potrefena Husa,Potrefena Husa,0,布拉格01,0.0,0.0,0.0
+其他西餐,Paul,Paul,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurant Le Papillon at the Hotel Le Palais,Restaurant Le Papillon at the Hotel Le Palais,0,布拉格02,0.0,0.0,0.0
+其他西餐,Triton Restaurant,Triton Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Cerny Orel,Restaurace Cerny Orel,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hergetova Cihelna,Hergetova Cihelna,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Veranda,La Veranda,0,布拉格01,0.0,0.0,0.0
+其他西餐,Oliva Restaurant,Oliva Restaurant,0,布拉格02,0.0,0.0,0.0
+其他西餐,Amade Restaurant,Amade Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pilsner Urquell Original Restaurant Tradice,Pilsner Urquell Original Restaurant Tradice,0,布拉格05,0.0,0.0,0.0
+其他西餐,Restaurant Kolkovna,Restaurant Kolkovna,0,布拉格01,0.0,0.0,0.0
+其他西餐,Ceska hospudka Na Radnici,Ceska hospudka Na Radnici,0,其他,0.0,0.0,0.0
+其他西餐,Staroceska Krcma,Staroceska Krcma,0,布拉格01,0.0,0.0,0.0
+其他西餐,U modre kachnicky,U modre kachnicky,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kavarna Sudicka,Kavarna Sudicka,0,布拉格02,0.0,0.0,0.0
+其他西餐,U parasutistu,U parasutistu,0,布拉格02,0.0,0.0,0.0
+其他西餐,"Stredoveka Krcma, The Medieval Tavern","Stredoveka Krcma, The Medieval Tavern",0,布拉格01,0.0,0.0,0.0
+其他西餐,Vkolkovne,Vkolkovne,0,布拉格01,0.0,0.0,0.0
+其他西餐,Krystal Mozaika Bistro,Krystal Mozaika Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Kulatak (Pilsner Urquell Original Restaurant),Kulatak (Pilsner Urquell Original Restaurant),0,其他,0.0,0.0,0.0
+其他西餐,U Mikulase Dacickeho,U Mikulase Dacickeho,0,布拉格01,0.0,0.0,0.0
+其他西餐,Vinograf Wine Bar,Vinograf Wine Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,"Lokal Dlouha 33, 110 00 Praha 1","Lokal Dlouha 33, 110 00 Praha 1",0,布拉格01,0.0,0.0,0.0
+其他西餐,Renomme,Renomme,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Bileho Lva,U Bileho Lva,0,布拉格05,0.0,0.0,0.0
+其他西餐,Green Garden restaurant,Green Garden restaurant,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurace 22,Restaurace 22,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Kroka,U Kroka,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Cipu,U Cipu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurant OLSE,Restaurant OLSE,0,布拉格03,0.0,0.0,0.0
+其他西餐,PLATINA Restaurant & Garden,PLATINA Restaurant & Garden,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Templaru,U Templaru,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Dvou Srdci,U Dvou Srdci,0,布拉格01,0.0,0.0,0.0
+其他西餐,"John Lennon Pub, Prague","John Lennon Pub, Prague",0,布拉格01,0.0,0.0,0.0
+其他西餐,Vidlicky A Noze,Vidlicky A Noze,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Betlemske kaple,U Betlemske kaple,0,布拉格01,0.0,0.0,0.0
+其他西餐,Ambiente Lokal,Ambiente Lokal,0,布拉格01,0.0,0.0,0.0
+其他西餐,Terasa u Zlate Studne,Terasa u Zlate Studne,0,布拉格01,0.0,0.0,0.0
+其他西餐,Altany Kampa,Altany Kampa,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Mozart,Cafe Mozart,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurant Zlatý Klas,Restaurant Zlatý Klas,0,布拉格05,0.0,0.0,0.0
+其他西餐,Universal,Universal,0,布拉格01,0.0,0.0,0.0
+其他西餐,Ferdinanda,Ferdinanda,0,布拉格01,0.0,0.0,0.0
+其他西餐,Grand Cafe Orient,Grand Cafe Orient,0,布拉格01,0.0,0.0,0.0
+其他西餐,School Restaurant and Lounge,School Restaurant and Lounge,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe Ermitage,Cafe Ermitage,0,布拉格02,0.0,0.0,0.0
+其他西餐,Pushkin Restaurant,Pushkin Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kavarna U Tyna,Kavarna U Tyna,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kulovy blesk,Kulovy blesk,0,其他,0.0,0.0,0.0
+其他西餐,Kolkovna Celnice,Kolkovna Celnice,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace U Malého Berlína,Restaurace U Malého Berlína,0,布拉格07,0.0,0.0,0.0
+其他西餐,U Tri Bojovniku,U Tri Bojovniku,0,布拉格02,0.0,0.0,0.0
+其他西餐,Krusta Bakery,Krusta Bakery,0,布拉格01,0.0,0.0,0.0
+其他西餐,Dish - fine burger bistro,Dish - fine burger bistro,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Kozla,U Kozla,0,布拉格03,0.0,0.0,0.0
+其他西餐,Zly Casy.,Zly Casy.,0,布拉格04,0.0,0.0,0.0
+其他西餐,Restaurant Sklepeni,Restaurant Sklepeni,0,其他,0.0,0.0,0.0
+其他西餐,U Zpevacku,U Zpevacku,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe Lounge,Cafe Lounge,0,布拉格01,0.0,0.0,0.0
+其他西餐,Konirna,Konirna,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Kaspara,U Kaspara,0,布拉格02,0.0,0.0,0.0
+其他西餐,Na Vandru,Na Vandru,0,布拉格03,0.0,0.0,0.0
+其他西餐,U Zlate Hrusky,U Zlate Hrusky,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Zizniveho jelena,U Zizniveho jelena,0,布拉格05,0.0,0.0,0.0
+其他西餐,Havelska Koruna,Havelska Koruna,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Magistra Kelly,U Magistra Kelly,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Tri Houslicek,U Tri Houslicek,0,布拉格01,0.0,0.0,0.0
+其他西餐,Staropramen Brewery Restaurant,Staropramen Brewery Restaurant,0,布拉格05,0.0,0.0,0.0
+其他西餐,El Barrio de Andel,El Barrio de Andel,0,布拉格05,0.0,0.0,0.0
+其他西餐,U Kapitana,U Kapitana,0,其他,0.0,0.0,0.0
+其他西餐,Praga,Praga,0,布拉格01,0.0,0.0,0.0
+其他西餐,The Strahov Monastic Brewery (Klasterni Pivovar),The Strahov Monastic Brewery (Klasterni Pivovar),0,布拉格01,0.0,0.0,0.0
+其他西餐,Hany Bany,Hany Bany,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Knihovny,U Knihovny,0,布拉格01,0.0,0.0,0.0
+其他西餐,cukrkavalimonada,cukrkavalimonada,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace Stoleti,Restaurace Stoleti,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Zlateho Tygra,U Zlateho Tygra,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Zlateho Lva,U Zlateho Lva,0,布拉格01,0.0,0.0,0.0
+其他西餐,Krcma,Krcma,0,布拉格01,0.0,0.0,0.0
+其他西餐,Vinarna Puskin,Vinarna Puskin,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Mecenase,U Mecenase,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kocar z VidnE ( Kutsche aus Wien),Kocar z VidnE ( Kutsche aus Wien),0,布拉格01,0.0,0.0,0.0
+其他西餐,Baracnicka Rychta,Baracnicka Rychta,0,布拉格01,0.0,0.0,0.0
+其他西餐,Absinthe Time,Absinthe Time,0,布拉格02,0.0,0.0,0.0
+其他西餐,Mailsi,Mailsi,0,布拉格03,0.0,0.0,0.0
+其他西餐,Restaurant Pod Vezi,Restaurant Pod Vezi,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Pravdu,U Pravdu,0,布拉格02,0.0,0.0,0.0
+其他西餐,Pivnice Stupartska,Pivnice Stupartska,0,布拉格01,0.0,0.0,0.0
+其他西餐,U magistra Kelly,U magistra Kelly,0,布拉格01,0.0,0.0,0.0
+其他西餐,U tri zlatych lvu,U tri zlatych lvu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Apostila,Apostila,0,布拉格01,0.0,0.0,0.0
+其他西餐,The PUB - Praha 2,The PUB - Praha 2,0,布拉格01,0.0,0.0,0.0
+其他西餐,Nota Bene,Nota Bene,0,布拉格02,0.0,0.0,0.0
+其他西餐,Cafe Victoria,Cafe Victoria,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Ostrovni,Restaurace Ostrovni,0,布拉格01,0.0,0.0,0.0
+其他西餐,Jama Steakhouse,Jama Steakhouse,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Sudu,U Sudu,0,布拉格02,0.0,0.0,0.0
+其他西餐,Cesky Raj,Cesky Raj,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kotleta Staromestske namesti,Kotleta Staromestske namesti,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Vodoucha,U Vodoucha,0,布拉格03,0.0,0.0,0.0
+其他西餐,La Terrassa,La Terrassa,0,布拉格05,0.0,0.0,0.0
+其他西餐,Room,Room,0,布拉格01,0.0,0.0,0.0
+其他西餐,O'Che's bar,O'Che's bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Mlynare,U Mlynare,0,布拉格01,0.0,0.0,0.0
+其他西餐,Palanda,Palanda,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kofein,Kofein,0,布拉格02,0.0,0.0,0.0
+其他西餐,Porto Cafe Restaurant,Porto Cafe Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Avantgarde,Avantgarde,0,其他,0.0,0.0,0.0
+其他西餐,U Rumpalu,U Rumpalu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Beer Factory,Beer Factory,0,布拉格01,0.0,0.0,0.0
+其他西餐,The Steakhouse mama lucy,The Steakhouse mama lucy,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Na Rychte,Restaurace Na Rychte,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurace NA PLANI,Restaurace NA PLANI,0,布拉格04,0.0,0.0,0.0
+其他西餐,Resaurance Nebozizek,Resaurance Nebozizek,0,布拉格01,0.0,0.0,0.0
+其他西餐,kavarna Adria,kavarna Adria,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Nostitz,Restaurace Nostitz,0,布拉格01,0.0,0.0,0.0
+其他西餐,Staroprazska Galerie,Staroprazska Galerie,0,布拉格01,0.0,0.0,0.0
+其他西餐,Stejkarna,Stejkarna,0,布拉格07,0.0,0.0,0.0
+其他西餐,U Zelene Brany,U Zelene Brany,0,布拉格01,0.0,0.0,0.0
+其他西餐,Triton,Triton,0,其他,0.0,0.0,0.0
+其他西餐,Cortez Restaurant,Cortez Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,"Asylum bar, restaurant & chill out","Asylum bar, restaurant & chill out",0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace U Šumavy,Restaurace U Šumavy,0,布拉格02,0.0,0.0,0.0
+其他西餐,Batalion,Batalion,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hybernia,Hybernia,0,布拉格01,0.0,0.0,0.0
+其他西餐,Staromacek I,Staromacek I,0,布拉格01,0.0,0.0,0.0
+其他西餐,Shorty's Fast Food Cafe,Shorty's Fast Food Cafe,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pizzerie Mediterane,Pizzerie Mediterane,0,布拉格05,0.0,0.0,0.0
+其他西餐,Vojanuv Dvur,Vojanuv Dvur,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pilsner Urquell Cafe,Pilsner Urquell Cafe,0,布拉格01,0.0,0.0,0.0
+其他西餐,Dvur Restaurant,Dvur Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Sklenik,Restaurace Sklenik,0,布拉格04,0.0,0.0,0.0
+其他西餐,Foodbar & Lounge Cafe,Foodbar & Lounge Cafe,0,布拉格01,0.0,0.0,0.0
+其他西餐,Potrofena Husa,Potrofena Husa,0,其他,0.0,0.0,0.0
+其他西餐,Sherwood's Restaurant,Sherwood's Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Innuendo Prohibition Bar,Innuendo Prohibition Bar,0,其他,0.0,0.0,0.0
+其他西餐,U Dvou Kocek,U Dvou Kocek,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Dudaka,U Dudaka,0,布拉格03,0.0,0.0,0.0
+其他西餐,U Knezny Libuse,U Knezny Libuse,0,布拉格04,0.0,0.0,0.0
+其他西餐,CD Restaurant,CD Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Potrefena Husa,Potrefena Husa,0,布拉格11,0.0,0.0,0.0
+其他西餐,coolna,coolna,0,布拉格04,0.0,0.0,0.0
+其他西餐,U Modre Ruze,U Modre Ruze,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Kocku,U Kocku,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Sedleru,U Sedleru,0,布拉格02,0.0,0.0,0.0
+其他西餐,Malostranska Pivnice,Malostranska Pivnice,0,布拉格01,0.0,0.0,0.0
+其他西餐,Vanity Cafe & Cocktail Bar,Vanity Cafe & Cocktail Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,V Naplavni,V Naplavni,0,布拉格02,0.0,0.0,0.0
+其他西餐,Grill R Bar,Grill R Bar,0,布拉格11,0.0,0.0,0.0
+其他西餐,Hodovna,Hodovna,0,布拉格03,0.0,0.0,0.0
+其他西餐,Pierre Paul Jacques Bar & Vins,Pierre Paul Jacques Bar & Vins,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe-Restaurant Esprit Orangerie,Cafe-Restaurant Esprit Orangerie,0,布拉格04,0.0,0.0,0.0
+其他西餐,Soup in the City,Soup in the City,0,布拉格01,0.0,0.0,0.0
+其他西餐,Papas Bar Restaurant,Papas Bar Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Lichfield Restaurant,Lichfield Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,architects club,architects club,0,其他,0.0,0.0,0.0
+其他西餐,Zinc Lounge & Bar,Zinc Lounge & Bar,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace U Deloveho Krize,Restaurace U Deloveho Krize,0,布拉格01,0.0,0.0,0.0
+其他西餐,Bistro Deli and Bakery,Bistro Deli and Bakery,0,布拉格01,0.0,0.0,0.0
+其他西餐,Suteren,Suteren,0,布拉格01,0.0,0.0,0.0
+其他西餐,Meduzzy,Meduzzy,0,布拉格01,0.0,0.0,0.0
+其他西餐,Vytopna Railway Restaurant,Vytopna Railway Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Mad Bar,Mad Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Trilobit,Restaurace Trilobit,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Monarchie,Restaurace Monarchie,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Seminaristy,U Seminaristy,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hospoda v Lucerne,Hospoda v Lucerne,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Balbinu,U Balbinu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Bella Vida Cafe,Bella Vida Cafe,0,布拉格01,0.0,0.0,0.0
+其他西餐,BONVIVANT's CTC,BONVIVANT's CTC,0,布拉格01,0.0,0.0,0.0
+其他西餐,Bar Bar,Bar Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Luka Lu,Luka Lu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Prazsky most u Valsu,Prazsky most u Valsu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Petrinsky Terasy,Petrinsky Terasy,0,布拉格01,0.0,0.0,0.0
+其他西餐,Tempo Allegro,Tempo Allegro,0,布拉格01,0.0,0.0,0.0
+其他西餐,Atmosphere,Atmosphere,0,布拉格01,0.0,0.0,0.0
+其他西餐,Michal Restaurant,Michal Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Chillilili,Chillilili,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Stare Pani,U Stare Pani,0,布拉格01,0.0,0.0,0.0
+其他西餐,Zvonice,Zvonice,0,布拉格01,0.0,0.0,0.0
+其他西餐,Whiskeria,Whiskeria,0,布拉格01,0.0,0.0,0.0
+其他西餐,Karavella,Karavella,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Tri Ruzi,U Tri Ruzi,0,布拉格01,0.0,0.0,0.0
+其他西餐,Caffrey's Irish Pub,Caffrey's Irish Pub,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Dvou Sester,U Dvou Sester,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace V Cipu,Restaurace V Cipu,0,布拉格01,0.0,0.0,0.0
+其他西餐,El Centro,El Centro,0,布拉格01,0.0,0.0,0.0
+其他西餐,Tlusta Koala,Tlusta Koala,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cukr Kava Limonada,Cukr Kava Limonada,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace ,Restaurace ,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Maltezskych rytiru (At Knights of Malta),U Maltezskych rytiru (At Knights of Malta),0,布拉格01,0.0,0.0,0.0
+其他西餐,U Maleho Glena,U Maleho Glena,0,布拉格01,0.0,0.0,0.0
+其他西餐,Klasterni Pivovar Strahov,Klasterni Pivovar Strahov,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurant Rott,Restaurant Rott,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Stare Studny,U Stare Studny,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Pavouka,U Pavouka,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kaficko,Kaficko,0,布拉格01,0.0,0.0,0.0
+其他西餐,George & Dragon Pub,George & Dragon Pub,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kavarna Modry Orel,Kavarna Modry Orel,0,布拉格01,0.0,0.0,0.0
+其他西餐,The Dubliner,The Dubliner,0,布拉格01,0.0,0.0,0.0
+其他西餐,Nostalgie,Nostalgie,0,布拉格01,0.0,0.0,0.0
+其他西餐,RYBI TRH Restaurant Fish Market,RYBI TRH Restaurant Fish Market,0,布拉格01,0.0,0.0,0.0
+其他西餐,tavern of seven Swabians,tavern of seven Swabians,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Sedmi Svabu,U Sedmi Svabu,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Cerneho vola,U Cerneho vola,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Bodeguita del Medio,La Bodeguita del Medio,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurant u Certa,Restaurant u Certa,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cerny Jelen,Cerny Jelen,0,布拉格01,0.0,0.0,0.0
+其他西餐,The Three Fiddles,The Three Fiddles,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe Salmovsky Palac,Cafe Salmovsky Palac,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Hrocha,U Hrocha,0,布拉格01,0.0,0.0,0.0
+其他西餐,Waldstejnska Hospoda,Waldstejnska Hospoda,0,布拉格01,0.0,0.0,0.0
+其他西餐,Crystal Bar and Restaurant,Crystal Bar and Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kotleta namesti Republiky,Kotleta namesti Republiky,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hotel Josef,Hotel Josef,0,布拉格01,0.0,0.0,0.0
+其他西餐,Barock,Barock,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace U Benedikta,Restaurace U Benedikta,0,布拉格01,0.0,0.0,0.0
+其他西餐,Palffy Palac Club,Palffy Palac Club,0,布拉格01,0.0,0.0,0.0
+其他西餐,Katr Restaurant,Katr Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Casa Argentina,La Casa Argentina,0,布拉格01,0.0,0.0,0.0
+其他西餐,James Joyce,James Joyce,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kosher Restaruant Dinitz,Kosher Restaruant Dinitz,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Degustation,La Degustation,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Casa Blu,La Casa Blu,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Sadlu Restaurant,U Sadlu Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Degustation Boheme bourgeoise,Degustation Boheme bourgeoise,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pravek,Pravek,0,布拉格02,0.0,0.0,0.0
+其他西餐,Radost FX,Radost FX,0,布拉格02,0.0,0.0,0.0
+其他西餐,Potrefena Husa Albertov,Potrefena Husa Albertov,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurace Pod Vysehradem,Restaurace Pod Vysehradem,0,布拉格02,0.0,0.0,0.0
+其他西餐,Bar & Restaurant U dobre myslenky,Bar & Restaurant U dobre myslenky,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Webru,U Webru,0,布拉格02,0.0,0.0,0.0
+其他西餐,Sapori,Sapori,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Bulinu,U Bulinu,0,布拉格02,0.0,0.0,0.0
+其他西餐,na brezance,na brezance,0,布拉格02,0.0,0.0,0.0
+其他西餐,Mlsnej Kocour,Mlsnej Kocour,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurant 2kk bar,Restaurant 2kk bar,0,布拉格02,0.0,0.0,0.0
+其他西餐,Vinohradsky Parlament,Vinohradsky Parlament,0,布拉格02,0.0,0.0,0.0
+其他西餐,Singidunum,Singidunum,0,布拉格02,0.0,0.0,0.0
+其他西餐,Sahara Cafe,Sahara Cafe,0,布拉格02,0.0,0.0,0.0
+其他西餐,Kavarenska restaurace Chudoba,Kavarenska restaurace Chudoba,0,布拉格02,0.0,0.0,0.0
+其他西餐,Los v Oslu,Los v Oslu,0,布拉格02,0.0,0.0,0.0
+其他西餐,Karluv Sklep,Karluv Sklep,0,布拉格02,0.0,0.0,0.0
+其他西餐,Muj Salek Kavy,Muj Salek Kavy,0,布拉格02,0.0,0.0,0.0
+其他西餐,Taverna Olympos,Taverna Olympos,0,布拉格03,0.0,0.0,0.0
+其他西餐,U Houdku,U Houdku,0,布拉格03,0.0,0.0,0.0
+其他西餐,Yes Burger,Yes Burger,0,布拉格03,0.0,0.0,0.0
+其他西餐,Restaurace Pod Viktorkou,Restaurace Pod Viktorkou,0,布拉格03,0.0,0.0,0.0
+其他西餐,Restaurant Sklep,Restaurant Sklep,0,布拉格03,0.0,0.0,0.0
+其他西餐,Restaurace Spirit Bar,Restaurace Spirit Bar,0,布拉格03,0.0,0.0,0.0
+其他西餐,Pardubicka Pivnice U Jary,Pardubicka Pivnice U Jary,0,布拉格03,0.0,0.0,0.0
+其他西餐,Folklore Garden,Folklore Garden,0,布拉格05,0.0,0.0,0.0
+其他西餐,Na Kopci,Na Kopci,0,布拉格05,0.0,0.0,0.0
+其他西餐,Botel Admiral,Botel Admiral,0,布拉格05,0.0,0.0,0.0
+其他西餐,Chateau St. Havel Restaurant,Chateau St. Havel Restaurant,0,布拉格04,0.0,0.0,0.0
+其他西餐,Klasterni senk,Klasterni senk,0,其他,0.0,0.0,0.0
+其他西餐,Karlinsky Mlyn,Karlinsky Mlyn,0,其他,0.0,0.0,0.0
+其他西餐,U Veverky (Plzensky sklipek),U Veverky (Plzensky sklipek),0,其他,0.0,0.0,0.0
+其他西餐,Jurecek,Jurecek,0,其他,0.0,0.0,0.0
+其他西餐,U Chlupatyho Ducha,U Chlupatyho Ducha,0,,0.0,0.0,0.0
+其他西餐,U Slamu,U Slamu,0,布拉格10,0.0,0.0,0.0
+其他西餐,Letensky zamecek,Letensky zamecek,0,布拉格07,0.0,0.0,0.0
+其他西餐,Restaurace Korbel,Restaurace Korbel,0,布拉格07,0.0,0.0,0.0
+其他西餐,Pisecka Brana Cafe Gallerie,Pisecka Brana Cafe Gallerie,0,布拉格01,0.0,0.0,0.0
+其他西餐,Na PEsinach,Na PEsinach,0,其他,0.0,0.0,0.0
+其他西餐,Jeruzalemske,Jeruzalemske,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace U ztracenych klicu,Restaurace U ztracenych klicu,0,布拉格02,0.0,0.0,0.0
+其他西餐,7 Angels,7 Angels,0,布拉格01,0.0,0.0,0.0
+其他西餐,Borsky Gasto,Borsky Gasto,0,其他,0.0,0.0,0.0
+其他西餐,Cerveny Lev Restaurant,Cerveny Lev Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Sultan,Restaurace Sultan,0,布拉格01,0.0,0.0,0.0
+其他西餐,Uvejvodu,Uvejvodu,0,其他,0.0,0.0,0.0
+其他西餐,Plzenska restaurace Zubajda,Plzenska restaurace Zubajda,0,布拉格01,0.0,0.0,0.0
+其他西餐,"U Bubeníčků , , Praha","U Bubeníčků , , Praha",0,布拉格01,0.0,0.0,0.0
+其他西餐,Titanic,Titanic,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe Nostalgicka Mys,Cafe Nostalgicka Mys,0,布拉格01,0.0,0.0,0.0
+其他西餐,Propaganda Pub,Propaganda Pub,0,布拉格01,0.0,0.0,0.0
+其他西餐,Therapy,Therapy,0,布拉格01,0.0,0.0,0.0
+其他西餐,Novomestsky Pivovar Restaurant & Brewery,Novomestsky Pivovar Restaurant & Brewery,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Sroubku,U Sroubku,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hospoda U Novaka,Hospoda U Novaka,0,布拉格01,0.0,0.0,0.0
+其他西餐,Mlsna Koza,Mlsna Koza,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace a vinoteka Zlaty had,Restaurace a vinoteka Zlaty had,0,布拉格01,0.0,0.0,0.0
+其他西餐,Fama Restaurant & Bar,Fama Restaurant & Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Praha 1,Praha 1,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pivnice U Lazanskych,Pivnice U Lazanskych,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Sveiku,U Sveiku,0,布拉格01,0.0,0.0,0.0
+其他西餐,Praga piazza san venceslao,Praga piazza san venceslao,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Bastille,La Bastille,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hostinec U Rotundy,Hostinec U Rotundy,0,布拉格01,0.0,0.0,0.0
+其他西餐,Tlusta Mys,Tlusta Mys,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Konvikt,Restaurace Konvikt,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Pinkasu,U Pinkasu,0,布拉格01,0.0,0.0,0.0
+其他西餐,u3r. Cz,u3r. Cz,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe Valentino,Cafe Valentino,0,布拉格01,0.0,0.0,0.0
+其他西餐,Romantica,Romantica,0,布拉格01,0.0,0.0,0.0
+其他西餐,Blatnicka,Blatnicka,0,布拉格01,0.0,0.0,0.0
+其他西餐,Zlata Lyra,Zlata Lyra,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurant Mucha,Restaurant Mucha,0,布拉格01,0.0,0.0,0.0
+其他西餐,Sicily Cafe,Sicily Cafe,0,布拉格01,0.0,0.0,0.0
+其他西餐,V Cipu 2,V Cipu 2,0,布拉格01,0.0,0.0,0.0
+其他西餐,Archibald U Karlova Mostu (at the Charles Bridge),Archibald U Karlova Mostu (at the Charles Bridge),0,布拉格01,0.0,0.0,0.0
+其他西餐,Campanulla,Campanulla,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Svateho Vaclava,U Svateho Vaclava,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaruant Gitanes,Restaruant Gitanes,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Husa,U Husa,0,布拉格01,0.0,0.0,0.0
+其他西餐,Two Steps Bar,Two Steps Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,A Divadlo Pokracuje,A Divadlo Pokracuje,0,布拉格01,0.0,0.0,0.0
+其他西餐,Usupa,Usupa,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Patisserie,La Patisserie,0,布拉格01,0.0,0.0,0.0
+其他西餐,Ambiente Lokal,Ambiente Lokal,0,布拉格01,0.0,0.0,0.0
+其他西餐,Vysoky Dum 99,Vysoky Dum 99,0,布拉格01,0.0,0.0,0.0
+其他西餐,u tri zlatych hvezd,u tri zlatych hvezd,0,布拉格01,0.0,0.0,0.0
+其他西餐,Leone & Anna,Leone & Anna,0,布拉格01,0.0,0.0,0.0
+其他西餐,Mottobar,Mottobar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kellyxir,Kellyxir,0,布拉格01,0.0,0.0,0.0
+其他西餐,Gurman Flint,Gurman Flint,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurant Le Saint-Tropez,Restaurant Le Saint-Tropez,0,布拉格01,0.0,0.0,0.0
+其他西餐,Caffery's Irish Bar,Caffery's Irish Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Sage Restaurant,Sage Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pivnice U Pivrnice,Pivnice U Pivrnice,0,布拉格01,0.0,0.0,0.0
+其他西餐,Santini,Santini,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Svobodnych zadnaru,U Svobodnych zadnaru,0,布拉格01,0.0,0.0,0.0
+其他西餐,Crazy Cow Steakhouse,Crazy Cow Steakhouse,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Broncu,U Broncu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Plzenka,Restaurace Plzenka,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Casa del Habano,La Casa del Habano,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace U Vltavy,Restaurace U Vltavy,0,布拉格01,0.0,0.0,0.0
+其他西餐,Molly Malone's,Molly Malone's,0,布拉格01,0.0,0.0,0.0
+其他西餐,V Polich,V Polich,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurant U Kozlika,Restaurant U Kozlika,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurace Ostruvek,Restaurace Ostruvek,0,布拉格02,0.0,0.0,0.0
+其他西餐,RBG Bar & Grill Prague,RBG Bar & Grill Prague,0,布拉格02,0.0,0.0,0.0
+其他西餐,Krok Zpet,Krok Zpet,0,布拉格02,0.0,0.0,0.0
+其他西餐,Merlin Irish Pub,Merlin Irish Pub,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurace Orisek,Restaurace Orisek,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Dedka,U Dedka,0,布拉格02,0.0,0.0,0.0
+其他西餐,Hlucna samota,Hlucna samota,0,布拉格02,0.0,0.0,0.0
+其他西餐,Kavarna Zanzibar,Kavarna Zanzibar,0,布拉格02,0.0,0.0,0.0
+其他西餐,Neklid restaurant,Neklid restaurant,0,布拉格02,0.0,0.0,0.0
+其他西餐,Vinarna VINECKO,Vinarna VINECKO,0,布拉格02,0.0,0.0,0.0
+其他西餐,Jiny Stav,Jiny Stav,0,布拉格02,0.0,0.0,0.0
+其他西餐,Cafe Lounge Marrakesh,Cafe Lounge Marrakesh,0,布拉格02,0.0,0.0,0.0
+其他西餐,Resturant Vltava,Resturant Vltava,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Houmra,U Houmra,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Graffu,U Graffu,0,布拉格02,0.0,0.0,0.0
+其他西餐,Ola Kala,Ola Kala,0,布拉格02,0.0,0.0,0.0
+其他西餐,Bar U Vocka,Bar U Vocka,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Havrana,U Havrana,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurace u matejicku,Restaurace u matejicku,0,布拉格02,0.0,0.0,0.0
+其他西餐,Sklipek u Munku,Sklipek u Munku,0,布拉格02,0.0,0.0,0.0
+其他西餐,Al Cafetero,Al Cafetero,0,布拉格02,0.0,0.0,0.0
+其他西餐,U tri prasatek,U tri prasatek,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Parlere,U Parlere,0,布拉格02,0.0,0.0,0.0
+其他西餐,Bila Vrana,Bila Vrana,0,布拉格03,0.0,0.0,0.0
+其他西餐,Kopyto,Kopyto,0,布拉格03,0.0,0.0,0.0
+其他西餐,Bukowski's Bar,Bukowski's Bar,0,布拉格03,0.0,0.0,0.0
+其他西餐,U Krouzku,U Krouzku,0,布拉格03,0.0,0.0,0.0
+其他西餐,Pivovar Victor,Pivovar Victor,0,布拉格03,0.0,0.0,0.0
+其他西餐,Restaurace Zalezitost,Restaurace Zalezitost,0,布拉格03,0.0,0.0,0.0
+其他西餐,Jelica Biorgurmania,Jelica Biorgurmania,0,布拉格05,0.0,0.0,0.0
+其他西餐,U peronu,U peronu,0,布拉格05,0.0,0.0,0.0
+其他西餐,Le Lapin Bleu,Le Lapin Bleu,0,布拉格05,0.0,0.0,0.0
+其他西餐,Magnum Club & Restaurant,Magnum Club & Restaurant,0,布拉格05,0.0,0.0,0.0
+其他西餐,Restaurace Pivovarska Basta,Restaurace Pivovarska Basta,0,布拉格04,0.0,0.0,0.0
+其他西餐,Old Bohemian Restaurant,Old Bohemian Restaurant,0,布拉格04,0.0,0.0,0.0
+其他西餐,Podolka Yacht Club Cere,Podolka Yacht Club Cere,0,布拉格04,0.0,0.0,0.0
+其他西餐,Grosseto Pizzeria Ristorante Brumlovka,Grosseto Pizzeria Ristorante Brumlovka,0,布拉格04,0.0,0.0,0.0
+其他西餐,Josefina,Josefina,0,布拉格04,0.0,0.0,0.0
+其他西餐,Restaurace U Havlicku,Restaurace U Havlicku,0,布拉格04,0.0,0.0,0.0
+其他西餐,Vysehradsky Restaurant Kandelabr,Vysehradsky Restaurant Kandelabr,0,布拉格04,0.0,0.0,0.0
+其他西餐,Pizza West,Pizza West,0,布拉格04,0.0,0.0,0.0
+其他西餐,Na konci,Na konci,0,其他,0.0,0.0,0.0
+其他西餐,school restaurant prague,school restaurant prague,0,其他,0.0,0.0,0.0
+其他西餐,Cesky svet,Cesky svet,0,其他,0.0,0.0,0.0
+其他西餐,U klastera,U klastera,0,其他,0.0,0.0,0.0
+其他西餐,U vystrelenyho oka,U vystrelenyho oka,0,其他,0.0,0.0,0.0
+其他西餐,U Mrtvyho Ptaka,U Mrtvyho Ptaka,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace U Marcanu,Restaurace U Marcanu,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace U Stare cesty,Restaurace U Stare cesty,0,其他,0.0,0.0,0.0
+其他西餐,Karlinska pub,Karlinska pub,0,其他,0.0,0.0,0.0
+其他西餐,U Zábranských,U Zábranských,0,其他,0.0,0.0,0.0
+其他西餐,Amfora,Amfora,0,其他,0.0,0.0,0.0
+其他西餐,VELTLIN,VELTLIN,0,其他,0.0,0.0,0.0
+其他西餐,Polevkarna,Polevkarna,0,其他,0.0,0.0,0.0
+其他西餐,U Krala B.,U Krala B.,0,其他,0.0,0.0,0.0
+其他西餐,Na Rozhrani,Na Rozhrani,0,其他,0.0,0.0,0.0
+其他西餐,Na Slamniku,Na Slamniku,0,其他,0.0,0.0,0.0
+其他西餐,Auberge de Provence,Auberge de Provence,0,其他,0.0,0.0,0.0
+其他西餐,Na Pekarne,Na Pekarne,0,其他,0.0,0.0,0.0
+其他西餐,Potrefena Husa Bohnice,Potrefena Husa Bohnice,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace Kozlovna,Restaurace Kozlovna,0,布拉格10,0.0,0.0,0.0
+其他西餐,Mon Ami,Mon Ami,0,布拉格10,0.0,0.0,0.0
+其他西餐,U kormidla ( At the helm ),U kormidla ( At the helm ),0,布拉格10,0.0,0.0,0.0
+其他西餐,Bistro 8,Bistro 8,0,布拉格07,0.0,0.0,0.0
+其他西餐,Domazlicka Jizba,Domazlicka Jizba,0,布拉格07,0.0,0.0,0.0
+其他西餐,Nad Kralovskou Oborou,Nad Kralovskou Oborou,0,布拉格07,0.0,0.0,0.0
+其他西餐,Pivovar Marina- Brewery Marina,Pivovar Marina- Brewery Marina,0,布拉格07,0.0,0.0,0.0
+其他西餐,Lokal u Zavadilu,Lokal u Zavadilu,0,布拉格11,0.0,0.0,0.0
+其他西餐,Stare Casy,Stare Casy,0,布拉格11,0.0,0.0,0.0
+其他西餐,jihomestsky pivovar,jihomestsky pivovar,0,布拉格11,0.0,0.0,0.0
+其他西餐,Pivovar Hostivar,Pivovar Hostivar,0,布拉格15,0.0,0.0,0.0
+其他西餐,Port 62,Port 62,0,布拉格12,0.0,0.0,0.0
+其他西餐,Piano Terra,Piano Terra,0,其他,0.0,0.0,0.0
+其他西餐,Globe,Globe,0,其他,0.0,0.0,0.0
+其他西餐,U Zlatych Rucicek,U Zlatych Rucicek,0,其他,0.0,0.0,0.0
+其他西餐,Paneria,Paneria,0,其他,0.0,0.0,0.0
+其他西餐,U Slabe Vule,U Slabe Vule,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace Na Melniku,Restaurace Na Melniku,0,其他,0.0,0.0,0.0
+其他西餐,Caffe 5,Caffe 5,0,布拉格01,0.0,0.0,0.0
+其他西餐,El Arriero,El Arriero,0,布拉格01,0.0,0.0,0.0
+其他西餐,"Made In Brasil, Cafe & Dance bar","Made In Brasil, Cafe & Dance bar",0,布拉格01,0.0,0.0,0.0
+其他西餐,Vesmirna,Vesmirna,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Kalicha,U Kalicha,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe Royal,Cafe Royal,0,布拉格01,0.0,0.0,0.0
+其他西餐,Nebe Kremencova Bar,Nebe Kremencova Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Ve Smeckach 26,Restaurace Ve Smeckach 26,0,布拉格01,0.0,0.0,0.0
+其他西餐,Prazsky Dvur,Prazsky Dvur,0,布拉格01,0.0,0.0,0.0
+其他西餐,Becher Club,Becher Club,0,布拉格01,0.0,0.0,0.0
+其他西餐,los optimisticos,los optimisticos,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Kotvy Adr. Spalena,U Kotvy Adr. Spalena,0,布拉格01,0.0,0.0,0.0
+其他西餐,Ultramarin,Ultramarin,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hospoda U Kruhu,Hospoda U Kruhu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pizzeria Coloseum,Pizzeria Coloseum,0,布拉格01,0.0,0.0,0.0
+其他西餐,Gecko Bar,Gecko Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Balouna,U Balouna,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Stare Posty,U Stare Posty,0,布拉格01,0.0,0.0,0.0
+其他西餐,Tingl Tangl Restaurant,Tingl Tangl Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Rybarsky Klub,Rybarsky Klub,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Dvou Kocek,U Dvou Kocek,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Jelinka,U Jelinka,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hoverla,Hoverla,0,布拉格01,0.0,0.0,0.0
+其他西餐,U MACHTU s.r.o,U MACHTU s.r.o,0,布拉格01,0.0,0.0,0.0
+其他西餐,Bloody Freddy Bar,Bloody Freddy Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Havelak,Havelak,0,布拉格01,0.0,0.0,0.0
+其他西餐,U karlova mostu,U karlova mostu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe bar Nad Certovkou,Cafe bar Nad Certovkou,0,布拉格01,0.0,0.0,0.0
+其他西餐,Vinny Bar Restaurant,Vinny Bar Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Modreno Hroznu,U Modreno Hroznu,0,布拉格01,0.0,0.0,0.0
+其他西餐,u cerveneho taka,u cerveneho taka,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Klementinum,Restaurace Klementinum,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hospoda Na Stare,Hospoda Na Stare,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pivnice Na Ovocném Trhu,Pivnice Na Ovocném Trhu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Narodni Banka Vin,Narodni Banka Vin,0,布拉格01,0.0,0.0,0.0
+其他西餐,Grand Cafe,Grand Cafe,0,布拉格01,0.0,0.0,0.0
+其他西餐,Corsair bar,Corsair bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Creme Caffé Il Balcone,Creme Caffé Il Balcone,0,布拉格01,0.0,0.0,0.0
+其他西餐,Fornetti Caffe,Fornetti Caffe,0,布拉格01,0.0,0.0,0.0
+其他西餐,Aristo Restaurant,Aristo Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hotel Hastal Restaurant & Cocktail Bar,Hotel Hastal Restaurant & Cocktail Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Caffetteria & Restaurant Giuseppe,Caffetteria & Restaurant Giuseppe,0,布拉格01,0.0,0.0,0.0
+其他西餐,Old bohemian,Old bohemian,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Zlatych nuzek,U Zlatych nuzek,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe Vogue,Cafe Vogue,0,布拉格01,0.0,0.0,0.0
+其他西餐,Wallachian pub restaurant,Wallachian pub restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Coco Cafe Disco Bar,Coco Cafe Disco Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Nad Uvozem,Restaurace Nad Uvozem,0,布拉格01,0.0,0.0,0.0
+其他西餐,Doka Coffee Café,Doka Coffee Café,0,布拉格01,0.0,0.0,0.0
+其他西餐,Nerudovka,Nerudovka,0,布拉格01,0.0,0.0,0.0
+其他西餐,Zlata Hvezda (Golden Star),Zlata Hvezda (Golden Star),0,布拉格01,0.0,0.0,0.0
+其他西餐,U Golema,U Golema,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Dvou Sluncu,U Dvou Sluncu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace V Podhradi,Restaurace V Podhradi,0,布拉格01,0.0,0.0,0.0
+其他西餐,Aureus Clavis,Aureus Clavis,0,布拉格01,0.0,0.0,0.0
+其他西餐,Bar 1887,Bar 1887,0,布拉格01,0.0,0.0,0.0
+其他西餐,Terasa Anker- T-Anker,Terasa Anker- T-Anker,0,布拉格01,0.0,0.0,0.0
+其他西餐,King Solomon - Glatt Kosher Restaurant,King Solomon - Glatt Kosher Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hotel Atlantic,Hotel Atlantic,0,布拉格01,0.0,0.0,0.0
+其他西餐,Zakotvi,Zakotvi,0,布拉格01,0.0,0.0,0.0
+其他西餐,Repete Cocktail & Cafe Bar,Repete Cocktail & Cafe Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,restaurant Shalom,restaurant Shalom,0,布拉格01,0.0,0.0,0.0
+其他西餐,Follow Me Cafe Bar,Follow Me Cafe Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Steak Bar El Pablo,Steak Bar El Pablo,0,布拉格01,0.0,0.0,0.0
+其他西餐,B 13,B 13,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pizzerie Grosseto,Pizzerie Grosseto,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Filu,U Filu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurance Klementinum,Restaurance Klementinum,0,布拉格01,0.0,0.0,0.0
+其他西餐,MKoliba 4 Kameny,MKoliba 4 Kameny,0,布拉格01,0.0,0.0,0.0
+其他西餐,Vinarna U Svate Anezky,Vinarna U Svate Anezky,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Richtyků,U Richtyků,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hostinec U Suchy Dasne,Hostinec U Suchy Dasne,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurace U Holanu,Restaurace U Holanu,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurace U Draka,Restaurace U Draka,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Regenta,U Regenta,0,布拉格02,0.0,0.0,0.0
+其他西餐,Reset Bar,Reset Bar,0,布拉格02,0.0,0.0,0.0
+其他西餐,Blatouch,Blatouch,0,布拉格02,0.0,0.0,0.0
+其他西餐,Benada Restaurant,Benada Restaurant,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Strecu Budecska Vinorahdy,U Strecu Budecska Vinorahdy,0,布拉格02,0.0,0.0,0.0
+其他西餐,Ceska Restaurace,Ceska Restaurace,0,布拉格02,0.0,0.0,0.0
+其他西餐,Mezcal,Mezcal,0,布拉格02,0.0,0.0,0.0
+其他西餐,Cajovna u Dzoudyho,Cajovna u Dzoudyho,0,布拉格02,0.0,0.0,0.0
+其他西餐,Kavarna na Sumave,Kavarna na Sumave,0,布拉格02,0.0,0.0,0.0
+其他西餐,Pode Mostem,Pode Mostem,0,布拉格02,0.0,0.0,0.0
+其他西餐,Senkovna Fine Wine Pub,Senkovna Fine Wine Pub,0,布拉格02,0.0,0.0,0.0
+其他西餐,Bar Nota,Bar Nota,0,布拉格02,0.0,0.0,0.0
+其他西餐,Vinarna Orlik,Vinarna Orlik,0,布拉格02,0.0,0.0,0.0
+其他西餐,Slezska Rybarna in Hotel Arkada,Slezska Rybarna in Hotel Arkada,0,布拉格02,0.0,0.0,0.0
+其他西餐,Caffe Vescovi,Caffe Vescovi,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Kacire,U Kacire,0,布拉格02,0.0,0.0,0.0
+其他西餐,Restaurace U Svandrlika,Restaurace U Svandrlika,0,布拉格02,0.0,0.0,0.0
+其他西餐,Pasticka Kvelb & Pub,Pasticka Kvelb & Pub,0,布拉格02,0.0,0.0,0.0
+其他西餐,Goticky,Goticky,0,布拉格02,0.0,0.0,0.0
+其他西餐,U Sádlů II,U Sádlů II,0,布拉格02,0.0,0.0,0.0
+其他西餐,Na Krizovatce,Na Krizovatce,0,布拉格02,0.0,0.0,0.0
+其他西餐,Kavarna Muzeum,Kavarna Muzeum,0,布拉格02,0.0,0.0,0.0
+其他西餐,Bistro U Emprasu,Bistro U Emprasu,0,布拉格03,0.0,0.0,0.0
+其他西餐,Miminoo Garden Restaurant,Miminoo Garden Restaurant,0,布拉格03,0.0,0.0,0.0
+其他西餐,Restuarce U Kostela,Restuarce U Kostela,0,布拉格03,0.0,0.0,0.0
+其他西餐,Pivni Lokal Ostry,Pivni Lokal Ostry,0,布拉格03,0.0,0.0,0.0
+其他西餐,U Me,U Me,0,布拉格03,0.0,0.0,0.0
+其他西餐,Cafe-Sonia,Cafe-Sonia,0,布拉格03,0.0,0.0,0.0
+其他西餐,Rebellion,Rebellion,0,布拉格03,0.0,0.0,0.0
+其他西餐,Bambini Pizzeria & Ristorante,Bambini Pizzeria & Ristorante,0,布拉格03,0.0,0.0,0.0
+其他西餐,Certuv Mlyn,Certuv Mlyn,0,布拉格05,0.0,0.0,0.0
+其他西餐,U Svate Anny,U Svate Anny,0,布拉格05,0.0,0.0,0.0
+其他西餐,Restaurace na Dedine,Restaurace na Dedine,0,布拉格05,0.0,0.0,0.0
+其他西餐,Mount Steak Restaurant,Mount Steak Restaurant,0,布拉格05,0.0,0.0,0.0
+其他西餐,The Tunnel bar,The Tunnel bar,0,布拉格05,0.0,0.0,0.0
+其他西餐,P.O.U.R. Tradice,P.O.U.R. Tradice,0,布拉格05,0.0,0.0,0.0
+其他西餐,U Svateho Jana,U Svateho Jana,0,布拉格05,0.0,0.0,0.0
+其他西餐,U Buldoka,U Buldoka,0,布拉格05,0.0,0.0,0.0
+其他西餐,Hospudka ,Hospudka ,0,布拉格05,0.0,0.0,0.0
+其他西餐,Hostinec Ve mlyne,Hostinec Ve mlyne,0,布拉格04,0.0,0.0,0.0
+其他西餐,U Kastanu,U Kastanu,0,布拉格04,0.0,0.0,0.0
+其他西餐,il Primo Piatto,il Primo Piatto,0,布拉格04,0.0,0.0,0.0
+其他西餐,Pivnice Tancirna,Pivnice Tancirna,0,布拉格04,0.0,0.0,0.0
+其他西餐,Modry Bar Zlute lazne,Modry Bar Zlute lazne,0,布拉格04,0.0,0.0,0.0
+其他西餐,Na Stare Sokolovne,Na Stare Sokolovne,0,布拉格04,0.0,0.0,0.0
+其他西餐,Restaurace Studanka,Restaurace Studanka,0,布拉格04,0.0,0.0,0.0
+其他西餐,Podolska Kotva,Podolska Kotva,0,布拉格04,0.0,0.0,0.0
+其他西餐,Na Kvetnici,Na Kvetnici,0,布拉格04,0.0,0.0,0.0
+其他西餐,Stara skola,Stara skola,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace Drevak,Restaurace Drevak,0,其他,0.0,0.0,0.0
+其他西餐,Hospoda U Petra,Hospoda U Petra,0,其他,0.0,0.0,0.0
+其他西餐,Fresh Point Pizza Prague,Fresh Point Pizza Prague,0,其他,0.0,0.0,0.0
+其他西餐,U Vilema,U Vilema,0,其他,0.0,0.0,0.0
+其他西餐,Sametova Restaurace,Sametova Restaurace,0,其他,0.0,0.0,0.0
+其他西餐,Cisarska Louka Camping Restaurace,Cisarska Louka Camping Restaurace,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Coffee Day Emporio,Cafe Coffee Day Emporio,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace U Cechu,Restaurace U Cechu,0,其他,0.0,0.0,0.0
+其他西餐,Chapadlo,Chapadlo,0,其他,0.0,0.0,0.0
+其他西餐,U ceskeho lva,U ceskeho lva,0,其他,0.0,0.0,0.0
+其他西餐,U Karlinskeho Pristavu,U Karlinskeho Pristavu,0,其他,0.0,0.0,0.0
+其他西餐,Studna,Studna,0,其他,0.0,0.0,0.0
+其他西餐,Kavarna Cas,Kavarna Cas,0,其他,0.0,0.0,0.0
+其他西餐,Vypalene Kotatko,Vypalene Kotatko,0,其他,0.0,0.0,0.0
+其他西餐,Kopretina,Kopretina,0,其他,0.0,0.0,0.0
+其他西餐,U Topolu,U Topolu,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace Zenklovka,Restaurace Zenklovka,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace Sezona,Restaurace Sezona,0,其他,0.0,0.0,0.0
+其他西餐,Na Fare,Na Fare,0,其他,0.0,0.0,0.0
+其他西餐,Bowling Troja,Bowling Troja,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace Castle Residence,Restaurace Castle Residence,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace Lapak,Restaurace Lapak,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace Kobyla,Restaurace Kobyla,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant JaS,Restaurant JaS,0,其他,0.0,0.0,0.0
+其他西餐,Starosuchdolska Resturace,Starosuchdolska Resturace,0,其他,0.0,0.0,0.0
+其他西餐,Battistova cihelna,Battistova cihelna,0,其他,0.0,0.0,0.0
+其他西餐,U Bezousku,U Bezousku,0,其他,0.0,0.0,0.0
+其他西餐,Kozlovna l.p. 1874,Kozlovna l.p. 1874,0,布拉格10,0.0,0.0,0.0
+其他西餐,Tramtarie,Tramtarie,0,布拉格10,0.0,0.0,0.0
+其他西餐,U Poctu,U Poctu,0,布拉格07,0.0,0.0,0.0
+其他西餐,Maso uzeniny Lutovsky,Maso uzeniny Lutovsky,0,布拉格07,0.0,0.0,0.0
+其他西餐,Potrefena husa,Potrefena husa,0,布拉格07,0.0,0.0,0.0
+其他西餐,Euforie,Euforie,0,布拉格07,0.0,0.0,0.0
+其他西餐,Restaurant Baterka Holesovice,Restaurant Baterka Holesovice,0,布拉格07,0.0,0.0,0.0
+其他西餐,Pinta - pivni steakhouse,Pinta - pivni steakhouse,0,布拉格07,0.0,0.0,0.0
+其他西餐,Avion 58,Avion 58,0,布拉格07,0.0,0.0,0.0
+其他西餐,Restaurant Svornost,Restaurant Svornost,0,布拉格14,0.0,0.0,0.0
+其他西餐,U Eriky,U Eriky,0,布拉格14,0.0,0.0,0.0
+其他西餐,Sumo Sushi Grill restaurant,Sumo Sushi Grill restaurant,0,布拉格14,0.0,0.0,0.0
+其他西餐,U labutE,U labutE,0,布拉格11,0.0,0.0,0.0
+其他西餐,Za Vetrem,Za Vetrem,0,布拉格11,0.0,0.0,0.0
+其他西餐,Svijanska basta,Svijanska basta,0,布拉格15,0.0,0.0,0.0
+其他西餐,Restaurant U Vltavy,Restaurant U Vltavy,0,布拉格12,0.0,0.0,0.0
+其他西餐,Hostinec U Rozcesti,Hostinec U Rozcesti,0,布拉格12,0.0,0.0,0.0
+其他西餐,U Cerneho Kone,U Cerneho Kone,0,布拉格12,0.0,0.0,0.0
+其他西餐,Vesely Bizon,Vesely Bizon,0,布拉格01,0.0,0.0,0.0
+其他西餐,Zorbas,Zorbas,0,布拉格01,0.0,0.0,0.0
+其他西餐,Paddys Bar,Paddys Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,THE BLACK BARON,THE BLACK BARON,0,布拉格01,0.0,0.0,0.0
+其他西餐,Piccadilly Halal Fast food,Piccadilly Halal Fast food,0,布拉格01,0.0,0.0,0.0
+其他西餐,Epicure,Epicure,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe Tramuaj - (Tram 11 Cafe),Cafe Tramuaj - (Tram 11 Cafe),0,布拉格01,0.0,0.0,0.0
+其他西餐,Starsky & Hutch,Starsky & Hutch,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Podkovy Restaurace,U Podkovy Restaurace,0,布拉格01,0.0,0.0,0.0
+其他西餐,Taverna Akropolis,Taverna Akropolis,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Vesele Basy,U Vesele Basy,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Radnickych,U Radnickych,0,布拉格01,0.0,0.0,0.0
+其他西餐,Zlaty dvur,Zlaty dvur,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe Montmartre,Cafe Montmartre,0,布拉格01,0.0,0.0,0.0
+其他西餐,Katyna,Katyna,0,布拉格01,0.0,0.0,0.0
+其他西餐,Mike's Cafeteria,Mike's Cafeteria,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Campagna,La Campagna,0,布拉格01,0.0,0.0,0.0
+其他西餐,Caupona Michalska,Caupona Michalska,0,布拉格01,0.0,0.0,0.0
+其他西餐,Rezidence Dvorak,Rezidence Dvorak,0,布拉格01,0.0,0.0,0.0
+其他西餐,Café per lei,Café per lei,0,布拉格01,0.0,0.0,0.0
+其他西餐,Gotika,Gotika,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Cerneho Slunce,U Cerneho Slunce,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pizzeria & Restaurant V Laznich,Pizzeria & Restaurant V Laznich,0,布拉格01,0.0,0.0,0.0
+其他西餐,V Laznich,V Laznich,0,布拉格01,0.0,0.0,0.0
+其他西餐,Corsaire Restaurace Rum Bar,Corsaire Restaurace Rum Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,3+3+3,3+3+3,0,布拉格01,0.0,0.0,0.0
+其他西餐,Malostranska Restaurace,Malostranska Restaurace,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace Kanenny stul,Restaurace Kanenny stul,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kamenny Stul,Kamenny Stul,0,布拉格01,0.0,0.0,0.0
+其他西餐,Caffeteria,Caffeteria,0,布拉格01,0.0,0.0,0.0
+其他西餐,Certovka,Certovka,0,布拉格01,0.0,0.0,0.0
+其他西餐,Vanil Cafe & Bar,Vanil Cafe & Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace U Bonaparta,Restaurace U Bonaparta,0,布拉格01,0.0,0.0,0.0
+其他西餐,Ema Prague Strudel,Ema Prague Strudel,0,布拉格01,0.0,0.0,0.0
+其他西餐,"Mystic pizzerie, prague","Mystic pizzerie, prague",0,布拉格01,0.0,0.0,0.0
+其他西餐,Taverna Patriot,Taverna Patriot,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Dvou Slovaku,U Dvou Slovaku,0,布拉格01,0.0,0.0,0.0
+其他西餐,Vaclav PEK,Vaclav PEK,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Vaclava II,U Vaclava II,0,布拉格01,0.0,0.0,0.0
+其他西餐,Santa Fe,Santa Fe,0,布拉格01,0.0,0.0,0.0
+其他西餐,Golden Rose,Golden Rose,0,布拉格01,0.0,0.0,0.0
+其他西餐,Kobra,Kobra,0,布拉格01,0.0,0.0,0.0
+其他西餐,Ristorante Lamberty,Ristorante Lamberty,0,布拉格01,0.0,0.0,0.0
+其他西餐,Metro Cafe,Metro Cafe,0,布拉格01,0.0,0.0,0.0
+其他西餐,Battello sulla Moldava,Battello sulla Moldava,0,布拉格02,0.0,0.0,0.0
+其他西餐,Artemis,Artemis,0,布拉格02,0.0,0.0,0.0
+其他西餐,Vinarna Na Krizovatce,Vinarna Na Krizovatce,0,布拉格02,0.0,0.0,0.0
+其他西餐,Balu Relax Club,Balu Relax Club,0,布拉格03,0.0,0.0,0.0
+其他西餐,Restaurant ne-SMYSL,Restaurant ne-SMYSL,0,布拉格04,0.0,0.0,0.0
+其他西餐,Restaurant Delphi,Restaurant Delphi,0,布拉格04,0.0,0.0,0.0
+其他西餐,U Kestranku,U Kestranku,0,其他,0.0,0.0,0.0
+其他西餐,Pivnice ,Pivnice ,0,其他,0.0,0.0,0.0
+其他西餐,Ladronka,Ladronka,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Epopej,Cafe Epopej,0,其他,0.0,0.0,0.0
+其他西餐,Jidelna Profil,Jidelna Profil,0,其他,0.0,0.0,0.0
+其他西餐,U Chicpaka,U Chicpaka,0,其他,0.0,0.0,0.0
+其他西餐,U Lisku,U Lisku,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace Lamberty,Restaurace Lamberty,0,其他,0.0,0.0,0.0
+其他西餐,Skalka,Skalka,0,布拉格10,0.0,0.0,0.0
+其他西餐,Restaurant U St. Antonicka,Restaurant U St. Antonicka,0,布拉格07,0.0,0.0,0.0
+其他西餐,Cafe-Restaurant ,Cafe-Restaurant ,0,布拉格12,0.0,0.0,0.0
+其他西餐,Grand Hotel Europa,Grand Hotel Europa,0,布拉格01,0.0,0.0,0.0
+其他西餐,Potrefena Husa,Potrefena Husa,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace a penzion U konE,Restaurace a penzion U konE,0,布拉格04,0.0,0.0,0.0
+其他西餐,Don Pablo,Don Pablo,0,布拉格04,0.0,0.0,0.0
+其他西餐,Cafe Galerie,Cafe Galerie,0,其他,0.0,0.0,0.0
+其他西餐,Kolkovne,Kolkovne,0,其他,0.0,0.0,0.0
+其他西餐,Knajpa,Knajpa,0,布拉格01,0.0,0.0,0.0
+其他西餐,Artisan Restaurant & Cafe,Artisan Restaurant & Cafe,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Suteru,U Suteru,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Premysla Otakara II. - Plzensky Restaurant,U Premysla Otakara II. - Plzensky Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Rotisserie Gourmet Restaurant,Rotisserie Gourmet Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Salanda,Salanda,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pod Kridlem Noci,Pod Kridlem Noci,0,布拉格01,0.0,0.0,0.0
+其他西餐,Stara Pradelna,Stara Pradelna,0,布拉格01,0.0,0.0,0.0
+其他西餐,Barbar Prague,Barbar Prague,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurace CESK Raj,Restaurace CESK Raj,0,布拉格01,0.0,0.0,0.0
+其他西餐,Skorepka,Skorepka,0,布拉格01,0.0,0.0,0.0
+其他西餐,Hemingway Bar,Hemingway Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,Sovovy Mlyny,Sovovy Mlyny,0,布拉格01,0.0,0.0,0.0
+其他西餐,Mama's Restaurant,Mama's Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Green Tree,Green Tree,0,布拉格01,0.0,0.0,0.0
+其他西餐,u jindrinskka veze,u jindrinskka veze,0,布拉格01,0.0,0.0,0.0
+其他西餐,ceska kuchyne,ceska kuchyne,0,布拉格01,0.0,0.0,0.0
+其他西餐,Shisha Room Lounge Bar,Shisha Room Lounge Bar,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Zavoje,U Zavoje,0,布拉格01,0.0,0.0,0.0
+其他西餐,La Campagna,La Campagna,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pasta e Basta,Pasta e Basta,0,布拉格01,0.0,0.0,0.0
+其他西餐,Greek Taverna Akropolis II,Greek Taverna Akropolis II,0,布拉格01,0.0,0.0,0.0
+其他西餐,Petrinske terasy,Petrinske terasy,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Dvou Sester,U Dvou Sester,0,布拉格01,0.0,0.0,0.0
+其他西餐,Lobkovicka,Lobkovicka,0,布拉格01,0.0,0.0,0.0
+其他西餐,Charlie's Music Bar and Restaurant,Charlie's Music Bar and Restaurant,0,布拉格01,0.0,0.0,0.0
+其他西餐,Café Gourmet,Café Gourmet,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cafe Kaficko,Cafe Kaficko,0,布拉格01,0.0,0.0,0.0
+其他西餐,Pivnice U Gaubicu,Pivnice U Gaubicu,0,布拉格01,0.0,0.0,0.0
+其他西餐,Motto:,Motto:,0,布拉格01,0.0,0.0,0.0
+其他西餐,Francouska Restaurace,Francouska Restaurace,0,布拉格01,0.0,0.0,0.0
+其他西餐,Restaurant David,Restaurant David,0,布拉格01,0.0,0.0,0.0
+其他西餐,Corso Cafe,Corso Cafe,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Pivrnce,U Pivrnce,0,布拉格01,0.0,0.0,0.0
+其他西餐,Bechynuv Dvur U Tyna,Bechynuv Dvur U Tyna,0,布拉格01,0.0,0.0,0.0
+其他西餐,Cowboys Steaks & Cocktails,Cowboys Steaks & Cocktails,0,布拉格01,0.0,0.0,0.0
+其他西餐,U Zlateno Presliku,U Zlateno Presliku,0,布拉格01,0.0,0.0,0.0
+其他西餐,Albio,Albio,0,布拉格01,0.0,0.0,0.0
+中餐,上海饭店,上海饭店,114,布拉格02,8.5,8.1,8.3
+中餐,美心酒家 Meixin resTaurAnt,美心酒家 Meixin resTaurAnt,0,布拉格06,8.4,8.5,8.4
+中餐,Macao & Wok,Macao & Wok,0,布拉格01,7.4,7.5,7.7
+中餐,Shanghai Duo Wei,Shanghai Duo Wei,0,布拉格01,7.3,7.3,7.3
+中餐,Hong Shun,Hong Shun,0,布拉格01,6.7,6.7,6.7
+中餐,Tom,Tom,0,布拉格01,0.0,0.0,0.0
+中餐,Jin Yan Jiu Jia,Jin Yan Jiu Jia,0,布拉格01,0.0,0.0,0.0
+中餐,Zelena Zahrada,Zelena Zahrada,0,布拉格02,0.0,0.0,0.0
+中餐,Twin Dragon Resturant,Twin Dragon Resturant,0,布拉格02,0.0,0.0,0.0
+中餐,Rawcha,Rawcha,0,布拉格01,0.0,0.0,0.0
+中餐,Andelsky ujezd,Andelsky ujezd,0,布拉格01,0.0,0.0,0.0
+中餐,Huang He,Huang He,0,布拉格10,0.0,0.0,0.0
+中餐,Sushi Time,Sushi Time,0,布拉格01,0.0,0.0,0.0
+中餐,Nove Stoleti,Nove Stoleti,0,其他,0.0,0.0,0.0
+中餐,Oriental Food,Oriental Food,0,布拉格01,0.0,0.0,0.0
+中餐,Kai Lai Restaurant,Kai Lai Restaurant,0,其他,0.0,0.0,0.0
+中餐,Fu Man Lou,Fu Man Lou,0,布拉格01,0.0,0.0,0.0
+中餐,U Zeleneho Caje,U Zeleneho Caje,0,布拉格01,0.0,0.0,0.0
+中餐,Asia Restaurant 福,Asia Restaurant 福,0,布拉格10,0.0,0.0,0.0
+中餐,Cinske Bistro,Cinske Bistro,0,布拉格03,0.0,0.0,0.0
+中餐,Thanh Long,Thanh Long,0,布拉格01,0.0,0.0,0.0
+日韩料理,KOBE Restaurant,KOBE Restaurant,0,布拉格01,8.1,8.1,8.1
+日韩料理,Aureole,Aureole,0,布拉格04,0.0,0.0,0.0
+日韩料理,Mash Hana,Mash Hana,0,其他,0.0,0.0,0.0
+日韩料理,Yami,Yami,0,布拉格01,0.0,0.0,0.0
+日韩料理,OXO Restaurant,OXO Restaurant,0,布拉格01,0.0,0.0,0.0
+日韩料理,Dobra Cajovna,Dobra Cajovna,0,布拉格01,0.0,0.0,0.0
+日韩料理,Mamy Korejska restaurant,Mamy Korejska restaurant,0,布拉格01,0.0,0.0,0.0
+日韩料理,Miyabi,Miyabi,0,布拉格01,0.0,0.0,0.0
+日韩料理,Hanabi Sushi House,Hanabi Sushi House,0,布拉格01,0.0,0.0,0.0
+日韩料理,Samurai,Samurai,0,布拉格02,0.0,0.0,0.0
+日韩料理,Yamato Restaurant,Yamato Restaurant,0,布拉格02,0.0,0.0,0.0
+日韩料理,Made in Japan Sushi Restaurant,Made in Japan Sushi Restaurant,0,布拉格01,0.0,0.0,0.0
+日韩料理,Mr. Sushi,Mr. Sushi,0,布拉格01,0.0,0.0,0.0
+日韩料理,Ramen Bar Kitchen,Ramen Bar Kitchen,0,布拉格01,0.0,0.0,0.0
+日韩料理,Katsura,Katsura,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Bar,Sushi Bar,0,布拉格01,0.0,0.0,0.0
+日韩料理,Seoul Garden Restaurant,Seoul Garden Restaurant,0,布拉格03,0.0,0.0,0.0
+日韩料理,Xin Dong Hai,Xin Dong Hai,0,布拉格01,0.0,0.0,0.0
+日韩料理,Kimchi Restaurace,Kimchi Restaurace,0,布拉格01,0.0,0.0,0.0
+日韩料理,U kavalira,U kavalira,0,其他,0.0,0.0,0.0
+日韩料理,Sami Grill,Sami Grill,0,布拉格02,0.0,0.0,0.0
+日韩料理,China Fusion,China Fusion,0,布拉格01,0.0,0.0,0.0
+日韩料理,Umami,Umami,0,布拉格01,0.0,0.0,0.0
+日韩料理,Makakiko,Makakiko,0,布拉格01,0.0,0.0,0.0
+日韩料理,Thai Oishi - Thai & Sushi Restaurant,Thai Oishi - Thai & Sushi Restaurant,0,布拉格02,0.0,0.0,0.0
+日韩料理,Sushi Tam Da,Sushi Tam Da,0,布拉格02,0.0,0.0,0.0
+日韩料理,Hanil,Hanil,0,布拉格03,0.0,0.0,0.0
+日韩料理,Planet Sushi,Planet Sushi,0,布拉格05,0.0,0.0,0.0
+日韩料理,Sakura Garden,Sakura Garden,0,布拉格01,0.0,0.0,0.0
+日韩料理,Sushi Point,Sushi Point,0,布拉格01,0.0,0.0,0.0
+日韩料理,Millhouse Sushi,Millhouse Sushi,0,布拉格01,0.0,0.0,0.0
+日韩料理,Sushi Oishi Restaurant,Sushi Oishi Restaurant,0,布拉格01,0.0,0.0,0.0
+日韩料理,Abri Sushi,Abri Sushi,0,布拉格02,0.0,0.0,0.0
+日韩料理,Sushi Bar Takahashi,Sushi Bar Takahashi,0,其他,0.0,0.0,0.0
+日韩料理,Praha Tamura/Japanese Bufet Dai,Praha Tamura/Japanese Bufet Dai,0,布拉格01,0.0,0.0,0.0
+日韩料理,Be Kara OK,Be Kara OK,0,布拉格02,0.0,0.0,0.0
+日韩料理,Aureole Fusion Restaurant & Lounge,Aureole Fusion Restaurant & Lounge,0,布拉格04,0.0,0.0,0.0
+更多亚洲菜,Yaku Japonske BBQ,Yaku Japonske BBQ,0,布拉格01,8.4,8.4,8.4
+更多亚洲菜,MONGOLIAN BBQ,MONGOLIAN BBQ,0,布拉格01,7.5,7.5,7.5
+更多亚洲菜,Zebra asian noodle bar,Zebra asian noodle bar,0,布拉格01,7.4,8.1,8.1
+更多亚洲菜,Thai Noodle Bar Modry Zub,Thai Noodle Bar Modry Zub,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Beas vegetarian dhaba,Beas vegetarian dhaba,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Modry Zub Restaurant,Modry Zub Restaurant,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,K The Two Brothers,K The Two Brothers,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Aureole,Aureole,0,布拉格04,0.0,0.0,0.0
+更多亚洲菜,Pizza Express & Kebab,Pizza Express & Kebab,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Baku,Baku,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Restaurant Buddha,Restaurant Buddha,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Siam Orchid,Siam Orchid,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Lemon Leaf,Lemon Leaf,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Remember - Vietnamese Food,Remember - Vietnamese Food,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Indian Jewel,Indian Jewel,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Farrango Thai Fusion Art Gallery Restaurant,Farrango Thai Fusion Art Gallery Restaurant,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,u Fugiho OiZoiOi Pho,u Fugiho OiZoiOi Pho,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Indian by Nature,Indian by Nature,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Kabul Karolina,Restaurant Kabul Karolina,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Indicky Snack Bar,Indicky Snack Bar,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Lal Qila,Lal Qila,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Golden Tikka,Golden Tikka,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Kiin Modern Thai Restaurant,Kiin Modern Thai Restaurant,0,布拉格03,0.0,0.0,0.0
+更多亚洲菜,Pho Original Restaurant,Pho Original Restaurant,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Pho Vietnam,Pho Vietnam,0,布拉格03,0.0,0.0,0.0
+更多亚洲菜,Miss Saigon restaurant & sushi bar,Miss Saigon restaurant & sushi bar,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Coa Restaurant Prague,Coa Restaurant Prague,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Thai Box Food,Thai Box Food,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Yammy,Yammy,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Madame Lyn,Madame Lyn,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Asia House,Asia House,0,其他,0.0,0.0,0.0
+更多亚洲菜,Hai Anh 23,Hai Anh 23,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Himalaya,Himalaya,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Mayur,Mayur,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Bombay Express,Bombay Express,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Noi,Noi,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Erawan Prague,Erawan Prague,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Buddha Bar,Buddha Bar,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,El Emir,El Emir,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Obcanska Plovarna,Obcanska Plovarna,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,The Pind,The Pind,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Masala,Masala,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Shalamar,Shalamar,0,其他,0.0,0.0,0.0
+更多亚洲菜,Curry House,Curry House,0,其他,0.0,0.0,0.0
+更多亚洲菜,Curry Palace,Curry Palace,0,布拉格07,0.0,0.0,0.0
+更多亚洲菜,SaSaZu Prague,SaSaZu Prague,0,布拉格07,0.0,0.0,0.0
+更多亚洲菜,Bodrum Kebab,Bodrum Kebab,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Neb.o,Neb.o,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,El Emir Palladium,El Emir Palladium,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Yam Yam,Yam Yam,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,"Sushi Time Praha, s.r.o.","Sushi Time Praha, s.r.o.",0,其他,0.0,0.0,0.0
+更多亚洲菜,RANA,RANA,0,其他,0.0,0.0,0.0
+更多亚洲菜,Istanbul Kebap,Istanbul Kebap,0,其他,0.0,0.0,0.0
+更多亚洲菜,Ananta Vegetarian Restaurant and Tearoom,Ananta Vegetarian Restaurant and Tearoom,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Song Lam,Song Lam,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Gourmet panda,Gourmet panda,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Hanedan Doner Kebab,Hanedan Doner Kebab,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Royal Bengal,Royal Bengal,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Chanchala,Chanchala,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,BakuKaraokeShishaBar,BakuKaraokeShishaBar,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Restaurant Masala,Restaurant Masala,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Loving Hut Koubkova,Loving Hut Koubkova,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Bailu Running Sushi,Bailu Running Sushi,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Delirium Gourmet Boutique,Delirium Gourmet Boutique,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Efe's Restauranta,Efe's Restauranta,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Java Restaurant & Cafe,Java Restaurant & Cafe,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Balarama,Balarama,0,布拉格03,0.0,0.0,0.0
+更多亚洲菜,Viet Flavor,Viet Flavor,0,布拉格03,0.0,0.0,0.0
+更多亚洲菜,Arslan Kebap,Arslan Kebap,0,布拉格05,0.0,0.0,0.0
+更多亚洲菜,Thai An,Thai An,0,其他,0.0,0.0,0.0
+更多亚洲菜,Govinda,Govinda,0,其他,0.0,0.0,0.0
+更多亚洲菜,Binh Minh,Binh Minh,0,布拉格07,0.0,0.0,0.0
+更多亚洲菜,Zinc,Zinc,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Cafe Bambus,Cafe Bambus,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Noodle Point,Noodle Point,0,其他,0.0,0.0,0.0
+更多亚洲菜,Le Patio,Le Patio,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Tikka Dhaba,Tikka Dhaba,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Hallal Fast Food,Hallal Fast Food,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Bangkok Restaurant,Bangkok Restaurant,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Orange Moon,Orange Moon,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,Dahab,Dahab,0,布拉格01,0.0,0.0,0.0
+更多亚洲菜,NOODLE.CZ / the noodle bar,NOODLE.CZ / the noodle bar,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Yak Yeti,Yak Yeti,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Dilli Delhi,Dilli Delhi,0,布拉格02,0.0,0.0,0.0
+更多亚洲菜,Manni Restaurant,Manni Restaurant,0,布拉格03,0.0,0.0,0.0
+更多亚洲菜,Palaw Afghan Restaurant,Palaw Afghan Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,MASALA royale,MASALA royale,0,布拉格15,0.0,0.0,0.0
+快餐简餐,Fashion Arena Outlet 红苹果餐厅,Fashion Arena Outlet 红苹果餐厅,0,布拉格14,8.0,8.0,8.0
+快餐简餐,U Kunstatu,U Kunstatu,0,布拉格01,0.0,0.0,0.0
+快餐简餐,BUTCHER'S Grill & Pasta,BUTCHER'S Grill & Pasta,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Bohemia Bagel Lazenska,Bohemia Bagel Lazenska,0,布拉格01,0.0,0.0,0.0
+快餐简餐,CzecHouse Grill & Rotisserie,CzecHouse Grill & Rotisserie,0,其他,0.0,0.0,0.0
+快餐简餐,Midtown Grill,Midtown Grill,0,布拉格01,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Back Doors,Back Doors,0,布拉格05,0.0,0.0,0.0
+快餐简餐,The Tavern,The Tavern,0,布拉格03,0.0,0.0,0.0
+快餐简餐,Hard Rock Cafe Prague,Hard Rock Cafe Prague,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Hooters,Hooters,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Jama,Jama,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Hangar Bar Praha,Hangar Bar Praha,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Palanda,Palanda,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Kavarna Kumbal,Kavarna Kumbal,0,布拉格07,0.0,0.0,0.0
+快餐简餐,Culinaria,Culinaria,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Bejzment,Bejzment,0,布拉格05,0.0,0.0,0.0
+快餐简餐,Shelanu Cafe & Deli,Shelanu Cafe & Deli,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Brown Bag Burger,Brown Bag Burger,0,其他,0.0,0.0,0.0
+快餐简餐,Potomac- An' All American Resturant,Potomac- An' All American Resturant,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Jan Paukert,Jan Paukert,0,布拉格01,0.0,0.0,0.0
+快餐简餐,George Prime Steak,George Prime Steak,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Jo's Cocktails & Diner,Jo's Cocktails & Diner,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Maneska,Maneska,0,布拉格02,0.0,0.0,0.0
+快餐简餐,The Globe Bookstore and Cafe,The Globe Bookstore and Cafe,0,其他,0.0,0.0,0.0
+快餐简餐,Just!Bagel,Just!Bagel,0,布拉格01,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Sherlock's Pub,Sherlock's Pub,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Loca restaurant & cafe bar,Loca restaurant & cafe bar,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Coyotes Prague,Coyotes Prague,0,布拉格01,0.0,0.0,0.0
+快餐简餐,BED Lounge,BED Lounge,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Zapomenuty cas,Zapomenuty cas,0,布拉格02,0.0,0.0,0.0
+快餐简餐,Friday's American Bar,Friday's American Bar,0,其他,0.0,0.0,0.0
+快餐简餐,Texas Steakhouse,Texas Steakhouse,0,布拉格07,0.0,0.0,0.0
+快餐简餐,Vinny sklep,Vinny sklep,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Tony's American Bar,Tony's American Bar,0,布拉格01,0.0,0.0,0.0
+快餐简餐,James Dean Restaurant,James Dean Restaurant,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Postel Restaurant and Bar,Postel Restaurant and Bar,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Dirty Dog Cocktail and Culinary Bar,Dirty Dog Cocktail and Culinary Bar,0,布拉格02,0.0,0.0,0.0
+快餐简餐,Grand Restaurant Villa St.Tropez,Grand Restaurant Villa St.Tropez,0,其他,0.0,0.0,0.0
+快餐简餐,Valcha Restaurant,Valcha Restaurant,0,其他,0.0,0.0,0.0
+快餐简餐,True Blue,True Blue,0,布拉格10,0.0,0.0,0.0
+快餐简餐,T-Bones Steak House,T-Bones Steak House,0,布拉格07,0.0,0.0,0.0
+快餐简餐,Paddys Bar,Paddys Bar,0,布拉格01,0.0,0.0,0.0
+快餐简餐,F1 Life,F1 Life,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Beidaihe resTaurAce 北戴河饭店,Beidaihe resTaurAce 北戴河饭店,0,,0.0,0.0,0.0
+快餐简餐,颐和园饭店,颐和园饭店,0,,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,布拉格01,0.0,0.0,0.0
+快餐简餐,"TGI Friday's Na Prikope, Prague","TGI Friday's Na Prikope, Prague",0,布拉格01,0.0,0.0,0.0
+快餐简餐,Tretter's Bar,Tretter's Bar,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Kambala Restaurant and Cafe,Kambala Restaurant and Cafe,0,布拉格01,0.0,0.0,0.0
+快餐简餐,Jet Set Babicka Bar & Restaurant,Jet Set Babicka Bar & Restaurant,0,布拉格05,0.0,0.0,0.0
+快餐简餐,zhongnanhai饭店,zhongnanhai饭店,0,布拉格03,0.0,0.0,0.0
+海鲜,Fish & Chips,Fish & Chips,0,布拉格01,0.0,0.0,0.0
+海鲜,Reykjavik,Reykjavik,0,布拉格01,0.0,0.0,0.0
+海鲜,Steak Bar Kovarna,Steak Bar Kovarna,0,布拉格01,0.0,0.0,0.0
+烧烤,Žofín Garden,Žofín Garden,0,布拉格01,0.0,0.0,0.0
+烧烤,Tbilisi Georgian Restaurant,Tbilisi Georgian Restaurant,0,布拉格01,0.0,0.0,0.0
+烧烤,Restaurace U Malého Berlína,Restaurace U Malého Berlína,0,布拉格07,0.0,0.0,0.0
+烧烤,Summer Garden Grill,Summer Garden Grill,0,布拉格01,0.0,0.0,0.0
+烧烤,Riegrovy Sady Beer Garden,Riegrovy Sady Beer Garden,0,布拉格02,0.0,0.0,0.0
+烧烤,Restaurant Kristian Marco,Restaurant Kristian Marco,0,布拉格01,0.0,0.0,0.0
+烧烤,PravEk,PravEk,0,布拉格02,0.0,0.0,0.0
+烧烤,Na Marjance,Na Marjance,0,其他,0.0,0.0,0.0
+比萨,"Al Capone, Prague","Al Capone, Prague",0,布拉格01,0.0,0.0,0.0
+比萨,Sherry Ristorante,Sherry Ristorante,0,布拉格01,0.0,0.0,0.0
+比萨,Rugantino,Rugantino,0,布拉格01,0.0,0.0,0.0
+比萨,Papa Giovanni,Papa Giovanni,0,布拉格01,0.0,0.0,0.0
+比萨,Kmotra,Kmotra,0,布拉格01,0.0,0.0,0.0
+比萨,Pizzeria Carllino,Pizzeria Carllino,0,其他,0.0,0.0,0.0
+比萨,Modra Zahrada,Modra Zahrada,0,布拉格01,0.0,0.0,0.0
+比萨,Pizza Coloseum - Original Pizza & Pasta,Pizza Coloseum - Original Pizza & Pasta,0,布拉格01,0.0,0.0,0.0
+比萨,Pizzeria Modra Zahrada,Pizzeria Modra Zahrada,0,布拉格01,0.0,0.0,0.0
+比萨,Pizzeria Paradisio,Pizzeria Paradisio,0,布拉格01,0.0,0.0,0.0
+比萨,Vaclavka,Vaclavka,0,布拉格01,0.0,0.0,0.0
+比萨,Zorto,Zorto,0,布拉格01,0.0,0.0,0.0
+比萨,Pizzerie U Costella,Pizzerie U Costella,0,布拉格01,0.0,0.0,0.0
+比萨,Pizza Canzone,Pizza Canzone,0,布拉格01,0.0,0.0,0.0
+比萨,Giallo Rossa,Giallo Rossa,0,布拉格02,0.0,0.0,0.0
+比萨,Pizzeria Detaillo,Pizzeria Detaillo,0,布拉格02,0.0,0.0,0.0
+比萨,Big Lebowski,Big Lebowski,0,布拉格03,0.0,0.0,0.0
+比萨,U Tucnaku Blazinec,U Tucnaku Blazinec,0,布拉格05,0.0,0.0,0.0
+比萨,PaniKafe,PaniKafe,0,其他,0.0,0.0,0.0
+比萨,Ti-Amo Pizzeria Ristorante,Ti-Amo Pizzeria Ristorante,0,其他,0.0,0.0,0.0
+比萨,Deco,Deco,0,布拉格12,0.0,0.0,0.0
+比萨,Pasta e Basta,Pasta e Basta,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Kavarna Slavia Cafe,Kavarna Slavia Cafe,0,布拉格01,7.4,8.0,7.4
+咖啡厅,Starbucks Staromestske,Starbucks Staromestske,0,布拉格01,0.0,0.0,0.0
+咖啡厅,k.u. bar lounge,k.u. bar lounge,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Choco Cafe,Choco Cafe,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Tricafe,Tricafe,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Ebel coffee house,Ebel coffee house,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Caffeine,Caffeine,0,布拉格07,0.0,0.0,0.0
+咖啡厅,Cafe Pavlac Prag,Cafe Pavlac Prag,0,布拉格03,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,布拉格02,0.0,0.0,0.0
+咖啡厅,Cafe Ebel,Cafe Ebel,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Gloria Jeans GJC Florenc,Gloria Jeans GJC Florenc,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Kavarna Obecni dum - Public House,Kavarna Obecni dum - Public House,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Home Kitchen,Home Kitchen,0,布拉格01,0.0,0.0,0.0
+咖啡厅,I need coffee,I need coffee,0,布拉格02,0.0,0.0,0.0
+咖啡厅,Na Marjance,Na Marjance,0,其他,0.0,0.0,0.0
+咖啡厅,Starbucks Palladium,Starbucks Palladium,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Angels Coffee S R O,Angels Coffee S R O,0,布拉格15,0.0,0.0,0.0
+咖啡厅,Standard Cafe in Prague,Standard Cafe in Prague,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Original Coffee,Original Coffee,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Moment kavárna&bistro,Moment kavárna&bistro,0,布拉格02,0.0,0.0,0.0
+咖啡厅,KIDO Bistro & Shop,KIDO Bistro & Shop,0,布拉格07,0.0,0.0,0.0
+咖啡厅,Cafe Divadlo Na zabradli,Cafe Divadlo Na zabradli,0,布拉格01,0.0,0.0,0.0
+咖啡厅,New York Cafe Prague,New York Cafe Prague,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Friends Coffee House,Friends Coffee House,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Starbucks Vaclavski,Starbucks Vaclavski,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Booze Bar,Booze Bar,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Starbucks Malostranske Namesti,Starbucks Malostranske Namesti,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Barock,Barock,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Cafe Oliveira,Cafe Oliveira,0,布拉格02,0.0,0.0,0.0
+咖啡厅,Cafe Pointa,Cafe Pointa,0,其他,0.0,0.0,0.0
+咖啡厅,La Boheme Cafe,La Boheme Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Andalous Shisha Lounge,Andalous Shisha Lounge,0,布拉格01,0.0,0.0,0.0
+咖啡厅,cream & dream,cream & dream,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Coffee Lovers,Coffee Lovers,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Cafe Rendezvous,Cafe Rendezvous,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Starbucks Palác Archa,Starbucks Palác Archa,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Cafe NoD,Cafe NoD,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Michal Jakoubek,Michal Jakoubek,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Whisky&Kilt,Whisky&Kilt,0,布拉格02,0.0,0.0,0.0
+咖啡厅,Barevna Kavarna,Barevna Kavarna,0,布拉格02,0.0,0.0,0.0
+咖啡厅,Dobra trafika,Dobra trafika,0,布拉格02,0.0,0.0,0.0
+咖啡厅,Le caveau,Le caveau,0,布拉格03,0.0,0.0,0.0
+咖啡厅,TimeCafé Křižovatka,TimeCafé Křižovatka,0,布拉格03,0.0,0.0,0.0
+咖啡厅,Cafe Jen,Cafe Jen,0,布拉格10,0.0,0.0,0.0
+咖啡厅,Blue Eagle Cafe,Blue Eagle Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Kavarna u Sv. Vojtecha,Kavarna u Sv. Vojtecha,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Cafe Flirt Bar,Cafe Flirt Bar,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Vertigo Club Cafe,Vertigo Club Cafe,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Literarni kavarna Retezova,Literarni kavarna Retezova,0,布拉格01,0.0,0.0,0.0
+咖啡厅,U Bilehoprecliku,U Bilehoprecliku,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Zanzibar,Zanzibar,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Coffeshop company,Coffeshop company,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Bon Bon Cafe,Bon Bon Cafe,0,布拉格01,0.0,0.0,0.0
+咖啡厅,CAFFÉ CREMERIA MILANO,CAFFÉ CREMERIA MILANO,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Cafe Bar Schwarzenberský Palác,Cafe Bar Schwarzenberský Palác,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Gloria Jeans Klárov,Gloria Jeans Klárov,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Caffe Trieste,Caffe Trieste,0,布拉格02,0.0,0.0,0.0
+咖啡厅,Illy Cafe,Illy Cafe,0,布拉格02,0.0,0.0,0.0
+咖啡厅,Cafe Panini,Cafe Panini,0,布拉格03,0.0,0.0,0.0
+咖啡厅,Marmelada—coffeehouse and sweetshop in Prague.,Marmelada—coffeehouse and sweetshop in Prague.,0,布拉格03,0.0,0.0,0.0
+咖啡厅,Kavarna POTRVA,Kavarna POTRVA,0,其他,0.0,0.0,0.0
+咖啡厅,Kavarna v Sedmem nebi,Kavarna v Sedmem nebi,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Cafe Boulevard,Cafe Boulevard,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Daily coffee everyday,Daily coffee everyday,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Vino Verona,Vino Verona,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Cafe Art Gallery,Cafe Art Gallery,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Starbucks Vaclavske Namesti 57,Starbucks Vaclavske Namesti 57,0,布拉格01,0.0,0.0,0.0
+咖啡厅,La Vecchia Bottega,La Vecchia Bottega,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Bar Konirna,Bar Konirna,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Siva,Siva,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Coffee Fellows,Coffee Fellows,0,布拉格01,0.0,0.0,0.0
+咖啡厅,cafe Klarov,cafe Klarov,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Bistro Bohemia,Bistro Bohemia,0,布拉格01,0.0,0.0,0.0
+咖啡厅,Kavarna ,Kavarna ,0,布拉格07,0.0,0.0,0.0
+面包甜点,TrdeinIk,TrdeinIk,0,布拉格01,7.5,7.5,7.5
+面包甜点,Bohemi Bagel,Bohemi Bagel,0,布拉格07,7.5,7.5,7.5
+面包甜点,Villa Richter Restaurant,Villa Richter Restaurant,0,布拉格01,0.0,0.0,0.0
+面包甜点,Narodni Kavarna,Narodni Kavarna,0,布拉格01,0.0,0.0,0.0
+面包甜点,Ebel coffee house,Ebel coffee house,0,布拉格01,0.0,0.0,0.0
+面包甜点,Bakeshop,Bakeshop,0,布拉格01,0.0,0.0,0.0
+面包甜点,Cafe Colore,Cafe Colore,0,布拉格01,0.0,0.0,0.0
+面包甜点,Bistro Sisters,Bistro Sisters,0,布拉格01,0.0,0.0,0.0
+面包甜点,Ema Espresso Bar,Ema Espresso Bar,0,布拉格01,0.0,0.0,0.0
+面包甜点,Patisserie Jolie Prague,Patisserie Jolie Prague,0,布拉格01,0.0,0.0,0.0
+面包甜点,Cafe Melvin,Cafe Melvin,0,布拉格01,0.0,0.0,0.0
+面包甜点,Moment kavárna&bistro,Moment kavárna&bistro,0,布拉格02,0.0,0.0,0.0
+面包甜点,Kavarna Creperie,Kavarna Creperie,0,其他,0.0,0.0,0.0
+面包甜点,Bubble Lounge,Bubble Lounge,0,布拉格01,0.0,0.0,0.0
+面包甜点,Le Carrousel,Le Carrousel,0,布拉格01,0.0,0.0,0.0
+面包甜点,U Knoflicku,U Knoflicku,0,布拉格01,0.0,0.0,0.0
+面包甜点,Cake Cafe Praga,Cake Cafe Praga,0,布拉格01,0.0,0.0,0.0
+面包甜点,Bread gap - fresh sandwiches,Bread gap - fresh sandwiches,0,布拉格01,0.0,0.0,0.0
+面包甜点,Creperie U Kajetana,Creperie U Kajetana,0,布拉格01,0.0,0.0,0.0
+面包甜点,Susta Strudl,Susta Strudl,0,布拉格03,0.0,0.0,0.0
+面包甜点,Cafe Pointa,Cafe Pointa,0,其他,0.0,0.0,0.0
+面包甜点,Le Petit Cafe,Le Petit Cafe,0,布拉格01,0.0,0.0,0.0
+面包甜点,Cukrarna Mysak,Cukrarna Mysak,0,布拉格01,0.0,0.0,0.0
+面包甜点,Cafe Bily Konicek,Cafe Bily Konicek,0,布拉格01,0.0,0.0,0.0
+面包甜点,Mannson's Bakery and Cafe,Mannson's Bakery and Cafe,0,布拉格01,0.0,0.0,0.0
+面包甜点,Alex Bistrot,Alex Bistrot,0,布拉格02,0.0,0.0,0.0
+面包甜点,Erhartova Cukrarna,Erhartova Cukrarna,0,布拉格02,0.0,0.0,0.0
+面包甜点,Milleme,Milleme,0,布拉格03,0.0,0.0,0.0
+面包甜点,Cokoladova Cukrarna,Cokoladova Cukrarna,0,布拉格05,0.0,0.0,0.0
+面包甜点,Sella Coffee,Sella Coffee,0,布拉格01,0.0,0.0,0.0
+面包甜点,Brewcoff bar,Brewcoff bar,0,布拉格01,0.0,0.0,0.0
+面包甜点,U Lucerny,U Lucerny,0,布拉格01,0.0,0.0,0.0
+面包甜点,Prodejna Paul,Prodejna Paul,0,布拉格02,0.0,0.0,0.0
+面包甜点,Krusta,Krusta,0,其他,0.0,0.0,0.0
+面包甜点,Fabbricia,Fabbricia,0,布拉格07,0.0,0.0,0.0
+面包甜点,Cafe Level,Cafe Level,0,布拉格11,0.0,0.0,0.0
+面包甜点,Les Kamerades,Les Kamerades,0,布拉格01,0.0,0.0,0.0
+面包甜点,Hotel U Prince Restaurant,Hotel U Prince Restaurant,0,布拉格01,0.0,0.0,0.0
+面包甜点,Boulangerie Patisserie,Boulangerie Patisserie,0,布拉格01,0.0,0.0,0.0
+面包甜点,Café Gourmet,Café Gourmet,0,布拉格01,0.0,0.0,0.0
+面包甜点,Creperie U Jetana,Creperie U Jetana,0,布拉格01,0.0,0.0,0.0
+面包甜点,Monarch Ice Cream Bar,Monarch Ice Cream Bar,0,布拉格01,0.0,0.0,0.0
+面包甜点,Hájek-Boušová s r.o. - Londýn,Hájek-Boušová s r.o. - Londýn,0,其他,0.0,0.0,0.0
+酒吧,布拉格城堡酒吧,布拉格城堡酒吧,0,布拉格01,8.3,8.4,8.3
+酒吧,Prague Beer Museum,Prague Beer Museum,0,布拉格01,8.4,8.4,8.4
+酒吧,Stredoveka Krcma (Medieval Tavern),Stredoveka Krcma (Medieval Tavern),0,布拉格01,0.0,0.0,0.0
+酒吧,Cafe cafe,Cafe cafe,0,布拉格01,0.0,0.0,0.0
+酒吧,Reduta Jazz Club,Reduta Jazz Club,0,布拉格01,0.0,0.0,0.0
+酒吧,Cloud 9 Sky Bar & Lounge,Cloud 9 Sky Bar & Lounge,0,其他,0.0,0.0,0.0
+酒吧,Potrefena Husa Na Verandach Smichov,Potrefena Husa Na Verandach Smichov,0,布拉格05,0.0,0.0,0.0
+酒吧,Nebe - cocktail & music bar,Nebe - cocktail & music bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Absintherie,Absintherie,0,布拉格02,0.0,0.0,0.0
+酒吧,Ungelt Jazz and Blues Club,Ungelt Jazz and Blues Club,0,布拉格01,0.0,0.0,0.0
+酒吧,Double Trouble Bar - Prague,Double Trouble Bar - Prague,0,布拉格01,0.0,0.0,0.0
+酒吧,Americky Bar,Americky Bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Jazzdock,Jazzdock,0,布拉格01,0.0,0.0,0.0
+酒吧,Nostress,Nostress,0,布拉格01,0.0,0.0,0.0
+酒吧,M1 Lounge,M1 Lounge,0,布拉格01,0.0,0.0,0.0
+酒吧,Lucerna Music Bar,Lucerna Music Bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Kavarna Slavia,Kavarna Slavia,0,布拉格01,0.0,0.0,0.0
+酒吧,Duende Cafe - Bar,Duende Cafe - Bar,0,布拉格01,0.0,0.0,0.0
+酒吧,The Dubliner Irish Pub,The Dubliner Irish Pub,0,布拉格01,0.0,0.0,0.0
+酒吧,Be Bop Bar,Be Bop Bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Alibi. Cocktail and Music Bar,Alibi. Cocktail and Music Bar,0,布拉格02,0.0,0.0,0.0
+酒吧,Agharta,Agharta,0,布拉格01,0.0,0.0,0.0
+酒吧,Legenda,Legenda,0,布拉格02,0.0,0.0,0.0
+酒吧,Tynska Bar and Books,Tynska Bar and Books,0,布拉格01,0.0,0.0,0.0
+酒吧,Bugsy's Bar,Bugsy's Bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Manesova Bar and Books,Manesova Bar and Books,0,布拉格02,0.0,0.0,0.0
+酒吧,Vinarna Bokovka,Vinarna Bokovka,0,布拉格01,0.0,0.0,0.0
+酒吧,Cyril's Pub,Cyril's Pub,0,布拉格05,0.0,0.0,0.0
+酒吧,Vinoteka U Svaba,Vinoteka U Svaba,0,其他,0.0,0.0,0.0
+酒吧,Havana club bar,Havana club bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Jazz Republic,Jazz Republic,0,布拉格01,0.0,0.0,0.0
+酒吧,Alchymist Club,Alchymist Club,0,布拉格01,0.0,0.0,0.0
+酒吧,At the Golden Tiger (U zlateho tygra),At the Golden Tiger (U zlateho tygra),0,布拉格01,0.0,0.0,0.0
+酒吧,U Maleho Glena,U Maleho Glena,0,布拉格01,0.0,0.0,0.0
+酒吧,Booze Bar,Booze Bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Vinograf Wine Bar,Vinograf Wine Bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Chateau Rouge,Chateau Rouge,0,布拉格01,0.0,0.0,0.0
+酒吧,Orange Bar & Cafe,Orange Bar & Cafe,0,布拉格01,0.0,0.0,0.0
+酒吧,The Saints,The Saints,0,布拉格02,0.0,0.0,0.0
+酒吧,The Hollow (Restaurace Jáma),The Hollow (Restaurace Jáma),0,布拉格01,0.0,0.0,0.0
+酒吧,The Shamrock Irish Pub,The Shamrock Irish Pub,0,布拉格01,0.0,0.0,0.0
+酒吧,Groove Bar,Groove Bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Blues Sklep,Blues Sklep,0,布拉格01,0.0,0.0,0.0
+酒吧,Rock Cafe,Rock Cafe,0,布拉格01,0.0,0.0,0.0
+酒吧,Small Homeowners Association (Baracnicka rychta),Small Homeowners Association (Baracnicka rychta),0,布拉格01,0.0,0.0,0.0
+酒吧,Harley's Bar,Harley's Bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Prvni Pivni Tramway (First Beer Tramway),Prvni Pivni Tramway (First Beer Tramway),0,布拉格11,0.0,0.0,0.0
+酒吧,Washingtons,Washingtons,0,布拉格01,0.0,0.0,0.0
+酒吧,Barego,Barego,0,布拉格01,0.0,0.0,0.0
+酒吧,Music club Zlaty strom,Music club Zlaty strom,0,布拉格01,0.0,0.0,0.0
+酒吧,New York Cocktail Bar at Hotel U Prince,New York Cocktail Bar at Hotel U Prince,0,布拉格01,0.0,0.0,0.0
+酒吧,Kafirna U Sv. Omara,Kafirna U Sv. Omara,0,布拉格01,0.0,0.0,0.0
+酒吧,Molly Malones,Molly Malones,0,布拉格01,0.0,0.0,0.0
+酒吧,Aloha Cocktail Bar & Music Club,Aloha Cocktail Bar & Music Club,0,布拉格01,0.0,0.0,0.0
+酒吧,Bar Vyloha,Bar Vyloha,0,布拉格02,0.0,0.0,0.0
+酒吧,Restaurace Vinicni Altan,Restaurace Vinicni Altan,0,布拉格02,0.0,0.0,0.0
+酒吧,Radost F/X,Radost F/X,0,布拉格03,0.0,0.0,0.0
+酒吧,Pivnice Jamajka,Pivnice Jamajka,0,布拉格05,0.0,0.0,0.0
+酒吧,U Bezousku,U Bezousku,0,其他,0.0,0.0,0.0
+酒吧,Klasterni Pivnice,Klasterni Pivnice,0,布拉格07,0.0,0.0,0.0
+酒吧,Pivovar A Restaurace,Pivovar A Restaurace,0,其他,0.0,0.0,0.0
+酒吧,John Bull Pub,John Bull Pub,0,布拉格01,0.0,0.0,0.0
+酒吧,Vino Verona,Vino Verona,0,布拉格01,0.0,0.0,0.0
+酒吧,Airest czech republic,Airest czech republic,0,其他,0.0,0.0,0.0
+酒吧,The Pub,The Pub,0,布拉格01,0.0,0.0,0.0
+酒吧,Restaurace Prazsky,Restaurace Prazsky,0,布拉格01,0.0,0.0,0.0
+酒吧,Monarch Wine Bar,Monarch Wine Bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Anonymous bar,Anonymous bar,0,布拉格01,0.0,0.0,0.0
+酒吧,Pinocchio,Pinocchio,0,布拉格03,0.0,0.0,0.0
+酒吧,St. Thomas Brewery Bar,St. Thomas Brewery Bar,0,其他,0.0,0.0,0.0
+酒吧,Postel Bar,Postel Bar,0,布拉格07,0.0,0.0,0.0
+酒吧,Zdenek's Oyster Bar,Zdenek's Oyster Bar,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafe Louvre,Cafe Louvre,0,布拉格01,7.8,7.8,7.7
+更多美食,Kampa Park,Kampa Park,0,布拉格01,8.4,8.4,8.4
+更多美食,Cafe Imperial,Cafe Imperial,0,布拉格01,7.9,8.3,8.6
+更多美食,Coda,Coda,0,布拉格01,8.0,8.5,8.0
+更多美食,Radnicni sklipek,Radnicni sklipek,0,布拉格05,7.7,7.7,6.9
+更多美食,Mustek Restaurant,Mustek Restaurant,0,布拉格01,7.5,8.0,7.9
+更多美食,Bellevue,Bellevue,0,布拉格01,7.8,7.8,7.8
+更多美食,Maly Buddha,Maly Buddha,0,布拉格01,8.4,8.4,8.4
+更多美食,Restaurace U dvou velbloudu,Restaurace U dvou velbloudu,0,布拉格01,8.4,8.4,8.4
+更多美食,Café Franz Kafka,Café Franz Kafka,0,布拉格01,8.3,8.3,8.3
+更多美食,Vitejte U Zlateho Hada,Vitejte U Zlateho Hada,0,布拉格01,8.3,8.3,8.3
+更多美食,Tkalcovsky Dvur,Tkalcovsky Dvur,0,布拉格01,6.7,7.5,6.7
+更多美食,Pilsner Urquell Original Restaurant,Pilsner Urquell Original Restaurant,0,其他,7.7,7.7,7.7
+更多美食,U tri zlatych trojek,U tri zlatych trojek,0,布拉格01,7.5,7.2,7.2
+更多美食,La Scala,La Scala,0,布拉格01,7.4,7.4,7.4
+更多美食,Havlickova Restaurant,Havlickova Restaurant,0,布拉格01,7.4,6.7,7.4
+更多美食,Hotel Barcelo,Hotel Barcelo,0,布拉格04,7.2,7.2,7.2
+更多美食,SOHO+ restaurant&garden,SOHO+ restaurant&garden,0,布拉格04,7.2,7.7,7.2
+更多美食,Hotel Diana Restaurant,Hotel Diana Restaurant,0,布拉格14,6.9,6.9,6.9
+更多美食,Kolkovna,Kolkovna,0,布拉格01,6.7,6.7,5.0
+更多美食,U Parlamentu,U Parlamentu,0,布拉格01,0.0,0.0,0.0
+更多美食,Les Moules,Les Moules,0,布拉格01,0.0,0.0,0.0
+更多美食,Plzenska Restaurace,Plzenska Restaurace,0,布拉格01,0.0,0.0,0.0
+更多美食,Cartouche,Cartouche,0,布拉格01,0.0,0.0,0.0
+更多美食,Legenda,Legenda,0,布拉格02,0.0,0.0,0.0
+更多美食,"Oliva Nera, s.r.o.","Oliva Nera, s.r.o.",0,布拉格01,0.0,0.0,0.0
+更多美食,Tri Stoleti,Tri Stoleti,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant Vikarka,Restaurant Vikarka,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafe Garden Loreta,Cafe Garden Loreta,0,布拉格01,0.0,0.0,0.0
+更多美食,Nifos Zlaty Strom Hotel Restaurant,Nifos Zlaty Strom Hotel Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,Na Pekarce,Na Pekarce,0,布拉格04,0.0,0.0,0.0
+更多美食,Kafe Afrika,Kafe Afrika,0,布拉格01,0.0,0.0,0.0
+更多美食,The Alcron,The Alcron,0,布拉格01,0.0,0.0,0.0
+更多美食,Malostranska Beseda,Malostranska Beseda,0,布拉格01,0.0,0.0,0.0
+更多美食,Plzensky Restaurant Andel,Plzensky Restaurant Andel,0,布拉格05,0.0,0.0,0.0
+更多美食,Mama Coffee,Mama Coffee,0,布拉格01,0.0,0.0,0.0
+更多美食,U Tri Pstrosu,U Tri Pstrosu,0,布拉格01,0.0,0.0,0.0
+更多美食,V Zatisi,V Zatisi,0,布拉格01,0.0,0.0,0.0
+更多美食,Como Restaurant & Cafe,Como Restaurant & Cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,mEating point,mEating point,0,布拉格01,0.0,0.0,0.0
+更多美食,Ambiente (Restaurante Brasiliero),Ambiente (Restaurante Brasiliero),0,布拉格01,0.0,0.0,0.0
+更多美食,U Jindrisske Veze,U Jindrisske Veze,0,布拉格01,0.0,0.0,0.0
+更多美食,Sansho,Sansho,0,布拉格01,0.0,0.0,0.0
+更多美食,U Vahy,U Vahy,0,布拉格05,0.0,0.0,0.0
+更多美食,Sokolovna,Sokolovna,0,布拉格02,0.0,0.0,0.0
+更多美食,U Divadla,U Divadla,0,布拉格04,0.0,0.0,0.0
+更多美食,Ristorante Prosecco,Ristorante Prosecco,0,其他,0.0,0.0,0.0
+更多美食,Mozaika Prague Restaurant,Mozaika Prague Restaurant,0,布拉格02,0.0,0.0,0.0
+更多美食,Peter's Burger Pub,Peter's Burger Pub,0,其他,0.0,0.0,0.0
+更多美食,Pod Juliskou,Pod Juliskou,0,其他,0.0,0.0,0.0
+更多美食,Green Tomato,Green Tomato,0,布拉格01,0.0,0.0,0.0
+更多美食,"Essensia at Mandarin Oriental, Prague","Essensia at Mandarin Oriental, Prague",0,布拉格01,0.0,0.0,0.0
+更多美食,U male velryby - Little Whale,U male velryby - Little Whale,0,布拉格01,0.0,0.0,0.0
+更多美食,Maestro,Maestro,0,布拉格01,0.0,0.0,0.0
+更多美食,U Zlateho Precliku,U Zlateho Precliku,0,布拉格01,0.0,0.0,0.0
+更多美食,Julius Meinl Praha,Julius Meinl Praha,0,布拉格01,0.0,0.0,0.0
+更多美食,The Secret of Raw,The Secret of Raw,0,布拉格03,0.0,0.0,0.0
+更多美食,Potrefena Husa Dejvice,Potrefena Husa Dejvice,0,其他,0.0,0.0,0.0
+更多美食,Cafe Bar Archa U Prokupku,Cafe Bar Archa U Prokupku,0,布拉格01,0.0,0.0,0.0
+更多美食,Francouzska restaurant Art Nouveau v Obecnim dome,Francouzska restaurant Art Nouveau v Obecnim dome,0,布拉格01,0.0,0.0,0.0
+更多美食,Le Grill Restaurant and Garden @ The Kempinski,Le Grill Restaurant and Garden @ The Kempinski,0,布拉格01,0.0,0.0,0.0
+更多美食,Brasserie mEating Point,Brasserie mEating Point,0,布拉格01,0.0,0.0,0.0
+更多美食,Chicago Music Bar,Chicago Music Bar,0,布拉格01,0.0,0.0,0.0
+更多美食,Nebozizek,Nebozizek,0,布拉格01,0.0,0.0,0.0
+更多美食,V Cipu,V Cipu,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant Anna,Restaurant Anna,0,布拉格01,0.0,0.0,0.0
+更多美食,Samarkand,Samarkand,0,布拉格01,0.0,0.0,0.0
+更多美食,Stara Praha Restaurace,Stara Praha Restaurace,0,布拉格01,0.0,0.0,0.0
+更多美食,Lehka Hlava/Clear Head,Lehka Hlava/Clear Head,0,布拉格01,0.0,0.0,0.0
+更多美食,Hombre del Mundo Mexicano Restaurant,Hombre del Mundo Mexicano Restaurant,0,布拉格05,0.0,0.0,0.0
+更多美食,Restaurace Sedm Konselu,Restaurace Sedm Konselu,0,布拉格01,0.0,0.0,0.0
+更多美食,U Rudolfina,U Rudolfina,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant U Glaubicu,Restaurant U Glaubicu,0,布拉格01,0.0,0.0,0.0
+更多美食,Lavicka - Zahradni Restaurace,Lavicka - Zahradni Restaurace,0,布拉格03,0.0,0.0,0.0
+更多美食,Ambiente - Pizza Nuova,Ambiente - Pizza Nuova,0,布拉格01,0.0,0.0,0.0
+更多美食,Maitrea,Maitrea,0,布拉格01,0.0,0.0,0.0
+更多美食,Planeta Zizkov,Planeta Zizkov,0,其他,0.0,0.0,0.0
+更多美食,Pivovarsky klub,Pivovarsky klub,0,其他,0.0,0.0,0.0
+更多美食,CP1Cafe,CP1Cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,Potrefene husa (The Wounded Goose),Potrefene husa (The Wounded Goose),0,布拉格02,0.0,0.0,0.0
+更多美食,Lokal Blok,Lokal Blok,0,布拉格05,0.0,0.0,0.0
+更多美食,Golden Tikka,Golden Tikka,0,布拉格01,0.0,0.0,0.0
+更多美食,Potrefena Husa,Potrefena Husa,0,布拉格01,0.0,0.0,0.0
+更多美食,Ambiente Brasileiro,Ambiente Brasileiro,0,布拉格01,0.0,0.0,0.0
+更多美食,Lobby Lounge at Prague Marriott Hotel,Lobby Lounge at Prague Marriott Hotel,0,布拉格01,0.0,0.0,0.0
+更多美食,Deminka,Deminka,0,布拉格02,0.0,0.0,0.0
+更多美食,Gate Restaurant,Gate Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Republika Restaurace,Republika Restaurace,0,布拉格01,0.0,0.0,0.0
+更多美食,U Chcipaka,U Chcipaka,0,其他,0.0,0.0,0.0
+更多美食,Amfora Invalidovna,Amfora Invalidovna,0,其他,0.0,0.0,0.0
+更多美食,Stara Promin,Stara Promin,0,布拉格03,0.0,0.0,0.0
+更多美食,U Kostela,U Kostela,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant U Spirku,Restaurant U Spirku,0,布拉格01,0.0,0.0,0.0
+更多美食,Jewel Cafe Bar,Jewel Cafe Bar,0,布拉格01,0.0,0.0,0.0
+更多美食,Pizzeria Pulcinella,Pizzeria Pulcinella,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant U Zlate Konvice,Restaurant U Zlate Konvice,0,布拉格01,0.0,0.0,0.0
+更多美食,U Sevce Matouse,U Sevce Matouse,0,布拉格01,0.0,0.0,0.0
+更多美食,Peking Chinese Restaurant,Peking Chinese Restaurant,0,布拉格04,0.0,0.0,0.0
+更多美食,Parnas,Parnas,0,布拉格01,0.0,0.0,0.0
+更多美食,Hradcany Restaurant,Hradcany Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,U Kazdu,U Kazdu,0,其他,0.0,0.0,0.0
+更多美食,Bohemia Bagel Burger Bar Holesovice,Bohemia Bagel Burger Bar Holesovice,0,布拉格07,0.0,0.0,0.0
+更多美食,Hoffa,Hoffa,0,布拉格01,0.0,0.0,0.0
+更多美食,Pravda,Pravda,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant Mr. A,Restaurant Mr. A,0,布拉格01,0.0,0.0,0.0
+更多美食,Podskalska celnice na Vytoni,Podskalska celnice na Vytoni,0,布拉格02,0.0,0.0,0.0
+更多美食,Highland Steak House,Highland Steak House,0,布拉格03,0.0,0.0,0.0
+更多美食,Erra,Erra,0,布拉格01,0.0,0.0,0.0
+更多美食,Alpsky Dvur,Alpsky Dvur,0,布拉格02,0.0,0.0,0.0
+更多美食,Potrefena Resslova,Potrefena Resslova,0,布拉格02,0.0,0.0,0.0
+更多美食,Cafe Palace,Cafe Palace,0,布拉格01,0.0,0.0,0.0
+更多美食,Pod Loubim,Pod Loubim,0,其他,0.0,0.0,0.0
+更多美食,Restaurace Kozicka,Restaurace Kozicka,0,布拉格01,0.0,0.0,0.0
+更多美食,Resraurance Koliba Praha,Resraurance Koliba Praha,0,布拉格11,0.0,0.0,0.0
+更多美食,Restaurant Cafe Bar Noodles,Restaurant Cafe Bar Noodles,0,布拉格01,0.0,0.0,0.0
+更多美食,Blue Light bar,Blue Light bar,0,布拉格01,0.0,0.0,0.0
+更多美食,Bellavista,Bellavista,0,布拉格01,0.0,0.0,0.0
+更多美食,Pilsner Restaurant,Pilsner Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant Stara Doba,Restaurant Stara Doba,0,布拉格02,0.0,0.0,0.0
+更多美食,Nominanza,Nominanza,0,布拉格03,0.0,0.0,0.0
+更多美食,Restaurant Budweiser Budvar,Restaurant Budweiser Budvar,0,其他,0.0,0.0,0.0
+更多美食,Radegastovna Peron,Radegastovna Peron,0,布拉格05,0.0,0.0,0.0
+更多美食,Country Life,Country Life,0,其他,0.0,0.0,0.0
+更多美食,Coffe Milani,Coffe Milani,0,布拉格01,0.0,0.0,0.0
+更多美食,Potrefena Husa Budejovicka,Potrefena Husa Budejovicka,0,布拉格04,0.0,0.0,0.0
+更多美食,Mamacita Catalina,Mamacita Catalina,0,其他,0.0,0.0,0.0
+更多美食,KFC Na Porici,KFC Na Porici,0,布拉格01,0.0,0.0,0.0
+更多美食,Uno,Uno,0,布拉格01,0.0,0.0,0.0
+更多美食,U Sani,U Sani,0,其他,0.0,0.0,0.0
+更多美食,Rio's Vysehrad,Rio's Vysehrad,0,布拉格02,0.0,0.0,0.0
+更多美食,Leta pane,Leta pane,0,布拉格14,0.0,0.0,0.0
+更多美食,U Matouse,U Matouse,0,布拉格05,0.0,0.0,0.0
+更多美食,A Propos,A Propos,0,布拉格01,0.0,0.0,0.0
+更多美食,Velka Klasterni Restaurace,Velka Klasterni Restaurace,0,布拉格01,0.0,0.0,0.0
+更多美食,Vegetka,Vegetka,0,其他,0.0,0.0,0.0
+更多美食,Sushi House,Sushi House,0,布拉格01,0.0,0.0,0.0
+更多美食,Hotel Christie,Hotel Christie,0,布拉格01,0.0,0.0,0.0
+更多美食,Shang Hai,Shang Hai,0,布拉格02,0.0,0.0,0.0
+更多美食,Cafe Indigo,Cafe Indigo,0,布拉格01,0.0,0.0,0.0
+更多美食,ristorante U Raka,ristorante U Raka,0,布拉格01,0.0,0.0,0.0
+更多美食,KFC Harfa,KFC Harfa,0,其他,0.0,0.0,0.0
+更多美食,U Vejvodu,U Vejvodu,0,布拉格01,0.0,0.0,0.0
+更多美食,la primavera,la primavera,0,布拉格01,0.0,0.0,0.0
+更多美食,Zvonarka,Zvonarka,0,布拉格02,0.0,0.0,0.0
+更多美食,Bosna grill,Bosna grill,0,布拉格03,0.0,0.0,0.0
+更多美食,U Krkouna,U Krkouna,0,布拉格03,0.0,0.0,0.0
+更多美食,Formanka,Formanka,0,其他,0.0,0.0,0.0
+更多美食,Sasori Restaurant,Sasori Restaurant,0,布拉格07,0.0,0.0,0.0
+更多美食,KFC Arkady,KFC Arkady,0,布拉格04,0.0,0.0,0.0
+更多美食,Restaurace Flambee,Restaurace Flambee,0,布拉格01,0.0,0.0,0.0
+更多美食,Fragola Project,Fragola Project,0,布拉格01,0.0,0.0,0.0
+更多美食,Perly Asie,Perly Asie,0,布拉格01,0.0,0.0,0.0
+更多美食,Pohadka,Pohadka,0,布拉格03,0.0,0.0,0.0
+更多美食,Rozmitalka Zizkov,Rozmitalka Zizkov,0,其他,0.0,0.0,0.0
+更多美食,Pizza Fast Food Lambertini,Pizza Fast Food Lambertini,0,其他,0.0,0.0,0.0
+更多美食,Nominanza River,Nominanza River,0,布拉格01,0.0,0.0,0.0
+更多美食,Zlata Vaha,Zlata Vaha,0,布拉格01,0.0,0.0,0.0
+更多美食,Bily jerab,Bily jerab,0,布拉格01,0.0,0.0,0.0
+更多美食,Jina Krajina,Jina Krajina,0,布拉格01,0.0,0.0,0.0
+更多美食,Bresto,Bresto,0,布拉格01,0.0,0.0,0.0
+更多美食,Posezeny U Ciriny,Posezeny U Ciriny,0,布拉格01,0.0,0.0,0.0
+更多美食,Rocky O'Reillys,Rocky O'Reillys,0,布拉格01,0.0,0.0,0.0
+更多美食,Estrella,Estrella,0,布拉格01,0.0,0.0,0.0
+更多美食,Kyvadlo,Kyvadlo,0,布拉格01,0.0,0.0,0.0
+更多美食,Bageterie Boulevard,Bageterie Boulevard,0,布拉格01,0.0,0.0,0.0
+更多美食,Costa Coffee,Costa Coffee,0,布拉格01,0.0,0.0,0.0
+更多美食,Vagon,Vagon,0,布拉格01,0.0,0.0,0.0
+更多美食,New Duplex,New Duplex,0,布拉格01,0.0,0.0,0.0
+更多美食,NOI- The Art of Taste,NOI- The Art of Taste,0,布拉格01,0.0,0.0,0.0
+更多美食,Pod Petrinem,Pod Petrinem,0,布拉格01,0.0,0.0,0.0
+更多美食,Klub Architektu,Klub Architektu,0,布拉格01,0.0,0.0,0.0
+更多美食,Le Terroir,Le Terroir,0,布拉格01,0.0,0.0,0.0
+更多美食,U Provaznice - Staroprazsky hostinec,U Provaznice - Staroprazsky hostinec,0,布拉格01,0.0,0.0,0.0
+更多美食,Angelato Cafe,Angelato Cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,Blatnice,Blatnice,0,布拉格01,0.0,0.0,0.0
+更多美食,Country Life,Country Life,0,布拉格01,0.0,0.0,0.0
+更多美食,Art Cafe,Art Cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant Zlaty Hrozen,Restaurant Zlaty Hrozen,0,布拉格01,0.0,0.0,0.0
+更多美食,Ferdinanda,Ferdinanda,0,布拉格01,0.0,0.0,0.0
+更多美食,U Maliru,U Maliru,0,布拉格01,0.0,0.0,0.0
+更多美食,Black Angel's Bar,Black Angel's Bar,0,布拉格01,0.0,0.0,0.0
+更多美食,Bohemica Old Town,Bohemica Old Town,0,布拉格01,0.0,0.0,0.0
+更多美食,Cerny Slon,Cerny Slon,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafe 22,Cafe 22,0,布拉格01,0.0,0.0,0.0
+更多美食,Touch Restaurant & Lounge,Touch Restaurant & Lounge,0,布拉格01,0.0,0.0,0.0
+更多美食,Giallo Rossa,Giallo Rossa,0,布拉格01,0.0,0.0,0.0
+更多美食,Valasska Pivnice,Valasska Pivnice,0,布拉格01,0.0,0.0,0.0
+更多美食,Brasserie La Gare a Boutiques Gourmandes,Brasserie La Gare a Boutiques Gourmandes,0,布拉格01,0.0,0.0,0.0
+更多美食,U Kocoura,U Kocoura,0,布拉格01,0.0,0.0,0.0
+更多美食,LoVeg,LoVeg,0,布拉格01,0.0,0.0,0.0
+更多美食,Au Gourmand,Au Gourmand,0,布拉格01,0.0,0.0,0.0
+更多美食,Amos,Amos,0,布拉格01,0.0,0.0,0.0
+更多美食,Chagall´s Club Restaurant,Chagall´s Club Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,Tonino Lamborghini Pastacaffe,Tonino Lamborghini Pastacaffe,0,布拉格01,0.0,0.0,0.0
+更多美食,Apetit,Apetit,0,布拉格01,0.0,0.0,0.0
+更多美食,Aloha Coctail Bar & Music Club,Aloha Coctail Bar & Music Club,0,布拉格01,0.0,0.0,0.0
+更多美食,Loving Hut,Loving Hut,0,布拉格01,0.0,0.0,0.0
+更多美食,Chez Marcel,Chez Marcel,0,布拉格01,0.0,0.0,0.0
+更多美食,New Limit,New Limit,0,布拉格01,0.0,0.0,0.0
+更多美食,Lobkowicz Palace Cafe,Lobkowicz Palace Cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,U Cerveneho Kola,U Cerveneho Kola,0,布拉格01,0.0,0.0,0.0
+更多美食,Koliba U Pastyrky,Koliba U Pastyrky,0,布拉格02,0.0,0.0,0.0
+更多美食,I Love Mama,I Love Mama,0,布拉格02,0.0,0.0,0.0
+更多美食,Beas Vegatarian Dhaba,Beas Vegatarian Dhaba,0,布拉格02,0.0,0.0,0.0
+更多美食,"JB Club, Restaurant u Emy Destinnove","JB Club, Restaurant u Emy Destinnove",0,布拉格02,0.0,0.0,0.0
+更多美食,Matylda restaurant - pizzeria,Matylda restaurant - pizzeria,0,布拉格02,0.0,0.0,0.0
+更多美食,Pivovarsky dum,Pivovarsky dum,0,布拉格02,0.0,0.0,0.0
+更多美食,Bruxx,Bruxx,0,布拉格02,0.0,0.0,0.0
+更多美食,Krcma u Parasutistu,Krcma u Parasutistu,0,布拉格02,0.0,0.0,0.0
+更多美食,Potrefena Husa Vinohrady,Potrefena Husa Vinohrady,0,布拉格02,0.0,0.0,0.0
+更多美食,Pivnice U Sadu,Pivnice U Sadu,0,布拉格03,0.0,0.0,0.0
+更多美食,Oblaca,Oblaca,0,布拉格03,0.0,0.0,0.0
+更多美食,Tiki Taky,Tiki Taky,0,布拉格03,0.0,0.0,0.0
+更多美食,T.G.I. Friday's Andel,T.G.I. Friday's Andel,0,布拉格05,0.0,0.0,0.0
+更多美食,Loving Hut,Loving Hut,0,布拉格05,0.0,0.0,0.0
+更多美食,La Carezza Pizzeria Ristorante - Žlute Lazne,La Carezza Pizzeria Ristorante - Žlute Lazne,0,布拉格04,0.0,0.0,0.0
+更多美食,El Asador,El Asador,0,其他,0.0,0.0,0.0
+更多美食,Tandoor,Tandoor,0,其他,0.0,0.0,0.0
+更多美食,U Slovanske lipy,U Slovanske lipy,0,其他,0.0,0.0,0.0
+更多美食,Dobra trefa,Dobra trefa,0,其他,0.0,0.0,0.0
+更多美食,MOOD restaurant,MOOD restaurant,0,其他,0.0,0.0,0.0
+更多美食,Mlsna Kavka,Mlsna Kavka,0,其他,0.0,0.0,0.0
+更多美食,Charleston,Charleston,0,其他,0.0,0.0,0.0
+更多美食,Dejvicka Sokolovna,Dejvicka Sokolovna,0,其他,0.0,0.0,0.0
+更多美食,Argument,Argument,0,其他,0.0,0.0,0.0
+更多美食,La Trattoria Turbanti,La Trattoria Turbanti,0,其他,0.0,0.0,0.0
+更多美食,Pivovar u Bulovky,Pivovar u Bulovky,0,其他,0.0,0.0,0.0
+更多美食,Kavarna La Torta,Kavarna La Torta,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria La Ventola,Pizzeria La Ventola,0,其他,0.0,0.0,0.0
+更多美食,PEt penEz,PEt penEz,0,布拉格07,0.0,0.0,0.0
+更多美食,360 Bar & Lounge,360 Bar & Lounge,0,布拉格14,0.0,0.0,0.0
+更多美食,Bar & Restaurant LocaL,Bar & Restaurant LocaL,0,布拉格15,0.0,0.0,0.0
+更多美食,Joe Cafe,Joe Cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,McDonald's I.P. Pavlova,McDonald's I.P. Pavlova,0,布拉格02,0.0,0.0,0.0
+更多美食,Pizzeria Castello,Pizzeria Castello,0,布拉格01,0.0,0.0,0.0
+更多美食,Florentina Boat,Florentina Boat,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurace Mona Lisa,Restaurace Mona Lisa,0,布拉格01,0.0,0.0,0.0
+更多美食,Maria Prag Restaurant,Maria Prag Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,Hostinee U Zlate Kotvy,Hostinee U Zlate Kotvy,0,布拉格02,0.0,0.0,0.0
+更多美食,Hotel Praga 1885,Hotel Praga 1885,0,布拉格05,0.0,0.0,0.0
+更多美食,Na Stare Fare,Na Stare Fare,0,其他,0.0,0.0,0.0
+更多美食,Columna,Columna,0,布拉格11,0.0,0.0,0.0
+更多美食,Pizza4you,Pizza4you,0,布拉格15,0.0,0.0,0.0
+更多美食,Gurman,Gurman,0,布拉格15,0.0,0.0,0.0
+更多美食,Kamenny Stuhl,Kamenny Stuhl,0,布拉格01,0.0,0.0,0.0
+更多美食,Dolce Villa,Dolce Villa,0,其他,0.0,0.0,0.0
+更多美食,Cafe Liberty,Cafe Liberty,0,布拉格01,0.0,0.0,0.0
+更多美食,Svejk Restaurant,Svejk Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,A Plus,A Plus,0,其他,0.0,0.0,0.0
+更多美食,U Cerne Plice,U Cerne Plice,0,其他,0.0,0.0,0.0
+更多美食,Bel Bello,Bel Bello,0,布拉格14,0.0,0.0,0.0
+更多美食,McDonald's Florenc,McDonald's Florenc,0,其他,0.0,0.0,0.0
+更多美食,Strara Praha,Strara Praha,0,布拉格01,0.0,0.0,0.0
+更多美食,Hloupy Honza,Hloupy Honza,0,布拉格01,0.0,0.0,0.0
+更多美食,Klub Cestovatelu,Klub Cestovatelu,0,布拉格01,0.0,0.0,0.0
+更多美食,Dynamo,Dynamo,0,布拉格01,0.0,0.0,0.0
+更多美食,Na Blbym MistE,Na Blbym MistE,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafebar Wigwam,Cafebar Wigwam,0,布拉格01,0.0,0.0,0.0
+更多美食,U Ceskych Panu Restaurant,U Ceskych Panu Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,Fair Food Ujezd,Fair Food Ujezd,0,布拉格01,0.0,0.0,0.0
+更多美食,Nebe,Nebe,0,布拉格01,0.0,0.0,0.0
+更多美食,Haskova restaurace U Brejsku,Haskova restaurace U Brejsku,0,布拉格01,0.0,0.0,0.0
+更多美食,Creperie Aux Clochettes,Creperie Aux Clochettes,0,布拉格01,0.0,0.0,0.0
+更多美食,McDonald's Vaclavske Namesti,McDonald's Vaclavske Namesti,0,布拉格01,0.0,0.0,0.0
+更多美食,"Irma Guga, Georgian Restaurant","Irma Guga, Georgian Restaurant",0,布拉格01,0.0,0.0,0.0
+更多美食,Paneria,Paneria,0,布拉格01,0.0,0.0,0.0
+更多美食,Don Giovanni,Don Giovanni,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant Achat,Restaurant Achat,0,布拉格01,0.0,0.0,0.0
+更多美食,PopoCafePetl,PopoCafePetl,0,布拉格01,0.0,0.0,0.0
+更多美食,U Dominikana,U Dominikana,0,布拉格01,0.0,0.0,0.0
+更多美食,U Lilie,U Lilie,0,布拉格01,0.0,0.0,0.0
+更多美食,Salon Restaurant,Salon Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,U Modreho Hroznu,U Modreho Hroznu,0,布拉格01,0.0,0.0,0.0
+更多美食,Vino deja vu,Vino deja vu,0,布拉格01,0.0,0.0,0.0
+更多美食,NAPA bar and gallery,NAPA bar and gallery,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurace U Supa,Restaurace U Supa,0,布拉格01,0.0,0.0,0.0
+更多美食,El Toro Negro at Grand Hotel Praha,El Toro Negro at Grand Hotel Praha,0,布拉格01,0.0,0.0,0.0
+更多美食,Krcma U Pavouka,Krcma U Pavouka,0,布拉格01,0.0,0.0,0.0
+更多美食,U Templaru,U Templaru,0,布拉格01,0.0,0.0,0.0
+更多美食,Staromestska Restaurace,Staromestska Restaurace,0,布拉格01,0.0,0.0,0.0
+更多美食,Vinograf Misenska,Vinograf Misenska,0,布拉格01,0.0,0.0,0.0
+更多美食,Bond Cafe,Bond Cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,Lippert Hotel Restaurant,Lippert Hotel Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,La Belle Epoque,La Belle Epoque,0,布拉格01,0.0,0.0,0.0
+更多美食,Siddharta cafe,Siddharta cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,Bea's Vegetarian Dhaba,Bea's Vegetarian Dhaba,0,布拉格01,0.0,0.0,0.0
+更多美食,Neo Palladium Cafe,Neo Palladium Cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,KFC Palladium,KFC Palladium,0,布拉格01,0.0,0.0,0.0
+更多美食,McDonald's Palladium,McDonald's Palladium,0,布拉格01,0.0,0.0,0.0
+更多美食,Cukrarna Hajek,Cukrarna Hajek,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant Longiano,Restaurant Longiano,0,布拉格01,0.0,0.0,0.0
+更多美食,U Carodejek,U Carodejek,0,布拉格01,0.0,0.0,0.0
+更多美食,Bombay bar,Bombay bar,0,布拉格01,0.0,0.0,0.0
+更多美食,Frame,Frame,0,布拉格01,0.0,0.0,0.0
+更多美食,Fastys,Fastys,0,布拉格01,0.0,0.0,0.0
+更多美食,Le Court Gallery,Le Court Gallery,0,布拉格01,0.0,0.0,0.0
+更多美食,James Joyce The Irish Pub,James Joyce The Irish Pub,0,布拉格01,0.0,0.0,0.0
+更多美食,Viet Corner HD,Viet Corner HD,0,布拉格01,0.0,0.0,0.0
+更多美食,Hostinec U Sadlu,Hostinec U Sadlu,0,布拉格01,0.0,0.0,0.0
+更多美食,Tobruk,Tobruk,0,布拉格01,0.0,0.0,0.0
+更多美食,U Neklana,U Neklana,0,布拉格02,0.0,0.0,0.0
+更多美食,U Karla IV,U Karla IV,0,布拉格02,0.0,0.0,0.0
+更多美食,Don Ciccio Ristorante,Don Ciccio Ristorante,0,布拉格02,0.0,0.0,0.0
+更多美食,Bio Zahrada,Bio Zahrada,0,布拉格02,0.0,0.0,0.0
+更多美食,Pizzeria Einstein,Pizzeria Einstein,0,布拉格02,0.0,0.0,0.0
+更多美食,U Posty,U Posty,0,布拉格02,0.0,0.0,0.0
+更多美食,U Moznych,U Moznych,0,布拉格02,0.0,0.0,0.0
+更多美食,Boem Restaurant,Boem Restaurant,0,布拉格02,0.0,0.0,0.0
+更多美食,Kavárna Pražírna,Kavárna Pražírna,0,布拉格02,0.0,0.0,0.0
+更多美食,Pizza Coloseum Legerova,Pizza Coloseum Legerova,0,布拉格02,0.0,0.0,0.0
+更多美食,Obycejny svet,Obycejny svet,0,布拉格02,0.0,0.0,0.0
+更多美食,KFC I.P.Pavlova,KFC I.P.Pavlova,0,布拉格02,0.0,0.0,0.0
+更多美食,U Dlabace,U Dlabace,0,布拉格02,0.0,0.0,0.0
+更多美食,City Bar,City Bar,0,布拉格02,0.0,0.0,0.0
+更多美食,Cafe V,Cafe V,0,布拉格02,0.0,0.0,0.0
+更多美食,Cafe Buddha,Cafe Buddha,0,布拉格02,0.0,0.0,0.0
+更多美食,Wings Club,Wings Club,0,布拉格03,0.0,0.0,0.0
+更多美食,U Marianskeho obrazu,U Marianskeho obrazu,0,布拉格03,0.0,0.0,0.0
+更多美食,Palac Akropolis,Palac Akropolis,0,布拉格03,0.0,0.0,0.0
+更多美食,U Stare Pece,U Stare Pece,0,布拉格03,0.0,0.0,0.0
+更多美食,Kure v hodinkach,Kure v hodinkach,0,布拉格03,0.0,0.0,0.0
+更多美食,Spice India,Spice India,0,布拉格03,0.0,0.0,0.0
+更多美食,Hotel Victor,Hotel Victor,0,布拉格03,0.0,0.0,0.0
+更多美食,Bernard Pub,Bernard Pub,0,布拉格03,0.0,0.0,0.0
+更多美食,Polo,Polo,0,布拉格03,0.0,0.0,0.0
+更多美食,PAVAON,PAVAON,0,布拉格03,0.0,0.0,0.0
+更多美食,U Kristiana,U Kristiana,0,布拉格05,0.0,0.0,0.0
+更多美食,Movenpick Restaurant,Movenpick Restaurant,0,布拉格05,0.0,0.0,0.0
+更多美食,Restaurace Pravek IV,Restaurace Pravek IV,0,布拉格05,0.0,0.0,0.0
+更多美食,Pizza Coloseum,Pizza Coloseum,0,布拉格05,0.0,0.0,0.0
+更多美食,U Stareho lva,U Stareho lva,0,布拉格05,0.0,0.0,0.0
+更多美食,Dock House,Dock House,0,布拉格04,0.0,0.0,0.0
+更多美食,Chapadlo,Chapadlo,0,布拉格04,0.0,0.0,0.0
+更多美食,U Bansethu,U Bansethu,0,布拉格04,0.0,0.0,0.0
+更多美食,Meduse,Meduse,0,其他,0.0,0.0,0.0
+更多美食,U Bileho Lva,U Bileho Lva,0,其他,0.0,0.0,0.0
+更多美食,Vila Kajetanka,Vila Kajetanka,0,其他,0.0,0.0,0.0
+更多美食,Jurys Inn,Jurys Inn,0,其他,0.0,0.0,0.0
+更多美食,500 Restaurant,500 Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Perpetuum,Perpetuum,0,其他,0.0,0.0,0.0
+更多美食,U Cedru,U Cedru,0,其他,0.0,0.0,0.0
+更多美食,Na Urale,Na Urale,0,其他,0.0,0.0,0.0
+更多美食,kavala,kavala,0,其他,0.0,0.0,0.0
+更多美食,Villa Schwaiger Restaurant,Villa Schwaiger Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Green Yacht,Green Yacht,0,其他,0.0,0.0,0.0
+更多美食,La Maler,La Maler,0,其他,0.0,0.0,0.0
+更多美食,Rana Pakistani Restaurant,Rana Pakistani Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Ristorante & Pizzeria Del Corso,Ristorante & Pizzeria Del Corso,0,其他,0.0,0.0,0.0
+更多美食,Na krasne vyhlidce,Na krasne vyhlidce,0,其他,0.0,0.0,0.0
+更多美食,Hospodka U Kasparka,Hospodka U Kasparka,0,布拉格10,0.0,0.0,0.0
+更多美食,Yakumo Praha,Yakumo Praha,0,布拉格10,0.0,0.0,0.0
+更多美食,Plevel Restaurant,Plevel Restaurant,0,布拉格10,0.0,0.0,0.0
+更多美食,Pizzeria Riccardo,Pizzeria Riccardo,0,布拉格07,0.0,0.0,0.0
+更多美食,Fraktal Bar,Fraktal Bar,0,布拉格07,0.0,0.0,0.0
+更多美食,Ouky Douky Coffee,Ouky Douky Coffee,0,布拉格07,0.0,0.0,0.0
+更多美食,Vegtral,Vegtral,0,布拉格07,0.0,0.0,0.0
+更多美食,La Bodega Flamenca,La Bodega Flamenca,0,布拉格07,0.0,0.0,0.0
+更多美食,Lokal Nad Stromovkou,Lokal Nad Stromovkou,0,布拉格07,0.0,0.0,0.0
+更多美食,Molo 22,Molo 22,0,布拉格07,0.0,0.0,0.0
+更多美食,Zlata Kovadlina,Zlata Kovadlina,0,布拉格07,0.0,0.0,0.0
+更多美食,Karolina hospudka,Karolina hospudka,0,布拉格15,0.0,0.0,0.0
+更多美食,Restaurante U Deloveho Krize,Restaurante U Deloveho Krize,0,其他,0.0,0.0,0.0
+更多美食,Hotel U Krale Karla Restaurant,Hotel U Krale Karla Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Wine Bar Na Sikme Plose,Wine Bar Na Sikme Plose,0,其他,0.0,0.0,0.0
+更多美食,El Mercado Argentino,El Mercado Argentino,0,其他,0.0,0.0,0.0
+更多美食,Pivovarska Restaurace Dvorce,Pivovarska Restaurace Dvorce,0,其他,0.0,0.0,0.0
+更多美食,Koala Cafe,Koala Cafe,0,其他,0.0,0.0,0.0
+更多美食,Restaurace Cesky Raj,Restaurace Cesky Raj,0,其他,0.0,0.0,0.0
+更多美食,Jazz Dock,Jazz Dock,0,其他,0.0,0.0,0.0
+更多美食,U Agamy,U Agamy,0,其他,0.0,0.0,0.0
+更多美食,Loving Hut,Loving Hut,0,布拉格01,0.0,0.0,0.0
+更多美食,Korunka,Korunka,0,布拉格01,0.0,0.0,0.0
+更多美食,Kavarna Mezi Radky,Kavarna Mezi Radky,0,布拉格01,0.0,0.0,0.0
+更多美食,U majora Zemana,U majora Zemana,0,布拉格01,0.0,0.0,0.0
+更多美食,Rezava Kotva,Rezava Kotva,0,布拉格01,0.0,0.0,0.0
+更多美食,Hostinec U Vojacku,Hostinec U Vojacku,0,布拉格01,0.0,0.0,0.0
+更多美食,Bar 69,Bar 69,0,布拉格01,0.0,0.0,0.0
+更多美食,Jagr's Sport Bar,Jagr's Sport Bar,0,布拉格01,0.0,0.0,0.0
+更多美食,Prazsky divadelni restaurant,Prazsky divadelni restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,Zlate casy,Zlate casy,0,布拉格01,0.0,0.0,0.0
+更多美食,U Mateje Kotrby,U Mateje Kotrby,0,布拉格01,0.0,0.0,0.0
+更多美食,Botel Klotylda Praha,Botel Klotylda Praha,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafe Revenir,Cafe Revenir,0,布拉格01,0.0,0.0,0.0
+更多美食,Prvni Novomestsky Restauracni,Prvni Novomestsky Restauracni,0,布拉格01,0.0,0.0,0.0
+更多美食,Tiantan,Tiantan,0,布拉格01,0.0,0.0,0.0
+更多美食,Jedova Chyse,Jedova Chyse,0,布拉格01,0.0,0.0,0.0
+更多美食,Strelecky Ostrov,Strelecky Ostrov,0,布拉格01,0.0,0.0,0.0
+更多美食,3 + 1,3 + 1,0,布拉格01,0.0,0.0,0.0
+更多美食,Branicky Sklipek,Branicky Sklipek,0,布拉格01,0.0,0.0,0.0
+更多美食,Vagonkafe,Vagonkafe,0,布拉格01,0.0,0.0,0.0
+更多美食,BonaVita,BonaVita,0,布拉格01,0.0,0.0,0.0
+更多美食,Actuel,Actuel,0,布拉格01,0.0,0.0,0.0
+更多美食,Wall Street Cafe,Wall Street Cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,Jidelna - restaurant Svetozor,Jidelna - restaurant Svetozor,0,布拉格01,0.0,0.0,0.0
+更多美食,Bar and Restaurant Oasis,Bar and Restaurant Oasis,0,布拉格01,0.0,0.0,0.0
+更多美食,Grandhotel Evropa,Grandhotel Evropa,0,布拉格01,0.0,0.0,0.0
+更多美食,Sosta restaurant,Sosta restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,Bohe(my)a Lounge & Grill Bar,Bohe(my)a Lounge & Grill Bar,0,布拉格01,0.0,0.0,0.0
+更多美食,Evald,Evald,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafe Coffee Day Emporio,Cafe Coffee Day Emporio,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafe-Bar Platyz,Cafe-Bar Platyz,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant Hockey'ka,Restaurant Hockey'ka,0,布拉格01,0.0,0.0,0.0
+更多美食,Caffe Jungann,Caffe Jungann,0,布拉格01,0.0,0.0,0.0
+更多美食,Adria cafe-restaurant,Adria cafe-restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,Natalie Steklovo,Natalie Steklovo,0,布拉格01,0.0,0.0,0.0
+更多美食,Black Bridge golf,Black Bridge golf,0,布拉格01,0.0,0.0,0.0
+更多美食,Pardubicka pub v Konviktske,Pardubicka pub v Konviktske,0,布拉格01,0.0,0.0,0.0
+更多美食,Plzenska rychta,Plzenska rychta,0,布拉格01,0.0,0.0,0.0
+更多美食,Al Karim,Al Karim,0,布拉格01,0.0,0.0,0.0
+更多美食,Sushi Upgrade,Sushi Upgrade,0,布拉格01,0.0,0.0,0.0
+更多美食,AlCapone's Club Restaurant Ostrava,AlCapone's Club Restaurant Ostrava,0,布拉格01,0.0,0.0,0.0
+更多美食,Epopey,Epopey,0,布拉格01,0.0,0.0,0.0
+更多美食,Pizza Coloseum,Pizza Coloseum,0,布拉格01,0.0,0.0,0.0
+更多美食,Almandina,Almandina,0,布拉格01,0.0,0.0,0.0
+更多美食,Ku Bar Lounge,Ku Bar Lounge,0,布拉格01,0.0,0.0,0.0
+更多美食,Krasny ztraty,Krasny ztraty,0,布拉格01,0.0,0.0,0.0
+更多美食,"LaMusica restaurace, bar, klub","LaMusica restaurace, bar, klub",0,布拉格01,0.0,0.0,0.0
+更多美食,Alfredo caffe,Alfredo caffe,0,布拉格01,0.0,0.0,0.0
+更多美食,The Three Blue Balls,The Three Blue Balls,0,布拉格01,0.0,0.0,0.0
+更多美食,Zephyr Excellent Urban Pub,Zephyr Excellent Urban Pub,0,布拉格01,0.0,0.0,0.0
+更多美食,Vysmaty Zajic,Vysmaty Zajic,0,布拉格01,0.0,0.0,0.0
+更多美食,Klub Lavka,Klub Lavka,0,布拉格01,0.0,0.0,0.0
+更多美食,Kantyna wine & restaurant,Kantyna wine & restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,U bileho precliku,U bileho precliku,0,布拉格01,0.0,0.0,0.0
+更多美食,V Cipu - Richtruv dum,V Cipu - Richtruv dum,0,布拉格01,0.0,0.0,0.0
+更多美食,The Khajuraho Indian Restaurant,The Khajuraho Indian Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,Hotel U Zlateho Stromu,Hotel U Zlateho Stromu,0,布拉格01,0.0,0.0,0.0
+更多美食,Inn Ox Lounge,Inn Ox Lounge,0,布拉格01,0.0,0.0,0.0
+更多美食,Pizza Coloseum Palac Myslbek,Pizza Coloseum Palac Myslbek,0,布拉格01,0.0,0.0,0.0
+更多美食,Juridica,Juridica,0,布拉格01,0.0,0.0,0.0
+更多美食,CAFEPAVLINA,CAFEPAVLINA,0,布拉格01,0.0,0.0,0.0
+更多美食,SPHINX Restaurants,SPHINX Restaurants,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafe U Cerneho Beranka,Cafe U Cerneho Beranka,0,布拉格01,0.0,0.0,0.0
+更多美食,Pivnice U Kata,Pivnice U Kata,0,布拉格01,0.0,0.0,0.0
+更多美食,McDonald's Mostecka,McDonald's Mostecka,0,布拉格01,0.0,0.0,0.0
+更多美食,La Cubana,La Cubana,0,布拉格01,0.0,0.0,0.0
+更多美食,KFC Kaprova,KFC Kaprova,0,布拉格01,0.0,0.0,0.0
+更多美食,Espressamente Illy,Espressamente Illy,0,布拉格01,0.0,0.0,0.0
+更多美食,Le Winstub,Le Winstub,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafe Milani,Cafe Milani,0,布拉格01,0.0,0.0,0.0
+更多美食,Gopal,Gopal,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurace & bar Nerudovka,Restaurace & bar Nerudovka,0,布拉格01,0.0,0.0,0.0
+更多美食,Bistro Metropolitan,Bistro Metropolitan,0,布拉格01,0.0,0.0,0.0
+更多美食,Staromacek Restaurant,Staromacek Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,U Cisaru Restaurant,U Cisaru Restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,Ambroisie,Ambroisie,0,布拉格01,0.0,0.0,0.0
+更多美食,Hungarian-Grotto,Hungarian-Grotto,0,布拉格01,0.0,0.0,0.0
+更多美食,"Mercure hotel, Felice Brasserie Parisienne","Mercure hotel, Felice Brasserie Parisienne",0,布拉格01,0.0,0.0,0.0
+更多美食,Por Favore Jazz Club,Por Favore Jazz Club,0,布拉格01,0.0,0.0,0.0
+更多美食,Roxbury Restaurant Bar,Roxbury Restaurant Bar,0,布拉格01,0.0,0.0,0.0
+更多美食,U Templare,U Templare,0,布拉格01,0.0,0.0,0.0
+更多美食,Bombay Cocktail & Music Bar,Bombay Cocktail & Music Bar,0,布拉格01,0.0,0.0,0.0
+更多美食,Retro Kaficko,Retro Kaficko,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant U Rozvarilu,Restaurant U Rozvarilu,0,布拉格01,0.0,0.0,0.0
+更多美食,Coffee Spot,Coffee Spot,0,布拉格01,0.0,0.0,0.0
+更多美食,FrutaPura,FrutaPura,0,布拉格01,0.0,0.0,0.0
+更多美食,Amici Miei,Amici Miei,0,布拉格01,0.0,0.0,0.0
+更多美食,Biskupska vinarna,Biskupska vinarna,0,布拉格01,0.0,0.0,0.0
+更多美食,Mansson,Mansson,0,布拉格01,0.0,0.0,0.0
+更多美食,Jidelna U Vasku,Jidelna U Vasku,0,布拉格01,0.0,0.0,0.0
+更多美食,Govinda Vegetarian Club,Govinda Vegetarian Club,0,布拉格01,0.0,0.0,0.0
+更多美食,"Koba, Korejske barbeque & sushi","Koba, Korejske barbeque & sushi",0,布拉格01,0.0,0.0,0.0
+更多美食,Romantik Hotel U Raka,Romantik Hotel U Raka,0,布拉格01,0.0,0.0,0.0
+更多美食,U Libuse,U Libuse,0,布拉格02,0.0,0.0,0.0
+更多美食,Radost,Radost,0,布拉格02,0.0,0.0,0.0
+更多美食,Fiasko American Bar,Fiasko American Bar,0,布拉格02,0.0,0.0,0.0
+更多美食,Merlin Pub,Merlin Pub,0,布拉格02,0.0,0.0,0.0
+更多美食,Cafe Bazaar,Cafe Bazaar,0,布拉格02,0.0,0.0,0.0
+更多美食,V Podskali,V Podskali,0,布拉格02,0.0,0.0,0.0
+更多美食,Hostinec ResPUBlica,Hostinec ResPUBlica,0,布拉格02,0.0,0.0,0.0
+更多美食,Pink Floyd Cafe,Pink Floyd Cafe,0,布拉格02,0.0,0.0,0.0
+更多美食,Knajpa Londynska,Knajpa Londynska,0,布拉格02,0.0,0.0,0.0
+更多美食,galerie a kavarna Roza K,galerie a kavarna Roza K,0,布拉格02,0.0,0.0,0.0
+更多美食,Beach cafe,Beach cafe,0,布拉格02,0.0,0.0,0.0
+更多美食,U Berana,U Berana,0,布拉格02,0.0,0.0,0.0
+更多美食,Astoria,Astoria,0,布拉格02,0.0,0.0,0.0
+更多美食,Hostinec U Kalincha,Hostinec U Kalincha,0,布拉格02,0.0,0.0,0.0
+更多美食,Restaurant U Pomniku,Restaurant U Pomniku,0,布拉格02,0.0,0.0,0.0
+更多美食,Restaurant Simon,Restaurant Simon,0,布拉格02,0.0,0.0,0.0
+更多美食,Restaurante Fausto U,Restaurante Fausto U,0,布拉格02,0.0,0.0,0.0
+更多美食,Sweet Secret of Raw,Sweet Secret of Raw,0,布拉格02,0.0,0.0,0.0
+更多美食,Restaurace Na Pasece,Restaurace Na Pasece,0,布拉格02,0.0,0.0,0.0
+更多美食,Retro,Retro,0,布拉格02,0.0,0.0,0.0
+更多美食,korea house,korea house,0,布拉格02,0.0,0.0,0.0
+更多美食,U Svate Ludmily,U Svate Ludmily,0,布拉格02,0.0,0.0,0.0
+更多美食,Restaurant and Cafe Donatello,Restaurant and Cafe Donatello,0,布拉格02,0.0,0.0,0.0
+更多美食,V Korunni,V Korunni,0,布拉格02,0.0,0.0,0.0
+更多美食,Radost nightclub and vegetarian restaurant,Radost nightclub and vegetarian restaurant,0,布拉格02,0.0,0.0,0.0
+更多美食,Centimetr,Centimetr,0,布拉格02,0.0,0.0,0.0
+更多美食,Pravek Doba kamenna,Pravek Doba kamenna,0,布拉格02,0.0,0.0,0.0
+更多美食,Placebo,Placebo,0,布拉格02,0.0,0.0,0.0
+更多美食,Rimska 33 Pizzerie,Rimska 33 Pizzerie,0,布拉格02,0.0,0.0,0.0
+更多美食,Bacorsky Dvur,Bacorsky Dvur,0,布拉格02,0.0,0.0,0.0
+更多美食,Mlsnej bejk,Mlsnej bejk,0,布拉格02,0.0,0.0,0.0
+更多美食,Techtle Mechtle,Techtle Mechtle,0,布拉格02,0.0,0.0,0.0
+更多美食,U Basnika panve,U Basnika panve,0,布拉格02,0.0,0.0,0.0
+更多美食,Mat,Mat,0,布拉格02,0.0,0.0,0.0
+更多美食,Cafe Faux Pas,Cafe Faux Pas,0,布拉格02,0.0,0.0,0.0
+更多美食,KFC Flora,KFC Flora,0,布拉格02,0.0,0.0,0.0
+更多美食,Ren He,Ren He,0,布拉格02,0.0,0.0,0.0
+更多美食,Ruzoveho sadu,Ruzoveho sadu,0,布拉格03,0.0,0.0,0.0
+更多美食,Coyote Flora,Coyote Flora,0,布拉格03,0.0,0.0,0.0
+更多美食,Restaurant U Stolu,Restaurant U Stolu,0,布拉格03,0.0,0.0,0.0
+更多美食,"Amadeus, Bar (Don Giovanni Dorint Hotel)","Amadeus, Bar (Don Giovanni Dorint Hotel)",0,布拉格03,0.0,0.0,0.0
+更多美食,"Allegretto, Restaurant (Don Giovanni Dorint Hotel)","Allegretto, Restaurant (Don Giovanni Dorint Hotel)",0,布拉格03,0.0,0.0,0.0
+更多美食,U Kmotra,U Kmotra,0,布拉格03,0.0,0.0,0.0
+更多美食,Purple Basil,Purple Basil,0,布拉格03,0.0,0.0,0.0
+更多美食,Victoria's Wine,Victoria's Wine,0,布拉格03,0.0,0.0,0.0
+更多美食,Cafe Chef,Cafe Chef,0,布拉格03,0.0,0.0,0.0
+更多美食,Bistro Empras,Bistro Empras,0,布拉格03,0.0,0.0,0.0
+更多美食,El Toro,El Toro,0,布拉格03,0.0,0.0,0.0
+更多美食,Boulder V siti,Boulder V siti,0,布拉格03,0.0,0.0,0.0
+更多美食,Einstein 2,Einstein 2,0,布拉格03,0.0,0.0,0.0
+更多美食,Domaci testoviny Honza a Matej,Domaci testoviny Honza a Matej,0,布拉格03,0.0,0.0,0.0
+更多美食,Orion,Orion,0,布拉格03,0.0,0.0,0.0
+更多美食,U 3 trojek,U 3 trojek,0,布拉格03,0.0,0.0,0.0
+更多美食,Merenda,Merenda,0,布拉格03,0.0,0.0,0.0
+更多美食,Persona,Persona,0,布拉格03,0.0,0.0,0.0
+更多美食,Restaurace Kabinet,Restaurace Kabinet,0,布拉格03,0.0,0.0,0.0
+更多美食,U Ceske chalupy,U Ceske chalupy,0,布拉格03,0.0,0.0,0.0
+更多美食,VH Restaurant Vitkov,VH Restaurant Vitkov,0,布拉格03,0.0,0.0,0.0
+更多美食,Don Vito,Don Vito,0,布拉格03,0.0,0.0,0.0
+更多美食,Plzensky restaurant Kamera,Plzensky restaurant Kamera,0,布拉格05,0.0,0.0,0.0
+更多美食,Svaty Prokop,Svaty Prokop,0,布拉格05,0.0,0.0,0.0
+更多美食,Volcano,Volcano,0,布拉格05,0.0,0.0,0.0
+更多美食,Restaurant Jelica,Restaurant Jelica,0,布拉格05,0.0,0.0,0.0
+更多美食,Botel Vodnik,Botel Vodnik,0,布拉格05,0.0,0.0,0.0
+更多美食,Nova Hospoda,Nova Hospoda,0,布拉格05,0.0,0.0,0.0
+更多美食,Golf Restaurant,Golf Restaurant,0,布拉格05,0.0,0.0,0.0
+更多美食,Formanka,Formanka,0,布拉格05,0.0,0.0,0.0
+更多美食,A.R.-Akcent Restaurant,A.R.-Akcent Restaurant,0,布拉格05,0.0,0.0,0.0
+更多美食,Nagano 98,Nagano 98,0,布拉格05,0.0,0.0,0.0
+更多美食,Zlaty Dul,Zlaty Dul,0,布拉格05,0.0,0.0,0.0
+更多美食,Plachta,Plachta,0,布拉格05,0.0,0.0,0.0
+更多美食,Jidelna U zvonu,Jidelna U zvonu,0,布拉格05,0.0,0.0,0.0
+更多美食,KFC Andel,KFC Andel,0,布拉格05,0.0,0.0,0.0
+更多美食,Na Hromadkove,Na Hromadkove,0,布拉格05,0.0,0.0,0.0
+更多美食,Eltodo,Eltodo,0,布拉格04,0.0,0.0,0.0
+更多美食,Rezidence Emmy,Rezidence Emmy,0,布拉格04,0.0,0.0,0.0
+更多美食,Il Pomodoro Novodvorska Plaza,Il Pomodoro Novodvorska Plaza,0,布拉格04,0.0,0.0,0.0
+更多美食,U Ctyr Bernardynu,U Ctyr Bernardynu,0,布拉格04,0.0,0.0,0.0
+更多美食,U Stareho pivovaru,U Stareho pivovaru,0,布拉格04,0.0,0.0,0.0
+更多美食,Na Kopecku,Na Kopecku,0,布拉格04,0.0,0.0,0.0
+更多美食,Pizza Coloseum Budejovicka,Pizza Coloseum Budejovicka,0,布拉格04,0.0,0.0,0.0
+更多美食,Krusovicka restaurant Na Michelske,Krusovicka restaurant Na Michelske,0,布拉格04,0.0,0.0,0.0
+更多美食,Olympie,Olympie,0,布拉格04,0.0,0.0,0.0
+更多美食,Karlova pekarna,Karlova pekarna,0,布拉格04,0.0,0.0,0.0
+更多美食,Botel Racek,Botel Racek,0,布拉格04,0.0,0.0,0.0
+更多美食,Corleone Pankrac,Corleone Pankrac,0,布拉格04,0.0,0.0,0.0
+更多美食,Magicka zahrada,Magicka zahrada,0,布拉格04,0.0,0.0,0.0
+更多美食,Michelska Pivnice,Michelska Pivnice,0,布拉格04,0.0,0.0,0.0
+更多美食,Palatino Pankrac,Palatino Pankrac,0,布拉格04,0.0,0.0,0.0
+更多美食,U dragouna,U dragouna,0,布拉格04,0.0,0.0,0.0
+更多美食,U Peceneho Kolena,U Peceneho Kolena,0,布拉格04,0.0,0.0,0.0
+更多美食,Cafe 77,Cafe 77,0,布拉格04,0.0,0.0,0.0
+更多美食,Divadelni restaurant Jezerka,Divadelni restaurant Jezerka,0,布拉格04,0.0,0.0,0.0
+更多美食,Krasna Mrcha,Krasna Mrcha,0,布拉格04,0.0,0.0,0.0
+更多美食,Arrosto,Arrosto,0,布拉格04,0.0,0.0,0.0
+更多美食,Krusovicka chalupa,Krusovicka chalupa,0,布拉格04,0.0,0.0,0.0
+更多美食,Baang,Baang,0,布拉格04,0.0,0.0,0.0
+更多美食,U Pristavu,U Pristavu,0,其他,0.0,0.0,0.0
+更多美食,Teodoro,Teodoro,0,其他,0.0,0.0,0.0
+更多美食,Bilkova restaurace,Bilkova restaurace,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Majak,Restaurant Majak,0,其他,0.0,0.0,0.0
+更多美食,Bekovka restaurant,Bekovka restaurant,0,其他,0.0,0.0,0.0
+更多美食,Gastronom Original Gambrinus restaurant,Gastronom Original Gambrinus restaurant,0,其他,0.0,0.0,0.0
+更多美食,U Lipy,U Lipy,0,其他,0.0,0.0,0.0
+更多美食,U Pruhonu,U Pruhonu,0,其他,0.0,0.0,0.0
+更多美食,OldAthens - Greek restaurant,OldAthens - Greek restaurant,0,其他,0.0,0.0,0.0
+更多美食,Kavarna Creperie Novy Smichov,Kavarna Creperie Novy Smichov,0,其他,0.0,0.0,0.0
+更多美食,Old Athens,Old Athens,0,其他,0.0,0.0,0.0
+更多美食,Il Pomodoro Novy Smichov,Il Pomodoro Novy Smichov,0,其他,0.0,0.0,0.0
+更多美食,U Rusu,U Rusu,0,其他,0.0,0.0,0.0
+更多美食,Kasta,Kasta,0,其他,0.0,0.0,0.0
+更多美食,Vegan City Fast Food,Vegan City Fast Food,0,其他,0.0,0.0,0.0
+更多美食,Marketa,Marketa,0,其他,0.0,0.0,0.0
+更多美食,Polevkarna pani Manco,Polevkarna pani Manco,0,其他,0.0,0.0,0.0
+更多美食,Prima,Prima,0,其他,0.0,0.0,0.0
+更多美食,Theatro,Theatro,0,其他,0.0,0.0,0.0
+更多美食,Amboseli restaurant,Amboseli restaurant,0,其他,0.0,0.0,0.0
+更多美食,Panorama,Panorama,0,其他,0.0,0.0,0.0
+更多美食,Modry Beranek,Modry Beranek,0,其他,0.0,0.0,0.0
+更多美食,Olive,Olive,0,其他,0.0,0.0,0.0
+更多美食,McDonald's Evropska,McDonald's Evropska,0,其他,0.0,0.0,0.0
+更多美食,Ballon,Ballon,0,其他,0.0,0.0,0.0
+更多美食,KFC Evropska,KFC Evropska,0,其他,0.0,0.0,0.0
+更多美食,Bruska,Bruska,0,其他,0.0,0.0,0.0
+更多美食,Krkonosska hospudka,Krkonosska hospudka,0,其他,0.0,0.0,0.0
+更多美食,Pivnice U Zivalu,Pivnice U Zivalu,0,其他,0.0,0.0,0.0
+更多美食,Nad Sarkou,Nad Sarkou,0,其他,0.0,0.0,0.0
+更多美食,Lici,Lici,0,其他,0.0,0.0,0.0
+更多美食,Hotel DAP,Hotel DAP,0,其他,0.0,0.0,0.0
+更多美食,KFC Dejvice,KFC Dejvice,0,其他,0.0,0.0,0.0
+更多美食,Na Urale,Na Urale,0,其他,0.0,0.0,0.0
+更多美食,Felfella,Felfella,0,其他,0.0,0.0,0.0
+更多美食,Metro,Metro,0,其他,0.0,0.0,0.0
+更多美食,Na Hanspaulce,Na Hanspaulce,0,其他,0.0,0.0,0.0
+更多美食,U Jagusky,U Jagusky,0,其他,0.0,0.0,0.0
+更多美食,Bar Napalme,Bar Napalme,0,其他,0.0,0.0,0.0
+更多美食,Hudebni Espresso,Hudebni Espresso,0,其他,0.0,0.0,0.0
+更多美食,Svejk restaurant U Brazdu,Svejk restaurant U Brazdu,0,其他,0.0,0.0,0.0
+更多美食,Cesta Casem,Cesta Casem,0,其他,0.0,0.0,0.0
+更多美食,U Topolu,U Topolu,0,其他,0.0,0.0,0.0
+更多美食,Bistro Santinka,Bistro Santinka,0,其他,0.0,0.0,0.0
+更多美食,Benada restaurant,Benada restaurant,0,其他,0.0,0.0,0.0
+更多美食,Kavarna Creperie Galerie Fenix,Kavarna Creperie Galerie Fenix,0,其他,0.0,0.0,0.0
+更多美食,Enjoy Bar,Enjoy Bar,0,其他,0.0,0.0,0.0
+更多美食,Na Vlachovce,Na Vlachovce,0,其他,0.0,0.0,0.0
+更多美食,U Hofmanu,U Hofmanu,0,其他,0.0,0.0,0.0
+更多美食,Ladvi,Ladvi,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Red Peacock,Restaurant Red Peacock,0,其他,0.0,0.0,0.0
+更多美食,Na Zlate vyhlidce,Na Zlate vyhlidce,0,其他,0.0,0.0,0.0
+更多美食,Karel,Karel,0,其他,0.0,0.0,0.0
+更多美食,Zeleny Dvur,Zeleny Dvur,0,其他,0.0,0.0,0.0
+更多美食,Pod lipami,Pod lipami,0,其他,0.0,0.0,0.0
+更多美食,U Jezka,U Jezka,0,布拉格10,0.0,0.0,0.0
+更多美食,U Waldesky,U Waldesky,0,布拉格10,0.0,0.0,0.0
+更多美食,Cantonata,Cantonata,0,布拉格10,0.0,0.0,0.0
+更多美食,Agricola,Agricola,0,布拉格10,0.0,0.0,0.0
+更多美食,Stella Cafe Ristorante,Stella Cafe Ristorante,0,布拉格10,0.0,0.0,0.0
+更多美食,Raj restaurant,Raj restaurant,0,布拉格10,0.0,0.0,0.0
+更多美食,U Carodejky,U Carodejky,0,布拉格10,0.0,0.0,0.0
+更多美食,Money Murphy's,Money Murphy's,0,布拉格10,0.0,0.0,0.0
+更多美食,Padova,Padova,0,布拉格10,0.0,0.0,0.0
+更多美食,Cafe Sladkovsky,Cafe Sladkovsky,0,布拉格10,0.0,0.0,0.0
+更多美食,Jina krajina Vrsovice,Jina krajina Vrsovice,0,布拉格10,0.0,0.0,0.0
+更多美食,Stary pan,Stary pan,0,布拉格10,0.0,0.0,0.0
+更多美食,PizzaNonstop,PizzaNonstop,0,布拉格10,0.0,0.0,0.0
+更多美食,Restaurace Strasnicka Kovarna,Restaurace Strasnicka Kovarna,0,布拉格10,0.0,0.0,0.0
+更多美食,Caffe Pizzeria Vinice,Caffe Pizzeria Vinice,0,布拉格10,0.0,0.0,0.0
+更多美食,Hanavsky pavilon,Hanavsky pavilon,0,布拉格07,0.0,0.0,0.0
+更多美食,Bhojan,Bhojan,0,布拉格07,0.0,0.0,0.0
+更多美食,Pizza Letna,Pizza Letna,0,布拉格07,0.0,0.0,0.0
+更多美食,Ztraceny raj,Ztraceny raj,0,布拉格07,0.0,0.0,0.0
+更多美食,Alchymista Kavarna a Cukrarna,Alchymista Kavarna a Cukrarna,0,布拉格07,0.0,0.0,0.0
+更多美食,Restaurant Art Cafe,Restaurant Art Cafe,0,布拉格07,0.0,0.0,0.0
+更多美食,U Houbare,U Houbare,0,布拉格07,0.0,0.0,0.0
+更多美食,Irish pub O Brien,Irish pub O Brien,0,布拉格07,0.0,0.0,0.0
+更多美食,Lucky Luciano,Lucky Luciano,0,布拉格07,0.0,0.0,0.0
+更多美食,Dobra Seslost,Dobra Seslost,0,布拉格07,0.0,0.0,0.0
+更多美食,Extol Inn,Extol Inn,0,布拉格07,0.0,0.0,0.0
+更多美食,Chutpoint,Chutpoint,0,布拉格07,0.0,0.0,0.0
+更多美食,U Majaku,U Majaku,0,布拉格07,0.0,0.0,0.0
+更多美食,Keltska restaurant,Keltska restaurant,0,布拉格07,0.0,0.0,0.0
+更多美食,Hradecek,Hradecek,0,布拉格14,0.0,0.0,0.0
+更多美食,Violete,Violete,0,布拉格14,0.0,0.0,0.0
+更多美食,U Mateje,U Mateje,0,布拉格14,0.0,0.0,0.0
+更多美食,Rancheros,Rancheros,0,布拉格14,0.0,0.0,0.0
+更多美食,Positano,Positano,0,布拉格14,0.0,0.0,0.0
+更多美食,Klub Blanice,Klub Blanice,0,布拉格11,0.0,0.0,0.0
+更多美食,Novy Hubert,Novy Hubert,0,布拉格14,0.0,0.0,0.0
+更多美食,Na ty louce zeleny,Na ty louce zeleny,0,布拉格11,0.0,0.0,0.0
+更多美食,Pavlovin,Pavlovin,0,布拉格11,0.0,0.0,0.0
+更多美食,Free solo,Free solo,0,布拉格11,0.0,0.0,0.0
+更多美食,Recka restaurant U Jorgose,Recka restaurant U Jorgose,0,布拉格11,0.0,0.0,0.0
+更多美食,Restaurace Pod Vinorskym zamkem,Restaurace Pod Vinorskym zamkem,0,布拉格15,0.0,0.0,0.0
+更多美食,Blue Orange,Blue Orange,0,布拉格09,0.0,0.0,0.0
+更多美食,Pod vinici,Pod vinici,0,布拉格12,0.0,0.0,0.0
+更多美食,Hamr - Branik,Hamr - Branik,0,布拉格12,0.0,0.0,0.0
+更多美食,Restaurace 33,Restaurace 33,0,布拉格12,0.0,0.0,0.0
+更多美食,Vegansky Svet,Vegansky Svet,0,布拉格01,0.0,0.0,0.0
+更多美食,Solidni jistota,Solidni jistota,0,布拉格01,0.0,0.0,0.0
+更多美食,McDonald's Muzeum,McDonald's Muzeum,0,布拉格01,0.0,0.0,0.0
+更多美食,KFC Blanik,KFC Blanik,0,布拉格01,0.0,0.0,0.0
+更多美食,Ostroff,Ostroff,0,布拉格01,0.0,0.0,0.0
+更多美食,Cerny Baron,Cerny Baron,0,布拉格01,0.0,0.0,0.0
+更多美食,Friends Prague bar & club,Friends Prague bar & club,0,布拉格01,0.0,0.0,0.0
+更多美食,Mel's,Mel's,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafe Bar Trinity,Cafe Bar Trinity,0,布拉格01,0.0,0.0,0.0
+更多美食,Smaragdova Zahrada,Smaragdova Zahrada,0,布拉格01,0.0,0.0,0.0
+更多美食,McDonald's Savarin,McDonald's Savarin,0,布拉格01,0.0,0.0,0.0
+更多美食,Kamenny most,Kamenny most,0,布拉格01,0.0,0.0,0.0
+更多美食,Coctail-Cafe Restauran,Coctail-Cafe Restauran,0,布拉格01,0.0,0.0,0.0
+更多美食,Velkoprevorsky Mlyn,Velkoprevorsky Mlyn,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurace U Vladere,Restaurace U Vladere,0,布拉格01,0.0,0.0,0.0
+更多美食,U Orloje,U Orloje,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafe Marnice,Cafe Marnice,0,布拉格01,0.0,0.0,0.0
+更多美食,Paragon Bar & Cafe,Paragon Bar & Cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,KASARNA,KASARNA,0,布拉格01,0.0,0.0,0.0
+更多美食,Sport Bar Prague,Sport Bar Prague,0,布拉格01,0.0,0.0,0.0
+更多美食,Mystic Cafe,Mystic Cafe,0,布拉格01,0.0,0.0,0.0
+更多美食,R & R Cafe Loretanska 3,R & R Cafe Loretanska 3,0,布拉格01,0.0,0.0,0.0
+更多美食,Trecolori,Trecolori,0,布拉格01,0.0,0.0,0.0
+更多美食,atmosfera cocktail bar & restaurant,atmosfera cocktail bar & restaurant,0,布拉格01,0.0,0.0,0.0
+更多美食,Coctail Bar B52,Coctail Bar B52,0,布拉格02,0.0,0.0,0.0
+更多美食,RETRO COFFEE RESTAURANT,RETRO COFFEE RESTAURANT,0,布拉格02,0.0,0.0,0.0
+更多美食,La Torretta,La Torretta,0,布拉格02,0.0,0.0,0.0
+更多美食,"Krakora, Bar&Pub","Krakora, Bar&Pub",0,布拉格02,0.0,0.0,0.0
+更多美食,Ginza Running Sushi Flora,Ginza Running Sushi Flora,0,布拉格03,0.0,0.0,0.0
+更多美食,Big daddy's garage,Big daddy's garage,0,布拉格03,0.0,0.0,0.0
+更多美食,V Kapslovne,V Kapslovne,0,布拉格03,0.0,0.0,0.0
+更多美食,Restaurace Andelka,Restaurace Andelka,0,布拉格05,0.0,0.0,0.0
+更多美食,Dog's Bollocks - Andel,Dog's Bollocks - Andel,0,布拉格05,0.0,0.0,0.0
+更多美食,L’Estaminet Restaurant,L’Estaminet Restaurant,0,布拉格05,0.0,0.0,0.0
+更多美食,Pizzerie Mosquito,Pizzerie Mosquito,0,布拉格04,0.0,0.0,0.0
+更多美食,Antal,Antal,0,布拉格04,0.0,0.0,0.0
+更多美食,Melina,Melina,0,布拉格04,0.0,0.0,0.0
+更多美食,Reed Hook,Reed Hook,0,布拉格04,0.0,0.0,0.0
+更多美食,Shorty's Pub,Shorty's Pub,0,其他,0.0,0.0,0.0
+更多美食,The PUB - Praha 6,The PUB - Praha 6,0,其他,0.0,0.0,0.0
+更多美食,Carpe Diem,Carpe Diem,0,其他,0.0,0.0,0.0
+更多美食,Da Fu Hao,Da Fu Hao,0,其他,0.0,0.0,0.0
+更多美食,La Casa Argentina Fast Grill,La Casa Argentina Fast Grill,0,其他,0.0,0.0,0.0
+更多美食,Sportbar Zipo Rohoznik,Sportbar Zipo Rohoznik,0,其他,0.0,0.0,0.0
+更多美食,Rizkarna,Rizkarna,0,其他,0.0,0.0,0.0
+更多美食,Manna,Manna,0,其他,0.0,0.0,0.0
+更多美食,Kanada pizza & restaurant,Kanada pizza & restaurant,0,其他,0.0,0.0,0.0
+更多美食,Futurama,Futurama,0,其他,0.0,0.0,0.0
+更多美食,Pizzerie U divadla,Pizzerie U divadla,0,其他,0.0,0.0,0.0
+更多美食,Sokol Troja Restaurant,Sokol Troja Restaurant,0,其他,0.0,0.0,0.0
+更多美食,U Blekotu,U Blekotu,0,其他,0.0,0.0,0.0
+更多美食,U Broucku,U Broucku,0,布拉格10,0.0,0.0,0.0
+更多美食,Bowling Radava,Bowling Radava,0,布拉格07,0.0,0.0,0.0
+更多美食,Einstein 1,Einstein 1,0,布拉格07,0.0,0.0,0.0
+更多美食,Puccelini,Puccelini,0,布拉格07,0.0,0.0,0.0
+更多美食,Rosmarino,Rosmarino,0,布拉格07,0.0,0.0,0.0
+更多美食,Cafe Lajka,Cafe Lajka,0,布拉格07,0.0,0.0,0.0
+更多美食,Staroceska Rychta,Staroceska Rychta,0,布拉格07,0.0,0.0,0.0
+更多美食,Galaxie,Galaxie,0,布拉格11,0.0,0.0,0.0
+更多美食,Na Sancich,Na Sancich,0,布拉格15,0.0,0.0,0.0
+更多美食,V Ohybu,V Ohybu,0,布拉格09,0.0,0.0,0.0
+更多美食,Novodvorska restaurant,Novodvorska restaurant,0,布拉格12,0.0,0.0,0.0
+更多美食,cafe campanula,cafe campanula,0,布拉格01,0.0,0.0,0.0
+更多美食,Bohemia Bagel Masna,Bohemia Bagel Masna,0,布拉格01,0.0,0.0,0.0
+更多美食,Aria,Aria,0,其他,0.0,0.0,0.0
+更多美食,U SV Hastala,U SV Hastala,0,其他,0.0,0.0,0.0
+更多美食,Oblanca Restaurant,Oblanca Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Cerny Jelen,Restaurant Cerny Jelen,0,其他,0.0,0.0,0.0
+更多美食,Cajovna a knihkupectvi Mesicni kocka,Cajovna a knihkupectvi Mesicni kocka,0,布拉格01,0.0,0.0,0.0
+更多美食,Braunuv sklep,Braunuv sklep,0,布拉格01,0.0,0.0,0.0
+更多美食,Velryba,Velryba,0,布拉格01,0.0,0.0,0.0
+更多美食,Chestr,Chestr,0,布拉格01,0.0,0.0,0.0
+更多美食,Fama,Fama,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant Jizera,Restaurant Jizera,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant Sherwood,Restaurant Sherwood,0,布拉格01,0.0,0.0,0.0
+更多美食,Kava Kava Kava,Kava Kava Kava,0,布拉格01,0.0,0.0,0.0
+更多美食,Potrefena Husa Narodni,Potrefena Husa Narodni,0,布拉格01,0.0,0.0,0.0
+更多美食,Pizza Coloseum Koruna,Pizza Coloseum Koruna,0,布拉格01,0.0,0.0,0.0
+更多美食,Segafredo Trattoria,Segafredo Trattoria,0,布拉格01,0.0,0.0,0.0
+更多美食,Restaurant Meloun,Restaurant Meloun,0,布拉格01,0.0,0.0,0.0
+更多美食,Annabar,Annabar,0,布拉格01,0.0,0.0,0.0
+更多美食,O'Che's,O'Che's,0,布拉格01,0.0,0.0,0.0
+更多美食,T.G.I. Friday's Karlova,T.G.I. Friday's Karlova,0,布拉格01,0.0,0.0,0.0
+更多美食,U Zlateho hada,U Zlateho hada,0,布拉格01,0.0,0.0,0.0
+更多美食,T.G.I. Friday's Prikopy,T.G.I. Friday's Prikopy,0,布拉格01,0.0,0.0,0.0
+更多美食,Na Certovce,Na Certovce,0,布拉格01,0.0,0.0,0.0
+更多美食,Romeo Ristorante,Romeo Ristorante,0,布拉格01,0.0,0.0,0.0
+更多美食,Cafe Lui & Lei,Cafe Lui & Lei,0,布拉格01,0.0,0.0,0.0
+更多美食,Coyotes Bar Prague,Coyotes Bar Prague,0,布拉格01,0.0,0.0,0.0
+更多美食,Vegetariansky Restaurant,Vegetariansky Restaurant,0,布拉格01,0.0,0.0,0.0

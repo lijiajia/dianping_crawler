@@ -1,0 +1,953 @@
+意大利菜,Les Memoires de Gretry,Les Memoires de Gretry,0,布鲁塞尔市中心,7.4,6.7,6.7
+意大利菜,Osteria a l'Ombra,Osteria a l'Ombra,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,IL CAPRICCIO d'OFFENBACH,IL CAPRICCIO d'OFFENBACH,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,La Fattoria del Chianti,La Fattoria del Chianti,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Rigoletto,Rigoletto,0,其他,0.0,0.0,0.0
+意大利菜,Da Pietro,Da Pietro,0,其他,0.0,0.0,0.0
+意大利菜,Casa Nostra,Casa Nostra,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Paninoteca Italian Style,Paninoteca Italian Style,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Ricciocapriccio,Ricciocapriccio,0,,0.0,0.0,0.0
+意大利菜,Le Castello Banfi,Le Castello Banfi,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Le Milan,Le Milan,0,,0.0,0.0,0.0
+意大利菜,Il Ramo d'Oliva,Il Ramo d'Oliva,0,,0.0,0.0,0.0
+意大利菜,Le Baricube,Le Baricube,0,其他,0.0,0.0,0.0
+意大利菜,Le garcon de Toto,Le garcon de Toto,0,其他,0.0,0.0,0.0
+意大利菜,Rugantino,Rugantino,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Le Sans 13,Le Sans 13,0,,0.0,0.0,0.0
+意大利菜,Caffe Italiano,Caffe Italiano,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Tutto Bene,Tutto Bene,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,MASSIMILIANO,MASSIMILIANO,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Il Viticolo,Il Viticolo,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Winehouse Osteria,Winehouse Osteria,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,La Tana,La Tana,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,La Nonna,La Nonna,0,,0.0,0.0,0.0
+意大利菜,A casa mia,A casa mia,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Italia In Tavola Glutenfree,Italia In Tavola Glutenfree,0,,0.0,0.0,0.0
+意大利菜,Piccolastore,Piccolastore,0,,0.0,0.0,0.0
+意大利菜,Osteria Enoteca Nuovo Rosso,Osteria Enoteca Nuovo Rosso,0,,0.0,0.0,0.0
+意大利菜,La Casa del Popolo,La Casa del Popolo,0,其他,0.0,0.0,0.0
+意大利菜,Al carso,Al carso,0,,0.0,0.0,0.0
+意大利菜,Paparazzi,Paparazzi,0,其他,0.0,0.0,0.0
+意大利菜,poivre et sel,poivre et sel,0,,0.0,0.0,0.0
+意大利菜,Appuntamento,Appuntamento,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Traiteur Picnic,Traiteur Picnic,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Paninoteca Tavola Calda Carina,Paninoteca Tavola Calda Carina,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Le Pou Qui Tousse,Le Pou Qui Tousse,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Casa Italiana,Casa Italiana,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Prima Legge,Prima Legge,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Barbanera,Barbanera,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,La caneva,La caneva,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Il Bacaro,Il Bacaro,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,L'italiano resto etna,L'italiano resto etna,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Chiaro Scuro,Chiaro Scuro,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Fornostar,Fornostar,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Dolce,Dolce,0,埃尔赛讷,0.0,0.0,0.0
+意大利菜,Ciao Bella,Ciao Bella,0,埃尔赛讷,0.0,0.0,0.0
+意大利菜,Pasta Bar,Pasta Bar,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria ,Trattoria ,0,其他,0.0,0.0,0.0
+意大利菜,Il Quattro,Il Quattro,0,其他,0.0,0.0,0.0
+意大利菜,Fantastico,Fantastico,0,其他,0.0,0.0,0.0
+意大利菜,Positano,Positano,0,其他,0.0,0.0,0.0
+意大利菜,Bellone Café,Bellone Café,0,其他,0.0,0.0,0.0
+意大利菜,Il Convivio,Il Convivio,0,,0.0,0.0,0.0
+意大利菜,Frascati,Frascati,0,其他,0.0,0.0,0.0
+意大利菜,De Meiboom,De Meiboom,0,其他,0.0,0.0,0.0
+意大利菜,Al Pappagallo,Al Pappagallo,0,,0.0,0.0,0.0
+意大利菜,Pizzeria - Cafe Pont De Luttre,Pizzeria - Cafe Pont De Luttre,0,,0.0,0.0,0.0
+意大利菜,La Table d'Italie,La Table d'Italie,0,,0.0,0.0,0.0
+意大利菜,Il Pulcinella,Il Pulcinella,0,于克勒,0.0,0.0,0.0
+意大利菜,Ristorante la Capranica,Ristorante la Capranica,0,其他,0.0,0.0,0.0
+意大利菜,Le Casse Croute,Le Casse Croute,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Il Gusto di Flamant,Il Gusto di Flamant,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Bocca d'Oro,Bocca d'Oro,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Le Petit Casse-Croûte,Le Petit Casse-Croûte,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,La Riviera,La Riviera,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,L'Anchois Vert,L'Anchois Vert,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Foro Romano,Foro Romano,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Tiramisu,Tiramisu,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Pazzie,Pazzie,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Pasta Queen,Pasta Queen,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,La Corte Gastronomica,La Corte Gastronomica,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Ricotta et Parmesan,Ricotta et Parmesan,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Per Caso,Per Caso,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Mamma Mia,Mamma Mia,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Dolce Campagna,Dolce Campagna,0,埃尔赛讷,0.0,0.0,0.0
+意大利菜,Trattoria Dongigi,Trattoria Dongigi,0,,0.0,0.0,0.0
+意大利菜,Il Limoncello,Il Limoncello,0,其他,0.0,0.0,0.0
+意大利菜,Prego,Prego,0,,0.0,0.0,0.0
+意大利菜,Con Gusto,Con Gusto,0,,0.0,0.0,0.0
+意大利菜,Stella d Italia,Stella d Italia,0,,0.0,0.0,0.0
+意大利菜,Le Phenix,Le Phenix,0,,0.0,0.0,0.0
+意大利菜,Exki,Exki,0,,7.0,7.0,7.0
+意大利菜,il Buongustaio,il Buongustaio,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Ristorante Fanfan,Ristorante Fanfan,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Il Cavallino,Il Cavallino,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Il Gallo Nero,Il Gallo Nero,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Napoli,Napoli,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Artipasta,Artipasta,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Lo Scoglio Ristorante,Lo Scoglio Ristorante,0,布鲁塞尔市中心,0.0,0.0,0.0
+意大利菜,Fellini,Fellini,0,埃尔赛讷,0.0,0.0,0.0
+意大利菜,Osteria La Manna,Osteria La Manna,0,埃尔赛讷,0.0,0.0,0.0
+意大利菜,Eleven,Eleven,0,圣西利斯,0.0,0.0,0.0
+意大利菜,Il Faraglioni,Il Faraglioni,0,圣西利斯,0.0,0.0,0.0
+意大利菜,Vespa Cafè,Vespa Cafè,0,其他,0.0,0.0,0.0
+意大利菜,Pasta Corner,Pasta Corner,0,其他,0.0,0.0,0.0
+意大利菜,La Stradella,La Stradella,0,其他,0.0,0.0,0.0
+意大利菜,L' Altro Mondo,L' Altro Mondo,0,其他,0.0,0.0,0.0
+意大利菜,Auberge Saint-Pierre,Auberge Saint-Pierre,0,,0.0,0.0,0.0
+意大利菜,La Royale Salle,La Royale Salle,0,其他,0.0,0.0,0.0
+意大利菜,Via Pizza,Via Pizza,0,,0.0,0.0,0.0
+意大利菜,Buon Gusto Steenokkerzeel,Buon Gusto Steenokkerzeel,0,,0.0,0.0,0.0
+法国菜,Orpyse Chaussette,Orpyse Chaussette,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Café Mathieux,Café Mathieux,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Gretta's,Gretta's,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Gramm Restaurant,Gramm Restaurant,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,La Faribole,La Faribole,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,KOLYA,KOLYA,0,,0.0,0.0,0.0
+法国菜,La Clef des Champs,La Clef des Champs,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,L'Avenue Brasserie,L'Avenue Brasserie,0,,0.0,0.0,0.0
+法国菜,Bosquet 58,Bosquet 58,0,圣西利斯,0.0,0.0,0.0
+法国菜,Mati,Mati,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Lola,Lola,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,L'Epicerie,L'Epicerie,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,The C Experience,The C Experience,0,埃尔赛讷,0.0,0.0,0.0
+法国菜,Maison de Boeuf,Maison de Boeuf,0,埃尔赛讷,0.0,0.0,0.0
+法国菜,L'Ascenseur,L'Ascenseur,0,其他,0.0,0.0,0.0
+法国菜,Schievelavabo,Schievelavabo,0,,0.0,0.0,0.0
+法国菜,Déjeuner sur l'Herbe,Déjeuner sur l'Herbe,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,L'Annexe du Caviste,L'Annexe du Caviste,0,,0.0,0.0,0.0
+法国菜,Vande Sande,Vande Sande,0,,0.0,0.0,0.0
+法国菜,La Joue de Vache,La Joue de Vache,0,,0.0,0.0,0.0
+法国菜,Autre,Autre,0,,0.0,0.0,0.0
+法国菜,Le Pacific,Le Pacific,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,La palette gourmande,La palette gourmande,0,其他,0.0,0.0,0.0
+法国菜,Le Mouton D'Or,Le Mouton D'Or,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,La Clef D'Or,La Clef D'Or,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,L'Idiot du Village,L'Idiot du Village,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,WY Brussels,WY Brussels,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Les Caves du Sablon,Les Caves du Sablon,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,L'Estrille Du Vieux Bruxelles,L'Estrille Du Vieux Bruxelles,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Brasserie du musee,Brasserie du musee,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Le Petit Restaurant,Le Petit Restaurant,0,,0.0,0.0,0.0
+法国菜,Rygbyman #2,Rygbyman #2,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Tarte Julie,Tarte Julie,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Tennis Club du Bois de la Cambre,Tennis Club du Bois de la Cambre,0,,0.0,0.0,0.0
+法国菜,La Truffe Noire,La Truffe Noire,0,埃尔赛讷,0.0,0.0,0.0
+法国菜,Beurre Noisette,Beurre Noisette,0,,0.0,0.0,0.0
+法国菜,Les Canailles du Châtelain,Les Canailles du Châtelain,0,埃尔赛讷,0.0,0.0,0.0
+法国菜,Flaneries gourmandes,Flaneries gourmandes,0,埃尔赛讷,0.0,0.0,0.0
+法国菜,Saint Boniface,Saint Boniface,0,,0.0,0.0,0.0
+法国菜,Enjoy,Enjoy,0,,0.0,0.0,0.0
+法国菜,La fringale,La fringale,0,圣西利斯,0.0,0.0,0.0
+法国菜,Champagnotheque de Bruxelles,Champagnotheque de Bruxelles,0,其他,0.0,0.0,0.0
+法国菜,Le Domaine de Chavagnac,Le Domaine de Chavagnac,0,其他,0.0,0.0,0.0
+法国菜,Selecto,Selecto,0,其他,0.0,0.0,0.0
+法国菜,Alize - L'Hirondelle,Alize - L'Hirondelle,0,其他,0.0,0.0,0.0
+法国菜,L'Herbaudiere,L'Herbaudiere,0,其他,0.0,0.0,0.0
+法国菜,Cafe des Spores,Cafe des Spores,0,,0.0,0.0,0.0
+法国菜,Bowery,Bowery,0,,0.0,0.0,0.0
+法国菜,Le moulin a poivre,Le moulin a poivre,0,,0.0,0.0,0.0
+法国菜,Il Rifugio,Il Rifugio,0,其他,0.0,0.0,0.0
+法国菜,Degusthouse,Degusthouse,0,,0.0,0.0,0.0
+法国菜,Au Repos de la Montagne,Au Repos de la Montagne,0,,0.0,0.0,0.0
+法国菜,Le Passage,Le Passage,0,,0.0,0.0,0.0
+法国菜,La pomme de pin,La pomme de pin,0,于克勒,0.0,0.0,0.0
+法国菜,Dynastie,Dynastie,0,其他,0.0,0.0,0.0
+法国菜,Balthazar,Balthazar,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,O Choix,O Choix,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,La Meilleure Jeunesse,La Meilleure Jeunesse,0,埃尔赛讷,0.0,0.0,0.0
+法国菜,Neptune,Neptune,0,,0.0,0.0,0.0
+法国菜,Le Delire Parisien,Le Delire Parisien,0,圣西利斯,0.0,0.0,0.0
+法国菜,Food & Wine,Food & Wine,0,埃尔泰贝克,0.0,0.0,0.0
+法国菜,Brasserie de la Villa Lorraine,Brasserie de la Villa Lorraine,0,,0.0,0.0,0.0
+法国菜,Le Sett,Le Sett,0,其他,0.0,0.0,0.0
+法国菜,La cuisine de Balzac,La cuisine de Balzac,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Kameleon Sky,Kameleon Sky,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,La Provence,La Provence,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Au Cochon D'Or,Au Cochon D'Or,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Brussels Resto,Brussels Resto,0,布鲁塞尔市中心,0.0,0.0,0.0
+法国菜,Odette en Ville,Odette en Ville,0,埃尔赛讷,0.0,0.0,0.0
+法国菜,Auberge Saint-Pierre,Auberge Saint-Pierre,0,,0.0,0.0,0.0
+法国菜,Le Pivert,Le Pivert,0,其他,0.0,0.0,0.0
+法国菜,La Grande Ecluse,La Grande Ecluse,0,布鲁塞尔安德莱赫特,0.0,0.0,0.0
+法国菜,Henri 1er,Henri 1er,0,,0.0,0.0,0.0
+法国菜,La Terrasse,La Terrasse,0,,6.9,6.9,6.9
+法国菜,The wood,The wood,0,于克勒,0.0,0.0,0.0
+墨西哥菜,Old Wild West,Old Wild West,0,其他,0.0,0.0,0.0
+墨西哥菜,Calavera,Calavera,0,布鲁塞尔市中心,0.0,0.0,0.0
+墨西哥菜,Maya Orient,Maya Orient,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Chez Leon,Chez Leon,0,布鲁塞尔市中心,8.3,7.8,7.7
+其他西餐,Waffle Factory,Waffle Factory,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,天鹅咖啡馆,天鹅咖啡馆,0,布鲁塞尔市中心,8.1,8.1,7.7
+其他西餐,Amigos de Aragon,Amigos de Aragon,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Grimbergen Bruxelles Cafe,Grimbergen Bruxelles Cafe,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Grand Bi,Le Grand Bi,0,布鲁塞尔市中心,6.7,7.4,6.7
+其他西餐,Belgian Frit'n Toast,Belgian Frit'n Toast,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Exki,Exki,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Bourgeois,Le Bourgeois,0,布鲁塞尔市中心,6.7,6.7,8.1
+其他西餐,Chez Patrick,Chez Patrick,0,其他,0.0,0.0,0.0
+其他西餐,The Old Oak,The Old Oak,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,BRUSSELS GOURMET TOUR,BRUSSELS GOURMET TOUR,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Coming Soon,Le Coming Soon,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Cafe de l'Iselp,Le Cafe de l'Iselp,0,,0.0,0.0,0.0
+其他西餐,L 'n' M Brussels Soul Food,L 'n' M Brussels Soul Food,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Brasserie Vendome,Brasserie Vendome,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,"Rose de Damas, Patisseries Orientales","Rose de Damas, Patisseries Orientales",0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Mykonos,Mykonos,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,L'eau Chaude - Het Warme Water,L'eau Chaude - Het Warme Water,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Asturias,Asturias,0,,0.0,0.0,0.0
+其他西餐,Le Grand Duc,Le Grand Duc,0,,0.0,0.0,0.0
+其他西餐,Le chat noir,Le chat noir,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Menthe & Safran,Menthe & Safran,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Laurent Gerbaud,Laurent Gerbaud,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Oggi,Oggi,0,于克勒,0.0,0.0,0.0
+其他西餐,La Salade Folle,La Salade Folle,0,,0.0,0.0,0.0
+其他西餐,Poissonnerie Dangel,Poissonnerie Dangel,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,le bountje,le bountje,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Comme Chez Soi,Comme Chez Soi,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,la Bourse,la Bourse,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Aux Armes de Bruxelles,Aux Armes de Bruxelles,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Bugatti,Le Bugatti,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,Restaurant Den Talurelekker,Restaurant Den Talurelekker,0,其他,0.0,0.0,0.0
+其他西餐,Moeder Lambic Fontainas,Moeder Lambic Fontainas,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,OR Expresso Bar,OR Expresso Bar,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Petrus,Le Petrus,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Plattesteen 1 1000,Le Plattesteen 1 1000,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,"C'est Bon, C'est Belge","C'est Bon, C'est Belge",0,其他,0.0,0.0,0.0
+其他西餐,monya,monya,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Vistro,Le Vistro,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Philema,Philema,0,,0.0,0.0,0.0
+其他西餐,Les Halles Saint-Gery,Les Halles Saint-Gery,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Kosmos Place,Kosmos Place,0,,0.0,0.0,0.0
+其他西餐,Le Sibemol,Le Sibemol,0,其他,0.0,0.0,0.0
+其他西餐,Brasserie Meat Me,Brasserie Meat Me,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Strofilia,Strofilia,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Baricube,Le Baricube,0,其他,0.0,0.0,0.0
+其他西餐,Alla pietra blu,Alla pietra blu,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,L'Auberge De Pierre,L'Auberge De Pierre,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Bookalokal - Serving local food experiences,Bookalokal - Serving local food experiences,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,Restaurant Puur,Restaurant Puur,0,圣西利斯,0.0,0.0,0.0
+其他西餐,Break de l'abbaye,Break de l'abbaye,0,其他,0.0,0.0,0.0
+其他西餐,St. Catherine's,St. Catherine's,0,其他,0.0,0.0,0.0
+其他西餐,L'Arche de Noe,L'Arche de Noe,0,,0.0,0.0,0.0
+其他西餐,Les Saveurs du Soleil,Les Saveurs du Soleil,0,其他,0.0,0.0,0.0
+其他西餐,Resto Kendy,Resto Kendy,0,,0.0,0.0,0.0
+其他西餐,La Chaloupe d'or,La Chaloupe d'or,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Schievelavabo,Schievelavabo,0,,0.0,0.0,0.0
+其他西餐,Kwint,Kwint,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Atrium,Atrium,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Taverne du Passage,La Taverne du Passage,0,其他,0.0,0.0,0.0
+其他西餐,Brasserie 1898,Brasserie 1898,0,埃尔泰贝克,0.0,0.0,0.0
+其他西餐,de Ultieme Hallicinatie,de Ultieme Hallicinatie,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Cafe Les Postiers,Cafe Les Postiers,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Au Bon Vieux Temps,Au Bon Vieux Temps,0,其他,0.0,0.0,0.0
+其他西餐,La Kartchma,La Kartchma,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,A la Folie,A la Folie,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Gout et saveur,Gout et saveur,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Duo et saveurs,Duo et saveurs,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Loxandra's Mediterranean Emporium,Loxandra's Mediterranean Emporium,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Las Castanuelas,Las Castanuelas,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,L'arriere Cuisine,L'arriere Cuisine,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Up North,Up North,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Vlady Apollonia,Vlady Apollonia,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Athenes,Athenes,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Petit boxeur,Le Petit boxeur,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Cafe Tasse,Cafe Tasse,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,9 et Voisins,9 et Voisins,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Snack Fripiers,Snack Fripiers,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Citron Vert,Citron Vert,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Romania,Romania,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Daric,Le Daric,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Barcamoule,La Barcamoule,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Guinguette en Ville,La Guinguette en Ville,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Frederic Blondeel,Frederic Blondeel,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Chez Albert,Chez Albert,0,,0.0,0.0,0.0
+其他西餐,Le Chou de Bruxelles,Le Chou de Bruxelles,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,Moeder Lambic,Moeder Lambic,0,,0.0,0.0,0.0
+其他西餐,Le Jugurtha,Le Jugurtha,0,,0.0,0.0,0.0
+其他西餐,'t Bolleke Restaurant,'t Bolleke Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Provence sur Sablons,Provence sur Sablons,0,其他,0.0,0.0,0.0
+其他西餐,Babdar,Babdar,0,其他,0.0,0.0,0.0
+其他西餐,Poechenellekelder,Poechenellekelder,0,其他,0.0,0.0,0.0
+其他西餐,Le Livre Jaune,Le Livre Jaune,0,其他,0.0,0.0,0.0
+其他西餐,Il Perfetto,Il Perfetto,0,其他,0.0,0.0,0.0
+其他西餐,Aub. Svp,Aub. Svp,0,其他,0.0,0.0,0.0
+其他西餐,Knossos,Knossos,0,,0.0,0.0,0.0
+其他西餐,Ellinikon,Ellinikon,0,,0.0,0.0,0.0
+其他西餐,La Joue de Vache,La Joue de Vache,0,,0.0,0.0,0.0
+其他西餐,Aux treteaux,Aux treteaux,0,,0.0,0.0,0.0
+其他西餐,brasserie l'escale,brasserie l'escale,0,布鲁塞尔安德莱赫特,0.0,0.0,0.0
+其他西餐,Le Chazal,Le Chazal,0,,0.0,0.0,0.0
+其他西餐,Le Gambrinus,Le Gambrinus,0,,0.0,0.0,0.0
+其他西餐,La Table du Midi,La Table du Midi,0,,0.0,0.0,0.0
+其他西餐,Wet 89 - Wereldsalon,Wet 89 - Wereldsalon,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Brasserie du Jaloa,La Brasserie du Jaloa,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La palette gourmande,La palette gourmande,0,其他,0.0,0.0,0.0
+其他西餐,Le Savarin & A Terrasse,Le Savarin & A Terrasse,0,其他,0.0,0.0,0.0
+其他西餐,Winery Shuman,Winery Shuman,0,其他,0.0,0.0,0.0
+其他西餐,Leopold Quarter,Leopold Quarter,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Fontaine,La Fontaine,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Potemkine,Potemkine,0,,0.0,0.0,0.0
+其他西餐,Claire Fontaine,Claire Fontaine,0,其他,0.0,0.0,0.0
+其他西餐,Nerja,Nerja,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Mar Azul,Mar Azul,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Place de Londres,Place de Londres,0,,0.0,0.0,0.0
+其他西餐,The Tram Experience,The Tram Experience,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Soul,Soul,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Grande Porte,La Grande Porte,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,L'hommegang,L'hommegang,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Malcour,La Malcour,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Pistolet Original,Pistolet Original,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Tortue du Sablon,La Tortue du Sablon,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Tiago's,Tiago's,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,BIG MAMA,BIG MAMA,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Bozar Brasserie,Bozar Brasserie,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,L'Atelier Europeen,L'Atelier Europeen,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Les Artisans du Gout,Les Artisans du Gout,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Peppermint Tea Room,Peppermint Tea Room,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Kokob,Kokob,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Tapas Locas,Tapas Locas,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Snack Plaka,Snack Plaka,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Snack Hellas,Snack Hellas,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La rose blanche,La rose blanche,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Les Connes,Les Connes,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Mi-Tango,Mi-Tango,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Restaurant Olympe Greek,Restaurant Olympe Greek,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Rendez Vous des artistes,Rendez Vous des artistes,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Midtown Bar & Grill,Midtown Bar & Grill,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Espressobar Or,Espressobar Or,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,SIX NATIONS Pub & Restaurant,SIX NATIONS Pub & Restaurant,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Churchill's The English Pub,Churchill's The English Pub,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Titanic,Titanic,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Menelas Taverna,Menelas Taverna,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Cafe Claude,Cafe Claude,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Villette,La Villette,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Francois,Francois,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Alban Chambon,Alban Chambon,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Pepete ET Ronron,Pepete ET Ronron,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Ex - Porte,Ex - Porte,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Bij den Boer,Bij den Boer,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Hollywood Canteen,Hollywood Canteen,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Brasserie Louise,La Brasserie Louise,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,Ashok's Indian Restaurant,Ashok's Indian Restaurant,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,Junkfood Deluxe by Quentin,Junkfood Deluxe by Quentin,0,,0.0,0.0,0.0
+其他西餐,Le Chatelain,Le Chatelain,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,O'Petit bout du Chatelain,O'Petit bout du Chatelain,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,Le Pavillon,Le Pavillon,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,O'Braga,O'Braga,0,,0.0,0.0,0.0
+其他西餐,Le Volle Gas,Le Volle Gas,0,,0.0,0.0,0.0
+其他西餐,Le Pretexte,Le Pretexte,0,,0.0,0.0,0.0
+其他西餐,Le Belgo Nero,Le Belgo Nero,0,圣西利斯,0.0,0.0,0.0
+其他西餐,Brussels City,Brussels City,0,圣西利斯,0.0,0.0,0.0
+其他西餐,Deli Trautier,Deli Trautier,0,圣西利斯,0.0,0.0,0.0
+其他西餐,La Cantina,La Cantina,0,其他,0.0,0.0,0.0
+其他西餐,Pitta hellas brussels,Pitta hellas brussels,0,其他,0.0,0.0,0.0
+其他西餐,Le Cirio,Le Cirio,0,其他,0.0,0.0,0.0
+其他西餐,Le Brueghel,Le Brueghel,0,其他,0.0,0.0,0.0
+其他西餐,Fritland,Fritland,0,其他,0.0,0.0,0.0
+其他西餐,Old Wild West,Old Wild West,0,其他,0.0,0.0,0.0
+其他西餐,Les Asturiennes,Les Asturiennes,0,其他,0.0,0.0,0.0
+其他西餐,Daniell's Tavern,Daniell's Tavern,0,其他,0.0,0.0,0.0
+其他西餐,Snack Academy,Snack Academy,0,,0.0,0.0,0.0
+其他西餐,Le Passage,Le Passage,0,,0.0,0.0,0.0
+其他西餐,Le grillardin,Le grillardin,0,于克勒,0.0,0.0,0.0
+其他西餐,Le Basilic,Le Basilic,0,,0.0,0.0,0.0
+其他西餐,Tavern Le Chalet,Tavern Le Chalet,0,其他,0.0,0.0,0.0
+其他西餐,Cantinha de Cuidad,Cantinha de Cuidad,0,其他,0.0,0.0,0.0
+其他西餐,Lunch Corner,Lunch Corner,0,其他,0.0,0.0,0.0
+其他西餐,Micro Marche,Micro Marche,0,其他,0.0,0.0,0.0
+其他西餐,Le Pere Tranquille,Le Pere Tranquille,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,The Grapevine,The Grapevine,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Quartier Libre,Quartier Libre,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Cantine de la Ville,La Cantine de la Ville,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Forestier,Le Forestier,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,le Franklin,le Franklin,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,L'Atlantide,L'Atlantide,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La Cantina Cubana,La Cantina Cubana,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Chat Noir,Le Chat Noir,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Bonsoir Clara,Bonsoir Clara,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Paon Royal,Le Paon Royal,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Petit Chou de Bruxelles,Le Petit Chou de Bruxelles,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Resto Lou,Resto Lou,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Per Caso,Per Caso,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Kebap Center,Kebap Center,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Callens Cafe,Callens Cafe,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,Balaton,Balaton,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,L'Auberge Espagnole,L'Auberge Espagnole,0,,0.0,0.0,0.0
+其他西餐,La Porteuse d'eau,La Porteuse d'eau,0,,0.0,0.0,0.0
+其他西餐,Los Ponchos,Los Ponchos,0,圣西利斯,0.0,0.0,0.0
+其他西餐,Mamy Louise,Mamy Louise,0,圣西利斯,0.0,0.0,0.0
+其他西餐,Au Boeuf gros sel,Au Boeuf gros sel,0,圣西利斯,0.0,0.0,0.0
+其他西餐,Hector Chicken,Hector Chicken,0,其他,0.0,0.0,0.0
+其他西餐,Le Clan des Belges,Le Clan des Belges,0,其他,0.0,0.0,0.0
+其他西餐,Le pre sale,Le pre sale,0,其他,0.0,0.0,0.0
+其他西餐,Le Roy d'Espagne,Le Roy d'Espagne,0,其他,0.0,0.0,0.0
+其他西餐,Greenwich Cafe,Greenwich Cafe,0,其他,0.0,0.0,0.0
+其他西餐,La Cantine des Halles des Tanneurs,La Cantine des Halles des Tanneurs,0,其他,0.0,0.0,0.0
+其他西餐,Les Chapeliers,Les Chapeliers,0,其他,0.0,0.0,0.0
+其他西餐,Show Brasil,Show Brasil,0,其他,0.0,0.0,0.0
+其他西餐,Zorba,Zorba,0,其他,0.0,0.0,0.0
+其他西餐,Le Petit Vingtieme,Le Petit Vingtieme,0,其他,0.0,0.0,0.0
+其他西餐,Les Reves d'Ernestine,Les Reves d'Ernestine,0,,0.0,0.0,0.0
+其他西餐,Victor Bar & Restaurant,Victor Bar & Restaurant,0,,0.0,0.0,0.0
+其他西餐,Brasserie de la Villa Lorraine,Brasserie de la Villa Lorraine,0,,0.0,0.0,0.0
+其他西餐,Le Bonnet d'Ane,Le Bonnet d'Ane,0,,0.0,0.0,0.0
+其他西餐,Le 830,Le 830,0,于克勒,0.0,0.0,0.0
+其他西餐,De Gulden Boot,De Gulden Boot,0,其他,0.0,0.0,0.0
+其他西餐,Le Marin,Le Marin,0,其他,0.0,0.0,0.0
+其他西餐,De Skieven Architek,De Skieven Architek,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Quartier Gourmand,Quartier Gourmand,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Havana Club,Havana Club,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,El Verde,El Verde,0,,0.0,0.0,0.0
+其他西餐,Euro London Sprl,Euro London Sprl,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Quartier Leopold,Quartier Leopold,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Corbier,Le Corbier,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Birdie Nam Nam,Birdie Nam Nam,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Museum Brasserie,Museum Brasserie,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Saint Germain,Le Saint Germain,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Attica,Attica,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Mi-figue mi-raisin,Mi-figue mi-raisin,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Manneken Cafe,Manneken Cafe,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Bar a Tapas,Bar a Tapas,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Tapeo,Tapeo,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Bar a Tapas IXELLES,Bar a Tapas IXELLES,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Catalou,Catalou,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le petit bedon,Le petit bedon,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Restaurant Saint Laurent,Restaurant Saint Laurent,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Vieux Bruxelles,Le Vieux Bruxelles,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Le Brosella,Le Brosella,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,Soup in the City,Soup in the City,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,L'Atelier de Nicolas,L'Atelier de Nicolas,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,Majestic,Majestic,0,埃尔赛讷,0.0,0.0,0.0
+其他西餐,Le syrtaki,Le syrtaki,0,,0.0,0.0,0.0
+其他西餐,Patagonia,Patagonia,0,圣西利斯,0.0,0.0,0.0
+其他西餐,La Bocca Degli Artisti,La Bocca Degli Artisti,0,其他,0.0,0.0,0.0
+其他西餐,Le Vieux Colombier,Le Vieux Colombier,0,其他,0.0,0.0,0.0
+其他西餐,Danish Tavern,Danish Tavern,0,其他,0.0,0.0,0.0
+其他西餐,Au Stekerlaplatte,Au Stekerlaplatte,0,其他,0.0,0.0,0.0
+其他西餐,YDCO,YDCO,0,其他,0.0,0.0,0.0
+其他西餐,Le Faucon,Le Faucon,0,其他,0.0,0.0,0.0
+其他西餐,L'Amandier,L'Amandier,0,其他,0.0,0.0,0.0
+其他西餐,Sol,Sol,0,其他,0.0,0.0,0.0
+其他西餐,Au Vieux Bruxelles,Au Vieux Bruxelles,0,其他,0.0,0.0,0.0
+其他西餐,Le Pere Yvan,Le Pere Yvan,0,,0.0,0.0,0.0
+其他西餐,'t Verwenkaffee,'t Verwenkaffee,0,,0.0,0.0,0.0
+其他西餐,LT Cafe,LT Cafe,0,,0.0,0.0,0.0
+其他西餐,Midi Cinquante,Midi Cinquante,0,埃尔泰贝克,0.0,0.0,0.0
+其他西餐,Friterie Laurens,Friterie Laurens,0,,0.0,0.0,0.0
+其他西餐,Brasserie Belle-Vue,Brasserie Belle-Vue,0,,0.0,0.0,0.0
+其他西餐,Nuetnigenough,Nuetnigenough,0,布鲁塞尔市中心,0.0,0.0,0.0
+其他西餐,La piccola fontana,La piccola fontana,0,布鲁塞尔市中心,0.0,0.0,0.0
+中餐,Mei Wei Lou,Mei Wei Lou,0,布鲁塞尔市中心,8.0,7.5,8.0
+中餐,金龙酒店,金龙酒店,0,,0.0,6.8,6.8
+中餐,Restaurant Chinios - Kai Yuan,Restaurant Chinios - Kai Yuan,0,圣西利斯,0.0,0.0,0.0
+中餐,Chez Mymy,Chez Mymy,0,布鲁塞尔市中心,0.0,0.0,0.0
+中餐,Le Jardin Imperial,Le Jardin Imperial,0,,0.0,0.0,0.0
+中餐,Palais d'Asie,Palais d'Asie,0,布鲁塞尔市中心,0.0,0.0,0.0
+中餐,Gourmets Every-Day,Gourmets Every-Day,0,布鲁塞尔市中心,0.0,0.0,0.0
+中餐,Thien Long,Thien Long,0,其他,0.0,0.0,0.0
+中餐,Peking Duck,Peking Duck,0,埃尔赛讷,0.0,0.0,0.0
+中餐,La Fontaine de Jade,La Fontaine de Jade,0,,0.0,0.0,0.0
+中餐,Ping,Ping,0,,0.0,0.0,0.0
+中餐,King Hwa,King Hwa,0,布鲁塞尔市中心,0.0,0.0,0.0
+中餐,Centenaire,Centenaire,0,其他,0.0,0.0,0.0
+中餐,Cha Yuan,Cha Yuan,0,埃尔赛讷,0.0,0.0,0.0
+中餐,L'Orchidee Bleue,L'Orchidee Bleue,0,,0.0,0.0,0.0
+中餐,Nam Shan,Nam Shan,0,,0.0,0.0,0.0
+中餐,O Chinoise Riz,O Chinoise Riz,0,埃尔赛讷,0.0,0.0,0.0
+中餐,Les Jardins de Pekin,Les Jardins de Pekin,0,,0.0,0.0,0.0
+中餐,Aux Delices de Chine,Aux Delices de Chine,0,,0.0,0.0,0.0
+日韩料理,Ninja House,Ninja House,0,,7.0,7.0,7.0
+日韩料理,Samurai Ramen,Samurai Ramen,0,布鲁塞尔市中心,0.0,0.0,0.0
+日韩料理,Ajiyoshi,Ajiyoshi,0,布鲁塞尔市中心,0.0,0.0,0.0
+日韩料理,Loui Sushi,Loui Sushi,0,布鲁塞尔市中心,0.0,0.0,0.0
+日韩料理,Sakagura,Sakagura,0,,0.0,0.0,0.0
+日韩料理,Samourai,Samourai,0,布鲁塞尔市中心,0.0,0.0,0.0
+日韩料理,Izak-Ya,Izak-Ya,0,埃尔赛讷,0.0,0.0,0.0
+日韩料理,Jiyuna,Jiyuna,0,布鲁塞尔市中心,0.0,0.0,0.0
+日韩料理,Eden Thes & Cafes,Eden Thes & Cafes,0,,0.0,0.0,0.0
+日韩料理,Aji Izakaya,Aji Izakaya,0,布鲁塞尔市中心,0.0,0.0,0.0
+日韩料理,Kabu,Kabu,0,,0.0,0.0,0.0
+日韩料理,Matsuri,Matsuri,0,圣西利斯,0.0,0.0,0.0
+日韩料理,Cote Sushi Woluwe,Cote Sushi Woluwe,0,,0.0,0.0,0.0
+日韩料理,Minami,Minami,0,其他,0.0,0.0,0.0
+日韩料理,KABUKI,KABUKI,0,布鲁塞尔市中心,0.0,0.0,0.0
+日韩料理,SUMIDA,SUMIDA,0,,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,布鲁塞尔市中心,0.0,0.0,0.0
+日韩料理,Anata,Anata,0,布鲁塞尔市中心,0.0,0.0,0.0
+日韩料理,Sushiworld,Sushiworld,0,布鲁塞尔市中心,0.0,0.0,0.0
+日韩料理,Yoko,Yoko,0,埃尔赛讷,0.0,0.0,0.0
+日韩料理,Nakama sushi,Nakama sushi,0,圣西利斯,0.0,0.0,0.0
+日韩料理,Kokeshi Sushi Bar,Kokeshi Sushi Bar,0,其他,0.0,0.0,0.0
+日韩料理,Sushi's Stockel,Sushi's Stockel,0,,0.0,0.0,0.0
+日韩料理,Hama Shin,Hama Shin,0,,0.0,0.0,0.0
+日韩料理,Sushioui,Sushioui,0,,0.0,0.0,0.0
+日韩料理,Zuziko,Zuziko,0,,0.0,0.0,0.0
+更多亚洲菜,Star of Asia,Star of Asia,0,,6.0,6.7,6.7
+更多亚洲菜,Thien Long,Thien Long,0,其他,0.0,0.0,0.0
+更多亚洲菜,Lotus Vert,Lotus Vert,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Le Thai,Le Thai,0,,0.0,0.0,0.0
+更多亚洲菜,Mam Mam,Mam Mam,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Wok Up,Wok Up,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,sukothai,sukothai,0,,0.0,0.0,0.0
+更多亚洲菜,Thai Bangkok,Thai Bangkok,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Thai Talks,Thai Talks,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Hong Hoa,Hong Hoa,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Xu Ji,Xu Ji,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Yaki,Yaki,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Thanh-Binh,Thanh-Binh,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Thai City,Thai City,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Rouge Piment,Rouge Piment,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Restaurant Darjeeling,Restaurant Darjeeling,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Shere-E-Punjab,Shere-E-Punjab,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Maharadja,Maharadja,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,La Table Imperiale,La Table Imperiale,0,,0.0,0.0,0.0
+更多亚洲菜,Village du Vietnam,Village du Vietnam,0,,0.0,0.0,0.0
+更多亚洲菜,Suki,Suki,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Da-Kao II,Da-Kao II,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Lotus - Bar,Lotus - Bar,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Zaika,Zaika,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,L'everest,L'everest,0,埃尔赛讷,0.0,0.0,0.0
+更多亚洲菜,The Duke,The Duke,0,埃尔赛讷,0.0,0.0,0.0
+更多亚洲菜,Chez Saly,Chez Saly,0,埃尔赛讷,0.0,0.0,0.0
+更多亚洲菜,Gourmet D'Asie,Gourmet D'Asie,0,其他,0.0,0.0,0.0
+更多亚洲菜,Hare Rama Hare Krishna,Hare Rama Hare Krishna,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kin D,Kin D,0,,0.0,0.0,0.0
+更多亚洲菜,Spicy Grill,Spicy Grill,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Le Shimla,Le Shimla,0,,0.0,0.0,0.0
+更多亚洲菜,Les larmes du tigre,Les larmes du tigre,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Shinwi,Shinwi,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,La Baie d'Halong,La Baie d'Halong,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Fanny Thai,Fanny Thai,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Co Nem,Co Nem,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Lune de Miel,Lune de Miel,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Bombay Inn,Bombay Inn,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Villa Thai,Villa Thai,0,埃尔赛讷,0.0,0.0,0.0
+更多亚洲菜,Chao Phraya,Chao Phraya,0,,0.0,0.0,0.0
+更多亚洲菜,Koi,Koi,0,埃尔赛讷,0.0,0.0,0.0
+更多亚洲菜,Indochine,Indochine,0,,0.0,0.0,0.0
+更多亚洲菜,Li Yuan,Li Yuan,0,圣西利斯,0.0,0.0,0.0
+更多亚洲菜,L'Express,L'Express,0,其他,0.0,0.0,0.0
+更多亚洲菜,Manola,Manola,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Premier Comptoir Thai,Restaurant Premier Comptoir Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thai Rainbow,Thai Rainbow,0,,0.0,0.0,0.0
+更多亚洲菜,Noi,Noi,0,,0.0,0.0,0.0
+更多亚洲菜,La Porte du Bengale,La Porte du Bengale,0,,0.0,0.0,0.0
+更多亚洲菜,Eat East,Eat East,0,于克勒,0.0,0.0,0.0
+更多亚洲菜,Pavillon d'Or,Pavillon d'Or,0,其他,0.0,0.0,0.0
+更多亚洲菜,So Yummy,So Yummy,0,其他,0.0,0.0,0.0
+更多亚洲菜,Ganesh - Indian Food,Ganesh - Indian Food,0,其他,0.0,0.0,0.0
+更多亚洲菜,Adilouna,Adilouna,0,其他,0.0,0.0,0.0
+更多亚洲菜,Royal Kashmir,Royal Kashmir,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Feux du bengale,Feux du bengale,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Davi,Davi,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Kumquat,Kumquat,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Pataya Restaurant,Pataya Restaurant,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Annapurna,Annapurna,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Garuda,Garuda,0,,0.0,0.0,0.0
+更多亚洲菜,Le Tournesol,Le Tournesol,0,埃尔赛讷,0.0,0.0,0.0
+更多亚洲菜,L'escale au Vietnam,L'escale au Vietnam,0,,0.0,0.0,0.0
+更多亚洲菜,Vietnam Express,Vietnam Express,0,其他,0.0,0.0,0.0
+更多亚洲菜,La Maharani,La Maharani,0,其他,0.0,0.0,0.0
+更多亚洲菜,Chapati,Chapati,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sabaidee,Sabaidee,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Reve D'asie,Reve D'asie,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,K. Touch,K. Touch,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Shamrock,Shamrock,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Buddhasia,Buddhasia,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Lucy Chang,Lucy Chang,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Aux Quatre Saisons,Aux Quatre Saisons,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多亚洲菜,Le Vert de Rouge 2,Le Vert de Rouge 2,0,埃尔赛讷,0.0,0.0,0.0
+更多亚洲菜,La Porte des Indes,La Porte des Indes,0,埃尔赛讷,0.0,0.0,0.0
+更多亚洲菜,Tchin Tchin,Tchin Tchin,0,,0.0,0.0,0.0
+更多亚洲菜,Thaï Café,Thaï Café,0,,0.0,0.0,0.0
+更多亚洲菜,La Fleur De Papaye,La Fleur De Papaye,0,,0.0,0.0,0.0
+更多亚洲菜,Thai Spice,Thai Spice,0,圣西利斯,0.0,0.0,0.0
+快餐简餐,Quick,Quick,0,,7.3,6.8,6.8
+快餐简餐,pho pho,pho pho,0,,7.1,7.0,7.0
+快餐简餐,capadocia,capadocia,0,,7.1,7.0,7.1
+快餐简餐,Flo,Flo,0,埃尔赛讷,0.0,0.0,0.0
+快餐简餐,Burger Republic,Burger Republic,0,,0.0,0.0,0.0
+快餐简餐,L'epicerie,L'epicerie,0,,0.0,0.0,0.0
+快餐简餐,Midtown Grill,Midtown Grill,0,布鲁塞尔市中心,0.0,0.0,0.0
+快餐简餐,I Primi Piatti,I Primi Piatti,0,布鲁塞尔市中心,0.0,0.0,0.0
+快餐简餐,Le Pain du Châtelain,Le Pain du Châtelain,0,埃尔赛讷,0.0,0.0,0.0
+快餐简餐,Fritland,Fritland,0,布鲁塞尔安德莱赫特,0.0,0.0,0.0
+海鲜,Noordzee Mer du Nord,Noordzee Mer du Nord,0,布鲁塞尔市中心,0.0,0.0,0.0
+海鲜,Toucan sur mer,Toucan sur mer,0,,0.0,0.0,0.0
+海鲜,The oyster bar,The oyster bar,0,其他,0.0,0.0,0.0
+海鲜,Antarctique,Antarctique,0,布鲁塞尔市中心,0.0,0.0,0.0
+海鲜,Seagrill,Seagrill,0,其他,0.0,0.0,0.0
+海鲜,Ricciocapriccio,Ricciocapriccio,0,,0.0,0.0,0.0
+海鲜,L'Ocean,L'Ocean,0,布鲁塞尔市中心,0.0,0.0,0.0
+海鲜,Rugbyman 1,Rugbyman 1,0,布鲁塞尔市中心,0.0,0.0,0.0
+海鲜,Les Crustaces,Les Crustaces,0,布鲁塞尔市中心,0.0,0.0,0.0
+海鲜,Aux Arcades,Aux Arcades,0,布鲁塞尔市中心,0.0,0.0,0.0
+海鲜,Le Dauphin,Le Dauphin,0,其他,0.0,0.0,0.0
+烧烤,Ribs'n Beer,Ribs'n Beer,0,,7.1,7.1,7.0
+烧烤,Kanodou,Kanodou,0,圣西利斯,0.0,0.0,0.0
+烧烤,Moby Dick,Moby Dick,0,,0.0,0.0,0.0
+比萨,La Belle Equipe,La Belle Equipe,0,,0.0,0.0,0.0
+比萨,pazzo di pizza,pazzo di pizza,0,,0.0,0.0,0.0
+比萨,The Gog's Pizza,The Gog's Pizza,0,其他,0.0,0.0,0.0
+比萨,Via Pizza,Via Pizza,0,,0.0,0.0,0.0
+比萨,La Romana,La Romana,0,,0.0,0.0,0.0
+咖啡厅,天鹅咖啡馆,天鹅咖啡馆,0,布鲁塞尔市中心,8.1,8.1,7.7
+咖啡厅,星巴克,星巴克,0,布鲁塞尔市中心,7.2,7.7,7.7
+咖啡厅,Café Mathieux,Café Mathieux,0,布鲁塞尔市中心,0.0,0.0,0.0
+咖啡厅,Kosmos Place,Kosmos Place,0,,0.0,0.0,0.0
+咖啡厅,Le Pain Quotidien,Le Pain Quotidien,0,其他,0.0,0.0,0.0
+咖啡厅,Natural Caffe - Mont des Arts,Natural Caffe - Mont des Arts,0,其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,其他,0.0,0.0,0.0
+咖啡厅,Atelier en Ville,Atelier en Ville,0,布鲁塞尔市中心,0.0,0.0,0.0
+咖啡厅,Aksum Coffee House,Aksum Coffee House,0,布鲁塞尔市中心,0.0,0.0,0.0
+咖啡厅,Rouge,Rouge,0,其他,0.0,0.0,0.0
+咖啡厅,Jat',Jat',0,其他,0.0,0.0,0.0
+咖啡厅,Au Soleil,Au Soleil,0,布鲁塞尔市中心,0.0,0.0,0.0
+咖啡厅,Delish,Delish,0,布鲁塞尔市中心,0.0,0.0,0.0
+咖啡厅,Coin Quotidien,Coin Quotidien,0,其他,0.0,0.0,0.0
+咖啡厅,In de Patattezak (Pee Klak),In de Patattezak (Pee Klak),0,,0.0,0.0,0.0
+咖啡厅,Le Papillon,Le Papillon,0,布鲁塞尔市中心,0.0,0.0,0.0
+咖啡厅,De Markten Cafe,De Markten Cafe,0,布鲁塞尔市中心,0.0,0.0,0.0
+咖啡厅,Haagen Dazs,Haagen Dazs,0,圣西利斯,0.0,0.0,0.0
+咖啡厅,Ponti Belgian Coffee Corner,Ponti Belgian Coffee Corner,0,,6.9,6.9,6.9
+咖啡厅,Aroma Coffee Lounge,Aroma Coffee Lounge,0,,6.9,6.9,6.9
+咖啡厅,Barock's Cafe,Barock's Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Delifrance,Delifrance,0,其他,0.0,0.0,0.0
+咖啡厅,Comics Café,Comics Café,0,布鲁塞尔市中心,0.0,0.0,0.0
+咖啡厅,COMICS CAFE,COMICS CAFE,0,布鲁塞尔市中心,0.0,0.0,0.0
+面包甜点,GODIVA,GODIVA,212,布鲁塞尔市中心,7.5,7.2,7.5
+面包甜点,Neuhaus,Neuhaus,205,布鲁塞尔市中心,7.7,7.6,7.6
+面包甜点,Godiva,Godiva,0,布鲁塞尔市中心,8.5,8.4,8.4
+面包甜点,COTE D'OR,COTE D'OR,0,,7.8,7.3,7.7
+面包甜点,Panadería Paul,Panadería Paul,0,布鲁塞尔安德莱赫特,7.2,7.2,7.2
+面包甜点,Pierre Marcolini,Pierre Marcolini(Louise店),0,布鲁塞尔市中心,7.6,7.6,7.6
+面包甜点,Laurent Gerbaud Chocolatier,Laurent Gerbaud Chocolatier,0,,7.0,6.9,7.0
+面包甜点,Meert,Meert,0,,7.2,7.2,7.5
+面包甜点,Comus & Gasterea,Comus & Gasterea,0,布鲁塞尔市中心,0.0,0.0,0.0
+面包甜点,Ijsberg,Ijsberg,0,布鲁塞尔市中心,0.0,0.0,0.0
+面包甜点,Maison Dandoy - Tea Room,Maison Dandoy - Tea Room,0,布鲁塞尔市中心,0.0,0.0,0.0
+面包甜点,Glacier Cocozza,Glacier Cocozza,0,,0.0,0.0,0.0
+面包甜点,Snack Academy,Snack Academy,0,,0.0,0.0,0.0
+面包甜点,Croissanterie,Croissanterie,0,其他,0.0,0.0,0.0
+面包甜点,Cafe de la Presse,Cafe de la Presse,0,埃尔赛讷,0.0,0.0,0.0
+面包甜点,La Cremerie de la Vache,La Cremerie de la Vache,0,圣西利斯,0.0,0.0,0.0
+面包甜点,La Maison des Crepes,La Maison des Crepes,0,其他,0.0,0.0,0.0
+面包甜点,Berko Belgique,Berko Belgique,0,布鲁塞尔市中心,0.0,0.0,0.0
+面包甜点,Pierre Marcolini,Pierre Marcolini(ROB店),0,,0.0,0.0,0.0
+酒吧,Delirium,Delirium,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,El Metteko,El Metteko,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Laboureur,Laboureur,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Sauna Oasis,Sauna Oasis,0,,0.0,0.0,0.0
+酒吧,Scott's,Scott's,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Arion Café,Arion Café,0,圣西利斯,0.0,0.0,0.0
+酒吧,La Mort Subite,La Mort Subite,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Le Cercueil,Le Cercueil,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,James Joyce,James Joyce,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Selon Lili,Selon Lili,0,其他,0.0,0.0,0.0
+酒吧,Canoa Quebrada,Canoa Quebrada,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Au Vieux Saint Martin,Au Vieux Saint Martin,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,La Fleur en Papier Dore,La Fleur en Papier Dore,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Poechenellekelder,Poechenellekelder,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Jour de Fete,Jour de Fete,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Le Boys Boudoir,Le Boys Boudoir,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Bistro du Canal,Bistro du Canal,0,,0.0,0.0,0.0
+酒吧,La Boussole Brassiere,La Boussole Brassiere,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Moeder Lambic,Moeder Lambic,0,,0.0,0.0,0.0
+酒吧,'t Bolleke Restaurant,'t Bolleke Restaurant,0,其他,0.0,0.0,0.0
+酒吧,The Music Village,The Music Village,0,其他,0.0,0.0,0.0
+酒吧,Be Lella,Be Lella,0,布鲁塞尔安德莱赫特,0.0,0.0,0.0
+酒吧,Good Kompany,Good Kompany,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,brasserie horta,brasserie horta,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Rock Classic Bar,Rock Classic Bar,0,其他,0.0,0.0,0.0
+酒吧,Place de Londres,Place de Londres,0,,0.0,0.0,0.0
+酒吧,La Porte Noire,La Porte Noire,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Ethnic Cafe Bar,Ethnic Cafe Bar,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,La Becasse,La Becasse,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Celtica,Celtica,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Cafe le Coq,Cafe le Coq,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,A La Mort Subite,A La Mort Subite,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Arcadi,Arcadi,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Skylab,Skylab,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Les Canailles du Châtelain,Les Canailles du Châtelain,0,埃尔赛讷,0.0,0.0,0.0
+酒吧,Le Volle Gas,Le Volle Gas,0,,0.0,0.0,0.0
+酒吧,Saint Boniface,Saint Boniface,0,,0.0,0.0,0.0
+酒吧,les Fous du Terroir,les Fous du Terroir,0,其他,0.0,0.0,0.0
+酒吧,Bier Circus,Bier Circus,0,其他,0.0,0.0,0.0
+酒吧,Royal Brasserie,Royal Brasserie,0,其他,0.0,0.0,0.0
+酒吧,Les Petits Oignons,Les Petits Oignons,0,其他,0.0,0.0,0.0
+酒吧,Cafe des Spores,Cafe des Spores,0,,0.0,0.0,0.0
+酒吧,le casino,le casino,0,其他,0.0,0.0,0.0
+酒吧,In de Patattezak (Pee Klak),In de Patattezak (Pee Klak),0,,0.0,0.0,0.0
+酒吧,Moby Dick,Moby Dick,0,,0.0,0.0,0.0
+酒吧,Hortense Spirits & Cocktails,Hortense Spirits & Cocktails,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Chez Richard,Chez Richard,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Macho Sauna,Macho Sauna,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Cafe Le Fontainas,Cafe Le Fontainas,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,La Trinquette,La Trinquette,0,,0.0,0.0,0.0
+酒吧,Al Piccolo Mondo,Al Piccolo Mondo,0,圣西利斯,0.0,0.0,0.0
+酒吧,People,People,0,,0.0,0.0,0.0
+酒吧,Sauna Spades4,Sauna Spades4,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Le Cafe de Bruxelles,Le Cafe de Bruxelles,0,布鲁塞尔市中心,0.0,0.0,0.0
+酒吧,Montenegro,Montenegro,0,圣西利斯,0.0,0.0,0.0
+酒吧,Le moulin restutant brussles,Le moulin restutant brussles,0,其他,0.0,0.0,0.0
+酒吧,Falstaff,Falstaff,0,其他,0.0,0.0,0.0
+酒吧,le Milord,le Milord,0,其他,0.0,0.0,0.0
+酒吧,'t Verwenkaffee,'t Verwenkaffee,0,,0.0,0.0,0.0
+酒吧,Zivereirs,Zivereirs,0,,0.0,0.0,0.0
+酒吧,Le Chalet Robinson,Le Chalet Robinson,0,于克勒,0.0,0.0,0.0
+酒吧,Nuetnigenough,Nuetnigenough,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Exki,Exki,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,L'horloge du Sud,L'horloge du Sud,0,,0.0,0.0,0.0
+更多美食,JB,JB,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Il Posto al Sole,Il Posto al Sole,0,,0.0,0.0,0.0
+更多美食,Dal Padrino,Dal Padrino,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Chutney's,Chutney's,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,La Roue d'Or,La Roue d'Or,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Tonton Garby,Tonton Garby,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Sea Food & Wine Bar,Sea Food & Wine Bar,0,其他,0.0,0.0,0.0
+更多美食,L'herbe rouge,L'herbe rouge,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Patisserie de Baere,Patisserie de Baere,0,,0.0,0.0,0.0
+更多美食,Il Ramo Verdee,Il Ramo Verdee,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,The Meeting Point,The Meeting Point,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Beaucoup Fish,Beaucoup Fish,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Pasadena,Pasadena,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Delirium Cafe,Delirium Cafe,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Brasserie Belge,Brasserie Belge,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Mangetsu,Mangetsu,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Paradiso,Paradiso,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Salon 58,Salon 58,0,其他,0.0,0.0,0.0
+更多美食,La Manufacture,La Manufacture,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Little Asia,Little Asia,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Egnatia,Egnatia,0,其他,0.0,0.0,0.0
+更多美食,Cafe Georgette,Cafe Georgette,0,其他,0.0,0.0,0.0
+更多美食,Skievelat,Skievelat,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,ma Folle des Soeur,ma Folle des Soeur,0,圣西利斯,0.0,0.0,0.0
+更多美食,Wittamer,Wittamer,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,La Maison Corica,La Maison Corica,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Food Wine & Beer,Food Wine & Beer,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,EL BOCATA EL BOCADILLO,EL BOCATA EL BOCADILLO,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,De Nieuwe,De Nieuwe,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Snack A Pat,Snack A Pat,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Aria - A l'Ombre du Bois,Aria - A l'Ombre du Bois,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Al Mandaloun,Al Mandaloun,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Le Faucon,Le Faucon,0,圣西利斯,0.0,0.0,0.0
+更多美食,Le Stevin,Le Stevin,0,其他,0.0,0.0,0.0
+更多美食,moerder lambic,moerder lambic,0,其他,0.0,0.0,0.0
+更多美食,L'Olivier de Provence,L'Olivier de Provence,0,其他,0.0,0.0,0.0
+更多美食,Point Albert,Point Albert,0,其他,0.0,0.0,0.0
+更多美食,Athena,Athena,0,,0.0,0.0,0.0
+更多美食,Saint Guidon,Saint Guidon,0,,0.0,0.0,0.0
+更多美食,Leonor,Leonor,0,其他,0.0,0.0,0.0
+更多美食,blabla,blabla,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,le point de chute,le point de chute,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Al Jannah,Al Jannah,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Il Passatempo,Il Passatempo,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Pei & Mei,Pei & Mei,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Khun May,Khun May,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Beursschouwburg,Beursschouwburg,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Publico,Publico,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Crachin,Le Crachin,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Castel de Rhodes,Le Castel de Rhodes,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Il Colosseo,Il Colosseo,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Bar Bik,Bar Bik,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,O-Restaurant,O-Restaurant,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Playground,Playground,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Pizzeria La Regina,Pizzeria La Regina,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,N 7 Ristorante Italiano,N 7 Ristorante Italiano,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Les Salades de Gaspard,Les Salades de Gaspard,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Guapa Luxembourg,Guapa Luxembourg,0,其他,0.0,0.0,0.0
+更多美食,Chez Nous,Chez Nous,0,其他,0.0,0.0,0.0
+更多美食,Brighton Restaurant,Brighton Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Kung Fu Noodles,Kung Fu Noodles,0,其他,0.0,0.0,0.0
+更多美食,Letiuz Salad Bar,Letiuz Salad Bar,0,其他,0.0,0.0,0.0
+更多美食,Le Gout de MA Passion,Le Gout de MA Passion,0,,0.0,0.0,0.0
+更多美食,Olympia,Olympia,0,其他,0.0,0.0,0.0
+更多美食,Park Avenue,Park Avenue,0,埃尔泰贝克,0.0,0.0,0.0
+更多美食,Le Correge,Le Correge,0,埃尔泰贝克,0.0,0.0,0.0
+更多美食,Il Monticelli,Il Monticelli,0,,0.0,0.0,0.0
+更多美食,Brasserie London,Brasserie London,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Nil,Le Nil,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Fiacre,Le Fiacre,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Le Chambord,Restaurant Le Chambord,0,,0.0,0.0,0.0
+更多美食,La Marmite,La Marmite,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Wine Bar ,Wine Bar ,0,,0.0,0.0,0.0
+更多美食,Bla Bla Gallery,Bla Bla Gallery,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Brasserie Ploegmans,Brasserie Ploegmans,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Perroquet,Le Perroquet,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Cafe Du Sablon,Cafe Du Sablon,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,L'Entree des Artistes,L'Entree des Artistes,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Bar Recyclart,Bar Recyclart,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,The Museum Cafe,The Museum Cafe,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Green Kitchen,Green Kitchen,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Mess,Le Mess,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,L'Atelier de Michel D,L'Atelier de Michel D,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,The Twelve,The Twelve,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Cool Bun,Cool Bun,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,cafe novo,cafe novo,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Exki,Exki,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Funky Monkey,Funky Monkey,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Manneken Pis Cafe,Manneken Pis Cafe,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Al Barmaki,Al Barmaki,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Goupil Le Fol,Goupil Le Fol,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Rachel de Bruxelles,Rachel de Bruxelles,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,L'Eperon d'Or,L'Eperon d'Or,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Hard Rock Cafe,Hard Rock Cafe,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,La Cave a Vin,La Cave a Vin,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Pulp,Pulp,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Pizzeria Mirante,Pizzeria Mirante,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Zebra Bar,Zebra Bar,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Cafe Pom,Cafe Pom,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Chez Jef Et Fils,Chez Jef Et Fils,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Pizzeria Sole d'Italia,Pizzeria Sole d'Italia,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,La Papaya verte,La Papaya verte,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Amadeus,Amadeus,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Saint Georges,Le Saint Georges,0,,0.0,0.0,0.0
+更多美食,Au Fond,Au Fond,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Vismet,Vismet,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Restaurant Sainte-Catherine,Restaurant Sainte-Catherine,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,La Peniche,La Peniche,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Manneken Pils Brasserie,Manneken Pils Brasserie,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Kaaicafe,Kaaicafe,0,,0.0,0.0,0.0
+更多美食,La Trattoria,La Trattoria,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,O Liban,O Liban,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Triskell,Triskell,0,,0.0,0.0,0.0
+更多美食,Le Liban,Le Liban,0,,0.0,0.0,0.0
+更多美食,Tom Yam,Tom Yam,0,,0.0,0.0,0.0
+更多美食,Cafe Panisse,Cafe Panisse,0,,0.0,0.0,0.0
+更多美食,Roxi Cafe,Roxi Cafe,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Slurps,Slurps,0,,0.0,0.0,0.0
+更多美食,Mente Sana,Mente Sana,0,,0.0,0.0,0.0
+更多美食,Momo,Momo,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Cafe Wiltcher's,Cafe Wiltcher's,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Gallery,Gallery,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Resto Sushi's,Resto Sushi's,0,圣西利斯,0.0,0.0,0.0
+更多美食,Therese et Dominique,Therese et Dominique,0,圣西利斯,0.0,0.0,0.0
+更多美食,Friterie Fontainas,Friterie Fontainas,0,圣西利斯,0.0,0.0,0.0
+更多美食,Cafe/Restaurant Al Bacha,Cafe/Restaurant Al Bacha,0,圣西利斯,0.0,0.0,0.0
+更多美食,La Vigne,La Vigne,0,圣西利斯,0.0,0.0,0.0
+更多美食,I trulli,I trulli,0,其他,0.0,0.0,0.0
+更多美食,La Table,La Table,0,其他,0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,,0.0,0.0,0.0
+更多美食,ABC Poissonnerie,ABC Poissonnerie,0,其他,0.0,0.0,0.0
+更多美食,Brasserie du Gourmet,Brasserie du Gourmet,0,其他,0.0,0.0,0.0
+更多美食,Vincent,Vincent,0,其他,0.0,0.0,0.0
+更多美食,Les jardins de bagatelle,Les jardins de bagatelle,0,其他,0.0,0.0,0.0
+更多美食,Madagasikara,Madagasikara,0,其他,0.0,0.0,0.0
+更多美食,Le Grill,Le Grill,0,,0.0,0.0,0.0
+更多美食,Auntie Cafe,Auntie Cafe,0,其他,0.0,0.0,0.0
+更多美食,La Creperie,La Creperie,0,其他,0.0,0.0,0.0
+更多美食,Coffe Company,Coffe Company,0,其他,0.0,0.0,0.0
+更多美食,RESTOBIERES,RESTOBIERES,0,其他,0.0,0.0,0.0
+更多美食,Den Teepot,Den Teepot,0,其他,0.0,0.0,0.0
+更多美食,Le briefing,Le briefing,0,,0.0,0.0,0.0
+更多美食,L' Estragon,L' Estragon,0,,0.0,0.0,0.0
+更多美食,Il Carpaccio,Il Carpaccio,0,于克勒,0.0,0.0,0.0
+更多美食,Mawal,Mawal,0,,0.0,0.0,0.0
+更多美食,Black Pearls,Black Pearls,0,其他,0.0,0.0,0.0
+更多美食,Le Pre Vert,Le Pre Vert,0,其他,0.0,0.0,0.0
+更多美食,L'Aristo Bar,L'Aristo Bar,0,其他,0.0,0.0,0.0
+更多美食,Buls Table D'hote,Buls Table D'hote,0,,0.0,0.0,0.0
+更多美食,Lunch Garden,Lunch Garden,0,其他,0.0,0.0,0.0
+更多美食,Le Petit Bouchon,Le Petit Bouchon,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Mediterraneo,Mediterraneo,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,The Staff,The Staff,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Fernande de Bruxelles,Fernande de Bruxelles,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Canne a Sucre,Canne a Sucre,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Maharaja Tandoori,Maharaja Tandoori,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,The Restaurant at the Musical Instruments Museum,The Restaurant at the Musical Instruments Museum,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Restaurant Le Ravenstein,Restaurant Le Ravenstein,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Dimension Latina,Dimension Latina,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le cercle des voyageurs,Le cercle des voyageurs,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Kika,Kika,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Gabbiani reali,Gabbiani reali,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Aux Gaufres de Bruxelles,Aux Gaufres de Bruxelles,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Cafe Le Lombard,Cafe Le Lombard,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Plattesteen,Le Plattesteen,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Pizzeria Napoli,Pizzeria Napoli,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Sakura,Sakura,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Pain Quotidien,Le Pain Quotidien,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Cafe De L'Opera,Cafe De L'Opera,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,L'Huitriere,L'Huitriere,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,John & Rose,John & Rose,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Resto Theatre National,Resto Theatre National,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,O Sole Mio,O Sole Mio,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Rutabaga,Rutabaga,0,,0.0,0.0,0.0
+更多美食,Raconte-moi des salades,Raconte-moi des salades,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,CHATELAINE DU LIBAN,CHATELAINE DU LIBAN,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Pizzicotto,Pizzicotto,0,,0.0,0.0,0.0
+更多美食,Mont Liban,Mont Liban,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,La Regence,La Regence,0,,0.0,0.0,0.0
+更多美食,MacSweeney's,MacSweeney's,0,圣西利斯,0.0,0.0,0.0
+更多美食,.G-EA,.G-EA,0,圣西利斯,0.0,0.0,0.0
+更多美食,Kafka,Kafka,0,其他,0.0,0.0,0.0
+更多美食,Da Vincenzo,Da Vincenzo,0,其他,0.0,0.0,0.0
+更多美食,Park Side Brasserie,Park Side Brasserie,0,其他,0.0,0.0,0.0
+更多美食,Les Tropiques,Les Tropiques,0,其他,0.0,0.0,0.0
+更多美食,Cafe du Vaudeville,Cafe du Vaudeville,0,其他,0.0,0.0,0.0
+更多美食,Les Gens Que J'Aime,Les Gens Que J'Aime,0,其他,0.0,0.0,0.0
+更多美食,La Carretta,La Carretta,0,其他,0.0,0.0,0.0
+更多美食,Archiduc,Archiduc,0,其他,0.0,0.0,0.0
+更多美食,Gullivers Restaurant,Gullivers Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Visconti,Visconti,0,其他,0.0,0.0,0.0
+更多美食,de Voile Rouge,de Voile Rouge,0,其他,0.0,0.0,0.0
+更多美食,Capoue,Capoue,0,,0.0,0.0,0.0
+更多美食,L'Inattendu,L'Inattendu,0,,0.0,0.0,0.0
+更多美食,Shezan,Shezan,0,,0.0,0.0,0.0
+更多美食,Le Rustiques,Le Rustiques,0,,0.0,0.0,0.0
+更多美食,Le Comptoir d'Antoine,Le Comptoir d'Antoine,0,,0.0,0.0,0.0
+更多美食,COSI COM E,COSI COM E,0,,0.0,0.0,0.0
+更多美食,Friture Charles,Friture Charles,0,,0.0,0.0,0.0
+更多美食,Blue Chocolate,Blue Chocolate,0,,0.0,0.0,0.0
+更多美食,La mezzanina,La mezzanina,0,于克勒,0.0,0.0,0.0
+更多美食,Vini & Cucina,Vini & Cucina,0,于克勒,0.0,0.0,0.0
+更多美食,La Luna Di Venezia,La Luna Di Venezia,0,其他,0.0,0.0,0.0
+更多美食,Le comptoir du midi,Le comptoir du midi,0,其他,0.0,0.0,0.0
+更多美食,Pin Pon,Pin Pon,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Copenhagen Tavern,Copenhagen Tavern,0,,0.0,0.0,0.0
+更多美食,Beer Factory,Beer Factory,0,,0.0,0.0,0.0
+更多美食,Ralph's Bar,Ralph's Bar,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Cap,Le Cap,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,La Moon,La Moon,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Biberium Brussels,Biberium Brussels,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Foodsquare,Foodsquare,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,La Vieille Porte,La Vieille Porte,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,L'Arlequin,L'Arlequin,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Funambule,Le Funambule,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,La Canebiere,La Canebiere,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,La Bonne du Cure,La Bonne du Cure,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Food Factory,Food Factory,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Le Baobab,Le Baobab,0,,0.0,0.0,0.0
+更多美食,Pizza Hut,Pizza Hut,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,ER PU.RE By Vincent Vervisch,ER PU.RE By Vincent Vervisch,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Washington Bagels Store,Washington Bagels Store,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Resto . Bar,Resto . Bar,0,埃尔赛讷,0.0,0.0,0.0
+更多美食,Scirocco,Scirocco,0,,0.0,0.0,0.0
+更多美食,Le Varietes,Le Varietes,0,,0.0,0.0,0.0
+更多美食,Le Pelisson,Le Pelisson,0,圣西利斯,0.0,0.0,0.0
+更多美食,'T Lunch,'T Lunch,0,其他,0.0,0.0,0.0
+更多美食,The Magic Rubens Brasserie,The Magic Rubens Brasserie,0,其他,0.0,0.0,0.0
+更多美食,Le pain quotidien - cimetiere d'Ixelles,Le pain quotidien - cimetiere d'Ixelles,0,其他,0.0,0.0,0.0
+更多美食,Hotel Matignon Restaurant,Hotel Matignon Restaurant,0,其他,0.0,0.0,0.0
+更多美食,La Moule Provencale,La Moule Provencale,0,其他,0.0,0.0,0.0
+更多美食,Les Brasseurs de la Grande Place,Les Brasseurs de la Grande Place,0,其他,0.0,0.0,0.0
+更多美食,La Moule Sacree,La Moule Sacree,0,其他,0.0,0.0,0.0
+更多美食,La Bergerie,La Bergerie,0,其他,0.0,0.0,0.0
+更多美食,Le Falstaff,Le Falstaff,0,其他,0.0,0.0,0.0
+更多美食,Nuits-Saint-Georges,Nuits-Saint-Georges,0,其他,0.0,0.0,0.0
+更多美食,Le Greco,Le Greco,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Da Marcello,Ristorante Da Marcello,0,其他,0.0,0.0,0.0
+更多美食,Cicciobello,Cicciobello,0,,0.0,0.0,0.0
+更多美食,l'Ancien Bruxelles,l'Ancien Bruxelles,0,其他,0.0,0.0,0.0
+更多美食,The Open,The Open,0,,0.0,0.0,0.0
+更多美食,La Terrasse,La Terrasse,0,,0.0,0.0,0.0
+更多美食,La Ferme à Baba,La Ferme à Baba,0,,0.0,0.0,0.0
+更多美食,Mei Wei Cheng,Mei Wei Cheng,0,,0.0,0.0,0.0
+更多美食,Celestine,Celestine,0,,0.0,0.0,0.0
+更多美食,Schievelavabo,Schievelavabo,0,,0.0,0.0,0.0
+更多美食,Le Chevalier,Le Chevalier,0,,0.0,0.0,0.0
+更多美食,Jeux d'Hiver,Jeux d'Hiver,0,于克勒,0.0,0.0,0.0
+更多美食,Colmar Woluwe,Colmar Woluwe,0,,0.0,0.0,0.0
+更多美食,bazaar,bazaar,0,布鲁塞尔市中心,0.0,0.0,0.0
+更多美食,Paca & Tola,Paca & Tola,0,其他,0.0,0.0,0.0
+更多美食,IL Refugio,IL Refugio,0,其他,0.0,0.0,0.0

@@ -1,0 +1,700 @@
+意大利菜,Zizzi - Cambridge Bene't Street,Zizzi - Cambridge Bene't Street,0,剑桥其他,7.9,8.5,7.9
+意大利菜,Zizzi - Cambridge,Zizzi - Cambridge,0,剑桥其他,8.4,8.4,7.5
+意大利菜,Cafe Milano,Cafe Milano,0,剑桥其他,7.4,7.4,7.4
+意大利菜,De Luca Cucina & Bar,De Luca Cucina & Bar,0,剑桥其他,8.4,8.4,8.4
+意大利菜,Maypole Public House,Maypole Public House,0,剑桥其他,6.7,7.5,6.7
+意大利菜,Caffe Sicilia,Caffe Sicilia,0,剑桥其他,7.4,6.7,7.4
+意大利菜,Clowns Cafe,Clowns Cafe,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Giuliano's,Giuliano's,0,,0.0,0.0,0.0
+意大利菜,Mattoni Italian Restaurant,Mattoni Italian Restaurant,0,,0.0,0.0,0.0
+意大利菜,Aromi,Aromi,0,,0.0,0.0,0.0
+意大利菜,zizi's,zizi's,0,剑桥其他,0.0,0.0,0.0
+意大利菜,The Red Bull,The Red Bull,0,剑桥其他,0.0,0.0,0.0
+意大利菜,La Margherita,La Margherita,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Fratelli Tavola Calda,Fratelli Tavola Calda,0,剑桥其他,0.0,0.0,0.0
+意大利菜,The Geographer,The Geographer,0,,0.0,0.0,0.0
+意大利菜,Stazioni,Stazioni,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Bella Italia - Cambridge Watermill,Bella Italia - Cambridge Watermill,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Strada - Cambridge,Strada - Cambridge,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Vesuvio,Vesuvio,0,,0.0,0.0,0.0
+意大利菜,La Cucina,La Cucina,0,,0.0,0.0,0.0
+意大利菜,Mamma Mia,Mamma Mia,0,,0.0,0.0,0.0
+意大利菜,Bella Italia - Cambridge Leisure Park,Bella Italia - Cambridge Leisure Park,0,Brookfields Hospital Area,0.0,0.0,0.0
+意大利菜,Fontenella,Fontenella,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Limoncello Delicatessen,Limoncello Delicatessen,0,Brookfields Hospital Area,0.0,0.0,0.0
+意大利菜,Ristorante Il Piccolo Mondo,Ristorante Il Piccolo Mondo,0,,0.0,0.0,0.0
+意大利菜,La Pergola,La Pergola,0,,0.0,0.0,0.0
+意大利菜,Don Pasquale,Don Pasquale,0,剑桥其他,0.0,0.0,0.0
+意大利菜,La Mimosa,La Mimosa,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Bella Italia - Cambridge Grafton Centre,Bella Italia - Cambridge Grafton Centre,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Pizza Hut,Pizza Hut,0,Brookfields Hospital Area,0.0,0.0,0.0
+意大利菜,O&F Olio e Farina,O&F Olio e Farina,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Stazione Restaurant & Coffee bar,Stazione Restaurant & Coffee bar,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Mama Mia,Mama Mia,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Tonino's,Tonino's,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Bellanapoli Cafe,Bellanapoli Cafe,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Prezzo - Cambridge,Prezzo - Cambridge,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Carluccios - Cambridge,Carluccios - Cambridge,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Costa Coffee,Costa Coffee,0,,0.0,0.0,0.0
+意大利菜,Prezzo - Ely,Prezzo - Ely,0,,0.0,0.0,0.0
+意大利菜,Sergio's,Sergio's,0,,0.0,0.0,0.0
+意大利菜,Wildwood Restaurant,Wildwood Restaurant,0,,0.0,0.0,0.0
+意大利菜,Prezzo - Peterborough,Prezzo - Peterborough,0,,0.0,0.0,0.0
+意大利菜,Fratelli Ristorante - Castor,Fratelli Ristorante - Castor,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Topo Gigio's Restaurant,Topo Gigio's Restaurant,0,,0.0,0.0,0.0
+意大利菜,Amore,Amore,0,,0.0,0.0,0.0
+意大利菜,Mattoni,Mattoni,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Carluccios,Carluccios,0,剑桥其他,0.0,0.0,0.0
+意大利菜,The Anchor,The Anchor,0,,0.0,0.0,0.0
+意大利菜,Carluccio's,Carluccio's,0,,0.0,0.0,0.0
+意大利菜,Riva,Riva,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Little Venice,Little Venice,0,,0.0,0.0,0.0
+意大利菜,The Haymakers,The Haymakers,0,St. Andrews Hall Area,0.0,0.0,0.0
+意大利菜,"Bella Pasta, Huntingdon","Bella Pasta, Huntingdon",0,,0.0,0.0,0.0
+意大利菜,Antonino's,Antonino's,0,,0.0,0.0,0.0
+意大利菜,M&B American Italian Restaurant,M&B American Italian Restaurant,0,,0.0,0.0,0.0
+意大利菜,Frankie & Bennie's,Frankie & Bennie's,0,剑桥其他,0.0,0.0,0.0
+意大利菜,Frankie and Benny's - Hampton,Frankie and Benny's - Hampton,0,,0.0,0.0,0.0
+意大利菜,Carluccio's,Carluccio's,0,,0.0,0.0,0.0
+法国菜,La Maison Du Steak,La Maison Du Steak,0,University Area,7.4,7.4,7.4
+法国菜,Cote Brasserie - Cambridge,Cote Brasserie - Cambridge,0,剑桥其他,0.0,0.0,0.0
+法国菜,Brasserie Gerard - Cambridge,Brasserie Gerard - Cambridge,0,剑桥其他,0.0,0.0,0.0
+法国菜,Fitzbillies,Fitzbillies,0,剑桥其他,0.0,0.0,0.0
+法国菜,Le Gros Franck,Le Gros Franck,0,University Area,0.0,0.0,0.0
+法国菜,Carpenter's Arms,Carpenter's Arms,0,,0.0,0.0,0.0
+法国菜,Lp4 peterborough,Lp4 peterborough,0,剑桥其他,0.0,0.0,0.0
+法国菜,Christine Patisserie,Christine Patisserie,0,剑桥其他,0.0,0.0,0.0
+法国菜,Cafe Rouge Cambridge,Cafe Rouge Cambridge,0,剑桥其他,0.0,0.0,0.0
+墨西哥菜,Las Iguanas - Cambridge,Las Iguanas - Cambridge,0,剑桥其他,0.0,0.0,0.0
+墨西哥菜,Nanna Mexico,Nanna Mexico,0,剑桥其他,0.0,0.0,0.0
+墨西哥菜,The Loco,The Loco,0,Cambridge University Cric,0.0,0.0,0.0
+墨西哥菜,Chimichanga Peterborough,Chimichanga Peterborough,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Cau,Cau,0,剑桥其他,8.0,8.0,7.7
+其他西餐,Bill's Restaurant,Bill's Restaurant,0,剑桥其他,7.9,8.5,8.5
+其他西餐,The Eagle,The Eagle,0,剑桥其他,7.7,7.5,7.4
+其他西餐,Zizzi - Cambridge Bene't Street,Zizzi - Cambridge Bene't Street,0,剑桥其他,7.9,8.5,7.9
+其他西餐,The Mitre,The Mitre,0,剑桥其他,7.5,7.5,6.8
+其他西餐,Midsummer House,Midsummer House,0,St. Andrews Hall Area,7.5,7.5,7.5
+其他西餐,River Bar Steakhouse & Grill,River Bar Steakhouse & Grill,0,剑桥其他,8.4,8.4,8.4
+其他西餐,Nando's - Cambridge Leisure Park,Nando's - Cambridge Leisure Park,0,Brookfields Hospital Area,7.4,7.4,7.4
+其他西餐,Pint Shop,Pint Shop,0,剑桥其他,7.7,7.2,7.2
+其他西餐,Byron Cambridge,Byron Cambridge,0,剑桥其他,7.5,7.5,7.5
+其他西餐,De Luca Cucina & Bar,De Luca Cucina & Bar,0,剑桥其他,8.4,8.4,8.4
+其他西餐,Alimentum,Alimentum,0,Brookfields Hospital Area,7.4,8.2,8.2
+其他西餐,The Bath House,The Bath House,0,剑桥其他,7.3,7.3,7.3
+其他西餐,The Plough Coton,The Plough Coton,0,,6.7,6.7,6.7
+其他西餐,The Cambridge Chop House,The Cambridge Chop House,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Coast Fish & Chip Restaurant,Coast Fish & Chip Restaurant,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Oak Bistro,The Oak Bistro,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Regal,The Regal,0,剑桥其他,0.0,0.0,0.0
+其他西餐,St John's Chop House,St John's Chop House,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Las Iguanas - Cambridge,Las Iguanas - Cambridge,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Efes Restaurant,Efes Restaurant,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Nando's,Nando's,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Riverside Brasserie at Hilton Doubletree Cambridge,Riverside Brasserie at Hilton Doubletree Cambridge,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Aunties Tea Shop,Aunties Tea Shop,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Cotto,Cotto,0,Cambridge University Cric,0.0,0.0,0.0
+其他西餐,Bedouin,Bedouin,0,Cambridge University Cric,0.0,0.0,0.0
+其他西餐,The Olive Grove,The Olive Grove,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Red Bull,The Red Bull,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Sea Tree,The Sea Tree,0,Brookfields Hospital Area,0.0,0.0,0.0
+其他西餐,Restaurant 22,Restaurant 22,0,剑桥其他,0.0,0.0,0.0
+其他西餐,CB2 Bistro,CB2 Bistro,0,Yorkstreet Area,0.0,0.0,0.0
+其他西餐,The Railway Vue Pub,The Railway Vue Pub,0,Brookfields Hospital Area,0.0,0.0,0.0
+其他西餐,John Lewis Brasserie,John Lewis Brasserie,0,University Area,0.0,0.0,0.0
+其他西餐,Fitzbillies,Fitzbillies,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Alma Public House,The Alma Public House,0,University Area,0.0,0.0,0.0
+其他西餐,Browns Restaurant & Bar,Browns Restaurant & Bar,0,剑桥其他,0.0,0.0,0.0
+其他西餐,La Tasca - Cambridge,La Tasca - Cambridge,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Old Bridge Hotel Restaurant,Old Bridge Hotel Restaurant,0,,0.0,0.0,0.0
+其他西餐,Number 10 Tea Shop,Number 10 Tea Shop,0,,0.0,0.0,0.0
+其他西餐,The Chequers Public House,The Chequers Public House,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Alex's Cafe Restaurant,Alex's Cafe Restaurant,0,,0.0,0.0,0.0
+其他西餐,Hemingford Garden Room,Hemingford Garden Room,0,,0.0,0.0,0.0
+其他西餐,Little London Inn,Little London Inn,0,,0.0,0.0,0.0
+其他西餐,The Cherry Tree,The Cherry Tree,0,,0.0,0.0,0.0
+其他西餐,White Horse,White Horse,0,,0.0,0.0,0.0
+其他西餐,The Old Red Lion Inn Restaurant,The Old Red Lion Inn Restaurant,0,,0.0,0.0,0.0
+其他西餐,Dog in a Doublet,Dog in a Doublet,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Dog in a doublett,Dog in a doublett,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Anchor Inn at Sutton Gault,The Anchor Inn at Sutton Gault,0,,0.0,0.0,0.0
+其他西餐,Baron Of Beef,Baron Of Beef,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Milton Arms,Milton Arms,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Pinnies,Pinnies,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Swan Restaurant,The Swan Restaurant,0,,0.0,0.0,0.0
+其他西餐,The Old Copper Kettle,The Old Copper Kettle,0,,0.0,0.0,0.0
+其他西餐,The George & Dragon,The George & Dragon,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Bell,The Bell,0,,0.0,0.0,0.0
+其他西餐,Friday Bridge Fish Bar,Friday Bridge Fish Bar,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Back in Time,Back in Time,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Backstreet Bistro,Backstreet Bistro,0,Cambridge University Cric,0.0,0.0,0.0
+其他西餐,Restaurant at The Crown & Punchbowl,Restaurant at The Crown & Punchbowl,0,Cambridge Airport Area,0.0,0.0,0.0
+其他西餐,Lalbagh Bangladeshi & Indian Diner,Lalbagh Bangladeshi & Indian Diner,0,,0.0,0.0,0.0
+其他西餐,The Riverside Restaurant,The Riverside Restaurant,0,剑桥其他,0.0,0.0,0.0
+其他西餐,R17,R17,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Varsity,Varsity,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Free Press,The Free Press,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Clarendon Arms,Clarendon Arms,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Baroosh - Cambridge,Baroosh - Cambridge,0,剑桥其他,0.0,0.0,0.0
+其他西餐,d'Arry's Cookhouse and Wine Shop,d'Arry's Cookhouse and Wine Shop,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Blue Lion,The Blue Lion,0,,0.0,0.0,0.0
+其他西餐,The Brunswick,The Brunswick,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Arches Coffee Shop,Arches Coffee Shop,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Punter,The Punter,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Pipasha Restaurant,Pipasha Restaurant,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Polonia Club,Polonia Club,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Meghna,Meghna,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Graffiti,Graffiti,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Old Crown,The Old Crown,0,,0.0,0.0,0.0
+其他西餐,Norfolk Street Bakery,Norfolk Street Bakery,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Nord,Nord,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Woolpack,The Woolpack,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Golden Hind,Golden Hind,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Sainsburys Cafe Cambridge,Sainsburys Cafe Cambridge,0,Cherry Hinton,0.0,0.0,0.0
+其他西餐,Waitrose Cafe Cambridge England,Waitrose Cafe Cambridge England,0,,0.0,0.0,0.0
+其他西餐,Cornish Pasty Co,Cornish Pasty Co,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Black Horse P.H,Black Horse P.H,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Bull hotel restaurant peterborough,Bull hotel restaurant peterborough,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Devonshire Arms,The Devonshire Arms,0,Cambridge University Cric,0.0,0.0,0.0
+其他西餐,Chutney Joe's Cambridge,Chutney Joe's Cambridge,0,,0.0,0.0,0.0
+其他西餐,Robin Hood,Robin Hood,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Hotel du Vin & Bistro,Hotel du Vin & Bistro,0,剑桥其他,0.0,0.0,0.0
+其他西餐,GBK (Gourmet Burger Kitchen),GBK (Gourmet Burger Kitchen),0,剑桥其他,0.0,0.0,0.0
+其他西餐,"Trockel, Ulmann & Freunde","Trockel, Ulmann & Freunde",0,剑桥其他,0.0,0.0,0.0
+其他西餐,Fair Shares Cafe,Fair Shares Cafe,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Pret a Manger,Pret a Manger,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Fort St George,Fort St George,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Tivoli,The Tivoli,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Three Horseshoes,The Three Horseshoes,0,,0.0,0.0,0.0
+其他西餐,George and Dragon,George and Dragon,0,,0.0,0.0,0.0
+其他西餐,The White Horse,The White Horse,0,,0.0,0.0,0.0
+其他西餐,Hub's Place,Hub's Place,0,,0.0,0.0,0.0
+其他西餐,The Stage,The Stage,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The New Inn,The New Inn,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Green Man,The Green Man,0,,0.0,0.0,0.0
+其他西餐,Docker's Fish&Chips,Docker's Fish&Chips,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Red Lion,Red Lion,0,,0.0,0.0,0.0
+其他西餐,Nando's,Nando's,0,,0.0,0.0,0.0
+其他西餐,The Vine,The Vine,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Streetcafe,Streetcafe,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Barley Mow,Barley Mow,0,,0.0,0.0,0.0
+其他西餐,The Racehorse at Catworth,The Racehorse at Catworth,0,剑桥其他,0.0,0.0,0.0
+其他西餐,"Five Bells, Burwell","Five Bells, Burwell",0,,0.0,0.0,0.0
+其他西餐,The Queens Head,The Queens Head,0,,0.0,0.0,0.0
+其他西餐,Terry's Diner,Terry's Diner,0,,0.0,0.0,0.0
+其他西餐,Georges,Georges,0,剑桥其他,0.0,0.0,0.0
+其他西餐,High Flyer,High Flyer,0,,0.0,0.0,0.0
+其他西餐,The Village Inn,The Village Inn,0,,0.0,0.0,0.0
+其他西餐,The Sibson Inn Hotel Restaurant,The Sibson Inn Hotel Restaurant,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Montagu Arms,The Montagu Arms,0,,0.0,0.0,0.0
+其他西餐,Brackenbury's Fine Art Cafe,Brackenbury's Fine Art Cafe,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Waterton Arms,Waterton Arms,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Black Horse,The Black Horse,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Snooty Tavern,The Snooty Tavern,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Mad Cat Inn,The Mad Cat Inn,0,,0.0,0.0,0.0
+其他西餐,The Coach House,The Coach House,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Brooke's @ The Huntingdon Marriott Hotel,Brooke's @ The Huntingdon Marriott Hotel,0,,0.0,0.0,0.0
+其他西餐,Sundays,Sundays,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Sportsman,The Sportsman,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Tydd Gote Inn,Tydd Gote Inn,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Woolpack Inn,The Woolpack Inn,0,,0.0,0.0,0.0
+其他西餐,The Millstone Inn,The Millstone Inn,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Red Lion,Red Lion,0,剑桥其他,0.0,0.0,0.0
+其他西餐,THE Plough,THE Plough,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Fenman,The Fenman,0,,0.0,0.0,0.0
+其他西餐,The Old Riverview Inn,The Old Riverview Inn,0,,0.0,0.0,0.0
+其他西餐,The Paper Mills Inn,The Paper Mills Inn,0,,0.0,0.0,0.0
+其他西餐,The Emperor,The Emperor,0,Cambridge University Cric,0.0,0.0,0.0
+其他西餐,The Salisbury Arms,The Salisbury Arms,0,Cambridge University Cric,0.0,0.0,0.0
+其他西餐,The Green Dragon,The Green Dragon,0,St. Andrews Hall Area,0.0,0.0,0.0
+其他西餐,The Brook,The Brook,0,Brookfields Hospital Area,0.0,0.0,0.0
+其他西餐,Otto Cafe - Mill Road,Otto Cafe - Mill Road,0,Brookfields Hospital Area,0.0,0.0,0.0
+其他西餐,The Empress,The Empress,0,Brookfields Hospital Area,0.0,0.0,0.0
+其他西餐,The Granta,The Granta,0,University Area,0.0,0.0,0.0
+其他西餐,West Cornwall Pasty Company,West Cornwall Pasty Company,0,Cambridge Airport Area,0.0,0.0,0.0
+其他西餐,Duke of Cambridge,Duke of Cambridge,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Bakers Arms,The Bakers Arms,0,,0.0,0.0,0.0
+其他西餐,Maghreb,Maghreb,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Tito Kiko,Tito Kiko,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Otto Cafe - Regent,Otto Cafe - Regent,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Eraina,Eraina,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Cafe @ the Library,Cafe @ the Library,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Snug Bar Grafton,The Snug Bar Grafton,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Gardenia,The Gardenia,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Ta Bouche Restaurant,Ta Bouche Restaurant,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Petrou Brothers,Petrou Brothers,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Jolly Scholar,The Jolly Scholar,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The County Arms,The County Arms,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Travellers Rest,Travellers Rest,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Crown Inn,Crown Inn,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Hungry Horse,Hungry Horse,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Brewers Fayre Hampton,Brewers Fayre Hampton,0,,0.0,0.0,0.0
+其他西餐,Crossroads Hotel & Restaurant,Crossroads Hotel & Restaurant,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Frankie and Benny's,Frankie and Benny's,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Brewers Fayre Highwayman,Brewers Fayre Highwayman,0,,0.0,0.0,0.0
+其他西餐,Harvester,Harvester,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Queen Adelaide Pub & Restaurant,The Queen Adelaide Pub & Restaurant,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Case,The Case,0,,0.0,0.0,0.0
+其他西餐,Marsh Harrier,Marsh Harrier,0,,0.0,0.0,0.0
+其他西餐,The Maltings,The Maltings,0,,0.0,0.0,0.0
+其他西餐,Three Horseshoes Inn,Three Horseshoes Inn,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Med,The Med,0,Cherry Hinton,0.0,0.0,0.0
+其他西餐,Castle Public House,Castle Public House,0,剑桥其他,0.0,0.0,0.0
+其他西餐,The Vaults,The Vaults,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Little Chef,Little Chef,0,,0.0,0.0,0.0
+其他西餐,Yates,Yates,0,剑桥其他,0.0,0.0,0.0
+其他西餐,Pausa Caffe,Pausa Caffe,0,剑桥其他,0.0,0.0,0.0
+中餐,天天美食,天天美食,0,剑桥其他,8.1,8.0,8.0
+中餐,上海人家Shanghai Family,上海人家Shanghai Family,0,St. Andrews Hall Area,7.1,6.6,7.3
+中餐,Lucky Star Buffet Restaurant,Lucky Star Buffet Restaurant,0,Brookfields Hospital Area,7.7,7.2,7.2
+中餐,Charles Chan's,Charles Chan's,0,剑桥其他,7.5,7.5,7.5
+中餐,yimwah express,yimwah express,0,剑桥其他,7.5,6.3,6.6
+中餐,Hakka Seafood Chinese Restaurant,Hakka Seafood Chinese Restaurant,0,,8.1,8.1,7.4
+中餐,Sesame Restaurant & Bar,Sesame Restaurant & Bar,0,Cambridge University Cric,7.4,6.7,6.7
+中餐,China City,China City,0,剑桥其他,7.6,7.6,7.6
+中餐,Lan Hong House,Lan Hong House,0,剑桥其他,7.4,6.7,7.4
+中餐,Orchid Restaurant,Orchid Restaurant,0,剑桥其他,6.7,6.7,6.7
+中餐,Spring Chinese & Cantonese Restaurant,Spring Chinese & Cantonese Restaurant,0,Brookfields Hospital Area,7.4,7.4,7.4
+中餐,Wok N Grill,Wok N Grill,0,剑桥其他,0.0,0.0,0.0
+中餐,Jinling Noodle Bar,Jinling Noodle Bar,0,剑桥其他,0.0,0.0,0.0
+中餐,Zhonghua Traditional Snacks,Zhonghua Traditional Snacks,0,Yorkstreet Area,0.0,0.0,0.0
+中餐,Thanh Binh,Thanh Binh,0,剑桥其他,0.0,0.0,0.0
+中餐,Long Yuen Court,Long Yuen Court,0,,0.0,0.0,0.0
+中餐,The New Diamond,The New Diamond,0,,0.0,0.0,0.0
+中餐,Peacocks Tearoom,Peacocks Tearoom,0,,0.0,0.0,0.0
+中餐,Imperial Bento,Imperial Bento,0,剑桥其他,0.0,0.0,0.0
+中餐,The Black Bull pub,The Black Bull pub,0,,0.0,0.0,0.0
+中餐,Peking Restaurant,Peking Restaurant,0,University Area,0.0,0.0,0.0
+中餐,Phoenix,Phoenix,0,,0.0,0.0,0.0
+中餐,Indigo cafe,Indigo cafe,0,剑桥其他,0.0,0.0,0.0
+中餐,"The Orchard Tea Garden, Granchester","The Orchard Tea Garden, Granchester",0,,0.0,0.0,0.0
+中餐,Hotpot,Hotpot,0,剑桥其他,0.0,0.0,0.0
+中餐,FJ Cakes & Bakes,FJ Cakes & Bakes,0,,0.0,0.0,0.0
+中餐,Hong Kong Kitchen,Hong Kong Kitchen,0,剑桥其他,0.0,0.0,0.0
+中餐,China Inn,China Inn,0,,0.0,0.0,0.0
+中餐,Beijing Rendezvous,Beijing Rendezvous,0,,0.0,0.0,0.0
+中餐,The Golden Pheasant,The Golden Pheasant,0,Cambridge Airport Area,0.0,0.0,0.0
+中餐,Royal Palace,Royal Palace,0,,0.0,0.0,0.0
+中餐,John's Brother,John's Brother,0,剑桥其他,0.0,0.0,0.0
+中餐,Ocean dragon,Ocean dragon,0,剑桥其他,0.0,0.0,0.0
+中餐,Forum House,Forum House,0,,0.0,0.0,0.0
+中餐,Tai Yuen,Tai Yuen,0,,0.0,0.0,0.0
+中餐,Welcome Chinese Restaurant,Welcome Chinese Restaurant,0,,0.0,0.0,0.0
+中餐,Royal China,Royal China,0,剑桥其他,0.0,0.0,0.0
+中餐,Oriental Garden,Oriental Garden,0,,0.0,0.0,0.0
+中餐,Chinatown Restaurant,Chinatown Restaurant,0,,0.0,0.0,0.0
+中餐,Flaming Wok,Flaming Wok,0,,0.0,0.0,0.0
+中餐,The Grain Barge,The Grain Barge,0,,0.0,0.0,0.0
+中餐,Royal Exchange Tea Parlour,Royal Exchange Tea Parlour,0,,0.0,0.0,0.0
+中餐,Gourmet Plaza,Gourmet Plaza,0,,0.0,0.0,0.0
+中餐,Hong Kong Gardens,Hong Kong Gardens,0,,0.0,0.0,0.0
+中餐,兰香楼,兰香楼,0,Cambridge University Cric,0.0,0.0,0.0
+中餐,Wok This Way,Wok This Way,0,,0.0,0.0,0.0
+日韩料理,Bibimbap House,Bibimbap House,0,Cambridge University Cric,7.5,7.3,7.9
+日韩料理,Teri-Aki,Teri-Aki,0,剑桥其他,6.6,7.0,7.9
+日韩料理,YO! Sushi - Cambridge,YO! Sushi - Cambridge,0,剑桥其他,6.7,7.4,6.7
+日韩料理,Little Seoul,Little Seoul,0,剑桥其他,7.4,6.7,7.4
+日韩料理,Wagamama,Wagamama,0,University Area,6.9,6.9,6.9
+日韩料理,J Restaurant,J Restaurant,0,剑桥其他,0.0,0.0,0.0
+日韩料理,Ichiro Ramen,Ichiro Ramen,0,剑桥其他,0.0,0.0,0.0
+日韩料理,U-Sushi Cambridge,U-Sushi Cambridge,0,剑桥其他,0.0,0.0,0.0
+日韩料理,Ohayo Sushi,Ohayo Sushi,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多亚洲菜,Mai Thai Restaurant at Hobbs Pavillion,Mai Thai Restaurant at Hobbs Pavillion,0,剑桥其他,7.2,7.2,7.2
+更多亚洲菜,Orchid Restaurant,Orchid Restaurant,0,剑桥其他,6.7,6.7,6.7
+更多亚洲菜,Dojo,Dojo,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Thanh Binh,Thanh Binh,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Curry Queen,Curry Queen,0,Cambridge University Cric,0.0,0.0,0.0
+更多亚洲菜,Saffron Brasserie,Saffron Brasserie,0,Cambridge University Cric,0.0,0.0,0.0
+更多亚洲菜,Sala Thong Restaurant,Sala Thong Restaurant,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Efes Restaurant,Efes Restaurant,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Shilpa,Shilpa,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Shanti,Shanti,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Jannah Indian Restaurant,Jannah Indian Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Aunties,Aunties,0,,0.0,0.0,0.0
+更多亚洲菜,Raja Indian Cuisine,Raja Indian Cuisine,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Merhaba Restaurant,Merhaba Restaurant,0,Yorkstreet Area,0.0,0.0,0.0
+更多亚洲菜,Ibrahimi Buffet Restaurant,Ibrahimi Buffet Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Agora @ The Copper Kettle,Agora @ The Copper Kettle,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Bollywood Spice,Bollywood Spice,0,University Area,0.0,0.0,0.0
+更多亚洲菜,Mo' Pho: Far East Street Food,Mo' Pho: Far East Street Food,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Maharajah,Maharajah,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Zara,Zara,0,,0.0,0.0,0.0
+更多亚洲菜,Moghul Indian Restaurant,Moghul Indian Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Bengal Spice,Bengal Spice,0,,0.0,0.0,0.0
+更多亚洲菜,Cinnamon,Cinnamon,0,,0.0,0.0,0.0
+更多亚洲菜,Planet Spice,Planet Spice,0,,0.0,0.0,0.0
+更多亚洲菜,Spice Lounge,Spice Lounge,0,,0.0,0.0,0.0
+更多亚洲菜,The Spice Bank,The Spice Bank,0,,0.0,0.0,0.0
+更多亚洲菜,Indiaana,Indiaana,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,The Navigator,The Navigator,0,,0.0,0.0,0.0
+更多亚洲菜,The Three Tuns,The Three Tuns,0,,0.0,0.0,0.0
+更多亚洲菜,Shanpan Masala,Shanpan Masala,0,,0.0,0.0,0.0
+更多亚洲菜,PR Massala,PR Massala,0,,0.0,0.0,0.0
+更多亚洲菜,Meze Restaurant and Bar,Meze Restaurant and Bar,0,,0.0,0.0,0.0
+更多亚洲菜,Sawtry Balti House,Sawtry Balti House,0,,0.0,0.0,0.0
+更多亚洲菜,Little India,Little India,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Ali taj soham,Ali taj soham,0,,0.0,0.0,0.0
+更多亚洲菜,Vujon Indian Cuisine,Vujon Indian Cuisine,0,Cherry Hinton,0.0,0.0,0.0
+更多亚洲菜,Ali Baba,Ali Baba,0,Cambridge University Cric,0.0,0.0,0.0
+更多亚洲菜,Spice Lounge,Spice Lounge,0,,0.0,0.0,0.0
+更多亚洲菜,Shah Jahan,Shah Jahan,0,,0.0,0.0,0.0
+更多亚洲菜,Angel Spice Restaurant,Angel Spice Restaurant,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Maharanis of Deeping,Maharanis of Deeping,0,,0.0,0.0,0.0
+更多亚洲菜,Le Spice,Le Spice,0,,0.0,0.0,0.0
+更多亚洲菜,The Draper's Arms,The Draper's Arms,0,,0.0,0.0,0.0
+更多亚洲菜,The Curry House,The Curry House,0,,0.0,0.0,0.0
+更多亚洲菜,Bodrum Restaurant,Bodrum Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Original Thai,Original Thai,0,,0.0,0.0,0.0
+更多亚洲菜,The Banyan Tree,The Banyan Tree,0,,0.0,0.0,0.0
+更多亚洲菜,Taj Tandoori,Taj Tandoori,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多亚洲菜,Bengal Diner,Bengal Diner,0,Yorkstreet Area,0.0,0.0,0.0
+更多亚洲菜,Lalbagh Bangladeshi & Indian Diner,Lalbagh Bangladeshi & Indian Diner,0,,0.0,0.0,0.0
+更多亚洲菜,curry garden,curry garden,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,The First and Last,The First and Last,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Wrestlers Pub,Wrestlers Pub,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Cocum,Cocum,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Pipasha Restaurant,Pipasha Restaurant,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Meghna,Meghna,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Curry Palace,Curry Palace,0,,0.0,0.0,0.0
+更多亚洲菜,Bollywood Spice,Bollywood Spice,0,,0.0,0.0,0.0
+更多亚洲菜,The Cricketers,The Cricketers,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,"Curry King‎, Cambridge","Curry King‎, Cambridge",0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Topkapi,Topkapi,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Cafe Naz,Cafe Naz,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Shabu Shabu,Shabu Shabu,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Ceylon Cinnamon,Ceylon Cinnamon,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,BKK Thai Restarant,BKK Thai Restarant,0,,0.0,0.0,0.0
+更多亚洲菜,The Bombay Brasserie,The Bombay Brasserie,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Indiya Garden,Indiya Garden,0,,0.0,0.0,0.0
+更多亚洲菜,Indiya,Indiya,0,,0.0,0.0,0.0
+更多亚洲菜,Bodrum BBQ,Bodrum BBQ,0,,0.0,0.0,0.0
+更多亚洲菜,East,East,0,,0.0,0.0,0.0
+更多亚洲菜,The 5 Spices,The 5 Spices,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Little India,Little India,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Golden Curry,Golden Curry,0,Cambridge University Cric,0.0,0.0,0.0
+更多亚洲菜,Moza,Moza,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多亚洲菜,Inder's Kitchen,Inder's Kitchen,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多亚洲菜,Chutney Joe's Cambridge,Chutney Joe's Cambridge,0,,0.0,0.0,0.0
+更多亚洲菜,India House,India House,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,The Rice Boat,The Rice Boat,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Golden Spice,Golden Spice,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,The Three Horseshoes,The Three Horseshoes,0,,0.0,0.0,0.0
+更多亚洲菜,Dervish @ Tudor Rose,Dervish @ Tudor Rose,0,,0.0,0.0,0.0
+更多亚洲菜,Royal Spice,Royal Spice,0,,0.0,0.0,0.0
+更多亚洲菜,Cuisine Of Kerala,Cuisine Of Kerala,0,,0.0,0.0,0.0
+更多亚洲菜,Cafe Kitchen,Cafe Kitchen,0,,0.0,0.0,0.0
+更多亚洲菜,Shah Jehan,Shah Jehan,0,,0.0,0.0,0.0
+更多亚洲菜,Kurryz,Kurryz,0,,0.0,0.0,0.0
+更多亚洲菜,Kushiara,Kushiara,0,,0.0,0.0,0.0
+更多亚洲菜,The Three Horshoes,The Three Horshoes,0,,0.0,0.0,0.0
+更多亚洲菜,Nawab Lounge,Nawab Lounge,0,,0.0,0.0,0.0
+更多亚洲菜,Tudor Thai Hotel and Restuarant,Tudor Thai Hotel and Restuarant,0,,0.0,0.0,0.0
+更多亚洲菜,Sylhet,Sylhet,0,,0.0,0.0,0.0
+更多亚洲菜,Indian Ocean,Indian Ocean,0,,0.0,0.0,0.0
+更多亚洲菜,Montaz,Montaz,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Ali Shan Tandoori,Ali Shan Tandoori,0,,0.0,0.0,0.0
+更多亚洲菜,Royal Bengal,Royal Bengal,0,,0.0,0.0,0.0
+更多亚洲菜,Sutton Tandoori,Sutton Tandoori,0,,0.0,0.0,0.0
+更多亚洲菜,Bombay Brasserie,Bombay Brasserie,0,,0.0,0.0,0.0
+更多亚洲菜,Raj Vujon,Raj Vujon,0,,0.0,0.0,0.0
+更多亚洲菜,Bongo Raj Indian Cuisine,Bongo Raj Indian Cuisine,0,,0.0,0.0,0.0
+更多亚洲菜,Maharanis,Maharanis,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,The Chequers,The Chequers,0,,0.0,0.0,0.0
+更多亚洲菜,Linton Tandoori,Linton Tandoori,0,,0.0,0.0,0.0
+更多亚洲菜,The Darjeeling,The Darjeeling,0,,0.0,0.0,0.0
+更多亚洲菜,Mai Thai,Mai Thai,0,,0.0,0.0,0.0
+更多亚洲菜,BKK thai,BKK thai,0,,0.0,0.0,0.0
+更多亚洲菜,The Brewery Tap,The Brewery Tap,0,,0.0,0.0,0.0
+更多亚洲菜,Kaz's Indian & Bangladeshi Restaurant,Kaz's Indian & Bangladeshi Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Yoho,Yoho,0,,0.0,0.0,0.0
+更多亚洲菜,The Banyan Tree (Werrington),The Banyan Tree (Werrington),0,,0.0,0.0,0.0
+更多亚洲菜,Montaz Indian & Bangladeshi Cuisine,Montaz Indian & Bangladeshi Cuisine,0,,0.0,0.0,0.0
+更多亚洲菜,Akbar Tandoori,Akbar Tandoori,0,,0.0,0.0,0.0
+更多亚洲菜,Ali's balti House,Ali's balti House,0,,0.0,0.0,0.0
+更多亚洲菜,Spice World,Spice World,0,,0.0,0.0,0.0
+更多亚洲菜,Little India,Little India,0,,0.0,0.0,0.0
+更多亚洲菜,East Oriental Restaurant,East Oriental Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Spice cottage,Spice cottage,0,,0.0,0.0,0.0
+更多亚洲菜,Spiceland,Spiceland,0,,0.0,0.0,0.0
+更多亚洲菜,Spice Land,Spice Land,0,,0.0,0.0,0.0
+更多亚洲菜,Meze,Meze,0,,0.0,0.0,0.0
+更多亚洲菜,Bangkok City,Bangkok City,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多亚洲菜,Panahar,Panahar,0,Yorkstreet Area,0.0,0.0,0.0
+更多亚洲菜,The Gandhi,The Gandhi,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Anatolia's,Anatolia's,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Tandoori Palace,Tandoori Palace,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Dawatt,Dawatt,0,,0.0,0.0,0.0
+更多亚洲菜,Classic Spice,Classic Spice,0,剑桥其他,0.0,0.0,0.0
+更多亚洲菜,Wok Eatery,Wok Eatery,0,,0.0,0.0,0.0
+更多亚洲菜,Tulip Brasserie and Restaurant,Tulip Brasserie and Restaurant,0,Cambridge University Cric,0.0,0.0,0.0
+更多亚洲菜,Masa,Masa,0,,0.0,0.0,0.0
+更多亚洲菜,Shalimar Gardens,Shalimar Gardens,0,,0.0,0.0,0.0
+更多亚洲菜,Zaika Restaurent,Zaika Restaurent,0,,0.0,0.0,0.0
+更多亚洲菜,Kashmir Balti House,Kashmir Balti House,0,,0.0,0.0,0.0
+快餐简餐,Nado's,Nado's,0,,7.7,7.7,7.7
+快餐简餐,Hongkong Fusion,Hongkong Fusion,0,St. Andrews Hall Area,7.0,7.0,6.9
+快餐简餐,Dojo,Dojo,0,剑桥其他,0.0,0.0,0.0
+快餐简餐,Coast Fish & Chip Restaurant,Coast Fish & Chip Restaurant,0,剑桥其他,0.0,0.0,0.0
+快餐简餐,Riverside Cafe Fish & Chips,Riverside Cafe Fish & Chips,0,,0.0,0.0,0.0
+快餐简餐,Sams Kebab,Sams Kebab,0,,0.0,0.0,0.0
+快餐简餐,Rockers Steak House,Rockers Steak House,0,Cambridge University Cric,0.0,0.0,0.0
+快餐简餐,Rhode Island,Rhode Island,0,Cherry Hinton,0.0,0.0,0.0
+快餐简餐,The Geographer,The Geographer,0,,0.0,0.0,0.0
+快餐简餐,Barney's Plaice,Barney's Plaice,0,剑桥其他,0.0,0.0,0.0
+快餐简餐,Moonlight Grill,Moonlight Grill,0,剑桥其他,0.0,0.0,0.0
+快餐简餐,The Brunswick,The Brunswick,0,剑桥其他,0.0,0.0,0.0
+快餐简餐,The Carpenter's Arms,The Carpenter's Arms,0,剑桥其他,0.0,0.0,0.0
+快餐简餐,Que Rico Tapas,Que Rico Tapas,0,剑桥其他,0.0,0.0,0.0
+快餐简餐,The George Hotel,The George Hotel,0,,0.0,0.0,0.0
+快餐简餐,Hodson's Fish Bar,Hodson's Fish Bar,0,,0.0,0.0,0.0
+快餐简餐,Delish,Delish,0,,0.0,0.0,0.0
+快餐简餐,papa luigi,papa luigi,0,,0.0,0.0,0.0
+快餐简餐,Camcattle,Camcattle,0,剑桥其他,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,,0.0,0.0,0.0
+快餐简餐,Byrone - Proper Hamburgers,Byrone - Proper Hamburgers,0,剑桥其他,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,,0.0,0.0,0.0
+海鲜,Hakka Seafood Chinese Restaurant,Hakka Seafood Chinese Restaurant,0,,8.1,8.1,7.4
+海鲜,LOCH FYNE,LOCH FYNE,0,,7.6,7.6,7.6
+海鲜,The Sea Tree,The Sea Tree,0,Brookfields Hospital Area,0.0,0.0,0.0
+海鲜,Cafe Naz,Cafe Naz,0,剑桥其他,0.0,0.0,0.0
+海鲜,The Boundry,The Boundry,0,剑桥其他,0.0,0.0,0.0
+烧烤,Cau,Cau,0,剑桥其他,8.0,8.0,7.7
+烧烤,The Olive Grove,The Olive Grove,0,剑桥其他,0.0,0.0,0.0
+烧烤,The Saddle,The Saddle,0,,0.0,0.0,0.0
+烧烤,The Crown Lodge Hotel Restaurant,The Crown Lodge Hotel Restaurant,0,,0.0,0.0,0.0
+烧烤,Worzals,Worzals,0,,0.0,0.0,0.0
+烧烤,Worzals Bar &Grill,Worzals Bar &Grill,0,剑桥其他,0.0,0.0,0.0
+烧烤,Nando's Chickenland Ltd,Nando's Chickenland Ltd,0,剑桥其他,0.0,0.0,0.0
+比萨,Cherry Box Pizza,Cherry Box Pizza,0,Brookfields Hospital Area,0.0,0.0,0.0
+比萨,PIzza Town,PIzza Town,0,,0.0,0.0,0.0
+比萨,La Pergola,La Pergola,0,,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,剑桥其他,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,,0.0,0.0,0.0
+比萨,Pizza Santino,Pizza Santino,0,,0.0,0.0,0.0
+比萨,Pizza Town,Pizza Town,0,,0.0,0.0,0.0
+比萨,Pizza Express,Pizza Express,0,,0.0,0.0,0.0
+比萨,Hotspot Pizza,Hotspot Pizza,0,,0.0,0.0,0.0
+比萨,pizza house,pizza house,0,,0.0,0.0,0.0
+比萨,The Cow,The Cow,0,剑桥其他,0.0,0.0,0.0
+比萨,Istanbul Kebab & Pizza House,Istanbul Kebab & Pizza House,0,,0.0,0.0,0.0
+咖啡厅,Patisserie Valerie,Patisserie Valerie,0,剑桥其他,7.8,7.8,7.8
+咖啡厅,"Starbucks, Cambridge Retail Park Unit 2","Starbucks, Cambridge Retail Park Unit 2",0,Cambridge Airport Area,7.1,6.8,6.8
+咖啡厅,Caffe Sicilia,Caffe Sicilia,0,剑桥其他,7.4,6.7,7.4
+咖啡厅,Indigo cafe,Indigo cafe,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Oporto Cafe,Oporto Cafe,0,,0.0,0.0,0.0
+咖啡厅,Aromi,Aromi,0,,0.0,0.0,0.0
+咖啡厅,Hot Numbers Coffee,Hot Numbers Coffee,0,Cambridge University Cric,0.0,0.0,0.0
+咖啡厅,Massaro's,Massaro's,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,"West Shore Cafe, Porthmeor Beach, St Ives","West Shore Cafe, Porthmeor Beach, St Ives",0,剑桥其他,0.0,0.0,0.0
+咖啡厅,The Coffee Lounge,The Coffee Lounge,0,,0.0,0.0,0.0
+咖啡厅,CB2 Bistro,CB2 Bistro,0,Yorkstreet Area,0.0,0.0,0.0
+咖啡厅,Livingstones Cafe,Livingstones Cafe,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Rockabilly coffe shop,Rockabilly coffe shop,0,,0.0,0.0,0.0
+咖啡厅,About Coffee,About Coffee,0,,0.0,0.0,0.0
+咖啡厅,Bygones Cafe,Bygones Cafe,0,,0.0,0.0,0.0
+咖啡厅,Patisserie Valerie,Patisserie Valerie,0,,0.0,0.0,0.0
+咖啡厅,Nuts Bistro,Nuts Bistro,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Tesco Extra,Tesco Extra,0,,0.0,0.0,0.0
+咖啡厅,Simpson's Nurseries Coffee Shop,Simpson's Nurseries Coffee Shop,0,,0.0,0.0,0.0
+咖啡厅,Harbour Cafe,Harbour Cafe,0,,0.0,0.0,0.0
+咖啡厅,Gog Magog Hills Farm Cafe,Gog Magog Hills Farm Cafe,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,The Green Coffee Company,The Green Coffee Company,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Arches Coffee Shop,Arches Coffee Shop,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Ferrari's cafe,Ferrari's cafe,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Fair Shares Cafe,Fair Shares Cafe,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Black Cat Cafe,Black Cat Cafe,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Linton kitchen,Linton kitchen,0,,0.0,0.0,0.0
+咖啡厅,Caffè Nero,Caffè Nero,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,The Taproom,The Taproom,0,,0.0,0.0,0.0
+咖啡厅,Catherdran Coffee Shop,Catherdran Coffee Shop,0,,0.0,0.0,0.0
+咖啡厅,Le Petit Four,Le Petit Four,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Cafe Julienne,Cafe Julienne,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Grads Cafe University Centre,Grads Cafe University Centre,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Cafe Carringtons,Cafe Carringtons,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Nasreen Dar,Nasreen Dar,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Etcetera,Etcetera,0,,0.0,0.0,0.0
+咖啡厅,Dobbies Garden Centre,Dobbies Garden Centre,0,,0.0,0.0,0.0
+咖啡厅,MD's Coffee,MD's Coffee,0,,0.0,0.0,0.0
+咖啡厅,Creme du Cafe,Creme du Cafe,0,剑桥其他,0.0,0.0,0.0
+咖啡厅,Kemptons Restaurant,Kemptons Restaurant,0,,0.0,0.0,0.0
+咖啡厅,Pacific cafe,Pacific cafe,0,,0.0,0.0,0.0
+面包甜点,The Cambridge Union Society Cafe Bar,The Cambridge Union Society Cafe Bar,0,剑桥其他,0.0,0.0,0.0
+面包甜点,Rockers Steak House,Rockers Steak House,0,Cambridge University Cric,0.0,0.0,0.0
+面包甜点,Beans Coffee Stop,Beans Coffee Stop,0,剑桥其他,0.0,0.0,0.0
+面包甜点,Greggs,Greggs,0,,0.0,0.0,0.0
+面包甜点,Starbucks,Starbucks,0,,0.0,0.0,0.0
+面包甜点,Bridges Patisserie,Bridges Patisserie,0,剑桥其他,0.0,0.0,0.0
+面包甜点,Benet's Cafe,Benet's Cafe,0,剑桥其他,0.0,0.0,0.0
+酒吧,老鹰酒吧,老鹰酒吧,0,剑桥市中心,7.4,8.3,8.3
+酒吧,The Granta Pub,The Granta Pub,0,Cambridge University Cric,6.5,6.7,6.5
+酒吧,The Mill,The Mill,0,剑桥其他,7.2,7.2,7.2
+酒吧,Riverside Brasserie at Hilton Doubletree Cambridge,Riverside Brasserie at Hilton Doubletree Cambridge,0,剑桥其他,0.0,0.0,0.0
+酒吧,Dyke's End,Dyke's End,0,,0.0,0.0,0.0
+酒吧,King William IV,King William IV,0,,0.0,0.0,0.0
+酒吧,Hidden Rooms,Hidden Rooms,0,剑桥其他,0.0,0.0,0.0
+酒吧,The Six Bells,The Six Bells,0,Cambridge University Cric,0.0,0.0,0.0
+酒吧,Kingston Arms,Kingston Arms,0,Cambridge University Cric,0.0,0.0,0.0
+酒吧,Galleria Restaurant,Galleria Restaurant,0,剑桥其他,0.0,0.0,0.0
+酒吧,Burleigh Arms Public House,Burleigh Arms Public House,0,,0.0,0.0,0.0
+酒吧,Earl of Derby,Earl of Derby,0,Cambridge University Cric,0.0,0.0,0.0
+酒吧,Milton Arms,Milton Arms,0,剑桥其他,0.0,0.0,0.0
+酒吧,Alan Fish Bar,Alan Fish Bar,0,,0.0,0.0,0.0
+酒吧,"Queen's Head, Newton","Queen's Head, Newton",0,,0.0,0.0,0.0
+酒吧,The Cambridge Brew House,The Cambridge Brew House,0,剑桥其他,0.0,0.0,0.0
+酒吧,The Blue Lion,The Blue Lion,0,,0.0,0.0,0.0
+酒吧,Castle Inn,Castle Inn,0,剑桥其他,0.0,0.0,0.0
+酒吧,Cambridge Blue,Cambridge Blue,0,Cambridge University Cric,0.0,0.0,0.0
+酒吧,The Snug Trumpington,The Snug Trumpington,0,University Area,0.0,0.0,0.0
+酒吧,The Alexandra Arms,The Alexandra Arms,0,Yorkstreet Area,0.0,0.0,0.0
+酒吧,The Green Man,The Green Man,0,剑桥其他,0.0,0.0,0.0
+酒吧,Fitzwilliam Museum Cafe,Fitzwilliam Museum Cafe,0,剑桥其他,0.0,0.0,0.0
+酒吧,All Bar One,All Bar One,0,剑桥其他,0.0,0.0,0.0
+酒吧,Elm Tree Pub,Elm Tree Pub,0,剑桥其他,0.0,0.0,0.0
+酒吧,The Boathouse,The Boathouse,0,剑桥其他,0.0,0.0,0.0
+酒吧,Montaz Bar & Restaurant,Montaz Bar & Restaurant,0,,0.0,0.0,0.0
+酒吧,The George of Spaldwick,The George of Spaldwick,0,,0.0,0.0,0.0
+酒吧,Palmerston Arms,Palmerston Arms,0,,0.0,0.0,0.0
+酒吧,O'Neills Irsih Bar,O'Neills Irsih Bar,0,剑桥其他,0.0,0.0,0.0
+酒吧,O'Neill's Peterborough,O'Neill's Peterborough,0,,0.0,0.0,0.0
+酒吧,The Lion,The Lion,0,,0.0,0.0,0.0
+酒吧,The Crown,The Crown,0,,0.0,0.0,0.0
+酒吧,Prince of Wales,Prince of Wales,0,,0.0,0.0,0.0
+酒吧,12A,12A,0,剑桥其他,0.0,0.0,0.0
+酒吧,Priory,Priory,0,剑桥其他,0.0,0.0,0.0
+酒吧,The Halcyon - Hungry Horse,The Halcyon - Hungry Horse,0,,0.0,0.0,0.0
+酒吧,Brewers Fayre,Brewers Fayre,0,剑桥其他,0.0,0.0,0.0
+酒吧,George Hotel Restaurant and Bar,George Hotel Restaurant and Bar,0,,0.0,0.0,0.0
+酒吧,The Blue Boar,The Blue Boar,0,,0.0,0.0,0.0
+酒吧,The Fitzwilliams Arms,The Fitzwilliams Arms,0,剑桥其他,0.0,0.0,0.0
+酒吧,The Cross Keys Hotel,The Cross Keys Hotel,0,剑桥其他,0.0,0.0,0.0
+酒吧,The fox,The fox,0,,0.0,0.0,0.0
+更多美食,The Anchor,The Anchor,0,剑桥其他,7.6,8.3,7.6
+更多美食,Revolution Vodka Bar,Revolution Vodka Bar,0,剑桥其他,7.1,7.6,7.6
+更多美食,Japas Sushi,Japas Sushi,0,University Area,8.2,7.4,7.4
+更多美食,Tatties,Tatties,0,剑桥其他,8.0,8.0,8.0
+更多美食,Chiquito - Cambridge Leisure Park,Chiquito - Cambridge Leisure Park,0,Brookfields Hospital Area,7.4,6.7,6.7
+更多美食,The Dumpling Tree,The Dumpling Tree,0,University Area,7.7,7.2,7.7
+更多美食,Wildwood Restaurant,Wildwood Restaurant,0,剑桥其他,7.5,6.7,7.5
+更多美食,Bella Italia Cambridge Leisure,Bella Italia Cambridge Leisure,0,Brookfields Hospital Area,7.4,7.4,7.4
+更多美食,The Old Spring,The Old Spring,0,剑桥其他,7.4,8.1,8.1
+更多美食,La Raza,La Raza,0,剑桥其他,7.4,7.4,7.4
+更多美食,Burger King,Burger King,0,剑桥其他,7.1,6.8,6.8
+更多美食,Bug Market,Bug Market,0,University Area,6.7,6.7,7.5
+更多美食,Jamie's Italian,Jamie's Italian,0,剑桥其他,6.4,6.4,6.4
+更多美食,Michaelhouse Cafe,Michaelhouse Cafe,0,剑桥其他,0.0,0.0,0.0
+更多美食,Sycamore House,Sycamore House,0,,0.0,0.0,0.0
+更多美食,The Indian Garden,The Indian Garden,0,剑桥其他,0.0,0.0,0.0
+更多美食,Yippee Noodle Bar,Yippee Noodle Bar,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Urban Shed,The Urban Shed,0,剑桥其他,0.0,0.0,0.0
+更多美食,Stickybeaks,Stickybeaks,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Roof Terrace at The Varsity Hotel & Spa,The Roof Terrace at The Varsity Hotel & Spa,0,剑桥其他,0.0,0.0,0.0
+更多美食,KFC,KFC,0,,0.0,0.0,0.0
+更多美食,Zi's Piri Piri,Zi's Piri Piri,0,Cambridge University Cric,0.0,0.0,0.0
+更多美食,Subway,Subway,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多美食,Cambridge Wine Merchants - Bridge Street Wine Bar,Cambridge Wine Merchants - Bridge Street Wine Bar,0,剑桥其他,0.0,0.0,0.0
+更多美食,Rainbow Cafe,Rainbow Cafe,0,剑桥其他,0.0,0.0,0.0
+更多美食,Shiraz,Shiraz,0,剑桥其他,0.0,0.0,0.0
+更多美食,the waterman,the waterman,0,剑桥其他,0.0,0.0,0.0
+更多美食,Flying Pig,Flying Pig,0,Cambridge University Cric,0.0,0.0,0.0
+更多美食,Giraffe - Cambridge,Giraffe - Cambridge,0,University Area,0.0,0.0,0.0
+更多美食,Tandoori Station Restaurant,Tandoori Station Restaurant,0,Cambridge University Cric,0.0,0.0,0.0
+更多美食,Maharani,Maharani,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多美食,The Eltisley,The Eltisley,0,,0.0,0.0,0.0
+更多美食,Arundel House Hotel Restaurant,Arundel House Hotel Restaurant,0,剑桥其他,0.0,0.0,0.0
+更多美食,Restaurant Twenty Two,Restaurant Twenty Two,0,剑桥其他,0.0,0.0,0.0
+更多美食,Frankie and Benny's,Frankie and Benny's,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多美食,China Garden,China Garden,0,剑桥其他,0.0,0.0,0.0
+更多美食,Doubletree By Hilton Cambridge Garden House,Doubletree By Hilton Cambridge Garden House,0,剑桥其他,0.0,0.0,0.0
+更多美食,Liberty Belle,Liberty Belle,0,,0.0,0.0,0.0
+更多美食,Curry Hut,Curry Hut,0,,0.0,0.0,0.0
+更多美食,Platters,Platters,0,剑桥其他,0.0,0.0,0.0
+更多美食,Lahore Tandoori,Lahore Tandoori,0,剑桥其他,0.0,0.0,0.0
+更多美食,Savino's,Savino's,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Hopbine,The Hopbine,0,剑桥其他,0.0,0.0,0.0
+更多美食,Afternoon Tease,Afternoon Tease,0,剑桥其他,0.0,0.0,0.0
+更多美食,Pizza Express,Pizza Express,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Pickerel Inn,The Pickerel Inn,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Cambridge Cheese Company,The Cambridge Cheese Company,0,剑桥其他,0.0,0.0,0.0
+更多美食,BHS Cafe Cambridge,BHS Cafe Cambridge,0,剑桥其他,0.0,0.0,0.0
+更多美食,Fagito Take Away,Fagito Take Away,0,剑桥其他,0.0,0.0,0.0
+更多美食,Chicken Cottage,Chicken Cottage,0,Cambridge University Cric,0.0,0.0,0.0
+更多美食,Prince Regent,Prince Regent,0,剑桥其他,0.0,0.0,0.0
+更多美食,Pizza Hut,Pizza Hut,0,剑桥其他,0.0,0.0,0.0
+更多美食,KFC,KFC,0,Cambridge University Cric,0.0,0.0,0.0
+更多美食,Oliver's Lodge Hotel and Restaurant,Oliver's Lodge Hotel and Restaurant,0,,0.0,0.0,0.0
+更多美食,Old Ferry Boat Inn,Old Ferry Boat Inn,0,剑桥其他,0.0,0.0,0.0
+更多美食,Mcdonald's Restaurants,Mcdonald's Restaurants,0,剑桥其他,0.0,0.0,0.0
+更多美食,Ali's Kebab House,Ali's Kebab House,0,剑桥其他,0.0,0.0,0.0
+更多美食,Kabul Restaurant,Kabul Restaurant,0,剑桥其他,0.0,0.0,0.0
+更多美食,Prana Indian Restaurant & Lounge,Prana Indian Restaurant & Lounge,0,Cambridge University Cric,0.0,0.0,0.0
+更多美食,Kymmoy,Kymmoy,0,Cambridge University Cric,0.0,0.0,0.0
+更多美食,The Geldart,The Geldart,0,Cambridge University Cric,0.0,0.0,0.0
+更多美食,The Rock,The Rock,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多美食,Pizza Express,Pizza Express,0,剑桥其他,0.0,0.0,0.0
+更多美食,Wagamama,Wagamama,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Tram Depot,The Tram Depot,0,剑桥其他,0.0,0.0,0.0
+更多美食,Ming Wai,Ming Wai,0,剑桥其他,0.0,0.0,0.0
+更多美食,Minster Tavern,Minster Tavern,0,,0.0,0.0,0.0
+更多美食,Caffe Nero,Caffe Nero,0,剑桥其他,0.0,0.0,0.0
+更多美食,Prima,Prima,0,,0.0,0.0,0.0
+更多美食,Hong Kong,Hong Kong,0,,0.0,0.0,0.0
+更多美食,The Stilton Cheese,The Stilton Cheese,0,,0.0,0.0,0.0
+更多美食,Wokbox Peterborough,Wokbox Peterborough,0,剑桥其他,0.0,0.0,0.0
+更多美食,Ye Olde Griffin Hotel,Ye Olde Griffin Hotel,0,剑桥其他,0.0,0.0,0.0
+更多美食,Wimpy,Wimpy,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Bow Window,The Bow Window,0,剑桥其他,0.0,0.0,0.0
+更多美食,Elme Hall Restaurant,Elme Hall Restaurant,0,,0.0,0.0,0.0
+更多美食,"Brewers Fayre - Brampton Hut, Huntingdon","Brewers Fayre - Brampton Hut, Huntingdon",0,剑桥其他,0.0,0.0,0.0
+更多美食,The Shack,The Shack,0,剑桥其他,0.0,0.0,0.0
+更多美食,Wistow Cafe Bistro,Wistow Cafe Bistro,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Red Lion,The Red Lion,0,,0.0,0.0,0.0
+更多美食,Orchards Restaurant,Orchards Restaurant,0,剑桥其他,0.0,0.0,0.0
+更多美食,White Swan,White Swan,0,Cambridge University Cric,0.0,0.0,0.0
+更多美食,Kohinoor Tandoori Restaurant,Kohinoor Tandoori Restaurant,0,Cambridge University Cric,0.0,0.0,0.0
+更多美食,Chiquito Restaurant Bar,Chiquito Restaurant Bar,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多美食,Pickwicks Sandwich Bar,Pickwicks Sandwich Bar,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多美食,Perfect PIZZA Cambridge,Perfect PIZZA Cambridge,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多美食,Earl of Beaconsfield,Earl of Beaconsfield,0,Brookfields Hospital Area,0.0,0.0,0.0
+更多美食,Spice Merchant Indian Restaurant,Spice Merchant Indian Restaurant,0,University Area,0.0,0.0,0.0
+更多美食,Moghul Tandoori,Moghul Tandoori,0,Yorkstreet Area,0.0,0.0,0.0
+更多美食,Cafe Oriental & Dumpling Bar,Cafe Oriental & Dumpling Bar,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Elm Tree,The Elm Tree,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Red Lion,The Red Lion,0,剑桥其他,0.0,0.0,0.0
+更多美食,High Table Restaurant,High Table Restaurant,0,剑桥其他,0.0,0.0,0.0
+更多美食,Mahal of Cambridge,Mahal of Cambridge,0,剑桥其他,0.0,0.0,0.0
+更多美食,Bloomsbury Restaurant,Bloomsbury Restaurant,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Bakers,The Bakers,0,剑桥其他,0.0,0.0,0.0
+更多美食,jocalatte,jocalatte,0,剑桥其他,0.0,0.0,0.0
+更多美食,Pasty Presto,Pasty Presto,0,剑桥其他,0.0,0.0,0.0
+更多美食,Tang Chinese,Tang Chinese,0,剑桥其他,0.0,0.0,0.0
+更多美食,Heval Silo Kebab,Heval Silo Kebab,0,剑桥其他,0.0,0.0,0.0
+更多美食,Mcdonald's Restaurant,Mcdonald's Restaurant,0,剑桥其他,0.0,0.0,0.0
+更多美食,Sir Isaac Newton,Sir Isaac Newton,0,剑桥其他,0.0,0.0,0.0
+更多美食,"Marco Pierre White, Steakhouse Bar & Grill","Marco Pierre White, Steakhouse Bar & Grill",0,剑桥其他,0.0,0.0,0.0
+更多美食,Costa Coffee (Bar Hill),Costa Coffee (Bar Hill),0,剑桥其他,0.0,0.0,0.0
+更多美食,The Weeping Ash,The Weeping Ash,0,Yorkstreet Area,0.0,0.0,0.0
+更多美食,Red Lion,Red Lion,0,,0.0,0.0,0.0
+更多美食,Chiquito - Peterborough,Chiquito - Peterborough,0,,0.0,0.0,0.0
+更多美食,Granary Beefeater,Granary Beefeater,0,,0.0,0.0,0.0
+更多美食,The Crown Inn Elton,The Crown Inn Elton,0,剑桥其他,0.0,0.0,0.0
+更多美食,fox and hounds,fox and hounds,0,剑桥其他,0.0,0.0,0.0
+更多美食,Baskervilles Hotel,Baskervilles Hotel,0,,0.0,0.0,0.0
+更多美食,Queens Head Inn,Queens Head Inn,0,剑桥其他,0.0,0.0,0.0
+更多美食,Hartford Mill,Hartford Mill,0,,0.0,0.0,0.0
+更多美食,Sahara Restaurant Cafe,Sahara Restaurant Cafe,0,Cambridge University Cric,0.0,0.0,0.0
+更多美食,The Garden Cafe,The Garden Cafe,0,University Area,0.0,0.0,0.0
+更多美食,HK Fusion - Burleigh St,HK Fusion - Burleigh St,0,剑桥其他,0.0,0.0,0.0
+更多美食,Cafe Arena,Cafe Arena,0,剑桥其他,0.0,0.0,0.0
+更多美食,Wok And Grill,Wok And Grill,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Castle B&B,The Castle B&B,0,剑桥其他,0.0,0.0,0.0
+更多美食,La Pattisier,La Pattisier,0,剑桥其他,0.0,0.0,0.0
+更多美食,Le Patissier,Le Patissier,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Quinns Pub,The Quinns Pub,0,剑桥其他,0.0,0.0,0.0
+更多美食,Big Chefs Kitchen,Big Chefs Kitchen,0,剑桥其他,0.0,0.0,0.0
+更多美食,Milton House Takeaway,Milton House Takeaway,0,剑桥其他,0.0,0.0,0.0
+更多美食,Jamie's Italian,Jamie's Italian,0,剑桥其他,0.0,0.0,0.0
+更多美食,The Black Bull,The Black Bull,0,剑桥其他,0.0,0.0,0.0
+更多美食,Bella Italia,Bella Italia,0,剑桥其他,0.0,0.0,0.0
+更多美食,Restaurant 17,Restaurant 17,0,剑桥其他,0.0,0.0,0.0

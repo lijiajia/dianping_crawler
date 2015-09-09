@@ -1,0 +1,416 @@
+意大利菜,Bella Italia,Bella Italia,0,芭堤雅中心区,7.5,7.9,7.9
+意大利菜,Pizza Big,Pizza Big,0,旺马特海滩,7.1,7.1,7.1
+意大利菜,Dom Pizza,Dom Pizza,0,芭堤雅中心区,7.0,7.0,7.0
+意大利菜,Prig Kraprao Snack Pizza,Prig Kraprao Snack Pizza,0,帕塔纳克山,0.0,0.0,0.0
+意大利菜,La Dolce Vita,La Dolce Vita,0,芭堤雅,7.1,7.0,7.0
+意大利菜,La Piola,La Piola,0,芭堤雅,6.9,6.9,6.9
+意大利菜,Pizza Factory,Pizza Factory,0,芭堤雅海滩,0.0,0.0,0.0
+意大利菜,Pizza Et Pasta,Pizza Et Pasta,0,芭堤雅中心区,0.0,0.0,0.0
+意大利菜,Donna Pizza,Donna Pizza,0,芭堤雅,6.9,6.9,6.9
+意大利菜,Pizza Italy,Pizza Italy,0,芭堤雅中心区,7.1,7.0,7.0
+意大利菜,99 Pizza Pattaya,99 Pizza Pattaya,0,芭堤雅,7.1,7.0,7.0
+意大利菜,Pizza 2000,Pizza 2000,0,Bang Saray,7.0,7.0,7.0
+意大利菜,Pizza Pizza,Pizza Pizza,0,纳库鲁阿,7.0,7.0,7.0
+意大利菜,Pizza Hut,Pizza Hut,0,南芭堤雅,7.1,7.1,7.1
+意大利菜,Pizza Company,Pizza Company,0,步行街,6.8,6.8,6.8
+意大利菜,Da Nicola Pizza,Da Nicola Pizza,0,芭堤雅中心区,7.0,7.1,7.0
+意大利菜,Pizza Pizza by Yanee,Pizza Pizza by Yanee,0,芭堤雅,6.9,6.9,6.9
+意大利菜,Oscars Pizza,Oscars Pizza,0,北芭堤雅,0.0,0.0,0.0
+融合菜,Golden lobster restaurant and lounge,Golden lobster restaurant and lounge,0,中天海滩,0.0,0.0,0.0
+泰国菜,Pu Pen Restaurant,Pu Pen Restaurant,147,中天海滩,8.4,8.2,8.0
+泰国菜,南星鱼翅燕窝,南星鱼翅燕窝,169,芭堤雅中心区,8.0,7.9,7.8
+泰国菜,Cabbages & Comdoms (Chonburi),Cabbages & Comdoms (Chonburi),0,南芭堤雅,7.5,9.0,8.3
+泰国菜,บริษัท ลีลาวดี ซีฟู้ด จำกัด Mum Aroi,บริษัท ลีลาวดี ซีฟู้ด จำกัด Mum Aroi,0,芭堤雅海滩,8.3,8.6,8.6
+泰国菜,Cabbages and Condoms,Cabbages and Condoms,0,南芭堤雅,7.7,8.6,7.9
+泰国菜,Siam Elephant Bar and Restaurant,Siam Elephant Bar and Restaurant,0,芭堤雅海滩,7.2,7.0,7.0
+泰国菜,卷心菜和避孕套餐厅(Pattaya),卷心菜和避孕套餐厅(Pattaya),0,,7.9,8.3,7.9
+泰国菜,See Zone,See Zone,0,芭堤雅海滩,6.7,8.1,7.2
+泰国菜,Rimpa Lapin,Rimpa Lapin,0,纳中天海滩,7.5,8.4,7.5
+泰国菜,Somsakdi's Resturant,Somsakdi's Resturant,0,纳库鲁阿,7.5,7.5,7.5
+泰国菜,ราชวงศ์เลือดหมู-ตือฮวน,ราชวงศ์เลือดหมู-ตือฮวน,0,北芭堤雅,6.3,6.3,6.3
+泰国菜,Royal Cliff Hotels Group,Royal Cliff Hotels Group,0,,7.2,7.5,7.2
+泰国菜,Pattaya Beer Garden,Pattaya Beer Garden,0,芭堤雅海滩,7.4,7.4,7.4
+泰国菜,Big Horn Steakhouse,Big Horn Steakhouse,0,芭堤雅海滩,6.7,6.9,6.9
+泰国菜,Greg's Kitchen,Greg's Kitchen,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,piano lounge & gondola restaruant,piano lounge & gondola restaruant,0,芭堤雅,7.1,7.1,7.1
+泰国菜,The Red Lobster,The Red Lobster,0,北芭堤雅,7.4,7.4,8.2
+泰国菜,Pig & Whistle,Pig & Whistle,0,芭堤雅海滩,6.6,6.7,6.6
+泰国菜,8 Horseshoes Tavern,8 Horseshoes Tavern,0,南芭堤雅,7.2,7.2,7.2
+泰国菜,Flying Vegetable Restaurant,Flying Vegetable Restaurant,0,芭堤雅海滩,6.9,6.9,7.0
+泰国菜,Lindas,Lindas,0,中天海滩,6.9,7.0,7.0
+泰国菜,Alt Heidelberg,Alt Heidelberg,0,芭堤雅海滩,8.4,8.4,8.4
+泰国菜,Ninja BBQ Buffet Restaurant,Ninja BBQ Buffet Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Suttangrak,Suttangrak,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Royal Garden Plaza,Royal Garden Plaza,0,芭堤雅海滩,7.5,7.5,7.5
+泰国菜,Baywatch Cafe,Baywatch Cafe,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Pattaya Park Tower & Revolving Restaurant,Pattaya Park Tower & Revolving Restaurant,0,中天海滩,5.0,5.0,5.0
+泰国菜,Le Strogonoff 2,Le Strogonoff 2,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Sea Falcon,Sea Falcon,0,纳中天海滩,0.0,0.0,0.0
+泰国菜,Oishi Ramen,Oishi Ramen,0,芭堤雅中心区,0.0,0.0,0.0
+泰国菜,Larn Thong & Terrace,Larn Thong & Terrace,0,泰普布拉史特,0.0,0.0,0.0
+泰国菜,คอฟฟี่เวิล์ด เซ็นทรัลเฟสติวัลพัทยา,คอฟฟี่เวิล์ด เซ็นทรัลเฟสติวัลพัทยา,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Som Tam Puma Papraphai,Som Tam Puma Papraphai,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Restaurant AROY,Restaurant AROY,0,北芭堤雅,0.0,0.0,0.0
+泰国菜,ห้องอาหารกริล รูม แอนด์ ไวน์เซลล่าร์,ห้องอาหารกริล รูม แอนด์ ไวน์เซลล่าร์,0,南芭堤雅,0.0,0.0,0.0
+泰国菜,Henry J Bean Bar And Grill,Henry J Bean Bar And Grill,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,南星燕翅楼,南星燕翅楼,0,芭堤雅中心区,0.0,0.0,0.0
+泰国菜,Grilled Duck Meng Ki Restaurant,Grilled Duck Meng Ki Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Oriental Moon,Oriental Moon,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Tata Suki,Tata Suki,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Lengkee Restaurant,Lengkee Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ ดิ อเวนิว พัทยา,สตาร์บัคส์ ดิ อเวนิว พัทยา,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Mansu Jung Restaurant,Mansu Jung Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Poseidon Gay Boutique Guesthouse Pattaya-Jomtien,Poseidon Gay Boutique Guesthouse Pattaya-Jomtien,0,中天海滩,0.0,0.0,0.0
+泰国菜,Cabbages & Comdoms Restaurant,Cabbages & Comdoms Restaurant,0,南芭堤雅,0.0,0.0,0.0
+泰国菜,six tables,six tables,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Phatthay Star Disco LP,Phatthay Star Disco LP,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Starz Diner,Starz Diner,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Pattaya Garden beer bar,Pattaya Garden beer bar,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Zeppelin,Zeppelin,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Jomtien Cuisine,Jomtien Cuisine,0,中天海滩,0.0,0.0,0.0
+泰国菜,SARAS (Pattaya)INDIAN-Pure Vegetarian Restaurant,SARAS (Pattaya)INDIAN-Pure Vegetarian Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Aungkam Restaurant,Aungkam Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Lengkee,Lengkee,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Tam Rab Aroy,Tam Rab Aroy,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,A A Palladium Restaurant,A A Palladium Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Fatties Co Ltd,Fatties Co Ltd,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Ban Buntueng Maikew,Ban Buntueng Maikew,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Outlet Mall,Outlet Mall,0,中天海滩,0.0,0.0,0.0
+泰国菜,Tip's,Tip's,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Food Market,Food Market,0,芭堤雅中心区,0.0,0.0,0.0
+泰国菜,Hayastan CO LTD КАФЕ АРМЕНИЯ,Hayastan CO LTD КАФЕ АРМЕНИЯ,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,The Kitchen managed by Pet Hot,The Kitchen managed by Pet Hot,0,中天海滩,0.0,0.0,0.0
+泰国菜,SevenStar Restaurant & Bar,SevenStar Restaurant & Bar,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Amsterdam,Amsterdam,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Ton Tan beer garden ต้นตาลเบียร์การ์เด้น,Ton Tan beer garden ต้นตาลเบียร์การ์เด้น,0,芭堤雅中心区,0.0,0.0,0.0
+泰国菜,Brasseria La Luna,Brasseria La Luna,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Emone Restaurant,Emone Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Food Fair,Food Fair,0,芭堤雅近郊,0.0,0.0,0.0
+泰国菜,Sraan Rest Pattaya,Sraan Rest Pattaya,0,中天海滩,0.0,0.0,0.0
+泰国菜,Hopf,Hopf,0,芭堤雅中心区,0.0,0.0,0.0
+泰国菜,เอรา คิวซีน,เอรา คิวซีน,0,中天海滩,0.0,0.0,0.0
+泰国菜,คอฟฟี่เวิล์ด ทิพย์พลาซ่าพัทยา,คอฟฟี่เวิล์ด ทิพย์พลาซ่าพัทยา,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Food Fair Restaurant,Food Fair Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Taverne Shop,Taverne Shop,0,纳库鲁阿,0.0,0.0,0.0
+泰国菜,Tamnan Kon Isan,Tamnan Kon Isan,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Tequila Reef Cantina Restaurant and Bar,Tequila Reef Cantina Restaurant and Bar,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,The Munch Shack,The Munch Shack,0,中天海滩,0.0,0.0,0.0
+泰国菜,Beer Kutcher Restaurant,Beer Kutcher Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Indian by Nature,Indian by Nature,0,中天海滩,0.0,0.0,0.0
+泰国菜,Lan'Bae',Lan'Bae',0,中天海滩,0.0,0.0,0.0
+泰国菜,Scandinavia Bar and Restaurant,Scandinavia Bar and Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Oriental Cruise Pattaya,Oriental Cruise Pattaya,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Emily,Emily,0,中天海滩,0.0,0.0,0.0
+泰国菜,Xxo Beach Club,Xxo Beach Club,0,中天海滩,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ รอยัลการ์เด้นพลาซ่า พัทยา,สตาร์บัคส์ รอยัลการ์เด้นพลาซ่า พัทยา,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Siam Garden Village Jomtien Beach,Siam Garden Village Jomtien Beach,0,中天海滩,0.0,0.0,0.0
+泰国菜,The Prince of Wales,The Prince of Wales,0,南芭堤雅,0.0,0.0,0.0
+泰国菜,Brasseria La Luna,Brasseria La Luna,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Krua Kanmol,Krua Kanmol,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Krua Krueng Hom,Krua Krueng Hom,0,纳库鲁阿,0.0,0.0,0.0
+泰国菜,Sut Thang Rak,Sut Thang Rak,0,中天海滩,0.0,0.0,0.0
+泰国菜,Bar beer Koneko,Bar beer Koneko,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Fatties,Fatties,0,芭堤雅近郊,0.0,0.0,0.0
+泰国菜,PIG AND WHISTLE,PIG AND WHISTLE,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Bella Italia restaurant Pattaya,Bella Italia restaurant Pattaya,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Aloha Diner& Bar,Aloha Diner& Bar,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,La Baguette French Bakery,La Baguette French Bakery,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Somsak,Somsak,0,芭堤雅近郊,0.0,0.0,0.0
+泰国菜,Admirals (Pattaya),Admirals (Pattaya),0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,The Sportman Grill,The Sportman Grill,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Timbos Restaurant,Timbos Restaurant,0,中天海滩,0.0,0.0,0.0
+泰国菜,Silver Spoon,Silver Spoon,0,中天海滩,0.0,0.0,0.0
+泰国菜,Anton,Anton,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,ร้านก๋วยเตี๋ยวไก่พ่อศรีเรือน,ร้านก๋วยเตี๋ยวไก่พ่อศรีเรือน,0,中天海滩,0.0,0.0,0.0
+泰国菜,คาเฟ่ อเมซอน - พัทยา จ.ชลบุรี,คาเฟ่ อเมซอน - พัทยา จ.ชลบุรี,0,中天海滩,0.0,0.0,0.0
+泰国菜,Deli-zza,Deli-zza,0,中天海滩,0.0,0.0,0.0
+泰国菜,Lungsong Pattaya,Lungsong Pattaya,0,纳库鲁阿,0.0,0.0,0.0
+泰国菜,The Supper Room,The Supper Room,0,北芭堤雅,0.0,0.0,0.0
+泰国菜,Pan Pan Italian Restaurant Jomtien,Pan Pan Italian Restaurant Jomtien,0,中天海滩,0.0,0.0,0.0
+泰国菜,Restaurant Casa Pascal,Restaurant Casa Pascal,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Pan Pan Italian restaurant Pattaya,Pan Pan Italian restaurant Pattaya,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Sher e Punjab I,Sher e Punjab I,0,纳库鲁阿,0.0,0.0,0.0
+泰国菜,Domicile Restaurant,Domicile Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Nang Nuan 1,Nang Nuan 1,0,芭堤雅近郊,0.0,0.0,0.0
+泰国菜,C 4 Dennis Restaurant,C 4 Dennis Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Free Drop Restaurant,Free Drop Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Paradise Restaurant,Paradise Restaurant,0,北芭堤雅,0.0,0.0,0.0
+泰国菜,Krobkrung,Krobkrung,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Mr Pang Restaurant,Mr Pang Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Garden Café,Garden Café,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Sunset Lounge,Sunset Lounge,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,P S Sharkfin,P S Sharkfin,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวีสาขา พัทยา,ร้านกาแฟวาวีสาขา พัทยา,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Manhattans,Manhattans,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,S&P ตึกคอมพัทยาใต้,S&P ตึกคอมพัทยาใต้,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Sea Sand Sun,Sea Sand Sun,0,芭堤雅近郊,0.0,0.0,0.0
+泰国菜,Na Kluea Grill,Na Kluea Grill,0,芭堤雅近郊,0.0,0.0,0.0
+泰国菜,Shenanigans Irish Pub,Shenanigans Irish Pub,0,芭堤雅近郊,0.0,0.0,0.0
+泰国菜,Casa Pascal,Casa Pascal,0,芭堤雅近郊,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ บาลีฮาย พลาซ่า,สตาร์บัคส์ บาลีฮาย พลาซ่า,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Caramel Restaurant and Gentlemen`s Club,Caramel Restaurant and Gentlemen`s Club,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Roma Roma Restaurant,Roma Roma Restaurant,0,南芭堤雅,0.0,0.0,0.0
+泰国菜,Toscana,Toscana,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Restaurant Swiss Food,Restaurant Swiss Food,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,The Golf Club,The Golf Club,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Maxwell Restaurant,Maxwell Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Murphy Bar,Murphy Bar,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,ร้านแม่พิมพ์,ร้านแม่พิมพ์,0,北芭堤雅,0.0,0.0,0.0
+泰国菜,Seoul Restaurant,Seoul Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Juk-Jo Food Forest,Juk-Jo Food Forest,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,เรือนไทยพัทยา สวนอาหาร,เรือนไทยพัทยา สวนอาหาร,0,芭堤雅海滩,0.0,0.0,0.0
+泰国菜,Phranpor Restaurant,Phranpor Restaurant,0,北芭堤雅,0.0,0.0,0.0
+泰国菜,Two Phum Puy,Two Phum Puy,0,中天海滩,0.0,0.0,0.0
+泰国菜,AIA Company Limited,AIA Company Limited,0,南芭堤雅,0.0,0.0,0.0
+泰国菜,Mata Hari Restaurant,Mata Hari Restaurant,0,中天海滩,0.0,0.0,0.0
+泰国菜,Accha Indian Restaurant,Accha Indian Restaurant,0,中天海滩,0.0,0.0,0.0
+泰国菜,Restaurant High Lords,Restaurant High Lords,0,中天海滩,0.0,0.0,0.0
+泰国菜,อนันทยา รีสอร์ท,อนันทยา รีสอร์ท,0,中天海滩,0.0,0.0,0.0
+泰式火锅,MK,MK,0,芭堤雅近郊,8.4,8.4,8.4
+泰式小吃,姐莲芒果糯米饭,姐莲芒果糯米饭,0,,7.5,5.9,6.7
+泰式小吃,醉仙鸭,醉仙鸭,0,,0.0,0.0,0.0
+中餐,台湾小吃,台湾小吃,65,芭堤雅中心区,9.4,9.3,9.4
+中餐,上海餐厅,上海餐厅,46,北芭堤雅,8.9,9.0,9.0
+中餐,华泰酒家,华泰酒家,0,芭堤雅,8.5,8.5,8.5
+中餐,小杨凉皮牛肉面,小杨凉皮牛肉面,0,芭堤雅中心区,8.5,7.6,7.7
+中餐,金宝烤鸭餐厅,金宝烤鸭餐厅,0,,6.7,6.6,6.8
+中餐,小杨凉皮牛肉面,小杨凉皮牛肉面,0,芭堤雅近郊,7.4,7.4,7.4
+中餐,小杨凉皮牛肉面(小杨凉皮牛肉面),小杨凉皮牛肉面(小杨凉皮牛肉面),0,南芭堤雅,7.4,7.4,7.4
+中餐,中華軒-養生堂料理店,中華軒-養生堂料理店,0,,7.3,7.3,7.3
+中餐,Mantra餐厅和酒吧,Mantra餐厅和酒吧,0,芭堤雅海滩,7.1,7.5,7.5
+中餐,Tabasi夜市,Tabasi夜市,0,南芭堤雅,6.7,5.9,5.9
+中餐,燕酒家,燕酒家,0,,6.1,6.1,6.1
+中餐,中国城,中国城,0,芭堤雅海滩,6.7,6.7,7.4
+中餐,中国园,中国园,0,芭堤雅海滩,0.0,0.0,0.0
+中餐,面包公主,面包公主,0,芭堤雅海滩,0.0,0.0,0.0
+中餐,La Cuisine au Beurre,La Cuisine au Beurre,0,芭堤雅,7.1,7.1,7.1
+中餐,Sunrise Tacos Pattaya,Sunrise Tacos Pattaya,0,芭堤雅中心区,6.8,6.6,6.6
+中餐,屋顶中餐厅,屋顶中餐厅,0,,0.0,0.0,0.0
+中餐,Sunrise Tacos Pattaya,Sunrise Tacos Pattaya,0,,0.0,0.0,0.0
+海鲜,红姐海鲜,红姐海鲜,158,芭堤雅海滩,6.2,6.3,6.0
+海鲜,Mr. 99 Steak and Seafood Restaurant,Mr. 99 Steak and Seafood Restaurant,0,芭堤雅近郊,7.1,6.9,7.3
+海鲜,兴华海鲜酒楼,兴华海鲜酒楼,0,,6.4,6.2,6.2
+海鲜,King Seafood South Phatthaya,King Seafood South Phatthaya,0,芭堤雅海滩,6.7,7.1,7.2
+海鲜,银都海鲜酒楼,银都海鲜酒楼,0,芭堤雅近郊,6.5,6.5,6.4
+海鲜,king Seafood,king Seafood,0,芭堤雅海滩,7.2,8.3,8.3
+海鲜,Preecha Seafood,Preecha Seafood,0,,8.2,8.2,8.2
+海鲜,Chill Chill resTaurAnt,Chill Chill resTaurAnt,0,芭堤雅海滩,5.4,5.6,5.4
+海鲜,海景鱼翅大酒楼,海景鱼翅大酒楼,0,,6.4,6.1,6.5
+海鲜,金娜丽海鲜大酒楼,金娜丽海鲜大酒楼,0,芭堤雅近郊,6.8,6.8,6.8
+海鲜,Rim Talay Seafood & Steak,Rim Talay Seafood & Steak,0,芭堤雅近郊,6.6,6.7,5.9
+海鲜,幸福鱼翅,幸福鱼翅,0,,6.8,6.5,7.5
+海鲜,兴兴大酒楼,兴兴大酒楼,0,芭堤雅海滩,5.8,5.8,5.8
+海鲜,鸿星酒家,鸿星酒家,0,芭堤雅中心区,7.4,7.4,6.7
+海鲜,The Glass House Pattaya,The Glass House Pattaya,0,芭堤雅近郊,7.5,7.5,7.5
+海鲜,中華軒-養生堂料理店,中華軒-養生堂料理店,0,,7.3,7.3,7.3
+海鲜,J'Noy,J'Noy,0,芭堤雅海滩,0.0,0.0,0.0
+海鲜,威提海鲜餐厅,威提海鲜餐厅,0,,5.7,6.2,6.2
+海鲜,Surf Beach hotel & Restaurant,Surf Beach hotel & Restaurant,0,中天海滩,6.7,7.3,7.3
+海鲜,Marine Seafood,Marine Seafood,0,芭堤雅,0.0,0.0,0.0
+海鲜,Casa Rizzi Restaurant,Casa Rizzi Restaurant,0,北芭堤雅,6.9,6.9,6.9
+海鲜,Sky Restaurant,Sky Restaurant,0,芭堤雅,6.9,6.9,6.9
+海鲜,Amporn Sea Food,Amporn Sea Food,0,芭堤雅海滩,0.0,0.0,0.0
+海鲜,Hardtien Seafood,Hardtien Seafood,0,芭堤雅海滩,0.0,0.0,0.0
+海鲜,兴鱼翅,兴鱼翅,0,芭堤雅海滩,0.0,0.0,0.0
+海鲜,Kannika Seafood,Kannika Seafood,0,芭堤雅近郊,0.0,0.0,0.0
+海鲜,Seafood Market and Restaurant,Seafood Market and Restaurant,0,芭堤雅近郊,0.0,0.0,0.0
+海鲜,Savoey Seafood,Savoey Seafood,0,芭堤雅近郊,0.0,0.0,0.0
+海鲜,King Seafood,King Seafood,0,芭堤雅近郊,0.0,0.0,0.0
+日韩料理,Shabushi,Shabushi,0,北芭堤雅,8.1,8.4,8.4
+日韩料理,8番拉面,8番拉面,0,芭堤雅海滩,7.1,7.9,8.2
+日韩料理,Fuji,Fuji,0,芭堤雅近郊,7.1,6.9,6.8
+日韩料理,春 日本料理铁板烧,春 日本料理铁板烧,0,,6.7,7.5,6.4
+日韩料理,Fuji,Fuji,0,芭堤雅海滩,0.0,0.0,0.0
+日韩料理,Benihana-Pattaya,Benihana-Pattaya,0,芭堤雅海滩,0.0,0.0,0.0
+日韩料理,Kabuto Yakiniku Japanese Restaurant,Kabuto Yakiniku Japanese Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+日韩料理,Easara Korean Restaurant,Easara Korean Restaurant,0,北芭堤雅,0.0,0.0,0.0
+西式正餐,Hard Rock Cafe Pattaya,Hard Rock Cafe Pattaya,0,芭堤雅海滩,7.6,7.6,7.3
+西式正餐,horizons in hilton hotel pattaya,horizons in hilton hotel pattaya,0,芭堤雅海滩,7.9,8.4,7.9
+西式正餐,Paulaner Garden,Paulaner Garden,0,步行街,7.4,8.4,8.4
+西式正餐,Havana Bar (at Holiday Inn Pattaya),Havana Bar (at Holiday Inn Pattaya),0,中天海滩,7.5,8.4,8.4
+西式正餐,Sizzler-Siam Center,Sizzler-Siam Center,0,芭堤雅海滩,7.2,7.1,7.2
+西式正餐,Hopf Brew House,Hopf Brew House,0,芭堤雅海滩,5.7,5.7,5.7
+西式正餐,Pattaya Beer Garden,Pattaya Beer Garden,0,芭堤雅海滩,7.4,7.4,7.4
+西式正餐,Greg's Kitchen,Greg's Kitchen,0,芭堤雅海滩,0.0,0.0,0.0
+西式正餐,8 Horseshoes Tavern,8 Horseshoes Tavern,0,南芭堤雅,7.2,7.2,7.2
+西式正餐,斯文森冰淇淋,斯文森冰淇淋,0,芭堤雅近郊,7.0,7.0,7.0
+西式正餐,Volterra Restaurant,Volterra Restaurant,0,芭堤雅近郊,7.1,7.1,7.1
+西式正餐,RAJ MAHAL ABU USMAN,RAJ MAHAL ABU USMAN,0,芭堤雅近郊,7.0,6.7,6.9
+西式正餐,斯文森冰淇淋,斯文森冰淇淋,0,芭堤雅近郊,7.0,7.0,7.1
+西式正餐,Baywatch Cafe,Baywatch Cafe,0,芭堤雅海滩,0.0,0.0,0.0
+西式正餐,Trattoria Pizzeria Toscana,Trattoria Pizzeria Toscana,0,芭堤雅海滩,0.0,0.0,0.0
+西式正餐,Wine Cellar Pattaya,Wine Cellar Pattaya,0,中天海滩,0.0,0.0,0.0
+西式正餐,News Steaks & grill,News Steaks & grill,0,中天海滩,0.0,0.0,0.0
+西式正餐,Momento Beach,Momento Beach,0,中天海滩,0.0,0.0,0.0
+西式正餐,Shenanigans,Shenanigans,0,芭堤雅海滩,0.0,0.0,0.0
+西式正餐,east tapas lounge,east tapas lounge,0,中天海滩,0.0,0.0,0.0
+西式正餐,Le Strogonoff 2,Le Strogonoff 2,0,芭堤雅海滩,0.0,0.0,0.0
+西式正餐,Big Horn Steakhouse,Big Horn Steakhouse,0,芭堤雅海滩,0.0,0.0,0.0
+西式正餐,Little Italy,Little Italy,0,芭堤雅中心区,7.2,7.2,7.2
+西式正餐,Anton,Anton,0,纳库鲁阿,0.0,0.0,0.0
+西式正餐,"ลา บาแกต, เบเกอรี่ฝรั่งเศส","ลา บาแกต, เบเกอรี่ฝรั่งเศส",0,芭堤雅海滩,0.0,0.0,0.0
+西式正餐,Froggy's French Bistro,Froggy's French Bistro,0,北芭堤雅,0.0,0.0,0.0
+西式正餐,Horizon,Horizon,0,芭堤雅近郊,0.0,0.0,0.0
+西式快餐,麦当劳,麦当劳(芭提雅步行街店),0,芭堤雅近郊,8.1,7.7,7.7
+西式快餐,Mcdonald's Restaurant （Central Festival）,Mcdonald's Restaurant （Central Festival）,0,芭堤雅海滩,7.1,7.2,7.4
+西式快餐,Burgur King,Burgur King,0,芭堤雅近郊,7.3,7.5,7.3
+西式快餐,Pizza Pizza by Yanee,Pizza Pizza by Yanee,0,芭堤雅海滩,7.5,8.0,8.0
+西式快餐,Edge,Edge,0,芭堤雅,7.9,7.9,7.9
+西式快餐,Hopf Brew House,Hopf Brew House,0,,6.9,6.9,6.9
+西式快餐,Volterra Restaurant,Volterra Restaurant,0,芭堤雅近郊,7.1,7.1,7.1
+西式快餐,Subway Soi Buakao,Subway Soi Buakao,0,北芭堤雅,7.0,6.9,6.9
+西式快餐,Mcdonald's Restaurant (Lido Pattaya),Mcdonald's Restaurant (Lido Pattaya),0,芭堤雅海滩,0.0,0.0,0.0
+西式快餐,红与黑餐馆,红与黑餐馆,0,北芭堤雅,0.0,0.0,0.0
+西式快餐,Net@8 Pattaya,Net@8 Pattaya,0,芭堤雅海滩,0.0,0.0,0.0
+西式快餐,Chimaki,Chimaki,0,芭堤雅海滩,0.0,0.0,0.0
+西式快餐,Nirvana,Nirvana,0,中天海滩,0.0,0.0,0.0
+西式快餐,Subway Carrefour,Subway Carrefour,0,芭堤雅海滩,0.0,0.0,0.0
+西式快餐,"McDonald Restaurant (Royal Garden Plaza, Pattaya)","McDonald Restaurant (Royal Garden Plaza, Pattaya)",0,芭堤雅海滩,0.0,0.0,0.0
+西式快餐,Hole In One,Hole In One,0,芭堤雅海滩,0.0,0.0,0.0
+西式快餐,Nick The Pizza,Nick The Pizza,0,芭堤雅海滩,0.0,0.0,0.0
+西式快餐,Big Fish Internet,Big Fish Internet,0,芭堤雅海滩,0.0,0.0,0.0
+西式快餐,Mcdonald Restaurant (Pattayv Dragon),Mcdonald Restaurant (Pattayv Dragon),0,马普拉查水库,0.0,0.0,0.0
+酒吧,Big Eye,Big Eye,0,芭堤雅海滩,6.3,6.5,6.5
+酒吧,Pig & Whistle,Pig & Whistle,0,芭堤雅海滩,8.4,8.4,8.4
+酒吧,Cucumber Inn Pub and Restaurant,Cucumber Inn Pub and Restaurant,0,芭堤雅,7.0,7.0,6.7
+酒吧,The Golf Club Sports Bar & Grill,The Golf Club Sports Bar & Grill,0,芭堤雅海滩,0.0,0.0,0.0
+酒吧,Mirror Bar,Mirror Bar,0,北芭堤雅,7.0,7.1,7.1
+酒吧,Zaika Indian Restaurant,Zaika Indian Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+酒吧,News Steaks & grill,News Steaks & grill,0,中天海滩,0.0,0.0,0.0
+酒吧,The Lounge,The Lounge,0,芭堤雅中心区,7.0,7.0,7.0
+酒吧,east tapas lounge,east tapas lounge,0,中天海滩,0.0,0.0,0.0
+酒吧,L'Arc,L'Arc,0,中天海滩,0.0,0.0,0.0
+酒吧,Oscar's Pub and Restaurant,Oscar's Pub and Restaurant,0,芭堤雅,7.0,7.0,7.0
+酒吧,Hot Tuna Bar,Hot Tuna Bar,0,步行街,7.1,7.1,7.1
+酒吧,The Pier Disco Club,The Pier Disco Club,0,纳库鲁阿,6.9,7.0,7.1
+酒吧,Dicey Reilly's Pub and Resturant,Dicey Reilly's Pub and Resturant,0,芭堤雅中心区,7.2,7.2,7.2
+酒吧,The Sportsman Pub,The Sportsman Pub,0,芭堤雅海滩,7.2,7.2,7.2
+酒吧,The Lion Pub,The Lion Pub,0,芭堤雅,7.0,7.0,7.1
+酒吧,Minus 5 Ice Bar,Minus 5 Ice Bar,0,芭堤雅,6.9,7.0,7.0
+酒吧,Sailors Bar and Restaurant,Sailors Bar and Restaurant,0,芭堤雅,7.1,7.1,7.1
+酒吧,Richman Poorman Guesthouse Restaurant and Bar,Richman Poorman Guesthouse Restaurant and Bar,0,芭堤雅,0.0,0.0,0.0
+酒吧,The Beach Club at Pullman hotel,The Beach Club at Pullman hotel,0,北芭堤雅,7.2,7.2,7.2
+酒吧,Khao Noi Sports Bar and Restaurant,Khao Noi Sports Bar and Restaurant,0,芭堤雅中心区,6.9,6.9,6.9
+酒吧,Walkabout Creek Pub,Walkabout Creek Pub,0,南芭堤雅,7.1,7.1,7.1
+酒吧,Aroi Pub/Resto,Aroi Pub/Resto,0,哝普尔,7.0,7.0,7.0
+酒吧,Acorn Pub and Resturant,Acorn Pub and Resturant,0,纳库鲁阿,7.1,7.0,6.9
+酒吧,Bruno's Restaurant and Wine Bar,Bruno's Restaurant and Wine Bar,0,帕塔纳克山,7.2,7.2,7.2
+酒吧,White Horse Pub and Sports Bar,White Horse Pub and Sports Bar,0,芭堤雅,7.0,7.0,7.0
+酒吧,Zico's Brazilian Grill and Bar,Zico's Brazilian Grill and Bar,0,芭堤雅,7.2,7.2,7.2
+酒吧,Shenanigans The Irish Pub,Shenanigans The Irish Pub,0,芭堤雅,7.1,7.1,7.1
+酒吧,Shamrock,Shamrock,0,芭堤雅,7.0,7.0,7.0
+酒吧,Airport Club,Airport Club,0,,0.0,0.0,0.0
+酒吧,零下五度冰吧,零下五度冰吧,0,,0.0,0.0,0.0
+酒吧,Mixx Discotheque,Mixx Discotheque,0,,0.0,0.0,0.0
+酒吧,Tequila Sunrise Bar,Tequila Sunrise Bar,0,中天海滩,0.0,0.0,0.0
+酒吧,Tee Off Bar & Restaraunt,Tee Off Bar & Restaraunt,0,南芭堤雅,0.0,0.0,0.0
+酒吧,Mix Bistro,Mix Bistro,0,芭堤雅,0.0,0.0,0.0
+酒吧,Northern Paradise,Northern Paradise,0,纳库鲁阿,0.0,0.0,0.0
+酒吧,Scandinavia Beach Club,Scandinavia Beach Club,0,,0.0,0.0,0.0
+酒吧,See Sea Restaurant,See Sea Restaurant,0,,0.0,0.0,0.0
+酒吧,Robin Hood Bar and Restaurant,Robin Hood Bar and Restaurant,0,芭堤雅,0.0,0.0,0.0
+更多亚洲菜,张龙记,张龙记,125,芭堤雅近郊,7.4,6.9,6.9
+更多亚洲菜,Ruen Thai Restaurant,Ruen Thai Restaurant,0,芭堤雅近郊,7.1,7.1,6.5
+更多亚洲菜,PIC Kitchen,PIC Kitchen,0,南芭堤雅,7.0,6.7,6.8
+更多亚洲菜,飞天空心菜,飞天空心菜,0,芭堤雅近郊,7.4,6.7,6.7
+更多亚洲菜,PIC Kitchen,PIC Kitchen,0,中天海滩,7.6,8.5,8.2
+更多亚洲菜,Ruen Thai,Ruen Thai,0,芭堤雅海滩,6.7,7.1,6.3
+更多亚洲菜,Alibaba Tandoori & Curry Restaurant,Alibaba Tandoori & Curry Restaurant,0,芭堤雅海滩,7.1,7.5,7.1
+更多亚洲菜,Mum Aroi Naklua,Mum Aroi Naklua,0,纳库鲁阿,7.8,8.0,7.7
+更多亚洲菜,常青大酒楼,常青大酒楼,0,芭堤雅近郊,6.9,6.8,6.8
+更多亚洲菜,Kiss Food & Drink,Kiss Food & Drink,0,芭堤雅近郊,7.5,7.3,7.2
+更多亚洲菜,Zen,Zen,0,芭堤雅海滩,6.9,6.9,6.8
+更多亚洲菜,张大喜华人餐馆,张大喜华人餐馆,0,芭堤雅近郊,6.7,6.6,6.6
+更多亚洲菜,Boutique Restaurant,Boutique Restaurant,0,芭堤雅近郊,6.5,6.5,6.5
+更多亚洲菜,大城公主号,大城公主号,0,芭堤雅近郊,7.0,7.1,7.1
+更多亚洲菜,Traditional Thai,Traditional Thai,0,芭堤雅近郊,7.1,6.9,7.0
+更多亚洲菜,Mum Aroi Naklua,Mum Aroi Naklua,0,芭堤雅近郊,7.1,7.0,7.0
+更多亚洲菜,Zaika Indian Restaurant,Zaika Indian Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+更多亚洲菜,Bali Breeze,Bali Breeze,0,中天海滩,0.0,0.0,0.0
+更多亚洲菜,Saras,Saras,0,芭堤雅近郊,0.0,0.0,0.0
+更多亚洲菜,Eat Well,Eat Well,0,芭堤雅近郊,0.0,0.0,0.0
+更多亚洲菜,Yum Saap,Yum Saap,0,芭堤雅中心区,0.0,0.0,0.0
+更多亚洲菜,Hot Chilli,Hot Chilli,0,芭堤雅,6.9,6.9,6.9
+更多亚洲菜,烤鳄鱼,烤鳄鱼,0,芭堤雅近郊,0.0,0.0,0.0
+更多亚洲菜,The Red Lobster,The Red Lobster,0,芭堤雅近郊,0.0,0.0,0.0
+更多亚洲菜,Element,Element,0,芭堤雅近郊,0.0,0.0,0.0
+更多亚洲菜,New Bombay Palace,New Bombay Palace,0,步行街,0.0,0.0,0.0
+更多亚洲菜,Thai House Restaurant,Thai House Restaurant,0,纳库鲁阿,0.0,0.0,0.0
+更多亚洲菜,RAJ MAHAL RESTAURANT,RAJ MAHAL RESTAURANT,0,芭堤雅近郊,0.0,0.0,0.0
+更多亚洲菜,Baan Ruen Thai Resort,Baan Ruen Thai Resort,0,纳中天海滩,0.0,0.0,0.0
+烧烤,Bob's BBQ,Bob's BBQ,0,芭堤雅,6.0,6.7,6.7
+烧烤,Momento Beach,Momento Beach,0,中天海滩,0.0,0.0,0.0
+烧烤,Larn Thong & Terrace,Larn Thong & Terrace,0,泰普布拉史特,0.0,0.0,0.0
+咖啡厅,星巴克咖啡,星巴克咖啡,0,芭堤雅海滩,8.1,8.1,7.8
+咖啡厅,black canyon coffee,black canyon coffee,0,,7.1,7.1,6.9
+咖啡厅,Sketchbook Art Cafe,Sketchbook Art Cafe,0,芭堤雅中心区,7.5,7.5,7.7
+咖啡厅,Starbucks-Central Festival Pattaya Beach,Starbucks-Central Festival Pattaya Beach,0,芭堤雅海滩,8.4,8.4,8.4
+咖啡厅,Memory,Memory,0,纳库鲁阿,7.5,7.5,7.5
+咖啡厅,Cafe Le Mar,Cafe Le Mar,0,中天海滩,7.5,7.5,7.5
+咖啡厅,"The Coffee Club Royal Garden Plaza, Pattaya","The Coffee Club Royal Garden Plaza, Pattaya",0,芭堤雅近郊,6.5,6.8,6.8
+咖啡厅,Benjamit coffee&bakery,Benjamit coffee&bakery,0,芭堤雅海滩,8.2,6.7,7.4
+咖啡厅,BUD‘S ICE CREAM,BUD‘S ICE CREAM,0,芭堤雅近郊,6.9,6.9,6.7
+咖啡厅,RueMai Coffee,RueMai Coffee,0,芭堤雅,7.0,7.0,7.1
+咖啡厅,The Coffee Club North Pattaya,The Coffee Club North Pattaya,0,纳库鲁阿,7.2,7.2,7.2
+咖啡厅,Garden Cafe,Garden Cafe,0,芭堤雅,7.0,6.7,7.0
+咖啡厅,Juliet's Cafe,Juliet's Cafe,0,纳库鲁阿,7.1,7.0,7.0
+咖啡厅,Cadillac Cafe,Cadillac Cafe,0,步行街,7.1,7.1,7.1
+咖啡厅,"Green Terrace Guesthouse Co.,Ltd","Green Terrace Guesthouse Co.,Ltd",0,芭堤雅,0.0,0.0,0.0
+咖啡厅,The Green Bottle,The Green Bottle,0,芭堤雅中心区,7.1,7.1,7.1
+咖啡厅,Mama's Cafe,Mama's Cafe,0,芭堤雅中心区,7.1,7.1,7.1
+咖啡厅,Coffee Sheema,Coffee Sheema,0,帕塔纳克山,7.1,7.0,7.0
+咖啡厅,Friends Cafe Jomtien,Friends Cafe Jomtien,0,中天海滩,7.0,7.0,7.0
+咖啡厅,Cafe des Amis,Cafe des Amis,0,帕塔纳克山,7.2,7.2,7.2
+咖啡厅,Dick's Cafe Jomtien,Dick's Cafe Jomtien,0,芭堤雅,6.9,6.9,7.0
+咖啡厅,Chamu - Japanese Corner,Chamu - Japanese Corner,0,芭堤雅中心区,7.1,7.1,6.9
+咖啡厅,Pool Bar Cafe,Pool Bar Cafe,0,,7.0,7.0,7.0
+咖啡厅,DAT Coffee Shop,DAT Coffee Shop,0,南芭堤雅,0.0,0.0,0.0
+咖啡厅,Cafe Pittini,Cafe Pittini,0,芭堤雅中心区,7.1,7.1,7.1
+咖啡厅,Wawee Coffee,Wawee Coffee,0,芭堤雅中心区,6.9,6.9,6.9
+咖啡厅,Cafe Pitini Pattaya,Cafe Pitini Pattaya,0,芭堤雅中心区,7.1,7.1,7.1
+咖啡厅,Chez Manu Cafe de Paris,Chez Manu Cafe de Paris,0,芭堤雅,6.9,6.9,6.9
+咖啡厅,Tree Tales Cafe,Tree Tales Cafe,0,纳库鲁阿,7.1,7.1,7.1
+咖啡厅,Cafe Sunshine,Cafe Sunshine,0,芭堤雅,6.9,6.9,7.0
+咖啡厅,Cafe Ritz,Cafe Ritz,0,芭堤雅,7.2,7.2,7.2
+咖啡厅,Cafe Dior Restaurant,Cafe Dior Restaurant,0,南芭堤雅,7.1,7.1,7.1
+咖啡厅,The Captain's Corner,The Captain's Corner,0,帕塔纳克山,7.0,7.0,6.9
+咖啡厅,Ambiance hotel coffee shop,Ambiance hotel coffee shop,0,芭堤雅海滩,6.9,6.9,6.9
+咖啡厅,AIR PORT PUB,AIR PORT PUB,0,芭堤雅近郊,0.0,0.0,0.0
+咖啡厅,The Old Dutch Cafe,The Old Dutch Cafe,0,中天海滩,0.0,0.0,0.0
+咖啡厅,Kaffee Coffee,Kaffee Coffee,0,芭堤雅海滩,0.0,0.0,0.0
+咖啡厅,Den Lille Cafe,Den Lille Cafe,0,芭堤雅海滩,0.0,0.0,0.0
+咖啡厅,Cafe de Papa,Cafe de Papa,0,芭堤雅中心区,0.0,0.0,0.0
+咖啡厅,Bon Cafe,Bon Cafe,0,纳库鲁阿,0.0,0.0,0.0
+咖啡厅,Cafe New Orieans,Cafe New Orieans,0,芭堤雅海滩,0.0,0.0,0.0
+咖啡厅,Sunny's Snack Bar & Online Cafe,Sunny's Snack Bar & Online Cafe,0,纳库鲁阿,0.0,0.0,0.0
+咖啡厅,Tui Coffee & Food,Tui Coffee & Food,0,中天海滩,0.0,0.0,0.0
+咖啡厅,internet cafe ,internet cafe ,0,淮亚,0.0,0.0,0.0
+咖啡厅,Bon cafe by kasalong,Bon cafe by kasalong,0,纳库鲁阿,0.0,0.0,0.0
+咖啡厅,Art Cafe Pattaya,Art Cafe Pattaya,0,北芭堤雅,0.0,0.0,0.0
+咖啡厅,The coffee house by honeys,The coffee house by honeys,0,芭堤雅,0.0,0.0,0.0
+咖啡厅,Boncafe Pattaya,Boncafe Pattaya,0,芭堤雅海滩,0.0,0.0,0.0
+咖啡厅,Wan Cafe,Wan Cafe,0,芭堤雅海滩,0.0,0.0,0.0
+咖啡厅,My dear corner,My dear corner,0,帕塔纳克山,0.0,0.0,0.0
+咖啡厅,Mokador cafe,Mokador cafe,0,芭堤雅,0.0,0.0,0.0
+咖啡厅,Dat Coffee Shop,Dat Coffee Shop,0,北芭堤雅,0.0,0.0,0.0
+面包甜点,美塞通糯米饭,美塞通糯米饭,21,芭堤雅近郊,8.2,7.3,7.6
+面包甜点,DQ,DQ,0,芭堤雅近郊,7.8,7.6,7.7
+面包甜点,Bake n' Brew,Bake n' Brew,0,芭堤雅海滩,7.4,8.1,8.1
+面包甜点,Auntie Anne's,Auntie Anne's,0,,7.1,7.1,6.8
+面包甜点,面包公主,面包公主,0,芭堤雅海滩,0.0,0.0,0.0
+面包甜点,Au Bon Pain,Au Bon Pain,0,帕塔纳克山,7.0,7.0,7.0
+面包甜点,Little Mermaid,Little Mermaid,0,芭堤雅中心区,7.0,7.0,7.0
+面包甜点,Boat Bakery,Boat Bakery,0,芭堤雅,7.1,7.1,6.9
+面包甜点,Bakers Oven,Bakers Oven,0,北芭堤雅,0.0,0.0,0.0
+面包甜点,The Balcony,The Balcony,0,芭堤雅海滩,0.0,0.0,0.0
+面包甜点,La Baguette,La Baguette,0,纳库鲁阿,0.0,0.0,0.0
+其他美食,Somsakdi`s Restaurant,Somsakdi`s Restaurant,86,,6.6,6.7,6.7
+其他美食,Green Tree Restaurant,Green Tree Restaurant,0,,7.3,7.2,7.0
+其他美食,上好鱼翅,上好鱼翅,0,芭堤雅中心区,7.0,6.4,6.6
+其他美食,Flare,Flare,0,芭堤雅海滩,8.4,8.4,8.7
+其他美食,HISO Hotel自助餐,HISO Hotel自助餐,0,芭堤雅近郊,6.8,6.9,6.8
+其他美食,LK The Empress Restaurant,LK The Empress Restaurant,0,芭堤雅海滩,0.0,0.0,0.0
+其他美食,Moon River Pub,Moon River Pub,0,芭堤雅海滩,0.0,0.0,0.0
+其他美食,素帕汤水果园,素帕汤水果园,0,芭堤雅,0.0,0.0,0.0
+其他美食,Chen Rong B.B.Q. Buffet,Chen Rong B.B.Q. Buffet,0,芭堤雅海滩,0.0,0.0,0.0
+其他美食,Antica Locande,Antica Locande,0,,0.0,0.0,0.0

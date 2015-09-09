@@ -1,0 +1,309 @@
+法国菜,La Varangue sur Morne,La Varangue sur Morne,0,贝隆布尔,0.0,0.0,0.0
+法国菜,La Potiniere,La Potiniere,0,其他城市,0.0,0.0,0.0
+法国菜,27 St. Louis St.,27 St. Louis St.,0,路易港,0.0,0.0,0.0
+法国菜,Gourmet Grill Mauritius,Gourmet Grill Mauritius,0,沃尔马,0.0,0.0,0.0
+法国菜,Green Island Beach Restaurant,Green Island Beach Restaurant,0,特迪欧杜斯,0.0,0.0,0.0
+法国菜,Around the world restaurants bar lounge,Around the world restaurants bar lounge,0,其他城市,0.0,0.0,0.0
+法国菜,Le Benitier,Le Benitier,0,特鲁奥克斯比奇斯,0.0,0.0,0.0
+法国菜,Les Canisses Resto & Plage,Les Canisses Resto & Plage,0,格兰贝伊,0.0,0.0,0.0
+法国菜,Cote d'Azure,Cote d'Azure,0,其他城市,0.0,0.0,0.0
+法国菜,Le Bar et Vous,Le Bar et Vous,0,特鲁奥克斯比奇斯,0.0,0.0,0.0
+法国菜,Le Dix-neuf,Le Dix-neuf,0,其他城市,0.0,0.0,0.0
+法国菜,The Napoleon Bistrot & Patisserie,The Napoleon Bistrot & Patisserie,0,其他城市,0.0,0.0,0.0
+法国菜,Citronella,Citronella,0,其他城市,0.0,0.0,0.0
+法国菜,La Clef des Champs,La Clef des Champs,0,其他城市,0.0,0.0,0.0
+法国菜,La Madrague,La Madrague,0,其他城市,0.0,0.0,0.0
+法国菜,Labourdonnais,Labourdonnais,0,其他城市,0.0,0.0,0.0
+法国菜,Le Bistrot du Port,Le Bistrot du Port,0,其他城市,0.0,0.0,0.0
+法国菜,Wine Connection,Wine Connection,0,其他城市,0.0,0.0,0.0
+意大利菜,Beach Rouge,Beach Rouge,0,贝尔马尔,6.7,8.1,7.4
+意大利菜,SAPORI意大利餐厅,SAPORI意大利餐厅,0,贝尔马尔,6.8,7.3,6.8
+意大利菜,Botteghita,Botteghita,0,格兰贝伊,0.0,0.0,0.0
+意大利菜,La Palma,La Palma,0,勒莫尼,0.0,0.0,0.0
+意大利菜,Rivoli,Rivoli,0,沃尔马,0.0,0.0,0.0
+意大利菜,La Spiaggia,La Spiaggia,0,其他城市,0.0,0.0,0.0
+意大利菜,"1974, da Antonio e Giulia","1974, da Antonio e Giulia",0,特鲁奥克斯比奇斯,0.0,0.0,0.0
+意大利菜,Roots Est Cafe,Roots Est Cafe,0,格兰贝伊,0.0,0.0,0.0
+意大利菜,Pannarotti's,Pannarotti's,0,其他城市,0.0,0.0,0.0
+意大利菜,Il Gusto,Il Gusto,0,其他城市,0.0,0.0,0.0
+意大利菜,The Corner Bistrot,The Corner Bistrot,0,其他城市,0.0,0.0,0.0
+意大利菜,La Voglia Matta (chez Marco),La Voglia Matta (chez Marco),0,特鲁奥克斯比奇斯,0.0,0.0,0.0
+意大利菜,Paparazzi,Paparazzi,0,格兰贝伊,0.0,0.0,0.0
+意大利菜,Chef Pepe,Chef Pepe,0,其他城市,0.0,0.0,0.0
+意大利菜,Chez Pepe,Chez Pepe,0,其他城市,0.0,0.0,0.0
+意大利菜,La Cigale,La Cigale,0,格兰贝伊,0.0,0.0,0.0
+意大利菜,Luigi's,Luigi's,0,其他城市,0.0,0.0,0.0
+意大利菜,Mamma Mia Restaurant & Pizzeria,Mamma Mia Restaurant & Pizzeria,0,其他城市,0.0,0.0,0.0
+意大利菜,Restaurant 180°,Restaurant 180°,0,毛里求斯岛,0.0,0.0,0.0
+意大利菜,beau champ,beau champ,0,罗德里格斯岛,0.0,0.0,0.0
+其他西餐,Nando's,Nando's,0,路易港,0.0,0.0,0.0
+其他西餐,SAPORI意大利餐厅,SAPORI意大利餐厅,0,贝尔马尔,6.8,7.3,6.8
+其他西餐,Nando's Bagatelle,Nando's Bagatelle,0,世嘉,0.0,0.0,0.0
+其他西餐,AV16,AV16,0,格兰贝伊,0.0,0.0,0.0
+其他西餐,Chez Tino,Chez Tino,0,其他城市,0.0,0.0,0.0
+其他西餐,Four Square,Four Square,0,特鲁奥克斯比奇斯,0.0,0.0,0.0
+其他西餐,"Balikopy, Restaurant Bar Piscine","Balikopy, Restaurant Bar Piscine",0,其他城市,0.0,0.0,0.0
+其他西餐,Le Bistrot & L'Entrecote Steakhouse,Le Bistrot & L'Entrecote Steakhouse,0,沃尔马,0.0,0.0,0.0
+其他西餐,Le Capitaine,Le Capitaine,0,路易港,0.0,0.0,0.0
+其他西餐,7 Cascades,7 Cascades,0,其他城市,0.0,0.0,0.0
+其他西餐,Hidden Reef,Hidden Reef,0,格兰贝伊,0.0,0.0,0.0
+其他西餐,Domaine du Chachet,Domaine du Chachet,0,其他城市,0.0,0.0,0.0
+其他西餐,Russian Hut,Russian Hut,0,格兰贝伊,0.0,0.0,0.0
+其他西餐,La Mediterranee,La Mediterranee,0,其他城市,0.0,0.0,0.0
+其他西餐,Malibu Spur,Malibu Spur,0,格兰贝伊,0.0,0.0,0.0
+其他西餐,Le Saint Aubin,Le Saint Aubin,0,其他城市,0.0,0.0,0.0
+其他西餐,Black Steer,Black Steer,0,路易港,0.0,0.0,0.0
+其他西餐,Barlen's,Barlen's,0,其他城市,0.0,0.0,0.0
+其他西餐,L'Alchimiste,L'Alchimiste,0,其他城市,0.0,0.0,0.0
+其他西餐,Le Cafe des Arts,Le Cafe des Arts,0,其他城市,0.0,0.0,0.0
+其他西餐,Le Lounge,Le Lounge,0,其他城市,0.0,0.0,0.0
+其他西餐,Prime,Prime,0,其他城市,0.0,0.0,0.0
+其他西餐,Ric et Cath Snack,Ric et Cath Snack,0,其他城市,0.0,0.0,0.0
+其他西餐,Cafe Wiener Walzer (Valse de Vienne),Cafe Wiener Walzer (Valse de Vienne),0,其他城市,0.0,0.0,0.0
+其他西餐,Big Willy's,Big Willy's,0,其他城市,0.0,0.0,0.0
+其他西餐,Le Bounganville,Le Bounganville,0,其他城市,0.0,0.0,0.0
+其他西餐,Souvenir Restaurant,Souvenir Restaurant,0,其他城市,0.0,0.0,0.0
+其他西餐,Orchard Spur,Orchard Spur,0,其他城市,0.0,0.0,0.0
+其他西餐,Royaume des Saveurs Restaurant,Royaume des Saveurs Restaurant,0,其他城市,0.0,0.0,0.0
+快餐简餐,毛里求斯TOKYO小吃,毛里求斯TOKYO小吃,0,毛里求斯岛,6.1,6.0,6.2
+快餐简餐,毛里求斯海华酒家,毛里求斯海华酒家,0,格兰贝伊,8.8,8.8,8.8
+快餐简餐,Chopsticks中餐馆,Chopsticks中餐馆,0,贝尔马尔,6.1,7.4,6.7
+快餐简餐,KFC,KFC,0,利康,7.3,7.3,7.3
+快餐简餐,charleys,charleys,0,,7.4,6.7,6.7
+快餐简餐,xia餐厅,xia餐厅,0,,7.4,6.7,7.4
+快餐简餐,Blue Lagoon Café,Blue Lagoon Café,0,特鲁奥克斯比奇斯,0.0,0.0,0.0
+快餐简餐,Blue Bamboo,Blue Bamboo,0,蓝海湾,0.0,0.0,0.0
+快餐简餐,20oSud,20oSud,0,格兰贝伊,0.0,0.0,0.0
+快餐简餐,Le Bougainville,Le Bougainville,0,利康,0.0,0.0,0.0
+快餐简餐,Jeanno Burgers,Jeanno Burgers,0,其他城市,0.0,0.0,0.0
+快餐简餐,Place a Pat,Place a Pat,0,其他城市,0.0,0.0,0.0
+快餐简餐,Le Dodo,Le Dodo,0,格兰贝伊,0.0,0.0,0.0
+快餐简餐,Medium Rare Steakhouse,Medium Rare Steakhouse,0,其他城市,0.0,0.0,0.0
+快餐简餐,The Patch n Parrot Pub and Grill,The Patch n Parrot Pub and Grill,0,其他城市,0.0,0.0,0.0
+快餐简餐,毛里求斯海华餐厅Ocean Hai Hua Restaurant,毛里求斯海华餐厅Ocean Hai Hua Restaurant,0,,0.0,0.0,0.0
+海鲜,Tides Restaurant,Tides Restaurant,0,沃尔马,0.0,0.0,0.0
+海鲜,Le Capitaine,Le Capitaine,0,其他城市,0.0,0.0,0.0
+海鲜,Bella Amigo,Bella Amigo,0,其他城市,0.0,0.0,0.0
+海鲜,Restaurant Amigo,Restaurant Amigo,0,其他城市,0.0,0.0,0.0
+海鲜,La Citronelle Bar-Restaurant,La Citronelle Bar-Restaurant,0,贝隆布尔,0.0,0.0,0.0
+海鲜,Nyeusi Resto - Lounge & Garden,Nyeusi Resto - Lounge & Garden,0,其他城市,0.0,0.0,0.0
+海鲜,Coolen,Coolen,0,贝隆布尔,0.0,0.0,0.0
+海鲜,Restaurant Le Bougainville,Restaurant Le Bougainville,0,蓝海湾,0.0,0.0,0.0
+海鲜,Le grand Lagon,Le grand Lagon,0,其他城市,0.0,0.0,0.0
+海鲜,Restaurant Reve d R,Restaurant Reve d R,0,皮瑞贝瑞,0.0,0.0,0.0
+海鲜,La Cocoteraie,La Cocoteraie,0,格兰贝伊,0.0,0.0,0.0
+海鲜,Sea Lovers,Sea Lovers,0,沃尔马,0.0,0.0,0.0
+海鲜,Le Pêcheur,Le Pêcheur,0,其他城市,0.0,0.0,0.0
+海鲜,Cafe de la Plage,Cafe de la Plage,0,其他城市,0.0,0.0,0.0
+中餐,毛里求斯小四川饭店,毛里求斯小四川饭店,211,格兰贝伊,9.4,9.3,9.4
+中餐,川妹子海鲜火锅川菜馆,川妹子海鲜火锅川菜馆,178,佩雷贝雷海滩,9.4,9.4,9.4
+中餐,东皇饭店,东皇饭店,186,贝尔马尔,8.1,7.5,7.9
+中餐,毛里求斯海华酒家,毛里求斯海华酒家,0,格兰贝伊,8.8,8.8,8.8
+中餐,毛里求斯皇家乐雅美食城,毛里求斯皇家乐雅美食城,0,格兰贝伊,8.4,8.4,8.4
+中餐,唐人饭店,唐人饭店,0,路易港,8.3,7.9,8.6
+中餐,Zub Express Restaurant,Zub Express Restaurant,0,利康,0.0,0.0,0.0
+中餐,Ah youn,Ah youn,0,利康,0.0,0.0,0.0
+中餐,Grand Ocean,Grand Ocean,0,路易港,0.0,0.0,0.0
+中餐,海华酒家,海华酒家,0,格兰贝伊,8.4,8.4,8.4
+中餐,Duck Laundry,Duck Laundry,0,贝尔马尔,6.7,8.1,8.1
+中餐,毛里求斯皇家乐雅美食城,毛里求斯皇家乐雅美食城,0,格兰贝伊,7.7,7.7,7.7
+中餐,Grand Canton Restaurant,Grand Canton Restaurant,0,路易港,0.0,0.0,0.0
+中餐,Le Paradis Epicé,Le Paradis Epicé,0,其他城市,0.0,0.0,0.0
+中餐,Sea Breeze Restaurant,Sea Breeze Restaurant,0,利康,0.0,0.0,0.0
+中餐,Zafran De L'Orient,Zafran De L'Orient,0,小辣椒潘特,0.0,0.0,0.0
+中餐,Cafe Pereybere,Cafe Pereybere,0,佩雷贝雷海滩,0.0,0.0,0.0
+中餐,Vicky Restaurant,Vicky Restaurant,0,其他城市,0.0,0.0,0.0
+中餐,Canton,Canton,0,路易港,0.0,0.0,0.0
+中餐,Xia Restaurant,Xia Restaurant,0,世嘉,0.0,0.0,0.0
+中餐,House of Canton,House of Canton,0,世嘉,0.0,0.0,0.0
+中餐,Hong Kong Palace,Hong Kong Palace,0,其他城市,0.0,0.0,0.0
+中餐,King Dragon,King Dragon,0,世嘉,0.0,0.0,0.0
+中餐,Great Wall Restaurant,Great Wall Restaurant,0,其他城市,0.0,0.0,0.0
+中餐,Talipot Restaurant Bar,Talipot Restaurant Bar,0,格兰贝伊,0.0,0.0,0.0
+中餐,Palais De Chine,Palais De Chine,0,格兰贝伊,0.0,0.0,0.0
+中餐,Symon's Restaurant,Symon's Restaurant,0,其他城市,0.0,0.0,0.0
+中餐,Restaurant Chez Aline,Restaurant Chez Aline,0,路易港,0.0,0.0,0.0
+中餐,Le Palmier,Le Palmier,0,世嘉,0.0,0.0,0.0
+中餐,Ocean Restaurant,Ocean Restaurant,0,利康,0.0,0.0,0.0
+日韩料理,Kimchi House,Kimchi House,0,路易港,0.0,0.0,0.0
+日韩料理,Little Barabar,Little Barabar,0,格兰贝伊,0.0,0.0,0.0
+日韩料理,Sushi Me,Sushi Me,0,世嘉,0.0,0.0,0.0
+日韩料理,Restaurant Sakura,Restaurant Sakura,0,其他城市,0.0,0.0,0.0
+酒吧,The Deck,The Deck,0,,7.8,7.8,7.8
+酒吧,kbar,kbar,0,贝尔马尔,7.4,8.1,8.1
+酒吧,The Boathouse Bar & Grill,The Boathouse Bar & Grill,0,其他城市,0.0,0.0,0.0
+酒吧,Barachois Restaurant at the Prince Maurice Hotel,Barachois Restaurant at the Prince Maurice Hotel,0,其他城市,0.0,0.0,0.0
+酒吧,Le Palais de Barbizon,Le Palais de Barbizon,0,其他城市,0.0,0.0,0.0
+酒吧,Moustache Bistro,Moustache Bistro,0,塔马林,0.0,0.0,0.0
+酒吧,R & B Cake Studio,R & B Cake Studio,0,其他城市,0.0,0.0,0.0
+酒吧,Domaine La Gaulette / Authentik Sirokan,Domaine La Gaulette / Authentik Sirokan,0,黑河,0.0,0.0,0.0
+酒吧,Grain d'Sel,Grain d'Sel,0,世嘉,0.0,0.0,0.0
+酒吧,Les Copains d'Abord,Les Copains d'Abord,0,马可邦,0.0,0.0,0.0
+酒吧,Mavericks Beach Bar and Grill,Mavericks Beach Bar and Grill,0,佩雷贝雷海滩,0.0,0.0,0.0
+酒吧,Annabella's,Annabella's,0,其他城市,0.0,0.0,0.0
+酒吧,Le Whatever,Le Whatever,0,塔马林,0.0,0.0,0.0
+酒吧,Cote Jasmin - jardin bar,Cote Jasmin - jardin bar,0,,7.1,7.0,7.0
+酒吧,ORANGE,ORANGE,0,利康,0.0,0.0,0.0
+更多亚洲菜,Happy Rajah,Happy Rajah,0,格兰贝伊,8.5,8.5,8.3
+更多亚洲菜,M.I.X.E,M.I.X.E,0,贝尔马尔,6.7,8.1,8.1
+更多亚洲菜,Amari By Vineet,Amari By Vineet,0,贝尔马尔,6.7,7.4,8.1
+更多亚洲菜,Shabaan Snack,Shabaan Snack,0,世嘉,0.0,0.0,0.0
+更多亚洲菜,Resto Le Brisant,Resto Le Brisant,0,小辣椒潘特,0.0,0.0,0.0
+更多亚洲菜,Chez Ram,Chez Ram,0,格兰贝伊,0.0,0.0,0.0
+更多亚洲菜,Ippocampo Resto Bar,Ippocampo Resto Bar,0,小辣椒潘特,0.0,0.0,0.0
+更多亚洲菜,Namaste Kathmandu,Namaste Kathmandu,0,马可邦,0.0,0.0,0.0
+更多亚洲菜,Chez meilee,Chez meilee,0,其他城市,0.0,0.0,0.0
+更多亚洲菜,Chennai Bhavan,Chennai Bhavan,0,世嘉,0.0,0.0,0.0
+更多亚洲菜,Royal Spice,Royal Spice,0,黑河,0.0,0.0,0.0
+更多亚洲菜,Ousaporn Thai Food,Ousaporn Thai Food,0,其他城市,0.0,0.0,0.0
+更多亚洲菜,Safran,Safran,0,其他城市,0.0,0.0,0.0
+更多亚洲菜,La Bonne Marmite,La Bonne Marmite,0,路易港,0.0,0.0,0.0
+更多亚洲菜,Le Tandoor,Le Tandoor,0,其他城市,0.0,0.0,0.0
+更多亚洲菜,Indra,Indra,0,其他城市,0.0,0.0,0.0
+更多亚洲菜,Saveur Des Iles,Saveur Des Iles,0,其他城市,0.0,0.0,0.0
+更多亚洲菜,Masala Restaurant,Masala Restaurant,0,特迪欧杜斯,0.0,0.0,0.0
+更多亚洲菜,Tandoori Express,Tandoori Express,0,路易港,0.0,0.0,0.0
+更多亚洲菜,Happy Rajah,Happy Rajah,0,世嘉,0.0,0.0,0.0
+更多亚洲菜,AlShisha,AlShisha,0,利康,0.0,0.0,0.0
+更多亚洲菜,Kanako,Kanako,0,其他城市,0.0,0.0,0.0
+更多亚洲菜,La Case Mama,La Case Mama,0,其他城市,0.0,0.0,0.0
+更多亚洲菜,Madame Larose,Madame Larose,0,其他城市,0.0,0.0,0.0
+更多亚洲菜,Wang Thai,Wang Thai,0,其他城市,0.0,0.0,0.0
+更多亚洲菜,Khazana-Platter Of Indian Cuisine,Khazana-Platter Of Indian Cuisine,0,特鲁奥克斯比奇斯,0.0,0.0,0.0
+更多亚洲菜,Thai Matupayasch,Thai Matupayasch,0,其他城市,0.0,0.0,0.0
+咖啡厅,复古 ICI大堂,复古 ICI大堂,0,贝尔马尔,6.7,7.4,7.4
+咖啡厅,Cafe Muller,Cafe Muller,0,其他城市,0.0,0.0,0.0
+咖啡厅,Coffee Garden,Coffee Garden,0,格兰贝伊,0.0,0.0,0.0
+咖啡厅,Blue Penny Cafe,Blue Penny Cafe,0,其他城市,0.0,0.0,0.0
+咖啡厅,Palm Beach Cafe,Palm Beach Cafe,0,沃尔马,0.0,0.0,0.0
+咖啡厅,corner lounge,corner lounge,0,,7.0,7.0,7.0
+咖啡厅,Food Lovers Market Cafe,Food Lovers Market Cafe,0,,6.8,6.6,6.8
+咖啡厅,Sunset Cafe,Sunset Cafe,0,格兰贝伊,0.0,0.0,0.0
+咖啡厅,Cafe L'Exquis,Cafe L'Exquis,0,,6.9,6.9,6.9
+咖啡厅,La Cafeteria Pereybere,La Cafeteria Pereybere,0,其他城市,0.0,0.0,0.0
+披萨,Debonairs Pizza,Debonairs Pizza,0,路易港,0.0,0.0,0.0
+披萨,Pizza & Pasta,Pizza & Pasta,0,其他城市,0.0,0.0,0.0
+披萨,Pizza Hut,Pizza Hut,0,路易港,0.0,0.0,0.0
+面包甜点,99 flake,99 flake,0,毛里求斯岛,6.7,6.7,6.7
+面包甜点,Café Bellevue Tamarin,Café Bellevue Tamarin,0,塔马林,0.0,0.0,0.0
+面包甜点,Milky Lane and co,Milky Lane and co,0,其他城市,0.0,0.0,0.0
+面包甜点,Mammamia Che Gelato,Mammamia Che Gelato,0,其他城市,0.0,0.0,0.0
+面包甜点,Gelataria Love,Gelataria Love,0,其他城市,0.0,0.0,0.0
+烧烤,Restaurant La Plancha,Restaurant La Plancha,0,其他城市,0.0,0.0,0.0
+烧烤,Blacksteers,Blacksteers,0,路易港,0.0,0.0,0.0
+烧烤,L'Assiette du Nord,L'Assiette du Nord,0,其他城市,0.0,0.0,0.0
+其他美食,Chez Rosy - Le Gris Gris Restaurant,Chez Rosy - Le Gris Gris Restaurant,0,其他城市,7.8,7.5,8.1
+其他美食,The Courtyard,The Courtyard,0,路易港,0.0,0.0,0.0
+其他美食,Lambic,Lambic,0,路易港,0.0,0.0,0.0
+其他美食,Di Sab,Di Sab,0,其他城市,0.0,0.0,0.0
+其他美食,First Restaurant,First Restaurant,0,路易港,0.0,0.0,0.0
+其他美食,Camaron Rouge,Camaron Rouge,0,佩雷贝雷海滩,0.0,0.0,0.0
+其他美食,Gin'ja Mauritian Restaurant,Gin'ja Mauritian Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,Alouda Pillay,Alouda Pillay,0,路易港,6.9,6.7,6.7
+其他美食,La Rose des Vents,La Rose des Vents,0,路易港,0.0,0.0,0.0
+其他美食,Infinity Blue,Infinity Blue,0,贝隆布尔,0.0,0.0,0.0
+其他美食,L'Escale,L'Escale,0,路易港,0.0,0.0,0.0
+其他美食,Hippocampe,Hippocampe,0,其他城市,0.0,0.0,0.0
+其他美食,La Vieille Rouge,La Vieille Rouge,0,格兰贝伊,0.0,0.0,0.0
+其他美食,Paul & Virginie,Paul & Virginie,0,沃尔马,0.0,0.0,0.0
+其他美食,Sunset,Sunset,0,贝隆布尔,0.0,0.0,0.0
+其他美食,18 Cafe,18 Cafe,0,其他城市,0.0,0.0,0.0
+其他美食,Le Marlin Bleu,Le Marlin Bleu,0,其他城市,0.0,0.0,0.0
+其他美食,La Toque Blanche,La Toque Blanche,0,其他城市,0.0,0.0,0.0
+其他美食,Cilantro,Cilantro,0,其他城市,0.0,0.0,0.0
+其他美食,La Caprese,La Caprese,0,其他城市,0.0,0.0,0.0
+其他美食,L'Ajoupa,L'Ajoupa,0,马可邦,0.0,0.0,0.0
+其他美食,Namaste,Namaste,0,路易港,0.0,0.0,0.0
+其他美食,Comlone Restaurant,Comlone Restaurant,0,利康,0.0,0.0,0.0
+其他美食,L'Espadon,L'Espadon,0,贝隆布尔,0.0,0.0,0.0
+其他美食,Comme chez Nous,Comme chez Nous,0,贝隆布尔,0.0,0.0,0.0
+其他美食,Chez Patrick,Chez Patrick,0,马可邦,0.0,0.0,0.0
+其他美食,Mystic Masala,Mystic Masala,0,路易港,0.0,0.0,0.0
+其他美食,Baystone Restaurant,Baystone Restaurant,0,格兰贝伊,0.0,0.0,0.0
+其他美食,Escale Creole,Escale Creole,0,其他城市,0.0,0.0,0.0
+其他美食,Cabane Du Filao,Cabane Du Filao,0,格兰贝伊,0.0,0.0,0.0
+其他美食,7 Cascades Restaurant,7 Cascades Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,La Flore Mauricienne (Gourmandise D'Anne),La Flore Mauricienne (Gourmandise D'Anne),0,世嘉,0.0,0.0,0.0
+其他美食,Le Manoir,Le Manoir,0,其他城市,0.0,0.0,0.0
+其他美食,"Le tropical, chez Jeanette","Le tropical, chez Jeanette",0,其他城市,0.0,0.0,0.0
+其他美食,Mazavaroo,Mazavaroo,0,其他城市,0.0,0.0,0.0
+其他美食,Esprit Libre,Esprit Libre,0,格兰贝伊,0.0,0.0,0.0
+其他美食,"Origine restaurant, Anahita the resort","Origine restaurant, Anahita the resort",0,其他城市,0.0,0.0,0.0
+其他美食,saveurs des isle,saveurs des isle,0,其他城市,0.0,0.0,0.0
+其他美食,Le Thatches,Le Thatches,0,沃尔马,0.0,0.0,0.0
+其他美食,Le Four a Chaud,Le Four a Chaud,0,特迪欧杜斯,0.0,0.0,0.0
+其他美食,blue bamboo,blue bamboo,0,蓝海湾,0.0,0.0,0.0
+其他美食,La Colombe,La Colombe,0,马可邦,0.0,0.0,0.0
+其他美食,Le Château de Bel Ombre,Le Château de Bel Ombre,0,贝隆布尔,0.0,0.0,0.0
+其他美食,Spring Restaurant,Spring Restaurant,0,世嘉,0.0,0.0,0.0
+其他美食,Chateau Mon Desir,Chateau Mon Desir,0,其他城市,0.0,0.0,0.0
+其他美食,Divino,Divino,0,其他城市,0.0,0.0,0.0
+其他美食,Gilda Restaurant,Gilda Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,La Maison d'Eté Restaurant,La Maison d'Eté Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,L'archipel Restaurant,L'archipel Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,Le Flamboyant Restaurant,Le Flamboyant Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,Restaurant du Sud,Restaurant du Sud,0,其他城市,0.0,0.0,0.0
+其他美食,Rochester,Rochester,0,其他城市,0.0,0.0,0.0
+其他美食,Leslie Restaurant,Leslie Restaurant,0,利康,0.0,0.0,0.0
+其他美食,Cocoloko,Cocoloko,0,贝隆布尔,0.0,0.0,0.0
+其他美食,Ebene Spice,Ebene Spice,0,世嘉,0.0,0.0,0.0
+其他美食,La Rougaille Creole,La Rougaille Creole,0,格兰贝伊,0.0,0.0,0.0
+其他美食,Sunset Garden,Sunset Garden,0,利康,0.0,0.0,0.0
+其他美食,Le Papayou,Le Papayou,0,利康,0.0,0.0,0.0
+其他美食,Twin's Garden,Twin's Garden,0,利康,0.0,0.0,0.0
+其他美食,Indian Fusion Restaurant,Indian Fusion Restaurant,0,佩雷贝雷海滩,0.0,0.0,0.0
+其他美食,La Vielle Rouge,La Vielle Rouge,0,其他城市,0.0,0.0,0.0
+其他美食,The Deck,The Deck,0,其他城市,0.0,0.0,0.0
+其他美食,Restaurant du Vieux Conseil,Restaurant du Vieux Conseil,0,路易港,0.0,0.0,0.0
+其他美食,Alchemy,Alchemy,0,格兰贝伊,0.0,0.0,0.0
+其他美食,Chez Tante Athalie,Chez Tante Athalie,0,贝隆布尔,0.0,0.0,0.0
+其他美食,Dhal Puris Stall,Dhal Puris Stall,0,路易港,0.0,0.0,0.0
+其他美食,Restaurant Coralie la Diffe'rence,Restaurant Coralie la Diffe'rence,0,其他城市,0.0,0.0,0.0
+其他美食,Ginger Thai,Ginger Thai,0,其他城市,0.0,0.0,0.0
+其他美食,Ti Kouloir,Ti Kouloir,0,格兰贝伊,0.0,0.0,0.0
+其他美食,Balafon,Balafon,0,贝隆布尔,0.0,0.0,0.0
+其他美食,La Villa Garden,La Villa Garden,0,其他城市,0.0,0.0,0.0
+其他美食,Restaurant Puchon,Restaurant Puchon,0,其他城市,0.0,0.0,0.0
+其他美食,L'Impasse,L'Impasse,0,沃尔马,0.0,0.0,0.0
+其他美食,Moti Mahal,Moti Mahal,0,其他城市,0.0,0.0,0.0
+其他美食,L'atelier Dumont,L'atelier Dumont,0,世嘉,0.0,0.0,0.0
+其他美食,Aanari restaurant,Aanari restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,Aux 2 Frères,Aux 2 Frères,0,其他城市,0.0,0.0,0.0
+其他美食,Bois Cheri,Bois Cheri,0,其他城市,0.0,0.0,0.0
+其他美食,Chez Ram,Chez Ram,0,其他城市,0.0,0.0,0.0
+其他美食,Etoile D'or,Etoile D'or,0,其他城市,0.0,0.0,0.0
+其他美食,Flying Dodo Brewing Company,Flying Dodo Brewing Company,0,其他城市,0.0,0.0,0.0
+其他美食,Il Duca,Il Duca,0,世嘉,0.0,0.0,0.0
+其他美食,Jardin De Beau Vallon,Jardin De Beau Vallon,0,其他城市,0.0,0.0,0.0
+其他美食,L57 beach bar,L57 beach bar,0,其他城市,0.0,0.0,0.0
+其他美食,La Cravache d'Or,La Cravache d'Or,0,其他城市,0.0,0.0,0.0
+其他美食,La Maison d’Eté Restaurant,La Maison d’Eté Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,La Marmite des Iles,La Marmite des Iles,0,其他城市,0.0,0.0,0.0
+其他美食,La Marmite Mauricienne,La Marmite Mauricienne,0,其他城市,0.0,0.0,0.0
+其他美食,Le bonne chute,Le bonne chute,0,其他城市,0.0,0.0,0.0
+其他美食,Le Capre,Le Capre,0,其他城市,0.0,0.0,0.0
+其他美食,Le Fangourin Restaurant,Le Fangourin Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,Le Pescatore,Le Pescatore,0,其他城市,0.0,0.0,0.0
+其他美食,Le Poivron Vert,Le Poivron Vert,0,其他城市,0.0,0.0,0.0
+其他美食,Les Sirandanes,Les Sirandanes,0,其他城市,0.0,0.0,0.0
+其他美食,Mourouk Ebony Hotel Beach Restaurant,Mourouk Ebony Hotel Beach Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,Paul et Virginie,Paul et Virginie,0,其他城市,0.0,0.0,0.0
+其他美食,Resto Bar,Resto Bar,0,特鲁奥克斯比奇斯,0.0,0.0,0.0
+其他美食,Simply India,Simply India,0,其他城市,0.0,0.0,0.0
+其他美食,Snack 2012-Mini Resto,Snack 2012-Mini Resto,0,其他城市,0.0,0.0,0.0
+其他美食,Sirokan Restaurant,Sirokan Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,Stephanie Snack et Restaurant,Stephanie Snack et Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,Taj Snack,Taj Snack,0,其他城市,0.0,0.0,0.0
+其他美食,Tapas Beach Restaurant,Tapas Beach Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,Thai Foon,Thai Foon,0,其他城市,0.0,0.0,0.0
+其他美食,The Beach House Restaurant & Beach Bar,The Beach House Restaurant & Beach Bar,0,格兰贝伊,0.0,0.0,0.0
+其他美食,C-Lovers Restaurant,C-Lovers Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,L57,L57,0,格兰贝伊,0.0,0.0,0.0
+其他美食,La Flore Mauricienne,La Flore Mauricienne,0,路易港,0.0,0.0,0.0
+其他美食,Maharajah,Maharajah,0,其他城市,0.0,0.0,0.0
+其他美食,Sunset Snack,Sunset Snack,0,利康,0.0,0.0,0.0
+其他美食,Wine connection,Wine connection,0,格兰贝伊,0.0,0.0,0.0
+其他美食,Chez Bridget,Chez Bridget,0,其他城市,0.0,0.0,0.0
+其他美食,Chez M,Chez M,0,其他城市,0.0,0.0,0.0
+其他美食,Le Sultan Restaurant & Lounge,Le Sultan Restaurant & Lounge,0,路易港,0.0,0.0,0.0
+其他美食,Monte Carlo,Monte Carlo,0,马可邦,0.0,0.0,0.0

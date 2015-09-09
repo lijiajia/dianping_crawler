@@ -1,0 +1,1450 @@
+意大利菜,Trattoria Barca Bianca,Trattoria Barca Bianca,0,05.城市中心-贝尔瓦罗斯,8.5,8.0,8.5
+意大利菜,Comme Chez Soi,Comme Chez Soi,0,05.城市中心-贝尔瓦罗斯,7.5,7.5,8.4
+意大利菜,Vapiano,Vapiano,0,05.城市中心-贝尔瓦罗斯,8.2,8.2,8.2
+意大利菜,Il Treno,Il Treno,0,02.布达佩斯,8.0,8.0,8.0
+意大利菜,Caffe GianMario,Caffe GianMario,0,06.泰莱萨瓦罗,7.9,7.3,7.3
+意大利菜,Fausto's Osteria,Fausto's Osteria,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+意大利菜,Trattoria Toscana,Trattoria Toscana,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Cafe Jubilee Budapest,Cafe Jubilee Budapest,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+意大利菜,Cucina,Cucina,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Terzo Cerchio (il),Terzo Cerchio (il),0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+意大利菜,Da Mario Budapest,Da Mario Budapest,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Osteria Italiana L'ARANCETO,Osteria Italiana L'ARANCETO,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,La Coppola,La Coppola,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Ciao ciao Trattoria,Ciao ciao Trattoria,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+意大利菜,L'Enoteca Wine Bar & Restaurant,L'Enoteca Wine Bar & Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Capri Pizzéria és Kávézó,Capri Pizzéria és Kávézó,0,04.乌伊佩斯特,0.0,0.0,0.0
+意大利菜,Etna Ristorante & Pizzeria,Etna Ristorante & Pizzeria,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+意大利菜,Den Haag Pizzeria,Den Haag Pizzeria,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+意大利菜,The Italian Kitchen,The Italian Kitchen,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,02.布达佩斯,0.0,0.0,0.0
+意大利菜,Trinakria Ristorante,Trinakria Ristorante,0,08.乔瑟法罗斯,0.0,0.0,0.0
+意大利菜,Don Francesco,Don Francesco,0,01.Castle District-Budavá,0.0,0.0,0.0
+意大利菜,Da Lello,Da Lello,0,12.海伊韦德,0.0,0.0,0.0
+意大利菜,Mamma Mia Snack Bar,Mamma Mia Snack Bar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+意大利菜,Herly Burly,Herly Burly,0,01.Castle District-Budavá,0.0,0.0,0.0
+意大利菜,Tom-George,Tom-George,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Pomo D'Oro,Pomo D'Oro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,A Presto,A Presto,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+意大利菜,Trattoria Gusto,Trattoria Gusto,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+意大利菜,Ristorante Krizia,Ristorante Krizia,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+意大利菜,Millennium da Pippo,Millennium da Pippo,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+意大利菜,La Cucina,La Cucina,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+意大利菜,Pasta Bella Tesztabar,Pasta Bella Tesztabar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+意大利菜,2 Spaghi,2 Spaghi,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+意大利菜,Trattoria Venezia,Trattoria Venezia,0,08.乔瑟法罗斯,0.0,0.0,0.0
+意大利菜,Caffé Torino,Caffé Torino,0,08.乔瑟法罗斯,0.0,0.0,0.0
+意大利菜,Okay Italia,Okay Italia,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+意大利菜,Pizza EATaliano,Pizza EATaliano,0,01.Castle District-Budavá,0.0,0.0,0.0
+意大利菜,Alessio,Alessio,0,02.布达佩斯,0.0,0.0,0.0
+意大利菜,Il Pastaio,Il Pastaio,0,20.佩斯特赛博特,0.0,0.0,0.0
+意大利菜,Rocco's World Caffe,Rocco's World Caffe,0,20.佩斯特赛博特,0.0,0.0,0.0
+意大利菜,TRIO Pizza,TRIO Pizza,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+意大利菜,Bocelli Pizzeria Italia,Bocelli Pizzeria Italia,0,02.布达佩斯,0.0,0.0,0.0
+意大利菜,Il Pittore,Il Pittore,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,LOCANDA CASANOVA,LOCANDA CASANOVA,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Dar Porchettaro,Dar Porchettaro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,La Trattoria,La Trattoria,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Pizza EATaliano,Pizza EATaliano,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+意大利菜,IL BASILICO,IL BASILICO,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+意大利菜,Happy Bank Tesztahaz,Happy Bank Tesztahaz,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+意大利菜,Etna 2,Etna 2,0,08.乔瑟法罗斯,0.0,0.0,0.0
+意大利菜,McTels,McTels,0,11.尤布达,0.0,0.0,0.0
+意大利菜,Okay Italia Mammut,Okay Italia Mammut,0,02.布达佩斯,0.0,0.0,0.0
+意大利菜,Due Fratelli,Due Fratelli,0,02.布达佩斯,0.0,0.0,0.0
+意大利菜,Ristorante Via Luna,Ristorante Via Luna,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+意大利菜,Osteria Undici,Osteria Undici,0,04.乌伊佩斯特,0.0,0.0,0.0
+意大利菜,Da Raffelo,Da Raffelo,0,22.布达福克-泰特尼,0.0,0.0,0.0
+意大利菜,Budapest Atrium Cafe,Budapest Atrium Cafe,0,其他,0.0,0.0,0.0
+意大利菜,Cafe Zenit,Cafe Zenit,0,其他,0.0,0.0,0.0
+意大利菜,Leno Classic,Leno Classic,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Vesuvio Restaurant,Vesuvio Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Jerney Italian Wine Bar Bistro,Jerney Italian Wine Bar Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Pizza EATaliano,Pizza EATaliano,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Okay Italia Il Classico,Okay Italia Il Classico,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Costa Coffee Eiffel Ter Irodahaz,Costa Coffee Eiffel Ter Irodahaz,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+意大利菜,Queen Pizza & Pub Budapesten,Queen Pizza & Pub Budapesten,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+意大利菜,Ok Italia,Ok Italia,0,08.乔瑟法罗斯,0.0,0.0,0.0
+意大利菜,Trattoria Restaurant,Trattoria Restaurant,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+意大利菜,R14 Bisztró,R14 Bisztró,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+意大利菜,Fonte Restaurant & Pizzeria,Fonte Restaurant & Pizzeria,0,11.尤布达,0.0,0.0,0.0
+意大利菜,Veranda,Veranda,0,11.尤布达,0.0,0.0,0.0
+意大利菜,Pasta al Lago,Pasta al Lago,0,14.佐格洛,0.0,0.0,0.0
+意大利菜,Bocanova,Bocanova,0,14.佐格洛,0.0,0.0,0.0
+意大利菜,Bonfini Garden Restaurant,Bonfini Garden Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+意大利菜,Abboccato,Abboccato,0,02.布达佩斯,0.0,0.0,0.0
+意大利菜,Casa Piadina,Casa Piadina,0,02.布达佩斯,0.0,0.0,0.0
+意大利菜,Spazio Caffe Manuel,Spazio Caffe Manuel,0,布达佩斯机场,0.0,0.0,0.0
+意大利菜,Rapido Fast & Good,Rapido Fast & Good,0,布达佩斯机场,0.0,0.0,0.0
+意大利菜,TRIO Pizza,TRIO Pizza,0,10.克班雅,0.0,0.0,0.0
+意大利菜,Randevu Etterm,Randevu Etterm,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+意大利菜,Pizza King,Pizza King,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+意大利菜,Negroni,Negroni,0,14.佐格洛,0.0,0.0,0.0
+意大利菜,Pizza Marzano,Pizza Marzano,0,20.佩斯特赛博特,0.0,0.0,0.0
+意大利菜,Osteria Numero Undici,Osteria Numero Undici,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+意大利菜,Sapore Italiano,Sapore Italiano,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Bella Italia,Bella Italia,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Bottega della Famiglia,Bottega della Famiglia,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+意大利菜,Ristorante Sole D'Italia,Ristorante Sole D'Italia,0,20.佩斯特赛博特,0.0,0.0,0.0
+意大利菜,La Sosta,La Sosta,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+法国菜,spoon,spoon,0,其他,7.0,8.4,8.3
+法国菜,Paris Budapest Bar and Restaurant,Paris Budapest Bar and Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+法国菜,Vintage Garden,Vintage Garden,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+法国菜,Le Bourbon,Le Bourbon,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+法国菜,Bistro Deryne,Bistro Deryne,0,01.Castle District-Budavá,0.0,0.0,0.0
+法国菜,Csalogany 26 Etterem,Csalogany 26 Etterem,0,01.Castle District-Budavá,0.0,0.0,0.0
+法国菜,Rivalda Cafe & Restaurant,Rivalda Cafe & Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+法国菜,Petrus Restaurant,Petrus Restaurant,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+法国菜,Pavillon de Paris,Pavillon de Paris,0,01.Castle District-Budavá,0.0,0.0,0.0
+法国菜,Cafe Vian Gozsdu,Cafe Vian Gozsdu,0,04.乌伊佩斯特,0.0,0.0,0.0
+法国菜,Araz Restaurant Budapest,Araz Restaurant Budapest,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+法国菜,Hoppá Restaurant,Hoppá Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+法国菜,La Perle Noire Restaurant and Lounge,La Perle Noire Restaurant and Lounge,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+法国菜,LouLou Restaurant,LouLou Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+法国菜,Paul's Bistro,Paul's Bistro,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+法国菜,Atakam Bistro and Restaurant,Atakam Bistro and Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+法国菜,Gomb Kavezo,Gomb Kavezo,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+法国菜,Restaurant Balzac35,Restaurant Balzac35,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+法国菜,Café Dumas,Café Dumas,0,01.Castle District-Budavá,0.0,0.0,0.0
+法国菜,Brasserie La Perle,Brasserie La Perle,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+法国菜,nU bistro & l'Bor,nU bistro & l'Bor,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+法国菜,Chess Restaurant,Chess Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+法国菜,M. Restaurant,M. Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+法国菜,A' Table,A' Table,0,02.布达佩斯,0.0,0.0,0.0
+法国菜,Etage Restaurant,Etage Restaurant,0,02.布达佩斯,0.0,0.0,0.0
+法国菜,Chez Daniel,Chez Daniel,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+法国菜,Cafe Provence,Cafe Provence,0,02.布达佩斯,0.0,0.0,0.0
+法国菜,Nad'or Boutique Bistro,Nad'or Boutique Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+法国菜,Le Cardinal,Le Cardinal,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+墨西哥菜,Arriba Taqueria,Arriba Taqueria,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+墨西哥菜,Burrita Bar,Burrita Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+墨西哥菜,Mezcal Mexican Restaurant,Mezcal Mexican Restaurant,0,20.佩斯特赛博特,0.0,0.0,0.0
+墨西哥菜,Gringos Amigos BUDAPEST,Gringos Amigos BUDAPEST,0,12.海伊韦德,0.0,0.0,0.0
+墨西哥菜,Ellátókert Taqueria,Ellátókert Taqueria,0,02.布达佩斯,0.0,0.0,0.0
+墨西哥菜,Burger House Óbuda,Burger House Óbuda,0,03.欧布达,0.0,0.0,0.0
+墨西哥菜,Tacos Locos,Tacos Locos,0,布达佩斯机场,0.0,0.0,0.0
+墨西哥菜,Chili Bistro,Chili Bistro,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+墨西哥菜,El Rapido,El Rapido,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Paprika,Paprika,0,14.佐格洛,7.9,7.9,7.6
+其他西餐,Cyrano,Cyrano,0,05.城市中心-贝尔瓦罗斯,8.0,8.2,8.0
+其他西餐,Regi Sipos,Regi Sipos,0,03.欧布达,8.5,8.5,8.5
+其他西餐,Asztalka,Asztalka,0,01.Castle District-Budavá,8.3,8.3,8.3
+其他西餐,Marvelosa,Marvelosa,0,01.Castle District-Budavá,8.4,8.4,8.4
+其他西餐,Koleves,Koleves,0,07.爱瑟贝瓦罗斯,8.3,8.3,8.3
+其他西餐,Kiskakukk Etterem,Kiskakukk Etterem,0,13.玛格丽特昂亚尔佛尔德,7.5,7.5,7.5
+其他西餐,Kehli,Kehli,0,03.欧布达,7.5,7.5,7.5
+其他西餐,Hungarikum Bisztro,Hungarikum Bisztro,0,05.城市中心-贝尔瓦罗斯,7.5,7.5,7.5
+其他西餐,Cafe 57 Restaurant,Cafe 57 Restaurant,0,02.布达佩斯,8.3,8.3,8.3
+其他西餐,Pest-Buda Bistro,Pest-Buda Bistro,0,01.Castle District-Budavá,8.3,8.3,7.4
+其他西餐,sandwich guru,sandwich guru,0,02.布达佩斯,8.2,8.2,7.4
+其他西餐,21 Magyar Vendeglo,21 Magyar Vendeglo,0,01.Castle District-Budavá,6.7,7.5,7.5
+其他西餐,ven betyar Vendeglo,ven betyar Vendeglo,0,05.城市中心-贝尔瓦罗斯,7.3,7.3,7.3
+其他西餐,Tukory Etterem,Tukory Etterem,0,05.城市中心-贝尔瓦罗斯,7.9,7.3,7.3
+其他西餐,Dubarry Restaurant,Dubarry Restaurant,0,05.城市中心-贝尔瓦罗斯,7.5,7.5,7.5
+其他西餐,Cafe Vian Bisztro,Cafe Vian Bisztro,0,05.城市中心-贝尔瓦罗斯,7.4,7.4,8.3
+其他西餐,Fiktiv Pub,Fiktiv Pub,0,08.乔瑟法罗斯,7.9,7.3,7.3
+其他西餐,Bajor Sarok Sorozo es Etterem,Bajor Sarok Sorozo es Etterem,0,21.切派尔,6.7,7.5,6.7
+其他西餐,Léhűtő Craft Beer Bar,Léhűtő Craft Beer Bar,0,07.爱瑟贝瓦罗斯,6.8,6.8,6.8
+其他西餐,Central Kavehaz,Central Kavehaz,0,05.城市中心-贝尔瓦罗斯,6.7,7.5,6.7
+其他西餐,Cafe Pio,Cafe Pio,0,05.城市中心-贝尔瓦罗斯,7.5,8.4,7.5
+其他西餐,Murci Wine Bar,Murci Wine Bar,0,05.城市中心-贝尔瓦罗斯,7.5,7.5,8.4
+其他西餐,Fresco Liszt Cafe & Lounge,Fresco Liszt Cafe & Lounge,0,06.泰莱萨瓦罗,6.7,7.4,7.4
+其他西餐,Onyx Restaurant,Onyx Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Aranyszarvas,Aranyszarvas,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Borkonyha WineKitchen,Borkonyha WineKitchen,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Gresham Restaurant,Gresham Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Hunyadi Etterem Restaurant,Hunyadi Etterem Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Red Pepper,Red Pepper,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Tigris Restaurant,Tigris Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Budavari Retesvar,Budavari Retesvar,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Robinson Restaurant,Robinson Restaurant,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,Matrjoska bisztro,Matrjoska bisztro,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Ferenc Jozsef sorozo,Ferenc Jozsef sorozo,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Bohemia Bistro,Bohemia Bistro,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Nagyi Palacsintazoja,Nagyi Palacsintazoja,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Epiteszpince,Epiteszpince,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Zeller Bistro,Zeller Bistro,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Cafe Jubilee Budapest,Cafe Jubilee Budapest,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Voros Postakocsi Restaurant,Voros Postakocsi Restaurant,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,ZIZI Bubbles & Tapas,ZIZI Bubbles & Tapas,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Hummus Bar,Hummus Bar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Culinaris,Culinaris,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Trofea Grill Etterem,Trofea Grill Etterem,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Bocadillo Cafe,Bocadillo Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Csarnok Vendeglo,Csarnok Vendeglo,0,其他,0.0,0.0,0.0
+其他西餐,BEM Etterem Sorozo,BEM Etterem Sorozo,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Marsall,Marsall,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Becsiszelet Vendeglo,Becsiszelet Vendeglo,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Szaft,Szaft,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,Ötkert,Ötkert,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Basil Ica Salad and Pancake Bar,Basil Ica Salad and Pancake Bar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Melba,Melba,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Spoon Cafe & Lounge,Spoon Cafe & Lounge,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Magyar Ízek Magyar Háza,Magyar Ízek Magyar Háza,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Restaurant Zsakbamacska,Restaurant Zsakbamacska,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Rezkakas Bistro,Rezkakas Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Vagon Restaurant,Vagon Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Gerbeaud,Gerbeaud,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Fausto's Ristorante and Osteria,Fausto's Ristorante and Osteria,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Hungaricum Dessert,Hungaricum Dessert,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,The Imperator,The Imperator,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Eleszto,Eleszto,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Pata Negra - Pest,Pata Negra - Pest,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Boutiq Bar,Boutiq Bar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Mak Bistro,Mak Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Venhajo-Etterem,Venhajo-Etterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Trofea Grill Restaurant in the City,Trofea Grill Restaurant in the City,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Borsso Bistro,Borsso Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Stex,Stex,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Aszu Etterem,Aszu Etterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Prime Steak and Wine,Prime Steak and Wine,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Kek Rozsa,Kek Rozsa,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Castro Bistro,Castro Bistro,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Kadar etkezde,Kadar etkezde,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Stex Alfred sorozo es etterem,Stex Alfred sorozo es etterem,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Polo Pub,Polo Pub,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Columbus Pub,Columbus Pub,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Trófea Grill Restaurant Újbuda,Trófea Grill Restaurant Újbuda,0,11.尤布达,0.0,0.0,0.0
+其他西餐,La Botte,La Botte,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Dunacorso Restaurant,Dunacorso Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Fulemule Etterem,Fulemule Etterem,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Larus Restaurant,Larus Restaurant,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Central Bistro & Bar,Central Bistro & Bar,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Klassz,Klassz,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Belgian Brasserie Henri,Belgian Brasserie Henri,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Huszar Etterem,Huszar Etterem,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Chef Cafe,Chef Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,La Plaza Restaurant,La Plaza Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Művész Kávéház,Művész Kávéház,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Kiado Kocsma,Kiado Kocsma,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Kakas Etterem,Kakas Etterem,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Biarritz,Biarritz,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Fakanal Etterem,Fakanal Etterem,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Thokoly Etterem,Thokoly Etterem,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,Gepard es Urhajo,Gepard es Urhajo,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,KIOSK Budapest,KIOSK Budapest,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Jack Doyle's,Jack Doyle's,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Csalanosi Csarda,Csalanosi Csarda,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Belvarosi Disznotoros,Belvarosi Disznotoros,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Spíler Original,Spíler Original,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Mosselen Belgian Beer Cafe,Mosselen Belgian Beer Cafe,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Café Intenzo,Café Intenzo,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Macesz Huszar,Macesz Huszar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Mezzo Music Restaurant,Mezzo Music Restaurant,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Paprika Jancsi Restaurant,Paprika Jancsi Restaurant,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Hoppá Restaurant,Hoppá Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Curia Étterem és Rendezvényház,Curia Étterem és Rendezvényház,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Museum Cafe & Restaurant,Museum Cafe & Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Taverna Dionysos,Taverna Dionysos,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Chili Bar,Chili Bar,0,19.基什佩斯,0.0,0.0,0.0
+其他西餐,Peppers! Mediterranean Grill,Peppers! Mediterranean Grill,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Pilvax Bisztro,Pilvax Bisztro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Lugas Etterem,Lugas Etterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Magdalena Merlo Restaurant,Magdalena Merlo Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Halaszbastya Restaurant,Halaszbastya Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Alabardos Restaurant,Alabardos Restaurant,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Gulyas Etterem,Gulyas Etterem,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Fatal Etterem,Fatal Etterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Arriba Taqueria,Arriba Taqueria,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Sorforras Etterem es Rendezvenyterem,Sorforras Etterem es Rendezvenyterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Durer Kert,Durer Kert,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Mester Restaurant and Palinka House,Mester Restaurant and Palinka House,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Palinka Station,Palinka Station,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Cayman Etterem es Pizzeria,Cayman Etterem es Pizzeria,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,John Bull Sport Pub,John Bull Sport Pub,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Restaurant Alfoldi Vendeglo,Restaurant Alfoldi Vendeglo,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Marvanymenyasszony,Marvanymenyasszony,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Szegedi Halaszesarda,Szegedi Halaszesarda,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Zila Coffee Hause and Restaurant,Zila Coffee Hause and Restaurant,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Corso Restaurant,Corso Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Pizza Pasta Palacsinta,Pizza Pasta Palacsinta,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Arany Hordo Vendeglo,Arany Hordo Vendeglo,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Korona Kavehaz,Korona Kavehaz,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Oregano Restaurant,Oregano Restaurant,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,Fortuna,Fortuna,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Jupiter Restaurant,Jupiter Restaurant,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Kisvigado,Kisvigado,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Café Dumas,Café Dumas,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Budapest Restaurant,Budapest Restaurant,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Oroszlanos Haz Gosser Srozo,Oroszlanos Haz Gosser Srozo,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Új Sipos Halászkert,Új Sipos Halászkert,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Bujdoso Szekely Vendeglo,Bujdoso Szekely Vendeglo,0,19.基什佩斯,0.0,0.0,0.0
+其他西餐,Mori Kisvendeglo,Mori Kisvendeglo,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Cosmo,Cosmo,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Trofea Grill Etterem Obuda,Trofea Grill Etterem Obuda,0,其他,0.0,0.0,0.0
+其他西餐,Blue Rose Restaurant,Blue Rose Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Salt & Pepper,Salt & Pepper,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Var Bistro,Var Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Karolyi Restaurant and Cafe,Karolyi Restaurant and Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Matyas Pince Etterem,Matyas Pince Etterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Csendes Letterem,Csendes Letterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Apostolok,Apostolok,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Szazeves Etterem,Szazeves Etterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Europa Cafe,Europa Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,DiVino Wine bar,DiVino Wine bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Trattoria Mamma,Trattoria Mamma,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Burger and Love,Burger and Love,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Aurum Bistro,Aurum Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Ezaz Cafe and Bistro,Ezaz Cafe and Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Restaurant St. George,Restaurant St. George,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Reteshaz Restaurant,Reteshaz Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Kheiron Cafe Restaurant,Kheiron Cafe Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Kisharang,Kisharang,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Kispiac Bisztro,Kispiac Bisztro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Budapest Bisztro,Budapest Bisztro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Pesti Vendeglo,Pesti Vendeglo,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,VakVarju Restaurant,VakVarju Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,La Cantine,La Cantine,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Frici Papa Kifozdeje,Frici Papa Kifozdeje,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,La Pampa Steakhouse,La Pampa Steakhouse,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Farm,Farm,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Puli,Puli,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Pesti Disznó,Pesti Disznó,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Kantin,Kantin,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Caledonia Scottish Pub,Caledonia Scottish Pub,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Cafe Bouchon,Cafe Bouchon,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Apacuka,Apacuka,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Hunyadi Kisvendeglo,Hunyadi Kisvendeglo,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Parazs Preszo,Parazs Preszo,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Andrássy Bisztró,Andrássy Bisztró,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Pesti mese,Pesti mese,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Kogart,Kogart,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Bali Cafe,Bali Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Ecke 22 Etterem Kft,Ecke 22 Etterem Kft,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Drum Cafe,Drum Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,DOB3,DOB3,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Lado Cafe,Lado Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Doblo,Doblo,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Noir et l'Or,Noir et l'Or,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Kadarka wine bar,Kadarka wine bar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,La Bodeguita del Medio,La Bodeguita del Medio,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Kandallo Artisanal Pub,Kandallo Artisanal Pub,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Szimpla Cafe,Szimpla Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Srof Restaurant,Srof Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Almarium Bistro,Almarium Bistro,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Padron,Padron,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Drunken Tailor,Drunken Tailor,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Lecso,Lecso,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Muvesz Etterem es Kavehaz,Muvesz Etterem es Kavehaz,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Mercatino Restaurant & Bar,Mercatino Restaurant & Bar,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Black Cab Burger,Black Cab Burger,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Borbirosag,Borbirosag,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Soul Cafe and Restaurant,Soul Cafe and Restaurant,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Schieszl Vendeglo es Borhaz,Schieszl Vendeglo es Borhaz,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Hemingway,Hemingway,0,11.尤布达,0.0,0.0,0.0
+其他西餐,A38,A38,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Angelika Étterem és Kávézó,Angelika Étterem és Kávézó,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Palack Borbar,Palack Borbar,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Busulo Juhasz restaurant,Busulo Juhasz restaurant,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Bagolyvar,Bagolyvar,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,Restaurant Janos,Restaurant Janos,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Ildiko Konyhaja,Ildiko Konyhaja,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Fisherman's Bastion Restaurant,Fisherman's Bastion Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Icon The Restaurant,Icon The Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Carne di Hall,Carne di Hall,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Riso Ristorante & Terrace,Riso Ristorante & Terrace,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Jardinette,Jardinette,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Aranyhid Etterem,Aranyhid Etterem,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Vigado Sorozo Etterem,Vigado Sorozo Etterem,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Trombitas Gosser Ezo,Trombitas Gosser Ezo,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Bock Bisztro Buda,Bock Bisztro Buda,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Remiz,Remiz,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Zorbas Taverna,Zorbas Taverna,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Finomito Kantin,Finomito Kantin,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Szendzso,Szendzso,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Foldes Jozsi Konyhaja,Foldes Jozsi Konyhaja,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,50Bar,50Bar,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Pata Negra - Buda,Pata Negra - Buda,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Nancsi Neni,Nancsi Neni,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,ES Bisztro,ES Bisztro,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Rokfort Restaurant,Rokfort Restaurant,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Klauzal Cafe,Klauzal Cafe,0,20.佩斯特赛博特,0.0,0.0,0.0
+其他西餐,Rustico,Rustico,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Nika Restaurant,Nika Restaurant,0,19.基什佩斯,0.0,0.0,0.0
+其他西餐,Csulok Csarda,Csulok Csarda,0,19.基什佩斯,0.0,0.0,0.0
+其他西餐,Palinka Bistrot,Palinka Bistrot,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,BaBar Bistro,BaBar Bistro,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,XO Bistro,XO Bistro,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Rakoczi Grillhaz Etterem,Rakoczi Grillhaz Etterem,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Montenegroi Gurman,Montenegroi Gurman,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Dio Etterem,Dio Etterem,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Godunov Restaurant & Vodka Bar,Godunov Restaurant & Vodka Bar,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Mirage Étterem és Kávézó,Mirage Étterem és Kávézó,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Kacsa Restaurant,Kacsa Restaurant,0,22.布达福克-泰特尼,0.0,0.0,0.0
+其他西餐,Rose Restaurant,Rose Restaurant,0,21.切派尔,0.0,0.0,0.0
+其他西餐,Cafe Orchidea,Cafe Orchidea,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Picante,Picante,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Brasserie and Sorozo,Brasserie and Sorozo,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Atlantisz Etterem,Atlantisz Etterem,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Corvin Kavezo,Corvin Kavezo,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Oreg Svab Vendeglo,Oreg Svab Vendeglo,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Darband Restaurant,Darband Restaurant,0,20.佩斯特赛博特,0.0,0.0,0.0
+其他西餐,Csali csarda,Csali csarda,0,04.乌伊佩斯特,0.0,0.0,0.0
+其他西餐,"Savannah African Restaurant, Cafe & Music Club","Savannah African Restaurant, Cafe & Music Club",0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Chelsea Restaurant,Chelsea Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Mozsar Vendeglo,Mozsar Vendeglo,0,其他,0.0,0.0,0.0
+其他西餐,Monarchia Old,Monarchia Old,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Central Pub,Central Pub,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Yellow Zebra,Yellow Zebra,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Mamma Rosa Pizzeria,Mamma Rosa Pizzeria,0,其他,0.0,0.0,0.0
+其他西餐,Szamos Marcipan,Szamos Marcipan,0,其他,0.0,0.0,0.0
+其他西餐,Café Noé,Café Noé,0,其他,0.0,0.0,0.0
+其他西餐,Szomszed Bar & Cafe,Szomszed Bar & Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Szeker Csarda,Szeker Csarda,0,其他,0.0,0.0,0.0
+其他西餐,Hunyadi Cafe,Hunyadi Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Letcho Etterem,Letcho Etterem,0,其他,0.0,0.0,0.0
+其他西餐,Bistro68,Bistro68,0,其他,0.0,0.0,0.0
+其他西餐,Misto Bistro Cafe & Bar,Misto Bistro Cafe & Bar,0,其他,0.0,0.0,0.0
+其他西餐,ARAZ Bistro,ARAZ Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Corso Gourmet Restaurant,Corso Gourmet Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,SonkaArcok,SonkaArcok,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Grinzingi Borozo,Grinzingi Borozo,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Karpatia Restaurant & Brasserie,Karpatia Restaurant & Brasserie,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Ibolya Presszo,Ibolya Presszo,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,La Porta di Taormina,La Porta di Taormina,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Mirror Café & Restaurant,Mirror Café & Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Lacipecsenye,Lacipecsenye,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Barabas Bistro & Cafe,Barabas Bistro & Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,SPICE Bar & Restaurant,SPICE Bar & Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Bontxo,Bontxo,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Drop Shop Wine Bar,Drop Shop Wine Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Pesti Vende Glo,Pesti Vende Glo,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Wine and Coffee House,Wine and Coffee House,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Faloda es Daloda,Faloda es Daloda,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Buena Vista,Buena Vista,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Eklektika,Eklektika,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Gyros Kerkyra Etelbar,Gyros Kerkyra Etelbar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Oktogon Bisztro,Oktogon Bisztro,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Ferdinand Monarchia Sorhaz,Ferdinand Monarchia Sorhaz,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,IKON Bisztro,IKON Bisztro,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Repeta Home Dining,Repeta Home Dining,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Godot Bar&Restaurant,Godot Bar&Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,PIG 37 Blitz Grill,PIG 37 Blitz Grill,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Thyme Kitchen & Delicatesse,Thyme Kitchen & Delicatesse,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Royal Cafe,Royal Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Becsi Szelet,Becsi Szelet,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Baber Bisztro,Baber Bisztro,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Platan Etterem,Platan Etterem,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Vidam Etterem,Vidam Etterem,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Café Palace,Café Palace,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,FecskePresszo,FecskePresszo,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Becsiszelet Kisvendeglo,Becsiszelet Kisvendeglo,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,La Mimosa,La Mimosa,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Pozsonyi Vendeglo,Pozsonyi Vendeglo,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Vogue Restaurant,Vogue Restaurant,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Tera Magyar Konyhaja,Tera Magyar Konyhaja,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Pesti Burger es Bar,Pesti Burger es Bar,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Time Out Corner,Time Out Corner,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Gotti,Gotti,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Mesterek Konyhaja,Mesterek Konyhaja,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Sir William pub skot Etterem,Sir William pub skot Etterem,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Red Cafe Budapest,Red Cafe Budapest,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Angelo Party Cafe,Angelo Party Cafe,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Calvin Cafe,Calvin Cafe,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Erzsi Mama Konyhaja,Erzsi Mama Konyhaja,0,11.尤布达,0.0,0.0,0.0
+其他西餐,McTels,McTels,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Szeged Vendeglo,Szeged Vendeglo,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Kertem,Kertem,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,Pantlika Bistro,Pantlika Bistro,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,Cukraszda Pitisserie,Cukraszda Pitisserie,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,"Alagut Bisztro, Cafe and Bar","Alagut Bisztro, Cafe and Bar",0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Horgasztanya Etterem,Horgasztanya Etterem,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Fekete Hollo Etterem,Fekete Hollo Etterem,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Sophia's Piano Cafe,Sophia's Piano Cafe,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Red Devil,Red Devil,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Roma Etelbar,Roma Etelbar,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Ezust Ponty,Ezust Ponty,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Caffe La Terra,Caffe La Terra,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Kobufe,Kobufe,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Bajai Halaszcsarda,Bajai Halaszcsarda,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Normafa Grill,Normafa Grill,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Arnyas Restaurant & Garden,Arnyas Restaurant & Garden,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Vadaspark,Vadaspark,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Szent Jupat Etterem,Szent Jupat Etterem,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Markus Vendeglo,Markus Vendeglo,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Bambi Presszo,Bambi Presszo,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Almásy Vendéglő (Almásy Restaurant),Almásy Vendéglő (Almásy Restaurant),0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Ezustfenyo Etterem,Ezustfenyo Etterem,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Piknik Pavilon,Piknik Pavilon,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Carmel,Carmel,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Piritos Pub,Piritos Pub,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Ellátókert Taqueria,Ellátókert Taqueria,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,400 Bar,400 Bar,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Rozmaring Kertvendeglo,Rozmaring Kertvendeglo,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Zöld Kapu Vendéglő,Zöld Kapu Vendéglő,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Kisbuda Gyongye,Kisbuda Gyongye,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Burger House Óbuda,Burger House Óbuda,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Gyradiko,Gyradiko,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Nothin' But the Blues Pub,Nothin' But the Blues Pub,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,La Delizia,La Delizia,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Bohemtanya Etterem,Bohemtanya Etterem,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Casabrasil budapest,Casabrasil budapest,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,KAlap,KAlap,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Solinfo Cafe,Solinfo Cafe,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Opus Jazz Club,Opus Jazz Club,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Felni BeerBistro,Felni BeerBistro,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Cari Mama Pizzeria,Cari Mama Pizzeria,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Kirakat,Kirakat,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Bazilika Cafe and Restaurant,Bazilika Cafe and Restaurant,0,04.乌伊佩斯特,0.0,0.0,0.0
+其他西餐,EPIC Wine&More,EPIC Wine&More,0,04.乌伊佩斯特,0.0,0.0,0.0
+其他西餐,Minyon,Minyon,0,04.乌伊佩斯特,0.0,0.0,0.0
+其他西餐,Restaurant Szep llona Vendeglo,Restaurant Szep llona Vendeglo,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Burger King (Astoria),Burger King (Astoria),0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Danubius Hotel Astoria,Danubius Hotel Astoria,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Endorfine Choco Shop,Endorfine Choco Shop,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Koronakert Etterem,Koronakert Etterem,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Gyuri Bacsi Grill,Gyuri Bacsi Grill,0,22.布达福克-泰特尼,0.0,0.0,0.0
+其他西餐,Rakoczi Restaurant,Rakoczi Restaurant,0,21.切派尔,0.0,0.0,0.0
+其他西餐,Bohemia Etterem es Sorozo,Bohemia Etterem es Sorozo,0,其他,0.0,0.0,0.0
+其他西餐,Haropo Mokus Restaurant,Haropo Mokus Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Soul kitchen,Soul kitchen,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Haverok,Cafe Haverok,0,其他,0.0,0.0,0.0
+其他西餐,Brasserie and Atrium Restaurants,Brasserie and Atrium Restaurants,0,其他,0.0,0.0,0.0
+其他西餐,Focas Kert,Focas Kert,0,其他,0.0,0.0,0.0
+其他西餐,Nana Cafe,Nana Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Kispipa Vendeglo,Kispipa Vendeglo,0,其他,0.0,0.0,0.0
+其他西餐,Ellipszis Cafe,Ellipszis Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Bastya Bistro,Bastya Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Sörbárka Pub & Restaurant,Sörbárka Pub & Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Sercli Etterem,Sercli Etterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,California Pub,California Pub,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Sinatra Piano Bar,Sinatra Piano Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Rizsa Dvá,Rizsa Dvá,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Pasta Manufaktura,Pasta Manufaktura,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Casablanca Club,Casablanca Club,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Gosser Sorpatika,Gosser Sorpatika,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Central Cellar Restaurant and Wine Bar,Central Cellar Restaurant and Wine Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Carlos Cafe,Carlos Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Cafe Dorottya,Cafe Dorottya,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Aranybarany,Aranybarany,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Vendeg Varo,Vendeg Varo,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Pick Markaaruhaz,Pick Markaaruhaz,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Szlovak Etterem es Sorozo,Szlovak Etterem es Sorozo,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Toth-Kocsma,Toth-Kocsma,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Muvesz Caffe & Co.,Muvesz Caffe & Co.,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,La-Guna Étterem,La-Guna Étterem,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Iskola Vendéglő,Iskola Vendéglő,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Arena Corner Soproni Sorozo Sport Pub,Arena Corner Soproni Sorozo Sport Pub,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Fozelekfalo Zrt.,Fozelekfalo Zrt.,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Magic Music Pub & Restaurant,Magic Music Pub & Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Lisztro,Lisztro,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Circus Bar,Circus Bar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Koccinto Sorozo,Koccinto Sorozo,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Kaja.Hu Cybergastro,Kaja.Hu Cybergastro,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Regos Etterem,Regos Etterem,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Lalibela Grill Restaurant,Lalibela Grill Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Pinczi Hus-Hentesaru,Pinczi Hus-Hentesaru,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,BISZTRONOMIA Fakultacio,BISZTRONOMIA Fakultacio,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Arrabona Restaurant,Arrabona Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Champs PUB,Champs PUB,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Kandalló Kert,Kandalló Kert,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Dudabest Restaurant,Dudabest Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Leguan Cafe + Bar,Leguan Cafe + Bar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Hannah,Hannah,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Abszolut Palinka,Abszolut Palinka,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Lzamos,Lzamos,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Kis Uzem,Kis Uzem,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Hotel Unio Restaurant,Hotel Unio Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Dupla Restaurant,Dupla Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Mini Maja,Mini Maja,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Atma Center,Atma Center,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Brody Cafe,Brody Cafe,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Suszterinas,Suszterinas,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,blue tomato pub & restaurant,blue tomato pub & restaurant,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Norbi Etkezde,Norbi Etkezde,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Liget Etterem,Liget Etterem,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Pozsonyi Sorozo - Karnuts es Tarsa,Pozsonyi Sorozo - Karnuts es Tarsa,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Wndrlnd,Wndrlnd,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Fanyuvo,Fanyuvo,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Angelino Pizzeria and Restaurant,Angelino Pizzeria and Restaurant,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,kaves katica,kaves katica,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Kisbojtar Vendeglo,Kisbojtar Vendeglo,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Beer Bier,Beer Bier,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,"The Club Cafe, Bar & Kitchen","The Club Cafe, Bar & Kitchen",0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Chefparade,Chefparade,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Jaffa,Jaffa,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Shiraz Persian Restaurant,Shiraz Persian Restaurant,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Paris Texas,Paris Texas,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Pesti Vendeglo,Pesti Vendeglo,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,R14 Bisztró,R14 Bisztró,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Berliner Sörkatakomba,Berliner Sörkatakomba,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Magyar Bisztro AKA M Bistro,Magyar Bisztro AKA M Bistro,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Par Perc Krumpli,Par Perc Krumpli,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Raday Cafe,Raday Cafe,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Tokaj Restaurant,Tokaj Restaurant,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Meduza garden kft,Meduza garden kft,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Vitez Kurtos,Vitez Kurtos,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Heller's Pub Etterem,Heller's Pub Etterem,0,11.尤布达,0.0,0.0,0.0
+其他西餐,VakVarjú Beach Bistro,VakVarjú Beach Bistro,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Retisas Kisvendeglo,Retisas Kisvendeglo,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Negy Musketas Etterem es Sorozo,Negy Musketas Etterem es Sorozo,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Hotel Rubin,Hotel Rubin,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Barackos,Barackos,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Mag kávé panini - Cafe,Mag kávé panini - Cafe,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Kis Borostyan,Kis Borostyan,0,11.尤布达,0.0,0.0,0.0
+其他西餐,iTEE cafe,iTEE cafe,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Stoczek Etterem,Stoczek Etterem,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Szatyor Bár és Galéria,Szatyor Bár és Galéria,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Nevada Pub,Nevada Pub,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Vighajos John Bull Pub,Vighajos John Bull Pub,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Nyereg,Nyereg,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,Csalogato Restaurant,Csalogato Restaurant,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,Korona Cukraszda,Korona Cukraszda,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Gong Etterem es Kavehaz,Gong Etterem es Kavehaz,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,The House of Hungarian Wines - Buda Castle,The House of Hungarian Wines - Buda Castle,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Magyarsag haza kavezo es sonka bar,Magyarsag haza kavezo es sonka bar,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Horgasztanya Vendeglomore,Horgasztanya Vendeglomore,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,HB Lounge & Bar,HB Lounge & Bar,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Hadik Etterem,Hadik Etterem,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Tradicio Vendeglo,Tradicio Vendeglo,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Hungarian Kithen,Hungarian Kithen,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Sicilian restaurant Sziciliai etterem,Sicilian restaurant Sziciliai etterem,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,A La Carte Kisvendeglo,A La Carte Kisvendeglo,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Bratwursthausle Kolbászda,Bratwursthausle Kolbászda,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Új-Budavár Étterem,Új-Budavár Étterem,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Arcade Bistro,Arcade Bistro,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Maros kertvendéglő,Maros kertvendéglő,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Gastland Bisztró Moszkva,Gastland Bisztró Moszkva,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Jam Pub and Restaurant,Jam Pub and Restaurant,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Varosfal Vendeglo,Varosfal Vendeglo,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Auguszt Cukraszat,Auguszt Cukraszat,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Avanti Champs,Avanti Champs,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Szalonspicc Kave es Borbar,Szalonspicc Kave es Borbar,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Lugas Vendeglo,Lugas Vendeglo,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Fondue Bar,Fondue Bar,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Restaurant Margitkert,Restaurant Margitkert,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Híd Bistro,Híd Bistro,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Nagyi Kifozdeje,Nagyi Kifozdeje,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Annaroza Kavezo,Annaroza Kavezo,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Viva Cuba Bar Es Falatozo,Viva Cuba Bar Es Falatozo,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Szephalom Vendeglo,Szephalom Vendeglo,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,KOCKA,KOCKA,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Felix Helix,Felix Helix,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,BorNeo Jazz&Wine,BorNeo Jazz&Wine,0,03.欧布达,0.0,0.0,0.0
+其他西餐,SYMBOL Budapest,SYMBOL Budapest,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Puskas Pancho Sports Pub,Puskas Pancho Sports Pub,0,03.欧布达,0.0,0.0,0.0
+其他西餐,220 Year Old Cellar Restaurant,220 Year Old Cellar Restaurant,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Kerek Vendeglo,Kerek Vendeglo,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Hidfo Pub,Hidfo Pub,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Rezpatko,Rezpatko,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Seherezade Gyros,Seherezade Gyros,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Sramli,Sramli,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Art Nouveau Cafe,Art Nouveau Cafe,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Leonardo Pizzeria & Pub,Leonardo Pizzeria & Pub,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Turi Zita,Turi Zita,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Gong 2,Gong 2,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Karcsi Vendéglő Kkt.,Karcsi Vendéglő Kkt.,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Piroska Vendeglo,Piroska Vendeglo,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Duna Garden restaurant,Duna Garden restaurant,0,20.佩斯特赛博特,0.0,0.0,0.0
+其他西餐,Oliva Restaurant & Pizzeria,Oliva Restaurant & Pizzeria,0,20.佩斯特赛博特,0.0,0.0,0.0
+其他西餐,Tróger Gasztró Bisztró,Tróger Gasztró Bisztró,0,20.佩斯特赛博特,0.0,0.0,0.0
+其他西餐,Flying Puli cafe,Flying Puli cafe,0,20.佩斯特赛博特,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Absolvent Inyenc Kencek es Magyar Borok Klubja,Absolvent Inyenc Kencek es Magyar Borok Klubja,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Klikk BistroBar,Klikk BistroBar,0,04.乌伊佩斯特,0.0,0.0,0.0
+其他西餐,Arbat Orosz Gyorsetterem,Arbat Orosz Gyorsetterem,0,04.乌伊佩斯特,0.0,0.0,0.0
+其他西餐,Vig Kalmar,Vig Kalmar,0,19.基什佩斯,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Beszkart Ori Bufe,Beszkart Ori Bufe,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Kis Pipa,Kis Pipa,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Aranyhal Vendeglo,Aranyhal Vendeglo,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Parfait Restaurant,Parfait Restaurant,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Sufni Romkocsma,Sufni Romkocsma,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Szabadsag,Szabadsag,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Istvan Tanya Restaurant,Istvan Tanya Restaurant,0,22.布达福克-泰特尼,0.0,0.0,0.0
+其他西餐,Captain Cook Pub,Captain Cook Pub,0,21.切派尔,0.0,0.0,0.0
+其他西餐,Cafe Miro Grande,Cafe Miro Grande,0,其他,0.0,0.0,0.0
+其他西餐,Joasszony,Joasszony,0,其他,0.0,0.0,0.0
+其他西餐,Janis Pub,Janis Pub,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Pertu Station,Pertu Station,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Paparazzi Restaurant & Pizzeria,Paparazzi Restaurant & Pizzeria,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Zsofia River Cruises,Zsofia River Cruises,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Obzidian Cafe,Obzidian Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Galaxia,Galaxia,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Memories of hungary Bazilika kft,Memories of hungary Bazilika kft,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Parlament Cafe,Parlament Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Szindbad,Szindbad,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Kis Italia,Kis Italia,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Restaurant M-M Pub,Restaurant M-M Pub,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Vazquez -,Vazquez -,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Zorbas Taverna,Zorbas Taverna,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Vespa Caffe & Szendvicsbar,Vespa Caffe & Szendvicsbar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Kulacs Etterem,Kulacs Etterem,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Baross Terem,Baross Terem,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Sext,Sext,0,08.乔瑟法罗斯,0.0,0.0,0.0
+其他西餐,Cafe vig,Cafe vig,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Cafe Pattaya,Cafe Pattaya,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Margit Terasz Etterem,Margit Terasz Etterem,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Kemences Pince,Kemences Pince,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+其他西餐,Manuel Etterem,Manuel Etterem,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Le Bistro,Le Bistro,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Makk hetes,Makk hetes,0,12.海伊韦德,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Champ's Buda,Champ's Buda,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Bécsi Szelet Vendéglő,Bécsi Szelet Vendéglő,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Spajz Kocsma,Spajz Kocsma,0,20.佩斯特赛博特,0.0,0.0,0.0
+其他西餐,Rezangyal Bistro,Rezangyal Bistro,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,The Slang Pub,The Slang Pub,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Normakert Vendeglo,Normakert Vendeglo,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Kis Tirol Fogadó,Kis Tirol Fogadó,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Tinto,Tinto,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Horgász Tanya,Horgász Tanya,0,22.布达福克-泰特尼,0.0,0.0,0.0
+其他西餐,Mangalica es Tarsai Huspatika,Mangalica es Tarsai Huspatika,0,22.布达福克-泰特尼,0.0,0.0,0.0
+其他西餐,le Bourbon,le Bourbon,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Epitesz Pince Etterem,Epitesz Pince Etterem,0,其他,0.0,0.0,0.0
+其他西餐,Simpla Kert,Simpla Kert,0,其他,0.0,0.0,0.0
+其他西餐,Bruno & Bruno,Bruno & Bruno,0,其他,0.0,0.0,0.0
+其他西餐,Vigado sorozo etterem,Vigado sorozo etterem,0,其他,0.0,0.0,0.0
+其他西餐,Kozhely,Kozhely,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Lila Körte Café,Lila Körte Café,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Spirit Restaurant & Club,Spirit Restaurant & Club,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Czukor Etterem,Czukor Etterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Nemzeti Muszeum,Nemzeti Muszeum,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Curia Bisztro,Curia Bisztro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Amstel River Cafe,Amstel River Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Soforras Restaurants,Soforras Restaurants,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Magyar Etterem es Sorozo,Magyar Etterem es Sorozo,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Muveszinas,Muveszinas,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,MO Restaurant,MO Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Nosztalgia,Nosztalgia,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Barrio Bar & Restaurant,Barrio Bar & Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,Paulaner's Platz Beerstation,Paulaner's Platz Beerstation,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+其他西餐,VistaCafe Restaurant,VistaCafe Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Caffetteria Muvesz,Caffetteria Muvesz,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Lotz terem kavehaz / Lotz Coffee House,Lotz terem kavehaz / Lotz Coffee House,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,El Greco,El Greco,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Alhambra Art Cafe & Restaurant,Alhambra Art Cafe & Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Lukacs,Lukacs,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+其他西餐,Aranypince Etterem,Aranypince Etterem,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Greenspub,Greenspub,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Siraly,Siraly,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+其他西餐,Louis Prima Pizzeria,Louis Prima Pizzeria,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Cafe Intenso,Cafe Intenso,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Shiraz Persian Sandwich Club,Shiraz Persian Sandwich Club,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Apacuka Bisztro,Apacuka Bisztro,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+其他西餐,Siesta Vendeglo,Siesta Vendeglo,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Iz-Lelo Etkezde,Iz-Lelo Etkezde,0,11.尤布达,0.0,0.0,0.0
+其他西餐,Varosligeti Sorsator,Varosligeti Sorsator,0,14.佐格洛,0.0,0.0,0.0
+其他西餐,Albatrosz Etterem - Holiday Beach Budapest****,Albatrosz Etterem - Holiday Beach Budapest****,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Tabani Terasz,Tabani Terasz,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,Citadella Etterem - Restaurant,Citadella Etterem - Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,21restaurant,21restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+其他西餐,BORYOU Bisztro,BORYOU Bisztro,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Vadrozsa,Vadrozsa,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Serpenyos Vendeglo,Serpenyos Vendeglo,0,02.布达佩斯,0.0,0.0,0.0
+其他西餐,Ladik Csarda,Ladik Csarda,0,03.欧布达,0.0,0.0,0.0
+其他西餐,Sun Garden Cafe & Restaurant,Sun Garden Cafe & Restaurant,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Kiraly Restaurant,Kiraly Restaurant,0,布达佩斯机场,0.0,0.0,0.0
+其他西餐,Holdudvar,Holdudvar,0,10.克班雅,0.0,0.0,0.0
+其他西餐,Vinorium Winebar,Vinorium Winebar,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+其他西餐,Cafe Cathedral,Cafe Cathedral,0,04.乌伊佩斯特,0.0,0.0,0.0
+其他西餐,Cafe Colombo,Cafe Colombo,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+其他西餐,Beckett`s,Beckett`s,0,21.切派尔,0.0,0.0,0.0
+其他西餐,Bélvarosi Lugas Éterrem,Bélvarosi Lugas Éterrem,0,21.切派尔,0.0,0.0,0.0
+中餐,Yummy Noodles,Yummy Noodles,0,09.菲莱瓦罗斯,8.5,7.1,8.5
+中餐,Wang Mester konyhaja (Uj Lanzhou),Wang Mester konyhaja (Uj Lanzhou),0,09.菲莱瓦罗斯,8.1,8.1,8.1
+中餐,La Lucia,La Lucia,0,05.城市中心-贝尔瓦罗斯,7.3,7.3,6.3
+中餐,Spiler Shanghai,Spiler Shanghai,0,其他,0.0,0.0,0.0
+中餐,Momotaro Ramen,Momotaro Ramen,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+中餐,Ping Kínai Étterem,Ping Kínai Étterem,0,12.海伊韦德,0.0,0.0,0.0
+中餐,Kinai Etterem Gyors Bufe,Kinai Etterem Gyors Bufe,0,布达佩斯机场,0.0,0.0,0.0
+中餐,Nefrit Restaurant,Nefrit Restaurant,0,12.海伊韦德,0.0,0.0,0.0
+中餐,Madarfezsek Gyorsetterem,Madarfezsek Gyorsetterem,0,11.尤布达,0.0,0.0,0.0
+中餐,Nine Dragon,Nine Dragon,0,22.布达福克-泰特尼,0.0,0.0,0.0
+中餐,Nagy fal Kínai Büfé,Nagy fal Kínai Büfé,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+日韩料理,Tokio,Tokio,0,05.城市中心-贝尔瓦罗斯,7.5,8.1,8.1
+日韩料理,Planet Sushi Fashion Street,Planet Sushi Fashion Street,0,05.城市中心-贝尔瓦罗斯,7.4,7.4,7.4
+日韩料理,Imazs Restaurant,Imazs Restaurant,0,06.泰莱萨瓦罗,8.3,8.3,8.3
+日韩料理,Nobu Restaurant,Nobu Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+日韩料理,Itoshii Budapest kft,Itoshii Budapest kft,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+日韩料理,Arigato,Arigato,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+日韩料理,Fuji Japanese Restaurant,Fuji Japanese Restaurant,0,02.布达佩斯,0.0,0.0,0.0
+日韩料理,Marumoto Japanese Tearoom & Shop,Marumoto Japanese Tearoom & Shop,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+日韩料理,Trófea Grill Restaurant Újbuda,Trófea Grill Restaurant Újbuda,0,11.尤布达,0.0,0.0,0.0
+日韩料理,Leroy Bistro,Leroy Bistro,0,01.Castle District-Budavá,0.0,0.0,0.0
+日韩料理,Kyoto Restaurant,Kyoto Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+日韩料理,Sushi Sei Uj Udvar,Sushi Sei Uj Udvar,0,03.欧布达,0.0,0.0,0.0
+日韩料理,Okuyama No Sushi,Okuyama No Sushi,0,02.布达佩斯,0.0,0.0,0.0
+日韩料理,Leroy Arena,Leroy Arena,0,08.乔瑟法罗斯,0.0,0.0,0.0
+日韩料理,Planet Sushi,Planet Sushi,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+日韩料理,Korean Restaurant,Korean Restaurant,0,布达佩斯机场,0.0,0.0,0.0
+日韩料理,Noriko Sushi Bar,Noriko Sushi Bar,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+日韩料理,Kedves Sushi,Kedves Sushi,0,02.布达佩斯,0.0,0.0,0.0
+日韩料理,Takebayashi Restaurant,Takebayashi Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+日韩料理,Daikichi,Daikichi,0,01.Castle District-Budavá,0.0,0.0,0.0
+日韩料理,Zelefant - Organic & Sushi Bistro,Zelefant - Organic & Sushi Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+日韩料理,La-Guna Étterem,La-Guna Étterem,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+日韩料理,Wasabi - Running Sushi and Wok Restaurant,Wasabi - Running Sushi and Wok Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+日韩料理,Tokyo japan etteremben,Tokyo japan etteremben,0,14.佐格洛,0.0,0.0,0.0
+日韩料理,Arirang,Arirang,0,03.欧布达,0.0,0.0,0.0
+日韩料理,Shiki Japanese Restaurant,Shiki Japanese Restaurant,0,02.布达佩斯,0.0,0.0,0.0
+更多亚洲菜,Funky Pho,Funky Pho,0,06.泰莱萨瓦罗,7.5,6.7,8.4
+更多亚洲菜,Chinatown Restaurant,Chinatown Restaurant,0,08.乔瑟法罗斯,6.7,8.4,6.7
+更多亚洲菜,1000Tea Shop & Tearoom,1000Tea Shop & Tearoom,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Bangkok Thai Restaurant,Bangkok Thai Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Kashmir Indian Restaurant,Kashmir Indian Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Govinda,Govinda,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Dang Muoi Pho Bistro,Dang Muoi Pho Bistro,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多亚洲菜,Kelet Csillaga Kave-es Teahaz,Kelet Csillaga Kave-es Teahaz,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Thaiwok,Thaiwok,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Buddha-Bar,Buddha-Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Rosenstein,Rosenstein,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多亚洲菜,Taiwan Restaurant,Taiwan Restaurant,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Salaam Bombay,Salaam Bombay,0,22.布达福克-泰特尼,0.0,0.0,0.0
+更多亚洲菜,Curry House,Curry House,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多亚洲菜,Delhi Darbar,Delhi Darbar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Most&Jelen - Jelen,Most&Jelen - Jelen,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多亚洲菜,Kaeng Som Tom Yum Thai Restaurant,Kaeng Som Tom Yum Thai Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Hai Nam Vietnamese Bistro & Pho Bar,Hai Nam Vietnamese Bistro & Pho Bar,0,11.尤布达,0.0,0.0,0.0
+更多亚洲菜,Hummus Bar - Vegetarian,Hummus Bar - Vegetarian,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多亚洲菜,Hummus Bar - Egyetem Square,Hummus Bar - Egyetem Square,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Thai Chili wok Bar Budapest,Thai Chili wok Bar Budapest,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多亚洲菜,Buddha Original,Buddha Original,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多亚洲菜,Hummus Point,Hummus Point,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多亚洲菜,Parazs etterem,Parazs etterem,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多亚洲菜,Hanoi Vietnam Étterem,Hanoi Vietnam Étterem,0,02.布达佩斯,0.0,0.0,0.0
+更多亚洲菜,Himalaya Restaurant,Himalaya Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Padthai Wokbar,Padthai Wokbar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Most&Jelen - Most,Most&Jelen - Most,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多亚洲菜,Karma Cafe & Restaurant,Karma Cafe & Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多亚洲菜,Szeraj,Szeraj,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多亚洲菜,Hummus Bar - Bartok Bela Street,Hummus Bar - Bartok Bela Street,0,11.尤布达,0.0,0.0,0.0
+更多亚洲菜,Rickshaw Restaurant,Rickshaw Restaurant,0,布达佩斯机场,0.0,0.0,0.0
+更多亚洲菜,Indigo Indian Restaurant,Indigo Indian Restaurant,0,布达佩斯机场,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal,Taj Mahal,0,20.佩斯特赛博特,0.0,0.0,0.0
+更多亚洲菜,Hummus bar,Hummus bar,0,20.佩斯特赛博特,0.0,0.0,0.0
+更多亚洲菜,Bollywood,Bollywood,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多亚洲菜,BigFoot Szendvics Bistro,BigFoot Szendvics Bistro,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多亚洲菜,Maharaja Indian Restaurant,Maharaja Indian Restaurant,0,03.欧布达,0.0,0.0,0.0
+更多亚洲菜,Istanbul Kebab,Istanbul Kebab,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Tom Yum Thai Restaurant,Tom Yum Thai Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Shalimar,Shalimar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Sahara,Sahara,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多亚洲菜,Antalya Kebab,Antalya Kebab,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多亚洲菜,Punjab Tandoori Indian Restaurant,Punjab Tandoori Indian Restaurant,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多亚洲菜,Pandzsab,Pandzsab,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多亚洲菜,Hathi Indiai Kifőzde,Hathi Indiai Kifőzde,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多亚洲菜,Dang Muoi Bufe,Dang Muoi Bufe,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Mr.Masala,Mr.Masala,0,03.欧布达,0.0,0.0,0.0
+更多亚洲菜,Papirtigris,Papirtigris,0,03.欧布达,0.0,0.0,0.0
+更多亚洲菜,Hummus Bar - Tompa Street,Hummus Bar - Tompa Street,0,20.佩斯特赛博特,0.0,0.0,0.0
+更多亚洲菜,Hummus Bar,Hummus Bar,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多亚洲菜,Chan-Chan,Chan-Chan,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Sala Thai Rim Naam,Sala Thai Rim Naam,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Buddha express,Buddha express,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Cafe Kishon,Cafe Kishon,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多亚洲菜,Bombay Express,Bombay Express,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多亚洲菜,Indian vega city,Indian vega city,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Sushi Express,Sushi Express,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Dr Hummus,Dr Hummus,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Balint konyhaja,Balint konyhaja,0,20.佩斯特赛博特,0.0,0.0,0.0
+更多亚洲菜,Thai Etterem Es Teahaz,Thai Etterem Es Teahaz,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多亚洲菜,KisParazs,KisParazs,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多亚洲菜,Long Island Vietnámi Étterem,Long Island Vietnámi Étterem,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多亚洲菜,Padlizsanvirag Etelbar,Padlizsanvirag Etelbar,0,21.切派尔,0.0,0.0,0.0
+更多亚洲菜,Kinai-koreai Etelbar,Kinai-koreai Etelbar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多亚洲菜,Hummus Place,Hummus Place,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多亚洲菜,Csillaganizs Vietnamese Bistro,Csillaganizs Vietnamese Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,We love Banh Mi,We love Banh Mi,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Irish pub and restaurant,Irish pub and restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Kelly's (Wok),Kelly's (Wok),0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Cafe Yogya,Cafe Yogya,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多亚洲菜,Madame Noi,Madame Noi,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+快餐简餐,鼎鼎香,鼎鼎香,0,,8.4,7.7,8.4
+快餐简餐,McDonald's,McDonald's,0,05.城市中心-贝尔瓦罗斯,8.0,7.2,7.0
+快餐简餐,New York Bisztro,New York Bisztro,0,05.城市中心-贝尔瓦罗斯,7.4,7.4,7.4
+快餐简餐,Evidens Bistro,Evidens Bistro,0,05.城市中心-贝尔瓦罗斯,7.1,7.1,7.1
+快餐简餐,Sarki Fűszeres,Sarki Fűszeres,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+快餐简餐,T.G.I. Friday's West End,T.G.I. Friday's West End,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+快餐简餐,Ring Cafe and Burger Bar,Ring Cafe and Burger Bar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+快餐简餐,KNRDY American Steakhouse & Bar,KNRDY American Steakhouse & Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+快餐简餐,Padthai Wok2Go,Padthai Wok2Go,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+快餐简餐,The Cactus Juice Co.,The Cactus Juice Co.,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+快餐简餐,W35,W35,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+快餐简餐,California Coffee Company,California Coffee Company,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+快餐简餐,Leroy Cafe West end City Center,Leroy Cafe West end City Center,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+快餐简餐,Good bar good burger,Good bar good burger,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+快餐简餐,Massolit Books and Cafe in Budapest,Massolit Books and Cafe in Budapest,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+快餐简餐,Goodbar Goodburger,Goodbar Goodburger,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+快餐简餐,Thymian Etelbar es Pitezo,Thymian Etelbar es Pitezo,0,08.乔瑟法罗斯,0.0,0.0,0.0
+快餐简餐,Leroy's Country Pub,Leroy's Country Pub,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+快餐简餐,McDonald's Astoria,McDonald's Astoria,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+快餐简餐,Divin Porcello - Budapest,Divin Porcello - Budapest,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+快餐简餐,California Coffee Company,California Coffee Company,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+快餐简餐,Suelto Cafe and Grill,Suelto Cafe and Grill,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+快餐简餐,Manga Cowboy,Manga Cowboy,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+快餐简餐,Soul Food,Soul Food,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+快餐简餐,Brgr,Brgr,0,14.佐格洛,0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+快餐简餐,Dafke Deli,Dafke Deli,0,其他,0.0,0.0,0.0
+快餐简餐,Zing Burger,Zing Burger,0,其他,0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+快餐简餐,Jack's burger,Jack's burger,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+快餐简餐,Hooters,Hooters,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+快餐简餐,T.G.I. Friday's Oktogon,T.G.I. Friday's Oktogon,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+快餐简餐,Andalgo Deli,Andalgo Deli,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+快餐简餐,Legelo Salad Bar,Legelo Salad Bar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+快餐简餐,Magic Burger,Magic Burger,0,11.尤布达,0.0,0.0,0.0
+快餐简餐,Oscar American Bar,Oscar American Bar,0,01.Castle District-Budavá,0.0,0.0,0.0
+快餐简餐,Cafe Pilot,Cafe Pilot,0,10.克班雅,0.0,0.0,0.0
+快餐简餐,Hong Kong Restaurant,Hong Kong Restaurant,0,20.佩斯特赛博特,0.0,0.0,0.0
+快餐简餐,Fat Mo's,Fat Mo's,0,其他,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,其他,0.0,0.0,0.0
+快餐简餐,T.G.I Friday's Fashion Street,T.G.I Friday's Fashion Street,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+快餐简餐,McDonald's Westend City Center,McDonald's Westend City Center,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+快餐简餐,Yogomc,Yogomc,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+快餐简餐,Café Panini,Café Panini,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+快餐简餐,Burgerland,Burgerland,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+快餐简餐,Voros Homar,Voros Homar,0,12.海伊韦德,0.0,0.0,0.0
+快餐简餐,Poco Loco,Poco Loco,0,02.布达佩斯,0.0,0.0,0.0
+快餐简餐,Dallas Etterem,Dallas Etterem,0,03.欧布达,0.0,0.0,0.0
+快餐简餐,Bubba's Water Grill,Bubba's Water Grill,0,布达佩斯机场,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,布达佩斯机场,0.0,0.0,0.0
+快餐简餐,Sunny Lounge,Sunny Lounge,0,22.布达福克-泰特尼,0.0,0.0,0.0
+快餐简餐,Street Tacos,Street Tacos,0,22.布达福克-泰特尼,0.0,0.0,0.0
+快餐简餐,Hippopotamus,Hippopotamus,0,其他,0.0,0.0,0.0
+快餐简餐,Galeria Cafe&Pub,Galeria Cafe&Pub,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,08.乔瑟法罗斯,0.0,0.0,0.0
+快餐简餐,T.G.I. Friday's Mammut II.,T.G.I. Friday's Mammut II.,0,02.布达佩斯,0.0,0.0,0.0
+快餐简餐,The Beer Cellar,The Beer Cellar,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+海鲜,The Bigfish Seafood Restaurant,The Bigfish Seafood Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+海鲜,Halkakas,Halkakas,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+烧烤,鼎鼎香,鼎鼎香,0,,8.4,7.7,8.4
+烧烤,Mokus Sorkert,Mokus Sorkert,0,03.欧布达,0.0,0.0,0.0
+烧烤,Baltazar Grill and Wine Bar,Baltazar Grill and Wine Bar,0,01.Castle District-Budavá,0.0,0.0,0.0
+烧烤,Pelikan Gatorhaz Bufe,Pelikan Gatorhaz Bufe,0,11.尤布达,0.0,0.0,0.0
+烧烤,The Mongolian Barbacue,The Mongolian Barbacue,0,12.海伊韦德,0.0,0.0,0.0
+烧烤,AMMAN'S Fresh Kitchen,AMMAN'S Fresh Kitchen,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+比萨,Pizza Me,Pizza Me,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+比萨,Pointer Pub - Teréz krt,Pointer Pub - Teréz krt,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+比萨,Ősbudavár Pizzéria,Ősbudavár Pizzéria,0,01.Castle District-Budavá,0.0,0.0,0.0
+比萨,MIX-R Zuglo,MIX-R Zuglo,0,14.佐格洛,0.0,0.0,0.0
+比萨,The Gourmand Cafe,The Gourmand Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+比萨,Gizella Kavehaz Etterem,Gizella Kavehaz Etterem,0,14.佐格洛,0.0,0.0,0.0
+比萨,Bob Pizza Restaurant,Bob Pizza Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+比萨,Pink Cadillac,Pink Cadillac,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+比萨,Pizzarium Budapest,Pizzarium Budapest,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+比萨,Drink Island Whisky Bar,Drink Island Whisky Bar,0,12.海伊韦德,0.0,0.0,0.0
+比萨,Don Corleone,Don Corleone,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+咖啡厅,Gerbeaud,Gerbeaud,0,01.Castle District-Budavá,7.7,8.0,7.8
+咖啡厅,Anna Cafe,Anna Cafe,0,05.城市中心-贝尔瓦罗斯,8.1,8.1,7.5
+咖啡厅,Mc Cafe,Mc Cafe,0,01.Castle District-Budavá,7.7,8.4,7.7
+咖啡厅,Castrum Caffe & Bar,Castrum Caffe & Bar,0,01.Castle District-Budavá,0.0,0.0,0.0
+咖啡厅,il Bacio Caffé,il Bacio Caffé,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+咖啡厅,ChocoRoom Café & Bar,ChocoRoom Café & Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Ruszwurm,Ruszwurm,0,01.Castle District-Budavá,0.0,0.0,0.0
+咖啡厅,Jedermann,Jedermann,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+咖啡厅,Fióka,Fióka,0,12.海伊韦德,0.0,0.0,0.0
+咖啡厅,My Little Melbourne Coffee,My Little Melbourne Coffee,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+咖啡厅,BARbar Cafe & Chocolate,BARbar Cafe & Chocolate,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Molnar's Kurtoskalacs,Molnar's Kurtoskalacs,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Sock's Coffee,Sock's Coffee,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+咖啡厅,Keksz,Keksz,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+咖啡厅,Nappali Kavehaz,Nappali Kavehaz,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+咖啡厅,Csészényi Kávézó / Cseszenyi Cafe,Csészényi Kávézó / Cseszenyi Cafe,0,01.Castle District-Budavá,0.0,0.0,0.0
+咖啡厅,Cat Cafe,Cat Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+咖啡厅,Mai Mano Kavezo,Mai Mano Kavezo,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+咖啡厅,Cadeau Chocolate Shop,Cadeau Chocolate Shop,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Kuglof,Kuglof,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Aztek Choxolat,Aztek Choxolat,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Cat Cafe,Cat Cafe,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+咖啡厅,Parizsi nagyaruhaz,Parizsi nagyaruhaz,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+咖啡厅,Szimpla Kert,Szimpla Kert,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+咖啡厅,Printa Cafe,Printa Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+咖啡厅,Vostro,Vostro,0,08.乔瑟法罗斯,0.0,0.0,0.0
+咖啡厅,Madal Cafe,Madal Cafe,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+咖啡厅,Espresso Embassy,Espresso Embassy,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+咖啡厅,Tamp & Pull Espresso Bar,Tamp & Pull Espresso Bar,0,19.基什佩斯,0.0,0.0,0.0
+咖啡厅,Costa Coffee,Costa Coffee,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+咖啡厅,Eco Cafe,Eco Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Alterego,Cafe Alterego,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+咖啡厅,Kontakt,Kontakt,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Patmos Book and Cafe,Patmos Book and Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Sonkapult Reggeliző és Kávézó,Sonkapult Reggeliző és Kávézó,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+咖啡厅,Pista Ba,Pista Ba,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+咖啡厅,Pertu Cafe,Pertu Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+咖啡厅,Nandori Cukraszda,Nandori Cukraszda,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+咖啡厅,Tranzit Art Café,Tranzit Art Café,0,11.尤布达,0.0,0.0,0.0
+咖啡厅,Hadik Kavehaz,Hadik Kavehaz,0,11.尤布达,0.0,0.0,0.0
+咖啡厅,Gottier Gourmet Cafe,Gottier Gourmet Cafe,0,11.尤布达,0.0,0.0,0.0
+咖啡厅,Cool Cafe,Cool Cafe,0,22.布达福克-泰特尼,0.0,0.0,0.0
+咖啡厅,Híradó Kávézó,Híradó Kávézó,0,其他,0.0,0.0,0.0
+咖啡厅,"TOMATO SALAD BAR, BAR, TEA & COFFEE HOUSE","TOMATO SALAD BAR, BAR, TEA & COFFEE HOUSE",0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Melange,Melange,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Noa Caffe Restaurant,Noa Caffe Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Goamama,Goamama,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+咖啡厅,Zita Cafe & Terrace,Zita Cafe & Terrace,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+咖啡厅,Apostroph,Apostroph,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+咖啡厅,Fuvesz Bar,Fuvesz Bar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+咖啡厅,Zold Macska,Zold Macska,0,08.乔瑟法罗斯,0.0,0.0,0.0
+咖啡厅,Lumen Kave,Lumen Kave,0,08.乔瑟法罗斯,0.0,0.0,0.0
+咖啡厅,Muterem Kavezo,Muterem Kavezo,0,08.乔瑟法罗斯,0.0,0.0,0.0
+咖啡厅,Sherlock Holmes Pub,Sherlock Holmes Pub,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+咖啡厅,Solinfo,Solinfo,0,11.尤布达,0.0,0.0,0.0
+咖啡厅,Topart Cafe,Topart Cafe,0,14.佐格洛,0.0,0.0,0.0
+咖啡厅,Antique cafe,Antique cafe,0,14.佐格洛,0.0,0.0,0.0
+咖啡厅,Sal,Sal,0,布达佩斯机场,0.0,0.0,0.0
+咖啡厅,Secessio Café & Delikát,Secessio Café & Delikát,0,布达佩斯机场,0.0,0.0,0.0
+咖啡厅,Royal Cukraszda Budapest,Royal Cukraszda Budapest,0,布达佩斯机场,0.0,0.0,0.0
+咖啡厅,Nu bisztro,Nu bisztro,0,04.乌伊佩斯特,0.0,0.0,0.0
+咖啡厅,Cafe Pertu,Cafe Pertu,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Spot Bistro,Spot Bistro,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+咖啡厅,starbucks,starbucks,0,其他,0.0,0.0,0.0
+咖啡厅,Dozs Cafe,Dozs Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,The Cake with Coffee,The Cake with Coffee,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+咖啡厅,Sierra Coffee,Sierra Coffee,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+咖啡厅,Simplon,Simplon,0,11.尤布达,0.0,0.0,0.0
+面包甜点,GelartoRosa,GelartoRosa,0,04.乌伊佩斯特,7.5,6.8,7.5
+面包甜点,Gelarto Rosa,Gelarto Rosa,0,05.城市中心-贝尔瓦罗斯,7.2,7.2,6.8
+面包甜点,Cserpes Tejivo,Cserpes Tejivo,0,05.城市中心-贝尔瓦罗斯,7.5,7.5,7.5
+面包甜点,Gerbeaud,Gerbeaud,0,02.布达佩斯,7.3,7.3,7.3
+面包甜点,Leves,Leves,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+面包甜点,il Bacio Caffé,il Bacio Caffé,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+面包甜点,Szamos Kavehaz,Szamos Kavehaz,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+面包甜点,Cake Shop Budapest,Cake Shop Budapest,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Le Bar at Corinthia Hotel Budapest,Le Bar at Corinthia Hotel Budapest,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+面包甜点,Művész Kávéház,Művész Kávéház,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+面包甜点,Napfenyes Etterem,Napfenyes Etterem,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+面包甜点,Duran Szendvics,Duran Szendvics,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+面包甜点,SMUZ,SMUZ,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Sugar!,Sugar!,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+面包甜点,Levendula Kezmuves Fagylaltozo,Levendula Kezmuves Fagylaltozo,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+面包甜点,Nemsuti bisztro,Nemsuti bisztro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Levendula Kezmuves Fagylaltozo,Levendula Kezmuves Fagylaltozo,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+面包甜点,Noir Chocobar,Noir Chocobar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+面包甜点,McKiwan's Szendvics,McKiwan's Szendvics,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Szamos Gourmet Palace,Szamos Gourmet Palace,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Jegbufe,Jegbufe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Fragola,Fragola,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+面包甜点,Frohlich Bakery and Cafe,Frohlich Bakery and Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+面包甜点,Auguszt Cukraszda,Auguszt Cukraszda,0,08.乔瑟法罗斯,0.0,0.0,0.0
+面包甜点,The Donut Library,The Donut Library,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+面包甜点,Mamo Gelato,Mamo Gelato,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+面包甜点,Charlotte Cukraszda,Charlotte Cukraszda,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+面包甜点,Dynamo Bake,Dynamo Bake,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Habos Gofri,Habos Gofri,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Istvan Cukraszda,Istvan Cukraszda,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Go-Free Bar,Go-Free Bar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+面包甜点,Marodi Cukraszda,Marodi Cukraszda,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+面包甜点,Retes Bolt,Retes Bolt,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+面包甜点,Caffe Kor Budapest,Caffe Kor Budapest,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+面包甜点,Princess Nepliget Metro,Princess Nepliget Metro,0,其他,0.0,0.0,0.0
+面包甜点,Tortaszalon,Tortaszalon,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Atrium Sunday Brunch,Atrium Sunday Brunch,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Gelateria Lavanda,Gelateria Lavanda,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+面包甜点,Brios Kavezo,Brios Kavezo,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+面包甜点,Mennivalo Szendvicsbar,Mennivalo Szendvicsbar,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+面包甜点,Dr. Gelato,Dr. Gelato,0,11.尤布达,0.0,0.0,0.0
+面包甜点,"Artigiana Gelati, Budapest","Artigiana Gelati, Budapest",0,12.海伊韦德,0.0,0.0,0.0
+面包甜点,Annaroza Kavezo,Annaroza Kavezo,0,02.布达佩斯,0.0,0.0,0.0
+面包甜点,Macuki-Cuki Cukraszda,Macuki-Cuki Cukraszda,0,布达佩斯机场,0.0,0.0,0.0
+面包甜点,Zangio,Zangio,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+面包甜点,Promise,Promise,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,Ket Szerecsen,Ket Szerecsen,0,06.泰莱萨瓦罗,8.4,8.4,8.4
+酒吧,Léhűtő Craft Beer Bar,Léhűtő Craft Beer Bar,0,07.爱瑟贝瓦罗斯,6.8,6.8,6.8
+酒吧,Innio Wine Bar,Innio Wine Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,Morrison's 2,Morrison's 2,0,其他,0.0,0.0,0.0
+酒吧,Magnum Szauna,Magnum Szauna,0,08.乔瑟法罗斯,0.0,0.0,0.0
+酒吧,Andante Borpatika Wine Bar,Andante Borpatika Wine Bar,0,01.Castle District-Budavá,0.0,0.0,0.0
+酒吧,360 Bar,360 Bar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+酒吧,Kolor,Kolor,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Piazza di Francesco,Piazza di Francesco,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+酒吧,Kisuzem,Kisuzem,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Fióka,Fióka,0,12.海伊韦德,0.0,0.0,0.0
+酒吧,Pointer Pub - Teréz krt,Pointer Pub - Teréz krt,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+酒吧,Akvarium Klub,Akvarium Klub,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,Pigrabbit,Pigrabbit,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,Dzzs Bar,Dzzs Bar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Icebar Budapest,Icebar Budapest,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,Fogashaz,Fogashaz,0,其他,0.0,0.0,0.0
+酒吧,Cafe MaYer,Cafe MaYer,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,Klassz,Klassz,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+酒吧,Instant,Instant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+酒吧,Szimpla Kert,Szimpla Kert,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Szimpla Kert,Szimpla Kert,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Lampas,Lampas,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Kazimir,Kazimir,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,DiVino Gozsdu,DiVino Gozsdu,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Corvinteto,Corvinteto,0,08.乔瑟法罗斯,0.0,0.0,0.0
+酒吧,Bolcso Bar & Food,Bolcso Bar & Food,0,11.尤布达,0.0,0.0,0.0
+酒吧,Sark Bar,Sark Bar,0,01.Castle District-Budavá,0.0,0.0,0.0
+酒吧,Tip Top Bar,Tip Top Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,The Wine Bar Jazz Club,The Wine Bar Jazz Club,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,Suttogo Piano Bar,Suttogo Piano Bar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+酒吧,Sonkapult Reggeliző és Kávézó,Sonkapult Reggeliző és Kávézó,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,De Place Club,De Place Club,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Lokál,Lokál,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Warm Up Bar,Warm Up Bar,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Budapest Jazz Club,Budapest Jazz Club,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+酒吧,Tranzit Art Café,Tranzit Art Café,0,11.尤布达,0.0,0.0,0.0
+酒吧,Semmi Extra,Semmi Extra,0,11.尤布达,0.0,0.0,0.0
+酒吧,Morrison's Opera,Morrison's Opera,0,20.佩斯特赛博特,0.0,0.0,0.0
+酒吧,Villa Bagatelle,Villa Bagatelle,0,19.基什佩斯,0.0,0.0,0.0
+酒吧,Otkert Disco,Otkert Disco,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+酒吧,A38,A38,0,其他,0.0,0.0,0.0
+酒吧,Rizsa Dvá,Rizsa Dvá,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,Trafiq,Trafiq,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,Bar Domby,Bar Domby,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+酒吧,Vakeger Pub,Vakeger Pub,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+酒吧,Revay Sorbar,Revay Sorbar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+酒吧,Bastille Drinkbar,Bastille Drinkbar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+酒吧,Piaf,Piaf,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+酒吧,Astoria Pub,Astoria Pub,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Ordog Katlan Sorozo,Ordog Katlan Sorozo,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Kozpont,Kozpont,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Kandalló Kert,Kandalló Kert,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Szoda Cafe,Szoda Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Pointer Pub - Gozsdu court,Pointer Pub - Gozsdu court,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Kings 3D PUB,Kings 3D PUB,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Club Inside,Club Inside,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+酒吧,Black Pool Biliard,Black Pool Biliard,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+酒吧,"Libella Kavezo, Sorozo","Libella Kavezo, Sorozo",0,11.尤布达,0.0,0.0,0.0
+酒吧,Karady Katalin muzeum kavenhaz,Karady Katalin muzeum kavenhaz,0,02.布达佩斯,0.0,0.0,0.0
+酒吧,Mechwart Pince,Mechwart Pince,0,02.布达佩斯,0.0,0.0,0.0
+酒吧,Eklektika Cafe,Eklektika Cafe,0,布达佩斯机场,0.0,0.0,0.0
+酒吧,Gondozo Kert es Udvar,Gondozo Kert es Udvar,0,布达佩斯机场,0.0,0.0,0.0
+酒吧,Fregatt,Fregatt,0,20.佩斯特赛博特,0.0,0.0,0.0
+酒吧,Tróger Gasztró Bisztró,Tróger Gasztró Bisztró,0,20.佩斯特赛博特,0.0,0.0,0.0
+酒吧,Csendes Tars,Csendes Tars,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+酒吧,POP Presszo & Bar,POP Presszo & Bar,0,04.乌伊佩斯特,0.0,0.0,0.0
+酒吧,Benko Dixieland Club,Benko Dixieland Club,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+酒吧,Pezsego Bar,Pezsego Bar,0,21.切派尔,0.0,0.0,0.0
+酒吧,Restaurante Frizzante,Restaurante Frizzante,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,Becketts Irish Bar,Becketts Irish Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+酒吧,Patent46,Patent46,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Caesar Sorozo,Caesar Sorozo,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+酒吧,Irish Cat Pub,Irish Cat Pub,0,08.乔瑟法罗斯,0.0,0.0,0.0
+酒吧,Madrid Cafe & Bar,Madrid Cafe & Bar,0,布达佩斯机场,0.0,0.0,0.0
+酒吧,Livingroom,Livingroom,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+酒吧,Code7 Restaurant & Café,Code7 Restaurant & Café,0,03.欧布达,0.0,0.0,0.0
+更多美食,New York Cafe,New York Cafe,0,07.爱瑟贝瓦罗斯,7.5,8.8,7.8
+更多美食,Gundel Patisserie,Gundel Patisserie,0,14.佐格洛,8.4,8.0,8.4
+更多美食,Cafe Pierrot,Cafe Pierrot,0,01.Castle District-Budavá,8.0,8.5,8.5
+更多美食,Cafe Vian,Cafe Vian,0,06.泰莱萨瓦罗,8.0,8.2,8.2
+更多美食,Book Cafe,Book Cafe,0,02.布达佩斯,7.2,7.2,7.0
+更多美食,Menza,Menza,0,14.佐格洛,7.5,7.5,7.5
+更多美食,Horvath Etterem,Horvath Etterem,0,01.Castle District-Budavá,7.3,7.3,7.3
+更多美食,Varosliget Cafe & Bar 1895,Varosliget Cafe & Bar 1895,0,14.佐格洛,8.4,8.4,8.4
+更多美食,McDonald's Nyugati,McDonald's Nyugati,0,06.泰莱萨瓦罗,8.3,8.3,8.3
+更多美食,M10 Étterem és Kávézó,M10 Étterem és Kávézó,0,01.Castle District-Budavá,7.3,7.3,7.3
+更多美食,Bock Bistro,Bock Bistro,0,07.爱瑟贝瓦罗斯,7.1,7.5,7.5
+更多美食,Salt&pepper,Salt&pepper,0,05.城市中心-贝尔瓦罗斯,7.1,7.1,7.1
+更多美食,Borkatakomba Restaurant,Borkatakomba Restaurant,0,22.布达福克-泰特尼,6.7,7.5,6.7
+更多美食,Chagall Cafe,Chagall Cafe,0,06.泰莱萨瓦罗,6.8,7.1,7.1
+更多美食,Costes,Costes,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Cafe Kor,Cafe Kor,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Var: a Speiz,Var: a Speiz,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Elso Pesti Reteshaz Kavehaz,Elso Pesti Reteshaz Kavehaz,0,其他,0.0,0.0,0.0
+更多美食,Gundel Etterem,Gundel Etterem,0,14.佐格洛,0.0,0.0,0.0
+更多美食,Firkasz,Firkasz,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Pater Marcus Abbey,Pater Marcus Abbey,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Pampas Steakhouse,Pampas Steakhouse,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,La Pizza Di Mamma Sophia,La Pizza Di Mamma Sophia,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Dunaparti Matroz Kocsma,Dunaparti Matroz Kocsma,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Spinoza,Spinoza,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Zona,Zona,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Walzer Cafe,Walzer Cafe,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Macska Restaurant,Macska Restaurant,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多美食,Hummus Bar,Hummus Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Olimpia,Olimpia,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Old Street Cafe,Old Street Cafe,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Trofea Grill Restaurant,Trofea Grill Restaurant,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Lanchid Sorozo,Lanchid Sorozo,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Sir Lancelot Knights' Restaurant,Sir Lancelot Knights' Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Daubner Cukraszda,Daubner Cukraszda,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Marxim,Marxim,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多美食,Blue Bird Cafe,Blue Bird Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Iguana,Iguana,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Regos Vendeglo es Falatozo,Regos Vendeglo es Falatozo,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Mandragora,Mandragora,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Puder Barszinhaz,Puder Barszinhaz,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Kanaan,Kanaan,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Fruccola,Fruccola,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Cafe Csiga,Cafe Csiga,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多美食,Kompot Bistro,Kompot Bistro,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多美食,Laci!Konyha!,Laci!Konyha!,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Budavar Ruszwurm Cukraszda,Budavar Ruszwurm Cukraszda,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Cafe Picard,Cafe Picard,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Yiddishe Mamma Mia,Yiddishe Mamma Mia,0,04.乌伊佩斯特,0.0,0.0,0.0
+更多美食,Sello,Sello,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多美食,Restaurant du Radisson Hotel,Restaurant du Radisson Hotel,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Stereo Chef,Stereo Chef,0,03.欧布达,0.0,0.0,0.0
+更多美食,Szechenyi Kertvendeglo,Szechenyi Kertvendeglo,0,14.佐格洛,0.0,0.0,0.0
+更多美食,Mongolian BBQ,Mongolian BBQ,0,12.海伊韦德,0.0,0.0,0.0
+更多美食,Mini,Mini,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,hutte cafe Terrace,hutte cafe Terrace,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Cosmo Restaurant,Cosmo Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Boom & Brass,Boom & Brass,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Cafe Miro,Cafe Miro,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Anker Klub,Anker Klub,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Marquis de Salade,Marquis de Salade,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Salon Fine Dining Restaurant,Salon Fine Dining Restaurant,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Bombay Curry Bar,Bombay Curry Bar,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,restaurant Pampuska,restaurant Pampuska,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Nilus Vendeglo,Nilus Vendeglo,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Okay Italia,Okay Italia,0,10.克班雅,0.0,0.0,0.0
+更多美食,King Lajos Restaurant,King Lajos Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Cafe Alibi,Cafe Alibi,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Vendiak Etterem,Vendiak Etterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Taskaradio Eszpresszo,Taskaradio Eszpresszo,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,BorLaBor Restaurant,BorLaBor Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Bonnie Restro Comics,Bonnie Restro Comics,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Ruben,Ruben,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Lobby Cafe at Budapest Marriott Hotel,Lobby Cafe at Budapest Marriott Hotel,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Aqva Lounge Bar,Aqva Lounge Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Gerloczy Kavehaz Cafe and Restaurant,Gerloczy Kavehaz Cafe and Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Italiano,Italiano,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,First Strudel House of Pest,First Strudel House of Pest,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Mannatural Life Bar,Mannatural Life Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Don Pepe,Don Pepe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Mozaik Kavezo,Mozaik Kavezo,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,L'Occhio Di Stile Bar & Restaurant,L'Occhio Di Stile Bar & Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Callas Café & Restaurant,Callas Café & Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Komedias Kavehaz,Komedias Kavehaz,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Instant,Instant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Potkulcs,Potkulcs,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Teli Kertem,Teli Kertem,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Arany Pince,Arany Pince,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Old Man's Music Pub,Old Man's Music Pub,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Piszkos Fred Pub and Restaurant,Piszkos Fred Pub and Restaurant,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Kadar Etterem,Kadar Etterem,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Haxen Kiraly,Haxen Kiraly,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Don Leone Restaurant,Don Leone Restaurant,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多美食,Pozsonyi Kisvendeglo,Pozsonyi Kisvendeglo,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Claro Bistro,Claro Bistro,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,iF Cafe,iF Cafe,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Serpince,Serpince,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Citadella,Citadella,0,11.尤布达,0.0,0.0,0.0
+更多美食,Edeni Vegan Etterem,Edeni Vegan Etterem,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Coyote Coffee & Deli,Coyote Coffee & Deli,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Arany Kaviar,Arany Kaviar,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Toldi Etkezde,Toldi Etkezde,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Bodrogi,Bodrogi,0,12.海伊韦德,0.0,0.0,0.0
+更多美食,Majorka,Majorka,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Bors Gasztrobar,Bors Gasztrobar,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多美食,Iguana Bar&Grill,Iguana Bar&Grill,0,19.基什佩斯,0.0,0.0,0.0
+更多美食,Grey Goose,Grey Goose,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多美食,Bangla Bufe,Bangla Bufe,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多美食,Mokka Cafe & Restaurant,Mokka Cafe & Restaurant,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多美食,Trofea Grill Restaurant Zuglo,Trofea Grill Restaurant Zuglo,0,22.布达福克-泰特尼,0.0,0.0,0.0
+更多美食,Kino Mozi,Kino Mozi,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Garbo Cafe,Garbo Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,A Feszek,A Feszek,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Vari Cukraszda,Vari Cukraszda,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多美食,Menta Terasz,Menta Terasz,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Sisi Restaurant,Sisi Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Platz,Platz,0,其他,0.0,0.0,0.0
+更多美食,Mantra Specialty Coffee Minibar,Mantra Specialty Coffee Minibar,0,其他,0.0,0.0,0.0
+更多美食,Rozsavolgyi Csokolade,Rozsavolgyi Csokolade,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Variete Bisztro and Bar,Variete Bisztro and Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Publikus,Publikus,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Govinda Vega Sarok,Govinda Vega Sarok,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Egyketto,Egyketto,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Corso Restaurant,Corso Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Fekete Kavezo,Fekete Kavezo,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Silenus Pub & Rézangyal Bistro,Silenus Pub & Rézangyal Bistro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Hild Etterem,Hild Etterem,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Pava,Pava,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Burrita Mexican Street Kitchen,Burrita Mexican Street Kitchen,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Roosevelt,Roosevelt,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Leroy,Leroy,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Nonloso Caffe & Bar,Nonloso Caffe & Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Soup Culture,Soup Culture,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Domus Vinorum Wine House and Event Hall,Domus Vinorum Wine House and Event Hall,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Cafe Cicero,Cafe Cicero,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,G4 garibaldi,G4 garibaldi,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Szalai Cukraszda,Szalai Cukraszda,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Anker' T,Anker' T,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Bordo Bisztro,Bordo Bisztro,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Cafe Zsivago,Cafe Zsivago,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Incognito,Incognito,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Patko Bandi,Patko Bandi,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Zappa Cafe,Zappa Cafe,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Ellato,Ellato,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Bar Ladino,Bar Ladino,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Kuplung,Kuplung,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Csak a Jo Sor,Csak a Jo Sor,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,VinoWonka,VinoWonka,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多美食,Coffeeshop Company,Coffeeshop Company,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多美食,Sirius teahouse,Sirius teahouse,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多美食,Europa Kavehaz,Europa Kavehaz,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Pronto Restaurant & Pizzeria,Pronto Restaurant & Pizzeria,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Dunapark Cafe,Dunapark Cafe,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Don Roberto Pizzeria,Don Roberto Pizzeria,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Birs Bisztro,Birs Bisztro,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Kaltenberg,Kaltenberg,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Lizard,Lizard,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Pipa Etterem,Pipa Etterem,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Marie Kristensen Sandwich Bar,Marie Kristensen Sandwich Bar,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Tandoori Indiai Etterem,Tandoori Indiai Etterem,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Korona restaurant,Korona restaurant,0,11.尤布达,0.0,0.0,0.0
+更多美食,Gellert Espresso,Gellert Espresso,0,11.尤布达,0.0,0.0,0.0
+更多美食,Carat Restaurant,Carat Restaurant,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,TG Piccolino,TG Piccolino,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Makos guba,Makos guba,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Manna Euthentic Lounge,Manna Euthentic Lounge,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Nemo Fish & Chips & Salad Bar,Nemo Fish & Chips & Salad Bar,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Cafe Gusto,Cafe Gusto,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Martin's Bistro,Martin's Bistro,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Pizza Paradicsom,Pizza Paradicsom,0,03.欧布达,0.0,0.0,0.0
+更多美食,Dzsungel Café and Restaurant,Dzsungel Café and Restaurant,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Porcellino Grasso Ristorante,Porcellino Grasso Ristorante,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多美食,Bacardi Original Bar,Bacardi Original Bar,0,04.乌伊佩斯特,0.0,0.0,0.0
+更多美食,Al-Amir,Al-Amir,0,04.乌伊佩斯特,0.0,0.0,0.0
+更多美食,Nota Fa,Nota Fa,0,19.基什佩斯,0.0,0.0,0.0
+更多美食,Terv Eszpresszo,Terv Eszpresszo,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多美食,Nador,Nador,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多美食,Tortuga Etterem,Tortuga Etterem,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多美食,Pastrami,Pastrami,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多美食,The Princessin Restaurant,The Princessin Restaurant,0,22.布达福克-泰特尼,0.0,0.0,0.0
+更多美食,Koleskonyha,Koleskonyha,0,22.布达福克-泰特尼,0.0,0.0,0.0
+更多美食,Balettcipo,Balettcipo,0,21.切派尔,0.0,0.0,0.0
+更多美食,Cafe Ponyvaregeny,Cafe Ponyvaregeny,0,其他,0.0,0.0,0.0
+更多美食,Napos Oldal Vegetarianus Etterem,Napos Oldal Vegetarianus Etterem,0,其他,0.0,0.0,0.0
+更多美食,MagHaz Etterem Es TeaHaz,MagHaz Etterem Es TeaHaz,0,其他,0.0,0.0,0.0
+更多美食,Loft Bistro,Loft Bistro,0,其他,0.0,0.0,0.0
+更多美食,Memories Bar,Memories Bar,0,其他,0.0,0.0,0.0
+更多美食,Kon Thai Budapest,Kon Thai Budapest,0,其他,0.0,0.0,0.0
+更多美食,Gombas Etterem,Gombas Etterem,0,其他,0.0,0.0,0.0
+更多美食,Bubble Bar,Bubble Bar,0,其他,0.0,0.0,0.0
+更多美食,Club Verne,Club Verne,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Szinkron Bisztro,Szinkron Bisztro,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Big Ben Teahaz,Big Ben Teahaz,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Mlinar,Mlinar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,The Winebar,The Winebar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Millenium,Millenium,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Margal Restaurant,Margal Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Falafel,Falafel,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Cafe Mediterran,Cafe Mediterran,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Articsoka,Articsoka,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Karma Point,Karma Point,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Picasso Point,Picasso Point,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Pizza Forte,Pizza Forte,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Hopfanatic,Hopfanatic,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,VADaSZ etterem,VADaSZ etterem,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Monopoli Bar Kft,Monopoli Bar Kft,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,MIX Club Bar Restaurant,MIX Club Bar Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Karma Café and Restaurant,Karma Café and Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Zold Villam Etelbar Sorozo-Borozo,Zold Villam Etelbar Sorozo-Borozo,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Walhalla Club,Walhalla Club,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Janos Vitez Kavehaz,Janos Vitez Kavehaz,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Sixtus (6tus),Sixtus (6tus),0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Carmel Pince,Carmel Pince,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Csipesz Bár,Csipesz Bár,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,KFC,KFC,0,07.爱瑟贝瓦罗斯,0.0,0.0,0.0
+更多美食,Garzonkert,Garzonkert,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多美食,Brasil Sport & Coctail Bar,Brasil Sport & Coctail Bar,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多美食,The Sphink,The Sphink,0,08.乔瑟法罗斯,0.0,0.0,0.0
+更多美食,Mocco Kavezo Es Etteren,Mocco Kavezo Es Etteren,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Amelie Cafe,Amelie Cafe,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Soul Bistro,Soul Bistro,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Roxane Cafe & Grill,Roxane Cafe & Grill,0,11.尤布达,0.0,0.0,0.0
+更多美食,Wikinger Bisztro,Wikinger Bisztro,0,11.尤布达,0.0,0.0,0.0
+更多美食,Marcello Pizzeria,Marcello Pizzeria,0,11.尤布达,0.0,0.0,0.0
+更多美食,Pagony,Pagony,0,11.尤布达,0.0,0.0,0.0
+更多美食,Gellert Restaurant,Gellert Restaurant,0,11.尤布达,0.0,0.0,0.0
+更多美食,Panorama Restaurant,Panorama Restaurant,0,11.尤布达,0.0,0.0,0.0
+更多美食,Vero Italiano,Vero Italiano,0,11.尤布达,0.0,0.0,0.0
+更多美食,Royal Premium Restaurant,Royal Premium Restaurant,0,14.佐格洛,0.0,0.0,0.0
+更多美食,Pegenini,Pegenini,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Aqua Lounge Bar,Aqua Lounge Bar,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,A'la Bolzano,A'la Bolzano,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Halaszo Flu Terasz,Halaszo Flu Terasz,0,12.海伊韦德,0.0,0.0,0.0
+更多美食,Bangkok BBQ Thai Restaurant,Bangkok BBQ Thai Restaurant,0,12.海伊韦德,0.0,0.0,0.0
+更多美食,Dimitrisz Etteremben,Dimitrisz Etteremben,0,12.海伊韦德,0.0,0.0,0.0
+更多美食,The 58 Cafe,The 58 Cafe,0,12.海伊韦德,0.0,0.0,0.0
+更多美食,Govinda-Buda,Govinda-Buda,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Marche Restaurants Hungary Kft,Marche Restaurants Hungary Kft,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Szepvolgyi Etterem,Szepvolgyi Etterem,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Legenykert,Legenykert,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Udvarhaz,Udvarhaz,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Bukhara Bar,Bukhara Bar,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Bite Sausage & Beer,Bite Sausage & Beer,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Bobek,Bobek,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Detto Bisztro,Detto Bisztro,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Italian Fusion Restaurant,Italian Fusion Restaurant,0,03.欧布达,0.0,0.0,0.0
+更多美食,Harapo Mokus,Harapo Mokus,0,03.欧布达,0.0,0.0,0.0
+更多美食,Fellini Kultur Bisztro,Fellini Kultur Bisztro,0,03.欧布达,0.0,0.0,0.0
+更多美食,Veranda grill and Wine,Veranda grill and Wine,0,03.欧布达,0.0,0.0,0.0
+更多美食,Osteria dell'Oca,Osteria dell'Oca,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Darshan Udvar,Darshan Udvar,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Uj Tunderkert Vendeglo,Uj Tunderkert Vendeglo,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Crazy Cafe,Crazy Cafe,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Bar,Bar,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Breakfast Room,Breakfast Room,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Bistro Jardin,Bistro Jardin,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,"Costa Coffee, Allee Shopping Centre","Costa Coffee, Allee Shopping Centre",0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Vanilin Cukraszda,Vanilin Cukraszda,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多美食,Szoda Cafe,Szoda Cafe,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多美食,Cba,Cba,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多美食,Zold Teknos Barlangja,Zold Teknos Barlangja,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多美食,Kulvarosi Kavehaz,Kulvarosi Kavehaz,0,04.乌伊佩斯特,0.0,0.0,0.0
+更多美食,Pizza Da Marco,Pizza Da Marco,0,19.基什佩斯,0.0,0.0,0.0
+更多美食,Sir Dominik Morik,Sir Dominik Morik,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多美食,Edesmindegy,Edesmindegy,0,16.阿帕德倍倍马加什,0.0,0.0,0.0
+更多美食,Fresh Factory,Fresh Factory,0,22.布达福克-泰特尼,0.0,0.0,0.0
+更多美食,Baroness Lobby Cafe,Baroness Lobby Cafe,0,22.布达福克-泰特尼,0.0,0.0,0.0
+更多美食,Vittula,Vittula,0,22.布达福克-泰特尼,0.0,0.0,0.0
+更多美食,Bajor sorozo,Bajor sorozo,0,22.布达福克-泰特尼,0.0,0.0,0.0
+更多美食,I.C.E. Cafe,I.C.E. Cafe,0,21.切派尔,0.0,0.0,0.0
+更多美食,Cafe Montmartre,Cafe Montmartre,0,其他,0.0,0.0,0.0
+更多美食,My Way,My Way,0,其他,0.0,0.0,0.0
+更多美食,Tarnok Kavehaz,Tarnok Kavehaz,0,其他,0.0,0.0,0.0
+更多美食,Varoskozpont,Varoskozpont,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Habibi Shisha Bar,Habibi Shisha Bar,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Planet Cafe,Planet Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Cafe de Paris,Cafe de Paris,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Club Zeitt,Club Zeitt,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Kasmir Divine India,Kasmir Divine India,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Pompei Restaurant and Pizzeria,Pompei Restaurant and Pizzeria,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Moulin Rouge,Moulin Rouge,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Cafe Pausa,Cafe Pausa,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Loft Cafe & Pub,Loft Cafe & Pub,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Cara Mia Etterem es Kavehaz,Cara Mia Etterem es Kavehaz,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Jules Verne,Jules Verne,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Alba Regia,Alba Regia,0,11.尤布达,0.0,0.0,0.0
+更多美食,Passaret Club etterem,Passaret Club etterem,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,"Becsi Szelet, Margit Krt. Etterem","Becsi Szelet, Margit Krt. Etterem",0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Fenyogyongye vendeglo,Fenyogyongye vendeglo,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Ypsilon Cafe,Ypsilon Cafe,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Becketts,Becketts,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Liget Etterem Sorozo,Liget Etterem Sorozo,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Dragit,Dragit,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多美食,For Sale Bar & Restaurant,For Sale Bar & Restaurant,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Govinda Veggie Corner,Govinda Veggie Corner,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Coffee Heaven,Coffee Heaven,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Lakoma Grill,Lakoma Grill,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Replay Cafe,Replay Cafe,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Gerbeaude Cukraszada,Gerbeaude Cukraszada,0,05.城市中心-贝尔瓦罗斯,0.0,0.0,0.0
+更多美食,Birdland,Birdland,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Parizsi Nagyaruhaz Lotz Terem,Parizsi Nagyaruhaz Lotz Terem,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Voros es feher,Voros es feher,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Cafe Aloe,Cafe Aloe,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Baraka Restaurant,Baraka Restaurant,0,06.泰莱萨瓦罗,0.0,0.0,0.0
+更多美食,Central Perk Kavehaz,Central Perk Kavehaz,0,13.玛格丽特昂亚尔佛尔德,0.0,0.0,0.0
+更多美食,Tajtekos Napok,Tajtekos Napok,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,Voros Oroszlan Teahaz,Voros Oroszlan Teahaz,0,09.菲莱瓦罗斯,0.0,0.0,0.0
+更多美食,hellers pub,hellers pub,0,11.尤布达,0.0,0.0,0.0
+更多美食,Kultiplex,Kultiplex,0,11.尤布达,0.0,0.0,0.0
+更多美食,Dal vero Lello,Dal vero Lello,0,11.尤布达,0.0,0.0,0.0
+更多美食,1894 Food & Wine Cellar,1894 Food & Wine Cellar,0,14.佐格洛,0.0,0.0,0.0
+更多美食,Paulaner Sorhaz,Paulaner Sorhaz,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Baldaszti's Kitchen,Baldaszti's Kitchen,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Voros Ordog,Voros Ordog,0,01.Castle District-Budavá,0.0,0.0,0.0
+更多美食,Pizza Hut,Pizza Hut,0,12.海伊韦德,0.0,0.0,0.0
+更多美食,Malomto Etterem,Malomto Etterem,0,02.布达佩斯,0.0,0.0,0.0
+更多美食,Adria Grill,Adria Grill,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,John Bull Sport Pub and Bar,John Bull Sport Pub and Bar,0,布达佩斯机场,0.0,0.0,0.0
+更多美食,Avocado Restaurant & Music Cafe,Avocado Restaurant & Music Cafe,0,15.拉克斯帕罗塔,0.0,0.0,0.0
+更多美食,Negro,Negro,0,04.乌伊佩斯特,0.0,0.0,0.0
+更多美食,Bar Martinez,Bar Martinez,0,16.阿帕德倍倍马加什,0.0,0.0,0.0

@@ -1,0 +1,425 @@
+东南亚菜,Friends the Restaurant,Friends the Restaurant,0,,7.8,7.6,7.9
+东南亚菜,Khmer Surin Restaurant,Khmer Surin Restaurant,0,,7.7,7.3,7.3
+东南亚菜,Kiwi Bakery & Restaurant,Kiwi Bakery & Restaurant,0,,7.0,7.4,7.1
+东南亚菜,Taste Of Asia,Taste Of Asia,0,,6.3,6.3,6.2
+东南亚菜,Chiang Mai Riverside,Chiang Mai Riverside,0,水畔,0.0,0.0,0.0
+东南亚菜,Khmer Thai Restaurant,Khmer Thai Restaurant,0,金边其他,6.9,6.9,6.9
+东南亚菜,Boat Noodle Restaurant,Boat Noodle Restaurant,0,邦景康,0.0,0.0,0.0
+东南亚菜,Ashima Restaurant,Ashima Restaurant,0,,6.9,7.1,6.9
+东南亚菜,Banyan Thai Cuisine,Banyan Thai Cuisine,0,柏丁,0.0,0.0,0.0
+东南亚菜,Morning glory,Morning glory,0,Royal Palace Area,0.0,0.0,0.0
+东南亚菜,Little Noodle Shop,Little Noodle Shop,0,水畔,0.0,0.0,0.0
+东南亚菜,"Tom Yum Kung Restaurant, Phnom Penh","Tom Yum Kung Restaurant, Phnom Penh",0,邦景康,0.0,0.0,0.0
+东南亚菜,Friends,Friends,0,克洛伊长瓦,0.0,0.0,0.0
+东南亚菜,Mey Mey ResTaurAnt,Mey Mey ResTaurAnt,0,,0.0,0.0,0.0
+东南亚菜,Khmer Saravan,Khmer Saravan,0,,0.0,0.0,0.0
+中餐,新莲花餐厅旅店,新莲花餐厅旅店,0,,7.3,7.3,6.6
+中餐,老地方海鲜大酒楼,老地方海鲜大酒楼,0,金边其他,8.1,8.0,8.1
+中餐,Tonle Bassac,Tonle Bassac,0,Toul Svay Prey,0.0,0.0,0.0
+中餐,Dim Sum Emperors,Dim Sum Emperors,0,萨提梅,0.0,0.0,0.0
+中餐,幸运星海鲜大排档,幸运星海鲜大排档,0,水畔,8.4,8.4,8.4
+中餐,香宫,香宫,0,,7.0,7.0,7.0
+中餐,DM Dim Sum Restaurant,DM Dim Sum Restaurant,0,Toul Svay Prey,0.0,0.0,0.0
+中餐,Sam Doo,Sam Doo,0,萨提梅,0.0,0.0,0.0
+中餐,Fu Lu Zu,Fu Lu Zu,0,金边其他,0.0,0.0,0.0
+中餐,Chuck Norris Dim Sum,Chuck Norris Dim Sum,0,萨提梅,0.0,0.0,0.0
+中餐,HANAMI Buffet Restaurant,HANAMI Buffet Restaurant,0,金边其他,0.0,0.0,0.0
+中餐,百喜餐厅,百喜餐厅,0,,0.0,0.0,0.0
+中餐,Emperors Of China,Emperors Of China,0,金边其他,0.0,0.0,0.0
+中餐,Dim Sum Emperors(点心皇),Dim Sum Emperors(点心皇),0,金边其他,0.0,0.0,0.0
+中餐,回味楼,回味楼,0,,0.0,0.0,0.0
+海鲜,老地方海鲜大酒楼,老地方海鲜大酒楼,0,金边其他,8.3,8.0,8.6
+海鲜,Fish Phnom Penh,Fish Phnom Penh,0,金边其他,0.0,0.0,0.0
+海鲜,3A Seafood Restaurant,3A Seafood Restaurant,0,金边其他,0.0,0.0,0.0
+海鲜,Guang Tong Seafood Restaurant,Guang Tong Seafood Restaurant,0,金边其他,0.0,0.0,0.0
+海鲜,Phnom Penh Seafood Restaurant,Phnom Penh Seafood Restaurant,0,金边其他,0.0,0.0,0.0
+日韩料理,Samourai,Samourai,0,Royal Palace Area,0.0,0.0,0.0
+日韩料理,越后屋,越后屋,0,邦景康,7.8,7.3,7.3
+日韩料理,GACHI Japanese Noodle,GACHI Japanese Noodle,0,金边其他,7.0,7.1,6.9
+日韩料理,Mekong Korean Restaurant,Mekong Korean Restaurant,0,金边其他,6.9,6.9,7.1
+日韩料理,炭火烧鸟—甲州,炭火烧鸟—甲州,0,邦景康,7.1,7.1,7.1
+日韩料理,Sesame Noodle Bar,Sesame Noodle Bar,0,Toul Tompoung,0.0,0.0,0.0
+日韩料理,The Sushi Bar Phnom Penh,The Sushi Bar Phnom Penh,0,邦景康,0.0,0.0,0.0
+日韩料理,Doo Re,Doo Re,0,金边其他,0.0,0.0,0.0
+日韩料理,Green Bowl Udon Cafe,Green Bowl Udon Cafe,0,邦景康,0.0,0.0,0.0
+日韩料理,Happa,Happa,0,邦景康,0.0,0.0,0.0
+日韩料理,Spring Vale Japanese food & Cafe,Spring Vale Japanese food & Cafe,0,金边其他,0.0,0.0,0.0
+日韩料理,Japanese restaurant Origami,Japanese restaurant Origami,0,金边其他,0.0,0.0,0.0
+日韩料理,Wasabi Japanese Restaurant,Wasabi Japanese Restaurant,0,金边其他,0.0,0.0,0.0
+日韩料理,Han Kook Kwan Korean Restaurant,Han Kook Kwan Korean Restaurant,0,金边其他,0.0,0.0,0.0
+日韩料理,Le Seoul Korean Restaurant,Le Seoul Korean Restaurant,0,金边其他,0.0,0.0,0.0
+西式正餐,FCC Phnom Penh Restaurant & Bar,FCC Phnom Penh Restaurant & Bar,83,水畔,7.9,8.7,7.6
+西式正餐,Quitapenas,Quitapenas,222,金边其他,8.1,8.1,8.2
+西式正餐,Romdeng Restaruant,Romdeng Restaruant,0,金边其他,7.5,8.0,8.0
+西式正餐,Topaz,Topaz,0,Chamkar Morn,7.7,8.1,7.7
+西式正餐,Touk,Touk,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,Do Forni,Do Forni,0,金边其他,0.0,0.0,0.0
+西式正餐,FCC,FCC,0,,6.7,7.1,6.5
+西式正餐,Shabu Shabu & Sushi Buffet,Shabu Shabu & Sushi Buffet,0,金边其他,7.9,7.9,8.5
+西式正餐,Aroma Chef Bar & Restaurant,Aroma Chef Bar & Restaurant,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,Van's,Van's,0,金边其他,0.0,0.0,0.0
+西式正餐,Karma Restaurant Bar,Karma Restaurant Bar,0,托柯,0.0,0.0,0.0
+西式正餐,Terrazza,Terrazza,0,邦景康,0.0,0.0,0.0
+西式正餐,Pepper Tree,Pepper Tree,0,,7.1,7.1,7.1
+西式正餐,The Latin Quarter,The Latin Quarter,0,萨提梅,0.0,0.0,0.0
+西式正餐,la croisette,la croisette,0,,6.9,7.0,6.9
+西式正餐,Limoncello Pizzeria & Restaurant,Limoncello Pizzeria & Restaurant,0,水畔,0.0,0.0,0.0
+西式正餐,Lone Star Saloon,Lone Star Saloon,0,萨提梅,0.0,0.0,0.0
+西式正餐,Deco,Deco,0,邦景康,0.0,0.0,0.0
+西式正餐,Da Sandro Panini Bar,Da Sandro Panini Bar,0,邦景康,0.0,0.0,0.0
+西式正餐,La Résidence,La Résidence,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,Armand,Armand,0,塔仔山,0.0,0.0,0.0
+西式正餐,ST 63,ST 63,0,邦景康,0.0,0.0,0.0
+西式正餐,Chez Gaston,Chez Gaston,0,水畔,0.0,0.0,0.0
+西式正餐,Bonbon Ice Cream,Bonbon Ice Cream,0,萨提梅,0.0,0.0,0.0
+西式正餐,Piccola Italia Da Luigi,Piccola Italia Da Luigi,0,柏丁,0.0,0.0,0.0
+西式正餐,The Duck,The Duck,0,水畔,0.0,0.0,0.0
+西式正餐,Genova,Genova,0,萨提梅,0.0,0.0,0.0
+西式正餐,ALMA Cafe,ALMA Cafe,0,Toul Tompoung,0.0,0.0,0.0
+西式正餐,La P'tite France,La P'tite France,0,邦景康,0.0,0.0,0.0
+西式正餐,Le Royal,Le Royal,0,塔仔山,0.0,0.0,0.0
+西式正餐,Anaora,Anaora,0,水畔,0.0,0.0,0.0
+西式正餐,New Rega,New Rega,0,塔仔山,0.0,0.0,0.0
+西式正餐,Le Bistrot de Paris,Le Bistrot de Paris,0,邦景康,0.0,0.0,0.0
+西式正餐,Atmosphere,Atmosphere,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,Sugar 'n Spice Garden Cafe,Sugar 'n Spice Garden Cafe,0,Toul Svay Prey,0.0,0.0,0.0
+西式正餐,Cabaret Restaurant,Cabaret Restaurant,0,萨提梅,0.0,0.0,0.0
+西式正餐,Tell,Tell,0,塔仔山,0.0,0.0,0.0
+西式正餐,Digby's,Digby's,0,金边其他,0.0,0.0,0.0
+西式正餐,L'Orchidee Restaurant,L'Orchidee Restaurant,0,Toul Tompoung,0.0,0.0,0.0
+西式正餐,Samba Brazilian Steakhouse,Samba Brazilian Steakhouse,0,柏丁,0.0,0.0,0.0
+西式正餐,Cantina,Cantina,0,水畔,0.0,0.0,0.0
+西式正餐,Taqueria Corona Restaurant,Taqueria Corona Restaurant,0,金边其他,0.0,0.0,0.0
+西式正餐,Irina Russian Restaurant,Irina Russian Restaurant,0,邦景康,0.0,0.0,0.0
+西式正餐,Flavours,Flavours,0,邦景康,0.0,0.0,0.0
+西式正餐,Doors Music+Tapas,Doors Music+Tapas,0,塔仔山,0.0,0.0,0.0
+西式正餐,Open Wine,Open Wine,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,Meta House Art Cafe,Meta House Art Cafe,0,水畔,0.0,0.0,0.0
+西式正餐,Stella restaurant,Stella restaurant,0,塔仔山,0.0,0.0,0.0
+西式正餐,The Fifth Element,The Fifth Element,0,塔仔山,0.0,0.0,0.0
+西式正餐,Le Temps des Cerises,Le Temps des Cerises,0,邦景康,0.0,0.0,0.0
+西式正餐,The Kiosk,The Kiosk,0,萨提梅,0.0,0.0,0.0
+西式正餐,Pan'am,Pan'am,0,邦景康,0.0,0.0,0.0
+西式正餐,T-bone Steakhouse,T-bone Steakhouse,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,Paddy Rice,Paddy Rice,0,水畔,0.0,0.0,0.0
+西式正餐,Viva,Viva,0,水畔,0.0,0.0,0.0
+西式正餐,The Cavern Pub,The Cavern Pub,0,金边其他,0.0,0.0,0.0
+西式正餐,Le Duo,Le Duo,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,The Riverhouse Bistro,The Riverhouse Bistro,0,金边其他,0.0,0.0,0.0
+西式正餐,Boddhi Tree Umma,Boddhi Tree Umma,0,邦景康,0.0,0.0,0.0
+西式正餐,La Rose Restaurant,La Rose Restaurant,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,La Marmite,La Marmite,0,塔仔山,0.0,0.0,0.0
+西式正餐,Blue Dolphin,Blue Dolphin,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,Tuk Tuk Cafe Restaurant,Tuk Tuk Cafe Restaurant,0,邦景康,0.0,0.0,0.0
+西式正餐,Cadillac Bar & Grill,Cadillac Bar & Grill,0,金边其他,0.0,0.0,0.0
+西式正餐,Bougainvillier Restaurant,Bougainvillier Restaurant,0,水畔,0.0,0.0,0.0
+西式正餐,Pop Cafe da Giorgio,Pop Cafe da Giorgio,0,水畔,0.0,0.0,0.0
+西式正餐,Cafe Yejj,Cafe Yejj,0,Toul Tompoung,0.0,0.0,0.0
+西式正餐,Jars of Clay,Jars of Clay,0,Toul Tompoung,0.0,0.0,0.0
+西式正餐,Camory Cafe Restaurant & Bar,Camory Cafe Restaurant & Bar,0,Toul Svay Prey,0.0,0.0,0.0
+西式正餐,New York Steakhouse,New York Steakhouse,0,金边其他,0.0,0.0,0.0
+西式正餐,La Cita Urban Mex Restaurant,La Cita Urban Mex Restaurant,0,邦景康,0.0,0.0,0.0
+西式正餐,Aria D'Italia,Aria D'Italia,0,邦景康,0.0,0.0,0.0
+西式正餐,Le Cafe,Le Cafe,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,Le Bon Cafe & Pub,Le Bon Cafe & Pub,0,金边其他,0.0,0.0,0.0
+西式正餐,Opera Cafe,Opera Cafe,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,Le Jardin,Le Jardin,0,邦景康,0.0,0.0,0.0
+西式正餐,Living Room,Living Room,0,邦景康,0.0,0.0,0.0
+西式正餐,La Patate,La Patate,0,金边其他,0.0,0.0,0.0
+西式正餐,Public House,Public House,0,Royal Palace Area,0.0,0.0,0.0
+西式正餐,Steve's Steakhouse,Steve's Steakhouse,0,邦景康,0.0,0.0,0.0
+西式正餐,PepPer Tree ResTaurAnt,PepPer Tree ResTaurAnt,0,,0.0,0.0,0.0
+西式正餐,Reahoo ResTaurAnt,Reahoo ResTaurAnt,0,金边其他,0.0,0.0,0.0
+西式快餐,Pizza World,Pizza World,0,金边其他,7.0,7.0,7.0
+西式快餐,KFC,KFC,0,金边其他,7.1,6.9,7.0
+西式快餐,Botanico Gastro Bar,Botanico Gastro Bar,0,金边其他,0.0,0.0,0.0
+西式快餐,Happy Herb's Pizza,Happy Herb's Pizza,0,水畔,0.0,0.0,0.0
+西式快餐,Kandal House,Kandal House,0,塔仔山,0.0,0.0,0.0
+西式快餐,Mike's Burger House,Mike's Burger House,0,金边其他,0.0,0.0,0.0
+西式快餐,Fish & Co.,Fish & Co.,0,塔仔山,0.0,0.0,0.0
+西式快餐,Alley Cat Cafe,Alley Cat Cafe,0,Royal Palace Area,0.0,0.0,0.0
+西式快餐,Comme a la Maison,Comme a la Maison,0,塔仔山,0.0,0.0,0.0
+西式快餐,The Shop Too Bakery Cafe  Catering,The Shop Too Bakery Cafe  Catering,0,托柯,0.0,0.0,0.0
+西式快餐,Buffalo Lady,Buffalo Lady,0,金边其他,0.0,0.0,0.0
+西式快餐,Beppe's Pizza,Beppe's Pizza,0,金边其他,0.0,0.0,0.0
+西式快餐,K-West Restaurant and Cafe,K-West Restaurant and Cafe,0,金边其他,0.0,0.0,0.0
+西式快餐,Veiyo Tonle Restaurant,Veiyo Tonle Restaurant,0,水畔,0.0,0.0,0.0
+西式快餐,The Mad Monkey,The Mad Monkey,0,金边其他,0.0,0.0,0.0
+西式快餐,Score Sports Bar and Grill,Score Sports Bar and Grill,0,金边其他,0.0,0.0,0.0
+西式快餐,Dragon House,Dragon House,0,金边其他,0.0,0.0,0.0
+西式快餐,KFC,KFC,0,水畔,0.0,0.0,0.0
+西式快餐,KFC Restaurant,KFC Restaurant,0,金边其他,0.0,0.0,0.0
+西式快餐,On the Corner Restaurant & Café,On the Corner Restaurant & Café,0,金边其他,0.0,0.0,0.0
+西式快餐,Pizza Company,Pizza Company,0,金边其他,0.0,0.0,0.0
+西式快餐,The Pizza Company,The Pizza Company,0,萨提梅,0.0,0.0,0.0
+西式快餐,New Town Pizza,New Town Pizza,0,,0.0,0.0,0.0
+西式快餐,Herb Café,Herb Café,0,金边其他,0.0,0.0,0.0
+西式快餐,Home Café,Home Café,0,金边其他,0.0,0.0,0.0
+西式快餐,KFC,KFC,0,金边其他,0.0,0.0,0.0
+西式快餐,Nike's Pizza House,Nike's Pizza House,0,金边其他,0.0,0.0,0.0
+西式快餐,Sapino Pizza Toul Kok,Sapino Pizza Toul Kok,0,金边其他,0.0,0.0,0.0
+更多亚洲菜,Malis Restaurant,Malis Restaurant,114,邦景康,8.0,8.7,8.1
+更多亚洲菜,Romdeng,Romdeng,0,Royal Palace Area,0.0,0.0,0.0
+更多亚洲菜,"Ngon Restaurant, Phnom Penh, Cambodia","Ngon Restaurant, Phnom Penh, Cambodia",0,邦景康,0.0,0.0,0.0
+更多亚洲菜,Tepui at Chinese House,Tepui at Chinese House,0,金边其他,0.0,0.0,0.0
+更多亚洲菜,Petra,Petra,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,Irrawaddi Myanmar Gallery Restaurant,Irrawaddi Myanmar Gallery Restaurant,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,Angkor India,Angkor India,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,Magnolia Vietnamese Restaurant,Magnolia Vietnamese Restaurant,0,Royal Palace Area,0.0,0.0,0.0
+更多亚洲菜,The inDian,The inDian,0,金边其他,7.1,7.0,7.0
+更多亚洲菜,Anjali Restaurant Bar,Anjali Restaurant Bar,0,水畔,0.0,0.0,0.0
+更多亚洲菜,The Laughing Fatman,The Laughing Fatman,0,奥林匹克,0.0,0.0,0.0
+更多亚洲菜,Flavours of India,Flavours of India,0,金边其他,0.0,0.0,0.0
+更多亚洲菜,Kabbas,Kabbas,0,奥林匹克,0.0,0.0,0.0
+更多亚洲菜,Lucky Pho,Lucky Pho,0,Royal Palace Area,0.0,0.0,0.0
+更多亚洲菜,Sumatra Restaurant,Sumatra Restaurant,0,Toul Tompoung,0.0,0.0,0.0
+更多亚洲菜,Yumi,Yumi,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,El Mundo Cafe & Restaurant,El Mundo Cafe & Restaurant,0,水畔,0.0,0.0,0.0
+更多亚洲菜,khmer food,khmer food,0,水畔,0.0,0.0,0.0
+更多亚洲菜,Naturae,Naturae,0,Royal Palace Area,0.0,0.0,0.0
+更多亚洲菜,Sher-E-Punjab 2,Sher-E-Punjab 2,0,水畔,0.0,0.0,0.0
+更多亚洲菜,Bopha Phnom Penh - Titanic Restaurant,Bopha Phnom Penh - Titanic Restaurant,0,水畔,0.0,0.0,0.0
+更多亚洲菜,Mama,Mama,0,奥林匹克,0.0,0.0,0.0
+更多亚洲菜,Siem Reap II,Siem Reap II,0,水畔,0.0,0.0,0.0
+更多亚洲菜,Tan Tan Restaurant,Tan Tan Restaurant,0,Toul Tompoung,0.0,0.0,0.0
+更多亚洲菜,Phnom Penh Indian,Phnom Penh Indian,0,托柯,0.0,0.0,0.0
+更多亚洲菜,The Common Tiger,The Common Tiger,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,K'NYAY,K'NYAY,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,Khmer Surin,Khmer Surin,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,the Chat'n Chew,the Chat'n Chew,0,Royal Palace Area,0.0,0.0,0.0
+更多亚洲菜,Cafe Metro,Cafe Metro,0,水畔,0.0,0.0,0.0
+更多亚洲菜,The Kathmandu Kitchen,The Kathmandu Kitchen,0,水畔,0.0,0.0,0.0
+更多亚洲菜,Baitong Restaurant,Baitong Restaurant,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,The Bright Lotus,The Bright Lotus,0,Royal Palace Area,0.0,0.0,0.0
+更多亚洲菜,Sher-e-Punjab,Sher-e-Punjab,0,金边其他,0.0,0.0,0.0
+更多亚洲菜,La Table Khmere,La Table Khmere,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,Warung Bali,Warung Bali,0,金边其他,0.0,0.0,0.0
+更多亚洲菜,Taste Budz,Taste Budz,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,Khmer Saravan,Khmer Saravan,0,水畔,0.0,0.0,0.0
+更多亚洲菜,Jaan restaurant,Jaan restaurant,0,塔仔山,0.0,0.0,0.0
+更多亚洲菜,Mumtaz Indian Restaurant,Mumtaz Indian Restaurant,0,Chamkar Morn,0.0,0.0,0.0
+更多亚洲菜,Le Rit's,Le Rit's,0,Royal Palace Area,0.0,0.0,0.0
+更多亚洲菜,Herb Cafe,Herb Cafe,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,The Green Vespa,The Green Vespa,0,水畔,0.0,0.0,0.0
+更多亚洲菜,Yike Bar And Restaurant,Yike Bar And Restaurant,0,水畔,0.0,0.0,0.0
+更多亚洲菜,Sovanna,Sovanna,0,金边其他,0.0,0.0,0.0
+更多亚洲菜,The Med Zone,The Med Zone,0,金边其他,0.0,0.0,0.0
+更多亚洲菜,Liquid Bar,Liquid Bar,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,LaDolce Vita Restaurant,LaDolce Vita Restaurant,0,Royal Palace Area,0.0,0.0,0.0
+更多亚洲菜,"Anise Restaurant, Phnom Penh","Anise Restaurant, Phnom Penh",0,金边其他,0.0,0.0,0.0
+更多亚洲菜,Shiva Shakti,Shiva Shakti,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,Mekong River Restaurant,Mekong River Restaurant,0,金边其他,0.0,0.0,0.0
+更多亚洲菜,Sugar Palm,Sugar Palm,0,萨提梅,0.0,0.0,0.0
+更多亚洲菜,Dosa Corner,Dosa Corner,0,邦景康,0.0,0.0,0.0
+更多亚洲菜,Riverside Bistro,Riverside Bistro,0,金边其他,0.0,0.0,0.0
+更多亚洲菜,Royal Punjab Indian Restaurant,Royal Punjab Indian Restaurant,0,金边其他,0.0,0.0,0.0
+更多亚洲菜,Walkabout Hotel,Walkabout Hotel,0,Royal Palace Area,0.0,0.0,0.0
+更多亚洲菜,Flavors Of India,Flavors Of India,0,金边其他,0.0,0.0,0.0
+更多亚洲菜,Royal India Resturant,Royal India Resturant,0,金边其他,0.0,0.0,0.0
+酒吧,Bojangles Bar Restaurant,Bojangles Bar Restaurant,0,水畔,0.0,0.0,0.0
+酒吧,KeySo音乐餐吧,KeySo音乐餐吧,0,,7.5,7.5,7.5
+酒吧,69 Bar,69 Bar,0,,6.7,6.7,6.9
+酒吧,High Sky Hotel,High Sky Hotel,0,,7.3,6.8,7.3
+酒吧,Elephant Bar,Elephant Bar,0,,6.9,6.9,6.9
+酒吧,Anjali Bar & Restaurant,Anjali Bar & Restaurant,0,金边其他,7.0,6.9,6.9
+酒吧,Eden's Bar,Eden's Bar,0,水畔,7.0,7.1,6.7
+酒吧,The Sugar Palm Restaurant & Bar,The Sugar Palm Restaurant & Bar,0,金边其他,6.9,7.0,6.6
+酒吧,Freebird Bar & Grill,Freebird Bar & Grill,0,Royal Palace Area,0.0,0.0,0.0
+酒吧,Pteah Clare,Pteah Clare,0,邦景康,0.0,0.0,0.0
+酒吧,Himawari Microbrewery,Himawari Microbrewery,0,水畔,0.0,0.0,0.0
+酒吧,Garage Bar,Garage Bar,0,塔仔山,0.0,0.0,0.0
+酒吧,Gym Bar,Gym Bar,0,Royal Palace Area,0.0,0.0,0.0
+酒吧,Fox Wine Bistro,Fox Wine Bistro,0,水畔,0.0,0.0,0.0
+酒吧,Eypt Bar,Eypt Bar,0,金边其他,0.0,0.0,0.0
+酒吧,Vego Salad Bar,Vego Salad Bar,0,金边其他,0.0,0.0,0.0
+酒吧,Paddy Rice Sports Bar,Paddy Rice Sports Bar,0,,0.0,0.0,0.0
+酒吧,The Sushi Bar,The Sushi Bar,0,金边其他,0.0,0.0,0.0
+酒吧,Shanghai Bar,Shanghai Bar,0,,0.0,0.0,0.0
+酒吧,The Lobby Bar,The Lobby Bar,0,水畔,0.0,0.0,0.0
+酒吧,Poolside Bar,Poolside Bar,0,,0.0,0.0,0.0
+酒吧,Angkor International,Angkor International,0,金边其他,0.0,0.0,0.0
+酒吧,Arnchor's House,Arnchor's House,0,金边其他,0.0,0.0,0.0
+酒吧,C2 Lounge,C2 Lounge,0,金边其他,0.0,0.0,0.0
+酒吧,COBRA KTV,COBRA KTV,0,金边其他,0.0,0.0,0.0
+酒吧,Olympic Luxury VIP KTV,Olympic Luxury VIP KTV,0,金边其他,0.0,0.0,0.0
+酒吧,Pochentong Drink Shop,Pochentong Drink Shop,0,金边其他,0.0,0.0,0.0
+酒吧,Candy Bar,Candy Bar,0,金边其他,0.0,0.0,0.0
+烧烤,BBQ Chicken,BBQ Chicken,0,金边其他,6.7,6.3,6.7
+烧烤,Uraetei Japanese BBQ Restaurant,Uraetei Japanese BBQ Restaurant,0,Chamkar Morn,6.9,7.1,6.9
+烧烤,空军一号烧烤,空军一号烧烤,0,金边其他,7.7,7.7,7.7
+烧烤,Quealy's Bar & Grill,Quealy's Bar & Grill,0,水畔,0.0,0.0,0.0
+烧烤,Charcoal BBQ & Soup,Charcoal BBQ & Soup,0,金边其他,0.0,0.0,0.0
+烧烤,大陈烧烤,大陈烧烤,0,,0.0,0.0,0.0
+烧烤,T168 BBQ,T168 BBQ,0,金边其他,0.0,0.0,0.0
+烧烤,零点烧烤，金边烧烤，中国烧烤，羊肉串,零点烧烤，金边烧烤，中国烧烤，羊肉串,0,,0.0,0.0,0.0
+烧烤,Yeay Saron BBQ,Yeay Saron BBQ,0,金边其他,0.0,0.0,0.0
+烧烤,Heng Men BBQ,Heng Men BBQ,0,金边其他,0.0,0.0,0.0
+烧烤,BBQ Restaurant,BBQ Restaurant,0,金边其他,0.0,0.0,0.0
+烧烤,Pink 4 BBQ,Pink 4 BBQ,0,金边其他,0.0,0.0,0.0
+咖啡厅,Brown Coffee Bakery,Brown Coffee Bakery,0,,7.5,7.5,7.0
+咖啡厅,Brown Coffee and Bakery,Brown Coffee and Bakery,0,金边其他,6.8,6.8,6.8
+咖啡厅,Joma,Joma,0,邦景康,7.0,7.3,7.0
+咖啡厅,Costa Coffee,Costa Coffee,0,Royal Palace Area,7.1,7.3,7.1
+咖啡厅,Grand River Cafe,Grand River Cafe,0,,6.9,8.2,7.5
+咖啡厅,Feel Good Cafe & Coffee Roasters,Feel Good Cafe & Coffee Roasters,0,萨提梅,0.0,0.0,0.0
+咖啡厅,：大都会茶餐厅CITYMALL RESTAURANT,：大都会茶餐厅CITYMALL RESTAURANT,0,,7.7,7.7,7.7
+咖啡厅,Kiriya Cafe,Kiriya Cafe,0,Royal Palace Area,0.0,0.0,0.0
+咖啡厅,大都会.茶餐厅CITYMALL RESTAURANT,大都会.茶餐厅CITYMALL RESTAURANT,0,,7.7,7.7,7.7
+咖啡厅,High Sky Hotel,High Sky Hotel,0,,7.3,6.8,7.3
+咖啡厅,BROWN Coffee And Bakery,BROWN Coffee And Bakery(57街店),0,金边其他,7.1,7.1,6.9
+咖啡厅,Orchidee Restaurant,Orchidee Restaurant,0,金边其他,7.0,6.9,6.9
+咖啡厅,ARTillery,ARTillery,0,Royal Palace Area,0.0,0.0,0.0
+咖啡厅,Crepe Mania Cafe,Crepe Mania Cafe,0,Royal Palace Area,0.0,0.0,0.0
+咖啡厅,Craft Peace Cafe,Craft Peace Cafe,0,邦景康,0.0,0.0,0.0
+咖啡厅,Brown Coffee and Bakery,Brown Coffee and Bakery,0,Toul Tompoung,0.0,0.0,0.0
+咖啡厅,Bloom Cafe & Training Centre,Bloom Cafe & Training Centre,0,Royal Palace Area,0.0,0.0,0.0
+咖啡厅,Vego Salad Bar,Vego Salad Bar,0,邦景康,0.0,0.0,0.0
+咖啡厅,"Artillery cafe, phnom penh","Artillery cafe, phnom penh",0,邦景康,0.0,0.0,0.0
+咖啡厅,Brown,Brown,0,Royal Palace Area,0.0,0.0,0.0
+咖啡厅,Lazy Gecko Cafe,Lazy Gecko Cafe,0,水畔,0.0,0.0,0.0
+咖啡厅,Cafe Soleil,Cafe Soleil,0,邦景康,0.0,0.0,0.0
+咖啡厅,Aussie XL Cafe,Aussie XL Cafe,0,金边其他,0.0,0.0,0.0
+咖啡厅,Brown Coffee and Bakery 2,Brown Coffee and Bakery 2,0,金边其他,0.0,0.0,0.0
+咖啡厅,Friend Cafe,Friend Cafe,0,金边其他,0.0,0.0,0.0
+咖啡厅,Bloom Cafe,Bloom Cafe,0,金边其他,0.0,0.0,0.0
+咖啡厅,KING CAFE & RESTAURANT,KING CAFE & RESTAURANT,0,金边其他,0.0,0.0,0.0
+咖啡厅,Express Cafe House,Express Cafe House,0,金边其他,0.0,0.0,0.0
+咖啡厅,Banyan Coffee & Restaurant,Banyan Coffee & Restaurant,0,金边其他,0.0,0.0,0.0
+咖啡厅,Cafe 85,Cafe 85,0,金边其他,0.0,0.0,0.0
+咖啡厅,Dao Coffee,Dao Coffee,0,金边其他,0.0,0.0,0.0
+咖啡厅,Mey Mey Cafe Tep Phorn,Mey Mey Cafe Tep Phorn,0,金边其他,0.0,0.0,0.0
+咖啡厅,"Three Corner Coffee Co., Ltd.","Three Corner Coffee Co., Ltd.",0,金边其他,0.0,0.0,0.0
+咖啡厅,Park Cafe,Park Cafe,0,金边其他,0.0,0.0,0.0
+咖啡厅,Park Cafe 1,Park Cafe 1,0,金边其他,0.0,0.0,0.0
+小吃,鹿港小镇,鹿港小镇,0,萨提梅,7.0,6.9,7.1
+小吃,The Empire,The Empire,0,水畔,0.0,0.0,0.0
+小吃,Cafe Fresco,Cafe Fresco,0,水畔,0.0,0.0,0.0
+小吃,David's Restaurant - Handmade Noodles,David's Restaurant - Handmade Noodles,0,水畔,0.0,0.0,0.0
+小吃,Fatboy Sub & Sandwich,Fatboy Sub & Sandwich,0,金边其他,0.0,0.0,0.0
+小吃,La Coupole,La Coupole,0,金边其他,0.0,0.0,0.0
+小吃,Morng Sokha,Morng Sokha,0,金边其他,0.0,0.0,0.0
+小吃,Nuy Bunthy,Nuy Bunthy,0,金边其他,0.0,0.0,0.0
+小吃,Milk Green Tea,Milk Green Tea,0,金边其他,0.0,0.0,0.0
+小吃,老地方2,老地方2,0,,0.0,0.0,0.0
+小吃,@home,@home,0,金边其他,0.0,0.0,0.0
+小吃,Botanico GastroBar,Botanico GastroBar,0,金边其他,0.0,0.0,0.0
+小吃,Gloria Jean's,Gloria Jean's,0,金边其他,0.0,0.0,0.0
+小吃,J Lounge,J Lounge,0,金边其他,0.0,0.0,0.0
+面包甜点,ABC Bakery,ABC Bakery,0,金边其他,6.8,6.8,6.8
+面包甜点,"The Shop - Bakery, Cafe  Catering","The Shop - Bakery, Cafe  Catering",0,Royal Palace Area,0.0,0.0,0.0
+面包甜点,The deli restaurant-bakery-catering-pizzeria,The deli restaurant-bakery-catering-pizzeria,0,Royal Palace Area,0.0,0.0,0.0
+面包甜点,食之秘,食之秘,0,金边其他,7.0,7.0,7.0
+面包甜点,Buffalo Sister,Buffalo Sister,0,水畔,0.0,0.0,0.0
+面包甜点,Divine Pizza and Ribs,Divine Pizza and Ribs,0,Toul Tompoung,0.0,0.0,0.0
+面包甜点,CHOCOLATE by The SHOP,CHOCOLATE by The SHOP,0,Royal Palace Area,0.0,0.0,0.0
+面包甜点,Sisters All Day Breakfast,Sisters All Day Breakfast,0,邦景康,0.0,0.0,0.0
+面包甜点,Toto Ice Cream & Dessert Cafe,Toto Ice Cream & Dessert Cafe,0,Royal Palace Area,0.0,0.0,0.0
+面包甜点,金源蛋糕,金源蛋糕,0,,0.0,0.0,0.0
+面包甜点,Angkor Bakery,Angkor Bakery,0,,0.0,0.0,0.0
+面包甜点,Chey Mongkol Wedding Embellishment Shop,Chey Mongkol Wedding Embellishment Shop,0,金边其他,0.0,0.0,0.0
+面包甜点,Pich Vattey Wedding Embellistment Shop,Pich Vattey Wedding Embellistment Shop,0,金边其他,0.0,0.0,0.0
+面包甜点,Mongkul Khmer Handicraft,Mongkul Khmer Handicraft,0,,0.0,0.0,0.0
+面包甜点,"Asia Bakery and Confectionery Pld,ltd","Asia Bakery and Confectionery Pld,ltd",0,金边其他,0.0,0.0,0.0
+面包甜点,ABC Bakery - Sihanouk Blvd,ABC Bakery - Sihanouk Blvd,0,,0.0,0.0,0.0
+面包甜点,Anniversary Cake Bakery,Anniversary Cake Bakery,0,金边其他,0.0,0.0,0.0
+面包甜点,Harem Shisha Loung,Harem Shisha Loung,0,金边其他,0.0,0.0,0.0
+面包甜点,Neak Porn II,Neak Porn II,0,金边其他,0.0,0.0,0.0
+面包甜点,Santhor Muk Bakery,Santhor Muk Bakery,0,金边其他,0.0,0.0,0.0
+面包甜点,Sen Sok Bakery Shop,Sen Sok Bakery Shop,0,金边其他,0.0,0.0,0.0
+其他美食,Malis Restaurant,Malis Restaurant,0,金边其他,7.6,8.5,8.4
+其他美食,The Blue Pumkin,The Blue Pumkin,0,金边其他,7.4,7.4,7.6
+其他美食,Bopha Phnom Penh Restaurant,Bopha Phnom Penh Restaurant,0,金边其他,8.2,8.3,8.4
+其他美食,Khmer Borane Restaurant,Khmer Borane Restaurant,0,水畔,0.0,0.0,0.0
+其他美食,冰雪皇后,冰雪皇后,0,金边国际机场,6.3,6.3,6.3
+其他美食,Pyong Yang Restaurant,Pyong Yang Restaurant,0,金边其他,7.2,7.8,7.7
+其他美食,Brasserie du Port,Brasserie du Port,0,金边其他,0.0,0.0,0.0
+其他美食,123 Restaurant,123 Restaurant,0,金边其他,5.9,6.3,6.3
+其他美食,Pho 24,Pho 24,0,金边其他,8.1,7.4,7.4
+其他美食,KWest,KWest,0,水畔,0.0,0.0,0.0
+其他美食,The Lost Room,The Lost Room,0,金边其他,6.9,6.9,6.9
+其他美食,The Pizza Company(@Sorya),The Pizza Company(@Sorya),0,萨提梅,0.0,0.0,0.0
+其他美食,Kabbas,Kabbas,0,金边其他,7.4,7.4,7.4
+其他美食,Samaky,Samaky,0,邦景康,0.0,0.0,0.0
+其他美食,topaz,topaz,0,,7.1,7.1,7.1
+其他美食,The Shop Too,The Shop Too,0,金边其他,7.0,7.1,7.1
+其他美食,Van's Restaurant,Van's Restaurant,0,金边其他,7.5,7.5,7.5
+其他美食,Luna d'Autunno,Luna d'Autunno,0,金边其他,6.7,7.4,7.4
+其他美食,The Plantation,The Plantation,0,Royal Palace Area,0.0,0.0,0.0
+其他美食,Beirut Resto-Cafe,Beirut Resto-Cafe,0,水畔,0.0,0.0,0.0
+其他美食,Dine in the Dark,Dine in the Dark,0,柏丁,0.0,0.0,0.0
+其他美食,Lotus Blanc,Lotus Blanc,0,邦景康,0.0,0.0,0.0
+其他美食,La Pleine Lune,La Pleine Lune,0,萨提梅,0.0,0.0,0.0
+其他美食,Chilly Noodle House,Chilly Noodle House,0,Royal Palace Area,0.0,0.0,0.0
+其他美食,The Corn,The Corn,0,水畔,0.0,0.0,0.0
+其他美食,Coriander,Coriander,0,金边其他,0.0,0.0,0.0
+其他美食,Lemongrass Restaurant,Lemongrass Restaurant,0,萨提梅,0.0,0.0,0.0
+其他美食,Frizz,Frizz,0,Royal Palace Area,0.0,0.0,0.0
+其他美食,La Dolce Vita,La Dolce Vita,0,金边其他,0.0,0.0,0.0
+其他美食,Tamarind,Tamarind,0,金边其他,0.0,0.0,0.0
+其他美食,Sonoma Oyster,Sonoma Oyster,0,邦景康,0.0,0.0,0.0
+其他美食,Mount Everest,Mount Everest,0,邦景康,0.0,0.0,0.0
+其他美食,La Croisette,La Croisette,0,金边其他,0.0,0.0,0.0
+其他美食,Le Wok,Le Wok,0,邦景康,0.0,0.0,0.0
+其他美食,Mama's Restaurant,Mama's Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Ocean,Ocean,0,邦景康,0.0,0.0,0.0
+其他美食,The Exchange,The Exchange,0,金边其他,0.0,0.0,0.0
+其他美食,Nike's Pizza House,Nike's Pizza House,0,柏丁,0.0,0.0,0.0
+其他美食,Pacharan,Pacharan,0,水畔,0.0,0.0,0.0
+其他美食,Evergreen Vegetarian Restaurant,Evergreen Vegetarian Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Luna D'Autunno,Luna D'Autunno,0,金边其他,0.0,0.0,0.0
+其他美食,Hagar Restaurant,Hagar Restaurant,0,邦景康,0.0,0.0,0.0
+其他美食,The Vegetarian,The Vegetarian,0,柏丁,0.0,0.0,0.0
+其他美食,Chi Cha Restaurant & Guest House,Chi Cha Restaurant & Guest House,0,金边其他,0.0,0.0,0.0
+其他美食,Warung Bali,Warung Bali,0,金边其他,0.0,0.0,0.0
+其他美食,Sam Doo,Sam Doo,0,金边其他,0.0,0.0,0.0
+其他美食,Kobe Restaurant,Kobe Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Baitong Restaurant,Baitong Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Lotus Blanc,Lotus Blanc,0,金边其他,0.0,0.0,0.0
+其他美食,Almond Hotel,Almond Hotel,0,柏丁,0.0,0.0,0.0
+其他美食,Champs Elysees Hotel,Champs Elysees Hotel,0,金边其他,0.0,0.0,0.0
+其他美食,Dean Angkor Restaurant,Dean Angkor Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Seven​ Lucky Bright Restaurant,Seven​ Lucky Bright Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,City Cat,City Cat,0,金边其他,0.0,0.0,0.0
+其他美食,Le Liban,Le Liban,0,金边其他,0.0,0.0,0.0
+其他美食,Fish Phnom Penh,Fish Phnom Penh,0,金边其他,0.0,0.0,0.0
+其他美食,Friends Restaurant,Friends Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Mekong River Restaurant,Mekong River Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,555 Breed restaurant,555 Breed restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Opera Restaurant,Opera Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Diary Queen,Diary Queen,0,金边其他,0.0,0.0,0.0
+其他美食,Romdeng,Romdeng,0,金边其他,0.0,0.0,0.0
+其他美食,Always Spring Garden Restaurant,Always Spring Garden Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,"Armstrong Engineering Co., Ltd.","Armstrong Engineering Co., Ltd.",0,金边其他,0.0,0.0,0.0
+其他美食,BB World Monivong,BB World Monivong,0,金边其他,0.0,0.0,0.0
+其他美食,Chrolom Kou Restaurant,Chrolom Kou Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Frizz Restaurant,Frizz Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Kari,Kari,0,金边其他,0.0,0.0,0.0
+其他美食,La Residence,La Residence,0,金边其他,0.0,0.0,0.0
+其他美食,la residence restaurant,la residence restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Le Cedre,Le Cedre,0,金边其他,0.0,0.0,0.0
+其他美食,Lesafran Restaurant U & Me Massage & Spa,Lesafran Restaurant U & Me Massage & Spa,0,金边其他,0.0,0.0,0.0
+其他美食,Mama's New York Deli,Mama's New York Deli,0,金边其他,0.0,0.0,0.0
+其他美食,Master Grill,Master Grill,0,金边其他,0.0,0.0,0.0
+其他美食,Master Suki Soup,Master Suki Soup,0,水畔,0.0,0.0,0.0
+其他美食,Master Suki Soup - Bak Touk,Master Suki Soup - Bak Touk,0,金边其他,0.0,0.0,0.0
+其他美食,Nikaza Restaurant,Nikaza Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Phnom Leu Phnom Restaurant,Phnom Leu Phnom Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Phsar Kabko,Phsar Kabko,0,金边其他,0.0,0.0,0.0
+其他美食,Preah Chan Penh Vong Restaurant,Preah Chan Penh Vong Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Prek Tmey Lagneach Sros Restaurant,Prek Tmey Lagneach Sros Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Prek Tmey Lgneach Sros Restaurant,Prek Tmey Lgneach Sros Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Rambo,Rambo,0,金边其他,0.0,0.0,0.0
+其他美食,Ratana Srey Mao II Restaurant,Ratana Srey Mao II Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Samourai,Samourai,0,金边其他,0.0,0.0,0.0
+其他美食,Singapore City,Singapore City,0,金边其他,0.0,0.0,0.0
+其他美食,Sok Leng,Sok Leng,0,金边其他,0.0,0.0,0.0
+其他美食,Sound Chan,Sound Chan,0,金边其他,0.0,0.0,0.0
+其他美食,Steng Sen Restaurant,Steng Sen Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Steve's Steakhouse and Geek Restaurant,Steve's Steakhouse and Geek Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Tinat Restaurant,Tinat Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Tonle Sap Restaurant,Tonle Sap Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Touk,Touk,0,,0.0,0.0,0.0
+其他美食,Toul Sleng 7Makara Restaurant,Toul Sleng 7Makara Restaurant,0,,0.0,0.0,0.0
+其他美食,Vimean Pich,Vimean Pich,0,金边其他,0.0,0.0,0.0
+其他美食,Yakinku Restaurant,Yakinku Restaurant,0,金边其他,0.0,0.0,0.0
+其他美食,Ikwest,Ikwest,0,金边其他,0.0,0.0,0.0

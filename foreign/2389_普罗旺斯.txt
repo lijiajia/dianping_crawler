@@ -1,0 +1,1207 @@
+咖啡厅,梵高咖啡馆,梵高咖啡馆,0,,6.9,6.9,6.7
+咖啡厅,Mund Art,Mund Art,0,02区,0.0,0.0,0.0
+咖啡厅,Coffee to go AS,Coffee to go AS,0,,0.0,0.0,0.0
+咖啡厅,The Olde Bulldogge,The Olde Bulldogge,0,,0.0,0.0,0.0
+咖啡厅,Havana Cafe,Havana Cafe,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+咖啡厅,Pain & Cie Marseille,Pain & Cie Marseille,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+咖啡厅,Le Papagayo,Le Papagayo,0,,0.0,0.0,0.0
+咖啡厅,Green Bear Coffee,Green Bear Coffee,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+咖啡厅,Le Café des Thés,Le Café des Thés,0,08区,0.0,0.0,0.0
+咖啡厅,The Cup of Tea,The Cup of Tea,0,02区,0.0,0.0,0.0
+咖啡厅,Le Panier Marseillais,Le Panier Marseillais,0,02区,0.0,0.0,0.0
+咖啡厅,Coogee,Coogee,0,05区,0.0,0.0,0.0
+咖啡厅,Starbuck coffee,Starbuck coffee,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+咖啡厅,Le vendome,Le vendome,0,,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee Marseille,Starbucks Coffee Marseille,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+咖啡厅,Green Bear Coffee II,Green Bear Coffee II,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+咖啡厅,Cafe de la Vieille Charite,Cafe de la Vieille Charite,0,02区,0.0,0.0,0.0
+咖啡厅,Snack Selsabil,Snack Selsabil,0,马赛其他,0.0,0.0,0.0
+咖啡厅,Café Populaire,Café Populaire,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+咖啡厅,Marseille en Face,Marseille en Face,0,马赛其他,0.0,0.0,0.0
+咖啡厅,Studio B Cafe,Studio B Cafe,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+咖啡厅,Brasserie De L'alcazar,Brasserie De L'alcazar,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Miramar,Le Miramar,0,02区,0.0,0.0,0.0
+法国菜,Cafe de la Paix Restaurant,Cafe de la Paix Restaurant,0,06区-卡斯特拉内普莱菲彻,7.0,7.0,7.0
+法国菜,Le Restaurant LMB Marseille,Le Restaurant LMB Marseille,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Chez Madie les Galinettes,Chez Madie les Galinettes,0,06区-卡斯特拉内普莱菲彻,7.0,7.0,6.8
+法国菜,Alcyone,Alcyone,0,02区,0.0,0.0,0.0
+法国菜,Route de Murs,Route de Murs,0,,7.0,7.0,7.0
+法国菜,L'Atelier du dejeuner,L'Atelier du dejeuner,0,,0.0,0.0,0.0
+法国菜,Un coin de bonheur,Un coin de bonheur,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Dans La Cuisine De Florent,Dans La Cuisine De Florent,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Les Domaines Qui Montent,Les Domaines Qui Montent,0,,0.0,0.0,0.0
+法国菜,Le Bistrot de Forbin,Le Bistrot de Forbin,0,02区,0.0,0.0,0.0
+法国菜,Au Vieux Port,Au Vieux Port,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Carré des Maîtres,Le Carré des Maîtres,0,,0.0,0.0,0.0
+法国菜,Le Patio,Le Patio,0,,0.0,0.0,0.0
+法国菜,Les Indecis,Les Indecis,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Cuisine de Comptoir,Cuisine de Comptoir,0,,0.0,0.0,0.0
+法国菜,Une Table au Sud,Une Table au Sud,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Dejeuner en Ville,Dejeuner en Ville,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,le 37,le 37,0,,0.0,0.0,0.0
+法国菜,Le Citronnier,Le Citronnier,0,马赛其他,0.0,0.0,0.0
+法国菜,La bastille,La bastille,0,,0.0,0.0,0.0
+法国菜,Passage à Marseille,Passage à Marseille,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Le Nautica Les Goudes,Le Nautica Les Goudes,0,08区,0.0,0.0,0.0
+法国菜,Boulangerie La Banette du Pharo,Boulangerie La Banette du Pharo,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Farinoman Fou,Farinoman Fou,0,,0.0,0.0,0.0
+法国菜,L'Epuisette,L'Epuisette,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Le Bouchon Provencal,Le Bouchon Provencal,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Patio du Prado,Le Patio du Prado,0,08区,0.0,0.0,0.0
+法国菜,restaurant Le Formal,restaurant Le Formal,0,,0.0,0.0,0.0
+法国菜,On Dine,On Dine,0,02区,0.0,0.0,0.0
+法国菜,Bistrot L'Horloge,Bistrot L'Horloge,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Table du Fort,La Table du Fort,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Le Decante,Le Decante,0,08区,0.0,0.0,0.0
+法国菜,Dock of The Bay Restaurant,Dock of The Bay Restaurant,0,02区,0.0,0.0,0.0
+法国菜,Laurane et sa Maison,Laurane et sa Maison,0,,0.0,0.0,0.0
+法国菜,Le Clan des Cigales,Le Clan des Cigales,0,02区,0.0,0.0,0.0
+法国菜,La Cour du Palais,La Cour du Palais,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Table du Chef,La Table du Chef,0,马赛其他,0.0,0.0,0.0
+法国菜,Jacob's,Jacob's,0,,0.0,0.0,0.0
+法国菜,Le relais corse,Le relais corse,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Le Petit Nico,Le Petit Nico,0,马赛其他,0.0,0.0,0.0
+法国菜,La Riviera,La Riviera,0,08区,0.0,0.0,0.0
+法国菜,Les Milles Saveurs,Les Milles Saveurs,0,,0.0,0.0,0.0
+法国菜,Yin Yang Marseille,Yin Yang Marseille,0,08区,0.0,0.0,0.0
+法国菜,Balagan,Balagan,0,08区,0.0,0.0,0.0
+法国菜,L'Entrecôte,L'Entrecôte,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Hotel Restaurant Arquier,Hotel Restaurant Arquier,0,,0.0,0.0,0.0
+法国菜,Le Comte d'Aix,Le Comte d'Aix,0,,0.0,0.0,0.0
+法国菜,Le Grain de Sel,Le Grain de Sel,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Restaurant Chez Michel,Restaurant Chez Michel,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Restaurant l'Hippocampe,Restaurant l'Hippocampe,0,02区,0.0,0.0,0.0
+法国菜,Le Marseillois,Le Marseillois,0,02区,0.0,0.0,0.0
+法国菜,Chez Mimi,Chez Mimi,0,02区,0.0,0.0,0.0
+法国菜,Ambassade de Bretagne,Ambassade de Bretagne,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Relais 50,Le Relais 50,0,02区,0.0,0.0,0.0
+法国菜,La cote de boeuf,La cote de boeuf,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Maddie les galinettes,Maddie les galinettes,0,02区,0.0,0.0,0.0
+法国菜,Bistronome,Bistronome,0,02区,0.0,0.0,0.0
+法国菜,L'eau Vive,L'eau Vive,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Restaurant Peron,Restaurant Peron,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Cafe de la Mairie,Cafe de la Mairie,0,02区,0.0,0.0,0.0
+法国菜,TR & Rouge,TR & Rouge,0,马赛其他,0.0,0.0,0.0
+法国菜,Bistrot des Philosophes,Bistrot des Philosophes,0,,0.0,0.0,0.0
+法国菜,"Des Mets de Provence, chez Maurice Brun","Des Mets de Provence, chez Maurice Brun",0,07区-考尼西,0.0,0.0,0.0
+法国菜,Pizzeria Marco,Pizzeria Marco,0,,0.0,0.0,0.0
+法国菜,Cafè le Darius,Cafè le Darius,0,,0.0,0.0,0.0
+法国菜,Le Petit Flore,Le Petit Flore,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Villa,La Villa,0,08区,0.0,0.0,0.0
+法国菜,Les buvards,Les buvards,0,马赛其他,0.0,0.0,0.0
+法国菜,L'Oliveraie,L'Oliveraie,0,马赛其他,0.0,0.0,0.0
+法国菜,Les Arcenaulx,Les Arcenaulx,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,le ventre de l'architecte,le ventre de l'architecte,0,08区,0.0,0.0,0.0
+法国菜,L'Egoiste,L'Egoiste,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Maison,La Maison,0,08区,0.0,0.0,0.0
+法国菜,Les Danaides,Les Danaides,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Quinze,Le Quinze,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Jeroboam,Jeroboam,0,10区,0.0,0.0,0.0
+法国菜,Pizzeria Chez Picone,Pizzeria Chez Picone,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Dame Oseille,Dame Oseille,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Cirque,Le Cirque,0,02区,0.0,0.0,0.0
+法国菜,Cadet Roussel,Cadet Roussel,0,,0.0,0.0,0.0
+法国菜,Les Ptits Plats Dans les Grands,Les Ptits Plats Dans les Grands,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,O'bidul,O'bidul,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Rhizome Rancines des Gout,Rhizome Rancines des Gout,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Marseille O'canotier,Marseille O'canotier,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Chez Ferrato,Chez Ferrato,0,05区,0.0,0.0,0.0
+法国菜,Banette,Banette,0,马赛其他,0.0,0.0,0.0
+法国菜,PIZZERIA CHEZ DEDE,PIZZERIA CHEZ DEDE,0,马赛其他,0.0,0.0,0.0
+法国菜,Le Vieux Moulin,Le Vieux Moulin,0,马赛其他,0.0,0.0,0.0
+法国菜,IL TOPOLINO,IL TOPOLINO,0,马赛其他,0.0,0.0,0.0
+法国菜,"Le Mole Passedat, Cafe du Fort","Le Mole Passedat, Cafe du Fort",0,10区,0.0,0.0,0.0
+法国菜,Chez Fonfon,Chez Fonfon,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Le Capitole,Le Capitole,0,,0.0,0.0,0.0
+法国菜,Nino Cafe,Nino Cafe,0,,0.0,0.0,0.0
+法国菜,Bar de la Marine,Bar de la Marine,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,L'Entrecote Du Port,L'Entrecote Du Port,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Mado,La Mado,0,,0.0,0.0,0.0
+法国菜,Brasserie du VII Marseille,Brasserie du VII Marseille,0,07区-考尼西,0.0,0.0,0.0
+法国菜,BO&CO,BO&CO,0,02区,0.0,0.0,0.0
+法国菜,Small's,Small's,0,08区,0.0,0.0,0.0
+法国菜,Le Huitieme Sud,Le Huitieme Sud,0,08区,0.0,0.0,0.0
+法国菜,Chez Loury,Chez Loury,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Villa Divina,La Villa Divina,0,,0.0,0.0,0.0
+法国菜,Oenobar,Oenobar,0,,0.0,0.0,0.0
+法国菜,Cafétéria du Centre,Cafétéria du Centre,0,,0.0,0.0,0.0
+法国菜,Restaurant Gambetta,Restaurant Gambetta,0,,0.0,0.0,0.0
+法国菜,Entre Midi Et Deux,Entre Midi Et Deux,0,,0.0,0.0,0.0
+法国菜,Le 44,Le 44,0,,0.0,0.0,0.0
+法国菜,L'epicurien Restaurant,L'epicurien Restaurant,0,,0.0,0.0,0.0
+法国菜,Au P'tit Quart d'Heure,Au P'tit Quart d'Heure,0,,0.0,0.0,0.0
+法国菜,Chez Leon,Chez Leon,0,,0.0,0.0,0.0
+法国菜,L'Alcove,L'Alcove,0,,0.0,0.0,0.0
+法国菜,Vintrepide,Vintrepide,0,,0.0,0.0,0.0
+法国菜,L'Alsace en Provence,L'Alsace en Provence,0,,0.0,0.0,0.0
+法国菜,Le Contrepoint,Le Contrepoint,0,,0.0,0.0,0.0
+法国菜,L'Artmonia,L'Artmonia,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Pavillon,Le Pavillon,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Comptoir du 6eme,Le Comptoir du 6eme,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Le Julien,Le Julien,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Le Bistrot Saint JAcques,Le Bistrot Saint JAcques,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,treize en vue,treize en vue,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Café de la Banque,Café de la Banque,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Quelque Part,Quelque Part,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Le Corto,Le Corto,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,UMMAGUMMA,UMMAGUMMA,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Casa No Name,Casa No Name,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Les Trois Rois,Les Trois Rois,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,L'Arome,L'Arome,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Le Purple,Le Purple,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,le cafe vian,le cafe vian,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,l'Oleas Restaurant,l'Oleas Restaurant,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Resto Le Saint Eugene,Resto Le Saint Eugene,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Le Bistrot Larrieu,Le Bistrot Larrieu,0,07区-考尼西,0.0,0.0,0.0
+法国菜,L'Auberge du Corsaire,L'Auberge du Corsaire,0,08区,0.0,0.0,0.0
+法国菜,瓦弗尔别墅酒店,瓦弗尔别墅酒店,0,08区,0.0,0.0,0.0
+法国菜,O Lapin Blanc,O Lapin Blanc,0,08区,0.0,0.0,0.0
+法国菜,Le Triskell - Crêperie,Le Triskell - Crêperie,0,08区,0.0,0.0,0.0
+法国菜,L'Escapade Marseillaise,L'Escapade Marseillaise,0,02区,0.0,0.0,0.0
+法国菜,Cote Rue,Cote Rue,0,02区,0.0,0.0,0.0
+法国菜,Le Panier Gourmand,Le Panier Gourmand,0,02区,0.0,0.0,0.0
+法国菜,Au Coeur du Panier,Au Coeur du Panier,0,02区,0.0,0.0,0.0
+法国菜,Brasserie du Littoral,Brasserie du Littoral,0,02区,0.0,0.0,0.0
+法国菜,Le Petit Matelot,Le Petit Matelot,0,02区,0.0,0.0,0.0
+法国菜,L'emeraude,L'emeraude,0,05区,0.0,0.0,0.0
+法国菜,La Cave de Baille,La Cave de Baille,0,05区,0.0,0.0,0.0
+法国菜,L'Absinthe,L'Absinthe,0,05区,0.0,0.0,0.0
+法国菜,La Tarraillette,La Tarraillette,0,05区,0.0,0.0,0.0
+法国菜,The Cookers,The Cookers,0,马赛其他,0.0,0.0,0.0
+法国菜,Au bureau,Au bureau,0,马赛其他,0.0,0.0,0.0
+法国菜,Le Tian,Le Tian,0,马赛其他,0.0,0.0,0.0
+法国菜,Le Bistrot Marseillais,Le Bistrot Marseillais,0,马赛其他,0.0,0.0,0.0
+法国菜,Cafe du Grand Littoral,Cafe du Grand Littoral,0,马赛其他,0.0,0.0,0.0
+法国菜,Les Tonnelles,Les Tonnelles,0,马赛其他,0.0,0.0,0.0
+法国菜,Restaurant Le Francais,Restaurant Le Francais,0,马赛其他,0.0,0.0,0.0
+法国菜,Le Jardin des Arts,Le Jardin des Arts,0,马赛其他,0.0,0.0,0.0
+法国菜,Regards Cafe,Regards Cafe,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Brasserie,La Brasserie,0,马赛其他,0.0,0.0,0.0
+法国菜,La langoustine,La langoustine,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Marinière,La Marinière,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Oscar,Oscar,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Cuisine au Beurre,La Cuisine au Beurre,0,02区,0.0,0.0,0.0
+法国菜,La Terrasse,La Terrasse,0,02区,0.0,0.0,0.0
+法国菜,Brasserie Equinoxe,Brasserie Equinoxe,0,08区,0.0,0.0,0.0
+法国菜,Bistrot Le 31,Bistrot Le 31,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,The Four Courts,The Four Courts,0,,0.0,0.0,0.0
+法国菜,Les Tilleuls,Les Tilleuls,0,马赛其他,0.0,0.0,0.0
+法国菜,O' Passage,O' Passage,0,02区,0.0,0.0,0.0
+法国菜,Le Printemps,Le Printemps,0,03区,0.0,0.0,0.0
+法国菜,L'Hédoniste,L'Hédoniste,0,,0.0,0.0,0.0
+法国菜,L'Auberge Provencale,L'Auberge Provencale,0,,0.0,0.0,0.0
+法国菜,Le Riviera,Le Riviera,0,,0.0,0.0,0.0
+法国菜,Croquemitoufle,Croquemitoufle,0,,0.0,0.0,0.0
+法国菜,COTE COUR,COTE COUR,0,,0.0,0.0,0.0
+法国菜,Carton Rouge,Carton Rouge,0,,0.0,0.0,0.0
+法国菜,Chez Charlotte,Chez Charlotte,0,,0.0,0.0,0.0
+法国菜,Le Piston,Le Piston,0,,0.0,0.0,0.0
+法国菜,A Cote,A Cote,0,,0.0,0.0,0.0
+法国菜,Le Mel Kfe,Le Mel Kfe,0,,0.0,0.0,0.0
+法国菜,Augusto,Augusto,0,,0.0,0.0,0.0
+法国菜,Cote Sud,Cote Sud,0,,0.0,0.0,0.0
+法国菜,La Cave d'Yves,La Cave d'Yves,0,,0.0,0.0,0.0
+法国菜,O Panier Normand,O Panier Normand,0,,0.0,0.0,0.0
+法国菜,Le Mas d'Entremont,Le Mas d'Entremont,0,,0.0,0.0,0.0
+法国菜,A Table!,A Table!,0,,0.0,0.0,0.0
+法国菜,La Crepe au Carre,La Crepe au Carre,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Bistrot des Dames,Le Bistrot des Dames,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,le 29,le 29,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Bistrot a Vin,Le Bistrot a Vin,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Cesar Place,Cesar Place,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Donatello,Donatello,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,L'Oliveraie,L'Oliveraie,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Les Copains d'abord,Les Copains d'abord,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,29 Place aux Huiles,29 Place aux Huiles,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Caribou,Le Caribou,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Bellagio,Le Bellagio,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Brasserie les Templiers,Brasserie les Templiers,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Resto du midi,Le Resto du midi,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Teavora,Teavora,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Restaurant Cotetram,Restaurant Cotetram,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Pizzeria Chez Maga,Pizzeria Chez Maga,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Comptoir Corse,Comptoir Corse,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Lei Moulins,Lei Moulins,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Le Rest'art,Le Rest'art,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Class'croute,Class'croute,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,O'Pestou,O'Pestou,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,La fourchette marseille,La fourchette marseille,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Le Jardin d'à Côté,Le Jardin d'à Côté,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Les Pieds dans le plat,Les Pieds dans le plat,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Les Foulards Rouges,Les Foulards Rouges,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,vin sur zinc,vin sur zinc,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,le cuisineur,le cuisineur,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Le Rhul,Le Rhul,0,07区-考尼西,0.0,0.0,0.0
+法国菜,L'Orange Bleue,L'Orange Bleue,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Courte paille saint Menet,Courte paille saint Menet,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Nul Part Ailleurs,Nul Part Ailleurs,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Restaurant du CNTL - O'2 Pointus,Restaurant du CNTL - O'2 Pointus,0,07区-考尼西,0.0,0.0,0.0
+法国菜,La Marine des Goudes,La Marine des Goudes,0,08区,0.0,0.0,0.0
+法国菜,Le Starlight,Le Starlight,0,08区,0.0,0.0,0.0
+法国菜,Question de Goût,Question de Goût,0,08区,0.0,0.0,0.0
+法国菜,Beach Cafe,Beach Cafe,0,02区,0.0,0.0,0.0
+法国菜,Au Bout Du Quai,Au Bout Du Quai,0,02区,0.0,0.0,0.0
+法国菜,La Virgule,La Virgule,0,02区,0.0,0.0,0.0
+法国菜,Le Moment,Le Moment,0,02区,0.0,0.0,0.0
+法国菜,La Table de L'olivier,La Table de L'olivier,0,02区,0.0,0.0,0.0
+法国菜,le 13,le 13,0,05区,0.0,0.0,0.0
+法国菜,La tonnelle,La tonnelle,0,10区,0.0,0.0,0.0
+法国菜,Le Chateau,Le Chateau,0,马赛其他,0.0,0.0,0.0
+法国菜,La Table Cinq,La Table Cinq,0,马赛其他,0.0,0.0,0.0
+法国菜,Les Terrasses de St. Mitre,Les Terrasses de St. Mitre,0,马赛其他,0.0,0.0,0.0
+法国菜,Le cabanon de l'estaque,Le cabanon de l'estaque,0,马赛其他,0.0,0.0,0.0
+法国菜,Restaurant Alcazar,Restaurant Alcazar,0,普罗旺斯其他,0.0,0.0,0.0
+法国菜,L'Esplanade,L'Esplanade,0,普罗旺斯其他,0.0,0.0,0.0
+法国菜,Le 19,Le 19,0,马赛其他,0.0,0.0,0.0
+法国菜,Novotel Cafe Marseille Vieux Port,Novotel Cafe Marseille Vieux Port,0,马赛其他,0.0,0.0,0.0
+法国菜,Au Roi Rene,Au Roi Rene,0,,0.0,0.0,0.0
+法国菜,L'Aixcale Aix-en-Provence,L'Aixcale Aix-en-Provence,0,,0.0,0.0,0.0
+法国菜,Le bouddoir,Le bouddoir,0,,0.0,0.0,0.0
+法国菜,L'evenement,L'evenement,0,,0.0,0.0,0.0
+法国菜,jacquou le croquant,jacquou le croquant,0,,0.0,0.0,0.0
+法国菜,Le Boudoir,Le Boudoir,0,,0.0,0.0,0.0
+法国菜,Le Vieux Tonneau,Le Vieux Tonneau,0,,0.0,0.0,0.0
+法国菜,Follia,Follia,0,,0.0,0.0,0.0
+法国菜,Le Bidule,Le Bidule,0,,0.0,0.0,0.0
+法国菜,LA MAISON DU TENNISPART,LA MAISON DU TENNISPART,0,,0.0,0.0,0.0
+法国菜,Le malthazar,Le malthazar,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Trilogie des Cepages,La Trilogie des Cepages,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,cafe Sainte,cafe Sainte,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,L'Atelier Gourmand,L'Atelier Gourmand,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Canard Boiteux,Le Canard Boiteux,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,O'stop,O'stop,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Dino e Luca,Dino e Luca,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Piazza Cafe,Piazza Cafe,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Castellane,Le Castellane,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Mama Shelter,Mama Shelter,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,LeRIchelieu Braserie-Restaurant,LeRIchelieu Braserie-Restaurant,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Le Tropicana,Le Tropicana,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Bar de la Grande Terrasse,Bar de la Grande Terrasse,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Abacco,Abacco,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Le chalet,Le chalet,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Rowing Club,Rowing Club,0,07区-考尼西,0.0,0.0,0.0
+法国菜,Chez le Belge,Chez le Belge,0,08区,0.0,0.0,0.0
+法国菜,Les pieds dans l'eau,Les pieds dans l'eau,0,08区,0.0,0.0,0.0
+法国菜,Le Manureva,Le Manureva,0,08区,0.0,0.0,0.0
+法国菜,Le Pate a crepes,Le Pate a crepes,0,08区,0.0,0.0,0.0
+法国菜,Sport's Beach Cafe,Sport's Beach Cafe,0,08区,0.0,0.0,0.0
+法国菜,Le David,Le David,0,08区,0.0,0.0,0.0
+法国菜,La Balagne,La Balagne,0,08区,0.0,0.0,0.0
+法国菜,Restaurant Pizzeria Le Tribeca,Restaurant Pizzeria Le Tribeca,0,02区,0.0,0.0,0.0
+法国菜,La Madone,La Madone,0,02区,0.0,0.0,0.0
+法国菜,Un Sourire Sous L'olivier,Un Sourire Sous L'olivier,0,02区,0.0,0.0,0.0
+法国菜,Le Montmarte,Le Montmarte,0,02区,0.0,0.0,0.0
+法国菜,Le Perroquet Bleu,Le Perroquet Bleu,0,02区,0.0,0.0,0.0
+法国菜,Chez Domino,Chez Domino,0,05区,0.0,0.0,0.0
+法国菜,Le bistrot de lorette,Le bistrot de lorette,0,马赛其他,0.0,0.0,0.0
+法国菜,Art des mets,Art des mets,0,马赛其他,0.0,0.0,0.0
+法国菜,L'entre Deux,L'entre Deux,0,马赛其他,0.0,0.0,0.0
+法国菜,Coquillages chez Remy,Coquillages chez Remy,0,马赛其他,0.0,0.0,0.0
+法国菜,La Boucle,La Boucle,0,马赛其他,0.0,0.0,0.0
+法国菜,La Piazza des Frangins,La Piazza des Frangins,0,马赛其他,0.0,0.0,0.0
+法国菜,La Daurade,La Daurade,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,L'anthony Cafe,L'anthony Cafe,0,,0.0,0.0,0.0
+法国菜,La Dolce Vita,La Dolce Vita,0,,0.0,0.0,0.0
+法国菜,Restaurant les Arcades,Restaurant les Arcades,0,,0.0,0.0,0.0
+法国菜,Le Carrefour Bar,Le Carrefour Bar,0,,0.0,0.0,0.0
+法国菜,L'AMPHITRYON,L'AMPHITRYON,0,,0.0,0.0,0.0
+法国菜,Cafe Le Forbin,Cafe Le Forbin,0,,0.0,0.0,0.0
+法国菜,La Salle a Manger,La Salle a Manger,0,,0.0,0.0,0.0
+法国菜,Splendid,Splendid,0,,0.0,0.0,0.0
+法国菜,La Pizza,La Pizza,0,,0.0,0.0,0.0
+法国菜,Aix à Thèmes,Aix à Thèmes,0,,0.0,0.0,0.0
+法国菜,La Plancha,La Plancha,0,,0.0,0.0,0.0
+法国菜,Le Fetiche,Le Fetiche,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Le Metropole,Le Metropole,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Taverne de Maitre Kanter,La Taverne de Maitre Kanter,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La Marmite du Pecheur,La Marmite du Pecheur,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Chez Paul,Chez Paul,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Brasserie de la Bourse,Brasserie de la Bourse,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,Miramar Restaurant,Miramar Restaurant,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,le MAUREL,le MAUREL,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Marengo Bistroquet,Marengo Bistroquet,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Les Fees des Mets,Les Fees des Mets,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+法国菜,Les Pirates,Les Pirates,0,07区-考尼西,0.0,0.0,0.0
+法国菜,La Locomotive,La Locomotive,0,08区,0.0,0.0,0.0
+法国菜,Le Carre,Le Carre,0,08区,0.0,0.0,0.0
+法国菜,La Rhumerie,La Rhumerie,0,08区,0.0,0.0,0.0
+法国菜,Le Vivenda,Le Vivenda,0,08区,0.0,0.0,0.0
+法国菜,Chez Madie,Chez Madie,0,02区,0.0,0.0,0.0
+法国菜,Maciniffa,Maciniffa,0,02区,0.0,0.0,0.0
+法国菜,Raymond's Table,Raymond's Table,0,02区,0.0,0.0,0.0
+法国菜,La Voile Marseillaise,La Voile Marseillaise,0,02区,0.0,0.0,0.0
+法国菜,Le Collins,Le Collins,0,02区,0.0,0.0,0.0
+法国菜,La Brise,La Brise,0,02区,0.0,0.0,0.0
+法国菜,Le tablier,Le tablier,0,02区,0.0,0.0,0.0
+法国菜,La Terrasse du Panier,La Terrasse du Panier,0,02区,0.0,0.0,0.0
+法国菜,Le Pinson Bleu,Le Pinson Bleu,0,02区,0.0,0.0,0.0
+法国菜,Les grandes tables de la friche,Les grandes tables de la friche,0,03区,0.0,0.0,0.0
+法国菜,Brasserie Timone,Brasserie Timone,0,05区,0.0,0.0,0.0
+法国菜,Bar Restaurant le New 110,Bar Restaurant le New 110,0,05区,0.0,0.0,0.0
+法国菜,Nautic Bar,Nautic Bar,0,马赛其他,0.0,0.0,0.0
+法国菜,Le Bureau,Le Bureau,0,马赛其他,0.0,0.0,0.0
+法国菜,La Maison des Fondues 2 La Valentine,La Maison des Fondues 2 La Valentine,0,马赛其他,0.0,0.0,0.0
+法国菜,Capo Rosso,Capo Rosso,0,马赛其他,0.0,0.0,0.0
+法国菜,L'Etincelle,L'Etincelle,0,马赛其他,0.0,0.0,0.0
+法国菜,La Plage,La Plage,0,马赛其他,0.0,0.0,0.0
+法国菜,La Maison Des Fondues,La Maison Des Fondues,0,马赛其他,0.0,0.0,0.0
+法国菜,Resteraunt Gambatta,Resteraunt Gambatta,0,普罗旺斯其他,0.0,0.0,0.0
+法国菜,Le Ruban Bleu,Le Ruban Bleu,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+法国菜,La table du golf,La table du golf,0,08区,0.0,0.0,0.0
+酒吧,Le cafe des epices,Le cafe des epices,0,02区,0.0,0.0,0.0
+酒吧,Les Domaines Qui Montent,Les Domaines Qui Montent,0,,0.0,0.0,0.0
+酒吧,Le Carré des Maîtres,Le Carré des Maîtres,0,,0.0,0.0,0.0
+酒吧,Brasserie du Pasino,Brasserie du Pasino,0,,0.0,0.0,0.0
+酒吧,O Quinze,O Quinze,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+酒吧,ile du Frioul Marseille,ile du Frioul Marseille,0,07区-考尼西,0.0,0.0,0.0
+酒吧,Le Club Du Vieux Port,Le Club Du Vieux Port,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+酒吧,La Coupole,La Coupole,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+酒吧,Brasserie Le Printemps,Brasserie Le Printemps,0,03区,0.0,0.0,0.0
+酒吧,La Caravelle,La Caravelle,0,02区,0.0,0.0,0.0
+酒吧,Le Vitis,Le Vitis,0,,0.0,0.0,0.0
+酒吧,Nino Cafe,Nino Cafe,0,,0.0,0.0,0.0
+酒吧,Le Petit Verdot,Le Petit Verdot,0,,0.0,0.0,0.0
+酒吧,Chez Louckie,Chez Louckie,0,,0.0,0.0,0.0
+酒吧,A l'Ancienne,A l'Ancienne,0,,0.0,0.0,0.0
+酒吧,Le Contrepoint,Le Contrepoint,0,,0.0,0.0,0.0
+酒吧,Le Fantastique,Le Fantastique,0,05区,0.0,0.0,0.0
+酒吧,Le Pelle-Mele,Le Pelle-Mele,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+酒吧,Le Comptoir du Divino,Le Comptoir du Divino,0,,0.0,0.0,0.0
+酒吧,La Tomate Verte,La Tomate Verte,0,,0.0,0.0,0.0
+酒吧,Le Chastel,Le Chastel,0,,0.0,0.0,0.0
+酒吧,Apero Bistrot,Apero Bistrot,0,,0.0,0.0,0.0
+酒吧,Terre d'Auvergne,Terre d'Auvergne,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+酒吧,Le Chaperon Rouge,Le Chaperon Rouge,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+酒吧,Chez Gilda,Chez Gilda,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+酒吧,Le Charles Livon,Le Charles Livon,0,07区-考尼西,0.0,0.0,0.0
+酒吧,Grancafe,Grancafe,0,08区,0.0,0.0,0.0
+酒吧,L'Enoteka,L'Enoteka,0,马赛其他,0.0,0.0,0.0
+酒吧,Chez Gaby,Chez Gaby,0,,0.0,0.0,0.0
+酒吧,Brasserie Leopold,Brasserie Leopold,0,,0.0,0.0,0.0
+酒吧,Le Verdun,Le Verdun,0,,0.0,0.0,0.0
+酒吧,Le Sextius Bar,Le Sextius Bar,0,,0.0,0.0,0.0
+酒吧,Brasserie Manureva 2 Turcat-Méry,Brasserie Manureva 2 Turcat-Méry,0,08区,0.0,0.0,0.0
+酒吧,La cantine d'emile,La cantine d'emile,0,,0.0,0.0,0.0
+酒吧,L'usine,L'usine,0,,0.0,0.0,0.0
+酒吧,Petit pierre,Petit pierre,0,,0.0,0.0,0.0
+酒吧,Happy Days,Happy Days,0,,0.0,0.0,0.0
+酒吧,Le Champoreau,Le Champoreau,0,02区,0.0,0.0,0.0
+酒吧,Le cyberyann cafe,Le cyberyann cafe,0,03区,0.0,0.0,0.0
+酒吧,La Nonna Marseille,La Nonna Marseille,0,马赛其他,0.0,0.0,0.0
+酒吧,Au Bord de l'Eau,Au Bord de l'Eau,0,马赛其他,0.0,0.0,0.0
+意大利菜,Voglia DI Pasta,Voglia DI Pasta,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,trattoria Marco,trattoria Marco,0,02区,0.0,0.0,0.0
+意大利菜,Terra di Sicilia,Terra di Sicilia,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+意大利菜,Ristorante Del Arte,Ristorante Del Arte,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,Pizzeri Le Bocconcino,Pizzeri Le Bocconcino,0,,0.0,0.0,0.0
+意大利菜,Unm marseille,Unm marseille,0,马赛其他,0.0,0.0,0.0
+意大利菜,Via Mermoz,Via Mermoz,0,08区,0.0,0.0,0.0
+意大利菜,Pizzeria Marco,Pizzeria Marco,0,,0.0,0.0,0.0
+意大利菜,Pizzeria Di Venezia,Pizzeria Di Venezia,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,Le Comptoir de Mery,Le Comptoir de Mery,0,08区,0.0,0.0,0.0
+意大利菜,Restaurant Chez Mario,Restaurant Chez Mario,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,Fuxia l'epicerie,Fuxia l'epicerie,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,La Grande Italia,La Grande Italia,0,08区,0.0,0.0,0.0
+意大利菜,La Strada,La Strada,0,,0.0,0.0,0.0
+意大利菜,Dal Gladiatore,Dal Gladiatore,0,,0.0,0.0,0.0
+意大利菜,Trattoria Da Aldo,Trattoria Da Aldo,0,,0.0,0.0,0.0
+意大利菜,Limone,Limone,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+意大利菜,Chez Didier et Brigitte,Chez Didier et Brigitte,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+意大利菜,A l Angle,A l Angle,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+意大利菜,Chez Emilio,Chez Emilio,0,08区,0.0,0.0,0.0
+意大利菜,Chez Noel,Chez Noel,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,Sol E Luna,Sol E Luna,0,,0.0,0.0,0.0
+意大利菜,Chez Nine,Chez Nine,0,,0.0,0.0,0.0
+意大利菜,Pizza Capri Richelme,Pizza Capri Richelme,0,,0.0,0.0,0.0
+意大利菜,Chez Vincent,Chez Vincent,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,il cannaletto,il cannaletto,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,La Cantinetta,La Cantinetta,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+意大利菜,Via-Roma,Via-Roma,0,08区,0.0,0.0,0.0
+意大利菜,Carmine,Carmine,0,02区,0.0,0.0,0.0
+意大利菜,Les Saveurs du Vesuve,Les Saveurs du Vesuve,0,马赛其他,0.0,0.0,0.0
+意大利菜,Le Grand Latin,Le Grand Latin,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,Mas de Lulli,Mas de Lulli,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,La Galiotte,La Galiotte,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,L'Hosteria,L'Hosteria,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+意大利菜,La Mère Buonavista,La Mère Buonavista,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+意大利菜,IL Gusto D'oro,IL Gusto D'oro,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+意大利菜,Pizzeria des Catalans,Pizzeria des Catalans,0,07区-考尼西,0.0,0.0,0.0
+意大利菜,La Serenata,La Serenata,0,08区,0.0,0.0,0.0
+意大利菜,Pizza Del Arte,Pizza Del Arte,0,08区,0.0,0.0,0.0
+意大利菜,Il Primo,Il Primo,0,08区,0.0,0.0,0.0
+意大利菜,Emilios,Emilios,0,08区,0.0,0.0,0.0
+意大利菜,Villa Rocca,Villa Rocca,0,08区,0.0,0.0,0.0
+意大利菜,Pizza Borelly,Pizza Borelly,0,08区,0.0,0.0,0.0
+意大利菜,Il pinocchio,Il pinocchio,0,马赛其他,0.0,0.0,0.0
+意大利菜,La Dolce Vita,La Dolce Vita,0,,0.0,0.0,0.0
+意大利菜,Restaurant la Cigale,Restaurant la Cigale,0,,0.0,0.0,0.0
+意大利菜,La Pizza,La Pizza,0,,0.0,0.0,0.0
+意大利菜,Le Milano,Le Milano,0,,0.0,0.0,0.0
+意大利菜,Il Tavolino,Il Tavolino,0,,0.0,0.0,0.0
+意大利菜,La Traviata,La Traviata,0,,0.0,0.0,0.0
+意大利菜,La Piazza,La Piazza,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+意大利菜,Le Don Corleone,Le Don Corleone,0,07区-考尼西,0.0,0.0,0.0
+意大利菜,Dolce Vita,Dolce Vita,0,08区,0.0,0.0,0.0
+意大利菜,Restaurant Da Giovanni,Restaurant Da Giovanni,0,02区,0.0,0.0,0.0
+意大利菜,Villa Donna,Villa Donna,0,马赛其他,0.0,0.0,0.0
+意大利菜,Marco Polo,Marco Polo,0,马赛其他,0.0,0.0,0.0
+意大利菜,Comptoir Del,Comptoir Del,0,马赛其他,0.0,0.0,0.0
+意大利菜,Piazza D'italia,Piazza D'italia,0,马赛其他,0.0,0.0,0.0
+意大利菜,Restaurant SO... Marseille,Restaurant SO... Marseille,0,马赛其他,0.0,0.0,0.0
+意大利菜,La Locanda,La Locanda,0,,0.0,0.0,0.0
+墨西哥菜,Le Chat dans l'Epicerie,Le Chat dans l'Epicerie,0,08区,0.0,0.0,0.0
+墨西哥菜,Buffalo Grill,Buffalo Grill,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Saf Saf,Saf Saf,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Les delices du Maroc,Les delices du Maroc,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Les Grandes Tables de la Criée,Les Grandes Tables de la Criée,0,07区-考尼西,0.0,0.0,0.0
+其他西餐,la passarelle,la passarelle,0,07区-考尼西,0.0,0.0,0.0
+其他西餐,Drole d'Endroit,Drole d'Endroit,0,,0.0,0.0,0.0
+其他西餐,La Manne,La Manne,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,restaurant dimitri,restaurant dimitri,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,L'Horloge du Cap Est,L'Horloge du Cap Est,0,10区,0.0,0.0,0.0
+其他西餐,Restaurant la Nautique,Restaurant la Nautique,0,07区-考尼西,0.0,0.0,0.0
+其他西餐,A Cantina Corsa,A Cantina Corsa,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Mina Kouk,Mina Kouk,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Braserrie Chez Roger,Braserrie Chez Roger,0,02区,0.0,0.0,0.0
+其他西餐,Le Boléro,Le Boléro,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Restaurant Femina,Restaurant Femina,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,friterie Werner & co,friterie Werner & co,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Pub O'Malleys,Pub O'Malleys,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,What's Up,What's Up,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Caucase,Caucase,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Le Pop's,Le Pop's,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Le Comptoir du Panier,Le Comptoir du Panier,0,02区,0.0,0.0,0.0
+其他西餐,Quelques saveurs du sud,Quelques saveurs du sud,0,马赛其他,0.0,0.0,0.0
+其他西餐,Au Bon Coin,Au Bon Coin,0,马赛其他,0.0,0.0,0.0
+其他西餐,Le Mole Passedat,Le Mole Passedat,0,02区,0.0,0.0,0.0
+其他西餐,Le Medicis,Le Medicis,0,,0.0,0.0,0.0
+其他西餐,Kahena,Kahena,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,La Table du Roi,La Table du Roi,0,,0.0,0.0,0.0
+其他西餐,Maltazar,Maltazar,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Cote Tram,Cote Tram,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Biiig,Biiig,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,La Tomate,La Tomate,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,L'Insolite,L'Insolite,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,El paseo,El paseo,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Kortchma,Kortchma,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,La Bonne Franquette,La Bonne Franquette,0,08区,0.0,0.0,0.0
+其他西餐,O'Brady's Irish Pub,O'Brady's Irish Pub,0,08区,0.0,0.0,0.0
+其他西餐,Place Lorette,Place Lorette,0,02区,0.0,0.0,0.0
+其他西餐,Vangelis Alter Bistro,Vangelis Alter Bistro,0,马赛其他,0.0,0.0,0.0
+其他西餐,Le Jardin Cache,Le Jardin Cache,0,马赛其他,0.0,0.0,0.0
+其他西餐,Restaurant Le Cigalon,Restaurant Le Cigalon,0,马赛其他,0.0,0.0,0.0
+其他西餐,LeSnack,LeSnack,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Le Jasmin,Le Jasmin,0,,0.0,0.0,0.0
+其他西餐,Casa del Campo Marseille,Casa del Campo Marseille,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,la Pause des Halles,la Pause des Halles,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Kitch'n Rock,Kitch'n Rock,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Le bouchon marseillais,Le bouchon marseillais,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,la reine de saba,la reine de saba,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Le Grand Escalier,Le Grand Escalier,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Pouce !,Pouce !,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Blonde et Brune Restaurant,Blonde et Brune Restaurant,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Rose de Marmara,Rose de Marmara,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,La Fiesta,La Fiesta,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,La Marche a Suivre,La Marche a Suivre,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Albert Cafe,Albert Cafe,0,07区-考尼西,0.0,0.0,0.0
+其他西餐,Restaurant Calypso,Restaurant Calypso,0,07区-考尼西,0.0,0.0,0.0
+其他西餐,Victor Cafe,Victor Cafe,0,07区-考尼西,0.0,0.0,0.0
+其他西餐,Les Trois Forts,Les Trois Forts,0,07区-考尼西,0.0,0.0,0.0
+其他西餐,Restaurant Solaris,Restaurant Solaris,0,07区-考尼西,0.0,0.0,0.0
+其他西餐,Le Petit Port,Le Petit Port,0,08区,0.0,0.0,0.0
+其他西餐,Au Bord De L'Eau,Au Bord De L'Eau,0,08区,0.0,0.0,0.0
+其他西餐,L'Abri Cotié,L'Abri Cotié,0,08区,0.0,0.0,0.0
+其他西餐,La Boucle 2 Lili,La Boucle 2 Lili,0,08区,0.0,0.0,0.0
+其他西餐,Le Saint Barth,Le Saint Barth,0,08区,0.0,0.0,0.0
+其他西餐,Un jardin en ville,Un jardin en ville,0,08区,0.0,0.0,0.0
+其他西餐,Le Bistrot d'Edouard,Le Bistrot d'Edouard,0,08区,0.0,0.0,0.0
+其他西餐,AU Doyen,AU Doyen,0,02区,0.0,0.0,0.0
+其他西餐,Le Bobolivo,Le Bobolivo,0,02区,0.0,0.0,0.0
+其他西餐,La pinata,La pinata,0,02区,0.0,0.0,0.0
+其他西餐,Restaurant l'Eveche ,Restaurant l'Eveche ,0,02区,0.0,0.0,0.0
+其他西餐,Bar Manolo,Bar Manolo,0,02区,0.0,0.0,0.0
+其他西餐,Les Delices du Panier,Les Delices du Panier,0,02区,0.0,0.0,0.0
+其他西餐,La Tasca,La Tasca,0,05区,0.0,0.0,0.0
+其他西餐,Cantinho do Brasil,Cantinho do Brasil,0,马赛其他,0.0,0.0,0.0
+其他西餐,La Grillade,La Grillade,0,马赛其他,0.0,0.0,0.0
+其他西餐,Côté Sud,Côté Sud,0,马赛其他,0.0,0.0,0.0
+其他西餐,Le Vieux Moulin,Le Vieux Moulin,0,马赛其他,0.0,0.0,0.0
+其他西餐,Seven Set PArk,Seven Set PArk,0,马赛其他,0.0,0.0,0.0
+其他西餐,La Cantine Vegetarienne,La Cantine Vegetarienne,0,,0.0,0.0,0.0
+其他西餐,La Cantine,La Cantine,0,,0.0,0.0,0.0
+其他西餐,L'Entre-Pots,L'Entre-Pots,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,L'authentique,L'authentique,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Mylan's Cafe,Mylan's Cafe,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Café Populaire,Café Populaire,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Dos Hermanas,Dos Hermanas,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,La Traversee du Grec,La Traversee du Grec,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,La Butte Rouge,La Butte Rouge,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Dar Nejma,Dar Nejma,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,Dauphins Corniche,Dauphins Corniche,0,07区-考尼西,0.0,0.0,0.0
+其他西餐,Thalassa Cafe,Thalassa Cafe,0,08区,0.0,0.0,0.0
+其他西餐,Le Disque Bleu,Le Disque Bleu,0,02区,0.0,0.0,0.0
+其他西餐,Bar Andre,Bar Andre,0,02区,0.0,0.0,0.0
+其他西餐,Santo Cachon,Santo Cachon,0,05区,0.0,0.0,0.0
+其他西餐,La table des Garrigues,La table des Garrigues,0,10区,0.0,0.0,0.0
+其他西餐,la terrasse de domino,la terrasse de domino,0,马赛其他,0.0,0.0,0.0
+其他西餐,La Table d'Helios,La Table d'Helios,0,马赛其他,0.0,0.0,0.0
+其他西餐,L'Atlas,L'Atlas,0,,0.0,0.0,0.0
+其他西餐,Brothers Restaurant,Brothers Restaurant,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Kalipita,Kalipita,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他西餐,Les Fees des Mets,Les Fees des Mets,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他西餐,la BRAZERADE,la BRAZERADE,0,07区-考尼西,0.0,0.0,0.0
+其他西餐,viaghji di fonfon,viaghji di fonfon,0,07区-考尼西,0.0,0.0,0.0
+其他西餐,La Baie Des Singes,La Baie Des Singes,0,08区,0.0,0.0,0.0
+其他西餐,Brioche Doree Marseille Bonneveine,Brioche Doree Marseille Bonneveine,0,08区,0.0,0.0,0.0
+其他西餐,O'Grill,O'Grill,0,08区,0.0,0.0,0.0
+其他西餐,Le Standard Foodbar Loundge,Le Standard Foodbar Loundge,0,08区,0.0,0.0,0.0
+其他西餐,Le Petit Pernod,Le Petit Pernod,0,02区,0.0,0.0,0.0
+其他西餐,Le Bocal,Le Bocal,0,02区,0.0,0.0,0.0
+其他西餐,Cafe Pasta Pizza Marseille,Cafe Pasta Pizza Marseille,0,02区,0.0,0.0,0.0
+其他西餐,Le Chalet Suisse Le Bernois,Le Chalet Suisse Le Bernois,0,马赛其他,0.0,0.0,0.0
+其他西餐,McDonald’s,McDonald’s,0,马赛其他,0.0,0.0,0.0
+其他西餐,La Medina,La Medina,0,08区,0.0,0.0,0.0
+中餐,TIEN TSIN,TIEN TSIN,0,02区,0.0,0.0,0.0
+中餐,tea adoro,tea adoro,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+中餐,La Palmeraiey,La Palmeraiey,0,05区,0.0,0.0,0.0
+中餐,Jin Jiang Express,Jin Jiang Express,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+中餐,Tan Saigon,Tan Saigon,0,马赛其他,0.0,0.0,0.0
+中餐,Grumpy Cakes,Grumpy Cakes,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+中餐,long chau,long chau,0,马赛其他,0.0,0.0,0.0
+中餐,Duc Dat,Duc Dat,0,10区,0.0,0.0,0.0
+中餐,Le Riz d'Or,Le Riz d'Or,0,马赛其他,0.0,0.0,0.0
+中餐,Chez Quan,Chez Quan,0,08区,0.0,0.0,0.0
+中餐,La cuisine au beurre,La cuisine au beurre,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+日韩料理,Wasab'Art Sushi,Wasab'Art Sushi,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+日韩料理,Sushishop Marseille,Sushishop Marseille,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+日韩料理,Simple Sushi,Simple Sushi,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+日韩料理,Tabi No Yume,Tabi No Yume,0,08区,0.0,0.0,0.0
+日韩料理,Yamato,Yamato,0,,0.0,0.0,0.0
+日韩料理,kim do,kim do,0,马赛其他,0.0,0.0,0.0
+日韩料理,SHABU SHABU,SHABU SHABU,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+日韩料理,Kyo sushi,Kyo sushi,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+日韩料理,Geisha Sushi,Geisha Sushi,0,,0.0,0.0,0.0
+日韩料理,Nakka,Nakka,0,02区,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,08区,0.0,0.0,0.0
+日韩料理,Okaasan,Okaasan,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+日韩料理,Tomo Sushi,Tomo Sushi,0,马赛其他,0.0,0.0,0.0
+日韩料理,Wasabi,Wasabi,0,马赛其他,0.0,0.0,0.0
+日韩料理,It Sushi,It Sushi,0,普罗旺斯其他,0.0,0.0,0.0
+日韩料理,Yojisu,Yojisu,0,,0.0,0.0,0.0
+日韩料理,Dîner & Rencontre Psy,Dîner & Rencontre Psy,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,,0.0,0.0,0.0
+日韩料理,Sushi Room,Sushi Room,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+日韩料理,Estey Sushi,Estey Sushi,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+日韩料理,Yoshi,Yoshi,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+日韩料理,Planet Sushi Restaurant,Planet Sushi Restaurant,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+日韩料理,Le Yen,Le Yen,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,马赛其他,0.0,0.0,0.0
+日韩料理,Wok&Sushi,Wok&Sushi,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Mix'n Wok,Mix'n Wok,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,Nguyen Hoang,Nguyen Hoang,0,02区,0.0,0.0,0.0
+更多亚洲菜,Yoji,Yoji,0,,0.0,0.0,0.0
+更多亚洲菜,Le Lai,Le Lai,0,,0.0,0.0,0.0
+更多亚洲菜,Muy Heng,Muy Heng,0,02区,0.0,0.0,0.0
+更多亚洲菜,Angkor,Angkor,0,,0.0,0.0,0.0
+更多亚洲菜,Aux Pays des Delices,Aux Pays des Delices,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,La Goulette,La Goulette,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,La Rizière,La Rizière,0,08区,0.0,0.0,0.0
+更多亚洲菜,Salah Thai,Salah Thai,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Rajasthan,Rajasthan,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,Le Nirvana,Le Nirvana,0,,0.0,0.0,0.0
+更多亚洲菜,Soir D'Asie,Soir D'Asie,0,02区,0.0,0.0,0.0
+更多亚洲菜,O'Pakistan,O'Pakistan,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,Ginseng,Ginseng,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,Anh Dao,Anh Dao,0,,0.0,0.0,0.0
+更多亚洲菜,Ghomrassen,Ghomrassen,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,Le Falafel,Le Falafel,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,Perle d'Asie,Perle d'Asie,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Zenji Cafe,Zenji Cafe,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Les Délices Thai,Les Délices Thai,0,,0.0,0.0,0.0
+更多亚洲菜,O Zen la Mer,O Zen la Mer,0,08区,0.0,0.0,0.0
+更多亚洲菜,Le Maharaja,Le Maharaja,0,,0.0,0.0,0.0
+更多亚洲菜,Bombay Grill,Bombay Grill,0,08区,0.0,0.0,0.0
+更多亚洲菜,Thai Baie,Thai Baie,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,Le bistrot asiatique,Le bistrot asiatique,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,La Maison des Raviolis,La Maison des Raviolis,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,Lan Thai,Lan Thai,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,Pascal's Kitchen,Pascal's Kitchen,0,08区,0.0,0.0,0.0
+更多亚洲菜,Le Palais d'Asie,Le Palais d'Asie,0,08区,0.0,0.0,0.0
+更多亚洲菜,Nam Viet Restaurant,Nam Viet Restaurant,0,02区,0.0,0.0,0.0
+更多亚洲菜,Vientiane,Vientiane,0,02区,0.0,0.0,0.0
+更多亚洲菜,Majestic,Majestic,0,05区,0.0,0.0,0.0
+更多亚洲菜,Le Thali,Le Thali,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Marseille So Zen,Marseille So Zen,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,O Zen Le Passage,O Zen Le Passage,0,,0.0,0.0,0.0
+更多亚洲菜,Le Mandarin,Le Mandarin,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,O Zen - Republique,O Zen - Republique,0,02区,0.0,0.0,0.0
+更多亚洲菜,Istanbul city kebab,Istanbul city kebab,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,Dehli Delices,Dehli Delices,0,,0.0,0.0,0.0
+更多亚洲菜,Sen Asian Bistrot,Sen Asian Bistrot,0,,0.0,0.0,0.0
+更多亚洲菜,Ganesh Sri,Ganesh Sri,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,le pavillon thai,le pavillon thai,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,Namaste,Namaste,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,L'Eurasien,L'Eurasien,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,Dîner & Rencontre Psy,Dîner & Rencontre Psy,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,Piment Thai,Piment Thai,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,Le raja,Le raja,0,07区-考尼西,0.0,0.0,0.0
+更多亚洲菜,Apsara Restaurant Cambodgien,Apsara Restaurant Cambodgien,0,07区-考尼西,0.0,0.0,0.0
+更多亚洲菜,Restaurant Nem de la Milliere,Restaurant Nem de la Milliere,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Opanda,Opanda,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Chez Sam,Chez Sam,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Au Falafel,Au Falafel,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Jaipur,Restaurant Jaipur,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,C.Thai a Domicile,C.Thai a Domicile,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,La Baie du Dragon,La Baie du Dragon,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,Nah Trang Plage,Nah Trang Plage,0,08区,0.0,0.0,0.0
+更多亚洲菜,Le Pacifique 4,Le Pacifique 4,0,10区,0.0,0.0,0.0
+更多亚洲菜,O Zen - La Valentine,O Zen - La Valentine,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,O Panda Restaurant,O Panda Restaurant,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Palais du Maharajah,Palais du Maharajah,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Palais du Kashmir,Palais du Kashmir,0,,0.0,0.0,0.0
+更多亚洲菜,Restaurant Govinda,Restaurant Govinda,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,Yamato,Yamato,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+更多亚洲菜,Le Jasmin de Tunis,Le Jasmin de Tunis,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,Le Palais de l'Inde,Le Palais de l'Inde,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,Restaurant Al Jennah,Restaurant Al Jennah,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+更多亚洲菜,L'Assiette Tunisienne,L'Assiette Tunisienne,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Le Pacifique 2,Le Pacifique 2,0,马赛其他,0.0,0.0,0.0
+更多亚洲菜,Wok Pointe Rouge,Wok Pointe Rouge,0,08区,0.0,0.0,0.0
+快餐简餐,Trez,Trez,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+快餐简餐,Les Delices de Julie,Les Delices de Julie,0,02区,0.0,0.0,0.0
+快餐简餐,Salumeria,Salumeria,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+快餐简餐,Era Tempu,Era Tempu,0,07区-考尼西,0.0,0.0,0.0
+快餐简餐,Face a la Mer by Archipel,Face a la Mer by Archipel,0,08区,0.0,0.0,0.0
+快餐简餐,L'Aromence,L'Aromence,0,08区,0.0,0.0,0.0
+快餐简餐,les echevins,les echevins,0,07区-考尼西,0.0,0.0,0.0
+快餐简餐,Abaco,Abaco,0,07区-考尼西,0.0,0.0,0.0
+快餐简餐,Le Café des Thés,Le Café des Thés,0,08区,0.0,0.0,0.0
+快餐简餐,Le Marais Perier,Le Marais Perier,0,08区,0.0,0.0,0.0
+快餐简餐,Damdy's,Damdy's,0,02区,0.0,0.0,0.0
+快餐简餐,La Paricha,La Paricha,0,02区,0.0,0.0,0.0
+快餐简餐,Le Comptoir du Bagel,Le Comptoir du Bagel,0,,0.0,0.0,0.0
+快餐简餐,Bagel Story,Bagel Story,0,,0.0,0.0,0.0
+快餐简餐,Le Couloir,Le Couloir,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+快餐简餐,Aux Demoiselles Du Mont,Aux Demoiselles Du Mont,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+快餐简餐,Restaurant la Boiseraie,Restaurant la Boiseraie,0,马赛其他,0.0,0.0,0.0
+快餐简餐,Burger Bar,Burger Bar,0,,0.0,0.0,0.0
+快餐简餐,Le Crystal,Le Crystal,0,02区,0.0,0.0,0.0
+快餐简餐,Oscar's bagels and sandwiches,Oscar's bagels and sandwiches,0,02区,0.0,0.0,0.0
+海鲜,Toinou Coquillages,Toinou Coquillages,250,06区-卡斯特拉内普莱菲彻,8.4,7.7,8.3
+海鲜,Michel,Michel,0,07区-考尼西,6.8,6.8,7.0
+海鲜,Toinou : Les Fruits de Mer,Toinou : Les Fruits de Mer,0,,0.0,0.0,0.0
+海鲜,Toinou Les Fruits de Mer,Toinou Les Fruits de Mer,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+海鲜,La Plage,La Plage,0,07区-考尼西,0.0,0.0,0.0
+海鲜,François Coquillage,François Coquillage,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+海鲜,Massena Cafe,Massena Cafe,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+海鲜,L'Escale,L'Escale,0,08区,0.0,0.0,0.0
+烧烤,BUENA VISTA,BUENA VISTA,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+烧烤,Barbuck,Barbuck,0,马赛其他,0.0,0.0,0.0
+比萨,Pizza Ludo Celony,Pizza Ludo Celony,0,,0.0,0.0,0.0
+比萨,La Grange,La Grange,0,,0.0,0.0,0.0
+比萨,Le Romarin,Le Romarin,0,07区-考尼西,0.0,0.0,0.0
+比萨,Cesar Pizza,Cesar Pizza,0,07区-考尼西,0.0,0.0,0.0
+比萨,Freddy,Freddy,0,05区,0.0,0.0,0.0
+比萨,Pizzeria Le Mistral,Pizzeria Le Mistral,0,马赛其他,0.0,0.0,0.0
+比萨,Pizzeria Chez Jeannot,Pizzeria Chez Jeannot,0,07区-考尼西,0.0,0.0,0.0
+比萨,Cafétéria du Centre,Cafétéria du Centre,0,,0.0,0.0,0.0
+比萨,Le pebre d'ai,Le pebre d'ai,0,马赛其他,0.0,0.0,0.0
+比萨,Parma pizza aix en provence,Parma pizza aix en provence,0,,0.0,0.0,0.0
+比萨,Le Mel Kfe,Le Mel Kfe,0,,0.0,0.0,0.0
+比萨,20 000 Lieues,20 000 Lieues,0,08区,0.0,0.0,0.0
+比萨,Restaurant Pizzeria du Vieux Panier.,Restaurant Pizzeria du Vieux Panier.,0,02区,0.0,0.0,0.0
+比萨,La Marina,La Marina,0,05区,0.0,0.0,0.0
+比萨,Pizzeria Jean Sauveur,Pizzeria Jean Sauveur,0,10区,0.0,0.0,0.0
+比萨,Le Gepetto,Le Gepetto,0,马赛其他,0.0,0.0,0.0
+比萨,Le Peano,Le Peano,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+比萨,Pub Pizzeria Marina,Pub Pizzeria Marina,0,07区-考尼西,0.0,0.0,0.0
+比萨,Brasserie Le Kilt,Brasserie Le Kilt,0,08区,0.0,0.0,0.0
+比萨,Le Rive Droite,Le Rive Droite,0,马赛其他,0.0,0.0,0.0
+面包甜点,La Broceliande,La Broceliande,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+面包甜点,Le Cafe de la Poste,Le Cafe de la Poste,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+面包甜点,Fournil des Auffes,Fournil des Auffes,0,07区-考尼西,0.0,0.0,0.0
+面包甜点,Haagen Dazs,Haagen Dazs,0,02区,0.0,0.0,0.0
+面包甜点,Glacier Simonelli,Glacier Simonelli,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+面包甜点,La Boutique Du Glacier,La Boutique Du Glacier,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+面包甜点,Minoofi,Minoofi,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+面包甜点,Biscuit & Biscuit,Biscuit & Biscuit,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+面包甜点,Le Triskell - Crêperie,Le Triskell - Crêperie,0,08区,0.0,0.0,0.0
+面包甜点,"Les delice de l'eveche, Marseille","Les delice de l'eveche, Marseille",0,02区,0.0,0.0,0.0
+面包甜点,Glaces Philippe Faur,Glaces Philippe Faur,0,,0.0,0.0,0.0
+面包甜点,La Vague Gourmande Patissier,La Vague Gourmande Patissier,0,07区-考尼西,0.0,0.0,0.0
+面包甜点,Boulangerie Melisso,Boulangerie Melisso,0,02区,0.0,0.0,0.0
+面包甜点,Maison Zeppini,Maison Zeppini,0,马赛其他,0.0,0.0,0.0
+面包甜点,L'Aixcale Aix-en-Provence,L'Aixcale Aix-en-Provence,0,,0.0,0.0,0.0
+面包甜点,Four des Navettes,Four des Navettes,0,07区-考尼西,0.0,0.0,0.0
+面包甜点,Le Patacrepe Marseille Escale Borely,Le Patacrepe Marseille Escale Borely,0,08区,0.0,0.0,0.0
+面包甜点,Columbus Cafe,Columbus Cafe,0,08区,0.0,0.0,0.0
+面包甜点,Le Bar a Crepes,Le Bar a Crepes,0,,0.0,0.0,0.0
+面包甜点,La saladerie,La saladerie,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+面包甜点,Le Patacrepe Marseille Castellane,Le Patacrepe Marseille Castellane,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+面包甜点,patisserie le trianon,patisserie le trianon,0,07区-考尼西,0.0,0.0,0.0
+面包甜点,L'authentique,L'authentique,0,08区,0.0,0.0,0.0
+面包甜点,La Chope d'Or,La Chope d'Or,0,02区,0.0,0.0,0.0
+面包甜点,Le Patacrepe Marseille la Valentine,Le Patacrepe Marseille la Valentine,0,马赛其他,0.0,0.0,0.0
+面包甜点,甜蜜秘密西饼屋,甜蜜秘密西饼屋,0,普罗旺斯其他,0.0,0.0,0.0
+其他美食,Chez Tri,Chez Tri,0,02区,0.0,0.0,0.0
+其他美食,Paul,Paul,0,,0.0,0.0,0.0
+其他美食,Pacifique Le,Pacifique Le,0,马赛其他,0.0,0.0,0.0
+其他美食,Juste en Face,Juste en Face,0,,0.0,0.0,0.0
+其他美食,Hippopotamus Marseilles Vieux Port,Hippopotamus Marseilles Vieux Port,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Amphitryon,Amphitryon,0,,0.0,0.0,0.0
+其他美食,Coquelicot,Coquelicot,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,La Rascasse,La Rascasse,0,02区,0.0,0.0,0.0
+其他美食,Khai Hoan,Khai Hoan,0,02区,0.0,0.0,0.0
+其他美食,L'Eau a la Bouche,L'Eau a la Bouche,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Lightino,Le Lightino,0,02区,0.0,0.0,0.0
+其他美食,Taste,Taste,0,02区,0.0,0.0,0.0
+其他美食,LE WAROENG BALI,LE WAROENG BALI,0,,0.0,0.0,0.0
+其他美食,WAROENG BALI,WAROENG BALI,0,,0.0,0.0,0.0
+其他美食,Ambassade de Bretagne,Ambassade de Bretagne,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,L'Artisanale,L'Artisanale,0,08区,0.0,0.0,0.0
+其他美食,Chez Diego,Chez Diego,0,马赛其他,0.0,0.0,0.0
+其他美食,Mc Donald's Marseille Republique,Mc Donald's Marseille Republique,0,02区,0.0,0.0,0.0
+其他美食,O Debut,O Debut,0,,0.0,0.0,0.0
+其他美食,Chez Ida,Chez Ida,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,La Strada,La Strada,0,08区,0.0,0.0,0.0
+其他美食,Sushi Resto,Sushi Resto,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,isula,isula,0,08区,0.0,0.0,0.0
+其他美食,Glacier Vanille Noire,Glacier Vanille Noire,0,02区,0.0,0.0,0.0
+其他美食,Cafe,Cafe,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Pizza a Emporter Jean-Michel,Pizza a Emporter Jean-Michel,0,马赛其他,0.0,0.0,0.0
+其他美食,Chez Nous,Chez Nous,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Le Reservoir,Le Reservoir,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Cafe Thai,Le Cafe Thai,0,08区,0.0,0.0,0.0
+其他美食,Vinoneo,Vinoneo,0,02区,0.0,0.0,0.0
+其他美食,Smart Cook,Smart Cook,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Pytheas,Le Pytheas,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,La maronaise cafe,La maronaise cafe,0,08区,0.0,0.0,0.0
+其他美食,Tartines & Chips,Tartines & Chips,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Jin Jiang,Jin Jiang,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,La Casertane,La Casertane,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Axis,Axis,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,La Couscoussiere,La Couscoussiere,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Talgo,Le Talgo,0,03区,0.0,0.0,0.0
+其他美食,Rail Restauration,Rail Restauration,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,L'Osteria du Prado,L'Osteria du Prado,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,|La Rotonde || Restaurant ‧ Caffe ‧ Lounge|,|La Rotonde || Restaurant ‧ Caffe ‧ Lounge|,0,,0.0,0.0,0.0
+其他美食,Pyxis Cafe,Pyxis Cafe,0,,0.0,0.0,0.0
+其他美食,Mi-Am,Mi-Am,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Dunk,Dunk,0,02区,0.0,0.0,0.0
+其他美食,La Goulette,La Goulette,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Restaurant Ventiane,Restaurant Ventiane,0,02区,0.0,0.0,0.0
+其他美食,WARROENG BALI,WARROENG BALI,0,,0.0,0.0,0.0
+其他美食,Le Comptoir Dugommier,Le Comptoir Dugommier,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Tommy's Diner Cafe,Tommy's Diner Cafe,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Resto Provencal,Le Resto Provencal,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Kyo Sushi,Kyo Sushi,0,,0.0,0.0,0.0
+其他美食,Le 13,Le 13,0,07区-考尼西,0.0,0.0,0.0
+其他美食,La Pastina,La Pastina,0,,0.0,0.0,0.0
+其他美食,La cantine,La cantine,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Sylvain Depuichaffray,Sylvain Depuichaffray,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,L'instinct Nippon,L'instinct Nippon,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Les Mouettes (Marseille),Les Mouettes (Marseille),0,08区,0.0,0.0,0.0
+其他美食,Le Quai Gourmand II,Le Quai Gourmand II,0,02区,0.0,0.0,0.0
+其他美食,Brasserie OM,Brasserie OM,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Cercle Rouge,Le Cercle Rouge,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,La Karbonade,La Karbonade,0,07区-考尼西,0.0,0.0,0.0
+其他美食,"La Pause (Rue des 3 Mages, Marseille)","La Pause (Rue des 3 Mages, Marseille)",0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Jeyasackite Alimentation Generale,Jeyasackite Alimentation Generale,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Bar le Claridge,Bar le Claridge,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Les Deux Aromes,Les Deux Aromes,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Sandwicherie Le Puget,Sandwicherie Le Puget,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Les Minutes Gourmandes,Les Minutes Gourmandes,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Io e Te,Io e Te,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Le Saloon Beach,Le Saloon Beach,0,08区,0.0,0.0,0.0
+其他美食,Le Tampano,Le Tampano,0,08区,0.0,0.0,0.0
+其他美食,Le Verre d'Eau,Le Verre d'Eau,0,08区,0.0,0.0,0.0
+其他美食,Le Daloa,Le Daloa,0,08区,0.0,0.0,0.0
+其他美食,SuAndShi,SuAndShi,0,08区,0.0,0.0,0.0
+其他美食,Patio & Gourmandises,Patio & Gourmandises,0,08区,0.0,0.0,0.0
+其他美食,Bar Pmu le Brazza,Bar Pmu le Brazza,0,03区,0.0,0.0,0.0
+其他美食,Il Piccolo,Il Piccolo,0,05区,0.0,0.0,0.0
+其他美食,La Marmarita,La Marmarita,0,05区,0.0,0.0,0.0
+其他美食,Boulevard des Pizzas,Boulevard des Pizzas,0,05区,0.0,0.0,0.0
+其他美食,Alfred Kels,Alfred Kels,0,10区,0.0,0.0,0.0
+其他美食,Restaurant La Maillane,Restaurant La Maillane,0,马赛其他,0.0,0.0,0.0
+其他美食,Hoang,Hoang,0,马赛其他,0.0,0.0,0.0
+其他美食,L'Atelier de la Cuisine,L'Atelier de la Cuisine,0,马赛其他,0.0,0.0,0.0
+其他美食,Indiana,Indiana,0,马赛其他,0.0,0.0,0.0
+其他美食,Bracelet d' Argent,Bracelet d' Argent,0,马赛其他,0.0,0.0,0.0
+其他美食,Pizza Jeje,Pizza Jeje,0,马赛其他,0.0,0.0,0.0
+其他美食,VINONéO BISTROT,VINONéO BISTROT,0,,0.0,0.0,0.0
+其他美食,SALAH THAI,SALAH THAI,0,,0.0,0.0,0.0
+其他美食,ô LAPIN BLANC,ô LAPIN BLANC,0,,0.0,0.0,0.0
+其他美食,LA SOURCE DE JADE,LA SOURCE DE JADE,0,,0.0,0.0,0.0
+其他美食,LE JARDIN,LE JARDIN,0,,0.0,0.0,0.0
+其他美食,Petit Nice Passedat Restaurant,Petit Nice Passedat Restaurant,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Il Caffe di Roma,Il Caffe di Roma,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,China Town,China Town,0,,0.0,0.0,0.0
+其他美食,THE QUEEN VICTORIA,THE QUEEN VICTORIA,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Yamato,Yamato,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,"The Shamrock, Irish Pub","The Shamrock, Irish Pub",0,07区-考尼西,0.0,0.0,0.0
+其他美食,La Fabrique,La Fabrique,0,02区,0.0,0.0,0.0
+其他美食,L Entrecote,L Entrecote,0,马赛其他,0.0,0.0,0.0
+其他美食,Restaurant Dalloyau,Restaurant Dalloyau,0,马赛其他,0.0,0.0,0.0
+其他美食,Dayo,Dayo,0,马赛其他,0.0,0.0,0.0
+其他美食,Pittz,Pittz,0,,0.0,0.0,0.0
+其他美食,Mitch,Mitch,0,,0.0,0.0,0.0
+其他美食,Bentoka,Bentoka,0,,0.0,0.0,0.0
+其他美食,Ze Bistro,Ze Bistro,0,,0.0,0.0,0.0
+其他美食,Chez Mathieu,Chez Mathieu,0,,0.0,0.0,0.0
+其他美食,La Poule Noire,La Poule Noire,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,La Tavola,La Tavola,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Paule & Kopa,Paule & Kopa,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Trianon,Le Trianon,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Nam Viet,Nam Viet,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Galion,Le Galion,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Cafe Bovo,Cafe Bovo,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Ivoire Restaurant,Ivoire Restaurant,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,La Cuisine Republique of Marseille,La Cuisine Republique of Marseille,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Café l'Écomotive,Café l'Écomotive,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Debouche,Le Debouche,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Phenicia,Le Phenicia,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Longchamp,Le Longchamp,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Brasserie l'Actuel,Brasserie l'Actuel,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Capriccio,Le Capriccio,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Chez Jackinot,Chez Jackinot,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Pizz'Artisanale,Pizz'Artisanale,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Le Sheraton,Le Sheraton,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,L'Aromat,L'Aromat,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Bataille,Bataille,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Le Terroir Corse,Le Terroir Corse,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,SUBWAY COURS JULIEN,SUBWAY COURS JULIEN,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Arret Buffet,Arret Buffet,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,La Gentiane,La Gentiane,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Le Bistrot Venitien,Le Bistrot Venitien,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Bistro du cours,Bistro du cours,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,La Garbure,La Garbure,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Le Bouchon,Le Bouchon,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Restaurant le Frioulais,Restaurant le Frioulais,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Restaurant Eden Roc,Restaurant Eden Roc,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Auberge du Corsaire - Chez Paul,Auberge du Corsaire - Chez Paul,0,08区,0.0,0.0,0.0
+其他美食,Grand Bar des Goudes,Grand Bar des Goudes,0,08区,0.0,0.0,0.0
+其他美食,Chez Aldo,Chez Aldo,0,08区,0.0,0.0,0.0
+其他美食,Le Yachting,Le Yachting,0,08区,0.0,0.0,0.0
+其他美食,Le Vin Sobre,Le Vin Sobre,0,08区,0.0,0.0,0.0
+其他美食,La Table du 8eme,La Table du 8eme,0,08区,0.0,0.0,0.0
+其他美食,Entre Parentheses,Entre Parentheses,0,08区,0.0,0.0,0.0
+其他美食,MIDO,MIDO,0,02区,0.0,0.0,0.0
+其他美食,Restaurant Le Taxi Brousse,Restaurant Le Taxi Brousse,0,02区,0.0,0.0,0.0
+其他美食,Bebert,Bebert,0,10区,0.0,0.0,0.0
+其他美食,Luminyen le,Luminyen le,0,马赛其他,0.0,0.0,0.0
+其他美食,franceschi pizza,franceschi pizza,0,马赛其他,0.0,0.0,0.0
+其他美食,Brasserie Olympe,Brasserie Olympe,0,马赛其他,0.0,0.0,0.0
+其他美食,Brasserie LE GRILLON,Brasserie LE GRILLON,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Kasbar,Le Kasbar,0,马赛其他,0.0,0.0,0.0
+其他美食,Su and Shi La Valentine,Su and Shi La Valentine,0,马赛其他,0.0,0.0,0.0
+其他美食,Grim'O,Grim'O,0,马赛其他,0.0,0.0,0.0
+其他美食,La Mangeoire Aveyronnaise,La Mangeoire Aveyronnaise,0,马赛其他,0.0,0.0,0.0
+其他美食,La Table du 12 Eme,La Table du 12 Eme,0,马赛其他,0.0,0.0,0.0
+其他美食,la jonque viet,la jonque viet,0,马赛其他,0.0,0.0,0.0
+其他美食,Greendeliss,Greendeliss,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Paradis'eau,Le Paradis'eau,0,马赛其他,0.0,0.0,0.0
+其他美食,Chez Lili,Chez Lili,0,马赛其他,0.0,0.0,0.0
+其他美食,Baie d'Along,Baie d'Along,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Gout des Choses,Le Gout des Choses,0,马赛其他,0.0,0.0,0.0
+其他美食,LA RéSERVE,LA RéSERVE,0,,0.0,0.0,0.0
+其他美食,RESTAURANT SOLARIS - HOTEL RADISSON,RESTAURANT SOLARIS - HOTEL RADISSON,0,,0.0,0.0,0.0
+其他美食,BURGER'S BANQUET,BURGER'S BANQUET,0,,0.0,0.0,0.0
+其他美食,LONGCHAMP PALACE,LONGCHAMP PALACE,0,,0.0,0.0,0.0
+其他美食,LA TABLE CINQ,LA TABLE CINQ,0,,0.0,0.0,0.0
+其他美食,AL DENTE,AL DENTE,0,,0.0,0.0,0.0
+其他美食,LE FéMINA,LE FéMINA,0,,0.0,0.0,0.0
+其他美食,RESTAURANT LE BOUCHER,RESTAURANT LE BOUCHER,0,,0.0,0.0,0.0
+其他美食,LE GREENWICH,LE GREENWICH,0,,0.0,0.0,0.0
+其他美食,LA BARON PERCHé,LA BARON PERCHé,0,,0.0,0.0,0.0
+其他美食,LA CôTE DE BœUF,LA CôTE DE BœUF,0,,0.0,0.0,0.0
+其他美食,CHEZ VINCENT,CHEZ VINCENT,0,,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Chez Mima,Chez Mima,0,02区,0.0,0.0,0.0
+其他美食,WARROENG BALI EXPRESS,WARROENG BALI EXPRESS,0,,0.0,0.0,0.0
+其他美食,l'ecailler,l'ecailler,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,L'Armonia,L'Armonia,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Lamparo Au,Lamparo Au,0,02区,0.0,0.0,0.0
+其他美食,Club XO,Club XO,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Habib's,Habib's,0,07区-考尼西,0.0,0.0,0.0
+其他美食,La TARTE Tropezienne,La TARTE Tropezienne,0,,0.0,0.0,0.0
+其他美食,Raja,Raja,0,马赛其他,0.0,0.0,0.0
+其他美食,Novotel Cafe,Novotel Cafe,0,马赛其他,0.0,0.0,0.0
+其他美食,Chez les Garcons,Chez les Garcons,0,马赛其他,0.0,0.0,0.0
+其他美食,Campanile Marseille Saint-Antoine,Campanile Marseille Saint-Antoine,0,马赛其他,0.0,0.0,0.0
+其他美食,Oxydium,Oxydium,0,,0.0,0.0,0.0
+其他美食,Cafe des 3 Sautets,Cafe des 3 Sautets,0,,0.0,0.0,0.0
+其他美食,Papilles by Laurane,Papilles by Laurane,0,,0.0,0.0,0.0
+其他美食,La Brocherie,La Brocherie,0,,0.0,0.0,0.0
+其他美食,Seito Restaurant Sushi & Grill,Seito Restaurant Sushi & Grill,0,,0.0,0.0,0.0
+其他美食,Pierre Reboul,Pierre Reboul,0,,0.0,0.0,0.0
+其他美食,Don Giovanni,Don Giovanni,0,,0.0,0.0,0.0
+其他美食,La Maisons des Fondues,La Maisons des Fondues,0,,0.0,0.0,0.0
+其他美食,Chado Cafe,Chado Cafe,0,,0.0,0.0,0.0
+其他美食,Century's,Century's,0,,0.0,0.0,0.0
+其他美食,Chez Nino,Chez Nino,0,,0.0,0.0,0.0
+其他美食,La Bastide de Venelles,La Bastide de Venelles,0,,0.0,0.0,0.0
+其他美食,Lauracee,Lauracee,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,PP Maulio,PP Maulio,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Carbone,Le Carbone,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Les Panisses,Les Panisses,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Venture,Le Venture,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Pointu,Le Pointu,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,OM Cafe,OM Cafe,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,La Garrigue,La Garrigue,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,L'heure de Marseille,L'heure de Marseille,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Yoji-Su,Yoji-Su,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Sousse Palace,Sousse Palace,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Terranga,Terranga,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,"Plauchut, Patissier Et Glacier","Plauchut, Patissier Et Glacier",0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Smart,Smart,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,La boite a sardine,La boite a sardine,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Latcho,Latcho,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Cyprien,Cyprien,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,L'Argentin Grill,L'Argentin Grill,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Nha-Trang,Nha-Trang,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,La Table Ronde,La Table Ronde,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Patisserie Ines,Patisserie Ines,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Eating,Eating,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Le Sud du Haut,Le Sud du Haut,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Oogie,Oogie,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Fayrouz,Fayrouz,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Palangrotte La,Palangrotte La,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,La Passerelle,La Passerelle,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Le Baron Perche,Le Baron Perche,0,07区-考尼西,0.0,0.0,0.0
+其他美食,La Velada,La Velada,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Le Chalet,Le Chalet,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Le SIAM,Le SIAM,0,08区,0.0,0.0,0.0
+其他美食,La Table Du Pouce - Bonneveine,La Table Du Pouce - Bonneveine,0,08区,0.0,0.0,0.0
+其他美食,El Carino,El Carino,0,08区,0.0,0.0,0.0
+其他美食,Le Monticelli,Le Monticelli,0,08区,0.0,0.0,0.0
+其他美食,Le Patio de Borely,Le Patio de Borely,0,08区,0.0,0.0,0.0
+其他美食,Restaurant Turf Caffe,Restaurant Turf Caffe,0,08区,0.0,0.0,0.0
+其他美食,LES Jardins D'ahlam,LES Jardins D'ahlam,0,08区,0.0,0.0,0.0
+其他美食,Le 3615,Le 3615,0,08区,0.0,0.0,0.0
+其他美食,L'entrecote du Huitieme,L'entrecote du Huitieme,0,08区,0.0,0.0,0.0
+其他美食,Blue Cafe Marseille,Blue Cafe Marseille,0,08区,0.0,0.0,0.0
+其他美食,Brasserie du stade,Brasserie du stade,0,08区,0.0,0.0,0.0
+其他美食,Le Falafel Prado,Le Falafel Prado,0,08区,0.0,0.0,0.0
+其他美食,Le Sport Beach,Le Sport Beach,0,08区,0.0,0.0,0.0
+其他美食,L'arc en Ciel,L'arc en Ciel,0,08区,0.0,0.0,0.0
+其他美食,Le Souk,Le Souk,0,02区,0.0,0.0,0.0
+其他美食,La Vieille Pelle,La Vieille Pelle,0,02区,0.0,0.0,0.0
+其他美食,Le ch'ti restO,Le ch'ti restO,0,02区,0.0,0.0,0.0
+其他美食,Le Joli Port,Le Joli Port,0,02区,0.0,0.0,0.0
+其他美食,Au Vieux Clocher,Au Vieux Clocher,0,02区,0.0,0.0,0.0
+其他美食,Le Glacier du Roi,Le Glacier du Roi,0,02区,0.0,0.0,0.0
+其他美食,Ossety,Ossety,0,02区,0.0,0.0,0.0
+其他美食,Restaurant le Kai Kai,Restaurant le Kai Kai,0,02区,0.0,0.0,0.0
+其他美食,Le Quai Gourmand,Le Quai Gourmand,0,02区,0.0,0.0,0.0
+其他美食,Tomasini,Tomasini,0,02区,0.0,0.0,0.0
+其他美食,Joris,Joris,0,02区,0.0,0.0,0.0
+其他美食,Restaurant Pink Hornet,Restaurant Pink Hornet,0,05区,0.0,0.0,0.0
+其他美食,Le Port Au Prince - Chez Eugenie,Le Port Au Prince - Chez Eugenie,0,05区,0.0,0.0,0.0
+其他美食,La Table des Garrigues,La Table des Garrigues,0,10区,0.0,0.0,0.0
+其他美食,Chez Ze,Chez Ze,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Bistrot de Lorette,Le Bistrot de Lorette,0,马赛其他,0.0,0.0,0.0
+其他美食,le bien etre,le bien etre,0,马赛其他,0.0,0.0,0.0
+其他美食,Aya,Aya,0,马赛其他,0.0,0.0,0.0
+其他美食,Rock et Ribs,Rock et Ribs,0,马赛其他,0.0,0.0,0.0
+其他美食,Sogood Cafe,Sogood Cafe,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Cent Six,Le Cent Six,0,马赛其他,0.0,0.0,0.0
+其他美食,Les 4 Saisons,Les 4 Saisons,0,马赛其他,0.0,0.0,0.0
+其他美食,Sushi Street Cafe,Sushi Street Cafe,0,马赛其他,0.0,0.0,0.0
+其他美食,Les 3 Freres,Les 3 Freres,0,马赛其他,0.0,0.0,0.0
+其他美食,La Table de la Boucherie GILBERT,La Table de la Boucherie GILBERT,0,马赛其他,0.0,0.0,0.0
+其他美食,Je Me Regale,Je Me Regale,0,马赛其他,0.0,0.0,0.0
+其他美食,Restaurant Sindbad,Restaurant Sindbad,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Gascon,Le Gascon,0,马赛其他,0.0,0.0,0.0
+其他美食,restaurant lou Granjoun,restaurant lou Granjoun,0,马赛其他,0.0,0.0,0.0
+其他美食,calendal,calendal,0,马赛其他,0.0,0.0,0.0
+其他美食,Jean-Luc La Passerelle,Jean-Luc La Passerelle,0,马赛其他,0.0,0.0,0.0
+其他美食,City d'Asie,City d'Asie,0,马赛其他,0.0,0.0,0.0
+其他美食,Pop Friand,Pop Friand,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Club House,Le Club House,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Cafouch aux Saveurs,Le Cafouch aux Saveurs,0,马赛其他,0.0,0.0,0.0
+其他美食,Michel Bejeannin,Michel Bejeannin,0,马赛其他,0.0,0.0,0.0
+其他美食,L'hippocampe,L'hippocampe,0,马赛其他,0.0,0.0,0.0
+其他美食,KYO BY JAPANESE CHEFS,KYO BY JAPANESE CHEFS,0,,0.0,0.0,0.0
+其他美食,PIZZERIA CHEZ LILY ET TONY,PIZZERIA CHEZ LILY ET TONY,0,,0.0,0.0,0.0
+其他美食,CAFé BORéLY,CAFé BORéLY,0,,0.0,0.0,0.0
+其他美食,LE MONTMARTRE,LE MONTMARTRE,0,,0.0,0.0,0.0
+其他美食,LE NAKA II,LE NAKA II,0,,0.0,0.0,0.0
+其他美食,LE CITYZEN,LE CITYZEN,0,,0.0,0.0,0.0
+其他美食,SHANGAI EXPRESS,SHANGAI EXPRESS,0,,0.0,0.0,0.0
+其他美食,LE ZINC,LE ZINC,0,,0.0,0.0,0.0
+其他美食,LES METS'ANGES,LES METS'ANGES,0,,0.0,0.0,0.0
+其他美食,URBAN KITCHEN,URBAN KITCHEN,0,,0.0,0.0,0.0
+其他美食,LE POULPE,LE POULPE,0,,0.0,0.0,0.0
+其他美食,JULIEN ET BARNABé,JULIEN ET BARNABé,0,,0.0,0.0,0.0
+其他美食,LE MASK,LE MASK,0,,0.0,0.0,0.0
+其他美食,LE 12 MERMOZ,LE 12 MERMOZ,0,,0.0,0.0,0.0
+其他美食,Brasserie Y'Z,Brasserie Y'Z,0,普罗旺斯其他,0.0,0.0,0.0
+其他美食,Le Bleu Pourpre,Le Bleu Pourpre,0,,0.0,0.0,0.0
+其他美食,Beef House Restaurant Saloon,Beef House Restaurant Saloon,0,马赛其他,0.0,0.0,0.0
+其他美食,Blue Dream,Blue Dream,0,马赛其他,0.0,0.0,0.0
+其他美食,Mangia,Mangia,0,马赛其他,0.0,0.0,0.0
+其他美食,Les Nouvelles Tables du Chateau,Les Nouvelles Tables du Chateau,0,马赛其他,0.0,0.0,0.0
+其他美食,Chateau de la Pioline,Chateau de la Pioline,0,,0.0,0.0,0.0
+其他美食,La Coupagnie,La Coupagnie,0,,0.0,0.0,0.0
+其他美食,Toute Une Histoire,Toute Une Histoire,0,,0.0,0.0,0.0
+其他美食,La Case Creole,La Case Creole,0,,0.0,0.0,0.0
+其他美食,Via Veneto,Via Veneto,0,,0.0,0.0,0.0
+其他美食,La Part des Anges,La Part des Anges,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,20260,20260,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Fetiche,Le Fetiche,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Restaurant Il Canaletto,Restaurant Il Canaletto,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Quai,Le Quai,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Brasserie Le Soleil,Brasserie Le Soleil,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Massilia cafe,Le Massilia cafe,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,La Folle Epoque,La Folle Epoque,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Melo Cafe,Melo Cafe,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Temps des Mets (Le),Temps des Mets (Le),0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Le Comptoir Marseillais,Le Comptoir Marseillais,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Culti,Culti,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Le Cafe des Arts,Le Cafe des Arts,0,07区-考尼西,0.0,0.0,0.0
+其他美食,le petit pavillon,le petit pavillon,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Les Akolytes,Les Akolytes,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Cercle des Nageurs,Cercle des Nageurs,0,07区-考尼西,0.0,0.0,0.0
+其他美食,La Piazza PaPa,La Piazza PaPa,0,07区-考尼西,0.0,0.0,0.0
+其他美食,La Grotte,La Grotte,0,08区,0.0,0.0,0.0
+其他美食,Le Tiboulen de Maire,Le Tiboulen de Maire,0,08区,0.0,0.0,0.0
+其他美食,O'Pedalo,O'Pedalo,0,08区,0.0,0.0,0.0
+其他美食,Gallo Pizza Bonneveine Chez Raymond,Gallo Pizza Bonneveine Chez Raymond,0,08区,0.0,0.0,0.0
+其他美食,Le Naka,Le Naka,0,08区,0.0,0.0,0.0
+其他美食,Indigo Cafe,Indigo Cafe,0,08区,0.0,0.0,0.0
+其他美食,Le Murano,Le Murano,0,08区,0.0,0.0,0.0
+其他美食,Club House Vieux-Port,Club House Vieux-Port,0,02区,0.0,0.0,0.0
+其他美食,Grand Comptoir de Paris,Grand Comptoir de Paris,0,02区,0.0,0.0,0.0
+其他美食,Bellevue,Bellevue,0,02区,0.0,0.0,0.0
+其他美食,Chez Angele,Chez Angele,0,02区,0.0,0.0,0.0
+其他美食,elan du vieux marseille el bodegon antonio,elan du vieux marseille el bodegon antonio,0,02区,0.0,0.0,0.0
+其他美食,L'Effet Clochette,L'Effet Clochette,0,02区,0.0,0.0,0.0
+其他美食,Bar Le Capian,Bar Le Capian,0,02区,0.0,0.0,0.0
+其他美食,Restaurant Baris,Restaurant Baris,0,03区,0.0,0.0,0.0
+其他美食,SushiQui,SushiQui,0,05区,0.0,0.0,0.0
+其他美食,Restaurant Villa Dona,Restaurant Villa Dona,0,马赛其他,0.0,0.0,0.0
+其他美食,Courtepaille,Courtepaille,0,马赛其他,0.0,0.0,0.0
+其他美食,L'Endroit,L'Endroit,0,马赛其他,0.0,0.0,0.0
+其他美食,Chez Jean Louis - Pizzeria Restaurant,Chez Jean Louis - Pizzeria Restaurant,0,马赛其他,0.0,0.0,0.0
+其他美食,Il Barocco,Il Barocco,0,马赛其他,0.0,0.0,0.0
+其他美食,Restaurant du C.A.M,Restaurant du C.A.M,0,马赛其他,0.0,0.0,0.0
+其他美食,SUSHI DU 8EME,SUSHI DU 8EME,0,,0.0,0.0,0.0
+其他美食,L'ALIMENTATION GENERALE,L'ALIMENTATION GENERALE,0,,0.0,0.0,0.0
+其他美食,RESTAURANT LARRIEU,RESTAURANT LARRIEU,0,,0.0,0.0,0.0
+其他美食,CHEZ PAULO,CHEZ PAULO,0,,0.0,0.0,0.0
+其他美食,HONG KONG 2,HONG KONG 2,0,,0.0,0.0,0.0
+其他美食,L'ESQUINADE,L'ESQUINADE,0,,0.0,0.0,0.0
+其他美食,PAULANER,PAULANER,0,,0.0,0.0,0.0
+其他美食,SON THUY,SON THUY,0,,0.0,0.0,0.0
+其他美食,TIBOULEN DE MAïRE,TIBOULEN DE MAïRE,0,,0.0,0.0,0.0
+其他美食,BLACK ANGUS,BLACK ANGUS,0,,0.0,0.0,0.0
+其他美食,PIZZA-STREET,PIZZA-STREET,0,,0.0,0.0,0.0
+其他美食,LEKRIBIEN NSIMALEN,LEKRIBIEN NSIMALEN,0,,0.0,0.0,0.0
+其他美食,Campanile Aix en Provence La Beauvalle,Campanile Aix en Provence La Beauvalle,0,,0.0,0.0,0.0
+其他美食,L'Unic,L'Unic,0,普罗旺斯其他,0.0,0.0,0.0
+其他美食,Brasserie Brise Marine,Brasserie Brise Marine,0,马赛其他,0.0,0.0,0.0
+其他美食,La Table A Fromages,La Table A Fromages,0,,0.0,0.0,0.0
+其他美食,Grill Courtepaille,Grill Courtepaille,0,,0.0,0.0,0.0
+其他美食,L'Escholier,L'Escholier,0,,0.0,0.0,0.0
+其他美食,La Table de Pigonnet,La Table de Pigonnet,0,,0.0,0.0,0.0
+其他美食,Hotel Restaurant Campanile,Hotel Restaurant Campanile,0,,0.0,0.0,0.0
+其他美食,Hippopotamus,Hippopotamus,0,,0.0,0.0,0.0
+其他美食,Le Palatino,Le Palatino,0,,0.0,0.0,0.0
+其他美食,Simply Food,Simply Food,0,,0.0,0.0,0.0
+其他美食,Bella Napoli,Bella Napoli,0,,0.0,0.0,0.0
+其他美食,A L'ile de la Reunion,A L'ile de la Reunion,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Cafe de la Paix,Cafe de la Paix,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Les mets de la mer,Les mets de la mer,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Le Merou Bleu,Le Merou Bleu,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Restaurant le MArseillais,Restaurant le MArseillais,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Jumeaux Les,Jumeaux Les,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Fast N' Fresh,Fast N' Fresh,0,01区-维厄港-加内比勒,0.0,0.0,0.0
+其他美食,Les Mouettes au Prado,Les Mouettes au Prado,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,L'Entrecôte,L'Entrecôte,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Da Romano,Da Romano,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Le Sixieme Sens,Le Sixieme Sens,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Planet Sushi,Planet Sushi,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Danny,Danny,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Bar du marche,Bar du marche,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Chez Laura,Chez Laura,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,La Rhumerie,La Rhumerie,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,La Raclette,La Raclette,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,La Lyceenne Thiers,La Lyceenne Thiers,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,L'Ateo,L'Ateo,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Le Dauphin,Le Dauphin,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Les Mamies Bruncheuses,Les Mamies Bruncheuses,0,07区-考尼西,0.0,0.0,0.0
+其他美食,30six,30six,0,07区-考尼西,0.0,0.0,0.0
+其他美食,Le Mistral,Le Mistral,0,08区,0.0,0.0,0.0
+其他美食,Bistingo,Bistingo,0,08区,0.0,0.0,0.0
+其他美食,Le Pressoir,Le Pressoir,0,08区,0.0,0.0,0.0
+其他美食,Bistro du Port,Bistro du Port,0,02区,0.0,0.0,0.0
+其他美食,Le Carre,Le Carre,0,02区,0.0,0.0,0.0
+其他美食,Au Sanglier,Au Sanglier,0,02区,0.0,0.0,0.0
+其他美食,Bo & Chic,Bo & Chic,0,02区,0.0,0.0,0.0
+其他美食,Royal Asia,Royal Asia,0,03区,0.0,0.0,0.0
+其他美食,Le Carabin,Le Carabin,0,05区,0.0,0.0,0.0
+其他美食,Ca Blanca,Ca Blanca,0,05区,0.0,0.0,0.0
+其他美食,Medirest,Medirest,0,10区,0.0,0.0,0.0
+其他美食,cercle des nageurs CNM,cercle des nageurs CNM,0,10区,0.0,0.0,0.0
+其他美食,Chez Bruno,Chez Bruno,0,10区,0.0,0.0,0.0
+其他美食,Le Lunch,Le Lunch,0,马赛其他,0.0,0.0,0.0
+其他美食,Pepe Pizza,Pepe Pizza,0,马赛其他,0.0,0.0,0.0
+其他美食,Chez Gus,Chez Gus,0,马赛其他,0.0,0.0,0.0
+其他美食,Mcdonald's,Mcdonald's,0,马赛其他,0.0,0.0,0.0
+其他美食,"La Table de Guy, Restaurant Dansant ღ","La Table de Guy, Restaurant Dansant ღ",0,马赛其他,0.0,0.0,0.0
+其他美食,La Panisse Marseillaise,La Panisse Marseillaise,0,马赛其他,0.0,0.0,0.0
+其他美食,Au Petit Naples,Au Petit Naples,0,马赛其他,0.0,0.0,0.0
+其他美食,Bar Restaurant de La Rade,Bar Restaurant de La Rade,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Littoral,Le Littoral,0,马赛其他,0.0,0.0,0.0
+其他美食,Wok And Sushis,Wok And Sushis,0,马赛其他,0.0,0.0,0.0
+其他美食,Les Canotiers,Les Canotiers,0,马赛其他,0.0,0.0,0.0
+其他美食,CAFé DE LA GARE,CAFé DE LA GARE,0,,0.0,0.0,0.0
+其他美食,LE B27,LE B27,0,,0.0,0.0,0.0
+其他美食,LES CANOTIERS,LES CANOTIERS,0,,0.0,0.0,0.0
+其他美食,CUISINE DES ILES,CUISINE DES ILES,0,,0.0,0.0,0.0
+其他美食,LE BISTROT FLORENTIN,LE BISTROT FLORENTIN,0,,0.0,0.0,0.0
+其他美食,Madison Cafe,Madison Cafe,0,普罗旺斯其他,0.0,0.0,0.0
+其他美食,Au Bout du Quai,Au Bout du Quai,0,马赛其他,0.0,0.0,0.0
+其他美食,Le Villon,Le Villon,0,,0.0,0.0,0.0
+其他美食,les 3 louches,les 3 louches,0,06区-卡斯特拉内普莱菲彻,0.0,0.0,0.0
+其他美食,Le Mirador,Le Mirador,0,08区,0.0,0.0,0.0
+其他美食,La Langostine,La Langostine,0,02区,0.0,0.0,0.0
+其他美食,NOR GUILIGUIA,NOR GUILIGUIA,0,,0.0,0.0,0.0
+其他美食,BO&AMP;CO,BO&AMP;CO,0,,0.0,0.0,0.0
+其他美食,NOVOTEL MARSEILLE EST LA VALENTINE,NOVOTEL MARSEILLE EST LA VALENTINE,0,,0.0,0.0,0.0
+其他美食,MICHEL - BRASSERIE DES CATALANS,MICHEL - BRASSERIE DES CATALANS,0,,0.0,0.0,0.0
+其他美食,LE BERGERAC,LE BERGERAC,0,,0.0,0.0,0.0
+其他美食,L'INSTANT GOURMAND,L'INSTANT GOURMAND,0,,0.0,0.0,0.0
+其他美食,CHEZ SAUVEUR,CHEZ SAUVEUR,0,,0.0,0.0,0.0
+其他美食,MINOOFI VIEUX PORT,MINOOFI VIEUX PORT,0,,0.0,0.0,0.0
+其他美食,QI,QI,0,,0.0,0.0,0.0
+其他美食,BAR DE LA RELèVE,BAR DE LA RELèVE,0,,0.0,0.0,0.0
+其他美食,LE 8EME SUD,LE 8EME SUD,0,,0.0,0.0,0.0
+其他美食,LES QUATRE EPICES,LES QUATRE EPICES,0,,0.0,0.0,0.0
+其他美食,RESTAURANT LA TABLE MARSEILLAISE,RESTAURANT LA TABLE MARSEILLAISE,0,,0.0,0.0,0.0
+其他美食,SUSHI KOST,SUSHI KOST,0,,0.0,0.0,0.0
+其他美食,LOVE SUSHI,LOVE SUSHI,0,,0.0,0.0,0.0
+其他美食,L'ART DES METS,L'ART DES METS,0,,0.0,0.0,0.0
+其他美食,BRASSERIE LE METRO,BRASSERIE LE METRO,0,,0.0,0.0,0.0
+其他美食,LA TABLE DE GEPETTO,LA TABLE DE GEPETTO,0,,0.0,0.0,0.0
+其他美食,RESTAURANT PIZZERIA DU ROY D'ESPAGNE,RESTAURANT PIZZERIA DU ROY D'ESPAGNE,0,,0.0,0.0,0.0
+其他美食,BINH AN,BINH AN,0,,0.0,0.0,0.0
+其他美食,LE TANTANO,LE TANTANO,0,,0.0,0.0,0.0
+其他美食,CHEZ LOO,CHEZ LOO,0,,0.0,0.0,0.0
+其他美食,LE COMPTOIR DE LA PALMERAIE,LE COMPTOIR DE LA PALMERAIE,0,,0.0,0.0,0.0
+其他美食,DRAGON D'ASIE,DRAGON D'ASIE,0,,0.0,0.0,0.0
+其他美食,LE NAKA II,LE NAKA II,0,,0.0,0.0,0.0
+其他美食,L'ATELIER MARéCHAL,L'ATELIER MARéCHAL,0,,0.0,0.0,0.0
+其他美食,LA TABLE DE MANON,LA TABLE DE MANON,0,,0.0,0.0,0.0
+其他美食,RESTAURANT LE SAN MICHEL,RESTAURANT LE SAN MICHEL,0,,0.0,0.0,0.0
+其他美食,SAVEURS D'ARMéNIE,SAVEURS D'ARMéNIE,0,,0.0,0.0,0.0
+其他美食,O VERY TABLE,O VERY TABLE,0,,0.0,0.0,0.0
+其他美食,CHEZ SAUVEUR,CHEZ SAUVEUR,0,,0.0,0.0,0.0
+其他美食,LES TROIS FRERES,LES TROIS FRERES,0,,0.0,0.0,0.0
+其他美食,BAR 1917,BAR 1917,0,,0.0,0.0,0.0
+其他美食,LE KALLISTè,LE KALLISTè,0,,0.0,0.0,0.0
+其他美食,BISTROT SAINT ADRIEN,BISTROT SAINT ADRIEN,0,,0.0,0.0,0.0
+其他美食,RESTAURANT BAR DE L'UNIVERS,RESTAURANT BAR DE L'UNIVERS,0,,0.0,0.0,0.0

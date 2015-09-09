@@ -1,0 +1,353 @@
+意大利菜,Bar Mediterraneo Salisburgo
+意大利菜,Ristorante Girasole
+意大利菜,Bella Vita
+意大利菜,Trattoria La Campana da Enzo
+意大利菜,Trattoria
+意大利菜,Enoteca Settemila a.C.
+意大利菜,Il Padrino
+意大利菜,Das Restaurant Wasserfall
+意大利菜,Nabucco
+意大利菜,Café-Bistro Pepita
+意大利菜,Pasta e Vino
+意大利菜,Cafe Tiziana
+意大利菜,Antichi Sapori
+意大利菜,Trattoria Gabriela
+意大利菜,Sabroson
+意大利菜,Trattoria Domani
+意大利菜,L'Osteria Salzburg
+意大利菜,bellinis salzburg
+意大利菜,Ristorante Da Alberto
+意大利菜,La Bruschetta
+意大利菜,Cafe Restaurant Engljaehringer
+意大利菜,D&S
+意大利菜,Tratoria Italia
+意大利菜,Ristorante Pizzeria daGiacomo
+意大利菜,Pizzeria Il Centro
+意大利菜,Al Dente
+意大利菜,Di Renzi
+意大利菜,Sole mio
+墨西哥菜,Pepe
+其他西餐,托马塞利咖啡馆
+其他西餐,Zum Hirschenwirt
+其他西餐,Restaurant Herzstuck Salzburg
+其他西餐,Zum fidelen Affen
+其他西餐,Barenwirt
+其他西餐,St. Peter Stiftskeller - das Restaurant
+其他西餐,Wilder Mann
+其他西餐,Restaurant zur Festung Hohensalzburg
+其他西餐,Raschhofer's
+其他西餐,Sternbrau
+其他西餐,Salzachgrill
+其他西餐,Cafe Classic
+其他西餐,Guerilla Burger
+其他西餐,Jazzit:Bar
+其他西餐,Cafe Uni: Versum
+其他西餐,Resch & Lieblich
+其他西餐,restaurant Marchhart's
+其他西餐,Cantina Levante
+其他西餐,Purzelbaum
+其他西餐,Gasthaus Zwettler's Stiftskeller
+其他西餐,SCHATZ KONDITOREI Salzburg
+其他西餐,Itzlingerhof
+其他西餐,Cafe Bazar
+其他西餐,Festungsrestaurant
+其他西餐,Die Gersberg-Alm
+其他西餐,Weiserhof
+其他西餐,Gasthof/Gasthaus Alter Fuchs
+其他西餐,Restaurant from Hotel Goldene Ente
+其他西餐,S'Kloane Brauhaus
+其他西餐,magazin restaurant bar
+其他西餐,Schloss Aigen
+其他西餐,Paul Stube
+其他西餐,Franziskischloessl
+其他西餐,Auerhahn
+其他西餐,Zum Guten Hirten
+其他西餐,Triangel
+其他西餐,Fingerlos
+其他西餐,Niemetz
+其他西餐,Kaffeehäferl Salzburg
+其他西餐,Mercure Salzburg City 
+其他西餐,K+K Restaurants am Waagplatz
+其他西餐,Alter Fuchs
+其他西餐,Stieglbrau
+其他西餐,Stazione Cafe Bar
+其他西餐,Restaurant Elefant
+其他西餐,Die Weisse
+其他西餐,monchsberg 32
+其他西餐,Gasthaus Stadtalm Cafe
+其他西餐,Flavour Weinbar Restaurant
+其他西餐,Shrimps Bar & Restaurant
+其他西餐,Restaurant & Bar Stadtwirt
+其他西餐,Urbankeller
+其他西餐,Die Geheime Specerey
+其他西餐,Blaue Gans
+其他西餐,Steirische Weinstuben Weiss Christina
+其他西餐,Cafe Habakuk
+其他西餐,Refettorio
+其他西餐,Fuxn Salzburger Volkswirtschaft
+其他西餐,Pitterkeller
+其他西餐,Stieglkeller
+其他西餐,An-Bing
+其他西餐,Daily Joy Cafe Bar Bistro
+其他西餐,Pommes Boutique
+其他西餐,Gastlokal Fridrich
+其他西餐,Zirkelwirt - Maxglan
+其他西餐,Hauser-Stub'n
+其他西餐,Restaurant Atelier
+其他西餐,Ristorante Belucci
+其他西餐,Wirtshaus Schlössl
+其他西餐,SOG
+其他西餐,Nestroy im Schauspielhaus
+其他西餐,Hotel und Gasthof Hoelle
+其他西餐,Herzl
+其他西餐,Zum Eulenspiegel
+其他西餐,Yuen China Restaurant
+其他西餐,Goldene Kugel
+其他西餐,Akropolis
+其他西餐,La Stella
+其他西餐,Goldener Hirsch Gmbh
+其他西餐,St. Paul's Stub'n Beer Garden
+其他西餐,Dubliner
+其他西餐,Marc
+其他西餐,Hagenauer Stub'n
+其他西餐,Alt Salzburg
+其他西餐,BaustO
+其他西餐,Alchimiste Belge
+其他西餐,Cafe Wernbacher
+其他西餐,Leichtsinn
+其他西餐,"Hirschenwirt, Bio-Wirtshaus"
+其他西餐,Stiegl Braustuberl
+其他西餐,Restaurant Esszimmer
+其他西餐,Zur Einkehr
+其他西餐,Cafe Restaurant im Gwandhaus
+其他西餐,Augustiner Braustueberl
+其他西餐,Krimpelstatter
+其他西餐,Weiherwirt GmbH
+其他西餐,Zum Strasserwirt
+其他西餐,Gosser-Stub'n
+其他西餐,Gasthof Brandstaetter
+其他西餐,Doktorwirt
+其他西餐,Ceconi's
+其他西餐,Knodlerei
+其他西餐,Luritzhofer's CafeCult im Kunstlerhaus
+其他西餐,Bloberger Hof
+其他西餐,Reiterhof Moos
+其他西餐,Schone Aussicht
+其他西餐,Holle
+其他西餐,Zum Mohren
+其他西餐,Bastians
+其他西餐,Kaffeehaferl
+其他西餐,Maredo
+其他西餐,Carpe Diem
+其他西餐,Humboldt Stubn
+其他西餐,Braumeister
+其他西餐,Beverly
+其他西餐,Gablerbrau
+其他西餐,Hotel Bristol
+其他西餐,Stadtkrug Restaurant
+其他西餐,Bruderlein Fein
+其他西餐,Hofwirt
+其他西餐,Shakespeare
+其他西餐,Istra Enotek
+其他西餐,Wirtshaus zum Hirsche
+其他西餐,Meli & Melo
+其他西餐,Gasthaus Kuglhof
+其他西餐,Bodega Tapas Bar & Cafe
+其他西餐,Gasthof zum Noisternig
+其他西餐,Zum Buberlgut
+其他西餐,BioBurgerMeister
+其他西餐,Pfenninger Alm
+其他西餐,Riedenburg
+其他西餐,Konditorei-Cafe Wagner Martin
+其他西餐,Poseidon
+其他西餐,Kohlpeter
+其他西餐,Hubers Im Fischerwirt
+其他西餐,Hartlwirt
+其他西餐,Genussprojekt
+其他西餐,Gasthaus Gärtnerwirt Salzburg-Itzling
+其他西餐,Kirchenwirt zu Itzling
+其他西餐,Zur Kapelle
+其他西餐,Gasthof Uberfuhr
+其他西餐,Steinlechner- Jedermanns Wirtshaus
+其他西餐,Restaurant Hellbrunn
+其他西餐,Mostwastl
+其他西餐,Gasthof Reiterhof
+其他西餐,Bierheuriger
+其他西餐,Restaurant Bar Schmederer
+其他西餐,Andreas Hofer
+其他西餐,Marios Taverna
+其他西餐,Pan e Vin
+其他西餐,ARGE Beisl
+其他西餐,Mattseer Stiftskeller
+其他西餐,Altstadtheuriger im Bruderhof
+其他西餐,Papeo
+其他西餐,Restaurant Mundenhamer
+其他西餐,Drei Hasen
+其他西餐,Vita @ Posthof
+其他西餐,Restaurant La Piazza
+其他西餐,Café Pamina
+其他西餐,Cafe Mozartwinkel
+其他西餐,Cafe Stierwascher
+其他西餐,Couscous & Tajine
+其他西餐,LOKARL
+其他西餐,Gasthaus Untersberg
+其他西餐,Interspar-Restaurant
+其他西餐,Petersbrunnhof
+其他西餐,Interspar-Restaurant
+其他西餐,ROSSBRÄU
+其他西餐,Zirklewirt
+其他西餐,Mensa an der Universitat
+中餐,Lin's Garden
+中餐,China Restaurant Chinatown
+中餐,Shanghai Town
+中餐,Chinesische Mauer
+中餐,Happy Asia
+中餐,Peking
+中餐,Mandarin Chinese Restauranr
+中餐,Fu China Restaurant
+中餐,Asia Palace
+日韩料理,Fujiya
+日韩料理,Hibiskus
+日韩料理,Tokyo Bay
+日韩料理,Nagano
+日韩料理,TOKYO Japanese and Sushi Restaurant
+更多亚洲菜,Bangkok
+更多亚洲菜,my Indigo Rudolfskai
+更多亚洲菜,Vietnamesisches Restaurant LongLong
+更多亚洲菜,my Indigo Herrnau
+更多亚洲菜,My Indigo
+更多亚洲菜,Pho 18
+更多亚洲菜,Spicy Spices
+更多亚洲菜,Asia Kitchen
+更多亚洲菜,Saran Essbar
+更多亚洲菜,The Fox Bistro
+更多亚洲菜,Tajmahal
+更多亚洲菜,Pan Asia
+更多亚洲菜,Indigo
+更多亚洲菜,Kathmandu Restaurant and Bar
+更多亚洲菜,HUY Cook and Eat
+更多亚洲菜,Hanas Rasoi
+更多亚洲菜,Maharaja
+快餐简餐,Daimler's Bar & Grill
+快餐简餐,Restaurant Zoos
+快餐简餐,McDonald's
+快餐简餐,Lemonchilli
+快餐简餐,Burger King
+海鲜,Pescheria Backi
+烧烤,Balkan Grill Walter
+烧烤,Mosty Grill
+比萨,Ristorante Pizzeria Beccofino
+比萨,Schnaitl Pub
+比萨,Da Ciro
+比萨,Pizzamann
+比萨,Pizza City
+咖啡厅,托马塞利咖啡馆
+咖啡厅,Cafe-Konditorei Fürst(萨尔斯堡一店)
+咖啡厅,Cup&Cino
+咖啡厅,the heart of joy cafe
+咖啡厅,Cafe Wurfelzucker
+咖啡厅,Kaffee-Alchemie
+咖啡厅,Cafe Sacher
+咖啡厅,Cafe Mozart
+咖啡厅,"Diva - Cupcakes, Coffee & Shop"
+咖啡厅,We Love Coffee Mozartsteg
+咖啡厅,Stadtcafe
+咖啡厅,Cafe am Kai
+咖啡厅,Cafe Wiesenhof
+咖啡厅,Cafe Haindl
+咖啡厅,Café Pamina
+咖啡厅,Cafe Getreidegasse
+咖啡厅,Republic
+咖啡厅,Lackner's Cafe-Bistro
+咖啡厅,Piazza Pizzeria Cafe - Restaurant
+咖啡厅,Cafe-Konditorei Fürst(萨尔斯堡二店)
+面包甜点,Eisgrotte
+面包甜点,Rialto
+面包甜点,Der 1. Original Brezlstand in Salzburg
+面包甜点,Balthazar Cafe and Sandwich Bar
+面包甜点,Cafe Konditorei Fuerst
+面包甜点,220 GRAD
+酒吧,Zipfer Bierhaus
+酒吧,Monkeys Cafe.Bar
+酒吧,Bistro Sheraton Salzburg
+酒吧,Murphy's Law Irish Pub
+酒吧,Fridrich
+酒吧,Salzburger Altstadtkeller
+酒吧,Cafe/ Bar Gluxfall Salzburg
+酒吧,Rossbrau Herrnau
+酒吧,Republik Bar
+酒吧,Stagebar salzburg
+酒吧,Saitensprung
+更多美食,Scio's Specereyen
+更多美食,Ambiente
+更多美食,Cappomio Kaigasse
+更多美食,Backerei Holztrattner
+更多美食,Da Noi
+更多美食,Mozarts Espresso Gourmet
+更多美食,The Green Garden
+更多美食,Bar Mayday - Red Bull Hangar-7
+更多美食,Wastlwirt
+更多美食,Hinterbruhl
+更多美食,Restaurant Schloss Monchstein
+更多美食,COCO- Genuss nach Sri Lanka Art
+更多美食,World of Asia
+更多美食,"Burgschenke, Burgsaal"
+更多美食,Becher Kuchle
+更多美食,Koechelverzeichnis
+更多美食,Paris Lodron
+更多美食,Stary's Genusswelt
+更多美食,Cafe Konditorei Melanie
+更多美食,Restaurant Acapulco
+更多美食,Pomodoro
+更多美食,Restaurant Mercure Salzburg Kapuzinerberg
+更多美食,Austria Trend Hotel Europa Salzburg
+更多美食,Steinterrasse
+更多美食,da Pippo
+更多美食,Restaurant Mirabell
+更多美食,Picnic Musikcafe Bistro
+更多美食,Afro Cafe
+更多美食,Maier's Gastro
+更多美食,Salzburg
+更多美食,Kushi Hachi
+更多美食,Brandtners Mithridat
+更多美食,Cafe Matteo
+更多美食,Gasthaus Pflegerbrucke
+更多美食,Herbert
+更多美食,Il Sole
+更多美食,Spaghetti & Co
+更多美食,Casablanca
+更多美食,Ossi Spezialitaten
+更多美食,Mangoes
+更多美食,Cup n Cino
+更多美食,Imlauer
+更多美食,Pizza Pronto Salzburg
+更多美食,Wiener Cafe & Restaurant Johann
+更多美食,Zum 3 Genuss
+更多美食,Boomerang Pub
+更多美食,Badas Buffet
+更多美食,Airest Restaurant Globetrotter
+更多美食,Nox
+更多美食,restaurant winter.garten
+更多美食,Rossbrau Gastronomie
+更多美食,Wartenberg am Jakobsweg
+更多美食,Pizzeria Emporio
+更多美食,Das Parasol
+更多美食,Pier 17
+更多美食,Zum Lowenstern Restaurant
+更多美食,Uncle Van
+更多美食,Icezeit
+更多美食,Bar Roque
+更多美食,Prosecco
+更多美食,Casino Restaurant
+更多美食,Osteria Cavalli
+更多美食,Osteria da Ciccio
+更多美食,Restaurant Salieri
+更多美食,Pliemgut
+更多美食,Schachlwirt
+更多美食,Felsenkeller
+更多美食,Symphonie Restaurant
+更多美食,Fasties
+更多美食,Weinstockl
+更多美食,Steakhouse Obertrum
+更多美食,Ashoka
+更多美食,Donna's Thaikuche Thai Imbiss Salzburg

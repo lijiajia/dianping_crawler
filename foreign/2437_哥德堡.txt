@@ -1,0 +1,118 @@
+意大利菜,Pasta Plus,Pasta Plus,0,,0.0,0.0,0.0
+意大利菜,Bistro Italiano,Bistro Italiano,0,,0.0,0.0,0.0
+意大利菜,Bar Centro,Bar Centro,0,,0.0,0.0,0.0
+意大利菜,bar italia,bar italia,0,,0.0,0.0,0.0
+意大利菜,Enoteca Maglia,Enoteca Maglia,0,,0.0,0.0,0.0
+意大利菜,Salt and Peppar,Salt and Peppar,0,,0.0,0.0,0.0
+法国菜,Magnus & Magnus,Magnus & Magnus,0,,7.7,7.7,7.7
+法国菜,Beerista,Beerista,0,,0.0,0.0,0.0
+法国菜,Restaurang 3an,Restaurang 3an,0,,0.0,0.0,0.0
+其他西餐,Magnus & Magnus,Magnus & Magnus,0,,7.7,7.7,7.7
+其他西餐,Slimfood,Slimfood,0,,0.0,0.0,0.0
+其他西餐,vRÅ,vRÅ,0,,0.0,0.0,0.0
+其他西餐,Linnea Art Restaurant,Linnea Art Restaurant,0,,0.0,0.0,0.0
+其他西餐,Koka,Koka,0,,0.0,0.0,0.0
+其他西餐,Cafe Porterpelle,Cafe Porterpelle,0,,0.0,0.0,0.0
+其他西餐,Seglarkrogen,Seglarkrogen,0,,0.0,0.0,0.0
+其他西餐,Restaurang 3an,Restaurang 3an,0,,0.0,0.0,0.0
+其他西餐,Lisebergs Wardshus,Lisebergs Wardshus,0,其他,0.0,0.0,0.0
+其他西餐,"Simba, Restaurang","Simba, Restaurang",0,,0.0,0.0,0.0
+其他西餐,Butchers Market,Butchers Market,0,,0.0,0.0,0.0
+其他西餐,Hamnkrogen Liseberg,Hamnkrogen Liseberg,0,其他,0.0,0.0,0.0
+其他西餐,Pomodoro,Pomodoro,0,,0.0,0.0,0.0
+其他西餐,Gulhedens Vattentorn I Goteborg,Gulhedens Vattentorn I Goteborg,0,,0.0,0.0,0.0
+其他西餐,Göteborgsoperans Sommarveranda,Göteborgsoperans Sommarveranda,0,,0.0,0.0,0.0
+其他西餐,Herkules Pizza & Resturang,Herkules Pizza & Resturang,0,,0.0,0.0,0.0
+其他西餐,Café Bommen,Café Bommen,0,,0.0,0.0,0.0
+其他西餐,Sybilla,Sybilla,0,,0.0,0.0,0.0
+其他西餐,Gamla Ullevi Restaurang och Konferens,Gamla Ullevi Restaurang och Konferens,0,,0.0,0.0,0.0
+其他西餐,Sjoboren,Sjoboren,0,,0.0,0.0,0.0
+其他西餐,Plaka,Plaka,0,,0.0,0.0,0.0
+中餐,Tien Tsin,Tien Tsin,0,,7.0,7.0,7.4
+中餐,Malaysia Sate Restaurant,Malaysia Sate Restaurant,0,,7.2,6.9,7.7
+中餐,Lai Wa,Lai Wa,0,,7.7,7.7,7.7
+中餐,Sun Wall,Sun Wall,0,,7.7,7.2,7.7
+日韩料理,Super Rullband,Super Rullband,0,,7.7,7.2,7.0
+日韩料理,Slimfood,Slimfood,0,,0.0,0.0,0.0
+日韩料理,vRÅ,vRÅ,0,,0.0,0.0,0.0
+日韩料理,Zozaki,Zozaki,0,,0.0,0.0,0.0
+日韩料理,Restaurant Yammy Kitchen,Restaurant Yammy Kitchen,0,,0.0,0.0,0.0
+日韩料理,Le Croissant,Le Croissant,0,其他,0.0,0.0,0.0
+日韩料理,Wasabi Sushibar,Wasabi Sushibar,0,,0.0,0.0,0.0
+日韩料理,Sushi Fu,Sushi Fu,0,,0.0,0.0,0.0
+更多亚洲菜,Malaysia Sate Restaurant,Malaysia Sate Restaurant,0,,7.2,6.9,7.7
+更多亚洲菜,Göteborg Wok,Göteborg Wok,0,,7.4,7.7,7.7
+更多亚洲菜,Mother India,Mother India,0,,0.0,0.0,0.0
+更多亚洲菜,Himalaya,Himalaya,0,,0.0,0.0,0.0
+更多亚洲菜,Ottomania,Ottomania,0,,0.0,0.0,0.0
+更多亚洲菜,Lai Thai,Lai Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Torg Krogen,Torg Krogen,0,其他,0.0,0.0,0.0
+更多亚洲菜,Indiska Hornet,Indiska Hornet,0,,0.0,0.0,0.0
+更多亚洲菜,Targaz,Targaz,0,,0.0,0.0,0.0
+更多亚洲菜,New Delhi,New Delhi,0,,0.0,0.0,0.0
+更多亚洲菜,Restaurang Thai Garden,Restaurang Thai Garden,0,,0.0,0.0,0.0
+快餐简餐,瑞华餐厅,瑞华餐厅,0,,6.8,6.8,7.3
+快餐简餐,Gourmetkorv,Gourmetkorv,0,,0.0,0.0,0.0
+海鲜,Fiskekrogen,Fiskekrogen,0,,0.0,0.0,0.0
+海鲜,Gabriel Fisk- & Skaldjursbar,Gabriel Fisk- & Skaldjursbar,0,,0.0,0.0,0.0
+海鲜,River Cafe,River Cafe,0,,0.0,0.0,0.0
+海鲜,Restaurang Rakan,Restaurang Rakan,0,,0.0,0.0,0.0
+比萨,Utby Pizzeria,Utby Pizzeria,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Centro,Bar Centro,0,,0.0,0.0,0.0
+咖啡厅,Cafe Konditori Kringlan,Cafe Konditori Kringlan,0,,0.0,0.0,0.0
+咖啡厅,bar italia,bar italia,0,,0.0,0.0,0.0
+咖啡厅,Le Petit Cafe,Le Petit Cafe,0,,0.0,0.0,0.0
+咖啡厅,Pustervik,Pustervik,0,,0.0,0.0,0.0
+咖啡厅,Pour Bon,Pour Bon,0,,0.0,0.0,0.0
+咖啡厅,Brogyllen Klassiskt,Brogyllen Klassiskt,0,,0.0,0.0,0.0
+酒吧,The Bishop's Arm,The Bishop's Arm,0,,0.0,0.0,0.0
+酒吧,Brasserie Lipp,Brasserie Lipp,0,,0.0,0.0,0.0
+更多美食,Feskekorka / Fiskekyrkan,Feskekorka / Fiskekyrkan,0,,7.5,7.5,7.5
+更多美食,Heaven 23,Heaven 23,0,,7.7,7.7,7.7
+更多美食,Swedish Taste,Swedish Taste,0,,7.2,7.2,7.2
+更多美食,Espresso House,Espresso House,0,,7.2,7.7,7.7
+更多美食,En Deli Haga,En Deli Haga,0,,0.0,0.0,0.0
+更多美食,Murveln,Murveln,0,,0.0,0.0,0.0
+更多美食,SK Mat & Manniskor,SK Mat & Manniskor,0,,0.0,0.0,0.0
+更多美食,Riverton View,Riverton View,0,,0.0,0.0,0.0
+更多美食,Ma Cuisine,Ma Cuisine,0,,0.0,0.0,0.0
+更多美食,Bhoga restaurang,Bhoga restaurang,0,,0.0,0.0,0.0
+更多美食,Smaka,Smaka,0,,0.0,0.0,0.0
+更多美食,Restaurang Solrosen,Restaurang Solrosen,0,,0.0,0.0,0.0
+更多美食,Palace Brunnsparken,Palace Brunnsparken,0,,0.0,0.0,0.0
+更多美食,G Mat & Vin,G Mat & Vin,0,,0.0,0.0,0.0
+更多美食,"Espresso House, Nordstan","Espresso House, Nordstan",0,,0.0,0.0,0.0
+更多美食,GA Paletten,GA Paletten,0,其他,0.0,0.0,0.0
+更多美食,Ribs BBQ Smokehouse,Ribs BBQ Smokehouse,0,,0.0,0.0,0.0
+更多美食,Gothia Towers Restauranger,Gothia Towers Restauranger,0,其他,0.0,0.0,0.0
+更多美食,Gyllene Prag AB,Gyllene Prag AB,0,,0.0,0.0,0.0
+更多美食,Hemma hos i Haga,Hemma hos i Haga,0,,0.0,0.0,0.0
+更多美食,SoHo,SoHo,0,,0.0,0.0,0.0
+更多美食,The Golden Days,The Golden Days,0,,0.0,0.0,0.0
+更多美食,"Danilo Restaurang, Bar & Cafe","Danilo Restaurang, Bar & Cafe",0,,0.0,0.0,0.0
+更多美食,Hunnebo Fisk & Delikatesser,Hunnebo Fisk & Delikatesser,0,其他,0.0,0.0,0.0
+更多美食,Deli Verket Kok & Bar,Deli Verket Kok & Bar,0,其他,0.0,0.0,0.0
+更多美食,LATTERIA Kaffesalong,LATTERIA Kaffesalong,0,,0.0,0.0,0.0
+更多美食,La Tabla,La Tabla,0,,0.0,0.0,0.0
+更多美食,Cupcake Time,Cupcake Time,0,,0.0,0.0,0.0
+更多美食,Havet I Saluhall Briggen,Havet I Saluhall Briggen,0,,0.0,0.0,0.0
+更多美食,Matbar Spisa,Matbar Spisa,0,,0.0,0.0,0.0
+更多美食,Haket Bar,Haket Bar,0,,0.0,0.0,0.0
+更多美食,Soulstore Coffee & Moments,Soulstore Coffee & Moments,0,,0.0,0.0,0.0
+更多美食,Lagerhuset,Lagerhuset,0,,0.0,0.0,0.0
+更多美食,Sushi och Sund,Sushi och Sund,0,,0.0,0.0,0.0
+更多美食,Barken Viking,Barken Viking,0,,0.0,0.0,0.0
+更多美食,Hing Wa Restaurang,Hing Wa Restaurang,0,其他,0.0,0.0,0.0
+更多美食,Brygghuset,Brygghuset,0,,0.0,0.0,0.0
+更多美食,Fair Play,Fair Play,0,,0.0,0.0,0.0
+更多美食,Viktors Kaffe,Viktors Kaffe,0,,0.0,0.0,0.0
+更多美食,Govindas,Govindas,0,,0.0,0.0,0.0
+更多美食,The Rose & Crown,The Rose & Crown,0,,0.0,0.0,0.0
+更多美食,Restaurang Runegard & Hvit,Restaurang Runegard & Hvit,0,,0.0,0.0,0.0
+更多美食,Ada,Ada,0,,0.0,0.0,0.0
+更多美食,Eggers Restaurang & Bar,Eggers Restaurang & Bar,0,,0.0,0.0,0.0
+更多美食,"Ebeling Restaurang AB, Dieter","Ebeling Restaurang AB, Dieter",0,,0.0,0.0,0.0
+更多美食,La Cucaracha Linne,La Cucaracha Linne,0,,0.0,0.0,0.0
+更多美食,Jensens Bofhus,Jensens Bofhus,0,,0.0,0.0,0.0
+更多美食,Dalheimers Hus,Dalheimers Hus,0,,0.0,0.0,0.0
+更多美食,Ching Palace,Ching Palace,0,,0.0,0.0,0.0

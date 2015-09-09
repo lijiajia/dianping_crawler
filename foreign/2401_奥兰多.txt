@@ -1,0 +1,1034 @@
+咖啡厅,STARBUCKS COFFEE,STARBUCKS COFFEE,0,,7.0,7.0,7.0
+咖啡厅,Infusion Tea,Infusion Tea,0,奥兰多其他,0.0,0.0,0.0
+咖啡厅,The Writer's Stop,The Writer's Stop,0,奥兰多其他,0.0,0.0,0.0
+咖啡厅,Boulangerie,Boulangerie,0,奥兰多其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,奥兰多其他,0.0,0.0,0.0
+咖啡厅,Emack & Bolio's,Emack & Bolio's,0,奥兰多其他,0.0,0.0,0.0
+咖啡厅,IHOP,IHOP,0,奥兰多其他,0.0,0.0,0.0
+咖啡厅,Florida Hospital Cafeteria,Florida Hospital Cafeteria,0,奥兰多其他,0.0,0.0,0.0
+咖啡厅,Drunken Monkey Coffee Bar,Drunken Monkey Coffee Bar,0,奥兰多其他,0.0,0.0,0.0
+咖啡厅,Paradise Island Cafe,Paradise Island Cafe,0,奥兰多其他,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee,Starbucks Coffee,0,奥兰多其他,0.0,0.0,0.0
+咖啡厅,Barnes & Noble,Barnes & Noble,0,,0.0,0.0,0.0
+咖啡厅,Achilles Art Cafe,Achilles Art Cafe,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Vinito Ristorante at Prime Outlets,Vinito Ristorante at Prime Outlets,0,奥兰多其他,6.9,6.9,6.9
+意大利菜,il mulino,il mulino,0,,0.0,0.0,0.0
+意大利菜,Mama Della's,Mama Della's,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Big Italy - Pizza & Pasta,Big Italy - Pizza & Pasta,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Mama Melrose's Ristorante Italiano,Mama Melrose's Ristorante Italiano,0,,0.0,0.0,0.0
+意大利菜,Vinito Tuscan Tavern,Vinito Tuscan Tavern,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,CiCi's Pizza,CiCi's Pizza,0,,0.0,0.0,0.0
+意大利菜,"gargi,s lakeside Italian ristorante","gargi,s lakeside Italian ristorante",0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Adriatico Trattoria Italiana,Adriatico Trattoria Italiana,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Il Pescatore,Il Pescatore,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Cafe Trastevere,Cafe Trastevere,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Louie & Maria's Italian Restaurant,Louie & Maria's Italian Restaurant,0,,0.0,0.0,0.0
+意大利菜,Romano's Macaroni Grill,Romano's Macaroni Grill,0,,0.0,0.0,0.0
+意大利菜,Olive Garden,Olive Garden,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,The Olive Garden - Apopka-Vineland Road,The Olive Garden - Apopka-Vineland Road,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Carrabba's Italian Grill,Carrabba's Italian Grill,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Bice Ristorante,Bice Ristorante,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Brio Tuscan Grille,Brio Tuscan Grille,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Trattoria del Porto (SM),Trattoria del Porto (SM),0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Italian Beefstro,Italian Beefstro,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,La Bella Luna,La Bella Luna,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,NYPD Pizza,NYPD Pizza,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Anthony's Thornton Park Pizzeria & Restaurant,Anthony's Thornton Park Pizzeria & Restaurant,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Sopranos Pizza,Sopranos Pizza,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Tony's Town Square Restaurant,Tony's Town Square Restaurant,0,,0.0,0.0,0.0
+意大利菜,Portobello,Portobello,0,,0.0,0.0,0.0
+意大利菜,Romano's Macaroni Grill,Romano's Macaroni Grill,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Terra Cotta Pizza,Terra Cotta Pizza,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Broadway Ristorante & Pizzeria - Visitor's Circle,Broadway Ristorante & Pizzeria - Visitor's Circle,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Juliana's Fine Tuscan Cuisine,Juliana's Fine Tuscan Cuisine,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Aroma Italian Cafe and Wine Bar,Aroma Italian Cafe and Wine Bar,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Casa Sorrento,Casa Sorrento,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,King fish Grill,King fish Grill,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Wolfies Pizzamia,Wolfies Pizzamia,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Planet Pizza,Planet Pizza,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Gitto's Pizza Pasta & Pub,Gitto's Pizza Pasta & Pub,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Angelo's La Villa,Angelo's La Villa,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Lido's Italian Restaurant,Lido's Italian Restaurant,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Broadway Ristorante & Pizzeria - Woolco Way,Broadway Ristorante & Pizzeria - Woolco Way,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Caffe Positanos,Caffe Positanos,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Chuck E. Cheese's,Chuck E. Cheese's,0,,0.0,0.0,0.0
+意大利菜,Pastamore,Pastamore,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Classic Monsters Cafe,Classic Monsters Cafe,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Loews portofino bay restaurant,Loews portofino bay restaurant,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Broadway Ristorante & Pizzeria - S Semoran Blvd,Broadway Ristorante & Pizzeria - S Semoran Blvd,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Cafe Murano,Cafe Murano,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Massimo Trattoria,Massimo Trattoria,0,,0.0,0.0,0.0
+意大利菜,Sbarro,Sbarro,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Pannulos,Pannulos,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Nick's Italian Kitchen,Nick's Italian Kitchen,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Wilfredos Italian Restaurant,Wilfredos Italian Restaurant,0,奥兰多其他,0.0,0.0,0.0
+意大利菜,Broadway Ristorante & Pizzaria,Broadway Ristorante & Pizzaria,0,,0.0,0.0,0.0
+意大利菜,Sbarro,Sbarro,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Corona Cigar Company & Diamond Crown Cigar,Corona Cigar Company & Diamond Crown Cigar,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Cowboys Orlando,Cowboys Orlando,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Rising Star,Rising Star,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Redlight Redlight,Redlight Redlight,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Shipyard Brew Pub,Shipyard Brew Pub,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Iza Tapas Bar,Iza Tapas Bar,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Howl at the Moon,Howl at the Moon,0,,0.0,0.0,0.0
+酒吧,Murphy's Arms Pub,Murphy's Arms Pub,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Miller's Ale House Restaurants,Miller's Ale House Restaurants,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Bob Marley--A Tribute to Freedom,Bob Marley--A Tribute to Freedom,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Universal CityWalk,Universal CityWalk,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Funky Monkey Wine Company,Funky Monkey Wine Company,0,奥兰多其他,0.0,0.0,0.0
+酒吧,The Venue,The Venue,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Pat O'Brien's Orlando,Pat O'Brien's Orlando,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Latin Quarter,Latin Quarter,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Baby Grands Dueling Pianos,Baby Grands Dueling Pianos,0,奥兰多其他,0.0,0.0,0.0
+酒吧,The Hammered Lamb,The Hammered Lamb,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Parliament House,Parliament House,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Fuego by Sosa Cigars,Fuego by Sosa Cigars,0,,0.0,0.0,0.0
+酒吧,Malabar,Malabar,0,奥兰多其他,0.0,0.0,0.0
+酒吧,The Woods,The Woods,0,,0.0,0.0,0.0
+酒吧,Bliss Ultra Lounge,Bliss Ultra Lounge,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Southern Nights,Southern Nights,0,奥兰多其他,0.0,0.0,0.0
+酒吧,Wing Shack,Wing Shack,0,奥兰多其他,0.0,0.0,0.0
+法国菜,Cafe D'Antonio,Cafe D'Antonio,0,,7.1,7.0,7.0
+法国菜,Golden China ResTaurAnt,Golden China ResTaurAnt,0,,7.3,7.3,7.3
+法国菜,Benjamin French Bakery Cafe,Benjamin French Bakery Cafe,0,奥兰多其他,0.0,0.0,0.0
+法国菜,Lac Viet Bistro,Lac Viet Bistro,0,奥兰多其他,0.0,0.0,0.0
+法国菜,Le Coq Au Vin,Le Coq Au Vin,0,,0.0,0.0,0.0
+法国菜,french bistro,french bistro,0,,0.0,0.0,0.0
+法国菜,Les Petits Pleasures,Les Petits Pleasures,0,奥兰多其他,0.0,0.0,0.0
+法国菜,Absinthe Bistro and Bar,Absinthe Bistro and Bar,0,奥兰多其他,0.0,0.0,0.0
+法国菜,Qarma Crepes,Qarma Crepes,0,奥兰多其他,0.0,0.0,0.0
+法国菜,Bistro Sensations,Bistro Sensations,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Del Taco,Del Taco,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Chipotle,Chipotle,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Baja Burrito Kitchen,Baja Burrito Kitchen,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,La Cava Del Tequila,La Cava Del Tequila,0,,0.0,0.0,0.0
+墨西哥菜,El Patron Mexican Restaurant & Cantina,El Patron Mexican Restaurant & Cantina,0,,0.0,0.0,0.0
+墨西哥菜,Agave Azul,Agave Azul,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Azteca D'Oro,Azteca D'Oro,0,,0.0,0.0,0.0
+墨西哥菜,Tijuana Flats,Tijuana Flats,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Rocco's Tacos and Tequila Bar,Rocco's Tacos and Tequila Bar,0,,0.0,0.0,0.0
+墨西哥菜,Chipotle Mexican Grill,Chipotle Mexican Grill,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Tijuana Flats,Tijuana Flats,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Lindo Mexico,Lindo Mexico,0,,0.0,0.0,0.0
+墨西哥菜,Moe's Southwest Grill,Moe's Southwest Grill,0,,0.0,0.0,0.0
+墨西哥菜,Colibri Mexican Cuisine,Colibri Mexican Cuisine,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Garibaldi Mexican Restaurant,Garibaldi Mexican Restaurant,0,,0.0,0.0,0.0
+墨西哥菜,Chipotle Mexican Grill,Chipotle Mexican Grill,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Tortuga Tavern,Tortuga Tavern,0,,0.0,0.0,0.0
+墨西哥菜,Sloppy Taco Palace (STP),Sloppy Taco Palace (STP),0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Tijuana Flats,Tijuana Flats,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Tijuana Flats,Tijuana Flats,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Don Jefe's Tequila parlor,Don Jefe's Tequila parlor,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Amigo's Restaurant,Amigo's Restaurant,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Pollo D Oro,Pollo D Oro,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Wall Street Cantina,Wall Street Cantina,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Quesadilla's Mexican Grill,Quesadilla's Mexican Grill,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Tijuana Flats,Tijuana Flats,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Pancho's Mexican Food,Pancho's Mexican Food,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Tijuana Flats,Tijuana Flats,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Pancheros,Pancheros,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,El Tordellaria Restaurant,El Tordellaria Restaurant,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Ole Mole Mexican Grill,Ole Mole Mexican Grill,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Brisas Del Caribe Restaurant,Brisas Del Caribe Restaurant,0,奥兰多其他,0.0,0.0,0.0
+墨西哥菜,Tijuana Flats,Tijuana Flats,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,LongHorn,LongHorn,0,,7.5,7.9,7.9
+其他西餐,Outback Steakhouse,Outback Steakhouse,0,,8.0,8.0,8.0
+其他西餐,Little Italy Italian Restaurant,Little Italy Italian Restaurant,0,,7.0,7.0,7.0
+其他西餐,Numero UNO Restaurant,Numero UNO Restaurant,0,奥兰多其他,6.7,6.7,6.7
+其他西餐,Ceviche Tapas Bar & Restaurant,Ceviche Tapas Bar & Restaurant,0,北奥兰多,7.0,7.0,7.0
+其他西餐,The Capital Grille,The Capital Grille,0,奥兰多其他,6.7,6.7,7.4
+其他西餐,Falafel Moroccan Restaurant,Falafel Moroccan Restaurant,0,,0.0,0.0,0.0
+其他西餐,Pollos Pio Pio,Pollos Pio Pio,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Wendy's,Wendy's,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Lone Star Steakhouse & Saloon,Lone Star Steakhouse & Saloon,0,,0.0,0.0,0.0
+其他西餐,Wendy's,Wendy's,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,O'Shucks Billiards & Pub,O'Shucks Billiards & Pub,0,,0.0,0.0,0.0
+其他西餐,Texas de Brazil,Texas de Brazil,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Raglan Road,Raglan Road,0,,0.0,0.0,0.0
+其他西餐,Fleming's Prime Steakhouse & Wine Bar,Fleming's Prime Steakhouse & Wine Bar,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Mels Diner,Mels Diner,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,U.K. Fish and Chips Kiosk,U.K. Fish and Chips Kiosk,0,,0.0,0.0,0.0
+其他西餐,Lucky Leprechaun,Lucky Leprechaun,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Sonic Drive-In,Sonic Drive-In,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Five Guys,Five Guys,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Circus McGurkus Cafe Stoo-Pendous,Circus McGurkus Cafe Stoo-Pendous,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Nathans Famous,Nathans Famous,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Harp And Celt Irish Pub and Restaurant,Harp And Celt Irish Pub and Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Mediterranean Blue,Mediterranean Blue,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Citrus Club,Citrus Club,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Zaza new cuban dinner orlando fl,Zaza new cuban dinner orlando fl,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Santiago's Bodega,Santiago's Bodega,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Kres Restaurant,Kres Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Ceviche Tapas Bar and Restaurant,Ceviche Tapas Bar and Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Amazonas Latin Grill,Amazonas Latin Grill,0,,0.0,0.0,0.0
+其他西餐,Pie-Fection,Pie-Fection,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Latin Quarter at Universal Citywalk,Latin Quarter at Universal Citywalk,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,World Cafe,World Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Cafe Mineiro,Cafe Mineiro,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Outback Steakhouse,Outback Steakhouse,0,,0.0,0.0,0.0
+其他西餐,Zorbas Greek Taverna,Zorbas Greek Taverna,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,407 Cafe,407 Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Pollo Tropical,Pollo Tropical,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,LongHorn Steakhouse,LongHorn Steakhouse,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Junior Colombian Burger,Junior Colombian Burger,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Avila Town Latin Grill,Avila Town Latin Grill,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Giraffas,Giraffas,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Boi Brazil Churrascaria,Boi Brazil Churrascaria,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Camila's Restaurant,Camila's Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Outback Steakhouse,Outback Steakhouse,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Santos Restaurant,Santos Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Arepas El Cacao,Arepas El Cacao,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Fuddruckers,Fuddruckers,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Applebee's,Applebee's,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Long Horn Steakhouse,Long Horn Steakhouse,0,,0.0,0.0,0.0
+其他西餐,Latin Square Cuisine,Latin Square Cuisine,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Lucy Bleuz Cafe,Lucy Bleuz Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Cafe Madrid,Cafe Madrid,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Claddagh Cottage Irish Pub,Claddagh Cottage Irish Pub,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Schumann’s Jäger Haus,Schumann’s Jäger Haus,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Checker's,Checker's,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Cypriana,Cypriana,0,,0.0,0.0,0.0
+其他西餐,"100 Montaditos Orlando, Fl","100 Montaditos Orlando, Fl",0,,0.0,0.0,0.0
+其他西餐,Arby's,Arby's,0,,0.0,0.0,0.0
+其他西餐,The Pita Pit,The Pita Pit,0,,0.0,0.0,0.0
+其他西餐,The Knife,The Knife,0,,0.0,0.0,0.0
+其他西餐,Outback Steakhouse,Outback Steakhouse,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Pasha Taverna and Lounge,Pasha Taverna and Lounge,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,"IKEA Restaurant, Bistro & Swedish Food Market","IKEA Restaurant, Bistro & Swedish Food Market",0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Ponderosa Steakhouse,Ponderosa Steakhouse,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Chili's,Chili's,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Mel's Drive-In,Mel's Drive-In,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,OH Que Bueno Restaurant,OH Que Bueno Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Delicia Brazilian Grill,Delicia Brazilian Grill,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Boibrazil Express,Boibrazil Express,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Jack's Steak House,Jack's Steak House,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Dabeni's Latin Restaurant & Bakery,Dabeni's Latin Restaurant & Bakery,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Crazy Pollo Latin Grill,Crazy Pollo Latin Grill,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Graffiti Junktion 2,Graffiti Junktion 2,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Whitewood meditteranean Grill,Whitewood meditteranean Grill,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Harry Buffalo,Harry Buffalo,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,TAPS Restaurant Bar & Lounge,TAPS Restaurant Bar & Lounge,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Finnhenry's,Finnhenry's,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Cafe Caobana,Cafe Caobana,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Marble Slab Creamery,Marble Slab Creamery,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Taste,Taste,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Caribbean One Stop,Caribbean One Stop,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Cindy's Tropical Cafe,Cindy's Tropical Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Cafe Annie,Cafe Annie,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Celebrity Delly,Celebrity Delly,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Chuck's Restaurant II,Chuck's Restaurant II,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,TropiGrill - S Semoran Blvd,TropiGrill - S Semoran Blvd,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,O'Stromboli,O'Stromboli,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Havana's Cafe #2,Havana's Cafe #2,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Orlando George and Dragon,Orlando George and Dragon,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Montego Bay Bakery & Restaurant,Montego Bay Bakery & Restaurant,0,,0.0,0.0,0.0
+其他西餐,Adam's Philly Steaks and Gyros,Adam's Philly Steaks and Gyros,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Habibi Lebanese Semoran,Habibi Lebanese Semoran,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Bistro 436,Bistro 436,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Netto's Cafe,Netto's Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,El Bohio Restaurant,El Bohio Restaurant,0,,0.0,0.0,0.0
+其他西餐,Churrascaria,Churrascaria,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Fruit 'n Smoothie Sensations,Fruit 'n Smoothie Sensations,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Bahamas Caribbean Grill & Grocery,Bahamas Caribbean Grill & Grocery,0,,0.0,0.0,0.0
+其他西餐,Poi poi family restaurant orlando fl,Poi poi family restaurant orlando fl,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Choo Choo Churros,Choo Choo Churros,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Delicacies Bakery & Restaurant,Delicacies Bakery & Restaurant,0,,0.0,0.0,0.0
+其他西餐,Broomstick Breakfast,Broomstick Breakfast,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Paddy Murphy's Irish Pub,Paddy Murphy's Irish Pub,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Vega's Cafe,Vega's Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Cafe De Colombia,Cafe De Colombia,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Arepas & More Cafe,Arepas & More Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,The British Shoppee,The British Shoppee,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,El-Junqueno,El-Junqueno,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Pancho's,Pancho's,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Cookes of Dublin,Cookes of Dublin,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Gasparilla Island Grill,Gasparilla Island Grill,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Nelore Churrascaria,Nelore Churrascaria,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,奥兰多其他,0.0,0.0,0.0
+其他西餐,Outback Steakhouse,Outback Steakhouse,0,奥兰多其他,0.0,0.0,0.0
+中餐,明轩,明轩,0,,6.3,8.5,6.3
+中餐,Ming Court Wok & Grille,Ming Court Wok & Grille,0,,8.0,8.5,8.5
+中餐,NY China Buffet,NY China Buffet,0,,7.4,6.7,8.3
+中餐,Chuan Lu Garden,Chuan Lu Garden,0,奥兰多其他,7.2,6.9,7.0
+中餐,dim sum Chinese buffet,dim sum Chinese buffet,0,奥兰多其他,0.0,0.0,0.0
+中餐,Run N Run,Run N Run,0,,0.0,0.0,0.0
+中餐,Panda Express,Panda Express,0,奥兰多其他,0.0,0.0,0.0
+中餐,Panda Express,Panda Express,0,,0.0,0.0,0.0
+中餐,Noodles and Rice Cafe,Noodles and Rice Cafe,0,奥兰多其他,0.0,0.0,0.0
+中餐,China Jade Mongolian Grill - International Drive,China Jade Mongolian Grill - International Drive,0,,0.0,0.0,0.0
+中餐,Panda Express,Panda Express,0,奥兰多其他,0.0,0.0,0.0
+中餐,Trey Yuen Restaurant,Trey Yuen Restaurant,0,奥兰多其他,0.0,0.0,0.0
+中餐,Chan's Chinese Cuisine,Chan's Chinese Cuisine,0,奥兰多其他,0.0,0.0,0.0
+中餐,Lam's Garden,Lam's Garden,0,奥兰多其他,0.0,0.0,0.0
+中餐,Lai Lai Chinese Cuisine/Sushi,Lai Lai Chinese Cuisine/Sushi,0,,0.0,0.0,0.0
+中餐,May Sum Chinese Restaurant,May Sum Chinese Restaurant,0,奥兰多其他,0.0,0.0,0.0
+中餐,Ming Bistro,Ming Bistro,0,奥兰多其他,0.0,0.0,0.0
+中餐,tasty wok,tasty wok,0,奥兰多其他,0.0,0.0,0.0
+中餐,China Grille,China Grille,0,奥兰多其他,0.0,0.0,0.0
+中餐,Garden Cafe Restaurant,Garden Cafe Restaurant,0,奥兰多其他,0.0,0.0,0.0
+中餐,Express China Lee,Express China Lee,0,奥兰多其他,0.0,0.0,0.0
+中餐,Manchu Wok,Manchu Wok,0,奥兰多其他,0.0,0.0,0.0
+中餐,China in College Park,China in College Park,0,奥兰多其他,0.0,0.0,0.0
+中餐,Empire Szechuan,Empire Szechuan,0,奥兰多其他,0.0,0.0,0.0
+中餐,China Jade Mongolian Grill - Herndon Avenue,China Jade Mongolian Grill - Herndon Avenue,0,奥兰多其他,0.0,0.0,0.0
+中餐,China Star,China Star,0,,0.0,0.0,0.0
+中餐,Joy Luck Buffet,Joy Luck Buffet,0,,0.0,0.0,0.0
+中餐,New China Buffet,New China Buffet,0,奥兰多其他,0.0,0.0,0.0
+中餐,Cheng's Chinese Restaurant,Cheng's Chinese Restaurant,0,奥兰多其他,0.0,0.0,0.0
+中餐,Magic Wok,Magic Wok,0,奥兰多其他,0.0,0.0,0.0
+中餐,Noodles and Rice Mini Hot Pot,Noodles and Rice Mini Hot Pot,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Hanamizuki,Hanamizuki,0,,7.4,7.4,7.4
+日韩料理,Asian Harbour Grill & Sushi Bar,Asian Harbour Grill & Sushi Bar,0,,6.8,7.8,7.8
+日韩料理,Kobe Japanese Steakhouse & Sushi Bar,Kobe Japanese Steakhouse & Sushi Bar,0,,6.9,6.9,6.9
+日韩料理,Japan Food Aki Restaurant,Japan Food Aki Restaurant,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Benihana,Benihana,0,,0.0,0.0,0.0
+日韩料理,Shogun Japanese Steakhouse,Shogun Japanese Steakhouse,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Kobe Japanese Steakhouse & Sushi Bar,Kobe Japanese Steakhouse & Sushi Bar,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Sushiology,Sushiology,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Amura Japanese Restaurant,Amura Japanese Restaurant,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Dragonfly,Dragonfly,0,,0.0,0.0,0.0
+日韩料理,Kobe Japanese Steakhouse & Sushi Bar,Kobe Japanese Steakhouse & Sushi Bar,0,,0.0,0.0,0.0
+日韩料理,Sushi EN,Sushi EN,0,,0.0,0.0,0.0
+日韩料理,Shin Japanese Cuisine,Shin Japanese Cuisine,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Kabooki Sushi,Kabooki Sushi,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Shari,Shari,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Seito,Seito,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Sushi Katana,Sushi Katana,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Urban Hibachi,Urban Hibachi,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Amura,Amura,0,,0.0,0.0,0.0
+日韩料理,Lee's Korean Bistro,Lee's Korean Bistro,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Bento Cafe,Bento Cafe,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Jade Bistro,Jade Bistro,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Sushi Lola's,Sushi Lola's,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Bikkuri Sushi,Bikkuri Sushi,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Mikado Sushi,Mikado Sushi,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Mr. K's Chinese Cuisine and Sushi,Mr. K's Chinese Cuisine and Sushi,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Sino 1 Chinese and Sushi Restaurant,Sino 1 Chinese and Sushi Restaurant,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Ginza Japanese Steak House & Sushi Bar,Ginza Japanese Steak House & Sushi Bar,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Misuzu Japanese Restaurant,Misuzu Japanese Restaurant,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Ichiban,Ichiban,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Fusion Bistro Sushi and Sake Bar,Fusion Bistro Sushi and Sake Bar,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Shiso Sushi,Shiso Sushi,0,,0.0,0.0,0.0
+日韩料理,Bento Ya,Bento Ya,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Wasabi,Wasabi,0,,0.0,0.0,0.0
+日韩料理,Tokyo Japanese Sushi Bar & Grill,Tokyo Japanese Sushi Bar & Grill,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Satini Sushi and Tioca Bar,Satini Sushi and Tioca Bar,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Twist Asian Fusion,Twist Asian Fusion,0,奥兰多其他,0.0,0.0,0.0
+日韩料理,Sushi Hibachi Japanese Express,Sushi Hibachi Japanese Express,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Kobe Japanese Steak House & Sushi Bar,Kobe Japanese Steak House & Sushi Bar,0,,7.4,8.2,6.7
+更多亚洲菜,Spice Thai Restuarant,Spice Thai Restuarant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Mei Asian China Buffet,Mei Asian China Buffet,0,,0.0,0.0,0.0
+更多亚洲菜,Thai Silk Restaurant,Thai Silk Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Sea Thai Restaurant,Sea Thai Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Islands Dining Room at Loews Royal Pacific Resort,Islands Dining Room at Loews Royal Pacific Resort,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Pho 88,Pho 88,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Passage To India,Passage To India,0,,0.0,0.0,0.0
+更多亚洲菜,Viet Garden Restaurant,Viet Garden Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Thai Island Restaurant,Thai Island Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,U & ME Restaurant,U & ME Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Pho Saigon Restaurant,Pho Saigon Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Hawkers Asian Street Fare,Hawkers Asian Street Fare,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Tako Cheena,Tako Cheena,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Little Saigon,Little Saigon,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Thai House,Thai House,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Pom Poms Tea House,Pom Poms Tea House,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Pei Wei Asian Diner,Pei Wei Asian Diner,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Darbar Indian Restaurant,Darbar Indian Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,NaraDeva Thai Restaurant,NaraDeva Thai Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,At Siam Thai Cuisine,At Siam Thai Cuisine,0,,0.0,0.0,0.0
+更多亚洲菜,P.F. Chang's,P.F. Chang's,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Kosher Grill,Kosher Grill,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Indian Cuisine Aashirwad,Indian Cuisine Aashirwad,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Nha Trang Sub,Nha Trang Sub,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,CHI Pan Asian,CHI Pan Asian,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Yum-Mi Sandwiches,Yum-Mi Sandwiches,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Pho Vinh Orlando,Pho Vinh Orlando,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Ha Long Bistro,Ha Long Bistro,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Shin Jung,Shin Jung,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Napasorn Thai Restaurant,Napasorn Thai Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Pho Hoa Restaurant,Pho Hoa Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Tasty Thai Restaurant,Tasty Thai Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Falafel Cafe,Falafel Cafe,0,,0.0,0.0,0.0
+更多亚洲菜,Tabla Bar and Grill,Tabla Bar and Grill,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Eastern Pearl,Eastern Pearl,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,G & G Thai Cuisine,G & G Thai Cuisine,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Chai Thai Cuisine,Chai Thai Cuisine,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Steak and Salad Turkish Cusine,Steak and Salad Turkish Cusine,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Thai Island,Thai Island,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Da Lan Restaurant,Da Lan Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,The Globe,The Globe,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Kurry & Kabab Express,Kurry & Kabab Express,0,,0.0,0.0,0.0
+更多亚洲菜,Habibi Lebanese MetroWest,Habibi Lebanese MetroWest,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Gateway to India - International Drive,Gateway to India - International Drive,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Kabbab House LLC,Kabbab House LLC,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Tiffin Foods,Tiffin Foods,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Bill Wong's Restaurant,Bill Wong's Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Shamiana Restaurant,Shamiana Restaurant,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Essence of India,Essence of India,0,奥兰多其他,0.0,0.0,0.0
+更多亚洲菜,Super Orient Buffet,Super Orient Buffet,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Cheesecake Factory,The Cheesecake Factory,0,奥兰多其他,7.3,7.3,6.8
+快餐简餐,China Max,China Max,0,奥兰多环球影城/海洋世界,7.3,7.3,7.3
+快餐简餐,Krusty Burger,Krusty Burger,0,奥兰多其他,8.1,8.1,8.1
+快餐简餐,Five Guys,Five Guys,0,奥兰多其他,8.0,6.7,7.4
+快餐简餐,Bubba Gump Shrimp Co,Bubba Gump Shrimp Co,0,奥兰多其他,7.3,7.3,7.3
+快餐简餐,Golden Corral Buffet & Grill #0755,Golden Corral Buffet & Grill #0755,0,,0.0,0.0,0.0
+快餐简餐,HottoPotto 火锅店,HottoPotto 火锅店,0,,7.8,7.3,7.8
+快餐简餐,Hash House a go go,Hash House a go go,0,奥兰多其他,7.9,7.9,7.9
+快餐简餐,IHOP,IHOP,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Tony Roma's: Fire Grill & Lounge,Tony Roma's: Fire Grill & Lounge,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Pharmacy,The Pharmacy,0,,0.0,0.0,0.0
+快餐简餐,The Oasis Tiki Bar,The Oasis Tiki Bar,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Margaritaville,Margaritaville,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Keke's Breakfast Cafe,Keke's Breakfast Cafe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Crimson Tavern,Crimson Tavern,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,,0.0,0.0,0.0
+快餐简餐,Hamburger Mary's,Hamburger Mary's,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Blue Martini,Blue Martini,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Hooters of Orlando-Airport,Hooters of Orlando-Airport,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Confisco Grille,Confisco Grille,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Citrus Restaurant,Citrus Restaurant,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Orlando Ale House,Orlando Ale House,0,,0.0,0.0,0.0
+快餐简餐,Buffalo Wild Wings,Buffalo Wild Wings,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Top of the World Lounge,Top of the World Lounge,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Greek Corner,The Greek Corner,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Steak 'n Shake,Steak 'n Shake,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Teak Neighborhood Grill,Teak Neighborhood Grill,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Jake's American Bar & Grill,Jake's American Bar & Grill,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Burger 21,Burger 21,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Anh Hong,Anh Hong,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Crew's Cup Lounge,Crew's Cup Lounge,0,,0.0,0.0,0.0
+快餐简餐,End Zone Food Court,End Zone Food Court,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Ruby Tuesday,Ruby Tuesday,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,T.G.I. Fridays,T.G.I. Fridays,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Garden Gallery,Garden Gallery,0,,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Refrescos Tamu Tamu - Haramabe,Refrescos Tamu Tamu - Haramabe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Chili's Bar and Grill,Chili's Bar and Grill,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,ABC Commissary,ABC Commissary,0,,0.0,0.0,0.0
+快餐简餐,Downtown PourHouse,Downtown PourHouse,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Chili's Grill & Bar - Airport Blvd.,Chili's Grill & Bar - Airport Blvd.,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Diamond Horseshoe,The Diamond Horseshoe,0,,0.0,0.0,0.0
+快餐简餐,310 Lakeside,310 Lakeside,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Rusty Spoon,Rusty Spoon,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Chef Eddie's,Chef Eddie's,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Maxine's On Shine,Maxine's On Shine,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Hue,Hue,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Dexter's of Thorton Park,Dexter's of Thorton Park,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Denny's,Denny's,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,K Restaurant & Wine Bar,K Restaurant & Wine Bar,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,White Wolf Cafe,White Wolf Cafe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Shakers,Shakers,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Sunshine Season Food Fair,Sunshine Season Food Fair,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Sweet Tomatoes,Sweet Tomatoes,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Jason's Deli,Jason's Deli,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Tap Room at Dubsdread,The Tap Room at Dubsdread,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Elephant Bar,Elephant Bar,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Fresco Cucina Italiana,Fresco Cucina Italiana,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Thunder Falls Terrace,Thunder Falls Terrace,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,CRAVE Restaurant,CRAVE Restaurant,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Nick's Family Diner,Nick's Family Diner,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,NASCAR Sports Grille,NASCAR Sports Grille,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,McCoy's Bar & Grill,McCoy's Bar & Grill,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Denny's,Denny's,0,,0.0,0.0,0.0
+快餐简餐,Millers Ale House,Millers Ale House,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Nona Tap Room,Nona Tap Room,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Sonny's Real Pit Bar-B-Q,Sonny's Real Pit Bar-B-Q,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Marlow's Tavern,Marlow's Tavern,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Nona Blue,Nona Blue,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,IHOP,IHOP,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Kitchen Restaurant,Kitchen Restaurant,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Palm,The Palm,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,First Watch,First Watch,0,,0.0,0.0,0.0
+快餐简餐,Jack's Place,Jack's Place,0,,0.0,0.0,0.0
+快餐简餐,Chili's Bar & Grill - International Drive,Chili's Bar & Grill - International Drive,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Chili's Grill & Bar -S. Semoran Blvd,Chili's Grill & Bar -S. Semoran Blvd,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Yard House,Yard House,0,,0.0,0.0,0.0
+快餐简餐,Ollie's Public House,Ollie's Public House,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Lotus,Lotus,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Captain America Diner,Captain America Diner,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Luxe,Luxe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Hurricane Hanna's Grill,Hurricane Hanna's Grill,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Graffiti Junktion,Graffiti Junktion,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Johnny's Fillin Station Cafe,Johnny's Fillin Station Cafe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Jazzy Dog Cafe,Jazzy Dog Cafe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Bananas Modern American Diner,Bananas Modern American Diner,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Pine 22,Pine 22,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,OLV Cafe,OLV Cafe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,"Bikes, Beans & Bordeaux","Bikes, Beans & Bordeaux",0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Wildside BBQ Bar and Grill,Wildside BBQ Bar and Grill,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Virgin Olive Maket,The Virgin Olive Maket,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Whiskey Dicks,Whiskey Dicks,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Boardwalk Fresh Burgers and Fries,Boardwalk Fresh Burgers and Fries,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Ember,Ember,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Beth's Burger Bar,Beth's Burger Bar,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Peach Valley Cafe,Peach Valley Cafe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Doc's Streetside Grille,Doc's Streetside Grille,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Daybreak Diner,Daybreak Diner,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Brian's Restaurant,Brian's Restaurant,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Christo's Cafe,Christo's Cafe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,College Park Cafe,College Park Cafe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Tony's Bakery & Deli,Tony's Bakery & Deli,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,First Watch,First Watch,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Strand,The Strand,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Artisan's Table,Artisan's Table,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Firehouse Subs,Firehouse Subs,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Ruby Tuesday,Ruby Tuesday,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,,0.0,0.0,0.0
+快餐简餐,Fresh To Order - Orlando Waterford Lakes,Fresh To Order - Orlando Waterford Lakes,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Hooters of Kirkman Road,Hooters of Kirkman Road,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Burger King Whopper Bar,Burger King Whopper Bar,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Crispers,Crispers,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Kona Dog Food Truck,Kona Dog Food Truck,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Golden Corral,Golden Corral,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Firehouse Subs,Firehouse Subs,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Greens & Grille,Greens & Grille,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,California Pizza Kitchen,California Pizza Kitchen,0,,0.0,0.0,0.0
+快餐简餐,Firehouse Subs,Firehouse Subs,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Pammie's Sammies,Pammie's Sammies,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Larkin's Famous Subs & Catering,Larkin's Famous Subs & Catering,0,,0.0,0.0,0.0
+快餐简餐,Waffle House,Waffle House,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Halal Food Express,Halal Food Express,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Ponderosa Steakhouse,Ponderosa Steakhouse,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Mimi's Cafe,Mimi's Cafe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Coco Bongo's Disco Bar & Grill,Coco Bongo's Disco Bar & Grill,0,,0.0,0.0,0.0
+快餐简餐,BJ's Restaurant and Brewhouse,BJ's Restaurant and Brewhouse,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Mrs Potato,Mrs Potato,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Applebee's Neighborhood Bar and Grill,Applebee's Neighborhood Bar and Grill,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Sports End Zone Food Court,Sports End Zone Food Court,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Flyer's Wings & Grill,Flyer's Wings & Grill,0,,0.0,0.0,0.0
+快餐简餐,Breakfast Club of Orlando,Breakfast Club of Orlando,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,One Eyed Jack's,One Eyed Jack's,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,WaiTiki,WaiTiki,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Firehouse Subs,Firehouse Subs,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Shine Neighborhood Kitchen,Shine Neighborhood Kitchen,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Delish Frozen Yozurt,Delish Frozen Yozurt,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Hideaway Bar,The Hideaway Bar,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Milk Bar,The Milk Bar,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Zilly Bee's Cafe and Coffee Bar,Zilly Bee's Cafe and Coffee Bar,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Houlihan's,Houlihan's,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,KFC/LJS,KFC/LJS,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Latitudes,Latitudes,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Draft,The Draft,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Applebee's,Applebee's,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Prickly Pear Steakhouse,Prickly Pear Steakhouse,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Junior`s Diner,Junior`s Diner,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Truffles and Trifels,Truffles and Trifels,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Mama B's Giant Subs,Mama B's Giant Subs,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Fifth,The Fifth,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Draft Global Beer Lounge and Grill,Draft Global Beer Lounge and Grill,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Sonoma Draft House,Sonoma Draft House,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Einstein Bagels Orlando Fl,Einstein Bagels Orlando Fl,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,New Texas Fried Chicken,New Texas Fried Chicken,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Egg & I Restaurant- Orlando,The Egg & I Restaurant- Orlando,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Steak 'n Shake,Steak 'n Shake,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,The Falcon Bar and Gallery,The Falcon Bar and Gallery,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Tanqueray's Bar & Grille,Tanqueray's Bar & Grille,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Sunrise Diner,Sunrise Diner,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Alfonso's Pizza & Sports Bar,Alfonso's Pizza & Sports Bar,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Regional Grill & Bayou,Regional Grill & Bayou,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Rhum Shak,Rhum Shak,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Gators Dockside,Gators Dockside,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Scruffy Murphy's Irish Pub,Scruffy Murphy's Irish Pub,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Therapy Brew Bar & Wine Lounge,Therapy Brew Bar & Wine Lounge,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Java Lava Coffee Shops,Java Lava Coffee Shops,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Einstein Bros. Bagels,Einstein Bros. Bagels,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Daily News Deli & Grille Too,Daily News Deli & Grille Too,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Pioneers Western Kitchen,Pioneers Western Kitchen,0,,0.0,0.0,0.0
+快餐简餐,Steak 'n Shake,Steak 'n Shake,0,,0.0,0.0,0.0
+快餐简餐,Munchies,Munchies,0,,0.0,0.0,0.0
+快餐简餐,Panera Bread,Panera Bread,0,,0.0,0.0,0.0
+快餐简餐,Captain Jack's,Captain Jack's,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Ker's Winghouse Bar & Grill,Ker's Winghouse Bar & Grill,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,"DON GABBY - STEAKS, BEER & BILLIARDS","DON GABBY - STEAKS, BEER & BILLIARDS",0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Chili's Too,Chili's Too,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Bloodhound Brew,Bloodhound Brew,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Cheers Sports Bar and Liquor Store,Cheers Sports Bar and Liquor Store,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Bloodhound Brew,Bloodhound Brew,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Pompanos,Pompanos,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,New York Diner,New York Diner,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Outback Outpost,Outback Outpost,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,PrimoHoagies,PrimoHoagies,0,,0.0,0.0,0.0
+快餐简餐,Chick-fil-A,Chick-fil-A,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Great western steaks and buffet,Great western steaks and buffet,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Boston Market,Boston Market,0,,0.0,0.0,0.0
+快餐简餐,Western Steer Family Steakhouse,Western Steer Family Steakhouse,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Bristol Cafe,Bristol Cafe,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,5 Gastronomy,5 Gastronomy,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Terrace 390,Terrace 390,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Pricky Pear Fresh American,Pricky Pear Fresh American,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,A&W Restaurant,A&W Restaurant,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Quiznos,Quiznos,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,WingHouse of Orlando,WingHouse of Orlando,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Westerly's Restaurant at MetroWest Golf Club,Westerly's Restaurant at MetroWest Golf Club,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Johnny River’s Grill & Market,Johnny River’s Grill & Market,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Mexico Lindo Mexican Cuisine,Mexico Lindo Mexican Cuisine,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Underground Public House,Underground Public House,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Long Horn Steak House,Long Horn Steak House,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Harry buffalo,Harry buffalo,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Outback Steakhouse,Outback Steakhouse,0,奥兰多其他,0.0,0.0,0.0
+快餐简餐,Applebee's,Applebee's,0,,0.0,0.0,0.0
+海鲜,Red Lobster,Red Lobster,0,,8.4,8.5,8.8
+海鲜,Boston Lobster Feast - International Drive,Boston Lobster Feast - International Drive,0,,7.9,7.9,7.9
+海鲜,Red Lobster,Red Lobster,0,奥兰多其他,7.3,7.3,7.3
+海鲜,林园海鲜酒家(Lam’s Garden),林园海鲜酒家(Lam’s Garden),0,,7.0,6.9,6.9
+海鲜,Joe's Crab Shack,Joe's Crab Shack,0,,0.0,0.0,0.0
+海鲜,Lombard’s Seafood Grille,Lombard’s Seafood Grille,0,奥兰多其他,0.0,0.0,0.0
+海鲜,LA. Boiling Seafood Crab & Crawfish,LA. Boiling Seafood Crab & Crawfish,0,奥兰多其他,0.0,0.0,0.0
+海鲜,Hemisphere Restaurant,Hemisphere Restaurant,0,奥兰多其他,0.0,0.0,0.0
+海鲜,Bonefish Grill,Bonefish Grill,0,奥兰多其他,0.0,0.0,0.0
+海鲜,High Tide Harry's Seafood,High Tide Harry's Seafood,0,奥兰多其他,0.0,0.0,0.0
+海鲜,Cityfish,Cityfish,0,奥兰多其他,0.0,0.0,0.0
+海鲜,The Boheme,The Boheme,0,奥兰多其他,0.0,0.0,0.0
+海鲜,A Land Remembered,A Land Remembered,0,,0.0,0.0,0.0
+海鲜,Lighthouse Lobster Feast,Lighthouse Lobster Feast,0,奥兰多其他,0.0,0.0,0.0
+海鲜,Mingos,Mingos,0,奥兰多其他,0.0,0.0,0.0
+海鲜,Stonington's Seafood Restaurant,Stonington's Seafood Restaurant,0,奥兰多其他,0.0,0.0,0.0
+海鲜,Ceviche House,Ceviche House,0,奥兰多其他,0.0,0.0,0.0
+海鲜,Washington Shores Fish Market,Washington Shores Fish Market,0,奥兰多其他,0.0,0.0,0.0
+海鲜,Blue Elephant,Blue Elephant,0,,0.0,0.0,0.0
+海鲜,Joe's Crab Shack -Semoran Blvd.,Joe's Crab Shack -Semoran Blvd.,0,奥兰多其他,0.0,0.0,0.0
+海鲜,Captain Nimo's,Captain Nimo's,0,,0.0,0.0,0.0
+海鲜,自运北朝鲜海鲜坊,自运北朝鲜海鲜坊,0,,0.0,0.0,0.0
+烧烤,Celebration Town Tavern,Celebration Town Tavern,0,,6.9,6.9,6.9
+烧烤,Linda's La Cantina,Linda's La Cantina,0,奥兰多其他,0.0,0.0,0.0
+烧烤,Beefy King,Beefy King,0,奥兰多其他,0.0,0.0,0.0
+烧烤,Smokey Bones BBQ,Smokey Bones BBQ,0,奥兰多其他,0.0,0.0,0.0
+烧烤,Wildside BBQ & Grill,Wildside BBQ & Grill,0,奥兰多其他,0.0,0.0,0.0
+烧烤,Bubbalou's Bodacious Bar B Que,Bubbalou's Bodacious Bar B Que,0,奥兰多其他,0.0,0.0,0.0
+烧烤,McKnight's Soul Food At Its Best,McKnight's Soul Food At Its Best,0,奥兰多其他,0.0,0.0,0.0
+烧烤,Cecil's Texas Style Bar-b-q,Cecil's Texas Style Bar-b-q,0,奥兰多其他,0.0,0.0,0.0
+烧烤,Bar-Bq-Bar,Bar-Bq-Bar,0,奥兰多其他,0.0,0.0,0.0
+烧烤,Orlando Soul Food and BBQ,Orlando Soul Food and BBQ,0,奥兰多其他,0.0,0.0,0.0
+烧烤,BubbaQue's,BubbaQue's,0,,0.0,0.0,0.0
+烧烤,Reds Ranch BBQ Smokehouse,Reds Ranch BBQ Smokehouse,0,奥兰多其他,0.0,0.0,0.0
+比萨,Red Oven Pizza Bakery,Red Oven Pizza Bakery,0,奥兰多其他,5.9,5.9,5.9
+比萨,Pizza Xtreme,Pizza Xtreme,0,奥兰多其他,0.0,0.0,0.0
+比萨,CiCi's Pizza,CiCi's Pizza,0,奥兰多其他,0.0,0.0,0.0
+比萨,Flippers Pizzeria,Flippers Pizzeria,0,,0.0,0.0,0.0
+比萨,Singing Sam's Pizza,Singing Sam's Pizza,0,,0.0,0.0,0.0
+比萨,Giordano's,Giordano's,0,奥兰多其他,0.0,0.0,0.0
+比萨,Flippers Pizza,Flippers Pizza,0,奥兰多其他,0.0,0.0,0.0
+比萨,California Pizza Kitchen,California Pizza Kitchen,0,奥兰多其他,0.0,0.0,0.0
+比萨,Pizzeria Del-Dio,Pizzeria Del-Dio,0,奥兰多其他,0.0,0.0,0.0
+比萨,Brick & Fire Pizza and Pasta Parlor,Brick & Fire Pizza and Pasta Parlor,0,奥兰多其他,0.0,0.0,0.0
+比萨,Panino's Pizza & Grill,Panino's Pizza & Grill,0,奥兰多其他,0.0,0.0,0.0
+比萨,Metro Espresso Pizza Cafe,Metro Espresso Pizza Cafe,0,奥兰多其他,0.0,0.0,0.0
+比萨,Proccolinos,Proccolinos,0,奥兰多其他,0.0,0.0,0.0
+比萨,Francesco's Pizzaria,Francesco's Pizzaria,0,奥兰多其他,0.0,0.0,0.0
+比萨,Josie's Pizza & Wings,Josie's Pizza & Wings,0,奥兰多其他,0.0,0.0,0.0
+比萨,Pasquale's,Pasquale's,0,奥兰多其他,0.0,0.0,0.0
+比萨,Tomasino's Pizza,Tomasino's Pizza,0,奥兰多其他,0.0,0.0,0.0
+比萨,Cornerstone Pizza,Cornerstone Pizza,0,奥兰多其他,0.0,0.0,0.0
+比萨,Hungry Howie's Pizza,Hungry Howie's Pizza,0,奥兰多其他,0.0,0.0,0.0
+比萨,Catalina Eddie's,Catalina Eddie's,0,奥兰多其他,0.0,0.0,0.0
+比萨,RedBrick Pizza,RedBrick Pizza,0,奥兰多其他,0.0,0.0,0.0
+比萨,I Love NY Pizza,I Love NY Pizza,0,奥兰多其他,0.0,0.0,0.0
+比萨,Manninos,Manninos,0,奥兰多其他,0.0,0.0,0.0
+比萨,Bellagio Pizza Deli,Bellagio Pizza Deli,0,奥兰多其他,0.0,0.0,0.0
+比萨,Alexander's Ristorante & Pizzeria,Alexander's Ristorante & Pizzeria,0,奥兰多其他,0.0,0.0,0.0
+比萨,Sal's Pizza,Sal's Pizza,0,奥兰多其他,0.0,0.0,0.0
+比萨,Little Caesars,Little Caesars,0,,0.0,0.0,0.0
+比萨,Napollis Pizzeria,Napollis Pizzeria,0,奥兰多其他,0.0,0.0,0.0
+比萨,Eternal Tap,Eternal Tap,0,奥兰多其他,0.0,0.0,0.0
+比萨,BJ's Restaurant Brewhouse,BJ's Restaurant Brewhouse,0,奥兰多其他,0.0,0.0,0.0
+比萨,Red Oven Pizza Bakery,Red Oven Pizza Bakery,0,,0.0,0.0,0.0
+面包甜点,Haagen-Dazs Shop,Haagen-Dazs Shop,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Fortuna Bakery and Cafe,Fortuna Bakery and Cafe,0,,0.0,0.0,0.0
+面包甜点,TooJay's,TooJay's,0,,0.0,0.0,0.0
+面包甜点,Panera Bread,Panera Bread,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Yogo Berry,Yogo Berry,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Memo Cafe,Memo Cafe,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Cafe Bodega,Cafe Bodega,0,,0.0,0.0,0.0
+面包甜点,San francisco pastry company,San francisco pastry company,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,TooJay's,TooJay's,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Se7en Bites Bakeshop,Se7en Bites Bakeshop,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Dunkin' Donuts,Dunkin' Donuts,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,The Dessert Lady Cafe,The Dessert Lady Cafe,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Krispy Kreme Doughnuts,Krispy Kreme Doughnuts,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Pao Gostoso Bakery,Pao Gostoso Bakery,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Twistee Treat Curry Ford,Twistee Treat Curry Ford,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Yalaha Bakery- Orlando,Yalaha Bakery- Orlando,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,4Delights,4Delights,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Blue Bird Bake Shop,Blue Bird Bake Shop,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Panera Bread,Panera Bread,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Le Gourmet Break,Le Gourmet Break,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Rainbow Sno-Cones,Rainbow Sno-Cones,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Jeremiah's Italian Ice,Jeremiah's Italian Ice,0,,0.0,0.0,0.0
+面包甜点,Luchi's Frozen Yogurt,Luchi's Frozen Yogurt,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Twistee Treat,Twistee Treat,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Bakery Plus,Bakery Plus,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Sister Honey's,Sister Honey's,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Raphsodic Cooperative Company,Raphsodic Cooperative Company,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,The Hyppo,The Hyppo,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Incredibly Edible,Incredibly Edible,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Anandapur Ice Cream Truck,Anandapur Ice Cream Truck,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Rita's,Rita's,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Mike's Italian Ice,Mike's Italian Ice,0,奥兰多其他,0.0,0.0,0.0
+面包甜点,Goff's,Goff's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,CiCi's Pizza,CiCi's Pizza,0,,7.5,7.5,7.5
+其他美食,Taco Bell,Taco Bell,0,,6.7,6.7,6.7
+其他美食,Sweet Tomatoes,Sweet Tomatoes,0,奥兰多其他,7.3,7.3,7.3
+其他美食,Mythos Restaurant,Mythos Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Hemisphere Steak and Seafood,Hemisphere Steak and Seafood,0,奥兰多其他,0.0,0.0,0.0
+其他美食,China Max,China Max,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Intermission Food Court,Intermission Food Court,0,,0.0,0.0,0.0
+其他美食,Dandelion Communitea Cafe,Dandelion Communitea Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Emeril's Tchoup Chop,Emeril's Tchoup Chop,0,奥兰多其他,0.0,0.0,0.0
+其他美食,TGI Friday's,TGI Friday's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Flame Tree Barbecue,Flame Tree Barbecue,0,,0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Finnegan's Bar and Grill,Finnegan's Bar and Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Tangierine Cafe,Tangierine Cafe,0,,0.0,0.0,0.0
+其他美食,Dairy Queen,Dairy Queen,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Haagen Dazs Ice Cream,Haagen Dazs Ice Cream,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chipotle,Chipotle,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Kafe Kalik,Kafe Kalik,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Five Guys,Five Guys,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Beach Club,Beach Club,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Panera Bread,Panera Bread,0,,0.0,0.0,0.0
+其他美食,Lone Palm Airport,Lone Palm Airport,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Starlight Grille,Starlight Grille,0,奥兰多其他,0.0,0.0,0.0
+其他美食,TGI Fridays,TGI Fridays,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Citrus Gardens,Citrus Gardens,0,,0.0,0.0,0.0
+其他美食,KFC,KFC,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Fidalgo Bay Cafe,Fidalgo Bay Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Soul Samba Orlando,Soul Samba Orlando,0,奥兰多其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Gratzi,Gratzi,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chimney Cake Factory,Chimney Cake Factory,0,奥兰多其他,0.0,0.0,0.0
+其他美食,King Cajun Crawfish Restaurant,King Cajun Crawfish Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,903 Mills Market,903 Mills Market,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Gringos Locos,Gringos Locos,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Olive Garden,Olive Garden,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Hubbly Bubbly Falafel Shop,Hubbly Bubbly Falafel Shop,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Yakitori House,Yakitori House,0,,0.0,0.0,0.0
+其他美食,The Venetian Room,The Venetian Room,0,,0.0,0.0,0.0
+其他美食,Subway,Subway,0,,0.0,0.0,0.0
+其他美食,CiCi's Pizza,CiCi's Pizza,0,,0.0,0.0,0.0
+其他美食,Cracker Barrel,Cracker Barrel,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Croissant Moon Bakery,Croissant Moon Bakery,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Sal's Market Deli,Sal's Market Deli,0,奥兰多其他,0.0,0.0,0.0
+其他美食,The Gnarly Barley,The Gnarly Barley,0,,0.0,0.0,0.0
+其他美食,Boteco Restaurant,Boteco Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Cinnabon,Cinnabon,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Emeril's Orlando,Emeril's Orlando,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Carrabba's Italian Grill,Carrabba's Italian Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Citywalk's Rising Star,Citywalk's Rising Star,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Village Inn,Village Inn,0,,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Starbucks and Ben and Jerry's Ice Cream,Starbucks and Ben and Jerry's Ice Cream,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Ciao Italia Ristorante,Ciao Italia Ristorante,0,,0.0,0.0,0.0
+其他美食,Vittorio's Brazilian Restaurant,Vittorio's Brazilian Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Cafe Au Lait (Proudly Serve Starbucks),Cafe Au Lait (Proudly Serve Starbucks),0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chinatown,Chinatown,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Orchid Court Lounge & Sushi Bar,Orchid Court Lounge & Sushi Bar,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Eola Wine Company Downtown,Eola Wine Company Downtown,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Paxia,Paxia,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Sonny's Real Pit Bar-B-Q,Sonny's Real Pit Bar-B-Q,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Frank & Steins Eatery & Pub,Frank & Steins Eatery & Pub,0,奥兰多其他,0.0,0.0,0.0
+其他美食,UNO Chicago Grill,UNO Chicago Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,City Diner,City Diner,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Red Lobster,Red Lobster,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Spice Modern Steakhouse,Spice Modern Steakhouse,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Credo Cafe Downtown,Credo Cafe Downtown,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Macaroni Grill,Macaroni Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,IHOP,IHOP,0,奥兰多其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Bosendorfer Lounge,Bosendorfer Lounge,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Ethos Vegan Kitchen,Ethos Vegan Kitchen,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Olive Garden,Olive Garden,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Mucho Tequila and Tacos,Mucho Tequila and Tacos,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Avenue Gastrobar,Avenue Gastrobar,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Nine Dragons,Nine Dragons,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Kasa Tapas and Raw Bar,Kasa Tapas and Raw Bar,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Txokos Basque Kitchen,Txokos Basque Kitchen,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Trevi Pasta,Trevi Pasta,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Nikki's Place Southern Cuisine,Nikki's Place Southern Cuisine,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Urban Flats,Urban Flats,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Sushiology,Sushiology,0,,0.0,0.0,0.0
+其他美食,Flippers Pizzeria,Flippers Pizzeria,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Picanhas Grill,Picanhas Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,,0.0,0.0,0.0
+其他美食,Ruby Tuesday,Ruby Tuesday,0,奥兰多其他,0.0,0.0,0.0
+其他美食,San Angel Inn,San Angel Inn,0,奥兰多其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,,0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,奥兰多其他,0.0,0.0,0.0
+其他美食,"Menchies Frozen Yogurt of Orlando, FL","Menchies Frozen Yogurt of Orlando, FL",0,,0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Bob's Potatoes,Bob's Potatoes,0,奥兰多其他,0.0,0.0,0.0
+其他美食,NBA City,NBA City,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chicken Now,Chicken Now,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Jaber Restaurant,Jaber Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Japan Cafe,Japan Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chick-fil-A,Chick-fil-A,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Sebastian's Pizza,Sebastian's Pizza,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Black Angus Restaurant,Black Angus Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Sbarro,Sbarro,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,奥兰多其他,0.0,0.0,0.0
+其他美食,New York Slice Pizzeria,New York Slice Pizzeria,0,,0.0,0.0,0.0
+其他美食,Golden Corral,Golden Corral,0,,0.0,0.0,0.0
+其他美食,The Cupcake Lounge Orlando,The Cupcake Lounge Orlando,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Jimmy John's,Jimmy John's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Burger 21 Millenia,Burger 21 Millenia,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,奥兰多其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,,0.0,0.0,0.0
+其他美食,The Thirsty Fish,The Thirsty Fish,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Good Day Cafe,Good Day Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Fat Tuesday,Fat Tuesday,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Bar American,Bar American,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Black Angus Steak House,Black Angus Steak House,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Sbarro,Sbarro,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Moe's Southwest Grill,Moe's Southwest Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Monsta Lobsta,Monsta Lobsta,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Comic Strip Cafe,Comic Strip Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Wildside Cafe,Wildside Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Mochi Frozen Yogurt,Mochi Frozen Yogurt,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Leo's Diner,Leo's Diner,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Dragon King,Dragon King,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Nature's Table Cafe,Nature's Table Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Edens Fresh Co,Edens Fresh Co,0,奥兰多其他,0.0,0.0,0.0
+其他美食,"Twisted Bliss Ice Cream, Italian Ice, Gelati","Twisted Bliss Ice Cream, Italian Ice, Gelati",0,奥兰多其他,0.0,0.0,0.0
+其他美食,Fratelli's Italian Restaurant,Fratelli's Italian Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Papa John's,Papa John's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Forbidden City Chinese Restaurant,Forbidden City Chinese Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Redlight Redlight,Redlight Redlight,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Tropical Smoothie Cafe Downtown Orlando,Tropical Smoothie Cafe Downtown Orlando,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Lubrano's Pizza,Lubrano's Pizza,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Gabriel's Submarine Sandwich Shop,Gabriel's Submarine Sandwich Shop,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Bengel's Burgers Orange Ave LLC,Bengel's Burgers Orange Ave LLC,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Italian Pie & Pasta House,Italian Pie & Pasta House,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Big Daddys Roadhouse,Big Daddys Roadhouse,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Anthony's Pizza Delivery,Anthony's Pizza Delivery,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Little Caesars,Little Caesars,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,District-Five at the Crowne Plaza,District-Five at the Crowne Plaza,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Cafe Perks OBT,Cafe Perks OBT,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Boston Market,Boston Market,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Orlando Grill,Orlando Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chilly Spoons Frozen Yogurt Bar,Chilly Spoons Frozen Yogurt Bar,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Gabriels Sub Shop - Curry Ford Road - 407 894 6244,Gabriels Sub Shop - Curry Ford Road - 407 894 6244,0,,0.0,0.0,0.0
+其他美食,Five Guys,Five Guys,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Papa John's,Papa John's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Krystal,Krystal,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Mama's Cheesesteak,Mama's Cheesesteak,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Ragazzi's Pizza & Restaurant,Ragazzi's Pizza & Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Flippers Pizzeria,Flippers Pizzeria,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Theo's Kitchen,Theo's Kitchen,0,,0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Sandwich Bar,Sandwich Bar,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Arby's,Arby's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Honey Baked Ham,Honey Baked Ham,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Casey's On Central,Casey's On Central,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Piattini,Piattini,0,奥兰多其他,0.0,0.0,0.0
+其他美食,The Pita Pit,The Pita Pit,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Aurabar,Aurabar,0,奥兰多其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Arby's,Arby's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Ny Pizza Petey,Ny Pizza Petey,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Clarkie's Restaurant,Clarkie's Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Carol's Place,Carol's Place,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Caribbean Hut Inc,Caribbean Hut Inc,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Mama B's Giant Subs,Mama B's Giant Subs,0,奥兰多其他,0.0,0.0,0.0
+其他美食,China Palace Restaurant,China Palace Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,The Lucky Lure,The Lucky Lure,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chewy Boba Company,Chewy Boba Company,0,奥兰多其他,0.0,0.0,0.0
+其他美食,One80 Grey Goose Lounge,One80 Grey Goose Lounge,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Ta-Ke Sushi Bar,Ta-Ke Sushi Bar,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Korean BBQ House,Korean BBQ House,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Artist Point,Artist Point,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Tijuana Flats,Tijuana Flats,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Shakai Sushi Lounge,Shakai Sushi Lounge,0,奥兰多其他,0.0,0.0,0.0
+其他美食,SuperRico Colombia,SuperRico Colombia,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Gino's Pizza,Gino's Pizza,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Phovinh,Phovinh,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Charlie's Gourmet Pastries,Charlie's Gourmet Pastries,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Jasons Deli,Jasons Deli,0,奥兰多其他,0.0,0.0,0.0
+其他美食,New York Deli Subs,New York Deli Subs,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Sky 60,Sky 60,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Sonny's all you can eat BBQ,Sonny's all you can eat BBQ,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Jernigan's Restaurant,Jernigan's Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,The Flame Broiler,The Flame Broiler,0,奥兰多其他,0.0,0.0,0.0
+其他美食,La Cucina & Bakery,La Cucina & Bakery,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Toojay's Gourmet Deli,Toojay's Gourmet Deli,0,奥兰多其他,0.0,0.0,0.0
+其他美食,903 Cityside,903 Cityside,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Nature's Table At CN & L Center,Nature's Table At CN & L Center,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Go Lounge Parking Lot,Go Lounge Parking Lot,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Sprinkles Custom Cakes Caterer,Sprinkles Custom Cakes Caterer,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Mugsy's 33rd Street Bar,Mugsy's 33rd Street Bar,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Golden-Krust,Golden-Krust,0,,0.0,0.0,0.0
+其他美食,Alafaya Garden Bar & Bistro,Alafaya Garden Bar & Bistro,0,,0.0,0.0,0.0
+其他美食,Buffalo Wild Wings - UCF,Buffalo Wild Wings - UCF,0,,0.0,0.0,0.0
+其他美食,Tenders,Tenders,0,,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,,0.0,0.0,0.0
+其他美食,The Pita Pit,The Pita Pit,0,,0.0,0.0,0.0
+其他美食,Juniors Pizza and More,Juniors Pizza and More,0,,0.0,0.0,0.0
+其他美食,The Midway Grill,The Midway Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Cafe La Bamba,Cafe La Bamba,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,,0.0,0.0,0.0
+其他美食,Honey Baked Ham,Honey Baked Ham,0,,0.0,0.0,0.0
+其他美食,Martin's BBQ,Martin's BBQ,0,奥兰多其他,0.0,0.0,0.0
+其他美食,KFC,KFC,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,奥兰多其他,0.0,0.0,0.0
+其他美食,E-Brands Restaurants,E-Brands Restaurants,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Orlando Asian Restaurant,Orlando Asian Restaurant,0,,0.0,0.0,0.0
+其他美食,Crickets An Eating & Drinking Place,Crickets An Eating & Drinking Place,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Arby's,Arby's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,KFC,KFC,0,,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Xtreme Juice,Xtreme Juice,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Jimmy John's,Jimmy John's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Checker's,Checker's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Quiznos,Quiznos,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Rally's Hamburgers,Rally's Hamburgers,0,,0.0,0.0,0.0
+其他美食,Tutti Frutti,Tutti Frutti,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Wall St Dogs and Subs,Wall St Dogs and Subs,0,,0.0,0.0,0.0
+其他美食,Garden Fresh Restaurant Corp LLC,Garden Fresh Restaurant Corp LLC,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chick-fil-A,Chick-fil-A,0,奥兰多其他,0.0,0.0,0.0
+其他美食,KFC,KFC,0,奥兰多其他,0.0,0.0,0.0
+其他美食,IHOP,IHOP,0,,0.0,0.0,0.0
+其他美食,J&G Sports BAR,J&G Sports BAR,0,奥兰多其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Larry's Giant Subs,Larry's Giant Subs,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Mr Feds Fresh and Famous Foods,Mr Feds Fresh and Famous Foods,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Pollo Tropical,Pollo Tropical,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,,0.0,0.0,0.0
+其他美食,Subway,Subway,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Planet Smoothie,Planet Smoothie,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Nature's Table,Nature's Table,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Godfather's Pizza,Godfather's Pizza,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Jersey Mike's Subs,Jersey Mike's Subs,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chick-fil-A,Chick-fil-A,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Hana Kimi,Hana Kimi,0,,0.0,0.0,0.0
+其他美食,Panera Bread,Panera Bread,0,奥兰多其他,0.0,0.0,0.0
+其他美食,A Slice of New York Pizza,A Slice of New York Pizza,0,,0.0,0.0,0.0
+其他美食,China Wok,China Wok,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Quiznos,Quiznos,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Jr Steakery,Jr Steakery,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Long Horns Steak House,Long Horns Steak House,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Menchie's Frozen Yogurt,Menchie's Frozen Yogurt,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Nestle Toll House Cafe By Chip,Nestle Toll House Cafe By Chip,0,奥兰多其他,0.0,0.0,0.0
+其他美食,S - Airport,S - Airport,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Anthony's Pizza,Anthony's Pizza,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Kosher Gourmet,Kosher Gourmet,0,奥兰多其他,0.0,0.0,0.0
+其他美食,"BBQ Tonight (Orlando, FL)","BBQ Tonight (Orlando, FL)",0,奥兰多其他,0.0,0.0,0.0
+其他美食,Island Breeze Orlando,Island Breeze Orlando,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Kyoto Sushi and Grill,Kyoto Sushi and Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Tony's Bakery,Tony's Bakery,0,,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Great Wraps,Great Wraps,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Palm Court Deli,Palm Court Deli,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Papa John's Pizza,Papa John's Pizza,0,,0.0,0.0,0.0
+其他美食,Amazon Forest Cafe,Amazon Forest Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Napoli's Pizza,Napoli's Pizza,0,,0.0,0.0,0.0
+其他美食,Sundial Brazilian Cafe,Sundial Brazilian Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Coldstone Creamery,Coldstone Creamery,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Winehouse at Lake Nona,Winehouse at Lake Nona,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Qdoba Mexican Grill,Qdoba Mexican Grill,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Brick and Fire Pizza Express,Brick and Fire Pizza Express,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Zaxby's,Zaxby's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Athena's Grill,Athena's Grill,0,,0.0,0.0,0.0
+其他美食,Whistle Junction,Whistle Junction,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Coffee Cay,Coffee Cay,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Churromania,Churromania,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Santa FE Buffet,Santa FE Buffet,0,奥兰多其他,0.0,0.0,0.0
+其他美食,The Church Street Tavern,The Church Street Tavern,0,奥兰多其他,0.0,0.0,0.0
+其他美食,California Burrito Express,California Burrito Express,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Michael's Sandwiches Salads,Michael's Sandwiches Salads,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Southern Garden Cafe,Southern Garden Cafe,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Sonic Drive-In,Sonic Drive-In,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chick-fil-A,Chick-fil-A,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Panera Bread,Panera Bread,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Long John Silver's,Long John Silver's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Dairy Queen,Dairy Queen,0,奥兰多其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Chocolate Provocateur,Chocolate Provocateur,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Church's Chicken,Church's Chicken,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Jimmy John's,Jimmy John's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Arepera La Nueva,Arepera La Nueva,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Delights of Benezit,Delights of Benezit,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Anthony's Pizzeria & Restaurant,Anthony's Pizzeria & Restaurant,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Meltz,Meltz,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Guinevere's Coffee,Guinevere's Coffee,0,奥兰多其他,0.0,0.0,0.0
+其他美食,K & B Crabhouse,K & B Crabhouse,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Lechonera Amor Amor,Lechonera Amor Amor,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Culpeppers,Culpeppers,0,,0.0,0.0,0.0
+其他美食,Pebbles Restaurant,Pebbles Restaurant,0,,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,,0.0,0.0,0.0
+其他美食,Mahogany Grille & Lounge,Mahogany Grille & Lounge,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Brooklyn Pizza,Brooklyn Pizza,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Orlando China Kitchen,Orlando China Kitchen,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Geneva Pizza,Geneva Pizza,0,奥兰多其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Egg Roll 99,Egg Roll 99,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Blondies,Blondies,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Gustoso Pizza,Gustoso Pizza,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Winghouse 16,Winghouse 16,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Golden Corral,Golden Corral,0,奥兰多其他,0.0,0.0,0.0
+其他美食,"Goldlen Corral Buffet & Grill, #0731","Goldlen Corral Buffet & Grill, #0731",0,奥兰多其他,0.0,0.0,0.0
+其他美食,ZaZa Cuban Diner,ZaZa Cuban Diner,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Big Fin Seafood Kitchen LLC,Big Fin Seafood Kitchen LLC,0,,0.0,0.0,0.0
+其他美食,Ben & Jerry's,Ben & Jerry's,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Kobe Japanese Steak House,Kobe Japanese Steak House,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Maoz Vegetarian Orlando,Maoz Vegetarian Orlando,0,奥兰多其他,0.0,0.0,0.0
+其他美食,Mc Donalds,Mc Donalds,0,奥兰多其他,0.0,0.0,0.0

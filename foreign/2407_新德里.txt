@@ -1,0 +1,73 @@
+中餐,Monsoon,Monsoon,0,,7.1,7.1,7.1
+中餐,Jade,Jade,0,,7.1,7.1,7.1
+日韩料理,Wasabi By Morimoto,Wasabi By Morimoto,0,,7.2,7.2,7.2
+西式正餐,La Tagliatella,La Tagliatella,0,英迪拉甘地国际机场,6.9,6.9,6.9
+西式正餐,Little Italy,Little Italy,0,,6.9,6.7,6.7
+西式快餐,Pizza Hut,Pizza Hut,0,,8.1,8.1,8.2
+西式快餐,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+西式快餐,Domino's Pizza,Domino's Pizza,0,,7.1,7.1,7.1
+西式快餐,Pizza Hut,Pizza Hut,0,,7.2,7.2,7.2
+西式快餐,iOg印度,iOg印度,0,,0.0,0.0,0.0
+烧烤,BBQ KIng,BBQ KIng,0,,7.1,7.0,7.0
+烧烤,Barbeque Nation,Barbeque Nation,0,,7.2,7.2,7.2
+咖啡厅,Costa Coffee,Costa Coffee,0,,7.9,7.9,7.4
+咖啡厅,Hard Rock Cafe,Hard Rock Cafe,0,,7.4,7.4,7.4
+咖啡厅,Cafe at 3,Cafe at 3,0,,6.8,7.2,7.2
+咖啡厅,United Coffee House,United Coffee House,0,,7.2,7.2,7.2
+咖啡厅,Warehouse Cafe,Warehouse Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.9,6.9,6.9
+咖啡厅,New Madras Cafe,New Madras Cafe,0,,7.0,7.0,7.0
+咖啡厅,Boombox Cafe,Boombox Cafe,0,,6.9,6.9,6.9
+咖啡厅,cafe coffee day lounge,cafe coffee day lounge,0,,6.8,6.8,7.2
+咖啡厅,Costa Coffee,Costa Coffee,0,,6.9,6.9,6.9
+咖啡厅,Carnatic Cafe,Carnatic Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Lota,Cafe Lota,0,,7.2,7.2,7.2
+咖啡厅,Boombox Cafe,Boombox Cafe,0,,7.0,6.9,7.0
+咖啡厅,Cafe Morisson,Cafe Morisson,0,,7.2,6.8,7.2
+咖啡厅,The Flying Saucer Cafe,The Flying Saucer Cafe,0,,7.1,6.8,7.1
+咖啡厅,Dunkin' Donuts,Dunkin' Donuts,0,,7.1,7.1,7.1
+咖啡厅,The Big Chill Cafe,The Big Chill Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Festa,Cafe Festa,0,,7.2,7.2,7.2
+咖啡厅,The Big Chill Cafe,The Big Chill Cafe,0,,7.2,7.2,7.2
+咖啡厅,Market Cafe and Bar,Market Cafe and Bar,0,,7.1,7.1,7.1
+咖啡厅,Cafe Uno,Cafe Uno,0,,7.1,7.1,7.1
+咖啡厅,Summer House Cafe,Summer House Cafe,0,,6.9,6.9,6.9
+咖啡厅,Chew - Pan Asian Cafe,Chew - Pan Asian Cafe,0,,7.1,7.1,7.1
+咖啡厅,yellow brick cafe,yellow brick cafe,0,,7.0,7.0,7.0
+咖啡厅,Green Chilli,Green Chilli,0,,7.0,7.0,7.0
+咖啡厅,Barista Lavazza,Barista Lavazza,0,,6.9,6.9,6.9
+咖啡厅,Atul Chaat Corner,Atul Chaat Corner,0,,7.1,7.0,7.0
+咖啡厅,"Cafe Coffee Day Lounge, Hauz Khas, New Delhi","Cafe Coffee Day Lounge, Hauz Khas, New Delhi",0,,6.9,6.9,6.9
+咖啡厅,Chimney Corner,Chimney Corner,0,,6.9,6.9,6.9
+咖啡厅,Cafe Diva,Cafe Diva,0,,7.1,7.1,7.1
+咖啡厅,The Pavilion,The Pavilion,0,,7.2,7.2,7.2
+咖啡厅,Flipside Cafe,Flipside Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Turtle,Cafe Turtle,0,,7.2,7.2,7.2
+咖啡厅,Barista Lavazza,Barista Lavazza,0,,6.9,6.9,6.9
+咖啡厅,Mocha,Mocha,0,,6.8,6.8,7.1
+咖啡厅,Urban Cafe,Urban Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Bikaner,Cafe Bikaner,0,,6.7,6.7,6.7
+咖啡厅,Potbelly Rooftop Cafe,Potbelly Rooftop Cafe,0,,7.1,7.1,7.1
+咖啡厅,Oberoi Biryani Corner,Oberoi Biryani Corner,0,,7.0,6.9,6.9
+咖啡厅,Costa Coffee,Costa Coffee,0,,6.9,6.9,6.9
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.9,6.9,6.9
+咖啡厅,Costa,Costa,0,,7.1,7.1,7.1
+咖啡厅,Sakley's The Mountain Cafe,Sakley's The Mountain Cafe,0,,7.0,7.0,7.0
+咖啡厅,"Amalgamated Bean Coffee Trading Co.,Ltd.","Amalgamated Bean Coffee Trading Co.,Ltd.",0,,0.0,0.0,0.0
+面包甜点,HALDIRAM'S,HALDIRAM'S,0,北德里,7.4,7.4,7.4
+面包甜点,Bistro,Bistro,0,,7.1,7.0,7.1
+面包甜点,Quality Cake Shop,Quality Cake Shop,0,,7.1,7.0,7.0
+面包甜点,"Elma's Bakery, Cakes and Tea room","Elma's Bakery, Cakes and Tea room",0,,7.2,7.2,7.2
+面包甜点,Haldirams,Haldirams,0,,7.2,7.2,7.2
+酒吧,Island Bar - Shangri Las Eros Hotel,Island Bar - Shangri Las Eros Hotel,0,,8.1,8.1,8.1
+酒吧,Bar Be Que Nation,Bar Be Que Nation,0,,6.8,6.8,8.3
+酒吧,Rodeo,Rodeo,0,,7.2,7.2,7.2
+酒吧,delhi daredevil's bar,delhi daredevil's bar,0,,7.1,7.1,7.1
+酒吧,Have More,Have More,0,,7.2,7.2,7.2
+酒吧,My Bar Square,My Bar Square,0,,6.9,6.9,7.0
+酒吧,Fez Dining Bar,Fez Dining Bar,0,,7.0,7.0,7.0
+酒吧,Sakura,Sakura,0,,7.2,7.2,7.2
+酒吧,Club Pangaea,Club Pangaea,0,,7.0,7.0,7.0
+酒吧,My Bar Lounge and Restaurant,My Bar Lounge and Restaurant,0,,7.0,6.9,7.0
+酒吧,Castle 9,Castle 9,0,,0.0,0.0,0.0
+更多美食,Bengali Sweet House,Bengali Sweet House,0,,7.2,7.2,6.8

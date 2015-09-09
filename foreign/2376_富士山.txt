@@ -1,0 +1,285 @@
+日本料理,ほうとう不動,ほうとう不動,0,富士河口湖町,8.0,7.4,7.5
+日本料理,みはらし亭,みはらし亭,0,,7.2,7.1,7.1
+日本料理,富士山五合目,富士山五合目,0,富士吉田市,7.5,7.5,7.5
+日本料理,さわやか,さわやか,0,,7.7,7.7,7.9
+日本料理,松屋,松屋,0,,8.3,7.3,8.3
+日本料理,Restaurant Lakeside,Restaurant Lakeside,0,富士河口湖町,0.0,0.0,0.0
+日本料理,精进湖温泉酒店餐厅,精进湖温泉酒店餐厅,0,,7.3,7.3,8.1
+日本料理,Unayoshi,Unayoshi,0,富士吉田市,0.0,0.0,0.0
+日本料理,五郎八,五郎八,0,,6.9,6.9,6.9
+日本料理,"Houtou Fudou, Kawaguchikokita Honten","Houtou Fudou, Kawaguchikokita Honten",0,富士河口湖町,0.0,0.0,0.0
+日本料理,Houtou Fudou (Kawaguchiko Minami),Houtou Fudou (Kawaguchiko Minami),0,富士河口湖町,0.0,0.0,0.0
+日本料理,富士山中湖ホテル,富士山中湖ホテル,0,,7.4,7.4,7.4
+日本料理,Tomoka,Tomoka,0,富士河口湖町,0.0,0.0,0.0
+日本料理,Katoen,Katoen,0,山中湖村,0.0,0.0,0.0
+日本料理,Kochanshokudo,Kochanshokudo,0,富士吉田市,0.0,0.0,0.0
+日本料理,Tonkatsugenroku,Tonkatsugenroku,0,富士吉田市,0.0,0.0,0.0
+日本料理,Yakinikuhanten Keishoen,Yakinikuhanten Keishoen,0,富士市,0.0,0.0,0.0
+日本料理,Fujiya,Fujiya,0,富士吉田市,0.0,0.0,0.0
+日本料理,Kijitei,Kijitei,0,富士河口湖町,0.0,0.0,0.0
+日本料理,Jinbeechaya,Jinbeechaya,0,富士河口湖町,0.0,0.0,0.0
+日本料理,Restaurant Uminoie,Restaurant Uminoie,0,富士吉田市,0.0,0.0,0.0
+日本料理,Tetsuan,Tetsuan,0,富士河口湖町,0.0,0.0,0.0
+日本料理,Kappogensen,Kappogensen,0,富士河口湖町,0.0,0.0,0.0
+日本料理,Roadside Station Fuji Yoshida,Roadside Station Fuji Yoshida,0,山中湖村,0.0,0.0,0.0
+日本料理,Irohanihoheto Fuji Ekimae,Irohanihoheto Fuji Ekimae,0,富士市,0.0,0.0,0.0
+日本料理,Buffet Restaurant Fujisan,Buffet Restaurant Fujisan,0,富士宫市,0.0,0.0,0.0
+日本料理,Hoto Fudo Higashikoijiten,Hoto Fudo Higashikoijiten,0,富士河口湖町,0.0,0.0,0.0
+日本料理,Tsukumen Miwa 69'n,Tsukumen Miwa 69'n,0,富士河口湖町,0.0,0.0,0.0
+日本料理,Nidaime Uogashi Gotenba,Nidaime Uogashi Gotenba,0,,0.0,0.0,0.0
+日本料理,Sanrokuen,Sanrokuen,0,富士河口湖町,0.0,0.0,0.0
+日本料理,Denny's Yamanakako,Denny's Yamanakako,0,山中湖村,0.0,0.0,0.0
+日本料理,Izakayaegao,Izakayaegao,0,富士吉田市,0.0,0.0,0.0
+日本料理,Sun Kiyosumi,Sun Kiyosumi,0,富士河口湖町,0.0,0.0,0.0
+日本料理,Sakigake,Sakigake,0,富士山其他,0.0,0.0,0.0
+日本料理,Kuimonoya Wan Gotenba,Kuimonoya Wan Gotenba,0,,0.0,0.0,0.0
+日本料理,Komeda Coffee,Komeda Coffee,0,,0.0,0.0,0.0
+日本料理,Kawazuya,Kawazuya,0,富士河口湖町,0.0,0.0,0.0
+日本料理,Maruten Fuji,Maruten Fuji,0,富士市,0.0,0.0,0.0
+日本料理,"Kabochatei,Takaoka","Kabochatei,Takaoka",0,富士/富士宫,0.0,0.0,0.0
+日本料理,Tavern Kinkabu,Tavern Kinkabu,0,,0.0,0.0,0.0
+日本料理,Okonomiyaki Dohtonbori Gotenba,Okonomiyaki Dohtonbori Gotenba,0,,0.0,0.0,0.0
+日本料理,Kawaguchiko Craft Park,Kawaguchiko Craft Park,0,富士河口湖町,0.0,0.0,0.0
+日本料理,Hananomai Fuji North Entrance,Hananomai Fuji North Entrance,0,富士/富士宫,0.0,0.0,0.0
+日本料理,Ojimaya,Ojimaya,0,富士宫市,0.0,0.0,0.0
+日本料理,Café Restaurant Flowers,Café Restaurant Flowers,0,富士市,0.0,0.0,0.0
+日本料理,Uogashisushi,Uogashisushi,0,富士市,0.0,0.0,0.0
+日本料理,Japanese restaurant Rai,Japanese restaurant Rai,0,富士市,0.0,0.0,0.0
+日本料理,Suruga Kyo,Suruga Kyo,0,富士市,0.0,0.0,0.0
+日本料理,Safari Restaurant,Safari Restaurant,0,裾野市,0.0,0.0,0.0
+日本料理,Ringo-ya,Ringo-ya,0,御殿场市,0.0,0.0,0.0
+日本料理,Ginmeshi,Ginmeshi,0,富士市,0.0,0.0,0.0
+日本料理,Serupoa,Serupoa,0,御殿场市,0.0,0.0,0.0
+日本料理,"Tsubohachi, Yoshiwara Chuo","Tsubohachi, Yoshiwara Chuo",0,富士/富士宫,0.0,0.0,0.0
+日本料理,居酒屋 賎机はん兵卫,居酒屋 賎机はん兵卫,0,,0.0,0.0,0.0
+日本料理,静冈甲罗本店,静冈甲罗本店,0,,0.0,0.0,0.0
+日本料理,摩天楼,摩天楼,0,,0.0,0.0,0.0
+日本料理,骏河居酒屋 福助,骏河居酒屋 福助,0,,0.0,0.0,0.0
+日本料理,札幌かに本家 静冈駅前店,札幌かに本家 静冈駅前店,0,,0.0,0.0,0.0
+日本料理,おい川,おい川,0,,0.0,0.0,0.0
+日本料理,割烹 三日月,割烹 三日月,0,,0.0,0.0,0.0
+日本料理,だるま,だるま,0,,0.0,0.0,0.0
+日本料理,ふきのとう,ふきのとう,0,,0.0,0.0,0.0
+日本料理,三笑亭本店,三笑亭本店,0,,0.0,0.0,0.0
+日本料理,佳肴,佳肴,0,,0.0,0.0,0.0
+日本料理,京風料亭 正平荘,京風料亭 正平荘,0,,0.0,0.0,0.0
+日本料理,Chinese Restaurant Misaka,Chinese Restaurant Misaka,0,富士市,0.0,0.0,0.0
+日本料理,アボンドンス,アボンドンス,0,,0.0,0.0,0.0
+日本料理,住吉屋,住吉屋,0,,0.0,0.0,0.0
+日本料理,しゃぶ禅 静冈店,しゃぶ禅 静冈店,0,,0.0,0.0,0.0
+日本料理,河太郎,河太郎,0,,0.0,0.0,0.0
+日本料理,さわ,さわ,0,,0.0,0.0,0.0
+日本料理,江戸驹,江戸驹,0,,0.0,0.0,0.0
+日本料理,滴翠庵 翠峰,滴翠庵 翠峰,0,,0.0,0.0,0.0
+日本料理,あなごや,あなごや,0,,0.0,0.0,0.0
+日本料理,府中庵 待月楼,府中庵 待月楼,0,,0.0,0.0,0.0
+日本料理,茄子の花 无庵,茄子の花 无庵,0,,0.0,0.0,0.0
+日本料理,まつなみ,まつなみ,0,,0.0,0.0,0.0
+日本料理,日本橋,日本橋,0,,0.0,0.0,0.0
+日本料理,铃茂,铃茂,0,,0.0,0.0,0.0
+日本料理,Hotel Sunroute Shimizu,Hotel Sunroute Shimizu,0,,0.0,0.0,0.0
+日本料理,丁子屋,丁子屋,0,,0.0,0.0,0.0
+日本料理,みやもと河岸の市店,みやもと河岸の市店,0,,0.0,0.0,0.0
+日本料理,天文本店,天文本店,0,,0.0,0.0,0.0
+日本料理,梅の花 静冈店,梅の花 静冈店,0,,0.0,0.0,0.0
+日本料理,藤鮨,藤鮨,0,,0.0,0.0,0.0
+日本料理,沙山亭,沙山亭,0,,0.0,0.0,0.0
+日本料理,とみ井,とみ井,0,,0.0,0.0,0.0
+日本料理,のっけ家 清水店,のっけ家 清水店,0,,0.0,0.0,0.0
+日本料理,富海亭,富海亭,0,,0.0,0.0,0.0
+日本料理,ゆるり屋 二光,ゆるり屋 二光,0,,0.0,0.0,0.0
+日本料理,乃だや,乃だや,0,,0.0,0.0,0.0
+日本料理,あつみ旬菜游膳,あつみ旬菜游膳,0,,0.0,0.0,0.0
+日本料理,四季膳しば田,四季膳しば田,0,,0.0,0.0,0.0
+日本料理,十枚荘 静冈 JYUMAISOU,十枚荘 静冈 JYUMAISOU,0,,0.0,0.0,0.0
+日本料理,大村バー,大村バー,0,,0.0,0.0,0.0
+日本料理,炭焼き鳗瞬,炭焼き鳗瞬,0,,0.0,0.0,0.0
+日本料理,オイスターバークイーンエンジェル,オイスターバークイーンエンジェル,0,,0.0,0.0,0.0
+日本料理,器いろ,器いろ,0,,0.0,0.0,0.0
+日本料理,入船鮨南店,入船鮨南店,0,,0.0,0.0,0.0
+日本料理,大庄水産静冈駅前店,大庄水産静冈駅前店,0,,0.0,0.0,0.0
+日本料理,末广鮨,末广鮨,0,,0.0,0.0,0.0
+日本料理,車や,車や,0,,0.0,0.0,0.0
+日本料理,吽治,吽治,0,,0.0,0.0,0.0
+日本料理,辻むら,辻むら,0,,0.0,0.0,0.0
+日本料理,吉原温泉かつら馆,吉原温泉かつら馆,0,,0.0,0.0,0.0
+日本料理,治作,治作,0,,0.0,0.0,0.0
+日本料理,一松园,一松园,0,,0.0,0.0,0.0
+日本料理,花To実,花To実,0,,0.0,0.0,0.0
+日本料理,八丁蔵,八丁蔵,0,,0.0,0.0,0.0
+日本料理,懐石游膳 椿,懐石游膳 椿,0,,0.0,0.0,0.0
+日本料理,安堵,安堵,0,,0.0,0.0,0.0
+日本料理,石桥うなぎ屋,石桥うなぎ屋,0,,0.0,0.0,0.0
+日本料理,辰金支店,辰金支店,0,,0.0,0.0,0.0
+日本料理,纪尾井,纪尾井,0,,0.0,0.0,0.0
+日本料理,季节料理 和心,季节料理 和心,0,,0.0,0.0,0.0
+日本料理,もてなし 桐や,もてなし 桐や,0,,0.0,0.0,0.0
+日本料理,手づか,手づか,0,,0.0,0.0,0.0
+日本料理,崇月,崇月,0,,0.0,0.0,0.0
+日本料理,なすび総本店,なすび総本店,0,,0.0,0.0,0.0
+日本料理,沙沙亭,沙沙亭,0,,0.0,0.0,0.0
+日本料理,いわし料理・善,いわし料理・善,0,,0.0,0.0,0.0
+日本料理,Doma Doma,Doma Doma,0,,0.0,0.0,0.0
+日本料理,すぎ村,すぎ村,0,,0.0,0.0,0.0
+日本料理,见月茶屋,见月茶屋,0,,0.0,0.0,0.0
+日本料理,海どん,海どん,0,,0.0,0.0,0.0
+日本料理,名代 宇奈とと 静冈店,名代 宇奈とと 静冈店,0,,0.0,0.0,0.0
+日本料理,天峰,天峰,0,,0.0,0.0,0.0
+日本料理,八十伴 本店,八十伴 本店,0,,0.0,0.0,0.0
+日本料理,割烹 みなかみ,割烹 みなかみ,0,,0.0,0.0,0.0
+日本料理,割烹 海さか,割烹 海さか,0,,0.0,0.0,0.0
+日本料理,トロロ屋,トロロ屋,0,,0.0,0.0,0.0
+日本料理,吉おか四季食彩,吉おか四季食彩,0,,0.0,0.0,0.0
+日本料理,月の花,月の花,0,,0.0,0.0,0.0
+日本料理,池川支店,池川支店,0,,0.0,0.0,0.0
+日本料理,辰金本店,辰金本店,0,,0.0,0.0,0.0
+日本料理,千の蔵,千の蔵,0,,0.0,0.0,0.0
+日本料理,割烹旅館 松寿(しょうじゅ),割烹旅館 松寿(しょうじゅ),0,,0.0,0.0,0.0
+日本料理,かん吉清水店,かん吉清水店,0,,0.0,0.0,0.0
+日本料理,薊居酒屋,薊居酒屋,0,,0.0,0.0,0.0
+日本料理,鳥治キッチン,鳥治キッチン,0,,0.0,0.0,0.0
+日本料理,新生丸,新生丸,0,,0.0,0.0,0.0
+日本料理,海鮮食家福一丸,海鮮食家福一丸,0,,0.0,0.0,0.0
+日本料理,春夏秋冬 醸し人,春夏秋冬 醸し人,0,,0.0,0.0,0.0
+日本料理,くりた,くりた,0,,0.0,0.0,0.0
+日本料理,清水すし処 海エスパルスドリームプラザ店,清水すし処 海エスパルスドリームプラザ店,0,,0.0,0.0,0.0
+日本料理,さかな屋,さかな屋,0,,0.0,0.0,0.0
+日本料理,おおいし,おおいし,0,,0.0,0.0,0.0
+日本料理,清水まぐろ館 海山,清水まぐろ館 海山,0,,0.0,0.0,0.0
+日本料理,のっけ家 豊田店,のっけ家 豊田店,0,,0.0,0.0,0.0
+日本料理,リバーサイドイン玉川,リバーサイドイン玉川,0,,0.0,0.0,0.0
+日本料理,うなぎ亭,うなぎ亭,0,,0.0,0.0,0.0
+东南亚菜,Italian Tomato Club 1st,Italian Tomato Club 1st,0,河口湖/西阁,0.0,0.0,0.0
+东南亚菜,Neparuryoririnka,Neparuryoririnka,0,河口湖/西阁,0.0,0.0,0.0
+中餐,富士山花园温泉酒店餐厅,富士山花园温泉酒店餐厅,0,山中湖村,7.6,7.6,7.7
+中餐,Kanputei,Kanputei,0,富士河口湖町,0.0,0.0,0.0
+中餐,Meitetsusaikan,Meitetsusaikan,0,,0.0,0.0,0.0
+中餐,Shanhaisaikan,Shanhaisaikan,0,河口湖/西阁,0.0,0.0,0.0
+中餐,昇龍,昇龍,0,,0.0,0.0,0.0
+海鲜,宝珍菜馆,宝珍菜馆,0,,7.1,7.1,7.1
+海鲜,中华酒家福临门,中华酒家福临门,0,,7.1,7.0,7.0
+海鲜,Sakana Ittohei Yoshiwara,Sakana Ittohei Yoshiwara,0,富士市,0.0,0.0,0.0
+海鲜,鱼民 静冈呉服町通り店,鱼民 静冈呉服町通り店,0,,0.0,0.0,0.0
+海鲜,鱼鱼や一八,鱼鱼や一八,0,,0.0,0.0,0.0
+海鲜,やがら(宝鱼),やがら(宝鱼),0,,0.0,0.0,0.0
+西式正餐,Forte Legame,Forte Legame,0,山中湖村,0.0,0.0,0.0
+西式正餐,Kuishinbogomi,Kuishinbogomi,0,,0.0,0.0,0.0
+西式正餐,Chianti Como,Chianti Como,0,山中湖村,0.0,0.0,0.0
+西式正餐,Trattoria La Luce,Trattoria La Luce,0,河口湖/西阁,0.0,0.0,0.0
+西式正餐,Casa Osano,Casa Osano,0,富士河口湖町,0.0,0.0,0.0
+西式正餐,German Restaurant Lindenbaum,German Restaurant Lindenbaum,0,御殿场市,0.0,0.0,0.0
+西式正餐,Vecchia Lanterna,Vecchia Lanterna,0,富士市,0.0,0.0,0.0
+西式正餐,Berubyu,Berubyu,0,富士河口湖町,0.0,0.0,0.0
+西式正餐,Stakehouse Bronco Billy,Stakehouse Bronco Billy,0,富士市,0.0,0.0,0.0
+西式正餐,Resutorankonahausu,Resutorankonahausu,0,富士河口湖町,0.0,0.0,0.0
+西式正餐,Tanta Roba del Museo Gotemba,Tanta Roba del Museo Gotemba,0,,0.0,0.0,0.0
+西式正餐,Fiore,Fiore,0,富士河口湖町,0.0,0.0,0.0
+西式正餐,Celtis,Celtis,0,富士/富士宫,0.0,0.0,0.0
+西式正餐,Resutoranrukkora,Resutoranrukkora,0,河口湖/西阁,0.0,0.0,0.0
+西式正餐,Pizza-la Express,Pizza-la Express,0,富士山其他,0.0,0.0,0.0
+西式正餐,Saizeriya,Saizeriya,0,富士市,0.0,0.0,0.0
+西式正餐,Shirubanzu,Shirubanzu,0,富士河口湖町,0.0,0.0,0.0
+西式正餐,Sensho,Sensho,0,富士吉田市,0.0,0.0,0.0
+西式正餐,Frenchkitchen & Pasta Pure Aile,Frenchkitchen & Pasta Pure Aile,0,富士/富士宫,0.0,0.0,0.0
+西式快餐,Lotteria Fujikyu Highland,Lotteria Fujikyu Highland,0,河口湖/西阁,7.4,8.1,8.1
+西式快餐,Mosubaga Fujikyu Highland,Mosubaga Fujikyu Highland,0,富士吉田市,0.0,0.0,0.0
+西式快餐,Berude,Berude,0,河口湖/西阁,0.0,0.0,0.0
+西式快餐,McDonald's Fuji City Hall-dori,McDonald's Fuji City Hall-dori,0,富士/富士宫,0.0,0.0,0.0
+韩国料理,Karubi Icho,Karubi Icho,0,富士山其他,0.0,0.0,0.0
+烧烤,HANA烤肉,HANA烤肉,0,富士河口湖町,8.4,8.4,8.4
+烧烤,牛角,牛角,0,河口湖/西阁,6.9,6.7,6.9
+酒吧,Restaurant Fujiyama,Restaurant Fujiyama,0,富士吉田市,0.0,0.0,0.0
+酒吧,Stew Restaurant Casserole,Stew Restaurant Casserole,0,山中湖村,0.0,0.0,0.0
+酒吧,Konohana Museum Olson-san-no-ichigo,Konohana Museum Olson-san-no-ichigo,0,河口湖/西阁,0.0,0.0,0.0
+酒吧,Trattoria Firenze,Trattoria Firenze,0,,0.0,0.0,0.0
+酒吧,Sylvans,Sylvans,0,富士河口湖町,0.0,0.0,0.0
+酒吧,Kakuyamasuisan,Kakuyamasuisan,0,富士市,0.0,0.0,0.0
+酒吧,ブルーラベル,ブルーラベル,0,,0.0,0.0,0.0
+酒吧,ブルーラベル,ブルーラベル,0,,0.0,0.0,0.0
+小吃,Takekawaudon,Takekawaudon,0,富士河口湖町,0.0,0.0,0.0
+小吃,中国料理 白珍,中国料理 白珍,0,富士宫市,0.0,0.0,0.0
+小吃,Momijitei,Momijitei,0,富士河口湖町,0.0,0.0,0.0
+小吃,Saika,Saika,0,富士河口湖町,0.0,0.0,0.0
+小吃,Kuranosuke,Kuranosuke,0,富士河口湖町,0.0,0.0,0.0
+小吃,Sanukiya,Sanukiya,0,富士吉田市,0.0,0.0,0.0
+小吃,Saigusaudon,Saigusaudon,0,富士吉田市,0.0,0.0,0.0
+小吃,Genki,Genki,0,富士吉田市,0.0,0.0,0.0
+小吃,Happongi,Happongi,0,富士河口湖町,0.0,0.0,0.0
+小吃,Furin,Furin,0,富士河口湖町,0.0,0.0,0.0
+小吃,Fujiyoshi,Fujiyoshi,0,富士河口湖町,0.0,0.0,0.0
+小吃,Ogaudon,Ogaudon,0,富士河口湖町,0.0,0.0,0.0
+小吃,Miyaki,Miyaki,0,富士吉田市,0.0,0.0,0.0
+小吃,"Koshu Hoto Kosaku, Yamanakako","Koshu Hoto Kosaku, Yamanakako",0,山中湖村,0.0,0.0,0.0
+小吃,Kinetsukiudon,Kinetsukiudon,0,富士山其他,0.0,0.0,0.0
+小吃,Sanuki Udon Fukuume,Sanuki Udon Fukuume,0,长泉町,0.0,0.0,0.0
+小吃,Higashiura,Higashiura,0,河口湖/西阁,0.0,0.0,0.0
+小吃,Sakuraiudon,Sakuraiudon,0,富士吉田市,0.0,0.0,0.0
+小吃,Shirasudon,Shirasudon,0,富士吉田市,0.0,0.0,0.0
+小吃,Hanaya,Hanaya,0,富士吉田市,0.0,0.0,0.0
+小吃,Menzufujiyama,Menzufujiyama,0,富士吉田市,0.0,0.0,0.0
+小吃,Kenkouren,Kenkouren,0,富士吉田市,0.0,0.0,0.0
+小吃,Yamazakiyaudon,Yamazakiyaudon,0,富士吉田市,0.0,0.0,0.0
+小吃,Arakurayaudon,Arakurayaudon,0,河口湖/西阁,0.0,0.0,0.0
+小吃,Sugimoto,Sugimoto,0,富士宫市,0.0,0.0,0.0
+小吃,Arakitei,Arakitei,0,富士吉田市,0.0,0.0,0.0
+小吃,Misakiudon,Misakiudon,0,富士吉田市,0.0,0.0,0.0
+小吃,Utachan,Utachan,0,富士宫市,0.0,0.0,0.0
+小吃,Rao,Rao,0,富士吉田市,0.0,0.0,0.0
+小吃,Sokian,Sokian,0,御殿场市,0.0,0.0,0.0
+小吃,Genji,Genji,0,富士吉田市,0.0,0.0,0.0
+小吃,Teuchisobasunaba,Teuchisobasunaba,0,河口湖/西阁,0.0,0.0,0.0
+小吃,Bankara Fujinomiya,Bankara Fujinomiya,0,富士宫市,0.0,0.0,0.0
+小吃,Kagariudon,Kagariudon,0,富士山其他,0.0,0.0,0.0
+小吃,Gmen Fujimori Gotemba,Gmen Fujimori Gotemba,0,,0.0,0.0,0.0
+小吃,Shintaku,Shintaku,0,富士吉田市,0.0,0.0,0.0
+小吃,Miura,Miura,0,富士吉田市,0.0,0.0,0.0
+小吃,Charanporan,Charanporan,0,富士吉田市,0.0,0.0,0.0
+小吃,Kiyochanudon,Kiyochanudon,0,富士吉田市,0.0,0.0,0.0
+小吃,Sengenchaya,Sengenchaya,0,富士吉田市,0.0,0.0,0.0
+小吃,Ogiya,Ogiya,0,富士吉田市,0.0,0.0,0.0
+小吃,Menkyokaiden,Menkyokaiden,0,富士吉田市,0.0,0.0,0.0
+小吃,Ikki,Ikki,0,富士河口湖町,0.0,0.0,0.0
+小吃,Horihataudon,Horihataudon,0,山中湖村,0.0,0.0,0.0
+小吃,Shoyanoie,Shoyanoie,0,富士山其他,0.0,0.0,0.0
+小吃,Tsuruyashokudo,Tsuruyashokudo,0,富士吉田市,0.0,0.0,0.0
+小吃,Udonorihana,Udonorihana,0,富士吉田市,0.0,0.0,0.0
+小吃,Shigenoyashokudo,Shigenoyashokudo,0,富士吉田市,0.0,0.0,0.0
+小吃,Iriyamaudon,Iriyamaudon,0,富士吉田市,0.0,0.0,0.0
+小吃,Miyashita- 停业,Miyashita- 停业,0,河口湖/西阁,0.0,0.0,0.0
+小吃,Udonnokyuchan- 停业,Udonnokyuchan- 停业,0,河口湖/西阁,0.0,0.0,0.0
+小吃,Maejima,Maejima,0,富士宫市,0.0,0.0,0.0
+咖啡厅,Uemon Cafe,Uemon Cafe,0,富士河口湖町,0.0,0.0,0.0
+咖啡厅,Milky Way,Milky Way,0,富士河口湖町,0.0,0.0,0.0
+咖啡厅,Yume,Yume,0,富士吉田市,0.0,0.0,0.0
+咖啡厅,Starbucks Fujigawa Service Area Lower,Starbucks Fujigawa Service Area Lower,0,富士市,0.0,0.0,0.0
+咖啡厅,Paper Moon,Paper Moon,0,山中湖村,0.0,0.0,0.0
+咖啡厅,Fujiyama Coffee,Fujiyama Coffee,0,富士市,0.0,0.0,0.0
+咖啡厅,Shugameipuru,Shugameipuru,0,山中湖村,0.0,0.0,0.0
+咖啡厅,Kohisaron,Kohisaron,0,河口湖/西阁,0.0,0.0,0.0
+咖啡厅,Aseniumu,Aseniumu,0,富士河口湖町,0.0,0.0,0.0
+咖啡厅,Kammijaya Pukuichi,Kammijaya Pukuichi,0,富士宫市,0.0,0.0,0.0
+咖啡厅,Matsuyasabo,Matsuyasabo,0,河口湖/西阁,0.0,0.0,0.0
+面包甜点,La Verdure,La Verdure,0,富士河口湖町,0.0,0.0,0.0
+面包甜点,歌帝梵,歌帝梵,0,,0.0,0.0,0.0
+面包甜点,Cocon & Abend,Cocon & Abend,0,河口湖/西阁,0.0,0.0,0.0
+面包甜点,Kindaruma,Kindaruma,0,富士河口湖町,0.0,0.0,0.0
+面包甜点,Kindaruma,Kindaruma,0,河口湖/西阁,0.0,0.0,0.0
+面包甜点,Kikyoyatojiro,Kikyoyatojiro,0,富士吉田市,0.0,0.0,0.0
+面包甜点,Chateraisefuji Kawaguchikoten,Chateraisefuji Kawaguchikoten,0,富士河口湖町,0.0,0.0,0.0
+面包甜点,La verdure Kimuraya Honten,La verdure Kimuraya Honten,0,富士吉田市,0.0,0.0,0.0
+面包甜点,Cafe Pepper Rose,Cafe Pepper Rose,0,山中湖村,0.0,0.0,0.0
+面包甜点,石舟庵,石舟庵,0,,0.0,0.0,0.0
+面包甜点,FAUCHON PARIS,FAUCHON PARIS(遠鉄百貨店),0,,0.0,0.0,0.0
+面包甜点,Quil Fait Bon,Quil Fait Bon(静岡店),0,,0.0,0.0,0.0
+面包甜点,Quil Fait Bon,Quil Fait Bon(浜松店),0,,0.0,0.0,0.0
+其他美食,Gusto,Gusto,0,河口湖/西阁,6.9,6.9,6.9
+其他美食,La Douceur,La Douceur,0,河口湖/西阁,0.0,0.0,0.0
+其他美食,Gusto Kawaguchiko,Gusto Kawaguchiko,0,河口湖/西阁,0.0,0.0,0.0
+其他美食,Miu's Cafe,Miu's Cafe,0,河口湖/西阁,0.0,0.0,0.0
+其他美食,Komekome,Komekome,0,富士市,0.0,0.0,0.0
+其他美食,Warawara Fuji North Entrance Ekimae,Warawara Fuji North Entrance Ekimae,0,富士/富士宫,0.0,0.0,0.0
+其他美食,Motosukan,Motosukan,0,正治阁/本栖湖,0.0,0.0,0.0
+其他美食,Sakigake Kawaguchiko,Sakigake Kawaguchiko,0,河口湖/西阁,0.0,0.0,0.0
+其他美食,Gotemba India,Gotemba India,0,富士山其他,0.0,0.0,0.0
+其他美食,Gomihacchin Kawashimada,Gomihacchin Kawashimada,0,富士山其他,0.0,0.0,0.0
+其他美食,Gusto Fuji Nishikicho,Gusto Fuji Nishikicho,0,富士/富士宫,0.0,0.0,0.0

@@ -1,0 +1,102 @@
+咖啡厅,White Fence Country Cafe,White Fence Country Cafe,0,Puerto Princesa City Prop,0.0,0.0,0.0
+咖啡厅,Delishez Bar & Cafe,Delishez Bar & Cafe,0,Honda Bay-Puerto Princesa,0.0,0.0,0.0
+咖啡厅,Jambalaya Cajun Cafe,Jambalaya Cajun Cafe,0,巴拉望岛其他,0.0,0.0,0.0
+咖啡厅,Island Coffee,Island Coffee,0,巴拉望岛其他,0.0,0.0,0.0
+咖啡厅,B.O.G. Cafe,B.O.G. Cafe,0,巴拉望岛其他,0.0,0.0,0.0
+咖啡厅,IToy's Coffee Haus,IToy's Coffee Haus,0,Puerto Princesa City Prop,0.0,0.0,0.0
+咖啡厅,Judy's Resto and Bar,Judy's Resto and Bar,0,巴拉望岛其他,0.0,0.0,0.0
+酒吧,PUKKA BAR,PUKKA BAR,0,,0.0,0.0,0.0
+中餐,668 Hong Kong Chinese restaurant,668 Hong Kong Chinese restaurant,0,Puerto Princesa City Prop,0.0,0.0,0.0
+中餐,Chowking,Chowking,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Sea dive,Sea dive,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Lolo Nonoy's Food station,Lolo Nonoy's Food station,0,,0.0,0.0,0.0
+更多亚洲菜,Badjao Seafront,Badjao Seafront,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Kuweba,Kuweba,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Sanctuary Restaurant,Sanctuary Restaurant,0,倪铎,0.0,0.0,0.0
+更多亚洲菜,Ka Inato,Ka Inato,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Balinsasayaw Restaurant,Balinsasayaw Restaurant,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Taverna Luna,Taverna Luna,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Kinamai Sa Puerto,Kinamai Sa Puerto,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Viet Ville,Viet Ville,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Skylight,Skylight,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Coco Verde Beach Resort,Coco Verde Beach Resort,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Ka Inato,Ka Inato,0,Honda Bay-Puerto Princesa,0.0,0.0,0.0
+更多亚洲菜,Blue Bamboo Restaurant,Blue Bamboo Restaurant,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Kinabuch Bar & Grill,Kinabuch Bar & Grill,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Abcede's Best,Abcede's Best,0,,0.0,0.0,0.0
+更多亚洲菜,Tao Beach Bar,Tao Beach Bar,0,倪铎,0.0,0.0,0.0
+更多亚洲菜,Abanico Yacht Club,Abanico Yacht Club,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Sea Slugs,Sea Slugs,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Bacuit Grill,Bacuit Grill,0,倪铎,0.0,0.0,0.0
+更多亚洲菜,Ric Sons Bar and Restaurant,Ric Sons Bar and Restaurant,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Squidos,Squidos,0,倪铎,0.0,0.0,0.0
+更多亚洲菜,Habibi Restaurant & Shisha Cafe,Habibi Restaurant & Shisha Cafe,0,倪铎,0.0,0.0,0.0
+更多亚洲菜,Earthkeepers Garden & Restaurant,Earthkeepers Garden & Restaurant,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Pho Saigon,Pho Saigon,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Noki Nocs Savory House,Noki Nocs Savory House,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Cafe Arturo,Cafe Arturo,0,倪铎,0.0,0.0,0.0
+更多亚洲菜,Bona's Chaolong,Bona's Chaolong,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Coron Edge Restobar,Coron Edge Restobar,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Bilao at Palayok,Bilao at Palayok,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Reynoso Store,Reynoso Store,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Rene's Saigon,Rene's Saigon,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Sari's Barrio,Sari's Barrio,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,Tiki RestoBar,Tiki RestoBar,0,Puerto Princesa City Prop,0.0,0.0,0.0
+更多亚洲菜,The Alternative,The Alternative,0,倪铎,0.0,0.0,0.0
+更多亚洲菜,Khan's - KSP Mongolian Buffet Puerto Princesa,Khan's - KSP Mongolian Buffet Puerto Princesa,0,Honda Bay-Puerto Princesa,0.0,0.0,0.0
+更多亚洲菜,Baker's Kitchen,Baker's Kitchen,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Coron Village Lodge,Coron Village Lodge,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Chicken Kalibo,Chicken Kalibo,0,巴拉望岛其他,0.0,0.0,0.0
+更多亚洲菜,Hainanese Chicken Delights,Hainanese Chicken Delights,0,Puerto Princesa City Prop,0.0,0.0,0.0
+西式快餐,El Nido Boutique & Artcafe,El Nido Boutique & Artcafe,0,倪铎,0.0,0.0,0.0
+西式快餐,Jollibee,Jollibee,0,Puerto Princesa City Prop,0.0,0.0,0.0
+西式快餐,Heavenly Desserts by Dorothy,Heavenly Desserts by Dorothy,0,Puerto Princesa City Prop,0.0,0.0,0.0
+西式快餐,New Orleans,New Orleans,0,巴拉望岛其他,0.0,0.0,0.0
+西式快餐,Aloha Pizza Garden and Bakery,Aloha Pizza Garden and Bakery,0,巴拉望岛其他,0.0,0.0,0.0
+西式快餐,Bistro Bodega,Bistro Bodega,0,倪铎,0.0,0.0,0.0
+西式快餐,Casa Rosa Inn and Pizza Bar,Casa Rosa Inn and Pizza Bar,0,巴拉望岛其他,0.0,0.0,0.0
+西式快餐,ABSolute Burger,ABSolute Burger,0,巴拉望岛其他,0.0,0.0,0.0
+西式快餐,Max's Restaurant,Max's Restaurant,0,巴拉望岛其他,0.0,0.0,0.0
+西式快餐,Yellow Cab Pizza Palawan,Yellow Cab Pizza Palawan,0,Honda Bay-Puerto Princesa,0.0,0.0,0.0
+西式快餐,Artcafe,Artcafe,0,倪铎,0.0,0.0,0.0
+日韩料理,"Sky restaurant, coron","Sky restaurant, coron",0,巴拉望岛其他,0.0,0.0,0.0
+日韩料理,WE BE Sushi Restaurant,WE BE Sushi Restaurant,0,Puerto Princesa City Prop,0.0,0.0,0.0
+日韩料理,D'libayen,D'libayen,0,Honda Bay-Puerto Princesa,0.0,0.0,0.0
+日韩料理,Sumosam,Sumosam,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,米其林餐厅,米其林餐厅,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,La Terrasse,La Terrasse,0,Puerto Princesa City Prop,0.0,0.0,0.0
+西式正餐,Cadlao Resort & Restaurant,Cadlao Resort & Restaurant,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,Little Italy,Little Italy,0,倪铎,5.9,5.9,5.9
+西式正餐,Altrove,Altrove,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,Corto del Mar,Corto del Mar,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,Army Navy Burger + Burito,Army Navy Burger + Burito,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,Brujita Bar and Restaurant,Brujita Bar and Restaurant,0,,0.0,0.0,0.0
+西式正餐,Turissimo Steakhouse,Turissimo Steakhouse,0,Puerto Princesa City Prop,0.0,0.0,0.0
+西式正餐,HIbiscus Pizzeria,HIbiscus Pizzeria,0,Puerto Princesa City Prop,0.0,0.0,0.0
+西式正餐,The Gypsy's Lair Art Cafe,The Gypsy's Lair Art Cafe,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,La Tana Della Libellula,La Tana Della Libellula,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,La Sirenetta,La Sirenetta,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,Blue Marlin French and International Cuisine,Blue Marlin French and International Cuisine,0,Puerto Princesa City Prop,0.0,0.0,0.0
+西式正餐,Lucky Alofa,Lucky Alofa,0,倪铎,0.0,0.0,0.0
+西式正餐,La Salangane Restaurant,La Salangane Restaurant,0,倪铎,0.0,0.0,0.0
+西式正餐,Tio Rod's Restaurant Bar & Lounge,Tio Rod's Restaurant Bar & Lounge,0,Puerto Princesa City Prop,0.0,0.0,0.0
+西式正餐,Marber's Restaurant,Marber's Restaurant,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,El nido Corner,El nido Corner,0,倪铎,0.0,0.0,0.0
+西式正餐,White Pinoy Restaurant & Bar,White Pinoy Restaurant & Bar,0,Puerto Princesa City Prop,0.0,0.0,0.0
+西式正餐,Skybox Sports Bar and Grille,Skybox Sports Bar and Grille,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,Sei Nazioni Restaurant,Sei Nazioni Restaurant,0,倪铎,0.0,0.0,0.0
+西式正餐,McCoy's,McCoy's,0,Puerto Princesa City Prop,0.0,0.0,0.0
+西式正餐,Lonesome Carabao Lounge,Lonesome Carabao Lounge,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,Helldivers Bar,Helldivers Bar,0,巴拉望岛其他,0.0,0.0,0.0
+西式正餐,Big Flat Bread,Big Flat Bread,0,巴拉望岛其他,0.0,0.0,0.0
+海鲜,Lobster and Crab,Lobster and Crab,0,巴拉望岛其他,0.0,0.0,0.0
+海鲜,Ricson's Bar and Restaurant,Ricson's Bar and Restaurant,0,巴拉望岛其他,0.0,0.0,0.0
+海鲜,Dampa sa Mansion Seafood Restaurant,Dampa sa Mansion Seafood Restaurant,0,巴拉望岛其他,0.0,0.0,0.0
+海鲜,Seaslugs Bar and Restaurant,Seaslugs Bar and Restaurant,0,巴拉望岛其他,0.0,0.0,0.0
+烧烤,Haim Chicken Inato,Haim Chicken Inato,0,Puerto Princesa City Prop,0.0,0.0,0.0
+烧烤,CAPTAIN RIBS,CAPTAIN RIBS,0,Puerto Princesa City Prop,0.0,0.0,0.0
+烧烤,Kinabuchs,Kinabuchs,0,Puerto Princesa City Prop,0.0,0.0,0.0
+小吃,Atmosphere,Atmosphere,0,倪铎,0.0,0.0,0.0
+东南亚菜,LC's Gourmet Restaurant,LC's Gourmet Restaurant,0,Honda Bay-Puerto Princesa,0.0,0.0,0.0
+东南亚菜,Lale' Restaurant,Lale' Restaurant,0,巴拉望岛其他,0.0,0.0,0.0
+东南亚菜,La Sirenetta Restaurant & Bar,La Sirenetta Restaurant & Bar,0,巴拉望岛其他,0.0,0.0,0.0

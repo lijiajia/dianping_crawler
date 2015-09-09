@@ -1,0 +1,34 @@
+法国菜,L'Atelier,L'Atelier,0,,7.0,7.0,7.0
+其他西餐,Al Jazira,Al Jazira,0,,7.0,7.0,7.0
+快餐简餐,Chili's,Chili's,0,,7.2,7.2,7.2
+快餐简餐,Summer Place,Summer Place,0,,7.0,7.0,7.0
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+海鲜,Trattoria Toscana,Trattoria Toscana,0,,6.9,6.9,6.9
+比萨,Una Pizza,Una Pizza,0,,7.0,7.0,7.0
+比萨,Tomatomatic Pizza,Tomatomatic Pizza,0,,7.0,7.0,7.0
+比萨,Nonna Pizza,Nonna Pizza,0,,7.1,7.1,7.1
+比萨,La Pizzeria,La Pizzeria,0,,6.9,6.9,6.9
+咖啡厅,Bay Rock Cafe,Bay Rock Cafe,0,,7.1,7.3,7.2
+咖啡厅,Cafe Blanc,Cafe Blanc,0,,7.2,7.2,7.2
+咖啡厅,Momo at the Souks,Momo at the Souks,0,,7.2,7.2,7.2
+咖啡厅,Cafe de Prague,Cafe de Prague,0,,7.1,7.1,7.1
+咖啡厅,Bali,Bali,0,,7.1,7.1,7.1
+咖啡厅,Brisk Cafe,Brisk Cafe,0,,7.1,7.1,7.1
+咖啡厅,Ka3kaya Cafe,Ka3kaya Cafe,0,,7.0,7.0,7.0
+咖啡厅,Tonic Cafe Bar,Tonic Cafe Bar,0,,7.1,7.1,7.0
+咖啡厅,Petite Cafe,Petite Cafe,0,,6.8,6.8,7.2
+面包甜点,Ichkhanian Bakery,Ichkhanian Bakery,0,,7.1,7.0,6.9
+面包甜点,Flor Gelato Italiano,Flor Gelato Italiano,0,,7.1,7.1,7.0
+面包甜点,Bread Republic,Bread Republic,0,,7.2,7.2,7.2
+面包甜点,Fauchon,Fauchon,0,,7.0,7.0,7.0
+面包甜点,Dunkin Donut,Dunkin Donut,0,,6.9,6.9,6.9
+面包甜点,Lina's,Lina's,0,,6.8,6.8,6.8
+酒吧,Le Sushi Bar,Le Sushi Bar,0,,7.2,7.2,7.2
+酒吧,Neighbors Pub,Neighbors Pub,0,,6.9,6.9,6.9
+酒吧,Calibri Pub,Calibri Pub,0,,7.0,7.1,7.0
+酒吧,bar a vin,bar a vin,0,,6.9,6.9,6.9
+酒吧,Pinocchio,Pinocchio,0,,7.0,7.0,7.0
+酒吧,Le Bar a Thym,Le Bar a Thym,0,,7.0,7.0,7.0
+酒吧,Bar Tartine,Bar Tartine,0,,7.2,7.2,7.2
+酒吧,Merlot Wine and Spirits Bar,Merlot Wine and Spirits Bar,0,,6.9,6.9,6.9
+酒吧,Tapas Bar,Tapas Bar,0,,6.9,6.9,6.9

@@ -1,0 +1,2124 @@
+意大利菜,Ke Pizza Nusa Dua,Ke Pizza Nusa Dua,0,乌布,7.1,7.0,7.0
+意大利菜,Nusadua Pizza,Nusadua Pizza,0,塔巴南,6.9,6.9,6.9
+意大利菜,Papa Joe's Pizza and Billiards,Papa Joe's Pizza and Billiards,0,沙努尔,7.1,7.0,7.0
+意大利菜,La Casetta,La Casetta,0,巴厘岛其他,7.2,7.2,7.2
+意大利菜,"Belcibo - Pasta Pizza Panini, Bali","Belcibo - Pasta Pizza Panini, Bali",0,库塔,7.0,7.0,7.0
+意大利菜,La Dolce Vita,La Dolce Vita,0,库塔,7.0,6.9,7.0
+意大利菜,Doremi Pizza and Chicken,Doremi Pizza and Chicken,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+意大利菜,CiAO - Wood-Fire Pizza,CiAO - Wood-Fire Pizza,0,库塔,0.0,0.0,0.0
+融合菜,Jimbaran Plaza Seafood Restaurants,Jimbaran Plaza Seafood Restaurants,0,金巴兰,6.7,6.7,6.7
+融合菜,MAMA MIA,MAMA MIA,0,,0.0,0.0,0.0
+东南亚菜,Bumbu Bali,Bumbu Bali,146,努沙度瓦-丹戎贝诺瓦,9.2,9.3,9.2
+东南亚菜,蟹蟹大家,蟹蟹大家,162,库塔,9.0,7.8,8.3
+东南亚菜,Bebek Bengil,Bebek Bengil,113,努沙度瓦-丹戎贝诺瓦,8.0,9.1,8.2
+东南亚菜,Pundi-Pundi Grill&Asian Cuisine,Pundi-Pundi Grill&Asian Cuisine,83,乌布,8.8,8.8,8.9
+东南亚菜,Naughty Nuri’s Warung,Naughty Nuri’s Warung,83,乌布,9.1,7.4,8.0
+东南亚菜,"HOG wild - Batubelig, Bali","HOG wild - Batubelig, Bali",87,水明漾/塞米雅海滩,9.1,8.5,8.7
+东南亚菜,Made's Warung,Made's Warung,79,库塔,8.1,7.6,7.6
+东南亚菜,Laka Leke,Laka Leke,92,乌布,7.6,8.7,8.0
+东南亚菜,KORI RESTAURANT & BAR,KORI RESTAURANT & BAR,0,库塔,8.4,9.0,8.7
+东南亚菜,Cafe Wayan & Bakery,Cafe Wayan & Bakery,71,乌布,7.4,8.3,7.7
+东南亚菜,Kayuputi at St. Regis Bali Resort,Kayuputi at St. Regis Bali Resort,0,努沙度瓦-丹戎贝诺瓦,8.3,8.6,8.8
+东南亚菜,Bambo  Corner,Bambo  Corner,46,库塔,6.8,6.4,6.5
+东南亚菜,The Paon,The Paon,107,乌布,7.5,7.8,7.6
+东南亚菜,Mades Warung,Mades Warung,76,库塔,6.8,6.7,6.7
+东南亚菜,Tropical,Tropical,108,努沙度瓦-丹戎贝诺瓦,7.3,7.4,7.6
+东南亚菜,Balique Restaurant,Balique Restaurant,0,金巴兰,7.5,8.2,8.3
+东南亚菜,Sarong Restaurant,Sarong Restaurant,0,水明漾/塞米雅海滩,7.5,7.4,7.3
+东南亚菜,Kemayangan Bali,Kemayangan Bali,0,库塔,8.7,7.9,8.3
+东南亚菜,Restaurant Mai-Mai,Restaurant Mai-Mai,0,努沙度瓦-丹戎贝诺瓦,7.7,8.0,7.8
+东南亚菜,The Beach Club at Sandy Bay,The Beach Club at Sandy Bay,0,蓝梦岛,6.4,7.3,7.4
+东南亚菜,Fair Warung Balé,Fair Warung Balé,0,乌布,8.2,8.2,8.2
+东南亚菜,Banyubiru Restaurant at The Laguna,Banyubiru Restaurant at The Laguna,0,努沙度瓦-丹戎贝诺瓦,7.3,8.3,8.3
+东南亚菜,Bebek Tepi Sawah,Bebek Tepi Sawah,0,乌布,8.1,8.3,8.3
+东南亚菜,Ibu Oka,Ibu Oka,0,乌布,6.4,5.7,6.1
+东南亚菜,Poppies Restaurant,Poppies Restaurant,0,库塔,8.1,8.0,8.0
+东南亚菜,Celsius Cafe,Celsius Cafe,55,库塔,7.4,7.9,7.3
+东南亚菜,Prada Bali Concept,Prada Bali Concept,0,努沙度瓦-丹戎贝诺瓦,8.1,8.4,8.4
+东南亚菜,Dulang Cafe,Dulang Cafe,0,库塔,8.5,8.0,8.2
+东南亚菜,IBU Rai,IBU Rai,0,乌布,8.2,8.2,7.9
+东南亚菜,Warung Sunset,Warung Sunset,0,库塔,7.5,7.3,7.5
+东南亚菜,Mama San,Mama San,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Warung Little Bird,Warung Little Bird,0,沙努尔,0.0,0.0,0.0
+东南亚菜,巴厘岛素馨花餐厅,巴厘岛素馨花餐厅,0,努沙度瓦-丹戎贝诺瓦,7.2,7.2,7.2
+东南亚菜,Queen's of India,Queen's of India,0,库塔,0.0,0.0,0.0
+东南亚菜,海滨地中海餐厅,海滨地中海餐厅,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,"Bebek Bengil, Ubud","Bebek Bengil, Ubud",0,乌布,0.0,0.0,0.0
+东南亚菜,Bebek Bengil,Bebek Bengil,0,乌布,0.0,0.0,0.0
+东南亚菜,海港渔村,海港渔村,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Mozzarella,Mozzarella,0,库塔,7.5,8.0,8.2
+东南亚菜,Ikan Restaurant & Bar,Ikan Restaurant & Bar,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,飞龙港式海鲜餐厅,飞龙港式海鲜餐厅,0,塔巴南,7.1,7.1,7.1
+东南亚菜,Frangipani Bali Restaurant,Frangipani Bali Restaurant,0,塔巴南,7.9,8.2,8.2
+东南亚菜,Ganesha Cafe,Ganesha Cafe,0,金巴兰,0.0,0.0,0.0
+东南亚菜,The Wharf Restaurant Bali,The Wharf Restaurant Bali,0,库塔,0.0,0.0,0.0
+东南亚菜,FIRE at W Retreat & Spa Bali,FIRE at W Retreat & Spa Bali,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Potato Head Beach Club,Potato Head Beach Club,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Black Canyon Coffee,Black Canyon Coffee,0,库塔,6.8,6.8,6.7
+东南亚菜,Sundara,Sundara,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Bali Cardamon,Bali Cardamon,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,ROSSO VINO,ROSSO VINO,0,库塔,7.0,7.3,6.8
+东南亚菜,Kat's Kitchen,Kat's Kitchen,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,Pasar Senggol,Pasar Senggol,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,新麵,新麵,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Vi Ai Pi,Vi Ai Pi,0,库塔,0.0,0.0,0.0
+东南亚菜,Bale Udang Mang Engking,Bale Udang Mang Engking,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Gabah Restaurant & Bar,Gabah Restaurant & Bar,0,库塔,0.0,0.0,0.0
+东南亚菜,Kayumanis,Kayumanis,0,沙努尔,7.1,7.3,7.4
+东南亚菜,Watering Hole (Agung & Sue) Restaurant,Watering Hole (Agung & Sue) Restaurant,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Ibu Rai Bar & Restaurant,Ibu Rai Bar & Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Bumbu Bali Restaurant,Bumbu Bali Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Panorama,Panorama,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Ibu Oka 3,Ibu Oka 3,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Kin Khao Thai Restaurant,Kin Khao Thai Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,WOOBAR at W Retreat & Spa Bali,WOOBAR at W Retreat & Spa Bali,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Puri Tulamben Restaurant,Puri Tulamben Restaurant,0,库布,0.0,0.0,0.0
+东南亚菜,Batur Sari Retaurant,Batur Sari Retaurant,0,巴厘岛其他,6.3,6.3,7.2
+东南亚菜,Kafe Batan Waru,Kafe Batan Waru,0,库塔,0.0,0.0,0.0
+东南亚菜,Nyoman's Beer Garden,Nyoman's Beer Garden,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Dirty Duck,Dirty Duck,0,乌布,0.0,0.0,0.0
+东南亚菜,Aroma Fusion Restaurant,Aroma Fusion Restaurant,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Dog and Dragon,Dog and Dragon,0,库塔,0.0,0.0,0.0
+东南亚菜,Yulia's Kitchen,Yulia's Kitchen,0,库塔,0.0,0.0,0.0
+东南亚菜,Boardwalk Restaurant & Lounge,Boardwalk Restaurant & Lounge,0,库塔,0.0,0.0,0.0
+东南亚菜,SA CAFE & CLUB,SA CAFE & CLUB,0,库塔,0.0,0.0,0.0
+东南亚菜,Ketupat,Ketupat,0,库塔,6.8,7.1,7.2
+东南亚菜,Starfish Bloo at W Retreat & Spa Bali,Starfish Bloo at W Retreat & Spa Bali,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,老大餐厅,老大餐厅,0,库塔,7.5,6.7,6.7
+东南亚菜,Coco Bistro,Coco Bistro,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Bambu Restaurant,Bambu Restaurant,0,水明漾/塞米雅海滩,5.5,7.5,6.9
+东南亚菜,Pica Tapas Bar & Churrasqueria Restaurant,Pica Tapas Bar & Churrasqueria Restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Maha Bar/Restaurant,Maha Bar/Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Kopi Pot,Kopi Pot,0,库塔,7.0,7.2,6.8
+东南亚菜,Coco Bistro,Coco Bistro,0,库塔,0.0,0.0,0.0
+东南亚菜,The Tao Bali,The Tao Bali,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Spice Beach Club,Spice Beach Club,0,,0.0,0.0,0.0
+东南亚菜,ALAMAK,ALAMAK,0,乌布,8.1,8.1,8.1
+东南亚菜,Fat Chow,Fat Chow,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Segara,Segara,0,库塔,0.0,0.0,0.0
+东南亚菜,Matahari Tulamben Resort and Restaurant,Matahari Tulamben Resort and Restaurant,0,库布,0.0,0.0,0.0
+东南亚菜,Ah Yat Abalone Seafood Restaurant,Ah Yat Abalone Seafood Restaurant,0,金巴兰,7.8,7.8,7.8
+东南亚菜,Teppan Noodle,Teppan Noodle,0,库塔,0.0,0.0,0.0
+东南亚菜,Kendi Kuning Restaurant,Kendi Kuning Restaurant,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Terazo,Terazo,0,乌布,0.0,0.0,0.0
+东南亚菜,Tropical View Cafe,Tropical View Cafe,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Turuy,Warung Turuy,0,蓝梦岛,0.0,0.0,0.0
+东南亚菜,Queen's of India,Queen's of India,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Un's Restaurant,Un's Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,bebek joni,bebek joni,0,乌布,7.5,8.4,8.4
+东南亚菜,Warung Janggar Ulam,Warung Janggar Ulam,0,乌布,0.0,0.0,0.0
+东南亚菜,Ubung Cafe,Ubung Cafe,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Bubu's Warung,Bubu's Warung,0,乌布,0.0,0.0,0.0
+东南亚菜,Mozaic Beach Club,Mozaic Beach Club,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Pojok,Warung Pojok,0,乌布,0.0,0.0,0.0
+东南亚菜,竹趣,竹趣,0,金巴兰,0.0,0.0,0.0
+东南亚菜,The Smiling Frog,The Smiling Frog,0,库塔,0.0,0.0,0.0
+东南亚菜,Rib Restaurant,Rib Restaurant,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Coconut Bali Resto,Coconut Bali Resto,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Casa Luna Restaurant,Casa Luna Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,"The Pond Restaurant, Banquet & Lounge","The Pond Restaurant, Banquet & Lounge",0,乌布,0.0,0.0,0.0
+东南亚菜,Three Monkeys,Three Monkeys,0,乌布,0.0,0.0,0.0
+东南亚菜,Fat Gajah,Fat Gajah,0,库塔,0.0,0.0,0.0
+东南亚菜,Laka Leke Restaurant,Laka Leke Restaurant,0,乌布,7.5,7.9,7.9
+东南亚菜,Putu's Wild Ginger,Putu's Wild Ginger,0,乌布,0.0,0.0,0.0
+东南亚菜,Naughty Nuri s II,Naughty Nuri s II,0,库塔,7.4,6.7,6.7
+东南亚菜,2Day Cafe,2Day Cafe,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Swept Away at The Samaya,Swept Away at The Samaya,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Lotus Lane Restaurant,Lotus Lane Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Made,Warung Made,0,库塔,0.0,0.0,0.0
+东南亚菜,Oops Restaurant,Oops Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Kafe Betawi,Kafe Betawi,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Pak Malen,Pak Malen,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,TAO Beach House and Rooftop Bar,TAO Beach House and Rooftop Bar,0,库塔,0.0,0.0,0.0
+东南亚菜,The Stones Entertainment Center,The Stones Entertainment Center,0,库塔,0.0,0.0,0.0
+东南亚菜,Ulam Restaurant,Ulam Restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,The Tree,The Tree,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,竹子角落,竹子角落,0,库塔,6.7,6.7,6.7
+东南亚菜,Warung Bamboo,Warung Bamboo,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+东南亚菜,Paon Bali Fusion,Paon Bali Fusion,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Crispy Duck ResTaurAnt,Crispy Duck ResTaurAnt,0,,7.9,7.9,7.3
+东南亚菜,Karma Lounge,Karma Lounge,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Queen's,Queen's,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Mina,Warung Mina,0,乌布,0.0,0.0,0.0
+东南亚菜,Hu'u Bar,Hu'u Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Bebek Tepi Sawah villas,Bebek Tepi Sawah villas,0,乌布,7.1,7.1,7.0
+东南亚菜,Star Apple,Star Apple,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,MR Baso,MR Baso,0,巴厘岛其他,7.4,7.4,7.4
+东南亚菜,Cocos Beach Restaurant at Novotel Bali Benoa,Cocos Beach Restaurant at Novotel Bali Benoa,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Warung Kayu Api,Warung Kayu Api,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Warung Totemo,Warung Totemo,0,库塔,0.0,0.0,0.0
+东南亚菜,Chocolate Café,Chocolate Café,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,Kafe Batan Waru,Kafe Batan Waru,0,乌布,0.0,0.0,0.0
+东南亚菜,Ulu Thai Food,Ulu Thai Food,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Dewi Ramona Restaurant,Dewi Ramona Restaurant,0,佩穆泰兰,0.0,0.0,0.0
+东南亚菜,BRASSERlE,BRASSERlE,0,库塔,7.4,7.1,7.1
+东南亚菜,Cak Kandar,Cak Kandar,0,,7.1,7.1,7.1
+东南亚菜,Kori Kuta Bali InDonesIa,Kori Kuta Bali InDonesIa,0,,7.0,7.1,7.1
+东南亚菜,bebek juni,bebek juni,0,乌布,8.2,8.2,8.2
+东南亚菜,Two Dragon ResTaurAnt,Two Dragon ResTaurAnt,0,,5.9,6.8,6.3
+东南亚菜,Bibianu Cafe,Bibianu Cafe,0,乌布,0.0,0.0,0.0
+东南亚菜,Atman Kafe,Atman Kafe,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Ijo,Warung Ijo,0,乌布,0.0,0.0,0.0
+东南亚菜,Mentari Restaurant,Mentari Restaurant,0,贝都古/姆杜克,6.7,6.7,6.7
+东南亚菜,Blue Lobster,Blue Lobster,0,库塔,0.0,0.0,0.0
+东南亚菜,Swasti Organic Restaurant,Swasti Organic Restaurant,0,乌布,7.3,7.0,7.3
+东南亚菜,Karma Beach Bali,Karma Beach Bali,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Sanur Beach Market Restaurant,Sanur Beach Market Restaurant,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Dream Beach Villas and Restaurant,Dream Beach Villas and Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Cabe Rawit,Cabe Rawit,0,库塔,0.0,0.0,0.0
+东南亚菜,Kedin Inn Cafe,Kedin Inn Cafe,0,库塔,0.0,0.0,0.0
+东南亚菜,Gateway of India,Gateway of India,0,库塔,0.0,0.0,0.0
+东南亚菜,Lakeview Restaurant,Lakeview Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Eropa,Warung Eropa,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Ketut's Warung,Ketut's Warung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Ayu,Warung Ayu,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Pawon Pasundan,Pawon Pasundan,0,库塔,6.7,7.0,6.7
+东南亚菜,Sjaki's Warung,Sjaki's Warung,0,乌布,0.0,0.0,0.0
+东南亚菜,DOBIL,DOBIL,0,努沙度瓦-丹戎贝诺瓦,6.9,6.6,6.6
+东南亚菜,Bunga Bungalo,Bunga Bungalo,0,蓝梦岛,0.0,0.0,0.0
+东南亚菜,Kunyit Bali Restaurant,Kunyit Bali Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Magoes Warung,Magoes Warung,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,Muntigs Bar & Restaurant,Muntigs Bar & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Dakota ResTaurAnt,Dakota ResTaurAnt,0,塔巴南,7.1,7.1,7.1
+东南亚菜,Ayam Betutu Khas Gilimanuk Bali - Cabang Tuban,Ayam Betutu Khas Gilimanuk Bali - Cabang Tuban,0,库塔,0.0,0.0,0.0
+东南亚菜,Sari Restaurant,Sari Restaurant,0,巴厘岛其他,6.7,8.0,8.2
+东南亚菜,Glaze Bali,Glaze Bali,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Depot Dini Cafe Restaurant,Depot Dini Cafe Restaurant,0,海神庙,0.0,0.0,0.0
+东南亚菜,Nelayan Restaurant,Nelayan Restaurant,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Merah Putih Restaurant,Merah Putih Restaurant,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,bebbek bengl,bebbek bengl,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Restaurant Puri Bali Indah,Restaurant Puri Bali Indah,0,库塔,0.0,0.0,0.0
+东南亚菜,Slippery Stone,Slippery Stone,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Taksu Spa & Restaurant,Taksu Spa & Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Alcedo Restaurant,Alcedo Restaurant,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Warung Take 5,Warung Take 5,0,库塔,0.0,0.0,0.0
+东南亚菜,Paon Beachclub,Paon Beachclub,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Paper Planes,Paper Planes,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Kayun Restaurant & Lounge,Kayun Restaurant & Lounge,0,乌布,0.0,0.0,0.0
+东南亚菜,Bumbu Nusantara,Bumbu Nusantara,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Alleycats,Alleycats,0,库塔,0.0,0.0,0.0
+东南亚菜,Trattoria Uluwatu Bali,Trattoria Uluwatu Bali,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,Lello Lello,Lello Lello,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,CIRE,CIRE,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,Green Ginger,Green Ginger,0,仓古,0.0,0.0,0.0
+东南亚菜,Pantai Restaurant,Pantai Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Stop Makan,Stop Makan,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Pondok Baruna Warung,Pondok Baruna Warung,0,蓝梦岛,0.0,0.0,0.0
+东南亚菜,Lilla Warung,Lilla Warung,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Teatro Gastroteque,Teatro Gastroteque,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Savannah Moon Warung,Savannah Moon Warung,0,乌布,0.0,0.0,0.0
+东南亚菜,Pregina Warung,Pregina Warung,0,沙努尔,0.0,0.0,0.0
+东南亚菜,CHANDI,CHANDI,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Watermark Bali,Watermark Bali,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,De Yogi Warung,De Yogi Warung,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung at Alila Villas Uluwatu,Warung at Alila Villas Uluwatu,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,La Madre,La Madre,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+东南亚菜,Tutmak,Tutmak,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Fast Adhy,Warung Fast Adhy,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Yogi's Paradise & Grill,Yogi's Paradise & Grill,0,仓古,0.0,0.0,0.0
+东南亚菜,Waroeng Special Sambal ,Waroeng Special Sambal ,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Jukung Grill Restaurant,Jukung Grill Restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Man Dollow Cafe,Man Dollow Cafe,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Wali Warung,Wali Warung,0,库塔,0.0,0.0,0.0
+东南亚菜,Vanilla Pod Restaurant,Vanilla Pod Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Khaima,Khaima,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Nelayan,Nelayan,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Bulgari Hotels & Resorts Bali Restaurant,Bulgari Hotels & Resorts Bali Restaurant,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,Rosetta Coffee Shop,Rosetta Coffee Shop,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Gado Gado Restaurant,Gado Gado Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Gula Bali Padangtegal,Gula Bali Padangtegal,0,乌布,0.0,0.0,0.0
+东南亚菜,warung Doner Kebab,warung Doner Kebab,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Anomali Coffee,Anomali Coffee,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung OLA,Warung OLA,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Coconut Restaurant,Coconut Restaurant,0,艾湄湾,0.0,0.0,0.0
+东南亚菜,Mona Lisa Cafe,Mona Lisa Cafe,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Mozzarella Magani Hotel,Mozzarella Magani Hotel,0,乌布,0.0,0.0,0.0
+东南亚菜,The Terrace,The Terrace,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Warung Pulau Kelapa,Warung Pulau Kelapa,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Enak Bali,Warung Enak Bali,0,乌布,0.0,0.0,0.0
+东南亚菜,Sembilan Restaurant,Sembilan Restaurant,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,Warung Blanjong,Warung Blanjong,0,沙努尔,0.0,0.0,0.0
+东南亚菜,CasCades Restaurant,CasCades Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Mozzarella by the Sea at Maharta,Mozzarella by the Sea at Maharta,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,W Lounge at W Retreat & Spa Bali - Seminyak,W Lounge at W Retreat & Spa Bali - Seminyak,0,库塔,0.0,0.0,0.0
+东南亚菜,Fukutaro Airport,Fukutaro Airport,0,库塔,0.0,0.0,0.0
+东南亚菜,Railway Restaurant and Bar,Railway Restaurant and Bar,0,库塔,0.0,0.0,0.0
+东南亚菜,"R n B, Ribs n Burritos","R n B, Ribs n Burritos",0,库塔,0.0,0.0,0.0
+东南亚菜,Ikan Bakar Cianjur (Pondok Tempo Doeloe),Ikan Bakar Cianjur (Pondok Tempo Doeloe),0,库塔,0.0,0.0,0.0
+东南亚菜,Little Waroeng,Little Waroeng,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,Wings & Co,Wings & Co,0,库塔,0.0,0.0,0.0
+东南亚菜,D'Basket,D'Basket,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Bale Bali,Warung Bale Bali,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Saya,Warung Saya,0,乌布,0.0,0.0,0.0
+东南亚菜,Bali panorama,Bali panorama,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Seasalt,Seasalt,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Dulang Restaurant at St. Regis Bali Resort,Dulang Restaurant at St. Regis Bali Resort,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Puri Sanjaya Restaurant,Puri Sanjaya Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Sea breeze Warung,Sea breeze Warung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Cafe Ombak,Cafe Ombak,0,仓古,0.0,0.0,0.0
+东南亚菜,Lu Putu Resto,Lu Putu Resto,0,坎迪达萨,0.0,0.0,0.0
+东南亚菜,Bayang Cafe,Bayang Cafe,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Warung Made,Warung Made,0,蓝梦岛,0.0,0.0,0.0
+东南亚菜,Baliku Cafe,Baliku Cafe,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Jibaku Bar & Restaurant,Jibaku Bar & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Joni Bar Restaurant,Joni Bar Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Bebek Semar Warung,Bebek Semar Warung,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Rush Bamboo Restaurant and Bar,Rush Bamboo Restaurant and Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Warung Wapo KKN,Warung Wapo KKN,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Qili Resto at Ladera Villa Ubud,Qili Resto at Ladera Villa Ubud,0,库塔,0.0,0.0,0.0
+东南亚菜,Sari Bamboo Warung,Sari Bamboo Warung,0,乌布,0.0,0.0,0.0
+东南亚菜,Sawasdee Thai,Sawasdee Thai,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Pama,Warung Pama,0,库塔,0.0,0.0,0.0
+东南亚菜,Bistro Amsterdam,Bistro Amsterdam,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Warung Yogya,Warung Yogya,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Bule & Susy,Warung Bule & Susy,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Seaside,Seaside,0,库塔,0.0,0.0,0.0
+东南亚菜,Tulip,Tulip,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Legend Bar & Restaurant,Legend Bar & Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Murah,Warung Murah,0,库塔,0.0,0.0,0.0
+东南亚菜,Poan,Poan,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Sunari,Sunari,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+东南亚菜,Biku,Biku,0,乌布,0.0,0.0,0.0
+东南亚菜,Tom Yums,Tom Yums,0,库塔,0.0,0.0,0.0
+东南亚菜,Waroeng Bernadette,Waroeng Bernadette,0,乌布,0.0,0.0,0.0
+东南亚菜,Babi Guling Chandra,Babi Guling Chandra,0,登巴萨,0.0,0.0,0.0
+东南亚菜,Cafe Degan,Cafe Degan,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Indiana Restaurant,Indiana Restaurant,0,蓝梦岛,0.0,0.0,0.0
+东南亚菜,Ketumbar Restaurant & Lounge,Ketumbar Restaurant & Lounge,0,库塔,0.0,0.0,0.0
+东南亚菜,She Cafe @ Hardy's,She Cafe @ Hardy's,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Hidden Paradise,Hidden Paradise,0,艾湄湾,0.0,0.0,0.0
+东南亚菜,Club Seafood Jimbaran Beach Cafe,Club Seafood Jimbaran Beach Cafe,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Waroeng Kampoeng,Waroeng Kampoeng,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Jiwa Juice Bar,Jiwa Juice Bar,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,Nirvana Restaurant,Nirvana Restaurant,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Asam Garam,Asam Garam,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Corner Store,Corner Store,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Balboni restaurant,Balboni restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Scratch,Scratch,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Three Monkeys Sanur,Three Monkeys Sanur,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Garlic Lane Restaurant,Garlic Lane Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Koko Bar and Restaurant,Koko Bar and Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Waroeng Tropical,Waroeng Tropical,0,库塔,0.0,0.0,0.0
+东南亚菜,Piggy's Bar and Cafe,Piggy's Bar and Cafe,0,库塔,0.0,0.0,0.0
+东南亚菜,Babi Guling Sanur,Babi Guling Sanur,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Bali Beach Shack,Bali Beach Shack,0,库塔,0.0,0.0,0.0
+东南亚菜,Anomali Coffee,Anomali Coffee,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Warung Asia Thai Food,Warung Asia Thai Food,0,登巴萨,0.0,0.0,0.0
+东南亚菜,terrace restaurant,terrace restaurant,0,乌布,6.9,6.9,6.9
+东南亚菜,Bumbu Bali,Bumbu Bali,0,登巴萨,6.9,6.9,6.9
+东南亚菜,Kedisan Floating Restaurant,Kedisan Floating Restaurant,0,巴厘岛其他,6.7,6.9,7.0
+东南亚菜,Babi guling gianyar,Babi guling gianyar,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Kayana,Warung Kayana,0,乌布,0.0,0.0,0.0
+东南亚菜,Ayodya Restaurant,Ayodya Restaurant,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Warung Segara,Warung Segara,0,库塔,0.0,0.0,0.0
+东南亚菜,Caffe Italia Bali,Caffe Italia Bali,0,库塔,0.0,0.0,0.0
+东南亚菜,Kecak Bali,Kecak Bali,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Ninety Degrees,Ninety Degrees,0,库塔,0.0,0.0,0.0
+东南亚菜,Rondji Restaurant,Rondji Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Bebek Ubud,Bebek Ubud,0,乌布,0.0,0.0,0.0
+东南亚菜,Excellso,Excellso,0,库塔,0.0,0.0,0.0
+东南亚菜,Paras Bali Restaurant,Paras Bali Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Yans Indian Restaurant,Yans Indian Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Mimpi,Warung Mimpi,0,库塔,0.0,0.0,0.0
+东南亚菜,Warong Wahaha,Warong Wahaha,0,库塔,0.0,0.0,0.0
+东南亚菜,Casanova,Casanova,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Lais Indonesian Specialty Restaurant,Lais Indonesian Specialty Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,The Restaurant at The Legian,The Restaurant at The Legian,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Legian asia cafe,Legian asia cafe,0,库塔,0.0,0.0,0.0
+东南亚菜,Devilicious,Devilicious,0,乌布,0.0,0.0,0.0
+东南亚菜,Melasti Restaurant,Melasti Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Sulawesi,Warung Sulawesi,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Warung Indonesia,Warung Indonesia,0,库塔,0.0,0.0,0.0
+东南亚菜,Dapur Sonya da Vespa,Dapur Sonya da Vespa,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Lesung,Warung Lesung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Ayam Kampung,Warung Ayam Kampung,0,乌布,0.0,0.0,0.0
+东南亚菜,Cafe Angsa,Cafe Angsa,0,乌布,0.0,0.0,0.0
+东南亚菜,SUZU Japanese Restaurant,SUZU Japanese Restaurant,0,沙努尔,6.9,6.9,6.9
+东南亚菜,Dining Corner Restaurant,Dining Corner Restaurant,0,乌布,6.9,6.9,6.9
+东南亚菜,Lagauna Garden Restaurant Tanjung Benoa Bali,Lagauna Garden Restaurant Tanjung Benoa Bali,0,努沙度瓦-丹戎贝诺瓦,7.0,7.0,7.0
+东南亚菜,Warung Jegeg,Warung Jegeg,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+东南亚菜,Warung Kecil,Warung Kecil,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Bambu Pemaron,Warung Bambu Pemaron,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+东南亚菜,Warong Legong,Warong Legong,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Mamasan,Mamasan,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Kumendel,Kumendel,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Baling Baling,Warung Baling Baling,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Casablanca Dine Drink Dance,Casablanca Dine Drink Dance,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Yeh Pulu cafe and restaurant,Yeh Pulu cafe and restaurant,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Di Abing Restaurant,Di Abing Restaurant,0,乌布,7.0,7.0,7.1
+东南亚菜,Warung Padang Kecag,Warung Padang Kecag,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Santai Warung,Santai Warung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Frangipani Bar & Restaurant,Frangipani Bar & Restaurant,0,塔巴南,0.0,0.0,0.0
+东南亚菜,BU Warung,BU Warung,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+东南亚菜,Lesehan Segara Tegeh,Lesehan Segara Tegeh,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Martini's,Martini's,0,席德门/邦利/巴东湾,0.0,0.0,0.0
+东南亚菜,Vincent's,Vincent's,0,坎迪达萨,0.0,0.0,0.0
+东南亚菜,Warung SUSU,Warung SUSU,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Manggala,Manggala,0,席德门/邦利/巴东湾,0.0,0.0,0.0
+东南亚菜,Warung Tepi Sawah,Warung Tepi Sawah,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,J Terrace,J Terrace,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Boni Bali Restaurant,Boni Bali Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Jatiluwih 259,Warung Jatiluwih 259,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Terrasse du Lac Tamblingan Sari,Terrasse du Lac Tamblingan Sari,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Putu,Warung Putu,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,"Warung Dhea, Jatiluwih","Warung Dhea, Jatiluwih",0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,My Kitchen,My Kitchen,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,Cocoon Restaurant Bar Beach Club,Cocoon Restaurant Bar Beach Club,0,库塔,0.0,0.0,0.0
+东南亚菜,Drops resto & Lounge,Drops resto & Lounge,0,库塔,0.0,0.0,0.0
+东南亚菜,Snack Shack,Snack Shack,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Tootsie Bar,Tootsie Bar,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Nirwana Snack,Nirwana Snack,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Warung Garasi,Warung Garasi,0,乌布,0.0,0.0,0.0
+东南亚菜,Heliconia Restaurant,Heliconia Restaurant,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+东南亚菜,Metis Restaurant and Gallery,Metis Restaurant and Gallery,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Caramel Restaurant at Kamuela Villas Sanur,Caramel Restaurant at Kamuela Villas Sanur,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Rocket Bar and Restaurant,Rocket Bar and Restaurant,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Tropical,Tropical,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Warisan Restaurant & Bar,Warisan Restaurant & Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Mila's Warung,Mila's Warung,0,沙努尔,0.0,0.0,0.0
+东南亚菜,waroeng dukuh,waroeng dukuh,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,The Glasshouse,The Glasshouse,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Bawang Merah Restaurant,Bawang Merah Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Mami Ikan Bakar,Warung Mami Ikan Bakar,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Ratatouille,Ratatouille,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Sambal Shrimp,Sambal Shrimp,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Tulip,Tulip,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Warung Coconut Tree,Warung Coconut Tree,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Padi Organic,Padi Organic,0,乌布,0.0,0.0,0.0
+东南亚菜,Lucky Day,Lucky Day,0,库塔,0.0,0.0,0.0
+东南亚菜,Kura Kura,Kura Kura,0,库塔,0.0,0.0,0.0
+东南亚菜,Terracotta,Terracotta,0,乌布,0.0,0.0,0.0
+东南亚菜,Nasi Pedas Ibu Andika,Nasi Pedas Ibu Andika,0,库塔,0.0,0.0,0.0
+东南亚菜,Jenggala Keramik Galeria Cafe,Jenggala Keramik Galeria Cafe,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Sand Beach Club & Restaurant,Sand Beach Club & Restaurant,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Warung Indotopia Vietnam n Indonesia Food,Warung Indotopia Vietnam n Indonesia Food,0,仓古,0.0,0.0,0.0
+东南亚菜,Warung Bho Bho Thai,Warung Bho Bho Thai,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Shanti,Warung Shanti,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Art Café Sanur,Art Café Sanur,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Mama san seminyak,Mama san seminyak,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Kakalima,Kakalima,0,仓古,0.0,0.0,0.0
+东南亚菜,Warung Boni,Warung Boni,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Raja's Balinese Restaurant,Raja's Balinese Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Iboe Bakoel,Warung Iboe Bakoel,0,库塔,0.0,0.0,0.0
+东南亚菜,Strawberry Stop,Strawberry Stop,0,塔巴南,0.0,0.0,0.0
+东南亚菜,Warung Murah,Warung Murah,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Vertical Point,Vertical Point,0,库塔,0.0,0.0,0.0
+东南亚菜,Lumut,Lumut,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Benno's Restaurant,Benno's Restaurant,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Ma-Joly,Ma-Joly,0,库塔,0.0,0.0,0.0
+东南亚菜,Living Room,Living Room,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Warung Mina,Warung Mina,0,库塔,0.0,0.0,0.0
+东南亚菜,The Junction,The Junction,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Warung Lada,Warung Lada,0,乌布,0.0,0.0,0.0
+东南亚菜,Indochine Restaurant,Indochine Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Puri Santrian Beach Club Bar & Restaurant,Puri Santrian Beach Club Bar & Restaurant,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Tora Tora Beach,Tora Tora Beach,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Zoo Restaurant & Bar,Zoo Restaurant & Bar,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Waroeng Uma's,Waroeng Uma's,0,乌布,0.0,0.0,0.0
+东南亚菜,Zanzibar,Zanzibar,0,库塔,0.0,0.0,0.0
+东南亚菜,Nasi Ayam Ibu Mangku,Nasi Ayam Ibu Mangku,0,乌布,0.0,0.0,0.0
+东南亚菜,Tanjung Alam Ikan Bakar,Tanjung Alam Ikan Bakar,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+东南亚菜,crispy pata,crispy pata,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Dayu's Warung,Dayu's Warung,0,乌布,0.0,0.0,0.0
+东南亚菜,Sammy's,Sammy's,0,库塔,0.0,0.0,0.0
+东南亚菜,Little Thai Waroeng,Little Thai Waroeng,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Dabumito,Dabumito,0,仓古,0.0,0.0,0.0
+东南亚菜,DeJaVu Kitchen,DeJaVu Kitchen,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Mina,Warung Mina,0,登巴萨,0.0,0.0,0.0
+东南亚菜,Pergola Tokyo Japanese Restaurant,Pergola Tokyo Japanese Restaurant,0,沙努尔,7.1,7.1,7.1
+东南亚菜,Surya The Grills Beachside Restaurant,Surya The Grills Beachside Restaurant,0,沙努尔,7.1,7.1,7.1
+东南亚菜,Restaurant,Restaurant,0,乌布,6.7,6.7,6.9
+东南亚菜,Blue Moon Seafood Restaurant,Blue Moon Seafood Restaurant,0,库塔,7.1,7.0,6.9
+东南亚菜,Yanies Restaurant,Yanies Restaurant,0,乌布,7.0,7.0,7.0
+东南亚菜,"Bambu Restaurant, Bali","Bambu Restaurant, Bali",0,水明漾/塞米雅海滩,7.2,7.2,7.2
+东南亚菜,De Danau Lakeside Restaurant,De Danau Lakeside Restaurant,0,贝都古/姆杜克,7.0,7.0,7.0
+东南亚菜,Merica Restaurant,Merica Restaurant,0,海神庙,7.6,7.6,7.6
+东南亚菜,Ichii Japanese Restaurant,Ichii Japanese Restaurant,0,库塔,7.0,7.0,7.0
+东南亚菜,Kakatua Bar & Restaurant,Kakatua Bar & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Green House,Green House,0,乌布,0.0,0.0,0.0
+东南亚菜,Ketupat Restaurant,Ketupat Restaurant,0,库塔,7.2,7.2,7.2
+东南亚菜,HQ Restaurant and Hotel,HQ Restaurant and Hotel,0,库塔,7.2,7.2,7.2
+东南亚菜,sTREATs Restaurant,sTREATs Restaurant,0,努沙度瓦-丹戎贝诺瓦,6.9,6.7,6.9
+东南亚菜,Savannah Moon,Savannah Moon,0,乌布,0.0,0.0,0.0
+东南亚菜,Ubud Villa Restaurant,Ubud Villa Restaurant,0,吉安雅/克拉马斯,6.9,6.9,6.9
+东南亚菜,Jesens,Jesens,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Liku,Warung Liku,0,登巴萨,0.0,0.0,0.0
+东南亚菜,Abians: Asian Cuisine,Abians: Asian Cuisine,0,库塔,0.0,0.0,0.0
+东南亚菜,Baba's,Baba's,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Kopi Kats,Kopi Kats,0,乌布,0.0,0.0,0.0
+东南亚菜,Shisha,Shisha,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Pencar Bali,Warung Pencar Bali,0,登巴萨,0.0,0.0,0.0
+东南亚菜,Warung Goa,Warung Goa,0,库塔,0.0,0.0,0.0
+东南亚菜,Gong Dewata Restaurant,Gong Dewata Restaurant,0,巴厘岛其他,6.7,6.7,7.0
+东南亚菜,CarameL Ubud,CarameL Ubud,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Eny,Warung Eny,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Petani Restaurant,Petani Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Moko's@Mina,Moko's@Mina,0,乌布,0.0,0.0,0.0
+东南亚菜,Indian Curry House Eat and Eat,Indian Curry House Eat and Eat,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Bu Nani,Warung Bu Nani,0,乌布,0.0,0.0,0.0
+东南亚菜,Thai Corner,Thai Corner,0,登巴萨,0.0,0.0,0.0
+东南亚菜,Warung Taulan,Warung Taulan,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Warung Sanur,Warung Sanur,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Arma Thai Restaurant,Arma Thai Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Victory Bar and Restaurant,Victory Bar and Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Beach Breeze,Warung Beach Breeze,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Bali Colada,Bali Colada,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Coco Rocha Restaurant & Bar,Coco Rocha Restaurant & Bar,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Ikan Bakar Cianjur,Ikan Bakar Cianjur,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,The Lone Rice Table,The Lone Rice Table,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Dapoer at Bambu Indah,Dapoer at Bambu Indah,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Pantai,Warung Pantai,0,艾湄湾,0.0,0.0,0.0
+东南亚菜,Warung Rumpis,Warung Rumpis,0,登巴萨,0.0,0.0,0.0
+东南亚菜,Warung Mamarita,Warung Mamarita,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Satu Lagi Pool Side Bar,Satu Lagi Pool Side Bar,0,仓古,0.0,0.0,0.0
+东南亚菜,Fortuna,Fortuna,0,乌布,0.0,0.0,0.0
+东南亚菜,warung buk de,warung buk de,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Warung Bla...Bla,Warung Bla...Bla,0,库塔,0.0,0.0,0.0
+东南亚菜,Tamas Restaurant,Tamas Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Cupit Warung,Cupit Warung,0,乌布,0.0,0.0,0.0
+东南亚菜,Semesta Warung,Semesta Warung,0,乌布,0.0,0.0,0.0
+东南亚菜,Waroeng Enak 718,Waroeng Enak 718,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Sari Organic,Sari Organic,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung made busana Bali,Warung made busana Bali,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Pondok Baruna Restaurant,Pondok Baruna Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Il Warung,Il Warung,0,库塔,0.0,0.0,0.0
+东南亚菜,"Root & Branch, Bistro & Bar","Root & Branch, Bistro & Bar",0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Sinar Wayang Restaurant,Sinar Wayang Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Batur Sari Restaurant,Batur Sari Restaurant,0,巴厘岛其他,6.3,6.8,6.8
+东南亚菜,Crazy Kangaroo,Crazy Kangaroo,0,坎迪达萨,0.0,0.0,0.0
+东南亚菜,Joe's Baresto,Joe's Baresto,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Gusto Resto,Gusto Resto,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Bali Beer n Grill,Bali Beer n Grill,0,艾湄湾,0.0,0.0,0.0
+东南亚菜,New Queen Pub & Restaurant,New Queen Pub & Restaurant,0,坎迪达萨,0.0,0.0,0.0
+东南亚菜,Smiling Buddha Restaurant,Smiling Buddha Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Samanvaya,Samanvaya,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Waroeng Boemboe Bali,Waroeng Boemboe Bali,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Mr Dolphin,Mr Dolphin,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Apple,Warung Apple,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Bali Asli,Bali Asli,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Makan Be Jair,Warung Makan Be Jair,0,席德门/邦利/巴东湾,0.0,0.0,0.0
+东南亚菜,JB's,JB's,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Barakuda Restaurant,Barakuda Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Don Biyu,Don Biyu,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Lina,Warung Lina,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,2RM Nonya Fusion,2RM Nonya Fusion,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,JB's Warung Makan,JB's Warung Makan,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Manna Mu,Manna Mu,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Taruna,Warung Taruna,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Lezat Beach Restaurant,Lezat Beach Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung HANA,Warung HANA,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Titi Sedana Warung,Titi Sedana Warung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Barcelona Bar & Restaurant,Barcelona Bar & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Man's Homestay Restaurant,Man's Homestay Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Sarinbuana Eco Lodge Restaurant,Sarinbuana Eco Lodge Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Lala Lilli,Lala Lilli,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Jiva Warung,Jiva Warung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Tempo Doloe Authentic Indonesian Restaurant,Tempo Doloe Authentic Indonesian Restaurant,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+东南亚菜,Wapa's Restaurant,Wapa's Restaurant,0,乌布,7.3,7.3,7.1
+东南亚菜,Mannekepis,Mannekepis,0,库塔,0.0,0.0,0.0
+东南亚菜,Mango Beach Bar and Restaurant Sanur,Mango Beach Bar and Restaurant Sanur,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Warung Satria,Warung Satria,0,登巴萨,0.0,0.0,0.0
+东南亚菜,Sate Bali,Sate Bali,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Langsam's,Langsam's,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Warung Ramayana,Warung Ramayana,0,金巴兰,0.0,0.0,0.0
+东南亚菜,Suku at Conrad Bali,Suku at Conrad Bali,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Layali Arabiya Lebanese Restaurant and Lounge,Layali Arabiya Lebanese Restaurant and Lounge,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Blossom,Blossom,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Cat & Fiddle,Cat & Fiddle,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Pasar Malam Kereneng,Pasar Malam Kereneng,0,登巴萨,0.0,0.0,0.0
+东南亚菜,Osteria Telese,Osteria Telese,0,库塔,0.0,0.0,0.0
+东南亚菜,"Queen's Tandoor, Indian Restaurant","Queen's Tandoor, Indian Restaurant",0,库塔,0.0,0.0,0.0
+东南亚菜,Puri Rai Restaurant,Puri Rai Restaurant,0,席德门/邦利/巴东湾,0.0,0.0,0.0
+东南亚菜,Stiff Chili,Stiff Chili,0,沙努尔,0.0,0.0,0.0
+东南亚菜,"VIN+ Seminyak, Bali","VIN+ Seminyak, Bali",0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Allspice Restaurant,Allspice Restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Oka Bungalow Number 7 Restaurant,Oka Bungalow Number 7 Restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Selang Restaurant,Selang Restaurant,0,库布,0.0,0.0,0.0
+东南亚菜,Warung Ombak,Warung Ombak,0,艾湄湾,0.0,0.0,0.0
+东南亚菜,Seaside Restaurant,Seaside Restaurant,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Pawon Pasundan,Pawon Pasundan,0,库塔,0.0,0.0,0.0
+东南亚菜,Prada Priority,Prada Priority,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Mang Engking,Mang Engking,0,库塔,0.0,0.0,0.0
+东南亚菜,Husk Restaurant,Husk Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,me'nu,me'nu,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Cafe Garam,Cafe Garam,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Ayam Ayam Restaurant,Ayam Ayam Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Indo-National,Indo-National,0,库塔,0.0,0.0,0.0
+东南亚菜,Wardhani,Wardhani,0,登巴萨,0.0,0.0,0.0
+东南亚菜,Wicked Parrot,Wicked Parrot,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Lemongrass Thai Restaurant,Lemongrass Thai Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Kafe Betawi,Kafe Betawi,0,库塔,0.0,0.0,0.0
+东南亚菜,Indian Delites,Indian Delites,0,乌布,0.0,0.0,0.0
+东南亚菜,ARES Resto & Lounge,ARES Resto & Lounge,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Atrium Restaurant and Bar,Atrium Restaurant and Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Bounty Club,Bounty Club,0,库塔,0.0,0.0,0.0
+东南亚菜,Bendi's,Bendi's,0,乌布,0.0,0.0,0.0
+东南亚菜,Bunute Restaurant & Bar,Bunute Restaurant & Bar,0,乌布,0.0,0.0,0.0
+东南亚菜,Baku Dapa Warung,Baku Dapa Warung,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung 96,Warung 96,0,库塔,0.0,0.0,0.0
+东南亚菜,Kopi Pot,Kopi Pot,0,库塔,7.2,7.2,7.2
+东南亚菜,Miro's Garden Restaurant,Miro's Garden Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Italia BBQ Kerobokan,Warung Italia BBQ Kerobokan,0,仓古,0.0,0.0,0.0
+东南亚菜,Chess Beachfront Restaurant & Bar,Chess Beachfront Restaurant & Bar,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Bollero Restaurant,Bollero Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Bali Bakery Kuta,Bali Bakery Kuta,0,库塔,0.0,0.0,0.0
+东南亚菜,Boemboe Mertua,Boemboe Mertua,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Ary's Warung,Ary's Warung,0,塔巴南,0.0,0.0,0.0
+东南亚菜,Meals House 99,Meals House 99,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,The Shore Restaurant,The Shore Restaurant,0,塔巴南,0.0,0.0,0.0
+东南亚菜,Gosha Restaurant,Gosha Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warong Ikan Bakar dan Kolam Pancing Sawah Indah,Warong Ikan Bakar dan Kolam Pancing Sawah Indah,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Oceans 27,Oceans 27,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Bawang Merah Beach Front Jimbaran,Bawang Merah Beach Front Jimbaran,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Gateway of India,Gateway of India,0,沙努尔,0.0,0.0,0.0
+东南亚菜,The Caesar Restaurant,The Caesar Restaurant,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Apa Kabar Restaurant,Apa Kabar Restaurant,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Wayan & Friends,Wayan & Friends,0,库塔,0.0,0.0,0.0
+东南亚菜,Cafe Bamboo,Cafe Bamboo,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Man Frydays Fish and Chip Shop,Man Frydays Fish and Chip Shop,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Beratan Bamboo Restaurant,Beratan Bamboo Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Asian Prophecy Gallery and Restaurant,Asian Prophecy Gallery and Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Mr. Ramen Gonta2,Warung Mr. Ramen Gonta2,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Kartini,Kartini,0,库塔,0.0,0.0,0.0
+东南亚菜,L'Nuriani,L'Nuriani,0,乌布,0.0,0.0,0.0
+东南亚菜,Piduh,Piduh,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Capris Beachfront Bar & Restaurant,Capris Beachfront Bar & Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Icip-Icip,Icip-Icip,0,乌布,0.0,0.0,0.0
+东南亚菜,Nau Mai,Nau Mai,0,坎迪达萨,0.0,0.0,0.0
+东南亚菜,Queen's of India Ubud,Queen's of India Ubud,0,乌布,0.0,0.0,0.0
+东南亚菜,Eve's Kitchen,Eve's Kitchen,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Centerstage,Centerstage,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Waroeng Tan Poh,Waroeng Tan Poh,0,库塔,0.0,0.0,0.0
+东南亚菜,Lotus Seaview,Lotus Seaview,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Gosha Bar & Restaurant,Gosha Bar & Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Gateway of India,Gateway of India,0,库塔,0.0,0.0,0.0
+东南亚菜,Swell Bar & Restaurant,Swell Bar & Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,3D Warung,3D Warung,0,乌鲁瓦图,0.0,0.0,0.0
+东南亚菜,Hotel Karthi Restaurant,Hotel Karthi Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Maya Sari Restaurant,Maya Sari Restaurant,0,乌布,7.1,7.1,7.1
+东南亚菜,Golden Lotus Chinese Restaurant,Golden Lotus Chinese Restaurant,0,库塔,7.1,7.1,7.1
+东南亚菜,Restaurant at Mahagiri Villas Sanur,Restaurant at Mahagiri Villas Sanur,0,沙努尔,7.1,7.1,7.1
+东南亚菜,Oak Restaurant,Oak Restaurant,0,库塔,6.9,6.9,6.9
+东南亚菜,"Capil Bar, Grill and Resto","Capil Bar, Grill and Resto",0,登巴萨,0.0,0.0,0.0
+东南亚菜,Pavone,Pavone,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Leon Beach Bistro,Leon Beach Bistro,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Waring Sridana,Waring Sridana,0,艾湄湾,0.0,0.0,0.0
+东南亚菜,Pili Pili Resto,Pili Pili Resto,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Yummy tummy,Yummy tummy,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,"Root & Branch Bali, Bistro & Bar","Root & Branch Bali, Bistro & Bar",0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,The Terrace Restaurant,The Terrace Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Xich Lo Warung Vietnam,Xich Lo Warung Vietnam,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung SRIDANA,Warung SRIDANA,0,艾湄湾,0.0,0.0,0.0
+东南亚菜,Amed Resto,Amed Resto,0,艾湄湾,0.0,0.0,0.0
+东南亚菜,Apa Kabar Restaurant,Apa Kabar Restaurant,0,艾湄湾,0.0,0.0,0.0
+东南亚菜,Eternal Home-Style Dining,Eternal Home-Style Dining,0,仓古,0.0,0.0,0.0
+东南亚菜,Warung Puspa,Warung Puspa,0,坎迪达萨,0.0,0.0,0.0
+东南亚菜,Alam Asmara Dive Resort,Alam Asmara Dive Resort,0,坎迪达萨,0.0,0.0,0.0
+东南亚菜,Garpu,Garpu,0,坎迪达萨,0.0,0.0,0.0
+东南亚菜,Joglo,Joglo,0,坎迪达萨,0.0,0.0,0.0
+东南亚菜,Nero Bar & Restaurant,Nero Bar & Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Sari Organik,Sari Organik,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Murni's Warung,Murni's Warung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Corner Warung,Corner Warung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Wrung Bamai,Wrung Bamai,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Friends Bar & Restaurant,Friends Bar & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Our's Bar & Restaurant,Our's Bar & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Mekar,Warung Mekar,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,wawrung paradise,wawrung paradise,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Puri Pandan Restaurant,Puri Pandan Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Kopi desa,Kopi desa,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Waroeng Santa,Waroeng Santa,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Kolega,Warung Kolega,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,aquaria,aquaria,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,De 5,De 5,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung ARY & Home Stay,Warung ARY & Home Stay,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Kamboja,Warung Kamboja,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Makan,Warung Makan,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Cafe Indah,Cafe Indah,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Sukanusa,Sukanusa,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Mangrove Stop Restaurant,Mangrove Stop Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Made Becik,Warung Made Becik,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Nengah,Warung Nengah,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,The Mahagiri,The Mahagiri,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Kemulan Villas and Restaurant,Kemulan Villas and Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Good Karma Bungalows & Restaurant,Good Karma Bungalows & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Bamboe Koening Restaurant,Bamboe Koening Restaurant,0,乌布,6.9,6.9,6.9
+东南亚菜,Gino's Restaurant,Gino's Restaurant,0,库塔,6.9,6.9,6.9
+东南亚菜,TIA Garden Restaurant,TIA Garden Restaurant,0,沙努尔,7.1,7.1,7.1
+东南亚菜,Villa Prasada Restaurant,Villa Prasada Restaurant,0,仓古,6.9,6.9,6.9
+东南亚菜,Jahe Restaurant at The Pavilions Bali,Jahe Restaurant at The Pavilions Bali,0,沙努尔,6.9,6.9,6.9
+东南亚菜,Japanese Restaurant Aoba,Japanese Restaurant Aoba,0,仓古,6.9,6.9,6.9
+东南亚菜,Ryoshi,Ryoshi,0,乌布,0.0,0.0,0.0
+东南亚菜,Starlight Villas and Restaurant,Starlight Villas and Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Ulundanu Restaurant,Ulundanu Restaurant,0,贝都古/姆杜克,0.0,0.0,0.0
+东南亚菜,Diabing Restaurant,Diabing Restaurant,0,乌布,6.9,6.9,6.9
+东南亚菜,Reef,Reef,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Bali Strawberry Farm & Restaurant,Bali Strawberry Farm & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Ronggeng,Warung Ronggeng,0,库塔,0.0,0.0,0.0
+东南亚菜,Olip's Restaurant,Olip's Restaurant,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Sobat,Warung Sobat,0,库塔,0.0,0.0,0.0
+东南亚菜,Warung Lokal,Warung Lokal,0,乌布,0.0,0.0,0.0
+东南亚菜,Legian Snacks,Legian Snacks,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Garden Restaurant,Garden Restaurant,0,乌鲁瓦图,6.9,6.9,6.9
+东南亚菜,Sumo Restaurant,Sumo Restaurant,0,沙努尔,7.1,7.1,7.0
+东南亚菜,Sitara Indian Restaurant Ubud,Sitara Indian Restaurant Ubud,0,乌布,7.0,6.9,7.0
+东南亚菜,My Chef's Restaurant,My Chef's Restaurant,0,登巴萨,6.9,6.9,6.9
+东南亚菜,Green Garden Hotel Restaurant,Green Garden Hotel Restaurant,0,库塔,7.0,7.0,7.0
+东南亚菜,Ema Bali Restaurant,Ema Bali Restaurant,0,乌鲁瓦图,6.9,6.9,6.9
+东南亚菜,ABC Restaurant Bali,ABC Restaurant Bali,0,库塔,7.3,7.1,7.3
+东南亚菜,Tapis Restaurant,Tapis Restaurant,0,塔巴南,7.2,7.7,7.2
+东南亚菜,El Comedor Restaurant,El Comedor Restaurant,0,登巴萨,7.2,7.2,7.2
+东南亚菜,Mak Engking Restaurant,Mak Engking Restaurant,0,国行,7.0,6.9,7.0
+东南亚菜,Restaurant Kumala Pantai,Restaurant Kumala Pantai,0,库塔,7.2,7.2,7.2
+东南亚菜,Restaurant AYA,Restaurant AYA,0,乌布,6.7,6.9,7.0
+东南亚菜,Babol Cafe,Babol Cafe,0,仓古,0.0,0.0,0.0
+东南亚菜,Thai house Restaurant & Bar,Thai house Restaurant & Bar,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Bali Bagus restaurant,Bali Bagus restaurant,0,库塔,7.1,7.1,7.0
+东南亚菜,Aviary Restaurant,Aviary Restaurant,0,库塔,7.1,7.1,7.1
+东南亚菜,Saras Restaurant,Saras Restaurant,0,贝都古/姆杜克,6.9,6.9,6.9
+东南亚菜,Green Field Restaurant,Green Field Restaurant,0,乌布,7.1,7.1,7.0
+东南亚菜,Dayu II Restaurant,Dayu II Restaurant,0,库塔,7.0,7.0,7.0
+东南亚菜,Piasan Restaurant,Piasan Restaurant,0,塔巴南,7.1,7.0,7.0
+东南亚菜,Utopia - Fresh Fish Restaurant,Utopia - Fresh Fish Restaurant,0,库塔,6.9,6.9,6.9
+东南亚菜,Laguna Norte Restaurant,Laguna Norte Restaurant,0,库塔,6.9,6.9,6.7
+东南亚菜,Ulun Danu Restaurant,Ulun Danu Restaurant,0,贝都古/姆杜克,6.9,6.9,6.9
+东南亚菜,Bamboo Restaurant,Bamboo Restaurant,0,乌布,6.8,6.8,6.8
+东南亚菜,Park Restaurant,Park Restaurant,0,乌布,6.9,6.9,6.9
+东南亚菜,AllSpice,AllSpice,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+东南亚菜,Wayan's Warung,Wayan's Warung,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Sawasdeekha Thai Restaurant,Sawasdeekha Thai Restaurant,0,库塔,7.0,7.0,7.0
+东南亚菜,Matsuri Japanese Garden Restaurant,Matsuri Japanese Garden Restaurant,0,塔巴南,6.7,6.7,6.9
+东南亚菜,Sateria Beachside Restaurant,Sateria Beachside Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Abian harmony restaurant,Abian harmony restaurant,0,沙努尔,7.1,7.0,7.0
+东南亚菜,Adi Bungalows Restaurant,Adi Bungalows Restaurant,0,塔巴南,6.7,6.7,6.9
+东南亚菜,Dolphin Bay Restaurant,Dolphin Bay Restaurant,0,登巴萨,6.9,6.9,6.9
+东南亚菜,Dapur Bunda,Dapur Bunda,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Vivai Restaurant,Vivai Restaurant,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Splash Bistro,Splash Bistro,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Meja Restaurant and Bar,Meja Restaurant and Bar,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Beduur Restaurant,Beduur Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Devali,Devali,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,TheBrassica,TheBrassica,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Chez L'ami Yoan,Chez L'ami Yoan,0,库塔,0.0,0.0,0.0
+东南亚菜,Sandpit Beach Shack,Sandpit Beach Shack,0,库塔,0.0,0.0,0.0
+东南亚菜,The Kebab Shop,The Kebab Shop,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Dcorner Bar and Resto,Dcorner Bar and Resto,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Glove & Stove,Glove & Stove,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,D'Waroeng,D'Waroeng,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,GET BARREL,GET BARREL,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Tan's Kitchen Denpasar,Tan's Kitchen Denpasar,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Sandwich Corner,Sandwich Corner,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Sari Restaurant,Sari Restaurant,0,吉安雅/克拉马斯,0.0,0.0,0.0
+东南亚菜,Blue Warung,Blue Warung,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Crema Sanur,Crema Sanur,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Gong Restaurant at The Gangsa Private Villa,Gong Restaurant at The Gangsa Private Villa,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Izakaya,Izakaya,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Ayam Betutu Khas Gilimanuk Cabang Merdeka,Ayam Betutu Khas Gilimanuk Cabang Merdeka,0,登巴萨,0.0,0.0,0.0
+东南亚菜,Forty Seven,Forty Seven,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+东南亚菜,Happy Falafel,Happy Falafel,0,库塔,0.0,0.0,0.0
+东南亚菜,Karma Beach Batu Belig,Karma Beach Batu Belig,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Laba Laba,Warung Laba Laba,0,乌布,0.0,0.0,0.0
+东南亚菜,Ayu's Warung,Ayu's Warung,0,乌布,0.0,0.0,0.0
+东南亚菜,Warung Little India,Warung Little India,0,乌布,0.0,0.0,0.0
+东南亚菜,Lezat,Lezat,0,乌布,0.0,0.0,0.0
+东南亚菜,Paula's Rice Terrace Cafe,Paula's Rice Terrace Cafe,0,乌布,0.0,0.0,0.0
+东南亚菜,Ubud HomeMADE Restaurant,Ubud HomeMADE Restaurant,0,乌布,0.0,0.0,0.0
+东南亚菜,Paradise Toba Warung,Paradise Toba Warung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,d'Alas warung,d'Alas warung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Pantai Batu Belig,Warung Pantai Batu Belig,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Mama's Warung,Mama's Warung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,LE KAZDAL,LE KAZDAL,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,warung andaliman,warung andaliman,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Makan Ayam Betutu Ibu Kadek wati,Warung Makan Ayam Betutu Ibu Kadek wati,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Mangga Madu,Warung Mangga Madu,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,D'Warong,D'Warong,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Waroeng Kertiyasa,Waroeng Kertiyasa,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Aldi's,Aldi's,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,sendok café,sendok café,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Mie 88,Mie 88,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Telaga Sidemen,Warung Telaga Sidemen,0,克隆孔,0.0,0.0,0.0
+东南亚菜,Kantin Parahyangan,Kantin Parahyangan,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Atithi,Atithi,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Angel's Essence Restaurant,Angel's Essence Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Mama Putu,Warung Mama Putu,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Saren Indah Restaurant,Saren Indah Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Surati Coffee Shop,Surati Coffee Shop,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Nasi Tempong ,Warung Nasi Tempong ,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Le Pirate,Le Pirate,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Jadi's Home Cafe,Jadi's Home Cafe,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Cantina,Warung Cantina,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Lala & Lili Warung,Lala & Lili Warung,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Alcove Restaurant,Alcove Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Warung Kartini,Warung Kartini,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Pondok Kuring Restaurant,Pondok Kuring Restaurant,0,登巴萨,0.0,0.0,0.0
+东南亚菜,Restoran Gandi,Restoran Gandi,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,The Ducks Nutz,The Ducks Nutz,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Warung Kesari,Warung Kesari,0,沙努尔,0.0,0.0,0.0
+东南亚菜,Bar Luna,Bar Luna,0,乌布,0.0,0.0,0.0
+东南亚菜,Kalimantan Bar/Restaurant,Kalimantan Bar/Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,Deus Café,Deus Café,0,巴厘岛其他,0.0,0.0,0.0
+东南亚菜,The Deck,The Deck,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+印尼小吃,Yoga Coffee and Cocoa Plantation,Yoga Coffee and Cocoa Plantation,0,库塔,6.8,6.7,6.7
+印尼小吃,Grand Club,Grand Club,0,努沙度瓦-丹戎贝诺瓦,6.9,7.0,6.9
+印尼小吃,Ketty warung,Ketty warung,0,乌鲁瓦图,7.4,7.4,6.7
+印尼小吃,Durian Shop,Durian Shop,0,巴厘岛其他,7.0,6.7,6.7
+印尼小吃,UD.BALI WALET,UD.BALI WALET,0,库塔,6.9,6.7,6.9
+印尼小吃,Gourmand Deli at St. Regis Bali Resort,Gourmand Deli at St. Regis Bali Resort,0,吉安雅/克拉马斯,0.0,0.0,0.0
+印尼小吃,The Elephant Restaurant & Bar,The Elephant Restaurant & Bar,0,巴厘岛其他,0.0,0.0,0.0
+印尼小吃,Warung Classic,Warung Classic,0,巴厘岛其他,0.0,0.0,0.0
+印尼小吃,Casa Gourmet,Casa Gourmet,0,库塔,0.0,0.0,0.0
+印尼小吃,SENSES(特色早餐),SENSES(特色早餐),0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+印尼小吃,BEJANA(印尼料理),BEJANA(印尼料理),0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+中餐,順记香港烧腊,順记香港烧腊,0,,8.7,8.4,8.6
+中餐,阿一鲍鱼,阿一鲍鱼,0,,7.6,7.9,7.9
+中餐,阿甘虾虾餐厅,阿甘虾虾餐厅,0,,7.5,8.3,8.3
+中餐,毛家菜,毛家菜,0,雷根海滩,7.7,7.7,7.7
+中餐,the Pond Cafe,the Pond Cafe,0,库塔,6.3,6.8,6.8
+中餐,飞龙,飞龙,0,库塔,0.0,0.0,0.0
+中餐,筷子餐厅,筷子餐厅,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+中餐,烤玉米,烤玉米,0,,7.7,6.9,7.1
+中餐,Cuca餐厅,Cuca餐厅,0,金巴兰,7.1,7.1,7.1
+中餐,文华海南鸡饭,文华海南鸡饭,0,,7.3,6.2,6.2
+中餐,南方周记馄饨,南方周记馄饨,0,,8.4,7.5,7.5
+中餐,Depot aneka,Depot aneka,0,库塔,0.0,0.0,0.0
+中餐,Telaga Naga,Telaga Naga,0,沙努尔,6.9,6.9,6.9
+中餐,Starry House,Starry House,0,沙努尔,0.0,0.0,0.0
+中餐,烤玉米推车,烤玉米推车,0,乌鲁瓦图,6.7,5.9,7.5
+中餐,A&W,A&W,0,库塔,7.5,7.5,7.5
+中餐,海盛中餐酒家,海盛中餐酒家,0,登巴萨,6.7,6.7,6.7
+中餐,De Yogi Warung,De Yogi Warung,0,库塔,0.0,0.0,0.0
+中餐,Warung Fast Adhy,Warung Fast Adhy,0,巴厘岛其他,0.0,0.0,0.0
+中餐,天宫港式饮茶,天宫港式饮茶,0,库塔,0.0,0.0,0.0
+中餐,Greenleaf warung organic,Greenleaf warung organic,0,沙努尔,0.0,0.0,0.0
+中餐,The Pond,The Pond,0,库塔,7.1,7.0,7.1
+中餐,Depot Cak Asmo,Depot Cak Asmo,0,登巴萨,0.0,0.0,0.0
+中餐,Mamaya Bali Ubud,Mamaya Bali Ubud,0,乌布,0.0,0.0,0.0
+中餐,Warung Bho Bho Thai,Warung Bho Bho Thai,0,库塔,0.0,0.0,0.0
+中餐,Restoran Renon,Restoran Renon,0,登巴萨,0.0,0.0,0.0
+中餐,Bellagio,Bellagio,0,塔巴南,6.9,6.9,6.9
+中餐,EMA中餐厅,EMA中餐厅,0,,0.0,0.0,0.0
+中餐,Khi Khi Restaurant,Khi Khi Restaurant,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+中餐,友缘大排档,友缘大排档,0,库塔,0.0,0.0,0.0
+中餐,旺旺,旺旺,0,,0.0,0.0,0.0
+中餐,利百事,利百事,0,乌鲁瓦图,0.0,0.0,0.0
+日韩料理,穆丽雅咖啡,穆丽雅咖啡,0,努沙度瓦-丹戎贝诺瓦,8.9,8.7,8.7
+日韩料理,Nampu,Nampu,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+日韩料理,Hanabi Japanese Restaurant and Bar,Hanabi Japanese Restaurant and Bar,0,吉安雅/克拉马斯,0.0,0.0,0.0
+日韩料理,B Couple Bar N Grill,B Couple Bar N Grill,0,库塔,0.0,0.0,0.0
+日韩料理,渔師,渔師,0,库塔,0.0,0.0,0.0
+日韩料理,Sushi Tei,Sushi Tei,0,库塔,0.0,0.0,0.0
+日韩料理,Edogin,Edogin,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+日韩料理,TORO Sushi Cafe,TORO Sushi Cafe,0,乌布,0.0,0.0,0.0
+日韩料理,Rin at Conrad Bali,Rin at Conrad Bali,0,吉安雅/克拉马斯,0.0,0.0,0.0
+日韩料理,KO Japanese Restaurant,KO Japanese Restaurant,0,金巴兰,0.0,0.0,0.0
+日韩料理,雷神,雷神,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+日韩料理,Warung Sopa,Warung Sopa,0,乌布,0.0,0.0,0.0
+日韩料理,RAKU(日本料理),RAKU(日本料理),0,努沙度瓦-丹戎贝诺瓦,7.7,7.7,7.7
+日韩料理,Blue Fin,Blue Fin,0,库塔,6.9,6.9,7.0
+日韩料理,Canang Bali,Canang Bali,0,库塔,0.0,0.0,0.0
+日韩料理,Sakanaya Fish Market by Ryoshi,Sakanaya Fish Market by Ryoshi,0,库塔,0.0,0.0,0.0
+日韩料理,Take I Japanese Restaurant,Take I Japanese Restaurant,0,吉安雅/克拉马斯,0.0,0.0,0.0
+日韩料理,Warung Sushi Kawe,Warung Sushi Kawe,0,登巴萨,0.0,0.0,0.0
+日韩料理,Genji Restaurant,Genji Restaurant,0,吉安雅/克拉马斯,0.0,0.0,0.0
+日韩料理,Arwana Restaurant,Arwana Restaurant,0,吉安雅/克拉马斯,0.0,0.0,0.0
+日韩料理,Minami,Minami,0,沙努尔,0.0,0.0,0.0
+日韩料理,Warung Rakuen Asia,Warung Rakuen Asia,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+日韩料理,Warung Yoshida,Warung Yoshida,0,乌鲁瓦图,0.0,0.0,0.0
+日韩料理,Kazunoya,Kazunoya,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+日韩料理,Danji House Restaurant & Lounge,Danji House Restaurant & Lounge,0,库塔,0.0,0.0,0.0
+日韩料理,Hana Restaurant,Hana Restaurant,0,库塔,0.0,0.0,0.0
+日韩料理,Mezzanine Bar & Restaurant,Mezzanine Bar & Restaurant,0,沙努尔,0.0,0.0,0.0
+日韩料理,Satsuma,Satsuma,0,库塔,0.0,0.0,0.0
+日韩料理,Suksema Sushi Bar,Suksema Sushi Bar,0,仓古,0.0,0.0,0.0
+日韩料理,Kagemusha,Kagemusha,0,乌布,0.0,0.0,0.0
+日韩料理,Mori-Mori,Mori-Mori,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+日韩料理,Warung Okinawa,Warung Okinawa,0,库塔,0.0,0.0,0.0
+日韩料理,Mezzo Lounge,Mezzo Lounge,0,沙努尔,0.0,0.0,0.0
+日韩料理,Zushioda Bali,Zushioda Bali,0,登巴萨,0.0,0.0,0.0
+日韩料理,Sushimi,Sushimi,0,巴厘岛其他,0.0,0.0,0.0
+日韩料理,Mangku Wayan Suteja,Mangku Wayan Suteja,0,巴厘岛其他,0.0,0.0,0.0
+日韩料理,Minami,Minami,0,乌布,0.0,0.0,0.0
+日韩料理,Sakura Restaurant,Sakura Restaurant,0,吉安雅/克拉马斯,0.0,0.0,0.0
+日韩料理,Kunti Japanese,Kunti Japanese,0,库塔,0.0,0.0,0.0
+日韩料理,Rouge Lounge Bar,Rouge Lounge Bar,0,乌布,0.0,0.0,0.0
+日韩料理,Yuyake Teppanyaki at Legian Beach,Yuyake Teppanyaki at Legian Beach,0,库塔,0.0,0.0,0.0
+日韩料理,Shiro Sushi / Sake Bar,Shiro Sushi / Sake Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+日韩料理,ZUSHIYA Modern Japanese Dining,ZUSHIYA Modern Japanese Dining,0,库塔,0.0,0.0,0.0
+日韩料理,Cafe Bintang,Cafe Bintang,0,乌布,0.0,0.0,0.0
+日韩料理,Red Carpet Champagne Bar,Red Carpet Champagne Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+日韩料理,Maya Sayang,Maya Sayang,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+日韩料理,KOKOYA Oberoi,KOKOYA Oberoi,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+日韩料理,Kokoya,Kokoya,0,沙努尔,0.0,0.0,0.0
+日韩料理,Ryoshi,Ryoshi,0,库塔,0.0,0.0,0.0
+日韩料理,Teppanyaki Restaurant,Teppanyaki Restaurant,0,库塔,0.0,0.0,0.0
+日韩料理,Fukutaro Legian Paradiso,Fukutaro Legian Paradiso,0,库塔,0.0,0.0,0.0
+日韩料理,Griya Beach Bar,Griya Beach Bar,0,沙努尔,0.0,0.0,0.0
+日韩料理,Ryoshi Sanur,Ryoshi Sanur,0,沙努尔,0.0,0.0,0.0
+日韩料理,Echo Beach House,Echo Beach House,0,巴厘岛其他,0.0,0.0,0.0
+日韩料理,Tahari Sushi,Tahari Sushi,0,巴厘岛其他,0.0,0.0,0.0
+日韩料理,Luna Rooftop Bar,Luna Rooftop Bar,0,巴厘岛其他,0.0,0.0,0.0
+日韩料理,Yamato,Yamato,0,沙努尔,0.0,0.0,0.0
+日韩料理,Kobetei,Kobetei,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+日韩料理,Cherry Blossom,Cherry Blossom,0,巴厘岛其他,0.0,0.0,0.0
+日韩料理,Kabuki,Kabuki,0,沙努尔,0.0,0.0,0.0
+日韩料理,Seyu Japanese Restaurant,Seyu Japanese Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+日韩料理,Dahana,Dahana,0,巴厘岛其他,0.0,0.0,0.0
+日韩料理,Musashi,Musashi,0,巴厘岛其他,0.0,0.0,0.0
+日韩料理,Kaizan,Kaizan,0,巴厘岛其他,0.0,0.0,0.0
+日韩料理,Honzen Restaurant,Honzen Restaurant,0,金巴兰,0.0,0.0,0.0
+更多亚洲菜,to‘go restaurant,to‘go restaurant,0,金巴兰,8.4,7.5,7.5
+西式正餐,Rock Bar at AYANA Resort and Spa Bali,Rock Bar at AYANA Resort and Spa Bali,129,金巴兰,9.1,9.3,9.2
+西式正餐,KORI RESTAURANT & BAR,KORI RESTAURANT & BAR,0,库塔,8.4,9.0,8.7
+西式正餐,Balique Restaurant,Balique Restaurant,0,金巴兰,7.5,8.2,8.3
+西式正餐,Sami Sami Restaurant,Sami Sami Restaurant,174,金巴兰,7.7,8.5,8.8
+西式正餐,Dulang Cafe,Dulang Cafe,0,库塔,8.5,8.0,8.2
+西式正餐,Havana Club,Havana Club,0,库塔,7.6,7.5,7.6
+西式正餐,海滨地中海餐厅,海滨地中海餐厅,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式正餐,Cuca,Cuca,0,金巴兰,0.0,0.0,0.0
+西式正餐,Potato Head Beach Club,Potato Head Beach Club,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Sundara,Sundara,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,KuDeTa,KuDeTa,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,La Lucciola,La Lucciola,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Vi Ai Pi,Vi Ai Pi,0,库塔,0.0,0.0,0.0
+西式正餐,Dava,Dava,0,,0.0,0.0,0.0
+西式正餐,Ibu Rai Bar & Restaurant,Ibu Rai Bar & Restaurant,0,乌布,0.0,0.0,0.0
+西式正餐,Bella Italia,Bella Italia,0,库塔,0.0,0.0,0.0
+西式正餐,Taco Casa,Taco Casa,0,乌布,0.0,0.0,0.0
+西式正餐,Panorama,Panorama,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Bubba Gump Shrimp,Bubba Gump Shrimp,0,库塔,0.0,0.0,0.0
+西式正餐,Mamma Mia,Mamma Mia,0,乌布,0.0,0.0,0.0
+西式正餐,Boneka Restaurant at St. Regis Bali Resort,Boneka Restaurant at St. Regis Bali Resort,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式正餐,Dog and Dragon,Dog and Dragon,0,库塔,0.0,0.0,0.0
+西式正餐,Boardwalk Restaurant & Lounge,Boardwalk Restaurant & Lounge,0,库塔,0.0,0.0,0.0
+西式正餐,The Bistrot,The Bistrot,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Little Italy,Little Italy,0,库塔,0.0,0.0,0.0
+西式正餐,Kintamani Restaurant,Kintamani Restaurant,0,登巴萨,0.0,0.0,0.0
+西式正餐,Ristorante Massimo,Ristorante Massimo,0,沙努尔,0.0,0.0,0.0
+西式正餐,Spice Beach Club,Spice Beach Club,0,,0.0,0.0,0.0
+西式正餐,Terazo,Terazo,0,乌布,0.0,0.0,0.0
+西式正餐,Metis,Metis,0,水明漾/塞米雅海滩,6.7,6.8,6.8
+西式正餐,Bella Italia,Bella Italia,0,库塔,0.0,0.0,0.0
+西式正餐,Mozaic Beach Club,Mozaic Beach Club,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Casa Luna Restaurant,Casa Luna Restaurant,0,乌布,0.0,0.0,0.0
+西式正餐,Tony Roma's,Tony Roma's,0,库塔,0.0,0.0,0.0
+西式正餐,Three Monkeys,Three Monkeys,0,乌布,0.0,0.0,0.0
+西式正餐,Mykonos,Mykonos,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Il Ristorante,Il Ristorante,0,库塔,7.0,7.0,7.1
+西式正餐,Mase Kitchen & Bar at Maca Villas & Spa,Mase Kitchen & Bar at Maca Villas & Spa,0,库塔,0.0,0.0,0.0
+西式正餐,The Stones Entertainment Center,The Stones Entertainment Center,0,库塔,0.0,0.0,0.0
+西式正餐,Ultimo,Ultimo,0,库塔,7.5,7.5,7.5
+西式正餐,Karma Lounge,Karma Lounge,0,金巴兰,0.0,0.0,0.0
+西式正餐,Uncle Norms,Uncle Norms,0,库塔,0.0,0.0,0.0
+西式正餐,La Rustica Cucina Italiana,La Rustica Cucina Italiana,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Chocolate Café,Chocolate Café,0,乌鲁瓦图,0.0,0.0,0.0
+西式正餐,The Village,The Village,0,沙努尔,0.0,0.0,0.0
+西式正餐,Dewi Ramona Restaurant,Dewi Ramona Restaurant,0,佩穆泰兰,0.0,0.0,0.0
+西式正餐,Sip Wine Bar,Sip Wine Bar,0,库塔,0.0,0.0,0.0
+西式正餐,Atman Kafe,Atman Kafe,0,乌布,0.0,0.0,0.0
+西式正餐,Trattoria Oberoi Bali,Trattoria Oberoi Bali,0,库塔,0.0,0.0,0.0
+西式正餐,Secret Garden Bar & Restaurant,Secret Garden Bar & Restaurant,0,库塔,0.0,0.0,0.0
+西式正餐,La Favela,La Favela,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Taco Casa,Taco Casa,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,ULTIMO,ULTIMO,0,库塔,7.0,7.0,7.0
+西式正餐,Bunga Bungalo,Bunga Bungalo,0,蓝梦岛,0.0,0.0,0.0
+西式正餐,Muntigs Bar & Restaurant,Muntigs Bar & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Pearl French Restaurant,Pearl French Restaurant,0,库塔,0.0,0.0,0.0
+西式正餐,Slippery Stone,Slippery Stone,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Salsa Bar,Salsa Bar,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式正餐,Trattoria Uluwatu Bali,Trattoria Uluwatu Bali,0,乌鲁瓦图,0.0,0.0,0.0
+西式正餐,Lilla Warung,Lilla Warung,0,沙努尔,0.0,0.0,0.0
+西式正餐,Cafe Romano,Cafe Romano,0,库塔,0.0,0.0,0.0
+西式正餐,Teatro Gastroteque,Teatro Gastroteque,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,La Madre,La Madre,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+西式正餐,La Finca Bali,La Finca Bali,0,仓古,0.0,0.0,0.0
+西式正餐,DD's Italian American Restaurant & Bar,DD's Italian American Restaurant & Bar,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式正餐,warung Doner Kebab,warung Doner Kebab,0,沙努尔,0.0,0.0,0.0
+西式正餐,Sandro's Pizzeria,Sandro's Pizzeria,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式正餐,The Glass House,The Glass House,0,沙努尔,0.0,0.0,0.0
+西式正餐,Barbacoa Bali,Barbacoa Bali,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Ari Home Stay & Hot Dog Shop,Ari Home Stay & Hot Dog Shop,0,坎迪达萨,0.0,0.0,0.0
+西式正餐,Warung Prancis,Warung Prancis,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,SOS Supper Club,SOS Supper Club,0,库塔,0.0,0.0,0.0
+西式正餐,CasCades Restaurant,CasCades Restaurant,0,乌布,0.0,0.0,0.0
+西式正餐,Mozzarella by the Sea at Maharta,Mozzarella by the Sea at Maharta,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Surfers Warung,Surfers Warung,0,乌鲁瓦图,0.0,0.0,0.0
+西式正餐,Al Dente Kitchen and Bar,Al Dente Kitchen and Bar,0,库塔,0.0,0.0,0.0
+西式正餐,D'Basket,D'Basket,0,乌布,0.0,0.0,0.0
+西式正餐,Trattoria,Trattoria,0,仓古,0.0,0.0,0.0
+西式正餐,Mama's,Mama's,0,库塔,0.0,0.0,0.0
+西式正餐,New Queen Bali,New Queen Bali,0,沙努尔,0.0,0.0,0.0
+西式正餐,Bistro Amsterdam,Bistro Amsterdam,0,沙努尔,0.0,0.0,0.0
+西式正餐,Pizza Ria Restaurant,Pizza Ria Restaurant,0,沙努尔,0.0,0.0,0.0
+西式正餐,Roma Amor,Roma Amor,0,库塔,0.0,0.0,0.0
+西式正餐,BLACKSTONE Terrace Bar & Lounge,BLACKSTONE Terrace Bar & Lounge,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式正餐,L'Assiette,L'Assiette,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,La Cucina,La Cucina,0,库塔,0.0,0.0,0.0
+西式正餐,Tulip,Tulip,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Legend Bar & Restaurant,Legend Bar & Restaurant,0,库塔,0.0,0.0,0.0
+西式正餐,Warung MAX!,Warung MAX!,0,库塔,0.0,0.0,0.0
+西式正餐,Five Monkeys - Fresh Burgers & Cold Beers,Five Monkeys - Fresh Burgers & Cold Beers,0,库塔,0.0,0.0,0.0
+西式正餐,Blooming Village,Blooming Village,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Taco Local,Taco Local,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Café del Mar,Café del Mar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Nirvana Restaurant,Nirvana Restaurant,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,PEPeNERO Cucina Italiana,PEPeNERO Cucina Italiana,0,金巴兰,0.0,0.0,0.0
+西式正餐,La Libre Taqueria,La Libre Taqueria,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Scratch,Scratch,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Three Monkeys Sanur,Three Monkeys Sanur,0,沙努尔,0.0,0.0,0.0
+西式正餐,Waroeng Tropical,Waroeng Tropical,0,库塔,0.0,0.0,0.0
+西式正餐,Kebun Zibiru Restaurant,Kebun Zibiru Restaurant,0,登巴萨,0.0,0.0,0.0
+西式正餐,Vignando Enoteca Winebar,Vignando Enoteca Winebar,0,库塔,0.0,0.0,0.0
+西式正餐,Caffe Italia Bali,Caffe Italia Bali,0,库塔,0.0,0.0,0.0
+西式正餐,Rondji Restaurant,Rondji Restaurant,0,乌布,0.0,0.0,0.0
+西式正餐,The Melting Pot Game Room & Pub,The Melting Pot Game Room & Pub,0,乌布,0.0,0.0,0.0
+西式正餐,New York Sports Bar & Diner,New York Sports Bar & Diner,0,库塔,0.0,0.0,0.0
+西式正餐,White Box,White Box,0,乌布,0.0,0.0,0.0
+西式正餐,Devilicious,Devilicious,0,乌布,0.0,0.0,0.0
+西式正餐,Bayu's Kitchen,Bayu's Kitchen,0,乌布,0.0,0.0,0.0
+西式正餐,Lotus Bungalows Restaurant,Lotus Bungalows Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Spaccanapoli di Ubud,Spaccanapoli di Ubud,0,乌布,0.0,0.0,0.0
+西式正餐,"Bene @ Kuta, Bali","Bene @ Kuta, Bali",0,库塔,0.0,0.0,0.0
+西式正餐,The Riviera Italian Restaurant,The Riviera Italian Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Tirtha Dining,Tirtha Dining,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Pizzeria Italia,Pizzeria Italia,0,乌鲁瓦图,0.0,0.0,0.0
+西式正餐,Indiana Kenanga Restaurant,Indiana Kenanga Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Vincent's,Vincent's,0,坎迪达萨,0.0,0.0,0.0
+西式正餐,Warung Tepi Sawah,Warung Tepi Sawah,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Drops resto & Lounge,Drops resto & Lounge,0,库塔,0.0,0.0,0.0
+西式正餐,Snack Shack,Snack Shack,0,沙努尔,0.0,0.0,0.0
+西式正餐,Tootsie Bar,Tootsie Bar,0,沙努尔,0.0,0.0,0.0
+西式正餐,Heliconia Restaurant,Heliconia Restaurant,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+西式正餐,Dolce Arancia,Dolce Arancia,0,乌布,0.0,0.0,0.0
+西式正餐,Rocket Bar and Restaurant,Rocket Bar and Restaurant,0,沙努尔,0.0,0.0,0.0
+西式正餐,Tropical,Tropical,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Warisan Restaurant & Bar,Warisan Restaurant & Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Lucky Day,Lucky Day,0,库塔,0.0,0.0,0.0
+西式正餐,Pizza Boy,Pizza Boy,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,The Porch Cafe,The Porch Cafe,0,沙努尔,0.0,0.0,0.0
+西式正餐,Chez Raymond,Chez Raymond,0,库塔,0.0,0.0,0.0
+西式正餐,Indochine Restaurant,Indochine Restaurant,0,乌布,0.0,0.0,0.0
+西式正餐,Puri Santrian Beach Club Bar & Restaurant,Puri Santrian Beach Club Bar & Restaurant,0,沙努尔,0.0,0.0,0.0
+西式正餐,La Plancha,La Plancha,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,topeng,topeng,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Ristorante Sale e Pepe,Ristorante Sale e Pepe,0,沙努尔,0.0,0.0,0.0
+西式正餐,Swish Bar & Restaurant,Swish Bar & Restaurant,0,库塔,0.0,0.0,0.0
+西式正餐,Spizziko,Spizziko,0,库塔,0.0,0.0,0.0
+西式正餐,DeJaVu Kitchen,DeJaVu Kitchen,0,库塔,0.0,0.0,0.0
+西式正餐,La Sal,La Sal,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Salt Tapas by Luke Mangan,Salt Tapas by Luke Mangan,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Blue Marlin,Blue Marlin,0,库塔,6.9,6.9,7.0
+西式正餐,Warung Campur-Campur,Warung Campur-Campur,0,乌鲁瓦图,0.0,0.0,0.0
+西式正餐,Tropical Bale,Tropical Bale,0,乌布,0.0,0.0,0.0
+西式正餐,Baba's,Baba's,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Kopi Kats,Kopi Kats,0,乌布,0.0,0.0,0.0
+西式正餐,Pazia Bar & Resto,Pazia Bar & Resto,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,The French Kitchen,The French Kitchen,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,sandbar,sandbar,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Chill'n in Bali,Chill'n in Bali,0,库塔,0.0,0.0,0.0
+西式正餐,Papa Richard Restaurant @ Bar,Papa Richard Restaurant @ Bar,0,库塔,0.0,0.0,0.0
+西式正餐,Uma Cucina Ubud,Uma Cucina Ubud,0,乌布,0.0,0.0,0.0
+西式正餐,Bali Colada,Bali Colada,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Bella Cucina,Bella Cucina,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Shandy's,Shandy's,0,库塔,0.0,0.0,0.0
+西式正餐,Tamas Restaurant,Tamas Restaurant,0,乌布,0.0,0.0,0.0
+西式正餐,LaVigna - The Vineyard,LaVigna - The Vineyard,0,库塔,0.0,0.0,0.0
+西式正餐,CP Royal Steakhouse and Lounge,CP Royal Steakhouse and Lounge,0,乌布,0.0,0.0,0.0
+西式正餐,Lacalaca Cantina Mexicana,Lacalaca Cantina Mexicana,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Il Warung,Il Warung,0,库塔,0.0,0.0,0.0
+西式正餐,Tapping Shoes,Tapping Shoes,0,库塔,0.0,0.0,0.0
+西式正餐,La Mexicana,La Mexicana,0,仓古,0.0,0.0,0.0
+西式正餐,Joe's Baresto,Joe's Baresto,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Pizza Bagus,Pizza Bagus,0,乌布,0.0,0.0,0.0
+西式正餐,Ifiori,Ifiori,0,库塔,0.0,0.0,0.0
+西式正餐,Warung Italia,Warung Italia,0,库塔,0.0,0.0,0.0
+西式正餐,TJ's Mexican Bar & Restaurant,TJ's Mexican Bar & Restaurant,0,库塔,0.0,0.0,0.0
+西式正餐,Cat & Fiddle,Cat & Fiddle,0,沙努尔,0.0,0.0,0.0
+西式正餐,Warung ExtraBlatt,Warung ExtraBlatt,0,库塔,0.0,0.0,0.0
+西式正餐,Giorgio Italian Cuisine,Giorgio Italian Cuisine,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式正餐,AL DENTE',AL DENTE',0,库塔,0.0,0.0,0.0
+西式正餐,Luna Negra,Luna Negra,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Il Pomodoro,Il Pomodoro,0,登巴萨,0.0,0.0,0.0
+西式正餐,Cosa Nostra,Cosa Nostra,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,me'nu,me'nu,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Blue Wasabi Steak Lounge,Blue Wasabi Steak Lounge,0,乌鲁瓦图,0.0,0.0,0.0
+西式正餐,Cafe Seminyak,Cafe Seminyak,0,库塔,0.0,0.0,0.0
+西式正餐,Bubba Gump,Bubba Gump,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Superman Pizzaria ItalianRestaurant & Bar,Superman Pizzaria ItalianRestaurant & Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Slavyanka,Slavyanka,0,吉安雅/克拉马斯,0.0,0.0,0.0
+西式正餐,JTs Mexican,JTs Mexican,0,库塔,0.0,0.0,0.0
+西式正餐,Soho Diner,Soho Diner,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Casa Luna International Restaurant,Casa Luna International Restaurant,0,沙努尔,0.0,0.0,0.0
+西式正餐,Baker's Corner,Baker's Corner,0,登巴萨,0.0,0.0,0.0
+西式正餐,Poco Loco,Poco Loco,0,库塔,0.0,0.0,0.0
+西式正餐,Pignou di Penyu,Pignou di Penyu,0,乌布,0.0,0.0,0.0
+西式正餐,Wah Wah Burger,Wah Wah Burger,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,The Club Kitchen,The Club Kitchen,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Black Beach,Black Beach,0,乌布,0.0,0.0,0.0
+西式正餐,Taman Sari,Taman Sari,0,库塔,0.0,0.0,0.0
+西式正餐,Warung Souvlaki,Warung Souvlaki,0,库塔,0.0,0.0,0.0
+西式正餐,Lotus Seaview,Lotus Seaview,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Il Cielo,Il Cielo,0,库塔,0.0,0.0,0.0
+西式正餐,Adrenalin Sports Bar,Adrenalin Sports Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Pavone,Pavone,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Leon Beach Bistro,Leon Beach Bistro,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Au Bon Marche,Au Bon Marche,0,沙努尔,0.0,0.0,0.0
+西式正餐,Sasa' Ristorante italiano,Sasa' Ristorante italiano,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Giardino,Giardino,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Sea Circus,Sea Circus,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,The Plumbers Arms,The Plumbers Arms,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Mexican Express,Mexican Express,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Waring Sridana,Waring Sridana,0,艾湄湾,0.0,0.0,0.0
+西式正餐,Pili Pili Resto,Pili Pili Resto,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Yummy tummy,Yummy tummy,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,"Root & Branch Bali, Bistro & Bar","Root & Branch Bali, Bistro & Bar",0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Little Italy,Little Italy,0,库塔,7.1,7.1,7.1
+西式正餐,Reef,Reef,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Bistro95,Bistro95,0,沙努尔,0.0,0.0,0.0
+西式正餐,Swiss Restaurant,Swiss Restaurant,0,库塔,0.0,0.0,0.0
+西式正餐,Dapur Bunda,Dapur Bunda,0,吉安雅/克拉马斯,0.0,0.0,0.0
+西式正餐,Vivai Restaurant,Vivai Restaurant,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Splash Bistro,Splash Bistro,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Meja Restaurant and Bar,Meja Restaurant and Bar,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Beduur Restaurant,Beduur Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Devali,Devali,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,LA BRUSCHETTA ITALIAN PIZZERIA,LA BRUSCHETTA ITALIAN PIZZERIA,0,沙努尔,0.0,0.0,0.0
+西式正餐,Coffeeshop Banket Bakery Belanda,Coffeeshop Banket Bakery Belanda,0,登巴萨,0.0,0.0,0.0
+西式正餐,Tommy's Cafe,Tommy's Cafe,0,登巴萨,0.0,0.0,0.0
+西式正餐,Warung Creative,Warung Creative,0,库塔,0.0,0.0,0.0
+西式正餐,La Vigna Italian Restaurant,La Vigna Italian Restaurant,0,库塔,0.0,0.0,0.0
+西式正餐,Cafe Havana,Cafe Havana,0,乌布,0.0,0.0,0.0
+西式正餐,Portabella Bistro,Portabella Bistro,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Divine Wonderland,Divine Wonderland,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,D'Waroeng,D'Waroeng,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,GET BARREL,GET BARREL,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,The Ducks Nutz,The Ducks Nutz,0,沙努尔,0.0,0.0,0.0
+西式正餐,Warung Kesari,Warung Kesari,0,沙努尔,0.0,0.0,0.0
+西式正餐,Bar Luna,Bar Luna,0,乌布,0.0,0.0,0.0
+西式正餐,Kalimantan Bar/Restaurant,Kalimantan Bar/Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Salsa Verde,Salsa Verde,0,吉安雅/克拉马斯,0.0,0.0,0.0
+西式正餐,Serenity Spanish Bar & Restaurant,Serenity Spanish Bar & Restaurant,0,沙努尔,0.0,0.0,0.0
+西式正餐,Lazer Sport Bar,Lazer Sport Bar,0,沙努尔,0.0,0.0,0.0
+西式正餐,Bali Deli Sanur,Bali Deli Sanur,0,沙努尔,0.0,0.0,0.0
+西式正餐,Barb's Sports Warung,Barb's Sports Warung,0,沙努尔,0.0,0.0,0.0
+西式正餐,Bali Pub Bar and Restaurant,Bali Pub Bar and Restaurant,0,沙努尔,0.0,0.0,0.0
+西式正餐,Mojo's Flying Burritos,Mojo's Flying Burritos,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Unico Italian Restaurant,Unico Italian Restaurant,0,库塔,0.0,0.0,0.0
+西式正餐,L'Entrecote Bali,L'Entrecote Bali,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Warung Casa Loca,Warung Casa Loca,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,Panterai,Panterai,0,库塔,0.0,0.0,0.0
+西式正餐,Tubes Bar and Restaurant,Tubes Bar and Restaurant,0,库塔,0.0,0.0,0.0
+西式正餐,Napi Orti Ubud,Napi Orti Ubud,0,乌布,0.0,0.0,0.0
+西式正餐,Profitto Restaurant,Profitto Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Cosmic Diner,Cosmic Diner,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Ristorante Italia,Ristorante Italia,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Barbie-Q German Beer Garden,Barbie-Q German Beer Garden,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Gomez Kinda Mexican Restaurant and Barbarella Bar,Gomez Kinda Mexican Restaurant and Barbarella Bar,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Mojo's Flying Burritos,Mojo's Flying Burritos,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Mojo's Flying Burritos,Mojo's Flying Burritos,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Motel Mexicola,Motel Mexicola,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Sticky Fingers,Sticky Fingers,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Little Bavaria Bali Biergarten,Little Bavaria Bali Biergarten,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Faces Restaurant,Faces Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Passargad Restaurant,Passargad Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Mojo's Flying Burritos,Mojo's Flying Burritos,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Evo,Evo,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Saloon,Saloon,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Isola Restaurant,Isola Restaurant,0,沙努尔,0.0,0.0,0.0
+西式正餐,Tekor Bali,Tekor Bali,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Kemiri,Kemiri,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,Santa Fe,Santa Fe,0,艾湄湾,7.1,7.0,6.9
+西式正餐,Dancing Pig Burger and Juice Bar,Dancing Pig Burger and Juice Bar,0,沙努尔,0.0,0.0,0.0
+西式正餐,Basilico italian pavillion & bar,Basilico italian pavillion & bar,0,沙努尔,0.0,0.0,0.0
+西式正餐,"Chef de Partie, Casual French","Chef de Partie, Casual French",0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式正餐,BLUE MARLIN,BLUE MARLIN,0,塔巴南,6.9,7.0,7.0
+西式正餐,Tony Roma's,Tony Roma's,0,,0.0,0.0,0.0
+西式正餐,Kupu Kupu Barong Villas餐厅,Kupu Kupu Barong Villas餐厅,0,,0.0,0.0,0.0
+西式正餐,Salsa Verde – Beach-Front Italian ResTaurAnt,Salsa Verde – Beach-Front Italian ResTaurAnt,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式正餐,Bali Moon,Bali Moon,0,吉安雅/克拉马斯,0.0,0.0,0.0
+西式正餐,“Bali-Club” Dive Centre Restaurant,“Bali-Club” Dive Centre Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式正餐,The Clubhouse,The Clubhouse,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Pronto Pizza,Pronto Pizza,0,库塔,8.7,8.1,8.2
+西式快餐,Rosso Vivo,Rosso Vivo,0,,8.3,8.4,8.0
+西式快餐,Uno Italian & Seafood Restaurant,Uno Italian & Seafood Restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式快餐,Restaurant Locavore,Restaurant Locavore,0,乌布,0.0,0.0,0.0
+西式快餐,Kitchenette,Kitchenette,0,库塔,0.0,0.0,0.0
+西式快餐,Bene Lane Cafe,Bene Lane Cafe,0,库塔,0.0,0.0,0.0
+西式快餐,Sakala Bali,Sakala Bali,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式快餐,Atlichnaya Bar,Atlichnaya Bar,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式快餐,Tapa Nusa Dua,Tapa Nusa Dua,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式快餐,EatWell Bali,EatWell Bali,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式快餐,CharMing,CharMing,0,沙努尔,0.0,0.0,0.0
+西式快餐,Warung Schnitzel,Warung Schnitzel,0,乌布,0.0,0.0,0.0
+西式快餐,Lotus Lane Restaurant,Lotus Lane Restaurant,0,乌布,0.0,0.0,0.0
+西式快餐,The Fire Station,The Fire Station,0,沙努尔,0.0,0.0,0.0
+西式快餐,Lemonade,Lemonade,0,乌布,0.0,0.0,0.0
+西式快餐,Eight Degrees South at Conrad Bali,Eight Degrees South at Conrad Bali,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式快餐,"The Damai Restaurant, Lovina","The Damai Restaurant, Lovina",0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+西式快餐,Cocos Beach Restaurant at Novotel Bali Benoa,Cocos Beach Restaurant at Novotel Bali Benoa,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式快餐,Warung Kayu Api,Warung Kayu Api,0,沙努尔,0.0,0.0,0.0
+西式快餐,New Zealand Natural,New Zealand Natural,0,库塔,6.9,6.7,6.7
+西式快餐,Pavoz Restaurant,Pavoz Restaurant,0,库塔,0.0,0.0,0.0
+西式快餐,Dream Beach Villas and Restaurant,Dream Beach Villas and Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Mozaic Restaurant Gastronomique,Mozaic Restaurant Gastronomique,0,乌布,0.0,0.0,0.0
+西式快餐,Sjaki's Warung,Sjaki's Warung,0,乌布,0.0,0.0,0.0
+西式快餐,Warung Take 5,Warung Take 5,0,库塔,0.0,0.0,0.0
+西式快餐,Nusa Dua Pizza,Nusa Dua Pizza,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式快餐,Beer Garden Kuta,Beer Garden Kuta,0,库塔,0.0,0.0,0.0
+西式快餐,Chez Gado Gado,Chez Gado Gado,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式快餐,Warung Blanjong,Warung Blanjong,0,沙努尔,0.0,0.0,0.0
+西式快餐,Pizzona,Pizzona,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+西式快餐,Jibaku Bar & Restaurant,Jibaku Bar & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Umah Pizza,Umah Pizza,0,乌布,0.0,0.0,0.0
+西式快餐,Ketumbar Restaurant & Lounge,Ketumbar Restaurant & Lounge,0,库塔,0.0,0.0,0.0
+西式快餐,Garlic Lane Restaurant,Garlic Lane Restaurant,0,库塔,0.0,0.0,0.0
+西式快餐,Warung Yuti,Warung Yuti,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式快餐,Finn's Beach Club,Finn's Beach Club,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Warung Padang Kecag,Warung Padang Kecag,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Rikki's Beach Bistro,Rikki's Beach Bistro,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,PATTY Gourmet Burger,PATTY Gourmet Burger,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式快餐,Milly's Warung,Milly's Warung,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式快餐,De Cecco Pizza Napoli,De Cecco Pizza Napoli,0,吉安雅/克拉马斯,0.0,0.0,0.0
+西式快餐,Tuesday Night Pizza Club,Tuesday Night Pizza Club,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式快餐,Warung Mina,Warung Mina,0,库塔,0.0,0.0,0.0
+西式快餐,Le Petit Prince,Le Petit Prince,0,登巴萨,0.0,0.0,0.0
+西式快餐,Boomerang Bar & Restaurant Bali,Boomerang Bar & Restaurant Bali,0,库塔,0.0,0.0,0.0
+西式快餐,Dabumito,Dabumito,0,仓古,0.0,0.0,0.0
+西式快餐,Maccaroni Club,Maccaroni Club,0,库塔,0.0,0.0,0.0
+西式快餐,Chunky Chunks,Chunky Chunks,0,库塔,0.0,0.0,0.0
+西式快餐,Cafe Locca,Cafe Locca,0,沙努尔,0.0,0.0,0.0
+西式快餐,CarameL Ubud,CarameL Ubud,0,乌布,0.0,0.0,0.0
+西式快餐,Moko's@Mina,Moko's@Mina,0,乌布,0.0,0.0,0.0
+西式快餐,Brazilian Aussie BBQ,Brazilian Aussie BBQ,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Pizza Club Sanur,Pizza Club Sanur,0,沙努尔,0.0,0.0,0.0
+西式快餐,Sarpinos's Pizeria,Sarpinos's Pizeria,0,库塔,0.0,0.0,0.0
+西式快餐,XL Shisha Lounge,XL Shisha Lounge,0,乌布,0.0,0.0,0.0
+西式快餐,Guling Guling,Guling Guling,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Waroeng Enak 718,Waroeng Enak 718,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式快餐,"Root & Branch, Bistro & Bar","Root & Branch, Bistro & Bar",0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Warung Astawa,Warung Astawa,0,坎迪达萨,0.0,0.0,0.0
+西式快餐,Blue Corner Bar & Restaurant,Blue Corner Bar & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Crazy Kangaroo,Crazy Kangaroo,0,坎迪达萨,0.0,0.0,0.0
+西式快餐,Cafe Sardinia,Cafe Sardinia,0,库塔,0.0,0.0,0.0
+西式快餐,Bow Restaurant,Bow Restaurant,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式快餐,Warung Italia BBQ Kerobokan,Warung Italia BBQ Kerobokan,0,仓古,0.0,0.0,0.0
+西式快餐,Johnny Rockets,Johnny Rockets,0,塔巴南,0.0,0.0,0.0
+西式快餐,Man Frydays Fish and Chip Shop,Man Frydays Fish and Chip Shop,0,沙努尔,0.0,0.0,0.0
+西式快餐,Capris Beachfront Bar & Restaurant,Capris Beachfront Bar & Restaurant,0,库塔,0.0,0.0,0.0
+西式快餐,Nau Mai,Nau Mai,0,坎迪达萨,0.0,0.0,0.0
+西式快餐,Tony Roma's,Tony Roma's,0,库塔,7.1,7.1,7.1
+西式快餐,Fortune Cookie,Fortune Cookie,0,吉安雅/克拉马斯,7.1,7.1,6.7
+西式快餐,Pizza Tuka,Pizza Tuka,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Chez L'ami Yoan,Chez L'ami Yoan,0,库塔,0.0,0.0,0.0
+西式快餐,Sandpit Beach Shack,Sandpit Beach Shack,0,库塔,0.0,0.0,0.0
+西式快餐,The Kebab Shop,The Kebab Shop,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Dcorner Bar and Resto,Dcorner Bar and Resto,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Glove & Stove,Glove & Stove,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Kakilima,Kakilima,0,仓古,0.0,0.0,0.0
+西式快餐,GoFast,GoFast,0,仓古,0.0,0.0,0.0
+西式快餐,Pantarei,Pantarei,0,库塔,0.0,0.0,0.0
+西式快餐,Pizza House Canggu,Pizza House Canggu,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Champling,Champling,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,The Deck,The Deck,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+西式快餐,Casa Colonial Restaurant,Casa Colonial Restaurant,0,沙努尔,0.0,0.0,0.0
+西式快餐,Bali Buddha,Bali Buddha,0,乌布,0.0,0.0,0.0
+西式快餐,Dian Café Canggu,Dian Café Canggu,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,Wismasari Resto,Wismasari Resto,0,巴厘岛其他,0.0,0.0,0.0
+西式快餐,The Loop,The Loop,0,仓古,0.0,0.0,0.0
+西式快餐,Sari Agung Restaurant & Bar,Sari Agung Restaurant & Bar,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+海鲜,Kisik Bar and Grill at Ayana Resort and Spa,Kisik Bar and Grill at Ayana Resort and Spa,250,金巴兰,9.1,9.2,9.2
+海鲜,Seafood House,Seafood House,291,库塔,9.1,9.1,9.1
+海鲜,Bamboo Bar & Grill,Bamboo Bar & Grill,164,库塔,8.9,9.0,8.8
+海鲜,布巴甘虾业公司,布巴甘虾业公司,160,库塔,7.8,8.1,8.6
+海鲜,Sangkar Restaurant,Sangkar Restaurant,0,乌鲁瓦图,8.0,8.8,8.7
+海鲜,巴厘渔村,巴厘渔村,0,金巴兰,7.3,7.5,7.5
+海鲜,Menega Cafe,Menega Cafe,0,努沙度瓦-丹戎贝诺瓦,7.4,6.8,7.1
+海鲜,巴里渔港,巴里渔港,188,,8.0,7.9,8.2
+海鲜,好好海鮮,好好海鮮,0,库塔,0.0,0.0,0.0
+海鲜,老大,老大,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+海鲜,Dena's Cafe,Dena's Cafe,0,金巴兰,7.9,8.2,8.0
+海鲜,BLUE OCEAN SEAFOOD,BLUE OCEAN SEAFOOD,0,库塔,6.3,7.6,6.3
+海鲜,Ocean,Ocean,0,,8.6,8.6,8.2
+海鲜,New Moon Cafe,New Moon Cafe,0,金巴兰,6.9,6.9,7.1
+海鲜,海港渔村,海港渔村,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+海鲜,Lia Cafe,Lia Cafe,0,金巴兰,0.0,0.0,0.0
+海鲜,Teba Mega Cafe,Teba Mega Cafe,0,金巴兰,0.0,0.0,0.0
+海鲜,飞龙餐厅,飞龙餐厅,0,,6.7,7.2,7.0
+海鲜,好好海鲜,好好海鲜,0,贝都古/姆杜克,6.9,6.4,6.9
+海鲜,筷子餐厅,筷子餐厅,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+海鲜,Sea side Cafe,Sea side Cafe,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,仙岛海鲜餐厅,仙岛海鲜餐厅,0,库塔,6.2,6.2,6.2
+海鲜,Sardine,Sardine,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+海鲜,Ocean,Ocean,0,努沙度瓦-丹戎贝诺瓦,7.0,6.9,6.6
+海鲜,Coconut Bali Resto,Coconut Bali Resto,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+海鲜,Romantic Dinner in Jimbaran Bay,Romantic Dinner in Jimbaran Bay,0,库塔,0.0,0.0,0.0
+海鲜,Omang Omang Grill,Omang Omang Grill,0,沙努尔,6.9,6.9,6.9
+海鲜,Gekko The Ocean Bali,Gekko The Ocean Bali,0,塔巴南,6.9,7.0,6.9
+海鲜,Di Mare Restaurant,Di Mare Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,ROMA,ROMA,0,金巴兰,5.2,5.2,5.2
+海鲜,Taksu Spa & Restaurant,Taksu Spa & Restaurant,0,乌布,0.0,0.0,0.0
+海鲜,Warung Chinese and Seafood Kwetian Medan,Warung Chinese and Seafood Kwetian Medan,0,库塔,0.0,0.0,0.0
+海鲜,Surya Cafe,Surya Cafe,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+海鲜,Cafe Jukung,Cafe Jukung,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Coconut Restaurant,Coconut Restaurant,0,艾湄湾,0.0,0.0,0.0
+海鲜,Verandah,Verandah,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+海鲜,红树湾海鲜餐厅,红树湾海鲜餐厅,0,巴厘岛其他,6.7,5.9,6.7
+海鲜,OAZIA Spavodka Lobster Bar,OAZIA Spavodka Lobster Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+海鲜,Warung Sunrise,Warung Sunrise,0,登巴萨,0.0,0.0,0.0
+海鲜,Roman Cafe,Roman Cafe,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Ocean Terrace,Ocean Terrace,0,库塔,0.0,0.0,0.0
+海鲜,Sardines seminyak,Sardines seminyak,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+海鲜,Melasti,Melasti,0,海神庙,0.0,0.0,0.0
+海鲜,Pandan Sari Cafe,Pandan Sari Cafe,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Bubba Gump Shrimp Co,Bubba Gump Shrimp Co,0,库塔,7.2,7.2,7.2
+海鲜,Omang Omang Grill,Omang Omang Grill,0,沙努尔,7.0,7.0,7.0
+海鲜,Cafe Sendok,Cafe Sendok,0,库塔,0.0,0.0,0.0
+海鲜,sungai sea food,sungai sea food,0,库塔,0.0,0.0,0.0
+海鲜,Warung Lesung,Warung Lesung,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Padangbai cafe,Padangbai cafe,0,席德门/邦利/巴东湾,0.0,0.0,0.0
+海鲜,Frangipani Bar & Restaurant,Frangipani Bar & Restaurant,0,塔巴南,0.0,0.0,0.0
+海鲜,Depot Segara,Depot Segara,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Nyoman Cafe Jimbaran,Nyoman Cafe Jimbaran,0,金巴兰,0.0,0.0,0.0
+海鲜,Bawang Merah Restaurant,Bawang Merah Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Sambal Shrimp,Sambal Shrimp,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+海鲜,Sand Beach Club & Restaurant,Sand Beach Club & Restaurant,0,沙努尔,0.0,0.0,0.0
+海鲜,Jimbaran Beach Club (JBC),Jimbaran Beach Club (JBC),0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Warung Shanti,Warung Shanti,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Tropical Seafood & Grill,Tropical Seafood & Grill,0,吉安雅/克拉马斯,0.0,0.0,0.0
+海鲜,Pandan Sari Restaurant,Pandan Sari Restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+海鲜,Jimbaran Bay,Jimbaran Bay,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Flying Fish,Flying Fish,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Warung Subak,Warung Subak,0,登巴萨,0.0,0.0,0.0
+海鲜,Tropical An International Restaurant,Tropical An International Restaurant,0,沙努尔,0.0,0.0,0.0
+海鲜,Scooby Doo Bar & Cafe,Scooby Doo Bar & Cafe,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Warung Ombak,Warung Ombak,0,艾湄湾,0.0,0.0,0.0
+海鲜,Gosha Restaurant,Gosha Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Eve's Kitchen,Eve's Kitchen,0,吉安雅/克拉马斯,0.0,0.0,0.0
+海鲜,Cafe Kesuma,Cafe Kesuma,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Beluga,Beluga,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Benny's Bistro,Benny's Bistro,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Bali jimbaran aroma,Bali jimbaran aroma,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Balissa Restaurant,Balissa Restaurant,0,坎迪达萨,0.0,0.0,0.0
+海鲜,Kubuku Resto,Kubuku Resto,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,皇宫中国海鲜菜馆,皇宫中国海鲜菜馆,0,,0.0,0.0,0.0
+海鲜,Sea Food House,Sea Food House,0,,0.0,0.0,0.0
+海鲜,Wali Beach seafood cafe Barbeque,Wali Beach seafood cafe Barbeque,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+海鲜,Pitanira Resto,Pitanira Resto,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+海鲜,New Moon,New Moon,0,金巴兰,0.0,0.0,0.0
+海鲜,BELUGA Seafood Fusion Resto,BELUGA Seafood Fusion Resto,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Jugong Restaurant,Jugong Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Wali Beach Cafe,Wali Beach Cafe,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Matahari Cafe,Matahari Cafe,0,巴厘岛其他,0.0,0.0,0.0
+海鲜,Bali Nelsyan,Bali Nelsyan,0,,0.0,0.0,0.0
+烧烤,"HOG wild - Batubelig, Bali","HOG wild - Batubelig, Bali",87,水明漾/塞米雅海滩,9.1,8.5,8.7
+烧烤,Kayuputi at St. Regis Bali Resort,Kayuputi at St. Regis Bali Resort,0,努沙度瓦-丹戎贝诺瓦,8.3,8.6,8.8
+烧烤,Beach Bali Café,Beach Bali Café,0,金巴兰,7.4,7.8,7.5
+烧烤,The Beach Club at Sandy Bay,The Beach Club at Sandy Bay,0,蓝梦岛,6.4,7.3,7.4
+烧烤,Warung Sunset,Warung Sunset,0,库塔,7.5,7.3,7.5
+烧烤,LeiLei,LeiLei,0,金巴兰,6.8,7.1,6.7
+烧烤,Cinta Grill and Inn,Cinta Grill and Inn,0,乌布,0.0,0.0,0.0
+烧烤,Warung Wahaha,Warung Wahaha,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+烧烤,Pool Grill Pan Pacific Nirwana Bali Resort,Pool Grill Pan Pacific Nirwana Bali Resort,0,海神庙,0.0,0.0,0.0
+烧烤,Segara Asian Grill,Segara Asian Grill,0,库塔,0.0,0.0,0.0
+烧烤,The Grill Corner,The Grill Corner,0,库塔,0.0,0.0,0.0
+烧烤,Taco Beach Grill,Taco Beach Grill,0,库塔,0.0,0.0,0.0
+烧烤,The Urban Herb Grill & Bar,The Urban Herb Grill & Bar,0,库塔,0.0,0.0,0.0
+烧烤,Moo Moos Steakhouse Bar and Grill,Moo Moos Steakhouse Bar and Grill,0,库塔,0.0,0.0,0.0
+烧烤,Karma Beach Bali,Karma Beach Bali,0,巴厘岛其他,0.0,0.0,0.0
+烧烤,Stakz Bar & Grill,Stakz Bar & Grill,0,库塔,0.0,0.0,0.0
+烧烤,Nusa Daa Beach Grill,Nusa Daa Beach Grill,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+烧烤,Sang Ria Grill Bali,Sang Ria Grill Bali,0,库塔,0.0,0.0,0.0
+烧烤,Lestari Grill & Pasta,Lestari Grill & Pasta,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+烧烤,The Grill Bar & Restaurant,The Grill Bar & Restaurant,0,艾湄湾,0.0,0.0,0.0
+烧烤,Watermark Bali,Watermark Bali,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+烧烤,Gula Bali Padangtegal,Gula Bali Padangtegal,0,乌布,0.0,0.0,0.0
+烧烤,Jokers Bar & Grill,Jokers Bar & Grill,0,库塔,0.0,0.0,0.0
+烧烤,"R n B, Ribs n Burritos","R n B, Ribs n Burritos",0,库塔,0.0,0.0,0.0
+烧烤,Restaurant Gede Fish & Langustinos Asia,Restaurant Gede Fish & Langustinos Asia,0,艾湄湾,0.0,0.0,0.0
+烧烤,Jepun Warung & Grill,Jepun Warung & Grill,0,乌布,0.0,0.0,0.0
+烧烤,Kumendel,Kumendel,0,巴厘岛其他,0.0,0.0,0.0
+烧烤,Depot Segara,Depot Segara,0,巴厘岛其他,0.0,0.0,0.0
+烧烤,Nusa Dua Beach Grill,Nusa Dua Beach Grill,0,登巴萨,0.0,0.0,0.0
+烧烤,Coco Cafe & Grill,Coco Cafe & Grill,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+烧烤,Jokers Bar & Grill Bali,Jokers Bar & Grill Bali,0,库塔,0.0,0.0,0.0
+烧烤,La Bumbu Grill Terrace Legian,La Bumbu Grill Terrace Legian,0,库塔,0.0,0.0,0.0
+烧烤,Layali Arabiya Lebanese Restaurant and Lounge,Layali Arabiya Lebanese Restaurant and Lounge,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+烧烤,Tendan Korean Bbq,Tendan Korean Bbq,0,库塔,0.0,0.0,0.0
+烧烤,Pavilion Grill Bar,Pavilion Grill Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+烧烤,Cacho Sunset Grill,Cacho Sunset Grill,0,乌鲁瓦图,0.0,0.0,0.0
+烧烤,Lanai Beach Bar and Grill,Lanai Beach Bar and Grill,0,仓古,0.0,0.0,0.0
+烧烤,Bawang Merah Beach Front Jimbaran,Bawang Merah Beach Front Jimbaran,0,巴厘岛其他,0.0,0.0,0.0
+烧烤,Skyblue Bar and Branded Grill,Skyblue Bar and Branded Grill,0,巴厘岛其他,0.0,0.0,0.0
+烧烤,Titie's Warung,Titie's Warung,0,巴厘岛其他,0.0,0.0,0.0
+烧烤,THE GRILL,THE GRILL,0,巴厘岛其他,0.0,0.0,0.0
+烧烤,Cubana Bar and Grill,Cubana Bar and Grill,0,巴厘岛其他,0.0,0.0,0.0
+烧烤,THE BEACH GRILL(海滩烧烤),THE BEACH GRILL(海滩烧烤),0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+咖啡厅,Lia Cafe,Lia Cafe,131,金巴兰,7.6,7.5,7.6
+咖啡厅,Bamboo Corner,Bamboo Corner,0,库塔,7.0,6.4,6.3
+咖啡厅,STARBUCKS COFFEE,STARBUCKS COFFEE,0,巴厘岛其他,7.4,6.8,6.8
+咖啡厅,J.CO Donuts & Coffee,J.CO Donuts & Coffee,0,库塔,8.0,7.4,7.6
+咖啡厅,Fly Cafe,Fly Cafe,75,乌布,0.0,0.0,0.0
+咖啡厅,巴厘岛黄金金兔咖啡工厂,巴厘岛黄金金兔咖啡工厂,0,库塔,7.8,7.8,7.4
+咖啡厅,de Bali Cafe and Resto,de Bali Cafe and Resto,0,库塔,0.0,0.0,0.0
+咖啡厅,萨努尔星巴克,萨努尔星巴克,0,沙努尔,7.5,7.3,7.7
+咖啡厅,Black Canyon Coffee,Black Canyon Coffee,0,库塔,0.0,0.0,0.0
+咖啡厅,Cafe lotus,Cafe lotus,0,,0.0,0.0,0.0
+咖啡厅,Hard Rock Cafe Bali,Hard Rock Cafe Bali,0,库塔,0.0,0.0,0.0
+咖啡厅,Mama Donny Deli Cafe,Mama Donny Deli Cafe,0,金巴兰,0.0,0.0,0.0
+咖啡厅,Caviar Cafe,Caviar Cafe,0,金巴兰,5.9,6.3,6.4
+咖啡厅,Papa's Cafe,Papa's Cafe,0,库塔,0.0,0.0,0.0
+咖啡厅,Teras Padi Cafe,Teras Padi Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,Revolver,Revolver,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Dewata Cafe,Dewata Cafe,0,塔巴南,7.1,7.4,7.4
+咖啡厅,le grands cafe,le grands cafe,0,,5.8,7.9,7.4
+咖啡厅,Warung Sibuni,Warung Sibuni,0,乌鲁瓦图,0.0,0.0,0.0
+咖啡厅,Clear Cafe,Clear Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,"GaRaSi Restaurant, Bar & Coffeegarden","GaRaSi Restaurant, Bar & Coffeegarden",0,乌鲁瓦图,0.0,0.0,0.0
+咖啡厅,the Bread Basket,the Bread Basket,0,沙努尔,0.0,0.0,0.0
+咖啡厅,STARBUCKS Bali Collection Nusadua Bali,STARBUCKS Bali Collection Nusadua Bali,0,,0.0,0.0,0.0
+咖啡厅,Bemo Corner Coffee Shop,Bemo Corner Coffee Shop,0,金巴兰,7.9,7.9,7.7
+咖啡厅,Loco Cafe,Loco Cafe,0,努沙度瓦-丹戎贝诺瓦,6.9,6.9,6.9
+咖啡厅,Cafe Nyoman,Cafe Nyoman,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Kopi Luwak 种植园,Kopi Luwak 种植园,0,乌布,8.2,8.2,8.2
+咖啡厅,The River Cafe at Maya Ubud,The River Cafe at Maya Ubud,0,乌布,0.0,0.0,0.0
+咖啡厅,Bumbak Coffee,Bumbak Coffee,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Domba Coffee Factory,Domba Coffee Factory,0,库塔,7.7,7.7,7.2
+咖啡厅,长谷,长谷,0,乌鲁瓦图,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,乌布,6.8,8.3,7.5
+咖啡厅,Gloria Jean's Coffee,Gloria Jean's Coffee,0,库塔,0.0,0.0,0.0
+咖啡厅,巴厘岛水明漾富丽华,巴厘岛水明漾富丽华,0,,0.0,0.0,0.0
+咖啡厅,Kzu,Kzu,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Bakery Lovina,Bakery Lovina,0,新加拉惹/罗维纳海滩,7.4,7.4,8.1
+咖啡厅,Bali Pub Bar&Restaurant,Bali Pub Bar&Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Bela Seafood Cafe & Bar,Bela Seafood Cafe & Bar,0,,7.3,7.3,7.3
+咖啡厅,Kafe,Kafe,0,乌布,0.0,0.0,0.0
+咖啡厅,You and Me Cafe,You and Me Cafe,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Gourmet Cafe,Gourmet Cafe,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Wayan Coffee,Wayan Coffee,0,乌布,0.0,0.0,0.0
+咖啡厅,Secret Garden Bar and Cafe,Secret Garden Bar and Cafe,0,塔巴南,7.4,7.4,7.4
+咖啡厅,Yamayuri Udon Cafe,Yamayuri Udon Cafe,0,沙努尔,8.4,8.4,8.4
+咖啡厅,surya cafe,surya cafe,0,乌鲁瓦图,0.0,0.0,0.0
+咖啡厅,Jendela House,Jendela House,0,乌布,0.0,0.0,0.0
+咖啡厅,Buzz Cafe,Buzz Cafe,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,The Coffee House,The Coffee House,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Capsicum Cafe,Capsicum Cafe,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+咖啡厅,Allspice cafe,Allspice cafe,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+咖啡厅,Coffee Corner,Coffee Corner,0,库塔,0.0,0.0,0.0
+咖啡厅,Euro Cafe,Euro Cafe,0,金巴兰,0.0,0.0,0.0
+咖啡厅,Kreol Kitchen,Kreol Kitchen,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Bungalow Living Bali,Bungalow Living Bali,0,仓古,0.0,0.0,0.0
+咖啡厅,Maya's Coffee & Smoothie Bar,Maya's Coffee & Smoothie Bar,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Bella Vista Coffee & Juice Bar,Bella Vista Coffee & Juice Bar,0,库塔,0.0,0.0,0.0
+咖啡厅,Cafe Marzano,Cafe Marzano,0,库塔,0.0,0.0,0.0
+咖啡厅,Bali Eco Deli,Bali Eco Deli,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,omang omang cafe,omang omang cafe,0,席德门/邦利/巴东湾,0.0,0.0,0.0
+咖啡厅,KOMANG JOHN'S CAFE,KOMANG JOHN'S CAFE,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Paideia Coffee,Paideia Coffee,0,库塔,0.0,0.0,0.0
+咖啡厅,Monsieur Spoon,Monsieur Spoon,0,仓古,0.0,0.0,0.0
+咖啡厅,Coffee and ...,Coffee and ...,0,乌布,0.0,0.0,0.0
+咖啡厅,Seniman Coffee Studio,Seniman Coffee Studio,0,乌布,0.0,0.0,0.0
+咖啡厅,Casa D'Angelo's,Casa D'Angelo's,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Kismet Cafe and Boutique,Kismet Cafe and Boutique,0,乌布,0.0,0.0,0.0
+咖啡厅,Cafe Uluwatu Indah,Cafe Uluwatu Indah,0,乌鲁瓦图,0.0,0.0,0.0
+咖啡厅,Daniel's Coffee Corner,Daniel's Coffee Corner,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Bali Cafe,Bali Cafe,0,金巴兰,5.0,5.9,5.9
+咖啡厅,The Global Village Kafe,The Global Village Kafe,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+咖啡厅,Cafe Wayan,Cafe Wayan,0,坎迪达萨,7.2,7.2,7.2
+咖啡厅,Rolling Fork,Rolling Fork,0,库塔,0.0,0.0,0.0
+咖啡厅,Kumpung Cafe,Kumpung Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,The Coffee Library,The Coffee Library,0,登巴萨,0.0,0.0,0.0
+咖啡厅,Kampung Cafe,Kampung Cafe,0,乌布,7.1,7.0,7.0
+咖啡厅,Danu Art Cafe,Danu Art Cafe,0,巴厘岛其他,7.1,7.1,7.1
+咖啡厅,Radja seafood cafe,Radja seafood cafe,0,金巴兰,7.0,7.0,7.0
+咖啡厅,Wacko Burger Cafe,Wacko Burger Cafe,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Anomali Coffee Ubud,Anomali Coffee Ubud,0,吉安雅/克拉马斯,0.0,0.0,0.0
+咖啡厅,Menaga Cafe,Menaga Cafe,0,塔巴南,7.0,6.9,7.0
+咖啡厅,Pause Cafe at Novotel Bali Nusa Dua,Pause Cafe at Novotel Bali Nusa Dua,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Canteen Café Canggu,Canteen Café Canggu,0,仓古,0.0,0.0,0.0
+咖啡厅,Eco Cafè,Eco Cafè,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Warung Jatiluwih 259,Warung Jatiluwih 259,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Yellow Flower Cafe,Yellow Flower Cafe,0,塔巴南,0.0,0.0,0.0
+咖啡厅,Dolce Frutti Bali,Dolce Frutti Bali,0,库塔,0.0,0.0,0.0
+咖啡厅,Swamis Stay & Cafe,Swamis Stay & Cafe,0,乌鲁瓦图,0.0,0.0,0.0
+咖啡厅,Cup n' Cakes,Cup n' Cakes,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+咖啡厅,DROP. The Coffee Spot,DROP. The Coffee Spot,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Drifter Surf Shop & Cafe,Drifter Surf Shop & Cafe,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Cafe Italia Ristorante,Cafe Italia Ristorante,0,海神庙,0.0,0.0,0.0
+咖啡厅,Mugshot Coffee,Mugshot Coffee,0,库塔,0.0,0.0,0.0
+咖啡厅,Arta Mulia Cafe,Arta Mulia Cafe,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Freak Coffee,Freak Coffee,0,乌布,0.0,0.0,0.0
+咖啡厅,Cafe Jepun,Cafe Jepun,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Febri's Cafe and Bar,Febri's Cafe and Bar,0,库塔,0.0,0.0,0.0
+咖啡厅,La Playa Cafe,La Playa Cafe,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Avocado Cafe,Avocado Cafe,0,仓古,0.0,0.0,0.0
+咖啡厅,Coffee & Silver,Coffee & Silver,0,乌布,0.0,0.0,0.0
+咖啡厅,Cafe Luna,Cafe Luna,0,乌布,0.0,0.0,0.0
+咖啡厅,China Moon Cafe,China Moon Cafe,0,巴厘岛其他,7.1,7.1,7.1
+咖啡厅,Silly Snail Cafe,Silly Snail Cafe,0,努沙度瓦-丹戎贝诺瓦,6.9,6.9,6.9
+咖啡厅,ALON-ALON Terrace Cafe,ALON-ALON Terrace Cafe,0,乌布,7.1,7.1,7.3
+咖啡厅,Sunset Cafe Balangan Beach,Sunset Cafe Balangan Beach,0,巴厘岛其他,6.9,6.9,6.9
+咖啡厅,Starbucks Coffee,Starbucks Coffee,0,登巴萨,6.9,6.9,6.9
+咖啡厅,Legian Cafe Bar and Resturant,Legian Cafe Bar and Resturant,0,库塔,6.7,6.9,6.7
+咖啡厅,Bambu Roras Resto and Cafe,Bambu Roras Resto and Cafe,0,库塔,6.9,6.9,6.9
+咖啡厅,Bricks Cafe,Bricks Cafe,0,乌布,7.0,7.0,7.0
+咖啡厅,TERAS PADI CAFE,TERAS PADI CAFE,0,乌布,7.0,7.0,7.0
+咖啡厅,Furama Cafe Seafood - Jimbaran Bay,Furama Cafe Seafood - Jimbaran Bay,0,乌鲁瓦图,6.9,6.9,7.0
+咖啡厅,Bali Cafe 27,Bali Cafe 27,0,金巴兰,7.0,7.0,7.0
+咖啡厅,Gourmet Cafe at Dewi Sri,Gourmet Cafe at Dewi Sri,0,库塔,7.1,7.1,7.1
+咖啡厅,Amazing Bali Cafe,Amazing Bali Cafe,0,库塔,0.0,0.0,0.0
+咖啡厅,6point Cafe,6point Cafe,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Kopi on Bisma,Kopi on Bisma,0,乌布,0.0,0.0,0.0
+咖啡厅,Kue Bakery and Cafe,Kue Bakery and Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,Gloria Jean's Coffees Jalan Pantai,Gloria Jean's Coffees Jalan Pantai,0,库塔,0.0,0.0,0.0
+咖啡厅,Sparkly Cafe & Boutique,Sparkly Cafe & Boutique,0,乌布,0.0,0.0,0.0
+咖啡厅,WORD OF MOUTH,WORD OF MOUTH,0,登巴萨,0.0,0.0,0.0
+咖啡厅,Cool Beans Cafe Bali,Cool Beans Cafe Bali,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Localista,Localista,0,乌布,0.0,0.0,0.0
+咖啡厅,Tommy`s Cafe,Tommy`s Cafe,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Dapoer at Bambu Indah,Dapoer at Bambu Indah,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Colours Cafe at All Seasons Legian,Colours Cafe at All Seasons Legian,0,库塔,0.0,0.0,0.0
+咖啡厅,Pisang Manis Cafe,Pisang Manis Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,Cafe Marzano,Cafe Marzano,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Monsieur Spoon,Monsieur Spoon,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Boardriders Cafe Bali,Boardriders Cafe Bali,0,库塔,0.0,0.0,0.0
+咖啡厅,Vienna Cafe,Vienna Cafe,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Amino Cafe Bali,Amino Cafe Bali,0,库塔,0.0,0.0,0.0
+咖啡厅,Pissari Bali Cafe,Pissari Bali Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,Secret Garden Cafe,Secret Garden Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,Jadi Cafe,Jadi Cafe,0,库塔,0.0,0.0,0.0
+咖啡厅,Revolver Espresso,Revolver Espresso,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Locale Bar & Cafe at The Dipan Resort,Locale Bar & Cafe at The Dipan Resort,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Crazy Cookz Cafe,Crazy Cookz Cafe,0,库塔,0.0,0.0,0.0
+咖啡厅,Cafe Moonlight Bali,Cafe Moonlight Bali,0,库塔,7.2,7.6,7.2
+咖啡厅,Echo Beach Cafe,Echo Beach Cafe,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Cafe Harmony Amed,Cafe Harmony Amed,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Triplo Coffee,Triplo Coffee,0,水明漾/塞米雅海滩,7.1,7.3,7.1
+咖啡厅,Beach Cafe,Beach Cafe,0,沙努尔,0.0,0.0,0.0
+咖啡厅,The Mango Tree Cafe,The Mango Tree Cafe,0,乌鲁瓦图,0.0,0.0,0.0
+咖啡厅,Grocer & Grind,Grocer & Grind,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,The Deck Cafe & Bar,The Deck Cafe & Bar,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Blue Star Cafe,Blue Star Cafe,0,艾湄湾,0.0,0.0,0.0
+咖啡厅,Made's Coffee,Made's Coffee,0,库塔,0.0,0.0,0.0
+咖啡厅,Cafe Vespa,Cafe Vespa,0,乌布,0.0,0.0,0.0
+咖啡厅,Sea Breeze Cafe,Sea Breeze Cafe,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+咖啡厅,Lollipop's Playland and Cafe,Lollipop's Playland and Cafe,0,库塔,0.0,0.0,0.0
+咖啡厅,Green Garden Cafe,Green Garden Cafe,0,库塔,0.0,0.0,0.0
+咖啡厅,Bar & Cafe Bali,Bar & Cafe Bali,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Old Man's,Old Man's,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Fashion Cafe,Fashion Cafe,0,库塔,0.0,0.0,0.0
+咖啡厅,Cafe Batu Jimbar,Cafe Batu Jimbar,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Mantra Cafe,Mantra Cafe,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Cafe bali,Cafe bali,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Stadium Cafe Kuta,Stadium Cafe Kuta,0,库塔,0.0,0.0,0.0
+咖啡厅,Colours Cafe,Colours Cafe,0,库塔,7.1,7.1,7.1
+咖啡厅,Surf Cafe Bali,Surf Cafe Bali,0,库塔,7.1,7.1,7.1
+咖啡厅,Cafe Zucchini,Cafe Zucchini,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,A.R.A.K. Coffee,A.R.A.K. Coffee,0,库塔,0.0,0.0,0.0
+咖啡厅,Mingle Cafe Bar,Mingle Cafe Bar,0,乌布,0.0,0.0,0.0
+咖啡厅,Someplace Else Coffee Lounge,Someplace Else Coffee Lounge,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Melbourne Coffee,Melbourne Coffee,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Hungry Bird Coffee,Hungry Bird Coffee,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,The Terrace Restaurant,The Terrace Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Xich Lo Warung Vietnam,Xich Lo Warung Vietnam,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,3Three Cafe,3Three Cafe,0,水明漾/塞米雅海滩,6.9,6.9,6.9
+咖啡厅,The Alleyway Cafe,The Alleyway Cafe,0,登巴萨,7.1,7.1,7.1
+咖啡厅,Cafe Moka,Cafe Moka,0,吉安雅/克拉马斯,7.1,7.0,7.0
+咖啡厅,Coffee house,Coffee house,0,库塔,0.0,0.0,0.0
+咖啡厅,Embun Life Cafe,Embun Life Cafe,0,仓古,0.0,0.0,0.0
+咖啡厅,Cafe Madonna,Cafe Madonna,0,水明漾/塞米雅海滩,7.0,7.0,7.0
+咖啡厅,Gardenia Cafe,Gardenia Cafe,0,登巴萨,7.0,7.0,7.0
+咖啡厅,BOHOL Cafe,BOHOL Cafe,0,登巴萨,6.9,6.9,6.9
+咖啡厅,Cafe Kedai,Cafe Kedai,0,乌布,6.9,6.9,6.9
+咖啡厅,"""Shisha Temple"" Tea and Shisha...","""Shisha Temple"" Tea and Shisha...",0,乌布,7.1,7.0,7.1
+咖啡厅,Cendana Cafe,Cendana Cafe,0,乌鲁瓦图,6.9,6.9,6.9
+咖啡厅,Tom's Cafe,Tom's Cafe,0,塔巴南,6.9,6.9,6.9
+咖啡厅,Excelso Cafe,Excelso Cafe,0,塔巴南,6.9,6.9,6.9
+咖啡厅,Cafe Pandan,Cafe Pandan,0,塔巴南,0.0,0.0,0.0
+咖啡厅,ABC Cafe,ABC Cafe,0,库塔,7.1,7.1,7.5
+咖啡厅,Village Cafe,Village Cafe,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,CRATE CAFE,CRATE CAFE,0,仓古,7.1,7.1,7.1
+咖啡厅,melasti cafe,melasti cafe,0,库塔,6.9,7.0,7.0
+咖啡厅,Cafe Dong,Cafe Dong,0,库塔,6.9,6.9,6.9
+咖啡厅,Kenanga Cafe and Bar.,Kenanga Cafe and Bar.,0,库塔,6.9,7.0,6.9
+咖啡厅,Bliss Cafe,Bliss Cafe,0,艾湄湾,7.0,7.0,7.0
+咖啡厅,"Gourmet Cafe at BIMC Hospital, Nusa Dua","Gourmet Cafe at BIMC Hospital, Nusa Dua",0,塔巴南,7.1,7.1,7.1
+咖啡厅,Chili Cafe,Chili Cafe,0,乌布,7.1,7.1,7.1
+咖啡厅,Momo Cafe Nusa Dua,Momo Cafe Nusa Dua,0,塔巴南,0.0,0.0,0.0
+咖啡厅,"strawberry cafe,night markets","strawberry cafe,night markets",0,登巴萨,7.0,7.0,7.0
+咖啡厅,"The Grind Cafe, Bali","The Grind Cafe, Bali",0,库塔,7.1,7.3,7.1
+咖啡厅,Rice Terrace Cafe,Rice Terrace Cafe,0,乌布,7.1,7.1,7.1
+咖啡厅,Cafe Kendi,Cafe Kendi,0,乌布,7.0,7.0,7.0
+咖啡厅,Bhineka Jaya Cafe,Bhineka Jaya Cafe,0,登巴萨,7.0,7.0,6.9
+咖啡厅,Costa Rica,Costa Rica,0,沙努尔,7.1,6.8,6.8
+咖啡厅,New Langsam Cafe and Restaurant,New Langsam Cafe and Restaurant,0,金巴兰,6.9,6.9,6.9
+咖啡厅,Surya Cafe,Surya Cafe,0,塔巴南,7.0,6.9,7.0
+咖啡厅,The Dusty Cafe,The Dusty Cafe,0,库塔,7.0,7.0,7.0
+咖啡厅,Bali Rock Cafe,Bali Rock Cafe,0,库塔,7.0,7.0,7.0
+咖啡厅,Coffee and Copper,Coffee and Copper,0,乌布,7.2,7.2,7.2
+咖啡厅,Blue Cafe,Blue Cafe,0,沙努尔,6.9,6.9,6.9
+咖啡厅,Kopi Kiosk,Kopi Kiosk,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Babar Cafe,Babar Cafe,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Island Cafe,Island Cafe,0,库塔,0.0,0.0,0.0
+咖啡厅,Kecak Cafe,Kecak Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,Tobaraja Premium Coffee,Tobaraja Premium Coffee,0,乌布,0.0,0.0,0.0
+咖啡厅,Fuzion Cafe,Fuzion Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,Jazz Cafe,Jazz Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,Cafe Angkasa,Cafe Angkasa,0,乌布,0.0,0.0,0.0
+咖啡厅,Gill's Cafe,Gill's Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,Sri Ratih Cafe & Jewelry,Sri Ratih Cafe & Jewelry,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Coffee QiTA,Coffee QiTA,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,the munchys,the munchys,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Carliz Art Cafe,Carliz Art Cafe,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Rosetta Illy Coffee,Rosetta Illy Coffee,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Cafe Pari'pari,Cafe Pari'pari,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Luxe Cafe Ubud,Luxe Cafe Ubud,0,登巴萨,0.0,0.0,0.0
+咖啡厅,Tan's Kitchen Denpasar,Tan's Kitchen Denpasar,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Sandwich Corner,Sandwich Corner,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Temple Cafe and Seaside Cottages,Temple Cafe and Seaside Cottages,0,塔巴南,0.0,0.0,0.0
+咖啡厅,Two Towers Coffee Shop,Two Towers Coffee Shop,0,努沙佩尼达,7.7,7.7,7.2
+咖啡厅,Cafe Local,Cafe Local,0,塔巴南,7.1,7.1,7.1
+咖啡厅,Cafe Lemongrass,Cafe Lemongrass,0,仓古,0.0,0.0,0.0
+咖啡厅,Cafe Canggu,Cafe Canggu,0,仓古,0.0,0.0,0.0
+咖啡厅,Grand Cafe - Lounge Bar ,Grand Cafe - Lounge Bar ,0,席德门/邦利/巴东湾,0.0,0.0,0.0
+咖啡厅,Retro Cafe & Gallery,Retro Cafe & Gallery,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Star Cafe Bali,Star Cafe Bali,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Cafe Smorgas,Cafe Smorgas,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Street Cafe,Street Cafe,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Bestest Cafe,Bestest Cafe,0,库塔,0.0,0.0,0.0
+咖啡厅,Cafe des Artistes,Cafe des Artistes,0,乌布,0.0,0.0,0.0
+咖啡厅,Bali Pesto Cafe,Bali Pesto Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,Karsa Cafe,Karsa Cafe,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,4X4 Cafe',4X4 Cafe',0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Buddha Soul,Buddha Soul,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Beachrestaurant Amedcafe,Beachrestaurant Amedcafe,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Cafe Spice,Cafe Spice,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Oma Thia's Kitchen,Oma Thia's Kitchen,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Warung Good Deal,Warung Good Deal,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Legend Rock Cafe,Legend Rock Cafe,0,坎迪达萨,0.0,0.0,0.0
+咖啡厅,Atmosphere Cafe,Atmosphere Cafe,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Simpang Cafe,Simpang Cafe,0,库塔,0.0,0.0,0.0
+咖啡厅,Cafe Beras,Cafe Beras,0,乌布,0.0,0.0,0.0
+咖啡厅,Coffee Corner Seminyak,Coffee Corner Seminyak,0,库塔,0.0,0.0,0.0
+咖啡厅,Cafe Moka,Cafe Moka,0,库塔,7.2,7.2,7.2
+咖啡厅,Cafe Voyager,Cafe Voyager,0,仓古,7.1,7.1,7.1
+咖啡厅,Alola Cafe,Alola Cafe,0,塔巴南,6.9,6.9,6.9
+咖啡厅,Cafe Cous Cous,Cafe Cous Cous,0,乌鲁瓦图,7.1,7.1,7.1
+咖啡厅,Dunke cafe,Dunke cafe,0,塔巴南,6.9,6.9,6.9
+咖啡厅,Tukies Cafe,Tukies Cafe,0,乌布,6.9,6.9,6.9
+咖啡厅,Cafe Lawala,Cafe Lawala,0,艾湄湾,7.1,7.0,7.0
+咖啡厅,Babol Cafe,Babol Cafe,0,仓古,7.1,7.1,7.1
+咖啡厅,Gecko Coffee Shop,Gecko Coffee Shop,0,沙努尔,7.1,7.1,7.1
+咖啡厅,Rojo's Breakfast Corner Bali,Rojo's Breakfast Corner Bali,0,库塔,7.1,7.1,7.0
+咖啡厅,Cafe Etnik,Cafe Etnik,0,库塔,7.1,7.1,7.1
+咖啡厅,Pearl Cafe,Pearl Cafe,0,库塔,7.1,7.1,7.1
+咖啡厅,Cafe cendrawasih,Cafe cendrawasih,0,水明漾/塞米雅海滩,6.9,6.9,6.9
+咖啡厅,Coffee Tab,Coffee Tab,0,塔巴南,6.9,6.9,6.9
+咖啡厅,Cafe Oasis -Kuta,Cafe Oasis -Kuta,0,库塔,6.9,6.9,6.9
+咖啡厅,Asian Prophecy Cafe,Asian Prophecy Cafe,0,乌布,7.1,7.0,7.1
+咖啡厅,Arak coffee,Arak coffee,0,乌布,6.9,7.1,7.1
+咖啡厅,Nyoman cafe,Nyoman cafe,0,艾湄湾,7.0,7.1,7.0
+咖啡厅,Ice Cafe Mona,Ice Cafe Mona,0,乌布,6.9,6.9,6.9
+咖啡厅,Intan Sari Cafe,Intan Sari Cafe,0,塔巴南,7.1,7.0,7.0
+咖啡厅,Kresna Art Cafe,Kresna Art Cafe,0,水明漾/塞米雅海滩,6.9,6.9,6.9
+咖啡厅,Flo Cafe,Flo Cafe,0,登巴萨,6.9,6.9,6.9
+咖啡厅,The Coffee Shop,The Coffee Shop,0,库塔,7.0,7.0,7.0
+咖啡厅,Relax Cafe,Relax Cafe,0,坎迪达萨,6.9,6.9,6.9
+咖啡厅,Cafe Legian Paradise,Cafe Legian Paradise,0,库塔,7.0,7.0,7.0
+咖啡厅,Mangsi Coffee,Mangsi Coffee,0,登巴萨,6.9,6.9,6.9
+咖啡厅,Shekhinah Cafe Eatery,Shekhinah Cafe Eatery,0,乌布,7.0,7.1,7.0
+咖啡厅,Cafe Griya,Cafe Griya,0,乌布,7.0,7.0,7.0
+咖啡厅,Cafe Bali,Cafe Bali,0,乌布,7.0,7.0,7.0
+咖啡厅,Mola Mola Coffee Shop,Mola Mola Coffee Shop,0,克隆孔,7.0,7.0,7.0
+咖啡厅,The Caffeine Coffee Shop,The Caffeine Coffee Shop,0,库塔,7.1,7.1,7.1
+咖啡厅,Crema Illy Coffee and Gelato,Crema Illy Coffee and Gelato,0,沙努尔,7.0,7.0,7.0
+咖啡厅,Espress Coffee,Espress Coffee,0,国行,7.0,7.0,7.0
+咖啡厅,SOUQ Cafe,SOUQ Cafe,0,库塔,7.1,7.0,7.1
+咖啡厅,Komang Gallery and Cafe,Komang Gallery and Cafe,0,乌布,6.9,6.9,6.7
+咖啡厅,Antar Cafe Bali,Antar Cafe Bali,0,库塔,6.9,7.0,6.9
+咖啡厅,Home Mate Bali,Home Mate Bali,0,水明漾/塞米雅海滩,7.0,7.0,7.0
+咖啡厅,Sate cafe,Sate cafe,0,巴厘岛其他,7.0,7.0,7.0
+咖啡厅,Cafe Teras Lempuna,Cafe Teras Lempuna,0,塔巴南,6.9,6.9,7.0
+咖啡厅,Dijon Cafe Ubud,Dijon Cafe Ubud,0,乌布,7.0,7.0,7.0
+咖啡厅,Little Tree Cafe,Little Tree Cafe,0,库塔,7.1,7.1,7.1
+咖啡厅,Petit Cafe,Petit Cafe,0,库塔,7.1,7.1,7.0
+咖啡厅,Jepun Cafe Kuta,Jepun Cafe Kuta,0,库塔,7.1,7.0,7.0
+咖啡厅,Cafe Jaya,Cafe Jaya,0,乌布,7.0,7.0,7.0
+咖啡厅,Kopi Coffee Coffee Beans Shop,Kopi Coffee Coffee Beans Shop,0,乌布,7.0,7.1,7.0
+咖啡厅,Art Cafe,Art Cafe,0,乌布,7.0,7.1,7.0
+咖啡厅,Little Kitchen cafe / lounge,Little Kitchen cafe / lounge,0,水明漾/塞米雅海滩,7.0,7.1,7.0
+咖啡厅,Cafe Tahu,Cafe Tahu,0,塔巴南,6.9,6.9,6.9
+咖啡厅,DCorner Cafe,DCorner Cafe,0,塔巴南,6.9,6.9,6.9
+咖啡厅,CREMA COFFEE Indonesia,CREMA COFFEE Indonesia,0,水明漾/塞米雅海滩,7.0,7.0,7.0
+咖啡厅,New Bendesa Jimberan Bay Cafe,New Bendesa Jimberan Bay Cafe,0,仓古,7.0,7.0,7.0
+咖啡厅,Cafe Atman,Cafe Atman,0,乌布,6.9,6.9,6.9
+咖啡厅,Funny Pancake 'n Coffee,Funny Pancake 'n Coffee,0,登巴萨,0.0,0.0,0.0
+咖啡厅,Cafe Jatiluwih,Cafe Jatiluwih,0,贝都古/姆杜克,6.9,6.9,6.9
+咖啡厅,Malibu Cafe,Malibu Cafe,0,坎迪达萨,7.0,7.0,7.0
+咖啡厅,The Braga Cafe,The Braga Cafe,0,巴厘岛其他,6.9,6.9,6.9
+咖啡厅,Lobong Cafe,Lobong Cafe,0,乌布,0.0,0.0,0.0
+咖啡厅,Aroma Grilled and Fresh Seafood,Aroma Grilled and Fresh Seafood,0,库塔,6.8,6.8,7.1
+咖啡厅,Ayu Cafe,Ayu Cafe,0,乌布,7.0,7.0,7.0
+咖啡厅,Ozone cafe,Ozone cafe,0,坎迪达萨,6.9,6.9,6.9
+咖啡厅,EET Cafe,EET Cafe,0,库塔,7.0,7.0,6.9
+咖啡厅,Tiram Cafe Kenny,Tiram Cafe Kenny,0,塔巴南,6.7,6.9,6.9
+咖啡厅,Black Canyon Coffee,Black Canyon Coffee,0,乌鲁瓦图,6.9,6.9,6.9
+咖啡厅,Sri Gangga Cafe,Sri Gangga Cafe,0,塔巴南,6.7,6.9,6.9
+咖啡厅,Black Canyon Coffee Boshe,Black Canyon Coffee Boshe,0,库塔,6.6,6.6,6.6
+咖啡厅,巴厘岛黄金金兔咖啡工厂,巴厘岛黄金金兔咖啡工厂,0,库塔,0.0,0.0,0.0
+咖啡厅,Blue Marlin Cafe,Blue Marlin Cafe,0,金巴兰,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Black Canyon Coffee,Black Canyon Coffee,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Medori Cafeteria,Medori Cafeteria,0,库塔,0.0,0.0,0.0
+咖啡厅,Bridge Café,Bridge Café,0,,0.0,0.0,0.0
+咖啡厅,Baker's Corner Puri Gading,Baker's Corner Puri Gading,0,库塔,0.0,0.0,0.0
+咖啡厅,Grand Cafe,Grand Cafe,0,乌鲁瓦图,0.0,0.0,0.0
+咖啡厅,Grand Cafe,Grand Cafe,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+咖啡厅,Cafe Kahvila,Cafe Kahvila,0,金巴兰,0.0,0.0,0.0
+咖啡厅,caviar Cafe,caviar Cafe,0,,0.0,0.0,0.0
+咖啡厅,Fortuin Cafe,Fortuin Cafe,0,金巴兰,0.0,0.0,0.0
+咖啡厅,Seaview Cafe,Seaview Cafe,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,Daves Coffee Express,Daves Coffee Express,0,库塔,0.0,0.0,0.0
+咖啡厅,On on Cafe,On on Cafe,0,登巴萨,0.0,0.0,0.0
+咖啡厅,L'amore Cafe,L'amore Cafe,0,登巴萨,0.0,0.0,0.0
+咖啡厅,Funny Pancake 'n Coffee,Funny Pancake 'n Coffee,0,登巴萨,0.0,0.0,0.0
+咖啡厅,Corner Warung,Corner Warung,0,乌布,0.0,0.0,0.0
+咖啡厅,Cafe Merdeka,Cafe Merdeka,0,登巴萨,0.0,0.0,0.0
+咖啡厅,Cafe Tali Jiwa,Cafe Tali Jiwa,0,沙努尔,0.0,0.0,0.0
+咖啡厅,Champion Cafe,Champion Cafe,0,席德门/邦利/巴东湾,0.0,0.0,0.0
+咖啡厅,Mira Delis Breakfast Cafe and Gelato,Mira Delis Breakfast Cafe and Gelato,0,乌布,0.0,0.0,0.0
+咖啡厅,3V Cafe,3V Cafe,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,My Iguana Cafe,My Iguana Cafe,0,塔巴南,0.0,0.0,0.0
+咖啡厅,sriwanda cafe,sriwanda cafe,0,塔巴南,0.0,0.0,0.0
+咖啡厅,Rendy's Corner,Rendy's Corner,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+咖啡厅,Blue Moon Cafe,Blue Moon Cafe,0,巴厘岛其他,0.0,0.0,0.0
+咖啡厅,SOUQ Cafe,SOUQ Cafe,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+面包甜点,STRAWBERRY STOP,STRAWBERRY STOP,0,贝都古/姆杜克,7.4,7.3,6.9
+面包甜点,Roti Boy,Roti Boy,0,库塔,6.9,6.5,6.4
+面包甜点,面包新语,面包新语,0,库塔,0.0,0.0,0.0
+面包甜点,Gelato Secrets,Gelato Secrets,0,乌布,0.0,0.0,0.0
+面包甜点,Yulia's Kitchen,Yulia's Kitchen,0,库塔,0.0,0.0,0.0
+面包甜点,Bali Bakery,Bali Bakery,0,库塔,0.0,0.0,0.0
+面包甜点,Gelato Sweet Dreams,Gelato Sweet Dreams,0,库塔,7.3,7.1,7.2
+面包甜点,CAFE MOKA,CAFE MOKA,0,水明漾/塞米雅海滩,6.8,7.0,6.7
+面包甜点,Flapjaks,Flapjaks,0,库塔,0.0,0.0,0.0
+面包甜点,Gaya Gelato at Gaya Fusion,Gaya Gelato at Gaya Fusion,0,乌布,0.0,0.0,0.0
+面包甜点,长谷,长谷,0,乌鲁瓦图,0.0,0.0,0.0
+面包甜点,哈根达斯,哈根达斯,0,巴厘岛其他,6.7,6.7,7.5
+面包甜点,Bakery Lovina,Bakery Lovina,0,新加拉惹/罗维纳海滩,7.4,7.4,8.1
+面包甜点,Lello Lello,Lello Lello,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+面包甜点,Verandah,Verandah,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+面包甜点,Bali Eco Deli,Bali Eco Deli,0,巴厘岛其他,0.0,0.0,0.0
+面包甜点,Cold Stone Creamery Denpasar Airport,Cold Stone Creamery Denpasar Airport,0,库塔,0.0,0.0,0.0
+面包甜点,Alchemy,Alchemy,0,乌布,0.0,0.0,0.0
+面包甜点,Casa D'Angelo's,Casa D'Angelo's,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+面包甜点,Gelato Secrets,Gelato Secrets,0,沙努尔,0.0,0.0,0.0
+面包甜点,Bali Balance Cafe & Bistro,Bali Balance Cafe & Bistro,0,巴厘岛其他,0.0,0.0,0.0
+面包甜点,Warung Kecil,Warung Kecil,0,巴厘岛其他,0.0,0.0,0.0
+面包甜点,Swich,Swich,0,库塔,0.0,0.0,0.0
+面包甜点,NO NAME Scuba Warung,NO NAME Scuba Warung,0,席德门/邦利/巴东湾,0.0,0.0,0.0
+面包甜点,Boni Bali Restaurant,Boni Bali Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+面包甜点,Dolce Frutti Bali,Dolce Frutti Bali,0,库塔,0.0,0.0,0.0
+面包甜点,Cup n' Cakes,Cup n' Cakes,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+面包甜点,幸运饼干,幸运饼干,0,沙努尔,0.0,0.0,0.0
+面包甜点,Biahbiah+ Balinese Food&dining,Biahbiah+ Balinese Food&dining,0,乌布,0.0,0.0,0.0
+面包甜点,Swich,Swich,0,仓古,0.0,0.0,0.0
+面包甜点,Flapjaks,Flapjaks,0,巴厘岛其他,0.0,0.0,0.0
+面包甜点,Kopi Bali House,Kopi Bali House,0,乌布,0.0,0.0,0.0
+面包甜点,Confiture Michele,Confiture Michele,0,乌布,0.0,0.0,0.0
+面包甜点,Gaya Gelato,Gaya Gelato,0,登巴萨,0.0,0.0,0.0
+面包甜点,Gusto Resto,Gusto Resto,0,巴厘岛其他,0.0,0.0,0.0
+面包甜点,Splash Bakery,Splash Bakery,0,沙努尔,0.0,0.0,0.0
+面包甜点,Bali Bakery,Bali Bakery,0,登巴萨,0.0,0.0,0.0
+面包甜点,Igor's Pastry,Igor's Pastry,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+面包甜点,Room 4 Dessert,Room 4 Dessert,0,乌布,7.1,7.1,7.1
+面包甜点,Bali Strawberry Farm & Restaurant,Bali Strawberry Farm & Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+面包甜点,Chef Cakes Bakery,Chef Cakes Bakery,0,登巴萨,6.9,6.9,6.9
+面包甜点,Bali Bakery,Bali Bakery,0,库塔,7.0,7.0,7.0
+面包甜点,OOPS Gelato,OOPS Gelato,0,乌布,6.8,6.8,7.1
+面包甜点,Gelato Secrets,Gelato Secrets,0,水明漾/塞米雅海滩,6.9,7.0,6.9
+面包甜点,Wendy's,Wendy's,0,仓古,7.1,6.8,6.8
+面包甜点,Dayu1,Dayu1,0,登巴萨,0.0,0.0,0.0
+面包甜点,Beecup,Beecup,0,沙努尔,0.0,0.0,0.0
+面包甜点,IKA Bali Cake,IKA Bali Cake,0,巴厘岛其他,0.0,0.0,0.0
+面包甜点,Oma Thia's Kitchen,Oma Thia's Kitchen,0,巴厘岛其他,0.0,0.0,0.0
+面包甜点,Delicioso Cafe,Delicioso Cafe,0,库塔,0.0,0.0,0.0
+面包甜点,Kakiang Bakery,Kakiang Bakery,0,乌布,0.0,0.0,0.0
+面包甜点,Italo Gelato,Italo Gelato,0,沙努尔,0.0,0.0,0.0
+面包甜点,Tosca Gelato,Tosca Gelato,0,乌布,7.1,7.1,7.1
+面包甜点,Bakery Lovina,Bakery Lovina,0,塔巴南,7.0,7.0,7.0
+面包甜点,Gelato Sinar Dewata,Gelato Sinar Dewata,0,库塔,7.1,7.0,6.9
+面包甜点,TOSCA GELATO ITALIANO,TOSCA GELATO ITALIANO,0,乌布,7.1,7.1,7.1
+面包甜点,Sweet Magnolia,Sweet Magnolia,0,沙努尔,7.1,7.1,7.1
+面包甜点,Pepito Bakery,Pepito Bakery,0,塔巴南,6.7,6.9,6.9
+面包甜点,J.W.B.Jimbaran Witha Bakery,J.W.B.Jimbaran Witha Bakery,0,塔巴南,7.1,7.1,7.1
+面包甜点,Baskin Robbins,Baskin Robbins,0,登巴萨,0.0,0.0,0.0
+面包甜点,ti Amo,ti Amo,0,,0.0,0.0,0.0
+酒吧,Sky Garden,Sky Garden,0,库塔,8.0,8.5,8.2
+酒吧,Queen's of India,Queen's of India,0,库塔,0.0,0.0,0.0
+酒吧,The Wharf Restaurant Bali,The Wharf Restaurant Bali,0,库塔,0.0,0.0,0.0
+酒吧,La Lucciola,La Lucciola,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+酒吧,Bulgari Hotel bar,Bulgari Hotel bar,0,乌鲁瓦图,8.5,8.5,8.0
+酒吧,Anantara Bali Uluwatu Resort & Spa White House,Anantara Bali Uluwatu Resort & Spa White House,0,,7.3,7.3,7.3
+酒吧,The Bar,The Bar,0,乌鲁瓦图,0.0,0.0,0.0
+酒吧,Ju-Ma-Na Bar,Ju-Ma-Na Bar,0,乌鲁瓦图,0.0,0.0,0.0
+酒吧,WOOBAR at W Retreat & Spa Bali,WOOBAR at W Retreat & Spa Bali,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+酒吧,The Bistrot,The Bistrot,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+酒吧,Maha Bar/Restaurant,Maha Bar/Restaurant,0,乌布,0.0,0.0,0.0
+酒吧,Oceans 27 Beach Club and Grill,Oceans 27 Beach Club and Grill,0,库塔,0.0,0.0,0.0
+酒吧,Kul Kul Pool Bar,Kul Kul Pool Bar,0,库塔,6.8,6.8,6.8
+酒吧,club bali mirage,club bali mirage,0,水明漾/塞米雅海滩,8.1,8.1,8.1
+酒吧,Mini Restaurant and bar,Mini Restaurant and bar,0,库塔,7.1,6.7,6.7
+酒吧,Bali Pub Bar&Restaurant,Bali Pub Bar&Restaurant,0,,6.9,6.9,6.9
+酒吧,Bela Seafood Cafe & Bar,Bela Seafood Cafe & Bar,0,,7.3,7.3,7.3
+酒吧,Lobby Lounge,Lobby Lounge,0,,7.0,6.9,6.9
+酒吧,grands bar,grands bar,0,,6.5,6.5,7.0
+酒吧,Jendela House,Jendela House,0,乌布,0.0,0.0,0.0
+酒吧,Deep Blue Restaurant,Deep Blue Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+酒吧,Vanilla Pod Restaurant,Vanilla Pod Restaurant,0,乌布,0.0,0.0,0.0
+酒吧,Khaima,Khaima,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+酒吧,SOS Supper Club,SOS Supper Club,0,库塔,0.0,0.0,0.0
+酒吧,Lu Putu Resto,Lu Putu Resto,0,坎迪达萨,0.0,0.0,0.0
+酒吧,Sands & Wine Cellar,Sands & Wine Cellar,0,库塔,0.0,0.0,0.0
+酒吧,The Grill Legian,The Grill Legian,0,库塔,0.0,0.0,0.0
+酒吧,BLACKSTONE Terrace Bar & Lounge,BLACKSTONE Terrace Bar & Lounge,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+酒吧,Kebun Bistro,Kebun Bistro,0,乌布,0.0,0.0,0.0
+酒吧,Gorgonzola Restaurant and Wine Bar,Gorgonzola Restaurant and Wine Bar,0,金巴兰,7.1,7.1,7.1
+酒吧,Roo Bar,Roo Bar,0,库塔,6.9,6.9,6.9
+酒吧,The Global Village Kafe,The Global Village Kafe,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+酒吧,Santhi Bar,Santhi Bar,0,巴厘岛其他,0.0,0.0,0.0
+酒吧,Whitesands Sports Bar,Whitesands Sports Bar,0,沙努尔,0.0,0.0,0.0
+酒吧,Wayang Bar,Wayang Bar,0,巴厘岛其他,0.0,0.0,0.0
+酒吧,Zanzibar,Zanzibar,0,库塔,0.0,0.0,0.0
+酒吧,Sky Bar,Sky Bar,0,塔巴南,0.0,0.0,0.0
+酒吧,Posers Pub & Restaurant,Posers Pub & Restaurant,0,库塔,0.0,0.0,0.0
+酒吧,Vertical Point,Vertical Point,0,库塔,0.0,0.0,0.0
+酒吧,The Sugar Bar and Restaurant,The Sugar Bar and Restaurant,0,金巴兰,6.9,6.9,6.9
+酒吧,Bobby's Bar,Bobby's Bar,0,沙努尔,7.1,7.1,7.1
+酒吧,Mimosa Restaurant and Bar,Mimosa Restaurant and Bar,0,库塔,6.9,6.9,6.9
+酒吧,Gazebo,Gazebo,0,水明漾/塞米雅海滩,6.9,6.9,6.9
+酒吧,apache reggae bar,apache reggae bar,0,库塔,6.9,7.0,7.0
+酒吧,Sector Bar/Restaurant/Lounge/Event House,Sector Bar/Restaurant/Lounge/Event House,0,沙努尔,7.0,7.0,7.1
+酒吧,Donalds Bar and Restaurant,Donalds Bar and Restaurant,0,沙努尔,7.0,7.1,7.0
+酒吧,East Meets West Bar N Grille,East Meets West Bar N Grille,0,库塔,7.0,7.0,7.0
+酒吧,Vue Beach Club,Vue Beach Club,0,仓古,7.1,7.1,7.1
+酒吧,Satu Lagi Pool Side Bar,Satu Lagi Pool Side Bar,0,仓古,0.0,0.0,0.0
+酒吧,Angelita Tea Salon and Patisserie,Angelita Tea Salon and Patisserie,0,水明漾/塞米雅海滩,7.3,7.1,7.3
+酒吧,Da-pat Bar and Restaurant,Da-pat Bar and Restaurant,0,库塔,7.3,7.3,7.3
+酒吧,"Queen's Tandoor, Indian Restaurant","Queen's Tandoor, Indian Restaurant",0,库塔,0.0,0.0,0.0
+酒吧,The Restaurant at The Chedi Club Ubud Tanah Gajah,The Restaurant at The Chedi Club Ubud Tanah Gajah,0,乌布,0.0,0.0,0.0
+酒吧,"VIN+ Seminyak, Bali","VIN+ Seminyak, Bali",0,巴厘岛其他,0.0,0.0,0.0
+酒吧,The Pub,The Pub,0,库塔,0.0,0.0,0.0
+酒吧,Wana Restaurant Lounge Bar,Wana Restaurant Lounge Bar,0,吉安雅/克拉马斯,0.0,0.0,0.0
+酒吧,Santa Fe Bar & Grill,Santa Fe Bar & Grill,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+酒吧,Old Man's,Old Man's,0,巴厘岛其他,0.0,0.0,0.0
+酒吧,Adrenalin Sports Bar,Adrenalin Sports Bar,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+酒吧,Blue 9 Beach Bar and Restaurant,Blue 9 Beach Bar and Restaurant,0,库塔,7.1,7.1,7.1
+酒吧,Coordinare Restaurant and Bar,Coordinare Restaurant and Bar,0,塔巴南,7.1,7.1,7.1
+酒吧,The Moose Espresso Bar,The Moose Espresso Bar,0,水明漾/塞米雅海滩,7.1,7.1,7.1
+酒吧,Le Petit Salon,Le Petit Salon,0,艾湄湾,7.1,7.1,7.1
+酒吧,Tako Ashi Sushi Bar,Tako Ashi Sushi Bar,0,库塔,7.0,7.1,7.0
+酒吧,Bali Handara Kosaido Country Club,Bali Handara Kosaido Country Club,0,贝都古/姆杜克,0.0,0.0,0.0
+酒吧,JALAJALA SEAFOOD Terace and Bar,JALAJALA SEAFOOD Terace and Bar,0,登巴萨,6.9,6.9,6.9
+酒吧,Lola,Lola,0,库塔,6.9,6.9,6.9
+酒吧,Oscars Bar and Restaurant,Oscars Bar and Restaurant,0,库塔,7.0,7.1,7.0
+酒吧,Prologue kitchen and bar,Prologue kitchen and bar,0,乌布,7.0,7.0,7.0
+酒吧,ZJ’S Bar & Lounge,ZJ’S Bar & Lounge,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+酒吧,Papa's,Papa's,0,库塔,6.8,7.1,7.1
+酒吧,Lumbung Bar and Restaurant,Lumbung Bar and Restaurant,0,塔巴南,7.0,7.0,7.0
+酒吧,Legian Pub,Legian Pub,0,库塔,7.0,7.0,7.0
+酒吧,Zigiz Bar,Zigiz Bar,0,吉安雅/克拉马斯,6.9,7.0,7.0
+酒吧,Sports Bar,Sports Bar,0,努沙度瓦-丹戎贝诺瓦,7.1,7.1,7.1
+酒吧,Dix Club,Dix Club,0,库塔,0.0,0.0,0.0
+酒吧,Hacienda Mexican Bar and Taqueria,Hacienda Mexican Bar and Taqueria,0,库塔,7.1,7.1,7.1
+酒吧,Savana Bar and Restaurant,Savana Bar and Restaurant,0,登巴萨,7.1,7.1,7.1
+酒吧,Y sports bar legian,Y sports bar legian,0,库塔,6.8,7.1,7.1
+酒吧,Kokokan Club,Kokokan Club,0,乌布,6.9,6.7,6.9
+酒吧,Big Fish Bar and Grill,Big Fish Bar and Grill,0,库塔,7.1,7.1,7.1
+酒吧,TheBrassica,TheBrassica,0,巴厘岛其他,0.0,0.0,0.0
+酒吧,Bistro Batu Kali,Bistro Batu Kali,0,巴厘岛其他,0.0,0.0,0.0
+酒吧,Deus Café,Deus Café,0,巴厘岛其他,0.0,0.0,0.0
+酒吧,Twice Pizza Club,Twice Pizza Club,0,塔巴南,0.0,0.0,0.0
+酒吧,Echo Beach Sports Bar,Echo Beach Sports Bar,0,塔巴南,7.1,7.1,7.1
+酒吧,Beras Merah Waroeng and Bar,Beras Merah Waroeng and Bar,0,塔巴南,7.3,7.1,7.1
+酒吧,The Seminyak Pool Bar,The Seminyak Pool Bar,0,库塔,6.9,6.9,6.9
+酒吧,Koki Restaurant and Bar,Koki Restaurant and Bar,0,塔巴南,7.0,7.0,7.0
+酒吧,Mano Sea Side Beach Club,Mano Sea Side Beach Club,0,塔巴南,7.1,7.1,7.1
+酒吧,Salt Tapas and Bar,Salt Tapas and Bar,0,巴厘岛其他,6.9,6.9,6.9
+酒吧,Captain's Cook SEAFOOD GRILL BAR,Captain's Cook SEAFOOD GRILL BAR,0,塔巴南,7.1,7.0,7.1
+酒吧,50 Bar Restaurant,50 Bar Restaurant,0,库布,6.9,6.9,6.9
+酒吧,Danu's Bar,Danu's Bar,0,库塔,6.9,7.1,7.0
+酒吧,Hi Bar,Hi Bar,0,塔巴南,7.1,7.1,7.1
+酒吧,Reef Bar,Reef Bar,0,艾湄湾,7.1,7.1,7.1
+酒吧,La De'va restaurant Bar,La De'va restaurant Bar,0,塔巴南,7.0,7.0,7.1
+酒吧,Our's New International Bar and Restaurant,Our's New International Bar and Restaurant,0,库塔,7.0,7.0,7.0
+酒吧,Rendezvous 78 Sports Bar,Rendezvous 78 Sports Bar,0,库塔,7.0,7.1,7.1
+酒吧,Alibi Bar at Paasha,Alibi Bar at Paasha,0,登巴萨,7.1,7.1,7.1
+酒吧,Gecko,Gecko,0,乌布,0.0,0.0,0.0
+酒吧,Pointe Restaurant and Bar,Pointe Restaurant and Bar,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+酒吧,Bamboo Bar And Grill,Bamboo Bar And Grill,0,乌鲁瓦图,0.0,0.0,0.0
+酒吧,BREEZES TAPAS LOUNGE(西班牙海滨酒吧),BREEZES TAPAS LOUNGE(西班牙海滨酒吧),0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+酒吧,丽思卡尔顿酒吧及酒廊,丽思卡尔顿酒吧及酒廊,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+酒吧,SOS Rooftop Lounge & Bar,SOS Rooftop Lounge & Bar,0,,0.0,0.0,0.0
+酒吧,Ning Lounge Bar,Ning Lounge Bar,0,巴厘岛其他,0.0,0.0,0.0
+酒吧,Banh Mi Saigon Sandwich Bar,Banh Mi Saigon Sandwich Bar,0,库塔,0.0,0.0,0.0
+酒吧,Putra Bar Monkey,Putra Bar Monkey,0,乌布,0.0,0.0,0.0
+酒吧,Shandys bar and restaurant,Shandys bar and restaurant,0,库塔,0.0,0.0,0.0
+酒吧,Magenta Kitchen and Bar,Magenta Kitchen and Bar,0,登巴萨,0.0,0.0,0.0
+酒吧,Ice Box Bar,Ice Box Bar,0,塔巴南,0.0,0.0,0.0
+其他美食,Bamboo Corer,Bamboo Corer,48,库塔,7.3,6.7,7.1
+其他美食,Poppies Restaurant,Poppies Restaurant,91,库塔,8.9,9.1,8.9
+其他美食,Made's Warung Seminyak,Made's Warung Seminyak,69,库塔,7.3,7.9,7.5
+其他美食,Laguna Garden,Laguna Garden,0,努沙度瓦-丹戎贝诺瓦,7.8,7.5,8.3
+其他美食,Laota,Laota,74,库塔,8.3,7.5,7.8
+其他美食,Naughty Nuri's Warung and Grill,Naughty Nuri's Warung and Grill,60,乌布,7.9,7.5,7.6
+其他美食,Bridges,Bridges,0,乌布,0.0,0.0,0.0
+其他美食,Baruna Beach seafood restaurant,Baruna Beach seafood restaurant,0,,7.6,7.7,7.4
+其他美食,Klapa New Kuta Beach,Klapa New Kuta Beach,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,库塔,0.0,0.0,0.0
+其他美食,Warung Made,Warung Made,0,库塔,0.0,0.0,0.0
+其他美食,Kuta Plaza Restaurant,Kuta Plaza Restaurant,0,库塔,6.9,6.4,6.4
+其他美食,A&W,A&W,0,巴厘岛其他,6.8,6.5,6.6
+其他美食,Luna Bonita International & Seafood Restaurant,Luna Bonita International & Seafood Restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Natrabu Minang,Natrabu Minang,0,沙努尔,0.0,0.0,0.0
+其他美食,Ginger Moon,Ginger Moon,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,168 JAPANESE BUFFET,168 JAPANESE BUFFET,0,水明漾/塞米雅海滩,5.6,5.7,5.5
+其他美食,AYAM TULANG LUNAK MALIOBORO,AYAM TULANG LUNAK MALIOBORO,0,库塔,7.2,7.1,7.1
+其他美食,Mozzarella Restaurant and Bar,Mozzarella Restaurant and Bar,0,库塔,0.0,0.0,0.0
+其他美食,Breeze,Breeze,0,水明漾/塞米雅海滩,7.3,7.3,7.4
+其他美食,Lemon Grass,Lemon Grass,0,库塔,0.0,0.0,0.0
+其他美食,King Cole Bar at St. Regis Bali Resort,King Cole Bar at St. Regis Bali Resort,0,吉安雅/克拉马斯,0.0,0.0,0.0
+其他美食,Casa Bella Restaurant,Casa Bella Restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,SEGARA FRESH SEAFOOD,SEGARA FRESH SEAFOOD,0,库塔,7.1,7.3,7.0
+其他美食,The Heart of Bali,The Heart of Bali,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Balcony,Balcony,0,库塔,0.0,0.0,0.0
+其他美食,Garis Garis,Garis Garis,0,库塔,0.0,0.0,0.0
+其他美食,Ware Ware,Ware Ware,0,蓝梦岛,0.0,0.0,0.0
+其他美食,Nelayan Seafood Restaurant,Nelayan Seafood Restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Matsuri Japanese Garden Restaurant,Matsuri Japanese Garden Restaurant,0,努沙度瓦-丹戎贝诺瓦,6.9,7.0,6.9
+其他美食,Fruits From Paradise,Fruits From Paradise,0,库塔,0.0,0.0,0.0
+其他美食,Warung Bendega Ubud,Warung Bendega Ubud,0,乌布,0.0,0.0,0.0
+其他美食,Kuni's,Kuni's,0,水明漾/塞米雅海滩,7.0,7.0,6.9
+其他美食,Blue Skyz,Blue Skyz,0,库塔,0.0,0.0,0.0
+其他美食,ENVY,ENVY,0,库塔,0.0,0.0,0.0
+其他美食,Whacko Beach Club,Whacko Beach Club,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Skooby Burger,Skooby Burger,0,库塔,0.0,0.0,0.0
+其他美食,Waroeng Bonita,Waroeng Bonita,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,蓝色海洋,蓝色海洋,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Grocer and Grind,Grocer and Grind,0,金巴兰,0.0,0.0,0.0
+其他美食,Circle K,Circle K,0,库塔,0.0,0.0,0.0
+其他美食,Rosemary restaurant and bar,Rosemary restaurant and bar,0,库塔,0.0,0.0,0.0
+其他美食,Swastika Restaurant,Swastika Restaurant,0,沙努尔,7.1,7.1,6.9
+其他美食,Laguna Garden,Laguna Garden,0,塔巴南,7.1,7.2,7.0
+其他美食,"Roti Canai, Canggu","Roti Canai, Canggu",0,库塔,0.0,0.0,0.0
+其他美食,Tigerlillys nusa Lembongan,Tigerlillys nusa Lembongan,0,蓝梦岛,0.0,0.0,0.0
+其他美食,Kebun,Kebun,0,乌布,0.0,0.0,0.0
+其他美食,Pepito Restaurant,Pepito Restaurant,0,库塔,0.0,0.0,0.0
+其他美食,Warung Nikmat,Warung Nikmat,0,库塔,0.0,0.0,0.0
+其他美食,Luhtu's Coffee Shop,Luhtu's Coffee Shop,0,沙努尔,0.0,0.0,0.0
+其他美食,金巴兰区哈里斯青年旅馆,金巴兰区哈里斯青年旅馆,0,乌鲁瓦图,0.0,0.0,0.0
+其他美食,Betelnut Cafe,Betelnut Cafe,0,仓古,0.0,0.0,0.0
+其他美食,Ibu Putih's Warung,Ibu Putih's Warung,0,乌布,0.0,0.0,0.0
+其他美食,Lands End Cafe,Lands End Cafe,0,乌鲁瓦图,0.0,0.0,0.0
+其他美食,Hotel Tugu Bali,Hotel Tugu Bali,0,仓古,0.0,0.0,0.0
+其他美食,Coordinaire,Coordinaire,0,吉安雅/克拉马斯,0.0,0.0,0.0
+其他美食,Kedai Ayam Ibu Oki,Kedai Ayam Ibu Oki,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Baris,Baris,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Frutti Ice,Frutti Ice,0,库塔,0.0,0.0,0.0
+其他美食,Bali Deli,Bali Deli,0,库塔,0.0,0.0,0.0
+其他美食,Cafe Pomegranate,Cafe Pomegranate,0,乌布,0.0,0.0,0.0
+其他美食,Warung Enak Homestay,Warung Enak Homestay,0,艾湄湾,0.0,0.0,0.0
+其他美食,Warung Warung,Warung Warung,0,库塔,0.0,0.0,0.0
+其他美食,Zula Vegetarian Paradise,Zula Vegetarian Paradise,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Living Food Lab,Living Food Lab,0,乌布,0.0,0.0,0.0
+其他美食,Ayam Bakar Wong Solo,Ayam Bakar Wong Solo,0,库塔,0.0,0.0,0.0
+其他美食,Bumbu Bali 2,Bumbu Bali 2,0,乌布,0.0,0.0,0.0
+其他美食,Sheppy`s Bar and Restaurant,Sheppy`s Bar and Restaurant,0,库塔,0.0,0.0,0.0
+其他美食,Jemme,Jemme,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Taman Bhagawan,Taman Bhagawan,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,VH Bali - Velvet Hypnotized,VH Bali - Velvet Hypnotized,0,库塔,0.0,0.0,0.0
+其他美食,Coco Bistro,Coco Bistro,0,乌布,0.0,0.0,0.0
+其他美食,Dapur Vegetarian ,Dapur Vegetarian ,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Tipat sate babi bli ketut,Tipat sate babi bli ketut,0,库塔,0.0,0.0,0.0
+其他美食,Petitenget,Petitenget,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,66 Corner,66 Corner,0,库塔,0.0,0.0,0.0
+其他美食,Bali Luna Restaurant,Bali Luna Restaurant,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Rainbow Cafe,Rainbow Cafe,0,库塔,0.0,0.0,0.0
+其他美食,Prana Restaurant,Prana Restaurant,0,库塔,0.0,0.0,0.0
+其他美食,Juice Ja Cafe,Juice Ja Cafe,0,乌布,0.0,0.0,0.0
+其他美食,Cekot,Cekot,0,沙努尔,0.0,0.0,0.0
+其他美食,Sendok & Bar Restaurant,Sendok & Bar Restaurant,0,库塔,0.0,0.0,0.0
+其他美食,La Plage,La Plage,0,库塔,0.0,0.0,0.0
+其他美食,mosaic beach club,mosaic beach club,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Organic Market,Organic Market,0,沙努尔,0.0,0.0,0.0
+其他美食,Turkish Ada Restourant,Turkish Ada Restourant,0,乌布,0.0,0.0,0.0
+其他美食,Kultur,Kultur,0,库塔,0.0,0.0,0.0
+其他美食,Yeye's Warung and Gift Shop,Yeye's Warung and Gift Shop,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Watercress,Watercress,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Le Jaenzan,Le Jaenzan,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+其他美食,Ozon Cafe,Ozon Cafe,0,席德门/邦利/巴东湾,0.0,0.0,0.0
+其他美食,"Kul Kul Bar at The Laguna, Bali","Kul Kul Bar at The Laguna, Bali",0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Earth Cafe,Earth Cafe,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Chonos Hotel Lovina,Chonos Hotel Lovina,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+其他美食,Warung Satay Club,Warung Satay Club,0,乌鲁瓦图,0.0,0.0,0.0
+其他美食,Il Giardino,Il Giardino,0,乌布,0.0,0.0,0.0
+其他美食,Downtown,Downtown,0,沙努尔,0.0,0.0,0.0
+其他美食,Malu Malu Kucing (Shy Shy Cat),Malu Malu Kucing (Shy Shy Cat),0,库塔,0.0,0.0,0.0
+其他美食,Buddha Restaurant,Buddha Restaurant,0,席德门/邦利/巴东湾,0.0,0.0,0.0
+其他美食,Dupa,Dupa,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Monsoon Bar & Restaurant,Monsoon Bar & Restaurant,0,库塔,0.0,0.0,0.0
+其他美食,Cafe Bali,Cafe Bali,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Plengkung,Plengkung,0,库塔,0.0,0.0,0.0
+其他美食,"Grocer and Grind, Sanur","Grocer and Grind, Sanur",0,沙努尔,0.0,0.0,0.0
+其他美食,Habitual Quench & Feed,Habitual Quench & Feed,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Charlie,Charlie,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,malo's,malo's,0,库塔,0.0,0.0,0.0
+其他美食,DONBIU at Padma Resort Bali at Legian,DONBIU at Padma Resort Bali at Legian,0,库塔,0.0,0.0,0.0
+其他美食,Bianco,Bianco,0,库塔,0.0,0.0,0.0
+其他美食,Stadium Sports Bar,Stadium Sports Bar,0,沙努尔,0.0,0.0,0.0
+其他美食,Stadium Cafe and Flapjaks Sanur,Stadium Cafe and Flapjaks Sanur,0,沙努尔,0.0,0.0,0.0
+其他美食,Warung Igelanca,Warung Igelanca,0,乌布,0.0,0.0,0.0
+其他美食,Delicieux,Delicieux,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Sun Shoot,Sun Shoot,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Scooby's,Scooby's,0,库塔,0.0,0.0,0.0
+其他美食,Amanusa Beach Club,Amanusa Beach Club,0,吉安雅/克拉马斯,0.0,0.0,0.0
+其他美食,Dewa Warung,Dewa Warung,0,乌布,0.0,0.0,0.0
+其他美食,Olive,Olive,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,2 Day Cafe,2 Day Cafe,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Green Leaf,Green Leaf,0,乌布,0.0,0.0,0.0
+其他美食,Crystal Palace,Crystal Palace,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,TKS Bar,TKS Bar,0,乌布,0.0,0.0,0.0
+其他美食,La Monde restaurant,La Monde restaurant,0,库塔,0.0,0.0,0.0
+其他美食,Bloody Sweet,Bloody Sweet,0,库塔,0.0,0.0,0.0
+其他美食,Warung Satya,Warung Satya,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Warung Jegeg Bulan,Warung Jegeg Bulan,0,库塔,0.0,0.0,0.0
+其他美食,Roxalne,Roxalne,0,库塔,0.0,0.0,0.0
+其他美食,Mozzarella Restaurant & Bar,Mozzarella Restaurant & Bar,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Mata Air Cafe,Mata Air Cafe,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Patricks,Patricks,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Bali Buddha,Bali Buddha,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Warung D'Sawah,Warung D'Sawah,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Rendezvous,Rendezvous,0,坎迪达萨,0.0,0.0,0.0
+其他美食,Joglo Restaurant & Bar,Joglo Restaurant & Bar,0,坎迪达萨,0.0,0.0,0.0
+其他美食,Arlina's Bungalow,Arlina's Bungalow,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Living Food Lab,Living Food Lab,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Hitana,Hitana,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Taman Selini,Taman Selini,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Pakis Ayu,Pakis Ayu,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Dive - Versions,Dive - Versions,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Red Salt,Red Salt,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Alola Inn Cafe & Cottages,Alola Inn Cafe & Cottages,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Life in Amed Restaurant,Life in Amed Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Akar Asih,Akar Asih,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Aquaterrace,Aquaterrace,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,La Rouge,La Rouge,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,D&B Warung,D&B Warung,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Mie 88,Mie 88,0,库塔,0.0,0.0,0.0
+其他美食,"Warung Aria, Lovina","Warung Aria, Lovina",0,,0.0,0.0,0.0
+其他美食,Blue Ocean Bali,Blue Ocean Bali,0,库塔,0.0,0.0,0.0
+其他美食,Delicious Onion,Delicious Onion,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Cianjur,Cianjur,0,登巴萨,0.0,0.0,0.0
+其他美食,Grand Benoa Resto,Grand Benoa Resto,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Café des Artistes,Café des Artistes,0,乌布,0.0,0.0,0.0
+其他美食,Gayatri Cafe,Gayatri Cafe,0,乌布,0.0,0.0,0.0
+其他美食,La Favela Bali,La Favela Bali,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Tsavo Lion Restaurant,Tsavo Lion Restaurant,0,登巴萨,0.0,0.0,0.0
+其他美食,Balkanika,Balkanika,0,库塔,0.0,0.0,0.0
+其他美食,The Deck,The Deck,0,库塔,0.0,0.0,0.0
+其他美食,Rendezvousdoux,Rendezvousdoux,0,乌布,0.0,0.0,0.0
+其他美食,Seminyak Night Marke,Seminyak Night Marke,0,库塔,0.0,0.0,0.0
+其他美食,Sama Sama,Sama Sama,0,艾湄湾,0.0,0.0,0.0
+其他美食,Manik Organik,Manik Organik,0,沙努尔,0.0,0.0,0.0
+其他美食,Sidoi Hotel Restaurant Bar,Sidoi Hotel Restaurant Bar,0,库塔,0.0,0.0,0.0
+其他美食,Paon International Restaurant,Paon International Restaurant,0,沙努尔,0.0,0.0,0.0
+其他美食,OM (Organic Makan),OM (Organic Makan),0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Sari Bundo,Sari Bundo,0,沙努尔,0.0,0.0,0.0
+其他美食,Warung Mendez,Warung Mendez,0,乌布,0.0,0.0,0.0
+其他美食,Solata Bali,Solata Bali,0,库塔,0.0,0.0,0.0
+其他美食,Nusa Dua Cafe,Nusa Dua Cafe,0,努沙度瓦-丹戎贝诺瓦,0.0,0.0,0.0
+其他美食,Sabeen,Sabeen,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Bali Dream House,Bali Dream House,0,艾湄湾,0.0,0.0,0.0
+其他美食,Rumours,Rumours,0,乌布,0.0,0.0,0.0
+其他美食,The Tavern International Pub and Restaurant,The Tavern International Pub and Restaurant,0,吉安雅/克拉马斯,0.0,0.0,0.0
+其他美食,Gong Corner,Gong Corner,0,库塔,0.0,0.0,0.0
+其他美食,Man Maru,Man Maru,0,乌布,0.0,0.0,0.0
+其他美食,The Treehouse,The Treehouse,0,库塔,0.0,0.0,0.0
+其他美食,Dian Restoran,Dian Restoran,0,乌布,0.0,0.0,0.0
+其他美食,Gracie Kelly's,Gracie Kelly's,0,库塔,0.0,0.0,0.0
+其他美食,Cafe C'est Bon,Cafe C'est Bon,0,艾湄湾,0.0,0.0,0.0
+其他美食,Pondok Bambu Restaurant,Pondok Bambu Restaurant,0,坎迪达萨,0.0,0.0,0.0
+其他美食,Warung Caluk,Warung Caluk,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+其他美食,komilfo,komilfo,0,沙努尔,0.0,0.0,0.0
+其他美食,Red Drum African Caribbean Bar & Restaurant,Red Drum African Caribbean Bar & Restaurant,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,The Heritage Kitchen and Gallery,The Heritage Kitchen and Gallery,0,库塔,0.0,0.0,0.0
+其他美食,Amed Organik Cafe,Amed Organik Cafe,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Baliku Restaurant,Baliku Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,The Corner Bar,The Corner Bar,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Warung Hijau,Warung Hijau,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Warung Klasik,Warung Klasik,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Abe Do,Abe Do,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Luna Bonita,Luna Bonita,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Goodys,Goodys,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Gardenia Coffee Shop,Gardenia Coffee Shop,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Alam Nusa,Alam Nusa,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Honey & Bread Cafe,Honey & Bread Cafe,0,塔巴南,0.0,0.0,0.0
+其他美食,Nook umalas,Nook umalas,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Safety Stop R&B,Safety Stop R&B,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Warung Bunana,Warung Bunana,0,塔巴南,0.0,0.0,0.0
+其他美食,The Straw Hut,The Straw Hut,0,库塔,0.0,0.0,0.0
+其他美食,Chat Cafe,Chat Cafe,0,库塔,0.0,0.0,0.0
+其他美食,Warung Manyar,Warung Manyar,0,登巴萨,0.0,0.0,0.0
+其他美食,Aladdin Cafe,Aladdin Cafe,0,沙努尔,0.0,0.0,0.0
+其他美食,Bali Agung,Bali Agung,0,库塔,0.0,0.0,0.0
+其他美食,MiX Espresso Bar,MiX Espresso Bar,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Mejekawi,Mejekawi,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Toro Toro,Toro Toro,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Sea Hua Ha Ha Dive Center Bar and Restaurant,Sea Hua Ha Ha Dive Center Bar and Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,"Nyala Restaurant at the Regent, Sanur, Bali","Nyala Restaurant at the Regent, Sanur, Bali",0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Warung Malang,Warung Malang,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Warung Ares,Warung Ares,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Saka Nusa,Saka Nusa,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Shisha Cafe,Shisha Cafe,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Fat Man Corner,Fat Man Corner,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Bali Vegan Warung,Bali Vegan Warung,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Lereng Agung,Lereng Agung,0,艾湄湾,0.0,0.0,0.0
+其他美食,Warung Bendega,Warung Bendega,0,登巴萨,0.0,0.0,0.0
+其他美食,Candidasa Restaurant,Candidasa Restaurant,0,坎迪达萨,0.0,0.0,0.0
+其他美食,Bali Club,Bali Club,0,坎迪达萨,0.0,0.0,0.0
+其他美食,Watergarden Cafe,Watergarden Cafe,0,坎迪达萨,0.0,0.0,0.0
+其他美食,Cinnamon Restaurant,Cinnamon Restaurant,0,沙努尔,0.0,0.0,0.0
+其他美食,Kopi Bali House,Kopi Bali House,0,沙努尔,0.0,0.0,0.0
+其他美食,Warung Batavia,Warung Batavia,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Champs,Champs,0,库塔,0.0,0.0,0.0
+其他美食,JP's warungclub,JP's warungclub,0,水明漾/塞米雅海滩,0.0,0.0,0.0
+其他美食,Soma,Soma,0,乌布,0.0,0.0,0.0
+其他美食,Down to Earth Ubud,Down to Earth Ubud,0,乌布,0.0,0.0,0.0
+其他美食,Art Kafe Bar,Art Kafe Bar,0,乌布,0.0,0.0,0.0
+其他美食,Sagittarius,Sagittarius,0,乌布,0.0,0.0,0.0
+其他美食,Deep Blue Studio Selang,Deep Blue Studio Selang,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,"The Terrace, Bayshore Villas","The Terrace, Bayshore Villas",0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Lihat Sawah Restaurant,Lihat Sawah Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Cafe Zen,Cafe Zen,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Kedisan Resort & Resto Apung,Kedisan Resort & Resto Apung,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Le Spot,Le Spot,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Agus Shipwrecked,Agus Shipwrecked,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Townhouse,Townhouse,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Pacha Bar and Restaurant,Pacha Bar and Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Puri Tugu Belanda,Puri Tugu Belanda,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Puri Oka,Puri Oka,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,mint,mint,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Fusion,Fusion,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Warung Jegeg Restaurant,Warung Jegeg Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Sandya,Sandya,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Yutz Place Restaurant,Yutz Place Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Wayan Restaurant,Wayan Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Tropis Club,Tropis Club,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Spunky's,Spunky's,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Warung Suka Sari,Warung Suka Sari,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Kabuka,Kabuka,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Janger Bar and Restaurant,Janger Bar and Restaurant,0,坎迪达萨,0.0,0.0,0.0
+其他美食,The Bush Telegraph Pub,The Bush Telegraph Pub,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Umi Yamamoto,Umi Yamamoto,0,吉安雅/克拉马斯,0.0,0.0,0.0
+其他美食,Bunga Bar and Restaurant,Bunga Bar and Restaurant,0,新加拉惹/罗维纳海滩,0.0,0.0,0.0
+其他美食,New Banjar Club,New Banjar Club,0,沙努尔,0.0,0.0,0.0
+其他美食,Grand Puncak Sari,Grand Puncak Sari,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Tides Restaurant,Tides Restaurant,0,巴厘岛其他,0.0,0.0,0.0
+其他美食,Restoran Suling Bali,Restoran Suling Bali,0,巴厘岛其他,0.0,0.0,0.0

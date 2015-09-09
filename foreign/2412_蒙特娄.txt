@@ -1,0 +1,433 @@
+意大利菜,La Capannina,La Capannina,0,,7.2,7.2,7.2
+意大利菜,La Cantina,La Cantina,0,,7.7,7.7,7.2
+意大利菜,Scena,Scena,0,,6.9,6.9,6.9
+意大利菜,La Strada,La Strada,0,,7.1,7.0,7.0
+意大利菜,Scarpetta,Scarpetta,0,,7.1,7.1,7.1
+意大利菜,La Cucina,La Cucina,0,,7.1,6.8,7.1
+意大利菜,Sapori di Napoli,Sapori di Napoli,0,,7.1,7.1,7.1
+意大利菜,vespa,vespa,0,,6.9,6.9,6.9
+法国菜,Amigo,Amigo,0,,7.0,7.0,6.7
+法国菜,l'Ambroisie,l'Ambroisie,0,,7.0,7.0,7.0
+法国菜,L'atelier,L'atelier,0,,7.2,7.2,6.8
+法国菜,La Maree,La Maree,0,,6.8,6.8,7.2
+其他西餐,La Banquise,La Banquise,0,其他,7.4,7.4,7.4
+其他西餐,Au Pied de Cochon,Au Pied de Cochon,0,,7.2,7.2,7.2
+其他西餐,Moishe's Steak House,Moishe's Steak House,0,,7.2,7.2,7.2
+其他西餐,Angelo's,Angelo's,0,,7.1,7.1,7.1
+其他西餐,Rustique,Rustique,0,,7.0,7.0,7.0
+其他西餐,Kitchenette,Kitchenette,0,,7.2,7.2,7.2
+其他西餐,Le Cirque,Le Cirque,0,,7.0,7.0,6.9
+中餐,Formosa,Formosa,0,,6.9,6.9,6.9
+日韩料理,Tampopo,Tampopo,0,,7.1,7.1,7.1
+日韩料理,Maru Korean Barbecue,Maru Korean Barbecue,0,,7.1,7.0,6.9
+更多亚洲菜,Mai Thai,Mai Thai,0,,6.9,7.0,6.9
+更多亚洲菜,Gandhi,Gandhi,0,,7.2,7.2,7.2
+快餐简餐,RESTAURANT ETHAN,RESTAURANT ETHAN,0,老蒙特利尔,6.9,6.6,6.7
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Five Guys,Five Guys,0,,7.1,7.1,7.1
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.0,7.0,7.0
+快餐简餐,McDonald's,McDonald's,0,,7.0,7.0,6.9
+快餐简餐,Subway Montreal,Subway Montreal,0,,6.9,6.9,6.9
+快餐简餐,Five Guys,Five Guys,0,,7.2,7.2,7.2
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway President Kennedy,Subway President Kennedy,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Friday's,Friday's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,7.0,7.0,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Mcdonald's,Mcdonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Mc Donald's,Mc Donald's,0,,7.0,7.0,7.0
+快餐简餐,Mcdonald's,Mcdonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.1,7.1,7.1
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Mcdonald,Mcdonald,0,,6.7,6.7,6.7
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,7.0
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.0,6.9,6.7
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Mcdonald's,Mcdonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.7,7.0,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+海鲜,Restaurant Au Petit Poucet,Restaurant Au Petit Poucet,0,,7.7,7.7,7.7
+海鲜,Casa Galicia Restaurant,Casa Galicia Restaurant,0,,7.1,7.1,7.1
+海鲜,Restaurant Casa Alentejo,Restaurant Casa Alentejo,0,,6.9,6.9,6.9
+海鲜,Restaurant Deli Green Stop,Restaurant Deli Green Stop,0,,7.0,6.9,6.7
+烧烤,Bofinger BBQ Smokehouse,Bofinger BBQ Smokehouse,0,,6.8,6.8,6.8
+烧烤,Cote St Luc BBQ,Cote St Luc BBQ,0,,7.3,7.1,7.1
+烧烤,Blackstrap BBQ,Blackstrap BBQ,0,,7.2,7.2,7.2
+烧烤,Moonshine BBQ,Moonshine BBQ,0,,7.1,7.1,7.1
+烧烤,Chez Roger BBQ,Chez Roger BBQ,0,,7.1,7.1,7.1
+烧烤,Dallas Bbq,Dallas Bbq,0,,7.0,7.0,6.9
+烧烤,New System BBQ,New System BBQ,0,,7.0,7.0,6.9
+烧烤,Diablo's BBQ Smokehouse,Diablo's BBQ Smokehouse,0,,6.8,6.8,6.8
+比萨,AROUCH CONCORDIA,AROUCH CONCORDIA,0,蒙特利尔市中心,7.1,7.4,7.4
+比萨,New Rivoli Pizza,New Rivoli Pizza,0,,6.9,6.9,6.9
+比萨,Coronet Pizza,Coronet Pizza,0,,7.0,7.0,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Pendeli's Pizza,Pendeli's Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Pizza,Pizza Pizza,0,,7.0,7.0,6.9
+比萨,Pizza Hut,Pizza Hut,0,,7.0,7.0,6.9
+比萨,Restaurant Pizza Villa,Restaurant Pizza Villa,0,,7.0,7.0,7.0
+比萨,Double Pizza,Double Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Pita,Pizza Pita,0,,7.1,7.0,7.0
+比萨,Pizza Gourmetti,Pizza Gourmetti,0,,6.9,6.9,6.9
+比萨,Pizza Mcgill,Pizza Mcgill,0,,6.9,6.9,6.9
+比萨,Pizza Motta,Pizza Motta,0,,7.1,7.1,7.1
+比萨,Pizza Piroz,Pizza Piroz,0,,6.9,6.9,6.9
+比萨,New Casa de la Pizza,New Casa de la Pizza,0,,6.9,6.9,6.9
+比萨,Mangione Pizza,Mangione Pizza,0,,7.0,7.0,7.0
+比萨,Pizza Chez Dany,Pizza Chez Dany,0,,6.9,6.9,6.9
+比萨,Pizza Ben,Pizza Ben,0,,6.9,6.9,6.9
+比萨,Domino's Pizza Montreal,Domino's Pizza Montreal,0,,7.0,7.0,6.9
+比萨,Pizza Mia,Pizza Mia,0,,7.0,7.1,6.9
+比萨,Pizza Roma,Pizza Roma,0,,6.9,6.9,6.9
+比萨,Georges Pizza,Georges Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Delicieuse,Pizza Delicieuse,0,,6.9,6.9,6.9
+比萨,Hochelaga Pizza Restaurant,Hochelaga Pizza Restaurant,0,,7.0,7.0,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Terrasse Lafayette Pizza,Terrasse Lafayette Pizza,0,,7.0,7.0,6.9
+比萨,Pizza Van Horne,Pizza Van Horne,0,,7.1,7.0,6.9
+比萨,Spiros Pizza,Spiros Pizza,0,,6.9,6.9,6.7
+比萨,California Pizza,California Pizza,0,,7.0,6.9,6.9
+比萨,Pizza Pita,Pizza Pita,0,,7.0,6.9,7.0
+比萨,Pizza Mima,Pizza Mima,0,,6.7,6.7,6.7
+比萨,Pizza Bella,Pizza Bella,0,,6.9,6.9,6.9
+比萨,Pizza Pita,Pizza Pita,0,,7.0,7.0,7.0
+比萨,Pizza Navona,Pizza Navona,0,,7.0,7.1,7.0
+比萨,il focolaio pizza,il focolaio pizza,0,,7.2,7.2,7.2
+比萨,Mory's Original Pizza,Mory's Original Pizza,0,,7.0,6.7,6.7
+比萨,Zappy Pizza,Zappy Pizza,0,,7.0,7.0,7.0
+比萨,Mazzou Pizza,Mazzou Pizza,0,,7.0,7.1,7.0
+比萨,Double Pizza N.D.G.,Double Pizza N.D.G.,0,,6.9,6.9,6.9
+比萨,Connie Pizza,Connie Pizza,0,,7.0,7.0,7.0
+比萨,Pinoli Pizza,Pinoli Pizza,0,,7.1,7.0,7.0
+比萨,Pendeli's Pizza,Pendeli's Pizza,0,,7.0,7.0,6.9
+比萨,Ouest Antonio's Pizza,Ouest Antonio's Pizza,0,,7.1,7.1,7.1
+比萨,Jacques Cartier Pizza,Jacques Cartier Pizza,0,,7.0,7.0,6.9
+比萨,Boston Pizza,Boston Pizza,0,,6.9,6.9,6.9
+比萨,Magpie Pizza,Magpie Pizza,0,,7.1,7.1,7.1
+比萨,Pizza St Viateur,Pizza St Viateur,0,,6.9,6.9,6.9
+比萨,Pizza Roni,Pizza Roni,0,,7.0,6.9,6.9
+比萨,Boston Pizza,Boston Pizza,0,,6.8,7.1,6.8
+比萨,Boston Pizza,Boston Pizza,0,,6.8,6.8,6.8
+比萨,Boston Pizza Anjou,Boston Pizza Anjou,0,,6.9,6.9,6.9
+比萨,Zestos Pizza,Zestos Pizza,0,,6.9,6.9,6.9
+比萨,1 For 1 Pizza,1 For 1 Pizza,0,,6.9,6.9,6.9
+比萨,Double Pizza,Double Pizza,0,,6.7,6.7,6.7
+比萨,California Pizza,California Pizza,0,,6.9,6.9,6.9
+咖啡厅,CAFE NOIR,CAFE NOIR,0,蒙特利尔市中心,7.1,6.7,6.7
+咖啡厅,Cafe Bistro,Cafe Bistro,0,蒙特利尔市中心,6.7,6.7,6.7
+咖啡厅,JAVA-U,JAVA-U,0,老蒙特利尔,7.0,6.7,6.7
+咖啡厅,VAN HOUTTE,VAN HOUTTE,0,老蒙特利尔,6.9,6.9,6.9
+咖啡厅,Cafe Veritas,Cafe Veritas,0,,7.2,7.2,7.2
+咖啡厅,Restaurant Cafe Souad,Restaurant Cafe Souad,0,,6.9,6.9,6.9
+咖啡厅,Cafe Pave,Cafe Pave,0,,7.3,7.1,7.1
+咖啡厅,Cafe Aroma Paninoteca,Cafe Aroma Paninoteca,0,,6.9,6.9,6.9
+咖啡厅,Tim Hortons,Tim Hortons,0,,7.1,7.1,7.1
+咖啡厅,Byblos Le Petit Cafe,Byblos Le Petit Cafe,0,,7.2,6.8,7.2
+咖啡厅,Shaika Cafe,Shaika Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Rococo,Cafe Rococo,0,,7.1,7.1,7.1
+咖啡厅,Cafe Benz,Cafe Benz,0,,6.9,6.9,6.9
+咖啡厅,Cafe thEATre,Cafe thEATre,0,,6.9,6.9,6.9
+咖啡厅,Cafe El Dorado,Cafe El Dorado,0,,6.8,6.8,7.1
+咖啡厅,Cafe du Parquet,Cafe du Parquet,0,,7.0,7.0,7.0
+咖啡厅,Cafe Frejus,Cafe Frejus,0,,7.0,7.0,7.0
+咖啡厅,Wok Cafe,Wok Cafe,0,,7.1,7.1,6.8
+咖啡厅,Cafe Replika,Cafe Replika,0,,7.1,7.0,7.1
+咖啡厅,Breizh cafe,Breizh cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Baci's,Cafe Baci's,0,,7.5,7.5,7.1
+咖啡厅,Cafe Olimpico,Cafe Olimpico,0,,7.1,7.5,7.1
+咖啡厅,Cafe Saigon,Cafe Saigon,0,,7.2,7.2,7.2
+咖啡厅,Prato Pizzeria Cafe,Prato Pizzeria Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Cherrier,Cafe Cherrier,0,,7.2,7.2,7.2
+咖啡厅,M Cafe,M Cafe,0,,7.2,7.2,7.2
+咖啡厅,Ferreira Cafe,Ferreira Cafe,0,,7.2,7.2,7.2
+咖啡厅,Fibo Resto Loft,Fibo Resto Loft,0,,7.2,7.2,7.2
+咖啡厅,Birks Cafe par Europea,Birks Cafe par Europea,0,,7.2,7.2,7.2
+咖啡厅,Cafe Du Nouveau Monde,Cafe Du Nouveau Monde,0,,7.2,7.2,7.2
+咖啡厅,Resto Cafe Quoi de N'Oeuf,Resto Cafe Quoi de N'Oeuf,0,,7.2,7.2,7.2
+咖啡厅,Cafe International,Cafe International,0,,7.2,7.2,7.2
+咖啡厅,Pouding Cafe,Pouding Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Plume,Cafe Plume,0,,7.1,7.1,7.1
+咖啡厅,Cafe Checkpoint Charlie,Cafe Checkpoint Charlie,0,,7.1,7.1,7.1
+咖啡厅,Cafe Laval,Cafe Laval,0,,6.9,6.9,6.9
+咖啡厅,Li Wah Cafe,Li Wah Cafe,0,,6.9,6.9,6.9
+咖啡厅,Bocci Resto Cafe,Bocci Resto Cafe,0,,7.1,7.1,7.1
+咖啡厅,Tim Hortons,Tim Hortons,0,,6.9,6.9,6.9
+咖啡厅,Cafe Aleatoire,Cafe Aleatoire,0,,7.1,7.1,7.1
+咖啡厅,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡厅,Aldar Resto Cafe,Aldar Resto Cafe,0,,6.9,6.9,6.9
+咖啡厅,Fiddler's Green,Fiddler's Green,0,,7.1,7.1,7.1
+咖啡厅,Cafe Verdure,Cafe Verdure,0,,7.1,7.0,7.0
+咖啡厅,Fiddler's Green,Fiddler's Green,0,,6.9,6.9,6.9
+咖啡厅,Cafe des beaux-arts,Cafe des beaux-arts,0,,7.1,7.1,7.1
+咖啡厅,Second Cup,Second Cup,0,,7.1,7.1,7.1
+咖啡厅,Cafe Nomad Station,Cafe Nomad Station,0,,7.0,7.1,7.0
+咖啡厅,Cafe Depot,Cafe Depot,0,,6.9,6.9,6.9
+咖啡厅,Cafe Differance,Cafe Differance,0,,7.1,7.1,7.1
+咖啡厅,Green Cafe,Green Cafe,0,,7.1,7.1,7.0
+咖啡厅,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡厅,Tim Hortons,Tim Hortons,0,,7.1,7.1,7.1
+咖啡厅,Al Van Houtte Cafe,Al Van Houtte Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Bistro Le Baroque,Cafe Bistro Le Baroque,0,,6.9,6.9,6.9
+咖啡厅,A Propos Cafe Resto,A Propos Cafe Resto,0,,7.1,7.1,7.1
+咖啡厅,Cafe 1880,Cafe 1880,0,,6.9,6.9,6.9
+咖啡厅,Resto Cafe chez Anas,Resto Cafe chez Anas,0,,7.1,7.1,7.1
+咖啡厅,Cafe La Tazza,Cafe La Tazza,0,,7.1,7.1,7.1
+咖啡厅,Garage Cafe,Garage Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe de Mercanti,Cafe de Mercanti,0,,6.9,6.9,6.9
+咖啡厅,Pellegrinos cafe,Pellegrinos cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Resonance,Cafe Resonance,0,,7.1,7.1,7.1
+咖啡厅,Cafe de l'Usine,Cafe de l'Usine,0,,6.9,6.9,6.9
+咖啡厅,Le Depanneur Cafe,Le Depanneur Cafe,0,,7.1,7.1,7.1
+咖啡厅,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡厅,Cafe Epoca,Cafe Epoca,0,,7.1,7.1,7.1
+咖啡厅,Cafe Depot,Cafe Depot,0,,6.9,6.9,6.9
+咖啡厅,Presse Cafe St-Laurent,Presse Cafe St-Laurent,0,,6.9,6.9,6.9
+咖啡厅,Montreal Cafe,Montreal Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Bistro L'enchanteur,Cafe Bistro L'enchanteur,0,,7.1,7.1,7.1
+咖啡厅,Cafe Vito,Cafe Vito,0,,7.0,7.1,7.0
+咖啡厅,Cafe Cubic,Cafe Cubic,0,,6.9,6.9,6.9
+咖啡厅,Les Affames cafe traiteur,Les Affames cafe traiteur,0,,7.0,7.0,7.0
+咖啡厅,Cafe le petit flore,Cafe le petit flore,0,,7.1,7.1,7.1
+咖啡厅,Cafe Central Portugais,Cafe Central Portugais,0,,6.9,6.9,6.9
+咖啡厅,Cafe Ambassadeur,Cafe Ambassadeur,0,,6.9,6.9,6.9
+咖啡厅,Cafe du Jardin,Cafe du Jardin,0,,6.9,6.9,6.9
+咖啡厅,Cafe Mimi et Coco,Cafe Mimi et Coco,0,,6.9,6.9,6.9
+咖啡厅,Cafe Cantina,Cafe Cantina,0,,7.1,7.0,6.9
+咖啡厅,Cafe Restaurant Mozart,Cafe Restaurant Mozart,0,,6.9,6.9,6.9
+咖啡厅,Cafe Starbucks,Cafe Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Tim Hortons,Tim Hortons,0,,6.9,6.9,6.9
+咖啡厅,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡厅,Van Houtte,Van Houtte,0,,7.0,7.0,7.0
+咖啡厅,Cafe Starbucks,Cafe Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Cafe Depot,Cafe Depot,0,,6.9,6.9,6.9
+咖啡厅,Cafe des amis montreal,Cafe des amis montreal,0,,7.0,7.0,7.0
+咖啡厅,Cafe Trattoria Pane E Vino,Cafe Trattoria Pane E Vino,0,,6.9,6.9,6.9
+咖啡厅,Frais Cafe NPH,Frais Cafe NPH,0,,6.9,6.9,6.9
+咖啡厅,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡厅,Cafe Chez Simon,Cafe Chez Simon,0,,6.9,6.9,6.9
+咖啡厅,Cafe Fleuri,Cafe Fleuri,0,,6.9,6.9,6.9
+咖啡厅,Cafeteria Resto,Cafeteria Resto,0,,7.0,7.0,7.0
+咖啡厅,Tim Hortons,Tim Hortons,0,,7.0,7.0,7.0
+咖啡厅,Cafe des Lettres,Cafe des Lettres,0,,6.9,6.9,6.9
+咖啡厅,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡厅,Cafe Hollywood,Cafe Hollywood,0,,6.9,6.9,6.9
+咖啡厅,Nuart Cafe,Nuart Cafe,0,,6.9,6.9,6.9
+咖啡厅,Tim Hortons,Tim Hortons,0,,6.9,6.9,6.9
+咖啡厅,Cafe Juicy Lotus,Cafe Juicy Lotus,0,,7.0,7.0,7.0
+咖啡厅,Cafe Jonah James,Cafe Jonah James,0,,7.0,7.0,7.0
+咖啡厅,La Panthere Verte / The Green Panther,La Panthere Verte / The Green Panther,0,,7.0,7.0,7.0
+咖啡厅,Cafe Pamplemousse,Cafe Pamplemousse,0,,6.9,6.9,6.9
+咖啡厅,Bacio,Bacio,0,,6.9,6.9,6.9
+咖啡厅,Cafe Jounieh,Cafe Jounieh,0,,6.9,6.9,6.9
+咖啡厅,Cafe local,Cafe local,0,,7.0,7.0,7.0
+咖啡厅,Cafe Depot - Chateauguay,Cafe Depot - Chateauguay,0,,6.9,6.9,6.9
+咖啡厅,Cafe Smile,Cafe Smile,0,,7.0,7.1,7.0
+咖啡厅,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡厅,Le Placard - Cafe Bistro,Le Placard - Cafe Bistro,0,,6.9,6.9,6.9
+咖啡厅,Cafe de L`Apothicaire,Cafe de L`Apothicaire,0,,6.9,6.9,6.9
+咖啡厅,Cafe Noir Cremazie,Cafe Noir Cremazie,0,,6.9,6.9,6.9
+咖啡厅,Cafe Lezard,Cafe Lezard,0,,7.0,7.1,7.1
+咖啡厅,cafe pi,cafe pi,0,,6.9,6.7,6.7
+咖啡厅,Universel Restaurant Cafe,Universel Restaurant Cafe,0,,6.9,7.0,6.9
+咖啡厅,Toi Moi et Cafe,Toi Moi et Cafe,0,,6.8,6.8,7.1
+咖啡厅,Cafe Souvenir,Cafe Souvenir,0,,7.2,7.2,7.2
+咖啡厅,Cafe Neve,Cafe Neve,0,,7.1,7.1,7.1
+咖啡厅,Milano Cafe,Milano Cafe,0,,7.1,7.1,7.1
+咖啡厅,Le Cafe Sesame,Le Cafe Sesame,0,,7.0,7.1,7.1
+咖啡厅,Cafe Choco-Latte,Cafe Choco-Latte,0,,7.0,7.0,7.0
+咖啡厅,Cafe Joe,Cafe Joe,0,,6.9,6.9,6.9
+咖啡厅,Tim Hortons,Tim Hortons,0,,7.0,7.0,7.0
+咖啡厅,Second Cup,Second Cup,0,,7.1,7.0,6.9
+咖啡厅,Cafe Toman,Cafe Toman,0,,6.9,6.9,6.9
+咖啡厅,Cafe imagination,Cafe imagination,0,,7.0,6.9,7.0
+咖啡厅,Cafe Myriade,Cafe Myriade,0,,7.0,7.0,7.0
+咖啡厅,Mechant Cafe Espresso Bar,Mechant Cafe Espresso Bar,0,,7.0,7.1,7.0
+咖啡厅,Cafe Il Cortile,Cafe Il Cortile,0,,7.2,7.2,7.2
+咖啡厅,Green Cafe,Green Cafe,0,,7.1,7.1,7.0
+咖啡厅,Cafe Presto,Cafe Presto,0,,7.0,7.0,6.9
+咖啡厅,Cafe Town,Cafe Town,0,,6.9,7.0,7.0
+咖啡厅,Cafe Republique 1200 Peel,Cafe Republique 1200 Peel,0,,6.9,7.0,6.9
+咖啡厅,Tim Hortons,Tim Hortons,0,,7.0,7.0,6.9
+咖啡厅,Cafe Vasco de Gama,Cafe Vasco de Gama,0,,7.2,7.2,7.2
+咖啡厅,Cafe Du Port,Cafe Du Port,0,,7.0,7.1,7.0
+咖啡厅,Al Van Houtte Cafe,Al Van Houtte Cafe,0,,6.9,6.9,6.9
+咖啡厅,The Mon Cafe,The Mon Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Titanic,Cafe Titanic,0,,7.5,7.1,7.1
+咖啡厅,Stash Cafe,Stash Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Depot,Cafe Depot,0,,7.0,7.0,6.9
+咖啡厅,Cafe Grevin,Cafe Grevin,0,,7.0,7.0,7.0
+咖啡厅,Le Grand Comptoir,Le Grand Comptoir,0,,7.2,7.2,7.2
+咖啡厅,Cafe Capucine,Cafe Capucine,0,,6.9,6.9,6.9
+咖啡厅,Cafe Parvis,Cafe Parvis,0,,7.0,7.0,7.0
+咖啡厅,La Creme de la Creme Cafe,La Creme de la Creme Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Bistro Mon Plaisir,Cafe Bistro Mon Plaisir,0,,7.2,7.2,7.2
+咖啡厅,Cafe Bistro Van Houtte,Cafe Bistro Van Houtte,0,,7.1,7.1,7.0
+咖啡厅,Cafe Lola Rosa,Cafe Lola Rosa,0,,7.2,7.2,7.2
+咖啡厅,Al Van Houtte Cafe,Al Van Houtte Cafe,0,,6.9,6.9,6.9
+咖啡厅,Crepe Cafe,Crepe Cafe,0,,7.1,7.1,7.1
+咖啡厅,Mars Venus Cafe Resto Bar,Mars Venus Cafe Resto Bar,0,,6.9,6.9,6.9
+咖啡厅,Cafe De La Pagode,Cafe De La Pagode,0,,7.0,7.1,7.1
+咖啡厅,Cafe Melies,Cafe Melies,0,,6.9,6.9,6.9
+咖啡厅,Cafe Republique,Cafe Republique,0,,7.1,7.1,7.1
+咖啡厅,Cafe Depot,Cafe Depot,0,,6.9,6.9,6.9
+咖啡厅,Cafe Saint-Henri Quartier Latin,Cafe Saint-Henri Quartier Latin,0,,6.9,7.1,7.0
+咖啡厅,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡厅,Cafe Italia,Cafe Italia,0,,7.0,7.0,7.1
+咖啡厅,Le Baobab Cafe,Le Baobab Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe 92,Cafe 92,0,,7.1,7.0,7.0
+咖啡厅,Nu Art Cafe,Nu Art Cafe,0,,7.0,6.9,6.9
+咖啡厅,MELK Bar a Cafe,MELK Bar a Cafe,0,,7.0,7.0,7.0
+咖啡厅,Orange Cafe,Orange Cafe,0,,7.2,7.2,7.2
+咖啡厅,Arts Cafe Montreal,Arts Cafe Montreal,0,,7.1,7.0,7.1
+咖啡厅,Cafe Universel,Cafe Universel,0,,7.2,7.2,7.2
+咖啡厅,La Touche - Bar a cafe,La Touche - Bar a cafe,0,,7.0,7.1,7.0
+咖啡厅,EM cafe,EM cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Sardine,Cafe Sardine,0,,7.1,7.0,7.0
+咖啡厅,Mei Le Cafe Chinos,Mei Le Cafe Chinos,0,,7.0,7.0,6.9
+咖啡厅,Whisky Cafe,Whisky Cafe,0,,6.8,7.1,7.1
+咖啡厅,Moustache Cafe,Moustache Cafe,0,,7.1,7.0,7.0
+咖啡厅,"Cafe Cubano,Montreal","Cafe Cubano,Montreal",0,,6.9,6.9,6.9
+咖啡厅,Byblos Cafe,Byblos Cafe,0,,7.0,6.9,7.0
+咖啡厅,Fixe Cafe Bistro,Fixe Cafe Bistro,0,,7.1,7.1,7.0
+咖啡厅,Cafe Via Dante,Cafe Via Dante,0,,7.1,7.1,7.1
+咖啡厅,Beaufort Cafe,Beaufort Cafe,0,,7.1,7.1,7.0
+咖啡厅,Cafe Rustic Rosemont,Cafe Rustic Rosemont,0,,7.1,7.1,7.0
+咖啡厅,Gentile Cafe,Gentile Cafe,0,,7.1,7.0,7.0
+咖啡厅,L'Entre-Pots Cafe - Traiteur,L'Entre-Pots Cafe - Traiteur,0,,7.1,7.0,7.0
+咖啡厅,Cafe Lezard Beaubien,Cafe Lezard Beaubien,0,,7.0,7.0,7.0
+咖啡厅,Restaurant Cafe Tex-Mex,Restaurant Cafe Tex-Mex,0,,6.9,6.9,6.9
+咖啡厅,Cafe Regine,Cafe Regine,0,,7.2,7.2,7.2
+咖啡厅,Hoche Cafe,Hoche Cafe,0,,7.0,7.0,7.0
+咖啡厅,Cafe Mercedes,Cafe Mercedes,0,,6.9,6.9,6.9
+咖啡厅,Brooklyn Cafe,Brooklyn Cafe,0,,7.0,7.0,7.0
+咖啡厅,Cafe Imagination,Cafe Imagination,0,,6.8,7.1,7.1
+咖啡厅,Tim Hortons,Tim Hortons,0,,6.9,6.9,6.9
+咖啡厅,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡厅,Cafe Kahwa,Cafe Kahwa,0,,6.9,6.9,6.9
+咖啡厅,Cafe Sarajevo,Cafe Sarajevo,0,,6.9,6.9,6.9
+咖啡厅,Cafe Asia,Cafe Asia,0,,6.9,6.7,6.7
+咖啡厅,Le Cafe Creme,Le Cafe Creme,0,,6.7,6.7,6.7
+面包甜点,LA BONBONNIERE SWEET FACTORY,LA BONBONNIERE SWEET FACTORY,0,蒙特利尔皮埃尔埃利奥特特鲁多国际机场,6.9,6.7,6.9
+面包甜点,Liquid Nutuition,Liquid Nutuition,0,蒙特利尔市中心,6.7,6.7,6.7
+面包甜点,CAFE TERRASSE CATHERINE,CAFE TERRASSE CATHERINE,0,老蒙特利尔,6.7,6.7,6.7
+面包甜点,Leonidas Mont-Royal,Leonidas Mont-Royal,0,,6.9,6.9,6.9
+面包甜点,Cold Stone Creamery,Cold Stone Creamery,0,,6.9,6.9,6.9
+面包甜点,Gelateria Artigianale,Gelateria Artigianale,0,,6.9,6.9,6.9
+面包甜点,Menchie's Frozen Yogurt,Menchie's Frozen Yogurt,0,,7.0,7.0,7.0
+面包甜点,San Pietro Bakery,San Pietro Bakery,0,,6.9,6.9,6.9
+面包甜点,Baked2Go Boulangerie de Pointe - Advanced Bakery,Baked2Go Boulangerie de Pointe - Advanced Bakery,0,,7.0,7.0,7.0
+面包甜点,Tasty Food,Tasty Food,0,,7.1,7.0,7.0
+面包甜点,Yuki bakery,Yuki bakery,0,,7.1,7.3,7.1
+面包甜点,Cheskie's bakery,Cheskie's bakery,0,,7.3,7.3,7.1
+酒吧,BEVO Bar + Pizzeria,BEVO Bar + Pizzeria,0,,7.2,7.2,7.2
+酒吧,Salon de The Cardinal,Salon de The Cardinal,0,,7.0,7.0,7.1
+酒吧,Kanda Sushi Bar,Kanda Sushi Bar,0,,6.8,6.8,6.8
+酒吧,Le Saloon Bistro Bar,Le Saloon Bistro Bar,0,,7.2,7.2,7.2
+酒吧,Pullman Wine Bar,Pullman Wine Bar,0,,7.2,7.2,7.2
+酒吧,Deli Planet Resto Bar,Deli Planet Resto Bar,0,,7.1,7.1,7.1
+酒吧,Time Supper Club,Time Supper Club,0,,7.1,7.1,7.1
+酒吧,Les Voyageurs Bar,Les Voyageurs Bar,0,,6.8,6.8,7.1
+酒吧,Vertigo Stk Bar,Vertigo Stk Bar,0,,7.0,7.0,7.0
+酒吧,Cosmos Snack Bar,Cosmos Snack Bar,0,,7.1,7.1,7.1
+酒吧,Bar Alexandraplatz,Bar Alexandraplatz,0,,6.9,6.9,6.9
+酒吧,Bocata Restaurant Bar a Vin,Bocata Restaurant Bar a Vin,0,,7.2,7.2,7.2
+酒吧,Kyo Bar Japonais,Kyo Bar Japonais,0,,7.2,7.2,7.2
+酒吧,Randolph Pub Ludique,Randolph Pub Ludique,0,,7.0,7.1,7.1
+酒吧,McKibbins Irish Pub,McKibbins Irish Pub,0,,7.1,6.8,6.8
+酒吧,Miso Restaurant and Sushi bar,Miso Restaurant and Sushi bar,0,,7.2,7.2,7.2
+酒吧,Lucky's Resto Bar,Lucky's Resto Bar,0,,7.0,7.0,7.0
+酒吧,Bar Ristorante Ridi,Bar Ristorante Ridi,0,,7.2,7.2,7.2
+酒吧,SAINT sushi bar,SAINT sushi bar,0,,7.5,7.5,7.1
+酒吧,Hurley's Irish Pub,Hurley's Irish Pub,0,,7.2,7.2,7.2
+酒吧,Nocochi Bistro/Salon de the,Nocochi Bistro/Salon de the,0,,7.2,7.2,7.2
+酒吧,Mikasa Sushi Bar,Mikasa Sushi Bar,0,,7.2,7.2,7.2
+酒吧,Mechant Boeuf Bar Brasserie,Mechant Boeuf Bar Brasserie,0,,7.2,7.2,7.2
+酒吧,Nyk's Bistro Pub,Nyk's Bistro Pub,0,,7.2,7.2,7.2
+酒吧,Pub St-Paul,Pub St-Paul,0,,7.2,7.2,7.2
+酒吧,F Bar,F Bar,0,,7.2,7.2,7.2
+酒吧,Mikasa Sushi Bar,Mikasa Sushi Bar,0,,7.2,7.2,7.2
+酒吧,"La Champagnerie, Bar a Bulles","La Champagnerie, Bar a Bulles",0,,7.1,7.1,7.1
+酒吧,"La Cabane du Portugal, Bar Terrasse Restaurant","La Cabane du Portugal, Bar Terrasse Restaurant",0,,7.1,7.1,7.1
+酒吧,Tropical Paradise,Tropical Paradise,0,,6.9,6.9,6.9
+酒吧,La Formule Espresso Bar,La Formule Espresso Bar,0,,7.1,7.1,7.1
+酒吧,Salon de The Chai Tea Lounge,Salon de The Chai Tea Lounge,0,,7.1,7.1,7.1
+酒吧,St James Pub,St James Pub,0,,7.1,7.1,6.9
+酒吧,Bar L'Barouf,Bar L'Barouf,0,,7.0,7.1,7.0
+酒吧,Resto Bar Sushido de Laval,Resto Bar Sushido de Laval,0,,7.1,7.0,7.0
+酒吧,Kanda Sushi Bar - Laval,Kanda Sushi Bar - Laval,0,,7.1,7.1,7.1
+酒吧,Club de Golf de L'ile de Montreal,Club de Golf de L'ile de Montreal,0,,6.9,6.9,6.9
+酒吧,Le Club Mamaia,Le Club Mamaia,0,,7.1,7.1,7.0
+酒吧,Inferno,Inferno,0,,7.1,7.1,7.1
+酒吧,Bar Le Chasseur,Bar Le Chasseur,0,,7.1,7.1,7.1
+酒吧,Tk Resto Bar,Tk Resto Bar,0,,7.0,7.0,7.0
+酒吧,Winnie Bar Restaurant,Winnie Bar Restaurant,0,,6.9,7.0,7.0
+酒吧,Tunnel Espresso Bar,Tunnel Espresso Bar,0,,6.9,6.9,6.9
+酒吧,Wood35 Restaurant Bar,Wood35 Restaurant Bar,0,,7.0,7.0,7.0
+酒吧,Le Tequila Bar,Le Tequila Bar,0,,7.1,7.1,7.0
+酒吧,Pub Ile Noire,Pub Ile Noire,0,,7.0,7.0,7.0
+酒吧,Bar Inc,Bar Inc,0,,6.9,6.9,6.9
+酒吧,Salon Mogador,Salon Mogador,0,,7.0,7.0,7.0
+酒吧,Bar le Vestiaire,Bar le Vestiaire,0,,6.9,6.9,6.9
+酒吧,Broue Pub Brouhaha,Broue Pub Brouhaha,0,,7.0,7.0,7.0
+酒吧,Be Bap Rice Bar,Be Bap Rice Bar,0,,7.1,7.1,7.1
+酒吧,Pourquoi pas espresso bar,Pourquoi pas espresso bar,0,,7.1,7.1,7.1
+酒吧,Club Espanol de Quebec,Club Espanol de Quebec,0,,7.0,7.0,7.0
+酒吧,Luce Restaurant and Bar,Luce Restaurant and Bar,0,,7.1,7.0,7.1
+酒吧,Barbie's Bar and Grill,Barbie's Bar and Grill,0,,6.9,7.0,6.9
+酒吧,Moe's Deli and Bar,Moe's Deli and Bar,0,,7.1,6.8,6.8
+酒吧,Kyoto Sushi Bar,Kyoto Sushi Bar,0,,7.0,7.0,7.0
+酒吧,Kelly Bar,Kelly Bar,0,,7.0,7.0,7.0
+酒吧,Pub Mc Carold's,Pub Mc Carold's,0,,7.0,6.9,7.0
+酒吧,Mike's Resto Bar,Mike's Resto Bar,0,,6.9,6.9,6.9
+酒吧,Sir Winston Churchill Pub Complex,Sir Winston Churchill Pub Complex,0,,7.2,7.2,7.2
+酒吧,London Pub,London Pub,0,,6.9,6.7,6.7
+酒吧,Burger Bar Crescent,Burger Bar Crescent,0,,7.2,7.2,7.2
+酒吧,Pub Serge Henri,Pub Serge Henri,0,,6.7,7.0,6.9
+酒吧,McLean's Pub,McLean's Pub,0,,7.2,7.2,7.2
+酒吧,Peel Pub,Peel Pub,0,,7.2,7.2,7.2
+酒吧,Peroni Resto Bar,Peroni Resto Bar,0,,6.9,6.9,6.9
+酒吧,Pub Victoria,Pub Victoria,0,,6.8,7.1,7.1
+酒吧,Pub l'Oncle Antoine,Pub l'Oncle Antoine,0,,7.0,7.0,7.0
+酒吧,The Keg Steakhouse and Bar - Place Ville Marie,The Keg Steakhouse and Bar - Place Ville Marie,0,,7.2,7.2,7.2
+酒吧,Monsieur Restaurant + Bar,Monsieur Restaurant + Bar,0,,7.1,7.1,7.1
+酒吧,Joverse Bar,Joverse Bar,0,,7.2,7.2,7.2
+酒吧,Pub Bistro Le Courtier,Pub Bistro Le Courtier,0,,7.0,7.0,7.0
+酒吧,Maska Reston Bar,Maska Reston Bar,0,,6.9,6.9,7.0
+酒吧,Pikolo Espresso Bar,Pikolo Espresso Bar,0,,7.2,7.2,7.2
+酒吧,Le Club Chasse et Peche,Le Club Chasse et Peche,0,,7.2,7.2,7.2
+酒吧,Bar a Beurre,Bar a Beurre,0,,7.1,7.1,7.1
+酒吧,Factory,Factory,0,,7.0,7.0,7.0
+酒吧,Basso Bar Cucina,Basso Bar Cucina,0,,6.7,6.7,6.7
+酒吧,Ace Deli et Bar,Ace Deli et Bar,0,,6.8,6.8,7.1
+酒吧,Le Club Sandwich,Le Club Sandwich,0,,6.8,6.8,6.8
+酒吧,Bar Bistro Bily Kun,Bar Bistro Bily Kun,0,,7.1,7.1,7.1
+酒吧,yoy sushi bar,yoy sushi bar,0,,6.8,6.8,6.8
+酒吧,Okane Sushi Bar,Okane Sushi Bar,0,,6.9,6.9,6.7
+酒吧,"Royal Phoenix Bar, Montreal, Quebec","Royal Phoenix Bar, Montreal, Quebec",0,,7.1,7.0,6.9
+酒吧,Bar Brutus,Bar Brutus,0,,6.9,6.9,6.9
+酒吧,Macaroni Bar,Macaroni Bar,0,,7.1,6.8,6.8
+酒吧,Madisons New York Grill and Bar,Madisons New York Grill and Bar,0,,7.1,7.1,7.1
+酒吧,Brooke Restaurant + Bar,Brooke Restaurant + Bar,0,,6.8,6.8,7.2
+酒吧,El Zaz Bar,El Zaz Bar,0,,6.9,6.9,6.9
+更多美食,Il Cavaliere,Il Cavaliere,0,,7.1,7.1,7.1
+更多美食,Liverpool House,Liverpool House,0,,7.2,7.2,7.2
+更多美食,El Chico,El Chico,0,,6.9,6.9,6.9

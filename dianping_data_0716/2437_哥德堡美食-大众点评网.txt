@@ -1,0 +1,118 @@
+意大利菜,Pasta Plus
+意大利菜,Bistro Italiano
+意大利菜,bar italia
+意大利菜,Bar Centro
+意大利菜,Enoteca Maglia
+意大利菜,Salt and Peppar
+法国菜,Magnus & Magnus
+法国菜,Beerista
+法国菜,Restaurang 3an
+其他西餐,Magnus & Magnus
+其他西餐,Koka
+其他西餐,vRÅ
+其他西餐,Linnea Art Restaurant
+其他西餐,Slimfood
+其他西餐,Cafe Porterpelle
+其他西餐,Seglarkrogen
+其他西餐,Restaurang 3an
+其他西餐,Lisebergs Wardshus
+其他西餐,"Simba, Restaurang"
+其他西餐,Butchers Market
+其他西餐,Hamnkrogen Liseberg
+其他西餐,Pomodoro
+其他西餐,Gulhedens Vattentorn I Goteborg
+其他西餐,Göteborgsoperans Sommarveranda
+其他西餐,Herkules Pizza & Resturang
+其他西餐,Café Bommen
+其他西餐,Sybilla
+其他西餐,Gamla Ullevi Restaurang och Konferens
+其他西餐,Sjoboren
+其他西餐,Plaka
+中餐,Tien Tsin
+中餐,Malaysia Sate Restaurant
+中餐,Sun Wall
+中餐,Lai Wa
+日韩料理,Super Rullband
+日韩料理,Zozaki
+日韩料理,Le Croissant
+日韩料理,vRÅ
+日韩料理,Restaurant Yammy Kitchen
+日韩料理,Slimfood
+日韩料理,Wasabi Sushibar
+日韩料理,Sushi Fu
+更多亚洲菜,Göteborg Wok
+更多亚洲菜,Malaysia Sate Restaurant
+更多亚洲菜,Mother India
+更多亚洲菜,Himalaya
+更多亚洲菜,Ottomania
+更多亚洲菜,Lai Thai
+更多亚洲菜,Torg Krogen
+更多亚洲菜,Indiska Hornet
+更多亚洲菜,Targaz
+更多亚洲菜,New Delhi
+更多亚洲菜,Restaurang Thai Garden
+快餐简餐,瑞华餐厅
+快餐简餐,Gourmetkorv
+海鲜,Gabriel Fisk- & Skaldjursbar
+海鲜,Fiskekrogen
+海鲜,River Cafe
+海鲜,Restaurang Rakan
+比萨,Utby Pizzeria
+咖啡厅,Cafe Konditori Kringlan
+咖啡厅,bar italia
+咖啡厅,Le Petit Cafe
+咖啡厅,Bar Centro
+咖啡厅,Pustervik
+咖啡厅,Pour Bon
+咖啡厅,Brogyllen Klassiskt
+酒吧,The Bishop's Arm
+酒吧,Brasserie Lipp
+更多美食,Feskekorka / Fiskekyrkan
+更多美食,Swedish Taste
+更多美食,Heaven 23
+更多美食,Espresso House
+更多美食,Ma Cuisine
+更多美食,SK Mat & Manniskor
+更多美食,En Deli Haga
+更多美食,Riverton View
+更多美食,Restaurang Solrosen
+更多美食,Murveln
+更多美食,G Mat & Vin
+更多美食,"Espresso House, Nordstan"
+更多美食,Bhoga restaurang
+更多美食,Smaka
+更多美食,GA Paletten
+更多美食,Gothia Towers Restauranger
+更多美食,Gyllene Prag AB
+更多美食,Hemma hos i Haga
+更多美食,SoHo
+更多美食,Palace Brunnsparken
+更多美食,The Golden Days
+更多美食,"Danilo Restaurang, Bar & Cafe"
+更多美食,Hunnebo Fisk & Delikatesser
+更多美食,Deli Verket Kok & Bar
+更多美食,LATTERIA Kaffesalong
+更多美食,La Tabla
+更多美食,Cupcake Time
+更多美食,Havet I Saluhall Briggen
+更多美食,Matbar Spisa
+更多美食,Haket Bar
+更多美食,Lagerhuset
+更多美食,Soulstore Coffee & Moments
+更多美食,Sushi och Sund
+更多美食,Barken Viking
+更多美食,Hing Wa Restaurang
+更多美食,Brygghuset
+更多美食,Fair Play
+更多美食,Viktors Kaffe
+更多美食,Govindas
+更多美食,The Rose & Crown
+更多美食,Restaurang Runegard & Hvit
+更多美食,Ada
+更多美食,Eggers Restaurang & Bar
+更多美食,"Ebeling Restaurang AB, Dieter"
+更多美食,La Cucaracha Linne
+更多美食,Jensens Bofhus
+更多美食,Ribs BBQ Smokehouse
+更多美食,Dalheimers Hus
+更多美食,Ching Palace

@@ -1,0 +1,471 @@
+意大利菜,Pepe Nero,Pepe Nero,0,梅迪纳,0.0,0.0,0.0
+意大利菜,Cafe Arabe,Cafe Arabe,0,梅迪纳,0.0,0.0,0.0
+意大利菜,LA CASA Restaurant Lounge,LA CASA Restaurant Lounge,0,Gueliz,0.0,0.0,0.0
+意大利菜,Kui-Zin,Kui-Zin,0,梅迪纳,0.0,0.0,0.0
+意大利菜,I Limoni,I Limoni,0,Gueliz,0.0,0.0,0.0
+意大利菜,Bistrot Romain,Bistrot Romain,0,Gueliz,0.0,0.0,0.0
+意大利菜,La Trattoria De Giancarlo,La Trattoria De Giancarlo,0,Gueliz,0.0,0.0,0.0
+意大利菜,Panna Gusto Italiano,Panna Gusto Italiano,0,Gueliz,0.0,0.0,0.0
+意大利菜,Mamma Mia,Mamma Mia,0,Gueliz,0.0,0.0,0.0
+意大利菜,Catanzaro,Catanzaro,0,Gueliz,0.0,0.0,0.0
+意大利菜,L'Ultimo Bacio,L'Ultimo Bacio,0,Gueliz,0.0,0.0,0.0
+意大利菜,Ristorante Italiano Casanova,Ristorante Italiano Casanova,0,Gueliz,0.0,0.0,0.0
+意大利菜,Portofino,Portofino,0,马拉喀什西郊,0.0,0.0,0.0
+意大利菜,FRITI SARL,FRITI SARL,0,其他,0.0,0.0,0.0
+意大利菜,Solano - Brasserie du Sud,Solano - Brasserie du Sud,0,Gueliz,0.0,0.0,0.0
+意大利菜,Riad Al Kadar,Riad Al Kadar,0,梅迪纳,0.0,0.0,0.0
+意大利菜,Mediterraneo Snack Pizza Cafe,Mediterraneo Snack Pizza Cafe,0,Gueliz,0.0,0.0,0.0
+意大利菜,Pastaz by Catanzaro,Pastaz by Catanzaro,0,马拉喀什东郊,0.0,0.0,0.0
+意大利菜,l'italien,l'italien,0,马拉喀什东郊,0.0,0.0,0.0
+意大利菜,Pizzeria Niagara,Pizzeria Niagara,0,马拉喀什西郊,0.0,0.0,0.0
+意大利菜,Pomiroeu,Pomiroeu,0,其他,0.0,0.0,0.0
+意大利菜,Pizza Hut,Pizza Hut,0,Gueliz,0.0,0.0,0.0
+意大利菜,le coin cool,le coin cool,0,Gueliz,0.0,0.0,0.0
+意大利菜,Aqua Pazza,Aqua Pazza,0,其他,0.0,0.0,0.0
+意大利菜,Pasta Di Luigi,Pasta Di Luigi,0,其他,0.0,0.0,0.0
+意大利菜,Aqua Cafe Jamae Lefna,Aqua Cafe Jamae Lefna,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Luigi,Ristorante Luigi,0,Gueliz,0.0,0.0,0.0
+意大利菜,Pasta Cosy,Pasta Cosy,0,其他,0.0,0.0,0.0
+意大利菜,Bleu d'Orange,Bleu d'Orange,0,Gueliz,0.0,0.0,0.0
+意大利菜,Restaurant la Piccola,Restaurant la Piccola,0,Gueliz,0.0,0.0,0.0
+意大利菜,Pizza Pazza,Pizza Pazza,0,马拉喀什东郊,0.0,0.0,0.0
+意大利菜,La Tosca Marrakech,La Tosca Marrakech,0,马拉喀什北郊,0.0,0.0,0.0
+意大利菜,Casa Nostra,Casa Nostra,0,其他,0.0,0.0,0.0
+法国菜,Le Chat Qui Rit,Le Chat Qui Rit,0,Gueliz,0.0,0.0,0.0
+法国菜,Bagatelle,Bagatelle,0,梅迪纳,0.0,0.0,0.0
+法国菜,Restaurant Gastronomique,Restaurant Gastronomique,0,Gueliz,0.0,0.0,0.0
+法国菜,L'Orangerie,L'Orangerie,0,Gueliz,0.0,0.0,0.0
+法国菜,Les Borjs de la Kasbah restaurant,Les Borjs de la Kasbah restaurant,0,梅迪纳,0.0,0.0,0.0
+法国菜,Villa Flore,Villa Flore,0,梅迪纳,0.0,0.0,0.0
+法国菜,Restaurant of La Maison Arabe,Restaurant of La Maison Arabe,0,梅迪纳,0.0,0.0,0.0
+法国菜,Le Comptoir du Pacha,Le Comptoir du Pacha,0,梅迪纳,0.0,0.0,0.0
+法国菜,Restaurant Le Studio,Restaurant Le Studio,0,Gueliz,0.0,0.0,0.0
+法国菜,Le Grand Cafe de la Poste,Le Grand Cafe de la Poste,0,Gueliz,0.0,0.0,0.0
+法国菜,Le Bon Marche,Le Bon Marche,0,Gueliz,0.0,0.0,0.0
+法国菜,Restaurant Loft,Restaurant Loft,0,Gueliz,0.0,0.0,0.0
+法国菜,Cheese Me,Cheese Me,0,Gueliz,0.0,0.0,0.0
+法国菜,Chez Mado,Chez Mado,0,Gueliz,0.0,0.0,0.0
+法国菜,L'Avenue,L'Avenue,0,Gueliz,0.0,0.0,0.0
+法国菜,Karobase,Karobase,0,Gueliz,0.0,0.0,0.0
+法国菜,Chez Pepone,Chez Pepone,0,Gueliz,0.0,0.0,0.0
+法国菜,Montecristo,Montecristo,0,Gueliz,0.0,0.0,0.0
+法国菜,Le Canaille Marrakech,Le Canaille Marrakech,0,Gueliz,0.0,0.0,0.0
+法国菜,Jo's,Jo's,0,Gueliz,0.0,0.0,0.0
+法国菜,The Capaldi Restaurant,The Capaldi Restaurant,0,马拉喀什东郊,0.0,0.0,0.0
+法国菜,L'Atelier Cuisine,L'Atelier Cuisine,0,马拉喀什东郊,0.0,0.0,0.0
+法国菜,Le Blokk,Le Blokk,0,马拉喀什北郊,0.0,0.0,0.0
+法国菜,Le Flouka,Le Flouka,0,其他,0.0,0.0,0.0
+法国菜,Fouquet's Marrakech,Fouquet's Marrakech,0,其他,0.0,0.0,0.0
+法国菜,Le Zinc,Le Zinc,0,其他,0.0,0.0,0.0
+法国菜,Le Relais de Paris,Le Relais de Paris,0,梅迪纳,0.0,0.0,0.0
+法国菜,La Grande Table Francaise,La Grande Table Francaise,0,梅迪纳,0.0,0.0,0.0
+法国菜,Epicurien,Epicurien,0,Gueliz,0.0,0.0,0.0
+法国菜,Le Jacaranda,Le Jacaranda,0,Gueliz,0.0,0.0,0.0
+法国菜,D.sens,D.sens,0,Gueliz,0.0,0.0,0.0
+法国菜,Patisserie Mirgon,Patisserie Mirgon,0,马拉喀什西郊,0.0,0.0,0.0
+法国菜,Le Namaskar Restaurant,Le Namaskar Restaurant,0,其他,0.0,0.0,0.0
+法国菜,Cafe de France,Cafe de France,0,梅迪纳,0.0,0.0,0.0
+法国菜,Fastcrock,Fastcrock,0,梅迪纳,0.0,0.0,0.0
+法国菜,Le Chineur,Le Chineur,0,Gueliz,0.0,0.0,0.0
+法国菜,Tarte au Carré,Tarte au Carré,0,Gueliz,0.0,0.0,0.0
+法国菜,"Brasserie La Renaissance, Marrakech, Morocco","Brasserie La Renaissance, Marrakech, Morocco",0,Gueliz,0.0,0.0,0.0
+法国菜,Ksar Char-Bagh,Ksar Char-Bagh,0,Gueliz,0.0,0.0,0.0
+法国菜,Patisserie Paul,Patisserie Paul,0,Gueliz,0.0,0.0,0.0
+法国菜,Jack is back,Jack is back,0,马拉喀什东郊,0.0,0.0,0.0
+法国菜,Le Bistrot des Artistes,Le Bistrot des Artistes,0,马拉喀什东郊,0.0,0.0,0.0
+法国菜,Zinc,Zinc,0,其他,0.0,0.0,0.0
+法国菜,Juliette & chocolat marrakech,Juliette & chocolat marrakech,0,其他,0.0,0.0,0.0
+法国菜,La Finca Marrakech,La Finca Marrakech,0,其他,0.0,0.0,0.0
+法国菜,Milagros Restaurant,Milagros Restaurant,0,马拉喀什北郊,0.0,0.0,0.0
+法国菜,La Boheme,La Boheme,0,梅迪纳,0.0,0.0,0.0
+法国菜,Chez Titine,Chez Titine,0,梅迪纳,0.0,0.0,0.0
+法国菜,Mama Ti Lee,Mama Ti Lee,0,梅迪纳,0.0,0.0,0.0
+法国菜,le Pavillon,le Pavillon,0,梅迪纳,0.0,0.0,0.0
+墨西哥菜,La Cantina,La Cantina,0,Gueliz,0.0,0.0,0.0
+其他西餐,Gastro MK at Maison MK,Gastro MK at Maison MK,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Azyr Cafe Restaurant Glacier,Azyr Cafe Restaurant Glacier,0,Gueliz,0.0,0.0,0.0
+其他西餐,La Terrasse Ben Youssef,La Terrasse Ben Youssef,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Bakchich Cafe,Bakchich Cafe,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Baganziz Cafe,Baganziz Cafe,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Cafe Des Epices,Cafe Des Epices,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Cafe Clock,Cafe Clock,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Le Restaurant Selman,Le Restaurant Selman,0,Gueliz,0.0,0.0,0.0
+其他西餐,La Table Al Badia at Riad Al Badia,La Table Al Badia at Riad Al Badia,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Al Fassia Aguedal,Al Fassia Aguedal,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Casa Saada,Casa Saada,0,梅迪纳,0.0,0.0,0.0
+其他西餐,La Porte de Marrakech,La Porte de Marrakech,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Kasbah Cafe,Kasbah Cafe,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Cafe Terrasse Palais El Badia,Cafe Terrasse Palais El Badia,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Restaurant Al Bahja,Restaurant Al Bahja,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Restaurant Oscar Progres,Restaurant Oscar Progres,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Un Dejeuner a Marrakech,Un Dejeuner a Marrakech,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Restaurant Riad Monceau,Restaurant Riad Monceau,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Dar Najat's Kitchen,Dar Najat's Kitchen,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Restaurant du Red House,Restaurant du Red House,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Henna cafe,Henna cafe,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Le Salama,Le Salama,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Le TOBSIL,Le TOBSIL,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Mechoui Alley,Mechoui Alley,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Restaurant Andalous,Restaurant Andalous,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Cafe Snack Rahba Kedima,Cafe Snack Rahba Kedima,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Chez Yassine,Chez Yassine,0,梅迪纳,0.0,0.0,0.0
+其他西餐,La Table Du Riad at Riad 72,La Table Du Riad at Riad 72,0,梅迪纳,0.0,0.0,0.0
+其他西餐,La Terrasse des Epices,La Terrasse des Epices,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Souk Kafe,Souk Kafe,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Terrasse La Medersa,Terrasse La Medersa,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Resturant Riad Douzi,Resturant Riad Douzi,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Dar Zellij,Dar Zellij,0,梅迪纳,0.0,0.0,0.0
+其他西餐,La Cour des Lions,La Cour des Lions,0,Gueliz,0.0,0.0,0.0
+其他西餐,Comptoir Darna Marrakech,Comptoir Darna Marrakech,0,Gueliz,0.0,0.0,0.0
+其他西餐,Ksar El Hamra,Ksar El Hamra,0,Gueliz,0.0,0.0,0.0
+其他西餐,Palais Soleiman,Palais Soleiman,0,Gueliz,0.0,0.0,0.0
+其他西餐,Azar,Azar,0,Gueliz,0.0,0.0,0.0
+其他西餐,Hemingway Room,Hemingway Room,0,Gueliz,0.0,0.0,0.0
+其他西餐,Eveil Des Sens,Eveil Des Sens,0,Gueliz,0.0,0.0,0.0
+其他西餐,Winoo,Winoo,0,Gueliz,0.0,0.0,0.0
+其他西餐,Al Bahriya,Al Bahriya,0,Gueliz,0.0,0.0,0.0
+其他西餐,Tierra y Mar,Tierra y Mar,0,Gueliz,0.0,0.0,0.0
+其他西餐,Churrascaria Marius Marrakech,Churrascaria Marius Marrakech,0,Gueliz,0.0,0.0,0.0
+其他西餐,Cafe du Livre,Cafe du Livre,0,Gueliz,0.0,0.0,0.0
+其他西餐,Al Fassia,Al Fassia,0,Gueliz,0.0,0.0,0.0
+其他西餐,Chez Joel,Chez Joel,0,Gueliz,0.0,0.0,0.0
+其他西餐,Le Charly's Cabana,Le Charly's Cabana,0,Gueliz,0.0,0.0,0.0
+其他西餐,Libzar,Libzar,0,Gueliz,0.0,0.0,0.0
+其他西餐,Chez Mado,Chez Mado,0,Gueliz,0.0,0.0,0.0
+其他西餐,L'ANNEXE,L'ANNEXE,0,Gueliz,0.0,0.0,0.0
+其他西餐,Kaowa,Kaowa,0,Gueliz,0.0,0.0,0.0
+其他西餐,Pause Gourmande,Pause Gourmande,0,Gueliz,0.0,0.0,0.0
+其他西餐,Fogo de Chao,Fogo de Chao,0,Gueliz,0.0,0.0,0.0
+其他西餐,Dar Cherifa,Dar Cherifa,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,Ksar Es Saoussan,Ksar Es Saoussan,0,马拉喀什北郊,0.0,0.0,0.0
+其他西餐,Les Jardins d'Ines Restaurant,Les Jardins d'Ines Restaurant,0,马拉喀什北郊,0.0,0.0,0.0
+其他西餐,Restaurant Naima,Restaurant Naima,0,其他,0.0,0.0,0.0
+其他西餐,Djellabar,Djellabar,0,马拉喀什西郊,0.0,0.0,0.0
+其他西餐,Lotus Privilège Moroccan Restaurant,Lotus Privilège Moroccan Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Taj'in Darna,Taj'in Darna,0,其他,0.0,0.0,0.0
+其他西餐,Chez Ouazzani,Chez Ouazzani,0,其他,0.0,0.0,0.0
+其他西餐,Toro Loco,Toro Loco,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Kessabine,Cafe Kessabine,0,其他,0.0,0.0,0.0
+其他西餐,La perle du sud,La perle du sud,0,其他,0.0,0.0,0.0
+其他西餐,Café Restaurant Bladna,Café Restaurant Bladna,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Restaurant Palais Arabe,Restaurant Palais Arabe,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Les Terrasses de Marrakech,Les Terrasses de Marrakech,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Nid'cigogne,Nid'cigogne,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Le Tanjia,Le Tanjia,0,梅迪纳,0.0,0.0,0.0
+其他西餐,A la table d'Imane,A la table d'Imane,0,梅迪纳,0.0,0.0,0.0
+其他西餐,haj brik,haj brik,0,梅迪纳,0.0,0.0,0.0
+其他西餐,De Foucauld,De Foucauld,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Restaurant Berbere,Restaurant Berbere,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Le Marrakchi,Le Marrakchi,0,梅迪纳,0.0,0.0,0.0
+其他西餐,"Dar El Walidin, Chez Jamjami Monssif","Dar El Walidin, Chez Jamjami Monssif",0,梅迪纳,0.0,0.0,0.0
+其他西餐,La Porte Du Monde,La Porte Du Monde,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Chez Maazouz,Chez Maazouz,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Crystal Restaurant,Crystal Restaurant,0,Gueliz,0.0,0.0,0.0
+其他西餐,Casa Lalla,Casa Lalla,0,Gueliz,0.0,0.0,0.0
+其他西餐,Riad des Mers,Riad des Mers,0,Gueliz,0.0,0.0,0.0
+其他西餐,La Taverne,La Taverne,0,Gueliz,0.0,0.0,0.0
+其他西餐,Pointbar,Pointbar,0,Gueliz,0.0,0.0,0.0
+其他西餐,Jazz'o,Jazz'o,0,Gueliz,0.0,0.0,0.0
+其他西餐,Plats Haj Boujemaa,Plats Haj Boujemaa,0,Gueliz,0.0,0.0,0.0
+其他西餐,Arabesque Coffee,Arabesque Coffee,0,Gueliz,0.0,0.0,0.0
+其他西餐,O'Square,O'Square,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,Le Bougainvillier,Le Bougainvillier,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,Chez Larbi,Chez Larbi,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,Le relais du Lac Marrakech,Le relais du Lac Marrakech,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,Kfe BD,Kfe BD,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,Fuego Latino,Fuego Latino,0,马拉喀什北郊,0.0,0.0,0.0
+其他西餐,"Cafe Atlas, Marrakech","Cafe Atlas, Marrakech",0,马拉喀什西郊,0.0,0.0,0.0
+其他西餐,Chez Chegrouni,Chez Chegrouni,0,其他,0.0,0.0,0.0
+其他西餐,Autour de la Piscine,Autour de la Piscine,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Place des Ferblantiers,Restaurant Place des Ferblantiers,0,其他,0.0,0.0,0.0
+其他西餐,La Roseraie,La Roseraie,0,其他,0.0,0.0,0.0
+其他西餐,La Porte du Marrakesh,La Porte du Marrakesh,0,其他,0.0,0.0,0.0
+其他西餐,La table de Marrakech,La table de Marrakech,0,其他,0.0,0.0,0.0
+其他西餐,La Kasbah de l'Ourika,La Kasbah de l'Ourika,0,其他,0.0,0.0,0.0
+其他西餐,Snack la place,Snack la place,0,其他,0.0,0.0,0.0
+其他西餐,Grillade Al Baite Chami,Grillade Al Baite Chami,0,其他,0.0,0.0,0.0
+其他西餐,La Perle Blanche de L'ocean Marrakech,La Perle Blanche de L'ocean Marrakech,0,其他,0.0,0.0,0.0
+其他西餐,Pacha Marrakech,Pacha Marrakech,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Les Premices,Les Premices,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Ristorante Riad Monceau,Ristorante Riad Monceau,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Stork,Stork,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Al Ahbab Fast Food,Al Ahbab Fast Food,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Cafe Palais El-Badi,Cafe Palais El-Badi,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Chez Karim,Chez Karim,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Les Cigognes Belarj,Les Cigognes Belarj,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Cafe Bibliotheque,Cafe Bibliotheque,0,梅迪纳,0.0,0.0,0.0
+其他西餐,La Tangeroise,La Tangeroise,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Table d'hotes Riad Sara,Table d'hotes Riad Sara,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Riad & Spa Mabrouk,Riad & Spa Mabrouk,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Sesame Garden,Sesame Garden,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Restaurant at Dar Fakir,Restaurant at Dar Fakir,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Le Grand Balcon Cafe Glacier,Le Grand Balcon Cafe Glacier,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Mirage d Atlas,Mirage d Atlas,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Restaurant Max by Riad Elisa,Restaurant Max by Riad Elisa,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Snack Mac Hicham,Snack Mac Hicham,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Borj Al Koutoubia,Borj Al Koutoubia,0,Gueliz,0.0,0.0,0.0
+其他西餐,Lagon & Jardin,Lagon & Jardin,0,Gueliz,0.0,0.0,0.0
+其他西餐,Moroccan Dinner Show,Moroccan Dinner Show,0,Gueliz,0.0,0.0,0.0
+其他西餐,La Grillardière,La Grillardière,0,Gueliz,0.0,0.0,0.0
+其他西餐,Lunch d'Or,Lunch d'Or,0,Gueliz,0.0,0.0,0.0
+其他西餐,Cafe Solaris,Cafe Solaris,0,Gueliz,0.0,0.0,0.0
+其他西餐,Le Sabal,Le Sabal,0,Gueliz,0.0,0.0,0.0
+其他西餐,Le Carioca,Le Carioca,0,Gueliz,0.0,0.0,0.0
+其他西餐,Les Jardins Darabes,Les Jardins Darabes,0,Gueliz,0.0,0.0,0.0
+其他西餐,Patisserie Jaouda,Patisserie Jaouda,0,Gueliz,0.0,0.0,0.0
+其他西餐,Caruso,Caruso,0,Gueliz,0.0,0.0,0.0
+其他西餐,Le Printemps,Le Printemps,0,Gueliz,0.0,0.0,0.0
+其他西餐,Restaurants Populaires,Restaurants Populaires,0,Gueliz,0.0,0.0,0.0
+其他西餐,Restaurant Gargot,Restaurant Gargot,0,Gueliz,0.0,0.0,0.0
+其他西餐,snack REDA,snack REDA,0,Gueliz,0.0,0.0,0.0
+其他西餐,Restaurant Imilale,Restaurant Imilale,0,Gueliz,0.0,0.0,0.0
+其他西餐,Casa Garcia Y Hijos,Casa Garcia Y Hijos,0,Gueliz,0.0,0.0,0.0
+其他西餐,Cafe Resto Talaa,Cafe Resto Talaa,0,Gueliz,0.0,0.0,0.0
+其他西餐,Le Fitness Club,Le Fitness Club,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,Le Pavillon Restaurant - Hotel Selman Marrakech,Le Pavillon Restaurant - Hotel Selman Marrakech,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,Lorsya Restaurant,Lorsya Restaurant,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,Donna Santa,Donna Santa,0,马拉喀什北郊,0.0,0.0,0.0
+其他西餐,Myah Bay,Myah Bay,0,马拉喀什西郊,0.0,0.0,0.0
+其他西餐,La Piscine,La Piscine,0,马拉喀什西郊,0.0,0.0,0.0
+其他西餐,Nouss Nouss,Nouss Nouss,0,马拉喀什西郊,0.0,0.0,0.0
+其他西餐,Le tanjiers,Le tanjiers,0,马拉喀什西郊,0.0,0.0,0.0
+其他西餐,Riad Omar,Riad Omar,0,马拉喀什西郊,0.0,0.0,0.0
+其他西餐,Red Garden,Red Garden,0,马拉喀什西郊,0.0,0.0,0.0
+其他西餐,Hivernage Hotel & Spa,Hivernage Hotel & Spa,0,其他,0.0,0.0,0.0
+其他西餐,Riad Tzarra Restaurant,Riad Tzarra Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Yeldizlar Restaurant,Yeldizlar Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Snack Dar el Bacha,Snack Dar el Bacha,0,其他,0.0,0.0,0.0
+其他西餐,restaurant agnaoue,restaurant agnaoue,0,其他,0.0,0.0,0.0
+其他西餐,Dar Ikalimo,Dar Ikalimo,0,其他,0.0,0.0,0.0
+其他西餐,7 SAINTS,7 SAINTS,0,其他,0.0,0.0,0.0
+其他西餐,Royal Golf Club,Royal Golf Club,0,其他,0.0,0.0,0.0
+其他西餐,Mkmaison Marrakech,Mkmaison Marrakech,0,其他,0.0,0.0,0.0
+其他西餐,Le Votre,Le Votre,0,其他,0.0,0.0,0.0
+其他西餐,Dar Naima Restaurant,Dar Naima Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Le Bled,Le Bled,0,其他,0.0,0.0,0.0
+其他西餐,Riad Shama Restaurant,Riad Shama Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Omars,Omars,0,其他,0.0,0.0,0.0
+其他西餐,Pik-Nik Snack,Pik-Nik Snack,0,其他,0.0,0.0,0.0
+其他西餐,Le Jana,Le Jana,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Dar Ambre,Dar Ambre,0,Gueliz,0.0,0.0,0.0
+其他西餐,Amalay,Amalay,0,Gueliz,0.0,0.0,0.0
+其他西餐,Patisserie Teramisu,Patisserie Teramisu,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,DAR MOKI,DAR MOKI,0,马拉喀什西郊,0.0,0.0,0.0
+其他西餐,So Good,So Good,0,其他,0.0,0.0,0.0
+其他西餐,Samsara,Samsara,0,其他,0.0,0.0,0.0
+其他西餐,La Maison du Couscous,La Maison du Couscous,0,其他,0.0,0.0,0.0
+其他西餐,Romano's,Romano's,0,其他,0.0,0.0,0.0
+其他西餐,Chez Abdou,Chez Abdou,0,其他,0.0,0.0,0.0
+其他西餐,"Stall #20, Chez Ben Driss","Stall #20, Chez Ben Driss",0,梅迪纳,0.0,0.0,0.0
+其他西餐,Hotel Essaouira,Hotel Essaouira,0,梅迪纳,0.0,0.0,0.0
+其他西餐,Yellow Sub,Yellow Sub,0,Gueliz,0.0,0.0,0.0
+其他西餐,La Villa Hivernage,La Villa Hivernage,0,Gueliz,0.0,0.0,0.0
+其他西餐,Da-Miranda,Da-Miranda,0,Gueliz,0.0,0.0,0.0
+其他西餐,Restaurant la Piccola,Restaurant la Piccola,0,Gueliz,0.0,0.0,0.0
+其他西餐,Restaurant Cherif,Restaurant Cherif,0,Gueliz,0.0,0.0,0.0
+其他西餐,Amal Center,Amal Center,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,La Maison de Marrakech,La Maison de Marrakech,0,马拉喀什东郊,0.0,0.0,0.0
+其他西餐,Le Stylia,Le Stylia,0,马拉喀什西郊,0.0,0.0,0.0
+其他西餐,Metro 80,Metro 80,0,马拉喀什西郊,0.0,0.0,0.0
+其他西餐,Pinchos,Pinchos,0,其他,0.0,0.0,0.0
+其他西餐,Yamy,Yamy,0,其他,0.0,0.0,0.0
+中餐,Cafe Des Epices,Cafe Des Epices,0,梅迪纳,0.0,0.0,0.0
+日韩料理,Thaisu,Thaisu,0,Gueliz,0.0,0.0,0.0
+日韩料理,Ocha Sushi,Ocha Sushi,0,Gueliz,0.0,0.0,0.0
+日韩料理,Korean Barbecue,Korean Barbecue,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bistro Thai,Bistro Thai,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,Amaia Restaurant,Amaia Restaurant,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,So Lounge Marrakech,So Lounge Marrakech,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,LA CASA Restaurant Lounge,LA CASA Restaurant Lounge,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,Thaisu,Thaisu,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,Kosy Bar,Kosy Bar,0,梅迪纳,0.0,0.0,0.0
+更多亚洲菜,Les Jardins de Bala,Les Jardins de Bala,0,梅迪纳,0.0,0.0,0.0
+更多亚洲菜,Katsura,Katsura,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,Le Bol de Saigon,Le Bol de Saigon,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,Muraille d'asie,Muraille d'asie,0,梅迪纳,0.0,0.0,0.0
+更多亚洲菜,Narwama,Narwama,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,Dar Fez,Dar Fez,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,#14,#14,0,其他,0.0,0.0,0.0
+更多亚洲菜,Chez Grouni,Chez Grouni,0,梅迪纳,0.0,0.0,0.0
+更多亚洲菜,Riad Dar Tim Tam,Riad Dar Tim Tam,0,梅迪纳,0.0,0.0,0.0
+更多亚洲菜,Delhi Palace,Delhi Palace,0,梅迪纳,0.0,0.0,0.0
+更多亚洲菜,C house marrakech,C house marrakech,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,Le Dragon d'Or,Le Dragon d'Or,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,Wok Bangkok,Wok Bangkok,0,马拉喀什西郊,0.0,0.0,0.0
+更多亚洲菜,Grill & Co,Grill & Co,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sushi Delight,Sushi Delight,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,Highway,Highway,0,马拉喀什东郊,0.0,0.0,0.0
+更多亚洲菜,Bombay Marrakech,Bombay Marrakech,0,Gueliz,0.0,0.0,0.0
+更多亚洲菜,The Red Sun,The Red Sun,0,其他,0.0,0.0,0.0
+快餐简餐,Cafe O2,Cafe O2,0,其他,0.0,0.0,0.0
+快餐简餐,La Brioche Cafe Kech,La Brioche Cafe Kech,0,梅迪纳,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,Gueliz,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,其他,0.0,0.0,0.0
+海鲜,Puerto Banus,Puerto Banus,0,Gueliz,0.0,0.0,0.0
+烧烤,Cafe Modele Bar,Cafe Modele Bar,0,Gueliz,0.0,0.0,0.0
+烧烤,Dar Tifrouine,Dar Tifrouine,0,其他,0.0,0.0,0.0
+烧烤,Saida No 26,Saida No 26,0,梅迪纳,0.0,0.0,0.0
+比萨,"Bari's Pizza, Marrakech","Bari's Pizza, Marrakech",0,梅迪纳,0.0,0.0,0.0
+比萨,Fritos,Fritos,0,梅迪纳,0.0,0.0,0.0
+咖啡厅,Tea room Riad Yima,Tea room Riad Yima,0,梅迪纳,0.0,0.0,0.0
+咖啡厅,Lost in Marrakech,Lost in Marrakech,0,梅迪纳,0.0,0.0,0.0
+咖啡厅,Deli-Cieux -House Coffee ShopHouse,Deli-Cieux -House Coffee ShopHouse,0,Gueliz,0.0,0.0,0.0
+咖啡厅,Marrakech Ground Zero,Marrakech Ground Zero,0,梅迪纳,0.0,0.0,0.0
+咖啡厅,Brixi Cafe Resto,Brixi Cafe Resto,0,,7.0,7.0,7.0
+面包甜点,Patisserie des Princes,Patisserie des Princes,0,梅迪纳,0.0,0.0,0.0
+面包甜点,Dino Gelato Italiano,Dino Gelato Italiano,0,Gueliz,0.0,0.0,0.0
+面包甜点,Patisserie Amandine Marrakech,Patisserie Amandine Marrakech,0,Gueliz,0.0,0.0,0.0
+面包甜点,Crep' N Go,Crep' N Go,0,Gueliz,0.0,0.0,0.0
+面包甜点,Bianco Ice,Bianco Ice,0,梅迪纳,0.0,0.0,0.0
+面包甜点,DELICES DADA,DELICES DADA,0,Gueliz,0.0,0.0,0.0
+面包甜点,Patisserie Anjar,Patisserie Anjar,0,其他,0.0,0.0,0.0
+面包甜点,gelato,gelato,0,,0.0,0.0,0.0
+酒吧,Kechmara,Kechmara,0,梅迪纳,0.0,0.0,0.0
+酒吧,Royal Mansour Bar,Royal Mansour Bar,0,梅迪纳,0.0,0.0,0.0
+酒吧,Le Bar Churchill,Le Bar Churchill,0,Gueliz,0.0,0.0,0.0
+酒吧,Comptoir Darna Cocktail Bar,Comptoir Darna Cocktail Bar,0,梅迪纳,0.0,0.0,0.0
+酒吧,TheatrO,TheatrO,0,Gueliz,0.0,0.0,0.0
+酒吧,"Bistro la saveurMarrakech,","Bistro la saveurMarrakech,",0,Gueliz,0.0,0.0,0.0
+酒吧,O'Mulligans Pub,O'Mulligans Pub,0,马拉喀什西郊,0.0,0.0,0.0
+酒吧,Nikki Beach,Nikki Beach,0,马拉喀什北郊,0.0,0.0,0.0
+更多美食,Restaurant Mabrouka,Restaurant Mabrouka,0,马拉喀什西郊,7.4,7.4,7.4
+更多美食,Stalls in the Square,Stalls in the Square,0,梅迪纳,0.0,0.0,0.0
+更多美食,Jemaa el Fna,Jemaa el Fna,0,梅迪纳,0.0,0.0,0.0
+更多美食,La Sultana,La Sultana,0,梅迪纳,0.0,0.0,0.0
+更多美食,Namazake,Namazake,0,Gueliz,0.0,0.0,0.0
+更多美食,Riad El Mansour Restaurant,Riad El Mansour Restaurant,0,梅迪纳,0.0,0.0,0.0
+更多美食,International Restaurant at Amanjena,International Restaurant at Amanjena,0,马拉喀什东郊,0.0,0.0,0.0
+更多美食,Al Rimal,Al Rimal,0,其他,0.0,0.0,0.0
+更多美食,La Mamounia,La Mamounia,0,梅迪纳,0.0,0.0,0.0
+更多美食,Dar Essalam,Dar Essalam,0,梅迪纳,0.0,0.0,0.0
+更多美食,Chez Brahim,Chez Brahim,0,梅迪纳,0.0,0.0,0.0
+更多美食,Dar Mimoun,Dar Mimoun,0,梅迪纳,0.0,0.0,0.0
+更多美食,Earth Cafe Marrakech,Earth Cafe Marrakech,0,梅迪纳,0.0,0.0,0.0
+更多美食,JAMA,JAMA,0,梅迪纳,0.0,0.0,0.0
+更多美食,Toubkal,Toubkal,0,梅迪纳,0.0,0.0,0.0
+更多美食,Al Baraka,Al Baraka,0,梅迪纳,0.0,0.0,0.0
+更多美食,Bazaar Cafe,Bazaar Cafe,0,梅迪纳,0.0,0.0,0.0
+更多美食,Dar Mima,Dar Mima,0,梅迪纳,0.0,0.0,0.0
+更多美食,Dar Donab Le Restaurant,Dar Donab Le Restaurant,0,梅迪纳,0.0,0.0,0.0
+更多美食,Le Foundouk,Le Foundouk,0,梅迪纳,0.0,0.0,0.0
+更多美食,Dar Marjana,Dar Marjana,0,梅迪纳,0.0,0.0,0.0
+更多美食,Palais Gharnata,Palais Gharnata,0,梅迪纳,0.0,0.0,0.0
+更多美食,Kafe Fnacque Berbere,Kafe Fnacque Berbere,0,梅迪纳,0.0,0.0,0.0
+更多美食,Riad Kniza Restaurant,Riad Kniza Restaurant,0,梅迪纳,0.0,0.0,0.0
+更多美食,Dar Yacout,Dar Yacout,0,梅迪纳,0.0,0.0,0.0
+更多美食,Extrablatt,Extrablatt,0,Gueliz,0.0,0.0,0.0
+更多美食,Cafe Mama Afrika,Cafe Mama Afrika,0,Gueliz,0.0,0.0,0.0
+更多美食,Restaurant Dar Rhizlane,Restaurant Dar Rhizlane,0,Gueliz,0.0,0.0,0.0
+更多美食,Level Five,Level Five,0,Gueliz,0.0,0.0,0.0
+更多美食,Cafe 16,Cafe 16,0,Gueliz,0.0,0.0,0.0
+更多美食,Restaurant Fantasia Borj Bladi,Restaurant Fantasia Borj Bladi,0,Gueliz,0.0,0.0,0.0
+更多美食,Le 6,Le 6,0,Gueliz,0.0,0.0,0.0
+更多美食,Stylia,Stylia,0,Gueliz,0.0,0.0,0.0
+更多美食,La Cuisine de Mona,La Cuisine de Mona,0,Gueliz,0.0,0.0,0.0
+更多美食,Chez Lamine Hadj Mustapha,Chez Lamine Hadj Mustapha,0,马拉喀什东郊,0.0,0.0,0.0
+更多美食,Lotus Club,Lotus Club,0,马拉喀什东郊,0.0,0.0,0.0
+更多美食,Les jardins du Gueliz,Les jardins du Gueliz,0,马拉喀什东郊,0.0,0.0,0.0
+更多美食,Bo & Zin,Bo & Zin,0,马拉喀什南郊,0.0,0.0,0.0
+更多美食,Jnane Tamsna,Jnane Tamsna,0,马拉喀什北郊,0.0,0.0,0.0
+更多美食,Dar Moha,Dar Moha,0,其他,0.0,0.0,0.0
+更多美食,Brasserie de Flore,Brasserie de Flore,0,马拉喀什西郊,0.0,0.0,0.0
+更多美食,El Fenn Restaurant,El Fenn Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Dar Belkabir,Dar Belkabir,0,其他,0.0,0.0,0.0
+更多美食,Cafe restaurant Tiznit,Cafe restaurant Tiznit,0,其他,0.0,0.0,0.0
+更多美食,La Table du Marché Marrakech,La Table du Marché Marrakech,0,其他,0.0,0.0,0.0
+更多美食,L'Entrepotes restaurant terrasse,L'Entrepotes restaurant terrasse,0,其他,0.0,0.0,0.0
+更多美食,Café restaurant chez ZaZa,Café restaurant chez ZaZa,0,其他,0.0,0.0,0.0
+更多美食,BED MARRAKECH,BED MARRAKECH,0,梅迪纳,0.0,0.0,0.0
+更多美食,Ryad Jana,Ryad Jana,0,梅迪纳,0.0,0.0,0.0
+更多美食,Dar Nejjarine,Dar Nejjarine,0,梅迪纳,0.0,0.0,0.0
+更多美食,Le Marocain,Le Marocain,0,梅迪纳,0.0,0.0,0.0
+更多美食,Restaurant Populaire Marrakech,Restaurant Populaire Marrakech,0,梅迪纳,0.0,0.0,0.0
+更多美食,Chez El Bahia,Chez El Bahia,0,梅迪纳,0.0,0.0,0.0
+更多美食,Dar El Baroud,Dar El Baroud,0,梅迪纳,0.0,0.0,0.0
+更多美食,Aqua,Aqua,0,梅迪纳,0.0,0.0,0.0
+更多美食,Aicha,Aicha,0,梅迪纳,0.0,0.0,0.0
+更多美食,Yami,Yami,0,梅迪纳,0.0,0.0,0.0
+更多美食,Chez Mariama Berbere,Chez Mariama Berbere,0,梅迪纳,0.0,0.0,0.0
+更多美食,Bert's,Bert's,0,梅迪纳,0.0,0.0,0.0
+更多美食,dar yakut,dar yakut,0,梅迪纳,0.0,0.0,0.0
+更多美食,El Saadi,El Saadi,0,Gueliz,0.0,0.0,0.0
+更多美食,Le Charlot,Le Charlot,0,Gueliz,0.0,0.0,0.0
+更多美食,African-chic,African-chic,0,Gueliz,0.0,0.0,0.0
+更多美食,Matisse,Matisse,0,Gueliz,0.0,0.0,0.0
+更多美食,Restaurant El Bahia,Restaurant El Bahia,0,Gueliz,0.0,0.0,0.0
+更多美食,Ait Bougumez,Ait Bougumez,0,Gueliz,0.0,0.0,0.0
+更多美食,Al Jawda,Al Jawda,0,Gueliz,0.0,0.0,0.0
+更多美食,Cafe Restaurant Chez l'Habitant,Cafe Restaurant Chez l'Habitant,0,马拉喀什东郊,0.0,0.0,0.0
+更多美食,Solano,Solano,0,马拉喀什北郊,0.0,0.0,0.0
+更多美食,Dar Ennassim Fabrice VULIN,Dar Ennassim Fabrice VULIN,0,马拉喀什北郊,0.0,0.0,0.0
+更多美食,Elite,Elite,0,马拉喀什西郊,0.0,0.0,0.0
+更多美食,Grey's Club,Grey's Club,0,其他,0.0,0.0,0.0
+更多美食,Manzil la Tortue,Manzil la Tortue,0,其他,0.0,0.0,0.0
+更多美食,La Lune d'Or Restaurant,La Lune d'Or Restaurant,0,其他,0.0,0.0,0.0
+更多美食,C House Coffee Shop,C House Coffee Shop,0,梅迪纳,0.0,0.0,0.0
+更多美食,Kasar el Hamra,Kasar el Hamra,0,梅迪纳,0.0,0.0,0.0
+更多美食,L ITALIEN,L ITALIEN,0,梅迪纳,0.0,0.0,0.0
+更多美食,Brioghe Cafe Kech,Brioghe Cafe Kech,0,梅迪纳,0.0,0.0,0.0
+更多美食,Islane Hotel Restaurant,Islane Hotel Restaurant,0,梅迪纳,0.0,0.0,0.0
+更多美食,The Patio at Dar Hanane,The Patio at Dar Hanane,0,梅迪纳,0.0,0.0,0.0
+更多美食,P'tit Habibi,P'tit Habibi,0,梅迪纳,0.0,0.0,0.0
+更多美食,La Brasserie C/O Hotel Atlas Asni,La Brasserie C/O Hotel Atlas Asni,0,Gueliz,0.0,0.0,0.0
+更多美食,Chez Ali,Chez Ali,0,Gueliz,0.0,0.0,0.0
+更多美食,Patisserie Elite,Patisserie Elite,0,Gueliz,0.0,0.0,0.0
+更多美食,Hotel la Renaissance,Hotel la Renaissance,0,Gueliz,0.0,0.0,0.0
+更多美食,Le Sud,Le Sud,0,Gueliz,0.0,0.0,0.0
+更多美食,Restaurant Beyrouth,Restaurant Beyrouth,0,Gueliz,0.0,0.0,0.0
+更多美食,Le Jade,Le Jade,0,Gueliz,0.0,0.0,0.0
+更多美食,Caravanserai,Caravanserai,0,Gueliz,0.0,0.0,0.0
+更多美食,Riad Bel Haj,Riad Bel Haj,0,Gueliz,0.0,0.0,0.0
+更多美食,Brasserie Atlas Asni,Brasserie Atlas Asni,0,马拉喀什东郊,0.0,0.0,0.0
+更多美食,La Plage Rouge Restaurant,La Plage Rouge Restaurant,0,马拉喀什南郊,0.0,0.0,0.0
+更多美食,Restaurant Christophe Leroy,Restaurant Christophe Leroy,0,马拉喀什北郊,0.0,0.0,0.0
+更多美食,Azzera Grill Four Seasons Resort a Marrakech,Azzera Grill Four Seasons Resort a Marrakech,0,马拉喀什北郊,0.0,0.0,0.0
+更多美食,Le jet set,Le jet set,0,马拉喀什北郊,0.0,0.0,0.0
+更多美食,Bougainvillea Cafe,Bougainvillea Cafe,0,马拉喀什西郊,0.0,0.0,0.0
+更多美食,L After Stone,L After Stone,0,马拉喀什西郊,0.0,0.0,0.0
+更多美食,Cafe Restaurant l'Etoile,Cafe Restaurant l'Etoile,0,马拉喀什西郊,0.0,0.0,0.0
+更多美食,Restaurant Riad Hamdane,Restaurant Riad Hamdane,0,马拉喀什西郊,0.0,0.0,0.0
+更多美食,Lodge K,Lodge K,0,其他,0.0,0.0,0.0
+更多美食,Oasis Cafe,Oasis Cafe,0,其他,0.0,0.0,0.0
+更多美食,Restauration Najma Atlas,Restauration Najma Atlas,0,其他,0.0,0.0,0.0
+更多美食,Aljazeera,Aljazeera,0,其他,0.0,0.0,0.0
+更多美食,GOSSIP Garden,GOSSIP Garden,0,其他,0.0,0.0,0.0
+更多美食,Il Limoni,Il Limoni,0,其他,0.0,0.0,0.0
+更多美食,Chez Mbarek,Chez Mbarek,0,其他,0.0,0.0,0.0
+更多美食,Le Badya By Beldi Restaurant du Beldi Country Club,Le Badya By Beldi Restaurant du Beldi Country Club,0,其他,0.0,0.0,0.0
+更多美食,Snack Les 7 Saints,Snack Les 7 Saints,0,其他,0.0,0.0,0.0
+更多美食,La Pause Restaurant,La Pause Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Extra Loung,Extra Loung,0,其他,0.0,0.0,0.0
+更多美食,Cafe 1913,Cafe 1913,0,其他,0.0,0.0,0.0
+更多美食,CAFE LA TULIPE,CAFE LA TULIPE,0,其他,0.0,0.0,0.0
+更多美食,Le Bled,Le Bled,0,其他,0.0,0.0,0.0
+更多美食,Snack Immim,Snack Immim,0,其他,0.0,0.0,0.0
+更多美食,ICON by VIP,ICON by VIP,0,其他,0.0,0.0,0.0
+更多美食,Palais Chahramane,Palais Chahramane,0,梅迪纳,0.0,0.0,0.0
+更多美食,"Restaurant du Grand Hotel Tazi, Marrakech","Restaurant du Grand Hotel Tazi, Marrakech",0,梅迪纳,0.0,0.0,0.0
+更多美食,El Waha,El Waha,0,梅迪纳,0.0,0.0,0.0
+更多美食,Les Terrasses de l'Alhambra,Les Terrasses de l'Alhambra,0,梅迪纳,0.0,0.0,0.0
+更多美食,The Flying Carpet,The Flying Carpet,0,梅迪纳,0.0,0.0,0.0
+更多美食,Le Bled de Gre,Le Bled de Gre,0,Gueliz,0.0,0.0,0.0
+更多美食,Bab Restaurant,Bab Restaurant,0,Gueliz,0.0,0.0,0.0
+更多美食,Le Narjis,Le Narjis,0,Gueliz,0.0,0.0,0.0
+更多美食,Mandaloun Restaurant Libanais,Mandaloun Restaurant Libanais,0,马拉喀什西郊,0.0,0.0,0.0
+更多美食,Mezza Luna,Mezza Luna,0,马拉喀什西郊,0.0,0.0,0.0
+更多美食,Niagara Pub,Niagara Pub,0,马拉喀什西郊,0.0,0.0,0.0
+更多美食,Palais de Palmier,Palais de Palmier,0,其他,0.0,0.0,0.0
+更多美食,Riad Aladdin,Riad Aladdin,0,其他,0.0,0.0,0.0
+更多美食,Le Souab,Le Souab,0,梅迪纳,0.0,0.0,0.0
+更多美食,VILLA TIVOLI,VILLA TIVOLI,0,梅迪纳,0.0,0.0,0.0
+更多美食,Banco n.18,Banco n.18,0,梅迪纳,0.0,0.0,0.0
+更多美食,Marra-Book Cafe,Marra-Book Cafe,0,梅迪纳,0.0,0.0,0.0
+更多美食,Le Saint Germain,Le Saint Germain,0,Gueliz,0.0,0.0,0.0
+更多美食,Le Melting Pot,Le Melting Pot,0,Gueliz,0.0,0.0,0.0
+更多美食,L'Ardoaz,L'Ardoaz,0,Gueliz,0.0,0.0,0.0
+更多美食,Studio Misr,Studio Misr,0,Gueliz,0.0,0.0,0.0
+更多美食,Palais Clementina Restaurant,Palais Clementina Restaurant,0,马拉喀什东郊,0.0,0.0,0.0
+更多美食,"Flower Power, café alternatif","Flower Power, café alternatif",0,马拉喀什东郊,0.0,0.0,0.0
+更多美食,Saafran & Cannelle,Saafran & Cannelle,0,马拉喀什西郊,0.0,0.0,0.0
+更多美食,la Gambas,la Gambas,0,马拉喀什西郊,0.0,0.0,0.0
+更多美食,Yeldizcar,Yeldizcar,0,其他,0.0,0.0,0.0

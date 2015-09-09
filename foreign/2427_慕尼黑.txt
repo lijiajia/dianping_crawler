@@ -1,0 +1,2031 @@
+德国菜,Gaststätte St. Bartholomä,Gaststätte St. Bartholomä,0,其他,7.3,7.8,7.3
+德国菜,Weissbräu Huber Freising,Weissbräu Huber Freising,0,市中心以北,7.4,7.4,6.7
+地中海菜,Restaurant Irodion Freising,Restaurant Irodion Freising,0,市中心以北,7.4,6.7,7.4
+意大利菜,Calabrone Ristorante / Riem Arcaden,Calabrone Ristorante / Riem Arcaden,0,伊萨尔河(Isar)东岸,8.2,7.9,7.9
+意大利菜,Restaurant La Valle,Restaurant La Valle,0,市中心与火车站,7.6,7.6,7.6
+意大利菜,Trattoria Da Paolo,Trattoria Da Paolo,0,其他,7.2,7.2,7.2
+意大利菜,Vapiano,Vapiano,0,市中心与火车站,7.5,6.7,7.1
+意大利菜,La Stanza,La Stanza,0,市中心与火车站,8.2,8.2,6.9
+意大利菜,Da Pippo,Da Pippo,0,市中心以北,7.0,7.0,7.0
+意大利菜,Vinpasa,Vinpasa,0,市中心以北,7.3,7.3,7.3
+意大利菜,Vinaiolo,Vinaiolo,0,其他,7.2,7.2,7.2
+意大利菜,Vapiano,Vapiano,0,市中心与火车站,7.1,6.8,7.1
+意大利菜,Mamma's Pastabar,Mamma's Pastabar,0,伊萨尔河(Isar)东岸,7.0,7.0,7.1
+意大利菜,Vino & Cafe,Vino & Cafe,0,市中心与火车站,6.9,6.9,6.9
+意大利菜,Alba Trattoria,Alba Trattoria,0,市中心以北,6.9,7.0,6.9
+意大利菜,Call a Pizza,Call a Pizza,0,市中心以北,6.9,6.9,6.9
+意大利菜,Il Gelato Italiano,Il Gelato Italiano,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Refettorio,Refettorio,0,,0.0,0.0,0.0
+意大利菜,Dinnerhopping,Dinnerhopping,0,市中心与火车站,7.1,7.3,7.3
+意大利菜,Acquarello,Acquarello,0,市中心以北,7.2,7.2,7.2
+意大利菜,Pipasa,Pipasa,0,市中心与火车站,7.2,7.2,7.2
+意大利菜,Galleria,Galleria,0,,7.2,7.2,7.2
+意大利菜,Al Pacino,Al Pacino,0,市中心以北,7.2,7.2,7.2
+意大利菜,L'Angolo della Pizza,L'Angolo della Pizza,0,其他,7.2,7.2,7.2
+意大利菜,Berni's Pizzeria,Berni's Pizzeria,0,市中心与火车站,7.2,7.2,7.2
+意大利菜,La Romantica,La Romantica,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+意大利菜,Bei Raffaele,Bei Raffaele,0,市中心以北,7.1,7.1,7.1
+意大利菜,Schmauserei,Schmauserei,0,市中心与火车站,6.9,6.9,6.9
+意大利菜,"Pietra Piccina, Munchen","Pietra Piccina, Munchen",0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Piacere Nuovo,Piacere Nuovo,0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.0
+意大利菜,La Trattoria,La Trattoria,0,,7.1,7.1,7.1
+意大利菜,Ristorante Pizzeria IL Galeone,Ristorante Pizzeria IL Galeone,0,市中心以北,7.1,7.1,7.1
+意大利菜,Feinkost Monti,Feinkost Monti,0,,7.2,7.2,7.2
+意大利菜,Ritzi,Ritzi,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+意大利菜,Il Refugio,Il Refugio,0,其他,7.1,7.1,7.1
+意大利菜,Lago Di Garda,Lago Di Garda,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Baal,Baal,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+意大利菜,La Fiorentina,La Fiorentina,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Osteria Intermezzo,Osteria Intermezzo,0,,7.1,7.0,7.0
+意大利菜,Menzingers,Menzingers,0,宁芬堡(Nymphenburg)周边,7.1,7.1,7.1
+意大利菜,Ristorante Meran,Ristorante Meran,0,,6.9,6.9,6.9
+意大利菜,Osteria Alpenhof,Osteria Alpenhof,0,其他,7.1,7.1,7.1
+意大利菜,Pepenero,Pepenero,0,市中心以北,7.2,7.2,7.2
+意大利菜,Cafe Millennium,Cafe Millennium,0,市中心与火车站,7.0,7.0,7.0
+意大利菜,Osteria Il Gambero,Osteria Il Gambero,0,,7.0,7.1,7.0
+意大利菜,La Mia cucina Italiana,La Mia cucina Italiana,0,市中心以北,7.0,7.0,7.0
+意大利菜,Pescatore,Pescatore,0,市中心与火车站,7.1,6.9,7.1
+意大利菜,Espresso Valleuno,Espresso Valleuno,0,市中心与火车站,7.0,7.0,7.0
+意大利菜,Cafe camera,Cafe camera,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Rustica or La Rustica,Rustica or La Rustica,0,,7.1,7.1,7.1
+意大利菜,Mangi,Mangi,0,市中心以北,7.3,7.1,7.1
+意大利菜,Mediterranee Restaurant,Mediterranee Restaurant,0,市中心以北,7.1,7.1,7.1
+意大利菜,Trattoria La Piazza,Trattoria La Piazza,0,市中心以北,7.1,7.1,7.1
+意大利菜,Katzlmacher,Katzlmacher,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Il Borgo,Il Borgo,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+意大利菜,Sessanta,Sessanta,0,其他,7.0,7.0,7.0
+意大利菜,gast,gast,0,其他,7.2,6.8,7.2
+意大利菜,Hostaria Rò e Bunì,Hostaria Rò e Bunì,0,市中心以北,7.1,7.1,7.1
+意大利菜,Osteria Veneta,Osteria Veneta,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Cantina Toscana,Cantina Toscana,0,,7.0,7.0,7.0
+意大利菜,Bianco Rosso e Nero,Bianco Rosso e Nero,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Bottarga,Bottarga,0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.0
+意大利菜,Hippocampus,Hippocampus,0,市中心以北,7.2,7.2,7.2
+意大利菜,Girasole,Girasole,0,其他,7.1,7.1,7.1
+意大利菜,Trattoria Tiberio,Trattoria Tiberio,0,伊萨尔河(Isar)东岸,7.1,7.0,7.0
+意大利菜,Osteria,Osteria,0,市中心与火车站,7.0,6.9,6.9
+意大利菜,Ristorante Isardoro,Ristorante Isardoro,0,市中心以北,7.1,7.1,7.1
+意大利菜,Piccola Trattoria,Piccola Trattoria,0,市中心与火车站,6.9,6.9,6.9
+意大利菜,La Vita,La Vita,0,市中心与火车站,6.8,6.8,6.8
+意大利菜,Bella Napoli,Bella Napoli,0,市中心与火车站,6.7,6.9,6.7
+意大利菜,Osteria da Salvatore,Osteria da Salvatore,0,,7.2,7.2,7.2
+意大利菜,San Martino,San Martino,0,其他,7.1,7.0,7.0
+意大利菜,Geisel's Vinothek,Geisel's Vinothek,0,市中心与火车站,7.2,7.2,7.2
+意大利菜,Di Luccio Antonio,Di Luccio Antonio,0,市中心与火车站,6.9,6.9,6.9
+意大利菜,Tavernetta,Tavernetta,0,市中心与火车站,7.0,7.0,7.0
+意大利菜,Osteria Il Golfo,Osteria Il Golfo,0,其他,7.2,7.2,7.2
+意大利菜,El Toula,El Toula,0,市中心与火车站,6.9,6.9,6.9
+意大利菜,Bella Venezia,Bella Venezia,0,,7.0,7.0,7.0
+意大利菜,Bella Italia,Bella Italia,0,市中心与火车站,6.7,6.9,6.7
+意大利菜,Trattoria Romana,Trattoria Romana,0,,7.3,7.3,7.1
+意大利菜,Bella Italia,Bella Italia,0,市中心以北,7.2,7.2,7.2
+意大利菜,Osteria Italiana,Osteria Italiana,0,市中心以北,7.2,7.2,7.2
+意大利菜,Il Dottore,Il Dottore,0,市中心与火车站,7.2,7.2,7.2
+意大利菜,Seerose,Seerose,0,市中心以北,7.2,7.2,7.2
+意大利菜,Passaparola,Passaparola,0,市中心以北,7.2,7.2,7.2
+意大利菜,Oliveto,Oliveto,0,,7.2,7.2,7.2
+意大利菜,Taverna del Sud,Taverna del Sud,0,市中心以北,7.2,7.2,7.2
+意大利菜,Riva Bar,Riva Bar,0,市中心与火车站,7.2,7.2,7.2
+意大利菜,Trattoria Al Boccone,Trattoria Al Boccone,0,市中心与火车站,7.2,7.2,7.2
+意大利菜,Bar Centrale,Bar Centrale,0,市中心与火车站,7.2,7.2,7.2
+意大利菜,L'Antipasto Nuovo,L'Antipasto Nuovo,0,其他,7.2,7.2,7.2
+意大利菜,Coccinella,Coccinella,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+意大利菜,Nido Bar & Cucina,Nido Bar & Cucina,0,市中心以北,7.1,7.1,7.1
+意大利菜,Mangeria,Mangeria,0,市中心以北,6.9,6.9,6.9
+意大利菜,IL MELOGRANO,IL MELOGRANO,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+意大利菜,Arte in Tavola,Arte in Tavola,0,市中心以北,7.1,7.1,7.1
+意大利菜,Balibeni Stand Gelateria,Balibeni Stand Gelateria,0,市中心以北,7.1,6.7,6.7
+意大利菜,Il Grappolo,Il Grappolo,0,市中心以北,7.1,7.1,7.1
+意大利菜,Ristorantino 2510,Ristorantino 2510,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.0
+意大利菜,Il Sardo,Il Sardo,0,市中心以北,7.1,7.1,7.1
+意大利菜,Trattoria da Pino,Trattoria da Pino,0,市中心以北,7.1,7.1,7.1
+意大利菜,Bistro Uno,Bistro Uno,0,市中心以北,6.9,6.9,6.9
+意大利菜,Vini E Cibi,Vini E Cibi,0,市中心以北,6.9,6.9,6.9
+意大利菜,Viva Maria,Viva Maria,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Box food & wine,Box food & wine,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Friulana Restaurant,Friulana Restaurant,0,,7.1,7.1,6.8
+意大利菜,La Cambusa,La Cambusa,0,市中心以北,7.1,7.1,7.1
+意大利菜,Trattoria Isabella,Trattoria Isabella,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+意大利菜,ecco bar pizzeria,ecco bar pizzeria,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Grano,Grano,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Oh Julia,Oh Julia,0,市中心与火车站,7.1,6.8,7.1
+意大利菜,Becco Fino,Becco Fino,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,D'Aversa,D'Aversa,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Kleines Kameel,Kleines Kameel,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Macinino Café & Co,Macinino Café & Co,0,市中心与火车站,7.1,7.1,7.0
+意大利菜,Trattoria Seitz,Trattoria Seitz,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,La Cucina di Beppo,La Cucina di Beppo,0,其他,7.1,7.1,7.1
+意大利菜,Ottimo Ristobar,Ottimo Ristobar,0,其他,7.1,7.0,7.1
+意大利菜,Hostaria Fratelli Munchen,Hostaria Fratelli Munchen,0,其他,7.1,7.1,7.1
+意大利菜,La Baia,La Baia,0,其他,7.1,6.8,7.1
+意大利菜,L'Osteria,L'Osteria,0,其他,7.1,7.1,7.1
+意大利菜,VIA EMILIA Cafè/Feinkost,VIA EMILIA Cafè/Feinkost,0,其他,7.1,7.0,7.0
+意大利菜,Segafredo Espresso Bar,Segafredo Espresso Bar,0,,7.1,7.0,7.0
+意大利菜,Cafe Am Tierpark,Cafe Am Tierpark,0,,7.0,7.0,7.0
+意大利菜,Goldoni,Goldoni,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+意大利菜,Eiscafe Pinocchio,Eiscafe Pinocchio,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+意大利菜,Ristorante Pizzeria Il Galeone,Ristorante Pizzeria Il Galeone,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+意大利菜,Ristorante Roma Pizzeria,Ristorante Roma Pizzeria,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+意大利菜,Haiders Pizza,Haiders Pizza,0,市中心以北,6.9,6.9,6.9
+意大利菜,Call a Pizza,Call a Pizza,0,市中心以北,7.0,7.0,6.9
+意大利菜,L'Assaggino,L'Assaggino,0,市中心与火车站,6.9,6.9,6.9
+意大利菜,Italiana Cafe,Italiana Cafe,0,,6.9,6.9,6.9
+意大利菜,Bei Giovanni,Bei Giovanni,0,,6.9,6.9,6.9
+意大利菜,Zara del Ponte,Zara del Ponte,0,市中心以北,6.9,6.9,6.9
+意大利菜,Bacio,Bacio,0,市中心与火车站,7.0,7.0,7.0
+意大利菜,Vino Caffe,Vino Caffe,0,市中心与火车站,7.0,7.0,7.0
+意大利菜,La Rocca,La Rocca,0,市中心与火车站,7.0,7.0,7.0
+意大利菜,La Sophia,La Sophia,0,其他,7.0,6.9,7.0
+意大利菜,Restaurant LaGrappa,Restaurant LaGrappa,0,其他,7.0,7.0,7.0
+意大利菜,Solo Pizza,Solo Pizza,0,其他,7.0,7.0,6.9
+意大利菜,Dolce Vita,Dolce Vita,0,其他,6.7,6.7,7.0
+意大利菜,La Toscana Ristorante-Pizzeria,La Toscana Ristorante-Pizzeria,0,其他,7.0,7.0,6.9
+意大利菜,Bistro La Piazza Ristorante Tas,Bistro La Piazza Ristorante Tas,0,,7.0,7.0,7.0
+意大利菜,Lago di Como,Lago di Como,0,其他,6.9,6.9,6.9
+意大利菜,Quo Vadis Ristorante Pizzeria,Quo Vadis Ristorante Pizzeria,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+意大利菜,Ristorante Bad Furth,Ristorante Bad Furth,0,,7.0,7.0,7.0
+意大利菜,La Baracca Munich,La Baracca Munich,0,市中心与火车站,7.2,7.2,7.2
+意大利菜,Perazzo,Perazzo,0,市中心以北,7.1,7.1,7.1
+意大利菜,ELLA Restaurant,ELLA Restaurant,0,市中心以北,7.2,7.2,7.2
+意大利菜,La Trattoria,La Trattoria,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,7.0
+意大利菜,Limoni,Limoni,0,市中心以北,7.2,7.2,7.2
+意大利菜,Rosso Pizza,Rosso Pizza,0,市中心以北,7.3,7.1,7.1
+意大利菜,Da Claudio,Da Claudio,0,市中心以北,7.0,7.0,7.0
+意大利菜,Medici,Medici,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+意大利菜,Trattoria La Bruschetta,Trattoria La Bruschetta,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+意大利菜,Rossetti,Rossetti,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+意大利菜,La Mucca Pazza,La Mucca Pazza,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+意大利菜,La Boheme,La Boheme,0,市中心以北,6.9,6.9,6.9
+意大利菜,Ristorante Bei Mario,Ristorante Bei Mario,0,市中心以北,7.2,7.2,6.8
+意大利菜,Vorstadt-Cafe,Vorstadt-Cafe,0,市中心以北,7.2,7.2,7.2
+意大利菜,Pizzeria Bar Enzo,Pizzeria Bar Enzo,0,市中心以北,7.1,7.0,6.9
+意大利菜,Cucina Legame,Cucina Legame,0,市中心以北,7.0,6.9,7.0
+意大利菜,Ristorante Golden Twenties,Ristorante Golden Twenties,0,市中心以北,7.2,7.2,7.2
+意大利菜,Trattoria La Stella,Trattoria La Stella,0,市中心以北,7.1,7.1,7.1
+意大利菜,Osteria Blu Notte,Osteria Blu Notte,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.0
+意大利菜,Vini e Panini,Vini e Panini,0,市中心以北,6.9,6.9,6.9
+意大利菜,Il Gattopardo - Cucina e Vini,Il Gattopardo - Cucina e Vini,0,市中心以北,7.2,7.2,7.2
+意大利菜,La Tazza D'oro,La Tazza D'oro,0,市中心以北,7.2,7.2,7.2
+意大利菜,Sinans,Sinans,0,,7.2,7.2,7.2
+意大利菜,La Vecchia Masseria,La Vecchia Masseria,0,市中心与火车站,7.2,7.2,7.2
+意大利菜,Lardy - Tapas & Soul,Lardy - Tapas & Soul,0,市中心以北,7.0,7.0,7.0
+意大利菜,Bibulus,Bibulus,0,市中心以北,7.2,7.2,7.2
+意大利菜,Nabucco,Nabucco,0,市中心以北,7.1,7.1,7.1
+意大利菜,Grissini - La Trattoria,Grissini - La Trattoria,0,市中心以北,7.1,7.1,7.1
+意大利菜,L'Angolo,L'Angolo,0,市中心以北,7.0,7.1,7.0
+意大利菜,Il Piccolo Principe,Il Piccolo Principe,0,,7.1,7.5,7.1
+意大利菜,Marechiaro,Marechiaro,0,,7.1,7.1,7.1
+意大利菜,La Pescheria,La Pescheria,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Bistro Bruno,Bistro Bruno,0,市中心与火车站,7.1,7.1,6.8
+意大利菜,Pizzeria Grotta Azzurra,Pizzeria Grotta Azzurra,0,市中心与火车站,6.9,6.9,7.0
+意大利菜,punkto,punkto,0,市中心与火车站,6.7,6.9,6.9
+意大利菜,Porta Capuana,Porta Capuana,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Felice Bussone Pasticceria,Felice Bussone Pasticceria,0,,6.9,6.9,6.9
+意大利菜,Alla Famiglia,Alla Famiglia,0,,6.9,7.0,6.9
+意大利菜,Piccola Italia,Piccola Italia,0,,7.1,7.1,7.1
+意大利菜,Quattro Tavoli,Quattro Tavoli,0,,7.0,7.1,7.0
+意大利菜,Italfisch,Italfisch,0,,7.1,7.1,7.1
+意大利菜,Kara's,Kara's,0,,6.9,6.9,6.9
+意大利菜,Nuovo Casale,Nuovo Casale,0,市中心以北,7.2,7.7,7.2
+意大利菜,Dinatale Cafe,Dinatale Cafe,0,市中心以北,7.1,7.1,7.3
+意大利菜,Ristorante Martinelli,Ristorante Martinelli,0,伊萨尔河(Isar)东岸,7.2,7.2,7.2
+意大利菜,Anema e Core Trattoria,Anema e Core Trattoria,0,市中心以北,7.2,7.2,7.2
+意大利菜,Restaurante Gennaro,Restaurante Gennaro,0,,7.0,7.0,7.0
+意大利菜,Bergmannshof,Bergmannshof,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,La conchiglia Ristorante,La conchiglia Ristorante,0,市中心与火车站,6.9,6.9,6.9
+意大利菜,Casalingo,Casalingo,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Tarullos,Tarullos,0,市中心与火车站,7.2,6.8,7.2
+意大利菜,Lady Tigella,Lady Tigella,0,市中心与火车站,7.2,7.2,7.2
+意大利菜,Mediterraneo,Mediterraneo,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Fedora Bar and Kitchen,Fedora Bar and Kitchen,0,市中心与火车站,7.2,7.2,7.2
+意大利菜,Via Veneto,Via Veneto,0,市中心与火车站,7.1,7.1,7.1
+意大利菜,Roma,Roma,0,市中心与火车站,7.0,7.1,7.1
+意大利菜,Salotto,Salotto,0,市中心与火车站,7.2,6.8,7.2
+意大利菜,Da Noi,Da Noi,0,其他,7.0,7.0,7.0
+意大利菜,Campo D'Oro,Campo D'Oro,0,其他,7.0,7.0,7.0
+意大利菜,Emilia,Emilia,0,其他,6.9,6.9,6.9
+意大利菜,Antica Cantina,Antica Cantina,0,其他,7.1,7.1,7.1
+意大利菜,Piazzetta,Piazzetta,0,其他,7.1,7.1,7.1
+意大利菜,Nonsolovino,Nonsolovino,0,其他,7.1,7.1,7.1
+意大利菜,Mezzodi,Mezzodi,0,其他,7.0,7.0,7.0
+意大利菜,La Cicchetteria,La Cicchetteria,0,其他,7.1,6.9,7.0
+意大利菜,Il Sorriso,Il Sorriso,0,其他,7.0,7.0,7.0
+意大利菜,Il Torrente Ristorante Pizzeria,Il Torrente Ristorante Pizzeria,0,宁芬堡(Nymphenburg)周边,7.0,7.0,7.0
+意大利菜,Restaurant Giuseppe Verdi,Restaurant Giuseppe Verdi,0,宁芬堡(Nymphenburg)周边,6.9,6.9,6.9
+意大利菜,Trattoria La Giara,Trattoria La Giara,0,,6.9,6.9,7.0
+意大利菜,Ristorante Tre Scalini,Ristorante Tre Scalini,0,,7.0,7.0,7.0
+意大利菜,La Villetta,La Villetta,0,,7.0,7.0,6.9
+意大利菜,Antica Trattoria,Antica Trattoria,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+意大利菜,Dolce Sosta,Dolce Sosta,0,,7.0,7.1,7.0
+意大利菜,Cleopatra,Cleopatra,0,,7.1,7.1,7.1
+意大利菜,Antica Toscana,Antica Toscana,0,宁芬堡(Nymphenburg)周边,7.0,7.0,7.0
+意大利菜,Da Peppo,Da Peppo,0,,7.0,7.0,7.0
+意大利菜,Adesso,Adesso,0,伊萨尔河(Isar)东岸,7.3,7.3,7.1
+意大利菜,Locanda Trevisana,Locanda Trevisana,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+意大利菜,Trattoria Kurfurst Maximilian,Trattoria Kurfurst Maximilian,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+意大利菜,Pinto DiVino Bistro,Pinto DiVino Bistro,0,,7.0,7.0,7.0
+意大利菜,Piazza Monaco,Piazza Monaco,0,其他,7.0,6.9,6.9
+意大利菜,Byblos,Byblos,0,市中心以北,6.8,7.1,7.1
+意大利菜,Hugo s Pizza Bar - Lounge,Hugo s Pizza Bar - Lounge,0,市中心与火车站,7.2,6.8,6.8
+意大利菜,Villa Dante,Villa Dante,0,奥林匹亚公园(Olympiapark)周边,7.2,6.8,7.2
+意大利菜,Bella Italia,Bella Italia,0,其他,0.0,0.0,0.0
+法国菜,Bavarie. Brasserie in der BMW Welt,Bavarie. Brasserie in der BMW Welt,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+法国菜,Austernkeller,Austernkeller,0,市中心与火车站,7.2,7.2,7.2
+法国菜,Biker's Lodge in der BMW Welt,Biker's Lodge in der BMW Welt,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+法国菜,Zest,Zest,0,市中心以北,7.0,7.0,7.0
+法国菜,Rue des Halles,Rue des Halles,0,其他,7.2,7.2,7.2
+法国菜,M Belleville,M Belleville,0,市中心以北,7.2,7.2,7.2
+法国菜,Cameleon,Cameleon,0,市中心与火车站,7.2,7.2,7.2
+法国菜,Ritzi,Ritzi,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+法国菜,Déjà bu?,Déjà bu?,0,市中心与火车站,7.1,7.1,7.0
+法国菜,La Bouche,La Bouche,0,,7.2,7.2,7.2
+法国菜,Le Refuge,Le Refuge,0,市中心以北,7.0,7.0,7.0
+法国菜,Saint Laurent Holbeinstube,Saint Laurent Holbeinstube,0,其他,7.3,7.1,7.1
+法国菜,Les Deux,Les Deux,0,市中心与火车站,7.2,7.2,7.2
+法国菜,Le Bousquerey,Le Bousquerey,0,其他,7.7,7.7,7.2
+法国菜,"Restaurant Mark's at Mandarin Oriental, Munich","Restaurant Mark's at Mandarin Oriental, Munich",0,市中心与火车站,7.2,7.2,7.2
+法国菜,L'atelier Art et Vin,L'atelier Art et Vin,0,市中心与火车站,7.1,7.1,7.1
+法国菜,Epicerie d'Anne-Marie,Epicerie d'Anne-Marie,0,其他,7.0,6.9,6.9
+法国菜,Les Cuisiniers,Les Cuisiniers,0,市中心以北,7.2,7.2,7.2
+法国菜,Brasserie Chez Fritz,Brasserie Chez Fritz,0,其他,7.2,7.2,7.2
+法国菜,Le Faubourg,Le Faubourg,0,其他,7.2,7.2,7.2
+法国菜,La Bouille,La Bouille,0,市中心以北,7.1,7.1,7.1
+法国菜,Le Cezanne,Le Cezanne,0,市中心以北,7.1,7.1,7.1
+法国菜,Creperie Normande,Creperie Normande,0,其他,7.0,7.0,6.9
+法国菜,Restaurant n15,Restaurant n15,0,市中心以北,7.0,7.0,7.0
+法国菜,Cabus Creperie,Cabus Creperie,0,市中心以北,7.0,6.9,7.0
+法国菜,Makassar,Makassar,0,,7.2,7.2,7.2
+法国菜,Jean de St. Malo,Jean de St. Malo,0,其他,7.1,7.1,7.1
+法国菜,L'Adresse 37,L'Adresse 37,0,其他,7.2,7.2,7.2
+法国菜,Atelier Gourmet,Atelier Gourmet,0,其他,7.2,7.2,7.2
+法国菜,Creperie Bernard et Bernard,Creperie Bernard et Bernard,0,其他,7.1,7.1,7.1
+法国菜,La Brasserie,La Brasserie,0,其他,7.2,7.2,7.2
+法国菜,Brasserie Chez Philippe,Brasserie Chez Philippe,0,伊萨尔河(Isar)东岸,7.2,7.2,7.2
+墨西哥菜,Cafe Tijuana,Cafe Tijuana,0,市中心以北,6.7,7.5,7.0
+墨西哥菜,Taco Libre,Taco Libre,0,市中心与火车站,7.1,7.1,7.1
+墨西哥菜,Don Luca,Don Luca,0,市中心以北,7.2,7.2,7.2
+墨西哥菜,Champions Sports Bar,Champions Sports Bar,0,市中心以北,7.2,7.2,7.2
+墨西哥菜,Burrito Company,Burrito Company,0,,7.1,7.1,7.1
+墨西哥菜,El Patio,El Patio,0,市中心以北,7.2,7.2,7.2
+墨西哥菜,Enchilada,Enchilada,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+墨西哥菜,CONDESA Mexican Food,CONDESA Mexican Food,0,市中心以北,7.1,7.1,7.1
+墨西哥菜,El Gordo Loco,El Gordo Loco,0,其他,7.2,7.2,7.2
+墨西哥菜,Pure Burrito,Pure Burrito,0,市中心与火车站,7.1,6.8,6.8
+墨西哥菜,La Hacienda,La Hacienda,0,其他,7.1,7.1,7.1
+墨西哥菜,La Taqueria,La Taqueria,0,市中心与火车站,7.1,7.1,7.1
+墨西哥菜,Karma Lounge,Karma Lounge,0,,6.9,6.9,6.9
+墨西哥菜,La Cucaracha,La Cucaracha,0,市中心与火车站,6.5,6.8,6.8
+墨西哥菜,Sausaltos Muenchen Schwabing,Sausaltos Muenchen Schwabing,0,市中心以北,7.2,7.2,7.2
+墨西哥菜,Pure Burrito,Pure Burrito,0,市中心以北,7.0,7.0,6.9
+墨西哥菜,Tacos y Tequila,Tacos y Tequila,0,市中心以北,7.1,7.1,7.1
+墨西哥菜,Mamasita,Mamasita,0,市中心与火车站,7.0,7.0,7.0
+墨西哥菜,Milagros,Milagros,0,市中心与火车站,7.2,7.2,7.2
+墨西哥菜,Pequeno,Pequeno,0,市中心与火车站,7.0,6.7,6.9
+其他西餐,Augustiner Braustuben,Augustiner Braustuben,0,市中心与火车站,8.5,8.0,8.3
+其他西餐,Airbraeu Brauhaus,Airbraeu Brauhaus,0,慕尼黑国际机场,7.4,7.5,7.7
+其他西餐,Ratskeller,Ratskeller,0,市中心与火车站,7.8,8.0,8.0
+其他西餐,Weisses Brauhaus,Weisses Brauhaus,0,市中心与火车站,8.1,8.1,7.1
+其他西餐,Vinzenzmurr,Vinzenzmurr,0,市中心与火车站,7.7,7.5,7.5
+其他西餐,Rathauskeller,Rathauskeller,0,市中心与火车站,7.5,8.2,7.9
+其他西餐,Lowenbraukeller,Lowenbraukeller,0,奥林匹亚公园(Olympiapark)周边,7.3,7.5,7.3
+其他西餐,Gosch München Hauptbahnhof,Gosch München Hauptbahnhof,0,市中心与火车站,6.7,6.3,6.3
+其他西餐,brau stuberl,brau stuberl,0,市中心以北,8.1,7.8,7.2
+其他西餐,Hofbrauhaus,Hofbrauhaus,0,市中心与火车站,8.1,8.1,8.1
+其他西餐,Gaststatte Bavaria Augustiner,Gaststatte Bavaria Augustiner,0,市中心与火车站,8.1,7.5,6.4
+其他西餐,Paulaner im Tal,Paulaner im Tal,0,市中心与火车站,7.4,7.2,7.2
+其他西餐,Erdinger Sportsbar,Erdinger Sportsbar,0,伊萨尔河(Isar)东岸,6.7,7.3,6.7
+其他西餐,Augustiner am Platzl,Augustiner am Platzl,0,市中心与火车站,7.5,7.5,7.0
+其他西餐,Schnitzelwirt,Schnitzelwirt,0,市中心与火车站,7.2,6.7,7.2
+其他西餐,Restaurant Italy,Restaurant Italy,0,市中心以北,8.0,8.0,8.0
+其他西餐,Schneider & Sohn,Schneider & Sohn,0,市中心与火车站,7.3,7.3,7.3
+其他西餐,Franziskaner Fuchsenstuben,Franziskaner Fuchsenstuben,0,市中心与火车站,7.5,7.5,7.5
+其他西餐,Andechser am Dom,Andechser am Dom,0,市中心与火车站,7.5,7.5,7.5
+其他西餐,Oliva,Oliva,0,其他,7.5,7.4,6.8
+其他西餐,Restaurant Onassis,Restaurant Onassis,0,市中心以北,7.5,7.5,7.5
+其他西餐,Osterwaldgarten,Osterwaldgarten,0,市中心以北,7.5,7.5,7.5
+其他西餐,Zwickl - Gastlichkeit am Viktualienmarkt,Zwickl - Gastlichkeit am Viktualienmarkt,0,市中心与火车站,8.1,8.1,8.1
+其他西餐,Bavarie. Brasserie in der BMW Welt,Bavarie. Brasserie in der BMW Welt,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,Augustiner-Keller,Augustiner-Keller,0,,7.2,7.2,7.2
+其他西餐,Palais Keller (Bayerischer Hof),Palais Keller (Bayerischer Hof),0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+其他西餐,Dallmayr,Dallmayr,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Spatenhaus,Spatenhaus,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Schuhbeck's Restaurant in den Sudtiroler Stuben,Schuhbeck's Restaurant in den Sudtiroler Stuben,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Fleming's Brasserie und Wine Bar,Fleming's Brasserie und Wine Bar,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Pars Persian Restaurant,Pars Persian Restaurant,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,Kasladen Von Toelz,Kasladen Von Toelz,0,市中心与火车站,7.1,7.1,6.9
+其他西餐,Zest,Zest,0,市中心以北,7.0,7.0,7.0
+其他西餐,Cooper'S. Snack & Drink in der BMW Welt,Cooper'S. Snack & Drink in der BMW Welt,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.7
+其他西餐,Nymphenburger Hof,Nymphenburger Hof,0,奥林匹亚公园(Olympiapark)周边,7.7,7.2,7.2
+其他西餐,Zum Franziskaner,Zum Franziskaner,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Boettner's,Boettner's,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Wirtshaus Ayingers,Wirtshaus Ayingers,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Franziskaner in der Au,Franziskaner in der Au,0,其他,6.8,6.8,7.1
+其他西餐,"Restaurant Tiffany, Holiday Inn Munich","Restaurant Tiffany, Holiday Inn Munich",0,市中心以北,7.0,7.0,6.9
+其他西餐,Asado Steak,Asado Steak,0,市中心以北,6.8,6.8,6.8
+其他西餐,Broeding,Broeding,0,奥林匹亚公园(Olympiapark)周边,7.7,7.7,7.2
+其他西餐,Geisels Werneckhof,Geisels Werneckhof,0,市中心以北,7.7,7.2,7.2
+其他西餐,Brenner Grill,Brenner Grill,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Paulaner Braeuhaus,Paulaner Braeuhaus,0,,7.2,7.2,7.2
+其他西餐,H-E-A-R-T Restaurant & Bar,H-E-A-R-T Restaurant & Bar,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Paulaner am Nockherberg,Paulaner am Nockherberg,0,其他,7.2,7.2,7.2
+其他西餐,Wirtshaus in Sendling,Wirtshaus in Sendling,0,,7.2,7.2,7.2
+其他西餐,Kaefer Bistro T2 am Flughafen,Kaefer Bistro T2 am Flughafen,0,市中心以北,7.2,7.2,7.2
+其他西餐,Dicke Sophie,Dicke Sophie,0,伊萨尔河(Isar)东岸,7.2,7.2,7.2
+其他西餐,Mariandl Cafe am Beethovenplatz,Mariandl Cafe am Beethovenplatz,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Sankt Emmeramsmuhle,Sankt Emmeramsmuhle,0,市中心以北,7.2,7.2,7.2
+其他西餐,Wirtshaus zur Brez'n,Wirtshaus zur Brez'n,0,市中心以北,7.2,7.2,7.2
+其他西餐,Gandl,Gandl,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Augustiner am Dom,Augustiner am Dom,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Bar Tapas Teatro,Bar Tapas Teatro,0,其他,7.2,7.2,7.2
+其他西餐,Kafer's,Kafer's,0,市中心以北,7.2,7.2,7.2
+其他西餐,Restaurant am Chinesischen Turm,Restaurant am Chinesischen Turm,0,市中心以北,7.2,6.8,7.2
+其他西餐,Der Pschorr,Der Pschorr,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Hackerhaus,Hackerhaus,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Buffet Kull,Buffet Kull,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Cafe Mozart,Cafe Mozart,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Burger House,Burger House,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Hans im Gluck Burgergrill,Hans im Gluck Burgergrill,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+其他西餐,Kilians Irish Pub,Kilians Irish Pub,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Restaurant grill93,Restaurant grill93,0,市中心以北,7.1,7.1,7.1
+其他西餐,Kokoro,Kokoro,0,市中心以北,6.9,6.9,6.9
+其他西餐,Lobby Bar - Holiday Inn Muenchen Sued,Lobby Bar - Holiday Inn Muenchen Sued,0,,7.1,7.1,7.1
+其他西餐,Kymata,Kymata,0,,7.1,7.3,7.1
+其他西餐,Tattenbach Wirtshaus & Stuberl,Tattenbach Wirtshaus & Stuberl,0,市中心以北,7.1,7.1,7.1
+其他西餐,Heimgarten,Heimgarten,0,伊萨尔河(Isar)东岸,7.0,7.1,7.0
+其他西餐,Oléo Pazzo,Oléo Pazzo,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Schmauserei,Schmauserei,0,市中心与火车站,6.9,6.9,6.9
+其他西餐,Feinkost Monti,Feinkost Monti,0,,7.2,7.2,7.2
+其他西餐,Konstantin & Friends,Konstantin & Friends,0,,7.1,7.1,7.1
+其他西餐,Restaurant Bogenhauserhof,Restaurant Bogenhauserhof,0,市中心以北,7.0,7.0,7.0
+其他西餐,Baal,Baal,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,McDonald's,McDonald's,0,其他,7.1,6.8,7.1
+其他西餐,Franz Josef Restaurant,Franz Josef Restaurant,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,Münchens kleinste Gaststätte,Münchens kleinste Gaststätte,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Nordsee,Nordsee,0,其他,6.9,6.9,6.9
+其他西餐,Gaststätte Poseidon,Gaststätte Poseidon,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+其他西餐,1912 Restaurant & Bar,1912 Restaurant & Bar,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Palace Restaurant,Palace Restaurant,0,市中心以北,7.0,7.0,7.0
+其他西餐,Tarboosh Muenchen,Tarboosh Muenchen,0,市中心与火车站,7.1,7.1,7.0
+其他西餐,Rosy's Welt,Rosy's Welt,0,市中心以北,7.0,7.1,7.0
+其他西餐,Audrey's food & flavour,Audrey's food & flavour,0,市中心以北,7.0,6.9,7.0
+其他西餐,Lucky Who,Lucky Who,0,市中心以北,7.0,7.0,7.1
+其他西餐,Alfonsos Live Music-Club,Alfonsos Live Music-Club,0,市中心以北,6.9,7.0,7.0
+其他西餐,Restaurant Hermes,Restaurant Hermes,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+其他西餐,Yamas Taverna,Yamas Taverna,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+其他西餐,Santorini,Santorini,0,,7.0,7.0,7.0
+其他西餐,Cafe Glyptothek,Cafe Glyptothek,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,"Max restaurant, bar & lounge","Max restaurant, bar & lounge",0,其他,6.8,6.6,6.8
+其他西餐,Cafe camera,Cafe camera,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Stoa,Stoa,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Die Goldene Bar,Die Goldene Bar,0,市中心以北,6.8,7.1,7.1
+其他西餐,Die Griechin Am Schloss,Die Griechin Am Schloss,0,其他,7.1,7.1,7.0
+其他西餐,Poseidon,Poseidon,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+其他西餐,Wirtshaus am Bavariapark,Wirtshaus am Bavariapark,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Zum Alten Markt,Zum Alten Markt,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Eat The Rich,Eat The Rich,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+其他西餐,Schapeau,Schapeau,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Grill & Grace Restaurant,Grill & Grace Restaurant,0,,7.1,7.5,7.1
+其他西餐,Cafe Nymphenburg,Cafe Nymphenburg,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+其他西餐,Wirtshaus Zum Straubinger,Wirtshaus Zum Straubinger,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Restaurant Ludwigs,Restaurant Ludwigs,0,市中心与火车站,6.8,6.8,7.1
+其他西餐,JOY Restaurant,JOY Restaurant,0,其他,6.9,6.9,7.0
+其他西餐,Palau,Palau,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Halali,Halali,0,市中心以北,7.7,7.2,7.2
+其他西餐,Barista,Barista,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Zur Goldenen Gans,Zur Goldenen Gans,0,,7.1,6.8,7.1
+其他西餐,Deutsche Eiche,Deutsche Eiche,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Zum Duernbraeu,Zum Duernbraeu,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Bottarga,Bottarga,0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.0
+其他西餐,BNM Restaurant,BNM Restaurant,0,市中心以北,7.2,7.2,7.2
+其他西餐,Nefeli,Nefeli,0,其他,7.2,7.2,7.2
+其他西餐,Bachmaier Hofbrau,Bachmaier Hofbrau,0,市中心以北,7.2,7.2,7.2
+其他西餐,Mistura Tropicana,Mistura Tropicana,0,伊萨尔河(Isar)东岸,7.1,7.1,6.8
+其他西餐,Bratwurstherzl,Bratwurstherzl,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Piccola Trattoria,Piccola Trattoria,0,市中心与火车站,6.9,6.9,6.9
+其他西餐,Schuhbeck's Orlando,Schuhbeck's Orlando,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Geisinger Alm,Geisinger Alm,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+其他西餐,California Grill,California Grill,0,市中心以北,6.9,7.0,7.0
+其他西餐,Gourmet Restaurant Koenigshof,Gourmet Restaurant Koenigshof,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Cafe Konditorei Eisenrieder,Cafe Konditorei Eisenrieder,0,市中心以北,7.1,7.0,7.0
+其他西餐,Geisel's Vinothek,Geisel's Vinothek,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Raffus Wirtshaus,Raffus Wirtshaus,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+其他西餐,Kleinschmidtz,Kleinschmidtz,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Sir Tobi,Sir Tobi,0,市中心与火车站,6.9,6.9,6.9
+其他西餐,Zum Fass'l,Zum Fass'l,0,市中心以北,7.0,7.0,7.0
+其他西餐,KOCHspielHAUS,KOCHspielHAUS,0,市中心与火车站,7.1,6.8,7.1
+其他西餐,Konditorei Kaffee Schneller,Konditorei Kaffee Schneller,0,市中心以北,7.0,7.0,7.0
+其他西餐,Cadu,Cadu,0,市中心以北,6.8,7.1,7.1
+其他西餐,Cafe Stacherias,Cafe Stacherias,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Restaurant Johannas,Restaurant Johannas,0,其他,7.1,7.1,6.8
+其他西餐,Naxos Taverna,Naxos Taverna,0,宁芬堡(Nymphenburg)周边,7.2,7.2,7.2
+其他西餐,Cavos Taverne,Cavos Taverne,0,市中心以北,7.2,6.8,7.2
+其他西餐,Wirtshaus am Rosengarten,Wirtshaus am Rosengarten,0,其他,7.1,7.1,7.1
+其他西餐,Roxy,Roxy,0,市中心以北,6.8,7.1,7.1
+其他西餐,Gasthaus Woellinger,Gasthaus Woellinger,0,,7.1,6.8,7.1
+其他西餐,Ennstaler Stubn,Ennstaler Stubn,0,,7.2,7.2,7.2
+其他西餐,Schmeller's,Schmeller's,0,,7.1,7.1,7.1
+其他西餐,Gesund & Köstlich Kantine im Rathaus,Gesund & Köstlich Kantine im Rathaus,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Poseidon,Poseidon,0,其他,7.0,7.0,7.0
+其他西餐,Hans im Glueck - Burgergrill,Hans im Glueck - Burgergrill,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+其他西餐,Sila Restaurant,Sila Restaurant,0,市中心与火车站,6.9,6.9,6.9
+其他西餐,Japa Tapa,Japa Tapa,0,市中心与火车站,6.9,6.9,6.7
+其他西餐,Cafe Haidhausen,Cafe Haidhausen,0,其他,7.1,7.1,7.1
+其他西餐,Spezlwirtschaft,Spezlwirtschaft,0,市中心与火车站,6.8,6.8,7.1
+其他西餐,Hans Im Glüeck,Hans Im Glüeck,0,市中心与火车站,6.8,6.8,7.1
+其他西餐,Restaurant Esskapade,Restaurant Esskapade,0,奥林匹亚公园(Olympiapark)周边,7.5,7.5,7.1
+其他西餐,Kreta Grill,Kreta Grill,0,市中心以北,7.1,7.1,7.1
+其他西餐,Taverna Limani,Taverna Limani,0,其他,7.3,7.3,7.3
+其他西餐,Cafe Puck,Cafe Puck,0,市中心以北,7.2,7.2,7.2
+其他西餐,Atzinger,Atzinger,0,市中心以北,7.2,7.2,7.2
+其他西餐,Cafe Altschwabing,Cafe Altschwabing,0,市中心以北,7.2,7.2,7.2
+其他西餐,Georgenhof,Georgenhof,0,市中心以北,7.2,7.2,7.2
+其他西餐,Kaisergarten,Kaisergarten,0,市中心以北,7.2,7.2,7.2
+其他西餐,Elia,Elia,0,市中心以北,7.2,7.2,7.2
+其他西餐,Bodega Dali,Bodega Dali,0,市中心以北,7.2,7.2,7.2
+其他西餐,Oliveto,Oliveto,0,,7.2,7.2,7.2
+其他西餐,Faun,Faun,0,,7.2,7.2,7.2
+其他西餐,Lindwurmstueberl,Lindwurmstueberl,0,,7.2,7.2,7.2
+其他西餐,Mit Leib und Seele,Mit Leib und Seele,0,市中心以北,7.2,7.2,7.2
+其他西餐,Kennedy's Bar & Restaurant,Kennedy's Bar & Restaurant,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Beim Sedlmayr,Beim Sedlmayr,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Lowe am Markt,Lowe am Markt,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Prinz Myshkin,Prinz Myshkin,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Cafe Glockenspiel,Cafe Glockenspiel,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Haxnbauer im Scholastikahaus,Haxnbauer im Scholastikahaus,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Augustiner Klosterwirt,Augustiner Klosterwirt,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Cosmogrill,Cosmogrill,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Trader Vic's,Trader Vic's,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Lehel Bar Food Club,Lehel Bar Food Club,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Cafe Luitpold,Cafe Luitpold,0,市中心以北,7.2,7.2,7.2
+其他西餐,Asam-Schloessl,Asam-Schloessl,0,其他,7.2,7.2,7.2
+其他西餐,Franziskanergarten,Franziskanergarten,0,其他,7.2,7.2,7.2
+其他西餐,Kuchlverzeichnis,Kuchlverzeichnis,0,其他,7.2,7.2,7.2
+其他西餐,Hofbraukeller,Hofbraukeller,0,其他,7.2,7.2,7.2
+其他西餐,Der Weichandhof,Der Weichandhof,0,,7.2,7.2,7.2
+其他西餐,Waldwirtschaft Grosshesselohe,Waldwirtschaft Grosshesselohe,0,,7.2,7.2,7.2
+其他西餐,Schinken Peter,Schinken Peter,0,伊萨尔河(Isar)东岸,7.2,7.2,7.2
+其他西餐,Jagdschlossl,Jagdschlossl,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+其他西餐,Alter Wirt Moosach,Alter Wirt Moosach,0,,7.2,7.2,7.2
+其他西餐,Alpentraum,Alpentraum,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,El Gusto,El Gusto,0,市中心以北,7.1,7.0,7.0
+其他西餐,Laden Hausgemacht Speise,Laden Hausgemacht Speise,0,市中心以北,6.9,7.1,6.9
+其他西餐,Cafe an der Uni,Cafe an der Uni,0,市中心以北,7.1,7.1,7.1
+其他西餐,Bar Tapas,Bar Tapas,0,市中心以北,7.1,7.1,7.1
+其他西餐,"Josefina Cafe, Bistro & Bar","Josefina Cafe, Bistro & Bar",0,市中心以北,6.9,6.9,6.9
+其他西餐,Blu Mediteraneo,Blu Mediteraneo,0,市中心以北,7.1,7.1,7.1
+其他西餐,Cafe Schwabing,Cafe Schwabing,0,市中心以北,7.1,7.1,7.1
+其他西餐,EraOra Cucina&Vino,EraOra Cucina&Vino,0,市中心以北,6.9,6.9,6.9
+其他西餐,Maier,Maier,0,市中心以北,6.9,6.9,6.9
+其他西餐,iphitos RESTAURANT,iphitos RESTAURANT,0,市中心以北,7.0,7.0,7.1
+其他西餐,Anti,Anti,0,,7.1,7.1,7.1
+其他西餐,Trachtenvogl,Trachtenvogl,0,,7.1,7.1,7.1
+其他西餐,Klenze 17,Klenze 17,0,市中心与火车站,6.9,6.9,6.9
+其他西餐,Grune Gans,Grune Gans,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Centro Espanol,Centro Espanol,0,,7.1,7.1,7.1
+其他西餐,Mundart Gastronomie,Mundart Gastronomie,0,,6.9,6.9,6.9
+其他西餐,Papazofs,Papazofs,0,,7.1,7.1,7.1
+其他西餐,Rila,Rila,0,市中心以北,7.1,7.1,7.1
+其他西餐,Gaststatte Schlosselgarten,Gaststatte Schlosselgarten,0,市中心以北,7.1,7.1,7.1
+其他西餐,Knossos,Knossos,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+其他西餐,Cafe Galao,Cafe Galao,0,市中心与火车站,6.9,6.9,6.9
+其他西餐,D'Aversa,D'Aversa,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Etage Zwo,Etage Zwo,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Bohne & Malz,Bohne & Malz,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Taverna Georgios,Taverna Georgios,0,市中心以北,6.9,6.9,6.9
+其他西餐,Maximilians,Maximilians,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Thalassa,Thalassa,0,其他,7.1,7.1,7.0
+其他西餐,Lukullus,Lukullus,0,其他,7.1,7.1,7.1
+其他西餐,Zum Brandner Kaspar,Zum Brandner Kaspar,0,其他,6.9,6.9,6.9
+其他西餐,Oesteria,Oesteria,0,其他,7.1,7.1,7.1
+其他西餐,I Frati - Wine & Grill,I Frati - Wine & Grill,0,其他,7.1,7.1,7.1
+其他西餐,Kalami,Kalami,0,其他,7.1,7.1,7.1
+其他西餐,Jagdschloss Wirtshaus+Biergarten,Jagdschloss Wirtshaus+Biergarten,0,其他,7.1,7.1,7.1
+其他西餐,Einfach & Gut,Einfach & Gut,0,市中心以北,6.9,6.9,6.9
+其他西餐,Custo,Custo,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+其他西餐,Restaurant im Hauptbahnhof,Restaurant im Hauptbahnhof,0,,6.9,6.9,6.9
+其他西餐,La Tasca nueva,La Tasca nueva,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,Mini Hofbrauhaus im Englischen Garten,Mini Hofbrauhaus im Englischen Garten,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.3
+其他西餐,Restaurant Gut Nederling,Restaurant Gut Nederling,0,,7.1,7.1,7.1
+其他西餐,Persepolis,Persepolis,0,其他,6.9,6.9,6.9
+其他西餐,Taverna Arkadi,Taverna Arkadi,0,市中心与火车站,7.0,7.1,7.0
+其他西餐,Hexenkessel,Hexenkessel,0,市中心以北,6.9,7.0,7.0
+其他西餐,Restaurant Teheran,Restaurant Teheran,0,市中心以北,6.9,6.9,6.9
+其他西餐,Huhner- und Entenbraterei Ammer,Huhner- und Entenbraterei Ammer,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Mykonos,Mykonos,0,市中心以北,7.0,7.0,7.0
+其他西餐,Multi-Kulti,Multi-Kulti,0,市中心以北,7.0,7.0,7.0
+其他西餐,Oberwiesenfeld,Oberwiesenfeld,0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.0
+其他西餐,Galini,Galini,0,市中心以北,6.9,6.9,6.9
+其他西餐,Gaststatte Oberwiesenfeld,Gaststatte Oberwiesenfeld,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,6.9
+其他西餐,Tangra,Tangra,0,,7.0,7.0,7.0
+其他西餐,CordoBAR,CordoBAR,0,,7.0,7.0,7.0
+其他西餐,Firn,Firn,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Freiraum,Freiraum,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Garden Palace - Shalimar,Garden Palace - Shalimar,0,市中心与火车站,6.9,6.9,6.9
+其他西餐,Kronensaal,Kronensaal,0,,7.0,6.9,7.0
+其他西餐,Marktstüberl Metzgerei Gassner,Marktstüberl Metzgerei Gassner,0,,6.9,6.9,6.9
+其他西餐,Burger House,Burger House,0,伊萨尔河(Isar)东岸,7.1,7.0,7.0
+其他西餐,Restaurant Poseidon,Restaurant Poseidon,0,伊萨尔河(Isar)东岸,7.0,7.0,6.9
+其他西餐,il Mediterraneo,il Mediterraneo,0,市中心以北,7.1,7.1,7.1
+其他西餐,Irish Folk Pub,Irish Folk Pub,0,市中心以北,6.9,7.0,7.0
+其他西餐,Taverna Hellas,Taverna Hellas,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Wirtshaus Ridler,Wirtshaus Ridler,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Roy,Roy,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Bricelta,Bricelta,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Cafe Gloria,Cafe Gloria,0,市中心与火车站,7.1,7.0,7.0
+其他西餐,Carlton,Carlton,0,市中心以北,7.0,6.9,6.9
+其他西餐,"Seehaus, Hinterbruhl, Munich, Germany","Seehaus, Hinterbruhl, Munich, Germany",0,其他,6.9,6.9,6.9
+其他西餐,Obergiesinger,Obergiesinger,0,其他,6.9,6.9,6.9
+其他西餐,Knossos,Knossos,0,其他,7.0,6.9,7.0
+其他西餐,Lara,Lara,0,其他,6.9,6.9,6.9
+其他西餐,Marc & Frankie's im Schoberwirt,Marc & Frankie's im Schoberwirt,0,其他,6.9,6.9,6.9
+其他西餐,Aubinger's Zwicklwirt,Aubinger's Zwicklwirt,0,其他,7.0,7.0,7.0
+其他西餐,Croatia Grill,Croatia Grill,0,,6.9,6.9,6.9
+其他西餐,Wrossis,Wrossis,0,,7.0,7.1,6.9
+其他西餐,El Greco - Cafe - Bar - Restaurant,El Greco - Cafe - Bar - Restaurant,0,,7.0,7.0,7.0
+其他西餐,Satyam Restaurant,Satyam Restaurant,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+其他西餐,Confetti,Confetti,0,,7.0,7.0,7.0
+其他西餐,Markthalle im Hauptbahnhof,Markthalle im Hauptbahnhof,0,,7.1,7.1,7.1
+其他西餐,Olympos Taverna,Olympos Taverna,0,,6.9,6.9,6.9
+其他西餐,Zur Post,Zur Post,0,,6.9,6.9,6.9
+其他西餐,Mongdratzerl,Mongdratzerl,0,市中心与火车站,7.0,6.9,7.0
+其他西餐,Rilano No.6 Lenbach Palais,Rilano No.6 Lenbach Palais,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Deli,Deli,0,市中心与火车站,7.0,7.0,7.1
+其他西餐,EAT Life Kitchen,EAT Life Kitchen,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,7.0
+其他西餐,Dehbaschi,Dehbaschi,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,Hamburgerei,Hamburgerei,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+其他西餐,Nostos,Nostos,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+其他西餐,La Trattoria,La Trattoria,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,7.0
+其他西餐,Brasserie Tresznjewski,Brasserie Tresznjewski,0,市中心以北,7.2,7.2,7.2
+其他西餐,Pauls,Pauls,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+其他西餐,P.Korn,P.Korn,0,奥林匹亚公园(Olympiapark)周边,7.5,7.5,7.1
+其他西餐,News Bar,News Bar,0,市中心以北,7.1,7.1,7.1
+其他西餐,Vinzenzmurr,Vinzenzmurr,0,市中心以北,6.7,6.9,6.7
+其他西餐,Griechische Taverna-Avli,Griechische Taverna-Avli,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+其他西餐,Bistro Terrine,Bistro Terrine,0,市中心以北,7.7,7.2,7.2
+其他西餐,De Afric,De Afric,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,Slovenija Grill,Slovenija Grill,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+其他西餐,Bar Giornale,Bar Giornale,0,市中心以北,7.1,7.1,7.1
+其他西餐,Marbella,Marbella,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,Wassermann Maxvorstadt,Wassermann Maxvorstadt,0,市中心以北,7.0,7.0,7.0
+其他西餐,Cafe Clara,Cafe Clara,0,市中心以北,7.0,7.0,7.0
+其他西餐,Goerreshof,Goerreshof,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+其他西餐,Kalypso,Kalypso,0,市中心以北,7.1,7.1,7.1
+其他西餐,Panther Grill & Bar,Panther Grill & Bar,0,市中心以北,7.1,7.1,7.1
+其他西餐,Restaurant Piatsa,Restaurant Piatsa,0,市中心以北,7.2,7.2,7.2
+其他西餐,Scheidegger,Scheidegger,0,市中心以北,7.1,7.1,7.1
+其他西餐,Papadakis,Papadakis,0,市中心以北,6.9,6.9,6.9
+其他西餐,Smokey Joe's,Smokey Joe's,0,,6.7,7.0,6.9
+其他西餐,Restaurant Cafe-Bistro Centrale,Restaurant Cafe-Bistro Centrale,0,市中心与火车站,6.9,6.9,6.9
+其他西餐,Malzraum,Malzraum,0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.0
+其他西餐,Parea,Parea,0,市中心以北,6.9,7.0,7.0
+其他西餐,McDonald's,McDonald's,0,市中心以北,7.0,7.0,6.9
+其他西餐,Gaststatte Hirschau im Engelischen Garten,Gaststatte Hirschau im Engelischen Garten,0,市中心以北,7.1,7.1,7.1
+其他西餐,Monac'O Schwabing,Monac'O Schwabing,0,市中心以北,7.1,7.1,7.1
+其他西餐,Lloyds,Lloyds,0,市中心以北,6.9,6.9,6.9
+其他西餐,Ringelnatz,Ringelnatz,0,市中心以北,7.0,6.9,7.1
+其他西餐,Ruff's Burger,Ruff's Burger,0,市中心以北,7.1,7.1,7.1
+其他西餐,Speisecafe Rigoletto,Speisecafe Rigoletto,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,Kapitales vom Rind,Kapitales vom Rind,0,市中心以北,7.2,7.2,7.2
+其他西餐,Zum Brunnwart,Zum Brunnwart,0,市中心以北,7.2,7.2,7.2
+其他西餐,Gasthaus am Olympiaturm,Gasthaus am Olympiaturm,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+其他西餐,Synantisis,Synantisis,0,市中心以北,7.0,7.0,7.0
+其他西餐,Zoozie'z,Zoozie'z,0,,7.2,7.2,7.2
+其他西餐,Rumpler,Rumpler,0,,7.1,7.1,6.8
+其他西餐,Zum Kreuzberger,Zum Kreuzberger,0,,6.8,6.8,7.1
+其他西餐,L'AMAR Organic Cafe Restaurant,L'AMAR Organic Cafe Restaurant,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Fraunhofer,Fraunhofer,0,市中心与火车站,7.2,6.8,7.2
+其他西餐,Pajarillo Verde UG,Pajarillo Verde UG,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Gute Nacht Wurst,Gute Nacht Wurst,0,市中心与火车站,6.9,7.0,7.0
+其他西餐,Itxaso,Itxaso,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Gärtnerplatz Alm,Gärtnerplatz Alm,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Niederlassung,Niederlassung,0,市中心与火车站,7.0,7.1,7.1
+其他西餐,Taverne Paros,Taverne Paros,0,市中心与火车站,7.2,6.8,6.8
+其他西餐,The Victorian House,The Victorian House,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Gasthaus Isarthor,Gasthaus Isarthor,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Klein-Bukarest,Klein-Bukarest,0,,7.0,7.0,6.9
+其他西餐,Gaststatte Grossmarkthalle,Gaststatte Grossmarkthalle,0,,7.1,7.1,7.1
+其他西餐,Pschorr-Krug,Pschorr-Krug,0,,6.9,7.0,6.9
+其他西餐,Meindleck,Meindleck,0,,7.1,7.1,7.0
+其他西餐,Sendlinger Augustiner,Sendlinger Augustiner,0,,7.2,7.2,7.2
+其他西餐,Nestroy-Garten,Nestroy-Garten,0,,7.0,6.9,6.9
+其他西餐,Agora,Agora,0,,7.1,7.1,7.1
+其他西餐,Wirtshaus Schlachthof,Wirtshaus Schlachthof,0,,6.9,7.0,6.9
+其他西餐,Spektakel,Spektakel,0,,7.1,7.1,7.1
+其他西餐,Italfisch,Italfisch,0,,7.1,7.1,7.1
+其他西餐,Iveria,Iveria,0,,7.5,7.1,7.1
+其他西餐,Cafe Omo Athiopisches Restaurant,Cafe Omo Athiopisches Restaurant,0,,7.0,7.0,7.0
+其他西餐,P1 Club,P1 Club,0,市中心以北,6.8,6.8,7.1
+其他西餐,Bogenhaeuser Hof,Bogenhaeuser Hof,0,市中心以北,7.2,7.2,7.2
+其他西餐,Alta Marea,Alta Marea,0,市中心以北,7.1,7.1,7.1
+其他西餐,Wirtshaus zur Marienburg,Wirtshaus zur Marienburg,0,伊萨尔河(Isar)东岸,7.1,7.1,7.5
+其他西餐,Dimos,Dimos,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+其他西餐,Mondial GBR,Mondial GBR,0,市中心与火车站,7.0,7.0,7.0
+其他西餐,Bergmannshof,Bergmannshof,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Retters Feinschmecker,Retters Feinschmecker,0,市中心与火车站,7.0,7.1,7.0
+其他西餐,Pitwalk,Pitwalk,0,市中心与火车站,7.0,7.1,7.0
+其他西餐,Lady Tigella,Lady Tigella,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Hundskugel,Hundskugel,0,市中心与火车站,6.8,6.8,7.1
+其他西餐,L & I,L & I,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Taverne Diogenis,Taverne Diogenis,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Bohne und Malz am Stachus,Bohne und Malz am Stachus,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Dubliner Irish Pub & Sports Bar,Dubliner Irish Pub & Sports Bar,0,市中心与火车站,6.8,7.1,7.1
+其他西餐,Restaurant Alter Hof,Restaurant Alter Hof,0,市中心与火车站,7.7,7.7,7.2
+其他西餐,OReillys Irish Pub,OReillys Irish Pub,0,市中心与火车站,7.1,7.1,7.1
+其他西餐,Pfistermuhle,Pfistermuhle,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Kuffler,Kuffler,0,市中心与火车站,6.8,6.8,7.2
+其他西餐,CA-BA-LU Burger & More,CA-BA-LU Burger & More,0,市中心以北,7.0,7.0,7.0
+其他西餐,Pfalzer Residenz Weinstube,Pfalzer Residenz Weinstube,0,市中心与火车站,7.2,7.2,7.2
+其他西餐,Liebighof,Liebighof,0,市中心与火车站,7.2,7.2,7.6
+其他西餐,Kytaro,Kytaro,0,市中心以北,7.2,7.2,7.2
+其他西餐,Gutshof Menterschwaige,Gutshof Menterschwaige,0,其他,7.2,6.8,7.2
+其他西餐,Restaurant Avli,Restaurant Avli,0,其他,7.3,7.1,7.1
+其他西餐,Gasthof Hinterbruehl,Gasthof Hinterbruehl,0,其他,7.1,7.1,7.1
+其他西餐,Terra Kreta,Terra Kreta,0,其他,7.1,7.1,7.1
+其他西餐,Harlachinger Jagdschlossl,Harlachinger Jagdschlossl,0,其他,7.2,7.2,7.2
+其他西餐,Alte Liebe im Kastanienhof,Alte Liebe im Kastanienhof,0,其他,6.9,7.0,7.0
+其他西餐,Zur Post,Zur Post,0,其他,7.0,6.9,6.9
+其他西餐,Ammos,Ammos,0,其他,7.0,6.9,7.0
+其他西餐,Lindengarten Wirtshaus Bar & Biergarten,Lindengarten Wirtshaus Bar & Biergarten,0,其他,7.2,7.2,7.2
+其他西餐,Restaurant Upper Eat Side,Restaurant Upper Eat Side,0,其他,7.5,7.1,7.1
+其他西餐,Schinabecks,Schinabecks,0,其他,6.9,7.0,7.0
+其他西餐,Haderner Augustiner,Haderner Augustiner,0,其他,6.8,6.8,7.1
+其他西餐,Brecherspitze,Brecherspitze,0,其他,7.0,7.0,7.0
+其他西餐,Tassilogarten,Tassilogarten,0,其他,7.1,7.1,7.1
+其他西餐,Taverna Knossos,Taverna Knossos,0,其他,6.9,6.9,7.0
+其他西餐,Cafe Huller,Cafe Huller,0,其他,7.0,7.0,6.9
+其他西餐,Apostels,Apostels,0,其他,7.1,7.1,7.1
+其他西餐,Paris Bar,Paris Bar,0,其他,6.7,6.7,6.7
+其他西餐,Belicious Burger,Belicious Burger,0,其他,7.1,7.1,6.8
+其他西餐,Kulturstrand,Kulturstrand,0,其他,6.9,7.0,7.0
+其他西餐,El Espanol,El Espanol,0,其他,7.2,7.2,7.2
+其他西餐,O Castelo,O Castelo,0,其他,7.1,7.1,7.1
+其他西餐,Cafiko,Cafiko,0,其他,7.0,6.9,7.0
+其他西餐,Wein Cantina,Wein Cantina,0,其他,7.1,7.1,7.1
+其他西餐,Escobar Cantina y Bar,Escobar Cantina y Bar,0,其他,7.2,7.2,7.2
+其他西餐,Molly Malone's,Molly Malone's,0,其他,7.1,7.1,7.1
+其他西餐,Ver O Peso,Ver O Peso,0,其他,7.1,7.1,7.1
+其他西餐,Piu Restaurant,Piu Restaurant,0,其他,7.0,7.0,7.0
+其他西餐,Cafe Muffathalle,Cafe Muffathalle,0,其他,7.0,6.9,6.9
+其他西餐,Biergarten am Muffatwerk,Biergarten am Muffatwerk,0,其他,6.9,6.9,7.0
+其他西餐,Mamounia Marrakech,Mamounia Marrakech,0,其他,7.1,7.1,7.1
+其他西餐,Johannis Cafe,Johannis Cafe,0,其他,7.0,7.0,7.1
+其他西餐,Aubinger Einkehr,Aubinger Einkehr,0,其他,6.9,6.9,6.9
+其他西餐,Los Faroles,Los Faroles,0,其他,7.0,7.0,7.0
+其他西餐,Asado Steak Gassnerstrasse,Asado Steak Gassnerstrasse,0,其他,7.1,7.1,6.8
+其他西餐,Burenwirt,Burenwirt,0,其他,7.0,7.0,7.0
+其他西餐,Schlosscafe im Palmenhaus,Schlosscafe im Palmenhaus,0,宁芬堡(Nymphenburg)周边,7.2,7.2,7.2
+其他西餐,Romantikhotel Inselmuhle,Romantikhotel Inselmuhle,0,其他,7.1,7.1,7.1
+其他西餐,Sakrisch Guat,Sakrisch Guat,0,其他,7.1,7.1,7.1
+其他西餐,Zur Allacher Muehle,Zur Allacher Muehle,0,其他,7.1,7.1,7.1
+其他西餐,Taverna Lakis,Taverna Lakis,0,,7.1,7.1,7.1
+其他西餐,Kistenpfennig,Kistenpfennig,0,,7.0,7.0,7.0
+其他西餐,See Biergarten Lerchenau,See Biergarten Lerchenau,0,,6.9,6.9,7.0
+其他西餐,Restaurant Poseidon,Restaurant Poseidon,0,,7.0,7.1,7.0
+其他西餐,Kleines Brauhaus Dicker Mann,Kleines Brauhaus Dicker Mann,0,伊萨尔河(Isar)东岸,7.2,7.2,7.2
+其他西餐,Antica Trattoria,Antica Trattoria,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+其他西餐,Cafe 111,Cafe 111,0,,7.0,6.9,7.0
+其他西餐,Bürgers,Bürgers,0,,7.0,7.0,7.0
+其他西餐,Korfu,Korfu,0,,7.0,7.1,6.9
+其他西餐,Munchner Haupt',Munchner Haupt',0,,6.9,6.9,7.0
+其他西餐,Bayrisches Schnitzel- & Hendlhaus,Bayrisches Schnitzel- & Hendlhaus,0,宁芬堡(Nymphenburg)周边,7.0,7.0,7.0
+其他西餐,Shinken Peter,Shinken Peter,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+其他西餐,Ryan's Muddy Boot,Ryan's Muddy Boot,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+其他西餐,NTAKOS,NTAKOS,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,7.0
+其他西餐,Ewiges Licht,Ewiges Licht,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+其他西餐,Grosswirt,Grosswirt,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,The Victorian House,The Victorian House,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.5
+其他西餐,Trattoria Kurfurst Maximilian,Trattoria Kurfurst Maximilian,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,"Munchen, Alter Wirt, Fraunbergstrasse","Munchen, Alter Wirt, Fraunbergstrasse",0,,6.7,7.0,7.0
+其他西餐,Dobmann s,Dobmann s,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+其他西餐,VIB Grill & Lounge,VIB Grill & Lounge,0,其他,7.0,7.0,7.0
+其他西餐,Afros,Afros,0,其他,7.0,7.1,7.0
+其他西餐,35 milli(m)eter,35 milli(m)eter,0,市中心与火车站,6.8,6.8,7.2
+其他西餐,Restaurant Funkstadl,Restaurant Funkstadl,0,市中心与火车站,7.1,6.8,6.8
+其他西餐,Byblos,Byblos,0,市中心以北,6.8,7.1,7.1
+其他西餐,Gut Keferloh No 1,Gut Keferloh No 1,0,市中心以北,6.8,6.8,7.1
+其他西餐,Kraftakt,Kraftakt,0,市中心与火车站,7.1,6.8,7.1
+其他西餐,Cafe am Marienplatz,Cafe am Marienplatz,0,市中心与火车站,6.8,6.8,7.2
+其他西餐,Ederer,Ederer,0,市中心与火车站,6.8,7.2,7.2
+其他西餐,Restaurant Destina,Restaurant Destina,0,市中心与火车站,7.1,6.8,7.1
+其他西餐,Schuhbecks Teatro,Schuhbecks Teatro,0,伊萨尔河(Isar)东岸,6.8,7.2,7.2
+其他西餐,CUBE by lifestyle,CUBE by lifestyle,0,其他,6.8,7.1,6.8
+其他西餐,Paros,Paros,0,其他,7.2,6.8,6.8
+其他西餐,Augustiner am Dante,Augustiner am Dante,0,奥林匹亚公园(Olympiapark)周边,6.8,6.8,7.1
+其他西餐,Lustspielhaus,Lustspielhaus,0,市中心以北,6.9,7.0,6.9
+其他西餐,Der Tannenbaum,Der Tannenbaum,0,市中心与火车站,6.9,6.9,6.9
+其他西餐,Zirbel Stuben,Zirbel Stuben,0,其他,6.9,6.9,6.9
+其他西餐,A la Grece,A la Grece,0,市中心以北,6.7,6.7,6.7
+中餐,China-Restaurant Mandarin,China-Restaurant Mandarin,0,市中心与火车站,7.7,7.9,8.2
+中餐,塔克拉玛干,塔克拉玛干,0,市中心与火车站,6.6,6.6,6.6
+中餐,大上海饭店,大上海饭店,0,市中心与火车站,7.1,7.4,6.3
+中餐,Man Fat,Man Fat,0,市中心以北,7.9,7.9,7.9
+中餐,CHI,CHI,0,市中心与火车站,7.5,7.5,7.8
+中餐,香江楼,香江楼,0,其他,6.8,5.9,6.4
+中餐,金鱼,金鱼,0,伊萨尔河(Isar)东岸,6.6,6.6,6.5
+中餐,Jackie Chan,Jackie Chan,0,其他,8.2,8.3,8.3
+中餐,喜万年酒楼,喜万年酒楼,0,其他,7.0,7.0,7.0
+中餐,你好,你好,0,市中心以北,7.4,7.4,7.2
+中餐,China Restaurant Goldene Lilie,China Restaurant Goldene Lilie,0,伊萨尔河(Isar)东岸,6.9,7.4,7.3
+中餐,Wok & Roll,Wok & Roll,0,市中心与火车站,6.7,6.7,5.4
+中餐,香港大酒楼,香港大酒楼,0,市中心以北,7.1,7.1,7.1
+中餐,Asien Perle,Asien Perle,0,其他,7.1,7.1,7.1
+中餐,Frau Li,Frau Li,0,市中心与火车站,6.9,7.0,7.0
+中餐,Kashgar,Kashgar,0,市中心与火车站,7.1,7.0,6.9
+中餐,Asia,Asia,0,市中心以北,6.9,6.9,6.9
+中餐,Hong Kong,Hong Kong,0,市中心以北,7.0,7.0,7.0
+中餐,Taco Libre,Taco Libre,0,市中心与火车站,7.1,7.1,7.1
+中餐,Han She,Han She,0,市中心以北,7.0,7.0,6.9
+中餐,Jahreszeiten Lobby,Jahreszeiten Lobby,0,市中心与火车站,7.0,7.1,7.1
+中餐,China Express Restaurant,China Express Restaurant,0,市中心与火车站,6.7,6.9,6.7
+中餐,Fuyuan,Fuyuan,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+中餐,China Moon Terrace,China Moon Terrace,0,市中心与火车站,7.1,7.1,7.3
+中餐,LeDu Happy Dumplings,LeDu Happy Dumplings,0,其他,7.0,7.0,7.0
+中餐,Chi Bao Bao,Chi Bao Bao,0,伊萨尔河(Isar)东岸,7.1,7.1,6.8
+中餐,Friesische Teestube,Friesische Teestube,0,市中心以北,7.0,7.0,7.1
+中餐,四川小吃,四川小吃,0,市中心与火车站,0.0,0.0,0.0
+中餐,Happy Meeting,Happy Meeting,0,,0.0,0.0,0.0
+中餐,Tse Yang,Tse Yang,0,,0.0,0.0,0.0
+中餐,Princess Garden,Princess Garden,0,,0.0,0.0,0.0
+中餐,Bong-Hong,Bong-Hong,0,,0.0,0.0,0.0
+中餐,Yee Chino,Yee Chino,0,,0.0,0.0,0.0
+中餐,Bei Ling,Bei Ling,0,,0.0,0.0,0.0
+中餐,Wok-Man,Wok-Man,0,,0.0,0.0,0.0
+中餐,China Restaurant Peking,China Restaurant Peking,0,,0.0,0.0,0.0
+中餐,Fai Chi,Fai Chi,0,,0.0,0.0,0.0
+中餐,Mai Lin,Mai Lin,0,,0.0,0.0,0.0
+中餐,Peking Ente,Peking Ente,0,,0.0,0.0,0.0
+中餐,Malakai,Malakai,0,,0.0,0.0,0.0
+中餐,金鱼酒家(Fuh-Yiu),金鱼酒家(Fuh-Yiu),0,,0.0,0.0,0.0
+日韩料理,Shoya (am Platzl),Shoya (am Platzl),0,市中心与火车站,7.5,7.4,7.1
+日韩料理,Kushi-Tei,Kushi-Tei,0,市中心以北,7.3,7.3,7.6
+日韩料理,TENMAYA,TENMAYA,0,市中心以北,7.5,7.5,7.5
+日韩料理,Takumi Japanese,Takumi Japanese,0,奥林匹亚公园(Olympiapark)周边,7.1,6.8,7.1
+日韩料理,Sushiya Bento,Sushiya Bento,0,,7.0,6.9,6.9
+日韩料理,Bento Ya,Bento Ya,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.0
+日韩料理,Emiko Restaurant & Bar,Emiko Restaurant & Bar,0,市中心与火车站,7.2,7.2,7.2
+日韩料理,Koi,Koi,0,市中心以北,7.2,7.2,7.2
+日韩料理,Sushi Sano,Sushi Sano,0,市中心与火车站,7.2,7.2,6.8
+日韩料理,Sushibar City,Sushibar City,0,市中心与火车站,7.1,7.0,7.0
+日韩料理,Kaiten Asia,Kaiten Asia,0,市中心与火车站,7.1,7.1,6.8
+日韩料理,Toshi,Toshi,0,市中心与火车站,7.2,7.2,7.2
+日韩料理,Sushi & Soul,Sushi & Soul,0,,7.2,7.2,7.2
+日韩料理,Mitani,Mitani,0,其他,7.2,7.2,7.2
+日韩料理,Mangostin Asia,Mangostin Asia,0,,7.2,7.2,7.2
+日韩料理,Kokoro,Kokoro,0,市中心以北,6.9,6.9,6.9
+日韩料理,Ohayou,Ohayou,0,市中心以北,7.1,7.1,6.8
+日韩料理,Sushi Restaurant Ichi Ban,Sushi Restaurant Ichi Ban,0,其他,7.1,7.1,7.1
+日韩料理,Shoya,Shoya,0,其他,7.1,7.1,7.1
+日韩料理,Restaurant Asahi,Restaurant Asahi,0,市中心以北,7.1,7.1,7.1
+日韩料理,No Mi Ya,No Mi Ya,0,其他,7.1,7.1,7.1
+日韩料理,KITCHO,KITCHO,0,市中心与火车站,7.1,7.1,7.1
+日韩料理,Izakaya J-Bar,Izakaya J-Bar,0,,7.1,7.0,7.1
+日韩料理,Sunrise,Sunrise,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+日韩料理,Asia Sushi Wok,Asia Sushi Wok,0,市中心与火车站,6.9,6.9,6.9
+日韩料理,Japanisches Restaurant Tsuki ji,Japanisches Restaurant Tsuki ji,0,,7.0,7.0,7.0
+日韩料理,Sushi Circle,Sushi Circle,0,,7.0,7.1,6.9
+日韩料理,Kaiseki,Kaiseki,0,市中心以北,7.1,7.0,7.0
+日韩料理,Cent Sushi,Cent Sushi,0,伊萨尔河(Isar)东岸,7.2,7.2,7.2
+日韩料理,Fujimoto Japanisches Restaurant,Fujimoto Japanisches Restaurant,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+日韩料理,Yuki hana munich,Yuki hana munich,0,市中心与火车站,7.0,7.0,7.0
+日韩料理,Thai Basilikum,Thai Basilikum,0,市中心与火车站,6.7,6.7,6.9
+日韩料理,Akakiko Riem-Arcaden,Akakiko Riem-Arcaden,0,伊萨尔河(Isar)东岸,6.8,6.8,6.8
+日韩料理,Seoul,Seoul,0,市中心以北,6.8,6.8,6.8
+日韩料理,Kims Restaurant,Kims Restaurant,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,6.8
+日韩料理,Japa Tapa,Japa Tapa,0,市中心与火车站,6.9,6.9,6.7
+日韩料理,Tokyo,Tokyo,0,市中心与火车站,6.9,6.7,6.9
+日韩料理,Haguruma,Haguruma,0,,7.2,7.2,7.2
+日韩料理,Jin Restaurant,Jin Restaurant,0,市中心与火车站,7.2,7.2,7.2
+日韩料理,Japan Sushi Gourmet,Japan Sushi Gourmet,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+日韩料理,Tokami,Tokami,0,市中心以北,7.1,7.1,7.1
+日韩料理,Wasabi Sushi & Nippon Kueche,Wasabi Sushi & Nippon Kueche,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+日韩料理,Sushi Se,Sushi Se,0,其他,6.9,6.9,6.9
+日韩料理,Campanula,Campanula,0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.0
+日韩料理,Kushiage ENN,Kushiage ENN,0,市中心以北,7.1,7.0,7.0
+日韩料理,Bento Box,Bento Box,0,市中心以北,7.2,7.2,7.2
+日韩料理,Fujikeiten,Fujikeiten,0,市中心以北,6.8,6.8,6.8
+日韩料理,Kims Sushi,Kims Sushi,0,市中心以北,7.0,7.0,6.9
+日韩料理,Sushi Express,Sushi Express,0,市中心以北,7.1,7.1,7.1
+日韩料理,NamViet,NamViet,0,伊萨尔河(Isar)东岸,7.0,6.9,6.7
+日韩料理,Arisu,Arisu,0,市中心以北,7.1,7.1,7.0
+日韩料理,Restaurant Ngon,Restaurant Ngon,0,伊萨尔河(Isar)东岸,6.9,7.0,6.9
+日韩料理,Fu Ji San Sushi Restaurant,Fu Ji San Sushi Restaurant,0,其他,6.9,6.9,6.9
+更多亚洲菜,Taklamakan,Taklamakan,0,市中心与火车站,8.1,7.9,7.9
+更多亚洲菜,Thai China,Thai China,0,市中心与火车站,6.9,6.6,6.7
+更多亚洲菜,Majestic Asia Restaurant,Majestic Asia Restaurant,0,,7.1,7.5,7.5
+更多亚洲菜,香港城饭店,香港城饭店,0,奥林匹亚公园(Olympiapark)周边,7.5,7.5,7.5
+更多亚洲菜,Asia Today,Asia Today,0,市中心与火车站,7.0,7.1,7.0
+更多亚洲菜,Manam Thai Food & Sweet,Manam Thai Food & Sweet,0,其他,7.5,7.2,7.8
+更多亚洲菜,China Restaurant Goldene Lilie,China Restaurant Goldene Lilie,0,伊萨尔河(Isar)东岸,6.9,7.4,7.3
+更多亚洲菜,Mehek,Mehek,0,市中心以北,8.1,8.1,8.1
+更多亚洲菜,Vietnam-Thai-Garden,Vietnam-Thai-Garden,0,市中心与火车站,7.1,7.3,7.1
+更多亚洲菜,Sasou,Sasou,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,Pars Persian Restaurant,Pars Persian Restaurant,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多亚洲菜,Rainbow Thai-Kitchen & Sushi,Rainbow Thai-Kitchen & Sushi,0,市中心与火车站,7.1,7.1,7.1
+更多亚洲菜,Thai Phuc,Thai Phuc,0,市中心与火车站,6.9,6.9,6.9
+更多亚洲菜,Kaiten Asia,Kaiten Asia,0,市中心与火车站,7.1,7.1,6.8
+更多亚洲菜,Reiskorn,Reiskorn,0,其他,6.9,6.9,6.9
+更多亚洲菜,Geisels Werneckhof,Geisels Werneckhof,0,市中心以北,7.7,7.2,7.2
+更多亚洲菜,Royal India,Royal India,0,市中心与火车站,7.3,7.3,7.1
+更多亚洲菜,Mongo's Restaurant,Mongo's Restaurant,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,Yum - Thai Kitchen & Bar,Yum - Thai Kitchen & Bar,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,ZEN - THE BEST OF PAN ASIAN CUISINE,ZEN - THE BEST OF PAN ASIAN CUISINE,0,市中心以北,7.2,7.2,7.2
+更多亚洲菜,Schmock,Schmock,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多亚洲菜,Mangostin Asia,Mangostin Asia,0,,7.2,7.2,7.2
+更多亚洲菜,Dhaba,Dhaba,0,市中心以北,7.2,7.2,7.2
+更多亚洲菜,Taj Mahal,Taj Mahal,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多亚洲菜,"Banyan, Vietnamesisches Restaurant","Banyan, Vietnamesisches Restaurant",0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,KimSang Panasia Cuisine,KimSang Panasia Cuisine,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Kaman Imbiss,Kaman Imbiss,0,其他,6.9,6.9,6.9
+更多亚洲菜,Maharani,Maharani,0,,7.1,7.1,6.8
+更多亚洲菜,Makalu Restaurant,Makalu Restaurant,0,,7.1,7.0,7.0
+更多亚洲菜,Mongkok - Kapuzinerstrasse 39,Mongkok - Kapuzinerstrasse 39,0,其他,7.1,7.1,7.1
+更多亚洲菜,Rabiang Thai Restaurant,Rabiang Thai Restaurant,0,市中心以北,7.1,7.0,7.0
+更多亚洲菜,Chantra,Chantra,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多亚洲菜,Kao Kao,Kao Kao,0,市中心与火车站,7.1,7.1,7.1
+更多亚洲菜,Sunrise,Sunrise,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多亚洲菜,Kun-Tuk,Kun-Tuk,0,市中心以北,7.2,7.2,7.2
+更多亚洲菜,Asia Sushi Wok,Asia Sushi Wok,0,市中心与火车站,6.9,6.9,6.9
+更多亚洲菜,Viethaus Muenchen,Viethaus Muenchen,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多亚洲菜,Mae Thai,Mae Thai,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+更多亚洲菜,Rice,Rice,0,市中心与火车站,7.0,7.1,7.0
+更多亚洲菜,Warung Bali,Warung Bali,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多亚洲菜,Lua Moi,Lua Moi,0,,7.1,7.1,7.0
+更多亚洲菜,Thuy's Restaurant,Thuy's Restaurant,0,,7.2,7.2,7.2
+更多亚洲菜,Antep Sofrasi,Antep Sofrasi,0,市中心与火车站,7.1,7.0,7.0
+更多亚洲菜,Taj,Taj,0,市中心以北,7.1,7.1,7.0
+更多亚洲菜,Ganga,Ganga,0,市中心与火车站,7.1,7.1,7.1
+更多亚洲菜,Basmati,Basmati,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+更多亚洲菜,Ganesha,Ganesha,0,其他,7.1,7.1,7.1
+更多亚洲菜,Yak and Yeti,Yak and Yeti,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多亚洲菜,Thailand,Thailand,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Ratchada,Ratchada,0,市中心与火车站,7.0,7.0,7.0
+更多亚洲菜,Pho Ha Noi,Pho Ha Noi,0,其他,7.1,7.0,7.1
+更多亚洲菜,Koriander Too,Koriander Too,0,其他,7.3,7.1,7.1
+更多亚洲菜,Restaurant Hoa Quynh,Restaurant Hoa Quynh,0,,7.1,7.1,7.1
+更多亚洲菜,Lotus Lounge,Lotus Lounge,0,其他,7.2,7.2,7.2
+更多亚洲菜,Cohen's,Cohen's,0,市中心以北,7.2,7.2,7.2
+更多亚洲菜,CyClo,CyClo,0,市中心以北,7.2,7.2,7.2
+更多亚洲菜,Mai-Vietnam,Mai-Vietnam,0,市中心与火车站,7.1,7.1,6.8
+更多亚洲菜,Charlie,Charlie,0,其他,7.1,7.1,7.1
+更多亚洲菜,Natraj,Natraj,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多亚洲菜,SWAGAT Indisches Restaurant,SWAGAT Indisches Restaurant,0,市中心以北,7.2,7.2,7.2
+更多亚洲菜,Ifang,Ifang,0,市中心与火车站,7.0,6.9,6.9
+更多亚洲菜,Nam Giao 31,Nam Giao 31,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,Surya,Surya,0,伊萨尔河(Isar)东岸,7.1,7.0,7.0
+更多亚洲菜,Thai Basilikum,Thai Basilikum,0,市中心与火车站,6.7,6.7,6.9
+更多亚洲菜,MiMi Asia Restaurant,MiMi Asia Restaurant,0,市中心与火车站,7.3,7.1,7.1
+更多亚洲菜,Altin Dilim,Altin Dilim,0,市中心与火车站,7.0,7.0,7.0
+更多亚洲菜,Co Be,Co Be,0,市中心以北,7.0,7.1,7.0
+更多亚洲菜,Ninh Restaurant,Ninh Restaurant,0,,7.0,7.0,7.0
+更多亚洲菜,Shalimar,Shalimar,0,市中心与火车站,7.0,7.0,7.0
+更多亚洲菜,Vanty Asia Food Sushi Bar,Vanty Asia Food Sushi Bar,0,,6.7,6.9,6.9
+更多亚洲菜,Yum 2 Take,Yum 2 Take,0,市中心与火车站,7.2,6.8,6.8
+更多亚洲菜,Hue House,Hue House,0,,7.1,7.1,7.1
+更多亚洲菜,Cafe Altschwabing,Cafe Altschwabing,0,市中心以北,7.2,7.2,7.2
+更多亚洲菜,Eclipse Grill Bar,Eclipse Grill Bar,0,市中心以北,7.2,7.2,7.2
+更多亚洲菜,Anh-Thu,Anh-Thu,0,市中心以北,7.2,7.2,7.2
+更多亚洲菜,Monsoon Restaurant,Monsoon Restaurant,0,,7.2,7.2,7.2
+更多亚洲菜,Palast der Winde,Palast der Winde,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,Jack Glockenbach,Jack Glockenbach,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,Kaimug,Kaimug,0,市中心与火车站,7.2,7.2,6.8
+更多亚洲菜,Nigin,Nigin,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,Garam Masala,Garam Masala,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,Prinz Myshkin,Prinz Myshkin,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,Istanbul Restaurant,Istanbul Restaurant,0,市中心与火车站,7.1,7.1,6.8
+更多亚洲菜,Vietha Vietnam Cuisine,Vietha Vietnam Cuisine,0,市中心与火车站,7.1,7.1,7.0
+更多亚洲菜,Maharani,Maharani,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多亚洲菜,Schall und Rauch,Schall und Rauch,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Plaa Uan,Plaa Uan,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Vinh's Restaurant,Vinh's Restaurant,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多亚洲菜,Sangam,Sangam,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Shiraj,Shiraj,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多亚洲菜,HQ-Wok Foodstyle,HQ-Wok Foodstyle,0,市中心以北,6.9,6.9,6.9
+更多亚洲菜,Pearl Garden,Pearl Garden,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Thaimama,Thaimama,0,市中心与火车站,7.0,7.1,6.9
+更多亚洲菜,Hong Kong Bar,Hong Kong Bar,0,,7.1,7.1,7.1
+更多亚洲菜,Food Couturque,Food Couturque,0,市中心与火车站,6.9,6.9,6.9
+更多亚洲菜,Anh's-Viet,Anh's-Viet,0,市中心与火车站,7.1,7.1,7.1
+更多亚洲菜,Sitar,Sitar,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Liman,Liman,0,其他,6.9,6.9,6.9
+更多亚洲菜,Bombay Tandoori,Bombay Tandoori,0,其他,7.1,7.1,7.1
+更多亚洲菜,Delhi Palace,Delhi Palace,0,其他,7.1,7.1,7.0
+更多亚洲菜,Jaipur Palace,Jaipur Palace,0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.0
+更多亚洲菜,Viet Thai Bistro,Viet Thai Bistro,0,市中心以北,7.0,7.0,6.9
+更多亚洲菜,Shiva,Shiva,0,市中心以北,7.0,7.0,7.0
+更多亚洲菜,Hanoi Fusion Munich,Hanoi Fusion Munich,0,市中心以北,6.9,6.9,6.9
+更多亚洲菜,MN,MN,0,,6.9,6.9,6.9
+更多亚洲菜,Garden Palace - Shalimar,Garden Palace - Shalimar,0,市中心与火车站,6.9,6.9,6.9
+更多亚洲菜,Halong Bay,Halong Bay,0,,7.0,7.0,6.9
+更多亚洲菜,Pitahaya,Pitahaya,0,其他,7.1,7.0,7.0
+更多亚洲菜,Siddhartha,Siddhartha,0,,7.0,7.0,7.0
+更多亚洲菜,Restaurant Harem,Restaurant Harem,0,,7.0,7.0,7.0
+更多亚洲菜,Satyam Restaurant,Satyam Restaurant,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多亚洲菜,Karma Lounge,Karma Lounge,0,,6.9,6.9,6.9
+更多亚洲菜,Quan Com,Quan Com,0,奥林匹亚公园(Olympiapark)周边,7.0,6.9,7.0
+更多亚洲菜,Sangeet,Sangeet,0,市中心以北,7.2,7.2,7.2
+更多亚洲菜,EAT Life Kitchen,EAT Life Kitchen,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,7.0
+更多亚洲菜,Sarovar,Sarovar,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Chopan,Chopan,0,奥林匹亚公园(Olympiapark)周边,7.2,6.8,7.2
+更多亚洲菜,Deeba,Deeba,0,市中心以北,7.2,7.2,7.2
+更多亚洲菜,Lara 44,Lara 44,0,市中心以北,6.7,7.0,6.9
+更多亚洲菜,Ha Noi,Ha Noi,0,市中心以北,7.0,7.0,7.0
+更多亚洲菜,Vinh's,Vinh's,0,奥林匹亚公园(Olympiapark)周边,7.0,6.7,6.9
+更多亚洲菜,Nguyen,Nguyen,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Mumbai,Mumbai,0,市中心以北,7.0,6.9,7.0
+更多亚洲菜,ComViet,ComViet,0,市中心以北,6.7,6.9,6.7
+更多亚洲菜,Sinans,Sinans,0,,7.2,7.2,7.2
+更多亚洲菜,Shere Punjab,Shere Punjab,0,市中心以北,6.8,6.8,6.8
+更多亚洲菜,Noor Jahan,Noor Jahan,0,市中心以北,7.0,7.0,6.9
+更多亚洲菜,MyThai Kitchen,MyThai Kitchen,0,市中心以北,7.0,7.0,7.0
+更多亚洲菜,Restaurant Aangan,Restaurant Aangan,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Lemar,Lemar,0,市中心以北,7.1,6.8,7.1
+更多亚洲菜,Fujikeiten,Fujikeiten,0,市中心以北,6.8,6.8,6.8
+更多亚洲菜,Viet Bistro,Viet Bistro,0,市中心以北,7.0,7.0,7.0
+更多亚洲菜,Kims Sushi,Kims Sushi,0,市中心以北,7.0,7.0,6.9
+更多亚洲菜,Bonjour Vietnam,Bonjour Vietnam,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Thu,Thu,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Sushi Express,Sushi Express,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Kirschblute,Kirschblute,0,,7.1,7.1,7.1
+更多亚洲菜,Champor,Champor,0,,7.2,7.2,7.2
+更多亚洲菜,Der Kleine Chinese,Der Kleine Chinese,0,,7.1,6.8,6.8
+更多亚洲菜,Green Leaf,Green Leaf,0,,7.0,7.0,7.0
+更多亚洲菜,Annam,Annam,0,,7.2,7.2,7.2
+更多亚洲菜,Tonkin,Tonkin,0,市中心与火车站,7.0,7.0,7.0
+更多亚洲菜,Shida,Shida,0,市中心与火车站,6.9,6.9,6.7
+更多亚洲菜,Alpen Imbiss,Alpen Imbiss,0,市中心与火车站,7.0,7.0,6.9
+更多亚洲菜,Cocosnuss,Cocosnuss,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,GOA,GOA,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,Lemar,Lemar,0,市中心与火车站,7.0,7.0,7.0
+更多亚洲菜,Camly Restaurant,Camly Restaurant,0,,7.0,6.9,6.9
+更多亚洲菜,Restaurant Jasmin,Restaurant Jasmin,0,,7.2,7.2,7.2
+更多亚洲菜,Thang Long,Thang Long,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Namaste,Namaste,0,市中心以北,7.1,7.1,7.1
+更多亚洲菜,Ruen Thai,Ruen Thai,0,市中心与火车站,7.2,7.2,7.2
+更多亚洲菜,Benjarong,Benjarong,0,市中心与火车站,7.1,6.8,7.1
+更多亚洲菜,Cocos,Cocos,0,其他,7.0,7.0,6.9
+更多亚洲菜,Surbahar,Surbahar,0,其他,7.1,7.1,7.1
+更多亚洲菜,Kamasutra Indisches Restaurant & Bar,Kamasutra Indisches Restaurant & Bar,0,其他,7.1,7.1,7.0
+更多亚洲菜,Indian Village,Indian Village,0,,7.1,7.1,7.1
+更多亚洲菜,Halong Bay,Halong Bay,0,,7.1,7.1,7.0
+更多亚洲菜,Lal Qila,Lal Qila,0,,7.1,7.1,7.1
+更多亚洲菜,Lemontrees,Lemontrees,0,,7.1,7.1,7.1
+更多亚洲菜,Bollywood Restaurant,Bollywood Restaurant,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多亚洲菜,Pardi,Pardi,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多亚洲菜,Samrat,Samrat,0,市中心与火车站,6.8,6.8,6.8
+更多亚洲菜,Indisches Restaurant Safran Sheikh Rony,Indisches Restaurant Safran Sheikh Rony,0,其他,7.1,6.8,6.8
+更多亚洲菜,Cafe Mocca,Cafe Mocca,0,市中心以北,6.9,6.7,6.9
+更多亚洲菜,Swagatam,Swagatam,0,市中心以北,6.7,6.7,6.7
+更多亚洲菜,Bangkok House,Bangkok House,0,市中心与火车站,6.9,6.9,6.9
+快餐简餐,Hirschgarten,Hirschgarten,0,,7.3,7.3,7.2
+快餐简餐,Rusticana,Rusticana,0,市中心与火车站,7.5,7.5,7.5
+快餐简餐,Cafe Tijuana,Cafe Tijuana,0,市中心以北,6.7,7.5,7.0
+快餐简餐,Biker's Lodge in der BMW Welt,Biker's Lodge in der BMW Welt,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+快餐简餐,Pizza Hut,Pizza Hut,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+快餐简餐,Dinnerhopping,Dinnerhopping,0,市中心与火车站,7.1,7.3,7.3
+快餐简餐,Champions Sports Bar,Champions Sports Bar,0,市中心以北,7.2,7.2,7.2
+快餐简餐,Wirtshaus zur Brez'n,Wirtshaus zur Brez'n,0,市中心以北,7.2,7.2,7.2
+快餐简餐,Gandl,Gandl,0,市中心与火车站,7.2,7.2,7.2
+快餐简餐,M.C. Mueller,M.C. Mueller,0,市中心与火车站,7.2,7.2,7.2
+快餐简餐,Burger House,Burger House,0,市中心与火车站,7.2,7.2,7.2
+快餐简餐,Hans im Gluck Burgergrill,Hans im Gluck Burgergrill,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+快餐简餐,Gourmeats,Gourmeats,0,市中心以北,7.1,7.3,7.1
+快餐简餐,Das GaumenSpiel,Das GaumenSpiel,0,市中心以北,7.1,7.1,7.1
+快餐简餐,Burrito Company,Burrito Company,0,,7.1,7.1,7.1
+快餐简餐,Chantra,Chantra,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+快餐简餐,Julep's,Julep's,0,其他,7.1,7.1,7.1
+快餐简餐,KFC,KFC,0,,7.0,7.0,6.9
+快餐简餐,McDonald's Restaurant,McDonald's Restaurant,0,市中心以北,7.0,7.0,7.0
+快餐简餐,Burger & Bier,Burger & Bier,0,市中心与火车站,7.0,7.0,7.0
+快餐简餐,Strudelparadies,Strudelparadies,0,市中心以北,6.9,6.9,6.9
+快餐简餐,Starbucks,Starbucks,0,市中心与火车站,6.9,7.0,7.0
+快餐简餐,Rotkaeppchen BurgerGrill,Rotkaeppchen BurgerGrill,0,市中心与火车站,7.1,7.1,7.1
+快餐简餐,Herzschlag,Herzschlag,0,其他,7.0,7.0,7.0
+快餐简餐,Taverne Lithos,Taverne Lithos,0,其他,7.1,7.3,7.1
+快餐简餐,BNM Restaurant,BNM Restaurant,0,市中心以北,7.2,7.2,7.2
+快餐简餐,Flames American Bar & Grill,Flames American Bar & Grill,0,其他,7.0,7.0,7.0
+快餐简餐,Havana Club,Havana Club,0,市中心与火车站,7.1,7.1,7.1
+快餐简餐,World Coffee,World Coffee,0,市中心与火车站,7.0,7.0,6.9
+快餐简餐,"Maxwells, The Sports Restaurant & Bar","Maxwells, The Sports Restaurant & Bar",0,市中心与火车站,6.9,6.9,6.9
+快餐简餐,Hans im Glueck - Burgergrill,Hans im Glueck - Burgergrill,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+快餐简餐,Kreta Grill,Kreta Grill,0,市中心以北,7.1,7.1,7.1
+快餐简餐,Dinermite,Dinermite,0,市中心以北,7.1,7.1,7.3
+快餐简餐,Eisdiele Trampolin,Eisdiele Trampolin,0,市中心以北,7.1,7.1,7.1
+快餐简餐,"Merlins Vinothek, Cafe & Weinhandel","Merlins Vinothek, Cafe & Weinhandel",0,市中心与火车站,6.9,6.9,6.9
+快餐简餐,Klinglwirt,Klinglwirt,0,其他,7.1,7.1,7.1
+快餐简餐,Hamburgerei,Hamburgerei,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+快餐简餐,Redhot,Redhot,0,市中心以北,7.1,7.1,7.1
+快餐简餐,Fresh Bagels and Muffins,Fresh Bagels and Muffins,0,市中心以北,7.1,7.1,7.1
+快餐简餐,Papa Joes,Papa Joes,0,市中心以北,6.9,6.9,6.9
+快餐简餐,Zoozie'z,Zoozie'z,0,,7.2,7.2,7.2
+快餐简餐,ess9,ess9,0,,6.7,7.1,7.0
+快餐简餐,Bar Reichenbach,Bar Reichenbach,0,市中心与火车站,6.9,6.9,7.0
+快餐简餐,Kuffler,Kuffler,0,市中心与火车站,6.8,6.8,7.2
+快餐简餐,CA-BA-LU Burger & More,CA-BA-LU Burger & More,0,市中心以北,7.0,7.0,7.0
+快餐简餐,Ristorante Tiziano,Ristorante Tiziano,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+快餐简餐,il Mondo,il Mondo,0,其他,7.1,7.1,7.1
+快餐简餐,Dean & David,Dean & David,0,市中心与火车站,0.0,0.0,0.0
+海鲜,Gosch München Hauptbahnhof,Gosch München Hauptbahnhof,0,市中心与火车站,6.7,6.3,6.3
+海鲜,Fisch Witte,Fisch Witte,0,市中心与火车站,7.1,6.9,6.7
+海鲜,Austernkeller,Austernkeller,0,市中心与火车站,7.2,7.2,7.2
+海鲜,Poseidon am Viktualienmarkt,Poseidon am Viktualienmarkt,0,市中心与火车站,7.1,7.1,7.1
+烧烤,People's Bar,People's Bar,0,市中心与火车站,8.4,8.4,8.4
+烧烤,Rusticana,Rusticana,0,市中心与火车站,7.5,7.5,7.5
+烧烤,H-E-A-R-T Restaurant & Bar,H-E-A-R-T Restaurant & Bar,0,市中心与火车站,7.2,7.2,7.2
+烧烤,Mongo's Restaurant,Mongo's Restaurant,0,市中心与火车站,7.2,7.2,7.2
+烧烤,Weinhaus Schneider,Weinhaus Schneider,0,市中心与火车站,7.2,7.2,7.2
+烧烤,Gourmeats,Gourmeats,0,市中心以北,7.1,7.3,7.1
+烧烤,Ksar Club,Ksar Club,0,市中心与火车站,7.0,7.0,7.0
+烧烤,Grill & Grace Restaurant,Grill & Grace Restaurant,0,,7.1,7.5,7.1
+烧烤,Hostaria Rò e Bunì,Hostaria Rò e Bunì,0,市中心以北,7.1,7.1,7.1
+烧烤,Eclipse Grill Bar,Eclipse Grill Bar,0,市中心以北,7.2,7.2,7.2
+烧烤,Cosmogrill,Cosmogrill,0,市中心与火车站,7.2,7.2,7.2
+烧烤,P.Korn,P.Korn,0,奥林匹亚公园(Olympiapark)周边,7.5,7.5,7.1
+烧烤,Redhot,Redhot,0,市中心以北,7.1,7.1,7.1
+烧烤,Savanna,Savanna,0,,7.2,7.6,7.2
+烧烤,Rattlesnake Saloon,Rattlesnake Saloon,0,,7.0,7.0,7.1
+比萨,Restaurant Italy,Restaurant Italy,0,市中心以北,8.0,8.0,8.0
+比萨,Nero Pizza & Grill,Nero Pizza & Grill,0,市中心与火车站,7.0,6.9,6.9
+比萨,Call a Pizza,Call a Pizza,0,市中心以北,6.9,6.9,6.9
+比萨,Mimmo E Co,Mimmo E Co,0,其他,7.3,7.1,7.1
+比萨,Pipasa,Pipasa,0,市中心与火车站,7.2,7.2,7.2
+比萨,Berni's Pizzeria,Berni's Pizzeria,0,市中心与火车站,7.2,7.2,7.2
+比萨,Caruso,Caruso,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+比萨,Cenone,Cenone,0,其他,6.9,6.9,6.9
+比萨,Trattoria Da Fausto,Trattoria Da Fausto,0,市中心以北,7.2,7.2,7.2
+比萨,Osteria der Katzlmacher,Osteria der Katzlmacher,0,市中心与火车站,7.2,7.2,7.2
+比萨,Pizzesco,Pizzesco,0,其他,7.2,7.2,7.2
+比萨,Osteria da Antonio,Osteria da Antonio,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+比萨,iphitos RESTAURANT,iphitos RESTAURANT,0,市中心以北,7.0,7.0,7.1
+比萨,La Pizzetta,La Pizzetta,0,市中心与火车站,7.1,7.1,7.1
+比萨,Ristorantino Cupido,Ristorantino Cupido,0,市中心与火车站,7.1,7.1,7.1
+比萨,La Scala,La Scala,0,其他,7.1,7.1,7.1
+比萨,Pizza Adria / Bar / Lounge,Pizza Adria / Bar / Lounge,0,宁芬堡(Nymphenburg)周边,6.9,6.9,6.9
+比萨,Haiders Pizza,Haiders Pizza,0,市中心以北,6.9,6.9,6.9
+比萨,Call a Pizza,Call a Pizza,0,市中心以北,7.0,7.0,6.9
+比萨,Pizza Cuccini Mangiare,Pizza Cuccini Mangiare,0,,7.0,7.0,6.7
+比萨,Holzofen Pizzeria Borghese,Holzofen Pizzeria Borghese,0,其他,6.9,6.9,6.9
+比萨,Pizza Amaretto,Pizza Amaretto,0,其他,6.9,6.9,6.9
+比萨,cafe restaurant pinguin,cafe restaurant pinguin,0,其他,6.9,6.9,6.9
+比萨,Bistro La Piazza Ristorante Tas,Bistro La Piazza Ristorante Tas,0,,7.0,7.0,7.0
+比萨,Markthalle im Hauptbahnhof,Markthalle im Hauptbahnhof,0,,7.1,7.1,7.1
+比萨,Rosso Pizza,Rosso Pizza,0,市中心以北,7.3,7.1,7.1
+比萨,La Boheme,La Boheme,0,市中心以北,6.9,6.9,6.9
+比萨,Salo Munchen,Salo Munchen,0,市中心以北,7.0,6.9,7.0
+比萨,Pizzeria Bar Enzo,Pizzeria Bar Enzo,0,市中心以北,7.1,7.0,6.9
+比萨,Bar & Pizzeria Garbo,Bar & Pizzeria Garbo,0,市中心以北,7.2,7.2,7.2
+比萨,Riva Bar,Riva Bar,0,市中心以北,7.2,7.2,7.2
+比萨,L'Ancora,L'Ancora,0,市中心以北,7.0,7.0,7.0
+比萨,Terra Verde,Terra Verde,0,市中心与火车站,7.0,7.0,7.0
+比萨,Cafe Rumford Spielothek,Cafe Rumford Spielothek,0,市中心与火车站,6.9,6.9,6.9
+比萨,Casalingo,Casalingo,0,市中心与火车站,7.1,7.1,7.1
+比萨,Roma,Roma,0,其他,7.0,7.0,7.0
+比萨,Pizzeria La Migliore,Pizzeria La Migliore,0,其他,7.0,6.9,6.9
+比萨,Seehaus Feldmoching - Da Caruso,Seehaus Feldmoching - Da Caruso,0,,7.0,7.0,7.0
+比萨,Da Peppo,Da Peppo,0,,7.0,7.0,7.0
+比萨,La Locanda,La Locanda,0,伊萨尔河(Isar)东岸,7.1,7.1,6.8
+比萨,Villa Dante,Villa Dante,0,奥林匹亚公园(Olympiapark)周边,7.2,6.8,7.2
+比萨,Mama Pizza,Mama Pizza,0,,6.7,6.7,6.7
+比萨,Casa Di dorata,Casa Di dorata,0,其他,6.9,6.9,6.9
+咖啡厅,Da Me caffe,Da Me caffe,0,市中心与火车站,8.1,8.1,8.1
+咖啡厅,Bar Retro & Restaurant,Bar Retro & Restaurant,0,市中心与火车站,7.2,7.4,7.3
+咖啡厅,Cafe Kitchenette,Cafe Kitchenette,0,,7.5,7.5,7.5
+咖啡厅,Café Högl,Café Högl,0,市中心与火车站,6.9,6.9,6.9
+咖啡厅,Cooper'S. Snack & Drink in der BMW Welt,Cooper'S. Snack & Drink in der BMW Welt,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.7
+咖啡厅,Jahreszeiten Lobby,Jahreszeiten Lobby,0,市中心与火车站,7.0,7.1,7.1
+咖啡厅,Cafe Rischart,Cafe Rischart,0,市中心与火车站,7.2,7.2,7.2
+咖啡厅,Rischart,Rischart,0,市中心与火车站,7.2,7.2,7.2
+咖啡厅,Cafe Maelu,Cafe Maelu,0,市中心与火车站,7.2,7.2,7.2
+咖啡厅,Cotidiano,Cotidiano,0,市中心与火车站,7.2,7.2,7.2
+咖啡厅,Déjà bu?,Déjà bu?,0,市中心与火车站,7.1,7.1,7.0
+咖啡厅,Cafe Fraeulein,Cafe Fraeulein,0,市中心与火车站,7.1,7.1,7.1
+咖啡厅,Strudelparadies,Strudelparadies,0,市中心以北,6.9,6.9,6.9
+咖啡厅,Cafe Gap,Cafe Gap,0,市中心与火车站,7.0,7.0,7.0
+咖啡厅,Chocolaterie Beluga,Chocolaterie Beluga,0,市中心与火车站,7.2,7.2,7.2
+咖啡厅,Galeria Kaufhof,Galeria Kaufhof,0,其他,7.0,7.0,7.0
+咖啡厅,Friesische Teestube,Friesische Teestube,0,市中心以北,7.0,7.0,7.1
+咖啡厅,Schmalznudel - Cafe Frischhut,Schmalznudel - Cafe Frischhut,0,市中心与火车站,7.2,7.2,7.2
+咖啡厅,Cantina Toscana,Cantina Toscana,0,,7.0,7.0,7.0
+咖啡厅,Konditorei Café Detterbeck,Konditorei Café Detterbeck,0,,7.0,7.0,7.0
+咖啡厅,Vee's Kaffee,Vee's Kaffee,0,市中心与火车站,7.1,6.8,7.1
+咖啡厅,Cafe Konditorei Eisenrieder,Cafe Konditorei Eisenrieder,0,市中心以北,7.1,7.0,7.0
+咖啡厅,Cafe Guglhupf,Cafe Guglhupf,0,市中心与火车站,7.1,6.8,6.8
+咖啡厅,Cadu,Cadu,0,市中心以北,6.8,7.1,7.1
+咖啡厅,Cafe Kreutzkamm,Cafe Kreutzkamm,0,市中心与火车站,7.1,7.1,7.1
+咖啡厅,Café Wiener,Café Wiener,0,市中心与火车站,6.9,6.9,6.9
+咖啡厅,Zimt & Koriander,Zimt & Koriander,0,,7.1,7.3,7.1
+咖啡厅,Stadtcafé咖啡馆,Stadtcafé咖啡馆,0,市中心与火车站,0.0,0.0,0.0
+咖啡厅,Espresso Valle Uno,Espresso Valle Uno,0,市中心与火车站,0.0,0.0,0.0
+咖啡厅,Sarcletti Eiscafe und Konditorei,Sarcletti Eiscafe und Konditorei,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+咖啡厅,Cafe Lotti,Cafe Lotti,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.3
+咖啡厅,Necado Kaffeeladen,Necado Kaffeeladen,0,市中心以北,6.9,7.1,7.0
+咖啡厅,I love Leo,I love Leo,0,市中心以北,6.9,6.9,6.9
+咖啡厅,Vini E Cibi,Vini E Cibi,0,市中心以北,6.9,6.9,6.9
+咖啡厅,Hoover & Floyd,Hoover & Floyd,0,,7.1,7.1,7.1
+咖啡厅,"Merlins Vinothek, Cafe & Weinhandel","Merlins Vinothek, Cafe & Weinhandel",0,市中心与火车站,6.9,6.9,6.9
+咖啡厅,Box food & wine,Box food & wine,0,市中心与火车站,7.1,7.1,7.1
+咖啡厅,1001 Sense,1001 Sense,0,市中心与火车站,6.9,6.9,6.9
+咖啡厅,Cafe Rottenhofer,Cafe Rottenhofer,0,市中心与火车站,7.1,7.1,7.1
+咖啡厅,Konditorei Detterbeck,Konditorei Detterbeck,0,,6.9,6.9,6.9
+咖啡厅,Cafe Meran,Cafe Meran,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+咖啡厅,Chef in the City,Chef in the City,0,,7.1,7.1,7.1
+咖啡厅,Adelholzener Bar,Adelholzener Bar,0,市中心以北,7.0,7.0,7.0
+咖啡厅,|Saha || Cafe Restaurant|,|Saha || Cafe Restaurant|,0,市中心以北,7.0,7.1,7.0
+咖啡厅,Das Neue Kubitscheck,Das Neue Kubitscheck,0,市中心与火车站,7.1,6.7,6.9
+咖啡厅,Cafe Platzhirsch,Cafe Platzhirsch,0,市中心与火车站,7.0,7.0,7.0
+咖啡厅,Meyerbeer Coffee,Meyerbeer Coffee,0,市中心与火车站,6.9,6.9,6.9
+咖啡厅,Wiener's der Kaffee,Wiener's der Kaffee,0,市中心与火车站,7.0,7.0,7.0
+咖啡厅,Rischart,Rischart,0,市中心与火车站,7.0,7.0,7.0
+咖啡厅,Cafe Ziegler,Cafe Ziegler,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+咖啡厅,ELLA Restaurant,ELLA Restaurant,0,市中心以北,7.2,7.2,7.2
+咖啡厅,Vorhoelzer Cafe,Vorhoelzer Cafe,0,市中心以北,7.1,7.0,7.1
+咖啡厅,Ines Chocolat,Ines Chocolat,0,市中心以北,6.9,6.9,6.9
+咖啡厅,Lucaffe,Lucaffe,0,市中心以北,7.0,7.1,7.0
+咖啡厅,Donuts & Candies,Donuts & Candies,0,市中心以北,7.1,7.0,7.0
+咖啡厅,Cafe Schauburg,Cafe Schauburg,0,市中心以北,6.9,6.9,6.9
+咖啡厅,Café Rialto,Café Rialto,0,市中心以北,7.0,7.0,7.0
+咖啡厅,Butterbrot,Butterbrot,0,市中心以北,7.3,7.1,7.1
+咖啡厅,L'AMAR Organic Cafe Restaurant,L'AMAR Organic Cafe Restaurant,0,市中心与火车站,7.1,7.1,7.1
+咖啡厅,Tabula Rasa,Tabula Rasa,0,市中心与火车站,7.1,7.1,7.1
+咖啡厅,Aroma,Aroma,0,市中心与火车站,7.2,7.2,7.2
+咖啡厅,Bohne und Malz am Stachus,Bohne und Malz am Stachus,0,市中心与火车站,7.1,7.1,7.1
+咖啡厅,Hansel & Gretel,Hansel & Gretel,0,市中心与火车站,6.9,6.9,6.9
+咖啡厅,Cafe Arzmiller,Cafe Arzmiller,0,市中心与火车站,7.0,7.0,7.0
+咖啡厅,Caffe Fausto,Caffe Fausto,0,其他,7.0,6.9,7.0
+咖啡厅,Cafe Marktlucke,Cafe Marktlucke,0,其他,7.0,7.0,7.0
+咖啡厅,Cantina in der Pasinger Fabrik,Cantina in der Pasinger Fabrik,0,其他,6.9,6.9,6.9
+咖啡厅,Schlosscafe im Palmenhaus,Schlosscafe im Palmenhaus,0,宁芬堡(Nymphenburg)周边,7.2,7.2,7.2
+咖啡厅,Cafe Makom,Cafe Makom,0,其他,6.9,7.0,7.0
+咖啡厅,Arzmiller,Arzmiller,0,其他,7.0,7.0,7.0
+咖啡厅,35 milli(m)eter,35 milli(m)eter,0,市中心与火车站,6.8,6.8,7.2
+咖啡厅,Cafe Ignaz,Cafe Ignaz,0,市中心以北,6.8,6.8,6.8
+咖啡厅,Cafe am Marienplatz,Cafe am Marienplatz,0,市中心与火车站,6.8,6.8,7.2
+咖啡厅,Lavazza am Dom,Lavazza am Dom,0,市中心与火车站,7.1,6.8,7.1
+咖啡厅,Cafe Luca,Cafe Luca,0,宁芬堡(Nymphenburg)周边,6.9,6.9,6.9
+面包甜点,Coffee Fellows,Coffee Fellows,0,市中心与火车站,7.5,7.5,7.5
+面包甜点,Elly Seidl,Elly Seidl,0,市中心与火车站,7.1,7.1,7.1
+面包甜点,Le Crobag,Le Crobag,0,,7.0,7.2,7.0
+面包甜点,Gelateria Grand,Gelateria Grand,0,市中心与火车站,7.0,6.7,6.9
+面包甜点,Amorino,Amorino,0,其他,7.1,7.0,7.1
+面包甜点,Le Buffet,Le Buffet,0,市中心与火车站,7.1,7.1,7.1
+面包甜点,True & 12 Handmade Ice Cream,True & 12 Handmade Ice Cream,0,其他,7.5,7.1,7.1
+面包甜点,Cafe Rischart,Cafe Rischart,0,市中心与火车站,7.2,7.2,7.2
+面包甜点,Rischart,Rischart,0,市中心与火车站,7.2,7.2,7.2
+面包甜点,CMF Rotkreuzplatz,CMF Rotkreuzplatz,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+面包甜点,Chocolaterie Beluga,Chocolaterie Beluga,0,市中心与火车站,7.2,7.2,7.2
+面包甜点,Rio Yogurt & Eis,Rio Yogurt & Eis,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+面包甜点,Schmalznudel - Cafe Frischhut,Schmalznudel - Cafe Frischhut,0,市中心与火车站,7.2,7.2,7.2
+面包甜点,Cupcakes,Cupcakes,0,市中心与火车站,7.0,7.0,6.9
+面包甜点,Subway,Subway,0,奥林匹亚公园(Olympiapark)周边,6.8,6.8,6.6
+面包甜点,KOCHspielHAUS,KOCHspielHAUS,0,市中心与火车站,7.1,6.8,7.1
+面包甜点,Eisdiele Trampolin,Eisdiele Trampolin,0,市中心以北,7.1,7.1,7.1
+面包甜点,Cafe Creme,Cafe Creme,0,市中心与火车站,7.1,7.0,7.0
+面包甜点,Konditorei Widmann,Konditorei Widmann,0,其他,6.9,6.9,6.9
+面包甜点,eiscafe ,eiscafe ,0,其他,6.9,6.9,6.9
+面包甜点,VIA EMILIA Cafè/Feinkost,VIA EMILIA Cafè/Feinkost,0,其他,7.1,7.0,7.0
+面包甜点,White and Fluffy,White and Fluffy,0,市中心以北,7.1,7.1,7.0
+面包甜点,Backerei Konditorei Ziegler Gmbh,Backerei Konditorei Ziegler Gmbh,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,6.9
+面包甜点,Eiscafe Al Teatro,Eiscafe Al Teatro,0,市中心与火车站,7.0,7.0,7.0
+面包甜点,Rischart,Rischart,0,市中心与火车站,7.0,7.0,7.0
+面包甜点,Der Verrueckte Eismacher,Der Verrueckte Eismacher,0,市中心以北,7.2,7.2,7.2
+面包甜点,Domori Eiscafe,Domori Eiscafe,0,市中心以北,7.1,7.1,6.9
+面包甜点,Lorenzo Corner Galati & Sorbet,Lorenzo Corner Galati & Sorbet,0,市中心以北,7.1,7.0,6.9
+面包甜点,Café Rialto,Café Rialto,0,市中心以北,7.0,7.0,7.0
+面包甜点,Freshbury,Freshbury,0,市中心以北,7.1,7.1,7.0
+面包甜点,Butterbrot,Butterbrot,0,市中心以北,7.3,7.1,7.1
+面包甜点,Del Fiore,Del Fiore,0,市中心与火车站,6.9,7.0,7.0
+面包甜点,Cafe Konditorei Kustermann,Cafe Konditorei Kustermann,0,,7.0,7.0,7.0
+面包甜点,Top It,Top It,0,市中心与火车站,7.1,7.1,7.0
+面包甜点,Hansel & Gretel,Hansel & Gretel,0,市中心与火车站,6.9,6.9,6.9
+面包甜点,Frogis Frozen Yogurt,Frogis Frozen Yogurt,0,市中心与火车站,7.0,7.0,7.0
+面包甜点,Aran,Aran,0,市中心与火车站,7.1,7.1,7.1
+面包甜点,Samara Cafe Bistro,Samara Cafe Bistro,0,其他,6.9,6.9,6.9
+面包甜点,Privat Backerei Wimmer,Privat Backerei Wimmer,0,,0.0,0.0,0.0
+酒吧,Hofbräuhaus,Hofbräuhaus,140,市中心与火车站,8.5,8.7,7.7
+酒吧,Airbraeu Brauhaus,Airbraeu Brauhaus,0,慕尼黑国际机场,7.4,7.5,7.7
+酒吧,玛丽恩广场圣彼得教堂露天餐饮bar,玛丽恩广场圣彼得教堂露天餐饮bar,0,市中心与火车站,7.5,8.4,7.0
+酒吧,奥古斯汀酒窖,奥古斯汀酒窖,0,市中心与火车站,7.1,8.5,7.1
+酒吧,People's Bar,People's Bar,0,市中心与火车站,8.4,8.4,8.4
+酒吧,Ben's Bar,Ben's Bar,0,市中心以北,8.4,8.4,8.4
+酒吧,Hard Rock Cafe Munich,Hard Rock Cafe Munich,0,市中心与火车站,8.3,7.4,7.4
+酒吧,Bar Retro & Restaurant,Bar Retro & Restaurant,0,市中心与火车站,7.2,7.4,7.3
+酒吧,Augustinerkeller酒吧,Augustinerkeller酒吧,0,,0.0,0.0,0.0
+酒吧,三叶草爱尔兰酒屋,三叶草爱尔兰酒屋,0,市中心以北,0.0,0.0,0.0
+酒吧,Cafe Icarus,Cafe Icarus,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+酒吧,Haus der 111 Biere酒吧,Haus der 111 Biere酒吧,0,市中心以北,0.0,0.0,0.0
+酒吧,Bau同性恋酒吧,Bau同性恋酒吧,0,市中心与火车站,0.0,0.0,0.0
+酒吧,Bayerischer Hof夜店,Bayerischer Hof夜店,0,市中心与火车站,0.0,0.0,0.0
+酒吧,Weinhaus Schneider,Weinhaus Schneider,0,市中心与火车站,7.2,7.2,7.2
+酒吧,Schwabinger Podium,Schwabinger Podium,0,市中心以北,0.0,0.0,0.0
+酒吧,Mr. Mumble's - New Orleans Bar,Mr. Mumble's - New Orleans Bar,0,市中心与火车站,0.0,0.0,0.0
+酒吧,Kilians Irish Pub,Kilians Irish Pub,0,市中心与火车站,7.2,7.2,7.2
+酒吧,Lobby Bar - Holiday Inn Muenchen Sued,Lobby Bar - Holiday Inn Muenchen Sued,0,,7.1,7.1,7.1
+酒吧,Tegernseer Tal - Braeuhaus,Tegernseer Tal - Braeuhaus,0,市中心与火车站,7.1,7.1,7.1
+酒吧,Tattenbach Wirtshaus & Stuberl,Tattenbach Wirtshaus & Stuberl,0,市中心以北,7.1,7.1,7.1
+酒吧,Ksar Club,Ksar Club,0,市中心与火车站,7.0,7.0,7.0
+酒吧,Kaffee & mehr,Kaffee & mehr,0,市中心与火车站,7.0,7.0,7.0
+酒吧,Cafe Gap,Cafe Gap,0,市中心与火车站,7.0,7.0,7.0
+酒吧,Wirtshaus am Bavariapark,Wirtshaus am Bavariapark,0,市中心与火车站,7.1,7.1,7.1
+酒吧,Schapeau,Schapeau,0,市中心与火车站,7.2,7.2,7.2
+酒吧,Pusser's Bar Munich,Pusser's Bar Munich,0,市中心与火车站,7.2,7.2,7.2
+酒吧,Wirtshaus Zum Straubinger,Wirtshaus Zum Straubinger,0,市中心与火车站,7.2,7.2,7.2
+酒吧,Arc酒吧,Arc酒吧,0,市中心以北,0.0,0.0,0.0
+酒吧,Barista,Barista,0,市中心与火车站,7.1,7.1,7.1
+酒吧,Schwabinger Wassermann,Schwabinger Wassermann,0,市中心以北,7.2,7.2,7.2
+酒吧,Bar burn out,Bar burn out,0,其他,6.9,6.9,6.9
+酒吧,Cafe Kosmos,Cafe Kosmos,0,市中心与火车站,6.8,7.1,7.1
+酒吧,Schmeller's,Schmeller's,0,,7.1,7.1,7.1
+酒吧,"Maxwells, The Sports Restaurant & Bar","Maxwells, The Sports Restaurant & Bar",0,市中心与火车站,6.9,6.9,6.9
+酒吧,Salon Irkutsk,Salon Irkutsk,0,市中心以北,0.0,0.0,0.0
+酒吧,Lassavane Club,Lassavane Club,0,市中心以北,0.0,0.0,0.0
+酒吧,Jack Glockenbach,Jack Glockenbach,0,市中心与火车站,7.2,7.2,7.2
+酒吧,Mit Leib und Seele,Mit Leib und Seele,0,市中心以北,7.2,7.2,7.2
+酒吧,New York,New York,0,市中心与火车站,0.0,0.0,0.0
+酒吧,Mandarin Oriental Lounge & Bar,Mandarin Oriental Lounge & Bar,0,市中心与火车站,0.0,0.0,0.0
+酒吧,Nachtcafé,Nachtcafé,0,市中心与火车站,0.0,0.0,0.0
+酒吧,Bella Billard,Bella Billard,0,其他,0.0,0.0,0.0
+酒吧,Gasthof Obermaier,Gasthof Obermaier,0,其他,7.2,7.2,7.2
+酒吧,Schall und Rauch,Schall und Rauch,0,市中心以北,7.1,7.1,7.1
+酒吧,Cafe an der Uni,Cafe an der Uni,0,市中心以北,7.1,7.1,7.1
+酒吧,Egger's,Egger's,0,市中心以北,7.1,7.1,7.1
+酒吧,Bistro Uno,Bistro Uno,0,市中心以北,6.9,6.9,6.9
+酒吧,Pils Doktor,Pils Doktor,0,市中心以北,7.0,7.1,7.1
+酒吧,Restaurant Stemmerhof,Restaurant Stemmerhof,0,,7.1,7.1,7.1
+酒吧,Lohner und Grobitsch,Lohner und Grobitsch,0,市中心与火车站,6.9,6.9,6.9
+酒吧,Barroom,Barroom,0,其他,6.9,7.1,7.0
+酒吧,"Goldloch,munchen","Goldloch,munchen",0,其他,7.1,7.1,7.1
+酒吧,Cafe Meran,Cafe Meran,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+酒吧,Bar Giulia,Bar Giulia,0,市中心以北,7.0,7.0,7.0
+酒吧,Reizbar,Reizbar,0,市中心以北,7.0,7.0,6.9
+酒吧,Cocktail House,Cocktail House,0,市中心以北,7.0,7.0,7.0
+酒吧,mauz,mauz,0,市中心以北,6.9,6.9,6.9
+酒吧,Der Clou,Der Clou,0,其他,6.9,6.9,6.9
+酒吧,Cafe Voila Munchen,Cafe Voila Munchen,0,其他,7.0,7.0,7.0
+酒吧,Cafe Klenze,Cafe Klenze,0,市中心以北,7.1,7.1,7.1
+酒吧,Brasserie Tresznjewski,Brasserie Tresznjewski,0,市中心以北,7.2,7.2,7.2
+酒吧,News Bar,News Bar,0,市中心以北,7.1,7.1,7.1
+酒吧,Cafe Soda,Cafe Soda,0,市中心以北,0.0,0.0,0.0
+酒吧,Bistro Terrine,Bistro Terrine,0,市中心以北,7.7,7.2,7.2
+酒吧,Unglaubar,Unglaubar,0,奥林匹亚公园(Olympiapark)周边,6.8,6.8,6.8
+酒吧,Savanna,Savanna,0,,7.2,7.6,7.2
+酒吧,Bar Zephyr,Bar Zephyr,0,,6.9,7.0,7.0
+酒吧,Quattro Tavoli,Quattro Tavoli,0,,7.0,7.1,7.0
+酒吧,Retters Feinschmecker,Retters Feinschmecker,0,市中心与火车站,7.0,7.1,7.0
+酒吧,Loreley,Loreley,0,市中心与火车站,7.0,7.1,7.0
+酒吧,Dubliner Irish Pub & Sports Bar,Dubliner Irish Pub & Sports Bar,0,市中心与火车站,6.8,7.1,7.1
+酒吧,Welser Kuche Empfang,Welser Kuche Empfang,0,市中心与火车站,7.0,7.0,7.1
+酒吧,Franzz,Franzz,0,其他,7.1,7.1,7.1
+酒吧,Rattlesnake Saloon,Rattlesnake Saloon,0,,7.0,7.0,7.1
+酒吧,Munchner Haupt',Munchner Haupt',0,,6.9,6.9,7.0
+酒吧,Ryan's Muddy Boot,Ryan's Muddy Boot,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+酒吧,Cafe Munich,Cafe Munich,0,市中心以北,6.8,6.8,6.8
+酒吧,C.A.N. - Cafe am Nordbad,C.A.N. - Cafe am Nordbad,0,市中心以北,6.8,6.8,6.8
+更多美食,Fire Dragon Lounge,Fire Dragon Lounge,0,市中心与火车站,7.3,7.4,6.6
+更多美食,Haxnbauer,Haxnbauer,0,市中心与火车站,8.0,7.8,7.8
+更多美食,Steinheil 16,Steinheil 16,0,市中心以北,8.3,7.8,8.1
+更多美食,Shoya,Shoya,0,市中心与火车站,7.9,7.4,7.1
+更多美食,Park Inn,Park Inn,0,伊萨尔河(Isar)东岸,7.3,7.7,7.3
+更多美食,Novotel Munchen Messe Restaurant,Novotel Munchen Messe Restaurant,0,伊萨尔河(Isar)东岸,8.1,8.1,8.1
+更多美食,McDonald's,McDonald's,0,伊萨尔河(Isar)东岸,8.2,7.4,7.3
+更多美食,Burger King,Burger King,0,市中心与火车站,7.2,7.2,7.1
+更多美食,Zum Spoeckmeier,Zum Spoeckmeier,0,市中心与火车站,6.5,7.0,6.5
+更多美食,Metzgerwirt,Metzgerwirt,0,,7.7,7.7,7.7
+更多美食,Munchner Suppenkuche,Munchner Suppenkuche,0,市中心与火车站,7.7,7.7,7.4
+更多美食,Vits der Kaffee,Vits der Kaffee,0,市中心与火车站,7.1,6.9,6.9
+更多美食,Ziegelhaus,Ziegelhaus,0,,6.8,7.5,7.5
+更多美食,Rechthaler-Hof,Rechthaler-Hof,0,市中心与火车站,7.0,7.5,7.0
+更多美食,Schumann's American Bar,Schumann's American Bar,0,市中心以北,7.2,6.8,7.2
+更多美食,anna restaurant,anna restaurant,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Sahara City,Sahara City,0,市中心以北,7.3,7.1,7.1
+更多美食,Coffee Bar in der BMW Welt,Coffee Bar in der BMW Welt,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多美食,Restaurant Augustiner am Platzl,Restaurant Augustiner am Platzl,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Schuhbeck's Eissalon & Joghurteria,Schuhbeck's Eissalon & Joghurteria,0,市中心与火车站,7.0,7.0,6.9
+更多美食,Drehrestaurant,Drehrestaurant,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.1
+更多美食,Restaurant 181 Business,Restaurant 181 Business,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多美食,Lemar,Lemar,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Il Mulino,Il Mulino,0,市中心以北,7.2,7.2,7.2
+更多美食,Gaststatte Nurnberger Bratwurst Glockl am Dom,Gaststatte Nurnberger Bratwurst Glockl am Dom,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Restaurant Olympiasee,Restaurant Olympiasee,0,奥林匹亚公园(Olympiapark)周边,7.1,6.8,7.1
+更多美食,Alter Wirt Ramersdorf,Alter Wirt Ramersdorf,0,其他,7.1,7.1,7.1
+更多美食,Hot Wok Heimservice,Hot Wok Heimservice,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,City Lounge,City Lounge,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Ned Kelly's Australian Bar,Ned Kelly's Australian Bar,0,市中心与火车站,6.9,6.9,6.9
+更多美食,La Pizza EnricoRossini e.K.,La Pizza EnricoRossini e.K.,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+更多美食,Ali Baba Restaurant,Ali Baba Restaurant,0,市中心与火车站,6.9,7.0,7.0
+更多美食,La Lucania,La Lucania,0,其他,7.0,7.0,7.0
+更多美食,Siam Restaurant,Siam Restaurant,0,,7.1,7.0,7.0
+更多美食,Asiatisches-Schnellrestaurant im Bahnhof MU,Asiatisches-Schnellrestaurant im Bahnhof MU,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Paradiso Restaurant,Paradiso Restaurant,0,市中心以北,7.0,7.0,7.0
+更多美食,Hechtsprung im Dantebad,Hechtsprung im Dantebad,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Maredo,Maredo,0,市中心与火车站,6.8,7.1,6.8
+更多美食,Restaurant Ponte Vecchio,Restaurant Ponte Vecchio,0,市中心与火车站,7.0,7.0,7.0
+更多美食,La Casina,La Casina,0,市中心以北,7.1,7.1,7.1
+更多美食,La Fontana,La Fontana,0,,7.1,7.1,7.1
+更多美食,La Villa im Bamberger Haus,La Villa im Bamberger Haus,0,市中心以北,7.2,7.2,7.2
+更多美食,Pizzeria Monaco,Pizzeria Monaco,0,市中心与火车站,6.8,7.2,6.8
+更多美食,Louis,Louis,0,市中心以北,7.3,7.3,7.1
+更多美食,Wirtshaus zum Alten Kreuz,Wirtshaus zum Alten Kreuz,0,其他,7.1,7.1,7.1
+更多美食,Dean and David,Dean and David,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Isarbar Sofitel Munich Bayerpost,Isarbar Sofitel Munich Bayerpost,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Witte,Witte,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Restaurant Blauer Bock,Restaurant Blauer Bock,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Biergarten Viktualienmarkt,Biergarten Viktualienmarkt,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Schlosswirtschaft Schwaige,Schlosswirtschaft Schwaige,0,其他,7.2,7.2,7.2
+更多美食,Opatja,Opatja,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Max Pett,Max Pett,0,伊萨尔河(Isar)东岸,7.2,7.2,7.2
+更多美食,Le Potager (Le Meridien),Le Potager (Le Meridien),0,市中心与火车站,7.2,7.2,7.2
+更多美食,Zirbelstube,Zirbelstube,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Rossini,Rossini,0,伊萨尔河(Isar)东岸,7.2,7.2,7.2
+更多美食,Cafe Neuhausen,Cafe Neuhausen,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多美食,Unionsbrau Haidhausen,Unionsbrau Haidhausen,0,伊萨尔河(Isar)东岸,7.2,7.2,7.2
+更多美食,Kerala,Kerala,0,市中心以北,7.2,7.2,7.2
+更多美食,nordsee,nordsee,0,市中心以北,7.2,7.2,7.2
+更多美食,Zum Aumeister,Zum Aumeister,0,市中心以北,7.2,7.2,7.2
+更多美食,Chopan II,Chopan II,0,其他,7.2,7.2,7.2
+更多美食,Hofer Der Stadtwirt,Hofer Der Stadtwirt,0,伊萨尔河(Isar)东岸,7.2,7.2,7.2
+更多美食,Albarone,Albarone,0,市中心与火车站,7.1,7.3,7.1
+更多美食,Lowenbrau-Festhalle,Lowenbrau-Festhalle,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Zum Klosterl,Zum Klosterl,0,市中心与火车站,6.9,6.9,6.9
+更多美食,KULISSE Theater-Restaurant,KULISSE Theater-Restaurant,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Red Pepper,Red Pepper,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Canale Grande,Canale Grande,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+更多美食,Wassermann - Elvirastrasse,Wassermann - Elvirastrasse,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Schwarz & Weiz Restaurant,Schwarz & Weiz Restaurant,0,市中心与火车站,7.1,7.1,6.8
+更多美食,Ksara,Ksara,0,市中心以北,7.1,7.1,7.1
+更多美食,Zur Festwiese,Zur Festwiese,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Dillinger's,Dillinger's,0,,7.1,7.1,7.1
+更多美食,Espresso am Viktualienmarkt,Espresso am Viktualienmarkt,0,其他,6.9,6.9,6.9
+更多美食,McDonald's,McDonald's,0,市中心以北,6.9,6.9,6.9
+更多美食,Hakuna Matata Bistro Bar,Hakuna Matata Bistro Bar,0,市中心与火车站,7.1,7.0,7.1
+更多美食,Dinea im Kaufhof,Dinea im Kaufhof,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Gartensalon München,Gartensalon München,0,市中心以北,7.1,7.1,7.1
+更多美食,Natale's,Natale's,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Neuhauser Augustiner,Neuhauser Augustiner,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Schnelle Liebe,Schnelle Liebe,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Prasserie,Prasserie,0,其他,6.9,6.9,6.9
+更多美食,Sollner Hof,Sollner Hof,0,其他,7.1,7.1,7.1
+更多美食,Krake,Krake,0,市中心与火车站,7.1,6.8,7.1
+更多美食,Weisses Bräuhaus,Weisses Bräuhaus,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+更多美食,Discount,Discount,0,其他,7.1,7.1,7.0
+更多美食,Krishna Heimservice,Krishna Heimservice,0,宁芬堡(Nymphenburg)周边,7.1,7.1,6.9
+更多美食,Lohengrins,Lohengrins,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+更多美食,Kaimug,Kaimug,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Caffe Vergnano,Caffe Vergnano,0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.1
+更多美食,1. Schwabinger Kartoffelhaus,1. Schwabinger Kartoffelhaus,0,市中心以北,7.1,7.1,7.1
+更多美食,Thai-Restaurant Orchid,Thai-Restaurant Orchid,0,其他,6.9,6.9,6.9
+更多美食,Yam Bai - Asia Garden,Yam Bai - Asia Garden,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Monsoon Lehel,Monsoon Lehel,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Rama,Rama,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Kaffee Sonnenschein,Kaffee Sonnenschein,0,其他,7.0,7.1,7.1
+更多美食,Asiahaus,Asiahaus,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Agio Ristorante,Agio Ristorante,0,市中心以北,7.1,7.0,7.0
+更多美食,San Marino,San Marino,0,,7.1,7.1,7.0
+更多美食,Munir Unlu Imbiss,Munir Unlu Imbiss,0,市中心以北,6.9,6.9,6.9
+更多美食,Alter Bluecher,Alter Bluecher,0,市中心以北,7.1,7.1,7.1
+更多美食,La Corte dell Angelo,La Corte dell Angelo,0,伊萨尔河(Isar)东岸,7.1,7.1,7.1
+更多美食,Miccelli's Restaurant - Cafe,Miccelli's Restaurant - Cafe,0,,6.9,6.9,6.9
+更多美食,Bergwolf,Bergwolf,0,市中心与火车站,7.2,7.2,6.8
+更多美食,Monsieur Hu,Monsieur Hu,0,,7.2,7.2,7.2
+更多美食,Restaurant Prinzregent,Restaurant Prinzregent,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多美食,Goloseo,Goloseo,0,市中心以北,7.0,7.0,6.9
+更多美食,"Kafee, Espresso & Barista","Kafee, Espresso & Barista",0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.0
+更多美食,Mymuesli Munchen,Mymuesli Munchen,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Shalizar,Shalizar,0,市中心与火车站,7.0,7.0,6.9
+更多美食,Ochsenbraterei,Ochsenbraterei,0,市中心以北,7.0,7.0,7.0
+更多美食,Pizza Hut,Pizza Hut,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Happy Au`r Limited,Happy Au`r Limited,0,其他,6.9,6.9,6.9
+更多美食,Café Monaco,Café Monaco,0,市中心以北,6.9,6.9,6.9
+更多美食,Nordsee,Nordsee,0,其他,6.9,6.9,6.9
+更多美食,Restaurant & Bar Rothof,Restaurant & Bar Rothof,0,市中心以北,7.1,7.1,7.0
+更多美食,Sudlandische Feinkost,Sudlandische Feinkost,0,其他,6.9,6.9,6.9
+更多美食,Pizzorante ,Pizzorante ,0,其他,6.9,6.9,6.9
+更多美食,Gaststaette ,Gaststaette ,0,,7.0,7.0,6.9
+更多美食,Nuovo Mediterraneo,Nuovo Mediterraneo,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多美食,Terrazza Verde im ZOB,Terrazza Verde im ZOB,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Raaz,Raaz,0,市中心以北,6.9,6.9,6.9
+更多美食,Kirr Royal,Kirr Royal,0,其他,7.0,7.0,7.0
+更多美食,McDonalds,McDonalds,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Domori Eiscafe An Der Wittelsbacher Brucke,Domori Eiscafe An Der Wittelsbacher Brucke,0,,6.9,6.9,6.9
+更多美食,Marais Soir,Marais Soir,0,其他,7.1,7.0,7.0
+更多美食,Restaurant s'Tascherl,Restaurant s'Tascherl,0,,7.0,7.0,7.0
+更多美食,ISOT Bistro,ISOT Bistro,0,其他,6.9,6.9,6.9
+更多美食,das Edelweiss,das Edelweiss,0,其他,7.0,7.0,7.0
+更多美食,Marrakech,Marrakech,0,市中心以北,6.9,6.9,6.9
+更多美食,zimmes & zores,zimmes & zores,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多美食,Nordsee,Nordsee,0,市中心以北,6.9,6.9,6.9
+更多美食,Zum Blaustern,Zum Blaustern,0,,7.0,7.0,6.9
+更多美食,Caffe Piemonte,Caffe Piemonte,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Cafe im Mullerschen Volksbad,Cafe im Mullerschen Volksbad,0,其他,7.0,7.0,7.0
+更多美食,Italian Pizza.de,Italian Pizza.de,0,其他,6.9,6.9,6.9
+更多美食,Wirtshaus am See,Wirtshaus am See,0,其他,6.9,6.9,6.9
+更多美食,hofbrauh,hofbrauh,0,其他,7.1,6.7,7.1
+更多美食,Eboli,Eboli,0,市中心以北,7.0,7.0,6.9
+更多美食,RestaurantCafe im Karstadt-Sport,RestaurantCafe im Karstadt-Sport,0,市中心与火车站,7.0,7.0,6.9
+更多美食,Burger King,Burger King,0,其他,6.9,6.9,6.9
+更多美食,Siam Haus,Siam Haus,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Rubenbauer Josef Gaststatten,Rubenbauer Josef Gaststatten,0,市中心与火车站,7.0,7.0,6.9
+更多美食,Olimbia,Olimbia,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,Hacker Pschorr Brauhaus,Hacker Pschorr Brauhaus,0,市中心与火车站,7.2,6.8,7.2
+更多美食,Anesis,Anesis,0,,7.1,7.1,7.0
+更多美食,Vapiano,Vapiano,0,,7.1,7.1,7.1
+更多美食,Lowengarten,Lowengarten,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,YEN'c Hot Pot Gourmet,YEN'c Hot Pot Gourmet,0,市中心与火车站,6.9,6.7,6.9
+更多美食,Burger King,Burger King,0,伊萨尔河(Isar)东岸,6.7,6.7,6.9
+更多美食,Olympia,Olympia,0,奥林匹亚公园(Olympiapark)周边,6.7,6.7,6.9
+更多美食,Royal Kebabhaus,Royal Kebabhaus,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Lori's,Lori's,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Muenchen72,Muenchen72,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Manufactum Brot & Butter,Manufactum Brot & Butter,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Restaurant Mykonos,Restaurant Mykonos,0,,7.0,7.0,7.0
+更多美食,Restaurant VUE Maximilian,Restaurant VUE Maximilian,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Kyano,Kyano,0,,7.2,7.2,7.2
+更多美食,Seehaus,Seehaus,0,市中心以北,7.2,7.2,7.2
+更多美食,Neptun,Neptun,0,伊萨尔河(Isar)东岸,7.2,6.8,6.8
+更多美食,"Bistro, Hotel Maritim","Bistro, Hotel Maritim",0,市中心与火车站,7.0,7.0,7.0
+更多美食,Kebap & More Munchen Bayerstr,Kebap & More Munchen Bayerstr,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Park Cafe,Park Cafe,0,市中心与火车站,6.8,6.8,7.2
+更多美食,Freisinger Hof,Freisinger Hof,0,市中心以北,7.2,7.2,7.2
+更多美食,Berni's Nudelbrett,Berni's Nudelbrett,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Tantris,Tantris,0,市中心以北,7.2,7.2,7.2
+更多美食,Mystikon,Mystikon,0,伊萨尔河(Isar)东岸,7.2,7.2,7.2
+更多美食,Neuwirt,Neuwirt,0,伊萨尔河(Isar)东岸,6.7,6.7,6.7
+更多美食,Wirtshaus Kurgarten,Wirtshaus Kurgarten,0,其他,7.2,7.2,7.2
+更多美食,FACILE,FACILE,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Umeshu Sushi Bar & Take Away,Umeshu Sushi Bar & Take Away,0,,7.0,7.1,7.0
+更多美食,SUBWAY Restaurant,SUBWAY Restaurant,0,其他,6.9,6.9,6.9
+更多美食,Kyoto Running Sushi,Kyoto Running Sushi,0,市中心与火车站,7.2,7.2,6.8
+更多美食,Kentucky Fried Chicken Schnellrestaurant,Kentucky Fried Chicken Schnellrestaurant,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Ole Madrid,Ole Madrid,0,,7.1,7.1,7.1
+更多美食,Sicilia,Sicilia,0,其他,7.1,7.1,7.1
+更多美食,Schweizer Hof,Schweizer Hof,0,,7.1,6.8,7.1
+更多美食,Gambrinus,Gambrinus,0,市中心以北,6.9,6.7,6.9
+更多美食,Bratwurstherzl Am Viktualienmarkt,Bratwurstherzl Am Viktualienmarkt,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Restaurant Le Stollberg,Restaurant Le Stollberg,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Caffe Vergnano 1882,Caffe Vergnano 1882,0,其他,6.9,7.0,7.0
+更多美食,Lehner's Wirtshaus,Lehner's Wirtshaus,0,其他,6.9,7.0,7.0
+更多美食,China Point,China Point,0,奥林匹亚公园(Olympiapark)周边,7.0,6.9,6.9
+更多美食,walter und Benjamin,walter und Benjamin,0,市中心与火车站,7.2,6.8,7.2
+更多美食,Le Charrois,Le Charrois,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Schweiger2 im Showroom,Schweiger2 im Showroom,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Wiesengrund,Wiesengrund,0,其他,6.9,6.9,7.0
+更多美食,Pumpwerk Josef Schmid Gastronomiebetrieb,Pumpwerk Josef Schmid Gastronomiebetrieb,0,其他,7.0,7.0,7.0
+更多美食,Zauberberg,Zauberberg,0,奥林匹亚公园(Olympiapark)周边,7.6,7.2,7.2
+更多美食,Wienerwald,Wienerwald,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Surahi,Surahi,0,市中心以北,7.0,7.0,7.0
+更多美食,Macchiato,Macchiato,0,市中心以北,7.0,7.0,7.0
+更多美食,Chinarestaurant Hu,Chinarestaurant Hu,0,,7.1,7.1,7.1
+更多美食,Hahnhof,Hahnhof,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Italian 5 Gastronomie GmbH,Italian 5 Gastronomie GmbH,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Asado Steak Farbergraben,Asado Steak Farbergraben,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Vapiano,Vapiano,0,市中心以北,7.2,6.8,7.2
+更多美食,SixtySix Grill and Dine,SixtySix Grill and Dine,0,市中心以北,7.0,7.0,7.0
+更多美食,Maredo,Maredo,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Barka,Barka,0,其他,7.3,7.1,7.1
+更多美食,Inszenario Restaurant,Inszenario Restaurant,0,其他,7.2,7.2,7.2
+更多美食,i Ricordi cucina cafe bar,i Ricordi cucina cafe bar,0,其他,6.9,6.9,6.9
+更多美食,McDonald's,McDonald's,0,市中心与火车站,7.1,7.1,7.0
+更多美食,Lounge 93 Cafe & Bar,Lounge 93 Cafe & Bar,0,市中心以北,6.9,6.9,6.9
+更多美食,NO 26 Gaststaette,NO 26 Gaststaette,0,市中心以北,7.1,7.1,7.1
+更多美食,Meissner,Meissner,0,市中心以北,7.1,7.1,7.1
+更多美食,"La Giara,","La Giara,",0,,7.0,7.1,6.9
+更多美食,Praha,Praha,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+更多美食,Sophie's Bistro,Sophie's Bistro,0,市中心与火车站,7.3,7.1,7.1
+更多美食,Asian Corner,Asian Corner,0,,7.0,7.0,6.9
+更多美食,Just Munich,Just Munich,0,奥林匹亚公园(Olympiapark)周边,6.9,6.7,6.9
+更多美食,Highlight im Innside Hotel Munchen,Highlight im Innside Hotel Munchen,0,市中心以北,7.1,7.1,7.1
+更多美食,palazzo,palazzo,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多美食,Suzie W. Bistro,Suzie W. Bistro,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Tushita,Tushita,0,,7.0,7.0,7.0
+更多美食,Hanoi Bar,Hanoi Bar,0,市中心与火车站,6.7,7.0,7.0
+更多美食,Da Baffo,Da Baffo,0,市中心以北,6.9,6.9,6.9
+更多美食,Wolfs-Brotzeitladen,Wolfs-Brotzeitladen,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Worner's Cafehaus Reber Und Cafe Am Dom E.K,Worner's Cafehaus Reber Und Cafe Am Dom E.K,0,市中心与火车站,6.9,6.9,7.0
+更多美食,Fellini,Fellini,0,,7.0,7.0,7.0
+更多美食,Khanittha 3,Khanittha 3,0,其他,7.2,6.8,7.2
+更多美食,Stengelhof,Stengelhof,0,市中心以北,7.0,7.0,7.0
+更多美食,Der Gesellschaftsraum,Der Gesellschaftsraum,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多美食,Blue Nile,Blue Nile,0,市中心以北,7.2,7.2,7.2
+更多美食,MIXTO,MIXTO,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Opatija,Opatija,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Due Passi,Due Passi,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Curry 73 Stromberg,Curry 73 Stromberg,0,其他,6.8,6.8,6.8
+更多美食,Mittendrin,Mittendrin,0,,7.1,7.1,7.1
+更多美食,Caesar Heimservice,Caesar Heimservice,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Balanhof,Balanhof,0,其他,6.9,6.9,6.9
+更多美食,Pizza Hut,Pizza Hut,0,市中心以北,6.9,6.9,6.9
+更多美食,Taverne El Greco Inh. Hr.Angelidis,Taverne El Greco Inh. Hr.Angelidis,0,,7.0,7.0,7.0
+更多美食,Rasoi,Rasoi,0,市中心与火车站,7.1,7.1,6.8
+更多美食,Restaurant Ho-Guom Vietnam- und Thaispezialitaten,Restaurant Ho-Guom Vietnam- und Thaispezialitaten,0,市中心以北,7.0,7.0,7.0
+更多美食,Tejo,Tejo,0,市中心以北,6.7,6.7,6.9
+更多美食,Sendlinger Wirtshaus am Sendlinger Tor Platz,Sendlinger Wirtshaus am Sendlinger Tor Platz,0,市中心与火车站,7.1,6.8,7.1
+更多美食,Sausalitos,Sausalitos,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Spicery,Spicery,0,其他,7.2,7.2,7.2
+更多美食,Restaurante Portugal,Restaurante Portugal,0,其他,6.7,6.9,6.7
+更多美食,Wirtshaus In Der Au,Wirtshaus In Der Au,0,其他,7.2,7.2,7.2
+更多美食,Die neue Fasanerie,Die neue Fasanerie,0,宁芬堡(Nymphenburg)周边,6.8,7.1,7.1
+更多美食,Kinski Bar & Restaurant,Kinski Bar & Restaurant,0,,6.9,6.9,6.9
+更多美食,Gaststatte Landsberger Eck Ihn. Murina Madzarevic,Gaststatte Landsberger Eck Ihn. Murina Madzarevic,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Dein Alex,Dein Alex,0,奥林匹亚公园(Olympiapark)周边,6.7,6.7,6.7
+更多美食,Ristorantino Da Luigi,Ristorantino Da Luigi,0,其他,6.9,6.7,6.7
+更多美食,Cafe Woerner's,Cafe Woerner's,0,市中心与火车站,7.2,6.8,7.2
+更多美食,Asado Steak Tal,Asado Steak Tal,0,市中心与火车站,7.1,6.8,6.8
+更多美食,Weyprechthof,Weyprechthof,0,,6.8,6.8,7.1
+更多美食,Le Copain No.02,Le Copain No.02,0,,6.9,6.9,6.9
+更多美食,Feinkost Wagner,Feinkost Wagner,0,宁芬堡(Nymphenburg)周边,6.9,6.9,6.9
+更多美食,Markt-Stadl,Markt-Stadl,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Colibri,Colibri,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Mayers Bar & Restaurant,Mayers Bar & Restaurant,0,市中心与火车站,7.7,7.7,7.2
+更多美食,Taverne Georgios,Taverne Georgios,0,市中心以北,7.3,7.1,7.1
+更多美食,Restaurant Davvero,Restaurant Davvero,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Theresa Grill Restaurant Bar,Theresa Grill Restaurant Bar,0,市中心以北,7.2,7.2,7.2
+更多美食,Lo Studente,Lo Studente,0,市中心以北,7.2,7.2,7.2
+更多美食,Nasca,Nasca,0,市中心以北,7.2,7.2,7.2
+更多美食,Alter Simpl,Alter Simpl,0,市中心以北,7.2,7.2,7.2
+更多美食,LENZ Schank und Speiselokal,LENZ Schank und Speiselokal,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Cooperativa,Cooperativa,0,,7.2,7.2,7.2
+更多美食,Gast,Gast,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Master's Home,Master's Home,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Pizzeria Europa,Pizzeria Europa,0,,7.2,7.2,7.2
+更多美食,Coco de Mer,Coco de Mer,0,,7.2,7.2,7.2
+更多美食,Bavarese,Bavarese,0,,7.2,7.2,7.2
+更多美食,Tivoli Restaurant at Hilton Munich Park Hotel,Tivoli Restaurant at Hilton Munich Park Hotel,0,市中心以北,7.2,7.2,7.2
+更多美食,Block House,Block House,0,市中心以北,7.2,7.2,7.2
+更多美食,Cafe Westend,Cafe Westend,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Bella Italia,Bella Italia,0,市中心与火车站,7.2,7.2,7.2
+更多美食,coffee fellows,coffee fellows,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Opatija am alten Peter,Opatija am alten Peter,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Haxenbauer,Haxenbauer,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Oskar Maria,Oskar Maria,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Preysinggarten,Preysinggarten,0,其他,7.2,7.2,7.2
+更多美食,Nektar,Nektar,0,其他,7.2,7.2,7.2
+更多美食,Speisemeisterei,Speisemeisterei,0,其他,7.2,7.2,7.2
+更多美食,Laimers Wirtshaus,Laimers Wirtshaus,0,,7.2,7.2,7.2
+更多美食,La Ruota,La Ruota,0,,7.2,7.2,6.8
+更多美食,Romans,Romans,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多美食,Acetaia,Acetaia,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多美食,Ruffini,Ruffini,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多美食,Taxisgarten,Taxisgarten,0,奥林匹亚公园(Olympiapark)周边,7.2,6.8,7.2
+更多美食,white Ginger,white Ginger,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Rhaetenhaus,Rhaetenhaus,0,市中心以北,7.0,7.1,7.0
+更多美食,Volksgarten,Volksgarten,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,My TAM,My TAM,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,James Spoon,James Spoon,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,Asaka,Asaka,0,市中心以北,7.1,7.1,7.1
+更多美食,Feinkost Grasso,Feinkost Grasso,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,S'Maillinger,S'Maillinger,0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.0
+更多美食,Zum Koreaner,Zum Koreaner,0,市中心以北,7.1,6.8,6.8
+更多美食,Kumasan,Kumasan,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,nudo,nudo,0,市中心以北,7.1,7.1,7.1
+更多美食,Pommesboutique,Pommesboutique,0,市中心以北,7.1,7.1,7.1
+更多美食,Indisches Fastfood,Indisches Fastfood,0,市中心以北,6.9,6.9,6.9
+更多美食,Happy Fildjan,Happy Fildjan,0,奥林匹亚公园(Olympiapark)周边,7.0,7.1,7.0
+更多美食,Victorian House - Brown's Tea Bar,Victorian House - Brown's Tea Bar,0,市中心以北,7.1,7.1,7.1
+更多美食,Kam Lung,Kam Lung,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Warmi Nudelbar,Warmi Nudelbar,0,市中心以北,6.9,6.9,6.9
+更多美食,Schelling-Salon,Schelling-Salon,0,市中心以北,7.1,7.1,7.1
+更多美食,Ruen Thong,Ruen Thong,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Huckebein Essen und Wein,Huckebein Essen und Wein,0,市中心以北,6.9,6.9,6.9
+更多美食,Garuda,Garuda,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Kostbar,Kostbar,0,市中心以北,6.9,6.9,6.9
+更多美食,Niki Cafe,Niki Cafe,0,市中心以北,6.9,6.9,6.9
+更多美食,freebird bar and food,freebird bar and food,0,市中心以北,7.3,7.1,7.3
+更多美食,Adria,Adria,0,市中心以北,7.1,7.1,7.1
+更多美食,Agnes 9,Agnes 9,0,市中心以北,7.1,7.1,7.1
+更多美食,Monti Da Angelo,Monti Da Angelo,0,市中心以北,7.1,7.1,7.1
+更多美食,Chokoin,Chokoin,0,市中心以北,6.9,6.9,6.9
+更多美食,Cafe Floeder,Cafe Floeder,0,市中心以北,7.0,7.1,7.1
+更多美食,Tem Thaibar,Tem Thaibar,0,市中心以北,7.1,7.1,7.1
+更多美食,Braeurosl,Braeurosl,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Pepe e Sale,Pepe e Sale,0,市中心以北,7.1,7.1,7.0
+更多美食,Occam Deli,Occam Deli,0,市中心以北,7.1,7.1,7.1
+更多美食,Arts and Boards,Arts and Boards,0,市中心以北,7.1,7.1,7.1
+更多美食,O Eins,O Eins,0,市中心以北,7.1,7.1,7.1
+更多美食,Chang Noi Herzogstrasse,Chang Noi Herzogstrasse,0,市中心以北,7.1,7.1,7.1
+更多美食,Cafe/Bar Lebenslust,Cafe/Bar Lebenslust,0,市中心以北,6.9,6.9,6.9
+更多美食,Zum Jennerwein,Zum Jennerwein,0,市中心以北,6.9,6.9,6.9
+更多美食,Das Zimmer Esszimmer,Das Zimmer Esszimmer,0,市中心以北,7.1,7.1,7.1
+更多美食,Gran Sasso,Gran Sasso,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Rolandseck,Rolandseck,0,市中心以北,7.1,7.1,7.1
+更多美食,Rapido,Rapido,0,市中心以北,6.9,6.9,6.9
+更多美食,SPORTARENA BAYERNLB,SPORTARENA BAYERNLB,0,市中心以北,6.9,6.9,6.9
+更多美食,Cafe Maria,Cafe Maria,0,,7.1,7.1,7.1
+更多美食,Hey Luigi,Hey Luigi,0,,7.1,7.1,7.1
+更多美食,Kranz,Kranz,0,,7.1,7.1,7.1
+更多美食,Rive Gauche,Rive Gauche,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Glockenbach,Glockenbach,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Tenno,Tenno,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Kokolores,Kokolores,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Wash & Coffee,Wash & Coffee,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Nage und Sauge,Nage und Sauge,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Vegelangelo,Vegelangelo,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Adel 12,Adel 12,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Vincello,Vincello,0,,7.1,7.1,7.0
+更多美食,La Piazzola Feinkost,La Piazzola Feinkost,0,,6.9,6.9,6.9
+更多美食,Antonius Tenne,Antonius Tenne,0,,6.9,6.9,6.9
+更多美食,Tagtraeumer,Tagtraeumer,0,,7.1,7.1,7.1
+更多美食,Sudstadt,Sudstadt,0,,6.9,6.9,6.9
+更多美食,Goldmarie,Goldmarie,0,,7.1,7.1,7.1
+更多美食,Lindwurmhof,Lindwurmhof,0,,6.9,6.9,6.9
+更多美食,Osteria il Ritrovo,Osteria il Ritrovo,0,,7.1,7.1,7.0
+更多美食,Ristorante Da Rosario,Ristorante Da Rosario,0,市中心以北,7.1,7.1,7.1
+更多美食,Vinorant Alter Hof,Vinorant Alter Hof,0,市中心以北,7.1,7.1,7.1
+更多美食,Cedar lounge,Cedar lounge,0,市中心以北,7.1,7.1,7.1
+更多美食,Konditorei Woelfl,Konditorei Woelfl,0,市中心以北,7.1,7.0,7.0
+更多美食,Caffe Ristretto Munchen,Caffe Ristretto Munchen,0,市中心与火车站,7.0,7.1,7.1
+更多美食,La Fiera,La Fiera,0,市中心与火车站,7.0,7.1,7.0
+更多美食,Burgerheim,Burgerheim,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Marais,Marais,0,市中心与火车站,7.1,7.1,7.5
+更多美食,Baricentro,Baricentro,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Miura,Miura,0,市中心与火车站,7.1,7.1,7.1
+更多美食,B3 Burger & Bar,B3 Burger & Bar,0,市中心与火车站,7.1,7.1,7.0
+更多美食,Boonian,Boonian,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Braunauer Hof,Braunauer Hof,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Kentucky Fried Chicken,Kentucky Fried Chicken,0,市中心与火车站,6.9,6.9,6.9
+更多美食,"""Die Alm"" im Mandarin Oriental","""Die Alm"" im Mandarin Oriental",0,市中心与火车站,7.1,7.1,7.1
+更多美食,Conviva im Blauen Haus der Munchner Kammerspiele,Conviva im Blauen Haus der Munchner Kammerspiele,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Jodlerwirt,Jodlerwirt,0,市中心与火车站,7.1,7.1,7.1
+更多美食,BAR Muenchen,BAR Muenchen,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Bar Tabacco,Bar Tabacco,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Cafe Kunsthalle,Cafe Kunsthalle,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Pommes Freunde,Pommes Freunde,0,市中心与火车站,7.1,7.1,6.8
+更多美食,Riemini,Riemini,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+更多美食,Iberlbuhne,Iberlbuhne,0,其他,7.1,7.1,7.1
+更多美食,Pavillon,Pavillon,0,其他,7.1,7.0,7.1
+更多美食,Leiberheim,Leiberheim,0,其他,7.1,7.1,7.1
+更多美食,Alter Wirt Forstenried,Alter Wirt Forstenried,0,其他,6.9,6.9,6.9
+更多美食,Maxhof,Maxhof,0,其他,7.1,7.1,7.0
+更多美食,Bella Roma,Bella Roma,0,其他,7.1,7.1,6.8
+更多美食,Mezzogiorno,Mezzogiorno,0,其他,7.0,7.1,7.0
+更多美食,Harlachinger Einkehr,Harlachinger Einkehr,0,其他,7.1,7.1,7.1
+更多美食,Perlacher Hof,Perlacher Hof,0,其他,7.1,7.1,7.1
+更多美食,SIEBENBRUNN Wirtshaus & Biergarten am Tierpark,SIEBENBRUNN Wirtshaus & Biergarten am Tierpark,0,其他,7.1,7.1,7.1
+更多美食,Hufnagel,Hufnagel,0,其他,7.1,7.1,7.1
+更多美食,Zum Flaucher,Zum Flaucher,0,其他,7.1,7.1,7.1
+更多美食,Krambambuli Restaurant,Krambambuli Restaurant,0,其他,7.1,7.1,7.1
+更多美食,McDonald's,McDonald's,0,其他,6.9,6.9,6.9
+更多美食,BALD NEU,BALD NEU,0,其他,6.9,6.9,6.9
+更多美食,La Fattoria,La Fattoria,0,其他,7.1,7.1,7.1
+更多美食,Trattoria Raphael,Trattoria Raphael,0,其他,7.1,7.1,7.0
+更多美食,Mai Garten,Mai Garten,0,其他,6.9,6.9,6.9
+更多美食,Sesto Senso,Sesto Senso,0,其他,7.1,7.1,7.1
+更多美食,Merhaba,Merhaba,0,其他,7.1,7.1,7.1
+更多美食,Servabo,Servabo,0,其他,7.1,7.0,7.0
+更多美食,Dal Vero Italiano,Dal Vero Italiano,0,其他,6.9,6.9,6.9
+更多美食,Blauer Vogel,Blauer Vogel,0,其他,7.1,7.1,7.0
+更多美食,Negroni,Negroni,0,其他,7.1,7.1,7.1
+更多美食,L Angolino,L Angolino,0,其他,6.9,6.9,6.9
+更多美食,Satluj,Satluj,0,其他,7.1,7.1,7.1
+更多美食,Holy Burger,Holy Burger,0,其他,7.1,6.8,7.1
+更多美食,Trattoria Marinella,Trattoria Marinella,0,其他,7.1,7.1,7.1
+更多美食,Celebrita,Celebrita,0,其他,7.1,7.1,7.1
+更多美食,Monte Grappa,Monte Grappa,0,其他,7.0,7.1,6.9
+更多美食,Kaminstube,Kaminstube,0,其他,6.9,6.9,6.9
+更多美食,Cafe Gelateria Gino,Cafe Gelateria Gino,0,市中心以北,6.9,7.1,7.1
+更多美食,Landgasthof Deutsche Eiche,Landgasthof Deutsche Eiche,0,其他,7.1,7.1,7.1
+更多美食,Olive,Olive,0,其他,7.1,7.1,7.1
+更多美食,Antica Osteria,Antica Osteria,0,其他,6.9,6.9,6.9
+更多美食,Stachus Stuberl,Stachus Stuberl,0,,6.9,6.9,6.9
+更多美食,Alter Wirt,Alter Wirt,0,,7.1,7.1,7.1
+更多美食,Ristorantino Pastello,Ristorantino Pastello,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+更多美食,To Steki,To Steki,0,,6.9,6.9,6.9
+更多美食,Cafe Fruhtau,Cafe Fruhtau,0,,6.9,6.9,6.9
+更多美食,Da Ugo,Da Ugo,0,,7.1,7.1,7.1
+更多美食,Forum Restaurant. Cafe. Bar,Forum Restaurant. Cafe. Bar,0,,7.1,7.1,7.1
+更多美食,Sappralott,Sappralott,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Gusto Suppe-Brot-Kaffee,Gusto Suppe-Brot-Kaffee,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,Gusto e Vino,Gusto e Vino,0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.0
+更多美食,Maharaja - Indisches Spezialitaten Restaurant,Maharaja - Indisches Spezialitaten Restaurant,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.0
+更多美食,Don Camillo,Don Camillo,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,Luna Rossa,Luna Rossa,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.0
+更多美食,Emporio Italiano,Emporio Italiano,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Gerner,Gerner,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Pils Corner,Pils Corner,0,,7.0,7.1,7.1
+更多美食,Stemmer Kuchl,Stemmer Kuchl,0,其他,7.1,7.1,7.1
+更多美食,Bagutta,Bagutta,0,,7.1,7.1,7.1
+更多美食,Zimt Und Zucker,Zimt Und Zucker,0,其他,6.9,6.9,6.9
+更多美食,Da Maria,Da Maria,0,其他,6.9,6.9,6.9
+更多美食,Cafe Flower,Cafe Flower,0,其他,6.9,6.9,6.9
+更多美食,Pizza Hut,Pizza Hut,0,市中心与火车站,7.0,7.1,7.0
+更多美食,Thessaloniki,Thessaloniki,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Casa della Pizza im Elisenhof,Casa della Pizza im Elisenhof,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Das The Charles Restaurant - Davvero,Das The Charles Restaurant - Davvero,0,市中心与火车站,7.1,7.1,7.0
+更多美食,Conti Bistro,Conti Bistro,0,市中心以北,7.0,7.0,7.0
+更多美食,Tonino,Tonino,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,Yam Vegan Deli,Yam Vegan Deli,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,Chao-Khun,Chao-Khun,0,市中心以北,7.0,7.0,7.0
+更多美食,SPfandl Pilspub G,SPfandl Pilspub G,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,TimBallo,TimBallo,0,市中心以北,7.0,7.0,7.0
+更多美食,"Stehcafe, Imbiss (Deutschlander)","Stehcafe, Imbiss (Deutschlander)",0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,Loewenbraeu Keller,Loewenbraeu Keller,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Staro Pizza & Pasta,Staro Pizza & Pasta,0,市中心以北,6.9,6.9,6.9
+更多美食,Piccoli Osteria,Piccoli Osteria,0,市中心以北,7.0,7.0,7.0
+更多美食,Bobby's,Bobby's,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Frida,Frida,0,市中心以北,7.0,6.9,7.0
+更多美食,IO Espressobar,IO Espressobar,0,市中心以北,6.9,6.9,6.9
+更多美食,Die Ausgabe,Die Ausgabe,0,市中心以北,7.0,6.9,7.0
+更多美食,Tafel & Schwafel,Tafel & Schwafel,0,市中心以北,7.0,7.0,7.0
+更多美食,Lucky Sushi,Lucky Sushi,0,市中心以北,7.0,7.0,6.9
+更多美食,La LIRA,La LIRA,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,Cafe Karma,Cafe Karma,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,Pavesi Picnic,Pavesi Picnic,0,市中心以北,7.0,7.0,7.0
+更多美食,Cafe Zeitgeist,Cafe Zeitgeist,0,市中心以北,7.0,7.0,7.0
+更多美食,truffaldinos,truffaldinos,0,市中心以北,7.1,7.0,7.0
+更多美食,Turkenhof,Turkenhof,0,市中心以北,7.0,7.0,7.0
+更多美食,Hannes,Hannes,0,奥林匹亚公园(Olympiapark)周边,7.0,7.1,7.1
+更多美食,Fouquets Creole Bar & Restaurant,Fouquets Creole Bar & Restaurant,0,市中心以北,7.0,7.0,7.0
+更多美食,Salong,Salong,0,市中心以北,6.9,6.9,6.9
+更多美食,Haus des Lachelns Thi Tuyet Nguyen,Haus des Lachelns Thi Tuyet Nguyen,0,市中心以北,7.0,7.0,7.0
+更多美食,Bar Triana,Bar Triana,0,市中心以北,7.0,7.0,7.0
+更多美食,Haagen Dazs,Haagen Dazs,0,市中心以北,7.0,7.0,7.0
+更多美食,Agnes Neun Inh. Gunther Hopfner,Agnes Neun Inh. Gunther Hopfner,0,市中心以北,7.0,7.0,7.0
+更多美食,Da Bello e Bello,Da Bello e Bello,0,市中心以北,7.0,7.0,6.9
+更多美食,Ralph s,Ralph s,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,San Francisco Coffee Company Hohenzollernstr.,San Francisco Coffee Company Hohenzollernstr.,0,市中心以北,7.0,7.0,7.0
+更多美食,Baumann Vecchia Masseria Michael,Baumann Vecchia Masseria Michael,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Isar-Post Cafe & Bar,Isar-Post Cafe & Bar,0,市中心与火车站,7.0,6.9,6.9
+更多美食,Castelli,Castelli,0,市中心以北,6.9,6.9,6.9
+更多美食,Dilan,Dilan,0,市中心以北,7.0,7.0,7.0
+更多美食,Clemensburg,Clemensburg,0,市中心以北,6.9,6.9,6.9
+更多美食,La Casamance,La Casamance,0,市中心以北,7.0,7.0,7.0
+更多美食,Olympia Alm,Olympia Alm,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Puppenstube,Puppenstube,0,市中心以北,6.9,6.9,6.9
+更多美食,Events 93,Events 93,0,市中心以北,6.9,6.9,6.9
+更多美食,Café Ludwig,Café Ludwig,0,市中心以北,7.0,7.0,7.0
+更多美食,Mia,Mia,0,,6.9,6.9,6.9
+更多美食,Kaiser Otto,Kaiser Otto,0,,7.0,7.0,7.0
+更多美食,Frenzy,Frenzy,0,,7.0,7.0,7.0
+更多美食,Fei Scho,Fei Scho,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Melcher's,Melcher's,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Nudelhaus Sano,Nudelhaus Sano,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Gelateria Garda,Gelateria Garda,0,市中心与火车站,6.9,6.7,6.9
+更多美食,Conforti,Conforti,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Zwinger Eck,Zwinger Eck,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Amalfi,Amalfi,0,,7.0,7.0,7.0
+更多美食,Monsiur Hu,Monsiur Hu,0,,6.9,6.9,6.9
+更多美食,Frischeparadies,Frischeparadies,0,,7.0,7.0,6.9
+更多美食,Pequeno Mexikanisches Restaurant,Pequeno Mexikanisches Restaurant,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多美食,Naumann's Huttn Wirt,Naumann's Huttn Wirt,0,市中心以北,6.9,6.9,6.9
+更多美食,dalmatiner grill,dalmatiner grill,0,市中心以北,7.0,7.0,6.9
+更多美食,Bistro Die Windrose,Bistro Die Windrose,0,市中心以北,6.9,6.9,6.9
+更多美食,I Love Leo,I Love Leo,0,市中心以北,7.0,7.0,7.0
+更多美食,Casa Mia,Casa Mia,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多美食,Dionysos,Dionysos,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多美食,Pizza Movin,Pizza Movin,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Ca Va,Ca Va,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Zum Ganghofer,Zum Ganghofer,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Boogie Donuts,Boogie Donuts,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Trattoria Luigi al Mercato,Trattoria Luigi al Mercato,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Copacabana,Copacabana,0,市中心与火车站,7.1,7.1,7.0
+更多美食,Museumsstuberl,Museumsstuberl,0,市中心与火车站,7.0,7.1,7.1
+更多美食,Toulou,Toulou,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Bon Valeur,Bon Valeur,0,市中心与火车站,7.0,7.0,6.9
+更多美食,Hunsinger,Hunsinger,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Aubergine,Aubergine,0,市中心与火车站,7.1,7.1,7.0
+更多美食,Iberl's Gasthaus & Biergarten,Iberl's Gasthaus & Biergarten,0,其他,7.0,7.0,7.0
+更多美食,Gasthof Schutzenlust Georg Feigl,Gasthof Schutzenlust Georg Feigl,0,其他,7.0,7.0,7.0
+更多美食,Al Caminetto,Al Caminetto,0,其他,7.0,7.0,7.0
+更多美食,Loewenschaenke,Loewenschaenke,0,其他,7.0,7.1,7.0
+更多美食,Einkehr zur Schwaige,Einkehr zur Schwaige,0,其他,7.0,7.0,7.0
+更多美食,Incontro,Incontro,0,其他,7.0,7.0,6.9
+更多美食,Poseidon,Poseidon,0,其他,7.0,7.0,7.0
+更多美食,Royal Garden China Restaurant & Bar,Royal Garden China Restaurant & Bar,0,其他,7.0,7.0,7.0
+更多美食,Mama Mia,Mama Mia,0,其他,7.0,7.0,7.0
+更多美食,Ichi Ban,Ichi Ban,0,其他,7.0,7.0,7.0
+更多美食,Le Jardin,Le Jardin,0,其他,6.9,6.9,6.9
+更多美食,Tegernseer Wirtshaus & mehr,Tegernseer Wirtshaus & mehr,0,其他,6.9,6.9,6.9
+更多美食,Essen im Sommer,Essen im Sommer,0,其他,6.9,6.9,6.9
+更多美食,Humboldts,Humboldts,0,其他,6.9,6.9,6.9
+更多美食,Il Falco,Il Falco,0,其他,7.0,7.0,6.9
+更多美食,Exil,Exil,0,其他,7.0,7.0,7.1
+更多美食,Willenlos,Willenlos,0,其他,6.9,6.9,6.9
+更多美食,Tap House - Camba Bavaria,Tap House - Camba Bavaria,0,其他,7.0,7.0,7.0
+更多美食,Teatro Bar Tapas,Teatro Bar Tapas,0,其他,7.0,7.0,7.0
+更多美食,Palet Restaurant,Palet Restaurant,0,其他,7.0,7.0,7.0
+更多美食,Dilo,Dilo,0,其他,6.9,6.9,6.9
+更多美食,SUBWAY Restaurant,SUBWAY Restaurant,0,其他,6.9,6.9,6.9
+更多美食,Spoon up Speisebar,Spoon up Speisebar,0,其他,7.0,7.0,7.0
+更多美食,Hinterhofcafe,Hinterhofcafe,0,其他,7.0,7.0,7.0
+更多美食,MEMO,MEMO,0,其他,6.9,6.9,6.9
+更多美食,Hakeyo House,Hakeyo House,0,其他,7.0,7.0,7.0
+更多美食,Apollon,Apollon,0,其他,7.0,7.0,7.0
+更多美食,Vino's Restourante Inh. Bernd Glaser,Vino's Restourante Inh. Bernd Glaser,0,其他,7.0,7.0,7.0
+更多美食,M.C. Gastronomie,M.C. Gastronomie,0,,7.0,7.0,7.0
+更多美食,Il Salento,Il Salento,0,宁芬堡(Nymphenburg)周边,7.0,7.0,7.0
+更多美食,La Villetta,La Villetta,0,伊萨尔河(Isar)东岸,7.0,7.0,6.9
+更多美食,Taverna Odyssee Inh. Ioannis Lamprou,Taverna Odyssee Inh. Ioannis Lamprou,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多美食,Dolce Vita,Dolce Vita,0,,7.0,7.0,7.0
+更多美食,Da Antonio,Da Antonio,0,,7.0,7.0,7.0
+更多美食,Nammos,Nammos,0,,7.0,7.0,7.0
+更多美食,Call a Pizza - Munchen Sendling,Call a Pizza - Munchen Sendling,0,,6.9,6.9,6.9
+更多美食,Alexis Sorbas,Alexis Sorbas,0,,7.0,7.1,6.9
+更多美食,Lowenbraustuberl,Lowenbraustuberl,0,,7.1,7.0,7.1
+更多美食,Taverna Kypros,Taverna Kypros,0,,6.9,6.9,6.9
+更多美食,Zur Post,Zur Post,0,,7.0,7.0,6.9
+更多美食,Wirtshaus Zur Freundschaft,Wirtshaus Zur Freundschaft,0,伊萨尔河(Isar)东岸,6.9,6.9,6.9
+更多美食,La Reginella,La Reginella,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多美食,Rick's Cafe,Rick's Cafe,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Dietrich v. Bern,Dietrich v. Bern,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,6.9
+更多美食,Ristorante Pizzeria Rizzo,Ristorante Pizzeria Rizzo,0,,7.0,6.7,6.7
+更多美食,Phuong-Hoang,Phuong-Hoang,0,,7.0,7.0,7.0
+更多美食,Moosbichl,Moosbichl,0,,6.9,6.9,6.9
+更多美食,Restaurant Plastiras,Restaurant Plastiras,0,,7.0,7.1,7.0
+更多美食,Schwan,Schwan,0,市中心与火车站,6.9,7.0,7.0
+更多美食,La Fiesta,La Fiesta,0,市中心与火车站,6.7,6.9,7.0
+更多美食,Alt Muenchner Gesellenhaus,Alt Muenchner Gesellenhaus,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Schiller Cafe,Schiller Cafe,0,市中心与火车站,6.8,7.1,7.1
+更多美食,Montana Restaurant,Montana Restaurant,0,市中心与火车站,7.1,7.1,6.9
+更多美食,Yorma's AG,Yorma's AG,0,市中心与火车站,7.1,7.1,6.8
+更多美食,La Stazione,La Stazione,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Subway,Subway,0,市中心与火车站,7.1,7.1,6.9
+更多美食,Bratar,Bratar,0,市中心与火车站,7.0,6.9,6.9
+更多美食,Lenbach,Lenbach,0,市中心与火车站,7.2,6.8,7.2
+更多美食,The Charles Restaurant im Rocco Forte,The Charles Restaurant im Rocco Forte,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Filmcasino,Filmcasino,0,市中心以北,6.9,6.9,7.0
+更多美食,Salt,Salt,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多美食,Cafe Bar Tre stelle,Cafe Bar Tre stelle,0,奥林匹亚公园(Olympiapark)周边,6.9,6.7,6.9
+更多美食,Taste my Burger,Taste my Burger,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Busners,Busners,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Ballabeni,Ballabeni,0,市中心以北,7.2,7.2,7.2
+更多美食,Ginger,Ginger,0,奥林匹亚公园(Olympiapark)周边,7.1,7.0,7.0
+更多美食,Bit-Stube Bei Moritz,Bit-Stube Bei Moritz,0,市中心以北,7.1,7.1,7.1
+更多美食,Cafe Katzentempel,Cafe Katzentempel,0,市中心以北,7.0,7.0,7.0
+更多美食,Al Torchio Trattoria Vinoteca,Al Torchio Trattoria Vinoteca,0,市中心以北,7.2,7.2,7.2
+更多美食,Al Dente,Al Dente,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Rosso Nero,Rosso Nero,0,奥林匹亚公园(Olympiapark)周边,7.2,7.2,7.2
+更多美食,Zadar,Zadar,0,奥林匹亚公园(Olympiapark)周边,6.9,6.9,6.9
+更多美食,Burrito Company,Burrito Company,0,市中心以北,7.1,7.3,7.1
+更多美食,Trattoria Bellini,Trattoria Bellini,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Gratitude,Gratitude,0,市中心以北,7.1,7.1,7.1
+更多美食,Taverna Pavlos,Taverna Pavlos,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,La Prima Volta Inh. Barbagiovanni Antonio,La Prima Volta Inh. Barbagiovanni Antonio,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,sansaro,sansaro,0,市中心以北,7.1,7.1,7.1
+更多美食,Zum Koreaner,Zum Koreaner,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,6.9
+更多美食,Cafe Cuccuma Munchen,Cafe Cuccuma Munchen,0,市中心以北,7.0,7.0,7.0
+更多美食,Max Emanuel Brauerei,Max Emanuel Brauerei,0,市中心以北,7.0,6.9,7.0
+更多美食,Porto Cervo,Porto Cervo,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Sobicocoa,Sobicocoa,0,市中心以北,7.0,7.0,7.1
+更多美食,Cafe TH,Cafe TH,0,市中心以北,7.0,7.0,7.0
+更多美食,Le Florida,Le Florida,0,市中心以北,7.1,6.8,7.1
+更多美食,Daslokal,Daslokal,0,市中心以北,7.3,7.3,7.1
+更多美食,Leonrod,Leonrod,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,6.8
+更多美食,Leons Handels,Leons Handels,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Kavos,Kavos,0,市中心以北,7.0,6.9,6.9
+更多美食,Wintergarten,Wintergarten,0,市中心以北,7.1,7.1,7.1
+更多美食,Tiratardi,Tiratardi,0,市中心以北,7.1,7.1,7.1
+更多美食,Kalyposo,Kalyposo,0,市中心以北,6.9,6.9,6.9
+更多美食,grenzstein,grenzstein,0,市中心以北,6.9,6.9,6.9
+更多美食,Anniks Cafe Und Das Gaumenspiel,Anniks Cafe Und Das Gaumenspiel,0,市中心以北,6.9,6.9,6.9
+更多美食,Die blaue Donau,Die blaue Donau,0,市中心以北,6.9,6.9,6.9
+更多美食,Leopold,Leopold,0,市中心以北,7.0,7.0,7.0
+更多美食,Boulangerie,Boulangerie,0,市中心以北,7.1,7.0,7.0
+更多美食,Caffe Florian,Caffe Florian,0,市中心以北,7.1,6.8,7.1
+更多美食,Zum Feinschmecker,Zum Feinschmecker,0,市中心以北,7.0,6.9,7.0
+更多美食,Movie's,Movie's,0,市中心与火车站,7.0,7.0,6.9
+更多美食,Armbrustschutzen Festhalle,Armbrustschutzen Festhalle,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Winzerer Faehndl,Winzerer Faehndl,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Fischer-Vroni,Fischer-Vroni,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Kaefer's Wies'n Schaenke,Kaefer's Wies'n Schaenke,0,市中心与火车站,7.0,7.1,7.0
+更多美食,Hippodrom,Hippodrom,0,市中心与火车站,7.0,7.0,7.0
+更多美食,8-Seasons,8-Seasons,0,市中心与火车站,6.9,7.0,7.0
+更多美食,Marmaris,Marmaris,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Trattoria Semplice,Trattoria Semplice,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Zentrale,Zentrale,0,奥林匹亚公园(Olympiapark)周边,7.0,7.0,7.0
+更多美食,Gasthaus Weinbauer,Gasthaus Weinbauer,0,市中心以北,7.2,7.2,7.2
+更多美食,Gelato Bartu,Gelato Bartu,0,市中心以北,7.1,7.1,7.1
+更多美食,Leon's Wirtshaus,Leon's Wirtshaus,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Blue Nile 1,Blue Nile 1,0,市中心以北,7.1,6.8,6.8
+更多美食,China-Express Restaurant,China-Express Restaurant,0,市中心以北,6.7,6.9,6.7
+更多美食,Barschwein,Barschwein,0,市中心以北,7.0,7.0,7.0
+更多美食,Drugstore,Drugstore,0,市中心以北,7.1,7.1,7.1
+更多美食,Tapasita,Tapasita,0,市中心以北,6.9,7.0,7.0
+更多美食,Trattoria Donna Maria,Trattoria Donna Maria,0,市中心以北,7.0,6.9,7.0
+更多美食,Tibet Kitchen,Tibet Kitchen,0,市中心以北,7.0,7.0,7.0
+更多美食,Ho Goun,Ho Goun,0,市中心以北,6.9,6.9,6.9
+更多美食,Black Bean Pundterplatz - Coffeeshop & Cafe,Black Bean Pundterplatz - Coffeeshop & Cafe,0,市中心以北,6.9,6.9,6.9
+更多美食,Cannone Bar,Cannone Bar,0,市中心以北,7.1,7.1,7.1
+更多美食,The Potting Shed,The Potting Shed,0,市中心以北,7.1,7.1,7.1
+更多美食,Sindbad,Sindbad,0,市中心以北,6.9,6.9,6.9
+更多美食,Waldfee,Waldfee,0,市中心以北,7.1,7.1,7.1
+更多美食,Cafe Schoentag,Cafe Schoentag,0,市中心以北,7.1,6.9,7.0
+更多美食,Il Bocco,Il Bocco,0,市中心以北,7.0,7.0,7.0
+更多美食,Sushibar,Sushibar,0,市中心以北,7.1,7.1,7.1
+更多美食,Basic Bio-Buffet & Restaurant,Basic Bio-Buffet & Restaurant,0,市中心以北,7.0,7.1,7.0
+更多美食,El Mirador,El Mirador,0,市中心以北,6.8,6.8,6.8
+更多美食,Le Sud GbR Xavier Magnin und Ludwig Holzl,Le Sud GbR Xavier Magnin und Ludwig Holzl,0,市中心以北,7.1,7.1,7.1
+更多美食,Michelangelo,Michelangelo,0,市中心以北,7.0,7.0,7.0
+更多美食,Yinshi,Yinshi,0,市中心以北,7.2,7.2,7.2
+更多美食,Shanai,Shanai,0,市中心以北,7.1,7.1,7.0
+更多美食,Restaurant 181 First,Restaurant 181 First,0,奥林匹亚公园(Olympiapark)周边,7.1,7.1,7.1
+更多美食,Daily,Daily,0,市中心以北,6.9,6.9,6.9
+更多美食,Geyerwally,Geyerwally,0,,7.0,7.0,7.0
+更多美食,Cafe Glueck,Cafe Glueck,0,,7.1,7.1,7.1
+更多美食,Minh,Minh,0,,7.0,7.0,7.0
+更多美食,Orangha,Orangha,0,,7.1,7.0,7.0
+更多美食,Hungriges Herz,Hungriges Herz,0,,7.1,7.1,7.1
+更多美食,Wassermann - Isarvorstadt,Wassermann - Isarvorstadt,0,,7.1,7.1,7.1
+更多美食,Gekü - gesunde Küche,Gekü - gesunde Küche,0,,7.0,7.0,6.9
+更多美食,Mui-Ne Vietnamesisches Restaurant & Bar,Mui-Ne Vietnamesisches Restaurant & Bar,0,,7.0,7.0,7.0
+更多美食,Baader Cafe,Baader Cafe,0,,7.0,6.9,7.0
+更多美食,Pasta e Basta,Pasta e Basta,0,,6.9,7.0,6.9
+更多美食,Frank's Amici,Frank's Amici,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Bamyan Narges,Bamyan Narges,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Burg Pappenheim,Burg Pappenheim,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Wirtshausbar Moro,Wirtshausbar Moro,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Dudu,Dudu,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Ochsengarten,Ochsengarten,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Pacific Times,Pacific Times,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Bar Corso,Bar Corso,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Joe Penas,Joe Penas,0,市中心与火车站,7.2,6.8,7.2
+更多美食,Konigsquelle,Konigsquelle,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Andy's Krablergarten,Andy's Krablergarten,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Prosecco,Prosecco,0,市中心与火车站,6.9,7.0,7.0
+更多美食,Landersdorfer und Innerhofer,Landersdorfer und Innerhofer,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Jazzbar Vogler,Jazzbar Vogler,0,市中心与火车站,7.1,7.1,7.5
+更多美食,XII Apostel,XII Apostel,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Restaurant No.5,Restaurant No.5,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Le BARESTOVINO,Le BARESTOVINO,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Mariannenhof,Mariannenhof,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Golden Panda,Golden Panda,0,,6.9,6.9,6.9
+更多美食,Giuseppe,Giuseppe,0,,7.1,6.8,6.8
+更多美食,Wirtshaus Valley's,Wirtshaus Valley's,0,,7.1,7.1,7.1
+更多美食,Kunzes Restaurant,Kunzes Restaurant,0,,6.9,6.9,6.9
+更多美食,Mehfil,Mehfil,0,,7.1,7.1,7.0
+更多美食,Trattoria Gennaro Bussone O'Scugnizz,Trattoria Gennaro Bussone O'Scugnizz,0,,7.1,6.8,7.1
+更多美食,Roecklplatz,Roecklplatz,0,,7.1,7.1,7.1
+更多美食,Cafe Kreislauf,Cafe Kreislauf,0,,7.0,7.0,7.0
+更多美食,Ricasso,Ricasso,0,,7.0,7.0,7.0
+更多美食,Zimt,Zimt,0,,7.1,7.1,7.1
+更多美食,Los Bandidos,Los Bandidos,0,,6.9,6.9,6.9
+更多美食,Shane's Restaurant,Shane's Restaurant,0,,7.2,7.2,7.2
+更多美食,Cafe Blue,Cafe Blue,0,,7.1,7.1,7.1
+更多美食,Substanz,Substanz,0,,7.0,7.0,7.0
+更多美食,"Delice, La Brasserie","Delice, La Brasserie",0,,7.1,7.1,7.1
+更多美食,Bistro Giovanotti,Bistro Giovanotti,0,,7.1,7.1,7.0
+更多美食,Chang Noi,Chang Noi,0,,7.1,7.1,7.1
+更多美食,Hopfengarten,Hopfengarten,0,,7.0,7.0,7.0
+更多美食,Bei Charly,Bei Charly,0,伊萨尔河(Isar)东岸,7.0,7.1,7.0
+更多美食,Gaststatte Bray'ers,Gaststatte Bray'ers,0,伊萨尔河(Isar)东岸,7.1,7.1,7.0
+更多美食,Aquamarin,Aquamarin,0,市中心以北,7.0,7.0,7.0
+更多美食,la cucina trattoria,la cucina trattoria,0,市中心以北,7.2,7.2,7.2
+更多美食,Prinzipal,Prinzipal,0,市中心以北,6.9,7.0,7.0
+更多美食,Naumanns Huttnwirt,Naumanns Huttnwirt,0,市中心以北,7.0,7.1,7.0
+更多美食,Backspielhaus,Backspielhaus,0,市中心以北,7.2,6.8,7.2
+更多美食,Fraulein Gruneis,Fraulein Gruneis,0,市中心以北,7.1,7.1,7.3
+更多美食,Wiener's Speisecafe Bar,Wiener's Speisecafe Bar,0,市中心以北,6.9,6.9,6.9
+更多美食,Jahn-Restaurant,Jahn-Restaurant,0,市中心以北,6.9,6.9,6.9
+更多美食,Vucko,Vucko,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多美食,Bonsai Garden,Bonsai Garden,0,伊萨尔河(Isar)东岸,7.0,7.0,7.0
+更多美食,Restaurant Cafe Catwalk,Restaurant Cafe Catwalk,0,市中心以北,7.1,7.1,7.1
+更多美食,Palenque,Palenque,0,市中心以北,6.9,6.9,6.9
+更多美食,Restaurant Huber,Restaurant Huber,0,市中心以北,7.1,7.1,7.1
+更多美食,Konigin 43,Konigin 43,0,市中心以北,7.0,7.1,7.1
+更多美食,Caffe Luna,Caffe Luna,0,市中心以北,7.0,7.0,7.0
+更多美食,Koenigin 43,Koenigin 43,0,市中心以北,7.0,7.0,7.0
+更多美食,Casale Ristorante,Casale Ristorante,0,伊萨尔河(Isar)东岸,7.0,7.0,6.9
+更多美食,Wiener's Speise Cafe Bar,Wiener's Speise Cafe Bar,0,市中心以北,7.1,6.8,7.1
+更多美食,Arabesk,Arabesk,0,市中心以北,6.8,6.4,7.2
+更多美食,Santoor Inh. Tanver Butt,Santoor Inh. Tanver Butt,0,伊萨尔河(Isar)东岸,7.1,7.1,6.9
+更多美食,Cafe Reitschule,Cafe Reitschule,0,市中心以北,7.2,7.2,7.2
+更多美食,Restaurant Papatakis,Restaurant Papatakis,0,市中心以北,7.0,7.0,6.9
+更多美食,Zoe's,Zoe's,0,市中心以北,7.1,7.1,7.1
+更多美食,Ganghofer 68,Ganghofer 68,0,,7.1,7.1,7.1
+更多美食,Villa Flora,Villa Flora,0,市中心与火车站,6.8,6.8,7.2
+更多美食,Al Paladino,Al Paladino,0,市中心与火车站,7.1,7.1,7.1
+更多美食,mezzo cobar,mezzo cobar,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Bodhi,Bodhi,0,市中心与火车站,6.7,6.9,6.9
+更多美食,Abant,Abant,0,市中心与火车站,7.0,7.1,7.0
+更多美食,La Kaz,La Kaz,0,市中心与火车站,7.0,6.9,7.0
+更多美食,Sarfati,Sarfati,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Taormina,Taormina,0,市中心与火车站,7.1,7.0,7.0
+更多美食,Zur Schwalbe,Zur Schwalbe,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Marietta Cucina,Marietta Cucina,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Lotter-Leben,Lotter-Leben,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Cafe Woerner's,Cafe Woerner's,0,市中心与火车站,7.2,6.8,7.2
+更多美食,ocui,ocui,0,市中心与火车站,7.2,6.8,7.2
+更多美食,Harpers and Queens,Harpers and Queens,0,市中心与火车站,6.8,6.8,7.1
+更多美食,Sababa,Sababa,0,市中心与火车站,7.1,7.0,7.0
+更多美食,KAIMUG,KAIMUG,0,市中心与火车站,7.0,6.9,6.9
+更多美食,Valentin-Stuberl,Valentin-Stuberl,0,市中心与火车站,7.0,7.1,7.1
+更多美食,Starbucks,Starbucks,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Sushi King,Sushi King,0,市中心与火车站,6.9,7.0,6.9
+更多美食,Marktwirt,Marktwirt,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Maggi Kochstudio,Maggi Kochstudio,0,市中心与火车站,7.0,7.0,7.0
+更多美食,"""Playa"" Cafe-Restaurant","""Playa"" Cafe-Restaurant",0,市中心与火车站,7.0,7.0,7.0
+更多美食,Le Clou,Le Clou,0,市中心与火车站,6.9,7.0,7.0
+更多美食,Cole & Porter Bar,Cole & Porter Bar,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Cafe San Pietro,Cafe San Pietro,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Cafe Cord,Cafe Cord,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Maredo,Maredo,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Sip & Dip,Sip & Dip,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Huhner- Und Entenbraterei Wildmoser,Huhner- Und Entenbraterei Wildmoser,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Weinhaus Neuner,Weinhaus Neuner,0,市中心与火车站,7.2,7.2,7.2
+更多美食,Schuhbecks Gewurze Munchen,Schuhbecks Gewurze Munchen,0,市中心与火车站,7.1,7.1,7.1
+更多美食,Morawek & Mencner Gastronomie,Morawek & Mencner Gastronomie,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Schuhbecks Gewurze Munchen,Schuhbecks Gewurze Munchen,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Spatenhof,Spatenhof,0,市中心与火车站,6.8,6.8,6.8
+更多美食,Osteria Il Tenore,Osteria Il Tenore,0,市中心与火车站,7.2,7.2,7.2
+更多美食,BLATTsalate,BLATTsalate,0,市中心与火车站,6.8,6.5,6.8
+更多美食,India Kin,India Kin,0,市中心与火车站,6.9,6.9,6.9
+更多美食,Schutzen-Festzelt,Schutzen-Festzelt,0,市中心与火车站,7.0,7.0,7.0
+更多美食,Tizian,Tizian,0,市中心与火车站,7.0,6.9,7.0
+更多美食,Atelier,Atelier,0,市中心与火车站,7.3,7.3,7.3
+更多美食,Muenchner Kuenstlerhaus,Muenchner Kuenstlerhaus,0,市中心与火车站,7.1,6.8,7.1

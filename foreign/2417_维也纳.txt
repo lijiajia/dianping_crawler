@@ -1,0 +1,1981 @@
+意大利菜,Ristorante Al Caminetto da Mario,Ristorante Al Caminetto da Mario,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Fiorino,Pizzeria Ristorante Fiorino,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+意大利菜,Pizzeria der Babenberger,Pizzeria der Babenberger,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,I Leoni,I Leoni,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Restaurant Fernbedienung,Restaurant Fernbedienung,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+意大利菜,Cantinetta Antinori,Cantinetta Antinori,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Bacchus Alberto,Bacchus Alberto,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,repubblica del vino.vienna,repubblica del vino.vienna,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+意大利菜,Il Veliero,Il Veliero,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+意大利菜,Xpedit van Veinsten,Xpedit van Veinsten,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Trattoria Da Angelo,Trattoria Da Angelo,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,CANTINETTA am Ring - Cucina Italiana,CANTINETTA am Ring - Cucina Italiana,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Osteria Pronto da Salvo,Osteria Pronto da Salvo,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Al Capone,Al Capone,0,维也纳国际机场,0.0,0.0,0.0
+意大利菜,Scala,Scala,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,La Tavolozza,La Tavolozza,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+意大利菜,Sapori d' Italia,Sapori d' Italia,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Impressione,Impressione,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+意大利菜,Fiorenzano,Fiorenzano,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Ristorante Mia Cucina,Ristorante Mia Cucina,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+意大利菜,Le Meridien Wien,Le Meridien Wien,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Osteria d'Atri,Osteria d'Atri,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,L'Ombra Italian Bar & Restaurant,L'Ombra Italian Bar & Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Ristorante Campanile,Ristorante Campanile,0,雅典其他,0.0,0.0,0.0
+意大利菜,Restorante Santissimo,Restorante Santissimo,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Al Sarago,Al Sarago,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+意大利菜,Ristorante Monte Rosa,Ristorante Monte Rosa,0,韦灵(Währing),0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+意大利菜,Schuppich,Schuppich,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+意大利菜,Il Sestante,Il Sestante,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+意大利菜,I Terroni,I Terroni,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+意大利菜,Antica - Roma OG,Antica - Roma OG,0,雅典其他,0.0,0.0,0.0
+意大利菜,Vapiano Moulin Rouge,Vapiano Moulin Rouge,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Sapori im Style Hotel,Sapori im Style Hotel,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Ristorante Paolo,Ristorante Paolo,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+意大利菜,Novellino,Novellino,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+意大利菜,Bubbacco,Bubbacco,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+意大利菜,Caffè Couture,Caffè Couture,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,Caffe Milano,Caffe Milano,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,Scalvini,Scalvini,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,Ossteria No Uno - Silvia & Luca,Ossteria No Uno - Silvia & Luca,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+意大利菜,Pizzeria Da Peppino,Pizzeria Da Peppino,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+意大利菜,Punto Rosso,Punto Rosso,0,席津 (Hietzing),0.0,0.0,0.0
+意大利菜,La Piazza,La Piazza,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Osteria Stradina,Osteria Stradina,0,雅典其他,0.0,0.0,0.0
+意大利菜,Pes.co Wien,Pes.co Wien,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,italic,italic,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,La norma,La norma,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Al Borgo,Al Borgo,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Cantina Osteria Friulana,Cantina Osteria Friulana,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Visconti,Visconti,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+意大利菜,Osteria Stradina,Osteria Stradina,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+意大利菜,Pizza Riva,Pizza Riva,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,Ristorante Napoletano da Nello,Ristorante Napoletano da Nello,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,Liebling,Liebling,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+意大利菜,Pizzeria Osteria da Giovanni,Pizzeria Osteria da Giovanni,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+意大利菜,Pizzeria La Favorita,Pizzeria La Favorita,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,Sebastiano,Sebastiano,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,Bacco Tabacco e Venere,Bacco Tabacco e Venere,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,Casa Alberto,Casa Alberto,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,La Delizia,La Delizia,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+意大利菜,Osteria Vinoteca Panarea,Osteria Vinoteca Panarea,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+意大利菜,Ristorante Tiziano,Ristorante Tiziano,0,迈德灵(Meidling),0.0,0.0,0.0
+意大利菜,Arcobaleno- Trattoria di Massimo,Arcobaleno- Trattoria di Massimo,0,雅典其他,0.0,0.0,0.0
+意大利菜,Pizzeria La Kuilla di Mare,Pizzeria La Kuilla di Mare,0,雅典其他,0.0,0.0,0.0
+意大利菜,Isola Verde,Isola Verde,0,雅典其他,0.0,0.0,0.0
+意大利菜,The Dining Room,The Dining Room,0,席津 (Hietzing),0.0,0.0,0.0
+意大利菜,Mario,Mario,0,席津 (Hietzing),0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Don Giovanni,Ristorante Pizzeria Don Giovanni,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,Garibaldi,Garibaldi,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,I Tricolori,I Tricolori,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Sole,Sole,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Huth da Moritz,Huth da Moritz,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Italgastro,Italgastro,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Il Melograno,Il Melograno,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Zimolo,Zimolo,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Procacci,Procacci,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Rossini,Rossini,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Regina Margherita,Regina Margherita,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Ristorante Fratelli,Ristorante Fratelli,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Cafe-Restaurant Cavaliere,Cafe-Restaurant Cavaliere,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Limes,Limes,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Tricaffe,Tricaffe,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Cantina e l'Arte,Cantina e l'Arte,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Pasta e Basta,Pasta e Basta,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Al Pacino,Al Pacino,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+意大利菜,Eatalico,Eatalico,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+意大利菜,La Massa,La Massa,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+意大利菜,Briuni,Briuni,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+意大利菜,Pizzeria La Piazza,Pizzeria La Piazza,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+意大利菜,Federico II,Federico II,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+意大利菜,Ristorante Cucinoto,Ristorante Cucinoto,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+意大利菜,La Pasteria,La Pasteria,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,Pizzeria Luna Rossa,Pizzeria Luna Rossa,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,Il Mare,Il Mare,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+意大利菜,I Carusi,I Carusi,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+意大利菜,I Ragazzi,I Ragazzi,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+意大利菜,Ristorante Opera Dei Vini Vienna,Ristorante Opera Dei Vini Vienna,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+意大利菜,Blaue Lagune,Blaue Lagune,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,Da Gino e Maria,Da Gino e Maria,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,acht ein halb,acht ein halb,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,Oliva Verde,Oliva Verde,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+意大利菜,Ristorante Gondola Pizzeria,Ristorante Gondola Pizzeria,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+意大利菜,Trattoria Margareta,Trattoria Margareta,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+意大利菜,bernado,bernado,0,法沃里滕(Favoriten),0.0,0.0,0.0
+意大利菜,Lignano,Lignano,0,迈德灵(Meidling),0.0,0.0,0.0
+意大利菜,Ristorante Don Alfredo,Ristorante Don Alfredo,0,雅典其他,0.0,0.0,0.0
+意大利菜,Quattro Due,Quattro Due,0,雅典其他,0.0,0.0,0.0
+意大利菜,Pizzeria Venezia,Pizzeria Venezia,0,雅典其他,0.0,0.0,0.0
+意大利菜,Pizzaria Mafiosi,Pizzaria Mafiosi,0,雅典其他,0.0,0.0,0.0
+意大利菜,Piccola Italia,Piccola Italia,0,雅典其他,0.0,0.0,0.0
+意大利菜,verona,verona,0,雅典其他,0.0,0.0,0.0
+意大利菜,Wetter,Wetter,0,雅典其他,0.0,0.0,0.0
+意大利菜,Pizzeria Da Annalisa,Pizzeria Da Annalisa,0,雅典其他,0.0,0.0,0.0
+意大利菜,Pizzeria Farouati,Pizzeria Farouati,0,雅典其他,0.0,0.0,0.0
+意大利菜,Ristorante Francesco Grinzing,Ristorante Francesco Grinzing,0,雅典其他,0.0,0.0,0.0
+意大利菜,Tartufo,Tartufo,0,雅典其他,0.0,0.0,0.0
+意大利菜,Ristorante il Cortile & Pizzeria da Sabino,Ristorante il Cortile & Pizzeria da Sabino,0,韦灵(Währing),0.0,0.0,0.0
+意大利菜,Grappino,Grappino,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Eisgrotte,Eisgrotte,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Settimo Cielo,Settimo Cielo,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,da Gennaro,da Gennaro,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Pizzaria Dei Fratelli,Pizzaria Dei Fratelli,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,pizza bizi,pizza bizi,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Il Cavalieri,Il Cavalieri,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Ristorante Noli,Ristorante Noli,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Martinelli Restaurant,Martinelli Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Weinstoppl,Weinstoppl,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+意大利菜,Trimelli,Trimelli,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+意大利菜,Pizzeria Valentino,Pizzeria Valentino,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,I Vecchi Amici,I Vecchi Amici,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,Pizzeria la Gondola,Pizzeria la Gondola,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+意大利菜,Venezia,Venezia,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Ischia,Ristorante Pizzeria Ischia,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,bell 'Amore Ristorante,bell 'Amore Ristorante,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,Gallo Rosso,Gallo Rosso,0,雅典其他,0.0,0.0,0.0
+意大利菜,Piccini,Piccini,0,雅典其他,0.0,0.0,0.0
+意大利菜,Nino's Restaurant,Nino's Restaurant,0,雅典其他,0.0,0.0,0.0
+意大利菜,Ristorante Roma,Ristorante Roma,0,韦灵(Währing),0.0,0.0,0.0
+意大利菜,La Grappa,La Grappa,0,韦灵(Währing),0.0,0.0,0.0
+意大利菜,Ristorate Pizzeria Da Antonio,Ristorate Pizzeria Da Antonio,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,San Carlo,San Carlo,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Cortese,Cortese,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Da Vitti,Da Vitti,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Il Tempo,Il Tempo,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Casa Romana,Casa Romana,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Ottimo,Ottimo,0,内城(Innere Stadt),0.0,0.0,0.0
+意大利菜,Pizzeria Roma,Pizzeria Roma,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+意大利菜,San Gimignano,San Gimignano,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+意大利菜,Da Luigi,Da Luigi,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,SASSO D'ORO,SASSO D'ORO,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+意大利菜,Pizzeria Nino,Pizzeria Nino,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+意大利菜,Diverso,Diverso,0,维登(Wieden),0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Francesco,Ristorante Pizzeria Francesco,0,雅典其他,0.0,0.0,0.0
+意大利菜,La Veduta,La Veduta,0,雅典其他,0.0,0.0,0.0
+意大利菜,Dellago - Das Lokal am Yppenplatz,Dellago - Das Lokal am Yppenplatz,0,雅典其他,0.0,0.0,0.0
+意大利菜,Monte Cristo,Monte Cristo,0,雅典其他,0.0,0.0,0.0
+意大利菜,Cantinetta di Gianni,Cantinetta di Gianni,0,雅典其他,0.0,0.0,0.0
+意大利菜,Ristorante la Grappa,Ristorante la Grappa,0,席津 (Hietzing),0.0,0.0,0.0
+意大利菜,I Leoni,I Leoni,0,西梅林(Simmering),0.0,0.0,0.0
+法国菜,Beaulieu,Beaulieu,0,,0.0,0.0,0.0
+法国菜,Restaurant Ma Crêperie,Restaurant Ma Crêperie,0,内城(Innere Stadt),0.0,0.0,0.0
+法国菜,Style Restaurant & Lounge,Style Restaurant & Lounge,0,内城(Innere Stadt),0.0,0.0,0.0
+法国菜,Variation,Variation,0,内城(Innere Stadt),0.0,0.0,0.0
+法国菜,Mongi's Greißlerei,Mongi's Greißlerei,0,雅典其他,0.0,0.0,0.0
+法国菜,Le Salzgries,Le Salzgries,0,内城(Innere Stadt),0.0,0.0,0.0
+法国菜,Cote Sud,Cote Sud,0,维登(Wieden),0.0,0.0,0.0
+法国菜,Le Bol,Le Bol,0,内城(Innere Stadt),0.0,0.0,0.0
+法国菜,Café Francais,Café Francais,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+法国菜,Sarasines,Sarasines,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+法国菜,Sapa,Sapa,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+法国菜,Cafe der Provinz,Cafe der Provinz,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+法国菜,Pierre Cafe Bistro Patisserie,Pierre Cafe Bistro Patisserie,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+法国菜,Café Restaurant Schönbrunn,Café Restaurant Schönbrunn,0,迈德灵(Meidling),0.0,0.0,0.0
+墨西哥菜,Taqueria Los Mexikas,Taqueria Los Mexikas,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+墨西哥菜,ESA,ESA,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+墨西哥菜,Maria's Roses,Maria's Roses,0,内城(Innere Stadt),0.0,0.0,0.0
+墨西哥菜,Hacienda Ephemer,Hacienda Ephemer,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+墨西哥菜,Glasberg,Glasberg,0,维登(Wieden),0.0,0.0,0.0
+墨西哥菜,Tin Tan,Tin Tan,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+墨西哥菜,Restaurante Mas,Restaurante Mas,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+墨西哥菜,Salud,Salud,0,内城(Innere Stadt),0.0,0.0,0.0
+墨西哥菜,Estanzia Santa Cruz,Estanzia Santa Cruz,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+墨西哥菜,Pancho,Pancho,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+墨西哥菜,Jalisco,Jalisco,0,法沃里滕(Favoriten),0.0,0.0,0.0
+墨西哥菜,Maya Mexican Food and Coctails,Maya Mexican Food and Coctails,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+墨西哥菜,El Patio de Nando,El Patio de Nando,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Cafe Sacher Vienna,Cafe Sacher Vienna,0,内城(Innere Stadt),8.0,8.4,7.9
+其他西餐,Ribs of Vienna,Ribs of Vienna,0,内城(Innere Stadt),8.1,8.0,8.0
+其他西餐,Purstner,Purstner,0,内城(Innere Stadt),6.0,6.0,6.0
+其他西餐,ZUM SCHWARZEN CAMEEL,ZUM SCHWARZEN CAMEEL,0,,8.1,7.8,7.8
+其他西餐,Figlmueller,Figlmueller,0,内城(Innere Stadt),7.5,7.3,7.1
+其他西餐,Cafe Mozart,Cafe Mozart,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Zum Schwarzen Kameel,Zum Schwarzen Kameel,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Restaurant Residenz,Cafe Restaurant Residenz,0,席津 (Hietzing),0.0,0.0,0.0
+其他西餐,Zum Hagenthaler,Zum Hagenthaler,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Salm Brau Klosterbrauerei,Salm Brau Klosterbrauerei,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Erni's,Erni's,0,雅典其他,0.0,0.0,0.0
+其他西餐,Plachuttas Gasthaus zur Oper,Plachuttas Gasthaus zur Oper,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,NASCH bei Hilton Vienna Plaza Hotel,NASCH bei Hilton Vienna Plaza Hotel,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Dalmatia,Dalmatia,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Zum weissen Rauchfangkehrer,Zum weissen Rauchfangkehrer,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Café Museum,Café Museum,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Zum Bettelstudent,Zum Bettelstudent,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Nordsee,Nordsee,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Schloss Concordia (Kleine Oper Wien),Schloss Concordia (Kleine Oper Wien),0,西梅林(Simmering),0.0,0.0,0.0
+其他西餐,Ofenloch,Ofenloch,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Hansen,Hansen,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Stadtpark Braeu,Stadtpark Braeu,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Cafe Griensteidl,Cafe Griensteidl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,HAJSZAN,HAJSZAN,0,雅典其他,0.0,0.0,0.0
+其他西餐,Ilona Stuberl,Ilona Stuberl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Plachutta,Plachutta,0,雅典其他,0.0,0.0,0.0
+其他西餐,Strandcafe,Strandcafe,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,Le Loft,Le Loft,0,雅典其他,0.0,0.0,0.0
+其他西餐,Camelot,Camelot,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Wientalstruberl,Wientalstruberl,0,迈德灵(Meidling),5.0,7.5,6.7
+其他西餐,Restaurant Ferdinandt,Restaurant Ferdinandt,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Heuriger Wolff,Heuriger Wolff,0,雅典其他,0.0,0.0,0.0
+其他西餐,at eight,at eight,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Stewart,Stewart,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Kardamom- Persisch Vegetarische Spezialitaten,Kardamom- Persisch Vegetarische Spezialitaten,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Englaender,Cafe Englaender,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Imperial,Cafe Imperial,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gerstner K&K Hofzuckerbaeckerei,Gerstner K&K Hofzuckerbaeckerei,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,HARRY'S TIME,HARRY'S TIME,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Expedit,Expedit,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Jonathan & Sieglinde,Jonathan & Sieglinde,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Umar am Viktor Adler Markt,Umar am Viktor Adler Markt,0,法沃里滕(Favoriten),0.0,0.0,0.0
+其他西餐,Fiur Bar and Bistro,Fiur Bar and Bistro,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Connolly's,Connolly's,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Urbanek,Urbanek,0,雅典其他,0.0,0.0,0.0
+其他西餐,Wunder-Bar,Wunder-Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Bendl,Cafe Bendl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Falkensteiner Stueberl,Falkensteiner Stueberl,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Cafe Restaurant Kleinsteiermark,Cafe Restaurant Kleinsteiermark,0,法沃里滕(Favoriten),0.0,0.0,0.0
+其他西餐,Wienerfof,Wienerfof,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Restaurant Fuhrich,Restaurant Fuhrich,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Aurelius,Aurelius,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe - Backerei Blutaumuller,Cafe - Backerei Blutaumuller,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Brandauers Schlossbrau,Brandauers Schlossbrau,0,席津 (Hietzing),0.0,0.0,0.0
+其他西餐,Bitzinger Wurstelstand Albertina,Bitzinger Wurstelstand Albertina,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Plachuttas gasthaus zur opera,Plachuttas gasthaus zur opera,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Mariahilferbrau,Mariahilferbrau,0,雅典其他,0.0,0.0,0.0
+其他西餐,Kaffee Alt Wien,Kaffee Alt Wien,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Neni am Naschmarkt,Neni am Naschmarkt,0,雅典其他,0.0,0.0,0.0
+其他西餐,Restaurant Skopje,Restaurant Skopje,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Satrapezo,Satrapezo,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Austrian diner show,Austrian diner show,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,ausklang : cafe restaurant bar,ausklang : cafe restaurant bar,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Restaurant Und Bar Heuer,Restaurant Und Bar Heuer,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Maria Theresia,Maria Theresia,0,席津 (Hietzing),0.0,0.0,0.0
+其他西餐,Steindl,Steindl,0,雅典其他,0.0,0.0,0.0
+其他西餐,To Syrtaki,To Syrtaki,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Alte-Stadt,Alte-Stadt,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Carmen und ich,Carmen und ich,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Achillion,Achillion,0,雅典其他,0.0,0.0,0.0
+其他西餐,Kroki Grill,Kroki Grill,0,雅典其他,0.0,0.0,0.0
+其他西餐,Heuriger Sissi Huber,Heuriger Sissi Huber,0,雅典其他,0.0,0.0,0.0
+其他西餐,Vis a Vis,Vis a Vis,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Piotrowski,Piotrowski,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Restaurant Dornröschen,Cafe Restaurant Dornröschen,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Weinhof Reichl,Weinhof Reichl,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthaus Gosser,Gasthaus Gosser,0,韦灵(Währing),0.0,0.0,0.0
+其他西餐,Gasthaus ,Gasthaus ,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Budapest Bistro,Budapest Bistro,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Rhino cafe and essbar,Rhino cafe and essbar,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Marcell's Vinothek WeinBar,Marcell's Vinothek WeinBar,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Olive Vienna,Olive Vienna,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,Weinfach Vinothek e.U.,Weinfach Vinothek e.U.,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Guten Appetit,Guten Appetit,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Gasthaus Lendl,Gasthaus Lendl,0,法沃里滕(Favoriten),0.0,0.0,0.0
+其他西餐,Da Contessa,Da Contessa,0,雅典其他,0.0,0.0,0.0
+其他西餐,Restaurant Klimt,Restaurant Klimt,0,彭青(Penzing),0.0,0.0,0.0
+其他西餐,Kunsthallencafe,Kunsthallencafe,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Le Ciel,Le Ciel,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Naschmarkt Deli,Naschmarkt Deli,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthaus Flosz,Gasthaus Flosz,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,伊默沃尔,伊默沃尔,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Rote Bar,Rote Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Die Halle CafeRestaurant der Kunsthalle Wien,Die Halle CafeRestaurant der Kunsthalle Wien,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Bieriger,Bieriger,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gmoakeller,Gmoakeller,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Schloss Restaurant Thurnlhof,Schloss Restaurant Thurnlhof,0,维也纳国际机场,0.0,0.0,0.0
+其他西餐,Walter Bauer,Walter Bauer,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Collio,Collio,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Restaurant Mythos Fisch und Lamm,Restaurant Mythos Fisch und Lamm,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Reinprechtsstuberl,Reinprechtsstuberl,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Mini,Mini,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,der Ringsmuth,der Ringsmuth,0,法沃里滕(Favoriten),0.0,0.0,0.0
+其他西餐,O'connors Old Oak Pub,O'connors Old Oak Pub,0,雅典其他,0.0,0.0,0.0
+其他西餐,Wiener Wiaz Haus,Wiener Wiaz Haus,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Bauernbrau,Bauernbrau,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Morwald im Ambassador,Morwald im Ambassador,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Tancredi,Tancredi,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Zum Stoger,Zum Stoger,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Ottakringer Landhaus,Ottakringer Landhaus,0,雅典其他,0.0,0.0,0.0
+其他西餐,Arco-Wien,Arco-Wien,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Schlupfwinkel,Schlupfwinkel,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Zur Bohmischen Kuchl,Zur Bohmischen Kuchl,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Biergasthof Otto,Biergasthof Otto,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Gelbmanns Gaststube,Gelbmanns Gaststube,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gabel & Co,Gabel & Co,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Restaurant Kornhäuslturm,Restaurant Kornhäuslturm,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Rebhuhn,Rebhuhn,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Phoenixhof,Phoenixhof,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Brückenwirt,Brückenwirt,0,雅典其他,0.0,0.0,0.0
+其他西餐,Zum Klement,Zum Klement,0,雅典其他,0.0,0.0,0.0
+其他西餐,Silvio Nickol Gourmet Restaurant Palais Coburg,Silvio Nickol Gourmet Restaurant Palais Coburg,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Ragusa,Restaurant Ragusa,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Kantine M101,Kantine M101,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,"El Gaucho, Vienna","El Gaucho, Vienna",0,雅典其他,0.0,0.0,0.0
+其他西餐,XXL - Restaurant Leopoldauer Alm,XXL - Restaurant Leopoldauer Alm,0,雅典其他,0.0,0.0,0.0
+其他西餐,Al centro,Al centro,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Tempel,Restaurant Tempel,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Motto,Motto,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Dstrikt Steakhouse,Dstrikt Steakhouse,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Loca,Loca,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Wiener,Wiener,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Das Schick,Das Schick,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Ignacio Vinos e Ibéricos,Ignacio Vinos e Ibéricos,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Meierei am Stadtpark,Meierei am Stadtpark,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,UP! Grade Your Food,UP! Grade Your Food,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Borromaeus,Borromaeus,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Billabong,Billabong,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Alois Daniel Bakery,Alois Daniel Bakery,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Winklers zum Posthorn,Winklers zum Posthorn,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Rosnovskyundco,Rosnovskyundco,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Muth Heuriger,Muth Heuriger,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthaus zum Friedhof der Namenlosen,Gasthaus zum Friedhof der Namenlosen,0,维也纳国际机场,0.0,0.0,0.0
+其他西餐,Meinl am Graben,Meinl am Graben,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Artner auf der Wieden,Restaurant Artner auf der Wieden,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Plachutta,Plachutta,0,席津 (Hietzing),0.0,0.0,0.0
+其他西餐,KFC,KFC,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,OPUS Restaurant,OPUS Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Merkur Restaurant,Merkur Restaurant,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gastwirtschaft Schilling,Gastwirtschaft Schilling,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Fabios,Fabios,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Reinthaler's Beisl,Reinthaler's Beisl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Oskars,Restaurant Oskars,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Brasserie Stadtboden,Brasserie Stadtboden,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Korb,Cafe Korb,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Glacis Beisl,Glacis Beisl,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Stadtgasthaus Eisvogel,Stadtgasthaus Eisvogel,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Cafe Diglas,Cafe Diglas,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Odysseus,Odysseus,0,彭青(Penzing),0.0,0.0,0.0
+其他西餐,Cafe Restaurant Landtmann,Cafe Restaurant Landtmann,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Burger De Ville,Burger De Ville,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,La Véranda,La Véranda,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Nemtoi,Nemtoi,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gulasch Museum,Gulasch Museum,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Zur Salztorbruecke,Restaurant Zur Salztorbruecke,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,7 Stern Brau,7 Stern Brau,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Schnitzelwirt,Schnitzelwirt,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Heurigenbuffet ,Heurigenbuffet ,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Silberwirt,Silberwirt,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Müllerbeisl Restaurant,Müllerbeisl Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Heindl's Palatschinkenpfandl,Heindl's Palatschinkenpfandl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Hinterholz Bar-Restaurant,Hinterholz Bar-Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gasthaus Wickerl,Gasthaus Wickerl,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Taberna Glacis,Taberna Glacis,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Fischvierterl am Naschmarkt,Fischvierterl am Naschmarkt,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Pleven,Pleven,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Neni 2 (Neni im Zweiten),Neni 2 (Neni im Zweiten),0,雅典其他,0.0,0.0,0.0
+其他西餐,Hengl -Haselbrunner,Hengl -Haselbrunner,0,雅典其他,0.0,0.0,0.0
+其他西餐,Martinjak am Ring,Martinjak am Ring,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Motto am Fluss,Motto am Fluss,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant 1070,Restaurant 1070,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Pizzeria Zur Ziegelstubn,Pizzeria Zur Ziegelstubn,0,法沃里滕(Favoriten),0.0,0.0,0.0
+其他西餐,Zum Blauen Esel,Zum Blauen Esel,0,彭青(Penzing),0.0,0.0,0.0
+其他西餐,Figlmueller,Figlmueller,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gasthaus Moslinger,Gasthaus Moslinger,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Restaurant Lubella,Restaurant Lubella,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Medusa Restaurant & Club,Medusa Restaurant & Club,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Plachutta's Grunspan,Plachutta's Grunspan,0,雅典其他,0.0,0.0,0.0
+其他西餐,Zur Alten Kaisermuhle,Zur Alten Kaisermuhle,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,Cafe Einstein,Cafe Einstein,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Ristorante San Marco,Ristorante San Marco,0,彭青(Penzing),0.0,0.0,0.0
+其他西餐,Toma Tu Tiempo,Toma Tu Tiempo,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Kanzleramt,Kanzleramt,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe-Konditorei Aida,Cafe-Konditorei Aida,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Hopferl,Hopferl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Petrus & Paulus,Petrus & Paulus,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Gartencafe,Gartencafe,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Gasthaus zum Rudolfshugel,Gasthaus zum Rudolfshugel,0,法沃里滕(Favoriten),0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Gasthaus am Spittelberg,Gasthaus am Spittelberg,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,WrapVerde,WrapVerde,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,schrittesser SPECK&BAR OG,schrittesser SPECK&BAR OG,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Wulfisch,Wulfisch,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Zwischenbrueckenwirt,Zwischenbrueckenwirt,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Pie Factory,Pie Factory,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Altwiener Wirtshaus,Altwiener Wirtshaus,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Lichtenthaler Bräu,Lichtenthaler Bräu,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Schreiners,Schreiners,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Schnitzlwirt,Schnitzlwirt,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Keboss Imbiss,Keboss Imbiss,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Restaurant Adlerhof,Restaurant Adlerhof,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Salumeria Principe,Salumeria Principe,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Restaurant Victus & Mili,Restaurant Victus & Mili,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,El rincón de Don Quijote,El rincón de Don Quijote,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Cafe Konoba Feral,Cafe Konoba Feral,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Cafe Girardi,Cafe Girardi,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Olymp,Olymp,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Winzig,Winzig,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Hackl Bräu,Hackl Bräu,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Das Powidl,Das Powidl,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Pessoa Lounge,Pessoa Lounge,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Speisekammer,Speisekammer,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Gastwirtschaft Heidenkummer,Gastwirtschaft Heidenkummer,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Schlossquadrat,Schlossquadrat,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Gasthaus Goldmarie,Gasthaus Goldmarie,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Peters Pub,Peters Pub,0,雅典其他,0.0,0.0,0.0
+其他西餐,Backerei Konditorei Cafe Josef Schrott,Backerei Konditorei Cafe Josef Schrott,0,雅典其他,0.0,0.0,0.0
+其他西餐,M77 Dinner Club,M77 Dinner Club,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthaus Futterknecht,Gasthaus Futterknecht,0,雅典其他,0.0,0.0,0.0
+其他西餐,Weinschmankerl,Weinschmankerl,0,雅典其他,0.0,0.0,0.0
+其他西餐,Christine Rath Heuriger/Buschenschank,Christine Rath Heuriger/Buschenschank,0,雅典其他,0.0,0.0,0.0
+其他西餐,Alexis Sorbas,Alexis Sorbas,0,雅典其他,0.0,0.0,0.0
+其他西餐,Fleischerei Lehner,Fleischerei Lehner,0,雅典其他,0.0,0.0,0.0
+其他西餐,Zum Ochsenkopf,Zum Ochsenkopf,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthaus ,Gasthaus ,0,雅典其他,0.0,0.0,0.0
+其他西餐,Hofzeile 27,Hofzeile 27,0,雅典其他,0.0,0.0,0.0
+其他西餐,ING Werner Wellser,ING Werner Wellser,0,雅典其他,0.0,0.0,0.0
+其他西餐,Liebstoecklco+Co,Liebstoecklco+Co,0,雅典其他,0.0,0.0,0.0
+其他西餐,Starkbaum,Starkbaum,0,雅典其他,0.0,0.0,0.0
+其他西餐,BUNT Das Eventrestaurant,BUNT Das Eventrestaurant,0,席津 (Hietzing),0.0,0.0,0.0
+其他西餐,Vorstadtwirt,Vorstadtwirt,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,Gasthaus Servus Gruss Dich,Gasthaus Servus Gruss Dich,0,西梅林(Simmering),0.0,0.0,0.0
+其他西餐,Barbanek,Barbanek,0,西梅林(Simmering),0.0,0.0,0.0
+其他西餐,Rosenstein,Rosenstein,0,韦灵(Währing),0.0,0.0,0.0
+其他西餐,Johann strauss,Johann strauss,0,,0.0,0.0,0.0
+其他西餐,"Retsina Restaurant, 1010 Wien, Gonzagag. 3","Retsina Restaurant, 1010 Wien, Gonzagag. 3",0,雅典其他,0.0,0.0,0.0
+其他西餐,Ibis Wien Messe Restaurant,Ibis Wien Messe Restaurant,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Cafe Weinwurm,Cafe Weinwurm,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Wolfgang Lahodny Restaurant,Wolfgang Lahodny Restaurant,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,Augustinerkeller,Augustinerkeller,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Mnozil's Gastwirtschaft Zum Kellergwölb,Mnozil's Gastwirtschaft Zum Kellergwölb,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Vivus,Vivus,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Zum Englischen Reiter,Zum Englischen Reiter,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Parkring Restaurant,Parkring Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Hermann Adams Restaurant,Hermann Adams Restaurant,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Sky Cafe Bar Restaurant,Sky Cafe Bar Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Konzert Cafe Schwarzenberg,Konzert Cafe Schwarzenberg,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Schwarzenberg,Cafe Schwarzenberg,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Fabelhaft,Fabelhaft,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,Cafe Don Feliciano,Cafe Don Feliciano,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Kotor Eat & Drink,Kotor Eat & Drink,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Viereck,Viereck,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Wolfbauer,Cafe Wolfbauer,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Huth,Huth,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Huth Beisl,Huth Beisl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Bellaria,Cafe Bellaria,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Orpheus,Restaurant Orpheus,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Chamaleon,Chamaleon,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Schimanszky,Schimanszky,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Ellas Ouzeri,Ellas Ouzeri,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Dom Beisl,Dom Beisl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Minoritenstuberl,Minoritenstuberl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Wieno Wines of Vienna,Wieno Wines of Vienna,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Giorgina,Giorgina,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Das Stadthaus,Das Stadthaus,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Joma,Joma,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gelateria Hoher Markt,Gelateria Hoher Markt,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Wurstelstand am Hohen Markt,Wurstelstand am Hohen Markt,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Bodega Marques,Bodega Marques,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,EF 16 Restaurant Weinbar,EF 16 Restaurant Weinbar,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Ankerbrot,Ankerbrot,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Molly Darcys Original Irish Pub,Molly Darcys Original Irish Pub,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Salzamt,Restaurant Salzamt,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Zum Holunderstrauch,Zum Holunderstrauch,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Toni,Restaurant Toni,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,reisinger's am salzgries,reisinger's am salzgries,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Appiano,Appiano,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Das Heinz,Das Heinz,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Lola Spanisches Tapas Restaurant,Lola Spanisches Tapas Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Kolariks Praterfee,Kolariks Praterfee,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Five Senses,Five Senses,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,The White Room,The White Room,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Waterfront Kitchen,Waterfront Kitchen,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Hans Im Glueck - Restaurant,Hans Im Glueck - Restaurant,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,S'Zwara,S'Zwara,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Gosser Eck,Gosser Eck,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Otto Wagner Schuetzenhaus,Otto Wagner Schuetzenhaus,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Das Engel,Das Engel,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Skopik & Lohn,Skopik & Lohn,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Nordpol,Nordpol,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Am Nordpol 3,Am Nordpol 3,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Kronprinz Rudolph,Kronprinz Rudolph,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Hubers's essen & trinken,Hubers's essen & trinken,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Lubin,Lubin,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Ströck-Feierabend,Ströck-Feierabend,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Gassner's Wirtshaus,Gassner's Wirtshaus,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Taverna Lefteris,Taverna Lefteris,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Café Francais,Café Francais,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Das Kolin Cafe GmbH,Das Kolin Cafe GmbH,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Restaurant Koenigshofer,Restaurant Koenigshofer,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Ethiopian Restaurant,Ethiopian Restaurant,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Porzellan Lounge,Porzellan Lounge,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Café Restaurant zum Hannes,Café Restaurant zum Hannes,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Stomach,Stomach,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,La Paz,La Paz,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,The Highlander,The Highlander,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,shiraz,shiraz,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Zum Reznicek,Zum Reznicek,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Beim Novak,Beim Novak,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Cafe im Raimundhof,Cafe im Raimundhof,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Alte Taverne,Alte Taverne,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Lobo y Luna,Lobo y Luna,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Kulinarium 7,Kulinarium 7,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Hirsch und Kamel,Hirsch und Kamel,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Grunauer,Grunauer,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,M Lounge,M Lounge,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Zu ebener Erde und erster Stock,Zu ebener Erde und erster Stock,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Wratschko,Wratschko,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Flatschers,Flatschers,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Finkh,Finkh,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Steman,Steman,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Corns n pops,Corns n pops,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Hoofbrau,Hoofbrau,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Cafe Kafka,Cafe Kafka,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Restaurant Boehmerwald,Restaurant Boehmerwald,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Abbazia,Abbazia,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Zum Alten Faessl,Zum Alten Faessl,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Haas Beisl,Haas Beisl,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Gasthaus Wolf,Gasthaus Wolf,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Orange One,Orange One,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Sudlander Cafe-Bistro,Sudlander Cafe-Bistro,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Hausmair´s Gaststätte,Hausmair´s Gaststätte,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Bernhauers Genuss-Restaurant,Bernhauers Genuss-Restaurant,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Taverna Christos,Taverna Christos,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Marienhof,Marienhof,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Alte Backstube,Alte Backstube,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Prinz Ferdinand,Prinz Ferdinand,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Cafe Florianihof,Cafe Florianihof,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Senhor Vinho,Senhor Vinho,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Waldviertlerhof,Waldviertlerhof,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Sixta Restaurant,Sixta Restaurant,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Meixner's Gastwirtschaft,Meixner's Gastwirtschaft,0,法沃里滕(Favoriten),0.0,0.0,0.0
+其他西餐,Das Turm,Das Turm,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Konoba Bellini,Konoba Bellini,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Das Styria,Das Styria,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Restaurant Stasta,Restaurant Stasta,0,雅典其他,0.0,0.0,0.0
+其他西餐,Herzog's Wirtshaus,Herzog's Wirtshaus,0,雅典其他,0.0,0.0,0.0
+其他西餐,Quell,Quell,0,雅典其他,0.0,0.0,0.0
+其他西餐,News Cafe,News Cafe,0,雅典其他,0.0,0.0,0.0
+其他西餐,Heidinger,Heidinger,0,雅典其他,0.0,0.0,0.0
+其他西餐,Konoba Pescaria,Konoba Pescaria,0,雅典其他,0.0,0.0,0.0
+其他西餐,Vanak Cafe-Restaurant,Vanak Cafe-Restaurant,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthaus Elsner,Gasthaus Elsner,0,雅典其他,0.0,0.0,0.0
+其他西餐,Weinhaus Sittl,Weinhaus Sittl,0,雅典其他,0.0,0.0,0.0
+其他西餐,Zum Bierfink,Zum Bierfink,0,雅典其他,0.0,0.0,0.0
+其他西餐,Grosses Schutzhaus Rosental,Grosses Schutzhaus Rosental,0,雅典其他,0.0,0.0,0.0
+其他西餐,An Do,An Do,0,雅典其他,0.0,0.0,0.0
+其他西餐,Blunzenstricker,Blunzenstricker,0,雅典其他,0.0,0.0,0.0
+其他西餐,Liman Wien,Liman Wien,0,雅典其他,0.0,0.0,0.0
+其他西餐,Herrgott Aus Sta,Herrgott Aus Sta,0,雅典其他,0.0,0.0,0.0
+其他西餐,Huebler Kaffee Konditorei,Huebler Kaffee Konditorei,0,雅典其他,0.0,0.0,0.0
+其他西餐,Cafe-Restaurant Winter,Cafe-Restaurant Winter,0,雅典其他,0.0,0.0,0.0
+其他西餐,Wolfsberger,Wolfsberger,0,雅典其他,0.0,0.0,0.0
+其他西餐,Jetzt,Jetzt,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthaus Liebstoeckl,Gasthaus Liebstoeckl,0,雅典其他,0.0,0.0,0.0
+其他西餐,Bodulo,Bodulo,0,雅典其他,0.0,0.0,0.0
+其他西餐,Weinhaus Arlt,Weinhaus Arlt,0,雅典其他,0.0,0.0,0.0
+其他西餐,Eckel,Eckel,0,雅典其他,0.0,0.0,0.0
+其他西餐,Hill Restaurant,Hill Restaurant,0,雅典其他,0.0,0.0,0.0
+其他西餐,Weinbau Zawodsky,Weinbau Zawodsky,0,雅典其他,0.0,0.0,0.0
+其他西餐,Mulino 19,Mulino 19,0,雅典其他,0.0,0.0,0.0
+其他西餐,Figls,Figls,0,雅典其他,0.0,0.0,0.0
+其他西餐,Dorfschenke,Dorfschenke,0,雅典其他,0.0,0.0,0.0
+其他西餐,Kierlinger,Kierlinger,0,雅典其他,0.0,0.0,0.0
+其他西餐,Restaurant Brandl,Restaurant Brandl,0,雅典其他,0.0,0.0,0.0
+其他西餐,Leopoldauerhof,Leopoldauerhof,0,雅典其他,0.0,0.0,0.0
+其他西餐,Schimankos Winzerhaus,Schimankos Winzerhaus,0,雅典其他,0.0,0.0,0.0
+其他西餐,Bier & Brot,Bier & Brot,0,雅典其他,0.0,0.0,0.0
+其他西餐,Hutte am Weg,Hutte am Weg,0,雅典其他,0.0,0.0,0.0
+其他西餐,Restaurant Lapatschka,Restaurant Lapatschka,0,雅典其他,0.0,0.0,0.0
+其他西餐,Heurigen Gobel Goebel,Heurigen Gobel Goebel,0,雅典其他,0.0,0.0,0.0
+其他西餐,Restaurant Sargfabrik,Restaurant Sargfabrik,0,彭青(Penzing),0.0,0.0,0.0
+其他西餐,Musil,Musil,0,彭青(Penzing),0.0,0.0,0.0
+其他西餐,Restaurant Akropolis 22,Restaurant Akropolis 22,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,Augustin - Wirt,Augustin - Wirt,0,西梅林(Simmering),0.0,0.0,0.0
+其他西餐,Gasthaus Stern,Gasthaus Stern,0,西梅林(Simmering),0.0,0.0,0.0
+其他西餐,Gaststätte Pistauer,Gaststätte Pistauer,0,西梅林(Simmering),0.0,0.0,0.0
+其他西餐,Schrammelbeisl,Schrammelbeisl,0,韦灵(Währing),0.0,0.0,0.0
+其他西餐,Kutschker 44,Kutschker 44,0,韦灵(Währing),0.0,0.0,0.0
+其他西餐,Gourmet Restaurants Freyenstein,Gourmet Restaurants Freyenstein,0,韦灵(Währing),0.0,0.0,0.0
+其他西餐,Achilleus,Achilleus,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Bieriger in the City,Bieriger in the City,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Weiber 3,Weiber 3,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,S' Wiener Naschmarkt Beisl,S' Wiener Naschmarkt Beisl,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Gasthaus Tirolergarten,Gasthaus Tirolergarten,0,席津 (Hietzing),0.0,0.0,0.0
+其他西餐,Café-Restaurant Galerie,Café-Restaurant Galerie,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Heuer Am Karlsplatz,Heuer Am Karlsplatz,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Ocean's One,Ocean's One,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant beim Belvedere,Restaurant beim Belvedere,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Mama's Kitchen,Mama's Kitchen,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Wienerwald Restaurants Gmbh,Wienerwald Restaurants Gmbh,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Zum Mahrischen Spatzen,Zum Mahrischen Spatzen,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Mercado,Mercado,0,雅典其他,0.0,0.0,0.0
+其他西餐,Café AS,Café AS,0,雅典其他,0.0,0.0,0.0
+其他西餐,cafe-restaurant Grav,cafe-restaurant Grav,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Maredo,Maredo,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant & Bar Shambala,Restaurant & Bar Shambala,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Oper Wien,Cafe Oper Wien,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,La Scala,La Scala,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,AM BURGGARTEN,AM BURGGARTEN,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Amarantis,Amarantis,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Smokey's,Smokey's,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gyros,Gyros,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Crossfield's Australian Pub,Crossfield's Australian Pub,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,DO & CO Albertina,DO & CO Albertina,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Der Kuckuck,Restaurant Der Kuckuck,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gasthaus Reinthaler,Gasthaus Reinthaler,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Bodega Flores,Bodega Flores,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gigerl - der Stadtheurige,Gigerl - der Stadtheurige,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,3 Hacken Magazin,3 Hacken Magazin,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Zu den drei Hacken,Zu den drei Hacken,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Santo Spirito,Santo Spirito,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Weibel's Wirtshaus,Weibel's Wirtshaus,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Englander,Cafe Englander,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,DO & CO Stephansplatz,DO & CO Stephansplatz,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,RieGi,RieGi,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gasthaus Pfudl,Gasthaus Pfudl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Pinchos & Tapas,Pinchos & Tapas,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Schönbichler Theegalerlie,Schönbichler Theegalerlie,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Wein & Co-Bar,Wein & Co-Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Labstelle,Labstelle,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Beim Czaak,Beim Czaak,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Goesser Bierklinik,Goesser Bierklinik,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Mr. Wrenkh - Wiener Kochsalon,Mr. Wrenkh - Wiener Kochsalon,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cuban Mojito Bar,Cuban Mojito Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Bierhof,Bierhof,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Bar Bloom,Cafe Bar Bloom,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Sowieso,Sowieso,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Palatschinkenkuchl,Palatschinkenkuchl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Vestibul,Restaurant Vestibul,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Vienne,Restaurant Vienne,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Markusplatz,Cafe Markusplatz,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Hoppalas Bieradies,Hoppalas Bieradies,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gustl-Bauer,Gustl-Bauer,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Bio Bar,Bio Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Zum Scherer,Zum Scherer,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Brezlg'woelb,Brezlg'woelb,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,ELLA' S,ELLA' S,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Bieradies,Bieradies,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Schubert Restaurant,Schubert Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Kornat,Kornat,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Lale,Lale,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Pickwick's,Pickwick's,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Kriterium 2,Kriterium 2,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Wirtshaus Zum Leupold,Wirtshaus Zum Leupold,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,A Barraca,A Barraca,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Theo,Cafe Theo,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Theophil,Theophil,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Livingstone,Livingstone,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Marina,Marina,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Kolariks Luftburg,Kolariks Luftburg,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Cafe Ansari,Cafe Ansari,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Gasthaus Nestroy,Gasthaus Nestroy,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Cafe 3/4 Takt,Cafe 3/4 Takt,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Restaurant Bahur-Tov,Restaurant Bahur-Tov,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Zina's Restaurant,Zina's Restaurant,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Zur Grünen Hütte,Zur Grünen Hütte,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,de Jager's,de Jager's,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Gasthaus Hansy,Gasthaus Hansy,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Leopold,Leopold,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Schone Perle,Schone Perle,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Restaurant ,Restaurant ,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Amon's Gastwirtschaft,Amon's Gastwirtschaft,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Heuriger Am Belvedere,Heuriger Am Belvedere,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Hot Spoon,Hot Spoon,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,El Fontroussi,El Fontroussi,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Gastwirtschaft Herlitschka,Gastwirtschaft Herlitschka,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Irodion,Irodion,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Wild,Wild,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Gasthaus Franz Schmoller,Gasthaus Franz Schmoller,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Restaurant Roth,Restaurant Roth,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Charlie P's Pub and Dining,Charlie P's Pub and Dining,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Como,Como,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Servitenwirt,Servitenwirt,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Rembetiko,Rembetiko,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Cafe Rundfunk,Cafe Rundfunk,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Walletschek,Walletschek,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Maschu Maschu,Maschu Maschu,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Neubau-schenke,Neubau-schenke,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Restaurant Khayam,Restaurant Khayam,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Rhodos,Rhodos,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Kriterium 3,Kriterium 3,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Epos,Epos,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Amerling Beisl,Amerling Beisl,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,St. Ellas,St. Ellas,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Gaumenspiel,Gaumenspiel,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Biscaya - Tapas Bar,Biscaya - Tapas Bar,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Die Burgermacher,Die Burgermacher,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Zu den 2 Lieserln,Zu den 2 Lieserln,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Steirerstuberl,Steirerstuberl,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Kauzchen,Kauzchen,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Kristian's Monastiri,Kristian's Monastiri,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Steirisches Schmankerlstuberl STS,Steirisches Schmankerlstuberl STS,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Heurigenrestaurant Hauerkuchl,Heurigenrestaurant Hauerkuchl,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Restaurant Hafes,Restaurant Hafes,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Pars Restaurant,Pars Restaurant,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Vikerls-Lokal,Vikerls-Lokal,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Franceschi,Franceschi,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Stadtheuriger zum haydn,Stadtheuriger zum haydn,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Kanguruh Pub,Kanguruh Pub,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,mill,mill,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Salzberg,Salzberg,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,"Kontrapunkt - Bistro, Bar","Kontrapunkt - Bistro, Bar",0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Nayeb Restaurant,Nayeb Restaurant,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Restaurant Ludwig Van,Restaurant Ludwig Van,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Martin,Martin,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Rudi's Beisl,Rudi's Beisl,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Cafe Frey,Cafe Frey,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Restaurant Sperl,Restaurant Sperl,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Sokrates,Sokrates,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Restaurant Zur Goldenen Glocke,Restaurant Zur Goldenen Glocke,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Restaurant Wiener Wirtschaft,Restaurant Wiener Wirtschaft,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Kiki's Konoba,Kiki's Konoba,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Sopile,Sopile,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Gusshaus,Gusshaus,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Anzengruber,Anzengruber,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Mormat,Mormat,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Konoba,Konoba,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Fromme Helene,Fromme Helene,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Centimeter Rathaus,Centimeter Rathaus,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Schnattl,Schnattl,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Cafe Maria Treu,Cafe Maria Treu,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Cafe Hummel,Cafe Hummel,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Miles Smiles,Miles Smiles,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Puerta del Sol,Puerta del Sol,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Cafe Merkur,Cafe Merkur,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Albertgasse 39,Albertgasse 39,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Bierkanzlei,Bierkanzlei,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Cafe Benno,Cafe Benno,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Reinprechtsstueberl,Reinprechtsstueberl,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Zu den 3 Buchteln,Zu den 3 Buchteln,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Cafe Hofburg,Cafe Hofburg,0,法沃里滕(Favoriten),0.0,0.0,0.0
+其他西餐,Zobel,Zobel,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Zur Philadelphia Wirtin,Zur Philadelphia Wirtin,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Panoramaschenke- Hotel Eitljoerg,Panoramaschenke- Hotel Eitljoerg,0,雅典其他,0.0,0.0,0.0
+其他西餐,Ambrosia,Ambrosia,0,雅典其他,0.0,0.0,0.0
+其他西餐,Altwienerhof,Altwienerhof,0,雅典其他,0.0,0.0,0.0
+其他西餐,Cafe Willendorf,Cafe Willendorf,0,雅典其他,0.0,0.0,0.0
+其他西餐,Cafe Drechsler,Cafe Drechsler,0,雅典其他,0.0,0.0,0.0
+其他西餐,Strandhaus am Naschmarkt,Strandhaus am Naschmarkt,0,雅典其他,0.0,0.0,0.0
+其他西餐,Zum Gockelhahn,Zum Gockelhahn,0,雅典其他,0.0,0.0,0.0
+其他西餐,Restaurant Mader,Restaurant Mader,0,雅典其他,0.0,0.0,0.0
+其他西餐,Mokador,Mokador,0,雅典其他,0.0,0.0,0.0
+其他西餐,Prilisauer,Prilisauer,0,雅典其他,0.0,0.0,0.0
+其他西餐,Schuetzhaus Zukunft auf der Schmelz,Schuetzhaus Zukunft auf der Schmelz,0,雅典其他,0.0,0.0,0.0
+其他西餐,Heuriger Zur Alten Weinpresse,Heuriger Zur Alten Weinpresse,0,雅典其他,0.0,0.0,0.0
+其他西餐,Heinrich,Heinrich,0,雅典其他,0.0,0.0,0.0
+其他西餐,Cafe Ritter,Cafe Ritter,0,雅典其他,0.0,0.0,0.0
+其他西餐,Kupferpfandl,Kupferpfandl,0,雅典其他,0.0,0.0,0.0
+其他西餐,Weinbau Herrmann,Weinbau Herrmann,0,雅典其他,0.0,0.0,0.0
+其他西餐,10er Marie,10er Marie,0,雅典其他,0.0,0.0,0.0
+其他西餐,Universitatsbrauhaus,Universitatsbrauhaus,0,雅典其他,0.0,0.0,0.0
+其他西餐,Cipollino,Cipollino,0,雅典其他,0.0,0.0,0.0
+其他西餐,Schloss Wilhelminenberg,Schloss Wilhelminenberg,0,雅典其他,0.0,0.0,0.0
+其他西餐,Rieglerhutte,Rieglerhutte,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthaus zur Bast,Gasthaus zur Bast,0,雅典其他,0.0,0.0,0.0
+其他西餐,Wilhelm Busch,Wilhelm Busch,0,雅典其他,0.0,0.0,0.0
+其他西餐,Fischer Brau,Fischer Brau,0,雅典其他,0.0,0.0,0.0
+其他西餐,roberts alt sievering,roberts alt sievering,0,雅典其他,0.0,0.0,0.0
+其他西餐,Christian's Haus Wagner,Christian's Haus Wagner,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gaststatte Neuer,Gaststatte Neuer,0,雅典其他,0.0,0.0,0.0
+其他西餐,Pfarrwirt,Pfarrwirt,0,雅典其他,0.0,0.0,0.0
+其他西餐,Heuriger Werner-Welser,Heuriger Werner-Welser,0,雅典其他,0.0,0.0,0.0
+其他西餐,Heuriger Hans Maly,Heuriger Hans Maly,0,雅典其他,0.0,0.0,0.0
+其他西餐,Weinbau und Heurigenschank Gsols ,Weinbau und Heurigenschank Gsols ,0,雅典其他,0.0,0.0,0.0
+其他西餐,Zum Martin Sepp,Zum Martin Sepp,0,雅典其他,0.0,0.0,0.0
+其他西餐,"Bamkraxler Bier, Art & Music","Bamkraxler Bier, Art & Music",0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthaus zur Zahnradbahn,Gasthaus zur Zahnradbahn,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthof zum Renner,Gasthof zum Renner,0,雅典其他,0.0,0.0,0.0
+其他西餐,Restaurant Akropolis,Restaurant Akropolis,0,雅典其他,0.0,0.0,0.0
+其他西餐,Alfi's Goldener Spiegel,Alfi's Goldener Spiegel,0,彭青(Penzing),0.0,0.0,0.0
+其他西餐,Zum Schinakl,Zum Schinakl,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,Ufertaverne,Ufertaverne,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,HopfHaus,HopfHaus,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,Cafe Segafredo,Cafe Segafredo,0,西梅林(Simmering),0.0,0.0,0.0
+其他西餐,El Greco,El Greco,0,西梅林(Simmering),0.0,0.0,0.0
+其他西餐,Hernalser Presshaus,Hernalser Presshaus,0,韦灵(Währing),0.0,0.0,0.0
+其他西餐,Anton Frank,Anton Frank,0,韦灵(Währing),0.0,0.0,0.0
+其他西餐,Burgerhof,Burgerhof,0,韦灵(Währing),0.0,0.0,0.0
+其他西餐,Cafe Restaurant Mayerei,Cafe Restaurant Mayerei,0,韦灵(Währing),0.0,0.0,0.0
+其他西餐,Gasthaus Immervoll,Gasthaus Immervoll,0,韦灵(Währing),0.0,0.0,0.0
+其他西餐,Nykke,Nykke,0,雅典其他,0.0,0.0,0.0
+其他西餐,Iambio,Iambio,0,雅典其他,0.0,0.0,0.0
+其他西餐,Aphrodite,Aphrodite,0,雅典其他,0.0,0.0,0.0
+其他西餐,Cafe Excelsior,Cafe Excelsior,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Said The Butcher To The Cow,Said The Butcher To The Cow,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Flanagan's,Flanagan's,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Burg.Ring 1,Burg.Ring 1,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Soho,Soho,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Bettel-Alm Restaurant und Bettel-Alm Disco,Bettel-Alm Restaurant und Bettel-Alm Disco,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Weinbotschaft,Weinbotschaft,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Himmelpforte Restaurant & Bar,Himmelpforte Restaurant & Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Augustiner Keller,Augustiner Keller,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Manolos,Manolos,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Palffy,Cafe Palffy,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Dorotheum,Cafe Dorotheum,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Huth Stadtgasthaus,Huth Stadtgasthaus,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Wein in the City,Wein in the City,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gulaschmuseum,Gulaschmuseum,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Konig Von Ungarn,Konig Von Ungarn,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Kardos,Kardos,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Alex.ander's,Alex.ander's,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Nascha's,Nascha's,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Zwolf Apostelkeller,Zwolf Apostelkeller,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Night Dive,Night Dive,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Esterhazykeller,Esterhazykeller,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Griechenbeisl,Griechenbeisl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Griechenbeisel,Griechenbeisel,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,The Wiener Rathauskeller,The Wiener Rathauskeller,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Stolichniy,Stolichniy,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Artemis,Restaurant Artemis,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Alef Alef,Restaurant Alef Alef,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Retsina,Retsina,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Die Kueche,Restaurant Die Kueche,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Gasthaus Mehler,Gasthaus Mehler,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Ann Platzl Gusthouse,Ann Platzl Gusthouse,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Taqueria Tacos Lopez,Taqueria Tacos Lopez,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Dogenhof,Dogenhof,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Dolce Vita Ristorante,Dolce Vita Ristorante,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Restaurant Fasanlwirt,Restaurant Fasanlwirt,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Erdberger Braustuben,Erdberger Braustuben,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Das Bieramt,Das Bieramt,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Cafe Zartl,Cafe Zartl,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Cafe Menta,Cafe Menta,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Cafe Stein,Cafe Stein,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,"Bitzinger - Wuerstel, Burger & CO","Bitzinger - Wuerstel, Burger & CO",0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Centimeter VII,Centimeter VII,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Summerstage,Summerstage,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Rochus,Rochus,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Chiq Chaq,Chiq Chaq,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Tapasta,Tapasta,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Levante Restaurant,Levante Restaurant,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Ronahi,Ronahi,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,der Linde,der Linde,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Spear,Spear,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Wimbergers Wia z'Haus,Wimbergers Wia z'Haus,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Alt Wiener Salon,Alt Wiener Salon,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Pedro's Meson,Pedro's Meson,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Plutzer Braeu,Plutzer Braeu,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,MQ Daily,MQ Daily,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Zum hungrigen Kojoten,Zum hungrigen Kojoten,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Gasthaus Spatzennest,Gasthaus Spatzennest,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Zum Andreas Hofer,Zum Andreas Hofer,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Kaiserwalzer 2.0,Kaiserwalzer 2.0,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Gloria Cafe-Restaurant,Gloria Cafe-Restaurant,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Cafe-Konditorei Aida,Cafe-Konditorei Aida,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Restaurant im Leiner,Restaurant im Leiner,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Cafe Cappuccino,Cafe Cappuccino,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,wake up,wake up,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Chattanooga,Chattanooga,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Bergstation Tirol,Bergstation Tirol,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,McDonald's Wien Karlsplatz,McDonald's Wien Karlsplatz,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,Cafe Treu,Cafe Treu,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Cafe Rathaus,Cafe Rathaus,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Centimeter I,Centimeter I,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Edison,Edison,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+其他西餐,Rupps,Rupps,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Perchtenbrau,Perchtenbrau,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Deutschkreutzer Weinschenke,Deutschkreutzer Weinschenke,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Apadana,Apadana,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+其他西餐,Kaiser restaurant,Kaiser restaurant,0,法沃里滕(Favoriten),0.0,0.0,0.0
+其他西餐,Restaurant Bierstockl,Restaurant Bierstockl,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Office Lunch,Office Lunch,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Mueller Braeu am Wienerberg,Mueller Braeu am Wienerberg,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,Café Restaurant Schönbrunn,Café Restaurant Schönbrunn,0,迈德灵(Meidling),0.0,0.0,0.0
+其他西餐,XXL Brunner Stadl,XXL Brunner Stadl,0,雅典其他,0.0,0.0,0.0
+其他西餐,Brandauer's Bierhaus,Brandauer's Bierhaus,0,雅典其他,0.0,0.0,0.0
+其他西餐,Puntigamerhof,Puntigamerhof,0,雅典其他,0.0,0.0,0.0
+其他西餐,sopherl am naschmarkt,sopherl am naschmarkt,0,雅典其他,0.0,0.0,0.0
+其他西餐,Pulkautaler Bierhaus,Pulkautaler Bierhaus,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthaus zur eisernen Zeit,Gasthaus zur eisernen Zeit,0,雅典其他,0.0,0.0,0.0
+其他西餐,Cafe-Restaurant Resselpark,Cafe-Restaurant Resselpark,0,雅典其他,0.0,0.0,0.0
+其他西餐,Gasthaus Maria-Brunn,Gasthaus Maria-Brunn,0,雅典其他,0.0,0.0,0.0
+其他西餐,Ottakringer Stubn,Ottakringer Stubn,0,雅典其他,0.0,0.0,0.0
+其他西餐,Bierheuriger zum Gangl,Bierheuriger zum Gangl,0,雅典其他,0.0,0.0,0.0
+其他西餐,Retsina,Retsina,0,雅典其他,0.0,0.0,0.0
+其他西餐,Selbstverstandlich,Selbstverstandlich,0,雅典其他,0.0,0.0,0.0
+其他西餐,Cafe-Restaurant Corbaci,Cafe-Restaurant Corbaci,0,雅典其他,0.0,0.0,0.0
+其他西餐,Mayer Am Pfarrplatz,Mayer Am Pfarrplatz,0,雅典其他,0.0,0.0,0.0
+其他西餐,Heuriger Steinschaden,Heuriger Steinschaden,0,雅典其他,0.0,0.0,0.0
+其他西餐,Aida,Aida,0,雅典其他,0.0,0.0,0.0
+其他西餐,SIRBU HEURIGEN,SIRBU HEURIGEN,0,雅典其他,0.0,0.0,0.0
+其他西餐,Jedlersdorfer Alm,Jedlersdorfer Alm,0,雅典其他,0.0,0.0,0.0
+其他西餐,Francois im Vierzehnten,Francois im Vierzehnten,0,彭青(Penzing),0.0,0.0,0.0
+其他西餐,Tiergarten Schonbrunn Gastronomie,Tiergarten Schonbrunn Gastronomie,0,席津 (Hietzing),0.0,0.0,0.0
+其他西餐,Sternberg,Sternberg,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,Napoleon,Napoleon,0,多瑙城(Donaustadt),0.0,0.0,0.0
+其他西餐,Bierometer,Bierometer,0,西梅林(Simmering),0.0,0.0,0.0
+其他西餐,Centimeter II,Centimeter II,0,西梅林(Simmering),0.0,0.0,0.0
+其他西餐,Centimeter VI,Centimeter VI,0,韦灵(Währing),0.0,0.0,0.0
+其他西餐,Brahms & Liszt,Brahms & Liszt,0,雅典其他,0.0,0.0,0.0
+其他西餐,Restaurant Balkanhaus,Restaurant Balkanhaus,0,雅典其他,0.0,0.0,0.0
+其他西餐,Kostas Oyzerie-Kafe,Kostas Oyzerie-Kafe,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Scenario Bar & Restaurant,Scenario Bar & Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Fisherman Tom Restaurant Wien,Fisherman Tom Restaurant Wien,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Bodega El Gusto,Bodega El Gusto,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Opernring,Cafe Opernring,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Restaurant Morris,Cafe Restaurant Morris,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,The Guesthouse Brasserie & Bakery,The Guesthouse Brasserie & Bakery,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Cafe Raimund,Cafe Raimund,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Lohmann,Restaurant Lohmann,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Enrico Panigl,Enrico Panigl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Zum Basilisken,Zum Basilisken,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Restaurant Bodeguita El Pulpo,Restaurant Bodeguita El Pulpo,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Zum Kuchldragoner,Zum Kuchldragoner,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Paddy's,Paddy's,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Wirtshaus Zattl,Wirtshaus Zattl,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Dick Mack's,Dick Mack's,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Tri Caffe,Tri Caffe,0,内城(Innere Stadt),0.0,0.0,0.0
+其他西餐,Meierei im Prater,Meierei im Prater,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Novis,Novis,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Rotunde Gastronomiebetrieb,Rotunde Gastronomiebetrieb,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Knusperhäuschen,Knusperhäuschen,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Gasthaus Lindwurmstueberl,Gasthaus Lindwurmstueberl,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Cafe Heine,Cafe Heine,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,The View Restaurant Cafe Bar,The View Restaurant Cafe Bar,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Zweiraum Millennium City,Zweiraum Millennium City,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Abseit,Abseit,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+其他西餐,Bistro Menagerie,Bistro Menagerie,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+其他西餐,Hatam,Hatam,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Mortons Bar & Grill,Mortons Bar & Grill,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+其他西餐,Zur Stadt Krems,Zur Stadt Krems,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Mia Casa,Mia Casa,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,Witwe Bolte,Witwe Bolte,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+其他西餐,andino,andino,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,Wladimir,Wladimir,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+其他西餐,ORF Kulturcafe,ORF Kulturcafe,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,The Four Bells Pub,The Four Bells Pub,0,维登(Wieden),0.0,0.0,0.0
+其他西餐,La Fonda,La Fonda,0,维登(Wieden),0.0,0.0,0.0
+中餐,东风川菜,东风川菜,0,,8.6,7.9,8.2
+中餐,亚东饭店,亚东饭店,0,马尔加雷滕(Margareten),7.9,8.1,8.0
+中餐,中华饭店,中华饭店,0,内城(Innere Stadt),0.0,0.0,0.0
+中餐,China-Restaurant Sichuan,China-Restaurant Sichuan,0,多瑙城(Donaustadt),0.0,0.0,0.0
+中餐,中国中心,中国中心,0,维登(Wieden),0.0,0.0,0.0
+中餐,天赐饭店,天赐饭店,0,,8.3,7.4,8.3
+中餐,肖师傅川菜馆,肖师傅川菜馆,0,,8.2,7.4,8.2
+中餐,Sternzeichen,Sternzeichen,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+中餐,Le Wie,Le Wie,0,内城(Innere Stadt),0.0,0.0,0.0
+中餐,Meister Xiao,Meister Xiao,0,韦灵(Währing),0.0,0.0,0.0
+中餐,乐口福,乐口福,0,,7.5,7.5,7.5
+中餐,Tsing Tao,Tsing Tao,0,雅典其他,0.0,0.0,0.0
+中餐,Green Cottage,Green Cottage,0,维登(Wieden),0.0,0.0,0.0
+中餐,Taipei,Taipei,0,约瑟夫城(Josefstadt),7.5,6.7,6.7
+中餐,Rise Restaurant,Rise Restaurant,0,彭青(Penzing),0.0,0.0,0.0
+中餐,Comida,Comida,0,内城(Innere Stadt),0.0,0.0,0.0
+中餐,Fusan,Fusan,0,,8.4,8.4,8.4
+中餐,Gu,Gu,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+中餐,Restaurant Grillhaus Hong Kong,Restaurant Grillhaus Hong Kong,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+中餐,Asia Pavillon,Asia Pavillon,0,维登(Wieden),0.0,0.0,0.0
+中餐,天味酒家,天味酒家,0,雅典其他,0.0,0.0,0.0
+中餐,Vegetasia,Vegetasia,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+中餐,CHANG asian noodles,CHANG asian noodles,0,维登(Wieden),0.0,0.0,0.0
+中餐,Chang Asian Duck,Chang Asian Duck,0,维登(Wieden),0.0,0.0,0.0
+中餐,Shang Li,Shang Li,0,彭青(Penzing),0.0,0.0,0.0
+中餐,Akakiko - Japanisch Essen Mit Pfiff,Akakiko - Japanisch Essen Mit Pfiff,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+中餐,QUO CHING,QUO CHING,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+中餐,Restaurant Lucky City,Restaurant Lucky City,0,雅典其他,0.0,0.0,0.0
+中餐,Schoenborn,Schoenborn,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+中餐,Kuche 18,Kuche 18,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+中餐,China-Restaurant Ostmeer,China-Restaurant Ostmeer,0,维登(Wieden),0.0,0.0,0.0
+中餐,May Lee,May Lee,0,维登(Wieden),0.0,0.0,0.0
+中餐,Goldene Zeiten,Goldene Zeiten,0,内城(Innere Stadt),0.0,0.0,0.0
+中餐,Goldener Drachen,Goldener Drachen,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+中餐,China-Restaurant zum Westbahnhof,China-Restaurant zum Westbahnhof,0,雅典其他,0.0,0.0,0.0
+中餐,Kiang Noodles,Kiang Noodles,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+中餐,Yang - Chinese restaurant,Yang - Chinese restaurant,0,雅典其他,0.0,0.0,0.0
+中餐,China Restaurant Me-Lie,China Restaurant Me-Lie,0,雅典其他,0.0,0.0,0.0
+中餐,Peking Ente,Peking Ente,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+中餐,On,On,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+中餐,Corner 101,Corner 101,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+中餐,Yak und Yeti,Yak und Yeti,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+中餐,Zum Kaiserlichen Thron,Zum Kaiserlichen Thron,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+中餐,Zhong Hua,Zhong Hua,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+中餐,L421,L421,0,雅典其他,0.0,0.0,0.0
+中餐,Demmers Teehaus,Demmers Teehaus,0,内城(Innere Stadt),0.0,0.0,0.0
+中餐,Zum Goldenen Fisch,Zum Goldenen Fisch,0,西梅林(Simmering),0.0,0.0,0.0
+中餐,Lucky Buddha,Lucky Buddha,0,雅典其他,0.0,0.0,0.0
+中餐,Mauer,Mauer,0,雅典其他,0.0,0.0,0.0
+中餐,Café Bistro Bar Gecko,Café Bistro Bar Gecko,0,雅典其他,0.0,0.0,0.0
+中餐,China Restaurant Hernals,China Restaurant Hernals,0,雅典其他,0.0,0.0,0.0
+中餐,四川饭店,四川饭店,0,,0.0,0.0,0.0
+中餐,札幌饭店,札幌饭店,0,,0.0,0.0,0.0
+中餐,Asia Restaurant Jasmin,Asia Restaurant Jasmin,0,,0.0,0.0,0.0
+中餐,青岛饭店,青岛饭店,0,,0.0,0.0,0.0
+中餐,China-Restaurant Shanghai,China-Restaurant Shanghai,0,,0.0,0.0,0.0
+中餐,天津饭店,天津饭店,0,,0.0,0.0,0.0
+中餐,大海碗,大海碗,0,,0.0,0.0,0.0
+中餐,乐口福饭店,乐口福饭店,0,,0.0,0.0,0.0
+中餐,ra'mien,ra'mien,0,,0.0,0.0,0.0
+中餐,大欢喜烧腊店,大欢喜烧腊店,0,,0.0,0.0,0.0
+中餐,中国饭店,中国饭店,0,,0.0,0.0,0.0
+中餐,上海饭店,上海饭店,0,,0.0,0.0,0.0
+中餐,九龙饭店,九龙饭店,0,,0.0,0.0,0.0
+中餐,上海饭店,上海饭店,0,,0.0,0.0,0.0
+中餐,Chinese Court,Chinese Court,0,,0.0,0.0,0.0
+中餐,Lucky Chinese,Lucky Chinese,0,,0.0,0.0,0.0
+中餐,Zhongxin,Zhongxin,0,,0.0,0.0,0.0
+中餐,ON,ON,0,,0.0,0.0,0.0
+中餐,"Kim kocht, Shop & Studio","Kim kocht, Shop & Studio",0,,0.0,0.0,0.0
+中餐,ShanghaiTan,ShanghaiTan,0,,0.0,0.0,0.0
+中餐,Zhongxin,Zhongxin,0,,0.0,0.0,0.0
+中餐,ChinaBar,ChinaBar,0,,0.0,0.0,0.0
+中餐,Ginger & Spice,Ginger & Spice,0,,0.0,0.0,0.0
+中餐,Yume,Yume,0,,0.0,0.0,0.0
+中餐,Happy Buddha,Happy Buddha,0,,0.0,0.0,0.0
+中餐,Hit MI,Hit MI,0,,0.0,0.0,0.0
+中餐,张和邓,张和邓,0,,0.0,0.0,0.0
+中餐,香满楼,香满楼,0,,0.0,0.0,0.0
+中餐,吉兴饭店,吉兴饭店,0,,0.0,0.0,0.0
+中餐,Jasmin,Jasmin,0,,0.0,0.0,0.0
+中餐,来来饭店,来来饭店,0,,0.0,0.0,0.0
+中餐,China Bar,China Bar,0,,0.0,0.0,0.0
+中餐,华都饭店,华都饭店,0,,0.0,0.0,0.0
+中餐,Lucky Garden,Lucky Garden,0,,0.0,0.0,0.0
+中餐,王园饭店,王园饭店,0,,0.0,0.0,0.0
+中餐,Restaurant Green,Restaurant Green,0,,0.0,0.0,0.0
+中餐,北京饭店,北京饭店,0,,0.0,0.0,0.0
+中餐,Asia Restaurant Paradies,Asia Restaurant Paradies,0,,0.0,0.0,0.0
+中餐,中华阁饭店,中华阁饭店,0,,0.0,0.0,0.0
+中餐,Wok Today,Wok Today,0,,0.0,0.0,0.0
+中餐,老虎涮涮锅,老虎涮涮锅,0,,0.0,0.0,0.0
+中餐,长春饭店,长春饭店,0,,0.0,0.0,0.0
+中餐,China-Restaurant Xing Long,China-Restaurant Xing Long,0,,0.0,0.0,0.0
+中餐,王府饭店,王府饭店,0,,0.0,0.0,0.0
+中餐,New Sichuan,New Sichuan,0,,0.0,0.0,0.0
+中餐,东来香四川饭店,东来香四川饭店,0,,0.0,0.0,0.0
+中餐,喜临门饭店,喜临门饭店,0,,0.0,0.0,0.0
+中餐,大欢喜烧腊店,大欢喜烧腊店,0,,0.0,0.0,0.0
+中餐,汇林轩,汇林轩,0,,0.0,0.0,0.0
+中餐,牡丹楼,牡丹楼,0,,0.0,0.0,0.0
+中餐,喜来登饭店,喜来登饭店,0,,0.0,0.0,0.0
+中餐,四川,四川,0,,0.0,0.0,0.0
+中餐,顾,顾,0,,0.0,0.0,0.0
+中餐,味采,味采,0,,0.0,0.0,0.0
+中餐,Fischparadies,Fischparadies,0,,0.0,0.0,0.0
+中餐,燕京饭店,燕京饭店,0,,0.0,0.0,0.0
+中餐,裕丰楼饭店,裕丰楼饭店,0,,0.0,0.0,0.0
+中餐,康,康,0,,0.0,0.0,0.0
+中餐,D&J Asia Bistro,D&J Asia Bistro,0,,0.0,0.0,0.0
+中餐,福仁饭店,福仁饭店,0,,0.0,0.0,0.0
+中餐,金龙饭店,金龙饭店,0,,0.0,0.0,0.0
+中餐,阿明熟食店,阿明熟食店,0,,0.0,0.0,0.0
+中餐,广州饭店,广州饭店,0,,0.0,0.0,0.0
+中餐,China restaurant ,China restaurant ,0,,0.0,0.0,0.0
+中餐,广州饭店,广州饭店,0,,0.0,0.0,0.0
+中餐,大上海酒家,大上海酒家,0,,0.0,0.0,0.0
+中餐,新锦江饭店,新锦江饭店,0,,0.0,0.0,0.0
+中餐,上海饭店,上海饭店,0,,0.0,0.0,0.0
+中餐,Chinarestaurant No. 27,Chinarestaurant No. 27,0,,0.0,0.0,0.0
+中餐,牡丹楼饭店,牡丹楼饭店,0,,0.0,0.0,0.0
+中餐,Mishi Asia Restuarant,Mishi Asia Restuarant,0,,0.0,0.0,0.0
+中餐,四川饭店,四川饭店,0,,0.0,0.0,0.0
+日韩料理,Akakiko - Easy Japanese Dining,Akakiko - Easy Japanese Dining,0,内城(Innere Stadt),0.0,0.0,0.0
+日韩料理,Nihonbashi,Nihonbashi,0,内城(Innere Stadt),0.0,0.0,0.0
+日韩料理,Go Gourmet,Go Gourmet,0,内城(Innere Stadt),0.0,0.0,0.0
+日韩料理,Restaurant Hanil,Restaurant Hanil,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+日韩料理,Akakiko - Japanisch Essen Mit Pfiff,Akakiko - Japanisch Essen Mit Pfiff,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+日韩料理,Tenmaya,Tenmaya,0,多瑙城(Donaustadt),0.0,0.0,0.0
+日韩料理,Japanika,Japanika,0,内城(Innere Stadt),0.0,0.0,0.0
+日韩料理,Happy Sushi & Noodles,Happy Sushi & Noodles,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+日韩料理,Kuishimbo,Kuishimbo,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+日韩料理,Sosaku,Sosaku,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+日韩料理,Asahi Restaurant,Asahi Restaurant,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+日韩料理,Umami,Umami,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+日韩料理,Restaurant Kosu,Restaurant Kosu,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+日韩料理,Daihachi,Daihachi,0,内城(Innere Stadt),0.0,0.0,0.0
+日韩料理,Akakiko,Akakiko,0,席津 (Hietzing),0.0,0.0,0.0
+日韩料理,Mango Restaurant,Mango Restaurant,0,多瑙城(Donaustadt),0.0,0.0,0.0
+日韩料理,Neko Restaurant,Neko Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+日韩料理,Asahi Sushi,Asahi Sushi,0,内城(Innere Stadt),0.0,0.0,0.0
+日韩料理,Hitomi,Hitomi,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+日韩料理,Toko Ri,Toko Ri,0,维登(Wieden),0.0,0.0,0.0
+日韩料理,Koi Asia Restaurant,Koi Asia Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+日韩料理,Shanghai Tan,Shanghai Tan,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+日韩料理,Ebi Shushi & Grill,Ebi Shushi & Grill,0,雅典其他,0.0,0.0,0.0
+日韩料理,Hanil Sushi,Hanil Sushi,0,维登(Wieden),0.0,0.0,0.0
+日韩料理,Yoo,Yoo,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+日韩料理,Das Kai,Das Kai,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+日韩料理,Akafuk-Sushi,Akafuk-Sushi,0,雅典其他,0.0,0.0,0.0
+日韩料理,Xi An,Xi An,0,雅典其他,0.0,0.0,0.0
+日韩料理,Nara,Nara,0,雅典其他,0.0,0.0,0.0
+日韩料理,Kimchi Restaurant,Kimchi Restaurant,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+日韩料理,Tokyo Running Sushi,Tokyo Running Sushi,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+日韩料理,Sakai,Sakai,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+日韩料理,Mochi,Mochi,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+日韩料理,Yamo Yamo,Yamo Yamo,0,维登(Wieden),0.0,0.0,0.0
+日韩料理,Metchamatcha Cafe,Metchamatcha Cafe,0,维登(Wieden),0.0,0.0,0.0
+日韩料理,Kojiro,Kojiro,0,维登(Wieden),0.0,0.0,0.0
+日韩料理,Yume,Yume,0,雅典其他,0.0,0.0,0.0
+日韩料理,Sushi Aspern,Sushi Aspern,0,雅典其他,0.0,0.0,0.0
+日韩料理,Teka Sushi,Teka Sushi,0,雅典其他,0.0,0.0,0.0
+日韩料理,Nara,Nara,0,席津 (Hietzing),0.0,0.0,0.0
+日韩料理,Dots - experimental Sushi,Dots - experimental Sushi,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+日韩料理,Seoul,Seoul,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+日韩料理,Tokio House,Tokio House,0,雅典其他,0.0,0.0,0.0
+日韩料理,En,En,0,内城(Innere Stadt),0.0,0.0,0.0
+日韩料理,Benkei,Benkei,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+日韩料理,sushi -bar mono,sushi -bar mono,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+日韩料理,Hidori,Hidori,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+日韩料理,Akakiko,Akakiko,0,法沃里滕(Favoriten),0.0,0.0,0.0
+日韩料理,Ginger Sushi,Ginger Sushi,0,韦灵(Währing),0.0,0.0,0.0
+日韩料理,Ginza Running Sushi,Ginza Running Sushi,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+日韩料理,Hitomi Sushi,Hitomi Sushi,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+日韩料理,Toko Ri,Toko Ri,0,雅典其他,0.0,0.0,0.0
+日韩料理,Okiru,Okiru,0,雅典其他,0.0,0.0,0.0
+日韩料理,Kioyo,Kioyo,0,雅典其他,0.0,0.0,0.0
+日韩料理,Sohyi Sushi,Sohyi Sushi,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Asia House,Asia House,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多亚洲菜,Turkis Restaurant,Turkis Restaurant,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,ON Market,ON Market,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Vietthao,Vietthao,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Indisches El Dorado,Indisches El Dorado,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Loving Hut,Loving Hut,0,法沃里滕(Favoriten),0.0,0.0,0.0
+更多亚洲菜,Soya,Soya,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Yohm,Yohm,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Thong Thai,Thong Thai,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Kantine,Kantine,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Amarone,Amarone,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Salon Wichtig,Salon Wichtig,0,维登(Wieden),0.0,0.0,0.0
+更多亚洲菜,Restaurant LOTUS,Restaurant LOTUS,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Su Thais Grill Imbiss,Su Thais Grill Imbiss,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多亚洲菜,Edo Sushi Wien,Edo Sushi Wien,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Zypresse,Zypresse,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,ViennasVietnam,ViennasVietnam,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Saigon,Saigon,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Chinarestaurant No. 27,Chinarestaurant No. 27,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Pho Saigon,Pho Saigon,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Kiang,Kiang,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Simchas,Simchas,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多亚洲菜,Good Morning Vietnam,Good Morning Vietnam,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Saigon,Saigon,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Ra’mien Go Wien Mitte,Ra’mien Go Wien Mitte,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Culinarium Cooking,Culinarium Cooking,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Yellow,Yellow,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Koh-i-noor Indian Restaurant,Koh-i-noor Indian Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Kummelturk,Kummelturk,0,法沃里滕(Favoriten),0.0,0.0,0.0
+更多亚洲菜,Tofu & Chili,Tofu & Chili,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Easy Noodles,Easy Noodles,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Mamamon Thai Kitchen,Mamamon Thai Kitchen,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Indian Pavilion,Indian Pavilion,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Akakiko,Akakiko,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多亚洲菜,Tiflis,Tiflis,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Phö & Saigon Market,Phö & Saigon Market,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Vietnam,Vietnam,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Wok House,Wok House,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多亚洲菜,Koinonia,Koinonia,0,韦灵(Währing),0.0,0.0,0.0
+更多亚洲菜,Citylake Asian Restaurant,Citylake Asian Restaurant,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多亚洲菜,East West,East West,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Yang Haus,Yang Haus,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,E-wok,E-wok,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多亚洲菜,Le Couscous,Le Couscous,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Café Eskeles,Café Eskeles,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Indien Village,Indien Village,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Momoya,Momoya,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Le Wei Restaurant,Le Wei Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Bollyfood,Bollyfood,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多亚洲菜,Green Restaurant,Green Restaurant,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多亚洲菜,Hasir,Hasir,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多亚洲菜,Diwan,Diwan,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多亚洲菜,Thai Lotus,Thai Lotus,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多亚洲菜,Demi Tass,Demi Tass,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Restaurant Tulsi,Restaurant Tulsi,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Kim Kocht,Kim Kocht,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Pho Cho Lon,Pho Cho Lon,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Namaste,Namaste,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Cafe Berfin,Cafe Berfin,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Rumah Satay,Rumah Satay,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Restaurant Mark's,Restaurant Mark's,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Bangkok-Vienna,Bangkok-Vienna,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,by Chi,by Chi,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Restaurant Big Bowl,Restaurant Big Bowl,0,维登(Wieden),0.0,0.0,0.0
+更多亚洲菜,Wok - Asia Cuisine Restaurant,Wok - Asia Cuisine Restaurant,0,维登(Wieden),0.0,0.0,0.0
+更多亚洲菜,Thai Kitchen,Thai Kitchen,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多亚洲菜,Kamala Thai Imbiss,Kamala Thai Imbiss,0,法沃里滕(Favoriten),0.0,0.0,0.0
+更多亚洲菜,Ginza Wok,Ginza Wok,0,西梅林(Simmering),0.0,0.0,0.0
+更多亚洲菜,Titoni,Titoni,0,韦灵(Währing),0.0,0.0,0.0
+更多亚洲菜,Marco Polo,Marco Polo,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Wok & More,Wok & More,0,维登(Wieden),0.0,0.0,0.0
+更多亚洲菜,Grill Asia,Grill Asia,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多亚洲菜,Bamboo International,Bamboo International,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Akakiko,Akakiko,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,The Bangkok,The Bangkok,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Shanghi,Shanghi,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Asiam Restaurant,Asiam Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Tandoor,Tandoor,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Al Hamra Restaurant,Al Hamra Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Sinohouse Dining Wine Lounge,Sinohouse Dining Wine Lounge,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Patara - Fine Thai Cuisine,Patara - Fine Thai Cuisine,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Zum Inder,Zum Inder,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多亚洲菜,Thali,Thali,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多亚洲菜,Delhi Delights Taste of India,Delhi Delights Taste of India,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Indus,Indus,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Der Wiener Deewan,Der Wiener Deewan,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Oasia,Oasia,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Okinawa,Okinawa,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Lili Hu Kg Restaurant,Lili Hu Kg Restaurant,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Hanoi Express,Hanoi Express,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Pinong,Pinong,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Wok'in,Wok'in,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Kai's Asian Food,Kai's Asian Food,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Asia Restaurant Lotus,Asia Restaurant Lotus,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Natraj 5 Indisches Restaurant,Natraj 5 Indisches Restaurant,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Nam Nam,Nam Nam,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,ra'mien,ra'mien,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Restaurant Aux Gazelles,Restaurant Aux Gazelles,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Baku Lights Restaurant,Baku Lights Restaurant,0,维登(Wieden),0.0,0.0,0.0
+更多亚洲菜,Noodle King,Noodle King,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多亚洲菜,Busan,Busan,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多亚洲菜,Colombo Hoppers,Colombo Hoppers,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多亚洲菜,Cafe Cuadro,Cafe Cuadro,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多亚洲菜,Tuerkis Palast,Tuerkis Palast,0,法沃里滕(Favoriten),0.0,0.0,0.0
+更多亚洲菜,Zum Liesingbach,Zum Liesingbach,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Sato,Restaurant Sato,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Orient & Occident,Orient & Occident,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Tewa,Tewa,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Papas,Papas,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Lokanta Oase,Lokanta Oase,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Dschunke,Restaurant Dschunke,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Ginza Running Sushi,Ginza Running Sushi,0,西梅林(Simmering),0.0,0.0,0.0
+更多亚洲菜,Siam,Siam,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Hamama,Hamama,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Indochine 21,Indochine 21,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Nirvana,Nirvana,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Asia Restaurant,Asia Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Asia Restaurant Dong Hai,Asia Restaurant Dong Hai,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Sri Thai imbiss,Sri Thai imbiss,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Bai's Mongolisches Grillrestaurant,Bai's Mongolisches Grillrestaurant,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Rochus,Rochus,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Kiang Landstrasse,Kiang Landstrasse,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Asia Paradies,Asia Paradies,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Ramien Go,Ramien Go,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多亚洲菜,Spring,Spring,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Heilige Kuh,Heilige Kuh,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Bamboo,Bamboo,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Elefant & Castle,Elefant & Castle,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Prosi Food Magic,Prosi Food Magic,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Jyoti,Jyoti,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,bombay,bombay,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Le Pho,Le Pho,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Shalimar,Shalimar,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Rani,Rani,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多亚洲菜,Cafe Crossover,Cafe Crossover,0,维登(Wieden),0.0,0.0,0.0
+更多亚洲菜,Samrat,Samrat,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多亚洲菜,Mahal Indische Spezialitaeten Indischer,Mahal Indische Spezialitaeten Indischer,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多亚洲菜,Kent,Kent,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Muxxu Asia Restaurant,Muxxu Asia Restaurant,0,雅典其他,0.0,0.0,0.0
+更多亚洲菜,Liu's Wok,Liu's Wok,0,韦灵(Währing),0.0,0.0,0.0
+更多亚洲菜,XO Noodles,XO Noodles,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Restaurant OM,Restaurant OM,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Kirin,Kirin,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Mr. Lee,Mr. Lee,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Sajado,Sajado,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Longi,Longi,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多亚洲菜,Manga Bar,Manga Bar,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Zum Moghulhof,Zum Moghulhof,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Bhung Bui,Bhung Bui,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Chennai,Chennai,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多亚洲菜,Asala,Asala,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多亚洲菜,Raagini,Raagini,0,内城(Innere Stadt),0.0,0.0,0.0
+更多亚洲菜,Khajuraho Palace zum Inder,Khajuraho Palace zum Inder,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多亚洲菜,Tholl Thai,Tholl Thai,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+快餐简餐,Sparky's Unlimited Bar & Grill,Sparky's Unlimited Bar & Grill,0,内城(Innere Stadt),0.0,0.0,0.0
+快餐简餐,Tsing Tao,Tsing Tao,0,雅典其他,0.0,0.0,0.0
+快餐简餐,Fisch-Gruber Feinfischspezialitaeten,Fisch-Gruber Feinfischspezialitaeten,0,雅典其他,0.0,0.0,0.0
+快餐简餐,Lebenbauer Vollwert Restaurant,Lebenbauer Vollwert Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+快餐简餐,Zur Herknerin,Zur Herknerin,0,维登(Wieden),0.0,0.0,0.0
+快餐简餐,Steakpoint City,Steakpoint City,0,内城(Innere Stadt),0.0,0.0,0.0
+快餐简餐,Rocky Docky's Western-Steak-House,Rocky Docky's Western-Steak-House,0,雅典其他,0.0,0.0,0.0
+快餐简餐,Champions Sports Bar & Restaurant,Champions Sports Bar & Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+快餐简餐,Mamamon Thai Kitchen,Mamamon Thai Kitchen,0,内城(Innere Stadt),0.0,0.0,0.0
+快餐简餐,Kaffee Kurzweil,Kaffee Kurzweil,0,维登(Wieden),0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,内城(Innere Stadt),0.0,0.0,0.0
+快餐简餐,Porterhouse,Porterhouse,0,内城(Innere Stadt),0.0,0.0,0.0
+快餐简餐,Nightfly's American Bar,Nightfly's American Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+快餐简餐,Spezerei,Spezerei,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+快餐简餐,Ice Dream Factory,Ice Dream Factory,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+快餐简餐,Il Tavoliere,Il Tavoliere,0,雅典其他,0.0,0.0,0.0
+快餐简餐,Coffeeshop Company,Coffeeshop Company,0,雅典其他,0.0,0.0,0.0
+快餐简餐,1516 Brewing Company,1516 Brewing Company,0,内城(Innere Stadt),0.0,0.0,0.0
+快餐简餐,Merkur Hoher Markt,Merkur Hoher Markt,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+快餐简餐,Blueorange - Coffee & Bagel,Blueorange - Coffee & Bagel,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+快餐简餐,Barflys,Barflys,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+快餐简餐,Cortez Bar,Cortez Bar,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+快餐简餐,Taste of India,Taste of India,0,维登(Wieden),0.0,0.0,0.0
+快餐简餐,Hawidere,Hawidere,0,雅典其他,0.0,0.0,0.0
+快餐简餐,Texas Steakhouse,Texas Steakhouse,0,雅典其他,0.0,0.0,0.0
+快餐简餐,Pure Living Bakery,Pure Living Bakery,0,席津 (Hietzing),0.0,0.0,0.0
+快餐简餐,Flying Diner,Flying Diner,0,雅典其他,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,内城(Innere Stadt),0.0,0.0,0.0
+快餐简餐,Starbucks,Starbucks,0,内城(Innere Stadt),0.0,0.0,0.0
+快餐简餐,Jolly Ox,Jolly Ox,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+快餐简餐,Fresco Grill,Fresco Grill,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+快餐简餐,Blueorange,Blueorange,0,维登(Wieden),0.0,0.0,0.0
+快餐简餐,Point of Sale,Point of Sale,0,维登(Wieden),0.0,0.0,0.0
+快餐简餐,徐大师,徐大师,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+海鲜,Boehle Feinkost & Vinothek,Boehle Feinkost & Vinothek,0,内城(Innere Stadt),0.0,0.0,0.0
+海鲜,Bar di Mar,Bar di Mar,0,维登(Wieden),0.0,0.0,0.0
+海鲜,Fish Vierterl,Fish Vierterl,0,雅典其他,0.0,0.0,0.0
+海鲜,Umar Fisch,Umar Fisch,0,维登(Wieden),0.0,0.0,0.0
+海鲜,Frischzelle,Frischzelle,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+海鲜,Nautilus Fischrestaurant,Nautilus Fischrestaurant,0,雅典其他,0.0,0.0,0.0
+海鲜,Ilija,Ilija,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+海鲜,Ferdis Fish & Steak,Ferdis Fish & Steak,0,雅典其他,0.0,0.0,0.0
+海鲜,Lobsterdock,Lobsterdock,0,维登(Wieden),0.0,0.0,0.0
+烧烤,Steak Point,Steak Point,0,内城(Innere Stadt),0.0,0.0,0.0
+烧烤,Gergely's,Gergely's,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+烧烤,Churrascaria,Churrascaria,0,内城(Innere Stadt),0.0,0.0,0.0
+烧烤,Big Smoke Bar & Bbq,Big Smoke Bar & Bbq,0,雅典其他,0.0,0.0,0.0
+烧烤,Santos,Santos,0,雅典其他,0.0,0.0,0.0
+烧烤,Grill house da Max,Grill house da Max,0,内城(Innere Stadt),0.0,0.0,0.0
+烧烤,La Koliba,La Koliba,0,法沃里滕(Favoriten),0.0,0.0,0.0
+烧烤,ma pitom der bierlokal,ma pitom der bierlokal,0,内城(Innere Stadt),0.0,0.0,0.0
+烧烤,Restaurant Sokace,Restaurant Sokace,0,雅典其他,0.0,0.0,0.0
+烧烤,Al Fayrooz Restaurant,Al Fayrooz Restaurant,0,雅典其他,0.0,0.0,0.0
+烧烤,Koenigs Grillhaus,Koenigs Grillhaus,0,雅典其他,0.0,0.0,0.0
+烧烤,Brandauers Bierbogen,Brandauers Bierbogen,0,雅典其他,0.0,0.0,0.0
+比萨,Vinotheka Tropea,Vinotheka Tropea,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+比萨,Amol,Amol,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+比萨,Si Si Pizza Boy,Si Si Pizza Boy,0,雅典其他,0.0,0.0,0.0
+比萨,Pizzeria Piccolo Diz,Pizzeria Piccolo Diz,0,雅典其他,0.0,0.0,0.0
+比萨,Pizzeria Verdi,Pizzeria Verdi,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+比萨,Da Capo,Da Capo,0,内城(Innere Stadt),0.0,0.0,0.0
+比萨,1500 Foodmakers,1500 Foodmakers,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+比萨,Pan e Wien,Pan e Wien,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+比萨,Ristorante Ponte Di Rialto,Ristorante Ponte Di Rialto,0,迈德灵(Meidling),0.0,0.0,0.0
+比萨,Pizzeria Enrico,Pizzeria Enrico,0,雅典其他,0.0,0.0,0.0
+比萨,Pizzeria Ristorante Vesuvio,Pizzeria Ristorante Vesuvio,0,雅典其他,0.0,0.0,0.0
+比萨,Flavio,Flavio,0,雅典其他,0.0,0.0,0.0
+比萨,Pizzeria Grado,Pizzeria Grado,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+比萨,La MIramare,La MIramare,0,迈德灵(Meidling),0.0,0.0,0.0
+比萨,Pizza Prego,Pizza Prego,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+比萨,That's Amore,That's Amore,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+比萨,Restaurant Pizzeria Stefan,Restaurant Pizzeria Stefan,0,法沃里滕(Favoriten),0.0,0.0,0.0
+比萨,Vapiano Wien Bahnhofcity,Vapiano Wien Bahnhofcity,0,雅典其他,0.0,0.0,0.0
+比萨,Disco Volante,Disco Volante,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+比萨,Pizzeria - Topolino,Pizzeria - Topolino,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+比萨,Pizzeria Giuseppe,Pizzeria Giuseppe,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+比萨,Pizza Mari',Pizza Mari',0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+比萨,Pizzeria Dal Maestro,Pizzeria Dal Maestro,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+比萨,CapaTosta / Soul & Pizza,CapaTosta / Soul & Pizza,0,雅典其他,0.0,0.0,0.0
+比萨,Pizzeria Angelo Neue Donau,Pizzeria Angelo Neue Donau,0,雅典其他,0.0,0.0,0.0
+比萨,Ristorante Va Bene,Ristorante Va Bene,0,雅典其他,0.0,0.0,0.0
+比萨,Pizzeria Arbaillo,Pizzeria Arbaillo,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+比萨,Pizza Haus,Pizza Haus,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+咖啡厅,Cafe Central,Cafe Central,85,内城(Innere Stadt),8.1,8.8,8.0
+咖啡厅,Demel,Demel,0,内城(Innere Stadt),8.1,8.2,7.5
+咖啡厅,Konditorei Heiner,Konditorei Heiner,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Cafe de l'Europe,Cafe de l'Europe,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,ServaS Cafe-Restaurant,ServaS Cafe-Restaurant,0,,0.0,0.0,0.0
+咖啡厅,starbucks,starbucks,0,,0.0,0.0,0.0
+咖啡厅,Schadekgasse 12,Schadekgasse 12,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+咖啡厅,Kaffeekueche,Kaffeekueche,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Fluc,Fluc,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+咖啡厅,Mr. & Mrs. Smith Coffee & Bakery,Mr. & Mrs. Smith Coffee & Bakery,0,韦灵(Währing),0.0,0.0,0.0
+咖啡厅,Caffe a Casa,Caffe a Casa,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+咖啡厅,Campus Suite,Campus Suite,0,多瑙城(Donaustadt),0.0,0.0,0.0
+咖啡厅,Spar gourmet,Spar gourmet,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Cafe Luigi's,Cafe Luigi's,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,phil,phil,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+咖啡厅,Gregors Konditorei,Gregors Konditorei,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+咖啡厅,Milchbart,Milchbart,0,迈德灵(Meidling),0.0,0.0,0.0
+咖啡厅,Cafe Tirolerhof,Cafe Tirolerhof,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,"Vienna, Landtmann Jausenstation","Vienna, Landtmann Jausenstation",0,席津 (Hietzing),0.0,0.0,0.0
+咖啡厅,Weinzirl,Weinzirl,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+咖啡厅,The Breakfast Club,The Breakfast Club,0,维登(Wieden),0.0,0.0,0.0
+咖啡厅,Cafe Dommayer,Cafe Dommayer,0,席津 (Hietzing),0.0,0.0,0.0
+咖啡厅,Segafredo Cafe Gasometer,Segafredo Cafe Gasometer,0,西梅林(Simmering),0.0,0.0,0.0
+咖啡厅,Leopold Cafe,Leopold Cafe,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+咖啡厅,Cafe Pruckel,Cafe Pruckel,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,SnackBerry,SnackBerry,0,维登(Wieden),0.0,0.0,0.0
+咖啡厅,X-Celsior Espresso DI Dario Trucco,X-Celsior Espresso DI Dario Trucco,0,雅典其他,0.0,0.0,0.0
+咖啡厅,Cafe Ritter,Cafe Ritter,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+咖啡厅,Cafe Hawelka,Cafe Hawelka,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Testa Rossa Caffèbar,Testa Rossa Caffèbar,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Café Potyka,Café Potyka,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+咖啡厅,Cafe Monarchie,Cafe Monarchie,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+咖啡厅,Alt Wein Kaffee,Alt Wein Kaffee,0,维登(Wieden),0.0,0.0,0.0
+咖啡厅,Kurkonditorei Oberlaa,Kurkonditorei Oberlaa,0,雅典其他,0.0,0.0,0.0
+咖啡厅,Cafe Nest,Cafe Nest,0,雅典其他,0.0,0.0,0.0
+咖啡厅,Cafe Braunerhof,Cafe Braunerhof,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Cafe Cosmopolitan,Cafe Cosmopolitan,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+咖啡厅,Cafe Magistrat,Cafe Magistrat,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+咖啡厅,Café-Restaurant Galerie,Café-Restaurant Galerie,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Cafe Nautilus im Kunsthistorischen Museum,Cafe Nautilus im Kunsthistorischen Museum,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Palmenhaus,Palmenhaus,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Kleines Cafe,Kleines Cafe,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Espresso Segafredo,Espresso Segafredo,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Sluka,Sluka,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Luxor,Luxor,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+咖啡厅,Starbucks Millennium City,Starbucks Millennium City,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+咖啡厅,Cafe Weimar,Cafe Weimar,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+咖啡厅,The Roast,The Roast,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+咖啡厅,Das Mobel,Das Mobel,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+咖啡厅,Cafe Jelinek,Cafe Jelinek,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+咖啡厅,Nice Rice,Nice Rice,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+咖啡厅,Blaustern,Blaustern,0,雅典其他,0.0,0.0,0.0
+咖啡厅,Unger Und Klein Im Hochhaus,Unger Und Klein Im Hochhaus,0,雅典其他,0.0,0.0,0.0
+咖啡厅,Le Moet,Le Moet,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Cafe Neko,Cafe Neko,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Cafe-Konditorei Aida,Cafe-Konditorei Aida,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Coffee Day,Coffee Day,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Café Menagerie,Café Menagerie,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+咖啡厅,Cafe-Restaurant MILO,Cafe-Restaurant MILO,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+咖啡厅,Cafe Savoy,Cafe Savoy,0,雅典其他,0.0,0.0,0.0
+咖啡厅,Mocca Club,Mocca Club,0,雅典其他,0.0,0.0,0.0
+咖啡厅,Cafe Kunsthistorisches Museum,Cafe Kunsthistorisches Museum,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Heissenberger,Heissenberger,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Cafe im Schottenstift,Cafe im Schottenstift,0,内城(Innere Stadt),0.0,0.0,0.0
+咖啡厅,Cafe Dreiraum,Cafe Dreiraum,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+咖啡厅,Comida y Pan,Comida y Pan,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+咖啡厅,Figar,Figar,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+咖啡厅,Le Backo,Le Backo,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+咖啡厅,Cafe Standard Schmied KEG,Cafe Standard Schmied KEG,0,维登(Wieden),0.0,0.0,0.0
+咖啡厅,Patisserie Landtmann,Patisserie Landtmann,0,雅典其他,0.0,0.0,0.0
+咖啡厅,Kahlenberg Coffee To Go,Kahlenberg Coffee To Go,0,雅典其他,0.0,0.0,0.0
+咖啡厅,CAFE ZUCKERGOSCHERL,CAFE ZUCKERGOSCHERL,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Cafe Sacher Vienna,Cafe Sacher Vienna,0,内城(Innere Stadt),8.0,8.4,7.9
+面包甜点,Plachutta,Plachutta,0,内城(Innere Stadt),7.9,7.9,7.9
+面包甜点,Eissalon Zanoni & Zanoni,Eissalon Zanoni & Zanoni,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Café Museum,Café Museum,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Tichy,Tichy,0,法沃里滕(Favoriten),0.0,0.0,0.0
+面包甜点,Lepantos,Lepantos,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Zanoni & Zanoni,Zanoni & Zanoni,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Konditorei Blocher,Konditorei Blocher,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+面包甜点,Veganista Ice Cream,Veganista Ice Cream,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+面包甜点,Grinzinger Brau,Grinzinger Brau,0,雅典其他,0.0,0.0,0.0
+面包甜点,Eissalon am Schwedenplatz,Eissalon am Schwedenplatz,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Aromat,Aromat,0,维登(Wieden),0.0,0.0,0.0
+面包甜点,Cafe Konditorei Naschkatzchen,Cafe Konditorei Naschkatzchen,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+面包甜点,Eissalon Tuchlauben,Eissalon Tuchlauben,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Rori's,Rori's,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+面包甜点,Gragger & Cie,Gragger & Cie,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Eis Greissler,Eis Greissler,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Strock,Strock,0,雅典其他,0.0,0.0,0.0
+面包甜点,Diglas,Diglas,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Kurkonditorei Oberlaa,Kurkonditorei Oberlaa,0,维登(Wieden),0.0,0.0,0.0
+面包甜点,Gelateria Castelletto,Gelateria Castelletto,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Cafe-Konditorei Aida,Cafe-Konditorei Aida,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,SnackBerry,SnackBerry,0,维登(Wieden),0.0,0.0,0.0
+面包甜点,Paolo Bortolotti,Paolo Bortolotti,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+面包甜点,Cup Cakes Wien,Cup Cakes Wien,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+面包甜点,Das Eis,Das Eis,0,雅典其他,0.0,0.0,0.0
+面包甜点,Biondi & Biondi,Biondi & Biondi,0,雅典其他,0.0,0.0,0.0
+面包甜点,Arnoldo Gelateria,Arnoldo Gelateria,0,雅典其他,0.0,0.0,0.0
+面包甜点,Fashion TV Cafe,Fashion TV Cafe,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Subway,Subway,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Neunteufl,Neunteufl,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+面包甜点,Wiener Wurstl,Wiener Wurstl,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Perrella,Perrella,0,内城(Innere Stadt),0.0,0.0,0.0
+面包甜点,Bella Venezia,Bella Venezia,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+面包甜点,ANKER,ANKER,0,雅典其他,0.0,0.0,0.0
+酒吧,Feria,Feria,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,The Sign Cocktail Lounge,The Sign Cocktail Lounge,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+酒吧,Schweizerhaus,Schweizerhaus,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+酒吧,BIERGARTL IM STADTPARK,BIERGARTL IM STADTPARK,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Connolly's,Connolly's,0,迈德灵(Meidling),0.0,0.0,0.0
+酒吧,Bar Shambala,Bar Shambala,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Bar 13,Bar 13,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Duran Sandwiches,Duran Sandwiches,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+酒吧,Trzesniewski,Trzesniewski,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,LA VITA E BELLA,LA VITA E BELLA,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+酒吧,Weinstand,Weinstand,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+酒吧,Chelsea,Chelsea,0,雅典其他,0.0,0.0,0.0
+酒吧,Weinhaus Hochmayer,Weinhaus Hochmayer,0,西梅林(Simmering),0.0,0.0,0.0
+酒吧,Pub Klemo,Pub Klemo,0,维登(Wieden),0.0,0.0,0.0
+酒吧,stamm,stamm,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+酒吧,Porgy & Bess,Porgy & Bess,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Postgasse 11,Postgasse 11,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,伊默沃尔,伊默沃尔,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Weingut & Heuriger Christ,Weingut & Heuriger Christ,0,雅典其他,0.0,0.0,0.0
+酒吧,Gasthaus Kopp,Gasthaus Kopp,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+酒吧,Dachboden,Dachboden,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+酒吧,Rauch Juice Bar,Rauch Juice Bar,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+酒吧,Jazzland,Jazzland,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Bockshorn Irish Pub,Bockshorn Irish Pub,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Ignacio Vinos e Ibéricos,Ignacio Vinos e Ibéricos,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Winklers zum Posthorn,Winklers zum Posthorn,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+酒吧,Weinstube Josefstadt,Weinstube Josefstadt,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+酒吧,American / Loos Bar,American / Loos Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Meinl's Weinbar,Meinl's Weinbar,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Heurigenbuffet ,Heurigenbuffet ,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+酒吧,smart:in,smart:in,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Cafe Kunsthalle,Cafe Kunsthalle,0,维登(Wieden),0.0,0.0,0.0
+酒吧,Vinothek Der WEIN,Vinothek Der WEIN,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Seven Bar,Seven Bar,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+酒吧,Bolena Osteria Austria,Bolena Osteria Austria,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+酒吧,Bar OMAR absinth- und cocktailbar,Bar OMAR absinth- und cocktailbar,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+酒吧,Deschka Weinbar Vinothek,Deschka Weinbar Vinothek,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+酒吧,Cafe Raimann,Cafe Raimann,0,迈德灵(Meidling),0.0,0.0,0.0
+酒吧,Kolar,Kolar,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Ron Con Soda,Ron Con Soda,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Unger und Klein,Unger und Klein,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Stylez,Stylez,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+酒吧,7 cocktails,7 cocktails,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+酒吧,U.S.W,U.S.W,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+酒吧,Cafe Alt Wien,Cafe Alt Wien,0,雅典其他,0.0,0.0,0.0
+酒吧,Vinum et cetera,Vinum et cetera,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+酒吧,Flex,Flex,0,雅典其他,0.0,0.0,0.0
+酒吧,Barbaro's,Barbaro's,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,loos bar,loos bar,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Freyung 4,Freyung 4,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Krah Krah,Krah Krah,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Yamm,Yamm,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Billy's Bones,Billy's Bones,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+酒吧,The Sly & Arny,The Sly & Arny,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+酒吧,Spittelberg,Spittelberg,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+酒吧,Escape Metalcorner,Escape Metalcorner,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+酒吧,Shebeen,Shebeen,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+酒吧,Wein.Raum,Wein.Raum,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+酒吧,Tunnel,Tunnel,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+酒吧,SLUbar,SLUbar,0,雅典其他,0.0,0.0,0.0
+酒吧,KJU Bar,KJU Bar,0,雅典其他,0.0,0.0,0.0
+酒吧,Bristol Bar,Bristol Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,"New York, New York","New York, New York",0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Sky Bar,Sky Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,v1no55 Wein & Fondue,v1no55 Wein & Fondue,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Roter Engel,Roter Engel,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Wein & Co Schottentor Wien,Wein & Co Schottentor Wien,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Strandbar Herrmann,Strandbar Herrmann,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+酒吧,Shebeen (The International Pub),Shebeen (The International Pub),0,诺伊鲍 (Neubau),0.0,0.0,0.0
+酒吧,Wirr,Wirr,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+酒吧,Freiraum,Freiraum,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+酒吧,Jonny's Pub,Jonny's Pub,0,维登(Wieden),0.0,0.0,0.0
+酒吧,Kulinariat,Kulinariat,0,法沃里滕(Favoriten),0.0,0.0,0.0
+酒吧,Stadtkind,Stadtkind,0,雅典其他,0.0,0.0,0.0
+酒吧,Herbeck Stuben,Herbeck Stuben,0,韦灵(Währing),0.0,0.0,0.0
+酒吧,Kaiserbruendl Herrensauna,Kaiserbruendl Herrensauna,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Adria,Adria,0,内城(Innere Stadt),0.0,0.0,0.0
+酒吧,Babu,Babu,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+酒吧,Heuer Garten Restaurant Bar,Heuer Garten Restaurant Bar,0,,0.0,0.0,0.0
+酒吧,Ristorante Settimo Cielo and Wine Bar,Ristorante Settimo Cielo and Wine Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Wiener Stadtbrau,Wiener Stadtbrau,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Wienerwald,Wienerwald,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,Plachutta Hietzing,Plachutta Hietzing,0,席津 (Hietzing),0.0,0.0,0.0
+更多美食,Nordsee,Nordsee,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Pilwax,Pilwax,0,雅典其他,0.0,0.0,0.0
+更多美食,Vinzirast Mittendrin,Vinzirast Mittendrin,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,ULRICH,ULRICH,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,cafe ritter,cafe ritter,0,雅典其他,7.0,6.9,6.9
+更多美食,Lucky Noodles,Lucky Noodles,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Cafe Eiles,Cafe Eiles,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Mocarello Caffe,Mocarello Caffe,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Do-An at Naschmarkt,Do-An at Naschmarkt,0,雅典其他,0.0,0.0,0.0
+更多美食,Homoje Grill,Homoje Grill,0,维登(Wieden),0.0,0.0,0.0
+更多美食,BioWerkstatt,BioWerkstatt,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,FilmCafe,FilmCafe,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Caffe Meierei,Caffe Meierei,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Tongues Cafe,Tongues Cafe,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Cafe-Pub Fleur,Cafe-Pub Fleur,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Mumok,Mumok,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Tian Vienna,Tian Vienna,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,City Garden,City Garden,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Barbara's Winebar,Barbara's Winebar,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Residenz Schonbrunn,Residenz Schonbrunn,0,席津 (Hietzing),0.0,0.0,0.0
+更多美食,Restaurant Regio,Restaurant Regio,0,彭青(Penzing),0.0,0.0,0.0
+更多美食,"Anker Snack & Coffee, Mariahilfer Strasse 126","Anker Snack & Coffee, Mariahilfer Strasse 126",0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Parkcafé Landtmann,Parkcafé Landtmann,0,雅典其他,0.0,0.0,0.0
+更多美食,Sky Restaurant,Sky Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Clementine im Glashaus,Clementine im Glashaus,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Ginger and Fred,Ginger and Fred,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,Haus Hong Kong,Haus Hong Kong,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Restauration Marx,Restauration Marx,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Perugini Eissalon,Perugini Eissalon,0,雅典其他,0.0,0.0,0.0
+更多美食,Gasthaus Weidinger,Gasthaus Weidinger,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Restaurant Tseng,Restaurant Tseng,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Schnitzel Landmann,Schnitzel Landmann,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Pizzeria da Filippo,Pizzeria da Filippo,0,雅典其他,0.0,0.0,0.0
+更多美食,Freiwild,Freiwild,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Pasta e Basta II,Pasta e Basta II,0,维登(Wieden),0.0,0.0,0.0
+更多美食,La Piazetta,La Piazetta,0,雅典其他,0.0,0.0,0.0
+更多美食,Heurigen Hofer,Heurigen Hofer,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,DonDolone I Eissalon/Cafe,DonDolone I Eissalon/Cafe,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Blueorange - Coffee & Bagel,Blueorange - Coffee & Bagel,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Espressobar - Akrap Finest Coffee,Espressobar - Akrap Finest Coffee,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Cafe Lounge Dante,Cafe Lounge Dante,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Koestlich,Koestlich,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Falaferia,Falaferia,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Cocktailbar Reinberg,Cocktailbar Reinberg,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Prosciutto2,Prosciutto2,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Neuland,Neuland,0,雅典其他,0.0,0.0,0.0
+更多美食,Schobers Giersterbrau,Schobers Giersterbrau,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,Orangerie,Orangerie,0,雅典其他,0.0,0.0,0.0
+更多美食,Cafe Marengo,Cafe Marengo,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,Bar Aragall,Bar Aragall,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,giuliano 2,giuliano 2,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Tian Bistro,Tian Bistro,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Restaurant Eugenio,Restaurant Eugenio,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Felzl,Felzl,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Spar Markt,Spar Markt,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Certo Caffe,Certo Caffe,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Fischrestaurant Kaj,Fischrestaurant Kaj,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Ulrich,Ulrich,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Couscous,Couscous,0,雅典其他,0.0,0.0,0.0
+更多美食,MeLounge,MeLounge,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Atmosphere,Atmosphere,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Le Viet,Le Viet,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Gasthaus zur steirischen Jagastub'n,Gasthaus zur steirischen Jagastub'n,0,雅典其他,0.0,0.0,0.0
+更多美食,Hanoi,Hanoi,0,雅典其他,0.0,0.0,0.0
+更多美食,Nordsee Ges. M.B.H,Nordsee Ges. M.B.H,0,雅典其他,0.0,0.0,0.0
+更多美食,Cafe Gloriette,Cafe Gloriette,0,席津 (Hietzing),0.0,0.0,0.0
+更多美食,cafe panorama donauturm,cafe panorama donauturm,0,雅典其他,0.0,0.0,0.0
+更多美食,dschungel theater,dschungel theater,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Oberlaa,Oberlaa,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Strasser-Brau,Strasser-Brau,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,Sale E Pepe,Sale E Pepe,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Freshii,Freshii,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多美食,Tarragona,Tarragona,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多美食,bamboo,bamboo,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Cafe Rudigerhof,Cafe Rudigerhof,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Tewa - Karmelitermarkt,Tewa - Karmelitermarkt,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Volksgarten Pavillon Grill,Volksgarten Pavillon Grill,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Dino's American Bar,Dino's American Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Loving Hut,Loving Hut,0,雅典其他,0.0,0.0,0.0
+更多美食,Liounge,Liounge,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Bierochs-Bierkeller,Bierochs-Bierkeller,0,法沃里滕(Favoriten),0.0,0.0,0.0
+更多美食,Das Johann Restaurant,Das Johann Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Zwillings-Gewolb,Zwillings-Gewolb,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Lutz - Die Bar,Lutz - Die Bar,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Curry Insel,Curry Insel,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Das Salettl,Das Salettl,0,雅典其他,0.0,0.0,0.0
+更多美食,Malys,Malys,0,雅典其他,0.0,0.0,0.0
+更多美食,Restaurant Herrlich,Restaurant Herrlich,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Reformhaus Staudigl,Reformhaus Staudigl,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Roberto American Bar,Roberto American Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Sally's Bar & Brasseria,Sally's Bar & Brasseria,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Edvard,Edvard,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Soosser Weinhaus,Soosser Weinhaus,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Piazetta Restaurant-Pizzeria,Piazetta Restaurant-Pizzeria,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Bar Canaletto,Bar Canaletto,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Santa Lucia,Ristorante Pizzeria Santa Lucia,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Keiner Stuben,Keiner Stuben,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Das Radetzky,Das Radetzky,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Die serviette,Die serviette,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Glasweise,Glasweise,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,MAIOR Cafe,MAIOR Cafe,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Trattoria Mangia E Bivi,Trattoria Mangia E Bivi,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Feldberg,Feldberg,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Cafe Voodoo,Cafe Voodoo,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Star-Sub Sandwiches,Star-Sub Sandwiches,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Raw-Shop,Raw-Shop,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Bok,Bok,0,维登(Wieden),0.0,0.0,0.0
+更多美食,FOXY frozen yoghurt,FOXY frozen yoghurt,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Saft-Laden,Saft-Laden,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Il Tempo Josefstadterstrasse,Il Tempo Josefstadterstrasse,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Dionysos-Nosh,Dionysos-Nosh,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Muller Brau Bierlokal,Muller Brau Bierlokal,0,法沃里滕(Favoriten),0.0,0.0,0.0
+更多美食,Donna Diana,Donna Diana,0,雅典其他,0.0,0.0,0.0
+更多美食,Liebhart,Liebhart,0,雅典其他,0.0,0.0,0.0
+更多美食,Schutzhaus Waidaecker,Schutzhaus Waidaecker,0,雅典其他,0.0,0.0,0.0
+更多美食,Kiang Winebar,Kiang Winebar,0,雅典其他,0.0,0.0,0.0
+更多美食,Gasthaus Gruber,Gasthaus Gruber,0,雅典其他,0.0,0.0,0.0
+更多美食,Flys - American Fifties Restaurant,Flys - American Fifties Restaurant,0,雅典其他,0.0,0.0,0.0
+更多美食,Cafe Fichtl,Cafe Fichtl,0,雅典其他,0.0,0.0,0.0
+更多美食,Yoyogurt,Yoyogurt,0,雅典其他,0.0,0.0,0.0
+更多美食,Medl Brau,Medl Brau,0,彭青(Penzing),0.0,0.0,0.0
+更多美食,Orpheum,Orpheum,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多美食,Happy Buddha,Happy Buddha,0,雅典其他,0.0,0.0,0.0
+更多美食,Cafe Sperl,Cafe Sperl,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Valenta's Stammbeisl,Valenta's Stammbeisl,0,雅典其他,0.0,0.0,0.0
+更多美食,Zum Neuen Blumenstock,Zum Neuen Blumenstock,0,雅典其他,0.0,0.0,0.0
+更多美食,Boheme,Boheme,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Suchi Lounge,Suchi Lounge,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Markt-Restaurant Rosenberger,Markt-Restaurant Rosenberger,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,,0.0,0.0,0.0
+更多美食,D Bar,D Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Albertina Passage,Albertina Passage,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,cal(l)las,cal(l)las,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Il Tempo Bistro,Il Tempo Bistro,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Weibls Wirtshaus,Weibls Wirtshaus,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Makro 1,Makro 1,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Kornhauselturm,Kornhauselturm,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Konstantin Filippou,Konstantin Filippou,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Mercure Wien Zentrum,Mercure Wien Zentrum,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,"Fresh, Soup & Salad","Fresh, Soup & Salad",0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Hebenstreit,Hebenstreit,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Stopfer,Stopfer,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Harvest,Harvest,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Santo,Santo,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Mraz & Sohn,Mraz & Sohn,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Cafe - Restaurant Dresdnerhof,Cafe - Restaurant Dresdnerhof,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Pizzeria San Marino,Pizzeria San Marino,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Landstein Filet & Wine,Landstein Filet & Wine,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Schwabl Wirt,Schwabl Wirt,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Pan e Giardin,Pan e Giardin,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Lucullus Catering & Restaurant,Lucullus Catering & Restaurant,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Mar,Mar,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,bin im Leo,bin im Leo,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Landia,Landia,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Reformhaus Buchmuller,Reformhaus Buchmuller,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,MQ Kantine,MQ Kantine,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Cafe Espresso,Cafe Espresso,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Tiger,Tiger,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Natsu,Natsu,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Ungar Grill,Ungar Grill,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Flatschers Bistrot Und Bar,Flatschers Bistrot Und Bar,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Cafe Bird,Cafe Bird,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Restaurant-Bar Steindl,Restaurant-Bar Steindl,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Wald/4ler Stub,Wald/4ler Stub,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Koo Sushi,Koo Sushi,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Restaurant Ferdinand,Restaurant Ferdinand,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Wortner's Cafe,Wortner's Cafe,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Kolar,Kolar,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Restaurant Entler,Restaurant Entler,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Franz,Franz,0,维登(Wieden),0.0,0.0,0.0
+更多美食,La Maree,La Maree,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Hohensinn,Hohensinn,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Deli Bluem,Deli Bluem,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,High Restaurant,High Restaurant,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,POC (People on Caffeine),POC (People on Caffeine),0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Restaurant Donaudelta,Restaurant Donaudelta,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Zum Alten Beisl,Zum Alten Beisl,0,法沃里滕(Favoriten),0.0,0.0,0.0
+更多美食,Ummi,Ummi,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,Steinklammer Heurigen,Steinklammer Heurigen,0,雅典其他,0.0,0.0,0.0
+更多美食,Lusthaus im Prater,Lusthaus im Prater,0,雅典其他,0.0,0.0,0.0
+更多美食,Cafe Garda Zanoni,Cafe Garda Zanoni,0,雅典其他,0.0,0.0,0.0
+更多美食,Noi,Noi,0,雅典其他,0.0,0.0,0.0
+更多美食,Weinschank Stippert,Weinschank Stippert,0,雅典其他,0.0,0.0,0.0
+更多美食,Schottenring,Schottenring,0,雅典其他,0.0,0.0,0.0
+更多美食,XxXL Grill Restaurant,XxXL Grill Restaurant,0,雅典其他,0.0,0.0,0.0
+更多美食,Pizzeria Mediterrano,Pizzeria Mediterrano,0,雅典其他,0.0,0.0,0.0
+更多美食,Grand Cafe,Grand Cafe,0,雅典其他,0.0,0.0,0.0
+更多美食,Wasabi,Wasabi,0,雅典其他,0.0,0.0,0.0
+更多美食,Hauserl am Stoan,Hauserl am Stoan,0,雅典其他,0.0,0.0,0.0
+更多美食,Vorstadtbeisl Selitsch,Vorstadtbeisl Selitsch,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多美食,Simmeringer Landbier,Simmeringer Landbier,0,西梅林(Simmering),0.0,0.0,0.0
+更多美食,Gasthaus Schmitzberger,Gasthaus Schmitzberger,0,西梅林(Simmering),0.0,0.0,0.0
+更多美食,Schopenhauer,Schopenhauer,0,韦灵(Währing),0.0,0.0,0.0
+更多美食,Steirerstoeckl,Steirerstoeckl,0,韦灵(Währing),0.0,0.0,0.0
+更多美食,Roomz Vienna Restaurant,Roomz Vienna Restaurant,0,西梅林(Simmering),0.0,0.0,0.0
+更多美食,Spoons,Spoons,0,雅典其他,0.0,0.0,0.0
+更多美食,Wienerwald,Wienerwald,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Pentahotel Vienna,Pentahotel Vienna,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Asiatisches Restaurant Jasmin,Asiatisches Restaurant Jasmin,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多美食,Hotel/Restaurant Valley Rose,Hotel/Restaurant Valley Rose,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多美食,Babenberger Passage,Babenberger Passage,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Supper Club,Supper Club,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Mamaia,Mamaia,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Wienerwald,Wienerwald,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Die Metzgerei,Die Metzgerei,0,雅典其他,0.0,0.0,0.0
+更多美食,Umar1 Special Seafood,Umar1 Special Seafood,0,雅典其他,0.0,0.0,0.0
+更多美食,Bristol Lounge,Bristol Lounge,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Kervansaray-Hummerbar,Kervansaray-Hummerbar,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Stadbrauerei Schwarzenberg,Stadbrauerei Schwarzenberg,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Zum Huth - Im Haus der Musik,Zum Huth - Im Haus der Musik,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Oasia,Oasia,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Cascade Bar,Cascade Bar,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Garten Cafè,Garten Cafè,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Wrenkh Naturlich,Wrenkh Naturlich,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Basteigarten Restaurant,Basteigarten Restaurant,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,American Cocktail Bar New York,American Cocktail Bar New York,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Tinto Rosso,Tinto Rosso,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Restaurant Bootshaus,Restaurant Bootshaus,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Wienerin,Wienerin,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Ministerium,Ministerium,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Kim Kocht,Kim Kocht,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Kolar 1,Kolar 1,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Hedrich,Hedrich,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Kurt Frozen Yogurt,Kurt Frozen Yogurt,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Pastell Restaurant Bar und Lounge,Pastell Restaurant Bar und Lounge,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Orlando di Castello,Orlando di Castello,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,chill out,chill out,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Hidden Kitchen,Hidden Kitchen,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Gruener Kakadu,Gruener Kakadu,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Saigon Riverside,Saigon Riverside,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Soupkultur,Soupkultur,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Zwillingsgwolb,Zwillingsgwolb,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Mykal,Mykal,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,MyKai,MyKai,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Zzum Golden Panda,Zzum Golden Panda,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Gasthaus Gustav & Franz,Gasthaus Gustav & Franz,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Le Cedre,Le Cedre,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Zum Friedensrichter,Zum Friedensrichter,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Vincent,Vincent,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,L'ase,L'ase,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Gasthaus Haller,Gasthaus Haller,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Restaurant Zum Gmiatlichn Eck,Restaurant Zum Gmiatlichn Eck,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Zum Alten Heller,Zum Alten Heller,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Weissgerber Stube im Suennhof,Weissgerber Stube im Suennhof,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Trattoria Pizzeria Pergola,Trattoria Pizzeria Pergola,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Joseph,Joseph,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Cafe Restaurant ASCOT,Cafe Restaurant ASCOT,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,S'PARKS (in the Hilton Vienna),S'PARKS (in the Hilton Vienna),0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Im KunstHaus,Im KunstHaus,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Kuchlmasterei,Kuchlmasterei,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Cafe Glaser,Cafe Glaser,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Lane & Merriman's,Lane & Merriman's,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Weltcafe,Weltcafe,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Oh Pot Oh Pot,Oh Pot Oh Pot,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Zur goldenen Kugel,Zur goldenen Kugel,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Flein,Flein,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Summer Stage,Summer Stage,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Casa Caribena,Casa Caribena,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Restaurant Loewenhof,Restaurant Loewenhof,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Mc Cafe,Mc Cafe,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Spark,Spark,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Pizzeria Il Sole,Pizzeria Il Sole,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,schon schon,schon schon,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Lena & Laurenz,Lena & Laurenz,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Europa,Europa,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Tart'a Tata,Tart'a Tata,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Tata Restaurant - Fabido,Tata Restaurant - Fabido,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Restaurant TAG.LANG,Restaurant TAG.LANG,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Kaffeerestaurant Nil,Kaffeerestaurant Nil,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Da Michele,Da Michele,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Restaurant Uno,Restaurant Uno,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,wine&co,wine&co,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Brass Monkey,Brass Monkey,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Natsu (Bezirk 6),Natsu (Bezirk 6),0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Chimbiss,Chimbiss,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Bodega Espanola,Bodega Espanola,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Zweitbester,Zweitbester,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Manzana,Manzana,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Cafe Amacord,Cafe Amacord,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Naschmarkt-Pavillon,Naschmarkt-Pavillon,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Pointers,Pointers,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Hold,Hold,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Cafe Merkur,Cafe Merkur,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Restaurant Suedlaender,Restaurant Suedlaender,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Steirerstuben,Steirerstuben,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Zum Schwarzen Adler,Zum Schwarzen Adler,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Horvath,Horvath,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Aming Dim Sum Profi,Aming Dim Sum Profi,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Heuriger Zum 5Er Pflug,Heuriger Zum 5Er Pflug,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,Zum Altmannsdorfer Hof,Zum Altmannsdorfer Hof,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,Bio BAR Bruschette,Bio BAR Bruschette,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,Nostos Restaurant,Nostos Restaurant,0,雅典其他,0.0,0.0,0.0
+更多美食,Xiang Shan,Xiang Shan,0,雅典其他,0.0,0.0,0.0
+更多美食,Unterlaaerhof,Unterlaaerhof,0,雅典其他,0.0,0.0,0.0
+更多美食,Wieselthaler Stefan,Wieselthaler Stefan,0,雅典其他,0.0,0.0,0.0
+更多美食,"McDonald's Wien, Richard-Strauss-Str","McDonald's Wien, Richard-Strauss-Str",0,雅典其他,0.0,0.0,0.0
+更多美食,Purzl's mit Claus Curn,Purzl's mit Claus Curn,0,雅典其他,0.0,0.0,0.0
+更多美食,Wiltschko Weinbau,Wiltschko Weinbau,0,雅典其他,0.0,0.0,0.0
+更多美食,Zu Den 3 Linden,Zu Den 3 Linden,0,雅典其他,0.0,0.0,0.0
+更多美食,Hollerei,Hollerei,0,雅典其他,0.0,0.0,0.0
+更多美食,Yummy Cooking,Yummy Cooking,0,雅典其他,0.0,0.0,0.0
+更多美食,Schutzhaus,Schutzhaus,0,雅典其他,0.0,0.0,0.0
+更多美食,Diwan Holzkohlen Grill,Diwan Holzkohlen Grill,0,雅典其他,0.0,0.0,0.0
+更多美食,Tokori,Tokori,0,雅典其他,0.0,0.0,0.0
+更多美食,Wein & Co Naschmarkt,Wein & Co Naschmarkt,0,雅典其他,0.0,0.0,0.0
+更多美食,La Valletta Gastronomie,La Valletta Gastronomie,0,雅典其他,0.0,0.0,0.0
+更多美食,Rasouli,Rasouli,0,雅典其他,0.0,0.0,0.0
+更多美食,Cafeteria Maximilian,Cafeteria Maximilian,0,雅典其他,0.0,0.0,0.0
+更多美食,Rudolf Gastwirtschaft,Rudolf Gastwirtschaft,0,雅典其他,0.0,0.0,0.0
+更多美食,Villa Aurora,Villa Aurora,0,雅典其他,0.0,0.0,0.0
+更多美食,Klee am Hanslteich,Klee am Hanslteich,0,雅典其他,0.0,0.0,0.0
+更多美食,Fuhrgassl-Huber,Fuhrgassl-Huber,0,雅典其他,0.0,0.0,0.0
+更多美食,Restaurant Athene,Restaurant Athene,0,雅典其他,0.0,0.0,0.0
+更多美食,Ristorante & Weinbar ,Ristorante & Weinbar ,0,雅典其他,0.0,0.0,0.0
+更多美食,Futterboden,Futterboden,0,彭青(Penzing),0.0,0.0,0.0
+更多美食,Ideenbaeckerei Geier,Ideenbaeckerei Geier,0,彭青(Penzing),0.0,0.0,0.0
+更多美食,Restaurant Waldtzeile,Restaurant Waldtzeile,0,席津 (Hietzing),0.0,0.0,0.0
+更多美食,Restaurant Schonbrunner Stockl,Restaurant Schonbrunner Stockl,0,席津 (Hietzing),0.0,0.0,0.0
+更多美食,Wang Fu,Wang Fu,0,席津 (Hietzing),0.0,0.0,0.0
+更多美食,Schneider-Gossl,Schneider-Gossl,0,席津 (Hietzing),0.0,0.0,0.0
+更多美食,Roter Hiasl,Roter Hiasl,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多美食,Bierreither,Bierreither,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多美食,Hopfen & Malz,Hopfen & Malz,0,西梅林(Simmering),0.0,0.0,0.0
+更多美食,Simmeringer Bier- und Kulturschmankerl,Simmeringer Bier- und Kulturschmankerl,0,西梅林(Simmering),0.0,0.0,0.0
+更多美食,Cabrito,Cabrito,0,韦灵(Währing),0.0,0.0,0.0
+更多美食,Cafe Wilder Mann,Cafe Wilder Mann,0,韦灵(Währing),0.0,0.0,0.0
+更多美食,Francesco,Francesco,0,韦灵(Währing),0.0,0.0,0.0
+更多美食,Original Wiener Cafe Konditorei Lintner,Original Wiener Cafe Konditorei Lintner,0,韦灵(Währing),0.0,0.0,0.0
+更多美食,Biergartl Martin Morocutti,Biergartl Martin Morocutti,0,雅典其他,0.0,0.0,0.0
+更多美食,Cafe motto gastronomie gmbh,Cafe motto gastronomie gmbh,0,雅典其他,0.0,0.0,0.0
+更多美食,Minh Khiem Vietnamese Food,Minh Khiem Vietnamese Food,0,雅典其他,0.0,0.0,0.0
+更多美食,Beaulieu,Beaulieu,0,雅典其他,0.0,0.0,0.0
+更多美食,Cafe Frauenhuber,Cafe Frauenhuber,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,L'Asino Che Ride,L'Asino Che Ride,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Skybar,Skybar,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Bastei Beisl,Bastei Beisl,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Kyoto,Kyoto,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Beim Hofmeister,Beim Hofmeister,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Osterreicher im MAK,Osterreicher im MAK,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Starbucks Am Graben,Starbucks Am Graben,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Oswald & Kalb,Oswald & Kalb,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Cafe-Restaurant Gutenberg,Cafe-Restaurant Gutenberg,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Sababa,Sababa,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Kern's Beisel,Kern's Beisel,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Urania,Urania,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Holy-Moly! am Badeschiff,Holy-Moly! am Badeschiff,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Echo City Thai,Echo City Thai,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Kolar Salzgries,Kolar Salzgries,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Cafe Votiv,Cafe Votiv,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Madiani,Madiani,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,decor im augarten,decor im augarten,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,McDonald's Restaurant - McDrive and McCafe,McDonald's Restaurant - McDrive and McCafe,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Brigittenauer Stadl,Brigittenauer Stadl,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Gasthaus Sagmeister,Gasthaus Sagmeister,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Arsenal,Arsenal,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Trzesniewski,Trzesniewski,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Bierteufl,Bierteufl,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Stadtwirt,Stadtwirt,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Cafe Berg,Cafe Berg,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Wein & Co,Wein & Co,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Osteria n. 1,Osteria n. 1,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Cafe-Club Wirr,Cafe-Club Wirr,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Formosa,Formosa,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Frascati,Frascati,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Bar Italia Lounge,Bar Italia Lounge,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,Beograd,Beograd,0,维登(Wieden),0.0,0.0,0.0
+更多美食,deliciousmonster,deliciousmonster,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Sussi Salon de The Francais,Sussi Salon de The Francais,0,维登(Wieden),0.0,0.0,0.0
+更多美食,Gasthaus zur Stadt Paris,Gasthaus zur Stadt Paris,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Pizzeria Ruffino,Pizzeria Ruffino,0,约瑟夫城(Josefstadt),0.0,0.0,0.0
+更多美食,Schlossgasse 21,Schlossgasse 21,0,马尔加雷滕(Margareten),0.0,0.0,0.0
+更多美食,Klein Steiermark,Klein Steiermark,0,法沃里滕(Favoriten),0.0,0.0,0.0
+更多美食,Zum Alten Pflug,Zum Alten Pflug,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,COEO,COEO,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,Kurkonditorei Oberlaa,Kurkonditorei Oberlaa,0,雅典其他,0.0,0.0,0.0
+更多美食,Zahel Weinbau,Zahel Weinbau,0,雅典其他,0.0,0.0,0.0
+更多美食,Cafe Doan,Cafe Doan,0,雅典其他,0.0,0.0,0.0
+更多美食,Zum Grunen Jager,Zum Grunen Jager,0,雅典其他,0.0,0.0,0.0
+更多美食,Neon Restaurant,Neon Restaurant,0,雅典其他,0.0,0.0,0.0
+更多美食,d.a.s. Hungerberg,d.a.s. Hungerberg,0,雅典其他,0.0,0.0,0.0
+更多美食,Birner Strand-Gasthaus,Birner Strand-Gasthaus,0,雅典其他,0.0,0.0,0.0
+更多美食,La Creperia,La Creperia,0,雅典其他,0.0,0.0,0.0
+更多美食,Cafe Cobenzl,Cafe Cobenzl,0,雅典其他,0.0,0.0,0.0
+更多美食,Kahlenberg-Restaurant,Kahlenberg-Restaurant,0,雅典其他,0.0,0.0,0.0
+更多美食,Zum Weinbeisser,Zum Weinbeisser,0,雅典其他,0.0,0.0,0.0
+更多美食,Chilinos,Chilinos,0,彭青(Penzing),0.0,0.0,0.0
+更多美食,Saloon Donauplex,Saloon Donauplex,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多美食,Gasometer City,Gasometer City,0,西梅林(Simmering),0.0,0.0,0.0
+更多美食,Himmelblau,Himmelblau,0,韦灵(Währing),0.0,0.0,0.0
+更多美食,Aumann,Aumann,0,韦灵(Währing),0.0,0.0,0.0
+更多美食,Komarek,Komarek,0,韦灵(Währing),0.0,0.0,0.0
+更多美食,Hauserl am Roan,Hauserl am Roan,0,韦灵(Währing),0.0,0.0,0.0
+更多美食,Sino1 Asia Cuisine,Sino1 Asia Cuisine,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Cafe Hegelhof,Cafe Hegelhof,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Cafe Mokador Dorotheergasse 6-8 1010 Wien,Cafe Mokador Dorotheergasse 6-8 1010 Wien,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Le Cru,Le Cru,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,El Pulpo,El Pulpo,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Yili,Yili,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Melker Stiftskeller,Melker Stiftskeller,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Restaurant Fadinger,Restaurant Fadinger,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Restaurant Chianti,Restaurant Chianti,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Bunkerei,Bunkerei,0,利奥波德城(Leopoldstadt),0.0,0.0,0.0
+更多美食,Palais Schwarzenberg,Palais Schwarzenberg,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Ballsaal Cafe Bar Restaurant - The Mall,Ballsaal Cafe Bar Restaurant - The Mall,0,兰德斯特拉塞(Landstraße),0.0,0.0,0.0
+更多美食,Restaurant Jaipur Palace,Restaurant Jaipur Palace,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Curry Up,Curry Up,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Das Campus Restaurant & Bar,Das Campus Restaurant & Bar,0,阿尔瑟格伦德(Alsergrund),0.0,0.0,0.0
+更多美食,Restaurant Maschu Maschu,Restaurant Maschu Maschu,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Govinda - Die Wohlfuhloase,Govinda - Die Wohlfuhloase,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,MQDaily,MQDaily,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Pure Living Bakery Downtown,Pure Living Bakery Downtown,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,Cafe Westend,Cafe Westend,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0
+更多美食,DOTS21,DOTS21,0,法沃里滕(Favoriten),0.0,0.0,0.0
+更多美食,Amigos Food Lounge Bar,Amigos Food Lounge Bar,0,迈德灵(Meidling),0.0,0.0,0.0
+更多美食,Noir Vienna,Noir Vienna,0,雅典其他,0.0,0.0,0.0
+更多美食,Gosser Brau Wien 1230,Gosser Brau Wien 1230,0,雅典其他,0.0,0.0,0.0
+更多美食,|Pomodoronero || Pizza Lounge|,|Pomodoronero || Pizza Lounge|,0,雅典其他,0.0,0.0,0.0
+更多美食,Okay Pizza Kebap,Okay Pizza Kebap,0,雅典其他,0.0,0.0,0.0
+更多美食,Steva's Grill Restaurant,Steva's Grill Restaurant,0,雅典其他,0.0,0.0,0.0
+更多美食,|Santos || Mexican Grill & Bar|,|Santos || Mexican Grill & Bar|,0,雅典其他,0.0,0.0,0.0
+更多美食,Stiegl-Ambulanz,Stiegl-Ambulanz,0,雅典其他,0.0,0.0,0.0
+更多美食,Heurigenrestaurant Am Predigtstuhl,Heurigenrestaurant Am Predigtstuhl,0,雅典其他,0.0,0.0,0.0
+更多美食,Schottenhof,Schottenhof,0,雅典其他,0.0,0.0,0.0
+更多美食,Sagya African Restaurant,Sagya African Restaurant,0,雅典其他,0.0,0.0,0.0
+更多美食,Cafe Felixx,Cafe Felixx,0,雅典其他,0.0,0.0,0.0
+更多美食,Mcdonald's Restaurant,Mcdonald's Restaurant,0,雅典其他,0.0,0.0,0.0
+更多美食,Landgasthof Waldgrill,Landgasthof Waldgrill,0,雅典其他,0.0,0.0,0.0
+更多美食,Pizzeria Cara Mia,Pizzeria Cara Mia,0,雅典其他,0.0,0.0,0.0
+更多美食,Restaurant Gasthaus Hansi,Restaurant Gasthaus Hansi,0,多瑙城(Donaustadt),0.0,0.0,0.0
+更多美食,Nat'naa,Nat'naa,0,雅典其他,0.0,0.0,0.0
+更多美食,Restaurant zum Basilisk,Restaurant zum Basilisk,0,内城(Innere Stadt),0.0,0.0,0.0
+更多美食,Bier Factory XXL,Bier Factory XXL,0,诺伊鲍 (Neubau),0.0,0.0,0.0
+更多美食,RincUn Andino,RincUn Andino,0,玛利亚希尔夫(Mariahilf),0.0,0.0,0.0

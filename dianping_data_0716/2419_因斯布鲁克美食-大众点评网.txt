@@ -1,0 +1,157 @@
+意大利菜,L'Osteria
+意大利菜,Plaza
+意大利菜,Leo's Ristorante
+意大利菜,Via Veneto
+意大利菜,Trattoria Cielo
+意大利菜,La Cantina - Intermezzo Italiano
+意大利菜,Il Castello
+意大利菜,Ristorante Pizzeria Sapori
+意大利菜,Pizzeria Luna Rossa
+意大利菜,Le Vante
+意大利菜,Il Faro
+意大利菜,Die Pizzerei
+意大利菜,Restaurant Pizzeria Passage
+意大利菜,Tasties
+意大利菜,mamma mia
+意大利菜,Solo Vino
+意大利菜,Trattoria de Peppino
+意大利菜,Da Giovanni
+意大利菜,Due Sicilie
+意大利菜,Villaggio 7
+意大利菜,Vapiano
+意大利菜,Peperoncino
+意大利菜,Cafe Toscana
+意大利菜,Pizzeria Romantica
+意大利菜,Ristorante Republica
+其他西餐,Gasthof Oelberg
+其他西餐,Restaurant Goldenes Dachl
+其他西餐,Piano bar
+其他西餐,Schwarzer Adler
+其他西餐,Uni-Cafe
+其他西餐,Cafe im Hof
+其他西餐,Restaurant Sitzwohl
+其他西餐,Wurst Und Wonne
+其他西餐,TREIBHAUS
+其他西餐,Fischerhausl
+其他西餐,Restaurant Panorama
+其他西餐,Schutzhaus
+其他西餐,Buzihutte
+其他西餐,Alfred Millers Schoneck
+其他西餐,Cafe Restaurant Weiherburg
+其他西餐,Stieglbrau
+其他西餐,Wurstel Siggi
+其他西餐,Retro Cafe Bar
+其他西餐,Akropolis
+其他西餐,Flo Jos Masi
+其他西餐,Cafe Munding
+其他西餐,Markt Schiff Fischrestaurant Peer
+其他西餐,Weisses Rossl Restaurant
+其他西餐,Interspar-Restaurant
+其他西餐,die Wilderin
+其他西餐,Cafe Elektra
+其他西餐,Steakhouse
+其他西餐,Hofgarten
+其他西餐,Agidihof
+其他西餐,Wirtshaus Nattererboden
+更多亚洲菜,Thai-Li
+更多亚洲菜,Haikky
+更多亚洲菜,Shambala Retsaurant
+更多亚洲菜,Indisches Restaurant Rama
+更多亚洲菜,Yun
+更多亚洲菜,Himal Nepal Kitchen
+更多亚洲菜,my IndigoInnsbruck DEZ
+更多亚洲菜,Thai-Li-Ba
+更多亚洲菜,Namaste India Deluxe
+更多亚洲菜,Madhuban Restaurant
+更多亚洲菜,Little India
+更多亚洲菜,Soultans Feinkost
+更多亚洲菜,Kijsana 36
+更多亚洲菜,Victoria's Sushi Bar
+更多亚洲菜,Teppan Wok
+更多亚洲菜,Noi Original Thai Kuche
+更多亚洲菜,my Indigo Innsbruck Rathaus
+更多亚洲菜,sahib
+更多亚洲菜,Everest Inn
+更多亚洲菜,Shere Punjab
+海鲜,Peer's Fischiff
+比萨,Pizzeria Gemelli
+比萨,Da Piero
+比萨,Prendi Pizza
+比萨,Ristorante Parma
+比萨,Il Dottore
+咖啡厅,Café-Bar Moustache
+咖啡厅,Dom Cafe-Bar
+咖啡厅,Cafe am Tivoli
+咖啡厅,Cafe Konditorei Zimt & Zucker
+咖啡厅,Cafe Katzung
+咖啡厅,Cafe Sacher
+咖啡厅,Herzog-Friedrich Cafe-Restaurant
+咖啡厅,Wolke7
+面包甜点,Der Baecker Ruetz
+面包甜点,Konditorei - Cafe Valier
+面包甜点,Stefans Brotmanufaktur
+面包甜点,Amorino Innsbruck
+酒吧,Rox Musicbar
+酒吧,Café-Bar Moustache
+酒吧,Dom Cafe-Bar
+酒吧,Archiv Congress
+酒吧,Cafe Sailer
+酒吧,5th Floor in the Penz
+酒吧,Bella e Monella
+酒吧,Invinum
+酒吧,Wettercafe
+酒吧,Adlers Hotel Restaurant
+酒吧,Erlköenig Bar
+酒吧,Limerick Bill's
+酒吧,Bacchus
+酒吧,Safari
+酒吧,Weekender
+酒吧,Das Schindler
+酒吧,Bar 360
+酒吧,"Moderne, Innsbruck"
+酒吧,360o
+酒吧,The Limmerick Bill
+酒吧,Stadtcafe
+酒吧,Kapuziner Café Bar Biergarten
+更多美食,Restaurant Sailer
+更多美食,Dengg
+更多美食,Trattoria Tropea
+更多美食,Testa Rossa Am Stadtturm
+更多美食,OLEX Restaurant
+更多美食,Restaurant Alpinpark
+更多美食,Stefan's
+更多美食,Ristorante & Pizzeria 
+更多美食,Burkia
+更多美食,Austria Trend Hotel Congress Innsbruck Restaurant
+更多美食,Privilege Dinner Club
+更多美食,Pizzeria Crocodiles
+更多美食,Grauer Bar
+更多美食,"Bodega Ronda, Tapas y Mas"
+更多美食,Ristorante-Pizzeria Venezia
+更多美食,Baguette Bistro Betriebs
+更多美食,Andechs
+更多美食,Gasthof zum Schupfen
+更多美食,Pizzeria Salute
+更多美食,Goessers
+更多美食,Gasthaus Milchstuberl
+更多美食,Restaurant Batzenhausl
+更多美食,Nordsee
+更多美食,Oishi Sushi Bar
+更多美食,Fuji Japan-Asia-Restaurant
+更多美食,Pizzeria Napoli
+更多美食,Buren Wirt
+更多美食,Cafe Heidi Conditorie Eigentler
+更多美食,Bahnhofsrestaurant City Point
+更多美食,Reform Martin Vollwert Bistro
+更多美食,Sensei Sushi Bar
+更多美食,Cafe Kunstpause
+更多美食,FloJos
+更多美食,Maria von Burgund
+更多美食,Insieme
+更多美食,Schiessstand
+更多美食,Kranebitterhof
+更多美食,Taminda ModeCafe
+更多美食,Mcdonald's Restaurant
+更多美食,Cafe Pension Alpina
+更多美食,Cafe & Bar Moskau
+更多美食,Waldorf

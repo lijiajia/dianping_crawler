@@ -1,0 +1,1612 @@
+意大利菜,Taste of Italy,Taste of Italy,0,新镇,0.0,0.0,0.0
+意大利菜,Zizzi - Edinburgh Roxburgh Court,Zizzi - Edinburgh Roxburgh Court,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Vittoria,Vittoria,0,新镇,0.0,0.0,0.0
+意大利菜,La Piazza,La Piazza,0,新镇,0.0,0.0,0.0
+意大利菜,Gordon's Trattoria,Gordon's Trattoria,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Santo's Bistro,Santo's Bistro,0,新镇,0.0,0.0,0.0
+意大利菜,Gordons tratoria,Gordons tratoria,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Gaia Delicatessan,Gaia Delicatessan,0,其他,0.0,0.0,0.0
+意大利菜,Cucina,Cucina,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Origano,Origano,0,,0.0,0.0,0.0
+意大利菜,Mia Restaurant,Mia Restaurant,0,斯莱特福德,0.0,0.0,0.0
+意大利菜,Bella Italia - Hanover Street,Bella Italia - Hanover Street,0,新镇,0.0,0.0,0.0
+意大利菜,The City Restaurant,The City Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Rigatoni's,Rigatoni's,0,其他,0.0,0.0,0.0
+意大利菜,Asti,Asti,0,新镇,0.0,0.0,0.0
+意大利菜,Vittoria On The Bridge,Vittoria On The Bridge,0,,0.0,0.0,0.0
+意大利菜,bar italia,bar italia,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Il Castello,Il Castello,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Locandamarina Italian Bar,Locandamarina Italian Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Ecco Vino,Ecco Vino,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Nonna's Kitchen,Nonna's Kitchen,0,斯莱特福德,0.0,0.0,0.0
+意大利菜,Papilio Restaurant,Papilio Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Sambuca Italian Restaurant,Sambuca Italian Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Bella Italia,Bella Italia,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Fabio's Restaurant,Fabio's Restaurant,0,,0.0,0.0,0.0
+意大利菜,Pasta Fresca,Pasta Fresca,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Valvona & Crolla Caffe Bar,Valvona & Crolla Caffe Bar,0,新镇,0.0,0.0,0.0
+意大利菜,Pizza Express Edinburgh - George IV Bridge,Pizza Express Edinburgh - George IV Bridge,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Martone,Martone,0,新镇,0.0,0.0,0.0
+意大利菜,Centotre,Centotre,0,新镇,0.0,0.0,0.0
+意大利菜,Strada,Strada,0,新镇,0.0,0.0,0.0
+意大利菜,Made in Italy,Made in Italy,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Giuliano's,Giuliano's,0,新镇,0.0,0.0,0.0
+意大利菜,Caffe Lucano,Caffe Lucano,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,La Favorita,La Favorita,0,爱丁堡机场,0.0,0.0,0.0
+意大利菜,Pizza Express,Pizza Express,0,利斯,0.0,0.0,0.0
+意大利菜,"Al Borgo Restaurant, Juniper Green, Edinburgh","Al Borgo Restaurant, Juniper Green, Edinburgh",0,其他,0.0,0.0,0.0
+意大利菜,Scalini,Scalini,0,新镇,0.0,0.0,0.0
+意大利菜,Vincaffe,Vincaffe,0,新镇,0.0,0.0,0.0
+意大利菜,Valvona & Crolla VinCaffe,Valvona & Crolla VinCaffe,0,新镇,0.0,0.0,0.0
+意大利菜,Alla romana,Alla romana,0,斯莱特福德,0.0,0.0,0.0
+意大利菜,Afterz,Afterz,0,其他,0.0,0.0,0.0
+意大利菜,Prezzo,Prezzo,0,利斯,0.0,0.0,0.0
+意大利菜,"Pulcinella, RIstorante Italiano","Pulcinella, RIstorante Italiano",0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Jamies Italian / the assembly rooms,Jamies Italian / the assembly rooms,0,新镇,0.0,0.0,0.0
+意大利菜,Zucca Restaurant & Cafe,Zucca Restaurant & Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Pizza Express,Pizza Express,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Al borgo,Al borgo,0,其他,0.0,0.0,0.0
+意大利菜,Dantes,Dantes,0,其他,0.0,0.0,0.0
+意大利菜,Cafe Artista,Cafe Artista,0,其他,0.0,0.0,0.0
+意大利菜,Positano,Positano,0,其他,0.0,0.0,0.0
+意大利菜,Al Fresco Giuliano's Bistro,Al Fresco Giuliano's Bistro,0,其他,0.0,0.0,0.0
+意大利菜,St. John's Restaurant,St. John's Restaurant,0,爱丁堡机场,0.0,0.0,0.0
+意大利菜,Luigi's Ristorante,Luigi's Ristorante,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+意大利菜,Caffe e Cucina,Caffe e Cucina,0,晨兴,0.0,0.0,0.0
+意大利菜,Papoli,Papoli,0,新镇,0.0,0.0,0.0
+意大利菜,La Bruschetta,La Bruschetta,0,新镇,0.0,0.0,0.0
+意大利菜,Quattro Zero,Quattro Zero,0,新镇,0.0,0.0,0.0
+意大利菜,Victor & Carina Contini Ristorante,Victor & Carina Contini Ristorante,0,新镇,0.0,0.0,0.0
+意大利菜,Bar Napolina,Bar Napolina,0,新镇,0.0,0.0,0.0
+意大利菜,La Lanterna,La Lanterna,0,新镇,0.0,0.0,0.0
+意大利菜,Tani Modi,Tani Modi,0,新镇,0.0,0.0,0.0
+意大利菜,La Favorita Restaurant Leith Walk,La Favorita Restaurant Leith Walk,0,新镇,0.0,0.0,0.0
+意大利菜,Papavero Restaurant,Papavero Restaurant,0,新镇,0.0,0.0,0.0
+意大利菜,Italian Kitchen,Italian Kitchen,0,新镇,0.0,0.0,0.0
+意大利菜,Al Dente Restaurant,Al Dente Restaurant,0,新镇,0.0,0.0,0.0
+意大利菜,Scoopz Ice Cream,Scoopz Ice Cream,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Bar Frizzante,Bar Frizzante,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Caffe' Piccolo,Caffe' Piccolo,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Divino Enoteca,Divino Enoteca,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Rocca Bar and Restaurant,Rocca Bar and Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Osteria Del Tempo Perso,Osteria Del Tempo Perso,0,斯莱特福德,0.0,0.0,0.0
+意大利菜,Pepe Nero,Pepe Nero,0,斯莱特福德,0.0,0.0,0.0
+意大利菜,Piatto Verde,Piatto Verde,0,斯莱特福德,0.0,0.0,0.0
+意大利菜,Pierinos,Pierinos,0,利斯,0.0,0.0,0.0
+意大利菜,Cafe Domenico,Cafe Domenico,0,利斯,0.0,0.0,0.0
+意大利菜,Jamie's Italian,Jamie's Italian,0,新镇,0.0,0.0,0.0
+意大利菜,Zizzi - Edinburgh Leith,Zizzi - Edinburgh Leith,0,利斯,0.0,0.0,0.0
+意大利菜,Pizza Paradise,Pizza Paradise,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Frankie and Benny's,Frankie and Benny's,0,新镇,0.0,0.0,0.0
+意大利菜,Trattoria Italiana,Trattoria Italiana,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Rocco Restaurant,Rocco Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Inca,Inca,0,其他,0.0,0.0,0.0
+意大利菜,Frankie & bennys,Frankie & bennys,0,其他,0.0,0.0,0.0
+意大利菜,Anima,Anima,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+意大利菜,La Fontana,La Fontana,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+意大利菜,St Andrews Restaurant,St Andrews Restaurant,0,波托贝洛,0.0,0.0,0.0
+意大利菜,Gali,Gali,0,新镇,0.0,0.0,0.0
+意大利菜,Bar Roma,Bar Roma,0,新镇,0.0,0.0,0.0
+意大利菜,Zizzi - Edinburgh Queensferry Street,Zizzi - Edinburgh Queensferry Street,0,新镇,0.0,0.0,0.0
+意大利菜,Gusto Restaurant & Bar,Gusto Restaurant & Bar,0,新镇,0.0,0.0,0.0
+意大利菜,Caffe Centro,Caffe Centro,0,新镇,0.0,0.0,0.0
+意大利菜,Caciopepe,Caciopepe,0,新镇,0.0,0.0,0.0
+意大利菜,a room in the town,a room in the town,0,新镇,0.0,0.0,0.0
+意大利菜,Mamma Roma Restaurant,Mamma Roma Restaurant,0,新镇,0.0,0.0,0.0
+意大利菜,Croma,Croma,0,新镇,0.0,0.0,0.0
+意大利菜,Ciao Roma,Ciao Roma,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,risstorante Gennari pizzera,risstorante Gennari pizzera,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Italian Connection,Italian Connection,0,斯莱特福德,0.0,0.0,0.0
+意大利菜,La Partenope,La Partenope,0,斯莱特福德,0.0,0.0,0.0
+意大利菜,Frankie and Benny's,Frankie and Benny's,0,爱丁堡机场,0.0,0.0,0.0
+意大利菜,Pizza Express,Pizza Express,0,晨兴,0.0,0.0,0.0
+意大利菜,Rosso Wine Bar and Restaurant,Rosso Wine Bar and Restaurant,0,晨兴,0.0,0.0,0.0
+意大利菜,Nono's,Nono's,0,晨兴,0.0,0.0,0.0
+意大利菜,Patio Restaurant,Patio Restaurant,0,新镇,0.0,0.0,0.0
+意大利菜,The Jolly Restaurant,The Jolly Restaurant,0,新镇,0.0,0.0,0.0
+意大利菜,Gordan's Trattoria,Gordan's Trattoria,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Prezzo,Prezzo,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,Da Riccardo Ristorante,Da Riccardo Ristorante,0,斯莱特福德,0.0,0.0,0.0
+意大利菜,Bella Italia,Bella Italia,0,利斯,0.0,0.0,0.0
+意大利菜,Prezzo - Edinburgh,Prezzo - Edinburgh,0,利斯,0.0,0.0,0.0
+意大利菜,Pentland Fry,Pentland Fry,0,其他,0.0,0.0,0.0
+意大利菜,La Stazione,La Stazione,0,新镇,0.0,0.0,0.0
+意大利菜,Jamie Olivers Italian,Jamie Olivers Italian,0,新镇,0.0,0.0,0.0
+意大利菜,Rapido Caffe,Rapido Caffe,0,新镇,0.0,0.0,0.0
+意大利菜,Nyam Nyam,Nyam Nyam,0,爱丁堡旧城区,0.0,0.0,0.0
+意大利菜,"Frankie & Benny's, Edinburgh Ocean Terminal","Frankie & Benny's, Edinburgh Ocean Terminal",0,利斯,0.0,0.0,0.0
+意大利菜,Aristo cafe,Aristo cafe,0,其他,0.0,0.0,0.0
+意大利菜,Cibo,Cibo,0,其他,0.0,0.0,0.0
+意大利菜,TI AMO,TI AMO,0,爱丁堡机场,0.0,0.0,0.0
+意大利菜,Cafe Salvo,Cafe Salvo,0,爱丁堡旧城区,0.0,0.0,0.0
+法国菜,Martin Wishart,Martin Wishart,0,利斯,0.0,0.0,0.0
+法国菜,Patisserie Madeleine,Patisserie Madeleine,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+法国菜,21212 Restaurant,21212 Restaurant,0,新镇,0.0,0.0,0.0
+法国菜,Petit Paris,Petit Paris,0,爱丁堡旧城区,0.0,0.0,0.0
+法国菜,Riverlife,Riverlife,0,斯莱特福德,0.0,0.0,0.0
+法国菜,Maison Bleue,Maison Bleue,0,爱丁堡旧城区,0.0,0.0,0.0
+法国菜,Mademoiselle Macaron,Mademoiselle Macaron,0,爱丁堡旧城区,0.0,0.0,0.0
+法国菜,La Barantine,La Barantine,0,斯莱特福德,0.0,0.0,0.0
+法国菜,Pierre Victoire,Pierre Victoire,0,新镇,0.0,0.0,0.0
+法国菜,Le Sept Restaurant,Le Sept Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+法国菜,L'epicerie Deli,L'epicerie Deli,0,新镇,0.0,0.0,0.0
+法国菜,The Pompadour by Galvin,The Pompadour by Galvin,0,爱丁堡旧城区,0.0,0.0,0.0
+法国菜,Délices de Mademoiselle,Délices de Mademoiselle,0,斯莱特福德,0.0,0.0,0.0
+法国菜,The Dining Room at Cook School by Martin Wishart,The Dining Room at Cook School by Martin Wishart,0,利斯,0.0,0.0,0.0
+法国菜,Water of Leith Cafe Bistro,Water of Leith Cafe Bistro,0,利斯,0.0,0.0,0.0
+法国菜,Cafe Rouge,Cafe Rouge,0,新镇,0.0,0.0,0.0
+法国菜,Cafe Cassis,Cafe Cassis,0,其他,0.0,0.0,0.0
+法国菜,The Wild Restaurant,The Wild Restaurant,0,其他,0.0,0.0,0.0
+法国菜,Galvin Brasserie de Luxe,Galvin Brasserie de Luxe,0,新镇,0.0,0.0,0.0
+法国菜,The Mulroy,The Mulroy,0,新镇,0.0,0.0,0.0
+法国菜,L'escargot Blanc Restaurant,L'escargot Blanc Restaurant,0,新镇,0.0,0.0,0.0
+法国菜,Restaurant at The Bonham,Restaurant at The Bonham,0,新镇,0.0,0.0,0.0
+法国菜,The Honours,The Honours,0,新镇,0.0,0.0,0.0
+法国菜,Cafe Marlayne,Cafe Marlayne,0,新镇,0.0,0.0,0.0
+法国菜,L'escargot Bleu Restaurant,L'escargot Bleu Restaurant,0,新镇,0.0,0.0,0.0
+法国菜,Le Cafe Gourmand,Le Cafe Gourmand,0,爱丁堡旧城区,0.0,0.0,0.0
+法国菜,Passepartout,Passepartout,0,爱丁堡旧城区,0.0,0.0,0.0
+法国菜,Bistro Provence,Bistro Provence,0,利斯,0.0,0.0,0.0
+法国菜,Standard,Standard,0,新镇,0.0,0.0,0.0
+法国菜,Henri,Henri,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+法国菜,Marie Delices,Marie Delices,0,晨兴,0.0,0.0,0.0
+法国菜,Cafe St Honore,Cafe St Honore,0,新镇,0.0,0.0,0.0
+法国菜,Chez Jules,Chez Jules,0,新镇,0.0,0.0,0.0
+法国菜,La Bagatelle,La Bagatelle,0,爱丁堡旧城区,0.0,0.0,0.0
+法国菜,The Fountain,The Fountain,0,斯莱特福德,0.0,0.0,0.0
+法国菜,Le Marche Francais,Le Marche Francais,0,新镇,0.0,0.0,0.0
+法国菜,Cafe Rouge - Edinburgh,Cafe Rouge - Edinburgh,0,新镇,0.0,0.0,0.0
+墨西哥菜,Miro's Cantina,Miro's Cantina,0,新镇,0.0,0.0,0.0
+墨西哥菜,Bodega,Bodega,0,新镇,0.0,0.0,0.0
+墨西哥菜,The Basement,The Basement,0,新镇,0.0,0.0,0.0
+墨西哥菜,Pancho Villa's,Pancho Villa's,0,爱丁堡旧城区,0.0,0.0,0.0
+墨西哥菜,Taquito,Taquito,0,其他,0.0,0.0,0.0
+墨西哥菜,Tex Mex II,Tex Mex II,0,新镇,0.0,0.0,0.0
+墨西哥菜,Chimichanga,Chimichanga,0,其他,0.0,0.0,0.0
+墨西哥菜,Blue Parrot Cantina,Blue Parrot Cantina,0,新镇,0.0,0.0,0.0
+墨西哥菜,Mariachi,Mariachi,0,爱丁堡旧城区,0.0,0.0,0.0
+墨西哥菜,Viva Mexico,Viva Mexico,0,爱丁堡旧城区,0.0,0.0,0.0
+墨西哥菜,Garibaldi's,Garibaldi's,0,新镇,0.0,0.0,0.0
+墨西哥菜,Ilegal jacks edinburgh,Ilegal jacks edinburgh,0,爱丁堡旧城区,0.0,0.0,0.0
+墨西哥菜,Taco Mazama,Taco Mazama,0,新镇,0.0,0.0,0.0
+其他西餐,the elephant house,the elephant house,0,爱丁堡旧城区,7.2,7.6,7.3
+其他西餐,Number One,Number One,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Tower Restaurant,Tower Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Castle Terrace Restaurant,Castle Terrace Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Atelier Restaurant,The Atelier Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,The Royal Mile Tavern,The Royal Mile Tavern,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Elephants & Bagels,Elephants & Bagels,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Scottish Cafe & ResTaurAnt,The Scottish Cafe & ResTaurAnt,0,,6.9,6.9,6.9
+其他西餐,Cafe Musa,Cafe Musa,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,B'est Restaurant,B'est Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,First Coast,First Coast,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Eteaket,Eteaket,0,新镇,0.0,0.0,0.0
+其他西餐,The Black Rose,The Black Rose,0,新镇,0.0,0.0,0.0
+其他西餐,Greyfriars Bobby Bar,Greyfriars Bobby Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Turnhouse Bar,The Turnhouse Bar,0,爱丁堡机场,7.2,7.2,7.2
+其他西餐,Whiski Rooms,Whiski Rooms,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Patisserie Valerie Northbridge,Patisserie Valerie Northbridge,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Dogs,The Dogs,0,其他,6.7,6.7,5.3
+其他西餐,Patisserie Valerie - Rose Street,Patisserie Valerie - Rose Street,0,新镇,0.0,0.0,0.0
+其他西餐,Hadrian's Brasserie at the Balmoral Hotel,Hadrian's Brasserie at the Balmoral Hotel,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Amber Restaurant at the Scotch Whisky Experience,Amber Restaurant at the Scotch Whisky Experience,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Laila's Bistro,Laila's Bistro,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Plumed Horse,The Plumed Horse,0,利斯,0.0,0.0,0.0
+其他西餐,Romanes & Paterson Tea Room,Romanes & Paterson Tea Room,0,其他,0.0,0.0,0.0
+其他西餐,Wildest Drams,Wildest Drams,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Caligosta,Caligosta,0,新镇,0.0,0.0,0.0
+其他西餐,Opus 504,Opus 504,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Bon Tea Room,Bon Tea Room,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,The Last Drop,The Last Drop,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Cafe Truva ,Cafe Truva ,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Doric,The Doric,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Twenty Princes Street,Twenty Princes Street,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Elliot's Restaurant,Elliot's Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Nando's,Nando's,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Foodies Holyrood,Foodies Holyrood,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Burns' Bothy,Burns' Bothy,0,新镇,0.0,0.0,0.0
+其他西餐,The Scottish Cafe & Restaurant,The Scottish Cafe & Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,56 North,56 North,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Agua Restaurant and Bar,Agua Restaurant and Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Newsroom,The Newsroom,0,新镇,0.0,0.0,0.0
+其他西餐,Lovecrumbs,Lovecrumbs,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Butternut Squash,Butternut Squash,0,,0.0,0.0,0.0
+其他西餐,Social Bite,Social Bite,0,新镇,0.0,0.0,0.0
+其他西餐,Blackfriars,Blackfriars,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Ivory Lounge - Edinburgh,Ivory Lounge - Edinburgh,0,新镇,0.0,0.0,0.0
+其他西餐,"Breakfast, Brunch & Lunch","Breakfast, Brunch & Lunch",0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Porto et Fi,Porto et Fi,0,其他,0.0,0.0,0.0
+其他西餐,Tupiniquim,Tupiniquim,0,其他,0.0,0.0,0.0
+其他西餐,Kinellan Restaurant,Kinellan Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,Anteaques,Anteaques,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,110 Restaurant,110 Restaurant,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Howies Victoria,Howies Victoria,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Shebeen,Shebeen,0,新镇,0.0,0.0,0.0
+其他西餐,Auld Jock's Pie Shoppe,Auld Jock's Pie Shoppe,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Charleston Restaurant,The Charleston Restaurant,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,The Foodie Company,The Foodie Company,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Grain Store,The Grain Store,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Whiski,Whiski,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Turquoise Thistle,Turquoise Thistle,0,新镇,0.0,0.0,0.0
+其他西餐,The Caley Bar,The Caley Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Cranston's Restaurant,Cranston's Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,The Deacon's House Cafe,The Deacon's House Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Chocolate Tree,The Chocolate Tree,0,其他,0.0,0.0,0.0
+其他西餐,Salisbury Arms,Salisbury Arms,0,其他,0.0,0.0,0.0
+其他西餐,EL QUIJOTE,EL QUIJOTE,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Golf Tavern,The Golf Tavern,0,其他,0.0,0.0,0.0
+其他西餐,Henrick's Bar,Henrick's Bar,0,其他,0.0,0.0,0.0
+其他西餐,The Cuckoo's Nest,The Cuckoo's Nest,0,其他,0.0,0.0,0.0
+其他西餐,One Square,One Square,0,新镇,0.0,0.0,0.0
+其他西餐,Bennets Bar,Bennets Bar,0,其他,0.0,0.0,0.0
+其他西餐,Element,Element,0,新镇,0.0,0.0,0.0
+其他西餐,Finnegans Sandwich Bar,Finnegans Sandwich Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Belly Buster,Belly Buster,0,利斯,0.0,0.0,0.0
+其他西餐,Abbey Bar,Abbey Bar,0,其他,0.0,0.0,0.0
+其他西餐,Indaba,Indaba,0,其他,0.0,0.0,0.0
+其他西餐,The Magnum Restaurant & Bar,The Magnum Restaurant & Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Rhubarb - The Restaurant at Prestonfield,Rhubarb - The Restaurant at Prestonfield,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,a room in the west end and Teuchters bar,a room in the west end and Teuchters bar,0,其他,0.0,0.0,0.0
+其他西餐,Urban Angel,Urban Angel,0,新镇,0.0,0.0,0.0
+其他西餐,Cafe Andaluz Edinburgh,Cafe Andaluz Edinburgh,0,新镇,0.0,0.0,0.0
+其他西餐,Banks Restaurant,Banks Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Howies Waterloo Place,Howies Waterloo Place,0,新镇,0.0,0.0,0.0
+其他西餐,Pep & Fodder,Pep & Fodder,0,其他,0.0,0.0,0.0
+其他西餐,Rose Restaurant,Rose Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Yellow Bench,Yellow Bench,0,其他,0.0,0.0,0.0
+其他西餐,Russian Passion,Russian Passion,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,The Southsider Pub,The Southsider Pub,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,clarinda's Tearoom,clarinda's Tearoom,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Shore,The Shore,0,利斯,0.0,0.0,0.0
+其他西餐,EH15,EH15,0,其他,0.0,0.0,0.0
+其他西餐,The Tailend,The Tailend,0,其他,0.0,0.0,0.0
+其他西餐,Bite Me! sandwich bar,Bite Me! sandwich bar,0,新镇,0.0,0.0,0.0
+其他西餐,Field,Field,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Timberyard,Timberyard,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,La Garrigue,La Garrigue,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Arcade Bar,Arcade Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Wash Bar,Wash Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Steak Edinburgh,Steak Edinburgh,0,新镇,0.0,0.0,0.0
+其他西餐,Henderson's,Henderson's,0,新镇,0.0,0.0,0.0
+其他西餐,Locanda De Gusti,Locanda De Gusti,0,新镇,0.0,0.0,0.0
+其他西餐,Jamie Olivers Edinburgh,Jamie Olivers Edinburgh,0,其他,0.0,0.0,0.0
+其他西餐,Ryan's Bar,Ryan's Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Aspen Bar and Grill,Aspen Bar and Grill,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Stac Polly - Dublin Street,Stac Polly - Dublin Street,0,新镇,0.0,0.0,0.0
+其他西餐,Amber Rose,Amber Rose,0,新镇,0.0,0.0,0.0
+其他西餐,No. 1 High Street,No. 1 High Street,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Mitre Bar,The Mitre Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Rabbie Burns,Rabbie Burns,0,其他,0.0,0.0,0.0
+其他西餐,Bistro Moderne,Bistro Moderne,0,新镇,0.0,0.0,0.0
+其他西餐,handmade burger Co.,handmade burger Co.,0,利斯,0.0,0.0,0.0
+其他西餐,The Conan Doyle,The Conan Doyle,0,新镇,0.0,0.0,0.0
+其他西餐,Villager,Villager,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Antico,Antico,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Pommery Champagne Cafe Bar,Pommery Champagne Cafe Bar,0,其他,0.0,0.0,0.0
+其他西餐,Elderberry,Elderberry,0,,0.0,0.0,0.0
+其他西餐,Cafe Renroc,Cafe Renroc,0,新镇,0.0,0.0,0.0
+其他西餐,Ocean Kitchen Bar and Grill,Ocean Kitchen Bar and Grill,0,利斯,0.0,0.0,0.0
+其他西餐,John Lewis,John Lewis,0,其他,0.0,0.0,0.0
+其他西餐,The Canny Man's,The Canny Man's,0,晨兴,0.0,0.0,0.0
+其他西餐,Curious Tea Rooms,Curious Tea Rooms,0,新镇,0.0,0.0,0.0
+其他西餐,The Rosehip,The Rosehip,0,新镇,0.0,0.0,0.0
+其他西餐,Brazilian Sensation,Brazilian Sensation,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,National Library of Scotland Cafe,National Library of Scotland Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Persevere Bar,The Persevere Bar,0,利斯,0.0,0.0,0.0
+其他西餐,Ophelia Mar Portuguese Cafe Bistro,Ophelia Mar Portuguese Cafe Bistro,0,波托贝洛,0.0,0.0,0.0
+其他西餐,The Edinburgh Residence Restaurant,The Edinburgh Residence Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,Flip!,Flip!,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Newington Traditional Chip Bar,The Newington Traditional Chip Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Exchange,The Exchange,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,"Favers Ice Cream Parlour, Sweetie Shop and Cafe","Favers Ice Cream Parlour, Sweetie Shop and Cafe",0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Mediterranean Gate,Mediterranean Gate,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Filament Coffee,Filament Coffee,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Cortado Edinburgh,Cortado Edinburgh,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Gorgie Fish Bar,Gorgie Fish Bar,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,The Genting Club,The Genting Club,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Bijou,Bijou,0,利斯,0.0,0.0,0.0
+其他西餐,Cafe Marmalade,Cafe Marmalade,0,利斯,0.0,0.0,0.0
+其他西餐,"Iso Bar, Bernard Street","Iso Bar, Bernard Street",0,利斯,0.0,0.0,0.0
+其他西餐,Scotch Whisky Bar at The Balmoral,Scotch Whisky Bar at The Balmoral,0,其他,0.0,0.0,0.0
+其他西餐,Sandwich Express,Sandwich Express,0,其他,0.0,0.0,0.0
+其他西餐,The Meadow Box,The Meadow Box,0,其他,0.0,0.0,0.0
+其他西餐,MP's Bistro,MP's Bistro,0,新镇,0.0,0.0,0.0
+其他西餐,Jake's Place,Jake's Place,0,其他,0.0,0.0,0.0
+其他西餐,Royal Dick at Summerhall,Royal Dick at Summerhall,0,其他,0.0,0.0,0.0
+其他西餐,cuthberts,cuthberts,0,其他,0.0,0.0,0.0
+其他西餐,The original Edinburgh cheesecake company,The original Edinburgh cheesecake company,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Barony Bar,Barony Bar,0,新镇,0.0,0.0,0.0
+其他西餐,The Fiddlers Arms,The Fiddlers Arms,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Fruitmarket Gallery Café,Fruitmarket Gallery Café,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Tron,The Tron,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Serenity Cafe,Serenity Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Old Bell Inn,Old Bell Inn,0,其他,0.0,0.0,0.0
+其他西餐,New Bell Restaurant,New Bell Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Metropole - Cafe & Bistro,Metropole - Cafe & Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Reverie,Reverie,0,其他,0.0,0.0,0.0
+其他西餐,Los Argentinos,Los Argentinos,0,其他,0.0,0.0,0.0
+其他西餐,The Purple Pig Cafe,The Purple Pig Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Samphire Seafood Bar & Grill at Orocco Pier,Samphire Seafood Bar & Grill at Orocco Pier,0,其他,0.0,0.0,0.0
+其他西餐,Papii,Papii,0,其他,0.0,0.0,0.0
+其他西餐,The Flying Dog,The Flying Dog,0,其他,0.0,0.0,0.0
+其他西餐,Tugas Amor,Tugas Amor,0,其他,0.0,0.0,0.0
+其他西餐,Ushers Restaurant,Ushers Restaurant,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Toby Carvery,Toby Carvery,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,The Suburban Pantry,The Suburban Pantry,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,The Bon Vivant,The Bon Vivant,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,The Scotch Malt Whisky Society,The Scotch Malt Whisky Society,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,Scran & Scallie,Scran & Scallie,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,Circle Cafe,Circle Cafe,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,The Orchard,The Orchard,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,radical road,radical road,0,波托贝洛,0.0,0.0,0.0
+其他西餐,Malvarosa,Malvarosa,0,波托贝洛,0.0,0.0,0.0
+其他西餐,The Skylark,The Skylark,0,波托贝洛,0.0,0.0,0.0
+其他西餐,Foresters Guild,Foresters Guild,0,波托贝洛,0.0,0.0,0.0
+其他西餐,Milk,Milk,0,新镇,0.0,0.0,0.0
+其他西餐,Mercat Bar,Mercat Bar,0,新镇,0.0,0.0,0.0
+其他西餐,The Mercat,The Mercat,0,新镇,0.0,0.0,0.0
+其他西餐,Au Bar Pub / Restaurant,Au Bar Pub / Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,"Chisholms Reataurant,Caledonian Hilton Hotel","Chisholms Reataurant,Caledonian Hilton Hotel",0,新镇,0.0,0.0,0.0
+其他西餐,The Huxley,The Huxley,0,新镇,0.0,0.0,0.0
+其他西餐,House of Soutra,House of Soutra,0,新镇,0.0,0.0,0.0
+其他西餐,Edinburgh Larder Bistro,Edinburgh Larder Bistro,0,新镇,0.0,0.0,0.0
+其他西餐,Restaurant 100,Restaurant 100,0,新镇,0.0,0.0,0.0
+其他西餐,Calistoga Restaurant,Calistoga Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,Mark Greenaway,Mark Greenaway,0,新镇,0.0,0.0,0.0
+其他西餐,Cairngorm Coffee Co.,Cairngorm Coffee Co.,0,新镇,0.0,0.0,0.0
+其他西餐,The Queens Arms,The Queens Arms,0,新镇,0.0,0.0,0.0
+其他西餐,Yeni Meze Bar,Yeni Meze Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Iris,Iris,0,新镇,0.0,0.0,0.0
+其他西餐,The Dining Room at The Society,The Dining Room at The Society,0,新镇,0.0,0.0,0.0
+其他西餐,Hamilton's,Hamilton's,0,新镇,0.0,0.0,0.0
+其他西餐,Olive Branch Bistro,Olive Branch Bistro,0,新镇,0.0,0.0,0.0
+其他西餐,No 11 Brunswick Street,No 11 Brunswick Street,0,新镇,0.0,0.0,0.0
+其他西餐,Cafe Casablanca,Cafe Casablanca,0,新镇,0.0,0.0,0.0
+其他西餐,The Mash Tun,The Mash Tun,0,新镇,0.0,0.0,0.0
+其他西餐,AVANTI,AVANTI,0,新镇,0.0,0.0,0.0
+其他西餐,Frankfurter Eck,Frankfurter Eck,0,新镇,0.0,0.0,0.0
+其他西餐,Word of Mouth Cafe,Word of Mouth Cafe,0,新镇,0.0,0.0,0.0
+其他西餐,CAFE CLASS,CAFE CLASS,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Cloisters Bar,Cloisters Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,El Bar,El Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Auld Hoose,The Auld Hoose,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Lasal,Lasal,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Beirut,Beirut,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Pasha,Pasha,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,MUMS Great Comfort Food,MUMS Great Comfort Food,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Bristo Bar and Kitchen,The Bristo Bar and Kitchen,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Dubh Prais,Dubh Prais,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Cellar Door,The Cellar Door,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Royal Mcgregor,Royal Mcgregor,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Piemaker,The Piemaker,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Michael Neave's Kitchen and Whisky Bar,Michael Neave's Kitchen and Whisky Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Banshee Labyrinth Pub/Restaurant,The Banshee Labyrinth Pub/Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Benugo - Historic Scotland,Benugo - Historic Scotland,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Crafters Barn,The Crafters Barn,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Angels With Bagpipes,Angels With Bagpipes,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Monboddo,Monboddo,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Sultan Kitchen Restaurant,Sultan Kitchen Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Tempting Tattie,Tempting Tattie,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,National Gallery,National Gallery,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Three Birds,Three Birds,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Bisque Brasserie,Bisque Brasserie,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Good Seed Bistro,Good Seed Bistro,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,roseburn cafe,roseburn cafe,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Mitchell's Cafe,Mitchell's Cafe,0,利斯,0.0,0.0,0.0
+其他西餐,Credo Restaurant,Credo Restaurant,0,利斯,0.0,0.0,0.0
+其他西餐,Englishman Scotsman and an Irishman,Englishman Scotsman and an Irishman,0,利斯,0.0,0.0,0.0
+其他西餐,Tapa,Tapa,0,利斯,0.0,0.0,0.0
+其他西餐,The Galley Leith,The Galley Leith,0,利斯,0.0,0.0,0.0
+其他西餐,Isobar,Isobar,0,利斯,0.0,0.0,0.0
+其他西餐,The Leith Beer Company,The Leith Beer Company,0,利斯,0.0,0.0,0.0
+其他西餐,Roseleaf,Roseleaf,0,利斯,0.0,0.0,0.0
+其他西餐,Malt & Hops,Malt & Hops,0,利斯,0.0,0.0,0.0
+其他西餐,Bond no 9,Bond no 9,0,利斯,0.0,0.0,0.0
+其他西餐,Fatma Restaurant,Fatma Restaurant,0,利斯,0.0,0.0,0.0
+其他西餐,Starbank Inn,Starbank Inn,0,利斯,0.0,0.0,0.0
+其他西餐,Cafe Rosa,Cafe Rosa,0,其他,0.0,0.0,0.0
+其他西餐,The Telford Arms Restaurant & Bar,The Telford Arms Restaurant & Bar,0,其他,0.0,0.0,0.0
+其他西餐,Leslie's Bar,Leslie's Bar,0,其他,0.0,0.0,0.0
+其他西餐,The Cambridge Bar,The Cambridge Bar,0,其他,0.0,0.0,0.0
+其他西餐,Corstorphine Inn,Corstorphine Inn,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Rose Street Brewery,Rose Street Brewery,0,新镇,0.0,0.0,0.0
+其他西餐,The Gathering Restaurant and Lounge,The Gathering Restaurant and Lounge,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,The Slug and Lettuce,The Slug and Lettuce,0,新镇,0.0,0.0,0.0
+其他西餐,Metropolitain Restaurant,Metropolitain Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,Barioja Tapas Bar,Barioja Tapas Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Innfusion Restaurant @ Jurys Inn,Innfusion Restaurant @ Jurys Inn,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Gallery Restaurant and Bar,Gallery Restaurant and Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Nor Loch Bar,The Nor Loch Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Marks and Spencer,Marks and Spencer,0,其他,0.0,0.0,0.0
+其他西餐,Stable Bar,Stable Bar,0,其他,0.0,0.0,0.0
+其他西餐,TANNERS,TANNERS,0,其他,0.0,0.0,0.0
+其他西餐,Yo Yo's,Yo Yo's,0,其他,0.0,0.0,0.0
+其他西餐,MacKenzies,MacKenzies,0,其他,0.0,0.0,0.0
+其他西餐,Toast,Toast,0,其他,0.0,0.0,0.0
+其他西餐,Montpeliers Edinburgh,Montpeliers Edinburgh,0,其他,0.0,0.0,0.0
+其他西餐,Edinburgh Bakehouse,Edinburgh Bakehouse,0,其他,0.0,0.0,0.0
+其他西餐,Lomonds Gastro Bar,Lomonds Gastro Bar,0,其他,0.0,0.0,0.0
+其他西餐,The Argyle Bar Edinburgh,The Argyle Bar Edinburgh,0,其他,0.0,0.0,0.0
+其他西餐,Peckham's Edinburgh,Peckham's Edinburgh,0,其他,0.0,0.0,0.0
+其他西餐,The Blackbird,The Blackbird,0,其他,0.0,0.0,0.0
+其他西餐,Ye Olde Inn,Ye Olde Inn,0,其他,0.0,0.0,0.0
+其他西餐,Lauriston Farm Toby Carvery,Lauriston Farm Toby Carvery,0,其他,0.0,0.0,0.0
+其他西餐,Browns Bar & Brasserie,Browns Bar & Brasserie,0,其他,0.0,0.0,0.0
+其他西餐,The 3 Bridges,The 3 Bridges,0,其他,0.0,0.0,0.0
+其他西餐,Babylon,Babylon,0,其他,0.0,0.0,0.0
+其他西餐,Wetherspoon Pub at The White Lady,Wetherspoon Pub at The White Lady,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Maxi's,Maxi's,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,Hanna Cherrie's Tea Shop,Hanna Cherrie's Tea Shop,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,new town deli,new town deli,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,The Gateway Restaurant,The Gateway Restaurant,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,Crumbs,Crumbs,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,Rockville Hotel,Rockville Hotel,0,波托贝洛,0.0,0.0,0.0
+其他西餐,Dalriada,Dalriada,0,波托贝洛,0.0,0.0,0.0
+其他西餐,Red's Family Restaurant,Red's Family Restaurant,0,波托贝洛,0.0,0.0,0.0
+其他西餐,Zico's Churrascaria Rodizio,Zico's Churrascaria Rodizio,0,新镇,0.0,0.0,0.0
+其他西餐,Lebowski's,Lebowski's,0,新镇,0.0,0.0,0.0
+其他西餐,The Priory Bar & Kitchen,The Priory Bar & Kitchen,0,新镇,0.0,0.0,0.0
+其他西餐,Cafe Station,Cafe Station,0,新镇,0.0,0.0,0.0
+其他西餐,Bert's Bar,Bert's Bar,0,新镇,0.0,0.0,0.0
+其他西餐,The Basement Bistro,The Basement Bistro,0,新镇,0.0,0.0,0.0
+其他西餐,Ghillie Dhu,Ghillie Dhu,0,新镇,0.0,0.0,0.0
+其他西餐,The Westroom,The Westroom,0,新镇,0.0,0.0,0.0
+其他西餐,Grosvenor,Grosvenor,0,新镇,0.0,0.0,0.0
+其他西餐,La P'tite Folie,La P'tite Folie,0,新镇,0.0,0.0,0.0
+其他西餐,Cafe Modern One,Cafe Modern One,0,新镇,0.0,0.0,0.0
+其他西餐,Harry's Bar,Harry's Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Rose and Crown,Rose and Crown,0,新镇,0.0,0.0,0.0
+其他西餐,Le Di-Vin Winebar,Le Di-Vin Winebar,0,新镇,0.0,0.0,0.0
+其他西餐,The Kenilworth,The Kenilworth,0,新镇,0.0,0.0,0.0
+其他西餐,Amicus Apple,Amicus Apple,0,新镇,0.0,0.0,0.0
+其他西餐,Auld Hundred,Auld Hundred,0,新镇,0.0,0.0,0.0
+其他西餐,Angels Share,Angels Share,0,新镇,0.0,0.0,0.0
+其他西餐,The Black Bull,The Black Bull,0,新镇,0.0,0.0,0.0
+其他西餐,Sandy Bells,Sandy Bells,0,新镇,0.0,0.0,0.0
+其他西餐,The Voodoo Rooms,The Voodoo Rooms,0,新镇,0.0,0.0,0.0
+其他西餐,The Bon Vivant,The Bon Vivant,0,新镇,0.0,0.0,0.0
+其他西餐,Tempus Bar & Restaurant,Tempus Bar & Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,The Halfway House,The Halfway House,0,新镇,0.0,0.0,0.0
+其他西餐,Monteiths Bar & Restaurant,Monteiths Bar & Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,Iglu,Iglu,0,新镇,0.0,0.0,0.0
+其他西餐,Cafe Camino,Cafe Camino,0,新镇,0.0,0.0,0.0
+其他西餐,The Royal Scots Club,The Royal Scots Club,0,新镇,0.0,0.0,0.0
+其他西餐,The Fiddlers Elbow,The Fiddlers Elbow,0,新镇,0.0,0.0,0.0
+其他西餐,Mathers Bar,Mathers Bar,0,新镇,0.0,0.0,0.0
+其他西餐,The Theatre Royal Bar and Restaurant,The Theatre Royal Bar and Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,Star Bar,Star Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Treacle Bar and Kitchen,Treacle Bar and Kitchen,0,新镇,0.0,0.0,0.0
+其他西餐,The Atholl at The Howard,The Atholl at The Howard,0,新镇,0.0,0.0,0.0
+其他西餐,The Raeburn Bar,The Raeburn Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Bellevue Bar,Bellevue Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Avoca Bar & Grill,Avoca Bar & Grill,0,新镇,0.0,0.0,0.0
+其他西餐,The Antiquary Bar,The Antiquary Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Cafe Nom De Plume,Cafe Nom De Plume,0,新镇,0.0,0.0,0.0
+其他西餐,Joseph Pearce,Joseph Pearce,0,新镇,0.0,0.0,0.0
+其他西餐,Elbow Bar and Kitchen,Elbow Bar and Kitchen,0,新镇,0.0,0.0,0.0
+其他西餐,Newington Traditional Fish Bar,Newington Traditional Fish Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Greenmantle,Greenmantle,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Two Thin Laddies,Two Thin Laddies,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Cafe Turquaz,Cafe Turquaz,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Doctors,Doctors,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Malone's Irish Bar,Malone's Irish Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Cafe Truva ,Cafe Truva ,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Ten Hill Place Hotel,Ten Hill Place Hotel,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Heights Restaurant,Heights Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The White Hart Inn Restaurant,The White Hart Inn Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Revolution,Revolution,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Brass Monkey,The Brass Monkey,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Bow Bar,The Bow Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Red Squirrel,Red Squirrel,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Cafe Marlayne,Cafe Marlayne,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Signet Library Gran Caffe,The Signet Library Gran Caffe,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,St Giles' Cathedral Cafe,St Giles' Cathedral Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Albanach,The Albanach,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Advocate,The Advocate,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Malt Shovel Inn,Malt Shovel Inn,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Clarinda's Tea Room,Clarinda's Tea Room,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Pryde's Bar,Pryde's Bar,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Hampton hotel,Hampton hotel,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Lezzetli,Lezzetli,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Woodland Creatures,Woodland Creatures,0,利斯,0.0,0.0,0.0
+其他西餐,King's Wark,King's Wark,0,利斯,0.0,0.0,0.0
+其他西餐,The kings wark,The kings wark,0,利斯,0.0,0.0,0.0
+其他西餐,The Annfield Bar,The Annfield Bar,0,利斯,0.0,0.0,0.0
+其他西餐,Old Chain Pier,Old Chain Pier,0,利斯,0.0,0.0,0.0
+其他西餐,handmade burger company Edinburgh,handmade burger company Edinburgh,0,利斯,0.0,0.0,0.0
+其他西餐,Heller's Kitchen,Heller's Kitchen,0,其他,0.0,0.0,0.0
+其他西餐,The Raeburn,The Raeburn,0,其他,0.0,0.0,0.0
+其他西餐,Adams Spice Village,Adams Spice Village,0,其他,0.0,0.0,0.0
+其他西餐,Konan Doyle Pub,Konan Doyle Pub,0,其他,0.0,0.0,0.0
+其他西餐,Belhaven Beef,Belhaven Beef,0,其他,0.0,0.0,0.0
+其他西餐,Bonita's,Bonita's,0,其他,0.0,0.0,0.0
+其他西餐,The Salamander Bistro,The Salamander Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Pop in Canteen,Pop in Canteen,0,其他,0.0,0.0,0.0
+其他西餐,Toby Carvery Liberton,Toby Carvery Liberton,0,其他,0.0,0.0,0.0
+其他西餐,Northfield House Hotel,Northfield House Hotel,0,其他,0.0,0.0,0.0
+其他西餐,Spylaw Tavern,Spylaw Tavern,0,其他,0.0,0.0,0.0
+其他西餐,The Blue Goose Country Pub,The Blue Goose Country Pub,0,其他,0.0,0.0,0.0
+其他西餐,Globetrotter,Globetrotter,0,其他,0.0,0.0,0.0
+其他西餐,Marchmont Takeaway,Marchmont Takeaway,0,其他,0.0,0.0,0.0
+其他西餐,Victor Hugo,Victor Hugo,0,其他,0.0,0.0,0.0
+其他西餐,Mr Bun's Bakery,Mr Bun's Bakery,0,其他,0.0,0.0,0.0
+其他西餐,The Cameo Bar,The Cameo Bar,0,其他,0.0,0.0,0.0
+其他西餐,The Brig,The Brig,0,其他,0.0,0.0,0.0
+其他西餐,Roll Up Bakery,Roll Up Bakery,0,其他,0.0,0.0,0.0
+其他西餐,Javits,Javits,0,其他,0.0,0.0,0.0
+其他西餐,Cramond Gallery Bistro,Cramond Gallery Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Derek's Place,Derek's Place,0,其他,0.0,0.0,0.0
+其他西餐,Oroco,Oroco,0,其他,0.0,0.0,0.0
+其他西餐,Crag & Tail,Crag & Tail,0,其他,0.0,0.0,0.0
+其他西餐,Crown Carvery Ratho Park,Crown Carvery Ratho Park,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Crofters,Crofters,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Winstons,Winstons,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,The Ivory & Willow Cafe,The Ivory & Willow Cafe,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Oak Inn,Oak Inn,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Jungle Cafe,Jungle Cafe,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,The Sir Walter Scott,The Sir Walter Scott,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Costa Coffee,Costa Coffee,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Westview Restaurant,Westview Restaurant,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Capitol hotel,Capitol hotel,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,Ingrid's Diner,Ingrid's Diner,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,Lady Nairne,Lady Nairne,0,波托贝洛,0.0,0.0,0.0
+其他西餐,The Blue Bean Coffee House,The Blue Bean Coffee House,0,波托贝洛,0.0,0.0,0.0
+其他西餐,Porto Cafe,Porto Cafe,0,波托贝洛,0.0,0.0,0.0
+其他西餐,Ryries Bar,Ryries Bar,0,新镇,0.0,0.0,0.0
+其他西餐,The Spiders Web,The Spiders Web,0,新镇,0.0,0.0,0.0
+其他西餐,La Tasca - Edinburgh,La Tasca - Edinburgh,0,新镇,0.0,0.0,0.0
+其他西餐,Indigo Yard,Indigo Yard,0,新镇,0.0,0.0,0.0
+其他西餐,The Alexander Graham Bell,The Alexander Graham Bell,0,新镇,0.0,0.0,0.0
+其他西餐,Candy Kitchen and Bar,Candy Kitchen and Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Melrose Restaurant,Melrose Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,The Living Room,The Living Room,0,新镇,0.0,0.0,0.0
+其他西餐,Milnes Bar,Milnes Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Subway,Subway,0,新镇,0.0,0.0,0.0
+其他西餐,Le Monde Restaurant,Le Monde Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,Bar Napoli,Bar Napoli,0,新镇,0.0,0.0,0.0
+其他西餐,Channings Restaurant,Channings Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,La Tasca - Omni,La Tasca - Omni,0,新镇,0.0,0.0,0.0
+其他西餐,Cafe Piccante,Cafe Piccante,0,新镇,0.0,0.0,0.0
+其他西餐,The Pantry,The Pantry,0,新镇,0.0,0.0,0.0
+其他西餐,"Hamiltons, Stockbridge","Hamiltons, Stockbridge",0,新镇,0.0,0.0,0.0
+其他西餐,"The Boards, Playhouse Theatre","The Boards, Playhouse Theatre",0,新镇,0.0,0.0,0.0
+其他西餐,Assembly Bar,Assembly Bar,0,新镇,0.0,0.0,0.0
+其他西餐,Boteco Do Brasil,Boteco Do Brasil,0,新镇,0.0,0.0,0.0
+其他西餐,Ale House,Ale House,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,My Big Fat Greek Kitchen,My Big Fat Greek Kitchen,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Apartment,The Apartment,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Innis & Gunn Potterrow,Innis & Gunn Potterrow,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Castlerock View Cafe,Castlerock View Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,The Beehive Inn,The Beehive Inn,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Blackcherry Cafe,Blackcherry Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Beehive Inn,Beehive Inn,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Frankenstein Pub,Frankenstein Pub,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Merchants Restaurant,Merchants Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Biddy Mulligans Pub,Biddy Mulligans Pub,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Ensign Ewert,Ensign Ewert,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Cafe Keno,Cafe Keno,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Hemma,Hemma,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,La Rusticana,La Rusticana,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Iggs Restaurant,Iggs Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Sportsters Bar,Sportsters Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Broadsheet Bistro,Broadsheet Bistro,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Nandos - Fountain Park,Nandos - Fountain Park,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Nachos Fiesta,Nachos Fiesta,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Zico's Brazilian Churrasco,Zico's Brazilian Churrasco,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,Mr Frangos Grill,Mr Frangos Grill,0,利斯,0.0,0.0,0.0
+其他西餐,La Mula Obstinada,La Mula Obstinada,0,利斯,0.0,0.0,0.0
+其他西餐,The Constitution,The Constitution,0,利斯,0.0,0.0,0.0
+其他西餐,The Granary,The Granary,0,利斯,0.0,0.0,0.0
+其他西餐,Cameo Bar,Cameo Bar,0,利斯,0.0,0.0,0.0
+其他西餐,Malmaison Brasserie,Malmaison Brasserie,0,利斯,0.0,0.0,0.0
+其他西餐,Brewers Fayre Newhaven Quay,Brewers Fayre Newhaven Quay,0,利斯,0.0,0.0,0.0
+其他西餐,The Steading,The Steading,0,其他,0.0,0.0,0.0
+其他西餐,The Place to Eat,The Place to Eat,0,其他,0.0,0.0,0.0
+其他西餐,The Foresters,The Foresters,0,其他,0.0,0.0,0.0
+其他西餐,Robins Nest,Robins Nest,0,其他,0.0,0.0,0.0
+其他西餐,Cross Keys,Cross Keys,0,其他,0.0,0.0,0.0
+其他西餐,The Cramond Inn,The Cramond Inn,0,其他,0.0,0.0,0.0
+其他西餐,Feed,Feed,0,其他,0.0,0.0,0.0
+其他西餐,Diner 65,Diner 65,0,,0.0,0.0,0.0
+其他西餐,KGS Coffee Shop,KGS Coffee Shop,0,新镇,0.0,0.0,0.0
+其他西餐,Number Seven Restaurant,Number Seven Restaurant,0,新镇,0.0,0.0,0.0
+其他西餐,Shandwick's - Edinburgh,Shandwick's - Edinburgh,0,新镇,0.0,0.0,0.0
+其他西餐,Grand Cru,Grand Cru,0,新镇,0.0,0.0,0.0
+其他西餐,El Bar,El Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Queen Anne Restaurant,Queen Anne Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Dellos Kitchen,Dellos Kitchen,0,爱丁堡旧城区,0.0,0.0,0.0
+其他西餐,Horse shoe bar and restaurant,Horse shoe bar and restaurant,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,The Forth,The Forth,0,斯莱特福德,0.0,0.0,0.0
+其他西餐,The Foot of the Walk,The Foot of the Walk,0,利斯,0.0,0.0,0.0
+其他西餐,Tapas Tree,Tapas Tree,0,利斯,0.0,0.0,0.0
+其他西餐,Royal Overseas League,Royal Overseas League,0,其他,0.0,0.0,0.0
+其他西餐,Mezz bar & restaurant,Mezz bar & restaurant,0,其他,0.0,0.0,0.0
+其他西餐,The orchard,The orchard,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+其他西餐,Toby Carvery Lauriston Farm,Toby Carvery Lauriston Farm,0,其他,0.0,0.0,0.0
+其他西餐,Hawse inn,Hawse inn,0,其他,0.0,0.0,0.0
+其他西餐,No ten restaurant,No ten restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Wetherspoons,Wetherspoons,0,爱丁堡机场,0.0,0.0,0.0
+其他西餐,The Chippy,The Chippy,0,新镇,0.0,0.0,0.0
+其他西餐,chanters,chanters,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,Hot Hot Chinese,Hot Hot Chinese,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,Hongfu Noodle Bar,Hongfu Noodle Bar,0,新镇,0.0,0.0,0.0
+中餐,Kampong Ah Lee Malaysian Delight,Kampong Ah Lee Malaysian Delight,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,Wok & Wine,Wok & Wine,0,新镇,0.0,0.0,0.0
+中餐,Kweilin Cantonese Restaurant,Kweilin Cantonese Restaurant,0,新镇,0.0,0.0,0.0
+中餐,Loon Fung,Loon Fung,0,斯托克布里奇和Canonmills,7.7,7.7,7.7
+中餐,Hung Fung,Hung Fung,0,利斯,0.0,0.0,0.0
+中餐,Yum Yum HK Diner,Yum Yum HK Diner,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,Chop Chop,Chop Chop,0,新镇,0.0,0.0,0.0
+中餐,Jimmy Chungs,Jimmy Chungs,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,Beijing Banquet,Beijing Banquet,0,,0.0,0.0,0.0
+中餐,Forsyth's Tea Room,Forsyth's Tea Room,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,The Star Sea Restaurant,The Star Sea Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,Home Taste,Home Taste,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,Karen's Unicorn,Karen's Unicorn,0,新镇,0.0,0.0,0.0
+中餐,Xanadu Chinese Restaurant,Xanadu Chinese Restaurant,0,其他,0.0,0.0,0.0
+中餐,Karen Wong's,Karen Wong's,0,其他,0.0,0.0,0.0
+中餐,Rainbow Arch,Rainbow Arch,0,新镇,0.0,0.0,0.0
+中餐,Meadowood Cafe,Meadowood Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,Queen of Tarts,Queen of Tarts,0,利斯,0.0,0.0,0.0
+中餐,Waterloo bar Edinburgh,Waterloo bar Edinburgh,0,新镇,0.0,0.0,0.0
+中餐,Wong's Chinese Restaurant,Wong's Chinese Restaurant,0,爱丁堡机场,0.0,0.0,0.0
+中餐,Wing Sing Inn,Wing Sing Inn,0,斯莱特福德,0.0,0.0,0.0
+中餐,Saigon Saigon,Saigon Saigon,0,,0.0,0.0,0.0
+中餐,Nanyang,Nanyang,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,Chinese Manor House,Chinese Manor House,0,,0.0,0.0,0.0
+中餐,Jiuding,Jiuding,0,利斯,0.0,0.0,0.0
+中餐,Good Year,Good Year,0,其他,0.0,0.0,0.0
+中餐,Shangri-La,Shangri-La,0,新镇,0.0,0.0,0.0
+中餐,Golden Wall,Golden Wall,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,Panda Inn,Panda Inn,0,其他,0.0,0.0,0.0
+中餐,Szechuan Chinese Restaurant,Szechuan Chinese Restaurant,0,其他,0.0,0.0,0.0
+中餐,Kwok Brasserie,Kwok Brasserie,0,其他,0.0,0.0,0.0
+中餐,Abida,Abida,0,爱丁堡机场,0.0,0.0,0.0
+中餐,Taste Good oriental cuisine,Taste Good oriental cuisine,0,斯莱特福德,0.0,0.0,0.0
+中餐,China Star,China Star,0,新镇,0.0,0.0,0.0
+中餐,China Town Restaurant - Edinburgh,China Town Restaurant - Edinburgh,0,新镇,0.0,0.0,0.0
+中餐,Zen Kitchen,Zen Kitchen,0,新镇,0.0,0.0,0.0
+中餐,Peach Garden,Peach Garden,0,爱丁堡机场,0.0,0.0,0.0
+中餐,Izzi,Izzi,0,新镇,0.0,0.0,0.0
+中餐,Feast,Feast,0,斯莱特福德,0.0,0.0,0.0
+中餐,Imperial Palace,Imperial Palace,0,其他,0.0,0.0,0.0
+中餐,Ginger Express,Ginger Express,0,利斯,0.0,0.0,0.0
+中餐,Hung Lam,Hung Lam,0,其他,0.0,0.0,0.0
+中餐,B&D's Kitchen,B&D's Kitchen,0,斯莱特福德,0.0,0.0,0.0
+中餐,Newhaven Express,Newhaven Express,0,利斯,0.0,0.0,0.0
+中餐,Little Panda,Little Panda,0,利斯,0.0,0.0,0.0
+中餐,Grey Horse Inn,Grey Horse Inn,0,其他,0.0,0.0,0.0
+中餐,Jimmy Chung Lothian Road/Usher Hall,Jimmy Chung Lothian Road/Usher Hall,0,爱丁堡旧城区,0.0,0.0,0.0
+中餐,Yuet Ben Limited,Yuet Ben Limited,0,其他,0.0,0.0,0.0
+中餐,Wongs,Wongs,0,爱丁堡机场,0.0,0.0,0.0
+中餐,Lune Town,Lune Town,0,新镇,0.0,0.0,0.0
+中餐,Chop Chop,Chop Chop,0,利斯,0.0,0.0,0.0
+中餐,Hong Chinese Restaurant and Takeaway,Hong Chinese Restaurant and Takeaway,0,其他,0.0,0.0,0.0
+中餐,Good Fortune,Good Fortune,0,其他,0.0,0.0,0.0
+中餐,Ping On,Ping On,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+中餐,Pine garden,Pine garden,0,晨兴,0.0,0.0,0.0
+中餐,I-Ching Chinese Restaurant,I-Ching Chinese Restaurant,0,斯莱特福德,0.0,0.0,0.0
+中餐,North China Restaurant,North China Restaurant,0,其他,0.0,0.0,0.0
+中餐,Silver Bowl,Silver Bowl,0,利斯,0.0,0.0,0.0
+中餐,China Palace,China Palace,0,利斯,0.0,0.0,0.0
+中餐,Lee-On,Lee-On,0,其他,0.0,0.0,0.0
+日韩料理,Koyama,Koyama,0,爱丁堡旧城区,0.0,0.0,0.0
+日韩料理,Kanpai Sushi,Kanpai Sushi,0,爱丁堡旧城区,0.0,0.0,0.0
+日韩料理,Kims Mini Meals,Kims Mini Meals,0,爱丁堡旧城区,0.0,0.0,0.0
+日韩料理,Sushiya,Sushiya,0,,0.0,0.0,0.0
+日韩料理,Tang's,Tang's,0,爱丁堡旧城区,0.0,0.0,0.0
+日韩料理,Hay Sushi,Hay Sushi,0,斯莱特福德,0.0,0.0,0.0
+日韩料理,Jaspers Sushi and Noodle Bar,Jaspers Sushi and Noodle Bar,0,新镇,0.0,0.0,0.0
+日韩料理,Cafe andamiro,Cafe andamiro,0,爱丁堡旧城区,0.0,0.0,0.0
+日韩料理,Bonsai,Bonsai,0,爱丁堡旧城区,0.0,0.0,0.0
+日韩料理,Harajuku Kitchen Japanese Bistro,Harajuku Kitchen Japanese Bistro,0,斯莱特福德,0.0,0.0,0.0
+日韩料理,Ong Gie,Ong Gie,0,爱丁堡旧城区,0.0,0.0,0.0
+日韩料理,Shilla,Shilla,0,新镇,0.0,0.0,0.0
+日韩料理,Nagoya Original Sushi Restaurant,Nagoya Original Sushi Restaurant,0,其他,0.0,0.0,0.0
+日韩料理,Wagamama Edinburgh City Central,Wagamama Edinburgh City Central,0,其他,0.0,0.0,0.0
+日韩料理,Yo! Sushi Harvey Nichols Edinburgh,Yo! Sushi Harvey Nichols Edinburgh,0,其他,0.0,0.0,0.0
+日韩料理,No.1 Sushi Bar,No.1 Sushi Bar,0,其他,0.0,0.0,0.0
+日韩料理,yo sushi,yo sushi,0,爱丁堡机场,0.0,0.0,0.0
+日韩料理,Yes Sushi,Yes Sushi,0,其他,0.0,0.0,0.0
+日韩料理,Bonsai,Bonsai,0,新镇,0.0,0.0,0.0
+日韩料理,YummyTori,YummyTori,0,爱丁堡旧城区,0.0,0.0,0.0
+日韩料理,Wagamama,Wagamama,0,利斯,0.0,0.0,0.0
+日韩料理,Oishii Scotland Casual Japanese Dining,Oishii Scotland Casual Japanese Dining,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Saigon,Saigon,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Xiangbala Hot Pot,Xiangbala Hot Pot,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Thai Orchid,Thai Orchid,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,COSMO Edinburgh,COSMO Edinburgh,0,其他,0.0,0.0,0.0
+更多亚洲菜,Time 4 Thai,Time 4 Thai,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Curry Cafe,Curry Cafe,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Yocoko Noodle Bar,Yocoko Noodle Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Chang Thai Restaurant,Chang Thai Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Red Box Noodle Bar,Red Box Noodle Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Shamoli,Shamoli,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,The Bangkok Bar,The Bangkok Bar,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Ruchi Tandoori,Ruchi Tandoori,0,其他,0.0,0.0,0.0
+更多亚洲菜,Lazeez,Lazeez,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Cafe Truva ,Cafe Truva ,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Cool Jade,Cool Jade,0,爱丁堡机场,0.0,0.0,0.0
+更多亚洲菜,Mother's Kitchen,Mother's Kitchen,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Thai Pad,Thai Pad,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Red Fort,Red Fort,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Suree Thai Restaurant,Suree Thai Restaurant,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Manna Mahal,Manna Mahal,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Imans,Imans,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Hanam's Middle East Restaurant,Hanam's Middle East Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Royal Spice,Royal Spice,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Tuk Tuk Indian Street Food,Tuk Tuk Indian Street Food,0,其他,0.0,0.0,0.0
+更多亚洲菜,Tikka Mahal,Tikka Mahal,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Thai Lemongrass,Thai Lemongrass,0,其他,0.0,0.0,0.0
+更多亚洲菜,Voujon,Voujon,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Everest Nepalese & Indian Restaurant,The Everest Nepalese & Indian Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Leven's,Leven's,0,其他,0.0,0.0,0.0
+更多亚洲菜,Chaophraya Edinburgh,Chaophraya Edinburgh,0,新镇,0.0,0.0,0.0
+更多亚洲菜,The Shezan Indian Cuisine,The Shezan Indian Cuisine,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Phuket Pavilion,Phuket Pavilion,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Kasturi Indian Gourmet Resturant,Kasturi Indian Gourmet Resturant,0,新镇,0.0,0.0,0.0
+更多亚洲菜,rivage,rivage,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Delhi Diner,Delhi Diner,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Spice Pavilion,The Spice Pavilion,0,新镇,0.0,0.0,0.0
+更多亚洲菜,The Golden Dragon,The Golden Dragon,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Thaisanuk,Thaisanuk,0,其他,0.0,0.0,0.0
+更多亚洲菜,Lancers,Lancers,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多亚洲菜,Cosmos,Cosmos,0,新镇,0.0,0.0,0.0
+更多亚洲菜,passage to india,passage to india,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Indian Lounge Restaurant,Indian Lounge Restaurant,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Real Rajput Indian Cuisine,Real Rajput Indian Cuisine,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Zest,Zest,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Omar Khayyam Indian Restaurant,Omar Khayyam Indian Restaurant,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Chilli Hut,Chilli Hut,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Indian Flavour,Indian Flavour,0,利斯,0.0,0.0,0.0
+更多亚洲菜,The Hill Station,The Hill Station,0,其他,0.0,0.0,0.0
+更多亚洲菜,Clock cafe,Clock cafe,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sampans Oriental Restaurant,Sampans Oriental Restaurant,0,爱丁堡机场,0.0,0.0,0.0
+更多亚洲菜,Topkapi Kebab House,Topkapi Kebab House,0,其他,0.0,0.0,0.0
+更多亚洲菜,Indian Cavalry Club,Indian Cavalry Club,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Empires,Empires,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Marmaris Kebab & Pizza House,Marmaris Kebab & Pizza House,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,9 Cellars Restaurant & Bar,9 Cellars Restaurant & Bar,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Pataka,Pataka,0,其他,0.0,0.0,0.0
+更多亚洲菜,Celadon Thai Restaurant,Celadon Thai Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Ooty's,Ooty's,0,其他,0.0,0.0,0.0
+更多亚洲菜,Hanedan,Hanedan,0,其他,0.0,0.0,0.0
+更多亚洲菜,Palmyra,Palmyra,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kampung Ali,Kampung Ali,0,其他,0.0,0.0,0.0
+更多亚洲菜,Queen's Spice,Queen's Spice,0,其他,0.0,0.0,0.0
+更多亚洲菜,Eastern Pavilion,Eastern Pavilion,0,爱丁堡机场,0.0,0.0,0.0
+更多亚洲菜,In Touch,In Touch,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多亚洲菜,Umair Indian Restaurant,Umair Indian Restaurant,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Kama Sutra Edinburgh,Kama Sutra Edinburgh,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Rodi Restaurant,Rodi Restaurant,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Bluerapa Thai,Bluerapa Thai,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Pomegranate,Pomegranate,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Enjoy,Enjoy,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Khushi Punjabi,Khushi Punjabi,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Classic's,Classic's,0,新镇,0.0,0.0,0.0
+更多亚洲菜,The Cholas,The Cholas,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Rice Terraces,Rice Terraces,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Passorn,Passorn,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Bindi Edinburgh,Bindi Edinburgh,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Mezbaan South Indian Restaurant,Mezbaan South Indian Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Kismot,Kismot,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Dhaba Diner,Dhaba Diner,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Gandhi's,Gandhi's,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,10 to 10 in Delhi,10 to 10 in Delhi,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Namaste Kathmandu,Namaste Kathmandu,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Mother India's Cafe,Mother India's Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Le Passepartout,Le Passepartout,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Vinyasa,Vinyasa,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Gurkha Cafe & Restaurant,Gurkha Cafe & Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Jashans Restaurant,Jashans Restaurant,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Guru,Guru,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,The Curry Cafe,The Curry Cafe,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Pho Vietnam House,Pho Vietnam House,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Mintleaf Restaurant,Mintleaf Restaurant,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Guchhi Indian Seafood and Bar,Guchhi Indian Seafood and Bar,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Mithas,Mithas,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Ocean Spice,Ocean Spice,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Little Panda,Little Panda,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Miraj Indian Takeaway,Miraj Indian Takeaway,0,,0.0,0.0,0.0
+更多亚洲菜,Mrs Singh's,Mrs Singh's,0,其他,0.0,0.0,0.0
+更多亚洲菜,gurkha,gurkha,0,其他,0.0,0.0,0.0
+更多亚洲菜,Khartoum Cafe,Khartoum Cafe,0,其他,0.0,0.0,0.0
+更多亚洲菜,Absolute Thai Edinburgh,Absolute Thai Edinburgh,0,其他,0.0,0.0,0.0
+更多亚洲菜,Far Pavilions,Far Pavilions,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bangla Kitchen,Bangla Kitchen,0,其他,0.0,0.0,0.0
+更多亚洲菜,Assams Cafe,Assams Cafe,0,其他,0.0,0.0,0.0
+更多亚洲菜,Babylon,Babylon,0,其他,0.0,0.0,0.0
+更多亚洲菜,St Johns Curry Club,St Johns Curry Club,0,爱丁堡机场,0.0,0.0,0.0
+更多亚洲菜,Spice Lounge Kitchen,Spice Lounge Kitchen,0,爱丁堡机场,0.0,0.0,0.0
+更多亚洲菜,Jasmine,Jasmine,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Ignite,Ignite,0,新镇,0.0,0.0,0.0
+更多亚洲菜,The Rendezvous Restaurant,The Rendezvous Restaurant,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Turkish Kitchen,Turkish Kitchen,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Khushi's Antigua Street,Khushi's Antigua Street,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Ronaq Indian Restaurant,Ronaq Indian Restaurant,0,新镇,0.0,0.0,0.0
+更多亚洲菜,The village edinburgh,The village edinburgh,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Bombay Bicycle Club,Bombay Bicycle Club,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Kalpna,Kalpna,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Richmond Cafe Bistro,Richmond Cafe Bistro,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Nawroz Restaurant,Nawroz Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Kebab Mahal,Kebab Mahal,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Cafe Truva ,Cafe Truva ,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Morningside Spice,Morningside Spice,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Himalaya Tandoori Restaurant,Himalaya Tandoori Restaurant,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Kebabish Original,Kebabish Original,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Little Vietnam,Little Vietnam,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,The Verandah Restaurant,The Verandah Restaurant,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,The Prince of India,The Prince of India,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Delta Indian Takeaway,Delta Indian Takeaway,0,斯莱特福德,0.0,0.0,0.0
+更多亚洲菜,Cafe Nemrut,Cafe Nemrut,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Punjabi Junction,Punjabi Junction,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Bombay Spice,Bombay Spice,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Khublai Khans,Khublai Khans,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Britannia Spice,Britannia Spice,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Spicy Affair,Spicy Affair,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Bonoful,Bonoful,0,其他,0.0,0.0,0.0
+更多亚洲菜,Suruchi,Suruchi,0,其他,0.0,0.0,0.0
+更多亚洲菜,Adams Spice Village,Adams Spice Village,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bollywood The Coffee Box,Bollywood The Coffee Box,0,其他,0.0,0.0,0.0
+更多亚洲菜,Madras Cottage,Madras Cottage,0,其他,0.0,0.0,0.0
+更多亚洲菜,Spice n Nice,Spice n Nice,0,其他,0.0,0.0,0.0
+更多亚洲菜,spice kitchen edinburgh,spice kitchen edinburgh,0,爱丁堡机场,0.0,0.0,0.0
+更多亚洲菜,Spicey Lounge,Spicey Lounge,0,爱丁堡机场,0.0,0.0,0.0
+更多亚洲菜,The Clay Oven,The Clay Oven,0,晨兴,0.0,0.0,0.0
+更多亚洲菜,India Today,India Today,0,晨兴,0.0,0.0,0.0
+更多亚洲菜,Soba Bar & Kitchen,Soba Bar & Kitchen,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Ruan Siam,Ruan Siam,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Gurkha Brigade Nepalese Restaurant,Gurkha Brigade Nepalese Restaurant,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Kings Balti,Kings Balti,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Ting Thai Caravan,Ting Thai Caravan,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Namaste,Namaste,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,The Stupa,The Stupa,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Suruchi Too,Suruchi Too,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Sonar Gao,Sonar Gao,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Mya,Mya,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Miso & Sushi,Miso & Sushi,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Tipu's,Tipu's,0,新镇,0.0,0.0,0.0
+更多亚洲菜,Thai Basil,Thai Basil,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Ayutthaya,Ayutthaya,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,Bay of Bengal,Bay of Bengal,0,爱丁堡旧城区,0.0,0.0,0.0
+更多亚洲菜,The Raj Restaurant,The Raj Restaurant,0,利斯,0.0,0.0,0.0
+更多亚洲菜,Bonoful Lounge,Bonoful Lounge,0,波托贝洛,0.0,0.0,0.0
+更多亚洲菜,Efes,Efes,0,其他,0.0,0.0,0.0
+更多亚洲菜,The bay of bengal Edinburgh,The bay of bengal Edinburgh,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Clam shell,Clam shell,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Filling Station,Filling Station,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,The Filling Station,The Filling Station,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Jus' Chill,Jus' Chill,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Edinburgh Larder Cafe,Edinburgh Larder Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Urban Angel,Urban Angel,0,新镇,0.0,0.0,0.0
+快餐简餐,The Meadow Bar,The Meadow Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Bluebird Cafe,Bluebird Cafe,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+快餐简餐,Central fish bar,Central fish bar,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Mania,Mania,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Chip Inn,Chip Inn,0,其他,0.0,0.0,0.0
+快餐简餐,"STACK, Dalmeny Street, Edinburgh","STACK, Dalmeny Street, Edinburgh",0,利斯,0.0,0.0,0.0
+快餐简餐,Krispy Kreme Doughnuts,Krispy Kreme Doughnuts,0,其他,0.0,0.0,0.0
+快餐简餐,Hollyrood 9a,Hollyrood 9a,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Bell's Diner,Bell's Diner,0,新镇,0.0,0.0,0.0
+快餐简餐,Hamburger Heaven,Hamburger Heaven,0,新镇,0.0,0.0,0.0
+快餐简餐,Wings Edinburgh,Wings Edinburgh,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Wood's Deli,Wood's Deli,0,其他,0.0,0.0,0.0
+快餐简餐,Madogs Cocktail Bar&Grill,Madogs Cocktail Bar&Grill,0,新镇,0.0,0.0,0.0
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,新镇,0.0,0.0,0.0
+快餐简餐,Picnic Basket,Picnic Basket,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,TGI Friday's - Edinburgh,TGI Friday's - Edinburgh,0,新镇,0.0,0.0,0.0
+快餐简餐,Jake's Place,Jake's Place,0,其他,0.0,0.0,0.0
+快餐简餐,Filling Station ( Royal Mile ),Filling Station ( Royal Mile ),0,,0.0,0.0,0.0
+快餐简餐,Katies Diner,Katies Diner,0,其他,0.0,0.0,0.0
+快餐简餐,The Flying Dog,The Flying Dog,0,其他,0.0,0.0,0.0
+快餐简餐,Cafe Plum,Cafe Plum,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+快餐简餐,Wannaburger,Wannaburger,0,新镇,0.0,0.0,0.0
+快餐简餐,Street Bar,Street Bar,0,新镇,0.0,0.0,0.0
+快餐简餐,Thistle Sandwich Bar,Thistle Sandwich Bar,0,新镇,0.0,0.0,0.0
+快餐简餐,HEI Chinese Restaurant,HEI Chinese Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Stack Dim Sum Bar,Stack Dim Sum Bar,0,利斯,0.0,0.0,0.0
+快餐简餐,Los Cardos,Los Cardos,0,利斯,0.0,0.0,0.0
+快餐简餐,Diner 7,Diner 7,0,利斯,0.0,0.0,0.0
+快餐简餐,Mammas American Pizza,Mammas American Pizza,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,新镇,0.0,0.0,0.0
+快餐简餐,Gourmet Burger Kitchen,Gourmet Burger Kitchen,0,新镇,0.0,0.0,0.0
+快餐简餐,Starbucks,Starbucks,0,其他,0.0,0.0,0.0
+快餐简餐,The Buffalo Grill,The Buffalo Grill,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+快餐简餐,Henri's of Edinburgh,Henri's of Edinburgh,0,晨兴,0.0,0.0,0.0
+快餐简餐,New York Steam Packet,New York Steam Packet,0,新镇,0.0,0.0,0.0
+快餐简餐,Appetite Direct,Appetite Direct,0,新镇,0.0,0.0,0.0
+快餐简餐,Smoke Stack,Smoke Stack,0,新镇,0.0,0.0,0.0
+快餐简餐,The Southern,The Southern,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Mamma's,Mamma's,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Rocket Cafe,Rocket Cafe,0,斯莱特福德,0.0,0.0,0.0
+快餐简餐,Burger,Burger,0,斯莱特福德,0.0,0.0,0.0
+快餐简餐,The Guilty Lily,The Guilty Lily,0,利斯,0.0,0.0,0.0
+快餐简餐,Steamie,Steamie,0,其他,0.0,0.0,0.0
+快餐简餐,Gbk,Gbk,0,新镇,0.0,0.0,0.0
+快餐简餐,Filling Station,Filling Station,0,新镇,0.0,0.0,0.0
+快餐简餐,Jeremiah's Taproom,Jeremiah's Taproom,0,新镇,0.0,0.0,0.0
+快餐简餐,Clerk's Bar,Clerk's Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Taste of Scotland,Taste of Scotland,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Little Chef,Little Chef,0,其他,0.0,0.0,0.0
+快餐简餐,KFC - Edinburgh Craigleith,KFC - Edinburgh Craigleith,0,其他,0.0,0.0,0.0
+快餐简餐,Feed,Feed,0,其他,0.0,0.0,0.0
+快餐简餐,Room at 34,Room at 34,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Garfunkel's,Garfunkel's,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Belushi's - Edinburgh,Belushi's - Edinburgh,0,爱丁堡旧城区,0.0,0.0,0.0
+快餐简餐,Frankie and Bennies,Frankie and Bennies,0,其他,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,其他,0.0,0.0,0.0
+海鲜,Mussel and Steak Bar,Mussel and Steak Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+海鲜,Mussel Inn,Mussel Inn,0,新镇,0.0,0.0,0.0
+海鲜,muSselinn,muSselinn,0,其他,7.2,7.0,7.0
+海鲜,Loch Fyne,Loch Fyne,0,利斯,0.0,0.0,0.0
+海鲜,Ondine,Ondine,0,爱丁堡旧城区,0.0,0.0,0.0
+海鲜,The Ship on the Shore,The Ship on the Shore,0,利斯,0.0,0.0,0.0
+海鲜,Cafe Royal Oyster Bar,Cafe Royal Oyster Bar,0,新镇,0.0,0.0,0.0
+海鲜,Port of Siam New Town,Port of Siam New Town,0,新镇,0.0,0.0,0.0
+海鲜,a room in Leith and Teuchters Landing,a room in Leith and Teuchters Landing,0,利斯,0.0,0.0,0.0
+海鲜,Creelers,Creelers,0,爱丁堡旧城区,0.0,0.0,0.0
+海鲜,Kyloe Restaurant at Rutland Hotel,Kyloe Restaurant at Rutland Hotel,0,新镇,0.0,0.0,0.0
+海鲜,Cafe Fish,Cafe Fish,0,新镇,0.0,0.0,0.0
+海鲜,Wildfire,Wildfire,0,新镇,0.0,0.0,0.0
+海鲜,Sweet Melinda's,Sweet Melinda's,0,其他,0.0,0.0,0.0
+海鲜,Port of Siam at Newhaven,Port of Siam at Newhaven,0,利斯,0.0,0.0,0.0
+海鲜,Hewat's Restaurant,Hewat's Restaurant,0,其他,0.0,0.0,0.0
+海鲜,a room in the west end and Teuchters bar,a room in the west end and Teuchters bar,0,其他,0.0,0.0,0.0
+海鲜,Whighams Wine Cellars,Whighams Wine Cellars,0,新镇,0.0,0.0,0.0
+海鲜,The Cellar Restaurant at Ryan's,The Cellar Restaurant at Ryan's,0,新镇,0.0,0.0,0.0
+海鲜,Salt Cafe,Salt Cafe,0,其他,0.0,0.0,0.0
+海鲜,C-Shack,C-Shack,0,其他,0.0,0.0,0.0
+海鲜,The Railbridge Bistro,The Railbridge Bistro,0,其他,0.0,0.0,0.0
+海鲜,Nobles Cafe Bar & Venue,Nobles Cafe Bar & Venue,0,利斯,0.0,0.0,0.0
+海鲜,The Telford Arms Restaurant & Bar,The Telford Arms Restaurant & Bar,0,其他,0.0,0.0,0.0
+海鲜,ramada mount royal,ramada mount royal,0,新镇,0.0,0.0,0.0
+海鲜,Dusit Thai Restaurant,Dusit Thai Restaurant,0,新镇,0.0,0.0,0.0
+海鲜,L'Alba D'Oro,L'Alba D'Oro,0,新镇,0.0,0.0,0.0
+海鲜,Thermidors Seafood Bar (Edinburgh Airport),Thermidors Seafood Bar (Edinburgh Airport),0,爱丁堡机场,0.0,0.0,0.0
+海鲜,The Famous Peacock Inn,The Famous Peacock Inn,0,利斯,0.0,0.0,0.0
+海鲜,Glass & Thompson,Glass & Thompson,0,新镇,0.0,0.0,0.0
+烧烤,Oink,Oink,0,爱丁堡旧城区,7.6,7.4,7.7
+烧烤,On The Roll,On The Roll,0,爱丁堡旧城区,0.0,0.0,0.0
+烧烤,Rascals Edinburgh,Rascals Edinburgh,0,爱丁堡旧城区,0.0,0.0,0.0
+烧烤,The Hanging Bat,The Hanging Bat,0,斯莱特福德,0.0,0.0,0.0
+烧烤,Miraj Indian Takeaway,Miraj Indian Takeaway,0,,0.0,0.0,0.0
+烧烤,Buffalo Grill,Buffalo Grill,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+比萨,Pizzahut,Pizzahut,0,利斯,7.1,7.0,7.0
+比萨,Origano,Origano,0,,0.0,0.0,0.0
+比萨,Pasta italiana,Pasta italiana,0,其他,0.0,0.0,0.0
+比萨,"3 Coins, Edinburgh","3 Coins, Edinburgh",0,新镇,0.0,0.0,0.0
+比萨,Pizza Express,Pizza Express,0,爱丁堡旧城区,0.0,0.0,0.0
+比萨,The Kilderkin,The Kilderkin,0,爱丁堡旧城区,0.0,0.0,0.0
+比萨,Clam Shell Fish and Chip Shop,Clam Shell Fish and Chip Shop,0,爱丁堡旧城区,0.0,0.0,0.0
+比萨,Papa John's,Papa John's,0,其他,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,爱丁堡旧城区,0.0,0.0,0.0
+比萨,Pizza Express,Pizza Express,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+比萨,Cabaret Voltaire,Cabaret Voltaire,0,爱丁堡旧城区,0.0,0.0,0.0
+比萨,Brew Dog,Brew Dog,0,爱丁堡旧城区,0.0,0.0,0.0
+比萨,Moratti Takeaway - Pizza,Moratti Takeaway - Pizza,0,其他,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,其他,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,其他,0.0,0.0,0.0
+咖啡厅,Agoo Cafe,Agoo Cafe,0,新镇,0.0,0.0,0.0
+咖啡厅,The Scottish Cafe & ResTaurAnt,The Scottish Cafe & ResTaurAnt,0,,6.9,6.9,6.9
+咖啡厅,Sun Home,Sun Home,0,其他,7.3,7.3,7.3
+咖啡厅,Hula Juice Bar and Gallery,Hula Juice Bar and Gallery,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Bon Papillon,Bon Papillon,0,新镇,0.0,0.0,0.0
+咖啡厅,Cafe Fleurs,Cafe Fleurs,0,新镇,0.0,0.0,0.0
+咖啡厅,Fortitude Coffee Merchants,Fortitude Coffee Merchants,0,新镇,0.0,0.0,0.0
+咖啡厅,The Cafe on the Corner,The Cafe on the Corner,0,新镇,0.0,0.0,0.0
+咖啡厅,Mary's Milk Bar,Mary's Milk Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,The Yellow Deli,The Yellow Deli,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,NomdePlume,NomdePlume,0,新镇,0.0,0.0,0.0
+咖啡厅,The Coffee Mill Cafe,The Coffee Mill Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Dalry Diner,Dalry Diner,0,斯莱特福德,0.0,0.0,0.0
+咖啡厅,Stag Espresso at Dovecot,Stag Espresso at Dovecot,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Castello Coffee Co.,Castello Coffee Co.,0,新镇,0.0,0.0,0.0
+咖啡厅,Brass & Copper Coffee,Brass & Copper Coffee,0,新镇,0.0,0.0,0.0
+咖啡厅,Sugarhouse Sandwiches,Sugarhouse Sandwiches,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,The Roamin' Nose,The Roamin' Nose,0,新镇,0.0,0.0,0.0
+咖啡厅,Razzo Coffee,Razzo Coffee,0,新镇,0.0,0.0,0.0
+咖啡厅,Cafe Hub,Cafe Hub,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,"Valvona & Crolla Caffe Bar, Jenners","Valvona & Crolla Caffe Bar, Jenners",0,新镇,0.0,0.0,0.0
+咖啡厅,Pulp Fiction Bookstore - Cafe,Pulp Fiction Bookstore - Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Frederick's Coffee House,Frederick's Coffee House,0,新镇,0.0,0.0,0.0
+咖啡厅,Frisky Frozen Yogurt,Frisky Frozen Yogurt,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Hotel Chocolat Cafe,Hotel Chocolat Cafe,0,新镇,0.0,0.0,0.0
+咖啡厅,Gourmet Grub,Gourmet Grub,0,新镇,0.0,0.0,0.0
+咖啡厅,Southern Cross,Southern Cross,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Cafe Claymore,Cafe Claymore,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Captain Taylor's Coffee House,Captain Taylor's Coffee House,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Jitter Bean Cafe,Jitter Bean Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Ravenous Cafe,Ravenous Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Bramble Bar & Lounge,Bramble Bar & Lounge,0,新镇,0.0,0.0,0.0
+咖啡厅,Costa Coffee,Costa Coffee,0,新镇,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Urbanangel cafe + deli,Urbanangel cafe + deli,0,新镇,0.0,0.0,0.0
+咖啡厅,Mollys,Mollys,0,其他,0.0,0.0,0.0
+咖啡厅,The Third Man,The Third Man,0,新镇,0.0,0.0,0.0
+咖啡厅,Affogato,Affogato,0,新镇,0.0,0.0,0.0
+咖啡厅,Fresh Grind Coffee House,Fresh Grind Coffee House,0,新镇,0.0,0.0,0.0
+咖啡厅,Zupa,Zupa,0,新镇,0.0,0.0,0.0
+咖啡厅,Bonningtons Eaterie,Bonningtons Eaterie,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Machina Espresso,Machina Espresso,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Breadstreet,Breadstreet,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Le Cafe Bleu,Le Cafe Bleu,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Kiki's,Kiki's,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Clarinda's,Clarinda's,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Lezettli Sandwich Bar & Caterers,Lezettli Sandwich Bar & Caterers,0,斯莱特福德,0.0,0.0,0.0
+咖啡厅,Hunt and Darton,Hunt and Darton,0,其他,0.0,0.0,0.0
+咖啡厅,The Fair Trade Coffee Shop,The Fair Trade Coffee Shop,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Citron Blackhall,Cafe Citron Blackhall,0,爱丁堡机场,0.0,0.0,0.0
+咖啡厅,Fyul,Fyul,0,其他,0.0,0.0,0.0
+咖啡厅,Cramond Falls Cafe,Cramond Falls Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,"Porto & Fi, Newhaven","Porto & Fi, Newhaven",0,其他,0.0,0.0,0.0
+咖啡厅,Leaf & Bean,Leaf & Bean,0,晨兴,0.0,0.0,0.0
+咖啡厅,Copper Bird Cafe,Copper Bird Cafe,0,新镇,0.0,0.0,0.0
+咖啡厅,Conan Doyle Cafe,Conan Doyle Cafe,0,新镇,0.0,0.0,0.0
+咖啡厅,Wellington Coffee,Wellington Coffee,0,新镇,0.0,0.0,0.0
+咖啡厅,Leo's Beanery,Leo's Beanery,0,新镇,0.0,0.0,0.0
+咖啡厅,Just the Ticket,Just the Ticket,0,新镇,0.0,0.0,0.0
+咖啡厅,artisan roast,artisan roast,0,新镇,0.0,0.0,0.0
+咖啡厅,I heart cafe,I heart cafe,0,新镇,0.0,0.0,0.0
+咖啡厅,Snax Cafe,Snax Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Coppers Coffee,Coppers Coffee,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Kilimanjaro Coffee,Kilimanjaro Coffee,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Starbucks Lothian Road,Starbucks Lothian Road,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,The Black Medicine Coffee Co.,The Black Medicine Coffee Co.,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Starbucks Waterstones,Starbucks Waterstones,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,La Cerise,La Cerise,0,利斯,0.0,0.0,0.0
+咖啡厅,The Haven Cafe,The Haven Cafe,0,利斯,0.0,0.0,0.0
+咖啡厅,French Press Coffee Co.,French Press Coffee Co.,0,新镇,0.0,0.0,0.0
+咖啡厅,Marks and Spencer Cafe,Marks and Spencer Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,"Costa Coffee, Cameron Toll","Costa Coffee, Cameron Toll",0,其他,0.0,0.0,0.0
+咖啡厅,Freemans,Freemans,0,其他,0.0,0.0,0.0
+咖啡厅,Artisan Roast Bruntsfield,Artisan Roast Bruntsfield,0,其他,0.0,0.0,0.0
+咖啡厅,PekoeTea,PekoeTea,0,其他,0.0,0.0,0.0
+咖啡厅,The Kings Pantry,The Kings Pantry,0,其他,0.0,0.0,0.0
+咖啡厅,Loudons Cafe and Bakery,Loudons Cafe and Bakery,0,其他,0.0,0.0,0.0
+咖啡厅,The Tide,The Tide,0,其他,0.0,0.0,0.0
+咖啡厅,Picnic Coffee Shop,Picnic Coffee Shop,0,其他,0.0,0.0,0.0
+咖啡厅,Castle Cafe,Castle Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Peter's Yard,Peter's Yard,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+咖啡厅,Coffee Angel,Coffee Angel,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+咖啡厅,moo cafeteria,moo cafeteria,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+咖啡厅,Annie & Belle,Annie & Belle,0,波托贝洛,0.0,0.0,0.0
+咖啡厅,The Hermitage Café & Golf Course,The Hermitage Café & Golf Course,0,晨兴,0.0,0.0,0.0
+咖啡厅,Cafe Blush,Cafe Blush,0,晨兴,0.0,0.0,0.0
+咖啡厅,Cafe Fresco,Cafe Fresco,0,新镇,0.0,0.0,0.0
+咖啡厅,Filmhouse Cafe Bar,Filmhouse Cafe Bar,0,新镇,0.0,0.0,0.0
+咖啡厅,Starbucks 106 George Street,Starbucks 106 George Street,0,新镇,0.0,0.0,0.0
+咖啡厅,Wetherspoons Playfair,Wetherspoons Playfair,0,新镇,0.0,0.0,0.0
+咖啡厅,Sprio & Co,Sprio & Co,0,新镇,0.0,0.0,0.0
+咖啡厅,The Chanter,The Chanter,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Peppers Sandwich Bar,Peppers Sandwich Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Bees,Bees,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Cafe Jacques,Cafe Jacques,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Starbucks Royal Mile,Starbucks Royal Mile,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Has Beans,Has Beans,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Project Coffee,Project Coffee,0,斯莱特福德,0.0,0.0,0.0
+咖啡厅,7 brothers cafe,7 brothers cafe,0,斯莱特福德,0.0,0.0,0.0
+咖啡厅,Piecebox,Piecebox,0,斯莱特福德,0.0,0.0,0.0
+咖啡厅,The Hideout Cafe,The Hideout Cafe,0,利斯,0.0,0.0,0.0
+咖啡厅,Print Works Coffee House,Print Works Coffee House,0,利斯,0.0,0.0,0.0
+咖啡厅,rocksalt,rocksalt,0,利斯,0.0,0.0,0.0
+咖啡厅,"Debenham's Britannie View, Edinburgh","Debenham's Britannie View, Edinburgh",0,利斯,0.0,0.0,0.0
+咖啡厅,Brew Lab,Brew Lab,0,其他,0.0,0.0,0.0
+咖啡厅,Buckstone Cafe,Buckstone Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Happie Daze,Happie Daze,0,其他,0.0,0.0,0.0
+咖啡厅,The Black Medicine Coffee Co.,The Black Medicine Coffee Co.,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Montagu,Cafe Montagu,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+咖啡厅,Potatolicious,Potatolicious,0,晨兴,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,新镇,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,新镇,0.0,0.0,0.0
+咖啡厅,Starbucks Stockbridge,Starbucks Stockbridge,0,新镇,0.0,0.0,0.0
+咖啡厅,Starbucks Canongate,Starbucks Canongate,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,The Coffee Mill,The Coffee Mill,0,其他,0.0,0.0,0.0
+咖啡厅,Popeyes Cafe,Popeyes Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Elaine's Cuppa Cake,Elaine's Cuppa Cake,0,其他,0.0,0.0,0.0
+咖啡厅,"Zea, Rose Street","Zea, Rose Street",0,新镇,0.0,0.0,0.0
+咖啡厅,Beanscene,Beanscene,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,The Aroma Cafe,The Aroma Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,The Olive Tree,The Olive Tree,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Chocolate Soup,Chocolate Soup,0,爱丁堡旧城区,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,斯莱特福德,0.0,0.0,0.0
+咖啡厅,Eat,Eat,0,利斯,0.0,0.0,0.0
+面包甜点,COSMO Edinburgh,COSMO Edinburgh,0,其他,0.0,0.0,0.0
+面包甜点,Casa Angelina,Casa Angelina,0,新镇,0.0,0.0,0.0
+面包甜点,Cafe Nardini,Cafe Nardini,0,斯莱特福德,0.0,0.0,0.0
+面包甜点,Braw,Braw,0,新镇,0.0,0.0,0.0
+面包甜点,The Wee Boulangerie,The Wee Boulangerie,0,爱丁堡旧城区,0.0,0.0,0.0
+面包甜点,The Blue Bear,The Blue Bear,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+面包甜点,Cafe Lucia,Cafe Lucia,0,爱丁堡旧城区,0.0,0.0,0.0
+面包甜点,Cuckoo's Bakery,Cuckoo's Bakery,0,新镇,0.0,0.0,0.0
+面包甜点,Jacobs Artisan Bakery & Coffeehouse,Jacobs Artisan Bakery & Coffeehouse,0,新镇,0.0,0.0,0.0
+面包甜点,Bibi's Bakery,Bibi's Bakery,0,新镇,0.0,0.0,0.0
+面包甜点,The Manna House Bakery and Patisserie,The Manna House Bakery and Patisserie,0,新镇,0.0,0.0,0.0
+面包甜点,Neal's Yard,Neal's Yard,0,爱丁堡旧城区,0.0,0.0,0.0
+面包甜点,Fudge House,Fudge House,0,爱丁堡旧城区,0.0,0.0,0.0
+面包甜点,Bakehoven,Bakehoven,0,利斯,0.0,0.0,0.0
+面包甜点,Patisserie Florentin,Patisserie Florentin,0,新镇,0.0,0.0,0.0
+面包甜点,Choco-Latte Confectionery/Takeaway/Cafe,Choco-Latte Confectionery/Takeaway/Cafe,0,其他,0.0,0.0,0.0
+面包甜点,Krispy Kreme Edinburgh,Krispy Kreme Edinburgh,0,爱丁堡机场,0.0,0.0,0.0
+面包甜点,Falko (Konditormeister),Falko (Konditormeister),0,斯莱特福德,0.0,0.0,0.0
+面包甜点,Mimi's Bakehouse,Mimi's Bakehouse,0,利斯,0.0,0.0,0.0
+面包甜点,"Baguette Stop, Edinburgh","Baguette Stop, Edinburgh",0,其他,0.0,0.0,0.0
+面包甜点,Freshcut,Freshcut,0,新镇,0.0,0.0,0.0
+面包甜点,Luca S,Luca S,0,斯莱特福德,0.0,0.0,0.0
+面包甜点,Skylark Cafe,Skylark Cafe,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+面包甜点,Scott's,Scott's,0,其他,0.0,0.0,0.0
+面包甜点,华荣西饼屋,华荣西饼屋,0,,0.0,0.0,0.0
+面包甜点,日出茶太,日出茶太,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,The Dome,The Dome,0,新镇,0.0,0.0,0.0
+酒吧,The Jazz Bar,The Jazz Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,The Three Sisters,The Three Sisters,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Greyfriars Bobby's Bar,Greyfriars Bobby's Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Biblos,Biblos,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Guildford Arms,Guildford Arms,0,新镇,0.0,0.0,0.0
+酒吧,Platfrom 5,Platfrom 5,0,其他,0.0,0.0,0.0
+酒吧,Cafe Royal Circle Bar,Cafe Royal Circle Bar,0,新镇,0.0,0.0,0.0
+酒吧,Leslies Bar,Leslies Bar,0,其他,0.0,0.0,0.0
+酒吧,Siglo Nightclub,Siglo Nightclub,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Pickles,Pickles,0,新镇,0.0,0.0,0.0
+酒吧,The Coffee Mill Cafe,The Coffee Mill Cafe,0,其他,0.0,0.0,0.0
+酒吧,Jolly Judge,Jolly Judge,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,The Devil's Advocate,The Devil's Advocate,0,其他,0.0,0.0,0.0
+酒吧,Phoenix Bar,Phoenix Bar,0,新镇,0.0,0.0,0.0
+酒吧,The Bridge Inn,The Bridge Inn,0,爱丁堡机场,0.0,0.0,0.0
+酒吧,Thomson's Bar,Thomson's Bar,0,新镇,0.0,0.0,0.0
+酒吧,North Bridge Brasserie,North Bridge Brasserie,0,其他,0.0,0.0,0.0
+酒吧,Au Bar,Au Bar,0,新镇,0.0,0.0,0.0
+酒吧,The Inchcolm Inn,The Inchcolm Inn,0,其他,0.0,0.0,0.0
+酒吧,The Abbotsford,The Abbotsford,0,新镇,0.0,0.0,0.0
+酒吧,Buckstone Pub & Kitchen,Buckstone Pub & Kitchen,0,其他,0.0,0.0,0.0
+酒吧,George Street Bar and Grill,George Street Bar and Grill,0,新镇,0.0,0.0,0.0
+酒吧,Sandy Bells,Sandy Bells,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,The Melville Bar,The Melville Bar,0,新镇,0.0,0.0,0.0
+酒吧,Malt Shovel,Malt Shovel,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Tolbooth Tavern,Tolbooth Tavern,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Deacon Brodie's Tavern,Deacon Brodie's Tavern,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,The Jam House,The Jam House,0,新镇,0.0,0.0,0.0
+酒吧,Hyde Out Bar,Hyde Out Bar,0,其他,0.0,0.0,0.0
+酒吧,Swanston Brasserie,Swanston Brasserie,0,其他,0.0,0.0,0.0
+酒吧,Juniper Green Inn,Juniper Green Inn,0,其他,0.0,0.0,0.0
+酒吧,Ferry Tap,Ferry Tap,0,其他,0.0,0.0,0.0
+酒吧,The Mad Hatter,The Mad Hatter,0,新镇,0.0,0.0,0.0
+酒吧,Kays Bar,Kays Bar,0,新镇,0.0,0.0,0.0
+酒吧,Lord Bodos,Lord Bodos,0,新镇,0.0,0.0,0.0
+酒吧,Bailie Bar,Bailie Bar,0,新镇,0.0,0.0,0.0
+酒吧,The Other Place,The Other Place,0,新镇,0.0,0.0,0.0
+酒吧,Dragonfly Cocktail Bar,Dragonfly Cocktail Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Captains Bar,Captains Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Brewdog,Brewdog,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Bia Bistrot,Bia Bistrot,0,斯莱特福德,0.0,0.0,0.0
+酒吧,The Compass Leith,The Compass Leith,0,利斯,0.0,0.0,0.0
+酒吧,The Vintage,The Vintage,0,利斯,0.0,0.0,0.0
+酒吧,The Traverse,The Traverse,0,其他,0.0,0.0,0.0
+酒吧,Scotsman's Lounge,Scotsman's Lounge,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Old Fire Station Pub,Old Fire Station Pub,0,其他,0.0,0.0,0.0
+酒吧,The Ensign Ewart,The Ensign Ewart,0,其他,0.0,0.0,0.0
+酒吧,City,City,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,El Barrio Latino Bar & Club,El Barrio Latino Bar & Club,0,新镇,0.0,0.0,0.0
+酒吧,Brasserie at The Norton House,Brasserie at The Norton House,0,爱丁堡机场,0.0,0.0,0.0
+酒吧,Restaurant at Best Western Braid Hills,Restaurant at Best Western Braid Hills,0,晨兴,0.0,0.0,0.0
+酒吧,The Canny Man Pub,The Canny Man Pub,0,晨兴,0.0,0.0,0.0
+酒吧,the merlin,the merlin,0,晨兴,0.0,0.0,0.0
+酒吧,Oxford Bar,Oxford Bar,0,新镇,0.0,0.0,0.0
+酒吧,Supercube,Supercube,0,新镇,0.0,0.0,0.0
+酒吧,Lucky Liquor Co.,Lucky Liquor Co.,0,新镇,0.0,0.0,0.0
+酒吧,Chocolate Lounge,Chocolate Lounge,0,新镇,0.0,0.0,0.0
+酒吧,"Highlight Comedy, Edinburgh","Highlight Comedy, Edinburgh",0,新镇,0.0,0.0,0.0
+酒吧,CC Blooms,CC Blooms,0,新镇,0.0,0.0,0.0
+酒吧,The Outhouse,The Outhouse,0,新镇,0.0,0.0,0.0
+酒吧,Planet Out,Planet Out,0,新镇,0.0,0.0,0.0
+酒吧,The Last Word Saloon,The Last Word Saloon,0,新镇,0.0,0.0,0.0
+酒吧,Cross and Corner,Cross and Corner,0,新镇,0.0,0.0,0.0
+酒吧,Oz Bar,Oz Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Bow Bar,Bow Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,The Cabaret Voltaire,The Cabaret Voltaire,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,"The clock cafe, edinburgh","The clock cafe, edinburgh",0,斯莱特福德,0.0,0.0,0.0
+酒吧,The Regent Bar,The Regent Bar,0,利斯,0.0,0.0,0.0
+酒吧,Malmaison Cafe Bar,Malmaison Cafe Bar,0,利斯,0.0,0.0,0.0
+酒吧,Heller's Kitchen,Heller's Kitchen,0,其他,0.0,0.0,0.0
+酒吧,Espionage Bar and Club,Espionage Bar and Club,0,其他,0.0,0.0,0.0
+酒吧,No 1 Grange Road,No 1 Grange Road,0,其他,0.0,0.0,0.0
+酒吧,Cargo Edinburgh,Cargo Edinburgh,0,其他,0.0,0.0,0.0
+酒吧,BarZest,BarZest,0,其他,0.0,0.0,0.0
+酒吧,Lock 25,Lock 25,0,其他,0.0,0.0,0.0
+酒吧,Castello,Castello,0,其他,0.0,0.0,0.0
+酒吧,Morningside glory,Morningside glory,0,晨兴,0.0,0.0,0.0
+酒吧,1780 Restaurant,1780 Restaurant,0,新镇,0.0,0.0,0.0
+酒吧,The Standing Order,The Standing Order,0,新镇,0.0,0.0,0.0
+酒吧,Lola Lo,Lola Lo,0,新镇,0.0,0.0,0.0
+酒吧,All Bar One - Edinburgh,All Bar One - Edinburgh,0,新镇,0.0,0.0,0.0
+酒吧,Jekyll & Hyde Pub,Jekyll & Hyde Pub,0,新镇,0.0,0.0,0.0
+酒吧,New Town Bar,New Town Bar,0,新镇,0.0,0.0,0.0
+酒吧,GHQ,GHQ,0,新镇,0.0,0.0,0.0
+酒吧,All Bar One - Edinburgh,All Bar One - Edinburgh,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Hotel du Vin & Bistro,Hotel du Vin & Bistro,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Sneaky Pete's,Sneaky Pete's,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Maggie Dickson's,Maggie Dickson's,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Three Sisters,Three Sisters,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Finnegan's Wake,Finnegan's Wake,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,The Royal Oak,The Royal Oak,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,The Bonnington,The Bonnington,0,利斯,0.0,0.0,0.0
+酒吧,Hunter's Tryst,Hunter's Tryst,0,其他,0.0,0.0,0.0
+酒吧,Mashed Tun,Mashed Tun,0,新镇,0.0,0.0,0.0
+酒吧,Shakespeare's Bar,Shakespeare's Bar,0,新镇,0.0,0.0,0.0
+酒吧,Pear Tree House,Pear Tree House,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Lava & Ignite,Lava & Ignite,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Assembly Bar,Assembly Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Milnes Bar,Milnes Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,The white horse bar,The white horse bar,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Bongo Club,Bongo Club,0,爱丁堡旧城区,0.0,0.0,0.0
+酒吧,Café Royal Oyster Bar,Café Royal Oyster Bar,0,利斯,0.0,0.0,0.0
+更多美食,Patisserie Valerie - George IV Bridge,Patisserie Valerie - George IV Bridge,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Nando's,Nando's,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Krua Khun Mae Thai Restaurant,Krua Khun Mae Thai Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Outsider Restaurant,The Outsider Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Redcoat cafe,Redcoat cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Ristorante Gennaro,Ristorante Gennaro,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Bella Italia,Bella Italia,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Bar 50,Bar 50,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Rhubarb,Rhubarb,0,,0.0,0.0,0.0
+更多美食,Afternoon Tea at Bar Missoni,Afternoon Tea at Bar Missoni,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Wedgwood The Restaurant,Wedgwood The Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Palm Court at The Balmoral,Palm Court at The Balmoral,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Kitchin,The Kitchin,0,利斯,0.0,0.0,0.0
+更多美食,Rotato,Rotato,0,,0.0,0.0,0.0
+更多美食,Ghurka Cafe,Ghurka Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Murrays Restaurant,Murrays Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Sandwich Culture,Sandwich Culture,0,新镇,0.0,0.0,0.0
+更多美食,Morrison's Bakery,Morrison's Bakery,0,新镇,0.0,0.0,0.0
+更多美食,Elements,Elements,0,新镇,0.0,0.0,0.0
+更多美食,27,27,0,利斯,0.0,0.0,0.0
+更多美食,The Balmoral Bar,The Balmoral Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Baked Potato Shop,The Baked Potato Shop,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Pret A Manger,Pret A Manger,0,新镇,0.0,0.0,0.0
+更多美食,Castle Rock Chip Shop,Castle Rock Chip Shop,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Starbucks Waverley Steps,Starbucks Waverley Steps,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Deli Fresco,Deli Fresco,0,新镇,0.0,0.0,0.0
+更多美食,Wolfits,Wolfits,0,新镇,0.0,0.0,0.0
+更多美食,Let Me Eat,Let Me Eat,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Oloroso,Oloroso,0,新镇,0.0,0.0,0.0
+更多美食,Edinburger,Edinburger,0,新镇,0.0,0.0,0.0
+更多美食,Cafe Fish,Cafe Fish,0,新镇,0.0,0.0,0.0
+更多美食,Scotty Ts,Scotty Ts,0,其他,0.0,0.0,0.0
+更多美食,Baget Stuffed,Baget Stuffed,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Safari Lounge,The Safari Lounge,0,新镇,0.0,0.0,0.0
+更多美食,Embo Delicatessen,Embo Delicatessen,0,新镇,0.0,0.0,0.0
+更多美食,Preachers Patisserie,Preachers Patisserie,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Ravenous,Ravenous,0,新镇,0.0,0.0,0.0
+更多美食,Cappadocia,Cappadocia,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Florentine,Florentine,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Sicillian Pastry Shop,Sicillian Pastry Shop,0,利斯,0.0,0.0,0.0
+更多美食,Globe Café,Globe Café,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Fishers in the City,Fishers in the City,0,新镇,0.0,0.0,0.0
+更多美食,Cafe at the Palace,Cafe at the Palace,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Amarone Edinburgh,Amarone Edinburgh,0,新镇,0.0,0.0,0.0
+更多美食,Sylvesters,Sylvesters,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Forth Floor At Harvey Nichols,Forth Floor At Harvey Nichols,0,,0.0,0.0,0.0
+更多美食,The Khukuri,The Khukuri,0,新镇,0.0,0.0,0.0
+更多美食,Nando's,Nando's,0,其他,0.0,0.0,0.0
+更多美食,Thanh Tam Coffee and Bakery,Thanh Tam Coffee and Bakery,0,其他,0.0,0.0,0.0
+更多美食,Nando's,Nando's,0,其他,0.0,0.0,0.0
+更多美食,The McKirdy's Steakhouse,The McKirdy's Steakhouse,0,新镇,0.0,0.0,0.0
+更多美食,Spirit of Thai,Spirit of Thai,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,David Bann,David Bann,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Clouds and Soil,Clouds and Soil,0,其他,0.0,0.0,0.0
+更多美食,The Street,The Street,0,新镇,0.0,0.0,0.0
+更多美食,Royal British Hotel,Royal British Hotel,0,其他,0.0,0.0,0.0
+更多美食,The Engine Shed,The Engine Shed,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Caffe Espresso,Caffe Espresso,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Afternoon Tea at The Carlton Hotel,Afternoon Tea at The Carlton Hotel,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Square,The Square,0,其他,0.0,0.0,0.0
+更多美食,Mcdonald's Restaurant,Mcdonald's Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Haymarket,Haymarket,0,新镇,0.0,0.0,0.0
+更多美食,Afternoon Tea At Prestonfields,Afternoon Tea At Prestonfields,0,其他,0.0,0.0,0.0
+更多美食,Xiang Bala Hotpot,Xiang Bala Hotpot,0,斯莱特福德,0.0,0.0,0.0
+更多美食,The Mosque Kitchen,The Mosque Kitchen,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Itchycoo Bar & Kitchen,Itchycoo Bar & Kitchen,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Burger King,Burger King,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,san marco,san marco,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多美食,The Beach House,The Beach House,0,波托贝洛,0.0,0.0,0.0
+更多美食,Rick's,Rick's,0,新镇,0.0,0.0,0.0
+更多美食,The Bread Street Brasserie,The Bread Street Brasserie,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Rutland Bar,The Rutland Bar,0,新镇,0.0,0.0,0.0
+更多美食,Riccarton Inn Pub & Dining,Riccarton Inn Pub & Dining,0,其他,0.0,0.0,0.0
+更多美食,Peter's Yard,Peter's Yard,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Chocolate Lounge,Chocolate Lounge,0,新镇,0.0,0.0,0.0
+更多美食,The Guildford Arms,The Guildford Arms,0,新镇,0.0,0.0,0.0
+更多美食,The GRV,The GRV,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Aaron Lodge Conservatory Restaurant,Aaron Lodge Conservatory Restaurant,0,其他,0.0,0.0,0.0
+更多美食,The Friery,The Friery,0,其他,0.0,0.0,0.0
+更多美食,The White House,The White House,0,其他,0.0,0.0,0.0
+更多美食,The Hermitage Bar,The Hermitage Bar,0,晨兴,0.0,0.0,0.0
+更多美食,Orb raw food cafe,Orb raw food cafe,0,新镇,0.0,0.0,0.0
+更多美食,Archipelago Artisan Bakery,Archipelago Artisan Bakery,0,新镇,0.0,0.0,0.0
+更多美食,Karen's Unicorn,Karen's Unicorn,0,新镇,0.0,0.0,0.0
+更多美食,Simply Sandwiches,Simply Sandwiches,0,新镇,0.0,0.0,0.0
+更多美食,Pink Olive,Pink Olive,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Beetlejuice,Beetlejuice,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Artisan Roast - Avalanche,Artisan Roast - Avalanche,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Barioja,Barioja,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Itri Restaurant,Itri Restaurant,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Saltyard,Saltyard,0,斯莱特福德,0.0,0.0,0.0
+更多美食,McSorleys,McSorleys,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Hanks Sandwich Bar,Hanks Sandwich Bar,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Fountain Cafe,Fountain Cafe,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Hui,Hui,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Vigo delicatessen,Vigo delicatessen,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Roseburn Take Away,Roseburn Take Away,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Lucky Buddha,Lucky Buddha,0,利斯,0.0,0.0,0.0
+更多美食,New Samuel Chinese Takeaway,New Samuel Chinese Takeaway,0,利斯,0.0,0.0,0.0
+更多美食,Compass Bar And Grill,Compass Bar And Grill,0,利斯,0.0,0.0,0.0
+更多美食,Rumbletums,Rumbletums,0,利斯,0.0,0.0,0.0
+更多美食,Shore deli Co.,Shore deli Co.,0,利斯,0.0,0.0,0.0
+更多美食,The Kichin Restaurant,The Kichin Restaurant,0,利斯,0.0,0.0,0.0
+更多美食,Mcdonald's Restaurants,Mcdonald's Restaurants,0,其他,0.0,0.0,0.0
+更多美食,Mama C's Cafe,Mama C's Cafe,0,,0.0,0.0,0.0
+更多美食,King Fisher,King Fisher,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Maxies Bistro & Wine Bar,Maxies Bistro & Wine Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Spud-u-Like,Spud-u-Like,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,20 Restaurant,20 Restaurant,0,新镇,0.0,0.0,0.0
+更多美食,Patisserie Valerie - Fort Kinnaird,Patisserie Valerie - Fort Kinnaird,0,其他,0.0,0.0,0.0
+更多美食,Topiary Restaurant,Topiary Restaurant,0,其他,0.0,0.0,0.0
+更多美食,La Auberge,La Auberge,0,爱丁堡机场,0.0,0.0,0.0
+更多美食,Tiles Cafe Bar,Tiles Cafe Bar,0,新镇,0.0,0.0,0.0
+更多美食,Footlights Bar & Restaurant,Footlights Bar & Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Baguette Express (Scotland) Ltd,Baguette Express (Scotland) Ltd,0,新镇,0.0,0.0,0.0
+更多美食,Th'Eatery at the Festival Theatre,Th'Eatery at the Festival Theatre,0,其他,0.0,0.0,0.0
+更多美食,The Original Coffee Bean,The Original Coffee Bean,0,其他,0.0,0.0,0.0
+更多美食,Cafe Grande,Cafe Grande,0,其他,0.0,0.0,0.0
+更多美食,Apiary Restaurant,Apiary Restaurant,0,其他,0.0,0.0,0.0
+更多美食,The Treehouse,The Treehouse,0,其他,0.0,0.0,0.0
+更多美食,Spoilt For Choice,Spoilt For Choice,0,其他,0.0,0.0,0.0
+更多美食,Cramond Mill - Cafe,Cramond Mill - Cafe,0,其他,0.0,0.0,0.0
+更多美食,The Boathouse,The Boathouse,0,其他,0.0,0.0,0.0
+更多美食,Zebra Coffee Co,Zebra Coffee Co,0,其他,0.0,0.0,0.0
+更多美食,Sabor Criollo,Sabor Criollo,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多美食,Stockbridge Tap,Stockbridge Tap,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多美食,Rollo,Rollo,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多美食,The Espy,The Espy,0,波托贝洛,0.0,0.0,0.0
+更多美食,Zulu Lounge,Zulu Lounge,0,晨兴,0.0,0.0,0.0
+更多美食,Scooby's Sandwich Shop,Scooby's Sandwich Shop,0,新镇,0.0,0.0,0.0
+更多美食,West End Hotel Restaurant,West End Hotel Restaurant,0,新镇,0.0,0.0,0.0
+更多美食,Pizza Express,Pizza Express,0,新镇,0.0,0.0,0.0
+更多美食,The Dirty Martini,The Dirty Martini,0,新镇,0.0,0.0,0.0
+更多美食,Fleur de Sel,Fleur de Sel,0,新镇,0.0,0.0,0.0
+更多美食,Songkran Two,Songkran Two,0,新镇,0.0,0.0,0.0
+更多美食,Blackwood's Bar & Restaurant,Blackwood's Bar & Restaurant,0,新镇,0.0,0.0,0.0
+更多美食,The Bakehouse,The Bakehouse,0,新镇,0.0,0.0,0.0
+更多美食,The Sicilian Restaurant,The Sicilian Restaurant,0,新镇,0.0,0.0,0.0
+更多美食,Purslane Restaurant,Purslane Restaurant,0,新镇,0.0,0.0,0.0
+更多美食,Rafael's,Rafael's,0,新镇,0.0,0.0,0.0
+更多美食,Shapla Bangladeshi,Shapla Bangladeshi,0,新镇,0.0,0.0,0.0
+更多美食,Cardamom,Cardamom,0,新镇,0.0,0.0,0.0
+更多美食,Bert's,Bert's,0,新镇,0.0,0.0,0.0
+更多美食,Marcella Italian Bakery,Marcella Italian Bakery,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Tanjore,Tanjore,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Salvo Caffe,Salvo Caffe,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Blonde Restaurant,Blonde Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Nile Valley Cafe,The Nile Valley Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Looking Glass Books,Looking Glass Books,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Olly Bongo's,Olly Bongo's,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Union of Genius,Union of Genius,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Jordan Valley,Jordan Valley,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Metro Restaurant,Metro Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Brass Monkey,The Brass Monkey,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Hendersons at St Johns,Hendersons at St Johns,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Stac Polly Bistro,Stac Polly Bistro,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Scottish Burger Bistro,The Scottish Burger Bistro,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Porto & Fi on The Mound,Porto & Fi on The Mound,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The World's End,The World's End,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Benes,Benes,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Skerries Restaurant,Skerries Restaurant,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Qupi Cafe,Qupi Cafe,0,利斯,0.0,0.0,0.0
+更多美食,The Wine Barrel Steakhouse Ltd,The Wine Barrel Steakhouse Ltd,0,利斯,0.0,0.0,0.0
+更多美食,"Mountaineering,Camping & Skiing Graham Tiso","Mountaineering,Camping & Skiing Graham Tiso",0,利斯,0.0,0.0,0.0
+更多美食,Fishers,Fishers,0,利斯,0.0,0.0,0.0
+更多美食,The Shanaz Takeaway,The Shanaz Takeaway,0,其他,0.0,0.0,0.0
+更多美食,The Corner Cafe,The Corner Cafe,0,其他,0.0,0.0,0.0
+更多美食,108 Chinese Take Away,108 Chinese Take Away,0,波托贝洛,0.0,0.0,0.0
+更多美食,Caffe Nero,Caffe Nero,0,爱丁堡机场,0.0,0.0,0.0
+更多美食,Kfc,Kfc,0,其他,0.0,0.0,0.0
+更多美食,Caffe Nero,Caffe Nero,0,晨兴,0.0,0.0,0.0
+更多美食,China China,China China,0,新镇,0.0,0.0,0.0
+更多美食,"Caffe Nero - Edinburgh, Glanville Place","Caffe Nero - Edinburgh, Glanville Place",0,新镇,0.0,0.0,0.0
+更多美食,Favorit,Favorit,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Sainsbury's Cafe,Sainsbury's Cafe,0,新镇,0.0,0.0,0.0
+更多美食,The Codfather,The Codfather,0,其他,0.0,0.0,0.0
+更多美食,Ruth's Kitchen,Ruth's Kitchen,0,其他,0.0,0.0,0.0
+更多美食,Braidburn Inn,Braidburn Inn,0,其他,0.0,0.0,0.0
+更多美食,S.W.S,S.W.S,0,其他,0.0,0.0,0.0
+更多美食,Bodrum Express,Bodrum Express,0,其他,0.0,0.0,0.0
+更多美食,Earthy Food Market Cafe,Earthy Food Market Cafe,0,其他,0.0,0.0,0.0
+更多美食,The Stables,The Stables,0,其他,0.0,0.0,0.0
+更多美食,99 Hanover Street,99 Hanover Street,0,其他,0.0,0.0,0.0
+更多美食,The Pastures,The Pastures,0,其他,0.0,0.0,0.0
+更多美食,Black Medicine Coffee Co.,Black Medicine Coffee Co.,0,其他,0.0,0.0,0.0
+更多美食,Himalayan Shop/Cafe,Himalayan Shop/Cafe,0,其他,0.0,0.0,0.0
+更多美食,Finnan 2 Go,Finnan 2 Go,0,其他,0.0,0.0,0.0
+更多美食,Lupe Pintos,Lupe Pintos,0,其他,0.0,0.0,0.0
+更多美食,The Sheep Heid Inn,The Sheep Heid Inn,0,其他,0.0,0.0,0.0
+更多美食,New Hopetoun Gardens Orangery Tearoom,New Hopetoun Gardens Orangery Tearoom,0,,0.0,0.0,0.0
+更多美食,Antico at Orocco Pier,Antico at Orocco Pier,0,其他,0.0,0.0,0.0
+更多美食,Haq's Restaurant And Takeaway,Haq's Restaurant And Takeaway,0,其他,0.0,0.0,0.0
+更多美食,Bombay Feast Edinburgh,Bombay Feast Edinburgh,0,爱丁堡机场,0.0,0.0,0.0
+更多美食,Earthy,Earthy,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多美食,Piano Cafe,Piano Cafe,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多美食,Bengal Spice,Bengal Spice,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多美食,Chi Wai,Chi Wai,0,波托贝洛,0.0,0.0,0.0
+更多美食,The Clock Cafe & Bistro,The Clock Cafe & Bistro,0,晨兴,0.0,0.0,0.0
+更多美食,Loopy Lorna's Tea House,Loopy Lorna's Tea House,0,晨兴,0.0,0.0,0.0
+更多美食,Mumbai Mansion,Mumbai Mansion,0,新镇,0.0,0.0,0.0
+更多美食,Nikkis Sandwich Bar,Nikkis Sandwich Bar,0,新镇,0.0,0.0,0.0
+更多美食,Food Glorious Food,Food Glorious Food,0,新镇,0.0,0.0,0.0
+更多美食,Sygn Bar & Restaurant,Sygn Bar & Restaurant,0,新镇,0.0,0.0,0.0
+更多美食,Scott's of Rose Street,Scott's of Rose Street,0,新镇,0.0,0.0,0.0
+更多美食,Dirty Dicks,Dirty Dicks,0,新镇,0.0,0.0,0.0
+更多美食,the kennilworth,the kennilworth,0,新镇,0.0,0.0,0.0
+更多美食,Pret a Manger,Pret a Manger,0,新镇,0.0,0.0,0.0
+更多美食,Tigerlily,Tigerlily,0,新镇,0.0,0.0,0.0
+更多美食,Tonic,Tonic,0,新镇,0.0,0.0,0.0
+更多美食,hardrock cafe,hardrock cafe,0,新镇,0.0,0.0,0.0
+更多美食,Jekyll & Hyde,Jekyll & Hyde,0,新镇,0.0,0.0,0.0
+更多美食,Mad Dogs,Mad Dogs,0,新镇,0.0,0.0,0.0
+更多美食,Firth of Froth,Firth of Froth,0,新镇,0.0,0.0,0.0
+更多美食,Singphai Restaurant,Singphai Restaurant,0,新镇,0.0,0.0,0.0
+更多美食,Broughton Delicatessen and Cafe,Broughton Delicatessen and Cafe,0,新镇,0.0,0.0,0.0
+更多美食,Cumberland Bar,Cumberland Bar,0,新镇,0.0,0.0,0.0
+更多美食,Dario's Pizza & Spaghetti House,Dario's Pizza & Spaghetti House,0,新镇,0.0,0.0,0.0
+更多美食,Susies,Susies,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Potting Shed,The Potting Shed,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Spoon Cafe Bistro,Spoon Cafe Bistro,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Metro Brasserie - Apex Hotel,Metro Brasserie - Apex Hotel,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Under the Stairs,Under the Stairs,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Aroma Coffee Bar,Aroma Coffee Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The City Cafe,The City Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Edinburgh Castle Cafe,Edinburgh Castle Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Subway,Subway,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,THE GLASS HOUSE,THE GLASS HOUSE,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,St Giles Cafe & Bar,St Giles Cafe & Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Canons' Gait Restaurant,The Canons' Gait Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Mimi's Picnic Parlour,Mimi's Picnic Parlour,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Balgreen Fryer,The Balgreen Fryer,0,斯莱特福德,0.0,0.0,0.0
+更多美食,montpelliers,montpelliers,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Kebab Express,Kebab Express,0,斯莱特福德,0.0,0.0,0.0
+更多美食,The Caley Sample Room,The Caley Sample Room,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Cafe Grande,Cafe Grande,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Zizzi,Zizzi,0,斯莱特福德,0.0,0.0,0.0
+更多美食,CJ's Cafe,CJ's Cafe,0,斯莱特福德,0.0,0.0,0.0
+更多美食,The Drill Hall Arts Cafe,The Drill Hall Arts Cafe,0,利斯,0.0,0.0,0.0
+更多美食,Cafe Truva,Cafe Truva,0,利斯,0.0,0.0,0.0
+更多美食,I.S. Edinburgh,I.S. Edinburgh,0,利斯,0.0,0.0,0.0
+更多美食,tiger Lily,tiger Lily,0,其他,0.0,0.0,0.0
+更多美食,Links Hotel Restaurant,Links Hotel Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Press Coffee,Press Coffee,0,其他,0.0,0.0,0.0
+更多美食,Tusitala,Tusitala,0,其他,0.0,0.0,0.0
+更多美食,Number 27 Restaurant,Number 27 Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Duddingston Fry,Duddingston Fry,0,其他,0.0,0.0,0.0
+更多美食,The New Bell,The New Bell,0,其他,0.0,0.0,0.0
+更多美食,Sherwood Guest House - Scotland,Sherwood Guest House - Scotland,0,其他,0.0,0.0,0.0
+更多美食,Annabelle's,Annabelle's,0,其他,0.0,0.0,0.0
+更多美食,G Y Chinese,G Y Chinese,0,其他,0.0,0.0,0.0
+更多美食,Clambers,Clambers,0,其他,0.0,0.0,0.0
+更多美食,Kasbah Take Away,Kasbah Take Away,0,其他,0.0,0.0,0.0
+更多美食,Chicken Club,Chicken Club,0,其他,0.0,0.0,0.0
+更多美食,Chilli Connection,Chilli Connection,0,其他,0.0,0.0,0.0
+更多美食,Loon Wah,Loon Wah,0,其他,0.0,0.0,0.0
+更多美食,Suen Moon,Suen Moon,0,其他,0.0,0.0,0.0
+更多美食,Spice Of India,Spice Of India,0,其他,0.0,0.0,0.0
+更多美食,JoJo's Takeaway,JoJo's Takeaway,0,其他,0.0,0.0,0.0
+更多美食,Coffee Stop,Coffee Stop,0,其他,0.0,0.0,0.0
+更多美食,Anchor Inn,Anchor Inn,0,其他,0.0,0.0,0.0
+更多美食,WJ Christie & Sons,WJ Christie & Sons,0,其他,0.0,0.0,0.0
+更多美食,Coffee Etc.,Coffee Etc.,0,其他,0.0,0.0,0.0
+更多美食,The Dunes,The Dunes,0,其他,0.0,0.0,0.0
+更多美食,Mums,Mums,0,其他,0.0,0.0,0.0
+更多美食,Shapes Restaurant,Shapes Restaurant,0,爱丁堡机场,0.0,0.0,0.0
+更多美食,The Ritz Bar & Grill,The Ritz Bar & Grill,0,爱丁堡机场,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,爱丁堡机场,0.0,0.0,0.0
+更多美食,Herbie of Edinburgh,Herbie of Edinburgh,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多美食,Eastern Spices,Eastern Spices,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多美食,The Terrace Cafe,The Terrace Cafe,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多美食,Yummy,Yummy,0,斯托克布里奇和Canonmills,0.0,0.0,0.0
+更多美食,Milton Fry,Milton Fry,0,波托贝洛,0.0,0.0,0.0
+更多美食,Beefeater,Beefeater,0,波托贝洛,0.0,0.0,0.0
+更多美食,Shahi Manzil Ltd,Shahi Manzil Ltd,0,波托贝洛,0.0,0.0,0.0
+更多美食,Cinnamon,Cinnamon,0,波托贝洛,0.0,0.0,0.0
+更多美食,Comiston Fry,Comiston Fry,0,晨兴,0.0,0.0,0.0
+更多美食,La Favorita,La Favorita,0,晨兴,0.0,0.0,0.0
+更多美食,Traverse Bar Cafe,Traverse Bar Cafe,0,,0.0,0.0,0.0
+更多美食,The Murrayfield Restaurant,The Murrayfield Restaurant,0,新镇,0.0,0.0,0.0
+更多美食,Metro West End,Metro West End,0,新镇,0.0,0.0,0.0
+更多美食,Jenners Main Restaurant,Jenners Main Restaurant,0,新镇,0.0,0.0,0.0
+更多美食,Montpeliers,Montpeliers,0,新镇,0.0,0.0,0.0
+更多美食,Flavour,Flavour,0,新镇,0.0,0.0,0.0
+更多美食,ShakeAway Edinburgh,ShakeAway Edinburgh,0,新镇,0.0,0.0,0.0
+更多美食,La Tasca,La Tasca,0,新镇,0.0,0.0,0.0
+更多美食,Frankie And Bennys,Frankie And Bennys,0,新镇,0.0,0.0,0.0
+更多美食,The Terrace Brasserie,The Terrace Brasserie,0,新镇,0.0,0.0,0.0
+更多美食,Hectors,Hectors,0,新镇,0.0,0.0,0.0
+更多美食,Beer and Skittles Bar,Beer and Skittles Bar,0,新镇,0.0,0.0,0.0
+更多美食,Hallion,Hallion,0,新镇,0.0,0.0,0.0
+更多美食,Hamiltons Bar & Kitchen,Hamiltons Bar & Kitchen,0,新镇,0.0,0.0,0.0
+更多美食,Illegal Jack's South West Grill,Illegal Jack's South West Grill,0,新镇,0.0,0.0,0.0
+更多美食,Flavours Cafe,Flavours Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,TiAmo Restauarant,TiAmo Restauarant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,New Saffrani,New Saffrani,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Bank Pub and Kitchen,Bank Pub and Kitchen,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Subway,Subway,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Inn on the Mile,Inn on the Mile,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,"Pizza Express - Edinburgh, Northbridge","Pizza Express - Edinburgh, Northbridge",0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Lazy Lohan's,Lazy Lohan's,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Royal Ettrick Hotel,Royal Ettrick Hotel,0,斯莱特福德,0.0,0.0,0.0
+更多美食,New Lee On,New Lee On,0,斯莱特福德,0.0,0.0,0.0
+更多美食,McCowans Brewhouse,McCowans Brewhouse,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Best Kebab House,Best Kebab House,0,利斯,0.0,0.0,0.0
+更多美食,African flavour restaurant,African flavour restaurant,0,利斯,0.0,0.0,0.0
+更多美食,Pizza Express,Pizza Express,0,利斯,0.0,0.0,0.0
+更多美食,"Pizza Express - Edinburgh, Leith","Pizza Express - Edinburgh, Leith",0,利斯,0.0,0.0,0.0
+更多美食,Giuliano's on The Shore,Giuliano's on The Shore,0,利斯,0.0,0.0,0.0
+更多美食,Frankie And Benny's,Frankie And Benny's,0,利斯,0.0,0.0,0.0
+更多美食,Ellersly House Hotel Restaurant,Ellersly House Hotel Restaurant,0,其他,0.0,0.0,0.0
+更多美食,The Waiting Room,The Waiting Room,0,其他,0.0,0.0,0.0
+更多美食,Lioness of Leith,Lioness of Leith,0,其他,0.0,0.0,0.0
+更多美食,The Balerno Fry,The Balerno Fry,0,其他,0.0,0.0,0.0
+更多美食,Town House,Town House,0,其他,0.0,0.0,0.0
+更多美食,Starbucks Ocean Terminal,Starbucks Ocean Terminal,0,其他,0.0,0.0,0.0
+更多美食,Supperbowl,Supperbowl,0,其他,0.0,0.0,0.0
+更多美食,New Fortune Cookie,New Fortune Cookie,0,其他,0.0,0.0,0.0
+更多美食,So Rice,So Rice,0,其他,0.0,0.0,0.0
+更多美食,The Curry Leaf,The Curry Leaf,0,其他,0.0,0.0,0.0
+更多美食,Happiness,Happiness,0,其他,0.0,0.0,0.0
+更多美食,Gung Ho,Gung Ho,0,其他,0.0,0.0,0.0
+更多美食,Prince Balti House,Prince Balti House,0,其他,0.0,0.0,0.0
+更多美食,Delicious Chinese,Delicious Chinese,0,其他,0.0,0.0,0.0
+更多美食,Burger King,Burger King,0,其他,0.0,0.0,0.0
+更多美食,Thistle,Thistle,0,其他,0.0,0.0,0.0
+更多美食,Frederick Street Cafe Bar Restaurant,Frederick Street Cafe Bar Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Subway,Subway,0,爱丁堡机场,0.0,0.0,0.0
+更多美食,Eat Ltd,Eat Ltd,0,爱丁堡机场,0.0,0.0,0.0
+更多美食,Giovanni's,Giovanni's,0,波托贝洛,0.0,0.0,0.0
+更多美食,New Xi'an,New Xi'an,0,晨兴,0.0,0.0,0.0
+更多美食,Abdul's,Abdul's,0,晨兴,0.0,0.0,0.0
+更多美食,The Barbecue,The Barbecue,0,,0.0,0.0,0.0
+更多美食,The Bothy Restaurant and Drinkery,The Bothy Restaurant and Drinkery,0,新镇,0.0,0.0,0.0
+更多美食,Ta Tasca,Ta Tasca,0,新镇,0.0,0.0,0.0
+更多美食,Chiquito - Edinburgh - Frederick Street,Chiquito - Edinburgh - Frederick Street,0,新镇,0.0,0.0,0.0
+更多美食,Opal Lounge,Opal Lounge,0,新镇,0.0,0.0,0.0
+更多美食,Frankie & Benny's - Omni Centre,Frankie & Benny's - Omni Centre,0,新镇,0.0,0.0,0.0
+更多美食,Negociants,Negociants,0,新镇,0.0,0.0,0.0
+更多美食,Rice King Hong Kong House,Rice King Hong Kong House,0,新镇,0.0,0.0,0.0
+更多美食,Rice Box,Rice Box,0,新镇,0.0,0.0,0.0
+更多美食,No 1 Chinese,No 1 Chinese,0,新镇,0.0,0.0,0.0
+更多美食,Shahbaz Tandoori Indian Takeaway,Shahbaz Tandoori Indian Takeaway,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Ann Purna,Ann Purna,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Munchiez,Munchiez,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Chickies,Chickies,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Peartree House,Peartree House,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Tikka Masala,Tikka Masala,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Domino's Pizza Edinburgh,Domino's Pizza Edinburgh,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,oddfellows bar,oddfellows bar,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Forest Cafe,The Forest Cafe,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Buffet King Chinese Restaurant,Buffet King Chinese Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Metro Bar,Metro Bar,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Circus Cafe Bistro,Circus Cafe Bistro,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Cafe Cockburn,Cafe Cockburn,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,The Bridge at the BarcelÓ Edinburgh Carlton,The Bridge at the BarcelÓ Edinburgh Carlton,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Bridge Bar and Restaurant,Bridge Bar and Restaurant,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,Scotts in the park,Scotts in the park,0,爱丁堡旧城区,0.0,0.0,0.0
+更多美食,So Good Chinese And Thai Takeaway,So Good Chinese And Thai Takeaway,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Dersim Kebab & Pizza House,Dersim Kebab & Pizza House,0,斯莱特福德,0.0,0.0,0.0
+更多美食,Espresso Mondo,Espresso Mondo,0,斯莱特福德,0.0,0.0,0.0
+更多美食,La Favorita Takeaway,La Favorita Takeaway,0,利斯,0.0,0.0,0.0
+更多美食,Area C Coffeehouse,Area C Coffeehouse,0,利斯,0.0,0.0,0.0
+更多美食,Cruz,Cruz,0,利斯,0.0,0.0,0.0
+更多美食,Ma Potter's Chargrill,Ma Potter's Chargrill,0,利斯,0.0,0.0,0.0
+更多美食,O'Briens Irish Sandwich Bars,O'Briens Irish Sandwich Bars,0,其他,0.0,0.0,0.0
+更多美食,Yo! Sushi - Edinburgh Airport,Yo! Sushi - Edinburgh Airport,0,其他,0.0,0.0,0.0
+更多美食,Kildonan Lodge,Kildonan Lodge,0,,0.0,0.0,0.0
+更多美食,Brasil Crepes,Brasil Crepes,0,其他,0.0,0.0,0.0
+更多美食,Grancaffe,Grancaffe,0,其他,0.0,0.0,0.0
+更多美食,The hermitage,The hermitage,0,晨兴,0.0,0.0,0.0
+更多美食,The Angels Share Restaurant,The Angels Share Restaurant,0,,0.0,0.0,0.0

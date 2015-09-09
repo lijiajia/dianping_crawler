@@ -1,0 +1,156 @@
+东南亚菜,NEPALESE KITCHEN,NEPALESE KITCHEN,0,,6.9,6.9,7.1
+东南亚菜,Helena's Rooftop Restaurant,Helena's Rooftop Restaurant,0,,7.0,7.0,7.2
+东南亚菜,Radission ResTaurAnt,Radission ResTaurAnt,0,,6.8,6.8,7.2
+东南亚菜,尼泊尔红十字,尼泊尔红十字,0,其他城市,8.3,8.3,8.3
+东南亚菜,THE TERIYAKI RESTAURANT,THE TERIYAKI RESTAURANT,0,加德满都,8.3,7.4,8.3
+东南亚菜,Bhanchha Ghar Restaurant,Bhanchha Ghar Restaurant,0,加德满都,6.7,7.4,7.4
+东南亚菜,HOTEL LUMBINI,HOTEL LUMBINI,0,加德满都,7.4,6.7,8.3
+东南亚菜,Yak Cafe,Yak Cafe,0,,6.7,6.7,6.9
+东南亚菜,Marwadi Restaurant,Marwadi Restaurant,0,费瓦湖,6.7,6.0,6.7
+东南亚菜,Just Pass Fast Food,Just Pass Fast Food,0,加德满都,6.0,6.0,6.0
+东南亚菜,Electric Pagoda,Electric Pagoda,0,,7.2,7.2,7.2
+东南亚菜,Shiva's Twist of Taste,Shiva's Twist of Taste,0,,6.9,6.9,6.9
+中餐,兰花餐厅,兰花餐厅,44,博卡拉,7.4,7.6,7.5
+中餐,博卡拉阳光私房菜,博卡拉阳光私房菜,0,费瓦湖,6.8,7.0,7.2
+中餐,Happy Bubble Cafe,Happy Bubble Cafe,0,加德满都,7.2,7.7,7.7
+中餐,老北京餐厅,老北京餐厅,0,费瓦湖,6.5,6.5,6.8
+更多亚洲菜,weizen,weizen,0,加德满都,7.7,7.7,7.7
+更多亚洲菜,Red Chill ResTatrant & Bar,Red Chill ResTatrant & Bar,0,加德满都,7.5,7.1,7.5
+更多亚洲菜,Lumbini Invitation 365 Family Restaurant,Lumbini Invitation 365 Family Restaurant,0,其他城市,6.8,6.8,6.8
+更多亚洲菜,Himalaya Hotel,Himalaya Hotel,0,其他城市,6.8,6.6,6.8
+更多亚洲菜,Himalayan Cafe & Lounge,Himalayan Cafe & Lounge,0,加德满都,6.6,7.1,6.4
+更多亚洲菜,Serene Guest House,Serene Guest House,0,其他城市,6.8,6.8,6.8
+更多亚洲菜,New Phedi Hotel,New Phedi Hotel,0,其他城市,6.6,6.8,6.8
+更多亚洲菜,The Kitchen Cafe,The Kitchen Cafe,0,其他城市,6.8,6.8,6.8
+更多亚洲菜,Kalpana Guest House,Kalpana Guest House,0,其他城市,6.8,7.1,7.1
+更多亚洲菜,Si Taleju Restaurant,Si Taleju Restaurant,0,Pataleban,6.8,7.1,6.6
+更多亚洲菜,Hotel Churi Lattar,Hotel Churi Lattar,0,其他城市,6.6,6.8,6.6
+更多亚洲菜,Trekking Guest House,Trekking Guest House,0,其他城市,6.6,6.6,6.6
+更多亚洲菜,Gangapurna View Lodge & Restaurant,Gangapurna View Lodge & Restaurant,0,其他城市,6.6,6.8,6.6
+更多亚洲菜,Peace Guest House,Peace Guest House,0,其他城市,6.6,6.8,6.8
+更多亚洲菜,Siwi Restautant,Siwi Restautant,0,其他城市,6.8,6.6,6.6
+更多亚洲菜,Annapurna Sanctuary Lodge,Annapurna Sanctuary Lodge,0,其他城市,6.6,7.3,6.6
+更多亚洲菜,Super View Restaurant,Super View Restaurant,0,其他城市,6.6,6.8,6.6
+更多亚洲菜,Manaslu & Himalaya Hotel & Restaurant,Manaslu & Himalaya Hotel & Restaurant,0,其他城市,6.6,6.6,6.6
+更多亚洲菜,Fishtail Lodge,Fishtail Lodge,0,其他城市,6.6,6.6,6.6
+更多亚洲菜,Thorong High Camp View Hotel & Restaurant,Thorong High Camp View Hotel & Restaurant,0,其他城市,6.6,7.1,6.6
+西式快餐,珠峰牛排馆,珠峰牛排馆,0,,7.1,7.8,7.7
+西式快餐,Himalayan Java Coffee(Durbar Square),Himalayan Java Coffee(Durbar Square),0,,7.0,7.2,7.3
+西式快餐,Weizen Restaurant,Weizen Restaurant,0,加德满都,6.7,6.7,6.7
+西式快餐,Big-Belly Restaurant,Big-Belly Restaurant,0,加德满都,6.7,6.7,6.7
+西式快餐,Old House Cafe,Old House Cafe,0,,0.0,0.0,0.0
+西式快餐,Organic Coffee,Organic Coffee,0,,0.0,0.0,0.0
+西式快餐,Himalayan Java Coffee,Himalayan Java Coffee,0,,0.0,0.0,0.0
+西式快餐,LAYAKU COFFEE,LAYAKU COFFEE,0,,0.0,0.0,0.0
+海鲜,龙脉中餐厅,龙脉中餐厅,0,,7.5,7.5,7.5
+海鲜,Radission ResTaurAnt,Radission ResTaurAnt,0,,6.8,6.8,7.2
+海鲜,鸿源中餐厅,鸿源中餐厅,0,,0.0,0.0,0.0
+西式正餐,Ice & fire pizza,Ice & fire pizza,49,,7.4,7.8,7.7
+西式正餐,evErest Steak,evErest Steak,0,加德满都,7.4,7.1,7.5
+西式正餐,Gaia Cafe & Restaurant,Gaia Cafe & Restaurant,0,加德满都,7.5,7.6,7.6
+西式正餐,Coffee Concerto Pizza Restaurant,Coffee Concerto Pizza Restaurant,0,费瓦湖,7.0,6.8,7.2
+西式正餐,weizen,weizen,0,加德满都,7.7,7.7,7.7
+西式正餐,Green Organic Cafe & Farmers Bar,Green Organic Cafe & Farmers Bar,0,加德满都,7.7,7.7,7.7
+西式正餐,Roadhouse Cafe,Roadhouse Cafe,0,加德满都,7.1,6.8,7.1
+酒吧,The ship restaurant bar and lounge,The ship restaurant bar and lounge,0,,7.7,7.7,7.7
+酒吧,Nepali Tapas Bar,Nepali Tapas Bar,0,,7.3,7.3,7.3
+酒吧,Electric Pagoda,Electric Pagoda,0,加德满都,6.7,7.4,6.7
+酒吧,Palm BeachRestaurant  &Bar,Palm BeachRestaurant  &Bar,0,费瓦湖,6.7,8.3,7.4
+酒吧,Monsoon Bar and Grill,Monsoon Bar and Grill,0,,6.7,7.6,7.6
+酒吧,北京饭店,北京饭店,0,,5.4,7.4,6.1
+酒吧,Busy Bee Restaurant and Bar,Busy Bee Restaurant and Bar,0,,7.0,7.0,7.0
+酒吧,Pokhara Beach Club,Pokhara Beach Club,0,,7.7,7.7,7.7
+酒吧,Busy Bee bar and restaurant,Busy Bee bar and restaurant,0,,7.2,6.8,7.2
+酒吧,Dream Nepal Restaurant and Bar,Dream Nepal Restaurant and Bar,0,,7.1,7.1,7.1
+酒吧,Si Taleju Restaurant and Bar,Si Taleju Restaurant and Bar,0,,7.1,7.1,7.1
+酒吧,Irish Pub,Irish Pub,0,,7.1,7.3,7.3
+酒吧,Purple Haze - Rock Bar,Purple Haze - Rock Bar,0,,7.1,7.1,7.1
+酒吧,Black Pepper,Black Pepper,0,,7.0,7.0,7.0
+酒吧,Tamarind Restro and Bar,Tamarind Restro and Bar,0,,7.0,7.0,7.0
+酒吧,Black Olive Restaurant and Bar,Black Olive Restaurant and Bar,0,,7.0,7.0,7.0
+酒吧,Sunny Restaurant and Cosy Bar,Sunny Restaurant and Cosy Bar,0,,7.1,7.1,7.1
+酒吧,Spice Garden Restaurant and Bar,Spice Garden Restaurant and Bar,0,,7.7,7.2,7.2
+酒吧,Aankhi Jhyal Restaurant and Bar,Aankhi Jhyal Restaurant and Bar,0,,7.1,7.5,7.1
+酒吧,Bamboo Club,Bamboo Club,0,,7.2,7.2,7.2
+酒吧,Upstairs Jazz Bar,Upstairs Jazz Bar,0,,0.0,0.0,0.0
+小吃,中华面馆,中华面馆,0,,7.6,7.6,7.6
+小吃,中国四川快餐店,中国四川快餐店,0,,8.2,7.8,8.0
+小吃,兰州牛肉面,兰州牛肉面,0,,7.5,7.3,7.3
+小吃,中华面馆,中华面馆,0,,0.0,0.0,0.0
+小吃,中华面馆,中华面馆,0,,0.0,0.0,0.0
+咖啡厅,Himalayan Java Coffee(Durbar Square),Himalayan Java Coffee(Durbar Square),0,,7.0,7.2,7.3
+咖啡厅,third eye restraunt,third eye restraunt,0,,7.4,7.4,7.4
+咖啡厅,Circle Street Coffee,Circle Street Coffee,0,,7.2,7.7,7.7
+咖啡厅,Cha Cha Cafe,Cha Cha Cafe,0,,7.5,6.8,6.8
+咖啡厅,Shiva's Cafe Corner,Shiva's Cafe Corner,0,,7.5,7.5,7.5
+咖啡厅,Beans,Beans,0,,6.8,6.4,6.8
+咖啡厅,La Bella Cafe & Aqua Bar,La Bella Cafe & Aqua Bar,0,加德满都,6.7,7.4,6.7
+咖啡厅,New Orleans Cafe,New Orleans Cafe,0,加德满都,6.7,7.4,6.7
+咖啡厅,Funky Biddha,Funky Biddha,0,加德满都,6.0,6.7,6.7
+咖啡厅,Coffee to Go,Coffee to Go,0,,6.9,6.9,6.9
+咖啡厅,Jasmine Cafe and Bar,Jasmine Cafe and Bar,0,,7.3,7.3,7.3
+咖啡厅,Bakery Cafe,Bakery Cafe,0,,7.1,7.1,7.1
+咖啡厅,Dolma Momo Center,Dolma Momo Center,0,,6.9,6.9,6.9
+咖啡厅,Viva Pasta Cafe,Viva Pasta Cafe,0,,7.0,7.0,7.0
+咖啡厅,Forever Cafe,Forever Cafe,0,,7.1,7.1,7.1
+咖啡厅,Babita Organic Cafe,Babita Organic Cafe,0,,7.0,7.0,7.1
+咖啡厅,White Horse Wine coffee bar,White Horse Wine coffee bar,0,,7.1,7.1,7.1
+咖啡厅,The Village Cafe,The Village Cafe,0,,7.1,7.1,7.1
+咖啡厅,Chikusa Cafe,Chikusa Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe de Temple,Cafe de Temple,0,,7.1,7.1,7.1
+咖啡厅,Coffee Talk Nepal,Coffee Talk Nepal,0,,7.0,7.0,7.0
+咖啡厅,Olive Cafe,Olive Cafe,0,,7.2,7.2,7.2
+咖啡厅,Roadhouse Cafe Boudha,Roadhouse Cafe Boudha,0,,7.1,7.1,7.1
+咖啡厅,Cafe D'Traditional Resturant,Cafe D'Traditional Resturant,0,,7.0,6.9,7.0
+咖啡厅,kar.ma COFFEE,kar.ma COFFEE,0,,7.1,7.3,7.3
+咖啡厅,Cafe Nyatapola,Cafe Nyatapola,0,,7.2,7.2,7.2
+咖啡厅,Kaiser Cafe,Kaiser Cafe,0,,7.2,7.2,7.2
+咖啡厅,Roadhouse Cafe,Roadhouse Cafe,0,,7.2,7.2,7.2
+咖啡厅,Roadhouse Cafe,Roadhouse Cafe,0,,7.2,7.2,7.2
+咖啡厅,Northfield Cafe,Northfield Cafe,0,,7.2,7.2,7.2
+咖啡厅,Tea Time Bamboostan,Tea Time Bamboostan,0,,7.2,7.2,7.2
+咖啡厅,Boudha Stupa Restaurant and Cafe,Boudha Stupa Restaurant and Cafe,0,,7.2,7.2,7.2
+咖啡厅,Thamel Momo Hut,Thamel Momo Hut,0,,7.2,7.2,7.2
+咖啡厅,Cafe Beyond,Cafe Beyond,0,,7.2,7.2,7.2
+咖啡厅,Elina's Bakery Cafe,Elina's Bakery Cafe,0,,6.9,6.9,6.9
+咖啡厅,Delima Garden Cafe,Delima Garden Cafe,0,,7.1,7.1,7.1
+咖啡厅,Bhajya Pukhu Coffee,Bhajya Pukhu Coffee,0,,7.1,7.0,7.1
+咖啡厅,Cafe Kaldi,Cafe Kaldi,0,,7.1,7.1,7.1
+咖啡厅,Top of the World Coffee,Top of the World Coffee,0,,7.1,7.1,7.1
+咖啡厅,Flavors Coffee Shop,Flavors Coffee Shop,0,,6.9,6.7,6.9
+咖啡厅,The Bakery Cafe,The Bakery Cafe,0,,7.0,7.0,7.0
+咖啡厅,Cafe Cheeno,Cafe Cheeno,0,,7.0,7.0,7.0
+咖啡厅,Cafe De Genre,Cafe De Genre,0,,7.0,7.0,7.0
+咖啡厅,Reggae Bar and Cafe,Reggae Bar and Cafe,0,,7.0,7.0,7.1
+咖啡厅,New Orleans Cafe,New Orleans Cafe,0,,7.2,7.2,7.2
+咖啡厅,Dhokaima Cafe,Dhokaima Cafe,0,,7.1,7.1,7.1
+咖啡厅,Old House Cafe,Old House Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe U,Cafe U,0,,7.0,7.0,7.0
+咖啡厅,Cafe Soma,Cafe Soma,0,,7.2,7.2,7.2
+咖啡厅,Mums Home Cafe Private Limited,Mums Home Cafe Private Limited,0,,7.3,7.3,7.3
+咖啡厅,Universal Tandoori Cafe,Universal Tandoori Cafe,0,,7.0,7.1,7.0
+咖啡厅,Museum Cafe,Museum Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe De Stupa,Cafe De Stupa,0,,7.0,7.0,7.0
+咖啡厅,Tibet Cafe,Tibet Cafe,0,,7.0,7.0,7.0
+咖啡厅,Ariya Cafe,Ariya Cafe,0,,7.0,7.0,7.0
+咖啡厅,Cafe Famoso,Cafe Famoso,0,,7.0,7.0,7.0
+咖啡厅,Am/Pm Organic Cafe,Am/Pm Organic Cafe,0,,7.2,7.2,7.2
+咖啡厅,Revolution Cafe,Revolution Cafe,0,,7.2,7.2,7.2
+咖啡厅,H2O Cafe N Pub,H2O Cafe N Pub,0,,7.1,7.1,7.1
+咖啡厅,Umbrella Cafe,Umbrella Cafe,0,,7.1,7.1,7.1
+咖啡厅,Yeti Cafe Restaurant and Bar,Yeti Cafe Restaurant and Bar,0,,7.2,7.2,7.2
+咖啡厅,Black olives cafe and bar,Black olives cafe and bar,0,,7.2,7.2,7.2
+咖啡厅,Cafe des Arts,Cafe des Arts,0,,7.2,7.2,7.7
+咖啡厅,Old House Cafe,Old House Cafe,0,,0.0,0.0,0.0
+咖啡厅,Organic Coffee,Organic Coffee,0,,0.0,0.0,0.0
+咖啡厅,Himalayan Java Coffee,Himalayan Java Coffee,0,,0.0,0.0,0.0
+咖啡厅,LAYAKU COFFEE,LAYAKU COFFEE,0,,0.0,0.0,0.0
+咖啡厅,coffee corner,coffee corner,0,,0.0,0.0,0.0
+咖啡厅,once upon a time,once upon a time,0,,0.0,0.0,0.0
+面包甜点,Paradise Cafe & Bar,Paradise Cafe & Bar,0,费瓦湖,7.5,7.4,7.4
+面包甜点,Beans,Beans,0,,6.8,6.4,6.8
+面包甜点,sheela bakery,sheela bakery,0,博卡拉,7.4,6.7,7.4
+面包甜点,Pumpernickel Bakery,Pumpernickel Bakery,0,,7.2,7.2,7.2
+面包甜点,Weizen Bakery,Weizen Bakery,0,,7.1,7.1,7.1
+面包甜点,Brezel Bakery,Brezel Bakery,0,,7.1,7.1,7.1
+其他美食,Or2k,Or2k,0,加德满都,6.7,7.4,7.4

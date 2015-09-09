@@ -1,0 +1,41 @@
+中餐,Royal Kitchen,Royal Kitchen,0,,7.0,7.0,7.1
+快餐简餐,Nautilus,Nautilus,0,,7.7,7.7,7.7
+快餐简餐,Subway,Subway,0,,7.0,7.0,7.0
+海鲜,Green Garden Restaurant,Green Garden Restaurant,0,,7.0,6.9,7.0
+比萨,360 Degrees Artisan Pizza,360 Degrees Artisan Pizza,0,,7.5,7.5,7.5
+比萨,Naked Pizza,Naked Pizza,0,,7.2,7.2,7.2
+比萨,I Love Pizza,I Love Pizza,0,,7.2,7.2,7.2
+咖啡厅,Java coffee house,Java coffee house,0,,7.2,7.0,7.2
+咖啡厅,Tarboush Cafe,Tarboush Cafe,0,,7.2,7.2,7.2
+咖啡厅,the corner affair Bistro,the corner affair Bistro,0,,7.1,6.8,7.1
+咖啡厅,Corner Bistro,Corner Bistro,0,,7.0,7.0,7.0
+咖啡厅,Mukutan Garden Cafe,Mukutan Garden Cafe,0,,7.1,7.1,7.1
+咖啡厅,The Coffee Hut,The Coffee Hut,0,,7.1,7.1,7.1
+咖啡厅,Kaldis Coffee Shop,Kaldis Coffee Shop,0,,7.0,7.0,7.0
+咖啡厅,Whispers Coffeeshop,Whispers Coffeeshop,0,,7.2,7.2,7.2
+咖啡厅,Cafe Maghreb,Cafe Maghreb,0,,7.1,7.1,7.1
+咖啡厅,Cafe Bon Appetit,Cafe Bon Appetit,0,,6.9,6.9,6.9
+咖啡厅,Karibu Cafe,Karibu Cafe,0,,6.9,6.9,6.9
+咖啡厅,Oleader Cafe,Oleader Cafe,0,,7.0,7.0,7.1
+咖啡厅,SWAHILI cafe,SWAHILI cafe,0,,7.2,7.2,7.2
+咖啡厅,Kengeles Lavington Green,Kengeles Lavington Green,0,,6.8,6.8,7.1
+咖啡厅,The Courtyard Cafe,The Courtyard Cafe,0,,7.0,7.0,7.0
+咖啡厅,Alnoor Cafeteria,Alnoor Cafeteria,0,,6.9,6.9,6.9
+酒吧,Bar B. Q. Tonight,Bar B. Q. Tonight,0,,7.2,7.2,7.2
+酒吧,Beach Bar at The Sands at Nomad,Beach Bar at The Sands at Nomad,0,,7.2,7.2,7.2
+酒吧,Blue Marlin Beach Club,Blue Marlin Beach Club,0,,7.2,7.2,7.2
+酒吧,casablanca bar,casablanca bar,0,,7.1,7.1,7.1
+酒吧,Tapas Ceviche Bar Nairobi,Tapas Ceviche Bar Nairobi,0,,6.9,7.0,7.0
+酒吧,Makuti Bar,Makuti Bar,0,,7.0,6.9,7.0
+酒吧,Simba Club,Simba Club,0,,7.1,7.1,6.8
+酒吧,Vineyard Restaurant And Wine Bar,Vineyard Restaurant And Wine Bar,0,,7.0,6.9,7.0
+酒吧,Gipsy Bar,Gipsy Bar,0,,6.8,6.8,7.2
+酒吧,Tree House Club,Tree House Club,0,,6.7,6.7,6.7
+酒吧,Aero Club of East Africa Restaurant,Aero Club of East Africa Restaurant,0,,7.2,7.2,7.2
+酒吧,Exchange Bar,Exchange Bar,0,,7.1,7.1,7.1
+酒吧,Mami Bar Ristorante,Mami Bar Ristorante,0,,7.2,7.2,7.2
+酒吧,Punda Milia Paradise Bar and Restaurant,Punda Milia Paradise Bar and Restaurant,0,,7.0,7.0,7.0
+酒吧,Bobos,Bobos,0,,7.0,7.0,7.0
+酒吧,Malindi Sea Fishing Club,Malindi Sea Fishing Club,0,,7.0,7.0,7.0
+更多美食,Baby Marrow,Baby Marrow,0,,7.2,7.2,7.2
+更多美食,"Nairobi Java House, Mombasa Kenya","Nairobi Java House, Mombasa Kenya",0,,7.1,7.1,7.1

@@ -1,0 +1,1519 @@
+意大利菜,EATaliano,EATaliano,0,霍赫鲁夫,7.0,7.0,6.9
+意大利菜,Filini im Radisson Blu Hotel Hamburg,Filini im Radisson Blu Hotel Hamburg,0,圣帕里,0.0,0.0,0.0
+意大利菜,Al Lido,Al Lido,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+意大利菜,Mediterran,Mediterran,0,其他,0.0,0.0,0.0
+意大利菜,Luigi's Pizzeria & Pasteria,Luigi's Pizzeria & Pasteria,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Casa Di Roma,Casa Di Roma,0,圣乔治,0.0,0.0,0.0
+意大利菜,Ristorante Luna,Ristorante Luna,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Osteria Ivigneri,Osteria Ivigneri,0,城市中心-老城,0.0,0.0,0.0
+意大利菜,Silo 16 Pizzabar,Silo 16 Pizzabar,0,其他,0.0,0.0,0.0
+意大利菜,Palazzo,Palazzo,0,哈维斯特胡德,0.0,0.0,0.0
+意大利菜,La Tana,La Tana,0,罗森巴姆,0.0,0.0,0.0
+意大利菜,Gusto fino,Gusto fino,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,Ristorante Il Buco,Ristorante Il Buco,0,圣乔治,0.0,0.0,0.0
+意大利菜,Lust auf Italien,Lust auf Italien,0,圣帕里,0.0,0.0,0.0
+意大利菜,Cuneo,Cuneo,0,圣帕里,0.0,0.0,0.0
+意大利菜,Trattoria Da Enzo,Trattoria Da Enzo,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,L'Osteria Pizza E Pasta,L'Osteria Pizza E Pasta,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Ristorante Portonovo,Ristorante Portonovo,0,罗森巴姆,0.0,0.0,0.0
+意大利菜,Arturo 1919,Arturo 1919,0,奥藤森,0.0,0.0,0.0
+意大利菜,Eisenstein,Eisenstein,0,奥藤森,0.0,0.0,0.0
+意大利菜,Enoteca E Ristorante Gallo Nero,Enoteca E Ristorante Gallo Nero,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,Cottone,Cottone,0,城市中心-老城,0.0,0.0,0.0
+意大利菜,Portobello,Portobello,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Enzo Ristorante,Enzo Ristorante,0,贝格多夫,0.0,0.0,0.0
+意大利菜,Pizza Hut Europapassage,Pizza Hut Europapassage,0,城市中心-老城,0.0,0.0,0.0
+意大利菜,Pane e tulipani,Pane e tulipani,0,圣乔治,0.0,0.0,0.0
+意大利菜,Ristorante Leon,Ristorante Leon,0,圣乔治,0.0,0.0,0.0
+意大利菜,La Vela - Ristorante & Weinbar,La Vela - Ristorante & Weinbar,0,圣帕里,0.0,0.0,0.0
+意大利菜,Luicella's Ice Cream,Luicella's Ice Cream,0,圣帕里,0.0,0.0,0.0
+意大利菜,Capriccio,Capriccio,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Ponti,Ponti,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Toto & Malta,Toto & Malta,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Ristorante da Donato,Ristorante da Donato,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Momento Di,Momento Di,0,其他,0.0,0.0,0.0
+意大利菜,L,L,0,其他,0.0,0.0,0.0
+意大利菜,Sardegna Paolino,Sardegna Paolino,0,其他,0.0,0.0,0.0
+意大利菜,Filini Bar & Restaurant Hamburg Airport,Filini Bar & Restaurant Hamburg Airport,0,汉堡机场,0.0,0.0,0.0
+意大利菜,Ristorante Cristina's,Ristorante Cristina's,0,汉堡东北,0.0,0.0,0.0
+意大利菜,Del Favero,Del Favero,0,汉堡东北,0.0,0.0,0.0
+意大利菜,Ristorante San Daniele,Ristorante San Daniele,0,汉堡东北,0.0,0.0,0.0
+意大利菜,Da Mario,Da Mario,0,罗森巴姆,0.0,0.0,0.0
+意大利菜,Trattoria da Leandro,Trattoria da Leandro,0,阿尔托那,0.0,0.0,0.0
+意大利菜,Mamma Mia L. Collucia M. Della Negra OHG,Mamma Mia L. Collucia M. Della Negra OHG,0,奥藤森,0.0,0.0,0.0
+意大利菜,Das Mehl,Das Mehl,0,奥藤森,0.0,0.0,0.0
+意大利菜,Ristorante Sapori d'Italia,Ristorante Sapori d'Italia,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,Al Volo,Al Volo,0,霍赫鲁夫,0.0,0.0,0.0
+意大利菜,Come Prima,Come Prima,0,霍赫鲁夫,0.0,0.0,0.0
+意大利菜,Positano Osteria,Positano Osteria,0,霍赫鲁夫,0.0,0.0,0.0
+意大利菜,La Bottega Lentini,La Bottega Lentini,0,霍赫鲁夫,0.0,0.0,0.0
+意大利菜,Ristorante Marcos Platz,Ristorante Marcos Platz,0,霍赫鲁夫,0.0,0.0,0.0
+意大利菜,Trattoria Bella Italia,Trattoria Bella Italia,0,城市中心-老城,0.0,0.0,0.0
+意大利菜,Dolce Vino,Dolce Vino,0,城市中心-老城,0.0,0.0,0.0
+意大利菜,Ristorante Galatea,Ristorante Galatea,0,城市中心-老城,0.0,0.0,0.0
+意大利菜,La Pergola,La Pergola,0,Eimsbüttel,0.0,0.0,0.0
+意大利菜,Ristorante Vesuvio,Ristorante Vesuvio,0,圣乔治,0.0,0.0,0.0
+意大利菜,Duetto,Duetto,0,圣乔治,0.0,0.0,0.0
+意大利菜,Casa-Nostra Italienisches,Casa-Nostra Italienisches,0,圣乔治,0.0,0.0,0.0
+意大利菜,O'Pote,O'Pote,0,圣乔治,0.0,0.0,0.0
+意大利菜,Trattoria 500 - italian restaurant,Trattoria 500 - italian restaurant,0,圣帕里,0.0,0.0,0.0
+意大利菜,Rocco,Rocco,0,圣帕里,0.0,0.0,0.0
+意大利菜,Bar Remo,Bar Remo,0,圣帕里,0.0,0.0,0.0
+意大利菜,Ristorante da Mario,Ristorante da Mario,0,圣帕里,0.0,0.0,0.0
+意大利菜,La Luna,La Luna,0,圣帕里,0.0,0.0,0.0
+意大利菜,Pastalozzi,Pastalozzi,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,San Michele,San Michele,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,La Milla Restaurant,La Milla Restaurant,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Il Girasole,Il Girasole,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,La Pergola Due,La Pergola Due,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,L'Italiana,L'Italiana,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Nino D´Ischia,Ristorante Nino D´Ischia,0,其他,0.0,0.0,0.0
+意大利菜,Tre Posi,Tre Posi,0,其他,0.0,0.0,0.0
+意大利菜,Russano's Pizzeria Bar,Russano's Pizzeria Bar,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Da Pino,Ristorante Pizzeria Da Pino,0,其他,0.0,0.0,0.0
+意大利菜,Il Cantuccio,Il Cantuccio,0,其他,0.0,0.0,0.0
+意大利菜,Das Bistro,Das Bistro,0,其他,0.0,0.0,0.0
+意大利菜,La Traviata Ristorante-Pizzaria Inhaber Bonvento,La Traviata Ristorante-Pizzaria Inhaber Bonvento,0,汉堡机场,0.0,0.0,0.0
+意大利菜,Luna Hotel & Restaurant,Luna Hotel & Restaurant,0,汉堡东北,0.0,0.0,0.0
+意大利菜,Piccolo Giardino Matei,Piccolo Giardino Matei,0,汉堡东北,0.0,0.0,0.0
+意大利菜,Piazza Roberto,Piazza Roberto,0,汉堡东北,0.0,0.0,0.0
+意大利菜,Massimo,Massimo,0,汉堡东北,0.0,0.0,0.0
+意大利菜,Dante,Dante,0,汉堡东北,0.0,0.0,0.0
+意大利菜,Ristorante La Rucola Hamburg,Ristorante La Rucola Hamburg,0,汉堡东北,0.0,0.0,0.0
+意大利菜,Via Del Latte,Via Del Latte,0,罗森巴姆,0.0,0.0,0.0
+意大利菜,Anna Sgroi,Anna Sgroi,0,罗森巴姆,0.0,0.0,0.0
+意大利菜,Ristorante Casa Vecchia,Ristorante Casa Vecchia,0,贝格多夫,0.0,0.0,0.0
+意大利菜,Trattoria Toscana,Trattoria Toscana,0,奥藤森,0.0,0.0,0.0
+意大利菜,Trattoria Roma Sparita,Trattoria Roma Sparita,0,奥藤森,0.0,0.0,0.0
+意大利菜,Vito,Vito,0,奥藤森,0.0,0.0,0.0
+意大利菜,Einstein,Einstein,0,奥藤森,0.0,0.0,0.0
+意大利菜,Casa Nova,Casa Nova,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,Ristorante Farinelli da Franco,Ristorante Farinelli da Franco,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,A Modo Mio,A Modo Mio,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,la sorpresa,la sorpresa,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,Pasta e Vino,Pasta e Vino,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,Ristorante Salentino,Ristorante Salentino,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,Ristorante Caruso,Ristorante Caruso,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,Trattoria Rosati,Trattoria Rosati,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,Crown Pizza,Crown Pizza,0,威尔海姆斯堡,0.0,0.0,0.0
+意大利菜,Da Franco,Da Franco,0,埃尔伯科,0.0,0.0,0.0
+意大利菜,Osteria Gattonero,Osteria Gattonero,0,霍赫鲁夫,0.0,0.0,0.0
+意大利菜,Dal Fabbro Winebar,Dal Fabbro Winebar,0,霍赫鲁夫,0.0,0.0,0.0
+意大利菜,Ristaurante Italiano,Ristaurante Italiano,0,霍赫鲁夫,0.0,0.0,0.0
+意大利菜,La Scala,La Scala,0,霍赫鲁夫,0.0,0.0,0.0
+意大利菜,Poletto Winebar,Poletto Winebar,0,霍赫鲁夫,0.0,0.0,0.0
+意大利菜,Orocolato,Orocolato,0,城市中心-老城,0.0,0.0,0.0
+意大利菜,I Vigneri Caffee e Alimentari,I Vigneri Caffee e Alimentari,0,城市中心-老城,0.0,0.0,0.0
+意大利菜,Azzurro Espressobar‎,Azzurro Espressobar‎,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+意大利菜,Casa Romana,Casa Romana,0,圣乔治,0.0,0.0,0.0
+意大利菜,L'Ancora,L'Ancora,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Nello Ristorante,Nello Ristorante,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Ponton,Ponton,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Cappuccino,Cappuccino,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Bixio,Bixio,0,其他,0.0,0.0,0.0
+意大利菜,Bella Italia,Bella Italia,0,其他,0.0,0.0,0.0
+意大利菜,Poletto Winebar Ristorante,Poletto Winebar Ristorante,0,汉堡东北,0.0,0.0,0.0
+意大利菜,Mama Trattoria,Mama Trattoria,0,罗森巴姆,0.0,0.0,0.0
+意大利菜,Ristorante Passione,Ristorante Passione,0,罗森巴姆,0.0,0.0,0.0
+意大利菜,Trattoria Mama,Trattoria Mama,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,Il Porto,Il Porto,0,圣帕里,0.0,0.0,0.0
+意大利菜,Ristorante Lagona,Ristorante Lagona,0,圣帕里,0.0,0.0,0.0
+意大利菜,D.O.C.,D.O.C.,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Cafe Wien,Cafe Wien,0,城市中心-新城,0.0,0.0,0.0
+意大利菜,Trattoria ,Trattoria ,0,汉堡东北,0.0,0.0,0.0
+意大利菜,Osteria Due,Osteria Due,0,罗森巴姆,0.0,0.0,0.0
+意大利菜,Joeys Pizza Service,Joeys Pizza Service,0,阿尔托那,0.0,0.0,0.0
+意大利菜,Ristorante In Situ,Ristorante In Situ,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+意大利菜,Ristorante Il Pavone,Ristorante Il Pavone,0,乌伦霍斯特,0.0,0.0,0.0
+意大利菜,La Bettola,La Bettola,0,杜伊斯堡,0.0,0.0,0.0
+意大利菜,La Baracca Hamburg,La Baracca Hamburg,0,城市中心-老城,0.0,0.0,0.0
+法国菜,Ti Breizh / Haus der Bretagne,Ti Breizh / Haus der Bretagne,0,城市中心-老城,0.0,0.0,0.0
+法国菜,Le Plat Du Jour,Le Plat Du Jour,0,城市中心-老城,0.0,0.0,0.0
+法国菜,Bistro Vienna,Bistro Vienna,0,阿尔托那,0.0,0.0,0.0
+法国菜,Restaurant Haerlin,Restaurant Haerlin,0,城市中心-新城,0.0,0.0,0.0
+法国菜,Petit Bonheur,Petit Bonheur,0,城市中心-新城,0.0,0.0,0.0
+法国菜,Carls an der Elbphilharmonie,Carls an der Elbphilharmonie,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+法国菜,Brasserie Elysee,Brasserie Elysee,0,罗森巴姆,0.0,0.0,0.0
+法国菜,La Mirabelle,La Mirabelle,0,罗森巴姆,0.0,0.0,0.0
+法国菜,Au Quai Restaurant,Au Quai Restaurant,0,奥藤森,0.0,0.0,0.0
+法国菜,Le Canard,Le Canard,0,奥藤森,0.0,0.0,0.0
+法国菜,Piment,Piment,0,霍赫鲁夫,0.0,0.0,0.0
+法国菜,Marseille,Marseille,0,圣帕里,0.0,0.0,0.0
+法国菜,Brasserie La Provence,Brasserie La Provence,0,奥藤森,0.0,0.0,0.0
+法国菜,Vier Rosen,Vier Rosen,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+法国菜,Cafe du passage,Cafe du passage,0,其他,0.0,0.0,0.0
+法国菜,Bistro Paris,Bistro Paris,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+法国菜,Brasserie Cassis,Brasserie Cassis,0,罗森巴姆,0.0,0.0,0.0
+法国菜,La Maison Niewohner,La Maison Niewohner,0,乌伦霍斯特,0.0,0.0,0.0
+法国菜,L auberge Francaise,L auberge Francaise,0,罗森巴姆,0.0,0.0,0.0
+法国菜,Austernbar,Austernbar,0,圣帕里,0.0,0.0,0.0
+法国菜,Trader Vic s im Radisson Blu Hotel Hamburg,Trader Vic s im Radisson Blu Hotel Hamburg,0,圣帕里,0.0,0.0,0.0
+法国菜,Chezfou,Chezfou,0,阿尔托那,0.0,0.0,0.0
+法国菜,Le Sud,Le Sud,0,杜伊斯堡,0.0,0.0,0.0
+墨西哥菜,Bolero Harburg,Bolero Harburg,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+墨西哥菜,Bolero - HH Wandsbek,Bolero - HH Wandsbek,0,汉堡东北,0.0,0.0,0.0
+墨西哥菜,El Tequito,El Tequito,0,圣帕里,0.0,0.0,0.0
+墨西哥菜,El Pikosito,El Pikosito,0,圣帕里,0.0,0.0,0.0
+墨西哥菜,Dos Amigos,Dos Amigos,0,城市中心-新城,0.0,0.0,0.0
+墨西哥菜,Dos Amigos Mexican Restaurant,Dos Amigos Mexican Restaurant,0,阿尔托那,0.0,0.0,0.0
+墨西哥菜,Café Mexico,Café Mexico,0,阿尔托那,0.0,0.0,0.0
+墨西哥菜,Bolero Ottensen,Bolero Ottensen,0,奥藤森,0.0,0.0,0.0
+墨西哥菜,Sambreritos,Sambreritos,0,霍赫鲁夫,0.0,0.0,0.0
+其他西餐,La Sepia,La Sepia,0,圣帕里,7.0,7.0,7.0
+其他西餐,Bucks Sportsbar Restaurant,Bucks Sportsbar Restaurant,0,城市中心-老城,7.5,7.5,8.4
+其他西餐,Weinwirtschaft Kleines Jacob,Weinwirtschaft Kleines Jacob,0,内斯特滕/布兰肯尼斯,7.1,7.5,7.5
+其他西餐,Grill Haus Der Grieche,Grill Haus Der Grieche,0,其他,7.2,7.6,7.6
+其他西餐,Old Commercial Room,Old Commercial Room,0,城市中心-新城,6.5,7.1,6.8
+其他西餐,Schanzenbaeckerei,Schanzenbaeckerei,0,城市中心-老城,6.7,6.7,7.5
+其他西餐,Paulaner's Miraculum,Paulaner's Miraculum,0,圣乔治,0.0,0.0,0.0
+其他西餐,Sagners Bistro Restaurant,Sagners Bistro Restaurant,0,霍赫菲尔德,0.0,0.0,0.0
+其他西餐,Block House,Block House,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Casa Franco Caramba,Casa Franco Caramba,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Fischereihafen-Restaurant,Fischereihafen-Restaurant,0,圣帕里,0.0,0.0,0.0
+其他西餐,Parlament,Parlament,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Jahreszeiten Terrasse,Jahreszeiten Terrasse,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Die Bank,Die Bank,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,STOCKs Fischrestaurant,STOCKs Fischrestaurant,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Hofbrauhaus Hamburg,Hofbrauhaus Hamburg,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Groninger,Groninger,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Cox,Cox,0,圣乔治,0.0,0.0,0.0
+其他西餐,Franziskaner,Franziskaner,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Brauhaus ,Brauhaus ,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Tschebull,Tschebull,0,霍赫菲尔德,0.0,0.0,0.0
+其他西餐,Alte Krameramtsstuben von 1718,Alte Krameramtsstuben von 1718,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Kartoffel Keller,Kartoffel Keller,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,SABAI Restaurant,SABAI Restaurant,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Restaurant Landhaus Scherrer,Restaurant Landhaus Scherrer,0,奥藤森,0.0,0.0,0.0
+其他西餐,barcelona tapas,barcelona tapas,0,圣帕里,0.0,0.0,0.0
+其他西餐,Rollercoaster Restaurant Hamburg,Rollercoaster Restaurant Hamburg,0,其他,0.0,0.0,0.0
+其他西餐,Akadimia,Akadimia,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,Slowman,Slowman,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Opitz,Opitz,0,霍赫菲尔德,0.0,0.0,0.0
+其他西餐,Restaurante Porto,Restaurante Porto,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Das Dorf,Das Dorf,0,圣乔治,0.0,0.0,0.0
+其他西餐,Friesenkeller,Friesenkeller,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Blockbrau brauhaus,Blockbrau brauhaus,0,圣帕里,0.0,0.0,0.0
+其他西餐,Casse-Croute,Casse-Croute,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Restaurante Carrasco Steakhouse,Restaurante Carrasco Steakhouse,0,奥藤森,0.0,0.0,0.0
+其他西餐,Uhlenhorster Weinstube,Uhlenhorster Weinstube,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Genno's,Genno's,0,埃尔伯科,0.0,0.0,0.0
+其他西餐,Meson Galicia,Meson Galicia,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+其他西餐,Oktober,Oktober,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+其他西餐,Saliba,Saliba,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Das Seepferdchen,Das Seepferdchen,0,圣帕里,0.0,0.0,0.0
+其他西餐,Block House Restaurant,Block House Restaurant,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Teigtasche,Teigtasche,0,圣帕里,0.0,0.0,0.0
+其他西餐,Zollenspieker Fahrhaus,Zollenspieker Fahrhaus,0,其他,0.0,0.0,0.0
+其他西餐,Block House,Block House,0,其他,0.0,0.0,0.0
+其他西餐,Taverna Olympisches Feuer,Taverna Olympisches Feuer,0,圣帕里,0.0,0.0,0.0
+其他西餐,Block House,Block House,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Casino Kampnagel,Casino Kampnagel,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Speicher 52,Speicher 52,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Hans Im Gluck Burgergrill,Hans Im Gluck Burgergrill,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant & Kaffee ,Restaurant & Kaffee ,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+其他西餐,Pasalo Bien Restaurante,Pasalo Bien Restaurante,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Alt Deutsche Kuche,Alt Deutsche Kuche,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,汉堡东北,0.0,0.0,0.0
+其他西餐,N Siebzehn,N Siebzehn,0,奥藤森,0.0,0.0,0.0
+其他西餐,Marché Airport Hamburg,Marché Airport Hamburg,0,汉堡机场,0.0,0.0,0.0
+其他西餐,Zur Alten Floete,Zur Alten Floete,0,圣乔治,0.0,0.0,0.0
+其他西餐,Hacker-Pschorr Hamburg,Hacker-Pschorr Hamburg,0,圣乔治,0.0,0.0,0.0
+其他西餐,Restaurant Kouros,Restaurant Kouros,0,圣乔治,0.0,0.0,0.0
+其他西餐,Rive,Rive,0,圣帕里,0.0,0.0,0.0
+其他西餐,Watergate Hamburg,Watergate Hamburg,0,圣帕里,0.0,0.0,0.0
+其他西餐,Block Bräu,Block Bräu,0,圣帕里,0.0,0.0,0.0
+其他西餐,clouds - Heaven's Bar & Kitchen,clouds - Heaven's Bar & Kitchen,0,圣帕里,0.0,0.0,0.0
+其他西餐,Freudenhaus,Freudenhaus,0,圣帕里,0.0,0.0,0.0
+其他西餐,Nil,Nil,0,圣帕里,0.0,0.0,0.0
+其他西餐,Schlachterborse,Schlachterborse,0,圣帕里,0.0,0.0,0.0
+其他西餐,Delta Bistro,Delta Bistro,0,圣帕里,0.0,0.0,0.0
+其他西餐,Frank und Frei,Frank und Frei,0,圣帕里,0.0,0.0,0.0
+其他西餐,Bullerei,Bullerei,0,圣帕里,0.0,0.0,0.0
+其他西餐,A Varina,A Varina,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Block House Gaensemarkt,Block House Gaensemarkt,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Jahreszeiten Grill,Jahreszeiten Grill,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,meatery bar + restaurant,meatery bar + restaurant,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Block House Othmarschen,Block House Othmarschen,0,其他,0.0,0.0,0.0
+其他西餐,Schweinske,Schweinske,0,其他,0.0,0.0,0.0
+其他西餐,Fillet of Soul,Fillet of Soul,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+其他西餐,Butcher's American Steakhouse,Butcher's American Steakhouse,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,Goldene Gans,Goldene Gans,0,奥藤森,0.0,0.0,0.0
+其他西餐,Hotel Restaurant Suellberg,Hotel Restaurant Suellberg,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+其他西餐,Estancia Steaks,Estancia Steaks,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Curry Queen,Curry Queen,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+其他西餐,Bruedigams,Bruedigams,0,Eimsbüttel,0.0,0.0,0.0
+其他西餐,Zum Sachsenwald Dubrovnik,Zum Sachsenwald Dubrovnik,0,其他,0.0,0.0,0.0
+其他西餐,"WIENER KAFFEE, Cafe & Restaurant","WIENER KAFFEE, Cafe & Restaurant",0,圣乔治,0.0,0.0,0.0
+其他西餐,Union Jack Gastronomie UG,Union Jack Gastronomie UG,0,圣乔治,0.0,0.0,0.0
+其他西餐,Restaurant Baku,Restaurant Baku,0,哈维斯特胡德,0.0,0.0,0.0
+其他西餐,St. Georg Steakhouse,St. Georg Steakhouse,0,圣乔治,0.0,0.0,0.0
+其他西餐,Maritimo,Maritimo,0,圣帕里,0.0,0.0,0.0
+其他西餐,River Kasematten,River Kasematten,0,圣帕里,0.0,0.0,0.0
+其他西餐,Taverna Hellas,Taverna Hellas,0,圣帕里,0.0,0.0,0.0
+其他西餐,Kopiba,Kopiba,0,圣帕里,0.0,0.0,0.0
+其他西餐,Taverna Romana,Taverna Romana,0,圣帕里,0.0,0.0,0.0
+其他西餐,Tapas y Mas,Tapas y Mas,0,圣帕里,0.0,0.0,0.0
+其他西餐,Transmontana,Transmontana,0,圣帕里,0.0,0.0,0.0
+其他西餐,Sudhang,Sudhang,0,圣帕里,0.0,0.0,0.0
+其他西餐,Casa do Benfica,Casa do Benfica,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Nau,Nau,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Rialto,Rialto,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Rheinische Republik,Rheinische Republik,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Karlsons,Karlsons,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,"The Irish Rover, Hamburg","The Irish Rover, Hamburg",0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Zum Spätzle,Zum Spätzle,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Leopolds Wirtshaus,Leopolds Wirtshaus,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Wohnhalle im Fairmont Vier Jahreszeiten Hotel,Wohnhalle im Fairmont Vier Jahreszeiten Hotel,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Die Kartoffelstube,Die Kartoffelstube,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Arizona Steak House,Arizona Steak House,0,其他,0.0,0.0,0.0
+其他西餐,Bacchus,Bacchus,0,其他,0.0,0.0,0.0
+其他西餐,Hotel-Restaurant ,Hotel-Restaurant ,0,其他,0.0,0.0,0.0
+其他西餐,BRABAND Bistro & Wein,BRABAND Bistro & Wein,0,汉堡机场,0.0,0.0,0.0
+其他西餐,Restaurant Lindos,Restaurant Lindos,0,汉堡机场,0.0,0.0,0.0
+其他西餐,Moevenpick Hamburg Airport,Moevenpick Hamburg Airport,0,汉堡机场,0.0,0.0,0.0
+其他西餐,Dieter Sanchez,Dieter Sanchez,0,汉堡机场,0.0,0.0,0.0
+其他西餐,Hofbrau Wirtshaus Wandsbek,Hofbrau Wirtshaus Wandsbek,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Ribling,Ribling,0,汉堡东北,0.0,0.0,0.0
+其他西餐,La Madera,La Madera,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Neumanns Bistro,Neumanns Bistro,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,Saliba,Saliba,0,阿尔托那,0.0,0.0,0.0
+其他西餐,Adele&Clodwig,Adele&Clodwig,0,奥藤森,0.0,0.0,0.0
+其他西餐,Hatari,Hatari,0,奥藤森,0.0,0.0,0.0
+其他西餐,Schweinske,Schweinske,0,奥藤森,0.0,0.0,0.0
+其他西餐,25hours Esszimmer,25hours Esszimmer,0,奥藤森,0.0,0.0,0.0
+其他西餐,Sagebiels Fahrhaus,Sagebiels Fahrhaus,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+其他西餐,Luhmanns Teestube,Luhmanns Teestube,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+其他西餐,Don Tapas,Don Tapas,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Marbella,Marbella,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,T.R.U.D.E.,T.R.U.D.E.,0,杜伊斯堡,0.0,0.0,0.0
+其他西餐,El Andaluz,El Andaluz,0,霍赫鲁夫,0.0,0.0,0.0
+其他西餐,Dubrovnik,Dubrovnik,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+其他西餐,Fleetschlosschen,Fleetschlosschen,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Fleetenkieker,Fleetenkieker,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Laufauf,Laufauf,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,O Cafe Central,O Cafe Central,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Paddy's Bar Hamburg,Paddy's Bar Hamburg,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Hofbrau Wirtshaus am Speersort,Hofbrau Wirtshaus am Speersort,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Currypapa,Currypapa,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Gasthaus an der Alster,Gasthaus an der Alster,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Restaurant River View,Restaurant River View,0,菲肯文德,0.0,0.0,0.0
+其他西餐,Le Marrakech,Le Marrakech,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+其他西餐,Gorilla Grill,Gorilla Grill,0,Eimsbüttel,0.0,0.0,0.0
+其他西餐,Restaurant Christos,Restaurant Christos,0,Eimsbüttel,0.0,0.0,0.0
+其他西餐,Xenios bei Themi,Xenios bei Themi,0,Eimsbüttel,0.0,0.0,0.0
+其他西餐,Le Petit Delice,Le Petit Delice,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Punker,Restaurant Punker,0,其他,0.0,0.0,0.0
+其他西餐,Baumann's Bierbar,Baumann's Bierbar,0,圣乔治,0.0,0.0,0.0
+其他西餐,Molana Persisches Restaurant,Molana Persisches Restaurant,0,圣乔治,0.0,0.0,0.0
+其他西餐,Taverna Ellada Hamburg,Taverna Ellada Hamburg,0,圣乔治,0.0,0.0,0.0
+其他西餐,Central Restaurant,Central Restaurant,0,圣乔治,0.0,0.0,0.0
+其他西餐,Fisch & So,Fisch & So,0,圣帕里,0.0,0.0,0.0
+其他西餐,The Big Balmy,The Big Balmy,0,圣帕里,0.0,0.0,0.0
+其他西餐,Elbperle,Elbperle,0,圣帕里,0.0,0.0,0.0
+其他西餐,Rado am Hafen,Rado am Hafen,0,圣帕里,0.0,0.0,0.0
+其他西餐,Hafenkante,Hafenkante,0,圣帕里,0.0,0.0,0.0
+其他西餐,Q-Bar,Q-Bar,0,圣帕里,0.0,0.0,0.0
+其他西餐,Napalm Beach,Napalm Beach,0,圣帕里,0.0,0.0,0.0
+其他西餐,Gun Club St. Pauli,Gun Club St. Pauli,0,圣帕里,0.0,0.0,0.0
+其他西餐,Angie s Nightclub,Angie s Nightclub,0,圣帕里,0.0,0.0,0.0
+其他西餐,Chavis Kulturcafe,Chavis Kulturcafe,0,圣帕里,0.0,0.0,0.0
+其他西餐,Backboard,Backboard,0,圣帕里,0.0,0.0,0.0
+其他西餐,Krug,Krug,0,圣帕里,0.0,0.0,0.0
+其他西餐,Imbiss bei Schorsch,Imbiss bei Schorsch,0,圣帕里,0.0,0.0,0.0
+其他西餐,Unter den Linden,Unter den Linden,0,圣帕里,0.0,0.0,0.0
+其他西餐,Bairro Alto,Bairro Alto,0,圣帕里,0.0,0.0,0.0
+其他西餐,Luxor,Luxor,0,圣帕里,0.0,0.0,0.0
+其他西餐,Restaurant Gaia - moderne mediterrane Kuche,Restaurant Gaia - moderne mediterrane Kuche,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,O'Frango,O'Frango,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,O Pescador,O Pescador,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Taberna El Paisa,Taberna El Paisa,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Kneipe Ost West,Kneipe Ost West,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Paulaner am Grossneumarkt,Paulaner am Grossneumarkt,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Fees Restaurant & Bar,Fees Restaurant & Bar,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Freisen Keller,Freisen Keller,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Broscheks Restaurant,Broscheks Restaurant,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Estoril,Estoril,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Weinrestaurant Kleinhuis,Weinrestaurant Kleinhuis,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Fleurie 78,Fleurie 78,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Virginia Burger,Virginia Burger,0,其他,0.0,0.0,0.0
+其他西餐,Kutscherstube,Kutscherstube,0,其他,0.0,0.0,0.0
+其他西餐,Mühlenstein,Mühlenstein,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Scharf,Restaurant Scharf,0,其他,0.0,0.0,0.0
+其他西餐,Taverna Korfu,Taverna Korfu,0,其他,0.0,0.0,0.0
+其他西餐,Dorfkrug Boberg,Dorfkrug Boberg,0,其他,0.0,0.0,0.0
+其他西餐,Grubes Fischerhutte,Grubes Fischerhutte,0,其他,0.0,0.0,0.0
+其他西餐,Dorotheum Wein und Raum,Dorotheum Wein und Raum,0,其他,0.0,0.0,0.0
+其他西餐,Waldcafe Corell,Waldcafe Corell,0,其他,0.0,0.0,0.0
+其他西餐,Gasthaus Pilio,Gasthaus Pilio,0,汉堡机场,0.0,0.0,0.0
+其他西餐,brimborium ,brimborium ,0,汉堡机场,0.0,0.0,0.0
+其他西餐,Restaurant Giorgio's Kitchen,Restaurant Giorgio's Kitchen,0,汉堡机场,0.0,0.0,0.0
+其他西餐,Restaurant Mylos,Restaurant Mylos,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Cafe Del Sol,Cafe Del Sol,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Der Gyros-Spezialist,Der Gyros-Spezialist,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Bar & Restaurant The Locks,Bar & Restaurant The Locks,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Kaminstube,Kaminstube,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Kroeger's Gasthaus,Kroeger's Gasthaus,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Cube Mia,Cube Mia,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,Windows,Windows,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,Bodos Bootsteg,Bodos Bootsteg,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,Gurke,Gurke,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,Las Tapas Bodega Bar Barcelona,Las Tapas Bodega Bar Barcelona,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,Doris,Doris,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,Patacón Pisao,Patacón Pisao,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,Cafe Nuestro,Cafe Nuestro,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,"Adria, Kroatisches Spezialitaten Restaurant","Adria, Kroatisches Spezialitaten Restaurant",0,哈姆,0.0,0.0,0.0
+其他西餐,Blaue Blume,Blaue Blume,0,阿尔托那,0.0,0.0,0.0
+其他西餐,Cardoza's,Cardoza's,0,阿尔托那,0.0,0.0,0.0
+其他西餐,Freischwimmer Hamburg,Freischwimmer Hamburg,0,阿尔托那,0.0,0.0,0.0
+其他西餐,HHanse Grill,HHanse Grill,0,贝格多夫,0.0,0.0,0.0
+其他西餐,Wehmanns Bistro,Wehmanns Bistro,0,奥藤森,0.0,0.0,0.0
+其他西餐,Landhaus Dill,Landhaus Dill,0,奥藤森,0.0,0.0,0.0
+其他西餐,Taverna Olympos,Taverna Olympos,0,奥藤森,0.0,0.0,0.0
+其他西餐,Taverna Kreta,Taverna Kreta,0,奥藤森,0.0,0.0,0.0
+其他西餐,Luna Sel,Luna Sel,0,奥藤森,0.0,0.0,0.0
+其他西餐,Madrigal,Madrigal,0,奥藤森,0.0,0.0,0.0
+其他西餐,O'Learys,O'Learys,0,奥藤森,0.0,0.0,0.0
+其他西餐,Puert Banus,Puert Banus,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+其他西餐,Rudolph,Rudolph,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+其他西餐,Wasserschloss Speicherstadt,Wasserschloss Speicherstadt,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Kafeka,Kafeka,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Curry-Pirates,Curry-Pirates,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Die Boutique,Die Boutique,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Cafe Hirsch,Cafe Hirsch,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Cafe Canale,Cafe Canale,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Frau Larsson,Frau Larsson,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Chapeau Grill & Bar,Chapeau Grill & Bar,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Restaurant Akropolis,Restaurant Akropolis,0,斯泰林根,0.0,0.0,0.0
+其他西餐,Restaurant Thessaloniki,Restaurant Thessaloniki,0,杜伊斯堡,0.0,0.0,0.0
+其他西餐,Gyros-Grill Santorini,Gyros-Grill Santorini,0,杜伊斯堡,0.0,0.0,0.0
+其他西餐,Restaurant Kalivrisi,Restaurant Kalivrisi,0,杜伊斯堡,0.0,0.0,0.0
+其他西餐,Wilhelms,Wilhelms,0,威尔海姆斯堡,0.0,0.0,0.0
+其他西餐,O Atlantico,O Atlantico,0,威尔海姆斯堡,0.0,0.0,0.0
+其他西餐,Factory Hasselbrook,Factory Hasselbrook,0,埃尔伯科,0.0,0.0,0.0
+其他西餐,Ufer,Ufer,0,霍赫鲁夫,0.0,0.0,0.0
+其他西餐,Wilder Kaiser,Wilder Kaiser,0,霍赫鲁夫,0.0,0.0,0.0
+其他西餐,El Chanti Deli,El Chanti Deli,0,霍赫鲁夫,0.0,0.0,0.0
+其他西餐,Don Cuba,Don Cuba,0,霍赫鲁夫,0.0,0.0,0.0
+其他西餐,La Caffetteria,La Caffetteria,0,霍赫鲁夫,0.0,0.0,0.0
+其他西餐,Petit Cafe,Petit Cafe,0,霍赫鲁夫,0.0,0.0,0.0
+其他西餐,STARTERS Restaurant & Weinbar,STARTERS Restaurant & Weinbar,0,霍赫鲁夫,0.0,0.0,0.0
+其他西餐,Dubrovnik Kupferkanne,Dubrovnik Kupferkanne,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+其他西餐,Taverna Olympiade,Taverna Olympiade,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+其他西餐,Steakhammer,Steakhammer,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+其他西餐,Lindenhof,Lindenhof,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+其他西餐,Avelino Tapas y Vino,Avelino Tapas y Vino,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Restaurant im Sprinkenhof,Restaurant im Sprinkenhof,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Kombuse,Kombuse,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,Mediterano,Mediterano,0,城市中心-老城,0.0,0.0,0.0
+其他西餐,fraulein K,fraulein K,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+其他西餐,Helo Restaurant,Helo Restaurant,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+其他西餐,MataHambre,MataHambre,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+其他西餐,Taverna Yiamas,Taverna Yiamas,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+其他西餐,Vagueira Tapas-Bar,Vagueira Tapas-Bar,0,圣乔治,0.0,0.0,0.0
+其他西餐,Steak & Fish House,Steak & Fish House,0,圣帕里,0.0,0.0,0.0
+其他西餐,Cojones,Cojones,0,圣帕里,0.0,0.0,0.0
+其他西餐,V.I.P. Steakhouse,V.I.P. Steakhouse,0,圣帕里,0.0,0.0,0.0
+其他西餐,Casa Ricardo,Casa Ricardo,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Julio's Restaurant Tapas-Bar,Julio's Restaurant Tapas-Bar,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Madhouse,Madhouse,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Das Treibhaus,Das Treibhaus,0,其他,0.0,0.0,0.0
+其他西餐,Landhaus Walter,Landhaus Walter,0,其他,0.0,0.0,0.0
+其他西餐,Redox House,Redox House,0,其他,0.0,0.0,0.0
+其他西餐,Rodizio Rio,Rodizio Rio,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Cafe und Restaurant im Herrenhaus,Cafe und Restaurant im Herrenhaus,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Bahrenfelder Forsthaus,Bahrenfelder Forsthaus,0,阿尔托那,0.0,0.0,0.0
+其他西餐,Fischrestaurant Hoppe,Fischrestaurant Hoppe,0,奥藤森,0.0,0.0,0.0
+其他西餐,Souterrain,Souterrain,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Taverna Omiros,Taverna Omiros,0,斯泰林根,0.0,0.0,0.0
+其他西餐,Taverna Symposium,Taverna Symposium,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+其他西餐,Zur Alten Muhle,Zur Alten Muhle,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+其他西餐,Diodos,Diodos,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Olive Tree - Mercure Hamburg an der Messe,Olive Tree - Mercure Hamburg an der Messe,0,圣帕里,0.0,0.0,0.0
+其他西餐,Schnitzelhus,Schnitzelhus,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Joey,Joey,0,贝格多夫,0.0,0.0,0.0
+其他西餐,Kassra,Kassra,0,圣乔治,0.0,0.0,0.0
+其他西餐,Turnhalle St. Georg,Turnhalle St. Georg,0,圣乔治,0.0,0.0,0.0
+其他西餐,Amadee,Amadee,0,圣帕里,0.0,0.0,0.0
+其他西餐,Anna,Anna,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Chai Room,Chai Room,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,News,News,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Gestern & Heute Treff,Gestern & Heute Treff,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Block House,Block House,0,城市中心-新城,0.0,0.0,0.0
+其他西餐,Porky's Pizza Lounge,Porky's Pizza Lounge,0,其他,0.0,0.0,0.0
+其他西餐,Thasos,Thasos,0,其他,0.0,0.0,0.0
+其他西餐,Okeanos,Okeanos,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Restaurant Stella D'oro,Restaurant Stella D'oro,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Cafe Woisin,Cafe Woisin,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Taverna Santorini,Taverna Santorini,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Bier-Restaurant Eulenkrug,Bier-Restaurant Eulenkrug,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Hotel-Restaurant Mellingburger Schleuse,Hotel-Restaurant Mellingburger Schleuse,0,汉堡东北,0.0,0.0,0.0
+其他西餐,Weinspeicher B,Weinspeicher B,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+其他西餐,Pluto,Pluto,0,罗森巴姆,0.0,0.0,0.0
+其他西餐,Big Easy,Big Easy,0,阿尔托那,0.0,0.0,0.0
+其他西餐,Olles,Olles,0,奥藤森,0.0,0.0,0.0
+其他西餐,Planet Subotnik,Planet Subotnik,0,奥藤森,0.0,0.0,0.0
+其他西餐,Cafe Buenos Aires,Cafe Buenos Aires,0,奥藤森,0.0,0.0,0.0
+其他西餐,Restaurant Tafelberg,Restaurant Tafelberg,0,乌伦霍斯特,0.0,0.0,0.0
+其他西餐,Plaza Restaurant,Plaza Restaurant,0,埃尔伯科,0.0,0.0,0.0
+其他西餐,Aberdeen Steakhouse,Aberdeen Steakhouse,0,霍赫鲁夫,0.0,0.0,0.0
+其他西餐,Klopstock Restaurant + Speiselokal,Klopstock Restaurant + Speiselokal,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+其他西餐,El Marques,El Marques,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+中餐,Rote Sonne,Rote Sonne,0,城市中心-老城,6.4,6.3,6.7
+中餐,Restaurant Ming Dynastie,Restaurant Ming Dynastie,0,埃尔伯科,7.5,6.7,7.5
+中餐,Mai Moon,Mai Moon,0,圣乔治,7.5,5.9,8.4
+中餐,China Restaurant Golden City,China Restaurant Golden City,0,海姆菲德/艾森多夫/霍比,6.8,6.8,6.8
+中餐,China-Restaurant Golden,China-Restaurant Golden,0,埃尔伯科,8.2,6.7,8.2
+中餐,China Restaurant Mongolei,China Restaurant Mongolei,0,汉堡东北,6.7,6.7,6.7
+中餐,Man Wah,Man Wah,0,圣帕里,0.0,0.0,0.0
+中餐,Xiao Xiang,Xiao Xiang,0,乌伦霍斯特,0.0,0.0,0.0
+中餐,Suzy Wong,Suzy Wong,0,罗森巴姆,0.0,0.0,0.0
+中餐,China Garten,China Garten,0,霍赫鲁夫,0.0,0.0,0.0
+中餐,4mosa,4mosa,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+中餐,Herr Kwong,Herr Kwong,0,城市中心-老城,0.0,0.0,0.0
+中餐,China Restaurant Bi Hu,China Restaurant Bi Hu,0,汉堡东北,0.0,0.0,0.0
+中餐,Der Chinese am Fleet,Der Chinese am Fleet,0,哈姆,0.0,0.0,0.0
+中餐,Shin Shin,Shin Shin,0,汉堡东北,0.0,0.0,0.0
+中餐,Wong Restaurant Delicious Asia,Wong Restaurant Delicious Asia,0,汉堡机场,0.0,0.0,0.0
+中餐,Tsao Yang,Tsao Yang,0,圣乔治,0.0,0.0,0.0
+中餐,Hoh & Hoh,Hoh & Hoh,0,其他,0.0,0.0,0.0
+中餐,New-China,New-China,0,埃尔伯科,0.0,0.0,0.0
+中餐,Tao,Tao,0,斯泰林根,0.0,0.0,0.0
+中餐,Peking,Peking,0,圣帕里,0.0,0.0,0.0
+中餐,Tai Pan Restaurant,Tai Pan Restaurant,0,圣帕里,0.0,0.0,0.0
+中餐,Panda,Panda,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+中餐,Lu Bo Lang,Lu Bo Lang,0,罗森巴姆,0.0,0.0,0.0
+中餐,Peking Ente,Peking Ente,0,其他,0.0,0.0,0.0
+日韩料理,Doc Cheng's,Doc Cheng's,0,城市中心-新城,0.0,0.0,0.0
+日韩料理,Katana Sushi,Katana Sushi,0,城市中心-新城,0.0,0.0,0.0
+日韩料理,Matsumi,Matsumi,0,城市中心-新城,0.0,0.0,0.0
+日韩料理,Sushi-circle,Sushi-circle,0,城市中心-新城,0.0,0.0,0.0
+日韩料理,Yoko Sushi,Yoko Sushi,0,汉堡东北,0.0,0.0,0.0
+日韩料理,Raw like sushi & more,Raw like sushi & more,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+日韩料理,Han Mi,Han Mi,0,罗森巴姆,0.0,0.0,0.0
+日韩料理,Daruma,Daruma,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+日韩料理,Akari,Akari,0,乌伦霍斯特,0.0,0.0,0.0
+日韩料理,Man-Nam,Man-Nam,0,圣帕里,0.0,0.0,0.0
+日韩料理,Sushi Factory Hamburg Rothenbaum,Sushi Factory Hamburg Rothenbaum,0,罗森巴姆,0.0,0.0,0.0
+日韩料理,Henssler Henssler,Henssler Henssler,0,圣帕里,0.0,0.0,0.0
+日韩料理,EAST Restaurant,EAST Restaurant,0,圣帕里,0.0,0.0,0.0
+日韩料理,Zipang,Zipang,0,霍赫鲁夫,0.0,0.0,0.0
+日韩料理,Jam Jam,Jam Jam,0,汉堡东北,0.0,0.0,0.0
+日韩料理,Kampai,Kampai,0,圣帕里,0.0,0.0,0.0
+日韩料理,Restaurant bok mikawa,Restaurant bok mikawa,0,圣帕里,0.0,0.0,0.0
+日韩料理,Asia Quick,Asia Quick,0,汉堡机场,0.0,0.0,0.0
+日韩料理,Bento Mania,Bento Mania,0,阿尔托那,0.0,0.0,0.0
+日韩料理,Sushibar Bergedorf,Sushibar Bergedorf,0,贝格多夫,0.0,0.0,0.0
+日韩料理,Sushi Ten,Sushi Ten,0,奥藤森,0.0,0.0,0.0
+日韩料理,Sushi Paradise,Sushi Paradise,0,埃尔伯科,0.0,0.0,0.0
+日韩料理,Sushi Circle,Sushi Circle,0,霍赫鲁夫,0.0,0.0,0.0
+日韩料理,Kim Chi,Kim Chi,0,Eimsbüttel,0.0,0.0,0.0
+日韩料理,Sushi Factory Sofitel Alter Wall,Sushi Factory Sofitel Alter Wall,0,城市中心-老城,0.0,0.0,0.0
+日韩料理,Kitsune Izakaya,Kitsune Izakaya,0,Eimsbüttel,0.0,0.0,0.0
+日韩料理,Sushi-Bar,Sushi-Bar,0,圣帕里,0.0,0.0,0.0
+日韩料理,Sushi Circle Gastronomie,Sushi Circle Gastronomie,0,城市中心-新城,0.0,0.0,0.0
+日韩料理,Sushi Lo,Sushi Lo,0,罗森巴姆,0.0,0.0,0.0
+日韩料理,WA-YO im Nippon Hotel,WA-YO im Nippon Hotel,0,乌伦霍斯特,0.0,0.0,0.0
+日韩料理,Hokkai,Hokkai,0,Eimsbüttel,0.0,0.0,0.0
+更多亚洲菜,Sala Thai,Sala Thai,0,克罗斯特托/哈默布鲁克,6.8,7.1,7.1
+更多亚洲菜,Mr. Cherng,Mr. Cherng,0,城市中心-老城,0.0,0.0,0.0
+更多亚洲菜,Cha Cha Thai Street Kitchen,Cha Cha Thai Street Kitchen,0,城市中心-新城,0.0,0.0,0.0
+更多亚洲菜,L' Amira,L' Amira,0,汉堡东北,0.0,0.0,0.0
+更多亚洲菜,Hanoi Deli Restaurant,Hanoi Deli Restaurant,0,城市中心-老城,0.0,0.0,0.0
+更多亚洲菜,Echt Asien,Echt Asien,0,其他,0.0,0.0,0.0
+更多亚洲菜,Copper House,Copper House,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,Curry Lounge,Curry Lounge,0,圣乔治,0.0,0.0,0.0
+更多亚洲菜,Chilli Club,Chilli Club,0,城市中心-老城,0.0,0.0,0.0
+更多亚洲菜,Quan Do,Quan Do,0,城市中心-老城,0.0,0.0,0.0
+更多亚洲菜,Sala Thai,Sala Thai,0,城市中心-老城,0.0,0.0,0.0
+更多亚洲菜,Tai Tan,Tai Tan,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多亚洲菜,Maharaja,Maharaja,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,Loving Hut,Loving Hut,0,城市中心-新城,0.0,0.0,0.0
+更多亚洲菜,Coast by East,Coast by East,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多亚洲菜,NIDO,NIDO,0,城市中心-老城,0.0,0.0,0.0
+更多亚洲菜,Kozlava Restaurant,Kozlava Restaurant,0,杜伊斯堡,0.0,0.0,0.0
+更多亚洲菜,Mongo's Restaurant,Mongo's Restaurant,0,霍赫鲁夫,0.0,0.0,0.0
+更多亚洲菜,Lades,Lades,0,圣乔治,0.0,0.0,0.0
+更多亚洲菜,L'Amira,L'Amira,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+更多亚洲菜,Kaiser Pavillon,Kaiser Pavillon,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bok,Bok,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,ARKADASCH,ARKADASCH,0,罗森巴姆,0.0,0.0,0.0
+更多亚洲菜,Breitengrad,Breitengrad,0,阿尔托那,0.0,0.0,0.0
+更多亚洲菜,Restaurant L'Orient,Restaurant L'Orient,0,阿尔托那,0.0,0.0,0.0
+更多亚洲菜,Koz Urfa,Koz Urfa,0,奥藤森,0.0,0.0,0.0
+更多亚洲菜,Samui Thai Cuisine,Samui Thai Cuisine,0,杜伊斯堡,0.0,0.0,0.0
+更多亚洲菜,Krishna,Krishna,0,贝格多夫,0.0,0.0,0.0
+更多亚洲菜,OZ Urfa,OZ Urfa,0,圣乔治,0.0,0.0,0.0
+更多亚洲菜,Hee-Yang Restaurant,Hee-Yang Restaurant,0,圣乔治,0.0,0.0,0.0
+更多亚洲菜,Mr. Kebab,Mr. Kebab,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,Restaurant Pamukkale Koz,Restaurant Pamukkale Koz,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,Sapa - Cuisine du Vietnam,Sapa - Cuisine du Vietnam,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,Mahlzeit,Mahlzeit,0,其他,0.0,0.0,0.0
+更多亚洲菜,Pheree-Thai,Pheree-Thai,0,汉堡机场,0.0,0.0,0.0
+更多亚洲菜,Dwaraka Indian Restaurant,Dwaraka Indian Restaurant,0,罗森巴姆,0.0,0.0,0.0
+更多亚洲菜,Thang Long,Thang Long,0,罗森巴姆,0.0,0.0,0.0
+更多亚洲菜,IndoChine,IndoChine,0,奥藤森,0.0,0.0,0.0
+更多亚洲菜,Green Papaya - Fine Asian Food,Green Papaya - Fine Asian Food,0,奥藤森,0.0,0.0,0.0
+更多亚洲菜,Shikara,Shikara,0,奥藤森,0.0,0.0,0.0
+更多亚洲菜,Jaipur,Jaipur,0,杜伊斯堡,0.0,0.0,0.0
+更多亚洲菜,Yak & Yeti,Yak & Yeti,0,霍赫鲁夫,0.0,0.0,0.0
+更多亚洲菜,Manee Thai,Manee Thai,0,城市中心-老城,0.0,0.0,0.0
+更多亚洲菜,Restaurant Delhi,Restaurant Delhi,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+更多亚洲菜,Manju,Manju,0,圣乔治,0.0,0.0,0.0
+更多亚洲菜,Huang,Huang,0,圣乔治,0.0,0.0,0.0
+更多亚洲菜,an an Asia Food,an an Asia Food,0,圣乔治,0.0,0.0,0.0
+更多亚洲菜,Indian Restaurant Gobinda,Indian Restaurant Gobinda,0,圣乔治,0.0,0.0,0.0
+更多亚洲菜,Le Su,Le Su,0,圣乔治,0.0,0.0,0.0
+更多亚洲菜,Shikara Quick,Shikara Quick,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,Asia Imbiss,Asia Imbiss,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,Asiahung -Bahnhof Dammtor,Asiahung -Bahnhof Dammtor,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,Thang Long,Thang Long,0,其他,0.0,0.0,0.0
+更多亚洲菜,Asia Lam,Asia Lam,0,汉堡东北,0.0,0.0,0.0
+更多亚洲菜,Balutschi,Balutschi,0,罗森巴姆,0.0,0.0,0.0
+更多亚洲菜,Nanamai - Vietnamese Style Baguettes,Nanamai - Vietnamese Style Baguettes,0,罗森巴姆,0.0,0.0,0.0
+更多亚洲菜,Little Buddha,Little Buddha,0,阿尔托那,0.0,0.0,0.0
+更多亚洲菜,Sai,Sai,0,贝格多夫,0.0,0.0,0.0
+更多亚洲菜,Mai Asia,Mai Asia,0,奥藤森,0.0,0.0,0.0
+更多亚洲菜,Balutschistan,Balutschistan,0,奥藤森,0.0,0.0,0.0
+更多亚洲菜,Cooko,Cooko,0,奥藤森,0.0,0.0,0.0
+更多亚洲菜,Polau,Polau,0,奥藤森,0.0,0.0,0.0
+更多亚洲菜,Tuk Tuk 31,Tuk Tuk 31,0,乌伦霍斯特,0.0,0.0,0.0
+更多亚洲菜,Bonbao,Bonbao,0,乌伦霍斯特,0.0,0.0,0.0
+更多亚洲菜,Grill House,Grill House,0,杜伊斯堡,0.0,0.0,0.0
+更多亚洲菜,Zala,Zala,0,埃尔伯科,0.0,0.0,0.0
+更多亚洲菜,Good Time Vietnam,Good Time Vietnam,0,霍赫鲁夫,0.0,0.0,0.0
+更多亚洲菜,Mai-Mai,Mai-Mai,0,城市中心-老城,0.0,0.0,0.0
+更多亚洲菜,Restaurant Saigon,Restaurant Saigon,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+更多亚洲菜,Balutschistan,Balutschistan,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+更多亚洲菜,Okzident Hamburg,Okzident Hamburg,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+更多亚洲菜,Thai Town,Thai Town,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,Asia Restaurant Thanh Dat,Asia Restaurant Thanh Dat,0,其他,0.0,0.0,0.0
+更多亚洲菜,Asia Lounge,Asia Lounge,0,罗森巴姆,0.0,0.0,0.0
+更多亚洲菜,Mangal Keyf,Mangal Keyf,0,埃尔伯科,0.0,0.0,0.0
+更多亚洲菜,Phuket,Phuket,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,Thai Cowboys,Thai Cowboys,0,圣帕里,0.0,0.0,0.0
+更多亚洲菜,Sun Kwong,Sun Kwong,0,城市中心-新城,0.0,0.0,0.0
+更多亚洲菜,Margeaux,Margeaux,0,其他,0.0,0.0,0.0
+更多亚洲菜,coa,coa,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多亚洲菜,Govindam,Govindam,0,罗森巴姆,0.0,0.0,0.0
+更多亚洲菜,Special Curry,Special Curry,0,斯泰林根,0.0,0.0,0.0
+快餐简餐,快乐哈姆汉堡,快乐哈姆汉堡,0,,8.1,6.7,7.4
+快餐简餐,Herzblut St. Pauli,Herzblut St. Pauli,0,圣帕里,0.0,0.0,0.0
+快餐简餐,Jim Block Jungfernstieg,Jim Block Jungfernstieg,0,城市中心-老城,0.0,0.0,0.0
+快餐简餐,Jim Block,Jim Block,0,城市中心-新城,0.0,0.0,0.0
+快餐简餐,Hummerstand Hanse-Viertel,Hummerstand Hanse-Viertel,0,城市中心-新城,0.0,0.0,0.0
+快餐简餐,Block House,Block House,0,贝格多夫,0.0,0.0,0.0
+快餐简餐,The Burger Lab,The Burger Lab,0,阿尔托那,0.0,0.0,0.0
+快餐简餐,The Bird,The Bird,0,圣帕里,0.0,0.0,0.0
+快餐简餐,Elbfisch,Elbfisch,0,奥藤森,0.0,0.0,0.0
+快餐简餐,Burger Lounge,Burger Lounge,0,圣帕里,0.0,0.0,0.0
+快餐简餐,Santa-Fe Restaurant & Cocktailbar,Santa-Fe Restaurant & Cocktailbar,0,乌伦霍斯特,0.0,0.0,0.0
+快餐简餐,Karls Cafe & Weine,Karls Cafe & Weine,0,奥藤森,0.0,0.0,0.0
+快餐简餐,Petit Delice,Petit Delice,0,城市中心-新城,0.0,0.0,0.0
+快餐简餐,Jimmys,Jimmys,0,贝格多夫,0.0,0.0,0.0
+快餐简餐,Jim Block Bergedorf,Jim Block Bergedorf,0,贝格多夫,0.0,0.0,0.0
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,圣帕里,0.0,0.0,0.0
+快餐简餐,华客来汉堡,华客来汉堡,0,,0.0,0.0,0.0
+快餐简餐,Big Easy,Big Easy,0,杜伊斯堡,0.0,0.0,0.0
+快餐简餐,Cindy`s Diner Hamburg-Airport,Cindy`s Diner Hamburg-Airport,0,汉堡机场,0.0,0.0,0.0
+快餐简餐,Hagenah GmbH & Co KG,Hagenah GmbH & Co KG,0,阿尔托那,0.0,0.0,0.0
+快餐简餐,Hotel-Restaurant ,Hotel-Restaurant ,0,其他,0.0,0.0,0.0
+快餐简餐,Jim Block Barmbek,Jim Block Barmbek,0,杜伊斯堡,0.0,0.0,0.0
+快餐简餐,Brooklyn Burger Bar,Brooklyn Burger Bar,0,城市中心-老城,0.0,0.0,0.0
+快餐简餐,Old MacDonald American Sportsbar,Old MacDonald American Sportsbar,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+快餐简餐,Jim Block Kirchenallee,Jim Block Kirchenallee,0,圣乔治,0.0,0.0,0.0
+快餐简餐,Texs Bar-B-Q,Texs Bar-B-Q,0,圣帕里,0.0,0.0,0.0
+快餐简餐,Bambusgarten,Bambusgarten,0,汉堡东北,0.0,0.0,0.0
+快餐简餐,Doris,Doris,0,罗森巴姆,0.0,0.0,0.0
+快餐简餐,Louisiana HH-Othmarschen,Louisiana HH-Othmarschen,0,奥藤森,0.0,0.0,0.0
+快餐简餐,Jim Block Othmarschen,Jim Block Othmarschen,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+快餐简餐,Hollywood Canteen III,Hollywood Canteen III,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+快餐简餐,Chicago Meatpackers Hamburg,Chicago Meatpackers Hamburg,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+快餐简餐,Mississippi Queen,Mississippi Queen,0,圣帕里,0.0,0.0,0.0
+快餐简餐,Mamalicious,Mamalicious,0,圣帕里,0.0,0.0,0.0
+快餐简餐,Cafe Schoene Aussichten,Cafe Schoene Aussichten,0,城市中心-新城,0.0,0.0,0.0
+快餐简餐,Louisiana HH-Volksdorf,Louisiana HH-Volksdorf,0,汉堡东北,0.0,0.0,0.0
+快餐简餐,Doria,Doria,0,圣乔治,0.0,0.0,0.0
+快餐简餐,JIM BLOCK,JIM BLOCK,0,罗森巴姆,0.0,0.0,0.0
+快餐简餐,泰安汉堡,泰安汉堡,0,,0.0,0.0,0.0
+海鲜,Fischmarkt,Fischmarkt,0,城市中心-新城,0.0,0.0,0.0
+海鲜,Hummer Pedersen,Hummer Pedersen,0,圣帕里,0.0,0.0,0.0
+海鲜,Picasso,Picasso,0,城市中心-老城,0.0,0.0,0.0
+海鲜,Jellyfish,Jellyfish,0,阿尔托那,0.0,0.0,0.0
+海鲜,se7en Ocean,se7en Ocean,0,其他,0.0,0.0,0.0
+海鲜,Liman Fish Restaurant,Liman Fish Restaurant,0,乌伦霍斯特,0.0,0.0,0.0
+海鲜,Ocean Restaurant,Ocean Restaurant,0,城市中心-新城,0.0,0.0,0.0
+海鲜,Fischrestaurant Taka,Fischrestaurant Taka,0,乌伦霍斯特,0.0,0.0,0.0
+海鲜,Daniel Wischer,Daniel Wischer,0,城市中心-老城,0.0,0.0,0.0
+海鲜,Gosch Sylt im Cafe Keese,Gosch Sylt im Cafe Keese,0,圣帕里,0.0,0.0,0.0
+海鲜,Fischerhaus,Fischerhaus,0,圣帕里,0.0,0.0,0.0
+海鲜,Fischbeisl,Fischbeisl,0,圣帕里,0.0,0.0,0.0
+海鲜,Steak Fisch & Schnitzelhaus,Steak Fisch & Schnitzelhaus,0,圣帕里,0.0,0.0,0.0
+烧烤,Zur Gondel,Zur Gondel,0,乌伦霍斯特,0.0,0.0,0.0
+烧烤,Burger King,Burger King,0,汉堡东北,0.0,0.0,0.0
+比萨,Pizza Maus,Pizza Maus,0,霍赫菲尔德,0.0,0.0,0.0
+比萨,Atlas,Atlas,0,阿尔托那,0.0,0.0,0.0
+比萨,Restaurant Alitalia,Restaurant Alitalia,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+比萨,Rudolph's,Rudolph's,0,城市中心-老城,0.0,0.0,0.0
+比萨,Trattoria L'Italiano Vero,Trattoria L'Italiano Vero,0,城市中心-老城,0.0,0.0,0.0
+比萨,Cucina D'Elisa,Cucina D'Elisa,0,罗森巴姆,0.0,0.0,0.0
+比萨,Ristorante Marilu,Ristorante Marilu,0,奥藤森,0.0,0.0,0.0
+比萨,La Cucina,La Cucina,0,其他,0.0,0.0,0.0
+比萨,Espresso Bar,Espresso Bar,0,罗森巴姆,0.0,0.0,0.0
+比萨,Ristorante Luna Pizzeria,Ristorante Luna Pizzeria,0,汉堡东北,0.0,0.0,0.0
+比萨,Trattoria Brunello,Trattoria Brunello,0,汉堡东北,0.0,0.0,0.0
+比萨,Ristorante Mediterraneo,Ristorante Mediterraneo,0,汉堡东北,0.0,0.0,0.0
+比萨,Sen Asia,Sen Asia,0,杜伊斯堡,0.0,0.0,0.0
+比萨,"Pizzeria, Ristorante Ponti","Pizzeria, Ristorante Ponti",0,城市中心-新城,0.0,0.0,0.0
+比萨,Joey,Joey,0,贝格多夫,0.0,0.0,0.0
+咖啡厅,Lieblingsplatz,Lieblingsplatz,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+咖啡厅,Condi Cafe im Hotel Vier Jahreszeiten,Condi Cafe im Hotel Vier Jahreszeiten,0,城市中心-新城,0.0,0.0,0.0
+咖啡厅,Von der Motte,Von der Motte,0,奥藤森,0.0,0.0,0.0
+咖啡厅,Cafelarigo,Cafelarigo,0,圣帕里,0.0,0.0,0.0
+咖啡厅,Cafe May,Cafe May,0,圣帕里,0.0,0.0,0.0
+咖啡厅,Stadtbackerei am Gansemarkt,Stadtbackerei am Gansemarkt,0,城市中心-新城,0.0,0.0,0.0
+咖啡厅,Tabi,Tabi,0,罗森巴姆,0.0,0.0,0.0
+咖啡厅,Cafe Elbgold,Cafe Elbgold,0,圣帕里,0.0,0.0,0.0
+咖啡厅,Café Mimosa,Café Mimosa,0,圣帕里,0.0,0.0,0.0
+咖啡厅,Cafe Panter,Cafe Panter,0,圣帕里,0.0,0.0,0.0
+咖啡厅,Wiener Conditorei Cafe Wirth,Wiener Conditorei Cafe Wirth,0,城市中心-老城,0.0,0.0,0.0
+咖啡厅,Daily Hamburg,Daily Hamburg,0,城市中心-新城,0.0,0.0,0.0
+咖啡厅,Godiva,Godiva,0,城市中心-新城,0.0,0.0,0.0
+咖啡厅,Pauline Café & Bistro,Pauline Café & Bistro,0,圣帕里,0.0,0.0,0.0
+咖啡厅,Amber Cafe,Amber Cafe,0,城市中心-新城,0.0,0.0,0.0
+咖啡厅,TH2,TH2,0,乌伦霍斯特,0.0,0.0,0.0
+咖啡厅,Cafe Milou,Cafe Milou,0,乌伦霍斯特,0.0,0.0,0.0
+咖啡厅,Cafe Glueck und Selig,Cafe Glueck und Selig,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+咖啡厅,Kaffeewelt,Kaffeewelt,0,圣乔治,0.0,0.0,0.0
+咖啡厅,Hamburg,Hamburg,0,圣乔治,0.0,0.0,0.0
+咖啡厅,Chakra Cafe,Chakra Cafe,0,圣帕里,0.0,0.0,0.0
+咖啡厅,Laurin Restaurant Bar Cafe,Laurin Restaurant Bar Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Marco Polo Coffee Shop,Marco Polo Coffee Shop,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+咖啡厅,Hallo Kleines,Hallo Kleines,0,阿尔托那,0.0,0.0,0.0
+咖啡厅,Aurel,Aurel,0,奥藤森,0.0,0.0,0.0
+咖啡厅,Restaurant Schmetzer,Restaurant Schmetzer,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+咖啡厅,Cafe Vju,Cafe Vju,0,威尔海姆斯堡,0.0,0.0,0.0
+咖啡厅,Kondiitorei Lindtner,Kondiitorei Lindtner,0,霍赫鲁夫,0.0,0.0,0.0
+咖啡厅,Cafe Leinpfad,Cafe Leinpfad,0,霍赫鲁夫,0.0,0.0,0.0
+咖啡厅,Beanie Bee Coffee Deluxe,Beanie Bee Coffee Deluxe,0,城市中心-老城,0.0,0.0,0.0
+咖啡厅,Double Coffee,Double Coffee,0,城市中心-老城,0.0,0.0,0.0
+咖啡厅,Black Delight,Black Delight,0,Eimsbüttel,0.0,0.0,0.0
+咖啡厅,Park Cafe,Park Cafe,0,圣帕里,0.0,0.0,0.0
+咖啡厅,Julius Meinl Cafe,Julius Meinl Cafe,0,城市中心-老城,0.0,0.0,0.0
+咖啡厅,Doria,Doria,0,圣乔治,0.0,0.0,0.0
+咖啡厅,Cafe Andersen,Cafe Andersen,0,城市中心-新城,0.0,0.0,0.0
+咖啡厅,Yo Mama Cafe,Yo Mama Cafe,0,阿尔托那,0.0,0.0,0.0
+咖啡厅,Restaurant Witthues,Restaurant Witthues,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+面包甜点,Mio,Mio,0,城市中心-新城,0.0,0.0,0.0
+面包甜点,Lieblings,Lieblings,0,圣帕里,0.0,0.0,0.0
+面包甜点,L'Italiana Gelateria,L'Italiana Gelateria,0,城市中心-老城,0.0,0.0,0.0
+面包甜点,Backerei Konditorei Pritsch,Backerei Konditorei Pritsch,0,乌伦霍斯特,0.0,0.0,0.0
+面包甜点,Back-Lava,Back-Lava,0,圣乔治,0.0,0.0,0.0
+面包甜点,My Cafe,My Cafe,0,杜伊斯堡,0.0,0.0,0.0
+面包甜点,Ahoi Hamburg,Ahoi Hamburg,0,城市中心-新城,0.0,0.0,0.0
+面包甜点,Metropolitain,Metropolitain,0,霍赫鲁夫,0.0,0.0,0.0
+面包甜点,Frau Ultrafrisch,Frau Ultrafrisch,0,乌伦霍斯特,0.0,0.0,0.0
+面包甜点,Eis Cafe Filippi,Eis Cafe Filippi,0,圣帕里,0.0,0.0,0.0
+面包甜点,Hegeperle,Hegeperle,0,霍赫鲁夫,0.0,0.0,0.0
+面包甜点,Cafe Greco,Cafe Greco,0,贝格多夫,0.0,0.0,0.0
+面包甜点,Janny's,Janny's,0,其他,0.0,0.0,0.0
+面包甜点,Eiscafe Toscana,Eiscafe Toscana,0,其他,0.0,0.0,0.0
+面包甜点,Monkey Donuts,Monkey Donuts,0,罗森巴姆,0.0,0.0,0.0
+面包甜点,Karen's Konditorei,Karen's Konditorei,0,罗森巴姆,0.0,0.0,0.0
+面包甜点,Eiscafe Venezia,Eiscafe Venezia,0,奥藤森,0.0,0.0,0.0
+面包甜点,Konditorei Hamburg Peter Boyens GmbH,Konditorei Hamburg Peter Boyens GmbH,0,乌伦霍斯特,0.0,0.0,0.0
+面包甜点,Taverna Kamiros,Taverna Kamiros,0,杜伊斯堡,0.0,0.0,0.0
+面包甜点,Rob & Stephen's Sweet Dreams Little Cake Co.,Rob & Stephen's Sweet Dreams Little Cake Co.,0,霍赫鲁夫,0.0,0.0,0.0
+面包甜点,Black Bean,Black Bean,0,汉堡机场,0.0,0.0,0.0
+面包甜点,乐尊鲜榨果汁,乐尊鲜榨果汁,0,城市中心-新城,0.0,0.0,0.0
+面包甜点,Eis-Meyer,Eis-Meyer,0,圣帕里,0.0,0.0,0.0
+面包甜点,Eiscafe Jacobs,Eiscafe Jacobs,0,汉堡东北,0.0,0.0,0.0
+酒吧,Hofbräuhaus,Hofbräuhaus,0,罗森巴姆,7.8,8.2,7.9
+酒吧,Groninger Braukeller,Groninger Braukeller,0,城市中心-老城,6.7,6.7,6.7
+酒吧,Brauhaus ,Brauhaus ,0,城市中心-新城,0.0,0.0,0.0
+酒吧,Tower Bar,Tower Bar,0,圣帕里,0.0,0.0,0.0
+酒吧,Cotton Club,Cotton Club,0,城市中心-新城,0.0,0.0,0.0
+酒吧,Max und Consorten,Max und Consorten,0,圣乔治,0.0,0.0,0.0
+酒吧,Kleine Pause,Kleine Pause,0,圣帕里,0.0,0.0,0.0
+酒吧,Dollhouse Hamburg,Dollhouse Hamburg,0,圣帕里,0.0,0.0,0.0
+酒吧,Das Herz von St. Pauli,Das Herz von St. Pauli,0,圣帕里,0.0,0.0,0.0
+酒吧,Pulverfass Travesty Cabaret,Pulverfass Travesty Cabaret,0,圣帕里,0.0,0.0,0.0
+酒吧,Café Mimosa,Café Mimosa,0,圣帕里,0.0,0.0,0.0
+酒吧,Le Bistro du Sofitel,Le Bistro du Sofitel,0,城市中心-老城,0.0,0.0,0.0
+酒吧,20up,20up,0,圣帕里,0.0,0.0,0.0
+酒吧,Der Bocksbeutel in den Collonaden,Der Bocksbeutel in den Collonaden,0,城市中心-新城,0.0,0.0,0.0
+酒吧,KEMP's English Pub,KEMP's English Pub,0,罗森巴姆,0.0,0.0,0.0
+酒吧,Tom's Saloon,Tom's Saloon,0,圣乔治,0.0,0.0,0.0
+酒吧,Black,Black,0,圣乔治,0.0,0.0,0.0
+酒吧,Bar Cabana,Bar Cabana,0,圣帕里,0.0,0.0,0.0
+酒吧,La Paloma,La Paloma,0,圣帕里,0.0,0.0,0.0
+酒吧,Hans-Alber-Klause,Hans-Alber-Klause,0,圣帕里,0.0,0.0,0.0
+酒吧,Thomas Read Irish Pub,Thomas Read Irish Pub,0,圣帕里,0.0,0.0,0.0
+酒吧,Wunder Bar,Wunder Bar,0,圣帕里,0.0,0.0,0.0
+酒吧,The Shamrock,The Shamrock,0,圣帕里,0.0,0.0,0.0
+酒吧,Kaiserperle,Kaiserperle,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+酒吧,Bootshaus Hafencity,Bootshaus Hafencity,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+酒吧,Logo,Logo,0,罗森巴姆,0.0,0.0,0.0
+酒吧,Das Kontor,Das Kontor,0,城市中心-老城,0.0,0.0,0.0
+酒吧,Finnegan's Wake,Finnegan's Wake,0,城市中心-老城,0.0,0.0,0.0
+酒吧,Karatren,Karatren,0,圣乔治,0.0,0.0,0.0
+酒吧,Bar Hamburg,Bar Hamburg,0,圣乔治,0.0,0.0,0.0
+酒吧,Bar Tabac,Bar Tabac,0,城市中心-新城,0.0,0.0,0.0
+酒吧,Lehmitz Weinstuben,Lehmitz Weinstuben,0,阿尔托那,0.0,0.0,0.0
+酒吧,Toms Saloon,Toms Saloon,0,圣乔治,0.0,0.0,0.0
+酒吧,COAST Winebar,COAST Winebar,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+酒吧,Elyssee,Elyssee,0,罗森巴姆,0.0,0.0,0.0
+酒吧,Vengo,Vengo,0,阿尔托那,0.0,0.0,0.0
+酒吧,Einstein,Einstein,0,霍赫菲尔德,0.0,0.0,0.0
+酒吧,Bar Du Nord,Bar Du Nord,0,乌伦霍斯特,0.0,0.0,0.0
+酒吧,Arrival Bar,Arrival Bar,0,菲肯文德,0.0,0.0,0.0
+更多美食,China Shudu Hamburg,China Shudu Hamburg,0,城市中心-老城,6.9,7.2,6.5
+更多美食,Hafen Hamburg,Hafen Hamburg,0,圣帕里,7.3,7.9,6.8
+更多美食,Cafe Paris,Cafe Paris,0,城市中心-老城,8.3,8.3,8.3
+更多美食,La Locanda,La Locanda,0,城市中心-新城,8.0,8.0,8.0
+更多美食,Atlantic Restaurant,Atlantic Restaurant,0,圣乔治,7.9,7.9,7.9
+更多美食,Pegasos,Pegasos,0,海姆菲德/艾森多夫/霍比,7.6,7.6,7.6
+更多美食,Dim Sum Haus - Restaurant China,Dim Sum Haus - Restaurant China,0,圣乔治,7.9,7.3,7.3
+更多美食,marblau OHG,marblau OHG,0,城市中心-新城,6.8,7.1,7.1
+更多美食,Starbucks,Starbucks,0,城市中心-新城,6.8,6.8,6.5
+更多美食,McDonald's im Hauptbahnhof,McDonald's im Hauptbahnhof,0,圣乔治,6.7,6.7,7.5
+更多美食,Tiffany,Tiffany,0,城市中心-新城,6.2,7.3,6.2
+更多美食,Christiansen's Fine Drinks & Cocktails,Christiansen's Fine Drinks & Cocktails,0,圣帕里,0.0,0.0,0.0
+更多美食,TASSAJARA,TASSAJARA,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,[m]eatery,[m]eatery,0,,0.0,0.0,0.0
+更多美食,NI HAO,NI HAO,0,汉堡东北,0.0,0.0,0.0
+更多美食,Bistro am Fleet,Bistro am Fleet,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Brook,Brook,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Le Ciel,Le Ciel,0,圣乔治,0.0,0.0,0.0
+更多美食,India House,India House,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Restaurant Waterkant,Restaurant Waterkant,0,圣帕里,0.0,0.0,0.0
+更多美食,Speicherstadt Kaffee,Speicherstadt Kaffee,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Die Fischkuche Restaurant Karin Brahm,Die Fischkuche Restaurant Karin Brahm,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Schweinske Hohenfelde,Schweinske Hohenfelde,0,霍赫菲尔德,0.0,0.0,0.0
+更多美食,Bich Ngoc Sushi-Asia-Food,Bich Ngoc Sushi-Asia-Food,0,圣乔治,0.0,0.0,0.0
+更多美食,Bar 'Seven Heads' DORINT SOFITEL AM ALTEN WALL,Bar 'Seven Heads' DORINT SOFITEL AM ALTEN WALL,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Schweinske,Schweinske,0,阿尔托那,0.0,0.0,0.0
+更多美食,Bottega Italia,Bottega Italia,0,圣乔治,0.0,0.0,0.0
+更多美食,Beiti,Beiti,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Due,Trattoria Due,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Restaurant Hala,Restaurant Hala,0,其他,0.0,0.0,0.0
+更多美食,Vlet Restaurant,Vlet Restaurant,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Restaurant Lenz,Restaurant Lenz,0,汉堡东北,0.0,0.0,0.0
+更多美食,NAGEL,NAGEL,0,圣乔治,0.0,0.0,0.0
+更多美食,Da Caio im The George Hotel,Da Caio im The George Hotel,0,圣乔治,0.0,0.0,0.0
+更多美食,Block House,Block House,0,圣乔治,0.0,0.0,0.0
+更多美食,Tarantella,Tarantella,0,圣帕里,0.0,0.0,0.0
+更多美食,Cha Cha GmbH,Cha Cha GmbH,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Kajuete,Kajuete,0,圣乔治,0.0,0.0,0.0
+更多美食,ALEX im Alsterpavillon,ALEX im Alsterpavillon,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Zum Alten Lotsenhaus,Zum Alten Lotsenhaus,0,奥藤森,0.0,0.0,0.0
+更多美食,Schones Leben,Schones Leben,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Casa del Sabor Restaurant,Casa del Sabor Restaurant,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Heimat Kuche + Bar,Heimat Kuche + Bar,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Frau Moller,Frau Moller,0,圣乔治,0.0,0.0,0.0
+更多美食,Veddeler Fischgaststatte,Veddeler Fischgaststatte,0,威尔海姆斯堡,0.0,0.0,0.0
+更多美食,Thamers,Thamers,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Mangold - das Restaurant im Gastwerk,Mangold - das Restaurant im Gastwerk,0,奥藤森,0.0,0.0,0.0
+更多美食,Vasco da Gama,Vasco da Gama,0,圣乔治,0.0,0.0,0.0
+更多美食,Apples Restaurant & Bar,Apples Restaurant & Bar,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Deichgraf,Deichgraf,0,城市中心-老城,0.0,0.0,0.0
+更多美食,"""Sailors Inn"" Inh. Gunter Klim...","""Sailors Inn"" Inh. Gunter Klim...",0,圣帕里,0.0,0.0,0.0
+更多美食,Alt Helgolaender Fischerstube,Alt Helgolaender Fischerstube,0,圣帕里,0.0,0.0,0.0
+更多美食,Brodersen Restaurant Hamburger Kuche,Brodersen Restaurant Hamburger Kuche,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Restaurant LEAF,Restaurant LEAF,0,奥藤森,0.0,0.0,0.0
+更多美食,Seven Seas,Seven Seas,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Brasserie Flum,Brasserie Flum,0,,0.0,0.0,0.0
+更多美食,Mutterland,Mutterland,0,圣乔治,0.0,0.0,0.0
+更多美食,Schach-Cafe,Schach-Cafe,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Curry Club,Curry Club,0,城市中心-新城,0.0,0.0,0.0
+更多美食,La Famiglia,La Famiglia,0,圣乔治,0.0,0.0,0.0
+更多美食,Gasthaus Offen,Gasthaus Offen,0,汉堡东北,0.0,0.0,0.0
+更多美食,Alsterhaus Restaurant - LeBuffet,Alsterhaus Restaurant - LeBuffet,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Piazza Romana,Piazza Romana,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Die Pizzeria,Die Pizzeria,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+更多美食,Restaurant Lindner Park-Hotel Hagenbeck,Restaurant Lindner Park-Hotel Hagenbeck,0,斯泰林根,0.0,0.0,0.0
+更多美食,Restaurant Daniel Wischer,Restaurant Daniel Wischer,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Pho Duc,Pho Duc,0,圣乔治,0.0,0.0,0.0
+更多美食,Captains Dinner,Captains Dinner,0,圣帕里,0.0,0.0,0.0
+更多美食,Lusitano,Lusitano,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Restaurant Treudelberg,Restaurant Treudelberg,0,汉堡东北,0.0,0.0,0.0
+更多美食,An Khang Restaurant,An Khang Restaurant,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Elbe 76,Elbe 76,0,Eimsbüttel,0.0,0.0,0.0
+更多美食,Badshah Imbiss Sweet Center,Badshah Imbiss Sweet Center,0,圣乔治,0.0,0.0,0.0
+更多美食,Hotel Abtei,Hotel Abtei,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,El Pulpo,El Pulpo,0,汉堡东北,0.0,0.0,0.0
+更多美食,Maredo,Maredo,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Schweinske Hamm,Schweinske Hamm,0,哈姆,0.0,0.0,0.0
+更多美食,Schoenes Leben im Alt Hamburger Buergerhaus,Schoenes Leben im Alt Hamburger Buergerhaus,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Melange,Melange,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Season im Bucerius Kunst Forum,Season im Bucerius Kunst Forum,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Trattoria Italiana Adriano Giordano,Trattoria Italiana Adriano Giordano,0,埃尔伯科,0.0,0.0,0.0
+更多美食,Green Lovers,Green Lovers,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Pianobar,Pianobar,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Cafe Koppel,Cafe Koppel,0,圣乔治,0.0,0.0,0.0
+更多美食,Restaurant Port,Restaurant Port,0,圣帕里,0.0,0.0,0.0
+更多美食,Dorfkrug Volksdorf,Dorfkrug Volksdorf,0,汉堡东北,0.0,0.0,0.0
+更多美食,Kuhne Lage,Kuhne Lage,0,阿尔托那,0.0,0.0,0.0
+更多美食,Kypros,Kypros,0,奥藤森,0.0,0.0,0.0
+更多美食,Lokal1,Lokal1,0,圣帕里,0.0,0.0,0.0
+更多美食,Burger King,Burger King,0,汉堡东北,0.0,0.0,0.0
+更多美食,Le Meridien Hamburg,Le Meridien Hamburg,0,圣乔治,0.0,0.0,0.0
+更多美食,Schweinske am Stadtpark,Schweinske am Stadtpark,0,其他,0.0,0.0,0.0
+更多美食,Shanghai China Restaurant,Shanghai China Restaurant,0,圣乔治,0.0,0.0,0.0
+更多美食,Croque Laden 68,Croque Laden 68,0,其他,0.0,0.0,0.0
+更多美食,QASR Restaurant,QASR Restaurant,0,霍赫菲尔德,0.0,0.0,0.0
+更多美食,KFC (Reeperbahn),KFC (Reeperbahn),0,圣帕里,0.0,0.0,0.0
+更多美食,Burger King,Burger King,0,其他,0.0,0.0,0.0
+更多美食,Spiros & Spiros,Spiros & Spiros,0,其他,0.0,0.0,0.0
+更多美食,Transmontana II,Transmontana II,0,阿尔托那,0.0,0.0,0.0
+更多美食,Alt Hamburger Burgerhaus,Alt Hamburger Burgerhaus,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Symposion,Symposion,0,其他,0.0,0.0,0.0
+更多美食,Shanghai,Shanghai,0,汉堡东北,0.0,0.0,0.0
+更多美食,Starbucks Coffee House Blankenese,Starbucks Coffee House Blankenese,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Da Mingo,Da Mingo,0,圣帕里,0.0,0.0,0.0
+更多美食,Coffee & Cakes,Coffee & Cakes,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Maredo,Maredo,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Cafe Hansa Steg,Cafe Hansa Steg,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Papillon,Papillon,0,斯泰林根,0.0,0.0,0.0
+更多美食,Fesstos,Fesstos,0,其他,0.0,0.0,0.0
+更多美食,Alt-Lohbrugger Hof,Alt-Lohbrugger Hof,0,贝格多夫,0.0,0.0,0.0
+更多美食,Maharani,Maharani,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,Engelke Pasta Olio Vino,Engelke Pasta Olio Vino,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,Ryan Carat Hotel,Ryan Carat Hotel,0,威尔海姆斯堡,0.0,0.0,0.0
+更多美食,WakuWaku,WakuWaku,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Essen & Trinken,Essen & Trinken,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Burger King,Burger King,0,其他,0.0,0.0,0.0
+更多美食,Forsthaus Bergedorf,Forsthaus Bergedorf,0,贝格多夫,0.0,0.0,0.0
+更多美食,Schiffer Borse,Schiffer Borse,0,圣乔治,0.0,0.0,0.0
+更多美食,Cafe Gnosa,Cafe Gnosa,0,圣乔治,0.0,0.0,0.0
+更多美食,Bruecke 10,Bruecke 10,0,圣帕里,0.0,0.0,0.0
+更多美食,Mess,Mess,0,圣帕里,0.0,0.0,0.0
+更多美食,Trattoria Cento Lire,Trattoria Cento Lire,0,圣帕里,0.0,0.0,0.0
+更多美食,Slim Jims,Slim Jims,0,圣帕里,0.0,0.0,0.0
+更多美食,Herr Max,Herr Max,0,圣帕里,0.0,0.0,0.0
+更多美食,Ristorante Borsalino,Ristorante Borsalino,0,圣帕里,0.0,0.0,0.0
+更多美食,Braugasthaus altes Mädchen,Braugasthaus altes Mädchen,0,圣帕里,0.0,0.0,0.0
+更多美食,Omas Apotheke,Omas Apotheke,0,圣帕里,0.0,0.0,0.0
+更多美食,Moevenpick Restaurant,Moevenpick Restaurant,0,圣帕里,0.0,0.0,0.0
+更多美食,Erste Liebe Bar,Erste Liebe Bar,0,城市中心-新城,0.0,0.0,0.0
+更多美食,StrandPauli,StrandPauli,0,其他,0.0,0.0,0.0
+更多美食,Landhaus Flottbek,Landhaus Flottbek,0,其他,0.0,0.0,0.0
+更多美食,Messmer Momentum,Messmer Momentum,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Bekaa Libanesisches Restaurant,Bekaa Libanesisches Restaurant,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Ristorante Terzetto,Ristorante Terzetto,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Twenty Six,Twenty Six,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Cafe Leonar,Cafe Leonar,0,罗森巴姆,0.0,0.0,0.0
+更多美食,La Monella,La Monella,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Restaurant Feuervogel Holstenstrasse,Restaurant Feuervogel Holstenstrasse,0,阿尔托那,0.0,0.0,0.0
+更多美食,Altamira,Altamira,0,阿尔托那,0.0,0.0,0.0
+更多美食,ANNO 1905,ANNO 1905,0,阿尔托那,0.0,0.0,0.0
+更多美食,Rach & Ritchy - Das Grillhaus,Rach & Ritchy - Das Grillhaus,0,阿尔托那,0.0,0.0,0.0
+更多美食,Kleine Brunnenstrasse 1,Kleine Brunnenstrasse 1,0,奥藤森,0.0,0.0,0.0
+更多美食,Strandperle,Strandperle,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Restaurant Engel,Restaurant Engel,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Jacobs Restaurant,Jacobs Restaurant,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Dal Fabbro Ristorante,Dal Fabbro Ristorante,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Witthus,Witthus,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Kuchenwerkstatt,Kuchenwerkstatt,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Kleiner Speisesaal,Kleiner Speisesaal,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,ONO by Steffen Henssler,ONO by Steffen Henssler,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Tiefenthal Bar Restaurant,Tiefenthal Bar Restaurant,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Zum Brandanfang,Zum Brandanfang,0,城市中心-老城,0.0,0.0,0.0
+更多美食,mama trattoria,mama trattoria,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Mo Grill,Mo Grill,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Poletto,Poletto,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+更多美食,Mazza,Mazza,0,Eimsbüttel,0.0,0.0,0.0
+更多美食,Restaurant Karyatis,Restaurant Karyatis,0,汉堡东北,0.0,0.0,0.0
+更多美食,Restaurant Oscar Eggers,Restaurant Oscar Eggers,0,汉堡东北,0.0,0.0,0.0
+更多美食,Zum Griechen,Zum Griechen,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+更多美食,King George Pub,King George Pub,0,霍赫菲尔德,0.0,0.0,0.0
+更多美食,Prego,Prego,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Punto Ernesto 2,Punto Ernesto 2,0,圣乔治,0.0,0.0,0.0
+更多美食,Sashimi,Sashimi,0,圣乔治,0.0,0.0,0.0
+更多美食,Restaurant / Cafe Alsace im Hotel Ibis,Restaurant / Cafe Alsace im Hotel Ibis,0,圣帕里,0.0,0.0,0.0
+更多美食,"""Hesburger"" Restaurant","""Hesburger"" Restaurant",0,圣帕里,0.0,0.0,0.0
+更多美食,Gasthaus,Gasthaus,0,圣帕里,0.0,0.0,0.0
+更多美食,Bistro Samarkand,Bistro Samarkand,0,其他,0.0,0.0,0.0
+更多美食,Verdi,Verdi,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Schweinske Billstedt,Schweinske Billstedt,0,哈姆,0.0,0.0,0.0
+更多美食,Jorgs Imbisswagen,Jorgs Imbisswagen,0,阿尔托那,0.0,0.0,0.0
+更多美食,Boussi Falafel - Europa Passage,Boussi Falafel - Europa Passage,0,城市中心-老城,0.0,0.0,0.0
+更多美食,"Alsterkrug Restaurant, Bar & Garten","Alsterkrug Restaurant, Bar & Garten",0,汉堡机场,0.0,0.0,0.0
+更多美食,Restaurant ATHINA bei Saki,Restaurant ATHINA bei Saki,0,其他,0.0,0.0,0.0
+更多美食,Sushi for Friends,Sushi for Friends,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+更多美食,Block House,Block House,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Fiedler s,Fiedler s,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Lavastein,Lavastein,0,贝格多夫,0.0,0.0,0.0
+更多美食,Restaurant Teheran,Restaurant Teheran,0,圣乔治,0.0,0.0,0.0
+更多美食,Kabul-Afghanische Spezialitaten,Kabul-Afghanische Spezialitaten,0,圣乔治,0.0,0.0,0.0
+更多美食,Traumzeit Hamburg,Traumzeit Hamburg,0,圣乔治,0.0,0.0,0.0
+更多美食,La Famille,La Famille,0,圣乔治,0.0,0.0,0.0
+更多美食,Schmilinsky,Schmilinsky,0,圣乔治,0.0,0.0,0.0
+更多美食,Lutter & Wegner,Lutter & Wegner,0,圣帕里,0.0,0.0,0.0
+更多美食,Warsteiner Elbspeicher,Warsteiner Elbspeicher,0,圣帕里,0.0,0.0,0.0
+更多美食,Zum Schellfischposten,Zum Schellfischposten,0,圣帕里,0.0,0.0,0.0
+更多美食,Zum Elbblick Restaurant,Zum Elbblick Restaurant,0,圣帕里,0.0,0.0,0.0
+更多美食,Roatan,Roatan,0,圣帕里,0.0,0.0,0.0
+更多美食,Rickmer Rickmers Gastronomie,Rickmer Rickmers Gastronomie,0,圣帕里,0.0,0.0,0.0
+更多美食,Dock 14,Dock 14,0,圣帕里,0.0,0.0,0.0
+更多美食,Fischpfanne,Fischpfanne,0,圣帕里,0.0,0.0,0.0
+更多美食,Schauermann,Schauermann,0,圣帕里,0.0,0.0,0.0
+更多美食,Kombuse,Kombuse,0,圣帕里,0.0,0.0,0.0
+更多美食,Hanoi-Vietnamesisches Restaurant,Hanoi-Vietnamesisches Restaurant,0,圣帕里,0.0,0.0,0.0
+更多美食,Schweinske,Schweinske,0,圣帕里,0.0,0.0,0.0
+更多美食,Das Speise- u. Stimmungslokal Hamborger Veermaster,Das Speise- u. Stimmungslokal Hamborger Veermaster,0,圣帕里,0.0,0.0,0.0
+更多美食,Piceno,Piceno,0,圣帕里,0.0,0.0,0.0
+更多美食,Ristorante da Benito Repoli,Ristorante da Benito Repoli,0,圣帕里,0.0,0.0,0.0
+更多美食,Nio,Nio,0,圣帕里,0.0,0.0,0.0
+更多美食,Cafe Miller,Cafe Miller,0,圣帕里,0.0,0.0,0.0
+更多美食,Klippkroog,Klippkroog,0,圣帕里,0.0,0.0,0.0
+更多美食,Cafe Absurd,Cafe Absurd,0,圣帕里,0.0,0.0,0.0
+更多美食,Jolie,Jolie,0,圣帕里,0.0,0.0,0.0
+更多美食,Ashoka,Ashoka,0,圣帕里,0.0,0.0,0.0
+更多美食,Remo's,Remo's,0,圣帕里,0.0,0.0,0.0
+更多美食,Da Leonardo,Da Leonardo,0,圣帕里,0.0,0.0,0.0
+更多美食,September,September,0,圣帕里,0.0,0.0,0.0
+更多美食,Mangold Lokal,Mangold Lokal,0,圣帕里,0.0,0.0,0.0
+更多美食,Gretchen's Villa,Gretchen's Villa,0,圣帕里,0.0,0.0,0.0
+更多美食,Azeitona,Azeitona,0,圣帕里,0.0,0.0,0.0
+更多美食,Jim Burrito's cantina,Jim Burrito's cantina,0,圣帕里,0.0,0.0,0.0
+更多美食,Erika's Eck,Erika's Eck,0,圣帕里,0.0,0.0,0.0
+更多美食,Schabi's Fischimbiss,Schabi's Fischimbiss,0,圣帕里,0.0,0.0,0.0
+更多美食,Moraba,Moraba,0,圣帕里,0.0,0.0,0.0
+更多美食,Bio Restaurant Schanzenstern,Bio Restaurant Schanzenstern,0,圣帕里,0.0,0.0,0.0
+更多美食,Kumpir,Kumpir,0,圣帕里,0.0,0.0,0.0
+更多美食,Falafelstern,Falafelstern,0,圣帕里,0.0,0.0,0.0
+更多美食,El Toro,El Toro,0,圣帕里,0.0,0.0,0.0
+更多美食,Nordsee,Nordsee,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Uberseebrucke,Uberseebrucke,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Churrascaria O Frango,Churrascaria O Frango,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Marinehof,Marinehof,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Piccolo Paradiso,Piccolo Paradiso,0,城市中心-新城,0.0,0.0,0.0
+更多美食,ArkadenCafe,ArkadenCafe,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Friesen Keller am Jungfernstieg,Friesen Keller am Jungfernstieg,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Maral,Maral,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Riads Restaurant,Riads Restaurant,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Feuerschiff,Feuerschiff,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Opera,Opera,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Campus Suite,Campus Suite,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Zum Eichbaum,Zum Eichbaum,0,其他,0.0,0.0,0.0
+更多美食,Stricker's Kehr Wieder Spitze,Stricker's Kehr Wieder Spitze,0,其他,0.0,0.0,0.0
+更多美食,Country Kitchen,Country Kitchen,0,其他,0.0,0.0,0.0
+更多美食,Lambert,Lambert,0,其他,0.0,0.0,0.0
+更多美食,Da Lui,Da Lui,0,其他,0.0,0.0,0.0
+更多美食,MEM - Open Kitchen,MEM - Open Kitchen,0,其他,0.0,0.0,0.0
+更多美食,Marlin,Marlin,0,其他,0.0,0.0,0.0
+更多美食,Wasserschloss,Wasserschloss,0,其他,0.0,0.0,0.0
+更多美食,VARIABLE,VARIABLE,0,汉堡机场,0.0,0.0,0.0
+更多美食,Zum Zeppelin,Zum Zeppelin,0,汉堡机场,0.0,0.0,0.0
+更多美食,Jok's Steakhouse,Jok's Steakhouse,0,汉堡机场,0.0,0.0,0.0
+更多美食,Kesselhaus,Kesselhaus,0,汉堡东北,0.0,0.0,0.0
+更多美食,L'Aurora,L'Aurora,0,汉堡东北,0.0,0.0,0.0
+更多美食,Khan Mongolei,Khan Mongolei,0,汉堡东北,0.0,0.0,0.0
+更多美食,Del,Del,0,汉堡东北,0.0,0.0,0.0
+更多美食,Watzmann Wirtshaus,Watzmann Wirtshaus,0,汉堡东北,0.0,0.0,0.0
+更多美食,Taormina,Taormina,0,汉堡东北,0.0,0.0,0.0
+更多美食,Toscanello,Toscanello,0,汉堡东北,0.0,0.0,0.0
+更多美食,Colln's Restaurant,Colln's Restaurant,0,汉堡东北,0.0,0.0,0.0
+更多美食,K. u. K. Kaffeehaus (Klein und Kaiserlich),K. u. K. Kaffeehaus (Klein und Kaiserlich),0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Oberhafenkantine,Oberhafenkantine,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Restaurant Caberlo,Restaurant Caberlo,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Henriks,Henriks,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Peking Enten Haus Restaurant Im- und Export GmbH,Peking Enten Haus Restaurant Im- und Export GmbH,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Spiesserei,Spiesserei,0,罗森巴姆,0.0,0.0,0.0
+更多美食,RAVEN,RAVEN,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Nur Hier,Nur Hier,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Torcello Restaurant,Torcello Restaurant,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Hindukusch,Hindukusch,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Abaton Bistro,Abaton Bistro,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Etrusker,Etrusker,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Zwick,Zwick,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Titanic,Titanic,0,阿尔托那,0.0,0.0,0.0
+更多美食,Witwenball,Witwenball,0,阿尔托那,0.0,0.0,0.0
+更多美食,Juwelier-Restaurant,Juwelier-Restaurant,0,阿尔托那,0.0,0.0,0.0
+更多美食,Olsen,Olsen,0,阿尔托那,0.0,0.0,0.0
+更多美食,Thang Long,Thang Long,0,阿尔托那,0.0,0.0,0.0
+更多美食,Bacchus,Bacchus,0,贝格多夫,0.0,0.0,0.0
+更多美食,Das Weisse Haus,Das Weisse Haus,0,奥藤森,0.0,0.0,0.0
+更多美食,Cafe Engel,Cafe Engel,0,奥藤森,0.0,0.0,0.0
+更多美食,Zur Traube,Zur Traube,0,奥藤森,0.0,0.0,0.0
+更多美食,FuH - Ein Raum zum Speisen,FuH - Ein Raum zum Speisen,0,奥藤森,0.0,0.0,0.0
+更多美食,Cuore Mio,Cuore Mio,0,奥藤森,0.0,0.0,0.0
+更多美食,Taverna Nostalgia,Taverna Nostalgia,0,奥藤森,0.0,0.0,0.0
+更多美食,Schweizweit,Schweizweit,0,奥藤森,0.0,0.0,0.0
+更多美食,Cafe Knuth,Cafe Knuth,0,奥藤森,0.0,0.0,0.0
+更多美食,Lila Nashorn,Lila Nashorn,0,奥藤森,0.0,0.0,0.0
+更多美食,Scotty's,Scotty's,0,奥藤森,0.0,0.0,0.0
+更多美食,Dubelsbrucker Kajut,Dubelsbrucker Kajut,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Quellental,Quellental,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Roperhof,Roperhof,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Il Sole,Il Sole,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Fischclub,Fischclub,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Ponton op'n Bulln,Ponton op'n Bulln,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Ahrberg,Ahrberg,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Blue Marlin,Blue Marlin,0,霍赫菲尔德,0.0,0.0,0.0
+更多美食,Anleger 1870,Anleger 1870,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Restaurant Rexrodt,Restaurant Rexrodt,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Alsterperle,Alsterperle,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Emmas Konditorei Cafe,Emmas Konditorei Cafe,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,La Fayette,La Fayette,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Piccobello,Piccobello,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,AMARANTO,AMARANTO,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Harms & Schacht,Harms & Schacht,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Arcada,Arcada,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Drei Tageszeiten Restaurant,Drei Tageszeiten Restaurant,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Truffelschwein,Truffelschwein,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Restaurant Louise,Restaurant Louise,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Kafayas,Kafayas,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Osterdeich,Osterdeich,0,斯泰林根,0.0,0.0,0.0
+更多美食,Cafe MAY,Cafe MAY,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Lezzet,Lezzet,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,ORCHIDEEN PALAST,ORCHIDEEN PALAST,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Hopi,Hopi,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,Brucke,Brucke,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,Gastronomie Putter im Anglo-German Club,Gastronomie Putter im Anglo-German Club,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,Block House Wandsbek,Block House Wandsbek,0,埃尔伯科,0.0,0.0,0.0
+更多美食,Trific,Trific,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Restaurant Imara,Restaurant Imara,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,PIUS Weinwirtschaft,PIUS Weinwirtschaft,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Casa de Aragon,Casa de Aragon,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,NOAS Hamburg,NOAS Hamburg,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Gandhi,Gandhi,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Chez Bernard la Cuisine du soleil,Chez Bernard la Cuisine du soleil,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Ristorante Morellino,Ristorante Morellino,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Balzac Coffee,Balzac Coffee,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Kopke,Kopke,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Sahlings Gasthaus,Sahlings Gasthaus,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+更多美食,Lilium,Lilium,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+更多美食,Al Limone,Al Limone,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+更多美食,Alt Hamburger Aalspeicher,Alt Hamburger Aalspeicher,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Kolonialwarenladen Heino Grosshaus,Kolonialwarenladen Heino Grosshaus,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Bistro Viale Antico,Bistro Viale Antico,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Sausalitos Hamburg gmbh,Sausalitos Hamburg gmbh,0,城市中心-老城,0.0,0.0,0.0
+更多美食,o-ren ishii,o-ren ishii,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Bodega Ole,Bodega Ole,0,城市中心-老城,0.0,0.0,0.0
+更多美食,La Tavola Calda,La Tavola Calda,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Alexandros,Alexandros,0,城市中心-老城,0.0,0.0,0.0
+更多美食,"Bar Le Lion, Hamburg","Bar Le Lion, Hamburg",0,城市中心-老城,0.0,0.0,0.0
+更多美食,Bistro La Forchetta,Bistro La Forchetta,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Die Roesterei,Die Roesterei,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Sakura Sushi Inh. Junjiro Gamo,Sakura Sushi Inh. Junjiro Gamo,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Ciu' Die Bar,Ciu' Die Bar,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Landungsbrucken Finkenwerder,Landungsbrucken Finkenwerder,0,菲肯文德,0.0,0.0,0.0
+更多美食,Trattoria Fadda,Trattoria Fadda,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+更多美食,Eppenlove,Eppenlove,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+更多美食,Il Tramonto,Il Tramonto,0,洛克施泰特/埃彭多夫,0.0,0.0,0.0
+更多美食,Dionysos,Dionysos,0,Eimsbüttel,0.0,0.0,0.0
+更多美食,ESSZIMMER-FeineKost,ESSZIMMER-FeineKost,0,Eimsbüttel,0.0,0.0,0.0
+更多美食,Speisekammer,Speisekammer,0,Eimsbüttel,0.0,0.0,0.0
+更多美食,Vesper's,Vesper's,0,Eimsbüttel,0.0,0.0,0.0
+更多美食,Vineyard Hamburg GmbH,Vineyard Hamburg GmbH,0,Eimsbüttel,0.0,0.0,0.0
+更多美食,Grill of ARABIA Inh. Munawar Hussein,Grill of ARABIA Inh. Munawar Hussein,0,Eimsbüttel,0.0,0.0,0.0
+更多美食,Cafe Strauss,Cafe Strauss,0,Eimsbüttel,0.0,0.0,0.0
+更多美食,Kleinhuis,Kleinhuis,0,,0.0,0.0,0.0
+更多美食,Landhaus Hamberge,Landhaus Hamberge,0,,0.0,0.0,0.0
+更多美食,Glocke,Glocke,0,其他,0.0,0.0,0.0
+更多美食,Bricks Lounge Bar,Bricks Lounge Bar,0,其他,0.0,0.0,0.0
+更多美食,Cafe Faux Vau,Cafe Faux Vau,0,其他,0.0,0.0,0.0
+更多美食,The Cube,The Cube,0,其他,0.0,0.0,0.0
+更多美食,Luncheonette,Luncheonette,0,其他,0.0,0.0,0.0
+更多美食,Vezos,Vezos,0,其他,0.0,0.0,0.0
+更多美食,Essraum,Essraum,0,圣乔治,0.0,0.0,0.0
+更多美食,Destille,Destille,0,圣乔治,0.0,0.0,0.0
+更多美食,Bella Roma,Bella Roma,0,圣乔治,0.0,0.0,0.0
+更多美食,Restaurant Vesuvio H.e.L.e. Gastro,Restaurant Vesuvio H.e.L.e. Gastro,0,圣乔治,0.0,0.0,0.0
+更多美食,Koz Ocakbasi,Koz Ocakbasi,0,圣乔治,0.0,0.0,0.0
+更多美食,Himalaya Kuche,Himalaya Kuche,0,圣乔治,0.0,0.0,0.0
+更多美食,Asia Hung,Asia Hung,0,圣乔治,0.0,0.0,0.0
+更多美食,Bistrot le Souterrain,Bistrot le Souterrain,0,圣乔治,0.0,0.0,0.0
+更多美食,Batman,Batman,0,圣乔治,0.0,0.0,0.0
+更多美食,Kantine im Deutschen Schauspielhaus,Kantine im Deutschen Schauspielhaus,0,圣乔治,0.0,0.0,0.0
+更多美食,Yorma`s AG,Yorma`s AG,0,圣乔治,0.0,0.0,0.0
+更多美食,Tehran,Tehran,0,圣乔治,0.0,0.0,0.0
+更多美食,Golden Cut,Golden Cut,0,圣乔治,0.0,0.0,0.0
+更多美食,Cita Rasa,Cita Rasa,0,圣乔治,0.0,0.0,0.0
+更多美食,Westwind,Westwind,0,圣乔治,0.0,0.0,0.0
+更多美食,Caravela,Caravela,0,圣乔治,0.0,0.0,0.0
+更多美食,Trattoria Italiana Da Francesco,Trattoria Italiana Da Francesco,0,圣乔治,0.0,0.0,0.0
+更多美食,Caffe Due,Caffe Due,0,圣乔治,0.0,0.0,0.0
+更多美食,Bellini Bar,Bellini Bar,0,圣乔治,0.0,0.0,0.0
+更多美食,Cafe Uhrlaub,Cafe Uhrlaub,0,圣乔治,0.0,0.0,0.0
+更多美食,Coffeebar Kyti Voo,Coffeebar Kyti Voo,0,圣乔治,0.0,0.0,0.0
+更多美食,Schank-und Speisewirtschaft Geelhaus,Schank-und Speisewirtschaft Geelhaus,0,圣乔治,0.0,0.0,0.0
+更多美食,Cafe Prusse,Cafe Prusse,0,圣乔治,0.0,0.0,0.0
+更多美食,Restaurant Unter Deck,Restaurant Unter Deck,0,圣乔治,0.0,0.0,0.0
+更多美食,LOBSTERHOUSE,LOBSTERHOUSE,0,圣帕里,0.0,0.0,0.0
+更多美食,Bar Cabana,Bar Cabana,0,圣帕里,0.0,0.0,0.0
+更多美食,Sushi Factory - Verwaltung,Sushi Factory - Verwaltung,0,圣帕里,0.0,0.0,0.0
+更多美食,Cafe Schmidt,Cafe Schmidt,0,圣帕里,0.0,0.0,0.0
+更多美食,Atlantik Fisch Versand,Atlantik Fisch Versand,0,圣帕里,0.0,0.0,0.0
+更多美食,Elbperle,Elbperle,0,圣帕里,0.0,0.0,0.0
+更多美食,EierCarl,EierCarl,0,圣帕里,0.0,0.0,0.0
+更多美食,PANTRY H. J. Karsuska,PANTRY H. J. Karsuska,0,圣帕里,0.0,0.0,0.0
+更多美食,Fischkajute,Fischkajute,0,圣帕里,0.0,0.0,0.0
+更多美食,Vespucci,Vespucci,0,圣帕里,0.0,0.0,0.0
+更多美食,Hamburg Del Mar,Hamburg Del Mar,0,圣帕里,0.0,0.0,0.0
+更多美食,RIverkasematten,RIverkasematten,0,圣帕里,0.0,0.0,0.0
+更多美食,Elbwerk,Elbwerk,0,圣帕里,0.0,0.0,0.0
+更多美食,Abendmahl,Abendmahl,0,圣帕里,0.0,0.0,0.0
+更多美食,Cafe Geyer,Cafe Geyer,0,圣帕里,0.0,0.0,0.0
+更多美食,Schmidts Tivoli - Schatto Pauli,Schmidts Tivoli - Schatto Pauli,0,圣帕里,0.0,0.0,0.0
+更多美食,Alt Hamburg Steakhaus,Alt Hamburg Steakhaus,0,圣帕里,0.0,0.0,0.0
+更多美食,Lucullus,Lucullus,0,圣帕里,0.0,0.0,0.0
+更多美食,Schmidts Tivoli - Dips`n Stix,Schmidts Tivoli - Dips`n Stix,0,圣帕里,0.0,0.0,0.0
+更多美食,Restaurant Joker,Restaurant Joker,0,圣帕里,0.0,0.0,0.0
+更多美食,Cafe Monopol im Hotel Monopol,Cafe Monopol im Hotel Monopol,0,圣帕里,0.0,0.0,0.0
+更多美食,Lima Lima,Lima Lima,0,圣帕里,0.0,0.0,0.0
+更多美食,Lehmitz,Lehmitz,0,圣帕里,0.0,0.0,0.0
+更多美食,Mimo`S Trattoria Italia,Mimo`S Trattoria Italia,0,圣帕里,0.0,0.0,0.0
+更多美食,Seepferdchen,Seepferdchen,0,圣帕里,0.0,0.0,0.0
+更多美食,scheune,scheune,0,圣帕里,0.0,0.0,0.0
+更多美食,Grosse Freiheit,Grosse Freiheit,0,圣帕里,0.0,0.0,0.0
+更多美食,Schweinske Bergedorf,Schweinske Bergedorf,0,圣帕里,0.0,0.0,0.0
+更多美食,Brachmanns Galeron,Brachmanns Galeron,0,圣帕里,0.0,0.0,0.0
+更多美食,Asia Imbiss Kim,Asia Imbiss Kim,0,圣帕里,0.0,0.0,0.0
+更多美食,Mr Dam,Mr Dam,0,圣帕里,0.0,0.0,0.0
+更多美食,Hummel u. Quiddje,Hummel u. Quiddje,0,圣帕里,0.0,0.0,0.0
+更多美食,Cafe Bar Rolo,Cafe Bar Rolo,0,圣帕里,0.0,0.0,0.0
+更多美食,Feuerstein,Feuerstein,0,圣帕里,0.0,0.0,0.0
+更多美食,Emmioglu Fallafel,Emmioglu Fallafel,0,圣帕里,0.0,0.0,0.0
+更多美食,Belutschistan,Belutschistan,0,圣帕里,0.0,0.0,0.0
+更多美食,mooi cafe & restaurant,mooi cafe & restaurant,0,圣帕里,0.0,0.0,0.0
+更多美食,CurryCultTreff St.Pauli,CurryCultTreff St.Pauli,0,圣帕里,0.0,0.0,0.0
+更多美食,Peacetanbul,Peacetanbul,0,圣帕里,0.0,0.0,0.0
+更多美食,Cafe Klatsch,Cafe Klatsch,0,圣帕里,0.0,0.0,0.0
+更多美食,Hate Harry,Hate Harry,0,圣帕里,0.0,0.0,0.0
+更多美食,Colmeia,Colmeia,0,圣帕里,0.0,0.0,0.0
+更多美食,Bok Restaurant Asiatische Kuche,Bok Restaurant Asiatische Kuche,0,圣帕里,0.0,0.0,0.0
+更多美食,Koch Kontor Inh. Martina Olufs,Koch Kontor Inh. Martina Olufs,0,圣帕里,0.0,0.0,0.0
+更多美食,kumpir-offene Backkartoffel mal anders,kumpir-offene Backkartoffel mal anders,0,圣帕里,0.0,0.0,0.0
+更多美食,Aqui Restaurant Tapas Bar,Aqui Restaurant Tapas Bar,0,圣帕里,0.0,0.0,0.0
+更多美食,Nordsee Fischspezialitaten GmbH Bahnhof Dammtor,Nordsee Fischspezialitaten GmbH Bahnhof Dammtor,0,圣帕里,0.0,0.0,0.0
+更多美食,Pamukkale Imbiss Tu,Pamukkale Imbiss Tu,0,圣帕里,0.0,0.0,0.0
+更多美食,Cafe Sul Schanze,Cafe Sul Schanze,0,圣帕里,0.0,0.0,0.0
+更多美食,Fernsehturm Hamburg,Fernsehturm Hamburg,0,圣帕里,0.0,0.0,0.0
+更多美食,Kimzen,Kimzen,0,圣帕里,0.0,0.0,0.0
+更多美食,B. Stenzel,B. Stenzel,0,圣帕里,0.0,0.0,0.0
+更多美食,Schroders Kartoffelhaus,Schroders Kartoffelhaus,0,圣帕里,0.0,0.0,0.0
+更多美食,Souperia,Souperia,0,圣帕里,0.0,0.0,0.0
+更多美食,Restaurant Artur Da Costas Fernandes,Restaurant Artur Da Costas Fernandes,0,圣帕里,0.0,0.0,0.0
+更多美食,Il Cammino,Il Cammino,0,圣帕里,0.0,0.0,0.0
+更多美食,Kostbar Bistro Cafe,Kostbar Bistro Cafe,0,圣帕里,0.0,0.0,0.0
+更多美食,Piazza,Piazza,0,圣帕里,0.0,0.0,0.0
+更多美食,Lokma,Lokma,0,圣帕里,0.0,0.0,0.0
+更多美食,Lutt'n Grill,Lutt'n Grill,0,圣帕里,0.0,0.0,0.0
+更多美食,DOWNUNDER,DOWNUNDER,0,圣帕里,0.0,0.0,0.0
+更多美食,Williamine,Williamine,0,圣帕里,0.0,0.0,0.0
+更多美食,Cap San Diego,Cap San Diego,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Sagres,Sagres,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Galego,Galego,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Westminster,Westminster,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Beira-Rio,Beira-Rio,0,城市中心-新城,0.0,0.0,0.0
+更多美食,O Pescador Portugiesische Spezialitaten,O Pescador Portugiesische Spezialitaten,0,城市中心-新城,0.0,0.0,0.0
+更多美食,D. Jose,D. Jose,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Gomes da Silva Virgilio Restaurant O Farol,Gomes da Silva Virgilio Restaurant O Farol,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Ciao Ana,Ciao Ana,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Madison Residenz,Madison Residenz,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Johannas Cafe,Johannas Cafe,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Noahs Taverna,Noahs Taverna,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Standige Vertretung,Standige Vertretung,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Noah's Taverna - Griechische & Syrische Kuche,Noah's Taverna - Griechische & Syrische Kuche,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Schweinske Neustadt,Schweinske Neustadt,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Kardelen,Kardelen,0,城市中心-新城,0.0,0.0,0.0
+更多美食,The coffee shop,The coffee shop,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Les Parisiennes,Les Parisiennes,0,城市中心-新城,0.0,0.0,0.0
+更多美食,SHIAWASE TEE - KULTUR - SUSHI,SHIAWASE TEE - KULTUR - SUSHI,0,城市中心-新城,0.0,0.0,0.0
+更多美食,nat. Fine Bio Food,nat. Fine Bio Food,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Dean&David Fresh to Eat,Dean&David Fresh to Eat,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Vin O Vin,Vin O Vin,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Butter Lindner,Butter Lindner,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Shalimar,Shalimar,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Restaurant La Prego,Restaurant La Prego,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Meyer Lansky's,Meyer Lansky's,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Kölsch und Altbierhaus am Gänsemarkt,Kölsch und Altbierhaus am Gänsemarkt,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Sushi Factory,Sushi Factory,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Restaurant & Bar H2O,Restaurant & Bar H2O,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Fellini,Fellini,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Cup&Cino,Cup&Cino,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Hamburger Stadtkrug,Hamburger Stadtkrug,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Klimperkiste,Klimperkiste,0,城市中心-新城,0.0,0.0,0.0
+更多美食,Restaurant Meinsbur,Restaurant Meinsbur,0,,0.0,0.0,0.0
+更多美食,Zur Luttenburg,Zur Luttenburg,0,其他,0.0,0.0,0.0
+更多美食,Olympia Ronneburger Park,Olympia Ronneburger Park,0,其他,0.0,0.0,0.0
+更多美食,De graue Esel,De graue Esel,0,其他,0.0,0.0,0.0
+更多美食,Goldener Engel,Goldener Engel,0,其他,0.0,0.0,0.0
+更多美食,Schweinske Neugraben,Schweinske Neugraben,0,其他,0.0,0.0,0.0
+更多美食,Faehrhaus Tatenberg,Faehrhaus Tatenberg,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Wasserturm,Restaurant Wasserturm,0,其他,0.0,0.0,0.0
+更多美食,Zur Elbbrucke,Zur Elbbrucke,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Philippos,Restaurant Philippos,0,其他,0.0,0.0,0.0
+更多美食,Bundt`s Gartenrestaurant,Bundt`s Gartenrestaurant,0,其他,0.0,0.0,0.0
+更多美食,Gasthaus zur Post,Gasthaus zur Post,0,其他,0.0,0.0,0.0
+更多美食,Oh it's fresh,Oh it's fresh,0,其他,0.0,0.0,0.0
+更多美食,Zum Falkenstein,Zum Falkenstein,0,其他,0.0,0.0,0.0
+更多美食,Don Quichotte,Don Quichotte,0,其他,0.0,0.0,0.0
+更多美食,Olympiade,Olympiade,0,其他,0.0,0.0,0.0
+更多美食,La Favola,La Favola,0,其他,0.0,0.0,0.0
+更多美食,Memory,Memory,0,其他,0.0,0.0,0.0
+更多美食,Kleine Waldschenke am Wildgehege,Kleine Waldschenke am Wildgehege,0,其他,0.0,0.0,0.0
+更多美食,"Alessandrini Ristorante LA STRADA, Umberto","Alessandrini Ristorante LA STRADA, Umberto",0,其他,0.0,0.0,0.0
+更多美食,Schumachers Biergarten - Inh. Kopp T.,Schumachers Biergarten - Inh. Kopp T.,0,其他,0.0,0.0,0.0
+更多美食,Die Bucht,Die Bucht,0,其他,0.0,0.0,0.0
+更多美食,Osteria da Enzo,Osteria da Enzo,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Armonia,Ristorante Armonia,0,其他,0.0,0.0,0.0
+更多美食,Memorandum,Memorandum,0,其他,0.0,0.0,0.0
+更多美食,Alster-Grilleck,Alster-Grilleck,0,其他,0.0,0.0,0.0
+更多美食,Pony-Waldschanke,Pony-Waldschanke,0,其他,0.0,0.0,0.0
+更多美食,Il Tesoro,Il Tesoro,0,其他,0.0,0.0,0.0
+更多美食,Tomfort,Tomfort,0,其他,0.0,0.0,0.0
+更多美食,Alexandros,Alexandros,0,汉堡机场,0.0,0.0,0.0
+更多美食,Dinos Pizzaservice,Dinos Pizzaservice,0,汉堡机场,0.0,0.0,0.0
+更多美食,Jas Steakhouse,Jas Steakhouse,0,汉堡机场,0.0,0.0,0.0
+更多美食,Taipei,Taipei,0,汉堡机场,0.0,0.0,0.0
+更多美食,Restaurante Pirandello/Niendorf,Restaurante Pirandello/Niendorf,0,汉堡机场,0.0,0.0,0.0
+更多美食,Schweinske Fuhlsbuttel,Schweinske Fuhlsbuttel,0,汉堡机场,0.0,0.0,0.0
+更多美食,Cafe Mutsch Bistro & Eiscafe,Cafe Mutsch Bistro & Eiscafe,0,汉堡机场,0.0,0.0,0.0
+更多美食,Restaurant Il Porcino,Restaurant Il Porcino,0,汉堡机场,0.0,0.0,0.0
+更多美食,Osteria Davino,Osteria Davino,0,汉堡机场,0.0,0.0,0.0
+更多美食,Va bene,Va bene,0,汉堡机场,0.0,0.0,0.0
+更多美食,Asia Wok,Asia Wok,0,汉堡机场,0.0,0.0,0.0
+更多美食,Costa Smeralda,Costa Smeralda,0,汉堡机场,0.0,0.0,0.0
+更多美食,Taj Mahal Indien Tandoorispezialitaten,Taj Mahal Indien Tandoorispezialitaten,0,汉堡机场,0.0,0.0,0.0
+更多美食,Sea Food,Sea Food,0,汉堡机场,0.0,0.0,0.0
+更多美食,Rotbuche,Rotbuche,0,汉堡机场,0.0,0.0,0.0
+更多美食,Dialog Restaurant,Dialog Restaurant,0,汉堡机场,0.0,0.0,0.0
+更多美食,Insulaner,Insulaner,0,汉堡机场,0.0,0.0,0.0
+更多美食,Racket Inn,Racket Inn,0,汉堡机场,0.0,0.0,0.0
+更多美食,Restaurant Artos,Restaurant Artos,0,汉堡东北,0.0,0.0,0.0
+更多美食,Lukullion,Lukullion,0,汉堡东北,0.0,0.0,0.0
+更多美食,Minas Restaurant,Minas Restaurant,0,汉堡东北,0.0,0.0,0.0
+更多美食,Christoffer,Christoffer,0,汉堡东北,0.0,0.0,0.0
+更多美食,Ata Turkische Spezialitaten,Ata Turkische Spezialitaten,0,汉堡东北,0.0,0.0,0.0
+更多美食,La Grotta,La Grotta,0,汉堡东北,0.0,0.0,0.0
+更多美食,Arktis EisCafe,Arktis EisCafe,0,汉堡东北,0.0,0.0,0.0
+更多美食,Party-Service Putenraucherei H. Giffey,Party-Service Putenraucherei H. Giffey,0,汉堡东北,0.0,0.0,0.0
+更多美食,Kwong,Kwong,0,汉堡东北,0.0,0.0,0.0
+更多美食,Ristorante Diamanti,Ristorante Diamanti,0,汉堡东北,0.0,0.0,0.0
+更多美食,Rio Grande,Rio Grande,0,汉堡东北,0.0,0.0,0.0
+更多美食,Bei Sakis,Bei Sakis,0,汉堡东北,0.0,0.0,0.0
+更多美食,Cafe Prinzess,Cafe Prinzess,0,汉堡东北,0.0,0.0,0.0
+更多美食,Restaurant Pane e Vino,Restaurant Pane e Vino,0,汉堡东北,0.0,0.0,0.0
+更多美食,Hellas,Hellas,0,汉堡东北,0.0,0.0,0.0
+更多美食,Alsterpark,Alsterpark,0,汉堡东北,0.0,0.0,0.0
+更多美食,Partyservice Vivere It. Spezial. Restaurant,Partyservice Vivere It. Spezial. Restaurant,0,汉堡东北,0.0,0.0,0.0
+更多美食,Tre Scalini Restautant,Tre Scalini Restautant,0,汉堡东北,0.0,0.0,0.0
+更多美食,Schnoor's Restaurant,Schnoor's Restaurant,0,汉堡东北,0.0,0.0,0.0
+更多美食,La Casetta,La Casetta,0,汉堡东北,0.0,0.0,0.0
+更多美食,Country House,Country House,0,汉堡东北,0.0,0.0,0.0
+更多美食,Restorante Valentino Pizzeria,Restorante Valentino Pizzeria,0,汉堡东北,0.0,0.0,0.0
+更多美食,Waldhaus Volksdorf,Waldhaus Volksdorf,0,汉堡东北,0.0,0.0,0.0
+更多美食,Restaurant Olive,Restaurant Olive,0,汉堡东北,0.0,0.0,0.0
+更多美食,Wiener Kaffeehaus,Wiener Kaffeehaus,0,汉堡东北,0.0,0.0,0.0
+更多美食,Restaurant Poppenbutteler Hof,Restaurant Poppenbutteler Hof,0,汉堡东北,0.0,0.0,0.0
+更多美食,La Differenza,La Differenza,0,汉堡东北,0.0,0.0,0.0
+更多美食,Tinos,Tinos,0,汉堡东北,0.0,0.0,0.0
+更多美食,BB Bistro,BB Bistro,0,汉堡东北,0.0,0.0,0.0
+更多美食,Dinea,Dinea,0,汉堡东北,0.0,0.0,0.0
+更多美食,Emilia,Emilia,0,汉堡东北,0.0,0.0,0.0
+更多美食,Zorbas Restaurant,Zorbas Restaurant,0,汉堡东北,0.0,0.0,0.0
+更多美食,Schweinske Poppenbuttel,Schweinske Poppenbuttel,0,汉堡东北,0.0,0.0,0.0
+更多美食,Fidelio,Fidelio,0,汉堡东北,0.0,0.0,0.0
+更多美食,Cafe Reinhardt Backerei & Konditorei,Cafe Reinhardt Backerei & Konditorei,0,汉堡东北,0.0,0.0,0.0
+更多美食,49 Winebar im Mellinghus,49 Winebar im Mellinghus,0,汉堡东北,0.0,0.0,0.0
+更多美食,Kelbg Das Waldrestaurant,Kelbg Das Waldrestaurant,0,汉堡东北,0.0,0.0,0.0
+更多美食,MELLINGHUS Petersen & Poulsen Helm GbR,MELLINGHUS Petersen & Poulsen Helm GbR,0,汉堡东北,0.0,0.0,0.0
+更多美食,Quellenhof,Quellenhof,0,汉堡东北,0.0,0.0,0.0
+更多美食,Zur Kastanie,Zur Kastanie,0,汉堡东北,0.0,0.0,0.0
+更多美食,Duvenstedter Eiscafe,Duvenstedter Eiscafe,0,汉堡东北,0.0,0.0,0.0
+更多美食,Campino,Campino,0,汉堡东北,0.0,0.0,0.0
+更多美食,Rio Grande,Rio Grande,0,汉堡东北,0.0,0.0,0.0
+更多美食,Die Muehle,Die Muehle,0,汉堡东北,0.0,0.0,0.0
+更多美食,Langnese Happyness Station,Langnese Happyness Station,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Langnese Café - HafenCity,Langnese Café - HafenCity,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Zum Schiffchen,Zum Schiffchen,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Skyline Restaurant,Skyline Restaurant,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Wandrahm,Wandrahm,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Kaisers,Kaisers,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Pastaria,Pastaria,0,克罗斯特托/哈默布鲁克,0.0,0.0,0.0
+更多美食,Cafe Campus,Cafe Campus,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Blinmaster,Blinmaster,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Bakerya,Bakerya,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Broders Figlio,Broders Figlio,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Signatures,Signatures,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Pauls,Pauls,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Roxie,Roxie,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Curry Grindel,Curry Grindel,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Balutschistan,Balutschistan,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Trastevere Uno,Trastevere Uno,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Schweinske,Schweinske,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Bolero,Bolero,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Cafe David,Cafe David,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Bistro Jerusalem,Bistro Jerusalem,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Cafe Liebling,Cafe Liebling,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Hahnchenkeller,Hahnchenkeller,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Kuchenfreunde,Kuchenfreunde,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Restaurant La Madrague,Restaurant La Madrague,0,罗森巴姆,0.0,0.0,0.0
+更多美食,Alster Cliff,Alster Cliff,0,罗森巴姆,0.0,0.0,0.0
+更多美食,El - Monte Tapas Bar,El - Monte Tapas Bar,0,哈姆,0.0,0.0,0.0
+更多美食,Meram Restaurant,Meram Restaurant,0,哈姆,0.0,0.0,0.0
+更多美食,Einstein-Bistro-Restaurant,Einstein-Bistro-Restaurant,0,哈姆,0.0,0.0,0.0
+更多美食,Jugoslavija-Grill,Jugoslavija-Grill,0,哈姆,0.0,0.0,0.0
+更多美食,Restaurant Dubrovnik,Restaurant Dubrovnik,0,哈姆,0.0,0.0,0.0
+更多美食,Tibetisches Restaurant,Tibetisches Restaurant,0,阿尔托那,0.0,0.0,0.0
+更多美食,Restaurant Tibet,Restaurant Tibet,0,阿尔托那,0.0,0.0,0.0
+更多美食,parallelwelt,parallelwelt,0,阿尔托那,0.0,0.0,0.0
+更多美食,Shankra Quick,Shankra Quick,0,阿尔托那,0.0,0.0,0.0
+更多美食,Cantina 33,Cantina 33,0,阿尔托那,0.0,0.0,0.0
+更多美食,Das Juli,Das Juli,0,阿尔托那,0.0,0.0,0.0
+更多美食,L'Incontro da Cosimo,L'Incontro da Cosimo,0,阿尔托那,0.0,0.0,0.0
+更多美食,Froggy's,Froggy's,0,阿尔托那,0.0,0.0,0.0
+更多美食,La Taskita,La Taskita,0,阿尔托那,0.0,0.0,0.0
+更多美食,Raj Mahal,Raj Mahal,0,阿尔托那,0.0,0.0,0.0
+更多美食,Mareas Tappasbar,Mareas Tappasbar,0,阿尔托那,0.0,0.0,0.0
+更多美食,Cafe Estrella,Cafe Estrella,0,阿尔托那,0.0,0.0,0.0
+更多美食,China King,China King,0,阿尔托那,0.0,0.0,0.0
+更多美食,"Bahrenfelder Hof, Inh. Arps Gerald","Bahrenfelder Hof, Inh. Arps Gerald",0,阿尔托那,0.0,0.0,0.0
+更多美食,CODIMEX Handels- und Dienstleistungs,CODIMEX Handels- und Dienstleistungs,0,阿尔托那,0.0,0.0,0.0
+更多美食,Qrito,Qrito,0,阿尔托那,0.0,0.0,0.0
+更多美食,Kuddl,Kuddl,0,阿尔托那,0.0,0.0,0.0
+更多美食,Cafe Estoril,Cafe Estoril,0,阿尔托那,0.0,0.0,0.0
+更多美食,Achilleon,Achilleon,0,贝格多夫,0.0,0.0,0.0
+更多美食,"Grill Station Corfu, Taverna Corfu","Grill Station Corfu, Taverna Corfu",0,贝格多夫,0.0,0.0,0.0
+更多美食,Alex Treff,Alex Treff,0,贝格多夫,0.0,0.0,0.0
+更多美食,Taverna Nostos,Taverna Nostos,0,贝格多夫,0.0,0.0,0.0
+更多美食,River Grill Hamburg,River Grill Hamburg,0,奥藤森,0.0,0.0,0.0
+更多美食,Elbterrassen Biergarten an der Elbe,Elbterrassen Biergarten an der Elbe,0,奥藤森,0.0,0.0,0.0
+更多美食,Sutsche Oevelgoenne Betriebsgesellschaft mbH,Sutsche Oevelgoenne Betriebsgesellschaft mbH,0,奥藤森,0.0,0.0,0.0
+更多美食,Hafenbahnhof,Hafenbahnhof,0,奥藤森,0.0,0.0,0.0
+更多美食,Cafe Ribatejo,Cafe Ribatejo,0,奥藤森,0.0,0.0,0.0
+更多美食,Cafe Katelbach,Cafe Katelbach,0,奥藤森,0.0,0.0,0.0
+更多美食,Tide,Tide,0,奥藤森,0.0,0.0,0.0
+更多美食,Cosmos LifeStyle GmbH,Cosmos LifeStyle GmbH,0,奥藤森,0.0,0.0,0.0
+更多美食,Goldene Gans,Goldene Gans,0,奥藤森,0.0,0.0,0.0
+更多美食,Reh Bar,Reh Bar,0,奥藤森,0.0,0.0,0.0
+更多美食,Mar y Sol,Mar y Sol,0,奥藤森,0.0,0.0,0.0
+更多美食,LilliSu,LilliSu,0,奥藤森,0.0,0.0,0.0
+更多美食,Beykebab,Beykebab,0,奥藤森,0.0,0.0,0.0
+更多美食,Tarifa,Tarifa,0,奥藤森,0.0,0.0,0.0
+更多美食,Eclair Au Cafe,Eclair Au Cafe,0,奥藤森,0.0,0.0,0.0
+更多美食,L,L,0,奥藤森,0.0,0.0,0.0
+更多美食,Filmhauskneipe,Filmhauskneipe,0,奥藤森,0.0,0.0,0.0
+更多美食,Querbeet,Querbeet,0,奥藤森,0.0,0.0,0.0
+更多美食,Veg Out ... Vegetarisch Geniessen,Veg Out ... Vegetarisch Geniessen,0,奥藤森,0.0,0.0,0.0
+更多美食,Il Vagabondo,Il Vagabondo,0,奥藤森,0.0,0.0,0.0
+更多美食,Pizza al Taglio Via Vai,Pizza al Taglio Via Vai,0,奥藤森,0.0,0.0,0.0
+更多美食,Cafe Sha,Cafe Sha,0,奥藤森,0.0,0.0,0.0
+更多美食,Sinem Indian Restaurant,Sinem Indian Restaurant,0,奥藤森,0.0,0.0,0.0
+更多美食,Nepheli Ristorant,Nepheli Ristorant,0,奥藤森,0.0,0.0,0.0
+更多美食,Blizzeria,Blizzeria,0,奥藤森,0.0,0.0,0.0
+更多美食,Suesswasser,Suesswasser,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Ralph,Ralph,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Marktplatz,Marktplatz,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,To'n Peerstall,To'n Peerstall,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Knips Bar Restaurant,Knips Bar Restaurant,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Kajute SB 12,Kajute SB 12,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Cafegarten Schuldt,Cafegarten Schuldt,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Riva,Riva,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Linde,Linde,0,内斯特滕/布兰肯尼斯,0.0,0.0,0.0
+更多美食,Hotel Berlin,Hotel Berlin,0,霍赫菲尔德,0.0,0.0,0.0
+更多美食,Restaurant Thyme,Restaurant Thyme,0,霍赫菲尔德,0.0,0.0,0.0
+更多美食,La Serenissima,La Serenissima,0,霍赫菲尔德,0.0,0.0,0.0
+更多美食,Tom Yam,Tom Yam,0,霍赫菲尔德,0.0,0.0,0.0
+更多美食,Osho Ayu Leela,Osho Ayu Leela,0,霍赫菲尔德,0.0,0.0,0.0
+更多美食,Alsterperle,Alsterperle,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Mercier und Camier,Mercier und Camier,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Himmel und Erde - Floristik und Cafe am Hofweg,Himmel und Erde - Floristik und Cafe am Hofweg,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Flickenschildt,Flickenschildt,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Louisiana,Louisiana,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Elbwarte,Elbwarte,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Zars,Zars,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Prinsessan,Prinsessan,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Joy,Joy,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Portici,Portici,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Made in Italy,Made in Italy,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Bobby Reich,Bobby Reich,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Casino Alster City,Casino Alster City,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,MANGIA e BEVI Sonja Vanek,MANGIA e BEVI Sonja Vanek,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,La Bruschetta,La Bruschetta,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,White Lounge Hamburg,White Lounge Hamburg,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Parma Cibo e Vino,Parma Cibo e Vino,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Rocas Bistro,Rocas Bistro,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,New Saigon,New Saigon,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Dubara,Dubara,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Doner Queen,Doner Queen,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Edenhall,Edenhall,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Bei Uns,Bei Uns,0,乌伦霍斯特,0.0,0.0,0.0
+更多美食,Galeria Coffee-Shop No.7,Galeria Coffee-Shop No.7,0,斯泰林根,0.0,0.0,0.0
+更多美食,Cafe Zeitraum,Cafe Zeitraum,0,斯泰林根,0.0,0.0,0.0
+更多美食,Restaurant Naoussa,Restaurant Naoussa,0,斯泰林根,0.0,0.0,0.0
+更多美食,Restaurant Charmant,Restaurant Charmant,0,斯泰林根,0.0,0.0,0.0
+更多美食,Himalaya Asia Lieferservice,Himalaya Asia Lieferservice,0,斯泰林根,0.0,0.0,0.0
+更多美食,Apollon bei Pano,Apollon bei Pano,0,斯泰林根,0.0,0.0,0.0
+更多美食,Subway Inh. Ramses Hoffmeister,Subway Inh. Ramses Hoffmeister,0,斯泰林根,0.0,0.0,0.0
+更多美食,Restaurant Tunicis Dubrovnik,Restaurant Tunicis Dubrovnik,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Lindos,Lindos,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Kegelsport-Restaurant,Kegelsport-Restaurant,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Aqui Espana,Aqui Espana,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Dithmarscher Grill,Dithmarscher Grill,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Zala,Zala,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Trattoria Anna e Luciano,Trattoria Anna e Luciano,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Thai Cowboy's 2,Thai Cowboy's 2,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Hung Asia Spezialitaten - Inh. Nguyen Viet Hung,Hung Asia Spezialitaten - Inh. Nguyen Viet Hung,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Kalliopea,Kalliopea,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Quartier 21 Gasthaus,Quartier 21 Gasthaus,0,杜伊斯堡,0.0,0.0,0.0
+更多美食,Wasserwerk Wilhelmsburg,Wasserwerk Wilhelmsburg,0,威尔海姆斯堡,0.0,0.0,0.0
+更多美食,Don Matteo,Don Matteo,0,威尔海姆斯堡,0.0,0.0,0.0
+更多美食,Café Pause,Café Pause,0,威尔海姆斯堡,0.0,0.0,0.0
+更多美食,Cafe Pianola,Cafe Pianola,0,威尔海姆斯堡,0.0,0.0,0.0
+更多美食,Il Melograno,Il Melograno,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,Da Elena,Da Elena,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,Einstein,Einstein,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,Red Dog,Red Dog,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,Klosterstuben,Klosterstuben,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,Savory,Savory,0,哈维斯特胡德,0.0,0.0,0.0
+更多美食,Ohari,Ohari,0,埃尔伯科,0.0,0.0,0.0
+更多美食,Steininger,Steininger,0,埃尔伯科,0.0,0.0,0.0
+更多美食,Lecker NudelHaus,Lecker NudelHaus,0,埃尔伯科,0.0,0.0,0.0
+更多美食,Windfang,Windfang,0,埃尔伯科,0.0,0.0,0.0
+更多美食,La Piazzetta,La Piazzetta,0,埃尔伯科,0.0,0.0,0.0
+更多美食,Korfu,Korfu,0,埃尔伯科,0.0,0.0,0.0
+更多美食,"Ristorante La Piazetta Posner, Elfriede","Ristorante La Piazetta Posner, Elfriede",0,埃尔伯科,0.0,0.0,0.0
+更多美食,Restaurant Steins,Restaurant Steins,0,埃尔伯科,0.0,0.0,0.0
+更多美食,Dubara,Dubara,0,埃尔伯科,0.0,0.0,0.0
+更多美食,Salvatore,Salvatore,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Cairos,Cairos,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Tercio,Tercio,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Hong Kong,Hong Kong,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Eppendorfer Grill-Station,Eppendorfer Grill-Station,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Athena Stuben,Athena Stuben,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Mi-Ga,Mi-Ga,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Garten-Eppendorf,Garten-Eppendorf,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Mansaaf,Mansaaf,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,GranoVino,GranoVino,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,LOEWEN Gastwirtschaft,LOEWEN Gastwirtschaft,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Ristorante Fezzi,Ristorante Fezzi,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Ganzoni,Ganzoni,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Mario,Mario,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Franco,Franco,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Cornelia Poletto,Cornelia Poletto,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,"Campus, Inh. Ervin Sinanaj","Campus, Inh. Ervin Sinanaj",0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Schramme 10,Schramme 10,0,霍赫鲁夫,0.0,0.0,0.0
+更多美食,Eichenhof,Eichenhof,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+更多美食,Diele,Diele,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+更多美食,El Sombrero,El Sombrero,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+更多美食,Zum Schwarzenberg,Zum Schwarzenberg,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+更多美食,Caspari,Caspari,0,海姆菲德/艾森多夫/霍比,0.0,0.0,0.0
+更多美食,Ciao Mamma,Ciao Mamma,0,城市中心-老城,0.0,0.0,0.0
+更多美食,SOUPCITY,SOUPCITY,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Huang,Huang,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Kornhauskeller,Kornhauskeller,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Porta Nova,Porta Nova,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Soup & Friends Inh. Lutz Quandel,Soup & Friends Inh. Lutz Quandel,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Glasperle,Glasperle,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Nouet,Nouet,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Le Quan,Le Quan,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Korri,Korri,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Vincendo,Vincendo,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Coelln s Austernstuben,Coelln s Austernstuben,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Pfeffersack,Pfeffersack,0,城市中心-老城,0.0,0.0,0.0
+更多美食,Finnegans Wake,Finnegans Wake,0,城市中心-老城,0.0,0.0,0.0

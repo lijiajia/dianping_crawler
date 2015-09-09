@@ -1,0 +1,1962 @@
+咖啡厅,Starbucks,Starbucks,0,芬威肯莫尔(Fenway Kenmore),7.9,7.1,7.5
+咖啡厅,Sonsie,Sonsie,0,后湾(Back Bay),8.4,8.4,8.4
+咖啡厅,Caffe Paradiso,Caffe Paradiso,0,北区(North End),0.0,0.0,0.0
+咖啡厅,Uptown Cafe,Uptown Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Trident Booksellers & Cafe,Trident Booksellers & Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+咖啡厅,Caffe Vittoria,Caffe Vittoria,0,北区(North End),0.0,0.0,0.0
+咖啡厅,Boston Common Coffee Company,Boston Common Coffee Company,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Olea Cafe,Olea Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+咖啡厅,SIP Cafe,SIP Cafe,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Al's State Street Cafe,Al's State Street Cafe,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Thinking Cup,Thinking Cup,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Berkeley Perk Cafe,Berkeley Perk Cafe,0,南区(South End),0.0,0.0,0.0
+咖啡厅,swissbakers Allston,swissbakers Allston,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,L'Aroma Cafe,L'Aroma Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+咖啡厅,Black Seed Cafe & Grill,Black Seed Cafe & Grill,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Sebastian's Cafe,Sebastian's Cafe,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Barnes & Noble Bookstore cafe,Barnes & Noble Bookstore cafe,0,后湾(Back Bay),0.0,0.0,0.0
+咖啡厅,Cafe Quattro,Cafe Quattro,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Pavement Coffeehouse,Pavement Coffeehouse,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Cafe Podima,Cafe Podima,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Cafe Pompei,Cafe Pompei,0,北区(North End),0.0,0.0,0.0
+咖啡厅,Boston Common Coffee,Boston Common Coffee,0,北区(North End),0.0,0.0,0.0
+咖啡厅,Pasta e Pomodoro,Pasta e Pomodoro,0,北区(North End),0.0,0.0,0.0
+咖啡厅,Neighborhood Coffee and Crepes,Neighborhood Coffee and Crepes,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+咖啡厅,Crispy Crepes Cafe,Crispy Crepes Cafe,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+咖啡厅,Ula Cafe,Ula Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Franklin Cafe,Franklin Cafe,0,多切斯特(Dorchester),0.0,0.0,0.0
+咖啡厅,Dry Dock Cafe,Dry Dock Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Mc Kenna's Cafe,Mc Kenna's Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Fuel America,Fuel America,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Barrington Coffee Roasting Company,Barrington Coffee Roasting Company,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Flat Black Coffee,Flat Black Coffee,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Atrium Cafe,Atrium Cafe,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Emerson's Cafe,Emerson's Cafe,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Boston Brewin Coffee,Boston Brewin Coffee,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Milk Street Cafe Post Office Square,Milk Street Cafe Post Office Square,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Piadina Cafe,Piadina Cafe,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Map Room Cafe,Map Room Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+咖啡厅,Pavement Coffeehouse,Pavement Coffeehouse,0,后湾(Back Bay),0.0,0.0,0.0
+咖啡厅,Francesca's Espresso Bar,Francesca's Espresso Bar,0,南区(South End),0.0,0.0,0.0
+咖啡厅,Corner Cafe,Corner Cafe,0,南区(South End),0.0,0.0,0.0
+咖啡厅,Columbus Cafe,Columbus Cafe,0,南区(South End),0.0,0.0,0.0
+咖啡厅,Common Ground Cafe,Common Ground Cafe,0,多切斯特(Dorchester),0.0,0.0,0.0
+咖啡厅,Morsel's Coffee Shop,Morsel's Coffee Shop,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Grasshopper Cafe,Grasshopper Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Flat Black Coffee,Flat Black Coffee,0,多切斯特(Dorchester),0.0,0.0,0.0
+咖啡厅,Sugar Bowl Cafe,Sugar Bowl Cafe,0,多切斯特(Dorchester),0.0,0.0,0.0
+咖啡厅,Green T Coffee Shop,Green T Coffee Shop,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Yada Yada Cafe,Yada Yada Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,P S Gourmet Coffee,P S Gourmet Coffee,0,多切斯特(Dorchester),0.0,0.0,0.0
+咖啡厅,Sidewalk Cafe,Sidewalk Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Cranberry Cafe,Cranberry Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Cookin Cafe,Cookin Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,First Bite Cafe,First Bite Cafe,0,布莱顿(Brighton),0.0,0.0,0.0
+咖啡厅,Zume's Coffee House,Zume's Coffee House,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,4A Coffee,4A Coffee,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Brighton Cafe,Brighton Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Blue State Coffee,Blue State Coffee,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,cafenation,cafenation,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Swan's Cafe,Swan's Cafe,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Winthrop Center Cafe,Winthrop Center Cafe,0,,6.9,6.9,6.9
+咖啡厅,Jac's Cafe,Jac's Cafe,0,,7.0,7.0,7.0
+咖啡厅,New Bridge Cafe,New Bridge Cafe,0,,7.2,7.2,6.8
+咖啡厅,cafe rossetti's,cafe rossetti's,0,,7.2,7.2,7.2
+咖啡厅,Nazca Cafe,Nazca Cafe,0,,6.9,6.9,6.9
+咖啡厅,Peet's Coffee & Tea,Peet's Coffee & Tea,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Theatre Cafe,Theatre Cafe,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+咖啡厅,Jelly Coffee Shop,Jelly Coffee Shop,0,波士顿其他,0.0,0.0,0.0
+咖啡厅,Boca Brazil Cafe and Restaurant,Boca Brazil Cafe and Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Armani Cafe,Armani Cafe,0,市中心(Downtown),0.0,0.0,0.0
+咖啡厅,三叉戟书店和咖啡店,三叉戟书店和咖啡店,0,,0.0,0.0,0.0
+意大利菜,Pizzeria Regina,Pizzeria Regina,0,北区(North End),8.3,6.7,8.3
+意大利菜,The Daily Catch,The Daily Catch,0,北区(North End),0.0,0.0,0.0
+意大利菜,Bricco,Bricco,0,北区(North End),0.0,0.0,0.0
+意大利菜,Rabia's Restaurant,Rabia's Restaurant,0,北区(North End),0.0,0.0,0.0
+意大利菜,Monica's Mercato,Monica's Mercato,0,北区(North End),0.0,0.0,0.0
+意大利菜,La Galleria 33,La Galleria 33,0,北区(North End),0.0,0.0,0.0
+意大利菜,Pomodoro,Pomodoro,0,北区(North End),0.0,0.0,0.0
+意大利菜,Nico,Nico,0,北区(North End),0.0,0.0,0.0
+意大利菜,Antico Forno,Antico Forno,0,北区(North End),0.0,0.0,0.0
+意大利菜,Mario's Restaurant,Mario's Restaurant,0,东波士顿(East Boston),0.0,0.0,0.0
+意大利菜,Scampo,Scampo,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Erbaluce,Erbaluce,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Lucca,Lucca,0,北区(North End),0.0,0.0,0.0
+意大利菜,Daily Catch Restaurant,Daily Catch Restaurant,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Bertucci's,Bertucci's,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+意大利菜,Figs,Figs,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Davio's,Davio's,0,后湾(Back Bay),0.0,0.0,0.0
+意大利菜,Panza,Panza,0,北区(North End),0.0,0.0,0.0
+意大利菜,Maurizio's,Maurizio's,0,北区(North End),0.0,0.0,0.0
+意大利菜,Galleria Umberto,Galleria Umberto,0,北区(North End),0.0,0.0,0.0
+意大利菜,Strega,Strega,0,北区(North End),0.0,0.0,0.0
+意大利菜,Lucia Ristorante,Lucia Ristorante,0,北区(North End),0.0,0.0,0.0
+意大利菜,Strega Waterfront,Strega Waterfront,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Carmelina's,Carmelina's,0,北区(North End),0.0,0.0,0.0
+意大利菜,Venezia,Venezia,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Salvatore's,Salvatore's,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Ristorante Toscano,Ristorante Toscano,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Gennaro's 5 North Square,Gennaro's 5 North Square,0,北区(North End),0.0,0.0,0.0
+意大利菜,Italian Express Pizzeria,Italian Express Pizzeria,0,东波士顿(East Boston),0.0,0.0,0.0
+意大利菜,Carlo's Cucina Italiana,Carlo's Cucina Italiana,0,布莱顿(Brighton),0.0,0.0,0.0
+意大利菜,Lucca Back Bay,Lucca Back Bay,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Da Vinci,Da Vinci,0,后湾(Back Bay),0.0,0.0,0.0
+意大利菜,Bacco Ristorante & Bar,Bacco Ristorante & Bar,0,北区(North End),0.0,0.0,0.0
+意大利菜,Benevento's,Benevento's,0,北区(North End),0.0,0.0,0.0
+意大利菜,Il Villaggio,Il Villaggio,0,北区(North End),0.0,0.0,0.0
+意大利菜,Lilly's Gourmet Pasta Express,Lilly's Gourmet Pasta Express,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Trattoria Newbury,Trattoria Newbury,0,后湾(Back Bay),0.0,0.0,0.0
+意大利菜,Artu,Artu,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Amici Restaurante,Amici Restaurante,0,北区(North End),0.0,0.0,0.0
+意大利菜,Viga,Viga,0,后湾(Back Bay),0.0,0.0,0.0
+意大利菜,Venice Cafe,Venice Cafe,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Bricco Salumeria & Pasta Shop,Bricco Salumeria & Pasta Shop,0,北区(North End),0.0,0.0,0.0
+意大利菜,Hot Tomatoes,Hot Tomatoes,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,University House of Pizza,University House of Pizza,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+意大利菜,il Panino Cafe and Grill,il Panino Cafe and Grill,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Milano's Deli,Milano's Deli,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Sal's Ristorante & Pizzeria,Sal's Ristorante & Pizzeria,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Haymarket Pizza,Haymarket Pizza,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Vinoteca di Monica,Vinoteca di Monica,0,北区(North End),0.0,0.0,0.0
+意大利菜,Salumeria Italiana,Salumeria Italiana,0,北区(North End),0.0,0.0,0.0
+意大利菜,Dolce Vita,Dolce Vita,0,北区(North End),0.0,0.0,0.0
+意大利菜,Taranta,Taranta,0,北区(North End),0.0,0.0,0.0
+意大利菜,Mother Anna's,Mother Anna's,0,北区(North End),0.0,0.0,0.0
+意大利菜,La Famiglia Giorgio's,La Famiglia Giorgio's,0,北区(North End),0.0,0.0,0.0
+意大利菜,Trattoria Il Panino,Trattoria Il Panino,0,北区(North End),0.0,0.0,0.0
+意大利菜,Florentine Cafe,Florentine Cafe,0,北区(North End),0.0,0.0,0.0
+意大利菜,Aria Trattoria,Aria Trattoria,0,北区(North End),0.0,0.0,0.0
+意大利菜,Ristorante Fiore,Ristorante Fiore,0,北区(North End),0.0,0.0,0.0
+意大利菜,Ristorante Saraceno,Ristorante Saraceno,0,北区(North End),0.0,0.0,0.0
+意大利菜,Euno,Euno,0,北区(North End),0.0,0.0,0.0
+意大利菜,Prezza,Prezza,0,北区(North End),0.0,0.0,0.0
+意大利菜,Dino's Cafe,Dino's Cafe,0,北区(North End),0.0,0.0,0.0
+意大利菜,Giacomo's Restaurant,Giacomo's Restaurant,0,北区(North End),0.0,0.0,0.0
+意大利菜,Massimino's,Massimino's,0,北区(North End),0.0,0.0,0.0
+意大利菜,Assaggio,Assaggio,0,北区(North End),0.0,0.0,0.0
+意大利菜,Lo Conte's Italian Cuisine,Lo Conte's Italian Cuisine,0,北区(North End),0.0,0.0,0.0
+意大利菜,Cantina Italiana,Cantina Italiana,0,北区(North End),0.0,0.0,0.0
+意大利菜,La Summa Cantina Italiana,La Summa Cantina Italiana,0,北区(North End),0.0,0.0,0.0
+意大利菜,Monica's Trattoria,Monica's Trattoria,0,北区(North End),0.0,0.0,0.0
+意大利菜,Carmen,Carmen,0,北区(North End),0.0,0.0,0.0
+意大利菜,Al Dente,Al Dente,0,北区(North End),0.0,0.0,0.0
+意大利菜,Artu,Artu,0,北区(North End),0.0,0.0,0.0
+意大利菜,Theo's Cozy Corner Restaurant,Theo's Cozy Corner Restaurant,0,北区(North End),0.0,0.0,0.0
+意大利菜,pellino's,pellino's,0,北区(North End),0.0,0.0,0.0
+意大利菜,Ferrara's Kitchen & Bar,Ferrara's Kitchen & Bar,0,北区(North End),0.0,0.0,0.0
+意大利菜,Quattro,Quattro,0,北区(North End),0.0,0.0,0.0
+意大利菜,Tresca,Tresca,0,北区(North End),0.0,0.0,0.0
+意大利菜,Mare,Mare,0,北区(North End),0.0,0.0,0.0
+意大利菜,Marco,Marco,0,北区(North End),0.0,0.0,0.0
+意大利菜,Pasta Beach,Pasta Beach,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Teatro,Teatro,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Trattoria Toscana,Trattoria Toscana,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+意大利菜,Piattini Wine Cafe,Piattini Wine Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+意大利菜,Papa Razzi,Papa Razzi,0,后湾(Back Bay),0.0,0.0,0.0
+意大利菜,Santarpio's Pizza,Santarpio's Pizza,0,东波士顿(East Boston),0.0,0.0,0.0
+意大利菜,Rino's Place,Rino's Place,0,东波士顿(East Boston),0.0,0.0,0.0
+意大利菜,Jeveli's Restaurant,Jeveli's Restaurant,0,东波士顿(East Boston),0.0,0.0,0.0
+意大利菜,Coppa,Coppa,0,南区(South End),0.0,0.0,0.0
+意大利菜,Giacomo's Restaurant,Giacomo's Restaurant,0,南区(South End),0.0,0.0,0.0
+意大利菜,Anchovies,Anchovies,0,南区(South End),0.0,0.0,0.0
+意大利菜,Cinquecento,Cinquecento,0,南区(South End),0.0,0.0,0.0
+意大利菜,Stella,Stella,0,南区(South End),0.0,0.0,0.0
+意大利菜,Tavolo,Tavolo,0,多切斯特(Dorchester),0.0,0.0,0.0
+意大利菜,Cafe Porto Bello,Cafe Porto Bello,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Delfino Restaurant,Delfino Restaurant,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Sophia's Grotto,Sophia's Grotto,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Fiorella's Express,Fiorella's Express,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Scoozi,Scoozi,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+意大利菜,Caffe Nero,Caffe Nero,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Bertucci's,Bertucci's,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Caffe Nuovo,Caffe Nuovo,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Osteria Rustico,Osteria Rustico,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Antonios Cucina Italiano Beacon Hill,Antonios Cucina Italiano Beacon Hill,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Pushcart Pizza,Pushcart Pizza,0,北区(North End),0.0,0.0,0.0
+意大利菜,Ducali,Ducali,0,北区(North End),0.0,0.0,0.0
+意大利菜,Vito's Tavern,Vito's Tavern,0,北区(North End),0.0,0.0,0.0
+意大利菜,Pagliuca's Restaurant,Pagliuca's Restaurant,0,北区(North End),0.0,0.0,0.0
+意大利菜,Ida's Restaurant,Ida's Restaurant,0,北区(North End),0.0,0.0,0.0
+意大利菜,Trattoria II Panino Express,Trattoria II Panino Express,0,北区(North End),0.0,0.0,0.0
+意大利菜,Bella Vista,Bella Vista,0,北区(North End),0.0,0.0,0.0
+意大利菜,Il Panino Express,Il Panino Express,0,北区(North End),0.0,0.0,0.0
+意大利菜,Filippo Ristorante & Cafe,Filippo Ristorante & Cafe,0,北区(North End),0.0,0.0,0.0
+意大利菜,G'Vanni's Ristorante,G'Vanni's Ristorante,0,北区(North End),0.0,0.0,0.0
+意大利菜,Ricardo's Ristorante,Ricardo's Ristorante,0,北区(North End),0.0,0.0,0.0
+意大利菜,Fiori Restauranti,Fiori Restauranti,0,北区(North End),0.0,0.0,0.0
+意大利菜,Casa Razdora,Casa Razdora,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,GEM Italian Kitchen Nightclub Lounge,GEM Italian Kitchen Nightclub Lounge,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Umbria,Umbria,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Nebo,Nebo,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Canestaro's,Canestaro's,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+意大利菜,UNO Chicago Grill,UNO Chicago Grill,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+意大利菜,Kelly's Square Pub,Kelly's Square Pub,0,东波士顿(East Boston),0.0,0.0,0.0
+意大利菜,Prima e Dopo,Prima e Dopo,0,东波士顿(East Boston),0.0,0.0,0.0
+意大利菜,Sonny Notos Restaurant,Sonny Notos Restaurant,0,东波士顿(East Boston),0.0,0.0,0.0
+意大利菜,Tony's Place,Tony's Place,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Paolo's Trattoria,Paolo's Trattoria,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Bella Luna,Bella Luna,0,波士顿其他,0.0,0.0,0.0
+意大利菜,Sofia Italian Steakhouse,Sofia Italian Steakhouse,0,波士顿其他,0.0,0.0,0.0
+意大利菜,La Famiglia Spagnuolo,La Famiglia Spagnuolo,0,北区(North End),0.0,0.0,0.0
+意大利菜,Davide,Davide,0,北区(North End),0.0,0.0,0.0
+意大利菜,Piccolo Nido,Piccolo Nido,0,北区(North End),0.0,0.0,0.0
+意大利菜,Dom's,Dom's,0,北区(North End),0.0,0.0,0.0
+意大利菜,Joe Tecce's Ristorante & Cafe,Joe Tecce's Ristorante & Cafe,0,北区(North End),0.0,0.0,0.0
+意大利菜,Ristorante Villa Francesca,Ristorante Villa Francesca,0,北区(North End),0.0,0.0,0.0
+意大利菜,Bella Napoli Restaurant,Bella Napoli Restaurant,0,北区(North End),0.0,0.0,0.0
+意大利菜,Eclano,Eclano,0,北区(North End),0.0,0.0,0.0
+意大利菜,Italian Cafe,Italian Cafe,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Pacini's Italian Eatery,Pacini's Italian Eatery,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Dominic's Restaurant,Dominic's Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,D'parma Restaurant,D'parma Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Galleria Italiana,Galleria Italiana,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Ecco Italia,Ecco Italia,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Sorriso Trattoria,Sorriso Trattoria,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Roy's Cold Cuts & Pizzeria,Roy's Cold Cuts & Pizzeria,0,东波士顿(East Boston),0.0,0.0,0.0
+意大利菜,Big City,Big City,0,布莱顿(Brighton),0.0,0.0,0.0
+意大利菜,Alfredo's Italian Kitchen,Alfredo's Italian Kitchen,0,多切斯特(Dorchester),0.0,0.0,0.0
+意大利菜,Sabatino's Restaurant & Grill,Sabatino's Restaurant & Grill,0,北区(North End),0.0,0.0,0.0
+意大利菜,Pulcinella Mozzarella Bar,Pulcinella Mozzarella Bar,0,北区(North End),0.0,0.0,0.0
+意大利菜,Caravera's Ristorante,Caravera's Ristorante,0,北区(North End),0.0,0.0,0.0
+意大利菜,Caliterra Bar & Grille,Caliterra Bar & Grille,0,市中心(Downtown),0.0,0.0,0.0
+意大利菜,Blackjack Pasta Bar,Blackjack Pasta Bar,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+意大利菜,Ciao Bella,Ciao Bella,0,后湾(Back Bay),0.0,0.0,0.0
+意大利菜,Rossini's Pizzeria & Trattoria,Rossini's Pizzeria & Trattoria,0,南区(South End),0.0,0.0,0.0
+意大利菜,Same Old Place,Same Old Place,0,波士顿其他,0.0,0.0,0.0
+意大利菜,The Daily Catch,The Daily Catch,0,波士顿其他,0.0,0.0,0.0
+酒吧,The Good Life,The Good Life,0,市中心(Downtown),7.4,7.4,7.4
+酒吧,Samuel Adams Brew House,Samuel Adams Brew House,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+酒吧,The Bristol Lounge,The Bristol Lounge,0,市中心(Downtown),0.0,0.0,0.0
+酒吧,Scullers Jazz Club,Scullers Jazz Club,0,波士顿其他,0.0,0.0,0.0
+酒吧,"Kings Lanes, Lounge, and Billiards","Kings Lanes, Lounge, and Billiards",0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+酒吧,Solas Pub,Solas Pub,0,后湾(Back Bay),0.0,0.0,0.0
+酒吧,Stanza dei Sigari,Stanza dei Sigari,0,北区(North End),0.0,0.0,0.0
+酒吧,Aragosta Bar and Bistro,Aragosta Bar and Bistro,0,波士顿其他,0.0,0.0,0.0
+酒吧,Bukowski's Tavern,Bukowski's Tavern,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+酒吧,Audubon Circle Restaurant Bar,Audubon Circle Restaurant Bar,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+酒吧,House of Blues Boston,House of Blues Boston,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+酒吧,Jacques,Jacques,0,市中心(Downtown),0.0,0.0,0.0
+酒吧,Limelight Stage and Studios,Limelight Stage and Studios,0,市中心(Downtown),0.0,0.0,0.0
+酒吧,Game On!,Game On!,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+酒吧,Whiskey Park,Whiskey Park,0,后湾(Back Bay),0.0,0.0,0.0
+酒吧,The Fours,The Fours,0,波士顿其他,0.0,0.0,0.0
+酒吧,Mr. Dooley's Boston Tavern,Mr. Dooley's Boston Tavern,0,市中心(Downtown),0.0,0.0,0.0
+酒吧,Wally's Cafe,Wally's Cafe,0,南区(South End),0.0,0.0,0.0
+酒吧,Cheers Beacon Hill,Cheers Beacon Hill,0,波士顿其他,0.0,0.0,0.0
+酒吧,The Merchant,The Merchant,0,波士顿其他,0.0,0.0,0.0
+酒吧,Beacon Hill Bistro,Beacon Hill Bistro,0,灯塔山(Beacon Hill),0.0,0.0,0.0
+酒吧,The Black Rose,The Black Rose,0,波士顿其他,0.0,0.0,0.0
+酒吧,Green Dragon Tavern,Green Dragon Tavern,0,波士顿其他,0.0,0.0,0.0
+酒吧,McGann's of Boston,McGann's of Boston,0,波士顿其他,0.0,0.0,0.0
+酒吧,Ned Devine's,Ned Devine's,0,波士顿其他,0.0,0.0,0.0
+酒吧,RumBa on the Waterfront,RumBa on the Waterfront,0,市中心(Downtown),0.0,0.0,0.0
+酒吧,The Tam,The Tam,0,市中心(Downtown),0.0,0.0,0.0
+酒吧,Cigar Masters,Cigar Masters,0,后湾(Back Bay),0.0,0.0,0.0
+酒吧,Sissy K's,Sissy K's,0,波士顿其他,0.0,0.0,0.0
+酒吧,Sullivan's Tap,Sullivan's Tap,0,波士顿其他,0.0,0.0,0.0
+酒吧,The Purple Shamrock,The Purple Shamrock,0,波士顿其他,0.0,0.0,0.0
+酒吧,The Living Room,The Living Room,0,北区(North End),0.0,0.0,0.0
+酒吧,Cuffs,Cuffs,0,后湾(Back Bay),0.0,0.0,0.0
+酒吧,Kelley Pub,Kelley Pub,0,东波士顿(East Boston),0.0,0.0,0.0
+酒吧,Fritz,Fritz,0,南区(South End),0.0,0.0,0.0
+酒吧,Petit Robert Bistro Brighton,Petit Robert Bistro Brighton,0,波士顿其他,0.0,0.0,0.0
+酒吧,Beacon Hill Pub,Beacon Hill Pub,0,波士顿其他,0.0,0.0,0.0
+酒吧,Reel Bar Boston,Reel Bar Boston,0,波士顿其他,0.0,0.0,0.0
+酒吧,The Paradise Rock Club,The Paradise Rock Club,0,波士顿其他,0.0,0.0,0.0
+酒吧,The Marina Restaurant and Bar at The Wharf,The Marina Restaurant and Bar at The Wharf,0,,7.0,7.1,7.0
+酒吧,Banana Boat,Banana Boat,0,,6.9,6.9,6.9
+酒吧,Boulevard Bar and Grill,Boulevard Bar and Grill,0,,6.9,6.9,6.9
+酒吧,The Rack,The Rack,0,波士顿其他,0.0,0.0,0.0
+酒吧,Antonia's At The Beach Restaurant and Bar,Antonia's At The Beach Restaurant and Bar,0,,7.1,7.1,7.1
+酒吧,The Place,The Place,0,市中心(Downtown),0.0,0.0,0.0
+酒吧,The Big Easy,The Big Easy,0,市中心(Downtown),0.0,0.0,0.0
+酒吧,Machine,Machine,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+酒吧,Ramrod,Ramrod,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+酒吧,Jillian's Boston - Lucky Strike Lanes - Lounge,Jillian's Boston - Lucky Strike Lanes - Lounge,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+酒吧,OAK Long Bar + Kitchen,OAK Long Bar + Kitchen,0,后湾(Back Bay),0.0,0.0,0.0
+酒吧,The Eagle,The Eagle,0,南区(South End),0.0,0.0,0.0
+酒吧,The Wine Cellar at Park Square,The Wine Cellar at Park Square,0,波士顿其他,0.0,0.0,0.0
+酒吧,Tony C's,Tony C's,0,波士顿其他,0.0,0.0,0.0
+法国菜,Deuxave,Deuxave,0,后湾(Back Bay),7.3,7.3,7.3
+法国菜,Menton,Menton,0,波士顿其他,6.5,7.5,7.5
+法国菜,Smith & Wollensky,Smith & Wollensky,0,市中心(Downtown),7.0,7.0,7.0
+法国菜,Au Bon Pain,Au Bon Pain,0,后湾(Back Bay),6.7,6.7,6.7
+法国菜,No. 9 Park,No. 9 Park,0,市中心(Downtown),6.7,6.7,6.7
+法国菜,Brasserie JO,Brasserie JO,0,波士顿其他,0.0,0.0,0.0
+法国菜,Les Zygomates,Les Zygomates,0,市中心(Downtown),0.0,0.0,0.0
+法国菜,Bistro du Midi,Bistro du Midi,0,市中心(Downtown),0.0,0.0,0.0
+法国菜,Au Bon Pain,Au Bon Pain,0,东波士顿(East Boston),0.0,0.0,0.0
+法国菜,Petit Robert Bistro Columbus Avenue,Petit Robert Bistro Columbus Avenue,0,南区(South End),0.0,0.0,0.0
+法国菜,La Voile,La Voile,0,后湾(Back Bay),0.0,0.0,0.0
+法国菜,Belle Isle,Belle Isle,0,,7.2,7.2,7.2
+法国菜,Au Bon Pain,Au Bon Pain,0,市中心(Downtown),0.0,0.0,0.0
+法国菜,The Creperie on Newbury,The Creperie on Newbury,0,后湾(Back Bay),0.0,0.0,0.0
+法国菜,Miel Brasserie Provencale,Miel Brasserie Provencale,0,市中心(Downtown),0.0,0.0,0.0
+法国菜,Mistral,Mistral,0,后湾(Back Bay),0.0,0.0,0.0
+法国菜,Gaslight,Gaslight,0,南区(South End),0.0,0.0,0.0
+法国菜,Pierrot Bistrot Francais,Pierrot Bistrot Francais,0,波士顿其他,0.0,0.0,0.0
+法国菜,Beacon Hill Bistro,Beacon Hill Bistro,0,灯塔山(Beacon Hill),0.0,0.0,0.0
+法国菜,Au Bon Pain,Au Bon Pain,0,后湾(Back Bay),0.0,0.0,0.0
+法国菜,Mantra,Mantra,0,市中心(Downtown),0.0,0.0,0.0
+法国菜,Paris Creperie Beacon Hill,Paris Creperie Beacon Hill,0,波士顿其他,0.0,0.0,0.0
+法国菜,Côte,Côte,0,波士顿其他,0.0,0.0,0.0
+法国菜,ARIRANG HOUSE,ARIRANG HOUSE,0,后湾(Back Bay),0.0,0.0,0.0
+法国菜,Longhorn Steakhouse,Longhorn Steakhouse,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+墨西哥菜,El Pelon Taqueria,El Pelon Taqueria,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+墨西哥菜,El Pelon Taqueria,El Pelon Taqueria,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+墨西哥菜,Rosa Mexicano - Boston,Rosa Mexicano - Boston,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Villa Mexico,Villa Mexico,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,La Verdad Taqueria Mexicana,La Verdad Taqueria Mexicana,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+墨西哥菜,Lolita Cocina & Tequila Bar,Lolita Cocina & Tequila Bar,0,后湾(Back Bay),0.0,0.0,0.0
+墨西哥菜,Casa Romero,Casa Romero,0,后湾(Back Bay),0.0,0.0,0.0
+墨西哥菜,Zocalo Back Bay Mexican Bistro & Tequila Bar,Zocalo Back Bay Mexican Bistro & Tequila Bar,0,后湾(Back Bay),0.0,0.0,0.0
+墨西哥菜,Angela's Cafe,Angela's Cafe,0,东波士顿(East Boston),0.0,0.0,0.0
+墨西哥菜,Papagayo,Papagayo,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,The Lone Star Taco Bar,The Lone Star Taco Bar,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Taco Maker,Taco Maker,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Yucatan Tacos,Yucatan Tacos,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Wapo Taco,Wapo Taco,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Boca Grande Taqueria,Boca Grande Taqueria,0,市中心(Downtown),0.0,0.0,0.0
+墨西哥菜,Al Mercatino,Al Mercatino,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Qdoba Mexican Grill,Qdoba Mexican Grill,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Viva Burrito,Viva Burrito,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Qdoba Mexican Grill,Qdoba Mexican Grill,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+墨西哥菜,Cactus Club,Cactus Club,0,后湾(Back Bay),0.0,0.0,0.0
+墨西哥菜,Rattlesnake Bar,Rattlesnake Bar,0,后湾(Back Bay),0.0,0.0,0.0
+墨西哥菜,Boloco,Boloco,0,后湾(Back Bay),0.0,0.0,0.0
+墨西哥菜,Taqueria Cancun,Taqueria Cancun,0,东波士顿(East Boston),0.0,0.0,0.0
+墨西哥菜,El Centro Mexican Restaurant,El Centro Mexican Restaurant,0,南区(South End),0.0,0.0,0.0
+墨西哥菜,Chipotle,Chipotle,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Sol Azteca Restaurant,Sol Azteca Restaurant,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Tenoch,Tenoch,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Temazcal Cantina,Temazcal Cantina,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Mija Cantina & Tequila Bar,Mija Cantina & Tequila Bar,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Andale,Andale,0,市中心(Downtown),0.0,0.0,0.0
+墨西哥菜,Tequila Mexican Grill,Tequila Mexican Grill,0,市中心(Downtown),0.0,0.0,0.0
+墨西哥菜,Temazcal,Temazcal,0,市中心(Downtown),0.0,0.0,0.0
+墨西哥菜,Pedro's Tacos,Pedro's Tacos,0,市中心(Downtown),0.0,0.0,0.0
+墨西哥菜,Boloco,Boloco,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+墨西哥菜,Qdoba Mexican Grill,Qdoba Mexican Grill,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+墨西哥菜,Qdoba Mexican Grill,Qdoba Mexican Grill,0,后湾(Back Bay),0.0,0.0,0.0
+墨西哥菜,La Hacienda,La Hacienda,0,东波士顿(East Boston),0.0,0.0,0.0
+墨西哥菜,Cha Cha Taqueria,Cha Cha Taqueria,0,南区(South End),0.0,0.0,0.0
+墨西哥菜,Taquerya Restaurant El Tryunfo,Taquerya Restaurant El Tryunfo,0,南区(South End),0.0,0.0,0.0
+墨西哥菜,Montecristo,Montecristo,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Salsa's Mexican Grill,Salsa's Mexican Grill,0,多切斯特(Dorchester),0.0,0.0,0.0
+墨西哥菜,Casa Real,Casa Real,0,多切斯特(Dorchester),0.0,0.0,0.0
+墨西哥菜,Venetian Garden,Venetian Garden,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Tacos El Charro Mexican Restaurant,Tacos El Charro Mexican Restaurant,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Qdoba Mexican Grill,Qdoba Mexican Grill,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Qdoba Mexican Grill,Qdoba Mexican Grill,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,La Catrina Fonda Mexicana,La Catrina Fonda Mexicana,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,El Paso Enchiladas,El Paso Enchiladas,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Barrio Cantina,Barrio Cantina,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+墨西哥菜,Laterrasa,Laterrasa,0,东波士顿(East Boston),0.0,0.0,0.0
+墨西哥菜,Acapulco Restaurant,Acapulco Restaurant,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Burrito Elito,Burrito Elito,0,波士顿其他,0.0,0.0,0.0
+墨西哥菜,Papagayo,Papagayo,0,东波士顿(East Boston),0.0,0.0,0.0
+其他西餐,The Cheesecake Factory,The Cheesecake Factory,0,市中心(Downtown),8.1,8.3,8.1
+其他西餐,Union Oyster House,Union Oyster House,215,市中心(Downtown),7.9,8.2,7.5
+其他西餐,Neptune Oyster,Neptune Oyster,297,市中心(Downtown),8.5,7.6,7.5
+其他西餐,UNO,UNO,0,后湾(Back Bay),7.7,7.7,7.7
+其他西餐,Island Creek Oyster Bar,Island Creek Oyster Bar,0,市中心(Downtown),7.0,7.1,6.9
+其他西餐,Boston Chowder,Boston Chowder,0,后湾(Back Bay),6.9,6.7,6.7
+其他西餐,UBurger,UBurger,0,波士顿其他,7.1,7.1,7.1
+其他西餐,Vlora,Vlora,0,后湾(Back Bay),0.0,0.0,0.0
+其他西餐,Pauli's,Pauli's,0,北区(North End),0.0,0.0,0.0
+其他西餐,Fleming's Prime Steakhouse & Wine Bar,Fleming's Prime Steakhouse & Wine Bar,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,Crossroads Restaurant & Lounge,Crossroads Restaurant & Lounge,0,后湾(Back Bay),0.0,0.0,0.0
+其他西餐,King Falafel Restaurant,King Falafel Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,M. J. O'Connor's Irish Pub,M. J. O'Connor's Irish Pub,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,Morton's - The Steakhouse,Morton's - The Steakhouse,0,后湾(Back Bay),0.0,0.0,0.0
+其他西餐,Morton's - The Steakhouse,Morton's - The Steakhouse,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Del Frisco's Double Eagle Steak House - Boston,Del Frisco's Double Eagle Steak House - Boston,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Cafe Polonia,Cafe Polonia,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他西餐,The Haven,The Haven,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Tasca Tapas Restaurant,Tasca Tapas Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Tres Gatos,Tres Gatos,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Toro,Toro,0,南区(South End),0.0,0.0,0.0
+其他西餐,Piperi Mediterranean Grill,Piperi Mediterranean Grill,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Tapeo Restaurant and Tapas Bar,Tapeo Restaurant and Tapas Bar,0,后湾(Back Bay),0.0,0.0,0.0
+其他西餐,Victoria's Diner,Victoria's Diner,0,波士顿其他,0.0,0.0,0.0
+其他西餐,El Oriental de Cuba,El Oriental de Cuba,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Slugger's Dugout,Slugger's Dugout,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Hennessy's,Hennessy's,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Parla,Parla,0,北区(North End),0.0,0.0,0.0
+其他西餐,Wendy's,Wendy's,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,Viva Mi Arepa,Viva Mi Arepa,0,波士顿其他,0.0,0.0,0.0
+其他西餐,MOBY Dick,MOBY Dick,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他西餐,Philadelphia Steak & Hoagie,Philadelphia Steak & Hoagie,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Banshee,Banshee,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他西餐,Saus,Saus,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Angus Beef Steakhouse,Angus Beef Steakhouse,0,波士顿其他,0.0,0.0,0.0
+其他西餐,New York Pizza,New York Pizza,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,Uburger,Uburger,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他西餐,Tico,Tico,0,后湾(Back Bay),0.0,0.0,0.0
+其他西餐,Fogo de Chao,Fogo de Chao,0,后湾(Back Bay),0.0,0.0,0.0
+其他西餐,Estragon,Estragon,0,南区(South End),0.0,0.0,0.0
+其他西餐,Metropolis Cafe,Metropolis Cafe,0,南区(South End),0.0,0.0,0.0
+其他西餐,Addis Red Sea Ethiopian Restaurant,Addis Red Sea Ethiopian Restaurant,0,南区(South End),0.0,0.0,0.0
+其他西餐,Boston Chops,Boston Chops,0,南区(South End),0.0,0.0,0.0
+其他西餐,Orinoco,Orinoco,0,南区(South End),0.0,0.0,0.0
+其他西餐,Esperia Grill,Esperia Grill,0,波士顿其他,0.0,0.0,0.0
+其他西餐,KO Catering and Pies,KO Catering and Pies,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Miami Restaurant,Miami Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Philadelphia Steak & Sub Co,Philadelphia Steak & Sub Co,0,波士顿其他,0.0,0.0,0.0
+其他西餐,The Mill Inn,The Mill Inn,0,波士顿其他,0.0,0.0,0.0
+其他西餐,IHOP (Soldier's Field),IHOP (Soldier's Field),0,波士顿其他,0.0,0.0,0.0
+其他西餐,Durty Nelly's Pub,Durty Nelly's Pub,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Black Rose,Black Rose,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Goody Glover's,Goody Glover's,0,北区(North End),0.0,0.0,0.0
+其他西餐,Barney Fanning's,Barney Fanning's,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,Jacob Wirth Restaurant,Jacob Wirth Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,Four Burgers,Four Burgers,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,KO Prime,KO Prime,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,Chacarero Chilean Cuisine,Chacarero Chilean Cuisine,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,Cornwall's,Cornwall's,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他西餐,B. Good,B. Good,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他西餐,Oliveira's,Oliveira's,0,东波士顿(East Boston),0.0,0.0,0.0
+其他西餐,Rincon Limeno,Rincon Limeno,0,东波士顿(East Boston),0.0,0.0,0.0
+其他西餐,Vejigantes Restaurant,Vejigantes Restaurant,0,南区(South End),0.0,0.0,0.0
+其他西餐,Lucy Ethiopian Cafe,Lucy Ethiopian Cafe,0,南区(South End),0.0,0.0,0.0
+其他西餐,The Squealing Pig,The Squealing Pig,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Garlic 'n Lemons,Garlic 'n Lemons,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Blue Nile,Blue Nile,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Shenannigans Irish Pub & Restaurant,Shenannigans Irish Pub & Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Merengue Restaurant,Merengue Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Camino Real Colombian Restaurant,Camino Real Colombian Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Tavern at the End of the World,Tavern at the End of the World,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Corrib Pub,Corrib Pub,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Allston Diner,Allston Diner,0,波士顿其他,0.0,0.0,0.0
+其他西餐,99 Restaurant & Pub,99 Restaurant & Pub,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Restaurante Cesaria,Restaurante Cesaria,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Blarney Stone Bar,Blarney Stone Bar,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他西餐,The Whiskey Priest,The Whiskey Priest,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Uburger,Uburger,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Mediterranean Grill,Mediterranean Grill,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,Flamers Charbroiled Hamburgers,Flamers Charbroiled Hamburgers,0,后湾(Back Bay),0.0,0.0,0.0
+其他西餐,Mi Pueblito,Mi Pueblito,0,东波士顿(East Boston),0.0,0.0,0.0
+其他西餐,Cafe Gigu,Cafe Gigu,0,东波士顿(East Boston),0.0,0.0,0.0
+其他西餐,KO at the Shipyard,KO at the Shipyard,0,东波士顿(East Boston),0.0,0.0,0.0
+其他西餐,South End Pita,South End Pita,0,南区(South End),0.0,0.0,0.0
+其他西餐,The Old Bank,The Old Bank,0,南区(South End),0.0,0.0,0.0
+其他西餐,Andre's Cafe,Andre's Cafe,0,南区(South End),0.0,0.0,0.0
+其他西餐,The Green Briar,The Green Briar,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Browns Bar & Brasserie Brighton,Browns Bar & Brasserie Brighton,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Lithuanian Kitchen,Lithuanian Kitchen,0,波士顿其他,0.0,0.0,0.0
+其他西餐,La Befana Pizzeria,La Befana Pizzeria,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Grass Fed,Grass Fed,0,波士顿其他,0.0,0.0,0.0
+其他西餐,J & J Irish Pub and Grille,J & J Irish Pub and Grille,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他西餐,Angora Cafe,Angora Cafe,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Rio's Buffet,Rio's Buffet,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Mama's Place,Mama's Place,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Boyne,Boyne,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Cafe Beirut,Cafe Beirut,0,波士顿其他,0.0,0.0,0.0
+其他西餐,ZO,ZO,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Kitty O'Shea's,Kitty O'Shea's,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Flames Restaurant II,Flames Restaurant II,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Corrib Pub,Corrib Pub,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Alex's Chimis,Alex's Chimis,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Restaurant Laura,Restaurant Laura,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Deli One,Deli One,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,London Cafe,London Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+其他西餐,Saint,Saint,0,后湾(Back Bay),0.0,0.0,0.0
+其他西餐,O'Brian'S,O'Brian'S,0,东波士顿(East Boston),0.0,0.0,0.0
+其他西餐,Molina's Restaurant,Molina's Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他西餐,Johnny Rockets,Johnny Rockets,0,波士顿其他,0.0,0.0,0.0
+其他西餐,B&G Oysters,B&G Oysters,0,市中心(Downtown),0.0,0.0,0.0
+其他西餐,Cafe Fleuri,Cafe Fleuri,0,东波士顿(East Boston),0.0,0.0,0.0
+中餐,Gourmet Dumpling House,Gourmet Dumpling House,0,市中心(Downtown),7.6,7.3,7.4
+中餐,Shanghai Gate 石库门上海餐厅,Shanghai Gate 石库门上海餐厅,0,奥尔斯顿(Allston),7.0,7.4,7.4
+中餐,京川,京川,0,市中心(Downtown),7.5,7.6,7.5
+中餐,Sichuan Gourmet(Brookline),Sichuan Gourmet(Brookline),0,,7.8,7.8,8.2
+中餐,海之味,海之味,0,市中心(Downtown),5.5,5.4,5.5
+中餐,Mulan Restaurant,Mulan Restaurant,0,,8.3,8.3,7.6
+中餐,Jo Jo Tai Pei,Jo Jo Tai Pei,0,布莱顿(Brighton),6.8,6.8,6.8
+中餐,Hei La Moon,Hei La Moon,0,市中心(Downtown),8.1,7.2,7.2
+中餐,Beijing Cafe,Beijing Cafe,0,芬威肯莫尔(Fenway Kenmore),7.5,7.3,7.5
+中餐,New Jumbo Seafood Restaurant,New Jumbo Seafood Restaurant,0,市中心(Downtown),7.5,6.7,6.7
+中餐,Victoria Seafood Restaurant,Victoria Seafood Restaurant,0,波士顿其他,7.8,7.3,7.8
+中餐,Taiwan Cafe,Taiwan Cafe,0,市中心(Downtown),7.2,7.2,7.2
+中餐,China Pearl Restaurant,China Pearl Restaurant,0,市中心(Downtown),7.2,7.2,7.0
+中餐,Jasper White's Summer Shack,Jasper White's Summer Shack,0,后湾(Back Bay),7.1,6.8,6.8
+中餐,Moon Villa Restaurant,Moon Villa Restaurant,0,市中心(Downtown),6.7,6.7,6.7
+中餐,Hot Pot Buffet,Hot Pot Buffet,0,市中心(Downtown),6.1,6.1,6.1
+中餐,Hong Kong Chef,Hong Kong Chef,0,多切斯特(Dorchester),5.0,5.0,5.0
+中餐,Winsor Dim Sum Cafe,Winsor Dim Sum Cafe,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Mei Mei Street Kitchen,Mei Mei Street Kitchen,0,波士顿其他,0.0,0.0,0.0
+中餐,New Shanghai Restaurant,New Shanghai Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Jade Garden,Jade Garden,0,市中心(Downtown),0.0,0.0,0.0
+中餐,The Best Little Restaurant,The Best Little Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+中餐,W & P Hong Kong At Faneuil,W & P Hong Kong At Faneuil,0,波士顿其他,0.0,0.0,0.0
+中餐,Seven Star Street Bistro,Seven Star Street Bistro,0,波士顿其他,0.0,0.0,0.0
+中餐,Shojo Restaurant,Shojo Restaurant,0,南区(South End),0.0,0.0,0.0
+中餐,New Golden Gate Seafood,New Golden Gate Seafood,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Joyful Garden,Joyful Garden,0,波士顿其他,0.0,0.0,0.0
+中餐,China House,China House,0,北区(North End),0.0,0.0,0.0
+中餐,Tin Tin Buffet Restaurant,Tin Tin Buffet Restaurant,0,波士顿其他,0.0,0.0,0.0
+中餐,68 Chinese Best Food,68 Chinese Best Food,0,市中心(Downtown),0.0,0.0,0.0
+中餐,PF Changs - Prudential Center,PF Changs - Prudential Center,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+中餐,Pho Bolsa Restaurant,Pho Bolsa Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Dim Sum Chef,Dim Sum Chef,0,波士顿其他,0.0,0.0,0.0
+中餐,Hong Kong Harbor Restaurant,Hong Kong Harbor Restaurant,0,东波士顿(East Boston),0.0,0.0,0.0
+中餐,Nanning Wok,Nanning Wok,0,波士顿其他,0.0,0.0,0.0
+中餐,Shanghai Cafe,Shanghai Cafe,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Chinatown Cafe,Chinatown Cafe,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Nan Ling Chinese Restaurant,Nan Ling Chinese Restaurant,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+中餐,Ding Ho Winter St,Ding Ho Winter St,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Oceanic,Oceanic,0,后湾(Back Bay),0.0,0.0,0.0
+中餐,Hong Kong Cafe,Hong Kong Cafe,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+中餐,Rainbow Restaurant,Rainbow Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Jumbo Seafood Restaurant,Jumbo Seafood Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Hong Kong Eatery,Hong Kong Eatery,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Jade Restaurant,Jade Restaurant,0,南区(South End),0.0,0.0,0.0
+中餐,Wong's of Boston,Wong's of Boston,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Chinese Dragon,Chinese Dragon,0,东波士顿(East Boston),0.0,0.0,0.0
+中餐,Master Wok,Master Wok,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Dynasty Restaurant,Dynasty Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Gene's Chinese Flatbread Cafe,Gene's Chinese Flatbread Cafe,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Emperor Garden,Emperor Garden,0,波士顿其他,0.0,0.0,0.0
+中餐,Kings Restaurant,Kings Restaurant,0,波士顿其他,0.0,0.0,0.0
+中餐,Ryo Asian Fusion,Ryo Asian Fusion,0,波士顿其他,0.0,0.0,0.0
+中餐,Dong Khanh Restaurant,Dong Khanh Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Rainbow Dragon Restaurant,Rainbow Dragon Restaurant,0,波士顿其他,0.0,0.0,0.0
+中餐,Chinese Restaurant,Chinese Restaurant,0,南区(South End),0.0,0.0,0.0
+中餐,Mumbai Chopstix,Mumbai Chopstix,0,后湾(Back Bay),0.0,0.0,0.0
+中餐,China BO,China BO,0,波士顿其他,0.0,0.0,0.0
+中餐,Hoy Hing Restaurant,Hoy Hing Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Yummee Chinese Restaurant,Yummee Chinese Restaurant,0,南区(South End),0.0,0.0,0.0
+中餐,New China Restaurant,New China Restaurant,0,波士顿其他,0.0,0.0,0.0
+中餐,Cindy's Planet,Cindy's Planet,0,市中心(Downtown),0.0,0.0,0.0
+中餐,China King,China King,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Wings Kitchen,Wings Kitchen,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Chau Chow Restaurant,Chau Chow Restaurant,0,波士顿其他,0.0,0.0,0.0
+中餐,New Ho Toy Restaurant,New Ho Toy Restaurant,0,波士顿其他,0.0,0.0,0.0
+中餐,South Ocean,South Ocean,0,波士顿其他,0.0,0.0,0.0
+中餐,Food Wall,Food Wall,0,波士顿其他,0.0,0.0,0.0
+中餐,Pu Pu Restaurant,Pu Pu Restaurant,0,波士顿其他,0.0,0.0,0.0
+中餐,Beijing on the Common,Beijing on the Common,0,市中心(Downtown),0.0,0.0,0.0
+中餐,Great Chef Chinese Food on Chelsea St.,Great Chef Chinese Food on Chelsea St.,0,东波士顿(East Boston),0.0,0.0,0.0
+中餐,Cafeteria Tropical,Cafeteria Tropical,0,波士顿其他,0.0,0.0,0.0
+中餐,South Boston Chinese Restaurant,South Boston Chinese Restaurant,0,波士顿其他,0.0,0.0,0.0
+中餐,Brigham Circle Chinese Food,Brigham Circle Chinese Food,0,波士顿其他,0.0,0.0,0.0
+中餐,川鲁园,川鲁园,0,,0.0,0.0,0.0
+日韩料理,Gyu-Kaku,Gyu-Kaku,0,,7.4,7.0,6.5
+日韩料理,Korean Garden,Korean Garden,0,波士顿其他,7.3,7.3,7.3
+日韩料理,Symphony Sushi,Symphony Sushi,0,芬威肯莫尔(Fenway Kenmore),8.0,7.3,8.0
+日韩料理,O Ya,O Ya,0,市中心(Downtown),7.2,6.8,7.5
+日韩料理,Totto Ramen,Totto Ramen,0,布莱顿(Brighton),6.9,7.0,7.0
+日韩料理,Swish Shabu,Swish Shabu,0,芬威肯莫尔(Fenway Kenmore),8.3,8.3,8.3
+日韩料理,Uni,Uni,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Chau Chow City Restaurant,Chau Chow City Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+日韩料理,J's Tomodachi Sushi,J's Tomodachi Sushi,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Fin's Japanese Sushi and Grill,Fin's Japanese Sushi and Grill,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+日韩料理,SUSHI-TEQ,SUSHI-TEQ,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Snappy Sushi,Snappy Sushi,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Haru,Haru,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Montien Boston (Thai & Sushi),Montien Boston (Thai & Sushi),0,市中心(Downtown),0.0,0.0,0.0
+日韩料理,Avana Sushi,Avana Sushi,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Kaze,Kaze,0,市中心(Downtown),0.0,0.0,0.0
+日韩料理,Sakura Japan,Sakura Japan,0,市中心(Downtown),0.0,0.0,0.0
+日韩料理,Fin's Japanese Sushi and Grill,Fin's Japanese Sushi and Grill,0,布莱顿(Brighton),0.0,0.0,0.0
+日韩料理,Douzo,Douzo,0,南区(South End),0.0,0.0,0.0
+日韩料理,Sushi Time,Sushi Time,0,市中心(Downtown),0.0,0.0,0.0
+日韩料理,Saku Japan,Saku Japan,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Sakkio Japan,Sakkio Japan,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Teriyaki House,Teriyaki House,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Fin's Sushi and Grill,Fin's Sushi and Grill,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Osushi,Osushi,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Fish Market,Fish Market,0,布莱顿(Brighton),0.0,0.0,0.0
+日韩料理,Samurai,Samurai,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Umai,Umai,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Seiyo,Seiyo,0,南区(South End),0.0,0.0,0.0
+日韩料理,Billy Tse's Restaurant,Billy Tse's Restaurant,0,北区(North End),0.0,0.0,0.0
+日韩料理,Shanghai Gate,Shanghai Gate,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Enso Sushi,Enso Sushi,0,市中心(Downtown),0.0,0.0,0.0
+日韩料理,Irashai,Irashai,0,市中心(Downtown),0.0,0.0,0.0
+日韩料理,Basho Japanese Brasserie,Basho Japanese Brasserie,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+日韩料理,Ikura Sushi,Ikura Sushi,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Osaka Sushi Express,Osaka Sushi Express,0,市中心(Downtown),0.0,0.0,0.0
+日韩料理,Village Sushi & Grill,Village Sushi & Grill,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Umi Japanese Cruisine & Sushi Bar,Umi Japanese Cruisine & Sushi Bar,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+日韩料理,Hanmaru,Hanmaru,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Fin's Sushi & Grill,Fin's Sushi & Grill,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Oishii Boston,Oishii Boston,0,南区(South End),0.0,0.0,0.0
+日韩料理,J.P. Seafood Cafe,J.P. Seafood Cafe,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Maki Maki,Maki Maki,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Apollo Grill & Sushi Restaurant,Apollo Grill & Sushi Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+日韩料理,Kaya Restaurant,Kaya Restaurant,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Sakura-Bana,Sakura-Bana,0,市中心(Downtown),0.0,0.0,0.0
+日韩料理,Ginza,Ginza,0,市中心(Downtown),0.0,0.0,0.0
+日韩料理,Zen Restaurant,Zen Restaurant,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Yamato Restaurant,Yamato Restaurant,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Mercato del Mare,Mercato del Mare,0,北区(North End),0.0,0.0,0.0
+日韩料理,Maluken Japanese Restaurant,Maluken Japanese Restaurant,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+日韩料理,Yakitori Zai,Yakitori Zai,0,南区(South End),0.0,0.0,0.0
+日韩料理,Owl Station Bar & Bistro,Owl Station Bar & Bistro,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Buk Kyung II,Buk Kyung II,0,布莱顿(Brighton),0.0,0.0,0.0
+日韩料理,Kaju Tofu House,Kaju Tofu House,0,波士顿其他,0.0,0.0,0.0
+日韩料理,Osaka Sushi Express,Osaka Sushi Express,0,波士顿其他,0.0,0.0,0.0
+日韩料理,711 Underground Bistro and Sushi Bar,711 Underground Bistro and Sushi Bar,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Mentei,Mentei,0,后湾(Back Bay),0.0,0.0,0.0
+日韩料理,Samurai Express,Samurai Express,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Legal Sea Foods - Prudential Center,Legal Sea Foods - Prudential Center,0,后湾(Back Bay),7.3,7.6,7.7
+快餐简餐,麻辣诱惑,麻辣诱惑,0,,7.3,7.3,6.9
+快餐简餐,Legal Sea Foods - Park Square,Legal Sea Foods - Park Square,0,市中心(Downtown),7.2,7.5,6.9
+快餐简餐,The Paramount,The Paramount,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Panera,Panera,0,,8.4,8.0,8.4
+快餐简餐,Boston Chowda Co,Boston Chowda Co,0,后湾(Back Bay),8.2,7.3,7.5
+快餐简餐,Panda express,Panda express,0,后湾(Back Bay),6.7,6.6,6.6
+快餐简餐,Legal Sea Foods - Copley Place,Legal Sea Foods - Copley Place,0,南区(South End),8.4,7.5,7.5
+快餐简餐,Legal Sea Foods - Logan Airport Term B,Legal Sea Foods - Logan Airport Term B,0,波士顿其他,8.4,8.4,8.4
+快餐简餐,The Cheesecake Factory,The Cheesecake Factory,0,芬威肯莫尔(Fenway Kenmore),8.3,8.3,8.3
+快餐简餐,Fenmore American Bistro,Fenmore American Bistro,0,芬威肯莫尔(Fenway Kenmore),7.4,7.4,7.4
+快餐简餐,Sam LaGrassa's,Sam LaGrassa's,0,市中心(Downtown),8.1,8.1,8.1
+快餐简餐,Eastern Standard,Eastern Standard,0,芬威肯莫尔(Fenway Kenmore),7.9,7.9,7.9
+快餐简餐,The Capital Grille,The Capital Grille,0,后湾(Back Bay),7.7,7.7,7.7
+快餐简餐,B & G Oysters,B & G Oysters,0,南区(South End),7.5,7.5,7.5
+快餐简餐,Legal Test Kitchen,Legal Test Kitchen,0,波士顿其他,7.5,7.5,7.5
+快餐简餐,L'Espalier,L'Espalier,0,后湾(Back Bay),7.5,8.3,7.5
+快餐简餐,Rowes Wharf Sea Grille,Rowes Wharf Sea Grille,0,市中心(Downtown),6.7,8.3,8.3
+快餐简餐,Ruth's Chris Steak House,Ruth's Chris Steak House,0,,7.5,7.5,7.5
+快餐简餐,Tasty Burger,Tasty Burger,0,市中心(Downtown),8.0,7.3,7.3
+快餐简餐,Top of the Hub,Top of the Hub,0,芬威肯莫尔(Fenway Kenmore),7.4,8.1,8.1
+快餐简餐,Pho Pasteur,Pho Pasteur,0,市中心(Downtown),7.4,7.1,6.8
+快餐简餐,Boston Chowda,Boston Chowda,0,波士顿其他,6.7,6.7,7.5
+快餐简餐,Meritage - The Restaurant,Meritage - The Restaurant,0,波士顿其他,7.5,8.3,8.3
+快餐简餐,Coda Bar & Kitchen,Coda Bar & Kitchen,0,南区(South End),7.1,7.1,7.1
+快餐简餐,Savin Bar & Kitchen,Savin Bar & Kitchen,0,波士顿其他,7.2,7.2,7.2
+快餐简餐,Legal Sea Foods-Long Wharf,Legal Sea Foods-Long Wharf,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Chart House Restaurant,Chart House Restaurant,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Scollay Square,Scollay Square,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Skipjack's - Best Fresh Seafood,Skipjack's - Best Fresh Seafood,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Abe & Louie's,Abe & Louie's,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Whole Foods Market,Whole Foods Market,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,75 Chestnut,75 Chestnut,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,75 on Liberty Wharf,75 on Liberty Wharf,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Legal Test Kitchen - Logan Terminal A,Legal Test Kitchen - Logan Terminal A,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Mooo,Mooo,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Last Hurrah,Last Hurrah,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Maggiano's Little Italy,Maggiano's Little Italy,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,,6.8,6.8,6.8
+快餐简餐,29 Newbury Street,29 Newbury Street,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,5 Napkin Burger- Boston,5 Napkin Burger- Boston,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Nix's Mate,Nix's Mate,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Dine Boston,Dine Boston,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Daily Grill - Boston,Daily Grill - Boston,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,DJ's At The Garden,DJ's At The Garden,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Mike & Patty's,Mike & Patty's,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Lir Irish Pub and Restaurant,Lir Irish Pub and Restaurant,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Grill 23 & Bar,Grill 23 & Bar,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Barracuda Tavern,Barracuda Tavern,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Freeport Tavern,Freeport Tavern,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Citizen Public House,Citizen Public House,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,North Street Grille,North Street Grille,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Ecco,Ecco,0,东波士顿(East Boston),0.0,0.0,0.0
+快餐简餐,Trade,Trade,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Aquitaine,Aquitaine,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Steve's Restaurant,Steve's Restaurant,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Sam's,Sam's,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Waterfront Cafe Sports Bar & Grill,The Waterfront Cafe Sports Bar & Grill,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Globe Bar and Grill,Globe Bar and Grill,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Stoddard's,Stoddard's,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,The French Room at Taj Boston,The French Room at Taj Boston,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,City Table,City Table,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,California Pizza Kitchen,California Pizza Kitchen,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Beantown Pub,Beantown Pub,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Parker's Restaurant,Parker's Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Pigalle,Pigalle,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Volle Nolle,Volle Nolle,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Woody's Grill and Tap,Woody's Grill and Tap,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,MET Back Bay,MET Back Bay,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Ten Tables,Ten Tables,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Eagle's Deli,Eagle's Deli,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Jim's Deli & Restaurant,Jim's Deli & Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Granary Tavern,Granary Tavern,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Stephanie's on Newbury,Stephanie's on Newbury,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Pour House,Pour House,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Joe's American Bar & Grill,Joe's American Bar & Grill,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,L.A. Burdick,L.A. Burdick,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Smith & Wollensky - Boston Atlantic Wharf,Smith & Wollensky - Boston Atlantic Wharf,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Warren Tavern,Warren Tavern,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Big Guy's,Big Guy's,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Thornton's Restaurant,Thornton's Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Parish Cafe,Parish Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Billy's Sub Shop,Billy's Sub Shop,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Harpoon Brewery,Harpoon Brewery,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Mmmac and cheese,Mmmac and cheese,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Jerry Remy's Sports Bar and Grill,Jerry Remy's Sports Bar and Grill,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Bravo Restaurant,Bravo Restaurant,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Precinct Kitchen and Bar,Precinct Kitchen and Bar,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Troquet,Troquet,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Bristol Lounge,Bristol Lounge,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Legal Crossing,Legal Crossing,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Back Deck,Back Deck,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Abby Lane Food & Spirits,Abby Lane Food & Spirits,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,224 Boston Street,224 Boston Street,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Avenue One,Avenue One,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Sorrelina,Sorrelina,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Scholars American Bistro and Cocktail Lounge,Scholars American Bistro and Cocktail Lounge,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Yard House,Yard House,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Clio,Clio,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,McGreevy's,McGreevy's,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Masona Grill,Masona Grill,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Fusion Food,Fusion Food,0,,7.1,7.0,7.0
+快餐简餐,Jimbo's Fish Shanty,Jimbo's Fish Shanty,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Barking Crab,Barking Crab,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,M.J. O'Connor's Irish Pub,M.J. O'Connor's Irish Pub,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Firehouse Subs - Copley Square,Firehouse Subs - Copley Square,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Flash's,Flash's,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Bruegger's Bagels,Bruegger's Bagels,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,The Courtyard Restaurant,The Courtyard Restaurant,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Dillon's Restaurant and Bar,Dillon's Restaurant and Bar,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Lambert's Rainbow Fruit,Lambert's Rainbow Fruit,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Bar,The Bar,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,b.good,b.good,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Spike's Junkyard Dogs,Spike's Junkyard Dogs,0,布莱顿(Brighton),0.0,0.0,0.0
+快餐简餐,Ward 8,Ward 8,0,北区(North End),0.0,0.0,0.0
+快餐简餐,LongHorn Steakhouse,LongHorn Steakhouse,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Minibar,Minibar,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Dunkin' Donuts,Dunkin' Donuts,0,东波士顿(East Boston),0.0,0.0,0.0
+快餐简餐,Vino Vollo,Vino Vollo,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Ames Plow Tavern,Ames Plow Tavern,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Milk Street Cafe,Milk Street Cafe,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Meridian Food Market,Meridian Food Market,0,东波士顿(East Boston),0.0,0.0,0.0
+快餐简餐,The Trophy Room,The Trophy Room,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Ned Devine's Pub,Ned Devine's Pub,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Hampshire House,Hampshire House,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Lansdowne Pub,The Lansdowne Pub,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Eire Pub,Eire Pub,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Roast Beast,Roast Beast,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Bravo at Boston Museum of Fine Arts,Bravo at Boston Museum of Fine Arts,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Emmets,Emmets,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Red Hat Cafe,Red Hat Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Green Dragon,The Green Dragon,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Clink at the Liberty Hotel,Clink at the Liberty Hotel,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Longwood,Longwood,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Harvard Club of Boston,Harvard Club of Boston,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Hill Tavern,Hill Tavern,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Forty Dalton,Forty Dalton,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Whiskey's Food and Spirits,Whiskey's Food and Spirits,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Au Bon Pain,Au Bon Pain,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Donna's Restaurant,Donna's Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Finagle-A-Bagel,Finagle-A-Bagel,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Babushka Deli Incorporated,Babushka Deli Incorporated,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,No Name Restaurant,No Name Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Centre Street Cafe,Centre Street Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Cheers--Faneuil Hall,Cheers--Faneuil Hall,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Club Cafe,Club Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Patty's Pantry,Patty's Pantry,0,多切斯特(Dorchester),0.0,0.0,0.0
+快餐简餐,Dick's Last Resort,Dick's Last Resort,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Charlie's Pizza & Cafe,Charlie's Pizza & Cafe,0,奥尔斯顿(Allston),0.0,0.0,0.0
+快餐简餐,Logan Intl Airport Bar & Grill,Logan Intl Airport Bar & Grill,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,New American Cafe,New American Cafe,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Water Cafe,Water Cafe,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Connexion Lounge,Connexion Lounge,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Avery Bar,Avery Bar,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Deli of Course,Deli of Course,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Champagne Sunday Brunch,Champagne Sunday Brunch,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Boston Street Market Incorporated,Boston Street Market Incorporated,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Pairings,Pairings,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Hillstone Restaurant (Boston),Hillstone Restaurant (Boston),0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Boston Beer Works,Boston Beer Works,0,北区(North End),0.0,0.0,0.0
+快餐简餐,L'Osteria,L'Osteria,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Terramia,Terramia,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Mamma Maria,Mamma Maria,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Joe's American Bar & Grill,Joe's American Bar & Grill,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Uno Due Go,Uno Due Go,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Silvertone Bar & Grill,Silvertone Bar & Grill,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,blu,blu,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,J Pace & Son Incorporated,J Pace & Son Incorporated,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Finale Park Plaza,Finale Park Plaza,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Via Matta,Via Matta,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,jm Curley,jm Curley,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,South Street Diner,South Street Diner,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Mr. Dooley's Boston Tavern,Mr. Dooley's Boston Tavern,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Rock Bottom Restaurant & Brewery,Rock Bottom Restaurant & Brewery,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Rustic Kitchen Park Square,Rustic Kitchen Park Square,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Intermission Tavern,Intermission Tavern,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Darryl's Corner Bar and Kitchen,Darryl's Corner Bar and Kitchen,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Bleacher Bar,Bleacher Bar,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,The Gardner Cafe,The Gardner Cafe,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Boston Beer Works,Boston Beer Works,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Boston Burger Company,Boston Burger Company,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Bukowskis Tavern,Bukowskis Tavern,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Back Bay Social Club,Back Bay Social Club,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Max Brenner - Boston,Max Brenner - Boston,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Wired Puppy,Wired Puppy,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Forum,Forum,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Cafe Jaffa,Cafe Jaffa,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Charley's Eating & Drinking Saloon,Charley's Eating & Drinking Saloon,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,City Bar,City Bar,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,UNO Chicago Grill,UNO Chicago Grill,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Stanhope Grille,Stanhope Grille,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Sorellina,Sorellina,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Stephi's,Stephi's,0,南区(South End),0.0,0.0,0.0
+快餐简餐,J. J. Foley's Cafe,J. J. Foley's Cafe,0,南区(South End),0.0,0.0,0.0
+快餐简餐,The Salty Pig,The Salty Pig,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Tremont 647,Tremont 647,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Franklin Cafe,Franklin Cafe,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Hamersley's Bistro,Hamersley's Bistro,0,南区(South End),0.0,0.0,0.0
+快餐简餐,The Medieval Manor,The Medieval Manor,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Masa,Masa,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Charlie's Sandwich Shoppe,Charlie's Sandwich Shoppe,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Union Bar and Grille,Union Bar and Grille,0,南区(South End),0.0,0.0,0.0
+快餐简餐,The Butcher Shop,The Butcher Shop,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Mike's City Diner,Mike's City Diner,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Kitchen,Kitchen,0,南区(South End),0.0,0.0,0.0
+快餐简餐,South End Formaggio,South End Formaggio,0,南区(South End),0.0,0.0,0.0
+快餐简餐,The Beehive,The Beehive,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Lucky's,Lucky's,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Vee Vee,Vee Vee,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Flour Bakery,Flour Bakery,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Champions,Champions,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Boston Sail Loft Restaurant,Boston Sail Loft Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Amrheins Restaurant,Amrheins Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,New Market Pizza & Grill,New Market Pizza & Grill,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Sunset Grill & Tap,Sunset Grill & Tap,0,布莱顿(Brighton),0.0,0.0,0.0
+快餐简餐,Doyle's Cafe,Doyle's Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Sip Wine Bar and Kitchen,Sip Wine Bar and Kitchen,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,City Landing Restaurant,City Landing Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Lincoln Tavern and Restaurant,Lincoln Tavern and Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Mul's Diner,Mul's Diner,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Deep Ellum,Deep Ellum,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Penguin Pizza,Penguin Pizza,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Real Deal,The Real Deal,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Panera Bread,Panera Bread,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Seasons Restaurant,Seasons Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Avenue,The Avenue,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Blackstone Grill,Blackstone Grill,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Salvatores,Salvatores,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,SideBar Lounge,SideBar Lounge,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Chicken Lou's,Chicken Lou's,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Vineyard Grille,Vineyard Grille,0,东波士顿(East Boston),0.0,0.0,0.0
+快餐简餐,Legal C Bar - Logan Airport Terminal B,Legal C Bar - Logan Airport Terminal B,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Grille 705,Grille 705,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,An Tain,An Tain,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Finagle-A-Bagel,Finagle-A-Bagel,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Happy's Bar & Kitchen,Happy's Bar & Kitchen,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Durgin Park,Durgin Park,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Zoup,Zoup,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Riddick's House of Pizza,Riddick's House of Pizza,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,D'Angelo Sandwiches,D'Angelo Sandwiches,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Roost Bistro,Roost Bistro,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Capitol Coffee House,Capitol Coffee House,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Harvard Gardens,Harvard Gardens,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Sports Grille Boston,Sports Grille Boston,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,High Spot Deli,High Spot Deli,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Anthem Kitchen & Bar,Anthem Kitchen & Bar,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Carrie Nation,Carrie Nation,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Ruby Room,The Ruby Room,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Porter's Bar & Grill,Porter's Bar & Grill,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,North 26 At The Millennium Bostonian Hotel,North 26 At The Millennium Bostonian Hotel,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Trinity,Trinity,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,West End Johnnies,West End Johnnies,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Sevens,The Sevens,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Waterline,Waterline,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Tia's,Tia's,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Kingston Station,Kingston Station,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Sweetwater Cafe,Sweetwater Cafe,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,The Melting Pot,The Melting Pot,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,UBurger - Tremont,UBurger - Tremont,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Blue Inc,Blue Inc,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Cheeseboy,Cheeseboy,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Hub Pub,Hub Pub,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Scali Cafe,Scali Cafe,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Fajitas & 'Ritas,Fajitas & 'Ritas,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Archie's New York Deli,Archie's New York Deli,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Max's Deli Cafe,Max's Deli Cafe,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Remington's,Remington's,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Herrera's Mexican Grill,Herrera's Mexican Grill,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Slate,Slate,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,The Littlest Bar,The Littlest Bar,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,49 Social,49 Social,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Granery Tavern,Granery Tavern,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,DavidsTea,DavidsTea,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,The Vault,The Vault,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Warehouse Bar & Grille,Warehouse Bar & Grille,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Bostonia Public House,Bostonia Public House,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Cosi,Cosi,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Delicato Cafe & Catering,Delicato Cafe & Catering,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,The Lower Depths,The Lower Depths,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Conor Larkin's Grill & Tap,Conor Larkin's Grill & Tap,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Cafe 472,Cafe 472,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Sweet Caroline's,Sweet Caroline's,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,19 Yawkey Way,19 Yawkey Way,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Cask'n Flagon,Cask'n Flagon,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,The Brahmin American Cuisine & Cocktails,The Brahmin American Cuisine & Cocktails,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,The Corner Tavern,The Corner Tavern,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,b.good,b.good,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Tossed,Tossed,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Jerry Remy's - Logan Airport,Jerry Remy's - Logan Airport,0,东波士顿(East Boston),0.0,0.0,0.0
+快餐简餐,Render Coffee,Render Coffee,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Sister Sorel,Sister Sorel,0,南区(South End),0.0,0.0,0.0
+快餐简餐,BoMa,BoMa,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Delux Cafe,Delux Cafe,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Equator,Equator,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Sibling Rivalry,Sibling Rivalry,0,南区(South End),0.0,0.0,0.0
+快餐简餐,606 Congress,606 Congress,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Mission Bar & Grill,The Mission Bar & Grill,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,City Feed,City Feed,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,dbar,dbar,0,多切斯特(Dorchester),0.0,0.0,0.0
+快餐简餐,Flann Obrien's,Flann Obrien's,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Barlow's Restaurant,Barlow's Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Jerry Remy's - Seaport,Jerry Remy's - Seaport,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Sugar Baking Co & Restaurant,Sugar Baking Co & Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Ledge,The Ledge,0,多切斯特(Dorchester),0.0,0.0,0.0
+快餐简餐,Battery Park Bar and Lounge,Battery Park Bar and Lounge,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Bar 10,Bar 10,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Boloco,Boloco,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,My Diner,My Diner,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Channel Cafe,Channel Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Purple Cactus Burrito & Wrap Bar,Purple Cactus Burrito & Wrap Bar,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Playwright Bar & Cafe,The Playwright Bar & Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Galley Diner,Galley Diner,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Dogwood Cafe,Dogwood Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Pleasant Cafe & Restaurant,Pleasant Cafe & Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Breakfast Club,The Breakfast Club,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Ironside Grill,Ironside Grill,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Dash Cafe,Dash Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Earl of Sandwich,Earl of Sandwich,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Redd's in Rozzie,Redd's in Rozzie,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Pastoral,Pastoral,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Porter Cafe,The Porter Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Birch Street Bistro,Birch Street Bistro,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Goodbar,Goodbar,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,M&M Bar-B-Q,M&M Bar-B-Q,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Pat's Of Lower Mills,Pat's Of Lower Mills,0,多切斯特(Dorchester),0.0,0.0,0.0
+快餐简餐,21st Amendment,21st Amendment,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Glenville Stops,The Glenville Stops,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Spring Street Cafe,Spring Street Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,West on Centre,West on Centre,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,J. Pace & Son,J. Pace & Son,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Tap Bar & Grill,The Tap Bar & Grill,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Hungry I,The Hungry I,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Bin 26 Enoteca,Bin 26 Enoteca,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Grand Canal,The Grand Canal,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Johnnie's on the Side,Johnnie's on the Side,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Kinsale,The Kinsale,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Harp,The Harp,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Flat Iron Tapas Bar & Lounge,Flat Iron Tapas Bar & Lounge,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Salty Dog Seafood Grille & Bar,Salty Dog Seafood Grille & Bar,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Zuma Tex-Mex,Zuma Tex-Mex,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Sanctuary,Sanctuary,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,6B Lounge,6B Lounge,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Durgin Park,Durgin Park,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Derne Street Deli,Derne Street Deli,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The North Star,The North Star,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Bell In Hand Tavern,Bell In Hand Tavern,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Paesans,Paesans,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Nick Varano's Famous Deli,Nick Varano's Famous Deli,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Oceana,Oceana,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Salumeria Toscana,Salumeria Toscana,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Tutto Italiano,Tutto Italiano,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Michael's Waterfront,Michael's Waterfront,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Joseph's Restaurant,Joseph's Restaurant,0,北区(North End),0.0,0.0,0.0
+快餐简餐,Gypsy Bar,Gypsy Bar,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Caprice International Burger Bar,Caprice International Burger Bar,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Felt,Felt,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Grilled Cheese Nation,Grilled Cheese Nation,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Freshii,Freshii,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Aqua Bar and Grill,Aqua Bar and Grill,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,New Place,New Place,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Kingston Deli & Grill,Kingston Deli & Grill,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Bakey's,Bakey's,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Susan Deli of Course,Susan Deli of Course,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Grass Roots Deli,Grass Roots Deli,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Best Cafe,Best Cafe,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Brandy Pete's,Brandy Pete's,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Sterling's,Sterling's,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Little City Feed,Little City Feed,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Society on High,Society on High,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Times,Times,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Coogan's,Coogan's,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Jose McIntyre's,Jose McIntyre's,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Boston College Club,Boston College Club,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Figaros,Figaros,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Symphony Cafe,Symphony Cafe,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Pavement Coffeehouse,Pavement Coffeehouse,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Cappy's Pizza & Subs,Cappy's Pizza & Subs,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Thornton's Fenway Grille,Thornton's Fenway Grille,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Red Barn Coffee Roasters,Red Barn Coffee Roasters,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Absolut Clubhouse,Absolut Clubhouse,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Cafe Apropos,Cafe Apropos,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Copley's Grand Cafe,Copley's Grand Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Other Side Cafe,Other Side Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Storyville,Storyville,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Daisy Buchanan's,Daisy Buchanan's,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,The Wine Cellar,The Wine Cellar,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Dough,Dough,0,东波士顿(East Boston),0.0,0.0,0.0
+快餐简餐,Potbelly Sandwich Works,Potbelly Sandwich Works,0,东波士顿(East Boston),0.0,0.0,0.0
+快餐简餐,Noche,Noche,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Clerys Restaurant,Clerys Restaurant,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Emilios Pizza & Sub Shop,Emilios Pizza & Sub Shop,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Hidden Kitchen,Hidden Kitchen,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Harry's All-American Breakfast,Harry's All-American Breakfast,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,White Horse Tavern,White Horse Tavern,0,布莱顿(Brighton),0.0,0.0,0.0
+快餐简餐,Westbury Restaurant,Westbury Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,James's Gate,James's Gate,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,West Roxbury Pub & Restaurant,West Roxbury Pub & Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Brighton Beer Garden,Brighton Beer Garden,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Dot 2 Dot Cafe,Dot 2 Dot Cafe,0,多切斯特(Dorchester),0.0,0.0,0.0
+快餐简餐,Nick's Pizza,Nick's Pizza,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Primavera Restaurant,The Primavera Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Cristelle's Restaurant,Cristelle's Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Sculler's Green Room,Sculler's Green Room,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Tavern In The Square Allston,Tavern In The Square Allston,0,布莱顿(Brighton),0.0,0.0,0.0
+快餐简餐,Chill,Chill,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,paramont,paramont,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,When Pigs Fly,When Pigs Fly,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Wolfie's Kitchen & Bar,Wolfie's Kitchen & Bar,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Todd English's Bonfire,Todd English's Bonfire,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Metropolitan Museum of Fine Arts-Taste Cafe,Metropolitan Museum of Fine Arts-Taste Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Blackthorn Bar,Blackthorn Bar,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Roof at Taj Boston,The Roof at Taj Boston,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Cafe Rialto,Cafe Rialto,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Liberty Bell Roast Beef,Liberty Bell Roast Beef,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Cafe Arpeggio,Cafe Arpeggio,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Gourmeli's,Gourmeli's,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Sausage Guy,The Sausage Guy,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Seapoint Restaurant,Seapoint Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,L Street Diner & Pizzeria,L Street Diner & Pizzeria,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Joseph's Deli,Joseph's Deli,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Baltic Deli Express,Baltic Deli Express,0,多切斯特(Dorchester),0.0,0.0,0.0
+快餐简餐,Wingit Foods INC,Wingit Foods INC,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Jasmine Bistro,Jasmine Bistro,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Sorella's,Sorella's,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Bluestone Bistro,Bluestone Bistro,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Cafe Brazil,Cafe Brazil,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Captain Fishbones,Captain Fishbones,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Chef Lee's II Soul Food,Chef Lee's II Soul Food,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Brigham Circle Diner,Brigham Circle Diner,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Crossing Bar,The Crossing Bar,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Earl of Sandwich,Earl of Sandwich,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Phillips Old Colony,Phillips Old Colony,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Robinwood Cafe,Robinwood Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Boston Beer Works,Boston Beer Works,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Style Cafe Boston,Style Cafe Boston,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Hayley House Bakery Cafe,Hayley House Bakery Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Giddy Up,Giddy Up,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The cottage,The cottage,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Blasi Cafe & Deli,Blasi Cafe & Deli,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,The Fairmount Grille,The Fairmount Grille,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Moogy's Sandwich Shop,Moogy's Sandwich Shop,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Tom English Bar,Tom English Bar,0,多切斯特(Dorchester),0.0,0.0,0.0
+快餐简餐,Wonder Bar,Wonder Bar,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,T's Pub,T's Pub,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Kelly's Cork N Bull,Kelly's Cork N Bull,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Rebecca's Cafe,Rebecca's Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Sauciety,Sauciety,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Gerard's Restaurant,Gerard's Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Doughboy Donuts and Deli,Doughboy Donuts and Deli,0,多切斯特(Dorchester),0.0,0.0,0.0
+快餐简餐,IHOP,IHOP,0,,7.1,7.3,7.1
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Teriyaki Yummy,Teriyaki Yummy,0,,7.1,7.1,7.1
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.9
+快餐简餐,Plaza III The Kansas City Steakhouse,Plaza III The Kansas City Steakhouse,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Torch,Torch,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Hurricane O'Reilly's,Hurricane O'Reilly's,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Max and Dylans,Max and Dylans,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,West End Strollers,West End Strollers,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Caffe Bella Vita,Caffe Bella Vita,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,7.0,7.0,7.0
+快餐简餐,Burger King,Burger King,0,,6.7,6.7,6.7
+快餐简餐,Five Guys,Five Guys,0,,7.0,7.0,6.9
+快餐简餐,News,News,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Mystery Cafe,Mystery Cafe,0,市中心(Downtown),0.0,0.0,0.0
+快餐简餐,Symphony 8,Symphony 8,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,Ankara Cafe 2,Ankara Cafe 2,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+快餐简餐,The Wrap,The Wrap,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Park Square Cafe,Park Square Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+快餐简餐,Dunkin' Donuts,Dunkin' Donuts,0,东波士顿(East Boston),0.0,0.0,0.0
+快餐简餐,Wolfgang Puck Gourmet Express,Wolfgang Puck Gourmet Express,0,东波士顿(East Boston),0.0,0.0,0.0
+快餐简餐,Quotes Cafe,Quotes Cafe,0,南区(South End),0.0,0.0,0.0
+快餐简餐,209,209,0,南区(South End),0.0,0.0,0.0
+快餐简餐,Blue Star Restaurant,Blue Star Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Blue Wave Bar and Grill,Blue Wave Bar and Grill,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,McFadden's Pub,McFadden's Pub,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Brinkleys Restaurant & Pub,Brinkleys Restaurant & Pub,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Stadium,Stadium,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Annabelle's Restaurant,Annabelle's Restaurant,0,海德公园(Hyde Park),0.0,0.0,0.0
+快餐简餐,O'Brien's Pub,O'Brien's Pub,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Johnny Rockets,Johnny Rockets,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Harp & Bard,Harp & Bard,0,多切斯特(Dorchester),0.0,0.0,0.0
+快餐简餐,Ozone,Ozone,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Fuddruckers,Fuddruckers,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Game on! Logan Airport Terminal A Boston,Game on! Logan Airport Terminal A Boston,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Centre Street Sanctuary,Centre Street Sanctuary,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Boston Beer Garden,Boston Beer Garden,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Rudi's Resto Cafe,Rudi's Resto Cafe,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,D'Angelo's - Old Colony,D'Angelo's - Old Colony,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Poppa B's Restaurant,Poppa B's Restaurant,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Cityside Bar and Grille,Cityside Bar and Grille,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,Legal Sea Foods - Logan Term C,Legal Sea Foods - Logan Term C,0,波士顿其他,0.0,0.0,0.0
+快餐简餐,vineyard grill,vineyard grill,0,东波士顿(East Boston),0.0,0.0,0.0
+快餐简餐,Five Napkins Burger,Five Napkins Burger,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Dumpling Cafe,Dumpling Cafe,0,市中心(Downtown),7.5,6.7,6.7
+更多亚洲菜,East Ocean City Restaurant,East Ocean City Restaurant,0,市中心(Downtown),7.5,6.4,7.5
+更多亚洲菜,Pho And I,Pho And I,0,市中心(Downtown),7.4,7.4,7.4
+更多亚洲菜,Pho and I,Pho and I,0,芬威肯莫尔(Fenway Kenmore),8.0,8.0,7.3
+更多亚洲菜,Pho Hoa Restaurant,Pho Hoa Restaurant,0,多切斯特(Dorchester),7.4,7.4,7.4
+更多亚洲菜,Chilli Duck Thai,Chilli Duck Thai,0,后湾(Back Bay),7.0,7.0,7.0
+更多亚洲菜,Nud POB Thai Restaurant,Nud POB Thai Restaurant,0,芬威肯莫尔(Fenway Kenmore),7.1,6.8,7.1
+更多亚洲菜,The Q Restaurant,The Q Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Shabu-Zen,Shabu-Zen,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Penang,Penang,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,The Elephant Walk,The Elephant Walk,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Brown Sugar Cafe,Brown Sugar Cafe,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Empire Restaurant and Lounge,Empire Restaurant and Lounge,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Ariana Restaurant in Boston,Ariana Restaurant in Boston,0,布莱顿(Brighton),0.0,0.0,0.0
+更多亚洲菜,Bangkok Express,Bangkok Express,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,My Thai,My Thai,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Xinh Xinh,Xinh Xinh,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Typhoon Asian Bistro,Typhoon Asian Bistro,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Red Lantern,Red Lantern,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Wagamama,Wagamama,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,P.F. Chang's,P.F. Chang's,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Bangkok Bistro,Bangkok Bistro,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Siam Bistro Thai Cuisine,Siam Bistro Thai Cuisine,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Bamboo Thai Restaurant,Bamboo Thai Restaurant,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Punjab Palace,Punjab Palace,0,布莱顿(Brighton),0.0,0.0,0.0
+更多亚洲菜,Thai North,Thai North,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Shanti - Taste of India,Shanti - Taste of India,0,多切斯特(Dorchester),0.0,0.0,0.0
+更多亚洲菜,Noodle St,Noodle St,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+更多亚洲菜,Saray Restaurant,Saray Restaurant,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,P.F. Chang's,P.F. Chang's,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Bangkok Blue Thai Restaurant,Bangkok Blue Thai Restaurant,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Puritan Tea Room,Puritan Tea Room,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+更多亚洲菜,The Chicken and Rice Guys,The Chicken and Rice Guys,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Chutney's,Chutney's,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+更多亚洲菜,Vinh-Sun BBQ & Restaurant,Vinh-Sun BBQ & Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Singh's Roti Shop,Singh's Roti Shop,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Tantric Indian Bistro,Tantric Indian Bistro,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,India Quality Restaurant,India Quality Restaurant,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+更多亚洲菜,Thai Basil Restaurant,Thai Basil Restaurant,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Chilli Duck,Chilli Duck,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Mela,Mela,0,南区(South End),0.0,0.0,0.0
+更多亚洲菜,Sultan's Kitchen,Sultan's Kitchen,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Blue Dragon,Blue Dragon,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Himalayan Bistro,Himalayan Bistro,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,YoMa,YoMa,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Talk & Wok Cafe,Talk & Wok Cafe,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,New Saigon Sandwich,New Saigon Sandwich,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Pho Hoa Restaurant,Pho Hoa Restaurant,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Quan's Kitchen,Quan's Kitchen,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Lala Rokh on Beacon Hill,Lala Rokh on Beacon Hill,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,King & I,King & I,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Ma Soba,Ma Soba,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Gourmet India,Gourmet India,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Bubor C'ha C'ha,Bubor C'ha C'ha,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Bangkok City,Bangkok City,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+更多亚洲菜,Pad Thai Cafe,Pad Thai Cafe,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+更多亚洲菜,Itadaki,Itadaki,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,India Samraat Restaurant,India Samraat Restaurant,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Hsin Hsin Cafe,Hsin Hsin Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Liquid art house,Liquid art house,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Kashmir,Kashmir,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Jae's South End,Jae's South End,0,南区(South End),0.0,0.0,0.0
+更多亚洲菜,House of Siam,House of Siam,0,南区(South End),0.0,0.0,0.0
+更多亚洲菜,Shabu-Zen,Shabu-Zen,0,布莱顿(Brighton),0.0,0.0,0.0
+更多亚洲菜,Grasshopper,Grasshopper,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Le's,Le's,0,布莱顿(Brighton),0.0,0.0,0.0
+更多亚洲菜,A AT TimE,A AT TimE,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Bukhara,Bukhara,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Phuket Thai Restaurant,Phuket Thai Restaurant,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,163 Vietnamese Sandwiches,163 Vietnamese Sandwiches,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,King Fung Garden,King Fung Garden,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Ocean Wealth Restaurant,Ocean Wealth Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Wai Wai Ice Cream Shoppe,Wai Wai Ice Cream Shoppe,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Pasteur Restaurant,Pasteur Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Thai's Bistro,Thai's Bistro,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Bombay Cafe,Bombay Cafe,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+更多亚洲菜,Fiouna's Persian Fusion Cuisine,Fiouna's Persian Fusion Cuisine,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+更多亚洲菜,Gourmet India,Gourmet India,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Island Hopper,Island Hopper,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Bhindi Bazaar,Bhindi Bazaar,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Saffron Restaurant,Saffron Restaurant,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Kebab-N-Kurry,Kebab-N-Kurry,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Thai Village,Thai Village,0,南区(South End),0.0,0.0,0.0
+更多亚洲菜,Nicole's Pizza,Nicole's Pizza,0,南区(South End),0.0,0.0,0.0
+更多亚洲菜,Ming's Cafe,Ming's Cafe,0,南区(South End),0.0,0.0,0.0
+更多亚洲菜,Ali Baba,Ali Baba,0,南区(South End),0.0,0.0,0.0
+更多亚洲菜,House of Siam on Tremont,House of Siam on Tremont,0,南区(South End),0.0,0.0,0.0
+更多亚洲菜,S & I Thai Cuisine,S & I Thai Cuisine,0,布莱顿(Brighton),0.0,0.0,0.0
+更多亚洲菜,Dawat Fine Indian Cuisine,Dawat Fine Indian Cuisine,0,布莱顿(Brighton),0.0,0.0,0.0
+更多亚洲菜,Cafe Mamtaz,Cafe Mamtaz,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Anh Hong,Anh Hong,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Azama Grill,Azama Grill,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Street Thai,Street Thai,0,布莱顿(Brighton),0.0,0.0,0.0
+更多亚洲菜,Sheesha Lounge,Sheesha Lounge,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Darbar,Darbar,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Sweet Pepper,Sweet Pepper,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Van Shabu & Bar,Van Shabu & Bar,0,多切斯特(Dorchester),0.0,0.0,0.0
+更多亚洲菜,Hau Giang Restaurant,Hau Giang Restaurant,0,多切斯特(Dorchester),0.0,0.0,0.0
+更多亚洲菜,Chow Thai Cafe,Chow Thai Cafe,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Pad Thai Cafe,Pad Thai Cafe,0,布莱顿(Brighton),0.0,0.0,0.0
+更多亚洲菜,ba le restaurant,ba le restaurant,0,多切斯特(Dorchester),0.0,0.0,0.0
+更多亚洲菜,Banh Mi Ngon Vietnamese Gourmet Sandwiches,Banh Mi Ngon Vietnamese Gourmet Sandwiches,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Shanti Taste of India,Shanti Taste of India,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Ban Chiang House,Ban Chiang House,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Pho Le,Pho Le,0,多切斯特(Dorchester),0.0,0.0,0.0
+更多亚洲菜,Wonder Spice Cafe,Wonder Spice Cafe,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,V Majestic Restaurant,V Majestic Restaurant,0,布莱顿(Brighton),0.0,0.0,0.0
+更多亚洲菜,Pho So 1 Boston,Pho So 1 Boston,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Color,Color,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Mt Everest Kitchen,Mt Everest Kitchen,0,布莱顿(Brighton),0.0,0.0,0.0
+更多亚洲菜,Bangkok Cafe,Bangkok Cafe,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Maithai Cuisine,Maithai Cuisine,0,北区(North End),0.0,0.0,0.0
+更多亚洲菜,India Express,India Express,0,市中心(Downtown),0.0,0.0,0.0
+更多亚洲菜,Shanti,Shanti,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+更多亚洲菜,Pan Thai Restaurant,Pan Thai Restaurant,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+更多亚洲菜,Hidyan Cafe,Hidyan Cafe,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+更多亚洲菜,Saigon Hut,Saigon Hut,0,东波士顿(East Boston),0.0,0.0,0.0
+更多亚洲菜,Red Fez,Red Fez,0,南区(South End),0.0,0.0,0.0
+更多亚洲菜,Ghazal Fine Indian Cuisine,Ghazal Fine Indian Cuisine,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Thai Place,Thai Place,0,布莱顿(Brighton),0.0,0.0,0.0
+更多亚洲菜,Charlie Chan's Chinese Restaurant,Charlie Chan's Chinese Restaurant,0,波士顿其他,0.0,0.0,0.0
+更多亚洲菜,Brown Sugar Cafe,Brown Sugar Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+更多亚洲菜,Shilla Shabu Ya,Shilla Shabu Ya,0,波士顿其他,0.0,0.0,0.0
+海鲜,Legal Sea Foods,Legal Sea Foods,259,东波士顿(East Boston),8.7,8.0,8.2
+海鲜,Peach Farm Restaurant,Peach Farm Restaurant,0,市中心(Downtown),7.5,6.6,5.9
+海鲜,Legal Sea Foods Restaurant Oyster Bar,Legal Sea Foods Restaurant Oyster Bar,0,,7.5,7.4,7.4
+海鲜,Atlantic Fish Company,Atlantic Fish Company,0,后湾(Back Bay),8.2,7.6,7.6
+海鲜,Summer Shack,Summer Shack,0,芬威肯莫尔(Fenway Kenmore),7.6,6.8,7.6
+海鲜,Boston and Maine Fish Co.,Boston and Maine Fish Co.,0,波士顿其他,0.0,0.0,0.0
+海鲜,The Oceanaire Seafood Room,The Oceanaire Seafood Room,0,市中心(Downtown),6.7,7.9,7.1
+海鲜,Legal Sea Foods,Legal Sea Foods,0,东波士顿(East Boston),6.8,6.6,6.8
+海鲜,Ostra,Ostra,0,市中心(Downtown),8.3,7.5,7.5
+海鲜,Thompson's Chowder House,Thompson's Chowder House,0,波士顿其他,0.0,0.0,0.0
+海鲜,Yankee Lobster Fish Market,Yankee Lobster Fish Market,0,波士顿其他,0.0,0.0,0.0
+海鲜,Legal Harborside,Legal Harborside,0,波士顿其他,0.0,0.0,0.0
+海鲜,Oyster Shell House Incorporated,Oyster Shell House Incorporated,0,波士顿其他,0.0,0.0,0.0
+海鲜,Stockyard Restaurant,Stockyard Restaurant,0,波士顿其他,0.0,0.0,0.0
+海鲜,Row 34,Row 34,0,波士顿其他,0.0,0.0,0.0
+海鲜,Navy Yard Bistro,Navy Yard Bistro,0,波士顿其他,0.0,0.0,0.0
+海鲜,Woodward,Woodward,0,波士顿其他,0.0,0.0,0.0
+海鲜,Post 390,Post 390,0,后湾(Back Bay),0.0,0.0,0.0
+海鲜,Fisherman Net,Fisherman Net,0,波士顿其他,0.0,0.0,0.0
+海鲜,Merrill & Co.,Merrill & Co.,0,南区(South End),0.0,0.0,0.0
+海鲜,McCormick & Schmick's Seafood - Park Plaza,McCormick & Schmick's Seafood - Park Plaza,0,市中心(Downtown),0.0,0.0,0.0
+海鲜,Local 149,Local 149,0,波士顿其他,0.0,0.0,0.0
+海鲜,Walrus & Carpenter,Walrus & Carpenter,0,波士顿其他,0.0,0.0,0.0
+海鲜,Morse Fish Company,Morse Fish Company,0,南区(South End),0.0,0.0,0.0
+海鲜,Atlantic Beer Garden,Atlantic Beer Garden,0,波士顿其他,0.0,0.0,0.0
+海鲜,Anthony's Cafe On Waterfront,Anthony's Cafe On Waterfront,0,北区(North End),0.0,0.0,0.0
+海鲜,Paddy O's,Paddy O's,0,波士顿其他,0.0,0.0,0.0
+海鲜,mccormick & smicks,mccormick & smicks,0,市中心(Downtown),0.0,0.0,0.0
+海鲜,North End Fish Market,North End Fish Market,0,北区(North End),0.0,0.0,0.0
+海鲜,Big Fish Seafood Restaurant,Big Fish Seafood Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+海鲜,World Seafood Restaurant,World Seafood Restaurant,0,多切斯特(Dorchester),0.0,0.0,0.0
+海鲜,Four Winds,Four Winds,0,北区(North End),0.0,0.0,0.0
+海鲜,University Club,University Club,0,后湾(Back Bay),0.0,0.0,0.0
+海鲜,McCormick adn Schmick,McCormick adn Schmick,0,波士顿其他,0.0,0.0,0.0
+海鲜,McCormick & Schmick's Seafood Restaurant,McCormick & Schmick's Seafood Restaurant,0,波士顿其他,0.0,0.0,0.0
+海鲜,Royal Roast Beef and Seafood,Royal Roast Beef and Seafood,0,波士顿其他,0.0,0.0,0.0
+海鲜,Legal Sea Foods,Legal Sea Foods,0,波士顿其他,0.0,0.0,0.0
+海鲜,海外酒楼,海外酒楼,0,,0.0,0.0,0.0
+烧烤,Gyu-Kaku Japanese BBQ,Gyu-Kaku Japanese BBQ,0,,8.1,8.1,8.1
+烧烤,Sunset Cantina,Sunset Cantina,0,波士顿其他,0.0,0.0,0.0
+烧烤,Sweet Cheeks Q,Sweet Cheeks Q,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+烧烤,Soulfire,Soulfire,0,波士顿其他,0.0,0.0,0.0
+烧烤,Larry J's BBQ Cafe,Larry J's BBQ Cafe,0,波士顿其他,0.0,0.0,0.0
+烧烤,Chacarero,Chacarero,0,市中心(Downtown),0.0,0.0,0.0
+烧烤,BBQ Town Roslindale,BBQ Town Roslindale,0,波士顿其他,0.0,0.0,0.0
+烧烤,Canary Square,Canary Square,0,牙买加平原(Jamaica Plain),0.0,0.0,0.0
+烧烤,Original Sports Saloon,Original Sports Saloon,0,后湾(Back Bay),0.0,0.0,0.0
+烧烤,Pit Stop Barbeque,Pit Stop Barbeque,0,波士顿其他,0.0,0.0,0.0
+烧烤,Red-Eyed Pig,Red-Eyed Pig,0,波士顿其他,0.0,0.0,0.0
+烧烤,Ali's Roti Restaurant,Ali's Roti Restaurant,0,波士顿其他,0.0,0.0,0.0
+烧烤,Blackstrap BBQ,Blackstrap BBQ,0,,7.1,7.1,7.1
+烧烤,Naked Fish,Naked Fish,0,波士顿其他,0.0,0.0,0.0
+烧烤,ARIS Eat Barbecue,ARIS Eat Barbecue,0,波士顿其他,0.0,0.0,0.0
+比萨,Pizzeria Regina,Pizzeria Regina,0,波士顿其他,0.0,0.0,0.0
+比萨,Regina Pizzeria,Regina Pizzeria,0,波士顿其他,0.0,0.0,0.0
+比萨,The Upper Crust,The Upper Crust,0,波士顿其他,0.0,0.0,0.0
+比萨,Boston Kitchen Pizza,Boston Kitchen Pizza,0,市中心(Downtown),0.0,0.0,0.0
+比萨,Big Daddy's,Big Daddy's,0,波士顿其他,0.0,0.0,0.0
+比萨,New York Pizza,New York Pizza,0,南区(South End),0.0,0.0,0.0
+比萨,Regina Pizzeria,Regina Pizzeria,0,后湾(Back Bay),0.0,0.0,0.0
+比萨,Stone Hearth Pizza,Stone Hearth Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Primo's Restaurant,Primo's Restaurant,0,波士顿其他,0.0,0.0,0.0
+比萨,Ernesto's Pizza,Ernesto's Pizza,0,北区(North End),0.0,0.0,0.0
+比萨,Scissors and Pie,Scissors and Pie,0,波士顿其他,0.0,0.0,0.0
+比萨,Nino's Pizza,Nino's Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Halftime Pizza,Halftime Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,West End Pizza,West End Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Crazy Dough's Pizza,Crazy Dough's Pizza,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+比萨,Regina Pizzeria,Regina Pizzeria,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+比萨,Rome Pizza & Grill,Rome Pizza & Grill,0,南区(South End),0.0,0.0,0.0
+比萨,California Pizza Kitchen,California Pizza Kitchen,0,,0.0,0.0,0.0
+比萨,Pino's Pizza,Pino's Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Peace o' Pie Gourmet Vegan Pizza,Peace o' Pie Gourmet Vegan Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Circle Pizza,Circle Pizza,0,北区(North End),0.0,0.0,0.0
+比萨,Brickhouse Pizza & Grille,Brickhouse Pizza & Grille,0,市中心(Downtown),0.0,0.0,0.0
+比萨,The Proper Slice,The Proper Slice,0,市中心(Downtown),0.0,0.0,0.0
+比萨,Pizzeria Rico,Pizzeria Rico,0,市中心(Downtown),0.0,0.0,0.0
+比萨,Imperial Pizza,Imperial Pizza,0,市中心(Downtown),0.0,0.0,0.0
+比萨,Al Capone's,Al Capone's,0,市中心(Downtown),0.0,0.0,0.0
+比萨,Boston House of Pizza,Boston House of Pizza,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+比萨,Pizza Pie-er,Pizza Pie-er,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+比萨,UNO Chicago Grill,UNO Chicago Grill,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+比萨,College Pizza,College Pizza,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+比萨,University Grill & Pizza,University Grill & Pizza,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+比萨,Pizza Hut - Brookline Ave.,Pizza Hut - Brookline Ave.,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+比萨,Pizza Shuttle,Pizza Shuttle,0,东波士顿(East Boston),0.0,0.0,0.0
+比萨,DaCoopa's Pizza & Subs,DaCoopa's Pizza & Subs,0,东波士顿(East Boston),0.0,0.0,0.0
+比萨,A & N House of Pizza,A & N House of Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,DeNo's Pizza and Subs,DeNo's Pizza and Subs,0,波士顿其他,0.0,0.0,0.0
+比萨,JP House of Pizza,JP House of Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Naked Pizza,Naked Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Ecco Pizzeria,Ecco Pizzeria,0,波士顿其他,0.0,0.0,0.0
+比萨,Gallo's Pizzeria,Gallo's Pizzeria,0,波士顿其他,0.0,0.0,0.0
+比萨,Broadway Pizza Subs & More,Broadway Pizza Subs & More,0,波士顿其他,0.0,0.0,0.0
+比萨,Pizza Stop,Pizza Stop,0,波士顿其他,0.0,0.0,0.0
+比萨,Venice Pizza,Venice Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Kelley's Frosty Village,Kelley's Frosty Village,0,波士顿其他,0.0,0.0,0.0
+比萨,Andrew Square House of Pizza,Andrew Square House of Pizza,0,多切斯特(Dorchester),0.0,0.0,0.0
+比萨,LA Mamma Pizza & More,LA Mamma Pizza & More,0,布莱顿(Brighton),0.0,0.0,0.0
+比萨,Captain Nemo's,Captain Nemo's,0,波士顿其他,0.0,0.0,0.0
+比萨,Zesto's Pizza & Grille,Zesto's Pizza & Grille,0,波士顿其他,0.0,0.0,0.0
+比萨,Ideal Cafe & Pizza,Ideal Cafe & Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Inbound Pizza,Inbound Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Pizzanini,Pizzanini,0,波士顿其他,0.0,0.0,0.0
+比萨,Metro Cafe,Metro Cafe,0,波士顿其他,0.0,0.0,0.0
+比萨,The Bus Stop Pub,The Bus Stop Pub,0,波士顿其他,0.0,0.0,0.0
+比萨,Mister McGoo's Pizza & Subs,Mister McGoo's Pizza & Subs,0,波士顿其他,0.0,0.0,0.0
+比萨,Spukies'n Pizza,Spukies'n Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Pizza Pronto,Pizza Pronto,0,布莱顿(Brighton),0.0,0.0,0.0
+比萨,Christos Pizza,Christos Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Mike's Roast Beef and Pizza,Mike's Roast Beef and Pizza,0,,6.9,6.9,6.9
+比萨,John's Pizza,John's Pizza,0,,7.1,7.0,6.9
+比萨,Crazy Dough's Pizza,Crazy Dough's Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Adam Pizza,Adam Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Revere House of Pizza,Revere House of Pizza,0,,7.0,7.0,7.0
+比萨,Papa John's Pizza Revere MA,Papa John's Pizza Revere MA,0,,6.9,6.9,6.9
+比萨,Bianchi's Pizza,Bianchi's Pizza,0,,7.2,7.2,7.2
+比萨,Crest Avenue Pizza,Crest Avenue Pizza,0,,6.9,6.9,6.9
+比萨,Nadia's House of Pizza,Nadia's House of Pizza,0,,6.9,6.9,6.9
+比萨,Bostone Pizza,Bostone Pizza,0,后湾(Back Bay),0.0,0.0,0.0
+比萨,Harry O'S Pizza,Harry O'S Pizza,0,南区(South End),0.0,0.0,0.0
+比萨,Domino's Pizza,Domino's Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Andalus Pizza and Cafe,Andalus Pizza and Cafe,0,波士顿其他,0.0,0.0,0.0
+比萨,Stash's Pizza,Stash's Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Mastro Pizza,Mastro Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Upham House of Pizza,Upham House of Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,International Pizza & Sub,International Pizza & Sub,0,波士顿其他,0.0,0.0,0.0
+比萨,Papa Gino's,Papa Gino's,0,波士顿其他,0.0,0.0,0.0
+比萨,Jenny's Pizza,Jenny's Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Fast Eddie's Pizza,Fast Eddie's Pizza,0,波士顿其他,0.0,0.0,0.0
+比萨,Bani Restaurant,Bani Restaurant,0,波士顿其他,0.0,0.0,0.0
+比萨,Regina披萨,Regina披萨,0,,0.0,0.0,0.0
+面包甜点,Finale,Finale,0,市中心(Downtown),7.1,6.9,6.9
+面包甜点,Max Brenner,Max Brenner,0,市中心(Downtown),7.9,7.4,7.5
+面包甜点,Georgetown Cupcake,Georgetown Cupcake,0,后湾(Back Bay),7.7,7.7,7.7
+面包甜点,Mike's Pastry,Mike's Pastry,0,北区(North End),6.7,7.0,7.0
+面包甜点,Au Bon Pain(Arlington),Au Bon Pain(Arlington),0,市中心(Downtown),6.8,6.8,6.8
+面包甜点,Red Mango,Red Mango,0,南区(South End),8.0,8.0,7.3
+面包甜点,Modern Pastry Shop,Modern Pastry Shop,0,北区(North End),7.3,6.6,6.8
+面包甜点,Petit Robert Bistro Kenmore,Petit Robert Bistro Kenmore,0,芬威肯莫尔(Fenway Kenmore),7.9,7.9,7.9
+面包甜点,pinkberry,pinkberry,0,波士顿其他,7.1,6.8,6.8
+面包甜点,J.P. Licks,J.P. Licks,0,后湾(Back Bay),0.0,0.0,0.0
+面包甜点,Great Taste Bakery and Restaurant,Great Taste Bakery and Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Parziale's Bakery Incorporated,Parziale's Bakery Incorporated,0,北区(North End),0.0,0.0,0.0
+面包甜点,Bonne Chance Cafe & Bakery,Bonne Chance Cafe & Bakery,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Isabelle's Curly Cakes,Isabelle's Curly Cakes,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Pinkberry,Pinkberry,0,后湾(Back Bay),0.0,0.0,0.0
+面包甜点,Bova's Bakery,Bova's Bakery,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+面包甜点,J.P. Licks,J.P. Licks,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Treats on Washington,Treats on Washington,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Panera Bread,Panera Bread,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Thinking Cup,Thinking Cup,0,后湾(Back Bay),0.0,0.0,0.0
+面包甜点,Flour Bakery & Cafe,Flour Bakery & Cafe,0,南区(South End),0.0,0.0,0.0
+面包甜点,Eldo Cake House,Eldo Cake House,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Lulu's Sweet Shoppe,Lulu's Sweet Shoppe,0,北区(North End),0.0,0.0,0.0
+面包甜点,Sweet Green,Sweet Green,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Fornax Bread Company,Fornax Bread Company,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Cafe Vanille,Cafe Vanille,0,波士顿其他,0.0,0.0,0.0
+面包甜点,North End Bakery,North End Bakery,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Athan's European Bakery & Cafe,Athan's European Bakery & Cafe,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Bao Bao Bakery & Cafe,Bao Bao Bakery & Cafe,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Vanille Fine Pastries,Vanille Fine Pastries,0,波士顿其他,0.0,0.0,0.0
+面包甜点,BoYO,BoYO,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Maria's Pastry Shop,Maria's Pastry Shop,0,北区(North End),0.0,0.0,0.0
+面包甜点,South End Buttery,South End Buttery,0,南区(South End),0.0,0.0,0.0
+面包甜点,Picco Restaurant,Picco Restaurant,0,南区(South End),0.0,0.0,0.0
+面包甜点,J. P. Licks,J. P. Licks,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Sweet Cupcakes,Sweet Cupcakes,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Sorelle Bakery and Cafe,Sorelle Bakery and Cafe,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Panificio,Panificio,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Beacon Hill Chocolates,Beacon Hill Chocolates,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Bread + Butter,Bread + Butter,0,北区(North End),0.0,0.0,0.0
+面包甜点,Crumbs Bake Shop,Crumbs Bake Shop,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Cold Stone Creamery,Cold Stone Creamery,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+面包甜点,Paradise Bakery & Cafe,Paradise Bakery & Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+面包甜点,Hotel Chocolat,Hotel Chocolat,0,后湾(Back Bay),0.0,0.0,0.0
+面包甜点,Appleton Bakery,Appleton Bakery,0,南区(South End),0.0,0.0,0.0
+面包甜点,Parish Cafe,Parish Cafe,0,南区(South End),0.0,0.0,0.0
+面包甜点,Sugar Bakery,Sugar Bakery,0,波士顿其他,0.0,0.0,0.0
+面包甜点,J.P. Licks Homemade Ice Cream Cafe,J.P. Licks Homemade Ice Cream Cafe,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Haley House Bakery Cafe,Haley House Bakery Cafe,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Canto 6,Canto 6,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Grasshopper Sweets & Creamery,Grasshopper Sweets & Creamery,0,波士顿其他,0.0,0.0,0.0
+面包甜点,COCOANUTS,COCOANUTS,0,北区(North End),0.0,0.0,0.0
+面包甜点,Gelateria,Gelateria,0,北区(North End),0.0,0.0,0.0
+面包甜点,Foumami,Foumami,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Cakeology,Cakeology,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Rosie's Bakery,Rosie's Bakery,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Wicked Good Cupcakes,Wicked Good Cupcakes,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,FroZenYo,FroZenYo,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Potbelly Sandwich Works,Potbelly Sandwich Works,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,3 Scoops,3 Scoops,0,市中心(Downtown),0.0,0.0,0.0
+面包甜点,Fenway Cafe,Fenway Cafe,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+面包甜点,J.P. Licks Homemade Ice Cream Cafe,J.P. Licks Homemade Ice Cream Cafe,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+面包甜点,Sweet Cupcakes - Back Bay,Sweet Cupcakes - Back Bay,0,后湾(Back Bay),0.0,0.0,0.0
+面包甜点,Teuscher Chocolates of Switzerland,Teuscher Chocolates of Switzerland,0,后湾(Back Bay),0.0,0.0,0.0
+面包甜点,Back Bay Sandwich,Back Bay Sandwich,0,后湾(Back Bay),0.0,0.0,0.0
+面包甜点,Sofá Café,Sofá Café,0,后湾(Back Bay),0.0,0.0,0.0
+面包甜点,Juice,Juice,0,南区(South End),0.0,0.0,0.0
+面包甜点,Sweet Tooth Boston,Sweet Tooth Boston,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Anna's Hand Cut Donuts,Anna's Hand Cut Donuts,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Wheeler's Cafe and Ice Cream Bar,Wheeler's Cafe and Ice Cream Bar,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Rondo's Sub Shop,Rondo's Sub Shop,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Ideal Sub Shop,Ideal Sub Shop,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Herrell's Renaissance Cafe,Herrell's Renaissance Cafe,0,布莱顿(Brighton),0.0,0.0,0.0
+面包甜点,Ice Creamsmith,Ice Creamsmith,0,多切斯特(Dorchester),0.0,0.0,0.0
+面包甜点,"FroyoWorld Frozen Yogurt Lounge, Allston, MA","FroyoWorld Frozen Yogurt Lounge, Allston, MA",0,波士顿其他,0.0,0.0,0.0
+面包甜点,Greenhills Irish Bakery,Greenhills Irish Bakery,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Dante's Frozen Yogurt,Dante's Frozen Yogurt,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Ron's Gourmet Ice Cream,Ron's Gourmet Ice Cream,0,海德公园(Hyde Park),0.0,0.0,0.0
+面包甜点,Blue Frog Bakery,Blue Frog Bakery,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Yi Soon Bakery,Yi Soon Bakery,0,布莱顿(Brighton),0.0,0.0,0.0
+面包甜点,Twin Do-Nuts,Twin Do-Nuts,0,波士顿其他,0.0,0.0,0.0
+面包甜点,Scola's Sandwich,Scola's Sandwich,0,波士顿其他,0.0,0.0,0.0
+面包甜点,BerryLine,BerryLine,0,后湾(Back Bay),0.0,0.0,0.0
+面包甜点,Dippin Donuts,Dippin Donuts,0,多切斯特(Dorchester),0.0,0.0,0.0
+面包甜点,Hidden Sweets,Hidden Sweets,0,,0.0,0.0,0.0
+其他美食,Bonchon Chicken,Bonchon Chicken,0,布莱顿(Brighton),8.2,7.4,6.8
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,市中心(Downtown),6.9,6.7,6.9
+其他美食,Wagamama,Wagamama,0,后湾(Back Bay),8.3,8.3,8.3
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Quincy's Place,Quincy's Place,0,波士顿其他,0.0,0.0,0.0
+其他美食,Little Lamb Restaurant,Little Lamb Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,市中心(Downtown),6.7,6.7,6.7
+其他美食,Tip Tap Room,Tip Tap Room,0,波士顿其他,0.0,0.0,0.0
+其他美食,the cheese cake factory,the cheese cake factory,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,James Hook & Company,James Hook & Company,0,波士顿其他,0.0,0.0,0.0
+其他美食,Marliave Restaurant,Marliave Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Cafeteria Boston,Cafeteria Boston,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Myers + Chang,Myers + Chang,0,南区(South End),0.0,0.0,0.0
+其他美食,Asian Garden Restaurant,Asian Garden Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Fire and Ice,Fire and Ice,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,The Harp at the Garden,The Harp at the Garden,0,波士顿其他,0.0,0.0,0.0
+其他美食,Monkey Bar,Monkey Bar,0,波士顿其他,0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,波士顿其他,0.0,0.0,0.0
+其他美食,New York Soup Exchange,New York Soup Exchange,0,波士顿其他,0.0,0.0,0.0
+其他美食,M.C. Spiedo,M.C. Spiedo,0,波士顿其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,北区(North End),0.0,0.0,0.0
+其他美食,Artisan Bistro,Artisan Bistro,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Drink,Drink,0,波士顿其他,0.0,0.0,0.0
+其他美食,Sportello,Sportello,0,波士顿其他,0.0,0.0,0.0
+其他美食,Turner Fisheries,Turner Fisheries,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Steve's Greek Cuisine,Steve's Greek Cuisine,0,波士顿其他,0.0,0.0,0.0
+其他美食,Phillips Seafood Express,Phillips Seafood Express,0,波士顿其他,0.0,0.0,0.0
+其他美食,Blue Glass Cafe,Blue Glass Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Grotto,Grotto,0,波士顿其他,0.0,0.0,0.0
+其他美食,Ned Devines Faneuil Hall,Ned Devines Faneuil Hall,0,波士顿其他,0.0,0.0,0.0
+其他美食,Ben & Jerry's,Ben & Jerry's,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,One Ninety Nine,One Ninety Nine,0,波士顿其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Rooftop at Revere,Rooftop at Revere,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,The Langham Hotel,The Langham Hotel,0,波士顿其他,0.0,0.0,0.0
+其他美食,Blunch,Blunch,0,南区(South End),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Pier 6,Pier 6,0,波士顿其他,0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,波士顿其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Howl at the Moon,Howl at the Moon,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,波士顿其他,0.0,0.0,0.0
+其他美食,Nespresso Boutique Bar,Nespresso Boutique Bar,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,The Westin Boston Waterfront,The Westin Boston Waterfront,0,波士顿其他,0.0,0.0,0.0
+其他美食,Super 88 Market Food Court,Super 88 Market Food Court,0,波士顿其他,0.0,0.0,0.0
+其他美食,Flemmings Steak House,Flemmings Steak House,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Equal Exchange Cafe,Equal Exchange Cafe,0,北区(North End),0.0,0.0,0.0
+其他美食,Papagayo West St,Papagayo West St,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Church,Church,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Panera Bread,Panera Bread,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Finagle A Bagel,Finagle A Bagel,0,波士顿其他,0.0,0.0,0.0
+其他美食,Finagle A Bagel,Finagle A Bagel,0,波士顿其他,0.0,0.0,0.0
+其他美食,Cocobeet,Cocobeet,0,波士顿其他,0.0,0.0,0.0
+其他美食,Thai Dish Restaurant,Thai Dish Restaurant,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Clover Food Lab,Clover Food Lab,0,南区(South End),0.0,0.0,0.0
+其他美食,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Mud House,Mud House,0,波士顿其他,0.0,0.0,0.0
+其他美食,Wings Over,Wings Over,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Applebee's,Applebee's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Grass Roots Cafe,Grass Roots Cafe,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Cheeseboy,Cheeseboy,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Panera Bread,Panera Bread,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Mehak Restaurant,Mehak Restaurant,0,东波士顿(East Boston),0.0,0.0,0.0
+其他美食,Pollos a LA Brasa El Chalan,Pollos a LA Brasa El Chalan,0,东波士顿(East Boston),0.0,0.0,0.0
+其他美食,Brothers Deli & Restaurant,Brothers Deli & Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Teriyaki House,Teriyaki House,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Steve's Kitchen,Steve's Kitchen,0,波士顿其他,0.0,0.0,0.0
+其他美食,Taqueria El Carrizal,Taqueria El Carrizal,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,Regina Pizzeria,Regina Pizzeria,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Pinkberry,Pinkberry,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,St. Botoloph's,St. Botoloph's,0,南区(South End),0.0,0.0,0.0
+其他美食,Buzzy's Fabulous Roast Beef,Buzzy's Fabulous Roast Beef,0,波士顿其他,0.0,0.0,0.0
+其他美食,Hoshi Ya,Hoshi Ya,0,波士顿其他,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,波士顿其他,0.0,0.0,0.0
+其他美食,World Trade Center Fresh City,World Trade Center Fresh City,0,波士顿其他,0.0,0.0,0.0
+其他美食,Olive Garden,Olive Garden,0,波士顿其他,0.0,0.0,0.0
+其他美食,Boston Beer Works,Boston Beer Works,0,波士顿其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Applebee's,Applebee's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Emack and Bolio's,Emack and Bolio's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Antonio's,Antonio's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Sissy K's,Sissy K's,0,波士顿其他,0.0,0.0,0.0
+其他美食,M M Mac N Cheese,M M Mac N Cheese,0,波士顿其他,0.0,0.0,0.0
+其他美食,Friend Street Cafe,Friend Street Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Clarke's Turn of the Century,Clarke's Turn of the Century,0,波士顿其他,0.0,0.0,0.0
+其他美食,Thinking Cup,Thinking Cup,0,北区(North End),0.0,0.0,0.0
+其他美食,Locale Boston,Locale Boston,0,北区(North End),0.0,0.0,0.0
+其他美食,Sky Bar,Sky Bar,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Pret A Manger,Pret A Manger,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Harborside Grill,Harborside Grill,0,东波士顿(East Boston),0.0,0.0,0.0
+其他美食,The Cafe at Taj Boston,The Cafe at Taj Boston,0,波士顿其他,0.0,0.0,0.0
+其他美食,Bella Vista Restaurant,Bella Vista Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Sullivan's,Sullivan's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Punter's Pub,Punter's Pub,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Bar Louie,Bar Louie,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Cheese Boy,Cheese Boy,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Panera Bread,Panera Bread,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,波士顿其他,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,波士顿其他,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Rice Bowl,Rice Bowl,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Ben & Jerry's,Ben & Jerry's,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Boston News Cafe,Boston News Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,The Hen House Wings 'n Waffles,The Hen House Wings 'n Waffles,0,波士顿其他,0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,波士顿其他,0.0,0.0,0.0
+其他美食,Asian Too Express,Asian Too Express,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Alibi Lounge,Alibi Lounge,0,波士顿其他,0.0,0.0,0.0
+其他美食,Figs,Figs,0,波士顿其他,0.0,0.0,0.0
+其他美食,Hal's Place,Hal's Place,0,波士顿其他,0.0,0.0,0.0
+其他美食,Point,Point,0,波士顿其他,0.0,0.0,0.0
+其他美食,Genarros,Genarros,0,波士顿其他,0.0,0.0,0.0
+其他美食,Mulligans,Mulligans,0,波士顿其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,波士顿其他,0.0,0.0,0.0
+其他美食,UNO Chicago Grill,UNO Chicago Grill,0,波士顿其他,0.0,0.0,0.0
+其他美食,Buskers Lounge,Buskers Lounge,0,波士顿其他,0.0,0.0,0.0
+其他美食,Quiznos,Quiznos,0,波士顿其他,0.0,0.0,0.0
+其他美食,Ueno Sushi,Ueno Sushi,0,波士顿其他,0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,波士顿其他,0.0,0.0,0.0
+其他美食,My Cousin's Place,My Cousin's Place,0,北区(North End),0.0,0.0,0.0
+其他美食,Caffe Dello Sport,Caffe Dello Sport,0,北区(North End),0.0,0.0,0.0
+其他美食,Ben & Jerry's,Ben & Jerry's,0,北区(North End),0.0,0.0,0.0
+其他美食,Lulu's Bake Shoppe,Lulu's Bake Shoppe,0,北区(North End),0.0,0.0,0.0
+其他美食,Elephant & Castle,Elephant & Castle,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,b.good,b.good,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Cafe De Boston,Cafe De Boston,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Panera Bread,Panera Bread,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Cosi,Cosi,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,RumBa,RumBa,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Side Bar,Side Bar,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Viga,Viga,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Five Guys,Five Guys,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Petit Robert Central,Petit Robert Central,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Cheeseboy,Cheeseboy,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Vintage Lounge,Vintage Lounge,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Ben & Jerry's,Ben & Jerry's,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Thaitation,Thaitation,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Scoozi,Scoozi,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Kings,Kings,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Bar Lola,Bar Lola,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Emack and Bolio's,Emack and Bolio's,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Mass Ave Tavern,Mass Ave Tavern,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Subway,Subway,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Boloco,Boloco,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Code Ten,Code Ten,0,南区(South End),0.0,0.0,0.0
+其他美食,Fritz Lounge,Fritz Lounge,0,南区(South End),0.0,0.0,0.0
+其他美食,Five Horses Tavern,Five Horses Tavern,0,南区(South End),0.0,0.0,0.0
+其他美食,Raising Cane's,Raising Cane's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Devlin's Restaurant and Bar,Devlin's Restaurant and Bar,0,波士顿其他,0.0,0.0,0.0
+其他美食,Galway House,Galway House,0,波士顿其他,0.0,0.0,0.0
+其他美食,City Feed and Supply,City Feed and Supply,0,波士顿其他,0.0,0.0,0.0
+其他美食,At Union,At Union,0,波士顿其他,0.0,0.0,0.0
+其他美食,Emack & Bolio's Ice Cream,Emack & Bolio's Ice Cream,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,波士顿其他,0.0,0.0,0.0
+其他美食,BonChon Boston,BonChon Boston,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,Estelle's,Estelle's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Los Amigos,Los Amigos,0,波士顿其他,0.0,0.0,0.0
+其他美食,Rox Diner,Rox Diner,0,波士顿其他,0.0,0.0,0.0
+其他美食,Bees Knees Supply Company,Bees Knees Supply Company,0,波士顿其他,0.0,0.0,0.0
+其他美食,The Paramount,The Paramount,0,波士顿其他,0.0,0.0,0.0
+其他美食,Anthony's Pier 4,Anthony's Pier 4,0,波士顿其他,0.0,0.0,0.0
+其他美食,Stephi's in Southie,Stephi's in Southie,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Junction,Junction,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Smoken' Joe's,Smoken' Joe's,0,波士顿其他,0.0,0.0,0.0
+其他美食,The Coffee Trike,The Coffee Trike,0,波士顿其他,0.0,0.0,0.0
+其他美食,The Dining Car,The Dining Car,0,波士顿其他,0.0,0.0,0.0
+其他美食,Stephanie's,Stephanie's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Fill-A-Buster,Fill-A-Buster,0,波士顿其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Fin's Beacon Hill,Fin's Beacon Hill,0,波士顿其他,0.0,0.0,0.0
+其他美食,Boston Chipyard,Boston Chipyard,0,波士顿其他,0.0,0.0,0.0
+其他美食,Emack and Bolios,Emack and Bolios,0,波士顿其他,0.0,0.0,0.0
+其他美食,Griddler's Burgers & Dogs,Griddler's Burgers & Dogs,0,波士顿其他,0.0,0.0,0.0
+其他美食,Purple Shamrock,Purple Shamrock,0,波士顿其他,0.0,0.0,0.0
+其他美食,Red Sky Restaurant & Lounge,Red Sky Restaurant & Lounge,0,波士顿其他,0.0,0.0,0.0
+其他美食,Grezzo,Grezzo,0,北区(North End),0.0,0.0,0.0
+其他美食,107 Salem Street Restaurant,107 Salem Street Restaurant,0,北区(North End),0.0,0.0,0.0
+其他美食,Masta Restaurant Corporation,Masta Restaurant Corporation,0,北区(North End),0.0,0.0,0.0
+其他美食,Caffe Lil Italy,Caffe Lil Italy,0,北区(North End),0.0,0.0,0.0
+其他美食,Depasquale's Pasta,Depasquale's Pasta,0,北区(North End),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,北区(North End),0.0,0.0,0.0
+其他美食,Polcanrs Coffee Shop,Polcanrs Coffee Shop,0,北区(North End),0.0,0.0,0.0
+其他美食,Bean & Leaf Co,Bean & Leaf Co,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Viga,Viga,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Caffe Briacco,Caffe Briacco,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Little Rascals,Little Rascals,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Lechners Gourmet Restaurant,Lechners Gourmet Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Place,Place,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Wisteria Restaurant,Wisteria Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Cosi,Cosi,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Boloco,Boloco,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Potluck Cafe,Potluck Cafe,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Beijing Kyoto Restaurant,Beijing Kyoto Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Boloco,Boloco,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Boston Common Coffee Co.,Boston Common Coffee Co.,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Fiore's Bakery,Fiore's Bakery,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Iron Wok,Iron Wok,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Papa John's,Papa John's,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Fresh Mango,Fresh Mango,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Subway,Subway,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,The Corner Pub,The Corner Pub,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Jae's Cafe Corporate Offices,Jae's Cafe Corporate Offices,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Nunzio's Pizzeria,Nunzio's Pizzeria,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Sal's Pizza,Sal's Pizza,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Biddy Early's,Biddy Early's,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Maria's Taqueria,Maria's Taqueria,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Quick Pic BBQ LLC,Quick Pic BBQ LLC,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Cafe Dino,Cafe Dino,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Boloco,Boloco,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Cosi,Cosi,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Boston Kebab House,Boston Kebab House,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Sabastian's,Sabastian's,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Subway,Subway,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Cosi,Cosi,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,The Reserve,The Reserve,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,The Estate,The Estate,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,D'Guru Restaurant,D'Guru Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Sandella's Flatbread Cafe,Sandella's Flatbread Cafe,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Damons Restaurant,Damons Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Sebastian's Cafe,Sebastian's Cafe,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Suishaya,Suishaya,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,101 Bakery,101 Bakery,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Rebecca's Cafe,Rebecca's Cafe,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Pret A Manger USA LTD,Pret A Manger USA LTD,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Boloco,Boloco,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Viga,Viga,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Brew Moon,Brew Moon,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Caffe Paridiso,Caffe Paridiso,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Limerick's,Limerick's,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Royal Palace Restaurant II,Royal Palace Restaurant II,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Tossed,Tossed,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Temptations On Devonshire,Temptations On Devonshire,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Campus Trolley,Campus Trolley,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Bruegger's,Bruegger's,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Bertucci's,Bertucci's,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Subway,Subway,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Sal's Pizza,Sal's Pizza,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Baseball Tavern,Baseball Tavern,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Boston Market,Boston Market,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Little Steve's Pizzeria,Little Steve's Pizzeria,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Spike's Junkyard Dogs,Spike's Junkyard Dogs,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Supreme Pizza,Supreme Pizza,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Who's On First,Who's On First,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Sepal,Sepal,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Dana Farber Cancer Institute Cafeteria,Dana Farber Cancer Institute Cafeteria,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Ginger Exchange at Symphony,Ginger Exchange at Symphony,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Bruegger's,Bruegger's,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Five Guys,Five Guys,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Boloco,Boloco,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Jamba Juice,Jamba Juice,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Bricktop's,Bricktop's,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Upstairs Grill,Upstairs Grill,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Rebecca's Cafe,Rebecca's Cafe,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Laffa,Laffa,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Upper Crust,Upper Crust,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,The Boylston Restaurant,The Boylston Restaurant,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Xhale,Xhale,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Sweet Cupcakes - Newbury Street,Sweet Cupcakes - Newbury Street,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Back Bay Harry's,Back Bay Harry's,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Patisserie,Patisserie,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Teavana,Teavana,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Two Avenues,Two Avenues,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Rosticeria Cancun,Rosticeria Cancun,0,东波士顿(East Boston),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,东波士顿(East Boston),0.0,0.0,0.0
+其他美食,Taco Mex,Taco Mex,0,东波士顿(East Boston),0.0,0.0,0.0
+其他美食,Que Padre Taqueria y Mas,Que Padre Taqueria y Mas,0,东波士顿(East Boston),0.0,0.0,0.0
+其他美食,Cactus Mexican Grill,Cactus Mexican Grill,0,东波士顿(East Boston),0.0,0.0,0.0
+其他美食,The Upper Crust,The Upper Crust,0,南区(South End),0.0,0.0,0.0
+其他美食,Subway,Subway,0,南区(South End),0.0,0.0,0.0
+其他美食,The Wholy Grain,The Wholy Grain,0,南区(South End),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,南区(South End),0.0,0.0,0.0
+其他美食,Dunkin Donuts,Dunkin Donuts,0,南区(South End),0.0,0.0,0.0
+其他美食,Jaho Coffee and Tea,Jaho Coffee and Tea,0,南区(South End),0.0,0.0,0.0
+其他美食,Stir,Stir,0,南区(South End),0.0,0.0,0.0
+其他美食,Jugos,Jugos,0,南区(South End),0.0,0.0,0.0
+其他美食,Brownstone,Brownstone,0,南区(South End),0.0,0.0,0.0
+其他美食,Mandy and Joe's,Mandy and Joe's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Yacht StarShip,Yacht StarShip,0,波士顿其他,0.0,0.0,0.0
+其他美食,Harry's Bar and Grille,Harry's Bar and Grille,0,波士顿其他,0.0,0.0,0.0
+其他美食,Infusion Tea Spa,Infusion Tea Spa,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,UFood Grill,UFood Grill,0,波士顿其他,0.0,0.0,0.0
+其他美食,BROTHERS CRAWFISH,BROTHERS CRAWFISH,0,波士顿其他,0.0,0.0,0.0
+其他美食,Caffe Aromi,Caffe Aromi,0,波士顿其他,0.0,0.0,0.0
+其他美食,Pete's Dockside,Pete's Dockside,0,波士顿其他,0.0,0.0,0.0
+其他美食,Cornerstone Restaurant,Cornerstone Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,AU Bon Pain Co Incorporated,AU Bon Pain Co Incorporated,0,波士顿其他,0.0,0.0,0.0
+其他美食,Sausage Guy,Sausage Guy,0,波士顿其他,0.0,0.0,0.0
+其他美食,Murphys Law,Murphys Law,0,波士顿其他,0.0,0.0,0.0
+其他美食,Avenue Grille,Avenue Grille,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Breezeway Bar & Grill,Breezeway Bar & Grill,0,波士顿其他,0.0,0.0,0.0
+其他美食,Sunrise Restaurant,Sunrise Restaurant,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Roggie's Brew & Grille,Roggie's Brew & Grille,0,波士顿其他,0.0,0.0,0.0
+其他美食,Christy's Place,Christy's Place,0,波士顿其他,0.0,0.0,0.0
+其他美食,Latino Restaurant,Latino Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Kantin,Kantin,0,波士顿其他,0.0,0.0,0.0
+其他美食,Common Ground Bar & Grill,Common Ground Bar & Grill,0,波士顿其他,0.0,0.0,0.0
+其他美食,Wan Convenience Store,Wan Convenience Store,0,波士顿其他,0.0,0.0,0.0
+其他美食,Action Kitchen,Action Kitchen,0,波士顿其他,0.0,0.0,0.0
+其他美食,Flames Restaurant,Flames Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Zinga,Zinga,0,波士顿其他,0.0,0.0,0.0
+其他美食,Select Cafe,Select Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Bagel Rising,Bagel Rising,0,波士顿其他,0.0,0.0,0.0
+其他美食,Boloco Atlantic Wharf,Boloco Atlantic Wharf,0,波士顿其他,0.0,0.0,0.0
+其他美食,Boloco,Boloco,0,波士顿其他,0.0,0.0,0.0
+其他美食,Ideal Seafood,Ideal Seafood,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Triple Eatery,Triple Eatery,0,波士顿其他,0.0,0.0,0.0
+其他美食,Pizza 24,Pizza 24,0,波士顿其他,0.0,0.0,0.0
+其他美食,Il Mondo,Il Mondo,0,波士顿其他,0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,波士顿其他,0.0,0.0,0.0
+其他美食,Rincon Caribeno Restaurant,Rincon Caribeno Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Boston Market,Boston Market,0,波士顿其他,0.0,0.0,0.0
+其他美食,Pizza King,Pizza King,0,波士顿其他,0.0,0.0,0.0
+其他美食,Ufood Grill,Ufood Grill,0,波士顿其他,0.0,0.0,0.0
+其他美食,Deadwood Cafe and Brewery,Deadwood Cafe and Brewery,0,波士顿其他,0.0,0.0,0.0
+其他美食,Java House,Java House,0,波士顿其他,0.0,0.0,0.0
+其他美食,Min Sok,Min Sok,0,波士顿其他,0.0,0.0,0.0
+其他美食,Stats Bar & Grille,Stats Bar & Grille,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Mrs. B's Cafe,Mrs. B's Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Alfredo's Restaurant,Alfredo's Restaurant,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,Halal Indian Cuisine,Halal Indian Cuisine,0,波士顿其他,0.0,0.0,0.0
+其他美食,Pizza Etc,Pizza Etc,0,波士顿其他,0.0,0.0,0.0
+其他美食,Wok n Talk,Wok n Talk,0,波士顿其他,0.0,0.0,0.0
+其他美食,Wolfgang Puck Restaurant,Wolfgang Puck Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Flames Restaurant,Flames Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,River Street Grill II,River Street Grill II,0,波士顿其他,0.0,0.0,0.0
+其他美食,The Common Ground Cafe,The Common Ground Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Zorba The Greek DBA Ak's,Zorba The Greek DBA Ak's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Bailey and Sage,Bailey and Sage,0,波士顿其他,0.0,0.0,0.0
+其他美食,Telegraph Hill,Telegraph Hill,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Country Kitchen,Country Kitchen,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Romano's Pizza,Romano's Pizza,0,波士顿其他,0.0,0.0,0.0
+其他美食,Papa John's,Papa John's,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Lenny's Tropical Bakery,Lenny's Tropical Bakery,0,波士顿其他,0.0,0.0,0.0
+其他美食,Sticky Rice Cafe,Sticky Rice Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Kelly's Roast Beef,Kelly's Roast Beef,0,波士顿其他,0.0,0.0,0.0
+其他美食,Oasis Grill & Cafe,Oasis Grill & Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Great Wok Restaurants,Great Wok Restaurants,0,波士顿其他,0.0,0.0,0.0
+其他美食,Simco's Takeout,Simco's Takeout,0,波士顿其他,0.0,0.0,0.0
+其他美食,West Napoli Cafe,West Napoli Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Pho 2000 Restaurant,Pho 2000 Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,In House Cafe,In House Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,波士顿其他,0.0,0.0,0.0
+其他美食,West Garden,West Garden,0,波士顿其他,0.0,0.0,0.0
+其他美食,Smile Thai Noodle,Smile Thai Noodle,0,波士顿其他,0.0,0.0,0.0
+其他美食,Cosi,Cosi,0,波士顿其他,0.0,0.0,0.0
+其他美食,Harry's Bar & Grill,Harry's Bar & Grill,0,波士顿其他,0.0,0.0,0.0
+其他美食,Au Bon Pain,Au Bon Pain,0,波士顿其他,0.0,0.0,0.0
+其他美食,Pan Asia,Pan Asia,0,波士顿其他,0.0,0.0,0.0
+其他美食,Marco Polo Restaurant,Marco Polo Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Lucky's,Lucky's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Pikaichi,Pikaichi,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,Fazenda Coffee Roasters,Fazenda Coffee Roasters,0,波士顿其他,0.0,0.0,0.0
+其他美食,Pho Viet,Pho Viet,0,波士顿其他,0.0,0.0,0.0
+其他美食,O Yummy Cuisine,O Yummy Cuisine,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,Five Star Pizza,Five Star Pizza,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Tony's Place,Tony's Place,0,波士顿其他,0.0,0.0,0.0
+其他美食,Boston Kabob Company,Boston Kabob Company,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,Supreme House of Pizza,Supreme House of Pizza,0,波士顿其他,0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,波士顿其他,0.0,0.0,0.0
+其他美食,Windy City at Adams Village Pizza,Windy City at Adams Village Pizza,0,波士顿其他,0.0,0.0,0.0
+其他美食,The Real Deal,The Real Deal,0,波士顿其他,0.0,0.0,0.0
+其他美食,Refuge Cafe,Refuge Cafe,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,China Garden Restaurant,China Garden Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Wingz Xpress,Wingz Xpress,0,波士顿其他,0.0,0.0,0.0
+其他美食,The Landing at Long Wharf,The Landing at Long Wharf,0,波士顿其他,0.0,0.0,0.0
+其他美食,William's Tavern,William's Tavern,0,波士顿其他,0.0,0.0,0.0
+其他美食,Brendan Behan Pub,Brendan Behan Pub,0,波士顿其他,0.0,0.0,0.0
+其他美食,Moko,Moko,0,波士顿其他,0.0,0.0,0.0
+其他美食,Zaz,Zaz,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Avenue Bar and Grille,Avenue Bar and Grille,0,波士顿其他,0.0,0.0,0.0
+其他美食,Irie Jamican Style Restaurant,Irie Jamican Style Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Trio Cafe,Trio Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,L Street Tavern,L Street Tavern,0,波士顿其他,0.0,0.0,0.0
+其他美食,Green Bean Mobile Cafe,Green Bean Mobile Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Simpli Bar & Bites,Simpli Bar & Bites,0,波士顿其他,0.0,0.0,0.0
+其他美食,Roka,Roka,0,波士顿其他,0.0,0.0,0.0
+其他美食,Cafe Bartlett Sq,Cafe Bartlett Sq,0,波士顿其他,0.0,0.0,0.0
+其他美食,Root,Root,0,波士顿其他,0.0,0.0,0.0
+其他美食,Pizza Dinapoli,Pizza Dinapoli,0,波士顿其他,0.0,0.0,0.0
+其他美食,Toni Ann's,Toni Ann's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Mixx Frozen Yogurt,Mixx Frozen Yogurt,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,Soul Fire,Soul Fire,0,波士顿其他,0.0,0.0,0.0
+其他美食,Kellehers Bar and Grill,Kellehers Bar and Grill,0,波士顿其他,0.0,0.0,0.0
+其他美食,Townsend's Restaurant,Townsend's Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Kentucky Fned Chicken,Kentucky Fned Chicken,0,波士顿其他,0.0,0.0,0.0
+其他美食,The Green Turtle Inn,The Green Turtle Inn,0,波士顿其他,0.0,0.0,0.0
+其他美食,Eugene O'Neill's,Eugene O'Neill's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Pizzaria 260,Pizzaria 260,0,波士顿其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,波士顿其他,0.0,0.0,0.0
+其他美食,Great Road Tavern,Great Road Tavern,0,波士顿其他,0.0,0.0,0.0
+其他美食,Harpoon Tap Room,Harpoon Tap Room,0,波士顿其他,0.0,0.0,0.0
+其他美食,Franklin Southie,Franklin Southie,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Dunkin Donuts,Dunkin Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Cosi,Cosi,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin Donuts,Dunkin Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Silhouette Lounge,Silhouette Lounge,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,Patron's Mexican Kitchen & Watering Hole,Patron's Mexican Kitchen & Watering Hole,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,Boston Bagel Company,Boston Bagel Company,0,波士顿其他,0.0,0.0,0.0
+其他美食,Loaf and Ladle,Loaf and Ladle,0,波士顿其他,0.0,0.0,0.0
+其他美食,Gather Restaurant,Gather Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Cisco Brew Pub of Nantucket,Cisco Brew Pub of Nantucket,0,波士顿其他,0.0,0.0,0.0
+其他美食,Shanghai Social Club,Shanghai Social Club,0,波士顿其他,0.0,0.0,0.0
+其他美食,Skyline Dining Room,Skyline Dining Room,0,波士顿其他,0.0,0.0,0.0
+其他美食,Rustica Pizza,Rustica Pizza,0,波士顿其他,0.0,0.0,0.0
+其他美食,Comellas,Comellas,0,波士顿其他,0.0,0.0,0.0
+其他美食,La Pastaria,La Pastaria,0,波士顿其他,0.0,0.0,0.0
+其他美食,Foster's Bar & Grill,Foster's Bar & Grill,0,波士顿其他,0.0,0.0,0.0
+其他美食,Felcaro Pizza,Felcaro Pizza,0,波士顿其他,0.0,0.0,0.0
+其他美食,Tropical Island,Tropical Island,0,波士顿其他,0.0,0.0,0.0
+其他美食,Ashburton Cafe,Ashburton Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Carroll Ann Bake Shop,Carroll Ann Bake Shop,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Bulfinch Roma,Bulfinch Roma,0,波士顿其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,波士顿其他,0.0,0.0,0.0
+其他美食,J.A. Stats,J.A. Stats,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,The Jeanie Johnston,The Jeanie Johnston,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Office Bar and Grill,Office Bar and Grill,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Subway,Subway,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Pavia,Pavia,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Subway,Subway,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Honey Dew Donuts,Honey Dew Donuts,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Lanta Asian Cuisine,Lanta Asian Cuisine,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Oriental House Restaurant,Oriental House Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Stadium Sports Bar & Grill,Stadium Sports Bar & Grill,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Abbott's Frozen Custard,Abbott's Frozen Custard,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Greenbriar Restaurant,Greenbriar Restaurant,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Mojitos Lounge,Mojitos Lounge,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Au Bon Pain Winter,Au Bon Pain Winter,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Savvor,Savvor,0,市中心(Downtown),0.0,0.0,0.0
+其他美食,Jillian's,Jillian's,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Tequila Rain,Tequila Rain,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Fresh City,Fresh City,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Lollicup,Lollicup,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Copperfields,Copperfields,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Our House East,Our House East,0,芬威肯莫尔(Fenway Kenmore),0.0,0.0,0.0
+其他美食,Croissant Du Jour,Croissant Du Jour,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Wichit,Wichit,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,东波士顿(East Boston),0.0,0.0,0.0
+其他美食,Lenny's Spa,Lenny's Spa,0,东波士顿(East Boston),0.0,0.0,0.0
+其他美食,South End Pizza & Grill,South End Pizza & Grill,0,南区(South End),0.0,0.0,0.0
+其他美食,Habibi's Lounge,Habibi's Lounge,0,波士顿其他,0.0,0.0,0.0
+其他美食,Marco Polo Incorporated,Marco Polo Incorporated,0,波士顿其他,0.0,0.0,0.0
+其他美食,Little Dig,Little Dig,0,波士顿其他,0.0,0.0,0.0
+其他美食,Asahi,Asahi,0,波士顿其他,0.0,0.0,0.0
+其他美食,Peoples Choice Restaurant,Peoples Choice Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Papa Gino's,Papa Gino's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Blue Asia Co,Blue Asia Co,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,Applebee's,Applebee's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Sleeper Street Cafe,Sleeper Street Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,New Speedy Chen's,New Speedy Chen's,0,波士顿其他,0.0,0.0,0.0
+其他美食,American Baker's Cafe,American Baker's Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Crazy Dough's Pizza,Crazy Dough's Pizza,0,波士顿其他,0.0,0.0,0.0
+其他美食,Bethlehem to GO,Bethlehem to GO,0,波士顿其他,0.0,0.0,0.0
+其他美食,Sbarro Italian Eatery,Sbarro Italian Eatery,0,波士顿其他,0.0,0.0,0.0
+其他美食,Imperial Kitchen,Imperial Kitchen,0,波士顿其他,0.0,0.0,0.0
+其他美食,Pantry Pizza Kitchen,Pantry Pizza Kitchen,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Model Cafe,Model Cafe,0,波士顿其他,0.0,0.0,0.0
+其他美食,Thai Spice,Thai Spice,0,波士顿其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Cafe Mitti's,Cafe Mitti's,0,布莱顿(Brighton),0.0,0.0,0.0
+其他美食,Unique Food,Unique Food,0,波士顿其他,0.0,0.0,0.0
+其他美食,Touchie's Shamrock Pub,Touchie's Shamrock Pub,0,波士顿其他,0.0,0.0,0.0
+其他美食,Sullivan's Pub,Sullivan's Pub,0,波士顿其他,0.0,0.0,0.0
+其他美食,Red Line Pizza and Grill,Red Line Pizza and Grill,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,波士顿其他,0.0,0.0,0.0
+其他美食,Sweet Life Bakery and Cafe,Sweet Life Bakery and Cafe,0,多切斯特(Dorchester),0.0,0.0,0.0
+其他美食,Costello's,Costello's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Chart House,Chart House,0,波士顿其他,0.0,0.0,0.0
+其他美食,Empire Restaurant & Lounge,Empire Restaurant & Lounge,0,波士顿其他,0.0,0.0,0.0
+其他美食,Skipjacks Seafood Emporium,Skipjacks Seafood Emporium,0,后湾(Back Bay),0.0,0.0,0.0
+其他美食,Shenanagan's,Shenanagan's,0,波士顿其他,0.0,0.0,0.0
+其他美食,Ninety Nine Restaurant,Ninety Nine Restaurant,0,波士顿其他,0.0,0.0,0.0
+其他美食,Seaport Hotel,Seaport Hotel,0,波士顿其他,0.0,0.0,0.0

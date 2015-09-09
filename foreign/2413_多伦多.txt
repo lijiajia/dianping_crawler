@@ -1,0 +1,1339 @@
+西餐,CN Tower 360,CN Tower 360,0,Downtown,7.3,8.4,8.0
+西餐,Mandarin,Mandarin,0,其他,8.3,8.3,8.7
+西餐,Swiss Chalet,Swiss Chalet,0,North York/北约克,7.0,7.2,7.7
+西餐,The Old Spaghetti Factory,The Old Spaghetti Factory,0,Downtown,7.0,7.3,7.3
+西餐,Ruth's Chris,Ruth's Chris,0,Toronto/多伦多,7.4,7.1,7.3
+西餐,Origin North,Origin North,0,North York/北约克,7.4,7.4,7.4
+西餐,Under The Table Restaurant,Under The Table Restaurant,0,,8.3,8.3,8.3
+西餐,Mandarin,Mandarin,0,Mississauga/密西沙加,8.1,8.1,8.1
+西餐,Frankie Tomatto's,Frankie Tomatto's,0,Markham/万锦,7.1,7.4,7.4
+西餐,Nando's,Nando's,0,Richmond Hill/列治文山,7.3,7.8,7.8
+西餐,Ritz Caribbean Food,Ritz Caribbean Food,0,Toronto/多伦多,7.5,6.8,7.1
+西餐,The Works Gourmet Burger Bistr,The Works Gourmet Burger Bistr,0,Oakville/奥科维,7.1,7.1,7.1
+西餐,Joey Eaton Center,Joey Eaton Center,0,Downtown,8.3,8.3,8.3
+西餐,Bannock,Bannock,0,Toronto/多伦多,8.3,8.3,8.3
+西餐,Boston Pizza,Boston Pizza,0,North York/北约克,8.3,7.4,7.4
+西餐,Pizzeria Libretto,Pizzeria Libretto,0,其他,8.3,7.4,8.3
+西餐,Imonay Korean Restaurant,Imonay Korean Restaurant,0,,6.5,6.8,7.1
+西餐,Jacobs & Co.,Jacobs & Co.,0,Toronto/多伦多,7.5,7.5,7.5
+西餐,Jack Astor's Bar & Grill,Jack Astor's Bar & Grill,0,Toronto/多伦多,7.4,8.3,7.4
+西餐,Peter Pan Bistro,Peter Pan Bistro,0,多伦多娱乐区,7.4,8.3,8.3
+西餐,Perla Restaurant,Perla Restaurant,0,,7.4,7.4,7.4
+西餐,Messini Authentic Gyros,Messini Authentic Gyros,0,Toronto/多伦多,7.1,6.8,6.6
+西餐,Moxie's Bar and Grill,Moxie's Bar and Grill,0,North York/北约克,6.7,6.7,6.7
+西餐,crepe a gogo,crepe a gogo,0,Downtown,6.7,6.7,6.1
+西餐,Aunties and Uncles,Aunties and Uncles,0,Toronto/多伦多,7.1,6.8,6.8
+西餐,Nunu Ethiopian Fusion,Nunu Ethiopian Fusion,0,Toronto/多伦多,6.7,7.4,7.4
+西餐,Splendido Restaurant,Splendido Restaurant,0,,6.5,7.2,7.2
+西餐,747 Wine Bar,747 Wine Bar,0,,8.4,8.4,8.4
+西餐,Pho Viet Nam Restaurant,Pho Viet Nam Restaurant,0,,6.9,6.9,6.9
+西餐,Mount Royal Family Restaurant,Mount Royal Family Restaurant,0,,7.2,7.2,7.2
+西餐,LacVien Vietnamese Restaurant,LacVien Vietnamese Restaurant,0,,6.9,6.9,6.9
+西餐,Saigon House Restaurant,Saigon House Restaurant,0,,6.9,6.9,6.9
+西餐,Sahara Restaurant and Banquet Hall,Sahara Restaurant and Banquet Hall,0,,7.0,6.9,7.0
+西餐,Piccolo,Piccolo,0,,6.9,6.9,6.9
+西餐,Flavours of India Buffet Restaurant,Flavours of India Buffet Restaurant,0,,7.0,6.9,6.9
+西餐,Hong Kong House Restaurant,Hong Kong House Restaurant,0,,7.0,7.0,6.9
+西餐,Shoeless Joe's Restaurant,Shoeless Joe's Restaurant,0,,6.8,6.8,6.8
+西餐,The Ladle Restaurant,The Ladle Restaurant,0,,7.1,7.1,7.1
+西餐,Caledon Family Restaurant,Caledon Family Restaurant,0,,7.1,7.1,7.1
+西餐,Three Stooges Restaurant,Three Stooges Restaurant,0,,7.1,7.1,7.1
+西餐,Montana's Restaurant,Montana's Restaurant,0,,7.1,7.1,7.1
+西餐,The Harrop Restaurant,The Harrop Restaurant,0,,7.1,7.1,7.1
+西餐,Kamboat Restaurant,Kamboat Restaurant,0,,6.9,6.9,6.9
+西餐,Bayleaf Restaurant,Bayleaf Restaurant,0,,7.0,7.0,6.9
+西餐,East SIde Marios,East SIde Marios,0,,7.1,7.1,6.8
+西餐,Island Mix Restaurant and Lounge,Island Mix Restaurant and Lounge,0,,7.0,6.9,6.9
+西餐,Olympia Restaurant,Olympia Restaurant,0,,6.8,7.1,6.8
+西餐,East Side Mario's,East Side Mario's,0,,6.8,6.8,6.8
+西餐,Montana's Restaurant,Montana's Restaurant,0,,6.7,6.7,6.9
+西餐,Golden Palace Restaurant,Golden Palace Restaurant,0,,6.7,6.9,6.7
+西餐,Goldenview Restaurant,Goldenview Restaurant,0,,7.0,7.1,6.9
+西餐,Italian Garden Restaurant,Italian Garden Restaurant,0,,6.9,6.9,7.0
+西餐,Hamptons Restaurant,Hamptons Restaurant,0,,7.1,7.1,7.1
+西餐,Bin Ming Restaurant,Bin Ming Restaurant,0,,6.9,6.9,6.9
+西餐,Traditions Family Restaurant,Traditions Family Restaurant,0,,7.1,7.1,6.8
+西餐,KB,KB,0,,7.2,7.2,7.2
+西餐,Hero Certified Burgers,Hero Certified Burgers,0,,6.7,6.9,6.7
+西餐,Cyrus,Cyrus,0,,7.5,7.5,7.1
+西餐,Steve's Family Restaurant North,Steve's Family Restaurant North,0,,6.8,6.8,6.6
+西餐,Kelsey's Restaurant,Kelsey's Restaurant,0,,7.0,7.1,7.0
+西餐,Hero Certified Burgers,Hero Certified Burgers,0,,6.9,6.9,6.9
+西餐,Denny's,Denny's,0,,6.8,6.8,6.8
+西餐,Ten Restaurant,Ten Restaurant,0,,7.2,6.8,7.2
+西餐,Dines Family Restaurant,Dines Family Restaurant,0,,7.2,7.2,6.8
+西餐,Shiraz Restaurant,Shiraz Restaurant,0,,6.9,6.9,6.9
+西餐,Denny's,Denny's,0,,7.0,6.9,6.9
+西餐,Panorama,Panorama,0,,0.0,0.0,0.0
+西餐,360 Restaurant,360 Restaurant,0,其他,0.0,0.0,0.0
+西餐,Edulis restaurant,Edulis restaurant,0,其他,0.0,0.0,0.0
+西餐,Milestones,Milestones,0,North York/北约克,0.0,0.0,0.0
+西餐,Duff's Famous Wings,Duff's Famous Wings,0,金融区,0.0,0.0,0.0
+西餐,starfish oyster bed  & grill,starfish oyster bed  & grill,0,Downtown,0.0,0.0,0.0
+西餐,Saving Grace,Saving Grace,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Le parc dining and banquet,Le parc dining and banquet,0,Thornhill,0.0,0.0,0.0
+西餐,Le Petit Dejeuner,Le Petit Dejeuner,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Emma's Country Kitchen,Emma's Country Kitchen,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Lone Star Texas Grill,Lone Star Texas Grill,0,金融区,0.0,0.0,0.0
+西餐,Biff's Bistro,Biff's Bistro,0,,0.0,0.0,0.0
+西餐,Federick restaurant,Federick restaurant,0,Scarborough/十家堡,0.0,0.0,0.0
+西餐,BATON ROUGE Restaurant & Bar,BATON ROUGE Restaurant & Bar,0,Thornhill,0.0,0.0,0.0
+西餐,Peter on Eglinton,Peter on Eglinton,0,Mississauga/密西沙加,0.0,0.0,0.0
+西餐,Select sandwich,Select sandwich,0,Mississauga/密西沙加,0.0,0.0,0.0
+西餐,Imperial Buffet,Imperial Buffet,0,Mississauga/密西沙加,0.0,0.0,0.0
+西餐,Joe Maggiano's Italian Eatery & Bar,Joe Maggiano's Italian Eatery & Bar,0,Scarborough/十家堡,0.0,0.0,0.0
+西餐,Chako Barbeque,Chako Barbeque,0,Richmond Hill/列治文山,0.0,0.0,0.0
+西餐,Smith Brothers,Smith Brothers,0,Scarborough/十家堡,0.0,0.0,0.0
+西餐,Mandarin,Mandarin,0,Markham/万锦,0.0,0.0,0.0
+西餐,BLD ResTaurAnt,BLD ResTaurAnt,0,Downtown,0.0,0.0,0.0
+西餐,Le Sélect Bistro,Le Sélect Bistro,0,多伦多娱乐区,0.0,0.0,0.0
+西餐,Mandarin,Mandarin,0,Scarborough/十家堡,0.0,0.0,0.0
+西餐,Jerusalem,Jerusalem,0,North York/北约克,0.0,0.0,0.0
+西餐,Cafe 28,Cafe 28,0,Richmond Hill/列治文山,0.0,0.0,0.0
+西餐,Il Fornello,Il Fornello,0,Richmond Hill/列治文山,0.0,0.0,0.0
+西餐,Fanny Chadwick's,Fanny Chadwick's,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Tangerine Asian Cuisine,Tangerine Asian Cuisine,0,Scarborough/十家堡,0.0,0.0,0.0
+西餐,The Saint,The Saint,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Milestones,Milestones,0,Markham/万锦,0.0,0.0,0.0
+西餐,Al Dente,Al Dente,0,Markham/万锦,0.0,0.0,0.0
+西餐,QUIZNOS SUBS,QUIZNOS SUBS,0,Markham/万锦,0.0,0.0,0.0
+西餐,Whittamore's Farm,Whittamore's Farm,0,Markham/万锦,0.0,0.0,0.0
+西餐,Mandarin,Mandarin,0,Markham/万锦,0.0,0.0,0.0
+西餐,Kanda Sushi Japanese Buffet,Kanda Sushi Japanese Buffet,0,Mississauga/密西沙加,0.0,0.0,0.0
+西餐,Salt and Pepper,Salt and Pepper,0,Mississauga/密西沙加,0.0,0.0,0.0
+西餐,Chilli Chicken House,Chilli Chicken House,0,Mississauga/密西沙加,0.0,0.0,0.0
+西餐,Cora's,Cora's,0,Mississauga/密西沙加,0.0,0.0,0.0
+西餐,Extreme Pita,Extreme Pita,0,Mississauga/密西沙加,0.0,0.0,0.0
+西餐,Mandarin,Mandarin,0,North York/北约克,0.0,0.0,0.0
+西餐,Trio,Trio,0,North York/北约克,0.0,0.0,0.0
+西餐,Richtree,Richtree,0,North York/北约克,0.0,0.0,0.0
+西餐,Miller Tavern,Miller Tavern,0,North York/北约克,0.0,0.0,0.0
+西餐,Baton Rouge,Baton Rouge,0,North York/北约克,0.0,0.0,0.0
+西餐,Le Montmartre,Le Montmartre,0,North York/北约克,0.0,0.0,0.0
+西餐,Maxx Seafood & Grill,Maxx Seafood & Grill,0,Richmond Hill/列治文山,0.0,0.0,0.0
+西餐,Stone House Restaurant,Stone House Restaurant,0,Scarborough/十家堡,0.0,0.0,0.0
+西餐,Diana's Oyster Bar & Grill,Diana's Oyster Bar & Grill,0,Scarborough/十家堡,0.0,0.0,0.0
+西餐,Happy Panda Buffet,Happy Panda Buffet,0,Scarborough/十家堡,0.0,0.0,0.0
+西餐,Orchid Garden Deli & Grill,Orchid Garden Deli & Grill,0,Scarborough/十家堡,0.0,0.0,0.0
+西餐,Canyon Creek,Canyon Creek,0,Scarborough/十家堡,0.0,0.0,0.0
+西餐,Mardi Gras Restaurant,Mardi Gras Restaurant,0,Scarborough/十家堡,0.0,0.0,0.0
+西餐,Santorini Mediterranean Cuisine,Santorini Mediterranean Cuisine,0,Thornhill,0.0,0.0,0.0
+西餐,Scaramouche,Scaramouche,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Michael's on Simcoe,Michael's on Simcoe,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Hy's,Hy's,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Bairrada Churrasqueira Grill,Bairrada Churrasqueira Grill,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Universal Grill,Universal Grill,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,JOEY Don Mills,JOEY Don Mills,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,tat burger,tat burger,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Queen Star Restaurant,Queen Star Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,The Grove Restaurant,The Grove Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Restaurant Chantecler,Restaurant Chantecler,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,The 5 Spices Restaurant,The 5 Spices Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,The Bristol Yard,The Bristol Yard,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Easy Restaurant,Easy Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Farmhouse Tavern,Farmhouse Tavern,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,MiDi Bistro,MiDi Bistro,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Pepper Ring,Pepper Ring,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Rose & Sons,Rose & Sons,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Martino's Pizza,Martino's Pizza,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Prime Steakhouse,Prime Steakhouse,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,El Catrin,El Catrin,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Nota Bene,Nota Bene,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Mr Jerk,Mr Jerk,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,The Chefs' House,The Chefs' House,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Mandarin,Mandarin,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Cafe La Gaffe,Cafe La Gaffe,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Liberty Grand entertainment complex,Liberty Grand entertainment complex,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Cut the Cheese,Cut the Cheese,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Wallace & Co.,Wallace & Co.,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Princess wales theater,Princess wales theater,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Melt Grilled Cheese,Melt Grilled Cheese,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Littlefish,Littlefish,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Bb33,Bb33,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Glow Press,Glow Press,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,New Style Buffet,New Style Buffet,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,La Cubana,La Cubana,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Chino Locos,Chino Locos,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Morton's,Morton's,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Cheesewerks,Cheesewerks,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Sidecar,Sidecar,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Fire on the East Side,Fire on the East Side,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Harbour Sixty,Harbour Sixty,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Lee Restaurant,Lee Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,White Brick Kitchen,White Brick Kitchen,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,The Grilled Cheese,The Grilled Cheese,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Barberians,Barberians,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Pain Perdu,Pain Perdu,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,King Chef Cuisine,King Chef Cuisine,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Bent,Bent,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Bonjour Brioche,Bonjour Brioche,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Porchetta and Co.,Porchetta and Co.,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Mildred's Temple Kitchen,Mildred's Temple Kitchen,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,House of Chan Steak'n Lobster Dining Lounge,House of Chan Steak'n Lobster Dining Lounge,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Lady Marmalade,Lady Marmalade,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Swan,Swan,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Fanny Chadwick's,Fanny Chadwick's,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Leslieville Pumps,Leslieville Pumps,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Beast Restaurant,Beast Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Bestellen,Bestellen,0,Toronto/多伦多,0.0,0.0,0.0
+西餐,Mandarin,Mandarin,0,Vaughan/旺市,0.0,0.0,0.0
+西餐,Dave and busters,Dave and busters,0,其他,0.0,0.0,0.0
+西餐,Rare Grill House,Rare Grill House,0,其他,0.0,0.0,0.0
+西餐,Tesoro Restaurant,Tesoro Restaurant,0,其他,0.0,0.0,0.0
+西餐,Wooden Heads Gourmet Pizza,Wooden Heads Gourmet Pizza,0,其他,0.0,0.0,0.0
+西餐,Chez Piggy Restaurant,Chez Piggy Restaurant,0,其他,0.0,0.0,0.0
+西餐,Reggie's HotGrill,Reggie's HotGrill,0,其他,0.0,0.0,0.0
+西餐,Wreckless Eric,Wreckless Eric,0,其他,0.0,0.0,0.0
+西餐,Menalon Restaurant,Menalon Restaurant,0,,0.0,0.0,0.0
+西餐,Atlantic ResTaurAnt,Atlantic ResTaurAnt,0,Brockton Village,0.0,0.0,0.0
+中餐,大鸭梨,大鸭梨,143,Markham/万锦,7.0,6.8,6.0
+中餐,皇后名粥,皇后名粥,0,North York/北约克,7.9,7.5,7.6
+中餐,凯龙船,凯龙船,0,Richmond Hill/列治文山,8.7,7.5,7.3
+中餐,紫京盛宴,紫京盛宴,0,,7.7,8.3,7.8
+中餐,大鸭梨烤鸭店,大鸭梨烤鸭店,0,Richmond Hill/列治文山,7.2,6.9,6.7
+中餐,味香村,味香村,0,North York/北约克,6.8,7.4,7.2
+中餐,伯爵名宴,伯爵名宴,0,Toronto/多伦多,7.8,7.9,8.1
+中餐,丝绸之路饭馆,丝绸之路饭馆,0,Etobicoke/怡陶碧谷,8.2,6.9,6.7
+中餐,麻布小馆,麻布小馆,0,North York/北约克,6.9,7.2,7.6
+中餐,大槐树,大槐树,0,Toronto/多伦多,7.5,7.0,7.1
+中餐,中华牛羊馆,中华牛羊馆,0,Scarborough/十家堡,7.7,7.5,7.6
+中餐,龍蝦皇,龍蝦皇,0,Scarborough/十家堡,7.6,7.2,7.1
+中餐,西域食府,西域食府,0,Markham/万锦,7.8,7.3,7.6
+中餐,鼎泰丰上海小吃,鼎泰丰上海小吃,0,Markham/万锦,7.1,7.1,6.8
+中餐,名门金宴,名门金宴,0,Scarborough/十家堡,8.1,7.1,7.6
+中餐,阿拉厨房,阿拉厨房,0,Markham/万锦,7.6,7.3,7.6
+中餐,精武鸭脖,精武鸭脖,0,Scarborough/十家堡,8.0,6.9,7.0
+中餐,辛香汇,辛香汇,0,North York/北约克,7.0,6.7,6.9
+中餐,北京饺子,北京饺子,0,Toronto/多伦多,7.9,7.9,7.9
+中餐,麻辣空间,麻辣空间,0,Markham/万锦,7.4,6.4,6.6
+中餐,真东北饺子馆,真东北饺子馆,0,Markham/万锦,7.1,7.1,7.4
+中餐,老妈肉饼,老妈肉饼,0,Scarborough/十家堡,7.8,6.5,6.7
+中餐,西北楼,西北楼,0,Richmond Hill/列治文山,7.5,7.5,7.8
+中餐,順峰山莊海鮮,順峰山莊海鮮,0,Thornhill,7.9,8.1,6.9
+中餐,王莉私房菜,王莉私房菜,0,Markham/万锦,6.6,6.9,6.8
+中餐,源源餐厅,源源餐厅,0,Scarborough/十家堡,7.4,5.9,6.5
+中餐,小沙田食家,小沙田食家,0,Toronto/多伦多,8.5,7.7,7.9
+中餐,城南往事时尚主题餐厅,城南往事时尚主题餐厅,0,Markham/万锦,7.5,7.5,7.3
+中餐,糊涂楼,糊涂楼,0,Toronto/多伦多,6.5,6.7,6.2
+中餐,龙珠自助餐,龙珠自助餐,0,North York/北约克,8.2,7.9,7.3
+中餐,皇后名粥,皇后名粥,0,Thornhill,7.6,7.2,7.2
+中餐,玉楼东美食轩,玉楼东美食轩,0,Scarborough/十家堡,7.1,6.8,6.9
+中餐,钓鱼台国宴,钓鱼台国宴,0,Richmond Hill/列治文山,7.5,7.9,7.1
+中餐,老汤家,老汤家,0,Scarborough/十家堡,7.6,6.2,7.2
+中餐,利嘉盛酒家,利嘉盛酒家,0,Markham/万锦,6.6,6.2,6.5
+中餐,渝园新阁,渝园新阁,0,Markham/万锦,6.9,6.7,6.5
+中餐,蜀香苑川菜馆,蜀香苑川菜馆,0,Markham/万锦,7.4,7.4,7.4
+中餐,湘村发现-士嘉宝店,湘村发现-士嘉宝店,0,Scarborough/十家堡,7.7,7.7,7.7
+中餐,百乐门宴会厅,百乐门宴会厅,0,Richmond Hill/列治文山,8.4,8.4,8.0
+中餐,晋缘刀削面,晋缘刀削面,0,Scarborough/十家堡,7.4,6.7,6.7
+中餐,密市肉夹馍,密市肉夹馍,0,Mississauga/密西沙加,7.0,7.4,7.4
+中餐,雅琼海鲜酒家,雅琼海鲜酒家,0,Scarborough/十家堡,7.0,6.4,6.1
+中餐,老房子私家厨房,老房子私家厨房,0,Scarborough/十家堡,8.1,8.1,8.1
+中餐,凯龙船,凯龙船,0,Toronto/多伦多,7.5,7.2,6.9
+中餐,开封府面馆,开封府面馆,0,Markham/万锦,7.4,7.1,7.4
+中餐,新旺角酒楼,新旺角酒楼,0,Markham/万锦,8.1,6.7,6.7
+中餐,蜀宴,蜀宴,0,Markham/万锦,8.5,8.5,7.9
+中餐,川味堂,川味堂,0,Scarborough/十家堡,7.0,6.7,7.2
+中餐,明记,明记,0,Scarborough/十家堡,7.5,7.0,7.0
+中餐,半亩园,半亩园,0,Markham/万锦,6.9,6.7,7.5
+中餐,唐家店,唐家店,0,Richmond Hill/列治文山,6.7,7.0,7.2
+中餐,大碗香兰州拉面,大碗香兰州拉面,0,Markham/万锦,7.4,6.7,7.0
+中餐,峨眉餐厅,峨眉餐厅,0,Richmond Hill/列治文山,7.9,7.1,6.7
+中餐,容嬷嬷中餐,容嬷嬷中餐,0,Markham/万锦,7.4,7.0,7.4
+中餐,中华经典包子铺,中华经典包子铺,0,Toronto/多伦多,7.5,6.2,6.7
+中餐,鼎泰丰,鼎泰丰,0,Markham/万锦,6.1,6.9,6.6
+中餐,湘村发现,湘村发现,0,Thornhill,6.3,6.3,6.3
+中餐,富临门海鲜酒家,富临门海鲜酒家,0,Scarborough/十家堡,6.8,6.0,6.0
+中餐,真东北饺子馆,真东北饺子馆,0,Markham/万锦,7.5,7.5,7.5
+中餐,五谷杂粮北方餐馆,五谷杂粮北方餐馆,0,Richmond Hill/列治文山,5.6,6.0,5.6
+中餐,饺子园,饺子园,0,Toronto/多伦多,7.5,7.1,6.6
+中餐,汉唐府,汉唐府,0,Scarborough/十家堡,8.0,6.8,7.0
+中餐,陶陶居海鮮酒家,陶陶居海鮮酒家,0,Markham/万锦,5.8,5.9,5.3
+中餐,金石茶餐厅,金石茶餐厅,0,Toronto/多伦多,6.1,7.2,7.2
+中餐,龙腾金阁酒家,龙腾金阁酒家,0,Scarborough/十家堡,6.2,6.2,6.2
+中餐,兴隆轩饺子馆,兴隆轩饺子馆,0,Richmond Hill/列治文山,6.9,6.7,6.9
+中餐,新上海,新上海,0,Scarborough/十家堡,6.1,6.7,6.7
+中餐,丽华轩,丽华轩,0,Toronto/多伦多,6.8,7.7,7.2
+中餐,康翠酒樓,康翠酒樓,0,Mississauga/密西沙加,7.4,7.4,8.1
+中餐,正宗维吾尔族餐厅,正宗维吾尔族餐厅,0,,8.4,7.5,7.5
+中餐,佛笑楼,佛笑楼,0,Toronto/多伦多,7.2,7.2,7.2
+中餐,上海美林阁,上海美林阁,0,Markham/万锦,7.2,7.2,7.2
+中餐,紫爵金宴,紫爵金宴,0,Markham/万锦,7.4,7.4,7.4
+中餐,味香村,味香村,0,Scarborough/十家堡,7.4,7.4,7.4
+中餐,龙笙栈,龙笙栈,0,Toronto/多伦多,8.3,7.4,7.4
+中餐,巴蜀人家,巴蜀人家,0,Mississauga/密西沙加,7.1,6.8,7.1
+中餐,兰亭叙,兰亭叙,0,Richmond Hill/列治文山,7.5,7.5,7.5
+中餐,家家乐海鲜烧腊饭店,家家乐海鲜烧腊饭店,0,Toronto/多伦多,7.4,6.1,6.7
+中餐,金鼎峨眉海鲜酒家,金鼎峨眉海鲜酒家,0,Richmond Hill/列治文山,6.8,7.2,6.8
+中餐,小肥牛麻辣烫,小肥牛麻辣烫,0,Scarborough/十家堡,7.2,6.8,7.2
+中餐,渔乐轩,渔乐轩,0,Scarborough/十家堡,7.4,6.0,6.0
+中餐,世纪皇宫大酒楼,世纪皇宫大酒楼,0,Scarborough/十家堡,8.2,6.7,8.2
+中餐,城隍庙小吃私房菜,城隍庙小吃私房菜,0,Scarborough/十家堡,6.7,7.4,7.4
+中餐,鼎鼎香,鼎鼎香,0,Mississauga/密西沙加,7.2,7.2,7.2
+中餐,潮州佬,潮州佬,0,Mississauga/密西沙加,7.5,7.2,7.2
+中餐,手工水饺,手工水饺,0,Downtown,7.2,6.8,6.8
+中餐,妈妈的味道,妈妈的味道,0,Mississauga/密西沙加,6.8,6.8,7.2
+中餐,龙珠汇,龙珠汇,0,Markham/万锦,7.4,7.4,8.3
+中餐,味香村,味香村,0,North York/北约克,8.2,7.4,7.4
+中餐,妈妈饺子馆,妈妈饺子馆,0,Toronto/多伦多,6.0,6.7,6.7
+中餐,敦煌阁,敦煌阁,0,Richmond Hill/列治文山,7.2,7.2,7.2
+中餐,芙蓉园,芙蓉园,0,Markham/万锦,7.2,7.2,7.2
+中餐,中华美食,中华美食,0,North York/北约克,7.2,7.2,7.2
+中餐,久久鸭脖,久久鸭脖,0,Downtown,7.5,6.8,7.2
+中餐,上海雪园,上海雪园,0,Thornhill,7.2,7.2,7.2
+中餐,小杬公海鲜酒家,小杬公海鲜酒家,0,Toronto/多伦多,6.7,6.7,6.7
+中餐,忆江南,忆江南,0,Scarborough/十家堡,6.7,7.4,7.4
+中餐,乙龍天,乙龍天,0,Markham/万锦,6.7,6.7,6.7
+中餐,悦兴酒家,悦兴酒家,0,Mississauga/密西沙加,7.7,7.2,7.7
+中餐,陆羽海鲜酒家,陆羽海鲜酒家,0,Scarborough/十家堡,8.4,6.7,6.7
+中餐,避风塘小炒,避风塘小炒,0,Scarborough/十家堡,6.7,6.7,6.7
+中餐,华仔记,华仔记,0,Scarborough/十家堡,8.1,6.1,8.1
+中餐,苗家庄海鲜酒家,苗家庄海鲜酒家,0,Markham/万锦,8.2,7.4,8.2
+中餐,川渝一家,川渝一家,0,Scarborough/十家堡,7.2,7.2,7.2
+中餐,西域久保,西域久保,0,Scarborough/十家堡,7.2,6.8,7.2
+中餐,大名厨艺,大名厨艺,0,North York/北约克,7.2,7.2,7.2
+中餐,煲仔吧,煲仔吧,0,Markham/万锦,7.2,7.0,7.0
+中餐,牛家庄京川菜馆,牛家庄京川菜馆,0,Scarborough/十家堡,7.2,7.2,7.2
+中餐,孔府家宴,孔府家宴,0,Scarborough/十家堡,7.2,7.2,7.2
+中餐,渝味府,渝味府,0,Scarborough/十家堡,7.2,6.8,6.8
+中餐,维吾尔族餐厅,维吾尔族餐厅,0,Scarborough/十家堡,7.2,6.8,7.2
+中餐,香港鸿发餐厅,香港鸿发餐厅,0,Richmond Hill/列治文山,7.6,6.8,7.2
+中餐,北来顺京川饭店,北来顺京川饭店,0,Markham/万锦,7.2,7.2,7.2
+中餐,太湖海鲜粤菜,太湖海鲜粤菜,0,Markham/万锦,6.8,7.6,7.2
+中餐,老赵凉米线,老赵凉米线,0,Scarborough/十家堡,7.2,6.8,7.2
+中餐,九龙海鲜酒家,九龙海鲜酒家,0,Toronto/多伦多,7.2,7.2,7.2
+中餐,雅景豪苑,雅景豪苑,0,海滨中心,6.8,6.8,6.8
+中餐,蒸蒸日上,蒸蒸日上,0,Scarborough/十家堡,6.7,6.7,5.4
+中餐,半亩园,半亩园,0,Richmond Hill/列治文山,6.4,6.4,6.4
+中餐,丽晶酒家,丽晶酒家,0,Thornhill,6.2,6.2,6.2
+中餐,东海海鲜港式餐厅,东海海鲜港式餐厅,0,Richmond Hill/列治文山,7.4,6.0,6.7
+中餐,饺子庄,饺子庄,0,Scarborough/十家堡,7.4,7.4,7.4
+中餐,云景楼餐厅,云景楼餐厅,0,Markham/万锦,6.8,6.8,7.2
+中餐,嚼通天,嚼通天,0,Markham/万锦,7.2,6.4,6.8
+中餐,茗苑餃子,茗苑餃子,0,Mississauga/密西沙加,7.2,7.2,7.2
+中餐,枫林阁海鲜酒家,枫林阁海鲜酒家,0,Markham/万锦,7.2,7.2,6.8
+中餐,Dickens Cafe,Dickens Cafe,0,Richmond Hill/列治文山,6.8,7.2,7.2
+中餐,津味小家碧玉,津味小家碧玉,0,Scarborough/十家堡,6.8,6.8,6.8
+中餐,阳明山庄,阳明山庄,0,North York/北约克,5.1,5.1,5.1
+中餐,食全食美,食全食美,0,Scarborough/十家堡,7.5,8.4,8.4
+中餐,宫廷御宴,宫廷御宴,0,Richmond Hill/列治文山,7.5,7.5,7.5
+中餐,明珠酒楼,明珠酒楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Happy Jade Seafood Chinese Restaurant,Happy Jade Seafood Chinese Restaurant,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,禄记,禄记,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,重庆外婆家中餐,重庆外婆家中餐,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,Loving Hut,Loving Hut,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,巴蜀人家,巴蜀人家,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,味香村,味香村,0,Markham/万锦,0.0,0.0,0.0
+中餐,Towncenter送餐,Towncenter送餐,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,Manchurian Madurai,Manchurian Madurai,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,十三香牛腱,十三香牛腱,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,虾佬云吞面,虾佬云吞面,0,North York/北约克,0.0,0.0,0.0
+中餐,味香村,味香村,0,Markham/万锦,0.0,0.0,0.0
+中餐,客满楼酒家,客满楼酒家,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,天津包子铺,天津包子铺,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,中华牛羊馆,中华牛羊馆,0,North York/北约克,0.0,0.0,0.0
+中餐,煎饼果子,煎饼果子,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,汕头小食家,汕头小食家,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,美食轩,美食轩,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,中餐,中餐,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,熊猫自助餐厅,熊猫自助餐厅,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,西北楼,西北楼,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,沾仔记面食,沾仔记面食,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,燕京川菜馆,燕京川菜馆,0,North York/北约克,0.0,0.0,0.0
+中餐,饺子王,饺子王,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,沈妈妈中餐,沈妈妈中餐,0,North York/北约克,0.0,0.0,0.0
+中餐,老房子,老房子,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,上海餐馆,上海餐馆,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,好吃的东北水饺,好吃的东北水饺,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,华皇自助餐,华皇自助餐,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,美味红烧牛腩饭,美味红烧牛腩饭,0,North York/北约克,0.0,0.0,0.0
+中餐,仁川馆,仁川馆,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,頤和園,頤和園,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,富豪金殿,富豪金殿,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,松柏轩,松柏轩,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,老友记厨房,老友记厨房,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,月香楼,月香楼,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,味香村,味香村,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,满江红,满江红,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,海棠餐厅,海棠餐厅,0,Markham/万锦,0.0,0.0,0.0
+中餐,南京大排档,南京大排档,0,Markham/万锦,0.0,0.0,0.0
+中餐,小胖中餐,小胖中餐,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,辛香汇,辛香汇,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,大口记,大口记,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,东记海鲜舫,东记海鲜舫,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,翠城酒楼,翠城酒楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,台灣風味蛋糕,台灣風味蛋糕,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,金屋藏娇,金屋藏娇,0,North York/北约克,0.0,0.0,0.0
+中餐,新疆烧烤店,新疆烧烤店,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,玉树楼,玉树楼,0,North York/北约克,0.0,0.0,0.0
+中餐,真北平餐馆,真北平餐馆,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,小沈阳私房菜,小沈阳私房菜,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,上海人家,上海人家,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,玉米粉蒸饺,玉米粉蒸饺,0,North York/北约克,0.0,0.0,0.0
+中餐,滋粥棧,滋粥棧,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,豪大大鸡排,豪大大鸡排,0,North York/北约克,0.0,0.0,0.0
+中餐,唐宫,唐宫,0,Markham/万锦,0.0,0.0,0.0
+中餐,天上人间,天上人间,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,朝代餐厅,朝代餐厅,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,花花小厨,花花小厨,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,四海餐馆,四海餐馆,0,North York/北约克,0.0,0.0,0.0
+中餐,园林,园林,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,嘉湖北方美食,嘉湖北方美食,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,天龙海鲜酒家,天龙海鲜酒家,0,North York/北约克,0.0,0.0,0.0
+中餐,天津大姐饺子,天津大姐饺子,0,North York/北约克,0.0,0.0,0.0
+中餐,潮州馆,潮州馆,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,金师傅,金师傅,0,North York/北约克,0.0,0.0,0.0
+中餐,御膳豪庭,御膳豪庭,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,大福海鲜酒楼,大福海鲜酒楼,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,潮牛馆,潮牛馆,0,Markham/万锦,0.0,0.0,0.0
+中餐,冬冬包,冬冬包,0,North York/北约克,0.0,0.0,0.0
+中餐,精武鸭脖,精武鸭脖,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,天津小吃,天津小吃,0,Markham/万锦,0.0,0.0,0.0
+中餐,半岛餐厅,半岛餐厅,0,Markham/万锦,0.0,0.0,0.0
+中餐,翠佛楼,翠佛楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,天皇名粥,天皇名粥,0,North York/北约克,0.0,0.0,0.0
+中餐,海上海,海上海,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,半亩园,半亩园,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,美滋味肉粒香,美滋味肉粒香,0,North York/北约克,0.0,0.0,0.0
+中餐,富景海鲜酒家,富景海鲜酒家,0,Markham/万锦,0.0,0.0,0.0
+中餐,谢姐川菜家庭小厨,谢姐川菜家庭小厨,0,North York/北约克,0.0,0.0,0.0
+中餐,福利酒家,福利酒家,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,帝苑高级海鲜酒家,帝苑高级海鲜酒家,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,上海私房菜,上海私房菜,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,高老庄,高老庄,0,其他,0.0,0.0,0.0
+中餐,Friends Fish and Chips Family Resturant,Friends Fish and Chips Family Resturant,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,山东风味香肠,山东风味香肠,0,North York/北约克,0.0,0.0,0.0
+中餐,同德楼,同德楼,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,翠园,翠园,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,农家一锅香,农家一锅香,0,Markham/万锦,0.0,0.0,0.0
+中餐,佳佳百饺园,佳佳百饺园,0,North York/北约克,0.0,0.0,0.0
+中餐,台式涼麵,台式涼麵,0,North York/北约克,0.0,0.0,0.0
+中餐,豪华街牛肉粉,豪华街牛肉粉,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,中华饺子馆,中华饺子馆,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,味香村,味香村,0,North York/北约克,0.0,0.0,0.0
+中餐,巴山蜀水-川味坊,巴山蜀水-川味坊,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,客家梅县盐焗鸡,客家梅县盐焗鸡,0,Markham/万锦,0.0,0.0,0.0
+中餐,中餐冷冻水饺,中餐冷冻水饺,0,Markham/万锦,0.0,0.0,0.0
+中餐,香叶屋,香叶屋,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,老地方川沪菜馆,老地方川沪菜馆,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,正斗粥麵小炒,正斗粥麵小炒,0,North York/北约克,0.0,0.0,0.0
+中餐,九里香四川小吃,九里香四川小吃,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,金多宝海鲜小炒,金多宝海鲜小炒,0,Markham/万锦,0.0,0.0,0.0
+中餐,Rosy Wedding Cake,Rosy Wedding Cake,0,Markham/万锦,0.0,0.0,0.0
+中餐,江南小厨,江南小厨,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,德福海鲜酒家,德福海鲜酒家,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,富豪金殿,富豪金殿,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,大口福饺子,大口福饺子,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,阿拉厨房,阿拉厨房,0,Markham/万锦,0.0,0.0,0.0
+中餐,金花餐厅,金花餐厅,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,黄金阁鲍翅海鲜酒家,黄金阁鲍翅海鲜酒家,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,中日西自助饮食,中日西自助饮食,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,大家好餐厅,大家好餐厅,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,Golden Harvest Northern Chinese Restaurant,Golden Harvest Northern Chinese Restaurant,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,Ocean Seafood Restaurant,Ocean Seafood Restaurant,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,三味烧腊,三味烧腊,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,鸿升馆粤菜,鸿升馆粤菜,0,Markham/万锦,0.0,0.0,0.0
+中餐,Celestial Court Chinese Cuisine,Celestial Court Chinese Cuisine,0,Markham/万锦,0.0,0.0,0.0
+中餐,文华餐厅,文华餐厅,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,潮州店,潮州店,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,爲食坊海鲜小炒,爲食坊海鲜小炒,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,兰心小厨,兰心小厨,0,North York/北约克,0.0,0.0,0.0
+中餐,香千里上汤馄饨,香千里上汤馄饨,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,家乐醪糟,家乐醪糟,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,云阳阁京川菜绾,云阳阁京川菜绾,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,钻石喜宴酒家,钻石喜宴酒家,0,Markham/万锦,0.0,0.0,0.0
+中餐,鲤鱼门海鲜坊,鲤鱼门海鲜坊,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,乡滋味,乡滋味,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,金翠园餐厅,金翠园餐厅,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,如家盒饭,如家盒饭,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,美味手工水饺,美味手工水饺,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,华苑,华苑,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,康城酒家,康城酒家,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,金钻石酒楼,金钻石酒楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,King Lobster,King Lobster,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Si Chuan House Cuisine,Si Chuan House Cuisine,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,玲珑阁,玲珑阁,0,Vaughan/旺市,0.0,0.0,0.0
+中餐,武汉鸭脖,武汉鸭脖,0,Markham/万锦,0.0,0.0,0.0
+中餐,雅景豪苑高级粤菜,雅景豪苑高级粤菜,0,Markham/万锦,0.0,0.0,0.0
+中餐,嘉仁宫海鲜菜馆,嘉仁宫海鲜菜馆,0,Markham/万锦,0.0,0.0,0.0
+中餐,全悦坊,全悦坊,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,Hakka Magic,Hakka Magic,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,华星餐厅,华星餐厅,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,新世界皇宫,新世界皇宫,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,中国乐厨,中国乐厨,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,新乐园,新乐园,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Sea-Hi Famous Chinese Food,Sea-Hi Famous Chinese Food,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,华生,华生,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,武汉黑鸭,武汉黑鸭,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,天鑫阁,天鑫阁,0,Thornhill,0.0,0.0,0.0
+中餐,老田东北副食,老田东北副食,0,Vaughan/旺市,0.0,0.0,0.0
+中餐,续面缘中餐,续面缘中餐,0,Markham/万锦,0.0,0.0,0.0
+中餐,饺子缘,饺子缘,0,Markham/万锦,0.0,0.0,0.0
+中餐,大大福清小吃,大大福清小吃,0,Markham/万锦,0.0,0.0,0.0
+中餐,天宝阁中餐厅,天宝阁中餐厅,0,Markham/万锦,0.0,0.0,0.0
+中餐,御膳国际美食,御膳国际美食,0,Markham/万锦,0.0,0.0,0.0
+中餐,晶晶家,晶晶家,0,Markham/万锦,0.0,0.0,0.0
+中餐,阿伟厨房,阿伟厨房,0,Markham/万锦,0.0,0.0,0.0
+中餐,添口福海鲜小炒,添口福海鲜小炒,0,Markham/万锦,0.0,0.0,0.0
+中餐,Lohas Cafe,Lohas Cafe,0,Markham/万锦,0.0,0.0,0.0
+中餐,明厨小炒,明厨小炒,0,Markham/万锦,0.0,0.0,0.0
+中餐,忠记港式烧腊,忠记港式烧腊,0,Markham/万锦,0.0,0.0,0.0
+中餐,Wonton Hut,Wonton Hut,0,Markham/万锦,0.0,0.0,0.0
+中餐,Lotus Pond Vegetarian Restaurant,Lotus Pond Vegetarian Restaurant,0,Markham/万锦,0.0,0.0,0.0
+中餐,原味村,原味村,0,Markham/万锦,0.0,0.0,0.0
+中餐,泰福楼,泰福楼,0,Markham/万锦,0.0,0.0,0.0
+中餐,神灯,神灯,0,Markham/万锦,0.0,0.0,0.0
+中餐,金爵豪宴,金爵豪宴,0,Markham/万锦,0.0,0.0,0.0
+中餐,东北大姐手工水饺,东北大姐手工水饺,0,Markham/万锦,0.0,0.0,0.0
+中餐,煐煌御宴,煐煌御宴,0,Markham/万锦,0.0,0.0,0.0
+中餐,The Fish House,The Fish House,0,Markham/万锦,0.0,0.0,0.0
+中餐,广东小炒,广东小炒,0,Markham/万锦,0.0,0.0,0.0
+中餐,369,369,0,Markham/万锦,0.0,0.0,0.0
+中餐,喜悦海鲜酒家,喜悦海鲜酒家,0,Markham/万锦,0.0,0.0,0.0
+中餐,三姐妹中餐,三姐妹中餐,0,Markham/万锦,0.0,0.0,0.0
+中餐,Angel's cake,Angel's cake,0,Markham/万锦,0.0,0.0,0.0
+中餐,狮城餐厅,狮城餐厅,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,Bayview Garden Chinese Cuisine,Bayview Garden Chinese Cuisine,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,中华餐馆,中华餐馆,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,Bombay Chopsticks,Bombay Chopsticks,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,月园餐馆,月园餐馆,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,富苑海鲜酒家,富苑海鲜酒家,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,中国金殿中餐厅,中国金殿中餐厅,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,永辉饭店,永辉饭店,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,Eddie's Wok N Roll,Eddie's Wok N Roll,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,Tangerine Asian Cuisne,Tangerine Asian Cuisne,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,怡丰酒家,怡丰酒家,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,三和烧腊酒家,三和烧腊酒家,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,新新帝苑,新新帝苑,0,Mississauga/密西沙加,0.0,0.0,0.0
+中餐,北方小吃,北方小吃,0,North York/北约克,0.0,0.0,0.0
+中餐,小不点 川菜馆,小不点 川菜馆,0,North York/北约克,0.0,0.0,0.0
+中餐,Homemade,Homemade,0,North York/北约克,0.0,0.0,0.0
+中餐,上海风味盒饭,上海风味盒饭,0,North York/北约克,0.0,0.0,0.0
+中餐,东北大瓜子,东北大瓜子,0,North York/北约克,0.0,0.0,0.0
+中餐,雨林美食,雨林美食,0,North York/北约克,0.0,0.0,0.0
+中餐,饺子庄,饺子庄,0,North York/北约克,0.0,0.0,0.0
+中餐,发记茶餐厅,发记茶餐厅,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,Day & Day Cafe,Day & Day Cafe,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,中华楼,中华楼,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,Bombay's chutney,Bombay's chutney,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,Yogi Noodle Delight,Yogi Noodle Delight,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,蓬莱阁,蓬莱阁,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,百老汇餐厅,百老汇餐厅,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,人人菜馆,人人菜馆,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,蒸蒸日上,蒸蒸日上,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,好清香餐馆,好清香餐馆,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,金皇朝,金皇朝,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,Chinese Dumpling House,Chinese Dumpling House,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,Willy's Chinese Restauraunt,Willy's Chinese Restauraunt,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,Restoran Malaysia,Restoran Malaysia,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,湾景餐厅,湾景餐厅,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,亚洲园,亚洲园,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,君悦鱼翅酒家,君悦鱼翅酒家,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,好得多餐厅,好得多餐厅,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,Chilli Secret,Chilli Secret,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,東苑餐廳,東苑餐廳,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,浙江粽子,浙江粽子,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,美味手工水饺,美味手工水饺,0,Richmond Hill/列治文山,0.0,0.0,0.0
+中餐,四海一家,四海一家,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,果记,果记,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,广东牛腩粉面,广东牛腩粉面,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,竹园,竹园,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,林园酒家,林园酒家,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,孖宝海鲜小炒,孖宝海鲜小炒,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,忠梅餐厅,忠梅餐厅,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,福清番薯丸,福清番薯丸,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,Moonlight Chinese Food,Moonlight Chinese Food,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,镛记粥粉面饭,镛记粥粉面饭,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,香满楼,香满楼,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,美华茶餐厅,美华茶餐厅,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,半亩园,半亩园,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,米米泡芙,米米泡芙,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,新新烧腊,新新烧腊,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,新天地海参食府,新天地海参食府,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,金钟阁,金钟阁,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,O.M.G. Restaurant & Lounge,O.M.G. Restaurant & Lounge,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,变态辣,变态辣,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,鸡皇店,鸡皇店,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,台山家乡粽,台山家乡粽,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,鹿鸣春,鹿鸣春,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,包子林包子铺,包子林包子铺,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,信记海鲜小炒,信记海鲜小炒,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,东北一家人,东北一家人,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,朋福轩石锅鱼,朋福轩石锅鱼,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,联记面家,联记面家,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,荔枝湾,荔枝湾,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,天津小吃,天津小吃,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,楚留香,楚留香,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,家庭饮料小吃店,家庭饮料小吃店,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,阿弟福州鱼丸,阿弟福州鱼丸,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,家乡饺子,家乡饺子,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,手工北方水饺,手工北方水饺,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,东南亚特色小吃糕点,东南亚特色小吃糕点,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,湖南乡里腊肉,湖南乡里腊肉,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,枫叶美食,枫叶美食,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,高阿姨手工饺子,高阿姨手工饺子,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,渔苑食坊,渔苑食坊,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,哈尔滨风味干肠,哈尔滨风味干肠,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,北方水饺,北方水饺,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,台灣黑橋風味香腸,台灣黑橋風味香腸,0,Scarborough/十家堡,0.0,0.0,0.0
+中餐,Regal 16 Chinese Restaurant,Regal 16 Chinese Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,China Ocean,China Ocean,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,大华饭店,大华饭店,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,京川菜-大华饭店,京川菜-大华饭店,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,美食轩酒家,美食轩酒家,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,张家楼大酒家,张家楼大酒家,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,粤东海鲜烧腊饭店,粤东海鲜烧腊饭店,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,新万宝酒楼,新万宝酒楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,海丰中餐,海丰中餐,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Shangrila,Shangrila,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,South Sea Chinese Foods,South Sea Chinese Foods,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,China Garden Restaurant,China Garden Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Honey-Bee Chinese Food,Honey-Bee Chinese Food,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,洋帆餐厅,洋帆餐厅,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,善梦圆,善梦圆,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,珠江,珠江,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Lotus Inn,Lotus Inn,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Hibiscus,Hibiscus,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,多大学生家庭小吃,多大学生家庭小吃,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,龙翔酒楼,龙翔酒楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,重庆楼,重庆楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,众缘酒家,众缘酒家,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,香港仔美食,香港仔美食,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Charcoal Kebab House,Charcoal Kebab House,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,饺子楼,饺子楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,三渔海鲜酒家,三渔海鲜酒家,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,汇豪轩海鲜酒家,汇豪轩海鲜酒家,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,枫城酒楼,枫城酒楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,好景酒楼,好景酒楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,七喜,七喜,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,一品居,一品居,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,金爵园,金爵园,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,杰贝私厨寿司,杰贝私厨寿司,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,功夫楼菜馆,功夫楼菜馆,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,聚福楼,聚福楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,喜悦轩,喜悦轩,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,新豪京,新豪京,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,翠濠庭海鲜酒家,翠濠庭海鲜酒家,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Freedom Lunch,Freedom Lunch,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,耀华酒楼,耀华酒楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,重庆饭店,重庆饭店,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Rol Jui Seafood Restaurant,Rol Jui Seafood Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,华城海鲜饭店,华城海鲜饭店,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,喜洋洋,喜洋洋,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,满庭芳美食轩,满庭芳美食轩,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,香格里拉,香格里拉,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,喜来宝海鲜酒楼,喜来宝海鲜酒楼,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Sang-Ho Seafood Restaurant,Sang-Ho Seafood Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,丽陶轩,丽陶轩,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,口口香饺子馆,口口香饺子馆,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,蜀锅,蜀锅,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,China House,China House,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,Cruda Cafe,Cruda Cafe,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,欣欣,欣欣,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,老湘会（一品湘）,老湘会（一品湘）,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,青青上海菜,青青上海菜,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,胡家炸酱面,胡家炸酱面,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,多多小厨,多多小厨,0,Toronto/多伦多,0.0,0.0,0.0
+中餐,周家楼,周家楼,0,Vaughan/旺市,0.0,0.0,0.0
+中餐,赵家园,赵家园,0,Vaughan/旺市,0.0,0.0,0.0
+中餐,翠筠阁,翠筠阁,0,Vaughan/旺市,0.0,0.0,0.0
+中餐,卡罗林酒庄,卡罗林酒庄,0,其他,0.0,0.0,0.0
+中餐,文华餐厅,文华餐厅,0,其他,0.0,0.0,0.0
+中餐,New Happy Garden Restaurant,New Happy Garden Restaurant,0,其他,0.0,0.0,0.0
+小吃快餐,天皇名粥,天皇名粥,0,North York/北约克,7.4,7.1,6.7
+小吃快餐,李泉居,李泉居,0,Toronto/多伦多,8.1,8.3,8.3
+小吃快餐,金凤餐厅,金凤餐厅,0,Markham/万锦,7.4,6.8,7.1
+小吃快餐,面对面,面对面,0,Scarborough/十家堡,7.8,7.5,7.3
+小吃快餐,源源餐厅,源源餐厅,0,Richmond Hill/列治文山,7.1,6.5,6.9
+小吃快餐,皇后名粥,皇后名粥,0,Scarborough/十家堡,7.3,7.0,6.8
+小吃快餐,来伊份锅贴,来伊份锅贴,0,Scarborough/十家堡,7.7,7.7,7.7
+小吃快餐,大统华,大统华,0,Richmond Hill/列治文山,8.3,8.3,8.3
+小吃快餐,龙粥记,龙粥记,0,Scarborough/十家堡,7.1,7.5,7.5
+小吃快餐,阿一小厨,阿一小厨,0,Markham/万锦,7.2,6.7,6.9
+小吃快餐,太平香,太平香,0,Markham/万锦,7.5,6.9,7.5
+小吃快餐,强记鸡粥,强记鸡粥,0,Markham/万锦,6.9,7.5,6.9
+小吃快餐,澳门街,澳门街,0,Markham/万锦,8.0,8.0,8.0
+小吃快餐,新城市餐厅,新城市餐厅,0,Markham/万锦,8.0,7.2,8.0
+小吃快餐,大明茶餐厅,大明茶餐厅,0,Markham/万锦,7.5,7.0,7.0
+小吃快餐,蓝海餐厅,蓝海餐厅,0,Markham/万锦,6.7,6.9,6.7
+小吃快餐,三六九上海小吃,三六九上海小吃,0,Markham/万锦,6.0,7.0,6.5
+小吃快餐,嘿小面,嘿小面,0,Downtown,8.5,8.5,8.5
+小吃快餐,Gyugyuya,Gyugyuya,0,Downtown,8.3,8.3,8.3
+小吃快餐,桂林食店,桂林食店,0,Toronto/多伦多,8.2,6.0,6.0
+小吃快餐,台北金园排骨,台北金园排骨,0,Markham/万锦,7.4,6.7,6.0
+小吃快餐,Johnny's Hamburgers,Johnny's Hamburgers,0,Scarborough/十家堡,7.5,7.1,7.5
+小吃快餐,Beaver Tails,Beaver Tails,0,Etobicoke/怡陶碧谷,8.3,6.0,6.0
+小吃快餐,翠苑,翠苑,0,其他,7.3,6.8,6.8
+小吃快餐,十里香串吧,十里香串吧,0,Toronto/多伦多,7.2,6.8,6.8
+小吃快餐,大皇粥粉面饭,大皇粥粉面饭,0,Markham/万锦,7.2,7.2,7.2
+小吃快餐,科记粥面小炒,科记粥面小炒,0,Scarborough/十家堡,7.2,7.2,7.2
+小吃快餐,云南过桥米线园,云南过桥米线园,0,Scarborough/十家堡,6.7,6.7,8.2
+小吃快餐,心满意粥,心满意粥,0,Mississauga/密西沙加,8.2,6.7,7.4
+小吃快餐,南园餐厅,南园餐厅,0,Richmond Hill/列治文山,7.4,7.4,5.2
+小吃快餐,皇朝名粥,皇朝名粥,0,Mississauga/密西沙加,7.5,7.5,7.5
+小吃快餐,麻辣烫川菜馆,麻辣烫川菜馆,0,其他,0.0,0.0,0.0
+小吃快餐,天皇名粥,天皇名粥,0,Richmond Hill/列治文山,0.0,0.0,0.0
+小吃快餐,Good View Restaurant,Good View Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,百乐门,百乐门,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,四川 Express,四川 Express,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,煲仔记,煲仔记,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,St.Louis,St.Louis,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,粉面小叙,粉面小叙,0,Mississauga/密西沙加,0.0,0.0,0.0
+小吃快餐,禧运小炒王,禧运小炒王,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,强记鸡粥,强记鸡粥,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,云吞生面食,云吞生面食,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,中国美食,中国美食,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,百饺园食品公司,百饺园食品公司,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,One Stop Seat,One Stop Seat,0,North York/北约克,0.0,0.0,0.0
+小吃快餐,金凤餐厅,金凤餐厅,0,Thornhill,0.0,0.0,0.0
+小吃快餐,老李牛肉面,老李牛肉面,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,荷里活城市餐厅,荷里活城市餐厅,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,天津韩记包子铺,天津韩记包子铺,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,银湖烧腊,银湖烧腊,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,锋记烧腊,锋记烧腊,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,On The Rocks,On The Rocks,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,九龙粥面茶餐厅,九龙粥面茶餐厅,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,Made In China,Made In China,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,王帝名粥,王帝名粥,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,Pacific Rim,Pacific Rim,0,Mississauga/密西沙加,0.0,0.0,0.0
+小吃快餐,靓味烧腊,靓味烧腊,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,凤凰名粥,凤凰名粥,0,North York/北约克,0.0,0.0,0.0
+小吃快餐,镛記,镛記,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,君皇茶坊,君皇茶坊,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,Nothing But Noodles,Nothing But Noodles,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,Lambie Bubble Tea,Lambie Bubble Tea,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,玲珑风味私房小吃,玲珑风味私房小吃,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,湯米王,湯米王,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,雅苑粉麵小炒,雅苑粉麵小炒,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,文记烧腊店,文记烧腊店,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,川粤楼,川粤楼,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,白家香新加坡肉干,白家香新加坡肉干,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,Tangerine Asian Cuisine,Tangerine Asian Cuisine,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,续面缘,续面缘,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,香港面家,香港面家,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,大豐收,大豐收,0,Markham/万锦,0.0,0.0,0.0
+小吃快餐,King Asian Restaurant,King Asian Restaurant,0,Mississauga/密西沙加,0.0,0.0,0.0
+小吃快餐,名粥城,名粥城,0,Mississauga/密西沙加,0.0,0.0,0.0
+小吃快餐,香港食街,香港食街,0,Mississauga/密西沙加,0.0,0.0,0.0
+小吃快餐,凤城粥面家,凤城粥面家,0,Mississauga/密西沙加,0.0,0.0,0.0
+小吃快餐,桃苑粥面餐厅,桃苑粥面餐厅,0,Mississauga/密西沙加,0.0,0.0,0.0
+小吃快餐,醉香村,醉香村,0,Mississauga/密西沙加,0.0,0.0,0.0
+小吃快餐,Not Just Dim Sum,Not Just Dim Sum,0,North York/北约克,0.0,0.0,0.0
+小吃快餐,Mary Browns' Chicken,Mary Browns' Chicken,0,North York/北约克,0.0,0.0,0.0
+小吃快餐,Lee Town Restaurant,Lee Town Restaurant,0,North York/北约克,0.0,0.0,0.0
+小吃快餐,喜乐小厨,喜乐小厨,0,Richmond Hill/列治文山,0.0,0.0,0.0
+小吃快餐,聯記,聯記,0,Richmond Hill/列治文山,0.0,0.0,0.0
+小吃快餐,缘续园,缘续园,0,Richmond Hill/列治文山,0.0,0.0,0.0
+小吃快餐,颜记饭馆,颜记饭馆,0,Richmond Hill/列治文山,0.0,0.0,0.0
+小吃快餐,大好小食,大好小食,0,Richmond Hill/列治文山,0.0,0.0,0.0
+小吃快餐,锦香烧腊饭店,锦香烧腊饭店,0,Richmond Hill/列治文山,0.0,0.0,0.0
+小吃快餐,鱼汤店,鱼汤店,0,Richmond Hill/列治文山,0.0,0.0,0.0
+小吃快餐,科天奴小炒總店,科天奴小炒總店,0,Richmond Hill/列治文山,0.0,0.0,0.0
+小吃快餐,珍珍粥面小厨,珍珍粥面小厨,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,Chester Fried Chicken,Chester Fried Chicken,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,红树林私房菜,红树林私房菜,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,小麦田,小麦田,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,老街坊包子铺,老街坊包子铺,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,源源餐厅,源源餐厅,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,台味轩,台味轩,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,雨晴面馆,雨晴面馆,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,不见不散,不见不散,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,桂林粉面食店,桂林粉面食店,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,正斗粥面小炒,正斗粥面小炒,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,凯声餐厅,凯声餐厅,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,老七小炒,老七小炒,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,珍威餐厅,珍威餐厅,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,粥皇,粥皇,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,云吞仔,云吞仔,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,亚洲站,亚洲站,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,丽都餐厅,丽都餐厅,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,聯記,聯記,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,Lucky Lin's,Lucky Lin's,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,源香面饱店,源香面饱店,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,师傅仔,师傅仔,0,Scarborough/十家堡,0.0,0.0,0.0
+小吃快餐,深记面家,深记面家,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,美味,美味,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Golden House,Golden House,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Rice & Noodle,Rice & Noodle,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Yummy Chinese Food Restaurant,Yummy Chinese Food Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,China Island,China Island,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,明城饭店,明城饭店,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,为食轩,为食轩,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Ho-Lee-Chow,Ho-Lee-Chow,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,King's Café,King's Café,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Peking Express,Peking Express,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Sandy's Restaurant,Sandy's Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Eaton Ruby Thai,Eaton Ruby Thai,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Westown Chinese Food,Westown Chinese Food,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,C'est Bon,C'est Bon,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Xin Yi Garden,Xin Yi Garden,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,富豪面家,富豪面家,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,天安食府,天安食府,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Oriental King,Oriental King,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Noodle Bowl,Noodle Bowl,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,私房二少,私房二少,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,One Hour,One Hour,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,好栈粉面小厨,好栈粉面小厨,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,香港餐厅,香港餐厅,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Sen Ming Garden Restaurant,Sen Ming Garden Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Northeast Chinese Restaurant,Northeast Chinese Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Cha Lau Dim Sum,Cha Lau Dim Sum,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Bamboo Cafe Chinese Restaurant,Bamboo Cafe Chinese Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Westwood Grill,Westwood Grill,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,粉面屋,粉面屋,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,New Saigon Gourmet,New Saigon Gourmet,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Dumpling Queen,Dumpling Queen,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Le Restaurant,Le Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Lucky Star Restaurant,Lucky Star Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,The Wokker,The Wokker,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Regal Garden,Regal Garden,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Danforth Dragon Restaurant,Danforth Dragon Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,Cho Cho Cho,Cho Cho Cho,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,虾饺店,虾饺店,0,Toronto/多伦多,0.0,0.0,0.0
+小吃快餐,缘,缘,0,Vaughan/旺市,0.0,0.0,0.0
+小吃快餐,小黑料理,小黑料理,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Spring Roll,Spring Roll,115,Downtown,7.4,7.9,7.6
+东南亚菜,兴牛牛肉粉餐厅,兴牛牛肉粉餐厅,0,Toronto/多伦多,8.1,7.1,7.1
+东南亚菜,Thai Express,Thai Express,0,金融区,6.9,7.2,7.2
+东南亚菜,花心餐厅,花心餐厅,0,Toronto/多伦多,7.1,8.2,8.0
+东南亚菜,火车头越南美食,火车头越南美食,0,Toronto/多伦多,7.8,6.7,7.4
+东南亚菜,金菠萝Golden PinEapple Viet Thai ResTaurAnt,金菠萝Golden PinEapple Viet Thai ResTaurAnt,0,Downtown,7.2,7.1,7.1
+东南亚菜,Asian Bowl,Asian Bowl,0,Downtown,6.8,6.9,7.0
+东南亚菜,Khao San Road,Khao San Road,0,Toronto/多伦多,8.3,8.3,8.3
+东南亚菜,Banh Mi Boys,Banh Mi Boys,0,Toronto/多伦多,8.3,8.3,8.3
+东南亚菜,Tho88,Tho88,0,North York/北约克,8.2,8.2,7.4
+东南亚菜,Canadian Thai,Canadian Thai,0,Markham/万锦,7.2,7.2,7.2
+东南亚菜,火车头越南餐厅,火车头越南餐厅,0,Toronto/多伦多,7.2,7.2,7.2
+东南亚菜,香茅咖喱屋,香茅咖喱屋,0,Richmond Hill/列治文山,7.2,6.8,6.8
+东南亚菜,发发牛肉粉,发发牛肉粉,0,Scarborough/十家堡,6.7,6.7,6.7
+东南亚菜,Taste Of Gujarat,Taste Of Gujarat,0,,6.9,6.9,6.7
+东南亚菜,最佳泰国餐,最佳泰国餐,0,North York/北约克,0.0,0.0,0.0
+东南亚菜,Azian Cuisine,Azian Cuisine,0,Vaughan/旺市,0.0,0.0,0.0
+东南亚菜,Bangkok Paradise Restaurant,Bangkok Paradise Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Spring roll,Spring roll,0,North York/北约克,0.0,0.0,0.0
+东南亚菜,Saigon Star,Saigon Star,0,Richmond Hill/列治文山,0.0,0.0,0.0
+东南亚菜,Stars of Thai Cuisine,Stars of Thai Cuisine,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,Edulis restaurant,Edulis restaurant,0,其他,0.0,0.0,0.0
+东南亚菜,Ginger,Ginger,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Dazzling Modern Restaurant and Bar,Dazzling Modern Restaurant and Bar,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,印度菜,印度菜,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,Golden Thai Restaurant,Golden Thai Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Spring Rolls,Spring Rolls,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,星马泰美食站,星马泰美食站,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,New Thai Food,New Thai Food,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,柠檬树,柠檬树,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,越兴越南牛肉粉,越兴越南牛肉粉,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,Pho Dai Nam,Pho Dai Nam,0,Scarborough/十家堡,0.0,0.0,0.0
+东南亚菜,火车头越南餐厅,火车头越南餐厅,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Thai Express,Thai Express,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Thai Basil,Thai Basil,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,Thai Signature Restaurant,Thai Signature Restaurant,0,Mississauga/密西沙加,0.0,0.0,0.0
+东南亚菜,99越南美食,99越南美食,0,Mississauga/密西沙加,0.0,0.0,0.0
+东南亚菜,Salad King Restaurant,Salad King Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Pineapple Queen Thai Fusion Cuisine,Pineapple Queen Thai Fusion Cuisine,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,金牛苑,金牛苑,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,柠檬树,柠檬树,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,Lucky Curry,Lucky Curry,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,越河苑,越河苑,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,California Thai,California Thai,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,Indian Taste,Indian Taste,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,LJ Kusina,LJ Kusina,0,Markham/万锦,0.0,0.0,0.0
+东南亚菜,中泰小食,中泰小食,0,Mississauga/密西沙加,0.0,0.0,0.0
+东南亚菜,Golden Stove,Golden Stove,0,Mississauga/密西沙加,0.0,0.0,0.0
+东南亚菜,边城越泰美食,边城越泰美食,0,Mississauga/密西沙加,0.0,0.0,0.0
+东南亚菜,巴里餐厅,巴里餐厅,0,Richmond Hill/列治文山,0.0,0.0,0.0
+东南亚菜,火车头,火车头,0,Richmond Hill/列治文山,0.0,0.0,0.0
+东南亚菜,Amazing Thai,Amazing Thai,0,Richmond Hill/列治文山,0.0,0.0,0.0
+东南亚菜,煌記牛肉粉,煌記牛肉粉,0,Richmond Hill/列治文山,0.0,0.0,0.0
+东南亚菜,Thai 5 Cafe,Thai 5 Cafe,0,Richmond Hill/列治文山,0.0,0.0,0.0
+东南亚菜,South China Food Restaurant,South China Food Restaurant,0,Richmond Hill/列治文山,0.0,0.0,0.0
+东南亚菜,禾花越南牛肉粉,禾花越南牛肉粉,0,Scarborough/十家堡,0.0,0.0,0.0
+东南亚菜,越华轩,越华轩,0,Scarborough/十家堡,0.0,0.0,0.0
+东南亚菜,青竹越式小厨,青竹越式小厨,0,Scarborough/十家堡,0.0,0.0,0.0
+东南亚菜,膳园星,膳园星,0,Scarborough/十家堡,0.0,0.0,0.0
+东南亚菜,Khmer Thai Restaurant,Khmer Thai Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Saigon Flower Restaurant,Saigon Flower Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Pho Phoenix,Pho Phoenix,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Cantonese Gourmet,Cantonese Gourmet,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Thai one on,Thai one on,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Modern Wok,Modern Wok,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Lime Leaf,Lime Leaf,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Lime Asian Cuisine,Lime Asian Cuisine,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Bangkok Garden Restaurant,Bangkok Garden Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Bankok Garden,Bankok Garden,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,The Ace,The Ace,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Spice Thai Cafe,Spice Thai Cafe,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Trimurti Indian Cuisine,Trimurti Indian Cuisine,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Asian Bowl,Asian Bowl,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,发发牛肉粉,发发牛肉粉,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Sukho Thai,Sukho Thai,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Woodlot Bakery & Restaurant,Woodlot Bakery & Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,兴越南餐厅,兴越南餐厅,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Matahari Grill,Matahari Grill,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,The Red Room,The Red Room,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,西宫银座餐厅,西宫银座餐厅,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Thai Basil,Thai Basil,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Thai One On,Thai One On,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Papaya Restaurant,Papaya Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Angus Pho House,Angus Pho House,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,嘉凤楼,嘉凤楼,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Pi-Tom's Thai Cuisine,Pi-Tom's Thai Cuisine,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,发发牛肉粉,发发牛肉粉,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Spicy & Sweet,Spicy & Sweet,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,白燕餐厅,白燕餐厅,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,New Thai Restaurant,New Thai Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Mengrai Gourmet Thai,Mengrai Gourmet Thai,0,Toronto/多伦多,0.0,0.0,0.0
+东南亚菜,Spring Rolls,Spring Rolls,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,三草亭Sansotei Ramen,三草亭Sansotei Ramen,54,Toronto/多伦多,8.3,8.0,8.3
+日韩料理,猫头鹰,猫头鹰,0,Toronto/多伦多,8.2,7.2,7.2
+日韩料理,火頭山,火頭山,0,Toronto/多伦多,7.6,7.3,7.3
+日韩料理,高丽村,高丽村,0,Toronto/多伦多,7.3,7.5,7.1
+日韩料理,Kenzo Ramen,Kenzo Ramen,0,Toronto/多伦多,7.0,7.4,7.2
+日韩料理,乐园,乐园,0,North York/北约克,7.5,7.5,7.2
+日韩料理,雷神,雷神,0,Downtown,8.0,8.4,7.5
+日韩料理,松田日本料理,松田日本料理,0,,7.9,8.2,7.6
+日韩料理,Zakkushi Izakaya,Zakkushi Izakaya,0,多伦多娱乐区,7.9,7.9,7.9
+日韩料理,味千拉面,味千拉面,0,Markham/万锦,7.5,6.9,6.9
+日韩料理,一番日本料理,一番日本料理,0,Richmond Hill/列治文山,6.9,6.7,6.9
+日韩料理,YOKOHAMA,YOKOHAMA,0,Markham/万锦,6.6,7.0,6.3
+日韩料理,Joons Korean Cuisine,Joons Korean Cuisine,0,Downtown,8.3,8.3,8.3
+日韩料理,天一寿司,天一寿司,0,Scarborough/十家堡,7.1,7.1,7.4
+日韩料理,Yoko Japanese Korean Restaurant,Yoko Japanese Korean Restaurant,0,Scarborough/十家堡,7.2,7.2,7.2
+日韩料理,猫头鹰,猫头鹰,0,Mississauga/密西沙加,8.3,8.3,8.3
+日韩料理,Kingyo Izayaka,Kingyo Izayaka,0,,8.3,8.3,8.3
+日韩料理,Sushi Kaji,Sushi Kaji,0,Etobicoke/怡陶碧谷,6.8,6.2,6.2
+日韩料理,高丽村,高丽村,0,Richmond Hill/列治文山,7.3,7.3,7.3
+日韩料理,Urawa Sushi,Urawa Sushi,0,多伦多娱乐区,6.7,6.7,6.7
+日韩料理,包丁屋,包丁屋,0,Toronto/多伦多,8.4,8.4,8.4
+日韩料理,SUSHILEGEND,SUSHILEGEND,0,North York/北约克,0.0,0.0,0.0
+日韩料理,大禾日本料理,大禾日本料理,0,Mississauga/密西沙加,0.0,0.0,0.0
+日韩料理,猫头鹰,猫头鹰,0,North York/北约克,0.0,0.0,0.0
+日韩料理,Simon Sushi,Simon Sushi,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,季寿司,季寿司,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,Kayagum,Kayagum,0,North York/北约克,0.0,0.0,0.0
+日韩料理,Kiyomizu Restaurant,Kiyomizu Restaurant,0,North York/北约克,0.0,0.0,0.0
+日韩料理,舞寿司,舞寿司,0,North York/北约克,0.0,0.0,0.0
+日韩料理,Wakame Sushi,Wakame Sushi,0,North York/北约克,0.0,0.0,0.0
+日韩料理,Guu Izakaya,Guu Izakaya,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,御酒屋,御酒屋,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,雅‧高級日本料理,雅‧高級日本料理,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,稻亭,稻亭,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,和寿司,和寿司,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Izakaya Ju,Izakaya Ju,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,小龟日韩料理,小龟日韩料理,0,North York/北约克,0.0,0.0,0.0
+日韩料理,Kaze Japanese Cuisine,Kaze Japanese Cuisine,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,松田日本料理,松田日本料理,0,Scarborough/十家堡,0.0,0.0,0.0
+日韩料理,高丽村,高丽村,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,首尔花园,首尔花园,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,Sushi Kiku,Sushi Kiku,0,North York/北约克,0.0,0.0,0.0
+日韩料理,Sushi Garden,Sushi Garden,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,赤板日本料理,赤板日本料理,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,Zen Japanese Restaurant,Zen Japanese Restaurant,0,Scarborough/十家堡,0.0,0.0,0.0
+日韩料理,正宗韩国餐厅,正宗韩国餐厅,0,North York/北约克,0.0,0.0,0.0
+日韩料理,舟 FUNE,舟 FUNE,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,名古屋寿司,名古屋寿司,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,Gonoe Sushi,Gonoe Sushi,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Guu SakaBar,Guu SakaBar,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,味千拉面,味千拉面,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Koyoi Restaurant & Bar,Koyoi Restaurant & Bar,0,,0.0,0.0,0.0
+日韩料理,Prince Sushi,Prince Sushi,0,Mississauga/密西沙加,0.0,0.0,0.0
+日韩料理,ippai,ippai,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,八太郎,八太郎,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,Tomo Japanese Cuisine,Tomo Japanese Cuisine,0,North York/北约克,0.0,0.0,0.0
+日韩料理,樱寿司和风料理,樱寿司和风料理,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,一番日本料理,一番日本料理,0,Scarborough/十家堡,0.0,0.0,0.0
+日韩料理,Sushi D,Sushi D,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Masa,Masa,0,Woodbridge,0.0,0.0,0.0
+日韩料理,灜风日本料理,灜风日本料理,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,一番寿司,一番寿司,0,North York/北约克,0.0,0.0,0.0
+日韩料理,Fushimi,Fushimi,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,友田日本料理,友田日本料理,0,North York/北约克,0.0,0.0,0.0
+日韩料理,Sweet Lulu,Sweet Lulu,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Sashimi Island,Sashimi Island,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Matsu Sushi,Matsu Sushi,0,其他,0.0,0.0,0.0
+日韩料理,铁火寿司,铁火寿司,0,North York/北约克,0.0,0.0,0.0
+日韩料理,Spring Sushi,Spring Sushi,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,高丽村,高丽村,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Sushi Xtra,Sushi Xtra,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Wasabi Japanese Buffet,Wasabi Japanese Buffet,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,Aji Sai Japanese Restaurant,Aji Sai Japanese Restaurant,0,Thornhill,0.0,0.0,0.0
+日韩料理,绘马亭,绘马亭,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Maki Sushi,Maki Sushi,0,Vaughan/旺市,0.0,0.0,0.0
+日韩料理,Spoon & Fork,Spoon & Fork,0,Vaughan/旺市,0.0,0.0,0.0
+日韩料理,Sushi Tei,Sushi Tei,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,官殿日韩料理,官殿日韩料理,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,御食料理,御食料理,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,Niwatei,Niwatei,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,Yanagi Sushi,Yanagi Sushi,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,Gal's Sushi,Gal's Sushi,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,井井屋,井井屋,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,汉城花园,汉城花园,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,竹桥拉面屋,竹桥拉面屋,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,十番拉面屋,十番拉面屋,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,Sano Sushi,Sano Sushi,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,拉面居酒屋,拉面居酒屋,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,韩式豆腐锅,韩式豆腐锅,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,Yellowtail,Yellowtail,0,Markham/万锦,0.0,0.0,0.0
+日韩料理,友田日本料理,友田日本料理,0,Mississauga/密西沙加,0.0,0.0,0.0
+日韩料理,Axia Restaurant & Bar,Axia Restaurant & Bar,0,Mississauga/密西沙加,0.0,0.0,0.0
+日韩料理,Iron Chef Japanese Steak House Asian Cuisine,Iron Chef Japanese Steak House Asian Cuisine,0,Mississauga/密西沙加,0.0,0.0,0.0
+日韩料理,田舍屋,田舍屋,0,North York/北约克,0.0,0.0,0.0
+日韩料理,Shogun Sushi & Ramen,Shogun Sushi & Ramen,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,Naruto Sushi & Hibachi,Naruto Sushi & Hibachi,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,稲穂日本料理,稲穂日本料理,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,Akane Sushi,Akane Sushi,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,札幌寿司屋,札幌寿司屋,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,一本料理,一本料理,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,My Sushi,My Sushi,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,舞寿司,舞寿司,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,吉味家,吉味家,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,太田,太田,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,吉味家,吉味家,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,Akabane Sushi,Akabane Sushi,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,田中寿司,田中寿司,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,老朴家,老朴家,0,Richmond Hill/列治文山,0.0,0.0,0.0
+日韩料理,九上回转寿司,九上回转寿司,0,Scarborough/十家堡,0.0,0.0,0.0
+日韩料理,高丽村,高丽村,0,Scarborough/十家堡,0.0,0.0,0.0
+日韩料理,CECE SUSHI,CECE SUSHI,0,Scarborough/十家堡,0.0,0.0,0.0
+日韩料理,Tai Tai Box,Tai Tai Box,0,Scarborough/十家堡,0.0,0.0,0.0
+日韩料理,Hanabi Sushi,Hanabi Sushi,0,Scarborough/十家堡,0.0,0.0,0.0
+日韩料理,正寿司,正寿司,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Sushi Ocean,Sushi Ocean,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Manpuku Japanese Eatery,Manpuku Japanese Eatery,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Naomi,Naomi,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,人气寿司,人气寿司,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Japango,Japango,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Kami Sushi,Kami Sushi,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,California Roll,California Roll,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,三草亭,三草亭,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Echo Sushi,Echo Sushi,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,竹寿司,竹寿司,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,ND Sushi & Grill,ND Sushi & Grill,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,加多番,加多番,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Ninki Japanese Cuisine,Ninki Japanese Cuisine,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,AjiSai Japanese Restaurant,AjiSai Japanese Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Sushi One,Sushi One,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,I love sushi,I love sushi,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,New Generation Sushi,New Generation Sushi,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,金汤拉面,金汤拉面,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Kinton Ramen,Kinton Ramen,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Fin Izakaya,Fin Izakaya,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Sushi Island,Sushi Island,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Sushi On Bloor,Sushi On Bloor,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Korean Village,Korean Village,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,韩国馆,韩国馆,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Tasty Asian Cuisine,Tasty Asian Cuisine,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,乡村日韩料理,乡村日韩料理,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Sushi Style,Sushi Style,0,Toronto/多伦多,0.0,0.0,0.0
+日韩料理,Masa Sushi,Masa Sushi,0,Vaughan/旺市,0.0,0.0,0.0
+日韩料理,Sima Sushi,Sima Sushi,0,其他,0.0,0.0,0.0
+日韩料理,Urawa Sushi,Urawa Sushi,0,多伦多娱乐区,0.0,0.0,0.0
+火锅,小肥羊火锅Downtown店,小肥羊火锅Downtown店,0,,8.2,7.7,8.4
+火锅,加拿大德庄火锅,加拿大德庄火锅,0,Markham/万锦,6.2,7.4,6.6
+火锅,小肥羊火锅,小肥羊火锅,0,Scarborough/十家堡,7.6,7.4,7.1
+火锅,金稻火锅,金稻火锅,0,Richmond Hill/列治文山,7.9,6.7,7.5
+火锅,馥苑火锅,馥苑火锅,0,Scarborough/十家堡,6.7,7.3,6.7
+火锅,老乡四川火锅店,老乡四川火锅店,0,Toronto/多伦多,6.9,6.4,6.9
+火锅,食来食往,食来食往,0,Scarborough/十家堡,8.1,8.1,8.1
+火锅,100度火锅,100度火锅,0,Richmond Hill/列治文山,6.8,7.7,6.8
+火锅,喜唰唰火锅,喜唰唰火锅,0,Markham/万锦,7.2,7.2,7.2
+火锅,香锅裡辣,香锅裡辣,0,Richmond Hill/列治文山,6.7,6.7,6.7
+火锅,三国传主题火锅,三国传主题火锅,0,Toronto/多伦多,0.0,0.0,0.0
+火锅,麻辣烫川菜馆,麻辣烫川菜馆,0,其他,0.0,0.0,0.0
+火锅,真味火锅,真味火锅,0,Thornhill,0.0,0.0,0.0
+火锅,一哥火鍋,一哥火鍋,0,Markham/万锦,0.0,0.0,0.0
+火锅,德兴火锅,德兴火锅,0,Scarborough/十家堡,0.0,0.0,0.0
+火锅,飘香四川火锅,飘香四川火锅,0,Scarborough/十家堡,0.0,0.0,0.0
+火锅,御火锅,御火锅,0,Markham/万锦,0.0,0.0,0.0
+火锅,火锅城,火锅城,0,Scarborough/十家堡,0.0,0.0,0.0
+火锅,福临海鲜肥牛火锅,福临海鲜肥牛火锅,0,Richmond Hill/列治文山,0.0,0.0,0.0
+火锅,上海窝火锅,上海窝火锅,0,Toronto/多伦多,0.0,0.0,0.0
+火锅,滚锅,滚锅,0,Markham/万锦,0.0,0.0,0.0
+火锅,快乐老家火锅店,快乐老家火锅店,0,Toronto/多伦多,0.0,0.0,0.0
+火锅,梦缘火锅,梦缘火锅,0,Toronto/多伦多,0.0,0.0,0.0
+火锅,蜀天涮,蜀天涮,0,Scarborough/十家堡,0.0,0.0,0.0
+更多亚洲菜,Banjara Indian Cuisine,Banjara Indian Cuisine,0,Toronto/多伦多,7.1,7.1,7.1
+海鲜,Red Lobster,Red Lobster(多伦多DT店),200,Downtown,8.1,8.0,8.1
+海鲜,鱼乐轩海鲜专卖店,鱼乐轩海鲜专卖店,179,,7.8,7.4,7.2
+海鲜,Rodney's Oyster House,Rodney's Oyster House,0,Downtown,8.2,7.6,7.6
+海鲜,福如楼海鲜酒家,福如楼海鲜酒家,0,Scarborough/十家堡,7.4,6.7,7.4
+海鲜,沸腾鱼乡,沸腾鱼乡,0,Markham/万锦,7.8,7.8,7.8
+海鲜,皇家御宴 Royal Fine Dining,皇家御宴 Royal Fine Dining,0,Markham/万锦,8.3,8.3,8.3
+海鲜,渔人码头,渔人码头,0,Markham/万锦,7.4,7.4,7.4
+海鲜,帝王明粥,帝王明粥,0,North York/北约克,8.2,8.2,7.4
+海鲜,小渔村活鱼海鲜小馆,小渔村活鱼海鲜小馆,0,Scarborough/十家堡,6.7,6.7,8.2
+海鲜,太子小炒,太子小炒,0,Scarborough/十家堡,8.2,6.7,7.4
+海鲜,银星小厨,银星小厨,0,Richmond Hill/列治文山,6.7,6.1,6.1
+海鲜,龙粥记 MR. CONGEE,龙粥记 MR. CONGEE,0,,6.8,6.8,6.8
+海鲜,十粥十,十粥十,0,Richmond Hill/列治文山,0.0,0.0,0.0
+海鲜,168 Sushi Buffet,168 Sushi Buffet,0,,7.1,7.1,7.1
+海鲜,168 Sushi Buffet,168 Sushi Buffet,0,,7.1,7.1,7.1
+海鲜,168 Sushi Japan Buffet,168 Sushi Japan Buffet,0,,6.8,6.8,6.8
+海鲜,Koganei Japanese Seafood Restaurant 小金井,Koganei Japanese Seafood Restaurant 小金井,0,多伦多皮尔逊国际机场,0.0,0.0,0.0
+海鲜,CC爱的私房菜,CC爱的私房菜,0,其他,0.0,0.0,0.0
+海鲜,CC私房菜,CC私房菜,0,其他,0.0,0.0,0.0
+海鲜,百福名厨,百福名厨,0,Richmond Hill/列治文山,0.0,0.0,0.0
+海鲜,缘味,缘味,0,,0.0,0.0,0.0
+烤肉,味佰时尚烤鱼,味佰时尚烤鱼,0,Scarborough/十家堡,7.3,7.3,7.0
+烤肉,Arisu,Arisu,0,Toronto/多伦多,8.4,8.4,8.4
+烤肉,汉城烧,汉城烧,0,Scarborough/十家堡,7.5,6.7,7.0
+烤肉,Piggy's bbq,Piggy's bbq,0,,7.4,7.4,7.4
+烤肉,丰茂烧烤,丰茂烧烤,0,Scarborough/十家堡,7.2,6.8,6.8
+烤肉,叙香园海鲜烧腊酒家,叙香园海鲜烧腊酒家,0,Richmond Hill/列治文山,6.0,6.0,6.0
+烤肉,赛味轩,赛味轩,0,Scarborough/十家堡,7.2,6.8,6.8
+烤肉,1728 奇味烧烤,1728 奇味烧烤,0,,6.8,6.8,6.8
+烤肉,Best Portuguese Chicken,Best Portuguese Chicken,0,Toronto/多伦多,6.8,6.8,6.8
+烤肉,Buster Rhino's - Southern BBQ,Buster Rhino's - Southern BBQ,0,,7.1,7.1,6.8
+烤肉,Big Chris Bbq,Big Chris Bbq,0,,6.9,7.0,6.9
+烤肉,稻香,稻香,0,Richmond Hill/列治文山,0.0,0.0,0.0
+烤肉,Churrasqueira Costa Verde,Churrasqueira Costa Verde,0,York/约克,0.0,0.0,0.0
+烤肉,St. Matthews' BBQ Chicken,St. Matthews' BBQ Chicken,0,Toronto/多伦多,0.0,0.0,0.0
+烤肉,Churrasqueira Do Sardinha,Churrasqueira Do Sardinha,0,Toronto/多伦多,0.0,0.0,0.0
+烤肉,列治文夜市,列治文夜市,0,,0.0,0.0,0.0
+烤肉,辣妹子,辣妹子,0,Scarborough/十家堡,0.0,0.0,0.0
+烤肉,成吉思汗蒙古烤肉餐厅,成吉思汗蒙古烤肉餐厅,0,Scarborough/十家堡,0.0,0.0,0.0
+烤肉,巴西烧烤餐厅,巴西烧烤餐厅,0,Richmond Hill/列治文山,0.0,0.0,0.0
+烤肉,群英楼巴西烤肉,群英楼巴西烤肉,0,Toronto/多伦多,0.0,0.0,0.0
+烤肉,四川皇城,四川皇城,0,Scarborough/十家堡,0.0,0.0,0.0
+烤肉,山窿粉,山窿粉,0,Markham/万锦,0.0,0.0,0.0
+烤肉,Barcode,Barcode,0,Scarborough/十家堡,0.0,0.0,0.0
+烤肉,Churrasqueira Portugal,Churrasqueira Portugal,0,Toronto/多伦多,0.0,0.0,0.0
+烤肉,Churrasco Villa,Churrasco Villa,0,Toronto/多伦多,0.0,0.0,0.0
+烤肉,Churrasqueira Martins,Churrasqueira Martins,0,Toronto/多伦多,0.0,0.0,0.0
+烤肉,味和,味和,0,Toronto/多伦多,0.0,0.0,0.0
+烤肉,O Bairradino,O Bairradino,0,Toronto/多伦多,0.0,0.0,0.0
+烤肉,Sardinha O Rei dos Frangos,Sardinha O Rei dos Frangos,0,Toronto/多伦多,0.0,0.0,0.0
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Gusto Pizza,Gusto Pizza,0,,7.0,7.0,7.0
+比萨,Fantastico Pizza,Fantastico Pizza,0,,7.5,7.5,7.1
+比萨,La Pizza and Pasta,La Pizza and Pasta,0,,7.1,7.1,6.9
+比萨,Marconi Pizza,Marconi Pizza,0,,7.1,7.1,7.1
+比萨,Cocelli Pizza,Cocelli Pizza,0,,6.9,6.9,6.9
+比萨,Little Caesars,Little Caesars,0,,6.9,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Pizza,Pizza Pizza,0,,6.9,6.9,6.9
+比萨,Gino's Pizza,Gino's Pizza,0,,6.9,6.9,6.9
+比萨,Roselina's Pizza,Roselina's Pizza,0,,6.9,6.9,6.9
+比萨,Dominio's Pizza,Dominio's Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Nova,Pizza Nova,0,,7.0,7.0,6.9
+比萨,Gino's Pizza,Gino's Pizza,0,,6.9,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,6.7,6.9,6.7
+比萨,Pizza Pizza,Pizza Pizza,0,,6.7,6.7,6.7
+比萨,Jersey Joe's Gourmet Pizza,Jersey Joe's Gourmet Pizza,0,,7.0,7.0,7.0
+比萨,Boston Pizza,Boston Pizza,0,,6.9,6.9,6.9
+比萨,Gino's Pizza,Gino's Pizza,0,,6.9,6.9,6.9
+比萨,Tutto Bene,Tutto Bene,0,,7.2,7.2,7.2
+比萨,Pizzaville Pizza Panzerotto,Pizzaville Pizza Panzerotto,0,,6.9,7.0,6.9
+比萨,Little Caesars,Little Caesars,0,,7.0,6.9,6.9
+比萨,Winnie's Pizza,Winnie's Pizza,0,,7.1,7.1,7.1
+比萨,Gino's Pizza,Gino's Pizza,0,,6.7,6.7,6.7
+比萨,Boston Pizza,Boston Pizza,0,,6.7,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Pizza Pros,Pizza Pros,0,,6.9,6.9,6.9
+比萨,Panago Pizza,Panago Pizza,0,,6.9,6.9,6.9
+咖啡茶饮,圆明园,圆明园,0,Scarborough/十家堡,8.5,7.7,7.9
+咖啡茶饮,Tim Hortons,Tim Hortons,0,金融区,8.3,7.3,7.3
+咖啡茶饮,Ryu's Noodle Bar,Ryu's Noodle Bar,0,,8.5,8.0,8.0
+咖啡茶饮,缘续缘,缘续缘,0,Scarborough/十家堡,7.9,7.9,7.9
+咖啡茶饮,满记甜品,满记甜品,0,Richmond Hill/列治文山,7.2,6.8,7.2
+咖啡茶饮,缘续缘,缘续缘,0,Richmond Hill/列治文山,7.5,7.5,7.5
+咖啡茶饮,Wanda s Belgian Waffles,Wanda s Belgian Waffles,0,Downtown,8.3,7.4,8.3
+咖啡茶饮,Symposium Cafe,Symposium Cafe,0,Thornhill,8.3,8.3,8.3
+咖啡茶饮,绿的小窝,绿的小窝,0,Markham/万锦,8.2,8.2,7.4
+咖啡茶饮,Carole's Cheesecake Cafe,Carole's Cheesecake Cafe,0,,6.8,6.8,7.2
+咖啡茶饮,香港仔茶餐厅,香港仔茶餐厅,0,Markham/万锦,6.8,6.8,5.6
+咖啡茶饮,Momofuku Noodle Bar,Momofuku Noodle Bar,0,,6.7,6.1,6.1
+咖啡茶饮,鸿富堂凉茶甜品馆,鸿富堂凉茶甜品馆,0,Scarborough/十家堡,6.7,8.1,6.1
+咖啡茶饮,Kin Kin Bakery & Bubble Tea,Kin Kin Bakery & Bubble Tea,0,Richmond Hill/列治文山,7.2,6.8,7.6
+咖啡茶饮,Second cup,Second cup,0,,0.0,0.0,0.0
+咖啡茶饮,Holt cafe,Holt cafe,0,,0.0,0.0,0.0
+咖啡茶饮,Fav Cafe,Fav Cafe,0,,6.9,6.9,6.9
+咖啡茶饮,Symposium Cafe,Symposium Cafe,0,,7.2,7.2,7.2
+咖啡茶饮,Tim Hortons,Tim Hortons,0,,6.9,6.9,6.9
+咖啡茶饮,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡茶饮,Hawthorne Cafe,Hawthorne Cafe,0,,7.1,7.1,7.1
+咖啡茶饮,Touch of Dutch Cafe,Touch of Dutch Cafe,0,,7.1,7.1,7.1
+咖啡茶饮,Mamas San Francisco Cafe,Mamas San Francisco Cafe,0,,7.0,7.1,7.0
+咖啡茶饮,Cafe De Khan,Cafe De Khan,0,,7.0,6.9,6.9
+咖啡茶饮,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡茶饮,3 Steps up Coffee House and Bistro,3 Steps up Coffee House and Bistro,0,,7.1,7.0,7.0
+咖啡茶饮,Tamp Coffee,Tamp Coffee,0,,7.1,7.1,7.1
+咖啡茶饮,Second Cup,Second Cup,0,,7.1,7.1,7.0
+咖啡茶饮,Market Hill Cafe,Market Hill Cafe,0,,7.0,7.0,7.0
+咖啡茶饮,Artisano Bakery Cafe,Artisano Bakery Cafe,0,,6.9,6.9,6.9
+咖啡茶饮,Symposium Cafe Mississauga South,Symposium Cafe Mississauga South,0,,6.8,6.8,7.1
+咖啡茶饮,Second Cup,Second Cup,0,,6.9,6.9,6.9
+咖啡茶饮,天仁茗茶,天仁茗茶,0,Markham/万锦,0.0,0.0,0.0
+咖啡茶饮,架势堂,架势堂,0,Markham/万锦,0.0,0.0,0.0
+咖啡茶饮,茶道,茶道,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,理想乌托邦,理想乌托邦,0,Markham/万锦,0.0,0.0,0.0
+咖啡茶饮,天仁茗茶,天仁茗茶,0,Scarborough/十家堡,0.0,0.0,0.0
+咖啡茶饮,许留山,许留山,0,Markham/万锦,0.0,0.0,0.0
+咖啡茶饮,本草堂凉茶甜品馆,本草堂凉茶甜品馆,0,Richmond Hill/列治文山,0.0,0.0,0.0
+咖啡茶饮,Six Stars home *,Six Stars home *,0,,0.0,0.0,0.0
+咖啡茶饮,168茶坊,168茶坊,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,马力雄,马力雄,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,吃茶去,吃茶去,0,Scarborough/十家堡,0.0,0.0,0.0
+咖啡茶饮,Bicerin Espresso Bar,Bicerin Espresso Bar,0,Downtown,0.0,0.0,0.0
+咖啡茶饮,Princess Cafe,Princess Cafe,0,North York/北约克,0.0,0.0,0.0
+咖啡茶饮,满记甜品,满记甜品,0,Richmond Hill/列治文山,0.0,0.0,0.0
+咖啡茶饮,IECC 留学咨询,IECC 留学咨询,0,Thornhill,0.0,0.0,0.0
+咖啡茶饮,钟意坊,钟意坊,0,Richmond Hill/列治文山,0.0,0.0,0.0
+咖啡茶饮,Six Starts home,Six Starts home,0,其他,0.0,0.0,0.0
+咖啡茶饮,天仁茗茶,天仁茗茶,0,North York/北约克,0.0,0.0,0.0
+咖啡茶饮,天仁茗茶,天仁茗茶,0,Scarborough/十家堡,0.0,0.0,0.0
+咖啡茶饮,莊记食品,莊记食品,0,Markham/万锦,0.0,0.0,0.0
+咖啡茶饮,吃茶去,吃茶去,0,Markham/万锦,0.0,0.0,0.0
+咖啡茶饮,Beard Papa’s,Beard Papa’s,0,Markham/万锦,0.0,0.0,0.0
+咖啡茶饮,Mirotic,Mirotic,0,Markham/万锦,0.0,0.0,0.0
+咖啡茶饮,台湾奶茶专卖店,台湾奶茶专卖店,0,Mississauga/密西沙加,0.0,0.0,0.0
+咖啡茶饮,Fresh Cup,Fresh Cup,0,North York/北约克,0.0,0.0,0.0
+咖啡茶饮,泡芙工房,泡芙工房,0,North York/北约克,0.0,0.0,0.0
+咖啡茶饮,Chai Tai,Chai Tai,0,North York/北约克,0.0,0.0,0.0
+咖啡茶饮,芝蔘堂,芝蔘堂,0,Richmond Hill/列治文山,0.0,0.0,0.0
+咖啡茶饮,168茶坊,168茶坊,0,Richmond Hill/列治文山,0.0,0.0,0.0
+咖啡茶饮,大有名糖,大有名糖,0,Scarborough/十家堡,0.0,0.0,0.0
+咖啡茶饮,La Bamboche,La Bamboche,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,Momofuku Milk Bar,Momofuku Milk Bar,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,味园,味园,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,85C Sugar Time Dessert/BBT,85C Sugar Time Dessert/BBT,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,天仁茗茶,天仁茗茶,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,天仁茗茶,天仁茗茶,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,Bulldog Coffee,Bulldog Coffee,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,Clafouti,Clafouti,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,Moroco Chocolat,Moroco Chocolat,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,Soul Cafe,Soul Cafe,0,Toronto/多伦多,0.0,0.0,0.0
+咖啡茶饮,William s Fresh Cafe,William s Fresh Cafe,0,Downtown,0.0,0.0,0.0
+面包/点心,Soma Chocolatemaker,Soma Chocolatemaker,0,海滨中心,7.9,7.4,7.4
+面包/点心,millie creperie,millie creperie,0,Downtown,8.5,8.0,8.5
+面包/点心,Gerhard’s Café,Gerhard’s Café,0,Scarborough/十家堡,8.2,8.2,8.2
+面包/点心,Nadege Patisserie,Nadege Patisserie,0,Toronto/多伦多,8.3,8.3,8.3
+面包/点心,仙Q甜品 北约克,仙Q甜品 北约克,0,其他,7.4,7.4,7.4
+面包/点心,The Wedding Cake Shoppe,The Wedding Cake Shoppe,0,翠妮缇-尼亚加拉瀑布,7.0,7.0,7.0
+面包/点心,富丽华饼店,富丽华饼店,0,Toronto/多伦多,8.3,8.3,8.3
+面包/点心,Eskimo Tea House,Eskimo Tea House,0,Downtown,8.3,7.4,8.3
+面包/点心,Golden Wheat Bakery & Pastry,Golden Wheat Bakery & Pastry,0,Downtown,8.3,8.3,8.3
+面包/点心,龙凤阁饼家(东区唐人街),龙凤阁饼家(东区唐人街),0,Toronto/多伦多,8.2,6.7,8.2
+面包/点心,Cake Royale,Cake Royale,0,,6.9,6.9,6.9
+面包/点心,Menchie's Frozen Yogurt,Menchie's Frozen Yogurt,0,,6.9,6.9,6.9
+面包/点心,La Rose Italian Bakery,La Rose Italian Bakery,0,,6.9,6.9,6.9
+面包/点心,Lisboa Bakery and Grillhouse,Lisboa Bakery and Grillhouse,0,,6.9,6.9,6.9
+面包/点心,White Heather Scottish Bakery Ltd,White Heather Scottish Bakery Ltd,0,,6.9,7.0,6.9
+面包/点心,Sweet Master,Sweet Master,0,,7.0,7.0,6.9
+面包/点心,Tutti Frutti,Tutti Frutti,0,,6.9,6.7,6.9
+面包/点心,美心面点,美心面点,0,Richmond Hill/列治文山,0.0,0.0,0.0
+面包/点心,皇后饼店,皇后饼店,0,Scarborough/十家堡,0.0,0.0,0.0
+面包/点心,Winsder Arms,Winsder Arms,0,Toronto/多伦多,0.0,0.0,0.0
+面包/点心,面包物语,面包物语,0,Markham/万锦,0.0,0.0,0.0
+面包/点心,源香面包店,源香面包店,0,Toronto/多伦多,0.0,0.0,0.0
+面包/点心,雅阁饼屋,雅阁饼屋,0,Mississauga/密西沙加,0.0,0.0,0.0
+面包/点心,老北京豆饼,老北京豆饼,0,Vaughan/旺市,0.0,0.0,0.0
+面包/点心,Patisserie 27,Patisserie 27,0,Toronto/多伦多,0.0,0.0,0.0
+面包/点心,麦香园饼店,麦香园饼店,0,Etobicoke/怡陶碧谷,0.0,0.0,0.0
+面包/点心,Ma Maison,Ma Maison,0,Etobicoke/怡陶碧谷,0.0,0.0,0.0
+面包/点心,江南点心店,江南点心店,0,Scarborough/十家堡,0.0,0.0,0.0
+面包/点心,大龙凤饼家,大龙凤饼家,0,Toronto/多伦多,0.0,0.0,0.0
+面包/点心,Ice n cake,Ice n cake,0,其他,0.0,0.0,0.0
+面包/点心,Cakewood Bakery & Cafe,Cakewood Bakery & Cafe,0,Scarborough/十家堡,0.0,0.0,0.0
+面包/点心,Petit Thuet,Petit Thuet,0,Toronto/多伦多,0.0,0.0,0.0
+面包/点心,Brick St. Breads,Brick St. Breads,0,Toronto/多伦多,0.0,0.0,0.0
+面包/点心,兄弟饼店,兄弟饼店,0,Markham/万锦,0.0,0.0,0.0
+面包/点心,George’s Tastee Bread & Patties,George’s Tastee Bread & Patties,0,North York/北约克,0.0,0.0,0.0
+面包/点心,雅芳食品,雅芳食品,0,Richmond Hill/列治文山,0.0,0.0,0.0
+面包/点心,皇廷饼店,皇廷饼店,0,Richmond Hill/列治文山,0.0,0.0,0.0
+面包/点心,Rahier,Rahier,0,Toronto/多伦多,0.0,0.0,0.0
+面包/点心,叮咚饼屋,叮咚饼屋,0,Toronto/多伦多,0.0,0.0,0.0
+面包/点心,Mabel’s Bakery,Mabel’s Bakery,0,Toronto/多伦多,0.0,0.0,0.0
+面包/点心,Crepe it up,Crepe it up,0,Toronto/多伦多,0.0,0.0,0.0
+面包/点心,Thobors,Thobors,0,Toronto/多伦多,0.0,0.0,0.0
+面包/点心,Cherry Bomb,Cherry Bomb,0,Toronto/多伦多,0.0,0.0,0.0
+素食斋菜,五台山素宴,五台山素宴,0,Markham/万锦,7.3,7.5,7.9
+素食斋菜,天恩素食,天恩素食,0,Markham/万锦,7.2,6.9,7.5
+素食斋菜,佛光山寺滴水坊,佛光山寺滴水坊,0,Mississauga/密西沙加,7.8,7.8,7.8
+素食斋菜,知味斋,知味斋,0,Richmond Hill/列治文山,7.2,6.8,6.8
+素食斋菜,Zen Garden 禅,Zen Garden 禅,0,Mississauga/密西沙加,7.4,7.4,7.4
+素食斋菜,法海素食轩,法海素食轩,0,Markham/万锦,7.2,7.2,7.2
+素食斋菜,莲花素食,莲花素食,0,Scarborough/十家堡,7.6,7.6,7.2
+素食斋菜,素食店,素食店,0,Mississauga/密西沙加,0.0,0.0,0.0
+素食斋菜,佛山素食,佛山素食,0,Toronto/多伦多,0.0,0.0,0.0
+素食斋菜,素闻千里,素闻千里,0,Richmond Hill/列治文山,0.0,0.0,0.0
+素食斋菜,佛海斋厨,佛海斋厨,0,Scarborough/十家堡,0.0,0.0,0.0
+素食斋菜,莲花素食,莲花素食,0,Scarborough/十家堡,0.0,0.0,0.0
+素食斋菜,珍家素食,珍家素食,0,Scarborough/十家堡,0.0,0.0,0.0
+素食斋菜,素城素食餐厅,素城素食餐厅,0,Toronto/多伦多,0.0,0.0,0.0
+素食斋菜,观世音素食,观世音素食,0,Toronto/多伦多,0.0,0.0,0.0
+素食斋菜,菩提绿素食楼,菩提绿素食楼,0,Toronto/多伦多,0.0,0.0,0.0
+素食斋菜,绿素食,绿素食,0,Toronto/多伦多,0.0,0.0,0.0
+素食斋菜,佛灯斋府,佛灯斋府,0,Toronto/多伦多,0.0,0.0,0.0
+酒吧,Guu居酒屋,Guu居酒屋,0,,7.8,6.8,7.4
+酒吧,Ryu's Noodle Bar,Ryu's Noodle Bar,0,,8.5,8.0,8.0
+酒吧,Hard Rock Café,Hard Rock Café,0,,7.5,7.5,7.1
+酒吧,Nazareth Bar,Nazareth Bar,0,翠妮缇-尼亚加拉瀑布,7.1,6.8,6.6
+酒吧,The rooster,The rooster,0,翠妮缇-尼亚加拉瀑布,6.8,6.6,6.8
+酒吧,Momofuku Noodle Bar,Momofuku Noodle Bar,0,,6.7,6.1,6.1
+酒吧,Molson Pub,Molson Pub,0,Downtown,6.7,6.7,6.6
+酒吧,Milestones Bar and Grill,Milestones Bar and Grill,0,,7.2,7.2,7.2
+酒吧,Sheltie Pub,Sheltie Pub,0,,6.9,6.9,6.9
+酒吧,Beluga Bar,Beluga Bar,0,,7.1,7.1,7.0
+酒吧,Grey Goat Pub and Grill,Grey Goat Pub and Grill,0,,6.9,6.9,6.7
+酒吧,Clancy's Pub,Clancy's Pub,0,,7.0,6.9,6.7
+酒吧,Jerseys Bar And Grill,Jerseys Bar And Grill,0,,6.9,7.0,6.9
+酒吧,Club 54,Club 54,0,,6.9,6.9,6.9
+酒吧,The Firehall Cool Bar Hot Grill,The Firehall Cool Bar Hot Grill,0,,6.8,6.8,6.8
+酒吧,Tatlows Broiler Bar,Tatlows Broiler Bar,0,,7.1,7.1,7.1
+酒吧,keg steakhouse and bar,keg steakhouse and bar,0,,7.2,7.2,7.2
+酒吧,King Richard's English Pub,King Richard's English Pub,0,,7.1,7.1,7.1
+酒吧,Bar Burrito,Bar Burrito,0,,6.9,6.9,6.9
+酒吧,Solstice Restaurant and Wine Bar,Solstice Restaurant and Wine Bar,0,,7.1,7.1,7.1
+酒吧,Ivy Bar + Kitchen,Ivy Bar + Kitchen,0,,7.2,7.2,7.2
+酒吧,The Stags Head Pub And Grill,The Stags Head Pub And Grill,0,,7.0,7.0,7.0
+酒吧,Sargeant peppers pub and grill,Sargeant peppers pub and grill,0,,6.7,6.9,6.7
+酒吧,Wing House & Sports Bar,Wing House & Sports Bar,0,Toronto/多伦多,0.0,0.0,0.0
+酒吧,Hoof Raw Bar,Hoof Raw Bar,0,亚历山大公园,0.0,0.0,0.0
+酒吧,Sarah's Café & Bar,Sarah's Café & Bar,0,East York/The Beach,0.0,0.0,0.0
+酒吧,The Beaconsfield,The Beaconsfield,0,Toronto/多伦多,0.0,0.0,0.0
+酒吧,Spice Route,Spice Route,0,Toronto/多伦多,0.0,0.0,0.0
+酒吧,Bar Isabel,Bar Isabel,0,翠妮缇-尼亚加拉瀑布,0.0,0.0,0.0
+酒吧,The Banknote Bar & Supergrill,The Banknote Bar & Supergrill,0,海滨中心,0.0,0.0,0.0
+更多美食,黃三记,黃三记,0,Markham/万锦,7.7,6.9,7.2
+更多美食,福州楼,福州楼,0,Toronto/多伦多,7.9,7.4,7.4
+更多美食,Spring Rolls,Spring Rolls,0,Downtown,8.2,8.4,8.0
+更多美食,糖记甜品,糖记甜品,0,Toronto/多伦多,7.2,7.1,7.1
+更多美食,萤火星牛排屋,萤火星牛排屋,0,Markham/万锦,8.3,8.3,8.3
+更多美食,Menchie s Frozen Yogurt,Menchie s Frozen Yogurt,0,Downtown,8.3,7.4,8.3
+更多美食,POPEYES,POPEYES,0,Thornhill,7.4,6.0,6.0
+更多美食,君临天下海鲜酒家,君临天下海鲜酒家,0,Richmond Hill/列治文山,6.7,6.7,7.4
+更多美食,韩国餐馆,韩国餐馆,0,Thornhill,0.0,0.0,0.0
+更多美食,富来茶庄,富来茶庄,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,Addis Ababa Restaurant,Addis Ababa Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,P.F. Chang’s,P.F. Chang’s,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,大可汗蒙古烤肉,大可汗蒙古烤肉,0,Markham/万锦,0.0,0.0,0.0
+更多美食,潮阳小馆,潮阳小馆,0,Scarborough/十家堡,0.0,0.0,0.0
+更多美食,Wiki Star,Wiki Star,0,North York/北约克,0.0,0.0,0.0
+更多美食,泰国餐厅,泰国餐厅,0,North York/北约克,0.0,0.0,0.0
+更多美食,又一村牛肉面,又一村牛肉面,0,Scarborough/十家堡,0.0,0.0,0.0
+更多美食,Boneyard Grill,Boneyard Grill,0,Thornhill,0.0,0.0,0.0
+更多美食,亚洲美食聚汇,亚洲美食聚汇,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,'ONE' Restaurant,'ONE' Restaurant,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,Jodhpose Club Indian Cuisine,Jodhpose Club Indian Cuisine,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,Pickle Barrel,Pickle Barrel,0,Markham/万锦,0.0,0.0,0.0
+更多美食,Alice Fazooli's,Alice Fazooli's,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,乾隆食轩,乾隆食轩,0,Markham/万锦,0.0,0.0,0.0
+更多美食,第八站,第八站,0,Markham/万锦,0.0,0.0,0.0
+更多美食,Bamiyan Kabob,Bamiyan Kabob,0,Markham/万锦,0.0,0.0,0.0
+更多美食,Hot Spicy Spicy Chinese Restaurant,Hot Spicy Spicy Chinese Restaurant,0,North York/北约克,0.0,0.0,0.0
+更多美食,Milestone’s Grill & Bar,Milestone’s Grill & Bar,0,Richmond Hill/列治文山,0.0,0.0,0.0
+更多美食,The Real McCoy Burger,The Real McCoy Burger,0,Scarborough/十家堡,0.0,0.0,0.0
+更多美食,大城小厨,大城小厨,0,Scarborough/十家堡,0.0,0.0,0.0
+更多美食,大碗,大碗,0,Scarborough/十家堡,0.0,0.0,0.0
+更多美食,闽菜馆,闽菜馆,0,Scarborough/十家堡,0.0,0.0,0.0
+更多美食,新东京居酒屋拉面,新东京居酒屋拉面,0,Scarborough/十家堡,0.0,0.0,0.0
+更多美食,Vegetarian Haven,Vegetarian Haven,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,The Richmond Rogue,The Richmond Rogue,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,The Beet,The Beet,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,Kensington Cornerstone,Kensington Cornerstone,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,Master's Buffeteria Catering,Master's Buffeteria Catering,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,泰国餐厅,泰国餐厅,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,Insomnia Restaurant Bar Lounge,Insomnia Restaurant Bar Lounge,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,La Cabana,La Cabana,0,Toronto/多伦多,0.0,0.0,0.0
+更多美食,Menchie s Frozen Yogurt,Menchie s Frozen Yogurt,0,Downtown,0.0,0.0,0.0

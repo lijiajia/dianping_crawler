@@ -1,0 +1,1593 @@
+意大利菜,Leman Kultur
+意大利菜,Cucina Makkarna
+意大利菜,Kalispera Ege Restaurant
+意大利菜,Mezzaluna Bilkent
+意大利菜,Minnas Hot Spot Bistro
+意大利菜,Ege Sefasi
+意大利菜,Eftelya Restaurant
+意大利菜,Idol Cafe
+意大利菜,Anatolia Restaurant
+意大利菜,PepperMiLL
+意大利菜,Tadim
+意大利菜,Kaptan in Yeri
+意大利菜,Mezzaluna
+意大利菜,Sardunya Cafe
+意大利菜,Tomato Fresh Italian
+意大利菜,Numnum
+意大利菜,Mezzaluna Kavaklıdere
+意大利菜,Peperoncino
+意大利菜,Kaptan in Yeri
+意大利菜,Simit Sarayi Kecioren
+意大利菜,Piola Ankara
+意大利菜,Pidekoy
+意大利菜,Branca Restaurant
+意大利菜,Sbarro
+意大利菜,Prime
+意大利菜,Meandros Restaurant
+意大利菜,Firenze Ristorante Pizzeria
+意大利菜,akman
+意大利菜,Pidekoy
+意大利菜,Kalinos BalIkci
+法国菜,CAFE DE PARIS
+法国菜,Kalender Zebra
+墨西哥菜,Benzin Ankara
+墨西哥菜,Dunya Cafe
+墨西哥菜,Ivy
+墨西哥菜,Cantina Restaurant
+其他西餐,Suda Kebap Ankara
+其他西餐,Masabasi Kebapcisi
+其他西餐,Tantunizade
+其他西餐,Kinacizade Konagi
+其他西餐,Seyr-i Alem
+其他西餐,Duveroglu
+其他西餐,Boyacizade Konagi
+其他西餐,GunaydIn
+其他西餐,Cankaya Lokantasi
+其他西餐,Tenes Fish Restaurant
+其他西餐,Sukur Yiyecek Dunyasi
+其他西餐,Elzem Yoresel Kahvalti
+其他西餐,Malatya Pide Salonu
+其他西餐,Sivas Etli Ekmek ve Kofte Salonu
+其他西餐,Ugur Pide Kebap Salonu
+其他西餐,Alaturka Lokantasi
+其他西餐,Kebap 9
+其他西餐,Pan Cigkofte
+其他西餐,Palmiye Kebap
+其他西餐,Malatya Pide Salonu
+其他西餐,Kebap Dunyasi
+其他西餐,Pan Cigkofte
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Pan Cigkofte
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Mozaik Kebap
+其他西餐,Aspava Sohretler
+其他西餐,Ufa Lahmacun Durum Sarayi
+其他西餐,Komagene
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Cig Kofteci Ahmet Aybak
+其他西餐,Doner 360
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Yildiz 95 Et Lokantasi
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Pan Cigkofte
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Duhan Doner
+其他西餐,Pan Cigkofte
+其他西餐,Pan Cigkofte
+其他西餐,Has Tat Et Lokantasi
+其他西餐,Pan Cigkofte
+其他西餐,Pan Cigkofte
+其他西餐,Pan Cigkofte
+其他西餐,Unlulerin Cig Koftecisi
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Pan Cigkofte
+其他西餐,Yeni Ozlem Kebap
+其他西餐,Doner Dukkani
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Gozde Palmiye Pide Kebap Sarayi
+其他西餐,Somine Pide Ve Kebap
+其他西餐,Pan Cigkofte
+其他西餐,Doneristan
+其他西餐,Efsane Kebap ve Iskembe Salonu
+其他西餐,Efsane Kofteci
+其他西餐,Pan Cigkofte
+其他西餐,Pan Cigkofte
+其他西餐,Pan Cigkofte
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Hitit Doner
+其他西餐,Arzum Pide
+其他西餐,Liva
+其他西餐,Pan Cigkofte
+其他西餐,Durumcu Mangal Kebap
+其他西餐,Mithat Pasa Durum Sarayi
+其他西餐,Gaziantepli Tabldot ve Yemek Lokantasi
+其他西餐,Merkez Lokantasi
+其他西餐,Nazar Piknik
+其他西餐,Develi Pide Salonu
+其他西餐,Yildiz Aspava
+其他西餐,Yasar Piknik
+其他西餐,Garanti Beyaz Et Lokantasi
+其他西餐,Yesilyurt Pide ve Kebap Salonu
+其他西餐,Inci Anadolu Sofrasi
+其他西餐,Sayfan Lokantasi
+其他西餐,Yavuz Piknik
+其他西餐,Oz Urfali Durumcusu
+其他西餐,Portakal Piknik
+其他西餐,Gurbuz Pide
+其他西餐,Meshur Kofteci Aydin Piknik
+其他西餐,Kofteci Muzaffer Usta
+其他西餐,Goreme Lokantasi
+其他西餐,Selbu
+其他西餐,Ziraat 3 Pide Ve Kebap Salonu
+其他西餐,Cafe Taraça
+其他西餐,Burak Et Lokantasi
+其他西餐,Ikizler Durum
+其他西餐,Ikizler Pide Kebap Salonu
+其他西餐,Edirne Kirkpinar Lokantasi
+其他西餐,Meric Tesisleri
+其他西餐,Umut Pide ve Kebap Salonu
+其他西餐,Ozgu Yemek
+其他西餐,Harput Pide ve Kebap Salonu
+其他西餐,Divan Cafe Restaurant
+其他西餐,Ozgu Et Lokantasi
+其他西餐,Gul Gaziantep
+其他西餐,Guler Manti
+其他西餐,Deva Sandvic
+其他西餐,Arifoglu Kebap
+其他西餐,Guzel Sungurlu Pide ve Kebap Salonu
+其他西餐,Souprice
+其他西餐,Ette
+其他西餐,Elmaci Pazari Gulluoglu
+其他西餐,Yaren Pide
+其他西餐,Bizim Mutfak Mengen Sofrasi
+其他西餐,Sultanahmet Koftecisi
+其他西餐,Sicak Restaurant
+其他西餐,Meshur Mehmetzade Koftecisi
+其他西餐,Seker Piknik
+其他西餐,Tarihi Cicek Lokantasi
+其他西餐,Kukla Kebap
+其他西餐,Kilic Doner
+其他西餐,Kazim in Yeri
+其他西餐,Ugur Pide
+其他西餐,Kofteci Haci
+其他西餐,Cam-Pi
+其他西餐,Gercek Adanali Durumcusu
+其他西餐,Anil Pide Kebap Salonu
+其他西餐,Donersev
+其他西餐,Lezzet Ev Yemekleri
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Pan Cigkofte
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Tat-An Pide ve Kebap
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Mantila
+其他西餐,Kardesler Dijle Pide Kebap
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Beyazit Iskembecisi
+其他西餐,Palmiye Piknik
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Evim Lokantasi
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Ankara Pidecisi
+其他西餐,Sanli Edessa Kebap
+其他西餐,Lal Piknik
+其他西餐,Oyku Piknik
+其他西餐,Pilic Kumesi Lokantasi
+其他西餐,Segmen Sofrasi
+其他西餐,Segmen Sofrasi
+其他西餐,Annem Pide Kebap Salonu
+其他西餐,Istasyon Restaurant
+其他西餐,Kaya Piknik
+其他西餐,Konya Tandir Kebap Salonu
+其他西餐,Mevlanapidekebapcom
+其他西餐,Cesa Cigkofte
+其他西餐,Pidesun
+其他西餐,Farabi Koftecisi
+其他西餐,Pide 9
+其他西餐,Mutlu Doner
+其他西餐,Sevki Usta Yemek Salonu
+其他西餐,Nasip Kebap Salonu
+其他西餐,Alaros Cafe Patisserie
+其他西餐,Urfa Dergah Sofrasi
+其他西餐,Alaturka Piknik
+其他西餐,Gaziantep Piknik
+其他西餐,Nisan Restaurant
+其他西餐,Urfali Kebapci
+其他西餐,Tantunizade
+其他西餐,Eti Lokantasi
+其他西餐,Resim Usta Ciger Kebap Kofte Salonu
+其他西餐,Sampi
+其他西餐,Eylul Cafe Restourant
+其他西餐,Kebap 9
+其他西餐,Komagene
+其他西餐,Komagene
+其他西餐,Cesa Cigkofte
+其他西餐,Cesa Cigkofte
+其他西餐,Cesa Cigkofte
+其他西餐,Cesa Cigkofte
+其他西餐,Cesni Konagi
+其他西餐,Unal Piknik
+其他西餐,Safir Lezzet Lokantasi
+其他西餐,Kismet Pide
+其他西餐,Mutlu Piknik
+其他西餐,Komagene
+其他西餐,Komagene
+其他西餐,Karacaoglu Alaturka Et Lokantasi
+其他西餐,Tavukcu Lokantasi
+其他西餐,Mardin Pide Salonu
+其他西餐,Feslegen Ev Yemekleri
+其他西餐,Kiva
+其他西餐,Rakici
+其他西餐,Ozel Urfa Kebap Salonu
+其他西餐,Ceo s Wine House
+其他西餐,Korykos Tantuni
+其他西餐,Kuzey Yildizi
+其他西餐,Cambo
+其他西餐,Yorukhan Guvec
+其他西餐,Mutlu Lokanta
+其他西餐,Hollywood Myhane
+其他西餐,Korykos Ciger
+其他西餐,Omurlu Kofte
+其他西餐,Su dem Restaurant
+其他西餐,Hosta Piknik
+其他西餐,Aspava Pide Kebap Salonu
+其他西餐,Pidart
+其他西餐,Erciyes Borek
+其他西餐,Erciyes Borek
+其他西餐,Pideci
+其他西餐,La Varca
+其他西餐,Erciyes Borek
+其他西餐,Erciyes Borek
+其他西餐,Erciyes Borek
+其他西餐,Sahane Iskender
+其他西餐,Meshur Kofteci
+其他西餐,Gumus Doner
+其他西餐,Sultan Sofrasi
+其他西餐,Saray Piknik
+其他西餐,Pizzarella
+其他西餐,Murat Lokantasi
+其他西餐,Sah Doner
+其他西餐,Koreli Koftecisi
+其他西餐,Sakli Teras Lezzet Evi
+其他西餐,Oz Mozaik Kebap
+其他西餐,Erciyes Borek
+其他西餐,Erciyes Borek
+其他西餐,Elit Pide Kebap
+其他西餐,Tuna Pide
+其他西餐,Erciyes Borek
+其他西餐,Aba Piknik
+其他西餐,Pizzarozza
+其他西餐,Palmiye Pide ve Kebap Sarayi
+其他西餐,63 Ebesa Kebap
+其他西餐,Urfa Isot
+其他西餐,Sedir Manti Gozleme Ev Yemekleri
+其他西餐,Bizim Adana Durumcusu
+其他西餐,Sultanahmet Koftecisi
+其他西餐,Kompleks Cafe
+其他西餐,Sivas Sofrasi
+其他西餐,Yaprak pide ve kebap
+其他西餐,Sisko Pide Borek
+其他西餐,Florya Lokantasi
+其他西餐,Dogan Pide
+其他西餐,Kucuk Ev
+其他西餐,29 Mutlu Kebap
+其他西餐,Karakaya Piknik
+其他西餐,Sirin Piknik
+其他西餐,Hanedan Pide ve Kebap Salonu
+其他西餐,Akcaabat Koftecisi
+其他西餐,Un Chef
+其他西餐,Fatih Pasta Piknik
+其他西餐,Akin Pide ve Kebap Salonu
+其他西餐,Tantuni King
+其他西餐,Mis Bufe Piknik
+其他西餐,Cardak Pide Salonu
+其他西餐,Sevgi Sofrasi
+其他西餐,Oz Gaziantep
+其他西餐,Oz Gaziantep
+其他西餐,Oz Gaziantep
+其他西餐,Tasova Piknik
+其他西餐,Kilis Kebap ve Kofte Salonu
+其他西餐,Seker Lokali
+其他西餐,Aksultan Piknik
+其他西餐,Somuncu Dede
+其他西餐,Kardesler Pide Kebap ve Yemek Lokantasi
+其他西餐,Adana Durumcusu
+其他西餐,Oz Gaziantep
+其他西餐,Ucler Simit Ve Pide Sarayi
+其他西餐,Erciyes Borek
+其他西餐,Suppen
+其他西餐,Annem Kayseri Manticisi
+其他西餐,Sun Pide Kebap Salonu
+其他西餐,Lezz-Et
+其他西餐,Oba Koftecisi
+其他西餐,Burak Et Lokantasi
+其他西餐,Komagene
+其他西餐,Adim Fast Food
+其他西餐,Yildiz Piknik
+其他西餐,Doner-Cim
+其他西餐,Tarihi Kale Doner
+其他西餐,Ugur Pide
+其他西餐,Tantunizade
+其他西餐,Akin Kebap
+其他西餐,63 Kebap Dunyasi
+其他西餐,Sarmasik Lokantacilik
+其他西餐,Sandal Lokantasi
+其他西餐,Kardesler Arzu
+其他西餐,Cicim Lokantasi
+其他西餐,Eftal Piknik
+其他西餐,Koyunlu Piknik
+其他西餐,AFA
+其他西餐,Cafe   Er-Ya
+其他西餐,Koroglu Aspava
+其他西餐,Papara
+其他西餐,Sultan Sofrasi
+其他西餐,Kampus Piknik
+其他西餐,Anadolu Lokantasi
+其他西餐,Stad Doner
+其他西餐,Anadolu Manti
+其他西餐,Altın Simit
+其他西餐,Oz Mevlana Pide ve Kebap Salonu
+其他西餐,Diba Cafe
+其他西餐,M.I.S Gaziantep Pide Kebap ve Baklava Salonu
+其他西餐,Yeni Piknik
+其他西餐,Ozlem Pide ve Kebap Salonu
+其他西餐,Bizim Kofte
+其他西餐,Masal Cafe
+其他西餐,Yeni Umut Kebap
+其他西餐,Hosdere Pide ve Kebap Salonu
+其他西餐,Kebaphan Iskembe
+其他西餐,Oz Konya Mevlana Lokantasi
+其他西餐,Buket Iskembecisi
+其他西餐,Kralice Kelebekler Cafe And Bistro
+其他西餐,Visne Restaurant
+其他西餐,Sanliurfa Haci Baba Pide ve Kebap Salonu
+其他西餐,Turkuaz Piknik
+其他西餐,Yildiz Kebap
+其他西餐,Livadi Karadeniz Sofrasi
+其他西餐,Piknik Agan
+其他西餐,Oz Arzum Pide ve Kebap Salonu
+其他西餐,Pidecizade
+其他西餐,Urfali Kebap Lahmacun Kunefe Salonu
+其他西餐,Pilito Chicken
+其他西餐,Ozdokuzel
+其他西餐,Buyuk Iskender
+其他西餐,D. Tadim
+其他西餐,Ninova Cigkofte
+其他西餐,McDonald s
+其他西餐,Alo Hamsi
+其他西餐,Popeyes Louisiana Kitchen
+其他西餐,Paket Lokantasi
+其他西餐,Urfali Kebap
+其他西餐,Yeni Ozsahra Lokantasi
+其他西餐,Dogu Karadeniz Lokantasi
+其他西餐,Avci Kardesler Piknik
+其他西餐,Yesilbayir Pide ve Kebap Salonu
+其他西餐,Uglak LokantasI
+其他西餐,Yeni Urfa Lokantasi
+其他西餐,Karagoz Tandir Kebap Salonu
+其他西餐,Aztekin Sohretler Pide
+其他西餐,Ozen 2 Simit ve Pide Firini
+其他西餐,Urfali 2000 Pide Lahmacun Salonu
+其他西餐,Urfali Hoca nin Yeri
+其他西餐,Aybak Cigkofte
+其他西餐,Oz-Ev Restaurant
+其他西餐,Kardesler Lokantasi
+其他西餐,Urfa Halil Ibrahim Sark Sofrasi
+其他西餐,Ada Piknik
+其他西餐,Dervishan Sofrasi
+其他西餐,Tantunuci
+其他西餐,Yeni Culluk Piknik
+其他西餐,Dervishan Sofrasi
+其他西餐,Tadan Pide
+其他西餐,Meshur Donerci ve Kofteci
+其他西餐,Ozgu Yemek
+其他西餐,Mutlu Kayalar Lokantasi
+其他西餐,Yesilpinar Kebapcisi
+其他西餐,Develi Pide Salonu
+其他西餐,A
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Anadolu Ev Yemekleri
+其他西餐,Anadolu Ev Yemekleri
+其他西餐,Meto Dondurmalari
+其他西餐,Aspava Lokantasi
+其他西餐,Arnavut Cigerci Yilmaz Usta
+其他西餐,Umit Pide
+其他西餐,Aba Piknik
+其他西餐,Gorkem Pide ve Kebap Salonu
+其他西餐,Tempo Cafe
+其他西餐,Tanyeli Restaurant
+其他西餐,Tasova Piknik
+其他西餐,Sine Manti Evi
+其他西餐,Tadim Manti
+其他西餐,Akgoz Urfali Kebap Lahmacun
+其他西餐,Oz Huzur Kebap
+其他西餐,Alaturka Piknik
+其他西餐,Ozkan Piknik
+其他西餐,Aba Piknik
+其他西餐,Vadi Kebap
+其他西餐,Atasay Etli Ekmek ve Manti
+其他西餐,Kebabistan
+其他西餐,Guvenlik Sofrasi
+其他西餐,Caglayan Lokantasi
+其他西餐,Mevlana Pide ve Kebap Salonu
+其他西餐,Baget Sandvic
+其他西餐,Hacibey Ev Yemekleri
+其他西餐,Saygilar Pide ve Kebap Salonu
+其他西餐,Inegol Lokantasi
+其他西餐,Mert Kebap
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Emekzade
+其他西餐,Kofteci Rasit
+其他西餐,Yaren Pide ve Kebap Salonu
+其他西餐,Kurus Kofte
+其他西餐,Ette
+其他西餐,Kirik Oklava
+其他西餐,ART Kebap Sofrasi
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Gezgin Karadeniz Pide
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,cafemiz
+其他西餐,Pideli
+其他西餐,Bolu Mangal
+其他西餐,Tandogan Pide Kebap
+其他西餐,Bolu By Mangal
+其他西餐,Bizim Kofteci Pide Salonu
+其他西餐,Bolet Mangal
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Adanali Durum ve Sirdan
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Sebil Kayseri Mutfagi
+其他西餐,Pink Kumpir Pizza Doner
+其他西餐,Vitaminic
+其他西餐,Seckin Doner Pide Kebap Salonu
+其他西餐,Meshur Tantuni
+其他西餐,Simsekler Aspava
+其他西餐,Pide ve Lahmacun Evi
+其他西餐,Sicak Firin Pide
+其他西餐,Tatlises Cig Kofte
+其他西餐,Tatlises Cig Kofte
+其他西餐,Akdeniz Iskembe ve Pide salonu
+其他西餐,Bilakis
+其他西餐,Doktor Restaurant
+其他西餐,Ozgu Iskender
+其他西餐,Mutlu Kebap
+其他西餐,Demet Durum
+其他西餐,Mutlu Pide ve Kebap Salonu
+其他西餐,Mugem Inegol Koftecisi
+其他西餐,Oz Mevlana Pide ve Kebap Salonu
+其他西餐,Sedir Manti
+其他西餐,Polen Tantuni
+其他西餐,Koftehane
+其他西餐,Pan Cig Kofte
+其他西餐,Konak Cafe
+其他西餐,Mangal Center
+其他西餐,Cigkoftem
+其他西餐,Maltiz Kofte
+其他西餐,Cig Koftemis
+其他西餐,Metro Iskembe
+其他西餐,Tatlises Cig Kofte
+其他西餐,Tatlises Cig Kofte
+其他西餐,Tatlises Cig Kofte
+其他西餐,Kardelen Cafe
+其他西餐,Mangal Keyf-i
+其他西餐,Mangalcim
+其他西餐,Tek Pide Kebap
+其他西餐,Hosta Piknik
+其他西餐,Lezzet Evi
+其他西餐,Konak Kebap Pide ve Lahmacun
+其他西餐,Sampi
+其他西餐,Aspava
+其他西餐,Tantunix
+其他西餐,Doy Doy Piknik
+其他西餐,Bizim Tavaci
+其他西餐,Meshur Hacibey Bursa Kebabi
+其他西餐,Sampi
+其他西餐,Mavi Loca Restaurant
+其他西餐,Abuzer Durum Restaurant
+其他西餐,Yoruk House
+其他西餐,76 Pide ve Kebap Salonu
+其他西餐,Sahhane
+其他西餐,Ceviz Turkish Cuisine
+其他西餐,Adana Grill
+其他西餐,Sanli Ugrak Pide Kebap Sarayi
+其他西餐,Palme Lokantasi
+其他西餐,Tamkoc Piknik
+其他西餐,Yeni Beyzade
+其他西餐,Cambo Inegol Kofte
+其他西餐,Oz Karadeniz Pide Kebap Salonu
+其他西餐,Tat Altinkoz Kebap
+其他西餐,Ozkaradeniz Pide
+其他西餐,3419371
+其他西餐,Kebap Tunali Usta nin Yeri
+其他西餐,Ozenir Urfali Kebap
+其他西餐,Karadeniz Pide Salonu
+其他西餐,Karadeniz Pide Kofte
+其他西餐,Karadeniz Cinar Cafe Bistro
+其他西餐,Aylak Cafe
+其他西餐,ikaros Cafe Kultur Evi
+其他西餐,Tatlises Cig Kofte
+其他西餐,Tatlises Cig Kofte
+其他西餐,Konya Pide Evi
+其他西餐,Tatlises Cig Kofte
+其他西餐,Kaburgaci Selim Amca
+其他西餐,Trilye Restaurant
+其他西餐,N.E.T. Piknik
+其他西餐,Haci Arif bey
+其他西餐,Kolyoz Balik Restaurant
+其他西餐,JW Steak House
+其他西餐,Goksu Restaurant
+其他西餐,Cafe Lins
+其他西餐,Gunaydin Kasap Steak House
+其他西餐,Ozler Doner
+其他西餐,Mangalevi
+其他西餐,And Cafe
+其他西餐,52 Ciger
+其他西餐,Bolu Akin Lokantasi
+其他西餐,Avsaroglu Pide ve Kebap Salonu
+其他西餐,Nusret Steak House
+其他西餐,Cardak Pide
+其他西餐,Dafne Restaurant
+其他西餐,Edirne Kirkpinar Lokantasi
+其他西餐,Mutlu Piknik
+其他西餐,Ege Restaurant
+其他西餐,Kitir
+其他西餐,Keffce
+其他西餐,Duveroglu
+其他西餐,Bahcemiz Restaurant
+其他西餐,Tunali balikcikoy fahri
+其他西餐,baklavaci hacibaba
+其他西餐,Minkaa
+其他西餐,Kebapci Emin Usta
+其他西餐,Butcha
+其他西餐,Ozge Piknik
+其他西餐,Aspava
+其他西餐,Adana Durumcusu
+其他西餐,33 Tantuni Kebap
+其他西餐,Evin Döner
+其他西餐,Zenger Pasa Konagi
+其他西餐,Devrez Durum Evi
+其他西餐,Dostlar Manti
+其他西餐,Dayi nin Yeri
+其他西餐,Mangal 1991 Iskender Kebap
+其他西餐,Captain Cook
+其他西餐,ozler kebap
+其他西餐,Cotta7
+其他西餐,01 Adanali Ismail Usta's Place
+其他西餐,Uskup Meyhanesi
+其他西餐,Akdeniz Akdeniz
+其他西餐,Bagazici Lokantasi
+其他西餐,Urfali Kebapci
+其他西餐,7 On Heaven Cafe And Bistro
+其他西餐,Jale Ev Yemekleri
+其他西餐,Ye-An Pide
+其他西餐,Suha s Restaurant
+其他西餐,Cicek Lokantasi
+其他西餐,Anne Borek
+其他西餐,Bogazici Lokantasi
+其他西餐,Aylak Madam
+其他西餐,TURTA PATISSERIE
+其他西餐,Divan Antrikot Restaurant
+其他西餐,Duveroglu Kebab
+其他西餐,ODTU Mezunlari Dernegi Visnelik Tesisi
+其他西餐,Gramofon Cafe
+其他西餐,Oz Urfali Kebap
+其他西餐,Kesman Ciger
+其他西餐,Amarillo Restaurant
+其他西餐,Profesor Sadik Usta
+其他西餐,Meshur Kayseri Tepsi Mantici
+其他西餐,Urfali Kebap Lahmacun
+其他西餐,Lale Restaurant
+其他西餐,Laterna
+其他西餐,Zozo
+其他西餐,Kisnis Restaurant
+其他西餐,01 Adana Cayyolu
+其他西餐,Efendi Konagi
+其他西餐,Meshur Bursa Hacibey Kebapcisi
+其他西餐,Tarihi Mutfak Restaurant
+其他西餐,Tavukcu Lokantasi
+其他西餐,Oz Gaziantep
+其他西餐,Beykoz
+其他西餐,Simit Sarayi Meclis Branch Ankara
+其他西餐,Ozler Lokanta
+其他西餐,Aspavam
+其他西餐,Pitte
+其他西餐,Urfa Eyvan Sofrasi
+其他西餐,Gusgana Adana Kebab House
+其他西餐,Papazin Bagi
+其他西餐,Kitir Restaurant
+其他西餐,Saban Usta  Nin Yeri
+其他西餐,Tavaci Fettah Usta
+其他西餐,Koroglu Iskembecisi ve Restaurant
+其他西餐,Oz 52 Ciger
+其他西餐,Angora Restaurant
+其他西餐,Huplet
+其他西餐,Ozler Ankara Sofrasi
+其他西餐,Cosarlar Kofte
+其他西餐,Riza Baba Pide Kebap Salonu
+其他西餐,Sis House
+其他西餐,Kukla Kebap
+其他西餐,HD Iskender
+其他西餐,Boludagi Et Mangal
+其他西餐,Begendik Kayseri Mutfagi
+其他西餐,Iclal
+其他西餐,Tarsuslu Durumcu
+其他西餐,Antakya Kunefecisi
+其他西餐,Bursa Inegol Koftecisi
+其他西餐,Densu Piknik
+其他西餐,Merve Piknik
+其他西餐,Kadir Dayi Piknik
+其他西餐,Sipse
+其他西餐,Silan Cafe
+其他西餐,Komagene
+其他西餐,Komagene
+其他西餐,Osman Usta Lokantasi
+其他西餐,Evim Pide Salonu
+其他西餐,Hayri Usta
+其他西餐,Saray Piknik
+其他西餐,Çati Manti
+其他西餐,Enikonu
+其他西餐,Cigdem Kebap
+其他西餐,Cig Kofte
+其他西餐,Kofteci Numan Usta
+其他西餐,Mengen Ev Yemekleri
+其他西餐,Basak Ev Yemekleri
+其他西餐,Oltu Cag kebabi
+其他西餐,Yesilcam Donercisi
+其他西餐,Bal Doner
+其他西餐,Oz Gaziantep
+其他西餐,Baskent Restaurant
+其他西餐,Yeni Anadolu Sofrasi
+其他西餐,Cici Goz Tavuk
+其他西餐,Meshur Durumcu Yasar Usta
+其他西餐,Centilmen Piknik Restaurant
+其他西餐,Oz Karadeniz Piknik
+其他西餐,Ozen Doner ve Iskembe Salonu
+其他西餐,Gaziantep Huzur Pide
+其他西餐,Gozde Kebap
+其他西餐,Alo Aciktim Doner
+其他西餐,Dost Dost Restaurant
+其他西餐,Pan Cig Kofte
+其他西餐,Yeni Gaziantep Lahmacun Pide Kebap Salonu
+其他西餐,Cumhuriyet Lezzet Dunyasi
+其他西餐,Durumcuzade
+其他西餐,Toygun Kizarmis Pilic Doner
+其他西餐,Akgul Manti Evi
+其他西餐,Somine Kebap
+其他西餐,Ozler
+其他西餐,Tandir Et Lokantasi
+其他西餐,Ozen Lokantasi
+其他西餐,Doner 7
+其他西餐,Alpay Lahmacun
+其他西餐,Mercan Piknik
+其他西餐,Urfali Kebap
+其他西餐,A Piknik
+其他西餐,Lale Restaurant
+其他西餐,Hacı Yıldız Aspava Balgat
+其他西餐,Osmanli Lezzet Sofrasi
+其他西餐,Sark Burma Kadayifcisi
+其他西餐,Hosta Piknik
+其他西餐,Hosta Piknik
+其他西餐,Hosta Piknik
+其他西餐,Hosta Piknik
+其他西餐,Hosta Piknik
+其他西餐,Turkuaz Doner
+其他西餐,Bizim Kofte
+其他西餐,Necatibey Koftecisi
+其他西餐,Hacioglu
+其他西餐,Daily Fresh
+其他西餐,Sencam Koftecisi
+其他西餐,Aspava Pide Kebap Salonu
+其他西餐,Dengeli Cafe
+其他西餐,Akdeniz Mutfagi
+其他西餐,Benli Restaurant
+其他西餐,Donercim 66
+其他西餐,Urfali Ciger Kebap Durumcusu
+其他西餐,Benli Restaurant
+其他西餐,Gaziantepli Tabldot
+其他西餐,KFC
+其他西餐,Tombis
+其他西餐,Ismail in Yeri
+其他西餐,Sefa Pide ve Kebap Salonu
+其他西餐,Aspava Pide ve Kebap Salonu
+其他西餐,Ferik Piknik
+其他西餐,Enistenin Yeri Abbas Usta
+其他西餐,Pidecizade
+其他西餐,Inegol Kofte
+其他西餐,Donen Restaurant
+其他西餐,Olay Tost
+其他西餐,Cig Kofteci Suat Usta
+其他西餐,Tombul Piknik
+其他西餐,Cati Kafe
+其他西餐,Cubuk Simit Sarayi
+其他西餐,Mevlana Pide Kebap Salonu
+其他西餐,Kardesler Lokantasi
+其他西餐,Murat Pide ve Kebap
+其他西餐,Çöp Şiş
+其他西餐,Fermanli Pide
+其他西餐,Pan Cig Kofte
+其他西餐,Unlulerin Cigkoftecisi Malatyali Osman Usta
+其他西餐,Cafe Nazar 81
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Oz Urfa Kebap Salonu
+其他西餐,Kanatci Restaurant
+其他西餐,Atlanta Teras Restaurant
+其他西餐,Lezzet Pide
+其他西餐,Yeni Aspava 3
+其他西餐,Cigerci Baba
+其他西餐,Diyet Ev Yemekleri
+其他西餐,Haci Omer Sofrasi
+其他西餐,Ck Roof Restaurant
+其他西餐,Guloglu Kebapcisi
+其他西餐,Cinaralti Iskembe ve Lokantasi
+其他西餐,Aspava Pide Salonu
+其他西餐,Kebap 9
+其他西餐,Tugra Ev Yemekleri
+其他西餐,Dicle Kebap
+其他西餐,Ancyra Cafe
+其他西餐,Dedem Kebap 94
+其他西餐,Net Yemek
+其他西餐,Ugur Kebap
+其他西餐,Can Inegol Koftecisi
+其他西餐,Acini Cigkofte
+其他西餐,Acini Cigkofte
+其他西餐,Gunay Pide Kebap
+其他西餐,Meshur Iskender
+其他西餐,Cigkoftem
+其他西餐,Ye-An Pide
+其他西餐,Cigkofteci Ahmet Aybak
+其他西餐,Can Bufe
+其他西餐,Doy Doy Restaurant
+其他西餐,Pan Cig Kofte
+其他西餐,Pan Cig Kofte
+其他西餐,Pan Cig Kofte
+其他西餐,Pan Cig Kofte
+其他西餐,Pan Cig Kofte
+其他西餐,Pan Cig Kofte
+其他西餐,Pan Cig Kofte
+其他西餐,Pan Cig Kofte
+其他西餐,Pan Cig Kofte
+其他西餐,Pan Cig Kofte
+其他西餐,Pan Cig Kofte
+其他西餐,Pan Cig Kofte
+其他西餐,Cedene Ev Yemekleri
+其他西餐,Konya Etli Ekmek
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Ulusoy Kebap
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta
+其他西餐,Cigkoftem
+中餐,Guangzhou Wuyang
+中餐,Apinya Thai and Sushi Restaurant
+中餐,Sushico
+中餐,Quick China
+中餐,Quick China
+日韩料理,Betik Konyali Etli Ekmek
+更多亚洲菜,Sushico
+更多亚洲菜,Cin Seddi Restaurant
+快餐简餐,Burger King
+快餐简餐,Tombis Yuksel
+快餐简餐,Bay Mom
+快餐简餐,Doyum Piknik
+快餐简餐,Ekodoy
+快餐简餐,Danisment Piknik
+快餐简餐,Sila Piknik
+快餐简餐,Dedem Piknik
+快餐简餐,Altin Piknik
+快餐简餐,Maydonoz Fast Food
+快餐简餐,Egeli Sandwich
+快餐简餐,Can Piknik
+快餐简餐,Ada Piknik
+快餐简餐,Jest Piknik
+快餐简餐,Pempe Panter Fast Food
+快餐简餐,Dedem Sandwich
+快餐简餐,Avci Bufesi
+快餐简餐,Bal Piknik
+快餐简餐,Portakal Vitamin
+快餐简餐,Tombis Kumru
+快餐简餐,Bicakarasi Fast Food
+快餐简餐,Etiler Marmaris Bufe
+快餐简餐,Zikkim Lounge - Pub
+快餐简餐,Pizza Time
+快餐简餐,Kafes Firin Coffee
+快餐简餐,Tadim Piknik
+快餐简餐,Lagania Kofte ve Doner
+快餐简餐,Food for You
+快餐简餐,Dedem Piknik
+快餐简餐,Doydum
+快餐简餐,La'l Restaurant
+快餐简餐,Reyyan Cafe
+快餐简餐,Balkan Piknik
+快餐简餐,Birlik Sandvic
+快餐简餐,Marmaris Bufe
+快餐简餐,Rihtim
+快餐简餐,Oz Kastamonu Onur Piknik
+快餐简餐,Otantik Kumpir
+快餐简餐,Yuksel Bufe
+快餐简餐,Volkan Piknik
+快餐简餐,Temel Piknik
+快餐简餐,Speed Cafe
+快餐简餐,Dedem Sandwich
+快餐简餐,Gozde Piknik
+快餐简餐,Casablanca Fast Food Cafe
+快餐简餐,Maltepe Piknik
+快餐简餐,Baskent Piknik
+快餐简餐,Cafe Matrak
+快餐简餐,Gunes Piknik
+快餐简餐,Mega Burger
+快餐简餐,Sahinler Piknik
+快餐简餐,Sera Bufe
+快餐简餐,Onur Piknik
+快餐简餐,Dedem Piknik
+快餐简餐,Asgana Fast Food ve Cafe
+快餐简餐,Disney Fast Food
+快餐简餐,Taylan Bufe
+快餐简餐,Esin Piknik
+快餐简餐,Masal Cafe
+快餐简餐,Profesor
+快餐简餐,Sisman Kumru Sandvic
+快餐简餐,Tostcu Baba
+快餐简餐,Wing Stop
+快餐简餐,McDonald s
+快餐简餐,Dogata
+快餐简餐,Ankafe
+快餐简餐,Solen Piknik
+快餐简餐,Hos Piknik
+快餐简餐,Modern Piknik
+快餐简餐,Ekin Mesrubat
+快餐简餐,Cafe Baget
+快餐简餐,Otantik Kumpir
+快餐简餐,Doygor Piknik
+快餐简餐,Salim Baba Kokorec
+快餐简餐,Simge Piknik
+快餐简餐,Hakiki Izmir Sandvic
+快餐简餐,Dopi Cafe
+快餐简餐,Dilek Sandvic
+快餐简餐,Ugrak Piknik
+快餐简餐,Eray Kizarmis Pilic Evi
+快餐简餐,Bidik Piknik
+快餐简餐,Burger King
+快餐简餐,Zeynel Cilli
+快餐简餐,Burger King
+快餐简餐,SINIF CAFE
+快餐简餐,Taksim Islak Hamburgercisi
+快餐简餐,McDonald's
+快餐简餐,Burger King
+快餐简餐,Aba Piknik
+快餐简餐,Umut Piknik
+快餐简餐,Pizza Hut
+快餐简餐,Special Gorali Sandvic
+快餐简餐,Burger King
+快餐简餐,Num Num
+快餐简餐,McDonald s
+快餐简餐,Pilic Evi
+快餐简餐,Flavor House
+快餐简餐,Balikcikoy
+快餐简餐,Burger House
+快餐简餐,Begendik Cayyolu Magazasi
+快餐简餐,Oz Vitamin Piknik
+快餐简餐,Obur Goralim Sandvic
+快餐简餐,BİZİM KUMRU
+快餐简餐,Venna
+快餐简餐,Acun Kumru
+快餐简餐,Pizza Hut
+快餐简餐,Kent Bufe
+快餐简餐,Bizim Piknik
+快餐简餐,Doyum Piknik
+快餐简餐,Park Burger
+快餐简餐,Sukran Piknik
+快餐简餐,Cafe Emirgan
+快餐简餐,Ekmek Teknesi
+快餐简餐,Orkun Piknik
+快餐简餐,Genclik Kafe
+快餐简餐,Fast Food
+快餐简餐,Ekmekici
+快餐简餐,Adali Sandiwich
+快餐简餐,Bulinna
+快餐简餐,Doyuran Piknik
+快餐简餐,Dome Pica
+快餐简餐,Dome Pico
+快餐简餐,Otantik Kumpir
+快餐简餐,Tatlak Fast Food
+快餐简餐,Star Kumru
+快餐简餐,Profesor Kokorec
+快餐简餐,Profesyonel Kokorec
+快餐简餐,Birlik Sandvic
+快餐简餐,Selale Piknik
+快餐简餐,Imren Piknik
+快餐简餐,Burger King
+快餐简餐,Wrapper
+快餐简餐,Park Piknik Cafe
+快餐简餐,Aydede Sandwiches
+快餐简餐,Modi Piknik
+快餐简餐,Dayi Kokerec
+快餐简餐,Kirpik
+快餐简餐,Uzay Cafe
+快餐简餐,Pan Vitamin Cafe
+快餐简餐,Dedem Sandwich
+快餐简餐,Kumpir Evi
+快餐简餐,Kumpir Evi
+快餐简餐,Kumpir Evi
+快餐简餐,Ogutler Fast Food
+快餐简餐,Ogutler Bistro ve Cafe
+快餐简餐,McDonald's
+快餐简餐,Ogutler Bistro ve Cafe
+快餐简餐,Burger King
+快餐简餐,Nevzat Piknik
+快餐简餐,Dome Pico
+快餐简餐,Burger King
+快餐简餐,Burger King
+快餐简餐,Gozde Piknik
+快餐简餐,Burger King
+快餐简餐,Burger King
+快餐简餐,Melon
+快餐简餐,Gunaydin Hamburger
+快餐简餐,Burger King
+快餐简餐,Dedem Sandwich
+快餐简餐,KFC
+快餐简餐,Gozdem Piknik
+快餐简餐,KFC
+快餐简餐,3x Large
+快餐简餐,Unlu Lezzetler
+快餐简餐,KFC
+快餐简餐,KFC
+快餐简餐,Konyali Haci Usta
+快餐简餐,Meri
+快餐简餐,Gorali Sandvic
+快餐简餐,Pikolet Piknik
+快餐简餐,Burger King
+快餐简餐,Burger King
+快餐简餐,ABA CAFE
+快餐简餐,Tombis Kumru
+快餐简餐,Mickey s By Las Chicas
+快餐简餐,Burger King
+快餐简餐,McDonald‘s
+快餐简餐,Ekmekici
+快餐简餐,Burger King
+快餐简餐,Taksim Bufe
+快餐简餐,Doymaxx
+快餐简餐,Arby s
+快餐简餐,Aciktim
+快餐简餐,Solen Piknik
+快餐简餐,Cennk Piknik
+快餐简餐,Star Kumpir
+快餐简餐,Doygor Piknik
+快餐简餐,Burger Story
+快餐简餐,Lezita
+快餐简餐,C'Viz Cafe Bistro
+快餐简餐,Profesor Kokorec
+快餐简餐,Doydum
+快餐简餐,By Kokorecci
+快餐简餐,Kompleks Cafe
+海鲜,Oteki Meyhane
+海鲜,Fevzi Hoca Fish Restaurant
+海鲜,Yildiz Marina Restaurant
+海鲜,Dalyan Fish Restaurant
+海鲜,Cagri Balik ve Izgara Evi
+海鲜,Kalabalik
+海鲜,Myfish
+海鲜,Mezestre
+海鲜,Beyazim
+海鲜,Dalyan Balikcisi
+海鲜,Rastgele Restaurant
+海鲜,Rakiname
+海鲜,Murtaza
+海鲜,Kyanos
+海鲜,Yamac Fish Restaurant
+海鲜,Ekin Restaurant
+海鲜,Yakamoz
+海鲜,Balikhan Restaurant
+海鲜,Mavi Dalyan Balik Pisirme Evi
+海鲜,Deniz Restaurant
+海鲜,Balikcikoy Fahri
+海鲜,Kalbur Balik
+海鲜,Manco Balik Evi Restaurant
+海鲜,Istanbul balikcisi
+海鲜,Orfoz Restoran
+海鲜,Kumsal
+海鲜,Halic Balik Restaurant
+海鲜,Yelken Balik Evi
+海鲜,Parkfora Istanbul
+海鲜,Komsu Restaurant
+海鲜,Balikli Bahce Et
+海鲜,Park Fora
+海鲜,Yosun Restaurant
+海鲜,Salus Restaurant
+海鲜,Assos Meze and Balık
+海鲜,Behzat
+海鲜,Tunali Balikcisi
+海鲜,Sarmasik
+海鲜,Kosk Et ve Balik Restauranti
+海鲜,Satiroglu Balik
+海鲜,Sahil Et Ve Balik Lokantasi
+海鲜,Sunak Restaurant
+海鲜,Yelken Restaurant
+海鲜,North Fish
+海鲜,Ayabakan Pisirme Evi Tunali
+海鲜,Balikli Bahce Et
+海鲜,Park Fora
+海鲜,Yosun Restaurant
+海鲜,Salus Restaurant
+海鲜,Assos Meze and Balık
+海鲜,Sarmasik
+海鲜,Kosk Et ve Balik Restauranti
+海鲜,Satiroglu Balik
+海鲜,Sahil Et Ve Balik Lokantasi
+海鲜,Sunak Restaurant
+海鲜,Yelken Restaurant
+海鲜,North Fish
+海鲜,Ayabakan Pisirme Evi Tunali
+海鲜,Kefaluka
+海鲜,Unlu Istanbul Balikcisi
+海鲜,Cakraz Balik Keyfi
+海鲜,Rifki Et-Balik Mangal
+海鲜,Yakamoz Diplomat Balık Lokantası
+海鲜,Gelidonya Lighthouse
+烧烤,Mangalkoy
+烧烤,Sporland
+烧烤,Meshur TavacI Recep Usta
+烧烤,Mangal Sefasi
+烧烤,Bolu Mangal
+烧烤,Mengen li Et Mangal
+烧烤,Greenhouse Restaurant
+比萨,Pizza House
+比萨,Damak Pide Pizza
+比萨,Newyork Pizza Delivery
+比萨,Pizza Doruk
+比萨,Domino s Pizza
+比萨,Domino s Pizza
+比萨,Domino s Pizza
+比萨,Domino s Pizza
+比萨,Domino s Pizza
+比萨,Domino s Pizza
+比萨,Domino s Pizza
+比萨,Pizza Station
+比萨,Turtle s Pizza
+比萨,Pizza M
+比萨,Pizza Riva
+比萨,Pizza Time
+比萨,Pizza Pizza
+比萨,Pizza Pizza
+比萨,Pizzacizade
+比萨,Tadim Pizza
+比萨,Pizza Clup
+比萨,Pizzalbina
+比萨,Pizza Prima
+比萨,Pizza Pizza
+比萨,Pizza Clup
+比萨,Pizzar
+比萨,Meshur Aspavan Pizza
+比萨,Pizza Pizza
+比萨,Pizza Time
+比萨,Little Caesars
+比萨,Domino s Pizza
+比萨,Pepperjam
+比萨,NYPD Pizza
+比萨,Tadim Pizza
+比萨,Little Caesars
+比萨,Tadim Pizza
+比萨,Pizza Time
+比萨,Tadim Pizza
+比萨,Tadim Pizza
+比萨,Pizza 360
+比萨,Tadim Pizza
+比萨,Tadim Pizza
+比萨,Pasaport Pizza
+比萨,Pizza 4
+比萨,Domino s Pizza
+比萨,Pizza Il Forno
+比萨,Cafe Des Cafes
+比萨,Pizza House
+比萨,Pizza House
+比萨,Tato Restaurant
+比萨,Domino s Pizza
+比萨,Casa la Pizza
+比萨,My Queen Pizza
+比萨,Pizza Pizza
+比萨,Tat Pizza
+比萨,Zeytin Pizza
+比萨,Why-B
+比萨,Bulka Pizza
+比萨,Kayra Pizza Restaurant
+比萨,Little King Pizza
+比萨,Domino s Pizza
+比萨,Little King Pizza
+比萨,Pizza Time
+比萨,Random
+比萨,Tadim Pizza
+咖啡厅,Taze Cafe
+咖啡厅,Cafe Zuka
+咖啡厅,Timboo Cafe
+咖啡厅,Taze Kuru Shop
+咖啡厅,Cafe Bottanica Lavande
+咖啡厅,Ankara Yelken Kulubu Restaurant Cafe
+咖啡厅,Kafes Fırın Coffee
+咖啡厅,Gelato ice
+咖啡厅,Efan yoresel turk mutfagi
+咖啡厅,Kafes Firin Coffee
+咖啡厅,Kafes Firin Coffee
+咖啡厅,Sophistiq
+咖啡厅,Liva  Macunköy
+咖啡厅,Alya
+咖啡厅,Timboo Cafe
+咖啡厅,Patile Cafe Restaurant Catering
+咖啡厅,Coccinella Pastaevi
+咖啡厅,Chiffre Cafe
+面包甜点,Ab'bas Waffle
+面包甜点,Sila Dondurma
+面包甜点,Bolulu Hasan Usta
+面包甜点,Meto Dondurmalari
+面包甜点,Ozsut
+面包甜点,Pado
+面包甜点,Tatlicim
+面包甜点,Meto Dondurmalari
+面包甜点,Sim Cafe
+面包甜点,Sark Burma Kadayifcisi
+面包甜点,Meshur Yilmaz Kadayif
+面包甜点,Meshur Yilmaz Kadayif
+面包甜点,Meshur Yilmaz Kadayif
+面包甜点,Meshur Yilmaz Kadayif
+面包甜点,Meshur Yilmaz Kadayif
+面包甜点,Oba Dondurma
+面包甜点,Baklavaci Necip Baba
+面包甜点,Baklavaci Haci Mustafa
+面包甜点,Early Bird Cafe
+面包甜点,Beton Helva
+面包甜点,Lila Burma Kadayif Kunefe ve Dondurma Sarayi
+面包甜点,Ozsut
+面包甜点,Sim Dondurma
+面包甜点,Beypazari Ev Baklavacisi
+面包甜点,Sark Burma Kadayifcisi
+面包甜点,Ozsut
+面包甜点,Bolulu Hasan Usta
+面包甜点,Alpedo Dondurma
+面包甜点,Ozsut
+面包甜点,Mola Dondurma
+面包甜点,Beypazari Ev Baklavacisi
+面包甜点,Ozsut
+面包甜点,Tatlici Tombak
+面包甜点,Starbucks Coffee Armada Shopping and Trade Centre
+面包甜点,Waffle Corner
+面包甜点,Pilita Pasta Evi
+面包甜点,Baklavaci Mahmut
+面包甜点,Milendo Dondurma
+面包甜点,Bolulu Hasan Usta
+面包甜点,Bolulu Hasan Usta
+面包甜点,Bolulu Hasan Usta
+面包甜点,Bolulu Hasan Usta
+面包甜点,Bolulu Hasan Usta
+面包甜点,Tatlici Tombak
+面包甜点,Sanli Burma Tatlicisi
+面包甜点,Sanli Burma Tatlicisi
+面包甜点,Baklavaci Karagoz
+面包甜点,Meshur Yilmaz Kadayif
+面包甜点,Bolulu Hasan Usta
+酒吧,Papillionp Pub
+酒吧,Bistro Boteco
+酒吧,Voodoo Blues
+酒吧,The Old Mariner
+酒吧,Yonca Bistro
+酒吧,Hayyami
+酒吧,Midpoint
+酒吧,Balgat Pilsen
+酒吧,Crossroads Pub
+酒吧,Kirit Cafe
+酒吧,Cafe Wine
+更多美食,Mado Firin Bahcelievler Ankara
+更多美食,The Bigos
+更多美食,keyf restorant
+更多美食,Cesmi Kebap Restaurant
+更多美食,Kebap 49
+更多美食,su dem
+更多美食,Elizinn Patisserie Restaurant
+更多美食,As 9 Pide ve Kebap Salonu
+更多美食,Urfa Sofrasi
+更多美食,Haci Bey Sofrasi
+更多美食,Tike
+更多美食,Tas Bahce Fasil
+更多美食,Koc Aspava
+更多美食,Karadenizliler Pide ve Kebap
+更多美食,Dalyan Kebap
+更多美食,Lezzet Evi
+更多美食,Deniz Kebap 3
+更多美食,Ankara Evi Ocakbasi Restaurant
+更多美食,Yildiz Aspava
+更多美食,Pidemiss
+更多美食,Tevfik Kis Pide Kebap
+更多美食,Cati Kebap
+更多美食,Gaziantepli Hilal Pide Kebap Salonu
+更多美食,Budakalti
+更多美食,Uludag
+更多美食,Tarihi Bursa Iskender
+更多美食,Dedem Kebap
+更多美食,Doy Doy Pide ve Kebap Salonu
+更多美食,Kuklali Meatball Restaurant
+更多美食,Haci Eyuboglu Restaurant
+更多美食,mahallem..
+更多美食,Haci Dedem Kebap
+更多美食,Sunum Restoran
+更多美食,Suvari Ocakbasi Et ve Balik Restaurant
+更多美食,FLZ Cafe
+更多美食,Yaprak
+更多美食,Karadeniz Lokantasi
+更多美食,Kulhani
+更多美食,Ozdemir Kokorec
+更多美食,Destan Pide
+更多美食,Muizz Cafe
+更多美食,Aspava Pide ve Kebap Salonu
+更多美食,Kebap Konagi
+更多美食,Dilek Pide
+更多美食,Urfa Balikligol Kebap
+更多美食,Eat njoy
+更多美食,Ata Kebap
+更多美食,Shisha Cafe
+更多美食,Chevalier Cafe
+更多美食,Hastavam Kebap
+更多美食,Ada Doner
+更多美食,Bianco Restaurant
+更多美食,Urfa Aga Sofrasi
+更多美食,Eat njoy
+更多美食,Kumes Restaurant
+更多美食,Kebap 18
+更多美食,Anadolum Sofrasi
+更多美食,Big Chefs
+更多美食,Mutfak Brasserie
+更多美食,WienerWald
+更多美食,HD Iskender
+更多美食,Acik Mavi
+更多美食,Kizilay
+更多美食,Newcastle
+更多美食,Melbo
+更多美食,Big Chefs
+更多美食,Tapas
+更多美食,Kinacilar Evi Restaurant
+更多美食,Dedem Kebap
+更多美食,Budakalti Arkadium
+更多美食,Sahane Tantuni
+更多美食,Cilli Zeynel
+更多美食,Baskent Geylani Kebap Salonu
+更多美食,Mamalos Piknik
+更多美食,Tadim
+更多美食,99 Sumela Et Lokantasi
+更多美食,Oz Guven Pide ve Kebap Salonu
+更多美食,Dedem Kebap
+更多美食,Urfali Kebap
+更多美食,Osmanbey Pide Kebap ve Iskembe Salonu
+更多美食,Hacivat Pilic Restaurant
+更多美食,Pehlivan Kebap Salonu
+更多美食,Dedem Kebap
+更多美食,Kanatci
+更多美食,Deniz Kebap
+更多美食,Deniz Kebap
+更多美食,Ersoy Aspaya
+更多美食,Aspavam
+更多美食,Gulen Pide ve Kebap Salonu
+更多美食,Pampero
+更多美食,Ruzgar Kebap
+更多美食,Anil Kofte
+更多美食,Ikram Pide Kebap Evi
+更多美食,Ideal Kebap
+更多美食,As Pide ve Kebap Salonu
+更多美食,Tatbak Kebap
+更多美食,As 49 Kebap
+更多美食,Antepli Pide ve Kebap Salonu
+更多美食,Kackar Pide Kebap
+更多美食,Kanatci
+更多美食,Kocatepe Kebap Susu
+更多美食,Cagin Keyfi Kebap
+更多美食,Eroglu Pide ve Kebap Salonu
+更多美食,Mis Kebap
+更多美食,Mevlana Pide ve Kebap Salonu
+更多美食,Canli Konak
+更多美食,Palmiye Pide
+更多美食,Arzum Kardesler Pide Kebap Salonu
+更多美食,Ahmet Ustanin Yeri
+更多美食,Imren Pide ve Kebap Salonu
+更多美食,Dagkapi Ocakbasi
+更多美食,Aydinlik Pide ve Kebap Salonu
+更多美食,Emil Cafe
+更多美食,Dicle Kebap
+更多美食,Huzur Sofrasi
+更多美食,Serboy Piknik Salonu
+更多美食,Oz Bilal Kebap
+更多美食,Nazar Sofrasi
+更多美食,Bilge Kebap
+更多美食,Damla Tantoni
+更多美食,Altinova Pide Kebap Salonu
+更多美食,Elif Pide ve Kebap Salonu
+更多美食,Doy Doy Piknik
+更多美食,Gazi Pide ve Kebap
+更多美食,Kitchen Of The World
+更多美食,Hanedan Iskender Pide Kebab Restaurant
+更多美食,Buket Pide Kebap Salonu
+更多美食,Dedem Kebap
+更多美食,Lilys Cafe
+更多美食,Gul As Tava
+更多美食,Gul Aspava
+更多美食,Shoppe Akademi Restaurant
+更多美食,Sevilla Restaurant Cafe
+更多美食,Kuki House
+更多美食,Tea House
+更多美食,Konyali Kebap
+更多美食,Academie Cafe
+更多美食,Classic Cafe
+更多美食,Salata Cafe Ristorante
+更多美食,Cakil Gazinosu
+更多美食,As Tava
+更多美食,Barbecue
+更多美食,Tevfik Kis Pide Kebap
+更多美食,Budakalti
+更多美食,Adanali Huseyin Usta
+更多美食,Bomonti
+更多美食,Ali Baba Pide ve Kebap Salonu
+更多美食,Mustafa Kemalpasa li
+更多美食,Elvan Pide ve Kebap Salonu
+更多美食,Taxi Restaurant
+更多美食,Keyifli Konak
+更多美食,Musluoglu Kebap
+更多美食,Akliselim Kizkulesi Balikcisi
+更多美食,Arjantin Kebap
+更多美食,PAUL
+更多美食,Yavuz Pide ve Kebap
+更多美食,Subasi
+更多美食,Karacaoglu
+更多美食,Afganistan Sofrasi
+更多美食,Lagos Restaurant
+更多美食,Drunk Pub
+更多美食,Sade Cafe
+更多美食,Abuzer Durum SarayI
+更多美食,Kilic Aspava Pide ve Kebap
+更多美食,Overall
+更多美食,Cafe Swiss
+更多美食,nicci
+更多美食,Emiryaman Mansion
+更多美食,SIR CAFE
+更多美食,Konyali Haci Usta
+更多美食,Slo Cafe Locanda
+更多美食,Sencam Koftecisi
+更多美食,Cankaya Kebap
+更多美食,Konyali Haci Usta
+更多美食,Elpaso Restaurant
+更多美食,Ankara Ocakbasi
+更多美食,Meshur Aspava
+更多美食,Mum Cafe Restaurant
+更多美食,Livora
+更多美食,Esat Mutlu Kebap
+更多美食,Shoppe
+更多美食,Bilkent Ocakbasi
+更多美食,Cadir Kebap
+更多美食,San Iskender
+更多美食,Seyir cafe
+更多美食,Bak Hele Bak Yusuf Konak Kahvalti ve Kultur Sarayi
+更多美食,Big Chefs
+更多美食,Santiye
+更多美食,Cookshop
+更多美食,Kalabalik
+更多美食,Bekri Tunali Meyhanesi
+更多美食,Hacibey Konagi
+更多美食,Ye-An Pide
+更多美食,Kahve Dunyasi
+更多美食,Hok s
+更多美食,Planet
+更多美食,Burak Aile Pide ve Kebap Salonu
+更多美食,Aysen Karadeniz Pide
+更多美食,96 Pide ve Kebap Salonu
+更多美食,Cayda Cira Ev Yemekleri
+更多美食,Yesil Vadi
+更多美食,Ole Cafe
+更多美食,06 May Et
+更多美食,Urfa Kervan
+更多美食,Ayyildiz Pide Ve Kebap Salonu
+更多美食,Charleston
+更多美食,Ucler Tavuk
+更多美食,Aspava Sohretler Pide ve Kebap Salonu
+更多美食,Nazar Piknik
+更多美食,Hayat Pide ve Kebap Salonu
+更多美食,Annem Kebap
+更多美食,Adana Tas Kopru Kebapcisi
+更多美食,If Performance Hall
+更多美食,Cigerci Aydin
+更多美食,Nar Antika Evi
+更多美食,Big chefs studio
+更多美食,Hatay Sofrasi Hattena
+更多美食,Marquee
+更多美食,Tribeca
+更多美食,BISCOTTI MIA
+更多美食,Guvecci Bayram Usta
+更多美食,Tint Cafe Tunus
+更多美食,Mega Kebap 9
+更多美食,Newcastle
+更多美食,Uptown
+更多美食,Oba Piknik Kebap Salonu
+更多美食,Nizam Usta Oltu Kebabi
+更多美食,Beybaba Piknik
+更多美食,Mutlu Kebap
+更多美食,Brasserie One
+更多美食,Urfalim Kebap ve Lahmucun Sarayi
+更多美食,Coconot Cafe
+更多美食,Kirmizi Rouge
+更多美食,RV Restaurant
+更多美食,Midas
+更多美食,Bostan
+更多美食,Aba Piknik
+更多美食,Terrasse Restaurant
+更多美食,Kebapcioglu 1998
+更多美食,A La Carte Restaurant
+更多美食,Raduga
+更多美食,Arka Sokak
+更多美食,Cesni Et Mangal
+更多美食,Choco Bons Waffle
+更多美食,No4 Restaurant Bar Lounge
+更多美食,Pecenek Pide VE Kebap Salonu
+更多美食,Goksu Restaurant
+更多美食,Vesperna
+更多美食,Kebapkar Antep Mutfagi
+更多美食,Meshur Ozcelik Aspava
+更多美食,Uludag Kebabcisi
+更多美食,Fire
+更多美食,La Foule
+更多美食,Fige Restaurant
+更多美食,Tavaci Recep Usta
+更多美食,Cafemiz
+更多美食,Deli Yengec
+更多美食,Bigchefs
+更多美食,Cadir Kebap
+更多美食,Cukuraga Sofrasi
+更多美食,hacI baba
+更多美食,Lox cafe
+更多美食,Niki
+更多美食,Yildirim Aspava
+更多美食,Gar Lokantasi
+更多美食,Sutis
+更多美食,Divan Cengelhan Brasserie
+更多美食,Adem Doruk Alabalik Tesisleri
+更多美食,Komagene
+更多美食,Adana Sofrasi
+更多美食,Adana Sofrasi
+更多美食,Guloglu Kebapcisi
+更多美食,Kale Washington Restaurant
+更多美食,Ata Iskender
+更多美食,Nada
+更多美食,Oz Urfali
+更多美食,Efsane Necati Baba Çöp Şiş
+更多美食,Dedem Restaurant
+更多美食,Bolu Mangal Keyfi
+更多美食,Kebab 49
+更多美食,Altin Sis Kebap Salonu
+更多美食,Dadaslar Tortum Cag Et Evi
+更多美食,Spice Curry House
+更多美食,Camelot Homes
+更多美食,Green House
+更多美食,Kebap 1956
+更多美食,Dicle Pide ve Kebap Salonu
+更多美食,Uludag Kebapcisi
+更多美食,Keifi
+更多美食,Besiktas Kebap
+更多美食,This Town s Last Stop
+更多美食,Hobby Restaurant Cafe
+更多美食,Kitchenette
+更多美食,Belpinar Et Lokantasi
+更多美食,Kebabistan
+更多美食,Kebab 49
+更多美食,Kuki House
+更多美食,BD Piknik
+更多美食,Altunbilek Sofrasi
+更多美食,Altin Pide ve Kebap Salonu
+更多美食,Gul 49 Pide
+更多美食,Portobello
+更多美食,Kofteci Yusuf
+更多美食,Ugur Pide
+更多美食,19 Pide
+更多美食,Cafe Sobe
+更多美食,Bahceli Kebap
+更多美食,Kafe Kanape
+更多美食,Aspavam Pide ve Kebap Salonu
+更多美食,Emay Restaurant
+更多美食,Gozde Ademoglu Cafe
+更多美食,Lanxx
+更多美食,Ruyam Pide ve Kebap Salonu
+更多美食,Cihan Kebap
+更多美食,Marti Balikevi
+更多美食,Culina Restaurant
+更多美食,Konya Firin Tandir Kebap Salonu
+更多美食,Lutfu Usta Kebap Lahmacun
+更多美食,Sencam Koftecisi
+更多美食,Taps
+更多美食,Kebap Dunyasi
+更多美食,Kosem Lokantasi
+更多美食,Pasa Kebap
+更多美食,Cinaralti Lokantasi
+更多美食,Doy Kebap
+更多美食,Pide Sepeti
+更多美食,Konya Evi
+更多美食,Keskin Aspava
+更多美食,Haci Fethi Ogullari Aspava
+更多美食,Koftecii
+更多美食,R.B.S Pide ve Kebap Salonu
+更多美食,Alfa Piknik
+更多美食,Orhaneli Kebap Salonu
+更多美食,Diyar 21 Ciger
+更多美食,Osman Babanin Yeri
+更多美食,Ankara Gourmet
+更多美食,Lezzet Iskender
+更多美食,Kanatci Restaurant
+更多美食,Maho AganIn Yeri
+更多美食,Winehouse
+更多美食,Tapi Tavuk Restaurant
+更多美食,Popeyes Louisiana Kitchen
+更多美食,Popeyes Louisiana Kitchen
+更多美食,Diyap Usta nin Yeri
+更多美食,Dicle Pide ve Kebap Salonu
+更多美食,Subtitle Cafe
+更多美食,Koftecim Muzo
+更多美食,Köşebaşı Ankara
+更多美食,Günaydın Kebap
+更多美食,Gaziantep Kilis Pide ve Kebap Salonu
+更多美食,Somine Kebap Salonu
+更多美食,Sanli Kebap
+更多美食,Arzum Pide ve Kebap Salonu
+更多美食,Arpien Las Chicas
+更多美食,Cagdas Pide ve Kebap Salonu
+更多美食,Camuzoglu Kebap
+更多美食,Birdane Maklube
+更多美食,Duygu Pide
+更多美食,Mutlu Kebap
+更多美食,TRILLYS
+更多美食,Arda Kebap
+更多美食,19 Pide Kebap Salonu
+更多美食,Ayisigi Pide Kebap Salonu
+更多美食,Aykent Lokantasi
+更多美食,18 Dedem Kebap
+更多美食,Sozeri Kebap
+更多美食,Cimbom Kebap
+更多美食,New Wall
+更多美食,Newcastle
+更多美食,Three G Restaurant
+更多美食,Ornek Pide Kebap Salonu
+更多美食,WienerWald
+更多美食,Budakalti
+更多美食,Bursa Park Iskender
+更多美食,Popeyes Louisiana Kitchen
+更多美食,Volkan Piknik
+更多美食,Elizinn Restaurant
+更多美食,Bay Baget
+更多美食,Sanli Edessa Kebab House
+更多美食,Zenger Pasa Restaurant
+更多美食,Tavaci Recep Usta
+更多美食,Genc Aspava
+更多美食,Cafe Del Mundo
+更多美食,Keskinler Iskender
+更多美食,Skye Vue Lounge
+更多美食,Midpoint
+更多美食,Beyaz Ev
+更多美食,belcikalInIn yeri
+更多美食,Gaga Manjero
+更多美食,Ipekyolu Kebap Konagi
+更多美食,Firezzacafe

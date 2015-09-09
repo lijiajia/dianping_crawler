@@ -1,0 +1,597 @@
+意大利菜,PIMMS Restaurante
+意大利菜,Terra
+意大利菜,S Martino Restaurant /Bar / Pizzaria
+意大利菜,Coiso & Tal
+意大利菜,La Ricotta
+意大利菜,Ginjal Restaurante
+意大利菜,Casa da Foz
+意大利菜,BH
+意大利菜,Tram Restaurante
+意大利菜,A Pasta Ristorante
+意大利菜,Esse Baixa
+意大利菜,Alforno Foz
+意大利菜,Toscano
+意大利菜,Presto Pizza
+意大利菜,Pasta Caffe Ristorante Italiana
+意大利菜,Pizzaria Maramao
+意大利菜,Pizza & Drinks- Casa da Baixa
+意大利菜,Apasta ristorante
+意大利菜,La Cantinetta
+意大利菜,Restaurante Nhac Nhac
+法国菜,Restaurante Cafeina
+法国菜,Les Delices de Clarisse
+墨西哥菜,La cantinita
+其他西餐,Chez Lapin
+其他西餐,Restaurante Astoria
+其他西餐,Jimao Tapas e Vinhos
+其他西餐,Book Restaurante
+其他西餐,Brasao Cervejaria
+其他西餐,Restaurante Great
+其他西餐,Restaurante Capa Negra II
+其他西餐,bbGourmet Maiorca
+其他西餐,Pedro Lemos Restaurante
+其他西餐,O Restaurante da Alzira
+其他西餐,Restaurante Churraqueira A Brasa
+其他西餐,Aurora
+其他西餐,A Grade
+其他西餐,Antunes
+其他西餐,"Canelas de Coelho, Porto"
+其他西餐,Terra
+其他西餐,Casa Lopes
+其他西餐,O Comercial
+其他西餐,Das Tripas Coracao
+其他西餐,Brasa dos Leoes
+其他西餐,"Munchie , The Burger Kitchen"
+其他西餐,Restaurante Casa da Musica
+其他西餐,ODE Porto Wine House
+其他西餐,BUGO Art Burgers
+其他西餐,Casa Agricola
+其他西餐,O Mercado
+其他西餐,Grande Hotel do Porto
+其他西餐,Avenida Cafe & Restaurante
+其他西餐,Pastelaria Tupi
+其他西餐,New Yorker Bar
+其他西餐,"Acepipe, Porto"
+其他西餐,Cafe Brasil
+其他西餐,Taverna BEBEVOS
+其他西餐,Restaurante 
+其他西餐,Jovianos Grill
+其他西餐,Khan el Khalili - Casa de Cha Egipcia
+其他西餐,Moreda
+其他西餐,Alicantina
+其他西餐,Santos Dias & Monteiro Lda
+其他西餐,Cafe Restaurante Piolho
+其他西餐,Bacalhau
+其他西餐,Douro Wine Flights
+其他西餐,Fish Fixe
+其他西餐,Cometa Restaurante
+其他西餐,Churrasqueira Do Infante
+其他西餐,Essencia Lusa Restaurante Tradicional
+其他西餐,Restaurante Traca
+其他西餐,Rui Paula DOP
+其他西餐,Caravela da Ribeira
+其他西餐,Adega Tipica Sao Joao
+其他西餐,Taberna Santo Antonio
+其他西餐,O Caracas
+其他西餐,Virtudes Restaurante & Wine Bar
+其他西餐,Casa de Pasto Adega Ribatejo
+其他西餐,Arroz de Forno
+其他西餐,Casa de Santo António
+其他西餐,Rei dos Galos de Amarante
+其他西餐,Papavinhos
+其他西餐,Taberna d'Avó
+其他西餐,Folias de Baco
+其他西餐,Yours Bistrô
+其他西餐,Miss'Opo
+其他西餐,Restaurante Braganca
+其他西餐,Clube 3C
+其他西餐,Casa do Carmo
+其他西餐,Ze Bota
+其他西餐,La Boheme Entre Amis
+其他西餐,Reitoria
+其他西餐,Tascö
+其他西餐,OPortobar
+其他西餐,Solar Moinho de Vento
+其他西餐,Lagostim
+其他西餐,O Marinheiro
+其他西餐,Andor Violeta
+其他西餐,Nabos da Pucara
+其他西餐,Camafeu
+其他西餐,Tapas Club Lounge Bar
+其他西餐,Baixa Burguer
+其他西餐,Museu D'Avo
+其他西餐,"RUA, Tapas & Music Bar"
+其他西餐,Patuá
+其他西餐,Casa Guedes
+其他西餐,Tribeca Jazz Club & Restaurante
+其他西餐,eLeBe Baixa
+其他西餐,Duas de Letra
+其他西餐,Casa Dos pregos Venham Mais 5
+其他西餐,Cafe Embaixador
+其他西餐,Palco
+其他西餐,Restaurante Roma
+其他西餐,Restaurante Maria Rita
+其他西餐,Flor dos Congregados
+其他西餐,Costume Bistro
+其他西餐,Escondidinho
+其他西餐,Novo Paris
+其他西餐,Restaurante Abadia Do Porto
+其他西餐,O Cacula
+其他西餐,Restaurante Pedro dos Frangos
+其他西餐,O Buraco
+其他西餐,confeitaria cunha
+其他西餐,17 Restaurante & Bar
+其他西餐,Kardoso
+其他西餐,Taberna Regional Dom Castro
+其他西餐,Conga
+其他西餐,Frida - Cocina Mestiza
+其他西餐,Real Hamburgueria Portuguesa
+其他西餐,Lado B
+其他西餐,Churrascao Gaucho
+其他西餐,Em Carne Viva
+其他西餐,Olhinhos do Polvo
+其他西餐,Vinhas d Alho
+其他西餐,Postigo do Carvao
+其他西餐,Copos&Cusquices
+其他西餐,Bull&Bear
+其他西餐,Casinha Sao Joao
+其他西餐,Taberna do Barqueiro
+其他西餐,Cozinha do manel
+其他西餐,Casa Aleixo
+其他西餐,Restaurante Casa Ines
+其他西餐,Restaurante Triunfante 2
+其他西餐,Portucale
+其他西餐,Solar D'Alegria
+其他西餐,Francesinha Café
+其他西餐,O Pombeiro
+其他西餐,Yuko
+其他西餐,O Paparico
+其他西餐,A Cozinha Do Martinho
+其他西餐,Monchique Bar Restaurante
+其他西餐,Grelhador da Boavista
+其他西餐,O Carteiro Restaurante
+其他西餐,A Capoeira Restaurante
+其他西餐,Foz Velha
+其他西餐,Cepa Peixe
+其他西餐,Tentacoes no Prato
+其他西餐,Cafeina Wine & Tapas
+其他西餐,Cepa Torta
+其他西餐,Essencia Restaurante Vegetariano
+其他西餐,Alma Portuense
+其他西餐,Casa Mara
+其他西餐,Tasquinha Dos Sabores
+其他西餐,Biscuit
+其他西餐,Trilhos do Tomilho
+其他西餐,O Muro
+其他西餐,Casa Filha da Mae Preta
+其他西餐,D. Tonho
+其他西餐,Pipas Bar
+其他西餐,Porto Escondido
+其他西餐,Azeitoneira do Porto
+其他西餐,Taverna do Infante
+其他西餐,Cozzza Rio
+其他西餐,Verso em Pedra
+其他西餐,O Bom Talher
+其他西餐,Tipico o Fado
+其他西餐,PROVA wine food & pleasure
+其他西餐,Porto a Noite
+其他西餐,Tea Point
+其他西餐,Café Restaurant Java
+其他西餐,Caldeireiros
+其他西餐,Adega Vila Mea
+其他西餐,Tropical Restaurante - Snack Bar
+其他西餐,O Rapido
+其他西餐,Chic Dream
+其他西餐,Clerigos Vinhos & Petiscos
+其他西餐,Porto & Virgula
+其他西餐,Cordoaria
+其他西餐,Cafe e Restaurante Ancora d'Ouro
+其他西餐,Restaurante e Churrasqueira Papagaio
+其他西餐,Taberna Galeria de Paris
+其他西餐,Tapas na Boca
+其他西餐,O Almada
+其他西餐,Invicto Gastropub
+其他西餐,Aviz
+其他西餐,Café Vitória
+其他西餐,Champanheria da Baixa
+其他西餐,Ernesto
+其他西餐,Restaurant Salmao
+其他西餐,Subway
+其他西餐,Lima 5
+其他西餐,"Confeitaria Imperio, Lda"
+其他西餐,D. Rodrigo
+其他西餐,Restaurante Palmeira
+其他西餐,icarai
+其他西餐,Restaurante Aquario Marisqueiro
+其他西餐,ZAZA Sandwiches and Bar
+其他西餐,A Rampinha
+其他西餐,Churrasqueira lameiras
+其他西餐,Restaurante Nuno Alvares
+其他西餐,Restaurante Senhor Abade
+其他西餐,Restaurante Lusiada
+其他西餐,ristorante Casa Paraiso 2 Porto
+其他西餐,Restaurante Paju
+其他西餐,Bom de Sal
+其他西餐,Arquivo
+其他西餐,Cervejaria Diu
+其他西餐,Rotundaboavista
+其他西餐,Chamico LDA
+其他西餐,Confeitaria Petulia
+其他西餐,Restaurante Terrella
+其他西餐,Restaurante Madureira
+其他西餐,Nova Era Restaurante
+其他西餐,Bar Belga - GABERO
+其他西餐,Restaurante Manuel Alves
+其他西餐,Casa da Picanha
+其他西餐,Café Imperador
+其他西餐,Adega Rio Douro
+其他西餐,Restaurante Campo Alegre
+其他西餐,Franganito
+其他西餐,Bom sucesso gourmet
+其他西餐,Restaurante Cervejaria PortoBeer
+其他西餐,O Fernando
+其他西餐,Popular da Foz
+其他西餐,Melhor Sabor
+其他西餐,Prima Dona
+其他西餐,Sensível
+其他西餐,Restaurante de Serralves
+其他西餐,Deck Foz
+其他西餐,Alibaba Kebab Hauss - Shopping Arrabida
+其他西餐,Casulinha Rest
+其他西餐,Mal Cozinhado
+其他西餐,O Gancho
+其他西餐,My God
+其他西餐,Adega Conde
+其他西餐,Oporto Mercearia
+其他西餐,Restaurante Silva Bar
+其他西餐,Solar do Patio
+其他西餐,Vino Logia
+其他西餐,O Bobys
+其他西餐,Alfandegadouro
+其他西餐,A Parte
+其他西餐,Restaurante Brazuca
+其他西餐,Paulista
+其他西餐,Bufete Marina
+其他西餐,Pao Quente Muralhas Do Olival Porto
+其他西餐,Retiro Do Jardim Taberna
+其他西餐,Max
+其他西餐,Pastelaria Bela Torre Restaurante
+其他西餐,Confeitaria Primar
+其他西餐,O Calhambeque
+其他西餐,Estrela D'ouro
+其他西餐,Oli Restaurante
+其他西餐,Bokas Bar
+其他西餐,"Combinacoes Improvaveis, Gourmet & Regional, Lda"
+其他西餐,Republica Cachorros
+其他西餐,Armazem do Caffe
+其他西餐,Nova Adega S. Romao
+其他西餐,Restaurante A Regaleira
+其他西餐,RESTAURANTE ESTRELA DO ORIENTE
+其他西餐,Sweet.Moments
+其他西餐,Wok to Walk
+其他西餐,Namura Restaurante Caffebar
+其他西餐,Restaurante Universal
+其他西餐,Casa de 3
+其他西餐,Restaurante Kool
+其他西餐,Restaurante Snoopy
+其他西餐,Restaurante Redondo da Ramada Alta
+其他西餐,|Vintage Restaurante || Club|
+其他西餐,Ritual prova
+其他西餐,Barba Negra
+其他西餐,Restaurante My Palace
+其他西餐,Cufra Grill
+其他西餐,A Tendinha do Marques
+其他西餐,Restaurante Kim-Kim
+其他西餐,La Pausa
+其他西餐,Casa Louro
+其他西餐,Rocinha
+其他西餐,Cafe Marinho
+其他西餐,Casa do Parao
+其他西餐,Churrasqueira Petisqueira do Freixo
+其他西餐,Restaurante Casa Carioca
+其他西餐,Cafe Novo Dia
+其他西餐,Triumphante II
+其他西餐,Restaurante Caetano
+其他西餐,Marinho's
+其他西餐,Taberna Ze Do Telhado
+其他西餐,Morfeu
+其他西餐,Leitao Do Ze
+其他西餐,restaurante Arte
+其他西餐,Brasserie De L'Entrecote
+其他西餐,Cervejaria Portugalia
+其他西餐,Restaurante Panoramico
+其他西餐,Restaurante QB
+其他西餐,Museu dos Presuntos
+其他西餐,Confeitaria Batista
+其他西餐,Bar tolo meu
+其他西餐,Restaurante Novas Geracoes
+其他西餐,Praia dos Ingleses
+其他西餐,A Mascara
+其他西餐,Varanda da Barra
+其他西餐,Terrasse
+其他西餐,Restaurante Corte Real
+其他西餐,Terroir
+其他西餐,Praia do Homem do Leme
+其他西餐,Portugalia
+其他西餐,Restaurante O Farol
+其他西餐,Talao de Controlo N
+其他西餐,Boa Vida
+其他西餐,Armazem do Sal
+其他西餐,Peza Arroz
+其他西餐,Restaurante Downing Street
+其他西餐,Restaurante Douro
+其他西餐,Tribuna
+其他西餐,Café Ceuta
+其他西餐,PontoBeer Restaurante Cervejaria
+其他西餐,twins
+其他西餐,Restaurante Hellenikon
+其他西餐,Comer em casa
+其他西餐,Restaurante Bartolomeo's
+其他西餐,Papas na Lingua
+其他西餐,Maria Sardinha
+其他西餐,Baga Wine & Gourmet
+其他西餐,sessenta setenta
+其他西餐,Manuel Azevedo Garcia
+其他西餐,Churrasqueira Central Dos Clerigos
+其他西餐,Aurora
+其他西餐,Zsa Zsa
+其他西餐,A Brasileira
+其他西餐,Casa de Pasto
+其他西餐,tapas e +
+其他西餐,The Lingerie Restaurant - Wine Bar & Tapas
+其他西餐,Petisco.como
+其他西餐,l Fresco Restaurant & Wine Bar
+其他西餐,Restaurante O Beco
+中餐,Restaurante Nova China
+中餐,Restaurante China Amizade
+中餐,Restaurante Zhong Guo
+中餐,King - Long
+日韩料理,Kaikou sushi bar
+日韩料理,Ichiban
+日韩料理,Gull
+日韩料理,Restaurante Medit
+日韩料理,Restaurante Buri
+日韩料理,Genki Sushi Restaurant
+日韩料理,Sushiana
+日韩料理,Fuji
+日韩料理,Katsu Sushi Bar
+日韩料理,Teppan - Sushi & Teppanyaki
+日韩料理,Kanpai Fusion Sushi
+日韩料理,Noori
+日韩料理,Baixa 22
+日韩料理,Yes sushi
+日韩料理,Sushihana Sushi-Bar
+日韩料理,Noa Restaurante Tapas Bar
+日韩料理,Musaxi
+日韩料理,Nigiri
+日韩料理,Restaurante
+日韩料理,Jesse Sushi & Restaurante
+更多亚洲菜,Mendi
+更多亚洲菜,Sushi Place Foz
+更多亚洲菜,Gosho
+更多亚洲菜,Thali
+更多亚洲菜,Kyodai
+更多亚洲菜,Restaurante Portugandhi
+更多亚洲菜,Will Restaurante Sushi Bar
+更多亚洲菜,Wok Eat
+更多亚洲菜,O Oriente no Porto
+更多亚洲菜,Sabores do Sebouh
+更多亚洲菜,Indian Tandoori
+更多亚洲菜,Joshua's Shoarma (Norte Shopping)
+快餐简餐,McDonalds Porto
+快餐简餐,Bar Ponte Pensil
+快餐简餐,Wine Quay Bar
+快餐简餐,Porto Bagel Cafe
+快餐简餐,Taberna do Largo
+快餐简餐,Mercearia Das Flores
+快餐简餐,Essencia Restaurante Vegetariano
+快餐简餐,Mosaico de Sabores
+快餐简餐,Ristorante pizzeria san martino frasellus porto
+海鲜,旭日升酒楼
+海鲜,Restaurante Astoria
+海鲜,Sardinha Alfandega
+海鲜,A Marina
+海鲜,Gambamar
+烧烤,Churrascaria Domingos
+烧烤,churascaria fogo de chao
+烧烤,Pedro dos Frangos
+烧烤,Champanheria Da Baixa Bistro
+烧烤,Cafe Restaurante Celia
+烧烤,A Tendinha do Marques
+烧烤,Dom Brasas
+比萨,O Cacula
+比萨,Pizzeria Meidin
+比萨,Pizzeria Meidin
+比萨,Pizza Hut Foz
+比萨,PontoBeer Restaurante Cervejaria
+咖啡厅,Cafe Majestic
+咖啡厅,As 7 Maravilhas
+咖啡厅,Leitaria Da Baixa
+咖啡厅,Nata Lisboa
+咖啡厅,Rota do Chá
+咖啡厅,A Loja dos Pasteis de Chaves
+咖啡厅,Casa Aberta
+咖啡厅,Leitaria da Quinta do Paço
+咖啡厅,Maus Habitos
+咖啡厅,Cafe Sao Nicolau
+咖啡厅,Livraria da Baixa
+咖啡厅,Pinguim Cafe
+咖啡厅,Sensível
+咖啡厅,Almanaque
+咖啡厅,Aliadu's
+咖啡厅,Bar Do Henrique
+咖啡厅,Sukiya
+面包甜点,Cafe Progresso
+面包甜点,O Melhor Bolo De Chocolate Do Mundo
+面包甜点,La Bombarde
+面包甜点,Armazem do Caffe Porto Baixa
+面包甜点,"Sincelo, Porto"
+面包甜点,Farggi Baixa Porto
+面包甜点,Chá Clube
+面包甜点,Confeitaria Tamisa
+面包甜点,Linha de Costumes
+酒吧,Hot Five Jazz & Blues Club
+酒吧,Vinologia
+酒吧,Casta
+酒吧,Pub O Baril
+酒吧,Patuá
+酒吧,Lado B
+酒吧,Galeria de Paris
+酒吧,E Pra Poncha
+酒吧,Breyner85
+酒吧,A Vindimeira
+酒吧,We Love Porto Bar & Club
+酒吧,Beira Douro
+酒吧,DON GRILON
+更多美食,O Assador Tipico
+更多美食,O Caseiro
+更多美食,Cafe Guarany
+更多美食,Confeitaria do Bolhao
+更多美食,Churrasqueira America Paraiso Do Churrasco
+更多美食,Larica
+更多美食,Tropical Burguer Boavista
+更多美食,Mcdonald's Boavista
+更多美食,Restaurante Madureira's
+更多美食,O melhor Rissol do mundo
+更多美食,Cafe Muralha da Barca
+更多美食,Restaurante Grao D'Ouro
+更多美食,Petisco Da Liberdade
+更多美食,Le Coin
+更多美食,Cafe Oasis da Se
+更多美食,Adega de São Nicolau
+更多美食,Ora Viva Restaurante
+更多美食,Peter Cafe Sport Porto
+更多美食,Casa da Horta
+更多美食,Forno Velho
+更多美食,Lsd Largo de Sao Domingos
+更多美食,Novo Mondo
+更多美食,A Tasquinha
+更多美食,Padaria Ribeiro Express
+更多美食,Cafe Santiago
+更多美食,Cafe Santiago F
+更多美食,The Traveller Caffé
+更多美食,Amorefreto Gelados & Ca
+更多美食,Coma
+更多美食,Restaurante Bufete Fase
+更多美食,Casa Paraíso
+更多美食,Palacio do Freixo
+更多美食,Restaurante Casa D'Ouro
+更多美食,Restaurante Cufra
+更多美食,Oporto Restaurante
+更多美食,Casa Nanda
+更多美食,Casa de Pasto da Palmeira
+更多美食,Tavi Confeitaria
+更多美食,Portarossa
+更多美食,Mesa
+更多美食,O Serrano
+更多美食,Restaurante Avo Maria
+更多美食,Tia Orlanda
+更多美食,Casa da Mariquinhas
+更多美食,Restaurante Casa Balsas
+更多美食,Cosinha Dos Loios
+更多美食,Restaurante Casa Viuva
+更多美食,Liquid Baixa Porto
+更多美食,Luso
+更多美食,Churrasqueira Moura
+更多美食,Restaurante O Golfinho - Porto
+更多美食,Twosushi
+更多美食,Pontual
+更多美食,Quintal Bioshop
+更多美食,Nakite Restaurante Vegetariano
+更多美食,Ze De Braga
+更多美食,BUuh! e etc
+更多美食,Pimenta & Chocolate
+更多美食,Migalhas
+更多美食,Restaurante Rosa das Iscas
+更多美食,Syngular
+更多美食,Cafeteria Pintainho
+更多美食,Rogerio do Redondo
+更多美食,Vila Gale Hotels
+更多美食,Murca No Porto
+更多美食,Restaurante Lider
+更多美食,Churrasqueira Cidade
+更多美食,Cervejaria Galiza
+更多美食,Quattro Amici
+更多美食,Treze % Restaurante
+更多美食,Al Forno Cafe
+更多美食,BB Villa Restaurante
+更多美食,sushinaka
+更多美食,Restaurante Monte Aventino
+更多美食,Leitao e Coisas
+更多美食,Restaurante Irmao Linos
+更多美食,Restaurante Farol Da Boa Nova
+更多美食,A Canastra da Ribeira
+更多美食,Escondidinho do Barredo
+更多美食,RC Mamma Nostra
+更多美食,Real Feytoria
+更多美食,Forno Vehlo
+更多美食,Cafetaria Da Casa Museu Guerra Junqueiro
+更多美食,A Provinciana
+更多美食,Sugarland Candy Bar
+更多美食,Clerigos Cafe e Brasserie
+更多美食,Bubbles
+更多美食,Real Indiana Baixa Do Porto
+更多美食,Restaurante Romao
+更多美食,Bibo Porto
+更多美食,Picasso
+更多美食,Quanto E Doce
+更多美食,Neptuno
+更多美食,Restaurante Sao Paulo
+更多美食,Estrella de Oriente
+更多美食,Confeitaria Imperio II
+更多美食,Bico Doce restaurante confeiteria
+更多美食,17
+更多美食,Praca Marques de Pombal
+更多美食,O BURAQUINHO
+更多美食,A Cantarinha Cafe
+更多美食,O Afonso - Snack Bar - Francesinhas
+更多美食,Confeitaria Da Lapa
+更多美食,Capa Verde
+更多美食,TOAST
+更多美食,Cafe Orfeu
+更多美食,Restaurante/Snack Bar Abreu
+更多美食,Cenaculo
+更多美食,Mcdonald's
+更多美食,Confeitaria Duvalia
+更多美食,Convivio
+更多美食,Restaurante Varanda Do Sol
+更多美食,Menu da Foz
+更多美食,Maison du Muselet
+更多美食,BAGOS DOURO - FOZ
+更多美食,Francesinhas
+更多美食,Gokobe - Sushi Bar / Teppan-yakki
+更多美食,Ibar
+更多美食,BRestaurant
+更多美食,Algo Mais Restaurante
+更多美食,Restaurante Casa Machado
+更多美食,Meet Porto
+更多美食,Cafe do Cais
+更多美食,Restaurante E Residencial Caldeira
+更多美食,Boca do Lobo
+更多美食,Máximo Café - Bar
+更多美食,Restaurante Nova Europa
+更多美食,Lusco Fusco Caffe Bar
+更多美食,12 Caffe
+更多美食,Clik
+更多美食,Restaurante Casa Do Tenis
+更多美食,O Assador Porto
+更多美食,Abbitus
+更多美食,Atelier Cafe
+更多美食,Trinc'arte
+更多美食,Mister Cafe
+更多美食,Clube da Gula
+更多美食,Il caffe di roma
+更多美食,Magestic Cafe
+更多美食,Cafe Lounge Casal
+更多美食,Al Forno Baixa
+更多美食,Beringela
+更多美食,Artemisia
+更多美食,Le chien qui fume
+更多美食,Franoisco churrasqueira
+更多美食,Presuntaria Antiga
+更多美食,Triplex
+更多美食,Real Indiana Edificio Transparente
+更多美食,Kyodai Sushi Bar and Terrace
+更多美食,Restaurante Shis
+更多美食,Bar restaurante Praia da Luz
+更多美食,Restaurante-Bar Corte Real

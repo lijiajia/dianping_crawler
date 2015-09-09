@@ -1,0 +1,213 @@
+日韩料理,Marigold,Marigold,0,,0.0,0.0,0.0
+日韩料理,Dhola Maru,Dhola Maru,0,,6.9,6.9,6.9
+西式正餐,LITTLE ITALY,LITTLE ITALY,0,,7.2,7.2,7.2
+西式正餐,The Verandah,The Verandah,0,,7.3,7.1,7.3
+西式快餐,Domino's Pizza,Domino's Pizza,0,,7.7,7.7,7.2
+西式快餐,Sam's Pizza,Sam's Pizza,0,,0.0,0.0,0.0
+西式快餐,Pizza Hut,Pizza Hut,0,,7.0,7.1,7.0
+西式快餐,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+西式快餐,C'est Bon,C'est Bon,0,,7.2,7.2,7.2
+西式快餐,Pizza Hut,Pizza Hut,0,,7.0,6.9,6.9
+西式快餐,Domino's Pizza,Domino's Pizza,0,,7.0,6.7,6.9
+西式快餐,Domino's Pizza,Domino's Pizza,0,,7.1,7.1,7.1
+西式快餐,Pizza Hut,Pizza Hut,0,,7.0,7.0,7.0
+西式快餐,Aura,Aura,0,,7.0,7.0,7.1
+西式快餐,Domino's Pizza,Domino's Pizza,0,,0.0,0.0,0.0
+西式快餐,Domino's Pizza,Domino's Pizza,0,,0.0,0.0,0.0
+西式快餐,Yummy Tiffin Center,Yummy Tiffin Center,0,,0.0,0.0,0.0
+海鲜,Green Apple Restaurant,Green Apple Restaurant,0,,7.1,7.0,7.0
+海鲜,Chicken Fresh Restaurant,Chicken Fresh Restaurant,0,,6.9,6.9,6.9
+海鲜,Chatakara Green Restaurant,Chatakara Green Restaurant,0,,0.0,0.0,0.0
+海鲜,Green Sup Roof Top Restaurant,Green Sup Roof Top Restaurant,0,,0.0,0.0,0.0
+海鲜,Green Hill Restaurant,Green Hill Restaurant,0,,0.0,0.0,0.0
+烧烤,Barbeque Nation,Barbeque Nation,0,,7.2,7.2,7.2
+咖啡厅,Valentine café,Valentine café,0,老城区,6.9,6.7,6.7
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,7.7,7.7,7.7
+咖啡厅,Sharma Cafe,Sharma Cafe,0,,0.0,0.0,0.0
+咖啡厅,Anokhi Cafe,Anokhi Cafe,0,,7.2,7.2,7.2
+咖啡厅,Garden Cafe,Garden Cafe,0,,7.2,7.2,7.2
+咖啡厅,Smokin Joes Fresh Pizzas Restaurants,Smokin Joes Fresh Pizzas Restaurants,0,,0.0,0.0,0.0
+咖啡厅,Sarvan Swami Cafe,Sarvan Swami Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe Goverdhan,Cafe Goverdhan,0,,0.0,0.0,0.0
+咖啡厅,Yummy Cafe,Yummy Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe Kooba,Cafe Kooba,0,,7.1,6.8,7.1
+咖啡厅,Brewberry Cafe,Brewberry Cafe,0,,7.1,7.1,7.1
+咖啡厅,Swamy Cafe,Swamy Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.9,6.9,6.9
+咖啡厅,Jai Cafe,Jai Cafe,0,,6.9,6.9,6.9
+咖啡厅,Citrus Cafe,Citrus Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Kalapani,Cafe Kalapani,0,,7.1,7.1,7.1
+咖啡厅,Cafe IceBurg,Cafe IceBurg,0,,6.9,6.9,6.9
+咖啡厅,Legendary Cafe,Legendary Cafe,0,,7.1,7.1,7.0
+咖啡厅,Cafe Mocha,Cafe Mocha,0,,6.9,6.9,6.9
+咖啡厅,Mocha Coffee Shop,Mocha Coffee Shop,0,,6.9,6.9,6.9
+咖啡厅,Andy Chicken Corner,Andy Chicken Corner,0,,6.9,6.9,6.9
+咖啡厅,Om Niwas Cafe,Om Niwas Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,7.0,7.0,7.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,7.0,7.1,7.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.9,6.9,6.9
+咖啡厅,Laxmi Cafe,Laxmi Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,7.0,7.0,7.0
+咖啡厅,Dzurt Cafe and Patisserie,Dzurt Cafe and Patisserie,0,,6.9,7.0,7.0
+咖啡厅,Green Chilli,Green Chilli,0,,7.0,7.0,7.0
+咖啡厅,Sky Waltz Cafe,Sky Waltz Cafe,0,,6.9,6.9,6.9
+咖啡厅,Chitra Cafe,Chitra Cafe,0,,7.2,7.2,7.2
+咖啡厅,Sejjour-Restaurant/Cafe/Lounge,Sejjour-Restaurant/Cafe/Lounge,0,,6.9,6.9,6.9
+咖啡厅,Indian Coffee House,Indian Coffee House,0,,7.2,7.2,7.2
+咖啡厅,Cafe F-32,Cafe F-32,0,,7.1,7.1,7.1
+咖啡厅,Guddu Softy Corner,Guddu Softy Corner,0,,7.0,7.0,7.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.9,6.9,6.9
+咖啡厅,Aunties Cafe,Aunties Cafe,0,,6.9,6.9,6.7
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,7.0,7.0,7.0
+咖啡厅,Brewers The Coffee Bar,Brewers The Coffee Bar,0,,6.9,6.9,6.9
+咖啡厅,Babu Bhai Old Green Tandoori Dhaba,Babu Bhai Old Green Tandoori Dhaba,0,,6.7,6.7,6.7
+咖啡厅,Mamu's Cafe,Mamu's Cafe,0,,7.0,7.0,7.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.9,6.9,6.9
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,7.1,7.1,7.1
+咖啡厅,Durg Cafe,Durg Cafe,0,,6.9,6.9,7.0
+咖啡厅,Jaipur Cafe,Jaipur Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.9,6.9,6.9
+咖啡厅,The Cafe Court Restaurant,The Cafe Court Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Re- Fresh Food Plaza,Re- Fresh Food Plaza,0,,0.0,0.0,0.0
+咖啡厅,Palace Cafe,Palace Cafe,0,,6.8,6.8,7.1
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,6.9,6.9,6.9
+咖啡厅,Home Cooked Food,Home Cooked Food,0,,0.0,0.0,0.0
+咖啡厅,Cafe Solaire 16,Cafe Solaire 16,0,,0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,0.0,0.0,0.0
+咖啡厅,Gokul Cafe,Gokul Cafe,0,,0.0,0.0,0.0
+咖啡厅,Ansari Fast Food Corner,Ansari Fast Food Corner,0,,0.0,0.0,0.0
+咖啡厅,Cafe Night Square,Cafe Night Square,0,,0.0,0.0,0.0
+咖啡厅,Crown Cafe,Crown Cafe,0,,0.0,0.0,0.0
+咖啡厅,Choice Cafe,Choice Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,0.0,0.0,0.0
+咖啡厅,Dosa Corner,Dosa Corner,0,,0.0,0.0,0.0
+咖啡厅,Chandra Prakash Sharma Cafeteria,Chandra Prakash Sharma Cafeteria,0,,0.0,0.0,0.0
+咖啡厅,The Pavilion,The Pavilion,0,,0.0,0.0,0.0
+咖啡厅,Hot N Cool Cafe,Hot N Cool Cafe,0,,0.0,0.0,0.0
+咖啡厅,Hang Around Cafe,Hang Around Cafe,0,,0.0,0.0,0.0
+咖啡厅,Costa Coffee,Costa Coffee,0,,0.0,0.0,0.0
+咖啡厅,Momo Cafe,Momo Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,0.0,0.0,0.0
+咖啡厅,Palms - The Coffee Shop,Palms - The Coffee Shop,0,,0.0,0.0,0.0
+咖啡厅,Valentine Cafe,Valentine Cafe,0,,0.0,0.0,0.0
+咖啡厅,Kool Cafe,Kool Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,0.0,0.0,0.0
+咖啡厅,Shree Saras Corner,Shree Saras Corner,0,,0.0,0.0,0.0
+咖啡厅,Shree Ram Paratha Corner,Shree Ram Paratha Corner,0,,0.0,0.0,0.0
+咖啡厅,Cafe Sigara,Cafe Sigara,0,,0.0,0.0,0.0
+咖啡厅,Brew Cafe,Brew Cafe,0,,0.0,0.0,0.0
+咖啡厅,Sunflower,Sunflower,0,,0.0,0.0,0.0
+咖啡厅,Softi Corner,Softi Corner,0,,0.0,0.0,0.0
+咖啡厅,Home of Chocolates,Home of Chocolates,0,,0.0,0.0,0.0
+咖啡厅,Deer Cafe,Deer Cafe,0,,0.0,0.0,0.0
+咖啡厅,Tisya Tree House Cafe,Tisya Tree House Cafe,0,,0.0,0.0,0.0
+咖啡厅,Indian Coffee Point,Indian Coffee Point,0,,0.0,0.0,0.0
+咖啡厅,Nice Cafe,Nice Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe Delta,Cafe Delta,0,,0.0,0.0,0.0
+咖啡厅,Darte Coffee Shop,Darte Coffee Shop,0,,0.0,0.0,0.0
+咖啡厅,Mansingh Coffee Shop,Mansingh Coffee Shop,0,,0.0,0.0,0.0
+咖啡厅,Cafe Rock,Cafe Rock,0,,0.0,0.0,0.0
+咖啡厅,Juice Corner,Juice Corner,0,,0.0,0.0,0.0
+咖啡厅,Ways Lounge Cafe,Ways Lounge Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cold Corner,Cold Corner,0,,0.0,0.0,0.0
+咖啡厅,Hangout Cafe,Hangout Cafe,0,,0.0,0.0,0.0
+咖啡厅,Fresh Food Points,Fresh Food Points,0,,0.0,0.0,0.0
+咖啡厅,Cafe Castello,Cafe Castello,0,,0.0,0.0,0.0
+咖啡厅,Corner Cafe,Corner Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,0.0,0.0,0.0
+咖啡厅,Sharma Chat Corner,Sharma Chat Corner,0,,0.0,0.0,0.0
+咖啡厅,Cafe Spa,Cafe Spa,0,,0.0,0.0,0.0
+咖啡厅,Advent Green,Advent Green,0,,0.0,0.0,0.0
+咖啡厅,Green City Cafe,Green City Cafe,0,,0.0,0.0,0.0
+咖啡厅,Agra Chat Corner,Agra Chat Corner,0,,0.0,0.0,0.0
+咖啡厅,Cafe Mojo,Cafe Mojo,0,,0.0,0.0,0.0
+咖啡厅,Mamta Cafe,Mamta Cafe,0,,0.0,0.0,0.0
+咖啡厅,The Balcony Cafe,The Balcony Cafe,0,,0.0,0.0,0.0
+咖啡厅,Mr. Singhs Cafe,Mr. Singhs Cafe,0,,0.0,0.0,0.0
+咖啡厅,Green Chillies,Green Chillies,0,,0.0,0.0,0.0
+咖啡厅,Hang Around Cafe,Hang Around Cafe,0,,0.0,0.0,0.0
+咖啡厅,Tometos Chicken Corner,Tometos Chicken Corner,0,,0.0,0.0,0.0
+咖啡厅,Fresh Flavours,Fresh Flavours,0,,0.0,0.0,0.0
+咖啡厅,Galaxy Cafe,Galaxy Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe 99,Cafe 99,0,,0.0,0.0,0.0
+咖啡厅,Cafe Cabana,Cafe Cabana,0,,0.0,0.0,0.0
+咖啡厅,Regal Cafe Restaruant,Regal Cafe Restaruant,0,,0.0,0.0,0.0
+咖啡厅,Vinayakam Food Corner,Vinayakam Food Corner,0,,0.0,0.0,0.0
+咖啡厅,Cafe 9,Cafe 9,0,,0.0,0.0,0.0
+咖啡厅,Antique Cafe,Antique Cafe,0,,0.0,0.0,0.0
+咖啡厅,Dream Corner,Dream Corner,0,,0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day,Cafe Coffee Day,0,,0.0,0.0,0.0
+咖啡厅,Harbin's Cafe and Bakery,Harbin's Cafe and Bakery,0,,0.0,0.0,0.0
+咖啡厅,satisfaction food corner,satisfaction food corner,0,,0.0,0.0,0.0
+咖啡厅,Day and Night Cafe,Day and Night Cafe,0,,0.0,0.0,0.0
+面包甜点,Cake Bank Bakery,Cake Bank Bakery,0,,0.0,0.0,0.0
+面包甜点,Jaihind Bakery,Jaihind Bakery,0,,6.9,6.9,6.9
+面包甜点,New Zealand natural,New Zealand natural,0,,7.0,7.1,7.0
+面包甜点,Honeydew Bakery And Fast Food,Honeydew Bakery And Fast Food,0,,6.9,6.9,6.9
+面包甜点,Cake World,Cake World,0,,6.9,6.9,6.9
+面包甜点,Gelato Vinto,Gelato Vinto,0,,0.0,0.0,0.0
+面包甜点,Krishna Bakery Wala,Krishna Bakery Wala,0,,0.0,0.0,0.0
+面包甜点,Venus Bakery,Venus Bakery,0,,0.0,0.0,0.0
+面包甜点,Gelato Vinto,Gelato Vinto,0,,0.0,0.0,0.0
+面包甜点,Golden Spoon,Golden Spoon,0,,0.0,0.0,0.0
+酒吧,Sunset Bar - Sarovar Portico,Sunset Bar - Sarovar Portico,0,,0.0,0.0,0.0
+酒吧,Bar,Bar,0,,0.0,0.0,0.0
+酒吧,Cheers Bar,Cheers Bar,0,,0.0,0.0,0.0
+酒吧,Varuni Bar,Varuni Bar,0,,0.0,0.0,0.0
+酒吧,The Rajwada Library Bar,The Rajwada Library Bar,0,,0.0,0.0,0.0
+酒吧,Madeira Bar,Madeira Bar,0,,0.0,0.0,0.0
+酒吧,The Pub,The Pub,0,,6.9,6.9,6.9
+酒吧,Drop Zone lounge bar,Drop Zone lounge bar,0,,6.9,6.9,6.9
+酒吧,Office Bar at Hotel Dev Villas,Office Bar at Hotel Dev Villas,0,,7.0,6.9,7.0
+酒吧,Sakee Bar,Sakee Bar,0,,6.9,6.9,6.9
+酒吧,T C Restaurant And Bar,T C Restaurant And Bar,0,,6.9,6.9,6.9
+酒吧,La Villa,La Villa,0,,6.9,6.9,6.9
+酒吧,Bar Bar,Bar Bar,0,,7.1,7.1,7.0
+酒吧,Turquoise Cottage Bar,Turquoise Cottage Bar,0,,6.9,6.9,6.9
+酒吧,Henry's The Pub,Henry's The Pub,0,,7.0,7.0,7.1
+酒吧,Bar Bar - Four Points By Sheraton,Bar Bar - Four Points By Sheraton,0,,6.7,6.7,6.9
+酒吧,The Polo Club,The Polo Club,0,,7.3,7.3,7.1
+酒吧,Shan - E- Punjab Restro Bar,Shan - E- Punjab Restro Bar,0,,6.7,6.7,6.7
+酒吧,Rambagh golf club restaurant,Rambagh golf club restaurant,0,,7.0,7.0,7.0
+酒吧,Jai Club,Jai Club,0,,7.0,7.0,6.9
+酒吧,Yes Boss Bar And Restaurant,Yes Boss Bar And Restaurant,0,,0.0,0.0,0.0
+酒吧,Ginseng,Ginseng,0,,6.9,6.9,6.9
+酒吧,The Deck,The Deck,0,,0.0,0.0,0.0
+酒吧,Premium Bar,Premium Bar,0,,0.0,0.0,0.0
+酒吧,Amigos Bar,Amigos Bar,0,,0.0,0.0,0.0
+酒吧,Strikers Club,Strikers Club,0,,0.0,0.0,0.0
+酒吧,Chakra Bar,Chakra Bar,0,,0.0,0.0,0.0
+酒吧,Shri Paradise,Shri Paradise,0,,0.0,0.0,0.0
+酒吧,Singh King Bar,Singh King Bar,0,,0.0,0.0,0.0
+酒吧,Royal Bar,Royal Bar,0,,0.0,0.0,0.0
+酒吧,Blue Bird Hotel Restro Bar,Blue Bird Hotel Restro Bar,0,,0.0,0.0,0.0
+酒吧,Cuisine Club,Cuisine Club,0,,0.0,0.0,0.0
+酒吧,Barista Lavazza Espresso Bar,Barista Lavazza Espresso Bar,0,,0.0,0.0,0.0
+酒吧,Soho Bar,Soho Bar,0,,0.0,0.0,0.0
+酒吧,Rainbow Corner Ice Cream Parlour,Rainbow Corner Ice Cream Parlour,0,,0.0,0.0,0.0
+酒吧,Club 8 Resto,Club 8 Resto,0,,0.0,0.0,0.0
+酒吧,Prince Paradise,Prince Paradise,0,,0.0,0.0,0.0
+酒吧,The Lounge Resto DJ Bar,The Lounge Resto DJ Bar,0,,0.0,0.0,0.0
+酒吧,Barista Lavazza Espresso Bar,Barista Lavazza Espresso Bar,0,,0.0,0.0,0.0
+酒吧,Scarlet Bar,Scarlet Bar,0,,0.0,0.0,0.0
+酒吧,Maikhana Bar,Maikhana Bar,0,,0.0,0.0,0.0
+酒吧,Chirmi Sports Bar,Chirmi Sports Bar,0,,0.0,0.0,0.0
+酒吧,Gagar Bar,Gagar Bar,0,,0.0,0.0,0.0
+酒吧,Hotel Goyal Restaurant And Bar,Hotel Goyal Restaurant And Bar,0,,0.0,0.0,0.0
+酒吧,Kabana Resto Bar,Kabana Resto Bar,0,,0.0,0.0,0.0
+酒吧,Hotel Rishi Restro Bar,Hotel Rishi Restro Bar,0,,0.0,0.0,0.0
+酒吧,Paradise Inn,Paradise Inn,0,,0.0,0.0,0.0
+酒吧,Sports Bar,Sports Bar,0,,0.0,0.0,0.0
+酒吧,Hotel Sangam Restaurant and Bar,Hotel Sangam Restaurant and Bar,0,,0.0,0.0,0.0
+酒吧,Hotel Restaurant Raj Plaza Bar,Hotel Restaurant Raj Plaza Bar,0,,0.0,0.0,0.0
+酒吧,Jai Mangal Palace Bar,Jai Mangal Palace Bar,0,,0.0,0.0,0.0
+酒吧,Hotel Pratap Bar and Restaurant,Hotel Pratap Bar and Restaurant,0,,0.0,0.0,0.0
+酒吧,Vegetarian Paradise,Vegetarian Paradise,0,,0.0,0.0,0.0
+酒吧,The Living Room,The Living Room,0,,0.0,0.0,0.0
+酒吧,Palki Bar,Palki Bar,0,,0.0,0.0,0.0
+酒吧,Hardy's Pub,Hardy's Pub,0,,0.0,0.0,0.0
+更多美食,Thali House,Thali House,0,,6.9,6.9,6.9
+更多美食,Loving Hut,Loving Hut,0,,7.0,7.0,7.0

@@ -1,0 +1,463 @@
+意大利菜,Domani,Domani,0,,6.9,6.9,6.9
+意大利菜,Mezzaluna,Mezzaluna,0,,6.9,7.0,7.0
+意大利菜,Mezzaluna,Mezzaluna,0,,6.9,6.9,6.9
+其他西餐,Sultanahmet Koftecisi,Sultanahmet Koftecisi,0,,8.0,8.0,7.5
+其他西餐,Altin Balik Fish House,Altin Balik Fish House,0,,6.9,6.7,6.9
+其他西餐,kumpir box,kumpir box,0,,7.2,7.2,7.2
+其他西餐,Akbiyik Fish House,Akbiyik Fish House,0,,7.2,6.9,7.2
+其他西餐,Sultanahmet Koftecisi,Sultanahmet Koftecisi,0,,6.9,6.9,6.9
+其他西餐,Gunaydin,Gunaydin,0,,6.9,6.9,6.9
+其他西餐,Kosebasi,Kosebasi,0,,6.9,6.9,6.9
+其他西餐,Gulhane Kebab House,Gulhane Kebab House,0,,7.7,7.7,7.7
+其他西餐,Delicatessen,Delicatessen,0,,7.2,7.2,7.2
+其他西餐,Kosebasi,Kosebasi,0,,7.2,7.2,7.2
+其他西餐,Gunaydin,Gunaydin,0,,7.1,7.1,7.1
+其他西餐,Edirne Kirkpinar Lokantasi,Edirne Kirkpinar Lokantasi,0,,6.9,6.9,6.9
+其他西餐,Zeynel,Zeynel,0,,6.9,6.9,6.9
+其他西餐,Sultanahmet Koftecisi,Sultanahmet Koftecisi,0,,6.9,6.9,6.9
+其他西餐,GunaydIn,GunaydIn,0,,7.5,7.1,7.1
+其他西餐,feslegen ev yemekleri,feslegen ev yemekleri,0,,6.9,6.9,6.9
+其他西餐,Istanbul,Istanbul,0,,6.9,6.9,6.9
+其他西餐,Sultanahmet Koftecisi,Sultanahmet Koftecisi,0,,6.9,6.9,6.9
+其他西餐,Teppanyaki Alaturka,Teppanyaki Alaturka,0,,7.0,7.0,7.0
+其他西餐,Bloom,Bloom,0,,6.9,6.9,6.9
+其他西餐,Karadeniz Pide,Karadeniz Pide,0,,7.0,7.0,6.9
+其他西餐,Sultanahmet Koftecisi,Sultanahmet Koftecisi,0,,7.0,6.9,6.9
+其他西餐,Edirne Kirkpinar Lokantasi,Edirne Kirkpinar Lokantasi,0,,7.0,7.1,7.0
+其他西餐,Istanbul,Istanbul,0,,7.0,7.0,7.0
+其他西餐,Kosebasi,Kosebasi,0,,7.1,7.1,7.1
+其他西餐,Edirne Kirkpinar Lokantasi,Edirne Kirkpinar Lokantasi,0,,6.9,6.9,6.9
+中餐,东方中餐厅Great Dong Fang,东方中餐厅Great Dong Fang,0,Sisli,9.1,9.1,9.1
+中餐,东方中餐厅,东方中餐厅,0,阿塔图尔克国际机场,9.1,9.0,9.1
+中餐,galleria,galleria,0,Old City Sultanahmet,8.4,8.3,8.3
+中餐,Sushico,Sushico,0,,6.9,6.9,6.9
+中餐,Quick China,Quick China,0,,7.1,7.1,7.3
+中餐,Sushico,Sushico,0,,7.0,7.0,7.0
+中餐,Sushico,Sushico,0,,6.9,6.9,6.9
+中餐,Little China,Little China,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Express,Sushi Express,0,,7.8,7.8,7.8
+更多亚洲菜,Havuzlu Restaurant,Havuzlu Restaurant,0,Old City Sultanahmet,0.0,0.0,0.0
+快餐简餐,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,,7.5,6.7,6.7
+快餐简餐,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,阿塔图尔克国际机场,7.1,7.0,6.9
+快餐简餐,Burger King,Burger King,0,,5.3,5.3,5.3
+快餐简餐,McDonald's,McDonald's,0,,6.9,7.3,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Shake Shack,Shake Shack,0,,7.2,7.2,7.2
+快餐简餐,Bay Doner,Bay Doner,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.0,7.0,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,Papa John's,Papa John's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,7.0,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.0,6.7,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,7.0,6.9,6.9
+快餐简餐,Num num,Num num,0,,7.0,6.9,7.0
+快餐简餐,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.1,7.1,7.1
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.8,6.6,6.8
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Sbarro,Sbarro,0,,6.9,6.9,6.9
+快餐简餐,Leon,Leon,0,,7.1,7.1,7.0
+快餐简餐,Posh,Posh,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Marmaris Bufe,Marmaris Bufe,0,,6.9,6.9,6.9
+快餐简餐,Marmaris Bufe,Marmaris Bufe,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.7,6.7,6.9
+快餐简餐,Burger King,Burger King,0,,7.0,7.0,7.0
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,,0.0,0.0,0.0
+快餐简餐,SOGUS KELLE,SOGUS KELLE,0,塔克辛,0.0,0.0,0.0
+海鲜,Sky Kamer Restaurant,Sky Kamer Restaurant,0,,7.0,7.0,7.0
+海鲜,Papalina Balik Restaurant,Papalina Balik Restaurant,0,,0.0,0.0,0.0
+烧烤,KOFTECISI SELIM USTA,KOFTECISI SELIM USTA,0,Old City Sultanahmet,8.5,8.0,7.5
+烧烤,Barbecue House,Barbecue House,0,,6.0,7.0,7.0
+烧烤,BBQ Chicken,BBQ Chicken,0,,6.9,6.9,6.9
+烧烤,Tarihi Karakoy Balik Lokantasi,Tarihi Karakoy Balik Lokantasi,0,,0.0,0.0,0.0
+比萨,Little Caesars,Little Caesars,0,,6.9,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Pomodoro Pizza,Pomodoro Pizza,0,,6.9,6.9,6.9
+比萨,Don Pietro Pizza,Don Pietro Pizza,0,,7.1,7.0,7.1
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Domino's Pizza Sirkeci,Domino's Pizza Sirkeci,0,,6.9,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Fratelli la Bufala,Fratelli la Bufala,0,,7.0,7.0,7.0
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Ozi Pizza and Pasta,Ozi Pizza and Pasta,0,,7.2,7.7,7.2
+比萨,Magic Akademi Pizza,Magic Akademi Pizza,0,,6.9,6.9,6.9
+比萨,Pizza de Lavia,Pizza de Lavia,0,,7.1,7.3,7.1
+比萨,Pizza Bulls,Pizza Bulls,0,,6.9,6.9,6.9
+比萨,Miss Pizza,Miss Pizza,0,,7.2,7.2,7.2
+比萨,Pizza Max,Pizza Max,0,,6.9,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Titiz Turkish Pizza,Titiz Turkish Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Bulls,Pizza Bulls,0,,6.9,6.9,6.9
+比萨,Mapi Makarna Pizza,Mapi Makarna Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Metre Pizza,Metre Pizza,0,,7.0,7.0,7.0
+比萨,Pizza Hut,Pizza Hut,0,,7.0,7.0,7.0
+比萨,Little Caesars,Little Caesars,0,,6.9,6.9,6.9
+咖啡厅,Starbuck,Starbuck,0,阿塔图尔克国际机场,0.0,0.0,0.0
+咖啡厅,Esmer Cafe,Esmer Cafe,0,,7.9,7.9,7.9
+咖啡厅,Hard Rock Cafe Istanbul,Hard Rock Cafe Istanbul,0,,7.9,7.9,7.9
+咖啡厅,Aruna Cafe,Aruna Cafe,0,,7.0,7.0,7.0
+咖啡厅,The House Cafe Istiklal Caddesi,The House Cafe Istiklal Caddesi,0,,8.1,8.1,8.1
+咖啡厅,Mesale Cafe,Mesale Cafe,0,,7.0,8.0,7.5
+咖啡厅,The Local Cafe Restaurant,The Local Cafe Restaurant,0,,7.5,7.7,7.5
+咖啡厅,Mozaik Cafe,Mozaik Cafe,0,,7.5,7.5,7.5
+咖啡厅,Cafe Nero,Cafe Nero,0,,7.4,7.1,7.3
+咖啡厅,Simit cafe,Simit cafe,0,,6.8,6.2,6.2
+咖啡厅,Elif'li Pasta Cafe,Elif'li Pasta Cafe,0,,5.7,6.3,6.8
+咖啡厅,Bambi Cafe,Bambi Cafe,0,,7.2,7.2,6.8
+咖啡厅,Cafe Mese,Cafe Mese,0,,7.2,7.2,7.2
+咖啡厅,Ozsut Cafe,Ozsut Cafe,0,,7.2,7.2,7.2
+咖啡厅,Duran Nargile Cafe,Duran Nargile Cafe,0,,7.1,7.1,7.1
+咖啡厅,Tikinti Cafe,Tikinti Cafe,0,,6.9,6.9,6.9
+咖啡厅,seatanbul cafe restaurant,seatanbul cafe restaurant,0,,7.7,7.7,7.2
+咖啡厅,Yoros Cafe Restaurant,Yoros Cafe Restaurant,0,,7.1,7.1,7.1
+咖啡厅,Starbucks Coffee Ortakoy,Starbucks Coffee Ortakoy,0,,7.0,7.0,7.0
+咖啡厅,Fes Cafe,Fes Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Halic,Cafe Halic,0,,7.1,7.1,7.1
+咖啡厅,Magnaura Cafe,Magnaura Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Francais,Cafe Francais,0,,7.0,7.0,7.1
+咖啡厅,Big Family Cafe Shop,Big Family Cafe Shop,0,,7.1,7.3,7.1
+咖啡厅,Kakulem Nargile Cafe,Kakulem Nargile Cafe,0,,6.9,6.9,6.9
+咖啡厅,Sultan Saray Cafe Restaurant,Sultan Saray Cafe Restaurant,0,,7.2,7.2,7.2
+咖啡厅,Gulhane Sark cafe restaurant,Gulhane Sark cafe restaurant,0,,7.7,7.2,7.2
+咖啡厅,Ashbaz Cafe Restaurant,Ashbaz Cafe Restaurant,0,,7.7,7.7,7.2
+咖啡厅,"Velvet Cafe, Galata","Velvet Cafe, Galata",0,,7.7,7.7,7.7
+咖啡厅,Oksijen Cafe,Oksijen Cafe,0,,7.6,7.6,7.6
+咖啡厅,Middle East Cafe Restaurant,Middle East Cafe Restaurant,0,,7.3,7.3,7.1
+咖啡厅,Cafe Pallet,Cafe Pallet,0,,7.3,7.1,7.1
+咖啡厅,Galata Konak Cafe,Galata Konak Cafe,0,,7.2,7.2,7.2
+咖啡厅,The House Cafe Ortakoy,The House Cafe Ortakoy,0,,7.2,7.2,7.2
+咖啡厅,Palmiye Cafe Restaurant,Palmiye Cafe Restaurant,0,,7.2,7.2,7.2
+咖啡厅,Harem's Cafe,Harem's Cafe,0,,7.2,7.2,7.2
+咖啡厅,Green Corner Cafe and Restaurant,Green Corner Cafe and Restaurant,0,,7.2,7.2,7.2
+咖啡厅,Antique Turquoise Cafe Restaurant Bar,Antique Turquoise Cafe Restaurant Bar,0,,7.2,7.2,7.2
+咖啡厅,rumeli cafe,rumeli cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Lokum,Cafe Lokum,0,,7.2,7.2,7.2
+咖啡厅,Can Cafe,Can Cafe,0,,7.1,7.1,7.1
+咖啡厅,The House Cafe Corner,The House Cafe Corner,0,,7.1,7.1,7.1
+咖啡厅,Nar Cafe,Nar Cafe,0,,7.1,7.1,7.1
+咖啡厅,Kikas Cafe ve Restaurant,Kikas Cafe ve Restaurant,0,,7.1,7.0,7.0
+咖啡厅,Cafe Life,Cafe Life,0,,7.1,7.1,7.1
+咖啡厅,Polo Cafe Bistro,Polo Cafe Bistro,0,,7.0,7.1,7.1
+咖啡厅,Gulhane Sur Cafe,Gulhane Sur Cafe,0,,7.1,7.1,7.3
+咖啡厅,Sultan Hostel Restaurant Cafe,Sultan Hostel Restaurant Cafe,0,,7.1,7.1,7.1
+咖啡厅,Aladesamis cafe restaurant,Aladesamis cafe restaurant,0,,7.1,7.1,7.1
+咖啡厅,Karemel Bakery Cafe,Karemel Bakery Cafe,0,,7.1,7.1,7.1
+咖啡厅,Pierre Lotti Cafe,Pierre Lotti Cafe,0,,7.1,7.1,7.1
+咖啡厅,Friends Cafe Restaurant,Friends Cafe Restaurant,0,,6.9,6.9,6.9
+咖啡厅,KARAKOYUM CAFE,KARAKOYUM CAFE,0,,7.1,7.1,7.1
+咖啡厅,Smyrna Cafe/Bar,Smyrna Cafe/Bar,0,,7.1,7.1,7.1
+咖啡厅,Cafe Zade,Cafe Zade,0,,7.1,7.1,7.1
+咖啡厅,Pancar Cafe,Pancar Cafe,0,,6.9,6.9,6.9
+咖啡厅,MUA' Cafe,MUA' Cafe,0,,7.1,7.1,7.1
+咖啡厅,Coffee Caramela,Coffee Caramela,0,,6.9,6.9,6.9
+咖啡厅,Earth Cafe,Earth Cafe,0,,6.9,6.9,6.9
+咖啡厅,Viyaduk Cafe Pendik,Viyaduk Cafe Pendik,0,,6.9,6.9,6.9
+咖啡厅,Pierre Loti Cafe,Pierre Loti Cafe,0,,7.2,7.2,7.2
+咖啡厅,Mayk Cafe,Mayk Cafe,0,,7.0,7.0,7.0
+咖啡厅,Son OsmanlI cafe,Son OsmanlI cafe,0,,6.9,7.1,7.1
+咖啡厅,Garden Cafe,Garden Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Fessa,Cafe Fessa,0,,7.0,7.0,7.0
+咖啡厅,Fiskos Cafe,Fiskos Cafe,0,,6.9,6.9,6.9
+咖啡厅,the beatles cafe,the beatles cafe,0,,6.9,6.9,6.9
+咖啡厅,Golge Cafe,Golge Cafe,0,,7.0,7.0,7.0
+咖啡厅,Kirni Cafe Restaurant,Kirni Cafe Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Mihrimah Sultan Cafe,Mihrimah Sultan Cafe,0,,7.0,7.0,7.0
+咖啡厅,Cafe Privato,Cafe Privato,0,,7.2,7.2,7.2
+咖啡厅,Kav Cafe,Kav Cafe,0,,6.9,6.9,6.9
+咖啡厅,Urban Cafe,Urban Cafe,0,,7.1,7.1,7.1
+咖啡厅,Alles Coffee and Shop,Alles Coffee and Shop,0,,7.1,7.1,7.0
+咖啡厅,Cajun Cafe Brasserie,Cajun Cafe Brasserie,0,,7.0,7.0,7.0
+咖啡厅,Spectra Cafe Restaurant,Spectra Cafe Restaurant,0,,7.2,7.2,7.2
+咖啡厅,Kybele Cafe Restaurant,Kybele Cafe Restaurant,0,,7.2,7.2,7.7
+咖啡厅,Saray Restaurant Cafe,Saray Restaurant Cafe,0,,7.2,7.2,7.2
+咖啡厅,Seyru Sefa Cafe,Seyru Sefa Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Setup,Cafe Setup,0,,7.0,7.0,7.1
+咖啡厅,Keyf-i Mekan Cafe And Restaurant,Keyf-i Mekan Cafe And Restaurant,0,,7.2,7.7,7.7
+咖啡厅,Gala Life Cafe,Gala Life Cafe,0,,6.9,7.0,7.0
+咖啡厅,Jazz Cafe,Jazz Cafe,0,,6.9,6.9,6.9
+咖啡厅,holy coffee,holy coffee,0,,7.1,7.1,7.3
+咖啡厅,Ara Cafe,Ara Cafe,0,,7.2,7.2,7.2
+咖啡厅,Grande Cafe Istanbul,Grande Cafe Istanbul,0,,7.3,7.3,7.1
+咖啡厅,Metropolis Cafe And Restaurant,Metropolis Cafe And Restaurant,0,,7.2,7.2,7.2
+咖啡厅,istanbul anatolia cafe and restaurant,istanbul anatolia cafe and restaurant,0,,7.2,7.7,7.2
+咖啡厅,Cafe Ambrosia,Cafe Ambrosia,0,,7.0,7.0,7.1
+咖啡厅,Molly's Cafe,Molly's Cafe,0,,7.3,7.3,7.3
+咖啡厅,Kucuk Ev Cafe Restaurant,Kucuk Ev Cafe Restaurant,0,,7.2,7.2,7.2
+咖啡厅,Nuran's Design Gallery Cafe,Nuran's Design Gallery Cafe,0,,7.1,7.1,7.1
+咖啡厅,Siva Cafe Restaurant,Siva Cafe Restaurant,0,,7.2,7.7,7.2
+咖啡厅,Bambi Cafe,Bambi Cafe,0,,6.9,6.9,6.9
+咖啡厅,Niwa Cafe Bistro,Niwa Cafe Bistro,0,,6.9,6.9,6.9
+咖啡厅,Kampus Cafe,Kampus Cafe,0,,6.9,6.9,6.9
+咖啡厅,7Gr Art Coffee,7Gr Art Coffee,0,,7.0,7.0,7.0
+咖啡厅,Cafe Eyfel,Cafe Eyfel,0,,7.1,7.1,7.1
+咖啡厅,Cumhuriyet Nargile and Cafe,Cumhuriyet Nargile and Cafe,0,,6.7,6.7,6.7
+咖啡厅,Cafe Kazanci,Cafe Kazanci,0,,7.5,7.5,7.5
+咖啡厅,Ada Cafe Bookstore,Ada Cafe Bookstore,0,,7.2,7.2,7.2
+咖啡厅,Galata Istanbul Restaurant Cafe,Galata Istanbul Restaurant Cafe,0,,7.2,7.2,7.2
+咖啡厅,Karabatak Cafe,Karabatak Cafe,0,,7.2,7.2,7.2
+咖啡厅,PePo Cafe and Restaurant,PePo Cafe and Restaurant,0,,7.2,7.2,7.2
+咖啡厅,7edi Cafe And Restaurant,7edi Cafe And Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Orsent Cafe,Orsent Cafe,0,,6.9,6.9,6.9
+咖啡厅,Dotto Cafe Bistro,Dotto Cafe Bistro,0,,7.1,7.1,7.1
+咖啡厅,Pasalimani Cafe,Pasalimani Cafe,0,,6.9,6.9,6.9
+咖啡厅,The Garden Restaurant - Cafe,The Garden Restaurant - Cafe,0,,6.9,6.9,6.9
+咖啡厅,Sheesha Cafe,Sheesha Cafe,0,,7.0,7.0,7.1
+咖啡厅,WESTSIDE Cafe + Bistro,WESTSIDE Cafe + Bistro,0,,7.1,7.1,7.0
+咖啡厅,La Paz Cafe Bar,La Paz Cafe Bar,0,,7.1,7.1,7.1
+咖啡厅,Pell's Cafe,Pell's Cafe,0,,7.1,7.1,7.1
+咖啡厅,Simdi Cafe,Simdi Cafe,0,,7.1,7.1,7.5
+咖啡厅,Cafe Firuz,Cafe Firuz,0,,7.1,7.1,7.1
+咖啡厅,Swedish Coffee Point,Swedish Coffee Point,0,,7.1,7.1,7.1
+咖啡厅,Salt Cafe,Salt Cafe,0,,7.1,7.1,7.1
+咖啡厅,Willabel Cafe Restaurant,Willabel Cafe Restaurant,0,,7.1,7.1,7.1
+咖啡厅,Cafe Feride,Cafe Feride,0,,6.9,6.9,6.9
+咖啡厅,Mek : Med Cafe Restaurant,Mek : Med Cafe Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Laterne Cafe,Laterne Cafe,0,,7.0,7.1,7.1
+咖啡厅,TXM People's Cafe Brasserie,TXM People's Cafe Brasserie,0,,7.1,7.1,7.1
+咖啡厅,Mirror Dilli Cafe,Mirror Dilli Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Du Levant,Cafe Du Levant,0,,7.0,7.0,7.1
+咖啡厅,Mistrado coffee And Bistro,Mistrado coffee And Bistro,0,,6.9,6.9,6.9
+咖啡厅,Maya Cafe,Maya Cafe,0,,7.1,7.0,7.0
+咖啡厅,The Stonehouse Cafe,The Stonehouse Cafe,0,,7.0,7.0,7.0
+咖啡厅,Kirpi Cafe and Restaurant,Kirpi Cafe and Restaurant,0,,7.1,7.1,7.1
+咖啡厅,Cafe Zurich,Cafe Zurich,0,,7.1,7.1,7.1
+咖啡厅,Taya Hatun Cafe,Taya Hatun Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Sehrim Istanbul,Cafe Sehrim Istanbul,0,,7.0,7.1,7.0
+咖啡厅,Zeynep Cafe,Zeynep Cafe,0,,6.9,6.9,6.9
+咖啡厅,Ops Cafe Karakoy,Ops Cafe Karakoy,0,,7.1,7.1,7.1
+咖啡厅,Sirin Cafe,Sirin Cafe,0,,6.9,6.9,6.9
+咖啡厅,Mini Coffee,Mini Coffee,0,,7.1,7.1,7.1
+咖啡厅,Mavra Cafe Design Workshop,Mavra Cafe Design Workshop,0,,7.1,6.8,7.1
+咖啡厅,Cafe de Paris /Teras,Cafe de Paris /Teras,0,,7.1,7.1,7.1
+咖啡厅,Mambocino Coffee Moda,Mambocino Coffee Moda,0,,6.9,6.9,6.9
+咖啡厅,Yer Cafe,Yer Cafe,0,,6.9,6.9,6.9
+咖啡厅,ehli keyf cafe,ehli keyf cafe,0,,7.0,7.1,7.1
+咖啡厅,Cuba Coffee Social Club,Cuba Coffee Social Club,0,,6.9,6.9,6.9
+咖啡厅,Misa Cafe,Misa Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Zapata,Cafe Zapata,0,,6.9,6.9,6.9
+咖啡厅,NOSTALJI CAFE BAR RESTAURANT,NOSTALJI CAFE BAR RESTAURANT,0,,7.1,7.0,7.1
+咖啡厅,My Hos Cafe Ve Restaurant,My Hos Cafe Ve Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Art Cafe Restaurant,Art Cafe Restaurant,0,,7.1,7.1,7.1
+咖啡厅,Fincan Cafe,Fincan Cafe,0,,7.1,7.0,7.0
+咖啡厅,Alperenler Aile Cafe Cay Bahcesi,Alperenler Aile Cafe Cay Bahcesi,0,,7.1,7.1,7.0
+咖啡厅,Art Cafe,Art Cafe,0,,6.9,6.9,6.9
+咖啡厅,Balkon Cafe,Balkon Cafe,0,,6.9,6.9,6.9
+咖啡厅,Armani Cafe,Armani Cafe,0,,7.0,7.0,7.0
+咖啡厅,Riva Cafe,Riva Cafe,0,,6.9,6.9,6.9
+咖啡厅,KV Restaurant Cafe Bar,KV Restaurant Cafe Bar,0,,7.0,7.0,7.0
+咖啡厅,Purple Wave Restaurant Cafe,Purple Wave Restaurant Cafe,0,,6.9,7.0,7.0
+咖啡厅,Marmara Cafe,Marmara Cafe,0,,6.9,7.0,7.0
+咖啡厅,Durak Bufe Cafe,Durak Bufe Cafe,0,,6.9,6.9,6.9
+咖啡厅,Gulhane Kandil Cafe,Gulhane Kandil Cafe,0,,7.0,7.0,7.0
+咖啡厅,Baks Cafe,Baks Cafe,0,,6.9,6.9,6.9
+咖啡厅,Namli Sarkuteri and Cafe,Namli Sarkuteri and Cafe,0,,6.9,6.9,6.9
+咖啡厅,Ops Cafe Karakoy,Ops Cafe Karakoy,0,,6.9,7.0,6.9
+咖啡厅,Cafe Nord,Cafe Nord,0,,6.9,7.0,6.9
+咖啡厅,Wisteria Restaurant Cafe,Wisteria Restaurant Cafe,0,,7.0,7.0,7.0
+咖啡厅,The House Cafe Caddebostan,The House Cafe Caddebostan,0,,7.0,7.0,7.0
+咖啡厅,Degirmen cafe pastanesi,Degirmen cafe pastanesi,0,,6.9,6.9,6.9
+咖啡厅,Saganak Cafe Restorant,Saganak Cafe Restorant,0,,6.9,6.9,6.9
+咖啡厅,Cafe La Porte,Cafe La Porte,0,,7.0,7.1,7.0
+咖啡厅,Piraye Cafe Restaurant,Piraye Cafe Restaurant,0,,7.0,7.0,7.0
+咖啡厅,Newbackpackers Cafe restaurant,Newbackpackers Cafe restaurant,0,,6.9,6.9,6.9
+咖啡厅,Kaylan Cafe,Kaylan Cafe,0,,6.9,7.0,7.0
+咖啡厅,Ulus Cafe,Ulus Cafe,0,,7.1,7.1,7.3
+咖啡厅,Baylan Bebek Cafe,Baylan Bebek Cafe,0,,7.1,7.1,7.1
+咖啡厅,Quattro Cafe,Quattro Cafe,0,,7.0,7.0,7.0
+咖啡厅,All Sports Cafe Etiler,All Sports Cafe Etiler,0,,7.0,7.0,7.1
+咖啡厅,Rest Cafe Sanat,Rest Cafe Sanat,0,,7.0,7.0,7.0
+咖啡厅,Cihangir Rose Marine Cafe Restaurant,Cihangir Rose Marine Cafe Restaurant,0,,7.0,7.0,7.0
+咖啡厅,Bahcede Sinek Cafe,Bahcede Sinek Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Nove,Cafe Nove,0,,7.0,7.1,7.1
+咖啡厅,Ozo Coffee House,Ozo Coffee House,0,,7.0,7.1,7.0
+咖啡厅,Pas Coffee House,Pas Coffee House,0,,7.0,7.1,7.1
+咖啡厅,Ist Cafe Patisserie Restaurant,Ist Cafe Patisserie Restaurant,0,,7.1,7.1,7.1
+咖啡厅,Tramvay cafe,Tramvay cafe,0,,7.0,7.0,7.0
+咖啡厅,Cihangir Patiserie Cafe,Cihangir Patiserie Cafe,0,,6.9,6.9,6.9
+咖啡厅,Foodist Cafe,Foodist Cafe,0,,7.0,7.0,7.0
+咖啡厅,Pera Museum Cafe,Pera Museum Cafe,0,,7.1,7.1,7.3
+咖啡厅,Kafka Cafe,Kafka Cafe,0,,7.0,7.0,7.1
+咖啡厅,Anne's Cafe,Anne's Cafe,0,,7.1,7.1,7.1
+咖啡厅,Caylak Cafe,Caylak Cafe,0,,7.0,7.0,7.1
+咖啡厅,Cafe Lumiere,Cafe Lumiere,0,,7.0,7.0,7.0
+咖啡厅,Unicorn Modern Ev Yemekleri ve Cafe,Unicorn Modern Ev Yemekleri ve Cafe,0,,7.1,7.1,7.1
+咖啡厅,Pati Cafe,Pati Cafe,0,,7.0,7.0,7.0
+咖啡厅,J'adore,J'adore,0,,7.1,7.1,7.3
+咖啡厅,Babel Cafe Restaurant,Babel Cafe Restaurant,0,,7.2,7.2,7.2
+咖啡厅,Grand boulevard cafe istanbul,Grand boulevard cafe istanbul,0,,7.0,7.0,7.1
+咖啡厅,49 Cafe,49 Cafe,0,,7.0,7.0,7.1
+咖啡厅,Erciyes Cafe,Erciyes Cafe,0,,7.0,7.0,7.0
+咖啡厅,Findik Cafe Restaurant,Findik Cafe Restaurant,0,,7.1,7.1,7.0
+咖啡厅,La Viola Cafe,La Viola Cafe,0,,7.1,7.1,7.1
+咖啡厅,Ny-ist Cafe,Ny-ist Cafe,0,,7.1,7.1,7.1
+咖啡厅,Pasalimani Cafe Beltur,Pasalimani Cafe Beltur,0,,7.0,7.0,7.0
+咖啡厅,Cafe Sitare,Cafe Sitare,0,,6.9,7.0,7.0
+咖啡厅,fermentasyon cafe,fermentasyon cafe,0,,7.0,7.1,7.0
+咖啡厅,Kafeka Nargile Cafe Restaurant,Kafeka Nargile Cafe Restaurant,0,,7.0,7.1,7.1
+咖啡厅,Cafe Marmara,Cafe Marmara,0,,7.1,7.1,7.1
+咖啡厅,Melza's Cafe,Melza's Cafe,0,,7.1,7.1,7.1
+咖啡厅,The Coffee Company,The Coffee Company,0,,7.0,7.0,7.0
+咖啡厅,Italiano Cafe,Italiano Cafe,0,,6.8,7.1,7.1
+咖啡厅,Beyrouth Cafe Club,Beyrouth Cafe Club,0,,6.9,6.9,7.0
+咖啡厅,Mambocino Artisan Coffee Besiktas,Mambocino Artisan Coffee Besiktas,0,,6.9,7.0,7.0
+咖啡厅,Cafe Zone,Cafe Zone,0,,7.1,7.1,7.1
+咖啡厅,Den Cafe,Den Cafe,0,,7.1,7.3,7.3
+咖啡厅,All Sports Cafe,All Sports Cafe,0,,7.0,7.0,7.0
+咖啡厅,Beltas Restoran Cafe,Beltas Restoran Cafe,0,,6.9,6.9,6.9
+咖啡厅,Sultan cafe Restaurant,Sultan cafe Restaurant,0,,7.1,7.0,7.0
+咖啡厅,Cafe Sebil,Cafe Sebil,0,,6.7,6.7,6.7
+咖啡厅,Maya's Corner,Maya's Corner,0,,7.0,7.0,7.0
+咖啡厅,Limon Cafe,Limon Cafe,0,,7.1,7.1,7.1
+咖啡厅,Orient Cafe,Orient Cafe,0,,6.7,6.9,7.0
+咖啡厅,Limon Cafe Ev Yemekleri,Limon Cafe Ev Yemekleri,0,,7.0,7.1,7.0
+咖啡厅,Zeno Cafe,Zeno Cafe,0,,6.9,6.9,7.0
+咖啡厅,Cafe Galata,Cafe Galata,0,,7.1,7.5,7.1
+咖啡厅,Kosebasi Nargile Cafe,Kosebasi Nargile Cafe,0,,6.9,6.7,7.0
+咖啡厅,Bahcee Cafe,Bahcee Cafe,0,,7.0,6.9,7.0
+咖啡厅,Suadiye Cafe,Suadiye Cafe,0,,6.9,6.9,7.0
+咖啡厅,Cafe Jerfi,Cafe Jerfi,0,,6.9,6.9,6.9
+咖啡厅,Kirpi Cafe,Kirpi Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Aydan,Cafe Aydan,0,,6.9,6.9,6.9
+咖啡厅,Dodo Cafe,Dodo Cafe,0,,6.9,7.0,6.9
+咖啡厅,180 Coffee Bakery,180 Coffee Bakery,0,,7.1,7.1,7.0
+咖啡厅,Liberta Cafe,Liberta Cafe,0,,6.9,6.9,7.1
+咖啡厅,Mosquito Cafe,Mosquito Cafe,0,,7.1,7.0,7.0
+咖啡厅,Cinili Cafe,Cinili Cafe,0,,7.0,7.1,7.1
+咖啡厅,Han Cafe,Han Cafe,0,,7.0,6.7,7.0
+咖啡厅,dilek pasta cafe restaurant,dilek pasta cafe restaurant,0,,7.0,7.0,7.0
+咖啡厅,Balon Cafe,Balon Cafe,0,,6.9,6.7,6.9
+咖啡厅,Hurrem Sultan Cafe Restaurant,Hurrem Sultan Cafe Restaurant,0,,7.0,6.9,7.0
+咖啡厅,Hayat Cafe,Hayat Cafe,0,,7.1,7.5,7.1
+咖啡厅,Elif Cafe,Elif Cafe,0,,7.2,7.2,7.2
+咖啡厅,Turko Baba Restaurant Cafe,Turko Baba Restaurant Cafe,0,,7.1,7.1,7.1
+咖啡厅,Mitani Cafe,Mitani Cafe,0,,7.2,7.2,7.2
+咖啡厅,Palato Cafe Restaurant,Palato Cafe Restaurant,0,,7.2,7.2,7.2
+咖啡厅,Cafe Rumist,Cafe Rumist,0,,7.2,7.2,7.2
+咖啡厅,Franz Kafka Cafe,Franz Kafka Cafe,0,,7.1,6.6,7.1
+咖啡厅,A Plus Cafe Bistro,A Plus Cafe Bistro,0,,6.6,6.6,6.8
+咖啡厅,Cumhurriyet Cafe,Cumhurriyet Cafe,0,,6.9,6.9,6.9
+咖啡厅,Erol Tas Kultur Merkez,Erol Tas Kultur Merkez,0,,0.0,0.0,0.0
+咖啡厅,Caffe Nero,Caffe Nero,0,Kadikoy,0.0,0.0,0.0
+咖啡厅,Fez Cafe,Fez Cafe,0,,0.0,0.0,0.0
+咖啡厅,Kaffeehaus,Kaffeehaus,0,,0.0,0.0,0.0
+面包甜点,MADO,MADO,35,Sisli,8.5,8.6,8.3
+面包甜点,哈菲茨·穆斯塔法 1864,哈菲茨·穆斯塔法 1864,0,,7.6,7.8,7.4
+面包甜点,Mado,Mado,0,,8.0,8.0,8.0
+面包甜点,新利香西饼屋,新利香西饼屋,0,,8.3,8.3,8.3
+面包甜点,HafizmuStafa,HafizmuStafa,0,Old City Sultanahmet,8.2,8.2,7.4
+面包甜点,Ab'bas Waffle,Ab'bas Waffle,0,,8.3,6.8,6.8
+面包甜点,Mado,Mado,0,,7.5,8.4,7.5
+面包甜点,Ozsut,Ozsut,0,,6.9,6.9,6.9
+面包甜点,Bistro,Bistro,0,,6.9,6.9,6.9
+面包甜点,Krispy Kreme Doughnuts,Krispy Kreme Doughnuts,0,,6.9,6.9,6.9
+面包甜点,Ozsut,Ozsut,0,,7.0,7.0,7.0
+面包甜点,Ozsut,Ozsut,0,,6.9,6.9,6.9
+面包甜点,Karakoy Gulluoglu,Karakoy Gulluoglu,0,,7.2,7.2,7.2
+面包甜点,Ab'bas Waffle,Ab'bas Waffle,0,,6.9,6.9,6.9
+面包甜点,Ozsut,Ozsut,0,,6.9,6.9,6.9
+面包甜点,Ozsut,Ozsut,0,,6.9,6.9,6.9
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,,7.0,7.0,6.9
+面包甜点,Bolulu Hasan Usta,Bolulu Hasan Usta,0,,7.1,6.9,7.0
+面包甜点,Bolulu Hasan Usta,Bolulu Hasan Usta,0,,7.1,7.1,7.0
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,,7.0,6.9,7.0
+面包甜点,Koco,Koco,0,,7.2,7.2,7.2
+面包甜点,Paul,Paul,0,Old City Sultanahmet,0.0,0.0,0.0
+面包甜点,蛋糕,蛋糕,0,,0.0,0.0,0.0
+酒吧,Cheers Soul Kitchen,Cheers Soul Kitchen,0,,8.4,8.4,7.9
+酒吧,Cozy Bar and Pub,Cozy Bar and Pub,0,,7.4,7.4,7.4
+酒吧,Sirena Pub Restaurant,Sirena Pub Restaurant,0,金角湾,7.0,7.0,7.0
+酒吧,The sultan Pub,The sultan Pub,0,,6.8,6.8,7.1
+酒吧,Midpoint,Midpoint,0,,7.2,7.2,7.2
+酒吧,City Lights Restaurant Bar,City Lights Restaurant Bar,0,,7.1,7.5,7.1
+酒吧,Sortie Club,Sortie Club,0,,7.2,7.2,7.2
+酒吧,Gazebo,Gazebo,0,,7.1,7.1,7.3
+酒吧,Pub Salute,Pub Salute,0,,7.2,7.2,7.2
+酒吧,The Deck,The Deck,0,,6.9,6.9,6.9
+酒吧,THE LOUNGE,THE LOUNGE,0,,6.9,6.9,6.9
+酒吧,Divan Hotel Pub,Divan Hotel Pub,0,,7.1,7.1,7.1
+酒吧,Baylo Bistro And Bar,Baylo Bistro And Bar,0,,7.0,7.1,7.0
+酒吧,Food Club,Food Club,0,,7.1,7.1,7.1
+酒吧,Paradise,Paradise,0,,7.0,7.0,7.0
+酒吧,Midpoint,Midpoint,0,,7.2,7.2,7.2
+酒吧,Kuytu Bar Restaurant,Kuytu Bar Restaurant,0,,6.9,6.9,6.9
+酒吧,Indigo Pub,Indigo Pub,0,,6.9,6.9,6.9
+酒吧,Red River Pub,Red River Pub,0,,7.2,7.2,7.2
+酒吧,Meyvemix Juice Bar,Meyvemix Juice Bar,0,,7.1,7.1,7.1
+酒吧,Limonata Restaurant and Bar,Limonata Restaurant and Bar,0,,7.1,6.8,7.1
+酒吧,Tribeca,Tribeca,0,,6.9,6.9,6.9
+酒吧,Taksim Karaoke Bar Restaurant,Taksim Karaoke Bar Restaurant,0,,7.1,7.0,6.9
+酒吧,Sah Bar,Sah Bar,0,,7.2,7.2,7.2
+酒吧,Artefes Hotel Terrace Bar and Restaurant,Artefes Hotel Terrace Bar and Restaurant,0,,7.1,7.1,7.1
+酒吧,Civani Restaurant Bar,Civani Restaurant Bar,0,,6.7,6.7,6.7
+酒吧,Burger Bar,Burger Bar,0,,7.0,7.0,7.0
+酒吧,London Pub,London Pub,0,,6.9,6.9,6.9
+酒吧,Wonderland,Wonderland,0,,7.0,7.0,7.0
+酒吧,Burger Bar,Burger Bar,0,,7.0,6.9,6.9
+酒吧,Midpoint,Midpoint,0,,7.0,6.9,7.0
+酒吧,Old English Pub,Old English Pub,0,,7.0,7.0,7.0
+酒吧,Compass Restaurant and Bar,Compass Restaurant and Bar,0,,6.9,6.9,6.9
+酒吧,Hamsi Pub,Hamsi Pub,0,,7.0,7.0,7.0
+酒吧,Safran Pub,Safran Pub,0,,7.0,7.0,6.9
+酒吧,Cistern Bistro Bar,Cistern Bistro Bar,0,,7.0,7.0,7.0
+酒吧,Defne Bar and Restaurant,Defne Bar and Restaurant,0,,7.2,7.2,7.2
+酒吧,The North Shield Pub,The North Shield Pub,0,,6.8,6.8,6.8
+酒吧,Gar Pub Restaurant,Gar Pub Restaurant,0,,6.8,7.1,6.8
+酒吧,360stanbulrestaurant,360stanbulrestaurant,0,,0.0,0.0,0.0
+酒吧,sofyal9,sofyal9,0,,0.0,0.0,0.0
+更多美食,Big Chefs,Big Chefs,0,,7.8,7.8,7.8
+更多美食,Tandoori,Tandoori,0,,6.9,7.0,6.9
+更多美食,Sutis,Sutis,0,,7.2,7.2,7.2
+更多美食,Nicole Restaurant Istanbul,Nicole Restaurant Istanbul,0,,7.2,7.2,7.2
+更多美食,HD Iskender,HD Iskender,0,,7.1,7.1,7.0
+更多美食,Sutis,Sutis,0,,7.0,7.0,7.0
+更多美食,Uludag Kebapcisi,Uludag Kebapcisi,0,,7.1,7.1,7.1
+更多美食,Cookshop,Cookshop,0,,7.1,7.1,7.1
+更多美食,Rossopomodoro,Rossopomodoro,0,,7.0,7.0,7.0
+更多美食,HD iskender,HD iskender,0,,7.1,7.1,7.1
+更多美食,Cookshop,Cookshop,0,,7.0,6.9,7.0
+更多美食,Cookshop,Cookshop,0,,7.1,7.0,7.1
+更多美食,Adana Sofrasi,Adana Sofrasi,0,,7.0,7.0,7.0
+更多美食,Sutis,Sutis,0,,7.0,7.0,6.9
+更多美食,Patso 7,Patso 7,0,,0.0,0.0,0.0
+更多美食,Selim usta Sultanahmet Koftecisi,Selim usta Sultanahmet Koftecisi,0,,0.0,0.0,0.0
+更多美食,哈姆迪肉餐厅,哈姆迪肉餐厅,0,,0.0,0.0,0.0
+更多美食,街头小吃,街头小吃,0,,0.0,0.0,0.0
+更多美食,Balikci Sebahattin,Balikci Sebahattin,0,,0.0,0.0,0.0
+更多美食,Konuk Evi,Konuk Evi,0,,0.0,0.0,0.0
+更多美食,Lale Cay Cahcesi,Lale Cay Cahcesi,0,,0.0,0.0,0.0
+更多美食,Antiochia,Antiochia,0,,0.0,0.0,0.0
+更多美食,Karadeniz Aile Pide Ve Kebap Salonu,Karadeniz Aile Pide Ve Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,Pandeli,Pandeli,0,,0.0,0.0,0.0
+更多美食,AQUA Restaurant,AQUA Restaurant,0,,0.0,0.0,0.0
+更多美食,Haci Baba,Haci Baba,0,,0.0,0.0,0.0
+更多美食,Develi Restaurant,Develi Restaurant,0,,0.0,0.0,0.0
+更多美食,Duble Meze Bar,Duble Meze Bar,0,,0.0,0.0,0.0
+更多美食,Nimla Pastirmaci,Nimla Pastirmaci,0,,0.0,0.0,0.0
+更多美食,"Konyalı,Sultanahmet","Konyalı,Sultanahmet",0,,0.0,0.0,0.0
+更多美食,Karaköy Güllüglu,Karaköy Güllüglu,0,,0.0,0.0,0.0
+更多美食,Wan-na,Wan-na,0,,0.0,0.0,0.0
+更多美食,Meshur Kuru Fasülyeci,Meshur Kuru Fasülyeci,0,,0.0,0.0,0.0
+更多美食,Cennet,Cennet,0,,0.0,0.0,0.0
+更多美食,Colheti Cafe&Restaurant,Colheti Cafe&Restaurant,0,,0.0,0.0,0.0
+更多美食,iyasofras,iyasofras,0,,0.0,0.0,0.0
+更多美食,uludaulus,uludaulus,0,,0.0,0.0,0.0
+更多美食,Uludağ Florya,Uludağ Florya(伊斯坦布分店),0,,0.0,0.0,0.0
+更多美食,Erenler Cay Bahcesi,Erenler Cay Bahcesi,0,,0.0,0.0,0.0
+更多美食,Havan Restaurant,Havan Restaurant,0,,0.0,0.0,0.0
+更多美食,Boncuk Restaurant,Boncuk Restaurant,0,,0.0,0.0,0.0

@@ -1,0 +1,124 @@
+意大利菜,Sole Mio,Sole Mio,0,,7.2,7.2,7.2
+意大利菜,La Fabbrica,La Fabbrica,0,,7.2,7.2,7.2
+意大利菜,Nolita,Nolita,0,,7.2,7.2,7.2
+意大利菜,Buon Appetito,Buon Appetito,0,圣地亚哥,0.0,0.0,0.0
+其他西餐,Ruby Tuesday,Ruby Tuesday,0,,7.1,7.1,7.1
+其他西餐,Ruby Tuesday,Ruby Tuesday,0,,7.2,7.2,7.2
+日韩料理,Osaka,Osaka,0,,7.2,7.2,7.2
+更多亚洲菜,Chang Cheng,Chang Cheng,0,,7.1,7.1,7.1
+更多亚洲菜,Element,Element,0,,7.7,7.7,7.7
+快餐简餐,Yummy Maki Yummy Box,Yummy Maki Yummy Box,0,,6.7,6.7,6.8
+快餐简餐,Ichiban,Ichiban,0,,7.3,7.2,7.3
+快餐简餐,KFC,KFC,0,,7.1,7.1,7.1
+快餐简餐,Doma,Doma,0,,7.1,7.1,7.1
+快餐简餐,Burger King,Burger King,0,,7.2,7.2,6.8
+快餐简餐,Denny's,Denny's,0,,6.8,6.8,6.8
+快餐简餐,Oporto,Oporto,0,,7.2,7.2,7.2
+快餐简餐,KFC,KFC,0,,6.8,7.1,7.1
+比萨,California Pizza Kitchen,California Pizza Kitchen,0,,7.3,7.2,7.3
+比萨,Yummy Maki Yummy Box,Yummy Maki Yummy Box,0,,6.7,6.7,6.8
+比萨,Amadeus Pizza,Amadeus Pizza,0,,7.2,6.8,7.2
+比萨,La Pizza Nostra,La Pizza Nostra,0,,7.2,7.2,7.2
+比萨,Italita Pizza,Italita Pizza,0,,7.1,7.1,7.0
+比萨,Benvenutto Pizza,Benvenutto Pizza,0,,7.0,7.0,7.1
+比萨,Pizza Napoli,Pizza Napoli,0,,7.2,7.2,7.2
+比萨,Milano's Pizza,Milano's Pizza,0,,7.0,6.9,7.0
+比萨,Papi pizza,Papi pizza,0,,7.1,7.1,7.1
+比萨,Rocco's Pizza,Rocco's Pizza,0,,6.8,6.8,6.8
+比萨,Voraz Pizza,Voraz Pizza,0,,7.0,7.0,7.0
+比萨,motto pizza,motto pizza,0,,6.9,7.0,7.1
+比萨,Piola Pizza,Piola Pizza,0,,7.2,6.8,7.2
+比萨,Santa Pizza,Santa Pizza,0,,7.2,6.8,7.2
+比萨,Mister Pizza,Mister Pizza,0,,6.9,6.9,6.9
+咖啡厅,Hard Rock Cafe Santiago,Hard Rock Cafe Santiago,0,,8.0,8.0,8.0
+咖啡厅,Cafe Haiti,Cafe Haiti,0,,7.0,7.2,7.2
+咖啡厅,Cafe Colonia,Cafe Colonia,0,,7.2,7.2,7.2
+咖啡厅,Cafe de la Barra,Cafe de la Barra,0,,7.2,7.2,7.2
+咖啡厅,Juan Valdez Cafe,Juan Valdez Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Central,Cafe Central,0,,7.3,7.3,7.3
+咖啡厅,Cafe (Converseria) de Julio,Cafe (Converseria) de Julio,0,,7.1,7.1,7.0
+咖啡厅,Cafe de las Artes,Cafe de las Artes,0,,6.8,6.8,7.1
+咖啡厅,Cafe Mosqueto (El Observatorio),Cafe Mosqueto (El Observatorio),0,,6.8,6.5,7.1
+咖啡厅,The Jazz Corner,The Jazz Corner,0,,6.8,7.1,7.1
+咖啡厅,Un cafe de pelicula,Un cafe de pelicula,0,,6.9,6.9,6.9
+咖啡厅,Casa Victoriana Cafe Restaurant,Casa Victoriana Cafe Restaurant,0,,7.1,7.0,7.0
+咖啡厅,Cafe Med,Cafe Med,0,,7.2,7.2,7.2
+咖啡厅,Cafe Mosqueto,Cafe Mosqueto,0,,7.2,7.2,7.2
+咖啡厅,Cafe Botanico,Cafe Botanico,0,,7.1,7.0,7.1
+咖啡厅,Cafe Alvear,Cafe Alvear,0,,7.1,7.1,7.1
+咖啡厅,Green Vitality,Green Vitality,0,,6.9,6.9,6.9
+咖啡厅,Cafe 202,Cafe 202,0,,7.0,7.0,7.1
+咖啡厅,Espresso Bar Cafe,Espresso Bar Cafe,0,,6.9,6.9,6.9
+咖啡厅,Piedra Negra Cafe,Piedra Negra Cafe,0,,6.9,6.9,6.9
+咖啡厅,Au P'ti Cafe,Au P'ti Cafe,0,,7.1,7.1,7.1
+咖啡厅,Fit Coffee,Fit Coffee,0,,7.1,7.1,6.9
+咖啡厅,Cafe Bizarre,Cafe Bizarre,0,,7.0,7.0,7.0
+咖啡厅,Cafe Restobar la Vuelta,Cafe Restobar la Vuelta,0,,7.0,7.0,7.0
+咖啡厅,Cafe Triana,Cafe Triana,0,,6.9,6.9,6.9
+咖啡厅,Cafe Vivaldi,Cafe Vivaldi,0,,6.9,6.9,6.9
+咖啡厅,Cafe del Patio,Cafe del Patio,0,,7.0,7.0,7.0
+咖啡厅,Panaderia y cafeteria Lo Saldes,Panaderia y cafeteria Lo Saldes,0,,6.9,6.9,6.9
+咖啡厅,Cafe Mozart Vitacura,Cafe Mozart Vitacura,0,,7.0,7.0,7.0
+咖啡厅,Coffee Culture,Coffee Culture,0,,7.0,7.1,7.1
+咖啡厅,Cafe le Suquet,Cafe le Suquet,0,,7.0,7.0,7.0
+咖啡厅,Cafe Plaza Victoria,Cafe Plaza Victoria,0,,7.0,7.1,7.0
+咖啡厅,Cafe Pedregal,Cafe Pedregal,0,,7.0,7.1,7.0
+咖啡厅,Cafe Expresso,Cafe Expresso,0,,7.0,6.7,7.0
+咖啡厅,Cafe Rendebu,Cafe Rendebu,0,,7.1,7.1,7.1
+咖啡厅,Costa Nazca,Costa Nazca,0,,7.1,7.1,6.8
+咖啡厅,Costa Verde,Costa Verde,0,,7.0,7.0,6.9
+咖啡厅,Cafe Escondido,Cafe Escondido,0,,6.8,7.1,6.8
+咖啡厅,Cafe El Biografo,Cafe El Biografo,0,,6.8,6.8,7.2
+咖啡厅,Cafe Melinka,Cafe Melinka,0,,6.8,6.8,7.1
+咖啡厅,Cafe del Museo,Cafe del Museo,0,,7.1,7.1,7.1
+咖啡厅,Bellas Artes Soho Tienda Cafe,Bellas Artes Soho Tienda Cafe,0,,7.0,7.0,7.0
+咖啡厅,Starclick Coffee,Starclick Coffee,0,,7.1,6.8,7.1
+咖啡厅,Sur Cafe,Sur Cafe,0,,7.0,7.1,7.0
+咖啡厅,Cafe Montt,Cafe Montt,0,,6.9,6.9,6.9
+咖啡厅,La Momo,La Momo,0,,7.0,7.0,7.0
+咖啡厅,Cafe Negro,Cafe Negro,0,,6.9,6.9,6.9
+咖啡厅,Santa Kofein Coffee House,Santa Kofein Coffee House,0,,7.0,7.1,7.1
+咖啡厅,The Coffee Club,The Coffee Club,0,,7.1,7.1,7.1
+咖啡厅,Lucca Cafe,Lucca Cafe,0,,7.0,7.0,7.0
+咖啡厅,The Coffee Factory,The Coffee Factory,0,,7.0,7.0,7.0
+咖啡厅,Cafeteria Musetti,Cafeteria Musetti,0,,7.0,6.9,7.0
+咖啡厅,Cafe Melba,Cafe Melba,0,,7.2,7.2,7.2
+咖啡厅,Sport Cafe,Sport Cafe,0,,7.2,7.2,7.2
+咖啡厅,The Crepe Cafe,The Crepe Cafe,0,,7.0,7.0,7.0
+咖啡厅,Lizarran,Lizarran,0,,6.8,7.2,7.2
+面包甜点,Tasty Beat,Tasty Beat,0,,7.0,7.0,7.0
+酒吧,Flannery's irish geo pub,Flannery's irish geo pub,0,,7.2,7.2,7.2
+酒吧,"Fiddlers Irish Bar, Santiago","Fiddlers Irish Bar, Santiago",0,,7.1,7.1,7.1
+酒吧,Bar Restaurant de la Union,Bar Restaurant de la Union,0,,7.1,7.1,7.1
+酒吧,Bar Flamingo,Bar Flamingo,0,,7.1,7.1,7.1
+酒吧,Surreal Resto Bar,Surreal Resto Bar,0,,7.0,7.0,7.0
+酒吧,Vicius pub,Vicius pub,0,,6.9,6.9,6.9
+酒吧,Park Club Piso 17,Park Club Piso 17,0,,6.9,6.9,6.9
+酒吧,Bar Nacional,Bar Nacional,0,,7.2,7.2,7.2
+酒吧,Bar The Clinic,Bar The Clinic,0,,7.2,7.2,7.2
+酒吧,La Table Rouge Restaurant and Bar,La Table Rouge Restaurant and Bar,0,,7.1,7.1,7.1
+酒吧,Bar Sindicato,Bar Sindicato,0,,7.0,7.0,7.0
+酒吧,Maldito Bar,Maldito Bar,0,,7.0,7.0,7.0
+酒吧,Pacto Arte Bar,Pacto Arte Bar,0,,7.0,7.1,7.1
+酒吧,Bar Sin Nombre,Bar Sin Nombre,0,,7.0,6.9,6.9
+酒吧,Xoco Por Ti - Chocolate Bar,Xoco Por Ti - Chocolate Bar,0,,7.2,7.2,7.2
+酒吧,Bar de Rene,Bar de Rene,0,,7.2,7.2,7.2
+酒吧,St. Patrick's Day Irish Pub Restobar,St. Patrick's Day Irish Pub Restobar,0,,7.1,6.8,6.8
+酒吧,Bar Don Rodrigo,Bar Don Rodrigo,0,,7.0,7.0,7.1
+酒吧,Magno Club,Magno Club,0,,6.9,6.9,7.0
+酒吧,Eclipse Bar,Eclipse Bar,0,,7.0,7.0,7.0
+酒吧,Dolores Pizza and Bar,Dolores Pizza and Bar,0,,7.2,7.2,7.2
+酒吧,Bar Minga,Bar Minga,0,,7.1,7.1,7.1
+酒吧,Bar Restaurant GOEMON,Bar Restaurant GOEMON,0,,7.1,7.1,7.1
+酒吧,Polluelo Amarillo Fingerfood Bar,Polluelo Amarillo Fingerfood Bar,0,,7.0,7.0,7.0
+酒吧,Arak Club Libanes,Arak Club Libanes,0,,6.7,6.9,6.9
+酒吧,The Black Rock Pub,The Black Rock Pub,0,,7.2,7.2,7.2
+酒吧,Terraza Isidora Beach Club,Terraza Isidora Beach Club,0,,7.5,7.1,7.1
+酒吧,Metropol Sandwich Bar,Metropol Sandwich Bar,0,,7.0,7.0,7.0
+酒吧,Phone Box Pub,Phone Box Pub,0,,6.8,6.8,7.1
+酒吧,Lighthouse,Lighthouse,0,,6.9,6.9,6.9
+酒吧,Kiri Club,Kiri Club,0,,6.7,6.7,6.7
+更多美食,Da Noi,Da Noi,0,,7.2,7.2,7.2
+更多美食,Da Dino,Da Dino,0,,7.2,7.2,7.2
+更多美食,Aqui esta Coco,Aqui esta Coco,0,,7.2,7.2,7.2
+更多美食,Mercado Central,Mercado Central,0,,7.2,7.2,6.8

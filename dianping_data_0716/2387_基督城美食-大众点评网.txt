@@ -1,0 +1,57 @@
+西餐,strawberry fare
+西餐,Lone Star
+西餐,The Running Bull
+西餐,Nando's
+西餐,Kohan Restaurant 湖畔
+西餐,Curry Time Indian Restaurant
+西餐,Argee Bhajee Indian Restaurant
+西餐,Dimitris Greek Food
+西餐,Coriander's InDian ResTaurAnt
+川菜,鄉约小馆
+中餐厅,统一茶餐厅
+中餐厅,潮州餐馆
+中餐厅,长城饭庄
+中餐厅,老地方中餐
+中餐厅,Noodle
+东南亚菜,Kohan Restaurant 湖畔
+东南亚菜,Myhanh Vietnamese Restaurant
+东南亚菜,Myhanh Vietnamese Restaurant
+东南亚菜,Hoon Hay Thai Restaurant
+东南亚菜,Hoon Hay泰国餐厅
+东南亚菜,Mayur Indian Restaurant
+东南亚菜,Coriander's InDian ResTaurAnt
+海鲜,BBQ
+日韩料理,Korean House
+咖啡厅,Number Eight
+咖啡厅,Espresso to go
+咖啡厅,Cosy Cafe
+酒吧,Buddha Stix Restaurant Bar
+酒吧,Bush Inn Tavern
+酒吧,CiBurb Bar
+酒吧,Darkroom Bar
+酒吧,Monteiths Brewery Bar
+酒吧,Revival Bar
+酒吧,Last Train To India
+酒吧,Sandridge Motel - Christchurch
+面包甜点,"Japan's Bakery, Japanpan (Yamada Bakery)"
+面包甜点,Wishbone
+面包甜点,La CourOnne
+面包甜点,The Catering Belle Ltd
+快餐,Botanic Gardens Cafe
+快餐,Nando's
+快餐,Gloria Jeans Coffees
+快餐,鄉约小馆
+快餐,The Lotus-Heart Cafe
+快餐,The Coffee Smiths
+快餐,Black Betty Cafe
+快餐,McDonald's - Riccarton Road
+快餐,Circa Coffee & Wares
+快餐,The Coffee Club
+快餐,The Make Cafe
+快餐,Wild Bean Cafe
+快餐,Coffee Culture
+快餐,Tasty Tucker Lunch Bar
+快餐,Cafe Euro by David Carrodus
+快餐,Fo Guang Shan Water Drop Cafe
+快餐,Vanilla Bean Cafe
+比萨,Sasha's Pizza

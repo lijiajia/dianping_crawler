@@ -1,0 +1,1112 @@
+西餐,Hurricane's Grill,Hurricane's Grill,225,黄金海岸其他,8.8,8.7,8.8
+西餐,Bavarian Haus Restaurant,Bavarian Haus Restaurant,277,黄金海岸其他,7.7,7.5,7.3
+西餐,Nonna’s SEAFOOD,Nonna’s SEAFOOD,0,,7.0,7.0,7.1
+西餐,Little Malaya Restaurant,Little Malaya Restaurant,0,黄金海岸其他,8.0,7.6,8.5
+西餐,Hellenika Restaurant,Hellenika Restaurant,0,黄金海岸其他,8.3,8.3,8.3
+西餐,Multi Asia Restaurant,Multi Asia Restaurant,0,黄金海岸其他,8.1,7.4,8.1
+西餐,Pancakes On The Rocks,Pancakes On The Rocks,0,黄金海岸其他,6.2,6.2,6.2
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,黄金海岸其他,7.1,7.1,7.1
+西餐,Domino's Pizza,Domino's Pizza,0,黄金海岸其他,7.0,7.0,7.0
+西餐,Chill on Tedder,Chill on Tedder,0,Main Beach,7.1,7.3,7.1
+西餐,Matador Tapas Bar西班牙餐厅,Matador Tapas Bar西班牙餐厅,0,黄金海岸其他,7.1,7.0,7.1
+西餐,Delikatessen,Delikatessen,0,黄金海岸其他,7.1,7.0,7.0
+西餐,Domino's Pizza,Domino's Pizza,0,黄金海岸其他,6.7,6.7,6.7
+西餐,Déjà View Restaurant,Déjà View Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Waves Restaurant,Waves Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Room 81 - Broadbeach Restaurant Dining,Room 81 - Broadbeach Restaurant Dining,0,黄金海岸其他,0.0,0.0,0.0
+西餐,La Strada Italian Restaurant,La Strada Italian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Al Fresco Italian Restaurant,Al Fresco Italian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Domino's Pizza Ashmore,Domino's Pizza Ashmore,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Opium,Opium,0,Broadbeach,0.0,0.0,0.0
+西餐,Helm Bar Surfers,Helm Bar Surfers,0,Surfers Paradise,0.0,0.0,0.0
+西餐,Milanos Gourmet Pizza & Pasta,Milanos Gourmet Pizza & Pasta,0,Surfers Paradise,0.0,0.0,0.0
+西餐,Domino's Pizza Westfield Helensvale,Domino's Pizza Westfield Helensvale,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Mama Roma Italian Restaurant,Mama Roma Italian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Isobar Gourmet Pizza Kitchen,Isobar Gourmet Pizza Kitchen,0,黄金海岸其他,0.0,0.0,0.0
+西餐,La Paella Spanish Restaurant,La Paella Spanish Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,River Gardens Restaurant,River Gardens Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Alora Restaurant,Alora Restaurant,0,,0.0,0.0,0.0
+西餐,Domino's Pizza,Domino's Pizza,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Sombreros Mexican Restaurant,Sombreros Mexican Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,The Godfather Pizza,The Godfather Pizza,0,,0.0,0.0,0.0
+西餐,Pancakes On The Rocks,Pancakes On The Rocks,0,黄金海岸其他,0.0,0.0,0.0
+西餐,"Bada-Bing Pizza, Pasta & Ribs","Bada-Bing Pizza, Pasta & Ribs",0,黄金海岸其他,0.0,0.0,0.0
+西餐,Absynthe Restaurant,Absynthe Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Pacific Pines,Pizza Capers Pacific Pines,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Miami,Pizza Capers Miami,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Gourmet Pizza & Pasta Miami,Gourmet Pizza & Pasta Miami,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Earth-N-Sea Pizza & Pasta,Earth-N-Sea Pizza & Pasta,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Papa Georges Pizza Bar,Papa Georges Pizza Bar,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Dracula's Cabaret Restaurant,Dracula's Cabaret Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Domino's Pizza,Domino's Pizza,0,黄金海岸其他,0.0,0.0,0.0
+西餐,DIVA Tea and Coffee House,DIVA Tea and Coffee House,0,Main Beach,0.0,0.0,0.0
+西餐,RainBow Bay,RainBow Bay,0,,0.0,0.0,0.0
+西餐,Sunset Waterfront Grill,Sunset Waterfront Grill,0,Main Beach,0.0,0.0,0.0
+西餐,Camelot,Camelot,0,Ashmore,0.0,0.0,0.0
+西餐,Hotel Cbd,Hotel Cbd,0,,0.0,0.0,0.0
+西餐,Trader Dukes - Hotel Pacific,Trader Dukes - Hotel Pacific,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Dog & Parrot Tavern,Dog & Parrot Tavern,0,,0.0,0.0,0.0
+西餐,Chickery Chick,Chickery Chick,0,Surfers Paradise,0.0,0.0,0.0
+西餐,Domino's Pizza Robina,Domino's Pizza Robina,0,黄金海岸其他,0.0,0.0,0.0
+西餐,India @ Q Indian Restaurant,India @ Q Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Domino's Pizza,Domino's Pizza,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Santa Lucia,Santa Lucia,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Ashmore,Pizza Capers Ashmore,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Artie's Woodfire Pizza,Artie's Woodfire Pizza,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Mondo Pizza & Pasta Bar,Mondo Pizza & Pasta Bar,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Mamma Mia Italian Restaurant,Mamma Mia Italian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,RiZKay Restaurant,RiZKay Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,The Ducks Nuts Restaurant,The Ducks Nuts Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,黄金海岸其他,0.0,0.0,0.0
+西餐,India Gate Indian Restaurant,India Gate Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,La Gitara Restaurant,La Gitara Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Sher-E-Punjab Indian Restaurant,Sher-E-Punjab Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Nicolini's Italian Restaurant,Nicolini's Italian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Domino's Pizza Pacific Pines,Domino's Pizza Pacific Pines,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Restaurant 22,Restaurant 22,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pancho's Mexican Restaurant,Pancho's Mexican Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Bella Donna Italian Restaurant,Bella Donna Italian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Robina,Pizza Capers Robina,0,黄金海岸其他,0.0,0.0,0.0
+西餐,On3 Restaurant,On3 Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Curry Muncher India Indian Restaurant,Curry Muncher India Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Domino's Pizza Burleigh Heads,Domino's Pizza Burleigh Heads,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pagliacci Italian Restaurant,Pagliacci Italian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Sampaguita Restaurant,Sampaguita Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Tian Ran Vegetarian Restaurant,Tian Ran Vegetarian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Biggera Waters,Pizza Capers Biggera Waters,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Squisito Restaurant,Squisito Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Jimmy's Kitchen Take Away Restaurant,Jimmy's Kitchen Take Away Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pasha's Turkish Restaurant,Pasha's Turkish Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Sizzler,Sizzler,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Giudici's Pizza Bar,Giudici's Pizza Bar,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers,Pizza Capers,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pickled Cactus Mexican Restaurant,Pickled Cactus Mexican Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Grumpys River Inn Restaurant,Grumpys River Inn Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pronto Pizza Pasta & Ribs,Pronto Pizza Pasta & Ribs,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Kirra,Pizza Capers Kirra,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Jungle Cats Family Fun Restaurant,Jungle Cats Family Fun Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Easy House Vegetarian Restaurant,Easy House Vegetarian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Curry Muncher Indian Restaurant,Curry Muncher Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Ingleside Cottage Restaurant,Ingleside Cottage Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Volare Restaurant Broadbeach,Volare Restaurant Broadbeach,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Mermaid Waters,Pizza Capers Mermaid Waters,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Kyung-Bok-Goong Restaurant,Kyung-Bok-Goong Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Ashiana Indian Restaurant,Ashiana Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Danny's Family Restaurant,Danny's Family Restaurant,0,,0.0,0.0,0.0
+西餐,Pizza Capers Mudgeeraba,Pizza Capers Mudgeeraba,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Camelot Gourmet Pizza,Camelot Gourmet Pizza,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Mirrors Restaurant,Mirrors Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Lola's Restaurant,Lola's Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Paddock Bakery,Paddock Bakery,0,Miami,0.0,0.0,0.0
+西餐,Canteen Kitchen,Canteen Kitchen,0,Burleigh Heads,0.0,0.0,0.0
+西餐,Palms Restaurant,Palms Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Vecchia Roma Italian Restaurant,Vecchia Roma Italian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Southport,Pizza Capers Southport,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Sinbad's Restaurant,Sinbad's Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Santino's Restaurant Surfers Paradise,Santino's Restaurant Surfers Paradise,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Milan Restaurant On Main,Milan Restaurant On Main,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Raja Rani Restaurant,Raja Rani Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,O Sushi Restaurant Coolangatta,O Sushi Restaurant Coolangatta,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Napoli Waters Pizza & Pasta,Napoli Waters Pizza & Pasta,0,黄金海岸其他,0.0,0.0,0.0
+西餐,All India Taste Restaurant,All India Taste Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Domino's Pizza Tweed Heads,Domino's Pizza Tweed Heads,0,,0.0,0.0,0.0
+西餐,Cazzy's Restaurant,Cazzy's Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Allure on Currumbin Restaurant,Allure on Currumbin Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Luna Rossa Italian Restaurant,Luna Rossa Italian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,黄金海岸其他,0.0,0.0,0.0
+西餐,indian restaurant sai tandoori main beach,indian restaurant sai tandoori main beach,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Bombay Masala Indian Restaurant Nerang,Bombay Masala Indian Restaurant Nerang,0,黄金海岸其他,0.0,0.0,0.0
+西餐,The Tandoori Place Indian Restaurant,The Tandoori Place Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,La Piazza Waterfront Restaurant,La Piazza Waterfront Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Senza Nome Italian Restaurant,Senza Nome Italian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Bread n Butter Restaurant,Bread n Butter Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Mumtaj Indian Restaurant,Mumtaj Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Base Cabaret Restaurant,Base Cabaret Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Benowa,Pizza Capers Benowa,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Sue's Restaurant,Sue's Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Crave Restaurant,Crave Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Lambar Pizza,Lambar Pizza,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Hut,Pizza Hut,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pasta Mia,Pasta Mia,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Country Chicken Southport Restaurant,Country Chicken Southport Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,The Singapore Merlion Restaurant,The Singapore Merlion Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Shah-Jahan Indian Restaurant,Shah-Jahan Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Kahani Indian Restaurant,Kahani Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Nerang,Pizza Capers Nerang,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Verandah Restaurant,Verandah Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Gianolla's Pizza,Gianolla's Pizza,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Neptune Pizza,Neptune Pizza,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Fresh,Pizza Fresh,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Gypsy's Pizza Pasta & Ribs,Gypsy's Pizza Pasta & Ribs,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Marina Mazzat Restaurant,Marina Mazzat Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Kampung Malay Restaurant,Kampung Malay Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Liquid Amber Restaurant,Liquid Amber Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Provincial Restaurant,Provincial Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Michael's Restaurant,Michael's Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Arundel,Pizza Capers Arundel,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Bears Den Restaurant,Bears Den Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Buzzys Restaurant,Buzzys Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Tandoori place nerang -indian restaurant,Tandoori place nerang -indian restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Capers Palm Beach,Pizza Capers Palm Beach,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Basilico Restaurant,Basilico Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Cittadella,Pizza Cittadella,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Crave Restaurant @ The Coolangatta Hotel,Crave Restaurant @ The Coolangatta Hotel,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Kohinoor Indian Restaurant,Kohinoor Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Anand Sagar Indian Restaurant Nerang,Anand Sagar Indian Restaurant Nerang,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Riviera Italian Restaurant,Riviera Italian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,The Green Door Restaurant,The Green Door Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Little Indian Restaurant,Little Indian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Kampung Malay Restaurant,Kampung Malay Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,The Shoreline Restaurant,The Shoreline Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,The Melrose Restaurant,The Melrose Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Domino's Pizza Nerang,Domino's Pizza Nerang,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Rail Express,Pizza Rail Express,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Trader Dukes Restaurant,Trader Dukes Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Evergreen Pavilion Restaurant,Evergreen Pavilion Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Pizza Botticelli,Pizza Botticelli,0,黄金海岸其他,0.0,0.0,0.0
+西餐,BJ's Restaurant,BJ's Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+西餐,Salzar,Salzar,0,Ashmore,0.0,0.0,0.0
+西餐,Pizza Capers Palm Beach,Pizza Capers Palm Beach,0,,0.0,0.0,0.0
+西餐,Cucina Mia,Cucina Mia,0,,0.0,0.0,0.0
+西餐,Poseidon Restaurant,Poseidon Restaurant,0,,0.0,0.0,0.0
+西餐,Pizza Capers Nerang,Pizza Capers Nerang,0,,0.0,0.0,0.0
+西餐,Pizza Capers Upper Coomera,Pizza Capers Upper Coomera,0,,0.0,0.0,0.0
+中餐厅,Legends Chinese Seafood Restaurant,Legends Chinese Seafood Restaurant,0,黄金海岸其他,7.7,7.8,7.3
+中餐厅,Top One,Top One,0,黄金海岸其他,6.9,6.9,6.9
+中餐厅,天宝鱼翅海鲜酒家,天宝鱼翅海鲜酒家,0,,7.3,7.3,6.7
+中餐厅,Mountain Top,Mountain Top,0,黄金海岸其他,7.6,7.6,7.6
+中餐厅,Asian Court Chinese Restaurant,Asian Court Chinese Restaurant,0,黄金海岸其他,7.0,6.7,6.7
+中餐厅,老中国&nbsp;Old&nbsp;China&nbsp;Bar&Restaurant,老中国&nbsp;Old&nbsp;China&nbsp;Bar&Restaurant,0,Surfers Paradise,8.4,8.4,8.4
+中餐厅,CHINA HOUSE,CHINA HOUSE,0,,6.2,6.1,6.7
+中餐厅,"Feng Shui Chinese Restaurant, Gold Coast","Feng Shui Chinese Restaurant, Gold Coast",0,黄金海岸其他,7.3,6.8,6.8
+中餐厅,CHENG’S CHINA BISTRO,CHENG’S CHINA BISTRO,0,Surfers Paradise,7.0,6.7,6.7
+中餐厅,Giant Chemist Harbour Town,Giant Chemist Harbour Town,0,,6.7,6.9,6.7
+中餐厅,San Hoi Chinese Restaurant,San Hoi Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Golden Fortune Chinese Restaurant,Golden Fortune Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,龙嘉宾 Asian Court,龙嘉宾 Asian Court,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Oriental Chinese Restaurant,Oriental Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Thea Mae Chinese Restaurant,Thea Mae Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Lucky Place Chinese & Thai Restaurant,Lucky Place Chinese & Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Victor's Chinese Restaurant & Take Away,Victor's Chinese Restaurant & Take Away,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Ocean Seafood Chinese & Malaysian Restaurant,Ocean Seafood Chinese & Malaysian Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Harbin Chinese Restaurant,Harbin Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Dragon Palace Chinese Restaurant,Dragon Palace Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Golden Taste Chinese Cuisine,Golden Taste Chinese Cuisine,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,5 Spices Chinese Takeaway,5 Spices Chinese Takeaway,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Springfield Chinese Restaurant,Springfield Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Dragon Bowl BYO Chinese Restaurant,Dragon Bowl BYO Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Parkwood Chinese Restaurant,Parkwood Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Palm Garden Chinese Restaurant,Palm Garden Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Orchid Inn Chinese Restaurant,Orchid Inn Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Hing Chinese Restaurant,Hing Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Malaysia Menu Chinese Restraurnt,Malaysia Menu Chinese Restraurnt,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Enjoy Court Chinese Restaurant,Enjoy Court Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Peking Duck Chinese Restaurant,Peking Duck Chinese Restaurant,0,,0.0,0.0,0.0
+中餐厅,Good Choice Chinese Restaurant,Good Choice Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Jolly Chinaman Chinese Restaurant,Jolly Chinaman Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Springfield Chinese Restaurant,Springfield Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,龙家宾,龙家宾,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Jasmine BYO Chinese Restaurant,Jasmine BYO Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Hing Li Chinese Restaurant BYO,Hing Li Chinese Restaurant BYO,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Highland Court Chinese Restaurant,Highland Court Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Ming Court Chinese,Ming Court Chinese,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Kilun Chinese Restaurant,Kilun Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,King Po Chinese Restaurant,King Po Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Shang Court Chinese Restaurant,Shang Court Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Lucky House Chinese Restaurant,Lucky House Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Jimmy's Kitchen,Jimmy's Kitchen,0,Broadbeach,0.0,0.0,0.0
+中餐厅,Chinese Smorgasbord,Chinese Smorgasbord,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Xin Ze Chinese Cafe,Xin Ze Chinese Cafe,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Chef's Cuisine Chinese Restaurant,Chef's Cuisine Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Jin-Mar Chinese Restaurant,Jin-Mar Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Golden Pine Chinese Restaurant,Golden Pine Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Palm Beach Chinese Restaurant,Palm Beach Chinese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,My Place Chinese & Malaysian,My Place Chinese & Malaysian,0,黄金海岸其他,0.0,0.0,0.0
+中餐厅,Nelly's Chinese Kitchen,Nelly's Chinese Kitchen,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Thai Silom,Thai Silom,0,黄金海岸其他,7.3,7.3,7.3
+东南亚菜,Beer Thai Garden Restaurant,Beer Thai Garden Restaurant,0,黄金海岸其他,6.7,7.4,6.7
+东南亚菜,ThaiThai on Broadbeach Restaurant,ThaiThai on Broadbeach Restaurant,0,黄金海岸其他,6.9,7.0,7.1
+东南亚菜,Green Papaya Thai Kitchen,Green Papaya Thai Kitchen,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Oriental Hut Thai Restaurant,Oriental Hut Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Thai Eatery,Thai Eatery,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Pho Vietnam,Pho Vietnam,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Lime Leaf Thai,Lime Leaf Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Boa Thai,Boa Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Suk Hum Vit Thai,Suk Hum Vit Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Benowa Thai,Benowa Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Wasdee Surfers Thai Restaurant,Wasdee Surfers Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Taj Palace,Taj Palace,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Belvedere Thai @ Possum's Garden,Belvedere Thai @ Possum's Garden,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Chaopraya Thai Restaurant,Chaopraya Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Talle Thai Restaurant,Talle Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Im Thai Food,Im Thai Food,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Sukhothai Kitchen,Sukhothai Kitchen,0,,0.0,0.0,0.0
+东南亚菜,Siam Orchid Thai Burleigh,Siam Orchid Thai Burleigh,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Bangkok Thai Restaurant on Mermaid,Bangkok Thai Restaurant on Mermaid,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Baan Pong Thai Restaurant,Baan Pong Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Simply Thai,Simply Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Kin Kao Thai Restaurant/Take Away,Kin Kao Thai Restaurant/Take Away,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Currumbin Fair Thai Restaurant,Currumbin Fair Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Bangkok Square Thai Restaurant,Bangkok Square Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Warunee Thai Restaurant,Warunee Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Bangkok Thai,Bangkok Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Carat Thai,Carat Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Chiangmai Thai Restaurant,Chiangmai Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Pacific Pines Tuk Tuk Thai Bistro,Pacific Pines Tuk Tuk Thai Bistro,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Lemongrass Thai,Lemongrass Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Jitlada Thai,Jitlada Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Thai Magik,Thai Magik,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Sunshine Thai Restaurant,Sunshine Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Thai Ruby Restaurant,Thai Ruby Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Thai Lotus Restaurant,Thai Lotus Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Yoki Thai Restaurant,Yoki Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Worongary Thai,Worongary Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Tuk Tuk Thai,Tuk Tuk Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Simply Thai,Simply Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Thai Lanna Restaurant,Thai Lanna Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Thai Coola Restaurant,Thai Coola Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Thana Thai,Thana Thai,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Sala Thai Restaurant,Sala Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Thai Mudgee,Thai Mudgee,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Mai Thai Main Beach,Mai Thai Main Beach,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Taste of Nature,Taste of Nature,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Nerangthai Restaurant,Nerangthai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Wasdee Carrara Thai Restaurant,Wasdee Carrara Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Mai Thai Southport,Mai Thai Southport,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Silvers Place Thai Restaurant,Silvers Place Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Maeabb Thai Restaurant,Maeabb Thai Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Thai on the Hill,Thai on the Hill,0,黄金海岸其他,0.0,0.0,0.0
+东南亚菜,Jitlada Thai Cuisine,Jitlada Thai Cuisine,0,,0.0,0.0,0.0
+海鲜,黄金渔港,黄金渔港,0,Main Beach,8.6,8.4,8.3
+海鲜,Yellowfin Seafood Restaurant,Yellowfin Seafood Restaurant,0,黄金海岸其他,7.7,7.7,7.9
+海鲜,Seafood Empire,Seafood Empire,0,黄金海岸其他,6.7,6.4,6.4
+海鲜,太湖海鲜酒家,太湖海鲜酒家,0,,6.5,6.5,6.5
+海鲜,Ashmore Road Seafood & Steakhouse,Ashmore Road Seafood & Steakhouse,0,黄金海岸其他,7.4,7.0,7.0
+海鲜,Four Winds Seafood and Asian Buffet,Four Winds Seafood and Asian Buffet,0,黄金海岸其他,5.9,5.9,5.9
+海鲜,Patio Seafood Buffet Restaurant,Patio Seafood Buffet Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Seafood on the Beach,Seafood on the Beach,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Georges Steak & Seafood Restaurant,Georges Steak & Seafood Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Max Seafood Restaurant,Max Seafood Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,D'Oyles Seafood & Fine Cuisine,D'Oyles Seafood & Fine Cuisine,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Imperial Oysters & Seafood,Imperial Oysters & Seafood,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,P.K.G. Seafood Wholesale,P.K.G. Seafood Wholesale,0,,0.0,0.0,0.0
+海鲜,Wi-Mels Seafood,Wi-Mels Seafood,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Some N Fishy Seafood,Some N Fishy Seafood,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,George's Paragon Seafood Restaurant,George's Paragon Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Grumpy's Wharf Seafood Restaurant,Grumpy's Wharf Seafood Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,King Of Kings Seafood Restaurant,King Of Kings Seafood Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Reef Seafood and Sushi,Reef Seafood and Sushi,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Bugzies Seafood Restaurant,Bugzies Seafood Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Benowa Gardens Seafoods,Benowa Gardens Seafoods,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Hot Stone Steak & Seafood,Hot Stone Steak & Seafood,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Ocean Trader Seafood,Ocean Trader Seafood,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Grumpy's Barefoot Bar • Steak & Seafood Grill,Grumpy's Barefoot Bar • Steak & Seafood Grill,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,"Palm Beach Chickens, Seafood & Roast","Palm Beach Chickens, Seafood & Roast",0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Mermaid Seafood,Mermaid Seafood,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Trawler Seafood Restaurant,Trawler Seafood Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Golden Legends Malaysian Seafood Restaurant,Golden Legends Malaysian Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Omeros Brothers,Omeros Brothers,0,,0.0,0.0,0.0
+海鲜,Marlin Seafood,Marlin Seafood,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Drift Seafood & Bar,Drift Seafood & Bar,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Alegria Tapas & Seafood Bar,Alegria Tapas & Seafood Bar,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Omeros Brothers Seafood Restaurant,Omeros Brothers Seafood Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Peters Wharf Seafood Resteraunt,Peters Wharf Seafood Resteraunt,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Cooli Steak & Seafood Restaurant,Cooli Steak & Seafood Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Captain Hooks Seafood,Captain Hooks Seafood,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Loders Creek Seafood,Loders Creek Seafood,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Seafood Direct,Seafood Direct,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Harley's Seafood Takeaway,Harley's Seafood Takeaway,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Arundel Seafood & Carvery,Arundel Seafood & Carvery,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Wilkinson Wholesale Seafood,Wilkinson Wholesale Seafood,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Coastal Seafoods,Coastal Seafoods,0,黄金海岸其他,0.0,0.0,0.0
+海鲜,Captain Hooks Seafood,Captain Hooks Seafood,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,You Japanese Restaurant,You Japanese Restaurant,0,黄金海岸其他,8.3,8.4,8.4
+日韩料理,博多拉面,博多拉面,0,,7.4,7.3,7.4
+日韩料理,Mikado Japanese Restaurant,Mikado Japanese Restaurant,0,黄金海岸其他,6.9,6.9,6.7
+日韩料理,New Seoul Korean Restaurant,New Seoul Korean Restaurant,0,黄金海岸其他,7.0,6.9,7.0
+日韩料理,Hibari Japanese Restaurant,Hibari Japanese Restaurant,0,黄金海岸其他,6.9,6.9,6.9
+日韩料理,Yamagen Japanese Restaurant,Yamagen Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Maruya Japanese Restaurant,Maruya Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Benihana Japanese Steakhouse,Benihana Japanese Steakhouse,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Sushi Train,Sushi Train,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Ten Japanese Restaurant,Ten Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Cha Cha Japanese Restaurant,Cha Cha Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Sushi Train,Sushi Train,0,,0.0,0.0,0.0
+日韩料理,Yuuga Japanese Restaurant,Yuuga Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Donto Sapporo Japanese Restaurant,Donto Sapporo Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Sushi Train,Sushi Train,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Sushi Train,Sushi Train,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Shogun Japanese Karaoke Restaurant,Shogun Japanese Karaoke Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Hatsuhana Japanese Restaurant,Hatsuhana Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Korean Charcoal BBQ Restaurant - Mermaid Beach,Korean Charcoal BBQ Restaurant - Mermaid Beach,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Paradise Korean Charcoal Barbeque,Paradise Korean Charcoal Barbeque,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Donadona Korean Restaurant,Donadona Korean Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,O-Sushi Japanese Restaurant Broadbeach Gold Coast,O-Sushi Japanese Restaurant Broadbeach Gold Coast,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,osaka,osaka,0,,0.0,0.0,0.0
+日韩料理,Sushi Train,Sushi Train,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Cheers Japanese Family Restaurant,Cheers Japanese Family Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Itoshin Japanese Restaurant,Itoshin Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Sushi Train,Sushi Train,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Hanabi Japanese Restaurant,Hanabi Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Hachi Japanese Restaurant,Hachi Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Sushi Train,Sushi Train,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Sumo Japanese Takeaway Restaurant,Sumo Japanese Takeaway Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Mydo Sushi - Japanese Restaurant,Mydo Sushi - Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Tokyo Kitchen,Tokyo Kitchen,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Sushi Train,Sushi Train,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Manna Korean Restaurant,Manna Korean Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Daiki Japanese Restaurant,Daiki Japanese Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Sushi Train,Sushi Train,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Sushi Train,Sushi Train,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Sushi Train,Sushi Train,0,黄金海岸其他,0.0,0.0,0.0
+日韩料理,Hatsuhana,Hatsuhana,0,Main Beach,0.0,0.0,0.0
+粤菜,Focus Chinese Seafood ResTaurAnt,Focus Chinese Seafood ResTaurAnt,0,,7.0,7.2,6.7
+自助餐,Fables Seafood,Fables Seafood,0,Broadbeach,0.0,0.0,0.0
+自助餐,Four WinDs RevOlving,Four WinDs RevOlving,0,黄金海岸北/布罗德沃特,0.0,0.0,0.0
+自助餐,Buffet Restaurant,Buffet Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+自助餐,IL Barocco,IL Barocco,0,黄金海岸其他,0.0,0.0,0.0
+自助餐,Flower Garden Chinese Buffet Restaurant,Flower Garden Chinese Buffet Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+自助餐,KalinDa,KalinDa,0,,0.0,0.0,0.0
+自助餐,Terraces Seafood Buffet ResTaurAnt,Terraces Seafood Buffet ResTaurAnt,0,Main Beach,0.0,0.0,0.0
+川菜,辣翻天中餐馆,辣翻天中餐馆,0,,0.0,0.0,0.0
+川菜,辣翻天中餐馆,辣翻天中餐馆,0,,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,黄金海岸其他,7.2,6.9,6.5
+咖啡厅,Max Brenner,Max Brenner,0,黄金海岸其他,7.4,7.2,7.4
+咖啡厅,Hard Rock Cafe Surfers Paradise,Hard Rock Cafe Surfers Paradise,0,黄金海岸其他,7.0,7.0,7.0
+咖啡厅,Ilike Coffee,Ilike Coffee,0,黄金海岸其他,7.1,7.1,7.1
+咖啡厅,Nat's Coffee,Nat's Coffee,0,,7.5,7.5,7.5
+咖啡厅,Rick's Cafe,Rick's Cafe,0,,8.4,8.4,8.4
+咖啡厅,Cre8ive Coffee,Cre8ive Coffee,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Amore Coffee with Passion,Amore Coffee with Passion,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,3 Beans,3 Beans,0,Broadbeach,0.0,0.0,0.0
+咖啡厅,Charlie's Coffee Shop & Restaurant,Charlie's Coffee Shop & Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,DIVA Tea and Coffee House,DIVA Tea and Coffee House,0,Main Beach,0.0,0.0,0.0
+咖啡厅,Sunset Waterfront Grill,Sunset Waterfront Grill,0,Main Beach,0.0,0.0,0.0
+咖啡厅,Camelot,Camelot,0,Ashmore,0.0,0.0,0.0
+咖啡厅,Eagle Heights Hotel,Eagle Heights Hotel,0,,0.0,0.0,0.0
+咖啡厅,Memory Lane Antiques,Memory Lane Antiques,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Salsa's Fresh Mex Grill,Salsa's Fresh Mex Grill,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Squires Loft Robina,Squires Loft Robina,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Essentially Coffee,Essentially Coffee,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Max Brenner Chocolate Bar,Max Brenner Chocolate Bar,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,The Old Danube European cake & Coffee Shop,The Old Danube European cake & Coffee Shop,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,edBaker,edBaker,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Burleigh Golf Club,Burleigh Golf Club,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Cafe Esplanade,Cafe Esplanade,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Regal Coffee Company,Regal Coffee Company,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Warblers In the Mist Coffeebean & Teahouse,Warblers In the Mist Coffeebean & Teahouse,0,,0.0,0.0,0.0
+咖啡厅,Steaming Bean Coffee Company,Steaming Bean Coffee Company,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Coffee Espresso,Coffee Espresso,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Coffee Roasters Australia,Coffee Roasters Australia,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Images Coffee Shop,Images Coffee Shop,0,,0.0,0.0,0.0
+咖啡厅,Coast Coffee Restaurant Bar,Coast Coffee Restaurant Bar,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Fresh Chefs Foods,Fresh Chefs Foods,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Mocopan Coffee,Mocopan Coffee,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Coastal Fresh,Coastal Fresh,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Christine Corner,Christine Corner,0,黄金海岸其他,0.0,0.0,0.0
+咖啡厅,Campos,Campos,0,Bilinga Beach,0.0,0.0,0.0
+咖啡厅,Commune Cafe,Commune Cafe,0,Burleigh Heads,0.0,0.0,0.0
+酒吧,COSTA D'ORO Italian Restaurant & Pizzeria,COSTA D'ORO Italian Restaurant & Pizzeria,0,黄金海岸其他,8.3,8.1,8.1
+酒吧,Nando's Surfers Paradise,Nando's Surfers Paradise,0,黄金海岸其他,7.2,7.5,7.3
+酒吧,SkyPoint Observation Deck,SkyPoint Observation Deck,0,黄金海岸其他,7.5,8.3,7.3
+酒吧,Bistro Lamp,Bistro Lamp,0,黄金海岸其他,8.4,7.8,8.4
+酒吧,Black Coffee Lyrics,Black Coffee Lyrics,0,黄金海岸其他,8.3,8.4,8.4
+酒吧,Vapiano Soul,Vapiano Soul,0,黄金海岸其他,6.9,7.5,7.3
+酒吧,Koi Dining,Koi Dining,0,黄金海岸其他,8.5,8.5,8.5
+酒吧,Moo Moo The Wine Bar + Grill,Moo Moo The Wine Bar + Grill,0,黄金海岸其他,8.1,8.1,8.1
+酒吧,Surfers Sandbar,Surfers Sandbar,0,黄金海岸其他,7.3,7.3,6.8
+酒吧,Courthouse Hotel,Courthouse Hotel,0,黄金海岸其他,7.1,7.1,7.1
+酒吧,Surfers Paradise Surf Life Saving Club,Surfers Paradise Surf Life Saving Club,0,黄金海岸其他,7.1,7.1,7.1
+酒吧,Melbas On The Park,Melbas On The Park,0,黄金海岸其他,7.0,7.1,7.1
+酒吧,1two3 Mediterranean Dining & Lounge Bar,1two3 Mediterranean Dining & Lounge Bar,0,黄金海岸其他,7.0,7.0,7.1
+酒吧,Glass Dining and Lounge Bar,Glass Dining and Lounge Bar,0,黄金海岸其他,7.3,6.8,6.8
+酒吧,The Surf Club Kurrawa,The Surf Club Kurrawa,0,黄金海岸其他,6.9,6.9,6.9
+酒吧,Fisherman's Wharf Tavern,Fisherman's Wharf Tavern,0,黄金海岸其他,8.4,8.4,8.4
+酒吧,KooKoo Teppanyaki and Lounge Bar,KooKoo Teppanyaki and Lounge Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Red Rock Waterfront Bar & Grill,Red Rock Waterfront Bar & Grill,0,,0.0,0.0,0.0
+酒吧,Hollywood Showgirls,Hollywood Showgirls,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Broadbeach Tavern,Broadbeach Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Titanium Bar,Titanium Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Mexican Montezuma's Surfers Paradise,Mexican Montezuma's Surfers Paradise,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Sirocco Restaurant,Sirocco Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Vegas In Paradise,Vegas In Paradise,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Fisherman's Wharf Tavern,Fisherman's Wharf Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Crazy Fish Sushi Bar,Crazy Fish Sushi Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Elsewhere,Elsewhere,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Relish Restaurant,Relish Restaurant,0,Surfers Paradise,0.0,0.0,0.0
+酒吧,Seaduction,Seaduction,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Kitty O'Sheas,Kitty O'Sheas,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Crazy Horse Cabaret Restaurant & Bar,Crazy Horse Cabaret Restaurant & Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Blu Grotto Cafe,Blu Grotto Cafe,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,The Lost City,The Lost City,0,,0.0,0.0,0.0
+酒吧,Varsity Lakes Tavern,Varsity Lakes Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,R Restaurant | Bar,R Restaurant | Bar,0,,0.0,0.0,0.0
+酒吧,Atrium Bar,Atrium Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Shooters Superclub,Shooters Superclub,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Cafe Riviera - Restaurant and Bar - Gold Coast,Cafe Riviera - Restaurant and Bar - Gold Coast,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Toscani's Cafe Bar & Restaurant,Toscani's Cafe Bar & Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Chelos at Radisson Restaurant and Bar,Chelos at Radisson Restaurant and Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Dublin Docks Tavern,Dublin Docks Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Amalfi Bistro & Wine Bar,Amalfi Bistro & Wine Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Za'ba Tavern & Gaming,Za'ba Tavern & Gaming,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Waxy's Irish Pub,Waxy's Irish Pub,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Oz Pub Group,Oz Pub Group,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,A Cove Tavern,A Cove Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Outback Jacks Bar and Grill Mermaid Beach,Outback Jacks Bar and Grill Mermaid Beach,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Little Truffle Dining Room & Bar,Little Truffle Dining Room & Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Tune Up Bar & Karaoke Studios,Tune Up Bar & Karaoke Studios,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,BMD Northcliffe Surf Club,BMD Northcliffe Surf Club,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Athenia Restaurant,Athenia Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Firefly Churrascaria Grill,Firefly Churrascaria Grill,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Outback Jacks Bar & Grill,Outback Jacks Bar & Grill,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,O'Malleys on the Beach,O'Malleys on the Beach,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Elephant Rock Cafe,Elephant Rock Cafe,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Escape Bar & Club,Escape Bar & Club,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,The Beach Hotel,The Beach Hotel,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,StudiOZ,StudiOZ,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Highland Park Tavern,Highland Park Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Rainbow Bay S.L.S.C.,Rainbow Bay S.L.S.C.,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,The Lake,The Lake,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Celebrations Fisherman's Wharf - including TAB,Celebrations Fisherman's Wharf - including TAB,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Satin Lounge Bar & Restaurant,Satin Lounge Bar & Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,RSL Southport,RSL Southport,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,MT Brewery,MT Brewery,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Hotel CBD,Hotel CBD,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,South East Queensland Airport Transfers,South East Queensland Airport Transfers,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,BWS Burleigh Heads The Esplanade,BWS Burleigh Heads The Esplanade,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Currumbin Creek Tavern,Currumbin Creek Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Cocktail Party Hire,Cocktail Party Hire,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,The Temple Lounge Bar and Restaurant,The Temple Lounge Bar and Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Lonestar Tavern,Lonestar Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,The Burrito Bar Broadbeach,The Burrito Bar Broadbeach,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Saks Restaurant & Bar,Saks Restaurant & Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Kokonut Willys @ The Grand Hotel,Kokonut Willys @ The Grand Hotel,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Vie Bar & Restaurant,Vie Bar & Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Shuck Restaurant,Shuck Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Tonic on Chirn | Southport Bar & Restaurant,Tonic on Chirn | Southport Bar & Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Sea World Resort - the Lobby Lounge Bar,Sea World Resort - the Lobby Lounge Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Southern Cross Tavern,Southern Cross Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Fermented Grape Restaurant and Bar,Fermented Grape Restaurant and Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,360 Degree lounge bar,360 Degree lounge bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Gold Coast Turf Club,Gold Coast Turf Club,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Burleigh Leagues Club,Burleigh Leagues Club,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Back Page Sportsbar,Back Page Sportsbar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,RQ'S Tavern,RQ'S Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Commercial Hotel - Nerang,Commercial Hotel - Nerang,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Harris Data Systems,Harris Data Systems,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Amazing Wheelie Keg Party Hire,Amazing Wheelie Keg Party Hire,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Central Lounge Bar & Dining,Central Lounge Bar & Dining,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Avenue Restaurant and Saloon,Avenue Restaurant and Saloon,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,The Bourbon Bar,The Bourbon Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Options Tavern,Options Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Robina Tavern,Robina Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Jpops,Jpops,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Arundel Tavern,Arundel Tavern,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Marina Quays Tavern,Marina Quays Tavern,0,,0.0,0.0,0.0
+酒吧,Oxenford Tavern,Oxenford Tavern,0,,0.0,0.0,0.0
+酒吧,The Boathouse Tavern,The Boathouse Tavern,0,,0.0,0.0,0.0
+酒吧,Fox & Hounds,Fox & Hounds,0,,0.0,0.0,0.0
+酒吧,RainBow Bay,RainBow Bay,0,,0.0,0.0,0.0
+酒吧,Eagle Heights Hotel,Eagle Heights Hotel,0,,0.0,0.0,0.0
+酒吧,Hotel Cbd,Hotel Cbd,0,,0.0,0.0,0.0
+酒吧,Trader Dukes - Hotel Pacific,Trader Dukes - Hotel Pacific,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Dog & Parrot Tavern,Dog & Parrot Tavern,0,,0.0,0.0,0.0
+酒吧,La Porchetta Surfers Paradise,La Porchetta Surfers Paradise,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Mylk Bar,Mylk Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Sushi Bar,Sushi Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Nando's Surfers Paradise,Nando's Surfers Paradise,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Tallebudgera Surf Lifesaving Supporters Club,Tallebudgera Surf Lifesaving Supporters Club,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Palm Beach Currumbin Cricket Club,Palm Beach Currumbin Cricket Club,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Slurping Panda Noodle Bar,Slurping Panda Noodle Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Pink Poodle Bar and Restaurant,Pink Poodle Bar and Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Boheme Lounge Bar Dining,Boheme Lounge Bar Dining,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Paradise Point Bowls Club,Paradise Point Bowls Club,0,,0.0,0.0,0.0
+酒吧,Pointbreak Bar + Grill,Pointbreak Bar + Grill,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Burleigh Heads Mowbray Park Surf Life Saving Club,Burleigh Heads Mowbray Park Surf Life Saving Club,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Ocean Deck @ Rainbow Bay Surf Life Saving Club,Ocean Deck @ Rainbow Bay Surf Life Saving Club,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Zushi Sushi - Soul Surfers Paradise,Zushi Sushi - Soul Surfers Paradise,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Micky's Restaurant and Bar,Micky's Restaurant and Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Crazy Fish Sushi Bar,Crazy Fish Sushi Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Fuel Bar Restaurant,Fuel Bar Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Nuovo Lounge Bar,Nuovo Lounge Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Surfers Paradise RSL,Surfers Paradise RSL,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Currumbin Vikings Surf Life Saving Club,Currumbin Vikings Surf Life Saving Club,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Never Land Bar,Never Land Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Simply Fresh Snack Bar,Simply Fresh Snack Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Broadbeach Bowls Club,Broadbeach Bowls Club,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Creations Lounge Bar,Creations Lounge Bar,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Greenmount Beach Club,Greenmount Beach Club,0,黄金海岸其他,0.0,0.0,0.0
+酒吧,Tweed Heads Bowls Club,Tweed Heads Bowls Club,0,,0.0,0.0,0.0
+酒吧,Italo-Australian Club,Italo-Australian Club,0,黄金海岸其他,0.0,0.0,0.0
+小吃面食,西安名吃 黄金海岸店,西安名吃 黄金海岸店,0,Surfers Paradise,7.0,7.9,7.7
+面包甜点,PIE PACE饼屋,PIE PACE饼屋,0,,6.9,7.1,6.9
+面包甜点,Nobby's Magic Hot Bake,Nobby's Magic Hot Bake,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Sinfully Sweet Cupcakes,Sinfully Sweet Cupcakes,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Oriental Bakery,Oriental Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Muffin Break,Muffin Break,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Crestwood Bakery Deli,Crestwood Bakery Deli,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Brumby's Bakeries,Brumby's Bakeries,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Shadow's Pies & Cakes,Shadow's Pies & Cakes,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,3 Beans,3 Beans,0,Broadbeach,0.0,0.0,0.0
+面包甜点,The Loaf Bakery,The Loaf Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,The Cheesecake Shop,The Cheesecake Shop,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Waterways Bakery & Patisserie,Waterways Bakery & Patisserie,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Duvall's,Duvall's,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Brumby's Bakeries,Brumby's Bakeries,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Goldsteins,Goldsteins,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,The Cheesecake Shop,The Cheesecake Shop,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Goldsteins,Goldsteins,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Horners of Sorrento Bakery Patisserie,Horners of Sorrento Bakery Patisserie,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,B C's Bakery,B C's Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Muffin Break,Muffin Break,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Kirra Beach Bakery,Kirra Beach Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Big Dad's Pies,Big Dad's Pies,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Muffin Break,Muffin Break,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Bakers Delight,Bakers Delight,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Muffin Break,Muffin Break,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Goldsteins,Goldsteins,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Banora Bakery,Banora Bakery,0,,0.0,0.0,0.0
+面包甜点,Bakers Delight,Bakers Delight,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Goldsteins,Goldsteins,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Currumbin Fair Bakery,Currumbin Fair Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Cookie Man,Cookie Man,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Crustys,Crustys,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Wedding House Directory,Wedding House Directory,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Crusty Loaf Bakery,Crusty Loaf Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Bakers Club,Bakers Club,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Foster's Bakery,Foster's Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Goldsteins,Goldsteins,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Authentic Turkish BakeHouse,Authentic Turkish BakeHouse,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Muffin Break,Muffin Break,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,The Cheesecake shop,The Cheesecake shop,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Heaven Scent Int'l,Heaven Scent Int'l,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Goldsteins,Goldsteins,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Crustys,Crustys,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Malibu's Bakery & Cafe,Malibu's Bakery & Cafe,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Bakers Delight Coolangatta,Bakers Delight Coolangatta,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Sea Breeze Patisserie,Sea Breeze Patisserie,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Fine Pastry Factory,Fine Pastry Factory,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Taylor's Bakery,Taylor's Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Highland Park Hot Bread,Highland Park Hot Bread,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Lee's Cakes & Pastries,Lee's Cakes & Pastries,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Miami Hot Bread Shop,Miami Hot Bread Shop,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Gold Coast Bakeries,Gold Coast Bakeries,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Nordic Temptations,Nordic Temptations,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Lakeside Bakery,Lakeside Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Niecon Bakery,Niecon Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Busy Bee,Busy Bee,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Byron Bay Cookie Company,Byron Bay Cookie Company,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Coolangatta Pie Shop,Coolangatta Pie Shop,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Brumby's Bakeries,Brumby's Bakeries,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Mcleod's Bakery,Mcleod's Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Quinneys Pies,Quinneys Pies,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Walcrisco Waffle Bakers of Australia,Walcrisco Waffle Bakers of Australia,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,The Little Cupcake & Cookie Shop,The Little Cupcake & Cookie Shop,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Chirn Park Bake 'N' Cakes,Chirn Park Bake 'N' Cakes,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Cake Desire Gold Coast,Cake Desire Gold Coast,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Brumby's Bakeries,Brumby's Bakeries,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Rookie Cookie,Rookie Cookie,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Maurita Italian Bakery & Patisserie,Maurita Italian Bakery & Patisserie,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Pl Sweet Treasures Cake Toppers,Pl Sweet Treasures Cake Toppers,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Balanced Foods,Balanced Foods,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,The Bakehouse Cafe,The Bakehouse Cafe,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Main Beach Bakery,Main Beach Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Mudgeeraba Bakery,Mudgeeraba Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Brumby's Bakeries,Brumby's Bakeries,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Helensvale Bakery,Helensvale Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Cake My Day,Cake My Day,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,"Cakes Eleven, Cake Decorations Gold Coast","Cakes Eleven, Cake Decorations Gold Coast",0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Brumby's Bakeries,Brumby's Bakeries,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Muffin Break,Muffin Break,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Goldsteins,Goldsteins,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,My Bakery,My Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Marianne's Creative Cakes,Marianne's Creative Cakes,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Gumnut Bakery/Café,Gumnut Bakery/Café,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Cakes to Delight,Cakes to Delight,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Muffin Break,Muffin Break,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Montmartre French Patisserie,Montmartre French Patisserie,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Monty's Continental Bakery,Monty's Continental Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,The Old Village Bake House,The Old Village Bake House,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Robina Bakehouse,Robina Bakehouse,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Goldsteins,Goldsteins,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Lorraine Bakery,Lorraine Bakery,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Goldsteins,Goldsteins,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Cakes by Mark,Cakes by Mark,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Jacqui's Cakes By Design,Jacqui's Cakes By Design,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Goldsteins,Goldsteins,0,黄金海岸其他,0.0,0.0,0.0
+面包甜点,Sensationally Sweet Events,Sensationally Sweet Events,0,黄金海岸其他,0.0,0.0,0.0
+烧烤,Fireplace,Fireplace,0,Broadbeach,7.1,7.1,7.1
+日本料理,Mr Sushi,Mr Sushi,0,黄金海岸其他,0.0,0.0,0.0
+韩国料理,Seoul BBQ Korean restaurant,Seoul BBQ Korean restaurant,0,,5.9,5.8,5.9
+韩国料理,Sushi Maru,Sushi Maru,0,黄金海岸其他,0.0,0.0,0.0
+快餐,砂锅小馆,砂锅小馆,0,Surfers Paradise,8.7,8.6,8.4
+快餐,Zarraffa's Coffee - Australia Fair North,Zarraffa's Coffee - Australia Fair North,0,黄金海岸其他,7.8,7.8,7.8
+快餐,阳光川鲁美食,阳光川鲁美食,0,,6.3,6.2,7.1
+快餐,Sea Food & Pizza,Sea Food & Pizza,0,黄金海岸其他,7.9,7.9,7.9
+快餐,Hog's Breath Cafe,Hog's Breath Cafe,0,黄金海岸其他,7.5,7.5,8.3
+快餐,The Hub,The Hub,0,黄金海岸其他,7.0,7.2,7.0
+快餐,McDonald's Australia Fair,McDonald's Australia Fair,0,黄金海岸其他,6.9,6.9,7.0
+快餐,Sage Cafe Restaurant,Sage Cafe Restaurant,0,黄金海岸其他,6.7,6.9,6.7
+快餐,Q1 Beach Club Cafe,Q1 Beach Club Cafe,0,黄金海岸其他,6.3,7.3,6.8
+快餐,Gloria Jean's Coffees,Gloria Jean's Coffees,0,黄金海岸其他,7.4,7.4,7.4
+快餐,Noodle Box Gold Coast Airport,Noodle Box Gold Coast Airport,0,黄金海岸其他,6.7,6.7,6.7
+快餐,Subway® Restaurant,Subway® Restaurant,0,黄金海岸其他,8.4,8.4,8.4
+快餐,Cafe Bellago,Cafe Bellago,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Pacific Fair,McDonald's Pacific Fair,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Red Rock cafe Marine Village,Red Rock cafe Marine Village,0,,0.0,0.0,0.0
+快餐,Earth N Sea Pizza & Pasta Robina,Earth N Sea Pizza & Pasta Robina,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Little Mynx Cafe,Little Mynx Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Mokacino's Coffee House,Mokacino's Coffee House,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hog's Breath Cafe,Hog's Breath Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Open 25 Hours,Open 25 Hours,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Kathmandu,Cafe Kathmandu,0,Broadbeach,0.0,0.0,0.0
+快餐,Zarraffas's Coffee Crestwood,Zarraffas's Coffee Crestwood,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Chelles @ Chevron,Chelles @ Chevron,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's BP Coomera,McDonald's BP Coomera,0,,0.0,0.0,0.0
+快餐,Flames Gourmet Burgers,Flames Gourmet Burgers,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Jamaica Blue,Jamaica Blue,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Juicy Bits Cafe,Juicy Bits Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Paris Cafe Fashion,Paris Cafe Fashion,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hog's Breath Cafe,Hog's Breath Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,D'Lish,D'Lish,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Eagle Boys Pizza,Eagle Boys Pizza,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Coolangatta Internet Cafe,Coolangatta Internet Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Bus Stop Cafe,Bus Stop Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Java Junction,Java Junction,0,黄金海岸其他,0.0,0.0,0.0
+快餐,PJ's Deli,PJ's Deli,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Beaches Off Tedder,Beaches Off Tedder,0,Main Beach,0.0,0.0,0.0
+快餐,Luv A Coffee,Luv A Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hungry's Cafe,Hungry's Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Coffee On Short,Coffee On Short,0,黄金海岸其他,0.0,0.0,0.0
+快餐,A.M. Creative Catering,A.M. Creative Catering,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Caffe Revolucion,Caffe Revolucion,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Just Coffee Sales & Service,Just Coffee Sales & Service,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Julio's Italian Pizza & Pasta Cafe,Julio's Italian Pizza & Pasta Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Eagle Boys Pizza,Eagle Boys Pizza,0,黄金海岸其他,0.0,0.0,0.0
+快餐,A Country Garden Cafe,A Country Garden Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Azzuro Bar & Bistro,Cafe Azzuro Bar & Bistro,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Sanctuary,Cafe Sanctuary,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hi-Speed Internet Kiosks,Hi-Speed Internet Kiosks,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Merlo Coffee,Merlo Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Club Harbour Town GC,The Coffee Club Harbour Town GC,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Red Cafe & Bar,Red Cafe & Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Wildlife Cafe,The Wildlife Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Italianao Pizzaria Cafe,Italianao Pizzaria Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Harbourtown,McDonald's Harbourtown,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Birmos Bar & Cafe,Birmos Bar & Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Marina Mirage,McDonald's Marina Mirage,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Pizzacake Broadbeach,Pizzacake Broadbeach,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Salt Box Wine & Grill,Salt Box Wine & Grill,0,黄金海岸其他,0.0,0.0,0.0
+快餐,HiSpeed Internet Kiosks @ Showcase on the Beach,HiSpeed Internet Kiosks @ Showcase on the Beach,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Tweed Heads South,McDonald's Tweed Heads South,0,,0.0,0.0,0.0
+快餐,Baystar Express Car Wash Cafe,Baystar Express Car Wash Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Mb Cafe,Mb Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gingernut Cafe & Catering,Gingernut Cafe & Catering,0,黄金海岸其他,0.0,0.0,0.0
+快餐,PJ's Secret Garden Cafe,PJ's Secret Garden Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Blackboard Coffee,Blackboard Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Beach Club Cafe,Beach Club Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Couch Cafe,The Couch Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hungry Hippo's,Hungry Hippo's,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Genki Cafe,Genki Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Nami,Cafe Nami,0,黄金海岸其他,0.0,0.0,0.0
+快餐,3 W Cafe,3 W Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,MEC Cafe,MEC Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Esp,Cafe Esp,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Chateau Beachside Boardwalk Cafe,Chateau Beachside Boardwalk Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Ladies of Leisure High Tea,Ladies of Leisure High Tea,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cavill Park Coffee Shop,Cavill Park Coffee Shop,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Coffee Bug Express,Coffee Bug Express,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Le Petite Pantry,Le Petite Pantry,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Thyme on cavill,Thyme on cavill,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Club,The Coffee Club,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Thyme Cafe Bar,Thyme Cafe Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Connors Cafe,Connors Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Creole,Cafe Creole,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Patjaz,Cafe Patjaz,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe 50,Cafe 50,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zarraffa's Coffee Pacific Pines,Zarraffa's Coffee Pacific Pines,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Mustang Sallys Cafe Restaurant,Mustang Sallys Cafe Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Ona Coffee Coolangatta,Ona Coffee Coolangatta,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Donnas Cafe & Catering,Donnas Cafe & Catering,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Green Ant Cafe,The Green Ant Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Verdict Expresso,Verdict Expresso,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Star Garden Cafe,Star Garden Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Scooterini,Cafe Scooterini,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Arinda Internet,Arinda Internet,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Club Helensvale,Club Helensvale,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Crepe Cafe,The Crepe Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Duo Deli Cafe,Duo Deli Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Alfons,Cafe Alfons,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Lets Latte,Lets Latte,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Globe Cafe,Globe Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Uno,Cafe Uno,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Uno,Cafe Uno,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Mecca,Mecca,0,黄金海岸其他,0.0,0.0,0.0
+快餐,HiSpeed Internet Kiosks @ Robina Town Centre,HiSpeed Internet Kiosks @ Robina Town Centre,0,黄金海岸其他,0.0,0.0,0.0
+快餐,MBD Manolas Brother Delicatessens,MBD Manolas Brother Delicatessens,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Absolutely Fabulous Bar & Cafe,Absolutely Fabulous Bar & Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Coffee Shop Business Sales,Coffee Shop Business Sales,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Bella Mia Coffee House,Bella Mia Coffee House,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Mudgee Bah Espresso,Mudgee Bah Espresso,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Aussie Eatery Cafe,Aussie Eatery Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Sunset Bar & Grill,Sunset Bar & Grill,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Fresh Garden Cafe,Fresh Garden Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Premiato Coffee,Premiato Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Crystal Cottage,Crystal Cottage,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Campanile,Cafe Campanile,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Skinnydippers,Skinnydippers,0,Main Beach,0.0,0.0,0.0
+快餐,Cafe De Costa,Cafe De Costa,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Aromas Coffee,Aromas Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Bumbles Cafe,Bumbles Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Caffe Piazza,Caffe Piazza,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Twenty,Cafe Twenty,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Marina,Cafe Marina,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Biaggi,Cafe Biaggi,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Pantry,The Pantry,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Honey and Brioche Coffee House,Honey and Brioche Coffee House,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Kirramisu Cafe and Restaurant,Kirramisu Cafe and Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Coolangatta Cafe & Bakery,Coolangatta Cafe & Bakery,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Caffe Silipo Espresso Bar,Caffe Silipo Espresso Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hudsons Coffee Allamanda,Hudsons Coffee Allamanda,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Little Lido Espresso Bar,Little Lido Espresso Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Bread Garden Urban Cafe,Bread Garden Urban Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Quest Coffee Roasters,Quest Coffee Roasters,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Vertigo Cafe & Bar,Vertigo Cafe & Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Beanz on Bermuda,Beanz on Bermuda,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Molendinar,Cafe Molendinar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Juice Junction,Juice Junction,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Soho Red Cafe,Soho Red Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Judicial Cafe,Judicial Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Globe Coffee,Globe Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Monty's Cafe,Monty's Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Beach Cafe,Beach Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Baritalia,Baritalia,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Pizzacake,Pizzacake,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Vanlise Coffee Martini Lounge,Vanlise Coffee Martini Lounge,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Club Coolangatta,The Coffee Club Coolangatta,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Domanis Cafe Restaurant Bar,Domanis Cafe Restaurant Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Le Jardin Cafe Restaurant,Le Jardin Cafe Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zarraffas's Coffee Miami,Zarraffas's Coffee Miami,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Danny's by the Billabong,Danny's by the Billabong,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Pacific Paradise Cafe,Pacific Paradise Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gloria Jean's Coffees,Gloria Jean's Coffees,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Coffee Beans Shop,Coffee Beans Shop,0,黄金海岸其他,0.0,0.0,0.0
+快餐,My Computer Shop,My Computer Shop,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Healthy Liaisons,Healthy Liaisons,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Gold Coast,Cafe Gold Coast,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Sorrento,Cafe Sorrento,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Harleys Grill,Harleys Grill,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Chill In Cafe,Chill In Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe & Cream,Cafe & Cream,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Coffee Smith,Coffee Smith,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Groove Cafe,Groove Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Icon,Cafe Icon,0,黄金海岸其他,0.0,0.0,0.0
+快餐,X Coffee,X Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe K,Cafe K,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Aruba,Aruba,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Caffe Republic On Hedges,Caffe Republic On Hedges,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Connoisseurs Coffee Shop,Connoisseurs Coffee Shop,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Tonic Wine Coffee Cafe,Tonic Wine Coffee Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Chelsea XVI Cafe,Chelsea XVI Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Deck Cafe,The Deck Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Caffene Break,Caffene Break,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Aussie Cafe,Aussie Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Toast Cafe,Toast Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Donut Time,Donut Time,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hot Shotz,Hot Shotz,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Caffe 110,Caffe 110,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Cino,Cafe Cino,0,黄金海岸其他,0.0,0.0,0.0
+快餐,X-Zone,X-Zone,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Toast,Toast,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gloria Jean's Coffee - Tweed Heads,Gloria Jean's Coffee - Tweed Heads,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Verandah @ Granny Macs Store,Cafe Verandah @ Granny Macs Store,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Club - Australia Fair,The Coffee Club - Australia Fair,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Lifestyle Lounge Cafe & Catering,Lifestyle Lounge Cafe & Catering,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Liaisons Cafe Bar & Restaurant,Liaisons Cafe Bar & Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zarraffas Coffee - Worongary,Zarraffas Coffee - Worongary,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Diva Tea & Coffee House,Diva Tea & Coffee House,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Jamaica Blue On Cavill,Jamaica Blue On Cavill,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Madam Tojo Cafe & Bar,Madam Tojo Cafe & Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,MIFEIA Coffee Roast,MIFEIA Coffee Roast,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Nerang Street Cafe,Nerang Street Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Beppies for Coffee,Beppies for Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,B.B.' S Espresso,B.B.' S Espresso,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Quattro at Audi,Quattro at Audi,0,黄金海岸其他,0.0,0.0,0.0
+快餐,D-Ju On Albert,D-Ju On Albert,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Espresso D'Oro,Espresso D'Oro,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Crema Espresso,Crema Espresso,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Sanctuary Cafe,Sanctuary Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Lacal Cluster,Lacal Cluster,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Margies Cafe,Margies Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Luv A Coffee,Luv A Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hard Coffee,Hard Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe n Sane,Cafe n Sane,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Spendelove,Spendelove,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Amore,Cafe Amore,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Donut King,Donut King,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Roxx,Cafe Roxx,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Flow Cafe,Flow Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Cafe,The Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,D'Marge,D'Marge,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Bazil's,Bazil's,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Taboon,Taboon,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Friendly Orca Seafood Restaurant,The Friendly Orca Seafood Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,"The Lobby Lounge, Sea World Resort","The Lobby Lounge, Sea World Resort",0,黄金海岸其他,0.0,0.0,0.0
+快餐,tcup - Coffee Shop Gold Coast,tcup - Coffee Shop Gold Coast,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Nerang Street Milkbar & Cafe,Nerang Street Milkbar & Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Club Harbour Town,The Coffee Club Harbour Town,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zarraffa's Coffee Ferry Rd,Zarraffa's Coffee Ferry Rd,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Nest Coffee Lounge Pty Ltd,Nest Coffee Lounge Pty Ltd,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Dee & Paul's Rainbow Cafe,Dee & Paul's Rainbow Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Euphoria Espresso Cafe,Euphoria Espresso Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Quick Smart Computers,Quick Smart Computers,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Southport Home Bakery,Southport Home Bakery,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Dooey's Cafe & Bar,Dooey's Cafe & Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Anyone for Coffee,Anyone for Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zarraffa's Coffee,Zarraffa's Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Ocean Breeze Cafe,Ocean Breeze Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zarraffa's Coffee,Zarraffa's Coffee,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Business Express,Business Express,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Bistro Seabank,Bistro Seabank,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Star Coffee Co,Star Coffee Co,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Caffe Prana,Caffe Prana,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Aviva,Cafe Aviva,0,黄金海岸其他,0.0,0.0,0.0
+快餐,VJ's Cafe,VJ's Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Seabreeze Family Dining Restaurant Coolangatta,Seabreeze Family Dining Restaurant Coolangatta,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Pete's Upton Street Brasserie,Pete's Upton Street Brasserie,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gold Coast Espresso Services,Gold Coast Espresso Services,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Get Your Beanz Cafe,Get Your Beanz Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Sunray Health Cafe,Sunray Health Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Spotted Tiger,Spotted Tiger,0,黄金海岸其他,0.0,0.0,0.0
+快餐,La' Zeez Cafe,La' Zeez Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Riviera,Cafe Riviera,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Seaway Kiosk,Seaway Kiosk,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Three Beans,Three Beans,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Madisons,Madisons,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hudsons Coffee Pindarra Private Hospital,Hudsons Coffee Pindarra Private Hospital,0,黄金海岸其他,0.0,0.0,0.0
+快餐,HiSpeed Internet Kiosks @ Centro Nerang,HiSpeed Internet Kiosks @ Centro Nerang,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Kahuna Mobile Coffee Van,Cafe Kahuna Mobile Coffee Van,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Anna's Garden Terrace Cafe,Anna's Garden Terrace Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Internet Services Tugun,Internet Services Tugun,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Lavelle Street Cafe,Lavelle Street Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Chatterbox Cafe,Chatterbox Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Arts Restaurant,Arts Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Tea Centre,The Tea Centre,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Au Bon Gateau,Au Bon Gateau,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Sud,Cafe Sud,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Old Teahouse Gallery Cafe,The Old Teahouse Gallery Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Goodies Cafe & Catering,Goodies Cafe & Catering,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Vanilla Bean Cafe,Vanilla Bean Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cucina Mia Cafe,Cucina Mia Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Raw Espresso,Raw Espresso,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Caity's Cafe,Caity's Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Bella,Cafe Bella,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe 47,Cafe 47,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Earle Plaza Coffee Break,Earle Plaza Coffee Break,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zepp's Cafe & Gelataria,Zepp's Cafe & Gelataria,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gabrielles Cafe,Gabrielles Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Caffe Chino,Caffe Chino,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Michels Patisserie Runaway Bay,Michels Patisserie Runaway Bay,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Niche Espresso Bakehouse,Niche Espresso Bakehouse,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Broadbeach Home Bakery,Broadbeach Home Bakery,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Little St. Kilda Cafe,Little St. Kilda Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Nero,Cafe Nero,0,黄金海岸其他,0.0,0.0,0.0
+快餐,HiSpeed Internet Kiosks @ Centro Southport,HiSpeed Internet Kiosks @ Centro Southport,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Club Harbour Town,The Coffee Club Harbour Town,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Piccolo Espresso,Piccolo Espresso,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Sandra's Country Kitchen,Sandra's Country Kitchen,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Naughty Bean Cafe,Naughty Bean Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gumtrees,Gumtrees,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Island Jive Cafe,Island Jive Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,C Espresso Bar,C Espresso Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Wildlife Cafe,The Wildlife Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Club,The Coffee Club,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Jamaica Blue,Jamaica Blue,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Seventh Pillar,Seventh Pillar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Max Brenner Chocolate Bar,Max Brenner Chocolate Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Quantum Computer Services,Quantum Computer Services,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gallery Tokonoma,Gallery Tokonoma,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Canvas,Canvas,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Point @ the Rocks Resort,Point @ the Rocks Resort,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Sweethearts Studio Cafe,Sweethearts Studio Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,I-Game,I-Game,0,黄金海岸其他,0.0,0.0,0.0
+快餐,G G's Gourmet,G G's Gourmet,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Webtron Technical Services,Webtron Technical Services,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Tamborine Tea,Tamborine Tea,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Shafston International College,Shafston International College,0,黄金海岸其他,0.0,0.0,0.0
+快餐,BMB Technologies,BMB Technologies,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Lumbini,Cafe Lumbini,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Altitude Training Centre,Altitude Training Centre,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Everywhere Internet - Gold Coast Airport,Everywhere Internet - Gold Coast Airport,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Meeting Ground Organic Cafe & Deli,Meeting Ground Organic Cafe & Deli,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Verve Restaurant Cafe & Bar,Verve Restaurant Cafe & Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Yummy Wok,Yummy Wok,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Shi-Loh Jamaican Cafe Restaurant,Shi-Loh Jamaican Cafe Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Cavill,McDonald's Cavill,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Deluxe,Cafe Deluxe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,O Me Ly Vietnamese Restaurant & Cafe,O Me Ly Vietnamese Restaurant & Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Ferelli's Italian Cafe & Eatery,Ferelli's Italian Cafe & Eatery,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Lust Cafe & Restaurant,Lust Cafe & Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Chevron,Cafe Chevron,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Stacatto Italian Cafe,Stacatto Italian Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Vitto Centro,Cafe Vitto Centro,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Greek Cafe,The Greek Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Broadbeach,McDonald's Broadbeach,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Subway® Restaurant,Subway® Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's,McDonald's,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Oasis Cafe,Oasis Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's,McDonald's,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Farleys Cafe Bar Restaurant,Farleys Cafe Bar Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The 2nd Home Cafe,The 2nd Home Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Sanctuary,Cafe Sanctuary,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's,McDonald's,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's,McDonald's,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's,McDonald's,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's,McDonald's,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Coast Cafe & Bar,Coast Cafe & Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Fresh Lounge Bar & Shinsen Restaurant,Cafe Fresh Lounge Bar & Shinsen Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,BonChic Restaurant & Cafe,BonChic Restaurant & Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Southport,McDonald's Southport,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Sushi Cafe,Sushi Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Eagle Boys Pizza,Eagle Boys Pizza,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Upper Coomera,McDonald's Upper Coomera,0,,0.0,0.0,0.0
+快餐,Eagle Boys Pizza,Eagle Boys Pizza,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Eagle Boys Pizza,Eagle Boys Pizza,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Eagle Boys Pizza,Eagle Boys Pizza,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Eagle Boys Pizza,Eagle Boys Pizza,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Donut King,Donut King,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Eagle Boys Pizza,Eagle Boys Pizza,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Chickery Chick,Chickery Chick,0,Surfers Paradise,0.0,0.0,0.0
+快餐,Oporto,Oporto,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Burleigh Waters,McDonald's Burleigh Waters,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Two Spoons Gourmet Cafe,Two Spoons Gourmet Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Charlies 24 Hour Cafe & Restaurant & Bar,Charlies 24 Hour Cafe & Restaurant & Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Oporto,Oporto,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Helensvale Westfield,McDonald's Helensvale Westfield,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Burleigh Stockland,McDonald's Burleigh Stockland,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Mermaid Waters,McDonald's Mermaid Waters,0,黄金海岸其他,0.0,0.0,0.0
+快餐,KFC Coolangatta,KFC Coolangatta,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Oporto,Oporto,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Barchino Cafe Restaurant,Barchino Cafe Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Robina Food Court,McDonald's Robina Food Court,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's,McDonald's,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Siam Square Art's Cafe,Siam Square Art's Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Subway® Restaurant,Subway® Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Reedy Creek,McDonald's Reedy Creek,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's Pacific Pines,McDonald's Pacific Pines,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Tasty Toppings Pizza N Cafe,Tasty Toppings Pizza N Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Marmalade Cafe,Marmalade Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Eagle Boys Pizza,Eagle Boys Pizza,0,,0.0,0.0,0.0
+快餐,McDonald's Burleigh Heads,McDonald's Burleigh Heads,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Oporto,Oporto,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Toscanis Cafe Bar & Restaurant,Toscanis Cafe Bar & Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Indian Cafe & Restaurant,The Indian Cafe & Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Rossini Cafe Restaurant,Rossini Cafe Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,McDonald's,McDonald's,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hog's Breath Cafe,Hog's Breath Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Kathmnandu,Cafe Kathmnandu,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zarraffa's Coffee Upper Coomera,Zarraffa's Coffee Upper Coomera,0,,0.0,0.0,0.0
+快餐,Luv A Coffee Coomera City,Luv A Coffee Coomera City,0,,0.0,0.0,0.0
+快餐,One Espresso Bar,One Espresso Bar,0,,0.0,0.0,0.0
+快餐,Hopes Cafe,Hopes Cafe,0,,0.0,0.0,0.0
+快餐,CappuVino,CappuVino,0,,0.0,0.0,0.0
+快餐,Waterway Cafe,Waterway Cafe,0,,0.0,0.0,0.0
+快餐,tamborine tea,tamborine tea,0,,0.0,0.0,0.0
+快餐,Zarraffa's Coffee Helensvale,Zarraffa's Coffee Helensvale,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Michels Patisserie Helensvale,Michels Patisserie Helensvale,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zarraffa's Coffee Palm Beach,Zarraffa's Coffee Palm Beach,0,黄金海岸其他,0.0,0.0,0.0
+快餐,"Coffee Club, Mermaid Waters","Coffee Club, Mermaid Waters",0,黄金海岸其他,0.0,0.0,0.0
+快餐,Michels Patisserie The Pines Elanora,Michels Patisserie The Pines Elanora,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zarraffa's Coffee Robina,Zarraffa's Coffee Robina,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gourmet Espresso Pacific Fair,Gourmet Espresso Pacific Fair,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Michel's Patisserie,Michel's Patisserie,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Club - Pacific Fair,The Coffee Club - Pacific Fair,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zarraffa's Coffee - Burleigh,Zarraffa's Coffee - Burleigh,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Michels Patisserie Q Super Centre,Michels Patisserie Q Super Centre,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Zarraffa's Coffee - Benowa Gardens,Zarraffa's Coffee - Benowa Gardens,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gloria Jean's Coffees,Gloria Jean's Coffees,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Chapters & Cinos,Chapters & Cinos,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Hinze Dam Tasty Cafe & Takeaway,The Hinze Dam Tasty Cafe & Takeaway,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Michels Patisserie Southport,Michels Patisserie Southport,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gloria Jean's Coffees,Gloria Jean's Coffees,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Caffe Di Trevi,Caffe Di Trevi,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Club - Broadbeach,The Coffee Club - Broadbeach,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Coffee Club - Broadbeach,Coffee Club - Broadbeach,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Sandwich Planet,Sandwich Planet,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Crema Espresso,Crema Espresso,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Element Expresso Cafe & Bar,Element Expresso Cafe & Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Dune Cafe,Dune Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Club - Cavill Mall,The Coffee Club - Cavill Mall,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Moccachino's,Moccachino's,0,黄金海岸其他,0.0,0.0,0.0
+快餐,HiSpeed Internet Kiosks @ Runaway Bay Village,HiSpeed Internet Kiosks @ Runaway Bay Village,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Edge Café,Edge Café,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gloria Jean's Coffees,Gloria Jean's Coffees,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gloria Jean's Coffees,Gloria Jean's Coffees,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Bean & Beyond,Bean & Beyond,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Biaggi,Cafe Biaggi,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Peppercorn Cafe,Peppercorn Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Club,The Coffee Club,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Rosuta Coffee Shop,Rosuta Coffee Shop,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Natabella Delicatessen & Kafe,Natabella Delicatessen & Kafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cherry Red Lounge Cafe,Cherry Red Lounge Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Caffe Republic,Caffe Republic,0,黄金海岸其他,0.0,0.0,0.0
+快餐,SURFCiTY Cafe,SURFCiTY Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Omg Cafe,Omg Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Pines Carvery & Coffee Lounge,Pines Carvery & Coffee Lounge,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Beach Cafe & Take Away,The Beach Cafe & Take Away,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Avvia,Avvia,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gloria Jean's Coffee - Helensvale,Gloria Jean's Coffee - Helensvale,0,黄金海岸其他,0.0,0.0,0.0
+快餐,V.I.P.' S Coffee Lounge,V.I.P.' S Coffee Lounge,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Eating In @ The Fair,Eating In @ The Fair,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Bird Gardens-Olsons,Bird Gardens-Olsons,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Tallebudgera Heritage Cafe,Tallebudgera Heritage Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Avvia Cafe Restaurant,Avvia Cafe Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Peters Fish Cafe,Peters Fish Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Edge Cafe,The Edge Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Asha's Cafe,Asha's Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Crown Cafe,Crown Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Mannequin Coffee Shop,Mannequin Coffee Shop,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Koffies Espresso Bar,Koffies Espresso Bar,0,黄金海岸其他,0.0,0.0,0.0
+快餐,"Coffee Club, Robina","Coffee Club, Robina",0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hugo Gourmet Foods,Hugo Gourmet Foods,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Nook Empire,Nook Empire,0,黄金海岸其他,0.0,0.0,0.0
+快餐,HiSpeed Internet Kiosks @ Stockland Burleigh Heads,HiSpeed Internet Kiosks @ Stockland Burleigh Heads,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Prime Kebab & Fish And Chips,Prime Kebab & Fish And Chips,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Red Frog Cafe,The Red Frog Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Commune Espresso,Commune Espresso,0,黄金海岸其他,0.0,0.0,0.0
+快餐,2 Brothers Cafe,2 Brothers Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Welcoming Cafe,Welcoming Cafe,0,,0.0,0.0,0.0
+快餐,Casa Del Caffe,Casa Del Caffe,0,,0.0,0.0,0.0
+快餐,Cafe Ja-ja,Cafe Ja-ja,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Latin,Cafe Latin,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Spot Cafe,Spot Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Extra Virgin Seafood Restaurant,Extra Virgin Seafood Restaurant,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Muffin Break Burleigh West,Muffin Break Burleigh West,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Starbucks Coffee Company,Starbucks Coffee Company,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Espirito Coffee Company,Espirito Coffee Company,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Settlers Coffee Shoppe,Settlers Coffee Shoppe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Expressions Cafe,Expressions Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Sweet Talk Cafe,Sweet Talk Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gov's Espresso,Gov's Espresso,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Coffee Sisters,Coffee Sisters,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Billy Baxters,Billy Baxters,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Kaffiend,Kaffiend,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Palmy Cafe,The Palmy Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Seabreeze Cafe,Seabreeze Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Crema Espresso,Crema Espresso,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Little Beans,Little Beans,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Cafe Central,Cafe Central,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Blu Cow Cafe,Blu Cow Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Hi Speed Internet Kiosk - Burleigh Heads,Hi Speed Internet Kiosk - Burleigh Heads,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Coffee Shop Bazaar Street,The Coffee Shop Bazaar Street,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gold Coast Olympic Cafe,Gold Coast Olympic Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Gloria Jean's Coffees,Gloria Jean's Coffees,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Espresso Essential,Espresso Essential,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Dutch Bite Cafe,Dutch Bite Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Kirra Surf Cafe,Kirra Surf Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Lime On Chevron,Lime On Chevron,0,黄金海岸其他,0.0,0.0,0.0
+快餐,The Bluff Cafe,The Bluff Cafe,0,黄金海岸其他,0.0,0.0,0.0
+快餐,Subway Boykambil,Subway Boykambil,0,,0.0,0.0,0.0

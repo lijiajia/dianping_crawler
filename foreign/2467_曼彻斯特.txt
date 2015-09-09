@@ -1,0 +1,1071 @@
+意大利菜,Bella Italia,Bella Italia,0,曼彻斯特市中心,7.2,7.5,7.5
+意大利菜,Ciao Bella,Ciao Bella,0,曼彻斯特市中心,8.1,8.1,7.4
+意大利菜,San Carlo Bottega,San Carlo Bottega,0,曼彻斯特市中心,8.4,8.4,8.4
+意大利菜,Rosso Restaurant and Bar,Rosso Restaurant and Bar,0,曼彻斯特市中心,6.7,6.7,6.7
+意大利菜,Zizzi - Manchester Spinningfields,Zizzi - Manchester Spinningfields,0,曼彻斯特市中心,7.2,7.2,7.2
+意大利菜,Veeno,Veeno,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Don Marco Restaurant,Don Marco Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,San Carlo Cicetti,San Carlo Cicetti,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Giorgio's Italian Restaurant,Giorgio's Italian Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Avalanche,Avalanche,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,San Giovanni,San Giovanni,0,,0.0,0.0,0.0
+意大利菜,Felicini,Felicini,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Zizzi,Zizzi,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Olive,Olive,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Zizzi - Didsbury,Zizzi - Didsbury,0,其他,0.0,0.0,0.0
+意大利菜,Puccini Pizzeria Ristorante,Puccini Pizzeria Ristorante,0,,0.0,0.0,0.0
+意大利菜,Frankie and Benny's,Frankie and Benny's,0,其他,0.0,0.0,0.0
+意大利菜,PORADA RESTAURANT,PORADA RESTAURANT,0,,0.0,0.0,0.0
+意大利菜,The Stock Exchange Restaurant,The Stock Exchange Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Bella Italia,Bella Italia,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Bella Italia - Salford Quays,Bella Italia - Salford Quays,0,,0.0,0.0,0.0
+意大利菜,Bella Italia - Manchester Arndale,Bella Italia - Manchester Arndale,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Ritazza,Ritazza,0,其他,0.0,0.0,0.0
+意大利菜,Carluccio's,Carluccio's,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Croma,Croma,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,San Carlo Cicchetti,San Carlo Cicchetti,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Slice Pizza & Bread Bar,Slice Pizza & Bread Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Prezzo,Prezzo,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Croma,Croma,0,Old Trafford,0.0,0.0,0.0
+意大利菜,Al Bacio,Al Bacio,0,,0.0,0.0,0.0
+意大利菜,Trattoria Milano,Trattoria Milano,0,其他,0.0,0.0,0.0
+意大利菜,Gusto,Gusto,0,其他,0.0,0.0,0.0
+意大利菜,Piccolino,Piccolino,0,其他,0.0,0.0,0.0
+意大利菜,Sapori d'italia,Sapori d'italia,0,,0.0,0.0,0.0
+意大利菜,Le Delicatezze Di Bruno,Le Delicatezze Di Bruno,0,其他,0.0,0.0,0.0
+意大利菜,Piccolino,Piccolino,0,其他,0.0,0.0,0.0
+意大利菜,Salvi's Deli,Salvi's Deli,0,,0.0,0.0,0.0
+意大利菜,The Italian Job,The Italian Job,0,其他,0.0,0.0,0.0
+意大利菜,La Roma Restaurant,La Roma Restaurant,0,,0.0,0.0,0.0
+意大利菜,Giovanni's Deli,Giovanni's Deli,0,,0.0,0.0,0.0
+意大利菜,Roma Cafe,Roma Cafe,0,,0.0,0.0,0.0
+意大利菜,Antonio's Italian Restaurant,Antonio's Italian Restaurant,0,,0.0,0.0,0.0
+意大利菜,Leo's Restaurant,Leo's Restaurant,0,,0.0,0.0,0.0
+意大利菜,Rustica,Rustica,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Don Giovanni's,Don Giovanni's,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Danielis,Danielis,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Pizza Express,Pizza Express,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Gio Ristorante,Gio Ristorante,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Carluccio's - Spinningfields,Carluccio's - Spinningfields,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,The Sawyers Arms,The Sawyers Arms,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,San Carlo - Manchester,San Carlo - Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Zizzi - Manchester Corn Exchange,Zizzi - Manchester Corn Exchange,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Mezzaluna,Mezzaluna,0,Old Trafford,0.0,0.0,0.0
+意大利菜,San Marco,San Marco,0,Old Trafford,0.0,0.0,0.0
+意大利菜,Rezaurante ghassemis,Rezaurante ghassemis,0,Old Trafford,0.0,0.0,0.0
+意大利菜,San Rocco - City Centre,San Rocco - City Centre,0,,0.0,0.0,0.0
+意大利菜,Cibo Didsbury,Cibo Didsbury,0,其他,0.0,0.0,0.0
+意大利菜,Azzurro Ristorante Italiano,Azzurro Ristorante Italiano,0,其他,0.0,0.0,0.0
+意大利菜,La Perla,La Perla,0,,0.0,0.0,0.0
+意大利菜,Felicini - Monton,Felicini - Monton,0,,0.0,0.0,0.0
+意大利菜,Isis,Isis,0,,0.0,0.0,0.0
+意大利菜,Saporitos,Saporitos,0,,0.0,0.0,0.0
+意大利菜,Pizza Hut,Pizza Hut,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Strada - Spinningfields,Strada - Spinningfields,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Pzza Express,Pzza Express,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Vinny & Vito,Vinny & Vito,0,其他,0.0,0.0,0.0
+意大利菜,Bella Italia,Bella Italia,0,其他,0.0,0.0,0.0
+意大利菜,Pacinos Restaurant,Pacinos Restaurant,0,,0.0,0.0,0.0
+意大利菜,Pizza Express Didsbury,Pizza Express Didsbury,0,其他,0.0,0.0,0.0
+意大利菜,Leo's,Leo's,0,其他,0.0,0.0,0.0
+意大利菜,Pink Garlic,Pink Garlic,0,其他,0.0,0.0,0.0
+意大利菜,Bellagio,Bellagio,0,,0.0,0.0,0.0
+意大利菜,piccalinoa italian restaurant,piccalinoa italian restaurant,0,,0.0,0.0,0.0
+意大利菜,Pizza Hut,Pizza Hut,0,其他,0.0,0.0,0.0
+意大利菜,Via Roma,Via Roma,0,,0.0,0.0,0.0
+意大利菜,Ristorante Don Antonio,Ristorante Don Antonio,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Bella Roma,Bella Roma,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Bla Bla Jazz Restaurant,Bla Bla Jazz Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Frankie & Benny's Restaurant,Frankie & Benny's Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Danito's,Danito's,0,,0.0,0.0,0.0
+意大利菜,Geo's Italian Restaurant,Geo's Italian Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Rosso Restaurant & Bar,Rosso Restaurant & Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+意大利菜,Est Est Est,Est Est Est,0,Old Trafford,0.0,0.0,0.0
+意大利菜,Bella vista,Bella vista,0,其他,0.0,0.0,0.0
+意大利菜,Linguine,Linguine,0,,0.0,0.0,0.0
+法国菜,63 Degrees,63 Degrees,0,曼彻斯特市中心,7.4,6.7,6.7
+法国菜,Montpellier's,Montpellier's,0,,0.0,0.0,0.0
+法国菜,Cote Brasserie - Manchester,Cote Brasserie - Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+法国菜,Aubaine,Aubaine,0,曼彻斯特市中心,0.0,0.0,0.0
+法国菜,Malmaison Brasserie,Malmaison Brasserie,0,曼彻斯特市中心,0.0,0.0,0.0
+法国菜,Cafe Rouge - Manchester Deansgate,Cafe Rouge - Manchester Deansgate,0,曼彻斯特市中心,0.0,0.0,0.0
+法国菜,le Relais de Venise L'entrecote,le Relais de Venise L'entrecote,0,曼彻斯特市中心,0.0,0.0,0.0
+法国菜,Cafe Rouge - Manchester Spinningfields,Cafe Rouge - Manchester Spinningfields,0,,0.0,0.0,0.0
+法国菜,Cafe Rouge - Printworks Manchester,Cafe Rouge - Printworks Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+法国菜,Cafe Rouge - Didsbury,Cafe Rouge - Didsbury,0,其他,0.0,0.0,0.0
+墨西哥菜,Changos Burrito,Changos Burrito,0,曼彻斯特市中心,0.0,0.0,0.0
+墨西哥菜,Panchos Burritos,Panchos Burritos,0,曼彻斯特市中心,0.0,0.0,0.0
+墨西哥菜,The Beagle,The Beagle,0,Old Trafford,0.0,0.0,0.0
+墨西哥菜,Lucha Libre,Lucha Libre,0,曼彻斯特市中心,0.0,0.0,0.0
+墨西哥菜,Barburrito,Barburrito,0,曼彻斯特市中心,0.0,0.0,0.0
+墨西哥菜,Kahlua Coffee House,Kahlua Coffee House,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Smoak Bar and grill,Smoak Bar and grill,0,曼彻斯特市中心,8.4,7.5,8.4
+其他西餐,Nando's,Nando's,0,曼彻斯特市中心,7.3,6.8,6.8
+其他西餐,Mr Cooper's House and Garden,Mr Cooper's House and Garden,0,曼彻斯特市中心,8.4,8.4,7.5
+其他西餐,Whitworth Art Gallery Restaurant,Whitworth Art Gallery Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,City Cafe - Manchester,City Cafe - Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Dimitri's,Dimitri's,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Albert Square Chop House,The Albert Square Chop House,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Villaggio,Villaggio,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Old Wellington,The Old Wellington,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Evuna,Evuna,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Manchester House,Manchester House,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Choice Bar & Restaurant,Choice Bar & Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Twisted Med,The Twisted Med,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,the GRILL on the Alley - Manchester,the GRILL on the Alley - Manchester,0,,0.0,0.0,0.0
+其他西餐,The Splendid Sausage Co.,The Splendid Sausage Co.,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Bank,The Bank,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Montpellier's,Montpellier's,0,,0.0,0.0,0.0
+其他西餐,Restaurant at The Ox,Restaurant at The Ox,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Wharf,The Wharf,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,"Per Tutti Cafe, Bar & Grill","Per Tutti Cafe, Bar & Grill",0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Rozafa,Rozafa,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Bulls Head,The Bulls Head,0,其他,0.0,0.0,0.0
+其他西餐,Escape Lounge T3,Escape Lounge T3,0,其他,0.0,0.0,0.0
+其他西餐,Fish & Chips,Fish & Chips,0,其他,0.0,0.0,0.0
+其他西餐,Pomegranate,Pomegranate,0,其他,0.0,0.0,0.0
+其他西餐,La Tasca - Manchester,La Tasca - Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Bluu - Manchester,Bluu - Manchester,0,其他,0.0,0.0,0.0
+其他西餐,Opus One - Manchester,Opus One - Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The French,The French,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Bouzouki By Night,Bouzouki By Night,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Grand Pacific,Grand Pacific,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Mr Thomas's Chop House,Mr Thomas's Chop House,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Panama Hatty's,Panama Hatty's,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Metropolitan,The Metropolitan,0,其他,0.0,0.0,0.0
+其他西餐,knott bar,knott bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Lime Tree Restaurant,The Lime Tree Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Podium Restaurant Bar & Lounge,Podium Restaurant Bar & Lounge,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Joes Kitchen,Joes Kitchen,0,其他,0.0,0.0,0.0
+其他西餐,Eden,Eden,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,habesha restaurant and bar,habesha restaurant and bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Dukes 92,Dukes 92,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Cafe North,Cafe North,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Whim Wham Cafe,The Whim Wham Cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Albert's Shed,Albert's Shed,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Britons Protection manchester,The Britons Protection manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Simple Bar & Kitchen,Simple Bar & Kitchen,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Harvey Nichols Second Floor Restaurant.,Harvey Nichols Second Floor Restaurant.,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Table Table,Table Table,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Wong Wong Cafe,Wong Wong Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Octagon Lounge,Octagon Lounge,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Font,The Font,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Slug and Lettuce - Manchester Spinningfields,The Slug and Lettuce - Manchester Spinningfields,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Philpotts,Philpotts,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Sanctuary on Sackville,Sanctuary on Sackville,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Druckers Cafe,Druckers Cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,其他,0.0,0.0,0.0
+其他西餐,Rain Bar,Rain Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,St Petersburg Russian Restaurant,St Petersburg Russian Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Fahrenheit at Genting Club,Fahrenheit at Genting Club,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,101 Brasserie & Bar,101 Brasserie & Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Epernay Champagne Bar,Epernay Champagne Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,El Rincon de Rafa,El Rincon de Rafa,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Taurus,Taurus,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Great John Street Hotel,Great John Street Hotel,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,24 Bar and Grill,24 Bar and Grill,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Waterhouse,The Waterhouse,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Michael Caines Restaurant at ABode Manchester,Michael Caines Restaurant at ABode Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Duttons Manchester,Duttons Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Lawn Club,The Lawn Club,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Jack Spratt,Jack Spratt,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Linda's Pantry,Linda's Pantry,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Liquorice Cocktail Bar,Liquorice Cocktail Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Portland Street Restaurant & Bar,Portland Street Restaurant & Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Byron Deansgate,Byron Deansgate,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,2 Kozy Bar and Restaurant,2 Kozy Bar and Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Room,Room,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Sam's Chop House,Sam's Chop House,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,English Lounge,English Lounge,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Leo's Fish Bar,Leo's Fish Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Angel,The Angel,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Sandinista,Sandinista,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Annies,Annies,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Living Room,The Living Room,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Las Iguanas - Deansgate,Las Iguanas - Deansgate,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Round,The Round,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Soup Kitchen,Soup Kitchen,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Pie & Ale,Pie & Ale,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Pieminister,Pieminister,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Evuna NQ,Evuna NQ,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Tib Street Tavern,Tib Street Tavern,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Northern Quarter Restaurant & Bar,The Northern Quarter Restaurant & Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Thomas Restaurant & Bar,Thomas Restaurant & Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Marble Arch,The Marble Arch,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Odd Bar,Odd Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Waxy O'Connor's - Manchester,Waxy O'Connor's - Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,"PAPA G,s","PAPA G,s",0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Papa G's,Papa G's,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Glasshouse Restaurant,Glasshouse Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Kaleido Restaurant & Bar,Kaleido Restaurant & Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Parlour,The Parlour,0,Old Trafford,0.0,0.0,0.0
+其他西餐,"Lusitano, Restaurant & Tapas","Lusitano, Restaurant & Tapas",0,Old Trafford,0.0,0.0,0.0
+其他西餐,Tatton Arms,Tatton Arms,0,其他,0.0,0.0,0.0
+其他西餐,Alexandros Greek Restaurant,Alexandros Greek Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,La Cena,La Cena,0,其他,0.0,0.0,0.0
+其他西餐,Olive & Vine Dimitris Didsbury,Olive & Vine Dimitris Didsbury,0,其他,0.0,0.0,0.0
+其他西餐,Chalk Bar & Grill,Chalk Bar & Grill,0,其他,0.0,0.0,0.0
+其他西餐,Expo Lounge,Expo Lounge,0,其他,0.0,0.0,0.0
+其他西餐,Appleby's Hearty English Refreshment,Appleby's Hearty English Refreshment,0,其他,0.0,0.0,0.0
+其他西餐,The Stoker's Arms,The Stoker's Arms,0,其他,0.0,0.0,0.0
+其他西餐,Albert's Restaurant and Bar,Albert's Restaurant and Bar,0,其他,0.0,0.0,0.0
+其他西餐,The Rose Garden,The Rose Garden,0,其他,0.0,0.0,0.0
+其他西餐,Pinchjo's,Pinchjo's,0,其他,0.0,0.0,0.0
+其他西餐,Fish Bait,Fish Bait,0,其他,0.0,0.0,0.0
+其他西餐,Rozo,Rozo,0,其他,0.0,0.0,0.0
+其他西餐,Bistro West 156,Bistro West 156,0,其他,0.0,0.0,0.0
+其他西餐,Persia Grill House,Persia Grill House,0,其他,0.0,0.0,0.0
+其他西餐,Namche Bazaar,Namche Bazaar,0,其他,0.0,0.0,0.0
+其他西餐,Coriander,Coriander,0,其他,0.0,0.0,0.0
+其他西餐,Olive & Thyme,Olive & Thyme,0,其他,0.0,0.0,0.0
+其他西餐,James Martin Manchester,James Martin Manchester,0,其他,0.0,0.0,0.0
+其他西餐,Arian,Arian,0,其他,0.0,0.0,0.0
+其他西餐,Juan Sanchez Tapas,Juan Sanchez Tapas,0,其他,0.0,0.0,0.0
+其他西餐,Damas the Art of Meze,Damas the Art of Meze,0,其他,0.0,0.0,0.0
+其他西餐,Hotspot Ess Paradies,Hotspot Ess Paradies,0,其他,0.0,0.0,0.0
+其他西餐,Fallow Cafe,Fallow Cafe,0,其他,0.0,0.0,0.0
+其他西餐,The Three Arrows,The Three Arrows,0,其他,0.0,0.0,0.0
+其他西餐,Nossa Casa,Nossa Casa,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,La Piazza,La Piazza,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Kro Bar,Kro Bar,0,其他,0.0,0.0,0.0
+其他西餐,"Oxford, Manchester","Oxford, Manchester",0,其他,0.0,0.0,0.0
+其他西餐,Yates manchester,Yates manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Thirsty Scholar,The Thirsty Scholar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Lass O' Gowrie,The Lass O' Gowrie,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,3 Twenty One,3 Twenty One,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Tango's Manchester,Tango's Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Stalls Cafe Bar - Bridgewater Hall,Stalls Cafe Bar - Bridgewater Hall,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Taps,Taps,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Wyvern Restaurant,Wyvern Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Papu's Place,Papu's Place,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Nando's,Nando's,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The City Arms Pub,The City Arms Pub,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Manchester & County,The Manchester & County,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,North Star Piccadilly,North Star Piccadilly,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Vertigo Restaurant & Bar,Vertigo Restaurant & Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Cafe Rylands,Cafe Rylands,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Santiago Restuarante,Santiago Restuarante,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Town Hall Tavern,The Town Hall Tavern,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Lost Dene,The Lost Dene,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Place Restaurant,The Place Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Whiskey Jar,The Whiskey Jar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Bacchanalia,Bacchanalia,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Fresh@Jacksons Warehouse,Fresh@Jacksons Warehouse,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Mark Addy,Mark Addy,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Thyme Restaurant at the Premier Inn,Thyme Restaurant at the Premier Inn,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Fresh Loaf,Fresh Loaf,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Nando's - Manchester (Arndale),Nando's - Manchester (Arndale),0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Mitre Boutique Pub,The Mitre Boutique Pub,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Market Restaurant,Market Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Odder bar,Odder bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,RBG Restaurant,RBG Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Lead Station,Lead Station,0,Old Trafford,0.0,0.0,0.0
+其他西餐,The Chorlton Eatery,The Chorlton Eatery,0,Old Trafford,0.0,0.0,0.0
+其他西餐,Electrik Bar,Electrik Bar,0,Old Trafford,0.0,0.0,0.0
+其他西餐,Junipers Coffee Shop,Junipers Coffee Shop,0,Old Trafford,0.0,0.0,0.0
+其他西餐,The Post Box,The Post Box,0,Old Trafford,0.0,0.0,0.0
+其他西餐,Pi,Pi,0,Old Trafford,0.0,0.0,0.0
+其他西餐,Nip and Tipple,Nip and Tipple,0,Old Trafford,0.0,0.0,0.0
+其他西餐,Five Guys,Five Guys,0,Old Trafford,0.0,0.0,0.0
+其他西餐,Dougies take away,Dougies take away,0,Old Trafford,0.0,0.0,0.0
+其他西餐,The Soldier Dick Pub,The Soldier Dick Pub,0,其他,0.0,0.0,0.0
+其他西餐,Aspire Lounge,Aspire Lounge,0,其他,0.0,0.0,0.0
+其他西餐,The Didsbury Pub,The Didsbury Pub,0,其他,0.0,0.0,0.0
+其他西餐,The Ford Madox Brown,The Ford Madox Brown,0,其他,0.0,0.0,0.0
+其他西餐,Fosters Fish and Chips,Fosters Fish and Chips,0,其他,0.0,0.0,0.0
+其他西餐,Nido Spanish Tapas,Nido Spanish Tapas,0,其他,0.0,0.0,0.0
+其他西餐,The Milson Rhodes,The Milson Rhodes,0,其他,0.0,0.0,0.0
+其他西餐,Gourmet Burger Kitchen,Gourmet Burger Kitchen,0,其他,0.0,0.0,0.0
+其他西餐,Mary and Archie,Mary and Archie,0,其他,0.0,0.0,0.0
+其他西餐,verso,verso,0,其他,0.0,0.0,0.0
+其他西餐,Al-Jumeirah Restuarant,Al-Jumeirah Restuarant,0,其他,0.0,0.0,0.0
+其他西餐,Nando's - Manchester (Fallowfield),Nando's - Manchester (Fallowfield),0,其他,0.0,0.0,0.0
+其他西餐,Great Central,Great Central,0,其他,0.0,0.0,0.0
+其他西餐,Manchester city art gallery,Manchester city art gallery,0,其他,0.0,0.0,0.0
+其他西餐,Raoshi Restaurant,Raoshi Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Isinglass English Dining Rooms,Isinglass English Dining Rooms,0,,0.0,0.0,0.0
+其他西餐,The Alborz,The Alborz,0,其他,0.0,0.0,0.0
+其他西餐,Fyg Deli & Wine Bar,Fyg Deli & Wine Bar,0,,0.0,0.0,0.0
+其他西餐,Wood. Wine & Deli,Wood. Wine & Deli,0,,0.0,0.0,0.0
+其他西餐,The Harbord Harbord,The Harbord Harbord,0,其他,0.0,0.0,0.0
+其他西餐,The Moon Under Water,The Moon Under Water,0,其他,0.0,0.0,0.0
+其他西餐,The Hellfire Club,The Hellfire Club,0,其他,0.0,0.0,0.0
+其他西餐,Hare and Hounds,Hare and Hounds,0,,0.0,0.0,0.0
+其他西餐,Heaton Park Beefeater,Heaton Park Beefeater,0,其他,0.0,0.0,0.0
+其他西餐,Revolution Deansgate Locks,Revolution Deansgate Locks,0,,0.0,0.0,0.0
+其他西餐,Felicini - Monton,Felicini - Monton,0,,0.0,0.0,0.0
+其他西餐,Patisserie Valerie Manchester Fort,Patisserie Valerie Manchester Fort,0,其他,0.0,0.0,0.0
+其他西餐,Thalassa by Mykonos,Thalassa by Mykonos,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Missoula Deansgate,Missoula Deansgate,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Tom's Champagne Bar,Tom's Champagne Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Sirocco,Sirocco,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Sackville Lounge,Sackville Lounge,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Piccadilly Tavern,The Piccadilly Tavern,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Bricklayers Arms,Bricklayers Arms,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,torore,torore,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Beluga,Beluga,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Gourmet Burger Kitchen,Gourmet Burger Kitchen,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,BLounge,BLounge,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,MC Cafe' Bar & Grill,MC Cafe' Bar & Grill,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Bohemia,Bohemia,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Bridge,Bridge,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Sparkles,Sparkles,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Wetherspoons Piccadilly,Wetherspoons Piccadilly,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Lammars,Lammars,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Fresh Bar & Restaurant,Fresh Bar & Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Grand Café Waterstones,Grand Café Waterstones,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Shakespeare Public House,The Shakespeare Public House,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Label Restaurant,Label Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Revolution Parsonage Gardens,Revolution Parsonage Gardens,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Love Saves the Day,Love Saves the Day,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Millstone Inn,Millstone Inn,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Bierkeller,Bierkeller,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Manchipster Plaice,Manchipster Plaice,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Lloyds No. 1,Lloyds No. 1,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Abergeldie Cafe,Abergeldie Cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Harvester Printworks,Harvester Printworks,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Charango,Charango,0,Old Trafford,0.0,0.0,0.0
+其他西餐,Proof,Proof,0,Old Trafford,0.0,0.0,0.0
+其他西餐,Coach House at The Etrop Grange,Coach House at The Etrop Grange,0,其他,0.0,0.0,0.0
+其他西餐,Farmers Arms,Farmers Arms,0,其他,0.0,0.0,0.0
+其他西餐,Shiraz,Shiraz,0,其他,0.0,0.0,0.0
+其他西餐,Ye Olde Cock,Ye Olde Cock,0,其他,0.0,0.0,0.0
+其他西餐,The Gateway,The Gateway,0,其他,0.0,0.0,0.0
+其他西餐,Moorfield,Moorfield,0,,0.0,0.0,0.0
+其他西餐,Casa Tapas,Casa Tapas,0,其他,0.0,0.0,0.0
+其他西餐,O'Neill's Didsbury,O'Neill's Didsbury,0,其他,0.0,0.0,0.0
+其他西餐,The Northern Kitchen & Bar,The Northern Kitchen & Bar,0,其他,0.0,0.0,0.0
+其他西餐,Didsbury Lounge,Didsbury Lounge,0,其他,0.0,0.0,0.0
+其他西餐,Tutku Cafe,Tutku Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Woodstock Tavern,Woodstock Tavern,0,其他,0.0,0.0,0.0
+其他西餐,Christie Fields,Christie Fields,0,其他,0.0,0.0,0.0
+其他西餐,Love 2 eat,Love 2 eat,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Nicoleta,Cafe Nicoleta,0,其他,0.0,0.0,0.0
+其他西餐,Yasouvlaki manchester,Yasouvlaki manchester,0,其他,0.0,0.0,0.0
+其他西餐,Mediterranean Cafe,Mediterranean Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Santorini,Santorini,0,其他,0.0,0.0,0.0
+其他西餐,Chunky Chicken Rusholme,Chunky Chicken Rusholme,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Muse,Cafe Muse,0,其他,0.0,0.0,0.0
+其他西餐,Le Cafe Mykonos,Le Cafe Mykonos,0,其他,0.0,0.0,0.0
+其他西餐,Sandbar,Sandbar,0,其他,0.0,0.0,0.0
+其他西餐,Freshfields Cafe,Freshfields Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Bernies Fish and Chips,Bernies Fish and Chips,0,其他,0.0,0.0,0.0
+其他西餐,TV21,TV21,0,,0.0,0.0,0.0
+其他西餐,Dins snack attack,Dins snack attack,0,其他,0.0,0.0,0.0
+其他西餐,Toybox Carvery & Play Barn,Toybox Carvery & Play Barn,0,其他,0.0,0.0,0.0
+其他西餐,The Wilton,The Wilton,0,,0.0,0.0,0.0
+其他西餐,Kro2,Kro2,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,White Lion,White Lion,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,The Alibi,The Alibi,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Antonios,Antonios,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Gourmet Burger,Gourmet Burger,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Norwegian Blue,Norwegian Blue,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Trevor Arms,Trevor Arms,0,Old Trafford,0.0,0.0,0.0
+其他西餐,Observatory Bar,Observatory Bar,0,Old Trafford,0.0,0.0,0.0
+其他西餐,Real Food Company,Real Food Company,0,其他,0.0,0.0,0.0
+其他西餐,Bollin River Cafe,Bollin River Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Ye Olde Cock Inn,Ye Olde Cock Inn,0,其他,0.0,0.0,0.0
+其他西餐,The Green Finch,The Green Finch,0,其他,0.0,0.0,0.0
+其他西餐,La esquina latina,La esquina latina,0,其他,0.0,0.0,0.0
+其他西餐,Chilli Grill,Chilli Grill,0,其他,0.0,0.0,0.0
+其他西餐,Hanaan Restaurant,Hanaan Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Steak N Grill,Steak N Grill,0,其他,0.0,0.0,0.0
+其他西餐,Jabez Clegg,Jabez Clegg,0,其他,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,其他,0.0,0.0,0.0
+其他西餐,The Haddon Hall,The Haddon Hall,0,其他,0.0,0.0,0.0
+其他西餐,The Montecristo Bar & restaurant,The Montecristo Bar & restaurant,0,,0.0,0.0,0.0
+其他西餐,Gorillas,Gorillas,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Rozafa Taverna,Rozafa Taverna,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,Bem Brazil Churrascaria,Bem Brazil Churrascaria,0,曼彻斯特市中心,0.0,0.0,0.0
+其他西餐,On the Corner,On the Corner,0,Old Trafford,0.0,0.0,0.0
+其他西餐,Windmill Crown Carvery,Windmill Crown Carvery,0,其他,0.0,0.0,0.0
+其他西餐,Brodskys,Brodskys,0,其他,0.0,0.0,0.0
+中餐,Red Chilli Chinese Restaurant,Red Chilli Chinese Restaurant,169,曼彻斯特市中心,7.7,7.2,7.5
+中餐,Red Chilli,Red Chilli,0,其他,7.7,7.7,7.7
+中餐,Tai Pan,Tai Pan,0,其他,6.9,6.8,7.3
+中餐,Little Yang Sing,Little Yang Sing,0,曼彻斯特市中心,7.3,7.3,7.3
+中餐,Happy Seasons,Happy Seasons,0,曼彻斯特市中心,8.0,8.0,8.0
+中餐,Han Dynasty,Han Dynasty,0,曼彻斯特市中心,7.6,6.8,6.8
+中餐,New Hong Kong,New Hong Kong,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Yang Sing,Yang Sing,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,China City,China City,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Great Wall,Great Wall,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Wing's Chinese Restaurant,Wing's Chinese Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Rosy Lee tearooms,Rosy Lee tearooms,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,China Buffet,China Buffet,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,The Rice Bowl,The Rice Bowl,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,BBQ Handmade Noodles King,BBQ Handmade Noodles King,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Sweet Mandarin,Sweet Mandarin,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Red & Hot Authentic Szechuan Cuisine,Red & Hot Authentic Szechuan Cuisine,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Fuzion Noodle Bar,Fuzion Noodle Bar,0,其他,0.0,0.0,0.0
+中餐,Pacific,Pacific,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Kwok Man Restaurant,Kwok Man Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Pearl City,Pearl City,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Middle Kingdom,Middle Kingdom,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Wing's Restaurant,Wing's Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Chopsticks,Chopsticks,0,,0.0,0.0,0.0
+中餐,Peachy Keens Manchester,Peachy Keens Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Noesis,Noesis,0,,0.0,0.0,0.0
+中餐,Lameizi,Lameizi,0,其他,0.0,0.0,0.0
+中餐,Umami,Umami,0,其他,0.0,0.0,0.0
+中餐,Green Tea Restaurant,Green Tea Restaurant,0,其他,0.0,0.0,0.0
+中餐,Fu's restaurant,Fu's restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,All That Sparkles Vintage Tea Room,All That Sparkles Vintage Tea Room,0,,0.0,0.0,0.0
+中餐,Number 1 Chinese Buffet,Number 1 Chinese Buffet,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Little Fusion,Little Fusion,0,其他,0.0,0.0,0.0
+中餐,New Beijing,New Beijing,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Buffet Metro,Buffet Metro,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,New Emperor,New Emperor,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Just Chinese Oriental Tapas,Just Chinese Oriental Tapas,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Jade Garden,Jade Garden,0,其他,0.0,0.0,0.0
+中餐,Ocean Treasure,Ocean Treasure,0,,0.0,0.0,0.0
+中餐,Peking Court,Peking Court,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Szechuan Kitchen,Szechuan Kitchen,0,其他,0.0,0.0,0.0
+中餐,Dragon City,Dragon City,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,International Buffet,International Buffet,0,曼彻斯特市中心,0.0,0.0,0.0
+中餐,Propertea,Propertea,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,WASABI,WASABI,0,曼彻斯特市中心,6.8,7.1,7.1
+日韩料理,YO!Sushi,YO!Sushi,0,索尔福德,6.8,6.6,6.6
+日韩料理,Seoul Kimchi,Seoul Kimchi,0,其他,7.4,6.9,7.4
+日韩料理,Tokyo Season,Tokyo Season,0,曼彻斯特市中心,8.5,8.5,8.5
+日韩料理,Wasabi Sushi and Noodle Bar,Wasabi Sushi and Noodle Bar,0,曼彻斯特市中心,7.9,7.9,7.9
+日韩料理,Ban Di Bul,Ban Di Bul,0,曼彻斯特市中心,7.2,6.2,6.2
+日韩料理,Teppanyaki Japanese Restaurant,Teppanyaki Japanese Restaurant,0,曼彻斯特市中心,8.1,8.1,8.1
+日韩料理,Yuzu Manchester,Yuzu Manchester,0,曼彻斯特市中心,7.5,6.7,7.5
+日韩料理,Yo! Sushi Manchester Arndale,Yo! Sushi Manchester Arndale,0,曼彻斯特市中心,7.3,6.8,6.8
+日韩料理,Sapporo Teppanyaki - Manchester,Sapporo Teppanyaki - Manchester,0,曼彻斯特市中心,6.7,6.7,6.7
+日韩料理,New Samsi,New Samsi,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,New Samsi,New Samsi,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,Wagamama - Manchester Printworks,Wagamama - Manchester Printworks,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,Umezushi,Umezushi,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,Koreana,Koreana,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,Baekdu,Baekdu,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,Teppenyaki,Teppenyaki,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,YO! Sushi Selfridges Manchester,YO! Sushi Selfridges Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,Sakura House Manchester,Sakura House Manchester,0,其他,0.0,0.0,0.0
+日韩料理,Oishi-Q,Oishi-Q,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,Wasabi sushi & Noodle bar,Wasabi sushi & Noodle bar,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,Rice,Rice,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,Kyotoya,Kyotoya,0,其他,0.0,0.0,0.0
+日韩料理,Yaki Soba,Yaki Soba,0,其他,0.0,0.0,0.0
+日韩料理,Sakura,Sakura,0,曼彻斯特市中心,0.0,0.0,0.0
+日韩料理,Little Samsi,Little Samsi,0,其他,0.0,0.0,0.0
+日韩料理,Japan Deli,Japan Deli,0,其他,0.0,0.0,0.0
+日韩料理,Shang Hi,Shang Hi,0,其他,0.0,0.0,0.0
+日韩料理,Yo Sushi,Yo Sushi,0,其他,0.0,0.0,0.0
+更多亚洲菜,Try Thai,Try Thai,0,曼彻斯特市中心,8.4,8.1,8.1
+更多亚洲菜,I Am Pho,I Am Pho,0,曼彻斯特市中心,8.4,7.5,7.5
+更多亚洲菜,Kebabish,Kebabish,0,其他,7.1,6.7,6.7
+更多亚洲菜,Vermilion & Cinnabar,Vermilion & Cinnabar,0,其他,6.7,6.7,6.7
+更多亚洲菜,Cafe Maharba,Cafe Maharba,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Zouk Teabar & Grill,Zouk Teabar & Grill,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Chaophraya - Manchester,Chaophraya - Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Australasia,Australasia,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,The Bangkok Bar & Restaurant,The Bangkok Bar & Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Phetpailin,Phetpailin,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Bollywood Masala,Bollywood Masala,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,ThaiKhun,ThaiKhun,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Spice Lounge,Spice Lounge,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Gossip,Gossip,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thai Spice,Thai Spice,0,Old Trafford,0.0,0.0,0.0
+更多亚洲菜,Namaste Nepal,Namaste Nepal,0,其他,0.0,0.0,0.0
+更多亚洲菜,Lal Qila Deansgate,Lal Qila Deansgate,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Ghengis Khan,Ghengis Khan,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,eastZeast,eastZeast,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Siam Orchid,Siam Orchid,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Lahore stockport road,Lahore stockport road,0,其他,0.0,0.0,0.0
+更多亚洲菜,Wagamama,Wagamama,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Khan Baba,Khan Baba,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Akbar's,Akbar's,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Topkapi Palace,Topkapi Palace,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Tampopo,Tampopo,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,katsouris Deli,katsouris Deli,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Al Faisal Tandoori,Al Faisal Tandoori,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Ning,Ning,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,This & That,This & That,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Nectar Bistro,Nectar Bistro,0,Old Trafford,0.0,0.0,0.0
+更多亚洲菜,Saray,Saray,0,Old Trafford,0.0,0.0,0.0
+更多亚洲菜,Jai Kathmandu,Jai Kathmandu,0,其他,0.0,0.0,0.0
+更多亚洲菜,Lotus restaurant,Lotus restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sangam - Didsbury,Sangam - Didsbury,0,其他,0.0,0.0,0.0
+更多亚洲菜,Cachumba,Cachumba,0,其他,0.0,0.0,0.0
+更多亚洲菜,DHOOP Authentic Indian Restaurant,DHOOP Authentic Indian Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Aladdin Restaurant,Aladdin Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sindhoor South Indian Restaurant,Sindhoor South Indian Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sanskruti Restaurant,Sanskruti Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sai Spice Chorlton,Sai Spice Chorlton,0,其他,0.0,0.0,0.0
+更多亚洲菜,Jaipur Palace,Jaipur Palace,0,其他,0.0,0.0,0.0
+更多亚洲菜,New Himalayas,New Himalayas,0,其他,0.0,0.0,0.0
+更多亚洲菜,Nayaab Restaurant & Buffet-Fallowfield,Nayaab Restaurant & Buffet-Fallowfield,0,其他,0.0,0.0,0.0
+更多亚洲菜,Punjab Tandoori Restaurant,Punjab Tandoori Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Rusholme Chippy,Rusholme Chippy,0,其他,0.0,0.0,0.0
+更多亚洲菜,Nawabs,Nawabs,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mughli Restaurant+Charcoal Pit,Mughli Restaurant+Charcoal Pit,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mazaa Authentic Kebab and Curry House,Mazaa Authentic Kebab and Curry House,0,其他,0.0,0.0,0.0
+更多亚洲菜,Ziya Asian Grill,Ziya Asian Grill,0,其他,0.0,0.0,0.0
+更多亚洲菜,MyLahore,MyLahore,0,其他,0.0,0.0,0.0
+更多亚洲菜,Spicy Hut Restaurant,Spicy Hut Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Saigon Lotus,Saigon Lotus,0,其他,0.0,0.0,0.0
+更多亚洲菜,Lahori Dera,Lahori Dera,0,其他,0.0,0.0,0.0
+更多亚洲菜,Blue Bay,Blue Bay,0,,0.0,0.0,0.0
+更多亚洲菜,Al Maidah Banquet Hall & Restaurant,Al Maidah Banquet Hall & Restaurant,0,索尔福德,0.0,0.0,0.0
+更多亚洲菜,Koh Samui Thai Restaurant & Lounge,Koh Samui Thai Restaurant & Lounge,0,,0.0,0.0,0.0
+更多亚洲菜,The Spice Club,The Spice Club,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Yadgar Cafe,Yadgar Cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,The Hungry Gecko,The Hungry Gecko,0,Old Trafford,0.0,0.0,0.0
+更多亚洲菜,Tandoori Royale,Tandoori Royale,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Great Kathmandu,The Great Kathmandu,0,其他,0.0,0.0,0.0
+更多亚洲菜,DosaExpress,DosaExpress,0,其他,0.0,0.0,0.0
+更多亚洲菜,Nawaab,Nawaab,0,其他,0.0,0.0,0.0
+更多亚洲菜,thai banana,thai banana,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mizan Tandoori,Mizan Tandoori,0,,0.0,0.0,0.0
+更多亚洲菜,Lal Haweli Restaurant,Lal Haweli Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Shere Khan,Shere Khan,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sangam Restaurant,Sangam Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Al Taiba Bukhari,Al Taiba Bukhari,0,其他,0.0,0.0,0.0
+更多亚洲菜,Petra,Petra,0,其他,0.0,0.0,0.0
+更多亚洲菜,Spicy Mango,Spicy Mango,0,其他,0.0,0.0,0.0
+更多亚洲菜,Alif Grill,Alif Grill,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kebabish Original Manchester,Kebabish Original Manchester,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mumbai Spice,Mumbai Spice,0,其他,0.0,0.0,0.0
+更多亚洲菜,No.1 Oriental Buffet Restaurant,No.1 Oriental Buffet Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Ashoka,Ashoka,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Pan Asia,Pan Asia,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Royal Orchid,Royal Orchid,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,The Milnrow Balti,The Milnrow Balti,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Harry's,Harry's,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Impress Indian Cuisine,Impress Indian Cuisine,0,Old Trafford,0.0,0.0,0.0
+更多亚洲菜,Ashiana,Ashiana,0,Old Trafford,0.0,0.0,0.0
+更多亚洲菜,Dalat,Dalat,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sher Akbar,Sher Akbar,0,其他,0.0,0.0,0.0
+更多亚洲菜,Khandoker Restaurant,Khandoker Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thai-E-Sarn Classic,Thai-E-Sarn Classic,0,其他,0.0,0.0,0.0
+更多亚洲菜,Lana Thai Restaurant,Lana Thai Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Wendy's Thai Fusion,Wendy's Thai Fusion,0,其他,0.0,0.0,0.0
+更多亚洲菜,Friends,Friends,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sanams,Sanams,0,其他,0.0,0.0,0.0
+更多亚洲菜,Jilanis Cafe,Jilanis Cafe,0,其他,0.0,0.0,0.0
+更多亚洲菜,Dehli Sweet Centre and Restaurant,Dehli Sweet Centre and Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Lal Qila,Lal Qila,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kebabish Original,Kebabish Original,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sanam,Sanam,0,其他,0.0,0.0,0.0
+更多亚洲菜,Darbar,Darbar,0,其他,0.0,0.0,0.0
+更多亚洲菜,Shahi Masala,Shahi Masala,0,其他,0.0,0.0,0.0
+更多亚洲菜,Wetherspoons Oxford Road,Wetherspoons Oxford Road,0,其他,0.0,0.0,0.0
+更多亚洲菜,Pastry House,Pastry House,0,其他,0.0,0.0,0.0
+更多亚洲菜,Choupan Restaurant,Choupan Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,T Spoon Takeaway,T Spoon Takeaway,0,其他,0.0,0.0,0.0
+更多亚洲菜,Dishad Tandoori,Dishad Tandoori,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sheer Khan Restaurant in Manchester,Sheer Khan Restaurant in Manchester,0,,0.0,0.0,0.0
+更多亚洲菜,Taj Palace,Taj Palace,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Balti Mossalla,Balti Mossalla,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Taftan Tandoori,Taftan Tandoori,0,Old Trafford,0.0,0.0,0.0
+更多亚洲菜,Eastern Tandoori,Eastern Tandoori,0,,0.0,0.0,0.0
+更多亚洲菜,Turkish Flavours,Turkish Flavours,0,其他,0.0,0.0,0.0
+更多亚洲菜,Crazy Wendys,Crazy Wendys,0,其他,0.0,0.0,0.0
+更多亚洲菜,Dream Wok,Dream Wok,0,其他,0.0,0.0,0.0
+更多亚洲菜,Islamabad Grill,Islamabad Grill,0,其他,0.0,0.0,0.0
+更多亚洲菜,Al Bilal Restaurant,Al Bilal Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Ha Noi Quan,Ha Noi Quan,0,其他,0.0,0.0,0.0
+更多亚洲菜,redhot worldbuffet,redhot worldbuffet,0,曼彻斯特市中心,0.0,0.0,0.0
+更多亚洲菜,Restaurant Jasmine,Restaurant Jasmine,0,Old Trafford,0.0,0.0,0.0
+更多亚洲菜,Pearl Restaurant,Pearl Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Turquoise,Turquoise,0,,0.0,0.0,0.0
+快餐简餐,Almost Famous,Almost Famous,0,曼彻斯特市中心,8.5,8.1,8.5
+快餐简餐,Missoula,Missoula,0,曼彻斯特市中心,7.1,7.1,6.8
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Luck Lust Liquor and Burn,Luck Lust Liquor and Burn,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,A Taste of Honey,A Taste of Honey,0,其他,0.0,0.0,0.0
+快餐简餐,Kukoos,Kukoos,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Neighbourhood,Neighbourhood,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Black Dog Ballroom,Black Dog Ballroom,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Jamie Oliver's Italian,Jamie Oliver's Italian,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,TGI Fridays Manchester Royal Exchange,TGI Fridays Manchester Royal Exchange,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Frankie and Benny's,Frankie and Benny's,0,,0.0,0.0,0.0
+快餐简餐,"Tony's Chippy,Ancoats","Tony's Chippy,Ancoats",0,,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,,0.0,0.0,0.0
+快餐简餐,Dog Bowl,Dog Bowl,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,All Star Lanes Manchester,All Star Lanes Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,The Alchemist,The Alchemist,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Dogs N Dough,Dogs N Dough,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Blue Daisy Cafe,Blue Daisy Cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,SoLita,SoLita,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Thyme Out Delicatessen,Thyme Out Delicatessen,0,其他,0.0,0.0,0.0
+快餐简餐,Monolos Diner,Monolos Diner,0,其他,0.0,0.0,0.0
+快餐简餐,Salvi's Deli,Salvi's Deli,0,,0.0,0.0,0.0
+快餐简餐,Black Dog Ballroom NWS,Black Dog Ballroom NWS,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Chow St Kitchen,Chow St Kitchen,0,,0.0,0.0,0.0
+快餐简餐,Dixy Chicken,Dixy Chicken,0,Old Trafford,0.0,0.0,0.0
+快餐简餐,The Old Monkey,The Old Monkey,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Southern 11,Southern 11,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Salvis,Salvis,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Taco Bell Arndale,Taco Bell Arndale,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Elvis' Kitchen,Elvis' Kitchen,0,其他,0.0,0.0,0.0
+快餐简餐,Barbakan Delicatessen,Barbakan Delicatessen,0,,0.0,0.0,0.0
+快餐简餐,Revolution Deansgate Locks,Revolution Deansgate Locks,0,,0.0,0.0,0.0
+快餐简餐,The Blue Pig,The Blue Pig,0,,0.0,0.0,0.0
+快餐简餐,Ranch,Ranch,0,其他,0.0,0.0,0.0
+快餐简餐,The Blue Parrot Bar and Grille,The Blue Parrot Bar and Grille,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Rice Faster Food Outlet,Rice Faster Food Outlet,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Henry J. Beans - Manchester,Henry J. Beans - Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Windy Harbour,Windy Harbour,0,其他,0.0,0.0,0.0
+快餐简餐,Chicken King,Chicken King,0,其他,0.0,0.0,0.0
+快餐简餐,The Broomhouse Grill,The Broomhouse Grill,0,,0.0,0.0,0.0
+快餐简餐,Frankie and Bennys,Frankie and Bennys,0,其他,0.0,0.0,0.0
+快餐简餐,Nando's,Nando's,0,其他,0.0,0.0,0.0
+快餐简餐,TV21,TV21,0,,0.0,0.0,0.0
+快餐简餐,Mcdonalds,Mcdonalds,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,其他,0.0,0.0,0.0
+快餐简餐,Papa Johns,Papa Johns,0,曼彻斯特市中心,0.0,0.0,0.0
+快餐简餐,Grilled Chilli,Grilled Chilli,0,,0.0,0.0,0.0
+快餐简餐,Papa Johns - Sale,Papa Johns - Sale,0,,0.0,0.0,0.0
+快餐简餐,Frankie and Benny's,Frankie and Benny's,0,,0.0,0.0,0.0
+海鲜,Steak and Lobster at Alto,Steak and Lobster at Alto,0,曼彻斯特市中心,0.0,0.0,0.0
+海鲜,Scottish Steak Club,Scottish Steak Club,0,其他,0.0,0.0,0.0
+海鲜,the GRILL on the Alley - Manchester,the GRILL on the Alley - Manchester,0,,0.0,0.0,0.0
+海鲜,Sole Restaurant & Bar,Sole Restaurant & Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+海鲜,Livebait,Livebait,0,曼彻斯特市中心,0.0,0.0,0.0
+海鲜,Sinclair's Oyster Bar,Sinclair's Oyster Bar,0,索尔福德,0.0,0.0,0.0
+烧烤,Tiger Tiger,Tiger Tiger,0,曼彻斯特市中心,7.3,7.3,7.3
+烧烤,The Oast House,The Oast House,0,曼彻斯特市中心,0.0,0.0,0.0
+烧烤,The Grill on New York Street,The Grill on New York Street,0,曼彻斯特市中心,0.0,0.0,0.0
+烧烤,"Bem Brasil, Deansgate","Bem Brasil, Deansgate",0,曼彻斯特市中心,0.0,0.0,0.0
+烧烤,Nando's Chickenland Ltd,Nando's Chickenland Ltd,0,曼彻斯特市中心,0.0,0.0,0.0
+烧烤,Gallery Bar & Grill,Gallery Bar & Grill,0,其他,0.0,0.0,0.0
+烧烤,The Broomhouse Grill,The Broomhouse Grill,0,,0.0,0.0,0.0
+烧烤,Grilled Chilli,Grilled Chilli,0,,0.0,0.0,0.0
+烧烤,Pepe's Piri Piri,Pepe's Piri Piri,0,其他,0.0,0.0,0.0
+比萨,Dough Pizza Kitchen,Dough Pizza Kitchen,0,曼彻斯特市中心,0.0,0.0,0.0
+比萨,Artisan,Artisan,0,曼彻斯特市中心,0.0,0.0,0.0
+比萨,Pizza Express - Picadilly Gardens,Pizza Express - Picadilly Gardens,0,曼彻斯特市中心,0.0,0.0,0.0
+比萨,Matt and Phred's Jazz Club,Matt and Phred's Jazz Club,0,曼彻斯特市中心,0.0,0.0,0.0
+比萨,Al Bacio,Al Bacio,0,,0.0,0.0,0.0
+比萨,The Art of Tea,The Art of Tea,0,其他,0.0,0.0,0.0
+比萨,Papa John's,Papa John's,0,其他,0.0,0.0,0.0
+比萨,Papa Johns - Sale,Papa Johns - Sale,0,,0.0,0.0,0.0
+比萨,Domino's Pizza,Domino's Pizza,0,其他,0.0,0.0,0.0
+咖啡厅,Richmond Tea Rooms,Richmond Tea Rooms,0,曼彻斯特市中心,8.3,8.3,8.3
+咖啡厅,Teacup Kitchen,Teacup Kitchen,0,曼彻斯特市中心,7.4,6.7,6.7
+咖啡厅,Home Sweet Home,Home Sweet Home,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,Java Bar Espresso,Java Bar Espresso,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,The Vienna Coffee House,The Vienna Coffee House,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,Retro Bar,Retro Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,love2eat,love2eat,0,其他,0.0,0.0,0.0
+咖啡厅,Costa,Costa,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,The Mess Cafe,The Mess Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Noesis,Noesis,0,,0.0,0.0,0.0
+咖啡厅,Christie's Bistro,Christie's Bistro,0,其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,其他,0.0,0.0,0.0
+咖啡厅,Caffe Nero,Caffe Nero,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,Sugar Junction,Sugar Junction,0,,0.0,0.0,0.0
+咖啡厅,Tea Hive,Tea Hive,0,Old Trafford,0.0,0.0,0.0
+咖啡厅,The Deli Didsbury,The Deli Didsbury,0,其他,0.0,0.0,0.0
+咖啡厅,North Tea Power,North Tea Power,0,,0.0,0.0,0.0
+咖啡厅,Fig and Sparrow,Fig and Sparrow,0,,0.0,0.0,0.0
+咖啡厅,Bexters Coffee Co,Bexters Coffee Co,0,,0.0,0.0,0.0
+咖啡厅,All That Sparkles Vintage Tea Room,All That Sparkles Vintage Tea Room,0,,0.0,0.0,0.0
+咖啡厅,Chai Latte Cafe,Chai Latte Cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,Beech Road Cafe,Beech Road Cafe,0,Old Trafford,0.0,0.0,0.0
+咖啡厅,North Star Delicatessen,North Star Delicatessen,0,Old Trafford,0.0,0.0,0.0
+咖啡厅,Gingers comfort emporium,Gingers comfort emporium,0,,0.0,0.0,0.0
+咖啡厅,Costa Coffee,Costa Coffee,0,其他,0.0,0.0,0.0
+咖啡厅,The Violet Hour,The Violet Hour,0,其他,0.0,0.0,0.0
+咖啡厅,Fyg Deli & Wine Bar,Fyg Deli & Wine Bar,0,,0.0,0.0,0.0
+咖啡厅,Caffeine & Co,Caffeine & Co,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,Patisserie Valerie,Patisserie Valerie,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,Rowntrees,Rowntrees,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,World Peace Cafe Manchester,World Peace Cafe Manchester,0,Old Trafford,0.0,0.0,0.0
+咖啡厅,Battery Park Juice Bar,Battery Park Juice Bar,0,Old Trafford,0.0,0.0,0.0
+咖啡厅,Manchester town hall cafe,Manchester town hall cafe,0,,0.0,0.0,0.0
+咖啡厅,Clancy's Coffee,Clancy's Coffee,0,其他,0.0,0.0,0.0
+咖啡厅,EAT Arndale Centre,EAT Arndale Centre,0,其他,0.0,0.0,0.0
+咖啡厅,Didbury Perk,Didbury Perk,0,其他,0.0,0.0,0.0
+咖啡厅,Ringways,Ringways,0,,0.0,0.0,0.0
+咖啡厅,Olive Connection,Olive Connection,0,,0.0,0.0,0.0
+咖啡厅,Folk,Folk,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Metro Didsbury,Cafe Metro Didsbury,0,其他,0.0,0.0,0.0
+咖啡厅,Franklins Deli,Franklins Deli,0,,0.0,0.0,0.0
+咖啡厅,Take Five,Take Five,0,,0.0,0.0,0.0
+咖啡厅,Earth Vegetarian Cafe and Juice Bar,Earth Vegetarian Cafe and Juice Bar,0,,6.9,6.9,6.9
+咖啡厅,Bake Station,Bake Station,0,曼彻斯特市中心,0.0,0.0,0.0
+咖啡厅,Hopes Sandwich Bar,Hopes Sandwich Bar,0,,0.0,0.0,0.0
+咖啡厅,Gherkin Cafe,Gherkin Cafe,0,Old Trafford,0.0,0.0,0.0
+面包甜点,Sugar Junction,Sugar Junction,0,曼彻斯特市中心,7.7,7.3,7.3
+面包甜点,Fresco Freddo's Gelateria,Fresco Freddo's Gelateria,0,曼彻斯特市中心,7.3,7.3,7.3
+面包甜点,Cocoa-Cabana,Cocoa-Cabana,0,其他,0.0,0.0,0.0
+面包甜点,Proper Tea at Manchester Cathedral,Proper Tea at Manchester Cathedral,0,曼彻斯特市中心,0.0,0.0,0.0
+面包甜点,Greggs Openshaw,Greggs Openshaw,0,其他,0.0,0.0,0.0
+面包甜点,Airyfairy Cake Boutique,Airyfairy Cake Boutique,0,其他,0.0,0.0,0.0
+面包甜点,Cafe YumYum,Cafe YumYum,0,曼彻斯特市中心,0.0,0.0,0.0
+面包甜点,Hey Little Cupcake!,Hey Little Cupcake!,0,曼彻斯特市中心,0.0,0.0,0.0
+面包甜点,Krispy Kreme Doughnuts,Krispy Kreme Doughnuts,0,,0.0,0.0,0.0
+面包甜点,Mud Crab Cafe,Mud Crab Cafe,0,其他,0.0,0.0,0.0
+面包甜点,Burton road bakery,Burton road bakery,0,其他,0.0,0.0,0.0
+面包甜点,Trove,Trove,0,其他,0.0,0.0,0.0
+面包甜点,Bonbon Chocolate workshop,Bonbon Chocolate workshop,0,,0.0,0.0,0.0
+面包甜点,Oasis ice cream,Oasis ice cream,0,,0.0,0.0,0.0
+面包甜点,Lokum il Caffe,Lokum il Caffe,0,曼彻斯特市中心,0.0,0.0,0.0
+面包甜点,Bready2Go,Bready2Go,0,,0.0,0.0,0.0
+面包甜点,Brackmans bakery & Coffee shop,Brackmans bakery & Coffee shop,0,,0.0,0.0,0.0
+面包甜点,Hopes Sandwich Bar,Hopes Sandwich Bar,0,,0.0,0.0,0.0
+面包甜点,伊卡夫冰吧,伊卡夫冰吧,0,,0.0,0.0,0.0
+酒吧,The V&A Restaurant,The V&A Restaurant,0,曼彻斯特市中心,7.2,7.6,6.8
+酒吧,The Molly House,The Molly House,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,The Vine Inn,The Vine Inn,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,The Birdcage Nightclub,The Birdcage Nightclub,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,"The Slug and Lettuce, Deansgate","The Slug and Lettuce, Deansgate",0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,The Ritz,The Ritz,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,The Deansgate,The Deansgate,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Via Fossa,Via Fossa,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Cloud 23 Cocktail Bar,Cloud 23 Cocktail Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,KRO Piccadilly,KRO Piccadilly,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,The Liquor Store,The Liquor Store,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Band on the Wall,Band on the Wall,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Apotheca Bar,Apotheca Bar,0,,0.0,0.0,0.0
+酒吧,Cruz 101,Cruz 101,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Cloud 23 Bar,Cloud 23 Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Tribeca Manchester,Tribeca Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Epernay Champagne Bar,Epernay Champagne Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Manchester House Lounge 12,Manchester House Lounge 12,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Corbieres Bar,Corbieres Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,The Grain Loft,The Grain Loft,0,其他,0.0,0.0,0.0
+酒吧,Lounge About,Lounge About,0,其他,0.0,0.0,0.0
+酒吧,The Spoon Inn,The Spoon Inn,0,其他,0.0,0.0,0.0
+酒吧,Wood. Wine & Deli,Wood. Wine & Deli,0,,0.0,0.0,0.0
+酒吧,The Vale Cottage,The Vale Cottage,0,其他,0.0,0.0,0.0
+酒吧,Kro - Old Abbey Inn,Kro - Old Abbey Inn,0,其他,0.0,0.0,0.0
+酒吧,Rooftop Lounge,Rooftop Lounge,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,K2 Karaoke Nightclub,K2 Karaoke Nightclub,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,"Long bar, spinningfields","Long bar, spinningfields",0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Liars Club,Liars Club,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Black Dog Ballroom,Black Dog Ballroom,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Cord Bar,Cord Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Burton Arms Hotel,Burton Arms Hotel,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Escape Two,Escape Two,0,其他,0.0,0.0,0.0
+酒吧,Moorfield,Moorfield,0,,0.0,0.0,0.0
+酒吧,The Drawing Room,The Drawing Room,0,其他,0.0,0.0,0.0
+酒吧,The Bijou Club,The Bijou Club,0,其他,0.0,0.0,0.0
+酒吧,The Greyhound,The Greyhound,0,,0.0,0.0,0.0
+酒吧,The King William IV,The King William IV,0,,0.0,0.0,0.0
+酒吧,Hare and Hounds,Hare and Hounds,0,其他,0.0,0.0,0.0
+酒吧,Vanilla,Vanilla,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Icon Bar,Icon Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Thompsons Arms,Thompsons Arms,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,42nd street Nightclub,42nd street Nightclub,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,The Venue,The Venue,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Club Class Bus Tours,Club Class Bus Tours,0,曼彻斯特市中心,0.0,0.0,0.0
+酒吧,Metro Bar,Metro Bar,0,,0.0,0.0,0.0
+酒吧,"Footage, Manchester","Footage, Manchester",0,其他,0.0,0.0,0.0
+酒吧,Bar eight manchester,Bar eight manchester,0,,0.0,0.0,0.0
+酒吧,Golden Lion,Golden Lion,0,,0.0,0.0,0.0
+更多美食,"Nando's - Manchester, Oxford Road","Nando's - Manchester, Oxford Road",0,曼彻斯特市中心,7.5,7.9,7.3
+更多美食,Red Hot World Buffet and Bar,Red Hot World Buffet and Bar,0,曼彻斯特市中心,7.3,7.3,7.3
+更多美食,"Nando's - Manchester, Printworks","Nando's - Manchester, Printworks",0,曼彻斯特市中心,6.8,6.8,6.8
+更多美食,The Circus Tavern,The Circus Tavern,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Sushi World Bar,Sushi World Bar,0,其他,0.0,0.0,0.0
+更多美食,Linen,Linen,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Trof - The Deaf Institute,Trof - The Deaf Institute,0,其他,0.0,0.0,0.0
+更多美食,Hilton,Hilton,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Pita Pit,Pita Pit,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Chiquito - Manchester - Printworks,Chiquito - Manchester - Printworks,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Grinch,Grinch,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Phileas Fogg Restaurant,Phileas Fogg Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Cornerhouse Cafe,Cornerhouse Cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,buffet city,buffet city,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Safad,Safad,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Teatime Collective,Teatime Collective,0,Old Trafford,0.0,0.0,0.0
+更多美食,Sampans Oriental Restaurant,Sampans Oriental Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Red Cafe Restaurant,Red Cafe Restaurant,0,,0.0,0.0,0.0
+更多美食,The Brasserie at Bewley's Hotel Manchester Airport,The Brasserie at Bewley's Hotel Manchester Airport,0,其他,0.0,0.0,0.0
+更多美食,Gaucho Grill,Gaucho Grill,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,The Koffee Pot,The Koffee Pot,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Fuel,Fuel,0,其他,0.0,0.0,0.0
+更多美食,Jaffa Restaurant,Jaffa Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Pizza Express,Pizza Express,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Jenny's Restaurant,Jenny's Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Tampopo,Tampopo,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Signatures Restaurant,Signatures Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Chicken Cottage,Chicken Cottage,0,其他,0.0,0.0,0.0
+更多美食,Velvet,Velvet,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Efes Taverna,Efes Taverna,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,KFC,KFC,0,其他,0.0,0.0,0.0
+更多美食,Subway,Subway,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Roots Restaurant Manchester,Roots Restaurant Manchester,0,其他,0.0,0.0,0.0
+更多美食,The Spicy Grill,The Spicy Grill,0,其他,0.0,0.0,0.0
+更多美食,East ia East,East ia East,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Hunan Restaurant,Hunan Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,TOPS Buffet,TOPS Buffet,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Jerk Delights,Jerk Delights,0,其他,0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,,0.0,0.0,0.0
+更多美食,Abdul Hadi,Abdul Hadi,0,其他,0.0,0.0,0.0
+更多美食,Elements Restaurant at Novotel,Elements Restaurant at Novotel,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Vivid Lounge,Vivid Lounge,0,其他,0.0,0.0,0.0
+更多美食,Lotus Vegetarian Kitchen,Lotus Vegetarian Kitchen,0,其他,0.0,0.0,0.0
+更多美食,Kitchenette,Kitchenette,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Turtle Bay,Turtle Bay,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Brewdog Manchester,Brewdog Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Obsidian Bar & Restaurant,Obsidian Bar & Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Velvet Central,Velvet Central,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,1847 City Centre - Bistro & Bar,1847 City Centre - Bistro & Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Lounge 10,Lounge 10,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,The Restaurant Bar & Grill,The Restaurant Bar & Grill,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Destino,Destino,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Go Falafel,Go Falafel,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,cafe istanbul,cafe istanbul,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,La Vina Manchester,La Vina Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Armenian Taverna,Armenian Taverna,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Kabana,Kabana,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Earth Cafe,Earth Cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Tea 42 Restaurants,Tea 42 Restaurants,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,"Bem Brasil, Northern Quarter","Bem Brasil, Northern Quarter",0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Zinc Bar & Grill - Manchester,Zinc Bar & Grill - Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Turkish Delight,Turkish Delight,0,Old Trafford,0.0,0.0,0.0
+更多美食,Sher Akbar Restaurant,Sher Akbar Restaurant,0,Old Trafford,0.0,0.0,0.0
+更多美食,m and m's caribbean spice,m and m's caribbean spice,0,Old Trafford,0.0,0.0,0.0
+更多美食,Siam Village,Siam Village,0,其他,0.0,0.0,0.0
+更多美食,Topkapi,Topkapi,0,其他,0.0,0.0,0.0
+更多美食,Jem & I,Jem & I,0,其他,0.0,0.0,0.0
+更多美食,The Third Eye,The Third Eye,0,其他,0.0,0.0,0.0
+更多美食,Volta,Volta,0,其他,0.0,0.0,0.0
+更多美食,Gurkha Grill,Gurkha Grill,0,其他,0.0,0.0,0.0
+更多美食,Greens Restaurant - Didsbury,Greens Restaurant - Didsbury,0,其他,0.0,0.0,0.0
+更多美食,Sultan,Sultan,0,其他,0.0,0.0,0.0
+更多美食,Superstore Grocer/Kitchen,Superstore Grocer/Kitchen,0,,0.0,0.0,0.0
+更多美食,Mama Flo's,Mama Flo's,0,其他,0.0,0.0,0.0
+更多美食,Kim By The Sea,Kim By The Sea,0,其他,0.0,0.0,0.0
+更多美食,Brodsky,Brodsky,0,其他,0.0,0.0,0.0
+更多美食,Eighth Day Cafe,Eighth Day Cafe,0,其他,0.0,0.0,0.0
+更多美食,Trof - Northern Quarter,Trof - Northern Quarter,0,,0.0,0.0,0.0
+更多美食,Mr Ali's,Mr Ali's,0,其他,0.0,0.0,0.0
+更多美食,Second Floor Brasserie At Harvey Nichols,Second Floor Brasserie At Harvey Nichols,0,,0.0,0.0,0.0
+更多美食,House Of Fraser,House Of Fraser,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,"Caffe Nero - Manchester, Cross Street","Caffe Nero - Manchester, Cross Street",0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Upper Crust,Upper Crust,0,其他,0.0,0.0,0.0
+更多美食,Domino's Pizza,Domino's Pizza,0,其他,0.0,0.0,0.0
+更多美食,Babylon Kebab House,Babylon Kebab House,0,其他,0.0,0.0,0.0
+更多美食,Masons,Masons,0,其他,0.0,0.0,0.0
+更多美食,Fruit Exchange,Fruit Exchange,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Joshua Brooks,Joshua Brooks,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,The Beluga Restaurant,The Beluga Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Mcdonald's Restaurants,Mcdonald's Restaurants,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Gemini Cafe,Gemini Cafe,0,其他,0.0,0.0,0.0
+更多美食,Revolution Oxford Road,Revolution Oxford Road,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Atlas Bar,Atlas Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Barca,Barca,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Giraffe - Spinningfields,Giraffe - Spinningfields,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Pret A Manger,Pret A Manger,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Gbk,Gbk,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Falafel,Falafel,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,All Bar One - Manchester,All Bar One - Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Pizza Express,Pizza Express,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Browns Bar & Brasserie,Browns Bar & Brasserie,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,The Hourglass,The Hourglass,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Drip Coffee,Drip Coffee,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Doubletree by Hilton,Doubletree by Hilton,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Port Street Beer House,Port Street Beer House,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Eat Ltd,Eat Ltd,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Blackdog Ballroom,Blackdog Ballroom,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Hula Tiki Bar,Hula Tiki Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Pizza Express,Pizza Express,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Delhi 2 Go,Delhi 2 Go,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Oak St. Cafe,Oak St. Cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Oklahoma,Oklahoma,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,The Crown And Kettle,The Crown And Kettle,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Around The World In 80 Beers - Manchester,Around The World In 80 Beers - Manchester,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,V Revolution,V Revolution,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Panicos Kebab House,Panicos Kebab House,0,Old Trafford,0.0,0.0,0.0
+更多美食,Tibetan Kitchen,Tibetan Kitchen,0,Old Trafford,0.0,0.0,0.0
+更多美食,The Bishop Blaize,The Bishop Blaize,0,,0.0,0.0,0.0
+更多美食,Caffe Nero - Manchester Airport,Caffe Nero - Manchester Airport,0,其他,0.0,0.0,0.0
+更多美食,Brasserie Restaurant,Brasserie Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Escape Lounge T1,Escape Lounge T1,0,其他,0.0,0.0,0.0
+更多美食,Nando's - Manchester (Parrs Wood),Nando's - Manchester (Parrs Wood),0,其他,0.0,0.0,0.0
+更多美食,Raoshi Restuarant,Raoshi Restuarant,0,其他,0.0,0.0,0.0
+更多美食,Saints & Scholars,Saints & Scholars,0,其他,0.0,0.0,0.0
+更多美食,Cafe Crema,Cafe Crema,0,其他,0.0,0.0,0.0
+更多美食,Eat n' Sweet,Eat n' Sweet,0,其他,0.0,0.0,0.0
+更多美食,The Didsbury Kitchen,The Didsbury Kitchen,0,其他,0.0,0.0,0.0
+更多美食,Rhubarb Restaurant,Rhubarb Restaurant,0,其他,0.0,0.0,0.0
+更多美食,The Moon,The Moon,0,其他,0.0,0.0,0.0
+更多美食,Sajaan,Sajaan,0,其他,0.0,0.0,0.0
+更多美食,The Battered Cod,The Battered Cod,0,其他,0.0,0.0,0.0
+更多美食,Abdul's,Abdul's,0,其他,0.0,0.0,0.0
+更多美食,Anand's Vegetarian Deli and Pan Centre,Anand's Vegetarian Deli and Pan Centre,0,其他,0.0,0.0,0.0
+更多美食,Al-Quds,Al-Quds,0,其他,0.0,0.0,0.0
+更多美食,Sadaf,Sadaf,0,其他,0.0,0.0,0.0
+更多美食,Al-Madina,Al-Madina,0,其他,0.0,0.0,0.0
+更多美食,Saajan Halal,Saajan Halal,0,其他,0.0,0.0,0.0
+更多美食,Camel One,Camel One,0,其他,0.0,0.0,0.0
+更多美食,Caspian,Caspian,0,其他,0.0,0.0,0.0
+更多美食,Jazera,Jazera,0,其他,0.0,0.0,0.0
+更多美食,The Anchor Coffee House,The Anchor Coffee House,0,其他,0.0,0.0,0.0
+更多美食,Common,Common,0,,0.0,0.0,0.0
+更多美食,Aardvark Cafe,Aardvark Cafe,0,其他,0.0,0.0,0.0
+更多美食,The Pub/Zoo,The Pub/Zoo,0,其他,0.0,0.0,0.0
+更多美食,Yasmin Garden,Yasmin Garden,0,其他,0.0,0.0,0.0
+更多美食,Glamorous Chinese,Glamorous Chinese,0,其他,0.0,0.0,0.0
+更多美食,Sahara Manchester,Sahara Manchester,0,其他,0.0,0.0,0.0
+更多美食,Indian Ocean,Indian Ocean,0,其他,0.0,0.0,0.0
+更多美食,Pizza Hut,Pizza Hut,0,其他,0.0,0.0,0.0
+更多美食,Marley's Caribbean Restaurant,Marley's Caribbean Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Nando's - Manchester Piccadilly,Nando's - Manchester Piccadilly,0,其他,0.0,0.0,0.0
+更多美食,Cafe Loco,Cafe Loco,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Tempus Restaurant,Tempus Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Charles Halle Restaurant,Charles Halle Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Olive Deli,Olive Deli,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,salt n pepper,salt n pepper,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Pitcher & Piano - GT Bridgewater,Pitcher & Piano - GT Bridgewater,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,The Bishopsgate Table Table,The Bishopsgate Table Table,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Colony Restaurant,Colony Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Piccadilly Lounge,Piccadilly Lounge,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,The Victoria and Albert Restaurant,The Victoria and Albert Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Lincoln,Lincoln,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Costa,Costa,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Tom's Champagne Bar,Tom's Champagne Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Lime,Lime,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Tj's Fast Food,Tj's Fast Food,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Leonis Ristorante,Leonis Ristorante,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,panacea,panacea,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Rgb,Rgb,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Savouries,Savouries,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Mish,Mish,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Rollers cafe,Rollers cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Zenzero,Zenzero,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Kebabish,Kebabish,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Frankie & Benny's New York Restaurant,Frankie & Benny's New York Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Cuba Cafe,Cuba Cafe,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,MCR Coffee CO.,MCR Coffee CO.,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,"Barburrito Manchester, Deansgate","Barburrito Manchester, Deansgate",0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Rosylee Tea Rooms,Rosylee Tea Rooms,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Robbies Restaurant & Bar,Robbies Restaurant & Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Walrus Canteen & Lounge,Walrus Canteen & Lounge,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Henry J Beans (Eurotel),Henry J Beans (Eurotel),0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Terrace,Terrace,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Bar Fringe,Bar Fringe,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Caffe Nero,Caffe Nero,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Serendipitea,Serendipitea,0,Old Trafford,0.0,0.0,0.0
+更多美食,Morley Cheeks,Morley Cheeks,0,Old Trafford,0.0,0.0,0.0
+更多美食,Francisco Pizza,Francisco Pizza,0,Old Trafford,0.0,0.0,0.0
+更多美食,Zam Zam Tandoori,Zam Zam Tandoori,0,Old Trafford,0.0,0.0,0.0
+更多美食,Lloyds Hotel,Lloyds Hotel,0,Old Trafford,0.0,0.0,0.0
+更多美食,Caffeine & Co Longford Park,Caffeine & Co Longford Park,0,Old Trafford,0.0,0.0,0.0
+更多美食,The Baths Supper Bar,The Baths Supper Bar,0,Old Trafford,0.0,0.0,0.0
+更多美食,Shiva Tandoori Takeaway,Shiva Tandoori Takeaway,0,Old Trafford,0.0,0.0,0.0
+更多美食,Paan House,Paan House,0,Old Trafford,0.0,0.0,0.0
+更多美食,Clippers Restaurant & Bar,Clippers Restaurant & Bar,0,,0.0,0.0,0.0
+更多美食,Continental Pizza,Continental Pizza,0,,0.0,0.0,0.0
+更多美食,Collage,Collage,0,其他,0.0,0.0,0.0
+更多美食,Escape Lounge T2,Escape Lounge T2,0,其他,0.0,0.0,0.0
+更多美食,Source Grill Restaurant,Source Grill Restaurant,0,,0.0,0.0,0.0
+更多美食,Yue Yee Express,Yue Yee Express,0,其他,0.0,0.0,0.0
+更多美食,Mr Bakers,Mr Bakers,0,其他,0.0,0.0,0.0
+更多美食,Deli19,Deli19,0,其他,0.0,0.0,0.0
+更多美食,Momma 'B's,Momma 'B's,0,其他,0.0,0.0,0.0
+更多美食,Tastee's Jerk Food,Tastee's Jerk Food,0,其他,0.0,0.0,0.0
+更多美食,Chiquito - Didsbury,Chiquito - Didsbury,0,其他,0.0,0.0,0.0
+更多美食,The Crazy Cow Cafe,The Crazy Cow Cafe,0,其他,0.0,0.0,0.0
+更多美食,Laughing Buddha,Laughing Buddha,0,其他,0.0,0.0,0.0
+更多美食,The Famous Crown,The Famous Crown,0,其他,0.0,0.0,0.0
+更多美食,The Didsbury Brasserie,The Didsbury Brasserie,0,其他,0.0,0.0,0.0
+更多美食,Refresh Cafe,Refresh Cafe,0,其他,0.0,0.0,0.0
+更多美食,"The Slug and Lettuce, Didsbury","The Slug and Lettuce, Didsbury",0,其他,0.0,0.0,0.0
+更多美食,Indihome,Indihome,0,其他,0.0,0.0,0.0
+更多美食,The Bank,The Bank,0,其他,0.0,0.0,0.0
+更多美食,Sansou Cafe,Sansou Cafe,0,其他,0.0,0.0,0.0
+更多美食,Godfarther Kebab House,Godfarther Kebab House,0,其他,0.0,0.0,0.0
+更多美食,Solomon Grundy,Solomon Grundy,0,其他,0.0,0.0,0.0
+更多美食,Indian Spice,Indian Spice,0,其他,0.0,0.0,0.0
+更多美食,KFC,KFC,0,其他,0.0,0.0,0.0
+更多美食,The Swan,The Swan,0,其他,0.0,0.0,0.0
+更多美食,Abdul's,Abdul's,0,其他,0.0,0.0,0.0
+更多美食,Oriental House,Oriental House,0,其他,0.0,0.0,0.0
+更多美食,Saajan Takeaway,Saajan Takeaway,0,其他,0.0,0.0,0.0
+更多美食,Shans,Shans,0,其他,0.0,0.0,0.0
+更多美食,Suhag,Suhag,0,,0.0,0.0,0.0
+更多美食,Trof - Fallowfield,Trof - Fallowfield,0,其他,0.0,0.0,0.0
+更多美食,Tae's Tavern,Tae's Tavern,0,其他,0.0,0.0,0.0
+更多美食,Lahori Karahi & Chargha,Lahori Karahi & Chargha,0,其他,0.0,0.0,0.0
+更多美食,Charlie's Chippy,Charlie's Chippy,0,,0.0,0.0,0.0
+更多美食,Barakat Balti,Barakat Balti,0,,0.0,0.0,0.0
+更多美食,Barney's Brook Road Chip Shop,Barney's Brook Road Chip Shop,0,,0.0,0.0,0.0
+更多美食,Ambala,Ambala,0,其他,0.0,0.0,0.0
+更多美食,Marmara,Marmara,0,其他,0.0,0.0,0.0
+更多美食,Lahori Dera,Lahori Dera,0,其他,0.0,0.0,0.0
+更多美食,Wetherspoons,Wetherspoons,0,其他,0.0,0.0,0.0
+更多美食,Afghan Cuisine,Afghan Cuisine,0,其他,0.0,0.0,0.0
+更多美食,Shahenshah Restaurant,Shahenshah Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Kobeda Place,Kobeda Place,0,其他,0.0,0.0,0.0
+更多美食,Spice Kitchens,Spice Kitchens,0,其他,0.0,0.0,0.0
+更多美食,Kebabish,Kebabish,0,其他,0.0,0.0,0.0
+更多美食,Alaqsa takeaway,Alaqsa takeaway,0,其他,0.0,0.0,0.0
+更多美食,Nafees Take Away Food Shops,Nafees Take Away Food Shops,0,其他,0.0,0.0,0.0
+更多美食,Beirut Lebanese Restaurant,Beirut Lebanese Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Lazeeza,Lazeeza,0,其他,0.0,0.0,0.0
+更多美食,Alishan,Alishan,0,其他,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,其他,0.0,0.0,0.0
+更多美食,Yaba,Yaba,0,其他,0.0,0.0,0.0
+更多美食,Flames,Flames,0,其他,0.0,0.0,0.0
+更多美食,Fai Wong,Fai Wong,0,,0.0,0.0,0.0
+更多美食,Kakoli,Kakoli,0,,0.0,0.0,0.0
+更多美食,Wing's Dai Pai Dong,Wing's Dai Pai Dong,0,,0.0,0.0,0.0
+更多美食,SAFFRONS,SAFFRONS,0,其他,0.0,0.0,0.0
+更多美食,Rendevous 1,Rendevous 1,0,,0.0,0.0,0.0
+更多美食,Win Wah,Win Wah,0,其他,0.0,0.0,0.0
+更多美食,Thompsons,Thompsons,0,其他,0.0,0.0,0.0
+更多美食,Delaunays Fish And Chips,Delaunays Fish And Chips,0,其他,0.0,0.0,0.0
+更多美食,Farrell's,Farrell's,0,其他,0.0,0.0,0.0
+更多美食,Thompsons,Thompsons,0,其他,0.0,0.0,0.0
+更多美食,Frurt Frozen Yogurt,Frurt Frozen Yogurt,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Loaf,Loaf,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,The Hub Restaurant,The Hub Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Kitchen at Circle,Kitchen at Circle,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Manto,Manto,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,McTuckys Fried Chicken & Burgers,McTuckys Fried Chicken & Burgers,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,The Overstuffed Pizzeria,The Overstuffed Pizzeria,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Crompton's Restaurant,Crompton's Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Jenny's Restaurant and Bar,Jenny's Restaurant and Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Williams Sandwich Bar,Williams Sandwich Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Mcdonald's Restaurants,Mcdonald's Restaurants,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,The Circle Club,The Circle Club,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Dry Bar,Dry Bar,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Cedar Tree Restaurant,Cedar Tree Restaurant,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Golden Tandoori,Golden Tandoori,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Spirit,Spirit,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Domino's Pizza UK - Manchester Arena,Domino's Pizza UK - Manchester Arena,0,,0.0,0.0,0.0
+更多美食,Sugar Cube Mcr,Sugar Cube Mcr,0,Old Trafford,0.0,0.0,0.0
+更多美食,Yeopan's,Yeopan's,0,Old Trafford,0.0,0.0,0.0
+更多美食,The Styal Lounge,The Styal Lounge,0,其他,0.0,0.0,0.0
+更多美食,Bellhouse,Bellhouse,0,其他,0.0,0.0,0.0
+更多美食,The Bell House,The Bell House,0,其他,0.0,0.0,0.0
+更多美食,Swadesh Didsbury,Swadesh Didsbury,0,其他,0.0,0.0,0.0
+更多美食,Subway Didsbury,Subway Didsbury,0,其他,0.0,0.0,0.0
+更多美食,Kansas Fried Chicken,Kansas Fried Chicken,0,其他,0.0,0.0,0.0
+更多美食,Stop Inn,Stop Inn,0,其他,0.0,0.0,0.0
+更多美食,Zal Takeaway,Zal Takeaway,0,其他,0.0,0.0,0.0
+更多美食,First Wok,First Wok,0,其他,0.0,0.0,0.0
+更多美食,Subway Withington,Subway Withington,0,其他,0.0,0.0,0.0
+更多美食,Battered Cod,Battered Cod,0,其他,0.0,0.0,0.0
+更多美食,Sicily Pizza,Sicily Pizza,0,其他,0.0,0.0,0.0
+更多美食,Farmacia Del Dolce,Farmacia Del Dolce,0,,0.0,0.0,0.0
+更多美食,Subway Fallowfield,Subway Fallowfield,0,其他,0.0,0.0,0.0
+更多美食,Al Waalis Restaurant,Al Waalis Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Taste And Spice,Taste And Spice,0,其他,0.0,0.0,0.0
+更多美食,Al Nawaz,Al Nawaz,0,其他,0.0,0.0,0.0
+更多美食,The Canadian Charcoal Pitt,The Canadian Charcoal Pitt,0,其他,0.0,0.0,0.0
+更多美食,Hot N Spice,Hot N Spice,0,其他,0.0,0.0,0.0
+更多美食,Jaljeera,Jaljeera,0,其他,0.0,0.0,0.0
+更多美食,Italian Express,Italian Express,0,其他,0.0,0.0,0.0
+更多美食,Sajids Tandoori,Sajids Tandoori,0,其他,0.0,0.0,0.0
+更多美食,King Tucky Fried Chicken,King Tucky Fried Chicken,0,其他,0.0,0.0,0.0
+更多美食,Hunter,Hunter,0,,0.0,0.0,0.0
+更多美食,Sunflower,Sunflower,0,其他,0.0,0.0,0.0
+更多美食,KFC Drive Thru,KFC Drive Thru,0,,0.0,0.0,0.0
+更多美食,Wings,Wings,0,,0.0,0.0,0.0
+更多美食,Salvi's Deli,Salvi's Deli,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,Beirut,Beirut,0,其他,0.0,0.0,0.0
+更多美食,Odd,Odd,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,This'n'That,This'n'That,0,曼彻斯特市中心,0.0,0.0,0.0
+更多美食,The Waterside Restaurant UK,The Waterside Restaurant UK,0,,0.0,0.0,0.0
+更多美食,Tnq,Tnq,0,,0.0,0.0,0.0

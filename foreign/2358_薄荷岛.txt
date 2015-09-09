@@ -1,0 +1,59 @@
+咖啡厅,Garden Cafe,Garden Cafe,0,薄荷岛其他,0.0,0.0,0.0
+咖啡厅,Bo's Coffee Club,Bo's Coffee Club,0,塔比拉兰市,0.0,0.0,0.0
+酒吧,The great Aussie BBQ,The great Aussie BBQ,0,邦劳岛阿洛纳海滩,8.4,7.9,8.4
+酒吧,Oops Bar,Oops Bar,0,,0.0,0.0,0.0
+中餐,北京家常菜,北京家常菜,0,邦劳岛博洛德海滩,6.9,6.9,6.8
+中餐,GIUSEPPE RESTARANT,GIUSEPPE RESTARANT,0,,8.0,7.2,7.0
+更多亚洲菜,Trudi's Place,Trudi's Place,0,邦劳岛博洛德海滩,0.0,0.0,0.0
+更多亚洲菜,Bier Garden,Bier Garden,0,邦劳岛博洛德海滩,0.0,0.0,0.0
+更多亚洲菜,Gerarda's,Gerarda's,0,塔比拉兰市,0.0,0.0,0.0
+更多亚洲菜,Golden Cowrie,Golden Cowrie,0,塔比拉兰市,0.0,0.0,0.0
+更多亚洲菜,Anda White Beach Resort,Anda White Beach Resort,0,薄荷岛其他,0.0,0.0,0.0
+更多亚洲菜,RIVER WATCH FLOATING RESTO,RIVER WATCH FLOATING RESTO,0,薄荷岛其他,0.0,0.0,0.0
+更多亚洲菜,Stk Foodhouse,Stk Foodhouse,0,塔比拉兰市,0.0,0.0,0.0
+更多亚洲菜,Payag Restaurant,Payag Restaurant,0,薄荷岛其他,0.0,0.0,0.0
+更多亚洲菜,Rio Verde Floating Resto,Rio Verde Floating Resto,0,薄荷岛其他,0.0,0.0,0.0
+更多亚洲菜,Loboc Rioverview Restaurant,Loboc Rioverview Restaurant,0,薄荷岛其他,0.0,0.0,0.0
+更多亚洲菜,Mang Inasal,Mang Inasal,0,薄荷岛其他,0.0,0.0,0.0
+更多亚洲菜,RDJ Mountain View Resort,RDJ Mountain View Resort,0,薄荷岛其他,0.0,0.0,0.0
+更多亚洲菜,Long River Cruise Floating Resto,Long River Cruise Floating Resto,0,薄荷岛其他,0.0,0.0,0.0
+更多亚洲菜,Lagkaw Grill,Lagkaw Grill,0,薄荷岛其他,0.0,0.0,0.0
+更多亚洲菜,Kayla'a Beach Resort,Kayla'a Beach Resort,0,塔比拉兰市,0.0,0.0,0.0
+西式快餐,Tiger Maggie Restaurant,Tiger Maggie Restaurant,0,邦劳岛阿洛纳海滩,7.1,7.1,7.5
+西式快餐,Pizza Hut Bohol,Pizza Hut Bohol,0,薄荷岛其他,0.0,0.0,0.0
+西式快餐,Greenwich,Greenwich,0,薄荷岛其他,0.0,0.0,0.0
+西式快餐,Cup of Jo,Cup of Jo,0,塔比拉兰市,0.0,0.0,0.0
+西式快餐,Chowking,Chowking,0,薄荷岛其他,0.0,0.0,0.0
+日韩料理,Rai Rai Ken,Rai Rai Ken,0,薄荷岛其他,0.0,0.0,0.0
+西式正餐,Le Rendez-Vous Cafe Alona Beach,Le Rendez-Vous Cafe Alona Beach,0,邦劳岛博洛德海滩,0.0,0.0,0.0
+西式正餐,Swiss Restaurant,Swiss Restaurant,0,塔比拉兰市,0.0,0.0,0.0
+西式正餐,Alona Burger,Alona Burger,0,邦劳岛博洛德海滩,0.0,0.0,0.0
+西式正餐,Masters Home,Masters Home,0,薄荷岛其他,0.0,0.0,0.0
+西式正餐,Old Heidelberg Restaurant & Wine Cellar,Old Heidelberg Restaurant & Wine Cellar,0,薄荷岛其他,0.0,0.0,0.0
+西式正餐,OLLIWOOD European Cuisine,OLLIWOOD European Cuisine,0,塔比拉兰市,0.0,0.0,0.0
+西式正餐,Alona Pizza,Alona Pizza,0,薄荷岛其他,0.0,0.0,0.0
+西式正餐,"Ciao! Pizza, Pasta, etc.","Ciao! Pizza, Pasta, etc.",0,薄荷岛其他,0.0,0.0,0.0
+西式正餐,Oops Bar,Oops Bar,0,薄荷岛其他,0.0,0.0,0.0
+西式正餐,Frankie's Cafe,Frankie's Cafe,0,薄荷岛其他,0.0,0.0,0.0
+西式正餐,KFC,KFC,0,薄荷岛其他,0.0,0.0,0.0
+海鲜,Roderick & Vivien Seafoods and Restaurant,Roderick & Vivien Seafoods and Restaurant,0,邦劳岛博洛德海滩,0.0,0.0,0.0
+海鲜,Mr. Diver Dive Restaurant,Mr. Diver Dive Restaurant,0,邦劳岛阿洛纳海滩,8.0,8.0,8.0
+海鲜,The Prawn Farm,The Prawn Farm,0,塔比拉兰市,0.0,0.0,0.0
+海鲜,Mira Villa Seafood Restaurant,Mira Villa Seafood Restaurant,0,薄荷岛其他,0.0,0.0,0.0
+海鲜,Heritage Crab House Seafood Restaurant,Heritage Crab House Seafood Restaurant,0,塔比拉兰市,0.0,0.0,0.0
+海鲜,JJ's Seafood Village,JJ's Seafood Village,0,塔比拉兰市,0.0,0.0,0.0
+烧烤,阿罗那海德梦幻度假酒店,阿罗那海德梦幻度假酒店,0,邦劳岛阿洛纳海滩,6.8,6.2,5.9
+烧烤,Arirang seafood restaurant,Arirang seafood restaurant,0,邦劳岛阿洛纳海滩,6.1,6.1,7.4
+烧烤,Gerry's Grill,Gerry's Grill,0,薄荷岛其他,0.0,0.0,0.0
+烧烤,Chicken Ati-Atihan,Chicken Ati-Atihan,0,塔比拉兰市,0.0,0.0,0.0
+烧烤,Bacolod Chicken Barbeque,Bacolod Chicken Barbeque,0,塔比拉兰市,0.0,0.0,0.0
+东南亚菜,Bohol Bee Farm,Bohol Bee Farm,99,邦劳岛博洛德海滩,8.1,8.5,7.8
+东南亚菜,Isis Thai Restaurant,Isis Thai Restaurant,63,邦劳岛,7.1,6.9,6.9
+其他美食,The Buzzz Cafe,The Buzzz Cafe,0,薄荷岛其他,7.4,7.7,7.5
+其他美食,Venia's Kitchen,Venia's Kitchen,0,薄荷岛其他,0.0,0.0,0.0
+其他美食,Jugalis Bistro,Jugalis Bistro,0,薄荷岛其他,0.0,0.0,0.0
+其他美食,Lamian World Cuisine,Lamian World Cuisine,0,薄荷岛其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,薄荷岛其他,0.0,0.0,0.0
+其他美食,DBR Grill,DBR Grill,0,薄荷岛其他,0.0,0.0,0.0
+面包甜点,Gelateria Milano,Gelateria Milano,0,薄荷岛其他,0.0,0.0,0.0
+面包甜点,Dunkin Donuts,Dunkin Donuts,0,塔比拉兰市,0.0,0.0,0.0

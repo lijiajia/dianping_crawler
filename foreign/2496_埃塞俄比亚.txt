@@ -1,0 +1,39 @@
+意大利菜,Top View,Top View,0,亚的斯亚贝巴,7.2,7.2,7.2
+意大利菜,the number one restaurant,the number one restaurant,0,亚的斯亚贝巴,7.4,7.4,7.4
+其他西餐,Canaan restaurant&pizzeria,Canaan restaurant&pizzeria,0,亚的斯亚贝巴,7.4,7.4,7.4
+其他西餐,bata restaurant,bata restaurant,0,亚的斯亚贝巴,7.3,7.3,6.8
+其他西餐,Reem restrautant,Reem restrautant,0,亚的斯亚贝巴,6.7,6.7,6.7
+中餐,长城饭店,长城饭店,0,亚的斯亚贝巴,7.0,7.2,7.5
+中餐,天天酒店,天天酒店,0,亚的斯亚贝巴,7.4,7.4,7.4
+中餐,东来顺面馆,东来顺面馆,0,亚的斯亚贝巴,6.7,6.7,6.7
+中餐,小林面馆,小林面馆,0,亚的斯亚贝巴,6.7,6.7,6.7
+日韩料理,rainbow korean restautant,rainbow korean restautant,0,亚的斯亚贝巴,6.8,6.8,6.8
+日韩料理,阿里郎,阿里郎,0,亚的斯亚贝巴,7.3,6.8,6.8
+更多亚洲菜,也门餐厅,也门餐厅,0,亚的斯亚贝巴,6.8,6.3,6.8
+快餐简餐,许记羊肉馆,许记羊肉馆,0,亚的斯亚贝巴,6.1,6.1,6.1
+快餐简餐,karavan coffee,karavan coffee,0,亚的斯亚贝巴,6.2,7.3,6.2
+海鲜,吕记鱼庄,吕记鱼庄,0,亚的斯亚贝巴,7.3,7.3,7.3
+海鲜,中国海鲜批发市场,中国海鲜批发市场,0,亚的斯亚贝巴,6.7,6.7,6.7
+烧烤,独一处烧烤,独一处烧烤,0,亚的斯亚贝巴,7.5,7.0,7.4
+咖啡厅,机场咖啡厅,机场咖啡厅,0,亚的斯亚贝巴,7.3,7.0,6.9
+咖啡厅,cafe la parisienne,cafe la parisienne,0,亚的斯亚贝巴,6.2,6.2,6.2
+咖啡厅,Celavia burger &cafe,Celavia burger &cafe,0,亚的斯亚贝巴,0.0,0.0,0.0
+咖啡厅,Turkish restaurant &cafe,Turkish restaurant &cafe,0,亚的斯亚贝巴,0.0,0.0,0.0
+咖啡厅,Munch German Bakery Cafe,Munch German Bakery Cafe,0,亚的斯亚贝巴,0.0,0.0,0.0
+咖啡厅,Choche Cafe,Choche Cafe,0,,7.0,7.0,7.0
+咖啡厅,Cafe Miru,Cafe Miru,0,,6.9,6.9,6.9
+咖啡厅,St. Mary Cafe and Restaurant,St. Mary Cafe and Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Efoy cafe and restuarant in bahir dar,Efoy cafe and restuarant in bahir dar,0,,7.0,7.1,7.1
+咖啡厅,Raizel Cafe,Raizel Cafe,0,,6.9,6.9,7.0
+咖啡厅,Dandi Cafe and Restaurant,Dandi Cafe and Restaurant,0,,7.0,7.1,7.0
+咖啡厅,kaldi's coffee,kaldi's coffee,0,,0.0,0.0,0.0
+面包甜点,Cupcake Delights,Cupcake Delights,0,亚的斯亚贝巴,7.1,7.1,6.7
+面包甜点,euyel degefu sisly ice cream,euyel degefu sisly ice cream,0,亚的斯亚贝巴,7.4,7.4,7.4
+面包甜点,rigel cake,rigel cake,0,亚的斯亚贝巴,6.2,6.8,6.2
+面包甜点,艾拉米苏,艾拉米苏,0,,0.0,0.0,0.0
+酒吧,Memo Club,Memo Club,0,亚的斯亚贝巴,7.3,7.3,7.3
+酒吧,The Dome Famous CLub,The Dome Famous CLub,0,亚的斯亚贝巴,7.3,8.0,8.0
+酒吧,Roha Bar and Restaurant,Roha Bar and Restaurant,0,,7.0,7.0,7.0
+酒吧,Arcobaleno restaurant and bar,Arcobaleno restaurant and bar,0,,7.0,7.0,7.0
+更多美食,2000Culture resTruant,2000Culture resTruant,0,亚的斯亚贝巴,7.7,7.7,7.7
+更多美食,Mango juice,Mango juice,0,亚的斯亚贝巴,8.0,6.8,8.0

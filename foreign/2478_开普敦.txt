@@ -1,0 +1,81 @@
+意大利菜,La Cantina,La Cantina,0,,6.9,6.9,6.9
+意大利菜,ISOLA,ISOLA,0,,7.0,7.0,7.0
+意大利菜,Bella Italia,Bella Italia,0,,7.0,6.9,7.0
+快餐简餐,KFC,KFC,0,,6.7,6.7,6.7
+快餐简餐,Mitico,Mitico,0,,7.2,7.2,7.2
+快餐简餐,Subway Buitengracht,Subway Buitengracht,0,,6.9,6.9,6.9
+海鲜,Ocean Basket,Ocean Basket,0,,7.2,7.2,7.2
+比萨,NY Slice Pizza,NY Slice Pizza,0,,7.1,7.0,7.0
+比萨,Bruegels Pizza Studio,Bruegels Pizza Studio,0,,7.1,7.1,7.1
+比萨,I love Pizza Khaya,I love Pizza Khaya,0,,6.9,6.9,6.9
+比萨,Diva Pizza,Diva Pizza,0,,7.0,7.0,7.0
+比萨,The Pizza Shack,The Pizza Shack,0,,7.1,7.0,7.1
+比萨,Scooters Pizza,Scooters Pizza,0,,6.9,6.9,6.9
+咖啡厅,Africa Cafe,Africa Cafe,0,,7.2,7.2,7.2
+咖啡厅,Truth Coffee HQ,Truth Coffee HQ,0,,7.2,7.2,7.2
+咖啡厅,Bootlegger Coffee Company,Bootlegger Coffee Company,0,,7.1,7.1,7.1
+咖啡厅,Crust Cafe,Crust Cafe,0,,7.1,7.0,7.0
+咖啡厅,Woolworth Cafe,Woolworth Cafe,0,,7.1,7.1,7.1
+咖啡厅,Pink Coffee Boutique,Pink Coffee Boutique,0,,6.9,7.0,6.9
+咖啡厅,Birds Boutique Cafe,Birds Boutique Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Haas,Cafe Haas,0,,7.2,7.2,7.2
+咖啡厅,Red Sofa Cafe,Red Sofa Cafe,0,,7.1,7.1,7.0
+咖啡厅,The Bayside Cafe,The Bayside Cafe,0,,7.2,7.2,7.2
+咖啡厅,Nelson's Eye,Nelson's Eye,0,,7.2,7.2,7.2
+咖啡厅,Cafe Pescado,Cafe Pescado,0,,7.2,7.2,7.2
+咖啡厅,Cafe Caprice,Cafe Caprice,0,,7.2,7.2,7.2
+咖啡厅,Bolo'bolo - Anarchist Infoshop and Vegan Cafe,Bolo'bolo - Anarchist Infoshop and Vegan Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe D'Arts,Cafe D'Arts,0,,6.9,6.9,6.9
+咖啡厅,Bella Vegan Cafe,Bella Vegan Cafe,0,,6.9,6.9,6.9
+咖啡厅,Lelapa - The Home,Lelapa - The Home,0,,6.9,6.9,6.9
+咖啡厅,Dizzys Cafe,Dizzys Cafe,0,,7.1,7.1,7.1
+咖啡厅,Driftwoods Cafe,Driftwoods Cafe,0,,7.3,7.1,7.1
+咖啡厅,Empire Cafe,Empire Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Puerto Cabo,Cafe Puerto Cabo,0,,6.9,6.9,6.9
+咖啡厅,Ice Cafe,Ice Cafe,0,,7.1,7.0,7.0
+咖啡厅,GUSTO Cafeteria,GUSTO Cafeteria,0,,7.0,7.0,7.0
+咖啡厅,Gaslight Cafe,Gaslight Cafe,0,,7.0,7.0,7.0
+咖啡厅,Deluxe Urban Cafe,Deluxe Urban Cafe,0,,6.9,6.9,6.9
+咖啡厅,miao,miao,0,,6.9,6.9,7.0
+咖啡厅,District CAFE,District CAFE,0,,7.1,7.0,7.0
+咖啡厅,C'est La Vie,C'est La Vie,0,,7.0,7.0,7.0
+咖啡厅,Kalk Bay Cafe,Kalk Bay Cafe,0,,7.0,7.0,7.0
+咖啡厅,Cafe Zanne,Cafe Zanne,0,,6.9,6.9,6.9
+咖啡厅,Buzz Cafe,Buzz Cafe,0,,7.0,7.0,7.0
+咖啡厅,Rcaffe Coffee Shop,Rcaffe Coffee Shop,0,,7.2,7.2,7.2
+咖啡厅,Chocolat Cafe,Chocolat Cafe,0,,7.0,7.0,7.0
+咖啡厅,Toby's Coffee Shop,Toby's Coffee Shop,0,,7.0,7.0,7.0
+咖啡厅,Aroma Cafe Restaurant,Aroma Cafe Restaurant,0,,7.0,7.0,7.1
+咖啡厅,Caturra Coffee Bar,Caturra Coffee Bar,0,,6.9,6.9,6.9
+咖啡厅,Courtyard Cafe,Courtyard Cafe,0,,6.9,6.7,6.9
+咖啡厅,shoreline cafe,shoreline cafe,0,,6.9,6.9,6.9
+咖啡厅,New York Bagels,New York Bagels,0,,7.1,7.0,7.0
+咖啡厅,Harbour View Cafe and Restaurant,Harbour View Cafe and Restaurant,0,,6.9,6.9,6.9
+咖啡厅,Cafe Mojito,Cafe Mojito,0,,7.2,7.2,7.2
+咖啡厅,Cafe Paradiso,Cafe Paradiso,0,,7.2,7.2,7.2
+咖啡厅,Cafe Frank,Cafe Frank,0,,7.0,7.0,7.0
+咖啡厅,St.George's Cafe,St.George's Cafe,0,,7.0,7.0,7.1
+咖啡厅,Cafe Sante,Cafe Sante,0,,7.1,7.1,7.1
+咖啡厅,Bread Milk and Honey,Bread Milk and Honey,0,,7.1,7.1,7.1
+咖啡厅,Wellness Cafe,Wellness Cafe,0,,7.1,7.1,7.1
+咖啡厅,Sequoia Cafe,Sequoia Cafe,0,,7.0,7.0,7.0
+面包甜点,Tri Bakery,Tri Bakery,0,,7.1,7.1,7.1
+面包甜点,Isabella's Cake and Food Shop,Isabella's Cake and Food Shop,0,,7.1,6.8,7.1
+面包甜点,Marcelinho Bakery,Marcelinho Bakery,0,,7.0,7.0,7.0
+面包甜点,Jason Bakery,Jason Bakery,0,,7.2,7.2,7.2
+酒吧,Bombay Bicycle Club,Bombay Bicycle Club,0,,7.2,7.2,7.2
+酒吧,Chiccos Espresso Bar,Chiccos Espresso Bar,0,,7.0,7.1,7.0
+酒吧,Rafikis Restaurant/bar,Rafikis Restaurant/bar,0,,7.0,6.9,7.0
+酒吧,The Pot Luck Club,The Pot Luck Club,0,,7.2,7.2,7.2
+酒吧,Blakes Bar,Blakes Bar,0,,7.1,7.1,7.1
+酒吧,Twankey Bar,Twankey Bar,0,,7.1,7.1,7.1
+酒吧,Shimmy Beach Club,Shimmy Beach Club,0,,7.2,6.8,7.2
+酒吧,Elephant and Barrel Village Pub,Elephant and Barrel Village Pub,0,,7.1,7.1,7.1
+酒吧,Aces'n'spades Bar,Aces'n'spades Bar,0,,6.9,6.9,6.9
+酒吧,Ours,Ours,0,,7.0,7.0,7.0
+酒吧,The Diplomatic Bar and Restaurant Pty (Ltd),The Diplomatic Bar and Restaurant Pty (Ltd),0,,7.5,7.5,7.1
+酒吧,Brian's Pub,Brian's Pub,0,,6.9,6.9,6.9
+酒吧,Characters Restaurant and Bar,Characters Restaurant and Bar,0,,6.9,6.9,6.9
+更多美食,La Boheme,La Boheme,0,,7.2,7.2,7.2
+更多美食,La Perla,La Perla,0,,7.2,7.2,7.2
+更多美食,A Touch of Madness - Victorian Quaffery,A Touch of Madness - Victorian Quaffery,0,,7.1,7.1,7.1

@@ -1,0 +1,41 @@
+东南亚菜,娜厨房,娜厨房,33,,7.6,7.0,7.1
+东南亚菜,Mermaid 海鲜,Mermaid 海鲜,0,拜县城中心,8.4,8.1,8.4
+东南亚菜,Fine Rice,Fine Rice,0,,7.7,7.8,8.1
+东南亚菜,Charlie&Lek,Charlie&Lek,0,拜县城中心,7.2,6.7,7.5
+东南亚菜,Na's Kitchen,Na's Kitchen,0,,7.5,7.5,7.0
+东南亚菜,Huan Saran,Huan Saran,0,,7.2,6.9,7.0
+东南亚菜,Karsa Long Thai food,Karsa Long Thai food,0,拜县城中心,0.0,0.0,0.0
+酒吧,Buffalo Hill Bar and Restaurant,Buffalo Hill Bar and Restaurant,0,,8.0,7.1,7.5
+酒吧,Irie Bar Pai,Irie Bar Pai,0,,7.1,7.1,7.1
+酒吧,Bebop Restaurant & Music,Bebop Restaurant & Music,0,,0.0,0.0,0.0
+酒吧,Ting Tong,Ting Tong,0,,0.0,0.0,0.0
+酒吧,Chalet Pub,Chalet Pub,0,,0.0,0.0,0.0
+小吃面食,华裔妈妈的小吃摊,华裔妈妈的小吃摊,0,,8.2,7.5,8.4
+小吃面食,卡农晶米线,卡农晶米线,0,,0.0,0.0,0.0
+西餐,Steak House牛排馆（在Baan Pai Village）,Steak House牛排馆（在Baan Pai Village）,0,拜县城中心,7.5,7.9,7.5
+西餐,Rowan Restaurant,Rowan Restaurant,0,,7.6,7.5,7.5
+西餐,Suratsa Restaurant,Suratsa Restaurant,0,,7.1,7.1,7.0
+西餐,Kai Mook Restaurant,Kai Mook Restaurant,0,,7.1,7.1,7.1
+西餐,Open-Air Restaurant at Fern Resort,Open-Air Restaurant at Fern Resort,0,,7.1,7.1,7.1
+西餐,Salween River Restaurant,Salween River Restaurant,0,,7.2,7.2,7.2
+咖啡厅,爱咖啡,爱咖啡,26,,7.0,7.9,7.3
+咖啡厅,爱草莓,爱草莓,0,拜县其他,7.5,8.3,7.7
+咖啡厅,爱咖啡,爱咖啡,0,拜县其他,7.6,8.4,7.5
+咖啡厅,黄色小屋,黄色小屋,0,拜县其他,7.3,7.5,7.2
+咖啡厅,pai Jaidee cooffe,pai Jaidee cooffe,50,,7.5,7.1,7.1
+咖啡厅,OM 花园咖啡,OM 花园咖啡,0,,8.3,8.0,8.3
+咖啡厅,Coffee in love,Coffee in love,0,拜县其他,0.0,0.0,0.0
+咖啡厅,Big's Little Cafe,Big's Little Cafe,0,,8.4,8.4,8.0
+咖啡厅,爵士花园餐吧,爵士花园餐吧,0,,7.0,7.4,7.0
+咖啡厅,All about Coffee,All about Coffee,0,,7.4,7.6,7.6
+咖啡厅,TicTac sandwich cafe,TicTac sandwich cafe,0,,7.1,7.1,7.0
+咖啡厅,Coffee For U@Soi 3,Coffee For U@Soi 3,0,,7.0,7.1,7.1
+咖啡厅,Coffee Morning,Coffee Morning,0,,7.0,7.0,7.0
+咖啡厅,Green,Green,0,,0.0,0.0,0.0
+咖啡厅,Cafe de Grill,Cafe de Grill,0,,0.0,0.0,0.0
+日本料理,墨迹寿司,墨迹寿司,0,,0.0,0.0,0.0
+面包甜点,Cake Co “0” @Pai,Cake Co “0” @Pai,20,,7.6,8.2,7.6
+面包甜点,蛋糕,蛋糕,0,,0.0,0.0,0.0
+快餐,华裔妈妈的小吃摊,华裔妈妈的小吃摊,0,,8.2,7.5,8.4
+快餐,幸运餐厅,幸运餐厅,0,,7.0,7.0,6.7
+快餐,Burrito,Burrito,0,拜县城中心,7.5,6.7,6.7

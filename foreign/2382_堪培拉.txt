@@ -1,0 +1,673 @@
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,堪培拉其他,7.3,7.3,7.3
+西餐,Dolce & Salato,Dolce & Salato,0,,7.2,7.2,7.2
+西餐,Guzman Y Gomez,Guzman Y Gomez,0,,8.3,8.3,8.3
+西餐,Artisan,Artisan,0,,7.7,7.7,7.7
+西餐,Domino's Pizza,Domino's Pizza,0,堪培拉其他,7.3,7.3,7.3
+西餐,Ciao Italia,Ciao Italia,0,堪培拉其他,7.1,7.1,7.1
+西餐,Pizza Arte,Pizza Arte,0,国会大厦,0.0,0.0,0.0
+西餐,The Restaurant,The Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Aubergine Restaurant,Aubergine Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Ruchi South Indian Restaurant,Ruchi South Indian Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,The Waterfront Restaurant,The Waterfront Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Ardeche Restaurant,Ardeche Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,Pizza Capers Gungahlin,Pizza Capers Gungahlin,0,堪培拉其他,0.0,0.0,0.0
+西餐,Domino's Pizza,Domino's Pizza,0,堪培拉其他,0.0,0.0,0.0
+西餐,Courgette Restaurant,Courgette Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,mamma's terrasa,mamma's terrasa,0,堪培拉其他,0.0,0.0,0.0
+西餐,2602 Restaurant Ainslie,2602 Restaurant Ainslie,0,堪培拉其他,0.0,0.0,0.0
+西餐,Nando's,Nando's,0,堪培拉其他,0.0,0.0,0.0
+西餐,Karuna Vegetarian Restaurant,Karuna Vegetarian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,The Green Herring Restaurant,The Green Herring Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Scuzi Pizza Trattoria,Scuzi Pizza Trattoria,0,Lonsdale St,0.0,0.0,0.0
+西餐,Taj Mahal Indian Restaurant,Taj Mahal Indian Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,Jehangir Indian Restaurant,Jehangir Indian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Plaka Pizza Take Away & Restaurant,Plaka Pizza Take Away & Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Saigon Restaurant,Saigon Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Alto Restaurant,Alto Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Teatro Vivaldi Restaurant,Teatro Vivaldi Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Jasmine House Family Asian Restaurant,Jasmine House Family Asian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Domino's Pizza South Canberra,Domino's Pizza South Canberra,0,堪培拉其他,0.0,0.0,0.0
+西餐,Greenleaf Persian Restaurant,Greenleaf Persian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Pizza Capers Holt,Pizza Capers Holt,0,堪培拉其他,0.0,0.0,0.0
+西餐,Pizza Hut,Pizza Hut,0,堪培拉其他,0.0,0.0,0.0
+西餐,Sultan's Turkish Pide Takeaway Restaurant,Sultan's Turkish Pide Takeaway Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Erindale Vietnamese Restaurant,Erindale Vietnamese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Punjabi Hut Indian Restaurant,Punjabi Hut Indian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,堪培拉其他,0.0,0.0,0.0
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,堪培拉其他,0.0,0.0,0.0
+西餐,Nyonya Restaurant,Nyonya Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Zucchini Brothers Pizza & Pasta,Zucchini Brothers Pizza & Pasta,0,堪培拉其他,0.0,0.0,0.0
+西餐,Pho Viet Family Restaurant,Pho Viet Family Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Garden Atrium Restaurant,Garden Atrium Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Domino's Pizza Conder,Domino's Pizza Conder,0,堪培拉其他,0.0,0.0,0.0
+西餐,Mossard's Restaurant,Mossard's Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Pizza Hut Dickson,Pizza Hut Dickson,0,堪培拉其他,0.0,0.0,0.0
+西餐,My's Restaurant,My's Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Green Bamboo Vietnamese Restaurant,Green Bamboo Vietnamese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Domino's Pizza Erindale,Domino's Pizza Erindale,0,堪培拉其他,0.0,0.0,0.0
+西餐,Tien Vietnamese Restaurant,Tien Vietnamese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Kingsland Vegetarian Restaurant,Kingsland Vegetarian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Kevin's Place Asian Restaurant,Kevin's Place Asian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Zeffirelli Pizza Restaurant,Zeffirelli Pizza Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Tandoor Indian Restaurant,Tandoor Indian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Tai Ping Asian Restaurant,Tai Ping Asian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Turk' Oz Pide Restaurant,Turk' Oz Pide Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Encore Pizza - Mawson,Encore Pizza - Mawson,0,堪培拉其他,0.0,0.0,0.0
+西餐,Encore Pizza - Florey,Encore Pizza - Florey,0,堪培拉其他,0.0,0.0,0.0
+西餐,Matador Restaurant,Matador Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Morks Restaurant,Morks Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Woodstock Steak & Pizza House,Woodstock Steak & Pizza House,0,Lonsdale St,0.0,0.0,0.0
+西餐,Kinh Do Vietnamese Restaurant,Kinh Do Vietnamese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Tuan's Vietnamese Restaurant,Tuan's Vietnamese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Encore Pizza - Macquarie,Encore Pizza - Macquarie,0,堪培拉其他,0.0,0.0,0.0
+西餐,Encore Pizza - Wanniasa,Encore Pizza - Wanniasa,0,堪培拉其他,0.0,0.0,0.0
+西餐,La Cantina Restaurant,La Cantina Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Domino's Pizza,Domino's Pizza,0,堪培拉其他,0.0,0.0,0.0
+西餐,Santa Lucia,Santa Lucia,0,堪培拉其他,0.0,0.0,0.0
+西餐,Family Food Court Restaurant,Family Food Court Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Phnom Penh Restaurant,Phnom Penh Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Rubicon Restaurant,Rubicon Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Berroca Restaurant,Berroca Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,Domino's Pizza,Domino's Pizza,0,堪培拉其他,0.0,0.0,0.0
+西餐,Restaurant 83,Restaurant 83,0,堪培拉其他,0.0,0.0,0.0
+西餐,Griffith Vietnamese Restaurant,Griffith Vietnamese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Ranif North Indian Restaurant,Ranif North Indian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Turkish Delight Restaurant,Turkish Delight Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Paprika Asian Restaurant,Paprika Asian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Domino's Pizza Dickson,Domino's Pizza Dickson,0,堪培拉其他,0.0,0.0,0.0
+西餐,Redsalt Restaurant,Redsalt Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Podfood Restaurant,Podfood Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Element Restaurant,Element Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Turkish Pide House Restaurant,Turkish Pide House Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Pinocchios Italian Restaurant,Pinocchios Italian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Mirchi Indian Restaurant,Mirchi Indian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Indian Affair Restaurant,Indian Affair Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Golden King Restaurant,Golden King Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Plaka Restaurant,Plaka Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Water Margin Restaurant,Water Margin Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,The Ridge Organic Restaurant,The Ridge Organic Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Mamak Corner Restaurant,Mamak Corner Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Bella Vista Restaurant,Bella Vista Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,El Dorado Steakhouse Restaurant,El Dorado Steakhouse Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,堪培拉其他,0.0,0.0,0.0
+西餐,China Town Restaurant,China Town Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Masala Hut Indian Restaurant,Masala Hut Indian Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Taj Agra Restaurant,Taj Agra Restaurant,0,堪培拉其他,0.0,0.0,0.0
+西餐,Alanya Restaurant,Alanya Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Sculpture Garden Restaurant,Sculpture Garden Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Kushi Restaurant,Kushi Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,The Belmore Restaurant,The Belmore Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Legends Spanish Restaurant,Legends Spanish Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Harem Turkish Restaurant,Harem Turkish Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,国会大厦,0.0,0.0,0.0
+西餐,The Lobby Restaurant,The Lobby Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Saffron Restaurant,Saffron Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Column Restaurant,Column Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Pangea Restaurant,Pangea Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Tims Restaurant,Tims Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Choices Vietnamese Restaurant,Choices Vietnamese Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,La Dolce Vita Restaurant,La Dolce Vita Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Hoang Hau Restaurant,Hoang Hau Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Ginseng Restaurant,Ginseng Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Cape Cod Restaurant,Cape Cod Restaurant,0,国会大厦,0.0,0.0,0.0
+西餐,Shalimar Indian Restaurant,Shalimar Indian Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,That Pizza Place,That Pizza Place,0,Lonsdale St,0.0,0.0,0.0
+西餐,Blue Elephant Indo Lanka Restaurant,Blue Elephant Indo Lanka Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,Charcoal Restaurant,Charcoal Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,African Restaurant,African Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,La Scala Restaurant,La Scala Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,Turkish Pide House Restaurant,Turkish Pide House Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,Dieci Italian Restaurant,Dieci Italian Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,Crust Gourmet Pizza Bar,Crust Gourmet Pizza Bar,0,Lonsdale St,0.0,0.0,0.0
+西餐,Zaraz Restaurant,Zaraz Restaurant,0,Lonsdale St,0.0,0.0,0.0
+西餐,大发光火梵蒂冈,大发光火梵蒂冈,0,国会大厦,0.0,0.0,0.0
+西餐,Cicerello's,Cicerello's,0,堪培拉其他,0.0,0.0,0.0
+西餐,sumo salad ANU,sumo salad ANU,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,水井坊,水井坊,0,国会大厦,7.1,7.3,7.1
+中餐厅,水井坊,水井坊,0,Lonsdale St,8.1,7.8,8.1
+中餐厅,Can Tho Vietmanese & Chinese Restaurant,Can Tho Vietmanese & Chinese Restaurant,0,堪培拉其他,7.6,7.0,7.0
+中餐厅,Prince Palace Chinese Restaurant,Prince Palace Chinese Restaurant,0,堪培拉其他,5.6,5.6,5.6
+中餐厅,新香港茶餐厅New Hong Kong Cafe,新香港茶餐厅New Hong Kong Cafe,0,,6.6,6.6,6.7
+中餐厅,The Asian Take Away,The Asian Take Away,0,,7.0,7.0,7.0
+中餐厅,Sammy's Kitchen,Sammy's Kitchen,0,国会大厦,6.7,6.7,5.4
+中餐厅,Sammy's Kitchen,Sammy's Kitchen,0,Lonsdale St,0.0,0.0,0.0
+中餐厅,Nicholls Chinese Food,Nicholls Chinese Food,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,Four Rivers Sichuan Chinese Restaurant,Four Rivers Sichuan Chinese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,水井坊,水井坊,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,Chinese Inn Restaurant,Chinese Inn Restaurant,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,Chinese Kitchen,Chinese Kitchen,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,Regal Chinese Restaurant,Regal Chinese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,Sammy's Kitchen,Sammy's Kitchen,0,Lonsdale St,0.0,0.0,0.0
+中餐厅,Panda Chinese Restaurant,Panda Chinese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,New Cathay Chinese Restaurant,New Cathay Chinese Restaurant,0,,0.0,0.0,0.0
+中餐厅,Chinese Hotplate,Chinese Hotplate,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,Lakeside Chinese Restaurant,Lakeside Chinese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,Noble Palace Chinese Seafood Restaurant,Noble Palace Chinese Seafood Restaurant,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,Sin Yau Garden Chinese Restaurant,Sin Yau Garden Chinese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,Golden Ocean Chinese Restaurant,Golden Ocean Chinese Restaurant,0,,0.0,0.0,0.0
+中餐厅,New Wing Chinese Restaurant,New Wing Chinese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,Lisa Chinese Restaurant,Lisa Chinese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,Spring Garden Chinese Restaurant,Spring Garden Chinese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,New Asia Chinese Restaurant,New Asia Chinese Restaurant,0,堪培拉其他,0.0,0.0,0.0
+中餐厅,White China,White China,0,,0.0,0.0,0.0
+东南亚菜,Papparich,Papparich,0,,7.7,7.7,7.9
+东南亚菜,Lemon Grass Thai Restaurant,Lemon Grass Thai Restaurant,0,堪培拉其他,7.5,7.5,7.5
+东南亚菜,Thai Herb Restaurants,Thai Herb Restaurants,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Lemon Grass Thai,Lemon Grass Thai,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Thai Cornar,Thai Cornar,0,国会大厦,0.0,0.0,0.0
+东南亚菜,River Kwai Thai Restaurant,River Kwai Thai Restaurant,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Lime leaves Thai Restaurant,Lime leaves Thai Restaurant,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Gungahlin Thai Kitchen,Gungahlin Thai Kitchen,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Thai House,Thai House,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Thai Amarin Erindale,Thai Amarin Erindale,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Bangkok Garden Thai Restaurant,Bangkok Garden Thai Restaurant,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Charlie's Sala Thai Restaurant,Charlie's Sala Thai Restaurant,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Suko Thai Restaurant,Suko Thai Restaurant,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Thai Station,Thai Station,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Soi-8 Thai On Griffith,Soi-8 Thai On Griffith,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Thai Aromas,Thai Aromas,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Erawan Thai Restaurant,Erawan Thai Restaurant,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Thai House,Thai House,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Thai Spice,Thai Spice,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Little Thailand Restaurant,Little Thailand Restaurant,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Thai Garden Restaurant,Thai Garden Restaurant,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Thai Ayutthaya,Thai Ayutthaya,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Two Sisters Lao Thai Cuisine,Two Sisters Lao Thai Cuisine,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,The Thai Korach,The Thai Korach,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Thai Time,Thai Time,0,堪培拉其他,0.0,0.0,0.0
+东南亚菜,Abell's Kopi Tiam,Abell's Kopi Tiam,0,国会大厦,0.0,0.0,0.0
+东南亚菜,Baan Latsamy Thai Restaurant,Baan Latsamy Thai Restaurant,0,国会大厦,0.0,0.0,0.0
+东南亚菜,Little Saigon,Little Saigon,0,国会大厦,0.0,0.0,0.0
+东南亚菜,Thai Amarin,Thai Amarin,0,国会大厦,0.0,0.0,0.0
+东南亚菜,Taste of Himalayaa,Taste of Himalayaa,0,国会大厦,0.0,0.0,0.0
+东南亚菜,Thai Chiang Rai,Thai Chiang Rai,0,国会大厦,0.0,0.0,0.0
+东南亚菜,Deakin Thai Cuisine,Deakin Thai Cuisine,0,国会大厦,0.0,0.0,0.0
+东南亚菜,ZenYai Thai,ZenYai Thai,0,Lonsdale St,0.0,0.0,0.0
+东南亚菜,Thai Room Thai Restaurant,Thai Room Thai Restaurant,0,Lonsdale St,0.0,0.0,0.0
+东南亚菜,Sawadee Thai Restaurant,Sawadee Thai Restaurant,0,Lonsdale St,0.0,0.0,0.0
+东南亚菜,Alice Thai Restaurant,Alice Thai Restaurant,0,Lonsdale St,0.0,0.0,0.0
+海鲜,Ocean Fresh Seafood,Ocean Fresh Seafood,0,,7.7,7.7,7.7
+海鲜,Fresko Seafood,Fresko Seafood,0,Lonsdale St,7.5,7.5,7.5
+海鲜,Maestral Seafood Restaurant,Maestral Seafood Restaurant,0,堪培拉其他,0.0,0.0,0.0
+海鲜,Con's Steak and Seafood Restaurant,Con's Steak and Seafood Restaurant,0,堪培拉其他,0.0,0.0,0.0
+海鲜,Ocean Fresh Seafoods,Ocean Fresh Seafoods,0,堪培拉其他,0.0,0.0,0.0
+海鲜,Waterfront ResTaurAnt,Waterfront ResTaurAnt,0,,0.0,0.0,0.0
+上海菜,Shanghai Dumpling Cafe,Shanghai Dumpling Cafe,0,Lonsdale St,6.7,7.2,6.9
+日韩料理,KAGAWA JAPANESE CUISINE,KAGAWA JAPANESE CUISINE,0,,6.7,7.2,7.8
+日韩料理,Iori Japanese Restaurant,Iori Japanese Restaurant,0,Lonsdale St,7.9,7.9,7.9
+日韩料理,Cocorea Korean Restaurant,Cocorea Korean Restaurant,0,Lonsdale St,0.0,0.0,0.0
+日韩料理,Shogun Japanese Restaurant,Shogun Japanese Restaurant,0,Lonsdale St,0.0,0.0,0.0
+日韩料理,Tasuke Japanese Restaurant,Tasuke Japanese Restaurant,0,Lonsdale St,0.0,0.0,0.0
+日韩料理,Coo Japanese Izakaya,Coo Japanese Izakaya,0,Lonsdale St,0.0,0.0,0.0
+粤菜,Canton Chinese Restaurant,Canton Chinese Restaurant,0,,0.0,0.0,0.0
+粤菜,香港茶餐厅,香港茶餐厅,0,,0.0,0.0,0.0
+咖啡厅,Dobinsons Bakery Cafe,Dobinsons Bakery Cafe,0,Lonsdale St,7.0,7.5,7.5
+咖啡厅,Manta Ray Cafe,Manta Ray Cafe,0,,7.0,7.1,7.1
+咖啡厅,Gloria Jeans Coffees,Gloria Jeans Coffees,0,,7.6,7.6,7.6
+咖啡厅,Gloria Jeans Coffees,Gloria Jeans Coffees,0,堪培拉其他,7.1,7.1,7.1
+咖啡厅,Da Rosario,Da Rosario,0,,7.7,7.7,7.7
+咖啡厅,EsPresSo Room,EsPresSo Room,0,,7.7,7.7,7.7
+咖啡厅,Tree Eight,Tree Eight,0,,7.4,7.4,7.4
+咖啡厅,Coffee Cherry Bean,Coffee Cherry Bean,0,,7.7,7.7,7.7
+咖啡厅,Uniconner coffee,Uniconner coffee,0,,8.4,8.4,8.4
+咖啡厅,Queen's Terrace Cafe,Queen's Terrace Cafe,0,,7.2,7.2,7.2
+咖啡厅,The Coffee Club - Belconnen,The Coffee Club - Belconnen,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,Fyshwick Fresh Food Markets,Fyshwick Fresh Food Markets,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,Black Magic Coffee Cart,Black Magic Coffee Cart,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,Cake Lovers,Cake Lovers,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,The Jazz Apple Cafe,The Jazz Apple Cafe,0,Lonsdale St,0.0,0.0,0.0
+咖啡厅,Act Coffee Supplies,Act Coffee Supplies,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,Ankina Coffee,Ankina Coffee,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,The Fresh Roast Coffee House,The Fresh Roast Coffee House,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,Euro Coffee Machine Service,Euro Coffee Machine Service,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,Simco Fresh Meats,Simco Fresh Meats,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,Deeks Health Bakery & Cafe,Deeks Health Bakery & Cafe,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,The Brothers' Oven,The Brothers' Oven,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,Whisk Bakery & Pattisserie,Whisk Bakery & Pattisserie,0,堪培拉其他,0.0,0.0,0.0
+咖啡厅,QUEEN'S TERRACE CAFE',QUEEN'S TERRACE CAFE',0,,0.0,0.0,0.0
+酒吧,Jamie's,Jamie's,0,,7.6,8.0,8.0
+酒吧,Sage Restaurant,Sage Restaurant,0,Lonsdale St,8.1,8.1,8.1
+酒吧,The Uni Pub,The Uni Pub,0,Lonsdale St,6.7,6.7,6.7
+酒吧,Cube Nightclub,Cube Nightclub,0,Lonsdale St,6.7,6.7,6.7
+酒吧,King O'Malley's,King O'Malley's,0,Lonsdale St,6.7,6.7,6.7
+酒吧,Water's Edge Restaurant,Water's Edge Restaurant,0,国会大厦,7.1,7.1,7.1
+酒吧,Wig & Pen,Wig & Pen,0,Lonsdale St,6.7,6.7,6.7
+酒吧,The Lighthouse Pub,The Lighthouse Pub,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Bicicletta Provedore and Cellar,Bicicletta Provedore and Cellar,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Ellacure Restaurant,Ellacure Restaurant,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Soju Girl,Soju Girl,0,Lonsdale St,0.0,0.0,0.0
+酒吧,PJ O'Reilly's,PJ O'Reilly's,0,堪培拉其他,0.0,0.0,0.0
+酒吧,The Lakes Golf Club,The Lakes Golf Club,0,堪培拉其他,0.0,0.0,0.0
+酒吧,The Artisan,The Artisan,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Gryphons Caffe Bar,Gryphons Caffe Bar,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Da Nunzio Caffe Bar and Ristorante,Da Nunzio Caffe Bar and Ristorante,0,堪培拉其他,0.0,0.0,0.0
+酒吧,The Sports Club Kaleen,The Sports Club Kaleen,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Western District Rugby Union Club,Western District Rugby Union Club,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Hellenic Club of Canberra,Hellenic Club of Canberra,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Hellenic Club,Hellenic Club,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Rocksalt,Rocksalt,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Ais Swimming School,Ais Swimming School,0,,0.0,0.0,0.0
+酒吧,Ojo Café and Bar,Ojo Café and Bar,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Parlour Wine Room,Parlour Wine Room,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Siren Bar & Restaurant,Siren Bar & Restaurant,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Firestone Pizzeria | Bar,Firestone Pizzeria | Bar,0,堪培拉其他,0.0,0.0,0.0
+酒吧,The George Harcourt Inn,The George Harcourt Inn,0,堪培拉其他,0.0,0.0,0.0
+酒吧,The Duxton,The Duxton,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Delissio Restaurant & Bar,Delissio Restaurant & Bar,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Trinity Bar (Canberra),Trinity Bar (Canberra),0,堪培拉其他,0.0,0.0,0.0
+酒吧,O'Neill's of Dickson,O'Neill's of Dickson,0,堪培拉其他,0.0,0.0,0.0
+酒吧,HAILES KARAOKE,HAILES KARAOKE,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Old Canberra Inn,Old Canberra Inn,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Wood Duck Inn,Wood Duck Inn,0,堪培拉其他,0.0,0.0,0.0
+酒吧,The Basement,The Basement,0,堪培拉其他,0.0,0.0,0.0
+酒吧,jdd Partners,jdd Partners,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Binara One,Binara One,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Sub-Urban,Sub-Urban,0,堪培拉其他,0.0,0.0,0.0
+酒吧,ANU Bar,ANU Bar,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Ha Ha Bar & Cafe,Ha Ha Bar & Cafe,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Kippax Tavern,Kippax Tavern,0,堪培拉其他,0.0,0.0,0.0
+酒吧,The Mawson Club,The Mawson Club,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Belluci's,Belluci's,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Tennis Act,Tennis Act,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Jerrabomberra Hotel & Bottle Shop,Jerrabomberra Hotel & Bottle Shop,0,,0.0,0.0,0.0
+酒吧,Fraser Tavern,Fraser Tavern,0,堪培拉其他,0.0,0.0,0.0
+酒吧,Durham Castle Arms,Durham Castle Arms,0,国会大厦,0.0,0.0,0.0
+酒吧,Holy Grail,Holy Grail,0,国会大厦,0.0,0.0,0.0
+酒吧,"g'ILT Cafe, Cocktail Bar and Restaurant","g'ILT Cafe, Cocktail Bar and Restaurant",0,国会大厦,0.0,0.0,0.0
+酒吧,Public Bar & Dining Room,Public Bar & Dining Room,0,国会大厦,0.0,0.0,0.0
+酒吧,Isabella's Cafe and Bar,Isabella's Cafe and Bar,0,国会大厦,0.0,0.0,0.0
+酒吧,Tulip Lounge,Tulip Lounge,0,国会大厦,0.0,0.0,0.0
+酒吧,Speed dating @ Minque,Speed dating @ Minque,0,国会大厦,0.0,0.0,0.0
+酒吧,Booze and Balls,Booze and Balls,0,国会大厦,0.0,0.0,0.0
+酒吧,Canberra Services Club,Canberra Services Club,0,国会大厦,0.0,0.0,0.0
+酒吧,Benchmark Wine Bar,Benchmark Wine Bar,0,Lonsdale St,0.0,0.0,0.0
+酒吧,Pelagic Bar & Dining,Pelagic Bar & Dining,0,Lonsdale St,0.0,0.0,0.0
+酒吧,Mooseheads,Mooseheads,0,Lonsdale St,0.0,0.0,0.0
+酒吧,Debacle,Debacle,0,Lonsdale St,0.0,0.0,0.0
+酒吧,P.J O'Reilly's,P.J O'Reilly's,0,Lonsdale St,0.0,0.0,0.0
+酒吧,honky tonks,honky tonks,0,Lonsdale St,0.0,0.0,0.0
+酒吧,Waldorf On London,Waldorf On London,0,Lonsdale St,0.0,0.0,0.0
+酒吧,Tongue & Groove,Tongue & Groove,0,Lonsdale St,0.0,0.0,0.0
+酒吧,Hippos Lounge,Hippos Lounge,0,Lonsdale St,0.0,0.0,0.0
+酒吧,Transit Bar,Transit Bar,0,Lonsdale St,0.0,0.0,0.0
+酒吧,Muddle Bar,Muddle Bar,0,Lonsdale St,0.0,0.0,0.0
+酒吧,Thirst Wine Bar & Eatery,Thirst Wine Bar & Eatery,0,Lonsdale St,0.0,0.0,0.0
+酒吧,The Phoenix Pub,The Phoenix Pub,0,Lonsdale St,0.0,0.0,0.0
+酒吧,Zipp Restaurant Bar,Zipp Restaurant Bar,0,Lonsdale St,0.0,0.0,0.0
+酒吧,Jam Restaurant Bar,Jam Restaurant Bar,0,Lonsdale St,0.0,0.0,0.0
+酒吧,City Labor Club,City Labor Club,0,Lonsdale St,0.0,0.0,0.0
+面包甜点,Breadtop,Breadtop,0,,7.2,7.2,7.2
+面包甜点,Bakers Delight,Bakers Delight,0,,7.5,7.5,7.5
+面包甜点,Gelatissimo,Gelatissimo,0,,7.7,7.7,7.7
+面包甜点,Donut King,Donut King,0,,7.5,7.5,7.5
+面包甜点,La Florentina Bakery,La Florentina Bakery,0,堪培拉其他,7.2,7.2,7.2
+面包甜点,Bakery & DelicatesSen,Bakery & DelicatesSen,0,,7.2,7.2,7.2
+面包甜点,Elaine's Gourmet Pies,Elaine's Gourmet Pies,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Golden Oven Ngunnawal Bakery,Golden Oven Ngunnawal Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,The Flute Bakery,The Flute Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Asian Delights Bakery,Asian Delights Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Bakers Delight Riverside Plaza,Bakers Delight Riverside Plaza,0,,0.0,0.0,0.0
+面包甜点,Kingston National Bakery,Kingston National Bakery,0,国会大厦,0.0,0.0,0.0
+面包甜点,Byron Bay Cookie Company,Byron Bay Cookie Company,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Silo Bakery,Silo Bakery,0,国会大厦,0.0,0.0,0.0
+面包甜点,好吃嘴,好吃嘴,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Bakers Delight(InsideWest),Bakers Delight(InsideWest),0,堪培拉其他,0.0,0.0,0.0
+面包甜点,A Taste of Honey,A Taste of Honey,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Cornucopia Bakery,Cornucopia Bakery,0,Lonsdale St,0.0,0.0,0.0
+面包甜点,Golden Crust Bakehouse,Golden Crust Bakehouse,0,Lonsdale St,0.0,0.0,0.0
+面包甜点,Croissant D'Or,Croissant D'Or,0,Lonsdale St,0.0,0.0,0.0
+面包甜点,210 Degrees Patisserie & Bakery,210 Degrees Patisserie & Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Muffin Break,Muffin Break,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Market Bake House,Market Bake House,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Deeks Bakery & Cafe,Deeks Bakery & Cafe,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Muffin Break,Muffin Break,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Essentials Pide Bread,Essentials Pide Bread,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,The Cookie Man,The Cookie Man,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Leon Hot Bake,Leon Hot Bake,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Kiwi Kitchen,Kiwi Kitchen,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Brindabella Bakehouse,Brindabella Bakehouse,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Bakery Culture,Bakery Culture,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Buttercup Bakeries,Buttercup Bakeries,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Vogel's Bread,Vogel's Bread,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,VIP Pies Bakery,VIP Pies Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Crave Cookies,Crave Cookies,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Oven Pick,Oven Pick,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Bakers Delight Cooleman Court,Bakers Delight Cooleman Court,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Weetangera Bakery,Weetangera Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Tony's Patisserie,Tony's Patisserie,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Vina Bake House,Vina Bake House,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Florey Bakery,Florey Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Golden Oven Bakery,Golden Oven Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Muffin Break,Muffin Break,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Golden Oven Bakery,Golden Oven Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Cakes by Casey,Cakes by Casey,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,The Oven Door,The Oven Door,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Saigon Hot Bake,Saigon Hot Bake,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Saigon Southland Bakery,Saigon Southland Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Oriental Hot Bread,Oriental Hot Bread,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Kambah Bakery,Kambah Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Spence Family Bakery,Spence Family Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Italian Continental Bakery,Italian Continental Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Jamison Bakery,Jamison Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Curtin Bakery,Curtin Bakery,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,Stacked Cakes,Stacked Cakes,0,Lonsdale St,0.0,0.0,0.0
+面包甜点,Ayvante Weddings,Ayvante Weddings,0,堪培拉其他,0.0,0.0,0.0
+面包甜点,The Cake Lady,The Cake Lady,0,堪培拉其他,0.0,0.0,0.0
+烧烤,Origin,Origin,0,,7.7,7.7,7.7
+烧烤,Tosung Charcoal BBQ,Tosung Charcoal BBQ,0,国会大厦,0.0,0.0,0.0
+日本料理,Wagamama,Wagamama,0,Lonsdale St,0.0,0.0,0.0
+日本料理,Wasabi Manuka,Wasabi Manuka,0,国会大厦,0.0,0.0,0.0
+日本料理,Wasabi,Wasabi,0,堪培拉其他,0.0,0.0,0.0
+快餐,Grill's,Grill's,0,,8.5,8.5,8.5
+快餐,Koko Black,Koko Black,0,Lonsdale St,7.9,7.9,7.9
+快餐,Spicy Ginger Cuisine,Spicy Ginger Cuisine,0,Lonsdale St,6.7,6.9,6.9
+快餐,Michel's Patisserie,Michel's Patisserie,0,堪培拉其他,7.8,7.8,7.8
+快餐,Wok Me,Wok Me,0,,7.8,7.3,7.3
+快餐,Harvest,Harvest,0,Lonsdale St,7.5,7.5,7.5
+快餐,Gus' Cafe,Gus' Cafe,0,Lonsdale St,7.5,7.5,7.9
+快餐,The Pancake Parlour,The Pancake Parlour,0,Lonsdale St,8.1,7.5,7.5
+快餐,Max Brenner Chocolate Bar,Max Brenner Chocolate Bar,0,堪培拉其他,7.4,7.4,7.4
+快餐,Lido Cafe & Bar,Lido Cafe & Bar,0,堪培拉其他,6.8,6.8,6.8
+快餐,Coffee Guru,Coffee Guru,0,堪培拉其他,7.7,7.7,7.7
+快餐,Degree Cafe,Degree Cafe,0,堪培拉其他,7.5,7.5,7.5
+快餐,Saigon Fresh,Saigon Fresh,0,,7.2,7.2,7.2
+快餐,McDonald's,McDonald's,0,堪培拉其他,0.0,0.0,0.0
+快餐,Fig Tree Cafe,Fig Tree Cafe,0,国会大厦,0.0,0.0,0.0
+快餐,McDonald's,McDonald's,0,堪培拉其他,0.0,0.0,0.0
+快餐,Emission Cafe,Emission Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Redrock Cafe,Redrock Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Kitchen Cabinet,The Kitchen Cabinet,0,国会大厦,0.0,0.0,0.0
+快餐,Ricardo's Cafe,Ricardo's Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Giannis Cafe,Giannis Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Coffee Club - Gungahlin,The Coffee Club - Gungahlin,0,堪培拉其他,0.0,0.0,0.0
+快餐,Ona @ Benjamin,Ona @ Benjamin,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Front,The Front,0,堪培拉其他,0.0,0.0,0.0
+快餐,Beess & Co Cafe,Beess & Co Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,C.J's Cafe,C.J's Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe Hoz,Cafe Hoz,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Wildberry Cafe,The Wildberry Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Sky Lite Cafe,Sky Lite Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Snak-A-Tak,Snak-A-Tak,0,堪培拉其他,0.0,0.0,0.0
+快餐,Lunch Bunch,Lunch Bunch,0,Lonsdale St,0.0,0.0,0.0
+快餐,Loui,Loui,0,Lonsdale St,0.0,0.0,0.0
+快餐,Tonic Espresso,Tonic Espresso,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe Charisma,Cafe Charisma,0,堪培拉其他,0.0,0.0,0.0
+快餐,Antz Pantz Cafe,Antz Pantz Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Little Bean,Little Bean,0,堪培拉其他,0.0,0.0,0.0
+快餐,Coffers Cafe,Coffers Cafe,0,国会大厦,0.0,0.0,0.0
+快餐,City West Cafe & Takeaway,City West Cafe & Takeaway,0,Lonsdale St,0.0,0.0,0.0
+快餐,Hobart Coffee Lounge,Hobart Coffee Lounge,0,Lonsdale St,0.0,0.0,0.0
+快餐,Barocca,Barocca,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe Essen,Cafe Essen,0,Lonsdale St,0.0,0.0,0.0
+快餐,Gelatissimo Canberra City,Gelatissimo Canberra City,0,Lonsdale St,0.0,0.0,0.0
+快餐,KFC,KFC,0,堪培拉其他,0.0,0.0,0.0
+快餐,Sfoglia Cafe Patisserie,Sfoglia Cafe Patisserie,0,堪培拉其他,0.0,0.0,0.0
+快餐,Black Pepper Cafe & Bar,Black Pepper Cafe & Bar,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe Momo,Cafe Momo,0,堪培拉其他,0.0,0.0,0.0
+快餐,Mint Leaf Cafe,Mint Leaf Cafe,0,国会大厦,0.0,0.0,0.0
+快餐,Food With Flair,Food With Flair,0,Lonsdale St,0.0,0.0,0.0
+快餐,Seven Seas Fish Cafe,Seven Seas Fish Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe Allara,Cafe Allara,0,堪培拉其他,0.0,0.0,0.0
+快餐,Oporto,Oporto,0,堪培拉其他,0.0,0.0,0.0
+快餐,Subway® Restaurant,Subway® Restaurant,0,堪培拉其他,0.0,0.0,0.0
+快餐,Calypso Cafe Greenway,Calypso Cafe Greenway,0,堪培拉其他,0.0,0.0,0.0
+快餐,KFC,KFC,0,堪培拉其他,0.0,0.0,0.0
+快餐,McDonald's Belconnen Food Court,McDonald's Belconnen Food Court,0,堪培拉其他,0.0,0.0,0.0
+快餐,Isabella's Cafe & Bar,Isabella's Cafe & Bar,0,堪培拉其他,0.0,0.0,0.0
+快餐,Subway® Restaurant,Subway® Restaurant,0,堪培拉其他,0.0,0.0,0.0
+快餐,Oporto,Oporto,0,堪培拉其他,0.0,0.0,0.0
+快餐,La Piazza Cafe Restaurant,La Piazza Cafe Restaurant,0,堪培拉其他,0.0,0.0,0.0
+快餐,McDonald's,McDonald's,0,堪培拉其他,0.0,0.0,0.0
+快餐,Oporto,Oporto,0,堪培拉其他,0.0,0.0,0.0
+快餐,Sutton Cafe,Sutton Cafe,0,,0.0,0.0,0.0
+快餐,Cornerstone Brasserie & Cafe @ Wests Rugby Club,Cornerstone Brasserie & Cafe @ Wests Rugby Club,0,堪培拉其他,0.0,0.0,0.0
+快餐,Connect Cafe & Bar,Connect Cafe & Bar,0,堪培拉其他,0.0,0.0,0.0
+快餐,E.U. Cafe,E.U. Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe De Chine,Cafe De Chine,0,堪培拉其他,0.0,0.0,0.0
+快餐,Subway Canberra Airport,Subway Canberra Airport,0,堪培拉其他,0.0,0.0,0.0
+快餐,McDonald's Family Restaurants,McDonald's Family Restaurants,0,堪培拉其他,0.0,0.0,0.0
+快餐,Lollipop's Playland & Cafe,Lollipop's Playland & Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Copper Kettle Cafe,The Copper Kettle Cafe,0,,0.0,0.0,0.0
+快餐,The Crepe Cafe,The Crepe Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Sizzle Cafe,Sizzle Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,ONA Coffee,ONA Coffee,0,堪培拉其他,0.0,0.0,0.0
+快餐,Paparazzi,Paparazzi,0,堪培拉其他,0.0,0.0,0.0
+快餐,Outpost Cafe,Outpost Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Pie Face,Pie Face,0,堪培拉其他,0.0,0.0,0.0
+快餐,Besati,Besati,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Purple Pickle Cafe,The Purple Pickle Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Don Cafe,Don Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,My Rainbow-Dreams,My Rainbow-Dreams,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cherry Seed,Cherry Seed,0,堪培拉其他,0.0,0.0,0.0
+快餐,Gloria Jean's Coffees,Gloria Jean's Coffees,0,堪培拉其他,0.0,0.0,0.0
+快餐,Mitchell Cafe & Takeaway,Mitchell Cafe & Takeaway,0,堪培拉其他,0.0,0.0,0.0
+快餐,Ivy Cafe,Ivy Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Upper Class Cafe Takeaway,Upper Class Cafe Takeaway,0,堪培拉其他,0.0,0.0,0.0
+快餐,Coffee on the Go,Coffee on the Go,0,堪培拉其他,0.0,0.0,0.0
+快餐,Chapman Cafe,Chapman Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Avion Cafe,Avion Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Brewbar Cafe,Brewbar Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Coffee Club,Coffee Club,0,堪培拉其他,0.0,0.0,0.0
+快餐,Glasshouse Express,Glasshouse Express,0,Lonsdale St,0.0,0.0,0.0
+快餐,Lanyon Cafe,Lanyon Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Fat Goanna Cafe,The Fat Goanna Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Coffee Guru Jamison,Coffee Guru Jamison,0,堪培拉其他,0.0,0.0,0.0
+快餐,Wagonga Coffee,Wagonga Coffee,0,堪培拉其他,0.0,0.0,0.0
+快餐,Industry Cafe,Industry Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe Ritrovo,Cafe Ritrovo,0,堪培拉其他,0.0,0.0,0.0
+快餐,Sour Cherry,Sour Cherry,0,堪培拉其他,0.0,0.0,0.0
+快餐,Vickys Cafe,Vickys Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Mocca Espresso Lounge,Mocca Espresso Lounge,0,堪培拉其他,0.0,0.0,0.0
+快餐,Gloria Jean's Coffees,Gloria Jean's Coffees,0,堪培拉其他,0.0,0.0,0.0
+快餐,Dakota Cafe & Bar,Dakota Cafe & Bar,0,堪培拉其他,0.0,0.0,0.0
+快餐,IL Covo,IL Covo,0,堪培拉其他,0.0,0.0,0.0
+快餐,Mizzuna Cafe & Bar University Of Canberra,Mizzuna Cafe & Bar University Of Canberra,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Joy Industry Lic'd Cafe,The Joy Industry Lic'd Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Michels Patisserie Lanyon,Michels Patisserie Lanyon,0,堪培拉其他,0.0,0.0,0.0
+快餐,Jindebah Cafe,Jindebah Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe Gaudi,Cafe Gaudi,0,堪培拉其他,0.0,0.0,0.0
+快餐,Buzz Cafe,Buzz Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Central Cafe Canberra,Central Cafe Canberra,0,堪培拉其他,0.0,0.0,0.0
+快餐,Little Chef Cafe,Little Chef Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Bread & Butter,Bread & Butter,0,堪培拉其他,0.0,0.0,0.0
+快餐,Bay Tree Cafe,Bay Tree Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Boom Espresso,Boom Espresso,0,堪培拉其他,0.0,0.0,0.0
+快餐,Borneo Coffee,Borneo Coffee,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe Racer,Cafe Racer,0,堪培拉其他,0.0,0.0,0.0
+快餐,This Cafe,This Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Michels Patisserie Erindale,Michels Patisserie Erindale,0,堪培拉其他,0.0,0.0,0.0
+快餐,Fyshwick Cafe & Bakery,Fyshwick Cafe & Bakery,0,堪培拉其他,0.0,0.0,0.0
+快餐,Wheely Good Coffee,Wheely Good Coffee,0,堪培拉其他,0.0,0.0,0.0
+快餐,Pellegrino's Cafe,Pellegrino's Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Coffee Guru,Coffee Guru,0,堪培拉其他,0.0,0.0,0.0
+快餐,Coffee Ole,Coffee Ole,0,堪培拉其他,0.0,0.0,0.0
+快餐,Hardwick's Cafe & Bistro @ WBLC,Hardwick's Cafe & Bistro @ WBLC,0,堪培拉其他,0.0,0.0,0.0
+快餐,Du Jour Restaurant,Du Jour Restaurant,0,堪培拉其他,0.0,0.0,0.0
+快餐,Finish Line Cafe,Finish Line Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Craigel's Bagels,Craigel's Bagels,0,堪培拉其他,0.0,0.0,0.0
+快餐,Farmers Daughter,Farmers Daughter,0,堪培拉其他,0.0,0.0,0.0
+快餐,Eat Your Words,Eat Your Words,0,堪培拉其他,0.0,0.0,0.0
+快餐,Homestead Cafe,Homestead Cafe,0,,0.0,0.0,0.0
+快餐,Luscious Cafe,Luscious Cafe,0,,0.0,0.0,0.0
+快餐,Cafe 60mil,Cafe 60mil,0,堪培拉其他,0.0,0.0,0.0
+快餐,Retro Café,Retro Café,0,堪培拉其他,0.0,0.0,0.0
+快餐,Far from the Madding Crowd,Far from the Madding Crowd,0,堪培拉其他,0.0,0.0,0.0
+快餐,Hansel & Gretel Wholesale,Hansel & Gretel Wholesale,0,堪培拉其他,0.0,0.0,0.0
+快餐,Red Brick Espresso,Red Brick Espresso,0,堪培拉其他,0.0,0.0,0.0
+快餐,Emmanouil's Cafe,Emmanouil's Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Plumb On Tennant,Plumb On Tennant,0,堪培拉其他,0.0,0.0,0.0
+快餐,Tastebud Kebabs,Tastebud Kebabs,0,堪培拉其他,0.0,0.0,0.0
+快餐,Mokambo Caffe,Mokambo Caffe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Hello Cafe,Hello Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Praga Cafe,Praga Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,My Cafe,My Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Michels Patisserie Gungahlin,Michels Patisserie Gungahlin,0,堪培拉其他,0.0,0.0,0.0
+快餐,Scope Mount Stromlo,Scope Mount Stromlo,0,堪培拉其他,0.0,0.0,0.0
+快餐,King Street Cafe,King Street Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Chocolate Olive,Chocolate Olive,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe Mochalat,Cafe Mochalat,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe Childers,Cafe Childers,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe Injoy,Cafe Injoy,0,堪培拉其他,0.0,0.0,0.0
+快餐,Canberra Airport Cafe,Canberra Airport Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Group Seven Espresso,Group Seven Espresso,0,堪培拉其他,0.0,0.0,0.0
+快餐,Xchange on London,Xchange on London,0,堪培拉其他,0.0,0.0,0.0
+快餐,CremAdiction Cafe,CremAdiction Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Trevs @ Dickson,Trevs @ Dickson,0,堪培拉其他,0.0,0.0,0.0
+快餐,Dash Coffee HIA,Dash Coffee HIA,0,堪培拉其他,0.0,0.0,0.0
+快餐,Parkview Cafe,Parkview Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe Freedom,Cafe Freedom,0,堪培拉其他,0.0,0.0,0.0
+快餐,Oaktree Cafe,Oaktree Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Calypso Cafe,Calypso Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Pure Oxygen,Pure Oxygen,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe H2o,Cafe H2o,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Nun,The Nun,0,堪培拉其他,0.0,0.0,0.0
+快餐,Swirl Catering Caterers Canberra,Swirl Catering Caterers Canberra,0,堪培拉其他,0.0,0.0,0.0
+快餐,Praga Cafe & Restaurant,Praga Cafe & Restaurant,0,堪培拉其他,0.0,0.0,0.0
+快餐,Addis Cafe - Restaurant,Addis Cafe - Restaurant,0,堪培拉其他,0.0,0.0,0.0
+快餐,Rodney's Garden Cafe,Rodney's Garden Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Synergy Cafe @ CSIRO,Synergy Cafe @ CSIRO,0,堪培拉其他,0.0,0.0,0.0
+快餐,Wilbur's Cafe Bar,Wilbur's Cafe Bar,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Palette Cafe,The Palette Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Spill The Beans,Spill The Beans,0,堪培拉其他,0.0,0.0,0.0
+快餐,Quince & Almond,Quince & Almond,0,堪培拉其他,0.0,0.0,0.0
+快餐,Tea Break Cafe,Tea Break Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Blue Fez Woden,Blue Fez Woden,0,堪培拉其他,0.0,0.0,0.0
+快餐,Inhouse Cafe,Inhouse Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Coffee Guru,Coffee Guru,0,堪培拉其他,0.0,0.0,0.0
+快餐,Beyond Q,Beyond Q,0,堪培拉其他,0.0,0.0,0.0
+快餐,Tradesmen's Union Club Canberra,Tradesmen's Union Club Canberra,0,堪培拉其他,0.0,0.0,0.0
+快餐,A Bite To Eat A Drink As Well,A Bite To Eat A Drink As Well,0,堪培拉其他,0.0,0.0,0.0
+快餐,Tulip's Cafe Catering,Tulip's Cafe Catering,0,堪培拉其他,0.0,0.0,0.0
+快餐,Hume Cafe & Takeaway,Hume Cafe & Takeaway,0,堪培拉其他,0.0,0.0,0.0
+快餐,Hudsons of Dickson,Hudsons of Dickson,0,堪培拉其他,0.0,0.0,0.0
+快餐,Simple Bites Cafe,Simple Bites Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe Copenhagen,Cafe Copenhagen,0,堪培拉其他,0.0,0.0,0.0
+快餐,Caffe e cibo,Caffe e cibo,0,堪培拉其他,0.0,0.0,0.0
+快餐,Just A Bite,Just A Bite,0,堪培拉其他,0.0,0.0,0.0
+快餐,Orange Bean,Orange Bean,0,堪培拉其他,0.0,0.0,0.0
+快餐,Caffe Dalmo,Caffe Dalmo,0,堪培拉其他,0.0,0.0,0.0
+快餐,Deli Marco,Deli Marco,0,堪培拉其他,0.0,0.0,0.0
+快餐,Tilley's,Tilley's,0,堪培拉其他,0.0,0.0,0.0
+快餐,Maria's Cafe-A-Roma,Maria's Cafe-A-Roma,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Courtyard Cafe,The Courtyard Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Divine & Delicious,Divine & Delicious,0,堪培拉其他,0.0,0.0,0.0
+快餐,Babar Cafe & Bar,Babar Cafe & Bar,0,堪培拉其他,0.0,0.0,0.0
+快餐,Curtin Gourmet,Curtin Gourmet,0,堪培拉其他,0.0,0.0,0.0
+快餐,Mocca Centra,Mocca Centra,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Coffee Club - Westfield Woden,The Coffee Club - Westfield Woden,0,堪培拉其他,0.0,0.0,0.0
+快餐,Phat Burger Cafe and Catering,Phat Burger Cafe and Catering,0,堪培拉其他,0.0,0.0,0.0
+快餐,Flattery Cafe @ Farrer,Flattery Cafe @ Farrer,0,堪培拉其他,0.0,0.0,0.0
+快餐,Hog's Breath Cafe,Hog's Breath Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Fantasy Donuts,Fantasy Donuts,0,堪培拉其他,0.0,0.0,0.0
+快餐,Sakeenas Cafe,Sakeenas Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Ads Cafe,Ads Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Little Pickle Cafe,Little Pickle Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Lava Espresso,Lava Espresso,0,堪培拉其他,0.0,0.0,0.0
+快餐,Michels Patisserie Woden Valley,Michels Patisserie Woden Valley,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cooleman Lucky Kiosk,Cooleman Lucky Kiosk,0,堪培拉其他,0.0,0.0,0.0
+快餐,Gloria Jean's Coffees,Gloria Jean's Coffees,0,堪培拉其他,0.0,0.0,0.0
+快餐,Lakeside Cafe,Lakeside Cafe,0,堪培拉其他,0.0,0.0,0.0
+快餐,Coffee Guru,Coffee Guru,0,堪培拉其他,0.0,0.0,0.0
+快餐,Cafe Rocco,Cafe Rocco,0,堪培拉其他,0.0,0.0,0.0
+快餐,TK's Fare Go Cafe & Restaurant,TK's Fare Go Cafe & Restaurant,0,堪培拉其他,0.0,0.0,0.0
+快餐,Red Hill Lookout,Red Hill Lookout,0,堪培拉其他,0.0,0.0,0.0
+快餐,Coffee Guru,Coffee Guru,0,堪培拉其他,0.0,0.0,0.0
+快餐,The Gods Cafe And Bar,The Gods Cafe And Bar,0,堪培拉其他,0.0,0.0,0.0
+快餐,3 Seeds,3 Seeds,0,堪培拉其他,0.0,0.0,0.0
+快餐,EQ Cafe and Lounge,EQ Cafe and Lounge,0,堪培拉其他,0.0,0.0,0.0
+快餐,Robbo's Harley-Davidson,Robbo's Harley-Davidson,0,堪培拉其他,0.0,0.0,0.0
+快餐,Country Heir Interiors & Cafe,Country Heir Interiors & Cafe,0,,0.0,0.0,0.0
+快餐,Plunge Cafe & Florist,Plunge Cafe & Florist,0,堪培拉其他,0.0,0.0,0.0
+快餐,Adore Tea Australia,Adore Tea Australia,0,堪培拉其他,0.0,0.0,0.0
+快餐,Kidcity Play Centre,Kidcity Play Centre,0,堪培拉其他,0.0,0.0,0.0
+快餐,Portrait Cafe & Catering,Portrait Cafe & Catering,0,国会大厦,0.0,0.0,0.0
+快餐,Cafe Galileo,Cafe Galileo,0,国会大厦,0.0,0.0,0.0
+快餐,Cuiseum,Cuiseum,0,国会大厦,0.0,0.0,0.0
+快餐,Zucchero Pastry & Cafe,Zucchero Pastry & Cafe,0,国会大厦,0.0,0.0,0.0
+快餐,Ona Cafe Manuka,Ona Cafe Manuka,0,国会大厦,0.0,0.0,0.0
+快餐,My Cafe In Manuka,My Cafe In Manuka,0,国会大厦,0.0,0.0,0.0
+快餐,Bittersweet,Bittersweet,0,国会大厦,0.0,0.0,0.0
+快餐,Cafe Bellaccinos at AG,Cafe Bellaccinos at AG,0,国会大厦,0.0,0.0,0.0
+快餐,Charmers Coffee Lounge & Restaurant,Charmers Coffee Lounge & Restaurant,0,国会大厦,0.0,0.0,0.0
+快餐,The Daily Grind Cafe,The Daily Grind Cafe,0,国会大厦,0.0,0.0,0.0
+快餐,Pork Barrel Cafe,Pork Barrel Cafe,0,国会大厦,0.0,0.0,0.0
+快餐,Cafe Lella,Cafe Lella,0,国会大厦,0.0,0.0,0.0
+快餐,ACT Rugby Union Club,ACT Rugby Union Club,0,国会大厦,0.0,0.0,0.0
+快餐,Cino Espresso,Cino Espresso,0,国会大厦,0.0,0.0,0.0
+快餐,Ironbark,Ironbark,0,国会大厦,0.0,0.0,0.0
+快餐,Urban Pantry,Urban Pantry,0,国会大厦,0.0,0.0,0.0
+快餐,Renaissance Cafe,Renaissance Cafe,0,国会大厦,0.0,0.0,0.0
+快餐,Idelic,Idelic,0,国会大厦,0.0,0.0,0.0
+快餐,Cafe Sofya,Cafe Sofya,0,国会大厦,0.0,0.0,0.0
+快餐,Double Shot Caffe-Expresso Bar,Double Shot Caffe-Expresso Bar,0,国会大厦,0.0,0.0,0.0
+快餐,Kingston Grind,Kingston Grind,0,国会大厦,0.0,0.0,0.0
+快餐,Aroma Beans,Aroma Beans,0,国会大厦,0.0,0.0,0.0
+快餐,Artoven Patisserie,Artoven Patisserie,0,国会大厦,0.0,0.0,0.0
+快餐,Gabby's Cafe,Gabby's Cafe,0,国会大厦,0.0,0.0,0.0
+快餐,MBE Business Service Centre,MBE Business Service Centre,0,国会大厦,0.0,0.0,0.0
+快餐,Kingston Hotel,Kingston Hotel,0,国会大厦,0.0,0.0,0.0
+快餐,Hotel Kurrajong,Hotel Kurrajong,0,国会大厦,0.0,0.0,0.0
+快餐,The Promenade Cafe,The Promenade Cafe,0,国会大厦,0.0,0.0,0.0
+快餐,McDonald's Manuka,McDonald's Manuka,0,国会大厦,0.0,0.0,0.0
+快餐,Curry Kitchen,Curry Kitchen,0,国会大厦,0.0,0.0,0.0
+快餐,Little Brussels Belgian Beer Cafe,Little Brussels Belgian Beer Cafe,0,国会大厦,0.0,0.0,0.0
+快餐,Indo Cafe,Indo Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,The Glasshouse Cafe,The Glasshouse Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Coffee Guru,Coffee Guru,0,Lonsdale St,0.0,0.0,0.0
+快餐,Hog's Breath Cafe,Hog's Breath Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Pie Face,Pie Face,0,Lonsdale St,0.0,0.0,0.0
+快餐,Gloria Jean's Coffees,Gloria Jean's Coffees,0,Lonsdale St,0.0,0.0,0.0
+快餐,The Coffee Club,The Coffee Club,0,Lonsdale St,0.0,0.0,0.0
+快餐,RawSugar Cafe,RawSugar Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe Moda,Cafe Moda,0,Lonsdale St,0.0,0.0,0.0
+快餐,Italian Bite Trattoria Civic,Italian Bite Trattoria Civic,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe Fontaine,Cafe Fontaine,0,Lonsdale St,0.0,0.0,0.0
+快餐,City Edge Cafe,City Edge Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Court 10 Cafe,Court 10 Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Coffee Guru City West,Coffee Guru City West,0,Lonsdale St,0.0,0.0,0.0
+快餐,Blue Gum Cafe,Blue Gum Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe Evropi,Cafe Evropi,0,Lonsdale St,0.0,0.0,0.0
+快餐,Bean in the City,Bean in the City,0,Lonsdale St,0.0,0.0,0.0
+快餐,Stone Wall Cafe,Stone Wall Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Two Before Ten - Coffee Roasters,Two Before Ten - Coffee Roasters,0,Lonsdale St,0.0,0.0,0.0
+快餐,Andrews Coffee Lounge,Andrews Coffee Lounge,0,Lonsdale St,0.0,0.0,0.0
+快餐,Terrace Cafe,Terrace Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe 54,Cafe 54,0,Lonsdale St,0.0,0.0,0.0
+快餐,Blue Olive Cafe,Blue Olive Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,La Posada,La Posada,0,Lonsdale St,0.0,0.0,0.0
+快餐,Mooreish On Moore,Mooreish On Moore,0,Lonsdale St,0.0,0.0,0.0
+快餐,Red Belly Black Cafe,Red Belly Black Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Valentino's Cafe,Valentino's Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Enter Cafe,Enter Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,The Barracks LAN Games & Internet Cafe,The Barracks LAN Games & Internet Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Lonsdale Street Roasters,Lonsdale Street Roasters,0,Lonsdale St,0.0,0.0,0.0
+快餐,Antigo Cafe & Bar,Antigo Cafe & Bar,0,Lonsdale St,0.0,0.0,0.0
+快餐,Deliziosa,Deliziosa,0,Lonsdale St,0.0,0.0,0.0
+快餐,Suga-Cube,Suga-Cube,0,Lonsdale St,0.0,0.0,0.0
+快餐,N1 IT Services Canberra,N1 IT Services Canberra,0,Lonsdale St,0.0,0.0,0.0
+快餐,The Bakery Cafe,The Bakery Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Babar Cafe & Bar,Babar Cafe & Bar,0,Lonsdale St,0.0,0.0,0.0
+快餐,Blend Cafe,Blend Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Tosolini's,Tosolini's,0,Lonsdale St,0.0,0.0,0.0
+快餐,Shui Jing Fang Restaurant,Shui Jing Fang Restaurant,0,Lonsdale St,0.0,0.0,0.0
+快餐,Quatro Restaurant & Cafe,Quatro Restaurant & Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Canberra Club,Canberra Club,0,Lonsdale St,0.0,0.0,0.0
+快餐,My Coffee Cup,My Coffee Cup,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe Cibalia,Cafe Cibalia,0,Lonsdale St,0.0,0.0,0.0
+快餐,"As You Like It, The Street Theatre","As You Like It, The Street Theatre",0,Lonsdale St,0.0,0.0,0.0
+快餐,Red Gecko Cafe & Bar,Red Gecko Cafe & Bar,0,Lonsdale St,0.0,0.0,0.0
+快餐,Akuna Cafe,Akuna Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Ferrari's On Mort,Ferrari's On Mort,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe Pazzini,Cafe Pazzini,0,Lonsdale St,0.0,0.0,0.0
+快餐,Rani's Indian Restaurant & Cafe,Rani's Indian Restaurant & Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cream,Cream,0,Lonsdale St,0.0,0.0,0.0
+快餐,The Tea Centre,The Tea Centre,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe Bamboo,Cafe Bamboo,0,Lonsdale St,0.0,0.0,0.0
+快餐,Cafe Macchiato Bourbon Bar,Cafe Macchiato Bourbon Bar,0,Lonsdale St,0.0,0.0,0.0
+快餐,Banana Leaf Restaurant & Cafe,Banana Leaf Restaurant & Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,McDonald's Canberra Centre,McDonald's Canberra Centre,0,Lonsdale St,0.0,0.0,0.0
+快餐,McDonald's,McDonald's,0,Lonsdale St,0.0,0.0,0.0
+快餐,Noodle Cafe,Noodle Cafe,0,Lonsdale St,0.0,0.0,0.0
+快餐,Rej Cafe & Restaurant,Rej Cafe & Restaurant,0,Lonsdale St,0.0,0.0,0.0
+快餐,Eagle Boys Pizza,Eagle Boys Pizza,0,堪培拉其他,0.0,0.0,0.0
+快餐,ZenQ,ZenQ,0,堪培拉其他,0.0,0.0,0.0

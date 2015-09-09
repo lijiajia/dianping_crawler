@@ -1,0 +1,228 @@
+意大利菜,Prego,Prego,0,,7.1,7.1,7.1
+意大利菜,Pane e Vino,Pane e Vino,0,,7.3,7.1,7.1
+意大利菜,Spasso,Spasso,0,,6.9,7.0,7.0
+法国菜,Bon Appetit,Bon Appetit,0,,6.9,6.9,6.9
+墨西哥菜,El Cardenal,El Cardenal,0,墨西哥历史城中心,7.5,7.6,7.6
+墨西哥菜,Latino,Latino,0,Coyoacán,6.8,6.8,6.8
+墨西哥菜,La casa de Tono,La casa de Tono,0,墨西哥历史城中心,0.0,0.0,0.0
+墨西哥菜,Tacontento,Tacontento,0,,0.0,0.0,0.0
+其他西餐,Hooters,Hooters,0,,7.0,7.0,7.2
+其他西餐,Au Pied de Cochon,Au Pied de Cochon,0,,7.2,7.2,7.2
+其他西餐,Au Pied de Cochon,Au Pied de Cochon,0,,7.2,7.2,7.2
+其他西餐,Hooters,Hooters,0,,7.0,7.0,7.0
+其他西餐,Waterbar,Waterbar,0,,6.7,6.7,7.0
+其他西餐,Al andalus,Al andalus,0,,7.2,7.2,7.2
+其他西餐,牛排,牛排,0,北瓜达卢佩圣母教堂,0.0,0.0,0.0
+中餐,友谊餐厅,友谊餐厅,0,Coyoacán,7.1,6.8,7.1
+日韩料理,Fuji,Fuji,0,,7.1,7.1,7.1
+日韩料理,Sushi Roll,Sushi Roll,0,,7.2,6.8,7.2
+日韩料理,Osaka,Osaka,0,,7.0,7.0,7.0
+日韩料理,Morimoto,Morimoto,0,,7.2,7.2,7.2
+快餐简餐,Denny's,Denny's,0,,6.8,6.8,6.8
+快餐简餐,Chili's,Chili's,0,,6.9,7.0,6.9
+快餐简餐,IHOP WTC,IHOP WTC,0,,7.2,7.2,7.2
+快餐简餐,IHOP,IHOP,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.1,7.1,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,Ihop,Ihop,0,,7.0,7.0,7.0
+快餐简餐,Carl's Jr.,Carl's Jr.,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Nathans Famous,Nathans Famous,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.0,7.1,7.0
+快餐简餐,Subway,Subway,0,,6.7,6.7,6.7
+快餐简餐,Ihop,Ihop,0,,6.7,6.7,6.7
+快餐简餐,Vips,Vips,0,,7.0,7.0,7.0
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.9
+快餐简餐,Carl's Jr.,Carl's Jr.,0,,6.7,6.7,6.9
+快餐简餐,川粤轩,川粤轩,0,,0.0,0.0,0.0
+海鲜,Pike Street Market,Pike Street Market,0,,7.0,7.0,7.0
+烧烤,La Casa de las Sirenas,La Casa de las Sirenas,0,,7.2,7.2,7.2
+烧烤,Pinche Gringo BBQ,Pinche Gringo BBQ,0,,7.1,7.1,7.1
+比萨,Pizza Mania,Pizza Mania,0,Coyoacán,6.8,6.8,6.8
+比萨,Pizza Amore,Pizza Amore,0,,6.9,6.9,6.9
+比萨,Napoli,Napoli,0,,7.7,7.7,7.2
+比萨,Pizza del Perro Negro,Pizza del Perro Negro,0,,7.2,7.2,7.2
+比萨,"Sole, Pizza e Amore","Sole, Pizza e Amore",0,,7.1,7.1,7.1
+比萨,Ecco Pizza,Ecco Pizza,0,,7.1,7.1,7.1
+比萨,Pizza Amore,Pizza Amore,0,,7.1,7.1,6.8
+比萨,Kemi Pasta Pizza y Cerveza,Kemi Pasta Pizza y Cerveza,0,,6.9,6.9,6.9
+比萨,Little Caesars,Little Caesars,0,,7.0,7.0,7.0
+比萨,Peter Piper Pizza,Peter Piper Pizza,0,,7.0,7.0,7.0
+比萨,Mama,Mama,0,,7.0,7.0,7.0
+比萨,Julius Pizza,Julius Pizza,0,,7.0,7.0,7.0
+比萨,Ivos Pizza,Ivos Pizza,0,,7.1,7.1,7.1
+比萨,Flippin' Pizza San Angel,Flippin' Pizza San Angel,0,,7.1,7.0,6.9
+比萨,California Pizza Kitchen (CPK),California Pizza Kitchen (CPK),0,,7.2,7.2,7.2
+比萨,California Pizza Kitchen - Masaryk,California Pizza Kitchen - Masaryk,0,,7.2,7.2,7.2
+比萨,California Pizza Kitchen,California Pizza Kitchen,0,,7.1,7.1,7.1
+比萨,Mr Pizza Malecon,Mr Pizza Malecon,0,,7.0,7.0,7.0
+咖啡厅,Magoffin Home State Historical Park,Magoffin Home State Historical Park,0,,0.0,0.0,0.0
+咖啡厅,Rococo Cafe Espresso,Rococo Cafe Espresso,0,,7.1,7.1,7.1
+咖啡厅,Cafe Toscano,Cafe Toscano,0,,7.1,6.8,7.1
+咖啡厅,Sanborns Cafe,Sanborns Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cielito Querido Cafe,Cielito Querido Cafe,0,,7.2,7.2,7.2
+咖啡厅,Coffee On The Corner,Coffee On The Corner,0,,7.3,7.3,7.1
+咖啡厅,Cafe Cafesto,Cafe Cafesto,0,,7.2,7.2,7.2
+咖啡厅,Cafe Central,Cafe Central,0,,7.2,7.2,7.2
+咖啡厅,Cafe La Gloria,Cafe La Gloria,0,,7.2,7.2,7.2
+咖啡厅,Cafe Tacuba,Cafe Tacuba,0,,7.2,7.2,7.2
+咖啡厅,Minnesota Cafe,Minnesota Cafe,0,,7.1,7.1,7.1
+咖啡厅,Xiguela Ciabattas y Cafe,Xiguela Ciabattas y Cafe,0,,7.0,7.0,7.0
+咖啡厅,Antik Cafe,Antik Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Montenegro,Cafe Montenegro,0,,6.9,6.9,6.9
+咖啡厅,Cafe Conservatorio,Cafe Conservatorio,0,,7.1,7.1,7.1
+咖啡厅,Minchos Cafe,Minchos Cafe,0,,6.9,6.9,6.9
+咖啡厅,The Octopus's Garden Cafe,The Octopus's Garden Cafe,0,,7.1,7.1,7.1
+咖啡厅,Fresh'n green,Fresh'n green,0,,7.1,7.1,7.1
+咖啡厅,The Wing House,The Wing House,0,,6.9,6.9,6.9
+咖啡厅,Karma Bagels,Karma Bagels,0,,6.9,6.9,6.9
+咖啡厅,Cafe El Arbol,Cafe El Arbol,0,,6.9,6.9,6.9
+咖啡厅,Sabbia Coffee and Tea,Sabbia Coffee and Tea,0,,6.9,6.9,6.9
+咖啡厅,Starbucks Coffee,Starbucks Coffee,0,,6.9,6.9,6.9
+咖啡厅,Arts and Coffee Co.,Arts and Coffee Co.,0,,7.0,7.1,7.1
+咖啡厅,Galyan Cafe,Galyan Cafe,0,,6.9,6.9,6.9
+咖啡厅,Chucho's Cafe,Chucho's Cafe,0,,7.1,7.0,7.1
+咖啡厅,Cafe Aurora,Cafe Aurora,0,,7.1,7.1,7.1
+咖啡厅,Pizza N' Love Pizzabar Cafe,Pizza N' Love Pizzabar Cafe,0,,6.9,6.9,6.9
+咖啡厅,Costa Guadiana,Costa Guadiana,0,,7.1,7.1,7.1
+咖啡厅,sublime,sublime,0,,6.9,6.9,6.9
+咖啡厅,Chiquitito Cafe,Chiquitito Cafe,0,,7.1,7.1,7.1
+咖啡厅,Green Bistro,Green Bistro,0,,7.1,7.1,7.1
+咖啡厅,Otro Cafe,Otro Cafe,0,,7.1,7.0,7.1
+咖啡厅,Gante Cafe Grill,Gante Cafe Grill,0,,7.1,6.8,6.8
+咖啡厅,Bertico Cafe,Bertico Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe de Bellas Artes,Cafe de Bellas Artes,0,,6.8,7.1,7.1
+咖啡厅,Cafe del Centro,Cafe del Centro,0,,6.9,6.9,6.9
+咖啡厅,Restaurante Costa Dorada,Restaurante Costa Dorada,0,,7.0,7.0,6.9
+咖啡厅,Minichelista Cafe,Minichelista Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Magana,Cafe Magana,0,,7.1,7.1,7.1
+咖啡厅,Cafe etc./ Juan's cafe,Cafe etc./ Juan's cafe,0,,7.1,7.1,7.1
+咖啡厅,Coffee Park,Coffee Park,0,,6.9,6.7,7.0
+咖啡厅,La Taza Gourmet Coffee,La Taza Gourmet Coffee,0,,6.9,6.9,6.9
+咖啡厅,Metro Cafe,Metro Cafe,0,,6.9,6.9,6.9
+咖啡厅,Coffee Pub,Coffee Pub,0,,7.0,7.1,7.1
+咖啡厅,Karin's Cafe,Karin's Cafe,0,,7.0,7.0,7.0
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Conceptos Cafe,Conceptos Cafe,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.7,6.7
+咖啡厅,Charlotte Cafe,Charlotte Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafeteria Papalotl,Cafeteria Papalotl,0,,7.0,7.0,7.1
+咖啡厅,Cafe Bolshoi,Cafe Bolshoi,0,,6.9,6.9,6.9
+咖啡厅,Cafe Etrusca,Cafe Etrusca,0,,7.1,7.0,7.0
+咖啡厅,Cafe Punta del Cielo,Cafe Punta del Cielo,0,,7.1,6.9,6.9
+咖啡厅,MP Cafe,MP Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Lutece,Cafe Lutece,0,,7.0,6.9,7.0
+咖啡厅,Go Green Go Life,Go Green Go Life,0,,6.9,6.9,6.9
+咖啡厅,Cafe Ventura,Cafe Ventura,0,,7.0,7.0,7.0
+咖啡厅,Cafe 123,Cafe 123,0,,7.0,7.0,7.0
+咖啡厅,"Cafe, Panes y Pasteles De Tenango","Cafe, Panes y Pasteles De Tenango",0,,7.0,7.0,7.0
+咖啡厅,Cafe Brujula,Cafe Brujula,0,,7.2,7.2,7.2
+咖啡厅,El Buen Cafe,El Buen Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Tokio,Cafe Tokio,0,,6.9,6.9,6.9
+咖啡厅,Cafe Los Portales,Cafe Los Portales,0,,7.1,6.8,7.1
+咖啡厅,Cafe Alondra,Cafe Alondra,0,,7.1,7.1,7.1
+咖啡厅,Cafe de la Parroquia,Cafe de la Parroquia,0,,7.2,7.2,7.2
+咖啡厅,El Roots Cafe,El Roots Cafe,0,,7.1,7.3,7.1
+咖啡厅,Casa Oaxaca Cafe,Casa Oaxaca Cafe,0,,7.1,7.1,7.1
+咖啡厅,The Original Grand Cafe,The Original Grand Cafe,0,,7.1,6.8,7.1
+咖啡厅,Cafe Iguana,Cafe Iguana,0,,7.0,7.0,7.1
+咖啡厅,Looney Bean Coffee Shop,Looney Bean Coffee Shop,0,,7.2,7.2,7.2
+咖啡厅,The Oaxacan Coffee Company,The Oaxacan Coffee Company,0,,7.5,7.5,7.5
+咖啡厅,La Flor del Cafe,La Flor del Cafe,0,,7.1,7.0,7.1
+咖啡厅,Kubli's Cafe Bistro,Kubli's Cafe Bistro,0,,7.1,7.1,7.3
+咖啡厅,El Olivo Cafe,El Olivo Cafe,0,,7.0,7.0,7.0
+咖啡厅,Hello Day Cafe,Hello Day Cafe,0,,7.0,7.0,7.0
+咖啡厅,The Green Ingredient,The Green Ingredient,0,,7.1,7.0,7.0
+咖啡厅,De Costa A Costa,De Costa A Costa,0,,7.1,7.1,7.1
+咖啡厅,Collage cafe gourmet,Collage cafe gourmet,0,,6.9,6.9,6.9
+咖啡厅,The View at The Green Park Hotel,The View at The Green Park Hotel,0,,7.1,7.0,7.0
+咖啡厅,Republica del Cafe,Republica del Cafe,0,,7.0,7.1,7.1
+咖啡厅,Patagonia,Patagonia,0,,7.2,7.2,7.2
+咖啡厅,Cafe O,Cafe O,0,,7.2,7.2,7.2
+咖啡厅,Cafeteria Gabi's,Cafeteria Gabi's,0,,7.0,7.0,7.0
+咖啡厅,Cafe Budapest,Cafe Budapest,0,,7.0,7.0,7.1
+咖啡厅,The Green Corner,The Green Corner,0,,6.9,6.9,7.0
+咖啡厅,Tintico cafe - galeria,Tintico cafe - galeria,0,,7.0,7.0,7.0
+咖啡厅,Cafe Carcamanes,Cafe Carcamanes,0,,7.1,7.1,7.1
+咖啡厅,Bagel Cafe,Bagel Cafe,0,,7.1,7.1,7.1
+咖啡厅,Buen Dia Cafe,Buen Dia Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe de la Gran Ciudad,Cafe de la Gran Ciudad,0,,6.8,6.5,7.1
+咖啡厅,Cafe 22,Cafe 22,0,,6.9,6.9,6.9
+面包甜点,Tony Roma's Mexico Df,Tony Roma's Mexico Df,0,,7.0,7.0,7.0
+面包甜点,Condesa DF,Condesa DF,0,,7.2,7.2,7.2
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,,7.2,7.2,7.2
+面包甜点,Artisan Bakery,Artisan Bakery,0,,7.1,7.1,6.9
+面包甜点,Neve Gelato,Neve Gelato,0,,7.1,6.8,7.1
+面包甜点,Yogen Fruz,Yogen Fruz,0,,7.0,7.0,6.9
+面包甜点,Fullenios Taco Fish DF,Fullenios Taco Fish DF,0,,6.9,6.9,6.9
+酒吧,Salon Corona,Salon Corona,0,,7.4,7.2,7.2
+酒吧,Bros Oyster Bar,Bros Oyster Bar,0,,7.2,7.2,7.2
+酒吧,Champs Elysees,Champs Elysees,0,,7.2,7.2,7.2
+酒吧,bar tomate,bar tomate,0,,7.2,7.2,7.2
+酒吧,Tenampa Salon,Tenampa Salon,0,,7.2,7.2,7.2
+酒吧,Cerati Bar,Cerati Bar,0,,6.9,6.9,6.9
+酒吧,New orleans Jazz bar,New orleans Jazz bar,0,,6.9,7.0,7.0
+酒吧,Fishmart Oyster Bar,Fishmart Oyster Bar,0,,7.0,7.0,6.9
+酒吧,Sky Restaurant Terrace Bar,Sky Restaurant Terrace Bar,0,,7.1,7.1,7.1
+酒吧,O2,O2,0,,7.0,7.0,7.1
+酒吧,Rioja del Club Espana,Rioja del Club Espana,0,,6.9,6.9,6.9
+酒吧,Fishmart Oyster Bar Condesa,Fishmart Oyster Bar Condesa,0,,6.7,6.9,7.0
+酒吧,Beef bar,Beef bar,0,,7.2,7.2,7.2
+酒吧,116 Pulpito Gastro Bar,116 Pulpito Gastro Bar,0,,7.7,7.7,7.7
+酒吧,pinocchio,pinocchio,0,,7.2,7.2,7.2
+酒吧,Brasserie Lipp,Brasserie Lipp,0,,7.2,7.2,7.2
+酒吧,La Opera Bar,La Opera Bar,0,,7.2,7.2,7.2
+酒吧,Eladio's Bar Centro,Eladio's Bar Centro,0,,7.2,7.2,7.2
+酒吧,Restaurante Bar ,Restaurante Bar ,0,,7.2,7.2,7.2
+酒吧,Hakuna Matata Sports Bar,Hakuna Matata Sports Bar,0,,6.9,6.9,6.9
+酒吧,Restaurant Bar Frida Y Diego,Restaurant Bar Frida Y Diego,0,,7.1,7.0,7.1
+酒吧,Infamous Bar Leon,Infamous Bar Leon,0,,7.1,7.1,7.1
+酒吧,Sport Bar Santo Cabrito,Sport Bar Santo Cabrito,0,,7.1,7.0,7.1
+酒吧,El Bar Co.,El Bar Co.,0,,7.1,7.1,7.1
+酒吧,Pkdo Bar,Pkdo Bar,0,,6.9,6.9,6.9
+酒吧,Gin Club,Gin Club,0,,6.9,6.9,6.9
+酒吧,Inolvidable Piano Bar,Inolvidable Piano Bar,0,,6.9,6.9,6.9
+酒吧,Salon Cantina Florida,Salon Cantina Florida,0,,7.1,7.1,7.0
+酒吧,Jaleo Bar de Tapas,Jaleo Bar de Tapas,0,,7.1,7.1,7.1
+酒吧,Restaurant Bar Dimitris,Restaurant Bar Dimitris,0,,7.0,7.0,7.0
+酒吧,Mr.C's Supper Club Restaurant,Mr.C's Supper Club Restaurant,0,,6.9,6.7,6.9
+酒吧,"Restaurant Bar La Chata,","Restaurant Bar La Chata,",0,,6.9,6.9,6.9
+酒吧,Soho,Soho,0,,6.9,6.9,6.9
+酒吧,Casa Club del Academico,Casa Club del Academico,0,,7.0,7.0,7.0
+酒吧,Kings Pub Plaza Loreto,Kings Pub Plaza Loreto,0,,6.9,6.9,6.9
+酒吧,Koto Sushi Bar,Koto Sushi Bar,0,,7.1,7.0,7.0
+酒吧,Sushi Mix,Sushi Mix,0,,7.0,7.0,7.0
+酒吧,Roga's BBQ Oysters Restaurant and Bar,Roga's BBQ Oysters Restaurant and Bar,0,,7.1,7.0,7.0
+酒吧,La Ingrata Mexican Pub,La Ingrata Mexican Pub,0,,7.3,7.1,7.1
+酒吧,La Isla Restaurant Bar,La Isla Restaurant Bar,0,,7.1,7.1,7.1
+酒吧,Lobby Bar at Tijuana Marriott Hotel,Lobby Bar at Tijuana Marriott Hotel,0,,7.1,7.1,7.1
+酒吧,Nonna Vivi Wood Oven Pizzeria,Nonna Vivi Wood Oven Pizzeria,0,,7.2,7.2,7.2
+酒吧,La Alhambra,La Alhambra,0,,6.9,6.9,6.9
+酒吧,Insu Sky Bar and Pool Lounge,Insu Sky Bar and Pool Lounge,0,,7.2,7.2,7.2
+酒吧,Chasers Sports Bar,Chasers Sports Bar,0,,7.1,7.1,7.1
+酒吧,Mel's Steakhouse and Bar,Mel's Steakhouse and Bar,0,,7.0,7.0,7.0
+酒吧,Cuale Paradise,Cuale Paradise,0,,7.2,7.7,7.7
+酒吧,Yo Yo Mo's Pizza and Sports Bar,Yo Yo Mo's Pizza and Sports Bar,0,,7.2,7.2,7.2
+酒吧,Mariscos Bar Mandinga,Mariscos Bar Mandinga,0,,7.0,7.0,6.9
+酒吧,Fishmart Oyster Bar,Fishmart Oyster Bar,0,,7.1,7.0,7.0
+酒吧,La Morena Oyster Bar,La Morena Oyster Bar,0,,7.1,7.0,7.0
+酒吧,Manny's Beach Club,Manny's Beach Club,0,,6.8,6.8,6.8
+酒吧,Ladina Tapas Bar,Ladina Tapas Bar,0,,7.0,7.0,7.0
+酒吧,Riedel Wine Bar - Polanco,Riedel Wine Bar - Polanco,0,,7.0,7.0,7.0
+酒吧,Restaurante Bar Stuka,Restaurante Bar Stuka,0,,6.9,6.7,6.9
+酒吧,Pacifica Langosta Bar,Pacifica Langosta Bar,0,,6.8,7.1,7.1
+酒吧,Nonna Cucina Bar,Nonna Cucina Bar,0,,7.1,6.8,7.1
+酒吧,Ancora Bar e Cucina Urbana,Ancora Bar e Cucina Urbana,0,,7.0,7.0,7.0
+酒吧,Mexico Viejo Restaurant Bar,Mexico Viejo Restaurant Bar,0,,7.1,7.3,7.1
+酒吧,Cafeteria Bistro Club,Cafeteria Bistro Club,0,,6.9,6.9,6.9
+酒吧,Zipolipas restaurant y Bar,Zipolipas restaurant y Bar,0,,7.0,7.0,7.0
+酒吧,Restaurant Bar El Sagrario,Restaurant Bar El Sagrario,0,,7.1,7.1,7.1
+酒吧,Club 99,Club 99,0,,6.9,6.9,6.9
+酒吧,La Bamba,La Bamba,0,,6.9,6.9,6.9
+更多美食,Mi gusto es,Mi gusto es,0,,7.2,7.2,7.2
+更多美食,Hunan,Hunan,0,,7.2,7.2,7.2
+更多美食,Dolce Amore,Dolce Amore,0,,7.1,7.1,7.1

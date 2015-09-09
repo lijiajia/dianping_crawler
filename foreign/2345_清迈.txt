@@ -1,0 +1,1063 @@
+泰国菜,Dash Teak House Restaurant and Bar,Dash Teak House Restaurant and Bar,78,清迈老城,8.6,9.1,9.0
+泰国菜,Lemongrass Thai Restaurant,Lemongrass Thai Restaurant,48,清迈近郊,9.1,7.9,9.1
+泰国菜,Mr KAI Restaurant,Mr KAI Restaurant,31,清迈老城,9.1,8.3,9.2
+泰国菜,芒果糯米饭摊子,芒果糯米饭摊子,12,,9.2,7.9,8.9
+泰国菜,Aroon (Rai) Restaurant,Aroon (Rai) Restaurant,37,塔佩路,7.9,6.6,7.4
+泰国菜,Tong Bar and Restaurant,Tong Bar and Restaurant,42,宁曼路/清迈大学,7.8,7.8,7.8
+泰国菜,Mix Restaurant,Mix Restaurant,87,宁曼路/清迈大学,8.5,9.1,9.0
+泰国菜,Cooking Love,Cooking Love,45,塔佩路/夜市,8.5,8.1,8.9
+泰国菜,Blue Mango,Blue Mango,40,塔佩路/夜市,8.0,6.9,7.9
+泰国菜,Ruen Tamarind,Ruen Tamarind,157,塔佩路/夜市,9.0,9.2,9.0
+泰国菜,We's Restaurant,We's Restaurant,49,老城南边,8.7,8.0,8.3
+泰国菜,The River Market,The River Market,120,清迈老城,7.9,9.1,7.8
+泰国菜,Hong Tauw Inn,Hong Tauw Inn,63,老城北边,8.8,9.0,9.0
+泰国菜,壹铢粥店,壹铢粥店,39,清迈老城,7.1,6.4,6.8
+泰国菜,Kiat Num,Kiat Num,36,宁曼路/清迈大学,7.5,7.2,7.6
+泰国菜,Chiang Mai Breakfast World,Chiang Mai Breakfast World,66,塔佩路/夜市,8.1,9.0,8.5
+泰国菜,Khun Nai Tuen Sai,Khun Nai Tuen Sai,38,宁曼路/清迈大学,7.7,8.2,7.8
+泰国菜,"Deck 1, Rarinjinda Wellness Spa Resort","Deck 1, Rarinjinda Wellness Spa Resort",117,清迈近郊,8.0,8.5,8.4
+泰国菜,Mr Juicy,Mr Juicy,25,清迈老城,8.3,8.5,8.5
+泰国菜,The House ResTaurAnt,The House ResTaurAnt,34,清迈近郊,7.5,7.2,7.1
+泰国菜,92 Rachadamneon Restaurant,92 Rachadamneon Restaurant,44,老城南边,8.5,8.7,8.7
+泰国菜,Galae Restauant,Galae Restauant,0,宁曼路/清迈大学,8.5,9.0,8.6
+泰国菜,MING MUANG RESTAURANT@NIMMANHEMIN,MING MUANG RESTAURANT@NIMMANHEMIN,48,宁曼路/清迈大学,7.8,7.9,7.9
+泰国菜,W by Wanlamun,W by Wanlamun,89,昌莫伊,7.5,7.6,7.7
+泰国菜,Angel's Secrets,Angel's Secrets,0,塔佩路/夜市,7.1,7.1,7.1
+泰国菜,Nakara Jardin,Nakara Jardin,0,清迈老城,8.5,8.7,8.3
+泰国菜,Whole Earth Restaurant,Whole Earth Restaurant,97,清迈河畔,7.6,8.0,7.1
+泰国菜,Palaad Tawanron Restaurant,Palaad Tawanron Restaurant,0,宁曼路/清迈大学,6.6,7.5,6.9
+泰国菜,Mae pa sri,Mae pa sri,0,老城南边,8.3,7.3,8.7
+泰国菜,SP Chicken,SP Chicken,0,塔佩路/夜市,8.4,7.3,8.1
+泰国菜,Khum Khantoke,Khum Khantoke,0,清迈近郊,6.7,7.9,7.4
+泰国菜,Le Grand Lanna,Le Grand Lanna,0,班塔沙拉,7.3,8.4,7.5
+泰国菜,Mho O Cha Restaurant,Mho O Cha Restaurant,0,长康路,7.8,6.9,7.5
+泰国菜,Le Grand Lanna,Le Grand Lanna,0,清迈近郊,8.5,8.7,8.7
+泰国菜,The Glasshouse,The Glasshouse,0,塔佩路/夜市,7.8,8.2,8.0
+泰国菜,Hong Taow Restaurant,Hong Taow Restaurant,0,宁曼路/清迈大学,7.2,8.0,7.2
+泰国菜,U Chiang Mai,U Chiang Mai,0,清迈汽车站,8.0,8.5,7.6
+泰国菜,Whole Earth,Whole Earth,0,清迈近郊,7.6,8.5,7.8
+泰国菜,Tianzi Tea House and Garden,Tianzi Tea House and Garden,0,长康路,8.0,8.3,8.3
+泰国菜,Monkey Club,Monkey Club,0,宁曼路/清迈大学,8.2,7.7,7.7
+泰国菜,Sahara Restaurant,Sahara Restaurant,0,宁曼路/清迈大学,7.4,8.1,7.5
+泰国菜,Teak Garden ResTaurAnt,Teak Garden ResTaurAnt,0,塔佩路,6.4,6.9,6.6
+泰国菜,Lemon Tree,Lemon Tree,0,清迈汽车站,8.2,7.5,7.9
+泰国菜,Khum Khantoke,Khum Khantoke,0,清迈机场,7.1,7.8,7.8
+泰国菜,Fern Forest Café,Fern Forest Café,0,清迈老城,7.5,8.3,7.5
+泰国菜,Cafe de ThaanAoan,Cafe de ThaanAoan,0,老城南边,8.1,8.1,7.7
+泰国菜,The Restaurant at Anantara Chiang Mai,The Restaurant at Anantara Chiang Mai,0,清迈老城,6.9,8.0,6.9
+泰国菜,German Hofbrauhaus y Casa Antonio,German Hofbrauhaus y Casa Antonio,0,塔佩路,8.4,7.5,8.4
+泰国菜,Khun Churn,Khun Churn,0,宁曼路/清迈大学,6.8,6.9,6.8
+泰国菜,皎月金面,皎月金面,0,宁曼路/清迈大学,8.5,7.9,8.3
+泰国菜,Mix Restaurant & Bar,Mix Restaurant & Bar,0,尼曼海明,7.7,7.7,7.4
+泰国菜,新满月餐厅,新满月餐厅,0,宁曼路/清迈大学,7.7,7.2,7.3
+泰国菜,Ming Muang,Ming Muang,0,尼曼海明,7.2,7.5,7.5
+泰国菜,Mo'c Mo'l Restaurant,Mo'c Mo'l Restaurant,0,宁曼路/清迈大学,8.2,8.3,8.2
+泰国菜,Thanuhm,Thanuhm,0,清迈近郊,8.5,8.5,8.4
+泰国菜,"The Gallery Restaurant & Arts Club, ","The Gallery Restaurant & Arts Club, ",0,清迈近郊,7.3,7.5,7.4
+泰国菜,Kanjana,Kanjana,0,清迈老城,7.9,6.7,7.5
+泰国菜,S&P,S&P,0,清迈近郊,7.1,7.1,7.1
+泰国菜,Ping Ping,Ping Ping,0,清迈老城,6.7,7.1,7.1
+泰国菜,Burmese Restaurant and Library,Burmese Restaurant and Library,0,宁曼路/清迈大学,7.7,7.6,7.7
+泰国菜,Ease!,Ease!,0,清迈老城,7.3,7.5,7.2
+泰国菜,Ginger & Kafe,Ginger & Kafe,0,清迈近郊,8.5,8.5,8.5
+泰国菜,The Red Lion English Pub and Restaurant,The Red Lion English Pub and Restaurant,0,长康路,5.8,6.1,6.1
+泰国菜,Old Chiang Mai Cultural Center,Old Chiang Mai Cultural Center,0,清迈近郊,5.0,5.6,5.9
+泰国菜,The Old City Inn,The Old City Inn,0,清迈老城,7.8,7.1,6.8
+泰国菜,阿努沙夜市,阿努沙夜市,0,塔佩路,7.3,7.2,7.8
+泰国菜,Tiger Kingdom In Town,Tiger Kingdom In Town,0,班塔沙拉,8.1,8.2,8.1
+泰国菜,S&P,S&P,0,清迈机场,7.9,7.9,7.9
+泰国菜,The Garden Chiang Mai,The Garden Chiang Mai,0,,7.0,8.1,7.0
+泰国菜,WAWEE COFFEE,WAWEE COFFEE,0,清迈近郊,6.6,7.1,6.7
+泰国菜,Anchan Vegetarian,Anchan Vegetarian,0,清迈近郊,8.1,7.5,8.1
+泰国菜,Daret' House,Daret' House,0,,8.0,8.0,8.0
+泰国菜,Black Elephant Garden Bistro,Black Elephant Garden Bistro,0,清迈近郊,5.5,7.2,5.8
+泰国菜,Kiat Num Rstaurant,Kiat Num Rstaurant,0,宁曼路/清迈大学,7.5,7.5,7.5
+泰国菜,SALA LANNA CHIANG MAI,SALA LANNA CHIANG MAI,0,霸顿,8.5,8.5,8.5
+泰国菜,Morradoke Thai,Morradoke Thai,0,塔佩路/夜市,7.9,7.5,7.5
+泰国菜,Ginny Cafe,Ginny Cafe,0,塔佩路/夜市,5.5,5.5,4.9
+泰国菜,chompor lanna餐厅,chompor lanna餐厅,0,,7.5,7.1,7.1
+泰国菜,Raming Tea House Siam Celadon,Raming Tea House Siam Celadon,0,张克兰,7.9,8.4,7.9
+泰国菜,Andaman Kitchen Chiang Mai,Andaman Kitchen Chiang Mai,0,清迈近郊,7.5,7.2,7.5
+泰国菜,Homwhan Coffee Shop,Homwhan Coffee Shop,0,清迈老城,7.0,7.1,7.0
+泰国菜,The 3 Sis Cafe & Restaurant,The 3 Sis Cafe & Restaurant,0,,7.5,8.2,8.2
+泰国菜,Khun Mor Cuisine,Khun Mor Cuisine,0,,8.1,8.1,8.1
+泰国菜,青木瓜色拉摊子,青木瓜色拉摊子,0,,7.1,7.1,7.1
+泰国菜,The Red Lion,The Red Lion,0,清迈近郊,7.3,6.4,6.8
+泰国菜,Baan Jangarpor,Baan Jangarpor,0,清迈老城,7.2,7.7,7.7
+泰国菜,Little Lanna Restaurant,Little Lanna Restaurant,0,,7.1,7.1,7.1
+泰国菜,Tom yum Thai厨艺课,Tom yum Thai厨艺课,0,清迈近郊,8.4,8.4,8.4
+泰国菜,Krua Ratana's Kitchen,Krua Ratana's Kitchen,0,塔佩路,7.5,7.4,7.4
+泰国菜,Blue Diamond Breakfast Club,Blue Diamond Breakfast Club,0,清迈近郊,6.8,6.8,6.8
+泰国菜,Koland Cafe,Koland Cafe,0,宁曼路/清迈大学,8.4,8.4,8.4
+泰国菜,"Deck 1, Rarinjinda Wellness Spa Resort","Deck 1, Rarinjinda Wellness Spa Resort",0,清迈老城,7.5,8.3,8.3
+泰国菜,AUM Vegetarian Food,AUM Vegetarian Food,0,塔佩路/夜市,6.8,7.3,7.3
+泰国菜,Sis Bistro,Sis Bistro,0,清迈老城,6.8,7.2,7.2
+泰国菜,Le Crystal Restaurant,Le Crystal Restaurant,0,清迈近郊,6.3,6.3,6.9
+泰国菜,Khum Khantoke,Khum Khantoke,0,班塔沙拉,6.9,7.1,6.9
+泰国菜,Secret Learning Restaurant,Secret Learning Restaurant,0,塔佩路/夜市,7.1,7.3,7.3
+泰国菜,Oyori The Grill,Oyori The Grill,0,尼曼海明,7.1,7.1,7.1
+泰国菜,Ban Rom Mai,Ban Rom Mai,0,长康路,8.4,7.5,6.7
+泰国菜,Vieng Joom On Tea House,Vieng Joom On Tea House,0,清迈近郊,8.2,8.2,8.2
+泰国菜,Black Canyon Restaurant (Huai Kaew),Black Canyon Restaurant (Huai Kaew),0,宁曼路/清迈大学,7.0,7.0,7.0
+泰国菜,La Casa de Nimman,La Casa de Nimman,0,宁曼路/清迈大学,7.5,7.5,7.5
+泰国菜,The Spirit House Restaurant & Bar,The Spirit House Restaurant & Bar,0,霸顿,6.5,6.5,6.5
+泰国菜,Paak Dang,Paak Dang,0,霸顿,7.4,7.4,7.4
+泰国菜,Pum Thai Restaurant,Pum Thai Restaurant,0,塔佩路/夜市,7.1,7.1,7.1
+泰国菜,Archers Bar & Restaurant,Archers Bar & Restaurant,0,清迈老城,7.4,7.4,7.4
+泰国菜,Just Khao Soy,Just Khao Soy,0,清迈老城,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวีสาขาแม่ริม,ร้านกาแฟวาวีสาขาแม่ริม,0,清迈近郊,7.1,7.1,7.1
+泰国菜,Chester's Grill (Huai Kaew Road Branch) Shop,Chester's Grill (Huai Kaew Road Branch) Shop,0,宁曼路/清迈大学,6.7,7.4,7.4
+泰国菜,Archer's,Archer's,0,塔佩路/夜市,7.4,7.4,7.4
+泰国菜,"Mister Donut Co., Ltd. (Chang Klan Branch)","Mister Donut Co., Ltd. (Chang Klan Branch)",0,塔佩路,6.9,6.9,6.9
+泰国菜,Imm Aim Vegetarian & Bike Cafe',Imm Aim Vegetarian & Bike Cafe',0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Gekko Garden,Gekko Garden,0,张克兰,8.4,8.4,8.4
+泰国菜,王记面馆,王记面馆,0,清迈老城,7.1,7.0,7.0
+泰国菜,Fujian,Fujian,0,清迈近郊,7.0,7.0,6.9
+泰国菜,Mixology Chiangmai Burger,Mixology Chiangmai Burger,0,清迈老城,7.0,7.0,7.0
+泰国菜,Yok-Krok,Yok-Krok,0,宁曼路/清迈大学,7.4,7.4,7.4
+泰国菜,Baan Rim Nam,Baan Rim Nam,0,清迈近郊,7.4,7.4,7.4
+泰国菜,Som Za,Som Za,0,,6.8,7.7,7.7
+泰国菜,Satesinlp Restaurant,Satesinlp Restaurant,0,清迈老城,7.1,7.1,7.1
+泰国菜,Beena House,Beena House,0,清迈近郊,7.0,7.0,7.0
+泰国菜,ร้านอาหาร Hot Pot สาขา กาดสวนแก้ว เชียงใหม่,ร้านอาหาร Hot Pot สาขา กาดสวนแก้ว เชียงใหม่,0,宁曼路/清迈大学,6.9,6.9,6.9
+泰国菜,Thais That Bind,Thais That Bind,0,清迈老城,6.9,6.9,6.9
+泰国菜,Inside Park Restaurant And Soft Music (Relocated),Inside Park Restaurant And Soft Music (Relocated),0,清迈近郊,7.7,7.7,7.7
+泰国菜,Chez Daniel Restaurant,Chez Daniel Restaurant,0,宁曼路/清迈大学,7.0,7.0,7.0
+泰国菜,素食餐馆,素食餐馆,0,清迈老城,7.2,6.8,7.2
+泰国菜,Magnum,Magnum,0,,6.2,6.2,6.2
+泰国菜,Spoon de Best,Spoon de Best,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Comedara,Comedara,0,清迈近郊,6.7,6.7,6.7
+泰国菜,Keethara餐厅,Keethara餐厅,0,老城北边,7.3,7.3,7.3
+泰国菜,Dada Kafe,Dada Kafe,0,塔佩路/夜市,5.9,6.8,6.3
+泰国菜,Gegsym,Gegsym,0,宁曼路/清迈大学,7.2,6.4,6.8
+泰国菜,ห้องรับประทานอาหา,ห้องรับประทานอาหา,0,清迈老城,6.8,6.8,6.8
+泰国菜,Farang Ses,Farang Ses,0,清迈近郊,7.1,7.1,7.1
+泰国菜,Wanlamun,Wanlamun,0,清迈近郊,6.8,6.8,6.8
+泰国菜,Sorn's Restaurant,Sorn's Restaurant,0,清迈近郊,7.9,7.9,7.3
+泰国菜,Kalare Night Bazaar,Kalare Night Bazaar,0,清迈老城,0.0,0.0,0.0
+泰国菜,Cherng Doi Roast Chicken,Cherng Doi Roast Chicken,0,清迈老城,7.7,7.7,7.7
+泰国菜,Khum KhanToke,Khum KhanToke,0,清迈老城,5.5,6.8,6.8
+泰国菜,ห้องอาหารเดอะ เทอร์เรส,ห้องอาหารเดอะ เทอร์เรส,0,清迈近郊,7.4,7.4,7.4
+泰国菜,Ban Korea House,Ban Korea House,0,清迈近郊,6.0,6.7,6.7
+泰国菜,Writers Club & Wine Bar,Writers Club & Wine Bar,0,老城南边,0.0,0.0,0.0
+泰国菜,addy's happy smoothes,addy's happy smoothes,0,清迈老城,7.2,6.8,7.2
+泰国菜,Galare Food & Shopping Centre,Galare Food & Shopping Centre,0,长康路,0.0,0.0,0.0
+泰国菜,Sandwich Bar,Sandwich Bar,0,清迈近郊,7.1,7.1,7.1
+泰国菜,Khom Jao Luang Boutique BAR&RESTAURANT,Khom Jao Luang Boutique BAR&RESTAURANT,0,塔佩路/夜市,7.1,7.1,7.1
+泰国菜,Northern Thai Cuisine,Northern Thai Cuisine,0,宁曼路/清迈大学,5.9,5.9,5.9
+泰国菜,Teak House,Teak House,0,塔佩路/夜市,7.4,7.4,7.4
+泰国菜,汤粉店,汤粉店,0,老城北边,6.7,6.0,6.0
+泰国菜,Bamboo Cafe,Bamboo Cafe,0,霸顿,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวีสาขา THE PEABERRY CHINGMAI,ร้านกาแฟวาวีสาขา THE PEABERRY CHINGMAI,0,清迈近郊,5.0,5.9,5.0
+泰国菜,Brown Rice / Organic Bistro,Brown Rice / Organic Bistro,0,老城南边,0.0,0.0,0.0
+泰国菜,Good Health,Good Health,0,长康路,0.0,0.0,0.0
+泰国菜,Le Grand Lanna,Le Grand Lanna,0,三晒,0.0,0.0,0.0
+泰国菜,Huen Muan Jai,Huen Muan Jai,0,老城北边,0.0,0.0,0.0
+泰国菜,Vieng Joom On Teahouse,Vieng Joom On Teahouse,0,清迈老城,0.0,0.0,0.0
+泰国菜,Harrad's Cafe,Harrad's Cafe,0,老城南边,0.0,0.0,0.0
+泰国菜,Mai Kaidee Vegetarian Restaurant & Cooking School,Mai Kaidee Vegetarian Restaurant & Cooking School,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Bodhi Zen Vegetarian Restaurant,Bodhi Zen Vegetarian Restaurant,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Tsunami Sushi Bar,Tsunami Sushi Bar,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Funky Dog Cafe,Funky Dog Cafe,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Paris - Restaurant & Bar,Paris - Restaurant & Bar,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Khaomao-Khaofang Restaurant,Khaomao-Khaofang Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Free Bird Cafe,Free Bird Cafe,0,老城南边,0.0,0.0,0.0
+泰国菜,Palaad Tawanron,Palaad Tawanron,0,清迈汽车站,0.0,0.0,0.0
+泰国菜,Da Laa Baa Bar&Restaurant,Da Laa Baa Bar&Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,The Moat,The Moat,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Prego Restaurant,Prego Restaurant,0,湄登,0.0,0.0,0.0
+泰国菜,Gallery,Gallery,0,清迈老城,0.0,0.0,0.0
+泰国菜,Yes! Pub Guesthouse and Restaurant,Yes! Pub Guesthouse and Restaurant,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Antique House,Antique House,0,清迈老城,0.0,0.0,0.0
+泰国菜,Regina Garden Restaurant,Regina Garden Restaurant,0,清迈老城,0.0,0.0,0.0
+泰国菜,Natures Way Place,Natures Way Place,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Huan Soontaree Vechanont,Huan Soontaree Vechanont,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Pasta Cafe,Pasta Cafe,0,老城北边,0.0,0.0,0.0
+泰国菜,House of Palm (Baan Ton Palm),House of Palm (Baan Ton Palm),0,湄登,0.0,0.0,0.0
+泰国菜,Nature's Way,Nature's Way,0,怀凯路,0.0,0.0,0.0
+泰国菜,Tamarind,Tamarind,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Plus Salad,Plus Salad,0,清迈近郊,0.0,0.0,0.0
+泰国菜,O'Malley's Irish Pub and Restaurant,O'Malley's Irish Pub and Restaurant,0,清迈老城,0.0,0.0,0.0
+泰国菜,Chit Chai,Chit Chai,0,班塔沙拉,0.0,0.0,0.0
+泰国菜,Chez Emy Restaurant & Pastry,Chez Emy Restaurant & Pastry,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Jimmy and Jeng,Jimmy and Jeng,0,班塔沙拉,0.0,0.0,0.0
+泰国菜,Nu's Place,Nu's Place,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Chang Chalaad,Chang Chalaad,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Green Days,Green Days,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ปั๊มแก๊ส เชียงใหม่ LPG หัวมุมตรงข้ามศาลแขวง,ปั๊มแก๊ส เชียงใหม่ LPG หัวมุมตรงข้ามศาลแขวง,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านภาพ-พา-ยล (เจียงใหม่),ร้านภาพ-พา-ยล (เจียงใหม่),0,清迈近郊,0.0,0.0,0.0
+泰国菜,7-11 & เอทีเอ็ม ธนาคารกรุงเทพ,7-11 & เอทีเอ็ม ธนาคารกรุงเทพ,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Indian restaurant,Indian restaurant,0,塔佩路,0.0,0.0,0.0
+泰国菜,Chang Phueak Pan Fried Pork,Chang Phueak Pan Fried Pork,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Wang Kuang Reena,Wang Kuang Reena,0,长康路,0.0,0.0,0.0
+泰国菜,Chabad House Restaurant,Chabad House Restaurant,0,长康路,0.0,0.0,0.0
+泰国菜,Krua Ruam Mitra : ร้านครัวรวมมิตร,Krua Ruam Mitra : ร้านครัวรวมมิตร,0,清迈老城,0.0,0.0,0.0
+泰国菜,Arabia Restaurant,Arabia Restaurant,0,塔佩路,0.0,0.0,0.0
+泰国菜,Madamian Vietnamese Food,Madamian Vietnamese Food,0,塔佩路,0.0,0.0,0.0
+泰国菜,Impresso Espresso Bar,Impresso Espresso Bar,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Lim Lao Ngo,Lim Lao Ngo,0,清迈老城,0.0,0.0,0.0
+泰国菜,Monkey Club and Restaurant,Monkey Club and Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ เชียงใหม่ 2,สตาร์บัคส์ เชียงใหม่ 2,0,清迈近郊,0.0,0.0,0.0
+泰国菜,L'orchidee,L'orchidee,0,清迈老城,0.0,0.0,0.0
+泰国菜,Panda Palace,Panda Palace,0,长康路,0.0,0.0,0.0
+泰国菜,ร้านคุณเปรี้ยวอาหารใต้(พระสิงห์),ร้านคุณเปรี้ยวอาหารใต้(พระสิงห์),0,清迈老城,0.0,0.0,0.0
+泰国菜,Krabs World Company Limited,Krabs World Company Limited,0,塔佩路,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ เชียงใหม่ท่าแพ,สตาร์บัคส์ เชียงใหม่ท่าแพ,0,塔佩路,0.0,0.0,0.0
+泰国菜,Thaweephan Product Ltd. Part.,Thaweephan Product Ltd. Part.,0,塔佩路,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวีสาขานิมมานพรอมินาด ซอย 4,ร้านกาแฟวาวีสาขานิมมานพรอมินาด ซอย 4,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวีสาขารูม 2,ร้านกาแฟวาวีสาขารูม 2,0,长康路,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ เชียงใหม่นิมมานเหมินทร์,สตาร์บัคส์ เชียงใหม่นิมมานเหมินทร์,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Monkey's Tree,Monkey's Tree,0,,0.0,0.0,0.0
+泰国菜,Chester's Grill (Kad Suan Kaew),Chester's Grill (Kad Suan Kaew),0,清迈近郊,0.0,0.0,0.0
+泰国菜,Ong Thipros,Ong Thipros,0,清迈老城,0.0,0.0,0.0
+泰国菜,尼泊尔菜,尼泊尔菜,0,长康路,0.0,0.0,0.0
+泰国菜,The White Lotus Restaurant & Bar,The White Lotus Restaurant & Bar,0,长康路,0.0,0.0,0.0
+泰国菜,M. K. Suki (Chiang Mai),M. K. Suki (Chiang Mai),0,清迈近郊,0.0,0.0,0.0
+泰国菜,Dragonfly Bar Chaing Mai,Dragonfly Bar Chaing Mai,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Garden Island,Garden Island,0,老城南边,0.0,0.0,0.0
+泰国菜,Foccacia Restaurant,Foccacia Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Ninja Restaurant,Ninja Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,ร้านสุกี้ร้อนแรง,ร้านสุกี้ร้อนแรง,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Home 6,Home 6,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Ratana´s Kitchen,Ratana´s Kitchen,0,清迈近郊,0.0,0.0,0.0
+泰国菜,K. F. C. (Chiang Mai-Lampang Super Highway),K. F. C. (Chiang Mai-Lampang Super Highway),0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้าน มิสเตอร์เจมส์ เบเกอรี่,ร้าน มิสเตอร์เจมส์ เบเกอรี่,0,清迈老城,0.0,0.0,0.0
+泰国菜,ดริ้งมอร์,ดริ้งมอร์,0,清迈老城,0.0,0.0,0.0
+泰国菜,Saenkangwan Restaurant,Saenkangwan Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,โออิชิราเมนเซ็นทรัลแอร์พอร์ตเชียงใหม่,โออิชิราเมนเซ็นทรัลแอร์พอร์ตเชียงใหม่,0,清迈近郊,0.0,0.0,0.0
+泰国菜,The Moon Terrace Restaurant,The Moon Terrace Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Piccola Roma Restaurant,Piccola Roma Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,คอฟฟี่ เลิฟเวอร์,คอฟฟี่ เลิฟเวอร์,0,清迈老城,0.0,0.0,0.0
+泰国菜,SAI-MUI & MAKIE'S,SAI-MUI & MAKIE'S,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Kaiwan Restaurant,Kaiwan Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Roi Li Kitchen Restaurant,Roi Li Kitchen Restaurant,0,清迈老城,0.0,0.0,0.0
+泰国菜,jagajee,jagajee,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Somtum Dokrak By Indies' Kitchen,Somtum Dokrak By Indies' Kitchen,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Somtum Bai Tong Tueng,Somtum Bai Tong Tueng,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,ฟาร์มผึ้งเชียงใหม่,ฟาร์มผึ้งเชียงใหม่,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Pinky's Buffalo Wings,Pinky's Buffalo Wings,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Mhoo Joom Fahthanee Restaurant,Mhoo Joom Fahthanee Restaurant,0,尼曼海明,0.0,0.0,0.0
+泰国菜,Just Khao Soy,Just Khao Soy,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านกาแฟ Green Chilled,ร้านกาแฟ Green Chilled,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Chiangmai Coca 1,Chiangmai Coca 1,0,清迈近郊,0.0,0.0,0.0
+泰国菜,"J. J. Berkery Co., Ltd.","J. J. Berkery Co., Ltd.",0,清迈老城,0.0,0.0,0.0
+泰国菜,Saen Kham Restaurant,Saen Kham Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,คอฟฟี่เวิล์ด เซ็นทรัลแอร์พอร์ต,คอฟฟี่เวิล์ด เซ็นทรัลแอร์พอร์ต,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Gino Italian Food Restaurant,Gino Italian Food Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Cheese&Cake,Cheese&Cake,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,แมวเลานจ์ คาเฟ่,แมวเลานจ์ คาเฟ่,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Banrai Steak House 1,Banrai Steak House 1,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Tara Bar,Tara Bar,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Rot Yiam,Rot Yiam,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Leela Noodle,Leela Noodle,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Kao Tom Yong,Kao Tom Yong,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Bon Kitchen Restaurant,Bon Kitchen Restaurant,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Kon-Cen Restaurant Shop,Kon-Cen Restaurant Shop,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,ร้านเป็นเส้น,ร้านเป็นเส้น,0,清迈近郊,0.0,0.0,0.0
+泰国菜,โออิชิราเมนเดอะริงเชียงใหม่,โออิชิราเมนเดอะริงเชียงใหม่,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,กินรี กรูเม่ ไทย,กินรี กรูเม่ ไทย,0,长康路,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ เดอะพลาซ่า เชียงใหม่,สตาร์บัคส์ เดอะพลาซ่า เชียงใหม่,0,塔佩路,0.0,0.0,0.0
+泰国菜,ร้านกาแฟราชดำเนิน,ร้านกาแฟราชดำเนิน,0,清迈老城,0.0,0.0,0.0
+泰国菜,ห้องอาหารพาโนราม่า,ห้องอาหารพาโนราม่า,0,塔佩路,0.0,0.0,0.0
+泰国菜,J-Nine Resterant,J-Nine Resterant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,La Villa Pizzeria,La Villa Pizzeria,0,清迈老城,0.0,0.0,0.0
+泰国菜,99 Tea Shake,99 Tea Shake,0,长康路,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวีสาขาโรงพยาบาลสวนดอก,ร้านกาแฟวาวีสาขาโรงพยาบาลสวนดอก,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Suan Phak,Suan Phak,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ห้างหุ้นส่วนจำกัด เฮือนสุนทรีเวชานนท์,ห้างหุ้นส่วนจำกัด เฮือนสุนทรีเวชานนท์,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Ban Roi Chan,Ban Roi Chan,0,清迈近郊,0.0,0.0,0.0
+泰国菜,แป้นเกล็ด คอฟฟี่,แป้นเกล็ด คอฟฟี่,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Ban Suan,Ban Suan,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Suan Sabaijai,Suan Sabaijai,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Eis Prinz,Eis Prinz,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Sawasdee,Sawasdee,0,清迈近郊,0.0,0.0,0.0
+泰国菜,CoCo Salad โคโค่สลัด,CoCo Salad โคโค่สลัด,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Krua Dara Restaurant,Krua Dara Restaurant,0,清迈老城,0.0,0.0,0.0
+泰国菜,White Lotus,White Lotus,0,清迈近郊,0.0,0.0,0.0
+泰国菜,First Star,First Star,0,清迈老城,0.0,0.0,0.0
+泰国菜,Ratana Kitchen Restaurant,Ratana Kitchen Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Zoe in Yellow Corner Restaurant - Chiang Mai,Zoe in Yellow Corner Restaurant - Chiang Mai,0,清迈老城,0.0,0.0,0.0
+泰国菜,CMU,CMU,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Oriental Garden Restaurant and Guesthouse,Oriental Garden Restaurant and Guesthouse,0,塔佩路,0.0,0.0,0.0
+泰国菜,เซ็นทรัลพลาซ่า เชียงใหม่ แอร์พอร์ต,เซ็นทรัลพลาซ่า เชียงใหม่ แอร์พอร์ต,0,清迈近郊,0.0,0.0,0.0
+泰国菜,หมูจุ่ม & สุกี้,หมูจุ่ม & สุกี้,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Suan Dok Noodle,Suan Dok Noodle,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Num Kao Man Kai,Num Kao Man Kai,0,清迈近郊,0.0,0.0,0.0
+泰国菜,The Western Club,The Western Club,0,清迈近郊,0.0,0.0,0.0
+泰国菜,"Amazing Sandwich, The Shop","Amazing Sandwich, The Shop",0,清迈老城,0.0,0.0,0.0
+泰国菜,The Baan Suan Sri,The Baan Suan Sri,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Suki Rot Yiam,Suki Rot Yiam,0,清迈近郊,0.0,0.0,0.0
+泰国菜,See Paak (Four Regions) Restaurant,See Paak (Four Regions) Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Mikes Original Burgers,Mikes Original Burgers,0,清迈近郊,0.0,0.0,0.0
+泰国菜,The Steak House Pub & Restaurant,The Steak House Pub & Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,BRIX Bar & Restaurant at Hotel M Chiang Mai,BRIX Bar & Restaurant at Hotel M Chiang Mai,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Kaeng Ron Baan Suan,Kaeng Ron Baan Suan,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านซอยสามข้าวมันไก่,ร้านซอยสามข้าวมันไก่,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Cha Cha Bar ร้านชาชา,Cha Cha Bar ร้านชาชา,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวีสาขาปันนา,ร้านกาแฟวาวีสาขาปันนา,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Citirin Food and Drink,Citirin Food and Drink,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Baan Tai Noodle,Baan Tai Noodle,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,La Gritta,La Gritta,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,La Genoise,La Genoise,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,ภัตตาคารเจี่ยท่งเฮง,ภัตตาคารเจี่ยท่งเฮง,0,长康路,0.0,0.0,0.0
+泰国菜,ข้าวแฝ่,ข้าวแฝ่,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Meigiang,Meigiang,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Healthy Meal,Healthy Meal,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Inside Park,Inside Park,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Krachang Thong Restaurant,Krachang Thong Restaurant,0,湄林,0.0,0.0,0.0
+泰国菜,Khrua Yok Krok,Khrua Yok Krok,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Khrua Sabai Restaurant,Khrua Sabai Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Baker House 261 by Tam&Tarm,Baker House 261 by Tam&Tarm,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Charoenmuang Restaurant,Charoenmuang Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Paddy Field Restaurant,Paddy Field Restaurant,0,清迈老城,0.0,0.0,0.0
+泰国菜,Somphet Congee,Somphet Congee,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Chiangmai Garden Hotel & Resort,Chiangmai Garden Hotel & Resort,0,清迈近郊,0.0,0.0,0.0
+泰国菜,MO C MO L,MO C MO L,0,清迈近郊,0.0,0.0,0.0
+泰国菜,West Restaurant,West Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Red Onion Restaurant,Red Onion Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Fry Bar,Fry Bar,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,The Chang Gallery,The Chang Gallery,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Berlin Bar&Restaurant,Berlin Bar&Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Noi House,Noi House,0,塔佩路,0.0,0.0,0.0
+泰国菜,บริษัท คิทเช่น ฮัซ จำกัด,บริษัท คิทเช่น ฮัซ จำกัด,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Ciccia's House,Ciccia's House,0,清迈汽车站,0.0,0.0,0.0
+泰国菜,เฮือนโบราณ บ้านร้อยปี,เฮือนโบราณ บ้านร้อยปี,0,长康路,0.0,0.0,0.0
+泰国菜,Moo Yor Atit Noodle,Moo Yor Atit Noodle,0,清迈老城,0.0,0.0,0.0
+泰国菜,曼古,曼古,0,,0.0,0.0,0.0
+泰国菜,林丽娜菜馆,林丽娜菜馆,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Come Dara,Come Dara,0,清迈近郊,0.0,0.0,0.0
+泰国菜,PO Ka Pan,PO Ka Pan,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ก๋วยเตี๋ยวลูกทุ่งหมูโบ้,ก๋วยเตี๋ยวลูกทุ่งหมูโบ้,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,ห้องอาหารภูจาญา มินิ รีสอร์ท,ห้องอาหารภูจาญา มินิ รีสอร์ท,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านข้าวซอย เชียงใหม่ ร้านส้มตำ แนะนำ,ร้านข้าวซอย เชียงใหม่ ร้านส้มตำ แนะนำ,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Krua Mae Nam Ping Restaurant,Krua Mae Nam Ping Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Olivia Karaoke,Olivia Karaoke,0,清迈近郊,0.0,0.0,0.0
+泰国菜,บ้านรักสุขภาพ,บ้านรักสุขภาพ,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Mae Sai,Mae Sai,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Krachangthong Restaurant,Krachangthong Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Old Chaing Mai Cultural Centre,Old Chaing Mai Cultural Centre,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านก๋วยเตี้ยวไก่ขัน,ร้านก๋วยเตี้ยวไก่ขัน,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Phopichit Chiang Mai,Phopichit Chiang Mai,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Khanom - Jien Sanpakhoi,Khanom - Jien Sanpakhoi,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Fatty,Fatty,0,长康路,0.0,0.0,0.0
+泰国菜,Gallery Bar & Restaurant,Gallery Bar & Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,nukbakery shop,nukbakery shop,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Khao Kang Jao Kha,Khao Kang Jao Kha,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,เดอะ เวสท์เทิน คลับ,เดอะ เวสท์เทิน คลับ,0,清迈近郊,0.0,0.0,0.0
+泰国菜,May Kaidee's Vegetarian Restaurant,May Kaidee's Vegetarian Restaurant,0,塔佩路/夜市,0.0,0.0,0.0
+泰国菜,Tao Garden Health Resort,Tao Garden Health Resort,0,清迈近郊,0.0,0.0,0.0
+泰国菜,แม่ครัวหมูกระทะ,แม่ครัวหมูกระทะ,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ขันโตก บ้านไทรทอง ถ.เชียงใหม่-สันกำแพง,ขันโตก บ้านไทรทอง ถ.เชียงใหม่-สันกำแพง,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Krua Petch Doi Ngam,Krua Petch Doi Ngam,0,清迈近郊,0.0,0.0,0.0
+泰国菜,หมูกระทะ กำูพู 9 สาขาสอง ร้องวัวแดง,หมูกระทะ กำูพู 9 สาขาสอง ร้องวัวแดง,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Derm Derm,Derm Derm,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Chiang Mai Suki Rim Ping,Chiang Mai Suki Rim Ping,0,清迈近郊,0.0,0.0,0.0
+泰国菜,บริษัท เพชรนันทวงศ์ จำกัด,บริษัท เพชรนันทวงศ์ จำกัด,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Niran Mama Pat 2,Niran Mama Pat 2,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Komodo 2,Komodo 2,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ห้องอาหารจัสมิน,ห้องอาหารจัสมิน,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Sum Sabai Restaurant,Sum Sabai Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Bon Kitchen,Bon Kitchen,0,清迈老城,0.0,0.0,0.0
+泰国菜,เจ้น้อยรวมมิตร,เจ้น้อยรวมมิตร,0,清迈近郊,0.0,0.0,0.0
+泰国菜,คนคอน ข้าวแกงปักษ์ใต้,คนคอน ข้าวแกงปักษ์ใต้,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Chiang Mai Floating Restaurant,Chiang Mai Floating Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,โอลิเวีย คาราโอเกะ,โอลิเวีย คาราโอเกะ,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Feeling Restaurant,Feeling Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,ปัน ปัน ซาลาเปา Pun Pun Salapao,ปัน ปัน ซาลาเปา Pun Pun Salapao,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Ek Pattaya,Ek Pattaya,0,清迈近郊,0.0,0.0,0.0
+泰国菜,วีระพันธ์ ข้าวมันไก่ - ข้าวขาหมู,วีระพันธ์ ข้าวมันไก่ - ข้าวขาหมู,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Zone a. หมูจุ่ม (สันติธรรม),Zone a. หมูจุ่ม (สันติธรรม),0,清迈近郊,0.0,0.0,0.0
+泰国菜,Blues 7 Bar - Restaurant,Blues 7 Bar - Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,เฉลิมกรุงคาเฟ่ เชียงใหม่,เฉลิมกรุงคาเฟ่ เชียงใหม่,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Krua Khun Pat Restaurant,Krua Khun Pat Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Indian Restaurant,Indian Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,La Villa Pizzeria Restaurant,La Villa Pizzeria Restaurant,0,清迈老城,0.0,0.0,0.0
+泰国菜,มังสวิรัติคุณเชิญ,มังสวิรัติคุณเชิญ,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Green Mill,Green Mill,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านลาบยอง ฟ้าธานี,ร้านลาบยอง ฟ้าธานี,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Hu Shalam Phad Mai,Hu Shalam Phad Mai,0,清迈近郊,0.0,0.0,0.0
+泰国菜,เอลี่บัม คาเฟ่,เอลี่บัม คาเฟ่,0,清迈老城,0.0,0.0,0.0
+泰国菜,Woody's Fast Food,Woody's Fast Food,0,清迈近郊,0.0,0.0,0.0
+泰国菜,อาร์ม๗ยอด,อาร์ม๗ยอด,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Prego Italian Restaurant,Prego Italian Restaurant,0,清迈老城,0.0,0.0,0.0
+泰国菜,ห้างหุ้นส่วนจำกัด เฮือนเพ็ญ,ห้างหุ้นส่วนจำกัด เฮือนเพ็ญ,0,清迈老城,0.0,0.0,0.0
+泰国菜,ร้านอาหาร,ร้านอาหาร,0,清迈老城,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวีสาขาราชดำเนิน,ร้านกาแฟวาวีสาขาราชดำเนิน,0,清迈老城,0.0,0.0,0.0
+泰国菜,Lisaan,Lisaan,0,老城南边,0.0,0.0,0.0
+泰国菜,Mum Thong Restaurant,Mum Thong Restaurant,0,清迈老城,0.0,0.0,0.0
+泰国菜,ร้านก๋วยเตี๋ยวไทยแม่อ้วน(สูตรโบราณ),ร้านก๋วยเตี๋ยวไทยแม่อ้วน(สูตรโบราณ),0,清迈近郊,0.0,0.0,0.0
+泰国菜,บ้านสวนชมจันทร์,บ้านสวนชมจันทร์,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Joke 99,Joke 99,0,清迈老城,0.0,0.0,0.0
+泰国菜,Olde Bell British Pub,Olde Bell British Pub,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวี สาขาริมปิง,ร้านกาแฟวาวี สาขาริมปิง,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ครัวเมล็ดกาแฟ เชียงใหม่,ครัวเมล็ดกาแฟ เชียงใหม่,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Tea Shop Restaurant,Tea Shop Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,โครงการ มาลินพลาซ่า,โครงการ มาลินพลาซ่า,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Krua Pee Khun Chai,Krua Pee Khun Chai,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Khum Wiang Yong,Khum Wiang Yong,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Genki Ramen Tei,Genki Ramen Tei,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Krua Phech Doi Ngam,Krua Phech Doi Ngam,0,清迈近郊,0.0,0.0,0.0
+泰国菜,แจ่มจิ้มจุ่ม หมูกระทะ,แจ่มจิ้มจุ่ม หมูกระทะ,0,清迈近郊,0.0,0.0,0.0
+泰国菜,บ้านพริกกระเหรี่ยง,บ้านพริกกระเหรี่ยง,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Miguel's,Miguel's,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Fai Food Center,Fai Food Center,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Baanpasta- Pasta Restaurant บ้านพาสต้า,Baanpasta- Pasta Restaurant บ้านพาสต้า,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Ruen Pen,Ruen Pen,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านลาบบ้านไร่,ร้านลาบบ้านไร่,0,清迈近郊,0.0,0.0,0.0
+泰国菜,"Santiphab Trading Co.,Ltd","Santiphab Trading Co.,Ltd",0,清迈近郊,0.0,0.0,0.0
+泰国菜,FIFA Restaurant,FIFA Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านข้าวซอยอังเอิญ เชียงใหม่,ร้านข้าวซอยอังเอิญ เชียงใหม่,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ครัวเพชรดอยงาม,ครัวเพชรดอยงาม,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Samo,Samo,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Lai Lai Restaurant,Lai Lai Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,กาแฟสดรักจัง 3,กาแฟสดรักจัง 3,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ก๋วยเตี๋ยวคุณแป้งสาขา 2,ก๋วยเตี๋ยวคุณแป้งสาขา 2,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Old Chiang Mai Cultural Center,Old Chiang Mai Cultural Center,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Noodle 3 Baht,Noodle 3 Baht,0,长康路,0.0,0.0,0.0
+泰国菜,Lapin คาเฟ่กระต่ายน้อย,Lapin คาเฟ่กระต่ายน้อย,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Saen Kham 3 Restaurant,Saen Kham 3 Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Ros Dee Ded Noodle,Ros Dee Ded Noodle,0,清迈近郊,0.0,0.0,0.0
+泰国菜,J Krayathip,J Krayathip,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,ร้านไก่ทอดcmu,ร้านไก่ทอดcmu,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Tofuyasan,Tofuyasan,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Wat Fah Ham,Wat Fah Ham,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Mabuhay Restaurant,Mabuhay Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Oxide Pub Live Music,Oxide Pub Live Music,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ไคเฟิ่ง โดยนางไคเฟิ่ง แซ่จัง,ไคเฟิ่ง โดยนางไคเฟิ่ง แซ่จัง,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Penchan Restaurant,Penchan Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Somtum Bud Queue,Somtum Bud Queue,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวี สาขาม.เชียงใหม่,ร้านกาแฟวาวี สาขาม.เชียงใหม่,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Saen Kham 2 Restaurant,Saen Kham 2 Restaurant,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Zone a. หมูจุ่ม สาขา 2 ( เจ็ดยอด ),Zone a. หมูจุ่ม สาขา 2 ( เจ็ดยอด ),0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านอาหารครัวใบเงิน,ร้านอาหารครัวใบเงิน,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Manas Potchana Shop,Manas Potchana Shop,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰国菜,Krua Baannork Restaurant,Krua Baannork Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Nasitumpou Restaurant,Nasitumpou Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Chiangmai Locanda in Doi Saket,Chiangmai Locanda in Doi Saket,0,清迈近郊,0.0,0.0,0.0
+泰国菜,"ห้องอาหารบุหลันบุรี รีสอร์ท ปาย,เชียงใหม่","ห้องอาหารบุหลันบุรี รีสอร์ท ปาย,เชียงใหม่",0,清迈近郊,0.0,0.0,0.0
+泰国菜,Kiat Osha,Kiat Osha,0,清迈近郊,0.0,0.0,0.0
+泰国菜,เดอะขัวมุง,เดอะขัวมุง,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ทับอุสา ฟาร์ม โดยนายอุตส่าห์ บริสุทธิ์,ทับอุสา ฟาร์ม โดยนายอุตส่าห์ บริสุทธิ์,0,湄林,0.0,0.0,0.0
+泰国菜,"Princess Foods Co.,Ltd.","Princess Foods Co.,Ltd.",0,清迈近郊,0.0,0.0,0.0
+泰国菜,Mae Sae Minimart Food and Drinks,Mae Sae Minimart Food and Drinks,0,清迈近郊,0.0,0.0,0.0
+泰国菜,สุนทร สิงห์รีวงศ์,สุนทร สิงห์รีวงศ์,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ห้างหุ้นส่วนจำกัด กาดฝรั่งแคนยอน,ห้างหุ้นส่วนจำกัด กาดฝรั่งแคนยอน,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ร้านเจี๊ยบอาหารตามสั่ง,ร้านเจี๊ยบอาหารตามสั่ง,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ข้าวมันไก่89,ข้าวมันไก่89,0,清迈近郊,0.0,0.0,0.0
+泰国菜,ข้าวซอยแม่คำแปง,ข้าวซอยแม่คำแปง,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Suki Rimping,Suki Rimping,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Thantawan,Thantawan,0,,0.0,0.0,0.0
+泰国菜,Khum Chao Nang Noi,Khum Chao Nang Noi,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Benjarong Kantoke,Benjarong Kantoke,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Haeun Suntraree,Haeun Suntraree,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Kum Kaew Kantoke,Kum Kaew Kantoke,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Suki Coca,Suki Coca,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Im-Bun,Im-Bun,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Tung Hah Botanic Restaurant,Tung Hah Botanic Restaurant,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Mae Rim Lagoon,Mae Rim Lagoon,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Sipsong Panna,Sipsong Panna,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Khao Soi Pla,Khao Soi Pla,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Huean Chai Yong,Huean Chai Yong,0,清迈近郊,0.0,0.0,0.0
+泰国菜,El Toro,El Toro,0,塔佩路,0.0,0.0,0.0
+泰国菜,Kaomai Lanna,Kaomai Lanna,0,清迈近郊,0.0,0.0,0.0
+泰国菜,KhumKaew Palace Khantoke,KhumKaew Palace Khantoke,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Ruen Come In,Ruen Come In,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Tuskers,Tuskers,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Wild Orchid,Wild Orchid,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Banwangtan,Banwangtan,0,清迈老城,0.0,0.0,0.0
+泰国菜,Mi Casa,Mi Casa,0,清迈近郊,0.0,0.0,0.0
+泰国菜,Tarabar,Tarabar,0,清迈近郊,0.0,0.0,0.0
+泰式小吃,金牌拉面,金牌拉面,22,,8.9,8.4,8.8
+泰式小吃,老城牛肉面,老城牛肉面,0,,7.7,6.9,7.3
+泰式小吃,冰糕摊子,冰糕摊子,0,塔佩路/夜市,7.2,7.0,7.2
+泰式小吃,The Hideout,The Hideout,0,霸顿,7.5,7.1,7.5
+泰式小吃,美味小食摊子,美味小食摊子,0,塔佩路/夜市,6.8,6.4,6.8
+泰式小吃,大象粑粑加工厂,大象粑粑加工厂,0,,6.8,6.8,6.8
+泰式小吃,铁板丸子铺子,铁板丸子铺子,0,塔佩路/夜市,6.8,6.4,6.8
+泰式小吃,chang puak night bazaar,chang puak night bazaar,0,老城北边,6.7,6.7,6.7
+泰式小吃,泰式小吃摊子,泰式小吃摊子,0,塔佩路/夜市,6.8,6.4,6.8
+泰式小吃,炒河粉摊子,炒河粉摊子,0,塔佩路/夜市,6.8,6.4,6.8
+泰式小吃,O N Suki&Steak,O N Suki&Steak,0,清迈近郊,8.4,8.4,8.4
+泰式小吃,金针菇培根摊子,金针菇培根摊子,0,塔佩路/夜市,6.8,6.4,6.4
+泰式小吃,Khao Soi Samer Jai,Khao Soi Samer Jai,0,老城北边,0.0,0.0,0.0
+泰式小吃,Anchan Noodle,Anchan Noodle,0,宁曼路/清迈大学,0.0,0.0,0.0
+泰式小吃,金牌拉面,金牌拉面,0,,0.0,0.0,0.0
+泰式小吃,德克士,德克士,0,,0.0,0.0,0.0
+中餐,清迈云南饭店,清迈云南饭店,44,长康路,9.3,9.2,9.3
+中餐,王辣辣酸辣粉,王辣辣酸辣粉,28,塔佩路/夜市,9.2,9.1,9.2
+中餐,发清海南鸡饭,发清海南鸡饭,21,清迈近郊,7.4,6.5,7.3
+中餐,囍火鍋,囍火鍋,85,宁曼路/清迈大学,8.8,9.0,9.0
+中餐,辣开心川渝小吃,辣开心川渝小吃,10,宁曼路/清迈大学,9.1,9.1,9.1
+中餐,唐宫火锅,唐宫火锅,111,,8.1,8.4,8.1
+中餐,谢桐兴餐厅,谢桐兴餐厅,91,清迈老城,6.5,7.0,6.7
+中餐,黑森林餐厅,黑森林餐厅,82,,8.1,9.1,7.8
+中餐,辣子村,辣子村,56,清迈近郊,7.3,7.0,7.1
+中餐,sufood家常菜,sufood家常菜,0,,8.8,8.6,8.9
+中餐,四川小吃,四川小吃,0,,8.6,8.6,8.6
+中餐,大頭米线店,大頭米线店,0,清迈老城,8.7,8.2,8.6
+中餐,发荣,发荣,0,清迈近郊,7.8,6.7,7.0
+中餐,美味饺子馆,美味饺子馆,0,宁曼路/清迈大学,6.2,6.0,6.0
+中餐,天下知味,天下知味,0,怀凯路,8.2,7.5,7.5
+中餐,荣发,荣发,0,清迈老城,7.9,7.2,7.5
+中餐,Kalapela,Kalapela,0,清迈汽车站,8.5,8.5,8.5
+中餐,MK Restaurants,MK Restaurants,0,宁曼路/清迈大学,6.9,7.4,7.4
+中餐,Mix Restaurant & Bar,Mix Restaurant & Bar,0,尼曼海明,7.7,7.7,7.4
+中餐,唐宫火锅店(老重庆味道),唐宫火锅店(老重庆味道),0,,7.8,8.2,8.2
+中餐,京发海南鸡饭,京发海南鸡饭,0,宁曼路/清迈大学,8.0,6.7,8.5
+中餐,云南友谊菜,云南友谊菜,0,,7.3,7.3,7.3
+中餐,皇帝猪脚饭,皇帝猪脚饭,0,,8.3,6.7,8.3
+中餐,秦厨房西安肉夹馍,秦厨房西安肉夹馍,20,长康路,7.7,7.5,7.7
+中餐,清迈大頭米线店,清迈大頭米线店,0,,8.5,8.5,8.5
+中餐,姗姗私房菜,姗姗私房菜,0,宁曼路/清迈大学,7.5,7.5,7.5
+中餐,真宝餐厅,真宝餐厅,0,清迈老城,6.8,6.8,6.8
+中餐,SUGOI BBQ,SUGOI BBQ,0,清迈汽车站,8.4,8.4,8.4
+中餐,云南新友饭店,云南新友饭店,0,,7.4,7.4,7.4
+中餐,AUM Vegetarian Food,AUM Vegetarian Food,0,塔佩路/夜市,6.8,7.3,7.3
+中餐,Huen Huay Keaw 瀑布餐厅,Huen Huay Keaw 瀑布餐厅,0,,6.7,6.7,6.7
+中餐,egg colony,egg colony,0,,8.4,8.4,8.4
+中餐,The Pub,The Pub,0,宁曼路/清迈大学,6.7,8.3,8.3
+中餐,Here,Here,0,,8.0,8.0,8.0
+中餐,稀饭,稀饭,0,,6.8,6.8,6.8
+中餐,秦南千代香,秦南千代香,0,,6.9,6.9,6.9
+中餐,清真兰州牛肉拉面,清真兰州牛肉拉面,0,,7.2,7.2,7.2
+中餐,素食餐馆,素食餐馆,0,清迈老城,7.2,6.8,7.2
+中餐,素帖山顶苗寨,素帖山顶苗寨,0,,6.9,6.9,6.9
+中餐,开心宝贝银川店,开心宝贝银川店,0,,7.7,7.7,7.7
+中餐,Jia Tong Heng Restaurant,Jia Tong Heng Restaurant,0,,0.0,0.0,0.0
+中餐,Yin Yang Food Corner,Yin Yang Food Corner,0,清迈近郊,0.0,0.0,0.0
+中餐,Fujian,Fujian,0,三晒,0.0,0.0,0.0
+中餐,mk火锅,mk火锅,0,,0.0,0.0,0.0
+中餐,辣子府,辣子府,0,,0.0,0.0,0.0
+中餐,漠富差龙虾池菜馆,漠富差龙虾池菜馆,0,,0.0,0.0,0.0
+中餐,兰纳手工艺品展览夜市,兰纳手工艺品展览夜市,0,,0.0,0.0,0.0
+中餐,文特路餐厅 Vintage Road Restaurant & Bar,文特路餐厅 Vintage Road Restaurant & Bar,0,清迈火车站,0.0,0.0,0.0
+中餐,汉丽轩,汉丽轩,0,,0.0,0.0,0.0
+中餐,Bamhee Kiaw Kung Hong Kong,Bamhee Kiaw Kung Hong Kong,0,清迈近郊,0.0,0.0,0.0
+中餐,皇帝猪脚饭,皇帝猪脚饭,0,,0.0,0.0,0.0
+中餐,群耕源海外素食店,群耕源海外素食店,0,,0.0,0.0,0.0
+中餐,济宁,济宁,0,,0.0,0.0,0.0
+中餐,佳佳基,佳佳基,0,,0.0,0.0,0.0
+海鲜,Thajene Chomchan,Thajene Chomchan,0,老城北边,8.8,8.3,8.6
+海鲜,The Grillstation (Rose Restaurant) in Chiang Mai,The Grillstation (Rose Restaurant) in Chiang Mai,0,,8.4,7.9,7.7
+海鲜,Lena seafood restaurant,Lena seafood restaurant,0,清迈老城,6.6,6.4,6.4
+海鲜,清迈similan海鲜饭店,清迈similan海鲜饭店,0,,8.0,7.5,7.9
+海鲜,Mahachai Seafood,Mahachai Seafood,0,三晒,8.2,7.9,8.2
+海鲜,广东小厨,广东小厨,0,,8.4,8.4,8.4
+海鲜,Kin-Lum Vegetarian,Kin-Lum Vegetarian,0,,7.8,7.3,7.8
+海鲜,Sabai-Sabai ResTaurAnt,Sabai-Sabai ResTaurAnt,0,,7.9,7.3,7.3
+海鲜,Rajdarbar Indian Restaurant,Rajdarbar Indian Restaurant,0,,7.3,7.3,8.0
+海鲜,Andaman Seafood,Andaman Seafood,0,清迈近郊,7.5,7.5,7.5
+海鲜,The Ancient City resTaurAnt,The Ancient City resTaurAnt,0,塔佩路/夜市,0.0,0.0,0.0
+海鲜,"Kham Thiang Pattana Seafood Co., Ltd.","Kham Thiang Pattana Seafood Co., Ltd.",0,清迈近郊,0.0,0.0,0.0
+日韩料理,日式火锅自助,日式火锅自助,114,长康路,6.5,7.4,7.1
+日韩料理,Shabushi By Oishi,Shabushi By Oishi,0,,7.0,7.2,7.5
+日韩料理,Kad Kafe,Kad Kafe,0,清迈老城,7.1,8.2,7.1
+日韩料理,Tudari (ทูดาริ) MAYA Chiangmai,Tudari (ทูดาริ) MAYA Chiangmai,0,,7.8,7.8,7.8
+日韩料理,Shabu Shi,Shabu Shi,0,,7.2,7.9,7.9
+日韩料理,Fuji(MAYA),Fuji(MAYA),0,,7.7,7.7,7.7
+日韩料理,Genki Ramen and Japanese Food,Genki Ramen and Japanese Food,0,宁曼路/清迈大学,7.4,6.6,6.6
+日韩料理,烧肉,烧肉,0,,8.0,7.4,8.1
+日韩料理,Sumo Sushi,Sumo Sushi,0,宁曼路/清迈大学,7.5,6.7,7.5
+日韩料理,Shabu Shi(Maya Mall),Shabu Shi(Maya Mall),0,,7.0,7.0,6.7
+日韩料理,Tengoku De Cuisine,Tengoku De Cuisine,0,清迈近郊,8.4,8.4,8.4
+日韩料理,ร้านอาหารญี่ปุ่น ai sushi,ร้านอาหารญี่ปุ่น ai sushi,0,清迈近郊,6.8,7.2,7.2
+日韩料理,Gogi Jib - Stone Grill Barbecue,Gogi Jib - Stone Grill Barbecue,0,塔佩路/夜市,0.0,0.0,0.0
+日韩料理,SUMO Sushi,SUMO Sushi,0,湄登,0.0,0.0,0.0
+日韩料理,ISSY Japanese& Korean Fusion Food,ISSY Japanese& Korean Fusion Food,0,清迈老城,0.0,0.0,0.0
+日韩料理,Kitamond Japanese Restaurant,Kitamond Japanese Restaurant,0,清迈近郊,0.0,0.0,0.0
+日韩料理,めぐみ日本食レストラン,めぐみ日本食レストラン,0,宁曼路/清迈大学,0.0,0.0,0.0
+日韩料理,Ari Rang Korean Restaurant,Ari Rang Korean Restaurant,0,清迈近郊,0.0,0.0,0.0
+日韩料理,ร้านอาหารญี่ปุ่น ไจแอนท์ สุกี้ ชาบู เชียงใหม่,ร้านอาหารญี่ปุ่น ไจแอนท์ สุกี้ ชาบู เชียงใหม่,0,清迈近郊,0.0,0.0,0.0
+日韩料理,San Sui Japanese restaurant Chiang mai,San Sui Japanese restaurant Chiang mai,0,清迈近郊,0.0,0.0,0.0
+西式正餐,The Duke's,The Duke's,79,清迈近郊,8.7,8.5,8.2
+西式正餐,Chiang Mai Breakfast World,Chiang Mai Breakfast World,66,塔佩路/夜市,8.1,9.0,8.5
+西式正餐,Angel's Secrets,Angel's Secrets,0,塔佩路/夜市,7.1,7.1,7.1
+西式正餐,Nakara Jardin,Nakara Jardin,0,清迈老城,8.5,8.7,8.3
+西式正餐,La Terrasse,La Terrasse,0,塔佩路/夜市,8.4,8.4,8.4
+西式正餐,The Glasshouse,The Glasshouse,0,塔佩路/夜市,7.8,8.2,8.0
+西式正餐,Chez Marco,Chez Marco,117,清迈近郊,8.4,7.8,7.7
+西式正餐,La Fourchette,La Fourchette,0,老城南边,8.1,8.3,8.3
+西式正餐,Terraces,Terraces,0,清迈近郊,7.5,7.8,7.5
+西式正餐,Loco Elvis',Loco Elvis',0,塔佩路/夜市,7.4,8.0,7.3
+西式正餐,DK David's Kitchen@909,DK David's Kitchen@909,0,,6.8,8.3,8.3
+西式正餐,Smoothie Blues,Smoothie Blues,0,尼曼海明,7.0,7.1,7.0
+西式正餐,Ginny Cafe,Ginny Cafe,0,塔佩路/夜市,5.5,5.5,4.9
+西式正餐,Andaman Kitchen Chiang Mai,Andaman Kitchen Chiang Mai,0,清迈近郊,7.5,7.2,7.5
+西式正餐,Girasole by La Gondola,Girasole by La Gondola,0,老城南边,6.6,7.0,5.8
+西式正餐,Green Table Restaurant,Green Table Restaurant,0,老城北边,7.0,7.2,7.2
+西式正餐,John's Place Sports Bar and Restaurant,John's Place Sports Bar and Restaurant,0,班塔沙拉,7.2,8.4,8.4
+西式正餐,Favola,Favola,0,清迈老城,0.0,0.0,0.0
+西式正餐,La lanterna di Genova,La lanterna di Genova,0,塔佩路/夜市,8.4,7.5,6.7
+西式正餐,El Patio WIne & Pintxos,El Patio WIne & Pintxos,0,宁曼路/清迈大学,7.3,7.3,7.9
+西式正餐,Secret Learning Restaurant,Secret Learning Restaurant,0,塔佩路/夜市,7.1,7.3,7.3
+西式正餐,Smoothie Garden Healthy Cafe,Smoothie Garden Healthy Cafe,0,塔佩路/夜市,7.4,7.4,7.4
+西式正餐,Funky Monkey Cafe,Funky Monkey Cafe,0,班塔沙拉,7.4,6.0,6.7
+西式正餐,Archer's,Archer's,0,塔佩路/夜市,7.4,7.4,7.4
+西式正餐,Pulcinella da Stefano,Pulcinella da Stefano,0,霸顿,7.5,7.5,7.5
+西式正餐,Le Bistrot de Chiang Mai,Le Bistrot de Chiang Mai,0,塔佩路/夜市,8.2,7.4,8.2
+西式正餐,Puccini Italian Restaurant,Puccini Italian Restaurant,0,清迈老城,7.7,7.7,7.2
+西式正餐,O'Malley's Irish Pub and Restaurant,O'Malley's Irish Pub and Restaurant,0,清迈近郊,7.2,7.2,7.2
+西式正餐,布拉诺意大利餐厅,布拉诺意大利餐厅,0,,7.7,7.7,7.7
+西式正餐,My Place Lounge,My Place Lounge,0,张克兰,5.1,5.1,5.1
+西式正餐,Paradise Pizza,Paradise Pizza,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,Giorgio Italian Restaurant,Giorgio Italian Restaurant,0,张克兰,0.0,0.0,0.0
+西式正餐,Jagajee,Jagajee,0,湄登,0.0,0.0,0.0
+西式正餐,Pern's Mediterranean Restaurant,Pern's Mediterranean Restaurant,0,清迈汽车站,0.0,0.0,0.0
+西式正餐,Funan,Funan,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,Harrad's Cafe,Harrad's Cafe,0,老城南边,0.0,0.0,0.0
+西式正餐,Rider's Corner Bar & Restaurant,Rider's Corner Bar & Restaurant,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,Three Little Pigs Soul Kitchen,Three Little Pigs Soul Kitchen,0,湄登,0.0,0.0,0.0
+西式正餐,Billy Restaurant,Billy Restaurant,0,张克兰,0.0,0.0,0.0
+西式正餐,Paris - Restaurant & Bar,Paris - Restaurant & Bar,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,Bubbles Live Coffee Shop,Bubbles Live Coffee Shop,0,老城南边,0.0,0.0,0.0
+西式正餐,Prego Restaurant,Prego Restaurant,0,湄登,0.0,0.0,0.0
+西式正餐,Yin Yang Food Corner,Yin Yang Food Corner,0,清迈近郊,0.0,0.0,0.0
+西式正餐,La Provence,La Provence,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,Yes! Pub Guesthouse and Restaurant,Yes! Pub Guesthouse and Restaurant,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,Farang Ses,Farang Ses,0,湄登,0.0,0.0,0.0
+西式正餐,La Fontana,La Fontana,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,Arbusto italian House,Arbusto italian House,0,清迈老城,0.0,0.0,0.0
+西式正餐,Piccola Roma Palace,Piccola Roma Palace,0,清迈老城,0.0,0.0,0.0
+西式正餐,Lapin,Lapin,0,清迈老城,0.0,0.0,0.0
+西式正餐,The White Plate Cafe,The White Plate Cafe,0,霸顿,0.0,0.0,0.0
+西式正餐,El Diablo's,El Diablo's,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,The Coffee Club,The Coffee Club,0,清迈近郊,0.0,0.0,0.0
+西式正餐,Mike's Burgers,Mike's Burgers,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,The Mexican Grill,The Mexican Grill,0,清迈近郊,0.0,0.0,0.0
+西式正餐,Pasta Cafe,Pasta Cafe,0,老城北边,0.0,0.0,0.0
+西式正餐,Le Coq d'Or Restaurant,Le Coq d'Or Restaurant,0,张克兰,0.0,0.0,0.0
+西式正餐,Miguel's Cafe,Miguel's Cafe,0,班塔沙拉,0.0,0.0,0.0
+西式正餐,the edge,the edge,0,霸顿,0.0,0.0,0.0
+西式正餐,La Tavernetta,La Tavernetta,0,清迈近郊,0.0,0.0,0.0
+西式正餐,Le Crystal,Le Crystal,0,霸顿,0.0,0.0,0.0
+西式正餐,Chez Emy Restaurant & Pastry,Chez Emy Restaurant & Pastry,0,清迈近郊,0.0,0.0,0.0
+西式正餐,Sojo's Cafe,Sojo's Cafe,0,清迈近郊,0.0,0.0,0.0
+西式正餐,The Hut Cafe,The Hut Cafe,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,Cafe Mini,Cafe Mini,0,湄登,0.0,0.0,0.0
+西式正餐,Colosseo Italian Restaurant,Colosseo Italian Restaurant,0,清迈近郊,0.0,0.0,0.0
+西式正餐,Pickles,Pickles,0,霸顿,0.0,0.0,0.0
+西式正餐,Rioja II,Rioja II,0,清迈近郊,0.0,0.0,0.0
+西式正餐,Garden Island,Garden Island,0,老城南边,0.0,0.0,0.0
+西式正餐,Pinky's Buffalo Wings,Pinky's Buffalo Wings,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,BRIX Bar & Restaurant at Hotel M Chiang Mai,BRIX Bar & Restaurant at Hotel M Chiang Mai,0,塔佩路/夜市,0.0,0.0,0.0
+西式正餐,Ciccia's House,Ciccia's House,0,清迈汽车站,0.0,0.0,0.0
+西式正餐,"Mi Casa Dining Concepts, Chiang Mai","Mi Casa Dining Concepts, Chiang Mai",0,尼曼海明,0.0,0.0,0.0
+西式正餐,I'm Chair Bistro & Wine Bar,I'm Chair Bistro & Wine Bar,0,清迈近郊,0.0,0.0,0.0
+西式快餐,The Salad Concept,The Salad Concept,44,宁曼路/清迈大学,8.7,8.9,8.8
+西式快餐,麦当劳,麦当劳,25,塔佩路,7.7,8.0,7.6
+西式快餐,香港添好运茶餐厅,香港添好运茶餐厅,56,宁曼路/清迈大学,7.8,8.0,8.0
+西式快餐,Pinggoo,Pinggoo,0,,7.5,7.9,7.9
+西式快餐,汉堡王,汉堡王(清迈机场店),0,清迈机场,6.9,7.3,7.3
+西式快餐,wawee coffee,wawee coffee,0,,8.2,8.4,8.0
+西式快餐,Mcdonald's (Chand Khlan Branch) Shop,Mcdonald's (Chand Khlan Branch) Shop,0,塔佩路,7.5,7.3,7.1
+西式快餐,塔佩寺ROTEE小摊,塔佩寺ROTEE小摊,4,清迈老城,7.3,6.1,7.0
+西式快餐,Cafe de ThaanAoan,Cafe de ThaanAoan,0,老城南边,8.1,8.1,7.7
+西式快餐,Burger King Shop(Chang Khlan Road Branch),Burger King Shop(Chang Khlan Road Branch),0,塔佩路,7.4,7.7,7.2
+西式快餐,Cafe De Museum,Cafe De Museum,0,清迈老城,7.8,8.2,7.8
+西式快餐,Loco Elvis',Loco Elvis',0,塔佩路/夜市,7.4,8.0,7.3
+西式快餐,sooksathan 咖啡店,sooksathan 咖啡店,0,,8.5,8.5,8.5
+西式快餐,Noodles Soup and Fried Rice,Noodles Soup and Fried Rice,0,清迈老城,8.3,7.1,7.9
+西式快餐,Street Pizza,Street Pizza,0,张克兰,7.6,7.6,7.8
+西式快餐,Dolcett Cafe,Dolcett Cafe,0,,7.0,7.1,6.7
+西式快餐,kfc,kfc,0,塔佩路/夜市,6.7,6.7,6.7
+西式快餐,Burger King,Burger King,0,长康路,7.2,7.2,7.2
+西式快餐,Here,Here,0,,8.0,8.0,8.0
+西式快餐,Butter is Better Bakery&Restaurant,Butter is Better Bakery&Restaurant,0,长康路,6.9,7.0,6.9
+西式快餐,布拉诺意大利餐厅,布拉诺意大利餐厅,0,,7.7,7.7,7.7
+西式快餐,doichaangcoffee,doichaangcoffee,0,,7.1,7.1,7.1
+西式快餐,Mad Dog Pizza Bar and Restaurant,Mad Dog Pizza Bar and Restaurant,0,清迈近郊,7.0,7.1,7.0
+西式快餐,Miracle Coffee,Miracle Coffee,0,,7.4,6.7,6.7
+西式快餐,Paradise Pizza,Paradise Pizza,0,塔佩路/夜市,0.0,0.0,0.0
+西式快餐,Mad Dog Pizza Bar and Restaurant,Mad Dog Pizza Bar and Restaurant,0,塔佩路/夜市,0.0,0.0,0.0
+西式快餐,Wild Boar Bar and Restaurant,Wild Boar Bar and Restaurant,0,塔佩路/夜市,0.0,0.0,0.0
+西式快餐,Sojo's Cafe,Sojo's Cafe,0,清迈近郊,0.0,0.0,0.0
+西式快餐,肯德基,肯德基,0,塔佩路/夜市,0.0,0.0,0.0
+西式快餐,Mcdonald's Restaurant (Carrefour Chiang Mai),Mcdonald's Restaurant (Carrefour Chiang Mai),0,清迈近郊,0.0,0.0,0.0
+西式快餐,Dreamcaught tree houses,Dreamcaught tree houses,0,湄登,0.0,0.0,0.0
+西式快餐,"O. K. Pizza Co., Ltd.","O. K. Pizza Co., Ltd.",0,塔佩路,0.0,0.0,0.0
+西式快餐,Koh lanta Pizza,Koh lanta Pizza,0,宁曼路/清迈大学,0.0,0.0,0.0
+西式快餐,Pizza e Vino - Italian Restaurant,Pizza e Vino - Italian Restaurant,0,清迈老城,0.0,0.0,0.0
+西式快餐,Mozaka,Mozaka,0,清迈近郊,0.0,0.0,0.0
+西式快餐,9 Moo 9,9 Moo 9,0,清迈杭东,0.0,0.0,0.0
+西式快餐,Pizza n Pasta Chiang Mai,Pizza n Pasta Chiang Mai,0,清迈近郊,0.0,0.0,0.0
+西式快餐,Love Chocolate,Love Chocolate,0,清迈近郊,0.0,0.0,0.0
+西式快餐,Café Pandau,Café Pandau,0,塔佩路,0.0,0.0,0.0
+西式快餐,Caffe'Macchiato ร้านกาแฟมาเกียโต,Caffe'Macchiato ร้านกาแฟมาเกียโต,0,清迈近郊,0.0,0.0,0.0
+西式快餐,"Koo, tug-of-war Tea & Rotee","Koo, tug-of-war Tea & Rotee",0,清迈近郊,0.0,0.0,0.0
+西式快餐,Miss Chocolate,Miss Chocolate,0,塔佩路,0.0,0.0,0.0
+西式快餐,ดอยช้าง คอฟฟี่ เฮ้าส์,ดอยช้าง คอฟฟี่ เฮ้าส์,0,宁曼路/清迈大学,0.0,0.0,0.0
+西式快餐,Mcdonald's Restaurant (Imm Thapae Chiang Mai),Mcdonald's Restaurant (Imm Thapae Chiang Mai),0,清迈近郊,0.0,0.0,0.0
+西式快餐,Cofesta Espresso Bar,Cofesta Espresso Bar,0,宁曼路/清迈大学,0.0,0.0,0.0
+西式快餐,华莱士梧田,华莱士梧田,0,,0.0,0.0,0.0
+酒吧,1985 Club,1985 Club,0,塔佩路/夜市,7.8,7.8,7.8
+酒吧,Kalapela,Kalapela,0,清迈汽车站,8.5,8.5,8.5
+酒吧,The Roadside Pub & Restaurant,The Roadside Pub & Restaurant,0,,7.8,7.7,7.8
+酒吧,John's Place Sports Bar And ResTaurAnt,John's Place Sports Bar And ResTaurAnt,0,清迈近郊,6.4,6.4,6.6
+酒吧,MaiPhai Cafe & Bar,MaiPhai Cafe & Bar,0,清迈老城,7.4,7.4,7.5
+酒吧,Sahara Thai,Sahara Thai,0,老城北边,7.5,8.5,8.5
+酒吧,Since1984,Since1984,0,塔佩路,7.0,6.8,6.8
+酒吧,Doo Dee Pub & Restaurant,Doo Dee Pub & Restaurant,0,老城南边,8.4,8.4,8.4
+酒吧,Imoya居酒屋,Imoya居酒屋,0,,7.6,7.6,7.6
+酒吧,BEPPU 居酒屋,BEPPU 居酒屋,0,,7.3,7.3,7.3
+酒吧,The Pub,The Pub,0,宁曼路/清迈大学,6.7,8.3,8.3
+酒吧,The Bar,The Bar,0,长康路,7.1,7.1,7.1
+酒吧,BRIX Bar & ResTaurAnt,BRIX Bar & ResTaurAnt,0,清迈老城,6.9,6.9,6.9
+酒吧,The Larder Cafe And Bar,The Larder Cafe And Bar,0,,7.6,7.6,7.6
+酒吧,Puccini Italian Restaurant,Puccini Italian Restaurant,0,清迈老城,7.7,7.7,7.2
+酒吧,3 Rose Bar,3 Rose Bar,0,清迈近郊,7.0,7.0,7.0
+酒吧,The North Gate Jazz Club,The North Gate Jazz Club,0,清迈老城,7.2,7.2,7.2
+酒吧,Why Not? Italian Restaurant & Wine Bar,Why Not? Italian Restaurant & Wine Bar,0,湄登,0.0,0.0,0.0
+酒吧,Karoon,Karoon,0,清迈近郊,7.1,7.1,7.1
+酒吧,My Place Lounge,My Place Lounge,0,张克兰,5.1,5.1,5.1
+酒吧,Funan,Funan,0,塔佩路/夜市,0.0,0.0,0.0
+酒吧,La Provence,La Provence,0,塔佩路/夜市,0.0,0.0,0.0
+酒吧,Le Croissant,Le Croissant,0,张克兰,0.0,0.0,0.0
+酒吧,Bistro 1,Bistro 1,0,张克兰,0.0,0.0,0.0
+酒吧,Circle Pub,Circle Pub,0,清迈近郊,0.0,0.0,0.0
+酒吧,Maple Leaf Bar & Massage,Maple Leaf Bar & Massage,0,长康路,0.0,0.0,0.0
+酒吧,บริษัท โอมาลี่ ไอริส ผับ จำกัด,บริษัท โอมาลี่ ไอริส ผับ จำกัด,0,长康路,0.0,0.0,0.0
+酒吧,Ten Karaoke,Ten Karaoke,0,清迈近郊,0.0,0.0,0.0
+酒吧,Boy Blues Bar,Boy Blues Bar,0,,0.0,0.0,0.0
+酒吧,X Center Sports Bar & ResTaurAnt,X Center Sports Bar & ResTaurAnt,0,清迈老城,0.0,0.0,0.0
+酒吧,老虎王国酒餐吧,老虎王国酒餐吧,0,,0.0,0.0,0.0
+酒吧,เธอ คาราโอเกะ 1,เธอ คาราโอเกะ 1,0,清迈近郊,0.0,0.0,0.0
+酒吧,Brasserie Restaurant & Bar,Brasserie Restaurant & Bar,0,,0.0,0.0,0.0
+酒吧,New My Way,New My Way,0,清迈近郊,0.0,0.0,0.0
+酒吧,Adam’s Apple Club,Adam’s Apple Club,0,清迈近郊,0.0,0.0,0.0
+酒吧,Free Guy Club,Free Guy Club,0,清迈近郊,0.0,0.0,0.0
+酒吧,Bus Bar,Bus Bar,0,,0.0,0.0,0.0
+酒吧,"Mi Casa Dining Concepts, Chiang Mai","Mi Casa Dining Concepts, Chiang Mai",0,尼曼海明,0.0,0.0,0.0
+更多亚洲菜,凤飞飞猪脚饭,凤飞飞猪脚饭,10,清迈近郊,8.8,6.9,7.9
+更多亚洲菜,Huen Phen,Huen Phen,45,清迈老城,6.7,7.5,7.1
+更多亚洲菜,Hot Chilli,Hot Chilli,90,清迈老城,7.8,8.7,7.9
+更多亚洲菜,The Riverside,The Riverside,92,清迈河畔,7.9,8.5,7.9
+更多亚洲菜,The Good View,The Good View,77,清迈河畔,7.5,8.7,7.3
+更多亚洲菜,The House ResTaurAnt,The House ResTaurAnt,108,清迈老城,9.0,9.3,9.2
+更多亚洲菜,Ratana Kitchen,Ratana Kitchen,45,塔佩路,8.6,8.1,8.4
+更多亚洲菜,The whole earth,The whole earth,42,长康路,6.8,7.6,7.5
+更多亚洲菜,Sailomjoy Thai Restaurant,Sailomjoy Thai Restaurant,22,塔佩路,7.6,7.0,6.7
+更多亚洲菜,Khun Mor Cuisine,Khun Mor Cuisine,0,宁曼路/清迈大学,7.8,7.4,7.5
+更多亚洲菜,Lert Ros,Lert Ros,29,清迈老城,7.5,7.1,7.4
+更多亚洲菜,Taj Mahal Indian Restaurant,Taj Mahal Indian Restaurant,0,塔佩路/夜市,8.8,8.6,8.8
+更多亚洲菜,PATTANA RESTAURANT,PATTANA RESTAURANT,0,宁曼路/清迈大学,8.4,8.4,8.4
+更多亚洲菜,王府风味餐厅,王府风味餐厅,0,宁曼路/清迈大学,6.4,6.7,6.7
+更多亚洲菜,Kao Soi Nimman,Kao Soi Nimman,0,清迈近郊,7.6,7.9,7.6
+更多亚洲菜,Mamory Delicious Restaurant,Mamory Delicious Restaurant,0,清迈老城,7.7,7.7,7.7
+更多亚洲菜,The Gallery   Restaurant,The Gallery   Restaurant,92,清迈近郊,8.1,8.3,7.7
+更多亚洲菜,Fai Bakery&resTaurAnt,Fai Bakery&resTaurAnt,0,清迈老城,8.5,8.5,8.5
+更多亚洲菜,糯米肠摊,糯米肠摊,0,清迈老城,6.7,6.5,7.4
+更多亚洲菜,VT Nam Nueng,VT Nam Nueng,0,清迈河畔,8.5,8.5,8.5
+更多亚洲菜,Sala Mae Rim,Sala Mae Rim,0,清迈近郊,7.5,8.0,7.9
+更多亚洲菜,真味牛肉棵条,真味牛肉棵条,0,长康路,7.4,7.4,7.4
+更多亚洲菜,Morradoke Thai,Morradoke Thai,0,宁曼路/清迈大学,6.8,6.7,6.6
+更多亚洲菜,Juice 4 U,Juice 4 U,0,清迈老城,7.7,7.6,7.7
+更多亚洲菜,Antique house,Antique house,0,清迈近郊,6.9,7.0,6.8
+更多亚洲菜,Fueng Fah Restaurant,Fueng Fah Restaurant,0,长康路,6.5,6.7,7.0
+更多亚洲菜,Suan Paak Restaurant,Suan Paak Restaurant,0,宁曼路/清迈大学,7.6,7.6,7.6
+更多亚洲菜,kao kab kang,kao kab kang,0,清迈近郊,7.6,7.4,7.6
+更多亚洲菜,New Delhi Indian Food,New Delhi Indian Food,0,清迈近郊,8.5,8.3,8.0
+更多亚洲菜,Pad Thai Tha Pae,Pad Thai Tha Pae,0,清迈近郊,6.5,6.4,7.0
+更多亚洲菜,Glong,Glong,0,,7.1,7.1,7.1
+更多亚洲菜,Burmese Restaurant and Library,Burmese Restaurant and Library,0,老城北边,0.0,0.0,0.0
+更多亚洲菜,VAE PA SRI,VAE PA SRI,0,,7.1,7.1,7.1
+更多亚洲菜,Funky Monkey Cafe,Funky Monkey Cafe,0,班塔沙拉,7.4,6.0,6.7
+更多亚洲菜,Kantoke Palace,Kantoke Palace,0,长康路,6.9,6.9,6.9
+更多亚洲菜,Lai Thai Restaurant,Lai Thai Restaurant,0,清迈近郊,6.7,7.0,6.7
+更多亚洲菜,VAE PA SRI,VAE PA SRI,0,,7.1,7.1,7.1
+更多亚洲菜,Talay restaurant,Talay restaurant,0,清迈近郊,7.1,7.1,7.0
+更多亚洲菜,Le Spice,Le Spice,0,塔佩路/夜市,7.1,7.0,7.0
+更多亚洲菜,Thapae Gate,Thapae Gate,0,宁曼路/清迈大学,6.9,6.7,6.9
+更多亚洲菜,Gulf Restaurant,Gulf Restaurant,0,清迈汽车站,0.0,0.0,0.0
+更多亚洲菜,Maximato Restaurant and Cafe,Maximato Restaurant and Cafe,0,素帖山,0.0,0.0,0.0
+更多亚洲菜,Le Spice,Le Spice,0,张克兰,0.0,0.0,0.0
+更多亚洲菜,Rajdarber Indian Restaurant,Rajdarber Indian Restaurant,0,塔佩路/夜市,0.0,0.0,0.0
+更多亚洲菜,Jerusalem Falafel,Jerusalem Falafel,0,塔佩路/夜市,0.0,0.0,0.0
+更多亚洲菜,spices,spices,0,清迈汽车站,0.0,0.0,0.0
+更多亚洲菜,KhunChurn Thai Vegetarian Cuisine.,KhunChurn Thai Vegetarian Cuisine.,0,宁曼路/清迈大学,0.0,0.0,0.0
+更多亚洲菜,Ruanmai (Thaiyai),Ruanmai (Thaiyai),0,清迈近郊,0.0,0.0,0.0
+更多亚洲菜,Ciccia's House,Ciccia's House,0,老城南边,0.0,0.0,0.0
+更多亚洲菜,VAE PA SRI,VAE PA SRI,0,,0.0,0.0,0.0
+更多亚洲菜,Babylon,Babylon,0,怀凯路,0.0,0.0,0.0
+更多亚洲菜,Franco Thai,Franco Thai,0,清迈近郊,0.0,0.0,0.0
+更多亚洲菜,Lemontree Food & BevErage,Lemontree Food & BevErage,0,清迈近郊,0.0,0.0,0.0
+更多亚洲菜,CHAO LAY,CHAO LAY,0,清迈近郊,0.0,0.0,0.0
+更多亚洲菜,East ResTaurAnt,East ResTaurAnt,0,宁曼路/清迈大学,0.0,0.0,0.0
+更多亚洲菜,KAO KAB KANG,KAO KAB KANG,0,清迈近郊,0.0,0.0,0.0
+更多亚洲菜,Phat Thai Taksin,Phat Thai Taksin,0,清迈近郊,0.0,0.0,0.0
+更多亚洲菜,Thai Orchid Vegetarian Food,Thai Orchid Vegetarian Food,0,清迈近郊,0.0,0.0,0.0
+更多亚洲菜,See River,See River,0,清迈近郊,0.0,0.0,0.0
+更多亚洲菜,Toronui,Toronui,0,清迈老城,0.0,0.0,0.0
+更多亚洲菜,Phazz Zo,Phazz Zo,0,清迈老城,0.0,0.0,0.0
+更多亚洲菜,Sukothai Kitchen Restaurant,Sukothai Kitchen Restaurant,0,清迈近郊,0.0,0.0,0.0
+更多亚洲菜,ร้านคนไท (Konthai Restaurant),ร้านคนไท (Konthai Restaurant),0,清迈近郊,0.0,0.0,0.0
+烧烤,1985 Club,1985 Club,0,塔佩路/夜市,7.8,7.8,7.8
+烧烤,奈奈奈日料,奈奈奈日料,0,,7.7,6.9,7.4
+烧烤,烤鸡大排档,烤鸡大排档,0,,8.1,5.3,7.4
+烧烤,SUGOI BBQ,SUGOI BBQ,0,清迈汽车站,8.4,8.4,8.4
+烧烤,BEPPU 居酒屋,BEPPU 居酒屋,0,,7.3,7.3,7.3
+烧烤,串烤肉摊子,串烤肉摊子,0,塔佩路/夜市,6.8,6.4,6.4
+烧烤,汉丽轩,汉丽轩,0,,0.0,0.0,0.0
+烧烤,nimman路夜晚烤鸡摊,nimman路夜晚烤鸡摊,0,,0.0,0.0,0.0
+咖啡厅,IBERRY,IBERRY,25,宁曼路/清迈大学,8.2,9.1,8.2
+咖啡厅,Black Canyon Coffee,Black Canyon Coffee,39,清迈老城,8.6,8.9,8.8
+咖啡厅,Ritr8To Coffee,Ritr8To Coffee,18,宁曼路/清迈大学,9.3,8.8,9.0
+咖啡厅,Cafe de Thaan Aoan,Cafe de Thaan Aoan,32,清迈老城,9.1,9.2,9.1
+咖啡厅,Wawee Coffee,Wawee Coffee,20,塔佩路,7.6,8.2,7.9
+咖啡厅,The Coffee Club,The Coffee Club,37,清迈老城,7.6,8.3,8.1
+咖啡厅,星巴克,星巴克,28,塔佩路,7.8,8.2,8.2
+咖啡厅,here这里,here这里,13,长康路,9.0,8.7,9.0
+咖啡厅,Local cafe,Local cafe,49,,8.9,9.1,8.7
+咖啡厅,香港添好运茶餐厅,香港添好运茶餐厅,56,宁曼路/清迈大学,7.8,8.0,8.0
+咖啡厅,UP CAFE,UP CAFE,26,清迈老城,8.7,9.0,9.0
+咖啡厅,En-Amor,En-Amor,0,清迈老城,7.2,7.2,7.0
+咖啡厅,清迈文华东方酒店饼房,清迈文华东方酒店饼房,0,清迈近郊,7.9,7.5,7.8
+咖啡厅,Akha Ama Coffee,Akha Ama Coffee,0,宁曼路/清迈大学,8.2,8.0,8.1
+咖啡厅,Black Canyon Coffee,Black Canyon Coffee,0,清迈机场,6.5,6.3,6.0
+咖啡厅,Pinggoo,Pinggoo,0,,7.5,7.9,7.9
+咖啡厅,脉脉,脉脉,60,,6.4,6.5,6.4
+咖啡厅,wawee coffee,wawee coffee,0,,8.2,8.4,8.0
+咖啡厅,Dude Cafe,Dude Cafe,0,宁曼路/清迈大学,7.5,7.4,7.7
+咖啡厅,Wawee Coffee,Wawee Coffee,23,清迈近郊,7.4,7.5,7.5
+咖啡厅,librarista,librarista,0,宁曼路/清迈大学,7.7,8.5,7.6
+咖啡厅,Good Morning Chiang Mai Cafe,Good Morning Chiang Mai Cafe,0,清迈老城,6.6,7.6,6.9
+咖啡厅,Peppermint Coffee House,Peppermint Coffee House,0,清迈老城,6.8,6.8,7.0
+咖啡厅,Art Cafe (ThaPhae Gate),Art Cafe (ThaPhae Gate),0,塔佩路,7.7,7.7,8.2
+咖啡厅,Coffee Man,Coffee Man,0,,7.3,7.3,7.2
+咖啡厅,Pacamara,Pacamara,0,塔佩路/夜市,8.5,7.9,8.2
+咖啡厅,Taa-Peng-Cat,Taa-Peng-Cat,0,清迈汽车站,8.2,8.2,7.5
+咖啡厅,Kaldi Coffee Chiangmai,Kaldi Coffee Chiangmai,0,清迈老城,7.5,7.1,6.1
+咖啡厅,Black Canyon Coffee,Black Canyon Coffee,0,宁曼路/清迈大学,7.8,7.8,7.8
+咖啡厅,Starbucks Coffee,Starbucks Coffee,0,清迈近郊,7.2,7.2,7.2
+咖啡厅,Cafe De Museum,Cafe De Museum,0,清迈老城,7.8,8.2,7.8
+咖啡厅,sooksathan 咖啡店,sooksathan 咖啡店,0,,8.5,8.5,8.5
+咖啡厅,Fern Forest Cafe,Fern Forest Cafe,0,清迈汽车站,7.2,7.5,7.5
+咖啡厅,暖暖,暖暖,0,清迈近郊,7.5,7.9,7.5
+咖啡厅,Betta House Drinks & Foods Bar,Betta House Drinks & Foods Bar,0,宁曼路/清迈大学,7.6,7.6,7.3
+咖啡厅,starbucks coffee,starbucks coffee,0,,7.5,7.6,7.6
+咖啡厅,Tom n toms,Tom n toms,0,,7.4,7.7,7.4
+咖啡厅,Da Da Kafe,Da Da Kafe,0,清迈老城,7.4,7.4,7.4
+咖啡厅,I Like Ice Cream,I Like Ice Cream,0,宁曼路/清迈大学,7.3,7.3,7.3
+咖啡厅,Love At First Bite (Bakery),Love At First Bite (Bakery),0,塔佩路,8.1,7.5,7.5
+咖啡厅,Camp cafe,Camp cafe,0,宁曼路/清迈大学,6.7,7.5,7.5
+咖啡厅,Doi Pui Coffee,Doi Pui Coffee,0,,6.0,6.5,6.4
+咖啡厅,Doi Chaang Coffee,Doi Chaang Coffee,0,清迈近郊,7.0,7.1,6.8
+咖啡厅,FISH COFFEE,FISH COFFEE,0,清迈老城,8.5,8.5,8.5
+咖啡厅,Miss Cornery,Miss Cornery,0,清迈老城,7.5,7.2,7.2
+咖啡厅,Dolcett Cafe,Dolcett Cafe,0,,7.0,7.1,6.7
+咖啡厅,wawee,wawee,0,,0.0,0.0,0.0
+咖啡厅,Black Canyon Coffee,Black Canyon Coffee,0,清迈近郊,6.4,6.4,5.8
+咖啡厅,Vigie Sist Cafe,Vigie Sist Cafe,0,清迈老城,7.4,7.4,7.4
+咖啡厅,cafe de siam,cafe de siam,0,,0.0,0.0,0.0
+咖啡厅,North Point Coffee,North Point Coffee,0,清迈老城,6.9,6.9,7.0
+咖啡厅,Wawee Coffee,Wawee Coffee,0,清迈汽车站,8.4,7.5,7.5
+咖啡厅,Tanita Coffee House,Tanita Coffee House,0,怀凯路,7.5,7.9,7.4
+咖啡厅,Marble Arch,Marble Arch,0,宁曼路/清迈大学,7.4,7.4,7.4
+咖啡厅,dong,dong,0,,7.4,7.4,7.4
+咖啡厅,Mamia Coffee,Mamia Coffee,0,清迈老城,7.3,7.9,7.9
+咖啡厅,Doi Chaang Coffee at The Doi Resort,Doi Chaang Coffee at The Doi Resort,0,,7.6,7.5,7.5
+咖啡厅,J. Ju Coffee,J. Ju Coffee,0,塔佩路/夜市,8.4,8.4,8.4
+咖啡厅,Bunny Juice Cafe,Bunny Juice Cafe,0,清迈老城,7.1,6.7,6.7
+咖啡厅,Beetroot Stories Restaurant,Beetroot Stories Restaurant,0,老城南边,7.6,7.2,7.2
+咖啡厅,Smoothie Garden Healthy Cafe,Smoothie Garden Healthy Cafe,0,塔佩路/夜市,7.4,7.4,7.4
+咖啡厅,C.U. CORNER Bar and Cafe,C.U. CORNER Bar and Cafe,0,清迈近郊,7.4,7.4,7.4
+咖啡厅,Bamboo Café,Bamboo Café,0,清迈老城,7.4,7.4,8.2
+咖啡厅,Bagel House Cafe,Bagel House Cafe,0,老城南边,8.1,8.1,8.1
+咖啡厅,The Larder Cafe And Bar,The Larder Cafe And Bar,0,,7.6,7.6,7.6
+咖啡厅,Coffee Wish,Coffee Wish,0,宁曼路/清迈大学,6.9,6.9,6.9
+咖啡厅,minGmitr Coffee,minGmitr Coffee,0,清迈近郊,8.4,7.5,8.4
+咖啡厅,my mum home,my mum home,0,,8.0,8.0,8.0
+咖啡厅,cafe de garden,cafe de garden,0,清迈老城,7.2,7.2,7.2
+咖啡厅,Coffee Time,Coffee Time,0,老城南边,7.1,7.1,7.1
+咖啡厅,Bubbles Live Coffee Shop and Restaurant,Bubbles Live Coffee Shop and Restaurant,0,清迈老城,6.9,7.0,6.9
+咖啡厅,Cafe of Art,Cafe of Art,0,清迈近郊,6.9,7.1,7.1
+咖啡厅,Cafe Amazon,Cafe Amazon,0,清迈近郊,6.8,6.8,6.8
+咖啡厅,Dunkin Donuts,Dunkin Donuts,0,,7.4,6.7,7.4
+咖啡厅,The Hut Cafe,The Hut Cafe,0,清迈老城,7.1,6.7,6.9
+咖啡厅,Happy Hut Coffee,Happy Hut Coffee,0,清迈近郊,6.9,6.7,6.9
+咖啡厅,Coffee Lover Chiangmai,Coffee Lover Chiangmai,0,清迈近郊,6.3,7.3,7.3
+咖啡厅,coffee in narrow,coffee in narrow,0,清迈老城,6.7,6.7,6.7
+咖啡厅,Miracle Coffee,Miracle Coffee,0,,7.4,6.7,6.7
+咖啡厅,Sky cafe,Sky cafe,0,清迈近郊,6.1,6.7,6.7
+咖啡厅,9th Street Cafe,9th Street Cafe,0,,0.0,0.0,0.0
+咖啡厅,Coffee Lovers,Coffee Lovers,0,清迈老城,0.0,0.0,0.0
+咖啡厅,Peppermint Coffee House,Peppermint Coffee House,0,塔佩路/夜市,0.0,0.0,0.0
+咖啡厅,Vigie Sist Cafe,Vigie Sist Cafe,0,塔佩路/夜市,0.0,0.0,0.0
+咖啡厅,Good Morning Chiang Mai,Good Morning Chiang Mai,0,湄登,0.0,0.0,0.0
+咖啡厅,Menta Coffee and Restaurant,Menta Coffee and Restaurant,0,张克兰,0.0,0.0,0.0
+咖啡厅,Chiangmai Coffee Stop,Chiangmai Coffee Stop,0,尼曼海明,0.0,0.0,0.0
+咖啡厅,The White Plate Cafe,The White Plate Cafe,0,霸顿,0.0,0.0,0.0
+咖啡厅,Coffee Lovers,Coffee Lovers,0,塔佩路/夜市,0.0,0.0,0.0
+咖啡厅,Outside in Cafe' & Studio,Outside in Cafe' & Studio,0,张克兰,0.0,0.0,0.0
+咖啡厅,The Meeting Room Art Cafe,The Meeting Room Art Cafe,0,霸顿,0.0,0.0,0.0
+咖啡厅,Red Bricks Coffee,Red Bricks Coffee,0,,7.0,7.0,7.0
+咖啡厅,Coffee Avenue,Coffee Avenue,0,清迈汽车站,0.0,0.0,0.0
+咖啡厅,Sorn's Cafe,Sorn's Cafe,0,,7.3,7.1,7.1
+咖啡厅,Charin pie,Charin pie,0,宁曼路/清迈大学,0.0,0.0,0.0
+咖啡厅,Dailycious Cafe,Dailycious Cafe,0,清迈机场,0.0,0.0,0.0
+咖啡厅,Mokador Cafe Bar,Mokador Cafe Bar,0,清迈老城,0.0,0.0,0.0
+咖啡厅,星巴克,星巴克,0,,0.0,0.0,0.0
+咖啡厅,ninety-four coffee,ninety-four coffee,0,清迈机场,0.0,0.0,0.0
+咖啡厅,Kaofae coffee,Kaofae coffee,0,,0.0,0.0,0.0
+咖啡厅,wake up coffee,wake up coffee,0,,0.0,0.0,0.0
+咖啡厅,ร้าน Hug Coffee,ร้าน Hug Coffee,0,清迈老城,0.0,0.0,0.0
+咖啡厅,roastniyom coffee,roastniyom coffee,0,,0.0,0.0,0.0
+咖啡厅,Have A Nice Day (Coffee & Bekery),Have A Nice Day (Coffee & Bekery),0,尼曼海明,0.0,0.0,0.0
+咖啡厅,Coffee Blues,Coffee Blues,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,Chan Neung Cafe & Beds,Chan Neung Cafe & Beds,0,宁曼路/清迈大学,0.0,0.0,0.0
+咖啡厅,Cafe Chic,Cafe Chic,0,清迈老城,0.0,0.0,0.0
+咖啡厅,ABACUS COFFEE,ABACUS COFFEE,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,Doi Chaang Coffee@Baan Tawai,Doi Chaang Coffee@Baan Tawai,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,Rick's Cafe,Rick's Cafe,0,宁曼路/清迈大学,0.0,0.0,0.0
+咖啡厅,corner bistro,corner bistro,0,,0.0,0.0,0.0
+咖啡厅,The Banana Leaf Cafe,The Banana Leaf Cafe,0,清迈老城,0.0,0.0,0.0
+咖啡厅,ร้านกาแฟ Coffee Zeed,ร้านกาแฟ Coffee Zeed,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,The Cottage Cafe,The Cottage Cafe,0,塔佩路,0.0,0.0,0.0
+咖啡厅,Radchada Garden Cafe,Radchada Garden Cafe,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,Wongen Cafe,Wongen Cafe,0,宁曼路/清迈大学,0.0,0.0,0.0
+咖啡厅,Number 1 Cafe Bistro,Number 1 Cafe Bistro,0,塔佩路/夜市,0.0,0.0,0.0
+咖啡厅,Chang Moi Cafe,Chang Moi Cafe,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,T Spaze Internet Cafe,T Spaze Internet Cafe,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,Coffeedaw,Coffeedaw,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,Care Coffee แคร์คอฟฟี่ กาแฟสด,Care Coffee แคร์คอฟฟี่ กาแฟสด,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,GG Cafe Perfume,GG Cafe Perfume,0,清迈老城,0.0,0.0,0.0
+咖啡厅,I Game Cafe,I Game Cafe,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,Cafe17,Cafe17,0,尼曼海明,0.0,0.0,0.0
+咖啡厅,Lanna Cafe Company Limited,Lanna Cafe Company Limited,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,kaldi coffee,kaldi coffee,0,清迈老城,0.0,0.0,0.0
+咖啡厅,Radchada Café,Radchada Café,0,,0.0,0.0,0.0
+咖啡厅,Machere_cafe,Machere_cafe,0,清迈近郊,0.0,0.0,0.0
+咖啡厅,Kluay Mai Coffee Shop,Kluay Mai Coffee Shop,0,塔佩路,0.0,0.0,0.0
+咖啡厅,The 2nd Floor Gallery & Cafe,The 2nd Floor Gallery & Cafe,0,清迈老城,0.0,0.0,0.0
+咖啡厅,กาแฟสถาน ( Cafe Sathan ),กาแฟสถาน ( Cafe Sathan ),0,宁曼路/清迈大学,0.0,0.0,0.0
+咖啡厅,Sureerat Coffee Shop,Sureerat Coffee Shop,0,宁曼路/清迈大学,0.0,0.0,0.0
+咖啡厅,กอล์ฟ หม้อกาแฟ (Golf Mo Coffee),กอล์ฟ หม้อกาแฟ (Golf Mo Coffee),0,清迈近郊,0.0,0.0,0.0
+面包甜点,芒果探戈,芒果探戈,29,宁曼路/清迈大学,8.1,7.9,7.6
+面包甜点,Chedi 下午茶,Chedi 下午茶,162,长康路,8.0,9.3,9.1
+面包甜点,Mont Toast,Mont Toast,11,宁曼路/清迈大学,8.4,8.0,8.0
+面包甜点,Fruiturday Shake & Smoothie,Fruiturday Shake & Smoothie,24,,8.3,8.4,8.4
+面包甜点,Kola's honeymoon dessert,Kola's honeymoon dessert,28,宁曼路/清迈大学,7.2,7.4,8.0
+面包甜点,DQ,DQ(清迈机场店),0,清迈机场,7.5,7.5,7.4
+面包甜点,Mont Blanc Bakery,Mont Blanc Bakery,0,宁曼路/清迈大学,7.8,8.0,7.8
+面包甜点,松撇市场酸奶水果沙拉,松撇市场酸奶水果沙拉,0,,8.3,7.3,8.2
+面包甜点,Mont Blanc,Mont Blanc,0,宁曼路/清迈大学,7.8,7.3,7.5
+面包甜点,斯文森冰淇淋,斯文森冰淇淋,0,,7.6,7.6,7.4
+面包甜点,Gelato,Gelato,0,清迈老城,7.5,7.4,7.4
+面包甜点,Guu Fusion Roti &Tea,Guu Fusion Roti &Tea,0,,7.3,7.3,7.3
+面包甜点,Bear Hug Cafe,Bear Hug Cafe,0,宁曼路/清迈大学,7.4,7.4,7.4
+面包甜点,U.N. Irish Pub,U.N. Irish Pub,0,塔佩路/夜市,8.3,8.3,8.3
+面包甜点,哈根达斯,哈根达斯,0,,7.9,7.5,7.5
+面包甜点,Ancient Ice Cream,Ancient Ice Cream,0,清迈近郊,6.2,6.0,6.8
+面包甜点,fairy tales,fairy tales,0,,7.9,7.9,7.9
+面包甜点,TurTle HomeMade Ice Cream,TurTle HomeMade Ice Cream,0,清迈近郊,7.2,7.3,6.9
+面包甜点,DQ,DQ,0,,7.4,6.7,7.4
+面包甜点,Smile Milk Home,Smile Milk Home,0,尼曼海明,8.1,8.1,8.1
+面包甜点,Janie Scoop,Janie Scoop,0,老城北边,8.0,7.5,8.0
+面包甜点,season sweet,season sweet,0,,8.4,8.4,8.4
+面包甜点,Auntie Anne's,Auntie Anne's,0,,8.1,7.4,7.4
+面包甜点,婆婆流动冰淇淋球,婆婆流动冰淇淋球,0,,8.3,6.7,8.3
+面包甜点,Love At First Bite (Bakery),Love At First Bite (Bakery),0,班塔沙拉,7.9,7.9,7.9
+面包甜点,89 Coffee & Cake,89 Coffee & Cake,0,长康路,7.4,7.4,7.4
+面包甜点,lonely milk,lonely milk,0,,6.0,6.7,6.7
+面包甜点,All About Yoghurt,All About Yoghurt,0,清迈老城,6.9,6.7,6.9
+面包甜点,chuen juice bar,chuen juice bar,0,宁曼路/清迈大学,6.8,6.2,7.3
+面包甜点,秦南千代香,秦南千代香,0,,6.9,6.9,6.9
+面包甜点,Mister Donut,Mister Donut,0,,6.1,6.7,6.7
+面包甜点,The Cat House,The Cat House,0,湄登,8.1,8.1,7.4
+面包甜点,奶茶摊子,奶茶摊子,0,塔佩路/夜市,6.8,6.4,6.8
+面包甜点,饮料摊子,饮料摊子,0,塔佩路/夜市,6.8,6.4,6.8
+面包甜点,蛋糕摊子,蛋糕摊子,0,塔佩路/夜市,6.4,6.4,6.4
+面包甜点,Dunkin Donuts,Dunkin Donuts,0,,7.4,6.7,7.4
+面包甜点,Shibuya Soft (ชิบูย่าซอฟท์),Shibuya Soft (ชิบูย่าซอฟท์),0,清迈老城,7.3,7.3,7.3
+面包甜点,鲜榨果汁摊子,鲜榨果汁摊子,0,塔佩路/夜市,6.8,6.4,6.8
+面包甜点,Ice Cream,Ice Cream,0,清迈近郊,6.8,6.8,6.8
+面包甜点,Vigie Sist Cafe,Vigie Sist Cafe,0,塔佩路/夜市,0.0,0.0,0.0
+面包甜点,Baan Homemade Bakery,Baan Homemade Bakery,0,老城南边,0.0,0.0,0.0
+面包甜点,Grace the fine bakery,Grace the fine bakery,0,,7.1,7.1,7.1
+面包甜点,mango Craze,mango Craze,0,宁曼路/清迈大学,0.0,0.0,0.0
+面包甜点,Ban Kwan in home,Ban Kwan in home,0,清迈近郊,0.0,0.0,0.0
+面包甜点,Da Bakery Home,Da Bakery Home,0,清迈老城,0.0,0.0,0.0
+面包甜点,DQ,DQ,0,,0.0,0.0,0.0
+面包甜点,Le Genoise,Le Genoise,0,宁曼路/清迈大学,0.0,0.0,0.0
+面包甜点,Hom Pak Hom Ko,Hom Pak Hom Ko,0,宁曼路/清迈大学,0.0,0.0,0.0
+面包甜点,Sponge Cake Shop,Sponge Cake Shop,0,宁曼路/清迈大学,0.0,0.0,0.0
+面包甜点,DQ,DQ,0,清迈近郊,0.0,0.0,0.0
+面包甜点,Mont Blanc Sweet Cafe,Mont Blanc Sweet Cafe,0,,0.0,0.0,0.0
+面包甜点,Cheese Cake by Aoy Bakery,Cheese Cake by Aoy Bakery,0,长康路,0.0,0.0,0.0
+面包甜点,Nirubol Baan Khanom Aroy,Nirubol Baan Khanom Aroy,0,清迈老城,0.0,0.0,0.0
+面包甜点,Crusty Bread Bakery,Crusty Bread Bakery,0,清迈近郊,0.0,0.0,0.0
+面包甜点,Kanom Ban Arjarn,Kanom Ban Arjarn,0,清迈近郊,0.0,0.0,0.0
+面包甜点,华荣西饼,华荣西饼,0,,0.0,0.0,0.0
+面包甜点,เบบี้เค้ก,เบบี้เค้ก,0,清迈近郊,0.0,0.0,0.0
+面包甜点,佳佳基,佳佳基,0,,0.0,0.0,0.0
+其他美食,Sukontha Buffet 千人火锅,Sukontha Buffet 千人火锅,42,宁曼路/清迈大学,6.7,6.0,6.6
+其他美食,The whole earth,The whole earth,134,清迈老城,7.7,8.7,7.8
+其他美食,Cafe de Nimman,Cafe de Nimman,0,老城北边,8.7,8.5,8.0
+其他美食,The Kitchen,The Kitchen,50,清迈老城,6.2,6.9,6.8
+其他美食,Shabu Shi By Oishi,Shabu Shi By Oishi,73,长康路,7.1,7.1,7.0
+其他美食,Terrace,Terrace,33,,7.1,7.2,7.0
+其他美食,Neau-Toon Rod yiam,Neau-Toon Rod yiam,21,宁曼路/清迈大学,7.6,6.8,7.2
+其他美食,Bierstube,Bierstube,0,塔佩路/夜市,8.5,8.3,8.1
+其他美食,good view,good view,0,清迈老城,7.5,7.5,7.7
+其他美食,Salsa Kitchen,Salsa Kitchen,0,清迈近郊,8.5,8.4,8.1
+其他美食,林老五,林老五,0,,7.7,7.5,7.5
+其他美食,Art Cafe (ThaPhae Gate),Art Cafe (ThaPhae Gate),0,塔佩路/夜市,7.4,7.7,7.5
+其他美食,The Rachamankha,The Rachamankha,0,清迈汽车站,8.0,8.5,8.5
+其他美食,Bamboo Bee Vegetarian Restaurants,Bamboo Bee Vegetarian Restaurants,0,塔佩路/夜市,7.2,6.4,7.1
+其他美食,云飘飘猪脚饭,云飘飘猪脚饭,0,,8.5,6.7,8.1
+其他美食,Taste From Heaven Vegetarian Restaurant,Taste From Heaven Vegetarian Restaurant,0,塔佩路/夜市,7.5,7.5,8.4
+其他美食,Chez Marco,Chez Marco,0,塔佩路/夜市,6.3,6.3,7.2
+其他美食,sabushi日式小火锅,sabushi日式小火锅,0,清迈机场,6.7,6.7,5.9
+其他美食,Amazing Sandwich,Amazing Sandwich,0,清迈汽车站,7.5,7.5,7.5
+其他美食,Sila-aat,Sila-aat,0,清迈汽车站,6.8,6.3,6.3
+其他美食,Da's Bakery,Da's Bakery,0,班塔沙拉,8.4,8.4,8.4
+其他美食,Beetroot Stories Restaurant,Beetroot Stories Restaurant,0,老城南边,7.6,7.2,7.2
+其他美食,Hinlay Curry House,Hinlay Curry House,0,清迈老城,8.4,8.4,8.4
+其他美食,Morning Glory Cafe,Morning Glory Cafe,0,塔佩路/夜市,7.0,6.9,6.9
+其他美食,Tip's BEST FRUIT SMOOTHIES,Tip's BEST FRUIT SMOOTHIES,0,塔佩路/夜市,0.0,0.0,0.0
+其他美食,Juicy 4U,Juicy 4U,0,老城南边,6.7,6.7,6.7
+其他美食,Amrita Garden,Amrita Garden,0,老城南边,7.7,7.7,7.7
+其他美食,Nice Kitchen,Nice Kitchen,0,塔佩路/夜市,7.5,7.5,7.5
+其他美食,Birds Nest Cafe,Birds Nest Cafe,0,清迈汽车站,7.7,7.7,7.7
+其他美食,Giva Organic Vegan Raw Food & Drink,Giva Organic Vegan Raw Food & Drink,0,张克兰,6.7,6.7,6.7
+其他美食,Casa Antonio Italian Restaurant,Casa Antonio Italian Restaurant,0,张克兰,7.9,7.9,7.9
+其他美食,Ginger & Kafe,Ginger & Kafe,0,清迈近郊,7.5,8.4,7.5
+其他美食,Euro Diner & Bar,Euro Diner & Bar,0,塔佩路/夜市,7.4,7.4,7.4
+其他美食,29 Cafe,29 Cafe,0,塔佩路/夜市,6.0,6.7,6.7
+其他美食,River Terrace Restaurant,River Terrace Restaurant,0,清迈老城,6.3,6.6,7.3
+其他美食,Chiangmai Saloon,Chiangmai Saloon,0,塔佩路/夜市,0.0,0.0,0.0
+其他美食,Baa(n) Din,Baa(n) Din,0,老城北边,0.0,0.0,0.0
+其他美食,Thais That Bind,Thais That Bind,0,老城南边,0.0,0.0,0.0
+其他美食,J kitchen,J kitchen,0,三晒,0.0,0.0,0.0
+其他美食,Latest Recipe,Latest Recipe,0,清迈老城,0.0,0.0,0.0
+其他美食,Pern's Mediterranean Restaurant,Pern's Mediterranean Restaurant,0,清迈汽车站,0.0,0.0,0.0
+其他美食,Morning Glory Thai Vegetarian Restaurant & Cooking,Morning Glory Thai Vegetarian Restaurant & Cooking,0,怀凯路,0.0,0.0,0.0
+其他美食,Magical Garden Cafe,Magical Garden Cafe,0,清迈汽车站,0.0,0.0,0.0
+其他美食,Pun Pun,Pun Pun,0,清迈汽车站,0.0,0.0,0.0
+其他美食,Sala Mae Rim at Four Seasons Resort Chiang Mai,Sala Mae Rim at Four Seasons Resort Chiang Mai,0,尼曼海明,0.0,0.0,0.0
+其他美食,Food Park,Food Park,0,清迈近郊,7.5,7.5,7.5
+其他美食,Pun Pun Vegetarian Restaurant,Pun Pun Vegetarian Restaurant,0,清迈汽车站,0.0,0.0,0.0
+其他美食,Daddy's Pizza & Restaurant,Daddy's Pizza & Restaurant,0,清迈老城,0.0,0.0,0.0
+其他美食,I'm Chair Bistro & Wine Bar,I'm Chair Bistro & Wine Bar,0,湄林,0.0,0.0,0.0
+其他美食,Blue Diamond Breakfast Club,Blue Diamond Breakfast Club,0,湄登,0.0,0.0,0.0
+其他美食,Bake and Bite,Bake and Bite,0,张克兰,0.0,0.0,0.0
+其他美食,Brasserie,Brasserie,0,清迈老城,0.0,0.0,0.0
+其他美食,"Chiang Mai, Thailand","Chiang Mai, Thailand",0,塔佩路/夜市,0.0,0.0,0.0
+其他美食,THC Rooftop Bar,THC Rooftop Bar,0,塔佩路/夜市,0.0,0.0,0.0
+其他美食,Neighborhood Nimman 17,Neighborhood Nimman 17,0,宁曼路/清迈大学,0.0,0.0,0.0
+其他美食,Move On Chiangmai,Move On Chiangmai,0,老城南边,0.0,0.0,0.0
+其他美食,Tianzi Tea House and Garden,Tianzi Tea House and Garden,0,塔佩路/夜市,0.0,0.0,0.0
+其他美食,Hoan Soontaree Vechanont,Hoan Soontaree Vechanont,0,霸顿,0.0,0.0,0.0
+其他美食,the edge,the edge,0,霸顿,0.0,0.0,0.0
+其他美食,Thai 1 On,Thai 1 On,0,塔佩路/夜市,0.0,0.0,0.0
+其他美食,Le Crystal Restaurant,Le Crystal Restaurant,0,清迈近郊,0.0,0.0,0.0
+其他美食,Rimping Village Restaurant,Rimping Village Restaurant,0,清迈近郊,0.0,0.0,0.0
+其他美食,Chiang Dao Nest 1 Restaurant,Chiang Dao Nest 1 Restaurant,0,清迈近郊,0.0,0.0,0.0
+其他美食,林老五,林老五,0,,0.0,0.0,0.0
+其他美食,บุฟเฟ่ต์เชียงใหม่ บ้านร่มไม้,บุฟเฟ่ต์เชียงใหม่ บ้านร่มไม้,0,清迈近郊,0.0,0.0,0.0
+其他美食,Bamboobee Vegetarian Restaurant,Bamboobee Vegetarian Restaurant,0,塔佩路/夜市,0.0,0.0,0.0
+其他美食,Ban Mai Mu Jum Buffet,Ban Mai Mu Jum Buffet,0,清迈近郊,0.0,0.0,0.0
+其他美食,Kad Kafé,Kad Kafé,0,长康路,0.0,0.0,0.0
+其他美食,Deck 1 Restaurant,Deck 1 Restaurant,0,清迈老城,0.0,0.0,0.0
+其他美食,ชาร์โคล โคขุน โพนยางคำ บุฟเฟ่ต์ เชียงใหม่,ชาร์โคล โคขุน โพนยางคำ บุฟเฟ่ต์ เชียงใหม่,0,怀凯路,0.0,0.0,0.0
+其他美食,บราวนี่ บุฟเฟ่ต์สเต็ก 88.-,บราวนี่ บุฟเฟ่ต์สเต็ก 88.-,0,清迈近郊,0.0,0.0,0.0
+其他美食,บุฟเฟ่ต์เฮ้าส์ - รินคำบุฟเฟ่ต์เฮ้าส์ เชียงใหม่,บุฟเฟ่ต์เฮ้าส์ - รินคำบุฟเฟ่ต์เฮ้าส์ เชียงใหม่,0,宁曼路/清迈大学,0.0,0.0,0.0

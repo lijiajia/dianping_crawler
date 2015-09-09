@@ -1,0 +1,347 @@
+意大利菜,Spot
+意大利菜,Epicure Brod & Vin
+意大利菜,V.e.s.p.a
+意大利菜,Di Penco AB
+意大利菜,Osteria qui
+意大利菜,Via Napoli
+意大利菜,Njutbar
+意大利菜,La Casita
+意大利菜,Vapiano Emporia
+意大利菜,D-Vino
+意大利菜,Zinzino Bar Och Gastro
+意大利菜,Restaurante bar & grappa
+意大利菜,Just like mamas
+意大利菜,Slottsstadens Restaurang & Pizzeria
+意大利菜,Doc Italiano
+意大利菜,La quiete
+意大利菜,Gio di Penco
+法国菜,Vollmers
+法国菜,Sture
+法国菜,La Bonne Vie
+法国菜,La Couronne
+法国菜,Boulebar Malmo
+法国菜,Brasserie KP
+法国菜,Cafe le fil du Rasoir - Malmo
+墨西哥菜,Barbacoa mexican street food
+墨西哥菜,El patron
+墨西哥菜,Los Arcos
+墨西哥菜,Tacolito
+其他西餐,Arstiderna i Kockska Huset
+其他西餐,Pronto
+其他西餐,Steakhouse Lilla Torg
+其他西餐,Tusen & 2 Restaurang & Bar
+其他西餐,Xxxlutz
+其他西餐,Victors
+其他西餐,Lilla Kafferosteriet
+其他西餐,Moosehead
+其他西餐,Bastard
+其他西餐,Söder Om Småland
+其他西餐,PlockePinn
+其他西餐,Rebell
+其他西餐,Saltimporten Canteen
+其他西餐,Sir Toby's
+其他西餐,Moccasin Vin&Kaerlighet
+其他西餐,Bromans Grill & Bar
+其他西餐,Pic Nic Baguetteria
+其他西餐,The Bishop Arms
+其他西餐,cafe siesta
+其他西餐,Rosen Bar & Dining
+其他西餐,Max Hamburgerrestaurang
+其他西餐,M pa Vaster
+其他西餐,Belle Epoque
+其他西餐,Nostimo
+其他西餐,Casual Street Food
+其他西餐,The Spoonery
+其他西餐,Kamaki
+其他西餐,A Mesa Brazil
+其他西餐,El Patio
+其他西餐,Syltan
+其他西餐,Restaurang Kajutan
+其他西餐,Pizzeria Davidshall
+其他西餐,Akropolis
+其他西餐,Sockerbit
+其他西餐,Te & Kaka
+其他西餐,Interpool Malmö
+其他西餐,Kommendanthusets Kafe
+其他西餐,Restaurang F
+其他西餐,Lilla Husman
+其他西餐,Valfarden Kok & Kaffe
+其他西餐,Kalk Brasserie & Grill
+其他西餐,Marathon Gyros Pizza
+其他西餐,Jetzt
+其他西餐,Bright bar & grill
+其他西餐,Far I Hatten
+其他西餐,Restaurang Genuin
+其他西餐,Sas & Kras
+其他西餐,Fregatten Pub & Restaurang
+其他西餐,Broderstugan Kök & Bar
+其他西餐,Aroma mat & dryck
+其他西餐,Stereo
+其他西餐,Krankajen 22
+其他西餐,Royal picnic
+其他西餐,Monster Bar & Steakhouse
+其他西餐,Roda Oliven
+其他西餐,Restaurang Oversten
+其他西餐,Perssons Kök & Bar
+其他西餐,HarrysPub & Restaurang
+其他西餐,Basement Cafe
+其他西餐,Kramer Gastronomi & Bar
+其他西餐,La Empanada
+其他西餐,Salmsons Skafferi
+其他西餐,Langkok
+其他西餐,La caravelle
+其他西餐,Konditoria Hollandia
+其他西餐,Www. Slottstradgardenskafe. Se
+其他西餐,Gozzip
+其他西餐,Barcelona Tapas Rest. & Festvaning
+中餐,Dim Sum
+中餐,The Thai pad
+中餐,He Tian Beijing Duck Restaurant
+中餐,Noodlemarket
+日韩料理,Scania Bar
+日韩料理,Samurai-Sushi
+日韩料理,Saiko
+日韩料理,SushiBaren
+日韩料理,HAI
+日韩料理,Izakaya KOI
+日韩料理,Chill out
+日韩料理,Yukai
+日韩料理,Nilsson Sushi
+日韩料理,Rose Garden Supreme
+日韩料理,Gyoza Robo Bar
+日韩料理,Sushido
+日韩料理,Maguro Sushibar
+日韩料理,"China Box, G.A.T"
+日韩料理,Chill out
+更多亚洲菜,Rice & Soup
+更多亚洲菜,Vegegarden
+更多亚洲菜,Mrs. Saigon
+更多亚洲菜,Malmö Ricemarket
+更多亚洲菜,Restaurang Asien
+更多亚洲菜,Occo Restaurant
+更多亚洲菜,Masala House
+更多亚洲菜,Thap Thim
+更多亚洲菜,Golden Shiva
+更多亚洲菜,Tamnack Thai
+更多亚洲菜,Niribili
+更多亚洲菜,Srinin
+更多亚洲菜,Falafel N.1
+更多亚洲菜,Thai Basilika
+更多亚洲菜,Indian Side
+更多亚洲菜,Time Out
+更多亚洲菜,Satang Thai Restaurant
+更多亚洲菜,Amore Restaurang
+更多亚洲菜,Sapla Indisk Restaurang & Bar
+更多亚洲菜,Krua Thai Restaurang
+更多亚洲菜,Tasty Spot
+更多亚洲菜,Indian Haweli
+更多亚洲菜,Miss Asia
+更多亚洲菜,Sushi station
+更多亚洲菜,Korrapong Thairestaurang
+更多亚洲菜,Trong Dong
+更多亚洲菜,India
+更多亚洲菜,Indian Flavour
+更多亚洲菜,Holy monkey malmo
+更多亚洲菜,indian curry hut
+更多亚洲菜,Ganesha
+快餐简餐,O'Learys - Malmo Central
+快餐简餐,Texas Longhorn
+快餐简餐,Restaurang T-bone
+快餐简餐,Peter Beier Chokolade
+快餐简餐,Frukostklubben
+快餐简餐,Pizza Hut
+快餐简餐,Interpool Malmö
+快餐简餐,Bronx Burgerbar
+快餐简餐,TGI Friday's
+快餐简餐,SOT Steak och Tapas
+快餐简餐,Frost Cupcakes
+快餐简餐,Dubbel Dubbel
+快餐简餐,Bamboo City
+快餐简餐,TGIFridays
+快餐简餐,Metro
+快餐简餐,O'Learys - Malmo Entre
+快餐简餐,Jensen Bofhus
+海鲜,La Roche
+海鲜,Myteri
+海鲜,Arstiderna By The Sea
+海鲜,Malmo Fisk
+烧烤,Gamla Brogatan
+烧烤,Jospers Vin & Grill
+烧烤,Grillspecialisten
+烧烤,Barrack Steakhouse
+比萨,Ristorante Modomio
+比萨,Casa Mia
+比萨,Pizzeria Pompei
+比萨,Forno d'Oro
+比萨,Doc Piazza Malmo
+咖啡厅,Barista
+咖啡厅,Kapten Hammock Cafe
+咖啡厅,Espresso House
+咖啡厅,Slottstradgardens Kafe
+咖啡厅,Starbucks
+咖啡厅,Patisserie David
+咖啡厅,Cafecafe Malmo
+咖啡厅,Rosie's Coffee & Wine
+面包甜点,Bageri Cafleet
+面包甜点,Gelatiamo Malmo
+面包甜点,Café Grannen
+面包甜点,Milstenen Kaffebar
+面包甜点,Organic Bakery & Deli
+酒吧,Paddy's
+酒吧,The more bistro
+酒吧,Tempo Bar & Kok
+酒吧,Malmo Brygghus i Chokladfabriken
+酒吧,Riannas Bistro
+酒吧,The Green Lion Inn
+酒吧,Harem Bar&Restaurang
+酒吧,Debaser Malmo
+更多美食,Salt & Brygga
+更多美食,"Barista, Emporia Malmo"
+更多美食,Lemongrass
+更多美食,"Atmosfar, Restaurang AB"
+更多美食,Laziza - a taste of Lebanon
+更多美食,Green Mango
+更多美食,Tva Krogare
+更多美食,Lilla Koket
+更多美食,Kin Long Restaurant
+更多美食,Mello Yello Bar & Restaurang
+更多美食,Smak MalmÖ Konsthall
+更多美食,Fabriken
+更多美食,Ambrosia
+更多美食,Korvhuset
+更多美食,Piccolo Mondo HB
+更多美食,The Glass Hall
+更多美食,Big Bowl
+更多美食,Mrs Brown
+更多美食,Hollandia
+更多美食,Kao's
+更多美食,Gustav Adolf Restaurant o. Cafe
+更多美食,Sankt Markus Wine Cellar
+更多美食,Folk a Rock
+更多美食,Drumbar Lilla Torg
+更多美食,Bloom in the park
+更多美食,Raw Food House
+更多美食,Bloom
+更多美食,"Espresso House, Västra Hamnen"
+更多美食,"Shanghai, Restaurang"
+更多美食,Wok Kitchen
+更多美食,Bistro Royal
+更多美食,La Barca Restaurang
+更多美食,Bee Bar Malmö
+更多美食,B.A.R naturlig krog & vinbar
+更多美食,Elysee
+更多美食,Restaurang Fagans
+更多美食,Mando Steakhouse
+更多美食,Johan P.
+更多美食,"WEGA, Museirestaurangen"
+更多美食,Tre Vänner
+更多美食,Radhuskallaren
+更多美食,Wayne's Coffee
+更多美食,Bishops Arms
+更多美食,La Trattoria
+更多美食,Falafel N.1
+更多美食,Carib Kreol
+更多美食,JP's
+更多美食,Moriska Paviljongens Bistro
+更多美食,Malmo Opera Grill
+更多美食,Any Time
+更多美食,Custen Parla
+更多美食,Andrélunds Mat och Vin
+更多美食,Jensens Bofhus
+更多美食,Satori
+更多美食,Smorgasbutiken Warldshuset Oresund
+更多美食,Godvindas Malmö
+更多美食,Pizzeria Cosmos
+更多美食,Graffiti Cafe
+更多美食,Pappas Flickor
+更多美食,Restaurang Smith
+更多美食,Kafe Agnez
+更多美食,Cafe Agnes
+更多美食,Granden
+更多美食,Pickwick Blues Pub & Rest & Bar
+更多美食,Spice Grill
+更多美食,Korv Deli
+更多美食,"Var Tids Mat, Restaurang"
+更多美食,Noir Kaffekultur
+更多美食,TGI Fridays Lilla Torg
+更多美食,Centiliter & Gram
+更多美食,Malmo Kebab AB
+更多美食,Djakne Kaffebar
+更多美食,Hotel Mäster Johan
+更多美食,Kottbaren
+更多美食,Cosmopolitan Cafe
+更多美食,Mosaik
+更多美食,Falafel & Kebab Stationen
+更多美食,Mattssons Musikpub
+更多美食,Savoy Hotel
+更多美食,Bianchi Cafe and Cycles
+更多美食,Thott
+更多美食,Hamnmastaren pa Bagers plats
+更多美食,Sma Smorrebrod
+更多美食,Bla Baten
+更多美食,"Skeppsbron 2, Bar & Restaurang"
+更多美食,Filicori Zecchini
+更多美食,Pub Vagabond /
+更多美食,PederHans Restaurang
+更多美食,Restaurang Bastis
+更多美食,Restaurang Kniv & Gaffel
+更多美食,Sampanen
+更多美食,Burek House
+更多美食,Sodervarns Krog
+更多美食,Restaurang Azalee
+更多美食,Gamle Nobe
+更多美食,Balthazar
+更多美食,Cafe Simpan
+更多美食,"Restaurang Plaka, Grekisk"
+更多美食,Häng Bar
+更多美食,Restaurang Mollan
+更多美食,Trols Jins Kru
+更多美食,Pizzeria Amore
+更多美食,Sodra Skolgatans Olkafe
+更多美食,Cafe Feed
+更多美食,Chez Madame
+更多美食,Cafe & Restaurang Konsthallen
+更多美食,Campus
+更多美食,Restaurang Ribersborg
+更多美食,McDonald's
+更多美食,Lean Grill & Bar
+更多美食,Jalla jalla
+更多美食,Castello Pizzeria
+更多美食,Ikea Malmo
+更多美食,Le colise
+更多美食,Kina Restaurang Hang Zhou
+更多美食,Buffen
+更多美食,Ribergsborgs Kallbadhus
+更多美食,Nathalies pa Pers krog
+更多美食,Konditori Valhall
+更多美食,Molto Bene
+更多美食,Restaurang Hamn & Peppar
+更多美食,Restaurang P2
+更多美食,Restaurang Glasklart AB
+更多美食,Vastra Hamnens Pizzeria
+更多美食,Sun Li Garden
+更多美食,Restaurang Davidshall
+更多美食,Kafe Kungsgatan
+更多美食,Jensens Bofhus
+更多美食,Norman's Deli
+更多美食,Restaurang Bollywood
+更多美食,Chili Bar & Restaurant
+更多美食,Konditori Amarant - kv Caroli
+更多美食,Etage
+更多美食,Tryne Till Knorr
+更多美食,Sushi Queen
+更多美食,Centralens Restaurang & Pub
+更多美食,McDonald's
+更多美食,Stars and Stripes Emporia
+更多美食,Husie Pizzeria & Kebab
+更多美食,Istanbul Restaurang & Bar
+更多美食,China Garden
+更多美食,Restaurang Nyhavn
+更多美食,olcafet
+更多美食,Restaurang Bodoni
+更多美食,Lung Foon Restaurang
+更多美食,Akvariet
+更多美食,Le Concert
+更多美食,"Hotel Jagersro, Best Western"
+更多美食,Pa Besok
+更多美食,Greekway

@@ -1,0 +1,366 @@
+泰国菜,Potjawan,Potjawan,74,,9.0,8.1,9.1
+泰国菜,Papaya Restaurant,Papaya Restaurant,56,皮皮岛其他,8.8,8.4,8.8
+泰国菜,Lae Lay Grill Restaurant,Lae Lay Grill Restaurant,243,,8.0,8.6,8.2
+泰国菜,Bussaba Thai Restaurant Aonang,Bussaba Thai Restaurant Aonang,0,,6.9,7.7,7.8
+泰国菜,The Hilltop,The Hilltop,0,皮皮岛其他,7.0,7.4,7.3
+泰国菜,Paddys restaurant & bar,Paddys restaurant & bar,0,通赛湾,0.0,0.0,0.0
+泰国菜,L. Maladee,L. Maladee,0,,0.0,0.0,0.0
+泰国菜,Kwan's cookery koh lanta,Kwan's cookery koh lanta,0,,0.0,0.0,0.0
+泰国菜,Massaman Restaurant & Bar,Massaman Restaurant & Bar,0,,0.0,0.0,0.0
+泰国菜,Longtail Boat,Longtail Boat,0,,0.0,0.0,0.0
+泰国菜,May & Mark Restaurant,May & Mark Restaurant,0,,0.0,0.0,0.0
+泰国菜,Mr.KRAB-i,Mr.KRAB-i,0,,0.0,0.0,0.0
+泰国菜,Harmony THAI FOOD,Harmony THAI FOOD,0,,7.5,7.5,7.5
+泰国菜,Jasmine Restaurant,Jasmine Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Marlin,Marlin,0,罗巴高,0.0,0.0,0.0
+泰国菜,Kotung,Kotung,0,,0.0,0.0,0.0
+泰国菜,Chang classic,Chang classic,0,通赛湾,6.7,6.7,6.7
+泰国菜,Banana leaf restaurant,Banana leaf restaurant,0,,0.0,0.0,0.0
+泰国菜,The Terrace,The Terrace,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Gecko Cabane,Gecko Cabane,0,,0.0,0.0,0.0
+泰国菜,Blue Lagune,Blue Lagune,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Time for Lime's Restaurant,Time for Lime's Restaurant,0,,0.0,0.0,0.0
+泰国菜,Oasis Sunset,Oasis Sunset,0,,0.0,0.0,0.0
+泰国菜,Ruen Mai,Ruen Mai,0,,0.0,0.0,0.0
+泰国菜,Grand PP Arcade,Grand PP Arcade,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Papaya,Papaya,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Wanna's Place,Wanna's Place,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,BAMBOO Restaurant,BAMBOO Restaurant,0,,0.0,0.0,0.0
+泰国菜,Cleopatra,Cleopatra,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Night Market(Krabi),Night Market(Krabi),0,,7.1,7.0,6.9
+泰国菜,B-4 RESTAURAN,B-4 RESTAURAN,0,,7.0,6.9,6.9
+泰国菜,Red Hot Chilli Phi Phi,Red Hot Chilli Phi Phi,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,A-One,A-One,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Sawasdee Restaurant,Sawasdee Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Roi Thai,Roi Thai,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Black Canyon Coffee,Black Canyon Coffee,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Wang Sai  Seafood,Wang Sai  Seafood,0,,6.7,6.7,6.7
+泰国菜,Diamond Cliff Beach Restaurant,Diamond Cliff Beach Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Bai Tong,Bai Tong,0,,0.0,0.0,0.0
+泰国菜,Ao Nang Cuisine,Ao Nang Cuisine,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Restaurant at Phi Phi Paradise Pearl Resort,Restaurant at Phi Phi Paradise Pearl Resort,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,MOM'S KITCHEN,MOM'S KITCHEN,0,,6.9,6.9,6.7
+泰国菜,Rock Bar,Rock Bar,0,,7.1,7.1,7.0
+泰国菜,喜马拉雅餐厅,喜马拉雅餐厅,0,,6.9,6.7,7.0
+泰国菜,Tid Pak Restaurant,Tid Pak Restaurant,0,,0.0,0.0,0.0
+泰国菜,Mother House,Mother House,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Tawan,Tawan,0,,0.0,0.0,0.0
+泰国菜,Dean's Restaurant,Dean's Restaurant,0,,0.0,0.0,0.0
+泰国菜,Ruan Thai,Ruan Thai,0,罗巴高,0.0,0.0,0.0
+泰国菜,Blue Mango,Blue Mango,0,,0.0,0.0,0.0
+泰国菜,Ruan Thip,Ruan Thip,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Sunrise Restaurant,Sunrise Restaurant,0,,0.0,0.0,0.0
+泰国菜,Le Grand Blue,Le Grand Blue,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Knock Out Bar,Knock Out Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,The Jasmine Rice Restaurant,The Jasmine Rice Restaurant,0,,0.0,0.0,0.0
+泰国菜,Feel Good,Feel Good,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Sally O'Malleys Irish Bar,Sally O'Malleys Irish Bar,0,,0.0,0.0,0.0
+泰国菜,Ko Dam Kitchen,Ko Dam Kitchen,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Sawasdee Thai Restaurant,Sawasdee Thai Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Lay Sod,Lay Sod,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,AroyD PP Island,AroyD PP Island,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Pum Thai Restaurant,Pum Thai Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Gajanana/Dolce Vita Restaurant & Bar,Gajanana/Dolce Vita Restaurant & Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Ba Kantiang Restaurant,Ba Kantiang Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,The Last Bar,The Last Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Oasis bar & restaurant Phi Phi Island,Oasis bar & restaurant Phi Phi Island,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Arundina,Arundina,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Sunset Restaurant,Sunset Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Chalita Cafe & Restaurant,Chalita Cafe & Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Malati Restaurant & Bar,Malati Restaurant & Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Knock Out bar,Knock Out bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Unni's Restaurant,Unni's Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Pad-Thai Restaurant,Pad-Thai Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Noon Sunset View Point Restaurant,Noon Sunset View Point Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Chaba Thai Kitchen,Chaba Thai Kitchen,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Panorama,Panorama,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Angel's Restaurant,Angel's Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Sophia's Restaurant,Sophia's Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Le Cafe Terrasse,Le Cafe Terrasse,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Sitti Cafe and Restaurant,Sitti Cafe and Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Esan Tua Jring,Esan Tua Jring,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Fresh Restaurant,Fresh Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Cuckoo's Nest Bar and Restaurant,Cuckoo's Nest Bar and Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Long Table Bar and Bistro,Long Table Bar and Bistro,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Somewhere Else,Somewhere Else,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Viewpoint restaurant,Viewpoint restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Bernie's Place Restaurant and Buffet,Bernie's Place Restaurant and Buffet,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Arun Restaurant,Arun Restaurant,0,,0.0,0.0,0.0
+泰国菜,Coffee Arthit,Coffee Arthit,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Top View Restaurant,Top View Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Alama cafe and restaurant,Alama cafe and restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Local Thaifood Restaurant,Local Thaifood Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Mayomwhan Thai Restaurant,Mayomwhan Thai Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Coffee My House,Coffee My House,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Travel So Far Bar and Grill,Travel So Far Bar and Grill,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Chilling Bar & Restaurant,Chilling Bar & Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Banana Bar,Banana Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Lanta River Sand Restaurant,Lanta River Sand Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Khao Yai Restaurant,Khao Yai Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,The Irish Embassy Bar,The Irish Embassy Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Diver's Inn Steakhouse and Restaurant,Diver's Inn Steakhouse and Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Koh Phi Phi Red Tuna,Koh Phi Phi Red Tuna,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Bar Loma Koh Jum,Bar Loma Koh Jum,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Kansas Saloon,Kansas Saloon,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,"Cabana Hotel, Phi Phi Island","Cabana Hotel, Phi Phi Island",0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Jeseao Restaurant and Pizzeria,Jeseao Restaurant and Pizzeria,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Richey Bar & Restaurant,Richey Bar & Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Restaurant Jeanette's,Restaurant Jeanette's,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,The Coconut Restaurant,The Coconut Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Khaothong Terrace,Khaothong Terrace,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,KoDam Kitchen,KoDam Kitchen,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Nong Cat,Nong Cat,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Chill Out Wine Bar and Restaurant,Chill Out Wine Bar and Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,The sisters restaurant & bar,The sisters restaurant & bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Beachcomber at Lanta Castaway,Beachcomber at Lanta Castaway,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Thai Orchid Restaurant,Thai Orchid Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Sanctuary Bar & Restaurant,Sanctuary Bar & Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Kung Restaurant,Kung Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Lym's Rice Bowl,Lym's Rice Bowl,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Neng's,Neng's,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Greek Taverna,Greek Taverna,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Paddy's Pub,Paddy's Pub,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Hippies Bar & Restaurant Ao-Nang,Hippies Bar & Restaurant Ao-Nang,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Mint,Mint,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Orange Place,Orange Place,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Beach House Restaurant,Beach House Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Cookkai,Cookkai,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Krua Kritsana,Krua Kritsana,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Galaxy Restaurant & Bar,Galaxy Restaurant & Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Ruen Mayura Restaurant and Rooms,Ruen Mayura Restaurant and Rooms,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Klapa Klum Restaurant & Bar,Klapa Klum Restaurant & Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Bay Front Restaurant,Bay Front Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Garlic 1992,Garlic 1992,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Jungle View Restaurant,Jungle View Restaurant,0,,0.0,0.0,0.0
+泰国菜,Madame Resturant,Madame Resturant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Nemoland,Nemoland,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Old House Restaurant,Old House Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Ruean Siam Restaurant,Ruean Siam Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,LaLaanta Hideaway Resort,LaLaanta Hideaway Resort,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Big Face Restaurant,Big Face Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Ohana Restaurant & Bar,Ohana Restaurant & Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Tides Restaurant,Tides Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Rann Restaurant,Rann Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,E-San Thai Food,E-San Thai Food,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Retro restaurant,Retro restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,lanta meeting point,lanta meeting point,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Tathata Thai Food & Pizzeria,Tathata Thai Food & Pizzeria,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Tri Stars Restaurant,Tri Stars Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Beachside Restaurant,Beachside Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Nong Joke,Nong Joke,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,The Rooftop Bar,The Rooftop Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Sonya Restaurant,Sonya Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Bolero pizzaria,Bolero pizzaria,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Not a toy,Not a toy,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Phad Thai Rock N Roll,Phad Thai Rock N Roll,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,36 steakhouse,36 steakhouse,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Yellow Submarine,Yellow Submarine,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Tamarind Restaurant,Tamarind Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Gecko House,Gecko House,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Don's,Don's,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Ling Uan (Fat Monkey),Ling Uan (Fat Monkey),0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,The tavern,The tavern,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Fresh,Fresh,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Green Chilli Restaurant,Green Chilli Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Baan Country Lao,Baan Country Lao,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,The Kitchen,The Kitchen,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Steak House Thirty-Six,Steak House Thirty-Six,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Isara Lanta,Isara Lanta,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Focus Bar & Grill,Focus Bar & Grill,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Living Room Cafe & Restaurant,Living Room Cafe & Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Danny's restaurant,Danny's restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Strand,Strand,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Jos's Kitchen,Jos's Kitchen,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Catfish Bookshop & Restaurant,Catfish Bookshop & Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Calamaro Resto,Calamaro Resto,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Cafe del Mar,Cafe del Mar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Baanlay Thai Kitchen,Baanlay Thai Kitchen,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Funky Fish,Funky Fish,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Slow Down Restaurant,Slow Down Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Thailandia,Thailandia,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Eden Bar & Dining,Eden Bar & Dining,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,No 1 Thai Food,No 1 Thai Food,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Three Mums Restaurant,Three Mums Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Rabieng Talay,Rabieng Talay,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Suan Klui Mai,Suan Klui Mai,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Lanta Jungle View,Lanta Jungle View,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Same Same But Different,Same Same But Different,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Suza Hut,Suza Hut,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Khun Va,Khun Va,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Italiano Bar and Restaurant,Italiano Bar and Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Lucky yum,Lucky yum,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Sun Shine Restaurant & Bar,Sun Shine Restaurant & Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Longtail boat restaurant,Longtail boat restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,The Beach House Restaurant,The Beach House Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Alta Marea Italian & Thai Restaurant,Alta Marea Italian & Thai Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Phi Phi Bakery,Phi Phi Bakery,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Tom Yam,Tom Yam,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Mr Green,Mr Green,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Fisherman's hut,Fisherman's hut,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Yam Yam,Yam Yam,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Sala Lanta Restaurant,Sala Lanta Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,La Casa,La Casa,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Tantara,Tantara,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Hippies Bar,Hippies Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Flame Tree Restaurant,Flame Tree Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Focus Beachfront Restaurant,Focus Beachfront Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,The Boat,The Boat,0,,0.0,0.0,0.0
+泰国菜,Thai Thai Restaurant,Thai Thai Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Eden Restaurant & Bar,Eden Restaurant & Bar,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Friendship restaurant,Friendship restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,Diamond cave restaurant,Diamond cave restaurant,0,皮皮岛其他,0.0,0.0,0.0
+泰国菜,kinnaree reataurant and bar,kinnaree reataurant and bar,0,皮皮岛其他,0.0,0.0,0.0
+中餐,The Tea Lounge Krabi,The Tea Lounge Krabi,0,,0.0,0.0,0.0
+海鲜,Ao Nang Seafood Bar & Restaurant,Ao Nang Seafood Bar & Restaurant,0,,6.3,7.6,6.3
+海鲜,Baitoey Restaurant,Baitoey Restaurant,0,,0.0,0.0,0.0
+海鲜,E-San Seafood,E-San Seafood,0,,0.0,0.0,0.0
+海鲜,Wangsai Seafood,Wangsai Seafood,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Lanta Seafood,Lanta Seafood,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Kruathara (After Tsunami),Kruathara (After Tsunami),0,皮皮岛其他,0.0,0.0,0.0
+海鲜,喜来餐厅,喜来餐厅,0,通赛湾,7.1,7.1,7.1
+海鲜,Sala Bua & Lo Spuntino Restaurant,Sala Bua & Lo Spuntino Restaurant,0,,6.9,6.9,6.9
+海鲜,Kantiang Bay View Resort Restaurant,Kantiang Bay View Resort Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Krua Thara,Krua Thara,0,,0.0,0.0,0.0
+海鲜,Koh Jum Seafood Restaurant,Koh Jum Seafood Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Sea View Seafood,Sea View Seafood,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Salatan seafood restaurant,Salatan seafood restaurant,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Saladan Seafood,Saladan Seafood,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Laanlay Seafood,Laanlay Seafood,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Ran,Ran,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Ruean-Mai Seafood Restaurant,Ruean-Mai Seafood Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,E-san seafood original,E-san seafood original,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Ton Sai Seafood,Ton Sai Seafood,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Andaman Resort Seafood Restaurant,Andaman Resort Seafood Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Kaw Kwang Seafood,Kaw Kwang Seafood,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Baanthai Seafood Restaurant,Baanthai Seafood Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Sea View Seafood,Sea View Seafood,0,皮皮岛其他,0.0,0.0,0.0
+海鲜,Chuan Chim Seafood,Chuan Chim Seafood,0,,0.0,0.0,0.0
+日韩料理,Hagi,Hagi,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,Taj Palace Indian Restaurant,Taj Palace Indian Restaurant,0,,7.9,7.4,8.5
+更多亚洲菜,Bombay Palace,Bombay Palace,0,,0.0,0.0,0.0
+更多亚洲菜,Nameste Ao Nang,Nameste Ao Nang,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,Sun Shine Hill Restaurant,Sun Shine Hill Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,Indian Tandoori,Indian Tandoori,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,Mushroom Restaurant,Mushroom Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,Pa-pa restaurant,Pa-pa restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Rasoi Restaurant,Rasoi Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,The Pirate House Restaurant,The Pirate House Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,Water Side Cafe,Water Side Cafe,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,A1,A1,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,Line Thai,Line Thai,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,D.M.C,D.M.C,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,ThaimOut Beach Bar & Restaurant,ThaimOut Beach Bar & Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+更多亚洲菜,Cha Bah,Cha Bah,0,皮皮岛其他,0.0,0.0,0.0
+酒吧,D.M.C,D.M.C,0,,7.2,7.2,7.2
+酒吧,Small Bar Ao Nang,Small Bar Ao Nang,0,,0.0,0.0,0.0
+酒吧,Roots Rock Reggae Bar,Roots Rock Reggae Bar,0,皮皮岛其他,0.0,0.0,0.0
+酒吧,On the Rocks Bar,On the Rocks Bar,0,皮皮岛其他,0.0,0.0,0.0
+酒吧,Bob Bar,Bob Bar,0,,0.0,0.0,0.0
+酒吧,Sand Bar,Sand Bar,0,皮皮岛其他,0.0,0.0,0.0
+酒吧,Irie Bar and Restaurant,Irie Bar and Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+酒吧,Red Alert Restaurant & Bar,Red Alert Restaurant & Bar,0,皮皮岛其他,0.0,0.0,0.0
+酒吧,Motherhouse Bar- Restaurant,Motherhouse Bar- Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+酒吧,Banana Leaf Restaurant & Bar,Banana Leaf Restaurant & Bar,0,皮皮岛其他,0.0,0.0,0.0
+酒吧,Boogie Bar,Boogie Bar,0,皮皮岛其他,0.0,0.0,0.0
+酒吧,The beach bar,The beach bar,0,皮皮岛其他,0.0,0.0,0.0
+酒吧,Jordan's Irish bar,Jordan's Irish bar,0,皮皮岛其他,0.0,0.0,0.0
+西式快餐,斯文森冰淇淋,斯文森冰淇淋,0,,7.6,7.5,7.5
+西式快餐,Jeseao Restaurant and Pizzeria,Jeseao Restaurant and Pizzeria,0,皮皮岛其他,0.0,0.0,0.0
+西式快餐,Uncle Chef,Uncle Chef,0,,0.0,0.0,0.0
+西式快餐,Mr wees Pizza,Mr wees Pizza,0,,0.0,0.0,0.0
+西式快餐,JD Pizza,JD Pizza,0,皮皮岛其他,0.0,0.0,0.0
+西式快餐,Trocadero Diner,Trocadero Diner,0,皮皮岛其他,0.0,0.0,0.0
+西式快餐,Tiario,Tiario,0,皮皮岛其他,0.0,0.0,0.0
+西式快餐,Azzurra Nova,Azzurra Nova,0,,0.0,0.0,0.0
+火锅,Buffalo Head Bar,Buffalo Head Bar,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Wine V Bar & Bistro,Wine V Bar & Bistro,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Bellini,Bellini,0,,0.0,0.0,0.0
+西式正餐,Red Devil Grill & Lounge,Red Devil Grill & Lounge,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Jumbo Tikka,Jumbo Tikka,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Nasha RUSSIA,Nasha RUSSIA,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Bag a baguette,Bag a baguette,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Black Coral Bar Coffee,Black Coral Bar Coffee,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Shanti Shanti,Shanti Shanti,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,La Monaco,La Monaco,0,,0.0,0.0,0.0
+西式正餐,Tattoo de Cafe,Tattoo de Cafe,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Lagoon Room Restaurant,Lagoon Room Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Ristorante Venezia,Ristorante Venezia,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Randa Restaurant lounge,Randa Restaurant lounge,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Zanotti Italian Restaurant,Zanotti Italian Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,The Seven Seas Wine Bar & Restaurant,The Seven Seas Wine Bar & Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Bajen Steakhouse & Pizzeria,Bajen Steakhouse & Pizzeria,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,On The Rocks,On The Rocks,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Pizzeria Italia,Pizzeria Italia,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Tavern Pub and Restaurant,Tavern Pub and Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Stockholm Syndrome,Stockholm Syndrome,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Hans Restaurant,Hans Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+西式正餐,Ao Nang Rialto,Ao Nang Rialto,0,皮皮岛其他,0.0,0.0,0.0
+咖啡厅,Amp' Cafe,Amp' Cafe,0,,7.4,7.4,7.4
+咖啡厅,Starbucks,Starbucks,0,皮皮岛其他,0.0,0.0,0.0
+咖啡厅,Waterside Cafe & Bar,Waterside Cafe & Bar,0,皮皮岛其他,0.0,0.0,0.0
+咖啡厅,Richy,Richy,0,,0.0,0.0,0.0
+咖啡厅,Zukasno coffee shop,Zukasno coffee shop,0,皮皮岛其他,0.0,0.0,0.0
+咖啡厅,Zoo Coffee,Zoo Coffee,0,皮皮岛其他,0.0,0.0,0.0
+咖啡厅,Nickle Pickle's,Nickle Pickle's,0,皮皮岛其他,0.0,0.0,0.0
+烧烤,Carnivore Steak and Grill,Carnivore Steak and Grill,0,,0.0,0.0,0.0
+烧烤,Matt's joint grill,Matt's joint grill,0,皮皮岛其他,0.0,0.0,0.0
+烧烤,Yang Garden Restaurant,Yang Garden Restaurant,0,,0.0,0.0,0.0
+烧烤,Utopia International Delights,Utopia International Delights,0,皮皮岛其他,0.0,0.0,0.0
+面包甜点,Starfish Internet Cafe,Starfish Internet Cafe,0,罗巴高,0.0,0.0,0.0
+面包甜点,Krabi Sinocha Bakery,Krabi Sinocha Bakery,0,,0.0,0.0,0.0
+面包甜点,Saalmann Coffee & Bakery,Saalmann Coffee & Bakery,0,皮皮岛其他,0.0,0.0,0.0
+面包甜点,Two Scoops Gelato and Desserts,Two Scoops Gelato and Desserts,0,皮皮岛其他,0.0,0.0,0.0
+面包甜点,Dieck's Deli,Dieck's Deli,0,皮皮岛其他,0.0,0.0,0.0
+面包甜点,Smiling Dog Cafe,Smiling Dog Cafe,0,皮皮岛其他,0.0,0.0,0.0
+面包甜点,PhiPhi Bakery,PhiPhi Bakery,0,皮皮岛其他,0.0,0.0,0.0
+面包甜点,Your Style Fashion and Drinks,Your Style Fashion and Drinks,0,皮皮岛其他,0.0,0.0,0.0
+面包甜点,haagen dazs ao nang krabi,haagen dazs ao nang krabi,0,皮皮岛其他,0.0,0.0,0.0
+面包甜点,Fiam de Loup,Fiam de Loup,0,皮皮岛其他,0.0,0.0,0.0
+小吃,Only Noodles,Only Noodles,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Anna's Restaurant,Anna's Restaurant,0,皮皮岛其他,8.4,8.3,8.1
+其他美食,Lemongrass Restaurant,Lemongrass Restaurant,0,罗达拉木湾,6.9,6.6,6.8
+其他美食,Tonsai Seafood,Tonsai Seafood,0,,7.5,7.8,7.3
+其他美食,Sala Bua & Lo Spuntino Restaurant,Sala Bua & Lo Spuntino Restaurant,0,,0.0,0.0,0.0
+其他美食,Caoutchouc Restaurant,Caoutchouc Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Aree BaBa,Aree BaBa,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Time for Lime's Restaurant,Time for Lime's Restaurant,0,,7.0,7.0,7.0
+其他美食,Relax Coffee and Restaurant,Relax Coffee and Restaurant,0,兰提湾,0.0,0.0,0.0
+其他美食,Koala bar restaurant,Koala bar restaurant,0,,0.0,0.0,0.0
+其他美食,Chabra Thai Kitchen,Chabra Thai Kitchen,0,,0.0,0.0,0.0
+其他美食,Kunda Anti-Pop Cafe,Kunda Anti-Pop Cafe,0,,0.0,0.0,0.0
+其他美食,Tandoori Night's,Tandoori Night's,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Mary Ann's,Mary Ann's,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Ruan Mai,Ruan Mai,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Parichat Food and Drink,Parichat Food and Drink,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Luna Restaurant,Luna Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Krua Nidnoy,Krua Nidnoy,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Ciao Bella Phi Phi Island,Ciao Bella Phi Phi Island,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Breakers,Breakers,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,B & B Beach Coff.,B & B Beach Coff.,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Costa Lanta Restaurant,Costa Lanta Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Coffee Asylum,Coffee Asylum,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Chomtalay Exotic Cuisine,Chomtalay Exotic Cuisine,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Dany's Restaurant,Dany's Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Rampong Restaurant,Rampong Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Baan On The Beach,Baan On The Beach,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Simanta,Simanta,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,White Rock Restaurant,White Rock Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,"Krua Phranang, Rayavadee Resort","Krua Phranang, Rayavadee Resort",0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Linda's Restaurant & Lounge,Linda's Restaurant & Lounge,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,The Watermark,The Watermark,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Ban Lay,Ban Lay,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Water Lilly Restaurant,Water Lilly Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Bhu Nga Sari Restaurant,Bhu Nga Sari Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Cleopatra Restaurant and Shisha,Cleopatra Restaurant and Shisha,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Saladan Seafood Restaurant,Saladan Seafood Restaurant,0,,0.0,0.0,0.0
+其他美食,Ruean Phae,Ruean Phae,0,,0.0,0.0,0.0
+其他美食,Railay Restaurant,Railay Restaurant,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Beachfront Restaurant at Chaokoh Phi Phi Lodge,Beachfront Restaurant at Chaokoh Phi Phi Lodge,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,Raitalay Terrace,Raitalay Terrace,0,皮皮岛其他,0.0,0.0,0.0
+其他美食,The Thanya Resort Restaurant & Bar,The Thanya Resort Restaurant & Bar,0,,0.0,0.0,0.0
+其他美食,Red Snapper,Red Snapper,0,,0.0,0.0,0.0
+其他美食,Hans Restaurant,Hans Restaurant,0,,0.0,0.0,0.0
+其他美食,Royal Lanta,Royal Lanta,0,,0.0,0.0,0.0
+其他美食,H.C. Andersen,H.C. Andersen,0,,0.0,0.0,0.0
+其他美食,Ruean Mai,Ruean Mai,0,,0.0,0.0,0.0
+其他美食,Hok Ki Lao,Hok Ki Lao,0,,0.0,0.0,0.0

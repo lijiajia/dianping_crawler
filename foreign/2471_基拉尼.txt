@@ -1,0 +1,113 @@
+意大利菜,Cucina Italiana,Cucina Italiana,0,基拉尼市中心,0.0,0.0,0.0
+意大利菜,DYNE,DYNE,0,基拉尼市中心,0.0,0.0,0.0
+意大利菜,Robertino's Italian Restaurant,Robertino's Italian Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+意大利菜,Amalfi Coast Italian Restaurant,Amalfi Coast Italian Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+法国菜,The West End House,The West End House,0,基拉尼市中心,0.0,0.0,0.0
+法国菜,Petit Delice,Petit Delice,0,其他,0.0,0.0,0.0
+墨西哥菜,Casita Mexicana,Casita Mexicana,0,基拉尼郊区,0.0,0.0,0.0
+其他西餐,Quinlans Seafood Bar,Quinlans Seafood Bar,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Cellar One,Cellar One,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Hannigan's Bar and Restaurant,Hannigan's Bar and Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,The Park Restaurant,The Park Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Caragh Restaurant,Caragh Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,La Rambla,La Rambla,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Jam,Jam,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Murphy's Bar,Murphy's Bar,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,The Smokehouse,The Smokehouse,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Treyvaud's,Treyvaud's,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,The Silver Fox,The Silver Fox,0,其他,0.0,0.0,0.0
+其他西餐,The Danny Mann,The Danny Mann,0,其他,0.0,0.0,0.0
+其他西餐,Lord Kenmares Restaurant,Lord Kenmares Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Miss Courtney's Tea Room,Miss Courtney's Tea Room,0,其他,0.0,0.0,0.0
+其他西餐,Paddy's Restaurant,Paddy's Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Kayne's Bar & Bistro,Kayne's Bar & Bistro,0,,0.0,0.0,0.0
+其他西餐,Coach House,Coach House,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,OD's Restaurant,OD's Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,The Country Kitchen,The Country Kitchen,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Milano,Milano,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Mike's Take Away,Mike's Take Away,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Salvador's Restaurant,Salvador's Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Allegro Hand Made Food Co,Allegro Hand Made Food Co,0,其他,0.0,0.0,0.0
+其他西餐,The Candle Room,The Candle Room,0,其他,0.0,0.0,0.0
+其他西餐,the Failte,the Failte,0,其他,0.0,0.0,0.0
+其他西餐,Mucros Garden Restaurant,Mucros Garden Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,the smoke house killarney,the smoke house killarney,0,其他,0.0,0.0,0.0
+其他西餐,The Lough Inn,The Lough Inn,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,The Chateau Cafe and Restaurant,The Chateau Cafe and Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Denjoe's Family Restaurant,Denjoe's Family Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Sandtrap Sports Bar & Grill,Sandtrap Sports Bar & Grill,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Mixor,Mixor,0,其他,0.0,0.0,0.0
+其他西餐,Hurricanes Diner,Hurricanes Diner,0,其他,0.0,0.0,0.0
+其他西餐,The Fifth Season Restaurant,The Fifth Season Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,The Allegro,The Allegro,0,其他,0.0,0.0,0.0
+其他西餐,Lake Hotel Restaurant,Lake Hotel Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Almas Takeaway,Almas Takeaway,0,其他,0.0,0.0,0.0
+其他西餐,Ulicks Bar Restaurant,Ulicks Bar Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Food Station Killarney,Food Station Killarney,0,其他,0.0,0.0,0.0
+其他西餐,Treyvards Killarney,Treyvards Killarney,0,其他,0.0,0.0,0.0
+其他西餐,Den Joe's,Den Joe's,0,基拉尼市中心,0.0,0.0,0.0
+其他西餐,Faha Court Bar And Restaurant,Faha Court Bar And Restaurant,0,,0.0,0.0,0.0
+中餐,Golden Chopsticks,Golden Chopsticks,0,其他,0.0,0.0,0.0
+中餐,West Lake Palace Chinese Restaurant,West Lake Palace Chinese Restaurant,0,其他,0.0,0.0,0.0
+中餐,Mayflower Chinese and Seafood,Mayflower Chinese and Seafood,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bombay Palace,Bombay Palace,0,基拉尼市中心,0.0,0.0,0.0
+更多亚洲菜,Stonechat Cafe and Restaurant,Stonechat Cafe and Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+更多亚洲菜,Usmania killarney,Usmania killarney,0,其他,0.0,0.0,0.0
+更多亚洲菜,Genting Thai,Genting Thai,0,,0.0,0.0,0.0
+更多亚洲菜,Good Friends,Good Friends,0,基拉尼市中心,0.0,0.0,0.0
+更多亚洲菜,Flavours of India,Flavours of India,0,其他,0.0,0.0,0.0
+快餐简餐,Wholesome Fayre,Wholesome Fayre,0,其他,0.0,0.0,0.0
+快餐简餐,Der O'Sullivans,Der O'Sullivans,0,其他,0.0,0.0,0.0
+快餐简餐,尚品轩,尚品轩,0,,0.0,0.0,0.0
+海鲜,Porterhouse,Porterhouse,0,基拉尼市中心,0.0,0.0,0.0
+海鲜,Gaby's Seafood Restaurant,Gaby's Seafood Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+海鲜,The Candle Room,The Candle Room,0,其他,0.0,0.0,0.0
+咖啡厅,Lir Cafe,Lir Cafe,0,基拉尼市中心,0.0,0.0,0.0
+咖啡厅,Costa Coffee,Costa Coffee,0,,0.0,0.0,0.0
+咖啡厅,伊诺咖啡,伊诺咖啡,0,,0.0,0.0,0.0
+面包甜点,Just Desserts,Just Desserts,0,基拉尼市中心,0.0,0.0,0.0
+面包甜点,Murphys Ice Cream,Murphys Ice Cream,0,其他,0.0,0.0,0.0
+面包甜点,Pedals and Boots,Pedals and Boots,0,,0.0,0.0,0.0
+面包甜点,Bake,Bake,0,基拉尼市中心,0.0,0.0,0.0
+酒吧,McSorley's,McSorley's,0,其他,0.0,0.0,0.0
+酒吧,Hannigan's Bar and Resturaunt,Hannigan's Bar and Resturaunt,0,基拉尼市中心,0.0,0.0,0.0
+酒吧,Buckley's Traditional Bar,Buckley's Traditional Bar,0,基拉尼市中心,0.0,0.0,0.0
+酒吧,The Laurels,The Laurels,0,基拉尼市中心,0.0,0.0,0.0
+酒吧,Killarney Grand,Killarney Grand,0,基拉尼市中心,0.0,0.0,0.0
+酒吧,The Laurels Pub,The Laurels Pub,0,基拉尼市中心,0.0,0.0,0.0
+酒吧,Wholesome Fayre,Wholesome Fayre,0,其他,0.0,0.0,0.0
+酒吧,Courtney's Bar,Courtney's Bar,0,基拉尼市中心,0.0,0.0,0.0
+酒吧,Dan Linehan's Bar,Dan Linehan's Bar,0,其他,0.0,0.0,0.0
+酒吧,O'Connors Traditional Irish Pub,O'Connors Traditional Irish Pub,0,其他,0.0,0.0,0.0
+酒吧,Tatler Jack,Tatler Jack,0,基拉尼市中心,0.0,0.0,0.0
+酒吧,Mustang Sally's,Mustang Sally's,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Mac's of Main Street,Mac's of Main Street,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Flesk Restaurant,Flesk Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Cronins Restaurant,Cronins Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Pay As You Please,Pay As You Please,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Bricin Restaurant,Bricin Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Foley's Townhouse and Restaurant,Foley's Townhouse and Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Corkery's bar,Corkery's bar,0,其他,0.0,0.0,0.0
+更多美食,Mareena's Simply Food,Mareena's Simply Food,0,其他,0.0,0.0,0.0
+更多美食,Heather Restarurant,Heather Restarurant,0,其他,0.0,0.0,0.0
+更多美食,Four Star Pizza,Four Star Pizza,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Plaza Bar & Grill,Plaza Bar & Grill,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Eddie Rocket's,Eddie Rocket's,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,The Brasserie The Europe Hotel & Resort,The Brasserie The Europe Hotel & Resort,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Sceal Eile Restaurant,Sceal Eile Restaurant,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,The Courtyard Restaurant@ scotts hotel & bar,The Courtyard Restaurant@ scotts hotel & bar,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Squire's Bar,Squire's Bar,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Malton Hotel,Malton Hotel,0,其他,0.0,0.0,0.0
+更多美食,The 98 Bar,The 98 Bar,0,其他,0.0,0.0,0.0
+更多美食,Mentons at The Plaza,Mentons at The Plaza,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Avenue Hotel,Avenue Hotel,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Tatler Jack,Tatler Jack,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Dinner at 7,Dinner at 7,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,Hussey's Bar,Hussey's Bar,0,其他,0.0,0.0,0.0
+更多美食,Castlelough Restaurant,Castlelough Restaurant,0,,0.0,0.0,0.0
+更多美食,Dolice,Dolice,0,其他,0.0,0.0,0.0
+更多美食,The Heights Lounge at the Aghadoe Heights Hotel,The Heights Lounge at the Aghadoe Heights Hotel,0,其他,0.0,0.0,0.0
+更多美食,McKenzie Cafe,McKenzie Cafe,0,基拉尼市中心,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,其他,0.0,0.0,0.0
+更多美食,Darby O'Gill's Country House Hotel,Darby O'Gill's Country House Hotel,0,其他,0.0,0.0,0.0
+更多美食,Punchbowl bar,Punchbowl bar,0,其他,0.0,0.0,0.0

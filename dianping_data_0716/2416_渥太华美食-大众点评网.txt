@@ -1,0 +1,299 @@
+意大利菜,La Dolce Vita
+意大利菜,Atelier
+意大利菜,La Strada
+法国菜,The Keg
+其他西餐,Canvas
+其他西餐,Silver Spoon
+其他西餐,The Parlour
+中餐,太原
+中餐,Booster Juice
+日韩料理,Kinki
+更多亚洲菜,Namaste India
+快餐简餐,Subway
+快餐简餐,Nando's
+快餐简餐,McDonald's
+快餐简餐,McDonald's
+快餐简餐,Taco Bell
+快餐简餐,Burger King
+快餐简餐,Wendy's
+快餐简餐,Subway Ottawa
+快餐简餐,Subway
+快餐简餐,New York Fries
+快餐简餐,Arby's
+快餐简餐,Subway
+快餐简餐,Five Guys
+快餐简餐,Subway
+快餐简餐,Subway Sparks
+快餐简餐,Subway
+快餐简餐,Subway
+快餐简餐,Charlie Chan
+快餐简餐,Subway
+快餐简餐,McDonald's
+快餐简餐,Five Guys
+快餐简餐,Subway
+快餐简餐,Subway
+快餐简餐,Spoons
+快餐简餐,Subway
+快餐简餐,Five Guys
+快餐简餐,Bert's
+快餐简餐,Five Guys
+快餐简餐,Wendy's
+快餐简餐,McDonald's
+快餐简餐,McDonald's
+快餐简餐,Subway
+快餐简餐,KFC
+快餐简餐,Yummy Sushi
+快餐简餐,Denny's
+快餐简餐,McDonald's
+快餐简餐,New York Fries
+快餐简餐,Kfc
+快餐简餐,New York Fries
+快餐简餐,McDonald's
+海鲜,Red Lobster
+海鲜,Red Lobster
+海鲜,Green Papaya Restaurant
+比萨,Pizza Pizza
+比萨,Boston Pizza
+比萨,Parti Pizza
+比萨,Topper's Pizza
+比萨,Majestic Pizza
+比萨,Pizza Hut
+比萨,Pizza Pizza
+比萨,Pizza Hut
+比萨,ZaZaZa Pizza With Pizazz
+比萨,Gabriel's Pizza
+比萨,Gabriel's Pizza
+比萨,Super Duper Pizza
+比萨,ZaZaZa Pizza With Pizazz - Hintonburg
+比萨,Pavarazzi's Gourmet Pizza
+比萨,Ricardo's Pizza
+比萨,Gabriel Pizza
+比萨,Natalino's Pizza
+比萨,Tangerine Pizza
+比萨,Sanmarino Pizza
+比萨,Gabriel Pizza
+比萨,Pizza Pizza
+比萨,Domino's Pizza
+比萨,Pizza Boyz
+比萨,2 for 1 Pizza
+比萨,Pizza Pizza
+比萨,Pizza Pizza
+比萨,Gabriel Pizza
+比萨,3 For 1 Pizza
+比萨,Gabriel Pizza
+比萨,Gloria's Pizza
+比萨,The Pizza Shop
+比萨,Pizza Pizza
+比萨,Gabriel's Pizza
+比萨,Colonnade City Pizza
+比萨,House of Pizza
+比萨,ZaZaZa Pizza With Pizazz- Glebe
+比萨,Alfa Dinner and Pizza
+比萨,1 For 1 Pizza
+比萨,Isabella Pizza
+比萨,3 For 1 Pizza
+比萨,1 For 1 Pizza Ltd
+比萨,1 for 1 Pizza
+比萨,Cheesy Pizza And Pasta
+比萨,Uncle Louis Restaurant and Pizza
+比萨,Lorenzo's Pizza
+比萨,Salito Gourmet Specialty Pizza
+比萨,Boston Pizza
+比萨,Gabriel Pizza
+比萨,Cumberland Pizza
+比萨,1 For 1 Pizza
+比萨,Metcalfe Pizza
+比萨,Colonnade Pizza
+比萨,Gabriel Pizza
+比萨,Boston Pizza
+比萨,Boston Pizza
+比萨,Domino's Pizza
+比萨,Pizza Pizza
+比萨,Georgie's Pizza
+比萨,Boston Pizza
+比萨,Boston Pizza
+比萨,Preston Pizza
+比萨,241 Pizza
+比萨,River Pizza
+比萨,Pizza Hut
+比萨,Boston Pizza
+比萨,Papa Joe's Pizza
+咖啡厅,LaPointe's Seafood Grill Cafe
+咖啡厅,The Ministry of Coffee
+咖啡厅,Second Cup
+咖啡厅,Cafe Bab Lel Hara
+咖啡厅,Cafe Du Centre National Des Arts
+咖啡厅,Clover
+咖啡厅,Cafe qui pense
+咖啡厅,Tim Hortons
+咖啡厅,Goodness Gracious Cafe
+咖啡厅,Sushi Fresh
+咖啡厅,Main Street Cafe
+咖啡厅,Thimble Cafe
+咖啡厅,Tim Hortons
+咖啡厅,Le Cafe
+咖啡厅,Havana Cafe and Catering
+咖啡厅,Green Door
+咖啡厅,Garlic Corner
+咖啡厅,Teatro Cafe
+咖啡厅,Francesco's Coffee Company
+咖啡厅,Back Lane Cafe
+咖啡厅,Town
+咖啡厅,Mezzanotte Cafe
+咖啡厅,Little India Cafe
+咖啡厅,Napoli's Cafe and Grill
+咖啡厅,The Red Dot Cafe
+咖啡厅,Second Cup
+咖啡厅,Presse Cafe
+咖啡厅,Cafe 1274
+咖啡厅,Second Cup
+咖啡厅,Cameron Ave Cafe
+咖啡厅,Village Cafe
+咖啡厅,Red Sea Cafe
+咖啡厅,Morala Specialty Coffee
+咖啡厅,Sanguiccio Deli Cafe
+咖啡厅,Cafe Ninety 7
+咖啡厅,Panache Cafe Restaurant
+咖啡厅,Second Cup
+咖啡厅,Ironwood Cafe
+咖啡厅,Tim Hortons
+咖啡厅,Cafe Du Canada
+咖啡厅,Artissimo Coffee N' Tea
+咖啡厅,Cafe Indochine
+咖啡厅,Cafe Spiga
+咖啡厅,Playtime Cafe
+咖啡厅,Prince Of Wales Cafe
+咖啡厅,Bridgehead Coffee
+咖啡厅,Peter's Cafe
+咖啡厅,Cafe Saffron
+咖啡厅,Cafe Laurier
+咖啡厅,Tim Hortons
+咖啡厅,Cafe Supreme
+咖啡厅,Tim Hortons
+咖啡厅,Roast'N Brew Coffee Rideau
+咖啡厅,Cafe 55
+咖啡厅,Timothy's Cafe
+咖啡厅,Cafe 327
+咖啡厅,Baker Street Cafe
+咖啡厅,Second Cup
+咖啡厅,Green Earth Vegetarian Cuisine
+咖啡厅,Glebe Cafe
+咖啡厅,Wild oat bakery cafe ottawa canada
+咖啡厅,Springroll House Cafe
+咖啡厅,Cafe Orient
+咖啡厅,The Corner Kitchen
+咖啡厅,Green Rebel
+咖啡厅,Cafe Mezzaluna
+咖啡厅,Spot Cafe
+咖啡厅,Green Papaya
+咖啡厅,Bibliotheque Cafe
+咖啡厅,Cafe Nostalgica
+咖啡厅,Agora Bookstore and Internet Cafe
+咖啡厅,The Loft Board Game Lounge
+咖啡厅,Second Cup
+咖啡厅,India Cafe
+咖啡厅,The Black Thorn Cafe
+咖啡厅,Fiazza Fresh Fired
+咖啡厅,John Taylor at Domus Cafe
+咖啡厅,Cafe l'Entree at the National Gallery
+咖啡厅,French Cafe
+咖啡厅,Green Fields
+咖啡厅,Lone Star Cafe
+咖啡厅,Second Cup
+咖啡厅,Tim Hortons
+咖啡厅,Cafe My House
+咖啡厅,Fraser Cafe
+咖啡厅,Tim Hortons
+咖啡厅,Blue Bird Coffee
+咖啡厅,Gina's Cafe
+面包甜点,sis dessert 千层蛋糕
+面包甜点,The Cupcake Lounge
+面包甜点,Nile Bakery
+面包甜点,Cold Stone Creamery
+面包甜点,Tutti Frutti
+面包甜点,Gelatini Gelato
+面包甜点,Pure Gelato
+面包甜点,Boko Bakery
+面包甜点,Patisserie Cake Moderne
+面包甜点,"La Brioche Bakery, Ottawa"
+面包甜点,Prince Ali Bakery
+面包甜点,Trillium Bakery
+面包甜点,Sweet Rosie's Emporium
+面包甜点,Marble Slab Creamery
+面包甜点,Aux Delices Bakery
+面包甜点,Al-Noor Bakery
+面包甜点,Tutti Frutti
+面包甜点,The Cake Shop
+面包甜点,sisdessert千层蛋糕
+酒吧,Pub Italia
+酒吧,Mill St. Brew Pub Ottawa
+酒吧,Highlander Pub
+酒吧,D'Arcy McGees Irish Pub
+酒吧,Al's Diner
+酒吧,Fusion Restaurant Lounge and Bar
+酒吧,Shogun Ottawa Japanese Steak House and Bar
+酒吧,Ginza Ramen Sushi and Sake Bar
+酒吧,Earl Of Sussex Pub
+酒吧,Taylor's Genuine Food and Wine Bar
+酒吧,Kiko Sushi Bar
+酒吧,Manx Pub
+酒吧,222 Lyon Tapas Bar
+酒吧,Sir John A Pub
+酒吧,The Shore Club
+酒吧,Social
+酒吧,Vineyards Wine Bar Bistro
+酒吧,Farb's Kitchen and Wine Bar
+酒吧,The Cheshire Cat Pub
+酒吧,Moxie's Grill and Bar
+酒吧,Moxie's Grill Bar
+酒吧,Connors Irish Pub
+酒吧,Churchills Pub
+酒吧,Irene's Pub
+酒吧,The Farmteam Cookhouse and Bar
+酒吧,The Berryman Pub
+酒吧,Clock Tower Brew Pub
+酒吧,Spud's Potato Bar and Poutinerie
+酒吧,Garden Grille and Bar
+酒吧,Clocktower Brew Pub on Mackay
+酒吧,Broadway's Bar and Grill
+酒吧,Ole Tapas Bar
+酒吧,Caffe Zucchero Espresso Bar
+酒吧,Clock Tower Brew Pub
+酒吧,New Edinburgh Pub
+酒吧,Newfoundland Pub
+酒吧,Lexus Resto Bar
+酒吧,Clocktower Brew Pub
+酒吧,Patty'S Pub
+酒吧,The Georgetown Pub
+酒吧,Illume Espresso Bar
+酒吧,Lago Bar and Grill
+酒吧,Daniel O'Connell's Irish Pub
+酒吧,107 Fourth Avenue Wine Bar
+酒吧,Clock Tower Brew Pub
+酒吧,James Street Pub
+酒吧,Pour Boy Pub
+酒吧,327 Wine Bar
+酒吧,Spin Kitchen and Bar
+酒吧,VJ's Pub
+酒吧,Brixton's Pub
+酒吧,Cock and Lion Pub
+酒吧,The Parliament Pub
+酒吧,Cali Bar Lounge Tacos
+酒吧,HillTop Resto Bar
+酒吧,Real Sports Bar and Grill
+酒吧,The Black Rose Pub
+酒吧,Pub 101
+酒吧,Black Irish Pub
+酒吧,Broadway's Bar and Grill
+酒吧,Big Mort's Little Pub
+酒吧,Royal Oak Hunt Club
+酒吧,Nepean Sailing Club
+酒吧,Meadowlands Pub And Eatery
+酒吧,Bank Street Bar and Grill
+酒吧,Corner Bar and Grill Westboro
+酒吧,Connors Gaelic Pub
+酒吧,summerhays bar and grill
+酒吧,Prime Burger Bar
+酒吧,Lunasole Resto Bar
+酒吧,The Corner Bar and Grill Orleans
+酒吧,Sonny's Bar and Grill

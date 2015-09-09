@@ -1,0 +1,735 @@
+意大利菜,Pizza Arte,Pizza Arte,0,,0.0,0.0,0.0
+意大利菜,Moderato,Moderato,0,,0.0,0.0,0.0
+意大利菜,La Fontanella,La Fontanella,0,,0.0,0.0,0.0
+意大利菜,Antwerpen,Antwerpen,0,,0.0,0.0,0.0
+意大利菜,Leonardo Da Vinci,Leonardo Da Vinci,0,,0.0,0.0,0.0
+意大利菜,milano,milano,0,,0.0,0.0,0.0
+意大利菜,Nuova Era,Nuova Era,0,,0.0,0.0,0.0
+意大利菜,Mo's Pizza,Mo's Pizza,0,Wilrijk,0.0,0.0,0.0
+意大利菜,La Piada,La Piada,0,,0.0,0.0,0.0
+意大利菜,Il Carpaccio,Il Carpaccio,0,贝尔赫姆,0.0,0.0,0.0
+意大利菜,Roma,Roma,0,贝尔赫姆,0.0,0.0,0.0
+意大利菜,Particolare,Particolare,0,,0.0,0.0,0.0
+意大利菜,Fino Zuid,Fino Zuid,0,,0.0,0.0,0.0
+意大利菜,Bocca d'Oro,Bocca d'Oro,0,,0.0,0.0,0.0
+意大利菜,Sale e Pepe da Mimmo,Sale e Pepe da Mimmo,0,,0.0,0.0,0.0
+意大利菜,Ristorante Bianconero,Ristorante Bianconero,0,,0.0,0.0,0.0
+意大利菜,Mil's Place,Mil's Place,0,,0.0,0.0,0.0
+意大利菜,I Famosi,I Famosi,0,,0.0,0.0,0.0
+意大利菜,Il gallo nero,Il gallo nero,0,,0.0,0.0,0.0
+意大利菜,Pazzi per la Pizza,Pazzi per la Pizza,0,,0.0,0.0,0.0
+意大利菜,La Casa Sarda,La Casa Sarda,0,,0.0,0.0,0.0
+意大利菜,Ristorante d'Alessandro,Ristorante d'Alessandro,0,,0.0,0.0,0.0
+意大利菜,Pazzo,Pazzo,0,,0.0,0.0,0.0
+意大利菜,Sapori d' Italia,Sapori d' Italia,0,贝尔赫姆,0.0,0.0,0.0
+意大利菜,Rigoletto,Rigoletto,0,贝尔赫姆,0.0,0.0,0.0
+意大利菜,Brusketta,Brusketta,0,贝尔赫姆,0.0,0.0,0.0
+意大利菜,A tavola,A tavola,0,贝尔赫姆,0.0,0.0,0.0
+意大利菜,Pastamore,Pastamore,0,贝尔赫姆,0.0,0.0,0.0
+意大利菜,Gigi il Bullo,Gigi il Bullo,0,,0.0,0.0,0.0
+意大利菜,La Grappa,La Grappa,0,,0.0,0.0,0.0
+意大利菜,ferrier 30,ferrier 30,0,,0.0,0.0,0.0
+意大利菜,Il Magnifico,Il Magnifico,0,,0.0,0.0,0.0
+意大利菜,Civilta del Bere,Civilta del Bere,0,,0.0,0.0,0.0
+意大利菜,Le John,Le John,0,,0.0,0.0,0.0
+意大利菜,La Lanterna,La Lanterna,0,,0.0,0.0,0.0
+意大利菜,Mario,Mario,0,,0.0,0.0,0.0
+意大利菜,RENAISSANCE,RENAISSANCE,0,,0.0,0.0,0.0
+意大利菜,L'Officina,L'Officina,0,,0.0,0.0,0.0
+意大利菜,A La Carta,A La Carta,0,,0.0,0.0,0.0
+意大利菜,SPAGHETTIWORLD,SPAGHETTIWORLD,0,,0.0,0.0,0.0
+意大利菜,Castellino Brasserie,Castellino Brasserie,0,,0.0,0.0,0.0
+意大利菜,A.P.M. Hippo,A.P.M. Hippo,0,,0.0,0.0,0.0
+意大利菜,BELLA PATIO,BELLA PATIO,0,,0.0,0.0,0.0
+意大利菜,Fino Restaurant,Fino Restaurant,0,,0.0,0.0,0.0
+意大利菜,Isola di Gio,Isola di Gio,0,,0.0,0.0,0.0
+意大利菜,I Migliori,I Migliori,0,,0.0,0.0,0.0
+意大利菜,Grand Duca,Grand Duca,0,,0.0,0.0,0.0
+意大利菜,La Nostra Casa,La Nostra Casa,0,贝尔赫姆,0.0,0.0,0.0
+意大利菜,la bresaola da mauro,la bresaola da mauro,0,Wilrijk,0.0,0.0,0.0
+意大利菜,Danieli Il divino,Danieli Il divino,0,Wilrijk,0.0,0.0,0.0
+意大利菜,Bar Italia,Bar Italia,0,,0.0,0.0,0.0
+意大利菜,Le Coup Vert In The City By Souvereyns,Le Coup Vert In The City By Souvereyns,0,,0.0,0.0,0.0
+意大利菜,Vitello,Vitello,0,,0.0,0.0,0.0
+意大利菜,Mangiare,Mangiare,0,,0.0,0.0,0.0
+意大利菜,A Modo Mio,A Modo Mio,0,,0.0,0.0,0.0
+意大利菜,San Remo,San Remo,0,,0.0,0.0,0.0
+意大利菜,Avanti,Avanti,0,,0.0,0.0,0.0
+意大利菜,Da Giovanni,Da Giovanni,0,,0.0,0.0,0.0
+意大利菜,Pizzeria del Sud Classico,Pizzeria del Sud Classico,0,,0.0,0.0,0.0
+意大利菜,Bella Capri,Bella Capri,0,,0.0,0.0,0.0
+意大利菜,Il Forno,Il Forno,0,,0.0,0.0,0.0
+意大利菜,Contrasto MB,Contrasto MB,0,,0.0,0.0,0.0
+法国菜,Euterpia,Euterpia,0,伯格霍特,0.0,0.0,0.0
+法国菜,Kom Sjee Twa,Kom Sjee Twa,0,伯格霍特,0.0,0.0,0.0
+法国菜,Lievekenshoek,Lievekenshoek,0,伯格霍特,0.0,0.0,0.0
+法国菜,Restaurant Bard'O,Restaurant Bard'O,0,贝尔赫姆,0.0,0.0,0.0
+法国菜,De Notenkraker,De Notenkraker,0,德尔纳,0.0,0.0,0.0
+法国菜,De Kadee,De Kadee,0,伯格霍特,0.0,0.0,0.0
+法国菜,Graanmarkt 13,Graanmarkt 13,0,,0.0,0.0,0.0
+法国菜,Restaurant Godard,Restaurant Godard,0,伯格霍特,0.0,0.0,0.0
+法国菜,La Cigale D'argent,La Cigale D'argent,0,,0.0,0.0,0.0
+法国菜,Kamu,Kamu,0,贝尔赫姆,0.0,0.0,0.0
+法国菜,'t Brantijzer,'t Brantijzer,0,,0.0,0.0,0.0
+法国菜,'t Zevende Genot,'t Zevende Genot,0,贝尔赫姆,0.0,0.0,0.0
+法国菜,Hof Ter Hulst,Hof Ter Hulst,0,,0.0,0.0,0.0
+法国菜,Laurent G,Laurent G,0,贝尔赫姆,0.0,0.0,0.0
+法国菜,Dome,Dome,0,贝尔赫姆,0.0,0.0,0.0
+法国菜,Vina Clara,Vina Clara,0,德尔纳,0.0,0.0,0.0
+法国菜,Bistro Borsalino,Bistro Borsalino,0,Wilrijk,0.0,0.0,0.0
+法国菜,Salon de The Claude,Salon de The Claude,0,,0.0,0.0,0.0
+法国菜,Les Saveurs de Yamada,Les Saveurs de Yamada,0,,0.0,0.0,0.0
+法国菜,Nouv'eau Tabl'eau,Nouv'eau Tabl'eau,0,,0.0,0.0,0.0
+法国菜,In de Zon,In de Zon,0,,0.0,0.0,0.0
+法国菜,Boris,Boris,0,,0.0,0.0,0.0
+法国菜,Bistro du Nord,Bistro du Nord,0,,0.0,0.0,0.0
+法国菜,De Villa des Roses,De Villa des Roses,0,,0.0,0.0,0.0
+法国菜,Domein Park West,Domein Park West,0,贝尔赫姆,0.0,0.0,0.0
+法国菜,De Markgrave,De Markgrave,0,贝尔赫姆,0.0,0.0,0.0
+法国菜,Restaurant Marie,Restaurant Marie,0,贝尔赫姆,0.0,0.0,0.0
+法国菜,Trina Cria,Trina Cria,0,德尔纳,0.0,0.0,0.0
+法国菜,Bistro Sjapoo,Bistro Sjapoo,0,Merksem,0.0,0.0,0.0
+法国菜,Josephine's,Josephine's,0,,0.0,0.0,0.0
+法国菜,Gran Duca,Gran Duca,0,,0.0,0.0,0.0
+法国菜,'t Fornuis,'t Fornuis,0,,0.0,0.0,0.0
+法国菜,Restaurant Pasta,Restaurant Pasta,0,,0.0,0.0,0.0
+法国菜,'t Silveren Claverblat,'t Silveren Claverblat,0,,0.0,0.0,0.0
+法国菜,De Reddende Engel,De Reddende Engel,0,,0.0,0.0,0.0
+法国菜,Le Zoute Zoen,Le Zoute Zoen,0,,0.0,0.0,0.0
+法国菜,Dock's Cafe,Dock's Cafe,0,,0.0,0.0,0.0
+法国菜,'t Peerd,'t Peerd,0,,0.0,0.0,0.0
+法国菜,Brouwersvliet 23,Brouwersvliet 23,0,,0.0,0.0,0.0
+法国菜,Bitterpeeen,Bitterpeeen,0,,0.0,0.0,0.0
+法国菜,De Nachtegaal,De Nachtegaal,0,,0.0,0.0,0.0
+法国菜,Vin d'Ou,Vin d'Ou,0,贝尔赫姆,0.0,0.0,0.0
+法国菜,Restaurant Camping Campina,Restaurant Camping Campina,0,伯格霍特,0.0,0.0,0.0
+法国菜,Patrasche,Patrasche,0,,0.0,0.0,0.0
+法国菜,'t Hofke,'t Hofke,0,,0.0,0.0,0.0
+法国菜,Te Kook,Te Kook,0,,0.0,0.0,0.0
+法国菜,Afspanning De Kroon,Afspanning De Kroon,0,,0.0,0.0,0.0
+法国菜,The Resident,The Resident,0,贝尔赫姆,0.0,0.0,0.0
+法国菜,'t Kaneel,'t Kaneel,0,,0.0,0.0,0.0
+法国菜,Glenns,Glenns,0,,0.0,0.0,0.0
+法国菜,Fish and Eat,Fish and Eat,0,,0.0,0.0,0.0
+墨西哥菜,Caramba,Caramba,0,,0.0,0.0,0.0
+墨西哥菜,gringo's,gringo's,0,,0.0,0.0,0.0
+墨西哥菜,Las Margaritas,Las Margaritas,0,,0.0,0.0,0.0
+墨西哥菜,Tortilla Mexicana,Tortilla Mexicana,0,贝尔赫姆,0.0,0.0,0.0
+墨西哥菜,Chi-Chi's,Chi-Chi's,0,伯格霍特,0.0,0.0,0.0
+墨西哥菜,Nacho Libre,Nacho Libre,0,,0.0,0.0,0.0
+其他西餐,'t Injaske,'t Injaske,0,,0.0,0.0,0.0
+其他西餐,Mampoko,Mampoko,0,,0.0,0.0,0.0
+其他西餐,Croissanty,Croissanty,0,,0.0,0.0,0.0
+其他西餐,Huis De Colvenier,Huis De Colvenier,0,,0.0,0.0,0.0
+其他西餐,Hungry Henrietta,Hungry Henrietta,0,,0.0,0.0,0.0
+其他西餐,The Cathedral Cafe,The Cathedral Cafe,0,,0.0,0.0,0.0
+其他西餐,'t Zilte,'t Zilte,0,,0.0,0.0,0.0
+其他西餐,Otto's Creperie Bretonne,Otto's Creperie Bretonne,0,,0.0,0.0,0.0
+其他西餐,Cafe De Reus,Cafe De Reus,0,,0.0,0.0,0.0
+其他西餐,Minerva,Minerva,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,de Kleine Zavel,de Kleine Zavel,0,,0.0,0.0,0.0
+其他西餐,Dansing Chocola,Dansing Chocola,0,埃克伦,0.0,0.0,0.0
+其他西餐,Reload,Reload,0,,0.0,0.0,0.0
+其他西餐,Ardent,Ardent,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Bernardin,Bernardin,0,,0.0,0.0,0.0
+其他西餐,De 7 Schaken,De 7 Schaken,0,,0.0,0.0,0.0
+其他西餐,Au Vieux Port,Au Vieux Port,0,,0.0,0.0,0.0
+其他西餐,Lamalo,Lamalo,0,,0.0,0.0,0.0
+其他西餐,Jardin Public,Jardin Public,0,德尔纳,0.0,0.0,0.0
+其他西餐,Bella Vista,Bella Vista,0,,0.0,0.0,0.0
+其他西餐,Colmar Wezenberg,Colmar Wezenberg,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Walrus,Walrus,0,,0.0,0.0,0.0
+其他西餐,Brasserie den Antigoon,Brasserie den Antigoon,0,,0.0,0.0,0.0
+其他西餐,the glorious,the glorious,0,,0.0,0.0,0.0
+其他西餐,KOMMILFOO,KOMMILFOO,0,,0.0,0.0,0.0
+其他西餐,Frituur Lescluze,Frituur Lescluze,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Chicken Phone,Chicken Phone,0,伯格霍特,0.0,0.0,0.0
+其他西餐,De Zoete Verlerleiding,De Zoete Verlerleiding,0,伯格霍特,0.0,0.0,0.0
+其他西餐,Den Aperitief,Den Aperitief,0,,0.0,0.0,0.0
+其他西餐,Het Gerecht,Het Gerecht,0,,0.0,0.0,0.0
+其他西餐,Vinicity,Vinicity,0,,0.0,0.0,0.0
+其他西餐,Eetkamer a l'Infintiste,Eetkamer a l'Infintiste,0,,0.0,0.0,0.0
+其他西餐,Sapori,Sapori,0,,0.0,0.0,0.0
+其他西餐,Octo,Octo,0,,0.0,0.0,0.0
+其他西餐,Bette's Pic-Nic,Bette's Pic-Nic,0,,0.0,0.0,0.0
+其他西餐,Den Angelot,Den Angelot,0,,0.0,0.0,0.0
+其他西餐,'t Steen,'t Steen,0,,0.0,0.0,0.0
+其他西餐,Jan Zonder Vrees,Jan Zonder Vrees,0,,0.0,0.0,0.0
+其他西餐,Taverne New Ekiki,Taverne New Ekiki,0,,0.0,0.0,0.0
+其他西餐,Pietrain,Pietrain,0,,0.0,0.0,0.0
+其他西餐,Reigershof,Reigershof,0,,0.0,0.0,0.0
+其他西餐,Waterschoot,Waterschoot,0,,0.0,0.0,0.0
+其他西餐,Terrace Cafe,Terrace Cafe,0,,0.0,0.0,0.0
+其他西餐,Bistro Grosso Modo,Bistro Grosso Modo,0,,0.0,0.0,0.0
+其他西餐,Amadeus Antwerp 1,Amadeus Antwerp 1,0,,0.0,0.0,0.0
+其他西餐,De Groote Witte Arend,De Groote Witte Arend,0,,0.0,0.0,0.0
+其他西餐,Marrakech,Marrakech,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Veranda,Veranda,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Bij Ada,Bij Ada,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Belair,Belair,0,,0.0,0.0,0.0
+其他西餐,Bolivar,Bolivar,0,,0.0,0.0,0.0
+其他西餐,Puur Personal Cooking,Puur Personal Cooking,0,,0.0,0.0,0.0
+其他西餐,Matty,Matty,0,,0.0,0.0,0.0
+其他西餐,Le Zinc,Le Zinc,0,,0.0,0.0,0.0
+其他西餐,South du Sud,South du Sud,0,,0.0,0.0,0.0
+其他西餐,Il Macho,Il Macho,0,,0.0,0.0,0.0
+其他西餐,Staff's Kantine,Staff's Kantine,0,,0.0,0.0,0.0
+其他西餐,Lifeisart,Lifeisart,0,,0.0,0.0,0.0
+其他西餐,"12,Place du Marché","12,Place du Marché",0,,0.0,0.0,0.0
+其他西餐,Non Solo Te,Non Solo Te,0,,0.0,0.0,0.0
+其他西餐,Gazette,Gazette,0,,0.0,0.0,0.0
+其他西餐,Fabiola,Fabiola,0,,0.0,0.0,0.0
+其他西餐,De Gulden Bock,De Gulden Bock,0,,0.0,0.0,0.0
+其他西餐,Keyserfriet,Keyserfriet,0,,0.0,0.0,0.0
+其他西餐,Caffé Noir,Caffé Noir,0,,0.0,0.0,0.0
+其他西餐,Het Nieuwe Palinghuis,Het Nieuwe Palinghuis,0,,0.0,0.0,0.0
+其他西餐,'t Koekebakske,'t Koekebakske,0,,0.0,0.0,0.0
+其他西餐,De Baritons,De Baritons,0,,0.0,0.0,0.0
+其他西餐,De Vlasmarkt,De Vlasmarkt,0,,0.0,0.0,0.0
+其他西餐,Estro Armonico,Estro Armonico,0,,0.0,0.0,0.0
+其他西餐,El bife,El bife,0,,0.0,0.0,0.0
+其他西餐,De Manie,De Manie,0,,0.0,0.0,0.0
+其他西餐,Grand Cafe du Nord,Grand Cafe du Nord,0,,0.0,0.0,0.0
+其他西餐,Comme Soupe,Comme Soupe,0,,0.0,0.0,0.0
+其他西餐,Jam,Jam,0,,0.0,0.0,0.0
+其他西餐,D'aa toert,D'aa toert,0,,0.0,0.0,0.0
+其他西餐,Hofstraat 24,Hofstraat 24,0,,0.0,0.0,0.0
+其他西餐,Bar Buenos Aires,Bar Buenos Aires,0,,0.0,0.0,0.0
+其他西餐,Calamares,Calamares,0,,0.0,0.0,0.0
+其他西餐,Volef's,Volef's,0,,0.0,0.0,0.0
+其他西餐,Ristorante Pizzeria Cucina 48,Ristorante Pizzeria Cucina 48,0,,0.0,0.0,0.0
+其他西餐,Filet d'Anvers,Filet d'Anvers,0,,0.0,0.0,0.0
+其他西餐,Pampas Rodizio,Pampas Rodizio,0,,0.0,0.0,0.0
+其他西餐,Pata negra,Pata negra,0,,0.0,0.0,0.0
+其他西餐,Pitta Palace,Pitta Palace,0,,0.0,0.0,0.0
+其他西餐,Brasserie Appelmans,Brasserie Appelmans,0,,0.0,0.0,0.0
+其他西餐,Arme Duivel,Arme Duivel,0,,0.0,0.0,0.0
+其他西餐,Charles,Charles,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Degustation,Degustation,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Afspanning de Hand,Afspanning de Hand,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Tiramaison,Tiramaison,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Bizanaat,Bizanaat,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,karwij,karwij,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Bistrot Miro,Bistrot Miro,0,伯格霍特,0.0,0.0,0.0
+其他西餐,Frajo's Grand Cafe,Frajo's Grand Cafe,0,伯格霍特,0.0,0.0,0.0
+其他西餐,Tast'Toe,Tast'Toe,0,伯格霍特,0.0,0.0,0.0
+其他西餐,Duval,Duval,0,伯格霍特,0.0,0.0,0.0
+其他西餐,Pou-Poule,Pou-Poule,0,德尔纳,0.0,0.0,0.0
+其他西餐,De kleine wereld,De kleine wereld,0,德尔纳,0.0,0.0,0.0
+其他西餐,Pegasus,Pegasus,0,德尔纳,0.0,0.0,0.0
+其他西餐,De Heksenketel,De Heksenketel,0,德尔纳,0.0,0.0,0.0
+其他西餐,Den Bourgondier,Den Bourgondier,0,Wilrijk,0.0,0.0,0.0
+其他西餐,Mika,Mika,0,Wilrijk,0.0,0.0,0.0
+其他西餐,Pastorale,Pastorale,0,Wilrijk,0.0,0.0,0.0
+其他西餐,Centro Iberico,Centro Iberico,0,Wilrijk,0.0,0.0,0.0
+其他西餐,Maxim,Maxim,0,Merksem,0.0,0.0,0.0
+其他西餐,Antwerp Docks,Antwerp Docks,0,Merksem,0.0,0.0,0.0
+其他西餐,De Volksvriend,De Volksvriend,0,,0.0,0.0,0.0
+其他西餐,El Zhoor,El Zhoor,0,,0.0,0.0,0.0
+其他西餐,Grill House 77,Grill House 77,0,,0.0,0.0,0.0
+其他西餐,Ciro's,Ciro's,0,,0.0,0.0,0.0
+其他西餐,Brasserie den Artist,Brasserie den Artist,0,,0.0,0.0,0.0
+其他西餐,'t Soet Brood,'t Soet Brood,0,,0.0,0.0,0.0
+其他西餐,Meat and Eat,Meat and Eat,0,,0.0,0.0,0.0
+其他西餐,Cafe Lambik,Cafe Lambik,0,,0.0,0.0,0.0
+其他西餐,Refectoire,Refectoire,0,,0.0,0.0,0.0
+其他西餐,Baires,Baires,0,,0.0,0.0,0.0
+其他西餐,Grand Café Modeste,Grand Café Modeste,0,,0.0,0.0,0.0
+其他西餐,Publique,Publique,0,,0.0,0.0,0.0
+其他西餐,Brasserie Bizie Lizzie,Brasserie Bizie Lizzie,0,,0.0,0.0,0.0
+其他西餐,Den Houten Lepel,Den Houten Lepel,0,,0.0,0.0,0.0
+其他西餐,Blinoff,Blinoff,0,,0.0,0.0,0.0
+其他西餐,Chez Fred,Chez Fred,0,,0.0,0.0,0.0
+其他西餐,Wijnbar Cape au Sud,Wijnbar Cape au Sud,0,,0.0,0.0,0.0
+其他西餐,Symforosa,Symforosa,0,,0.0,0.0,0.0
+其他西餐,Bourla,Bourla,0,,0.0,0.0,0.0
+其他西餐,comocomo antwerpen,comocomo antwerpen,0,,0.0,0.0,0.0
+其他西餐,'t Klein Verdiep,'t Klein Verdiep,0,,0.0,0.0,0.0
+其他西餐,Hector Chicken,Hector Chicken,0,,0.0,0.0,0.0
+其他西餐,Mezze - Cafe Varelli,Mezze - Cafe Varelli,0,,0.0,0.0,0.0
+其他西餐,Bier Central,Bier Central,0,,0.0,0.0,0.0
+其他西餐,Exki,Exki,0,,0.0,0.0,0.0
+其他西餐,In De Roscam,In De Roscam,0,,0.0,0.0,0.0
+其他西餐,El Rancho,El Rancho,0,,0.0,0.0,0.0
+其他西餐,Brasserie de Post,Brasserie de Post,0,,0.0,0.0,0.0
+其他西餐,Tapabar,Tapabar,0,,0.0,0.0,0.0
+其他西餐,De Negen Vaten,De Negen Vaten,0,,0.0,0.0,0.0
+其他西餐,ELIMIL,ELIMIL,0,,0.0,0.0,0.0
+其他西餐,Apollon,Apollon,0,,0.0,0.0,0.0
+其他西餐,CHEZ RAOUL,CHEZ RAOUL,0,,0.0,0.0,0.0
+其他西餐,Barbouf,Barbouf,0,,0.0,0.0,0.0
+其他西餐,Xocolate food room,Xocolate food room,0,,0.0,0.0,0.0
+其他西餐,Retro Cafe Bvba,Retro Cafe Bvba,0,,0.0,0.0,0.0
+其他西餐,De Lantaren,De Lantaren,0,,0.0,0.0,0.0
+其他西餐,Paters Vaetje,Paters Vaetje,0,,0.0,0.0,0.0
+其他西餐,Ultimatum,Ultimatum,0,,0.0,0.0,0.0
+其他西餐,Gollem,Gollem,0,,0.0,0.0,0.0
+其他西餐,Mandraki,Mandraki,0,,0.0,0.0,0.0
+其他西餐,Maritime,Maritime,0,,0.0,0.0,0.0
+其他西餐,Facade,Facade,0,,0.0,0.0,0.0
+其他西餐,Persepolis,Persepolis,0,,0.0,0.0,0.0
+其他西餐,Ten Prinsenhove,Ten Prinsenhove,0,,0.0,0.0,0.0
+其他西餐,Sjalot en Schanul,Sjalot en Schanul,0,,0.0,0.0,0.0
+其他西餐,Cafe Confituur,Cafe Confituur,0,,0.0,0.0,0.0
+其他西餐,In De Gloria,In De Gloria,0,,0.0,0.0,0.0
+其他西餐,Enfanterrible,Enfanterrible,0,,0.0,0.0,0.0
+其他西餐,LIDS,LIDS,0,,0.0,0.0,0.0
+其他西餐,A Grelha,A Grelha,0,,0.0,0.0,0.0
+其他西餐,Rode Zeven,Rode Zeven,0,,0.0,0.0,0.0
+其他西餐,La Terrenal,La Terrenal,0,,0.0,0.0,0.0
+其他西餐,El Sabor Andino,El Sabor Andino,0,,0.0,0.0,0.0
+其他西餐,Intenz,Intenz,0,,0.0,0.0,0.0
+其他西餐,Restaurant Valencia,Restaurant Valencia,0,,0.0,0.0,0.0
+其他西餐,B23,B23,0,,0.0,0.0,0.0
+其他西餐,Maona Coffee,Maona Coffee,0,,0.0,0.0,0.0
+其他西餐,De Veehandel,De Veehandel,0,,0.0,0.0,0.0
+其他西餐,Estrela do Mar,Estrela do Mar,0,,0.0,0.0,0.0
+其他西餐,Kiekes!,Kiekes!,0,,0.0,0.0,0.0
+其他西餐,Fogos,Fogos,0,,0.0,0.0,0.0
+其他西餐,Cabo Verde,Cabo Verde,0,,0.0,0.0,0.0
+其他西餐,Caravan,Caravan,0,,0.0,0.0,0.0
+其他西餐,'t pleintje,'t pleintje,0,,0.0,0.0,0.0
+其他西餐,Opa's Eethuisje,Opa's Eethuisje,0,,0.0,0.0,0.0
+其他西餐,Brasserie iverans,Brasserie iverans,0,,0.0,0.0,0.0
+其他西餐,Het elfte gebod,Het elfte gebod,0,,0.0,0.0,0.0
+其他西餐,Frituur Eethuis de Laet,Frituur Eethuis de Laet,0,,0.0,0.0,0.0
+其他西餐,Moskou,Moskou,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,El Warda,El Warda,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Lavinia Arentina,Lavinia Arentina,0,伯格霍特,0.0,0.0,0.0
+其他西餐,De Ekster,De Ekster,0,德尔纳,0.0,0.0,0.0
+其他西餐,Fez,Fez,0,埃克伦,0.0,0.0,0.0
+其他西餐,Dikke Mee,Dikke Mee,0,Wilrijk,0.0,0.0,0.0
+其他西餐,Mama Matrea,Mama Matrea,0,Merksem,0.0,0.0,0.0
+其他西餐,Calesberg,Calesberg,0,Merksem,0.0,0.0,0.0
+其他西餐,'t Kasteeltje,'t Kasteeltje,0,,0.0,0.0,0.0
+其他西餐,ANNA Living & Bar,ANNA Living & Bar,0,,0.0,0.0,0.0
+其他西餐,Tante Yvonne,Tante Yvonne,0,,0.0,0.0,0.0
+其他西餐,Sensunik,Sensunik,0,,0.0,0.0,0.0
+其他西餐,La Bicyclette,La Bicyclette,0,,0.0,0.0,0.0
+其他西餐,Hippodroom,Hippodroom,0,,0.0,0.0,0.0
+其他西餐,117 by Wout Bru,117 by Wout Bru,0,,0.0,0.0,0.0
+其他西餐,el puerto,el puerto,0,,0.0,0.0,0.0
+其他西餐,De Markt,De Markt,0,,0.0,0.0,0.0
+其他西餐,Tropicos,Tropicos,0,,0.0,0.0,0.0
+其他西餐,La Boqueria,La Boqueria,0,,0.0,0.0,0.0
+其他西餐,De Koraal,De Koraal,0,,0.0,0.0,0.0
+其他西餐,Brasserie De Herk,Brasserie De Herk,0,,0.0,0.0,0.0
+其他西餐,Mostar,Mostar,0,,0.0,0.0,0.0
+其他西餐,Aura,Aura,0,,0.0,0.0,0.0
+其他西餐,De Pelgrom,De Pelgrom,0,,0.0,0.0,0.0
+其他西餐,To Limani,To Limani,0,,0.0,0.0,0.0
+其他西餐,Falafel Tof,Falafel Tof,0,,0.0,0.0,0.0
+其他西餐,Xaverius Eetcafe,Xaverius Eetcafe,0,,0.0,0.0,0.0
+其他西餐,In de schaduw van de kathedraal,In de schaduw van de kathedraal,0,,0.0,0.0,0.0
+其他西餐,De Lux,De Lux,0,,0.0,0.0,0.0
+其他西餐,Frituur No. 1,Frituur No. 1,0,,0.0,0.0,0.0
+其他西餐,Het Vermoeide Model,Het Vermoeide Model,0,,0.0,0.0,0.0
+其他西餐,'t Putke,'t Putke,0,,0.0,0.0,0.0
+其他西餐,Las Tapas,Las Tapas,0,,0.0,0.0,0.0
+其他西餐,Guldenswaene,Guldenswaene,0,,0.0,0.0,0.0
+其他西餐,Stadscafe,Stadscafe,0,,0.0,0.0,0.0
+其他西餐,Roxy Tornado,Roxy Tornado,0,,0.0,0.0,0.0
+其他西餐,Noorderterras,Noorderterras,0,,0.0,0.0,0.0
+其他西餐,Algarve,Algarve,0,,0.0,0.0,0.0
+其他西餐,Duke of Antwerp,Duke of Antwerp,0,,0.0,0.0,0.0
+其他西餐,marcel,marcel,0,,0.0,0.0,0.0
+其他西餐,Het Duvels Genot,Het Duvels Genot,0,,0.0,0.0,0.0
+其他西餐,Felixpakhuis,Felixpakhuis,0,,0.0,0.0,0.0
+其他西餐,Lux,Lux,0,,0.0,0.0,0.0
+其他西餐,Ellis Gourmet Burger,Ellis Gourmet Burger,0,,0.0,0.0,0.0
+其他西餐,Hannekesnest,Hannekesnest,0,,0.0,0.0,0.0
+其他西餐,L'ile D'Anvers,L'ile D'Anvers,0,,0.0,0.0,0.0
+其他西餐,Afspanning De Kroon,Afspanning De Kroon,0,,0.0,0.0,0.0
+其他西餐,De Nieuwe Merode,De Nieuwe Merode,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,de bibliotheek,de bibliotheek,0,伯格霍特,0.0,0.0,0.0
+其他西餐,'t Fonteintje,'t Fonteintje,0,伯格霍特,0.0,0.0,0.0
+其他西餐,Brasserie 2140,Brasserie 2140,0,德尔纳,0.0,0.0,0.0
+其他西餐,De Orangerie,De Orangerie,0,Wilrijk,0.0,0.0,0.0
+其他西餐,Brasserie Kwadraat,Brasserie Kwadraat,0,埃克伦,0.0,0.0,0.0
+其他西餐,'t VoorHuys,'t VoorHuys,0,Merksem,0.0,0.0,0.0
+其他西餐,De 3 Paterkes,De 3 Paterkes,0,,0.0,0.0,0.0
+其他西餐,Face a Face,Face a Face,0,,0.0,0.0,0.0
+其他西餐,Bella Champagne Bar en Restaurant,Bella Champagne Bar en Restaurant,0,,0.0,0.0,0.0
+其他西餐,Bistro Med,Bistro Med,0,,0.0,0.0,0.0
+其他西餐,Tinsel,Tinsel,0,,0.0,0.0,0.0
+其他西餐,D'Offis,D'Offis,0,,0.0,0.0,0.0
+其他西餐,El Pinxto,El Pinxto,0,,0.0,0.0,0.0
+其他西餐,Houten Clara,Houten Clara,0,,0.0,0.0,0.0
+其他西餐,Mint,Mint,0,,0.0,0.0,0.0
+其他西餐,Rubens Inn,Rubens Inn,0,,0.0,0.0,0.0
+其他西餐,The Bistro,The Bistro,0,,0.0,0.0,0.0
+其他西餐,brasserie Windsor,brasserie Windsor,0,,0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,,0.0,0.0,0.0
+其他西餐,Lunchgarden Galeria Inno,Lunchgarden Galeria Inno,0,,0.0,0.0,0.0
+其他西餐,Monico Meir,Monico Meir,0,,0.0,0.0,0.0
+其他西餐,TonTon Chami,TonTon Chami,0,,0.0,0.0,0.0
+其他西餐,De Sinjoor,De Sinjoor,0,,0.0,0.0,0.0
+其他西餐,Steakhouse El Toro,Steakhouse El Toro,0,,0.0,0.0,0.0
+其他西餐,Goudblomme,Goudblomme,0,,0.0,0.0,0.0
+其他西餐,Bacino,Bacino,0,,0.0,0.0,0.0
+其他西餐,Taverne Rubens,Taverne Rubens,0,,0.0,0.0,0.0
+其他西餐,'t Antwerps Mosselhuis,'t Antwerps Mosselhuis,0,,0.0,0.0,0.0
+其他西餐,Bonaparte,Bonaparte,0,,0.0,0.0,0.0
+其他西餐,De Taloorkes,De Taloorkes,0,,0.0,0.0,0.0
+其他西餐,'t Lastig Portret,'t Lastig Portret,0,,0.0,0.0,0.0
+其他西餐,De Zoltjes,De Zoltjes,0,,0.0,0.0,0.0
+其他西餐,Las Manas,Las Manas,0,,0.0,0.0,0.0
+其他西餐,Casa Manuel,Casa Manuel,0,,0.0,0.0,0.0
+其他西餐,La Volpe,La Volpe,0,,0.0,0.0,0.0
+其他西餐,Grand Cafe Arto's,Grand Cafe Arto's,0,,0.0,0.0,0.0
+其他西餐,Lisboa,Lisboa,0,,0.0,0.0,0.0
+其他西餐,An's Hoeve,An's Hoeve,0,,0.0,0.0,0.0
+其他西餐,Plaasj Kaffee,Plaasj Kaffee,0,,0.0,0.0,0.0
+其他西餐,'t Raedhuys,'t Raedhuys,0,,0.0,0.0,0.0
+其他西餐,Mosselhuis 1888,Mosselhuis 1888,0,贝尔赫姆,0.0,0.0,0.0
+其他西餐,Brasserie Hamburg,Brasserie Hamburg,0,,0.0,0.0,0.0
+中餐,Lam & Yin,Lam & Yin,0,,0.0,0.0,0.0
+中餐,Monkey King,Monkey King,0,,0.0,0.0,0.0
+中餐,Bali House,Bali House,0,贝尔赫姆,0.0,0.0,0.0
+中餐,Ikebana,Ikebana,0,贝尔赫姆,0.0,0.0,0.0
+中餐,Nam Fong,Nam Fong,0,德尔纳,0.0,0.0,0.0
+中餐,NEW NAM FONG,NEW NAM FONG,0,德尔纳,0.0,0.0,0.0
+中餐,Ho Chan House,Ho Chan House,0,,0.0,0.0,0.0
+中餐,Tang's restaurant,Tang's restaurant,0,,0.0,0.0,0.0
+中餐,Lung Wah,Lung Wah,0,,0.0,0.0,0.0
+中餐,Fong Mei,Fong Mei,0,,0.0,0.0,0.0
+中餐,Oriental Delight,Oriental Delight,0,,0.0,0.0,0.0
+中餐,La Parrillada Argentina,La Parrillada Argentina,0,,0.0,0.0,0.0
+中餐,Cuichine,Cuichine,0,贝尔赫姆,0.0,0.0,0.0
+中餐,Liang's Garden,Liang's Garden,0,贝尔赫姆,0.0,0.0,0.0
+中餐,City Palace,City Palace,0,,0.0,0.0,0.0
+中餐,The Best,The Best,0,,0.0,0.0,0.0
+中餐,New Capital,New Capital,0,,0.0,0.0,0.0
+中餐,Lucy Chang,Lucy Chang,0,,0.0,0.0,0.0
+日韩料理,Minato,Minato,0,,0.0,0.0,0.0
+日韩料理,Roji Sushi,Roji Sushi,0,,0.0,0.0,0.0
+日韩料理,Fuji San,Fuji San,0,,0.0,0.0,0.0
+日韩料理,Sushi!,Sushi!,0,,0.0,0.0,0.0
+日韩料理,Osaka,Osaka,0,,0.0,0.0,0.0
+日韩料理,Zaowang,Zaowang,0,,0.0,0.0,0.0
+日韩料理,Zaowang Zuid,Zaowang Zuid,0,,0.0,0.0,0.0
+日韩料理,Sushi Palace,Sushi Palace,0,,0.0,0.0,0.0
+日韩料理,Tokyo - Sushi Bar,Tokyo - Sushi Bar,0,,0.0,0.0,0.0
+日韩料理,Yamayu Santatsu,Yamayu Santatsu,0,,0.0,0.0,0.0
+日韩料理,Korean Restaurant,Korean Restaurant,0,贝尔赫姆,0.0,0.0,0.0
+日韩料理,ko'uzi,ko'uzi,0,,0.0,0.0,0.0
+日韩料理,Arirang,Arirang,0,,0.0,0.0,0.0
+日韩料理,Yuna,Yuna,0,,0.0,0.0,0.0
+日韩料理,Samoerai,Samoerai,0,,0.0,0.0,0.0
+日韩料理,Wasabi Sushi,Wasabi Sushi,0,,0.0,0.0,0.0
+日韩料理,Kaizen Sushi,Kaizen Sushi,0,,0.0,0.0,0.0
+日韩料理,Mio Sushi,Mio Sushi,0,埃克伦,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,,0.0,0.0,0.0
+日韩料理,Esaki,Esaki,0,,0.0,0.0,0.0
+日韩料理,Yadan,Yadan,0,,0.0,0.0,0.0
+日韩料理,Ocean Sushi,Ocean Sushi,0,,0.0,0.0,0.0
+日韩料理,Kaiseki,Kaiseki,0,,0.0,0.0,0.0
+日韩料理,Gorakhali,Gorakhali,0,,0.0,0.0,0.0
+更多亚洲菜,Take-a-Thai,Take-a-Thai,0,,0.0,0.0,0.0
+更多亚洲菜,Sombat Thai Cuisine,Sombat Thai Cuisine,0,,0.0,0.0,0.0
+更多亚洲菜,Kuala Lumpur,Kuala Lumpur,0,,0.0,0.0,0.0
+更多亚洲菜,Umi sushi & asian cuisine,Umi sushi & asian cuisine,0,,0.0,0.0,0.0
+更多亚洲菜,D.k.,D.k.,0,,0.0,0.0,0.0
+更多亚洲菜,Wok Luithagen,Wok Luithagen,0,埃克伦,0.0,0.0,0.0
+更多亚洲菜,Azuma,Azuma,0,,0.0,0.0,0.0
+更多亚洲菜,Namaste,Namaste,0,,0.0,0.0,0.0
+更多亚洲菜,Muradim,Muradim,0,,0.0,0.0,0.0
+更多亚洲菜,Cypro,Cypro,0,,0.0,0.0,0.0
+更多亚洲菜,Sababa Pita-Falafel Shoarma Grill,Sababa Pita-Falafel Shoarma Grill,0,,0.0,0.0,0.0
+更多亚洲菜,"Nepal House, Antwerp Belgium","Nepal House, Antwerp Belgium",0,,0.0,0.0,0.0
+更多亚洲菜,Ballywood,Ballywood,0,,0.0,0.0,0.0
+更多亚洲菜,Cambodia,Cambodia,0,,0.0,0.0,0.0
+更多亚洲菜,Kioku - Oriental Flavours,Kioku - Oriental Flavours,0,,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal,Taj Mahal,0,贝尔赫姆,0.0,0.0,0.0
+更多亚洲菜,Delhi Delicious,Delhi Delicious,0,德尔纳,0.0,0.0,0.0
+更多亚洲菜,Harvest,Harvest,0,德尔纳,0.0,0.0,0.0
+更多亚洲菜,Stereo Sushi,Stereo Sushi,0,,0.0,0.0,0.0
+更多亚洲菜,Taste of India,Taste of India,0,,0.0,0.0,0.0
+更多亚洲菜,Bollywood Indian Restaurant,Bollywood Indian Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Aahaar,Aahaar,0,,0.0,0.0,0.0
+更多亚洲菜,Tjoung Tjoung,Tjoung Tjoung,0,,0.0,0.0,0.0
+更多亚洲菜,Simit Sarayi,Simit Sarayi,0,,0.0,0.0,0.0
+更多亚洲菜,Kartini,Kartini,0,,0.0,0.0,0.0
+更多亚洲菜,Seree Thai,Seree Thai,0,,0.0,0.0,0.0
+更多亚洲菜,Blue Orchid,Blue Orchid,0,,0.0,0.0,0.0
+更多亚洲菜,KOMPIER eethuis,KOMPIER eethuis,0,,0.0,0.0,0.0
+更多亚洲菜,Yeti House,Yeti House,0,,0.0,0.0,0.0
+更多亚洲菜,Pream Pochana,Pream Pochana,0,,0.0,0.0,0.0
+更多亚洲菜,Ploy Pochana,Ploy Pochana,0,,0.0,0.0,0.0
+更多亚洲菜,Q Lounge,Q Lounge,0,,0.0,0.0,0.0
+更多亚洲菜,Pad Thai,Pad Thai,0,贝尔赫姆,0.0,0.0,0.0
+更多亚洲菜,Bij lam & yin,Bij lam & yin,0,伯格霍特,0.0,0.0,0.0
+更多亚洲菜,'T Onschuldig Schaep,'T Onschuldig Schaep,0,,0.0,0.0,0.0
+更多亚洲菜,Muro,Muro,0,,0.0,0.0,0.0
+更多亚洲菜,Yam Thai,Yam Thai,0,,0.0,0.0,0.0
+更多亚洲菜,Namaste gurkha,Namaste gurkha,0,,0.0,0.0,0.0
+更多亚洲菜,Umami,Umami,0,,0.0,0.0,0.0
+更多亚洲菜,River Kwai,River Kwai,0,,0.0,0.0,0.0
+更多亚洲菜,King of Bombay,King of Bombay,0,,0.0,0.0,0.0
+更多亚洲菜,Garden of India,Garden of India,0,,0.0,0.0,0.0
+更多亚洲菜,No No,No No,0,,0.0,0.0,0.0
+更多亚洲菜,Chang Thai Restaurant,Chang Thai Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,A'Thai,A'Thai,0,,0.0,0.0,0.0
+更多亚洲菜,Krua Thai,Krua Thai,0,,0.0,0.0,0.0
+更多亚洲菜,Mama's Garden,Mama's Garden,0,,0.0,0.0,0.0
+更多亚洲菜,Belinda Indonesian Restaurant (BIR),Belinda Indonesian Restaurant (BIR),0,,0.0,0.0,0.0
+更多亚洲菜,Thai Orchids,Thai Orchids,0,,0.0,0.0,0.0
+更多亚洲菜,Urvashi,Urvashi,0,,0.0,0.0,0.0
+更多亚洲菜,My Lan,My Lan,0,,0.0,0.0,0.0
+更多亚洲菜,Little Buddha,Little Buddha,0,,0.0,0.0,0.0
+更多亚洲菜,Wok A Way,Wok A Way,0,,0.0,0.0,0.0
+更多亚洲菜,Wagamamma,Wagamamma,0,,0.0,0.0,0.0
+更多亚洲菜,Asia Taste,Asia Taste,0,,0.0,0.0,0.0
+更多亚洲菜,Yokohama,Yokohama,0,,0.0,0.0,0.0
+快餐简餐,Noodle Bar Bai Wei,Noodle Bar Bai Wei,0,,0.0,0.0,0.0
+快餐简餐,Wagamama,Wagamama,0,,0.0,0.0,0.0
+快餐简餐,Den Beer,Den Beer,0,,0.0,0.0,0.0
+快餐简餐,Barnini,Barnini,0,,0.0,0.0,0.0
+快餐简餐,De SmaakNatie,De SmaakNatie,0,,0.0,0.0,0.0
+快餐简餐,De Burgerij,De Burgerij,0,,0.0,0.0,0.0
+快餐简餐,Burgerij,Burgerij,0,,0.0,0.0,0.0
+海鲜,Vis Atlantic,Vis Atlantic,0,,0.0,0.0,0.0
+海鲜,Bistro Braboke,Bistro Braboke,0,,0.0,0.0,0.0
+海鲜,Visbistro Mojo,Visbistro Mojo,0,,0.0,0.0,0.0
+海鲜,Fiskebar,Fiskebar,0,,0.0,0.0,0.0
+海鲜,Dome sur mer,Dome sur mer,0,贝尔赫姆,0.0,0.0,0.0
+海鲜,Chez Rini,Chez Rini,0,,0.0,0.0,0.0
+烧烤,De Pottekijker,De Pottekijker,0,,0.0,0.0,0.0
+比萨,Food in a Box,Food in a Box,0,,0.0,0.0,0.0
+比萨,La Tarantella,La Tarantella,0,,0.0,0.0,0.0
+比萨,La Torre,La Torre,0,,0.0,0.0,0.0
+咖啡厅,Caffe Mundi,Caffe Mundi,0,,0.0,0.0,0.0
+咖啡厅,'t Blauw Moment,'t Blauw Moment,0,,0.0,0.0,0.0
+咖啡厅,Escobar,Escobar,0,,0.0,0.0,0.0
+咖啡厅,Crumbles & Beans,Crumbles & Beans,0,,0.0,0.0,0.0
+咖啡厅,Broer Bretel,Broer Bretel,0,,0.0,0.0,0.0
+咖啡厅,Normo,Normo,0,,0.0,0.0,0.0
+咖啡厅,Tquiero,Tquiero,0,,0.0,0.0,0.0
+咖啡厅,Het Oud Arsenaal,Het Oud Arsenaal,0,,0.0,0.0,0.0
+咖啡厅,Cuperus,Cuperus,0,,0.0,0.0,0.0
+咖啡厅,Caffe Internazionale,Caffe Internazionale,0,,0.0,0.0,0.0
+咖啡厅,Grand Cafe deSingel,Grand Cafe deSingel,0,,7.1,7.1,7.1
+咖啡厅,Sonseveria,Sonseveria,0,贝尔赫姆,0.0,0.0,0.0
+咖啡厅,De Kat,De Kat,0,,0.0,0.0,0.0
+咖啡厅,Caffenation,Caffenation,0,,0.0,0.0,0.0
+咖啡厅,Palanca,Palanca,0,,0.0,0.0,0.0
+咖啡厅,(eet)cafe ,(eet)cafe ,0,,0.0,0.0,0.0
+咖啡厅,'t Elfde Gebod,'t Elfde Gebod,0,,0.0,0.0,0.0
+咖啡厅,Cafe Storm,Cafe Storm,0,,0.0,0.0,0.0
+咖啡厅,Mon Petit Bol,Mon Petit Bol,0,,0.0,0.0,0.0
+面包甜点,Pierre Marcolini,Pierre Marcolini(Antwerpen店),0,贝尔赫姆,7.3,7.3,7.0
+面包甜点,Quetzal Chocolade Bar,Quetzal Chocolade Bar,0,,0.0,0.0,0.0
+面包甜点,Baked,Baked,0,,0.0,0.0,0.0
+面包甜点,Gelato Factory,Gelato Factory,0,,0.0,0.0,0.0
+面包甜点,Verde Foodbar,Verde Foodbar,0,,0.0,0.0,0.0
+面包甜点,De Biologisch Dynamische Bakkerij,De Biologisch Dynamische Bakkerij,0,,0.0,0.0,0.0
+面包甜点,Moochie,Moochie,0,,0.0,0.0,0.0
+面包甜点,Sabor & Company,Sabor & Company,0,,0.0,0.0,0.0
+面包甜点,Den Boterham,Den Boterham,0,,0.0,0.0,0.0
+面包甜点,Einstein Coffee,Einstein Coffee,0,,0.0,0.0,0.0
+面包甜点,Lints,Lints,0,,0.0,0.0,0.0
+面包甜点,K50,K50,0,,0.0,0.0,0.0
+酒吧,Zar,Zar,0,,0.0,0.0,0.0
+酒吧,Koffie CR,Koffie CR,0,,0.0,0.0,0.0
+酒吧,Bar Cartagena,Bar Cartagena,0,,0.0,0.0,0.0
+酒吧,Peña Al Andalus,Peña Al Andalus,0,,0.0,0.0,0.0
+酒吧,Het Verhaal,Het Verhaal,0,,0.0,0.0,0.0
+酒吧,Simply Emily,Simply Emily,0,,0.0,0.0,0.0
+酒吧,Patine,Patine,0,,0.0,0.0,0.0
+酒吧,Kulminator,Kulminator,0,,0.0,0.0,0.0
+酒吧,Zuiderpershuis,Zuiderpershuis,0,,0.0,0.0,0.0
+酒吧,Plan B,Plan B,0,,0.0,0.0,0.0
+酒吧,Club cabane,Club cabane,0,,0.0,0.0,0.0
+酒吧,'t Antwaerps Bierhuiske,'t Antwaerps Bierhuiske,0,,0.0,0.0,0.0
+酒吧,Melkerij,Melkerij,0,贝尔赫姆,0.0,0.0,0.0
+酒吧,Celeste,Celeste,0,,0.0,0.0,0.0
+酒吧,De Lorraine Antwerp,De Lorraine Antwerp,0,,0.0,0.0,0.0
+酒吧,Ballantines,Ballantines,0,埃克伦,0.0,0.0,0.0
+酒吧,Kapitein Zeppos,Kapitein Zeppos,0,,0.0,0.0,0.0
+酒吧,Pitten en Bonen,Pitten en Bonen,0,,0.0,0.0,0.0
+酒吧,Vertigo,Vertigo,0,贝尔赫姆,0.0,0.0,0.0
+酒吧,Aan het strand van Oostende,Aan het strand van Oostende,0,贝尔赫姆,0.0,0.0,0.0
+酒吧,De Foyer,De Foyer,0,,0.0,0.0,0.0
+酒吧,(eet)cafe ,(eet)cafe ,0,,0.0,0.0,0.0
+酒吧,Zuiderterras,Zuiderterras,0,,0.0,0.0,0.0
+酒吧,Nine Cocktailbar,Nine Cocktailbar,0,,0.0,0.0,0.0
+酒吧,De Pelgrim,De Pelgrim,0,贝尔赫姆,0.0,0.0,0.0
+酒吧,Il Piccolo Peccato,Il Piccolo Peccato,0,贝尔赫姆,0.0,0.0,0.0
+酒吧,Taverne Augustine,Taverne Augustine,0,,0.0,0.0,0.0
+酒吧,Berlin,Berlin,0,,0.0,0.0,0.0
+酒吧,Het Elfde Gebod,Het Elfde Gebod,0,,0.0,0.0,0.0
+酒吧,XO,XO,0,,0.0,0.0,0.0
+酒吧,Zoro,Zoro,0,,0.0,0.0,0.0
+更多美食,DelRey,DelRey,0,,0.0,0.0,0.0
+更多美食,Bistrot La Popote,Bistrot La Popote,0,,0.0,0.0,0.0
+更多美食,De Hovenier,De Hovenier,0,,0.0,0.0,0.0
+更多美食,Eethuisje 't Neuzeke Chez Pe,Eethuisje 't Neuzeke Chez Pe,0,,0.0,0.0,0.0
+更多美食,Den Druiventros,Den Druiventros,0,伯格霍特,0.0,0.0,0.0
+更多美食,Bien Soigne,Bien Soigne,0,,0.0,0.0,0.0
+更多美食,Loncin,Loncin,0,贝尔赫姆,0.0,0.0,0.0
+更多美食,Alexis Glamour Food,Alexis Glamour Food,0,,0.0,0.0,0.0
+更多美食,Spijker,Spijker,0,Wilrijk,0.0,0.0,0.0
+更多美食,De Godevaart,De Godevaart,0,,0.0,0.0,0.0
+更多美食,Hulstkamp,Hulstkamp,0,,0.0,0.0,0.0
+更多美食,Verso,Verso,0,,0.0,0.0,0.0
+更多美食,Ecocafe,Ecocafe,0,伯格霍特,0.0,0.0,0.0
+更多美食,Breakpoint,Breakpoint,0,,0.0,0.0,0.0
+更多美食,Velvet Cafe,Velvet Cafe,0,,0.0,0.0,0.0
+更多美食,Grand Cafe De Rooden Hoed,Grand Cafe De Rooden Hoed,0,,0.0,0.0,0.0
+更多美食,Isola Sarda,Isola Sarda,0,,0.0,0.0,0.0
+更多美食,De Troubadour,De Troubadour,0,贝尔赫姆,0.0,0.0,0.0
+更多美食,Radis Noir,Radis Noir,0,,0.0,0.0,0.0
+更多美食,limel,limel,0,贝尔赫姆,0.0,0.0,0.0
+更多美食,Wasbar,Wasbar,0,,0.0,0.0,0.0
+更多美食,Cafe AMI,Cafe AMI,0,,0.0,0.0,0.0
+更多美食,Viavia Restaurant,Viavia Restaurant,0,,0.0,0.0,0.0
+更多美食,Cafe d'Anvers,Cafe d'Anvers,0,,0.0,0.0,0.0
+更多美食,Bink,Bink,0,,0.0,0.0,0.0
+更多美食,Transat,Transat,0,,0.0,0.0,0.0
+更多美食,Le Red Fox,Le Red Fox,0,,0.0,0.0,0.0
+更多美食,Fratelli,Fratelli,0,,0.0,0.0,0.0
+更多美食,cafe stanny,cafe stanny,0,贝尔赫姆,0.0,0.0,0.0
+更多美食,Desire de Lille,Desire de Lille,0,,0.0,0.0,0.0
+更多美食,Lombardia Anvers Belgique,Lombardia Anvers Belgique,0,,0.0,0.0,0.0
+更多美食,The Square,The Square,0,,0.0,0.0,0.0
+更多美食,La Sirena,La Sirena,0,贝尔赫姆,0.0,0.0,0.0
+更多美食,The Jane,The Jane,0,贝尔赫姆,0.0,0.0,0.0
+更多美食,mendy's,mendy's,0,伯格霍特,0.0,0.0,0.0
+更多美食,Restaurant Zagreb,Restaurant Zagreb,0,伯格霍特,0.0,0.0,0.0
+更多美食,De Violin,De Violin,0,德尔纳,0.0,0.0,0.0
+更多美食,Sardis,Sardis,0,Merksem,0.0,0.0,0.0
+更多美食,Pizza Kardelen,Pizza Kardelen,0,,0.0,0.0,0.0
+更多美食,22b Zoet Zout Enzo,22b Zoet Zout Enzo,0,,0.0,0.0,0.0
+更多美食,beni falafel,beni falafel,0,,0.0,0.0,0.0
+更多美食,Kooktheater a l'Improviste,Kooktheater a l'Improviste,0,,0.0,0.0,0.0
+更多美食,Vitrin,Vitrin,0,,0.0,0.0,0.0
+更多美食,Cyprus,Cyprus,0,,0.0,0.0,0.0
+更多美食,Kloonies,Kloonies,0,,0.0,0.0,0.0
+更多美食,hoffy's,hoffy's,0,,0.0,0.0,0.0
+更多美食,Corto,Corto,0,,0.0,0.0,0.0
+更多美食,Native,Native,0,,0.0,0.0,0.0
+更多美食,Velazquez,Velazquez,0,,0.0,0.0,0.0
+更多美食,de Kafétaria,de Kafétaria,0,,0.0,0.0,0.0
+更多美食,'t Leeuwekopke,'t Leeuwekopke,0,,0.0,0.0,0.0
+更多美食,De Vagant,De Vagant,0,,0.0,0.0,0.0
+更多美食,Daily Roast,Daily Roast,0,,0.0,0.0,0.0
+更多美食,Haarstraat 3,Haarstraat 3,0,,0.0,0.0,0.0
+更多美食,Mangerie 't Asjetje,Mangerie 't Asjetje,0,,0.0,0.0,0.0
+更多美食,De Rosenobel,De Rosenobel,0,,0.0,0.0,0.0
+更多美食,De Bomma,De Bomma,0,,0.0,0.0,0.0
+更多美食,eten vol leven,eten vol leven,0,,0.0,0.0,0.0
+更多美食,Brasseurs,Brasseurs,0,,0.0,0.0,0.0
+更多美食,Tartine,Tartine,0,,0.0,0.0,0.0
+更多美食,Little Ethiopia,Little Ethiopia,0,,0.0,0.0,0.0
+更多美食,Nick's Cafe,Nick's Cafe,0,,0.0,0.0,0.0
+更多美食,Bart-A-Vin,Bart-A-Vin,0,,0.0,0.0,0.0
+更多美食,Badboot,Badboot,0,,0.0,0.0,0.0
+更多美食,Ter Rivierenhof,Ter Rivierenhof,0,伯格霍特,0.0,0.0,0.0
+更多美食,A'muse,A'muse,0,,0.0,0.0,0.0
+更多美食,Zuki Sushi,Zuki Sushi,0,,0.0,0.0,0.0
+更多美食,Brasserie Nero,Brasserie Nero,0,,0.0,0.0,0.0
+更多美食,Ossip,Ossip,0,贝尔赫姆,0.0,0.0,0.0
+更多美食,Brasseria Galliano,Brasseria Galliano,0,贝尔赫姆,0.0,0.0,0.0
+更多美食,Haute Cookure,Haute Cookure,0,德尔纳,0.0,0.0,0.0
+更多美食,Moza,Moza,0,,0.0,0.0,0.0
+更多美食,Mocca,Mocca,0,,0.0,0.0,0.0
+更多美食,Cafe Baba,Cafe Baba,0,,0.0,0.0,0.0
+更多美食,Izumi,Izumi,0,,0.0,0.0,0.0
+更多美食,SMOOTH & TASTY,SMOOTH & TASTY,0,,0.0,0.0,0.0
+更多美食,Bar Tabac,Bar Tabac,0,,0.0,0.0,0.0
+更多美食,L'entrepot du congo,L'entrepot du congo,0,,0.0,0.0,0.0
+更多美食,Zuidcafe,Zuidcafe,0,,0.0,0.0,0.0
+更多美食,Revista,Revista,0,,0.0,0.0,0.0
+更多美食,De broers van Julienne,De broers van Julienne,0,,0.0,0.0,0.0
+更多美食,Grand Cafe Leroy,Grand Cafe Leroy,0,,0.0,0.0,0.0
+更多美食,Velvet Lounge,Velvet Lounge,0,,0.0,0.0,0.0
+更多美食,Café Zurich,Café Zurich,0,,0.0,0.0,0.0
+更多美食,L Epicerie du Cirque,L Epicerie du Cirque,0,,0.0,0.0,0.0
+更多美食,Terra Mia,Terra Mia,0,,0.0,0.0,0.0
+更多美食,Het Gebaar,Het Gebaar,0,,0.0,0.0,0.0
+更多美食,Lunchbox,Lunchbox,0,,0.0,0.0,0.0
+更多美食,Via Via,Via Via,0,,0.0,0.0,0.0
+更多美食,Brasserie Gustav,Brasserie Gustav,0,,0.0,0.0,0.0
+更多美食,Neuze Neuze,Neuze Neuze,0,,0.0,0.0,0.0
+更多美食,mata mata & pilli pilli,mata mata & pilli pilli,0,,0.0,0.0,0.0
+更多美食,Lollapalooza,Lollapalooza,0,,0.0,0.0,0.0
+更多美食,Mai Thai,Mai Thai,0,,0.0,0.0,0.0
+更多美食,'t Parlement,'t Parlement,0,,0.0,0.0,0.0
+更多美食,Den billekletser,Den billekletser,0,,0.0,0.0,0.0
+更多美食,Invincible,Invincible,0,,0.0,0.0,0.0
+更多美食,Antoon van Dijk,Antoon van Dijk,0,,0.0,0.0,0.0
+更多美食,Sir Anthony Van Dijck,Sir Anthony Van Dijck,0,,0.0,0.0,0.0
+更多美食,Queen of Waffles,Queen of Waffles,0,,0.0,0.0,0.0
+更多美食,Ulcke van Zurich,Ulcke van Zurich,0,,0.0,0.0,0.0
+更多美食,A La Ville,A La Ville,0,,0.0,0.0,0.0
+更多美食,Finjan,Finjan,0,,0.0,0.0,0.0
+更多美食,Mie Katoen,Mie Katoen,0,,0.0,0.0,0.0
+更多美食,Bon Bini,Bon Bini,0,,0.0,0.0,0.0
+更多美食,Maison Clic'Eau,Maison Clic'Eau,0,,0.0,0.0,0.0
+更多美食,Den Abattoir,Den Abattoir,0,,0.0,0.0,0.0
+更多美食,ZUM,ZUM,0,,0.0,0.0,0.0
+更多美食,Het Pomphuis,Het Pomphuis,0,,0.0,0.0,0.0
+更多美食,Balls & Glory,Balls & Glory,0,,0.0,0.0,0.0
+更多美食,De Passage,De Passage,0,,0.0,0.0,0.0
+更多美食,Restaurant Canton,Restaurant Canton,0,,0.0,0.0,0.0
+更多美食,Restaurant Mich,Restaurant Mich,0,,0.0,0.0,0.0
+更多美食,Mademoiselle Moustache,Mademoiselle Moustache,0,,0.0,0.0,0.0
+更多美食,Otark Breakfastclub,Otark Breakfastclub,0,,0.0,0.0,0.0
+更多美食,Mandarin,Mandarin,0,贝尔赫姆,0.0,0.0,0.0
+更多美食,Cafe Bazaar,Cafe Bazaar,0,贝尔赫姆,0.0,0.0,0.0
+更多美食,primo,primo,0,贝尔赫姆,0.0,0.0,0.0
+更多美食,Brasserie Van Loock,Brasserie Van Loock,0,伯格霍特,0.0,0.0,0.0
+更多美食,Overvloed,Overvloed,0,伯格霍特,0.0,0.0,0.0
+更多美食,Galle Face Grill Restaurant,Galle Face Grill Restaurant,0,,0.0,0.0,0.0
+更多美食,'t Pakhuis,'t Pakhuis,0,,0.0,0.0,0.0
+更多美食,Le Pain Quotidien,Le Pain Quotidien,0,,0.0,0.0,0.0
+更多美食,Flamant Dining,Flamant Dining,0,,0.0,0.0,0.0
+更多美食,L'Amitie,L'Amitie,0,,0.0,0.0,0.0
+更多美食,Hangar 41,Hangar 41,0,,0.0,0.0,0.0
+更多美食,Grand Cafe Horta,Grand Cafe Horta,0,,0.0,0.0,0.0
+更多美食,Tarbouch,Tarbouch,0,,0.0,0.0,0.0
+更多美食,Fish & Chips,Fish & Chips,0,,0.0,0.0,0.0
+更多美食,Boston Steak House,Boston Steak House,0,,0.0,0.0,0.0
+更多美食,Bife Churrasco,Bife Churrasco,0,,0.0,0.0,0.0
+更多美食,Kelly's Irish Pub,Kelly's Irish Pub,0,,0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,,0.0,0.0,0.0
+更多美食,Ellis Gourmet Burger,Ellis Gourmet Burger,0,,0.0,0.0,0.0
+更多美食,Diamonds and Pearls,Diamonds and Pearls,0,,0.0,0.0,0.0
+更多美食,T' Goe Leven,T' Goe Leven,0,,0.0,0.0,0.0
+更多美食,Pit Anvers,Pit Anvers,0,,0.0,0.0,0.0
+更多美食,'t Fondueke,'t Fondueke,0,,0.0,0.0,0.0
+更多美食,Jeanty's,Jeanty's,0,,0.0,0.0,0.0
+更多美食,Ristorante Rossano,Ristorante Rossano,0,,0.0,0.0,0.0
+更多美食,Eethuis Kookaburra,Eethuis Kookaburra,0,,0.0,0.0,0.0
+更多美食,City Coffee,City Coffee,0,,0.0,0.0,0.0
+更多美食,Felix House,Felix House,0,,0.0,0.0,0.0
+更多美食,Cargo Zomerbar,Cargo Zomerbar,0,,0.0,0.0,0.0
+更多美食,Grande Mediterranee Spaans / Italiaans Restaurant,Grande Mediterranee Spaans / Italiaans Restaurant,0,,0.0,0.0,0.0
+更多美食,Frituur La Patata,Frituur La Patata,0,德尔纳,0.0,0.0,0.0
+更多美食,De Kaasboerin,De Kaasboerin,0,德尔纳,0.0,0.0,0.0
+更多美食,Classics,Classics,0,德尔纳,0.0,0.0,0.0
+更多美食,Pizza Hut,Pizza Hut,0,Merksem,0.0,0.0,0.0
+更多美食,pizzahut,pizzahut,0,,0.0,0.0,0.0
+更多美食,Grand Cafe Den Tir,Grand Cafe Den Tir,0,,0.0,0.0,0.0
+更多美食,De Wael 28,De Wael 28,0,,0.0,0.0,0.0
+更多美食,Saffraan,Saffraan,0,,0.0,0.0,0.0
+更多美食,El Toro Loco,El Toro Loco,0,,0.0,0.0,0.0
+更多美食,Ile Afrik,Ile Afrik,0,,0.0,0.0,0.0
+更多美食,Gusto,Gusto,0,,0.0,0.0,0.0
+更多美食,Bar Cesar,Bar Cesar,0,,0.0,0.0,0.0
+更多美食,Wappertien,Wappertien,0,,0.0,0.0,0.0
+更多美食,Quick,Quick,0,,0.0,0.0,0.0
+更多美食,Terra Cotta Antwerpen,Terra Cotta Antwerpen,0,,0.0,0.0,0.0
+更多美食,La Place,La Place,0,,0.0,0.0,0.0
+更多美食,Frituur Max,Frituur Max,0,,0.0,0.0,0.0
+更多美食,Umi Noodle Bar & Wok To Go,Umi Noodle Bar & Wok To Go,0,,0.0,0.0,0.0
+更多美食,De Grootte Ganz,De Grootte Ganz,0,,0.0,0.0,0.0
+更多美食,Popoff,Popoff,0,,0.0,0.0,0.0
+更多美食,Cafe Delux,Cafe Delux,0,,0.0,0.0,0.0
+更多美食,Ristorante Rosario,Ristorante Rosario,0,,0.0,0.0,0.0
+更多美食,Tropical Inn,Tropical Inn,0,,0.0,0.0,0.0
+更多美食,Plein Midi,Plein Midi,0,,0.0,0.0,0.0
+更多美食,de Kaai,de Kaai,0,,0.0,0.0,0.0
+更多美食,Axxes Cafe,Axxes Cafe,0,,0.0,0.0,0.0
+更多美食,'t Suut Bekske,'t Suut Bekske,0,,0.0,0.0,0.0
+更多美食,Plastik,Plastik,0,,0.0,0.0,0.0

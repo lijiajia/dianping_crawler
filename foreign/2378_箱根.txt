@@ -1,0 +1,156 @@
+日本料理,大涌谷观光中心玉子茶屋,大涌谷观光中心玉子茶屋,10,仙石原/箱根山,8.3,8.1,8.3
+日本料理,田むら銀かつ亭,田むら銀かつ亭,0,强罗/宫之下,8.4,8.7,8.7
+日本料理,料理茶屋 花さがみ,料理茶屋 花さがみ,0,箱根汤本,7.8,7.8,7.8
+日本料理,よし鮨,よし鮨,0,强罗/宫之下,8.5,8.5,8.5
+日本料理,里久rikyu,里久rikyu,0,强罗/宫之下,7.3,7.3,7.3
+日本料理,大正,大正,0,芦之湖,8.3,8.3,8.3
+日本料理,Yubadonnaokichi,Yubadonnaokichi,0,箱根汤本,7.4,7.4,7.4
+日本料理,桃源台景观餐厅,桃源台景观餐厅,0,芦之湖,6.7,8.2,7.4
+日本料理,小田急あしのこ茶屋,小田急あしのこ茶屋,0,芦之湖,7.4,7.4,6.7
+日本料理,はつ花そば蒿麦面,はつ花そば蒿麦面,0,箱根汤本,7.5,6.7,6.7
+日本料理,璎珞,璎珞,0,,8.3,8.3,8.3
+日本料理,本阵,本阵,0,芦之湖,7.3,7.3,7.3
+日本料理,箱根嘻嘻,箱根嘻嘻,0,芦之湖,7.1,7.1,7.1
+日本料理,Tamago Chaya,Tamago Chaya,0,仙石原/箱根山,7.4,6.7,6.7
+日本料理,Sushimiyafuji,Sushimiyafuji,0,强罗/宫之下,0.0,0.0,0.0
+日本料理,Tamura Ginkatutei,Tamura Ginkatutei,0,强罗/宫之下,0.0,0.0,0.0
+日本料理,Ginkatsu Kobou,Ginkatsu Kobou,0,强罗/宫之下,0.0,0.0,0.0
+日本料理,Hakonesaryo Chinzanso,Hakonesaryo Chinzanso,0,强罗/宫之下,0.0,0.0,0.0
+日本料理,Sobakiri Izayoi,Sobakiri Izayoi,0,箱根汤本,0.0,0.0,0.0
+日本料理,Tai Gohan Kaiseki Yoraku,Tai Gohan Kaiseki Yoraku,0,箱根汤本,0.0,0.0,0.0
+日本料理,Daichi,Daichi,0,仙石原/箱根山,0.0,0.0,0.0
+日本料理,Stew&Curry Mizumitei,Stew&Curry Mizumitei,0,芦之湖,0.0,0.0,0.0
+日本料理,Steak House Yoshiike,Steak House Yoshiike,0,箱根汤本,0.0,0.0,0.0
+日本料理,Nisshin Tei,Nisshin Tei,0,箱根汤本,0.0,0.0,0.0
+日本料理,Ginnoho,Ginnoho,0,仙石原/箱根山,0.0,0.0,0.0
+日本料理,Cafe Restaurant Shunsai,Cafe Restaurant Shunsai,0,强罗/宫之下,0.0,0.0,0.0
+日本料理,Kamaya,Kamaya,0,仙石原/箱根山,0.0,0.0,0.0
+日本料理,Honjin,Honjin,0,芦之湖,0.0,0.0,0.0
+日本料理,Hakone Akakura,Hakone Akakura,0,芦之湖,0.0,0.0,0.0
+日本料理,Kaisekiryori Kadan,Kaisekiryori Kadan,0,强罗/宫之下,0.0,0.0,0.0
+日本料理,Oan,Oan,0,箱根汤本,0.0,0.0,0.0
+日本料理,Hyosekikaku,Hyosekikaku,0,仙石原/箱根山,0.0,0.0,0.0
+日本料理,Jiyoryori Yamaboshi,Jiyoryori Yamaboshi,0,箱根汤本,0.0,0.0,0.0
+日本料理,Madam Sun,Madam Sun,0,强罗/宫之下,0.0,0.0,0.0
+日本料理,Shizukutei,Shizukutei,0,仙石原/箱根山,0.0,0.0,0.0
+日本料理,Hoteruhatsuhana,Hoteruhatsuhana,0,箱根汤本,0.0,0.0,0.0
+日本料理,Yamahiko Sushi,Yamahiko Sushi,0,强罗/宫之下,0.0,0.0,0.0
+日本料理,Restaurant Trout,Restaurant Trout,0,芦之湖,0.0,0.0,0.0
+日本料理,箱根寿司,箱根寿司,0,仙石原/箱根山,0.0,0.0,0.0
+日本料理,富士见茶屋,富士见茶屋,0,,0.0,0.0,0.0
+日本料理,福よし,福よし,0,,0.0,0.0,0.0
+日本料理,懐石,懐石,0,强罗/宫之下,0.0,0.0,0.0
+日本料理,花さがみ,花さがみ,0,芦之湖,0.0,0.0,0.0
+日本料理,中村家,中村家,0,箱根汤本,0.0,0.0,0.0
+日本料理,强罗花坛怀石料理,强罗花坛怀石料理,0,,0.0,0.0,0.0
+日本料理,鮨 みやふじ,鮨 みやふじ,0,强罗/宫之下,0.0,0.0,0.0
+日本料理,知客茶家,知客茶家,0,芦之湖,0.0,0.0,0.0
+东南亚菜,Azure Moon,Azure Moon,0,仙石原/箱根山,0.0,0.0,0.0
+中餐,香华,香华,0,,7.1,7.0,7.1
+中餐,Salon de The Rosage,Salon de The Rosage,0,芦之湖,0.0,0.0,0.0
+中餐,Tsubosen Kaennokomichi,Tsubosen Kaennokomichi,0,仙石原/箱根山,0.0,0.0,0.0
+中餐,Wangfujing,Wangfujing,0,强罗/宫之下,0.0,0.0,0.0
+中餐,Tea Lounge Orchid,Tea Lounge Orchid,0,强罗/宫之下,0.0,0.0,0.0
+中餐,箱根飲茶楼,箱根飲茶楼,0,强罗/宫之下,0.0,0.0,0.0
+中餐,翆阳エクシブ箱根离宫,翆阳エクシブ箱根离宫,0,强罗/宫之下,0.0,0.0,0.0
+西式正餐,ITOH DINING by NOBU,ITOH DINING by NOBU,0,强罗/宫之下,8.7,8.7,8.5
+西式正餐,Le Petit Prince,Le Petit Prince,0,仙石原/箱根山,7.5,8.5,7.9
+西式正餐,RESTAURANT ROI,RESTAURANT ROI,0,强罗/宫之下,8.3,8.3,8.3
+西式正餐,La Terrazza,La Terrazza,0,芦之湖,7.4,8.2,8.2
+西式正餐,Arei,Arei,0,仙石原/箱根山,7.4,7.4,7.4
+西式正餐,The Fujiya,The Fujiya,0,强罗/宫之下,0.0,0.0,0.0
+西式正餐,Antiepasta,Antiepasta,0,强罗/宫之下,0.0,0.0,0.0
+西式正餐,Veruboa,Veruboa,0,芦之湖,0.0,0.0,0.0
+西式正餐,The Dining Room,The Dining Room,0,强罗/宫之下,0.0,0.0,0.0
+西式正餐,Grill Wisteria,Grill Wisteria,0,强罗/宫之下,0.0,0.0,0.0
+西式正餐,Choudumeya,Choudumeya,0,仙石原/箱根山,0.0,0.0,0.0
+西式正餐,Restaurant Le Trianon (The Prince Hakone ),Restaurant Le Trianon (The Prince Hakone ),0,芦之湖,0.0,0.0,0.0
+西式正餐,Primera Hotel Laforet Gora,Primera Hotel Laforet Gora,0,强罗/宫之下,0.0,0.0,0.0
+西式正餐,La Foret,La Foret,0,仙石原/箱根山,0.0,0.0,0.0
+西式正餐,Cafe & Pizza ASSO Sengokuhara,Cafe & Pizza ASSO Sengokuhara,0,仙石原/箱根山,0.0,0.0,0.0
+西式正餐,La Bazza,La Bazza,0,强罗/宫之下,0.0,0.0,0.0
+西式正餐,Neo Bistro Le Virgule,Neo Bistro Le Virgule,0,仙石原/箱根山,0.0,0.0,0.0
+西式正餐,Yoshokusukotto,Yoshokusukotto,0,箱根汤本,0.0,0.0,0.0
+西式正餐,Albergo bamboo,Albergo bamboo,0,仙石原/箱根山,0.0,0.0,0.0
+西式正餐,Gurinhirusoan,Gurinhirusoan,0,仙石原/箱根山,0.0,0.0,0.0
+西式正餐,Aruberugobanbu,Aruberugobanbu,0,仙石原/箱根山,0.0,0.0,0.0
+西式正餐,LYS,LYS,0,仙石原/箱根山,0.0,0.0,0.0
+西式正餐,RESTAURANT Array,RESTAURANT Array,0,仙石原/箱根山,0.0,0.0,0.0
+西式正餐,Chozumeya,Chozumeya,0,仙石原/箱根山,0.0,0.0,0.0
+西式快餐,Solo Pizza,Solo Pizza,0,仙石原/箱根山,0.0,0.0,0.0
+西式快餐,Resutorankinoyakata,Resutorankinoyakata,0,芦之湖,0.0,0.0,0.0
+酒吧,Iroriya,Iroriya,0,强罗/宫之下,0.0,0.0,0.0
+小吃,Gyoza Center,Gyoza Center,0,强罗/宫之下,7.5,8.5,8.5
+小吃,Hatsuhana Soba Honten,Hatsuhana Soba Honten,0,箱根汤本,8.4,8.4,8.4
+小吃,手打荞麦 彦,手打荞麦 彦,0,箱根汤本,8.0,8.0,8.0
+小吃,Fukuyoshi,Fukuyoshi,0,强罗/宫之下,7.4,6.7,6.7
+小吃,Hatsuhana Soba Shinkan,Hatsuhana Soba Shinkan,0,箱根汤本,0.0,0.0,0.0
+小吃,Mendokoro Sai,Mendokoro Sai,0,箱根汤本,0.0,0.0,0.0
+小吃,Yamasoba,Yamasoba,0,箱根汤本,0.0,0.0,0.0
+小吃,Takeyabu Hakoneten,Takeyabu Hakoneten,0,芦之湖,0.0,0.0,0.0
+小吃,Shinsho Soba,Shinsho Soba,0,芦之湖,0.0,0.0,0.0
+小吃,Chainahausu,Chainahausu,0,仙石原/箱根山,0.0,0.0,0.0
+小吃,Jihei,Jihei,0,箱根汤本,0.0,0.0,0.0
+小吃,Chikuzen,Chikuzen,0,箱根汤本,0.0,0.0,0.0
+小吃,Nakamura,Nakamura,0,强罗/宫之下,0.0,0.0,0.0
+小吃,Kamako,Kamako,0,箱根汤本,0.0,0.0,0.0
+小吃,Hakoneakatsukian,Hakoneakatsukian,0,箱根汤本,0.0,0.0,0.0
+小吃,Hakoneen Nanakamado,Hakoneen Nanakamado,0,芦之湖,0.0,0.0,0.0
+小吃,Sobakiriiwasaki,Sobakiriiwasaki,0,仙石原/箱根山,0.0,0.0,0.0
+小吃,Sobadokorotsuchiya,Sobadokorotsuchiya,0,芦之湖,0.0,0.0,0.0
+小吃,Sobadokorohoshinoan,Sobadokorohoshinoan,0,仙石原/箱根山,0.0,0.0,0.0
+小吃,Kirakuso,Kirakuso,0,强罗/宫之下,0.0,0.0,0.0
+小吃,Yamaga,Yamaga,0,芦之湖,0.0,0.0,0.0
+咖啡厅,玻璃之森咖啡馆,玻璃之森咖啡馆,0,仙石原/箱根山,7.5,7.5,7.5
+咖啡厅,季節風,季節風,0,芦之湖,7.4,7.4,8.3
+咖啡厅,Terrazza Cafe,Terrazza Cafe,0,仙石原/箱根山,0.0,0.0,0.0
+咖啡厅,Naraya Cafe,Naraya Cafe,0,强罗/宫之下,0.0,0.0,0.0
+咖啡厅,Pannomimi,Pannomimi,0,强罗/宫之下,0.0,0.0,0.0
+咖啡厅,Tea Lounge Kisetsufu,Tea Lounge Kisetsufu,0,芦之湖,0.0,0.0,0.0
+咖啡厅,Woody,Woody,0,强罗/宫之下,0.0,0.0,0.0
+咖啡厅,Le Petit Prlance,Le Petit Prlance,0,仙石原/箱根山,0.0,0.0,0.0
+咖啡厅,Cafe de motonami,Cafe de motonami,0,强罗/宫之下,0.0,0.0,0.0
+咖啡厅,Gallery Cafe,Gallery Cafe,0,,6.9,6.9,6.9
+咖啡厅,Salom de the ROSAGE,Salom de the ROSAGE,0,芦之湖,0.0,0.0,0.0
+面包甜点,菜之花和果子,菜之花和果子,0,箱根汤本,7.0,6.8,7.0
+面包甜点,箱根焙煎咖啡,箱根焙煎咖啡,0,箱根汤本,7.9,7.9,7.8
+面包甜点,豆腐处狄野,豆腐处狄野,0,箱根汤本,6.9,6.7,7.0
+面包甜点,Marushima Honten,Marushima Honten,0,箱根汤本,0.0,0.0,0.0
+面包甜点,Hime Shara,Hime Shara,0,箱根汤本,0.0,0.0,0.0
+面包甜点,Living Room,Living Room,0,强罗/宫之下,0.0,0.0,0.0
+面包甜点,Hakonebekari,Hakonebekari,0,箱根汤本,0.0,0.0,0.0
+面包甜点,Kikukawashoten,Kikukawashoten,0,箱根汤本,0.0,0.0,0.0
+面包甜点,Wagashi Nanohana,Wagashi Nanohana,0,箱根汤本,0.0,0.0,0.0
+面包甜点,Chimoto,Chimoto,0,箱根汤本,0.0,0.0,0.0
+面包甜点,Lucky's cafe,Lucky's cafe,0,仙石原/箱根山,0.0,0.0,0.0
+面包甜点,Watanabebekari,Watanabebekari,0,强罗/宫之下,0.0,0.0,0.0
+面包甜点,PICOT,PICOT,0,强罗/宫之下,0.0,0.0,0.0
+面包甜点,GRANDE RIVIERE Hakone,GRANDE RIVIERE Hakone,0,仙石原/箱根山,0.0,0.0,0.0
+面包甜点,Sugiyohoenhakoneten,Sugiyohoenhakoneten,0,箱根汤本,0.0,0.0,0.0
+面包甜点,Hanakotoba,Hanakotoba,0,箱根其他,0.0,0.0,0.0
+面包甜点,Ashigarabakushin Mugishi,Ashigarabakushin Mugishi,0,箱根汤本,0.0,0.0,0.0
+面包甜点,Sabonanohana,Sabonanohana,0,箱根汤本,0.0,0.0,0.0
+面包甜点,Ochadokoro Hagi,Ochadokoro Hagi,0,箱根汤本,0.0,0.0,0.0
+面包甜点,Hiroshiya,Hiroshiya,0,芦之湖,0.0,0.0,0.0
+其他美食,Bakery & Table Hakone,Bakery & Table Hakone,0,芦之湖,6.7,8.4,7.5
+其他美食,GRANDVERT,GRANDVERT,0,强罗/宫之下,7.4,7.4,7.4
+其他美食,Togendai View Restaurant,Togendai View Restaurant,0,芦之湖,0.0,0.0,0.0
+其他美食,Meshidokorodaiwa,Meshidokorodaiwa,0,强罗/宫之下,0.0,0.0,0.0
+其他美食,Yamayasu Himono Yumoto Yamazato,Yamayasu Himono Yumoto Yamazato,0,箱根汤本,0.0,0.0,0.0
+其他美食,Hotel Okada,Hotel Okada,0,箱根汤本,0.0,0.0,0.0
+其他美食,Shikajaya,Shikajaya,0,箱根汤本,0.0,0.0,0.0
+其他美食,Kikka-so,Kikka-so,0,强罗/宫之下,0.0,0.0,0.0
+其他美食,Fujiya,Fujiya,0,箱根汤本,0.0,0.0,0.0
+其他美食,Restaurant Bright,Restaurant Bright,0,芦之湖,0.0,0.0,0.0
+其他美食,Auberge Au Mirador,Auberge Au Mirador,0,芦之湖,0.0,0.0,0.0
+其他美食,Hakone Curry Cocoro,Hakone Curry Cocoro,0,箱根汤本,0.0,0.0,0.0
+其他美食,Gindofu,Gindofu,0,强罗/宫之下,0.0,0.0,0.0
+其他美食,Chinese Cuisine Taigen,Chinese Cuisine Taigen,0,仙石原/箱根山,0.0,0.0,0.0
+其他美食,Tofudokoro Hagino,Tofudokoro Hagino,0,箱根汤本,0.0,0.0,0.0
+其他美食,Koroniarumirado,Koroniarumirado,0,芦之湖,0.0,0.0,0.0
+其他美食,Minoya Kichibe Hakone Yumoto,Minoya Kichibe Hakone Yumoto,0,箱根汤本,0.0,0.0,0.0
+其他美食,Hakonesasato-fu Katsumata,Hakonesasato-fu Katsumata,0,仙石原/箱根山,0.0,0.0,0.0
+其他美食,Kikugawa Manju,Kikugawa Manju,0,箱根汤本,0.0,0.0,0.0
+其他美食,Toyoshimatofuten,Toyoshimatofuten,0,强罗/宫之下,0.0,0.0,0.0
+其他美食,IL MIRAGGIO,IL MIRAGGIO,0,芦之湖,0.0,0.0,0.0
+其他美食,姫沙羅,姫沙羅,0,箱根汤本,0.0,0.0,0.0

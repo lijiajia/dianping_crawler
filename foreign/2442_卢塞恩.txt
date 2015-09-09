@@ -1,0 +1,329 @@
+意大利菜,Da Ernesto,Da Ernesto,0,Old Town,8.1,8.1,8.1
+意大利菜,Angolo Pizza & Pasta,Angolo Pizza & Pasta,0,卢塞恩湖畔,6.2,6.6,6.6
+意大利菜,Barbatti,Barbatti,0,Old Town,6.9,6.9,6.9
+意大利菜,Trattoria Pizzeria da Vittorio,Trattoria Pizzeria da Vittorio,0,卢塞恩地铁区,7.5,7.5,8.4
+意大利菜,Valentino,Valentino,0,Old Town,0.0,0.0,0.0
+意大利菜,Le Stelle Ristorante,Le Stelle Ristorante,0,Old Town,0.0,0.0,0.0
+意大利菜,Ristorante Rossini,Ristorante Rossini,0,,8.4,7.5,7.5
+意大利菜,Restaurant Einhorn - Pizzeria da Tommaso,Restaurant Einhorn - Pizzeria da Tommaso,0,Old Town,0.0,0.0,0.0
+意大利菜,Ristorante Toscana,Ristorante Toscana,0,Old Town,0.0,0.0,0.0
+意大利菜,Pizzeria Ciao,Pizzeria Ciao,0,其他,0.0,0.0,0.0
+意大利菜,Paninoteca Da Mario,Paninoteca Da Mario,0,,0.0,0.0,0.0
+意大利菜,Restaurant Caravelle,Restaurant Caravelle,0,,0.0,0.0,0.0
+意大利菜,Angolo Pizza,Angolo Pizza,0,,0.0,0.0,0.0
+意大利菜,La Perla,La Perla,0,,0.0,0.0,0.0
+意大利菜,Basilico,Basilico,0,,0.0,0.0,0.0
+意大利菜,Restaurant Opus,Restaurant Opus,0,,0.0,0.0,0.0
+意大利菜,Cafe Bar Lokal,Cafe Bar Lokal,0,,0.0,0.0,0.0
+意大利菜,Bellini Ristorante Ticinese,Bellini Ristorante Ticinese,0,,0.0,0.0,0.0
+意大利菜,Le Stelle Ristorante,Le Stelle Ristorante,0,,0.0,0.0,0.0
+意大利菜,Schlossli Utenberg,Schlossli Utenberg,0,,0.0,0.0,0.0
+意大利菜,Trattoria Pizzeria da Vittorio,Trattoria Pizzeria da Vittorio,0,,0.0,0.0,0.0
+意大利菜,RistorantePizzeria Zum Weissen Kreuz,RistorantePizzeria Zum Weissen Kreuz,0,,0.0,0.0,0.0
+意大利菜,Valentino,Valentino,0,,0.0,0.0,0.0
+意大利菜,Militargarten,Militargarten,0,,0.0,0.0,0.0
+意大利菜,Alfred Caffebar,Alfred Caffebar,0,,0.0,0.0,0.0
+意大利菜,Restaurant Einhorn - Pizzeria da Tommaso,Restaurant Einhorn - Pizzeria da Tommaso,0,,0.0,0.0,0.0
+意大利菜,SCALA RESTAURANT - Art Deco Hotel Montana,SCALA RESTAURANT - Art Deco Hotel Montana,0,,0.0,0.0,0.0
+意大利菜,Villa Hausermatte,Villa Hausermatte,0,,0.0,0.0,0.0
+意大利菜,Grottino 1313,Grottino 1313,0,,0.0,0.0,0.0
+意大利菜,Jam Jam,Jam Jam,0,,0.0,0.0,0.0
+意大利菜,La Cucina,La Cucina,0,,0.0,0.0,0.0
+意大利菜,Pavarotti,Pavarotti,0,,0.0,0.0,0.0
+意大利菜,Daniele Winebar-Restaurant-Lounge,Daniele Winebar-Restaurant-Lounge,0,,0.0,0.0,0.0
+意大利菜,La Fenice,La Fenice,0,,0.0,0.0,0.0
+意大利菜,Restaurant Padrino,Restaurant Padrino,0,,0.0,0.0,0.0
+意大利菜,La Gondola,La Gondola,0,,0.0,0.0,0.0
+意大利菜,Pizzeria Ciao,Pizzeria Ciao,0,,0.0,0.0,0.0
+意大利菜,Restaurant Portofino,Restaurant Portofino,0,,0.0,0.0,0.0
+意大利菜,Mamma Leone,Mamma Leone,0,,0.0,0.0,0.0
+法国菜,Brasserie Joel's Restaurant,Brasserie Joel's Restaurant,0,Old Town,7.5,7.5,7.5
+法国菜,Wirtschaft zur Ente,Wirtschaft zur Ente,0,卢塞恩地铁区,0.0,0.0,0.0
+法国菜,Brasserie Joel s Restaurant,Brasserie Joel s Restaurant,0,,0.0,0.0,0.0
+法国菜,Restaurant Thorenberg Maximo,Restaurant Thorenberg Maximo,0,,0.0,0.0,0.0
+法国菜,Wirtschaft zur Ente,Wirtschaft zur Ente,0,,0.0,0.0,0.0
+法国菜,Brasserie Chez Bodu,Brasserie Chez Bodu,0,,0.0,0.0,0.0
+墨西哥菜,Xalisco,Xalisco,0,,0.0,0.0,0.0
+墨西哥菜,Crazy Cactus,Crazy Cactus,0,,0.0,0.0,0.0
+墨西哥菜,Mexxx,Mexxx,0,,0.0,0.0,0.0
+墨西哥菜,Pacifico,Pacifico,0,,0.0,0.0,0.0
+其他西餐,Old Swiss House,Old Swiss House,0,卢塞恩湖畔,7.3,7.7,7.7
+其他西餐,Bodu,Bodu,0,,8.4,7.5,8.4
+其他西餐,stern,stern,0,,7.6,7.6,7.3
+其他西餐,Restaurant Wiederkehr,Restaurant Wiederkehr,0,,7.4,8.1,8.1
+其他西餐,Chimney's Steakhouse,Chimney's Steakhouse,0,Old Town,8.3,8.3,8.3
+其他西餐,Fritschi,Fritschi,0,Old Town,6.8,6.8,6.5
+其他西餐,Restaurant Olivo,Restaurant Olivo,0,卢塞恩湖畔,6.7,7.4,7.4
+其他西餐,Nix s in der Laterne,Nix s in der Laterne,0,,8.3,8.3,8.3
+其他西餐,Konditorei & Cafe Heini,Konditorei & Cafe Heini,0,Old Town,0.0,0.0,0.0
+其他西餐,Balances,Balances,0,Old Town,0.0,0.0,0.0
+其他西餐,Bolero Restaurant & Lounge,Bolero Restaurant & Lounge,0,卢塞恩地铁区,0.0,0.0,0.0
+其他西餐,Manor Department Store Cafeteria,Manor Department Store Cafeteria,0,Old Town,0.0,0.0,0.0
+其他西餐,Storchen Cafe & Bar,Storchen Cafe & Bar,0,Old Town,0.0,0.0,0.0
+其他西餐,Wirtshaus Taube,Wirtshaus Taube,0,卢塞恩湖畔,8.4,8.4,8.4
+其他西餐,Swiss Stuebli,Swiss Stuebli,0,卢塞恩湖畔,0.0,0.0,0.0
+其他西餐,Restaurant Chateau Guetsch,Restaurant Chateau Guetsch,0,其他,0.0,0.0,0.0
+其他西餐,Pilatus Kulm,Pilatus Kulm,0,卢塞恩地铁区,0.0,0.0,0.0
+其他西餐,Toni's Smash,Toni's Smash,0,卢塞恩湖畔,0.0,0.0,0.0
+其他西餐,Cabanas,Cabanas,0,Ober Gutsch Area,0.0,0.0,0.0
+其他西餐,Soul Chicken,Soul Chicken,0,Old Town,0.0,0.0,0.0
+其他西餐,Schloss Swiss Chalet,Schloss Swiss Chalet,0,其他,0.0,0.0,0.0
+其他西餐,"Seehotel, Kastanienbaum, Lucerne","Seehotel, Kastanienbaum, Lucerne",0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Thorenberg Maximo,Restaurant Thorenberg Maximo,0,其他,0.0,0.0,0.0
+其他西餐,Latino Restaurant,Latino Restaurant,0,卢塞恩地铁区,0.0,0.0,0.0
+其他西餐,Zunfthausrestaurant Pfistern,Zunfthausrestaurant Pfistern,0,,0.0,0.0,0.0
+其他西餐,Stadtkeller Swiss Folklore Restaurant,Stadtkeller Swiss Folklore Restaurant,0,,0.0,0.0,0.0
+其他西餐,Hofgarten,Hofgarten,0,,0.0,0.0,0.0
+其他西餐,Istanbul Grill,Istanbul Grill,0,,0.0,0.0,0.0
+其他西餐,Restaurant Lapin,Restaurant Lapin,0,,0.0,0.0,0.0
+其他西餐,Hotel des Alpes Restaurant,Hotel des Alpes Restaurant,0,,0.0,0.0,0.0
+其他西餐,Restaurant Rathaus Brauerei Luzern,Restaurant Rathaus Brauerei Luzern,0,,0.0,0.0,0.0
+其他西餐,Ruanthai Take Away,Ruanthai Take Away,0,,0.0,0.0,0.0
+其他西餐,Coop Restaurant,Coop Restaurant,0,,0.0,0.0,0.0
+其他西餐,Pizzeria da Milo,Pizzeria da Milo,0,,0.0,0.0,0.0
+其他西餐,Cafeteria Emilio,Cafeteria Emilio,0,,0.0,0.0,0.0
+其他西餐,Prizzi,Prizzi,0,,0.0,0.0,0.0
+其他西餐,Unicum Lucerne,Unicum Lucerne,0,,0.0,0.0,0.0
+其他西餐,Baccara,Baccara,0,,0.0,0.0,0.0
+其他西餐,Cafe-Bar Mardi Gras,Cafe-Bar Mardi Gras,0,,0.0,0.0,0.0
+其他西餐,Kostgeberei,Kostgeberei,0,,0.0,0.0,0.0
+其他西餐,Wirtschaft zum Schuetzenhaus,Wirtschaft zum Schuetzenhaus,0,,0.0,0.0,0.0
+其他西餐,Stedtkeller Restaurant,Stedtkeller Restaurant,0,Old Town,0.0,0.0,0.0
+其他西餐,Brasserie Flora,Brasserie Flora,0,,0.0,0.0,0.0
+其他西餐,Restaurant Geissmatt,Restaurant Geissmatt,0,,0.0,0.0,0.0
+其他西餐,CrazyCupCake Cafe,CrazyCupCake Cafe,0,,0.0,0.0,0.0
+其他西餐,Au Premier,Au Premier,0,,0.0,0.0,0.0
+其他西餐,Hotel Seeburg,Hotel Seeburg,0,,0.0,0.0,0.0
+其他西餐,St. Magdalena,St. Magdalena,0,,0.0,0.0,0.0
+其他西餐,Mr. Pickwick Pub,Mr. Pickwick Pub,0,,0.0,0.0,0.0
+其他西餐,Shamrock Irish Pub,Shamrock Irish Pub,0,,0.0,0.0,0.0
+其他西餐,Restaurant Panorama,Restaurant Panorama,0,,0.0,0.0,0.0
+其他西餐,Restaurant Reussbad  Las Torres,Restaurant Reussbad  Las Torres,0,,0.0,0.0,0.0
+其他西餐,Jasper,Jasper,0,,0.0,0.0,0.0
+其他西餐,Bar Leon,Bar Leon,0,,0.0,0.0,0.0
+其他西餐,Sternegg,Sternegg,0,,0.0,0.0,0.0
+其他西餐,Masala,Masala,0,,0.0,0.0,0.0
+其他西餐,Les Artistes,Les Artistes,0,,0.0,0.0,0.0
+其他西餐,Waldstatterhof Restaurant,Waldstatterhof Restaurant,0,,0.0,0.0,0.0
+其他西餐,Gasthaus Ochsen,Gasthaus Ochsen,0,,0.0,0.0,0.0
+其他西餐,Chill s,Chill s,0,,0.0,0.0,0.0
+其他西餐,Sauvage,Sauvage,0,,0.0,0.0,0.0
+其他西餐,Drei Konige,Drei Konige,0,,0.0,0.0,0.0
+其他西餐,Schuler Weinwirtschaft La bonne Cave,Schuler Weinwirtschaft La bonne Cave,0,,0.0,0.0,0.0
+其他西餐,Rote Perle,Rote Perle,0,,0.0,0.0,0.0
+其他西餐,De La Paix Lucerne,De La Paix Lucerne,0,,0.0,0.0,0.0
+其他西餐,Parterre,Parterre,0,,0.0,0.0,0.0
+其他西餐,Galerie (Schweizerhof),Galerie (Schweizerhof),0,,0.0,0.0,0.0
+其他西餐,The Lounge,The Lounge,0,,0.0,0.0,0.0
+其他西餐,Mövenpick Kantonalbank,Mövenpick Kantonalbank,0,,0.0,0.0,0.0
+其他西餐,Cabanas,Cabanas,0,,0.0,0.0,0.0
+其他西餐,Toni s Smash,Toni s Smash,0,,0.0,0.0,0.0
+其他西餐,Titlis-Huette,Titlis-Huette,0,,0.0,0.0,0.0
+其他西餐,Restaurant bim buume Hannes Baumann,Restaurant bim buume Hannes Baumann,0,,0.0,0.0,0.0
+其他西餐,Bistro du Theatre,Bistro du Theatre,0,,0.0,0.0,0.0
+其他西餐,Luz Seebistro,Luz Seebistro,0,,0.0,0.0,0.0
+其他西餐,Sirtaki,Sirtaki,0,,0.0,0.0,0.0
+其他西餐,Storchen Cafe,Storchen Cafe,0,,0.0,0.0,0.0
+其他西餐,Restaurant Davis Luzern,Restaurant Davis Luzern,0,,0.0,0.0,0.0
+其他西餐,la Sinfonia,la Sinfonia,0,,0.0,0.0,0.0
+其他西餐,Schiff,Schiff,0,,0.0,0.0,0.0
+其他西餐,Shine,Shine,0,,0.0,0.0,0.0
+其他西餐,Soul Chicken,Soul Chicken,0,,0.0,0.0,0.0
+其他西餐,Gastronomie Zu Wasser,Gastronomie Zu Wasser,0,,0.0,0.0,0.0
+其他西餐,Euro-Thai Food,Euro-Thai Food,0,,0.0,0.0,0.0
+其他西餐,Mirch Masala Restaurant,Mirch Masala Restaurant,0,,0.0,0.0,0.0
+其他西餐,Swiss Stuebli,Swiss Stuebli,0,,0.0,0.0,0.0
+其他西餐,gartenHAUS 1313,gartenHAUS 1313,0,,0.0,0.0,0.0
+其他西餐,Bolero Restaurant,Bolero Restaurant,0,,0.0,0.0,0.0
+其他西餐,Wilden Mann,Wilden Mann,0,,0.0,0.0,0.0
+其他西餐,Restaurant Olivo,Restaurant Olivo,0,,0.0,0.0,0.0
+其他西餐,Martini Stube,Martini Stube,0,Old Town,0.0,0.0,0.0
+其他西餐,Schluessel,Schluessel,0,,0.0,0.0,0.0
+其他西餐,Dean and David LU,Dean and David LU,0,,0.0,0.0,0.0
+其他西餐,Hermitage,Hermitage,0,,0.0,0.0,0.0
+其他西餐,Barbès,Barbès,0,,0.0,0.0,0.0
+其他西餐,Restaurant Moosmatt,Restaurant Moosmatt,0,,0.0,0.0,0.0
+其他西餐,Hopfenkranz,Hopfenkranz,0,,0.0,0.0,0.0
+其他西餐,Restaurant Luce,Restaurant Luce,0,,0.0,0.0,0.0
+其他西餐,Felsenegg,Felsenegg,0,,0.0,0.0,0.0
+其他西餐,Casa Tolone,Casa Tolone,0,,0.0,0.0,0.0
+其他西餐,Rebstock,Rebstock,0,,0.0,0.0,0.0
+其他西餐,Maihofli,Maihofli,0,,0.0,0.0,0.0
+其他西餐,Schiffrestaurant Wilhelm Tell,Schiffrestaurant Wilhelm Tell,0,,0.0,0.0,0.0
+其他西餐,Manor Department Store Cafeteria,Manor Department Store Cafeteria,0,,0.0,0.0,0.0
+其他西餐,Confiserie Speck,Confiserie Speck,0,,0.0,0.0,0.0
+其他西餐,Piccard,Piccard,0,,0.0,0.0,0.0
+其他西餐,City Restaurant,City Restaurant,0,,0.0,0.0,0.0
+其他西餐,St. Petersstube - Hotel des Alpes,St. Petersstube - Hotel des Alpes,0,,0.0,0.0,0.0
+其他西餐,Seebar,Seebar,0,,0.0,0.0,0.0
+其他西餐,Max,Max,0,,0.0,0.0,0.0
+其他西餐,Tintoretto,Tintoretto,0,,0.0,0.0,0.0
+其他西餐,Green Apple,Green Apple,0,,0.0,0.0,0.0
+其他西餐,"Seehotel, Kastanienbaum, Lucerne","Seehotel, Kastanienbaum, Lucerne",0,,0.0,0.0,0.0
+其他西餐,Bleichi 23,Bleichi 23,0,,0.0,0.0,0.0
+其他西餐,Landhaus Lerchenhof,Landhaus Lerchenhof,0,,0.0,0.0,0.0
+其他西餐,Moosschur,Moosschur,0,,0.0,0.0,0.0
+其他西餐,Wirtshaus zum Unterlachenhof,Wirtshaus zum Unterlachenhof,0,,0.0,0.0,0.0
+其他西餐,Blue Bar,Blue Bar,0,,0.0,0.0,0.0
+其他西餐,El Rincon Argentino,El Rincon Argentino,0,,0.0,0.0,0.0
+其他西餐,Shanghai Nr. 1,Shanghai Nr. 1,0,,0.0,0.0,0.0
+其他西餐,Restaurant Hof,Restaurant Hof,0,,0.0,0.0,0.0
+其他西餐,Schloss Swiss Chalet,Schloss Swiss Chalet,0,,0.0,0.0,0.0
+其他西餐,Wirtshaus Schutzengarten,Wirtshaus Schutzengarten,0,,0.0,0.0,0.0
+其他西餐,Restaurant Spatz,Restaurant Spatz,0,,0.0,0.0,0.0
+其他西餐,Restaurant Rutli,Restaurant Rutli,0,,0.0,0.0,0.0
+其他西餐,Rothaus Restaurant,Rothaus Restaurant,0,,0.0,0.0,0.0
+其他西餐,Grendel 19,Grendel 19,0,,0.0,0.0,0.0
+其他西餐,Konditorei,Konditorei,0,,0.0,0.0,0.0
+其他西餐,Restaurant Chateau Guetsch,Restaurant Chateau Guetsch,0,,0.0,0.0,0.0
+其他西餐,Seepark,Seepark,0,,0.0,0.0,0.0
+其他西餐,Martini Stube,Martini Stube,0,,0.0,0.0,0.0
+其他西餐,Das Weisse Schaf,Das Weisse Schaf,0,,0.0,0.0,0.0
+中餐,太白餐厅,太白餐厅,0,Old Town,6.7,7.6,7.7
+中餐,Delicious Bing House,Delicious Bing House,0,,8.0,7.2,7.6
+中餐,竹香阁快餐店,竹香阁快餐店,0,卢塞恩湖畔,7.5,7.4,7.4
+中餐,China Shanghai 3,China Shanghai 3,0,,6.2,7.6,6.2
+中餐,"Bamboo Garden, Sushi & Chinese","Bamboo Garden, Sushi & Chinese",0,其他,8.3,8.3,8.3
+中餐,CHENGDU,CHENGDU,0,卢塞恩湖畔,6.6,6.4,6.4
+中餐,"Bamboo Garden, Sushi","Bamboo Garden, Sushi",0,,0.0,0.0,0.0
+中餐,China-Restaurant Hong Kong,China-Restaurant Hong Kong,0,,0.0,0.0,0.0
+中餐,Li Tai Pe,Li Tai Pe,0,,0.0,0.0,0.0
+中餐,Asia town,Asia town,0,,0.0,0.0,0.0
+日韩料理,Lounge & Bar suite,Lounge & Bar suite,0,卢塞恩地铁区,0.0,0.0,0.0
+日韩料理,Kaiten Sushi Restaurant & Take Away,Kaiten Sushi Restaurant & Take Away,0,Eichhof Area,0.0,0.0,0.0
+日韩料理,Korea Town,Korea Town,0,,0.0,0.0,0.0
+日韩料理,Lounge,Lounge,0,,0.0,0.0,0.0
+日韩料理,Kaiten Sushi Bar,Kaiten Sushi Bar,0,,0.0,0.0,0.0
+日韩料理,Kaiten Sushi Restaurant,Kaiten Sushi Restaurant,0,,0.0,0.0,0.0
+日韩料理,Kyoto,Kyoto,0,,0.0,0.0,0.0
+更多亚洲菜,Changcheng Take Away,Changcheng Take Away,0,其他,7.6,7.2,7.6
+更多亚洲菜,Chang Cheng,Chang Cheng,0,布拉姆山,6.7,8.4,6.7
+更多亚洲菜,Kanchi Indian restaurant,Kanchi Indian restaurant,0,卢塞恩湖畔,0.0,0.0,0.0
+更多亚洲菜,Neville's Fine indian Dining,Neville's Fine indian Dining,0,Ober Gutsch Area,0.0,0.0,0.0
+更多亚洲菜,Cha Cha,Cha Cha,0,Old Town,0.0,0.0,0.0
+更多亚洲菜,Apsara,Apsara,0,卢塞恩地铁区,0.0,0.0,0.0
+更多亚洲菜,Restaurant Bam Bou,Restaurant Bam Bou,0,,0.0,0.0,0.0
+更多亚洲菜,Kanchi Indian restaurant,Kanchi Indian restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Khoua Vientiane,Khoua Vientiane,0,,0.0,0.0,0.0
+更多亚洲菜,Takrai,Takrai,0,,0.0,0.0,0.0
+更多亚洲菜,GourmIndia,GourmIndia,0,,0.0,0.0,0.0
+更多亚洲菜,Restaurant Thai Garden,Restaurant Thai Garden,0,,0.0,0.0,0.0
+更多亚洲菜,Thai Lotus Restaurant,Thai Lotus Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Gandhi,Gandhi,0,,0.0,0.0,0.0
+更多亚洲菜,Song Pi Nong,Song Pi Nong,0,,0.0,0.0,0.0
+更多亚洲菜,Chang Cheng,Chang Cheng,0,,0.0,0.0,0.0
+更多亚洲菜,Isaan Market GmbH,Isaan Market GmbH,0,,0.0,0.0,0.0
+更多亚洲菜,Shanghai 2,Shanghai 2,0,,0.0,0.0,0.0
+更多亚洲菜,Cha Cha,Cha Cha,0,,0.0,0.0,0.0
+更多亚洲菜,Apsara,Apsara,0,,0.0,0.0,0.0
+更多亚洲菜,Taj Palace,Taj Palace,0,,0.0,0.0,0.0
+更多亚洲菜,Neville s Fine indian Dining,Neville s Fine indian Dining,0,,0.0,0.0,0.0
+更多亚洲菜,Sky Asia Take Away,Sky Asia Take Away,0,,0.0,0.0,0.0
+更多亚洲菜,Asian Takeaway,Asian Takeaway,0,,0.0,0.0,0.0
+更多亚洲菜,Restaurant Masala,Restaurant Masala,0,,0.0,0.0,0.0
+快餐简餐,天鹅餐厅,天鹅餐厅,0,卢塞恩湖畔,6.8,7.1,7.1
+快餐简餐,Jeffs's Burger,Jeffs's Burger,0,卢塞恩地铁区,0.0,0.0,0.0
+快餐简餐,Restaurant Schwanen Cafe de Ville,Restaurant Schwanen Cafe de Ville,0,,0.0,0.0,0.0
+快餐简餐,熊猫快餐,熊猫快餐,0,卢塞恩湖畔,0.0,0.0,0.0
+快餐简餐,Twiny Station,Twiny Station,0,,0.0,0.0,0.0
+快餐简餐,Restaurant 1871,Restaurant 1871,0,,0.0,0.0,0.0
+海鲜,Sebastian s Sea Food,Sebastian s Sea Food,0,,0.0,0.0,0.0
+比萨,Restaurant Einhorn,Restaurant Einhorn,0,卢塞恩湖畔,7.4,7.1,7.0
+比萨,Oskar Restaurant & Bar,Oskar Restaurant & Bar,0,其他,0.0,0.0,0.0
+比萨,Pizza Sofra,Pizza Sofra,0,,6.9,6.9,6.9
+比萨,La Mannagia,La Mannagia,0,,0.0,0.0,0.0
+比萨,Modomio,Modomio,0,,0.0,0.0,0.0
+比萨,Rossli,Rossli,0,,0.0,0.0,0.0
+咖啡厅,星巴克,星巴克,0,卢塞恩湖畔,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Konditorei & Cafe Heini,Konditorei & Cafe Heini,0,卢塞恩地铁区,7.5,7.5,7.5
+咖啡厅,Maison Gout,Maison Gout,0,卢塞恩地铁区,0.0,0.0,0.0
+咖啡厅,Backerei Hug,Backerei Hug,0,其他,0.0,0.0,0.0
+咖啡厅,"Cafe Corso, Luzern","Cafe Corso, Luzern",0,,7.0,7.1,7.0
+咖啡厅,Bahnhof Restauration Luzern,Bahnhof Restauration Luzern,0,卢塞恩地铁区,0.0,0.0,0.0
+咖啡厅,National Bar,National Bar,0,,0.0,0.0,0.0
+咖啡厅,World Cafe,World Cafe,0,,0.0,0.0,0.0
+面包甜点,MERZ,MERZ,0,卢塞恩湖畔,7.0,7.0,7.0
+面包甜点,Konditorei & Cafe Heini,Konditorei & Cafe Heini,0,卢塞恩地铁区,7.5,7.5,7.5
+面包甜点,10' Dieci,10' Dieci,0,Old Town,0.0,0.0,0.0
+面包甜点,Gelateria dell  Alpi,Gelateria dell  Alpi,0,,0.0,0.0,0.0
+面包甜点,Konditorei,Konditorei,0,,0.0,0.0,0.0
+酒吧,Mekong Restaurant,Mekong Restaurant,0,,7.4,8.3,7.4
+酒吧,Bar Capitol,Bar Capitol,0,卢塞恩地铁区,0.0,0.0,0.0
+酒吧,ArteBar Weggis,ArteBar Weggis,0,,0.0,0.0,0.0
+更多美食,Taube Restaurant,Taube Restaurant,0,Old Town,6.3,6.9,6.9
+更多美食,Wirtshaus Galliker,Wirtshaus Galliker,0,历史博物馆区,7.4,7.4,7.4
+更多美食,Seerestaurant,Seerestaurant,0,,7.4,8.3,7.4
+更多美食,Galerie (Schweizerhof),Galerie (Schweizerhof),0,Old Town,0.0,0.0,0.0
+更多美食,Restaurant 1871,Restaurant 1871,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Moosmatt,Restaurant Moosmatt,0,其他,0.0,0.0,0.0
+更多美食,Tintoretto,Tintoretto,0,卢塞恩湖畔,0.0,0.0,0.0
+更多美食,Asian Fondue House,Asian Fondue House,0,Old Town,0.0,0.0,0.0
+更多美食,Restaurant bim buume Hannes Baumann,Restaurant bim buume Hannes Baumann,0,Old Town,0.0,0.0,0.0
+更多美食,Chill's,Chill's,0,Ober Gutsch Area,0.0,0.0,0.0
+更多美食,Restaurant Spatz,Restaurant Spatz,0,Eichhof Area,0.0,0.0,0.0
+更多美食,Blue Bar & Smoker's Lounge,Blue Bar & Smoker's Lounge,0,卢塞恩地铁区,0.0,0.0,0.0
+更多美食,Waldstatterhof Restaurant,Waldstatterhof Restaurant,0,卢塞恩地铁区,0.0,0.0,0.0
+更多美食,Schiffrestaurant Wilhelm Tell,Schiffrestaurant Wilhelm Tell,0,Old Town,0.0,0.0,0.0
+更多美食,MÖvenpick Kantonalbank,MÖvenpick Kantonalbank,0,Ober Gutsch Area,0.0,0.0,0.0
+更多美食,Luz Seebistro,Luz Seebistro,0,卢塞恩地铁区,0.0,0.0,0.0
+更多美食,Restaurant Reussbad ,Restaurant Reussbad ,0,布拉姆山,0.0,0.0,0.0
+更多美食,Istanbul Grill & More,Istanbul Grill & More,0,卢塞恩地铁区,0.0,0.0,0.0
+更多美食,St. Petersstube - Hotel des Alpes,St. Petersstube - Hotel des Alpes,0,Old Town,0.0,0.0,0.0
+更多美食,Les Artistes,Les Artistes,0,卢塞恩湖畔,0.0,0.0,0.0
+更多美食,Backerei-Konditorei Hug AG,Backerei-Konditorei Hug AG,0,Old Town,0.0,0.0,0.0
+更多美食,Ristorante Centro,Ristorante Centro,0,其他,0.0,0.0,0.0
+更多美食,Nectar Bar,Nectar Bar,0,卢塞恩地铁区,0.0,0.0,0.0
+更多美食,Rothaus Restaurant,Rothaus Restaurant,0,历史博物馆区,0.0,0.0,0.0
+更多美食,Don Carlos,Don Carlos,0,其他,0.0,0.0,0.0
+更多美食,Parterre,Parterre,0,Eichhof Area,0.0,0.0,0.0
+更多美食,Havanna Cafe & Bar,Havanna Cafe & Bar,0,卢塞恩地铁区,0.0,0.0,0.0
+更多美食,Trattoria della Nonna,Trattoria della Nonna,0,布拉姆山,0.0,0.0,0.0
+更多美食,Bleichi 23,Bleichi 23,0,Eichhof Area,0.0,0.0,0.0
+更多美食,Suter's Meile Bistro,Suter's Meile Bistro,0,其他,0.0,0.0,0.0
+更多美食,Taj Palace,Taj Palace,0,卢塞恩湖畔,0.0,0.0,0.0
+更多美食,Scala Restaurant,Scala Restaurant,0,Ober Gutsch Area,0.0,0.0,0.0
+更多美食,La Terrazza,La Terrazza,0,,0.0,0.0,0.0
+更多美食,Tandoori,Tandoori,0,,0.0,0.0,0.0
+更多美食,Memories of Asia,Memories of Asia,0,,0.0,0.0,0.0
+更多美食,Restaurant Central,Restaurant Central,0,,0.0,0.0,0.0
+更多美食,10  Dieci,10  Dieci,0,,0.0,0.0,0.0
+更多美食,Naustadt,Naustadt,0,,0.0,0.0,0.0
+更多美食,Ristorante Centro,Ristorante Centro,0,,0.0,0.0,0.0
+更多美食,Latino Restaurant,Latino Restaurant,0,,0.0,0.0,0.0
+更多美食,Regatta,Regatta,0,,0.0,0.0,0.0
+更多美食,Gennaro,Gennaro,0,Old Town,0.0,0.0,0.0
+更多美食,Cafe Bar Peperoncini,Cafe Bar Peperoncini,0,其他,0.0,0.0,0.0
+更多美食,Naustadt,Naustadt,0,Eichhof Area,0.0,0.0,0.0
+更多美食,Pilatus Kulm,Pilatus Kulm,0,,0.0,0.0,0.0
+更多美食,Carrie Tan,Carrie Tan,0,,0.0,0.0,0.0
+更多美食,Taberna Espanola,Taberna Espanola,0,,0.0,0.0,0.0
+更多美食,Betagtenzentrum Eichhof,Betagtenzentrum Eichhof,0,,0.0,0.0,0.0
+更多美食,Best Pizza Kurier,Best Pizza Kurier,0,,0.0,0.0,0.0
+更多美食,Backpackers Lucern,Backpackers Lucern,0,,0.0,0.0,0.0
+更多美食,Gastro - Bus,Gastro - Bus,0,,0.0,0.0,0.0
+更多美食,Restaurant Gasshof,Restaurant Gasshof,0,,0.0,0.0,0.0
+更多美食,Larkspur,Larkspur,0,,0.0,0.0,0.0
+更多美食,Asian Village Victoria,Asian Village Victoria,0,,0.0,0.0,0.0
+更多美食,California,California,0,,0.0,0.0,0.0
+更多美食,Cafe Hofli,Cafe Hofli,0,,0.0,0.0,0.0
+更多美食,Churrascaria do sul,Churrascaria do sul,0,,0.0,0.0,0.0
+更多美食,Gasthaus St. Wendelin GmbH,Gasthaus St. Wendelin GmbH,0,,0.0,0.0,0.0
+更多美食,Tribschen,Tribschen,0,,0.0,0.0,0.0
+更多美食,Khrua Thai,Khrua Thai,0,,0.0,0.0,0.0
+更多美食,Sawasdee,Sawasdee,0,,0.0,0.0,0.0
+更多美食,Klatsch,Klatsch,0,,0.0,0.0,0.0
+更多美食,Helvetia,Helvetia,0,,0.0,0.0,0.0
+更多美食,Scala Restaurant,Scala Restaurant,0,,0.0,0.0,0.0
+更多美食,Schweizerische Hotelfachschule,Schweizerische Hotelfachschule,0,,0.0,0.0,0.0
+更多美食,Dolce Amore,Dolce Amore,0,,0.0,0.0,0.0
+更多美食,Sonnmatt,Sonnmatt,0,,0.0,0.0,0.0
+更多美食,Backerei Hug,Backerei Hug,0,,0.0,0.0,0.0
+更多美食,Taburettli Kafi ond meh,Taburettli Kafi ond meh,0,,0.0,0.0,0.0
+更多美食,Havanna Cafe,Havanna Cafe,0,,0.0,0.0,0.0
+更多美食,Aqua,Aqua,0,,0.0,0.0,0.0
+更多美食,Chimney s Steakhouse,Chimney s Steakhouse,0,,0.0,0.0,0.0
+更多美食,Landgasthaus Strauss,Landgasthaus Strauss,0,,0.0,0.0,0.0
+更多美食,Asian Fondue House,Asian Fondue House,0,,0.0,0.0,0.0
+更多美食,Nectar Bar,Nectar Bar,0,,0.0,0.0,0.0
+更多美食,Restaurant Krone,Restaurant Krone,0,,0.0,0.0,0.0

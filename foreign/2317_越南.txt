@@ -1,0 +1,1152 @@
+东南亚菜,Pho 24(Ho Chi Min),Pho 24(Ho Chi Min),21,,7.5,7.3,7.7
+东南亚菜,Nha Hang Yen's Restaurant,Nha Hang Yen's Restaurant,49,全部商区,8.6,8.4,8.8
+东南亚菜,Quan An Ngon,Quan An Ngon,51,胡志明市其他,7.0,7.5,7.4
+东南亚菜,越南米粉,越南米粉,0,其他城市,8.0,7.8,8.0
+东南亚菜,nhà hàng ngon,nhà hàng ngon,86,01区-彭谷劳/泰巴罗,7.5,8.1,7.6
+东南亚菜,Quan An Ngon,Quan An Ngon,49,还剑区-老城区,8.2,8.0,8.2
+东南亚菜,Da Quy ResTaurAnt,Da Quy ResTaurAnt,36,全部商区,7.4,7.1,7.7
+东南亚菜,美食角落餐厅,美食角落餐厅,0,河内其他,8.3,8.2,8.4
+东南亚菜,Pho 24,Pho 24(Hanoi店),0,,7.1,7.3,7.6
+东南亚菜,Morning Glory,Morning Glory,0,,7.6,7.7,7.3
+东南亚菜,Xoi Yen,Xoi Yen,0,河内其他,7.7,6.5,6.9
+东南亚菜,Cha Ca La Vong,Cha Ca La Vong,58,,7.5,6.8,7.3
+东南亚菜,吕小姐咖啡厅,吕小姐咖啡厅,0,全部商区,7.2,6.8,7.1
+东南亚菜,New Day Restaurant,New Day Restaurant,0,,0.0,0.0,0.0
+东南亚菜,巧克力咖啡,巧克力咖啡,0,全部商区,7.3,7.2,7.4
+东南亚菜,Long Hoa,Long Hoa,0,,6.4,6.3,6.6
+东南亚菜,Lac Canh Restaurant,Lac Canh Restaurant,57,,7.5,5.8,6.6
+东南亚菜,Lien Hoa,Lien Hoa,0,,7.6,7.3,7.3
+东南亚菜,Omar's InDian ResTaurAnt,Omar's InDian ResTaurAnt,0,全部商区,8.3,8.2,8.2
+东南亚菜,Pho 24,Pho 24,0,,6.3,6.3,6.3
+东南亚菜,牛肉河粉,牛肉河粉,0,河内其他,8.5,8.0,8.0
+东南亚菜,Veranda,Veranda,0,全部商区,8.1,7.3,7.8
+东南亚菜,Galangal,Galangal,0,全部商区,7.8,8.0,7.8
+东南亚菜,Mai Fish,Mai Fish,0,全部商区,7.7,7.7,7.7
+东南亚菜,Cuon Cuon,Cuon Cuon,0,,8.4,7.4,8.4
+东南亚菜,Mui Ne Resort Restaurant,Mui Ne Resort Restaurant,0,,7.8,7.8,7.5
+东南亚菜,Pho 24,Pho 24(百盛店),0,,6.7,6.6,6.8
+东南亚菜,Monsoon Restaurant & Bar Saigon,Monsoon Restaurant & Bar Saigon,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+东南亚菜,Long Hoa Restaurant,Long Hoa Restaurant,0,全部商区,7.4,7.8,7.7
+东南亚菜,Nhat Phong 3 Restaurant,Nhat Phong 3 Restaurant,0,全部商区,7.9,7.5,7.9
+东南亚菜,Pho24,Pho24,0,全部商区,8.4,8.0,8.0
+东南亚菜,Ngoc Suong,Ngoc Suong,0,,8.1,8.1,8.5
+东南亚菜,PHO24,PHO24,0,,6.6,7.6,7.6
+东南亚菜,The Little Hanoi,The Little Hanoi,0,还剑区-老城区,0.0,0.0,0.0
+东南亚菜,Lantern's,Lantern's,0,,7.2,7.8,8.1
+东南亚菜,黄河,黄河,0,全部商区,8.0,8.1,7.9
+东南亚菜,柏松园餐厅,柏松园餐厅,0,其他城市,7.0,6.8,6.8
+东南亚菜,Nhà Hàng Ngon 138,Nhà Hàng Ngon 138,0,胡志明市其他,8.3,8.3,8.3
+东南亚菜,还剑湖水榭餐厅,还剑湖水榭餐厅,0,还剑区-老城区,7.7,8.0,7.8
+东南亚菜,和平之家,和平之家,0,,7.5,7.5,7.4
+东南亚菜,Thai Express,Thai Express,0,河内其他,0.0,0.0,0.0
+东南亚菜,FAIFO XUA,FAIFO XUA,0,,6.8,7.2,7.1
+东南亚菜,Rung Forest Restaurant,Rung Forest Restaurant,0,,6.5,6.7,6.5
+东南亚菜,Ganesh Indian Restaurant,Ganesh Indian Restaurant(美奈店),0,,7.2,7.1,7.0
+东南亚菜,南方皇后,南方皇后,0,,7.0,7.0,6.8
+东南亚菜,Sala Thai,Sala Thai,0,,8.1,8.1,8.1
+东南亚菜,Blue Whale,Blue Whale,0,,6.7,7.1,7.1
+东南亚菜,白玫瑰,白玫瑰,0,全部商区,7.4,6.8,6.8
+东南亚菜,Rose,Rose,0,,7.5,7.5,7.1
+东南亚菜,Pho24,Pho24,0,,7.7,7.7,7.7
+东南亚菜,Ganesh Indian Restaurant,Ganesh Indian Restaurant,0,全部商区,8.1,7.5,7.0
+东南亚菜,Pho Saigon,Pho Saigon,0,,6.7,6.6,6.7
+东南亚菜,Pho 75,Pho 75,0,,7.5,8.2,8.2
+东南亚菜,Phở Hùng,Phở Hùng,0,胡志明市其他,7.3,6.7,7.0
+东南亚菜,Hoa Tuc,Hoa Tuc,0,胡志明市其他,7.1,7.2,7.2
+东南亚菜,Pho King Good,Pho King Good,0,全部商区,7.0,6.7,7.0
+东南亚菜,河内季节,河内季节,0,,6.7,7.1,7.0
+东南亚菜,Porte d'Annam,Porte d'Annam,0,河内其他,0.0,0.0,0.0
+东南亚菜,PHO HONG,PHO HONG,0,,7.0,6.9,6.9
+东南亚菜,Nhà Hàng Sumo Bbq,Nhà Hàng Sumo Bbq,0,胡志明市其他,8.0,8.0,8.0
+东南亚菜,Pho Xua,Pho Xua,0,,8.4,8.4,8.4
+东南亚菜,Nha Hang Dac Kim,Nha Hang Dac Kim,0,河内其他,0.0,0.0,0.0
+东南亚菜,pho 24,pho 24,0,,7.1,6.7,7.0
+东南亚菜,Quan 94,Quan 94,0,,7.1,6.7,6.8
+东南亚菜,Thai Dat,Thai Dat,0,河内其他,7.0,7.0,7.0
+东南亚菜,thanh nien,thanh nien,0,,6.6,6.7,6.7
+东南亚菜,LAC CANH,LAC CANH,0,,7.1,6.7,6.9
+东南亚菜,Nhà Hàng Hương Cau,Nhà Hàng Hương Cau,0,胡志明市其他,7.1,7.1,7.1
+东南亚菜,Bo Ke Sunset Restaurant,Bo Ke Sunset Restaurant,0,,6.9,6.9,6.9
+东南亚菜,bamboo bamboo restaurant,bamboo bamboo restaurant,0,,7.0,7.1,7.1
+东南亚菜,圣豪,圣豪,0,,7.4,7.4,7.4
+东南亚菜,Pho 24,Pho 24,0,,6.9,6.7,6.7
+东南亚菜,Pho Bang,Pho Bang,0,全部商区,7.1,6.7,7.0
+东南亚菜,翠竹村庄,翠竹村庄,0,,7.1,7.1,7.1
+东南亚菜,Banh Mi Phuong,Banh Mi Phuong,0,,6.9,6.9,6.9
+东南亚菜,会合艺术画廊咖啡馆,会合艺术画廊咖啡馆,0,全部商区,6.9,7.0,7.0
+东南亚菜,Pho Cuon Hung Ben,Pho Cuon Hung Ben,0,河内其他,7.0,6.6,7.0
+东南亚菜,Thon Viet Restaurant,Thon Viet Restaurant,0,,7.1,7.1,7.1
+东南亚菜,Les Jardins De La Garambale,Les Jardins De La Garambale,0,,7.0,7.0,7.0
+东南亚菜,Hanh Lau Bo,Hanh Lau Bo,0,,7.0,7.0,7.0
+东南亚菜,会安岛餐厅,会安岛餐厅,0,全部商区,7.5,8.1,8.1
+东南亚菜,普通话,普通话,0,河西区-西湖,6.7,7.4,7.4
+东南亚菜,Nhà hàng 63 Trần Quang Diệu,Nhà hàng 63 Trần Quang Diệu,0,胡志明市其他,7.4,7.4,7.4
+东南亚菜,Madame Hien,Madame Hien,0,河内其他,7.0,7.0,7.0
+东南亚菜,Mam Tom,Mam Tom,0,,7.1,7.1,7.1
+东南亚菜,Banh Tom Ho Tay,Banh Tom Ho Tay,0,河内其他,7.0,7.0,6.7
+东南亚菜,Sai Gon Mui Ne Resort Restaurant,Sai Gon Mui Ne Resort Restaurant,0,,6.9,7.0,6.7
+东南亚菜,Same Same But Different Cafe,Same Same But Different Cafe,0,,7.0,6.9,6.9
+东南亚菜,Cafe Nhât Anh,Cafe Nhât Anh,0,全部商区,6.9,7.0,7.0
+东南亚菜,1946 restaurant,1946 restaurant,0,,7.0,7.0,7.0
+东南亚菜,Quan Ot Xanh,Quan Ot Xanh,0,,7.0,6.9,7.1
+东南亚菜,牛肉餐厅,牛肉餐厅,0,还剑区-老城区,6.9,6.9,6.9
+东南亚菜,面条和卷,面条和卷,0,还剑区-老城区,7.0,6.7,6.7
+东南亚菜,Thanh Phuong ResTaurAnt,Thanh Phuong ResTaurAnt,0,全部商区,6.9,6.9,6.9
+东南亚菜,Rice Drum Restaurant,Rice Drum Restaurant,0,全部商区,7.5,7.5,7.5
+东南亚菜,蓝姜,蓝姜,0,胡志明市其他,6.9,7.0,7.0
+东南亚菜,Luna d'Autunno,Luna d'Autunno,0,,6.7,6.7,6.7
+东南亚菜,Saigon Morin Lobby Cafe,Saigon Morin Lobby Cafe,0,,6.6,6.9,6.7
+东南亚菜,嘉侨,嘉侨,0,河内其他,6.7,7.0,7.0
+东南亚菜,Van Yen Collection,Van Yen Collection,0,河内其他,6.9,6.9,6.9
+东南亚菜,Nha Hang,Nha Hang,0,全部商区,6.7,6.9,6.9
+东南亚菜,巧食亭,巧食亭,0,,6.7,6.7,7.4
+东南亚菜,Mango Restaurant,Mango Restaurant,0,,6.7,6.7,6.7
+东南亚菜,Confetti ResTaurAnt,Confetti ResTaurAnt,0,胡志明市其他,6.9,6.6,7.0
+东南亚菜,樱花餐厅和烹饪教室,樱花餐厅和烹饪教室,0,全部商区,6.6,6.7,6.7
+东南亚菜,Opera Club,Opera Club,0,,6.6,7.1,6.7
+东南亚菜,我爱星期五,我爱星期五,0,河内其他,7.3,7.3,7.3
+东南亚菜,Pho 10,Pho 10,0,河内其他,0.0,0.0,0.0
+东南亚菜,Van Loc Restaurant,Van Loc Restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,Yakiniku Shiki Restaurant,Yakiniku Shiki Restaurant,0,还剑区-老城区,7.0,7.1,7.1
+东南亚菜,Countryside Restaurant,Countryside Restaurant,0,还剑区-老城区,7.0,6.9,6.9
+东南亚菜,Loving Hut Hoa Dang,Loving Hut Hoa Dang,0,胡志明市其他,7.0,7.0,7.0
+东南亚菜,Nha Hang Din KY Nguyen Trai,Nha Hang Din KY Nguyen Trai,0,01区-本塔市场,6.9,6.7,6.9
+东南亚菜,Wan Lu restaurant,Wan Lu restaurant,0,全部商区,6.9,6.9,6.9
+东南亚菜,Hải Sản Biển,Hải Sản Biển,0,还剑区-老城区,7.2,6.1,6.4
+东南亚菜,Quán Con Gà Trống,Quán Con Gà Trống,0,胡志明市其他,7.1,7.1,7.1
+东南亚菜,minh anh 77,minh anh 77,0,下龙,6.8,6.8,6.8
+东南亚菜,Cha Ca La Vong,Cha Ca La Vong,0,还剑区-老城区,6.9,6.9,6.7
+东南亚菜,Pho 10,Pho 10,0,,6.0,6.0,6.0
+东南亚菜,Indochine Restaurant,Indochine Restaurant,0,,7.1,7.0,7.0
+东南亚菜,Romance Cafe,Romance Cafe,0,,7.0,7.0,6.9
+东南亚菜,NAMY,NAMY,0,全部商区,7.0,6.7,6.9
+东南亚菜,Café Co Hong,Café Co Hong,0,,6.9,7.0,7.0
+东南亚菜,San Lang,San Lang,0,,6.9,6.7,7.0
+东南亚菜,Mandarin Cafe,Mandarin Cafe,0,,6.9,6.9,7.0
+东南亚菜,Hai Au Restaurant,Hai Au Restaurant,0,全部商区,7.0,7.0,7.0
+东南亚菜,Coriander restaurant,Coriander restaurant,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+东南亚菜,"restaurant de famille, Long Hoa","restaurant de famille, Long Hoa",0,全部商区,7.1,7.1,7.1
+东南亚菜,7 miles Hanoi,7 miles Hanoi,0,还剑区-河内大教堂,0.0,0.0,0.0
+东南亚菜,Martinez Restaurant,Martinez Restaurant,0,全部商区,6.8,7.1,7.1
+东南亚菜,Pots 'n Pans,Pots 'n Pans,0,顺化家庭市集统一公园,0.0,0.0,0.0
+东南亚菜,Golden Elephant Restaurant,Golden Elephant Restaurant,0,战争遗迹博物馆,0.0,0.0,0.0
+东南亚菜,Restaurant Nam An,Restaurant Nam An,0,全部商区,7.0,7.0,7.0
+东南亚菜,Grill Garden,Grill Garden,0,全部商区,7.1,7.1,7.1
+东南亚菜,The Little Menu Restaurant,The Little Menu Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Empress Hotel Restaurant,Empress Hotel Restaurant,0,全部商区,6.9,7.0,7.0
+东南亚菜,Pho Bien Restaurant,Pho Bien Restaurant,0,全部商区,6.7,6.7,6.7
+东南亚菜,Yellow Flower Riverside Restaurant,Yellow Flower Riverside Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,The Greeks Restaurant,The Greeks Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Gusto Thai Restaurant & Cafe,Gusto Thai Restaurant & Cafe,0,还剑区-歌剧院,0.0,0.0,0.0
+东南亚菜,Chip Chip Restaurant,Chip Chip Restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,Hoi An Garden Restaurant,Hoi An Garden Restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,Tre Viet,Tre Viet,0,全部商区,7.1,7.1,7.1
+东南亚菜,the Riverview Restaurant Dalat,the Riverview Restaurant Dalat,0,全部商区,7.0,7.0,7.1
+东南亚菜,Ngoc Trai Restaurant,Ngoc Trai Restaurant,0,全部商区,7.0,7.0,7.0
+东南亚菜,Banh Mi Phuong,Banh Mi Phuong,0,全部商区,7.2,7.2,7.2
+东南亚菜,Y Thao Garden,Y Thao Garden,0,,7.2,7.2,7.2
+东南亚菜,Thanh Hien Restaurant,Thanh Hien Restaurant,0,全部商区,6.8,6.8,6.8
+东南亚菜,Kumquat BBQ Restaurant,Kumquat BBQ Restaurant,0,全部商区,7.5,7.5,7.5
+东南亚菜,Nha Trang Xua,Nha Trang Xua,0,全部商区,7.2,7.2,7.2
+东南亚菜,Vinh Hung Restaurant,Vinh Hung Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Al Fresco's Restaurant,Al Fresco's Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Chay Restaurant,Chay Restaurant,0,全部商区,6.9,6.9,6.9
+东南亚菜,Green Apple Restaurant,Green Apple Restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,Quan An Ngon,Quan An Ngon,0,全部商区,7.0,7.0,7.0
+东南亚菜,Than Tuyen Restaurant,Than Tuyen Restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,Ngoctrai Restaurant - nha trang,Ngoctrai Restaurant - nha trang,0,全部商区,6.9,6.9,6.9
+东南亚菜,Thien Phuc Restaurant,Thien Phuc Restaurant,0,全部商区,6.9,6.9,6.9
+东南亚菜,Taste of Singapore,Taste of Singapore,0,,7.0,7.0,7.0
+东南亚菜,thanh nhi restaurant,thanh nhi restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,Red Dragon Restaurant,Red Dragon Restaurant,0,全部商区,7.7,7.2,7.2
+东南亚菜,Pita GR Restaurant,Pita GR Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Thang Long Restaurant,Thang Long Restaurant,0,全部商区,6.8,6.8,7.1
+东南亚菜,Anchor Restaurant,Anchor Restaurant,0,全部商区,7.5,7.5,7.5
+东南亚菜,Omar khayyam's Indian restaurant,Omar khayyam's Indian restaurant,0,全部商区,7.5,7.5,7.5
+东南亚菜,Hoi An Silk Village Restaurant,Hoi An Silk Village Restaurant,0,全部商区,6.9,6.9,6.9
+东南亚菜,Blue Dragon Restaurant,Blue Dragon Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Minh Tuan restaurant,Minh Tuan restaurant,0,全部商区,7.1,7.1,7.0
+东南亚菜,Cha Ca La Vong,Cha Ca La Vong,0,,7.1,6.8,7.1
+东南亚菜,Bien Ngoc Restaurant,Bien Ngoc Restaurant,0,全部商区,6.7,6.7,6.9
+东南亚菜,Vietnam Restaurant,Vietnam Restaurant,0,全部商区,6.9,7.0,6.9
+东南亚菜,Cha Ca La Vong,Cha Ca La Vong,0,,7.1,7.1,7.1
+东南亚菜,Mecca - Lemongrass restaurant,Mecca - Lemongrass restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,An Hoi Restaurant,An Hoi Restaurant,0,全部商区,7.1,6.8,6.8
+东南亚菜,Koh thai,Koh thai,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Herbs And Spices Restaurant,Herbs And Spices Restaurant,0,全部商区,7.7,7.7,7.7
+东南亚菜,Grass garden Hoi An restaurant,Grass garden Hoi An restaurant,0,全部商区,7.1,7.5,7.1
+东南亚菜,Cinnamon Cruises restaurant,Cinnamon Cruises restaurant,0,全部商区,7.1,7.1,7.5
+东南亚菜,SAU Restaurant,SAU Restaurant,0,全部商区,7.5,7.1,7.1
+东南亚菜,Binh Minh Restaurant,Binh Minh Restaurant,0,全部商区,7.3,7.3,7.1
+东南亚菜,Galangal,Galangal,0,全部商区,7.2,7.2,7.2
+东南亚菜,Family Restaurant,Family Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Sea Breeze Restaurant,Sea Breeze Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,New Way Restaurant,New Way Restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,Canh Buom Restaurant,Canh Buom Restaurant,0,全部商区,6.9,6.9,6.9
+东南亚菜,Ha lan n 1 restaurant hoi an,Ha lan n 1 restaurant hoi an,0,全部商区,7.1,7.1,7.0
+东南亚菜,Rainbow Restaurant,Rainbow Restaurant,0,全部商区,6.9,6.9,6.9
+东南亚菜,Puku Café and Sports Bar,Puku Café and Sports Bar,0,还剑区-河内大教堂,0.0,0.0,0.0
+东南亚菜,Nha Hang,Nha Hang,0,,7.0,7.1,7.0
+东南亚菜,Pho Lien,Pho Lien,0,全部商区,7.0,7.0,7.0
+东南亚菜,Nha Hang Restaurant,Nha Hang Restaurant,0,全部商区,7.0,7.1,7.0
+东南亚菜,Restaurant Du Port,Restaurant Du Port,0,全部商区,7.0,7.1,7.0
+东南亚菜,Trinh Restaurant,Trinh Restaurant,0,全部商区,7.1,7.3,7.3
+东南亚菜,Riverside Garden Restaurant,Riverside Garden Restaurant,0,全部商区,7.7,7.7,7.2
+东南亚菜,Wheel House Dalat Restaurant,Wheel House Dalat Restaurant,0,全部商区,6.8,7.1,7.1
+东南亚菜,Restaurant Three Sister's,Restaurant Three Sister's,0,全部商区,7.0,7.0,7.0
+东南亚菜,Chinh's Riverside Restaurant - Hoi An,Chinh's Riverside Restaurant - Hoi An,0,全部商区,7.3,7.1,7.1
+东南亚菜,Olivia Restaurant,Olivia Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Mr. My Restaurant,Mr. My Restaurant,0,全部商区,7.1,7.1,6.8
+东南亚菜,Thanh Nien,Thanh Nien,0,,7.1,7.1,7.1
+东南亚菜,V'cherry Restaurant,V'cherry Restaurant,0,全部商区,7.1,6.8,7.1
+东南亚菜,Bon Bon Restaurant,Bon Bon Restaurant,0,全部商区,7.2,7.6,7.2
+东南亚菜,The Restaurant at The Nam Hai Hoi An,The Restaurant at The Nam Hai Hoi An,0,全部商区,7.0,7.0,7.0
+东南亚菜,Son Hoian Restaurant,Son Hoian Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,restaurant Samovar,restaurant Samovar,0,全部商区,6.9,7.0,6.9
+东南亚菜,Restaurant 328,Restaurant 328,0,全部商区,7.2,7.7,7.2
+东南亚菜,Red Onion Restaurant,Red Onion Restaurant,0,全部商区,7.0,6.9,6.9
+东南亚菜,Vuon Nho Restaurant,Vuon Nho Restaurant,0,全部商区,7.0,7.0,6.9
+东南亚菜,Zaiqa - the Taste,Zaiqa - the Taste,0,,7.0,7.0,7.0
+东南亚菜,Baby Mustard Restaurant,Baby Mustard Restaurant,0,全部商区,7.7,7.2,7.2
+东南亚菜,TinTin Restaurant,TinTin Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Yellow River Restaurant,Yellow River Restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,Pho Xua,Pho Xua,0,,7.0,7.0,7.0
+东南亚菜,Gecko Restaurant,Gecko Restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,Park Gorkogo Russian Restaurant,Park Gorkogo Russian Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Salina Restaurant,Salina Restaurant,0,全部商区,6.8,6.8,7.1
+东南亚菜,Thanh Restaurant,Thanh Restaurant,0,全部商区,6.8,6.8,6.8
+东南亚菜,The Rooftop Bar and Restaurant,The Rooftop Bar and Restaurant,0,河内其他,0.0,0.0,0.0
+东南亚菜,Little Hanoi,Little Hanoi,0,全部商区,7.1,7.1,7.1
+东南亚菜,Lowland restaurant,Lowland restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,Tran Dung Restaurant,Tran Dung Restaurant,0,全部商区,6.9,6.9,6.9
+东南亚菜,sticky finger restaurant,sticky finger restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,AX Restaurant,AX Restaurant,0,全部商区,6.9,6.9,6.9
+东南亚菜,Mai Dac San Restaurant,Mai Dac San Restaurant,0,全部商区,7.0,7.0,7.0
+东南亚菜,Cam Phuc Restaurant,Cam Phuc Restaurant,0,全部商区,6.9,6.9,6.9
+东南亚菜,Hi Restaurant,Hi Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Hi restaurant,Hi restaurant,0,全部商区,7.0,7.0,7.0
+东南亚菜,Quang Minh Restaurant,Quang Minh Restaurant,0,全部商区,7.1,6.8,7.1
+东南亚菜,Lantern Town Restaurant,Lantern Town Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Cato Restaurant,Cato Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,White Lotus Restaurant,White Lotus Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Hoi An Restaurant - Blue Gecko,Hoi An Restaurant - Blue Gecko,0,全部商区,7.2,7.2,7.2
+东南亚菜,Dem Hoi - Festival Night Restaurant,Dem Hoi - Festival Night Restaurant,0,全部商区,7.1,7.1,7.1
+东南亚菜,Restaurant 69,Restaurant 69,0,全部商区,7.3,7.3,7.3
+东南亚菜,Pho Xua,Pho Xua,0,全部商区,7.7,7.7,7.2
+东南亚菜,Restaurant Dung,Restaurant Dung,0,全部商区,7.1,7.1,7.1
+东南亚菜,Hoi AN Restaurant,Hoi AN Restaurant,0,全部商区,7.0,7.0,7.0
+东南亚菜,Restaurant King,Restaurant King,0,全部商区,7.1,7.3,7.1
+东南亚菜,Hong An Vegan Restaurant,Hong An Vegan Restaurant,0,全部商区,6.7,6.7,6.7
+东南亚菜,Le Jardin,Le Jardin,0,,7.0,6.7,6.9
+东南亚菜,Loving Hut Hoa Dang,Loving Hut Hoa Dang,0,,7.0,7.0,7.0
+东南亚菜,Restaurant Da Quy 2,Restaurant Da Quy 2,0,全部商区,7.0,7.0,7.0
+东南亚菜,TIK Restaurant,TIK Restaurant,0,全部商区,7.0,7.1,7.0
+东南亚菜,Thien Thanh Restaurant,Thien Thanh Restaurant,0,全部商区,6.9,6.9,6.9
+东南亚菜,Barley Restaurant,Barley Restaurant,0,全部商区,7.0,7.0,7.0
+东南亚菜,Vina Ngon Restaurant,Vina Ngon Restaurant,0,全部商区,7.2,7.2,7.2
+东南亚菜,Minh Hien Vegetarian Restaurant,Minh Hien Vegetarian Restaurant,0,全部商区,7.7,7.2,7.2
+东南亚菜,Italia,Italia,0,,6.9,7.0,6.9
+东南亚菜,Beluga ResTaurAnt,Beluga ResTaurAnt,0,,0.0,0.0,0.0
+东南亚菜,WHITE CAPS,WHITE CAPS,0,其他城市,0.0,0.0,0.0
+东南亚菜,Grill Garden,Grill Garden,0,全部商区,0.0,0.0,0.0
+东南亚菜,Nha Trang Xua,Nha Trang Xua,0,全部商区,0.0,0.0,0.0
+东南亚菜,Phúc An Khang,Phúc An Khang,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Pho 24,Pho 24,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Ganesh Indian Restaurant,Ganesh Indian Restaurant(胡志明一店),0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Quán Cơm chay An Phúc,Quán Cơm chay An Phúc,0,河内其他,0.0,0.0,0.0
+东南亚菜,Queen Bee Resraurant,Queen Bee Resraurant,0,河内其他,0.0,0.0,0.0
+东南亚菜,NAM AN ResTaurAnt,NAM AN ResTaurAnt,0,全部商区,0.0,0.0,0.0
+东南亚菜,Pho 24,Pho 24,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Pho 24,Pho 24,0,河内其他,0.0,0.0,0.0
+东南亚菜,Café Thanh Thuy,Café Thanh Thuy,0,,0.0,0.0,0.0
+东南亚菜,Pho 24,Pho 24,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,pho24,pho24,0,,0.0,0.0,0.0
+东南亚菜,Y Thao garden,Y Thao garden,0,,0.0,0.0,0.0
+东南亚菜,Lotteria,Lotteria,0,河内其他,0.0,0.0,0.0
+东南亚菜,Quán nướng Hoàng Béo,Quán nướng Hoàng Béo,0,河内其他,0.0,0.0,0.0
+东南亚菜,BUN BO HUE,BUN BO HUE,0,,0.0,0.0,0.0
+东南亚菜,明发鸡王,明发鸡王,0,其他城市,0.0,0.0,0.0
+东南亚菜,Nhà hàng tiệc cưới - Trung tâm hội nghị Saphire,Nhà hàng tiệc cưới - Trung tâm hội nghị Saphire,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,La restaurant,La restaurant,0,河内其他,0.0,0.0,0.0
+东南亚菜,Highway4,Highway4,0,河内其他,0.0,0.0,0.0
+东南亚菜,Golden Elephant Thai Restaurant,Golden Elephant Thai Restaurant,0,01区-盾胡维/源惠,0.0,0.0,0.0
+东南亚菜,Nhà hàng lẩu & hải sản Yeebo,Nhà hàng lẩu & hải sản Yeebo,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Ganesh Indian Restaurant,Ganesh Indian Restaurant(芽庄店),0,,0.0,0.0,0.0
+东南亚菜,nhà hàng Ngọc Sương,nhà hàng Ngọc Sương,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nhà Hàng Thắng Lợi,Nhà Hàng Thắng Lợi,0,,0.0,0.0,0.0
+东南亚菜,BUN CHA,BUN CHA,0,还剑区-老城区,0.0,0.0,0.0
+东南亚菜,Nhà hàng Hoa Hồng,Nhà hàng Hoa Hồng,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,cay bang,cay bang,0,Mui Ne/Ham Tien,0.0,0.0,0.0
+东南亚菜,Nhà hàng Đông Phương,Nhà hàng Đông Phương,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Phở Ngọc,Phở Ngọc,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+东南亚菜,Phở,Phở,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,H3 Hotpot,H3 Hotpot,0,河内其他,0.0,0.0,0.0
+东南亚菜,Mây Quán,Mây Quán,0,河内其他,0.0,0.0,0.0
+东南亚菜,Nhà Hàng ẩm thực Tứ Tài,Nhà Hàng ẩm thực Tứ Tài,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nhà hàng Tuyết Mai,Nhà hàng Tuyết Mai,0,河内其他,0.0,0.0,0.0
+东南亚菜,Nhà Hàng Gartenstadt,Nhà Hàng Gartenstadt,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Quán cháo cá lóc Hai Sang,Quán cháo cá lóc Hai Sang,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nhà phân phối Đường Biên Hòa Tân Quốc Hùng,Nhà phân phối Đường Biên Hòa Tân Quốc Hùng,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Phở Sơn Kỳ,Phở Sơn Kỳ,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Lada,Lada,0,河内其他,0.0,0.0,0.0
+东南亚菜,Chè Sài Gòn,Chè Sài Gòn,0,河内其他,0.0,0.0,0.0
+东南亚菜,Phở Thanh Bình,Phở Thanh Bình,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Thagh Thao,Thagh Thao,0,,0.0,0.0,0.0
+东南亚菜,57 Café Ba Trieu,57 Café Ba Trieu,0,,0.0,0.0,0.0
+东南亚菜,Bamboo Bamboo,Bamboo Bamboo,0,,0.0,0.0,0.0
+东南亚菜,Mai Fish,Mai Fish,0,全部商区,0.0,0.0,0.0
+东南亚菜,Les Jardins De La GaraBale,Les Jardins De La GaraBale,0,,0.0,0.0,0.0
+东南亚菜,Orchid Cooking Class,Orchid Cooking Class,0,河内其他,0.0,0.0,0.0
+东南亚菜,Mamtom,Mamtom,0,,0.0,0.0,0.0
+东南亚菜,Little Saigon,Little Saigon,0,其他城市,0.0,0.0,0.0
+东南亚菜,Club De L'Orient,Club De L'Orient,0,,0.0,0.0,0.0
+东南亚菜,Ganesh Indian Restaurant,Ganesh Indian Restaurant(惠安店),0,,0.0,0.0,0.0
+东南亚菜,Ganesh Indian Restaurant,Ganesh Indian Restaurant(胡志明二店),0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,pho25,pho25,0,,0.0,0.0,0.0
+东南亚菜,Nhà Hàng O'livier,Nhà Hàng O'livier,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,nhà hàng Tib Trịnh Công Sơn,nhà hàng Tib Trịnh Công Sơn,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nhà hàng ngọt Nhật Hùng Vương,Nhà hàng ngọt Nhật Hùng Vương,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nhà Hàng Món Ngon,Nhà Hàng Món Ngon,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,nhà hàng Phố Xưa,nhà hàng Phố Xưa,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nhà Hàng Phố Đông,Nhà Hàng Phố Đông,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nhà Hàng Hoàng Ty 78-80-82 Hoàng Văn Thụ,Nhà Hàng Hoàng Ty 78-80-82 Hoàng Văn Thụ,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nhà hàng Riêu Cá Chép,Nhà hàng Riêu Cá Chép,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nước Sâm Cô Ba,Nước Sâm Cô Ba,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nhà hàng VIP,Nhà hàng VIP,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nhà hàng Vườn Thượng Uyển,Nhà hàng Vườn Thượng Uyển,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,NH Hòn Đất,NH Hòn Đất,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Phở Quỳnh,Phở Quỳnh,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nhà hàng Chợ mới,Nhà hàng Chợ mới,0,胡志明市其他,0.0,0.0,0.0
+东南亚菜,Nisa Restaurant,Nisa Restaurant,0,河内其他,0.0,0.0,0.0
+东南亚菜,Hanoi Press Club,Hanoi Press Club,0,河内其他,0.0,0.0,0.0
+东南亚菜,Nha Hang Phu Dong,Nha Hang Phu Dong,0,河内其他,0.0,0.0,0.0
+东南亚菜,Cà phê - Nhà hàng ,Cà phê - Nhà hàng ,0,河内其他,0.0,0.0,0.0
+东南亚菜,Red House Restaurant,Red House Restaurant,0,河内其他,0.0,0.0,0.0
+东南亚菜,Nhà Hàng Vietkitchen Spring,Nhà Hàng Vietkitchen Spring,0,河内其他,0.0,0.0,0.0
+东南亚菜,Gecko Restaurant,Gecko Restaurant,0,河内其他,0.0,0.0,0.0
+东南亚菜,Dream Cones Trấn Vũ,Dream Cones Trấn Vũ,0,河内其他,0.0,0.0,0.0
+东南亚菜,New Way,New Way,0,还剑区-老城区,0.0,0.0,0.0
+东南亚菜,Lẩu băng chuyền Kichi Kichi - Vincom,Lẩu băng chuyền Kichi Kichi - Vincom,0,河内其他,0.0,0.0,0.0
+东南亚菜,Nhà hàng Hà Nội Vàng,Nhà hàng Hà Nội Vàng,0,河内其他,0.0,0.0,0.0
+东南亚菜,Lẩu cá Kèo Vũ Thạnh,Lẩu cá Kèo Vũ Thạnh,0,河内其他,0.0,0.0,0.0
+东南亚菜,Bún ốc Hương 27 Hàng Giấy,Bún ốc Hương 27 Hàng Giấy,0,董璇市场,0.0,0.0,0.0
+东南亚菜,Quán Cháo Miến Lươn,Quán Cháo Miến Lươn,0,河内其他,0.0,0.0,0.0
+东南亚菜,Akimichi Restaurant,Akimichi Restaurant,0,河内其他,0.0,0.0,0.0
+东南亚菜,96 Restaurant,96 Restaurant,0,还剑区-老城区,0.0,0.0,0.0
+东南亚菜,Azumaya Hotel Hanoi,Azumaya Hotel Hanoi,0,河内其他,0.0,0.0,0.0
+东南亚菜,Chợ Đồng Xuân,Chợ Đồng Xuân,0,还剑区-老城区,0.0,0.0,0.0
+东南亚菜,Seasons of Hanoi,Seasons of Hanoi,0,河内其他,0.0,0.0,0.0
+东南亚菜,bánh khúc,bánh khúc,0,还剑区-老城区,0.0,0.0,0.0
+东南亚菜,Bún chả Tre P113-D6 tt Giảng võ,Bún chả Tre P113-D6 tt Giảng võ,0,河内其他,0.0,0.0,0.0
+东南亚菜,Kamon,Kamon,0,河内其他,0.0,0.0,0.0
+东南亚菜,Cháo Sườn Trứng Vịt Lộn,Cháo Sườn Trứng Vịt Lộn,0,河内其他,0.0,0.0,0.0
+东南亚菜,Hồ lô quán,Hồ lô quán,0,河内其他,0.0,0.0,0.0
+东南亚菜,Kim Lien Restaurant,Kim Lien Restaurant,0,河内其他,0.0,0.0,0.0
+东南亚菜,La Vong Restaurant,La Vong Restaurant,0,还剑区-老城区,0.0,0.0,0.0
+中餐厅,PHO2000,PHO2000,28,胡志明市其他,7.9,7.1,7.5
+中餐厅,蓝水餐厅,蓝水餐厅,42,全部商区,7.5,8.4,8.1
+中餐厅,Lotteria,Lotteria,0,其他城市,6.9,7.0,7.1
+中餐厅,Pho Hoa Pasteur,Pho Hoa Pasteur,0,胡志明市其他,7.4,6.8,7.0
+中餐厅,Vietnam Home Restaurant,Vietnam Home Restaurant,0,,6.7,6.8,6.3
+中餐厅,旺旺人家中餐馆,旺旺人家中餐馆,0,河内其他,7.0,6.8,7.0
+中餐厅,Café 333,Café 333,0,,7.1,7.1,7.2
+中餐厅,平阳名源中餐厅,平阳名源中餐厅,0,其他城市,7.7,7.7,7.7
+中餐厅,河内老成都川菜,河内老成都川菜,0,河内其他,7.0,6.9,6.9
+中餐厅,明,明,0,河内其他,0.0,0.0,0.0
+中餐厅,HUNG KY MI GIA,HUNG KY MI GIA,0,01区-本塔市场,6.7,6.7,6.7
+中餐厅,富临海鲜,富临海鲜,0,,7.1,7.1,7.1
+中餐厅,JUICE UP YOUR LIFE,JUICE UP YOUR LIFE,0,,7.1,7.1,7.0
+中餐厅,Li Bai Chinese Restaurant,Li Bai Chinese Restaurant,0,胡志明市其他,0.0,0.0,0.0
+中餐厅,Hoi An Vietnamnese Restaurant,Hoi An Vietnamnese Restaurant,0,01区-盾胡维/源惠,0.0,0.0,0.0
+中餐厅,Mr. S,Mr. S,0,河内其他,0.0,0.0,0.0
+中餐厅,Chen,Chen,0,,6.9,6.9,6.9
+中餐厅,Ru Pho Bar,Ru Pho Bar,0,01区03区-Tan Dinh,0.0,0.0,0.0
+中餐厅,Ocean Palace,Ocean Palace,0,01区-领事馆/圣母大教堂,0.0,0.0,0.0
+中餐厅,Mandarin Restaurant,Mandarin Restaurant,0,01区-河畔,0.0,0.0,0.0
+中餐厅,Dragon Hotpot,Dragon Hotpot,0,胡志明市其他,0.0,0.0,0.0
+中餐厅,顶泰丰中餐厅,顶泰丰中餐厅,0,董达区-文庙,0.0,0.0,0.0
+中餐厅,"Strata Restaurant, Cafe & Bar","Strata Restaurant, Cafe & Bar",0,胡志明市其他,0.0,0.0,0.0
+中餐厅,又一村中国菜馆,又一村中国菜馆,0,,0.0,0.0,0.0
+中餐厅,VPBank@ Trung Hoa - Nhan Chinh Branch,VPBank@ Trung Hoa - Nhan Chinh Branch,0,河内其他,0.0,0.0,0.0
+中餐厅,富诚饭店,富诚饭店,0,,0.0,0.0,0.0
+中餐厅,Chinese Seafood Restaurant,Chinese Seafood Restaurant,0,胡志明市其他,0.0,0.0,0.0
+中餐厅,平阳好来屋美食,平阳好来屋美食,0,,0.0,0.0,0.0
+中餐厅,Nha hang Lan Chin,Nha hang Lan Chin,0,河内其他,0.0,0.0,0.0
+中餐厅,Thang Long Water Puppetry theatre,Thang Long Water Puppetry theatre,0,,0.0,0.0,0.0
+中餐厅,PHO2000,PHO2000,0,胡志明市其他,0.0,0.0,0.0
+海鲜,幸福姐海鲜大排档,幸福姐海鲜大排档,191,其他城市,7.3,6.4,6.7
+海鲜,BE MAN,BE MAN,121,,8.7,6.8,7.9
+海鲜,岘港,岘港,0,,8.4,8.6,8.8
+海鲜,华人轩  海鲜 餐厅 美食,华人轩  海鲜 餐厅 美食,117,,9.0,8.1,9.0
+海鲜,QUAN OC XUAN ANH,QUAN OC XUAN ANH,0,全部商区,7.0,6.2,6.2
+海鲜,Lam Tong Quan,Lam Tong Quan,0,,5.8,7.0,6.0
+海鲜,黄鱼新鲜海鲜店,黄鱼新鲜海鲜店(2店),0,,8.2,7.9,8.2
+海鲜,OK海鲜餐厅,OK海鲜餐厅,0,全部商区,7.1,6.9,6.9
+海鲜,Oc Nhe,Oc Nhe,0,全部商区,7.4,7.4,7.9
+海鲜,Quan OC Dong Xuan,Quan OC Dong Xuan,0,,6.9,6.7,6.7
+海鲜,Sea Green Restaurant,Sea Green Restaurant,0,,6.9,6.9,6.9
+海鲜,華人軒海鮮餐館,華人軒海鮮餐館,0,芭东海滩/陈富大街北,7.7,7.2,7.2
+海鲜,Bien Ngoc ResTaurAnt,Bien Ngoc ResTaurAnt,0,全部商区,7.0,7.1,7.0
+海鲜,N&M Palace,N&M Palace,0,岘港,6.7,6.7,6.7
+海鲜,No1 Restaurant,No1 Restaurant,0,,7.0,6.9,6.9
+海鲜,兴记海鲜烧腊面家,兴记海鲜烧腊面家,0,,6.9,6.7,6.7
+海鲜,Five Oysters,Five Oysters,0,胡志明市其他,0.0,0.0,0.0
+海鲜,Hài Sản Tư Chọn,Hài Sản Tư Chọn,0,,6.7,6.7,6.7
+海鲜,下龙湾渔村,下龙湾渔村,0,,6.8,6.8,6.8
+海鲜,Hong Hai Seafood,Hong Hai Seafood,0,胡志明市其他,0.0,0.0,0.0
+海鲜,Shots Bar/Restaurant,Shots Bar/Restaurant,0,12区-旧邑区/光中软件城,0.0,0.0,0.0
+海鲜,Quan Oc Xuan Anh,Quan Oc Xuan Anh,0,全部商区,6.9,6.9,6.9
+海鲜,Hemisphere's Steak and Seafood Grill,Hemisphere's Steak and Seafood Grill,0,河内其他,0.0,0.0,0.0
+海鲜,Cay Bang,Cay Bang,0,,7.1,7.1,7.1
+海鲜,sushi sakura,sushi sakura,0,全部商区,0.0,0.0,0.0
+海鲜,LUAN CHAU大排档海鲜,LUAN CHAU大排档海鲜,0,全部商区,0.0,0.0,0.0
+海鲜,Garden Seafood Restaurant,Garden Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,My Way Seafood,My Way Seafood,0,河内其他,0.0,0.0,0.0
+海鲜,Yeebo Seafood Restaurant,Yeebo Seafood Restaurant,0,胡志明市其他,0.0,0.0,0.0
+海鲜,黄渔海鲜大排档2,黄渔海鲜大排档2,0,,0.0,0.0,0.0
+海鲜,名源中餐厅,名源中餐厅,0,其他城市,0.0,0.0,0.0
+海鲜,Yeebo Seafood & Hot Pot Restaurant,Yeebo Seafood & Hot Pot Restaurant,0,胡志明市其他,0.0,0.0,0.0
+海鲜,Kim Long Seafood & Hot Pot Restaurant,Kim Long Seafood & Hot Pot Restaurant,0,胡志明市其他,0.0,0.0,0.0
+海鲜,Guangzhou Restaurants Seafood Gold Dragon,Guangzhou Restaurants Seafood Gold Dragon,0,河内其他,0.0,0.0,0.0
+海鲜,Chieu Vang Seafood Restaurant,Chieu Vang Seafood Restaurant,0,胡志明市其他,0.0,0.0,0.0
+海鲜,Quan Ba Thoi,Quan Ba Thoi,0,,0.0,0.0,0.0
+海鲜,Cay Bang,Cay Bang,0,,0.0,0.0,0.0
+日韩料理,寿司吧,寿司吧,0,永禄和谭平工业园,0.0,0.0,0.0
+日韩料理,TOKYO Deli,TOKYO Deli,0,胡志明市其他,7.0,7.1,7.1
+日韩料理,Hikari,Hikari,0,,7.0,7.0,7.0
+日韩料理,MOF Japanese Sweets & Cafe,MOF Japanese Sweets & Cafe,0,胡志明市其他,7.1,6.7,6.9
+日韩料理,The Sushi Bar,The Sushi Bar,0,,6.9,6.9,6.9
+日韩料理,Pizza 4P's,Pizza 4P's,0,胡志明市其他,0.0,0.0,0.0
+日韩料理,Blanchy Street,Blanchy Street,0,01区-盾胡维/源惠,0.0,0.0,0.0
+日韩料理,Achaya Cafe,Achaya Cafe,0,胡志明市其他,0.0,0.0,0.0
+日韩料理,Sushi Dining Aoi,Sushi Dining Aoi,0,战争遗迹博物馆,0.0,0.0,0.0
+日韩料理,Ichiban Sushi Vietnam,Ichiban Sushi Vietnam,0,胡志明市其他,0.0,0.0,0.0
+日韩料理,Kirin,Kirin,0,全部商区,7.2,7.2,7.2
+日韩料理,Cafe De home,Cafe De home,0,河内其他,0.0,0.0,0.0
+日韩料理,Ramen Bar Suzuki Ho Chi Minh City,Ramen Bar Suzuki Ho Chi Minh City,0,胡志明市其他,0.0,0.0,0.0
+日韩料理,Tokyo Deli,Tokyo Deli,0,西贡火车站/祈东,0.0,0.0,0.0
+日韩料理,Kissho Restaurant,Kissho Restaurant,0,01区-河畔,0.0,0.0,0.0
+日韩料理,Hokkaido BBQ,Hokkaido BBQ,0,胡志明市其他,0.0,0.0,0.0
+日韩料理,Le Thanh Ton Sakaba,Le Thanh Ton Sakaba,0,胡志明市其他,0.0,0.0,0.0
+日韩料理,SAKAI Japanese Restaurant,SAKAI Japanese Restaurant,0,胡志明市其他,0.0,0.0,0.0
+日韩料理,Tokyo Town,Tokyo Town,0,01区-领事馆/圣母大教堂,0.0,0.0,0.0
+日韩料理,Zen Saigon Japanese Yakitori Restaurant,Zen Saigon Japanese Yakitori Restaurant,0,西贡火车站/祈东,0.0,0.0,0.0
+日韩料理,The Sushi Bar 2,The Sushi Bar 2,0,胡志明市其他,0.0,0.0,0.0
+日韩料理,Wasabi - Nha Hang Ly Ba,Wasabi - Nha Hang Ly Ba,0,,7.0,7.1,7.1
+日韩料理,Sushiya,Sushiya,0,,7.0,7.0,7.0
+日韩料理,Miso,Miso,0,,7.0,6.9,7.0
+日韩料理,Doraku,Doraku,0,胡志明市其他,0.0,0.0,0.0
+日韩料理,Korean Kimchi food restaurant,Korean Kimchi food restaurant,0,河内其他,0.0,0.0,0.0
+日韩料理,Chaya Cafe,Chaya Cafe,0,胡志明市其他,0.0,0.0,0.0
+日韩料理,Asahi Sushi Restaurant,Asahi Sushi Restaurant,0,河内其他,0.0,0.0,0.0
+自助餐,山西太原,山西太原,0,,0.0,0.0,0.0
+咖啡厅,Melody Cafe,Melody Cafe,0,,9.0,8.8,9.0
+咖啡厅,高原咖啡,高原咖啡,25,胡志明市其他,7.3,7.2,6.9
+咖啡厅,记忆,记忆,0,,7.6,8.3,8.2
+咖啡厅,高原咖啡,高原咖啡,0,还剑区-老城区,7.5,7.4,7.5
+咖啡厅,Vi Cafe,Vi Cafe,26,全部商区,8.4,7.6,8.4
+咖啡厅,星巴克,星巴克,0,,7.7,7.7,7.6
+咖啡厅,咖啡豆和茶叶,咖啡豆和茶叶,0,,7.2,7.2,7.5
+咖啡厅,Yasaka Saigon Coffee,Yasaka Saigon Coffee,0,全部商区,7.1,7.7,7.4
+咖啡厅,Joe‘s Cafe,Joe‘s Cafe,0,,7.6,7.9,7.9
+咖啡厅,Window's Cafe,Window's Cafe,0,,7.8,7.8,7.8
+咖啡厅,Highlands Coffee,Highlands Coffee,0,,7.9,7.5,7.5
+咖啡厅,新闻和新艺术咖啡,新闻和新艺术咖啡,0,全部商区,7.6,7.5,7.6
+咖啡厅,v cafe,v cafe,0,全部商区,6.8,7.1,7.2
+咖啡厅,Java Coffee Bar,Java Coffee Bar,0,,6.7,6.7,6.7
+咖啡厅,Green Plaza,Green Plaza,0,,7.5,8.0,8.0
+咖啡厅,Tam Tam Cafe,Tam Tam Cafe,0,全部商区,6.7,6.7,6.7
+咖啡厅,Romy’s Ice Cream and Coffee Bar,Romy’s Ice Cream and Coffee Bar,0,全部商区,7.0,7.5,8.1
+咖啡厅,soc den,soc den,0,,8.3,8.3,8.3
+咖啡厅,Highland's Coffee,Highland's Coffee,0,,6.8,7.0,6.8
+咖啡厅,Bo Bo Cafe,Bo Bo Cafe,0,全部商区,6.9,6.9,7.8
+咖啡厅,The Hanoi Social Club,The Hanoi Social Club,0,还剑区-河内大教堂,0.0,0.0,0.0
+咖啡厅,Memory Lounge,Memory Lounge,0,,7.5,7.2,7.5
+咖啡厅,Le Cafe de la Poste,Le Cafe de la Poste,0,全部商区,7.5,7.5,7.5
+咖啡厅,V Cafe (Restaurant/Bar/Live Music),V Cafe (Restaurant/Bar/Live Music),0,全部商区,8.1,7.5,8.1
+咖啡厅,Zenith Yoga II & Cafe,Zenith Yoga II & Cafe,0,还剑区-老城区,0.0,0.0,0.0
+咖啡厅,Same Same But Different Cafe,Same Same But Different Cafe,0,全部商区,7.0,6.5,7.5
+咖啡厅,Love Sushi Lounge Cafe,Love Sushi Lounge Cafe,0,,8.3,8.3,8.3
+咖啡厅,Highlands Coffee Ham Nghi,Highlands Coffee Ham Nghi,0,胡志明市其他,8.4,7.5,8.4
+咖啡厅,Hai Scout Cafe,Hai Scout Cafe,0,全部商区,7.0,7.0,7.0
+咖啡厅,CHU,CHU,0,,6.7,6.7,6.7
+咖啡厅,Cafe Soi Da,Cafe Soi Da,0,,8.0,7.4,7.4
+咖啡厅,哈根达斯,哈根达斯,0,,6.9,6.9,6.9
+咖啡厅,Omar's Tandoori cafe,Omar's Tandoori cafe,0,全部商区,6.1,7.5,7.0
+咖啡厅,Cafe MyLife,Cafe MyLife,0,胡志明市其他,7.9,7.9,7.9
+咖啡厅,highlands coffee Danang,highlands coffee Danang,0,,0.0,0.0,0.0
+咖啡厅,江咖啡厅,江咖啡厅,0,还剑区-老城区,0.0,0.0,0.0
+咖啡厅,chu,chu,0,,8.1,6.7,7.4
+咖啡厅,Hai Phong Coffee Shop & Restaurant,Hai Phong Coffee Shop & Restaurant,0,全部商区,6.6,6.7,7.0
+咖啡厅,天堂咖啡,天堂咖啡,0,河内其他,7.3,7.3,7.3
+咖啡厅,Dalat Train Cafe,Dalat Train Cafe,0,全部商区,7.5,7.5,8.5
+咖啡厅,Chillout cafe,Chillout cafe,0,,7.0,7.4,7.4
+咖啡厅,高原咖啡,高原咖啡,0,胡志明市其他,7.3,7.3,7.3
+咖啡厅,Hanoi House Cafe,Hanoi House Cafe,0,,7.0,7.1,7.1
+咖啡厅,星巴克,星巴克,0,,6.9,7.0,7.0
+咖啡厅,星咖啡,星咖啡,0,,7.0,6.9,7.1
+咖啡厅,M2C cafe,M2C cafe,0,平成区-嘉庭,0.0,0.0,0.0
+咖啡厅,BEJA VU SPACE,BEJA VU SPACE,0,,7.0,7.0,7.1
+咖啡厅,Lu Coffee,Lu Coffee,0,,7.0,7.0,7.1
+咖啡厅,阿南咖啡,阿南咖啡,0,还剑区-老城区,7.1,7.0,7.1
+咖啡厅,天堂咖啡,天堂咖啡,0,河内其他,7.0,7.1,7.0
+咖啡厅,Sua Qua 2Q,Sua Qua 2Q,0,,7.1,7.1,7.1
+咖啡厅,AMI COFFEE BAR,AMI COFFEE BAR,0,,7.0,6.9,6.9
+咖啡厅,VpresSo Cafe,VpresSo Cafe,0,,7.0,6.9,6.9
+咖啡厅,兄弟咖啡,兄弟咖啡,0,河内其他,7.1,7.1,7.0
+咖啡厅,Quán Roma Cafe,Quán Roma Cafe,0,河内其他,6.9,6.9,7.0
+咖啡厅,Bamboo Cafe,Bamboo Cafe,0,,7.1,7.1,7.1
+咖啡厅,SASCO,SASCO,0,胡志明市其他,6.7,6.7,6.7
+咖啡厅,摩卡咖啡,摩卡咖啡,0,还剑区-河内大教堂,6.7,7.0,7.0
+咖啡厅,享受会安,享受会安,0,全部商区,6.6,6.9,6.7
+咖啡厅,Allez Boo,Allez Boo,0,04区-芽荣码头/胡志明西贡码头,6.6,6.9,6.7
+咖啡厅,Nan Phong Coffee,Nan Phong Coffee,0,,0.0,0.0,0.0
+咖啡厅,Cafe Can,Cafe Can,0,全部商区,6.4,6.4,6.7
+咖啡厅,Passio Coffee,Passio Coffee,0,,7.5,6.8,6.8
+咖啡厅,Cafe HD,Cafe HD,0,河内其他,7.3,7.3,7.3
+咖啡厅,Elle Cafe,Elle Cafe,0,,6.8,7.2,7.3
+咖啡厅,The Library,The Library,0,,7.0,7.1,7.1
+咖啡厅,Coffee Bean & Tea Leaf,Coffee Bean & Tea Leaf,0,,7.0,7.0,7.0
+咖啡厅,Givral Cafe,Givral Cafe,0,胡志明市其他,7.0,6.9,7.0
+咖啡厅,PIN CAFE,PIN CAFE,0,其他城市,7.0,7.0,7.1
+咖啡厅,Pino Caffe,Pino Caffe,0,河内其他,6.9,6.7,6.6
+咖啡厅,玫瑰咖啡,玫瑰咖啡,0,胡志明市其他,6.7,6.9,6.7
+咖啡厅,Olive Coffee Lounge,Olive Coffee Lounge,0,,7.0,7.0,7.0
+咖啡厅,L'Usine,L'Usine,0,01区-盾胡维/源惠,0.0,0.0,0.0
+咖啡厅,Cafe des Amis,Cafe des Amis,0,全部商区,7.2,7.2,7.2
+咖啡厅,Cafe Runam,Cafe Runam,0,,6.7,8.4,7.5
+咖啡厅,KUP Coffee togo,KUP Coffee togo,0,,6.9,6.9,6.9
+咖啡厅,Rafew Cafe,Rafew Cafe,0,,7.0,7.0,7.0
+咖啡厅,Zen Cafe,Zen Cafe,0,全部商区,0.0,0.0,0.0
+咖啡厅,Segafredo,Segafredo,0,,6.9,6.9,6.9
+咖啡厅,Cafe Wind,Cafe Wind,0,,6.9,6.9,6.9
+咖啡厅,Cyclo Cafe,Cyclo Cafe,0,全部商区,7.2,7.2,7.2
+咖啡厅,iCafe Saigon,iCafe Saigon,0,,6.9,6.9,6.9
+咖啡厅,Cuppa Coffee,Cuppa Coffee,0,全部商区,7.2,7.2,7.2
+咖啡厅,Cafe Caracoli,Cafe Caracoli,0,,6.9,6.9,6.9
+咖啡厅,Tam Tam Jardin Restaurant and Cafe,Tam Tam Jardin Restaurant and Cafe,0,全部商区,7.1,7.1,7.1
+咖啡厅,Phone Cafe,Phone Cafe,0,全部商区,7.2,7.2,7.2
+咖啡厅,TiPi Speak English Cafe,TiPi Speak English Cafe,0,,6.9,7.0,7.0
+咖啡厅,Iced Coffee,Iced Coffee,0,全部商区,7.2,7.2,7.2
+咖啡厅,Paramount cafe,Paramount cafe,0,全部商区,6.8,6.8,7.1
+咖啡厅,The Coffee Inn,The Coffee Inn,0,还剑区-老城区,0.0,0.0,0.0
+咖啡厅,Mandarin Cafe,Mandarin Cafe,0,,7.2,7.2,7.2
+咖啡厅,Nguyen Thanh Nhan Cafe,Nguyen Thanh Nhan Cafe,0,全部商区,7.1,7.0,7.1
+咖啡厅,Cafe Noi,Cafe Noi,0,全部商区,6.9,6.9,6.9
+咖啡厅,Loft Cafe,Loft Cafe,0,,7.0,7.1,7.1
+咖啡厅,STREETS Restaurant Cafe,STREETS Restaurant Cafe,0,全部商区,7.2,7.7,7.2
+咖啡厅,Cafe Zoom,Cafe Zoom,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+咖啡厅,"ZanZBar Restaurant, Cafe & Bar","ZanZBar Restaurant, Cafe & Bar",0,05区-中国城,0.0,0.0,0.0
+咖啡厅,I.d Cafe,I.d Cafe,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Illy Cafe,Illy Cafe,0,河内其他,0.0,0.0,0.0
+咖啡厅,Momiji,Momiji,0,全部商区,6.9,7.0,6.9
+咖啡厅,Cafe Central An Dong,Cafe Central An Dong,0,,7.0,7.0,7.0
+咖啡厅,Cafe Cat Tuong,Cafe Cat Tuong,0,全部商区,6.9,6.9,6.9
+咖啡厅,Cafe Phoi Pha,Cafe Phoi Pha,0,全部商区,7.0,7.0,7.0
+咖啡厅,Cafe 43,Cafe 43,0,全部商区,7.2,7.2,7.2
+咖啡厅,Fusion Cafe,Fusion Cafe,0,全部商区,7.2,7.2,7.2
+咖啡厅,Cafe Nguyen,Cafe Nguyen,0,,7.1,7.0,7.0
+咖啡厅,Tea Talk Cafe,Tea Talk Cafe,0,河内其他,0.0,0.0,0.0
+咖啡厅,City View Cafe,City View Cafe,0,河内其他,0.0,0.0,0.0
+咖啡厅,Tamarind Cafe,Tamarind Cafe,0,还剑区-老城区,0.0,0.0,0.0
+咖啡厅,Cafe Triet Retreat,Cafe Triet Retreat,0,全部商区,7.2,7.2,7.2
+咖啡厅,Hideaway Cafe,Hideaway Cafe,0,,0.0,0.0,0.0
+咖啡厅,Banana Split Cafe,Banana Split Cafe,0,全部商区,7.1,7.1,7.1
+咖啡厅,Retrobite Diner Cafe,Retrobite Diner Cafe,0,,6.9,6.9,6.9
+咖啡厅,kims cafe,kims cafe,0,,7.1,7.1,7.1
+咖啡厅,Golden Bell Cafe and Restaurant,Golden Bell Cafe and Restaurant,0,全部商区,6.9,6.9,6.9
+咖啡厅,Vy's Coffee,Vy's Coffee,0,全部商区,6.9,6.9,6.9
+咖啡厅,Du Mien Garden Cafe,Du Mien Garden Cafe,0,,6.9,6.9,6.9
+咖啡厅,The Tibetian Coffee Shop,The Tibetian Coffee Shop,0,,6.9,6.9,6.9
+咖啡厅,Carot Cafe,Carot Cafe,0,,6.9,6.9,6.9
+咖啡厅,Coffee Gemini,Coffee Gemini,0,,6.9,7.0,6.9
+咖啡厅,Bicycle Up Coffee Bar and Store,Bicycle Up Coffee Bar and Store,0,全部商区,7.2,7.2,7.2
+咖啡厅,Note Coffee,Note Coffee,0,全部商区,7.1,7.1,7.1
+咖啡厅,Cay Da Cafe,Cay Da Cafe,0,,7.0,7.0,7.0
+咖啡厅,Mien Dong Thao Cafe,Mien Dong Thao Cafe,0,,7.0,7.0,7.1
+咖啡厅,Moka Cafe,Moka Cafe,0,全部商区,6.9,6.9,6.9
+咖啡厅,Cappuccino,Cappuccino,0,,6.8,6.8,6.8
+咖啡厅,Cafe on Thu Wheels,Cafe on Thu Wheels,0,,7.2,7.2,7.2
+咖啡厅,Saigon Cafe,Saigon Cafe,0,,7.1,7.1,7.1
+咖啡厅,She Cafe,She Cafe,0,,6.9,7.0,7.1
+咖啡厅,Trip Nguyen Restaurant Cafe,Trip Nguyen Restaurant Cafe,0,全部商区,7.2,7.2,7.2
+咖啡厅,Cafe des Amis,Cafe des Amis,0,全部商区,6.8,6.8,6.8
+咖啡厅,Cosigon Restaurant Cafe Lounge,Cosigon Restaurant Cafe Lounge,0,,0.0,0.0,0.0
+咖啡厅,Copy & Paste,Copy & Paste,0,河内其他,0.0,0.0,0.0
+咖啡厅,Hanoi Cooking Centre Cafe,Hanoi Cooking Centre Cafe,0,河内其他,0.0,0.0,0.0
+咖啡厅,Dallas Cakes & Coffee,Dallas Cakes & Coffee,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,I-feel cafe and lounge,I-feel cafe and lounge,0,河内其他,0.0,0.0,0.0
+咖啡厅,Happy Coffee Bean,Happy Coffee Bean,0,还剑区-老城区,0.0,0.0,0.0
+咖啡厅,Dine Viva Restaurant Cafe,Dine Viva Restaurant Cafe,0,,0.0,0.0,0.0
+咖啡厅,Duck Cafe,Duck Cafe,0,全部商区,7.1,7.1,7.1
+咖啡厅,Veronica coffee,Veronica coffee,0,全部商区,6.7,6.7,6.9
+咖啡厅,Art Cafe,Art Cafe,0,全部商区,7.2,7.2,7.2
+咖啡厅,Far East Rock Cafe,Far East Rock Cafe,0,全部商区,7.2,7.2,7.2
+咖啡厅,Tu Anh's Peace Cafe,Tu Anh's Peace Cafe,0,全部商区,7.2,7.2,7.2
+咖啡厅,GONY spa cafe lounge,GONY spa cafe lounge,0,,7.2,7.2,7.2
+咖啡厅,The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Citronella Cafe,Citronella Cafe,0,全部商区,7.2,7.2,7.2
+咖啡厅,Viet Emotion Restaurant and Tapas Cafe,Viet Emotion Restaurant and Tapas Cafe,0,,7.2,7.2,7.2
+咖啡厅,Rainy Cafe,Rainy Cafe,0,全部商区,7.0,7.0,7.1
+咖啡厅,Kim Cafe,Kim Cafe,0,,7.1,7.1,7.1
+咖啡厅,Yamamoto Mattcha Cafe,Yamamoto Mattcha Cafe,0,,6.9,6.9,6.9
+咖啡厅,Baby Dingo Cafe,Baby Dingo Cafe,0,全部商区,7.1,7.1,7.1
+咖啡厅,Flavours Cafe,Flavours Cafe,0,全部商区,7.1,7.1,7.0
+咖啡厅,Family Coffee,Family Coffee,0,全部商区,7.0,7.0,7.0
+咖啡厅,Gon Cafe,Gon Cafe,0,,7.1,7.1,7.1
+咖啡厅,The Morning Cafe,The Morning Cafe,0,,7.0,7.0,7.1
+咖啡厅,Cafe - Kem,Cafe - Kem,0,,6.9,6.9,6.9
+咖啡厅,Mr Green,Mr Green,0,,7.1,7.1,7.0
+咖啡厅,Luu Gia Cafe and Food,Luu Gia Cafe and Food,0,,7.1,7.0,7.0
+咖啡厅,Duy4i Coffee,Duy4i Coffee,0,,6.9,6.9,6.9
+咖啡厅,The Warehouse Coffee,The Warehouse Coffee,0,,6.9,6.9,6.9
+咖啡厅,Bonte' Cafe Bistro,Bonte' Cafe Bistro,0,,6.9,6.9,6.9
+咖啡厅,Gidino Art Cafe,Gidino Art Cafe,0,全部商区,7.1,7.1,7.1
+咖啡厅,Goc Cafe - Arts and more,Goc Cafe - Arts and more,0,,6.9,6.9,6.9
+咖啡厅,Eleven Cafe,Eleven Cafe,0,,7.1,7.1,7.1
+咖啡厅,Green Bamboo Forest,Green Bamboo Forest,0,,6.9,7.0,7.0
+咖啡厅,Saigonista Coffee,Saigonista Coffee,0,,7.1,7.0,7.0
+咖啡厅,The Snap Cafe,The Snap Cafe,0,02区-陶迭,0.0,0.0,0.0
+咖啡厅,Rainbow Cafe,Rainbow Cafe,0,河内其他,0.0,0.0,0.0
+咖啡厅,Givral Cafe,Givral Cafe,0,,7.0,7.0,7.0
+咖啡厅,Peters Coffee Corner,Peters Coffee Corner,0,,7.1,7.1,7.1
+咖啡厅,Green Leaf Cafe,Green Leaf Cafe,0,,7.0,7.0,7.0
+咖啡厅,Time Cafe and Bakery,Time Cafe and Bakery,0,,7.0,7.0,7.0
+咖啡厅,Cuc Gach Cafe,Cuc Gach Cafe,0,,7.0,7.0,7.1
+咖啡厅,Design Cafe,Design Cafe,0,,6.9,6.9,6.9
+咖啡厅,MonPERE CAFE,MonPERE CAFE,0,,6.9,6.9,6.9
+咖啡厅,Mercury cafe,Mercury cafe,0,,6.9,7.0,7.0
+咖啡厅,Jimmy Cafe,Jimmy Cafe,0,,7.0,7.1,7.1
+咖啡厅,Moon Night Restaurant and Coffee Lounge,Moon Night Restaurant and Coffee Lounge,0,全部商区,7.1,7.1,7.1
+咖啡厅,Green Moss,Green Moss,0,全部商区,7.2,6.8,6.8
+咖啡厅,Katie's Coffee House,Katie's Coffee House,0,,7.2,7.2,7.2
+咖啡厅,cafe 185,cafe 185,0,,7.0,7.1,7.1
+咖啡厅,Memory Cafe,Memory Cafe,0,全部商区,7.1,7.1,7.1
+咖啡厅,Starbucks Coffee Shop,Starbucks Coffee Shop,0,,7.1,7.1,7.1
+咖啡厅,Laugh Cafe Restaurant,Laugh Cafe Restaurant,0,全部商区,7.7,7.2,7.2
+咖啡厅,Mr. Pho - Pho Cafe,Mr. Pho - Pho Cafe,0,,7.1,7.3,7.1
+咖啡厅,Shalom Coffee,Shalom Coffee,0,,7.1,7.1,7.1
+咖啡厅,Chefhung's Home Kitchen,Chefhung's Home Kitchen,0,全部商区,7.2,7.2,7.2
+咖啡厅,Cafe Sambal,Cafe Sambal,0,,6.9,6.9,6.9
+咖啡厅,White Sail Cafe (Canh Buom Trang),White Sail Cafe (Canh Buom Trang),0,全部商区,7.2,7.2,7.2
+咖啡厅,Tram Coffee,Tram Coffee,0,,6.9,6.9,6.9
+咖啡厅,Mandarin cafe,Mandarin cafe,0,全部商区,7.1,7.1,7.1
+咖啡厅,Gourmet Corner Hoi An,Gourmet Corner Hoi An,0,全部商区,7.7,7.7,7.2
+咖啡厅,Cafe RuNam,Cafe RuNam,0,,7.1,7.1,7.5
+咖啡厅,41 Cafe,41 Cafe,0,全部商区,7.2,7.7,7.2
+咖啡厅,U Cafe Hoi An,U Cafe Hoi An,0,全部商区,7.5,7.5,7.5
+咖啡厅,Cafe Nang Moi Sai Gon,Cafe Nang Moi Sai Gon,0,,7.1,7.1,7.1
+咖啡厅,Trung Nguyen Coffee Village,Trung Nguyen Coffee Village,0,,6.9,7.0,7.0
+咖啡厅,Cafe Gia Nguyen,Cafe Gia Nguyen,0,全部商区,6.9,6.9,6.9
+咖啡厅,Cafe 54,Cafe 54,0,,6.9,6.9,6.9
+咖啡厅,3D Coffee,3D Coffee,0,,7.1,7.1,7.1
+咖啡厅,Cafe If,Cafe If,0,,7.2,7.2,7.2
+咖啡厅,Awesome Coffee Ho Chi Minh,Awesome Coffee Ho Chi Minh,0,,7.0,7.0,7.0
+咖啡厅,Day and Night,Day and Night,0,全部商区,7.2,7.2,7.2
+咖啡厅,Restaurant Cafe 96,Restaurant Cafe 96,0,全部商区,7.2,7.2,7.2
+咖啡厅,BiBo,BiBo,0,,7.1,7.1,7.1
+咖啡厅,Nina's Cafe,Nina's Cafe,0,,7.2,7.2,7.2
+咖啡厅,Facebook House Coffee,Facebook House Coffee,0,全部商区,7.0,7.0,7.0
+咖啡厅,"artista cafe, Vietnam","artista cafe, Vietnam",0,全部商区,6.9,6.9,7.0
+咖啡厅,Cafe 333,Cafe 333,0,,7.0,7.0,7.0
+咖啡厅,Viet Emotion Cafe Restaurant,Viet Emotion Cafe Restaurant,0,,6.8,7.1,7.1
+咖啡厅,Dunkin' Donuts,Dunkin' Donuts,0,,7.0,7.0,7.0
+咖啡厅,Cafe on le Loi,Cafe on le Loi,0,全部商区,6.9,6.9,6.9
+咖啡厅,Art Cafe Grindo,Art Cafe Grindo,0,全部商区,6.9,6.9,6.9
+咖啡厅,White Sale Cafe,White Sale Cafe,0,全部商区,7.1,7.1,7.1
+咖啡厅,Chicco Dicaff Coffee,Chicco Dicaff Coffee,0,,7.1,7.1,7.0
+咖啡厅,Am Sac Coffee House,Am Sac Coffee House,0,,7.0,7.0,7.1
+咖啡厅,Phuong Nam Cafe,Phuong Nam Cafe,0,,7.2,7.2,7.2
+咖啡厅,Sentosa Restaurant - Bar - Coffee,Sentosa Restaurant - Bar - Coffee,0,全部商区,6.9,6.9,6.9
+咖啡厅,Allez Boo,Allez Boo,0,,6.8,7.1,7.1
+咖啡厅,Indigenous,Indigenous,0,河内其他,0.0,0.0,0.0
+咖啡厅,Bookworm's Coffee,Bookworm's Coffee,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Tranquility Cafe and Restaurant,Tranquility Cafe and Restaurant,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Eva Cafe,Eva Cafe,0,,7.1,7.3,7.3
+咖啡厅,Dune Cafe,Dune Cafe,0,,0.0,0.0,0.0
+咖啡厅,Hog's Breath Cafe,Hog's Breath Cafe,0,,0.0,0.0,0.0
+咖啡厅,Sasa Cafe,Sasa Cafe,0,永禄和谭平工业园,0.0,0.0,0.0
+咖啡厅,The Spot,The Spot,0,还剑区-老城区,0.0,0.0,0.0
+咖啡厅,Gecko Cafe,Gecko Cafe,0,河内其他,0.0,0.0,0.0
+咖啡厅,Ciao Cafe,Ciao Cafe,0,01区-盾胡维/源惠,0.0,0.0,0.0
+咖啡厅,Phongnha Discovery Pizza Cafe,Phongnha Discovery Pizza Cafe,0,,7.2,7.2,7.2
+咖啡厅,Phuot Coffee,Phuot Coffee,0,,6.9,6.9,6.9
+咖啡厅,Nut Coffee,Nut Coffee,0,,6.9,6.9,6.9
+咖啡厅,Nu Coffee,Nu Coffee,0,,6.9,6.9,6.9
+咖啡厅,Brodard Cafe,Brodard Cafe,0,,7.1,7.1,7.1
+咖啡厅,Passio coffee 112 Nguyen thi minh khai .Saigon,Passio coffee 112 Nguyen thi minh khai .Saigon,0,,6.9,6.9,6.9
+咖啡厅,Venus cafe,Venus cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Rivoli,Cafe Rivoli,0,,7.1,7.1,7.1
+咖啡厅,Cafe Milano Radio,Cafe Milano Radio,0,,7.0,7.1,7.0
+咖啡厅,Cyclo Cafe,Cyclo Cafe,0,,7.1,7.1,7.1
+咖啡厅,Crepitee Cafe,Crepitee Cafe,0,,7.1,7.0,7.1
+咖啡厅,Cafe Nguyen Hoang,Cafe Nguyen Hoang,0,,6.9,6.9,6.9
+咖啡厅,Legend Coffee,Legend Coffee,0,,6.9,6.9,6.9
+咖啡厅,Cafe Zoom Hoi An,Cafe Zoom Hoi An,0,全部商区,7.1,7.1,7.1
+咖啡厅,Tit Coffee Bar,Tit Coffee Bar,0,全部商区,6.9,7.1,7.1
+咖啡厅,I Love Kon Tum Cafe,I Love Kon Tum Cafe,0,,7.0,6.9,7.1
+咖啡厅,Ca Dao Cafe,Ca Dao Cafe,0,,6.9,6.9,6.9
+咖啡厅,ST Cafe,ST Cafe,0,,6.9,6.9,6.9
+咖啡厅,Master's Cup Coffee House,Master's Cup Coffee House,0,,6.9,6.9,6.9
+咖啡厅,Lisboa Cafe,Lisboa Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cobares Coffee Shop-Food Court,Cobares Coffee Shop-Food Court,0,,6.9,6.9,6.9
+咖啡厅,Bali Coffee,Bali Coffee,0,,7.0,7.0,7.0
+咖啡厅,Green Chili,Green Chili,0,全部商区,7.2,7.2,7.2
+咖啡厅,Mia Coffee,Mia Coffee,0,全部商区,7.2,7.2,7.2
+咖啡厅,Hoi AN Heritage Hotel Cafe,Hoi AN Heritage Hotel Cafe,0,全部商区,6.9,6.9,6.9
+咖啡厅,Highlands Coffee,Highlands Coffee,0,全部商区,7.0,7.0,7.0
+咖啡厅,Lame Cafe,Lame Cafe,0,全部商区,7.1,7.1,6.8
+咖啡厅,Bob's Cafe American,Bob's Cafe American,0,,7.2,7.2,7.2
+咖啡厅,Barbara's Kiwi Cafe,Barbara's Kiwi Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Emi,Cafe Emi,0,,6.9,6.9,6.9
+咖啡厅,La cafe,La cafe,0,,7.1,7.1,7.1
+咖啡厅,Eden Cafe,Eden Cafe,0,,7.1,7.1,7.1
+咖啡厅,"Deutsches Eck: German Restaurant, Cafe and Pub","Deutsches Eck: German Restaurant, Cafe and Pub",0,,7.1,7.1,7.1
+咖啡厅,Huong Vy Cafe,Huong Vy Cafe,0,,7.1,7.1,7.1
+咖啡厅,Kampung Style Cafe,Kampung Style Cafe,0,,7.0,7.0,7.0
+咖啡厅,L'Anmien Dining Cafe,L'Anmien Dining Cafe,0,,7.0,7.0,7.0
+咖啡厅,Boutique Cafe,Boutique Cafe,0,,7.0,7.1,7.1
+咖啡厅,Cantina cafe,Cantina cafe,0,,7.0,7.0,7.0
+咖啡厅,Cafe Terrace,Cafe Terrace,0,,6.8,6.8,7.1
+咖啡厅,angel in-us coffee,angel in-us coffee,0,,7.1,7.1,7.1
+咖啡厅,Beirut Cafe and Lounge,Beirut Cafe and Lounge,0,,6.9,6.9,6.9
+咖啡厅,Regina Coffee,Regina Coffee,0,,7.0,7.0,7.0
+咖啡厅,Bootleg DJ Cafe,Bootleg DJ Cafe,0,,7.1,7.1,7.3
+咖啡厅,42 Cafe,42 Cafe,0,,6.9,6.7,6.9
+咖啡厅,Pearl Cafe,Pearl Cafe,0,,6.9,6.9,6.9
+咖啡厅,Up Cafe,Up Cafe,0,,6.9,7.0,7.0
+咖啡厅,Grace's Home Pizza - Coffee,Grace's Home Pizza - Coffee,0,,7.0,7.0,7.0
+咖啡厅,Wander Cafe,Wander Cafe,0,,7.0,7.0,7.0
+咖啡厅,Thi Cafe,Thi Cafe,0,,6.6,7.1,7.1
+咖啡厅,Tropical Coffee,Tropical Coffee,0,,7.1,7.1,7.1
+咖啡厅,Cafe Ti Muoi,Cafe Ti Muoi,0,全部商区,7.0,7.0,7.0
+咖啡厅,Cafe 57,Cafe 57,0,全部商区,7.1,7.1,7.1
+咖啡厅,Green Catba,Green Catba,0,,7.1,7.1,7.1
+咖啡厅,Cafe in the Clouds,Cafe in the Clouds,0,,7.1,7.1,7.5
+咖啡厅,Yellow Star Cafe,Yellow Star Cafe,0,全部商区,6.8,7.1,7.1
+咖啡厅,Re-Treat cafe,Re-Treat cafe,0,全部商区,6.8,6.8,6.6
+咖啡厅,Cappuccino,Cappuccino,0,全部商区,6.6,7.1,6.8
+咖啡厅,Cafe Central Nguyen Hue,Cafe Central Nguyen Hue,0,,6.8,7.1,6.8
+咖啡厅,Centro Cafe and Restaurant,Centro Cafe and Restaurant,0,,7.1,6.8,6.8
+咖啡厅,That's Cafe,That's Cafe,0,,6.9,6.9,7.0
+咖啡厅,Moc Lan Coffee,Moc Lan Coffee,0,全部商区,6.9,6.9,6.9
+咖啡厅,Fanny's Ice Cream(Vincom Acc),Fanny's Ice Cream(Vincom Acc),0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Sago Bar Coffee,Sago Bar Coffee,0,,0.0,0.0,0.0
+咖啡厅,highland coffee,highland coffee,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,MC Coffee Restaurant,MC Coffee Restaurant,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Cafe Vinh,Cafe Vinh,0,,0.0,0.0,0.0
+咖啡厅,Vincentus Coffee,Vincentus Coffee,0,河内其他,0.0,0.0,0.0
+咖啡厅,Swing Coffee And Bar,Swing Coffee And Bar,0,全部商区,0.0,0.0,0.0
+咖啡厅,Trung Nguyen,Trung Nguyen,0,,0.0,0.0,0.0
+咖啡厅,Fusion Cafe,Fusion Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe - Game VGN Center,Cafe - Game VGN Center,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Coffee Bean,Coffee Bean,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+咖啡厅,Gia Pho Cafe,Gia Pho Cafe,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Terrace Coffee,Terrace Coffee,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Đại lý Cafe Trung Nguyên,Đại lý Cafe Trung Nguyên,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,雅尼烘焙,雅尼烘焙,0,,0.0,0.0,0.0
+咖啡厅,My Way Cafe,My Way Cafe,0,河内其他,0.0,0.0,0.0
+咖啡厅,Niche Cafe,Niche Cafe,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Mojo,Mojo,0,,0.0,0.0,0.0
+咖啡厅,Tam Loc cafe,Tam Loc cafe,0,还剑区-老城区,0.0,0.0,0.0
+咖啡厅,The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Cafe Hương Việt,Cafe Hương Việt,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Cafe Mai,Cafe Mai,0,河内其他,0.0,0.0,0.0
+咖啡厅,Galaxy Cafe,Galaxy Cafe,0,河内其他,0.0,0.0,0.0
+咖啡厅,Harp Bon mua,Harp Bon mua,0,河内其他,0.0,0.0,0.0
+咖啡厅,Sua Qua 2Q,Sua Qua 2Q,0,还剑区-老城区,0.0,0.0,0.0
+咖啡厅,Cafe Runam,Cafe Runam,0,,0.0,0.0,0.0
+咖啡厅,Bobby Brewers咖啡馆,Bobby Brewers咖啡馆,0,,0.0,0.0,0.0
+咖啡厅,福隆咖啡堡,福隆咖啡堡,0,,0.0,0.0,0.0
+咖啡厅,咖啡部落,咖啡部落,0,,0.0,0.0,0.0
+咖啡厅,Tuico Cafe,Tuico Cafe,0,,0.0,0.0,0.0
+咖啡厅,Coffee My Sol,Coffee My Sol,0,,0.0,0.0,0.0
+咖啡厅,Huong Viet Cafe,Huong Viet Cafe,0,,0.0,0.0,0.0
+咖啡厅,window's cafe,window's cafe,0,,0.0,0.0,0.0
+咖啡厅,cafe Hồng Phát,cafe Hồng Phát,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Cafe Số 1 Bùi Thị Xuân,Cafe Số 1 Bùi Thị Xuân,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Quán Cafe Mộc,Quán Cafe Mộc,0,,0.0,0.0,0.0
+咖啡厅,Shen Cafe,Shen Cafe,0,,0.0,0.0,0.0
+咖啡厅,Thuy Moc Coffee,Thuy Moc Coffee,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Gloria Jean's Coffees,Gloria Jean's Coffees,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Cafe Phố Thanh,Cafe Phố Thanh,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Coffee Bean & Tea Leaf,Coffee Bean & Tea Leaf,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Overture cafe,Overture cafe,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Cafe Trung Nguyên,Cafe Trung Nguyên,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Pause II cafe,Pause II cafe,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+咖啡厅,Quán Cafe Bonjour,Quán Cafe Bonjour,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Ciao Cafe,Ciao Cafe,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Cafe Legend,Cafe Legend,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Cafe Hoa Xinh,Cafe Hoa Xinh,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Quán Cafe Phê Nắng Xuân,Quán Cafe Phê Nắng Xuân,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Cafe Sinh Viên,Cafe Sinh Viên,0,12区-旧邑区/光中软件城,0.0,0.0,0.0
+咖啡厅,Legend Coffee,Legend Coffee,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Eden Cafe,Eden Cafe,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,V Coffee Lounge,V Coffee Lounge,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Quán Cafe Trúc Hương,Quán Cafe Trúc Hương,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Cafe 136,Cafe 136,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Pearl Cafe,Pearl Cafe,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Santa Cafe,Santa Cafe,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+咖啡厅,Sammy Cafe,Sammy Cafe,0,胡志明市其他,0.0,0.0,0.0
+咖啡厅,Pao Cafe,Pao Cafe,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+咖啡厅,Daily Cafe,Daily Cafe,0,河内其他,0.0,0.0,0.0
+咖啡厅,Sunshine Cafe,Sunshine Cafe,0,河内其他,0.0,0.0,0.0
+咖啡厅,Cafe Gốc,Cafe Gốc,0,河内其他,0.0,0.0,0.0
+咖啡厅,Cafe Nola,Cafe Nola,0,还剑区-老城区,0.0,0.0,0.0
+咖啡厅,Sell Weasel coffee,Sell Weasel coffee,0,还剑区-老城区,0.0,0.0,0.0
+咖啡厅,Cafe Giảng,Cafe Giảng,0,河内其他,0.0,0.0,0.0
+咖啡厅,Faceboook Cafe,Faceboook Cafe,0,河内其他,0.0,0.0,0.0
+咖啡厅,Cafe Hoa Sua,Cafe Hoa Sua,0,还剑区-老城区,0.0,0.0,0.0
+酒吧,Sailing Club Nha Trang,Sailing Club Nha Trang,129,全部商区,7.0,7.9,7.8
+酒吧,丽都酒吧餐厅Li Do Bar And ResTaurAnt,丽都酒吧餐厅Li Do Bar And ResTaurAnt,0,,7.5,7.5,7.4
+酒吧,Chill Skybar,Chill Skybar,0,胡志明市其他,7.4,7.4,7.4
+酒吧,The Cargo Club,The Cargo Club,0,全部商区,7.3,7.0,6.6
+酒吧,Bamboo2 Bar,Bamboo2 Bar,0,,7.5,7.2,7.6
+酒吧,GECKO,GECKO,0,还剑区-老城区,7.3,7.3,7.3
+酒吧,Snow Seafood resTaurAnt And Bar,Snow Seafood resTaurAnt And Bar,0,,6.5,6.5,6.5
+酒吧,Jibe's Beach Club,Jibe's Beach Club,0,,8.0,8.0,8.0
+酒吧,Wild Lotus Restaurant,Wild Lotus Restaurant,0,河内其他,0.0,0.0,0.0
+酒吧,The Spot Bar,The Spot Bar,0,全部商区,7.0,7.0,7.0
+酒吧,诺拉,诺拉,0,还剑区-老城区,0.0,0.0,0.0
+酒吧,Nhà Hàng Lẩu Steamboat Singapore,Nhà Hàng Lẩu Steamboat Singapore,0,,8.1,7.4,8.1
+酒吧,Altitude Bar,Altitude Bar,0,全部商区,6.9,8.1,7.5
+酒吧,oasis,oasis,0,全部商区,7.1,7.0,7.1
+酒吧,69 Bar-Restaurant,69 Bar-Restaurant,0,还剑区-老城区,0.0,0.0,0.0
+酒吧,Apocalypse Now,Apocalypse Now,0,01区-河畔,6.9,7.0,7.0
+酒吧,Sankara,Sankara,0,,6.7,7.0,6.9
+酒吧,Crazy Buffalo,Crazy Buffalo,0,01区-彭谷劳/泰巴罗,6.9,6.7,6.7
+酒吧,Game on Sports Pub,Game on Sports Pub,0,胡志明市其他,0.0,0.0,0.0
+酒吧,十七牛仔,十七牛仔,0,河内其他,7.3,7.3,7.8
+酒吧,微风天空,微风天空,0,胡志明市其他,0.0,0.0,0.0
+酒吧,Hải Phòng KTV,Hải Phòng KTV,0,海防市其他,7.0,7.0,7.0
+酒吧,Wine Bar,Wine Bar,0,,0.0,0.0,0.0
+酒吧,OH ! SUSHI BAR,OH ! SUSHI BAR,0,全部商区,7.2,7.2,7.2
+酒吧,the Moose & Roo Pub & Grill,the Moose & Roo Pub & Grill,0,还剑区-老城区,0.0,0.0,0.0
+酒吧,Sky View Lounge,Sky View Lounge,0,,7.1,7.1,7.1
+酒吧,RED Bar & Restaurant,RED Bar & Restaurant,0,01区-河畔,0.0,0.0,0.0
+酒吧,88 Lounge,88 Lounge,0,河内其他,0.0,0.0,0.0
+酒吧,Sky Bar Danang,Sky Bar Danang,0,,7.2,7.2,7.2
+酒吧,Crazy Kim Bar and Restaurant,Crazy Kim Bar and Restaurant,0,全部商区,7.2,7.2,7.2
+酒吧,Kool Mini Resturant - Bar,Kool Mini Resturant - Bar,0,,6.9,6.9,6.9
+酒吧,Long Phi Bar,Long Phi Bar,0,,7.1,7.1,7.1
+酒吧,Beach bar and restaurant,Beach bar and restaurant,0,全部商区,6.9,6.9,6.9
+酒吧,Soho Danang,Soho Danang,0,,7.2,7.2,7.2
+酒吧,Tam’s Pub and Surf Shop,Tam’s Pub and Surf Shop,0,,7.2,7.2,7.2
+酒吧,Ocean Club,Ocean Club,0,,7.0,7.0,7.0
+酒吧,Cobalt Restaurant and Bar,Cobalt Restaurant and Bar,0,,7.3,7.1,7.1
+酒吧,Paradise,Paradise,0,,6.7,6.7,6.7
+酒吧,Le Pub,Le Pub,0,还剑区-老城区,0.0,0.0,0.0
+酒吧,JJ's Brazilian BBQ Restaurant and Bar,JJ's Brazilian BBQ Restaurant and Bar,0,,0.0,0.0,0.0
+酒吧,The Hangout Bar,The Hangout Bar,0,全部商区,7.1,7.1,7.1
+酒吧,La Boqueria Restaurant Wine Bar and Tapas,La Boqueria Restaurant Wine Bar and Tapas,0,,7.1,7.1,7.1
+酒吧,Luna Pub Danang,Luna Pub Danang,0,,7.2,7.2,7.2
+酒吧,Zeroseamile Club Hoi An,Zeroseamile Club Hoi An,0,全部商区,7.0,7.0,7.0
+酒吧,MAY Restaurant and Bar,MAY Restaurant and Bar,0,,7.1,7.5,7.1
+酒吧,Le Banyan Bar,Le Banyan Bar,0,全部商区,7.2,7.2,7.2
+酒吧,The Cube Bar Saigon,The Cube Bar Saigon,0,,7.0,7.0,7.1
+酒吧,Jennie's Bar,Jennie's Bar,0,全部商区,6.9,6.9,7.0
+酒吧,Why Not Bar - Restaurant,Why Not Bar - Restaurant,0,全部商区,6.3,6.8,6.8
+酒吧,La Plancha,La Plancha,0,02区-陶迭,0.0,0.0,0.0
+酒吧,Last Call,Last Call,0,胡志明市其他,0.0,0.0,0.0
+酒吧,Bar's Bar,Bar's Bar,0,胡志明市其他,0.0,0.0,0.0
+酒吧,BAR CODE Restaurant and Lounge,BAR CODE Restaurant and Lounge,0,,7.1,7.1,7.1
+酒吧,Local Restaurant and Bar,Local Restaurant and Bar,0,全部商区,7.2,7.2,7.2
+酒吧,Coco Restaurant and Bar,Coco Restaurant and Bar,0,全部商区,7.2,7.2,7.2
+酒吧,Snow Restaurant and Bar,Snow Restaurant and Bar,0,,7.2,7.2,7.2
+酒吧,Phatty's Sports Bar & Grill,Phatty's Sports Bar & Grill,0,胡志明市其他,0.0,0.0,0.0
+酒吧,Le's Garden Bar,Le's Garden Bar,0,,7.2,7.2,7.2
+酒吧,Rainbow,Rainbow,0,,6.9,6.9,6.9
+酒吧,M. Bar,M. Bar,0,,7.1,7.1,7.1
+酒吧,The Muse,The Muse,0,全部商区,7.1,7.1,7.1
+酒吧,The Orient Bar,The Orient Bar,0,,7.0,7.0,7.0
+酒吧,MUAH BAR,MUAH BAR,0,,7.1,7.1,7.3
+酒吧,Peaches-The Curry Pub,Peaches-The Curry Pub,0,,6.9,6.9,6.9
+酒吧,Sapa Sky View,Sapa Sky View,0,,7.1,7.1,7.1
+酒吧,Roof Top Bar,Roof Top Bar,0,,7.1,6.8,7.1
+酒吧,Manhattan Bar,Manhattan Bar,0,,6.9,6.9,6.9
+酒吧,Hue Little Owl Pub,Hue Little Owl Pub,0,,7.0,7.1,7.0
+酒吧,Olive Bar,Olive Bar,0,,6.9,6.9,6.9
+酒吧,Cathi Bar and Restaurant,Cathi Bar and Restaurant,0,,7.2,7.2,7.2
+酒吧,K.Q Pub and Restaurant,K.Q Pub and Restaurant,0,全部商区,7.0,7.0,7.0
+酒吧,Tieng to Dong Restaurant and Bar,Tieng to Dong Restaurant and Bar,0,全部商区,6.9,6.9,6.9
+酒吧,Urban Kitchen + Bar,Urban Kitchen + Bar,0,,7.1,7.1,7.1
+酒吧,Cao Cao Grasshopper Bar and Restaurant,Cao Cao Grasshopper Bar and Restaurant,0,全部商区,7.2,7.2,7.2
+酒吧,Betty Sky Lounge,Betty Sky Lounge,0,,6.7,6.9,7.0
+酒吧,Saigon Sky Bar,Saigon Sky Bar,0,,7.1,7.1,7.1
+酒吧,Guru Sport Bar,Guru Sport Bar,0,,7.1,7.0,7.1
+酒吧,"TROPPO, JUICE BAR","TROPPO, JUICE BAR",0,全部商区,7.1,7.1,7.3
+酒吧,Seafood Bar,Seafood Bar,0,,6.7,6.9,6.9
+酒吧,Saigon Saigon Rooftop Bar,Saigon Saigon Rooftop Bar,0,,6.8,7.2,7.2
+酒吧,Cold Beer Club,Cold Beer Club,0,,7.1,7.0,7.0
+酒吧,Solo,Solo,0,全部商区,7.2,7.2,7.2
+酒吧,The Bar,The Bar,0,,7.6,7.2,7.2
+酒吧,Vule Restuarant and Bar,Vule Restuarant and Bar,0,全部商区,7.1,7.0,7.1
+酒吧,Don Antonio's Bar and Restaurant,Don Antonio's Bar and Restaurant,0,全部商区,7.0,7.0,6.9
+酒吧,Lucys' Sports Bar and Hotel,Lucys' Sports Bar and Hotel,0,,7.2,7.2,7.2
+酒吧,Tommys Sports Bar,Tommys Sports Bar,0,,7.2,7.2,7.2
+酒吧,Bar No. 5,Bar No. 5,0,,7.1,7.1,7.1
+酒吧,Blue Gecko Bar,Blue Gecko Bar,0,,7.0,7.0,7.1
+酒吧,Chu Bar,Chu Bar,0,,6.9,7.0,7.0
+酒吧,Le Pub,Le Pub,0,,6.8,6.8,6.8
+酒吧,The Red Dragon Pub,The Red Dragon Pub,0,,7.0,7.0,7.0
+酒吧,Hoi An Sports Bar,Hoi An Sports Bar,0,全部商区,7.2,7.2,7.2
+酒吧,Why Not Bar,Why Not Bar,0,全部商区,6.8,7.2,7.2
+酒吧,Bar K-Cafe,Bar K-Cafe,0,,7.3,7.3,7.1
+酒吧,DMZ bar,DMZ bar,0,,7.2,7.2,7.2
+酒吧,Q Bar,Q Bar,0,全部商区,7.2,7.2,7.2
+酒吧,Texas Bar B.Q,Texas Bar B.Q,0,,7.0,7.0,7.0
+酒吧,Level 23 Nightspot and Wine Bar,Level 23 Nightspot and Wine Bar,0,,7.1,7.0,7.0
+酒吧,German B Bar,German B Bar,0,,7.2,7.2,7.2
+酒吧,Sky Bar,Sky Bar,0,全部商区,6.9,7.0,7.0
+酒吧,The Fan Club,The Fan Club,0,,7.0,7.0,7.0
+酒吧,Voodoo Bar,Voodoo Bar,0,,7.1,7.1,7.1
+酒吧,Wild Weasel Bar,Wild Weasel Bar,0,全部商区,7.1,7.1,7.0
+酒吧,Matildas Pub,Matildas Pub,0,,7.1,7.1,7.1
+酒吧,Waterland Bar - Restaurant,Waterland Bar - Restaurant,0,,7.2,7.2,7.2
+酒吧,Da Vang Bar,Da Vang Bar,0,,6.9,6.9,6.9
+酒吧,Boston Sport Bar,Boston Sport Bar,0,,6.7,6.7,6.7
+酒吧,Bamboo Buddha Bar Lounge Restaurant,Bamboo Buddha Bar Lounge Restaurant,0,全部商区,7.2,7.2,7.2
+酒吧,Victory Bar,Victory Bar,0,,6.9,6.9,6.9
+酒吧,Club House Restaurant and Bar,Club House Restaurant and Bar,0,,6.9,6.9,6.9
+酒吧,For You Bar,For You Bar,0,全部商区,6.3,6.3,6.3
+酒吧,Nostalgie Club,Nostalgie Club,0,,7.1,7.1,7.0
+酒吧,Salon De Freyja,Salon De Freyja,0,,6.9,6.9,6.9
+酒吧,Drunken Duck Bar,Drunken Duck Bar,0,,7.1,7.1,7.1
+酒吧,The Sushi Bar 3,The Sushi Bar 3,0,,7.1,7.1,7.1
+酒吧,Flightless Bird Bar,Flightless Bird Bar,0,,7.1,7.1,7.1
+酒吧,Relax Bar Restaurant,Relax Bar Restaurant,0,全部商区,7.0,7.1,7.1
+酒吧,Grill Bar,Grill Bar,0,,7.0,7.0,7.0
+酒吧,Rosebar,Rosebar,0,,6.9,6.9,6.9
+酒吧,The Sun Bar,The Sun Bar,0,全部商区,7.1,7.0,7.0
+酒吧,Sleepy Gecko Chillout Bar,Sleepy Gecko Chillout Bar,0,全部商区,7.2,7.2,7.2
+酒吧,Ngoc Tuyet Bar and Restaurant,Ngoc Tuyet Bar and Restaurant,0,全部商区,7.1,7.1,7.0
+酒吧,Country Club,Country Club,0,,7.0,7.0,7.0
+酒吧,Chilli Pub Saigon,Chilli Pub Saigon,0,,6.9,7.1,7.0
+酒吧,The Sushi Bar 6,The Sushi Bar 6,0,,7.0,7.0,7.0
+酒吧,BeBop Bar,BeBop Bar,0,,6.9,6.9,6.9
+酒吧,Ha Nhi Restaurant and Bar,Ha Nhi Restaurant and Bar,0,全部商区,7.0,7.0,7.0
+酒吧,Good And Cheap Bar,Good And Cheap Bar,0,全部商区,7.1,7.1,7.1
+酒吧,Bar Sunlight,Bar Sunlight,0,,6.8,6.8,6.8
+酒吧,Volcano club in hoi an,Volcano club in hoi an,0,全部商区,6.6,6.8,7.1
+酒吧,Welcome Bar,Welcome Bar,0,,6.9,6.9,6.9
+酒吧,声音酒吧,声音酒吧,0,,0.0,0.0,0.0
+酒吧,Phương Ngân,Phương Ngân,0,,0.0,0.0,0.0
+酒吧,瓦斯科酒吧,瓦斯科酒吧,0,,0.0,0.0,0.0
+酒吧,MIINH36,MIINH36,0,河内其他,0.0,0.0,0.0
+酒吧,BilliardsBar 49,BilliardsBar 49,0,01区-河畔,0.0,0.0,0.0
+酒吧,Ho Guom Xanh酒吧,Ho Guom Xanh酒吧,0,,0.0,0.0,0.0
+酒吧,Ete Bar,Ete Bar,0,河内其他,0.0,0.0,0.0
+酒吧,Apocalypse,Apocalypse,0,01区-河畔,0.0,0.0,0.0
+酒吧,热带雨林迪斯科,热带雨林迪斯科,0,,0.0,0.0,0.0
+酒吧,Bar69,Bar69,0,,0.0,0.0,0.0
+酒吧,Fresh Beer,Fresh Beer,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+酒吧,Night Club,Night Club,0,,0.0,0.0,0.0
+酒吧,Night club,Night club,0,,0.0,0.0,0.0
+酒吧,Volcano,Volcano,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+酒吧,Great Bar Intersection,Great Bar Intersection,0,还剑区-老城区,0.0,0.0,0.0
+酒吧,Finnegan's Irish Pub,Finnegan's Irish Pub,0,还剑区-老城区,0.0,0.0,0.0
+酒吧,Allez Boo bar,Allez Boo bar,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+酒吧,La Tonnelle,La Tonnelle,0,全部商区,0.0,0.0,0.0
+酒吧,Knight Bar,Knight Bar,0,还剑区-老城区,0.0,0.0,0.0
+酒吧,Saigon Saigon Bar,Saigon Saigon Bar,0,,0.0,0.0,0.0
+酒吧,Quán rượu Huynh đệ,Quán rượu Huynh đệ,0,河内其他,0.0,0.0,0.0
+酒吧,Liquid,Liquid,0,胡志明市其他,0.0,0.0,0.0
+酒吧,Sushi Bar,Sushi Bar,0,胡志明市其他,0.0,0.0,0.0
+酒吧,Nhà Hàng Ẩm Trà,Nhà Hàng Ẩm Trà,0,胡志明市其他,0.0,0.0,0.0
+酒吧,Vina Karaoke,Vina Karaoke,0,河内其他,0.0,0.0,0.0
+酒吧,No.5,No.5,0,,0.0,0.0,0.0
+酒吧,热带雨林,热带雨林,0,,0.0,0.0,0.0
+酒吧,Karaoke Vàng,Karaoke Vàng,0,胡志明市其他,0.0,0.0,0.0
+酒吧,Sheridan's Irish Pub,Sheridan's Irish Pub,0,胡志明市其他,0.0,0.0,0.0
+酒吧,6B Club,6B Club,0,胡志明市其他,0.0,0.0,0.0
+酒吧,Barroco,Barroco,0,胡志明市其他,0.0,0.0,0.0
+酒吧,Napoli,Napoli,0,胡志明市其他,0.0,0.0,0.0
+酒吧,CHU's Bar,CHU's Bar,0,胡志明市其他,0.0,0.0,0.0
+酒吧,Lush,Lush,0,胡志明市其他,0.0,0.0,0.0
+酒吧,Now Club,Now Club,0,胡志明市其他,0.0,0.0,0.0
+酒吧,ZanZbar,ZanZbar,0,01区-盾胡维/源惠,0.0,0.0,0.0
+酒吧,Karaoke 7C,Karaoke 7C,0,海防市其他,0.0,0.0,0.0
+酒吧,LASA Bar&Lounge,LASA Bar&Lounge,0,河内其他,0.0,0.0,0.0
+酒吧,Nextop,Nextop,0,河内其他,0.0,0.0,0.0
+西餐,Lam Vien Restaurant,Lam Vien Restaurant,0,,8.0,8.0,8.0
+西餐,下午茶意式茶餐厅,下午茶意式茶餐厅,0,,8.0,8.0,8.0
+西餐,Ngoc Phuong,Ngoc Phuong,0,,6.9,6.9,6.9
+西餐,blue star cafe,blue star cafe,0,其他城市,7.0,6.9,6.9
+西餐,Billabong Pub and Restaurant,Billabong Pub and Restaurant,0,,7.4,7.4,7.8
+西餐,Romano's Pizza,Romano's Pizza,0,,7.5,7.5,7.5
+西餐,Highland Bakery Restaurant,Highland Bakery Restaurant,0,,7.3,6.7,6.7
+西餐,Tropical Garden Restaurant,Tropical Garden Restaurant,0,,7.0,7.0,7.0
+西餐,L'aubergine Restaurant,L'aubergine Restaurant,0,,6.5,6.5,6.5
+西餐,Tulip Restaurant,Tulip Restaurant,0,,7.0,7.0,7.0
+西餐,Pizza Hug,Pizza Hug,0,,7.2,7.2,7.2
+西餐,Forest Restaurant,Forest Restaurant,0,,7.2,7.2,7.2
+西餐,Khai Hoan Restaurant,Khai Hoan Restaurant,0,,6.9,6.9,6.9
+西餐,Good Morning Vietnam,Good Morning Vietnam,0,,7.2,7.2,6.8
+西餐,Park View Restaurant,Park View Restaurant,0,,6.9,6.9,6.9
+西餐,Little Italy Restaurant,Little Italy Restaurant,0,,7.2,7.2,7.2
+西餐,Phuong Phuong Restaurant,Phuong Phuong Restaurant,0,,7.2,7.2,7.2
+西餐,The Lizard Restaurant,The Lizard Restaurant,0,,7.2,7.2,7.2
+西餐,Restaurant Nine,Restaurant Nine,0,,7.2,7.2,7.2
+西餐,Sizer Restaurant,Sizer Restaurant,0,,7.1,7.1,7.0
+西餐,L'Oceane Restaurant,L'Oceane Restaurant,0,,7.1,7.0,7.1
+西餐,Cochinchine Restaurant,Cochinchine Restaurant,0,,6.9,6.9,6.9
+西餐,Omar Khayyam's Indian Restaurant,Omar Khayyam's Indian Restaurant,0,,7.2,7.2,7.2
+西餐,Chen Restaurant,Chen Restaurant,0,,6.9,7.1,6.7
+西餐,Pizza e pasta,Pizza e pasta,0,,6.9,6.9,6.9
+西餐,Little Sapa Restaurant,Little Sapa Restaurant,0,,7.2,7.2,7.2
+西餐,Ta:ke Japanese Restaurant,Ta:ke Japanese Restaurant,0,,7.2,7.2,7.2
+西餐,Sushiya Japanese Restaurant,Sushiya Japanese Restaurant,0,,6.9,6.9,6.9
+西餐,Seafood Restaurant,Seafood Restaurant,0,,7.0,7.0,7.0
+西餐,LYS Restaurant,LYS Restaurant,0,,7.1,7.1,7.1
+西餐,Saigon Kim Lien Restaurant,Saigon Kim Lien Restaurant,0,,7.0,7.0,7.0
+西餐,Ba Thoi Restaurant,Ba Thoi Restaurant,0,,7.1,7.1,7.1
+西餐,Fresco Pizza,Fresco Pizza,0,,6.7,6.7,6.9
+西餐,Mumtaz Indian Restaurant,Mumtaz Indian Restaurant,0,,7.2,7.2,7.2
+西餐,Cham Garden Restaurant,Cham Garden Restaurant,0,,7.1,7.3,7.1
+西餐,Cay Tre Bamboo Restaurant,Cay Tre Bamboo Restaurant,0,,7.0,7.0,7.0
+西餐,Duyen Anh Seafood Restaurant,Duyen Anh Seafood Restaurant,0,,7.1,7.1,7.1
+西餐,Take Japanese Restaurant,Take Japanese Restaurant,0,,7.1,7.1,7.1
+西餐,Ta Dinh Pho Bo Restaurant,Ta Dinh Pho Bo Restaurant,0,,6.9,6.9,6.9
+西餐,Capuccino Restaurant,Capuccino Restaurant,0,,7.0,7.0,7.0
+西餐,Restaurant Bao Tran,Restaurant Bao Tran,0,,7.1,7.1,7.1
+西餐,Sapa Cuisine Restaurant,Sapa Cuisine Restaurant,0,,7.1,7.3,7.1
+西餐,You and Me Restaurant,You and Me Restaurant,0,,6.9,7.0,6.9
+西餐,The Hill Station Signature Restaurant,The Hill Station Signature Restaurant,0,,7.2,7.2,7.2
+西餐,Linh Dan Restaurant,Linh Dan Restaurant,0,,7.1,7.1,7.1
+西餐,Thanh na restaurant,Thanh na restaurant,0,,7.0,6.9,6.9
+西餐,Hue Anh Restaurant,Hue Anh Restaurant,0,,7.0,7.1,6.9
+西餐,Octopussy Restaurant,Octopussy Restaurant,0,,7.0,7.0,7.0
+西餐,Bombay Restaurant,Bombay Restaurant,0,,7.1,6.8,6.8
+西餐,Family Home Restaurant,Family Home Restaurant,0,,7.2,7.2,7.2
+西餐,Le Caramel Restaurant,Le Caramel Restaurant,0,,7.2,7.2,6.8
+西餐,Paradise View Restaurant,Paradise View Restaurant,0,,7.1,7.0,7.0
+西餐,La Campania Restaurant,La Campania Restaurant,0,,7.0,6.9,6.9
+西餐,Scandia Restaurant,Scandia Restaurant,0,,7.3,7.3,7.3
+西餐,Thu Ba Seafood Restaurant,Thu Ba Seafood Restaurant,0,,7.2,7.2,7.2
+西餐,Boutique Sapa Hotel restaurant,Boutique Sapa Hotel restaurant,0,,7.2,7.2,7.2
+西餐,Red Dao House Restaurant,Red Dao House Restaurant,0,,7.2,7.2,7.2
+西餐,Panorama Restaurant,Panorama Restaurant,0,,7.2,7.2,7.2
+西餐,Viet Xua Restaurant,Viet Xua Restaurant,0,,6.9,6.9,6.9
+西餐,Bassac Restaurant,Bassac Restaurant,0,,7.1,7.1,7.1
+西餐,Converge Restaurant,Converge Restaurant,0,,6.9,6.9,6.9
+西餐,Yen Ninh vegetarian restaurant,Yen Ninh vegetarian restaurant,0,,7.0,7.1,7.0
+西餐,Sapa home restaurant,Sapa home restaurant,0,,7.1,7.1,7.3
+西餐,Little Italy,Little Italy,0,,7.1,7.1,7.1
+西餐,Nha Hang Chay Vegetarian Restaurant,Nha Hang Chay Vegetarian Restaurant,0,,7.1,7.1,7.1
+西餐,Thien Tam Vegetarian Restaurant,Thien Tam Vegetarian Restaurant,0,,7.1,7.1,7.1
+西餐,Restaurant Hue Cherish,Restaurant Hue Cherish,0,,7.0,7.1,7.1
+西餐,Thang Long City Tour Restaurant,Thang Long City Tour Restaurant,0,,7.1,7.1,7.1
+西餐,Quang Anh Cat Ba Restaurant,Quang Anh Cat Ba Restaurant,0,,7.1,7.1,7.0
+西餐,Hoa Cau Restaurant,Hoa Cau Restaurant,0,,6.9,6.9,6.9
+西餐,Huu Nghi Restaurant,Huu Nghi Restaurant,0,,7.0,7.0,6.9
+西餐,Song Bien Restaurant,Song Bien Restaurant,0,,7.0,7.0,7.0
+西餐,Vietdiscovery Restaurant,Vietdiscovery Restaurant,0,,7.0,7.0,7.0
+西餐,Ngan Nga Gia Huy Restaurant,Ngan Nga Gia Huy Restaurant,0,,7.0,7.0,7.0
+西餐,Michell Restaurant,Michell Restaurant,0,,7.0,7.1,7.0
+西餐,Restaurant Thin Gia Vien,Restaurant Thin Gia Vien,0,,6.9,6.9,6.9
+西餐,Lang Co Restaurant,Lang Co Restaurant,0,,6.9,6.9,6.9
+西餐,Kinhdo Restaurant,Kinhdo Restaurant,0,,7.0,7.1,7.1
+西餐,Phuong Nhung Restaurant,Phuong Nhung Restaurant,0,,7.0,7.0,6.9
+西餐,Hoa Hoa Restaurant,Hoa Hoa Restaurant,0,,7.1,7.0,7.0
+西餐,Hoa Su Restaurant,Hoa Su Restaurant,0,,7.1,7.1,7.1
+西餐,Gusteau Restaurant CanTho,Gusteau Restaurant CanTho,0,,7.0,7.0,7.0
+西餐,Sea Star Restaurant,Sea Star Restaurant,0,,7.2,7.2,7.2
+西餐,Mai House Restaurant,Mai House Restaurant,0,,7.2,7.2,7.2
+西餐,Gio Bien Restaurant,Gio Bien Restaurant,0,,7.1,7.0,7.1
+西餐,Alibaba Indian Restaurant,Alibaba Indian Restaurant,0,,7.2,7.2,6.8
+西餐,Pizza Viet Y,Pizza Viet Y,0,,7.2,7.2,7.2
+西餐,Ganh Hao 2 Restaurant,Ganh Hao 2 Restaurant,0,,7.1,7.1,7.1
+西餐,Vinh Phuoc Restaurant,Vinh Phuoc Restaurant,0,,6.9,6.7,6.7
+西餐,Seahorse Restaurant,Seahorse Restaurant,0,,7.0,7.0,6.9
+西餐,Bao Quynh Restaurant,Bao Quynh Restaurant,0,,7.0,7.0,7.0
+西餐,Asia Restaurant,Asia Restaurant,0,,7.0,7.0,6.9
+西餐,Chapa Garden Restaurant,Chapa Garden Restaurant,0,,7.0,7.0,7.0
+西餐,Little SAPA Restaurant,Little SAPA Restaurant,0,,7.2,7.2,7.2
+西餐,Aroma's Pizza,Aroma's Pizza,0,,6.7,6.7,6.9
+西餐,Chapa Restaurant,Chapa Restaurant,0,,7.1,7.1,7.0
+西餐,Fansipan Restaurant,Fansipan Restaurant,0,,6.8,6.8,6.8
+西餐,Sapa Newstar French Bakery - Restaurant,Sapa Newstar French Bakery - Restaurant,0,,6.9,6.7,6.9
+西餐,Viet Bamboo Restaurant,Viet Bamboo Restaurant,0,,7.0,7.0,7.0
+西餐,Viet Cuisine Restaurant,Viet Cuisine Restaurant,0,,7.1,7.1,7.0
+西餐,Xoi Rom Restaurant,Xoi Rom Restaurant,0,,7.0,7.1,7.0
+西餐,Friendly Restaurant,Friendly Restaurant,0,,7.0,7.0,7.0
+西餐,Hoa Hong Restaurant,Hoa Hong Restaurant,0,,7.1,7.1,7.1
+西餐,BoDe Vegetarian Restaurant,BoDe Vegetarian Restaurant,0,,7.1,6.8,7.1
+西餐,Aroma Restaurant Hue,Aroma Restaurant Hue,0,,7.0,6.9,6.9
+西餐,Ushi Restaurant,Ushi Restaurant,0,,7.2,7.2,7.2
+西餐,ZUCCA Restaurant,ZUCCA Restaurant,0,,7.2,7.2,7.2
+西餐,Phuoc Thanh Garden Restaurant,Phuoc Thanh Garden Restaurant,0,,7.1,7.1,6.8
+西餐,Kangaroo Hue Restaurant,Kangaroo Hue Restaurant,0,,7.2,7.2,7.2
+西餐,Japanese Restaurant,Japanese Restaurant,0,,6.7,6.9,6.7
+西餐,King Restaurant,King Restaurant,0,,7.0,7.0,7.0
+西餐,Duclinh Restaurant,Duclinh Restaurant,0,,7.0,7.0,7.0
+西餐,Rung Va Bien Restaurant,Rung Va Bien Restaurant,0,,6.9,6.9,6.9
+西餐,Huong Mai Restaurant,Huong Mai Restaurant,0,,6.7,6.7,6.7
+西餐,Temple Restaurant,Temple Restaurant,0,,7.1,7.1,6.8
+西餐,Noble House Restaurant,Noble House Restaurant,0,,6.8,6.8,6.8
+西餐,Black and White Restaurant,Black and White Restaurant,0,,6.9,6.9,6.9
+西餐,Thanh Xuan Hotel Restaurant,Thanh Xuan Hotel Restaurant,0,,6.9,6.9,6.9
+西餐,Black cat,Black cat,0,,0.0,0.0,0.0
+西餐,Tuico Cafe,Tuico Cafe,0,,0.0,0.0,0.0
+面包甜点,Fanny's Ice Cream(Phạm Hồng),Fanny's Ice Cream(Phạm Hồng),0,胡志明市其他,7.9,7.8,7.7
+面包甜点,芬妮的冰激凌,芬妮的冰激凌,0,胡志明市其他,6.8,6.9,7.3
+面包甜点,芬妮的冰激凌(Hanoi),芬妮的冰激凌(Hanoi),23,河内其他,6.8,7.0,7.2
+面包甜点,Fanny Ice Cream,Fanny Ice Cream,0,,7.1,7.0,6.8
+面包甜点,Tous Les Jours,Tous Les Jours,0,,6.8,6.8,6.8
+面包甜点,哈根达斯,哈根达斯,0,,6.9,6.9,6.9
+面包甜点,Linh & Ben,Linh & Ben,0,河内其他,0.0,0.0,0.0
+面包甜点,Paris Gateaux,Paris Gateaux,0,河内其他,7.1,7.1,7.0
+面包甜点,Tutti Frutti,Tutti Frutti,0,,6.9,6.7,6.9
+面包甜点,The Note Coffee,The Note Coffee,0,河内其他,0.0,0.0,0.0
+面包甜点,Sozo,Sozo,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+面包甜点,ABC Bakery,ABC Bakery,0,全部商区,7.1,7.1,7.1
+面包甜点,ABC Bakery & Cafe,ABC Bakery & Cafe,0,01区-彭谷劳/泰巴罗,0.0,0.0,0.0
+面包甜点,The Cart,The Cart,0,还剑区-河内大教堂,0.0,0.0,0.0
+面包甜点,Eugene Cake Shop,Eugene Cake Shop,0,,6.7,7.0,7.0
+面包甜点,Swensen's Ice Cream,Swensen's Ice Cream,0,,7.0,7.0,7.0
+面包甜点,Kem-Y Il Gelato by Vietalia,Kem-Y Il Gelato by Vietalia,0,全部商区,7.1,7.1,7.1
+面包甜点,Schneider's Finest German Bakery,Schneider's Finest German Bakery,0,胡志明市其他,0.0,0.0,0.0
+面包甜点,Cafe Lam,Cafe Lam,0,河内其他,0.0,0.0,0.0
+面包甜点,Fly Cupcakes,Fly Cupcakes,0,胡志明市其他,0.0,0.0,0.0
+面包甜点,Kem Trang Tien,Kem Trang Tien,0,河内其他,0.0,0.0,0.0
+面包甜点,Kem Fanny,Kem Fanny,0,河内其他,0.0,0.0,0.0
+面包甜点,BreadTalk,BreadTalk,0,,6.9,6.9,6.9
+面包甜点,Saigon Bakery,Saigon Bakery,0,,7.1,7.1,7.1
+面包甜点,Crumbs Your Local Bakery,Crumbs Your Local Bakery,0,,7.1,7.1,7.1
+面包甜点,Fanny Ice Cream,Fanny Ice Cream,0,,7.1,7.1,7.1
+面包甜点,CJ Bakery,CJ Bakery,0,,6.9,6.9,6.9
+面包甜点,Paris Baguette,Paris Baguette,0,,7.0,7.0,7.0
+面包甜点,Nha Hang Swensen's Nguyen Thai Hoc,Nha Hang Swensen's Nguyen Thai Hoc,0,,7.0,7.1,7.0
+面包甜点,WOW Bread and Cake,WOW Bread and Cake,0,全部商区,7.0,7.0,6.9
+面包甜点,Sweet and Sour Bakery,Sweet and Sour Bakery,0,,7.0,7.1,7.0
+面包甜点,Mochi Sweets,Mochi Sweets,0,,7.0,7.0,7.0
+面包甜点,Sweet Delights,Sweet Delights,0,,7.1,7.1,7.1
+面包甜点,My Wu Bakery,My Wu Bakery,0,,7.0,7.0,7.0
+面包甜点,Fanny's Ice Cream(Xuan Thuy),Fanny's Ice Cream(Xuan Thuy),0,胡志明市其他,0.0,0.0,0.0
+面包甜点,Fanny's Ice Cream(Hanoi),Fanny's Ice Cream(Hanoi),0,河内其他,0.0,0.0,0.0
+面包甜点,Rex Hotel,Rex Hotel,0,海防市其他,0.0,0.0,0.0
+面包甜点,Thúy Tiền,Thúy Tiền,0,胡志明市其他,0.0,0.0,0.0
+面包甜点,market 39,market 39,0,,0.0,0.0,0.0
+面包甜点,Savoure-Parkson Dist 5th店,Savoure-Parkson Dist 5th店,0,胡志明市其他,0.0,0.0,0.0
+面包甜点,Savoure-Tran Khanh Du店,Savoure-Tran Khanh Du店,0,胡志明市其他,0.0,0.0,0.0
+面包甜点,Savoure,Savoure,0,胡志明市其他,0.0,0.0,0.0
+面包甜点,Savoure(Grand View),Savoure(Grand View),0,胡志明市其他,0.0,0.0,0.0
+面包甜点,Savoure(TAX),Savoure(TAX),0,胡志明市其他,0.0,0.0,0.0
+面包甜点,Cửa hàng bánh Hương Cẩm Ngọc,Cửa hàng bánh Hương Cẩm Ngọc,0,海防市其他,0.0,0.0,0.0
+面包甜点,Harvest Baking,Harvest Baking,0,胡志明市其他,0.0,0.0,0.0
+面包甜点,ABC Bakery 3.2,ABC Bakery 3.2,0,胡志明市其他,0.0,0.0,0.0
+面包甜点,Brodard Bakery,Brodard Bakery,0,胡志明市其他,0.0,0.0,0.0
+快餐,PhuQuy富贵餐厅,PhuQuy富贵餐厅,0,,7.4,7.3,7.7
+快餐,平阳同鄉滙中餐厅,平阳同鄉滙中餐厅,0,,7.5,7.5,7.5
+快餐,下午茶意式茶餐厅,下午茶意式茶餐厅,0,,8.0,8.0,8.0
+快餐,天南餐馆,天南餐馆,0,,7.1,7.0,7.1
+快餐,Yummy Yummy,Yummy Yummy,0,,7.2,7.2,7.2
+快餐,同乡汇中餐厅,同乡汇中餐厅,0,其他城市,0.0,0.0,0.0
+快餐,PhuQuy富贵餐厅,PhuQuy富贵餐厅,0,,0.0,0.0,0.0
+快餐,Tom Cafe,Tom Cafe,0,海防市其他,0.0,0.0,0.0
+快餐,同鄉滙中餐厅,同鄉滙中餐厅,0,,0.0,0.0,0.0
+快餐,同乡汇中餐厅,同乡汇中餐厅,0,,0.0,0.0,0.0
+快餐,富诚饭店（nhahanhphuthanh）,富诚饭店（nhahanhphuthanh）,0,,0.0,0.0,0.0
+快餐,Cafe Ham 336,Cafe Ham 336,0,海防市其他,0.0,0.0,0.0
+快餐,覃氏靓粥馆,覃氏靓粥馆,0,,0.0,0.0,0.0
+快餐,油尖旺茶餐厅,油尖旺茶餐厅,0,,0.0,0.0,0.0

@@ -1,0 +1,262 @@
+融合菜,辉鸿大排档,辉鸿大排档,0,码头S3区,7.5,7.3,7.3
+东南亚菜,WEST COVE,WEST COVE,0,码头S1区,8.3,9.0,8.4
+东南亚菜,Gerry's Grill,Gerry's Grill,56,码头S1区,7.5,7.3,7.6
+东南亚菜,Smoke Restaurant,Smoke Restaurant,0,,7.5,6.8,7.4
+东南亚菜,Ariels House,Ariels House,0,码头S1区,0.0,0.0,0.0
+东南亚菜,7th Note Cafe,7th Note Cafe,0,码头S1区,0.0,0.0,0.0
+东南亚菜,Island Chicken Inasal,Island Chicken Inasal,0,码头S2区,0.0,0.0,0.0
+东南亚菜,Queen Bee Restaurant,Queen Bee Restaurant,0,码头S1区,7.1,7.1,6.6
+东南亚菜,Sands Restaurant,Sands Restaurant,0,周边小岛,0.0,0.0,0.0
+东南亚菜,Plato D' Boracay Resto,Plato D' Boracay Resto,0,码头S2区,0.0,0.0,0.0
+东南亚菜,Mesa Filipino Moderne,Mesa Filipino Moderne,0,码头S2区,0.0,0.0,0.0
+东南亚菜,Kolai Mangyan,Kolai Mangyan,0,码头S1区,7.4,6.7,7.4
+东南亚菜,AquaFresh,AquaFresh,0,,6.8,6.4,6.0
+东南亚菜,8H Bistro & Cigar Lounge,8H Bistro & Cigar Lounge,0,码头S1区,0.0,0.0,0.0
+东南亚菜,Alchemy,Alchemy,0,码头S1区,0.0,0.0,0.0
+东南亚菜,sea shore grill restaurant,sea shore grill restaurant,0,码头S1区,0.0,0.0,0.0
+东南亚菜,Paupatri Restaurant,Paupatri Restaurant,0,码头S2区,0.0,0.0,0.0
+东南亚菜,Golden Cowrie Native Restaurant,Golden Cowrie Native Restaurant,0,码头S1区,0.0,0.0,0.0
+东南亚菜,"Thai Basil Restaurant, Boracay","Thai Basil Restaurant, Boracay",0,码头S1区,7.1,7.1,7.0
+东南亚菜,Palay Restaurant,Palay Restaurant,0,码头S1区,6.7,6.7,6.7
+东南亚菜,Smoke at PDKSP,Smoke at PDKSP,0,码头S2区,0.0,0.0,0.0
+东南亚菜,Ton-Ton Kamayan,Ton-Ton Kamayan,0,布拉波海滩,0.0,0.0,0.0
+东南亚菜,Hong kong seafood restaurant,Hong kong seafood restaurant,0,码头S1区,6.9,6.9,6.9
+东南亚菜,Kay Sarap,Kay Sarap,0,码头S3区,0.0,0.0,0.0
+东南亚菜,"Khalil Muslim Food, Boracay","Khalil Muslim Food, Boracay",0,码头S2区,0.0,0.0,0.0
+东南亚菜,357 Boracay Restaurant,357 Boracay Restaurant,0,码头S3区,0.0,0.0,0.0
+东南亚菜,Sbarro,Sbarro,0,码头S2区,0.0,0.0,0.0
+东南亚菜,Paraiso Grill,Paraiso Grill,0,码头S2区,0.0,0.0,0.0
+东南亚菜,Boracay Tropicana Restaurant,Boracay Tropicana Restaurant,0,码头S1区,6.9,6.9,6.9
+东南亚菜,La Terraza Restaurant,La Terraza Restaurant,0,码头S1区,7.0,7.0,7.0
+东南亚菜,Sa'neh Thai Restaurant and Bar,Sa'neh Thai Restaurant and Bar,0,码头S1区,0.0,0.0,0.0
+东南亚菜,Sulu Thai Restaurant,Sulu Thai Restaurant,0,码头S1区,0.0,0.0,0.0
+东南亚菜,Bagobo Restaurant,Bagobo Restaurant,0,码头S1区,6.9,6.9,6.9
+东南亚菜,Island Kebab,Island Kebab,0,码头S2区,0.0,0.0,0.0
+东南亚菜,Boracay Gold Crowne Resort Restaurant,Boracay Gold Crowne Resort Restaurant,0,码头S1区,0.0,0.0,0.0
+东南亚菜,Dreams Cafe,Dreams Cafe,0,码头S1区,0.0,0.0,0.0
+东南亚菜,D Hobbit House,D Hobbit House,0,布拉波海滩,0.0,0.0,0.0
+中餐,好再来面食店,好再来面食店,44,,9.0,8.3,9.1
+中餐,麻辣长滩,麻辣长滩,0,丁依威海滩,8.2,8.2,8.0
+中餐,醉栈同一首歌,醉栈同一首歌,0,码头S2区,7.5,7.6,7.6
+中餐,Tilapia 'N Chips,Tilapia 'N Chips,0,码头S2区,0.0,0.0,0.0
+中餐,合栈,合栈,0,码头S2区,0.0,0.0,0.0
+中餐,贝拉厨房,贝拉厨房,0,码头S3区,8.5,7.6,7.6
+中餐,歇脚亭,歇脚亭,0,码头S2区,0.0,0.0,0.0
+中餐,享受中餐厅,享受中餐厅,0,码头S1区,7.2,7.2,7.2
+中餐,筷子餐厅,筷子餐厅,0,码头S1区,0.0,0.0,0.0
+中餐,长滩岛饭店,长滩岛饭店,0,码头S1区,0.0,0.0,0.0
+中餐,金凤凰中餐厅,金凤凰中餐厅,0,,0.0,0.0,0.0
+中餐,好再来面食店,好再来面食店,0,,0.0,0.0,0.0
+中餐,醉栈,醉栈,0,码头S2区,0.0,0.0,0.0
+中餐,享受中餐厅,享受中餐厅,0,,0.0,0.0,0.0
+中餐,享受中餐厅,享受中餐厅,0,,0.0,0.0,0.0
+中餐,大同路268冬粉鸭,大同路268冬粉鸭,0,,0.0,0.0,0.0
+日韩料理,浜,浜,69,码头S2区,6.8,7.5,7.6
+日韩料理,Bal Hae Fusion Restaurant,Bal Hae Fusion Restaurant,0,码头S1区,6.8,6.7,6.8
+日韩料理,Cook,Cook,0,码头S2区,6.8,6.4,6.4
+日韩料理,Hamma,Hamma,0,码头S2区,0.0,0.0,0.0
+日韩料理,Nagisa Coffee Shop,Nagisa Coffee Shop,0,码头S3区,0.0,0.0,0.0
+日韩料理,Hop Chan,Hop Chan,0,码头S2区,0.0,0.0,0.0
+日韩料理,Taste of Moon,Taste of Moon,0,码头S1区,0.0,0.0,0.0
+日韩料理,Kum Gang San,Kum Gang San,0,码头S2区,0.0,0.0,0.0
+日韩料理,FLYPAN KOREAN RESTAURANT,FLYPAN KOREAN RESTAURANT,0,丁依威海滩,0.0,0.0,0.0
+更多亚洲菜,barLO Resto Lounge,barLO Resto Lounge,0,码头S1区,0.0,0.0,0.0
+更多亚洲菜,Discovery Shores Boracay,Discovery Shores Boracay,0,码头S1区,0.0,0.0,0.0
+更多亚洲菜,Crafty's Roof Top Bar,Crafty's Roof Top Bar,0,码头S1区,0.0,0.0,0.0
+更多亚洲菜,Wahine Cafe Mongolian BBQ,Wahine Cafe Mongolian BBQ,0,布拉波海滩,0.0,0.0,0.0
+西式正餐,Smoke,Smoke,48,码头S1区,8.5,7.0,7.7
+西式正餐,CYMA,CYMA,102,码头S1区,7.9,7.8,7.9
+西式正餐,Shakey's,Shakey's,0,码头S2区,7.6,7.6,7.6
+西式正餐,Aplaya Beach Bar,Aplaya Beach Bar,0,码头S1区,8.1,8.3,8.3
+西式正餐,Don Vito Ristorante Italiano,Don Vito Ristorante Italiano,0,码头S2区,7.1,7.1,7.5
+西式正餐,Dos Mestizos,Dos Mestizos,0,码头S2区,0.0,0.0,0.0
+西式正餐,Manana Mexican Cuisine,Manana Mexican Cuisine,0,码头S1区,0.0,0.0,0.0
+西式正餐,Cafe Del Mer,Cafe Del Mer,0,码头S2区,7.0,7.1,7.1
+西式正餐,Solana at Shangri-La's Boracay Resort and Spa,Solana at Shangri-La's Boracay Resort and Spa,0,码头S1区,0.0,0.0,0.0
+西式正餐,Kasbah,Kasbah,0,码头S1区,0.0,0.0,0.0
+西式正餐,Bama Grill,Bama Grill,0,码头S2区,7.0,7.1,7.0
+西式正餐,Steakhouse Boracay,Steakhouse Boracay,0,码头S1区,0.0,0.0,0.0
+西式正餐,Obama Grill,Obama Grill,0,码头S1区,7.1,7.1,7.1
+西式正餐,Levantin Bar,Levantin Bar,0,码头S2区,0.0,0.0,0.0
+西式正餐,OJ's Roast Bake Grill,OJ's Roast Bake Grill,0,码头S1区,0.0,0.0,0.0
+西式正餐,Cafe del Mar,Cafe del Mar,0,码头S3区,0.0,0.0,0.0
+西式正餐,SEA GAiA Supreme Lounge,SEA GAiA Supreme Lounge,0,码头S1区,0.0,0.0,0.0
+西式正餐,Treffpunkt,Treffpunkt,0,码头S2区,0.0,0.0,0.0
+西式正餐,Pomodoro Italian Cuisine,Pomodoro Italian Cuisine,0,码头S1区,0.0,0.0,0.0
+西式正餐,Zeppelin Cafe,Zeppelin Cafe,0,码头S1区,0.0,0.0,0.0
+西式正餐,Rumba's bar & Restaurant,Rumba's bar & Restaurant,0,码头S2区,0.0,0.0,0.0
+西式正餐,Our Deli Bread and Sandwich Shop,Our Deli Bread and Sandwich Shop,0,码头S1区,0.0,0.0,0.0
+西式正餐,Wokeria,Wokeria,0,码头S1区,7.0,7.1,7.0
+西式正餐,Taco's Island,Taco's Island,0,码头S3区,0.0,0.0,0.0
+西式正餐,Gusto y Gustos,Gusto y Gustos,0,码头S3区,0.0,0.0,0.0
+西式正餐,Azzurro Bar and Mexican Restaurant,Azzurro Bar and Mexican Restaurant,0,码头S3区,0.0,0.0,0.0
+西式正餐,"Olé Spanish Tapas, Bar and Restaurant","Olé Spanish Tapas, Bar and Restaurant",0,,0.0,0.0,0.0
+西式正餐,Bar & Restaurant de Paris,Bar & Restaurant de Paris,0,码头S2区,0.0,0.0,0.0
+西式正餐,Red Coconut Beach Restaurant,Red Coconut Beach Restaurant,0,码头S1区,0.0,0.0,0.0
+西式正餐,Luna Rossa Bar and Restaurant,Luna Rossa Bar and Restaurant,0,码头S2区,0.0,0.0,0.0
+西式正餐,MAMA's Bar ResTaurAnt And Chillout Lounge,MAMA's Bar ResTaurAnt And Chillout Lounge,0,雅泊,0.0,0.0,0.0
+西式快餐,Jonah's Shakes,Jonah's Shakes,16,码头S1区,9.0,7.9,8.2
+西式快餐,Yellow Cab,Yellow Cab(长滩S2店),53,码头S1区,8.4,8.0,8.1
+西式快餐,香港厨房,香港厨房,269,码头S1区,8.0,8.3,7.7
+西式快餐,Andok's,Andok's,26,码头S1区,8.0,6.9,7.5
+西式快餐,Yellow Cab Pizza Boracay Station 3,Yellow Cab Pizza Boracay Station 3,55,码头S3区,8.3,7.6,8.0
+西式快餐,Shakey's,Shakey's,58,码头S2区,7.6,7.8,8.0
+西式快餐,Bite Club,Bite Club,0,码头S1区,6.4,6.8,7.1
+西式快餐,Mang InAsal,Mang InAsal,23,码头S1区,8.3,7.7,8.2
+西式快餐,Yellow Cab Pizza,Yellow Cab Pizza,0,码头S1区,0.0,0.0,0.0
+西式快餐,BITE CLUB,BITE CLUB,0,码头S1区,7.1,7.0,7.0
+西式快餐,Valhala,Valhala,0,码头S2区,7.8,8.2,8.3
+西式快餐,Mayas,Mayas,0,码头S1区,0.0,0.0,0.0
+西式快餐,麦当劳,麦当劳,0,码头S1区,7.9,8.2,7.9
+西式快餐,ANDOKS,ANDOKS,0,码头S3区,8.3,8.3,8.3
+西式快餐,Cyma,Cyma,0,码头S1区,7.5,8.2,7.5
+西式快餐,Yellow Cab Pizza Boracay Station 1,Yellow Cab Pizza Boracay Station 1,0,码头S1区,0.0,0.0,0.0
+西式快餐,pizza hut,pizza hut,0,,7.2,7.0,7.6
+西式快餐,Hungry Monkey,Hungry Monkey,0,码头S1区,0.0,0.0,0.0
+西式快餐,Super Submarine Sandwich Shop,Super Submarine Sandwich Shop,0,码头S2区,6.9,7.4,6.9
+西式快餐,Army Navy Burger Burrito,Army Navy Burger Burrito,0,码头S1区,0.0,0.0,0.0
+西式快餐,Jammers,Jammers,0,码头S1区,0.0,0.0,0.0
+西式快餐,Dokito Frito,Dokito Frito,0,码头S2区,7.0,6.3,6.4
+西式快餐,Al Fresco Restaurant & Bar,Al Fresco Restaurant & Bar,0,码头S1区,0.0,0.0,0.0
+西式快餐,Big Mouth,Big Mouth,0,码头S2区,0.0,0.0,0.0
+西式快餐,Bite Club,Bite Club,0,码头S2区,0.0,0.0,0.0
+西式快餐,MacDonald,MacDonald,0,码头S2区,7.0,7.0,7.1
+西式快餐,TITOS (Resto & Grill),TITOS (Resto & Grill),0,码头S2区,0.0,0.0,0.0
+西式快餐,Hakuna Matata,Hakuna Matata,0,码头S3区,6.9,6.9,6.9
+西式快餐,Cork Wine Room Boracay,Cork Wine Room Boracay,0,码头S2区,0.0,0.0,0.0
+西式快餐,Reyes Barbecue,Reyes Barbecue,0,码头S1区,6.7,6.7,6.7
+西式快餐,Boom Boom Bar,Boom Boom Bar,0,码头S2区,0.0,0.0,0.0
+西式快餐,Cowboy Cocina Boracay,Cowboy Cocina Boracay,0,码头S3区,0.0,0.0,0.0
+西式快餐,Subway,Subway,0,码头S2区,0.0,0.0,0.0
+西式快餐,Carlo's Pizza,Carlo's Pizza,0,码头S1区,6.9,6.9,6.9
+西式快餐,牛肉汤,牛肉汤,0,码头S2区,0.0,0.0,0.0
+海鲜,D'Talipapa,D'Talipapa,177,码头S2区,8.4,7.0,7.4
+海鲜,长城饭店,长城饭店,152,码头S2区,9.3,9.1,9.3
+海鲜,福建人在长滩,福建人在长滩,245,码头S1区,6.4,5.8,6.1
+海鲜,PALUTO Cooking Service,PALUTO Cooking Service,150,码头S1区,7.6,6.8,6.8
+海鲜,888 Seafood ResturAnt,888 Seafood ResturAnt,0,码头S2区,7.7,7.2,7.4
+海鲜,长滩唐人海鲜,长滩唐人海鲜,0,码头S2区,8.0,7.7,7.7
+海鲜,Nami Boracay,Nami Boracay,0,码头S1区,0.0,0.0,0.0
+海鲜,RED COCONUT,RED COCONUT,0,码头S2区,6.2,7.0,7.0
+海鲜,合栈海鲜中国菜,合栈海鲜中国菜,0,码头S2区,7.9,8.1,7.9
+海鲜,Nigi Nigi Nu Noos Restaurant,Nigi Nigi Nu Noos Restaurant,0,码头S2区,0.0,0.0,0.0
+海鲜,海世界火锅城,海世界火锅城,0,码头S2区,7.4,7.4,7.4
+海鲜,Mint Bar,Mint Bar,0,码头S1区,0.0,0.0,0.0
+海鲜,爱潜会,爱潜会,0,丁依威海滩,7.1,7.1,7.1
+海鲜,TRULY AUTHENTIC FILIPINO FOOD&RESTOBAR,TRULY AUTHENTIC FILIPINO FOOD&RESTOBAR,0,码头S2区,6.9,6.7,6.9
+海鲜,Sirena at Shangri-La's Boracay Resort and Spa,Sirena at Shangri-La's Boracay Resort and Spa,0,雅泊,0.0,0.0,0.0
+海鲜,paluto,paluto,0,码头S1区,6.7,6.7,6.7
+海鲜,宴遇私房小厨,宴遇私房小厨,0,,0.0,0.0,0.0
+海鲜,Gasthof,Gasthof,0,码头S1区,0.0,0.0,0.0
+海鲜,La Capannina Seafood,La Capannina Seafood,0,码头S3区,0.0,0.0,0.0
+海鲜,长滩岛饭店,长滩岛饭店,0,码头S1区,0.0,0.0,0.0
+海鲜,MICR OMATIC RESTRANT,MICR OMATIC RESTRANT,0,码头S2区,0.0,0.0,0.0
+海鲜,SABABI EXOTIC FOODS RESTRANT,SABABI EXOTIC FOODS RESTRANT,0,码头S2区,0.0,0.0,0.0
+海鲜,Crab House,Crab House,0,码头S1区,0.0,0.0,0.0
+海鲜,辉鸿大排档Tropicana resTo,辉鸿大排档Tropicana resTo,0,,0.0,0.0,0.0
+海鲜,Kalinga Bar and Restaurant,Kalinga Bar and Restaurant,0,码头S2区,0.0,0.0,0.0
+海鲜,新辣道,新辣道,0,,0.0,0.0,0.0
+海鲜,TANDUAY SEAFOOD RESTRANT,TANDUAY SEAFOOD RESTRANT,0,码头S2区,0.0,0.0,0.0
+海鲜,Aquafresh,Aquafresh,0,布拉波海滩,0.0,0.0,0.0
+海鲜,Kaeseke Japanese & Seafood,Kaeseke Japanese & Seafood,0,,0.0,0.0,0.0
+烧烤,Hawaiian BBQ Grill,Hawaiian BBQ Grill,97,码头S1区,8.8,8.1,8.2
+烧烤,I LOVE BBQ,I LOVE BBQ,72,码头S1区,8.6,7.8,7.9
+烧烤,兄弟烧烤,兄弟烧烤,0,码头S1区,7.7,7.7,7.7
+烧烤,韩国蒙古烤肉吃到饱餐厅,韩国蒙古烤肉吃到饱餐厅,0,码头S3区,6.5,6.1,6.1
+烧烤,The Original Hawaiian Bar-B-Que,The Original Hawaiian Bar-B-Que,0,码头S1区,0.0,0.0,0.0
+烧烤,Deco's Lapaz Batchoy,Deco's Lapaz Batchoy,0,码头S2区,0.0,0.0,0.0
+烧烤,Pirate's Arm Bar and Restaurant,Pirate's Arm Bar and Restaurant,0,码头S2区,0.0,0.0,0.0
+烧烤,辉鸿大排档Tropicana resTo,辉鸿大排档Tropicana resTo,0,,0.0,0.0,0.0
+烧烤,暮色烤鱼,暮色烤鱼,0,,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,24,码头S1区,8.6,8.5,8.8
+咖啡厅,星巴克,星巴克,29,码头S1区,8.6,8.5,8.6
+咖啡厅,Cafe Del Sol,Cafe Del Sol,38,码头S1区,8.0,7.9,7.9
+咖啡厅,Lemon Cafe,Lemon Cafe,0,码头S1区,8.4,7.9,7.8
+咖啡厅,epIc,epIc,0,码头S1区,7.3,8.0,7.5
+咖啡厅,Starbucks,Starbucks,0,码头S1区,0.0,0.0,0.0
+咖啡厅,cOCO CAFE,cOCO CAFE,0,码头S2区,8.2,8.2,7.5
+咖啡厅,Real Coffee & Tea Cafe,Real Coffee & Tea Cafe,0,码头S1区,0.0,0.0,0.0
+咖啡厅,Heidiland Deli,Heidiland Deli,0,码头S1区,0.0,0.0,0.0
+咖啡厅,Vintana at Shangri-La's Boracay Resort and Spa,Vintana at Shangri-La's Boracay Resort and Spa,0,雅泊,0.0,0.0,0.0
+咖啡厅,Cafe del Sol Boracay,Cafe del Sol Boracay,0,码头S1区,0.0,0.0,0.0
+咖啡厅,the sunny side cafe,the sunny side cafe,0,码头S3区,6.8,7.1,7.1
+咖啡厅,PREMIUM COFFEE HOUSE,PREMIUM COFFEE HOUSE,0,码头S2区,7.1,7.1,7.1
+咖啡厅,Cafe Breizh,Cafe Breizh,0,码头S1区,0.0,0.0,0.0
+咖啡厅,The Sunny Side Cafe,The Sunny Side Cafe,0,码头S1区,7.2,7.2,7.2
+咖啡厅,Cafe La Carmela,Cafe La Carmela,0,码头S3区,0.0,0.0,0.0
+咖啡厅,La Capinnina Italian Restaurant Cafe & Wine Bar,La Capinnina Italian Restaurant Cafe & Wine Bar,0,码头S1区,0.0,0.0,0.0
+咖啡厅,Cafe Christina,Cafe Christina,0,码头S1区,0.0,0.0,0.0
+咖啡厅,Pelmeshka cafe,Pelmeshka cafe,0,码头S1区,7.0,7.0,7.0
+咖啡厅,Coffeeworks Boracay,Coffeeworks Boracay,0,码头S1区,0.0,0.0,0.0
+咖啡厅,SEA BREAZE CAFE,SEA BREAZE CAFE,0,码头S2区,0.0,0.0,0.0
+咖啡厅,Garden Cafe,Garden Cafe,0,码头S1区,0.0,0.0,0.0
+面包甜点,HALOWICH,HALOWICH,25,码头S1区,7.6,7.9,8.0
+面包甜点,Crazy Crepes,Crazy Crepes,24,码头S1区,7.8,7.5,7.2
+面包甜点,ICE MONSTER,ICE MONSTER,0,码头S2区,6.9,6.9,6.9
+面包甜点,Fruite Magic,Fruite Magic,0,码头S2区,6.1,6.7,6.7
+面包甜点,Crazy Crepes,Crazy Crepes,0,码头S1区,6.9,6.9,6.9
+面包甜点,Pancake House,Pancake House,0,码头S1区,0.0,0.0,0.0
+面包甜点,Fruits in Ice Cream Summer Cafe,Fruits in Ice Cream Summer Cafe,0,码头S3区,0.0,0.0,0.0
+面包甜点,歇脚亭奶茶店,歇脚亭奶茶店,0,,0.0,0.0,0.0
+面包甜点,RED BEAN,RED BEAN,0,码头S1区,0.0,0.0,0.0
+酒吧,"Ole Spanish Tapas, Bar and Restaurant Boracay","Ole Spanish Tapas, Bar and Restaurant Boracay",95,码头S1区,7.5,7.9,7.8
+酒吧,Cocomangas Shooter Bar,Cocomangas Shooter Bar,0,周边小岛,7.5,7.5,7.4
+酒吧,Coco Bar,Coco Bar,0,码头S1区,7.3,7.6,7.5
+酒吧,Hobbit House,Hobbit House,0,码头S1区,0.0,0.0,0.0
+酒吧,Epic Bar,Epic Bar,0,码头S1区,8.1,8.1,7.5
+酒吧,"MAMA's Bar, Restaurant, and Chillout Lounge","MAMA's Bar, Restaurant, and Chillout Lounge",0,码头S1区,8.0,7.5,8.0
+酒吧,Bamboo Lounge,Bamboo Lounge,0,码头S1区,6.9,7.0,6.9
+酒吧,888fresh juice bar,888fresh juice bar,0,,6.7,6.1,6.7
+酒吧,Summer Place Bar & Restaurant,Summer Place Bar & Restaurant,0,码头S1区,0.0,0.0,0.0
+酒吧,Charlh's Bar,Charlh's Bar,0,码头S2区,0.0,0.0,0.0
+酒吧,Bombom bar,Bombom bar,0,,6.7,6.7,6.7
+酒吧,Summer Place Bar,Summer Place Bar,0,,6.7,6.7,6.7
+酒吧,The Sand Bar Boracay,The Sand Bar Boracay,0,,6.7,6.7,6.7
+酒吧,Juice Bar,Juice Bar,0,,6.7,6.7,6.7
+酒吧,Coconut Bar,Coconut Bar,0,码头S1区,7.1,7.1,7.1
+酒吧,Bay Leaf Cafe Boracay,Bay Leaf Cafe Boracay,0,布拉波海滩,0.0,0.0,0.0
+酒吧,Pat's Creek Bar,Pat's Creek Bar,0,码头S1区,6.9,7.0,7.0
+酒吧,Beachcomber Boracay Bar and Restaurant,Beachcomber Boracay Bar and Restaurant,0,码头S1区,6.9,6.9,6.9
+酒吧,Sea Gaia Sushi Bar Tsukiji,Sea Gaia Sushi Bar Tsukiji,0,码头S1区,7.1,7.0,7.0
+酒吧,Hey Jude Bar & Bistro,Hey Jude Bar & Bistro,0,,0.0,0.0,0.0
+酒吧,Cocomangas Shooter Bar,Cocomangas Shooter Bar,0,,0.0,0.0,0.0
+酒吧,Juice Bar,Juice Bar,0,,0.0,0.0,0.0
+酒吧,Juice Bar,Juice Bar,0,码头S2区,0.0,0.0,0.0
+酒吧,Charls Bar,Charls Bar,0,,0.0,0.0,0.0
+酒吧,Paradiso bar,Paradiso bar,0,码头S1区,0.0,0.0,0.0
+酒吧,BLUE SMOKE,BLUE SMOKE,0,码头S1区,0.0,0.0,0.0
+酒吧,AZUL BAR,AZUL BAR,0,码头S3区,0.0,0.0,0.0
+酒吧,Club Paraw,Club Paraw,0,,0.0,0.0,0.0
+其他美食,Aria Restaurant,Aria Restaurant,86,码头S1区,7.7,8.3,7.9
+其他美食,Boracay Regency Restaurant,Boracay Regency Restaurant,0,码头S1区,7.5,7.9,7.6
+其他美食,Spider House,Spider House,0,码头S1区,0.0,0.0,0.0
+其他美食,Pamana Restaurant,Pamana Restaurant,0,,0.0,0.0,0.0
+其他美食,Puka Grande Restaurant,Puka Grande Restaurant,0,布拉波海滩,0.0,0.0,0.0
+其他美食,ture food,ture food,0,码头S1区,6.7,6.8,6.7
+其他美食,Nigi Nigi Too,Nigi Nigi Too,0,码头S2区,0.0,0.0,0.0
+其他美食,Fridays Boracay Restaurant,Fridays Boracay Restaurant,0,码头S1区,0.0,0.0,0.0
+其他美食,Mango Ray,Mango Ray,0,码头S1区,0.0,0.0,0.0
+其他美食,Bamboo Lounge,Bamboo Lounge,0,码头S1区,0.0,0.0,0.0
+其他美食,Hey Jude,Hey Jude,0,码头S1区,0.0,0.0,0.0
+其他美食,Calypso Lounge,Calypso Lounge,0,码头S1区,0.0,0.0,0.0
+其他美食,Eclipse Bistro,Eclipse Bistro,0,码头S2区,0.0,0.0,0.0
+其他美食,Paradiso Grill,Paradiso Grill,0,码头S2区,0.0,0.0,0.0
+其他美食,Sur Beach Resort,Sur Beach Resort,0,码头S1区,0.0,0.0,0.0
+其他美食,Cheers Boracay Sports Bar,Cheers Boracay Sports Bar,0,码头S1区,0.0,0.0,0.0
+其他美食,Gerry's Grill,Gerry's Grill,0,码头S1区,0.0,0.0,0.0
+其他美食,OneMGM,OneMGM,0,码头S3区,0.0,0.0,0.0
+其他美食,Happy Home,Happy Home,0,码头S2区,0.0,0.0,0.0
+其他美食,Globy Traveling Chef,Globy Traveling Chef,0,码头S1区,0.0,0.0,0.0
+其他美食,Villa de Oro Restaurant,Villa de Oro Restaurant,0,码头S2区,0.0,0.0,0.0
+其他美食,Pizzeria Floremar,Pizzeria Floremar,0,码头S1区,0.0,0.0,0.0
+其他美食,Kaeseke,Kaeseke,0,码头S1区,0.0,0.0,0.0
+其他美食,Le Soleil de Boracay Bar & Restaurant,Le Soleil de Boracay Bar & Restaurant,0,码头S1区,0.0,0.0,0.0
+其他美食,Blue Marlin Boracay,Blue Marlin Boracay,0,布拉波海滩,0.0,0.0,0.0
+其他美食,Congas Bar & Resto,Congas Bar & Resto,0,码头S3区,0.0,0.0,0.0
+其他美食,Shenna's,Shenna's,0,码头S2区,0.0,0.0,0.0
+其他美食,La Reserve Restaurant,La Reserve Restaurant,0,码头S1区,0.0,0.0,0.0
+其他美食,El Toro Espanol,El Toro Espanol,0,码头S1区,0.0,0.0,0.0
+其他美食,Casa Pilar Restaurant,Casa Pilar Restaurant,0,码头S2区,0.0,0.0,0.0
+其他美食,Beach Hut Bar Boracay,Beach Hut Bar Boracay,0,码头S1区,0.0,0.0,0.0
+其他美食,Arwana Beach Resort Restaurant,Arwana Beach Resort Restaurant,0,码头S3区,0.0,0.0,0.0
+其他美食,Deja Vu,Deja Vu,0,码头S3区,0.0,0.0,0.0

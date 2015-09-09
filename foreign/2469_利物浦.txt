@@ -1,0 +1,41 @@
+意大利菜,Jamie's Italian,Jamie's Italian,0,,0.0,0.0,0.0
+其他西餐,Little Italy,Little Italy,0,,7.7,7.7,7.7
+中餐,中华大酒楼,中华大酒楼,0,利物浦市中心,7.7,7.5,7.5
+中餐,中原餐厅,中原餐厅,0,利物浦市中心,7.7,7.2,7.2
+快餐简餐,棒棒川菜馆,棒棒川菜馆,0,,7.7,7.7,7.7
+快餐简餐,Nando's,Nando's,0,,7.5,7.5,7.5
+快餐简餐,Tea,Tea,0,,6.7,6.7,6.9
+快餐简餐,Papa John's,Papa John's,0,,6.6,6.6,6.6
+快餐简餐,KFC,KFC,0,,7.1,7.1,7.1
+快餐简餐,KFC,KFC,0,,6.7,6.7,6.7
+烧烤,Istanbul Bistro BBQ,Istanbul Bistro BBQ,0,,7.2,7.2,7.2
+烧烤,老蜀人,老蜀人,0,利物浦市中心,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,,7.2,7.2,7.2
+比萨,Abe's Pizza,Abe's Pizza,0,,6.9,6.9,6.9
+咖啡厅,Cafe Tabac,Cafe Tabac,0,,7.2,7.2,7.5
+咖啡厅,Taste Buds Cafe,Taste Buds Cafe,0,,6.9,6.9,6.9
+咖啡厅,Kasbah Cafe Bazaar,Kasbah Cafe Bazaar,0,,7.2,7.2,7.2
+咖啡厅,Temptations Cafe Bar,Temptations Cafe Bar,0,,7.5,7.5,7.5
+咖啡厅,Junction Coffee,Junction Coffee,0,,7.0,7.0,7.0
+咖啡厅,Fontaines cafe,Fontaines cafe,0,,7.1,7.1,7.1
+咖啡厅,Piazza Cafe Bar,Piazza Cafe Bar,0,,7.0,7.0,7.0
+咖啡厅,Fenwick street coffee shop,Fenwick street coffee shop,0,,7.0,7.1,7.0
+咖啡厅,Cosy Bean Cafe,Cosy Bean Cafe,0,,7.1,7.1,7.1
+咖啡厅,Rococo Coffee House,Rococo Coffee House,0,,7.2,7.2,7.2
+咖啡厅,Moose Coffee,Moose Coffee,0,,7.2,7.2,7.2
+咖啡厅,Cinnamon Cafe Bar and Lounge,Cinnamon Cafe Bar and Lounge,0,,7.0,7.0,7.0
+咖啡厅,The Anfield Cafe,The Anfield Cafe,0,,7.1,7.1,7.1
+咖啡厅,Sensations Cafe,Sensations Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe D'Art,Cafe D'Art,0,,7.1,7.1,6.8
+酒吧,Big Bowl Noodle Bar,Big Bowl Noodle Bar,0,,7.3,7.1,7.2
+酒吧,The Italian Club Fish,The Italian Club Fish,0,,7.2,7.1,7.2
+酒吧,Mei Zhen Noodle Bar,Mei Zhen Noodle Bar,0,,6.9,6.8,6.8
+酒吧,The White Horse,The White Horse,0,,7.1,7.1,7.1
+酒吧,tribeca,tribeca,0,,6.9,6.9,6.9
+酒吧,Club Cellar Bar,Club Cellar Bar,0,,7.1,7.1,7.1
+酒吧,Black Horse Pub,Black Horse Pub,0,,7.0,7.0,7.0
+酒吧,Hannah's Bar,Hannah's Bar,0,,6.8,6.8,6.8
+酒吧,JR's Bar,JR's Bar,0,,7.0,7.0,7.0
+酒吧,The Bank Bar and Brasserie,The Bank Bar and Brasserie,0,,7.2,7.2,7.2
+酒吧,Ocean fish bar,Ocean fish bar,0,,7.0,7.1,6.9
+更多美食,Marco Pierre White Steakhouse Bar & Grill,Marco Pierre White Steakhouse Bar & Grill,0,,0.0,0.0,0.0

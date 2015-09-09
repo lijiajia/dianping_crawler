@@ -1,0 +1,2911 @@
+城市特色美食,酒仙梦,酒仙梦,0,,0.0,0.0,0.0
+地中海美食,LA TABERNITA DE SAN JUAN,LA TABERNITA DE SAN JUAN,0,马德里特罗,6.8,6.8,6.8
+自助餐,Hong,Hong,0,马德里特罗,6.9,7.0,6.9
+火锅,川味火锅,川味火锅,0,,8.5,7.7,8.7
+火锅,辣府,辣府,0,马德里特罗,8.0,8.1,7.9
+火锅,马德里辣府,马德里辣府,0,雷蒂罗,0.0,0.0,0.0
+火锅,川味火锅,川味火锅,0,,0.0,0.0,0.0
+火锅,川味火锅,川味火锅,0,,0.0,0.0,0.0
+粤菜,顺水酒楼,顺水酒楼,0,,8.5,8.1,8.5
+粤菜,胖胖私房菜,胖胖私房菜,0,其他,0.0,0.0,0.0
+川菜,马德里川渝人家,马德里川渝人家,0,,0.0,0.0,0.0
+意大利菜,Vesuvio,Vesuvio,0,马德里特罗,7.5,7.5,7.5
+意大利菜,La Tagliatella Madrid - Centro - Jacinto Benavente,La Tagliatella Madrid - Centro - Jacinto Benavente,0,马德里特罗,7.4,7.4,6.1
+意大利菜,Da Nicola,Da Nicola,0,马德里特罗,7.1,7.4,7.1
+意大利菜,Papizza,Papizza,0,马德里特罗,7.1,7.1,7.1
+意大利菜,Heladería,Heladería,0,马德里特罗,7.0,7.0,7.0
+意大利菜,plaza de monclea,plaza de monclea,0,马德里特罗,7.0,7.0,7.0
+意大利菜,老头拍档,老头拍档,0,阿甘祖伊拉,6.7,6.7,6.7
+意大利菜,Trattoria Piccolo Mio,Trattoria Piccolo Mio,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Pinocchio,Trattoria Pinocchio,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Rigatoni,Rigatoni,0,Majadahonda,0.0,0.0,0.0
+意大利菜,Artigiano de la Pasta,Artigiano de la Pasta,0,科斯拉达,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,圣布拉斯,0.0,0.0,0.0
+意大利菜,Ristorante La Piperna,Ristorante La Piperna,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Trattoria Sant Arcangelo,Trattoria Sant Arcangelo,0,雷蒂罗,0.0,0.0,0.0
+意大利菜,Acqua Alta,Acqua Alta,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Pizzateca,La Pizzateca,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Nonna,La Nonna,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,Bufalino,Bufalino,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Tagliatella Madrid - Tetuan - Cuatro Caminos,La Tagliatella Madrid - Tetuan - Cuatro Caminos,0,得土安,0.0,0.0,0.0
+意大利菜,Trattoria Malatesta,Trattoria Malatesta,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Tattaglia,Tattaglia,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,Il Salotto,Il Salotto,0,萨拉曼卡,0.0,0.0,0.0
+意大利菜,"Ristorante Ginos, Cadena Vips","Ristorante Ginos, Cadena Vips",0,其他,0.0,0.0,0.0
+意大利菜,Taberna Maceira,Taberna Maceira,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,埃尔埃斯科里亚尔,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,得土安,0.0,0.0,0.0
+意大利菜,Il Particolare,Il Particolare,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Don Giovanni,Don Giovanni,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Nicoletta Las Tablas,La Nicoletta Las Tablas,0,其他,0.0,0.0,0.0
+意大利菜,Topolino,Topolino,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Garbo Ristorante,Garbo Ristorante,0,马德里特罗,0.0,0.0,0.0
+意大利菜,L'Spirale,L'Spirale,0,萨拉曼卡,0.0,0.0,0.0
+意大利菜,Restaurante,Restaurante,0,,0.0,0.0,0.0
+意大利菜,Restaurante la Trufa Negra,Restaurante la Trufa Negra,0,,0.0,0.0,0.0
+意大利菜,L'Aquila,L'Aquila,0,其他,0.0,0.0,0.0
+意大利菜,Piazza Italia,Piazza Italia,0,其他,0.0,0.0,0.0
+意大利菜,Pizza EmPoRio,Pizza EmPoRio,0,萨拉曼卡,0.0,0.0,0.0
+意大利菜,La Taverna Siciliana,La Taverna Siciliana,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Mafia,La Mafia,0,其他,0.0,0.0,0.0
+意大利菜,Croccos Pizza-La Latina,Croccos Pizza-La Latina,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Pasta Nostra - Fuencarral,Pasta Nostra - Fuencarral,0,贝里,0.0,0.0,0.0
+意大利菜,Gennaro Trattoria,Gennaro Trattoria,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Nicoletta Castellana,La Nicoletta Castellana,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Piccolo Diavolo,Piccolo Diavolo,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Emma y Julia,Emma y Julia,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Farfalla,La Farfalla,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Fabrica,La Fabrica,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Come Prima,Come Prima,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Ti amo,Ti amo,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Taberna Pompeyana,Taberna Pompeyana,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Grazie Mille,Grazie Mille,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Pizzeria El Trebol,Pizzeria El Trebol,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Pizziccheria,Pizziccheria,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Tanino Vallehermoso,Tanino Vallehermoso,0,马德里特罗,0.0,0.0,0.0
+意大利菜,O Mamma Mia Condesa de Venadito,O Mamma Mia Condesa de Venadito,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Donnafugata,Donnafugata,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Anema e Core,Anema e Core,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Aio,Aio,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Bellamia Heladeria,Bellamia Heladeria,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Il Pizzaiolo,Il Pizzaiolo,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Piu di Prima,Piu di Prima,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Gata Flora,La Gata Flora,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Da Gavino,Da Gavino,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Il Regno di Napoli,Il Regno di Napoli,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Sinfonia Rossini,Sinfonia Rossini,0,贝里,0.0,0.0,0.0
+意大利菜,Osteria la Norma,Osteria la Norma,0,贝里,0.0,0.0,0.0
+意大利菜,Sapore di Sicilia,Sapore di Sicilia,0,贝里,0.0,0.0,0.0
+意大利菜,Casa Marco,Casa Marco,0,贝里,0.0,0.0,0.0
+意大利菜,Kalua Helado Artesanal,Kalua Helado Artesanal,0,贝里,0.0,0.0,0.0
+意大利菜,La Nicoletta Zurbano,La Nicoletta Zurbano,0,贝里,0.0,0.0,0.0
+意大利菜,Restaurante Fortuny,Restaurante Fortuny,0,贝里,0.0,0.0,0.0
+意大利菜,Massart,Massart,0,贝里,0.0,0.0,0.0
+意大利菜,A vÁnvera,A vÁnvera,0,贝里,0.0,0.0,0.0
+意大利菜,Nonsolocaffe,Nonsolocaffe,0,贝里,0.0,0.0,0.0
+意大利菜,Il Pastaio del Vecchio Mulino,Il Pastaio del Vecchio Mulino,0,贝里,0.0,0.0,0.0
+意大利菜,Maruzzella,Maruzzella,0,贝里,0.0,0.0,0.0
+意大利菜,Pizzeria Piccola Napoli,Pizzeria Piccola Napoli,0,得土安,0.0,0.0,0.0
+意大利菜,Don Lisander,Don Lisander,0,得土安,0.0,0.0,0.0
+意大利菜,Rugantino,Rugantino,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,La Scarpetta,La Scarpetta,0,阿甘祖伊拉,0.0,0.0,0.0
+意大利菜,L'Officina Gastronomica,L'Officina Gastronomica,0,阿甘祖伊拉,0.0,0.0,0.0
+意大利菜,Restaurante Dolce Vita,Restaurante Dolce Vita,0,雷蒂罗,0.0,0.0,0.0
+意大利菜,Arrivederci Roma,Arrivederci Roma,0,雷蒂罗,0.0,0.0,0.0
+意大利菜,La Trattoria di Brera,La Trattoria di Brera,0,雷蒂罗,0.0,0.0,0.0
+意大利菜,Ovo,Ovo,0,阿拉瓦卡,0.0,0.0,0.0
+意大利菜,Pizza Pazza,Pizza Pazza,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Pizzeria Passaparola,Trattoria Pizzeria Passaparola,0,其他,0.0,0.0,0.0
+意大利菜,Il Bambino,Il Bambino,0,其他,0.0,0.0,0.0
+意大利菜,Manzoni,Manzoni,0,,0.0,0.0,0.0
+意大利菜,La Bella Anna,La Bella Anna,0,其他,0.0,0.0,0.0
+意大利菜,La Tagliatella Madrid - Hortaleza - Piovera,La Tagliatella Madrid - Hortaleza - Piovera,0,福塔雷萨,0.0,0.0,0.0
+意大利菜,Cm10,Cm10,0,利内阿尔城,0.0,0.0,0.0
+意大利菜,Via Appia,Via Appia,0,马德里特罗,0.0,0.0,0.0
+意大利菜,ll pezzo di Giuseppe,ll pezzo di Giuseppe,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Ginos,Ginos,0,福塔雷萨,0.0,0.0,0.0
+意大利菜,La Alpargateria,La Alpargateria,0,利内阿尔城,0.0,0.0,0.0
+意大利菜,Pizzeria La Diavoletta,Pizzeria La Diavoletta,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Tijcal,Tijcal,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Andiamo Ristorante Italiano,Andiamo Ristorante Italiano,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Papizza Siciliana,Papizza Siciliana,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Gino's,Gino's,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Nihil Prius,Nihil Prius,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Pizzeria Casavostra,Pizzeria Casavostra,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Nicoletta Fuencarral,La Nicoletta Fuencarral,0,马德里特罗,0.0,0.0,0.0
+意大利菜,DiBocca Forno E Cucina,DiBocca Forno E Cucina,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Vita e Bella,La Vita e Bella,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Sandos,Sandos,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Danieli,Danieli,0,萨拉曼卡,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,萨拉曼卡,0.0,0.0,0.0
+意大利菜,Restaurante Enzo Madrid,Restaurante Enzo Madrid,0,贝里,0.0,0.0,0.0
+意大利菜,Da Giuseppina,Da Giuseppina,0,贝里,0.0,0.0,0.0
+意大利菜,Pinocchio,Pinocchio,0,贝里,0.0,0.0,0.0
+意大利菜,Il Casone,Il Casone,0,贝里,0.0,0.0,0.0
+意大利菜,Dua Amici,Dua Amici,0,贝里,0.0,0.0,0.0
+意大利菜,La Tagliatella Madrid- CC Plenilunio,La Tagliatella Madrid- CC Plenilunio,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+意大利菜,Sienna,Sienna,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+意大利菜,L'incontro Trattoria,L'incontro Trattoria,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+意大利菜,Finca Lucero. Restaurante Italo Argentino,Finca Lucero. Restaurante Italo Argentino,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+意大利菜,Da Nicola,Da Nicola,0,得土安,0.0,0.0,0.0
+意大利菜,Giangrossi,Giangrossi,0,得土安,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,得土安,0.0,0.0,0.0
+意大利菜,La mafia se sienta a mesa,La mafia se sienta a mesa,0,得土安,0.0,0.0,0.0
+意大利菜,Ginos,Ginos,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,Amalfi Caffe Bar,Amalfi Caffe Bar,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,Trattoria In Crescendo,Trattoria In Crescendo,0,阿甘祖伊拉,0.0,0.0,0.0
+意大利菜,Pappone Trattoria Pizzeria,Pappone Trattoria Pizzeria,0,利内阿尔城,0.0,0.0,0.0
+意大利菜,Ristorante Il Nonno,Ristorante Il Nonno,0,雷蒂罗,0.0,0.0,0.0
+意大利菜,Kasanova,Kasanova,0,雷蒂罗,0.0,0.0,0.0
+意大利菜,Quartetto Rossini,Quartetto Rossini,0,雷蒂罗,0.0,0.0,0.0
+意大利菜,Equilibrium,Equilibrium,0,雷蒂罗,0.0,0.0,0.0
+意大利菜,Trattoria Pizzeria A'Fenestella,Trattoria Pizzeria A'Fenestella,0,福塔雷萨,0.0,0.0,0.0
+意大利菜,I Fratelli,I Fratelli,0,福塔雷萨,0.0,0.0,0.0
+意大利菜,Vk Vallecas,Vk Vallecas,0,其他,0.0,0.0,0.0
+意大利菜,A Tarantella,A Tarantella,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,Da Cuchuffo Madrid,Da Cuchuffo Madrid,0,其他,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,其他,0.0,0.0,0.0
+意大利菜,Gaeta Caffe,Gaeta Caffe,0,其他,0.0,0.0,0.0
+意大利菜,Contracorriente,Contracorriente,0,其他,0.0,0.0,0.0
+意大利菜,Ristorazione Meridionale SL.,Ristorazione Meridionale SL.,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Cantina Belesar,Cantina Belesar,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Farfalla il Piccolino,Farfalla il Piccolino,0,马德里特罗,0.0,0.0,0.0
+意大利菜,I saloni di Milano,I saloni di Milano,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Anonimatto,Anonimatto,0,马德里特罗,0.0,0.0,0.0
+意大利菜,QB QuantoBasta,QB QuantoBasta,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Foodly,Foodly,0,马德里特罗,0.0,0.0,0.0
+意大利菜,El Borsalino,El Borsalino,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Mozzico,Mozzico,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Casa Gades,Casa Gades,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Sapore Di Pizza,Sapore Di Pizza,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Ciao Madrid,Ciao Madrid,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Pepa Tencha,Pepa Tencha,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Mangiare Bene,Mangiare Bene,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Osteria di Climenza,Osteria di Climenza,0,萨拉曼卡,0.0,0.0,0.0
+意大利菜,La zucca,La zucca,0,贝里,0.0,0.0,0.0
+意大利菜,Dibocca,Dibocca,0,贝里,0.0,0.0,0.0
+意大利菜,La Briciola,La Briciola,0,贝里,0.0,0.0,0.0
+意大利菜,Amici Di Napoli,Amici Di Napoli,0,贝里,0.0,0.0,0.0
+意大利菜,La Mafia se Sienta a la Mesa (Pirra),La Mafia se Sienta a la Mesa (Pirra),0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+意大利菜,Pizzeria Sienna,Pizzeria Sienna,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+意大利菜,La Nicoletta Azca,La Nicoletta Azca,0,得土安,0.0,0.0,0.0
+意大利菜,Pizza Jardin,Pizza Jardin,0,得土安,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,Domino's Pizza,Domino's Pizza,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,Alduccio,Alduccio,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,Allo Pizza,Allo Pizza,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,La Margherita,La Margherita,0,阿甘祖伊拉,0.0,0.0,0.0
+意大利菜,Porca Miseria,Porca Miseria,0,阿甘祖伊拉,0.0,0.0,0.0
+意大利菜,Bread&Riccotta,Bread&Riccotta,0,阿甘祖伊拉,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,利内阿尔城,0.0,0.0,0.0
+意大利菜,Restaurante Pesto,Restaurante Pesto,0,利内阿尔城,0.0,0.0,0.0
+意大利菜,Adriana,Adriana,0,利内阿尔城,0.0,0.0,0.0
+意大利菜,Ginos,Ginos,0,利内阿尔城,0.0,0.0,0.0
+意大利菜,Gino's,Gino's,0,雷蒂罗,0.0,0.0,0.0
+意大利菜,La Alpargateria,La Alpargateria,0,雷蒂罗,0.0,0.0,0.0
+意大利菜,Pizza Pizzuela,Pizza Pizzuela,0,圣布拉斯,0.0,0.0,0.0
+意大利菜,La Mafia,La Mafia,0,福塔雷萨,0.0,0.0,0.0
+意大利菜,Raffaela,Raffaela,0,福塔雷萨,0.0,0.0,0.0
+意大利菜,"La Tagliatella, Avenida Manoteras, Hortaleza","La Tagliatella, Avenida Manoteras, Hortaleza",0,福塔雷萨,0.0,0.0,0.0
+意大利菜,La Paraloccia Pizzorante,La Paraloccia Pizzorante,0,阿尔科文达斯,0.0,0.0,0.0
+意大利菜,Trattoria La Famiglia,Trattoria La Famiglia,0,其他,0.0,0.0,0.0
+意大利菜,La Tagliatella - CC Principe Pio,La Tagliatella - CC Principe Pio,0,其他,0.0,0.0,0.0
+意大利菜,A Tavola di Canela,A Tavola di Canela,0,其他,0.0,0.0,0.0
+意大利菜,Dimmi di si`,Dimmi di si`,0,特雷斯坎多斯,0.0,0.0,0.0
+意大利菜,Ginos,Ginos,0,其他,0.0,0.0,0.0
+意大利菜,Il Gondoliere,Il Gondoliere,0,,0.0,0.0,0.0
+意大利菜,La Mensa di Sandro,La Mensa di Sandro,0,格塔菲,0.0,0.0,0.0
+意大利菜,La Parolaccia Due,La Parolaccia Due,0,,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,,0.0,0.0,0.0
+意大利菜,Luna Rossa,Luna Rossa,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Pizzeria Restaurante Tio Miguel,Pizzeria Restaurante Tio Miguel,0,,0.0,0.0,0.0
+意大利菜,Pummarola,Pummarola,0,其他,0.0,0.0,0.0
+意大利菜,Rompicapo,Rompicapo,0,,0.0,0.0,0.0
+意大利菜,Sos Vos,Sos Vos,0,,0.0,0.0,0.0
+意大利菜,Trastevere,Trastevere,0,,0.0,0.0,0.0
+意大利菜,Trattoria la veneziana,Trattoria la veneziana,0,其他,0.0,0.0,0.0
+意大利菜,La bella napoli rivas vaciamadrid,La bella napoli rivas vaciamadrid,0,其他,0.0,0.0,0.0
+意大利菜,Mezzo DI Pasta,Mezzo DI Pasta,0,其他,0.0,0.0,0.0
+意大利菜,LaTagiatella Madrid,LaTagiatella Madrid,0,其他,0.0,0.0,0.0
+意大利菜,Il Rusticone,Il Rusticone,0,其他,0.0,0.0,0.0
+意大利菜,Caprichyo,Caprichyo,0,比利亚德巴列卡斯,0.0,0.0,0.0
+意大利菜,La Muzzarella Loca,La Muzzarella Loca,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Pizza jardin,Pizza jardin,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Boccondivino,Boccondivino,0,萨拉曼卡,0.0,0.0,0.0
+意大利菜,Accademia del Gusto,Accademia del Gusto,0,贝里,0.0,0.0,0.0
+意大利菜,Amici Di Napoli,Amici Di Napoli,0,贝里,0.0,0.0,0.0
+意大利菜,La Tavola di Bangaloo,La Tavola di Bangaloo,0,得土安,0.0,0.0,0.0
+意大利菜,La Nicoletta Capitan Haya,La Nicoletta Capitan Haya,0,得土安,0.0,0.0,0.0
+意大利菜,Il Tempietto,Il Tempietto,0,得土安,0.0,0.0,0.0
+意大利菜,La Taberna Del Museo,La Taberna Del Museo,0,圣布拉斯,0.0,0.0,0.0
+意大利菜,Il Pomo D'Oro,Il Pomo D'Oro,0,卡拉万切尔,0.0,0.0,0.0
+意大利菜,La Bambola Vistalegre,La Bambola Vistalegre,0,卡拉万切尔,0.0,0.0,0.0
+意大利菜,Pizza Jardin,Pizza Jardin,0,其他,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,,0.0,0.0,0.0
+意大利菜,Nashville Restaurant,Nashville Restaurant,0,,0.0,0.0,0.0
+意大利菜,"Piccolina, Madrid","Piccolina, Madrid",0,其他,0.0,0.0,0.0
+意大利菜,Giovanni Rana,Giovanni Rana,0,得土安,0.0,0.0,0.0
+意大利菜,Bel Canto,Bel Canto,0,马德里特罗,0.0,0.0,0.0
+意大利菜,L'Ulivo d'Oro,L'Ulivo d'Oro,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Mafia se Sienta a la Mesa,La Mafia se Sienta a la Mesa,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Caffé Milano,Caffé Milano,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Scacco Matto,Scacco Matto,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Pasta Nostra - Jeronimo,Pasta Nostra - Jeronimo,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Dibocca Plaza de Canalejas,Dibocca Plaza de Canalejas,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Lo Scolapasta,Lo Scolapasta,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Cafe La Traviatae,Cafe La Traviatae,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Nardino,Nardino,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Restaurante Star,Restaurante Star,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Mafia se Sienta a la Mesa,La Mafia se Sienta a la Mesa,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Di Bocca,Di Bocca,0,马德里特罗,0.0,0.0,0.0
+意大利菜,La Gula,La Gula,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Taberna Otto,Taberna Otto,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Bice,Bice,0,马德里特罗,0.0,0.0,0.0
+意大利菜,L'amore è femmina,L'amore è femmina,0,马德里特罗,0.0,0.0,0.0
+意大利菜,Il Sorriso,Il Sorriso,0,萨拉曼卡,0.0,0.0,0.0
+意大利菜,El Majao,El Majao,0,萨拉曼卡,0.0,0.0,0.0
+意大利菜,Caput Mundi,Caput Mundi,0,萨拉曼卡,0.0,0.0,0.0
+意大利菜,Trattoria D'G,Trattoria D'G,0,萨拉曼卡,0.0,0.0,0.0
+意大利菜,Trattoria San Paolo,Trattoria San Paolo,0,贝里,0.0,0.0,0.0
+意大利菜,Brucculino,Brucculino,0,贝里,0.0,0.0,0.0
+意大利菜,Ciuri Ciuri,Ciuri Ciuri,0,贝里,0.0,0.0,0.0
+意大利菜,Il Gusto,Il Gusto,0,贝里,0.0,0.0,0.0
+意大利菜,Trattoria Due Amici,Trattoria Due Amici,0,贝里,0.0,0.0,0.0
+意大利菜,Carpaccio,Carpaccio,0,得土安,0.0,0.0,0.0
+意大利菜,Rossopomodoro,Rossopomodoro,0,得土安,0.0,0.0,0.0
+意大利菜,Paper Moon,Paper Moon,0,查马丁火车站,0.0,0.0,0.0
+意大利菜,Sicilia in Bocca,Sicilia in Bocca,0,阿甘祖伊拉,0.0,0.0,0.0
+意大利菜,Pizza Emporio,Pizza Emporio,0,利内阿尔城,0.0,0.0,0.0
+意大利菜,La Mafia,La Mafia,0,雷蒂罗,0.0,0.0,0.0
+意大利菜,40 Cafe,40 Cafe,0,阿拉瓦卡,0.0,0.0,0.0
+意大利菜,La Briciola,La Briciola,0,其他,0.0,0.0,0.0
+意大利菜,Ginos,Ginos,0,,0.0,0.0,0.0
+法国菜,Lhardy,Lhardy,0,马德里特罗,7.1,7.1,7.1
+法国菜,La Sidreria,La Sidreria,0,Majadahonda,0.0,0.0,0.0
+法国菜,Le Petit Prince,Le Petit Prince,0,卡拉万切尔,0.0,0.0,0.0
+法国菜,La Maison de Eva,La Maison de Eva,0,查马丁火车站,0.0,0.0,0.0
+法国菜,LAVINIA,LAVINIA,0,萨拉曼卡,0.0,0.0,0.0
+法国菜,Lafayette,Lafayette,0,马德里特罗,0.0,0.0,0.0
+法国菜,Le Chateau de l'Entrecote,Le Chateau de l'Entrecote,0,福塔雷萨,0.0,0.0,0.0
+法国菜,Bonjour Madrid,Bonjour Madrid,0,其他,0.0,0.0,0.0
+法国菜,Cre Cotte,Cre Cotte,0,得土安,0.0,0.0,0.0
+法国菜,La Cure Gourmande,La Cure Gourmande,0,卡拉万切尔,0.0,0.0,0.0
+法国菜,Le Comptoir de la Crepe,Le Comptoir de la Crepe,0,其他,0.0,0.0,0.0
+法国菜,L'Artisan Furansu Kitchen,L'Artisan Furansu Kitchen,0,马德里特罗,0.0,0.0,0.0
+法国菜,Bichobola,Bichobola,0,马德里特罗,0.0,0.0,0.0
+法国菜,Lieu Restaurante,Lieu Restaurante,0,马德里特罗,0.0,0.0,0.0
+法国菜,Restaurante La Esquina Del Real,Restaurante La Esquina Del Real,0,马德里特罗,0.0,0.0,0.0
+法国菜,L'entrecote Cafe de Paris,L'entrecote Cafe de Paris,0,萨拉曼卡,0.0,0.0,0.0
+法国菜,La Crep,La Crep,0,马德里特罗,0.0,0.0,0.0
+法国菜,Caripen,Caripen,0,马德里特罗,0.0,0.0,0.0
+法国菜,Creperie Ma Bretagne,Creperie Ma Bretagne,0,马德里特罗,0.0,0.0,0.0
+法国菜,Olive,Olive,0,马德里特罗,0.0,0.0,0.0
+法国菜,L'Entrecôte,L'Entrecôte,0,萨拉曼卡,0.0,0.0,0.0
+法国菜,El comite,El comite,0,得土安,0.0,0.0,0.0
+法国菜,Beaucoup!,Beaucoup!,0,查马丁火车站,0.0,0.0,0.0
+法国菜,Ibiza 41,Ibiza 41,0,雷蒂罗,0.0,0.0,0.0
+法国菜,Este o Este,Este o Este,0,马德里特罗,0.0,0.0,0.0
+法国菜,In-Panis,In-Panis,0,马德里特罗,0.0,0.0,0.0
+法国菜,La Tulipe,La Tulipe,0,萨拉曼卡,0.0,0.0,0.0
+法国菜,Creperie Zona Norte,Creperie Zona Norte,0,贝里,0.0,0.0,0.0
+法国菜,El Balandro,El Balandro,0,得土安,0.0,0.0,0.0
+法国菜,L'art Creperie,L'art Creperie,0,其他,0.0,0.0,0.0
+法国菜,El Picatoste,El Picatoste,0,其他,0.0,0.0,0.0
+法国菜,La Creperie,La Creperie,0,其他,0.0,0.0,0.0
+法国菜,La Bodegona,La Bodegona,0,其他,0.0,0.0,0.0
+法国菜,Don Victor,Don Victor,0,利内阿尔城,0.0,0.0,0.0
+法国菜,Délices d'Oli,Délices d'Oli,0,其他,0.0,0.0,0.0
+法国菜,Restaurante La Galia,Restaurante La Galia,0,马德里特罗,0.0,0.0,0.0
+法国菜,Le Petit Bistrot Matute,Le Petit Bistrot Matute,0,马德里特罗,0.0,0.0,0.0
+法国菜,Casanis Madrid,Casanis Madrid,0,马德里特罗,0.0,0.0,0.0
+法国菜,Mcm,Mcm,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Oyamel,Oyamel,0,萨拉曼卡,0.0,0.0,0.0
+墨西哥菜,Los Girasoles Cantina,Los Girasoles Cantina,0,萨拉曼卡,0.0,0.0,0.0
+墨西哥菜,Taqueria La Lupita,Taqueria La Lupita,0,萨拉曼卡,0.0,0.0,0.0
+墨西哥菜,Rosa Negra,Rosa Negra,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La Malinche,La Malinche,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La Panza is Pimero,La Panza is Pimero,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La Taqueria de Birra,La Taqueria de Birra,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,DF Bar,DF Bar,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,El chaparrito,El chaparrito,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La mordida,La mordida,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Taqueria Mi Ciudad,Taqueria Mi Ciudad,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Entre Suspiro y Suspiro,Entre Suspiro y Suspiro,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Barriga Llena,Barriga Llena,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Tepic,Tepic,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Chirrion,Chirrion,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La Mordida,La Mordida,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Maria Bonita Taco Bar,Maria Bonita Taco Bar,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Punto Mx,Punto Mx,0,萨拉曼卡,0.0,0.0,0.0
+墨西哥菜,Tacos Chapultepec,Tacos Chapultepec,0,贝里,0.0,0.0,0.0
+墨西哥菜,La Panza es Primero,La Panza es Primero,0,贝里,0.0,0.0,0.0
+墨西哥菜,Orale Compadre,Orale Compadre,0,查马丁火车站,0.0,0.0,0.0
+墨西哥菜,El Jalapeno,El Jalapeno,0,查马丁火车站,0.0,0.0,0.0
+墨西哥菜,La Terrazza de la Mordida,La Terrazza de la Mordida,0,雷蒂罗,0.0,0.0,0.0
+墨西哥菜,Los Pioneros Restaurante Mexicano,Los Pioneros Restaurante Mexicano,0,福塔雷萨,0.0,0.0,0.0
+墨西哥菜,La Malinche,La Malinche,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Cantina Moctezuma,Cantina Moctezuma,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,El Chaparrito Madrid,El Chaparrito Madrid,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Mestizo,Mestizo,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La Panza Es Primero,La Panza Es Primero,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,El Rincon De Andy,El Rincon De Andy,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La Panza es Primero La Gavia,La Panza es Primero La Gavia,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La Panza es Primero Santa Engracia,La Panza es Primero Santa Engracia,0,贝里,0.0,0.0,0.0
+墨西哥菜,Si Senor,Si Senor,0,查马丁火车站,0.0,0.0,0.0
+墨西哥菜,La Catrina,La Catrina,0,其他,0.0,0.0,0.0
+墨西哥菜,La Morena Cantina,La Morena Cantina,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La Tasca Mexicana,La Tasca Mexicana,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Don Emiliano,Don Emiliano,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Central Mexicana,Central Mexicana,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Sabor a Mi,Sabor a Mi,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Lulu Taco Bar,Lulu Taco Bar,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Tako Away,Tako Away,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Pico De Gallo,Pico De Gallo,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Fat Boy tacos y burritos,Fat Boy tacos y burritos,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,El Charro,El Charro,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La Panza es Primero Campoamor,La Panza es Primero Campoamor,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La Mordida,La Mordida,0,贝里,0.0,0.0,0.0
+墨西哥菜,EL CHILE VERDE,EL CHILE VERDE,0,贝里,0.0,0.0,0.0
+墨西哥菜,Nano El Mexicano,Nano El Mexicano,0,得土安,0.0,0.0,0.0
+墨西哥菜,Mexico Lindo,Mexico Lindo,0,查马丁火车站,0.0,0.0,0.0
+墨西哥菜,La Tacoteca Restaurante,La Tacoteca Restaurante,0,卡拉万切尔,0.0,0.0,0.0
+墨西哥菜,Rock & Tacos,Rock & Tacos,0,其他,0.0,0.0,0.0
+墨西哥菜,Central Mexicana,Central Mexicana,0,Majadahonda,0.0,0.0,0.0
+墨西哥菜,"Coba, Restauraurante Mexicano","Coba, Restauraurante Mexicano",0,罗萨斯,0.0,0.0,0.0
+墨西哥菜,Tijuana,Tijuana,0,,0.0,0.0,0.0
+墨西哥菜,Taco Bell Madrid,Taco Bell Madrid,0,其他,0.0,0.0,0.0
+墨西哥菜,El Rinconcito Mexicano,El Rinconcito Mexicano,0,其他,0.0,0.0,0.0
+墨西哥菜,Tacos y Nachos,Tacos y Nachos,0,其他,0.0,0.0,0.0
+墨西哥菜,Meson Oro y Plata,Meson Oro y Plata,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Barriga Llena Valverde (Gran Via),Barriga Llena Valverde (Gran Via),0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,Cantina Mejicana,Cantina Mejicana,0,马德里特罗,0.0,0.0,0.0
+墨西哥菜,La panza es primero,La panza es primero,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Botin,Restaurante Botin,0,马德里特罗,8.5,8.5,7.5
+其他西餐,Diverxo,Diverxo,0,得土安,7.9,8.2,8.2
+其他西餐,casa valencia,casa valencia,0,,8.3,8.3,8.4
+其他西餐,Vips,Vips,0,马德里特罗,8.2,8.2,8.2
+其他西餐,La Casa Del Abuelo,La Casa Del Abuelo,0,马德里特罗,7.0,6.9,7.5
+其他西餐,Algarabia,Algarabia,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Museo del Jamon,Museo del Jamon,0,马德里特罗,8.4,7.5,6.7
+其他西餐,Casa Lucio,Casa Lucio,0,马德里特罗,7.5,7.5,7.5
+其他西餐,Cerveceria Alemana,Cerveceria Alemana,0,马德里特罗,8.4,8.4,8.4
+其他西餐,Mercado de la Reina,Mercado de la Reina,0,马德里特罗,8.2,8.2,8.2
+其他西餐,Meson Don Jamon,Meson Don Jamon,0,格塔菲,0.0,0.0,0.0
+其他西餐,Restaurante Brios,Restaurante Brios,0,查马丁火车站,7.4,7.4,8.3
+其他西餐,"Iowa , Madrid","Iowa , Madrid",0,马德里特罗,6.8,6.8,6.8
+其他西餐,Granier,Granier,0,其他,0.0,0.0,0.0
+其他西餐,La Fragua de Vulcano,La Fragua de Vulcano,0,马德里特罗,8.3,8.3,8.3
+其他西餐,Taberna del Chato,Taberna del Chato,0,马德里特罗,8.3,7.4,8.3
+其他西餐,L'Albufera,L'Albufera,0,得土安,8.3,8.3,8.3
+其他西餐,Lhardy,Lhardy,0,马德里特罗,7.1,7.1,7.1
+其他西餐,Asador Casa Juan,Asador Casa Juan,0,其他,8.1,8.1,8.1
+其他西餐,McDonald's,McDonald's,0,巴拉哈斯机场-IFEMA展览中心,7.5,6.7,6.7
+其他西餐,CAFÉ&TAPAS,CAFÉ&TAPAS,0,萨拉曼卡,7.5,7.5,6.7
+其他西餐,Hamburguesa Nostra Gran Via,Hamburguesa Nostra Gran Via,0,马德里特罗,7.3,6.8,6.8
+其他西餐,Maestro Churrero Cafeteria Churreria,Maestro Churrero Cafeteria Churreria,0,马德里特罗,7.4,7.4,7.4
+其他西餐,La Barraca,La Barraca,0,马德里特罗,7.1,7.4,7.1
+其他西餐,Churreria Siglo XIX,Churreria Siglo XIX,0,贝里,7.1,7.1,7.1
+其他西餐,Bar Expres,Bar Expres,0,马德里特罗,7.1,7.1,7.1
+其他西餐,Epoque by Gran Melia,Epoque by Gran Melia,0,萨拉曼卡,8.4,8.4,8.4
+其他西餐,Cafe Vait,Cafe Vait,0,萨拉曼卡,7.2,7.7,7.2
+其他西餐,Malacatin,Malacatin,0,马德里特罗,6.8,6.8,7.3
+其他西餐,Cerveceria 100 Montaditos,Cerveceria 100 Montaditos,0,马德里特罗,6.7,6.7,6.7
+其他西餐,KFC,KFC,0,马德里特罗,6.8,6.8,6.8
+其他西餐,El Tinterillo de Malaga,El Tinterillo de Malaga,0,马德里特罗,5.9,6.7,6.7
+其他西餐,Restaurante Casa Salvador,Restaurante Casa Salvador,0,马德里特罗,7.5,8.4,8.4
+其他西餐,Churreria - Chocolateria - Los Artesanos 1902,Churreria - Chocolateria - Los Artesanos 1902,0,马德里特罗,6.8,7.1,7.1
+其他西餐,Estado Puro NH Palacio de Tepa,Estado Puro NH Palacio de Tepa,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Meson de la Tortilla,Meson de la Tortilla,0,马德里特罗,7.1,7.1,7.1
+其他西餐,Masqmenos,Masqmenos,0,萨拉曼卡,7.1,7.1,7.1
+其他西餐,Casa Ciriaco,Casa Ciriaco,0,马德里特罗,7.3,7.3,7.3
+其他西餐,Tommy Mel's,Tommy Mel's,0,马德里特罗,6.8,7.1,7.1
+其他西餐,Horno de San Onofre,Horno de San Onofre,0,马德里特罗,6.8,7.1,7.1
+其他西餐,Mc Donald´s,Mc Donald´s,0,马德里特罗,7.1,7.4,7.1
+其他西餐,Mama Ines,Mama Ines,0,马德里特罗,7.1,7.1,7.1
+其他西餐,El Serete,El Serete,0,马德里特罗,6.8,6.8,6.8
+其他西餐,Con 2 fogones,Con 2 fogones,0,马德里特罗,7.1,7.1,7.1
+其他西餐,Museo del Jamon,Museo del Jamon,0,马德里特罗,6.7,6.7,6.7
+其他西餐,El Parador del Jamon,El Parador del Jamon,0,萨拉曼卡,7.4,7.4,6.7
+其他西餐,pasteleria La Torrecilla,pasteleria La Torrecilla,0,马德里特罗,6.8,7.1,7.1
+其他西餐,Zurito,Zurito,0,其他,0.0,0.0,0.0
+其他西餐,Cafe de Oriente,Cafe de Oriente,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Casa Alberto,Casa Alberto,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Asador de Aranda,El Asador de Aranda,0,得土安,0.0,0.0,0.0
+其他西餐,Cafeteria - Restaurante Hiedra,Cafeteria - Restaurante Hiedra,0,其他,0.0,0.0,0.0
+其他西餐,Venta El Buscon,Venta El Buscon,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Abrasador,Abrasador,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Europa Decó,Europa Decó,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Tigre,El Tigre,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Arcos de la Corredera,Arcos de la Corredera,0,其他,0.0,0.0,0.0
+其他西餐,A Pota D'ouro,A Pota D'ouro,0,阿甘祖伊拉,0.0,0.0,0.0
+其他西餐,La Fuentada de Oteruelo,La Fuentada de Oteruelo,0,其他,0.0,0.0,0.0
+其他西餐,Casa Mateos,Casa Mateos,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Casa Labra,Casa Labra,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Combarro,Combarro,0,得土安,0.0,0.0,0.0
+其他西餐,Trattoria Pinocchio,Trattoria Pinocchio,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna del Alabardero,Taberna del Alabardero,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cuevas El Secreto,Cuevas El Secreto,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Meson del Cid,Meson del Cid,0,贝里,0.0,0.0,0.0
+其他西餐,Op11 Taberna Frituur Belga,Op11 Taberna Frituur Belga,0,利内阿尔城,0.0,0.0,0.0
+其他西餐,Vi Cool,Vi Cool,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Al Punto,Al Punto,0,福塔雷萨,0.0,0.0,0.0
+其他西餐,El Anciano Rey de los Vinos,El Anciano Rey de los Vinos,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Zerain,Zerain,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Naia,Naia,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Amayra,Amayra,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Vaca Argentina - Castellana,La Vaca Argentina - Castellana,0,得土安,0.0,0.0,0.0
+其他西餐,La Trucha,La Trucha,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Respiro,El Respiro,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Viridiana,Viridiana,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Bocanova,Bocanova,0,福塔雷萨,0.0,0.0,0.0
+其他西餐,dNorte,dNorte,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Soberbia,La Soberbia,0,马德里特罗,0.0,0.0,0.0
+其他西餐,DON ULPIANO SAN BERNARDO,DON ULPIANO SAN BERNARDO,0,贝里,0.0,0.0,0.0
+其他西餐,La Maquina de Chamberi,La Maquina de Chamberi,0,贝里,0.0,0.0,0.0
+其他西餐,La Chata,La Chata,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Capricho Extremeno,El Capricho Extremeno,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Casa Jacinto,Casa Jacinto,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Sanabresa,La Sanabresa,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Minchu,Minchu,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Arreoceria Mediterraneo,Arreoceria Mediterraneo,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,La Torino,La Torino,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Puerto Rico,Restaurante Puerto Rico,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Terraza del Casino de Madrid,La Terraza del Casino de Madrid,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Ciudad de Tui,Ciudad de Tui,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Cueva de 1900 Madrid,La Cueva de 1900 Madrid,0,其他,0.0,0.0,0.0
+其他西餐,Alboroque,Alboroque,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Rias Altas,Rias Altas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante La Torcaz,Restaurante La Torcaz,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,La Paella de la Reina,La Paella de la Reina,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Mary Restaurant,La Mary Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Bocaito,Bocaito,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna Restaurante Oliveros,Taberna Restaurante Oliveros,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante De Jaleo - Calle Mayor,Restaurante De Jaleo - Calle Mayor,0,马德里特罗,0.0,0.0,0.0
+其他西餐,enrique tomas,enrique tomas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante La Casa del Pregonero,Restaurante La Casa del Pregonero,0,其他,0.0,0.0,0.0
+其他西餐,Flanker GastroBar Las Rozas,Flanker GastroBar Las Rozas,0,罗萨斯,0.0,0.0,0.0
+其他西餐,A Cala,A Cala,0,,0.0,0.0,0.0
+其他西餐,Asador La Granja,Asador La Granja,0,,0.0,0.0,0.0
+其他西餐,El Puchero de Reyes,El Puchero de Reyes,0,,0.0,0.0,0.0
+其他西餐,Hacienda La Coracera: Rte. Siete Capillas,Hacienda La Coracera: Rte. Siete Capillas,0,其他,0.0,0.0,0.0
+其他西餐,Espaten,Espaten,0,其他,0.0,0.0,0.0
+其他西餐,The Magic Spoon,The Magic Spoon,0,勒加尼斯,0.0,0.0,0.0
+其他西餐,La Posada de Horcajuelo,La Posada de Horcajuelo,0,其他,0.0,0.0,0.0
+其他西餐,La Carreta de Lula,La Carreta de Lula,0,埃尔埃斯科里亚尔,0.0,0.0,0.0
+其他西餐,Hermanos Santos  EL Fermin,Hermanos Santos  EL Fermin,0,艾科坎,0.0,0.0,0.0
+其他西餐,Gancho y Directo,Gancho y Directo,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante D'altea,Restaurante D'altea,0,Majadahonda,0.0,0.0,0.0
+其他西餐,James Joyce Irish Pub,James Joyce Irish Pub,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Hanan,Hanan,0,其他,0.0,0.0,0.0
+其他西餐,La Trainera,La Trainera,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Casa Patas,Casa Patas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Lateral Fuencarral,Restaurante Lateral Fuencarral,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cerveceria Monje,Cerveceria Monje,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Jamon de Gran Via,El Jamon de Gran Via,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Dantxari,Dantxari,0,其他,0.0,0.0,0.0
+其他西餐,Plaza Mayor,Plaza Mayor,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Casa de Valencia,Restaurante Casa de Valencia,0,其他,0.0,0.0,0.0
+其他西餐,Los Gatos,Los Gatos,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Manduca de Azagra,La Manduca de Azagra,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna Antonio Sánchez,Taberna Antonio Sánchez,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Lateral Santa Ana,Restaurante Lateral Santa Ana,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Descubierta,La Descubierta,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Pulpería de Victoria,La Pulpería de Victoria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,100 Montaditos Principe,100 Montaditos Principe,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Casa Hortensia,Casa Hortensia,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Luis,Restaurante Luis,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Sidreria El Tigre,Sidreria El Tigre,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Sanxenxo,Sanxenxo,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,El Brasero de Don Pedro,El Brasero de Don Pedro,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+其他西餐,El Rosario,El Rosario,0,阿甘祖伊拉,0.0,0.0,0.0
+其他西餐,Sirena Verde,Sirena Verde,0,阿拉瓦卡,0.0,0.0,0.0
+其他西餐,El Pescador,El Pescador,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Samarkanda,Samarkanda,0,马德里特罗,0.0,0.0,0.0
+其他西餐,TriCiclo,TriCiclo,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Bayres Beef,Bayres Beef,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Arabia,Arabia,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cafeeke Cervezas y Tapas S.L.,Cafeeke Cervezas y Tapas S.L.,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Parrila de Mario,La Parrila de Mario,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cafe del Patio,Cafe del Patio,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Gran Cafe de Madrid,Gran Cafe de Madrid,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Paraiso del Jamon,Paraiso del Jamon,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna Gaztelupe,Taberna Gaztelupe,0,得土安,0.0,0.0,0.0
+其他西餐,La Lanzada Cocina Gallega,La Lanzada Cocina Gallega,0,利内阿尔城,0.0,0.0,0.0
+其他西餐,Chocolat,Chocolat,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Hotel Restaurant at Villa Magna,Hotel Restaurant at Villa Magna,0,贝里,0.0,0.0,0.0
+其他西餐,La Vaca Argentina - Las Cortes,La Vaca Argentina - Las Cortes,0,马德里特罗,0.0,0.0,0.0
+其他西餐,"La Gaditana, Taberna Andaluza","La Gaditana, Taberna Andaluza",0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Sal Gorda,Sal Gorda,0,其他,0.0,0.0,0.0
+其他西餐,Bodega de los Secretos,Bodega de los Secretos,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cafe de Chinitas,Cafe de Chinitas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Tasca La Farmacia,Tasca La Farmacia,0,得土安,0.0,0.0,0.0
+其他西餐,El Guero,El Guero,0,福塔雷萨,0.0,0.0,0.0
+其他西餐,La Tona,La Tona,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Orio Fuencarral,Orio Fuencarral,0,马德里特罗,0.0,0.0,0.0
+其他西餐,LAVINIA,LAVINIA,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Carta Marina,Carta Marina,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Restaurante El Astorgano,Restaurante El Astorgano,0,得土安,0.0,0.0,0.0
+其他西餐,La Vaca Argentina - Bailen,La Vaca Argentina - Bailen,0,马德里特罗,0.0,0.0,0.0
+其他西餐,ENE MADRID Tapas Bar Concept,ENE MADRID Tapas Bar Concept,0,福塔雷萨,0.0,0.0,0.0
+其他西餐,Taberna Bodegas Ricla,Taberna Bodegas Ricla,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Petit Comite,Petit Comite,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Surena,La Surena,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Rincon de Fogg,El Rincon de Fogg,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Cafe Murillo,Cafe Murillo,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Zara,Zara,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Amaya Madrid,Restaurante Amaya Madrid,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Ene Gastrococteleria,Ene Gastrococteleria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Taberna del Capitan Alatriste,La Taberna del Capitan Alatriste,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La ,La ,0,马德里特罗,0.0,0.0,0.0
+其他西餐,A Tasca Do Bacalhau Portuges,A Tasca Do Bacalhau Portuges,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Ex Libris,Ex Libris,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna Bakio,Taberna Bakio,0,贝里,0.0,0.0,0.0
+其他西餐,Restaurante Fishka,Restaurante Fishka,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Casa Benigna,Casa Benigna,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Filandon,Filandon,0,其他,0.0,0.0,0.0
+其他西餐,Taberna el Sur,Taberna el Sur,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Fonda La Lechuga,Fonda La Lechuga,0,马德里特罗,0.0,0.0,0.0
+其他西餐,De Maria,De Maria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Yerbabuena,Yerbabuena,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Carboneria,La Carboneria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Abaceria Tapas Lambuzo,Abaceria Tapas Lambuzo,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Clarita,Clarita,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Baco y Beto,Baco y Beto,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Jardin de Orfila (H. Orfila),El Jardin de Orfila (H. Orfila),0,贝里,0.0,0.0,0.0
+其他西餐,El Tendido 2,El Tendido 2,0,贝里,0.0,0.0,0.0
+其他西餐,Goizeko Kabi,Goizeko Kabi,0,得土安,0.0,0.0,0.0
+其他西餐,Lu&cia,Lu&cia,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Restaurante el Maragato,Restaurante el Maragato,0,,0.0,0.0,0.0
+其他西餐,Quintana 30,Quintana 30,0,其他,0.0,0.0,0.0
+其他西餐,Atelier Belge Restaurante,Atelier Belge Restaurante,0,其他,0.0,0.0,0.0
+其他西餐,La Antonita,La Antonita,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna de la Daniela Cuchilleros,Taberna de la Daniela Cuchilleros,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Fatigas del Querer,Fatigas del Querer,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Comedia Griega,La Comedia Griega,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La vaquita argentina,La vaquita argentina,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Chulapa de Alcala,La Chulapa de Alcala,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Albur,Restaurante Albur,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Bocoy,El Bocoy,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Loft 39,Loft 39,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,La Boveda 78,La Boveda 78,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Taberna Aránzazu,Taberna Aránzazu,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Baby Beef Rubaiyat,Baby Beef Rubaiyat,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Casa Santona Avenida de Nazaret,Casa Santona Avenida de Nazaret,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,El Viejo Almacen De Buenos Aires,El Viejo Almacen De Buenos Aires,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Hattrick Cafe,Restaurante Hattrick Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Cantina La Traviesa,Cantina La Traviesa,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Las Cuevas de Luis Candelas,Las Cuevas de Luis Candelas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Vaca Argentina,La Vaca Argentina,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Buey,El Buey,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Flash Flash Madrid,Flash Flash Madrid,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Vintage Lounge,Vintage Lounge,0,贝里,0.0,0.0,0.0
+其他西餐,La Castanal,La Castanal,0,得土安,0.0,0.0,0.0
+其他西餐,Bar La Campana,Bar La Campana,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Sando,Restaurante Sando,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Arce,Arce,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna los Gallos,Taberna los Gallos,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Okela,Okela,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+其他西餐,New York Burger,New York Burger,0,阿拉瓦卡,0.0,0.0,0.0
+其他西餐,La Alternativa,La Alternativa,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Taberna de Mister Pinkleton,La Taberna de Mister Pinkleton,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cerveceria 100 Montaditos,Cerveceria 100 Montaditos,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna Alhambra,Taberna Alhambra,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Lateral,Lateral,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Manolo,Manolo,0,贝里,0.0,0.0,0.0
+其他西餐,La Vaca Argentina - Azca,La Vaca Argentina - Azca,0,得土安,0.0,0.0,0.0
+其他西餐,Casa9 Restaurante,Casa9 Restaurante,0,得土安,0.0,0.0,0.0
+其他西餐,Rafa,Rafa,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Taberna Kaixo,Taberna Kaixo,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Tasca de Figueroa,La Tasca de Figueroa,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna Degusta,Taberna Degusta,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Restaurante La Dehesa IV,Restaurante La Dehesa IV,0,其他,0.0,0.0,0.0
+其他西餐,La Taberna Del Papelon,La Taberna Del Papelon,0,马德里特罗,0.0,0.0,0.0
+其他西餐,O Pazo de Lugo,O Pazo de Lugo,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cocotito,Cocotito,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Meson O'Luar,Meson O'Luar,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Pecado Carnal,Pecado Carnal,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Las Tres Manolas,Las Tres Manolas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Sacristia,La Sacristia,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El 17 de Moreto,El 17 de Moreto,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Metro Bistro - Templo de Debod,Metro Bistro - Templo de Debod,0,其他,0.0,0.0,0.0
+其他西餐,Casa Maria,Casa Maria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,A Solaina,A Solaina,0,得土安,0.0,0.0,0.0
+其他西餐,Strawberry Fields,Strawberry Fields,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Rotonda,La Rotonda,0,马德里特罗,0.0,0.0,0.0
+其他西餐,a.n.E.l. Tapas & Lounge,a.n.E.l. Tapas & Lounge,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,La Austriaca,La Austriaca,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Torrenostra,Torrenostra,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Marisquería Salamar,Marisquería Salamar,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,La Cueva,La Cueva,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Brasaylena C.C. Plenilunio Madrid,Brasaylena C.C. Plenilunio Madrid,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+其他西餐,Cafe & Te,Cafe & Te,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Maquina de La Castellana,La Maquina de La Castellana,0,其他,0.0,0.0,0.0
+其他西餐,El Asador De Aranda,El Asador De Aranda,0,其他,0.0,0.0,0.0
+其他西餐,CAFÉ & TAPAS CARRETAS 14,CAFÉ & TAPAS CARRETAS 14,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Enfriador,El Enfriador,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Araceli la Moraleja,Araceli la Moraleja,0,阿尔科文达斯,0.0,0.0,0.0
+其他西餐,Feeling Gastronomico,Feeling Gastronomico,0,贝里,0.0,0.0,0.0
+其他西餐,La Vaca Argentina - Gaztambide,La Vaca Argentina - Gaztambide,0,贝里,0.0,0.0,0.0
+其他西餐,Espacio 33,Espacio 33,0,得土安,0.0,0.0,0.0
+其他西餐,El Roble,El Roble,0,阿甘祖伊拉,0.0,0.0,0.0
+其他西餐,Casa Lucas,Casa Lucas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cervecería La Sureña,Cervecería La Sureña,0,马德里特罗,0.0,0.0,0.0
+其他西餐,L,L,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Cocina de Neptuno,La Cocina de Neptuno,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Casa Rua,Casa Rua,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Bodega de la Ardosa,Bodega de la Ardosa,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Casa Julio,Casa Julio,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Madrid Madriz,Madrid Madriz,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Pasa Bar,La Pasa Bar,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante La Gaditana,Restaurante La Gaditana,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Jurucha,Jurucha,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Hoboken,Hoboken,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,La Ancha,La Ancha,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,los cedros,los cedros,0,利内阿尔城,0.0,0.0,0.0
+其他西餐,Entrevinos,Entrevinos,0,其他,0.0,0.0,0.0
+其他西餐,Matritum,Matritum,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Ramon Freixa Madrid,Ramon Freixa Madrid,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Restaurante El Jardin,Restaurante El Jardin,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Serrano 50,Cafeteria Serrano 50,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Cafeteria Armenia,Cafeteria Armenia,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Taberna Las Botas,Restaurante Taberna Las Botas,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Bazaar,Bazaar,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Paella Real,La Paella Real,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Tapa Tapa Montera,Tapa Tapa Montera,0,其他,0.0,0.0,0.0
+其他西餐,Gaudi,Gaudi,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Freiduria el Rocio,Freiduria el Rocio,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Tia Cebolla,La Tia Cebolla,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Cisne-The Swan,El Cisne-The Swan,0,埃尔埃斯科里亚尔,0.0,0.0,0.0
+其他西餐,Home Burguer Bar,Home Burguer Bar,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Tate's San Sebastian de Los Reyes,Tate's San Sebastian de Los Reyes,0,,0.0,0.0,0.0
+其他西餐,Museo del Jamon Alcala,Museo del Jamon Alcala,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Asador El Alamo,Asador El Alamo,0,圣布拉斯,0.0,0.0,0.0
+其他西餐,Costa Verde,Costa Verde,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Meson El Jamon,Meson El Jamon,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna Embroque,Taberna Embroque,0,其他,0.0,0.0,0.0
+其他西餐,Palacio de Cibeles,Palacio de Cibeles,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,90 Grados,90 Grados,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,La Musa de Espronceda,La Musa de Espronceda,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Celso y Manolo,Celso y Manolo,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Bar Femary,Bar Femary,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Gula pintxosbar,Gula pintxosbar,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,H3 - Kinepolis,H3 - Kinepolis,0,其他,0.0,0.0,0.0
+其他西餐,Rincon Bahiano,Rincon Bahiano,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cruz Blanca Vallecas,Cruz Blanca Vallecas,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Arroceria Puerta de Atocha,Restaurante Arroceria Puerta de Atocha,0,阿甘祖伊拉,0.0,0.0,0.0
+其他西餐,La Vaca Picada,La Vaca Picada,0,福塔雷萨,0.0,0.0,0.0
+其他西餐,Taberna de Conspiradores,Taberna de Conspiradores,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante El Txoko,Restaurante El Txoko,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Asador de Aranda,Asador de Aranda,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Restaurante Arrocería Marina Ventura,Restaurante Arrocería Marina Ventura,0,其他,0.0,0.0,0.0
+其他西餐,Tupamaro,Tupamaro,0,其他,0.0,0.0,0.0
+其他西餐,The Cask,The Cask,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cerveceria 100 Montaditos,Cerveceria 100 Montaditos,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Chocolate Y Churros,Chocolate Y Churros,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Botilleria Del Cafe de Oriente,La Botilleria Del Cafe de Oriente,0,马德里特罗,0.0,0.0,0.0
+其他西餐,The Monks,The Monks,0,得土安,0.0,0.0,0.0
+其他西餐,La Terraza de Salud,La Terraza de Salud,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Stop,Stop,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Garbi,El Garbi,0,得土安,0.0,0.0,0.0
+其他西餐,La Catedral,La Catedral,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Arroceria la Esquinita Del Bernabeu,Arroceria la Esquinita Del Bernabeu,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Torres Bermejas,Torres Bermejas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,"La Esquina, Asador-Sidreria","La Esquina, Asador-Sidreria",0,查马丁火车站,0.0,0.0,0.0
+其他西餐,D.O.C.C. Prado,D.O.C.C. Prado,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Public,Public,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Bistró del Teatro,El Bistró del Teatro,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Fogata,La Fogata,0,其他,0.0,0.0,0.0
+其他西餐,La Fabula,La Fabula,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Casa Ricardo,Casa Ricardo,0,贝里,0.0,0.0,0.0
+其他西餐,Taberna Almendro 13,Taberna Almendro 13,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Las Bravas,Las Bravas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Las Mananitas,Las Mananitas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Pasteleria Lisboa,Pasteleria Lisboa,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Don Sancho,Don Sancho,0,贝里,0.0,0.0,0.0
+其他西餐,Sidreria Balmori,Sidreria Balmori,0,得土安,0.0,0.0,0.0
+其他西餐,Seis 50,Seis 50,0,阿尔科文达斯,0.0,0.0,0.0
+其他西餐,Entre Naranjos,Entre Naranjos,0,其他,0.0,0.0,0.0
+其他西餐,la Corolla,la Corolla,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Maitia,Maitia,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Candela Bar,Candela Bar,0,其他,0.0,0.0,0.0
+其他西餐,Cerveceria El Postillon de Paco,Cerveceria El Postillon de Paco,0,,0.0,0.0,0.0
+其他西餐,Club de tiro de Madrid,Club de tiro de Madrid,0,其他,0.0,0.0,0.0
+其他西餐,El Rincón de Merche,El Rincón de Merche,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,La Casona de Pizarro,La Casona de Pizarro,0,其他,0.0,0.0,0.0
+其他西餐,La Parrilla de Leganes,La Parrilla de Leganes,0,,0.0,0.0,0.0
+其他西餐,La Posada del Rey Restaurante,La Posada del Rey Restaurante,0,其他,0.0,0.0,0.0
+其他西餐,Llerja,Llerja,0,其他,0.0,0.0,0.0
+其他西餐,Los Cerros,Los Cerros,0,其他,0.0,0.0,0.0
+其他西餐,Meson de Dona filo,Meson de Dona filo,0,其他,0.0,0.0,0.0
+其他西餐,Meson la torre,Meson la torre,0,其他,0.0,0.0,0.0
+其他西餐,Mi Hermano y Yo,Mi Hermano y Yo,0,其他,0.0,0.0,0.0
+其他西餐,Munagorri Restaurante,Munagorri Restaurante,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Pasteleria-Cafeteria Candela,Pasteleria-Cafeteria Candela,0,埃尔埃斯科里亚尔,0.0,0.0,0.0
+其他西餐,Restaurante El Meson de Grinon,Restaurante El Meson de Grinon,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante La Casa de Paula,Restaurante La Casa de Paula,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Parrilla Harpo Groucho,Restaurante Parrilla Harpo Groucho,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Quinta San Antonio,Restaurante Quinta San Antonio,0,比卡尔瓦罗,0.0,0.0,0.0
+其他西餐,Restaurante Reyes 2,Restaurante Reyes 2,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Rucola,Restaurante Rucola,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Torreblanca,Restaurante Torreblanca,0,其他,0.0,0.0,0.0
+其他西餐,Sal Y Canela,Sal Y Canela,0,其他,0.0,0.0,0.0
+其他西餐,Sidreria la Posada,Sidreria la Posada,0,其他,0.0,0.0,0.0
+其他西餐,EL Mirador de Tres Cantos,EL Mirador de Tres Cantos,0,特雷斯坎多斯,0.0,0.0,0.0
+其他西餐,Can Punyetes,Can Punyetes,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Posada del Camino Real,Posada del Camino Real,0,其他,0.0,0.0,0.0
+其他西餐,Amigos Restaurante Bar,Amigos Restaurante Bar,0,马德里特罗,0.0,0.0,0.0
+其他西餐,O'Faro Finisterre,O'Faro Finisterre,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Barril de Goya,El Barril de Goya,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Adolfo Dominguez,Adolfo Dominguez,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,LA PRODIGA,LA PRODIGA,0,马德里特罗,0.0,0.0,0.0
+其他西餐,honey restaurante,honey restaurante,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Lassl Demontalban,Lassl Demontalban,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,CAFÉ & TAPAS GRAN VÍA 42,CAFÉ & TAPAS GRAN VÍA 42,0,其他,0.0,0.0,0.0
+其他西餐,El Rincon Murciano,El Rincon Murciano,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,La Lonja,La Lonja,0,贝里,0.0,0.0,0.0
+其他西餐,Taula,Taula,0,得土安,0.0,0.0,0.0
+其他西餐,Casa Bayton,Casa Bayton,0,,0.0,0.0,0.0
+其他西餐,Restaurante Rayuela,Restaurante Rayuela,0,,0.0,0.0,0.0
+其他西餐,CB13 Lunch & Drinks,CB13 Lunch & Drinks,0,其他,0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,其他,0.0,0.0,0.0
+其他西餐,La Cava de Illan,La Cava de Illan,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Petisqueira,Petisqueira,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La tasquita de Adrian,La tasquita de Adrian,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,La Tinaja,La Tinaja,0,其他,0.0,0.0,0.0
+其他西餐,La Grosella,La Grosella,0,其他,0.0,0.0,0.0
+其他西餐,Hegar,Hegar,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Celler,El Celler,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Bauza,Bauza,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Avanty's,Avanty's,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Gaztelu Madrid,Gaztelu Madrid,0,得土安,0.0,0.0,0.0
+其他西餐,La Parrilla de Madrid,La Parrilla de Madrid,0,得土安,0.0,0.0,0.0
+其他西餐,Meson Casa Miguel,Meson Casa Miguel,0,其他,0.0,0.0,0.0
+其他西餐,IT Dogs,IT Dogs,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Colmena,La Colmena,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Mas Jamon,Mas Jamon,0,得土安,0.0,0.0,0.0
+其他西餐,LA RENTA,LA RENTA,0,福塔雷萨,0.0,0.0,0.0
+其他西餐,"Bar San Matias, Madrid","Bar San Matias, Madrid",0,其他,0.0,0.0,0.0
+其他西餐,Toma Jamon,Toma Jamon,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Fragua del Pinar,La Fragua del Pinar,0,利内阿尔城,0.0,0.0,0.0
+其他西餐,Bomboneria Santa,Bomboneria Santa,0,其他,0.0,0.0,0.0
+其他西餐,Casa arturo,Casa arturo,0,圣布拉斯,0.0,0.0,0.0
+其他西餐,Canaletto Alcorcon,Canaletto Alcorcon,0,艾科坎,0.0,0.0,0.0
+其他西餐,La Llama,La Llama,0,贝里,0.0,0.0,0.0
+其他西餐,Restaurante Cafeteria Cibeles,Restaurante Cafeteria Cibeles,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Belaunde 22,Belaunde 22,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,La Esquina del 22,La Esquina del 22,0,其他,0.0,0.0,0.0
+其他西餐,Los Chuchis,Los Chuchis,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Las Noches de Moscu,Las Noches de Moscu,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cafe bar alma,Cafe bar alma,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Bar Cruz,Bar Cruz,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna Almeria,Taberna Almeria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna El Bu,Taberna El Bu,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Maria la Lia,Maria la Lia,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Fuente La Fama,Fuente La Fama,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Forja Cerveceria,La Forja Cerveceria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Rasputin,Rasputin,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Escaldon,El Escaldon,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Casa Victor,Casa Victor,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Azul,El Azul,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Perejila,La Perejila,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Colmao GastroClub,El Colmao GastroClub,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Café Bar Delic,Café Bar Delic,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Corral de la Moreria,Corral de la Moreria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Cosaco,El Cosaco,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Farfalla,La Farfalla,0,马德里特罗,0.0,0.0,0.0
+其他西餐,O'pulpo,O'pulpo,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Tapassentao,Tapassentao,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Colonial de Huertas,La Colonial de Huertas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,ICIAR,ICIAR,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Enotaberna Posada del Leon de Oro,Enotaberna Posada del Leon de Oro,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna la Concha,Taberna la Concha,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El b_Us,El b_Us,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna la Dolores,Taberna la Dolores,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Diaz y Larrouy,Diaz y Larrouy,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Terramundi,Terramundi,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Dionisos Huertas,Dionisos Huertas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Petisa Bar de Tapas,La Petisa Bar de Tapas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Chingolo Pintxos y Raciones Estilo Gourmet,El Chingolo Pintxos y Raciones Estilo Gourmet,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Estribito,El Estribito,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Parrilla del Mago,Parrilla del Mago,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Barril de las Letras,El Barril de las Letras,0,马德里特罗,0.0,0.0,0.0
+其他西餐,D'Fabula,D'Fabula,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Vinoteca Barbechera,Vinoteca Barbechera,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Arroceria Daniela,Arroceria Daniela,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Segun Emma,Segun Emma,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Huerta de Tudela,La Huerta de Tudela,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Sticker,Sticker,0,马德里特罗,0.0,0.0,0.0
+其他西餐,De Rodriguez&Salas,De Rodriguez&Salas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Meson Don Carnal,Meson Don Carnal,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Los Galayos,Los Galayos,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna Pompeyana,Taberna Pompeyana,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Viva Madrid,Viva Madrid,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taste Gallery,Taste Gallery,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Tintoria,La Tintoria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Casa Toni,Casa Toni,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Apartamento,El Apartamento,0,马德里特罗,0.0,0.0,0.0
+其他西餐,En Busca del Tiempo,En Busca del Tiempo,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Tercera Taberna,La Tercera Taberna,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Malaspina,Malaspina,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Prada a Tope,Prada a Tope,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Los Arrieros,Restaurante Los Arrieros,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Colonia del Sacramento,Colonia del Sacramento,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Pizzeria El Trebol,Pizzeria El Trebol,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Establo Taberna Madrileña,El Establo Taberna Madrileña,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cerveceria 100 montaditos,Cerveceria 100 montaditos,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Paradis Madrid,Paradis Madrid,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Taberneros,Restaurante Taberneros,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Meson Gregorio III,Meson Gregorio III,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Neru,El Neru,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Ole Lola,Ole Lola,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Pizziccheria,Pizziccheria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Docamar,Docamar,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Claravia - Novotel Sanchinarro,Claravia - Novotel Sanchinarro,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Pinchito,El Pinchito,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Cervecería Minotauro,Restaurante Cervecería Minotauro,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Txacoli,Txacoli,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Pedrera,La Pedrera,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Treze,Treze,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Amaia,Amaia,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Rias Bajas,Rias Bajas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,LeCafe,LeCafe,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Rincon de Madrid,El Rincon de Madrid,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Ancha,La Ancha,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Edelweiss,Edelweiss,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Mr Frank,Mr Frank,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Kupela,Kupela,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Lieu Restaurante,Lieu Restaurante,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Las Armonias de Palacio,Las Armonias de Palacio,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante La Esquina Del Real,Restaurante La Esquina Del Real,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Anema e Core,Anema e Core,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Antigua Embajada Hotel Intur Palacio San MartÍn,Antigua Embajada Hotel Intur Palacio San MartÍn,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Tabula de las Descalsas,La Tabula de las Descalsas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna de los Angeles,Taberna de los Angeles,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Las tapas del Real,Las tapas del Real,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Santo,Santo,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Tortillita,La Tortillita,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Granvia Uno,Granvia Uno,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Agora,Agora,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Lobby Market,Lobby Market,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cuando Sali de Cuba,Cuando Sali de Cuba,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El miniBAR,El miniBAR,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Oribu Gastrobar,Oribu Gastrobar,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Dehesa de Santa Maria,Dehesa de Santa Maria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante El Senador,Restaurante El Senador,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Diurno Restaurante & Bar,Diurno Restaurante & Bar,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna Agrado,Taberna Agrado,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna La Carmencita,Taberna La Carmencita,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Jota Batela,Jota Batela,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Casa Perico,Restaurante Casa Perico,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Don Jamon,Don Jamon,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Puturru De Foie,Puturru De Foie,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Cafe de la Luz,Cafe de la Luz,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Myveg,Myveg,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La cocina del desierto,La cocina del desierto,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Indalo Tapas,Indalo Tapas,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Le Patron,Le Patron,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Luna 22,La Luna 22,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Vivares,Vivares,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Bristolbar,Bristolbar,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El cisne azul,El cisne azul,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Parrilla de María,Parrilla de María,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Candelita,La Candelita,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Borax,Borax,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Chincha,Chincha,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Buo,El Buo,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Lay Down,Lay Down,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Mentidero de la Villa,El Mentidero de la Villa,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Dionisos,Dionisos,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Jauria,La Jauria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Calle 30,Calle 30,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Casa Federica,Casa Federica,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Bagatella,Bagatella,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El Pepinillo de Barquillo,El Pepinillo de Barquillo,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Loving Hut - Madrid,Loving Hut - Madrid,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Magasand,Magasand,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna Griega,Taberna Griega,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Restaurante Sexto,Restaurante Sexto,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Taberna la Lirio,Taberna la Lirio,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Antigua Hueveria,Antigua Hueveria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,El jardin secreto,El jardin secreto,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Mastropiero Pizzeria,Mastropiero Pizzeria,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Casa Anton. Taberna Romantica,Casa Anton. Taberna Romantica,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Carmencita Bar,Carmencita Bar,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Dichosa,La Dichosa,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Rita & Champagne,Rita & Champagne,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Mythos,Mythos,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Monteprincipe,Monteprincipe,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Nuria Restaurante Etiope,Nuria Restaurante Etiope,0,马德里特罗,0.0,0.0,0.0
+其他西餐,La Tape,La Tape,0,马德里特罗,0.0,0.0,0.0
+其他西餐,Alfredo's Barbacoa,Alfredo's Barbacoa,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Al-Mounia,Al-Mounia,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Pelotari,Pelotari,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,La Doma,La Doma,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Paralelo Cero,Paralelo Cero,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,El Chiscon,El Chiscon,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Horchateria Alboraya,Horchateria Alboraya,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,La Cocina de Maria Luisa,La Cocina de Maria Luisa,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,La Paloma,La Paloma,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Albora,Albora,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,El Paraguas,El Paraguas,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,La Croquetta,La Croquetta,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Verdejo,Verdejo,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Restaurante SoMa,Restaurante SoMa,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Cinco Sentidos,Cinco Sentidos,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Donde Ricky,Donde Ricky,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,El Fogon de Trifon,El Fogon de Trifon,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Or-Dago,Or-Dago,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,El Olivar de Ayala,El Olivar de Ayala,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Entre Caceres y Badajoz,Entre Caceres y Badajoz,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,El Rincon de Jaen,El Rincon de Jaen,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,O'Caldino Cocina Gallega,O'Caldino Cocina Gallega,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Oter Restaurante,Oter Restaurante,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Restaurante El Padre,Restaurante El Padre,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,GASSET 75,GASSET 75,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,El Buey,El Buey,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Casa Carola,Casa Carola,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,taberna cazorla,taberna cazorla,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Gobu Burguer,Gobu Burguer,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Milos,Milos,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Txirimiri,Txirimiri,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,El Almirez,El Almirez,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Asador Imanol Castellana,Asador Imanol Castellana,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Boggo,Boggo,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Lakuntza,Lakuntza,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Juanyta ME MATA,Juanyta ME MATA,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Los Montes de Galicia - Azcona,Los Montes de Galicia - Azcona,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Surtopia,Surtopia,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,RESTAURANTE 29 FANEGAS,RESTAURANTE 29 FANEGAS,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Jose Luis,Jose Luis,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Restaurante Pinch-arte,Restaurante Pinch-arte,0,萨拉曼卡,0.0,0.0,0.0
+其他西餐,Las Reses,Las Reses,0,贝里,0.0,0.0,0.0
+其他西餐,Embassy,Embassy,0,贝里,0.0,0.0,0.0
+其他西餐,Conlaya,Conlaya,0,贝里,0.0,0.0,0.0
+其他西餐,La Parra,La Parra,0,贝里,0.0,0.0,0.0
+其他西餐,Restaurante O Camino,Restaurante O Camino,0,贝里,0.0,0.0,0.0
+其他西餐,Dabbawala,Dabbawala,0,贝里,0.0,0.0,0.0
+其他西餐,Restaurante Tres Bocas,Restaurante Tres Bocas,0,贝里,0.0,0.0,0.0
+其他西餐,Villa De Foz,Villa De Foz,0,贝里,0.0,0.0,0.0
+其他西餐,Osteria Gata,Osteria Gata,0,贝里,0.0,0.0,0.0
+其他西餐,Paulino de Quevedo,Paulino de Quevedo,0,贝里,0.0,0.0,0.0
+其他西餐,Pedro Larumbe,Pedro Larumbe,0,贝里,0.0,0.0,0.0
+其他西餐,Lua,Lua,0,贝里,0.0,0.0,0.0
+其他西餐,Gaudium,Gaudium,0,贝里,0.0,0.0,0.0
+其他西餐,La Pincheria,La Pincheria,0,贝里,0.0,0.0,0.0
+其他西餐,La Zaguina,La Zaguina,0,贝里,0.0,0.0,0.0
+其他西餐,Sagaretxe - La sidreria Vasca,Sagaretxe - La sidreria Vasca,0,贝里,0.0,0.0,0.0
+其他西餐,Cilantro Gastrobar,Cilantro Gastrobar,0,贝里,0.0,0.0,0.0
+其他西餐,Membibre,Membibre,0,贝里,0.0,0.0,0.0
+其他西餐,Taberna Quintaesencia,Taberna Quintaesencia,0,贝里,0.0,0.0,0.0
+其他西餐,Casa Mundi,Casa Mundi,0,贝里,0.0,0.0,0.0
+其他西餐,El Jardin del InterContinental,El Jardin del InterContinental,0,贝里,0.0,0.0,0.0
+其他西餐,s10bar,s10bar,0,贝里,0.0,0.0,0.0
+其他西餐,Alcaravea Gaztambide,Alcaravea Gaztambide,0,贝里,0.0,0.0,0.0
+其他西餐,Cerveceria La Fragua,Cerveceria La Fragua,0,贝里,0.0,0.0,0.0
+其他西餐,Punk Bach,Punk Bach,0,贝里,0.0,0.0,0.0
+其他西餐,La Ventresca,La Ventresca,0,贝里,0.0,0.0,0.0
+其他西餐,Alcaravea,Alcaravea,0,贝里,0.0,0.0,0.0
+其他西餐,Asturianos,Asturianos,0,贝里,0.0,0.0,0.0
+其他西餐,Restaurante Gala,Restaurante Gala,0,贝里,0.0,0.0,0.0
+其他西餐,Las Estaciones de Juan,Las Estaciones de Juan,0,贝里,0.0,0.0,0.0
+其他西餐,La Bulla,La Bulla,0,贝里,0.0,0.0,0.0
+其他西餐,El Escaparate,El Escaparate,0,贝里,0.0,0.0,0.0
+其他西餐,La Cazuela,La Cazuela,0,贝里,0.0,0.0,0.0
+其他西餐,Taberna San Mames,Taberna San Mames,0,贝里,0.0,0.0,0.0
+其他西餐,Norte y Sur,Norte y Sur,0,贝里,0.0,0.0,0.0
+其他西餐,Rianxo,Rianxo,0,贝里,0.0,0.0,0.0
+其他西餐,La Caleta Taberna Gaditana,La Caleta Taberna Gaditana,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+其他西餐,Higinio's,Higinio's,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+其他西餐,Bahia Taberna,Bahia Taberna,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+其他西餐,Guetaria,Guetaria,0,得土安,0.0,0.0,0.0
+其他西餐,Mixturas Gastro Bar,Mixturas Gastro Bar,0,得土安,0.0,0.0,0.0
+其他西餐,Dionisos Castellana,Dionisos Castellana,0,得土安,0.0,0.0,0.0
+其他西餐,New York Burger Castellana,New York Burger Castellana,0,得土安,0.0,0.0,0.0
+其他西餐,Arroceria La Bahia,Arroceria La Bahia,0,得土安,0.0,0.0,0.0
+其他西餐,El Patron,El Patron,0,得土安,0.0,0.0,0.0
+其他西餐,El Jamon y El Churrasco,El Jamon y El Churrasco,0,得土安,0.0,0.0,0.0
+其他西餐,Restaurante Marin,Restaurante Marin,0,得土安,0.0,0.0,0.0
+其他西餐,Portobello,Portobello,0,得土安,0.0,0.0,0.0
+其他西餐,St James,St James,0,得土安,0.0,0.0,0.0
+其他西餐,La Anada,La Anada,0,得土安,0.0,0.0,0.0
+其他西餐,14 ROSAS,14 ROSAS,0,得土安,0.0,0.0,0.0
+其他西餐,El Espigon,El Espigon,0,得土安,0.0,0.0,0.0
+其他西餐,L'abbraccio,L'abbraccio,0,得土安,0.0,0.0,0.0
+其他西餐,La Era Restaurante,La Era Restaurante,0,得土安,0.0,0.0,0.0
+其他西餐,La Penela,La Penela,0,得土安,0.0,0.0,0.0
+其他西餐,Okara,Okara,0,得土安,0.0,0.0,0.0
+其他西餐,100 Montaditos Plaza de Castilla,100 Montaditos Plaza de Castilla,0,得土安,0.0,0.0,0.0
+其他西餐,Los Montes de Galicia - Aguado,Los Montes de Galicia - Aguado,0,得土安,0.0,0.0,0.0
+其他西餐,Restaurante Viavelez,Restaurante Viavelez,0,得土安,0.0,0.0,0.0
+其他西餐,Nemesio,Nemesio,0,得土安,0.0,0.0,0.0
+其他西餐,Zalacain,Zalacain,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,La Vaca Argentina - Lopez de Hoyos,La Vaca Argentina - Lopez de Hoyos,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Lagrimas Negras,Lagrimas Negras,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Jai-Alai,Jai-Alai,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Urkiola Mendi,Urkiola Mendi,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Camino Food & Drinks,Camino Food & Drinks,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Restaurante Solidere,Restaurante Solidere,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Cachivache,Cachivache,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Asador Imanol Belaunde,Asador Imanol Belaunde,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Restaurante IO,Restaurante IO,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Latxone,Latxone,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Materia Prima,Materia Prima,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,El Brote,El Brote,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,El Jamon del Abuelo,El Jamon del Abuelo,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,La Gilda,La Gilda,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Pinchos Udaberri,Pinchos Udaberri,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Quenco,Quenco,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Casa Pello,Casa Pello,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Restaurante Senorio de Alcocer,Restaurante Senorio de Alcocer,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Meson Cinco Jotas,Meson Cinco Jotas,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,El Telegrafo,El Telegrafo,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Asgaya,Asgaya,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,El Cacique,El Cacique,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,De Maria Felix Boix,De Maria Felix Boix,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Antojos Araguaney Grill,Antojos Araguaney Grill,0,查马丁火车站,0.0,0.0,0.0
+其他西餐,Alconada,Alconada,0,阿甘祖伊拉,0.0,0.0,0.0
+其他西餐,Bodegas Rosell,Bodegas Rosell,0,阿甘祖伊拉,0.0,0.0,0.0
+其他西餐,Croqueteria Ven y Veras,Croqueteria Ven y Veras,0,阿甘祖伊拉,0.0,0.0,0.0
+其他西餐,patacon pisao,patacon pisao,0,阿甘祖伊拉,0.0,0.0,0.0
+其他西餐,Pui's Thai Tapas,Pui's Thai Tapas,0,阿甘祖伊拉,0.0,0.0,0.0
+其他西餐,Frangus a la Carta,Frangus a la Carta,0,阿甘祖伊拉,0.0,0.0,0.0
+其他西餐,El Rancho Madrid,El Rancho Madrid,0,阿甘祖伊拉,0.0,0.0,0.0
+其他西餐,Betelu,Betelu,0,利内阿尔城,0.0,0.0,0.0
+其他西餐,El Pitaco Restaurante,El Pitaco Restaurante,0,利内阿尔城,0.0,0.0,0.0
+其他西餐,FADO Restaurante Portugues,FADO Restaurante Portugues,0,利内阿尔城,0.0,0.0,0.0
+其他西餐,La Vaca Argentina - Arturo Soria,La Vaca Argentina - Arturo Soria,0,利内阿尔城,0.0,0.0,0.0
+其他西餐,Adrede,Adrede,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Taberna Pedraza,Taberna Pedraza,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Garcia de la Navarra,Garcia de la Navarra,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,O'Grove,O'Grove,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Couzapin,Couzapin,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,La Gamella,La Gamella,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Taberna Marcano,Taberna Marcano,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,La monteria,La monteria,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,Platero & Co,Platero & Co,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,La Taberna de Buendi,La Taberna de Buendi,0,雷蒂罗,0.0,0.0,0.0
+其他西餐,El Rodizio,El Rodizio,0,圣布拉斯,0.0,0.0,0.0
+其他西餐,100 Montaditos,100 Montaditos,0,圣布拉斯,0.0,0.0,0.0
+其他西餐,Aderezo,Aderezo,0,福塔雷萨,0.0,0.0,0.0
+其他西餐,Pombo 18,Pombo 18,0,福塔雷萨,0.0,0.0,0.0
+其他西餐,El Meson de Fuencarral,El Meson de Fuencarral,0,阿尔科文达斯,0.0,0.0,0.0
+其他西餐,Asador Avelino,Asador Avelino,0,卡拉万切尔,0.0,0.0,0.0
+其他西餐,Apolo Cafe & Restaurante,Apolo Cafe & Restaurante,0,卡拉万切尔,0.0,0.0,0.0
+其他西餐,Restaurante M29,Restaurante M29,0,,0.0,0.0,0.0
+其他西餐,Taberna Flamenca El Cortijo,Taberna Flamenca El Cortijo,0,其他,0.0,0.0,0.0
+其他西餐,Aynaelda,Aynaelda,0,其他,0.0,0.0,0.0
+其他西餐,Mesón Molinero,Mesón Molinero,0,其他,0.0,0.0,0.0
+其他西餐,Casa Manolo,Casa Manolo,0,其他,0.0,0.0,0.0
+其他西餐,De Maria,De Maria,0,其他,0.0,0.0,0.0
+其他西餐,Colonial Norte,Colonial Norte,0,其他,0.0,0.0,0.0
+其他西餐,Casa Mingo,Casa Mingo,0,其他,0.0,0.0,0.0
+其他西餐,Donosti,Donosti,0,其他,0.0,0.0,0.0
+其他西餐,Aboleo,Aboleo,0,其他,0.0,0.0,0.0
+其他西餐,Confiteria Pasteleria Holguera,Confiteria Pasteleria Holguera,0,,0.0,0.0,0.0
+其他西餐,El Asador de Getafe,El Asador de Getafe,0,格塔菲,0.0,0.0,0.0
+其他西餐,La Chalota Restaurante,La Chalota Restaurante,0,罗萨斯,0.0,0.0,0.0
+其他西餐,La farandula,La farandula,0,,0.0,0.0,0.0
+其他西餐,Mallorca Pasteleria,Mallorca Pasteleria,0,,0.0,0.0,0.0
+其他西餐,Mirasierra Cafe,Mirasierra Cafe,0,,0.0,0.0,0.0
+其他西餐,Noah,Noah,0,,0.0,0.0,0.0
+其他西餐,O'Fado Navacerrada,O'Fado Navacerrada,0,,0.0,0.0,0.0
+其他西餐,Restaurante Changó,Restaurante Changó,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Club Bonanza,Restaurante Club Bonanza,0,,0.0,0.0,0.0
+其他西餐,Tapamundi,Tapamundi,0,罗萨斯,0.0,0.0,0.0
+其他西餐,Txirimiri,Txirimiri,0,其他,0.0,0.0,0.0
+其他西餐,Atelier Belge,Atelier Belge,0,其他,0.0,0.0,0.0
+其他西餐,La Charca,La Charca,0,其他,0.0,0.0,0.0
+其他西餐,La Vaca Argentina,La Vaca Argentina,0,其他,0.0,0.0,0.0
+其他西餐,La Vaca Argentina - Rosales,La Vaca Argentina - Rosales,0,其他,0.0,0.0,0.0
+其他西餐,El Pimiento Verde,El Pimiento Verde,0,其他,0.0,0.0,0.0
+其他西餐,Caoba Restaurant,Caoba Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Bistrot,Bistrot,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Volvoreta,Restaurant Volvoreta,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Gallego,Restaurante Gallego,0,其他,0.0,0.0,0.0
+其他西餐,Pan de Lujo,Pan de Lujo,0,其他,0.0,0.0,0.0
+其他西餐,Tras os montes,Tras os montes,0,其他,0.0,0.0,0.0
+其他西餐,O' trasmontano,O' trasmontano,0,其他,0.0,0.0,0.0
+其他西餐,Gobu Burger Las Tablas,Gobu Burger Las Tablas,0,其他,0.0,0.0,0.0
+其他西餐,Maye's Bistro,Maye's Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Restaurante Casa Dani,Cafeteria Restaurante Casa Dani,0,其他,0.0,0.0,0.0
+其他西餐,Las Brasas De Vulcano,Las Brasas De Vulcano,0,其他,0.0,0.0,0.0
+其他西餐,Estay,Estay,0,其他,0.0,0.0,0.0
+中餐,青苹果qingpingguo,青苹果qingpingguo,81,,9.4,9.3,9.3
+中餐,Zen Market,Zen Market,0,萨拉曼卡,8.3,8.4,8.5
+中餐,El Bund,El Bund,0,利内阿尔城,8.3,8.5,8.5
+中餐,川渝人家,川渝人家,0,,8.1,6.8,7.4
+中餐,Yue Lai,Yue Lai,0,萨拉曼卡,8.4,7.9,8.4
+中餐,Ni Hao,Ni Hao,0,马德里特罗,7.2,6.7,7.5
+中餐,Tse-Yang,Tse-Yang,0,贝里,0.0,0.0,0.0
+中餐,Palacio del dragón,Palacio del dragón,0,,7.0,7.0,7.1
+中餐,津津小吃,津津小吃,0,,6.8,6.8,6.8
+中餐,食膳坊,食膳坊,0,马德里特罗,7.6,7.6,7.6
+中餐,大福源,大福源,0,,7.0,7.0,7.0
+中餐,Wok Buffet Libre,Wok Buffet Libre,0,其他,0.0,0.0,0.0
+中餐,Royal Cantones,Royal Cantones,0,其他,6.7,6.7,6.7
+中餐,La Panamericana,La Panamericana,0,马德里特罗,0.0,0.0,0.0
+中餐,Restaurante Chino Rong Hua,Restaurante Chino Rong Hua,0,马德里特罗,0.0,0.0,0.0
+中餐,Oishii Sushi & Ramen Madrid,Oishii Sushi & Ramen Madrid,0,马德里特罗,0.0,0.0,0.0
+中餐,Mulan,Mulan,0,圣布拉斯,0.0,0.0,0.0
+中餐,Huasheng,Huasheng,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+中餐,Restaurante Sur,Restaurante Sur,0,阿甘祖伊拉,0.0,0.0,0.0
+中餐,Margó Salon de té,Margó Salon de té,0,查马丁火车站,0.0,0.0,0.0
+中餐,La Buena Suerte Restaurante Chino,La Buena Suerte Restaurante Chino,0,利内阿尔城,0.0,0.0,0.0
+中餐,Tiyoweh la Quietud,Tiyoweh la Quietud,0,马德里特罗,0.0,0.0,0.0
+中餐,Moncalvillo Cafe Bistro,Moncalvillo Cafe Bistro,0,马德里特罗,0.0,0.0,0.0
+中餐,Chino Fu Li Tu,Chino Fu Li Tu,0,利内阿尔城,0.0,0.0,0.0
+中餐,Pato Laqueado,Pato Laqueado,0,得土安,0.0,0.0,0.0
+中餐,China te,China te,0,查马丁火车站,0.0,0.0,0.0
+中餐,Jin Jin,Jin Jin,0,马德里特罗,0.0,0.0,0.0
+中餐,Tai Chi,Tai Chi,0,查马丁火车站,0.0,0.0,0.0
+中餐,Tse Yang Dim Sum Club,Tse Yang Dim Sum Club,0,其他,0.0,0.0,0.0
+中餐,Nanking,Nanking,0,,0.0,0.0,0.0
+中餐,Restaurante Prosperidad,Restaurante Prosperidad,0,其他,0.0,0.0,0.0
+中餐,Restaurante Dong Ge,Restaurante Dong Ge,0,马德里特罗,0.0,0.0,0.0
+中餐,Da Hua,Da Hua,0,贝里,0.0,0.0,0.0
+中餐,El Tesoro,El Tesoro,0,马德里特罗,0.0,0.0,0.0
+中餐,Buen Gusto,Buen Gusto,0,阿甘祖伊拉,0.0,0.0,0.0
+中餐,Ta chi lin,Ta chi lin,0,利内阿尔城,0.0,0.0,0.0
+中餐,China King,China King,0,贝里,0.0,0.0,0.0
+中餐,China Crown,China Crown,0,得土安,0.0,0.0,0.0
+中餐,Sultana,Sultana,0,其他,0.0,0.0,0.0
+中餐,South Beauty,South Beauty,0,萨拉曼卡,0.0,0.0,0.0
+中餐,Restaurante Acuario,Restaurante Acuario,0,马德里特罗,0.0,0.0,0.0
+中餐,Matsuri Restaurante,Matsuri Restaurante,0,福塔雷萨,0.0,0.0,0.0
+中餐,La Playa,La Playa,0,艾科坎,0.0,0.0,0.0
+中餐,Ciudad de Gran Muralla,Ciudad de Gran Muralla,0,其他,0.0,0.0,0.0
+中餐,Don Lay,Don Lay,0,其他,0.0,0.0,0.0
+中餐,Shan Hai City,Shan Hai City,0,得土安,0.0,0.0,0.0
+中餐,Kung Fu,Kung Fu,0,福塔雷萨,0.0,0.0,0.0
+中餐,Salon de te Al Yabal,Salon de te Al Yabal,0,阿甘祖伊拉,0.0,0.0,0.0
+中餐,Casa Lee,Casa Lee,0,得土安,0.0,0.0,0.0
+中餐,La Gran Muralla,La Gran Muralla,0,贝里,0.0,0.0,0.0
+中餐,Akasaka,Akasaka,0,其他,0.0,0.0,0.0
+中餐,Fuhua,Fuhua,0,其他,0.0,0.0,0.0
+中餐,Hui Fon,Hui Fon,0,阿甘祖伊拉,0.0,0.0,0.0
+中餐,Chin-Chin,Chin-Chin,0,雷蒂罗,0.0,0.0,0.0
+中餐,Restaurante Oca Del Cielo,Restaurante Oca Del Cielo,0,雷蒂罗,0.0,0.0,0.0
+中餐,Maria Candelas,Maria Candelas,0,得土安,0.0,0.0,0.0
+中餐,Cafeteria bar Yulong,Cafeteria bar Yulong,0,比卡尔瓦罗,0.0,0.0,0.0
+中餐,El pato laqueado,El pato laqueado,0,得土安,0.0,0.0,0.0
+中餐,Flor de Primavera,Flor de Primavera,0,贝里,0.0,0.0,0.0
+中餐,Pekin Restaurante,Pekin Restaurante,0,其他,0.0,0.0,0.0
+中餐,Hakkasan,Hakkasan,0,阿尔科文达斯,0.0,0.0,0.0
+中餐,Palacio Imperial,Palacio Imperial,0,其他,0.0,0.0,0.0
+中餐,Fan Hua,Fan Hua,0,马德里特罗,0.0,0.0,0.0
+中餐,El Buda Feliz,El Buda Feliz,0,马德里特罗,0.0,0.0,0.0
+中餐,Long Tu,Long Tu,0,贝里,0.0,0.0,0.0
+中餐,Paraiso Chino,Paraiso Chino,0,其他,0.0,0.0,0.0
+中餐,Ouhua,Ouhua,0,其他,0.0,0.0,0.0
+中餐,Orient Express,Orient Express,0,其他,0.0,0.0,0.0
+中餐,大福源,大福源,0,,0.0,0.0,0.0
+中餐,香格里拉大酒店,香格里拉大酒店,0,,0.0,0.0,0.0
+中餐,Le Dragon,Le Dragon,0,萨拉曼卡,0.0,0.0,0.0
+中餐,青苹果Qing Ping Guo,青苹果Qing Ping Guo,0,其他,0.0,0.0,0.0
+中餐,Atlantico,Atlantico,0,其他,0.0,0.0,0.0
+中餐,Indochina,Indochina,0,马德里特罗,0.0,0.0,0.0
+中餐,Yuanjian Qu,Yuanjian Qu,0,马德里特罗,0.0,0.0,0.0
+中餐,La Fang She,La Fang She,0,马德里特罗,0.0,0.0,0.0
+中餐,Chang Jiang,Chang Jiang,0,萨拉曼卡,0.0,0.0,0.0
+中餐,City Garden,City Garden,0,阿甘祖伊拉,0.0,0.0,0.0
+中餐,Ying Lin (Peonia),Ying Lin (Peonia),0,利内阿尔城,0.0,0.0,0.0
+中餐,Xin Yong,Xin Yong,0,其他,0.0,0.0,0.0
+日韩料理,Diverxo,Diverxo,0,得土安,7.9,8.2,8.2
+日韩料理,Wasabi & Roll,Wasabi & Roll,0,马德里特罗,7.5,7.5,7.5
+日韩料理,味鲜拉面,味鲜拉面,0,阿甘祖伊拉,7.0,7.0,7.0
+日韩料理,Kai Japanese,Kai Japanese,0,马德里特罗,6.8,7.1,7.1
+日韩料理,Seoul,Seoul,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Janatomo,Janatomo,0,马德里特罗,0.0,0.0,0.0
+日韩料理,99 Sushi Bar La Moraleja,99 Sushi Bar La Moraleja,0,阿尔科文达斯,0.0,0.0,0.0
+日韩料理,Kabuki Wellington,Kabuki Wellington,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Donzoko,Donzoko,0,马德里特罗,0.0,0.0,0.0
+日韩料理,19 Sushi Bar,19 Sushi Bar,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Musashi,Musashi,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Oishii Sushi & Ramen Madrid,Oishii Sushi & Ramen Madrid,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Pato Laqueado,Pato Laqueado,0,得土安,0.0,0.0,0.0
+日韩料理,Kokoro,Kokoro,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Miyama,Miyama,0,贝里,0.0,0.0,0.0
+日韩料理,Fuku,Fuku,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Miyama,Miyama,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Mikado,Mikado,0,得土安,0.0,0.0,0.0
+日韩料理,Sushi Club,Sushi Club,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Nagoya (Trafalgar),Nagoya (Trafalgar),0,贝里,0.0,0.0,0.0
+日韩料理,Ichiban,Ichiban,0,查马丁火车站,0.0,0.0,0.0
+日韩料理,Restaurante Asiatico Ninsei,Restaurante Asiatico Ninsei,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Miss Sushi Hortaleza,Miss Sushi Hortaleza,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Banzai Recoletos,Banzai Recoletos,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,"""Soy"" Sushi Bar","""Soy"" Sushi Bar",0,贝里,0.0,0.0,0.0
+日韩料理,Yokaloka,Yokaloka,0,其他,0.0,0.0,0.0
+日韩料理,Kimura,Kimura,0,雷蒂罗,0.0,0.0,0.0
+日韩料理,Shikku,Shikku,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Dimibang,Dimibang,0,贝里,0.0,0.0,0.0
+日韩料理,Ni Hao Sanchinarro,Ni Hao Sanchinarro,0,福塔雷萨,0.0,0.0,0.0
+日韩料理,Miss Sushi,Miss Sushi,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Hikari Sushi Bar,Hikari Sushi Bar,0,贝里,0.0,0.0,0.0
+日韩料理,Ikura.,Ikura.,0,贝里,0.0,0.0,0.0
+日韩料理,UDON Chueca,UDON Chueca,0,马德里特罗,0.0,0.0,0.0
+日韩料理,SushiOle,SushiOle,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Marieta,Marieta,0,其他,0.0,0.0,0.0
+日韩料理,MATCHA Restaurante,MATCHA Restaurante,0,得土安,0.0,0.0,0.0
+日韩料理,Miss Sushi,Miss Sushi,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Yoshi,Yoshi,0,马德里特罗,0.0,0.0,0.0
+日韩料理,SUMO Chueca,SUMO Chueca,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Su & Si,Su & Si,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Ginza,Ginza,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Paristokyo,Paristokyo,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Han Gang,Han Gang,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Maki Mendez Alvaro,Maki Mendez Alvaro,0,阿甘祖伊拉,0.0,0.0,0.0
+日韩料理,Tei,Tei,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Lolita,Lolita,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Go sushing,Go sushing,0,贝里,0.0,0.0,0.0
+日韩料理,Sumo San,Sumo San,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Itto (Recoletos),Sushi Itto (Recoletos),0,其他,0.0,0.0,0.0
+日韩料理,Maki Malasana,Maki Malasana,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Su & Si,Su & Si,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Sushi Market,Sushi Market,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Xinito,Xinito,0,Majadahonda,0.0,0.0,0.0
+日韩料理,Shi Sushi Madrid,Shi Sushi Madrid,0,得土安,0.0,0.0,0.0
+日韩料理,L'Artisan Furansu Kitchen,L'Artisan Furansu Kitchen,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Sushiole,Sushiole,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Sake Dining Himawari,Sake Dining Himawari,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Banzai Sushi Bar,Banzai Sushi Bar,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Ayala Japon,Ayala Japon,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Inari,Inari,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Minabo,Minabo,0,贝里,0.0,0.0,0.0
+日韩料理,Hanakura,Hanakura,0,贝里,0.0,0.0,0.0
+日韩料理,Yamate,Yamate,0,查马丁火车站,0.0,0.0,0.0
+日韩料理,Ikura Sushi Bar,Ikura Sushi Bar,0,查马丁火车站,0.0,0.0,0.0
+日韩料理,Zen Bamboo,Zen Bamboo,0,雷蒂罗,0.0,0.0,0.0
+日韩料理,izakaya Han,izakaya Han,0,Majadahonda,0.0,0.0,0.0
+日韩料理,Sushi Store,Sushi Store,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Nagoya (Clara del Rey),Nagoya (Clara del Rey),0,查马丁火车站,0.0,0.0,0.0
+日韩料理,Kirin,Kirin,0,阿尔科文达斯,0.0,0.0,0.0
+日韩料理,Maki Castellana,Maki Castellana,0,得土安,0.0,0.0,0.0
+日韩料理,Udon Plaza Norte,Udon Plaza Norte,0,,0.0,0.0,0.0
+日韩料理,Makitake Urban Sushishop,Makitake Urban Sushishop,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Okashi Sanda,Okashi Sanda,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Nippon,Nippon,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Sushi Store Restaurant,Sushi Store Restaurant,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Calido Restaurante,Calido Restaurante,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Cappuccino Madrid,Cappuccino Madrid,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Shikku Izakaya,Shikku Izakaya,0,查马丁火车站,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,阿甘祖伊拉,0.0,0.0,0.0
+日韩料理,En Copa de Balon,En Copa de Balon,0,阿拉瓦卡,0.0,0.0,0.0
+日韩料理,Sushi Fusion,Sushi Fusion,0,其他,0.0,0.0,0.0
+日韩料理,Gau & Go,Gau & Go,0,马德里特罗,0.0,0.0,0.0
+日韩料理,La Leyenda Oriental,La Leyenda Oriental,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Xake,Xake,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Ikura,Ikura,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Mi Sushi,Mi Sushi,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Lohas,Lohas,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Shintori,Shintori,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Palillos del Cardenal,Palillos del Cardenal,0,贝里,0.0,0.0,0.0
+日韩料理,SUSHI Corner,SUSHI Corner,0,得土安,0.0,0.0,0.0
+日韩料理,Sachi sushi,Sachi sushi,0,查马丁火车站,0.0,0.0,0.0
+日韩料理,Sushi Deli,Sushi Deli,0,查马丁火车站,0.0,0.0,0.0
+日韩料理,Miya,Miya,0,查马丁火车站,0.0,0.0,0.0
+日韩料理,Casa Sushi,Casa Sushi,0,,0.0,0.0,0.0
+日韩料理,Sushi Ya,Sushi Ya,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Ole,Sushi Ole,0,,0.0,0.0,0.0
+日韩料理,Taller de la Gran Manzana,Taller de la Gran Manzana,0,,0.0,0.0,0.0
+日韩料理,Taiko Sushi Bar,Taiko Sushi Bar,0,其他,0.0,0.0,0.0
+日韩料理,Yankenpon Washoki,Yankenpon Washoki,0,,0.0,0.0,0.0
+日韩料理,Sakura,Sakura,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Pink Sushiman,Pink Sushiman,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Matuya,Matuya,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Kotobuki 85,Kotobuki 85,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,palacio thailandes,palacio thailandes,0,雷蒂罗,0.0,0.0,0.0
+日韩料理,Goshusing,Goshusing,0,其他,0.0,0.0,0.0
+日韩料理,Kanpai,Kanpai,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Sukothay,Sukothay,0,得土安,0.0,0.0,0.0
+日韩料理,Shila,Shila,0,查马丁火车站,0.0,0.0,0.0
+日韩料理,Antipodes,Antipodes,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Tora Tora,Tora Tora,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Ototoi,Ototoi,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Restaurante Dai-kichi,Restaurante Dai-kichi,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Samurai,Samurai,0,马德里特罗,0.0,0.0,0.0
+日韩料理,I Sushi,I Sushi,0,马德里特罗,0.0,0.0,0.0
+日韩料理,Go Kaiten,Go Kaiten,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Sushiwakka Serrano,Sushiwakka Serrano,0,萨拉曼卡,0.0,0.0,0.0
+日韩料理,Tsunami,Tsunami,0,贝里,0.0,0.0,0.0
+日韩料理,Muki,Muki,0,贝里,0.0,0.0,0.0
+日韩料理,Asia 88,Asia 88,0,贝里,0.0,0.0,0.0
+日韩料理,Sushiwakka,Sushiwakka,0,得土安,0.0,0.0,0.0
+日韩料理,Nodo,Nodo,0,查马丁火车站,0.0,0.0,0.0
+日韩料理,Summa,Summa,0,查马丁火车站,0.0,0.0,0.0
+日韩料理,Sulu,Sulu,0,查马丁火车站,0.0,0.0,0.0
+日韩料理,99 Sushi Bar,99 Sushi Bar,0,阿尔科文达斯,0.0,0.0,0.0
+日韩料理,Sushi Itto,Sushi Itto,0,,0.0,0.0,0.0
+更多亚洲菜,外滩一号,外滩一号,0,,8.6,8.6,8.6
+更多亚洲菜,Wok to walk,Wok to walk,0,马德里特罗,7.4,8.3,8.3
+更多亚洲菜,RESTAURANTE LUOS,RESTAURANTE LUOS,0,贝里,6.7,8.1,8.1
+更多亚洲菜,Cocina Asiatica Xin,Cocina Asiatica Xin,0,其他,7.5,7.5,8.4
+更多亚洲菜,一品火锅,一品火锅,0,,7.0,7.0,7.0
+更多亚洲菜,Siam,Siam,0,马德里特罗,7.1,7.1,7.1
+更多亚洲菜,Con 2 fogones,Con 2 fogones,0,马德里特罗,7.1,7.1,7.1
+更多亚洲菜,Liabeny,Liabeny,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Asia Te,Asia Te,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Wok to Walk,Wok to Walk,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Agra Palace Indian Restaurant,Agra Palace Indian Restaurant,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Vietnam restaurante,Vietnam restaurante,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Phuket Thai,Phuket Thai,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,China te,China te,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Krachai,Krachai,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Sushi Club,Sushi Club,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Tai Chi,Tai Chi,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Nagoya (Trafalgar),Nagoya (Trafalgar),0,贝里,0.0,0.0,0.0
+更多亚洲菜,Arabia,Arabia,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Al-Fanus,Al-Fanus,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Oam Thong,Oam Thong,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Restaurante Asiatico Ninsei,Restaurante Asiatico Ninsei,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Thai Orchid,Thai Orchid,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Asia Gallery,Asia Gallery,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,HURAKAN,HURAKAN,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Xiang Asia Restaurant,Xiang Asia Restaurant,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Ni Hao Sanchinarro,Ni Hao Sanchinarro,0,福塔雷萨,0.0,0.0,0.0
+更多亚洲菜,Beykebap,Beykebap,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Indian Spice,Indian Spice,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,La Princesa,La Princesa,0,阿甘祖伊拉,0.0,0.0,0.0
+更多亚洲菜,Smile Thai,Smile Thai,0,萨拉曼卡,0.0,0.0,0.0
+更多亚洲菜,Bollywood Tadka,Bollywood Tadka,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,UDON Chueca,UDON Chueca,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Restaurante Maru,Restaurante Maru,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Eat is wok,Eat is wok,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Gushi,Gushi,0,,0.0,0.0,0.0
+更多亚洲菜,Restaurante Asian Shan,Restaurante Asian Shan,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Matsuri,Matsuri,0,圣布拉斯,0.0,0.0,0.0
+更多亚洲菜,The Wok,The Wok,0,福塔雷萨,0.0,0.0,0.0
+更多亚洲菜,Euro Doner Istambul,Euro Doner Istambul,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,The Wok,The Wok,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Calle la reina,Calle la reina,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,1-2-3 Wok,1-2-3 Wok,0,其他,0.0,0.0,0.0
+更多亚洲菜,Fan Rong,Fan Rong,0,其他,0.0,0.0,0.0
+更多亚洲菜,Buenaventura,Buenaventura,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Alta Cocina Oriental Jinode,Alta Cocina Oriental Jinode,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Gauranga Transcendental Food,Gauranga Transcendental Food,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Guru,Guru,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Indian Aroma,Indian Aroma,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Taj,Taj,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Cubik,Cubik,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Loving Hut - Madrid,Loving Hut - Madrid,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Maiia Thai,Maiia Thai,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Kzen,Kzen,0,萨拉曼卡,0.0,0.0,0.0
+更多亚洲菜,Diwali,Diwali,0,萨拉曼卡,0.0,0.0,0.0
+更多亚洲菜,Thaidy,Thaidy,0,萨拉曼卡,0.0,0.0,0.0
+更多亚洲菜,Tandoori Station,Tandoori Station,0,萨拉曼卡,0.0,0.0,0.0
+更多亚洲菜,Restaurante Sagar,Restaurante Sagar,0,萨拉曼卡,0.0,0.0,0.0
+更多亚洲菜,Annapurna,Annapurna,0,贝里,0.0,0.0,0.0
+更多亚洲菜,Nakeima Dumpling Bar,Nakeima Dumpling Bar,0,贝里,0.0,0.0,0.0
+更多亚洲菜,Cafe Saigon,Cafe Saigon,0,贝里,0.0,0.0,0.0
+更多亚洲菜,Korea,Korea,0,贝里,0.0,0.0,0.0
+更多亚洲菜,Sudestada,Sudestada,0,贝里,0.0,0.0,0.0
+更多亚洲菜,Aroy Thai,Aroy Thai,0,得土安,0.0,0.0,0.0
+更多亚洲菜,Mutsu,Mutsu,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Omar,Omar,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Ganges,Ganges,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Restaurane Asiatico Soja,Restaurane Asiatico Soja,0,阿甘祖伊拉,0.0,0.0,0.0
+更多亚洲菜,Pui's Thai Tapas,Pui's Thai Tapas,0,阿甘祖伊拉,0.0,0.0,0.0
+更多亚洲菜,The Garden 2112,The Garden 2112,0,利内阿尔城,0.0,0.0,0.0
+更多亚洲菜,Fathe Pur,Fathe Pur,0,雷蒂罗,0.0,0.0,0.0
+更多亚洲菜,Fuente Deliciosa China,Fuente Deliciosa China,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Comida Asia Express Fa,Comida Asia Express Fa,0,其他,0.0,0.0,0.0
+更多亚洲菜,Wok-Man,Wok-Man,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurante Fantastico,Restaurante Fantastico,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Moharaj,Moharaj,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Calcuta,Calcuta,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Anarkoli,Anarkoli,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Baisakhi,Baisakhi,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Shapla,Shapla,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Pad Thai,Pad Thai,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,El-Aman,El-Aman,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Bombay Palace,Bombay Palace,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Currys Indian Restaurant,Currys Indian Restaurant,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Vartan,Vartan,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Restaurante Nassib,Restaurante Nassib,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal,Taj Mahal,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Aladino,Aladino,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Swagat,Swagat,0,萨拉曼卡,0.0,0.0,0.0
+更多亚洲菜,Restaurante Thong,Restaurante Thong,0,萨拉曼卡,0.0,0.0,0.0
+更多亚洲菜,Mousse,Mousse,0,贝里,0.0,0.0,0.0
+更多亚洲菜,GingerBoy,GingerBoy,0,贝里,0.0,0.0,0.0
+更多亚洲菜,Kintaro,Kintaro,0,贝里,0.0,0.0,0.0
+更多亚洲菜,Thai Gardens,Thai Gardens,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Restaurante Hong,Restaurante Hong,0,阿甘祖伊拉,0.0,0.0,0.0
+更多亚洲菜,Lan Lan Madrid,Lan Lan Madrid,0,福塔雷萨,0.0,0.0,0.0
+更多亚洲菜,Mutte,Mutte,0,福塔雷萨,0.0,0.0,0.0
+更多亚洲菜,Mumbai Massala,Mumbai Massala,0,其他,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal,Taj Mahal,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Raja-Mahal,Raja-Mahal,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Indian Restaurant Bombay Blue,Indian Restaurant Bombay Blue,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Bombay Palace,Bombay Palace,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,El Basha,El Basha,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Alzahra,Alzahra,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Sushi Bar,Sushi Bar,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Asiana Indian Restaurant,Asiana Indian Restaurant,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Namaskaar,Namaskaar,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Ken Zan,Ken Zan,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,El Califa Madrid,El Califa Madrid,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Tse Yang Dim Sum Club,Tse Yang Dim Sum Club,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Ariana,Ariana,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Adrish,Adrish,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,A dos velas,A dos velas,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Casa Nina,Casa Nina,0,萨拉曼卡,0.0,0.0,0.0
+更多亚洲菜,Sushiwaka,Sushiwaka,0,萨拉曼卡,0.0,0.0,0.0
+更多亚洲菜,Pekin Madrid,Pekin Madrid,0,萨拉曼卡,0.0,0.0,0.0
+更多亚洲菜,Restaurante Asiatico Xing,Restaurante Asiatico Xing,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Tao,Tao,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Restaurante Tao,Restaurante Tao,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Comiori,Comiori,0,阿甘祖伊拉,0.0,0.0,0.0
+更多亚洲菜,Lounge Yi,Lounge Yi,0,阿甘祖伊拉,0.0,0.0,0.0
+更多亚洲菜,Gran Hong Kong,Gran Hong Kong,0,利内阿尔城,0.0,0.0,0.0
+更多亚洲菜,Bar Casla,Bar Casla,0,利内阿尔城,0.0,0.0,0.0
+更多亚洲菜,Ni Hao Arturo Soria,Ni Hao Arturo Soria,0,利内阿尔城,0.0,0.0,0.0
+更多亚洲菜,Estrella central,Estrella central,0,雷蒂罗,0.0,0.0,0.0
+更多亚洲菜,New Bombay Palace,New Bombay Palace,0,雷蒂罗,0.0,0.0,0.0
+更多亚洲菜,Doner Kebab,Doner Kebab,0,雷蒂罗,0.0,0.0,0.0
+更多亚洲菜,Cocina Asiatica Go,Cocina Asiatica Go,0,圣布拉斯,0.0,0.0,0.0
+更多亚洲菜,Happiness,Happiness,0,圣布拉斯,0.0,0.0,0.0
+更多亚洲菜,Hokkaido,Hokkaido,0,圣布拉斯,0.0,0.0,0.0
+更多亚洲菜,Chen,Chen,0,阿拉瓦卡,0.0,0.0,0.0
+更多亚洲菜,OQ Bubble Tea Bar,OQ Bubble Tea Bar,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bonsai,Bonsai,0,圣塞瓦斯蒂安,0.0,0.0,0.0
+更多亚洲菜,Mahar Kebabish,Mahar Kebabish,0,,0.0,0.0,0.0
+更多亚洲菜,silk and soya,silk and soya,0,,0.0,0.0,0.0
+更多亚洲菜,Wogaboo Xanadu,Wogaboo Xanadu,0,其他,0.0,0.0,0.0
+更多亚洲菜,Zagros,Zagros,0,其他,0.0,0.0,0.0
+更多亚洲菜,Aqua Blue Madrid,Aqua Blue Madrid,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kobe,Kobe,0,其他,0.0,0.0,0.0
+更多亚洲菜,Fish,Fish,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mister India,Mister India,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Nueva Delhi,Nueva Delhi,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Nemrut,Nemrut,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Pattaya,Pattaya,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Restaurante Hong Yun,Restaurante Hong Yun,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多亚洲菜,Sushiwakka,Sushiwakka,0,得土安,0.0,0.0,0.0
+更多亚洲菜,Green Kitchen,Green Kitchen,0,得土安,0.0,0.0,0.0
+更多亚洲菜,Al Sultan,Al Sultan,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Brillante,Brillante,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,El Chino Veloz,El Chino Veloz,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,Cafe Tibet,Cafe Tibet,0,福塔雷萨,0.0,0.0,0.0
+更多亚洲菜,Hola India,Hola India,0,卡拉万切尔,0.0,0.0,0.0
+更多亚洲菜,Zen Vintage,Zen Vintage,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Muus,Restaurant Muus,0,其他,0.0,0.0,0.0
+更多亚洲菜,Karma,Karma,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Sukothay,Sukothay,0,得土安,0.0,0.0,0.0
+更多亚洲菜,Restaurante Ganesh India,Restaurante Ganesh India,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,ganga hindu restaurant,ganga hindu restaurant,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Madrid-Bangkok,Madrid-Bangkok,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Toma,Toma,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Wakathai,Wakathai,0,马德里特罗,0.0,0.0,0.0
+更多亚洲菜,Sushiwakka,Sushiwakka,0,得土安,0.0,0.0,0.0
+更多亚洲菜,Yataki Sushi Bar,Yataki Sushi Bar,0,查马丁火车站,0.0,0.0,0.0
+更多亚洲菜,PALACIO DE MARRAKECH,PALACIO DE MARRAKECH,0,阿甘祖伊拉,0.0,0.0,0.0
+更多亚洲菜,Hindu Budha,Hindu Budha,0,阿甘祖伊拉,0.0,0.0,0.0
+更多亚洲菜,Cocina Asiatica Long,Cocina Asiatica Long,0,利内阿尔城,0.0,0.0,0.0
+更多亚洲菜,Le Garage,Le Garage,0,雷蒂罗,0.0,0.0,0.0
+更多亚洲菜,Dinasty,Dinasty,0,圣布拉斯,0.0,0.0,0.0
+更多亚洲菜,Furama,Furama,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kudeta,Kudeta,0,其他,0.0,0.0,0.0
+快餐简餐,Museo del Jamon,Museo del Jamon,0,马德里特罗,8.1,7.5,7.2
+快餐简餐,BURGER KING,BURGER KING,0,马德里特罗,7.4,7.4,7.4
+快餐简餐,kfc,kfc,0,,7.4,7.1,7.1
+快餐简餐,BURGER KING,BURGER KING,0,马德里特罗,7.0,7.0,7.0
+快餐简餐,Cafe&Te,Cafe&Te,0,,6.9,7.0,7.0
+快餐简餐,The Lobby Cafe,The Lobby Cafe,0,,0.0,0.0,0.0
+快餐简餐,kebab,kebab,0,,7.1,7.1,7.1
+快餐简餐,Siam,Siam,0,马德里特罗,7.1,7.1,7.1
+快餐简餐,Pans&Company,Pans&Company,0,马德里特罗,6.9,7.0,6.9
+快餐简餐,McDonald's,McDonald's,0,马德里特罗,6.8,6.8,6.8
+快餐简餐,Churreria - Chocolateria - Los Artesanos 1902,Churreria - Chocolateria - Los Artesanos 1902,0,马德里特罗,6.8,7.1,7.1
+快餐简餐,Restaurante La Cabaña Argentina,Restaurante La Cabaña Argentina,0,其他,0.0,0.0,0.0
+快餐简餐,vips,vips,0,,7.1,7.1,7.1
+快餐简餐,TGI Friday's,TGI Friday's,0,马德里特罗,7.1,7.1,7.1
+快餐简餐,faborit,faborit,0,,7.0,7.0,7.0
+快餐简餐,Fonty,Fonty,0,萨拉曼卡,7.2,7.2,7.2
+快餐简餐,Pans,Pans,0,马德里特罗,6.7,7.0,7.0
+快餐简餐,Cahuenga Titulcia Terraza Bar.,Cahuenga Titulcia Terraza Bar.,0,其他,0.0,0.0,0.0
+快餐简餐,Burguer King,Burguer King,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Rayen Vegano,Rayen Vegano,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Muki American Japo,Muki American Japo,0,其他,0.0,0.0,0.0
+快餐简餐,Beefcious,Beefcious,0,其他,0.0,0.0,0.0
+快餐简餐,Pecado Carnal,Pecado Carnal,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,New York Burger,New York Burger,0,萨拉曼卡,0.0,0.0,0.0
+快餐简餐,Chicago's,Chicago's,0,贝里,0.0,0.0,0.0
+快餐简餐,Foster's Hollywood,Foster's Hollywood,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Vips,Vips,0,福塔雷萨,0.0,0.0,0.0
+快餐简餐,Buns madrid,Buns madrid,0,萨拉曼卡,0.0,0.0,0.0
+快餐简餐,Mad Grill,Mad Grill,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Burger Yogui,Burger Yogui,0,,0.0,0.0,0.0
+快餐简餐,Cafeteria El Nuevo Palacios,Cafeteria El Nuevo Palacios,0,,0.0,0.0,0.0
+快餐简餐,Golfo's,Golfo's,0,平托,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,得土安,0.0,0.0,0.0
+快餐简餐,T.G.I. Friday's Peligros,T.G.I. Friday's Peligros,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,D'Fabula,D'Fabula,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Home Burguer Bar,Home Burguer Bar,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Steakburger,Steakburger,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Home Burguer Bar,Home Burguer Bar,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Pecado carnal,Pecado carnal,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,San Wich,San Wich,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,El Mentidero de la Villa,El Mentidero de la Villa,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Carmencita Bar,Carmencita Bar,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Alfredo's Barbacoa,Alfredo's Barbacoa,0,萨拉曼卡,0.0,0.0,0.0
+快餐简餐,Bentley's,Bentley's,0,萨拉曼卡,0.0,0.0,0.0
+快餐简餐,SOHO,SOHO,0,萨拉曼卡,0.0,0.0,0.0
+快餐简餐,El Ferry,El Ferry,0,贝里,0.0,0.0,0.0
+快餐简餐,Steak Burger,Steak Burger,0,贝里,0.0,0.0,0.0
+快餐简餐,Tierra Burrito Bar,Tierra Burrito Bar,0,贝里,0.0,0.0,0.0
+快餐简餐,Restaurante Bar Al Traste Fun & Food,Restaurante Bar Al Traste Fun & Food,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+快餐简餐,Goiko Grill,Goiko Grill,0,查马丁火车站,0.0,0.0,0.0
+快餐简餐,de10,de10,0,其他,0.0,0.0,0.0
+快餐简餐,Munich Las Rozas,Munich Las Rozas,0,,0.0,0.0,0.0
+快餐简餐,O'hara's Irish Pub & Restaurant,O'hara's Irish Pub & Restaurant,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,阿尔科文达斯,0.0,0.0,0.0
+快餐简餐,Ribs. La Casa de Las Costillas,Ribs. La Casa de Las Costillas,0,卡拉万切尔,0.0,0.0,0.0
+快餐简餐,Rock and ribs,Rock and ribs,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Pele Mele,Pele Mele,0,其他,0.0,0.0,0.0
+快餐简餐,Shakeat!,Shakeat!,0,其他,0.0,0.0,0.0
+快餐简餐,Nara,Nara,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Harvey's,Harvey's,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Urban Diner,Urban Diner,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Juicy Avenue,Juicy Avenue,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,贝里,0.0,0.0,0.0
+快餐简餐,Amasia Restaurant,Amasia Restaurant,0,贝里,0.0,0.0,0.0
+快餐简餐,The Toast Cafe,The Toast Cafe,0,贝里,0.0,0.0,0.0
+快餐简餐,Van Gogh Cafe,Van Gogh Cafe,0,贝里,0.0,0.0,0.0
+快餐简餐,Sena,Sena,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+快餐简餐,El Liberal,El Liberal,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+快餐简餐,Aldaba,Aldaba,0,查马丁火车站,0.0,0.0,0.0
+快餐简餐,KNIGHT'N'SQUIRE,KNIGHT'N'SQUIRE,0,查马丁火车站,0.0,0.0,0.0
+快餐简餐,Arzabal,Arzabal,0,雷蒂罗,0.0,0.0,0.0
+快餐简餐,Bus Station,Bus Station,0,福塔雷萨,0.0,0.0,0.0
+快餐简餐,Soul Kitchen,Soul Kitchen,0,福塔雷萨,0.0,0.0,0.0
+快餐简餐,Tommy Mel's,Tommy Mel's,0,其他,0.0,0.0,0.0
+快餐简餐,PINK FLAMINGO,PINK FLAMINGO,0,其他,0.0,0.0,0.0
+快餐简餐,Perrito Ole,Perrito Ole,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Peggy Sue's,Peggy Sue's,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Beer station,Beer station,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,The Burger Lobby,The Burger Lobby,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,So Good,So Good,0,萨拉曼卡,0.0,0.0,0.0
+快餐简餐,SKY MADRID,SKY MADRID,0,萨拉曼卡,0.0,0.0,0.0
+快餐简餐,Bar Duque,Bar Duque,0,萨拉曼卡,0.0,0.0,0.0
+快餐简餐,Foster's Hollywood,Foster's Hollywood,0,贝里,0.0,0.0,0.0
+快餐简餐,Tommy Mel's,Tommy Mel's,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+快餐简餐,Mirage by Axor,Mirage by Axor,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+快餐简餐,COMPANY BURGUER,COMPANY BURGUER,0,得土安,0.0,0.0,0.0
+快餐简餐,Tony Roma's,Tony Roma's,0,查马丁火车站,0.0,0.0,0.0
+快餐简餐,DO Taberna,DO Taberna,0,雷蒂罗,0.0,0.0,0.0
+快餐简餐,Tommy Mel's,Tommy Mel's,0,福塔雷萨,0.0,0.0,0.0
+快餐简餐,Harvard & Co.,Harvard & Co.,0,福塔雷萨,0.0,0.0,0.0
+快餐简餐,Tommy Mel's,Tommy Mel's,0,福塔雷萨,0.0,0.0,0.0
+快餐简餐,Moonsun,Moonsun,0,阿拉瓦卡,0.0,0.0,0.0
+快餐简餐,Tommy Mel's classic diner,Tommy Mel's classic diner,0,卡拉万切尔,0.0,0.0,0.0
+快餐简餐,"Spanglish, Unidos for de Food","Spanglish, Unidos for de Food",0,其他,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,其他,0.0,0.0,0.0
+快餐简餐,Cerveceria Restaurante Gambrinus Arganda,Cerveceria Restaurante Gambrinus Arganda,0,,0.0,0.0,0.0
+快餐简餐,Oskar Burguer,Oskar Burguer,0,其他,0.0,0.0,0.0
+快餐简餐,Burguer King,Burguer King,0,其他,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,其他,0.0,0.0,0.0
+快餐简餐,Queen Food and Music,Queen Food and Music,0,其他,0.0,0.0,0.0
+快餐简餐,Peggy Sue,Peggy Sue,0,比利亚德巴列卡斯,0.0,0.0,0.0
+快餐简餐,Mama Teresa,Mama Teresa,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Peggy Sue's,Peggy Sue's,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,The Chesscafe Company,The Chesscafe Company,0,萨拉曼卡,0.0,0.0,0.0
+快餐简餐,"Peggy Sue's, , Madrid","Peggy Sue's, , Madrid",0,贝里,0.0,0.0,0.0
+快餐简餐,Foster's Hollywoods,Foster's Hollywoods,0,得土安,0.0,0.0,0.0
+快餐简餐,Pecado Carnal Alberto Alcocer,Pecado Carnal Alberto Alcocer,0,查马丁火车站,0.0,0.0,0.0
+快餐简餐,Tommy Mel's,Tommy Mel's,0,其他,0.0,0.0,0.0
+快餐简餐,The Factory Cafe,The Factory Cafe,0,其他,0.0,0.0,0.0
+快餐简餐,Augusta,Augusta,0,查马丁火车站,0.0,0.0,0.0
+快餐简餐,BURGER KING,BURGER KING,0,萨拉曼卡,0.0,0.0,0.0
+快餐简餐,100 Montaditos 百种汉堡,100 Montaditos 百种汉堡,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Ernie's Station,Ernie's Station,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Block House,Block House,0,马德里特罗,0.0,0.0,0.0
+快餐简餐,Friday's Bernabeu,Friday's Bernabeu,0,查马丁火车站,0.0,0.0,0.0
+快餐简餐,Foster's Hollywood,Foster's Hollywood,0,雷蒂罗,0.0,0.0,0.0
+快餐简餐,Dizzy Lil Diner,Dizzy Lil Diner,0,雷蒂罗,0.0,0.0,0.0
+快餐简餐,40 Cafe,40 Cafe,0,阿拉瓦卡,0.0,0.0,0.0
+快餐简餐,69 Petalos,69 Petalos,0,其他,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,其他,0.0,0.0,0.0
+快餐简餐,Los Reyunos,Los Reyunos,0,,0.0,0.0,0.0
+快餐简餐,Peggy Sue's Las Tablas,Peggy Sue's Las Tablas,0,其他,0.0,0.0,0.0
+海鲜,Sirena Verde,Sirena Verde,0,马德里特罗,7.1,6.9,7.0
+海鲜,El Cucurucho del Mar,El Cucurucho del Mar,0,马德里特罗,7.5,7.5,8.4
+海鲜,Marisqueria La Chalana,Marisqueria La Chalana,0,马德里特罗,8.1,8.1,8.1
+海鲜,Marisqueria Ribeira do Mino,Marisqueria Ribeira do Mino,0,马德里特罗,8.4,8.4,8.4
+海鲜,Taberna La Frasca,Taberna La Frasca,0,圣塞瓦斯蒂安,0.0,0.0,0.0
+海鲜,Venta El Buscon,Venta El Buscon,0,马德里特罗,0.0,0.0,0.0
+海鲜,El Asador de Lobo,El Asador de Lobo,0,其他,0.0,0.0,0.0
+海鲜,Combarro,Combarro,0,得土安,0.0,0.0,0.0
+海鲜,Ciudad de Tui,Ciudad de Tui,0,马德里特罗,0.0,0.0,0.0
+海鲜,La Trainera,La Trainera,0,萨拉曼卡,0.0,0.0,0.0
+海鲜,Cerveceria Monje,Cerveceria Monje,0,马德里特罗,0.0,0.0,0.0
+海鲜,Sanxenxo,Sanxenxo,0,萨拉曼卡,0.0,0.0,0.0
+海鲜,Sirena Verde,Sirena Verde,0,阿拉瓦卡,0.0,0.0,0.0
+海鲜,El Pescador,El Pescador,0,萨拉曼卡,0.0,0.0,0.0
+海鲜,Carta Marina,Carta Marina,0,查马丁火车站,0.0,0.0,0.0
+海鲜,Rafa,Rafa,0,雷蒂罗,0.0,0.0,0.0
+海鲜,Ogrelo,Ogrelo,0,雷蒂罗,0.0,0.0,0.0
+海鲜,Marisquería Salamar,Marisquería Salamar,0,查马丁火车站,0.0,0.0,0.0
+海鲜,Arysol,Arysol,0,马德里特罗,0.0,0.0,0.0
+海鲜,Mariscos Morris,Mariscos Morris,0,马德里特罗,0.0,0.0,0.0
+海鲜,Restaurante Ribera do Mino,Restaurante Ribera do Mino,0,马德里特罗,0.0,0.0,0.0
+海鲜,Taberna Maceira,Taberna Maceira,0,马德里特罗,0.0,0.0,0.0
+海鲜,La Gran Pulperia,La Gran Pulperia,0,比卡尔瓦罗,0.0,0.0,0.0
+海鲜,El Garbi,El Garbi,0,得土安,0.0,0.0,0.0
+海鲜,Mar&Ola,Mar&Ola,0,马德里特罗,0.0,0.0,0.0
+海鲜,Ostreria De Mercado Anton Martin,Ostreria De Mercado Anton Martin,0,马德里特罗,0.0,0.0,0.0
+海鲜,El Rincon De Cardena,El Rincon De Cardena,0,马德里特罗,0.0,0.0,0.0
+海鲜,Mariscos La Toledana,Mariscos La Toledana,0,得土安,0.0,0.0,0.0
+海鲜,Gaudium,Gaudium,0,贝里,0.0,0.0,0.0
+海鲜,El Barril De Arguelles,El Barril De Arguelles,0,贝里,0.0,0.0,0.0
+海鲜,La Penela,La Penela,0,得土安,0.0,0.0,0.0
+海鲜,El Telegrafo,El Telegrafo,0,查马丁火车站,0.0,0.0,0.0
+海鲜,Aderezo,Aderezo,0,福塔雷萨,0.0,0.0,0.0
+海鲜,AL BORDO DEL ANDURINA,AL BORDO DEL ANDURINA,0,,0.0,0.0,0.0
+海鲜,Najera,Najera,0,Majadahonda,0.0,0.0,0.0
+海鲜,Restaurante Marisqueria Tres Encinas,Restaurante Marisqueria Tres Encinas,0,马德里特罗,0.0,0.0,0.0
+海鲜,Boga Bar,Boga Bar,0,马德里特罗,0.0,0.0,0.0
+海鲜,Fide,Fide,0,贝里,0.0,0.0,0.0
+海鲜,Airinos do Mino,Airinos do Mino,0,马德里特罗,0.0,0.0,0.0
+海鲜,Rias Gallegas,Rias Gallegas,0,查马丁火车站,0.0,0.0,0.0
+海鲜,Restaurante Atrapallada,Restaurante Atrapallada,0,阿甘祖伊拉,0.0,0.0,0.0
+海鲜,Pulperia Caracoleria,Pulperia Caracoleria,0,卡拉万切尔,0.0,0.0,0.0
+海鲜,El Timon De Terraza,El Timon De Terraza,0,其他,0.0,0.0,0.0
+海鲜,Faro de Fisterra,Faro de Fisterra,0,,0.0,0.0,0.0
+海鲜,La taV'HERna,La taV'HERna,0,,0.0,0.0,0.0
+海鲜,Marisqueria Moreno II,Marisqueria Moreno II,0,,0.0,0.0,0.0
+海鲜,Los Pescaitos,Los Pescaitos,0,查马丁火车站,0.0,0.0,0.0
+海鲜,test,test,0,,0.0,0.0,0.0
+海鲜,La Giralda III,La Giralda III,0,萨拉曼卡,0.0,0.0,0.0
+海鲜,Los Amarres,Los Amarres,0,贝里,0.0,0.0,0.0
+海鲜,La Gamba,La Gamba,0,雷蒂罗,0.0,0.0,0.0
+海鲜,Gran Sol,Gran Sol,0,其他,0.0,0.0,0.0
+烧烤,El Pollo de Alcala,El Pollo de Alcala,0,,0.0,0.0,0.0
+烧烤,Asador Arizmendi,Asador Arizmendi,0,马德里特罗,0.0,0.0,0.0
+烧烤,El Asador de Aranda,El Asador de Aranda,0,得土安,0.0,0.0,0.0
+烧烤,Abrasador,Abrasador,0,马德里特罗,0.0,0.0,0.0
+烧烤,Olive Gastrobar & Restaurante,Olive Gastrobar & Restaurante,0,,0.0,0.0,0.0
+烧烤,Meson del Cid,Meson del Cid,0,贝里,0.0,0.0,0.0
+烧烤,Casa German,Casa German,0,其他,0.0,0.0,0.0
+烧烤,El Brasero de Don Pedro,El Brasero de Don Pedro,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+烧烤,EL MIRADOR DE CEA,EL MIRADOR DE CEA,0,利内阿尔城,0.0,0.0,0.0
+烧烤,Casa Julian,Casa Julian,0,萨拉曼卡,0.0,0.0,0.0
+烧烤,El Gamo,El Gamo,0,,0.0,0.0,0.0
+烧烤,Baby Beef Rubaiyat,Baby Beef Rubaiyat,0,查马丁火车站,0.0,0.0,0.0
+烧烤,Strawberry Fields,Strawberry Fields,0,马德里特罗,0.0,0.0,0.0
+烧烤,La Parrilla de Mario,La Parrilla de Mario,0,马德里特罗,0.0,0.0,0.0
+烧烤,La Vaqueria,La Vaqueria,0,其他,0.0,0.0,0.0
+烧烤,La Cervecería de Pepe,La Cervecería de Pepe,0,查马丁火车站,0.0,0.0,0.0
+烧烤,Restaurante El Ranchito del 47,Restaurante El Ranchito del 47,0,其他,0.0,0.0,0.0
+烧烤,Restaurante La Fabrica de Hielo,Restaurante La Fabrica de Hielo,0,,0.0,0.0,0.0
+烧烤,Barataria,Barataria,0,,0.0,0.0,0.0
+烧烤,Restaurante los Condes,Restaurante los Condes,0,Majadahonda,0.0,0.0,0.0
+烧烤,Restaurante MEATing,Restaurante MEATing,0,萨拉曼卡,0.0,0.0,0.0
+烧烤,Lakuntza,Lakuntza,0,萨拉曼卡,0.0,0.0,0.0
+烧烤,Las Brasas De Vulcano,Las Brasas De Vulcano,0,其他,0.0,0.0,0.0
+烧烤,Carril Hondon SL.,Carril Hondon SL.,0,马德里特罗,0.0,0.0,0.0
+烧烤,Ribs,Ribs,0,马德里特罗,0.0,0.0,0.0
+烧烤,Asador Juan De Austria,Asador Juan De Austria,0,马德里特罗,0.0,0.0,0.0
+烧烤,Can Punyetes,Can Punyetes,0,马德里特罗,0.0,0.0,0.0
+烧烤,El Decano,El Decano,0,贝里,0.0,0.0,0.0
+烧烤,El Asador de Sacramenia,El Asador de Sacramenia,0,得土安,0.0,0.0,0.0
+烧烤,El Abuelo Manolo,El Abuelo Manolo,0,得土安,0.0,0.0,0.0
+烧烤,Restaurante Asador Montero,Restaurante Asador Montero,0,其他,0.0,0.0,0.0
+烧烤,Restaurante El Cisne,Restaurante El Cisne,0,其他,0.0,0.0,0.0
+烧烤,"Parrilla Doce, C.B","Parrilla Doce, C.B",0,其他,0.0,0.0,0.0
+烧烤,La Montana,La Montana,0,其他,0.0,0.0,0.0
+烧烤,Club Social La Colina,Club Social La Colina,0,其他,0.0,0.0,0.0
+烧烤,La Parrilla de Poli,La Parrilla de Poli,0,其他,0.0,0.0,0.0
+烧烤,las cuevas del carnero,las cuevas del carnero,0,其他,0.0,0.0,0.0
+烧烤,la casa vieja del abuelo,la casa vieja del abuelo,0,其他,0.0,0.0,0.0
+烧烤,Restaurante La Cepa,Restaurante La Cepa,0,比利亚德巴列卡斯,0.0,0.0,0.0
+烧烤,Un Lugar,Un Lugar,0,查马丁火车站,0.0,0.0,0.0
+烧烤,"Las Brasas, Humera, Madrid","Las Brasas, Humera, Madrid",0,其他,0.0,0.0,0.0
+比萨,Telepizza,Telepizza,0,其他,0.0,0.0,0.0
+比萨,Lamucca de Prado,Lamucca de Prado,0,马德里特罗,0.0,0.0,0.0
+比萨,Pizza Acuarius,Pizza Acuarius,0,艾科坎,0.0,0.0,0.0
+比萨,Trattoria Malatesta,Trattoria Malatesta,0,马德里特罗,0.0,0.0,0.0
+比萨,La Tia Cebolla,La Tia Cebolla,0,马德里特罗,0.0,0.0,0.0
+比萨,Papizza,Papizza,0,马德里特罗,0.0,0.0,0.0
+比萨,L'Spirale,L'Spirale,0,萨拉曼卡,0.0,0.0,0.0
+比萨,Emma y Julia,Emma y Julia,0,马德里特罗,0.0,0.0,0.0
+比萨,El Horno Azul,El Horno Azul,0,马德里特罗,0.0,0.0,0.0
+比萨,Aio,Aio,0,马德里特罗,0.0,0.0,0.0
+比萨,Rita & Champagne,Rita & Champagne,0,马德里特罗,0.0,0.0,0.0
+比萨,Plaza 66,Plaza 66,0,马德里特罗,0.0,0.0,0.0
+比萨,Restaurante Lapizza+sana,Restaurante Lapizza+sana,0,福塔雷萨,0.0,0.0,0.0
+比萨,Trattoria Pizzeria Passaparola,Trattoria Pizzeria Passaparola,0,其他,0.0,0.0,0.0
+比萨,En Guay Si Pizza,En Guay Si Pizza,0,贝里,0.0,0.0,0.0
+比萨,Kilómetros de Pizza,Kilómetros de Pizza,0,得土安,0.0,0.0,0.0
+比萨,Pizza Marzano - Gran Via,Pizza Marzano - Gran Via,0,福塔雷萨,0.0,0.0,0.0
+比萨,Ricotta,Ricotta,0,马德里特罗,0.0,0.0,0.0
+比萨,Pizza Sapori,Pizza Sapori,0,马德里特罗,0.0,0.0,0.0
+比萨,L'isola Bella,L'isola Bella,0,马德里特罗,0.0,0.0,0.0
+比萨,Papizza,Papizza,0,马德里特罗,0.0,0.0,0.0
+比萨,Pizza Marzano - Serrano,Pizza Marzano - Serrano,0,萨拉曼卡,0.0,0.0,0.0
+比萨,Pizza Jardin,Pizza Jardin,0,查马丁火车站,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,,0.0,0.0,0.0
+比萨,Stromboli Pasta y Pizza,Stromboli Pasta y Pizza,0,,0.0,0.0,0.0
+比萨,Telepizza,Telepizza,0,,0.0,0.0,0.0
+比萨,Cafe Moderno,Cafe Moderno,0,马德里特罗,0.0,0.0,0.0
+比萨,Pasta Pesto,Pasta Pesto,0,马德里特罗,0.0,0.0,0.0
+比萨,Omerta,Omerta,0,马德里特罗,0.0,0.0,0.0
+比萨,La Reginella,La Reginella,0,其他,0.0,0.0,0.0
+咖啡厅,Mama Framboise,Mama Framboise,0,萨拉曼卡,7.4,7.4,7.4
+咖啡厅,Granier,Granier,0,卡拉万切尔,7.3,6.8,6.8
+咖啡厅,Dunkin Coffee,Dunkin Coffee,0,马德里特罗,8.0,7.3,8.0
+咖啡厅,CAFÉ&TAPAS,CAFÉ&TAPAS,0,萨拉曼卡,7.5,7.5,6.7
+咖啡厅,Chocolaterias Valor,Chocolaterias Valor,0,马德里特罗,7.4,7.4,7.4
+咖啡厅,Xocoa en General Díaz Porlier,Xocoa en General Díaz Porlier,0,雷蒂罗,7.1,7.1,7.1
+咖啡厅,Le Pain Quotidien,Le Pain Quotidien,0,阿拉瓦卡,7.1,7.4,7.4
+咖啡厅,mccafe,mccafe,0,,7.0,7.0,7.0
+咖啡厅,La rollerie,La rollerie,0,马德里特罗,7.4,7.4,7.4
+咖啡厅,Oriol Balaguer,Oriol Balaguer,0,萨拉曼卡,7.1,7.1,7.1
+咖啡厅,Churreria Milagros,Churreria Milagros,0,萨拉曼卡,6.9,6.9,6.9
+咖啡厅,Cafeteria Teresa,Cafeteria Teresa,0,马德里特罗,6.9,6.9,6.9
+咖啡厅,CAFE BAR El 89,CAFE BAR El 89,0,马德里特罗,6.9,6.9,6.9
+咖啡厅,Vips,Vips,0,马德里特罗,7.1,7.1,7.1
+咖啡厅,McDonald's,McDonald's,0,马德里特罗,7.1,7.1,7.1
+咖啡厅,RealCake,RealCake,0,萨拉曼卡,7.1,7.1,7.1
+咖啡厅,Priorite Art Coffee Shop,Priorite Art Coffee Shop,0,马德里特罗,6.8,6.8,7.2
+咖啡厅,La Cueva de 1900 Madrid,La Cueva de 1900 Madrid,0,其他,0.0,0.0,0.0
+咖啡厅,Cerveceria La Plaza,Cerveceria La Plaza,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Los Pinchitos,Los Pinchitos,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Taberna Tirso de Molina,Taberna Tirso de Molina,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cafeteria del Hotel Europa,Cafeteria del Hotel Europa,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Toma Cafe,Toma Cafe,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cafe Murillo,Cafe Murillo,0,雷蒂罗,0.0,0.0,0.0
+咖啡厅,Rustika Cafe,Rustika Cafe,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,CAFÉ & TAPAS CARRETAS 14,CAFÉ & TAPAS CARRETAS 14,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Doblecrema Cafe,Doblecrema Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Arandio,Arandio,0,得土安,0.0,0.0,0.0
+咖啡厅,Bar Eduardo,Bar Eduardo,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Taberna La Imperial,Taberna La Imperial,0,贝里,0.0,0.0,0.0
+咖啡厅,Cafe Grinon,Cafe Grinon,0,其他,0.0,0.0,0.0
+咖啡厅,Taberna Aranda,Taberna Aranda,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Horno Santa Maria Madrid,Horno Santa Maria Madrid,0,其他,0.0,0.0,0.0
+咖啡厅,Ingredients:cafe,Ingredients:cafe,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cafeteria Solaire,Cafeteria Solaire,0,得土安,0.0,0.0,0.0
+咖啡厅,La Prensa,La Prensa,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Obrador lorenzana,Obrador lorenzana,0,萨拉曼卡,0.0,0.0,0.0
+咖啡厅,Hotel Monte Igueldo Cafeteria,Hotel Monte Igueldo Cafeteria,0,,0.0,0.0,0.0
+咖啡厅,cafeteria-pasteleria-panaderia El Buen Sabor,cafeteria-pasteleria-panaderia El Buen Sabor,0,艾科坎,0.0,0.0,0.0
+咖啡厅,Cafe del Art,Cafe del Art,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,El Pepinillo de Barquillo,El Pepinillo de Barquillo,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cafe Belen,Cafe Belen,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Lolina Vintage Cafe,Lolina Vintage Cafe,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Viena Capellanes,Viena Capellanes,0,萨拉曼卡,0.0,0.0,0.0
+咖啡厅,Café del Jadín,Café del Jadín,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cafeteria Manila Madrid,Cafeteria Manila Madrid,0,其他,0.0,0.0,0.0
+咖啡厅,"La Infinito, cafe-libros-arte","La Infinito, cafe-libros-arte",0,马德里特罗,0.0,0.0,0.0
+咖啡厅,El Imperfecto,El Imperfecto,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,AbonaVida,AbonaVida,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Italiana Madrid,Italiana Madrid,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,La MiMe,La MiMe,0,萨拉曼卡,0.0,0.0,0.0
+咖啡厅,Pasteleria Carmine,Pasteleria Carmine,0,贝里,0.0,0.0,0.0
+咖啡厅,BAR DUMAS,BAR DUMAS,0,阿甘祖伊拉,0.0,0.0,0.0
+咖啡厅,Dunkin Coffee,Dunkin Coffee,0,其他,0.0,0.0,0.0
+咖啡厅,Marimba Cafe,Marimba Cafe,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cerveceria Tineo,Cerveceria Tineo,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,CAFÉ & TAPAS PLAZA MAYOR,CAFÉ & TAPAS PLAZA MAYOR,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Grignolino,Grignolino,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,El Cafe de la Suiza,El Cafe de la Suiza,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Sedelu,Sedelu,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Anticafe,Anticafe,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,La Madrilena,La Madrilena,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Hontanares,Hontanares,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Nebraska,Nebraska,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Rodilla,Rodilla,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,All U Can Eat Madrid,All U Can Eat Madrid,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Chocolatarium,Chocolatarium,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cafes Arrivederci,Cafes Arrivederci,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,El Palentino,El Palentino,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Gorila,Gorila,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Farmacia de Guardia,Farmacia de Guardia,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Bar Selva,Bar Selva,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,J&J Books and Coffee,J&J Books and Coffee,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Tattin,Tattin,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Delina's,Delina's,0,贝里,0.0,0.0,0.0
+咖啡厅,Ricks,Ricks,0,贝里,0.0,0.0,0.0
+咖啡厅,Cafeteria Kon tiki,Cafeteria Kon tiki,0,贝里,0.0,0.0,0.0
+咖啡厅,Soto Verde,Soto Verde,0,贝里,0.0,0.0,0.0
+咖啡厅,El Beso,El Beso,0,贝里,0.0,0.0,0.0
+咖啡厅,Nostrum,Nostrum,0,贝里,0.0,0.0,0.0
+咖啡厅,Castellana 75,Castellana 75,0,得土安,0.0,0.0,0.0
+咖啡厅,Pub Seis peniques,Pub Seis peniques,0,得土安,0.0,0.0,0.0
+咖啡厅,Cerveceria Gago,Cerveceria Gago,0,得土安,0.0,0.0,0.0
+咖啡厅,Tartalia,Tartalia,0,得土安,0.0,0.0,0.0
+咖啡厅,Medranda,Medranda,0,得土安,0.0,0.0,0.0
+咖啡厅,Cafeteria Le Petit Madrid,Cafeteria Le Petit Madrid,0,得土安,0.0,0.0,0.0
+咖啡厅,La Fuentona,La Fuentona,0,得土安,0.0,0.0,0.0
+咖啡厅,Kike,Kike,0,查马丁火车站,0.0,0.0,0.0
+咖啡厅,Dala's,Dala's,0,查马丁火车站,0.0,0.0,0.0
+咖啡厅,Rodilla Torres,Rodilla Torres,0,查马丁火车站,0.0,0.0,0.0
+咖啡厅,Metro Coffee,Metro Coffee,0,阿甘祖伊拉,0.0,0.0,0.0
+咖啡厅,Natural Break,Natural Break,0,阿甘祖伊拉,0.0,0.0,0.0
+咖啡厅,La Esquina de Cavanilles,La Esquina de Cavanilles,0,雷蒂罗,0.0,0.0,0.0
+咖啡厅,Casa Ruth,Casa Ruth,0,雷蒂罗,0.0,0.0,0.0
+咖啡厅,Cafeteria La Parisiena Madrid,Cafeteria La Parisiena Madrid,0,雷蒂罗,0.0,0.0,0.0
+咖啡厅,Chunda,Chunda,0,雷蒂罗,0.0,0.0,0.0
+咖啡厅,Cafeteria Restaurante Florida Norte Madrid,Cafeteria Restaurante Florida Norte Madrid,0,其他,0.0,0.0,0.0
+咖啡厅,Cafeteria La Abuela,Cafeteria La Abuela,0,其他,0.0,0.0,0.0
+咖啡厅,Churreria Chocolateria Cibeles,Churreria Chocolateria Cibeles,0,其他,0.0,0.0,0.0
+咖啡厅,Me da igual,Me da igual,0,,0.0,0.0,0.0
+咖啡厅,Rosales 20,Rosales 20,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Restaurante el Cielo,Bar Restaurante el Cielo,0,其他,0.0,0.0,0.0
+咖啡厅,Samana,Samana,0,其他,0.0,0.0,0.0
+咖啡厅,Carmen,Carmen,0,其他,0.0,0.0,0.0
+咖啡厅,Belros,Belros,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Bahia,Bar Bahia,0,其他,0.0,0.0,0.0
+咖啡厅,Patio Baena,Patio Baena,0,其他,0.0,0.0,0.0
+咖啡厅,Pans & Company,Pans & Company,0,,0.0,0.0,0.0
+咖啡厅,Cafe Cafe,Cafe Cafe,0,,0.0,0.0,0.0
+咖啡厅,Belros,Belros,0,Majadahonda,0.0,0.0,0.0
+咖啡厅,El Cafe de Numancia,El Cafe de Numancia,0,,6.9,6.9,6.9
+咖啡厅,Dolce Angelo,Dolce Angelo,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Carbones cafe,Carbones cafe,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Ceviche Madrid,Ceviche Madrid,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cafe Acuarela,Cafe Acuarela,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Charlotte Gin Tonic,Charlotte Gin Tonic,0,贝里,0.0,0.0,0.0
+咖啡厅,Marian Madrid,Marian Madrid,0,得土安,0.0,0.0,0.0
+咖啡厅,CAFÉ & TAPAS CONCHA ESPINA 14,CAFÉ & TAPAS CONCHA ESPINA 14,0,查马丁火车站,0.0,0.0,0.0
+咖啡厅,Cafe y Te,Cafe y Te,0,查马丁火车站,0.0,0.0,0.0
+咖啡厅,La Villana,La Villana,0,查马丁火车站,0.0,0.0,0.0
+咖啡厅,Cafe & Te,Cafe & Te,0,查马丁火车站,0.0,0.0,0.0
+咖啡厅,Cafeteria Bahia Blanca,Cafeteria Bahia Blanca,0,查马丁火车站,0.0,0.0,0.0
+咖啡厅,Cafeteria de San Ildefonso,Cafeteria de San Ildefonso,0,雷蒂罗,0.0,0.0,0.0
+咖啡厅,Cafe del Circulo de Bellas Artes,Cafe del Circulo de Bellas Artes,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Tres Treboles,Tres Treboles,0,其他,0.0,0.0,0.0
+咖啡厅,Chocolateria Habana SL,Chocolateria Habana SL,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Mikelete,Mikelete,0,阿甘祖伊拉,0.0,0.0,0.0
+咖啡厅,Saborate Y Cafe The Flavour Shop,Saborate Y Cafe The Flavour Shop,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cafeteria Maceda,Cafeteria Maceda,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cafeteria Giltor,Cafeteria Giltor,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cafeteria Portosin,Cafeteria Portosin,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Macedonia,Macedonia,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Cafeteria Tres Olivos,Cafeteria Tres Olivos,0,阿尔科文达斯,0.0,0.0,0.0
+咖啡厅,Chiquito,Chiquito,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Faborit,Faborit,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,La Tapa de Era,La Tapa de Era,0,马德里特罗,0.0,0.0,0.0
+咖啡厅,Marimmia,Marimmia,0,得土安,0.0,0.0,0.0
+咖啡厅,Cruz Blanca Marques de Vadillo,Cruz Blanca Marques de Vadillo,0,卡拉万切尔,0.0,0.0,0.0
+咖啡厅,Pasteleria Mayte,Pasteleria Mayte,0,其他,0.0,0.0,0.0
+咖啡厅,Nuba British Coffee,Nuba British Coffee,0,,0.0,0.0,0.0
+面包甜点,Llao llao,Llao llao,0,马德里特罗,8.1,7.7,7.7
+面包甜点,MR.CHOCOLATE,MR.CHOCOLATE,0,其他,8.6,8.6,8.6
+面包甜点,real cake,real cake,0,,7.3,6.7,7.4
+面包甜点,Amorino,Amorino,0,马德里特罗,7.3,7.3,7.6
+面包甜点,Mallorca Pasteleria,Mallorca Pasteleria,0,萨拉曼卡,8.3,8.3,8.3
+面包甜点,Mama Framboise,Mama Framboise,0,萨拉曼卡,7.4,7.4,7.4
+面包甜点,moulin chocolate,moulin chocolate,0,马德里特罗,7.6,7.6,7.6
+面包甜点,Mallorca Pasteleria,Mallorca Pasteleria,0,马德里特罗,7.1,7.1,7.1
+面包甜点,Granier,Granier,0,贝里,7.3,6.8,6.8
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,萨拉曼卡,7.2,7.2,7.2
+面包甜点,amorino,amorino,0,,7.1,7.1,7.1
+面包甜点,palazzo,palazzo,0,,7.1,7.1,7.1
+面包甜点,Celicioso,Celicioso,0,马德里特罗,7.1,7.1,7.1
+面包甜点,Chocolateria Valor,Chocolateria Valor,0,阿甘祖伊拉,7.1,7.1,7.1
+面包甜点,Panaderia Martin,Panaderia Martin,0,其他,0.0,0.0,0.0
+面包甜点,Starbucks,Starbucks,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,阿拉瓦卡,7.1,7.4,7.4
+面包甜点,Happy day bakery coffee,Happy day bakery coffee,0,马德里特罗,7.1,7.1,7.1
+面包甜点,labonata,labonata,0,马德里特罗,7.2,7.2,7.2
+面包甜点,Palazzo,Palazzo,0,马德里特罗,7.1,7.1,7.1
+面包甜点,Moulin Chocolat,Moulin Chocolat,0,萨拉曼卡,7.1,7.1,7.1
+面包甜点,Granier Madrid,Granier Madrid,0,得土安,8.1,8.1,7.4
+面包甜点,mallorquina,mallorquina,0,,7.1,7.1,7.1
+面包甜点,pasteleria,pasteleria,0,,7.1,7.1,7.1
+面包甜点,Mas Q Menos,Mas Q Menos,0,巴拉哈斯机场-IFEMA展览中心,7.1,7.1,7.1
+面包甜点,Haagen-Dazs Cafe,Haagen-Dazs Cafe,0,其他,7.1,7.1,7.1
+面包甜点,Smooy,Smooy,0,其他,0.0,0.0,0.0
+面包甜点,Rodilla,Rodilla,0,其他,6.8,7.1,7.1
+面包甜点,Wowble!,Wowble!,0,马德里特罗,7.1,7.1,7.1
+面包甜点,Oita Cafe,Oita Cafe,0,马德里特罗,7.1,7.1,7.1
+面包甜点,Smooy,Smooy,0,利内阿尔城,7.1,7.1,7.1
+面包甜点,Margó Salon de té,Margó Salon de té,0,查马丁火车站,0.0,0.0,0.0
+面包甜点,Afri's Cookies,Afri's Cookies,0,马德里特罗,0.0,0.0,0.0
+面包甜点,La Cocina de mi Vecina,La Cocina de mi Vecina,0,其他,0.0,0.0,0.0
+面包甜点,Rayen Vegano,Rayen Vegano,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Lise & Leti Homemade Cookies,Lise & Leti Homemade Cookies,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Mimi's Creperia,Mimi's Creperia,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Taberna Rayuela,Taberna Rayuela,0,马德里特罗,0.0,0.0,0.0
+面包甜点,La Mallorquina,La Mallorquina,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Llaollao,Llaollao,0,其他,0.0,0.0,0.0
+面包甜点,Antojos Araguaney Gourmet,Antojos Araguaney Gourmet,0,其他,0.0,0.0,0.0
+面包甜点,Heladeria dolcezze,Heladeria dolcezze,0,马德里特罗,0.0,0.0,0.0
+面包甜点,La Panaderia de Chueca,La Panaderia de Chueca,0,马德里特罗,0.0,0.0,0.0
+面包甜点,La Romana gelateria,La Romana gelateria,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Café del Soul,Café del Soul,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Valdueza Pasteleria,Valdueza Pasteleria,0,利内阿尔城,0.0,0.0,0.0
+面包甜点,"Viena la Baguette, , 28004","Viena la Baguette, , 28004",0,马德里特罗,0.0,0.0,0.0
+面包甜点,Areia,Areia,0,马德里特罗,0.0,0.0,0.0
+面包甜点,La Rue,La Rue,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Mur Cafe,Mur Cafe,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Gelateria La Romana,Gelateria La Romana,0,贝里,0.0,0.0,0.0
+面包甜点,Hernani,Hernani,0,萨拉曼卡,0.0,0.0,0.0
+面包甜点,Datevita,Datevita,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Panaderia Museo Del Pan Gallego,Panaderia Museo Del Pan Gallego,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Feltman's Hot Dogs,Feltman's Hot Dogs,0,马德里特罗,0.0,0.0,0.0
+面包甜点,HELADERIA TUTTI FRUTTI,HELADERIA TUTTI FRUTTI,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Mistura,Mistura,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Breizh,Breizh,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Mallorca Pasteleria,Mallorca Pasteleria,0,得土安,0.0,0.0,0.0
+面包甜点,Nonna Pazza,Nonna Pazza,0,利内阿尔城,0.0,0.0,0.0
+面包甜点,Wicked Sweet Madrid,Wicked Sweet Madrid,0,其他,0.0,0.0,0.0
+面包甜点,Nurielle,Nurielle,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Sani Sapori,Sani Sapori,0,马德里特罗,0.0,0.0,0.0
+面包甜点,El Jardin del Convento,El Jardin del Convento,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Francis bakery,Francis bakery,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Cosmen & Keiless,Cosmen & Keiless,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Farggi Madrid,Farggi Madrid,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Heladeria Freddo,Heladeria Freddo,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Vicens,Vicens,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Uvepan,Uvepan,0,马德里特罗,0.0,0.0,0.0
+面包甜点,"Uvepan, Plaza de Canalejas, Madrid","Uvepan, Plaza de Canalejas, Madrid",0,马德里特罗,0.0,0.0,0.0
+面包甜点,Smooy Madrid,Smooy Madrid,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Martinez Bar,Martinez Bar,0,马德里特罗,0.0,0.0,0.0
+面包甜点,YOY - Chueca,YOY - Chueca,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Quadra Panis,Quadra Panis,0,贝里,0.0,0.0,0.0
+面包甜点,Mallorca Pasteleria,Mallorca Pasteleria,0,贝里,0.0,0.0,0.0
+面包甜点,Neguri,Neguri,0,贝里,0.0,0.0,0.0
+面包甜点,Buenas y Dulces,Buenas y Dulces,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+面包甜点,Audrey Bread and Coffee,Audrey Bread and Coffee,0,得土安,0.0,0.0,0.0
+面包甜点,Mallorca Pasteleria,Mallorca Pasteleria,0,查马丁火车站,0.0,0.0,0.0
+面包甜点,King Fruits,King Fruits,0,阿甘祖伊拉,0.0,0.0,0.0
+面包甜点,Mallorca Pasteleria,Mallorca Pasteleria,0,利内阿尔城,0.0,0.0,0.0
+面包甜点,Panaria Pacífico,Panaria Pacífico,0,雷蒂罗,0.0,0.0,0.0
+面包甜点,Pasteleria Nunos,Pasteleria Nunos,0,雷蒂罗,0.0,0.0,0.0
+面包甜点,Yogurcream,Yogurcream,0,雷蒂罗,0.0,0.0,0.0
+面包甜点,Migas Cafe,Migas Cafe,0,福塔雷萨,0.0,0.0,0.0
+面包甜点,Tommy Mel's,Tommy Mel's,0,福塔雷萨,0.0,0.0,0.0
+面包甜点,Horno San Antonio,Horno San Antonio,0,其他,0.0,0.0,0.0
+面包甜点,Cafeteria-Pasteleria Vara,Cafeteria-Pasteleria Vara,0,其他,0.0,0.0,0.0
+面包甜点,Canel Rols,Canel Rols,0,其他,0.0,0.0,0.0
+面包甜点,Taruffi,Taruffi,0,其他,0.0,0.0,0.0
+面包甜点,Jeff de Bruges,Jeff de Bruges,0,其他,0.0,0.0,0.0
+面包甜点,Pasteleria lazcano,Pasteleria lazcano,0,其他,0.0,0.0,0.0
+面包甜点,Desayunos Originales de Patty,Desayunos Originales de Patty,0,其他,0.0,0.0,0.0
+面包甜点,Va&Ven,Va&Ven,0,其他,0.0,0.0,0.0
+面包甜点,La Cervantina,La Cervantina,0,其他,0.0,0.0,0.0
+面包甜点,El Pastorcito,El Pastorcito,0,其他,0.0,0.0,0.0
+面包甜点,Nurielle,Nurielle,0,马德里特罗,0.0,0.0,0.0
+面包甜点,Gran Cafeteria Bar Restaurante Santander,Gran Cafeteria Bar Restaurante Santander,0,马德里特罗,0.0,0.0,0.0
+酒吧,聚点酒吧,聚点酒吧,0,,7.8,7.8,7.8
+酒吧,Palacios De ComuNicaciones(Roof Bar),Palacios De ComuNicaciones(Roof Bar),0,马德里特罗,6.9,6.9,6.9
+酒吧,Bar De La Ideal,Bar De La Ideal,0,马德里特罗,6.9,6.7,6.9
+酒吧,Casa MinGo,Casa MinGo,0,马德里特罗,6.7,6.9,7.0
+酒吧,"Casa Patas, Flamenco en Vivo","Casa Patas, Flamenco en Vivo",0,马德里特罗,0.0,0.0,0.0
+酒吧,Vinicola Mentridana,Vinicola Mentridana,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Trocha,La Trocha,0,马德里特罗,0.0,0.0,0.0
+酒吧,Op11 Taberna Frituur Belga,Op11 Taberna Frituur Belga,0,利内阿尔城,0.0,0.0,0.0
+酒吧,Naia,Naia,0,马德里特罗,0.0,0.0,0.0
+酒吧,dNorte,dNorte,0,马德里特罗,0.0,0.0,0.0
+酒吧,Pub Don Gregorio,Pub Don Gregorio,0,埃尔埃斯科里亚尔,0.0,0.0,0.0
+酒吧,Bar Restaurante La Ochava,Bar Restaurante La Ochava,0,其他,0.0,0.0,0.0
+酒吧,Sibara,Sibara,0,Majadahonda,0.0,0.0,0.0
+酒吧,Bar Restaurante Luque,Bar Restaurante Luque,0,比卡尔瓦罗,0.0,0.0,0.0
+酒吧,Cerveceria La Fuente,Cerveceria La Fuente,0,其他,0.0,0.0,0.0
+酒吧,James Joyce Irish Pub,James Joyce Irish Pub,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,La Misa de 8:00,La Misa de 8:00,0,马德里特罗,0.0,0.0,0.0
+酒吧,Las Tablas,Las Tablas,0,马德里特罗,0.0,0.0,0.0
+酒吧,Gran Cafe de Madrid,Gran Cafe de Madrid,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Tona,La Tona,0,马德里特罗,0.0,0.0,0.0
+酒吧,Petit Comite,Petit Comite,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Surena,La Surena,0,马德里特罗,0.0,0.0,0.0
+酒吧,El Rincon de Fogg,El Rincon de Fogg,0,雷蒂罗,0.0,0.0,0.0
+酒吧,Taberna Degusta,Taberna Degusta,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,a.n.E.l. Tapas & Lounge,a.n.E.l. Tapas & Lounge,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,El Galpon de Jose Luis,El Galpon de Jose Luis,0,阿尔科文达斯,0.0,0.0,0.0
+酒吧,Bar Museo Chicote,Bar Museo Chicote,0,马德里特罗,0.0,0.0,0.0
+酒吧,El Cisne-The Swan,El Cisne-The Swan,0,埃尔埃斯科里亚尔,0.0,0.0,0.0
+酒吧,La Via Lactea (,La Via Lactea (,0,马德里特罗,0.0,0.0,0.0
+酒吧,Club Joy Eslava,Club Joy Eslava,0,马德里特罗,0.0,0.0,0.0
+酒吧,Honky Tonk,Honky Tonk,0,贝里,0.0,0.0,0.0
+酒吧,El Anciano Rey de los Vinos,El Anciano Rey de los Vinos,0,其他,0.0,0.0,0.0
+酒吧,Sauna Balneario Paraiso,Sauna Balneario Paraiso,0,马德里特罗,0.0,0.0,0.0
+酒吧,Cerveceria Santa Ana,Cerveceria Santa Ana,0,马德里特罗,0.0,0.0,0.0
+酒吧,El Bistró del Teatro,El Bistró del Teatro,0,马德里特罗,0.0,0.0,0.0
+酒吧,Marula,Marula,0,马德里特罗,0.0,0.0,0.0
+酒吧,Partybus,Partybus,0,贝里,0.0,0.0,0.0
+酒吧,El Practico Brasserie,El Practico Brasserie,0,阿尔科文达斯,0.0,0.0,0.0
+酒吧,La Cruz Blanca,La Cruz Blanca,0,马德里特罗,0.0,0.0,0.0
+酒吧,Kialma,Kialma,0,福塔雷萨,0.0,0.0,0.0
+酒吧,Bar Arandinos-Pena,Bar Arandinos-Pena,0,,0.0,0.0,0.0
+酒吧,Bar La Peña,Bar La Peña,0,,0.0,0.0,0.0
+酒吧,Kapital,Kapital,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Vaca Veronica,La Vaca Veronica,0,马德里特罗,0.0,0.0,0.0
+酒吧,Gonzalez,Gonzalez,0,马德里特罗,0.0,0.0,0.0
+酒吧,Ole Lola,Ole Lola,0,马德里特罗,0.0,0.0,0.0
+酒吧,Variopintos,Variopintos,0,马德里特罗,0.0,0.0,0.0
+酒吧,Las Armonias de Palacio,Las Armonias de Palacio,0,马德里特罗,0.0,0.0,0.0
+酒吧,Diurno Restaurante & Bar,Diurno Restaurante & Bar,0,马德里特罗,0.0,0.0,0.0
+酒吧,Areia,Areia,0,马德里特罗,0.0,0.0,0.0
+酒吧,El Buey,El Buey,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,Taberna Quintaesencia,Taberna Quintaesencia,0,贝里,0.0,0.0,0.0
+酒吧,El Escaparate,El Escaparate,0,贝里,0.0,0.0,0.0
+酒吧,Bodegas Rosell,Bodegas Rosell,0,阿甘祖伊拉,0.0,0.0,0.0
+酒吧,Cafeteria HD,Cafeteria HD,0,Majadahonda,0.0,0.0,0.0
+酒吧,Club Arena,Club Arena,0,贝里,0.0,0.0,0.0
+酒吧,La Solea,La Solea,0,马德里特罗,0.0,0.0,0.0
+酒吧,Bar Graffiti,Bar Graffiti,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Fidula,La Fidula,0,马德里特罗,0.0,0.0,0.0
+酒吧,Matador,Matador,0,马德里特罗,0.0,0.0,0.0
+酒吧,Mesón de la Guitarra,Mesón de la Guitarra,0,马德里特罗,0.0,0.0,0.0
+酒吧,Saporem,Saporem,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Coquette,La Coquette,0,马德里特罗,0.0,0.0,0.0
+酒吧,Terraza Cibeles,Terraza Cibeles,0,马德里特罗,0.0,0.0,0.0
+酒吧,Cafe-Bar ,Cafe-Bar ,0,马德里特罗,0.0,0.0,0.0
+酒吧,Fabrica Maravillas,Fabrica Maravillas,0,马德里特罗,0.0,0.0,0.0
+酒吧,Bogui Jazz,Bogui Jazz,0,马德里特罗,0.0,0.0,0.0
+酒吧,In Situ,In Situ,0,马德里特罗,0.0,0.0,0.0
+酒吧,El Junco Jazz Club,El Junco Jazz Club,0,马德里特罗,0.0,0.0,0.0
+酒吧,Cafe La Palma,Cafe La Palma,0,马德里特罗,0.0,0.0,0.0
+酒吧,Cerveceria Thomas,Cerveceria Thomas,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,Cafeteria Colores,Cafeteria Colores,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,Pub Dreams,Pub Dreams,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+酒吧,El Reloj Cafe Bar,El Reloj Cafe Bar,0,其他,0.0,0.0,0.0
+酒吧,Ganz,Ganz,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Cueva de la Escalera de Jacob,La Cueva de la Escalera de Jacob,0,马德里特罗,0.0,0.0,0.0
+酒吧,Saporem Chueca,Saporem Chueca,0,其他,0.0,0.0,0.0
+酒吧,BONASERA,BONASERA,0,其他,0.0,0.0,0.0
+酒吧,Sauna Puerta de Toledo,Sauna Puerta de Toledo,0,马德里特罗,0.0,0.0,0.0
+酒吧,Kappa,Kappa,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Taberna Chica,La Taberna Chica,0,马德里特罗,0.0,0.0,0.0
+酒吧,El Mentidero café,El Mentidero café,0,马德里特罗,0.0,0.0,0.0
+酒吧,Salon de Te Sherazade,Salon de Te Sherazade,0,马德里特罗,0.0,0.0,0.0
+酒吧,Mmm Us,Mmm Us,0,马德里特罗,0.0,0.0,0.0
+酒吧,Cafe Populart,Cafe Populart,0,马德里特罗,0.0,0.0,0.0
+酒吧,Bar de la Comedia,Bar de la Comedia,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Boca del Lobo,La Boca del Lobo,0,马德里特罗,0.0,0.0,0.0
+酒吧,Madrid Clubers Tour,Madrid Clubers Tour,0,马德里特罗,0.0,0.0,0.0
+酒吧,Jamoneando,Jamoneando,0,马德里特罗,0.0,0.0,0.0
+酒吧,Tabata Bar De Copas,Tabata Bar De Copas,0,马德里特罗,0.0,0.0,0.0
+酒吧,1917 Blinis & Vodkas,1917 Blinis & Vodkas,0,马德里特罗,0.0,0.0,0.0
+酒吧,Cafe Galdos,Cafe Galdos,0,马德里特罗,0.0,0.0,0.0
+酒吧,Premium Sauna,Premium Sauna,0,马德里特罗,0.0,0.0,0.0
+酒吧,Moondance Club Madrid,Moondance Club Madrid,0,马德里特罗,0.0,0.0,0.0
+酒吧,100 Montesinos Madrid,100 Montesinos Madrid,0,马德里特罗,0.0,0.0,0.0
+酒吧,Oba-Oba,Oba-Oba,0,马德里特罗,0.0,0.0,0.0
+酒吧,Berlin Cafe,Berlin Cafe,0,马德里特罗,0.0,0.0,0.0
+酒吧,Rick's,Rick's,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Bardemcilla,La Bardemcilla,0,马德里特罗,0.0,0.0,0.0
+酒吧,Cruising,Cruising,0,马德里特罗,0.0,0.0,0.0
+酒吧,Jose Barbarroja Lopez,Jose Barbarroja Lopez,0,马德里特罗,0.0,0.0,0.0
+酒吧,The Fat Fish (El Pez Gordo),The Fat Fish (El Pez Gordo),0,马德里特罗,0.0,0.0,0.0
+酒吧,El Intruso,El Intruso,0,马德里特罗,0.0,0.0,0.0
+酒吧,la realidad,la realidad,0,马德里特罗,0.0,0.0,0.0
+酒吧,Big Bamboo,Big Bamboo,0,马德里特罗,0.0,0.0,0.0
+酒吧,Gambrinus,Gambrinus,0,马德里特罗,0.0,0.0,0.0
+酒吧,Speakeasy,Speakeasy,0,马德里特罗,0.0,0.0,0.0
+酒吧,Fabrica Museo de la Cerveza,Fabrica Museo de la Cerveza,0,马德里特罗,0.0,0.0,0.0
+酒吧,Drink Fino,Drink Fino,0,马德里特罗,0.0,0.0,0.0
+酒吧,Radar,Radar,0,马德里特罗,0.0,0.0,0.0
+酒吧,Ni Mu,Ni Mu,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,Taberna del Marqués,Taberna del Marqués,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,Metropolitan Cafe Lounge,Metropolitan Cafe Lounge,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,Pel Place,Pel Place,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,Bar Restaurante La Muralla Madrid,Bar Restaurante La Muralla Madrid,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,Clamores,Clamores,0,贝里,0.0,0.0,0.0
+酒吧,Downtown,Downtown,0,贝里,0.0,0.0,0.0
+酒吧,Lemmy Rock Bar,Lemmy Rock Bar,0,贝里,0.0,0.0,0.0
+酒吧,Boulevard Terraza,Boulevard Terraza,0,贝里,0.0,0.0,0.0
+酒吧,Galileo Galilei,Galileo Galilei,0,贝里,0.0,0.0,0.0
+酒吧,Taberna Las Toreras Madrid,Taberna Las Toreras Madrid,0,贝里,0.0,0.0,0.0
+酒吧,Segundo Jazz,Segundo Jazz,0,得土安,0.0,0.0,0.0
+酒吧,Gallo Azul Cervecería Restaurante,Gallo Azul Cervecería Restaurante,0,得土安,0.0,0.0,0.0
+酒吧,Moby Dick,Moby Dick,0,得土安,0.0,0.0,0.0
+酒吧,SkyNight Bar,SkyNight Bar,0,查马丁火车站,0.0,0.0,0.0
+酒吧,Balneario,Balneario,0,查马丁火车站,0.0,0.0,0.0
+酒吧,Small Coffe Drinks,Small Coffe Drinks,0,阿甘祖伊拉,0.0,0.0,0.0
+酒吧,100 Montaditos,100 Montaditos,0,阿甘祖伊拉,0.0,0.0,0.0
+酒吧,Donde Carlos Madrid,Donde Carlos Madrid,0,利内阿尔城,0.0,0.0,0.0
+酒吧,la Abadia,la Abadia,0,利内阿尔城,0.0,0.0,0.0
+酒吧,Kubo King,Kubo King,0,雷蒂罗,0.0,0.0,0.0
+酒吧,Retro Bar,Retro Bar,0,雷蒂罗,0.0,0.0,0.0
+酒吧,El Raton Vaquero,El Raton Vaquero,0,雷蒂罗,0.0,0.0,0.0
+酒吧,Vapor Blues,Vapor Blues,0,雷蒂罗,0.0,0.0,0.0
+酒吧,Chulapas Cafe,Chulapas Cafe,0,圣布拉斯,0.0,0.0,0.0
+酒吧,100 Montaditos,100 Montaditos,0,福塔雷萨,0.0,0.0,0.0
+酒吧,Bar Los Gutis,Bar Los Gutis,0,卡拉万切尔,0.0,0.0,0.0
+酒吧,La Surena,La Surena,0,其他,0.0,0.0,0.0
+酒吧,Cerveceria La Surena,Cerveceria La Surena,0,其他,0.0,0.0,0.0
+酒吧,La leyenda de oroquieta,La leyenda de oroquieta,0,其他,0.0,0.0,0.0
+酒吧,Hermanos Campa,Hermanos Campa,0,其他,0.0,0.0,0.0
+酒吧,La Malquerida,La Malquerida,0,其他,0.0,0.0,0.0
+酒吧,Bar Restaurante El Lindero,Bar Restaurante El Lindero,0,其他,0.0,0.0,0.0
+酒吧,Caura Gastro Bar,Caura Gastro Bar,0,其他,0.0,0.0,0.0
+酒吧,Cervecería La Virgen,Cervecería La Virgen,0,,0.0,0.0,0.0
+酒吧,Fisterra,Fisterra,0,,0.0,0.0,0.0
+酒吧,Jaime Siempre Miente Se Llama Patricio,Jaime Siempre Miente Se Llama Patricio,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Barra Del Rincon,La Barra Del Rincon,0,其他,0.0,0.0,0.0
+酒吧,Tri Nations Craft Beer Factory,Tri Nations Craft Beer Factory,0,其他,0.0,0.0,0.0
+酒吧,Canas y Tapas,Canas y Tapas,0,其他,0.0,0.0,0.0
+酒吧,Bar Hnos. Rodriguez,Bar Hnos. Rodriguez,0,其他,0.0,0.0,0.0
+酒吧,Cafeteria El Monasterio,Cafeteria El Monasterio,0,其他,0.0,0.0,0.0
+酒吧,La Vieja Estaciòn,La Vieja Estaciòn,0,马德里特罗,0.0,0.0,0.0
+酒吧,Vendetta,Vendetta,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Tomasa Madrid,La Tomasa Madrid,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Maripepa,La Maripepa,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Perla Lounge Bar,La Perla Lounge Bar,0,马德里特罗,0.0,0.0,0.0
+酒吧,Bar Los Arcos Madrid,Bar Los Arcos Madrid,0,马德里特罗,0.0,0.0,0.0
+酒吧,Sol y Sombra,Sol y Sombra,0,马德里特罗,0.0,0.0,0.0
+酒吧,O'Conell St. Bar,O'Conell St. Bar,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Zapateria,La Zapateria,0,马德里特罗,0.0,0.0,0.0
+酒吧,#NAME?,#NAME?,0,马德里特罗,0.0,0.0,0.0
+酒吧,El Pellizquito,El Pellizquito,0,马德里特罗,0.0,0.0,0.0
+酒吧,TClub,TClub,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Petite Mort,La Petite Mort,0,萨拉曼卡,0.0,0.0,0.0
+酒吧,Penelope Madrid,Penelope Madrid,0,贝里,0.0,0.0,0.0
+酒吧,Ciudad de Brujas,Ciudad de Brujas,0,查马丁火车站,0.0,0.0,0.0
+酒吧,La Buena Dicha,La Buena Dicha,0,查马丁火车站,0.0,0.0,0.0
+酒吧,Space of Sound,Space of Sound,0,查马丁火车站,0.0,0.0,0.0
+酒吧,5 Por 5,5 Por 5,0,阿甘祖伊拉,0.0,0.0,0.0
+酒吧,Sala Caracol,Sala Caracol,0,阿甘祖伊拉,0.0,0.0,0.0
+酒吧,Cafe Piero Madrid,Cafe Piero Madrid,0,雷蒂罗,0.0,0.0,0.0
+酒吧,La Sala,La Sala,0,卡拉万切尔,0.0,0.0,0.0
+酒吧,Arroceria Mediterraneo,Arroceria Mediterraneo,0,,0.0,0.0,0.0
+酒吧,Garber,Garber,0,其他,0.0,0.0,0.0
+酒吧,Taberna Lifara,Taberna Lifara,0,其他,0.0,0.0,0.0
+酒吧,La Peña,La Peña,0,阿甘祖伊拉,0.0,0.0,0.0
+酒吧,Xocoa,Xocoa,0,马德里特罗,0.0,0.0,0.0
+酒吧,EL BOTAS,EL BOTAS,0,马德里特罗,0.0,0.0,0.0
+酒吧,Cafe Olmo,Cafe Olmo,0,马德里特罗,0.0,0.0,0.0
+酒吧,Le Petit Bistrot Matute,Le Petit Bistrot Matute,0,马德里特罗,0.0,0.0,0.0
+酒吧,La Pizarra,La Pizarra,0,马德里特罗,0.0,0.0,0.0
+酒吧,Taberna del Marciano,Taberna del Marciano,0,马德里特罗,0.0,0.0,0.0
+酒吧,Bukowski Club,Bukowski Club,0,马德里特罗,0.0,0.0,0.0
+酒吧,Pub El Cuervo,Pub El Cuervo,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+酒吧,"Be Bop A Lula 50's diner, bar & grill","Be Bop A Lula 50's diner, bar & grill",0,其他,0.0,0.0,0.0
+酒吧,UrBan Hotel's Glass Bar,UrBan Hotel's Glass Bar,0,马德里特罗,0.0,0.0,0.0
+更多美食,Mercado de San Miguel,Mercado de San Miguel,0,马德里特罗,8.1,7.9,7.9
+更多美食,Asador Donostiarra,Asador Donostiarra,0,得土安,8.2,7.9,8.4
+更多美食,Tapa Tapa,Tapa Tapa,0,马德里特罗,6.8,7.2,7.2
+更多美食,Sanabria,Sanabria,0,马德里特罗,7.5,7.5,7.5
+更多美食,La Mar del Alabardero,La Mar del Alabardero,0,马德里特罗,5.9,6.3,5.4
+更多美食,Cerveceria Cuenca,Cerveceria Cuenca,0,格塔菲,0.0,0.0,0.0
+更多美食,Cafe Gijon,Cafe Gijon,0,马德里特罗,7.1,7.1,7.1
+更多美食,Casa Luciano,Casa Luciano,0,马德里特罗,5.9,6.7,6.1
+更多美食,La Tragantua,La Tragantua,0,马德里特罗,8.4,8.4,8.4
+更多美食,Horno de asar paco,Horno de asar paco,0,其他,0.0,0.0,0.0
+更多美食,Perlora,Perlora,0,马德里特罗,7.6,7.6,7.6
+更多美食,La Tasquita de Enfrente,La Tasquita de Enfrente,0,马德里特罗,8.1,8.1,7.4
+更多美食,Santceloni,Santceloni,0,贝里,7.7,7.2,7.7
+更多美食,Gourmet Experience Gran Via,Gourmet Experience Gran Via,0,马德里特罗,7.1,7.1,7.1
+更多美食,O,O,0,,8.4,8.4,8.4
+更多美食,Moniberic,Moniberic,0,贝里,8.2,8.2,8.2
+更多美食,Restaurante Padron,Restaurante Padron,0,马德里特罗,6.8,7.1,7.1
+更多美食,La Mafia SE Senta a la Mesa,La Mafia SE Senta a la Mesa,0,马德里特罗,8.3,7.4,7.4
+更多美食,Restaurante More,Restaurante More,0,萨拉曼卡,8.4,6.7,8.4
+更多美食,Museo del Jamon,Museo del Jamon,0,马德里特罗,7.3,7.3,7.3
+更多美食,mercado san miguel,mercado san miguel,0,,7.3,7.3,7.3
+更多美食,Meson del Champinon,Meson del Champinon,0,马德里特罗,7.1,7.1,7.1
+更多美食,El Urogallo,El Urogallo,0,其他,8.4,8.4,8.4
+更多美食,Dehesa Santa Maria,Dehesa Santa Maria,0,马德里特罗,7.1,7.1,7.1
+更多美食,Marrush,Marrush,0,马德里特罗,7.1,7.1,7.1
+更多美食,El Rey de Tallarines,El Rey de Tallarines,0,马德里特罗,6.8,6.8,6.8
+更多美食,Cafe Comercial,Cafe Comercial,0,马德里特罗,7.5,6.7,7.5
+更多美食,GIANGROSSI Helado Artesanal,GIANGROSSI Helado Artesanal,0,萨拉曼卡,8.0,7.3,7.3
+更多美食,Las Tortillas de Gabino,Las Tortillas de Gabino,0,贝里,7.3,7.3,8.0
+更多美食,Cuarto y Mitad,Cuarto y Mitad,0,查马丁火车站,7.4,6.7,7.4
+更多美食,Abrasador Casa Benito,Abrasador Casa Benito,0,,0.0,0.0,0.0
+更多美食,Casa Brisas,Casa Brisas,0,其他,0.0,0.0,0.0
+更多美食,El Corte Ingles,El Corte Ingles,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante El Gaitero,Restaurante El Gaitero,0,马德里特罗,7.1,7.1,7.1
+更多美食,El sabroso,El sabroso,0,马德里特罗,6.8,7.1,7.1
+更多美食,Jinjin,Jinjin,0,马德里特罗,6.8,6.8,6.8
+更多美食,Taco Bell,Taco Bell,0,贝里,6.8,6.8,6.8
+更多美食,Rodilla,Rodilla,0,马德里特罗,6.8,6.8,6.8
+更多美食,El Caballito,El Caballito,0,马德里特罗,6.7,7.4,7.4
+更多美食,Viejo Madrid,Viejo Madrid,0,马德里特罗,6.4,6.4,6.4
+更多美食,Goya Restaurant,Goya Restaurant,0,雷蒂罗,0.0,0.0,0.0
+更多美食,El Club Allard,El Club Allard,0,其他,0.0,0.0,0.0
+更多美食,Txirimiri,Txirimiri,0,马德里特罗,0.0,0.0,0.0
+更多美食,Estado Puro,Estado Puro,0,马德里特罗,0.0,0.0,0.0
+更多美食,Esteban,Esteban,0,马德里特罗,0.0,0.0,0.0
+更多美食,Sergi Arola Gastro,Sergi Arola Gastro,0,贝里,0.0,0.0,0.0
+更多美食,Restaurante El Puntito,Restaurante El Puntito,0,其他,0.0,0.0,0.0
+更多美食,Montia,Montia,0,埃尔埃斯科里亚尔,0.0,0.0,0.0
+更多美食,Casa Santa Cruz,Casa Santa Cruz,0,马德里特罗,0.0,0.0,0.0
+更多美食,Vinoteca Vides,Vinoteca Vides,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Ciaboga,La Ciaboga,0,科斯拉达,0.0,0.0,0.0
+更多美食,Ancla,Ancla,0,埃尔埃斯科里亚尔,0.0,0.0,0.0
+更多美食,La Musa,La Musa,0,马德里特罗,0.0,0.0,0.0
+更多美食,Taberna Gastromaquia,Taberna Gastromaquia,0,马德里特罗,0.0,0.0,0.0
+更多美食,Ten Con Ten,Ten Con Ten,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Atocha,Atocha,0,马德里特罗,0.0,0.0,0.0
+更多美食,Edulis,Edulis,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Gastro croqueteria de Chema,La Gastro croqueteria de Chema,0,其他,0.0,0.0,0.0
+更多美食,Casa Revuelta,Casa Revuelta,0,马德里特罗,0.0,0.0,0.0
+更多美食,Metro Bistro - Plaza Mayor,Metro Bistro - Plaza Mayor,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Gabinoteca,La Gabinoteca,0,贝里,0.0,0.0,0.0
+更多美食,Artemisa,Artemisa,0,马德里特罗,0.0,0.0,0.0
+更多美食,Mallorca,Mallorca,0,其他,0.0,0.0,0.0
+更多美食,El Corte Ingles,El Corte Ingles,0,马德里特罗,0.0,0.0,0.0
+更多美食,Tablao Flamenco Villa Rosa,Tablao Flamenco Villa Rosa,0,马德里特罗,0.0,0.0,0.0
+更多美食,Gastrobar Le Cabrera,Gastrobar Le Cabrera,0,马德里特罗,0.0,0.0,0.0
+更多美食,Goizeko Wellington,Goizeko Wellington,0,其他,0.0,0.0,0.0
+更多美食,Cerveceria 100 Montaditos,Cerveceria 100 Montaditos,0,马德里特罗,0.0,0.0,0.0
+更多美食,Kebapchi Jalo,Kebapchi Jalo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Orbayo,Orbayo,0,埃尔埃斯科里亚尔,0.0,0.0,0.0
+更多美食,Tierra Del Queiles,Tierra Del Queiles,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Chiron,Chiron,0,其他,0.0,0.0,0.0
+更多美食,La Partida,La Partida,0,其他,0.0,0.0,0.0
+更多美食,La Cabana,La Cabana,0,其他,0.0,0.0,0.0
+更多美食,Finca La Hacienda,Finca La Hacienda,0,其他,0.0,0.0,0.0
+更多美食,L´Etoile,L´Etoile,0,查马丁火车站,0.0,0.0,0.0
+更多美食,La Chicha,La Chicha,0,,0.0,0.0,0.0
+更多美食,La Manzana,La Manzana,0,贝里,0.0,0.0,0.0
+更多美食,Las Tejas,Las Tejas,0,,0.0,0.0,0.0
+更多美食,Casa Luis,Casa Luis,0,其他,0.0,0.0,0.0
+更多美食,El Vagon de Beni,El Vagon de Beni,0,其他,0.0,0.0,0.0
+更多美食,Maruja,Maruja,0,其他,0.0,0.0,0.0
+更多美食,Eiffel,Eiffel,0,其他,0.0,0.0,0.0
+更多美食,El Viejo Fogon,El Viejo Fogon,0,Majadahonda,0.0,0.0,0.0
+更多美食,El Tormo,El Tormo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante Parra,Restaurante Parra,0,其他,0.0,0.0,0.0
+更多美食,Chocolateria San Gines,Chocolateria San Gines,0,马德里特罗,0.0,0.0,0.0
+更多美食,Puerta 57,Puerta 57,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Macadamia,Macadamia,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Cafe Melo's,Cafe Melo's,0,马德里特罗,0.0,0.0,0.0
+更多美食,Piscomar Restaurante Cebicheria,Piscomar Restaurante Cebicheria,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Cerveceria Cervantes,Cerveceria Cervantes,0,马德里特罗,0.0,0.0,0.0
+更多美食,Desengano 13,Desengano 13,0,马德里特罗,0.0,0.0,0.0
+更多美食,Teitu,Teitu,0,得土安,0.0,0.0,0.0
+更多美食,Street-Xo,Street-Xo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Nippon 2,Nippon 2,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cafe Varela,Cafe Varela,0,马德里特罗,0.0,0.0,0.0
+更多美食,De Maria - Parrilla El Gaucho,De Maria - Parrilla El Gaucho,0,马德里特罗,0.0,0.0,0.0
+更多美食,Matilda Cafe Cantina,Matilda Cafe Cantina,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurant Dudua,Restaurant Dudua,0,其他,0.0,0.0,0.0
+更多美食,Asador de Aranda,Asador de Aranda,0,马德里特罗,0.0,0.0,0.0
+更多美食,Extremadura,Extremadura,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Castela,La Castela,0,雷蒂罗,0.0,0.0,0.0
+更多美食,La Musa Latina,La Musa Latina,0,马德里特罗,0.0,0.0,0.0
+更多美食,Lounge Bar Las Letras,Lounge Bar Las Letras,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Pato Mudo,El Pato Mudo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Lamucca de Pez,Lamucca de Pez,0,马德里特罗,0.0,0.0,0.0
+更多美食,Taberna Balkanica,Taberna Balkanica,0,利内阿尔城,0.0,0.0,0.0
+更多美食,El Artesano,El Artesano,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Arroceria Mediterraneo,Restaurante Arroceria Mediterraneo,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,de Sol,de Sol,0,马德里特罗,0.0,0.0,0.0
+更多美食,Jota Cinco,Jota Cinco,0,圣布拉斯,0.0,0.0,0.0
+更多美食,Naomi,Naomi,0,得土安,0.0,0.0,0.0
+更多美食,Restaurante Castilla,Restaurante Castilla,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,Hotel Regina Restaurant,Hotel Regina Restaurant,0,马德里特罗,0.0,0.0,0.0
+更多美食,St. Louis Steak House & Sport's Cafe,St. Louis Steak House & Sport's Cafe,0,其他,0.0,0.0,0.0
+更多美食,La Cevicucheria,La Cevicucheria,0,雷蒂罗,0.0,0.0,0.0
+更多美食,La Cuina Restaurante,La Cuina Restaurante,0,圣布拉斯,0.0,0.0,0.0
+更多美食,Juana La Loca,Juana La Loca,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Labriego,El Labriego,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Fondue de Vinaroz 28,La Fondue de Vinaroz 28,0,查马丁火车站,0.0,0.0,0.0
+更多美食,El Llagar,El Llagar,0,圣布拉斯,0.0,0.0,0.0
+更多美食,Al Natural,Al Natural,0,,0.0,0.0,0.0
+更多美食,El Lacon,El Lacon,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Vaca Picada 3,La Vaca Picada 3,0,其他,0.0,0.0,0.0
+更多美食,La Ideal,La Ideal,0,马德里特罗,0.0,0.0,0.0
+更多美食,"Ouh,Babbo!","Ouh,Babbo!",0,马德里特罗,0.0,0.0,0.0
+更多美食,La Mucca,La Mucca,0,马德里特罗,0.0,0.0,0.0
+更多美食,Las Carboneras,Las Carboneras,0,马德里特罗,0.0,0.0,0.0
+更多美食,Panela & Co,Panela & Co,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Forno Minutas,Forno Minutas,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Schotis,El Schotis,0,马德里特罗,0.0,0.0,0.0
+更多美食,Mezklum,Mezklum,0,马德里特罗,0.0,0.0,0.0
+更多美食,De Maria Preciados,De Maria Preciados,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Gustava,La Gustava,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante Canadio,Restaurante Canadio,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Ciudad Invisible,La Ciudad Invisible,0,其他,0.0,0.0,0.0
+更多美食,Otro Jerezano,Otro Jerezano,0,其他,0.0,0.0,0.0
+更多美食,El Lando,El Lando,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Oreja de Jaime,La Oreja de Jaime,0,马德里特罗,0.0,0.0,0.0
+更多美食,Urrechu,Urrechu,0,利内阿尔城,0.0,0.0,0.0
+更多美食,La arroceria de Maria,La arroceria de Maria,0,利内阿尔城,0.0,0.0,0.0
+更多美食,Queen restaurant and lounge,Queen restaurant and lounge,0,其他,0.0,0.0,0.0
+更多美食,Casa Gallega,Casa Gallega,0,马德里特罗,0.0,0.0,0.0
+更多美食,los Timbales,los Timbales,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Casa Doli,Casa Doli,0,其他,0.0,0.0,0.0
+更多美食,El Mollete,El Mollete,0,马德里特罗,0.0,0.0,0.0
+更多美食,Afternoon Tea at the Lobby Bar,Afternoon Tea at the Lobby Bar,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Restaurante La Mi Venta,Restaurante La Mi Venta,0,马德里特罗,0.0,0.0,0.0
+更多美食,Jardin de Fenix,Jardin de Fenix,0,其他,0.0,0.0,0.0
+更多美食,La Curruteka Bar,La Curruteka Bar,0,马德里特罗,0.0,0.0,0.0
+更多美食,Matute 12,Matute 12,0,马德里特罗,0.0,0.0,0.0
+更多美食,East 47,East 47,0,马德里特罗,0.0,0.0,0.0
+更多美食,Del Diego,Del Diego,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Gaucho,El Gaucho,0,马德里特罗,0.0,0.0,0.0
+更多美食,Baobab,Baobab,0,马德里特罗,0.0,0.0,0.0
+更多美食,Parrondo,Parrondo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bar Postas,Bar Postas,0,马德里特罗,0.0,0.0,0.0
+更多美食,Sol,Sol,0,利内阿尔城,0.0,0.0,0.0
+更多美食,Starbucks Coffe,Starbucks Coffe,0,其他,0.0,0.0,0.0
+更多美食,Luarques,Luarques,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Barril de Recoletos,El Barril de Recoletos,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Taberna De Moncloa,La Taberna De Moncloa,0,贝里,0.0,0.0,0.0
+更多美食,Restaurante el 31,Restaurante el 31,0,雷蒂罗,0.0,0.0,0.0
+更多美食,La Andaluza,La Andaluza,0,其他,0.0,0.0,0.0
+更多美食,La Mordida,La Mordida,0,马德里特罗,0.0,0.0,0.0
+更多美食,Asador Real,Asador Real,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bar Cock,Bar Cock,0,马德里特罗,0.0,0.0,0.0
+更多美食,Sahara,Sahara,0,马德里特罗,0.0,0.0,0.0
+更多美食,Como Me Lo Como,Como Me Lo Como,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bar Restaurante Eguinoa,Bar Restaurante Eguinoa,0,贝里,0.0,0.0,0.0
+更多美食,El Coto del Casar,El Coto del Casar,0,查马丁火车站,0.0,0.0,0.0
+更多美食,EL Rompido Cervecerias EL Quinto SL,EL Rompido Cervecerias EL Quinto SL,0,其他,0.0,0.0,0.0
+更多美食,Hotel Mora Restaurant,Hotel Mora Restaurant,0,马德里特罗,0.0,0.0,0.0
+更多美食,Ten con Ten,Ten con Ten,0,马德里特罗,0.0,0.0,0.0
+更多美食,Puerta 57,Puerta 57,0,其他,0.0,0.0,0.0
+更多美食,Cafe Gran Via,Cafe Gran Via,0,马德里特罗,0.0,0.0,0.0
+更多美食,Ramses by Starck,Ramses by Starck,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Don Paco,Don Paco,0,马德里特罗,0.0,0.0,0.0
+更多美食,Pepita Pulgarcita de Madrid,Pepita Pulgarcita de Madrid,0,其他,0.0,0.0,0.0
+更多美食,Sake,Sake,0,利内阿尔城,0.0,0.0,0.0
+更多美食,Alino,Alino,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Tagliatella,La Tagliatella,0,得土安,0.0,0.0,0.0
+更多美食,Martinete,Martinete,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Flor de las Asturias,La Flor de las Asturias,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Restaurante Goteron,Restaurante Goteron,0,圣布拉斯,0.0,0.0,0.0
+更多美食,Pisco 41,Pisco 41,0,马德里特罗,0.0,0.0,0.0
+更多美食,Das Meigas,Das Meigas,0,马德里特罗,0.0,0.0,0.0
+更多美食,Salon de Te Vailima,Salon de Te Vailima,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Buenas y Santas,Buenas y Santas,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Casa Mira,Casa Mira,0,马德里特罗,0.0,0.0,0.0
+更多美食,Yakitoro,Yakitoro,0,其他,0.0,0.0,0.0
+更多美食,Heladeria Ricci,Heladeria Ricci,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Forja de Sesnandez,La Forja de Sesnandez,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Corte Ingles,El Corte Ingles,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Restaurante El Botanico,Restaurante El Botanico,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Hylogui,Hylogui,0,其他,0.0,0.0,0.0
+更多美食,The Irish Rover,The Irish Rover,0,得土安,0.0,0.0,0.0
+更多美食,El Acueducto Segoviano,El Acueducto Segoviano,0,雷蒂罗,0.0,0.0,0.0
+更多美食,La Vaca Picada Las Tablas,La Vaca Picada Las Tablas,0,其他,0.0,0.0,0.0
+更多美食,Jardin Metropolitano,Jardin Metropolitano,0,贝里,0.0,0.0,0.0
+更多美食,Casa Tinin,Casa Tinin,0,得土安,0.0,0.0,0.0
+更多美食,Restaurante Fulitu,Restaurante Fulitu,0,利内阿尔城,0.0,0.0,0.0
+更多美食,El Parnasillo,El Parnasillo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Goizeko Wellington,Goizeko Wellington,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Tgi Friday's,Tgi Friday's,0,得土安,0.0,0.0,0.0
+更多美食,Restaurante de la terraza del Hotel Ada Palace,Restaurante de la terraza del Hotel Ada Palace,0,马德里特罗,0.0,0.0,0.0
+更多美食,Kitchen Club,Kitchen Club,0,马德里特罗,0.0,0.0,0.0
+更多美食,caffeteria museo Thyssen Bornemisza,caffeteria museo Thyssen Bornemisza,0,马德里特罗,0.0,0.0,0.0
+更多美食,Ginos,Ginos,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Paisano,El Paisano,0,贝里,0.0,0.0,0.0
+更多美食,Harina,Harina,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Whitby,Whitby,0,贝里,0.0,0.0,0.0
+更多美食,Restaurante Mamma Juana,Restaurante Mamma Juana,0,圣布拉斯,0.0,0.0,0.0
+更多美食,Botelleria El Anden,Botelleria El Anden,0,艾甘达德勒依,0.0,0.0,0.0
+更多美食,El Escudo del Cerrillo,El Escudo del Cerrillo,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,La Perola,La Perola,0,其他,0.0,0.0,0.0
+更多美食,La Sopa Boba,La Sopa Boba,0,其他,0.0,0.0,0.0
+更多美食,La Torre,La Torre,0,,0.0,0.0,0.0
+更多美食,Madrid-Sevilla,Madrid-Sevilla,0,,0.0,0.0,0.0
+更多美食,Meson de Ana,Meson de Ana,0,其他,0.0,0.0,0.0
+更多美食,Meson Los Conejos,Meson Los Conejos,0,,0.0,0.0,0.0
+更多美食,Mimo,Mimo,0,其他,0.0,0.0,0.0
+更多美食,Onneca,Onneca,0,,0.0,0.0,0.0
+更多美食,Orecanto,Orecanto,0,圣塞瓦斯蒂安,0.0,0.0,0.0
+更多美食,Rincon de Rafa,Rincon de Rafa,0,,0.0,0.0,0.0
+更多美食,Casa Aragon,Casa Aragon,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Alpunto,Alpunto,0,得土安,0.0,0.0,0.0
+更多美食,Hesperia Madrid,Hesperia Madrid,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Llao Llao,Llao Llao,0,其他,0.0,0.0,0.0
+更多美食,Tse Yang Dim Sum Club,Tse Yang Dim Sum Club,0,其他,0.0,0.0,0.0
+更多美食,Gula Gula,Gula Gula,0,马德里特罗,0.0,0.0,0.0
+更多美食,La buga del lobo,La buga del lobo,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Senda de Xiquena,La Senda de Xiquena,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Tasca Suprema,La Tasca Suprema,0,马德里特罗,0.0,0.0,0.0
+更多美食,Tartuffo,Tartuffo,0,卡拉万切尔,0.0,0.0,0.0
+更多美食,La Boheme,La Boheme,0,阿拉瓦卡,0.0,0.0,0.0
+更多美食,La Perfida Albion,La Perfida Albion,0,其他,0.0,0.0,0.0
+更多美食,Casa Zoilo,Casa Zoilo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bar Salamanca,Bar Salamanca,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Solera,La Solera,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Taberna de Padilla,La Taberna de Padilla,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Restaurante La Dehesa Ii,Restaurante La Dehesa Ii,0,雷蒂罗,0.0,0.0,0.0
+更多美食,las Costillas,las Costillas,0,其他,0.0,0.0,0.0
+更多美食,Casa Felipe,Casa Felipe,0,其他,0.0,0.0,0.0
+更多美食,La Huerta de Casa Ricardo,La Huerta de Casa Ricardo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cafe de los Austrias,Cafe de los Austrias,0,马德里特罗,0.0,0.0,0.0
+更多美食,Casa de La Cerveza,Casa de La Cerveza,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Hispano bar Buffet,Hispano bar Buffet,0,贝里,0.0,0.0,0.0
+更多美食,Ribs La Casa de Las Costillas,Ribs La Casa de Las Costillas,0,利内阿尔城,0.0,0.0,0.0
+更多美食,Restaurante Gran Jardin Feliz,Restaurante Gran Jardin Feliz,0,利内阿尔城,0.0,0.0,0.0
+更多美食,Restaurante Los Mariscos,Restaurante Los Mariscos,0,其他,0.0,0.0,0.0
+更多美食,Luso,Luso,0,其他,0.0,0.0,0.0
+更多美食,Meson Ronda De Atocha,Meson Ronda De Atocha,0,马德里特罗,0.0,0.0,0.0
+更多美食,Casa de Granada,Casa de Granada,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante Taj Indian Restaurant,Restaurante Taj Indian Restaurant,0,马德里特罗,0.0,0.0,0.0
+更多美食,Tele Pescaito,Tele Pescaito,0,利内阿尔城,0.0,0.0,0.0
+更多美食,Cerveceria Goteron 2 SL.,Cerveceria Goteron 2 SL.,0,圣布拉斯,0.0,0.0,0.0
+更多美食,Cafeteria La Llave De Oro,Cafeteria La Llave De Oro,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Restaurante Victoria,Restaurante Victoria,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Cafeteria Cesar Las Ventas,Cafeteria Cesar Las Ventas,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Mcdonald's,Mcdonald's,0,贝里,0.0,0.0,0.0
+更多美食,303 Gin Bar,303 Gin Bar,0,利内阿尔城,0.0,0.0,0.0
+更多美食,Restaurante Petri,Restaurante Petri,0,福塔雷萨,0.0,0.0,0.0
+更多美食,Jardin Feliz,Jardin Feliz,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Fumarola,La Fumarola,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,El Martin Pescador,El Martin Pescador,0,利内阿尔城,0.0,0.0,0.0
+更多美食,Restaurante Chino Victoria,Restaurante Chino Victoria,0,圣布拉斯,0.0,0.0,0.0
+更多美食,La Taberna de Liria,La Taberna de Liria,0,马德里特罗,0.0,0.0,0.0
+更多美食,Casa Pepe,Casa Pepe,0,其他,0.0,0.0,0.0
+更多美食,Pagasarri Restaurante,Pagasarri Restaurante,0,马德里特罗,0.0,0.0,0.0
+更多美食,Reinosa,Reinosa,0,其他,0.0,0.0,0.0
+更多美食,El Brillante,El Brillante,0,马德里特罗,0.0,0.0,0.0
+更多美食,Pecaditos,Pecaditos,0,其他,0.0,0.0,0.0
+更多美食,Bar Galleta,Bar Galleta,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Chincha Internacional,Restaurante Chincha Internacional,0,其他,0.0,0.0,0.0
+更多美食,El Nuevo Foque,El Nuevo Foque,0,其他,0.0,0.0,0.0
+更多美食,Sumo,Sumo,0,其他,0.0,0.0,0.0
+更多美食,Hotel Indigo Restaurant,Hotel Indigo Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Tao Pozuelo,Tao Pozuelo,0,其他,0.0,0.0,0.0
+更多美食,El Dinosaurio Todavia Estaba Alli,El Dinosaurio Todavia Estaba Alli,0,其他,0.0,0.0,0.0
+更多美食,Itohi,Itohi,0,其他,0.0,0.0,0.0
+更多美食,Rustika Cafe Tapas and Gin,Rustika Cafe Tapas and Gin,0,其他,0.0,0.0,0.0
+更多美食,Toledo,Toledo,0,其他,0.0,0.0,0.0
+更多美食,Dominio de Antargu,Dominio de Antargu,0,马德里特罗,0.0,0.0,0.0
+更多美食,Vacas,Vacas,0,马德里特罗,0.0,0.0,0.0
+更多美食,Los Porfiados,Los Porfiados,0,马德里特罗,0.0,0.0,0.0
+更多美食,Sanlucar,Sanlucar,0,马德里特罗,0.0,0.0,0.0
+更多美食,Tempranillo,Tempranillo,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Camarilla,La Camarilla,0,马德里特罗,0.0,0.0,0.0
+更多美食,Taberna Txakolina,Taberna Txakolina,0,马德里特罗,0.0,0.0,0.0
+更多美食,Viva la Vida,Viva la Vida,0,马德里特罗,0.0,0.0,0.0
+更多美食,Moratin Vinoteca Bistrot,Moratin Vinoteca Bistrot,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Plateria,La Plateria,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Estragon Vegetariano,El Estragon Vegetariano,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cafe Belle Bonbon,Cafe Belle Bonbon,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cafe El Diario,Cafe El Diario,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Rabano,El Rabano,0,马德里特罗,0.0,0.0,0.0
+更多美食,Miranda,Miranda,0,马德里特罗,0.0,0.0,0.0
+更多美食,Negro de Anglona,Negro de Anglona,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Dolores,La Dolores,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Corte Del Buongustaio,La Corte Del Buongustaio,0,马德里特罗,0.0,0.0,0.0
+更多美食,Korgui,Korgui,0,马德里特罗,0.0,0.0,0.0
+更多美食,Central Cafe,Central Cafe,0,马德里特罗,0.0,0.0,0.0
+更多美食,Diabolo,Diabolo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Casa Pueblo,Casa Pueblo,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Pimiento Verde,El Pimiento Verde,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Capilla de la Bolsa,La Capilla de la Bolsa,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Mayor,La Mayor,0,马德里特罗,0.0,0.0,0.0
+更多美食,emma cocina,emma cocina,0,马德里特罗,0.0,0.0,0.0
+更多美食,Rock and Roll Madrid,Rock and Roll Madrid,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Negra Tomasa,La Negra Tomasa,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Inti de Oro,El Inti de Oro,0,马德里特罗,0.0,0.0,0.0
+更多美食,Matador,Matador,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Venencia,La Venencia,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Escarpin,El Escarpin,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Rincon de Esteban,El Rincon de Esteban,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Gastroteca de Santiago,La Gastroteca de Santiago,0,马德里特罗,0.0,0.0,0.0
+更多美食,Antigua Pasteleria del Pozo,Antigua Pasteleria del Pozo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Las Uvas Dulces,Las Uvas Dulces,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Riojano,El Riojano,0,马德里特罗,0.0,0.0,0.0
+更多美食,Glass Bar,Glass Bar,0,马德里特罗,0.0,0.0,0.0
+更多美食,Lucca,Lucca,0,马德里特罗,0.0,0.0,0.0
+更多美食,A Cantinella,A Cantinella,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Vega del Arte,La Vega del Arte,0,马德里特罗,0.0,0.0,0.0
+更多美食,Fusiones,Fusiones,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bangkok Cafe,Bangkok Cafe,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Mandela,El Mandela,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Paraiso Del Jamon,El Paraiso Del Jamon,0,马德里特罗,0.0,0.0,0.0
+更多美食,De María Ópera,De María Ópera,0,马德里特罗,0.0,0.0,0.0
+更多美食,Teatro Real,Teatro Real,0,马德里特罗,0.0,0.0,0.0
+更多美食,MEP,MEP,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Cafe de La Opera,El Cafe de La Opera,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cornucopia,Cornucopia,0,马德里特罗,0.0,0.0,0.0
+更多美食,AL TRAPO,AL TRAPO,0,马德里特罗,0.0,0.0,0.0
+更多美食,Mashita,Mashita,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Abrazo de Vergara,El Abrazo de Vergara,0,马德里特罗,0.0,0.0,0.0
+更多美食,Momo,Momo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurantes El Buey,Restaurantes El Buey,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Ingenio,El Ingenio,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante Juan & Juan,Restaurante Juan & Juan,0,马德里特罗,0.0,0.0,0.0
+更多美食,Babel,Babel,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bar 13,Bar 13,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Kitchen,La Kitchen,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Bogavante de Almirante,El Bogavante de Almirante,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Casa Dei Pazzi,La Casa Dei Pazzi,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Pescaderia,La Pescaderia,0,马德里特罗,0.0,0.0,0.0
+更多美食,Pizza al Cuadrado,Pizza al Cuadrado,0,马德里特罗,0.0,0.0,0.0
+更多美食,Vegaviana,Vegaviana,0,马德里特罗,0.0,0.0,0.0
+更多美食,Merimee,Merimee,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante Columbus,Restaurante Columbus,0,马德里特罗,0.0,0.0,0.0
+更多美食,Pulcinella,Pulcinella,0,马德里特罗,0.0,0.0,0.0
+更多美食,Esfahan,Esfahan,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante El Cocinillas,Restaurante El Cocinillas,0,马德里特罗,0.0,0.0,0.0
+更多美食,DéFiLé café,DéFiLé café,0,马德里特罗,0.0,0.0,0.0
+更多美食,a Todo Mejico,a Todo Mejico,0,马德里特罗,0.0,0.0,0.0
+更多美食,Delhi,Delhi,0,马德里特罗,0.0,0.0,0.0
+更多美食,Mughul,Mughul,0,马德里特罗,0.0,0.0,0.0
+更多美食,Asiana,Asiana,0,马德里特罗,0.0,0.0,0.0
+更多美食,Asiana Nextdoor,Asiana Nextdoor,0,马德里特罗,0.0,0.0,0.0
+更多美食,Pajama,Pajama,0,马德里特罗,0.0,0.0,0.0
+更多美食,Roll,Roll,0,马德里特罗,0.0,0.0,0.0
+更多美食,Federal cafe,Federal cafe,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Taqueria de Birra,La Taqueria de Birra,0,马德里特罗,0.0,0.0,0.0
+更多美食,Tampu Restaurante,Tampu Restaurante,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Fragua de Sebin,La Fragua de Sebin,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Fondue de Tell,La Fondue de Tell,0,马德里特罗,0.0,0.0,0.0
+更多美食,Sagasta 28,Sagasta 28,0,马德里特罗,0.0,0.0,0.0
+更多美食,Gastrobar Show Kitchen,Gastrobar Show Kitchen,0,马德里特罗,0.0,0.0,0.0
+更多美食,Olokun,Olokun,0,马德里特罗,0.0,0.0,0.0
+更多美食,Ochenta Grados Malasana,Ochenta Grados Malasana,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bar Amor,Bar Amor,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Corte Ingles,El Corte Ingles,0,马德里特罗,0.0,0.0,0.0
+更多美食,Compostela,Compostela,0,马德里特罗,0.0,0.0,0.0
+更多美食,Shukran Casa Arabe,Shukran Casa Arabe,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Cesta de Recoletos,La Cesta de Recoletos,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Hermanos Cosme Restaurante,Hermanos Cosme Restaurante,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Giralda IV,La Giralda IV,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Horno de Juan,Horno de Juan,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Los 100 montaditos,Los 100 montaditos,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,de Pura Cepa,de Pura Cepa,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Leyenda del Agave,La Leyenda del Agave,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,El Pimiento Verde,El Pimiento Verde,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,A&G Madrid,A&G Madrid,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Gerardo,Gerardo,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Finos y Finas,Finos y Finas,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Restaurante El Rocio,Restaurante El Rocio,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Sixto,Sixto,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Cuchara,La Cuchara,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Maldonado 14,Maldonado 14,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Kena de Luis Arévalo,Kena de Luis Arévalo,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,El Septimo,El Septimo,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Eermita Del Pintxo,La Eermita Del Pintxo,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Handicap III,Handicap III,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Restaurante Viru,Restaurante Viru,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Villoldo,Villoldo,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Check in,Check in,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,St. James,St. James,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Buganvilla,La Buganvilla,0,贝里,0.0,0.0,0.0
+更多美食,La Despensa,La Despensa,0,贝里,0.0,0.0,0.0
+更多美食,Pecado Carnal,Pecado Carnal,0,贝里,0.0,0.0,0.0
+更多美食,Mercato Ballaro,Mercato Ballaro,0,贝里,0.0,0.0,0.0
+更多美食,La Plaza de Chamberi,La Plaza de Chamberi,0,贝里,0.0,0.0,0.0
+更多美食,Restaurante Tres Lunas,Restaurante Tres Lunas,0,贝里,0.0,0.0,0.0
+更多美食,80 Grados,80 Grados,0,贝里,0.0,0.0,0.0
+更多美食,EL VIEJO LEON,EL VIEJO LEON,0,贝里,0.0,0.0,0.0
+更多美食,El Pedrusco de Aldealcorvo,El Pedrusco de Aldealcorvo,0,贝里,0.0,0.0,0.0
+更多美食,El Alino,El Alino,0,贝里,0.0,0.0,0.0
+更多美食,Alta Costura,Alta Costura,0,贝里,0.0,0.0,0.0
+更多美食,La Repanocha,La Repanocha,0,贝里,0.0,0.0,0.0
+更多美食,Dona 59,Dona 59,0,贝里,0.0,0.0,0.0
+更多美食,Casa Hilda,Casa Hilda,0,贝里,0.0,0.0,0.0
+更多美食,Don Oso,Don Oso,0,贝里,0.0,0.0,0.0
+更多美食,Asia Rong,Asia Rong,0,贝里,0.0,0.0,0.0
+更多美食,Poncelet Cheese Bar,Poncelet Cheese Bar,0,贝里,0.0,0.0,0.0
+更多美食,Picanha - Madrid,Picanha - Madrid,0,贝里,0.0,0.0,0.0
+更多美食,Casa Paulino,Casa Paulino,0,贝里,0.0,0.0,0.0
+更多美食,Brookei,Brookei,0,贝里,0.0,0.0,0.0
+更多美食,Restaurante Mercado de Espronceda,Restaurante Mercado de Espronceda,0,贝里,0.0,0.0,0.0
+更多美食,Con Amor,Con Amor,0,贝里,0.0,0.0,0.0
+更多美食,Ecocentro Esquilache,Ecocentro Esquilache,0,贝里,0.0,0.0,0.0
+更多美食,Restaurante Paolo,Restaurante Paolo,0,贝里,0.0,0.0,0.0
+更多美食,Chifa,Chifa,0,贝里,0.0,0.0,0.0
+更多美食,Restaurante lakasa,Restaurante lakasa,0,贝里,0.0,0.0,0.0
+更多美食,Artemisa Sol-Gran Via,Artemisa Sol-Gran Via,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,Restaurante Oriola,Restaurante Oriola,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,La Escondida,La Escondida,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,Sushy & Buey,Sushy & Buey,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,Asador Nuevo Porche,Asador Nuevo Porche,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,Martes 13,Martes 13,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,Restaurante Campanillas,Restaurante Campanillas,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,El Recuerdo,El Recuerdo,0,得土安,0.0,0.0,0.0
+更多美食,Pedralbes,Pedralbes,0,得土安,0.0,0.0,0.0
+更多美食,La Huerta de Madrid,La Huerta de Madrid,0,得土安,0.0,0.0,0.0
+更多美食,El jardin de la leyenda,El jardin de la leyenda,0,得土安,0.0,0.0,0.0
+更多美食,Ondinas Do Mendo,Ondinas Do Mendo,0,得土安,0.0,0.0,0.0
+更多美食,Andorina,Andorina,0,得土安,0.0,0.0,0.0
+更多美食,La Maquina,La Maquina,0,得土安,0.0,0.0,0.0
+更多美食,La Cantina,La Cantina,0,得土安,0.0,0.0,0.0
+更多美食,La garriga,La garriga,0,得土安,0.0,0.0,0.0
+更多美食,Distrito 798,Distrito 798,0,得土安,0.0,0.0,0.0
+更多美食,Restaurante Piñera,Restaurante Piñera,0,得土安,0.0,0.0,0.0
+更多美食,El Caserio,El Caserio,0,得土安,0.0,0.0,0.0
+更多美食,Burela,Burela,0,得土安,0.0,0.0,0.0
+更多美食,Tamara (Lorenzo),Tamara (Lorenzo),0,查马丁火车站,0.0,0.0,0.0
+更多美食,Restaurante el Molino Viejo,Restaurante el Molino Viejo,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Rumbo Norte,Rumbo Norte,0,查马丁火车站,0.0,0.0,0.0
+更多美食,The Market Madrid,The Market Madrid,0,查马丁火车站,0.0,0.0,0.0
+更多美食,La Barbacoa de Berlin,La Barbacoa de Berlin,0,查马丁火车站,0.0,0.0,0.0
+更多美食,TGI Fridays,TGI Fridays,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Casa Ormaza,Casa Ormaza,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Penalti Lounge Bar,Penalti Lounge Bar,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Al Paseo,Al Paseo,0,查马丁火车站,0.0,0.0,0.0
+更多美食,La Hispana - Madrid,La Hispana - Madrid,0,查马丁火车站,0.0,0.0,0.0
+更多美食,CR15,CR15,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Gerardo,Gerardo,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Dona Paca,Dona Paca,0,查马丁火车站,0.0,0.0,0.0
+更多美食,El Quenco de Pepa,El Quenco de Pepa,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Sacha,Sacha,0,查马丁火车站,0.0,0.0,0.0
+更多美食,El Olvido,El Olvido,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Donde Marian,Donde Marian,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Go Hyang Mat,Go Hyang Mat,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Alcala Fusion,Alcala Fusion,0,利内阿尔城,0.0,0.0,0.0
+更多美食,Yparraguirre Santana SL.,Yparraguirre Santana SL.,0,利内阿尔城,0.0,0.0,0.0
+更多美食,Pazo Coruna,Pazo Coruna,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Restaurante Alabaster,Restaurante Alabaster,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Horcher,Horcher,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Restaurante Barandales,Restaurante Barandales,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Taberna La Catapa,Taberna La Catapa,0,雷蒂罗,0.0,0.0,0.0
+更多美食,La Hoja,La Hoja,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Taberna Laredo,Taberna Laredo,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Casa Portal,Casa Portal,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Restaurante Manete,Restaurante Manete,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Vinos de Bellota,Vinos de Bellota,0,雷蒂罗,0.0,0.0,0.0
+更多美食,Seis Ocho,Seis Ocho,0,圣布拉斯,0.0,0.0,0.0
+更多美食,La Tagliatella,La Tagliatella,0,福塔雷萨,0.0,0.0,0.0
+更多美食,Nicomedes,Nicomedes,0,福塔雷萨,0.0,0.0,0.0
+更多美食,Lobato Restaurante,Lobato Restaurante,0,福塔雷萨,0.0,0.0,0.0
+更多美食,El Latigazo,El Latigazo,0,阿拉瓦卡,0.0,0.0,0.0
+更多美食,Oter Epicure,Oter Epicure,0,埃尔埃斯科里亚尔,0.0,0.0,0.0
+更多美食,Restaurante La Mision,Restaurante La Mision,0,其他,0.0,0.0,0.0
+更多美食,Himalaya,Himalaya,0,其他,0.0,0.0,0.0
+更多美食,Feito,Feito,0,其他,0.0,0.0,0.0
+更多美食,La Trattoria Di Aluche,La Trattoria Di Aluche,0,其他,0.0,0.0,0.0
+更多美食,Ferreiro,Ferreiro,0,其他,0.0,0.0,0.0
+更多美食,Cafe Viena.,Cafe Viena.,0,其他,0.0,0.0,0.0
+更多美食,Cascaras,Cascaras,0,其他,0.0,0.0,0.0
+更多美食,Cuenllas,Cuenllas,0,其他,0.0,0.0,0.0
+更多美食,Alcala de Henares,Alcala de Henares,0,其他,0.0,0.0,0.0
+更多美食,El Corzo,El Corzo,0,其他,0.0,0.0,0.0
+更多美食,La Americana,La Americana,0,其他,0.0,0.0,0.0
+更多美食,Mundo Torta,Mundo Torta,0,其他,0.0,0.0,0.0
+更多美食,Obra Maestra,Obra Maestra,0,,0.0,0.0,0.0
+更多美食,Rancho Arequipa SL.,Rancho Arequipa SL.,0,其他,0.0,0.0,0.0
+更多美食,Restaurante la Fuente,Restaurante la Fuente,0,罗萨斯,0.0,0.0,0.0
+更多美食,Tacata,Tacata,0,其他,0.0,0.0,0.0
+更多美食,Yakitori,Yakitori,0,其他,0.0,0.0,0.0
+更多美食,Taberna Origen,Taberna Origen,0,其他,0.0,0.0,0.0
+更多美食,Il Cratere del Gusto,Il Cratere del Gusto,0,其他,0.0,0.0,0.0
+更多美食,La Doma,La Doma,0,其他,0.0,0.0,0.0
+更多美食,Verdil,Verdil,0,其他,0.0,0.0,0.0
+更多美食,La Catedral de Zamora,La Catedral de Zamora,0,其他,0.0,0.0,0.0
+更多美食,Ox's,Ox's,0,其他,0.0,0.0,0.0
+更多美食,Ordago Meson Restaurante SL.,Ordago Meson Restaurante SL.,0,格塔菲,0.0,0.0,0.0
+更多美食,Aviseo,Aviseo,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Pitarra,La Pitarra,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Turkito,El Turkito,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Sibarita,El Sibarita,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Llama,La Llama,0,马德里特罗,0.0,0.0,0.0
+更多美食,Maisen,Maisen,0,其他,0.0,0.0,0.0
+更多美食,Pasteleria la Oriental,Pasteleria la Oriental,0,其他,0.0,0.0,0.0
+更多美食,TGB The Good Burguer,TGB The Good Burguer,0,其他,0.0,0.0,0.0
+更多美食,La Pepa,La Pepa,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Biotza,La Biotza,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Cafeteria Cerveceria Pedro Miguel,Cafeteria Cerveceria Pedro Miguel,0,得土安,0.0,0.0,0.0
+更多美食,Casa Jorge,Casa Jorge,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Dunkin' Donuts,Dunkin' Donuts,0,查马丁火车站,0.0,0.0,0.0
+更多美食,The Towers Irish Pub,The Towers Irish Pub,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,其他,0.0,0.0,0.0
+更多美食,De Maria,De Maria,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Flunch - La Vaguada,Restaurante Flunch - La Vaguada,0,其他,0.0,0.0,0.0
+更多美食,Asador La Isla,Asador La Isla,0,圣布拉斯,0.0,0.0,0.0
+更多美食,Pizza Hut,Pizza Hut,0,圣布拉斯,0.0,0.0,0.0
+更多美食,Restaueante El Hayedo,Restaueante El Hayedo,0,圣布拉斯,0.0,0.0,0.0
+更多美食,La Redicha,La Redicha,0,马德里特罗,0.0,0.0,0.0
+更多美食,Sushi Koyo,Sushi Koyo,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Olivas Grill,Olivas Grill,0,圣布拉斯,0.0,0.0,0.0
+更多美食,Bremen,Bremen,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Estacion de Los Porches,Estacion de Los Porches,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Restaurante La Nava,Restaurante La Nava,0,其他,0.0,0.0,0.0
+更多美食,La tapa del mundo,La tapa del mundo,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Bonar,El Bonar,0,马德里特罗,0.0,0.0,0.0
+更多美食,Rodi Caribe,Rodi Caribe,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,El Corte Ingles,El Corte Ingles,0,其他,0.0,0.0,0.0
+更多美食,Restaurante L'Albufera Moraleja,Restaurante L'Albufera Moraleja,0,阿尔科文达斯,0.0,0.0,0.0
+更多美食,Teresa Pon la Mesa,Teresa Pon la Mesa,0,其他,0.0,0.0,0.0
+更多美食,La Contrasena,La Contrasena,0,其他,0.0,0.0,0.0
+更多美食,Bosco de Lobos,Bosco de Lobos,0,其他,0.0,0.0,0.0
+更多美食,"Tapería El Palé, SL","Tapería El Palé, SL",0,其他,0.0,0.0,0.0
+更多美食,Tanino Bravo Murillo,Tanino Bravo Murillo,0,其他,0.0,0.0,0.0
+更多美食,Kichi Restaurant,Kichi Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Rangoli,Rangoli,0,其他,0.0,0.0,0.0
+更多美食,El Mantel,El Mantel,0,其他,0.0,0.0,0.0
+更多美食,Marisqueria Alberto,Marisqueria Alberto,0,其他,0.0,0.0,0.0
+更多美食,Otto e Undici,Otto e Undici,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Pinocchio Eduardo Dato,Trattoria Pinocchio Eduardo Dato,0,其他,0.0,0.0,0.0
+更多美食,NH Las Tablas Restaurant,NH Las Tablas Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Cafe de la Cruz,Cafe de la Cruz,0,其他,0.0,0.0,0.0
+更多美食,La Dehesa III Restaurant,La Dehesa III Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Bocadillo de Jamon y Champan,Bocadillo de Jamon y Champan,0,其他,0.0,0.0,0.0
+更多美食,Juan Raro,Juan Raro,0,马德里特罗,0.0,0.0,0.0
+更多美食,Gau & Cafe,Gau & Cafe,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Boqueron,El Boqueron,0,马德里特罗,0.0,0.0,0.0
+更多美食,Camarote Vintage,Camarote Vintage,0,马德里特罗,0.0,0.0,0.0
+更多美食,Fratelli d'italia,Fratelli d'italia,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Oveja Negra Taberna Vegana,La Oveja Negra Taberna Vegana,0,马德里特罗,0.0,0.0,0.0
+更多美食,Asador De Pollos Navarro,Asador De Pollos Navarro,0,马德里特罗,0.0,0.0,0.0
+更多美食,Viva Chapata,Viva Chapata,0,马德里特罗,0.0,0.0,0.0
+更多美食,Xentes,Xentes,0,马德里特罗,0.0,0.0,0.0
+更多美食,Martinacocina,Martinacocina,0,马德里特罗,0.0,0.0,0.0
+更多美食,Toma Jamon,Toma Jamon,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cafeteria Onis,Cafeteria Onis,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Copita Asturiana,La Copita Asturiana,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Taberna Errante,La Taberna Errante,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cavalta 27,Cavalta 27,0,马德里特罗,0.0,0.0,0.0
+更多美食,Casa Piluca,Casa Piluca,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Arrozal,El Arrozal,0,马德里特罗,0.0,0.0,0.0
+更多美食,Faborit,Faborit,0,马德里特罗,0.0,0.0,0.0
+更多美食,Pulperia Taberna Maceira,Pulperia Taberna Maceira,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bar-Restaurante Yatiri,Bar-Restaurante Yatiri,0,马德里特罗,0.0,0.0,0.0
+更多美食,Taqueria del Alamillo,Taqueria del Alamillo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Quevedo,Quevedo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Piccolino della farfalla,Piccolino della farfalla,0,马德里特罗,0.0,0.0,0.0
+更多美食,Taberna de La Daniela Medinaceli,Taberna de La Daniela Medinaceli,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Tocororo,El Tocororo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Miau,Miau,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante Ana la Santa,Restaurante Ana la Santa,0,马德里特罗,0.0,0.0,0.0
+更多美食,The Roof at ME Madrid,The Roof at ME Madrid,0,马德里特罗,0.0,0.0,0.0
+更多美食,Meson Rincon de la Cava,Meson Rincon de la Cava,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bar Vina P,Bar Vina P,0,马德里特罗,0.0,0.0,0.0
+更多美食,O Cacho do Jose,O Cacho do Jose,0,马德里特罗,0.0,0.0,0.0
+更多美食,Rincon De Ati,Rincon De Ati,0,马德里特罗,0.0,0.0,0.0
+更多美食,Todo Corazon,Todo Corazon,0,马德里特罗,0.0,0.0,0.0
+更多美食,Terra a Nosa,Terra a Nosa,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Mirador del Thyssen,El Mirador del Thyssen,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Olibo,El Olibo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Las Cuevas de Sesamo,Las Cuevas de Sesamo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Chiky,Chiky,0,马德里特罗,0.0,0.0,0.0
+更多美食,Naviego,Naviego,0,马德里特罗,0.0,0.0,0.0
+更多美食,Demontaditos,Demontaditos,0,马德里特罗,0.0,0.0,0.0
+更多美食,Di Bocca,Di Bocca,0,马德里特罗,0.0,0.0,0.0
+更多美食,Nuuga,Nuuga,0,马德里特罗,0.0,0.0,0.0
+更多美食,De Maria San Jeronimo,De Maria San Jeronimo,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Quintana,La Quintana,0,马德里特罗,0.0,0.0,0.0
+更多美食,DisTinto,DisTinto,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cerveceria Gambrinus,Cerveceria Gambrinus,0,马德里特罗,0.0,0.0,0.0
+更多美食,El salero,El salero,0,马德里特罗,0.0,0.0,0.0
+更多美食,Galopin,Galopin,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cafeteria Dulcinea,Cafeteria Dulcinea,0,马德里特罗,0.0,0.0,0.0
+更多美食,de las letras restaurante,de las letras restaurante,0,马德里特罗,0.0,0.0,0.0
+更多美食,Quilombo,Quilombo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Del Greco cafe & tapas,Del Greco cafe & tapas,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cafe Manuela,Cafe Manuela,0,马德里特罗,0.0,0.0,0.0
+更多美食,Al-Jaima,Al-Jaima,0,马德里特罗,0.0,0.0,0.0
+更多美食,Larios Cafe,Larios Cafe,0,马德里特罗,0.0,0.0,0.0
+更多美食,Kim Bu Mbu,Kim Bu Mbu,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Terraza de Oscar,La Terraza de Oscar,0,马德里特罗,0.0,0.0,0.0
+更多美食,El rincon,El rincon,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Bierzo,El Bierzo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Le Coco Restobar,Le Coco Restobar,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Nieta,La Nieta,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante Lara,Restaurante Lara,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bla Bla Bla,Bla Bla Bla,0,马德里特罗,0.0,0.0,0.0
+更多美食,Tienda de Vinos,Tienda de Vinos,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Pajar,El Pajar,0,马德里特罗,0.0,0.0,0.0
+更多美食,Best Western Mayorazgo Restaurant,Best Western Mayorazgo Restaurant,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bar del Circo de las Tapas,Bar del Circo de las Tapas,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Tita Rivera,La Tita Rivera,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cafe Oliver,Cafe Oliver,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante El Inca,Restaurante El Inca,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Rincon de Pelayo,El Rincon de Pelayo,0,马德里特罗,0.0,0.0,0.0
+更多美食,Omuino,Omuino,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Union,La Union,0,马德里特罗,0.0,0.0,0.0
+更多美食,Xanacuk,Xanacuk,0,马德里特罗,0.0,0.0,0.0
+更多美食,Harina - Fuencarral,Harina - Fuencarral,0,马德里特罗,0.0,0.0,0.0
+更多美食,Casa Fidel,Casa Fidel,0,马德里特罗,0.0,0.0,0.0
+更多美食,Al-Hoceima,Al-Hoceima,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante Lope,Restaurante Lope,0,马德里特罗,0.0,0.0,0.0
+更多美食,Naif,Naif,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Son,El Son,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Restaurante Vegetariano,El Restaurante Vegetariano,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Nueve,El Nueve,0,马德里特罗,0.0,0.0,0.0
+更多美食,Ojala,Ojala,0,马德里特罗,0.0,0.0,0.0
+更多美食,la palma 60,la palma 60,0,马德里特罗,0.0,0.0,0.0
+更多美食,Noviembre,Noviembre,0,马德里特罗,0.0,0.0,0.0
+更多美食,Cañas y Barro Madrid,Cañas y Barro Madrid,0,马德里特罗,0.0,0.0,0.0
+更多美食,Pequenos Placeres,Pequenos Placeres,0,马德里特罗,0.0,0.0,0.0
+更多美食,Restaurante Onze,Restaurante Onze,0,马德里特罗,0.0,0.0,0.0
+更多美食,Pecado Capital,Pecado Capital,0,马德里特罗,0.0,0.0,0.0
+更多美食,El Puchero,El Puchero,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Mejor Flor Bar,La Mejor Flor Bar,0,马德里特罗,0.0,0.0,0.0
+更多美食,La Rochela,La Rochela,0,马德里特罗,0.0,0.0,0.0
+更多美食,Bergantinos,Bergantinos,0,马德里特罗,0.0,0.0,0.0
+更多美食,Dassa Bassa,Dassa Bassa,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Il Tavolo Verde,Il Tavolo Verde,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Magasand Columela,Magasand Columela,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Pinchos Elcano,Pinchos Elcano,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,El Borbollon,El Borbollon,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,El Pescaito,El Pescaito,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Cinco Jotas,Cinco Jotas,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Micota,Micota,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Kama Sutra,Kama Sutra,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Gourmet Experience Goya,Gourmet Experience Goya,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Formentor,Formentor,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,El Vegetariano,El Vegetariano,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Restaurante Japones Howe,Restaurante Japones Howe,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Helados Sienna,Helados Sienna,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Chocita del Loro,La Chocita del Loro,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Restaurant DeFiLe Cafe,Restaurant DeFiLe Cafe,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Vilalua Pulpeira Galega,Vilalua Pulpeira Galega,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Salon de Te Vailima,Salon de Te Vailima,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,O,O,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,El Tulipan,El Tulipan,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,El Cantabrico,El Cantabrico,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Donde Monica,Donde Monica,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Restaurante Esbardos,Restaurante Esbardos,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Panocha,La Panocha,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Villalobillos,Villalobillos,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Hevia,Hevia,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,las Tablas,las Tablas,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,La Traviesa,La Traviesa,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Harbor,Harbor,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Chiquito Riz,Chiquito Riz,0,萨拉曼卡,0.0,0.0,0.0
+更多美食,Bar Tomate,Bar Tomate,0,贝里,0.0,0.0,0.0
+更多美食,Cerveceria L'Europe,Cerveceria L'Europe,0,贝里,0.0,0.0,0.0
+更多美食,Marisqueria Villas,Marisqueria Villas,0,贝里,0.0,0.0,0.0
+更多美食,Bienmesabe,Bienmesabe,0,贝里,0.0,0.0,0.0
+更多美食,Trattoria Limbara,Trattoria Limbara,0,贝里,0.0,0.0,0.0
+更多美食,Boloco,Boloco,0,贝里,0.0,0.0,0.0
+更多美食,Morales El Atomico,Morales El Atomico,0,贝里,0.0,0.0,0.0
+更多美食,las Pocholas,las Pocholas,0,贝里,0.0,0.0,0.0
+更多美食,Wogaboo Serrano Jover,Wogaboo Serrano Jover,0,贝里,0.0,0.0,0.0
+更多美食,Restaurante La Playa,Restaurante La Playa,0,贝里,0.0,0.0,0.0
+更多美食,El Llar,El Llar,0,贝里,0.0,0.0,0.0
+更多美食,Sazadon,Sazadon,0,贝里,0.0,0.0,0.0
+更多美食,Casa Adolfo,Casa Adolfo,0,贝里,0.0,0.0,0.0
+更多美食,Huerto y Brasa,Huerto y Brasa,0,贝里,0.0,0.0,0.0
+更多美食,Fide,Fide,0,贝里,0.0,0.0,0.0
+更多美食,Casa Patillas,Casa Patillas,0,贝里,0.0,0.0,0.0
+更多美食,Restaurante Cruz De Mayo,Restaurante Cruz De Mayo,0,贝里,0.0,0.0,0.0
+更多美食,La Rollerie,La Rollerie,0,贝里,0.0,0.0,0.0
+更多美食,Trattoria Manzoni,Trattoria Manzoni,0,贝里,0.0,0.0,0.0
+更多美食,Sylkar,Sylkar,0,贝里,0.0,0.0,0.0
+更多美食,Raices,Raices,0,贝里,0.0,0.0,0.0
+更多美食,Baden,Baden,0,贝里,0.0,0.0,0.0
+更多美食,Gourmet Experience Castellana,Gourmet Experience Castellana,0,贝里,0.0,0.0,0.0
+更多美食,El Capricho,El Capricho,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,Restaurante Los Cinco Pinos,Restaurante Los Cinco Pinos,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,Casa Pachuco,Casa Pachuco,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,Egun-on,Egun-on,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,La Vina de Nerea,La Vina de Nerea,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,Restaurante El Principe,Restaurante El Principe,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,El Patio,El Patio,0,巴拉哈斯机场-IFEMA展览中心,0.0,0.0,0.0
+更多美食,Mr.kabab,Mr.kabab,0,得土安,0.0,0.0,0.0
+更多美食,Restaurante la Lenera,Restaurante la Lenera,0,得土安,0.0,0.0,0.0
+更多美食,La Prosperidad,La Prosperidad,0,得土安,0.0,0.0,0.0
+更多美食,Lateral,Lateral,0,得土安,0.0,0.0,0.0
+更多美食,Restaurante Ferreiro,Restaurante Ferreiro,0,得土安,0.0,0.0,0.0
+更多美食,Gaztemanu,Gaztemanu,0,得土安,0.0,0.0,0.0
+更多美食,Naveira Domar,Naveira Domar,0,得土安,0.0,0.0,0.0
+更多美食,Casa Adriano,Casa Adriano,0,得土安,0.0,0.0,0.0
+更多美食,Cazorla,Cazorla,0,得土安,0.0,0.0,0.0
+更多美食,Txistu,Txistu,0,得土安,0.0,0.0,0.0
+更多美食,Restaurante Alcobilla,Restaurante Alcobilla,0,得土安,0.0,0.0,0.0
+更多美食,La Paloma,La Paloma,0,得土安,0.0,0.0,0.0
+更多美食,CH&CH,CH&CH,0,得土安,0.0,0.0,0.0
+更多美食,Vaca Nostra,Vaca Nostra,0,得土安,0.0,0.0,0.0
+更多美食,Restaurante Belarmino,Restaurante Belarmino,0,查马丁火车站,0.0,0.0,0.0
+更多美食,las Cerchas,las Cerchas,0,查马丁火车站,0.0,0.0,0.0
+更多美食,The Hall,The Hall,0,查马丁火车站,0.0,0.0,0.0
+更多美食,El Rinconcito,El Rinconcito,0,查马丁火车站,0.0,0.0,0.0
+更多美食,meltin pot,meltin pot,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Le Petit Bistrot Vergara,Le Petit Bistrot Vergara,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Nipon Taro,Nipon Taro,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Arturo Principe Y Serrano,Arturo Principe Y Serrano,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Asador Lekeitio,Asador Lekeitio,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Muuu,Muuu,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Las Meninas De Velazquez,Las Meninas De Velazquez,0,查马丁火车站,0.0,0.0,0.0
+更多美食,La Coloquial,La Coloquial,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Baralloco,Baralloco,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Alfredo's Barbacoa,Alfredo's Barbacoa,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Pinocchio Trattoria,Pinocchio Trattoria,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Latitud,Latitud,0,查马丁火车站,0.0,0.0,0.0
+更多美食,la Bomba Bistrot,la Bomba Bistrot,0,查马丁火车站,0.0,0.0,0.0
+更多美食,El Horreo Asturiano,El Horreo Asturiano,0,查马丁火车站,0.0,0.0,0.0
+更多美食,RAST,RAST,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Carmen Lazcano,Carmen Lazcano,0,查马丁火车站,0.0,0.0,0.0
+更多美食,La Rotonda,La Rotonda,0,查马丁火车站,0.0,0.0,0.0
+更多美食,La Taberna de Baco,La Taberna de Baco,0,查马丁火车站,0.0,0.0,0.0
+更多美食,Bacanal,Bacanal,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Venta Matadero,Venta Matadero,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,MARIANA Cafe Bar & Aftert Work,MARIANA Cafe Bar & Aftert Work,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Mis Tradiciones,Mis Tradiciones,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Tomate & Langostino,Tomate & Langostino,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,El Rincon Asturiano,El Rincon Asturiano,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Arroceria Imperial,Arroceria Imperial,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,El Salon de Otono,El Salon de Otono,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,Campiello,Campiello,0,阿甘祖伊拉,0.0,0.0,0.0
+更多美食,A'Conchina,A'Conchina,0,利内阿尔城,0.0,0.0,0.0
+更多美食,Bar Astur-Leones,Bar Astur-Leones,0,利内阿尔城,0.0,0.0,0.0

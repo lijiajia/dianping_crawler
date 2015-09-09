@@ -1,0 +1,351 @@
+意大利菜,Luce
+意大利菜,La Passion du Vin
+意大利菜,La Tavola Pronta
+意大利菜,Lorenzini and Du Theatre
+意大利菜,Tredicipercento Restaurant & Weinbar
+意大利菜,Restaurant Bella Vita
+意大利菜,Giardino
+意大利菜,Casa d'Italia
+意大利菜,Spaghetti Factory
+意大利菜,Verdi
+意大利菜,Pizzeria Molino Bern Thurm
+意大利菜,Ristorante Pomodoro
+意大利菜,Grissino
+意大利菜,Da Vinci
+意大利菜,Tre Fratelli
+意大利菜,Zahringer
+意大利菜,Trattoria da Walter
+意大利菜,De Fusco
+意大利菜,Dolce Vita
+意大利菜,Restaurant Strada
+意大利菜,Gioia
+意大利菜,Militargarten
+意大利菜,Mappamondo
+意大利菜,La Vita
+意大利菜,La Vigna
+意大利菜,Enoteca Bacchus
+意大利菜,Il Grotto
+法国菜,Wein&Sein mit Haerzbluet
+法国菜,Metzgerstuebli
+法国菜,Waldheim
+法国菜,Moleson
+法国菜,Brasserie Barengraben
+法国菜,Bistrot Marzer
+法国菜,"Hotel National, Bern"
+法国菜,Brasserie Obstberg
+法国菜,Harmonie
+法国菜,Les Terroirs
+法国菜,La Marmite
+法国菜,Fariboles
+法国菜,Buner Restaurant & Vinothek
+墨西哥菜,Desperado Mexican Restaurant & Bar
+墨西哥菜,El Mexicano
+其他西餐,Rosengarten
+其他西餐,Le Mazot
+其他西餐,Mr. Pickwick Pub
+其他西餐,Meridiano
+其他西餐,Entrecote Cafe Federal
+其他西餐,Altes Tramdepot
+其他西餐,Süder
+其他西餐,Brasserie 11
+其他西餐,Kloetzlikeller
+其他西餐,Restaurant Sassafraz
+其他西餐,Novotel Bern Expo
+其他西餐,Brasserie Bits & Bites
+其他西餐,Restaurant Brasserie Anker
+其他西餐,Falken
+其他西餐,Parlament
+其他西餐,Restaurant Krone
+其他西餐,Chez Edy
+其他西餐,Du Nord
+其他西餐,Restaurant Eggholzli
+其他西餐,Restaurant Commerce
+其他西餐,Klosterli Weincafe
+其他西餐,Casa Novo
+其他西餐,Zebra
+其他西餐,Buener
+其他西餐,Migros Restaurant
+其他西餐,Frohegg
+其他西餐,Schuler Weinwirtschaft 
+其他西餐,Marta
+其他西餐,Kornhaus cafe
+其他西餐,Goldener Schlussel
+其他西餐,Restaurant des Pyrenees
+其他西餐,La Table de Urs Hauri
+其他西餐,Restaurant zum Ausseren Stand
+其他西餐,Zimmermania
+其他西餐,La Cavana
+其他西餐,Specht
+其他西餐,Restaurant Alpenblick
+其他西餐,Restaurant Tramway
+其他西餐,Brasil Grill
+其他西餐,Marcel's Marcili
+其他西餐,Bistro Steinhalle
+其他西餐,AS Restaurant
+其他西餐,Steingarten
+其他西餐,Brasserie Mattenhof
+其他西餐,Blue Cat Bistro
+其他西餐,Restaurant Bar Arlequin
+其他西餐,Restaurant zur alten Post
+其他西餐,Hotelbern
+其他西餐,Churrascaria Maracana
+其他西餐,Kung Fu Burger
+其他西餐,Restaurant Athen
+其他西餐,O'Bolles
+其他西餐,Café Restaurant Viktoria
+其他西餐,Cafe Vetter Herzog
+其他西餐,Hotel Restaurant Jardin
+其他西餐,Restaurant Pizzeria Eintracht Perez
+其他西餐,Schloss-Bumpliz
+其他西餐,Restaurant Zum Denkmal
+其他西餐,Kleine Schanze
+其他西餐,Gut Gelaunt
+其他西餐,7-Stube
+其他西餐,Al Parco
+其他西餐,Grindelwaldstubli
+其他西餐,Hotel Restaurant Goldener Schussel
+其他西餐,Ali Baba
+其他西餐,Don Porfirio
+其他西餐,Kappa Take Away
+其他西餐,Venezia aka Umut
+其他西餐,Gasthof Krummholzbad
+其他西餐,POP-UP by Markus Arnold
+其他西餐,Brunnhof
+其他西餐,Wirtschaft zum Löwen
+中餐,China Imperial
+中餐,Mekong Beizli Huynh
+中餐,Fischermatteli
+中餐,Tien Tien
+中餐,Boky
+中餐,Cafeteria Siddharta
+日韩料理,Sushi Bar Yamasaki
+日韩料理,Nooch - Asian Kitchen
+日韩料理,Japigo
+日韩料理,Kabuki
+日韩料理,Restaurant Muesmatt
+更多亚洲菜,Fugu-Nydegg
+更多亚洲菜,Yu
+更多亚洲菜,Maharaja Palace
+更多亚洲菜,Namamen
+更多亚洲菜,Curry House Bern
+更多亚洲菜,Namaste India
+更多亚洲菜,Okra
+更多亚洲菜,Restaurant Aarbergerhof
+更多亚洲菜,Plattform Restaurants
+更多亚洲菜,cha cha - Thai Positive Eating
+更多亚洲菜,Pad Thai Restaurant - Take Away
+更多亚洲菜,Restaurant Sitar
+更多亚洲菜,Quick Asian Food
+更多亚洲菜,South Indian Food Court
+更多亚洲菜,Mishio
+更多亚洲菜,Punkt
+更多亚洲菜,Orient-Restaurant Chez Haydar
+更多亚洲菜,India4u
+更多亚洲菜,Tang Soriya
+更多亚洲菜,Restaurant & Take Away Asia Halong
+更多亚洲菜,Restaurant Akul
+快餐简餐,Sonne Scheunenberg
+快餐简餐,The BEEF Steakhouse & Bar
+快餐简餐,Cinematte
+快餐简餐,Restaurant & Bar Indiana
+快餐简餐,Sous le Pont - Reitschule
+快餐简餐,Restaurant Papa Joe's
+快餐简餐,Entre Nous Bern
+快餐简餐,Phils fresh
+海鲜,Azzurro Terra e Mare
+烧烤,嘉佳羊蝎子
+比萨,La Tribuna
+比萨,Santa Lucia
+比萨,Gasthof Strand
+比萨,Pizzeria Tonino
+比萨,Mega Pizza Kurier
+比萨,Pizza&Pasta
+咖啡厅,Starbucks Coffee
+咖啡厅,Einstein Kaffee und Rauchsalon
+咖啡厅,Monnier Confiserie
+咖啡厅,Bistro Memory
+咖啡厅,Adriano's Bar & Cafe
+咖啡厅,Cafe Reber
+咖啡厅,Cafe Gruebi
+咖啡厅,Mary's Cafe
+咖啡厅,Caffe Sattler
+咖啡厅,Cafe 3692
+咖啡厅,Confiserie Abegglen
+面包甜点,La Chouette
+面包甜点,Confiserie Eichenberger
+面包甜点,Bohnenblust Cafe
+酒吧,& Soehne
+酒吧,Allegro Bar Kursaal Bern
+酒吧,Bonbec
+酒吧,Josephine Brasserie
+酒吧,Volver Bar Tapas Cafe
+酒吧,Musigbistrot
+酒吧,Schuler Weinwirtschaft 
+酒吧,Compass Bar
+酒吧,Klotzlikeller
+酒吧,Comeback
+酒吧,Turnhalle
+酒吧,Marians' Jazzroom
+酒吧,Restaurant Pont de Thielle
+酒吧,Shisha Bar
+酒吧,Avocado Bar
+更多美食,"Kornhauskeller, Restaurant"
+更多美食,Mille Sens
+更多美食,La Terrasse im Bellevue Palace
+更多美食,Restaurant Kirchenfeld
+更多美食,Jack's Brasserie (Hotel Schweizerhof)
+更多美食,Arirang Restaurant
+更多美食,Veranda
+更多美食,Da Carlo
+更多美食,KAPITEL Bollwerk
+更多美食,Frohsinn
+更多美食,Gelateria di Berna
+更多美食,tingel kringel
+更多美食,Domino
+更多美食,tibits
+更多美食,Migros Marktgasse
+更多美食,Ristorante Pizzeria Rialto
+更多美食,Schloss Reichenbach
+更多美食,A Familia Portuguesa
+更多美食,Schmiedstube
+更多美食,Restaurant Injera
+更多美食,"Della Casa, Restaurant"
+更多美食,Zunft zu Webern (Wabere)
+更多美食,Il Ristorantino
+更多美食,China - Dalun GmbH
+更多美食,La Piazzetta
+更多美食,Eiger
+更多美食,Spitz
+更多美食,Coop Restaurant
+更多美食,Spiga
+更多美食,Yooji's Westside
+更多美食,Da Bucolo
+更多美食,Loetschberg AOC
+更多美食,tibits
+更多美食,Schoengruen
+更多美食,Spiga Westside
+更多美食,Gfeller am Baerenplatz
+更多美食,"Restaurant Beaumont, Bern"
+更多美食,Schwellenmaetteli Restaurants
+更多美食,Restaurant Casino Bern
+更多美食,TAB TIM
+更多美食,Kornhaus Cafe und Keller
+更多美食,Cave Alpin
+更多美食,Cesary Bar
+更多美食,Volkshaus Bern
+更多美食,Blauer Engel
+更多美食,Restaurant Romer
+更多美食,Grotto Ticino
+更多美食,Lokal
+更多美食,Cafe Bar Restaurant Kairo
+更多美食,Osteria Da Santo
+更多美食,Bistrot Morillon
+更多美食,"Restaurant Weissenbuhl, Bern"
+更多美食,Restaurant Dampfzentrale
+更多美食,La Cultina Schulrestaurant
+更多美食,Punto
+更多美食,Pizzeria Atlantico
+更多美食,Ambassador
+更多美食,Asia HuaKy
+更多美食,Las Alps
+更多美食,Boxx Showroom
+更多美食,Garten Restaurant Marzilibrucke
+更多美食,Nocciolato Specialty Coffee House
+更多美食,Xenia-Cafe
+更多美食,Haus der Universitat
+更多美食,Fischerstubli
+更多美食,Diagonal
+更多美食,Restaurant Cavallo Star
+更多美食,Way to India
+更多美食,Santorini
+更多美食,Hier Und Jetzt
+更多美食,7 Machos
+更多美食,Energy Kitchen
+更多美食,Lirum Larum
+更多美食,Pizzeriatreff
+更多美食,Odeon
+更多美食,Leichtsinn
+更多美食,Müehlirad
+更多美食,3 Eidgenossen
+更多美食,Lo stuzzichino da Bellino
+更多美食,"Hotel zum Goldenen Adler, Bern"
+更多美食,Pizzeria Treff Tapas Bar
+更多美食,Cote Sud Pizza & Pasta
+更多美食,Cafe Litteraire
+更多美食,Barenhöefli Cafe & Lounge
+更多美食,Grock
+更多美食,Nordsud
+更多美食,La tienda de Juan
+更多美食,Aerni Bar
+更多美食,La Nonna
+更多美食,Restaurant Beaulieu
+更多美食,Creperie Le Carrousel
+更多美食,Cafe-Bar Parterre
+更多美食,Curry Legend
+更多美食,Langgass-Stubli
+更多美食,Seidenhof
+更多美食,Wartsaal
+更多美食,3 Dosha Restaurant
+更多美食,Mont Liban
+更多美食,Genossenschaft Brasserie Lorraine
+更多美食,La Carbonara
+更多美食,Henris Restaurant
+更多美食,Caledonia
+更多美食,Eleven
+更多美食,Calabrisella
+更多美食,Restaurant Il Profeta
+更多美食,Luna Llena
+更多美食,Restaurant Wylerbad
+更多美食,Restaurant Baren Oberbottigen
+更多美食,Bahnhof-Weissenbuhl
+更多美食,Restaurant Murifeld
+更多美食,Sternen
+更多美食,Piazza
+更多美食,Cafe-Bar Tram Egge
+更多美食,Tea Room Blumenfeld
+更多美食,Abruzzese
+更多美食,Felsenau
+更多美食,Restaurant Löewen
+更多美食,Piccola Napoli
+更多美食,la Stella
+更多美食,Pizzeria Davide
+更多美食,Pangaa
+更多美食,Art Cafe
+更多美食,Piman thai Restaurant
+更多美食,Caffe Spettacolo
+更多美食,La Pizzeria
+更多美食,Restaurant Bellini Cafe Bar
+更多美食,Cowboys
+更多美食,Altenberg Turkische Spezialitaten
+更多美食,Treffpunkt
+更多美食,Restaurant Goût
+更多美食,Walter
+更多美食,Campania
+更多美食,Bahnhöefli
+更多美食,Wok-Town
+更多美食,Ristorante Scala
+更多美食,Ringgenberg
+更多美食,Prima Luna
+更多美食,Restaurant Alibaba40
+更多美食,Smart
+更多美食,Don Quijote
+更多美食,Michelangelo
+更多美食,Agave
+更多美食,Boomerang s
+更多美食,Schonau
+更多美食,RockGarden restuarant
+更多美食,Il Padrino
+更多美食,Licia s Take-Away
+更多美食,Cafe Ador
+更多美食,Weyermannshaus O Camoes
+更多美食,Cafe Arabesque
+更多美食,Trucker-Bar
+更多美食,Burgernziel
+更多美食,Cafe Americano
+更多美食,Flo's
+更多美食,Cafe-Bar Atlantis
+更多美食,Toscana
+更多美食,Hitzberger Bern Spitalgasse
+更多美食,Allresto
+更多美食,La Luna Rossa
+更多美食,Du Bresil

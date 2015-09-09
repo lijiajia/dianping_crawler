@@ -1,0 +1,124 @@
+意大利菜,Sole Mio
+意大利菜,La Fabbrica
+意大利菜,Nolita
+意大利菜,Buon Appetito
+其他西餐,Ruby Tuesday
+其他西餐,Ruby Tuesday
+日韩料理,Osaka
+更多亚洲菜,Chang Cheng
+更多亚洲菜,Element
+快餐简餐,Yummy Maki Yummy Box
+快餐简餐,Ichiban
+快餐简餐,KFC
+快餐简餐,Doma
+快餐简餐,Burger King
+快餐简餐,Denny's
+快餐简餐,Oporto
+快餐简餐,KFC
+比萨,California Pizza Kitchen
+比萨,Yummy Maki Yummy Box
+比萨,Amadeus Pizza
+比萨,La Pizza Nostra
+比萨,Italita Pizza
+比萨,Benvenutto Pizza
+比萨,Pizza Napoli
+比萨,Milano's Pizza
+比萨,Papi pizza
+比萨,Rocco's Pizza
+比萨,Voraz Pizza
+比萨,motto pizza
+比萨,Piola Pizza
+比萨,Santa Pizza
+比萨,Mister Pizza
+咖啡厅,Hard Rock Cafe Santiago
+咖啡厅,Cafe Haiti
+咖啡厅,Cafe Colonia
+咖啡厅,Cafe de la Barra
+咖啡厅,Juan Valdez Cafe
+咖啡厅,The Jazz Corner
+咖啡厅,Cafe Central
+咖啡厅,Cafe (Converseria) de Julio
+咖啡厅,Cafe de las Artes
+咖啡厅,Un cafe de pelicula
+咖啡厅,Casa Victoriana Cafe Restaurant
+咖啡厅,Cafe Mosqueto (El Observatorio)
+咖啡厅,Cafe Mosqueto
+咖啡厅,Cafe Botanico
+咖啡厅,Cafe Alvear
+咖啡厅,Green Vitality
+咖啡厅,Cafe 202
+咖啡厅,Espresso Bar Cafe
+咖啡厅,Piedra Negra Cafe
+咖啡厅,Au P'ti Cafe
+咖啡厅,Fit Coffee
+咖啡厅,Cafe Bizarre
+咖啡厅,Cafe Restobar la Vuelta
+咖啡厅,Cafe Triana
+咖啡厅,Cafe Vivaldi
+咖啡厅,Cafe del Patio
+咖啡厅,Panaderia y cafeteria Lo Saldes
+咖啡厅,Cafe Mozart Vitacura
+咖啡厅,Coffee Culture
+咖啡厅,Cafe le Suquet
+咖啡厅,Cafe Plaza Victoria
+咖啡厅,Cafe Pedregal
+咖啡厅,Cafe Expresso
+咖啡厅,Cafe Rendebu
+咖啡厅,Costa Nazca
+咖啡厅,Costa Verde
+咖啡厅,Cafe Escondido
+咖啡厅,Cafe El Biografo
+咖啡厅,Cafe Melinka
+咖啡厅,Cafe del Museo
+咖啡厅,Bellas Artes Soho Tienda Cafe
+咖啡厅,Starclick Coffee
+咖啡厅,Sur Cafe
+咖啡厅,Cafe Montt
+咖啡厅,La Momo
+咖啡厅,Cafe Negro
+咖啡厅,Santa Kofein Coffee House
+咖啡厅,The Coffee Club
+咖啡厅,Lucca Cafe
+咖啡厅,The Coffee Factory
+咖啡厅,Cafeteria Musetti
+咖啡厅,Cafe Melba
+咖啡厅,Sport Cafe
+咖啡厅,The Crepe Cafe
+咖啡厅,Cafe Med
+咖啡厅,Lizarran
+面包甜点,Tasty Beat
+酒吧,"Fiddlers Irish Bar, Santiago"
+酒吧,Bar Restaurant de la Union
+酒吧,Bar Flamingo
+酒吧,Surreal Resto Bar
+酒吧,Flannery's irish geo pub
+酒吧,Bar The Clinic
+酒吧,Vicius pub
+酒吧,Park Club Piso 17
+酒吧,Bar Sindicato
+酒吧,Terraza Isidora Beach Club
+酒吧,Bar Sin Nombre
+酒吧,Xoco Por Ti - Chocolate Bar
+酒吧,St. Patrick's Day Irish Pub Restobar
+酒吧,Lighthouse
+酒吧,Bar Nacional
+酒吧,La Table Rouge Restaurant and Bar
+酒吧,Maldito Bar
+酒吧,Pacto Arte Bar
+酒吧,Bar de Rene
+酒吧,Bar Don Rodrigo
+酒吧,Magno Club
+酒吧,Eclipse Bar
+酒吧,Dolores Pizza and Bar
+酒吧,Bar Minga
+酒吧,Bar Restaurant GOEMON
+酒吧,Polluelo Amarillo Fingerfood Bar
+酒吧,Arak Club Libanes
+酒吧,The Black Rock Pub
+酒吧,Metropol Sandwich Bar
+酒吧,Phone Box Pub
+酒吧,Kiri Club
+更多美食,Da Noi
+更多美食,Aqui esta Coco
+更多美食,Da Dino
+更多美食,Mercado Central

@@ -1,0 +1,1868 @@
+意大利菜,Ciao Bistro,Ciao Bistro,0,卡伦海滩,8.5,7.8,8.5
+泰国菜,你的厨房,你的厨房,208,周边小岛,8.8,7.6,8.3
+泰国菜,6号餐厅,6号餐厅,68,芭东海滩,8.3,7.5,7.8
+泰国菜,P.S.酒店,P.S.酒店,68,芭东海滩,8.4,8.7,8.4
+泰国菜,普吉岛悬崖餐厅,普吉岛悬崖餐厅,305,芭东海滩,7.7,9.2,8.2
+泰国菜,HALLE HALLO,HALLE HALLO,107,卡伦海滩,8.0,7.6,8.2
+泰国菜,9号餐厅,9号餐厅,82,芭东海滩,9.0,8.0,8.6
+泰国菜,Mama Restaurant,Mama Restaurant,93,卡伦海滩,7.5,8.1,7.6
+泰国菜,Red Onion,Red Onion,75,卡伦海滩,8.1,7.1,7.8
+泰国菜,台湾泰国菜餐厅,台湾泰国菜餐厅,124,邦涛和拉古纳海滩,9.0,8.6,8.9
+泰国菜,泰味小馆 Euro Thai Restaurant,泰味小馆 Euro Thai Restaurant,86,芭东海滩,8.9,8.3,8.7
+泰国菜,晶餐厅,晶餐厅,170,卡伦海滩,9.0,8.5,8.7
+泰国菜,Sansabai restaurant,Sansabai restaurant,115,卡伦海滩,8.5,7.7,8.6
+泰国菜,Baan Rim Pa Restaurant,Baan Rim Pa Restaurant,291,周边小岛,7.2,7.9,7.9
+泰国菜,Kampong Kata Hill,Kampong Kata Hill,0,卡塔海滩,8.2,9.0,8.8
+泰国菜,妈妈餐厅,妈妈餐厅,105,卡塔海滩,7.4,7.6,7.6
+泰国菜,You and Me Patong,You and Me Patong,0,卡伦海滩,8.5,7.4,8.4
+泰国菜,肯德基,肯德基,0,周边小岛,8.0,7.7,7.7
+泰国菜,Wai Restaurant No.6,Wai Restaurant No.6,0,周边小岛,6.8,6.1,6.6
+泰国菜,Chaba Restaurant,Chaba Restaurant,184,邦涛和拉古纳海滩,7.3,7.2,7.3
+泰国菜,Kan Eang @pier,Kan Eang @pier,336,普吉风情区和拉万,8.3,8.7,8.4
+泰国菜,海火盐,海火盐,0,迈考海滩,8.2,8.4,8.3
+泰国菜,Joe Louis Thai Restaurant,Joe Louis Thai Restaurant,150,周边小岛,7.6,7.6,7.6
+泰国菜,Gypsy @ Rawai BBQ,Gypsy @ Rawai BBQ,0,普吉风情区和拉万,7.6,7.2,7.4
+泰国菜,Spoon Café,Spoon Café,70,周边小岛,7.0,7.5,7.2
+泰国菜,Oishi,Oishi,0,周边小岛,7.6,7.5,7.4
+泰国菜,Dino Park,Dino Park,0,卡伦海滩,8.3,8.7,8.2
+泰国菜,柠檬草餐厅,柠檬草餐厅,0,卡伦海滩,7.4,7.1,7.1
+泰国菜,Baan Sailom Restaurant,Baan Sailom Restaurant,0,卡伦海滩,8.0,8.0,8.0
+泰国菜,角落餐厅,角落餐厅,0,邦涛和拉古纳海滩,7.7,8.6,8.4
+泰国菜,妈妈厨房,妈妈厨房,0,卡伦海滩,7.8,8.0,8.0
+泰国菜,船坞酒吧,船坞酒吧,0,卡伦海滩,8.4,8.6,8.6
+泰国菜,Black Cat,Black Cat,0,邦涛和拉古纳海滩,8.5,8.4,8.6
+泰国菜,第一味,第一味,184,周边小岛,7.1,7.5,7.9
+泰国菜,大象咖啡餐厅,大象咖啡餐厅,0,卡伦海滩,8.0,7.5,7.6
+泰国菜,Kopitiam by Wilai,Kopitiam by Wilai,0,船湖,8.2,8.2,8.2
+泰国菜,Pad Thai Shop,Pad Thai Shop,0,卡伦海滩,7.6,7.6,8.3
+泰国菜,Charm Thai Restaurant at Holiday Inn Resort,Charm Thai Restaurant at Holiday Inn Resort,0,芭东海滩,8.6,8.2,8.2
+泰国菜,Tony Restaurant,Tony Restaurant,0,邦涛和拉古纳海滩,8.4,8.7,7.6
+泰国菜,Baan Kalim,Baan Kalim,0,芭东海滩,7.1,8.2,7.4
+泰国菜,Mai Thai Restaurant,Mai Thai Restaurant,0,卡塔海滩,8.2,8.6,8.6
+泰国菜,卡塔乡村餐馆,卡塔乡村餐馆,0,卡塔海滩,7.9,7.5,7.7
+泰国菜,艾芭莎餐馆,艾芭莎餐馆,0,芭东海滩,7.7,8.0,7.7
+泰国菜,格兰德餐厅,格兰德餐厅,0,卡伦海滩,7.6,7.8,7.9
+泰国菜,Uptown Restaurant,Uptown Restaurant,0,船湖,8.7,7.6,8.1
+泰国菜,Bua 餐馆,Bua 餐馆,0,卡玛拉海滩,8.2,8.0,8.2
+泰国菜,哈根达斯冰激凌,哈根达斯冰激凌,0,周边小岛,7.8,7.7,8.0
+泰国菜,Patong Seafood Restaurant,Patong Seafood Restaurant,0,,7.3,7.3,7.1
+泰国菜,Halfway Inn,Halfway Inn,0,周边小岛,8.8,8.2,8.6
+泰国菜,Bamboo Kitchen,Bamboo Kitchen,0,卡伦海滩,8.5,8.5,8.5
+泰国菜,Kata Villa Restaurant,Kata Villa Restaurant,0,普吉风情区和拉万,8.2,8.2,8.2
+泰国菜,SILK Restaurant & Bar,SILK Restaurant & Bar,0,卡玛拉海滩,8.4,8.6,8.1
+泰国菜,双厨,双厨,0,卡塔海滩,7.5,8.1,8.1
+泰国菜,汉堡王,汉堡王,0,周边小岛,7.4,7.5,7.4
+泰国菜,The Orchid,The Orchid,0,卡塔海滩,7.5,7.8,7.2
+泰国菜,ThaiExpress心泰心厨,ThaiExpress心泰心厨(普吉岛店),0,塔廊,6.8,7.0,6.4
+泰国菜,Lucky Tom's,Lucky Tom's,0,卡伦海滩,8.5,8.1,8.1
+泰国菜,索菲亚咖啡,索菲亚咖啡,0,卡伦海滩,8.5,8.5,8.5
+泰国菜,甲米机场,甲米机场,0,卡伦海滩,7.2,7.2,7.2
+泰国菜,邦里帕钢琴酒吧,邦里帕钢琴酒吧,0,芭东海滩,7.6,8.5,8.1
+泰国菜,Red Duck Restaurant,Red Duck Restaurant,0,卡伦海滩,7.5,8.2,7.9
+泰国菜,Baan Chom View,Baan Chom View,0,卡伦海滩,7.7,8.4,8.4
+泰国菜,Bai Toey,Bai Toey,0,卡伦海滩,6.3,6.3,6.3
+泰国菜,Thai Thai Restaurant,Thai Thai Restaurant,0,卡伦海滩,8.6,8.6,8.6
+泰国菜,甜与辣餐厅,甜与辣餐厅,0,卡塔海滩,7.5,7.3,7.3
+泰国菜,绿洲水果园,绿洲水果园,0,邦涛和拉古纳海滩,6.1,6.1,6.1
+泰国菜,巴隆餐厅,巴隆餐厅,0,卡伦海滩,7.5,7.5,7.5
+泰国菜,Kan Eang@Pier,Kan Eang@Pier,0,查龙,8.4,8.4,8.4
+泰国菜,卡潘纳有限公司,卡潘纳有限公司,0,卡塔海滩,6.8,6.8,7.2
+泰国菜,皇家印度餐厅,皇家印度餐厅,0,芭东海滩,6.6,6.9,7.4
+泰国菜,Red Onion,Red Onion,0,卡伦海滩,5.0,5.0,5.0
+泰国菜,Krua  Pru Jeh Son Sea Food,Krua  Pru Jeh Son Sea Food,0,,7.8,7.8,7.8
+泰国菜,萨佰海滩,萨佰海滩,0,芭东海滩,7.3,7.3,7.3
+泰国菜,春红,春红,0,迈考海滩,7.6,7.6,7.6
+泰国菜,Ginja Taste,Ginja Taste,0,迈考海滩,7.9,8.5,7.9
+泰国菜,Mam's 餐厅,Mam's 餐厅,0,卡玛拉海滩,7.5,7.5,7.5
+泰国菜,海阳沙度假村,海阳沙度假村,0,,7.5,7.5,8.0
+泰国菜,摇滚的路上,摇滚的路上,0,卡伦海滩,8.0,8.5,8.5
+泰国菜,Oishi 拉面,Oishi 拉面,0,周边小岛,6.4,6.9,6.9
+泰国菜,Takieng Thai Restaurant,Takieng Thai Restaurant,0,迈考海滩,8.4,8.4,8.4
+泰国菜,Outdoor Restaurant,Outdoor Restaurant,0,卡伦海滩,8.5,8.5,8.5
+泰国菜,盐&胡椒餐厅,盐&胡椒餐厅,0,邦涛和拉古纳海滩,7.9,7.9,7.9
+泰国菜,SB Kitchen,SB Kitchen,0,,7.4,7.3,7.4
+泰国菜,The Cottage Restaurant,The Cottage Restaurant,0,船湖,8.0,8.0,8.0
+泰国菜,拉卡萨,拉卡萨,0,周边小岛,5.6,7.5,6.9
+泰国菜,H.C. 安德森,H.C. 安德森,0,卡玛拉海滩,7.0,7.4,7.0
+泰国菜,茉莉,茉莉,0,周边小岛,7.8,7.2,6.9
+泰国菜,东成西就,东成西就,0,芭东海滩,8.1,8.1,8.1
+泰国菜,TAI ROM PRAO,TAI ROM PRAO,0,周边小岛,7.5,7.5,7.5
+泰国菜,库克,库克,0,船湖,7.9,7.9,7.3
+泰国菜,美兰饭店 maelarn restaurant,美兰饭店 maelarn restaurant,0,芭东海滩,8.4,8.4,8.4
+泰国菜,Kaneang 2,Kaneang 2,0,查龙,6.8,6.8,6.7
+泰国菜,Sawasdee Thai Cuisine,Sawasdee Thai Cuisine,0,卡伦海滩,8.2,7.4,8.2
+泰国菜,三冠王,三冠王,0,卡伦海滩,7.2,7.7,7.7
+泰国菜,Lobster & Prawn Restaurant,Lobster & Prawn Restaurant,0,周边小岛,7.4,7.9,7.4
+泰国菜,老虎驿站,老虎驿站,0,周边小岛,7.5,7.5,7.5
+泰国菜,Chili Restaurant (at The Old Phuket),Chili Restaurant (at The Old Phuket),0,船湖,7.5,8.0,7.5
+泰国菜,朋友餐馆,朋友餐馆,0,周边小岛,7.0,6.7,7.0
+泰国菜,Raya Family ResTaurAnt,Raya Family ResTaurAnt,0,皇帝岛,7.0,7.0,7.0
+泰国菜,普瑞高,普瑞高,0,班阔,6.9,8.3,7.5
+泰国菜,斯凯拉,斯凯拉,0,苏林海滩,8.1,8.1,8.1
+泰国菜,碧利斯,碧利斯,0,邦涛和拉古纳海滩,7.5,7.5,7.5
+泰国菜,普吉山顶餐厅,普吉山顶餐厅,0,攀瓦角,7.0,7.0,7.0
+泰国菜,三兄妹,三兄妹,0,卡伦海滩,8.1,8.1,8.1
+泰国菜,Las Margaritas Grill & Cantina,Las Margaritas Grill & Cantina,0,卡伦海滩,8.1,8.1,8.1
+泰国菜,โซล,โซล,0,卡伦海滩,8.1,8.1,8.1
+泰国菜,Ka Jok See,Ka Jok See,0,船湖,6.5,6.5,6.5
+泰国菜,Sweet & Sour Restaurant,Sweet & Sour Restaurant,0,卡伦海滩,8.3,8.3,8.3
+泰国菜,萨拉布瓦,萨拉布瓦,0,芭东海滩,7.6,7.6,7.6
+泰国菜,Ambassador Bistro,Ambassador Bistro,0,芭东海滩,8.1,8.1,8.1
+泰国菜,大马里奥,大马里奥,0,芭东海滩,8.1,8.1,8.1
+泰国菜,木瓜餐厅,木瓜餐厅,0,卡伦海滩,8.1,8.1,8.1
+泰国菜,Dangs,Dangs,0,周边小岛,8.4,6.7,8.4
+泰国菜,Khun     Pha,Khun     Pha,0,普吉风情区,8.4,8.4,8.4
+泰国菜,Coast Star Mansion,Coast Star Mansion,0,芭东海滩,6.0,6.0,6.0
+泰国菜,Mom Tri's Kitchen at Villa Royale,Mom Tri's Kitchen at Villa Royale,0,卡伦海滩,8.1,8.1,8.1
+泰国菜,曼谷餐馆,曼谷餐馆,0,卡伦海滩,8.1,8.1,8.1
+泰国菜,享受,享受,0,卡伦海滩,7.7,7.7,7.7
+泰国菜,瑞德咖啡,瑞德咖啡,0,船湖,8.1,8.1,8.1
+泰国菜,Kin Dee Restaurant,Kin Dee Restaurant,0,迈考海滩,7.7,6.8,6.8
+泰国菜,巴鲁吃,巴鲁吃,0,卡伦海滩,8.1,8.1,8.1
+泰国菜,kohinoor indian food phuket,kohinoor indian food phuket,0,卡伦海滩,8.0,8.0,7.3
+泰国菜,Sea Hag Restaurant,Sea Hag Restaurant,0,芭东海滩,8.1,8.1,8.1
+泰国菜,En Vogue Restaurant at Avista Phuket Resort & Spa,En Vogue Restaurant at Avista Phuket Resort & Spa,0,卡伦海滩,8.1,8.1,8.1
+泰国菜,普吉茶站,普吉茶站,0,卡图/高尔夫球场,8.1,8.1,8.1
+泰国菜,Les Anges,Les Anges,0,船湖,8.1,8.1,8.1
+泰国菜,暹罗蓝,暹罗蓝,0,船湖,8.1,8.1,8.1
+泰国菜,东方勺,东方勺,0,邦涛和拉古纳海滩,7.5,7.5,7.5
+泰国菜,Mama's restaurant,Mama's restaurant,0,周边小岛,7.5,6.7,7.5
+泰国菜,拉娜餐厅,拉娜餐厅,0,卡伦海滩,7.4,8.1,7.4
+泰国菜,兰姆塞,兰姆塞,0,卡塔海滩,8.0,7.4,8.0
+泰国菜,当代餐馆,当代餐馆,0,周边小岛,7.0,7.0,7.0
+泰国菜,Joes Downstairs,Joes Downstairs,0,周边小岛,8.2,8.2,8.2
+泰国菜,莲花世界咖啡,莲花世界咖啡,0,周边小岛,8.1,8.1,8.1
+泰国菜,萨瓦迪餐馆,萨瓦迪餐馆,0,卡伦海滩,8.1,8.1,8.1
+泰国菜,Sugar Cane Restaurant,Sugar Cane Restaurant,0,查龙,8.0,8.0,8.0
+泰国菜,the port Restaurant,the port Restaurant,0,,7.4,8.0,8.0
+泰国菜,Blue Elephant Phuket,Blue Elephant Phuket,0,船湖,6.7,6.7,8.4
+泰国菜,红桌布餐厅,红桌布餐厅,0,邦涛和拉古纳海滩,6.7,6.9,6.7
+泰国菜,urban food,urban food,0,周边小岛,6.7,6.7,7.4
+泰国菜,都市美食,都市美食,0,周边小岛,7.8,7.8,7.8
+泰国菜,Display Holder,Display Holder,0,芭东海滩,7.0,7.0,7.0
+泰国菜,Baluchi,Baluchi,0,周边小岛,7.0,7.1,7.0
+泰国菜,Thai Season,Thai Season,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,黑蟹,黑蟹,0,,7.6,7.6,7.6
+泰国菜,Raya泰餐,Raya泰餐,0,船湖,6.9,7.0,6.9
+泰国菜,Kopi de Phuket,Kopi de Phuket,0,船湖,7.7,7.7,7.2
+泰国菜,Macarona - European Cuisine & Pizzeria,Macarona - European Cuisine & Pizzeria,0,周边小岛,7.7,7.7,7.7
+泰国菜,望海,望海,0,周边小岛,6.9,6.9,6.9
+泰国菜,sea breeze,sea breeze,0,周边小岛,8.4,8.4,8.4
+泰国菜,渗透,渗透,0,周边小岛,7.1,7.1,7.0
+泰国菜,Baba Pool Club,Baba Pool Club,0,攀瓦角,7.1,7.1,7.1
+泰国菜,丝绸,丝绸,0,周边小岛,7.1,7.1,7.1
+泰国菜,爸爸,爸爸,0,攀瓦角,7.0,7.0,6.9
+泰国菜,Di Di Restaurant,Di Di Restaurant,0,周边小岛,8.4,7.5,8.4
+泰国菜,Badsha Indian Food,Badsha Indian Food,0,周边小岛,8.4,8.4,8.4
+泰国菜,卡塔-卡罗海鲜,卡塔-卡罗海鲜,0,卡塔海滩,7.0,7.0,7.0
+泰国菜,Ruam Thep Inn Restaurant,Ruam Thep Inn Restaurant,0,卡伦海滩,8.2,8.2,8.2
+泰国菜,蒂姆餐厅,蒂姆餐厅,0,周边小岛,6.7,6.7,6.9
+泰国菜,帝王餐厅,帝王餐厅,0,奥普尔,6.9,6.9,6.9
+泰国菜,冠军酒吧,冠军酒吧,0,芭东海滩,8.1,8.1,8.1
+泰国菜,Ruen Thai,Ruen Thai,0,邦涛和拉古纳海滩,8.1,8.1,8.1
+泰国菜,吉他诺,吉他诺,0,攀瓦角,8.1,8.1,8.1
+泰国菜,泰式炒粉店,泰式炒粉店,0,周边小岛,8.1,8.1,8.1
+泰国菜,Chomtalay restaurant at Mandarava Resort and Spa,Chomtalay restaurant at Mandarava Resort and Spa,0,卡伦海滩,6.6,6.8,6.6
+泰国菜,Dee-Lish Bar & Restaurant,Dee-Lish Bar & Restaurant,0,周边小岛,8.2,7.4,7.4
+泰国菜,Lobby Bar at Club Andaman Beach Resort,Lobby Bar at Club Andaman Beach Resort,0,芭东海滩,6.9,6.9,6.9
+泰国菜,You & Me,You & Me,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,SOM 餐厅,SOM 餐厅,0,奈扬和奈通海滩,6.8,6.3,6.8
+泰国菜,SOM on the beach,SOM on the beach,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,卡苏丽娜餐馆,卡苏丽娜餐馆,0,周边小岛,7.5,7.5,7.5
+泰国菜,Sabai Sabai,Sabai Sabai,0,卡伦海滩,7.5,7.5,7.5
+泰国菜,Nikitas Beach Restaurant,Nikitas Beach Restaurant,0,周边小岛,7.5,7.5,8.4
+泰国菜,娜法兰 马哈,娜法兰 马哈,0,卡伦海滩,7.4,7.4,7.4
+泰国菜,阳光海滩,阳光海滩,0,周边小岛,7.1,7.3,7.1
+泰国菜,一纯咖啡,一纯咖啡,0,船湖,7.2,7.2,7.6
+泰国菜,LIM's Restaurant and Bar,LIM's Restaurant and Bar,0,芭东海滩,0.0,0.0,0.0
+泰国菜,萨沃依,萨沃依,0,普吉风情区和拉万,7.1,7.1,6.8
+泰国菜,红辣椒餐厅,红辣椒餐厅,0,,6.9,6.9,6.9
+泰国菜,乔家楼下,乔家楼下,0,周边小岛,7.0,7.0,6.7
+泰国菜,萨瓦迪餐馆,萨瓦迪餐馆,0,攀瓦角,6.4,6.8,6.8
+泰国菜,Promthep Cape Restaurant,Promthep Cape Restaurant,0,周边小岛,6.1,7.4,6.7
+泰国菜,Vitaporn,Vitaporn,0,船湖,6.7,6.7,6.7
+泰国菜,S&G Family Restaurant,S&G Family Restaurant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Hua-soi,Hua-soi,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Mr. Pancakes,Mr. Pancakes,0,卡伦海滩,7.5,6.7,7.5
+泰国菜,The Kitchen Kata Beach & Thai Cooking Class,The Kitchen Kata Beach & Thai Cooking Class,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Basilico Italian Restaurant & Hotel,Basilico Italian Restaurant & Hotel,0,卡玛拉海滩,0.0,0.0,0.0
+泰国菜,拉格里塔,拉格里塔,0,周边小岛,7.4,7.4,7.4
+泰国菜,BINKIS,BINKIS,0,卡伦海滩,7.1,7.0,7.1
+泰国菜,360 Degrees,360 Degrees,0,周边小岛,6.7,6.7,7.0
+泰国菜,树枝餐厅,树枝餐厅,0,周边小岛,6.7,6.9,6.9
+泰国菜,Twin Brothers,Twin Brothers,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Casa Blanca Restaurant,Casa Blanca Restaurant,0,卡伦海滩,5.9,5.9,5.9
+泰国菜,Beach Restaurant SALA Phuket Resort & SPA,Beach Restaurant SALA Phuket Resort & SPA,0,迈考海滩,6.9,6.9,6.9
+泰国菜,家用餐咖啡馆,家用餐咖啡馆,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Il Tagliere da Massimo,Il Tagliere da Massimo,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Poo Nurntong Restaurant,Poo Nurntong Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Suay Restaurant,Suay Restaurant,0,船湖,0.0,0.0,0.0
+泰国菜,Climax on Bangla,Climax on Bangla,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Karon Cafe Steakhouse & Thai Cuisine,Karon Cafe Steakhouse & Thai Cuisine,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Veranda,Veranda,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Marco Polo in Sorrento,Marco Polo in Sorrento,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Kaab Gluay,Kaab Gluay,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Sea Breeze Restaurant and Bar,Sea Breeze Restaurant and Bar,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Gusto Restaurant,Gusto Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Sweet Dreams,Sweet Dreams,0,苏林海滩,0.0,0.0,0.0
+泰国菜,Blue Horizon,Blue Horizon,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Danny's Bar Restaurant 44,Danny's Bar Restaurant 44,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Pan Yaah Thai Restaurant,Pan Yaah Thai Restaurant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Starfish Bar and Restaurant,Starfish Bar and Restaurant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Le Gong Restaraunt,Le Gong Restaraunt,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Pesto Restaurant,Pesto Restaurant,0,迈考海滩,0.0,0.0,0.0
+泰国菜,Sunset Restaurant,Sunset Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Thai Food,Thai Food,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Bread,Bread,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Schlusslicht,Schlusslicht,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Mr Thong,Mr Thong,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Sabai Sabai,Sabai Sabai,0,攀瓦角,0.0,0.0,0.0
+泰国菜,The Blue Mango Bar and Grill,The Blue Mango Bar and Grill,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Little Tiger,Little Tiger,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Kata Cuit,Kata Cuit,0,船湖,0.0,0.0,0.0
+泰国菜,Tunk Ka Cafe,Tunk Ka Cafe,0,班阔,0.0,0.0,0.0
+泰国菜,Banana Leaf,Banana Leaf,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Baba Soul Food,Baba Soul Food,0,船湖,0.0,0.0,0.0
+泰国菜,Krua Parichart restaurant,Krua Parichart restaurant,0,迈考海滩,0.0,0.0,0.0
+泰国菜,anchor inn,anchor inn,0,查龙,0.0,0.0,0.0
+泰国菜,Moo Restaurant,Moo Restaurant,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,Kata B-B-Q,Kata B-B-Q,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,White Orchid,White Orchid,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Vset,Vset,0,查龙,0.0,0.0,0.0
+泰国菜,Duck Spicy,Duck Spicy,0,芭东海滩,0.0,0.0,0.0
+泰国菜,The Flavour Restaurant,The Flavour Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,La Croisette,La Croisette,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,Audy Restaurant & beach club,Audy Restaurant & beach club,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,SALA Phuket Restaurant,SALA Phuket Restaurant,0,查龙,0.0,0.0,0.0
+泰国菜,Ohlala,Ohlala,0,周边小岛,0.0,0.0,0.0
+泰国菜,Tom Yam Koong,Tom Yam Koong,0,卡玛拉海滩,0.0,0.0,0.0
+泰国菜,Beach Bar,Beach Bar,0,攀瓦角,0.0,0.0,0.0
+泰国菜,Treetop Restaurant,Treetop Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Krua Parichart,Krua Parichart,0,普吉机场,0.0,0.0,0.0
+泰国菜,La gaetana,La gaetana,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,Mama Noi'is,Mama Noi'is,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,CatFish Cafe,CatFish Cafe,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,Ristorante Pizzeria Zafferano,Ristorante Pizzeria Zafferano,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Talay,Talay,0,船湖,0.0,0.0,0.0
+泰国菜,My Angel,My Angel,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,3 Spices Restaurant,3 Spices Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Po' Restuarant (mama),Po' Restuarant (mama),0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Patong Corner Restaurant,Patong Corner Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,"The Basil Restaurant, Karon Beach","The Basil Restaurant, Karon Beach",0,卡伦海滩,0.0,0.0,0.0
+泰国菜,The Blue Coral Bar,The Blue Coral Bar,0,周边小岛,0.0,0.0,0.0
+泰国菜,Baan Yin Dee,Baan Yin Dee,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Lotus,Lotus,0,普吉镇,7.0,7.0,7.0
+泰国菜,Pizz'Amore,Pizz'Amore,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,BBQ Hut Restaurant,BBQ Hut Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Tiger Bar,Tiger Bar,0,周边小岛,0.0,0.0,0.0
+泰国菜,Sala Bua Restaurant,Sala Bua Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,The Chalet Cuisine,The Chalet Cuisine,0,攀瓦角,0.0,0.0,0.0
+泰国菜,Coconut garden,Coconut garden,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Rossovivo,Rossovivo,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,Mamma Mia Grill & Restaurant Rawai,Mamma Mia Grill & Restaurant Rawai,0,周边小岛,0.0,0.0,0.0
+泰国菜,Sabai Corner,Sabai Corner,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Naiyang Park Restaurant,Naiyang Park Restaurant,0,船湖,0.0,0.0,0.0
+泰国菜,Mango Saloon,Mango Saloon,0,奈扬和奈通海滩,0.0,0.0,0.0
+泰国菜,Treffpunkt,Treffpunkt,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,Red Chair,Red Chair,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Thong Dee Restaurant and Bar,Thong Dee Restaurant and Bar,0,卡图/高尔夫球场,0.0,0.0,0.0
+泰国菜,Opus One Phuket,Opus One Phuket,0,船湖,0.0,0.0,0.0
+泰国菜,Octopus Restaurant,Octopus Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Siam Indigo Bar & Restaurant,Siam Indigo Bar & Restaurant,0,船湖,0.0,0.0,0.0
+泰国菜,Kan Eang 2,Kan Eang 2,0,周边小岛,0.0,0.0,0.0
+泰国菜,JJ's Bar & Food,JJ's Bar & Food,0,周边小岛,0.0,0.0,0.0
+泰国菜,Royal India Restaurant Patong,Royal India Restaurant Patong,0,周边小岛,0.0,0.0,0.0
+泰国菜,PS HOTEL restaurant,PS HOTEL restaurant,0,芭东海滩,6.7,6.7,6.7
+泰国菜,香蕉飞饼,香蕉飞饼,0,卡伦海滩,7.5,6.7,6.7
+泰国菜,Pavena's Bar & Kitchen,Pavena's Bar & Kitchen,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Bank Restaurant,Bank Restaurant,0,奈扬和奈通海滩,0.0,0.0,0.0
+泰国菜,The Blue Lagoon,The Blue Lagoon,0,普吉机场,0.0,0.0,0.0
+泰国菜,Chang Siam,Chang Siam,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Al Fresco Restaurant,Al Fresco Restaurant,0,卡玛拉海滩,0.0,0.0,0.0
+泰国菜,Mango,Mango,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Cookies at Falang Paradise,Cookies at Falang Paradise,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Tree Top Restaurant,Tree Top Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Ma-Now Restaurant,Ma-Now Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Sole Mio,Sole Mio,0,周边小岛,0.0,0.0,0.0
+泰国菜,Joy's Cafe,Joy's Cafe,0,周边小岛,0.0,0.0,0.0
+泰国菜,Charlie's Bar Restaurant,Charlie's Bar Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Diamond Beachclub,Diamond Beachclub,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Bo's Beach Bar and Restaurant,Bo's Beach Bar and Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Zazada Beach Club,Zazada Beach Club,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,The Two Sisters Bar & Restaurant,The Two Sisters Bar & Restaurant,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,Nok and Jo's Restaurant,Nok and Jo's Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Hang Around Restaurant & Bar,Hang Around Restaurant & Bar,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,The Orchid Garden,The Orchid Garden,0,周边小岛,0.0,0.0,0.0
+泰国菜,Southern Fried Rice,Southern Fried Rice,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Da No 1,Da No 1,0,周边小岛,0.0,0.0,0.0
+泰国菜,360 ? Bar & Grill,360 ? Bar & Grill,0,船湖,0.0,0.0,0.0
+泰国菜,Baan Kamnan Restaurant,Baan Kamnan Restaurant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Restaurant Break Point,Restaurant Break Point,0,周边小岛,0.0,0.0,0.0
+泰国菜,Rayaburi On Beach Restaurant,Rayaburi On Beach Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Mali Chic Beach Front Karon,Mali Chic Beach Front Karon,0,周边小岛,0.0,0.0,0.0
+泰国菜,Babylon Beach Club,Babylon Beach Club,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Mama Rien,Mama Rien,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Butterfly Bistro,Butterfly Bistro,0,周边小岛,0.0,0.0,0.0
+泰国菜,COCONUT Bar & Restaurant - Rawai Beach,COCONUT Bar & Restaurant - Rawai Beach,0,周边小岛,0.0,0.0,0.0
+泰国菜,Karlsson Restaurant & Steak House,Karlsson Restaurant & Steak House,0,周边小岛,0.0,0.0,0.0
+泰国菜,Prasop,Prasop,0,卡玛拉海滩,0.0,0.0,0.0
+泰国菜,Ton-Tan Restaurant,Ton-Tan Restaurant,0,迈考海滩,0.0,0.0,0.0
+泰国菜,OrientAsia,OrientAsia,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Lamai Restaurant,Lamai Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Baan Klung Jinda Restaurant,Baan Klung Jinda Restaurant,0,卡图/高尔夫球场,0.0,0.0,0.0
+泰国菜,The Recycle,The Recycle,0,周边小岛,0.0,0.0,0.0
+泰国菜,Royal India Restaurant,Royal India Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Orange Corner,Orange Corner,0,周边小岛,0.0,0.0,0.0
+泰国菜,Baan Ra Tree Restaurant,Baan Ra Tree Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Karlsson's Restaurant,Karlsson's Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Komma Pub & Restaurant,Komma Pub & Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,casa mia restaurant pizzeria,casa mia restaurant pizzeria,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Thai Lagoon Restaurant,Thai Lagoon Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,The Place,The Place,0,周边小岛,0.0,0.0,0.0
+泰国菜,Elephant Restaurant,Elephant Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Sun Set Bar,Sun Set Bar,0,奈扬和奈通海滩,0.0,0.0,0.0
+泰国菜,Phuket Abalone Farm & Restaurant,Phuket Abalone Farm & Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Siam Indigo Exotique Bar and Restaurant,Siam Indigo Exotique Bar and Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Baan Vijitt,Baan Vijitt,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,Siam Smile,Siam Smile,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Keang Lay,Keang Lay,0,攀瓦角,0.0,0.0,0.0
+泰国菜,The Black Crab,The Black Crab,0,周边小岛,0.0,0.0,0.0
+泰国菜,Wassana Bbq Buffet,Wassana Bbq Buffet,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,King Liew Vegetarian Restaurant,King Liew Vegetarian Restaurant,0,船湖,0.0,0.0,0.0
+泰国菜,The Surface Bar and Restaurant,The Surface Bar and Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Siam Supper Club,Siam Supper Club,0,周边小岛,0.0,0.0,0.0
+泰国菜,Nong Mai Rim Lea,Nong Mai Rim Lea,0,周边小岛,0.0,0.0,0.0
+泰国菜,Timber Hut,Timber Hut,0,攀瓦角,0.0,0.0,0.0
+泰国菜,Sabai Sabai Thai Cooking School & Restaurant,Sabai Sabai Thai Cooking School & Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Bob's Restaurant & Bar,Bob's Restaurant & Bar,0,卡玛拉海滩,0.0,0.0,0.0
+泰国菜,M Sports Bar and Restaurant,M Sports Bar and Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Diavolo,Diavolo,0,周边小岛,0.0,0.0,0.0
+泰国菜,Mong du Lay,Mong du Lay,0,周边小岛,0.0,0.0,0.0
+泰国菜,Smile Restaurant,Smile Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Peang-Prai Restaurant,Peang-Prai Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Oasia,Oasia,0,周边小岛,0.0,0.0,0.0
+泰国菜,Tablespoon,Tablespoon,0,周边小岛,0.0,0.0,0.0
+泰国菜,Brown rice,Brown rice,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,Mao Yan Pizza,Mao Yan Pizza,0,周边小岛,0.0,0.0,0.0
+泰国菜,Restaurant SAXONY Patong,Restaurant SAXONY Patong,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Vista Restaurant,Vista Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Tomato,Tomato,0,周边小岛,0.0,0.0,0.0
+泰国菜,Black Pepper,Black Pepper,0,周边小岛,0.0,0.0,0.0
+泰国菜,RPM Yacht Club,RPM Yacht Club,0,周边小岛,0.0,0.0,0.0
+泰国菜,Paradise View Point Bungalow and Restaurant,Paradise View Point Bungalow and Restaurant,0,船湖,0.0,0.0,0.0
+泰国菜,Patak Road Food Stalls,Patak Road Food Stalls,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Beergarden,Beergarden,0,周边小岛,0.0,0.0,0.0
+泰国菜,Orchid,Orchid,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Banana Corner,Banana Corner,0,周边小岛,0.0,0.0,0.0
+泰国菜,Rat's Beach Restaurant,Rat's Beach Restaurant,0,奈扬和奈通海滩,0.0,0.0,0.0
+泰国菜,Mission Hospital Restaurant & Health Food Centre,Mission Hospital Restaurant & Health Food Centre,0,卡图/高尔夫球场,0.0,0.0,0.0
+泰国菜,Welcome inn layan,Welcome inn layan,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,"Ruen Thai, Patong","Ruen Thai, Patong",0,周边小岛,0.0,0.0,0.0
+泰国菜,Wang Warin,Wang Warin,0,周边小岛,0.0,0.0,0.0
+泰国菜,Chaba,Chaba,0,周边小岛,0.0,0.0,0.0
+泰国菜,Hungry Corner,Hungry Corner,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Hin Tang,Hin Tang,0,卡玛拉海滩,0.0,0.0,0.0
+泰国菜,Kebab King Restaurant & Bar,Kebab King Restaurant & Bar,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,baitoey thai cuisine Karon Beach,baitoey thai cuisine Karon Beach,0,周边小岛,0.0,0.0,0.0
+泰国菜,The King's Kitchen,The King's Kitchen,0,周边小岛,0.0,0.0,0.0
+泰国菜,Paitung Restaurant,Paitung Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Chang Erawan,Chang Erawan,0,攀瓦角,0.0,0.0,0.0
+泰国菜,Pum Thai,Pum Thai,0,周边小岛,0.0,0.0,0.0
+泰国菜,Bluelagoon,Bluelagoon,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,E-san Restaurant Roysoaw,E-san Restaurant Roysoaw,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Baan Silom,Baan Silom,0,查龙,0.0,0.0,0.0
+泰国菜,Mali Waterfront,Mali Waterfront,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Pooh and Friends,Pooh and Friends,0,周边小岛,0.0,0.0,0.0
+泰国菜,Rivet & Rebar,Rivet & Rebar,0,周边小岛,0.0,0.0,0.0
+泰国菜,Riverside Restaurant,Riverside Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Shakers,Shakers,0,周边小岛,0.0,0.0,0.0
+泰国菜,Harry's Steakhouse & Hotel,Harry's Steakhouse & Hotel,0,周边小岛,0.0,0.0,0.0
+泰国菜,Calypso,Calypso,0,周边小岛,0.0,0.0,0.0
+泰国菜,Legends Sports Bar & Grill,Legends Sports Bar & Grill,0,周边小岛,0.0,0.0,0.0
+泰国菜,Hen Chef,Hen Chef,0,周边小岛,0.0,0.0,0.0
+泰国菜,Pond Restaurant,Pond Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Mamma Mia Grill & Restaurant Bangtao,Mamma Mia Grill & Restaurant Bangtao,0,周边小岛,0.0,0.0,0.0
+泰国菜,Mamma Mia Grill & Restaurant Kamala,Mamma Mia Grill & Restaurant Kamala,0,周边小岛,0.0,0.0,0.0
+泰国菜,180 Beach Bar,180 Beach Bar,0,周边小岛,0.0,0.0,0.0
+泰国菜,Weissbier & Wine,Weissbier & Wine,0,周边小岛,0.0,0.0,0.0
+泰国菜,Nood Nood,Nood Nood,0,卡图/高尔夫球场,0.0,0.0,0.0
+泰国菜,Koya Halal Food,Koya Halal Food,0,周边小岛,0.0,0.0,0.0
+泰国菜,Wiwan,Wiwan,0,查龙,0.0,0.0,0.0
+泰国菜,BAN THAI,BAN THAI,0,周边小岛,0.0,0.0,0.0
+泰国菜,Sala Loi,Sala Loi,0,攀瓦角,0.0,0.0,0.0
+泰国菜,Gotum Hostel & Restaurant,Gotum Hostel & Restaurant,0,船湖,0.0,0.0,0.0
+泰国菜,La Cabane,La Cabane,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,Bamboo Cafe,Bamboo Cafe,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,Ra Yaa,Ra Yaa,0,周边小岛,0.0,0.0,0.0
+泰国菜,Cafe Java,Cafe Java,0,周边小岛,0.0,0.0,0.0
+泰国菜,Archee restaurant,Archee restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,The Beach Bar 2,The Beach Bar 2,0,周边小岛,0.0,0.0,0.0
+泰国菜,La Piazzetta - Antichi Sapori,La Piazzetta - Antichi Sapori,0,周边小岛,0.0,0.0,0.0
+泰国菜,Dreams,Dreams,0,周边小岛,0.0,0.0,0.0
+泰国菜,Sea Breeze Cafe,Sea Breeze Cafe,0,周边小岛,0.0,0.0,0.0
+泰国菜,Naithonbeachclub,Naithonbeachclub,0,周边小岛,0.0,0.0,0.0
+泰国菜,Thai Sugar Hut,Thai Sugar Hut,0,周边小岛,0.0,0.0,0.0
+泰国菜,Champion Restaurant,Champion Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Chalawan Kitchen,Chalawan Kitchen,0,周边小岛,0.0,0.0,0.0
+泰国菜,Archees Restaurant,Archees Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Oiy Restaurant Phuket Camala Beach,Oiy Restaurant Phuket Camala Beach,0,周边小岛,0.0,0.0,0.0
+泰国菜,Tiffin Mama,Tiffin Mama,0,周边小岛,0.0,0.0,0.0
+泰国菜,Sabai Sabai Indian Restaurant,Sabai Sabai Indian Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Reggae Restaurant,Reggae Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,The Pickled Liver Bar,The Pickled Liver Bar,0,查龙,0.0,0.0,0.0
+泰国菜,Aubreys,Aubreys,0,船湖,0.0,0.0,0.0
+泰国菜,Binkies,Binkies,0,船湖,0.0,0.0,0.0
+泰国菜,Corazon Thai Restaurant,Corazon Thai Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Baan Hat Rawai,Baan Hat Rawai,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,Friendship Beach Waterfront Resort,Friendship Beach Waterfront Resort,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,Kochloeffel,Kochloeffel,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Pink Peppercorns @Phuket,Pink Peppercorns @Phuket,0,周边小岛,0.0,0.0,0.0
+泰国菜,Steve's Restruant and Takeaway,Steve's Restruant and Takeaway,0,周边小岛,0.0,0.0,0.0
+泰国菜,Skal Restaurant,Skal Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Munchhausen - Moon-House,Munchhausen - Moon-House,0,周边小岛,0.0,0.0,0.0
+泰国菜,3 Siblings Resturant,3 Siblings Resturant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Papas and mamas,Papas and mamas,0,周边小岛,0.0,0.0,0.0
+泰国菜,Green Leaf,Green Leaf,0,周边小岛,0.0,0.0,0.0
+泰国菜,Tin Shed,Tin Shed,0,周边小岛,0.0,0.0,0.0
+泰国菜,Le Bistro,Le Bistro,0,周边小岛,0.0,0.0,0.0
+泰国菜,Action Point Lounge Bar Restaurant,Action Point Lounge Bar Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Hokkien Patong,Hokkien Patong,0,周边小岛,0.0,0.0,0.0
+泰国菜,Peter's Bar and Restaurant,Peter's Bar and Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,ซูกิชิ บาร์บีคิว - เซ็นทรัลเฟสติวัล ภูเก็ต,ซูกิชิ บาร์บีคิว - เซ็นทรัลเฟสติวัล ภูเก็ต,0,周边小岛,0.0,0.0,0.0
+泰国菜,ทรู คอฟฟี่ จังซีลอน,ทรู คอฟฟี่ จังซีลอน,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,ห้องอาหารกะตะ บีช รีสอร์ท แอนด์ สปา,ห้องอาหารกะตะ บีช รีสอร์ท แอนด์ สปา,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,Be Shady,Be Shady,0,周边小岛,0.0,0.0,0.0
+泰国菜,Sarasin restaurant,Sarasin restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Non Pim 1 Rawai,Non Pim 1 Rawai,0,周边小岛,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ จังซีลอน ป่าตอง,สตาร์บัคส์ จังซีลอน ป่าตอง,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,เรือ อ.บุญเฉลิม โดยนายสนั่น รัตนศิธร,เรือ อ.บุญเฉลิม โดยนายสนั่น รัตนศิธร,0,迈考海滩,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ กะตะ เซ็นเตอร์,สตาร์บัคส์ กะตะ เซ็นเตอร์,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,Red Chair Plus,Red Chair Plus,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,La Boucherie Restaurant,La Boucherie Restaurant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,The Boathouse,The Boathouse,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,La Gritta,La Gritta,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,เรือศิริรัตน์ โดยนายสาทร พยนต์รัตน์,เรือศิริรัตน์ โดยนายสาทร พยนต์รัตน์,0,迈考海滩,0.0,0.0,0.0
+泰国菜,ห้องอาหารโรงแรมเดอะวิลเลจรีสอร์ทและสปา,ห้องอาหารโรงแรมเดอะวิลเลจรีสอร์ทและสปา,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Cucina,Cucina,0,迈考海滩,0.0,0.0,0.0
+泰国菜,Joe Downstairs,Joe Downstairs,0,芭东海滩,0.0,0.0,0.0
+泰国菜,The Kitchen,The Kitchen,0,芭东海滩,0.0,0.0,0.0
+泰国菜,เอ็ม-แซบ เซอร์วิส (95),เอ็ม-แซบ เซอร์วิส (95),0,芭东海滩,0.0,0.0,0.0
+泰国菜,Orange resTaurAnt,Orange resTaurAnt,0,芭东海滩,0.0,0.0,0.0
+泰国菜,ห้องอาหารภูเก็ต ออร์คิด รีสอร์ท แอนด์ สปา,ห้องอาหารภูเก็ต ออร์คิด รีสอร์ท แอนด์ สปา,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Live India Indian Restaurant,Live India Indian Restaurant,0,攀瓦角,0.0,0.0,0.0
+泰国菜,karon on the hill restaurant,karon on the hill restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,"Phuket Air Catering Co., Ltd.","Phuket Air Catering Co., Ltd.",0,迈考海滩,0.0,0.0,0.0
+泰国菜,Tom-Yam-Goong,Tom-Yam-Goong,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Tony Restaurant,Tony Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Sam's Steaks & Grill at Holiday Inn Phuket,Sam's Steaks & Grill at Holiday Inn Phuket,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Gastone Italian Restaurant,Gastone Italian Restaurant,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,TOTO Restaurant & Bar,TOTO Restaurant & Bar,0,攀瓦角,0.0,0.0,0.0
+泰国菜,SITNEY Chill pub & Restaurant,SITNEY Chill pub & Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,โอบองแปงจังซีลอน ภูเก็ต,โอบองแปงจังซีลอน ภูเก็ต,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Susan's Guesthouse,Susan's Guesthouse,0,查龙,0.0,0.0,0.0
+泰国菜,Tandoor Phuket Indian Restaurant,Tandoor Phuket Indian Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,ห้องอาหารเดอะสูท,ห้องอาหารเดอะสูท,0,芭东海滩,0.0,0.0,0.0
+泰国菜,บริษัท สแกนดิเนเวียน ไดเว่อร์ จำกัด,บริษัท สแกนดิเนเวียน ไดเว่อร์ จำกัด,0,芭东海滩,0.0,0.0,0.0
+泰国菜,2 Gusti,2 Gusti,0,周边小岛,0.0,0.0,0.0
+泰国菜,Phuket Restaurants - Where to Eat Phuket,Phuket Restaurants - Where to Eat Phuket,0,周边小岛,0.0,0.0,0.0
+泰国菜,Governor Mansion Blue Elephant cooking school,Governor Mansion Blue Elephant cooking school,0,船湖,0.0,0.0,0.0
+泰国菜,Phromthep,Phromthep,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,WPhuket Event and Advertising,WPhuket Event and Advertising,0,船湖,0.0,0.0,0.0
+泰国菜,Salvatore's Restaurant,Salvatore's Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Organic Thai Cooking,Organic Thai Cooking,0,查龙,0.0,0.0,0.0
+泰国菜,Salvatore's Restaurant,Salvatore's Restaurant,0,船湖,0.0,0.0,0.0
+泰国菜,Bellmans,Bellmans,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Kob's,Kob's,0,查龙,0.0,0.0,0.0
+泰国菜,Muyee Restaurant,Muyee Restaurant,0,奈扬和奈通海滩,0.0,0.0,0.0
+泰国菜,YumYum Restaurant,YumYum Restaurant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Breakfast Buffet at SALA Phuket Resort,Breakfast Buffet at SALA Phuket Resort,0,迈考海滩,0.0,0.0,0.0
+泰国菜,Watermark,Watermark,0,塔廊,0.0,0.0,0.0
+泰国菜,Rockfish,Rockfish,0,卡玛拉海滩,0.0,0.0,0.0
+泰国菜,Bamboo Restuarant,Bamboo Restuarant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Pan Yaah,Pan Yaah,0,芭东海滩,0.0,0.0,0.0
+泰国菜,เขียวหวาน by วังกุ้ง,เขียวหวาน by วังกุ้ง,0,查龙,0.0,0.0,0.0
+泰国菜,Sugar and Spice Restaurant,Sugar and Spice Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Baan Rim Pa Restaurant,Baan Rim Pa Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Watermark,Watermark,0,船湖,0.0,0.0,0.0
+泰国菜,Palm Tree Restaurant,Palm Tree Restaurant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,เครปcrepe/ไอศครีม icecream บ้านดอน เชิงทะเล,เครปcrepe/ไอศครีม icecream บ้านดอน เชิงทะเล,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,"Family Restaurant, Indian Food","Family Restaurant, Indian Food",0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Ban Sang Duan Muslim Food,Ban Sang Duan Muslim Food,0,船湖,0.0,0.0,0.0
+泰国菜,Kaab Gluay,Kaab Gluay,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Les Anges,Les Anges,0,船湖,0.0,0.0,0.0
+泰国菜,Ska Bar,Ska Bar,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Baan Klung Jinda Restaurant,Baan Klung Jinda Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,บริษัท ริโก้ส์ บางเทา จำกัด,บริษัท ริโก้ส์ บางเทา จำกัด,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Mr Kobi bar and resturant,Mr Kobi bar and resturant,0,奈扬和奈通海滩,0.0,0.0,0.0
+泰国菜,sea hag,sea hag,0,周边小岛,0.0,0.0,0.0
+泰国菜,The Green Man Pub,The Green Man Pub,0,查龙,0.0,0.0,0.0
+泰国菜,Lugar de Place,Lugar de Place,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,บริษัท ภูเก็ต เป๋าฮื้อ ฟาร์ม จำกัด,บริษัท ภูเก็ต เป๋าฮื้อ ฟาร์ม จำกัด,0,班阔,0.0,0.0,0.0
+泰国菜,คาเฟ่ ซิโน,คาเฟ่ ซิโน,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Da Maurizio,Da Maurizio,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Karon Sea Sands Resort,Karon Sea Sands Resort,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ ทไวไลท์ ออฟ บางลา,สตาร์บัคส์ ทไวไลท์ ออฟ บางลา,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Nong Nan Restaurant,Nong Nan Restaurant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Karlsson Restaurant Phuket,Karlsson Restaurant Phuket,0,芭东海滩,0.0,0.0,0.0
+泰国菜,ห้องอาหารล๊อบบี้บาร์ Andaman Beach Resort,ห้องอาหารล๊อบบี้บาร์ Andaman Beach Resort,0,芭东海滩,0.0,0.0,0.0
+泰国菜,ห้องอาหารปาล์มทรี,ห้องอาหารปาล์มทรี,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Secret Cliff,Secret Cliff,0,周边小岛,0.0,0.0,0.0
+泰国菜,กำไล คล้อยดี,กำไล คล้อยดี,0,卡图/高尔夫球场,0.0,0.0,0.0
+泰国菜,ซาน ต๊าท (ไทยแลนด์),ซาน ต๊าท (ไทยแลนด์),0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Aharn Aroy Shop,Aharn Aroy Shop,0,船湖,0.0,0.0,0.0
+泰国菜,rock fish,rock fish,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวี สาขาภูเก็ต,ร้านกาแฟวาวี สาขาภูเก็ต,0,查龙,0.0,0.0,0.0
+泰国菜,Viking Grill Garden,Viking Grill Garden,0,芭东海滩,0.0,0.0,0.0
+泰国菜,ร้าน ข้าวต้มปลา เขารัง,ร้าน ข้าวต้มปลา เขารัง,0,卡图/高尔夫球场,0.0,0.0,0.0
+泰国菜,บ้านริมเล,บ้านริมเล,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,ภูเก็ตแฟนตาซี,ภูเก็ตแฟนตาซี,0,苏林海滩,0.0,0.0,0.0
+泰国菜,La Gaetana,La Gaetana,0,攀瓦角,0.0,0.0,0.0
+泰国菜,Margherita Italian Restaurant and Pizzeria,Margherita Italian Restaurant and Pizzeria,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Bunrat,Bunrat,0,船湖,0.0,0.0,0.0
+泰国菜,Ratri Jazztaurant,Ratri Jazztaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,The Family Restaurant (Indian Food),The Family Restaurant (Indian Food),0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Oriental Spoon,Oriental Spoon,0,周边小岛,0.0,0.0,0.0
+泰国菜,Yam-Yam Restaurant,Yam-Yam Restaurant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,BANGKOK BURGER CO,BANGKOK BURGER CO,0,周边小岛,0.0,0.0,0.0
+泰国菜,Poo Rimlay Restaurant,Poo Rimlay Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Fellini Cucina Italiana,Fellini Cucina Italiana,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Chez Ratatouille,Chez Ratatouille,0,卡玛拉海滩,0.0,0.0,0.0
+泰国菜,The 9th Floor Restaurant and Bar,The 9th Floor Restaurant and Bar,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Fruity Erepes,Fruity Erepes,0,周边小岛,0.0,0.0,0.0
+泰国菜,C at Nai Yang,C at Nai Yang,0,周边小岛,0.0,0.0,0.0
+泰国菜,Break Point Hotel & Restaurant,Break Point Hotel & Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Carte Blanche,Carte Blanche,0,周边小岛,0.0,0.0,0.0
+泰国菜,Lai An Lao,Lai An Lao,0,周边小岛,0.0,0.0,0.0
+泰国菜,Ceramic Kitchen,Ceramic Kitchen,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,"GalloThai Co.,Ltd.","GalloThai Co.,Ltd.",0,周边小岛,0.0,0.0,0.0
+泰国菜,ร้านอีสานมหาชน,ร้านอีสานมหาชน,0,周边小岛,0.0,0.0,0.0
+泰国菜,Pickles,Pickles,0,周边小岛,0.0,0.0,0.0
+泰国菜,Kallot's Restaurant & Bar,Kallot's Restaurant & Bar,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,Da Vinci Ristorante Pizzeria,Da Vinci Ristorante Pizzeria,0,卡图/高尔夫球场,0.0,0.0,0.0
+泰国菜,"Richy Ltd., Part.","Richy Ltd., Part.",0,船湖,0.0,0.0,0.0
+泰国菜,Da Maurizio Bar Ristorante,Da Maurizio Bar Ristorante,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,ห้างหุ้นส่วนจำกัด ป่าหล่ายซีฟู้ด,ห้างหุ้นส่วนจำกัด ป่าหล่ายซีฟู้ด,0,攀瓦角,0.0,0.0,0.0
+泰国菜,yumyum Restaurant,yumyum Restaurant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Vintage@Yaovarad,Vintage@Yaovarad,0,卡图/高尔夫球场,0.0,0.0,0.0
+泰国菜,The 9th Floor,The 9th Floor,0,船湖,0.0,0.0,0.0
+泰国菜,Baluchi Restaurant,Baluchi Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Khrua Tonyom,Khrua Tonyom,0,船湖,0.0,0.0,0.0
+泰国菜,Floyd’s at Burasari,Floyd’s at Burasari,0,周边小岛,0.0,0.0,0.0
+泰国菜,Phuket Dimsum,Phuket Dimsum,0,船湖,0.0,0.0,0.0
+泰国菜,Krua Marina,Krua Marina,0,船湖,0.0,0.0,0.0
+泰国菜,Waterfront Restaurant,Waterfront Restaurant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,ร้านอาหารครัวลูกไม้,ร้านอาหารครัวลูกไม้,0,班阔,0.0,0.0,0.0
+泰国菜,Le Croissant,Le Croissant,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Grottino,Grottino,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Padiran iranian restaurant,Padiran iranian restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ ลาฟลอร่า ภูเก็ต,สตาร์บัคส์ ลาฟลอร่า ภูเก็ต,0,芭东海滩,0.0,0.0,0.0
+泰国菜,ห้องอาหารภัตตาคารเดอะรอยัล คิทเช่น,ห้องอาหารภัตตาคารเดอะรอยัล คิทเช่น,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Trattoria la Casereccia,Trattoria la Casereccia,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Skål Restaurant,Skål Restaurant,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Ubon Vietnam Food,Ubon Vietnam Food,0,周边小岛,0.0,0.0,0.0
+泰国菜,เรือพรสวรรค์ 17 โดยนางไฉน เจริญทรัพย์,เรือพรสวรรค์ 17 โดยนางไฉน เจริญทรัพย์,0,周边小岛,0.0,0.0,0.0
+泰国菜,Kruvit Raft,Kruvit Raft,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Watermark Phuket,Watermark Phuket,0,周边小岛,0.0,0.0,0.0
+泰国菜,Rendez vous,Rendez vous,0,船湖,0.0,0.0,0.0
+泰国菜,Maya Garden Bar & Restaurant,Maya Garden Bar & Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Kruvit Raft Restaurant,Kruvit Raft Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,ร้านอาหารสายลม(สงขลาแต่เตี๊ยม),ร้านอาหารสายลม(สงขลาแต่เตี๊ยม),0,查龙,0.0,0.0,0.0
+泰国菜,Spice Terrace Restaurant,Spice Terrace Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,sawasdee restaurants,sawasdee restaurants,0,周边小岛,0.0,0.0,0.0
+泰国菜,Kaffe De Phuket,Kaffe De Phuket,0,船湖,0.0,0.0,0.0
+泰国菜,Kab Klouy,Kab Klouy,0,芭东海滩,0.0,0.0,0.0
+泰国菜,copacabana,copacabana,0,周边小岛,0.0,0.0,0.0
+泰国菜,Rockfish Restaurant & Bar,Rockfish Restaurant & Bar,0,周边小岛,0.0,0.0,0.0
+泰国菜,Chili Thai Restaurant,Chili Thai Restaurant,0,船湖,0.0,0.0,0.0
+泰国菜,Baan Rim Pa Restaurant,Baan Rim Pa Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Harrys Patong,Harrys Patong,0,周边小岛,0.0,0.0,0.0
+泰国菜,Tom-Yam-Goong,Tom-Yam-Goong,0,周边小岛,0.0,0.0,0.0
+泰国菜,Baan Ra Tree2 Nai Thon,Baan Ra Tree2 Nai Thon,0,周边小岛,0.0,0.0,0.0
+泰国菜,Nong Mai Rim Lea,Nong Mai Rim Lea,0,周边小岛,0.0,0.0,0.0
+泰国菜,Indian Curry Club ICC,Indian Curry Club ICC,0,周边小岛,0.0,0.0,0.0
+泰国菜,Schlemmergarten Nanai (German Restaurant),Schlemmergarten Nanai (German Restaurant),0,卡伦海滩,0.0,0.0,0.0
+泰国菜,ทรู คอฟฟี่ ที่ทำการไปรษณีย์ทวีวงศ์,ทรู คอฟฟี่ ที่ทำการไปรษณีย์ทวีวงศ์,0,卡伦海滩,0.0,0.0,0.0
+泰国菜,Carte Blanche,Carte Blanche,0,攀瓦角,0.0,0.0,0.0
+泰国菜,JJs Kitchen Phuket,JJs Kitchen Phuket,0,周边小岛,0.0,0.0,0.0
+泰国菜,มนู ชูมณี,มนู ชูมณี,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,L'Orfeo Restaurant & Lounge,L'Orfeo Restaurant & Lounge,0,卡塔海滩,0.0,0.0,0.0
+泰国菜,Cloud 9 Lounge,Cloud 9 Lounge,0,普吉风情区和拉万,0.0,0.0,0.0
+泰国菜,王记外婆香冒菜(Kings grandma smell food),王记外婆香冒菜(Kings grandma smell food),0,周边小岛,0.0,0.0,0.0
+泰国菜,เยาวลักษณ์ ยั่งยืน,เยาวลักษณ์ ยั่งยืน,0,塔廊,0.0,0.0,0.0
+泰国菜,นาคาไข่มุก สาขาภูเก็ต,นาคาไข่มุก สาขาภูเก็ต,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Sapam Fishery,Sapam Fishery,0,船湖,0.0,0.0,0.0
+泰国菜,flintstone beach club,flintstone beach club,0,苏林海滩,0.0,0.0,0.0
+泰国菜,ร้านเก็จมุกดา,ร้านเก็จมุกดา,0,船湖,0.0,0.0,0.0
+泰国菜,ร้านร่มไม้ชายคา,ร้านร่มไม้ชายคา,0,卡图/高尔夫球场,0.0,0.0,0.0
+泰国菜,ภูเก็ต-พังงา ออสทริช ฟาร์ม,ภูเก็ต-พังงา ออสทริช ฟาร์ม,0,卡图/高尔夫球场,0.0,0.0,0.0
+泰国菜,Restaurant The Lunchroom,Restaurant The Lunchroom,0,芭东海滩,0.0,0.0,0.0
+泰国菜,หมี่โกเม้ง,หมี่โกเม้ง,0,船湖,0.0,0.0,0.0
+泰国菜,พฤกษา การ์เด้น,พฤกษา การ์เด้น,0,船湖,0.0,0.0,0.0
+泰国菜,Kota Khoa Mun Kai Chicken Rice,Kota Khoa Mun Kai Chicken Rice,0,船湖,0.0,0.0,0.0
+泰国菜,ร้านอาหารไทนาน,ร้านอาหารไทนาน,0,船湖,0.0,0.0,0.0
+泰国菜,Vittorio Restaurant & Bar,Vittorio Restaurant & Bar,0,芭东海滩,0.0,0.0,0.0
+泰国菜,ภูเก็ต 346,ภูเก็ต 346,0,船湖,0.0,0.0,0.0
+泰国菜,บริษัท พีโคโล มอนโด จำกัด,บริษัท พีโคโล มอนโด จำกัด,0,芭东海滩,0.0,0.0,0.0
+泰国菜,Thai Naan Restaurant,Thai Naan Restaurant,0,,0.0,0.0,0.0
+泰国菜,Las Margaritas,Las Margaritas,0,周边小岛,0.0,0.0,0.0
+泰国菜,Euro Food,Euro Food,0,周边小岛,0.0,0.0,0.0
+泰国菜,Mae Phon,Mae Phon,0,周边小岛,0.0,0.0,0.0
+泰国菜,Forturna Pavilion,Forturna Pavilion,0,周边小岛,0.0,0.0,0.0
+泰国菜,Ban Saeng Duan,Ban Saeng Duan,0,周边小岛,0.0,0.0,0.0
+泰国菜,Thai Nan,Thai Nan,0,周边小岛,0.0,0.0,0.0
+泰国菜,Liap Khrua Sapam,Liap Khrua Sapam,0,周边小岛,0.0,0.0,0.0
+泰国菜,Chom View,Chom View,0,周边小岛,0.0,0.0,0.0
+泰国菜,Farang 2 Restaurant,Farang 2 Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Da Maurizio Restaurante,Da Maurizio Restaurante,0,周边小岛,0.0,0.0,0.0
+泰国菜,Don's Café,Don's Café,0,周边小岛,0.0,0.0,0.0
+泰国菜,Ratri Jazztaurant,Ratri Jazztaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Nikita's Restaurant,Nikita's Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+泰国菜,Octopus,Octopus,0,周边小岛,0.0,0.0,0.0
+泰国菜,Baba Dining Lounge,Baba Dining Lounge,0,周边小岛,0.0,0.0,0.0
+泰国菜,La Boucherie,La Boucherie,0,周边小岛,0.0,0.0,0.0
+泰国菜,Come Inn Bar & Restaurant,Come Inn Bar & Restaurant,0,周边小岛,0.0,0.0,0.0
+泰国菜,Into the Med,Into the Med,0,周边小岛,0.0,0.0,0.0
+泰国菜,Harrys,Harrys,0,周边小岛,0.0,0.0,0.0
+泰国菜,Laem Thong,Laem Thong,0,卡图/高尔夫球场,0.0,0.0,0.0
+泰国菜,spice i'm,spice i'm,0,,0.0,0.0,0.0
+泰国菜,Babylon Beach Club,Babylon Beach Club,0,邦涛和拉古纳海滩,7.0,6.9,7.0
+泰式火锅,MK金泰式火锅,MK金泰式火锅,158,周边小岛,7.0,7.8,7.9
+泰式火锅,MK火锅,MK火锅,0,周边小岛,6.4,7.3,7.5
+泰式小吃,后旗辣功夫时尚麻辣烫,后旗辣功夫时尚麻辣烫,0,,8.4,8.4,8.4
+泰式小吃,秦关面道,秦关面道,0,,8.1,8.1,8.1
+泰式小吃,辣功夫麻辣烫,辣功夫麻辣烫,0,,8.1,8.1,8.1
+泰式小吃,辣功夫时尚麻辣烫,辣功夫时尚麻辣烫,0,,7.7,7.7,7.7
+泰式小吃,Euro Deli,Euro Deli,0,卡伦海滩,0.0,0.0,0.0
+泰式小吃,Siam Deli,Siam Deli,0,迈考海滩,0.0,0.0,0.0
+泰式小吃,Bake,Bake,0,周边小岛,0.0,0.0,0.0
+泰式小吃,香蕉飞饼,香蕉飞饼,0,,0.0,0.0,0.0
+泰式小吃,麻辣烫,麻辣烫,0,,0.0,0.0,0.0
+泰式小吃,姐妹土豆粉,姐妹土豆粉,0,,0.0,0.0,0.0
+泰式小吃,淮南,淮南,0,,0.0,0.0,0.0
+泰式小吃,Siam Deli,Siam Deli,0,周边小岛,0.0,0.0,0.0
+泰式小吃,你家我家来客家,你家我家来客家,0,,0.0,0.0,0.0
+泰式小吃,羊羊鸭脑壳,羊羊鸭脑壳,0,,0.0,0.0,0.0
+中餐,中国餐厅,中国餐厅,75,芭东海滩,9.1,9.1,9.2
+中餐,老二小厨,老二小厨,70,芭东海滩,9.2,9.1,9.2
+中餐,王辣辣酸辣粉,王辣辣酸辣粉,30,芭东海滩,9.1,9.2,9.2
+中餐,老广东中餐馆,老广东中餐馆,63,芭东海滩,9.1,9.1,9.1
+中餐,普吉聚缘中餐厅,普吉聚缘中餐厅,61,普吉镇,8.6,8.6,8.6
+中餐,财门餐厅,财门餐厅,147,芭东海滩,8.0,8.6,7.9
+中餐,shabushi日式自助火锅,shabushi日式自助火锅,0,芭东海滩,6.8,6.8,7.0
+中餐,四海一家通,四海一家通,0,芭东海滩,8.0,6.9,7.8
+中餐,一食六坊•中国简餐,一食六坊•中国简餐,0,,7.5,7.5,7.7
+中餐,榕香私房酱肘,榕香私房酱肘,0,,8.5,8.5,8.5
+中餐,无名饭店,无名饭店,0,芭东海滩,8.6,6.9,7.8
+中餐,王老汉烧鸡公,王老汉烧鸡公,0,,8.5,8.5,8.5
+中餐,中国客栈咖啡,中国客栈咖啡,0,船湖,8.5,8.5,8.5
+中餐,聚品园北京烤鸭,聚品园北京烤鸭,0,,7.4,7.4,7.4
+中餐,普吉莲香楼中餐厅,普吉莲香楼中餐厅,0,周边小岛,7.4,7.4,7.5
+中餐,京味斋,京味斋,0,,8.4,8.4,8.4
+中餐,晶源家味馆,晶源家味馆,27,,8.5,7.3,8.0
+中餐,泰国普吉岛中国餐厅,泰国普吉岛中国餐厅,0,,8.4,8.4,8.4
+中餐,千味涮,千味涮,0,,8.2,8.2,8.2
+中餐,三国英雄,三国英雄,0,,7.7,7.7,7.7
+中餐,千代香,千代香,0,,7.7,7.7,7.7
+中餐,旺顺阁小营鱼头泡饼,旺顺阁小营鱼头泡饼,0,,7.9,7.9,7.9
+中餐,猪儿酸汤猪脚火锅,猪儿酸汤猪脚火锅,0,,7.7,7.7,7.7
+中餐,The Royal Kitchen,The Royal Kitchen,0,,8.1,8.1,8.1
+中餐,"Hongkong, 老地方","Hongkong, 老地方",0,,8.4,8.4,8.4
+中餐,I 46 Oldtown,I 46 Oldtown,0,船湖,8.1,8.1,8.1
+中餐,普吉茶站,普吉茶站,0,卡图/高尔夫球场,8.1,8.1,8.1
+中餐,德克士新泰店-,德克士新泰店-,0,,8.1,8.1,8.1
+中餐,莲花餐厅,莲花餐厅,0,,7.3,7.3,7.3
+中餐,新世界百货成都店,新世界百货成都店,0,,7.7,7.7,7.7
+中餐,延吉大冷面,延吉大冷面,0,,7.7,7.7,7.7
+中餐,正宗单县羊肉汤,正宗单县羊肉汤,0,,7.7,7.7,7.7
+中餐,町香小馆,町香小馆,0,,8.1,8.1,8.1
+中餐,步行街餐厅,步行街餐厅,0,,8.1,8.1,8.1
+中餐,大钟楼,大钟楼,0,,7.2,7.7,7.7
+中餐,日照果木烤鸭,日照果木烤鸭,0,,6.8,6.8,6.8
+中餐,麦波蛋糕,麦波蛋糕,0,,7.7,7.7,7.7
+中餐,庆宾酒楼,庆宾酒楼,0,,8.2,8.2,8.2
+中餐,Hong Kong Restaurant Phuket,Hong Kong Restaurant Phuket,0,,8.1,8.1,8.1
+中餐,龙泉,龙泉,0,,8.1,8.1,8.1
+中餐,千禧酒家,千禧酒家,0,,7.2,7.2,7.2
+中餐,玉溪风味园,玉溪风味园,0,,8.0,8.0,8.0
+中餐,阿叶羊杂碎,阿叶羊杂碎,0,,7.7,7.7,7.2
+中餐,delicious美味,delicious美味,0,芭东海滩,7.4,7.4,7.4
+中餐,锦福元烧麦,锦福元烧麦,0,,8.2,8.2,8.2
+中餐,老边饺子馆甘家口店,老边饺子馆甘家口店,0,,7.7,7.2,7.2
+中餐,六号餐厅,六号餐厅,0,,8.4,6.7,5.9
+中餐,餐餐乐,餐餐乐,0,,7.7,7.7,7.7
+中餐,家用餐咖啡馆,家用餐咖啡馆,0,卡伦海滩,0.0,0.0,0.0
+中餐,科夫酒店,科夫酒店,0,卡伦海滩,0.0,0.0,0.0
+中餐,香港餐厅,香港餐厅,0,船湖,0.0,0.0,0.0
+中餐,中国餐厅,中国餐厅,0,周边小岛,0.0,0.0,0.0
+中餐,Pappadams,Pappadams,0,卡伦海滩,0.0,0.0,0.0
+中餐,Mala Dim Sum,Mala Dim Sum,0,卡伦海滩,0.0,0.0,0.0
+中餐,Dim Sum Yaowarat Krathu,Dim Sum Yaowarat Krathu,0,船湖,0.0,0.0,0.0
+中餐,RPM Yacht Club,RPM Yacht Club,0,周边小岛,0.0,0.0,0.0
+中餐,Gotum Hostel & Restaurant,Gotum Hostel & Restaurant,0,船湖,0.0,0.0,0.0
+中餐,王记外婆香冒菜(Central Festival),王记外婆香冒菜(Central Festival),0,周边小岛,0.0,0.0,0.0
+中餐,海底捞,海底捞,0,,0.0,0.0,0.0
+中餐,龙泉,龙泉,0,皇帝岛,0.0,0.0,0.0
+中餐,江西景德镇,江西景德镇,0,,0.0,0.0,0.0
+中餐,呷哺呷哺,呷哺呷哺,0,,0.0,0.0,0.0
+中餐,思凡火锅店,思凡火锅店,0,,0.0,0.0,0.0
+中餐,傣妹夫子庙,傣妹夫子庙,0,,0.0,0.0,0.0
+中餐,川菜,川菜,0,,0.0,0.0,0.0
+中餐,Modern Thai 团队餐厅,Modern Thai 团队餐厅,0,,0.0,0.0,0.0
+中餐,好日子,好日子,0,,0.0,0.0,0.0
+中餐,天津河西正阳春,天津河西正阳春,0,,0.0,0.0,0.0
+中餐,阿田大虾,阿田大虾,0,,0.0,0.0,0.0
+中餐,六味斋,六味斋,0,,0.0,0.0,0.0
+中餐,泰国地道汤粉,泰国地道汤粉,0,,0.0,0.0,0.0
+中餐,优品自助火锅,优品自助火锅,0,,0.0,0.0,0.0
+中餐,蜀城壹锅,蜀城壹锅,0,,0.0,0.0,0.0
+中餐,吃的,吃的,0,,0.0,0.0,0.0
+中餐,令氏家外家,令氏家外家,0,,0.0,0.0,0.0
+中餐,永和大王,永和大王,0,,0.0,0.0,0.0
+中餐,麻辣香锅,麻辣香锅,0,,0.0,0.0,0.0
+中餐,鱼酷烤鱼,鱼酷烤鱼,0,,0.0,0.0,0.0
+中餐,song,song,0,,0.0,0.0,0.0
+中餐,老昌春饼龙江店,老昌春饼龙江店,0,,0.0,0.0,0.0
+中餐,御香海,御香海,0,,0.0,0.0,0.0
+中餐,吃喝玩乐,吃喝玩乐,0,,0.0,0.0,0.0
+中餐,曲靖红土地餐厅,曲靖红土地餐厅,0,,0.0,0.0,0.0
+中餐,兰州,兰州,0,,0.0,0.0,0.0
+中餐,福建龙岩,福建龙岩,0,,0.0,0.0,0.0
+中餐,金泰潮潮州牛肉店,金泰潮潮州牛肉店,0,,0.0,0.0,0.0
+中餐,红辣椒月浦店,红辣椒月浦店,0,,0.0,0.0,0.0
+中餐,小二厨房.,小二厨房.,0,,0.0,0.0,0.0
+中餐,回龙观九毛九,回龙观九毛九,0,,0.0,0.0,0.0
+中餐,食为先酒家,食为先酒家,0,,0.0,0.0,0.0
+中餐,精糕细点,精糕细点,0,,0.0,0.0,0.0
+中餐,山西榆次盛宴,山西榆次盛宴,0,,0.0,0.0,0.0
+中餐,江火锅,江火锅,0,,0.0,0.0,0.0
+中餐,金牌老碗,金牌老碗,0,,0.0,0.0,0.0
+中餐,老妈火锅卷,老妈火锅卷,0,,0.0,0.0,0.0
+中餐,旭达粗粮馆,旭达粗粮馆,0,,0.0,0.0,0.0
+中餐,苏浙汇,苏浙汇,0,,0.0,0.0,0.0
+中餐,Indian Curry Club ICC,Indian Curry Club ICC,0,周边小岛,0.0,0.0,0.0
+中餐,东营酥饼世家,东营酥饼世家,0,,0.0,0.0,0.0
+中餐,东方宫中国兰州拉面,东方宫中国兰州拉面,0,,0.0,0.0,0.0
+中餐,祥和面馆,祥和面馆,0,,0.0,0.0,0.0
+中餐,伍记,伍记,0,,0.0,0.0,0.0
+中餐,山东沂南,山东沂南,0,,0.0,0.0,0.0
+中餐,天香苑牛肉汤,天香苑牛肉汤,0,,0.0,0.0,0.0
+中餐,天香苑牛肉汤,天香苑牛肉汤,0,,0.0,0.0,0.0
+中餐,龙华土菜馆,龙华土菜馆,0,,0.0,0.0,0.0
+中餐,清远,清远,0,,0.0,0.0,0.0
+中餐,宜宾金华饭店,宜宾金华饭店,0,,0.0,0.0,0.0
+中餐,水萝卜,水萝卜,0,,0.0,0.0,0.0
+中餐,苏浙汇,苏浙汇,0,,0.0,0.0,0.0
+中餐,方庄三只耳川湘粤大酒楼,方庄三只耳川湘粤大酒楼,0,,0.0,0.0,0.0
+中餐,运城,运城,0,,0.0,0.0,0.0
+中餐,东营,东营,0,,0.0,0.0,0.0
+中餐,香辣跳跳蛙,香辣跳跳蛙,0,,0.0,0.0,0.0
+中餐,盛记牛肉面,盛记牛肉面,0,,0.0,0.0,0.0
+中餐,康都炸肉,康都炸肉,0,,0.0,0.0,0.0
+中餐,山东滕州,山东滕州,0,,0.0,0.0,0.0
+中餐,保定市,保定市,0,,0.0,0.0,0.0
+海鲜,班赞生鲜市场,班赞生鲜市场,220,芭东海滩,8.5,7.1,7.4
+海鲜,Savoey Restaurant,Savoey Restaurant,354,周边小岛,7.6,7.8,7.4
+海鲜,99海鲜,99海鲜,158,邦涛和拉古纳海滩,6.5,5.9,6.2
+海鲜,好先生的海鲜,好先生的海鲜,199,芭东海滩,6.3,6.6,6.2
+海鲜,莲花餐厅,莲花餐厅,255,周边小岛,8.2,8.3,8.2
+海鲜,芭东海鲜餐厅,芭东海鲜餐厅,169,周边小岛,8.2,8.1,8.0
+海鲜,ANN餐厅,ANN餐厅,85,卡伦海滩,8.5,7.8,8.3
+海鲜,Thiw soen seafood Restaurant,Thiw soen seafood Restaurant,115,,9.2,8.8,9.2
+海鲜,Pad Thai ResTaurAnt,Pad Thai ResTaurAnt,76,,8.6,8.1,8.3
+海鲜,拉威海鲜市场,拉威海鲜市场,0,查龙,8.4,7.2,7.8
+海鲜,Kwong Shop Seafood,Kwong Shop Seafood,0,卡塔海滩,8.0,7.3,8.3
+海鲜,琳达海鲜,琳达海鲜,203,芭东海滩,8.1,7.3,8.0
+海鲜,第一海鲜餐厅,第一海鲜餐厅,115,周边小岛,7.8,7.3,7.8
+海鲜,Nong Mai Rim Lay Seafood,Nong Mai Rim Lay Seafood,0,,8.8,7.8,8.8
+海鲜,Mr. Good Seafood Phuket,Mr. Good Seafood Phuket,175,周边小岛,6.6,6.7,6.6
+海鲜,老暹罗餐厅,老暹罗餐厅,0,,7.1,7.5,7.4
+海鲜,RAYA海鲜,RAYA海鲜,0,周边小岛,7.1,6.8,6.9
+海鲜,TangKae海鲜,TangKae海鲜,0,普吉镇,7.3,7.3,7.3
+海鲜,UP 海鲜,UP 海鲜,0,周边小岛,7.7,7.6,7.6
+海鲜,兰花花园海鲜,兰花花园海鲜,130,周边小岛,6.5,7.0,6.7
+海鲜,娇永海鲜,娇永海鲜,0,卡塔海滩,5.8,6.5,6.4
+海鲜,Leam Hin Seafood,Leam Hin Seafood,0,周边小岛,7.4,7.4,7.2
+海鲜,通塞海鲜餐厅,通塞海鲜餐厅,0,周边小岛,7.6,7.4,7.1
+海鲜,Kwong Shop Seafood,Kwong Shop Seafood,0,卡伦海滩,8.0,7.7,8.0
+海鲜,Malisa restaurant,Malisa restaurant,0,卡塔海滩,6.6,6.9,6.9
+海鲜,Na Seafood,Na Seafood,0,卡伦海滩,7.5,7.5,7.5
+海鲜,钻石餐厅,钻石餐厅,0,芭东海滩,7.9,8.1,8.1
+海鲜,Trisara Seafood,Trisara Seafood,0,邦涛和拉古纳海滩,8.5,8.5,8.5
+海鲜,安达曼泰式海鲜,安达曼泰式海鲜,0,周边小岛,6.6,6.6,6.8
+海鲜,The place Restaurant,The place Restaurant,0,芭东海滩,8.5,8.0,8.0
+海鲜,王大福海鲜餐,王大福海鲜餐,0,卡伦海滩,6.7,6.7,6.7
+海鲜,Mama Restaurant,Mama Restaurant,0,攀瓦角,6.4,6.5,6.5
+海鲜,马力奇客餐厅,马力奇客餐厅,0,卡伦海滩,7.1,7.4,7.1
+海鲜,Kobis先生,Kobis先生,0,奈扬和奈通海滩,7.9,7.4,7.4
+海鲜,摇滚鱼,摇滚鱼,0,卡玛拉海滩,8.1,8.1,8.1
+海鲜,拉菲渔村,拉菲渔村,0,普吉镇,7.0,7.4,6.6
+海鲜,红辣椒餐厅,红辣椒餐厅,0,卡伦海滩,8.1,8.1,8.1
+海鲜,海鲜市场,海鲜市场,0,普吉风情区和拉万,7.6,7.6,7.6
+海鲜,太阳海鲜,太阳海鲜,0,,8.5,7.1,7.9
+海鲜,努克海鲜,努克海鲜,0,卡图/高尔夫球场,8.0,8.0,8.0
+海鲜,班卡龙,班卡龙,0,周边小岛,7.0,6.9,7.3
+海鲜,Ratchanee Seafood,Ratchanee Seafood,0,卡伦海滩,6.0,6.0,7.0
+海鲜,为思考而生的鱼,为思考而生的鱼,0,普吉风情区和拉万,8.1,8.1,8.1
+海鲜,芭帕斯海鲜,芭帕斯海鲜,0,船湖,6.8,6.8,6.8
+海鲜,椰壳餐厅,椰壳餐厅,0,芭东海滩,6.9,6.9,6.9
+海鲜,撒克隆49号,撒克隆49号,0,芭东海滩,6.9,6.9,7.0
+海鲜,first seafood restaurant,first seafood restaurant,0,,8.2,7.4,8.2
+海鲜,莲花餐厅,莲花餐厅,0,,7.3,7.3,7.3
+海鲜,奈阳,奈阳,0,奈扬和奈通海滩,8.1,6.7,7.4
+海鲜,phen's Resraurant,phen's Resraurant,0,奈扬和奈通海滩,7.4,6.7,6.7
+海鲜,四海一家,四海一家,0,,7.1,6.7,6.9
+海鲜,Pla Seafood,Pla Seafood,0,船湖,0.0,0.0,0.0
+海鲜,99 Seafood,99 Seafood,0,周边小岛,6.9,6.7,7.0
+海鲜,"Krua Pru Jeh Son Seafood, Mai Khao, Phuket","Krua Pru Jeh Son Seafood, Mai Khao, Phuket",0,普吉机场,7.1,7.1,7.1
+海鲜,梦来海鲜,梦来海鲜,0,周边小岛,8.1,8.1,8.1
+海鲜,Laem Panwa Seafood BBQ,Laem Panwa Seafood BBQ,0,周边小岛,8.1,8.1,8.1
+海鲜,晨来海鲜,晨来海鲜,0,芭东海滩,6.7,6.7,6.7
+海鲜,pp码头,pp码头,0,普吉风情区,6.7,6.0,6.7
+海鲜,Catch&Grill Seafood Restaurant,Catch&Grill Seafood Restaurant,0,芭东海滩,6.8,6.8,6.8
+海鲜,八爪鱼餐厅,八爪鱼餐厅,0,奈扬和奈通海滩,7.4,6.7,6.7
+海鲜,第一海鲜餐厅,第一海鲜餐厅,0,,6.7,6.7,7.4
+海鲜,kwang shop seafood,kwang shop seafood,0,周边小岛,7.0,7.0,7.0
+海鲜,Aroon resTaurAnt,Aroon resTaurAnt,0,,7.6,6.4,7.2
+海鲜,普莱克,普莱克,0,,7.0,6.9,7.0
+海鲜,库苏马海鲜,库苏马海鲜,0,周边小岛,6.7,6.7,6.7
+海鲜,99 Restaurant,99 Restaurant,0,,5.0,5.0,5.0
+海鲜,Bounty Seafood Restaurant,Bounty Seafood Restaurant,0,周边小岛,5.1,5.1,5.1
+海鲜,SOSO Thai Food Seafood,SOSO Thai Food Seafood,0,卡伦海滩,0.0,0.0,0.0
+海鲜,Bypass Seafood,Bypass Seafood,0,周边小岛,6.7,6.7,6.7
+海鲜,Mamamia Bar & Seafood,Mamamia Bar & Seafood,0,奈扬和奈通海滩,0.0,0.0,0.0
+海鲜,Mr. Yong ResTaurAnt,Mr. Yong ResTaurAnt,0,,5.9,7.5,7.5
+海鲜,Kamala,Kamala,0,芭东海滩,0.0,0.0,0.0
+海鲜,Palai Seafood,Palai Seafood,0,卡伦海滩,0.0,0.0,0.0
+海鲜,Batik Seafood,Batik Seafood,0,奈扬和奈通海滩,0.0,0.0,0.0
+海鲜,Sarasin Seafood Restaurant,Sarasin Seafood Restaurant,0,迈考海滩,0.0,0.0,0.0
+海鲜,Mali Seafood,Mali Seafood,0,卡伦海滩,0.0,0.0,0.0
+海鲜,Fon Fon Seafood,Fon Fon Seafood,0,查龙,0.0,0.0,0.0
+海鲜,Hana Seafood,Hana Seafood,0,奈扬和奈通海滩,0.0,0.0,0.0
+海鲜,Pak Nam Seafood,Pak Nam Seafood,0,卡图/高尔夫球场,0.0,0.0,0.0
+海鲜,Plai Laem Seafood Restaurant,Plai Laem Seafood Restaurant,0,班阔,0.0,0.0,0.0
+海鲜,Phong Phang Restaurant,Phong Phang Restaurant,0,卡伦海滩,0.0,0.0,0.0
+海鲜,Mali Seafood Restaurant & Bar,Mali Seafood Restaurant & Bar,0,卡伦海滩,0.0,0.0,0.0
+海鲜,Jakkajan Seafood,Jakkajan Seafood,0,普吉机场,0.0,0.0,0.0
+海鲜,Kwong Shop Seafood,Kwong Shop Seafood,0,,7.2,7.2,7.2
+海鲜,Chiangrai Seafood,Chiangrai Seafood,0,周边小岛,0.0,0.0,0.0
+海鲜,Mali Seafood Karon beach,Mali Seafood Karon beach,0,卡伦海滩,0.0,0.0,0.0
+海鲜,Andaman Grill,Andaman Grill,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+海鲜,Thanoon Seafood,Thanoon Seafood,0,周边小岛,0.0,0.0,0.0
+海鲜,Baan pla surin bouillabaisse,Baan pla surin bouillabaisse,0,周边小岛,0.0,0.0,0.0
+海鲜,Muyee seafood,Muyee seafood,0,周边小岛,0.0,0.0,0.0
+海鲜,Champion Seafood,Champion Seafood,0,芭东海滩,0.0,0.0,0.0
+海鲜,Chaiyo Seafood Restaurant,Chaiyo Seafood Restaurant,0,周边小岛,0.0,0.0,0.0
+海鲜,Kusuma Seafood,Kusuma Seafood,0,周边小岛,0.0,0.0,0.0
+海鲜,Pah Lai Seafood,Pah Lai Seafood,0,周边小岛,0.0,0.0,0.0
+海鲜,Thai Seafood Restaurant,Thai Seafood Restaurant,0,周边小岛,0.0,0.0,0.0
+海鲜,Ruantalay Seafood Phuket,Ruantalay Seafood Phuket,0,班阔,0.0,0.0,0.0
+海鲜,Talaythong Seafood,Talaythong Seafood,0,周边小岛,0.0,0.0,0.0
+海鲜,Charoen Seafood (Bung Mud),Charoen Seafood (Bung Mud),0,周边小岛,0.0,0.0,0.0
+海鲜,Ao Chalong Seafood,Ao Chalong Seafood,0,周边小岛,0.0,0.0,0.0
+海鲜,Rimhad Seafood,Rimhad Seafood,0,周边小岛,0.0,0.0,0.0
+海鲜,Nai HarnSeafood,Nai HarnSeafood,0,周边小岛,0.0,0.0,0.0
+海鲜,Luke Lay Seafood,Luke Lay Seafood,0,周边小岛,0.0,0.0,0.0
+海鲜,Natee seafood & restaurant,Natee seafood & restaurant,0,周边小岛,0.0,0.0,0.0
+海鲜,海底捞,海底捞,0,,0.0,0.0,0.0
+海鲜,铜店海鲜,铜店海鲜,0,,0.0,0.0,0.0
+海鲜,大家乐海鲜楼,大家乐海鲜楼,0,普吉镇,0.0,0.0,0.0
+海鲜,Sea. Food,Sea. Food,0,周边小岛,0.0,0.0,0.0
+海鲜,Casuaina Beach Pub,Casuaina Beach Pub,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+海鲜,Da Maria,Da Maria,0,卡伦海滩,0.0,0.0,0.0
+海鲜,Parknam Seafood,Parknam Seafood,0,卡图/高尔夫球场,0.0,0.0,0.0
+海鲜,Kan Eang at pier Restaurant,Kan Eang at pier Restaurant,0,周边小岛,0.0,0.0,0.0
+海鲜,KamaLa Sea Food,KamaLa Sea Food,0,周边小岛,0.0,0.0,0.0
+海鲜,Pak-Nam Seafood,Pak-Nam Seafood,0,班阔,0.0,0.0,0.0
+海鲜,万家渔火,万家渔火,0,,0.0,0.0,0.0
+海鲜,曲靖红土地餐厅,曲靖红土地餐厅,0,,0.0,0.0,0.0
+海鲜,鱼羊老镇,鱼羊老镇,0,,0.0,0.0,0.0
+海鲜,Seven Sea Seafood,Seven Sea Seafood,0,周边小岛,0.0,0.0,0.0
+海鲜,Thale Thong Seafood,Thale Thong Seafood,0,周边小岛,0.0,0.0,0.0
+日韩料理,Shabushi - Shabu Shabu Buffet,Shabushi - Shabu Shabu Buffet,74,周边小岛,8.1,8.1,8.0
+日韩料理,富士日本料理,富士日本料理(江西冷店),101,芭东海滩,8.1,8.0,7.8
+日韩料理,Fuji ResTaurAnt,Fuji ResTaurAnt,0,普吉镇,6.9,7.5,6.9
+日韩料理,马鲁,马鲁,0,卡伦海滩,7.5,8.1,8.1
+日韩料理,Yean韩式烤肉,Yean韩式烤肉,0,芭东海滩,7.9,7.9,7.9
+日韩料理,9号餐厅,9号餐厅,0,芭东海滩,7.5,7.5,7.5
+日韩料理,Sabushi,Sabushi,0,卡塔海滩,7.2,7.2,6.7
+日韩料理,SushiBox - Jungceylon,SushiBox - Jungceylon,0,卡伦海滩,7.5,7.5,7.5
+日韩料理,Pan Bistro,Pan Bistro,0,邦涛和拉古纳海滩,8.0,8.0,7.6
+日韩料理,歌舞伎餐厅,歌舞伎餐厅,0,迈考海滩,7.8,7.8,7.8
+日韩料理,MARU,MARU,0,周边小岛,7.0,7.1,7.1
+日韩料理,Fuji Japanese Restaurant,Fuji Japanese Restaurant,0,船湖,7.2,7.2,6.8
+日韩料理,Zen,Zen,0,周边小岛,7.2,7.6,7.6
+日韩料理,Red Snapper,Red Snapper,0,卡伦海滩,6.7,6.7,6.7
+日韩料理,Cohanya,Cohanya,0,周边小岛,6.9,6.9,6.9
+日韩料理,科夫酒店,科夫酒店,0,卡伦海滩,0.0,0.0,0.0
+日韩料理,Seoul BBQ,Seoul BBQ,0,卡伦海滩,0.0,0.0,0.0
+日韩料理,Kabuki Japanese Cuisine Theatre,Kabuki Japanese Cuisine Theatre,0,周边小岛,0.0,0.0,0.0
+日韩料理,Tamarind,Tamarind,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+日韩料理,Beebim's Restaurant,Beebim's Restaurant,0,周边小岛,0.0,0.0,0.0
+日韩料理,Big Fish,Big Fish,0,周边小岛,0.0,0.0,0.0
+日韩料理,Takashi,Takashi,0,,0.0,0.0,0.0
+日韩料理,Kin Youbi Hot Japanese Cuisine,Kin Youbi Hot Japanese Cuisine,0,卡图/高尔夫球场,0.0,0.0,0.0
+日韩料理,2 Gusti Italian and Japanese Cuisine,2 Gusti Italian and Japanese Cuisine,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+日韩料理,Sakado,Sakado,0,查龙,0.0,0.0,0.0
+日韩料理,Oishi Express,Oishi Express,0,普吉镇,8.0,7.5,8.0
+西式正餐,Swensen's,Swensen's,33,芭东海滩,8.9,9.0,8.7
+西式正餐,Kata cuit Restaurant,Kata cuit Restaurant,189,卡塔海滩,9.2,9.3,9.3
+西式正餐,9号餐厅,9号餐厅,82,芭东海滩,9.0,8.0,8.6
+西式正餐,You and Me Patong,You and Me Patong,0,卡伦海滩,8.5,7.4,8.4
+西式正餐,必胜客,必胜客,61,芭东海滩,7.2,7.8,7.2
+西式正餐,Baan Sailom Restaurant,Baan Sailom Restaurant,0,卡伦海滩,8.0,8.0,8.0
+西式正餐,角落餐厅,角落餐厅,0,邦涛和拉古纳海滩,7.7,8.6,8.4
+西式正餐,船坞酒吧,船坞酒吧,0,卡伦海滩,8.4,8.6,8.6
+西式正餐,Black Cat,Black Cat,0,邦涛和拉古纳海滩,8.5,8.4,8.6
+西式正餐,撒马诺天堂冰淇淋,撒马诺天堂冰淇淋,0,芭东海滩,8.2,8.2,7.9
+西式正餐,Hard Rock Cafe Phuket,Hard Rock Cafe Phuket,0,卡伦海滩,8.0,8.1,8.0
+西式正餐,沙盒餐厅,沙盒餐厅,0,迈考海滩,8.4,8.4,7.8
+西式正餐,安达曼烧烤,安达曼烧烤,0,迈考海滩,8.1,8.1,8.1
+西式正餐,Le Versace,Le Versace,0,芭东海滩,7.9,7.9,8.6
+西式正餐,索菲亚咖啡,索菲亚咖啡,0,卡伦海滩,8.5,8.5,8.5
+西式正餐,BYD Lofts Restaurant Bistro & Bar,BYD Lofts Restaurant Bistro & Bar,0,芭东海滩,7.5,8.2,7.8
+西式正餐,甜与辣餐厅,甜与辣餐厅,0,卡塔海滩,7.5,7.3,7.3
+西式正餐,Finnegan's Wake,Finnegan's Wake,0,芭东海滩,8.5,8.5,8.5
+西式正餐,Bill Bentley Pub,Bill Bentley Pub,0,周边小岛,7.6,7.6,7.5
+西式正餐,萨佰海滩,萨佰海滩,0,芭东海滩,7.3,7.3,7.3
+西式正餐,Bistro by Two Chefs,Bistro by Two Chefs,0,邦涛和拉古纳海滩,8.5,8.5,8.5
+西式正餐,比尔宾利酒吧,比尔宾利酒吧,0,迈考海滩,8.5,8.5,8.5
+西式正餐,Wine Connection,Wine Connection,0,攀瓦角,8.5,8.5,8.5
+西式正餐,悬崖餐厅,悬崖餐厅,0,卡伦海滩,6.3,6.3,6.3
+西式正餐,盐&胡椒餐厅,盐&胡椒餐厅,0,邦涛和拉古纳海滩,7.9,7.9,7.9
+西式正餐,Sam's Steaks and Grill,Sam's Steaks and Grill,0,芭东海滩,7.5,7.5,7.5
+西式正餐,D wine Italian Bistro & Wine Bar,D wine Italian Bistro & Wine Bar,0,普吉风情区和拉万,8.0,8.0,8.0
+西式正餐,The Bistro Lounge,The Bistro Lounge,0,邦涛和拉古纳海滩,8.5,8.5,8.5
+西式正餐,巴西罗迪奥牛排屋,巴西罗迪奥牛排屋,0,周边小岛,8.5,8.5,8.5
+西式正餐,H.C. 安德森,H.C. 安德森,0,卡玛拉海滩,7.0,7.4,7.0
+西式正餐,东成西就,东成西就,0,芭东海滩,8.1,8.1,8.1
+西式正餐,Bacco Perbacco,Bacco Perbacco,0,卡伦海滩,8.5,8.5,8.5
+西式正餐,Plum Restaurant,Plum Restaurant,0,卡玛拉海滩,7.3,7.8,7.8
+西式正餐,SWENSEN’S,SWENSEN’S,0,周边小岛,7.5,7.5,7.5
+西式正餐,Las Margaritas Grill & Cantina,Las Margaritas Grill & Cantina,0,卡伦海滩,8.1,8.1,8.1
+西式正餐,Ambassador Bistro,Ambassador Bistro,0,芭东海滩,8.1,8.1,8.1
+西式正餐,索伦托比萨,索伦托比萨,0,卡伦海滩,8.1,7.4,7.4
+西式正餐,Mom Tri's Kitchen at Villa Royale,Mom Tri's Kitchen at Villa Royale,0,卡伦海滩,8.1,8.1,8.1
+西式正餐,享受,享受,0,卡伦海滩,7.7,7.7,7.7
+西式正餐,Red Cafe,Red Cafe,0,卡玛拉海滩,8.4,8.4,5.9
+西式正餐,The Bistro by Two chefs,The Bistro by Two chefs,0,卡伦海滩,8.1,8.1,8.1
+西式正餐,拉姆丛林,拉姆丛林,0,卡伦海滩,7.7,7.7,7.7
+西式正餐,Les Anges,Les Anges,0,船湖,8.1,8.1,8.1
+西式正餐,Watercourt,Watercourt,0,卡玛拉海滩,8.1,8.1,8.1
+西式正餐,东方勺,东方勺,0,邦涛和拉古纳海滩,7.5,7.5,7.5
+西式正餐,"La sala restaurant , anantara phuket resort","La sala restaurant , anantara phuket resort",0,周边小岛,8.4,8.4,8.4
+西式正餐,拉娜餐厅,拉娜餐厅,0,卡伦海滩,7.4,8.1,7.4
+西式正餐,绝对赛隆,绝对赛隆,0,卡伦海滩,6.8,6.8,6.8
+西式正餐,Joes Downstairs,Joes Downstairs,0,周边小岛,8.2,8.2,8.2
+西式正餐,Le Charolais SteakHouse,Le Charolais SteakHouse,0,芭东海滩,8.1,8.1,8.1
+西式正餐,Phuket La Ca Sa,Phuket La Ca Sa,0,周边小岛,7.4,7.4,7.4
+西式正餐,Irish Times Pub,Irish Times Pub,0,卡伦海滩,6.7,6.7,6.7
+西式正餐,Macarona - European Cuisine & Pizzeria,Macarona - European Cuisine & Pizzeria,0,周边小岛,7.7,7.7,7.7
+西式正餐,卡马拉烧烤,卡马拉烧烤,0,周边小岛,7.6,7.2,7.6
+西式正餐,意大利工作,意大利工作,0,卡塔海滩,7.3,7.3,8.0
+西式正餐,Italian Restaurant Pizzeria,Italian Restaurant Pizzeria,0,芭东海滩,8.3,7.4,8.3
+西式正餐,渗透,渗透,0,周边小岛,7.1,7.1,7.0
+西式正餐,Di Di Restaurant,Di Di Restaurant,0,周边小岛,8.4,7.5,8.4
+西式正餐,Badsha Indian Food,Badsha Indian Food,0,周边小岛,8.4,8.4,8.4
+西式正餐,Bodega & Grill,Bodega & Grill,0,周边小岛,8.2,8.2,8.2
+西式正餐,吉他诺,吉他诺,0,攀瓦角,8.1,8.1,8.1
+西式正餐,Brasserie Phuket,Brasserie Phuket,0,船湖,8.1,8.1,8.1
+西式正餐,Zen,Zen,0,周边小岛,7.2,7.6,7.6
+西式正餐,Sandwich Shoppe Chalong,Sandwich Shoppe Chalong,0,周边小岛,8.1,8.1,8.1
+西式正餐,Pasta,Pasta,0,周边小岛,8.1,8.1,8.1
+西式正餐,SOM on the beach,SOM on the beach,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Nikitas Beach Restaurant,Nikitas Beach Restaurant,0,周边小岛,7.5,7.5,8.4
+西式正餐,PASTA e Via,PASTA e Via,0,周边小岛,7.4,7.4,7.4
+西式正餐,Nero咖啡,Nero咖啡,0,卡伦海滩,7.3,6.8,7.3
+西式正餐,幸运13三明治,幸运13三明治,0,普吉风情区和拉万,8.1,7.4,7.4
+西式正餐,La Trattoria Italian Restaurant,La Trattoria Italian Restaurant,0,周边小岛,7.1,7.1,7.5
+西式正餐,Acqua Restaurant,Acqua Restaurant,0,芭东海滩,6.9,6.9,6.9
+西式正餐,The 9th Floor Restaurant & Bar,The 9th Floor Restaurant & Bar,0,周边小岛,8.3,8.3,8.3
+西式正餐,Basilico Italian Restaurant & Hotel,Basilico Italian Restaurant & Hotel,0,卡玛拉海滩,0.0,0.0,0.0
+西式正餐,Riverspoon,Riverspoon,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Oasia,Oasia,0,周边小岛,7.0,7.0,7.0
+西式正餐,Buffalo Steak House - Karon Beach,Buffalo Steak House - Karon Beach,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Il Tagliere da Massimo,Il Tagliere da Massimo,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Churrasco Phuket Steakhouse,Churrasco Phuket Steakhouse,0,周边小岛,0.0,0.0,0.0
+西式正餐,Climax on Bangla,Climax on Bangla,0,芭东海滩,0.0,0.0,0.0
+西式正餐,Karon Cafe Steakhouse & Thai Cuisine,Karon Cafe Steakhouse & Thai Cuisine,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Veranda,Veranda,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Marco Polo in Sorrento,Marco Polo in Sorrento,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Gusto Restaurant,Gusto Restaurant,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Bella Vista Restaurant,Bella Vista Restaurant,0,卡塔海滩,0.0,0.0,0.0
+西式正餐,The Garden of Flavors,The Garden of Flavors,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Pesto Restaurant,Pesto Restaurant,0,迈考海滩,0.0,0.0,0.0
+西式正餐,Capannina by Limoncello,Capannina by Limoncello,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Terrazzo Ristorante Bar,Terrazzo Ristorante Bar,0,芭东海滩,0.0,0.0,0.0
+西式正餐,Sunset Bar,Sunset Bar,0,攀瓦角,0.0,0.0,0.0
+西式正餐,Cefalu Restaurant,Cefalu Restaurant,0,卡图/高尔夫球场,0.0,0.0,0.0
+西式正餐,Kata Cuit,Kata Cuit,0,船湖,0.0,0.0,0.0
+西式正餐,Pizzeria Da Moreno,Pizzeria Da Moreno,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Cafe Java,Cafe Java,0,卡塔海滩,0.0,0.0,0.0
+西式正餐,Aussie Pub Kamala,Aussie Pub Kamala,0,卡玛拉海滩,0.0,0.0,0.0
+西式正餐,The Flavour Restaurant,The Flavour Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,La Croisette,La Croisette,0,普吉风情区和拉万,0.0,0.0,0.0
+西式正餐,SALA Phuket Restaurant,SALA Phuket Restaurant,0,查龙,0.0,0.0,0.0
+西式正餐,Leo & Mas Ristorante Italiano e Pizzeria,Leo & Mas Ristorante Italiano e Pizzeria,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Ohlala,Ohlala,0,周边小岛,0.0,0.0,0.0
+西式正餐,Catch Beach Club,Catch Beach Club,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Green Mango,Green Mango,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Ristorante Pizzeria Zafferano,Ristorante Pizzeria Zafferano,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Bucintoro Pizzeria-Ristorante,Bucintoro Pizzeria-Ristorante,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Breeze at Cape Yamu,Breeze at Cape Yamu,0,船湖,0.0,0.0,0.0
+西式正餐,Mare,Mare,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,My Angel,My Angel,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Lo Zammi,Lo Zammi,0,船湖,0.0,0.0,0.0
+西式正餐,Da Mario Karon,Da Mario Karon,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,"The Basil Restaurant, Karon Beach","The Basil Restaurant, Karon Beach",0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Beach Bar Phuket,Beach Bar Phuket,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Restaurant Royale Nam Tok,Restaurant Royale Nam Tok,0,周边小岛,0.0,0.0,0.0
+西式正餐,Locavore Restaurant,Locavore Restaurant,0,卡玛拉海滩,0.0,0.0,0.0
+西式正餐,Pizz'Amore,Pizz'Amore,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,BBQ Hut Restaurant,BBQ Hut Restaurant,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Dibuk restaurant,Dibuk restaurant,0,船湖,0.0,0.0,0.0
+西式正餐,Sala Bua Restaurant,Sala Bua Restaurant,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Kallot's Restaurant & Bar,Kallot's Restaurant & Bar,0,周边小岛,0.0,0.0,0.0
+西式正餐,Surin Bay Inn Restaurant,Surin Bay Inn Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Rossovivo,Rossovivo,0,卡塔海滩,0.0,0.0,0.0
+西式正餐,Ristorante Talanuri,Ristorante Talanuri,0,卡玛拉海滩,0.0,0.0,0.0
+西式正餐,The Dining Room at Pacific Club,The Dining Room at Pacific Club,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,DeDos,DeDos,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Mamma Mia Grill & Restaurant Rawai,Mamma Mia Grill & Restaurant Rawai,0,周边小岛,0.0,0.0,0.0
+西式正餐,Mango Saloon,Mango Saloon,0,奈扬和奈通海滩,0.0,0.0,0.0
+西式正餐,Treffpunkt,Treffpunkt,0,卡塔海滩,0.0,0.0,0.0
+西式正餐,Coffee Mania,Coffee Mania,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Opus One Phuket,Opus One Phuket,0,船湖,0.0,0.0,0.0
+西式正餐,Cudos Restaurant & Bar,Cudos Restaurant & Bar,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Flame,Flame,0,卡图/高尔夫球场,0.0,0.0,0.0
+西式正餐,Salvatore's Restaurant,Salvatore's Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,Royal India Restaurant Patong,Royal India Restaurant Patong,0,周边小岛,0.0,0.0,0.0
+西式正餐,Rico's Pizzeria and Steakhouse,Rico's Pizzeria and Steakhouse,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Long Beach Terrace,Long Beach Terrace,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Harrys Karon,Harrys Karon,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Al Fresco Restaurant,Al Fresco Restaurant,0,卡玛拉海滩,0.0,0.0,0.0
+西式正餐,Texas Steakhouse,Texas Steakhouse,0,船湖,0.0,0.0,0.0
+西式正餐,Papillon Bar & Restaurant,Papillon Bar & Restaurant,0,船湖,0.0,0.0,0.0
+西式正餐,La Regina Della Pizza,La Regina Della Pizza,0,船湖,0.0,0.0,0.0
+西式正餐,Bondi Aussie Bar & Grill Phuket,Bondi Aussie Bar & Grill Phuket,0,周边小岛,0.0,0.0,0.0
+西式正餐,Cookies at Falang Paradise,Cookies at Falang Paradise,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,La Boheme Cafe,La Boheme Cafe,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Joy's Cafe,Joy's Cafe,0,周边小岛,0.0,0.0,0.0
+西式正餐,Da Mario,Da Mario,0,周边小岛,0.0,0.0,0.0
+西式正餐,Super Burgers,Super Burgers,0,普吉风情区和拉万,0.0,0.0,0.0
+西式正餐,Diamond Beachclub,Diamond Beachclub,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,White Box Bar & Restaurant,White Box Bar & Restaurant,0,芭东海滩,0.0,0.0,0.0
+西式正餐,Wine Connection Deli & Bistro - Bangtao,Wine Connection Deli & Bistro - Bangtao,0,卡图/高尔夫球场,0.0,0.0,0.0
+西式正餐,Toto Italian Restaurant,Toto Italian Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Nok and Jo's Restaurant,Nok and Jo's Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,The Orchid Garden,The Orchid Garden,0,周边小岛,0.0,0.0,0.0
+西式正餐,Horn Grill Steakhouse,Horn Grill Steakhouse,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Montes,Montes,0,芭东海滩,0.0,0.0,0.0
+西式正餐,Belgian Beer Cafe Graceland,Belgian Beer Cafe Graceland,0,周边小岛,0.0,0.0,0.0
+西式正餐,Mando Restaurant & Steakhouse,Mando Restaurant & Steakhouse,0,普吉风情区和拉万,0.0,0.0,0.0
+西式正餐,Le Celtique,Le Celtique,0,卡塔海滩,0.0,0.0,0.0
+西式正餐,Moderna,Moderna,0,卡塔海滩,0.0,0.0,0.0
+西式正餐,Sugar Reef Sports Bar & Restaurant,Sugar Reef Sports Bar & Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,AllStar Restaurant & Sports Bar,AllStar Restaurant & Sports Bar,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,360 ? Bar & Grill,360 ? Bar & Grill,0,船湖,0.0,0.0,0.0
+西式正餐,Los Amigos Cantina,Los Amigos Cantina,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Restaurant Break Point,Restaurant Break Point,0,周边小岛,0.0,0.0,0.0
+西式正餐,DaVinci,DaVinci,0,普吉风情区和拉万,0.0,0.0,0.0
+西式正餐,Baan pla surin bouillabaisse,Baan pla surin bouillabaisse,0,周边小岛,0.0,0.0,0.0
+西式正餐,Mali Chic Beach Front Karon,Mali Chic Beach Front Karon,0,周边小岛,0.0,0.0,0.0
+西式正餐,Babylon Beach Club,Babylon Beach Club,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Sorrento pizzeria,Sorrento pizzeria,0,卡塔海滩,0.0,0.0,0.0
+西式正餐,Karlsson Restaurant & Steak House,Karlsson Restaurant & Steak House,0,周边小岛,0.0,0.0,0.0
+西式正餐,baia del sole,baia del sole,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,The Ship Inn,The Ship Inn,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Ton-Tan Restaurant,Ton-Tan Restaurant,0,迈考海滩,0.0,0.0,0.0
+西式正餐,Pizza 2000,Pizza 2000,0,卡图/高尔夫球场,0.0,0.0,0.0
+西式正餐,Amalfi,Amalfi,0,周边小岛,0.0,0.0,0.0
+西式正餐,Taosha Restaurant & Bar,Taosha Restaurant & Bar,0,周边小岛,0.0,0.0,0.0
+西式正餐,Full Moon Brew Work,Full Moon Brew Work,0,周边小岛,0.0,0.0,0.0
+西式正餐,Sandwich Shoppe,Sandwich Shoppe,0,周边小岛,0.0,0.0,0.0
+西式正餐,Norbu's Steakhouse,Norbu's Steakhouse,0,周边小岛,0.0,0.0,0.0
+西式正餐,Cucina at the JW Marriott Phuket Resort,Cucina at the JW Marriott Phuket Resort,0,周边小岛,0.0,0.0,0.0
+西式正餐,Art Caffe,Art Caffe,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Into The Sea,Into The Sea,0,周边小岛,0.0,0.0,0.0
+西式正餐,Karlsson's Restaurant,Karlsson's Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,casa mia restaurant pizzeria,casa mia restaurant pizzeria,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Chicago Steak House,Chicago Steak House,0,周边小岛,0.0,0.0,0.0
+西式正餐,The Place,The Place,0,周边小岛,0.0,0.0,0.0
+西式正餐,Elephant Restaurant,Elephant Restaurant,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,El Gaucho by Movenpick Resort and Spa Karon Beach,El Gaucho by Movenpick Resort and Spa Karon Beach,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Ben's Deli,Ben's Deli,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Uncle Nan's Italian Restaurant,Uncle Nan's Italian Restaurant,0,攀瓦角,0.0,0.0,0.0
+西式正餐,Limoncello Restaurant Phuket,Limoncello Restaurant Phuket,0,奈扬和奈通海滩,0.0,0.0,0.0
+西式正餐,Buffalo Steak House - Kata Plaza,Buffalo Steak House - Kata Plaza,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Royal Tandoor House,Royal Tandoor House,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Marcopolo in Sorrentoi,Marcopolo in Sorrentoi,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,The Surface Bar and Restaurant,The Surface Bar and Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,Burger House,Burger House,0,周边小岛,0.0,0.0,0.0
+西式正餐,Spaghetti & C.,Spaghetti & C.,0,船湖,0.0,0.0,0.0
+西式正餐,Diavolo,Diavolo,0,周边小岛,0.0,0.0,0.0
+西式正餐,Buffalo Steak House - Patong Beach,Buffalo Steak House - Patong Beach,0,周边小岛,0.0,0.0,0.0
+西式正餐,Oasia,Oasia,0,周边小岛,0.0,0.0,0.0
+西式正餐,SUN SMILE,SUN SMILE,0,周边小岛,0.0,0.0,0.0
+西式正餐,Hog's Breath Cafe,Hog's Breath Cafe,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,La Romantica,La Romantica,0,船湖,0.0,0.0,0.0
+西式正餐,Top Of The Reef at Cape Panwa Hotel,Top Of The Reef at Cape Panwa Hotel,0,攀瓦角,0.0,0.0,0.0
+西式正餐,La Scala,La Scala,0,船湖,0.0,0.0,0.0
+西式正餐,Mao Yan Pizza,Mao Yan Pizza,0,周边小岛,0.0,0.0,0.0
+西式正餐,Baoli,Baoli,0,查龙,0.0,0.0,0.0
+西式正餐,Vista Restaurant,Vista Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,al piccolo covo,al piccolo covo,0,周边小岛,0.0,0.0,0.0
+西式正餐,Black Pepper,Black Pepper,0,周边小岛,0.0,0.0,0.0
+西式正餐,Hilltop Bar & Restaurant,Hilltop Bar & Restaurant,0,芭东海滩,0.0,0.0,0.0
+西式正餐,Azure,Azure,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Vecchia Napoli,Vecchia Napoli,0,查龙,0.0,0.0,0.0
+西式正餐,Saffron,Saffron,0,周边小岛,0.0,0.0,0.0
+西式正餐,The Coffee Club,The Coffee Club,0,周边小岛,0.0,0.0,0.0
+西式正餐,Locanda all Aragosta,Locanda all Aragosta,0,卡玛拉海滩,0.0,0.0,0.0
+西式正餐,Pizzeria da Michele,Pizzeria da Michele,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Kebab King Restaurant & Bar,Kebab King Restaurant & Bar,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Schnitzel Paradise at Bauman Ville,Schnitzel Paradise at Bauman Ville,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Ratri Italian Bar and Grill,Ratri Italian Bar and Grill,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Buffalo Steak House - Kata Dino,Buffalo Steak House - Kata Dino,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Fatty's,Fatty's,0,查龙,0.0,0.0,0.0
+西式正餐,Bangla Steakhouse,Bangla Steakhouse,0,周边小岛,0.0,0.0,0.0
+西式正餐,Salt and Pepper,Salt and Pepper,0,周边小岛,0.0,0.0,0.0
+西式正餐,Capri Hotel Restaurant,Capri Hotel Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Trattoria Toscana,Trattoria Toscana,0,芭东海滩,0.0,0.0,0.0
+西式正餐,NaiYang Coffee & Meal,NaiYang Coffee & Meal,0,周边小岛,0.0,0.0,0.0
+西式正餐,Helvetia Kata Beach,Helvetia Kata Beach,0,周边小岛,0.0,0.0,0.0
+西式正餐,Bangkok Burger Company Phuket,Bangkok Burger Company Phuket,0,周边小岛,0.0,0.0,0.0
+西式正餐,La Piazzetta di Capri Patong,La Piazzetta di Capri Patong,0,周边小岛,0.0,0.0,0.0
+西式正餐,La Carbonara,La Carbonara,0,周边小岛,0.0,0.0,0.0
+西式正餐,Da Sandros,Da Sandros,0,周边小岛,0.0,0.0,0.0
+西式正餐,Napoli Ristorante Pizzeria,Napoli Ristorante Pizzeria,0,周边小岛,0.0,0.0,0.0
+西式正餐,La Dolce Vita,La Dolce Vita,0,周边小岛,0.0,0.0,0.0
+西式正餐,Sala Mexicali,Sala Mexicali,0,周边小岛,0.0,0.0,0.0
+西式正餐,Chez Bernard,Chez Bernard,0,周边小岛,0.0,0.0,0.0
+西式正餐,Trattoria del Buongustaio,Trattoria del Buongustaio,0,周边小岛,0.0,0.0,0.0
+西式正餐,Maggie & Mario's Pizzeria,Maggie & Mario's Pizzeria,0,周边小岛,0.0,0.0,0.0
+西式正餐,Shakers,Shakers,0,周边小岛,0.0,0.0,0.0
+西式正餐,Harry's Steakhouse & Hotel,Harry's Steakhouse & Hotel,0,周边小岛,0.0,0.0,0.0
+西式正餐,Calypso,Calypso,0,周边小岛,0.0,0.0,0.0
+西式正餐,Gastone Italian Restaurant,Gastone Italian Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,Legends Sports Bar & Grill,Legends Sports Bar & Grill,0,周边小岛,0.0,0.0,0.0
+西式正餐,Fatty's,Fatty's,0,周边小岛,0.0,0.0,0.0
+西式正餐,Hen Chef,Hen Chef,0,周边小岛,0.0,0.0,0.0
+西式正餐,L'Orfeo Restaurant & Lounge,L'Orfeo Restaurant & Lounge,0,周边小岛,0.0,0.0,0.0
+西式正餐,Da Renata,Da Renata,0,周边小岛,0.0,0.0,0.0
+西式正餐,Pond Restaurant,Pond Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,Trattoria Capri da Rico,Trattoria Capri da Rico,0,周边小岛,0.0,0.0,0.0
+西式正餐,Mamma Mia Grill & Restaurant Bangtao,Mamma Mia Grill & Restaurant Bangtao,0,周边小岛,0.0,0.0,0.0
+西式正餐,Mamma Mia Grill & Restaurant Kamala,Mamma Mia Grill & Restaurant Kamala,0,周边小岛,0.0,0.0,0.0
+西式正餐,Portofino Ristrorante &Pizzeria,Portofino Ristrorante &Pizzeria,0,周边小岛,0.0,0.0,0.0
+西式正餐,180 Beach Bar,180 Beach Bar,0,周边小岛,0.0,0.0,0.0
+西式正餐,Weissbier & Wine,Weissbier & Wine,0,周边小岛,0.0,0.0,0.0
+西式正餐,Karley's Bakery,Karley's Bakery,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Mariachi,Mariachi,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Eddy's Restaurant,Eddy's Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,La Piazzetta - Antichi Sapori,La Piazzetta - Antichi Sapori,0,周边小岛,0.0,0.0,0.0
+西式正餐,Dreams,Dreams,0,周边小岛,0.0,0.0,0.0
+西式正餐,Le Winch Phuket,Le Winch Phuket,0,周边小岛,0.0,0.0,0.0
+西式正餐,Sea Breeze Cafe,Sea Breeze Cafe,0,周边小岛,0.0,0.0,0.0
+西式正餐,Naithonbeachclub,Naithonbeachclub,0,周边小岛,0.0,0.0,0.0
+西式正餐,Thai Sugar Hut,Thai Sugar Hut,0,周边小岛,0.0,0.0,0.0
+西式正餐,Champion Restaurant,Champion Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,islander,islander,0,周边小岛,0.0,0.0,0.0
+西式正餐,Peppers Bar and Restaurant,Peppers Bar and Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,Bocconcino,Bocconcino,0,周边小岛,0.0,0.0,0.0
+西式正餐,Yellow Saffron,Yellow Saffron,0,周边小岛,0.0,0.0,0.0
+西式正餐,The Pickled Liver Bar,The Pickled Liver Bar,0,查龙,0.0,0.0,0.0
+西式正餐,Hog's Breath Diner Saloon and Grill,Hog's Breath Diner Saloon and Grill,0,船湖,0.0,0.0,0.0
+西式正餐,Binkies,Binkies,0,船湖,0.0,0.0,0.0
+西式正餐,Kochloeffel,Kochloeffel,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Garden Cottage Restaurant,Garden Cottage Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式正餐,Pink Peppercorns @Phuket,Pink Peppercorns @Phuket,0,周边小岛,0.0,0.0,0.0
+西式正餐,Steve's Restruant and Takeaway,Steve's Restruant and Takeaway,0,周边小岛,0.0,0.0,0.0
+西式正餐,Skal Restaurant,Skal Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,Mokafe,Mokafe,0,周边小岛,0.0,0.0,0.0
+西式正餐,The Islander,The Islander,0,周边小岛,0.0,0.0,0.0
+西式正餐,Morning Coffee,Morning Coffee,0,周边小岛,0.0,0.0,0.0
+西式正餐,The Point Bistro,The Point Bistro,0,周边小岛,0.0,0.0,0.0
+西式正餐,Rambo 15,Rambo 15,0,周边小岛,0.0,0.0,0.0
+西式正餐,Landhaus,Landhaus,0,周边小岛,0.0,0.0,0.0
+西式正餐,Mando Staekhouse,Mando Staekhouse,0,周边小岛,0.0,0.0,0.0
+西式正餐,Le Bistro,Le Bistro,0,周边小岛,0.0,0.0,0.0
+西式正餐,Healthy Options Salad Bar & Restaurant,Healthy Options Salad Bar & Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,Hokkien Patong,Hokkien Patong,0,周边小岛,0.0,0.0,0.0
+西式正餐,Red Chair Plus,Red Chair Plus,0,卡塔海滩,0.0,0.0,0.0
+西式正餐,Modena Pizza,Modena Pizza,0,普吉风情区和拉万,0.0,0.0,0.0
+西式正餐,杰萨比萨,杰萨比萨,0,,0.0,0.0,0.0
+西式正餐,常州西堤厚牛排,常州西堤厚牛排,0,,0.0,0.0,0.0
+西式正餐,Break Point Hotel & Restaurant,Break Point Hotel & Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,Sandwich Shoppe,Sandwich Shoppe,0,周边小岛,0.0,0.0,0.0
+西式正餐,Pizza Modena,Pizza Modena,0,周边小岛,0.0,0.0,0.0
+西式正餐,必胜客,必胜客,0,,0.0,0.0,0.0
+西式正餐,Chu,Chu,0,查龙,0.0,0.0,0.0
+西式正餐,Maya Garden Bar & Restaurant,Maya Garden Bar & Restaurant,0,周边小岛,0.0,0.0,0.0
+西式正餐,Gastone,Gastone,0,卡伦海滩,0.0,0.0,0.0
+西式正餐,Chili Thai Restaurant,Chili Thai Restaurant,0,船湖,0.0,0.0,0.0
+西式正餐,Harrys Patong,Harrys Patong,0,周边小岛,0.0,0.0,0.0
+西式正餐,必胜客,必胜客,0,,0.0,0.0,0.0
+西式正餐,必胜客,必胜客,0,,0.0,0.0,0.0
+西式正餐,Tatonka Restaurant,Tatonka Restaurant,0,,0.0,0.0,0.0
+西式快餐,麦当劳,麦当劳,22,周边小岛,8.0,8.4,8.4
+西式快餐,Kampong Kata Hill,Kampong Kata Hill,0,卡塔海滩,8.2,9.0,8.8
+西式快餐,美尔雅酒店,美尔雅酒店,0,芭东海滩,7.6,8.1,7.9
+西式快餐,比萨公司,比萨公司,0,查龙,8.3,8.3,8.0
+西式快餐,101咖啡,101咖啡,0,卡伦海滩,7.3,7.4,7.4
+西式快餐,麦当劳 普吉岛,麦当劳 普吉岛（莲花超市店）(莲花超市店),0,周边小岛,8.0,7.5,8.0
+西式快餐,八重餐厅,八重餐厅,0,卡伦海滩,7.5,7.5,7.5
+西式快餐,奇诺咖啡,奇诺咖啡,0,船湖,7.5,7.9,7.5
+西式快餐,Vista del Mar Beach club @ Mr Oody's Restaurant &,Vista del Mar Beach club @ Mr Oody's Restaurant &,0,周边小岛,8.3,8.3,8.3
+西式快餐,Sweet & Sour Restaurant,Sweet & Sour Restaurant,0,卡伦海滩,8.3,8.3,8.3
+西式快餐,Crust,Crust,0,周边小岛,7.7,7.7,7.7
+西式快餐,瑞德咖啡,瑞德咖啡,0,船湖,8.1,8.1,8.1
+西式快餐,Ship Inn Bar & Restaurant,Ship Inn Bar & Restaurant,0,攀瓦角,7.2,7.7,7.2
+西式快餐,小蜜蜂咖啡,小蜜蜂咖啡,0,,8.0,8.0,8.0
+西式快餐,喜剧咖啡,喜剧咖啡,0,卡伦海滩,7.3,7.8,7.8
+西式快餐,屋里咖啡,屋里咖啡,0,,6.9,6.9,6.9
+西式快餐,76吧,76吧,0,周边小岛,7.3,6.2,7.3
+西式快餐,阳光海滩,阳光海滩,0,周边小岛,7.1,7.3,7.1
+西式快餐,Red Café,Red Café,0,卡玛拉海滩,7.0,7.0,7.0
+西式快餐,罗斯科酒馆,罗斯科酒馆,0,周边小岛,7.0,7.0,6.9
+西式快餐,red chair,red chair,0,周边小岛,7.0,7.0,7.1
+西式快餐,Fiesta Restaurant & Bar,Fiesta Restaurant & Bar,0,奈扬和奈通海滩,0.0,0.0,0.0
+西式快餐,Hua-soi,Hua-soi,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Churrasco Phuket Steakhouse,Churrasco Phuket Steakhouse,0,周边小岛,0.0,0.0,0.0
+西式快餐,Sand Box Restaurant and Bar,Sand Box Restaurant and Bar,0,迈考海滩,0.0,0.0,0.0
+西式快餐,PaPa Restaurant,PaPa Restaurant,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Hakan's Bar & Restaurant,Hakan's Bar & Restaurant,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Re Ka Ta Beach Club,Re Ka Ta Beach Club,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Nicky's Handlebar,Nicky's Handlebar,0,芭东海滩,0.0,0.0,0.0
+西式快餐,The Garden of Flavors,The Garden of Flavors,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式快餐,Capannina by Limoncello,Capannina by Limoncello,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Bread,Bread,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Leo & Mas Ristorante Italiano e Pizzeria,Leo & Mas Ristorante Italiano e Pizzeria,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Wassa Homemade Bar,Wassa Homemade Bar,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Manubai Restaurant Lounge-bar,Manubai Restaurant Lounge-bar,0,卡玛拉海滩,0.0,0.0,0.0
+西式快餐,Sabai Corner,Sabai Corner,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,No. 8 Burger Restaturant & Bar,No. 8 Burger Restaturant & Bar,0,芭东海滩,0.0,0.0,0.0
+西式快餐,Chang Siam,Chang Siam,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Texas Steakhouse,Texas Steakhouse,0,船湖,0.0,0.0,0.0
+西式快餐,La Boheme Cafe,La Boheme Cafe,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Valerio e Alex,Valerio e Alex,0,芭东海滩,0.0,0.0,0.0
+西式快餐,Zazada Beach Club,Zazada Beach Club,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式快餐,Pizzeria AGLI AMICI da Michele & Jimmy,Pizzeria AGLI AMICI da Michele & Jimmy,0,查龙,0.0,0.0,0.0
+西式快餐,Horn Grill Steakhouse,Horn Grill Steakhouse,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Don's Bar B Q,Don's Bar B Q,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式快餐,Dons Bar Bbq,Dons Bar Bbq,0,周边小岛,0.0,0.0,0.0
+西式快餐,Pizza 2000,Pizza 2000,0,卡图/高尔夫球场,0.0,0.0,0.0
+西式快餐,Orange Corner,Orange Corner,0,周边小岛,0.0,0.0,0.0
+西式快餐,Baan Ra Tree Restaurant,Baan Ra Tree Restaurant,0,周边小岛,0.0,0.0,0.0
+西式快餐,"Karon Sunshine Guesthouse, Bar & Restaurant","Karon Sunshine Guesthouse, Bar & Restaurant",0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Pesto Restaurant,Pesto Restaurant,0,周边小岛,0.0,0.0,0.0
+西式快餐,Limoncello Restaurant Phuket,Limoncello Restaurant Phuket,0,奈扬和奈通海滩,0.0,0.0,0.0
+西式快餐,Green Home Made Pizza,Green Home Made Pizza,0,奈扬和奈通海滩,0.0,0.0,0.0
+西式快餐,Ristorante Pizzeria La Gondola,Ristorante Pizzeria La Gondola,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Mong du Lay,Mong du Lay,0,周边小岛,0.0,0.0,0.0
+西式快餐,Emmy Bar and Restaurant,Emmy Bar and Restaurant,0,周边小岛,0.0,0.0,0.0
+西式快餐,Offshore Bar & Grill,Offshore Bar & Grill,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,al piccolo covo,al piccolo covo,0,周边小岛,0.0,0.0,0.0
+西式快餐,Da Maurizio Bar,Da Maurizio Bar,0,周边小岛,0.0,0.0,0.0
+西式快餐,Sukishi Bar B Q,Sukishi Bar B Q,0,周边小岛,0.0,0.0,0.0
+西式快餐,Capri Hotel Restaurant,Capri Hotel Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式快餐,Trattoria del Buongustaio,Trattoria del Buongustaio,0,周边小岛,0.0,0.0,0.0
+西式快餐,The White Hart Bar,The White Hart Bar,0,周边小岛,0.0,0.0,0.0
+西式快餐,Bamboo Cafe,Bamboo Cafe,0,普吉风情区和拉万,0.0,0.0,0.0
+西式快餐,McDonald's Restaurant (Jungceylon 1),McDonald's Restaurant (Jungceylon 1),0,卡伦海滩,0.0,0.0,0.0
+西式快餐,华莱士,华莱士,0,,0.0,0.0,0.0
+西式快餐,"Bangkok Burger Company, Laguna, Phuket","Bangkok Burger Company, Laguna, Phuket",0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式快餐,Rock Fish Restaurant And Bar,Rock Fish Restaurant And Bar,0,周边小岛,0.0,0.0,0.0
+西式快餐,华莱士,华莱士,0,,0.0,0.0,0.0
+西式快餐,Lugar de Place,Lugar de Place,0,普吉风情区和拉万,0.0,0.0,0.0
+西式快餐,Subway Sainamyen Road,Subway Sainamyen Road,0,芭东海滩,0.0,0.0,0.0
+西式快餐,华莱士,华莱士,0,,0.0,0.0,0.0
+西式快餐,McDonald's,McDonald's,0,周边小岛,0.0,0.0,0.0
+西式快餐,Mcdonald's Restaurant (La Flora),Mcdonald's Restaurant (La Flora),0,卡伦海滩,0.0,0.0,0.0
+西式快餐,G-ZONE @Kamala,G-ZONE @Kamala,0,卡玛拉海滩,0.0,0.0,0.0
+西式快餐,常州西堤厚牛排,常州西堤厚牛排,0,,0.0,0.0,0.0
+西式快餐,Subway Thaveewong Rd,Subway Thaveewong Rd,0,芭东海滩,0.0,0.0,0.0
+西式快餐,Sand Bar,Sand Bar,0,卡伦海滩,0.0,0.0,0.0
+西式快餐,Subway,Subway,0,周边小岛,0.0,0.0,0.0
+西式快餐,Haad Pizza Restaurant & Pizzeria,Haad Pizza Restaurant & Pizzeria,0,普吉风情区和拉万,0.0,0.0,0.0
+西式快餐,"Sand Bar Restaurant, Karon Beach, Phuket, Thailand","Sand Bar Restaurant, Karon Beach, Phuket, Thailand",0,卡伦海滩,0.0,0.0,0.0
+西式快餐,华莱士，仙清店,华莱士，仙清店,0,,0.0,0.0,0.0
+西式快餐,华莱士,华莱士,0,,0.0,0.0,0.0
+西式快餐,Watermark Bar And Restaurant,Watermark Bar And Restaurant,0,周边小岛,0.0,0.0,0.0
+西式快餐,泗水华莱士,泗水华莱士,0,,0.0,0.0,0.0
+西式快餐,Subway Patong Beach,Subway Patong Beach,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+西式快餐,Mcdonald Restaurant (Twilight of Banglar),Mcdonald Restaurant (Twilight of Banglar),0,芭东海滩,0.0,0.0,0.0
+酒吧,Tiger Disco,Tiger Disco,68,周边小岛,7.8,8.5,8.2
+酒吧,Scruffy Murphy's,Scruffy Murphy's,0,芭东海滩,8.0,8.2,8.3
+酒吧,迪诺酒吧,迪诺酒吧,0,周边小岛,6.9,8.0,7.7
+酒吧,Le Versace,Le Versace,0,芭东海滩,7.9,7.9,8.6
+酒吧,Wine Connection Bar & Grill - Kata,Wine Connection Bar & Grill - Kata,0,卡伦海滩,8.3,8.3,8.3
+酒吧,Baan Mai,Baan Mai,0,苏林海滩,8.6,8.6,8.6
+酒吧,卡塔山顶餐厅 After Beach Bar,卡塔山顶餐厅 After Beach Bar,0,卡伦海滩,6.2,8.5,6.6
+酒吧,Finnegan's Wake,Finnegan's Wake,0,芭东海滩,8.5,8.5,8.5
+酒吧,香蕉迪斯科,香蕉迪斯科,0,周边小岛,8.5,8.5,8.5
+酒吧,红磨坊,红磨坊,0,芭东海滩,7.6,8.1,8.5
+酒吧,老虎夜店,老虎夜店,0,,6.7,8.4,8.4
+酒吧,Bistro by Two Chefs,Bistro by Two Chefs,0,邦涛和拉古纳海滩,8.5,8.5,8.5
+酒吧,比尔宾利酒吧,比尔宾利酒吧,0,迈考海滩,8.5,8.5,8.5
+酒吧,运动酒吧,运动酒吧,0,卡伦海滩,8.5,8.5,8.5
+酒吧,Terrazzo Ristorante Bar,Terrazzo Ristorante Bar,0,,7.9,7.2,8.3
+酒吧,XANA Beach Club,XANA Beach Club,0,,7.1,8.0,8.0
+酒吧,迈克尔 酒吧,迈克尔 酒吧,0,船湖,8.5,8.5,8.5
+酒吧,Irish Times Pub,Irish Times Pub,0,,7.2,7.5,7.5
+酒吧,MEZZO酒吧,MEZZO酒吧,0,邦涛和拉古纳海滩,8.5,8.5,8.5
+酒吧,O2沙滩俱乐部,O2沙滩俱乐部,0,普吉风情区和拉万,8.5,8.5,8.5
+酒吧,The Bistro Lounge,The Bistro Lounge,0,邦涛和拉古纳海滩,8.5,8.5,8.5
+酒吧,巴西罗迪奥牛排屋,巴西罗迪奥牛排屋,0,周边小岛,8.5,8.5,8.5
+酒吧,Wine Connection Deli & Bistro - Central Phuket,Wine Connection Deli & Bistro - Central Phuket,0,周边小岛,8.5,8.5,8.5
+酒吧,Tigger酒吧,Tigger酒吧,0,,7.5,7.5,7.5
+酒吧,Re Ka Ta Beach Club,Re Ka Ta Beach Club,0,,7.9,7.9,7.9
+酒吧,Finnegan's Wake,Finnegan's Wake,0,,8.1,8.1,8.1
+酒吧,Bacco Perbacco,Bacco Perbacco,0,卡伦海滩,8.5,8.5,8.5
+酒吧,英雄酒吧,英雄酒吧,0,周边小岛,8.5,8.5,8.5
+酒吧,丹尼尔酒吧,丹尼尔酒吧,0,周边小岛,8.5,8.5,8.5
+酒吧,暹罗海滩酒吧,暹罗海滩酒吧,0,周边小岛,8.5,8.5,8.5
+酒吧,蜥蜴海滩俱乐部,蜥蜴海滩俱乐部,0,周边小岛,8.5,8.5,8.5
+酒吧,海豚酒吧,海豚酒吧,0,周边小岛,8.5,8.5,8.5
+酒吧,狄丽施,狄丽施,0,周边小岛,8.5,8.5,8.5
+酒吧,MOOK,MOOK,0,卡塔海滩,8.3,8.3,8.3
+酒吧,猫头鹰,猫头鹰,0,,7.6,7.6,7.6
+酒吧,Sky Massage,Sky Massage,0,卡塔海滩,6.9,6.9,6.9
+酒吧,The Bistro by Two chefs,The Bistro by Two chefs,0,卡伦海滩,8.1,8.1,8.1
+酒吧,Watermark Oyster Bar Phuket,Watermark Oyster Bar Phuket,0,邦涛和拉古纳海滩,8.1,8.1,8.1
+酒吧,Pinky画廊咖啡,Pinky画廊咖啡,0,船湖,8.1,8.1,8.1
+酒吧,Monsoon Bar,Monsoon Bar,0,芭东海滩,7.5,8.5,8.5
+酒吧,Le Charolais SteakHouse,Le Charolais SteakHouse,0,芭东海滩,8.1,8.1,8.1
+酒吧,Danny's Place Kamala,Danny's Place Kamala,0,卡玛拉海滩,8.1,8.1,8.1
+酒吧,徒步旅行运动酒吧,徒步旅行运动酒吧,0,卡伦海滩,8.1,8.1,8.1
+酒吧,Beach Bar,Beach Bar,0,,8.1,8.1,8.1
+酒吧,海滩屋运动酒吧,海滩屋运动酒吧,0,邦涛和拉古纳海滩,8.1,8.1,8.1
+酒吧,粉红女郎,粉红女郎,0,船湖,8.1,8.1,8.1
+酒吧,奈哈林拳击俱乐部,奈哈林拳击俱乐部,0,普吉风情区和拉万,8.1,8.1,8.1
+酒吧,快乐时光,快乐时光,0,查龙,8.1,8.1,8.1
+酒吧,Brasserie Phuket,Brasserie Phuket,0,船湖,8.1,8.1,8.1
+酒吧,Saneha Restaurant,Saneha Restaurant,0,船湖,8.1,8.1,8.1
+酒吧,ELLA酒吧,ELLA酒吧,0,周边小岛,8.1,8.1,8.1
+酒吧,树屋,树屋,0,周边小岛,8.1,8.1,8.1
+酒吧,Cape Panwa's Viewpoint Bar,Cape Panwa's Viewpoint Bar,0,,7.2,7.2,7.2
+酒吧,Vanilla Sky Bar and Lounge,Vanilla Sky Bar and Lounge,0,,7.2,7.6,7.6
+酒吧,Offshore Bar & Grill,Offshore Bar & Grill,0,卡伦海滩,7.1,7.1,6.7
+酒吧,Sukishi Bar B Q,Sukishi Bar B Q,0,,6.8,7.5,6.1
+酒吧,酒吧一条街,酒吧一条街,0,芭东海滩,0.0,0.0,0.0
+酒吧,等待,等待,0,,7.2,7.2,7.2
+酒吧,蛋岛小酒吧,蛋岛小酒吧,0,周边小岛,6.0,6.7,6.7
+酒吧,Angus O'Tool's Irish Pub,Angus O'Tool's Irish Pub,0,,7.2,7.2,7.2
+酒吧,Bill Bentley Pub,Bill Bentley Pub,0,,7.2,7.2,7.2
+酒吧,ICC Indian Curry Club,ICC Indian Curry Club,0,,7.2,7.2,7.2
+酒吧,The Beach Bar 2,The Beach Bar 2,0,,7.1,7.1,7.1
+酒吧,Ocean Beach Club,Ocean Beach Club,0,,6.9,6.9,6.9
+酒吧,"B-Hive Gallery, Bar and Restaurant","B-Hive Gallery, Bar and Restaurant",0,,7.7,7.7,7.2
+酒吧,Beach Bar Phuket,Beach Bar Phuket,0,,7.3,7.3,7.3
+酒吧,Ratri Italian Bar and Grill,Ratri Italian Bar and Grill,0,,7.2,7.2,7.2
+酒吧,The Surface Bar and Restaurant,The Surface Bar and Restaurant,0,,7.1,7.1,7.1
+酒吧,Sand Bar,Sand Bar,0,,7.2,7.2,7.2
+酒吧,Aussie Pub Kamala,Aussie Pub Kamala,0,,7.2,7.2,7.2
+酒吧,Da Maurizio Bar Ristorante,Da Maurizio Bar Ristorante,0,,7.2,7.2,7.2
+酒吧,99 Bar,99 Bar,0,,6.9,6.9,6.9
+酒吧,Vero Italian Trattoria and Wine Bar,Vero Italian Trattoria and Wine Bar,0,,6.9,6.9,6.9
+酒吧,Don's Bar B Q,Don's Bar B Q,0,,7.2,7.2,7.2
+酒吧,Absolute Ceylon Pub,Absolute Ceylon Pub,0,,7.1,7.1,6.8
+酒吧,Detox Juice Bar,Detox Juice Bar,0,,7.0,7.0,7.0
+酒吧,The Green Man Pub,The Green Man Pub,0,,7.2,7.2,7.2
+酒吧,44 Thai Kitchen Danny's Bar,44 Thai Kitchen Danny's Bar,0,,6.9,6.9,6.9
+酒吧,Tantra,Tantra,0,,7.2,7.2,7.2
+酒吧,After Beach Bar,After Beach Bar,0,,7.2,7.2,7.2
+酒吧,Zazada Beach Club,Zazada Beach Club,0,,7.2,7.2,7.2
+酒吧,Catch Beach Club,Catch Beach Club,0,,7.2,7.2,7.2
+酒吧,Mr Kobi bar and resturant,Mr Kobi bar and resturant,0,,7.1,7.1,7.1
+酒吧,Exo Wine Bar,Exo Wine Bar,0,,7.1,7.1,7.0
+酒吧,The Orange Pub,The Orange Pub,0,,7.1,7.1,7.1
+酒吧,Peppers Bar and Restaurant,Peppers Bar and Restaurant,0,,7.1,7.1,7.1
+酒吧,Fat Boy Bar,Fat Boy Bar,0,,7.1,7.1,7.0
+酒吧,Emmy Bar and Restaurant,Emmy Bar and Restaurant,0,,7.1,7.1,7.1
+酒吧,Swedenglish Bar,Swedenglish Bar,0,,7.1,7.1,7.1
+酒吧,Azure,Azure,0,,7.1,7.1,7.0
+酒吧,Sands Beach Club Kamala,Sands Beach Club Kamala,0,,6.9,6.9,6.9
+酒吧,Sigi's and Treffs German Restaurant and Bar,Sigi's and Treffs German Restaurant and Bar,0,,7.0,7.0,6.9
+酒吧,Molly Malone Irish Pub,Molly Malone Irish Pub,0,,6.9,6.9,6.9
+酒吧,LIM's Restaurant and Bar,LIM's Restaurant and Bar,0,,7.2,7.2,7.2
+酒吧,Starfish Bar and Restaurant,Starfish Bar and Restaurant,0,,7.1,7.1,7.1
+酒吧,The Blue Mango Bar and Grill,The Blue Mango Bar and Grill,0,,7.7,7.2,7.2
+酒吧,76 Bar Drink and Dine,76 Bar Drink and Dine,0,,7.3,7.3,7.1
+酒吧,Paradise Grill,Paradise Grill,0,,7.0,7.1,7.0
+酒吧,Sun Set Bar,Sun Set Bar,0,,7.1,7.1,7.3
+酒吧,Siam Supper Club,Siam Supper Club,0,,7.2,7.2,7.7
+酒吧,Chef Daniel's Gastro Bar Phuket,Chef Daniel's Gastro Bar Phuket,0,,7.2,7.2,7.2
+酒吧,The Stoned Crab Pub,The Stoned Crab Pub,0,,6.9,6.9,6.9
+酒吧,O2 Beach Club,O2 Beach Club,0,,6.9,6.7,7.0
+酒吧,Tamarind Restaurant and Bar,Tamarind Restaurant and Bar,0,,7.0,7.0,7.0
+酒吧,The Ship Inn,The Ship Inn,0,,7.2,7.2,7.2
+酒吧,Naithon Beach Club,Naithon Beach Club,0,,7.0,7.0,7.0
+酒吧,Champions Bar,Champions Bar,0,,6.9,6.9,6.9
+酒吧,Paradise Beach Bar,Paradise Beach Bar,0,,6.8,6.8,7.1
+酒吧,Grizzly's Sports Bar,Grizzly's Sports Bar,0,,6.9,6.9,6.9
+酒吧,The Dining Room at Pacific Club,The Dining Room at Pacific Club,0,,7.2,7.2,7.2
+酒吧,ICE   ICE,ICE   ICE,0,芭东海滩,0.0,0.0,0.0
+酒吧,Kata Night Bazaar Bar,Kata Night Bazaar Bar,0,,0.0,0.0,0.0
+酒吧,My Way Bar,My Way Bar,0,,0.0,0.0,0.0
+酒吧,ILLUZLON,ILLUZLON,0,芭东海滩,0.0,0.0,0.0
+酒吧,Zanzibar,Zanzibar,0,芭东海滩,0.0,0.0,0.0
+酒吧,Sin City Bar,Sin City Bar,0,,0.0,0.0,0.0
+酒吧,潮州酒吧,潮州酒吧,0,,0.0,0.0,0.0
+酒吧,Moon Club Bar,Moon Club Bar,0,,0.0,0.0,0.0
+酒吧,老城往事啤酒广场,老城往事啤酒广场,0,,0.0,0.0,0.0
+酒吧,FAMOUS PHUKET,FAMOUS PHUKET,0,,0.0,0.0,0.0
+酒吧,Glastnost,Glastnost,0,,0.0,0.0,0.0
+酒吧,9号酒吧,9号酒吧,0,,0.0,0.0,0.0
+更多亚洲菜,你和我餐厅,你和我餐厅,146,卡伦海滩,8.4,7.6,8.5
+更多亚洲菜,YOYO海鲜餐厅,YOYO海鲜餐厅,130,周边小岛,7.8,7.4,7.9
+更多亚洲菜,MK金泰式火锅,MK金泰式火锅,72,周边小岛,7.1,7.6,7.5
+更多亚洲菜,Le Siam,Le Siam,155,卡伦海滩,7.9,8.9,8.7
+更多亚洲菜,Eightfold Restaurant,Eightfold Restaurant,70,卡塔海滩,9.0,8.5,9.0
+更多亚洲菜,UrBan Food,UrBan Food,94,卡伦海滩,8.1,8.4,8.4
+更多亚洲菜,Pan Yaah,Pan Yaah,0,芭东海滩,8.9,9.0,8.9
+更多亚洲菜,Ying,Ying,87,卡伦海滩,8.3,7.4,8.4
+更多亚洲菜,谢谢你餐厅,谢谢你餐厅,86,周边小岛,7.6,7.4,8.0
+更多亚洲菜,两兄弟,两兄弟,56,卡伦海滩,8.2,7.5,7.9
+更多亚洲菜,麻辣小屋,麻辣小屋,0,周边小岛,7.6,7.9,7.6
+更多亚洲菜,红酒集中营,红酒集中营,96,周边小岛,7.7,7.8,7.8
+更多亚洲菜,竹子厨房,竹子厨房,0,周边小岛,7.9,8.1,8.2
+更多亚洲菜,大食堂,大食堂,0,卡伦海滩,7.7,7.6,7.7
+更多亚洲菜,户外餐厅,户外餐厅,0,周边小岛,7.4,7.7,7.4
+更多亚洲菜,Uptown,Uptown,0,周边小岛,8.2,8.4,7.9
+更多亚洲菜,日落沙滩餐厅,日落沙滩餐厅,0,,7.1,8.0,7.6
+更多亚洲菜,Khan Baba phuket,Khan Baba phuket,0,周边小岛,6.4,6.7,7.3
+更多亚洲菜,萨维那穆斯林,萨维那穆斯林,0,芭东海滩,7.5,7.5,7.5
+更多亚洲菜,兰花,兰花,0,卡伦海滩,7.3,7.3,7.3
+更多亚洲菜,Aloha Villa,Aloha Villa,0,芭东海滩,7.3,7.8,7.4
+更多亚洲菜,家庭餐厅,家庭餐厅,0,周边小岛,7.3,7.2,7.3
+更多亚洲菜,海巫婆,海巫婆,0,周边小岛,7.7,7.7,8.1
+更多亚洲菜,Pum Thai Restaurant & Cooking School,Pum Thai Restaurant & Cooking School,0,卡伦海滩,7.3,7.3,7.3
+更多亚洲菜,Gypsy@Rawai BBQ,Gypsy@Rawai BBQ,0,周边小岛,7.1,6.4,6.4
+更多亚洲菜,Care Tawan,Care Tawan,0,卡塔海滩,8.1,8.1,8.1
+更多亚洲菜,西纳蒙餐厅,西纳蒙餐厅,0,迈考海滩,8.1,8.1,8.1
+更多亚洲菜,咖喱夜,咖喱夜,0,攀瓦角,7.7,7.3,7.3
+更多亚洲菜,阿里巴巴餐厅,阿里巴巴餐厅,0,卡伦海滩,6.8,7.8,7.3
+更多亚洲菜,莲花餐馆,莲花餐馆,0,周边小岛,8.1,8.1,8.1
+更多亚洲菜,Patong paraDee resOrt,Patong paraDee resOrt,0,卡伦海滩,7.1,7.1,7.4
+更多亚洲菜,THAI CHINESE FOOD,THAI CHINESE FOOD,0,普吉镇,7.0,7.0,6.7
+更多亚洲菜,九号餐吧,九号餐吧,0,芭东海滩,6.9,6.9,6.9
+更多亚洲菜,Laypang,Laypang,0,周边小岛,8.3,8.3,8.3
+更多亚洲菜,幸运TOM,幸运TOM,0,卡塔海滩,6.9,6.9,7.0
+更多亚洲菜,ICC印度咖喱,ICC印度咖喱,0,芭东海滩,6.5,6.8,6.8
+更多亚洲菜,三冠王,三冠王,0,周边小岛,8.1,8.1,8.1
+更多亚洲菜,艾芭莎餐馆,艾芭莎餐馆,0,卡伦海滩,7.2,7.5,7.5
+更多亚洲菜,Siam Bay,Siam Bay,0,周边小岛,6.7,7.1,6.9
+更多亚洲菜,Ann's Restaurant,Ann's Restaurant,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,Mr. India,Mr. India,0,周边小岛,6.7,6.7,6.7
+更多亚洲菜,Tantra,Tantra,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,Hot Curry,Hot Curry,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,Bella Vista Restaurant,Bella Vista Restaurant,0,卡塔海滩,0.0,0.0,0.0
+更多亚洲菜,Tre Restaurant at Banyan Tree Phuket,Tre Restaurant at Banyan Tree Phuket,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+更多亚洲菜,Tandoori Nights,Tandoori Nights,0,查龙,0.0,0.0,0.0
+更多亚洲菜,Navrang Mahal,Navrang Mahal,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,Pappadams,Pappadams,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,Locavore Restaurant,Locavore Restaurant,0,卡玛拉海滩,0.0,0.0,0.0
+更多亚洲菜,Live India Indian Restaurant,Live India Indian Restaurant,0,攀瓦角,0.0,0.0,0.0
+更多亚洲菜,Flame,Flame,0,卡图/高尔夫球场,0.0,0.0,0.0
+更多亚洲菜,Kashmir restaurant karon,Kashmir restaurant karon,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,Harrys Karon,Harrys Karon,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,Eurasia,Eurasia,0,芭东海滩,0.0,0.0,0.0
+更多亚洲菜,Royal Tandoor,Royal Tandoor,0,卡图/高尔夫球场,0.0,0.0,0.0
+更多亚洲菜,Sails Surin Beach,Sails Surin Beach,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+更多亚洲菜,Windsurf,Windsurf,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,Shalimar,Shalimar,0,周边小岛,0.0,0.0,0.0
+更多亚洲菜,Tandoori night rawai,Tandoori night rawai,0,卡图/高尔夫球场,0.0,0.0,0.0
+更多亚洲菜,White Box,White Box,0,周边小岛,0.0,0.0,0.0
+更多亚洲菜,Navrang mahal,Navrang mahal,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,Baoli,Baoli,0,查龙,0.0,0.0,0.0
+更多亚洲菜,Saffron,Saffron,0,周边小岛,0.0,0.0,0.0
+更多亚洲菜,Deepavali,Deepavali,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+更多亚洲菜,Saigon Restaurant,Saigon Restaurant,0,周边小岛,0.0,0.0,0.0
+更多亚洲菜,Eddy's Restaurant,Eddy's Restaurant,0,周边小岛,0.0,0.0,0.0
+更多亚洲菜,Light of India,Light of India,0,周边小岛,0.0,0.0,0.0
+更多亚洲菜,Real Alaha din,Real Alaha din,0,周边小岛,0.0,0.0,0.0
+更多亚洲菜,Mr. Asoke,Mr. Asoke,0,周边小岛,0.0,0.0,0.0
+更多亚洲菜,Royal India,Royal India,0,周边小岛,0.0,0.0,0.0
+更多亚洲菜,泰国早饭,泰国早饭,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,THAI TACO,THAI TACO,0,芭东海滩,0.0,0.0,0.0
+更多亚洲菜,Thainaan Restaurant,Thainaan Restaurant,0,周边小岛,0.0,0.0,0.0
+更多亚洲菜,Lair Lay Tong,Lair Lay Tong,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,Baan Ra Tree,Baan Ra Tree,0,奈扬和奈通海滩,0.0,0.0,0.0
+更多亚洲菜,Alltomthai (Restaurang Trädgården),Alltomthai (Restaurang Trädgården),0,卡塔海滩,0.0,0.0,0.0
+更多亚洲菜,Thai@Siam,Thai@Siam,0,奈扬和奈通海滩,0.0,0.0,0.0
+更多亚洲菜,Royal Tandoor Restaurant,Royal Tandoor Restaurant,0,卡伦海滩,0.0,0.0,0.0
+更多亚洲菜,Kindee,Kindee,0,周边小岛,0.0,0.0,0.0
+烧烤,Gypsy @ Rawai BBQ,Gypsy @ Rawai BBQ,0,普吉风情区和拉万,7.6,7.2,7.4
+烧烤,Halfway Inn,Halfway Inn,0,周边小岛,8.8,8.2,8.6
+烧烤,拉查酒店Sunset烧烤吧,拉查酒店Sunset烧烤吧,0,,6.9,7.8,7.2
+烧烤,元记香烧烤屋,元记香烧烤屋,0,,7.4,7.4,7.9
+烧烤,卡马拉烧烤,卡马拉烧烤,0,周边小岛,7.6,7.2,7.6
+烧烤,大连岸禾田铁板烧,大连岸禾田铁板烧,0,,8.1,8.1,8.1
+烧烤,火炉火,火炉火,0,,8.1,8.1,8.1
+烧烤,Rick N' Roll Music Cafe & RNR Hostel,Rick N' Roll Music Cafe & RNR Hostel,0,卡伦海滩,0.0,0.0,0.0
+烧烤,Lotus Restaurant,Lotus Restaurant,0,卡伦海滩,0.0,0.0,0.0
+烧烤,Long Beach Terrace,Long Beach Terrace,0,卡伦海滩,0.0,0.0,0.0
+烧烤,青岛,青岛,0,,0.0,0.0,0.0
+烧烤,汉丽轩,汉丽轩,0,,0.0,0.0,0.0
+烧烤,石头烤馍,石头烤馍,0,,0.0,0.0,0.0
+烧烤,汉丽轩,汉丽轩,0,,0.0,0.0,0.0
+烧烤,北京朝阳路木屋烧烤,北京朝阳路木屋烧烤,0,,0.0,0.0,0.0
+烧烤,老城往事啤酒广场,老城往事啤酒广场,0,,0.0,0.0,0.0
+烧烤,金百万运河店,金百万运河店,0,,0.0,0.0,0.0
+烧烤,湛江,湛江,0,,0.0,0.0,0.0
+烧烤,小寨国忠烧烤 火锅,小寨国忠烧烤 火锅,0,,0.0,0.0,0.0
+烧烤,抚顺李石原味加分,抚顺李石原味加分,0,,0.0,0.0,0.0
+烧烤,韩林炭烤,韩林炭烤,0,,0.0,0.0,0.0
+烧烤,船长烧烤,船长烧烤,0,,0.0,0.0,0.0
+咖啡厅,星巴克,星巴克,40,,8.2,8.1,8.4
+咖啡厅,Starbucks Coffee,Starbucks Coffee,0,卡伦海滩,8.0,7.9,7.8
+咖啡厅,Tunk-Ka Café,Tunk-Ka Café,0,普吉镇,8.0,8.6,8.1
+咖啡厅,咖啡俱乐部,咖啡俱乐部,65,周边小岛,7.8,7.7,7.6
+咖啡厅,The Coffee Club,The Coffee Club,0,芭东海滩,7.7,7.7,8.1
+咖啡厅,The Coffee Club,The Coffee Club,0,卡伦海滩,8.2,8.0,8.1
+咖啡厅,安达曼咖啡,安达曼咖啡,0,卡塔海滩,7.3,7.4,7.2
+咖啡厅,黑山谷餐厅,黑山谷餐厅,0,芭东海滩,7.3,7.3,7.6
+咖啡厅,Starbucks Coffee‎,Starbucks Coffee‎,0,卡伦海滩,7.0,7.4,7.4
+咖啡厅,One Chun Cafe and Restaurant,One Chun Cafe and Restaurant,0,,8.2,8.4,7.8
+咖啡厅,星巴克咖啡,星巴克咖啡(巴东海滩店),0,周边小岛,6.7,6.8,6.7
+咖啡厅,The Coffee Club,The Coffee Club,0,周边小岛,6.7,6.7,8.4
+咖啡厅,Black Canyon Coffee Patong Phuket,Black Canyon Coffee Patong Phuket,0,周边小岛,7.9,7.9,7.9
+咖啡厅,玛雅湾,玛雅湾,0,周边小岛,7.5,7.5,8.0
+咖啡厅,Phen's Restaurant Bar & Coffee,Phen's Restaurant Bar & Coffee,0,奈扬和奈通海滩,7.5,7.1,7.5
+咖啡厅,Sky Massage,Sky Massage,0,卡塔海滩,6.9,6.9,6.9
+咖啡厅,sunflower restaurant,sunflower restaurant,0,,0.0,0.0,0.0
+咖啡厅,卡帕咖啡,卡帕咖啡,0,卡塔海滩,8.1,8.1,8.1
+咖啡厅,Tablespoon Cafe,Tablespoon Cafe,0,,6.5,6.5,6.5
+咖啡厅,Pinky画廊咖啡,Pinky画廊咖啡,0,船湖,8.1,8.1,8.1
+咖啡厅,Chino @ Cafe' Gallery,Chino @ Cafe' Gallery,0,,8.4,8.3,8.4
+咖啡厅,Mac-chiato House,Mac-chiato House,0,船湖,7.1,7.1,7.1
+咖啡厅,Factory Cafe,Factory Cafe,0,,7.5,8.3,8.4
+咖啡厅,China Inn Cafe,China Inn Cafe,0,,7.5,7.5,7.5
+咖啡厅,HockHoeLee Coffee,HockHoeLee Coffee,0,普吉风情区和拉万,8.3,8.3,8.3
+咖啡厅,小蜜蜂咖啡,小蜜蜂咖啡,0,,8.0,8.0,8.0
+咖啡厅,屋里咖啡,屋里咖啡,0,,6.9,6.9,6.9
+咖啡厅,Eco Coffee,Eco Coffee,0,,7.3,7.3,7.3
+咖啡厅,Cape Panwa's Viewpoint Bar,Cape Panwa's Viewpoint Bar,0,,7.2,7.2,7.2
+咖啡厅,艾卡隆,艾卡隆,0,周边小岛,7.2,6.8,7.2
+咖啡厅,法兰西咖啡,法兰西咖啡,0,芭东海滩,7.1,7.1,7.5
+咖啡厅,安达曼咖啡,安达曼咖啡,0,卡伦海滩,7.4,7.1,7.1
+咖啡厅,云中咖啡厅,云中咖啡厅,0,查龙,6.9,7.1,7.1
+咖啡厅,泰泰咖啡,泰泰咖啡,0,芭东海滩,7.0,7.0,6.9
+咖啡厅,通卡咖啡,通卡咖啡,0,周边小岛,7.1,7.1,7.1
+咖啡厅,Andaman Coffee,Andaman Coffee,0,周边小岛,6.7,6.9,6.9
+咖啡厅,Bread & Butter,Bread & Butter,0,奈扬和奈通海滩,6.8,7.1,7.1
+咖啡厅,Starbucks,Starbucks,0,周边小岛,6.8,6.8,6.8
+咖啡厅,old man coffee,old man coffee,0,,8.1,8.1,8.1
+咖啡厅,Rendez-Vous Coffee Wine Dine,Rendez-Vous Coffee Wine Dine,0,船湖,0.0,0.0,0.0
+咖啡厅,Sentai Coffee and Restaurant,Sentai Coffee and Restaurant,0,周边小岛,0.0,0.0,0.0
+咖啡厅,Black Canyon Coffee,Black Canyon Coffee,0,周边小岛,0.0,0.0,0.0
+咖啡厅,A Spoonful Of Sugar,A Spoonful Of Sugar,0,普吉风情区和拉万,0.0,0.0,0.0
+咖啡厅,Spoon Cafe,Spoon Cafe,0,,6.8,7.2,7.2
+咖啡厅,Kappa's Coffee,Kappa's Coffee,0,,7.1,7.1,7.1
+咖啡厅,Tunk Ka Cafe,Tunk Ka Cafe,0,,7.2,7.2,7.2
+咖啡厅,The Coffee Club,The Coffee Club,0,,7.2,7.2,7.2
+咖啡厅,Tiffany Restaurant and Coffee Shop,Tiffany Restaurant and Coffee Shop,0,周边小岛,0.0,0.0,0.0
+咖啡厅,La Boheme Cafe,La Boheme Cafe,0,,6.9,6.9,6.9
+咖啡厅,ROCKIN' ANGELS Blues Cafe,ROCKIN' ANGELS Blues Cafe,0,,6.9,7.1,7.1
+咖啡厅,Phuketique Coffee Bar,Phuketique Coffee Bar,0,,7.0,7.1,7.0
+咖啡厅,Belgian Beer Cafe Graceland,Belgian Beer Cafe Graceland,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,周边小岛,0.0,0.0,0.0
+咖啡厅,Oasis Bar,Oasis Bar,0,周边小岛,0.0,0.0,0.0
+咖啡厅,Rose Espresso,Rose Espresso,0,查龙,0.0,0.0,0.0
+咖啡厅,Mr Tan Coffee House,Mr Tan Coffee House,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+咖啡厅,Morning Coffee,Morning Coffee,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+咖啡厅,Peony Coffee Shop,Peony Coffee Shop,0,,7.1,7.1,7.1
+咖啡厅,Baan Cafe,Baan Cafe,0,,6.9,6.9,6.9
+咖啡厅,We cafe,We cafe,0,,7.1,7.1,7.1
+咖啡厅,Black Canyon Coffee,Black Canyon Coffee,0,,7.1,7.1,7.1
+咖啡厅,Metropole Cafe,Metropole Cafe,0,,7.0,7.1,7.0
+咖啡厅,Orange Corner,Orange Corner,0,,7.1,7.1,7.1
+咖啡厅,Red Cafe,Red Cafe,0,,7.2,7.7,7.2
+咖啡厅,Gallery Cafe by Pinky,Gallery Cafe by Pinky,0,,7.2,7.2,7.2
+咖啡厅,Rider Cafe,Rider Cafe,0,,7.2,7.2,7.2
+咖啡厅,Coffee Mania,Coffee Mania,0,,7.2,7.2,7.2
+咖啡厅,CatFish Cafe,CatFish Cafe,0,,7.2,7.2,7.2
+咖啡厅,The Circle Coffee Boutique,The Circle Coffee Boutique,0,,7.1,7.1,7.1
+咖啡厅,Pirrera Cafe Bar,Pirrera Cafe Bar,0,,6.9,7.0,7.0
+咖啡厅,Sentai Coffee and Restaurant,Sentai Coffee and Restaurant,0,,7.6,7.2,7.6
+咖啡厅,Bukit Restaurant & Cafe,Bukit Restaurant & Cafe,0,周边小岛,0.0,0.0,0.0
+咖啡厅,936 Coffee,936 Coffee,0,周边小岛,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,周边小岛,0.0,0.0,0.0
+咖啡厅,We cafe,We cafe,0,查龙,0.0,0.0,0.0
+咖啡厅,Rendez-Vous Coffee Wine Dine,Rendez-Vous Coffee Wine Dine,0,,7.2,7.7,7.7
+咖啡厅,Hang Cafe Patong,Hang Cafe Patong,0,,7.5,7.1,7.5
+咖啡厅,Kaffe,Kaffe,0,船湖,0.0,0.0,0.0
+咖啡厅,World Cafe Mecure Hotel,World Cafe Mecure Hotel,0,,6.9,6.9,6.9
+咖啡厅,Cafe Siam Breakfast Cafe,Cafe Siam Breakfast Cafe,0,周边小岛,0.0,0.0,0.0
+咖啡厅,Delish Cafe,Delish Cafe,0,周边小岛,0.0,0.0,0.0
+咖啡厅,World Rock Cafe,World Rock Cafe,0,,6.9,6.9,6.9
+咖啡厅,Yumm Yumm Corner,Yumm Yumm Corner,0,,6.9,6.9,6.9
+咖啡厅,Italian Job Coffee,Italian Job Coffee,0,,7.2,7.2,7.2
+咖啡厅,Cafe Nero,Cafe Nero,0,,7.0,6.9,6.9
+咖啡厅,Le Cafe Restaurant,Le Cafe Restaurant,0,,7.0,7.1,7.1
+咖啡厅,Hog's Breath Cafe,Hog's Breath Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Siam Breakfast Cafe,Cafe Siam Breakfast Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Java,Cafe Java,0,,7.1,7.1,7.1
+咖啡厅,Mr Tan Coffee House,Mr Tan Coffee House,0,,7.1,7.5,7.1
+咖啡厅,B Cat Cafe and Restaurant,B Cat Cafe and Restaurant,0,,7.0,7.0,7.0
+咖啡厅,Hungry Corner,Hungry Corner,0,,7.0,7.0,7.0
+咖啡厅,Segafredo coffee,Segafredo coffee,0,,7.0,7.0,7.1
+咖啡厅,Ta's Cafe and Restaurant,Ta's Cafe and Restaurant,0,,7.1,7.1,7.1
+咖啡厅,Bean & Gone Coffee,Bean & Gone Coffee,0,周边小岛,0.0,0.0,0.0
+咖啡厅,231 Coffee House,231 Coffee House,0,周边小岛,0.0,0.0,0.0
+咖啡厅,Morning Coffee,Morning Coffee,0,,7.0,7.0,7.0
+咖啡厅,Coffee World,Coffee World,0,周边小岛,0.0,0.0,0.0
+咖啡厅,HockHoeLee Coffee,HockHoeLee Coffee,0,,7.2,7.2,7.2
+咖啡厅,Kaffe Coffee,Kaffe Coffee,0,,6.9,6.9,6.9
+咖啡厅,Aroma Italiano Pascucci Coffee Shop,Aroma Italiano Pascucci Coffee Shop,0,,7.3,7.3,7.1
+咖啡厅,下午茶,下午茶,0,,0.0,0.0,0.0
+咖啡厅,Thung Kha Cafe,Thung Kha Cafe,0,卡图/高尔夫球场,0.0,0.0,0.0
+咖啡厅,154 CAFE,154 CAFE,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+咖啡厅,CAFE JAVA LAGOON CO.LTD,CAFE JAVA LAGOON CO.LTD,0,卡伦海滩,0.0,0.0,0.0
+咖啡厅,Cafe-Del-Sol Italian & Thai Restaurant,Cafe-Del-Sol Italian & Thai Restaurant,0,卡伦海滩,0.0,0.0,0.0
+咖啡厅,Metropole Cafe,Metropole Cafe,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+咖啡厅,Gung Cafe,Gung Cafe,0,卡伦海滩,0.0,0.0,0.0
+咖啡厅,"Doi Chaang Coffee, Phuket","Doi Chaang Coffee, Phuket",0,卡玛拉海滩,0.0,0.0,0.0
+咖啡厅,Side Walk Cafe,Side Walk Cafe,0,卡伦海滩,0.0,0.0,0.0
+咖啡厅,Sun Down Cafe',Sun Down Cafe',0,周边小岛,0.0,0.0,0.0
+咖啡厅,Coffee@Home,Coffee@Home,0,卡塔海滩,0.0,0.0,0.0
+咖啡厅,November Cafe,November Cafe,0,周边小岛,0.0,0.0,0.0
+咖啡厅,winter diy cafe,winter diy cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe' De Riju,Cafe' De Riju,0,周边小岛,0.0,0.0,0.0
+咖啡厅,gallerycafe by pinky,gallerycafe by pinky,0,船湖,0.0,0.0,0.0
+咖啡厅,Santana Coffee,Santana Coffee,0,船湖,0.0,0.0,0.0
+咖啡厅,Nimitr Cafe,Nimitr Cafe,0,船湖,0.0,0.0,0.0
+咖啡厅,Coffeekery & อร่อย ณ บ้านเลขที่ 9,Coffeekery & อร่อย ณ บ้านเลขที่ 9,0,船湖,0.0,0.0,0.0
+面包甜点,Dairy Queen,Dairy Queen,14,周边小岛,9.0,8.6,8.7
+面包甜点,Dariy Queen,Dariy Queen,11,周边小岛,8.0,7.9,8.0
+面包甜点,Swensen's冰激凌店,Swensen's冰激凌店,35,周边小岛,8.4,8.5,8.2
+面包甜点,DQ冰淇淋,DQ冰淇淋,0,,7.4,7.5,7.7
+面包甜点,斯文森冰淇淋,斯文森冰淇淋,0,周边小岛,7.8,8.2,8.0
+面包甜点,撒马诺天堂冰淇淋,撒马诺天堂冰淇淋,0,芭东海滩,8.2,8.2,7.9
+面包甜点,DQ 冰淇淋,DQ 冰淇淋(普吉机场店),0,,7.5,7.3,7.2
+面包甜点,意大利冰淇淋,意大利冰淇淋,0,皇帝岛,7.7,7.7,7.5
+面包甜点,斯文森冰淇淋,斯文森冰淇淋(江西冷店),0,周边小岛,7.6,7.3,7.3
+面包甜点,安娜阿姨,安娜阿姨,0,芭东海滩,7.3,7.3,7.3
+面包甜点,Movenpick,Movenpick,0,芭东海滩,7.1,7.1,7.1
+面包甜点,千代香,千代香,0,,7.7,7.7,7.7
+面包甜点,连氏蛋糕,连氏蛋糕,0,,8.1,8.1,8.1
+面包甜点,六合猫山王,六合猫山王,0,,8.5,8.5,6.6
+面包甜点,Crust,Crust,0,周边小岛,7.7,7.7,7.7
+面包甜点,Au Bon Pain,Au Bon Pain,0,芭东海滩,7.1,7.1,7.0
+面包甜点,Red Cafe,Red Cafe,0,卡玛拉海滩,8.4,8.4,5.9
+面包甜点,小王子蛋糕房,小王子蛋糕房,0,,7.2,7.7,7.7
+面包甜点,蛋糕,蛋糕,0,,8.1,8.1,8.1
+面包甜点,皇冠蛋糕,皇冠蛋糕,0,,8.2,8.2,8.2
+面包甜点,小蛋糕的小店,小蛋糕的小店,0,,6.8,6.8,6.8
+面包甜点,麦波蛋糕,麦波蛋糕,0,,7.7,7.7,7.7
+面包甜点,饮料铺,饮料铺,0,芭东海滩,6.7,6.0,6.0
+面包甜点,Bread & Butter,Bread & Butter,0,奈扬和奈通海滩,6.8,7.1,7.1
+面包甜点,Kamala Bakery,Kamala Bakery,0,卡玛拉海滩,6.7,6.7,5.1
+面包甜点,The Swedish Bakery,The Swedish Bakery,0,苏林海滩,0.0,0.0,0.0
+面包甜点,A Spoonful Of Sugar,A Spoonful Of Sugar,0,普吉风情区和拉万,0.0,0.0,0.0
+面包甜点,Haagen Dazs,Haagen Dazs,0,,7.5,7.5,6.7
+面包甜点,Sweet Dreams,Sweet Dreams,0,,7.2,7.2,7.2
+面包甜点,Rose Espresso,Rose Espresso,0,查龙,0.0,0.0,0.0
+面包甜点,Siam Bakery,Siam Bakery,0,,7.0,7.0,7.0
+面包甜点,Ben's Deli,Ben's Deli,0,卡伦海滩,0.0,0.0,0.0
+面包甜点,Siam Bakery,Siam Bakery,0,卡图/高尔夫球场,0.0,0.0,0.0
+面包甜点,Cafe y Te,Cafe y Te,0,周边小岛,0.0,0.0,0.0
+面包甜点,Delish Cafe,Delish Cafe,0,周边小岛,0.0,0.0,0.0
+面包甜点,The Swedish Bakery,The Swedish Bakery,0,,7.2,7.2,7.2
+面包甜点,Karley's Bakery,Karley's Bakery,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+面包甜点,Kamala Bakery,Kamala Bakery,0,,7.5,7.5,7.1
+面包甜点,避风塘,避风塘,0,,0.0,0.0,0.0
+面包甜点,The German Bakery / German Bread Connection,The German Bakery / German Bread Connection,0,芭东海滩,0.0,0.0,0.0
+面包甜点,Euro Deli,Euro Deli,0,芭东海滩,0.0,0.0,0.0
+面包甜点,下午茶,下午茶,0,,0.0,0.0,0.0
+面包甜点,马得利,马得利,0,,0.0,0.0,0.0
+面包甜点,仟吉蛋糕,仟吉蛋糕,0,,0.0,0.0,0.0
+面包甜点,吃的,吃的,0,,0.0,0.0,0.0
+面包甜点,麦波蛋糕,麦波蛋糕,0,,0.0,0.0,0.0
+面包甜点,快乐风蛋糕店,快乐风蛋糕店,0,,0.0,0.0,0.0
+面包甜点,河南卫辉蛋糕店,河南卫辉蛋糕店,0,,0.0,0.0,0.0
+面包甜点,Piyawan,Piyawan,0,船湖,0.0,0.0,0.0
+面包甜点,Sandwich Shoppe,Sandwich Shoppe,0,周边小岛,0.0,0.0,0.0
+面包甜点,味芙烘焙名店,味芙烘焙名店,0,,0.0,0.0,0.0
+面包甜点,麦香人家,麦香人家,0,,0.0,0.0,0.0
+面包甜点,麦香人家启东,麦香人家启东,0,,0.0,0.0,0.0
+面包甜点,麦趣尔,麦趣尔,0,,0.0,0.0,0.0
+面包甜点,芝士共和国,芝士共和国,0,,0.0,0.0,0.0
+面包甜点,Grand Italia Ice Cream,Grand Italia Ice Cream,0,周边小岛,0.0,0.0,0.0
+面包甜点,东营酥饼世家,东营酥饼世家,0,,0.0,0.0,0.0
+面包甜点,鲜奶工坊,鲜奶工坊,0,,0.0,0.0,0.0
+面包甜点,吉百利,吉百利,0,,0.0,0.0,0.0
+面包甜点,哈里贝克烘焙坊,哈里贝克烘焙坊,0,,0.0,0.0,0.0
+面包甜点,麦香园,麦香园,0,,0.0,0.0,0.0
+面包甜点,甜甜圈,甜甜圈,0,,0.0,0.0,0.0
+面包甜点,萨能部落烘焙坊,萨能部落烘焙坊,0,,0.0,0.0,0.0
+面包甜点,蛋糕,蛋糕,0,,0.0,0.0,0.0
+面包甜点,皇冠蛋糕,皇冠蛋糕,0,,0.0,0.0,0.0
+其他美食,自然餐厅,自然餐厅,82,普吉镇,8.9,9.0,8.4
+其他美食,Raya Father Resort,Raya Father Resort,0,,7.8,7.6,7.9
+其他美食,Ying Restaurant,Ying Restaurant,90,卡伦海滩,8.2,7.7,8.2
+其他美食,Two Chefs Kata Beach,Two Chefs Kata Beach,0,卡塔海滩,7.6,8.3,8.0
+其他美食,Lotus Restaurant,Lotus Restaurant,0,邦涛和拉古纳海滩,7.5,7.5,7.1
+其他美食,假日酒店,假日酒店,252,周边小岛,7.3,8.0,8.0
+其他美食,第一等海鲜大排档,第一等海鲜大排档,0,,7.5,7.5,7.5
+其他美食,卡塔海滩厨房,卡塔海滩厨房,0,芭东海滩,6.6,7.1,6.9
+其他美食,叉&勺,叉&勺,0,卡伦海滩,8.1,7.8,7.5
+其他美食,Pizzeria Hut 1,Pizzeria Hut 1,0,芭东海滩,7.5,7.9,7.4
+其他美食,XANA海滩俱乐部,XANA海滩俱乐部,0,邦涛和拉古纳海滩,7.0,7.8,7.7
+其他美食,在一起餐厅,在一起餐厅,0,卡伦海滩,7.0,7.5,6.8
+其他美食,Mama Restaurant,Mama Restaurant,0,攀瓦角,6.4,6.5,6.5
+其他美食,Blue Elephant Restaurant,Blue Elephant Restaurant,0,船湖,7.1,7.1,7.1
+其他美食,维塔鹏,维塔鹏,0,卡伦海滩,7.3,7.6,7.3
+其他美食,Kantok Restaurant at Burasari Resort,Kantok Restaurant at Burasari Resort,0,卡伦海滩,8.0,8.0,8.0
+其他美食,港口餐厅,港口餐厅,0,芭东海滩,6.9,7.3,7.3
+其他美食,Marriott Cafe,Marriott Cafe,0,迈考海滩,7.3,7.3,7.3
+其他美食,Two Chefs - Karon Beach,Two Chefs - Karon Beach,0,卡伦海滩,7.9,7.9,7.4
+其他美食,O2沙滩俱乐部,O2沙滩俱乐部,0,普吉风情区和拉万,8.5,8.5,8.5
+其他美食,Baan Laimai Beach Resort,Baan Laimai Beach Resort,0,卡伦海滩,6.7,7.5,7.5
+其他美食,红辣椒餐厅,红辣椒餐厅,0,卡伦海滩,8.1,8.1,8.1
+其他美食,探塔万餐馆,探塔万餐馆,0,芭东海滩,7.0,7.4,7.5
+其他美食,Plum Restaurant,Plum Restaurant,0,卡玛拉海滩,7.3,7.8,7.8
+其他美食,开罗餐厅,开罗餐厅,0,周边小岛,8.5,8.0,8.5
+其他美食,Natalie's Restaurant,Natalie's Restaurant,0,周边小岛,8.4,8.4,8.4
+其他美食,The Secret Cliff Resort & Restaurant,The Secret Cliff Resort & Restaurant,0,卡伦海滩,6.0,8.3,7.4
+其他美食,Mee Ton Poe,Mee Ton Poe,0,船湖,8.2,6.7,8.2
+其他美食,娜奈自助烧烤,娜奈自助烧烤,0,船湖,8.1,8.1,8.1
+其他美食,Mojo,Mojo,0,卡伦海滩,8.1,8.1,8.1
+其他美食,Loca Vore,Loca Vore,0,迈考海滩,7.1,7.1,7.1
+其他美食,Baan Suan Layan Restaurant,Baan Suan Layan Restaurant,0,周边小岛,8.3,8.3,8.3
+其他美食,喜剧咖啡,喜剧咖啡,0,卡伦海滩,7.3,7.8,7.8
+其他美食,Tik,Tik,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,皇家棕榈,皇家棕榈,0,卡伦海滩,5.4,6.7,6.1
+其他美食,Le Siam Restaurant,Le Siam Restaurant,0,周边小岛,6.7,7.4,7.4
+其他美食,Albatross Cafe & Pub,Albatross Cafe & Pub,0,周边小岛,7.4,7.4,7.4
+其他美食,42码头咖啡,42码头咖啡,0,周边小岛,7.0,7.0,7.0
+其他美食,莎拉络依,莎拉络依,0,周边小岛,7.4,7.4,6.7
+其他美食,Tatonka,Tatonka,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,The Grill at Regent Phuket Cape Panwa,The Grill at Regent Phuket Cape Panwa,0,周边小岛,6.4,7.6,7.6
+其他美食,Kata Green Beach Restaurant,Kata Green Beach Restaurant,0,周边小岛,6.7,7.5,8.4
+其他美食,Casuarina Beach Restaurant & Pub,Casuarina Beach Restaurant & Pub,0,卡玛拉海滩,0.0,0.0,0.0
+其他美食,Red Boat Restaurant,Red Boat Restaurant,0,芭东海滩,0.0,0.0,0.0
+其他美食,WAI thai,WAI thai,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Sabai Sabai,Sabai Sabai,0,芭东海滩,0.0,0.0,0.0
+其他美食,Re Ka Ta Beach Club,Re Ka Ta Beach Club,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Saffron at Banyan Tree Phuket,Saffron at Banyan Tree Phuket,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,Molly Malone's Irish Pub Phuket,Molly Malone's Irish Pub Phuket,0,卡伦海滩,0.0,0.0,0.0
+其他美食,"Wine Connection Bistro , Phuket Banana","Wine Connection Bistro , Phuket Banana",0,卡伦海滩,0.0,0.0,0.0
+其他美食,Summer Breeze Hotel,Summer Breeze Hotel,0,芭东海滩,0.0,0.0,0.0
+其他美食,Sala Sawasdee Lobby Bar,Sala Sawasdee Lobby Bar,0,迈考海滩,0.0,0.0,0.0
+其他美食,Roma Ristorante & Pizzeria Da Mauro,Roma Ristorante & Pizzeria Da Mauro,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Salathai,Salathai,0,芭东海滩,0.0,0.0,0.0
+其他美食,Black Ginger,Black Ginger,0,奈扬和奈通海滩,0.0,0.0,0.0
+其他美食,Dang Thabthina,Dang Thabthina,0,周边小岛,0.0,0.0,0.0
+其他美食,La Capannina,La Capannina,0,芭东海滩,0.0,0.0,0.0
+其他美食,La Gaetana Restautant,La Gaetana Restautant,0,船湖,8.4,8.4,8.4
+其他美食,Yorkshire Hotel Restaurant,Yorkshire Hotel Restaurant,0,芭东海滩,0.0,0.0,0.0
+其他美食,Scruffy Murphy's,Scruffy Murphy's,0,芭东海滩,0.0,0.0,0.0
+其他美食,"Baba Poolclub, Sri panwa Phuket","Baba Poolclub, Sri panwa Phuket",0,攀瓦角,0.0,0.0,0.0
+其他美食,Angus O'Tool's Irish Pub,Angus O'Tool's Irish Pub,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Arroi,Arroi,0,芭东海滩,0.0,0.0,0.0
+其他美食,Living Food Cafe,Living Food Cafe,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,Coyote Phuket,Coyote Phuket,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Ocean Restaurant,Ocean Restaurant,0,奈扬和奈通海滩,0.0,0.0,0.0
+其他美食,The Dining Room at Pacific Club,The Dining Room at Pacific Club,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Coyote,Coyote,0,芭东海滩,0.0,0.0,0.0
+其他美食,The Slug and Lettuce Phuket,The Slug and Lettuce Phuket,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,Spice Poolside Restaurant,Spice Poolside Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,Blue Latan Restaurant,Blue Latan Restaurant,0,卡塔海滩,0.0,0.0,0.0
+其他美食,Naughty Radish by Burasari,Naughty Radish by Burasari,0,周边小岛,0.0,0.0,0.0
+其他美食,Coconut-garden,Coconut-garden,0,卡伦海滩,0.0,0.0,0.0
+其他美食,The Lebanese Restaurant,The Lebanese Restaurant,0,卡塔海滩,0.0,0.0,0.0
+其他美食,Thai Thai Restaurant,Thai Thai Restaurant,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Thai Little Restaurant,Thai Little Restaurant,0,苏林海滩,0.0,0.0,0.0
+其他美食,Mamtrio Restaurant,Mamtrio Restaurant,0,船湖,0.0,0.0,0.0
+其他美食,Taste,Taste,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,Two Chefs - Kata Center,Two Chefs - Kata Center,0,周边小岛,0.0,0.0,0.0
+其他美食,Shameena,Shameena,0,周边小岛,0.0,0.0,0.0
+其他美食,Mando Restaurant & Steakhouse,Mando Restaurant & Steakhouse,0,普吉风情区和拉万,0.0,0.0,0.0
+其他美食,IndoChine,IndoChine,0,芭东海滩,0.0,0.0,0.0
+其他美食,99 Bar,99 Bar,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Two Chefs,Two Chefs,0,周边小岛,0.0,0.0,0.0
+其他美食,Metropole Cafe,Metropole Cafe,0,船湖,0.0,0.0,0.0
+其他美食,Lobster Restaurant,Lobster Restaurant,0,查龙,0.0,0.0,0.0
+其他美食,Im Urig,Im Urig,0,卡塔海滩,0.0,0.0,0.0
+其他美食,K-Hotel Restaurant,K-Hotel Restaurant,0,周边小岛,0.0,0.0,0.0
+其他美食,B-Hive,B-Hive,0,周边小岛,0.0,0.0,0.0
+其他美食,The Sweet Restaurant,The Sweet Restaurant,0,周边小岛,0.0,0.0,0.0
+其他美食,Into The Sea,Into The Sea,0,周边小岛,0.0,0.0,0.0
+其他美食,Zen Restaurant,Zen Restaurant,0,周边小岛,0.0,0.0,0.0
+其他美食,Brush Restaurant & Lounge,Brush Restaurant & Lounge,0,芭东海滩,0.0,0.0,0.0
+其他美食,Kais Restaurant,Kais Restaurant,0,卡伦海滩,0.0,0.0,0.0
+其他美食,The Little Mermaid,The Little Mermaid,0,周边小岛,0.0,0.0,0.0
+其他美食,Phromthep Cape,Phromthep Cape,0,周边小岛,0.0,0.0,0.0
+其他美食,Burger House,Burger House,0,周边小岛,0.0,0.0,0.0
+其他美食,Lay Tong Beach,Lay Tong Beach,0,周边小岛,0.0,0.0,0.0
+其他美食,The Book Cafe,The Book Cafe,0,普吉风情区和拉万,0.0,0.0,0.0
+其他美食,The Wall,The Wall,0,普吉风情区和拉万,0.0,0.0,0.0
+其他美食,Yaya,Yaya,0,周边小岛,0.0,0.0,0.0
+其他美食,Ceramic Kitchen Phuket,Ceramic Kitchen Phuket,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,Kebab House,Kebab House,0,普吉风情区和拉万,0.0,0.0,0.0
+其他美食,Tropica Restaurant & Beer Garden,Tropica Restaurant & Beer Garden,0,周边小岛,0.0,0.0,0.0
+其他美食,Famous Nightclub and Rooftop Beach Club,Famous Nightclub and Rooftop Beach Club,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Oishi Ramen,Oishi Ramen,0,周边小岛,0.0,0.0,0.0
+其他美食,Phongphang Sea Food,Phongphang Sea Food,0,周边小岛,0.0,0.0,0.0
+其他美食,Ya Restaurant,Ya Restaurant,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Alex's Restaurant,Alex's Restaurant,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Lock Tien,Lock Tien,0,周边小岛,0.0,0.0,0.0
+其他美食,Mee Sa Pam Khunyai Jian,Mee Sa Pam Khunyai Jian,0,周边小岛,0.0,0.0,0.0
+其他美食,Baan Puri Restaurant,Baan Puri Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,Friendly Nid's Restaurant,Friendly Nid's Restaurant,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Je T Aime,Je T Aime,0,船湖,0.0,0.0,0.0
+其他美食,Detox Juice Bar,Detox Juice Bar,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,A Touch of Tamarind,A Touch of Tamarind,0,周边小岛,0.0,0.0,0.0
+其他美食,Danish Restaurant,Danish Restaurant,0,周边小岛,0.0,0.0,0.0
+其他美食,Pinocchio Restaurant,Pinocchio Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,Som Tam Yay Tik,Som Tam Yay Tik,0,周边小岛,0.0,0.0,0.0
+其他美食,Boonrat Dimsum,Boonrat Dimsum,0,船湖,0.0,0.0,0.0
+其他美食,Ploenchit Pub & Restaurant,Ploenchit Pub & Restaurant,0,船湖,0.0,0.0,0.0
+其他美食,Why At Wine,Why At Wine,0,查龙,0.0,0.0,0.0
+其他美食,The Breakfast Hut,The Breakfast Hut,0,周边小岛,0.0,0.0,0.0
+其他美食,Bistro India,Bistro India,0,周边小岛,0.0,0.0,0.0
+其他美食,Mor Mu Dong,Mor Mu Dong,0,周边小岛,0.0,0.0,0.0
+其他美食,Live Present Moment,Live Present Moment,0,周边小岛,0.0,0.0,0.0
+其他美食,Kokosnuss,Kokosnuss,0,周边小岛,0.0,0.0,0.0
+其他美食,Sala Mexicali,Sala Mexicali,0,周边小岛,0.0,0.0,0.0
+其他美食,Shah Baba Indian Restaurant,Shah Baba Indian Restaurant,0,周边小岛,0.0,0.0,0.0
+其他美食,Atsumi Raw Cafe,Atsumi Raw Cafe,0,周边小岛,0.0,0.0,0.0
+其他美食,The Tavern,The Tavern,0,周边小岛,0.0,0.0,0.0
+其他美食,L'Orfeo Restaurant & Lounge,L'Orfeo Restaurant & Lounge,0,周边小岛,0.0,0.0,0.0
+其他美食,Hells kitchen,Hells kitchen,0,周边小岛,0.0,0.0,0.0
+其他美食,Daily Hut,Daily Hut,0,周边小岛,0.0,0.0,0.0
+其他美食,Zen Japanese Restaurant's Phuket,Zen Japanese Restaurant's Phuket,0,周边小岛,0.0,0.0,0.0
+其他美食,Hongkong,Hongkong,0,船湖,0.0,0.0,0.0
+其他美食,Captain Hook Restaurant,Captain Hook Restaurant,0,查龙,0.0,0.0,0.0
+其他美食,Hotel The Little Mermaid,Hotel The Little Mermaid,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Thai Airways International Restaurant,Thai Airways International Restaurant,0,邦涛和拉古纳海滩,0.0,0.0,0.0
+其他美食,Lynn's Famous Spring Rolls,Lynn's Famous Spring Rolls,0,周边小岛,0.0,0.0,0.0
+其他美食,Cashewnut Restaurant,Cashewnut Restaurant,0,周边小岛,0.0,0.0,0.0
+其他美食,East 88 Beach Lounge,East 88 Beach Lounge,0,周边小岛,0.0,0.0,0.0
+其他美食,East Restaurant,East Restaurant,0,周边小岛,0.0,0.0,0.0
+其他美食,Da Maria,Da Maria,0,周边小岛,0.0,0.0,0.0
+其他美食,Runde Taarn,Runde Taarn,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Seabreeze Inn / Matthew's Diner,Seabreeze Inn / Matthew's Diner,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Quarterdeck,Quarterdeck,0,卡图/高尔夫球场,0.0,0.0,0.0
+其他美食,Farang Italian Restaurant,Farang Italian Restaurant,0,周边小岛,0.0,0.0,0.0
+其他美食,Phuket View Restaurant,Phuket View Restaurant,0,周边小岛,0.0,0.0,0.0
+其他美食,Thai Nann,Thai Nann,0,周边小岛,0.0,0.0,0.0
+其他美食,Krachok Si,Krachok Si,0,周边小岛,0.0,0.0,0.0
+其他美食,Kitchen Plus,Kitchen Plus,0,周边小岛,0.0,0.0,0.0
+其他美食,Da Mario,Da Mario,0,周边小岛,0.0,0.0,0.0
+其他美食,Tom Yam Kung,Tom Yam Kung,0,周边小岛,0.0,0.0,0.0
+其他美食,Malaiwana Beach Bar,Malaiwana Beach Bar,0,周边小岛,0.0,0.0,0.0
+其他美食,Gartenlaube,Gartenlaube,0,周边小岛,0.0,0.0,0.0
+其他美食,Ratri Jazz Restaurant,Ratri Jazz Restaurant,0,周边小岛,0.0,0.0,0.0
+其他美食,Crystal Inn,Crystal Inn,0,周边小岛,0.0,0.0,0.0
+其他美食,Rimtang,Rimtang,0,周边小岛,0.0,0.0,0.0
+其他美食,Wine Lover,Wine Lover,0,周边小岛,0.0,0.0,0.0
+其他美食,恐龙公园餐厅,恐龙公园餐厅,0,,0.0,0.0,0.0
+其他美食,Phileas Fogg,Phileas Fogg,0,卡伦海滩,0.0,0.0,0.0
+其他美食,Sawasdee Restaurants & Bar,Sawasdee Restaurants & Bar,0,,0.0,0.0,0.0
+其他美食,Bongo Rum Bar,Bongo Rum Bar,0,船湖,0.0,0.0,0.0
+其他美食,Oishi Express,Oishi Express,0,周边小岛,0.0,0.0,0.0
+其他美食,Tropica Restaurant & Beer Garden,Tropica Restaurant & Beer Garden,0,周边小岛,0.0,0.0,0.0
+其他美食,La Provence,La Provence,0,周边小岛,0.0,0.0,0.0
+其他美食,掌柜的店,掌柜的店,0,,0.0,0.0,0.0

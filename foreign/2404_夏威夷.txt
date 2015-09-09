@@ -1,0 +1,1356 @@
+咖啡厅,Wailana Coffee House,Wailana Coffee House,0,,7.2,7.2,7.2
+咖啡厅,The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,0,檀香山(Honululu),6.8,6.7,7.1
+咖啡厅,夏忆夏威夷实弹射击具乐部,夏忆夏威夷实弹射击具乐部,0,檀香山(Honululu),8.2,8.2,8.2
+咖啡厅,Plumeria Beach House,Plumeria Beach House,0,,7.4,7.4,7.4
+咖啡厅,Starbucks,Starbucks,0,,7.5,7.4,7.4
+咖啡厅,Royal Ocean Terrace in Royal Lahaina Resort,Royal Ocean Terrace in Royal Lahaina Resort,0,,7.1,7.3,7.3
+咖啡厅,Cafe 100,Cafe 100,0,,0.0,0.0,0.0
+咖啡厅,Mama's Fish House,Mama's Fish House,0,,7.3,7.3,7.7
+咖啡厅,Wails a Coffee House,Wails a Coffee House,0,,7.4,7.4,7.4
+咖啡厅,Molokai Pizza Cafe,Molokai Pizza Cafe,0,,7.2,7.2,7.2
+咖啡厅,Musubi Cafe,Musubi Cafe,0,,0.0,0.0,0.0
+咖啡厅,Kona Farm Direct,Kona Farm Direct,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Kope Lani Heavenly Coffee & Ice Cream,Kope Lani Heavenly Coffee & Ice Cream,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Kona Brothers Coffee,Kona Brothers Coffee,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Chuck's Steak House,Chuck's Steak House,0,,7.2,7.2,7.2
+咖啡厅,Rock Island Cafe,Rock Island Cafe,0,,7.2,7.2,7.2
+咖啡厅,Chart House,Chart House,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,6.8,6.8,7.1
+咖啡厅,Yakiniku Korea House,Yakiniku Korea House,0,,6.9,6.9,6.9
+咖啡厅,Brewalalai,Brewalalai,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Country Coffee at Rainbow Falls,Country Coffee at Rainbow Falls,0,希洛(Hilo),0.0,0.0,0.0
+咖啡厅,Kobe' Japanese Steak House,Kobe' Japanese Steak House,0,,7.2,7.2,6.8
+咖啡厅,Ruth's Chris Steak House - Waikiki,Ruth's Chris Steak House - Waikiki,0,,7.2,7.2,7.2
+咖啡厅,Coach’s Corner Coffee Bar,Coach’s Corner Coffee Bar,0,,0.0,0.0,0.0
+咖啡厅,d.k Steak House,d.k Steak House,0,,7.2,7.2,7.2
+咖啡厅,Hawaiian Moonbeans Cafe,Hawaiian Moonbeans Cafe,0,火山国家公园,0.0,0.0,0.0
+咖啡厅,Vit's Hawaiian Steak House,Vit's Hawaiian Steak House,0,,7.2,7.2,7.2
+咖啡厅,Seattle's Best Coffee Waikiki Beach Marriott,Seattle's Best Coffee Waikiki Beach Marriott,0,,7.2,7.2,7.2
+咖啡厅,Green Flash Coffee,Green Flash Coffee,0,,0.0,0.0,0.0
+咖啡厅,Aloha Bayfront Cafe,Aloha Bayfront Cafe,0,希洛(Hilo),0.0,0.0,0.0
+咖啡厅,Peaberry & Galette,Peaberry & Galette,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Volcano's Lava Rock Cafe,Volcano's Lava Rock Cafe,0,,0.0,0.0,0.0
+咖啡厅,Ruth's Chris Steak House,Ruth's Chris Steak House,0,,7.2,7.2,7.2
+咖啡厅,Protea Cafe,Protea Cafe,0,,7.2,7.2,7.2
+咖啡厅,Kona Mountain Coffee,Kona Mountain Coffee,0,,6.9,7.1,7.3
+咖啡厅,Rebel Kitchen,Rebel Kitchen,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Orchid Isle Cafe,Orchid Isle Cafe,0,,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Canton House,Canton House,0,,7.0,7.0,6.9
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.9,7.0,6.9
+咖啡厅,Ilima Cafe,Ilima Cafe,0,,7.1,7.1,7.1
+咖啡厅,Ruth's Chris Steak House - Honolulu,Ruth's Chris Steak House - Honolulu,0,,7.2,7.2,7.2
+咖啡厅,Sweet E's Cafe,Sweet E's Cafe,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,6.7,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,0.0,0.0,0.0
+咖啡厅,Merriman's Market Cafe,Merriman's Market Cafe,0,,0.0,0.0,0.0
+咖啡厅,Hawaiian Style Cafe,Hawaiian Style Cafe,0,,0.0,0.0,0.0
+咖啡厅,Buns in the Sun,Buns in the Sun,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Volcano House,Volcano House,0,,0.0,0.0,0.0
+咖啡厅,Cafe Ohia,Cafe Ohia,0,,0.0,0.0,0.0
+咖啡厅,Castaway Cafe,Castaway Cafe,0,,7.2,7.2,7.2
+咖啡厅,"Island Vintage Coffee, Ala Moana Center","Island Vintage Coffee, Ala Moana Center",0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.2,7.2,7.2
+咖啡厅,Barefoot Beach Cafe,Barefoot Beach Cafe,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Sunny Maui Specialties,Sunny Maui Specialties,0,,6.9,6.9,6.9
+咖啡厅,Bikini Beach Cafe,Bikini Beach Cafe,0,,7.1,7.1,7.0
+咖啡厅,Menehune Coffee,Menehune Coffee,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Kona de Pele Cafe,Kona de Pele Cafe,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,The Kona Coffee and Tea Company,The Kona Coffee and Tea Company,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Kaya's,Kaya's,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Kona Coffee and Tea Company,Kona Coffee and Tea Company,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Dave's Plate and Coffee Shack,Dave's Plate and Coffee Shack,0,柯哈拉(Kohala),0.0,0.0,0.0
+咖啡厅,Kohala Coffee Mill,Kohala Coffee Mill,0,柯哈拉(Kohala),0.0,0.0,0.0
+咖啡厅,Short & Sweet Bakery & Cafe,Short & Sweet Bakery & Cafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+咖啡厅,Ka lae coffee,Ka lae coffee,0,火山国家公园,0.0,0.0,0.0
+咖啡厅,Waimea Coffee Company,Waimea Coffee Company,0,柯哈拉(Kohala),0.0,0.0,0.0
+咖啡厅,Jus Pound,Jus Pound,0,火山国家公园,0.0,0.0,0.0
+咖啡厅,The Coffee Shack,The Coffee Shack,0,,0.0,0.0,0.0
+咖啡厅,Sirius Coffee Connection,Sirius Coffee Connection,0,,0.0,0.0,0.0
+咖啡厅,Just Cruisin Coffee,Just Cruisin Coffee,0,,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Shabu Shabu House,Shabu Shabu House,0,,7.1,7.1,7.1
+咖啡厅,Vietnam Cafe Pho Saigon,Vietnam Cafe Pho Saigon,0,,7.1,7.0,7.0
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Kimobean,Kimobean,0,夏威夷其他,0.0,0.0,0.0
+咖啡厅,Cafe Sistina,Cafe Sistina,0,,7.2,7.2,7.2
+咖啡厅,Cafe Mambo,Cafe Mambo,0,,7.2,7.2,7.2
+咖啡厅,Seattle's Best Coffee,Seattle's Best Coffee,0,,7.2,7.2,6.8
+咖啡厅,Chuck's Steak House (Kauai),Chuck's Steak House (Kauai),0,,7.0,7.0,7.0
+咖啡厅,Mama's Spaghetti House,Mama's Spaghetti House,0,,7.0,7.0,6.9
+咖啡厅,Jurison's Westside Cafe,Jurison's Westside Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cookie Corner,Cookie Corner,0,,7.1,7.1,7.1
+咖啡厅,Mocha Java Cafe,Mocha Java Cafe,0,,7.1,7.1,7.1
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,7.0,7.1,7.0
+咖啡厅,House of Hong,House of Hong,0,,7.1,7.1,7.1
+咖啡厅,Choco House,Choco House,0,,7.1,7.1,7.1
+咖啡厅,Cafe Kaila,Cafe Kaila,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Island Vintage Coffee,Island Vintage Coffee,0,,7.0,7.0,7.0
+咖啡厅,Nordstrom Marketplace Cafe,Nordstrom Marketplace Cafe,0,,7.1,7.1,7.1
+咖啡厅,Tokyo Noodle House,Tokyo Noodle House,0,,7.0,7.0,6.9
+咖啡厅,Dim Sum House Incorporated,Dim Sum House Incorporated,0,,7.0,7.0,7.0
+咖啡厅,Makawao Garden Cafe,Makawao Garden Cafe,0,,7.7,7.2,7.2
+咖啡厅,Rise and Shine Cafe Hawaii,Rise and Shine Cafe Hawaii,0,,7.0,7.1,7.0
+咖啡厅,Sweet Home Waimanalo,Sweet Home Waimanalo,0,,7.2,7.2,7.2
+咖啡厅,Musubi Cafe Iyasume,Musubi Cafe Iyasume,0,,7.1,7.1,7.1
+咖啡厅,Tropics Ale House,Tropics Ale House,0,,7.1,7.1,7.1
+咖啡厅,House Without a Key,House Without a Key,0,,7.2,7.2,7.7
+咖啡厅,Hawaiiana Cafe,Hawaiiana Cafe,0,,7.2,7.2,7.2
+咖啡厅,Ezogiku Noodle Cafe,Ezogiku Noodle Cafe,0,,7.1,7.1,6.8
+咖啡厅,"island Vintage Coffee, Royal Hawaii Center","island Vintage Coffee, Royal Hawaii Center",0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Plaza Cafe,Plaza Cafe,0,,7.0,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Koa Pancake House,Koa Pancake House,0,,7.1,7.1,7.1
+咖啡厅,Char Siu House,Char Siu House,0,,7.0,7.0,6.9
+咖啡厅,Starbucks,Starbucks,0,,6.9,7.1,7.0
+咖啡厅,Starbucks,Starbucks,0,,7.0,7.0,7.0
+咖啡厅,Aina Gourmet Coffee,Aina Gourmet Coffee,0,,7.1,7.1,7.1
+咖啡厅,Maui Coffee Roasters,Maui Coffee Roasters,0,,7.2,7.2,7.2
+咖啡厅,Duke's Beach House,Duke's Beach House,0,,7.2,7.2,7.2
+咖啡厅,Bad Ass Coffee Maui,Bad Ass Coffee Maui,0,,7.2,7.2,7.2
+咖啡厅,Bad Ass Coffee Co.,Bad Ass Coffee Co.,0,,7.1,7.1,7.1
+咖啡厅,Bay Rock Cafe,Bay Rock Cafe,0,,6.9,6.9,6.9
+咖啡厅,Honolulu Coffee Company,Honolulu Coffee Company,0,,7.2,7.2,7.2
+咖啡厅,Coffees n' Epicurea,Coffees n' Epicurea,0,夏威夷其他,0.0,0.0,0.0
+咖啡厅,Bongo Ben's Island Cafe,Bongo Ben's Island Cafe,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Ferrari Kona Coffee Mobile,Ferrari Kona Coffee Mobile,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Juice 101,Juice 101,0,柯哈拉(Kohala),0.0,0.0,0.0
+咖啡厅,Puna Java,Puna Java,0,火山国家公园,0.0,0.0,0.0
+咖啡厅,Moo Bettah Frozen Fun,Moo Bettah Frozen Fun,0,,0.0,0.0,0.0
+咖啡厅,Cheng's Chop Suey House,Cheng's Chop Suey House,0,,0.0,0.0,0.0
+咖啡厅,Dream Dinners,Dream Dinners,0,,6.9,6.9,6.9
+咖啡厅,Uncle Clay's House of Pure Aloha,Uncle Clay's House of Pure Aloha,0,,7.7,7.7,7.2
+咖啡厅,Memphis Belle Coffee House,Memphis Belle Coffee House,0,,7.6,7.6,7.6
+咖啡厅,Garden Gourmet Cafe,Garden Gourmet Cafe,0,,7.1,7.1,7.1
+咖啡厅,Little Fish Coffee,Little Fish Coffee,0,,7.5,7.1,7.5
+咖啡厅,Beach Bum Cafe,Beach Bum Cafe,0,,7.3,7.1,7.1
+咖啡厅,Up Country Downtown Cafe,Up Country Downtown Cafe,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,"1 Plus 1 Cafe, LLC","1 Plus 1 Cafe, LLC",0,火山国家公园,0.0,0.0,0.0
+咖啡厅,Coffee and Epicurea,Coffee and Epicurea,0,科纳(Kona),0.0,0.0,0.0
+咖啡厅,Original Pancake House,Original Pancake House,0,,7.2,7.2,7.2
+咖啡厅,Soul DE Cuba Cafe,Soul DE Cuba Cafe,0,,7.2,7.2,7.2
+咖啡厅,Sandy's Drive In,Sandy's Drive In,0,,0.0,0.0,0.0
+咖啡厅,Spoonful Cafe,Spoonful Cafe,0,,0.0,0.0,0.0
+咖啡厅,K's Drive In,K's Drive In,0,,0.0,0.0,0.0
+咖啡厅,Fred's Mexican Cafe,Fred's Mexican Cafe,0,,7.2,7.2,7.2
+咖啡厅,Home Maid Cafe,Home Maid Cafe,0,,7.2,7.2,6.8
+咖啡厅,KOA Pancake House,KOA Pancake House,0,,7.2,7.2,7.2
+咖啡厅,Blue Moon Cafe,Blue Moon Cafe,0,,7.2,7.2,6.8
+咖啡厅,Cafe 565,Cafe 565,0,,7.2,7.2,6.8
+咖啡厅,Makawao Steak House,Makawao Steak House,0,,7.2,7.2,7.2
+咖啡厅,Cafe O'Lei at The Dunes at Maui Lani,Cafe O'Lei at The Dunes at Maui Lani,0,,7.2,7.2,7.2
+咖啡厅,Betty's Beach Cafe,Betty's Beach Cafe,0,,7.2,7.2,7.2
+咖啡厅,Maui Swiss Cafe,Maui Swiss Cafe,0,,7.2,7.2,7.2
+咖啡厅,Sunrise Cafe,Sunrise Cafe,0,,7.2,7.2,7.2
+咖啡厅,Penne Pasta Cafe,Penne Pasta Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Cafe,Cafe Cafe,0,,7.2,7.2,7.2
+咖啡厅,Down To Earth,Down To Earth,0,,7.2,7.2,6.8
+咖啡厅,Saigon Cafe a,Saigon Cafe a,0,,7.2,7.2,7.2
+咖啡厅,Kahului Ale House,Kahului Ale House,0,,7.2,7.2,7.2
+咖啡厅,Anthony's Coffee Co Incorporated,Anthony's Coffee Co Incorporated,0,,7.2,7.2,7.2
+咖啡厅,Hana Hou Cafe,Hana Hou Cafe,0,,7.2,7.2,7.2
+咖啡厅,Starbucks Kapahulu,Starbucks Kapahulu,0,,7.2,7.2,7.2
+咖啡厅,KO KO Cafe,KO KO Cafe,0,,7.2,7.2,7.2
+咖啡厅,Obsessions Cafe,Obsessions Cafe,0,,7.2,7.2,7.2
+咖啡厅,Tip Top Cafe/Bakery,Tip Top Cafe/Bakery,0,,7.2,7.2,6.8
+咖啡厅,Mermaids Cafe,Mermaids Cafe,0,,7.2,7.2,7.2
+咖啡厅,Harry's Cafe,Harry's Cafe,0,,7.1,7.1,6.8
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Mix Cafe,Mix Cafe,0,,7.1,7.0,7.0
+咖啡厅,Cafe Blue,Cafe Blue,0,,6.9,6.9,6.9
+咖啡厅,Honolulu Coffee Co.'S Bishop Store Cafe,Honolulu Coffee Co.'S Bishop Store Cafe,0,,6.9,6.9,6.9
+咖啡厅,Downtown Coffee,Downtown Coffee,0,,7.1,7.1,7.1
+咖啡厅,Fort Street Cafe,Fort Street Cafe,0,,7.0,7.0,7.0
+咖啡厅,Hanks Cafe Honolulu,Hanks Cafe Honolulu,0,,7.0,7.0,6.9
+咖啡厅,Skippy's Coffee Shop,Skippy's Coffee Shop,0,,6.9,6.9,6.9
+咖啡厅,Honolulu Park Place Cafe,Honolulu Park Place Cafe,0,,7.1,7.1,7.1
+咖啡厅,Kukui Cafe,Kukui Cafe,0,,6.9,6.9,6.9
+咖啡厅,La Tour Cafe,La Tour Cafe,0,,7.1,7.1,7.1
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Aloha Wellness Cafe,Aloha Wellness Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Kiowai,Cafe Kiowai,0,,7.1,7.1,7.1
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Ray's Cafe,Ray's Cafe,0,,7.1,7.1,6.8
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Soon's Kal BI Drive In,Soon's Kal BI Drive In,0,,7.3,7.1,6.8
+咖啡厅,Saigon Noodle House,Saigon Noodle House,0,,7.1,7.1,7.1
+咖啡厅,Koa Pancake House,Koa Pancake House,0,,7.1,7.1,6.8
+咖啡厅,Times Coffee Shop,Times Coffee Shop,0,,7.1,7.1,6.8
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,6.9,7.1,6.9
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.9,6.9,6.9
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.9,6.9,6.9
+咖啡厅,Stevenson's Library,Stevenson's Library,0,,7.1,7.1,7.1
+咖啡厅,Akamai Coffee Company,Akamai Coffee Company,0,,7.0,7.1,7.0
+咖啡厅,Hanzawas in Haiku,Hanzawas in Haiku,0,,7.1,7.1,7.1
+咖啡厅,Cafe Central,Cafe Central,0,,7.1,7.1,7.0
+咖啡厅,Millyard Snack House,Millyard Snack House,0,,6.9,6.9,6.9
+咖啡厅,Coffee Bean and Tea Leaf,Coffee Bean and Tea Leaf,0,,7.0,7.1,7.1
+咖啡厅,Nickie Cafe,Nickie Cafe,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.0
+咖啡厅,Starbucks,Starbucks,0,,6.8,6.8,7.1
+咖啡厅,In-Yo Cafe,In-Yo Cafe,0,,7.1,7.5,7.1
+咖啡厅,Cafe Laufer,Cafe Laufer,0,,7.1,7.1,7.1
+咖啡厅,Honolulu Coffee,Honolulu Coffee,0,,7.0,7.0,7.0
+咖啡厅,City Cafe Honolulu,City Cafe Honolulu,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Wedding Cafe,Wedding Cafe,0,,6.9,6.9,6.9
+咖啡厅,Birdie's Cafe,Birdie's Cafe,0,,7.1,7.1,7.1
+咖啡厅,Waimea coffee,Waimea coffee,0,,6.9,6.9,6.9
+咖啡厅,Put it in a Pita,Put it in a Pita,0,,7.1,7.1,7.1
+咖啡厅,Ho'okipa Cafe,Ho'okipa Cafe,0,,6.9,6.9,6.9
+咖啡厅,Namahana Cafe,Namahana Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Duck Butt,Cafe Duck Butt,0,,7.0,7.0,7.0
+咖啡厅,Fresh Cafe,Fresh Cafe,0,,7.0,7.0,7.0
+咖啡厅,Starbucks,Starbucks,0,,7.0,7.0,7.0
+咖啡厅,Jack in the Box,Jack in the Box,0,,7.0,7.0,7.0
+咖啡厅,Komala Curry House,Komala Curry House,0,,7.1,7.1,7.0
+咖啡厅,Contemporary Museum Cafe,Contemporary Museum Cafe,0,,6.9,6.9,6.9
+咖啡厅,SunFlower Cafe,SunFlower Cafe,0,,7.0,7.0,7.0
+咖啡厅,Mix Plate Cafe,Mix Plate Cafe,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Lion Coffee Cafe,Lion Coffee Cafe,0,,7.0,6.9,7.0
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.9,6.9,6.9
+咖啡厅,Wyland Kona Coffee Cafe,Wyland Kona Coffee Cafe,0,,6.9,6.9,6.9
+咖啡厅,Masa's Cafeteria,Masa's Cafeteria,0,,7.1,7.0,6.9
+咖啡厅,Times Coffee Shop,Times Coffee Shop,0,,6.9,6.9,6.9
+咖啡厅,Ayame Curry Ramen House,Ayame Curry Ramen House,0,,6.9,6.9,6.9
+咖啡厅,Chun's Bar-B-Q House,Chun's Bar-B-Q House,0,,7.0,7.0,6.9
+咖啡厅,Kupono Cafe,Kupono Cafe,0,,6.9,6.9,6.9
+咖啡厅,Courtyard Cafe,Courtyard Cafe,0,,7.1,7.1,7.0
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.7,6.9
+咖啡厅,French Cafe and Sandwich,French Cafe and Sandwich,0,,6.9,6.9,6.9
+咖啡厅,The Coffee Bean and Tea Leaf,The Coffee Bean and Tea Leaf,0,,7.0,7.0,6.9
+咖啡厅,Coffee Talk,Coffee Talk,0,,7.0,7.0,7.1
+咖啡厅,Seattle's Best Coffee,Seattle's Best Coffee,0,,6.9,6.9,6.9
+咖啡厅,On The Rocks Cafe,On The Rocks Cafe,0,,6.9,6.9,6.9
+咖啡厅,Viet Cafe,Viet Cafe,0,,6.9,6.9,6.9
+咖啡厅,"Greek Corner, The","Greek Corner, The",0,,7.0,7.0,6.9
+咖啡厅,U-Choice In,U-Choice In,0,,7.0,7.0,6.9
+咖啡厅,Green Papaya,Green Papaya,0,,7.0,7.0,6.9
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Plantation Coffee Company,Plantation Coffee Company,0,,7.0,7.0,6.9
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.9,6.9,6.9
+咖啡厅,Blue Tree Cafe,Blue Tree Cafe,0,,7.0,7.0,7.1
+咖啡厅,Sakura Terrace Japanese Cafe,Sakura Terrace Japanese Cafe,0,,7.1,7.0,7.0
+咖啡厅,Tsukenjo Lunch House,Tsukenjo Lunch House,0,,7.0,7.0,6.9
+咖啡厅,Honolulu Museum of Art Cafe,Honolulu Museum of Art Cafe,0,,7.1,7.1,7.1
+咖啡厅,Pavilion Cafe,Pavilion Cafe,0,,7.1,7.0,7.0
+咖啡厅,Sure Shot Cafe,Sure Shot Cafe,0,,7.0,7.0,7.0
+咖啡厅,Honolulu Cafe,Honolulu Cafe,0,,6.9,7.1,6.9
+咖啡厅,Komala Curry House,Komala Curry House,0,,7.0,7.1,6.9
+咖啡厅,Cafe Laniakea,Cafe Laniakea,0,,7.1,7.1,7.1
+咖啡厅,Cookie Corner,Cookie Corner,0,,6.9,6.9,6.9
+咖啡厅,Starbucks Manoa Valley,Starbucks Manoa Valley,0,,7.0,7.0,7.1
+咖啡厅,Not Just Desserts,Not Just Desserts,0,,6.9,6.9,6.7
+咖啡厅,Morning Glass Coffee,Morning Glass Coffee,0,,7.1,7.1,7.1
+咖啡厅,Le Crepe Cafe,Le Crepe Cafe,0,,7.0,7.0,7.0
+咖啡厅,Little Village Noodle House,Little Village Noodle House,0,,7.2,7.2,7.2
+咖啡厅,Green Papaya Cafe,Green Papaya Cafe,0,,7.3,7.1,7.1
+咖啡厅,New Eagle Cafe,New Eagle Cafe,0,,7.1,7.1,6.8
+咖啡厅,Ford Island Beach House Cafe,Ford Island Beach House Cafe,0,,7.1,7.1,7.1
+咖啡厅,Siam Garden Cafe,Siam Garden Cafe,0,,7.2,7.2,7.2
+咖啡厅,Ha Long Pho Noodle House,Ha Long Pho Noodle House,0,,7.0,7.0,7.0
+咖啡厅,Lox of Bagels,Lox of Bagels,0,,7.1,7.0,7.0
+咖啡厅,Original Pancake House,Original Pancake House,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.0,7.1,7.0
+咖啡厅,Kimagure Cafe,Kimagure Cafe,0,,7.0,7.0,6.9
+咖啡厅,Kona Beach Steak House,Kona Beach Steak House,0,,0.0,0.0,0.0
+咖啡厅,Cafe Kula,Cafe Kula,0,,7.2,7.2,7.2
+咖啡厅,Honolulu Coffee Company,Honolulu Coffee Company,0,,7.2,7.2,7.2
+咖啡厅,Grandma's Coffee House,Grandma's Coffee House,0,,7.2,7.2,7.2
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.7,6.9,6.7
+咖啡厅,Java Cafe,Java Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Carmen at the Tech Park,Cafe Carmen at the Tech Park,0,,7.7,7.7,7.2
+咖啡厅,Cafe Pulama at the Bishop Museum,Cafe Pulama at the Bishop Museum,0,,6.9,7.0,6.9
+咖啡厅,Starbucks,Starbucks,0,,7.1,7.1,7.1
+咖啡厅,Koa Pancake House,Koa Pancake House,0,,7.1,7.1,7.1
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.9,6.9,6.9
+咖啡厅,Queen St Cafe and Grill,Queen St Cafe and Grill,0,,7.0,7.0,7.0
+咖啡厅,Heights Drive In,Heights Drive In,0,,7.0,7.0,7.0
+咖啡厅,Kapiolani Coffee Shop,Kapiolani Coffee Shop,0,,7.1,7.1,7.1
+咖啡厅,India Cafe Kailua Curry Express,India Cafe Kailua Curry Express,0,,7.1,7.1,6.8
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.9,6.9,6.9
+咖啡厅,Ka'aha'aina Cafe,Ka'aha'aina Cafe,0,,7.0,7.0,7.0
+咖啡厅,Times Coffee Shop Kaneohe,Times Coffee Shop Kaneohe,0,,6.9,7.0,6.9
+咖啡厅,Sunset Cafe - Waianae,Sunset Cafe - Waianae,0,,7.0,6.9,7.0
+咖啡厅,Just Tacos Mexican Grill and Cantina,Just Tacos Mexican Grill and Cantina,0,,6.9,7.0,6.9
+咖啡厅,Starbucks,Starbucks,0,,7.0,7.1,7.1
+咖啡厅,Cafe Haleiwa Incorporated,Cafe Haleiwa Incorporated,0,,7.2,7.2,7.2
+咖啡厅,Beet Box Cafe,Beet Box Cafe,0,,7.2,7.2,7.2
+咖啡厅,Kono's Big Wave Cafe,Kono's Big Wave Cafe,0,,7.2,7.2,7.2
+咖啡厅,Fiji Market and Curry House,Fiji Market and Curry House,0,,7.5,7.1,7.1
+咖啡厅,Farm Cafe,Farm Cafe,0,,7.1,7.1,7.1
+咖啡厅,Starbucks,Starbucks,0,,7.1,6.8,7.1
+咖啡厅,Starbucks,Starbucks,0,,7.2,7.2,6.8
+咖啡厅,Hana Tea and Coffee House,Hana Tea and Coffee House,0,,7.1,7.1,7.0
+咖啡厅,Coffee Works,Coffee Works,0,,7.2,7.2,7.2
+咖啡厅,Cool Cat Cafe,Cool Cat Cafe,0,,7.2,7.2,7.2
+咖啡厅,Take Home Maui,Take Home Maui,0,,7.5,7.5,7.1
+咖啡厅,Kobe' Japanese Steak House,Kobe' Japanese Steak House,0,,7.2,7.2,6.8
+咖啡厅,LahainaLuna Cafe,LahainaLuna Cafe,0,,7.2,7.2,7.2
+咖啡厅,Hard Rock Cafe,Hard Rock Cafe,0,,7.2,7.2,7.2
+咖啡厅,Maui Grown Coffee Company,Maui Grown Coffee Company,0,,7.1,7.1,7.1
+咖啡厅,Starbucks,Starbucks,0,,7.0,6.7,6.9
+咖啡厅,Wailuku Coffee Company,Wailuku Coffee Company,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.0,6.9,6.9
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.9,6.7,6.7
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Fiesta Time,Fiesta Time,0,,7.1,7.1,6.9
+咖啡厅,Paia Bay Coffee,Paia Bay Coffee,0,,7.1,7.1,7.1
+咖啡厅,Cafe Des AMIS,Cafe Des AMIS,0,,7.2,7.2,7.2
+咖啡厅,Fiesta Time,Fiesta Time,0,,7.1,7.0,6.9
+咖啡厅,Island press coffee,Island press coffee,0,,7.1,7.1,7.1
+咖啡厅,Hawaiian Village Coffee,Hawaiian Village Coffee,0,,7.2,7.7,7.2
+咖啡厅,The Coffee Store Napili,The Coffee Store Napili,0,,7.2,7.2,7.2
+咖啡厅,Molokai Roast Pork House,Molokai Roast Pork House,0,,7.1,7.1,6.8
+咖啡厅,Aunty Ruby's Cafe,Aunty Ruby's Cafe,0,,7.0,7.0,7.0
+咖啡厅,Olive Tree Cafe,Olive Tree Cafe,0,,7.2,7.2,7.2
+咖啡厅,KiMOBEAN Coffee Company,KiMOBEAN Coffee Company,0,,6.9,6.9,6.9
+咖啡厅,Musubi Cafe Iyasume,Musubi Cafe Iyasume,0,,7.2,7.2,7.2
+咖啡厅,Ala Wai Golf Course Cafe,Ala Wai Golf Course Cafe,0,,6.9,6.9,6.9
+咖啡厅,Moena Cafe,Moena Cafe,0,,7.1,7.1,7.1
+咖啡厅,Paradise Cafe,Paradise Cafe,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,7.2,7.2,7.2
+咖啡厅,Aloha Harmony Tea House,Aloha Harmony Tea House,0,,7.1,7.1,7.1
+咖啡厅,Gorilla in the Cafe,Gorilla in the Cafe,0,,7.1,7.1,7.1
+咖啡厅,Koa Pancake House,Koa Pancake House,0,,7.1,7.1,7.1
+咖啡厅,Mac Nuts House,Mac Nuts House,0,,7.0,7.0,7.0
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Cafe MIRO,Cafe MIRO,0,,7.2,7.2,7.2
+咖啡厅,Kimo Bean Coffee Co,Kimo Bean Coffee Co,0,,7.0,7.0,7.0
+咖啡厅,Hiking Hawaii Cafe,Hiking Hawaii Cafe,0,,7.2,7.2,7.2
+咖啡厅,St Louis Drive In,St Louis Drive In,0,,7.0,6.9,7.0
+咖啡厅,Cafe Taj Mahal Indian Restaurant,Cafe Taj Mahal Indian Restaurant,0,,7.1,7.1,6.8
+咖啡厅,The Tea Farm Cafe,The Tea Farm Cafe,0,,7.0,7.1,7.1
+咖啡厅,Cafe Leyenda Cantina,Cafe Leyenda Cantina,0,,6.9,7.0,6.9
+咖啡厅,Cafe Maharani,Cafe Maharani,0,,7.2,6.8,6.8
+咖啡厅,Tango Market Cafe,Tango Market Cafe,0,,7.0,7.0,7.0
+咖啡厅,Kissaten Coffee Bar,Kissaten Coffee Bar,0,,7.0,6.9,7.0
+咖啡厅,Tango Contemporary Cafe,Tango Contemporary Cafe,0,,7.2,7.2,7.2
+咖啡厅,Peace Cafe,Peace Cafe,0,,7.2,7.2,7.2
+咖啡厅,Obsession Cafe,Obsession Cafe,0,,6.9,6.7,6.9
+咖啡厅,Cafe Portofino,Cafe Portofino,0,,7.2,7.2,7.2
+咖啡厅,Halo/holo Corner SHAVE ICE,Halo/holo Corner SHAVE ICE,0,,6.9,6.9,6.9
+咖啡厅,Ha Coffee Bar,Ha Coffee Bar,0,,7.1,7.3,7.3
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,The Greenery Cafe,The Greenery Cafe,0,,7.1,7.1,7.0
+咖啡厅,Kauai Family Cafe,Kauai Family Cafe,0,,7.6,7.6,7.2
+咖啡厅,Passion Bakery Cafe,Passion Bakery Cafe,0,,7.2,7.2,7.2
+咖啡厅,The Green Pig,The Green Pig,0,,7.1,7.1,7.1
+咖啡厅,Art Cafe Hemingway,Art Cafe Hemingway,0,,7.2,7.2,7.2
+咖啡厅,Small Town Coffee,Small Town Coffee,0,,7.2,7.2,7.2
+咖啡厅,Anahola Cafe and Saimin Stand,Anahola Cafe and Saimin Stand,0,,7.0,7.0,7.0
+咖啡厅,The Garden Cafe at Common Ground,The Garden Cafe at Common Ground,0,,7.2,7.2,7.2
+咖啡厅,Hanalei Coffee Roasters,Hanalei Coffee Roasters,0,,7.2,7.2,7.2
+咖啡厅,Hanalei Wake-Up Cafe,Hanalei Wake-Up Cafe,0,,7.2,7.2,7.2
+咖啡厅,People's Cafe,People's Cafe,0,,6.8,7.1,7.1
+咖啡厅,Plantation Cafe,Plantation Cafe,0,,6.5,6.8,6.8
+咖啡厅,Splash Cafe,Splash Cafe,0,,6.8,6.8,7.1
+咖啡厅,House of Noodles,House of Noodles,0,,7.2,7.2,6.8
+咖啡厅,Neide's Salsa and Samba,Neide's Salsa and Samba,0,,6.8,6.8,7.2
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.9,6.9,6.9
+咖啡厅,Cafe Aloha,Cafe Aloha,0,,6.9,6.9,6.9
+咖啡厅,Dreamers Cafe,Dreamers Cafe,0,,6.9,6.9,6.9
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,Cafe Laufer,Cafe Laufer,0,檀香山(Honululu),0.0,0.0,0.0
+咖啡厅,Seattle s Best Coffee,Seattle s Best Coffee,0,檀香山(Honululu),0.0,0.0,0.0
+意大利菜,Dona & Toni's Pizza - Hilton Waikoloa Village,Dona & Toni's Pizza - Hilton Waikoloa Village,0,柯哈拉(Kohala),0.0,0.0,0.0
+意大利菜,Pueo's Osteria,Pueo's Osteria,0,柯哈拉(Kohala),0.0,0.0,0.0
+意大利菜,Fresco Italian Restaurant,Fresco Italian Restaurant,0,檀香山(Honululu),6.6,7.1,7.1
+意大利菜,Mi's Italian Bistro,Mi's Italian Bistro,0,科纳(Kona),0.0,0.0,0.0
+意大利菜,Amalfatano's Italian Deli,Amalfatano's Italian Deli,0,希洛(Hilo),0.0,0.0,0.0
+意大利菜,Cafe il Mondo,Cafe il Mondo,0,夏威夷其他,0.0,0.0,0.0
+意大利菜,Bianellis pizza,Bianellis pizza,0,夏威夷其他,0.0,0.0,0.0
+意大利菜,Gilligan's Cafe,Gilligan's Cafe,0,夏威夷其他,0.0,0.0,0.0
+意大利菜,Amici's Italian Bar & Grill,Amici's Italian Bar & Grill,0,科纳(Kona),0.0,0.0,0.0
+意大利菜,Cafe Concerto,Cafe Concerto,0,希洛(Hilo),0.0,0.0,0.0
+意大利菜,Pescatore,Pescatore,0,希洛(Hilo),0.0,0.0,0.0
+意大利菜,Solimene's,Solimene's,0,柯哈拉(Kohala),0.0,0.0,0.0
+意大利菜,Maccaronni Rossi,Maccaronni Rossi,0,夏威夷其他,0.0,0.0,0.0
+酒吧,Tapa Bar,Tapa Bar,0,,7.5,7.7,7.7
+酒吧,Hard Rock Café,Hard Rock Café,0,檀香山(Honululu),8.2,8.2,8.2
+酒吧,Kona Brewing Company Pub & Brewery,Kona Brewing Company Pub & Brewery,0,科纳(Kona),0.0,0.0,0.0
+酒吧,Ferraro's Bar e Ristorante,Ferraro's Bar e Ristorante,0,,7.3,7.3,7.7
+酒吧,Top of Waikiki,Top of Waikiki,0,,7.3,7.3,7.3
+酒吧,Duke's Canoe Club,Duke's Canoe Club,0,,7.2,7.2,7.2
+酒吧,MAC 24 - 7 Bar + Restaurant,MAC 24 - 7 Bar + Restaurant,0,,7.2,7.2,7.2
+酒吧,Mi's Wine and Cheese Shoppe,Mi's Wine and Cheese Shoppe,0,科纳(Kona),0.0,0.0,0.0
+酒吧,Moana Terrace,Moana Terrace,0,,7.2,7.2,7.2
+酒吧,Kokoa Bar by Ricard Chocolat,Kokoa Bar by Ricard Chocolat,0,,7.0,7.0,7.0
+酒吧,Dairy Queen,Dairy Queen,0,,0.0,0.0,0.0
+酒吧,Mai Tai Bar Ala Moana Center,Mai Tai Bar Ala Moana Center,0,,7.2,7.2,7.2
+酒吧,Bite Me Fish Market Bar and Grill,Bite Me Fish Market Bar and Grill,0,,0.0,0.0,0.0
+酒吧,Lava Lava Beach Club,Lava Lava Beach Club,0,,7.2,7.2,7.7
+酒吧,The Barefoot Bar,The Barefoot Bar,0,,7.0,7.0,7.0
+酒吧,Dairy Queen,Dairy Queen,0,,7.0,7.0,6.9
+酒吧,Rainbow Lanai,Rainbow Lanai,0,,7.2,7.2,7.2
+酒吧,Bacchus Bar,Bacchus Bar,0,,6.9,7.1,7.1
+酒吧,Ren's Sushi Bar,Ren's Sushi Bar,0,,7.0,7.0,7.0
+酒吧,Poipu Bay Grill and Bar,Poipu Bay Grill and Bar,0,,7.0,7.1,7.0
+酒吧,科纳码头,科纳码头,0,科纳(Kona),0.0,0.0,0.0
+酒吧,火奴酒吧,火奴酒吧,0,柯哈拉(Kohala),0.0,0.0,0.0
+酒吧,Malolo Lounge,Malolo Lounge,0,柯哈拉(Kohala),0.0,0.0,0.0
+酒吧,Pahoa Village Club (pvc),Pahoa Village Club (pvc),0,火山国家公园,0.0,0.0,0.0
+酒吧,Volcano Golf and Country Club Restaurant,Volcano Golf and Country Club Restaurant,0,,0.0,0.0,0.0
+酒吧,Ilikai Bar and Grill,Ilikai Bar and Grill,0,,7.2,7.2,7.2
+酒吧,Rainbow Drive-In,Rainbow Drive-In,0,,7.2,7.2,7.2
+酒吧,Sarento's Top of the I,Sarento's Top of the I,0,,7.2,7.2,7.2
+酒吧,The Cliff Dive Bar,The Cliff Dive Bar,0,,7.2,7.2,7.2
+酒吧,Midori Sushi Bar and Cocktails,Midori Sushi Bar and Cocktails,0,,6.9,6.9,6.9
+酒吧,Coco Cove,Coco Cove,0,,7.1,7.1,7.1
+酒吧,Legends Sports Pub,Legends Sports Pub,0,,6.9,7.1,7.1
+酒吧,The Dog and Duck Irish Pub,The Dog and Duck Irish Pub,0,,6.8,6.8,6.8
+酒吧,Formaggio Wine Bar,Formaggio Wine Bar,0,,7.1,7.1,7.1
+酒吧,Mililani Golf Club Restaurant,Mililani Golf Club Restaurant,0,,7.0,7.0,7.0
+酒吧,Hau Tree Bar,Hau Tree Bar,0,,6.8,7.2,7.2
+酒吧,Makani Kai Island Grill and Bar,Makani Kai Island Grill and Bar,0,,7.0,7.0,7.1
+酒吧,Whole Foods Wine Bar,Whole Foods Wine Bar,0,,7.1,7.1,7.1
+酒吧,Pailolo Sports Bar and Grill,Pailolo Sports Bar and Grill,0,,6.8,7.2,7.2
+酒吧,Curry House Coco Ichibanya,Curry House Coco Ichibanya,0,,7.3,7.1,7.1
+酒吧,Hawaiian Superfoods Smoothie Bar,Hawaiian Superfoods Smoothie Bar,0,,7.0,7.0,7.1
+酒吧,Sugar House Island Kitchen,Sugar House Island Kitchen,0,,7.1,6.8,7.1
+酒吧,Lahaina Sports Bar,Lahaina Sports Bar,0,,7.1,7.3,7.1
+酒吧,麦泰酒吧,麦泰酒吧,0,科纳(Kona),0.0,0.0,0.0
+酒吧,纳鲁扒房,纳鲁扒房,0,柯哈拉(Kohala),0.0,0.0,0.0
+酒吧,Amici Bar and Grill,Amici Bar and Grill,0,,0.0,0.0,0.0
+酒吧,Aloha aina juice bar,Aloha aina juice bar,0,,7.3,7.1,6.8
+酒吧,Pita Paradise,Pita Paradise,0,,7.2,7.2,7.2
+酒吧,Three's Bar and Grill,Three's Bar and Grill,0,,7.2,7.2,7.2
+酒吧,Ko Olina Golf Club Roy's - Ko' Olina,Ko Olina Golf Club Roy's - Ko' Olina,0,,7.2,7.2,7.2
+酒吧,Paradise Cove Luau,Paradise Cove Luau,0,,7.2,7.2,7.2
+酒吧,Scoop of Paradise,Scoop of Paradise,0,,7.2,7.2,7.2
+酒吧,Tortilla Republic Grill + Margarita Bar,Tortilla Republic Grill + Margarita Bar,0,,7.2,7.2,7.2
+酒吧,Sugar Cane Maui,Sugar Cane Maui,0,,7.2,7.2,7.2
+酒吧,808 Paradise Grill and Mello's Bar,808 Paradise Grill and Mello's Bar,0,,7.2,7.2,7.2
+酒吧,Sand Bar and Grill,Sand Bar and Grill,0,,7.2,7.2,7.2
+酒吧,Kukui's Restaurant and Bar,Kukui's Restaurant and Bar,0,,7.2,7.2,7.2
+酒吧,Smith's Tropical Paradise,Smith's Tropical Paradise,0,,7.2,7.2,7.2
+酒吧,Kalypso Island Bar and Grill,Kalypso Island Bar and Grill,0,,7.2,7.2,7.2
+酒吧,The St. Regis Bar,The St. Regis Bar,0,,7.2,7.2,7.2
+酒吧,Nanea Restaurant and Bar,Nanea Restaurant and Bar,0,,7.2,7.2,7.2
+酒吧,Tsunami Bar and Grill,Tsunami Bar and Grill,0,,6.9,6.9,6.9
+酒吧,Vino,Vino,0,,7.1,7.1,7.1
+酒吧,The Row Bar,The Row Bar,0,,7.1,7.1,7.1
+酒吧,Bar 35,Bar 35,0,,6.9,7.1,7.1
+酒吧,Kumu Bar and Grill,Kumu Bar and Grill,0,,7.1,7.1,7.1
+酒吧,Hokule'a Bar,Hokule'a Bar,0,,6.8,7.1,7.1
+酒吧,Poolside Bar and Grill,Poolside Bar and Grill,0,,7.1,7.1,7.3
+酒吧,Anuenue Juice Bar,Anuenue Juice Bar,0,,7.1,7.1,7.1
+酒吧,Class Act,Class Act,0,,7.1,7.1,7.0
+酒吧,"Paradise Grill at Ka'anapali Beach, Maui","Paradise Grill at Ka'anapali Beach, Maui",0,,7.1,7.1,7.1
+酒吧,Juice box,Juice box,0,,7.0,7.1,7.0
+酒吧,Five-o Bar and Lounge,Five-o Bar and Lounge,0,,7.1,7.1,7.1
+酒吧,Aloha Juice Bar,Aloha Juice Bar,0,,7.1,7.1,6.8
+酒吧,Asian Mix,Asian Mix,0,,7.1,6.9,6.9
+酒吧,Max and Lucy's,Max and Lucy's,0,,7.0,7.0,6.9
+酒吧,Bird of Paradise,Bird of Paradise,0,,7.0,7.0,7.0
+酒吧,Curry House Coco Ichibanya,Curry House Coco Ichibanya,0,,7.0,7.0,7.0
+酒吧,Maili Sunset Bar and Grill,Maili Sunset Bar and Grill,0,,7.0,7.0,7.0
+酒吧,Curry House Coco Ichibanya,Curry House Coco Ichibanya,0,,7.0,7.0,7.0
+酒吧,Just Tacos,Just Tacos,0,柯哈拉(Kohala),0.0,0.0,0.0
+酒吧,Amuse Wine Bar,Amuse Wine Bar,0,,7.0,7.0,7.0
+酒吧,Stage,Stage,0,,7.2,7.2,7.2
+酒吧,Mini Garden Orient Cuisine,Mini Garden Orient Cuisine,0,,7.1,7.1,6.8
+酒吧,Chez Kenzo Bar and Grill,Chez Kenzo Bar and Grill,0,,7.0,7.0,7.0
+酒吧,Queen's Bar Bq,Queen's Bar Bq,0,,6.9,6.9,6.9
+酒吧,Ferguson's Irish Pub,Ferguson's Irish Pub,0,,7.1,7.1,7.1
+酒吧,Brue Bar,Brue Bar,0,,7.0,7.0,7.0
+酒吧,The Plaza Club,The Plaza Club,0,,7.0,7.1,7.0
+酒吧,O'Toole's Irish Pub,O'Toole's Irish Pub,0,,6.9,7.0,6.9
+酒吧,Paradise Brewing Company,Paradise Brewing Company,0,,6.9,6.9,6.9
+酒吧,Luna,Luna,0,,7.0,7.0,7.0
+酒吧,Cheese burger in paradise,Cheese burger in paradise,0,,7.2,6.8,6.8
+酒吧,Koiso Sushi Bar,Koiso Sushi Bar,0,,7.7,7.2,7.2
+酒吧,Pita Paradise,Pita Paradise,0,,7.2,7.2,7.2
+酒吧,The Sports Bar,The Sports Bar,0,,7.5,7.1,7.1
+酒吧,Diamonds Ice Bar and Grill,Diamonds Ice Bar and Grill,0,,6.8,6.8,6.8
+酒吧,Coconuts,Coconuts,0,,7.2,7.2,7.2
+酒吧,Sushi Paradise,Sushi Paradise,0,,7.2,7.2,6.8
+酒吧,Creekside Bar,Creekside Bar,0,,6.7,6.9,7.0
+酒吧,Bob's Sports Bar,Bob's Sports Bar,0,,7.1,7.1,7.1
+酒吧,Masa and Joyce,Masa and Joyce,0,,7.0,7.0,6.7
+酒吧,Seven Brothers,Seven Brothers,0,,7.1,7.1,7.1
+酒吧,Paradise Popcorn,Paradise Popcorn,0,,6.9,6.9,6.9
+酒吧,Sugar Beach Bake Shop,Sugar Beach Bake Shop,0,,7.6,7.2,7.2
+酒吧,Pukalani Country Club,Pukalani Country Club,0,,7.1,7.1,7.1
+酒吧,Kojima's Sushi Bar and Japanese Cuisine,Kojima's Sushi Bar and Japanese Cuisine,0,,7.3,7.1,7.1
+酒吧,Cheeseburger In Paradise,Cheeseburger In Paradise,0,,7.2,7.2,7.2
+酒吧,Dairy Queen,Dairy Queen,0,,6.9,6.9,6.9
+酒吧,Ocean Pool Bar and Grill,Ocean Pool Bar and Grill,0,,7.2,7.2,7.2
+酒吧,Park,Park,0,,7.1,7.1,7.1
+酒吧,Diamond Head Cove Health Bar,Diamond Head Cove Health Bar,0,,7.2,7.2,7.2
+酒吧,Arnold's Beach Pub,Arnold's Beach Pub,0,,6.8,7.1,7.1
+酒吧,On Stage Drinks and Grinds,On Stage Drinks and Grinds,0,,6.9,6.9,6.9
+酒吧,King's Pub,King's Pub,0,,7.0,7.0,7.0
+酒吧,Mermaid Bar,Mermaid Bar,0,,7.0,7.0,7.0
+酒吧,La Spezia Restaurant and Wine Bar,La Spezia Restaurant and Wine Bar,0,,7.2,7.2,7.2
+酒吧,Caffe Coco,Caffe Coco,0,,7.2,7.2,7.2
+酒吧,Kauai Hula Girl Bar and Grill,Kauai Hula Girl Bar and Grill,0,,7.2,7.2,7.2
+酒吧,Bull Shed,Bull Shed,0,,7.2,7.2,7.2
+酒吧,Rainbow Living Foods,Rainbow Living Foods,0,,7.2,7.2,7.2
+酒吧,Shave Ice Paradise,Shave Ice Paradise,0,,7.2,7.2,7.2
+酒吧,Bar Acuda,Bar Acuda,0,,7.2,7.2,7.2
+酒吧,Nalu Kai Grill and Bar,Nalu Kai Grill and Bar,0,,7.2,7.2,7.2
+酒吧,Paradise Bar and Grill,Paradise Bar and Grill,0,,6.8,6.8,6.8
+酒吧,Moana Terrace,Moana Terrace,0,檀香山(Honululu),0.0,0.0,0.0
+法国菜,Wolfgang's Steakhouse,Wolfgang's Steakhouse,0,檀香山(Honululu),8.4,8.1,8.3
+法国菜,Kai Market,Kai Market,0,檀香山(Honululu),5.9,8.4,8.4
+法国菜,Hys Steak House,Hys Steak House,0,檀香山(Honululu),7.3,8.0,8.0
+法国菜,le bistro,le bistro,0,,8.0,8.0,8.0
+法国菜,Suki's Bistro,Suki's Bistro,0,科纳(Kona),0.0,0.0,0.0
+法国菜,Wolfgang's Steakhouse,Wolfgang's Steakhouse,0,,7.2,7.2,7.2
+法国菜,Azure,Azure,0,,7.2,7.2,7.2
+法国菜,Le Bistro,Le Bistro,0,,7.2,7.2,7.2
+法国菜,La Bourgogne French Restaurant,La Bourgogne French Restaurant,0,科纳(Kona),0.0,0.0,0.0
+法国菜,夏威夷Chan'i Gouimet Bullet,夏威夷Chan'i Gouimet Bullet,0,檀香山(Honululu),0.0,0.0,0.0
+墨西哥菜,Tako Taco Taqueria,Tako Taco Taqueria,0,柯哈拉(Kohala),0.0,0.0,0.0
+墨西哥菜,Rosa's Cantina,Rosa's Cantina,0,科纳(Kona),0.0,0.0,0.0
+墨西哥菜,mi ranchito,mi ranchito,0,夏威夷其他,0.0,0.0,0.0
+墨西哥菜,Killer Tacos Incorporated,Killer Tacos Incorporated,0,科纳(Kona),0.0,0.0,0.0
+墨西哥菜,Bueno Burrito,Bueno Burrito,0,希洛(Hilo),0.0,0.0,0.0
+墨西哥菜,La Ray's Tacos Plus,La Ray's Tacos Plus,0,火山国家公园,0.0,0.0,0.0
+墨西哥菜,Makapala Store and Cafe,Makapala Store and Cafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+墨西哥菜,Los Habaneros,Los Habaneros,0,科纳(Kona),0.0,0.0,0.0
+墨西哥菜,Patricio's Mexican Taqueria,Patricio's Mexican Taqueria,0,科纳(Kona),0.0,0.0,0.0
+墨西哥菜,Big Island Brewhaus,Big Island Brewhaus,0,柯哈拉(Kohala),0.0,0.0,0.0
+墨西哥菜,Taco del Mar,Taco del Mar,0,科纳(Kona),0.0,0.0,0.0
+墨西哥菜,Casa de Luna,Casa de Luna,0,希洛(Hilo),0.0,0.0,0.0
+墨西哥菜,Luquin's Mexican Restaurant,Luquin's Mexican Restaurant,0,火山国家公园,0.0,0.0,0.0
+墨西哥菜,Just Tacos,Just Tacos,0,柯哈拉(Kohala),0.0,0.0,0.0
+墨西哥菜,Boat Landing Cantina,Boat Landing Cantina,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,The Cheesecake Factory,The Cheesecake Factory,164,檀香山(Honululu),9.1,9.0,9.1
+其他西餐,Eggs N Things,Eggs N Things,0,檀香山(Honululu),7.7,7.8,8.0
+其他西餐,BUBBA GUMP,BUBBA GUMP,158,檀香山(Honululu),7.9,8.6,8.7
+其他西餐,Roy's Restaurant,Roy's Restaurant,0,檀香山(Honululu),8.0,8.1,8.6
+其他西餐,Cheeseburger in Paradise,Cheeseburger in Paradise,0,檀香山(Honululu),7.4,7.2,8.2
+其他西餐,Bubba Gump seafood,Bubba Gump seafood,0,科纳(Kona),7.8,8.1,7.8
+其他西餐,TOP OF WAIKIKI,TOP OF WAIKIKI,0,檀香山(Honululu),7.2,8.3,7.8
+其他西餐,Pineapple's Island Fresh Cuisine,Pineapple's Island Fresh Cuisine,0,希洛(Hilo),0.0,0.0,0.0
+其他西餐,Kilauea Lodge & Restaurant,Kilauea Lodge & Restaurant,0,火山国家公园,0.0,0.0,0.0
+其他西餐,Mama s Fish House,Mama s Fish House,0,茂宜岛中部,7.5,7.9,7.5
+其他西餐,d.k Steak House,d.k Steak House,0,檀香山(Honululu),7.3,7.9,7.9
+其他西餐,Duke's Waikiki,Duke's Waikiki,0,欧胡岛(Oahu),7.5,8.4,7.5
+其他西餐,Giovanni's Shrimp Truck,Giovanni's Shrimp Truck,0,北海岸(North Shore),8.3,8.3,8.3
+其他西餐,Arancino Di Mare,Arancino Di Mare,0,檀香山(Honululu),7.3,7.3,7.3
+其他西餐,Blue Water Shrimp Fish Market,Blue Water Shrimp Fish Market,0,檀香山(Honululu),7.1,6.9,6.9
+其他西餐,Ruth’s Chris Steak House,Ruth’s Chris Steak House,0,欧胡岛(Oahu),8.2,8.2,8.2
+其他西餐,Da Poke Shack,Da Poke Shack,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Blazin' Steaks,Blazin' Steaks,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,MW Restaurant,MW Restaurant,0,檀香山(Honululu),6.8,7.1,7.1
+其他西餐,Seaside Bar & Grill,Seaside Bar & Grill,0,檀香山(Honululu),6.8,6.8,6.8
+其他西餐,Outback Steakhouse,Outback Steakhouse,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Azure,Azure,0,檀香山(Honululu),7.1,7.1,7.1
+其他西餐,Rolls with it,Rolls with it,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Ruth's Chris Steak House,Ruth's Chris Steak House,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Saimin Sez,Saimin Sez,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Da Fish House,Da Fish House,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,The RIm,The RIm,0,火山国家公园,0.0,0.0,0.0
+其他西餐,Mi's Wine and Cheese Shoppe,Mi's Wine and Cheese Shoppe,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Scandinavian Shave Ice,Scandinavian Shave Ice,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,"Marriott Waikola Beach, Big Island Hawaii, Hawaii","Marriott Waikola Beach, Big Island Hawaii, Hawaii",0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Ka'aloa's Authentic Hawaiian Food (Super J's),Ka'aloa's Authentic Hawaiian Food (Super J's),0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Country Coffee at Rainbow Falls,Country Coffee at Rainbow Falls,0,希洛(Hilo),0.0,0.0,0.0
+其他西餐,Aloha Deli Ice Cream & Shave Ice,Aloha Deli Ice Cream & Shave Ice,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Tropics,Tropics,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Kanaka Kava,Kanaka Kava,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Falafel In Paradise,Falafel In Paradise,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Kohala Burger and Taco,Kohala Burger and Taco,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Metal Mike's Twisted Pretzel,Metal Mike's Twisted Pretzel,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Laniakea Cafe,Laniakea Cafe,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Ocean Bar Restaurant,Ocean Bar Restaurant,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Hawaiian Brain Freeze Shave Ice and Ice cream,Hawaiian Brain Freeze Shave Ice and Ice cream,0,希洛(Hilo),0.0,0.0,0.0
+其他西餐,Ulu Ocean Grill and Sushi Lounge,Ulu Ocean Grill and Sushi Lounge,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Brown's Beach House,Brown's Beach House,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Hilo Burger Joint,Hilo Burger Joint,0,希洛(Hilo),0.0,0.0,0.0
+其他西餐,Sunset Luau at the Waikoloa Beach Marriott,Sunset Luau at the Waikoloa Beach Marriott,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Kalapana Village Cafe,Kalapana Village Cafe,0,希洛(Hilo),0.0,0.0,0.0
+其他西餐,Minnie's,Minnie's,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Annie's Island Fresh Burgers,Annie's Island Fresh Burgers,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Gio's Gelato and Italian Pastry,Gio's Gelato and Italian Pastry,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Broke da Mouth Grindz,Broke da Mouth Grindz,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Mr. Ed's Bakery,Mr. Ed's Bakery,0,希洛(Hilo),0.0,0.0,0.0
+其他西餐,Pele's Kitchen,Pele's Kitchen,0,火山国家公园,0.0,0.0,0.0
+其他西餐,Ocean View Estates Winery & Restaurant,Ocean View Estates Winery & Restaurant,0,夏威夷其他,0.0,0.0,0.0
+其他西餐,Plantation Grill,Plantation Grill,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Makapala Store and Cafe,Makapala Store and Cafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Hawaiian Vanilla Company,Hawaiian Vanilla Company,0,夏威夷其他,0.0,0.0,0.0
+其他西餐,South Kona Fruit Stand,South Kona Fruit Stand,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,L & L Hawaiian BBQ,L & L Hawaiian BBQ,0,夏威夷其他,0.0,0.0,0.0
+其他西餐,Loko Wraps,Loko Wraps,0,夏威夷其他,0.0,0.0,0.0
+其他西餐,Aloha Theatre Cafe,Aloha Theatre Cafe,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Humpy's Big Island Alehouse,Humpy's Big Island Alehouse,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Mahi's,Mahi's,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,L&L Drive Inn,L&L Drive Inn,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,L & L Hawaiian Barbeque,L & L Hawaiian Barbeque,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Kau Kau Depot,Kau Kau Depot,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,CanoeHouse,CanoeHouse,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Foodland Farms,Foodland Farms,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,The Oasis Cafe,The Oasis Cafe,0,希洛(Hilo),0.0,0.0,0.0
+其他西餐,Surf Break Cafe,Surf Break Cafe,0,希洛(Hilo),0.0,0.0,0.0
+其他西餐,Keoki's Roadside Cafe,Keoki's Roadside Cafe,0,科纳(Kona),0.0,0.0,0.0
+其他西餐,Kava Kafe,Kava Kafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Pico's Bistro,Pico's Bistro,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,taco guy,taco guy,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,The Country Store,The Country Store,0,夏威夷其他,0.0,0.0,0.0
+其他西餐,Malama Market,Malama Market,0,夏威夷其他,0.0,0.0,0.0
+其他西餐,South Point Bistro and Hostel,South Point Bistro and Hostel,0,火山国家公园,0.0,0.0,0.0
+其他西餐,Hale Kai,Hale Kai,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他西餐,Casa de Luna,Casa de Luna,0,希洛(Hilo),0.0,0.0,0.0
+其他西餐,Native Pastas & Steaks,Native Pastas & Steaks,0,火山国家公园,0.0,0.0,0.0
+其他西餐,Blane's Drive Inn,Blane's Drive Inn,0,夏威夷其他,0.0,0.0,0.0
+其他西餐,L&L Hawaiian Barbecue,L&L Hawaiian Barbecue,0,火山国家公园,0.0,0.0,0.0
+其他西餐,Encore By Kuhio Grille,Encore By Kuhio Grille,0,火山国家公园,0.0,0.0,0.0
+其他西餐,Mauna makai,Mauna makai,0,火山国家公园,0.0,0.0,0.0
+其他西餐,L & L Restaurant,L & L Restaurant,0,夏威夷其他,0.0,0.0,0.0
+其他西餐,Ruth s Chris Steak House,Ruth s Chris Steak House,0,欧胡岛(Oahu),0.0,0.0,0.0
+其他西餐,Wolfgang s Steakhouse,Wolfgang s Steakhouse,0,檀香山(Honululu),0.0,0.0,0.0
+其他西餐,Hula Grill Kaanapali,Hula Grill Kaanapali,0,西茂宜岛,0.0,0.0,0.0
+其他西餐,Arancino,Arancino,0,檀香山(Honululu),0.0,0.0,0.0
+其他西餐,Link@Sheraton Lounge,Link@Sheraton Lounge,0,西茂宜岛,0.0,0.0,0.0
+其他西餐,Paradise Grill,Paradise Grill,0,茂宜岛(Maui),0.0,0.0,0.0
+其他西餐,808 Bistro,808 Bistro,0,南茂宜岛,0.0,0.0,0.0
+其他西餐,Shrimp Shack,Shrimp Shack,0,夏威夷其他,0.0,0.0,0.0
+其他西餐,Hilo Bay Cafe,Hilo Bay Cafe,0,火山国家公园,0.0,0.0,0.0
+中餐,AJ'S Chinese Fast Food,AJ'S Chinese Fast Food,0,檀香山(Honululu),8.4,8.0,8.7
+中餐,Little Sheep Mongolian Hotpot,Little Sheep Mongolian Hotpot,0,檀香山(Honululu),7.6,7.8,7.8
+中餐,Kirin Chinese Restaurant,Kirin Chinese Restaurant,0,柯哈拉(Kohala),0.0,0.0,0.0
+中餐,Ocean Seafood Chinese Restaurant,Ocean Seafood Chinese Restaurant,0,科纳(Kona),0.0,0.0,0.0
+中餐,夏威夷广卅海鲜酒家,夏威夷广卅海鲜酒家,0,欧胡岛(Oahu),7.7,7.2,7.2
+中餐,Hui Sue's,Hui Sue's,0,,0.0,0.0,0.0
+中餐,Panda Express,Panda Express,0,火山国家公园,0.0,0.0,0.0
+中餐,Tropics,Tropics,0,科纳(Kona),0.0,0.0,0.0
+中餐,Panda Express,Panda Express,0,科纳(Kona),0.0,0.0,0.0
+中餐,New China Restaurant,New China Restaurant,0,希洛(Hilo),0.0,0.0,0.0
+中餐,Wasabi's Japanese Cuisine,Wasabi's Japanese Cuisine,0,科纳(Kona),0.0,0.0,0.0
+中餐,Hong Kong Chop Suey,Hong Kong Chop Suey,0,科纳(Kona),0.0,0.0,0.0
+中餐,L&L Hawaiian Barbecue,L&L Hawaiian Barbecue,0,科纳(Kona),0.0,0.0,0.0
+中餐,Ling's Chop Suey House,Ling's Chop Suey House,0,火山国家公园,0.0,0.0,0.0
+日韩料理,Hatsuhana of USA,Hatsuhana of USA,0,檀香山(Honululu),7.3,7.0,7.0
+日韩料理,Gyu-Kaku Japanese BBQ,Gyu-Kaku Japanese BBQ,252,檀香山(Honululu),7.7,7.6,7.9
+日韩料理,Morimoto,Morimoto,0,檀香山(Honululu),7.5,8.3,7.9
+日韩料理,Tonkatsu Ginza Bairin,Tonkatsu Ginza Bairin,0,檀香山(Honululu),7.5,6.4,7.2
+日韩料理,Izakaya Tako-No-Ki Japanese Restaurant,Izakaya Tako-No-Ki Japanese Restaurant,0,檀香山(Honululu),6.3,6.7,6.7
+日韩料理,Choco House,Choco House,0,檀香山(Honululu),7.0,7.0,7.0
+日韩料理,Hawaiian Fish N Chips,Hawaiian Fish N Chips,0,柯哈拉(Kohala),0.0,0.0,0.0
+日韩料理,Your Kitchen,Your Kitchen,0,欧胡岛(Oahu),8.2,8.2,8.2
+日韩料理,Poke to Your Taste,Poke to Your Taste,0,火山国家公园,0.0,0.0,0.0
+日韩料理,Bistro Yokohama,Bistro Yokohama,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,Kenichi Pacific Sushi & Pacific Rim,Kenichi Pacific Sushi & Pacific Rim,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,Sima-Ichi Sushi,Sima-Ichi Sushi,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,Sushi Shiono,Sushi Shiono,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,Kona's Own Fine Foods & Cafe,Kona's Own Fine Foods & Cafe,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,kaiso,kaiso,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,Takenoko sushi,Takenoko sushi,0,希洛(Hilo),0.0,0.0,0.0
+日韩料理,Aka Sushi,Aka Sushi,0,柯哈拉(Kohala),0.0,0.0,0.0
+日韩料理,Restaurant Osaka,Restaurant Osaka,0,火山国家公园,0.0,0.0,0.0
+日韩料理,Manna Korean BBQ,Manna Korean BBQ,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,Norio's Japanese Restaurant & Sushi Bar,Norio's Japanese Restaurant & Sushi Bar,0,柯哈拉(Kohala),0.0,0.0,0.0
+日韩料理,Genki Sushi Hawaii Incorporated,Genki Sushi Hawaii Incorporated,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,Seiji Brew Garden & Sushi,Seiji Brew Garden & Sushi,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,Teshima's,Teshima's,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,Kawamoto Store,Kawamoto Store,0,希洛(Hilo),0.0,0.0,0.0
+日韩料理,Sushi Bar Hime,Sushi Bar Hime,0,希洛(Hilo),0.0,0.0,0.0
+日韩料理,Yammy Korean Bar-B-Q,Yammy Korean Bar-B-Q,0,火山国家公园,0.0,0.0,0.0
+日韩料理,Pele's Kitchen,Pele's Kitchen,0,火山国家公园,0.0,0.0,0.0
+日韩料理,The Red Water Cafe,The Red Water Cafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+日韩料理,Sushi Rock,Sushi Rock,0,柯哈拉(Kohala),0.0,0.0,0.0
+日韩料理,Honu's Nest,Honu's Nest,0,希洛(Hilo),0.0,0.0,0.0
+日韩料理,Happi Yu & Yu Sushi,Happi Yu & Yu Sushi,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,Kona Bonsai Park Incorporated,Kona Bonsai Park Incorporated,0,科纳(Kona),0.0,0.0,0.0
+日韩料理,Yong's Kal-Bi,Yong's Kal-Bi,0,夏威夷其他,0.0,0.0,0.0
+日韩料理,Nihon Restaurant & Cultural,Nihon Restaurant & Cultural,0,希洛(Hilo),0.0,0.0,0.0
+日韩料理,Restaurant Kenichi,Restaurant Kenichi,0,希洛(Hilo),0.0,0.0,0.0
+日韩料理,Encore By Kuhio Grille,Encore By Kuhio Grille,0,火山国家公园,0.0,0.0,0.0
+日韩料理,Koreana Restaurant & Lounge,Koreana Restaurant & Lounge,0,希洛(Hilo),0.0,0.0,0.0
+日韩料理,ichiriki,ichiriki,0,檀香山(Honululu),0.0,0.0,0.0
+日韩料理,MIYAKO,MIYAKO,0,欧胡岛(Oahu),0.0,0.0,0.0
+日韩料理,Sansei,Sansei,0,夏威夷其他,0.0,0.0,0.0
+日韩料理,Sensei Restaurant,Sensei Restaurant,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,丸龟制面 Marukame Udon,丸龟制面 Marukame Udon,62,檀香山(Honululu),8.4,8.0,8.0
+快餐简餐,Shirokiya 白树屋,Shirokiya 白树屋,0,檀香山(Honululu),7.3,6.8,6.6
+快餐简餐,McDonald’s,McDonald’s,0,檀香山(Honululu),7.3,7.8,7.3
+快餐简餐,KUA AINA Burgers,KUA AINA Burgers,0,北海岸(North Shore),6.7,7.1,7.1
+快餐简餐,Fumi’s Kahuku Shrimp Truck,Fumi’s Kahuku Shrimp Truck,0,北海岸(North Shore),7.7,7.7,7.7
+快餐简餐,Teddy’s Bigger Burgers,Teddy’s Bigger Burgers,0,檀香山(Honululu),7.8,7.5,8.1
+快餐简餐,Makai Market Food Court,Makai Market Food Court,0,檀香山(Honululu),7.5,6.7,6.7
+快餐简餐,Panda Express,Panda Express,0,,7.5,7.2,7.5
+快餐简餐,Wolfgang Puck Express,Wolfgang Puck Express,0,,7.5,7.5,8.1
+快餐简餐,Chen’s Chinese Kichen,Chen’s Chinese Kichen,0,火山国家公园,6.7,6.7,6.7
+快餐简餐,Hugo's on the Rocks,Hugo's on the Rocks,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Ponds,Ponds,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Heavenly,Heavenly,0,檀香山(Honululu),7.5,7.5,7.5
+快餐简餐,Pearl's Korean BBQ,Pearl's Korean BBQ,0,茂宜岛中部,7.1,7.0,7.0
+快餐简餐,Denny's,Denny's,0,,7.2,7.2,7.2
+快餐简餐,Haagen Dazs,Haagen Dazs,0,,7.0,7.6,7.6
+快餐简餐,台湾小吃 秀兰小馆,台湾小吃 秀兰小馆,0,,7.5,6.7,7.5
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Big Jakes Island B-B-Q,Big Jakes Island B-B-Q,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Saimin Sez,Saimin Sez,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Flashback's Bar and Grill,Flashback's Bar and Grill,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Sophia's Yogurt Bar,Sophia's Yogurt Bar,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Tina's Gourmet Garden Cafe,Tina's Gourmet Garden Cafe,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Royal Hawaiian Panda Express,Royal Hawaiian Panda Express,0,,7.2,7.2,7.2
+快餐简餐,Splasher's Grill,Splasher's Grill,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Safeway Deli,Safeway Deli,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.1,7.1,7.1
+快餐简餐,IHOP,IHOP,0,,7.2,6.8,6.8
+快餐简餐,Earl's,Earl's,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Holy Smokes BBQ,Holy Smokes BBQ,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Aloha Deli Ice Cream & Shave Ice,Aloha Deli Ice Cream & Shave Ice,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Mamo's Cafe,Mamo's Cafe,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Falafel In Paradise,Falafel In Paradise,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Kohala Burger and Taco,Kohala Burger and Taco,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Chubby's Diner,Chubby's Diner,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Laniakea Cafe,Laniakea Cafe,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Gill's Lanai,Gill's Lanai,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Ocean Bar Restaurant,Ocean Bar Restaurant,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Panda Express,Panda Express,0,,7.1,7.1,7.1
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.9
+快餐简餐,Rebel Kitchen,Rebel Kitchen,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Puff City,Puff City,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Sbarro,Sbarro,0,,7.0,7.0,6.9
+快餐简餐,Chinatown Express,Chinatown Express,0,,7.1,7.0,6.9
+快餐简餐,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.9,7.0,6.7
+快餐简餐,Seaside Restaurant,Seaside Restaurant,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Daylight Mind Coffee Company,Daylight Mind Coffee Company,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Anthony's By the Sea,Anthony's By the Sea,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Uncle George's Lounge,Uncle George's Lounge,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,Coconut Grill,Coconut Grill,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Queen's Court Restaurant,Queen's Court Restaurant,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,,7.2,7.2,7.2
+快餐简餐,Mahina Cafe,Mahina Cafe,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Up Country Bakery & Cafe,Up Country Bakery & Cafe,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Tracy's Tasteeze Deli,Tracy's Tasteeze Deli,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Mr. Ed's Bakery,Mr. Ed's Bakery,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Kawamoto Store,Kawamoto Store,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Paul's Place Cafe,Paul's Place Cafe,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,50's Highway Fountain Diner,50's Highway Fountain Diner,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,Ka lae coffee,Ka lae coffee,0,火山国家公园,0.0,0.0,0.0
+快餐简餐,Plantation Grill,Plantation Grill,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,The Snack Shack,The Snack Shack,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Lighthouse Delicatessen,Lighthouse Delicatessen,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Kings View Cafe,Kings View Cafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Coqui's Hideaway,Coqui's Hideaway,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Musubi and Bento Express Iyasume,Musubi and Bento Express Iyasume,0,,7.0,7.0,6.9
+快餐简餐,Panda Express,Panda Express,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.2,6.8,7.2
+快餐简餐,Burger King,Burger King,0,,7.2,6.8,6.8
+快餐简餐,Denny's,Denny's,0,,7.2,7.2,6.8
+快餐简餐,IHOP Hawaii,IHOP Hawaii,0,火山国家公园,0.0,0.0,0.0
+快餐简餐,Honu's Nest,Honu's Nest,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.1,7.1,7.1
+快餐简餐,Saigon Express,Saigon Express,0,,7.0,7.0,6.9
+快餐简餐,Wendy's,Wendy's,0,,7.0,7.1,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Chili's,Chili's,0,,7.0,7.0,7.0
+快餐简餐,Chow Mein Express,Chow Mein Express,0,,6.9,6.9,6.9
+快餐简餐,Carl's Jr.,Carl's Jr.,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.3,7.1,7.1
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,7.0,6.7
+快餐简餐,McDonald's,McDonald's,0,,6.9,7.0,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.1,7.1,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,Panda Express,Panda Express,0,,7.0,7.0,7.0
+快餐简餐,Papa John's,Papa John's,0,,6.9,6.7,6.9
+快餐简餐,Panda Express,Panda Express,0,,7.1,7.1,6.8
+快餐简餐,Wendy's,Wendy's,0,,6.9,6.9,6.7
+快餐简餐,13 Palms,13 Palms,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.7,6.7,6.9
+快餐简餐,Shrimp Express,Shrimp Express,0,,7.0,7.0,6.9
+快餐简餐,KFC,KFC,0,,6.7,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.1,6.8,7.1
+快餐简餐,Low Store,Low Store,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,Bongo Ben's Island Cafe,Bongo Ben's Island Cafe,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Evolution Bakery and Cafe,Evolution Bakery and Cafe,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,The Vista Restaurant,The Vista Restaurant,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Humpy's big island ale house,Humpy's big island ale house,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Kilauea Military Camp,Kilauea Military Camp,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Bill Fish Bar,Bill Fish Bar,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Tante's,Tante's,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Kau Kau Depot,Kau Kau Depot,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Waikoloa Village Market,Waikoloa Village Market,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,IMILOA Sky Garden Restaurant,IMILOA Sky Garden Restaurant,0,火山国家公园,0.0,0.0,0.0
+快餐简餐,King's View Grill,King's View Grill,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Tex Drive In & Restaurant,Tex Drive In & Restaurant,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,D. Willy's,D. Willy's,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,Dick Willys Hamburger,Dick Willys Hamburger,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,Hilo Bay Soup Company,Hilo Bay Soup Company,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,The Frisky Seal Surf Pub & Beach BBQ,The Frisky Seal Surf Pub & Beach BBQ,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Kamuela Deli,Kamuela Deli,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Freddy's Restaurant,Freddy's Restaurant,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,,0.0,0.0,0.0
+快餐简餐,Smith Family Garden Luau,Smith Family Garden Luau,0,,7.2,7.2,7.2
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.1,7.1,6.8
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Papa John's,Papa John's,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.1,7.1,6.8
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Beijing Express,Beijing Express,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Panda Express,Panda Express,0,,7.0,7.0,7.0
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.0,7.0,7.0
+快餐简餐,Subway,Subway,0,,6.7,6.9,6.7
+快餐简餐,Papa John's,Papa John's,0,,6.9,6.9,6.9
+快餐简餐,Panda Express,Panda Express,0,,7.0,7.0,7.0
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,Panda Express,Panda Express,0,,7.0,6.9,6.7
+快餐简餐,Panda Express,Panda Express,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.0,7.0,7.0
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Zippy's,Zippy's,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,Wendy'a Old Fashioned Hamburgers,Wendy'a Old Fashioned Hamburgers,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Denny's,Denny's,0,科纳(Kona),0.0,0.0,0.0
+快餐简餐,Number 3 Restaurant,Number 3 Restaurant,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Canoes Cafe Ltd,Canoes Cafe Ltd,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Hilo Lanes Diner,Hilo Lanes Diner,0,希洛(Hilo),0.0,0.0,0.0
+快餐简餐,Saffron Organic Cuisine,Saffron Organic Cuisine,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,Jolene's Kau Kau Korner,Jolene's Kau Kau Korner,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,The Parker Ranch Broiler,The Parker Ranch Broiler,0,柯哈拉(Kohala),0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Panda Express,Panda Express,0,,7.0,6.9,6.9
+快餐简餐,Subway,Subway,0,,7.0,7.0,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.0,7.0,7.0
+快餐简餐,Subway,Subway,0,,7.0,7.0,7.0
+快餐简餐,Subway,Subway,0,,7.0,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,7.0,7.0,6.9
+快餐简餐,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,,7.0,6.7,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Denny's,Denny's,0,,7.2,7.2,6.8
+快餐简餐,Subway,Subway,0,,7.1,6.8,7.1
+快餐简餐,Kihei Caffe,Kihei Caffe,0,,7.2,7.2,7.2
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.7
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.0,7.0,7.0
+快餐简餐,Yummy Koren Bar-B-Q,Yummy Koren Bar-B-Q,0,,6.9,7.0,7.1
+快餐简餐,McDonald's,McDonald's,0,,7.0,7.0,6.9
+快餐简餐,Denny's,Denny's,0,,7.0,7.0,7.0
+快餐简餐,IHOP Hawaii at Windward Mall,IHOP Hawaii at Windward Mall,0,,6.9,7.0,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.8,6.8,6.8
+快餐简餐,Burger King,Burger King,0,,6.8,7.1,6.8
+快餐简餐,Panda Express,Panda Express,0,,7.0,7.0,6.9
+快餐简餐,Chopsticks Express,Chopsticks Express,0,,7.0,6.9,6.9
+快餐简餐,Panda Express,Panda Express,0,,7.0,7.0,6.9
+快餐简餐,McDonald's,McDonald's,0,,7.0,6.9,6.7
+快餐简餐,Taco Bell,Taco Bell,0,,7.1,6.8,6.8
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,IHOP,IHOP,0,,7.2,7.2,7.2
+快餐简餐,Subway,Subway,0,,7.1,7.1,6.8
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Taco Bell,Taco Bell,0,,7.0,7.1,7.0
+快餐简餐,Subway,Subway,0,,7.1,7.1,7.1
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Duck Lee Chinese Express Foods,Duck Lee Chinese Express Foods,0,,7.1,7.0,6.9
+快餐简餐,Papa John's,Papa John's,0,,6.9,6.9,6.9
+快餐简餐,Wolfgang Puck Express,Wolfgang Puck Express,0,,7.2,6.8,6.8
+快餐简餐,Panda Express,Panda Express,0,,6.9,7.1,6.9
+快餐简餐,Subway,Subway,0,,6.7,6.9,6.7
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,7.0,6.9
+快餐简餐,Fish Express,Fish Express,0,,7.2,7.2,7.2
+快餐简餐,McDonald's,McDonald's,0,,7.0,7.0,7.1
+快餐简餐,Taco Bell,Taco Bell,0,,6.8,6.8,6.6
+快餐简餐,Panda Express,Panda Express,0,,7.1,7.1,7.1
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Denny's,Denny's,0,,6.8,6.8,6.8
+快餐简餐,McDonald's,McDonald's,0,,6.8,6.8,6.8
+快餐简餐,Carl's Jr.,Carl's Jr.,0,,7.1,6.8,6.8
+快餐简餐,McDonald's,McDonald's,0,,6.8,6.8,6.8
+快餐简餐,McDonald's,McDonald's,0,,6.8,6.8,6.8
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Papa John's,Papa John's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.7,6.7,6.7
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Beijing Express,Beijing Express,0,,6.9,6.9,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,Denny's,Denny's,0,,6.7,6.7,6.7
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Denny's,Denny's,0,,6.8,6.8,6.3
+快餐简餐,Big Wave Shrimp,Big Wave Shrimp,0,北海岸(North Shore),0.0,0.0,0.0
+快餐简餐,Giovanni’s Shrimp Truck,Giovanni’s Shrimp Truck,0,北海岸(North Shore),0.0,0.0,0.0
+快餐简餐,Romy‘s Kahuku Prawns & Shrimp,Romy‘s Kahuku Prawns & Shrimp,0,北海岸(North Shore),0.0,0.0,0.0
+快餐简餐,Coconut Willys,Coconut Willys,0,夏威夷其他,0.0,0.0,0.0
+快餐简餐,Kihei Caffe,Kihei Caffe,0,茂宜岛(Maui),0.0,0.0,0.0
+更多亚洲菜,Alan Wong's Restaurant,Alan Wong's Restaurant,0,檀香山(Honululu),8.1,7.8,8.1
+更多亚洲菜,Thai Thai Restaurant,Thai Thai Restaurant,0,火山国家公园,0.0,0.0,0.0
+更多亚洲菜,Star Noodle,Star Noodle,0,西茂宜岛,7.5,7.5,7.5
+更多亚洲菜,T K Noodle House,T K Noodle House,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Royal Thai Cafe,Royal Thai Cafe,0,科纳(Kona),7.1,7.0,7.1
+更多亚洲菜,Pad Thai Restaurant Maui,Pad Thai Restaurant Maui,0,西茂宜岛,6.7,6.7,6.9
+更多亚洲菜,Royal Thai Cafe,Royal Thai Cafe,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Charlie's Thai Cuisine,Charlie's Thai Cuisine,0,柯哈拉(Kohala),0.0,0.0,0.0
+更多亚洲菜,Tina's Gourmet Garden Cafe,Tina's Gourmet Garden Cafe,0,希洛(Hilo),0.0,0.0,0.0
+更多亚洲菜,Thai Smile Restaurant,Thai Smile Restaurant,0,希洛(Hilo),0.0,0.0,0.0
+更多亚洲菜,Pake Bowl,Pake Bowl,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Sushi Shiono,Sushi Shiono,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Tuk-Tuk Thai Food Truck,Tuk-Tuk Thai Food Truck,0,火山国家公园,0.0,0.0,0.0
+更多亚洲菜,Kamana Kitchen,Kamana Kitchen,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Lemongrass Bistro,Lemongrass Bistro,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Full Moon Cafe,Full Moon Cafe,0,希洛(Hilo),0.0,0.0,0.0
+更多亚洲菜,Sombat's Fresh Thai Cuisine,Sombat's Fresh Thai Cuisine,0,希洛(Hilo),0.0,0.0,0.0
+更多亚洲菜,Bangkok House,Bangkok House,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Ba-Le Kona Sandwich & Vietnamese Food,Ba-Le Kona Sandwich & Vietnamese Food,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Wasabi's Japanese Cuisine,Wasabi's Japanese Cuisine,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Craving Thai,Craving Thai,0,利互也(Lihue),0.0,0.0,0.0
+更多亚洲菜,Thai Rin Restaurant,Thai Rin Restaurant,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Lemongrass Bistro,Lemongrass Bistro,0,柯哈拉(Kohala),0.0,0.0,0.0
+更多亚洲菜,Pho Viet,Pho Viet,0,希洛(Hilo),0.0,0.0,0.0
+更多亚洲菜,Lotus Cafe,Lotus Cafe,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Krua Thai Cuisine,Krua Thai Cuisine,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Junjira Fresh Thai Kitchen,Junjira Fresh Thai Kitchen,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,The Hualalai Grille,The Hualalai Grille,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Laddawan's Phuket Monkey Thai Cuisine,Laddawan's Phuket Monkey Thai Cuisine,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Keomany's Local Thai,Keomany's Local Thai,0,柯哈拉(Kohala),0.0,0.0,0.0
+更多亚洲菜,Somsamai Styles Restaurant,Somsamai Styles Restaurant,0,希洛(Hilo),0.0,0.0,0.0
+更多亚洲菜,Royal SIAM Thai Restaurant,Royal SIAM Thai Restaurant,0,希洛(Hilo),0.0,0.0,0.0
+更多亚洲菜,New Saigon Vietnamese Restaurant,New Saigon Vietnamese Restaurant,0,希洛(Hilo),0.0,0.0,0.0
+更多亚洲菜,Kaleo's Bar & Grill,Kaleo's Bar & Grill,0,火山国家公园,0.0,0.0,0.0
+更多亚洲菜,Star Noodle,Star Noodle,0,,7.2,7.2,7.2
+更多亚洲菜,Shivalik Indian Cuisine,Shivalik Indian Cuisine,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Montre Asian-Thai Pacific Cuisine,Montre Asian-Thai Pacific Cuisine,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Hong's Thai Cuisine,Hong's Thai Cuisine,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Orchid Thai Cuisine,Orchid Thai Cuisine,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,CanoeHouse,CanoeHouse,0,柯哈拉(Kohala),0.0,0.0,0.0
+更多亚洲菜,The Oasis Cafe,The Oasis Cafe,0,希洛(Hilo),0.0,0.0,0.0
+更多亚洲菜,Prabha's Indian Garden,Prabha's Indian Garden,0,希洛(Hilo),0.0,0.0,0.0
+更多亚洲菜,Hilo Rice Noodles Soup,Hilo Rice Noodles Soup,0,火山国家公园,0.0,0.0,0.0
+更多亚洲菜,Big Os,Big Os,0,火山国家公园,0.0,0.0,0.0
+更多亚洲菜,Kona Taeng On Thai,Kona Taeng On Thai,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Thai Charley's Cuisine,Thai Charley's Cuisine,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,Keauhou Beach Resort Dining Room,Keauhou Beach Resort Dining Room,0,科纳(Kona),0.0,0.0,0.0
+更多亚洲菜,"1 Plus 1 Cafe, LLC","1 Plus 1 Cafe, LLC",0,火山国家公园,0.0,0.0,0.0
+更多亚洲菜,Surya's Indian kitchen,Surya's Indian kitchen,0,希洛(Hilo),0.0,0.0,0.0
+更多亚洲菜,Charley's Thai Cuisine,Charley's Thai Cuisine,0,柯哈拉(Kohala),0.0,0.0,0.0
+海鲜,Fook Yuen Seafood Restaurant,Fook Yuen Seafood Restaurant,205,檀香山(Honululu),9.1,7.9,8.3
+海鲜,阿甘虾餐厅,阿甘虾餐厅(毛伊岛maui店),0,茂宜岛(Maui),8.1,8.4,8.2
+海鲜,red lobster,red lobster,0,,8.0,7.6,7.8
+海鲜,Oceanarium,Oceanarium,0,檀香山(Honululu),6.0,6.8,6.6
+海鲜,Chart House,Chart House,0,檀香山(Honululu),8.2,7.6,8.5
+海鲜,Benihana of Tokyo,Benihana of Tokyo,0,,7.5,7.5,7.5
+海鲜,Blue Water Shrimp & Seafood Market,Blue Water Shrimp & Seafood Market,0,,7.5,7.5,7.5
+海鲜,Lobster King,Lobster King,0,,7.5,7.5,7.5
+海鲜,Bubba Gump Shrimp Co,Bubba Gump Shrimp Co,0,,7.2,7.2,7.3
+海鲜,whole foods market,whole foods market,0,,7.2,7.4,7.4
+海鲜,kealoha hawaiian food restaurant,kealoha hawaiian food restaurant,0,,7.3,7.3,7.3
+海鲜,Farmers Market,Farmers Market,0,,7.0,7.0,7.0
+海鲜,Poke to Your Taste,Poke to Your Taste,0,火山国家公园,0.0,0.0,0.0
+海鲜,Rolls with it,Rolls with it,0,科纳(Kona),0.0,0.0,0.0
+海鲜,Kai Market,Kai Market,0,,7.2,7.2,7.2
+海鲜,Pahu ia Restaurant,Pahu ia Restaurant,0,科纳(Kona),0.0,0.0,0.0
+海鲜,Harbor House,Harbor House,0,科纳(Kona),0.0,0.0,0.0
+海鲜,Mauna Kea Beach Hotel Clambake,Mauna Kea Beach Hotel Clambake,0,柯哈拉(Kohala),0.0,0.0,0.0
+海鲜,Yama's Fish Market,Yama's Fish Market,0,,7.1,7.1,7.1
+海鲜,Blue Dragon Coastal Cuisine & Musiquarium,Blue Dragon Coastal Cuisine & Musiquarium,0,柯哈拉(Kohala),0.0,0.0,0.0
+海鲜,Beachcomber's,Beachcomber's,0,科纳(Kona),0.0,0.0,0.0
+海鲜,Full Moon Cafe,Full Moon Cafe,0,希洛(Hilo),0.0,0.0,0.0
+海鲜,Aina Gourmet Market at Honua Kai Resort,Aina Gourmet Market at Honua Kai Resort,0,,7.2,7.2,7.2
+海鲜,Fort Ruger Market,Fort Ruger Market,0,,7.1,7.0,7.0
+海鲜,Sushi Izakaya Gaku,Sushi Izakaya Gaku,0,,7.7,7.2,7.2
+海鲜,Young's Fish Market,Young's Fish Market,0,,7.1,7.1,7.1
+海鲜,Umeke Market Natural Foods and Deli,Umeke Market Natural Foods and Deli,0,,7.1,7.1,7.0
+海鲜,The Seafood Bar & Grill,The Seafood Bar & Grill,0,柯哈拉(Kohala),0.0,0.0,0.0
+海鲜,Brown's Beach House,Brown's Beach House,0,柯哈拉(Kohala),0.0,0.0,0.0
+海鲜,Kona Beach Restaurant,Kona Beach Restaurant,0,科纳(Kona),0.0,0.0,0.0
+海鲜,Ray's on the Bay,Ray's on the Bay,0,科纳(Kona),0.0,0.0,0.0
+海鲜,Coast Grille & Oyster Bar,Coast Grille & Oyster Bar,0,火山国家公园,0.0,0.0,0.0
+海鲜,HAU Tree Gazebo Bar,HAU Tree Gazebo Bar,0,柯哈拉(Kohala),0.0,0.0,0.0
+海鲜,Norio's Japanese Restaurant & Sushi Bar,Norio's Japanese Restaurant & Sushi Bar,0,柯哈拉(Kohala),0.0,0.0,0.0
+海鲜,Coco Island Cuisine,Coco Island Cuisine,0,火山国家公园,0.0,0.0,0.0
+海鲜,Tamashiro Market,Tamashiro Market,0,,7.0,7.0,7.0
+海鲜,Fish Market Maui,Fish Market Maui,0,,7.2,7.2,6.8
+海鲜,Kalena Fish Market,Kalena Fish Market,0,,7.1,7.0,6.9
+海鲜,Lana'i Ohana Poke Market,Lana'i Ohana Poke Market,0,,7.7,7.2,7.2
+海鲜,Living Foods Market,Living Foods Market,0,,7.2,7.2,7.2
+海鲜,The Market by Capische,The Market by Capische,0,,7.0,6.9,6.9
+海鲜,Market Fresh Bistro,Market Fresh Bistro,0,,7.2,7.2,7.2
+海鲜,Paia Fish Market,Paia Fish Market,0,,7.2,7.2,7.2
+海鲜,Koloa Fish Market,Koloa Fish Market,0,,7.2,7.2,7.2
+海鲜,Ishihara Market,Ishihara Market,0,,7.2,7.2,7.2
+海鲜,Kilauea Fish Market -Waipouli,Kilauea Fish Market -Waipouli,0,,7.2,7.2,7.2
+海鲜,Pono Market,Pono Market,0,,7.2,7.2,7.2
+海鲜,kilauea Town Market,kilauea Town Market,0,,7.1,7.0,7.0
+海鲜,Shor American Seafood Grill,Shor American Seafood Grill,0,檀香山(Honululu),0.0,0.0,0.0
+海鲜,Prince Court,Prince Court,0,檀香山(Honululu),0.0,0.0,0.0
+海鲜,Nico’s Pier 38,Nico’s Pier 38,0,檀香山(Honululu),0.0,0.0,0.0
+海鲜,Orchids,Orchids,0,檀香山(Honululu),0.0,0.0,0.0
+海鲜,夏威夷广卅海鲜酒家,夏威夷广卅海鲜酒家,0,檀香山(Honululu),0.0,0.0,0.0
+烧烤,Pearl's Korean BBQ,Pearl's Korean BBQ,0,,7.2,6.9,7.1
+烧烤,Yummy Korean BBQ,Yummy Korean BBQ,0,,7.1,7.1,6.8
+烧烤,Barbecue chuck wagon,Barbecue chuck wagon,0,柯哈拉(Kohala),0.0,0.0,0.0
+烧烤,Peppa's Korean BBQ,Peppa's Korean BBQ,0,,7.0,6.9,6.9
+烧烤,Korean BBQ Express,Korean BBQ Express,0,,6.9,6.9,6.9
+烧烤,Tasty Korean BBQ,Tasty Korean BBQ,0,,7.1,7.0,6.7
+烧烤,Smokehouse BBQ,Smokehouse BBQ,0,,7.2,7.2,7.2
+烧烤,Kenny's Express Hawaiian BBQ,Kenny's Express Hawaiian BBQ,0,,7.1,7.1,7.1
+烧烤,Yummy Korean BBQ,Yummy Korean BBQ,0,,7.0,7.0,7.0
+烧烤,Mike's BBQ,Mike's BBQ,0,,6.9,6.9,6.9
+烧烤,Yummy Korean BBQ,Yummy Korean BBQ,0,,7.1,7.1,7.1
+烧烤,Gyu-Kaku Japanese BBQ Dining,Gyu-Kaku Japanese BBQ Dining,0,,7.1,7.1,7.1
+烧烤,GJ's Huli,GJ's Huli,0,夏威夷其他,0.0,0.0,0.0
+烧烤,Coconut Willy's,Coconut Willy's,0,希洛(Hilo),0.0,0.0,0.0
+烧烤,Nevaeh Southern BBQ,Nevaeh Southern BBQ,0,,0.0,0.0,0.0
+烧烤,Uncle Woody's BBQ Corn,Uncle Woody's BBQ Corn,0,,7.3,7.3,7.1
+烧烤,Fat Daddy's Smokehouse BBQ,Fat Daddy's Smokehouse BBQ,0,,7.2,7.2,7.2
+烧烤,L&L Hawaiian Barbecue,L&L Hawaiian Barbecue,0,科纳(Kona),0.0,0.0,0.0
+烧烤,Chicken In A Barrel BBQ,Chicken In A Barrel BBQ,0,,7.2,7.2,7.2
+烧烤,Braddah Hutt's BBQ (roadside stand),Braddah Hutt's BBQ (roadside stand),0,,7.6,7.2,7.2
+烧烤,Liz's BBQ,Liz's BBQ,0,,6.9,6.9,6.9
+烧烤,YoonCy BBQ,YoonCy BBQ,0,,6.7,6.7,6.9
+烧烤,Tasty Korean BBQ 3,Tasty Korean BBQ 3,0,,6.9,6.9,6.9
+烧烤,Kcl BBQ and Chinese Restaurent,Kcl BBQ and Chinese Restaurent,0,,6.9,6.9,6.9
+烧烤,Aloha China BBQ,Aloha China BBQ,0,,0.0,0.0,0.0
+烧烤,Family BBQ,Family BBQ,0,,7.0,7.0,6.7
+烧烤,UNCLE Bobo's Smoked BBQ,UNCLE Bobo's Smoked BBQ,0,,7.1,7.1,7.1
+烧烤,Hauula BBQ,Hauula BBQ,0,,7.1,6.9,7.0
+烧烤,Chicken In A Barrel BBQ,Chicken In A Barrel BBQ,0,,7.2,7.2,7.2
+比萨,Yummy Korean B-B-Q,Yummy Korean B-B-Q,0,,8.3,6.7,7.5
+比萨,Round Table Pizza,Round Table Pizza,0,,7.3,7.2,7.3
+比萨,Dona & Toni's Pizza - Hilton Waikoloa Village,Dona & Toni's Pizza - Hilton Waikoloa Village,0,柯哈拉(Kohala),0.0,0.0,0.0
+比萨,Round Table Pizza,Round Table Pizza,0,,7.2,7.2,7.2
+比萨,California Pizza Kitchen Center of Waikiki,California Pizza Kitchen Center of Waikiki,0,,7.3,7.2,7.3
+比萨,Big Island Pizza Napoletana,Big Island Pizza Napoletana,0,科纳(Kona),0.0,0.0,0.0
+比萨,James Angelo's Underground Pizza,James Angelo's Underground Pizza,0,柯哈拉(Kohala),0.0,0.0,0.0
+比萨,Longboard Legends,Longboard Legends,0,科纳(Kona),0.0,0.0,0.0
+比萨,California Pizza Kitchen,California Pizza Kitchen,0,,7.2,7.2,7.2
+比萨,Mike's New York Pizzeria,Mike's New York Pizzeria,0,火山国家公园,0.0,0.0,0.0
+比萨,Pizza Hawaii of Hilo Inc.,Pizza Hawaii of Hilo Inc.,0,火山国家公园,0.0,0.0,0.0
+比萨,Round Table Pizza,Round Table Pizza,0,,7.1,7.1,7.1
+比萨,Big Island Pizza,Big Island Pizza,0,,0.0,0.0,0.0
+比萨,Cuz'ns Deli Pizza & Ice Cream,Cuz'ns Deli Pizza & Ice Cream,0,科纳(Kona),0.0,0.0,0.0
+比萨,Nikki's Pizza,Nikki's Pizza,0,,7.2,7.2,6.8
+比萨,Round Table Pizza,Round Table Pizza,0,,7.2,7.2,6.8
+比萨,Round Table Pizza,Round Table Pizza,0,,7.2,7.2,7.2
+比萨,Pizza Corner,Pizza Corner,0,,7.2,7.2,7.2
+比萨,Boston's North End Pizza,Boston's North End Pizza,0,,7.1,7.1,6.8
+比萨,Round Table Pizza,Round Table Pizza,0,,7.1,7.1,6.8
+比萨,California Pizza Kitchen Kahala Mall,California Pizza Kitchen Kahala Mall,0,,7.2,7.2,7.2
+比萨,Beach Hippie Grill,Beach Hippie Grill,0,科纳(Kona),0.0,0.0,0.0
+比萨,Pizza Madness Maui,Pizza Madness Maui,0,,7.2,7.2,7.2
+比萨,Bob's Boston Pizza Kailua,Bob's Boston Pizza Kailua,0,,7.2,7.2,7.2
+比萨,Happy Valley Pasta and Pizza,Happy Valley Pasta and Pizza,0,,7.1,7.1,7.1
+比萨,Pizza d' Agostino,Pizza d' Agostino,0,,7.1,7.1,7.1
+比萨,Big Island Pizza,Big Island Pizza,0,,6.9,6.9,6.9
+比萨,Round Table Pizza,Round Table Pizza,0,,6.9,6.9,6.9
+比萨,Boston's North End Pizza Bkry,Boston's North End Pizza Bkry,0,,6.9,6.9,6.9
+比萨,Big Kahuna Pizza,Big Kahuna Pizza,0,,7.2,7.2,7.2
+比萨,Round Table Pizza - Kailua,Round Table Pizza - Kailua,0,,7.1,6.8,6.8
+比萨,Pizza Hut,Pizza Hut,0,,7.1,7.1,6.8
+比萨,Pizza Fresh,Pizza Fresh,0,,6.8,6.8,6.8
+比萨,Little Caesars,Little Caesars,0,,6.9,6.9,6.9
+比萨,Evolution Bakery and Cafe,Evolution Bakery and Cafe,0,科纳(Kona),0.0,0.0,0.0
+比萨,Boogie Woogie Pizza,Boogie Woogie Pizza,0,火山国家公园,0.0,0.0,0.0
+比萨,California Pizza Kitchen,California Pizza Kitchen,0,,7.2,7.2,7.2
+比萨,Lahaina Pizza,Lahaina Pizza,0,,7.2,7.2,7.2
+比萨,Pizza Paradiso Mediterranean Grill,Pizza Paradiso Mediterranean Grill,0,,7.2,7.2,7.2
+比萨,Brick Oven Pizza,Brick Oven Pizza,0,,7.2,7.2,7.2
+比萨,Brick Oven Pizza,Brick Oven Pizza,0,,7.2,7.2,7.2
+比萨,This Is It Too,This Is It Too,0,,6.9,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Boston's North End Pizza Bkry,Boston's North End Pizza Bkry,0,,7.1,7.1,6.8
+比萨,California Pizza Kitchen,California Pizza Kitchen,0,,7.1,7.1,7.1
+比萨,Boston's North End Pizza Bakery,Boston's North End Pizza Bakery,0,,7.1,7.1,6.8
+比萨,Jerry's Pizza Mill,Jerry's Pizza Mill,0,,7.1,6.8,7.1
+比萨,The Pizza Connection,The Pizza Connection,0,,7.1,7.0,7.0
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,La Pizza Rina,La Pizza Rina,0,,7.0,6.9,7.0
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Kaneohe's Boston Pizza,Kaneohe's Boston Pizza,0,,7.0,7.0,7.0
+比萨,Brick Oven Pizza Kaneohe,Brick Oven Pizza Kaneohe,0,,7.0,7.0,7.0
+比萨,Red Baron's Pizza,Red Baron's Pizza,0,,7.0,7.0,7.0
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Pipeline Pizza,Pipeline Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Bostons North End Pizza Bakery - 3506 Waialae Ave.,Bostons North End Pizza Bakery - 3506 Waialae Ave.,0,,7.0,7.0,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Pizza Ala Slice,Pizza Ala Slice,0,火山国家公园,0.0,0.0,0.0
+比萨,Inferno's Wood Fire Pizza,Inferno's Wood Fire Pizza,0,,7.0,6.9,6.9
+比萨,Boston's Pizza Manoa,Boston's Pizza Manoa,0,,7.0,7.0,7.0
+比萨,Boston's Pizza,Boston's Pizza,0,,7.0,7.0,7.0
+比萨,Chi-town Deep Dish Pizza Co,Chi-town Deep Dish Pizza Co,0,,7.0,7.0,6.9
+比萨,Rosarina Pizza,Rosarina Pizza,0,,7.0,6.9,6.9
+比萨,Papa John's Pizza Nuuanu,Papa John's Pizza Nuuanu,0,,6.7,6.7,6.9
+比萨,Fabiani's Bakery and Pizza,Fabiani's Bakery and Pizza,0,,7.2,7.2,7.2
+比萨,Pizza Hut,Pizza Hut,0,,6.7,6.7,6.7
+比萨,Pizza Bob's,Pizza Bob's,0,,7.2,7.2,6.8
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.7,6.7
+比萨,Pizza In Paradise,Pizza In Paradise,0,,7.2,7.2,7.2
+比萨,Little Caesars,Little Caesars,0,,6.9,6.9,6.7
+比萨,Honu Seafood and Pizza,Honu Seafood and Pizza,0,,7.2,7.2,7.2
+比萨,Pizza Hut,Pizza Hut,0,,7.1,7.1,6.9
+比萨,Pizza Hut,Pizza Hut,0,,7.0,6.9,6.7
+比萨,Papa John's Pizza Kapafulu,Papa John's Pizza Kapafulu,0,,7.0,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.7,6.9,6.9
+比萨,Rocco's Pizza,Rocco's Pizza,0,,7.2,7.2,7.2
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.7,6.7
+比萨,Hideaways Pizza Pub,Hideaways Pizza Pub,0,,7.1,7.1,7.1
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.7,6.9,6.9
+比萨,Little Caesars Pizza,Little Caesars Pizza,0,,6.9,6.9,6.9
+比萨,Dona & Toni's Pizza,Dona & Toni's Pizza,0,夏威夷其他,0.0,0.0,0.0
+比萨,天堂比萨,天堂比萨,0,,0.0,0.0,0.0
+面包甜点,Honolulu Cookie Company,Honolulu Cookie Company,0,檀香山(Honululu),7.6,8.1,8.1
+面包甜点,Lappert's Hawaii,Lappert's Hawaii,0,檀香山(Honululu),7.1,7.1,7.1
+面包甜点,Kulu Kulu,Kulu Kulu,0,檀香山(Honululu),7.4,7.4,7.4
+面包甜点,Cold Stone Creamery,Cold Stone Creamery,0,檀香山(Honululu),7.1,6.8,6.8
+面包甜点,Champion Malasadas,Champion Malasadas,0,檀香山(Honululu),6.8,6.8,6.8
+面包甜点,Papa'a Palaoa Bakery,Papa'a Palaoa Bakery,0,希洛(Hilo),0.0,0.0,0.0
+面包甜点,Nasturtium Cafe,Nasturtium Cafe,0,科纳(Kona),0.0,0.0,0.0
+面包甜点,Kope Lani Heavenly Coffee & Ice Cream,Kope Lani Heavenly Coffee & Ice Cream,0,科纳(Kona),0.0,0.0,0.0
+面包甜点,Snow Factory Hilo,Snow Factory Hilo,0,希洛(Hilo),0.0,0.0,0.0
+面包甜点,Kona's Own Fine Foods & Cafe,Kona's Own Fine Foods & Cafe,0,科纳(Kona),0.0,0.0,0.0
+面包甜点,Wilson's by the Bay,Wilson's by the Bay,0,希洛(Hilo),0.0,0.0,0.0
+面包甜点,Gill's Lanai,Gill's Lanai,0,柯哈拉(Kohala),0.0,0.0,0.0
+面包甜点,Baker Tom's,Baker Tom's,0,希洛(Hilo),0.0,0.0,0.0
+面包甜点,Peaberry & Galette,Peaberry & Galette,0,科纳(Kona),0.0,0.0,0.0
+面包甜点,Hawaiian Brain Freeze Shave Ice and Ice cream,Hawaiian Brain Freeze Shave Ice and Ice cream,0,希洛(Hilo),0.0,0.0,0.0
+面包甜点,Buns in the Sun,Buns in the Sun,0,科纳(Kona),0.0,0.0,0.0
+面包甜点,Daylight Mind Coffee Company,Daylight Mind Coffee Company,0,科纳(Kona),0.0,0.0,0.0
+面包甜点,Cuz'ns Deli Pizza & Ice Cream,Cuz'ns Deli Pizza & Ice Cream,0,科纳(Kona),0.0,0.0,0.0
+面包甜点,Kona Yogurt Co.,Kona Yogurt Co.,0,科纳(Kona),0.0,0.0,0.0
+面包甜点,Krua Thai Cuisine,Krua Thai Cuisine,0,科纳(Kona),0.0,0.0,0.0
+面包甜点,Menehune Coffee,Menehune Coffee,0,科纳(Kona),0.0,0.0,0.0
+面包甜点,Kohala Coffee Mill,Kohala Coffee Mill,0,柯哈拉(Kohala),0.0,0.0,0.0
+面包甜点,Short & Sweet Bakery & Cafe,Short & Sweet Bakery & Cafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+面包甜点,Tropical Dreams Ice Cream,Tropical Dreams Ice Cream,0,柯哈拉(Kohala),0.0,0.0,0.0
+面包甜点,Mountain View Bakery,Mountain View Bakery,0,火山国家公园,0.0,0.0,0.0
+面包甜点,Juice 101,Juice 101,0,柯哈拉(Kohala),0.0,0.0,0.0
+面包甜点,Kozmic Cones,Kozmic Cones,0,希洛(Hilo),0.0,0.0,0.0
+面包甜点,Shaka Cones,Shaka Cones,0,夏威夷其他,0.0,0.0,0.0
+面包甜点,Coffee and Epicurea,Coffee and Epicurea,0,科纳(Kona),0.0,0.0,0.0
+面包甜点,Waiola Shave Ice,Waiola Shave Ice,0,檀香山(Honululu),0.0,0.0,0.0
+面包甜点,Hokulani Bake Shop,Hokulani Bake Shop,0,檀香山(Honululu),0.0,0.0,0.0
+面包甜点,Diamond Head Cove Healthbar,Diamond Head Cove Healthbar,0,檀香山(Honululu),0.0,0.0,0.0
+面包甜点,Cafe Laufer,Cafe Laufer,0,檀香山(Honululu),0.0,0.0,0.0
+面包甜点,Liliha Bakery,Liliha Bakery,0,檀香山(Honululu),0.0,0.0,0.0
+面包甜点,Diamond Head Market & Grill,Diamond Head Market & Grill,0,檀香山(Honululu),0.0,0.0,0.0
+面包甜点,Hawaiian King Candies,Hawaiian King Candies,0,欧胡岛(Oahu),0.0,0.0,0.0
+其他美食,Fish Hopper Seafood and Steaks,Fish Hopper Seafood and Steaks,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Da Poke Bowl & Bento Shack,Da Poke Bowl & Bento Shack,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Merriman's,Merriman's,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Kamuela Provision Company,Kamuela Provision Company,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,火山国家公园,0.0,0.0,0.0
+其他美食,Basik Acai,Basik Acai,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Henry s Place,Henry s Place,0,檀香山(Honululu),6.8,6.8,6.8
+其他美食,Ken's House of Pancakes,Ken's House of Pancakes,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Hale Samoa at Kona Village Resort,Hale Samoa at Kona Village Resort,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Cafe' Ono,Cafe' Ono,0,火山国家公园,0.0,0.0,0.0
+其他美食,Residents' Beach House,Residents' Beach House,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Ceviche Dave's,Ceviche Dave's,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Pink Mocha Cafe,Pink Mocha Cafe,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Under the Bodhi Tree,Under the Bodhi Tree,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Hapuna Beach Prince Hotel Beach Bar,Hapuna Beach Prince Hotel Beach Bar,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Kona Brothers Coffee,Kona Brothers Coffee,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Waikoloa Grill N Bar,Waikoloa Grill N Bar,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Boat Landing Pavilion,Boat Landing Pavilion,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Huggo's Restaurant,Huggo's Restaurant,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Sam's Hideaway,Sam's Hideaway,0,科纳(Kona),0.0,0.0,0.0
+其他美食,vacant,vacant,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Cham Cham Korean BBQ,Cham Cham Korean BBQ,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Hilo Coffee Mill,Hilo Coffee Mill,0,火山国家公园,0.0,0.0,0.0
+其他美食,Just Cruisin Coffee,Just Cruisin Coffee,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Voodoo’s,Voodoo’s,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Grandma's Kitchen,Grandma's Kitchen,0,夏威夷其他,0.0,0.0,0.0
+其他美食,Maukamakai.me,Maukamakai.me,0,火山国家公园,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,火山国家公园,0.0,0.0,0.0
+其他美食,Los Arcos Mexican Restaurant,Los Arcos Mexican Restaurant,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,KLA Snack Time,KLA Snack Time,0,科纳(Kona),0.0,0.0,0.0
+其他美食,The Isles Cafe,The Isles Cafe,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Mi Taqeria Potosina,Mi Taqeria Potosina,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Mamane Street Bakery,Mamane Street Bakery,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Abundant Life Natural Foods,Abundant Life Natural Foods,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Cafe Pesto,Cafe Pesto,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Kona Chinese BBQ,Kona Chinese BBQ,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,火山国家公园,0.0,0.0,0.0
+其他美食,Queen's Deli,Queen's Deli,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Paradise PIZZA & GRILL,Paradise PIZZA & GRILL,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Holuakoa Cafe,Holuakoa Cafe,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Keoki's Surfin Ass Coffee,Keoki's Surfin Ass Coffee,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Hilo Homemade Ice Cream,Hilo Homemade Ice Cream,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Marble Slab Creamery,Marble Slab Creamery,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Get Sum Pizza,Get Sum Pizza,0,夏威夷其他,0.0,0.0,0.0
+其他美食,Sunlight Cafe,Sunlight Cafe,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,New Chiang Mai Thai Cuisine,New Chiang Mai Thai Cuisine,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Hilo Shark's Coffee Shop,Hilo Shark's Coffee Shop,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Buzz's Sand Trap,Buzz's Sand Trap,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,The Strawberry Patch Restaurant,The Strawberry Patch Restaurant,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Keei Cafe,Keei Cafe,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Rapanui Island Cafe,Rapanui Island Cafe,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Figs Mix Plate,Figs Mix Plate,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Rainbow Cafe,Rainbow Cafe,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Huggo's On The Rocks,Huggo's On The Rocks,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Jack in the Box,Jack in the Box,0,火山国家公园,0.0,0.0,0.0
+其他美食,Merriman's Mediterranean Cafe,Merriman's Mediterranean Cafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Subway,Subway,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Queens' Marketplace,Queens' Marketplace,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,You Make The Roll,You Make The Roll,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Verna's III Drive Inn,Verna's III Drive Inn,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,New Saigon Restaurant,New Saigon Restaurant,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Don the Beachcomber,Don the Beachcomber,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Queens Marketplace,Queens Marketplace,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Simply Natural,Simply Natural,0,夏威夷其他,0.0,0.0,0.0
+其他美食,The Korner Pocket Bar & Grill,The Korner Pocket Bar & Grill,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Baskin-Robbins,Baskin-Robbins,0,火山国家公园,0.0,0.0,0.0
+其他美食,Xpresso Coffee Tea Deli,Xpresso Coffee Tea Deli,0,火山国家公园,0.0,0.0,0.0
+其他美食,Leilani Bakery of Hawaii,Leilani Bakery of Hawaii,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Imari,Imari,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,TK Noodle House,TK Noodle House,0,夏威夷其他,0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Dairy Queen,Dairy Queen,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Subway,Subway,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Anuenue Ice Cream,Anuenue Ice Cream,0,夏威夷其他,0.0,0.0,0.0
+其他美食,Tin Shack Bakery,Tin Shack Bakery,0,夏威夷其他,0.0,0.0,0.0
+其他美食,Kona Joe Coffee - Hawaii USA,Kona Joe Coffee - Hawaii USA,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Tex Drive In-Kona,Tex Drive In-Kona,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Orange Tree,Orange Tree,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Sakura,Sakura,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Jungle's Edge Coffee Company,Jungle's Edge Coffee Company,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Manta and Pavilion Wine Bar,Manta and Pavilion Wine Bar,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Kimobean Hawaiian Coffee,Kimobean Hawaiian Coffee,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Puka Puka Kitchen,Puka Puka Kitchen,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Dragon Kitchen Hilo,Dragon Kitchen Hilo,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Kim's at Hilo Muni,Kim's at Hilo Muni,0,火山国家公园,0.0,0.0,0.0
+其他美食,Kum Yo's Okazuya,Kum Yo's Okazuya,0,火山国家公园,0.0,0.0,0.0
+其他美食,Sukothai Restaurant,Sukothai Restaurant,0,火山国家公园,0.0,0.0,0.0
+其他美食,Ning's Thai Cuisine,Ning's Thai Cuisine,0,火山国家公园,0.0,0.0,0.0
+其他美食,Pau,Pau,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Csc Cafe,Csc Cafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,What's Shakin',What's Shakin',0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Tropical Dreams Ice Cream,Tropical Dreams Ice Cream,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Hawaiian Style Cafe,Hawaiian Style Cafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Donna's Cookies,Donna's Cookies,0,夏威夷其他,0.0,0.0,0.0
+其他美食,Punaluu Bake Shop and Visitor Center,Punaluu Bake Shop and Visitor Center,0,火山国家公园,0.0,0.0,0.0
+其他美食,Lilikoi Cafe,Lilikoi Cafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Black Rock Cafe,Black Rock Cafe,0,火山国家公园,0.0,0.0,0.0
+其他美食,L & L Hawaiian BBQ,L & L Hawaiian BBQ,0,火山国家公园,0.0,0.0,0.0
+其他美食,Verna's Too Drive In,Verna's Too Drive In,0,火山国家公园,0.0,0.0,0.0
+其他美食,Kohala Rainbow Cafe,Kohala Rainbow Cafe,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Michelle's Hale,Michelle's Hale,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Subway,Subway,0,向风海岸(Windward Coast),0.0,0.0,0.0
+其他美食,Sam Choy's Kai Lanai,Sam Choy's Kai Lanai,0,科纳(Kona),0.0,0.0,0.0
+其他美食,BaLe Kona Restaurant,BaLe Kona Restaurant,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Jamba Juice,Jamba Juice,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Island Naturals Market & Deli,Island Naturals Market & Deli,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Baskin-Robbins,Baskin-Robbins,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Taeng-On Thai Food,Taeng-On Thai Food,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Royal Thai Restaurant,Royal Thai Restaurant,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Don's Chinese Kitchen,Don's Chinese Kitchen,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Big Island Gelato,Big Island Gelato,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Nathalie Shave Ice,Nathalie Shave Ice,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Kenichi Pacific,Kenichi Pacific,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Kopelani,Kopelani,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Laverne's Sports Bar,Laverne's Sports Bar,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Kimo Bean Coffee Co.,Kimo Bean Coffee Co.,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Kings' Grille Restaurant,Kings' Grille Restaurant,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Kauna'oa Bar & Grill,Kauna'oa Bar & Grill,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Copper Terrace,Copper Terrace,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Yen's Cafe,Yen's Cafe,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Kandi's Drive Inn,Kandi's Drive Inn,0,火山国家公园,0.0,0.0,0.0
+其他美食,Low International Food Incorporated,Low International Food Incorporated,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Kalbi Express,Kalbi Express,0,火山国家公园,0.0,0.0,0.0
+其他美食,Don's Grill,Don's Grill,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Hilo Lunch Shop,Hilo Lunch Shop,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Lanky's Pastries,Lanky's Pastries,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Bears Coffee,Bears Coffee,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,火山国家公园,0.0,0.0,0.0
+其他美食,Ocean View Pizzaria,Ocean View Pizzaria,0,火山国家公园,0.0,0.0,0.0
+其他美食,Don's Chinese Kitchen,Don's Chinese Kitchen,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,The Landing,The Landing,0,夏威夷其他,0.0,0.0,0.0
+其他美食,Beachtree restaurant,Beachtree restaurant,0,火山国家公园,0.0,0.0,0.0
+其他美食,Cafe Pesto,Cafe Pesto,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Zest Kitchen,Zest Kitchen,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Halekai Restaurant,Halekai Restaurant,0,夏威夷其他,0.0,0.0,0.0
+其他美食,Kalapaki Joe's Waimea Kauai,Kalapaki Joe's Waimea Kauai,0,夏威夷其他,0.0,0.0,0.0
+其他美食,"Big Island Booch Kombucha, Elixir Bar","Big Island Booch Kombucha, Elixir Bar",0,夏威夷其他,0.0,0.0,0.0
+其他美食,Los Tres Mex,Los Tres Mex,0,夏威夷其他,0.0,0.0,0.0
+其他美食,Crystal Blue,Crystal Blue,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Kona Canoe Club,Kona Canoe Club,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Kamaaina Terrace at Keauhou Beach Resort,Kamaaina Terrace at Keauhou Beach Resort,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Aloha Friday's,Aloha Friday's,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Pana'ewa rainforest zoo,Pana'ewa rainforest zoo,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Romano's Macaroni Grill,Romano's Macaroni Grill,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Lava Lounge,Lava Lounge,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Blane's Drive Inn,Blane's Drive Inn,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Blane's Drive Inn,Blane's Drive Inn,0,火山国家公园,0.0,0.0,0.0
+其他美食,Yogurtland,Yogurtland,0,火山国家公园,0.0,0.0,0.0
+其他美食,Aloha Lehua Cafe,Aloha Lehua Cafe,0,火山国家公园,0.0,0.0,0.0
+其他美食,Huli Sue's at Mauna Lani,Huli Sue's at Mauna Lani,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Paniolo Country Inn,Paniolo Country Inn,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Subway,Subway,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Aloha Fridays,Aloha Fridays,0,夏威夷其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Banyan Tree Cafe,Banyan Tree Cafe,0,科纳(Kona),0.0,0.0,0.0
+其他美食,L&L Hawaiian Barbecue,L&L Hawaiian Barbecue,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,火山国家公园,0.0,0.0,0.0
+其他美食,Asami's Kitchen,Asami's Kitchen,0,火山国家公园,0.0,0.0,0.0
+其他美食,Pizza Hut,Pizza Hut,0,希洛(Hilo),0.0,0.0,0.0
+其他美食,Zippy's,Zippy's,0,火山国家公园,0.0,0.0,0.0
+其他美食,Subway,Subway,0,火山国家公园,0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,柯哈拉(Kohala),0.0,0.0,0.0
+其他美食,Coffees 'N Epicurea,Coffees 'N Epicurea,0,科纳(Kona),0.0,0.0,0.0
+其他美食,Green Cafe,Green Cafe,0,夏威夷其他,0.0,0.0,0.0

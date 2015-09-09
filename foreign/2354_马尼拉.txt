@@ -1,0 +1,204 @@
+东南亚菜,Max's Restaurant,Max's Restaurant,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,Ristorante Delle Mitre,Ristorante Delle Mitre,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,马克斯餐厅,马克斯餐厅,0,马尼拉其他,7.0,7.1,7.1
+东南亚菜,Gerry's Grill,Gerry's Grill,0,马拉特,0.0,0.0,0.0
+东南亚菜,The Singing Cooks & Waiters,The Singing Cooks & Waiters,0,马拉特,0.0,0.0,0.0
+东南亚菜,Benjarong Royal Thai Restaurant,Benjarong Royal Thai Restaurant,0,,0.0,0.0,0.0
+东南亚菜,Ilustrado,Ilustrado,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,La Cocina de Tita Moning,La Cocina de Tita Moning,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,Casa Roces,Casa Roces,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,COWBOY GRILL,COWBOY GRILL,0,马拉特,0.0,0.0,0.0
+东南亚菜,Ramon Lee's Panciteria,Ramon Lee's Panciteria,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,iBread,iBread,0,马拉特,0.0,0.0,0.0
+东南亚菜,Sky Lounge Music Bar,Sky Lounge Music Bar,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,Original Pares Mami House,Original Pares Mami House,0,Sta Cruz/Recto,0.0,0.0,0.0
+东南亚菜,Simply Thai,Simply Thai,0,,0.0,0.0,0.0
+东南亚菜,Cabalen,Cabalen,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,Pho Hoa Vietnamese Delights,Pho Hoa Vietnamese Delights,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,Yakitori Dori Bar and Grill,Yakitori Dori Bar and Grill,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,C2 Classic Cuisine,C2 Classic Cuisine,0,马拉特,0.0,0.0,0.0
+东南亚菜,Mary Grace,Mary Grace,0,Sta Cruz/Recto,0.0,0.0,0.0
+东南亚菜,9 Spoons,9 Spoons,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,Rocket Room,Rocket Room,0,马尼拉其他,0.0,0.0,0.0
+东南亚菜,Makan Makan Asian Food Village,Makan Makan Asian Food Village,0,马尼拉其他,0.0,0.0,0.0
+中餐,Huey Ying Restaurant,Huey Ying Restaurant,0,,7.8,7.1,7.2
+中餐,Chowking,Chowking,0,马拉特,0.0,0.0,0.0
+中餐,川湘粤知味馆Tsingtao garden,川湘粤知味馆Tsingtao garden,0,,6.3,6.3,6.3
+中餐,麒麟阁,麒麟阁,0,,7.4,7.3,7.5
+中餐,Chowking,Chowking,0,,0.0,0.0,0.0
+中餐,Ying Ying Teahouse,Ying Ying Teahouse,0,马尼拉其他,0.0,0.0,0.0
+中餐,Bread Talk,Bread Talk,0,马拉特,0.0,0.0,0.0
+中餐,Suzhou Dimsum,Suzhou Dimsum,0,马尼拉其他,0.0,0.0,0.0
+中餐,Dong Bei Dumpling,Dong Bei Dumpling,0,马尼拉其他,0.0,0.0,0.0
+中餐,Tao Yuan Restaurant,Tao Yuan Restaurant,0,马拉特,0.0,0.0,0.0
+中餐,Eng Tee BIn,Eng Tee BIn,0,马尼拉其他,0.0,0.0,0.0
+中餐,Assad's Cafe,Assad's Cafe,0,马拉特,0.0,0.0,0.0
+中餐,Eat Well,Eat Well,0,马尼拉其他,0.0,0.0,0.0
+中餐,Szechuan House,Szechuan House,0,马尼拉其他,0.0,0.0,0.0
+中餐,Wok Inn Malate,Wok Inn Malate,0,马拉特,0.0,0.0,0.0
+中餐,Hap Chan Tea House,Hap Chan Tea House,0,马拉特,0.0,0.0,0.0
+中餐,Wai Ying Fastfood,Wai Ying Fastfood,0,马尼拉其他,0.0,0.0,0.0
+中餐,Eng Bee Tin,Eng Bee Tin,0,马尼拉其他,0.0,0.0,0.0
+中餐,Quik Snack Restaurant,Quik Snack Restaurant,0,马尼拉其他,0.0,0.0,0.0
+中餐,Sincerity Cafe and Restaurant,Sincerity Cafe and Restaurant,0,马尼拉其他,0.0,0.0,0.0
+中餐,Golden Fortune Seafood Restaurant,Golden Fortune Seafood Restaurant,0,马尼拉其他,0.0,0.0,0.0
+中餐,Harbor View Restaurant,Harbor View Restaurant,0,Sta Cruz/Recto,0.0,0.0,0.0
+中餐,Wan Chai Tea House,Wan Chai Tea House,0,Sta Cruz/Recto,0.0,0.0,0.0
+中餐,Mr. Choi Kitchen,Mr. Choi Kitchen,0,马尼拉其他,0.0,0.0,0.0
+中餐,Makan Sutra,Makan Sutra,0,马尼拉其他,0.0,0.0,0.0
+中餐,Ma Mon Luk,Ma Mon Luk,0,马尼拉其他,0.0,0.0,0.0
+中餐,Wai Ying,Wai Ying,0,马尼拉其他,0.0,0.0,0.0
+中餐,聚湘阁VITO CRUZ,聚湘阁VITO CRUZ,0,马拉特,0.0,0.0,0.0
+中餐,潮汕餐馆 Chao San ResTaurAnt,潮汕餐馆 Chao San ResTaurAnt,0,马尼拉其他,0.0,0.0,0.0
+日韩料理,Izakaya Den,Izakaya Den,0,马拉特,0.0,0.0,0.0
+日韩料理,Tokyo Cafe,Tokyo Cafe,0,,0.0,0.0,0.0
+日韩料理,Mr Kimbob,Mr Kimbob,0,马尼拉其他,0.0,0.0,0.0
+日韩料理,Yurakuen,Yurakuen,0,马尼拉其他,0.0,0.0,0.0
+日韩料理,Rose,Rose,0,马尼拉其他,0.0,0.0,0.0
+日韩料理,Korean Palace,Korean Palace,0,马拉特,0.0,0.0,0.0
+日韩料理,Nemoto Restaurant,Nemoto Restaurant,0,,0.0,0.0,0.0
+日韩料理,Yuujin,Yuujin,0,Sta Cruz/Recto,0.0,0.0,0.0
+日韩料理,Nodasho,Nodasho,0,马尼拉其他,0.0,0.0,0.0
+日韩料理,Nihonbashi Tei,Nihonbashi Tei,0,马尼拉其他,0.0,0.0,0.0
+日韩料理,RAMEN NAGI,RAMEN NAGI,0,,0.0,0.0,0.0
+更多亚洲菜,Johnny Chow,Johnny Chow,0,,7.8,7.8,7.8
+更多亚洲菜,The Chicken Rice Shop,The Chicken Rice Shop,0,马尼拉其他,0.0,0.0,0.0
+西式正餐,The Aristocrat,The Aristocrat,0,马拉特,8.0,7.6,8.0
+西式正餐,Italianni's,Italianni's,0,,0.0,0.0,0.0
+西式正餐,Cyma Greek Taverna,Cyma Greek Taverna,0,马尼拉其他,0.0,0.0,0.0
+西式正餐,Bistro Marinero,Bistro Marinero,0,马尼拉其他,0.0,0.0,0.0
+西式正餐,Munchen Grill-Pub,Munchen Grill-Pub,0,马拉特,0.0,0.0,0.0
+西式正餐,Slice N' Dice,Slice N' Dice,0,马尼拉其他,0.0,0.0,0.0
+西式正餐,My Kitchen by Chef Chris,My Kitchen by Chef Chris,0,马拉特,0.0,0.0,0.0
+西式正餐,The Buoy,The Buoy,0,马拉特,0.0,0.0,0.0
+西式正餐,La Scala Cafe,La Scala Cafe,0,马拉特,0.0,0.0,0.0
+西式正餐,Studio Kitchen,Studio Kitchen,0,马尼拉其他,0.0,0.0,0.0
+西式正餐,Bar 28,Bar 28,0,马拉特,0.0,0.0,0.0
+西式正餐,G Point Smörgåsbord & Bar,G Point Smörgåsbord & Bar,0,马拉特,0.0,0.0,0.0
+西式正餐,Finestra,Finestra,0,马尼拉其他,0.0,0.0,0.0
+西式正餐,B & T Mexican Kitchen,B & T Mexican Kitchen,0,马尼拉其他,0.0,0.0,0.0
+西式正餐,LULU Restaurant,LULU Restaurant,0,马尼拉其他,0.0,0.0,0.0
+西式正餐,Caruso,Caruso,0,马尼拉其他,0.0,0.0,0.0
+西式正餐,"Italianni's Robinson's Place, Ermita","Italianni's Robinson's Place, Ermita",0,马尼拉其他,0.0,0.0,0.0
+西式正餐,CAFE REPUBLIQ,CAFE REPUBLIQ,0,,0.0,0.0,0.0
+西式快餐,Jollibee,Jollibee,0,,7.4,7.3,7.3
+西式快餐,Yellow cab pizza co,Yellow cab pizza co,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Greenwich - SM San Lazaro,Greenwich - SM San Lazaro,0,Sta Cruz/Recto,0.0,0.0,0.0
+西式快餐,McDonald's,McDonald's,0,,0.0,0.0,0.0
+西式快餐,Shakey's,Shakey's,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Burger King,Burger King,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Mang Inasal,Mang Inasal,0,Sta Cruz/Recto,0.0,0.0,0.0
+西式快餐,Kenny Rogers Roasters,Kenny Rogers Roasters,0,马拉特,0.0,0.0,0.0
+西式快餐,Jollibee,Jollibee,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Jollibee,Jollibee,0,Sta Cruz/Recto,0.0,0.0,0.0
+西式快餐,Zark's Burgers,Zark's Burgers,0,马拉特,0.0,0.0,0.0
+西式快餐,Jollibee,Jollibee,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Wendy's Hamburgers,Wendy's Hamburgers,0,Sta Cruz/Recto,0.0,0.0,0.0
+西式快餐,Pizza Hut 168 Mall,Pizza Hut 168 Mall,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Shakey's,Shakey's,0,马拉特,0.0,0.0,0.0
+西式快餐,TGI Friday's,TGI Friday's,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Burger King,Burger King,0,马拉特,0.0,0.0,0.0
+西式快餐,KFC,KFC,0,Sta Cruz/Recto,0.0,0.0,0.0
+西式快餐,Army Navy,Army Navy,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Mary Grace,Mary Grace,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Bugsy's Bar & Bistro,Bugsy's Bar & Bistro,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Bacolod Chicken Inasal,Bacolod Chicken Inasal,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Pizza Hut C.M. Recto,Pizza Hut C.M. Recto,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,KFC,KFC,0,Sta Cruz/Recto,0.0,0.0,0.0
+西式快餐,McDonald's,McDonald's,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Hooters,Hooters,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,Pizza Hut Robinsons Place,Pizza Hut Robinsons Place,0,马尼拉其他,0.0,0.0,0.0
+西式快餐,"Don Henrico's Pizza, Pasta and More","Don Henrico's Pizza, Pasta and More",0,马尼拉其他,0.0,0.0,0.0
+海鲜,Hong Kong Master Cook,Hong Kong Master Cook,0,,0.0,0.0,0.0
+海鲜,Seafood Market and Restaurant,Seafood Market and Restaurant,0,马尼拉其他,0.0,0.0,0.0
+海鲜,旅菲石獅绿岛酒楼,旅菲石獅绿岛酒楼,0,,7.7,7.7,7.7
+海鲜,juxian Kitchen 聚贤小厨,juxian Kitchen 聚贤小厨,0,,7.7,7.7,7.7
+海鲜,Zamboanga Restaurant,Zamboanga Restaurant,0,马拉特,0.0,0.0,0.0
+海鲜,Century Park Seafood Restaurant,Century Park Seafood Restaurant,0,马拉特,0.0,0.0,0.0
+海鲜,Barrio Fiesta,Barrio Fiesta,0,Sta Cruz/Recto,0.0,0.0,0.0
+海鲜,聚湘阁私房菜馆,聚湘阁私房菜馆,0,马拉特,0.0,0.0,0.0
+海鲜,宝龙海鲜酒楼,宝龙海鲜酒楼,0,,0.0,0.0,0.0
+海鲜,菲律宾石獅绿岛酒楼,菲律宾石獅绿岛酒楼,0,,0.0,0.0,0.0
+海鲜,宝龙海鲜酒楼,宝龙海鲜酒楼,0,,0.0,0.0,0.0
+烧烤,Tong Yang Robinson Place,Tong Yang Robinson Place,0,马尼拉其他,0.0,0.0,0.0
+烧烤,Chic-Boy,Chic-Boy,0,,0.0,0.0,0.0
+烧烤,好再来,好再来,0,,0.0,0.0,0.0
+小吃,甘肃拉面,甘肃拉面,0,马尼拉其他,6.7,6.7,6.7
+小吃,好再来,好再来,0,,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,,0.0,0.0,0.0
+咖啡厅,Cafe Via Mare,Cafe Via Mare,0,马拉特,0.0,0.0,0.0
+咖啡厅,Market Cafe,Market Cafe,0,Sta Cruz/Recto,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,马拉特,0.0,0.0,0.0
+咖啡厅,Hollys Coffee,Hollys Coffee,0,马尼拉其他,0.0,0.0,0.0
+咖啡厅,Country Style Bakery,Country Style Bakery,0,马尼拉其他,0.0,0.0,0.0
+咖啡厅,Cafe Ilang-Ilang,Cafe Ilang-Ilang,0,马尼拉其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,马尼拉其他,0.0,0.0,0.0
+咖啡厅,KSEM Coffee Shop,KSEM Coffee Shop,0,马拉特,0.0,0.0,0.0
+咖啡厅,Cafe Adriatico,Cafe Adriatico,0,马拉特,0.0,0.0,0.0
+咖啡厅,Figaro Coffee,Figaro Coffee,0,马拉特,0.0,0.0,0.0
+咖啡厅,Coffee Bean & Tea Leaf,Coffee Bean & Tea Leaf,0,马尼拉其他,0.0,0.0,0.0
+咖啡厅,Coffee Bean & Tea Leaf,Coffee Bean & Tea Leaf,0,马拉特,0.0,0.0,0.0
+咖啡厅,Caffe Ti-Amo,Caffe Ti-Amo,0,马尼拉其他,0.0,0.0,0.0
+咖啡厅,Cafe Ysabel,Cafe Ysabel,0,Sta Cruz/Recto,0.0,0.0,0.0
+咖啡厅,Iou,Iou,0,,0.0,0.0,0.0
+面包甜点,Hizon's Cakes & Pastries,Hizon's Cakes & Pastries,0,马拉特,0.0,0.0,0.0
+面包甜点,Country Style Bakery,Country Style Bakery,0,马尼拉其他,0.0,0.0,0.0
+面包甜点,Crepes and Cream,Crepes and Cream,0,马尼拉其他,0.0,0.0,0.0
+面包甜点,Bread Talk,Bread Talk,0,Sta Cruz/Recto,0.0,0.0,0.0
+面包甜点,Pancake House,Pancake House,0,马尼拉其他,0.0,0.0,0.0
+面包甜点,向阳坊烘焙名店SUNMILE,向阳坊烘焙名店SUNMILE,0,Sta Cruz/Recto,0.0,0.0,0.0
+面包甜点,向阳坊烘焙名店Sunmile,向阳坊烘焙名店Sunmile,0,Sta Cruz/Recto,0.0,0.0,0.0
+面包甜点,Sunmile向阳坊烘焙名店,Sunmile向阳坊烘焙名店,0,,0.0,0.0,0.0
+面包甜点,Sunmile,Sunmile,0,,0.0,0.0,0.0
+酒吧,Le Café Curieux,Le Café Curieux,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Kenny Rogers Roasters,Kenny Rogers Roasters,0,马拉特,0.0,0.0,0.0
+其他美食,Red Crab,Red Crab,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Almon Marina,Almon Marina,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,马拉特,0.0,0.0,0.0
+其他美食,Sky Deck on Bayleaf Hotel,Sky Deck on Bayleaf Hotel,0,马拉特,0.0,0.0,0.0
+其他美食,Spiral,Spiral,0,马拉特,0.0,0.0,0.0
+其他美食,Cafe Mary Grace,Cafe Mary Grace,0,,0.0,0.0,0.0
+其他美食,Restaurant Uno,Restaurant Uno,0,马拉特,0.0,0.0,0.0
+其他美食,President Restaurant,President Restaurant,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Champagne Room,Champagne Room,0,马拉特,0.0,0.0,0.0
+其他美食,Lolo Dad's Cafe,Lolo Dad's Cafe,0,马拉特,0.0,0.0,0.0
+其他美食,Banana Leaf Curry House,Banana Leaf Curry House,0,,0.0,0.0,0.0
+其他美食,Kamayan,Kamayan,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Gourmand,Gourmand,0,马拉特,0.0,0.0,0.0
+其他美食,Casa Armas,Casa Armas,0,马拉特,0.0,0.0,0.0
+其他美食,Bistro Remedios,Bistro Remedios,0,马拉特,0.0,0.0,0.0
+其他美食,Savory Chicken,Savory Chicken,0,,0.0,0.0,0.0
+其他美食,Shinjuku Ramen House,Shinjuku Ramen House,0,,0.0,0.0,0.0
+其他美食,Texas Roadhouse Grill,Texas Roadhouse Grill,0,,0.0,0.0,0.0
+其他美食,President Tea House,President Tea House,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Emerald Garden,Emerald Garden,0,马拉特,0.0,0.0,0.0
+其他美食,Thebar@1951,Thebar@1951,0,马拉特,0.0,0.0,0.0
+其他美食,Hobbit House,Hobbit House,0,马拉特,0.0,0.0,0.0
+其他美食,Barcino Wine and Tapas,Barcino Wine and Tapas,0,马拉特,0.0,0.0,0.0
+其他美食,Lolo Dads,Lolo Dads,0,马拉特,0.0,0.0,0.0
+其他美食,Robinsons Place Food Court,Robinsons Place Food Court,0,马拉特,0.0,0.0,0.0
+其他美食,Healthy Shabu Shabu,Healthy Shabu Shabu,0,马拉特,0.0,0.0,0.0
+其他美食,Corniche,Corniche,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Bellini's,Bellini's,0,,0.0,0.0,0.0
+其他美食,The Fireplace,The Fireplace,0,马拉特,0.0,0.0,0.0
+其他美食,Dome,Dome,0,马拉特,0.0,0.0,0.0
+其他美食,Blessed Tummy,Blessed Tummy,0,Sta Cruz/Recto,0.0,0.0,0.0
+其他美食,Bonchon Chicken,Bonchon Chicken,0,Sta Cruz/Recto,0.0,0.0,0.0
+其他美食,Pension Natividad,Pension Natividad,0,Sta Cruz/Recto,0.0,0.0,0.0
+其他美食,The Slouch Hat,The Slouch Hat,0,马尼拉其他,0.0,0.0,0.0
+其他美食,White Moon Bar,White Moon Bar,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Larry and Mau Diner,Larry and Mau Diner,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Nuvo,Nuvo,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Sbarro,Sbarro,0,马拉特,0.0,0.0,0.0
+其他美食,Lili,Lili,0,马拉特,0.0,0.0,0.0
+其他美食,Chef Laudico Bistro Filipino,Chef Laudico Bistro Filipino,0,马拉特,0.0,0.0,0.0
+其他美食,Kashmir,Kashmir,0,马拉特,0.0,0.0,0.0
+其他美食,Korean Village,Korean Village,0,马拉特,0.0,0.0,0.0
+其他美食,New Orleans,New Orleans,0,Sta Cruz/Recto,0.0,0.0,0.0
+其他美食,Shawarma Snack Center,Shawarma Snack Center,0,Sta Cruz/Recto,0.0,0.0,0.0
+其他美食,Barbara's,Barbara's,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Tasty Dumplings,Tasty Dumplings,0,马尼拉其他,0.0,0.0,0.0
+其他美食,The Aristocrat,The Aristocrat,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Duck Inn Hotel,Duck Inn Hotel,0,马尼拉其他,0.0,0.0,0.0
+其他美食,Racks,Racks,0,马尼拉其他,0.0,0.0,0.0
+其他美食,The Old Spaghetti House,The Old Spaghetti House,0,马尼拉其他,0.0,0.0,0.0

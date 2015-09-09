@@ -1,0 +1,80 @@
+西餐,Flame Bar & Grill,Flame Bar & Grill,130,皇后镇市中心,9.2,9.0,9.1
+西餐,Skyline Restaurant Queenstown,Skyline Restaurant Queenstown,362,,7.9,9.0,8.3
+西餐,天空缆车餐厅,天空缆车餐厅,0,,7.5,8.8,7.9
+西餐,Captains Restaurant,Captains Restaurant,0,,8.7,8.3,8.6
+西餐,The Cow Restaurant,The Cow Restaurant,0,皇后镇市中心,8.6,7.8,7.8
+西餐,Roaring Megs Restaurant,Roaring Megs Restaurant,0,,8.3,8.3,8.4
+西餐,Thai Siam Restaurant,Thai Siam Restaurant,0,,6.9,7.4,6.9
+西餐,Rata,Rata,0,,7.7,7.7,7.7
+西餐,Kappa Japanese Restaurant,Kappa Japanese Restaurant,0,,7.5,7.0,7.5
+西餐,Saigon Kingdom Vietnamese Restaurant,Saigon Kingdom Vietnamese Restaurant,0,,7.5,7.5,8.0
+西餐,Seoul Garden Korean Restaurant,Seoul Garden Korean Restaurant,0,,8.2,8.2,8.0
+西餐,Hell Pizza,Hell Pizza,0,皇后镇市中心,7.4,6.8,7.4
+西餐,Britannia Restaurant,Britannia Restaurant,0,,7.0,7.5,7.5
+西餐,HITON,HITON,0,,7.1,7.1,7.1
+西餐,RATA,RATA,0,,6.9,6.9,7.1
+西餐,La Rotisserie Restaurant,La Rotisserie Restaurant,0,,6.9,6.9,6.9
+西餐,Minami Jujisei Japanese Restaurant,Minami Jujisei Japanese Restaurant,0,,7.2,7.2,7.2
+西餐,Impressions Restaurant at The Copthorne,Impressions Restaurant at The Copthorne,0,,7.1,6.8,6.8
+西餐,Ben Lomond Restaurant,Ben Lomond Restaurant,0,,6.8,7.1,6.5
+西餐,Mandarin Chinese Restaurant,Mandarin Chinese Restaurant,0,,6.8,6.8,6.8
+西餐,Bombay Palace Indian Restaurant,Bombay Palace Indian Restaurant,0,,7.2,7.2,7.2
+西餐,Lakeside Palace Chinese Restaurant,Lakeside Palace Chinese Restaurant,0,,7.2,7.2,7.2
+西餐,Cow Restaurant,Cow Restaurant,0,,7.2,7.2,7.2
+西餐,Elements Restaurant,Elements Restaurant,0,,7.1,7.1,7.1
+西餐,360 Restaurant,360 Restaurant,0,,7.1,7.3,7.1
+西餐,Freiya's Indian Restaurant,Freiya's Indian Restaurant,0,,7.2,7.2,6.8
+西餐,Bombay Palace Indian Restaurant and Takeaway,Bombay Palace Indian Restaurant and Takeaway,0,,7.1,7.1,7.1
+西餐,Sombrero's Mexican Restaurant,Sombrero's Mexican Restaurant,0,皇后镇市中心,0.0,0.0,0.0
+中餐厅,同乐酒楼,同乐酒楼,0,皇后镇市中心,7.7,7.1,7.2
+中餐厅,文华酒楼,文华酒楼,0,,6.5,6.5,6.6
+中餐厅,Pepperidge Farm,Pepperidge Farm,0,,7.1,7.1,7.1
+东南亚菜,Thaitanium,Thaitanium,0,弗兰克顿,6.4,6.4,6.4
+日韩料理,Minami Jujisei Japanese Restaurant&Bar,Minami Jujisei Japanese Restaurant&Bar,0,皇后镇市中心,8.2,8.3,8.3
+日韩料理,Hikari,Hikari,0,,7.2,7.2,7.2
+咖啡厅,Chocolates Patagonia,Chocolates Patagonia,34,,8.8,8.6,8.6
+咖啡厅,Vudu Cafe,Vudu Cafe,0,,8.5,7.6,8.0
+咖啡厅,cookie time,cookie time,0,,0.0,0.0,0.0
+咖啡厅,Kappa Sushi Cafe,Kappa Sushi Cafe,0,,7.2,7.2,7.2
+咖啡厅,Old Man Rock Cafe Bar - The Mall Queenstown,Old Man Rock Cafe Bar - The Mall Queenstown,0,,7.2,7.2,7.2
+咖啡厅,Boat shed cafe,Boat shed cafe,0,,7.2,7.2,7.2
+咖啡厅,Post office cafe,Post office cafe,0,,7.2,7.2,7.2
+咖啡厅,Lakeside Cafe,Lakeside Cafe,0,,6.9,6.9,6.9
+咖啡厅,Mediterranean Market Cafe,Mediterranean Market Cafe,0,,7.1,7.0,7.0
+咖啡厅,Red Rock Bar Cafe,Red Rock Bar Cafe,0,,7.2,7.2,7.2
+咖啡厅,India Once Upon A Time,India Once Upon A Time,0,,7.5,7.1,7.1
+咖啡厅,Left Bank Cafe,Left Bank Cafe,0,,6.9,6.9,6.9
+咖啡厅,8Fiftycc Cafe,8Fiftycc Cafe,0,,7.0,7.0,7.0
+咖啡厅,Bean to Tea Cafe,Bean to Tea Cafe,0,,7.0,6.9,6.9
+咖啡厅,Atlas Beer Cafe,Atlas Beer Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe 111,Cafe 111,0,,7.2,7.2,7.2
+酒吧,Pub On Wharf,Pub On Wharf,0,,8.2,8.2,8.2
+酒吧,Prime Waterfront Restaurant and Bar,Prime Waterfront Restaurant and Bar,0,,7.7,8.2,7.7
+酒吧,Altitude Bar & Cafe,Altitude Bar & Cafe,0,,7.0,7.1,7.0
+酒吧,Flame Bar and Grill,Flame Bar and Grill,0,,7.2,7.2,7.2
+酒吧,The Bathhouse Tapas Bar and Restaurant,The Bathhouse Tapas Bar and Restaurant,0,,7.2,7.2,7.2
+酒吧,Pog Mahones Irish Pub,Pog Mahones Irish Pub,0,,7.2,7.2,7.2
+酒吧,Kim's Korean Resturant and Bar,Kim's Korean Resturant and Bar,0,,7.1,7.1,6.8
+酒吧,Eichardt's Bar,Eichardt's Bar,0,,7.2,7.2,7.2
+酒吧,Lick Dessert Bar And Espresso,Lick Dessert Bar And Espresso,0,,7.2,7.2,7.2
+酒吧,Monty's Bar,Monty's Bar,0,,7.2,7.2,7.2
+酒吧,Mini Bar,Mini Bar,0,,6.7,7.0,7.0
+酒吧,Rehab Smoothie Bar,Rehab Smoothie Bar,0,,7.1,7.1,7.1
+酒吧,Yakitori Daruma Japanese Sake Bar,Yakitori Daruma Japanese Sake Bar,0,,7.2,7.2,7.2
+酒吧,Pig And Whistle Pub,Pig And Whistle Pub,0,,7.2,7.2,7.2
+酒吧,Morrison's Irish Pub,Morrison's Irish Pub,0,,7.1,7.1,7.1
+酒吧,Xtreme Sports Bar,Xtreme Sports Bar,0,,6.9,7.0,7.0
+小吃面食,老牛面馆,老牛面馆,0,,0.0,0.0,0.0
+面包甜点,Movenpick,Movenpick,0,,8.0,7.7,7.7
+面包甜点,Miles Better Pies,Miles Better Pies,0,,8.1,8.1,8.1
+面包甜点,Remarkable Sweet Shop,Remarkable Sweet Shop,0,,6.7,7.4,8.2
+面包甜点,Cup and Cake,Cup and Cake,0,,7.1,7.1,7.1
+面包甜点,The Bakery Queenstown,The Bakery Queenstown,0,,7.7,7.2,7.2
+面包甜点,The Bakery-Queenstown,The Bakery-Queenstown,0,皇后镇市中心,0.0,0.0,0.0
+面包甜点,米丽莎,米丽莎,0,,0.0,0.0,0.0
+日本料理,PIERRES,PIERRES,0,弗兰克顿,6.7,6.7,6.7
+快餐,The Coffee Club,The Coffee Club,0,弗兰克顿,0.0,0.0,0.0
+比萨,Hell Pizza,Hell Pizza,0,,7.1,6.7,7.5
+比萨,Slice Pizza,Slice Pizza,0,,7.1,7.1,6.8
+比萨,Fat Badger's Pizza,Fat Badger's Pizza,0,,7.2,7.2,7.2
+其他中餐,Halo,Halo,0,,7.2,7.2,7.2

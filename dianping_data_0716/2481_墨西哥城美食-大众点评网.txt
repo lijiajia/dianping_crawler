@@ -1,0 +1,228 @@
+意大利菜,Prego
+意大利菜,Pane e Vino
+意大利菜,Spasso
+法国菜,Bon Appetit
+墨西哥菜,El Cardenal
+墨西哥菜,Latino
+墨西哥菜,La casa de Tono
+墨西哥菜,Tacontento
+其他西餐,Hooters
+其他西餐,Waterbar
+其他西餐,Au Pied de Cochon
+其他西餐,Au Pied de Cochon
+其他西餐,Hooters
+其他西餐,Al andalus
+其他西餐,牛排
+中餐,友谊餐厅
+日韩料理,Fuji
+日韩料理,Sushi Roll
+日韩料理,Osaka
+日韩料理,Morimoto
+快餐简餐,Chili's
+快餐简餐,IHOP WTC
+快餐简餐,Subway
+快餐简餐,Taco Bell
+快餐简餐,Denny's
+快餐简餐,Nathans Famous
+快餐简餐,Ihop
+快餐简餐,Carl's Jr.
+快餐简餐,KFC
+快餐简餐,McDonald's
+快餐简餐,Subway
+快餐简餐,Subway
+快餐简餐,Subway
+快餐简餐,Ihop
+快餐简餐,IHOP
+快餐简餐,Subway
+快餐简餐,Vips
+快餐简餐,McDonald's
+快餐简餐,Wendy's
+快餐简餐,Carl's Jr.
+快餐简餐,川粤轩
+海鲜,Pike Street Market
+烧烤,La Casa de las Sirenas
+烧烤,Pinche Gringo BBQ
+比萨,Pizza Mania
+比萨,Kemi Pasta Pizza y Cerveza
+比萨,Pizza Amore
+比萨,Mama
+比萨,Napoli
+比萨,Pizza del Perro Negro
+比萨,"Sole, Pizza e Amore"
+比萨,Ecco Pizza
+比萨,Pizza Amore
+比萨,Julius Pizza
+比萨,Little Caesars
+比萨,Peter Piper Pizza
+比萨,Flippin' Pizza San Angel
+比萨,California Pizza Kitchen (CPK)
+比萨,California Pizza Kitchen - Masaryk
+比萨,California Pizza Kitchen
+比萨,Mr Pizza Malecon
+比萨,Ivos Pizza
+咖啡厅,Magoffin Home State Historical Park
+咖啡厅,Cafe Central
+咖啡厅,Rococo Cafe Espresso
+咖啡厅,Cafe Toscano
+咖啡厅,Sanborns Cafe
+咖啡厅,Cielito Querido Cafe
+咖啡厅,Coffee On The Corner
+咖啡厅,Cafe Cafesto
+咖啡厅,Cafe La Gloria
+咖啡厅,Cafe Tacuba
+咖啡厅,Cafe Magana
+咖啡厅,Minnesota Cafe
+咖啡厅,Minchos Cafe
+咖啡厅,The Octopus's Garden Cafe
+咖啡厅,Antik Cafe
+咖啡厅,Arts and Coffee Co.
+咖啡厅,Galyan Cafe
+咖啡厅,Chucho's Cafe
+咖啡厅,Cafe Aurora
+咖啡厅,Pizza N' Love Pizzabar Cafe
+咖啡厅,Costa Guadiana
+咖啡厅,sublime
+咖啡厅,Chiquitito Cafe
+咖啡厅,Green Bistro
+咖啡厅,Otro Cafe
+咖啡厅,Gante Cafe Grill
+咖啡厅,Bertico Cafe
+咖啡厅,Cafe de Bellas Artes
+咖啡厅,Cafe del Centro
+咖啡厅,Restaurante Costa Dorada
+咖啡厅,Minichelista Cafe
+咖啡厅,Cafe Montenegro
+咖啡厅,The Wing House
+咖啡厅,Starbucks Coffee
+咖啡厅,Cafe Conservatorio
+咖啡厅,Cafe El Arbol
+咖啡厅,Sabbia Coffee and Tea
+咖啡厅,Karma Bagels
+咖啡厅,Fresh'n green
+咖啡厅,Xiguela Ciabattas y Cafe
+咖啡厅,Cafe etc./ Juan's cafe
+咖啡厅,Coffee Park
+咖啡厅,Cafeteria Papalotl
+咖啡厅,Cafe Bolshoi
+咖啡厅,Cafe Etrusca
+咖啡厅,Cafe Punta del Cielo
+咖啡厅,MP Cafe
+咖啡厅,Cafe Lutece
+咖啡厅,Go Green Go Life
+咖啡厅,Cafe Ventura
+咖啡厅,Cafe 123
+咖啡厅,Starbucks
+咖啡厅,"Cafe, Panes y Pasteles De Tenango"
+咖啡厅,Charlotte Cafe
+咖啡厅,Conceptos Cafe
+咖啡厅,Starbucks
+咖啡厅,Coffee Pub
+咖啡厅,Karin's Cafe
+咖啡厅,La Taza Gourmet Coffee
+咖啡厅,Metro Cafe
+咖啡厅,Cafe Carcamanes
+咖啡厅,Cafe Alondra
+咖啡厅,Kubli's Cafe Bistro
+咖啡厅,De Costa A Costa
+咖啡厅,Collage cafe gourmet
+咖啡厅,The View at The Green Park Hotel
+咖啡厅,Republica del Cafe
+咖啡厅,Patagonia
+咖啡厅,Cafe O
+咖啡厅,Cafeteria Gabi's
+咖啡厅,Cafe Budapest
+咖啡厅,The Green Corner
+咖啡厅,Tintico cafe - galeria
+咖啡厅,El Buen Cafe
+咖啡厅,El Roots Cafe
+咖啡厅,Casa Oaxaca Cafe
+咖啡厅,The Original Grand Cafe
+咖啡厅,El Olivo Cafe
+咖啡厅,Hello Day Cafe
+咖啡厅,The Green Ingredient
+咖啡厅,Cafe Los Portales
+咖啡厅,Cafe Tokio
+咖啡厅,Looney Bean Coffee Shop
+咖啡厅,The Oaxacan Coffee Company
+咖啡厅,La Flor del Cafe
+咖啡厅,Cafe Brujula
+咖啡厅,Cafe Iguana
+咖啡厅,Bagel Cafe
+咖啡厅,Buen Dia Cafe
+咖啡厅,Cafe de la Parroquia
+咖啡厅,Cafe de la Gran Ciudad
+咖啡厅,Cafe 22
+面包甜点,Condesa DF
+面包甜点,Tony Roma's Mexico Df
+面包甜点,Fullenios Taco Fish DF
+面包甜点,Le Pain Quotidien
+面包甜点,Artisan Bakery
+面包甜点,Neve Gelato
+面包甜点,Yogen Fruz
+酒吧,Salon Corona
+酒吧,Champs Elysees
+酒吧,Fishmart Oyster Bar
+酒吧,bar tomate
+酒吧,Tenampa Salon
+酒吧,Cerati Bar
+酒吧,New orleans Jazz bar
+酒吧,Sky Restaurant Terrace Bar
+酒吧,O2
+酒吧,Rioja del Club Espana
+酒吧,Bros Oyster Bar
+酒吧,Fishmart Oyster Bar Condesa
+酒吧,116 Pulpito Gastro Bar
+酒吧,Restaurante Bar 
+酒吧,Brasserie Lipp
+酒吧,La Opera Bar
+酒吧,Eladio's Bar Centro
+酒吧,pinocchio
+酒吧,Hakuna Matata Sports Bar
+酒吧,Pkdo Bar
+酒吧,Inolvidable Piano Bar
+酒吧,Salon Cantina Florida
+酒吧,Jaleo Bar de Tapas
+酒吧,Gin Club
+酒吧,Sport Bar Santo Cabrito
+酒吧,Restaurant Bar Frida Y Diego
+酒吧,El Bar Co.
+酒吧,Infamous Bar Leon
+酒吧,Koto Sushi Bar
+酒吧,Restaurant Bar Dimitris
+酒吧,"Restaurant Bar La Chata,"
+酒吧,Casa Club del Academico
+酒吧,Kings Pub Plaza Loreto
+酒吧,Mr.C's Supper Club Restaurant
+酒吧,Soho
+酒吧,Sushi Mix
+酒吧,La Ingrata Mexican Pub
+酒吧,La Isla Restaurant Bar
+酒吧,Lobby Bar at Tijuana Marriott Hotel
+酒吧,Cuale Paradise
+酒吧,Yo Yo Mo's Pizza and Sports Bar
+酒吧,La Alhambra
+酒吧,Manny's Beach Club
+酒吧,Fishmart Oyster Bar
+酒吧,La Morena Oyster Bar
+酒吧,Ladina Tapas Bar
+酒吧,Beef bar
+酒吧,Riedel Wine Bar - Polanco
+酒吧,Restaurante Bar Stuka
+酒吧,Pacifica Langosta Bar
+酒吧,Nonna Cucina Bar
+酒吧,Ancora Bar e Cucina Urbana
+酒吧,Mexico Viejo Restaurant Bar
+酒吧,Cafeteria Bistro Club
+酒吧,Roga's BBQ Oysters Restaurant and Bar
+酒吧,Mariscos Bar Mandinga
+酒吧,Insu Sky Bar and Pool Lounge
+酒吧,Chasers Sports Bar
+酒吧,Mel's Steakhouse and Bar
+酒吧,Zipolipas restaurant y Bar
+酒吧,Nonna Vivi Wood Oven Pizzeria
+酒吧,Restaurant Bar El Sagrario
+酒吧,Club 99
+酒吧,La Bamba
+更多美食,Mi gusto es
+更多美食,Hunan
+更多美食,Dolce Amore

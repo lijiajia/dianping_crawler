@@ -1,0 +1,494 @@
+意大利菜,Pasta-Gusto
+意大利菜,Sud-Food of Italy
+意大利菜,OSTERIA 45
+意大利菜,Terra Promessa
+意大利菜,Pasta Maria
+意大利菜,Bocca
+意大利菜,Pasta Delizia
+意大利菜,Sale e Pepe
+意大利菜,Benvenuto
+意大利菜,Parazzar
+意大利菜,Opus Latino
+意大利菜,La Trattoria
+意大利菜,La Porta
+意大利菜,La Gondola
+意大利菜,Gentile
+意大利菜,'T Hof Van Beroep
+意大利菜,Isola Bella
+意大利菜,L'aquila
+意大利菜,Adriatico
+意大利菜,Vincenzo
+意大利菜,La Cantina
+意大利菜,Chips n Dips
+意大利菜,Pizzeria Da Mario
+意大利菜,Brasserie Pizza and Pasta
+意大利菜,Trattoria Trium
+法国菜,De Nisse
+法国菜,Chez Olivier
+法国菜,Den Gouden Harynck
+法国菜,Den Heerd
+法国菜,Merveilleux
+法国菜,Vineeto
+法国菜,Tearoom Carpe Diem
+法国菜,Caffe Da Noi
+法国菜,Malesherbes
+法国菜,'t Gulden Vlies
+法国菜,L'Accident de Comptoir
+法国菜,La Tache
+法国菜,De Zilverberk
+法国菜,Patrick Devos 
+法国菜,'t Bourgoensche Cruyce
+法国菜,The 57 Restaurant
+法国菜,Restaurant Curiosa
+法国菜,Restaurant De Pottekijker
+法国菜,Le Clos du Midi
+法国菜,PlazaCafe
+法国菜,'t Stil Ende
+法国菜,SENSuniek
+法国菜,Vivaldi Restaurant
+法国菜,De Brugse Hanze
+墨西哥菜,Carrello
+其他西餐,Chez Albert
+其他西餐,Bistro De schilder
+其他西餐,Lieven
+其他西餐,The Olive Tree
+其他西餐,Bierbrasserie Cambrinus
+其他西餐,Zeno
+其他西餐,Brasserie
+其他西餐,Hashtag Food
+其他西餐,Restaurant Kasteel Minnewater
+其他西餐,Chocolatier Van Oost
+其他西餐,In De Plantenmarkt
+其他西餐,Detavernier
+其他西餐,Pomperlut
+其他西餐,De Stove
+其他西餐,Wijnbar Est
+其他西餐,De Verloren Hoek
+其他西餐,Arthie's
+其他西餐,Weinebrugge
+其他西餐,'T Fonduehuisje
+其他西餐,De Gastro
+其他西餐,Breugelhof
+其他西餐,Porta
+其他西餐,Michello's Coffee
+其他西餐,Delices de Bruges
+其他西餐,Freyne - Slagerij Traiteur
+其他西餐,Frituur De Biezen
+其他西餐,De Kalvarieberg
+其他西餐,Villa Kakelbont
+其他西餐,Pannenhuis
+其他西餐,De Peerdeblomme
+其他西餐,Bistro t' Lammetje
+其他西餐,In de Trutselaar
+其他西餐,'t Bagientje
+其他西餐,'t Zwaantje
+其他西餐,Salade Folle
+其他西餐,Heer Halewijn
+其他西餐,Kouzina
+其他西餐,'t Kattepoortje
+其他西餐,El Rincon
+其他西餐,RESTAURANT WILLEMIJN
+其他西餐,Reliva
+其他西餐,RESTO MOJO
+其他西餐,Pub 't Lindenhof
+其他西餐,De Middenstand
+其他西餐,lokkedize bistro
+其他西餐,Grand Cafe de Passage
+其他西餐,'t Klein Genoegen
+其他西餐,Bonte B.
+其他西餐,Atlas-Souvlaki
+其他西餐,de Verbeelding
+其他西餐,Monteintje
+其他西餐,De Ijsbeer
+其他西餐,'t Grillkasteeltje
+其他西餐,Aquarel
+其他西餐,Bistro De Eetkamer
+其他西餐,De Belleman Pub
+其他西餐,Bodega Lorena's
+其他西餐,Apero & Bistro Pastis
+其他西餐,Park Restaurant
+其他西餐,Bistro De Schaar
+其他西餐,Guillaume
+其他西餐,Sint Amandje
+其他西餐,De Witte Raaf
+其他西餐,Buba Den Gouden Karpe
+其他西餐,Bittersweet
+其他西餐,Bien Soigne
+其他西餐,Gingerbread Tea-Room
+其他西餐,Clerckies
+其他西餐,Burg 9
+其他西餐,Panos
+其他西餐,Celtic
+其他西餐,Diligence
+其他西餐,Brasserie Raymond
+其他西餐,In Den Wittenkop
+其他西餐,De Gouden Kroes
+其他西餐,Quatre Mains
+其他西餐,Au Petit Grand
+其他西餐,Assiette Blanche
+其他西餐,Passion For Food
+其他西餐,'t Brugs Pitahuis
+其他西餐,Le Mystique - Relais & Chateaux
+其他西餐,Celtica
+其他西餐,Sint-Barbe
+其他西餐,pro Deo
+其他西餐,'t jong Gerecht
+其他西餐,'t Gezelleke
+其他西餐,Oud Handbogenhof
+其他西餐,Brasserie Dampierre
+其他西餐,'t Apertje
+其他西餐,Grilladin
+其他西餐,Friterie 1900
+其他西餐,Tom Pouce
+其他西餐,Chez Vincent
+其他西餐,Le Manoir Quatre Saisons
+其他西餐,Lichtschip Mayflower
+其他西餐,T Brugsch Friethuys Brugges
+其他西餐,De Bekoring
+其他西餐,Table Folle
+其他西餐,Brasserie Polshoogte
+其他西餐,Flemish Stew House
+其他西餐,De Postiljon
+其他西餐,De Zandloper
+其他西餐,'T Pallieterke
+其他西餐,Christophe
+其他西餐,Cafe 't Zand
+其他西餐,L-Brasserie
+其他西餐,Gran Kaffee de Passage
+其他西餐,Venice
+其他西餐,Matin Midi
+其他西餐,Restaurant-Bistro De Twijfelaar
+其他西餐,Poules Moules
+其他西餐,HEMA Brugge
+其他西餐,De Koetse
+其他西餐,Den Dyver
+其他西餐,'T Pandreitje
+其他西餐,De Bierbistro
+其他西餐,Cafe de Gilde
+其他西餐,Casa Patata
+其他西餐,Petit Maxim
+其他西餐,Visscherie
+其他西餐,Humpty Dumpty
+其他西餐,Pergola Restaurant
+其他西餐,Delaney's Irish Pub & Restaurant
+其他西餐,Sint Joris
+其他西餐,Het Dagelijks Brood
+其他西餐,Charlie Rockets
+其他西餐,Ryad
+其他西餐,El Greco
+其他西餐,Dell Arte
+其他西餐,Le Greco
+其他西餐,PortoRomano
+其他西餐,Balls & Glory
+其他西餐,De Bottelier
+其他西餐,Jan Van Eyck
+其他西餐,Delisa 'Delisa & Saveurs'
+其他西餐,Jus et Tartine
+其他西餐,The Cosy Bistro
+其他西餐,Royal Frituur Veggie Eetboetiek
+其他西餐,Cafe Vlissinghe
+其他西餐,La Buena Vista
+其他西餐,Gasthof De Kroon
+其他西餐,Bistro Tableau
+其他西餐,De Herborist (Auberge)
+其他西餐,Marieke van Brugghe
+其他西餐,Sweet Home Lunch
+其他西餐,Phare de Vie
+其他西餐,den entree principale
+其他西餐,Den Hovenier
+其他西餐,Brasserie Fort Van Beieren
+其他西餐,Resto-Bistro-Loungebar B-In
+其他西餐,De Barge
+其他西餐,Waffles and Sandwiches
+其他西餐,CHARLES QUINT
+其他西餐,Bistro Lily Frituur
+其他西餐,'t Begijntje
+其他西餐,Chips and Ice
+其他西餐,De Gulden Spoor
+其他西餐,Hotel de Castillon
+其他西餐,'t Schrijverke
+其他西餐,Erasmus
+其他西餐,Riva Del Sole
+其他西餐,Caramel
+其他西餐,Bistro de Pompe
+其他西餐,'t Eetablissement
+其他西餐,'t Vagevuur
+其他西餐,Pasta Presto
+其他西餐,Brasserie Medard
+其他西餐,Beethoven Restaurant
+其他西餐,Manuscript
+其他西餐,Craenenburg
+其他西餐,Huyze Die Maene
+其他西餐,De Vier Winden
+其他西餐,Diligence
+其他西餐,Hof van Rembrandt
+其他西餐,'t Voske Malpertuus
+其他西餐,Frituur Memlinc
+其他西餐,Brugge Kiekske
+其他西餐,Refter
+其他西餐,De Republiek
+其他西餐,Sol y Sombra Tapasbar
+其他西餐,Bistro Du Phare
+其他西餐,De Grilloir
+其他西餐,De Poulin
+其他西餐,Taco
+其他西餐,Het andere idee
+其他西餐,Vossesteert
+其他西餐,Hotel du Singe d'Or
+其他西餐,Cafe Centrale
+其他西餐,FNAC
+其他西餐,'t Nieuw Walnutje
+其他西餐,Boudewijn I
+其他西餐,La Source
+其他西餐,Patisserie Buhne
+其他西餐,Brasserie Laurent
+其他西餐,Le Bistro Bon Vivant
+其他西餐,Matinee Restaurant
+其他西餐,'t Traptje
+其他西餐,La Romagna
+其他西餐,Het Strijdershuis
+其他西餐,Vistro & Mosselkelder
+其他西餐,Sweet Brugge
+其他西餐,Tante Marie
+其他西餐,Old Bruges
+其他西餐,Kwizien Divien
+其他西餐,Eethuis Aubergine
+其他西餐,De Bourgondier
+其他西餐,Quick
+其他西餐,De Beurze
+其他西餐,Cafe Francais
+其他西餐,Don Quixote
+其他西餐,TER HALLE
+其他西餐,De Torre
+其他西餐,Uilenspiegel
+其他西餐,Studiohall
+其他西餐,De Waterweelde
+其他西餐,Brouwerij de Halve Maan
+其他西餐,Crock Cafe
+其他西餐,Waterman
+中餐,Shanghai Brugge
+中餐,Gouden Rivier
+日韩料理,Kanikama suchi and noodle bar
+日韩料理,Restaurant Sumo
+日韩料理,Tanuki
+更多亚洲菜,Zam Zam TGandoori Grill
+更多亚洲菜,China
+更多亚洲菜,Halal Kebab and Snacks
+更多亚洲菜,Sivalai Thai Restaurant
+更多亚洲菜,Chang Thong Thai
+更多亚洲菜,Bangkok Delicious
+更多亚洲菜,Toetanchamon
+更多亚洲菜,Nieuw Monnikenwerve
+更多亚洲菜,"Brasserie De Carre,"
+更多亚洲菜,De Stoepa
+更多亚洲菜,Grillhuisje
+更多亚洲菜,Pita Huis
+更多亚洲菜,Koto
+更多亚洲菜,Shalimar Indisch Restaurant
+更多亚洲菜,Bhavani Indian Restaurant
+更多亚洲菜,De Lange Muur
+更多亚洲菜,Nakhon Thai
+更多亚洲菜,Narai Thai
+更多亚洲菜,Indian Tandoori
+更多亚洲菜,Belfort
+快餐简餐,D's
+快餐简餐,"Moeder babelutte confiserie, Bruges, Belgium"
+快餐简餐,Het Visioen
+快餐简餐,Li O Lait
+快餐简餐,Sanseveria
+快餐简餐,Bean around the World
+快餐简餐,Subway
+海鲜,Den Gouden Karpel
+海鲜,Petite Aneth
+海鲜,Le Panier d'Or
+烧烤,In't Nieuw Museum
+烧烤,Restaurant De Wijngaert
+烧烤,El Churrasco
+烧烤,Ribs 'n Beer
+烧烤,Mister Grill & Buffet's
+烧烤,Restaurant Grill de Hobbit
+比萨,Pita Pizza Oostkamp
+比萨,Pizza Hut
+比萨,Pizzahut simon stevenplein Brugge
+咖啡厅,Marie's House
+咖啡厅,Groot Vlaenderen
+咖啡厅,I Love Coffee or Espressobar
+咖啡厅,Cafe Au Lait
+咖啡厅,De Pitaleir
+咖啡厅,'t oost
+咖啡厅,Tea-room De Proeverie
+咖啡厅,Books & Brunch
+咖啡厅,Den Amand
+咖啡厅,Sorbetiere De Medici
+咖啡厅,The Mix
+咖啡厅,Belle Epoque
+咖啡厅,Bistro Marco Brugge
+咖啡厅,L'Estaminet
+咖啡厅,Sale et Sucre
+咖啡厅,Bruges Chicken House
+咖啡厅,Cappuccino
+咖啡厅,EET cafe
+咖啡厅,Manna & Co
+咖啡厅,La Baguette
+咖啡厅,Cafedraal
+咖啡厅,Simon Dumon
+咖啡厅,Koffie Brazila a Brugge
+咖啡厅,Knokke-Out Cafe
+咖啡厅,Meridian 3
+面包甜点,Commeine-Leenders Koen Ann
+面包甜点,The Chocolate Kiss
+面包甜点,Patisserie Academie
+面包甜点,De Lange Bakker
+面包甜点,Gelateria Da Vinci
+面包甜点,Le Pain Quotidien
+面包甜点,Prestige Patisserie
+面包甜点,Patisserie Servaas Van Mullem
+面包甜点,Dumon Artisanale Chocolatier
+面包甜点,St. Salvator Patisserie & Tearoom
+面包甜点,Laurenzio
+酒吧,De Halve Maan
+酒吧,T' Brugsch Bieratelier
+酒吧,Cuvee
+酒吧,De Kleine Nachtmuziek
+酒吧,Bar Des Amis
+酒吧,Belgian Beer Pub Don Quichotte
+酒吧,'t Opkikkertje
+酒吧,Bruut
+酒吧,The Vintage
+酒吧,Lokkedize
+酒吧,De Hollandse Vismijn
+酒吧,Staminee De Garre
+酒吧,Cafe Rose Red
+酒吧,Herberg Vlissinghe
+酒吧,Rail City
+酒吧,Pietje Pek
+酒吧,Ma Rica Rokk
+酒吧,Pili Pili
+酒吧,Brasserie Punta Est
+酒吧,'t Voutje
+酒吧,La Civiere D'Or
+更多美食,Cafe des Arts
+更多美食,'t Huidevettershuis
+更多美食,Gruuthuse Hof
+更多美食,Cornee
+更多美食,Bistro Kok au Vin
+更多美食,Restaurant Sixties
+更多美食,Breydel-De Coninck
+更多美食,BellyS Bar-Choc Espressobar
+更多美食,Chocolaterie Sukerbuyc
+更多美食,Galler Chocolatier Brugge
+更多美食,Confiserie Zucchero
+更多美食,Bauhaus
+更多美食,Dukes' Palace
+更多美食,Carlito's Restaurant
+更多美食,The Old Chocolate Housse
+更多美食,De Bron
+更多美食,Tonka
+更多美食,Hollywood
+更多美食,Miss Ellie
+更多美食,Le Chef Et Moi
+更多美食,de Buhne
+更多美食,Hemelrycke
+更多美食,Simon Stevin
+更多美食,Restaurant Couvert
+更多美食,'t Fonteintie
+更多美食,de Mangerie
+更多美食,'t Brugs Beertje
+更多美食,The Habit
+更多美食,Relais Bourgondisch Cruyce Restaurant
+更多美食,Cookie's
+更多美食,The Chocolate Crown
+更多美食,Chicken Inn
+更多美食,Calis
+更多美食,Brazila Koffiebranderij
+更多美食,Baobab
+更多美食,De Pepermolen
+更多美食,Rock Fort
+更多美食,Le Petit Patron
+更多美食,Bistro Den Huzaar
+更多美食,'t Zwart Huis
+更多美食,'T Verdriet Van Belgie
+更多美食,De Florentijnen
+更多美食,Comptoir Des Arts
+更多美食,Celebrations Entertainment
+更多美食,Pieter Pourbus
+更多美食,Bistro Terrastje
+更多美食,Saigon
+更多美食,De Windmolen
+更多美食,Laissez-Faire
+更多美食,Route des Epices
+更多美食,HERTOG JAN
+更多美食,De Tijl
+更多美食,de jonkman
+更多美食,Passeviet
+更多美食,Tete Pressee
+更多美食,Lilaloe Brasserie
+更多美食,Maximiliaan Van Oostenrijk
+更多美食,'t Oud Kanthuys
+更多美食,Rang
+更多美食,Huisbrouwerij De Halve Maan
+更多美食,De Zevende Hemel
+更多美食,B.IN
+更多美食,'t Zand 27
+更多美食,Van Eyck
+更多美食,O'teur
+更多美食,'T Eekhoetje
+更多美食,Brasserie taverne Rozenhoedkaai
+更多美食,Duc De Bourgogne
+更多美食,De Belegde Boterham
+更多美食,Le Bistrot
+更多美食,Sint-Amandskelder
+更多美食,Oud Brugge
+更多美食,Breidel
+更多美食,Ganzespel
+更多美食,De Fonduetafel
+更多美食,Brasserie Meml I NC
+更多美食,Verdi
+更多美食,De Karmeliet
+更多美食,Lotus
+更多美食,Brasserie Souffleur
+更多美食,Kurt's Pan
+更多美食,vegetarian restaurant ZEN
+更多美食,Brasserie Forestiere
+更多美食,Sans Cravate
+更多美食,Opus Latino
+更多美食,Craenenburg
+更多美食,Etna
+更多美食,'t Minnewater
+更多美食,La Dentelliere
+更多美食,'T Putje
+更多美食,Maria van Bourgondie
+更多美食,De Londres
+更多美食,'T Silversant
+更多美食,'t Fonteintje
+更多美食,Hotel Bourgoensch-Hof Bistro-Bar
+更多美食,'T Dreveken
+更多美食,De Mosselkelder
+更多美食,Chagall
+更多美食,Chi Chi's
+更多美食,Dingen en Koffie
+更多美食,Cafe Pick
+更多美食,Cedrus
+更多美食,Brasserie De Tijd
+更多美食,La Belle Vue
+更多美食,De Foyer
+更多美食,Petite Maison
+更多美食,Primavera Private Dining
+更多美食,Graaf van Vlaanderen
+更多美食,Singe D'Or
+更多美食,Eetcafé De Vuyst
+更多美食,Yellow Bistro
+更多美食,Tea Room Haagen-Dazs
+更多美食,Mozarthuys
+更多美食,Carillon
+更多美食,Le Grand Cafe Belfort
+更多美食,De Carre
+更多美食,La Taverne Brugeoise
+更多美食,Hotel-Restaurant Central / Sirene D'Or
+更多美食,DE VERSTEENDE NACHT
+更多美食,Frituur 't Bootje
+更多美食,La Zizzi
+更多美食,Spinola
+更多美食,Creperie De Bretoen
+更多美食,De Kantine
+更多美食,D'Hoeve

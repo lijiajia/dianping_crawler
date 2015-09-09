@@ -1,0 +1,57 @@
+西餐,strawberry fare,strawberry fare,183,基督城市中心,8.0,8.3,7.4
+西餐,Lone Star,Lone Star,0,,7.4,7.4,7.3
+西餐,Nando's,Nando's,0,,7.2,6.8,6.8
+西餐,The Running Bull,The Running Bull,0,基督城市中心,7.7,7.7,7.7
+西餐,Argee Bhajee Indian Restaurant,Argee Bhajee Indian Restaurant,0,基督城其他,0.0,0.0,0.0
+西餐,Kohan Restaurant 湖畔,Kohan Restaurant 湖畔,0,,0.0,0.0,0.0
+西餐,Curry Time Indian Restaurant,Curry Time Indian Restaurant,0,雷德伍德,0.0,0.0,0.0
+西餐,Dimitris Greek Food,Dimitris Greek Food,0,基督城其他,0.0,0.0,0.0
+西餐,Coriander's InDian ResTaurAnt,Coriander's InDian ResTaurAnt,0,,0.0,0.0,0.0
+川菜,鄉约小馆,鄉约小馆,0,,0.0,0.0,0.0
+中餐厅,统一茶餐厅,统一茶餐厅,0,基督城其他,7.7,7.5,7.6
+中餐厅,长城饭庄,长城饭庄,0,基督城市中心,7.6,7.6,7.6
+中餐厅,潮州餐馆,潮州餐馆,0,,7.3,6.9,7.2
+中餐厅,老地方中餐,老地方中餐,0,基督城其他,7.5,7.5,7.3
+中餐厅,Noodle,Noodle,0,,7.7,7.7,7.7
+东南亚菜,Kohan Restaurant 湖畔,Kohan Restaurant 湖畔,0,,0.0,0.0,0.0
+东南亚菜,Hoon Hay泰国餐厅,Hoon Hay泰国餐厅,0,基督城市中心,0.0,0.0,0.0
+东南亚菜,Myhanh Vietnamese Restaurant,Myhanh Vietnamese Restaurant,0,卡顿,0.0,0.0,0.0
+东南亚菜,Myhanh Vietnamese Restaurant,Myhanh Vietnamese Restaurant,0,卡顿,0.0,0.0,0.0
+东南亚菜,Hoon Hay Thai Restaurant,Hoon Hay Thai Restaurant,0,基督城其他,0.0,0.0,0.0
+东南亚菜,Mayur Indian Restaurant,Mayur Indian Restaurant,0,基督城市中心,0.0,0.0,0.0
+东南亚菜,Coriander's InDian ResTaurAnt,Coriander's InDian ResTaurAnt,0,,0.0,0.0,0.0
+海鲜,BBQ,BBQ,0,基督城市中心,0.0,0.0,0.0
+日韩料理,Korean House,Korean House,0,基督城市中心,0.0,0.0,0.0
+咖啡厅,Number Eight,Number Eight,0,,7.2,7.2,7.2
+咖啡厅,Espresso to go,Espresso to go,0,,7.2,7.2,7.2
+咖啡厅,Cosy Cafe,Cosy Cafe,0,,0.0,0.0,0.0
+酒吧,Buddha Stix Restaurant Bar,Buddha Stix Restaurant Bar,0,基督城其他,7.2,7.2,7.2
+酒吧,Bush Inn Tavern,Bush Inn Tavern,0,基督城其他,7.7,7.2,7.2
+酒吧,CiBurb Bar,CiBurb Bar,0,,0.0,0.0,0.0
+酒吧,Darkroom Bar,Darkroom Bar,0,基督城市中心,0.0,0.0,0.0
+酒吧,Monteiths Brewery Bar,Monteiths Brewery Bar,0,基督城其他,0.0,0.0,0.0
+酒吧,Revival Bar,Revival Bar,0,,0.0,0.0,0.0
+酒吧,Last Train To India,Last Train To India,0,基督城市中心,0.0,0.0,0.0
+酒吧,Sandridge Motel - Christchurch,Sandridge Motel - Christchurch,0,,0.0,0.0,0.0
+面包甜点,"Japan's Bakery, Japanpan (Yamada Bakery)","Japan's Bakery, Japanpan (Yamada Bakery)",0,基督城市中心,7.2,7.2,7.5
+面包甜点,Wishbone,Wishbone,0,,7.2,7.2,7.2
+面包甜点,The Catering Belle Ltd,The Catering Belle Ltd,0,基督城其他,0.0,0.0,0.0
+面包甜点,La CourOnne,La CourOnne,0,贝尔法斯特/诺斯伍德,0.0,0.0,0.0
+快餐,Botanic Gardens Cafe,Botanic Gardens Cafe,0,,8.1,8.1,8.1
+快餐,Nando's,Nando's,0,,7.2,6.8,6.8
+快餐,Gloria Jeans Coffees,Gloria Jeans Coffees,0,基督城其他,7.1,7.1,7.1
+快餐,McDonald's - Riccarton Road,McDonald's - Riccarton Road,0,基督城其他,0.0,0.0,0.0
+快餐,The Lotus-Heart Cafe,The Lotus-Heart Cafe,0,基督城市中心,0.0,0.0,0.0
+快餐,The Coffee Smiths,The Coffee Smiths,0,基督城市中心,0.0,0.0,0.0
+快餐,Black Betty Cafe,Black Betty Cafe,0,基督城市中心,0.0,0.0,0.0
+快餐,鄉约小馆,鄉约小馆,0,,0.0,0.0,0.0
+快餐,Tasty Tucker Lunch Bar,Tasty Tucker Lunch Bar,0,基督城市中心,0.0,0.0,0.0
+快餐,Circa Coffee & Wares,Circa Coffee & Wares,0,基督城市中心,0.0,0.0,0.0
+快餐,The Coffee Club,The Coffee Club,0,,0.0,0.0,0.0
+快餐,The Make Cafe,The Make Cafe,0,基督城其他,0.0,0.0,0.0
+快餐,Wild Bean Cafe,Wild Bean Cafe,0,基督城市中心,0.0,0.0,0.0
+快餐,Coffee Culture,Coffee Culture,0,雷德伍德,0.0,0.0,0.0
+快餐,Cafe Euro by David Carrodus,Cafe Euro by David Carrodus,0,基督城其他,0.0,0.0,0.0
+快餐,Fo Guang Shan Water Drop Cafe,Fo Guang Shan Water Drop Cafe,0,基督城其他,0.0,0.0,0.0
+快餐,Vanilla Bean Cafe,Vanilla Bean Cafe,0,基督城其他,0.0,0.0,0.0
+比萨,Sasha's Pizza,Sasha's Pizza,0,基督城市中心,0.0,0.0,0.0

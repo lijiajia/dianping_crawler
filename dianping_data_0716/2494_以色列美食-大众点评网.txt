@@ -1,0 +1,237 @@
+法国菜,La Rotisserie
+其他西餐,Marrakesh
+其他西餐,Delicatessen
+日韩料理,Kyoto
+日韩料理,Osaka
+日韩料理,Osaka
+更多亚洲菜,Thai House
+快餐简餐,MacDonalds
+快餐简餐,McDonald's
+快餐简餐,McDonald's
+快餐简餐,El Rancho
+快餐简餐,Spoons
+快餐简餐,Tomato
+快餐简餐,台州市黄岩金太子餐饮有限公司
+海鲜,hayamhasini东海
+海鲜,Casa Barone Restaurant
+烧烤,Buckaroo Bbq Joint
+比萨,Big Apple Pizza
+比萨,Phillippe French Pizza
+比萨,Pizza Tonino
+比萨,Pizza Roma
+比萨,Napolitan Pizza Pips
+比萨,Bruno Casa Della Pizza
+比萨,Zota Pizza
+比萨,Pizza Fino
+比萨,Pizza Meter
+比萨,Domino's Pizza
+比萨,Big Apple Pizza
+比萨,Beta Pizza
+比萨,Topolino Pizza
+比萨,Pizza Domino Frishman
+比萨,Jacob's Pizza
+比萨,Mike's Pizza Place
+比萨,Domino's Pizza
+咖啡厅,Cafe Greg
+咖啡厅,Landwer Cafe Tel Aviv
+咖啡厅,Cafe Xoho
+咖啡厅,Cafe Italia
+咖啡厅,Shem Tov Cafe
+咖啡厅,The Green Falafel
+咖啡厅,Fresh kitchen
+咖啡厅,Betta Cafe
+咖啡厅,Cafe Greg
+咖啡厅,Jeremiah Cafe
+咖啡厅,Klein's Cafe
+咖啡厅,Cafe Kapish
+咖啡厅,Mamilla Cafe
+咖啡厅,Cafe Greg
+咖啡厅,Cafe Mizrakhi
+咖啡厅,Tal Bagels
+咖啡厅,Coffee Bean Cafe
+咖啡厅,Cafe Dalia
+咖啡厅,Link Cafe Bar
+咖啡厅,Cafe Suzanna
+咖啡厅,Cafe Rimon
+咖啡厅,Cafe Nimrod
+咖啡厅,Cafe London
+咖啡厅,Aroma Cafe
+咖啡厅,Tal Shanil coffee house
+咖啡厅,Cafe Clementine
+咖啡厅,Cafe Shani
+咖啡厅,Cafe Aroma
+咖啡厅,cafecafe
+咖啡厅,Shraga Caf'e
+咖啡厅,Khanili Restaurant and Cafe
+咖啡厅,Cafe Alma
+咖啡厅,Cafe Toscana
+咖啡厅,Basma Coffee
+咖啡厅,Cafe Neto
+咖啡厅,Cafe Bagina
+咖啡厅,The Coffee Bean and Tea Leaf
+咖啡厅,Cafe Casbah
+咖啡厅,Morgens Cafe Jerusalem
+咖啡厅,Landwer Cafe
+咖啡厅,Cafe Bordo
+咖啡厅,Cafe Louise
+咖啡厅,Cafe HaBank
+咖啡厅,Cafe Optimi
+咖啡厅,Notre Dame Hotel cafe restaurante
+咖啡厅,The Quarter Cafe
+咖啡厅,Hanadiv Restaurant and Coffee Shop
+咖啡厅,Cafe Europa
+咖啡厅,Anita Cafe 
+咖啡厅,Cafe Nona Tel-Aviv
+咖啡厅,Port Cafe
+咖啡厅,"Cafe Esperansa, Jerusalem"
+咖啡厅,Cafe Tachtit
+咖啡厅,Lulu - Cafe Patisserie
+咖啡厅,cafe cafe
+咖啡厅,Cafe Ba Horesh
+咖啡厅,Village Green
+咖啡厅,Cafe Cafe
+咖啡厅,Paradiso Cafe Restaurant
+咖啡厅,Cafe' cafe' Mamila
+咖啡厅,Nadi Cafe
+咖啡厅,Cafe Shosh
+咖啡厅,The Coffee Mill
+咖啡厅,Cafe De Paris
+咖啡厅,Cafe de Masa
+咖啡厅,Comme il faut cafe
+咖啡厅,Cafe Lou
+咖啡厅,Roladin Coffee Shop and Cafe
+咖啡厅,Zorik cafe
+咖啡厅,Cafe Birnbaum
+咖啡厅,Cafe Neto
+咖啡厅,Cafe Hillel Ramat Aviv
+咖啡厅,Cafe' Mersand
+咖啡厅,Cafe marco
+咖啡厅,Birenboim Cafe
+咖啡厅,Cafe Henrietta
+咖啡厅,Cafe sequella King George
+咖啡厅,Cafe 96
+咖啡厅,Kai Fresh Sushi
+咖啡厅,Grand Cafe
+咖啡厅,Cafe Batya
+咖啡厅,"The Scotsman, Resto, Bar, Cafe"
+咖啡厅,Jam Jazz Cafe Restaurant and Club
+咖啡厅,Cafe Messadah
+咖啡厅,you need coffee
+咖啡厅,Cafe Cassis
+咖啡厅,Cafe 48
+咖啡厅,Cafe Noir
+咖啡厅,Coffee Bar
+咖啡厅,Cafe Kilimanjaro
+咖啡厅,Art Cafe
+咖啡厅,Cafe Metzada
+咖啡厅,Cafe Yafo
+咖啡厅,Cafe Kaymak
+咖啡厅,Cafe Michal
+咖啡厅,Amelia Cafe Bistro
+咖啡厅,Landver Cafe
+咖啡厅,Bialik Bar Cafe
+咖啡厅,Village Green
+咖啡厅,Cafe Cafe
+咖啡厅,Roladin Bakery and Cafe
+咖啡厅,Holybagel Cafe
+咖啡厅,Cafe 9-Beach
+咖啡厅,Cafe Greg
+咖啡厅,Hanadi Restaurant and Cafe
+咖啡厅,Cafe Cafe
+咖啡厅,Leonardo Cafe Restaurant
+咖啡厅,Cafe Greg
+面包甜点,Artisan Bakery of Safed
+面包甜点,Nola American Bakery
+面包甜点,Bleeker Bakery
+面包甜点,Cinnabon
+面包甜点,Bleecker Bakery
+面包甜点,cacao
+酒吧,Sakura
+酒吧,Jessica Restro Bar
+酒吧,Sushi Bar Bazel
+酒吧,Tapeo Restaurant and Tapas Bar
+酒吧,Jasper Bar
+酒吧,Evelyn Bar
+酒吧,Wine Bar 107
+酒吧,bordel bar
+酒吧,Mercury Pub
+酒吧,Bar Guryon
+酒吧,Sangria Tapas Bar
+酒吧,Espresso Bar Bialik
+酒吧,Sinta Bar
+酒吧,YOKO Sushi Bar
+酒吧,Burgus Burger Bar
+酒吧,Meat Bar Restaurant
+酒吧,Focaccia Bar
+酒吧,Waffle bar
+酒吧,The Salon
+酒吧,Molly Bloom's Irish Pub
+酒吧,Nana Bar
+酒吧,Burgers Bar
+酒吧,Shenkin Bar
+酒吧,Tuvya pub
+酒吧,Bugsy Bistro Bar
+酒吧,Tanami Humus Bar
+酒吧,Longa - espresso bar
+酒吧,Ginger Asian Kitchen and Bar
+酒吧,Bin Bar
+酒吧,"Papito Bar Restaurant, Tel Aviv"
+酒吧,The Melting Point Resto Bar Israel
+酒吧,Gazzetta wine bar
+酒吧,Z'abutinski Bar
+酒吧,BBB Burgos Burger Bar
+酒吧,Arburger Bar
+酒吧,Waffle Bar Givat Shaul
+酒吧,LGB - La Guardia Grill Bar
+酒吧,Cookies Cream Bar
+酒吧,Waffle Bar
+酒吧,Beach Bar
+酒吧,Yam Bar
+酒吧,Liv
+酒吧,Pastaria Pasta Bar
+酒吧,Rutina Bar
+酒吧,9Bar
+酒吧,Rodeo Pub
+酒吧,LiBira Brewery Pub
+酒吧,Red Burger Bar
+酒吧,Putin Pub
+酒吧,Inga Bar
+酒吧,Murphy's Pub
+酒吧,Burgers Bar - PIsgat Zeev
+酒吧,El Marsa Bistro Bar
+酒吧,Jahnun Bar
+酒吧,derby bar dagim port tlv
+酒吧,The Temple Bar
+酒吧,Sasson bar
+酒吧,Grill Bar
+酒吧,Speedo Bar (Restaurant)
+酒吧,Pacific Bistro and Sushi Bar
+酒吧,Tamara Juice Bar
+酒吧,Gaya Bistro Bar
+酒吧,Social Club - Modern Bistro
+酒吧,Carpaccio Bar
+酒吧,Isabela bar
+酒吧,The Bear Pub
+酒吧,Black Bar 'n' Burger
+酒吧,Black Bar 'n' Burger
+酒吧,Toma bar
+酒吧,Rubi Bar
+酒吧,Smilansky Tapas Bar
+酒吧,Hametzuda - Sushi Bar
+酒吧,Ocean Bar
+酒吧,Rosti Grill Bar
+酒吧,Tangier Bar
+酒吧,Bar Kayma
+酒吧,Mescal Tequila Bar and Restaurant
+酒吧,Derbi Bar
+酒吧,Black Bar 'n' Burger
+酒吧,Max Brenner Chocolate Bar
+酒吧,Wine Bar
+酒吧,Espresso Bar
+酒吧,River Noodles Bar
+酒吧,Ozen Bar
+酒吧,Tanami Humus Bar
+酒吧,Mash Pub
+更多美食,Meat In and Out
+更多美食,Casa do brasil
+更多美食,Ein Camonim

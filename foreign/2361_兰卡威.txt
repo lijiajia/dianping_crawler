@@ -1,0 +1,104 @@
+川菜,灯笼海鲜餐厅,灯笼海鲜餐厅,106,班底登加,7.2,7.2,7.2
+东南亚菜,番茄Nasi Kandar印度料理,番茄Nasi Kandar印度料理,0,瓜镇,6.8,6.3,6.5
+东南亚菜,香榭东南亚风味料理,香榭东南亚风味料理,0,瓜镇,7.7,7.7,7.7
+东南亚菜,Aliah Seafood ResTaurAnt,Aliah Seafood ResTaurAnt,0,,8.1,6.6,7.4
+东南亚菜,Breakfast Station,Breakfast Station,0,,6.7,6.8,6.8
+东南亚菜,兰卡威集市周日餐厅,兰卡威集市周日餐厅,0,,6.9,6.9,6.9
+东南亚菜,HJ Ramli,HJ Ramli,0,兰卡威其他,6.9,6.7,7.0
+东南亚菜,泰妈妈泰国家乡菜中华料理,泰妈妈泰国家乡菜中华料理,0,,6.9,6.9,6.9
+东南亚菜,Holiday Villa,Holiday Villa,0,庞太切南,6.9,6.7,6.9
+东南亚菜,Restoran Kampung Siam Langkawi,Restoran Kampung Siam Langkawi,0,庞太切南,6.9,6.7,6.7
+东南亚菜,万泰泰国餐厅,万泰泰国餐厅,0,瓜镇,0.0,0.0,0.0
+东南亚菜,Rasa,Rasa,0,兰卡威其他,0.0,0.0,0.0
+东南亚菜,Deng Long Seafood resTaurAnt Sdn Bhd,Deng Long Seafood resTaurAnt Sdn Bhd,0,,0.0,0.0,0.0
+海鲜,真浪花园海鲜餐馆,真浪花园海鲜餐馆,161,庞太切南,8.4,7.7,7.8
+海鲜,真浪大家乐海鲜餐馆,真浪大家乐海鲜餐馆,128,Mukim Kedawang,9.3,8.6,9.2
+海鲜,卓峰海鲜餐厅,卓峰海鲜餐厅,129,班底登加,8.3,8.3,8.1
+海鲜,真浪大家乐海鲜餐馆,真浪大家乐海鲜餐馆,0,,8.8,8.2,8.6
+海鲜,灯笼海鲜餐厅,灯笼海鲜餐厅,106,班底登加,7.2,7.2,7.2
+海鲜,船海鲜,船海鲜,0,兰卡威其他,8.1,7.5,8.1
+海鲜,中华楼,中华楼,0,兰卡威其他,8.2,7.5,8.2
+海鲜,荣隆海鲜,荣隆海鲜,0,,7.6,7.8,8.1
+海鲜,欢乐天饮食中心,欢乐天饮食中心,0,,7.1,6.9,7.5
+海鲜,椰林中华料理,椰林中华料理,0,,6.6,6.5,6.6
+海鲜,强师傅海鲜,强师傅海鲜,0,,7.4,7.4,7.9
+海鲜,复古海滨餐厅,复古海滨餐厅,0,Mukim Kedawang,7.8,7.5,7.5
+海鲜,椰林中华料理,椰林中华料理,0,庞太切南,7.4,7.0,7.2
+海鲜,美香海鲜饭店,美香海鲜饭店,0,,8.4,8.0,8.5
+海鲜,真浪花园海鲜,真浪花园海鲜,0,兰卡威其他,7.5,7.3,7.3
+海鲜,屋顶海鲜餐厅,屋顶海鲜餐厅,0,,8.1,7.4,8.1
+海鲜,Kitta Seafood ResTaurAnt,Kitta Seafood ResTaurAnt,0,,6.8,6.6,6.9
+海鲜,顺潮来中华料理,顺潮来中华料理,0,,7.0,6.3,6.3
+海鲜,中华楼海鲜餐厅,中华楼海鲜餐厅,0,,7.1,6.8,7.5
+海鲜,卓峰海鲜中餐厅,卓峰海鲜中餐厅,0,班底登加,8.1,8.1,8.1
+海鲜,暹罗村海鲜餐厅,暹罗村海鲜餐厅,0,兰卡威其他,6.7,6.7,7.1
+海鲜,Golden Wok Live Seafood Restaurant,Golden Wok Live Seafood Restaurant,0,兰卡威其他,7.7,7.7,7.7
+海鲜,露天海鲜餐厅,露天海鲜餐厅,0,瓜镇,8.3,7.4,7.4
+海鲜,真浪大家乐海鲜餐馆,真浪大家乐海鲜餐馆,0,兰卡威其他,8.1,8.1,8.1
+海鲜,珍味海鲜村,珍味海鲜村,0,,6.9,6.9,6.9
+海鲜,Mayhian Seafood ResTaurAnt,Mayhian Seafood ResTaurAnt(美香海鲜大饭店),0,班底登加,7.0,7.0,7.1
+海鲜,灯笼海鲜酒家,灯笼海鲜酒家,0,,8.4,8.4,8.4
+海鲜,Boat Seafood,Boat Seafood,0,,0.0,0.0,0.0
+海鲜,Rajawali Seafood Restaurant,Rajawali Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,欢乐天海鲜,欢乐天海鲜,0,瓜镇,0.0,0.0,0.0
+海鲜,Rootian Seafood Restaurant,Rootian Seafood Restaurant,0,,0.0,0.0,0.0
+东北菜,佬食旺肉骨茶,佬食旺肉骨茶,0,瓜镇,8.1,8.1,7.9
+中餐厅,卓峰海鲜餐厅,卓峰海鲜餐厅,129,班底登加,8.3,8.3,8.1
+中餐厅,兰卡威鱼市场,兰卡威鱼市场,0,兰卡威其他,7.0,7.0,7.0
+日韩料理,Unkaizan Japanese Restaurant,Unkaizan Japanese Restaurant,0,,8.0,7.5,8.1
+日韩料理,Mizumi Japanese Restaurant,Mizumi Japanese Restaurant,0,,0.0,0.0,0.0
+日韩料理,UNKAN,UNKAN,0,,0.0,0.0,0.0
+酒吧,Rhu Bar,Rhu Bar,0,,0.0,0.0,0.0
+酒吧,Royal Langkawi Yacht Club Captain's Deck Restauran,Royal Langkawi Yacht Club Captain's Deck Restauran,0,兰卡威其他,0.0,0.0,0.0
+小吃面食,兰卡威夜市,兰卡威夜市,0,瓜镇,8.0,6.8,7.0
+小吃面食,EE BurGe,EE BurGe,0,瓜镇,0.0,0.0,0.0
+西餐,红番茄餐厅,红番茄餐厅,79,兰卡威其他,7.3,7.0,6.6
+西餐,Artisans Pizza,Artisans Pizza,0,,7.7,7.6,7.6
+西餐,Teo Seafood Restaurant,Teo Seafood Restaurant,0,,7.9,7.5,7.4
+西餐,鹰海湾海鲜坊 Fish Farm Restaurant,鹰海湾海鲜坊 Fish Farm Restaurant,0,,8.0,8.5,7.9
+西餐,食之秘,食之秘,0,瓜镇,7.2,7.2,6.9
+西餐,Actisans Cafe Restaurant,Actisans Cafe Restaurant,0,兰卡威其他,7.0,6.7,7.0
+西餐,小墨西哥人餐厅,小墨西哥人餐厅,0,,7.5,8.0,8.0
+西餐,Nam Restaurant,Nam Restaurant,0,,7.0,7.0,7.0
+西餐,Domino 餐厅,Domino 餐厅,0,,7.4,6.9,7.3
+西餐,The pizza maker Langkawi,The pizza maker Langkawi,0,庞太切南,0.0,0.0,0.0
+西餐,Serai,Serai,0,丹戎禺,0.0,0.0,0.0
+西餐,Orkid Ria Seafood Restaurant,Orkid Ria Seafood Restaurant,0,,7.2,7.2,7.2
+西餐,Nala Island Restaurant,Nala Island Restaurant,0,兰卡威其他,0.0,0.0,0.0
+西餐,Mare Blu Italian Restaurant,Mare Blu Italian Restaurant,0,,0.0,0.0,0.0
+西餐,Niyom Thai Restaurant,Niyom Thai Restaurant,0,庞太切南,0.0,0.0,0.0
+西餐,Jai Restaurant,Jai Restaurant,0,,0.0,0.0,0.0
+西餐,Bamboo Beach Restaurant,Bamboo Beach Restaurant,0,兰卡威其他,0.0,0.0,0.0
+西餐,Spice Market Restaurant,Spice Market Restaurant,0,,0.0,0.0,0.0
+西餐,Lagenda Restaurant Langkawi,Lagenda Restaurant Langkawi,0,班底登加,0.0,0.0,0.0
+西餐,Arabic Restaurant Langkawi,Arabic Restaurant Langkawi,0,庞太切南,0.0,0.0,0.0
+西餐,Mentari Restaurant,Mentari Restaurant,0,兰卡威其他,0.0,0.0,0.0
+咖啡厅,旧街场白咖啡,旧街场白咖啡,0,兰卡威其他,7.5,7.9,7.4
+咖啡厅,ART IN CAFE,ART IN CAFE,0,Teluk Burau,8.4,8.4,8.4
+咖啡厅,Yellow cafe beach,Yellow cafe beach,0,,0.0,0.0,0.0
+咖啡厅,Yellow Cafe,Yellow Cafe,0,,7.2,7.2,7.2
+咖啡厅,The Green Elephant,The Green Elephant,0,,7.0,7.0,7.0
+咖啡厅,Bougainvillea Cafe,Bougainvillea Cafe,0,,7.0,7.0,7.0
+咖啡厅,D'khas cafe,D'khas cafe,0,,7.1,6.8,7.1
+咖啡厅,STARBUCKS,STARBUCKS,0,,0.0,0.0,0.0
+咖啡厅,Yellow cafe,Yellow cafe,0,,0.0,0.0,0.0
+咖啡厅,Teppanyaki Corner,Teppanyaki Corner,0,,0.0,0.0,0.0
+日本料理,Teppanyaki,Teppanyaki,0,,0.0,0.0,0.0
+面包甜点,The Loaf Bakery & Bistro,The Loaf Bakery & Bistro,34,,7.2,7.7,7.7
+面包甜点,The Loaf 面包馆,The Loaf 面包馆,0,兰卡威其他,6.7,6.7,6.7
+面包甜点,honeyzone bakery,honeyzone bakery,0,,0.0,0.0,0.0
+快餐,哈瑞小站Harrytrip.My,哈瑞小站Harrytrip.My,0,庞太切南,7.9,7.8,7.9
+快餐,KFC @ Telaga Harbour Park,KFC @ Telaga Harbour Park,0,,7.2,7.2,7.1
+快餐,Marry Brown,Marry Brown,0,瓜镇,8.0,7.5,7.5
+快餐,麦当劳,麦当劳,0,兰卡威其他,7.0,7.3,7.0
+快餐,麦当劳,麦当劳,0,兰卡威其他,8.1,8.1,8.1
+快餐,Lgk Yummy Yummy Seafood,Lgk Yummy Yummy Seafood,0,,6.9,6.9,6.9
+快餐,Bolaven Cafes Langkawi,Bolaven Cafes Langkawi,0,,0.0,0.0,0.0
+快餐,DLangkawi.Com,DLangkawi.Com,0,,0.0,0.0,0.0
+快餐,Alphabetic Internet,Alphabetic Internet,0,,0.0,0.0,0.0
+快餐,Telaga Cafe & Restaurant,Telaga Cafe & Restaurant,0,,0.0,0.0,0.0
+快餐,Lima Cafe,Lima Cafe,0,兰卡威其他,0.0,0.0,0.0
+快餐,Mcdonald's Langkawi,Mcdonald's Langkawi,0,,0.0,0.0,0.0
+牛排,Red Tomato,Red Tomato,0,兰卡威其他,0.0,0.0,0.0
+其他中餐,复古海滨餐厅,复古海滨餐厅,0,Mukim Kedawang,7.8,7.5,7.5
+其他中餐,兰卡威鱼市场,兰卡威鱼市场,0,兰卡威其他,7.0,7.0,7.0

@@ -1,0 +1,1109 @@
+意大利菜,Ristorante Bindella,Ristorante Bindella,0,1.市政厅-Hochschulen-林登霍夫城,8.2,8.2,8.2
+意大利菜,Bar Basso,Bar Basso,0,1.市政厅-Hochschulen-林登霍夫城,7.5,7.1,7.1
+意大利菜,Manzoni Bar,Manzoni Bar,0,1.市政厅-Hochschulen-林登霍夫城,6.7,7.4,7.4
+意大利菜,Piadina-Bar,Piadina-Bar,0,1.市政厅-Hochschulen-林登霍夫城,7.4,6.0,6.0
+意大利菜,La Stanza,La Stanza,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,7.4
+意大利菜,Spaghetti Factory,Spaghetti Factory,0,1.市政厅-Hochschulen-林登霍夫城,6.7,6.7,6.7
+意大利菜,il postino,il postino,0,其他,6.7,6.7,6.0
+意大利菜,Mamma Mia,Mamma Mia,0,11.阿福尔特恩-欧瑞康-泽巴赫,6.7,6.7,6.7
+意大利菜,Don Leone,Don Leone,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,7.4
+意大利菜,Santa Lucia Corso,Santa Lucia Corso,0,8.泽菲尔德姆尼布奇维尼格,6.7,6.7,6.7
+意大利菜,Cafe Nannini,Cafe Nannini,0,11.阿福尔特恩-欧瑞康-泽巴赫,6.7,6.7,6.7
+意大利菜,La Pasta,La Pasta,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Conti,Conti,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Casa Ferlin,Casa Ferlin,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Pulcino,Pulcino,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Contrapunto,Contrapunto,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Filini Restaurant,Filini Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Grottino 77,Grottino 77,0,其他,0.0,0.0,0.0
+意大利菜,Pizza Zuri,Pizza Zuri,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Libero,Pizzeria Libero,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+意大利菜,Cantinetta Antinori,Cantinetta Antinori,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Taverne da Angelo,Taverne da Angelo,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+意大利菜,Stapferstube da Rizzo,Stapferstube da Rizzo,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Marcellino Pane e Vino,Marcellino Pane e Vino,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+意大利菜,Zurichsee Gastro,Zurichsee Gastro,0,其他,0.0,0.0,0.0
+意大利菜,Scala,Scala,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Restaurant Miracle,Restaurant Miracle,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Ristorante toscano,Ristorante toscano,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Restaurant Corallo,Restaurant Corallo,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Giusi's Ristorante Pizzeria,Giusi's Ristorante Pizzeria,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Accademia del Gusto,Accademia del Gusto,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,La Contrada,La Contrada,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,Restaurant Gandria,Restaurant Gandria,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,da Michelangelo,da Michelangelo,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+意大利菜,Ristorante Toscano im Puls 5,Ristorante Toscano im Puls 5,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,La Grottina 85,La Grottina 85,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Topolino,Topolino,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Latino,Latino,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Bottega Berta,Bottega Berta,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+意大利菜,Il Ristorantino,Il Ristorantino,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,Restaurant La Forchetta,Restaurant La Forchetta,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+意大利菜,Il Ristorante La Zagra,Il Ristorante La Zagra,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Vallocaia,Ristorante Vallocaia,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Casa Da Nico,Casa Da Nico,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Mediterraneo,Mediterraneo,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Spagetti Factory,Spagetti Factory,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Pizzeria Molino,Pizzeria Molino,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Verona,Verona,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Jimmy's Pizzeria,Jimmy's Pizzeria,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Al Leone,Al Leone,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,San Domenico,San Domenico,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Certo,Certo,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Dal Nastro,Dal Nastro,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Restaurant Pergola,Restaurant Pergola,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Il Tartufo,Il Tartufo,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Napoli da Gerardo,Napoli da Gerardo,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Divini sapori zurigo,Divini sapori zurigo,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Amalfi,Amalfi,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Casa Nostrana,Casa Nostrana,0,其他,0.0,0.0,0.0
+意大利菜,Tessin Grotto,Tessin Grotto,0,其他,0.0,0.0,0.0
+意大利菜,Cacio & Pepe,Cacio & Pepe,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Die Bar im Seefeld,Die Bar im Seefeld,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Terassa,Terassa,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,Strozzi's,Strozzi's,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Frascati,Frascati,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Mellow-Restaurant,Mellow-Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Il Grappolo,Il Grappolo,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria La Rustica,Pizzeria La Rustica,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+意大利菜,Santa Lucia,Santa Lucia,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Il Golosone,Il Golosone,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,DIECI Restaurant Take Away Niederdorf,DIECI Restaurant Take Away Niederdorf,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Tre Cucine,Tre Cucine,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,L'Osteria Mamma Leone,L'Osteria Mamma Leone,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Globus Restaurant,Globus Restaurant,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Morgenstern Restaurant da Mario Caracuta,Morgenstern Restaurant da Mario Caracuta,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Chianalea,Chianalea,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Sternen Da Guido,Sternen Da Guido,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,L'altro,L'altro,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Gran Sasso,Gran Sasso,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Gruental,Gruental,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Da Pippo,Da Pippo,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,Brasserie Seefeld,Brasserie Seefeld,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Cucina e Libri,Cucina e Libri,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Commercio Bar & Ristorante,Commercio Bar & Ristorante,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Tschingg,Tschingg,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Concordia,Concordia,0,其他,0.0,0.0,0.0
+意大利菜,Antiquario da Marco,Antiquario da Marco,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+意大利菜,Ristorante Conti,Ristorante Conti,0,其他,0.0,0.0,0.0
+意大利菜,Restaurant Uto,Restaurant Uto,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Dieci Coccolo,Dieci Coccolo,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Pasta Station,Pasta Station,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Gian Grossi,Gian Grossi,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Pasteria di Lenardo,Pasteria di Lenardo,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Bistro Lochergut,Bistro Lochergut,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Buonappetito,Buonappetito,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Celia Pizzeria,Celia Pizzeria,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Ristorante La Baracca,Ristorante La Baracca,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Ristorante Italia,Ristorante Italia,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Ciro,Ciro,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,La Rosa Blu,La Rosa Blu,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Atrio,Atrio,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Milano,Milano,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Pizzeria Trattoria Da Michele,Pizzeria Trattoria Da Michele,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Mezzo,Mezzo,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Leonardo,Leonardo,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Restaurant BLUME,Restaurant BLUME,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Goldbrunnen Bar,Goldbrunnen Bar,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Bistro Bar Silba,Bistro Bar Silba,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Ristorante La Casa,Ristorante La Casa,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Pentagramma,Pentagramma,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,Riviera,Riviera,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,Rosso,Rosso,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,Da Giovanni,Da Giovanni,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,Chillies Restaurant & Takeaway,Chillies Restaurant & Takeaway,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,Pizzeria Antonio,Pizzeria Antonio,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,Caffe Bellavista,Caffe Bellavista,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Santa Lucia Teatro,Santa Lucia Teatro,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Ristorante Virtu,Ristorante Virtu,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+意大利菜,MediterRana,MediterRana,0,其他,0.0,0.0,0.0
+意大利菜,Restaurant 2. Akt,Restaurant 2. Akt,0,其他,0.0,0.0,0.0
+意大利菜,La Taverna X,La Taverna X,0,其他,0.0,0.0,0.0
+意大利菜,Cafe Jeunesse,Cafe Jeunesse,0,其他,0.0,0.0,0.0
+意大利菜,Il Pantheon,Il Pantheon,0,其他,0.0,0.0,0.0
+意大利菜,Ristorane Pizzeria Il Salento,Ristorane Pizzeria Il Salento,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria da Cono,Ristorante Pizzeria da Cono,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+意大利菜,Piccola Italia,Piccola Italia,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+意大利菜,Pizzeria Okay Italia,Pizzeria Okay Italia,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+意大利菜,Restaurant Cantina,Restaurant Cantina,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Little Italy No76 - The Osteria Italiana,Little Italy No76 - The Osteria Italiana,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,"Brunau-Park, Ciccio's Ristorante Bar Pizzeria","Brunau-Park, Ciccio's Ristorante Bar Pizzeria",0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+意大利菜,Cremamore,Cremamore,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Azzurro,Pizzeria Azzurro,0,其他,0.0,0.0,0.0
+意大利菜,azzurri,azzurri,0,其他,0.0,0.0,0.0
+意大利菜,Pizza Bonjour,Pizza Bonjour,0,其他,0.0,0.0,0.0
+意大利菜,Dieci Allo Zoo,Dieci Allo Zoo,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+意大利菜,Mauri's Ristorante La Rocca,Mauri's Ristorante La Rocca,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+意大利菜,Caffe Napoli Caredda,Caffe Napoli Caredda,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Ristorante le Scale,Ristorante le Scale,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+意大利菜,Villa Ducale Ristorante,Villa Ducale Ristorante,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+意大利菜,Ristorante Sorento,Ristorante Sorento,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+意大利菜,Trattoria & Soul,Trattoria & Soul,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+法国菜,Brasserie Lipp,Brasserie Lipp,0,1.市政厅-Hochschulen-林登霍夫城,8.3,8.3,8.3
+法国菜,Heugumper,Heugumper,0,1.市政厅-Hochschulen-林登霍夫城,8.2,8.2,8.2
+法国菜,Brasserie Louis,Brasserie Louis,0,1.市政厅-Hochschulen-林登霍夫城,8.2,7.4,6.7
+法国菜,Hummer & Austernbar Zurich,Hummer & Austernbar Zurich,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+法国菜,Mere Catherine,Mere Catherine,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+法国菜,Differente - Krone Unterstrass,Differente - Krone Unterstrass,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+法国菜,Restaurant Opera,Restaurant Opera,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+法国菜,Florhof,Florhof,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+法国菜,Restaurant Burgli,Restaurant Burgli,0,其他,0.0,0.0,0.0
+法国菜,Chez Marion Zurich,Chez Marion Zurich,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+法国菜,Restaurant La Soupiere,Restaurant La Soupiere,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+法国菜,Brasserie Schiller & Goethe Bar,Brasserie Schiller & Goethe Bar,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+法国菜,Witschi's Restaurant & Bar,Witschi's Restaurant & Bar,0,其他,0.0,0.0,0.0
+法国菜,Brasserie O,Brasserie O,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+法国菜,Kantorei,Kantorei,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+法国菜,Restaurant Weisses Rossli,Restaurant Weisses Rossli,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+法国菜,Le Rendez-vous,Le Rendez-vous,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+法国菜,Quaglinos,Quaglinos,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+法国菜,Brunegg,Brunegg,0,其他,0.0,0.0,0.0
+法国菜,"Franzos, Cafe-Bar-Bistro","Franzos, Cafe-Bar-Bistro",0,其他,0.0,0.0,0.0
+法国菜,vis-a-vis,vis-a-vis,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+法国菜,Du Theatre,Du Theatre,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+法国菜,Kaufleuten,Kaufleuten,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+法国菜,Cafe du Bonheur,Cafe du Bonheur,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+法国菜,Schutzenhaus Albisgutli,Schutzenhaus Albisgutli,0,其他,0.0,0.0,0.0
+法国菜,Chez Brigitte,Chez Brigitte,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+法国菜,Bistro Le Puy,Bistro Le Puy,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+法国菜,Bei Babette,Bei Babette,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+墨西哥菜,Tres Amigos,Tres Amigos,0,11.阿福尔特恩-欧瑞康-泽巴赫,7.4,6.0,6.7
+墨西哥菜,El Luchador,El Luchador,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+墨西哥菜,Tres Kilos,Tres Kilos,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+墨西哥菜,El Agave,El Agave,0,其他,0.0,0.0,0.0
+墨西哥菜,Turm,Turm,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+墨西哥菜,Tex-Mex,Tex-Mex,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+墨西哥菜,Primo Tacos,Primo Tacos,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+墨西哥菜,"Desperado, Mexican Restaurant-Bar","Desperado, Mexican Restaurant-Bar",0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+墨西哥菜,By Khalid Mexican Restaurant,By Khalid Mexican Restaurant,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+墨西哥菜,Desperado,Desperado,0,其他,0.0,0.0,0.0
+其他西餐,军械库地窖 Zeughauskeller,军械库地窖 Zeughauskeller,0,,7.3,7.6,7.4
+其他西餐,Zeughauskeller,Zeughauskeller,0,1.市政厅-Hochschulen-林登霍夫城,8.0,7.8,7.8
+其他西餐,parkhuus,parkhuus,0,1.市政厅-Hochschulen-林登霍夫城,8.5,8.5,8.5
+其他西餐,Kronenhalle,Kronenhalle,0,1.市政厅-Hochschulen-林登霍夫城,7.9,7.9,7.9
+其他西餐,Sein,Sein,0,1.市政厅-Hochschulen-林登霍夫城,7.5,7.5,8.0
+其他西餐,terrasse,terrasse,0,1.市政厅-Hochschulen-林登霍夫城,7.4,8.2,7.4
+其他西餐,Clouds,Clouds,0,5.格韦尔伯舒勒埃舍维斯,8.0,8.0,8.0
+其他西餐,Equinox,Equinox,0,5.格韦尔伯舒勒埃舍维斯,6.7,8.2,8.2
+其他西餐,Goodman Steak House,Goodman Steak House,0,2.Wollishofen-莱姆巴赫-恩格,8.2,7.4,7.4
+其他西餐,Oepfelchammer,Oepfelchammer,0,1.市政厅-Hochschulen-林登霍夫城,8.0,8.0,8.0
+其他西餐,Angels' Wine Tower Bar,Angels' Wine Tower Bar,0,其他,6.7,6.7,6.7
+其他西餐,Subito,Subito,0,5.格韦尔伯舒勒埃舍维斯,7.2,6.8,7.2
+其他西餐,Restaurant zum Kropf,Restaurant zum Kropf,0,1.市政厅-Hochschulen-林登霍夫城,7.5,8.4,6.7
+其他西餐,Le Muh,Le Muh,0,11.阿福尔特恩-欧瑞康-泽巴赫,7.4,8.2,8.2
+其他西餐,Restaurant Outback Lodge,Restaurant Outback Lodge,0,8.泽菲尔德姆尼布奇维尼格,7.4,7.4,6.7
+其他西餐,Schweizerhof Bar,Schweizerhof Bar,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,7.4
+其他西餐,Hotel Crowne Plaza,Hotel Crowne Plaza,0,9.阿尔比斯登-阿尔特施泰滕,7.2,7.2,7.2
+其他西餐,Kafi Dihei,Kafi Dihei,0,9.阿尔比斯登-阿尔特施泰滕,7.1,7.4,7.4
+其他西餐,Raclette Stube,Raclette Stube,0,1.市政厅-Hochschulen-林登霍夫城,6.2,7.9,7.9
+其他西餐,Restaurant Johanniter,Restaurant Johanniter,0,1.市政厅-Hochschulen-林登霍夫城,6.7,7.5,8.4
+其他西餐,N 68,N 68,0,1.市政厅-Hochschulen-林登霍夫城,7.4,6.0,6.0
+其他西餐,Paddy Reilly's Irish Pub,Paddy Reilly's Irish Pub,0,1.市政厅-Hochschulen-林登霍夫城,7.4,6.7,6.7
+其他西餐,Dini Mueter,Dini Mueter,0,1.市政厅-Hochschulen-林登霍夫城,7.4,6.7,6.7
+其他西餐,Nelson Pub,Nelson Pub,0,1.市政厅-Hochschulen-林登霍夫城,6.0,6.7,5.2
+其他西餐,Cafe & Bar Odeon,Cafe & Bar Odeon,0,8.泽菲尔德姆尼布奇维尼格,7.4,7.4,7.4
+其他西餐,Kafi fur Dich,Kafi fur Dich,0,1.市政厅-Hochschulen-林登霍夫城,6.7,6.7,6.7
+其他西餐,Rheinfelder Bierhalle,Rheinfelder Bierhalle,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,ECHO,ECHO,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Hopfenau Quartier Restaurant,Hopfenau Quartier Restaurant,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Greulich,Greulich,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Rive Gauche,Rive Gauche,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Zunfthaus zur Zimmerleuten,Zunfthaus zur Zimmerleuten,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Mesa,Mesa,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Restaurant Baerengasse,Restaurant Baerengasse,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Oberes Triemli,Restaurant Oberes Triemli,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Alten Loewen,Alten Loewen,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Drei Stuben,Drei Stuben,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Honold Tea Room,Honold Tea Room,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Les Halles,Les Halles,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Bu's,Bu's,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Eden au Lac,Eden au Lac,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Route Twenty-Six,Route Twenty-Six,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Restaurant Rubina,Restaurant Rubina,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Schlössli,Schlössli,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Lindenhofkeller,Lindenhofkeller,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Le Poisson,Le Poisson,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Schuler's Weinwirtschaft ,Schuler's Weinwirtschaft ,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Le Dezaley,Le Dezaley,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Kaiser's Reblaube,Kaiser's Reblaube,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Frau Gerolds Garten,Frau Gerolds Garten,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Alpenrose,Alpenrose,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Little Brazil,Little Brazil,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Metzg,Metzg,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Restaurant Orangerie,Restaurant Orangerie,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Heidi & Tell Co.,Heidi & Tell Co.,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Camino,Camino,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Shamrock Irish Pub,Shamrock Irish Pub,0,其他,0.0,0.0,0.0
+其他西餐,Fonduetram,Fonduetram,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Restaurant Pizzeria Bar Rigihof,Restaurant Pizzeria Bar Rigihof,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Crazy Cow,Crazy Cow,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Blinde Kuh,Blinde Kuh,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Restaurant Real,Restaurant Real,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Geeren,Geeren,0,其他,0.0,0.0,0.0
+其他西餐,Rusterei,Rusterei,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Maison Blunt,Maison Blunt,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Obere Fluhgasse,Obere Fluhgasse,0,其他,0.0,0.0,0.0
+其他西餐,Costa Brava,Costa Brava,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,DANTE a Bar and a Basement,DANTE a Bar and a Basement,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Munsterhof,Munsterhof,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Schlussel,Restaurant Schlussel,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Monte Primero - Wolfbach,Monte Primero - Wolfbach,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,St.Gallerhof,St.Gallerhof,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Marche Bistro,Marche Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Hardhof,Restaurant Hardhof,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+其他西餐,Kunsthausrestaurant,Kunsthausrestaurant,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Kränzlin,Kränzlin,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Quai 61,Quai 61,0,其他,0.0,0.0,0.0
+其他西餐,Marché Möevenpick Zürich,Marché Möevenpick Zürich,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Brunnentor Schnitzel Baron,Restaurant Brunnentor Schnitzel Baron,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+其他西餐,Spheres,Spheres,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Restaurant Krone,Restaurant Krone,0,其他,0.0,0.0,0.0
+其他西餐,Wurst & Moritz,Wurst & Moritz,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant ,Restaurant ,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+其他西餐,Restaurant Degenried,Restaurant Degenried,0,其他,0.0,0.0,0.0
+其他西餐,Grotto Reale,Grotto Reale,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+其他西餐,La Taqueria,La Taqueria,0,其他,0.0,0.0,0.0
+其他西餐,Glogge-Egge,Glogge-Egge,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Studer's,Studer's,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Alexis Bar Restaurant,Alexis Bar Restaurant,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Haldenbach,Restaurant Haldenbach,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Emilio,Emilio,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Zum Grunen Glas,Zum Grunen Glas,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Urania Tapasbar & Restaurant,Urania Tapasbar & Restaurant,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Griechische Taverne,Griechische Taverne,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Marche,Marche,0,其他,0.0,0.0,0.0
+其他西餐,Wirtschaft zum Vorbahnhof,Wirtschaft zum Vorbahnhof,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Next2 Bar & Lounge,Next2 Bar & Lounge,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+其他西餐,Olive Garden AG,Olive Garden AG,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,University of Zurich Irchel restaurant,University of Zurich Irchel restaurant,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Tasca Romero,Tasca Romero,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Schipfe 16,Restaurant Schipfe 16,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Tank - Grill und Bar,Restaurant Tank - Grill und Bar,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Aubrey,Aubrey,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Happy Backerei,Happy Backerei,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,The Traders,The Traders,0,其他,0.0,0.0,0.0
+其他西餐,Wirtschaft Neumarkt,Wirtschaft Neumarkt,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Hirschberg,Hirschberg,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Tinto,Tinto,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,convivio,convivio,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Mucho Gusto,Mucho Gusto,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,KORNER Gourmet Burger Restaurant & Bar,KORNER Gourmet Burger Restaurant & Bar,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Restaurant Gonzalez,Restaurant Gonzalez,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Roter Kamm,Roter Kamm,0,其他,0.0,0.0,0.0
+其他西餐,Gertrudhof,Gertrudhof,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+其他西餐,Seerestaurant Key West,Seerestaurant Key West,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Chalet Suisse,Chalet Suisse,0,苏黎世机场,0.0,0.0,0.0
+其他西餐,Basilica Bar Lounge,Basilica Bar Lounge,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Restaurant Mexikano & Cuban Bar,Restaurant Mexikano & Cuban Bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Zur rote Buech,Zur rote Buech,0,其他,0.0,0.0,0.0
+其他西餐,Old Fashion Bar,Old Fashion Bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Atelier Bar,Atelier Bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,La Piazzetta,La Piazzetta,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Bodega Espanola,Bodega Espanola,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Zunfthaus zur Haue,Zunfthaus zur Haue,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Churrasco,Churrasco,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Gartenhof,Restaurant Gartenhof,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Taverna Catalana,Taverna Catalana,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Rheinfelder-Bierhaus <Bluetige Duume>,Rheinfelder-Bierhaus <Bluetige Duume>,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Oliver Twist Pub,Oliver Twist Pub,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Grober Ernst,Grober Ernst,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Baradox,Baradox,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Volkshaus,Restaurant Volkshaus,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Freshii,Freshii,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Jägerburg,Jägerburg,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Tapas del Mar,Tapas del Mar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Eichhornli,Restaurant Eichhornli,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Casa Aurelio,Casa Aurelio,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Rampe Sued,Rampe Sued,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,g27,g27,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Meskerem,Meskerem,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Restaurant Bahnhof Wiedikon,Restaurant Bahnhof Wiedikon,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Ti - Fondata Stapferstube,Ti - Fondata Stapferstube,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Spice India,Spice India,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Iberico,Iberico,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Café Noir,Café Noir,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Picasso,Picasso,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Cinque,Cinque,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Times,Times,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Taverna Kalymnos,Taverna Kalymnos,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Restaurant Fink,Restaurant Fink,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Restaurant Markthalle,Restaurant Markthalle,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Hornegg,Hornegg,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Tuefi (Bio-Restaurant),Tuefi (Bio-Restaurant),0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Bistro & Partner AG,Bistro & Partner AG,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Restaurant Bahnhof Stadelhofen,Restaurant Bahnhof Stadelhofen,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Vorderer Sternen,Vorderer Sternen,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Cafe Felix,Cafe Felix,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Restaurant Schnitzelhuus,Restaurant Schnitzelhuus,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+其他西餐,Metzgerhalle,Metzgerhalle,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+其他西餐,Chasstube Rehalp,Chasstube Rehalp,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Elefant,Restaurant Elefant,0,其他,0.0,0.0,0.0
+其他西餐,Buscion Osteria e Vino Ticinese,Buscion Osteria e Vino Ticinese,0,其他,0.0,0.0,0.0
+其他西餐,Mesob Restaurant and Bar,Mesob Restaurant and Bar,0,其他,0.0,0.0,0.0
+其他西餐,Frohsinn,Frohsinn,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Ziegelhutte,Restaurant Ziegelhutte,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Birchegg,Restaurant Birchegg,0,其他,0.0,0.0,0.0
+其他西餐,Argentina Steakhouse & Restaurant,Argentina Steakhouse & Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Gasthaus Hofwiesen,Gasthaus Hofwiesen,0,其他,0.0,0.0,0.0
+其他西餐,Grunwald,Grunwald,0,其他,0.0,0.0,0.0
+其他西餐,Steakhouse Acht 3 Null 3,Steakhouse Acht 3 Null 3,0,其他,0.0,0.0,0.0
+其他西餐,Nikos,Nikos,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+其他西餐,El Meditsol,El Meditsol,0,其他,0.0,0.0,0.0
+其他西餐,Guhwilmuhle,Guhwilmuhle,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Bündnerstube,Restaurant Bündnerstube,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,BarMünster,BarMünster,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Simply Soup,Simply Soup,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Goethe-Stubli,Goethe-Stubli,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Wirtschaft Im Franz,Wirtschaft Im Franz,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Moléson,Restaurant Moléson,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Zum Roten Kamel,Zum Roten Kamel,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Delicato,Delicato,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Leo's Bistro,Leo's Bistro,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Mythos,Mythos,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Ojo de Agua,Ojo de Agua,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Rechberg,Restaurant Rechberg,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Sesam Falafelbar,Sesam Falafelbar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Caffe Bar Madonna,Caffe Bar Madonna,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,L'Entrecote,L'Entrecote,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Gessnerallee,Gessnerallee,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Brasserie Federal,Brasserie Federal,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Aargauerhof,Aargauerhof,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Hin & Weg Gare,Hin & Weg Gare,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Philippe,Philippe,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Der Schwiizer,Der Schwiizer,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Jawhara,Jawhara,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Gaucho,Gaucho,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Piccolo giardino,Piccolo giardino,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Rietberg,Rietberg,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Hafen Enge Beiz,Hafen Enge Beiz,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Juan Costa,Juan Costa,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Almodobar AG,Almodobar AG,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Jade,Jade,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Restaurant 313,Restaurant 313,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Hotel Sternen,Hotel Sternen,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Restaurant Al Vigneto,Restaurant Al Vigneto,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Loft One,Loft One,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Casa da Picanha,Casa da Picanha,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Restaurant Schlachthof,Restaurant Schlachthof,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Muhletal,Muhletal,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Sterne Foifi,Sterne Foifi,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Rizzoli,Rizzoli,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Cafeteria City,Cafeteria City,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+其他西餐,Cooper's Pub,Cooper's Pub,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+其他西餐,Allegro,Allegro,0,其他,0.0,0.0,0.0
+其他西餐,Sasso,Sasso,0,其他,0.0,0.0,0.0
+其他西餐,Meylenstein Bar and Lounge,Meylenstein Bar and Lounge,0,其他,0.0,0.0,0.0
+其他西餐,Muggenbuehl,Muggenbuehl,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Schutzenruh,Restaurant Schutzenruh,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Henry,Cafe Henry,0,其他,0.0,0.0,0.0
+其他西餐,Crown of India,Crown of India,0,其他,0.0,0.0,0.0
+其他西餐,Acqua,Acqua,0,其他,0.0,0.0,0.0
+其他西餐,Chez Andy,Chez Andy,0,其他,0.0,0.0,0.0
+其他西餐,Sternen Albisrieden,Sternen Albisrieden,0,其他,0.0,0.0,0.0
+其他西餐,Clarke's,Clarke's,0,其他,0.0,0.0,0.0
+其他西餐,Roter Stein,Roter Stein,0,其他,0.0,0.0,0.0
+其他西餐,Rebstock,Rebstock,0,其他,0.0,0.0,0.0
+其他西餐,Apollo Taverne,Apollo Taverne,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Schwamendinge,Restaurant Schwamendinge,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Ayverdis,Restaurant Ayverdis,0,其他,0.0,0.0,0.0
+其他西餐,Wirtschaft Unterdorf,Wirtschaft Unterdorf,0,其他,0.0,0.0,0.0
+其他西餐,Wirtschaft zur Post,Wirtschaft zur Post,0,其他,0.0,0.0,0.0
+其他西餐,Wilder Mann,Wilder Mann,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+其他西餐,Europa,Europa,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+其他西餐,Sib7ni,Sib7ni,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+其他西餐,Justus,Justus,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+其他西餐,Milchbar Cafe,Milchbar Cafe,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Restaurant Karl,Restaurant Karl,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Lady Hamilton's Pub,Lady Hamilton's Pub,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,HITZBERGER,HITZBERGER,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,San Marco,San Marco,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,K2 Maag Baar Bistro,K2 Maag Baar Bistro,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Westend,Westend,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Hotel Restaurant Frieden Grafstal CH,Hotel Restaurant Frieden Grafstal CH,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Restaurant Weisse Rose,Restaurant Weisse Rose,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Cafe Dallas,Cafe Dallas,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+其他西餐,Lunchbuffet,Lunchbuffet,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Burgwie,Restaurant Burgwie,0,其他,0.0,0.0,0.0
+其他西餐,Ocean Lounge,Ocean Lounge,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Storchen-Bar,Storchen-Bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Cafe Ernst,Cafe Ernst,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,"Esshalle, Weinhandlung & Bar","Esshalle, Weinhandlung & Bar",0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Alexander Snack,Alexander Snack,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Segantini,Segantini,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Clipper,Clipper,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Rincao,Rincao,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Krokodil,Krokodil,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Lade,Lade,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+其他西餐,Tifo Café Bistro,Tifo Café Bistro,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Baranes,Baranes,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,New York Food,New York Food,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Hallwylerhof,Hallwylerhof,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+其他西餐,Blauer Apfel,Blauer Apfel,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+其他西餐,Bayerischer Hof,Bayerischer Hof,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Tea Room - Maison Blaunt,Tea Room - Maison Blaunt,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+其他西餐,Bfine,Bfine,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Freudenhaus,Freudenhaus,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+其他西餐,Restaurant Siebni,Restaurant Siebni,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+中餐,China-Restaurant Chopstick,China-Restaurant Chopstick,0,1.市政厅-Hochschulen-林登霍夫城,5.2,5.2,6.0
+中餐,Zum Gelben Schnabel,Zum Gelben Schnabel,0,1.市政厅-Hochschulen-林登霍夫城,7.1,7.5,6.7
+中餐,Confiserie Sprungli,Confiserie Sprungli,0,其他,5.0,5.0,5.0
+中餐,Mishio,Mishio,0,1.市政厅-Hochschulen-林登霍夫城,6.0,6.0,6.7
+中餐,Peking Garden,Peking Garden,0,5.格韦尔伯舒勒埃舍维斯,6.7,6.7,6.7
+中餐,Kwang Chow,Kwang Chow,0,其他,6.0,6.7,6.7
+中餐,Saigon,Saigon,0,1.市政厅-Hochschulen-林登霍夫城,6.7,6.0,6.7
+中餐,Shangrila,Shangrila,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+中餐,Restaurant Singapore,Restaurant Singapore,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+中餐,Peking,Peking,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+中餐,HangCheng China Restaurant,HangCheng China Restaurant,0,其他,7.7,7.7,7.7
+中餐,Luo Restaurant,Luo Restaurant,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+中餐,Hong Kong Food Paradise,Hong Kong Food Paradise,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+中餐,Chinagarten Take Away,Chinagarten Take Away,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+中餐,Entehuus,Entehuus,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+中餐,China Restaurant SUAN-LONG,China Restaurant SUAN-LONG,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+中餐,Restaurant Take Away Suan Long,Restaurant Take Away Suan Long,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+中餐,Pak Lok Haus,Pak Lok Haus,0,其他,0.0,0.0,0.0
+中餐,Tea Stories,Tea Stories,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+中餐,Dragon Inn,Dragon Inn,0,其他,0.0,0.0,0.0
+中餐,Lotus Garden,Lotus Garden,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+中餐,Fine Choice,Fine Choice,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+中餐,China Restaurant HangCheng,China Restaurant HangCheng,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+日韩料理,Mi Mi Sa,Mi Mi Sa,0,,7.4,7.2,7.3
+日韩料理,Yen's,Yen's,0,2.Wollishofen-莱姆巴赫-恩格,7.7,7.7,7.5
+日韩料理,Takano City,Takano City,0,1.市政厅-Hochschulen-林登霍夫城,7.4,6.7,8.2
+日韩料理,Sala of Tokyo,Sala of Tokyo,0,5.格韦尔伯舒勒埃舍维斯,8.0,8.0,8.0
+日韩料理,Yooji’s Bahnhofstrasse,Yooji’s Bahnhofstrasse,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,7.4
+日韩料理,Yoshino,Yoshino,0,5.格韦尔伯舒勒埃舍维斯,7.4,7.4,7.4
+日韩料理,Ginger,Ginger,0,8.泽菲尔德姆尼布奇维尼格,8.2,8.2,8.2
+日韩料理,Bimi,Bimi,0,8.泽菲尔德姆尼布奇维尼格,8.2,6.7,6.7
+日韩料理,Yooji's Bellevue,Yooji's Bellevue,0,8.泽菲尔德姆尼布奇维尼格,7.4,7.4,6.7
+日韩料理,Sushi Isakaya,Sushi Isakaya,0,1.市政厅-Hochschulen-林登霍夫城,6.7,6.7,6.7
+日韩料理,Globus Bellevue,Globus Bellevue,0,8.泽菲尔德姆尼布奇维尼格,6.7,6.7,5.2
+日韩料理,KL Teppanyaki,KL Teppanyaki,0,1.市政厅-Hochschulen-林登霍夫城,6.0,6.0,6.7
+日韩料理,My Kitchen Leena Sam Gmbh,My Kitchen Leena Sam Gmbh,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+日韩料理,Samurai Sushi,Samurai Sushi,0,其他,0.0,0.0,0.0
+日韩料理,Hoi An Restaurant,Hoi An Restaurant,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+日韩料理,Pic Nic,Pic Nic,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+日韩料理,Nooch - Asian Kitchen,Nooch - Asian Kitchen,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+日韩料理,Kai Sushi Lessing,Kai Sushi Lessing,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+日韩料理,Sumo - Sushi & Momo,Sumo - Sushi & Momo,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+日韩料理,Ly's Asia,Ly's Asia,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+日韩料理,Negishi Sushi Bar,Negishi Sushi Bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+日韩料理,Yooji's Seefeld,Yooji's Seefeld,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+日韩料理,Fujiya of Japan,Fujiya of Japan,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+日韩料理,OTOTO,OTOTO,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+日韩料理,Negishi Sushi Bar,Negishi Sushi Bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+日韩料理,Ginger more than fish,Ginger more than fish,0,其他,0.0,0.0,0.0
+日韩料理,O'Tabe Bento Bar,O'Tabe Bento Bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+日韩料理,Shinsen,Shinsen,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+日韩料理,Et Cetera,Et Cetera,0,其他,0.0,0.0,0.0
+日韩料理,sushi4you,sushi4you,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+日韩料理,Okara,Okara,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+日韩料理,Laomai,Laomai,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+日韩料理,Bambushain,Bambushain,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+日韩料理,Negishi Sushi Bar,Negishi Sushi Bar,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多亚洲菜,Beyond,Beyond,0,5.格韦尔伯舒勒埃舍维斯,7.7,7.5,7.6
+更多亚洲菜,"Tao's Restaurant, Lounge and Bar","Tao's Restaurant, Lounge and Bar",0,1.市政厅-Hochschulen-林登霍夫城,7.4,8.2,8.2
+更多亚洲菜,Wagamama,Wagamama,0,1.市政厅-Hochschulen-林登霍夫城,7.4,6.7,7.4
+更多亚洲菜,Die Waid,Die Waid,0,其他,7.1,7.3,7.1
+更多亚洲菜,White Elephant,White Elephant,0,6.温特施特拉斯奥伯施特拉斯,6.7,8.2,8.2
+更多亚洲菜,asiaway vietnamese cuisine,asiaway vietnamese cuisine,0,11.阿福尔特恩-欧瑞康-泽巴赫,7.4,6.0,6.7
+更多亚洲菜,Dapur Indonesia Restaurant,Dapur Indonesia Restaurant,0,11.阿福尔特恩-欧瑞康-泽巴赫,7.4,7.4,7.4
+更多亚洲菜,Talacker,Talacker,0,1.市政厅-Hochschulen-林登霍夫城,6.7,6.0,6.7
+更多亚洲菜,New Point,New Point,0,5.格韦尔伯舒勒埃舍维斯,6.7,5.2,5.2
+更多亚洲菜,Ya Ke,Ya Ke,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Ban Song Thai,Ban Song Thai,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Khan's,Khan's,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Thai Market,Thai Market,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多亚洲菜,Kormasutra,Kormasutra,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Tandoori BBQ,Tandoori BBQ,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Blue Monkey,Blue Monkey,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Restaurant Malabar,Restaurant Malabar,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多亚洲菜,Chiang Mai Thai Shop,Chiang Mai Thai Shop,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,restaurant und bar turbinenhalle,restaurant und bar turbinenhalle,0,其他,0.0,0.0,0.0
+更多亚洲菜,Runway 34,Runway 34,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bombay Karachi,Bombay Karachi,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多亚洲菜,Kerala,Kerala,0,其他,0.0,0.0,0.0
+更多亚洲菜,Tasty,Tasty,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Cheti's Curry,Cheti's Curry,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多亚洲菜,Flavour of India,Flavour of India,0,苏黎世机场,0.0,0.0,0.0
+更多亚洲菜,Ah-Hua II,Ah-Hua II,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Nooba,Nooba,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多亚洲菜,Thai Rice,Thai Rice,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Delhi house of Bestcurry,Delhi house of Bestcurry,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多亚洲菜,Hua-Hin,Hua-Hin,0,其他,0.0,0.0,0.0
+更多亚洲菜,Masala,Masala,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Tandoor House,Tandoor House,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多亚洲菜,Kobal,Kobal,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Angkor,Angkor,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,The Ganges,The Ganges,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多亚洲菜,Thali House,Thali House,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,Thai Bamboo,Thai Bamboo,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Lin Lin Take Away & Restaurant,Lin Lin Take Away & Restaurant,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多亚洲菜,Wimbledon,Wimbledon,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多亚洲菜,Thai Food-Express,Thai Food-Express,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多亚洲菜,Aux Carres,Aux Carres,0,其他,0.0,0.0,0.0
+更多亚洲菜,Five Spice,Five Spice,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Ah Hua,Ah Hua,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Nagasui,Nagasui,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多亚洲菜,King's Kurry Wiedikon,King's Kurry Wiedikon,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多亚洲菜,Tiffins Asian Kitchen,Tiffins Asian Kitchen,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多亚洲菜,Curry Corner,Curry Corner,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多亚洲菜,Taj Palace,Taj Palace,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多亚洲菜,Sweet Basil,Sweet Basil,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,teoh,teoh,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Restaurant Vietnam,Restaurant Vietnam,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多亚洲菜,Jacky's Wok,Jacky's Wok,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多亚洲菜,Vulkan,Vulkan,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,Thai Tawan,Thai Tawan,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,Shaba Restaurant & Lounge,Shaba Restaurant & Lounge,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,Friends Corner,Friends Corner,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,Tibetasia,Tibetasia,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,Naanu . Take&Eat,Naanu . Take&Eat,0,其他,0.0,0.0,0.0
+更多亚洲菜,Lemon Grass Restaurant,Lemon Grass Restaurant,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+更多亚洲菜,1001 Gmbh,1001 Gmbh,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Take Easy Take Away,Take Easy Take Away,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Phuket Asia Center,Phuket Asia Center,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Kurry World,Kurry World,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多亚洲菜,Swaad,Swaad,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多亚洲菜,Petit Saigon,Petit Saigon,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多亚洲菜,Mai Wok,Mai Wok,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多亚洲菜,King's Kurry Little India Thali,King's Kurry Little India Thali,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多亚洲菜,Zest of Asia,Zest of Asia,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,Taste of Paradise,Taste of Paradise,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,Globus,Globus,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多亚洲菜,Krishnaa's,Krishnaa's,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多亚洲菜,Indian Palace,Indian Palace,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多亚洲菜,Tong Thai Dee,Tong Thai Dee,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thairestaurant Suwannaphum,Thairestaurant Suwannaphum,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Thai Erawan,Restaurant Thai Erawan,0,其他,0.0,0.0,0.0
+更多亚洲菜,Maharani,Maharani,0,其他,0.0,0.0,0.0
+更多亚洲菜,Horm-Djan,Horm-Djan,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thai Playa,Thai Playa,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thon Sai,Thon Sai,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多亚洲菜,libanesisches essen,libanesisches essen,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多亚洲菜,Jacky's Wok II,Jacky's Wok II,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多亚洲菜,By Elvis - Der King Am Grill,By Elvis - Der King Am Grill,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多亚洲菜,Lotus-Vietnam,Lotus-Vietnam,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+更多亚洲菜,Magic Masala,Magic Masala,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,New Shanghai,New Shanghai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Spring Onion,Spring Onion,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mamiki Food,Mamiki Food,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,King's Kurry Express,King's Kurry Express,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Kahns Curry House,Kahns Curry House,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Restaurant Klein Istanbul,Restaurant Klein Istanbul,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Mr Wong,Mr Wong,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,Raja Bongo,Raja Bongo,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多亚洲菜,King's Kurry Express,King's Kurry Express,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多亚洲菜,ROYAL CURRY BOWL,ROYAL CURRY BOWL,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,Anthony's Kitchen,Anthony's Kitchen,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多亚洲菜,Madras Curry House,Madras Curry House,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多亚洲菜,Aroy-Di,Aroy-Di,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多亚洲菜,Curry House,Curry House,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+快餐简餐,Nordsee,Nordsee,0,1.市政厅-Hochschulen-林登霍夫城,6.5,5.5,5.4
+快餐简餐,Sonnenberg Restaurant,Sonnenberg Restaurant,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,8.5,8.5,8.5
+快餐简餐,Restaurant Madrid,Restaurant Madrid,0,1.市政厅-Hochschulen-林登霍夫城,8.2,7.4,7.4
+快餐简餐,Cheyenne,Cheyenne,0,11.阿福尔特恩-欧瑞康-泽巴赫,7.4,6.7,6.0
+快餐简餐,Restaurant Papa Joe's,Restaurant Papa Joe's,0,1.市政厅-Hochschulen-林登霍夫城,6.7,6.7,6.7
+快餐简餐,Movies,Movies,0,1.市政厅-Hochschulen-林登霍夫城,6.0,6.0,6.0
+快餐简餐,"Holy Cow! Gourmet Burger Bar, Zurich, Switzerland","Holy Cow! Gourmet Burger Bar, Zurich, Switzerland",0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+快餐简餐,Stefs Freieck,Stefs Freieck,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+快餐简餐,Maison Manesse,Maison Manesse,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+快餐简餐,Jdaburg,Jdaburg,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+快餐简餐,Sam's Pizza Land,Sam's Pizza Land,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+快餐简餐,Restaurant Waldgarten,Restaurant Waldgarten,0,其他,0.0,0.0,0.0
+快餐简餐,The Bite,The Bite,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+快餐简餐,Gnuesserei,Gnuesserei,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+快餐简餐,SAM'S Pizza Land Schweizergasse,SAM'S Pizza Land Schweizergasse,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+快餐简餐,Don Weber,Don Weber,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+快餐简餐,Kennedy's Irish Pub,Kennedy's Irish Pub,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+快餐简餐,Tritt Kase,Tritt Kase,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+快餐简餐,Happy Backerei,Happy Backerei,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+快餐简餐,Lucid American Bar,Lucid American Bar,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+快餐简餐,The Pie Shop,The Pie Shop,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+快餐简餐,Helvti Diner,Helvti Diner,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+快餐简餐,Shinwazen Sake Wine Bar,Shinwazen Sake Wine Bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+快餐简餐,Restaurant zur Rossweid,Restaurant zur Rossweid,0,其他,0.0,0.0,0.0
+快餐简餐,Silberkugel,Silberkugel,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+快餐简餐,New York Food,New York Food,0,其他,0.0,0.0,0.0
+快餐简餐,Zic Zac,Zic Zac,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+快餐简餐,Zic Zac Dorfli,Zic Zac Dorfli,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+快餐简餐,Seidenspinner,Seidenspinner,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+快餐简餐,中餐-China restaurant  Hangcheng,中餐-China restaurant  Hangcheng,0,,0.0,0.0,0.0
+海鲜,Nordsee,Nordsee,0,1.市政厅-Hochschulen-林登霍夫城,7.2,7.2,7.2
+海鲜,Commihalle,Commihalle,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+海鲜,Lake Side,Lake Side,0,其他,0.0,0.0,0.0
+海鲜,Outpost,Outpost,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+烧烤,Sternen Grill,Sternen Grill,0,8.泽菲尔德姆尼布奇维尼格,8.0,8.0,8.0
+烧烤,King's Cave,King's Cave,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+烧烤,Schlössli,Schlössli,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+烧烤,Pumpstation,Pumpstation,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+烧烤,Kolbenhof,Kolbenhof,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Santa Lucia,Pizzeria Santa Lucia,0,11.阿福尔特恩-欧瑞康-泽巴赫,6.7,6.7,6.7
+比萨,Il Gallo,Il Gallo,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+比萨,Franco Pizza Kurier Zürich,Franco Pizza Kurier Zürich,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+比萨,Pizzeria Mario,Pizzeria Mario,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+比萨,Era Ora,Era Ora,0,其他,0.0,0.0,0.0
+比萨,Antica Roma,Antica Roma,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+比萨,Capri Pizzeria,Capri Pizzeria,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+比萨,Il Golosone,Il Golosone,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+比萨,Vapiano,Vapiano,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+比萨,Santa Lucia Wiedikon,Santa Lucia Wiedikon,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+比萨,Pizzeria Furetto,Pizzeria Furetto,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+比萨,La Fonte,La Fonte,0,其他,0.0,0.0,0.0
+比萨,Da Noi,Da Noi,0,其他,0.0,0.0,0.0
+比萨,Pizza-Blitz Zurich Sud,Pizza-Blitz Zurich Sud,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+比萨,Salt & Pepper,Salt & Pepper,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+比萨,Pizza Blitz Zurich,Pizza Blitz Zurich,0,其他,0.0,0.0,0.0
+比萨,Restaurant Roemerblick Zuerich,Restaurant Roemerblick Zuerich,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+咖啡厅,Caffe Ritazza,Caffe Ritazza,0,苏黎世机场,7.4,7.4,7.4
+咖啡厅,Bubbles,Bubbles,0,1.市政厅-Hochschulen-林登霍夫城,8.3,8.3,8.3
+咖啡厅,Heinrici,Heinrici,0,1.市政厅-Hochschulen-林登霍夫城,7.4,6.7,6.0
+咖啡厅,Starbucks,Starbucks,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+咖啡厅,Azzurro Take Away und Delikatessen,Azzurro Take Away und Delikatessen,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+咖啡厅,Zum Guten Gluck,Zum Guten Gluck,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+咖啡厅,Bar Hotel Rivington & Sons,Bar Hotel Rivington & Sons,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee Shop,Starbucks Coffee Shop,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+咖啡厅,Cafe Wuhre,Cafe Wuhre,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+咖啡厅,Imagine Sihlcity,Imagine Sihlcity,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+咖啡厅,Cafe Lang,Cafe Lang,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+咖啡厅,Caffe Spettacolo,Caffe Spettacolo,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Caredda,Cafe Caredda,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+咖啡厅,Collana Bar e Caffe,Collana Bar e Caffe,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+咖啡厅,PflanzBar,PflanzBar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+咖啡厅,Cafe Weggen,Cafe Weggen,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+咖啡厅,Cabaret Voltaire,Cabaret Voltaire,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+咖啡厅,Si o No,Si o No,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+咖啡厅,Chez Toi - Bar a Crepes & Take Away,Chez Toi - Bar a Crepes & Take Away,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+咖啡厅,Rio Bar Express Buffet,Rio Bar Express Buffet,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+咖啡厅,Ambrosi,Ambrosi,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+咖啡厅,Benzin&Koffein Cafe Bar Accessoires,Benzin&Koffein Cafe Bar Accessoires,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+咖啡厅,Cafe Restaurant Obergass,Cafe Restaurant Obergass,0,,7.1,7.0,7.0
+咖啡厅,Internet Cafe,Internet Cafe,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+咖啡厅,Oh Là Là,Oh Là Là,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+咖啡厅,Strudelhaus,Strudelhaus,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+咖啡厅,Bear Brothers and Cow,Bear Brothers and Cow,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+面包甜点,Sprüngli,Sprüngli,0,1.市政厅-Hochschulen-林登霍夫城,7.7,7.8,7.4
+面包甜点,Moevenpick Ice Cream Gallery,Moevenpick Ice Cream Gallery,0,8.泽菲尔德姆尼布奇维尼格,8.2,6.7,6.7
+面包甜点,Dieci 10',Dieci 10',0,1.市政厅-Hochschulen-林登霍夫城,7.4,6.7,6.7
+面包甜点,Grande,Grande,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+面包甜点,Libanon il-Achdar,Libanon il-Achdar,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+面包甜点,Restaurant Alter Tobelhof,Restaurant Alter Tobelhof,0,其他,0.0,0.0,0.0
+面包甜点,Manta Bar,Manta Bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+面包甜点,Ass-Bar GmbH,Ass-Bar GmbH,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+面包甜点,Backerei Conditorei Confiserie Pfyl,Backerei Conditorei Confiserie Pfyl,0,其他,0.0,0.0,0.0
+面包甜点,Tyson's,Tyson's,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+面包甜点,Restaurant Bernerhof,Restaurant Bernerhof,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+面包甜点,Schoffel,Schoffel,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+面包甜点,Confiserie Sprungli AG,Confiserie Sprungli AG,0,其他,0.0,0.0,0.0
+酒吧,Barfussbar,Barfussbar,0,1.市政厅-Hochschulen-林登霍夫城,8.2,7.4,7.4
+酒吧,James Joyce Pub,James Joyce Pub,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,7.4
+酒吧,Forum,Forum,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,6.7
+酒吧,Kaufleuten,Kaufleuten,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,7.4
+酒吧,The Lion,The Lion,0,1.市政厅-Hochschulen-林登霍夫城,7.2,7.2,7.2
+酒吧,Riffraff,Riffraff,0,5.格韦尔伯舒勒埃舍维斯,6.7,6.7,6.7
+酒吧,Bar Nachtflug,Bar Nachtflug,0,1.市政厅-Hochschulen-林登霍夫城,6.7,6.7,6.7
+酒吧,815,815,0,1.市政厅-Hochschulen-林登霍夫城,6.7,6.7,6.7
+酒吧,Rimini,Rimini,0,1.市政厅-Hochschulen-林登霍夫城,6.0,7.4,6.0
+酒吧,Schuler's Weinwirtschaft ,Schuler's Weinwirtschaft ,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+酒吧,Bar Andorra,Bar Andorra,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,Cranberry,Cranberry,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,Kafischnaps,Kafischnaps,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+酒吧,Adagio,Adagio,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,Central Cafe Piano Bar,Central Cafe Piano Bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,D-Vino Weibar Banhofstrasse,D-Vino Weibar Banhofstrasse,0,其他,0.0,0.0,0.0
+酒吧,"Newsbar, zurich","Newsbar, zurich",0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,Bierhalle Wolf,Bierhalle Wolf,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,Moods im Schiffbau,Moods im Schiffbau,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+酒吧,IQ Bar,IQ Bar,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+酒吧,Blu,Blu,0,其他,0.0,0.0,0.0
+酒吧,Rosaly's,Rosaly's,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+酒吧,Osteria del Lazzarone,Osteria del Lazzarone,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,Jules Verne,Jules Verne,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,Steinfels,Steinfels,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+酒吧,Wings,Wings,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,Urbano Bar,Urbano Bar,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+酒吧,Devi's Pearl Bar,Devi's Pearl Bar,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+酒吧,Tonneau-BarTonneau-Bar,Tonneau-BarTonneau-Bar,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+酒吧,McGees Irish Pub & Restaurant,McGees Irish Pub & Restaurant,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+酒吧,The Mousetrap Pub,The Mousetrap Pub,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+酒吧,Blaue Ente,Blaue Ente,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+酒吧,db drinxbar,db drinxbar,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+酒吧,Aqcua Bar,Aqcua Bar,0,其他,0.0,0.0,0.0
+酒吧,Calvados Bar,Calvados Bar,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+酒吧,Yellow Door Bar,Yellow Door Bar,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+酒吧,"Loge, Hotel Restaurant Bar Kino","Loge, Hotel Restaurant Bar Kino",0,,7.1,7.1,7.1
+酒吧,Barfusser,Barfusser,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,Havana Club,Havana Club,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,DADA bar,DADA bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,Cocoa Beach Zurich,Cocoa Beach Zurich,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+酒吧,Old Crow,Old Crow,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+酒吧,"Kaiser Franz, Zurich","Kaiser Franz, Zurich",0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Hiltl,Hiltl,0,1.市政厅-Hochschulen-林登霍夫城,8.4,8.4,8.0
+更多美食,Bianchi,Bianchi,0,1.市政厅-Hochschulen-林登霍夫城,7.1,7.1,7.1
+更多美食,Restaurant Zunfthaus zur Waag,Restaurant Zunfthaus zur Waag,0,1.市政厅-Hochschulen-林登霍夫城,7.9,8.5,8.5
+更多美食,Restaurant Pavillon,Restaurant Pavillon,0,1.市政厅-Hochschulen-林登霍夫城,7.4,8.2,8.2
+更多美食,McDonald's,McDonald's,0,1.市政厅-Hochschulen-林登霍夫城,6.7,6.0,6.0
+更多美食,Metropol,Metropol,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,7.4
+更多美食,Restaurant Spruengli am Paradeplatz,Restaurant Spruengli am Paradeplatz,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,6.0
+更多美食,The Lobby Lounge at the Park Hyatt Zurich,The Lobby Lounge at the Park Hyatt Zurich,0,1.市政厅-Hochschulen-林登霍夫城,6.7,8.4,8.4
+更多美食,Widder,Widder,0,1.市政厅-Hochschulen-林登霍夫城,8.2,8.2,8.2
+更多美食,PurPur,PurPur,0,8.泽菲尔德姆尼布奇维尼格,6.7,7.4,6.7
+更多美食,The Dolder Grand,The Dolder Grand,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,8.2,8.2,6.0
+更多美食,Didi's Frieden,Didi's Frieden,0,6.温特施特拉斯奥伯施特拉斯,6.8,7.3,7.3
+更多美食,The Restaurant,The Restaurant,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,8.0,8.0,8.0
+更多美食,Vior,Vior,0,1.市政厅-Hochschulen-林登霍夫城,6.7,7.4,6.0
+更多美食,Rolli's Steakhouse Oerlikon,Rolli's Steakhouse Oerlikon,0,11.阿福尔特恩-欧瑞康-泽巴赫,7.4,6.7,6.7
+更多美食,Loft Five,Loft Five,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,6.7
+更多美食,Haus zum Rueden,Haus zum Rueden,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,7.4
+更多美食,Babu's Bakery & Coffeeshop,Babu's Bakery & Coffeeshop,0,其他,8.2,7.4,5.2
+更多美食,Ooki,Ooki,0,1.市政厅-Hochschulen-林登霍夫城,7.4,5.2,7.4
+更多美食,tibits,tibits,0,8.泽菲尔德姆尼布奇维尼格,7.4,6.7,5.2
+更多美食,Carlton Restaurants & Bar,Carlton Restaurants & Bar,0,1.市政厅-Hochschulen-林登霍夫城,7.4,7.4,7.4
+更多美食,Walliserkeller,Walliserkeller,0,1.市政厅-Hochschulen-林登霍夫城,6.7,7.4,7.4
+更多美食,Restaurant Flora New Point 2,Restaurant Flora New Point 2,0,9.阿尔比斯登-阿尔特施泰滕,7.4,7.1,7.1
+更多美食,Sonne,Sonne,0,6.温特施特拉斯奥伯施特拉斯,7.4,8.2,8.2
+更多美食,Restaurant Suan Long,Restaurant Suan Long,0,2.Wollishofen-莱姆巴赫-恩格,6.7,6.0,6.0
+更多美食,NZZ Bistro,NZZ Bistro,0,8.泽菲尔德姆尼布奇维尼格,7.4,7.4,5.2
+更多美食,Hooters Zurich,Hooters Zurich,0,1.市政厅-Hochschulen-林登霍夫城,7.4,6.7,7.4
+更多美食,Josef,Josef,0,5.格韦尔伯舒勒埃舍维斯,7.4,6.7,6.7
+更多美食,"Max Restaurant, Bar & Lounge","Max Restaurant, Bar & Lounge",0,11.阿福尔特恩-欧瑞康-泽巴赫,7.4,8.2,8.2
+更多美食,Bohemia,Bohemia,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,7.4,7.4,6.7
+更多美食,Amber,Amber,0,1.市政厅-Hochschulen-林登霍夫城,6.7,6.7,6.7
+更多美食,Kai Sushi Oerlikon,Kai Sushi Oerlikon,0,11.阿福尔特恩-欧瑞康-泽巴赫,6.7,6.7,6.7
+更多美食,Restaurant Au Premier,Restaurant Au Premier,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Jelmoli,Jelmoli,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Chinese Restaurant Dim Sum,Chinese Restaurant Dim Sum,0,苏黎世机场,0.0,0.0,0.0
+更多美食,Manora,Manora,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Hong-Kong Food Paradise Oerlikon,Hong-Kong Food Paradise Oerlikon,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Zur Schtund,Zur Schtund,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Lumiere,Lumiere,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Restaurant Orsini,Restaurant Orsini,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Restaurant Palmhof,Restaurant Palmhof,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,EquiTable im Sankt Meinrad,EquiTable im Sankt Meinrad,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,"Giesserei Oerlikon, Restaurant","Giesserei Oerlikon, Restaurant",0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Restaurant Spice im Hotel Rigiblick,Restaurant Spice im Hotel Rigiblick,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Linde Oberstrass,Linde Oberstrass,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,20/20,20/20,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Don Leone Waffenplatz,Don Leone Waffenplatz,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Isebahnli,Isebahnli,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Cafe Schober,Cafe Schober,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Imagine im Zurcher Hauptbahnhof,Imagine im Zurcher Hauptbahnhof,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Aura,Aura,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Reithalle,Reithalle,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,"Bauschanzli, Restaurant","Bauschanzli, Restaurant",0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Brasserie Metropol,Brasserie Metropol,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Cafe 99,Cafe 99,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Brasserie Bernoulli,Brasserie Bernoulli,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Orsini,Ristorante Orsini,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Lily's,Lily's,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,restaurant da angela,restaurant da angela,0,其他,0.0,0.0,0.0
+更多美食,Dialog,Dialog,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Razzia Restaurant Bar,Razzia Restaurant Bar,0,其他,0.0,0.0,0.0
+更多美食,Samses,Samses,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Kindli,Kindli,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Restaurant AKARAKA,Restaurant AKARAKA,0,其他,0.0,0.0,0.0
+更多美食,Veltliner Keller,Veltliner Keller,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Ristorante Positano,Ristorante Positano,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Blockhus,Blockhus,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,LaSalle,LaSalle,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Paestum,Paestum,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Bamboo Inn,Bamboo Inn,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Coop City St. Annahof,Coop City St. Annahof,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Hotel Restaurant Helvetia,Hotel Restaurant Helvetia,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Le Chef,Le Chef,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,"Belvoirpark, Restaurant","Belvoirpark, Restaurant",0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Rotisserie Storchen Zurich,Rotisserie Storchen Zurich,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Aroma,Ristorante Aroma,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+更多美食,Fischer's Fritz,Fischer's Fritz,0,其他,0.0,0.0,0.0
+更多美食,Guldner Adler,Guldner Adler,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Gran Cafe Motta,Gran Cafe Motta,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Silk im Mascotte,Silk im Mascotte,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Lyonnais,Lyonnais,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,"Hotel Restaurant MÖvenpick, Glattbrugg","Hotel Restaurant MÖvenpick, Glattbrugg",0,苏黎世机场,0.0,0.0,0.0
+更多美食,Restaurant ,Restaurant ,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Juice Market,Juice Market,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Viet-Thai Restaurant,Viet-Thai Restaurant,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Osteria im Scharme,Osteria im Scharme,0,,0.0,0.0,0.0
+更多美食,"Hirschen, Hotel","Hirschen, Hotel",0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,GEORGE BAR & GRILL,GEORGE BAR & GRILL,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Lee's Take Away,Lee's Take Away,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Brasil Grill,Brasil Grill,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,"Aurora Culinary Delights, Restaurant Bar Terrasse","Aurora Culinary Delights, Restaurant Bar Terrasse",0,其他,0.0,0.0,0.0
+更多美食,Confiserie Cafe Bauer,Confiserie Cafe Bauer,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Novotel Café,Novotel Café,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Fischstube,Fischstube,0,其他,0.0,0.0,0.0
+更多美食,Le Jardin Suisse,Le Jardin Suisse,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,zaehringer cafe,zaehringer cafe,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Ascot Restaurant,Ascot Restaurant,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Migg's Mix Sandwiches,Migg's Mix Sandwiches,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Moudi's Lecker Cafe,Moudi's Lecker Cafe,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Restaurant und Zunftstube Weisser Wind,Restaurant und Zunftstube Weisser Wind,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Marisqueira Atlantico,Marisqueira Atlantico,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Zum Weissen Kreuz,Zum Weissen Kreuz,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Brasserie Bits&Bites,Brasserie Bits&Bites,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Restaurant Theater 11,Restaurant Theater 11,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Restaurant Tizziani,Restaurant Tizziani,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Aya Bar,Aya Bar,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Restaurant Schwyzerhusli,Restaurant Schwyzerhusli,0,其他,0.0,0.0,0.0
+更多美食,Seerose,Seerose,0,其他,0.0,0.0,0.0
+更多美食,Ziegel oh Lac (Rote Fabrik),Ziegel oh Lac (Rote Fabrik),0,其他,0.0,0.0,0.0
+更多美食,Gartnerei,Gartnerei,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Les Gourmandises de Miyuko,Les Gourmandises de Miyuko,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Bar Incontro,Bar Incontro,0,苏黎世机场,0.0,0.0,0.0
+更多美食,Mohini,Mohini,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Bocciodromo,Bocciodromo,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Bar & Lounge 42,Bar & Lounge 42,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Thai Food Corner,Thai Food Corner,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Hong Kong Take-Away,Hong Kong Take-Away,0,其他,0.0,0.0,0.0
+更多美食,Alden Restaurant,Alden Restaurant,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Salon Zurich,Salon Zurich,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Asia Tisch,Asia Tisch,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,University of Zurich restaurant,University of Zurich restaurant,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Turf Bar,Turf Bar,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Restaurant Stoller,Restaurant Stoller,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Big Ben Westside,Big Ben Westside,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Restaurant Conrad,Restaurant Conrad,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Farbhof,Farbhof,0,其他,0.0,0.0,0.0
+更多美食,Bei Tony,Bei Tony,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Max & Moritz Lounge Bar,Max & Moritz Lounge Bar,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Scent of Bamboo,Scent of Bamboo,0,其他,0.0,0.0,0.0
+更多美食,Restaurant 4. Akt,Restaurant 4. Akt,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Swiss Bistro,Swiss Bistro,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Bar & Lounge Platzhirsch,Bar & Lounge Platzhirsch,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Fribourger Fonduestuebli,Fribourger Fonduestuebli,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Caduff's Wine Loft,Caduff's Wine Loft,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Bederhof,Bederhof,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Kreis 6,Kreis 6,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Pizzeria da Amici,Pizzeria da Amici,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Restaurant Cafe Boy,Restaurant Cafe Boy,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Cucina,Cucina,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Mama Africa,Mama Africa,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,NENI At The Twenty Five Hours Hotel,NENI At The Twenty Five Hours Hotel,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Fork and Bottle,Fork and Bottle,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Adlisberg,Restaurant Adlisberg,0,其他,0.0,0.0,0.0
+更多美食,Chaesalp,Chaesalp,0,其他,0.0,0.0,0.0
+更多美食,Waidhof,Waidhof,0,其他,0.0,0.0,0.0
+更多美食,"Zurichberg, Hotel und Restaurant","Zurichberg, Hotel und Restaurant",0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+更多美食,Cedre Bellevue,Cedre Bellevue,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,India Street Food,India Street Food,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Piacere,Piacere,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Ristorante Toto,Ristorante Toto,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Fior Di Lago,Fior Di Lago,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Espressino due,Espressino due,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Da Giovanni,Da Giovanni,0,其他,0.0,0.0,0.0
+更多美食,Country Inn Leuen - Leuen Restaurant,Country Inn Leuen - Leuen Restaurant,0,其他,0.0,0.0,0.0
+更多美食,center bar,center bar,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Landhus,Restaurant Landhus,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,La Torre,La Torre,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Cityport,Cityport,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Restaurant Kiosk Am See,Restaurant Kiosk Am See,0,其他,0.0,0.0,0.0
+更多美食,Brasserie im Kongresshaus,Brasserie im Kongresshaus,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Noon,Noon,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Rosengarten,Rosengarten,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Movenpick Caveau,Movenpick Caveau,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Alpli Bar Zurich,Alpli Bar Zurich,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,H. Schwarzenbach Kolonialwaren & Kaffeerosterei,H. Schwarzenbach Kolonialwaren & Kaffeerosterei,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Schlauch,Schlauch,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Rathaus Cafe,Rathaus Cafe,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Kochlistube,Kochlistube,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Paneolio,Paneolio,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Restaurant Sento,Restaurant Sento,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Le Cedre,Le Cedre,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Prime Steakhouse,Prime Steakhouse,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,HUUSMAA,HUUSMAA,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,El Lokal,El Lokal,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Mohrenkopf,Mohrenkopf,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Meta's Kutscherhalle,Meta's Kutscherhalle,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Yalla Habibi,Yalla Habibi,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Ristorante d'Aurora - Onkel Tom's Hüette,Ristorante d'Aurora - Onkel Tom's Hüette,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Vegelateria,Vegelateria,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Spiga,Spiga,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Schuetzengasse,Schuetzengasse,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Da Capo,Da Capo,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Zum Goldenen Fass,Zum Goldenen Fass,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,restaurant exer,restaurant exer,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Pflug,Pflug,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,"Hirschen, Gasthof","Hirschen, Gasthof",0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Hof Kuche,Hof Kuche,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Restaurant Sonne Libanon,Restaurant Sonne Libanon,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Hot Pot Take Away,Hot Pot Take Away,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Il Giglio,Il Giglio,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Hermanseck,Hermanseck,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,HOT PASTA 1,HOT PASTA 1,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Lebanese Takeaway,Lebanese Takeaway,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Gnadinger am Schaffhauserplatz,Gnadinger am Schaffhauserplatz,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,tre fratelli,tre fratelli,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Café Bar Nordbrücke,Café Bar Nordbrücke,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Korry Art of Wurst,Korry Art of Wurst,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Al Solito Posto,Al Solito Posto,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Limmathof,Limmathof,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Restaurant Terzo,Restaurant Terzo,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Restaurant Weisses Kreuz,Restaurant Weisses Kreuz,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Bellevue Deli,Bellevue Deli,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Original Kebap House,Original Kebap House,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Gleis 9,Gleis 9,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Thai Food Station,Thai Food Station,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Landgasthof Wassberg,Landgasthof Wassberg,0,其他,0.0,0.0,0.0
+更多美食,Emilia Trattoria Pizzeria,Emilia Trattoria Pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Steakhaus & Pizzeria Mattenhof,Steakhaus & Pizzeria Mattenhof,0,其他,0.0,0.0,0.0
+更多美食,YAN Sushi & Wok,YAN Sushi & Wok,0,其他,0.0,0.0,0.0
+更多美食,Grottino 83,Grottino 83,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,La Cote,La Cote,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Restaurant Zentraleck,Restaurant Zentraleck,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Restaurant Schutzehuus,Restaurant Schutzehuus,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+更多美食,Mr. And Mrs. Glutenfree,Mr. And Mrs. Glutenfree,0,其他,0.0,0.0,0.0
+更多美食,Restaurant R21,Restaurant R21,0,其他,0.0,0.0,0.0
+更多美食,Intermezzo,Intermezzo,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Barflyz,Barflyz,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Ristorante Siena,Ristorante Siena,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Bar Nocciolina,Bar Nocciolina,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Cafe Presse Club,Cafe Presse Club,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Blumen Bar Blumenkramer,Blumen Bar Blumenkramer,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Restaurant St. Peter,Restaurant St. Peter,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Buvette Philipp,Buvette Philipp,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Subway,Subway,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Restaurant Stauffacher Tor,Restaurant Stauffacher Tor,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Tina Bar,Tina Bar,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Splendid,Splendid,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,ARTige BAR,ARTige BAR,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Zum Weissen Schwan,Zum Weissen Schwan,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Mishio Restaurant and Takeaway,Mishio Restaurant and Takeaway,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Zur Nachtigall,Zur Nachtigall,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Hotel City Restaurant,Hotel City Restaurant,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Peking Garden,Peking Garden,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Time Out,Time Out,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Daniel H.,Daniel H.,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,xenix - summer,xenix - summer,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Yumi Hana,Yumi Hana,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,New-Point,New-Point,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,"Au Gratin, Restaurant","Au Gratin, Restaurant",0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Bona Dea,Bona Dea,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Schweizerdegen,Schweizerdegen,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Gambrinus,Gambrinus,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Grottino 79,Grottino 79,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Siri,Siri,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Roi-Et,Roi-Et,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Cafe Cote d'Azur,Cafe Cote d'Azur,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Cafe Museum Rietberg,Cafe Museum Rietberg,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,La Penisola,La Penisola,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Lawrence,Lawrence,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Alden Hotel Splugenschloss,Alden Hotel Splugenschloss,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Spectaturs,Spectaturs,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Lola's Restaurant,Lola's Restaurant,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,"Pyramids, Zurich","Pyramids, Zurich",0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Restaurant Honeret,Restaurant Honeret,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Falcone,Falcone,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Restaurant Werdguet,Restaurant Werdguet,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Chuchi am Wasser,Chuchi am Wasser,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Sirimongkonnthai,Sirimongkonnthai,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Panama Bar - Grill,Panama Bar - Grill,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Cafe Des Amis,Cafe Des Amis,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Asian Place,Asian Place,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Island Ceylon,Island Ceylon,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Konrad 39,Konrad 39,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Gloria,Gloria,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,King's Kurry,King's Kurry,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Restaurant Eisenhof,Restaurant Eisenhof,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Santa Lucia,Santa Lucia,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Kornhaus,Kornhaus,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Valentin's,Valentin's,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Gartenbeiz Zum Gaul,Gartenbeiz Zum Gaul,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Burestube,Burestube,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Josephs Pub,Josephs Pub,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Restaurant Viadukt,Restaurant Viadukt,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Mambo Cafe,Mambo Cafe,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Shisha Club Zurich,Shisha Club Zurich,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Acanto,Acanto,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Restaurant Pizzeria Senator,Restaurant Pizzeria Senator,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Cafe Freytag,Cafe Freytag,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Restaurant Iroquois,Restaurant Iroquois,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Restaurant Neumuenster,Restaurant Neumuenster,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Stones,Stones,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Sorell Hotel Seefeld,Sorell Hotel Seefeld,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Lido Utoquai,Lido Utoquai,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Landli Zuri,Landli Zuri,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Asian Moon,Asian Moon,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Sorrento Kreuzplatz,Sorrento Kreuzplatz,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Belcanto,Belcanto,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Belcafe,Belcafe,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Vapiano,Vapiano,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,La Zoupa cuisine,La Zoupa cuisine,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Orsons Gourmet im Claridge,Orsons Gourmet im Claridge,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Pizzeria Pomodoro,Pizzeria Pomodoro,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Terroir,Terroir,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Paul's Chasstubli,Paul's Chasstubli,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Royal Grill,Royal Grill,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Giardina Messe Zurich,Giardina Messe Zurich,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Tomate Seebach,Tomate Seebach,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Pizzeria Da Pepino,Pizzeria Da Pepino,0,11.阿福尔特恩-欧瑞康-泽巴赫,0.0,0.0,0.0
+更多美食,Restaurant Bahnhof,Restaurant Bahnhof,0,其他,0.0,0.0,0.0
+更多美食,KREUZPLATZ da Palermo,KREUZPLATZ da Palermo,0,其他,0.0,0.0,0.0
+更多美食,Bergrestaurant Uto Staffel,Bergrestaurant Uto Staffel,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Friedbrunnen,Restaurant Friedbrunnen,0,其他,0.0,0.0,0.0
+更多美食,Spielhaus Bar Ey,Spielhaus Bar Ey,0,其他,0.0,0.0,0.0
+更多美食,Gasthof zum Weissen Rossli,Gasthof zum Weissen Rossli,0,其他,0.0,0.0,0.0
+更多美食,Santa Lucia,Santa Lucia,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Asian Dining,Restaurant Asian Dining,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Salentina 1,Pizzeria Salentina 1,0,其他,0.0,0.0,0.0
+更多美食,Kebab House Hongg,Kebab House Hongg,0,其他,0.0,0.0,0.0
+更多美食,Schnagg - Iss Frisch,Schnagg - Iss Frisch,0,其他,0.0,0.0,0.0
+更多美食,dieci 10' Pizza & Pasta,dieci 10' Pizza & Pasta,0,其他,0.0,0.0,0.0
+更多美食,Swiss Bistro,Swiss Bistro,0,其他,0.0,0.0,0.0
+更多美食,Gasthof Loewen,Gasthof Loewen,0,其他,0.0,0.0,0.0
+更多美食,Plusch,Plusch,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Ferdinand,Ferdinand,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Berta Bar & Café,Berta Bar & Café,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Z am Park,Z am Park,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Traube,Traube,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Pizza Pasta Ciao,Pizza Pasta Ciao,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+更多美食,Le Pain Quotidien,Le Pain Quotidien,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+更多美食,Altes Klosterli Zoo Restaurant,Altes Klosterli Zoo Restaurant,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+更多美食,Asia im Foodland,Asia im Foodland,0,其他,0.0,0.0,0.0
+更多美食,ESPRESSINO AL PORTO,ESPRESSINO AL PORTO,0,其他,0.0,0.0,0.0
+更多美食,Strozzi's Fraumunster,Strozzi's Fraumunster,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Cha cha - Thai Positive Eating,Cha cha - Thai Positive Eating,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Werd,Werd,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Bar Corazon,Bar Corazon,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Centro,Centro,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Pot Au Vert,Pot Au Vert,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Walliser Kanne,Walliser Kanne,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,ETH Mensa Polyterrasse,ETH Mensa Polyterrasse,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Elite,Elite,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Allegrotto,Allegrotto,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Swisscom Binz,Swisscom Binz,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Juan Costa Restaurant & Tapas Bar,Juan Costa Restaurant & Tapas Bar,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Restaurant Perle de Beirut,Restaurant Perle de Beirut,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Domino's Pizza,Domino's Pizza,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Holzschopf,Holzschopf,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Billiardino,Billiardino,0,5.格韦尔伯舒勒埃舍维斯,0.0,0.0,0.0
+更多美食,Cafe Black,Cafe Black,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Restaurant KRILL,Restaurant KRILL,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Triibhuus,Triibhuus,0,其他,0.0,0.0,0.0
+更多美食,Peking Garden,Peking Garden,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Kronenhof,Restaurant Kronenhof,0,其他,0.0,0.0,0.0
+更多美食,Waldhaus-Katzensee,Waldhaus-Katzensee,0,其他,0.0,0.0,0.0
+更多美食,Palme de Beirut,Palme de Beirut,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Vorderberg,Vorderberg,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+更多美食,Restaurant Hintergeissboden,Restaurant Hintergeissboden,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0
+更多美食,KOREA PAVILLON,KOREA PAVILLON,0,9.阿尔比斯登-阿尔特施泰滕,0.0,0.0,0.0
+更多美食,Cafe Odeon,Cafe Odeon,0,其他,0.0,0.0,0.0
+更多美食,"Kropf, Bierhalle","Kropf, Bierhalle",0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Poestli,Poestli,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Wine-Bar Barrique,Wine-Bar Barrique,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Bubu,Bubu,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Ostia,Ostia,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Pachacamac,Pachacamac,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Schutzerngasse Restaurant,Schutzerngasse Restaurant,0,1.市政厅-Hochschulen-林登霍夫城,0.0,0.0,0.0
+更多美食,Strozzi's in der Enge,Strozzi's in der Enge,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Restaurant Delmonico,Restaurant Delmonico,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Abyssinia,Abyssinia,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Restaurant PopCorn,Restaurant PopCorn,0,2.Wollishofen-莱姆巴赫-恩格,0.0,0.0,0.0
+更多美食,Dynamo,Dynamo,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Ravis Indian Cuisine,Ravis Indian Cuisine,0,6.温特施特拉斯奥伯施特拉斯,0.0,0.0,0.0
+更多美食,Steigenberger Bellerive Au Lac,Steigenberger Bellerive Au Lac,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Skebe,Skebe,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,Orsons Kueche.de,Orsons Kueche.de,0,8.泽菲尔德姆尼布奇维尼格,0.0,0.0,0.0
+更多美食,L'Ulivo,L'Ulivo,0,其他,0.0,0.0,0.0
+更多美食,Casa Bonita,Casa Bonita,0,其他,0.0,0.0,0.0
+更多美食,Bar B21,Bar B21,0,7.弗卢滕-霍廷恩-希尔斯兰登-维孔,0.0,0.0,0.0

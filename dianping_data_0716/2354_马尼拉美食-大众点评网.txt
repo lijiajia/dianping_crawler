@@ -1,0 +1,204 @@
+东南亚菜,Max's Restaurant
+东南亚菜,Ristorante Delle Mitre
+东南亚菜,Gerry's Grill
+东南亚菜,马克斯餐厅
+东南亚菜,The Singing Cooks & Waiters
+东南亚菜,Benjarong Royal Thai Restaurant
+东南亚菜,La Cocina de Tita Moning
+东南亚菜,Ilustrado
+东南亚菜,iBread
+东南亚菜,Casa Roces
+东南亚菜,Ramon Lee's Panciteria
+东南亚菜,Sky Lounge Music Bar
+东南亚菜,Original Pares Mami House
+东南亚菜,Simply Thai
+东南亚菜,COWBOY GRILL
+东南亚菜,Cabalen
+东南亚菜,Pho Hoa Vietnamese Delights
+东南亚菜,Yakitori Dori Bar and Grill
+东南亚菜,C2 Classic Cuisine
+东南亚菜,Mary Grace
+东南亚菜,9 Spoons
+东南亚菜,Rocket Room
+东南亚菜,Makan Makan Asian Food Village
+中餐,Huey Ying Restaurant
+中餐,Chowking
+中餐,川湘粤知味馆Tsingtao garden
+中餐,麒麟阁
+中餐,Bread Talk
+中餐,Ying Ying Teahouse
+中餐,Chowking
+中餐,Dong Bei Dumpling
+中餐,Wok Inn Malate
+中餐,Tao Yuan Restaurant
+中餐,Hap Chan Tea House
+中餐,Suzhou Dimsum
+中餐,Eng Tee BIn
+中餐,Assad's Cafe
+中餐,Eat Well
+中餐,Szechuan House
+中餐,Wai Ying Fastfood
+中餐,Eng Bee Tin
+中餐,Quik Snack Restaurant
+中餐,Sincerity Cafe and Restaurant
+中餐,Golden Fortune Seafood Restaurant
+中餐,Harbor View Restaurant
+中餐,Wan Chai Tea House
+中餐,Mr. Choi Kitchen
+中餐,Makan Sutra
+中餐,Ma Mon Luk
+中餐,Wai Ying
+中餐,聚湘阁VITO CRUZ
+中餐,潮汕餐馆 Chao San ResTaurAnt
+日韩料理,Izakaya Den
+日韩料理,Tokyo Cafe
+日韩料理,Yurakuen
+日韩料理,Rose
+日韩料理,Mr Kimbob
+日韩料理,Korean Palace
+日韩料理,Nemoto Restaurant
+日韩料理,Yuujin
+日韩料理,Nodasho
+日韩料理,Nihonbashi Tei
+日韩料理,RAMEN NAGI
+更多亚洲菜,Johnny Chow
+更多亚洲菜,The Chicken Rice Shop
+西式正餐,The Aristocrat
+西式正餐,Italianni's
+西式正餐,Cyma Greek Taverna
+西式正餐,The Buoy
+西式正餐,Bistro Marinero
+西式正餐,La Scala Cafe
+西式正餐,My Kitchen by Chef Chris
+西式正餐,Munchen Grill-Pub
+西式正餐,Studio Kitchen
+西式正餐,Bar 28
+西式正餐,Slice N' Dice
+西式正餐,Finestra
+西式正餐,G Point Smörgåsbord & Bar
+西式正餐,Caruso
+西式正餐,B & T Mexican Kitchen
+西式正餐,LULU Restaurant
+西式正餐,"Italianni's Robinson's Place, Ermita"
+西式正餐,CAFE REPUBLIQ
+西式快餐,Jollibee
+西式快餐,Yellow cab pizza co
+西式快餐,McDonald's
+西式快餐,Greenwich - SM San Lazaro
+西式快餐,Burger King
+西式快餐,Shakey's
+西式快餐,Mang Inasal
+西式快餐,Jollibee
+西式快餐,Jollibee
+西式快餐,Kenny Rogers Roasters
+西式快餐,Jollibee
+西式快餐,Wendy's Hamburgers
+西式快餐,Pizza Hut 168 Mall
+西式快餐,Shakey's
+西式快餐,TGI Friday's
+西式快餐,Zark's Burgers
+西式快餐,Burger King
+西式快餐,Hooters
+西式快餐,Bugsy's Bar & Bistro
+西式快餐,Bacolod Chicken Inasal
+西式快餐,Pizza Hut C.M. Recto
+西式快餐,KFC
+西式快餐,KFC
+西式快餐,McDonald's
+西式快餐,Pizza Hut Robinsons Place
+西式快餐,"Don Henrico's Pizza, Pasta and More"
+西式快餐,Army Navy
+西式快餐,Mary Grace
+海鲜,Hong Kong Master Cook
+海鲜,旅菲石獅绿岛酒楼
+海鲜,Seafood Market and Restaurant
+海鲜,juxian Kitchen 聚贤小厨
+海鲜,Zamboanga Restaurant
+海鲜,Century Park Seafood Restaurant
+海鲜,Barrio Fiesta
+海鲜,聚湘阁私房菜馆
+海鲜,宝龙海鲜酒楼
+海鲜,菲律宾石獅绿岛酒楼
+海鲜,宝龙海鲜酒楼
+烧烤,Tong Yang Robinson Place
+烧烤,Chic-Boy
+烧烤,好再来
+小吃,甘肃拉面
+小吃,好再来
+咖啡厅,Cafe Via Mare
+咖啡厅,Starbucks
+咖啡厅,Cafe Ilang-Ilang
+咖啡厅,KSEM Coffee Shop
+咖啡厅,Market Cafe
+咖啡厅,Hollys Coffee
+咖啡厅,Country Style Bakery
+咖啡厅,Cafe Adriatico
+咖啡厅,Figaro Coffee
+咖啡厅,Coffee Bean & Tea Leaf
+咖啡厅,Coffee Bean & Tea Leaf
+咖啡厅,Starbucks
+咖啡厅,Starbucks
+咖啡厅,Caffe Ti-Amo
+咖啡厅,Cafe Ysabel
+咖啡厅,Iou
+面包甜点,Hizon's Cakes & Pastries
+面包甜点,Crepes and Cream
+面包甜点,Country Style Bakery
+面包甜点,Bread Talk
+面包甜点,Pancake House
+面包甜点,向阳坊烘焙名店SUNMILE
+面包甜点,向阳坊烘焙名店Sunmile
+面包甜点,Sunmile向阳坊烘焙名店
+面包甜点,Sunmile
+酒吧,Le Café Curieux
+其他美食,Kenny Rogers Roasters
+其他美食,Red Crab
+其他美食,Wendy's
+其他美食,Almon Marina
+其他美食,Spiral
+其他美食,Cafe Mary Grace
+其他美食,Sky Deck on Bayleaf Hotel
+其他美食,President Restaurant
+其他美食,Lolo Dad's Cafe
+其他美食,Casa Armas
+其他美食,Bistro Remedios
+其他美食,Champagne Room
+其他美食,Corniche
+其他美食,Restaurant Uno
+其他美食,Gourmand
+其他美食,Savory Chicken
+其他美食,Banana Leaf Curry House
+其他美食,Shinjuku Ramen House
+其他美食,Kamayan
+其他美食,Texas Roadhouse Grill
+其他美食,President Tea House
+其他美食,Emerald Garden
+其他美食,Thebar@1951
+其他美食,Hobbit House
+其他美食,Barcino Wine and Tapas
+其他美食,Lolo Dads
+其他美食,Robinsons Place Food Court
+其他美食,Healthy Shabu Shabu
+其他美食,Kashmir
+其他美食,The Fireplace
+其他美食,Dome
+其他美食,Blessed Tummy
+其他美食,Bonchon Chicken
+其他美食,Pension Natividad
+其他美食,The Slouch Hat
+其他美食,White Moon Bar
+其他美食,Larry and Mau Diner
+其他美食,Nuvo
+其他美食,Sbarro
+其他美食,Lili
+其他美食,Bellini's
+其他美食,Chef Laudico Bistro Filipino
+其他美食,Korean Village
+其他美食,New Orleans
+其他美食,Shawarma Snack Center
+其他美食,Barbara's
+其他美食,Tasty Dumplings
+其他美食,The Aristocrat
+其他美食,Duck Inn Hotel
+其他美食,Racks
+其他美食,The Old Spaghetti House

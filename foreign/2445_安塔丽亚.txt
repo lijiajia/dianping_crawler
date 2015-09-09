@@ -1,0 +1,31 @@
+意大利菜,Leman Kultur,Leman Kultur,0,,7.5,7.5,7.5
+其他西餐,Kitchenette,Kitchenette,0,,7.0,6.9,6.9
+其他西餐,Sultanahmet Koftecisi,Sultanahmet Koftecisi,0,,7.1,7.1,7.1
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta,Meshur Adiyaman Cig Koftecisi Omer Usta,0,,6.9,6.9,6.9
+中餐,Sushico,Sushico,0,,7.1,7.1,7.1
+快餐简餐,McDonald's,McDonald's,0,,7.2,7.2,7.6
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,7.0,7.0,7.0
+快餐简餐,Sbarro,Sbarro,0,,6.9,6.9,6.9
+海鲜,King Fish,King Fish,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,7.5,7.5,7.5
+比萨,Pizza Napoli,Pizza Napoli,0,,6.9,6.9,6.9
+比萨,Pizza Pizza,Pizza Pizza,0,,6.9,6.9,6.9
+比萨,Domino's Pizza,Domino's Pizza,0,,6.9,6.9,6.9
+比萨,Stella's Bella Pizza,Stella's Bella Pizza,0,,7.0,7.0,7.0
+咖啡厅,Terrace Ice Cafe,Terrace Ice Cafe,0,,6.7,7.3,6.9
+咖啡厅,Dem-lik,Dem-lik,0,安塔利亚市中心,6.7,6.9,6.7
+咖啡厅,Lal Cafe,Lal Cafe,0,,7.1,7.5,7.5
+咖啡厅,Order Lounge Cafe Bistro,Order Lounge Cafe Bistro,0,,7.1,6.8,7.1
+咖啡厅,Cafe Sur Lounge,Cafe Sur Lounge,0,,7.0,7.0,7.1
+咖啡厅,Insaat Cafe,Insaat Cafe,0,,6.9,6.9,6.9
+咖啡厅,Lavazza Coffee Shop,Lavazza Coffee Shop,0,,6.9,6.9,6.9
+面包甜点,Waffle 12,Waffle 12,0,,6.9,6.9,6.9
+面包甜点,Bolulu Hasan Usta,Bolulu Hasan Usta,0,,6.9,6.9,6.9
+酒吧,Club Arma,Club Arma,0,,7.2,7.2,7.2
+酒吧,Hayyam Pub,Hayyam Pub,0,,7.0,7.0,7.0
+酒吧,Indigo's Pub,Indigo's Pub,0,,6.9,6.7,6.9
+酒吧,Club Ally,Club Ally,0,,6.7,6.9,6.7
+酒吧,roof bar,roof bar,0,,7.0,7.0,6.9
+更多美食,Parlak Restaurant,Parlak Restaurant,0,,0.0,0.0,0.0

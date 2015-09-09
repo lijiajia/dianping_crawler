@@ -1,0 +1,494 @@
+意大利菜,Benvenuto,Benvenuto,0,中心区,0.0,0.0,0.0
+意大利菜,Sud-Food of Italy,Sud-Food of Italy,0,中心区,0.0,0.0,0.0
+意大利菜,OSTERIA 45,OSTERIA 45,0,中心区,0.0,0.0,0.0
+意大利菜,Terra Promessa,Terra Promessa,0,中心区,0.0,0.0,0.0
+意大利菜,Pasta Maria,Pasta Maria,0,中心区,0.0,0.0,0.0
+意大利菜,Bocca,Bocca,0,中心区,0.0,0.0,0.0
+意大利菜,Pasta Delizia,Pasta Delizia,0,中心区,0.0,0.0,0.0
+意大利菜,Sale e Pepe,Sale e Pepe,0,中心区,0.0,0.0,0.0
+意大利菜,Parazzar,Parazzar,0,圣安德列斯,0.0,0.0,0.0
+意大利菜,La Trattoria,La Trattoria,0,中心区,0.0,0.0,0.0
+意大利菜,La Porta,La Porta,0,中心区,0.0,0.0,0.0
+意大利菜,La Gondola,La Gondola,0,中心区,0.0,0.0,0.0
+意大利菜,Gentile,Gentile,0,中心区,0.0,0.0,0.0
+意大利菜,'T Hof Van Beroep,'T Hof Van Beroep,0,中心区,0.0,0.0,0.0
+意大利菜,Isola Bella,Isola Bella,0,其他,0.0,0.0,0.0
+意大利菜,L'aquila,L'aquila,0,圣米西尔斯,0.0,0.0,0.0
+意大利菜,Pasta-Gusto,Pasta-Gusto,0,圣米西尔斯,0.0,0.0,0.0
+意大利菜,Adriatico,Adriatico,0,中心区,0.0,0.0,0.0
+意大利菜,Vincenzo,Vincenzo,0,中心区,0.0,0.0,0.0
+意大利菜,La Cantina,La Cantina,0,中心区,0.0,0.0,0.0
+意大利菜,Opus Latino,Opus Latino,0,中心区,0.0,0.0,0.0
+意大利菜,Chips n Dips,Chips n Dips,0,中心区,0.0,0.0,0.0
+意大利菜,Pizzeria Da Mario,Pizzeria Da Mario,0,中心区,0.0,0.0,0.0
+意大利菜,Brasserie Pizza and Pasta,Brasserie Pizza and Pasta,0,中心区,0.0,0.0,0.0
+意大利菜,Trattoria Trium,Trattoria Trium,0,中心区,0.0,0.0,0.0
+法国菜,Den Gouden Harynck,Den Gouden Harynck,0,中心区,0.0,0.0,0.0
+法国菜,De Nisse,De Nisse,0,中心区,0.0,0.0,0.0
+法国菜,Chez Olivier,Chez Olivier,0,中心区,0.0,0.0,0.0
+法国菜,Den Heerd,Den Heerd,0,中心区,0.0,0.0,0.0
+法国菜,Vineeto,Vineeto,0,中心区,0.0,0.0,0.0
+法国菜,Tearoom Carpe Diem,Tearoom Carpe Diem,0,中心区,0.0,0.0,0.0
+法国菜,Caffe Da Noi,Caffe Da Noi,0,中心区,0.0,0.0,0.0
+法国菜,Malesherbes,Malesherbes,0,中心区,0.0,0.0,0.0
+法国菜,'t Gulden Vlies,'t Gulden Vlies,0,中心区,0.0,0.0,0.0
+法国菜,L'Accident de Comptoir,L'Accident de Comptoir,0,中心区,0.0,0.0,0.0
+法国菜,La Tache,La Tache,0,中心区,0.0,0.0,0.0
+法国菜,De Zilverberk,De Zilverberk,0,迪德泽勒,0.0,0.0,0.0
+法国菜,Patrick Devos ,Patrick Devos ,0,中心区,0.0,0.0,0.0
+法国菜,'t Bourgoensche Cruyce,'t Bourgoensche Cruyce,0,中心区,0.0,0.0,0.0
+法国菜,The 57 Restaurant,The 57 Restaurant,0,中心区,0.0,0.0,0.0
+法国菜,Merveilleux,Merveilleux,0,中心区,0.0,0.0,0.0
+法国菜,Restaurant Curiosa,Restaurant Curiosa,0,中心区,0.0,0.0,0.0
+法国菜,Restaurant De Pottekijker,Restaurant De Pottekijker,0,中心区,0.0,0.0,0.0
+法国菜,Le Clos du Midi,Le Clos du Midi,0,圣安德列斯,0.0,0.0,0.0
+法国菜,PlazaCafe,PlazaCafe,0,中心区,0.0,0.0,0.0
+法国菜,'t Stil Ende,'t Stil Ende,0,中心区,0.0,0.0,0.0
+法国菜,SENSuniek,SENSuniek,0,其他,0.0,0.0,0.0
+法国菜,Vivaldi Restaurant,Vivaldi Restaurant,0,中心区,0.0,0.0,0.0
+法国菜,De Brugse Hanze,De Brugse Hanze,0,中心区,0.0,0.0,0.0
+墨西哥菜,Carrello,Carrello,0,中心区,0.0,0.0,0.0
+其他西餐,Bistro De schilder,Bistro De schilder,0,中心区,0.0,0.0,0.0
+其他西餐,Chez Albert,Chez Albert,0,中心区,0.0,0.0,0.0
+其他西餐,Brasserie,Brasserie,0,中心区,0.0,0.0,0.0
+其他西餐,Restaurant Kasteel Minnewater,Restaurant Kasteel Minnewater,0,中心区,0.0,0.0,0.0
+其他西餐,In De Plantenmarkt,In De Plantenmarkt,0,中心区,0.0,0.0,0.0
+其他西餐,Arthie's,Arthie's,0,中心区,0.0,0.0,0.0
+其他西餐,The Olive Tree,The Olive Tree,0,中心区,0.0,0.0,0.0
+其他西餐,Bierbrasserie Cambrinus,Bierbrasserie Cambrinus,0,中心区,0.0,0.0,0.0
+其他西餐,Brasserie Raymond,Brasserie Raymond,0,中心区,0.0,0.0,0.0
+其他西餐,Hashtag Food,Hashtag Food,0,中心区,0.0,0.0,0.0
+其他西餐,Chocolatier Van Oost,Chocolatier Van Oost,0,中心区,0.0,0.0,0.0
+其他西餐,Michello's Coffee,Michello's Coffee,0,中心区,0.0,0.0,0.0
+其他西餐,Lieven,Lieven,0,中心区,0.0,0.0,0.0
+其他西餐,Detavernier,Detavernier,0,中心区,0.0,0.0,0.0
+其他西餐,Pomperlut,Pomperlut,0,中心区,0.0,0.0,0.0
+其他西餐,De Stove,De Stove,0,中心区,0.0,0.0,0.0
+其他西餐,Zeno,Zeno,0,中心区,0.0,0.0,0.0
+其他西餐,Wijnbar Est,Wijnbar Est,0,中心区,0.0,0.0,0.0
+其他西餐,Bistro t' Lammetje,Bistro t' Lammetje,0,中心区,0.0,0.0,0.0
+其他西餐,In Den Wittenkop,In Den Wittenkop,0,中心区,0.0,0.0,0.0
+其他西餐,Bistro De Schaar,Bistro De Schaar,0,中心区,0.0,0.0,0.0
+其他西餐,Friterie 1900,Friterie 1900,0,中心区,0.0,0.0,0.0
+其他西餐,Weinebrugge,Weinebrugge,0,其他,0.0,0.0,0.0
+其他西餐,'T Fonduehuisje,'T Fonduehuisje,0,中心区,0.0,0.0,0.0
+其他西餐,Sint Joris,Sint Joris,0,中心区,0.0,0.0,0.0
+其他西餐,Hof van Rembrandt,Hof van Rembrandt,0,中心区,0.0,0.0,0.0
+其他西餐,Breugelhof,Breugelhof,0,中心区,0.0,0.0,0.0
+其他西餐,Porta,Porta,0,中心区,0.0,0.0,0.0
+其他西餐,Delices de Bruges,Delices de Bruges,0,中心区,0.0,0.0,0.0
+其他西餐,Freyne - Slagerij Traiteur,Freyne - Slagerij Traiteur,0,中心区,0.0,0.0,0.0
+其他西餐,Frituur De Biezen,Frituur De Biezen,0,中心区,0.0,0.0,0.0
+其他西餐,De Kalvarieberg,De Kalvarieberg,0,中心区,0.0,0.0,0.0
+其他西餐,Villa Kakelbont,Villa Kakelbont,0,其他,0.0,0.0,0.0
+其他西餐,Pannenhuis,Pannenhuis,0,其他,0.0,0.0,0.0
+其他西餐,De Peerdeblomme,De Peerdeblomme,0,阿瑟布鲁克,0.0,0.0,0.0
+其他西餐,'t Bagientje,'t Bagientje,0,中心区,0.0,0.0,0.0
+其他西餐,'t Zwaantje,'t Zwaantje,0,中心区,0.0,0.0,0.0
+其他西餐,Salade Folle,Salade Folle,0,中心区,0.0,0.0,0.0
+其他西餐,Heer Halewijn,Heer Halewijn,0,中心区,0.0,0.0,0.0
+其他西餐,Kouzina,Kouzina,0,中心区,0.0,0.0,0.0
+其他西餐,'t Kattepoortje,'t Kattepoortje,0,中心区,0.0,0.0,0.0
+其他西餐,El Rincon,El Rincon,0,中心区,0.0,0.0,0.0
+其他西餐,RESTAURANT WILLEMIJN,RESTAURANT WILLEMIJN,0,中心区,0.0,0.0,0.0
+其他西餐,Reliva,Reliva,0,中心区,0.0,0.0,0.0
+其他西餐,RESTO MOJO,RESTO MOJO,0,中心区,0.0,0.0,0.0
+其他西餐,Pub 't Lindenhof,Pub 't Lindenhof,0,中心区,0.0,0.0,0.0
+其他西餐,De Middenstand,De Middenstand,0,中心区,0.0,0.0,0.0
+其他西餐,lokkedize bistro,lokkedize bistro,0,中心区,0.0,0.0,0.0
+其他西餐,Grand Cafe de Passage,Grand Cafe de Passage,0,中心区,0.0,0.0,0.0
+其他西餐,'t Klein Genoegen,'t Klein Genoegen,0,中心区,0.0,0.0,0.0
+其他西餐,Bonte B.,Bonte B.,0,中心区,0.0,0.0,0.0
+其他西餐,Atlas-Souvlaki,Atlas-Souvlaki,0,中心区,0.0,0.0,0.0
+其他西餐,de Verbeelding,de Verbeelding,0,中心区,0.0,0.0,0.0
+其他西餐,Monteintje,Monteintje,0,中心区,0.0,0.0,0.0
+其他西餐,De Ijsbeer,De Ijsbeer,0,中心区,0.0,0.0,0.0
+其他西餐,'t Grillkasteeltje,'t Grillkasteeltje,0,中心区,0.0,0.0,0.0
+其他西餐,Aquarel,Aquarel,0,中心区,0.0,0.0,0.0
+其他西餐,Bistro De Eetkamer,Bistro De Eetkamer,0,中心区,0.0,0.0,0.0
+其他西餐,Bodega Lorena's,Bodega Lorena's,0,中心区,0.0,0.0,0.0
+其他西餐,De Belleman Pub,De Belleman Pub,0,中心区,0.0,0.0,0.0
+其他西餐,Apero & Bistro Pastis,Apero & Bistro Pastis,0,中心区,0.0,0.0,0.0
+其他西餐,Park Restaurant,Park Restaurant,0,中心区,0.0,0.0,0.0
+其他西餐,Guillaume,Guillaume,0,中心区,0.0,0.0,0.0
+其他西餐,Sint Amandje,Sint Amandje,0,中心区,0.0,0.0,0.0
+其他西餐,De Witte Raaf,De Witte Raaf,0,中心区,0.0,0.0,0.0
+其他西餐,Buba Den Gouden Karpe,Buba Den Gouden Karpe,0,中心区,0.0,0.0,0.0
+其他西餐,Bittersweet,Bittersweet,0,中心区,0.0,0.0,0.0
+其他西餐,Bien Soigne,Bien Soigne,0,中心区,0.0,0.0,0.0
+其他西餐,Gingerbread Tea-Room,Gingerbread Tea-Room,0,中心区,0.0,0.0,0.0
+其他西餐,Clerckies,Clerckies,0,中心区,0.0,0.0,0.0
+其他西餐,Burg 9,Burg 9,0,中心区,0.0,0.0,0.0
+其他西餐,Panos,Panos,0,中心区,0.0,0.0,0.0
+其他西餐,Celtic,Celtic,0,中心区,0.0,0.0,0.0
+其他西餐,Diligence,Diligence,0,中心区,0.0,0.0,0.0
+其他西餐,De Gouden Kroes,De Gouden Kroes,0,中心区,0.0,0.0,0.0
+其他西餐,Quatre Mains,Quatre Mains,0,中心区,0.0,0.0,0.0
+其他西餐,Au Petit Grand,Au Petit Grand,0,中心区,0.0,0.0,0.0
+其他西餐,Assiette Blanche,Assiette Blanche,0,中心区,0.0,0.0,0.0
+其他西餐,Passion For Food,Passion For Food,0,中心区,0.0,0.0,0.0
+其他西餐,'t Brugs Pitahuis,'t Brugs Pitahuis,0,中心区,0.0,0.0,0.0
+其他西餐,Le Mystique - Relais & Chateaux,Le Mystique - Relais & Chateaux,0,中心区,0.0,0.0,0.0
+其他西餐,Celtica,Celtica,0,中心区,0.0,0.0,0.0
+其他西餐,Sint-Barbe,Sint-Barbe,0,中心区,0.0,0.0,0.0
+其他西餐,pro Deo,pro Deo,0,中心区,0.0,0.0,0.0
+其他西餐,'t jong Gerecht,'t jong Gerecht,0,中心区,0.0,0.0,0.0
+其他西餐,'t Gezelleke,'t Gezelleke,0,中心区,0.0,0.0,0.0
+其他西餐,Oud Handbogenhof,Oud Handbogenhof,0,中心区,0.0,0.0,0.0
+其他西餐,De Verloren Hoek,De Verloren Hoek,0,中心区,0.0,0.0,0.0
+其他西餐,Brasserie Dampierre,Brasserie Dampierre,0,其他,0.0,0.0,0.0
+其他西餐,'t Apertje,'t Apertje,0,其他,0.0,0.0,0.0
+其他西餐,Grilladin,Grilladin,0,迪德泽勒,0.0,0.0,0.0
+其他西餐,CHARLES QUINT,CHARLES QUINT,0,中心区,0.0,0.0,0.0
+其他西餐,Craenenburg,Craenenburg,0,中心区,0.0,0.0,0.0
+其他西餐,Tom Pouce,Tom Pouce,0,中心区,0.0,0.0,0.0
+其他西餐,De Beurze,De Beurze,0,中心区,0.0,0.0,0.0
+其他西餐,Chez Vincent,Chez Vincent,0,其他,0.0,0.0,0.0
+其他西餐,Le Manoir Quatre Saisons,Le Manoir Quatre Saisons,0,其他,0.0,0.0,0.0
+其他西餐,Lichtschip Mayflower,Lichtschip Mayflower,0,其他,0.0,0.0,0.0
+其他西餐,T Brugsch Friethuys Brugges,T Brugsch Friethuys Brugges,0,其他,0.0,0.0,0.0
+其他西餐,De Bekoring,De Bekoring,0,中心区,0.0,0.0,0.0
+其他西餐,Table Folle,Table Folle,0,中心区,0.0,0.0,0.0
+其他西餐,Brasserie Polshoogte,Brasserie Polshoogte,0,中心区,0.0,0.0,0.0
+其他西餐,Flemish Stew House,Flemish Stew House,0,中心区,0.0,0.0,0.0
+其他西餐,De Postiljon,De Postiljon,0,中心区,0.0,0.0,0.0
+其他西餐,De Zandloper,De Zandloper,0,中心区,0.0,0.0,0.0
+其他西餐,'T Pallieterke,'T Pallieterke,0,中心区,0.0,0.0,0.0
+其他西餐,Christophe,Christophe,0,中心区,0.0,0.0,0.0
+其他西餐,Cafe 't Zand,Cafe 't Zand,0,中心区,0.0,0.0,0.0
+其他西餐,L-Brasserie,L-Brasserie,0,中心区,0.0,0.0,0.0
+其他西餐,Gran Kaffee de Passage,Gran Kaffee de Passage,0,中心区,0.0,0.0,0.0
+其他西餐,Venice,Venice,0,中心区,0.0,0.0,0.0
+其他西餐,Restaurant-Bistro De Twijfelaar,Restaurant-Bistro De Twijfelaar,0,中心区,0.0,0.0,0.0
+其他西餐,Matin Midi,Matin Midi,0,中心区,0.0,0.0,0.0
+其他西餐,HEMA Brugge,HEMA Brugge,0,中心区,0.0,0.0,0.0
+其他西餐,Poules Moules,Poules Moules,0,中心区,0.0,0.0,0.0
+其他西餐,De Koetse,De Koetse,0,中心区,0.0,0.0,0.0
+其他西餐,Den Dyver,Den Dyver,0,中心区,0.0,0.0,0.0
+其他西餐,'T Pandreitje,'T Pandreitje,0,中心区,0.0,0.0,0.0
+其他西餐,De Bierbistro,De Bierbistro,0,中心区,0.0,0.0,0.0
+其他西餐,Cafe de Gilde,Cafe de Gilde,0,中心区,0.0,0.0,0.0
+其他西餐,Casa Patata,Casa Patata,0,中心区,0.0,0.0,0.0
+其他西餐,Petit Maxim,Petit Maxim,0,中心区,0.0,0.0,0.0
+其他西餐,De Gastro,De Gastro,0,中心区,0.0,0.0,0.0
+其他西餐,Visscherie,Visscherie,0,中心区,0.0,0.0,0.0
+其他西餐,Humpty Dumpty,Humpty Dumpty,0,中心区,0.0,0.0,0.0
+其他西餐,Pergola Restaurant,Pergola Restaurant,0,中心区,0.0,0.0,0.0
+其他西餐,Delaney's Irish Pub & Restaurant,Delaney's Irish Pub & Restaurant,0,中心区,0.0,0.0,0.0
+其他西餐,Het Dagelijks Brood,Het Dagelijks Brood,0,中心区,0.0,0.0,0.0
+其他西餐,Charlie Rockets,Charlie Rockets,0,中心区,0.0,0.0,0.0
+其他西餐,Ryad,Ryad,0,中心区,0.0,0.0,0.0
+其他西餐,El Greco,El Greco,0,中心区,0.0,0.0,0.0
+其他西餐,Dell Arte,Dell Arte,0,中心区,0.0,0.0,0.0
+其他西餐,Le Greco,Le Greco,0,中心区,0.0,0.0,0.0
+其他西餐,PortoRomano,PortoRomano,0,中心区,0.0,0.0,0.0
+其他西餐,Balls & Glory,Balls & Glory,0,中心区,0.0,0.0,0.0
+其他西餐,De Bottelier,De Bottelier,0,中心区,0.0,0.0,0.0
+其他西餐,Jan Van Eyck,Jan Van Eyck,0,中心区,0.0,0.0,0.0
+其他西餐,Delisa 'Delisa & Saveurs',Delisa 'Delisa & Saveurs',0,中心区,0.0,0.0,0.0
+其他西餐,Jus et Tartine,Jus et Tartine,0,中心区,0.0,0.0,0.0
+其他西餐,The Cosy Bistro,The Cosy Bistro,0,中心区,0.0,0.0,0.0
+其他西餐,Royal Frituur Veggie Eetboetiek,Royal Frituur Veggie Eetboetiek,0,中心区,0.0,0.0,0.0
+其他西餐,Cafe Vlissinghe,Cafe Vlissinghe,0,中心区,0.0,0.0,0.0
+其他西餐,La Buena Vista,La Buena Vista,0,中心区,0.0,0.0,0.0
+其他西餐,Gasthof De Kroon,Gasthof De Kroon,0,中心区,0.0,0.0,0.0
+其他西餐,Bistro Tableau,Bistro Tableau,0,中心区,0.0,0.0,0.0
+其他西餐,De Herborist (Auberge),De Herborist (Auberge),0,其他,0.0,0.0,0.0
+其他西餐,Marieke van Brugghe,Marieke van Brugghe,0,其他,0.0,0.0,0.0
+其他西餐,Sweet Home Lunch,Sweet Home Lunch,0,圣安德列斯,0.0,0.0,0.0
+其他西餐,Phare de Vie,Phare de Vie,0,圣安德列斯,0.0,0.0,0.0
+其他西餐,den entree principale,den entree principale,0,圣安德列斯,0.0,0.0,0.0
+其他西餐,Den Hovenier,Den Hovenier,0,阿瑟布鲁克,0.0,0.0,0.0
+其他西餐,Resto-Bistro-Loungebar B-In,Resto-Bistro-Loungebar B-In,0,其他,0.0,0.0,0.0
+其他西餐,Brasserie Fort Van Beieren,Brasserie Fort Van Beieren,0,其他,0.0,0.0,0.0
+其他西餐,De Barge,De Barge,0,中心区,0.0,0.0,0.0
+其他西餐,Waffles and Sandwiches,Waffles and Sandwiches,0,中心区,0.0,0.0,0.0
+其他西餐,Bistro Lily Frituur,Bistro Lily Frituur,0,中心区,0.0,0.0,0.0
+其他西餐,'t Begijntje,'t Begijntje,0,中心区,0.0,0.0,0.0
+其他西餐,Chips and Ice,Chips and Ice,0,中心区,0.0,0.0,0.0
+其他西餐,De Gulden Spoor,De Gulden Spoor,0,中心区,0.0,0.0,0.0
+其他西餐,Hotel de Castillon,Hotel de Castillon,0,中心区,0.0,0.0,0.0
+其他西餐,'t Schrijverke,'t Schrijverke,0,中心区,0.0,0.0,0.0
+其他西餐,Erasmus,Erasmus,0,中心区,0.0,0.0,0.0
+其他西餐,Riva Del Sole,Riva Del Sole,0,中心区,0.0,0.0,0.0
+其他西餐,Caramel,Caramel,0,中心区,0.0,0.0,0.0
+其他西餐,Bistro de Pompe,Bistro de Pompe,0,中心区,0.0,0.0,0.0
+其他西餐,'t Eetablissement,'t Eetablissement,0,中心区,0.0,0.0,0.0
+其他西餐,'t Vagevuur,'t Vagevuur,0,中心区,0.0,0.0,0.0
+其他西餐,Pasta Presto,Pasta Presto,0,中心区,0.0,0.0,0.0
+其他西餐,Brasserie Medard,Brasserie Medard,0,中心区,0.0,0.0,0.0
+其他西餐,Beethoven Restaurant,Beethoven Restaurant,0,中心区,0.0,0.0,0.0
+其他西餐,Manuscript,Manuscript,0,中心区,0.0,0.0,0.0
+其他西餐,Huyze Die Maene,Huyze Die Maene,0,中心区,0.0,0.0,0.0
+其他西餐,De Vier Winden,De Vier Winden,0,中心区,0.0,0.0,0.0
+其他西餐,Diligence,Diligence,0,中心区,0.0,0.0,0.0
+其他西餐,'t Voske Malpertuus,'t Voske Malpertuus,0,中心区,0.0,0.0,0.0
+其他西餐,Frituur Memlinc,Frituur Memlinc,0,中心区,0.0,0.0,0.0
+其他西餐,Brugge Kiekske,Brugge Kiekske,0,中心区,0.0,0.0,0.0
+其他西餐,Refter,Refter,0,中心区,0.0,0.0,0.0
+其他西餐,De Republiek,De Republiek,0,中心区,0.0,0.0,0.0
+其他西餐,Sol y Sombra Tapasbar,Sol y Sombra Tapasbar,0,中心区,0.0,0.0,0.0
+其他西餐,Bistro Du Phare,Bistro Du Phare,0,中心区,0.0,0.0,0.0
+其他西餐,De Poulin,De Poulin,0,中心区,0.0,0.0,0.0
+其他西餐,De Grilloir,De Grilloir,0,中心区,0.0,0.0,0.0
+其他西餐,Taco,Taco,0,其他,0.0,0.0,0.0
+其他西餐,Het andere idee,Het andere idee,0,其他,0.0,0.0,0.0
+其他西餐,In de Trutselaar,In de Trutselaar,0,圣米西尔斯,0.0,0.0,0.0
+其他西餐,Vossesteert,Vossesteert,0,阿瑟布鲁克,0.0,0.0,0.0
+其他西餐,Hotel du Singe d'Or,Hotel du Singe d'Or,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Centrale,Cafe Centrale,0,其他,0.0,0.0,0.0
+其他西餐,FNAC,FNAC,0,其他,0.0,0.0,0.0
+其他西餐,'t Nieuw Walnutje,'t Nieuw Walnutje,0,中心区,0.0,0.0,0.0
+其他西餐,Boudewijn I,Boudewijn I,0,中心区,0.0,0.0,0.0
+其他西餐,La Source,La Source,0,中心区,0.0,0.0,0.0
+其他西餐,Patisserie Buhne,Patisserie Buhne,0,中心区,0.0,0.0,0.0
+其他西餐,Brasserie Laurent,Brasserie Laurent,0,中心区,0.0,0.0,0.0
+其他西餐,Le Bistro Bon Vivant,Le Bistro Bon Vivant,0,中心区,0.0,0.0,0.0
+其他西餐,Matinee Restaurant,Matinee Restaurant,0,中心区,0.0,0.0,0.0
+其他西餐,'t Traptje,'t Traptje,0,中心区,0.0,0.0,0.0
+其他西餐,La Romagna,La Romagna,0,中心区,0.0,0.0,0.0
+其他西餐,Het Strijdershuis,Het Strijdershuis,0,中心区,0.0,0.0,0.0
+其他西餐,Vistro & Mosselkelder,Vistro & Mosselkelder,0,中心区,0.0,0.0,0.0
+其他西餐,Sweet Brugge,Sweet Brugge,0,中心区,0.0,0.0,0.0
+其他西餐,Tante Marie,Tante Marie,0,中心区,0.0,0.0,0.0
+其他西餐,Old Bruges,Old Bruges,0,中心区,0.0,0.0,0.0
+其他西餐,Kwizien Divien,Kwizien Divien,0,中心区,0.0,0.0,0.0
+其他西餐,Eethuis Aubergine,Eethuis Aubergine,0,中心区,0.0,0.0,0.0
+其他西餐,De Bourgondier,De Bourgondier,0,中心区,0.0,0.0,0.0
+其他西餐,Quick,Quick,0,中心区,0.0,0.0,0.0
+其他西餐,Cafe Francais,Cafe Francais,0,中心区,0.0,0.0,0.0
+其他西餐,Don Quixote,Don Quixote,0,中心区,0.0,0.0,0.0
+其他西餐,TER HALLE,TER HALLE,0,中心区,0.0,0.0,0.0
+其他西餐,De Torre,De Torre,0,中心区,0.0,0.0,0.0
+其他西餐,Uilenspiegel,Uilenspiegel,0,中心区,0.0,0.0,0.0
+其他西餐,Studiohall,Studiohall,0,其他,0.0,0.0,0.0
+其他西餐,De Waterweelde,De Waterweelde,0,其他,0.0,0.0,0.0
+其他西餐,Brouwerij de Halve Maan,Brouwerij de Halve Maan,0,其他,0.0,0.0,0.0
+其他西餐,Crock Cafe,Crock Cafe,0,中心区,0.0,0.0,0.0
+其他西餐,Waterman,Waterman,0,其他,0.0,0.0,0.0
+中餐,Shanghai Brugge,Shanghai Brugge,0,中心区,0.0,0.0,0.0
+中餐,Gouden Rivier,Gouden Rivier,0,圣安德列斯,0.0,0.0,0.0
+日韩料理,Tanuki,Tanuki,0,中心区,0.0,0.0,0.0
+日韩料理,Kanikama suchi and noodle bar,Kanikama suchi and noodle bar,0,中心区,0.0,0.0,0.0
+日韩料理,Restaurant Sumo,Restaurant Sumo,0,其他,0.0,0.0,0.0
+更多亚洲菜,Zam Zam TGandoori Grill,Zam Zam TGandoori Grill,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Sivalai Thai Restaurant,Sivalai Thai Restaurant,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Toetanchamon,Toetanchamon,0,中心区,0.0,0.0,0.0
+更多亚洲菜,China,China,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Halal Kebab and Snacks,Halal Kebab and Snacks,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Chang Thong Thai,Chang Thong Thai,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Bangkok Delicious,Bangkok Delicious,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Nieuw Monnikenwerve,Nieuw Monnikenwerve,0,其他,0.0,0.0,0.0
+更多亚洲菜,Nakhon Thai,Nakhon Thai,0,中心区,0.0,0.0,0.0
+更多亚洲菜,"Brasserie De Carre,","Brasserie De Carre,",0,其他,0.0,0.0,0.0
+更多亚洲菜,De Stoepa,De Stoepa,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Grillhuisje,Grillhuisje,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Pita Huis,Pita Huis,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Koto,Koto,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Shalimar Indisch Restaurant,Shalimar Indisch Restaurant,0,阿瑟布鲁克,0.0,0.0,0.0
+更多亚洲菜,Bhavani Indian Restaurant,Bhavani Indian Restaurant,0,中心区,0.0,0.0,0.0
+更多亚洲菜,De Lange Muur,De Lange Muur,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Narai Thai,Narai Thai,0,圣安德列斯,0.0,0.0,0.0
+更多亚洲菜,Indian Tandoori,Indian Tandoori,0,中心区,0.0,0.0,0.0
+更多亚洲菜,Belfort,Belfort,0,中心区,0.0,0.0,0.0
+快餐简餐,D's,D's,0,中心区,0.0,0.0,0.0
+快餐简餐,Het Visioen,Het Visioen,0,中心区,0.0,0.0,0.0
+快餐简餐,"Moeder babelutte confiserie, Bruges, Belgium","Moeder babelutte confiserie, Bruges, Belgium",0,中心区,0.0,0.0,0.0
+快餐简餐,Li O Lait,Li O Lait,0,中心区,0.0,0.0,0.0
+快餐简餐,Sanseveria,Sanseveria,0,中心区,0.0,0.0,0.0
+快餐简餐,Bean around the World,Bean around the World,0,中心区,0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,中心区,0.0,0.0,0.0
+海鲜,Petite Aneth,Petite Aneth,0,中心区,0.0,0.0,0.0
+海鲜,Den Gouden Karpel,Den Gouden Karpel,0,中心区,0.0,0.0,0.0
+海鲜,Le Panier d'Or,Le Panier d'Or,0,中心区,0.0,0.0,0.0
+烧烤,In't Nieuw Museum,In't Nieuw Museum,0,中心区,0.0,0.0,0.0
+烧烤,Restaurant De Wijngaert,Restaurant De Wijngaert,0,中心区,0.0,0.0,0.0
+烧烤,El Churrasco,El Churrasco,0,中心区,0.0,0.0,0.0
+烧烤,Ribs 'n Beer,Ribs 'n Beer,0,中心区,0.0,0.0,0.0
+烧烤,Mister Grill & Buffet's,Mister Grill & Buffet's,0,其他,0.0,0.0,0.0
+烧烤,Restaurant Grill de Hobbit,Restaurant Grill de Hobbit,0,中心区,0.0,0.0,0.0
+比萨,Pita Pizza Oostkamp,Pita Pizza Oostkamp,0,,7.0,7.0,6.9
+比萨,Pizza Hut,Pizza Hut,0,中心区,0.0,0.0,0.0
+比萨,Pizzahut simon stevenplein Brugge,Pizzahut simon stevenplein Brugge,0,中心区,0.0,0.0,0.0
+咖啡厅,Marie's House,Marie's House,0,中心区,0.0,0.0,0.0
+咖啡厅,Groot Vlaenderen,Groot Vlaenderen,0,中心区,0.0,0.0,0.0
+咖啡厅,I Love Coffee or Espressobar,I Love Coffee or Espressobar,0,其他,0.0,0.0,0.0
+咖啡厅,Den Amand,Den Amand,0,中心区,0.0,0.0,0.0
+咖啡厅,De Pitaleir,De Pitaleir,0,中心区,0.0,0.0,0.0
+咖啡厅,'t oost,'t oost,0,中心区,0.0,0.0,0.0
+咖啡厅,Tea-room De Proeverie,Tea-room De Proeverie,0,中心区,0.0,0.0,0.0
+咖啡厅,Books & Brunch,Books & Brunch,0,中心区,0.0,0.0,0.0
+咖啡厅,Sorbetiere De Medici,Sorbetiere De Medici,0,中心区,0.0,0.0,0.0
+咖啡厅,The Mix,The Mix,0,中心区,0.0,0.0,0.0
+咖啡厅,Belle Epoque,Belle Epoque,0,中心区,0.0,0.0,0.0
+咖啡厅,Bistro Marco Brugge,Bistro Marco Brugge,0,中心区,0.0,0.0,0.0
+咖啡厅,L'Estaminet,L'Estaminet,0,中心区,0.0,0.0,0.0
+咖啡厅,Cafe Au Lait,Cafe Au Lait,0,中心区,0.0,0.0,0.0
+咖啡厅,Sale et Sucre,Sale et Sucre,0,中心区,0.0,0.0,0.0
+咖啡厅,Bruges Chicken House,Bruges Chicken House,0,中心区,0.0,0.0,0.0
+咖啡厅,Cappuccino,Cappuccino,0,其他,0.0,0.0,0.0
+咖啡厅,EET cafe,EET cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Manna & Co,Manna & Co,0,中心区,0.0,0.0,0.0
+咖啡厅,La Baguette,La Baguette,0,中心区,0.0,0.0,0.0
+咖啡厅,Cafedraal,Cafedraal,0,中心区,0.0,0.0,0.0
+咖啡厅,Simon Dumon,Simon Dumon,0,中心区,0.0,0.0,0.0
+咖啡厅,Koffie Brazila a Brugge,Koffie Brazila a Brugge,0,中心区,0.0,0.0,0.0
+咖啡厅,Meridian 3,Meridian 3,0,中心区,0.0,0.0,0.0
+咖啡厅,Knokke-Out Cafe,Knokke-Out Cafe,0,,7.0,6.9,6.9
+面包甜点,Commeine-Leenders Koen Ann,Commeine-Leenders Koen Ann,0,中心区,0.0,0.0,0.0
+面包甜点,The Chocolate Kiss,The Chocolate Kiss,0,中心区,0.0,0.0,0.0
+面包甜点,Patisserie Academie,Patisserie Academie,0,中心区,0.0,0.0,0.0
+面包甜点,De Lange Bakker,De Lange Bakker,0,中心区,0.0,0.0,0.0
+面包甜点,Gelateria Da Vinci,Gelateria Da Vinci,0,中心区,0.0,0.0,0.0
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,中心区,0.0,0.0,0.0
+面包甜点,Prestige Patisserie,Prestige Patisserie,0,中心区,0.0,0.0,0.0
+面包甜点,Patisserie Servaas Van Mullem,Patisserie Servaas Van Mullem,0,中心区,0.0,0.0,0.0
+面包甜点,Dumon Artisanale Chocolatier,Dumon Artisanale Chocolatier,0,中心区,0.0,0.0,0.0
+面包甜点,St. Salvator Patisserie & Tearoom,St. Salvator Patisserie & Tearoom,0,中心区,0.0,0.0,0.0
+面包甜点,Laurenzio,Laurenzio,0,中心区,0.0,0.0,0.0
+酒吧,De Halve Maan,De Halve Maan,0,阿瑟布鲁克,6.7,6.9,6.9
+酒吧,T' Brugsch Bieratelier,T' Brugsch Bieratelier,0,中心区,0.0,0.0,0.0
+酒吧,Cuvee,Cuvee,0,中心区,0.0,0.0,0.0
+酒吧,De Kleine Nachtmuziek,De Kleine Nachtmuziek,0,中心区,0.0,0.0,0.0
+酒吧,'t Opkikkertje,'t Opkikkertje,0,中心区,0.0,0.0,0.0
+酒吧,Bruut,Bruut,0,其他,0.0,0.0,0.0
+酒吧,The Vintage,The Vintage,0,中心区,0.0,0.0,0.0
+酒吧,Lokkedize,Lokkedize,0,中心区,0.0,0.0,0.0
+酒吧,De Hollandse Vismijn,De Hollandse Vismijn,0,中心区,0.0,0.0,0.0
+酒吧,Staminee De Garre,Staminee De Garre,0,中心区,0.0,0.0,0.0
+酒吧,Bar Des Amis,Bar Des Amis,0,中心区,0.0,0.0,0.0
+酒吧,Cafe Rose Red,Cafe Rose Red,0,中心区,0.0,0.0,0.0
+酒吧,Herberg Vlissinghe,Herberg Vlissinghe,0,中心区,0.0,0.0,0.0
+酒吧,Rail City,Rail City,0,中心区,0.0,0.0,0.0
+酒吧,Belgian Beer Pub Don Quichotte,Belgian Beer Pub Don Quichotte,0,中心区,0.0,0.0,0.0
+酒吧,Pietje Pek,Pietje Pek,0,中心区,0.0,0.0,0.0
+酒吧,Ma Rica Rokk,Ma Rica Rokk,0,中心区,0.0,0.0,0.0
+酒吧,Pili Pili,Pili Pili,0,中心区,0.0,0.0,0.0
+酒吧,Brasserie Punta Est,Brasserie Punta Est,0,中心区,0.0,0.0,0.0
+酒吧,'t Voutje,'t Voutje,0,中心区,0.0,0.0,0.0
+酒吧,La Civiere D'Or,La Civiere D'Or,0,中心区,0.0,0.0,0.0
+更多美食,Cafe des Arts,Cafe des Arts,0,中心区,0.0,0.0,0.0
+更多美食,Gruuthuse Hof,Gruuthuse Hof,0,中心区,0.0,0.0,0.0
+更多美食,Galler Chocolatier Brugge,Galler Chocolatier Brugge,0,中心区,0.0,0.0,0.0
+更多美食,'t Huidevettershuis,'t Huidevettershuis,0,中心区,0.0,0.0,0.0
+更多美食,Cornee,Cornee,0,中心区,0.0,0.0,0.0
+更多美食,Le Petit Patron,Le Petit Patron,0,中心区,0.0,0.0,0.0
+更多美食,Restaurant Sixties,Restaurant Sixties,0,其他,0.0,0.0,0.0
+更多美食,Breydel-De Coninck,Breydel-De Coninck,0,中心区,0.0,0.0,0.0
+更多美食,Maximiliaan Van Oostenrijk,Maximiliaan Van Oostenrijk,0,中心区,0.0,0.0,0.0
+更多美食,'t Oud Kanthuys,'t Oud Kanthuys,0,中心区,0.0,0.0,0.0
+更多美食,BellyS Bar-Choc Espressobar,BellyS Bar-Choc Espressobar,0,中心区,0.0,0.0,0.0
+更多美食,Chocolaterie Sukerbuyc,Chocolaterie Sukerbuyc,0,中心区,0.0,0.0,0.0
+更多美食,Confiserie Zucchero,Confiserie Zucchero,0,中心区,0.0,0.0,0.0
+更多美食,Bauhaus,Bauhaus,0,中心区,0.0,0.0,0.0
+更多美食,Dukes' Palace,Dukes' Palace,0,中心区,0.0,0.0,0.0
+更多美食,Carlito's Restaurant,Carlito's Restaurant,0,其他,0.0,0.0,0.0
+更多美食,The Old Chocolate Housse,The Old Chocolate Housse,0,其他,0.0,0.0,0.0
+更多美食,De Bron,De Bron,0,中心区,0.0,0.0,0.0
+更多美食,Tonka,Tonka,0,中心区,0.0,0.0,0.0
+更多美食,Hollywood,Hollywood,0,中心区,0.0,0.0,0.0
+更多美食,Miss Ellie,Miss Ellie,0,中心区,0.0,0.0,0.0
+更多美食,Le Chef Et Moi,Le Chef Et Moi,0,中心区,0.0,0.0,0.0
+更多美食,de Buhne,de Buhne,0,中心区,0.0,0.0,0.0
+更多美食,Hemelrycke,Hemelrycke,0,中心区,0.0,0.0,0.0
+更多美食,Simon Stevin,Simon Stevin,0,中心区,0.0,0.0,0.0
+更多美食,Restaurant Couvert,Restaurant Couvert,0,中心区,0.0,0.0,0.0
+更多美食,'t Fonteintie,'t Fonteintie,0,中心区,0.0,0.0,0.0
+更多美食,de Mangerie,de Mangerie,0,中心区,0.0,0.0,0.0
+更多美食,'t Brugs Beertje,'t Brugs Beertje,0,中心区,0.0,0.0,0.0
+更多美食,The Habit,The Habit,0,中心区,0.0,0.0,0.0
+更多美食,Relais Bourgondisch Cruyce Restaurant,Relais Bourgondisch Cruyce Restaurant,0,中心区,0.0,0.0,0.0
+更多美食,Cookie's,Cookie's,0,中心区,0.0,0.0,0.0
+更多美食,The Chocolate Crown,The Chocolate Crown,0,中心区,0.0,0.0,0.0
+更多美食,Chicken Inn,Chicken Inn,0,中心区,0.0,0.0,0.0
+更多美食,Calis,Calis,0,中心区,0.0,0.0,0.0
+更多美食,Brazila Koffiebranderij,Brazila Koffiebranderij,0,中心区,0.0,0.0,0.0
+更多美食,Baobab,Baobab,0,中心区,0.0,0.0,0.0
+更多美食,De Pepermolen,De Pepermolen,0,中心区,0.0,0.0,0.0
+更多美食,Rock Fort,Rock Fort,0,中心区,0.0,0.0,0.0
+更多美食,Bistro Den Huzaar,Bistro Den Huzaar,0,中心区,0.0,0.0,0.0
+更多美食,'t Zwart Huis,'t Zwart Huis,0,中心区,0.0,0.0,0.0
+更多美食,'T Verdriet Van Belgie,'T Verdriet Van Belgie,0,中心区,0.0,0.0,0.0
+更多美食,De Florentijnen,De Florentijnen,0,中心区,0.0,0.0,0.0
+更多美食,Comptoir Des Arts,Comptoir Des Arts,0,中心区,0.0,0.0,0.0
+更多美食,Bistro Kok au Vin,Bistro Kok au Vin,0,中心区,0.0,0.0,0.0
+更多美食,Celebrations Entertainment,Celebrations Entertainment,0,中心区,0.0,0.0,0.0
+更多美食,Pieter Pourbus,Pieter Pourbus,0,中心区,0.0,0.0,0.0
+更多美食,Bistro Terrastje,Bistro Terrastje,0,中心区,0.0,0.0,0.0
+更多美食,Saigon,Saigon,0,中心区,0.0,0.0,0.0
+更多美食,De Windmolen,De Windmolen,0,中心区,0.0,0.0,0.0
+更多美食,Laissez-Faire,Laissez-Faire,0,中心区,0.0,0.0,0.0
+更多美食,Route des Epices,Route des Epices,0,中心区,0.0,0.0,0.0
+更多美食,HERTOG JAN,HERTOG JAN,0,其他,0.0,0.0,0.0
+更多美食,De Tijl,De Tijl,0,其他,0.0,0.0,0.0
+更多美食,de jonkman,de jonkman,0,其他,0.0,0.0,0.0
+更多美食,Passeviet,Passeviet,0,圣安德列斯,0.0,0.0,0.0
+更多美食,Tete Pressee,Tete Pressee,0,圣米西尔斯,0.0,0.0,0.0
+更多美食,La Dentelliere,La Dentelliere,0,中心区,0.0,0.0,0.0
+更多美食,Maria van Bourgondie,Maria van Bourgondie,0,中心区,0.0,0.0,0.0
+更多美食,De Foyer,De Foyer,0,中心区,0.0,0.0,0.0
+更多美食,La Taverne Brugeoise,La Taverne Brugeoise,0,中心区,0.0,0.0,0.0
+更多美食,Lilaloe Brasserie,Lilaloe Brasserie,0,其他,0.0,0.0,0.0
+更多美食,Rang,Rang,0,中心区,0.0,0.0,0.0
+更多美食,Huisbrouwerij De Halve Maan,Huisbrouwerij De Halve Maan,0,中心区,0.0,0.0,0.0
+更多美食,De Zevende Hemel,De Zevende Hemel,0,中心区,0.0,0.0,0.0
+更多美食,B.IN,B.IN,0,中心区,0.0,0.0,0.0
+更多美食,'t Zand 27,'t Zand 27,0,中心区,0.0,0.0,0.0
+更多美食,Van Eyck,Van Eyck,0,中心区,0.0,0.0,0.0
+更多美食,O'teur,O'teur,0,中心区,0.0,0.0,0.0
+更多美食,'T Eekhoetje,'T Eekhoetje,0,中心区,0.0,0.0,0.0
+更多美食,Brasserie taverne Rozenhoedkaai,Brasserie taverne Rozenhoedkaai,0,中心区,0.0,0.0,0.0
+更多美食,Duc De Bourgogne,Duc De Bourgogne,0,中心区,0.0,0.0,0.0
+更多美食,De Belegde Boterham,De Belegde Boterham,0,中心区,0.0,0.0,0.0
+更多美食,Le Bistrot,Le Bistrot,0,中心区,0.0,0.0,0.0
+更多美食,Sint-Amandskelder,Sint-Amandskelder,0,中心区,0.0,0.0,0.0
+更多美食,Oud Brugge,Oud Brugge,0,中心区,0.0,0.0,0.0
+更多美食,Breidel,Breidel,0,中心区,0.0,0.0,0.0
+更多美食,Ganzespel,Ganzespel,0,中心区,0.0,0.0,0.0
+更多美食,De Fonduetafel,De Fonduetafel,0,中心区,0.0,0.0,0.0
+更多美食,Brasserie Meml I NC,Brasserie Meml I NC,0,中心区,0.0,0.0,0.0
+更多美食,Verdi,Verdi,0,中心区,0.0,0.0,0.0
+更多美食,De Karmeliet,De Karmeliet,0,中心区,0.0,0.0,0.0
+更多美食,Lotus,Lotus,0,中心区,0.0,0.0,0.0
+更多美食,Brasserie Souffleur,Brasserie Souffleur,0,中心区,0.0,0.0,0.0
+更多美食,Kurt's Pan,Kurt's Pan,0,中心区,0.0,0.0,0.0
+更多美食,vegetarian restaurant ZEN,vegetarian restaurant ZEN,0,中心区,0.0,0.0,0.0
+更多美食,Brasserie Forestiere,Brasserie Forestiere,0,中心区,0.0,0.0,0.0
+更多美食,Sans Cravate,Sans Cravate,0,中心区,0.0,0.0,0.0
+更多美食,Opus Latino,Opus Latino,0,其他,0.0,0.0,0.0
+更多美食,Craenenburg,Craenenburg,0,其他,0.0,0.0,0.0
+更多美食,Etna,Etna,0,中心区,0.0,0.0,0.0
+更多美食,'t Minnewater,'t Minnewater,0,中心区,0.0,0.0,0.0
+更多美食,'T Putje,'T Putje,0,中心区,0.0,0.0,0.0
+更多美食,De Londres,De Londres,0,中心区,0.0,0.0,0.0
+更多美食,'T Silversant,'T Silversant,0,中心区,0.0,0.0,0.0
+更多美食,'t Fonteintje,'t Fonteintje,0,中心区,0.0,0.0,0.0
+更多美食,Hotel Bourgoensch-Hof Bistro-Bar,Hotel Bourgoensch-Hof Bistro-Bar,0,中心区,0.0,0.0,0.0
+更多美食,'T Dreveken,'T Dreveken,0,中心区,0.0,0.0,0.0
+更多美食,De Mosselkelder,De Mosselkelder,0,中心区,0.0,0.0,0.0
+更多美食,Chagall,Chagall,0,中心区,0.0,0.0,0.0
+更多美食,Chi Chi's,Chi Chi's,0,中心区,0.0,0.0,0.0
+更多美食,Dingen en Koffie,Dingen en Koffie,0,中心区,0.0,0.0,0.0
+更多美食,Cafe Pick,Cafe Pick,0,中心区,0.0,0.0,0.0
+更多美食,Cedrus,Cedrus,0,中心区,0.0,0.0,0.0
+更多美食,Brasserie De Tijd,Brasserie De Tijd,0,圣米西尔斯,0.0,0.0,0.0
+更多美食,La Belle Vue,La Belle Vue,0,其他,0.0,0.0,0.0
+更多美食,Primavera Private Dining,Primavera Private Dining,0,中心区,0.0,0.0,0.0
+更多美食,Petite Maison,Petite Maison,0,中心区,0.0,0.0,0.0
+更多美食,Graaf van Vlaanderen,Graaf van Vlaanderen,0,中心区,0.0,0.0,0.0
+更多美食,Singe D'Or,Singe D'Or,0,中心区,0.0,0.0,0.0
+更多美食,Eetcafé De Vuyst,Eetcafé De Vuyst,0,中心区,0.0,0.0,0.0
+更多美食,Yellow Bistro,Yellow Bistro,0,中心区,0.0,0.0,0.0
+更多美食,Tea Room Haagen-Dazs,Tea Room Haagen-Dazs,0,中心区,0.0,0.0,0.0
+更多美食,Mozarthuys,Mozarthuys,0,中心区,0.0,0.0,0.0
+更多美食,Carillon,Carillon,0,中心区,0.0,0.0,0.0
+更多美食,Le Grand Cafe Belfort,Le Grand Cafe Belfort,0,中心区,0.0,0.0,0.0
+更多美食,De Carre,De Carre,0,中心区,0.0,0.0,0.0
+更多美食,Hotel-Restaurant Central / Sirene D'Or,Hotel-Restaurant Central / Sirene D'Or,0,中心区,0.0,0.0,0.0
+更多美食,DE VERSTEENDE NACHT,DE VERSTEENDE NACHT,0,中心区,0.0,0.0,0.0
+更多美食,Frituur 't Bootje,Frituur 't Bootje,0,中心区,0.0,0.0,0.0
+更多美食,La Zizzi,La Zizzi,0,中心区,0.0,0.0,0.0
+更多美食,Spinola,Spinola,0,中心区,0.0,0.0,0.0
+更多美食,Creperie De Bretoen,Creperie De Bretoen,0,中心区,0.0,0.0,0.0
+更多美食,De Kantine,De Kantine,0,圣米西尔斯,0.0,0.0,0.0
+更多美食,D'Hoeve,D'Hoeve,0,中心区,0.0,0.0,0.0

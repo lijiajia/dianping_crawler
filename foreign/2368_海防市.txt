@@ -1,0 +1,16 @@
+咖啡厅,Bamboo Cafe,Bamboo Cafe,0,,7.1,7.1,7.1
+咖啡厅,Green Bamboo Forest,Green Bamboo Forest,0,,6.9,7.0,7.0
+咖啡厅,Green Catba,Green Catba,0,,7.1,7.1,7.1
+酒吧,Hải Phòng KTV,Hải Phòng KTV,0,海防市其他,7.0,7.0,7.0
+酒吧,Flightless Bird Bar,Flightless Bird Bar,0,,7.1,7.1,7.1
+酒吧,Rosebar,Rosebar,0,,6.9,6.9,6.9
+酒吧,Karaoke 7C,Karaoke 7C,0,海防市其他,0.0,0.0,0.0
+西餐,Phuong Phuong Restaurant,Phuong Phuong Restaurant,0,,7.2,7.2,7.2
+西餐,Quang Anh Cat Ba Restaurant,Quang Anh Cat Ba Restaurant,0,,7.1,7.1,7.0
+西餐,Phuong Nhung Restaurant,Phuong Nhung Restaurant,0,,7.0,7.0,6.9
+西餐,Noble House Restaurant,Noble House Restaurant,0,,6.8,6.8,6.8
+面包甜点,Rex Hotel,Rex Hotel,0,海防市其他,0.0,0.0,0.0
+面包甜点,Cửa hàng bánh Hương Cẩm Ngọc,Cửa hàng bánh Hương Cẩm Ngọc,0,海防市其他,0.0,0.0,0.0
+快餐,Tom Cafe,Tom Cafe,0,海防市其他,0.0,0.0,0.0
+快餐,富诚饭店（nhahanhphuthanh）,富诚饭店（nhahanhphuthanh）,0,,0.0,0.0,0.0
+快餐,Cafe Ham 336,Cafe Ham 336,0,海防市其他,0.0,0.0,0.0

@@ -1,0 +1,496 @@
+韩国料理,釜山南浦洞小吃街,釜山南浦洞小吃街,22,南浦洞/札嘎其,7.5,7.0,7.3
+韩国料理,双胞胎猪肉汤饭,双胞胎猪肉汤饭,0,釜山近郊,8.5,7.7,7.8
+韩国料理,王猪肉汤饭,王猪肉汤饭,0,海云台,7.6,7.4,8.0
+韩国料理,汉阳猪蹄,汉阳猪蹄,0,南浦洞/札嘎其,7.3,7.3,7.3
+韩国料理,松亭3代猪汤饭,松亭3代猪汤饭,0,,8.4,8.2,8.6
+韩国料理,锦绣河豚店,锦绣河豚店,0,海云台,7.9,7.8,7.9
+韩国料理,南浦参鸡汤,南浦参鸡汤,0,南浦洞/札嘎其,7.6,7.1,6.9
+韩国料理,갈비42번가숯불구이전문점,갈비42번가숯불구이전문점,0,釜山镇/西面,7.9,7.9,8.3
+韩国料理,庭院家,庭院家,0,釜山镇/西面,7.0,7.1,7.1
+韩国料理,冬柏参鸡汤,冬柏参鸡汤,0,海云台,7.5,7.5,7.5
+韩国料理,忠武生鱼片店,忠武生鱼片店,0,南浦洞/札嘎其,7.0,6.5,6.9
+韩国料理,해운대소문난암소갈비집,해운대소문난암소갈비집,0,海云台,8.5,8.5,8.0
+韩国料理,本钱猪肉汤饭,本钱猪肉汤饭,0,釜山火车站,7.4,6.8,7.2
+韩国料理,盲鳗料理,盲鳗料理,0,釜山近郊,6.5,6.7,7.0
+韩国料理,巍然,巍然,0,海云台,7.7,7.9,8.1
+韩国料理,镇国名家,镇国名家,0,釜山大学/釜山外大,7.8,7.8,7.8
+韩国料理,首尔生鱼片,首尔生鱼片,0,釜山镇/西面,7.0,6.7,6.7
+韩国料理,mubanna炸鸡,mubanna炸鸡,0,釜山近郊,6.6,7.0,6.9
+韩国料理,문화관,문화관,0,海云台,7.4,6.7,8.2
+韩国料理,釜山猪蹄,釜山猪蹄,0,釜山近郊,7.0,7.0,6.9
+韩国料理,彦阳排骨,彦阳排骨,0,海云台,7.1,7.1,7.0
+韩国料理,富光炭烤排骨,富光炭烤排骨,0,釜山镇/西面,7.0,7.0,6.9
+韩国料理,Yeyije 韩定食,Yeyije 韩定食,0,釜山近郊,7.0,7.0,7.1
+韩国料理,OutDark Chicken House,OutDark Chicken House,0,釜山大学/釜山外大,7.4,7.1,7.4
+韩国料理,Geumsu Bokkuk Main Store,Geumsu Bokkuk Main Store,0,釜山镇/西面,7.9,7.9,7.3
+韩国料理,Jejuga Seomyeon,Jejuga Seomyeon,0,釜山镇/西面,7.2,7.2,7.2
+韩国料理,首尔餐馆,首尔餐馆,0,釜山镇/西面,7.1,7.1,6.9
+韩国料理,东莱婆婆葱饼,东莱婆婆葱饼,0,东格拉谷,7.0,7.0,6.9
+韩国料理,무한지대고기부페,무한지대고기부페,0,釜山镇/西面,7.1,7.1,7.1
+韩国料理,华城排骨,华城排骨,0,海云台,7.1,7.0,7.0
+韩国料理,急行荘,急行荘,0,釜山近郊,7.1,7.1,7.1
+韩国料理,金源中国饭店,金源中国饭店,0,,7.0,7.0,6.9
+韩国料理,德氏猪肉汤饭,德氏猪肉汤饭,0,,7.4,7.4,7.4
+韩国料理,和食,和食,0,釜山镇/西面,7.1,6.9,6.9
+韩国料理,豚梦家,豚梦家,0,海云台,7.0,6.9,7.0
+韩国料理,海豚嫩豆腐,海豚嫩豆腐,0,釜山近郊,6.9,6.9,6.9
+韩国料理,Yangssi Sanghoe,Yangssi Sanghoe,0,影岛/太宗台,0.0,0.0,0.0
+韩国料理,MyeongGa Dwaeji Gugbab,MyeongGa Dwaeji Gugbab,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,Punggyeong Maru,Punggyeong Maru,0,釜山近郊,6.9,6.9,6.9
+韩国料理,Kkangtong Street Halmae Yubu Jeongol,Kkangtong Street Halmae Yubu Jeongol,0,影岛/太宗台,0.0,0.0,0.0
+韩国料理,元祖祖方章鱼,元祖祖方章鱼,0,釜山近郊,0.0,0.0,0.0
+韩国料理,海云台炭烤排骨,海云台炭烤排骨,0,海云台,0.0,0.0,0.0
+韩国料理,东来奶奶葱饼,东来奶奶葱饼,0,釜山近郊,0.0,0.0,0.0
+韩国料理,원조부산족발,원조부산족발,0,影岛/太宗台,0.0,0.0,0.0
+韩国料理,진미족발,진미족발,0,海云台,0.0,0.0,0.0
+韩国料理,하나메해운대점,하나메해운대점,0,海云台,0.0,0.0,0.0
+韩国料理,우정돌솥비빔밥,우정돌솥비빔밥,0,釜山近郊,0.0,0.0,0.0
+韩国料理,태종대짬뽕,태종대짬뽕,0,影岛/太宗台,0.0,0.0,0.0
+韩国料理,釜山火炉,釜山火炉,0,釜山近郊,0.0,0.0,0.0
+韩国料理,江村婚宴自助餐厅,江村婚宴自助餐厅,0,釜山近郊,0.0,0.0,0.0
+韩国料理,본죽 본비빔밥부경대경성대점,본죽 본비빔밥부경대경성대점,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,현,현,0,海云台,0.0,0.0,0.0
+韩国料理,해월해물탕,해월해물탕,0,海云台,0.0,0.0,0.0
+韩国料理,놀부부대찌개철판구이 해운대점,놀부부대찌개철판구이 해운대점,0,海云台,0.0,0.0,0.0
+韩国料理,롯데리아 부산아쿠아리움점,롯데리아 부산아쿠아리움점,0,海云台,0.0,0.0,0.0
+韩国料理,(주)수영가족,(주)수영가족,0,海云台,0.0,0.0,0.0
+韩国料理,일품한우,일품한우,0,海云台,0.0,0.0,0.0
+韩国料理,釜前市场,釜前市场,0,东格拉谷,0.0,0.0,0.0
+韩国料理,Jjanggu Let's Go to School Busan,Jjanggu Let's Go to School Busan,0,釜山近郊,0.0,0.0,0.0
+韩国料理,如如斋(여여재),如如斋(여여재),0,釜山近郊,0.0,0.0,0.0
+韩国料理,S서울깍두기,S서울깍두기,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,(주)한바다통상,(주)한바다통상,0,影岛/太宗台,0.0,0.0,0.0
+韩国料理,光复洞美食街,光复洞美食街,0,,0.0,0.0,0.0
+韩国料理,서울식당,서울식당,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,BBQ Munhyeon,BBQ Munhyeon,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,광어와우럭,광어와우럭,0,影岛/太宗台,0.0,0.0,0.0
+韩国料理,현대무지개반점,현대무지개반점,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,老奶奶蚬汤,老奶奶蚬汤,0,釜山近郊,0.0,0.0,0.0
+韩国料理,대림부페,대림부페,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,사랑방 한정식,사랑방 한정식,0,海云台,0.0,0.0,0.0
+韩国料理,함흥냉면,함흥냉면,0,广安里,0.0,0.0,0.0
+韩国料理,서울횟집,서울횟집,0,海云台,0.0,0.0,0.0
+韩国料理,샘집메기탕,샘집메기탕,0,广安里,0.0,0.0,0.0
+韩国料理,아웃백스테이크센텀시티점,아웃백스테이크센텀시티점,0,东格拉谷,0.0,0.0,0.0
+韩国料理,수백한상,수백한상,0,海云台,0.0,0.0,0.0
+韩国料理,카페캔디,카페캔디,0,海云台,0.0,0.0,0.0
+韩国料理,붉은수염,붉은수염,0,海云台,0.0,0.0,0.0
+韩国料理,서울집,서울집,0,海云台,0.0,0.0,0.0
+韩国料理,Gaya,Gaya,0,釜山近郊,0.0,0.0,0.0
+韩国料理,청춘식당,청춘식당,0,海云台,0.0,0.0,0.0
+韩国料理,더파티 해운대점,더파티 해운대점,0,海云台,0.0,0.0,0.0
+韩国料理,奶奶河蚬汤,奶奶河蚬汤,0,釜山近郊,0.0,0.0,0.0
+韩国料理,만금식당,만금식당,0,影岛/太宗台,0.0,0.0,0.0
+韩国料理,원조손짜장면,원조손짜장면,0,海云台,0.0,0.0,0.0
+韩国料理,여운,여운,0,,0.0,0.0,0.0
+韩国料理,산호횟집,산호횟집,0,釜山近郊,0.0,0.0,0.0
+韩国料理,초원식당,초원식당,0,釜山近郊,0.0,0.0,0.0
+韩国料理,Pelicana Songjeong,Pelicana Songjeong,0,釜山近郊,0.0,0.0,0.0
+韩国料理,언광반점,언광반점,0,海云台,0.0,0.0,0.0
+韩国料理,새들반점,새들반점,0,沙下区,0.0,0.0,0.0
+韩国料理,무궁화,무궁화,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,With a smiling face红薯面包,With a smiling face红薯面包,0,釜山近郊,0.0,0.0,0.0
+韩国料理,东莱别庄,东莱别庄,0,釜山近郊,0.0,0.0,0.0
+韩国料理,明松寿司,明松寿司,0,釜山近郊,0.0,0.0,0.0
+韩国料理,The- Home,The- Home,0,釜山近郊,0.0,0.0,0.0
+韩国料理,身土不二,身土不二,0,釜山近郊,0.0,0.0,0.0
+韩国料理,桃山,桃山,0,釜山近郊,0.0,0.0,0.0
+韩国料理,釜山豚屋(부산복집),釜山豚屋(부산복집),0,釜山近郊,0.0,0.0,0.0
+韩国料理,峨眉山(아미산),峨眉山(아미산),0,釜山近郊,0.0,0.0,0.0
+韩国料理,牧场园(푸드웨이 목장원),牧场园(푸드웨이 목장원),0,釜山近郊,0.0,0.0,0.0
+韩国料理,玉味辣味炖安康鱼,玉味辣味炖安康鱼,0,釜山近郊,0.0,0.0,0.0
+韩国料理,江村花园(강촌가든),江村花园(강촌가든),0,釜山近郊,0.0,0.0,0.0
+韩国料理,居昌石磨(거창맷돌),居昌石磨(거창맷돌),0,釜山近郊,0.0,0.0,0.0
+韩国料理,외식일번가,외식일번가,0,广安里,0.0,0.0,0.0
+韩国料理,상해탄,상해탄,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,일마씨모,일마씨모,0,海云台,0.0,0.0,0.0
+韩国料理,서울깍두기,서울깍두기,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,명품물회,명품물회,0,海云台,0.0,0.0,0.0
+韩国料理,현대횟집,현대횟집,0,釜山近郊,0.0,0.0,0.0
+韩国料理,월화횟집,월화횟집,0,釜山近郊,0.0,0.0,0.0
+韩国料理,어부횟집,어부횟집,0,釜山近郊,0.0,0.0,0.0
+韩国料理,갈촌농장,갈촌농장,0,海云台,0.0,0.0,0.0
+韩国料理,신풍농원,신풍농원,0,釜山近郊,0.0,0.0,0.0
+韩国料理,초가마당,초가마당,0,釜山近郊,0.0,0.0,0.0
+韩国料理,왔다식당,왔다식당,0,广安里,0.0,0.0,0.0
+韩国料理,부산식당,부산식당,0,东格拉谷,0.0,0.0,0.0
+韩国料理,청해횟집,청해횟집,0,东格拉谷,0.0,0.0,0.0
+韩国料理,삼미반점,삼미반점,0,东格拉谷,0.0,0.0,0.0
+韩国料理,우마이도,우마이도,0,东格拉谷,0.0,0.0,0.0
+韩国料理,장수물회,장수물회,0,釜山近郊,0.0,0.0,0.0
+韩国料理,선창횟집,선창횟집,0,釜山近郊,0.0,0.0,0.0
+韩国料理,동해가든,동해가든,0,釜山近郊,0.0,0.0,0.0
+韩国料理,유정횟집,유정횟집,0,釜山近郊,0.0,0.0,0.0
+韩国料理,별장횟집,별장횟집,0,釜山近郊,0.0,0.0,0.0
+韩国料理,두일갈비,두일갈비,0,釜山近郊,0.0,0.0,0.0
+韩国料理,등대횟집,등대횟집,0,釜山近郊,0.0,0.0,0.0
+韩国料理,석정가든,석정가든,0,釜山近郊,0.0,0.0,0.0
+韩国料理,미향식당,미향식당,0,釜山近郊,0.0,0.0,0.0
+韩国料理,통영횟집,통영횟집,0,东格拉谷,0.0,0.0,0.0
+韩国料理,성산식당,성산식당,0,釜山近郊,0.0,0.0,0.0
+韩国料理,토종족발,토종족발,0,釜山近郊,0.0,0.0,0.0
+韩国料理,모범횟집,모범횟집,0,釜山近郊,0.0,0.0,0.0
+韩国料理,고기집예,고기집예,0,釜山近郊,0.0,0.0,0.0
+韩国料理,만포밀면,만포밀면,0,釜山近郊,0.0,0.0,0.0
+韩国料理,별장횟집,별장횟집,0,釜山近郊,0.0,0.0,0.0
+韩国料理,대감반점,대감반점,0,广安里,0.0,0.0,0.0
+韩国料理,실비식당,실비식당,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,거창맷돌,거창맷돌,0,东格拉谷,0.0,0.0,0.0
+韩国料理,궁중떡집,궁중떡집,0,东格拉谷,0.0,0.0,0.0
+韩国料理,똥산돼지,똥산돼지,0,东格拉谷,0.0,0.0,0.0
+韩国料理,강화식당,강화식당,0,东格拉谷,0.0,0.0,0.0
+韩国料理,상해반점,상해반점,0,影岛/太宗台,0.0,0.0,0.0
+韩国料理,대동반점,대동반점,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,한국관,한국관,0,东格拉谷,0.0,0.0,0.0
+韩国料理,서울우유 장전대리점,서울우유 장전대리점,0,东格拉谷,0.0,0.0,0.0
+韩国料理,해운대쌍둥이돼지국밥,해운대쌍둥이돼지국밥,0,海云台,0.0,0.0,0.0
+韩国料理,오리불고기수정가든,오리불고기수정가든,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,彤颜韩尚馆,彤颜韩尚馆(韩国店),0,,0.0,0.0,0.0
+韩国料理,高丽亭,高丽亭,0,釜山近郊,0.0,0.0,0.0
+韩国料理,해운대신대구탕,해운대신대구탕,0,海云台,0.0,0.0,0.0
+韩国料理,Pelicana Goejeong,Pelicana Goejeong,0,釜山近郊,0.0,0.0,0.0
+韩国料理,Maru,Maru,0,广安里,0.0,0.0,0.0
+韩国料理,Pelicana Gaegeum 3,Pelicana Gaegeum 3,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,Pelicana Mangmi 1,Pelicana Mangmi 1,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,Charcoal BBQ Meadow,Charcoal BBQ Meadow,0,釜山近郊,0.0,0.0,0.0
+韩国料理,Pelicana Bugok,Pelicana Bugok,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Songjeong Busan,BBQ Songjeong Busan,0,釜山近郊,0.0,0.0,0.0
+韩国料理,Pelicana Dugu-dong,Pelicana Dugu-dong,0,釜山近郊,0.0,0.0,0.0
+韩国料理,Pelicana Sinseon,Pelicana Sinseon,0,影岛/太宗台,0.0,0.0,0.0
+韩国料理,Pelicana Yeongju,Pelicana Yeongju,0,釜山近郊,0.0,0.0,0.0
+韩国料理,Pelicana Jangnim 1,Pelicana Jangnim 1,0,沙下区,0.0,0.0,0.0
+韩国料理,Pelicana Jangnim 2nd,Pelicana Jangnim 2nd,0,沙下区,0.0,0.0,0.0
+韩国料理,Kaudon Charcoal BBQ,Kaudon Charcoal BBQ,0,釜山近郊,0.0,0.0,0.0
+韩国料理,Pelicana Jungang,Pelicana Jungang,0,釜山近郊,0.0,0.0,0.0
+韩国料理,Pelicana Chicken Walnae,Pelicana Chicken Walnae,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Busan Songdo,BBQ Busan Songdo,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Chicken and Beer,BBQ Chicken and Beer,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Busan Yeongju,BBQ Busan Yeongju,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Shinjurye Busan,BBQ Shinjurye Busan,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,BBQ Busan Dadaepo,BBQ Busan Dadaepo,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Busan Hwamyeong Daecheon,BBQ Busan Hwamyeong Daecheon,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Gamjeon Busan,BBQ Gamjeon Busan,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Busan Yeonsanno Tari,BBQ Busan Yeonsanno Tari,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Busan Saha Gamcheon,BBQ Busan Saha Gamcheon,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Busan Guseo,BBQ Busan Guseo,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Busan Gaya,BBQ Busan Gaya,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Busan Geoje,BBQ Busan Geoje,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Busan Gwangalli,BBQ Busan Gwangalli,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Yangjeong Busan,BBQ Yangjeong Busan,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,BBQ Choryang Busan,BBQ Choryang Busan,0,釜山近郊,0.0,0.0,0.0
+韩国料理,Dolsamgyeopsal BBQ,Dolsamgyeopsal BBQ,0,釜山近郊,0.0,0.0,0.0
+韩国料理,BBQ Chicken Sasang,BBQ Chicken Sasang,0,釜山近郊,0.0,0.0,0.0
+韩国料理,금수강산,금수강산,0,釜山镇/西面,0.0,0.0,0.0
+韩国料理,대궐안집,대궐안집,0,釜山近郊,0.0,0.0,0.0
+韩国料理,본죽&비빔밥,본죽&비빔밥,0,沙下区,0.0,0.0,0.0
+韩国料理,대게촌,대게촌,0,东格拉谷,0.0,0.0,0.0
+韩国料理,부산양곱창,부산양곱창,0,东格拉谷,0.0,0.0,0.0
+韩国料理,서울깍두기,서울깍두기,0,东格拉谷,0.0,0.0,0.0
+韩国料理,한국해파리,한국해파리,0,沙下区,0.0,0.0,0.0
+韩国料理,서울식당,서울식당,0,影岛/太宗台,0.0,0.0,0.0
+韩国料理,수복식당,수복식당,0,釜山近郊,0.0,0.0,0.0
+韩国料理,옥천돌솥비빔밥,옥천돌솥비빔밥,0,影岛/太宗台,0.0,0.0,0.0
+韩国料理,오반장,오반장,0,海云台,0.0,0.0,0.0
+韩国料理,한사리출장부페,한사리출장부페,0,广安里,0.0,0.0,0.0
+韩国料理,스테프핫도그김해공항점,스테프핫도그김해공항점,0,沙下区,0.0,0.0,0.0
+韩国料理,축복떡집,축복떡집,0,海云台,0.0,0.0,0.0
+中餐厅,东北菜川菜,东北菜川菜,0,釜山火车站,7.6,7.6,7.6
+中餐厅,南浦面片汤,南浦面片汤,0,海云台,7.5,7.5,7.5
+中餐厅,京城面家,京城面家,0,釜山镇/西面,7.5,7.5,7.5
+中餐厅,东华饭店,东华饭店,0,釜山近郊,6.9,6.9,6.9
+中餐厅,香港斑点,香港斑点（张山重店）,0,海云台,0.0,0.0,0.0
+中餐厅,香港斑点 运算东重店,香港斑点 运算东重店,0,东格拉谷,0.0,0.0,0.0
+中餐厅,翠园,翠园,0,,0.0,0.0,0.0
+中餐厅,香港斑点 南浦1号店,香港斑点 南浦1号店,0,影岛/太宗台,0.0,0.0,0.0
+中餐厅,Terrace,Terrace,0,釜山近郊,0.0,0.0,0.0
+中餐厅,峨眉山中餐馆,峨眉山中餐馆,0,,0.0,0.0,0.0
+中餐厅,南风,南风,0,,0.0,0.0,0.0
+中餐厅,Ilwal Seong,Ilwal Seong,0,,0.0,0.0,0.0
+中餐厅,香港斑点 书面1号店,香港斑点 书面1号店,0,釜山镇/西面,0.0,0.0,0.0
+中餐厅,上海宫,上海宫,0,釜山镇/西面,0.0,0.0,0.0
+东南亚菜,Nahm Madam's Jip,Nahm Madam's Jip,0,釜山近郊,0.0,0.0,0.0
+海鲜,扎嘎其市场,扎嘎其市场,147,南浦洞/札嘎其,8.0,7.3,7.4
+海鲜,札嘎其市场生鱼片部,札嘎其市场生鱼片部,0,南浦洞/札嘎其,7.7,7.7,7.9
+海鲜,Millak Heo Center,Millak Heo Center,0,广安里,0.0,0.0,0.0
+海鲜,水晶帝王蟹餐厅,水晶帝王蟹餐厅,0,广安里,0.0,0.0,0.0
+海鲜,The Maris,The Maris,0,东格拉谷,0.0,0.0,0.0
+海鲜,首尔生鱼片,首尔生鱼片,0,影岛/太宗台,0.0,0.0,0.0
+海鲜,首尔生鱼片,首尔生鱼片,0,釜山镇/西面,0.0,0.0,0.0
+日本料理,民乐生鱼片城,民乐生鱼片城,0,广安里,7.5,6.7,7.3
+日本料理,동경초밥전문점,동경초밥전문점,0,海云台,0.0,0.0,0.0
+日本料理,대명횟초밥,대명횟초밥,0,影岛/太宗台,0.0,0.0,0.0
+日本料理,다다미초밥,다다미초밥,0,海云台,0.0,0.0,0.0
+日本料理,일신초밥,일신초밥,0,釜山镇/西面,0.0,0.0,0.0
+日本料理,남강회초밥,남강회초밥,0,釜山镇/西面,0.0,0.0,0.0
+日本料理,목화초밥,목화초밥,0,东格拉谷,0.0,0.0,0.0
+日本料理,부산회초밥,부산회초밥,0,东格拉谷,0.0,0.0,0.0
+日本料理,송광초밥식당,송광초밥식당,0,广安里,0.0,0.0,0.0
+日本料理,어가초밥,어가초밥,0,东格拉谷,0.0,0.0,0.0
+日本料理,광명회초밥,광명회초밥,0,东格拉谷,0.0,0.0,0.0
+日本料理,일해초밥,일해초밥,0,釜山镇/西面,0.0,0.0,0.0
+日本料理,미림초밥,미림초밥,0,釜山近郊,0.0,0.0,0.0
+日本料理,해금강회초밥,해금강회초밥,0,海云台,0.0,0.0,0.0
+日本料理,도원초밥,도원초밥,0,东格拉谷,0.0,0.0,0.0
+日本料理,동산초밥,동산초밥,0,东格拉谷,0.0,0.0,0.0
+日本料理,부산초밥,부산초밥,0,釜山镇/西面,0.0,0.0,0.0
+日本料理,어가초밥연산점,어가초밥연산점,0,东格拉谷,0.0,0.0,0.0
+日本料理,일본요리다께,일본요리다께,0,东格拉谷,0.0,0.0,0.0
+酒吧,Sharky's Bar and Grill,Sharky's Bar and Grill,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,Florian Salad Bar,Florian Salad Bar,0,釜山镇/西面,7.0,7.1,7.1
+酒吧,700BEER,700BEER,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,New Malden Pub,New Malden Pub,0,广安里,0.0,0.0,0.0
+酒吧,대추나무사랑걸렸네,대추나무사랑걸렸네,0,海云台,0.0,0.0,0.0
+酒吧,째즈클럽포포,째즈클럽포포,0,海云台,0.0,0.0,0.0
+酒吧,워터,워터,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,델피하우스반여1호점,델피하우스반여1호점,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,대몽단란주점,대몽단란주점,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,나드리치킨호프,나드리치킨호프,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,산딸기노래주점,산딸기노래주점,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,한마당꼬지,한마당꼬지,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,와라와라,와라와라,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,해피데이,해피데이,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,장생포고래잡이,장생포고래잡이,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,걸앤비어맥주전문레스토랑3호점,걸앤비어맥주전문레스토랑3호점,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,문단란주점,문단란주점,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,다영단란주점,다영단란주점,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,똥꼬,똥꼬,0,海云台,0.0,0.0,0.0
+酒吧,뭉치단란주점,뭉치단란주점,0,海云台,0.0,0.0,0.0
+酒吧,뉴스타,뉴스타,0,海云台,0.0,0.0,0.0
+酒吧,술마시는만남노래방,술마시는만남노래방,0,东格拉谷,0.0,0.0,0.0
+酒吧,버킹검,버킹검,0,东格拉谷,0.0,0.0,0.0
+酒吧,헤라,헤라,0,东格拉谷,0.0,0.0,0.0
+酒吧,더펍,더펍,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,황후,황후,0,东格拉谷,0.0,0.0,0.0
+酒吧,벤츠,벤츠,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,와라와라서면1호점,와라와라서면1호점,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,올리버단란주점,올리버단란주점,0,东格拉谷,0.0,0.0,0.0
+酒吧,비치노래방주점,비치노래방주점,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,샘물가요주점,샘물가요주점,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,부강단란주점,부강단란주점,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,파크단란주점,파크단란주점,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,위드단란주점,위드단란주점,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,가르텐비어,가르텐비어,0,东格拉谷,0.0,0.0,0.0
+酒吧,진미소주방,진미소주방,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,카르맨호프,카르맨호프,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,아프리카,아프리카,0,东格拉谷,0.0,0.0,0.0
+酒吧,테마호프,테마호프,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,북앤비어,북앤비어,0,东格拉谷,0.0,0.0,0.0
+酒吧,모나리자,모나리자,0,沙下区,0.0,0.0,0.0
+酒吧,줄리아나,줄리아나,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,위풍당당,위풍당당,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,백두대간,백두대간,0,东格拉谷,0.0,0.0,0.0
+酒吧,돈텔마마,돈텔마마,0,东格拉谷,0.0,0.0,0.0
+酒吧,헐리우드,헐리우드,0,影岛/太宗台,0.0,0.0,0.0
+酒吧,징기스칸,징기스칸,0,东格拉谷,0.0,0.0,0.0
+酒吧,카우보이,카우보이,0,釜山镇/西面,0.0,0.0,0.0
+酒吧,Ippai Japanese Food Pub House,Ippai Japanese Food Pub House,0,釜山近郊,0.0,0.0,0.0
+酒吧,Su Bar,Su Bar,0,釜山近郊,0.0,0.0,0.0
+酒吧,Chin Chin,Chin Chin,0,釜山近郊,0.0,0.0,0.0
+酒吧,Heaven,Heaven,0,釜山近郊,0.0,0.0,0.0
+酒吧,Sky Fishery,Sky Fishery,0,釜山近郊,0.0,0.0,0.0
+酒吧,CNN,CNN,0,釜山镇/西面,0.0,0.0,0.0
+咖啡厅,COFFEE BEAN,COFFEE BEAN,0,釜山镇/西面,7.4,7.4,7.4
+咖啡厅,Beansbins Cafe,Beansbins Cafe,0,,7.2,7.2,7.0
+咖啡厅,A Twosome Place Gwangbokdong Store,A Twosome Place Gwangbokdong Store,0,影岛/太宗台,0.0,0.0,0.0
+咖啡厅,Starbucks Bujeon station,Starbucks Bujeon station,0,东格拉谷,0.0,0.0,0.0
+咖啡厅,Cafe Leeman's Haeundae,Cafe Leeman's Haeundae,0,釜山近郊,6.9,6.9,6.9
+咖啡厅,Starbucks Sasang Station 2 Line,Starbucks Sasang Station 2 Line,0,釜山近郊,0.0,0.0,0.0
+咖啡厅,Da Garage Cafe and Bar,Da Garage Cafe and Bar,0,釜山镇/西面,0.0,0.0,0.0
+咖啡厅,Coffee Mandalay,Coffee Mandalay,0,釜山近郊,7.1,7.1,7.1
+咖啡厅,Ediya Coffee Seomyeon 1st,Ediya Coffee Seomyeon 1st,0,釜山镇/西面,0.0,0.0,0.0
+咖啡厅,Starbucks Busan Paledecz - Haeundae Beach,Starbucks Busan Paledecz - Haeundae Beach,0,影岛/太宗台,0.0,0.0,0.0
+咖啡厅,Caffe Bene Busan Shinchang Store,Caffe Bene Busan Shinchang Store,0,影岛/太宗台,0.0,0.0,0.0
+咖啡厅,Caffe Bene Busan Jobang Store,Caffe Bene Busan Jobang Store,0,釜山镇/西面,0.0,0.0,0.0
+咖啡厅,Katuai Cafe,Katuai Cafe,0,釜山近郊,6.9,6.9,6.9
+咖啡厅,Cafe Ringpang Donut,Cafe Ringpang Donut,0,釜山近郊,6.9,6.9,6.9
+咖啡厅,田浦洞咖啡一条街,田浦洞咖啡一条街,0,釜山镇/西面,0.0,0.0,0.0
+咖啡厅,Hands Coffee,Hands Coffee,0,釜山近郊,0.0,0.0,0.0
+咖啡厅,Cafe CCC,Cafe CCC,0,东格拉谷,0.0,0.0,0.0
+咖啡厅,Cafe Mare,Cafe Mare,0,釜山镇/西面,0.0,0.0,0.0
+咖啡厅,Lotteria Home Plus Dongnae,Lotteria Home Plus Dongnae,0,东格拉谷,0.0,0.0,0.0
+咖啡厅,Green Pig Wanggalbi,Green Pig Wanggalbi,0,釜山镇/西面,0.0,0.0,0.0
+咖啡厅,Green Mong,Green Mong,0,釜山镇/西面,0.0,0.0,0.0
+咖啡厅,Time Square,Time Square,0,釜山近郊,0.0,0.0,0.0
+咖啡厅,Cafe Florian Nampo,Cafe Florian Nampo,0,釜山近郊,0.0,0.0,0.0
+咖啡厅,Bogo Saju Cafe,Bogo Saju Cafe,0,釜山近郊,0.0,0.0,0.0
+咖啡厅,Lotteria Home Plus Haeundae,Lotteria Home Plus Haeundae,0,釜山近郊,0.0,0.0,0.0
+咖啡厅,Lotteria Home Plus Seobusan,Lotteria Home Plus Seobusan,0,釜山近郊,0.0,0.0,0.0
+西餐,Merciel,Merciel,0,釜山镇/西面,0.0,0.0,0.0
+西餐,Lotteria Lotte Busan Main-branch Store,Lotteria Lotte Busan Main-branch Store,0,釜山镇/西面,0.0,0.0,0.0
+西餐,Ijaemo Pizza,Ijaemo Pizza,0,釜山近郊,0.0,0.0,0.0
+西餐,Vips Haeundae Beach,Vips Haeundae Beach,0,釜山镇/西面,0.0,0.0,0.0
+西餐,Little Italy,Little Italy,0,釜山近郊,7.1,7.1,7.0
+西餐,Sono Pizza,Sono Pizza,0,釜山近郊,7.1,7.1,7.1
+西餐,Taj Mahal Indian Restaurant,Taj Mahal Indian Restaurant,0,东格拉谷,6.9,6.9,6.9
+西餐,Mr. Pizza Haeundae,Mr. Pizza Haeundae,0,釜山近郊,0.0,0.0,0.0
+西餐,Mr. Pizza Jaesong,Mr. Pizza Jaesong,0,釜山近郊,6.9,6.9,6.9
+西餐,Shabana Indian Restaurant PNU Store,Shabana Indian Restaurant PNU Store,0,东格拉谷,7.0,7.1,7.0
+西餐,Namaste,Namaste,0,釜山近郊,7.1,7.1,7.1
+西餐,Punjab Indian Restaurant,Punjab Indian Restaurant,0,釜山近郊,7.0,7.1,7.0
+西餐,Pohang Restaurant,Pohang Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza Hut Sinhaeundae,Pizza Hut Sinhaeundae,0,釜山近郊,6.9,6.9,6.9
+西餐,Sangam Indian Restaurant,Sangam Indian Restaurant,0,釜山近郊,7.0,7.0,6.9
+西餐,King Pants Restaurant,King Pants Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,May Tree Restaurant,May Tree Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,Mr. Pizza Donga University,Mr. Pizza Donga University,0,釜山近郊,0.0,0.0,0.0
+西餐,피자마론,피자마론,0,釜山近郊,0.0,0.0,0.0
+西餐,Mr. Pizza Saha,Mr. Pizza Saha,0,沙下区,0.0,0.0,0.0
+西餐,Pizza Haneul Chicken Byeol,Pizza Haneul Chicken Byeol,0,釜山近郊,0.0,0.0,0.0
+西餐,Mr. Pizza Asiad,Mr. Pizza Asiad,0,东格拉谷,0.0,0.0,0.0
+西餐,Live Pizza and Chicken,Live Pizza and Chicken,0,釜山近郊,0.0,0.0,0.0
+西餐,Dongfwa Restaurant,Dongfwa Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,Mr. Pizza Asiad,Mr. Pizza Asiad,0,釜山镇/西面,0.0,0.0,0.0
+西餐,La Pasta,La Pasta,0,釜山近郊,0.0,0.0,0.0
+西餐,lalietto Hwadeok Pizza,lalietto Hwadeok Pizza,0,釜山近郊,0.0,0.0,0.0
+西餐,Aska,Aska,0,釜山近郊,0.0,0.0,0.0
+西餐,Aska,Aska,0,釜山近郊,0.0,0.0,0.0
+西餐,Seongsinje Pizza Deokcheon,Seongsinje Pizza Deokcheon,0,釜山近郊,0.0,0.0,0.0
+西餐,Mother's Pizza,Mother's Pizza,0,东格拉谷,0.0,0.0,0.0
+西餐,Mother's Pizza,Mother's Pizza,0,釜山近郊,0.0,0.0,0.0
+西餐,Mother's Pizza Juryae,Mother's Pizza Juryae,0,釜山近郊,0.0,0.0,0.0
+西餐,Buffalo,Buffalo,0,釜山近郊,0.0,0.0,0.0
+西餐,Ulibuli Restaurant,Ulibuli Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,Okseong Restaurant,Okseong Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,Domino's Pizza Daeyeon,Domino's Pizza Daeyeon,0,釜山近郊,0.0,0.0,0.0
+西餐,Domino's Pizza Dongnae,Domino's Pizza Dongnae,0,釜山近郊,0.0,0.0,0.0
+西餐,Domino's Pizza Centum,Domino's Pizza Centum,0,釜山近郊,0.0,0.0,0.0
+西餐,Jeongguembi Agu Specialty Restaurant,Jeongguembi Agu Specialty Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,Domino's Pizza Choeup,Domino's Pizza Choeup,0,釜山镇/西面,0.0,0.0,0.0
+西餐,Domino's Pizza Busan Gaegeum,Domino's Pizza Busan Gaegeum,0,釜山镇/西面,0.0,0.0,0.0
+西餐,Domino's Pizza Dadaepo,Domino's Pizza Dadaepo,0,釜山近郊,0.0,0.0,0.0
+西餐,Domino's Pizza Allak,Domino's Pizza Allak,0,东格拉谷,0.0,0.0,0.0
+西餐,Buona Hwadeok Pizza Seomyeon,Buona Hwadeok Pizza Seomyeon,0,釜山近郊,0.0,0.0,0.0
+西餐,Fwaguk Restaurant,Fwaguk Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,59 Pizza Busan Myeongjiqueendum,59 Pizza Busan Myeongjiqueendum,0,釜山近郊,0.0,0.0,0.0
+西餐,Gimtaeh Pizza Songdo,Gimtaeh Pizza Songdo,0,釜山近郊,0.0,0.0,0.0
+西餐,Gimtaeho Pizza Bansong,Gimtaeho Pizza Bansong,0,釜山近郊,0.0,0.0,0.0
+西餐,Gimtaeh Pizza Busan University,Gimtaeh Pizza Busan University,0,釜山近郊,0.0,0.0,0.0
+西餐,Gimtaeh Pizza Munbanggo 21st Century,Gimtaeh Pizza Munbanggo 21st Century,0,釜山近郊,0.0,0.0,0.0
+西餐,Gimtaeh Pizza Hadan,Gimtaeh Pizza Hadan,0,釜山近郊,0.0,0.0,0.0
+西餐,Mr. Pizza Yangjeong,Mr. Pizza Yangjeong,0,釜山镇/西面,0.0,0.0,0.0
+西餐,Original Restaurant,Original Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,Bianco,Bianco,0,广安里,0.0,0.0,0.0
+西餐,French Restaurant,French Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,World Plus Pizza Seogu,World Plus Pizza Seogu,0,釜山近郊,0.0,0.0,0.0
+西餐,Way Side Pizza,Way Side Pizza,0,广安里,0.0,0.0,0.0
+西餐,Wayside Pizza,Wayside Pizza,0,釜山近郊,0.0,0.0,0.0
+西餐,Big Bowls Pizza Busan University,Big Bowls Pizza Busan University,0,釜山近郊,0.0,0.0,0.0
+西餐,Peninsula,Peninsula,0,釜山镇/西面,0.0,0.0,0.0
+西餐,Pizza Hut Gyeongseongdae,Pizza Hut Gyeongseongdae,0,广安里,0.0,0.0,0.0
+西餐,Asher Restaurant,Asher Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza Myeong Munhyeon,Pizza Myeong Munhyeon,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza Bingo Hadan,Pizza Bingo Hadan,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza Mountain,Pizza Mountain,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza Bingo Busan Hwamyeong,Pizza Bingo Busan Hwamyeong,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza Bingo Guseo,Pizza Bingo Guseo,0,东格拉谷,0.0,0.0,0.0
+西餐,Land of Pizza Allak,Land of Pizza Allak,0,东格拉谷,0.0,0.0,0.0
+西餐,Pizza Bingo Haeundae Jangsan,Pizza Bingo Haeundae Jangsan,0,釜山近郊,0.0,0.0,0.0
+西餐,Tempo Galbi Speciality Restaurant,Tempo Galbi Speciality Restaurant,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza Bingo Hanna Town,Pizza Bingo Hanna Town,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza Bingo Busan Yangjeong,Pizza Bingo Busan Yangjeong,0,釜山近郊,0.0,0.0,0.0
+西餐,Land of Pizza Mandeok-Dong,Land of Pizza Mandeok-Dong,0,釜山近郊,0.0,0.0,0.0
+西餐,Land of Pizza Jangnim,Land of Pizza Jangnim,0,沙下区,0.0,0.0,0.0
+西餐,Pizza Ettang Hadan,Pizza Ettang Hadan,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza Etang Bosu,Pizza Etang Bosu,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza ae Ddong Seomyeon,Pizza ae Ddong Seomyeon,0,釜山镇/西面,0.0,0.0,0.0
+西餐,Pizza Kingdom Chicken Prince,Pizza Kingdom Chicken Prince,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza Hut Banyeo Busan,Pizza Hut Banyeo Busan,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza Etang Udong,Pizza Etang Udong,0,釜山近郊,0.0,0.0,0.0
+西餐,Pizza County Haeundae Sindosi,Pizza County Haeundae Sindosi,0,釜山近郊,0.0,0.0,0.0
+西餐,Mr. Pizza Busan University,Mr. Pizza Busan University,0,釜山近郊,0.0,0.0,0.0
+西餐,Mr. Pizza Deokcheon,Mr. Pizza Deokcheon,0,釜山近郊,0.0,0.0,0.0
+西餐,Domino's Pizza Yongho,Domino's Pizza Yongho,0,广安里,0.0,0.0,0.0
+西餐,Unyang Restaurant,Unyang Restaurant,0,东格拉谷,0.0,0.0,0.0
+西餐,Mr. Pizza Kyungsung University,Mr. Pizza Kyungsung University,0,广安里,0.0,0.0,0.0
+西餐,Mr. Pizza Dusil Station,Mr. Pizza Dusil Station,0,东格拉谷,0.0,0.0,0.0
+西餐,Mr. Pizza Gijang,Mr. Pizza Gijang,0,釜山近郊,0.0,0.0,0.0
+西餐,피자에땅,피자에땅,0,釜山镇/西面,0.0,0.0,0.0
+面包甜点,南浦洞元祖煎甜饼,南浦洞元祖煎甜饼,0,南浦洞/札嘎其,7.3,6.6,7.2
+面包甜点,Baskin-Robbins Haeundae Jung-dong Store,Baskin-Robbins Haeundae Jung-dong Store,0,海云台,7.8,7.8,7.8
+面包甜点,Ops Bakery Haeundae,Ops Bakery Haeundae,0,釜山镇/西面,7.9,8.4,7.9
+面包甜点,Paris Baguette,Paris Baguette(南浦洞店),0,影岛/太宗台,7.1,6.8,6.8
+面包甜点,Dunkin Donut Sea Cloud Store,Dunkin Donut Sea Cloud Store,0,釜山镇/西面,0.0,0.0,0.0
+面包甜点,GS25 화명그린점,GS25 화명그린점,0,釜山近郊,0.0,0.0,0.0
+面包甜点,Payard,Payard,0,东格拉谷,0.0,0.0,0.0
+面包甜点,OPS,OPS,0,海云台,0.0,0.0,0.0
+面包甜点,파리바게뜨,파리바게뜨,0,釜山镇/西面,0.0,0.0,0.0
+面包甜点,파이하우스,파이하우스,0,釜山镇/西面,0.0,0.0,0.0
+面包甜点,"Dunkin Donut Gaegeum Hyundai (Myeong, Byeon) Store","Dunkin Donut Gaegeum Hyundai (Myeong, Byeon) Store",0,釜山镇/西面,0.0,0.0,0.0
+面包甜点,파리바게트 부산역점,파리바게트 부산역점,0,釜山镇/西面,0.0,0.0,0.0
+面包甜点,파리바게트 마린점,파리바게트 마린점,0,广安里,0.0,0.0,0.0
+快餐,釜山新世界百货FOOD COURT,釜山新世界百货FOOD COURT,0,海云台,8.1,8.2,8.1
+快餐,OASE,OASE,222,南浦洞/札嘎其,7.1,7.6,7.3
+快餐,Bonchon Chicken Haeundae,Bonchon Chicken Haeundae,0,釜山镇/西面,7.2,8.0,7.5
+快餐,ANGEL-IN-USCOFFEE부산서면점,ANGEL-IN-USCOFFEE부산서면점,0,釜山镇/西面,8.3,8.3,8.3
+快餐,OASE Seafood Buffet,OASE Seafood Buffet,0,影岛/太宗台,0.0,0.0,0.0
+快餐,Food Court at Lotte Department Store Busan Main,Food Court at Lotte Department Store Busan Main,0,釜山镇/西面,0.0,0.0,0.0
+快餐,The Party Haeundae Premium Store,The Party Haeundae Premium Store,0,釜山镇/西面,0.0,0.0,0.0
+快餐,Bexco Party & Play,Bexco Party & Play,0,东格拉谷,0.0,0.0,0.0
+快餐,Escoffier Buffet,Escoffier Buffet,0,釜山镇/西面,0.0,0.0,0.0
+快餐,Lotteria Busan Gwanganri,Lotteria Busan Gwanganri,0,釜山近郊,0.0,0.0,0.0
+快餐,Well Being Namsae Buffet,Well Being Namsae Buffet,0,釜山镇/西面,0.0,0.0,0.0
+快餐,Lotteria Busan Station,Lotteria Busan Station,0,釜山近郊,6.9,6.9,6.9
+快餐,카페베네해운대본점,카페베네해운대본점,0,海云台,0.0,0.0,0.0
+快餐,麦当劳,麦当劳(釜山国际贸易街店),0,釜山近郊,0.0,0.0,0.0
+快餐,KFC Daesindong,KFC Daesindong,0,釜山近郊,0.0,0.0,0.0
+快餐,스타벅스 김해공항점,스타벅스 김해공항점,0,沙下区,0.0,0.0,0.0
+快餐,아마존,아마존,0,釜山镇/西面,0.0,0.0,0.0
+快餐,송미카페,송미카페,0,东格拉谷,0.0,0.0,0.0
+快餐,아라비카,아라비카,0,东格拉谷,0.0,0.0,0.0
+快餐,KFC 광복동점,KFC 광복동점,0,影岛/太宗台,0.0,0.0,0.0
+快餐,아이스빈,아이스빈,0,东格拉谷,0.0,0.0,0.0
+快餐,새미커피솝,새미커피솝,0,东格拉谷,0.0,0.0,0.0
+快餐,온천다방,온천다방,0,釜山近郊,0.0,0.0,0.0
+快餐,한성다방,한성다방,0,釜山镇/西面,0.0,0.0,0.0
+快餐,도피오메리놀병원점,도피오메리놀병원점,0,影岛/太宗台,0.0,0.0,0.0
+快餐,씨에틀라이브카페,씨에틀라이브카페,0,釜山镇/西面,0.0,0.0,0.0
+快餐,아지트피시방,아지트피시방,0,东格拉谷,0.0,0.0,0.0
+快餐,오자네왔는가,오자네왔는가,0,釜山镇/西面,0.0,0.0,0.0
+快餐,모모스커피,모모스커피,0,东格拉谷,0.0,0.0,0.0
+快餐,삼거리다방,삼거리다방,0,釜山近郊,0.0,0.0,0.0
+快餐,엔터피씨방,엔터피씨방,0,东格拉谷,0.0,0.0,0.0
+快餐,ONS커피,ONS커피,0,釜山镇/西面,0.0,0.0,0.0
+快餐,초원다방,초원다방,0,海云台,0.0,0.0,0.0
+快餐,일지다원,일지다원,0,釜山近郊,0.0,0.0,0.0
+快餐,아부아부,아부아부,0,釜山镇/西面,0.0,0.0,0.0
+快餐,동부다방,동부다방,0,釜山近郊,0.0,0.0,0.0
+快餐,효정다방,효정다방,0,釜山近郊,0.0,0.0,0.0
+快餐,한독다방,한독다방,0,东格拉谷,0.0,0.0,0.0
+快餐,필커피숍,필커피숍,0,东格拉谷,0.0,0.0,0.0
+快餐,비치다방,비치다방,0,影岛/太宗台,0.0,0.0,0.0
+快餐,동궁다방,동궁다방,0,釜山镇/西面,0.0,0.0,0.0
+快餐,산호다방,산호다방,0,釜山镇/西面,0.0,0.0,0.0
+快餐,왕비다방,왕비다방,0,釜山镇/西面,0.0,0.0,0.0
+快餐,중앙다방,중앙다방,0,东格拉谷,0.0,0.0,0.0
+快餐,동성상사,동성상사,0,釜山镇/西面,0.0,0.0,0.0
+快餐,다례원,다례원,0,东格拉谷,0.0,0.0,0.0
+快餐,나뚜르,나뚜르,0,釜山镇/西面,0.0,0.0,0.0
+快餐,루카페,루카페,0,海云台,0.0,0.0,0.0
+快餐,물다방,물다방,0,影岛/太宗台,0.0,0.0,0.0
+快餐,청다방,청다방,0,沙下区,0.0,0.0,0.0
+快餐,엘름,엘름,0,釜山镇/西面,0.0,0.0,0.0
+快餐,다향,다향,0,釜山镇/西面,0.0,0.0,0.0
+快餐,디올,디올,0,釜山镇/西面,0.0,0.0,0.0
+快餐,베스킨라빈스 동래홈플러스점,베스킨라빈스 동래홈플러스점,0,东格拉谷,0.0,0.0,0.0
+快餐,내고향전통찻집(영광도서옆),내고향전통찻집(영광도서옆),0,釜山镇/西面,0.0,0.0,0.0
+快餐,베스킨라빈스,베스킨라빈스,0,釜山镇/西面,0.0,0.0,0.0
+快餐,ATWOSOMEPLACE부산대연점,ATWOSOMEPLACE부산대연점,0,釜山镇/西面,0.0,0.0,0.0
+快餐,루미,루미,0,釜山镇/西面,0.0,0.0,0.0
+快餐,兴华饭店,兴华饭店,0,,0.0,0.0,0.0
+快餐,Lotteria Seomyeon CGV,Lotteria Seomyeon CGV,0,釜山镇/西面,0.0,0.0,0.0
+快餐,Lotteria Sinbansong,Lotteria Sinbansong,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Lotte Mart Dongrae,Lotteria Lotte Mart Dongrae,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Busan Yangjeong,Lotteria Busan Yangjeong,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Busan Sasang,Lotteria Busan Sasang,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Busan Jangnim,Lotteria Busan Jangnim,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Busan Meworld,Lotteria Busan Meworld,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Busan Daecheong,Lotteria Busan Daecheong,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Homeplus Jangnim,Lotteria Homeplus Jangnim,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Gupo,Lotteria Gupo,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Busan Daesin,Lotteria Busan Daesin,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Guseo,Lotteria Guseo,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Busan Gijang,Lotteria Busan Gijang,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Busan Dongdae,Lotteria Busan Dongdae,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Busan Namjwadong,Lotteria Busan Namjwadong,0,釜山近郊,0.0,0.0,0.0
+快餐,Lotteria Busanjin Station,Lotteria Busanjin Station,0,釜山近郊,0.0,0.0,0.0
+快餐,KFC Busandae 1,KFC Busandae 1,0,东格拉谷,0.0,0.0,0.0

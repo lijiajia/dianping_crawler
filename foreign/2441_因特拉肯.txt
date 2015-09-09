@@ -1,0 +1,91 @@
+意大利菜,Per Bacco - West End,Per Bacco - West End,0,其他,8.4,8.4,8.4
+意大利菜,Restaurent Piz Paz,Restaurent Piz Paz,0,,8.4,8.4,8.4
+意大利菜,Quaranta Uno,Quaranta Uno,0,其他,7.5,8.4,8.4
+意大利菜,La Tarantella,La Tarantella,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Sternen Da Mario,Ristorante Pizzeria Sternen Da Mario,0,其他,0.0,0.0,0.0
+意大利菜,Napoli Pizza,Napoli Pizza,0,其他,0.0,0.0,0.0
+意大利菜,Restaurant & Pizzeria Tenne,Restaurant & Pizzeria Tenne,0,其他,0.0,0.0,0.0
+意大利菜,Mercato,Mercato,0,其他,0.0,0.0,0.0
+法国菜,雪朗峰山顶旋转餐厅,雪朗峰山顶旋转餐厅,0,,6.7,6.7,6.7
+法国菜,Restaurant Neuhaus zum See,Restaurant Neuhaus zum See,0,,0.0,0.0,0.0
+墨西哥菜,El Azteca,El Azteca,0,其他,0.0,0.0,0.0
+墨西哥菜,Steakhouse Steinbock,Steakhouse Steinbock,0,,0.0,0.0,0.0
+其他西餐,hooters interlaken,hooters interlaken,0,其他,8.1,8.3,8.1
+其他西餐,Restaurant Baren,Restaurant Baren,0,,7.6,8.0,7.2
+其他西餐,少女峰餐厅,少女峰餐厅,0,其他,7.6,7.9,7.7
+其他西餐,Restaurant Chalet,Restaurant Chalet,0,其他,6.8,7.6,8.1
+其他西餐,Des Alpes,Des Alpes,0,其他,6.8,7.1,7.1
+其他西餐,Husi Bierhaus,Husi Bierhaus,0,其他,8.4,7.5,7.5
+其他西餐,COOP restaurant interlaken ost,COOP restaurant interlaken ost,0,其他,6.7,6.7,6.7
+其他西餐,Cafe Runft,Cafe Runft,0,其他,0.0,0.0,0.0
+其他西餐,Brasserie 17,Brasserie 17,0,其他,6.8,6.8,6.8
+其他西餐,Restaurant Taverne - Hotel Interlaken,Restaurant Taverne - Hotel Interlaken,0,其他,7.4,8.2,7.4
+其他西餐,Restaurant Aarburg,Restaurant Aarburg,0,,0.0,0.0,0.0
+其他西餐,WineArt,WineArt,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Laterne,Restaurant Laterne,0,其他,0.0,0.0,0.0
+其他西餐,The 3 Tells Irish Pub,The 3 Tells Irish Pub,0,,0.0,0.0,0.0
+其他西餐,Ox Restaurant & Grill,Ox Restaurant & Grill,0,其他,0.0,0.0,0.0
+其他西餐,Jungfrau Brasserie (Grand Hotel Victoria-Jungfrau),Jungfrau Brasserie (Grand Hotel Victoria-Jungfrau),0,其他,0.0,0.0,0.0
+其他西餐,Pizzeria Horn,Pizzeria Horn,0,其他,0.0,0.0,0.0
+其他西餐,Steakhouse Steinbock,Steakhouse Steinbock,0,,0.0,0.0,0.0
+其他西餐,Stellambiente,Stellambiente,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Grand Cafe,Restaurant Grand Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Winteregg Restaurant,Winteregg Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Stocker's degusta,Stocker's degusta,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Neu,Restaurant Neu,0,其他,0.0,0.0,0.0
+其他西餐,Bebbis Restaurant,Bebbis Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Veranda und Stubli,Restaurant Veranda und Stubli,0,,0.0,0.0,0.0
+其他西餐,Elements Restaurant,Elements Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,COOP restaurant interlaken ost,COOP restaurant interlaken ost,0,,0.0,0.0,0.0
+其他西餐,Alpenblick Dorfstube,Alpenblick Dorfstube,0,其他,0.0,0.0,0.0
+中餐,Asia Garden 亚洲园中餐厅,Asia Garden 亚洲园中餐厅,0,因特拉肯中心附近,8.0,8.5,8.8
+中餐,美心中餐厅,美心中餐厅,0,,6.4,6.6,6.9
+中餐,因特拉肯中餐馆,因特拉肯中餐馆,0,因特拉肯中心附近,7.0,7.1,7.1
+中餐,China Restaurant Lian,China Restaurant Lian,0,其他,0.0,0.0,0.0
+日韩料理,Kang Chon Central,Kang Chon Central,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bamboo,Bamboo,0,其他,6.7,7.5,7.5
+更多亚洲菜,Little Thai,Little Thai,0,,6.7,7.5,8.4
+更多亚洲菜,Noodle Bar,Noodle Bar,0,其他,7.0,7.0,7.0
+更多亚洲菜,India Village,India Village,0,其他,8.4,7.5,7.5
+更多亚洲菜,Truly Asia,Truly Asia,0,其他,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal Indian Restaurant,Taj Mahal Indian Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Tuk Tuk Thai,Tuk Tuk Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Taste of India Restaurant,Taste of India Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Napoli Pizza,Napoli Pizza,0,其他,0.0,0.0,0.0
+更多亚洲菜,Maharaja Indian Restaurant,Maharaja Indian Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sirinya's Thai Restaurant,Sirinya's Thai Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Little India Restaurant,Little India Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Asia Restaurant,Asia Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Shalimar,Shalimar,0,其他,0.0,0.0,0.0
+更多亚洲菜,Taj Palace Interlaken,Taj Palace Interlaken,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mukda Thai Take Away,Mukda Thai Take Away,0,其他,0.0,0.0,0.0
+快餐简餐,私房菜,私房菜,0,,8.1,8.1,8.1
+快餐简餐,subway,subway,0,,7.3,7.3,7.3
+快餐简餐,McDonald,McDonald,0,,0.0,0.0,0.0
+海鲜,私房菜,私房菜,0,,8.1,8.1,8.1
+比萨,Art Pizza,Art Pizza,0,,0.0,0.0,0.0
+咖啡厅,Sandwichbar,Sandwichbar,0,其他,0.0,0.0,0.0
+面包甜点,Cafe de Paris,Cafe de Paris,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Azzurra Berger und Riceputi,Gelateria Azzurra Berger und Riceputi,0,其他,0.0,0.0,0.0
+面包甜点,Confiserie Rieder,Confiserie Rieder,0,其他,0.0,0.0,0.0
+更多美食,La Terrasse,La Terrasse,0,其他,8.5,8.5,8.5
+更多美食,Restaurant The Verandah,Restaurant The Verandah,0,其他,7.5,8.4,8.4
+更多美食,Da Rafmi,Da Rafmi,0,其他,6.8,6.8,5.6
+更多美食,Spice India,Spice India,0,其他,0.0,0.0,0.0
+更多美食,Goldener Anker,Goldener Anker,0,其他,0.0,0.0,0.0
+更多美食,Terrace Restaurant - Krebs Hotel,Terrace Restaurant - Krebs Hotel,0,其他,0.0,0.0,0.0
+更多美食,Schuh,Schuh,0,其他,0.0,0.0,0.0
+更多美食,Top o'Met,Top o'Met,0,其他,0.0,0.0,0.0
+更多美食,China Buffet,China Buffet,0,,0.0,0.0,0.0
+更多美食,Drehrestaurant - Piz Gloria,Drehrestaurant - Piz Gloria,0,其他,0.0,0.0,0.0
+更多美食,Vineria Perbacco,Vineria Perbacco,0,其他,0.0,0.0,0.0
+更多美食,Pizza Ostbahnhof Interlaken,Pizza Ostbahnhof Interlaken,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Chez Pierre's,Restaurant Chez Pierre's,0,其他,0.0,0.0,0.0
+更多美食,X-port Pizzeria,X-port Pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Le Petit Casino,Le Petit Casino,0,其他,0.0,0.0,0.0
+更多美食,3a - Restaurant Bar Lounge,3a - Restaurant Bar Lounge,0,其他,0.0,0.0,0.0
+更多美食,Harder-Minerva,Harder-Minerva,0,其他,0.0,0.0,0.0
+更多美食,Hapimag Belvedere,Hapimag Belvedere,0,其他,0.0,0.0,0.0
+更多美食,La Bonne Fourchette (Grand Hotel Beau Rivage),La Bonne Fourchette (Grand Hotel Beau Rivage),0,其他,0.0,0.0,0.0
+更多美食,Restaurant Bahnhof,Restaurant Bahnhof,0,其他,0.0,0.0,0.0
+更多美食,Blueberrys Juice Bar,Blueberrys Juice Bar,0,其他,0.0,0.0,0.0

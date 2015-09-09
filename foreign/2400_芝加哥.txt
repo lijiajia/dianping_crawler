@@ -1,0 +1,3205 @@
+咖啡厅,Wildberry Pancakes and Cafe,Wildberry Pancakes and Cafe,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Henry's Swing Bar,Henry's Swing Bar,0,,6.9,6.9,6.9
+咖啡厅,Stan's Donuts and Coffee,Stan's Donuts and Coffee,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Intelligentsia Coffee Roasting Works,Intelligentsia Coffee Roasting Works,0,West Side,0.0,0.0,0.0
+咖啡厅,Eva's Cafe,Eva's Cafe,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,CityGrounds Coffee Bar,CityGrounds Coffee Bar,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Specialty's Cafe & Bakery,Specialty's Cafe & Bakery,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,LavAzza,LavAzza,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Lavazza Espression Cafe,Lavazza Espression Cafe,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Elaine's Coffee Call,Elaine's Coffee Call,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Sunny Side Up & Coffee Shop,Sunny Side Up & Coffee Shop,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Metropolis Coffee Company,Metropolis Coffee Company,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Beef 'n Brady,Beef 'n Brady,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Ing direct cafe,Ing direct cafe,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Pret a Manger,Pret a Manger,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Espressamente Illy - Nbc Tower,Espressamente Illy - Nbc Tower,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Dollop,Dollop,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Original Frances' Deli,Original Frances' Deli,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Caribou Coffee,Caribou Coffee,0,南面,0.0,0.0,0.0
+咖啡厅,Panera Bread,Panera Bread,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Intelligentsia Coffee,Intelligentsia Coffee,0,West Side,0.0,0.0,0.0
+咖啡厅,Bourgeois Pig Cafe,Bourgeois Pig Cafe,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Fritz Pastry,Fritz Pastry,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Argo Tea,Argo Tea,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Little Branch Cafe,Little Branch Cafe,0,南面,0.0,0.0,0.0
+咖啡厅,Hardboiled Coffee Company,Hardboiled Coffee Company,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Macondo,Macondo,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,The Coffee Studio,The Coffee Studio,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Asado Coffee Co,Asado Coffee Co,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,BANG BANG PIE SHOP,BANG BANG PIE SHOP,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Haifa Cafe,Haifa Cafe,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Atomix,Atomix,0,Wicker Park,0.0,0.0,0.0
+咖啡厅,The Wormhole Coffee,The Wormhole Coffee,0,Wicker Park,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,The sip,The sip,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Argo Tea Cafe,Argo Tea Cafe,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Argo Tea,Argo Tea,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Argo Tea,Argo Tea,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Intelligentsia Coffee,Intelligentsia Coffee,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Argo Tea,Argo Tea,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Ann Sather,Ann Sather,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Kickstand Espresso Bar,Kickstand Espresso Bar,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Beverly Bakery and Cafe,Beverly Bakery and Cafe,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Caffe Baci - The Loop,Caffe Baci - The Loop,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,The Kitchen Sink,The Kitchen Sink,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Moon Sandwich Shop,Moon Sandwich Shop,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,The Book Cellar,The Book Cellar,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Julius Meinl Cafe,Julius Meinl Cafe,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Cafe Jumping Bean,Cafe Jumping Bean,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Pause,Pause,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Mercury Cafe,Mercury Cafe,0,Wicker Park,0.0,0.0,0.0
+咖啡厅,Cafe Society,Cafe Society,0,南面,0.0,0.0,0.0
+咖啡厅,Cafe Ballou,Cafe Ballou,0,Wicker Park,0.0,0.0,0.0
+咖啡厅,Uncle Mike's Place,Uncle Mike's Place,0,West Side,0.0,0.0,0.0
+咖啡厅,Argo Tea,Argo Tea,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Argo Tea,Argo Tea,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Istria Cafe,Istria Cafe,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Cafe Descartes,Cafe Descartes,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Cozy Corner Diner & Pancake House,Cozy Corner Diner & Pancake House,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Clarke's on Belmont,Clarke's on Belmont,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Uncommon Ground咖啡酒吧,Uncommon Ground咖啡酒吧,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Thai Linda Cafe,Thai Linda Cafe,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,New Wave Coffee,New Wave Coffee,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Marmalade,Marmalade,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Caribou Coffee Company on Broadway,Caribou Coffee Company on Broadway,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Third Coast,Third Coast,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Argo Tea,Argo Tea,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Argo Tea,Argo Tea,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Cardozo's Pub,Cardozo's Pub,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Argo Tea,Argo Tea,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,布拉乌尔咖啡馆,布拉乌尔咖啡馆,0,芝加哥其他,0.0,0.0,0.0
+咖啡厅,Plein Air Cafe,Plein Air Cafe,0,,0.0,0.0,0.0
+咖啡厅,星巴克,星巴克,0,,0.0,0.0,0.0
+咖啡厅,Plein Air Cafe,Plein Air Cafe,0,,0.0,0.0,0.0
+咖啡厅,Plein Air Cafe & Eatery,Plein Air Cafe & Eatery,0,南面,0.0,0.0,0.0
+咖啡厅,wildberry cafe,wildberry cafe,0,,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee,Starbucks Coffee(芝加哥Adam大街店),0,West Side,0.0,0.0,0.0
+意大利菜,RPM Italian,RPM Italian,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Tratorria #10 chicago,Tratorria #10 chicago,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Lou Malnati's Pizzeria - River North,Lou Malnati's Pizzeria - River North,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Quartino,Quartino,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Osteria Via Stato,Osteria Via Stato,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Sapori Trattoria,Sapori Trattoria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Rosebud on Rush,Rosebud on Rush,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pizza Metro,Pizza Metro,0,Wicker Park,0.0,0.0,0.0
+意大利菜,Bongiorno's Italian Deli and Pizzeria,Bongiorno's Italian Deli and Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Eat Italy,Eat Italy,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Bertucci's Corner-24th St Incorporated,Bertucci's Corner-24th St Incorporated,0,Bridgeport Chinatown,0.0,0.0,0.0
+意大利菜,Briciola,Briciola,0,Wicker Park,0.0,0.0,0.0
+意大利菜,Nando Milano Trattatoria,Nando Milano Trattatoria,0,Wicker Park,0.0,0.0,0.0
+意大利菜,Giordano's,Giordano's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Cabana Club,Cabana Club,0,帕克里奇,0.0,0.0,0.0
+意大利菜,Connie's Pizza-Bridgeport,Connie's Pizza-Bridgeport,0,Bridgeport Chinatown,0.0,0.0,0.0
+意大利菜,Edwardo's Natural Pizza,Edwardo's Natural Pizza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Zia's Trattoria,Zia's Trattoria,0,帕克里奇,0.0,0.0,0.0
+意大利菜,Bacino's Pizzeria,Bacino's Pizzeria,0,West Side,0.0,0.0,0.0
+意大利菜,Antico,Antico,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pucci's Restaurant & Pizzeria,Pucci's Restaurant & Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Black Dog Gelato,Black Dog Gelato,0,Wicker Park,0.0,0.0,0.0
+意大利菜,Sicilian Bakery,Sicilian Bakery,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Ambrogio Restaurant,Ambrogio Restaurant,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,D'Amato's Pizza,D'Amato's Pizza,0,West Side,0.0,0.0,0.0
+意大利菜,Mangia Fresca,Mangia Fresca,0,Bridgeport Chinatown,0.0,0.0,0.0
+意大利菜,Nancy's Pizzeria,Nancy's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Go Roma Italian Kitchen,Go Roma Italian Kitchen,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Nico Osteria,Nico Osteria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Salvatore's Restaurant,Salvatore's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Trattoria No. 10,Trattoria No. 10,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Elliott's,Elliott's,0,帕克里奇,0.0,0.0,0.0
+意大利菜,Frankie's 5th Floor Pizzeria,Frankie's 5th Floor Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,La Scarola,La Scarola,0,West Side,0.0,0.0,0.0
+意大利菜,Davanti Enoteca,Davanti Enoteca,0,West Side,0.0,0.0,0.0
+意大利菜,Macello,Macello,0,West Side,0.0,0.0,0.0
+意大利菜,Bombacigno's J & C Restaurant,Bombacigno's J & C Restaurant,0,West Side,0.0,0.0,0.0
+意大利菜,Tutto Italiano Restaurant,Tutto Italiano Restaurant,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Renaldi's Pizza Pub,Renaldi's Pizza Pub,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Connie's Pizza By The Pier,Connie's Pizza By The Pier,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Bar Toma,Bar Toma,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Romano's Macaroni Grill,Romano's Macaroni Grill,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Connie's Pizza-Gold Coast,Connie's Pizza-Gold Coast,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pompeii,Pompeii,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Tuscany on Taylor,Tuscany on Taylor,0,West Side,0.0,0.0,0.0
+意大利菜,Italian Fiesta Pizzeria,Italian Fiesta Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Spiaggia,Spiaggia,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Piccolo Mondo,Piccolo Mondo,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pazzo's Cucina Italiana,Pazzo's Cucina Italiana,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Merlo on Maple,Merlo on Maple,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Bella Bacino's,Bella Bacino's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Caffe Baci,Caffe Baci,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Fornetto Mei,Fornetto Mei,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Cafe Med,Cafe Med,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Giordano's Pizza,Giordano's Pizza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pelago Ristorante,Pelago Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Eataly,Eataly,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Rosebud Restaurant,Rosebud Restaurant,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Giordano's,Giordano's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Baffo,Baffo,0,,0.0,0.0,0.0
+意大利菜,Grandview Tavern and Beer Garden,Grandview Tavern and Beer Garden,0,West Side,0.0,0.0,0.0
+意大利菜,Vincenzo's Pizzeria,Vincenzo's Pizzeria,0,West Side,0.0,0.0,0.0
+意大利菜,Cafe Viaggio,Cafe Viaggio,0,West Side,0.0,0.0,0.0
+意大利菜,Giordano's,Giordano's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Villa Palermo Pizza,Villa Palermo Pizza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Piccola Napoli Pizzeria,Piccola Napoli Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Fiorenza Ristorante,Fiorenza Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,La Villa Restaurant,La Villa Restaurant,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Terra Gusto,Terra Gusto,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Filippo's Ristorante,Filippo's Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Il Sogno Italian Restaurant and Cafe,Il Sogno Italian Restaurant and Cafe,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Trattoria Caterina,Trattoria Caterina,0,南面,0.0,0.0,0.0
+意大利菜,Cafe Bionda,Cafe Bionda,0,南面,0.0,0.0,0.0
+意大利菜,Tocco Pizza e Arte,Tocco Pizza e Arte,0,Wicker Park,0.0,0.0,0.0
+意大利菜,Via Carducci,Via Carducci,0,Wicker Park,0.0,0.0,0.0
+意大利菜,Francesca's Forno,Francesca's Forno,0,Wicker Park,0.0,0.0,0.0
+意大利菜,A Tavola,A Tavola,0,Wicker Park,0.0,0.0,0.0
+意大利菜,Piccolo Sogno,Piccolo Sogno,0,West Side,0.0,0.0,0.0
+意大利菜,Salatino's,Salatino's,0,West Side,0.0,0.0,0.0
+意大利菜,JP Grazianos,JP Grazianos,0,West Side,0.0,0.0,0.0
+意大利菜,Venice Cafe,Venice Cafe,0,West Side,0.0,0.0,0.0
+意大利菜,RoSal's Italian Kitchen,RoSal's Italian Kitchen,0,West Side,0.0,0.0,0.0
+意大利菜,Mart Anthony's Italian Restaurant,Mart Anthony's Italian Restaurant,0,West Side,0.0,0.0,0.0
+意大利菜,Fontano Foods,Fontano Foods,0,West Side,0.0,0.0,0.0
+意大利菜,Bice,Bice,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Disotto Enoteca,Disotto Enoteca,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Francesca's on Chestnut,Francesca's on Chestnut,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Cafe Spiaggia,Cafe Spiaggia,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Volare,Volare,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Avanti Caffe,Avanti Caffe,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Picollo Sogno Duo,Picollo Sogno Duo,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Filini,Filini,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Giordano's,Giordano's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Palermo Italian Restaurant,Palermo Italian Restaurant,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Franconello's Italian Restaurant,Franconello's Italian Restaurant,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Spacca Napoli,Spacca Napoli,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,La Madia,La Madia,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Ciao Napoli,Ciao Napoli,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Johnny Brown Bag,Johnny Brown Bag,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Lou Malnati's Pizzeria - Gold Coast,Lou Malnati's Pizzeria - Gold Coast,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Giordanos Pizza,Giordanos Pizza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,The Art of Pizza,The Art of Pizza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,D'Agostino's Pizzeria,D'Agostino's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Panino's Pizzeria,Panino's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Tedino's Pizzeria and Restaurant,Tedino's Pizzeria and Restaurant,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Giordano's,Giordano's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Lou Malnati's Pizzeria - Lincoln Park,Lou Malnati's Pizzeria - Lincoln Park,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Home Run Inn,Home Run Inn,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pequods Pizza,Pequods Pizza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Porretta's Pizzeria,Porretta's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,La Gondola Ristorante,La Gondola Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Chicago Pizza & Oven Grinder,Chicago Pizza & Oven Grinder,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,The Pasta Bowl,The Pasta Bowl,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Bacino's Pizzeria,Bacino's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Rocco Ranalli's,Rocco Ranalli's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,SIAM Pasta,SIAM Pasta,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Fiorentino's Cucina Italiana,Fiorentino's Cucina Italiana,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Sprout,Sprout,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Anna Maria Pasteria,Anna Maria Pasteria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Tutto Fresco Trattoria,Tutto Fresco Trattoria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Mia Figlia,Mia Figlia,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Letizia's Fiore,Letizia's Fiore,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Mama Milano,Mama Milano,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Bar Umbriago,Bar Umbriago,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,PICCOLO SOGNO DUE,PICCOLO SOGNO DUE,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Topo Gigio,Topo Gigio,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Viaggio,Viaggio,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Riccardo Enoteca,Riccardo Enoteca,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Siena Tavern,Siena Tavern,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Osteria de Pizza Metro,Osteria de Pizza Metro,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Mia Francesca,Mia Francesca,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Coco Pazzo,Coco Pazzo,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Buona Terra,Buona Terra,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Francesca's Bryn Mawr,Francesca's Bryn Mawr,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Rose Angelis,Rose Angelis,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Basil Leaf Cafe,Basil Leaf Cafe,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Trattoria Gianni,Trattoria Gianni,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Vinci Restaurant,Vinci Restaurant,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Sabatino's,Sabatino's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,J Rocco Italian Table and Bar,J Rocco Italian Table and Bar,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Ignotz Ristorante,Ignotz Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Mario's Gold Coast Ristorante,Mario's Gold Coast Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Monastero's Ristorante,Monastero's Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pasta Palazzo,Pasta Palazzo,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Roma's Italian Beef & Sausage,Roma's Italian Beef & Sausage,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Vince's Italian Restaurant,Vince's Italian Restaurant,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Hat Dance,Hat Dance,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pasta D'Arte,Pasta D'Arte,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Il Mulino,Il Mulino,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Socca,Socca,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,riccardo trattoria,riccardo trattoria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,La Cantina Italian Chophouse,La Cantina Italian Chophouse,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Luigi Stefani's (Midway Airport),Luigi Stefani's (Midway Airport),0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Osteria Langhe,Osteria Langhe,0,,0.0,0.0,0.0
+意大利菜,Moretti's Ristorante & Pizzeria,Moretti's Ristorante & Pizzeria,0,帕克里奇,0.0,0.0,0.0
+意大利菜,Panozzo's Italian Market,Panozzo's Italian Market,0,南面,0.0,0.0,0.0
+意大利菜,Cleo's Bar & Grill,Cleo's Bar & Grill,0,Wicker Park,0.0,0.0,0.0
+意大利菜,Al's # 1 Italian Beef,Al's # 1 Italian Beef,0,West Side,0.0,0.0,0.0
+意大利菜,Leona's Pizzeria,Leona's Pizzeria,0,West Side,0.0,0.0,0.0
+意大利菜,Salerno's Restaurant,Salerno's Restaurant,0,West Side,0.0,0.0,0.0
+意大利菜,Giordano's,Giordano's,0,West Side,0.0,0.0,0.0
+意大利菜,Viaggio,Viaggio,0,West Side,0.0,0.0,0.0
+意大利菜,Three Aces,Three Aces,0,West Side,0.0,0.0,0.0
+意大利菜,Cafe Ciao,Cafe Ciao,0,West Side,0.0,0.0,0.0
+意大利菜,694 Wine Bar,694 Wine Bar,0,West Side,0.0,0.0,0.0
+意大利菜,Beggars Pizza,Beggars Pizza,0,West Side,0.0,0.0,0.0
+意大利菜,Francesca's On Taylor,Francesca's On Taylor,0,West Side,0.0,0.0,0.0
+意大利菜,Tufanos Vernon Park Tap,Tufanos Vernon Park Tap,0,West Side,0.0,0.0,0.0
+意大利菜,La Luce,La Luce,0,West Side,0.0,0.0,0.0
+意大利菜,Bella Notte,Bella Notte,0,West Side,0.0,0.0,0.0
+意大利菜,The Rosebud,The Rosebud,0,West Side,0.0,0.0,0.0
+意大利菜,Franco's Ristorante,Franco's Ristorante,0,Bridgeport Chinatown,0.0,0.0,0.0
+意大利菜,Pizano's Pizza & Pasta,Pizano's Pizza & Pasta,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Coco Pazzo Cafe,Coco Pazzo Cafe,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Tre Soldi,Tre Soldi,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pazzo's Cucina Italiana,Pazzo's Cucina Italiana,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Tesori,Tesori,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,The Florentine,The Florentine,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pazzo's Cucina Italiana,Pazzo's Cucina Italiana,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Italian Village,Italian Village,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,La Rosetta,La Rosetta,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Carmen's Of Loyola Pizzeria,Carmen's Of Loyola Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Gruppo di Amici,Gruppo di Amici,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Vito and Nick's Pizzeria,Vito and Nick's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Vito & Nicks Pizzeria,Vito & Nicks Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,La Coco's,La Coco's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Legno by Suparossa,Legno by Suparossa,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Ombra,Ombra,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Carmine's,Carmine's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Club Lucky,Club Lucky,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Grotto on State,Grotto on State,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,mangia roma,mangia roma,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Gino's East,Gino's East,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,The Original Mama Mia's Pizzeria Delivery,The Original Mama Mia's Pizzeria Delivery,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Piazza Bella,Piazza Bella,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Fornello Trattoria,Fornello Trattoria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Chicago's Pizza,Chicago's Pizza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Giordano's,Giordano's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Gino's East,Gino's East,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pizzeria Ora,Pizzeria Ora,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Trattoria Roma,Trattoria Roma,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pat's Pizzeria & Ristorante,Pat's Pizzeria & Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Leona's Pizzeria,Leona's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Orso's Restaurant,Orso's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Isle of Sicily,Isle of Sicily,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Oggi Trattoria e Caffe,Oggi Trattoria e Caffe,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Nancy's Original Stuffed Pizza,Nancy's Original Stuffed Pizza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Sorrento Restaurant and Pizzeria,Sorrento Restaurant and Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Fontana Grill,Fontana Grill,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Trattoria Trullo,Trattoria Trullo,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Rosebud Trattoria,Rosebud Trattoria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Great Lake Pizza,Great Lake Pizza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Accanto,Accanto,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Forza,Forza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Joseph's Chicago,Joseph's Chicago,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Taverna 750,Taverna 750,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Due Lire Vino & Cucina,Due Lire Vino & Cucina,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Dolce Casa,Dolce Casa,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Caro Mio,Caro Mio,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Finestra di Calo,Finestra di Calo,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Angelina Ristorante,Angelina Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Club Lago,Club Lago,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Scoozi,Scoozi,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Dinotto Ristorante,Dinotto Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Tarantino's,Tarantino's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Topo Gigio Ristorante,Topo Gigio Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Via Carducci,Via Carducci,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Via Veneto Ristorante,Via Veneto Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Joe Boston's Italian Beef,Joe Boston's Italian Beef,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Bruna's Ristorante,Bruna's Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Bacchanalia,Bacchanalia,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Caffe Baci,Caffe Baci,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Trattoria Dinotto,Trattoria Dinotto,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Centro Ristorante,Centro Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Anteprima,Anteprima,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Leonardo's Ristorante,Leonardo's Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Prosecco,Prosecco,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Bella Rosa,Bella Rosa,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Stefani's Tuscany Cafe,Stefani's Tuscany Cafe,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pat's Pizzeria,Pat's Pizzeria,0,南面,0.0,0.0,0.0
+意大利菜,Trattoria Isabella,Trattoria Isabella,0,West Side,0.0,0.0,0.0
+意大利菜,Ciao Amore,Ciao Amore,0,West Side,0.0,0.0,0.0
+意大利菜,Pompei Bakery,Pompei Bakery,0,West Side,0.0,0.0,0.0
+意大利菜,Follia,Follia,0,West Side,0.0,0.0,0.0
+意大利菜,Capi's Italian Kitchen,Capi's Italian Kitchen,0,,0.0,0.0,0.0
+意大利菜,Stefani's Tuscany Cafe,Stefani's Tuscany Cafe,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Vivere,Vivere,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Rosebud,Rosebud,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Rosebud Theater District,Rosebud Theater District,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Caffe Baci - S. Lasalle,Caffe Baci - S. Lasalle,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Leona's Pizzeria,Leona's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Robey Pizza Company,Robey Pizza Company,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Leona's Pizzeria,Leona's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Giordano's,Giordano's,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Ranalli's on Clark,Ranalli's on Clark,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Pete's Pizza,Pete's Pizza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Ripasso,Ripasso,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,State St. Pizza Company,State St. Pizza Company,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Caffe Italia,Caffe Italia,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,La Bocca della Verita,La Bocca della Verita,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Merlo Ristorante,Merlo Ristorante,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Ballo,Ballo,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Ranalli's,Ranalli's,0,West Side,0.0,0.0,0.0
+意大利菜,Oggi,Oggi,0,West Side,0.0,0.0,0.0
+意大利菜,Alimentari Osteria,Alimentari Osteria,0,West Side,0.0,0.0,0.0
+意大利菜,Scafuri Bakery,Scafuri Bakery,0,West Side,0.0,0.0,0.0
+意大利菜,Pizza Capri of Hyde Park,Pizza Capri of Hyde Park,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Viapiano,Viapiano,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Leona's Pizzeria,Leona's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Edwardo's Natural Pizza,Edwardo's Natural Pizza,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Chicago's Pizza & Pasta,Chicago's Pizza & Pasta,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Leona's Pizzeria - South Western Avenue,Leona's Pizzeria - South Western Avenue,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,Sopranos,Sopranos,0,芝加哥其他,0.0,0.0,0.0
+意大利菜,La Fontanella Restaurant,La Fontanella Restaurant,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Sidetrack夜店,Sidetrack夜店,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Jazz Showcase,Jazz Showcase,0,南面,0.0,0.0,0.0
+酒吧,Henry's Swing Bar,Henry's Swing Bar,0,,6.9,6.9,6.9
+酒吧,The Wit Hotel Roof Top Bar,The Wit Hotel Roof Top Bar,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Celtic Crossings夜店,Celtic Crossings夜店,0,芝加哥其他,0.0,0.0,0.0
+酒吧,空瓶子酒吧,空瓶子酒吧,0,Wicker Park,0.0,0.0,0.0
+酒吧,"Sauce and Bread Kitchen, chicago","Sauce and Bread Kitchen, chicago",0,芝加哥其他,0.0,0.0,0.0
+酒吧,Streeter's Lounge,Streeter's Lounge,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Exit,Exit,0,Wicker Park,0.0,0.0,0.0
+酒吧,NV Penthouse Lounge,NV Penthouse Lounge,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Lee's Unleaded Blues布鲁斯酒吧,Lee's Unleaded Blues布鲁斯酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Simon's Tavern,Simon's Tavern,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Molly's Eatery & Drinkery,Molly's Eatery & Drinkery,0,,0.0,0.0,0.0
+酒吧,Le Passage夜店,Le Passage夜店,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Phyllis' Musical Inn,Phyllis' Musical Inn,0,Wicker Park,0.0,0.0,0.0
+酒吧,Blue Chicago布鲁斯酒吧,Blue Chicago布鲁斯酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Monk's Pub,Monk's Pub,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Old Town Ale House酒吧,Old Town Ale House酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Narcisse夜店,Narcisse夜店,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Close Up 2 爵士俱乐部,Close Up 2 爵士俱乐部,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Rockit扒房,Rockit扒房,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Danny's Tavern酒吧,Danny's Tavern酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,鬼魂酒吧,鬼魂酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Signature Lounge爵士酒吧,Signature Lounge爵士酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Dublin's Pub,Dublin's Pub,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Bernice's,Bernice's,0,Bridgeport Chinatown,0.0,0.0,0.0
+酒吧,Jilly's钢琴酒吧,Jilly's钢琴酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Excalibur Nightclub夜店,Excalibur Nightclub夜店,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Baton Show Lounge夜店,Baton Show Lounge夜店,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Green Mill爵士酒吧,Green Mill爵士酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Butch McGuire's,Butch McGuire's,0,芝加哥其他,0.0,0.0,0.0
+酒吧,The Underground Chicago,The Underground Chicago,0,芝加哥其他,0.0,0.0,0.0
+酒吧,地下玄幻酒吧,地下玄幻酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Central Standard,Central Standard,0,芝加哥其他,0.0,0.0,0.0
+酒吧,芝加哥布鲁斯之家酒吧,芝加哥布鲁斯之家酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Blue Frog's Local 22,Blue Frog's Local 22,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Buddy Guy's Legends爵士酒吧,Buddy Guy's Legends爵士酒吧,0,南面,0.0,0.0,0.0
+酒吧,云雀酒吧,云雀酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Watershed,Watershed,0,芝加哥其他,0.0,0.0,0.0
+酒吧,404 Wine Bar,404 Wine Bar,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Ginger Man Tavern酒吧,Ginger Man Tavern酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Commonwealth Tavern,Commonwealth Tavern,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Sound-Bar酒吧,Sound-Bar酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Will's Northwoods Inn酒吧,Will's Northwoods Inn酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,后屋酒吧,后屋酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,C-View Rooftop Lounge & Terrace夜店,C-View Rooftop Lounge & Terrace夜店,0,芝加哥其他,0.0,0.0,0.0
+酒吧,O'Hare Bar and Grill,O'Hare Bar and Grill,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Bistro at 151- Hyatt Regency Chicago,Bistro at 151- Hyatt Regency Chicago,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Double Door,Double Door,0,Wicker Park,0.0,0.0,0.0
+酒吧,Ch Distillery,Ch Distillery,0,West Side,0.0,0.0,0.0
+酒吧,Lucky Strike专卖店,Lucky Strike专卖店,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Brando's,Brando's,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Act One,Act One,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Webster's Wine Bar,Webster's Wine Bar,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Kingston Mines布鲁斯酒吧,Kingston Mines布鲁斯酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Paddy Long's Beer & Bacon Pub,Paddy Long's Beer & Bacon Pub,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Rosa's Lounge,Rosa's Lounge,0,芝加哥其他,0.0,0.0,0.0
+酒吧,B.L.U.E.S.,B.L.U.E.S.,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Elixir Lounge,Elixir Lounge,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Revolution Brewing Co,Revolution Brewing Co,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Elbo Room,Elbo Room,0,芝加哥其他,0.0,0.0,0.0
+酒吧,加州钳子,加州钳子,0,芝加哥其他,0.0,0.0,0.0
+酒吧,地图房间酒吧,地图房间酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Drumbar Chicago,Drumbar Chicago,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Hogs & Honeys,Hogs & Honeys,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Spoon,Spoon,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Sheffield's Beer and Wine Garden,Sheffield's Beer and Wine Garden,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Pint,Pint,0,Wicker Park,0.0,0.0,0.0
+酒吧,The Tasting Room酒庄,The Tasting Room酒庄,0,West Side,0.0,0.0,0.0
+酒吧,Andy's Jazz Club,Andy's Jazz Club,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Checker Board Lounge布鲁斯酒吧,Checker Board Lounge布鲁斯酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Jimmy's Woodlawn Tap酒吧,Jimmy's Woodlawn Tap酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Corcoran's Grill and Pub,Corcoran's Grill and Pub,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Crobar酒吧,Crobar酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,The Joynt,The Joynt,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Goose Island Wrigleyville Brew Pub,Goose Island Wrigleyville Brew Pub,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Pops for Champagne,Pops for Champagne,0,芝加哥其他,0.0,0.0,0.0
+酒吧,The Bucktown酒吧,The Bucktown酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,The Sedgwick Stop,The Sedgwick Stop,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Joe's Wine Cellar,Joe's Wine Cellar,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Reggie's Rock Club,Reggie's Rock Club,0,南面,0.0,0.0,0.0
+酒吧,Richard,Richard,0,West Side,0.0,0.0,0.0
+酒吧,Taste酒吧,Taste酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Benchmark,Benchmark,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Streetside Cafe,Streetside Cafe,0,芝加哥其他,0.0,0.0,0.0
+酒吧,1048 Sky Lounge,1048 Sky Lounge,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Zentra,Zentra,0,芝加哥其他,0.0,0.0,0.0
+酒吧,汽车旅馆酒吧,汽车旅馆酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Brehon酒吧,Brehon酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Quigley's Irish Pub - Oak Lawn,Quigley's Irish Pub - Oak Lawn,0,,6.9,7.0,7.0
+酒吧,Velvet Lounge,Velvet Lounge,0,南面,0.0,0.0,0.0
+酒吧,野牛俱乐部,野牛俱乐部,0,南面,0.0,0.0,0.0
+酒吧,Funky Buddha Lounge舞厅,Funky Buddha Lounge舞厅,0,Wicker Park,0.0,0.0,0.0
+酒吧,Davenport's Piano Bar & Cabaret,Davenport's Piano Bar & Cabaret,0,Wicker Park,0.0,0.0,0.0
+酒吧,Grape Street Piano Bar,Grape Street Piano Bar,0,芝加哥其他,0.0,0.0,0.0
+酒吧,The Living Room Bar,The Living Room Bar,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Exedus II夜店,Exedus II夜店,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Stone Lotus,Stone Lotus,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Beat Kitchen,Beat Kitchen,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Cubby Bear酒廊,Cubby Bear酒廊,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Beauty Bar,Beauty Bar,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Abbey Pub,Abbey Pub,0,芝加哥其他,0.0,0.0,0.0
+酒吧,The Hideout,The Hideout,0,芝加哥其他,0.0,0.0,0.0
+酒吧,衣柜同性恋酒吧,衣柜同性恋酒吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Marie's Riptide Lounge,Marie's Riptide Lounge,0,芝加哥其他,0.0,0.0,0.0
+酒吧,红头钢琴吧,红头钢琴吧,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Roscoe's Tavern,Roscoe's Tavern,0,芝加哥其他,0.0,0.0,0.0
+酒吧,Taste Bar Café,Taste Bar Café,0,,0.0,0.0,0.0
+酒吧,芝加哥旅游公司,芝加哥旅游公司,0,,0.0,0.0,0.0
+酒吧,hawkeye's pub,hawkeye's pub,0,West Side,0.0,0.0,0.0
+法国菜,Avec,Avec,0,West Side,0.0,0.0,0.0
+法国菜,Acadia,Acadia,0,南面,0.0,0.0,0.0
+法国菜,Paris Club,Paris Club,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Le Colonial,Le Colonial,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Ba Le French Bakery & Restaurant,Ba Le French Bakery & Restaurant,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Cafe des Architectes,Cafe des Architectes,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Bistronomic,Bistronomic,0,芝加哥其他,0.0,0.0,0.0
+法国菜,La Petite Folie,La Petite Folie,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Les Nomades,Les Nomades,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Bistro Campagne,Bistro Campagne,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Troquet River North,Troquet River North,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Next Restaurant,Next Restaurant,0,West Side,0.0,0.0,0.0
+法国菜,Icosium,Icosium,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Brasserie by LM,Brasserie by LM,0,南面,0.0,0.0,0.0
+法国菜,Le Petit Paris,Le Petit Paris,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Cyrano's,Cyrano's,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Bistro Dre,Bistro Dre,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Le Bar,Le Bar,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Cafe Touche French Bistro & Wine Bar,Cafe Touche French Bistro & Wine Bar,0,帕克里奇,0.0,0.0,0.0
+法国菜,Chez Joel,Chez Joel,0,West Side,0.0,0.0,0.0
+法国菜,Maison,Maison,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Maison Brasserie,Maison Brasserie,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Bistro Voltaire,Bistro Voltaire,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Eggsperience Pancakes,Eggsperience Pancakes,0,芝加哥其他,0.0,0.0,0.0
+法国菜,La Fournette,La Fournette,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Brindille,Brindille,0,芝加哥其他,0.0,0.0,0.0
+法国菜,KiKi's Bistro,KiKi's Bistro,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Mon Ami Gabi,Mon Ami Gabi,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Koda,Koda,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Old Town Brasserie,Old Town Brasserie,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Flip Crepes,Flip Crepes,0,West Side,0.0,0.0,0.0
+法国菜,La Sardine,La Sardine,0,West Side,0.0,0.0,0.0
+法国菜,Crepe Bistro,Crepe Bistro,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Everest,Everest,0,芝加哥其他,0.0,0.0,0.0
+法国菜,CHEZ MOI,CHEZ MOI,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Bistrot Zinc,Bistrot Zinc,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Le Bouchon,Le Bouchon,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Bistrot Margot,Bistrot Margot,0,芝加哥其他,0.0,0.0,0.0
+法国菜,La Creperie,La Creperie,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Troquet,Troquet,0,芝加哥其他,0.0,0.0,0.0
+法国菜,La Boulangerie,La Boulangerie,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Brasserie 54,Brasserie 54,0,芝加哥其他,0.0,0.0,0.0
+法国菜,Cafe Bernard,Cafe Bernard,0,芝加哥其他,0.0,0.0,0.0
+法国菜,CatCh Thirty Five,CatCh Thirty Five,0,壮丽大道,0.0,0.0,0.0
+墨西哥菜,Xoco,Xoco,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Su Casa Mexican Restaurant,Su Casa Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Chipotle,Chipotle,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,New Rebozo,New Rebozo,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Costa Azul Restaurant,Costa Azul Restaurant,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Taqueria Y Restaurant El Gusto,Taqueria Y Restaurant El Gusto,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Picante Taqueria Restaurant,Picante Taqueria Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,La Cocina Mexican Grill,La Cocina Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Antique Taco,Antique Taco,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Qdoba Mexican Grill,Qdoba Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Maria's Mexican Restaurant,Maria's Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Jalapeno Rock,Jalapeno Rock,0,,0.0,0.0,0.0
+墨西哥菜,La Palapa,La Palapa,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Chipotle Mexican Grill,Chipotle Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Big Star,Big Star,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Angels,Angels,0,West Side,0.0,0.0,0.0
+墨西哥菜,Tortas USA,Tortas USA,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Cantina Laredo,Cantina Laredo,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria Traspazada,Taqueria Traspazada,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Tacos Erendira Incorporated,Tacos Erendira Incorporated,0,Bridgeport Chinatown,0.0,0.0,0.0
+墨西哥菜,La Cocina Restaurant,La Cocina Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Guadalupana,Guadalupana,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Birrieria Zaragoza,Birrieria Zaragoza,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Gallo Tapatio,El Gallo Tapatio,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Cafezazzo,Cafezazzo,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Gallo de Oro Restaurant,El Gallo de Oro Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Favela's Restaurant,Favela's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Bar Celona,Bar Celona,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Angela's Burrito Style,Angela's Burrito Style,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,La Ciudad,La Ciudad,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Maria's Mexican Restaurant,Maria's Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Pollo Express,Pollo Express,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Casa Cafe,Casa Cafe,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Tamales Garibay,Tamales Garibay,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Rincon Azteca,El Rincon Azteca,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Norte,El Norte,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Caminos de Michoacan #2,Caminos de Michoacan #2,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Carnitas Uruapan Restaurant,Carnitas Uruapan Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Puebla,Puebla,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria Moran,Taqueria Moran,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Carnitas El Paisa,Carnitas El Paisa,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Palenque,El Palenque,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Taconazo Restaurant,El Taconazo Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Tio Luis Tacos,Tio Luis Tacos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Tacos Garcias,Tacos Garcias,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Atotonilco Taqueria,Atotonilco Taqueria,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Zia,Zia,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Gordo,El Gordo,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Mom's Old Recipe,Mom's Old Recipe,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,L' Patron Tacos,L' Patron Tacos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria Mazamitla,Taqueria Mazamitla,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Las Cazuelas,Las Cazuelas,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Taconazo Restaurant,El Taconazo Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria Traspasada,Taqueria Traspasada,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Parkview Restaurant Grill,Parkview Restaurant Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,sabor saveur,sabor saveur,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Takito Kitchen,Takito Kitchen,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Mexique,Mexique,0,West Side,0.0,0.0,0.0
+墨西哥菜,Pancho Pistolas Authentic Mexican Restaurant,Pancho Pistolas Authentic Mexican Restaurant,0,Bridgeport Chinatown,0.0,0.0,0.0
+墨西哥菜,Carbon Live Fire Mexican Grill,Carbon Live Fire Mexican Grill,0,Bridgeport Chinatown,0.0,0.0,0.0
+墨西哥菜,La Cazuela Mariscos,La Cazuela Mariscos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Cid,El Cid,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Playa Azul,Playa Azul,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Tony's Burrito Mex,Tony's Burrito Mex,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Mixteco Grill,Mixteco Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Amelia's Bar and Grill,Amelia's Bar and Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taco & Burrito Palace,Taco & Burrito Palace,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taco Joint,Taco Joint,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Masa Azul,Masa Azul,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taco burrito king,Taco burrito king,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Garcia's Restaurant,Garcia's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Fernando's Restaurant,Fernando's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Jardin,El Jardin,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Palmar,El Palmar,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Los Arcos,Los Arcos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Frontera Grill & Topolobampo,Frontera Grill & Topolobampo,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Nuevo Leon Restaurant,Nuevo Leon Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,2 Amigos,2 Amigos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Faro Restaurant,El Faro Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Nuevo Leon Restaurant,Nuevo Leon Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Las Fuentes Restaurant,Las Fuentes Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Sol de Mexico,Sol de Mexico,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Mas alla del Sol,Mas alla del Sol,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taco Joint,Taco Joint,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Allende Restaurant,Allende Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Las Pinatas Mexican Food,Las Pinatas Mexican Food,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Burrito House,Burrito House,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Mi Tierra Mexican Restaurant,Mi Tierra Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Nuevo Mexicano,El Nuevo Mexicano,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,La Taberna Tapatia,La Taberna Tapatia,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Mi Tierra Mexican Restaurant,Mi Tierra Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria El Milagro,Taqueria El Milagro,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Tipico Mexican Restaurant,El Tipico Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Quesadilla's,Quesadilla's,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Mundial Cocina Mestiza,Mundial Cocina Mestiza,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Los Nopales,Los Nopales,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Maiz,Maiz,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Fonda del Mar,Fonda del Mar,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Dorado,Dorado,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Don Juan's Restaurante,Don Juan's Restaurante,0,帕克里奇,0.0,0.0,0.0
+墨西哥菜,Mr. Taco's Restaurant,Mr. Taco's Restaurant,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Hacienda Tecalitlan,Hacienda Tecalitlan,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,La Pasadita Restaurant,La Pasadita Restaurant,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Las Palmas Mexican Restaurant,Las Palmas Mexican Restaurant,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Las Brazas,Las Brazas,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,"Fogon, Chicago","Fogon, Chicago",0,West Side,0.0,0.0,0.0
+墨西哥菜,La Cuchara,La Cuchara,0,West Side,0.0,0.0,0.0
+墨西哥菜,Burrito Beach - Citicorp Center,Burrito Beach - Citicorp Center,0,West Side,0.0,0.0,0.0
+墨西哥菜,Qdoba Mexican Grill,Qdoba Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Frontera Fresco,Frontera Fresco,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Chipotle - 230 W. Monroe,Chipotle - 230 W. Monroe,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,MI Casa,MI Casa,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Zaca Tacos,Zaca Tacos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Tacos Tequilas Chicago IL,Tacos Tequilas Chicago IL,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,La Palapita Restaurant,La Palapita Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Zocalo,Zocalo,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,La Casa De Samuel,La Casa De Samuel,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Cemitas Puebla,Cemitas Puebla,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Real Tenochtitlan,Real Tenochtitlan,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,That Little Mexican Cafe,That Little Mexican Cafe,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Mercadito,Mercadito,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Dos Diablos,Dos Diablos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Los Moles,Los Moles,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Mariachi Tequila Bar & Grill,El Mariachi Tequila Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Chilapan,Chilapan,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Cosina,Cosina,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Chilam Balam,Chilam Balam,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Qdoba Mexican Grill,Qdoba Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Azteca De Oro,Azteca De Oro,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Burrito King on Addison Avein Chicago Il,Burrito King on Addison Avein Chicago Il,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Cafe El Tapatio,Cafe El Tapatio,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Rique's Regional Mexican Food,Rique's Regional Mexican Food,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria El Asadero,Taqueria El Asadero,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria El Milagro,Taqueria El Milagro,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria Casa Del Pueblo,Taqueria Casa Del Pueblo,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria Los Comales,Taqueria Los Comales,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria La Kermes,Taqueria La Kermes,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Adobo Grill,Adobo Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Mayan Palace,Mayan Palace,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Tarascas Mexican Restaurant,Tarascas Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Fiesta Mexicana,Fiesta Mexicana,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Restaurant El Sol DE Mexico,Restaurant El Sol DE Mexico,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Tecalitlan Restaurant,Tecalitlan Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Presidente Restaurante,El Presidente Restaurante,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Shaman,Shaman,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Hefe Super Macho Taqueria,El Hefe Super Macho Taqueria,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Uncle Julio's Hacienda,Uncle Julio's Hacienda,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Burrito Beach,Burrito Beach,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria Susupuato,Taqueria Susupuato,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Nueva Buena Vista,Nueva Buena Vista,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Los Comales of 18th Street,Los Comales of 18th Street,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taco Burrito King,Taco Burrito King,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,La Encantada,La Encantada,0,,0.0,0.0,0.0
+墨西哥菜,El Barco Mariscos,El Barco Mariscos,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Lalo's,Lalo's,0,West Side,0.0,0.0,0.0
+墨西哥菜,Cuernavaca Restaurant,Cuernavaca Restaurant,0,West Side,0.0,0.0,0.0
+墨西哥菜,de cero,de cero,0,West Side,0.0,0.0,0.0
+墨西哥菜,Maravillas Restaurant,Maravillas Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Qdoba Mexican Grill,Qdoba Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,La Bamba,La Bamba,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Lalo's,Lalo's,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Moes Cantina,Moes Cantina,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,La Bamba,La Bamba,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Erick's Tacos,Erick's Tacos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Justin's,Justin's,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Janitzio Burrito,Janitzio Burrito,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Chipotle,Chipotle,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Patron's Hacienda,Patron's Hacienda,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,El Mariachi II,El Mariachi II,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria La Sierra,Taqueria La Sierra,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taquiria Los Mogotes,Taquiria Los Mogotes,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Las Asadas Restaurant,Las Asadas Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Salpicon,Salpicon,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria Los Gallos,Taqueria Los Gallos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria Los Gallos,Taqueria Los Gallos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Que Rico Restaurant,Que Rico Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Cesar's Restaurant,Cesar's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Arturo's Tacos Mexican Food,Arturo's Tacos Mexican Food,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Blue Agave,Blue Agave,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Victoria's Restaurant,Victoria's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,LA Fiesta Mexican Restaurant,LA Fiesta Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Angels & Mariachis,Angels & Mariachis,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,Flash Taco #2,Flash Taco #2,0,Wicker Park,0.0,0.0,0.0
+墨西哥菜,DeColores,DeColores,0,West Side,0.0,0.0,0.0
+墨西哥菜,Salseria,Salseria,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Barro Mexican Cuisine (Salvador's),Barro Mexican Cuisine (Salvador's),0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Zacataco,Zacataco,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Atotonilco Tortilleria,Atotonilco Tortilleria,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,La Haciendita Restaurant,La Haciendita Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Zaca Tacos,Zaca Tacos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Cafe Con Leche,Cafe Con Leche,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Papacitos Mexican Grille,Papacitos Mexican Grille,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taco Burrito King (River North),Taco Burrito King (River North),0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Que Rico!,Que Rico!,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Platiyo,Platiyo,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,La Amistad,La Amistad,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Vallarta Mexican Grill,Vallarta Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Pepe's Express,Pepe's Express,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Ocotlan,Ocotlan,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Lazo's Tacos,Lazo's Tacos,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria El Ranchito,Taqueria El Ranchito,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Taqueria Los Comales,Taqueria Los Comales,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Twisted Lizard,Twisted Lizard,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Cesar's,Cesar's,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Presto Grill,Presto Grill,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Atotonilco Restaurant,Atotonilco Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Las Mananitas Mexican Restaurant,Las Mananitas Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Lalo's Mexican Restaurant,Lalo's Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,C-Mannys Mexican Restaurant,C-Mannys Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Bull Horns Taco Bar,Bull Horns Taco Bar,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Xel-Ha,Xel-Ha,0,芝加哥其他,0.0,0.0,0.0
+墨西哥菜,Mexx Kitchen at the Whiskey,Mexx Kitchen at the Whiskey,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,The Cheesecake Factory,The Cheesecake Factory,185,壮丽大道,8.0,8.1,8.1
+其他西餐,The Purple Pig,The Purple Pig,0,芝加哥其他,7.2,7.1,7.6
+其他西餐,Joe's Seafood,Joe's Seafood,0,West Side,8.2,8.2,8.4
+其他西餐,Shaw's Crab House,Shaw's Crab House,0,West Side,0.0,0.0,0.0
+其他西餐,Giordano's,Giordano's,0,Bridgeport Chinatown,7.9,7.4,7.4
+其他西餐,Mercat a la Planxa,Mercat a la Planxa,0,南面,0.0,0.0,0.0
+其他西餐,Five Guys Burgers and Fries,Five Guys Burgers and Fries,0,南面,0.0,0.0,0.0
+其他西餐,Chicago Cut Steakhouse,Chicago Cut Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Bavette's Bar and Boeuf,Bavette's Bar and Boeuf,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Manny's Coffee Shop & Deli,Manny's Coffee Shop & Deli,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Rosebud Steakhouse,Rosebud Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Native Food Cafe,Native Food Cafe(芝加哥南克拉克大街店),0,West Side,6.9,7.0,7.0
+其他西餐,Morton's The Steakhouse - Chicago - Wacker Place,Morton's The Steakhouse - Chicago - Wacker Place,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Pierrot Gourmet,Pierrot Gourmet,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Epic Burger,Epic Burger,0,南面,0.0,0.0,0.0
+其他西餐,owen and engine,owen and engine,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Mother Hubbard's Sports Pub,Mother Hubbard's Sports Pub,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Pita Heaven,Pita Heaven,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,New Archview Restaurant,New Archview Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Cafecito,Cafecito,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Fleming's Prime Steakhouse & Wine Bar,Fleming's Prime Steakhouse & Wine Bar,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Sayat Nova East Armenian,Sayat Nova East Armenian,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Kevin's Hamburger Heaven,Kevin's Hamburger Heaven,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他西餐,Breakfast House,Breakfast House,0,West Side,0.0,0.0,0.0
+其他西餐,I Dream of Falafel,I Dream of Falafel,0,West Side,0.0,0.0,0.0
+其他西餐,Rinconcito Sudamericano,Rinconcito Sudamericano,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Cafe Vienna,Cafe Vienna,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Benny's Chop House,Benny's Chop House,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Greek Islands Restaurant,Greek Islands Restaurant,0,West Side,0.0,0.0,0.0
+其他西餐,Mastro's Steakhouse,Mastro's Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Fogo de Chao,Fogo de Chao,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Morton's of Chicago INC,Morton's of Chicago INC,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Emilio's Sol y Nieve,Emilio's Sol y Nieve,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Tapas Valencia,Tapas Valencia,0,南面,0.0,0.0,0.0
+其他西餐,Jason's Deli,Jason's Deli,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Brazilian Bowl,Brazilian Bowl,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Roditys Restaurant,Roditys Restaurant,0,West Side,0.0,0.0,0.0
+其他西餐,Russian Tea Time,Russian Tea Time,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,roti,roti,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Leonidas Chocolate Cafe,Leonidas Chocolate Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Tortas Frontera,Tortas Frontera,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Harold's Fried Chicken,Harold's Fried Chicken,0,南面,0.0,0.0,0.0
+其他西餐,CornerStone Cafe,CornerStone Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Reilly's Daughter,Reilly's Daughter,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Sinha Elegant Cuisine,Sinha Elegant Cuisine,0,West Side,0.0,0.0,0.0
+其他西餐,Oasis Cafe,Oasis Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Shula's Steak House Chicago,Shula's Steak House Chicago,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Brazzaz,Brazzaz,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Naf Naf Grill,Naf Naf Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Hendrickx Belgian Bread Crafter,Hendrickx Belgian Bread Crafter,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Johnny's Grill,Johnny's Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Sabor A Cuba,Sabor A Cuba,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Jamaica Jerk,Jamaica Jerk,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,The Kerryman,The Kerryman,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Greek Corner Restaurant Cafe,Greek Corner Restaurant Cafe,0,Wicker Park,0.0,0.0,0.0
+其他西餐,Olive Mediterranean Grill,Olive Mediterranean Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Masouleh Restaurant,Masouleh Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Zad,Zad,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Sikia,Sikia,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Al Primo Canto,Al Primo Canto,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,D'Noche,D'Noche,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Prix Fixe,Prix Fixe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Le Poulet Bistro,Le Poulet Bistro,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Gyro Mena,Gyro Mena,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Siboney,Siboney,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Lush Wine & Spirits,Lush Wine & Spirits,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Alibaba,Alibaba,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Paladar Restaurant & Rum Bar,Paladar Restaurant & Rum Bar,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Doostan,Doostan,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Etno Village Grill,Etno Village Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Amzi Mediterranean Grill,Amzi Mediterranean Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Spencer's Jolly Posh Foods,Spencer's Jolly Posh Foods,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Arco de Cuchilleros,Arco de Cuchilleros,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,El Tinajon,El Tinajon,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Sabas Vega Meat Market,Sabas Vega Meat Market,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Papa's Cache Sabroso,Papa's Cache Sabroso,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Ponce Restaurant,Ponce Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Cafiteria DE Pancho,Cafiteria DE Pancho,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Peaches & Pears Restaurants,Peaches & Pears Restaurants,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Racine Plumbing,Racine Plumbing,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Mexico Steakhouse,Mexico Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Lutnia,Lutnia,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Glascott's Groggery,Glascott's Groggery,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Windy City Gyros,Windy City Gyros,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,TNT Steakhouse,TNT Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Serbian Village Restaurant,Serbian Village Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Ranch Steak House,Ranch Steak House,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Billy's Gyros,Billy's Gyros,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Pollo Volador,Pollo Volador,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,La Cocina,La Cocina,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,The Corrib Irish Pub,The Corrib Irish Pub,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Burger Boss,Burger Boss,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Halinas Polish Delights,Halinas Polish Delights,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Pegasus,Pegasus,0,West Side,0.0,0.0,0.0
+其他西餐,Andiamo,Andiamo,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Kitty O'Sheas,Kitty O'Sheas,0,南面,0.0,0.0,0.0
+其他西餐,Division Ale House,Division Ale House,0,Wicker Park,0.0,0.0,0.0
+其他西餐,People,People,0,Wicker Park,0.0,0.0,0.0
+其他西餐,Blue Star Bistro & Wine Bar,Blue Star Bistro & Wine Bar,0,Wicker Park,0.0,0.0,0.0
+其他西餐,Leopold,Leopold,0,Wicker Park,0.0,0.0,0.0
+其他西餐,Taxim,Taxim,0,Wicker Park,0.0,0.0,0.0
+其他西餐,Old Lviv,Old Lviv,0,Wicker Park,0.0,0.0,0.0
+其他西餐,La Taberna Tapas on Halsted,La Taberna Tapas on Halsted,0,West Side,0.0,0.0,0.0
+其他西餐,Chicago French Market,Chicago French Market,0,West Side,0.0,0.0,0.0
+其他西餐,Nia Mediterranean Tapas,Nia Mediterranean Tapas,0,West Side,0.0,0.0,0.0
+其他西餐,Vera,Vera,0,West Side,0.0,0.0,0.0
+其他西餐,La Sirena Clandestina,La Sirena Clandestina,0,West Side,0.0,0.0,0.0
+其他西餐,Gold Coast Dogs N Riverside,Gold Coast Dogs N Riverside,0,West Side,0.0,0.0,0.0
+其他西餐,Packing House,Packing House,0,West Side,0.0,0.0,0.0
+其他西餐,Meli Cafe,Meli Cafe,0,West Side,0.0,0.0,0.0
+其他西餐,Pleasant House Bakery,Pleasant House Bakery,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他西餐,Texas de Brazil,Texas de Brazil,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,cantina 46,cantina 46,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,5411 Empanada,5411 Empanada,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Roti Mediterranean Grill,Roti Mediterranean Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Pazzo's Mediterranean Grill,Pazzo's Mediterranean Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Bobak's Restaurant and Sausage Company,Bobak's Restaurant and Sausage Company,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Szalas Restaurant,Szalas Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Murphy's,Murphy's,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,The Clark Street Dog,The Clark Street Dog,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Bulerias Tapas Bar,Bulerias Tapas Bar,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,El Rinconcito Cubano,El Rinconcito Cubano,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Dawali Mediterranean Kitchen,Dawali Mediterranean Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Casbah Cafe,Casbah Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Mrs. Murphy & Sons Irish Bistro,Mrs. Murphy & Sons Irish Bistro,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Wilde Bar & Restaurant,Wilde Bar & Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Curio Cafe,Curio Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Five Faces,Five Faces,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Camanito Argentinian Grill,Camanito Argentinian Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Ethiopian Diamond - Broadway,Ethiopian Diamond - Broadway,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Nellie's,Nellie's,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Devil Dawgs,Devil Dawgs,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Atlantic Bar & Grill,Atlantic Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Vincent,Vincent,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Shokran,Shokran,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Pita Queen,Pita Queen,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Estrella Negra,Estrella Negra,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Twist,Twist,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Chicago Diner,Chicago Diner,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Ras Dashen,Ras Dashen,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,La Fonda Latino Grill,La Fonda Latino Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Kinzie Chop House,Kinzie Chop House,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Polanco,Polanco,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,La Pena,La Pena,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Eat-a-Pita,Eat-a-Pita,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,The Galway Arms,The Galway Arms,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Pars Cove Restaurant,Pars Cove Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Red Apple Restaurant,Red Apple Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Three Dots and a Dash,Three Dots and a Dash,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Duke of Perth,Duke of Perth,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Central Gyros Restaurant,Central Gyros Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Hopleaf Bar,Hopleaf Bar,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Cohiba Cuban Cuisine,Cohiba Cuban Cuisine,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Zed 451,Zed 451,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Home Bistro,Home Bistro,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Demera Ethiopian Restaurant,Demera Ethiopian Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Pannenkoeken Cafe,Pannenkoeken Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Lito's Empanadas,Lito's Empanadas,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,McDonalds at Ohare International Concourse E,McDonalds at Ohare International Concourse E,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Three J's,Three J's,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Mas,Mas,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Podhalanka,Podhalanka,0,Wicker Park,0.0,0.0,0.0
+其他西餐,Santorini Restaurant,Santorini Restaurant,0,West Side,0.0,0.0,0.0
+其他西餐,Carnivale,Carnivale,0,West Side,0.0,0.0,0.0
+其他西餐,Rittergut Wine Bar,Rittergut Wine Bar,0,West Side,0.0,0.0,0.0
+其他西餐,Meze Tapas Lounge,Meze Tapas Lounge,0,West Side,0.0,0.0,0.0
+其他西餐,Santorini Restaurant,Santorini Restaurant,0,West Side,0.0,0.0,0.0
+其他西餐,Eppels Restaurant,Eppels Restaurant,0,West Side,0.0,0.0,0.0
+其他西餐,Drum & Monkey,Drum & Monkey,0,West Side,0.0,0.0,0.0
+其他西餐,Parthenon Restaurant,Parthenon Restaurant,0,West Side,0.0,0.0,0.0
+其他西餐,Athena Greek Restaurant,Athena Greek Restaurant,0,West Side,0.0,0.0,0.0
+其他西餐,Nine Muses Cafe & Bar,Nine Muses Cafe & Bar,0,West Side,0.0,0.0,0.0
+其他西餐,Balsan,Balsan,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Epic Burger,Epic Burger,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Emilio's Tapas,Emilio's Tapas,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Emerald Loop,Emerald Loop,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Falafel Island,Falafel Island,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,The Berghoff Restaurant,The Berghoff Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Ronny's Original Chicago Steakhouse,Ronny's Original Chicago Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Pierogi Heaven,Pierogi Heaven,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Mezza Mediterranean Grill,Mezza Mediterranean Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Roti Mediterranean Grill,Roti Mediterranean Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Ethiopian Diamond - Clark,Ethiopian Diamond - Clark,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Fox's Beverly Restaurant,Fox's Beverly Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Charcoal Delights,Charcoal Delights,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Svea Restaurant,Svea Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Volo,Volo,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Hop Haus,Hop Haus,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Eleven Lincoln Park,Eleven Lincoln Park,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Cyrano's Farm Kitchen,Cyrano's Farm Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Pizza D.O.C.,Pizza D.O.C.,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Tel-Aviv Kosher Pizza,Tel-Aviv Kosher Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Cafe 28,Cafe 28,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Rumba,Rumba,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Jibek Jolu,Jibek Jolu,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Reza's Restaurant,Reza's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Shan Restaurant,Shan Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Andies Restaurant,Andies Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Shokolad,Shokolad,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Turquoise Cafe,Turquoise Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Obrien's Riverwalk Cafe,Obrien's Riverwalk Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Austrian Bakery,Austrian Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Aquitaine - Chicago,Aquitaine - Chicago,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,90 Miles Cuban Cafe,90 Miles Cuban Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Melanthios Greek Char House,Melanthios Greek Char House,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Lokal,Lokal,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Caspian Cafe,Caspian Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Blokes & Birds Public House,Blokes & Birds Public House,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Al's Beef,Al's Beef,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Chicago's Dog House,Chicago's Dog House,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Wrigleyville Dogs,Wrigleyville Dogs,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,O'Callaghan's,O'Callaghan's,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,BadHappy Poutine Shop,BadHappy Poutine Shop,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Little Bucharest Bistro,Little Bucharest Bistro,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Mc Fadden's Saloon,Mc Fadden's Saloon,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Chicago Blarney Stone,Chicago Blarney Stone,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Melao Latin Cuisine,Melao Latin Cuisine,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Prost!,Prost!,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Ann Sather Andersonville,Ann Sather Andersonville,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Tapas Gitana,Tapas Gitana,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Tango Sur,Tango Sur,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Cullen's Bar & Grill,Cullen's Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Laschet's Inn,Laschet's Inn,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Moxie,Moxie,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Noon O Kabab,Noon O Kabab,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Andalous,Andalous,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Irazu,Irazu,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Borinquen Restaurant,Borinquen Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,El Nandu Restaurant,El Nandu Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Cafe Laguardia,Cafe Laguardia,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Coco Restaurant & Lounge,Coco Restaurant & Lounge,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Nacional 27,Nacional 27,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Cafe Iberico,Cafe Iberico,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Reza's Restaurant,Reza's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Geja's Cafe,Geja's Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Abu Nawas,Abu Nawas,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Ann Sather,Ann Sather,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Las Tablas,Las Tablas,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Smak-Tak Restaurant,Smak-Tak Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Beograd Cafe,Beograd Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,La Parrilla Columbian Steak House,La Parrilla Columbian Steak House,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,The Grafton,The Grafton,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Tropic Island Jerk Chicken,Tropic Island Jerk Chicken,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Fado,Fado,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Artango Center,Artango Center,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Resi's Bierstube,Resi's Bierstube,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Cafe Central,Cafe Central,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Mario's Cafe,Mario's Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,May St. Cafe,May St. Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Ja' Grill,Ja' Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Habana Libre,Habana Libre,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Moher,Moher,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Paola's Vinum,Paola's Vinum,0,West Side,0.0,0.0,0.0
+其他西餐,Gold Coast Dogs S Canal St,Gold Coast Dogs S Canal St,0,West Side,0.0,0.0,0.0
+其他西餐,Lizzie McNeill's Irish Pub,Lizzie McNeill's Irish Pub,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,1492 Tapas Bar,1492 Tapas Bar,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Billy Goat Tavern,Billy Goat Tavern,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Ada's Famous Deli,Ada's Famous Deli,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Rosebud Prime,Rosebud Prime,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,III Forks Steakhouse,III Forks Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Under 55 Cafe,Under 55 Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Gold Coast Dogs N Wabash Ave,Gold Coast Dogs N Wabash Ave,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Maza,Maza,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Epic Burger,Epic Burger,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Technique at Le Cordon Bleu - Chicago,Technique at Le Cordon Bleu - Chicago,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Hubbard Inn,Hubbard Inn,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,mo daileys,mo daileys,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,brandy's gyros,brandy's gyros,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Brothers Beef,Brothers Beef,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Dark Horse Tap & Grille,Dark Horse Tap & Grille,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Glunz Bavarian Haus,Glunz Bavarian Haus,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Barba Yianni Grecian Taverna,Barba Yianni Grecian Taverna,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Golden Nugget Pancake House,Golden Nugget Pancake House,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,McNamara's,McNamara's,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Las Tablas,Las Tablas,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Green House of Steak,Green House of Steak,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Daddy O Jerkpit,Daddy O Jerkpit,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,King's No 2 Gyros,King's No 2 Gyros,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Mythos,Mythos,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Tapenade Mediterranean,Tapenade Mediterranean,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Covo Gyro Market,Covo Gyro Market,0,Wicker Park,0.0,0.0,0.0
+其他西餐,Mr. Greek Gyros,Mr. Greek Gyros,0,West Side,0.0,0.0,0.0
+其他西餐,Millenium A Steak Cigars Chops,Millenium A Steak Cigars Chops,0,West Side,0.0,0.0,0.0
+其他西餐,The Caliterra Bar & Grille,The Caliterra Bar & Grille,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Johnny Rockets,Johnny Rockets,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Johnny rocket's,Johnny rocket's,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Russian Palace,Russian Palace,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Sinbad's,Sinbad's,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Reza's Grill,Reza's Grill,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Conoce mi Panama,Conoce mi Panama,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Temple Bar,Temple Bar,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Cafe Bolero,Cafe Bolero,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,Haro,Haro,0,芝加哥其他,0.0,0.0,0.0
+其他西餐,ElepHant & Castle,ElepHant & Castle(芝加哥Adam大街店),0,West Side,0.0,0.0,0.0
+其他西餐,Hidden Shamrock,Hidden Shamrock,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Gyu Kaku,Gyu Kaku,0,壮丽大道,7.8,7.5,7.6
+日韩料理,Gyu-Kaku Chicago,Gyu-Kaku Chicago,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Kai Sushi,Kai Sushi,0,West Side,0.0,0.0,0.0
+日韩料理,San Soo Gab San Korean Restaurant & Sushi House,San Soo Gab San Korean Restaurant & Sushi House,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,shabu shabu,shabu shabu,0,Bridgeport Chinatown,8.2,8.2,7.4
+日韩料理,Sumi Robata bar,Sumi Robata bar,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Umai,Umai,0,南面,0.0,0.0,0.0
+日韩料理,Ramen-San,Ramen-San,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Union Sushi + Barbeque Bar,Union Sushi + Barbeque Bar,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Ahjoomah's Apron,Ahjoomah's Apron,0,南面,0.0,0.0,0.0
+日韩料理,Sushi Taiyo Restaurant,Sushi Taiyo Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Yuzu Sushi & Robata Grill,Yuzu Sushi & Robata Grill,0,Wicker Park,0.0,0.0,0.0
+日韩料理,Ginza Fish House,Ginza Fish House,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Arami,Arami,0,West Side,0.0,0.0,0.0
+日韩料理,Baisi Thai,Baisi Thai,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Kikuya Japanese Restaurant,Kikuya Japanese Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Niu Japanese Fusion Lounge,Niu Japanese Fusion Lounge,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Strings Ramen Shop,Strings Ramen Shop,0,南面,0.0,0.0,0.0
+日韩料理,Masaki,Masaki,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Oysy,Oysy,0,南面,0.0,0.0,0.0
+日韩料理,Ping Pong,Ping Pong,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Tamarind,Tamarind,0,南面,0.0,0.0,0.0
+日韩料理,Umi,Umi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Macku Sushi,Macku Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Kang Nam,Kang Nam,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Sushi Mon,Sushi Mon,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Zoku Sushi,Zoku Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Tanuki Sushi & Grill,Tanuki Sushi & Grill,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Jellyfish,Jellyfish,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Friends Sushi,Friends Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Katsu Japanese Restaurant,Katsu Japanese Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,"Wasabi, Chicago","Wasabi, Chicago",0,芝加哥其他,0.0,0.0,0.0
+日韩料理,En hakkore,En hakkore,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Hachi's Kitchen,Hachi's Kitchen,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,South Coast Sushi Bar,South Coast Sushi Bar,0,南面,0.0,0.0,0.0
+日韩料理,Grande Noodles and Sushi Bar,Grande Noodles and Sushi Bar,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Sushi Dokku,Sushi Dokku,0,West Side,0.0,0.0,0.0
+日韩料理,The Sit Down,The Sit Down,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Hot Woks Cool Sushi - Willis Tower,Hot Woks Cool Sushi - Willis Tower,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Umami Sushi,Umami Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Wicker Park Seafood & Sushi Bar,Wicker Park Seafood & Sushi Bar,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Roka Akor,Roka Akor,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Parachute Restaurant,Parachute Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Rise Sushi & Sake Lounge,Rise Sushi & Sake Lounge,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Tokyo Lunch Boxes & Catering,Tokyo Lunch Boxes & Catering,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Triad Sushi Loune,Triad Sushi Loune,0,南面,0.0,0.0,0.0
+日韩料理,Nori Sushi,Nori Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Kamehachi - Lobby Westin River North,Kamehachi - Lobby Westin River North,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Mirai Sushi,Mirai Sushi,0,Wicker Park,0.0,0.0,0.0
+日韩料理,Sushi Pink,Sushi Pink,0,West Side,0.0,0.0,0.0
+日韩料理,Shiso BYOB Japanese Restaurant and Sushi Bar,Shiso BYOB Japanese Restaurant and Sushi Bar,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,RA Sushi Bar Restaurant,RA Sushi Bar Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Kohan Japanese Restaurant,Kohan Japanese Restaurant,0,West Side,0.0,0.0,0.0
+日韩料理,Noon Hour Grill,Noon Hour Grill,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,DAK Korean Chicken Wings,DAK Korean Chicken Wings,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Chizakaya,Chizakaya,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Ukai Sushi,Ukai Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Kai Zan,Kai Zan,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Cafe Orange,Cafe Orange,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Hanabi Japanese Restaurant,Hanabi Japanese Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Korean Sam-Mee Restaurant,Korean Sam-Mee Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Osaka Sushi Express,Osaka Sushi Express,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,seadog sushi bar,seadog sushi bar,0,Wicker Park,0.0,0.0,0.0
+日韩料理,Kabocha Japanese Brasserie,Kabocha Japanese Brasserie,0,West Side,0.0,0.0,0.0
+日韩料理,La Tacorea,La Tacorea,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Ruk,Ruk,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Sushi Mura,Sushi Mura,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Indie Cafe,Indie Cafe,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Rollapalooza,Rollapalooza,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Rolls & Bowls,Rolls & Bowls,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Wasabi Cafe,Wasabi Cafe,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Matsuya,Matsuya,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Sunshine Restaurant,Sunshine Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Jin Ju,Jin Ju,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Coast Sushi,Coast Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Kyoto Japanese Restaurant,Kyoto Japanese Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Yoshi's Cafe,Yoshi's Cafe,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Amitabul,Amitabul,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Midori Japanese Restaurant,Midori Japanese Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Tokyo Marina Japanese Cuisine,Tokyo Marina Japanese Cuisine,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Agami,Agami,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Green Tea,Green Tea,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Korean Express,Korean Express,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Takumi,Takumi,0,West Side,0.0,0.0,0.0
+日韩料理,Shinju Sushi,Shinju Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Papajin,Papajin,0,Wicker Park,0.0,0.0,0.0
+日韩料理,Kin Sushi and Thai Cuisine,Kin Sushi and Thai Cuisine,0,Wicker Park,0.0,0.0,0.0
+日韩料理,Nori,Nori,0,Wicker Park,0.0,0.0,0.0
+日韩料理,Japonica,Japonica,0,West Side,0.0,0.0,0.0
+日韩料理,Sushi Sai,Sushi Sai,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,BopNGrill,BopNGrill,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Diva Thai & Sushi Bar,Diva Thai & Sushi Bar,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Chens Chinese & Sushi,Chens Chinese & Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Kudos,Kudos,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Sai Cafe,Sai Cafe,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Ringo Japanese Restaurant,Ringo Japanese Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Nohana Restaurant,Nohana Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,New Tokyo,New Tokyo,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Zen Noodle,Zen Noodle,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Shine,Shine,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Sushi X,Sushi X,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Ai Sushi Lounge,Ai Sushi Lounge,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Hot Woks Cool Sushi - Roscoe Village,Hot Woks Cool Sushi - Roscoe Village,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Hot Woks Cool Sushi - Pulaski,Hot Woks Cool Sushi - Pulaski,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Sakura Teppanyaki & Sushi,Sakura Teppanyaki & Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Sushi Para M,Sushi Para M,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Shinobu Restaurant,Shinobu Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Yusho,Yusho,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Korean Noodle Restuarant,Korean Noodle Restuarant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Ban Po Jung,Ban Po Jung,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,CoCoRo/East Restaurant,CoCoRo/East Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Edo Sushi,Edo Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Sushi O Sushi,Sushi O Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Torajiro Sushi,Torajiro Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Hai Woon Dae,Hai Woon Dae,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Juno,Juno,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Bob San,Bob San,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Tanoshii,Tanoshii,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Uni Sushi,Uni Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Wakamono,Wakamono,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Mizu Yakitori & Sushi Lounge,Mizu Yakitori & Sushi Lounge,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Cafe Furaibo,Cafe Furaibo,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,House of Sushi & Noodles,House of Sushi & Noodles,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Thai Lagoon,Thai Lagoon,0,Wicker Park,0.0,0.0,0.0
+日韩料理,Usagi Ya,Usagi Ya,0,Wicker Park,0.0,0.0,0.0
+日韩料理,Thai Urban Kitchen,Thai Urban Kitchen,0,West Side,0.0,0.0,0.0
+日韩料理,Blue Fin,Blue Fin,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,T-Spot Sushi,T-Spot Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Tank Sushi,Tank Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Sushi Para D,Sushi Para D,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Sushi Para II,Sushi Para II,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Tampopo,Tampopo,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Naniwa,Naniwa,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Kabuki Japanese Restaurant,Kabuki Japanese Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Kamehachi,Kamehachi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Koryo Restaurant,Koryo Restaurant,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Cafe Sushi,Cafe Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Starfish,Starfish,0,West Side,0.0,0.0,0.0
+日韩料理,Tatsu,Tatsu,0,West Side,0.0,0.0,0.0
+日韩料理,Tanoshii Sushi - West Loop,Tanoshii Sushi - West Loop,0,West Side,0.0,0.0,0.0
+日韩料理,Bistro Pacific,Bistro Pacific,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Ron of Japan,Ron of Japan,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Hong Kong Bay & Sushi Cafe,Hong Kong Bay & Sushi Cafe,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,ShineMorida Chinese Cuisine & Japanese Sushi,ShineMorida Chinese Cuisine & Japanese Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Kitchenette,Kitchenette,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Boo-il Galbi Korean BBQ,Boo-il Galbi Korean BBQ,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Tokyo Lunch Box,Tokyo Lunch Box,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Nan's Chinese and Sushi,Nan's Chinese and Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Ponzu Sushi,Ponzu Sushi,0,芝加哥其他,0.0,0.0,0.0
+日韩料理,Il Song Jung,Il Song Jung,0,芝加哥其他,0.0,0.0,0.0
+中餐,老四川,老四川,163,West Side,7.4,7.4,7.2
+中餐,名轩,名轩,90,West Side,7.9,7.7,7.7
+中餐,Cho Sun OK Restaurant,Cho Sun OK Restaurant,0,芝加哥其他,0.0,0.0,0.0
+中餐,Yum Cha Dim Sum Parlor,Yum Cha Dim Sum Parlor,0,芝加哥其他,0.0,0.0,0.0
+中餐,Chengdu Impression,Chengdu Impression,0,芝加哥其他,0.0,0.0,0.0
+中餐,糖潮,糖潮,0,West Side,7.4,7.3,5.5
+中餐,Flaming Wok & Grill,Flaming Wok & Grill,0,芝加哥其他,0.0,0.0,0.0
+中餐,老云南,老云南,0,West Side,7.2,7.2,7.3
+中餐,Shine Morida Restaurant,Shine Morida Restaurant,0,芝加哥其他,0.0,0.0,0.0
+中餐,The Phoenix Restaurant,The Phoenix Restaurant,0,南面,0.0,0.0,0.0
+中餐,MingHin Cuisine,MingHin Cuisine,0,芝加哥其他,0.0,0.0,0.0
+中餐,采蝶轩,采蝶轩,0,Bridgeport Chinatown,6.9,6.9,6.9
+中餐,安吉天华酒楼,安吉天华酒楼,0,,7.0,6.7,6.9
+中餐,Yu Shan Restaurant,Yu Shan Restaurant,0,芝加哥其他,0.0,0.0,0.0
+中餐,House of Wah Sun,House of Wah Sun,0,芝加哥其他,0.0,0.0,0.0
+中餐,China Doll,China Doll,0,芝加哥其他,0.0,0.0,0.0
+中餐,Moon Palace Restaurant,Moon Palace Restaurant,0,芝加哥其他,0.0,0.0,0.0
+中餐,Lao Yunnan,Lao Yunnan,0,Wicker Park,0.0,0.0,0.0
+中餐,Wing Yip Chop Suey Restaurant,Wing Yip Chop Suey Restaurant,0,Bridgeport Chinatown,0.0,0.0,0.0
+中餐,Chop Suey Huang,Chop Suey Huang,0,芝加哥其他,0.0,0.0,0.0
+中餐,Harmony,Harmony,0,芝加哥其他,0.0,0.0,0.0
+中餐,Top Wok,Top Wok,0,芝加哥其他,0.0,0.0,0.0
+中餐,Go 4 Food,Go 4 Food,0,Bridgeport Chinatown,0.0,0.0,0.0
+中餐,Siam Rice,Siam Rice,0,芝加哥其他,0.0,0.0,0.0
+中餐,Chen's Chinese Express,Chen's Chinese Express,0,芝加哥其他,0.0,0.0,0.0
+中餐,Moy Lee Chinese Restaurant,Moy Lee Chinese Restaurant,0,芝加哥其他,0.0,0.0,0.0
+中餐,Pho Xe Lua,Pho Xe Lua,0,芝加哥其他,0.0,0.0,0.0
+中餐,Chop Suey Loh,Chop Suey Loh,0,芝加哥其他,0.0,0.0,0.0
+中餐,Sixty Five Restaurant,Sixty Five Restaurant,0,芝加哥其他,0.0,0.0,0.0
+中餐,Shanghai Inn,Shanghai Inn,0,芝加哥其他,0.0,0.0,0.0
+中餐,Friendship on the Lake,Friendship on the Lake,0,芝加哥其他,0.0,0.0,0.0
+中餐,Nicky's Chinese Food,Nicky's Chinese Food,0,芝加哥其他,0.0,0.0,0.0
+中餐,Silk Road,Silk Road,0,芝加哥其他,0.0,0.0,0.0
+中餐,Happiness,Happiness,0,Bridgeport Chinatown,0.0,0.0,0.0
+中餐,Hong Kong Buffet,Hong Kong Buffet,0,芝加哥其他,0.0,0.0,0.0
+中餐,Grand Chinese Kitchen,Grand Chinese Kitchen,0,芝加哥其他,0.0,0.0,0.0
+中餐,Cai,Cai,0,,0.0,0.0,0.0
+中餐,Jame's Fried Rice,Jame's Fried Rice,0,芝加哥其他,0.0,0.0,0.0
+中餐,Jade East,Jade East,0,芝加哥其他,0.0,0.0,0.0
+中餐,Hong Huah,Hong Huah,0,芝加哥其他,0.0,0.0,0.0
+中餐,Eat & Drink,Eat & Drink,0,芝加哥其他,0.0,0.0,0.0
+中餐,P.S. Bangkok Restaurant,P.S. Bangkok Restaurant,0,芝加哥其他,0.0,0.0,0.0
+中餐,New Furama Restaurant,New Furama Restaurant,0,Bridgeport Chinatown,0.0,0.0,0.0
+中餐,Happy Chef Dim Sum House,Happy Chef Dim Sum House,0,南面,0.0,0.0,0.0
+中餐,Mei Shung,Mei Shung,0,芝加哥其他,0.0,0.0,0.0
+中餐,Yee Heung Seafood House,Yee Heung Seafood House,0,芝加哥其他,0.0,0.0,0.0
+中餐,Three Happiness Restaurant,Three Happiness Restaurant,0,Bridgeport Chinatown,0.0,0.0,0.0
+中餐,Lao Sze Chuan,Lao Sze Chuan,0,,0.0,0.0,0.0
+中餐,House of Bing,House of Bing,0,芝加哥其他,0.0,0.0,0.0
+中餐,Manee Thai restaurant,Manee Thai restaurant,0,芝加哥其他,0.0,0.0,0.0
+中餐,Hoanh Long,Hoanh Long,0,芝加哥其他,0.0,0.0,0.0
+中餐,China Night Cafe,China Night Cafe,0,West Side,0.0,0.0,0.0
+中餐,Yummy Yummy Asian Cuisine,Yummy Yummy Asian Cuisine,0,芝加哥其他,0.0,0.0,0.0
+中餐,Golden River,Golden River,0,芝加哥其他,0.0,0.0,0.0
+中餐,Red Violet,Red Violet,0,芝加哥其他,0.0,0.0,0.0
+中餐,Golden Dragon,Golden Dragon,0,芝加哥其他,0.0,0.0,0.0
+中餐,Lao Hunan,Lao Hunan,0,,0.0,0.0,0.0
+中餐,Golden Wok,Golden Wok,0,芝加哥其他,0.0,0.0,0.0
+中餐,Spring World,Spring World,0,南面,0.0,0.0,0.0
+中餐,Dragonfly Mandarin,Dragonfly Mandarin,0,West Side,0.0,0.0,0.0
+中餐,House of Hunan-Michigan Avenue,House of Hunan-Michigan Avenue,0,芝加哥其他,0.0,0.0,0.0
+中餐,P'F changs,P'F changs,0,芝加哥其他,0.0,0.0,0.0
+中餐,Peking Chinese Food,Peking Chinese Food,0,芝加哥其他,0.0,0.0,0.0
+中餐,House of Hunan,House of Hunan,0,芝加哥其他,0.0,0.0,0.0
+中餐,Mei's Restaurant,Mei's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+中餐,Lao Beijing,Lao Beijing,0,,0.0,0.0,0.0
+中餐,Wing Hoe,Wing Hoe,0,芝加哥其他,0.0,0.0,0.0
+中餐,Friendship Restaurant,Friendship Restaurant,0,芝加哥其他,0.0,0.0,0.0
+中餐,Bamboo Garden,Bamboo Garden,0,芝加哥其他,0.0,0.0,0.0
+中餐,See Thru Chinese Kitchen,See Thru Chinese Kitchen,0,芝加哥其他,0.0,0.0,0.0
+中餐,Great Sea Chinese Restaurant,Great Sea Chinese Restaurant,0,芝加哥其他,0.0,0.0,0.0
+中餐,Eat First,Eat First,0,Wicker Park,0.0,0.0,0.0
+中餐,Manchu Wok,Manchu Wok,0,芝加哥其他,0.0,0.0,0.0
+中餐,All Style Buffet,All Style Buffet,0,芝加哥其他,0.0,0.0,0.0
+中餐,Lee's Chop Suey,Lee's Chop Suey,0,芝加哥其他,0.0,0.0,0.0
+中餐,旺角,旺角,0,West Side,0.0,0.0,0.0
+中餐,Tom Lee Restaurant,Tom Lee Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Flat Top Grill,Flat Top Grill,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Sunda,Sunda,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,"Noodles, Etc.","Noodles, Etc.",0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Shanghai Terrace,Shanghai Terrace,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Triple Crown Restaurant,Triple Crown Restaurant,0,南面,0.0,0.0,0.0
+更多亚洲菜,Jaipur,Jaipur,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Big Bowl,Big Bowl,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Slurping Turtle,Slurping Turtle,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Embeya,Embeya,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Tank Noodle restaurant,Tank Noodle restaurant,0,芝加哥北侧,7.1,7.0,7.0
+更多亚洲菜,Noodle Vietnamese Cuisine,Noodle Vietnamese Cuisine,0,南面,0.0,0.0,0.0
+更多亚洲菜,Cumin,Cumin,0,Wicker Park,0.0,0.0,0.0
+更多亚洲菜,Saigon Sisters,Saigon Sisters,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Star of Siam,Star of Siam,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Hot Woks Cool Sushi,Hot Woks Cool Sushi,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thai 55th Restaurant,Thai 55th Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,House Of Fortune,House Of Fortune,0,南面,0.0,0.0,0.0
+更多亚洲菜,Butterfly Sushi Bar & Thai Cuisine,Butterfly Sushi Bar & Thai Cuisine,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Joy's,Joy's,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,The Noodle,The Noodle,0,南面,0.0,0.0,0.0
+更多亚洲菜,Ba Le,Ba Le,0,,0.0,0.0,0.0
+更多亚洲菜,New Saigon,New Saigon,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Zen Sushi & Noodles,Zen Sushi & Noodles,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Hello Sushi Bar,Hello Sushi Bar,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Roy's Restaurant,Roy's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Mei's Corner,Mei's Corner,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Pho 55,Pho 55,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Sultan's Market,Sultan's Market,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Takashi,Takashi,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Ken Kee Restaurant,Ken Kee Restaurant,0,南面,0.0,0.0,0.0
+更多亚洲菜,Halo Asian Mix,Halo Asian Mix,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,I Dream of Falafel,I Dream of Falafel,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,The Silver Spoon,The Silver Spoon,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Big Bowl,Big Bowl,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Joy Yee Noodle,Joy Yee Noodle,0,南面,0.0,0.0,0.0
+更多亚洲菜,Wow Bao,Wow Bao,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Amarit,Amarit,0,南面,0.0,0.0,0.0
+更多亚洲菜,The Indian Garden,The Indian Garden,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Gaylord India Restaurant,Gaylord India Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Snail Thai Crusine,Snail Thai Crusine,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Cedars Mediterranean Kitchen,Cedars Mediterranean Kitchen,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,India House,India House,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Won Kow Restaurant,Won Kow Restaurant,0,南面,0.0,0.0,0.0
+更多亚洲菜,Simply Thalia,Simply Thalia,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Gari Sushi and Asian Bistro,Gari Sushi and Asian Bistro,0,Wicker Park,0.0,0.0,0.0
+更多亚洲菜,Sawtooth Restaurant & Lounge,Sawtooth Restaurant & Lounge,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Lotus Cafe & Banh Mi Sandwiches,Lotus Cafe & Banh Mi Sandwiches,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Couscous Restaurant Incorporated,Couscous Restaurant Incorporated,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Luzzat Restaurant,Luzzat Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thai Spice Restaurant,Thai Spice Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thai Room Restaurant,Thai Room Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Jess Cafe,Jess Cafe,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Bree Thai Restaurant,Bree Thai Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Namo Thai Cuisine,Namo Thai Cuisine,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Pho Lily,Pho Lily,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Nhu Lan,Nhu Lan,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,The Bento Box,The Bento Box,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Falafill,Falafill,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Troy Mediterranean Grill,Troy Mediterranean Grill,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Ruby's fast food,Ruby's fast food,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Fat Rice,Fat Rice,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Dong Ky,Dong Ky,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Alma Pita Restaurant,Alma Pita Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thai D Lite,Thai D Lite,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Delhi Darbar Kabab House,Delhi Darbar Kabab House,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Siam Taste Noodle,Siam Taste Noodle,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Bangkok Inn,Bangkok Inn,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Nile's Restaurant,Nile's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Noora Cafe,Noora Cafe,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Fattoush Restaurant,Fattoush Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Dao Thai Restaurant,Dao Thai Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Pita House,Pita House,0,南面,0.0,0.0,0.0
+更多亚洲菜,Oiistar,Oiistar,0,Wicker Park,0.0,0.0,0.0
+更多亚洲菜,Golden Thai,Golden Thai,0,West Side,0.0,0.0,0.0
+更多亚洲菜,HAN 202,HAN 202,0,Bridgeport Chinatown,0.0,0.0,0.0
+更多亚洲菜,Bombay Wraps,Bombay Wraps,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Sahara Kabob,Sahara Kabob,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Noodles in the Pot,Noodles in the Pot,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Le's Pho,Le's Pho,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Bamee Noodle Shop,Bamee Noodle Shop,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Toro Sushi,Toro Sushi,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Orange Garden Restaurant,Orange Garden Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Noodle Zone,Noodle Zone,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Cafe Orchid,Cafe Orchid,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Sticky Rice,Sticky Rice,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Simply It,Simply It,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Afghan Kabob,Afghan Kabob,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Pei Wei Asian Diner,Pei Wei Asian Diner,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Silom12,Silom12,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Orient Cafe,Orient Cafe,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Banh Mi & Co.,Banh Mi & Co.,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,The Elephant Thai Cuisine,The Elephant Thai Cuisine,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Rangoli,Rangoli,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Tandoor Char House,Tandoor Char House,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Belly Shack,Belly Shack,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Pho Viet,Pho Viet,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Merla's Kitchen,Merla's Kitchen,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Annapurna,Annapurna,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Pasteur,Pasteur,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Roong Petch Restaurant,Roong Petch Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Rosded Restaurant,Rosded Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,SIAM Noodle & Rice Restaurant,SIAM Noodle & Rice Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thai Aree House,Thai Aree House,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Vu Sua,Vu Sua,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,SaiMai Thai,SaiMai Thai,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Tahoora,Tahoora,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Garlic & Chili,Garlic & Chili,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Pho Tau Bay,Pho Tau Bay,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Yes Thai,Yes Thai,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Old Jerusalem Restaurant,Old Jerusalem Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Zizi's Cafe,Zizi's Cafe,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Royal Thai,Royal Thai,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thai Thai Restaurant,Thai Thai Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Marigold,Marigold,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Asian Avenue,Asian Avenue,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Dib Inc.,Dib Inc.,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Penny's Noodle Shop,Penny's Noodle Shop,0,Wicker Park,0.0,0.0,0.0
+更多亚洲菜,Three Happiness Restaurant,Three Happiness Restaurant,0,南面,0.0,0.0,0.0
+更多亚洲菜,SIAM Treasure Thai Cuisine,SIAM Treasure Thai Cuisine,0,帕克里奇,0.0,0.0,0.0
+更多亚洲菜,Chicago Curry House,Chicago Curry House,0,南面,0.0,0.0,0.0
+更多亚洲菜,Nepal house - Fine Nepali cuisine,Nepal house - Fine Nepali cuisine,0,南面,0.0,0.0,0.0
+更多亚洲菜,Cafe Hoang,Cafe Hoang,0,南面,0.0,0.0,0.0
+更多亚洲菜,Ma & I Thai,Ma & I Thai,0,南面,0.0,0.0,0.0
+更多亚洲菜,Chick Pea,Chick Pea,0,Wicker Park,0.0,0.0,0.0
+更多亚洲菜,Bon Bon Sandwiches,Bon Bon Sandwiches,0,Wicker Park,0.0,0.0,0.0
+更多亚洲菜,Thai Village,Thai Village,0,Wicker Park,0.0,0.0,0.0
+更多亚洲菜,Belly Q,Belly Q,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Thalia Spice,Thalia Spice,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Thai Wok,Thai Wok,0,West Side,0.0,0.0,0.0
+更多亚洲菜,P.F. Chang's,P.F. Chang's,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Chant,Chant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Rajun Cujun,Rajun Cujun,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Ara On,Ara On,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Falafill,Falafill,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Taza,Taza,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Duck Walk,Duck Walk,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Vermilion,Vermilion,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Woo Chon Restaurant,Woo Chon Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Yuki Hana,Yuki Hana,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Yen's,Yen's,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Dee's Restaurant,Dee's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Uru Swati,Uru Swati,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Jai-yen,Jai-yen,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Hai Yen,Hai Yen,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Anong Thai,Anong Thai,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Isla Pilipina,Isla Pilipina,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Little India,Little India,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Sofra Turkish Kitchen,Sofra Turkish Kitchen,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Tac Quick Thai Kitchen,Tac Quick Thai Kitchen,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Kan Zaman,Kan Zaman,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Serena Restaurant,Serena Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Pecking Order,Pecking Order,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Rickshaw Republic,Rickshaw Republic,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Passion Cafe,Passion Cafe,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Essence of India,Essence of India,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Paprika,Paprika,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Opart Thai House Restaurant,Opart Thai House Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Jitlada Thai House,Jitlada Thai House,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Arun's,Arun's,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Pho 777,Pho 777,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Turkish Cuisine and Bakery,Turkish Cuisine and Bakery,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thai Oscar,Thai Oscar,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Pho Xe Tang,Pho Xe Tang,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Rice Bistro,Rice Bistro,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Eng's Orient Express,Eng's Orient Express,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Mysore Woodlands,Mysore Woodlands,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Bacolod Chicken Haus,Bacolod Chicken Haus,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,First Expressions Cafe,First Expressions Cafe,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thai Classic,Thai Classic,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Penny's Noodle Shop,Penny's Noodle Shop,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Standard India Restaurant,Standard India Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Big Bowl - Erie Street,Big Bowl - Erie Street,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Little Quiapo Restaurant,Little Quiapo Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Sabri Nihari,Sabri Nihari,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Bombay Bliss,Bombay Bliss,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Jin Asian Cafe,Jin Asian Cafe,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Hai Yen Vietnamese Cuisine,Hai Yen Vietnamese Cuisine,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Sultan's Market,Sultan's Market,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Saffron,Saffron,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thaiday Street Cafe,Thaiday Street Cafe,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Naansense,Naansense,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Herb,Herb,0,,0.0,0.0,0.0
+更多亚洲菜,Evergreen Family Restaurant,Evergreen Family Restaurant,0,南面,0.0,0.0,0.0
+更多亚洲菜,Chutney Joes,Chutney Joes,0,南面,0.0,0.0,0.0
+更多亚洲菜,Thai Spoon,Thai Spoon,0,南面,0.0,0.0,0.0
+更多亚洲菜,Hing Kee Asian Cuisine & Sushi Bar,Hing Kee Asian Cuisine & Sushi Bar,0,南面,0.0,0.0,0.0
+更多亚洲菜,Mott St,Mott St,0,Wicker Park,0.0,0.0,0.0
+更多亚洲菜,Souk,Souk,0,Wicker Park,0.0,0.0,0.0
+更多亚洲菜,Baba Pita,Baba Pita,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Veerasway,Veerasway,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Alhambra Palace Restaurant,Alhambra Palace Restaurant,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Quang Noodle,Quang Noodle,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Ruby of Siam,Ruby of Siam,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,My Thai Restaurant,My Thai Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Panang Noodles,Panang Noodles,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Oodles of Noodles,Oodles of Noodles,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Treat Restaurant,Treat Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Silver Seafood Restaurant,Silver Seafood Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Mee MAh,Mee MAh,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Blue Ocean Sushi,Blue Ocean Sushi,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Sakura Fusion Japanese & Sushi Restaurant,Sakura Fusion Japanese & Sushi Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Punjabi Dhaba,Punjabi Dhaba,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Bombay Spice,Bombay Spice,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Bun Mi Express,Bun Mi Express,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Tokyo 21,Tokyo 21,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Saigon Grill,Saigon Grill,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Spoon Thai,Spoon Thai,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Klay Oven,Klay Oven,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thai Wild Ginger Restaurant,Thai Wild Ginger Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thai Castle,Thai Castle,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Tiffin,Tiffin,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Tiparos Thai Restaurant,Tiparos Thai Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Sukhadia Sweets & Snacks,Sukhadia Sweets & Snacks,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Vora,Vora,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Miss Asia,Miss Asia,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Viceroy Of India,Viceroy Of India,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,"udipi cafe, Chicago","udipi cafe, Chicago",0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Raj Darbar,Raj Darbar,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Hema's Kitchen,Hema's Kitchen,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Laughing Bird,Laughing Bird,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Luc Thang Noodle,Luc Thang Noodle,0,Wicker Park,0.0,0.0,0.0
+更多亚洲菜,My Thai Presidential Towers,My Thai Presidential Towers,0,West Side,0.0,0.0,0.0
+更多亚洲菜,Siam Restaurant,Siam Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Garden Buffet Restaurant,Garden Buffet Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Thai Aroma,Thai Aroma,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Hema's Kitchen,Hema's Kitchen,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Baba Palace,Baba Palace,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Yak Thai Cuisine,Yak Thai Cuisine,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Sizzle India,Sizzle India,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Pot Pan Thai Restaurant,Pot Pan Thai Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Bangkok Star Restaurant,Bangkok Star Restaurant,0,芝加哥其他,0.0,0.0,0.0
+更多亚洲菜,Atk,Atk,0,,0.0,0.0,0.0
+快餐简餐,Michael Jordan's Steakhouse,Michael Jordan's Steakhouse,0,芝加哥其他,8.2,8.3,7.7
+快餐简餐,"Joe's Seafood, Prime Steak & Stone Crab","Joe's Seafood, Prime Steak & Stone Crab",0,芝加哥其他,8.5,8.5,8.1
+快餐简餐,Shake Shack,Shake Shack,0,芝加哥北侧,7.7,7.9,7.3
+快餐简餐,Ruth's Chris Steak House,Ruth's Chris Steak House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Red Lobster,Red Lobster,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Girl & The Goat,Girl & The Goat,0,West Side,0.0,0.0,0.0
+快餐简餐,The Capital Grille,The Capital Grille,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Yolk,Yolk,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Gage,The Gage,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Publican Quality Meats,Publican Quality Meats,0,West Side,0.0,0.0,0.0
+快餐简餐,Valois Restaurant,Valois Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,George's Ice Cream & Sweets,George's Ice Cream & Sweets,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Original Pancake House3,Original Pancake House3,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Garretts Popcorn,Garretts Popcorn,0,,0.0,0.0,0.0
+快餐简餐,West Egg Cafe,West Egg Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Bongo Room,Bongo Room,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Eleven City Diner,Eleven City Diner,0,南面,0.0,0.0,0.0
+快餐简餐,Buffalo Wild Wings,Buffalo Wild Wings,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Yolk,Yolk,0,West Side,0.0,0.0,0.0
+快餐简餐,Bandera Restaurant,Bandera Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,North Pond,North Pond,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Longman & Eagle,Longman & Eagle,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,TABLE fifty-two,TABLE fifty-two,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Yolk,Yolk,0,南面,0.0,0.0,0.0
+快餐简餐,Au Cheval,Au Cheval,0,West Side,0.0,0.0,0.0
+快餐简餐,M. Henry,M. Henry,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lawry's The Prime Rib,Lawry's The Prime Rib,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Graham Elliot,Graham Elliot,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,RM Champagne Salon,RM Champagne Salon,0,West Side,0.0,0.0,0.0
+快餐简餐,GT Fish & Oyster,GT Fish & Oyster,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Signature Room at the 95th,The Signature Room at the 95th,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Smith & Wollensky - Chicago,Smith & Wollensky - Chicago,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Blackbird,Blackbird,0,West Side,0.0,0.0,0.0
+快餐简餐,Sepia,Sepia,0,West Side,0.0,0.0,0.0
+快餐简餐,Naha,Naha,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,America's Dog,America's Dog,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,A10 Hyde Park,A10 Hyde Park,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Publican,The Publican,0,West Side,0.0,0.0,0.0
+快餐简餐,Sable Kitchen & Bar,Sable Kitchen & Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Violet Hour,The Violet Hour,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Jake Melnick's Corner Tap,Jake Melnick's Corner Tap,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Elephant & Castle Pub & Restaurant,Elephant & Castle Pub & Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Medici on 57th,Medici on 57th,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Exchequer Restaurant & Pub,Exchequer Restaurant & Pub,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Boarding House,The Boarding House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Nuts On Clarks,Nuts On Clarks,0,芝加哥其他,7.0,6.7,6.7
+快餐简餐,Chill Bar,Chill Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Patio Beef,Patio Beef,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Howells and Hood,Howells and Hood,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,RL,RL,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Alium,Alium,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Lounge-JW Marriott Chicago,The Lounge-JW Marriott Chicago,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mike Ditka's Restaurant,Mike Ditka's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Rebar,Rebar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Walnut Room,Walnut Room,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Level Two Restaurant,Level Two Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Bar Louie O'Hare,Bar Louie O'Hare,0,帕克里奇,0.0,0.0,0.0
+快餐简餐,Rock Bottom Restaurant & Brewery,Rock Bottom Restaurant & Brewery,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,White Palace Grill,White Palace Grill,0,West Side,0.0,0.0,0.0
+快餐简餐,The Four Farthings Tavern & Grill,The Four Farthings Tavern & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Margaritaville Bar & Grill,Margaritaville Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Miller's Pub & Restaurant,Miller's Pub & Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,South Water Kitchen,South Water Kitchen,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Fresh,Fresh,0,帕克里奇,0.0,0.0,0.0
+快餐简餐,Henri,Henri,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Riverwalk Cafe,Riverwalk Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Chicago Diner,The Chicago Diner,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,State Street Bread Company,State Street Bread Company,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,PIER 31 Restaurant,PIER 31 Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Edgewater Beach Cafe,Edgewater Beach Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Molive,Molive,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Printer's Row,Printer's Row,0,南面,0.0,0.0,0.0
+快餐简餐,The Dog Joint,The Dog Joint,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mr. G's,Mr. G's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Outdoor Grill,Outdoor Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lush Wine and Spirits,Lush Wine and Spirits,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,OON Restaurant,OON Restaurant,0,West Side,0.0,0.0,0.0
+快餐简餐,Johnny's Snack Shop,Johnny's Snack Shop,0,West Side,0.0,0.0,0.0
+快餐简餐,Frank's Chicago Shrimp House,Frank's Chicago Shrimp House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Berco's Popcorn,Berco's Popcorn,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Surf Restaurant,Surf Restaurant,0,West Side,0.0,0.0,0.0
+快餐简餐,Polo Cafe & Catering Bridgeport U.S.A.,Polo Cafe & Catering Bridgeport U.S.A.,0,Bridgeport Chinatown,0.0,0.0,0.0
+快餐简餐,Ray's Restaurant,Ray's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Einstein Brothers Bagels,Einstein Brothers Bagels,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Adagio,Adagio,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Boiler Room,Boiler Room,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Allium,Allium,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Hugo's Frog Bar & Fish House,Hugo's Frog Bar & Fish House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Original Pancake House,Original Pancake House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lou Mitchell's Restaurant,Lou Mitchell's Restaurant,0,West Side,0.0,0.0,0.0
+快餐简餐,"Palm Court, the Drake Hotel","Palm Court, the Drake Hotel",0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Jim's Original Hot Dog,Jim's Original Hot Dog,0,West Side,0.0,0.0,0.0
+快餐简餐,Molly's Cupcakes,Molly's Cupcakes,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Seasons,Seasons,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Sixteen,Sixteen,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,NoMI,NoMI,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Garrett Popcorn Shops,Garrett Popcorn Shops,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Ralph Lauren Restaurant,Ralph Lauren Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Sola,Sola,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Kuma's Corner,Kuma's Corner,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Gale Street Inn,Gale Street Inn,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Browntrout,Browntrout,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Ria,Ria,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Butch Mc Guires Tavern,Butch Mc Guires Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Schaller's Pump,Schaller's Pump,0,Bridgeport Chinatown,0.0,0.0,0.0
+快餐简餐,Chicago q,Chicago q,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Doc B's Fresh Kitchen,Doc B's Fresh Kitchen,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Luxbar,Luxbar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,3rd Coast,3rd Coast,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Red Rock Grill,Red Rock Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Carmichael's Steak House,Carmichael's Steak House,0,West Side,0.0,0.0,0.0
+快餐简餐,The Cafe at the Ritz Carlton,The Cafe at the Ritz Carlton,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Odyssey Cruises,Odyssey Cruises,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Foodease,Foodease,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Stetson's Chop House and Bar,Stetson's Chop House and Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Conte DI Savoia European Specialists,Conte DI Savoia European Specialists,0,West Side,0.0,0.0,0.0
+快餐简餐,Wabash Tap,Wabash Tap,0,南面,0.0,0.0,0.0
+快餐简餐,Pret A Manger,Pret A Manger,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Magnum's Prime Steakhouse,Magnum's Prime Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Jack's on Halsted,Jack's on Halsted,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mystic Blue Cruises,Mystic Blue Cruises,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Franklin Tap,Franklin Tap,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Portillo's Hot Dogs,Portillo's Hot Dogs,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Nightwood Restaurant,Nightwood Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Batter & Berries,Batter & Berries,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Toast,Toast,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Flat Top Grill,Flat Top Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Old Country Buffet,Old Country Buffet,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Cheesecake Factory,The Cheesecake Factory,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Oak Tree Restaurant,Oak Tree Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chicago O'Hare Urban Garden,Chicago O'Hare Urban Garden,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Saloon Steakhouse,Saloon Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Local Chicago,The Local Chicago,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Graham Elliot Bistro,Graham Elliot Bistro,0,West Side,0.0,0.0,0.0
+快餐简餐,Drake Brothers,Drake Brothers,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Deca Restaurant and Bar,Deca Restaurant and Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Timothy O'Toole's Pub,Timothy O'Toole's Pub,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Grahamwich,Grahamwich,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mr. Beef,Mr. Beef,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Petterino's,Petterino's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Atwood Cafe,Atwood Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Harry Caray's Italian Steakhouse,Harry Caray's Italian Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Maggiano's Little Italy,Maggiano's Little Italy,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tavern on Rush,Tavern on Rush,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Meli Cafe,Meli Cafe,0,南面,0.0,0.0,0.0
+快餐简餐,Little Market,Little Market,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Park 52,Park 52,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Wow Bao,Wow Bao,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Weber Grill Restaurant,Weber Grill Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,King Cafe Gourmet & Go,King Cafe Gourmet & Go,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Paulys Pizza-Ria,Paulys Pizza-Ria,0,南面,0.0,0.0,0.0
+快餐简餐,The Chicago Firehouse,The Chicago Firehouse,0,南面,0.0,0.0,0.0
+快餐简餐,Gino's East South Loop,Gino's East South Loop,0,南面,0.0,0.0,0.0
+快餐简餐,Local Root,Local Root,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,L'appetito,L'appetito,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Cape Cod Room,The Cape Cod Room,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,NiX Restaurant,NiX Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mississippi Rick,Mississippi Rick,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Burger Point,The Burger Point,0,南面,0.0,0.0,0.0
+快餐简餐,Catch 35 Seafood Restaurant,Catch 35 Seafood Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Wow Bao,Wow Bao,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mity Nice Grill,Mity Nice Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,David Burke's Primehouse,David Burke's Primehouse,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,C-House,C-House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,American Craft Kitchen & Bar,American Craft Kitchen & Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,南面,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Select Cut Steak House,Select Cut Steak House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Honey Butter Fried Chicken,Honey Butter Fried Chicken,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,DaddyO's Pub & Game Room,DaddyO's Pub & Game Room,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Clarke's Pancake House,Clarke's Pancake House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Carson's,Carson's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Palace Grill,Palace Grill,0,West Side,0.0,0.0,0.0
+快餐简餐,Harry Caray's Seventh Inning Stretch,Harry Caray's Seventh Inning Stretch,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Palm,The Palm,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Sweetwater Tavern & Grille,Sweetwater Tavern & Grille,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Eggy's Diner,Eggy's Diner,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Flat Top Grill,Flat Top Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Heat,Heat,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Paje,Paje,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Kasia's Polish Delicatessen,Kasia's Polish Delicatessen,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,unite urban grill,unite urban grill,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Express Grill,Express Grill,0,West Side,0.0,0.0,0.0
+快餐简餐,Illinois Bar & Grill On Taylor,Illinois Bar & Grill On Taylor,0,West Side,0.0,0.0,0.0
+快餐简餐,Byron's Hot Dogs,Byron's Hot Dogs,0,West Side,0.0,0.0,0.0
+快餐简餐,Busy Burger,Busy Burger,0,West Side,0.0,0.0,0.0
+快餐简餐,Bari Subs,Bari Subs,0,West Side,0.0,0.0,0.0
+快餐简餐,Old 5th,Old 5th,0,West Side,0.0,0.0,0.0
+快餐简餐,Chicago Stadium Club,Chicago Stadium Club,0,West Side,0.0,0.0,0.0
+快餐简餐,Loft On Lake,Loft On Lake,0,West Side,0.0,0.0,0.0
+快餐简餐,The Landing,The Landing,0,West Side,0.0,0.0,0.0
+快餐简餐,Westend Bar and Grill,Westend Bar and Grill,0,West Side,0.0,0.0,0.0
+快餐简餐,Robinson's Ribs,Robinson's Ribs,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Alonti Deli,Alonti Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cellars Market,Cellars Market,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Growling Rabbit,The Growling Rabbit,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tony's Italian Beef,Tony's Italian Beef,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Dallas Restaurant,Dallas Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Leon's Barbecue #4,Leon's Barbecue #4,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Joe & Franks Famous Homemade,Joe & Franks Famous Homemade,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Masters Pancake House,Masters Pancake House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Roeser's Bakery,Roeser's Bakery,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Edgebrook Coffee Shop,Edgebrook Coffee Shop,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Noble Horse Theatre,The Noble Horse Theatre,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Due Amici Pizzeria,Due Amici Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Bog Boy's Gyro,Bog Boy's Gyro,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Marshfield's Urban Grill,Marshfield's Urban Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Baladoche,Baladoche,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Smuggler's Cove,Smuggler's Cove,0,,0.0,0.0,0.0
+快餐简餐,Troha's Chicken and Shrimp House,Troha's Chicken and Shrimp House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Homeslice Wheel House,Homeslice Wheel House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Penny's Noodle Shop,Penny's Noodle Shop,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Siam Country,Siam Country,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Johnny's Grill,Johnny's Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,6 Degrees,6 Degrees,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Baker's Square,Baker's Square,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,State Restaurant & Cafe,State Restaurant & Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Inspiration Kitchen,Inspiration Kitchen,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Club 81 Too,Club 81 Too,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Toons Bar & Grill,Toons Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Rocks Lincoln Park,Rocks Lincoln Park,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Vienna Beef,Vienna Beef,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Kincade's Bar & Grill,Kincade's Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Burke's Public House,Burke's Public House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Brown Sack,The Brown Sack,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Kilwin's Ice Cream Shoppe,Kilwin's Ice Cream Shoppe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,mini hut inc Chicago,mini hut inc Chicago,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Squared Circle,The Squared Circle,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Dunkin Donuts/Baskin-Robbins 31-Flavors,Dunkin Donuts/Baskin-Robbins 31-Flavors,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Vaughan's Pub,Vaughan's Pub,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Monti's,Monti's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Nanas,Nanas,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Gene's Sausage Shop & Deli,Gene's Sausage Shop & Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Hetman Deli,Hetman Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Calma Optimal Food,Calma Optimal Food,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Dining Room at Kendall College,The Dining Room at Kendall College,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Big Shoulders Cafe,Big Shoulders Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Finley Dunne's,Finley Dunne's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Village Tap,Village Tap,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cans,Cans,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Thomas Restaurant,Thomas Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Sam & George's Restaurant,Sam & George's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Uncle Sammy's,Uncle Sammy's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Jaenicke's Drive-In,Jaenicke's Drive-In,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chicago Burger Company,Chicago Burger Company,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Coaches Sports Bar & Grill,Coaches Sports Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Zaleski & Horvath,Zaleski & Horvath,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Rainforest Cafe,Rainforest Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Charlie Trotter's,Charlie Trotter's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Jimmy Green's,Jimmy Green's,0,南面,0.0,0.0,0.0
+快餐简餐,Markethouse,Markethouse,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Billy Goat Tavern,Billy Goat Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Bar Novo,Bar Novo,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Great Street Restaurant,Great Street Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tilted Kilt,Tilted Kilt,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Sbarro,Sbarro(芝加哥Adam大街店),0,West Side,0.0,0.0,0.0
+快餐简餐,Cyrano's,Cyrano's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Wolfgang Puck Cafe,Wolfgang Puck Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chili's,Chili's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Soundings at Shedd Aquarium,Soundings at Shedd Aquarium,0,南面,0.0,0.0,0.0
+快餐简餐,Chicken Inn,Chicken Inn,0,帕克里奇,0.0,0.0,0.0
+快餐简餐,11 City Diner,11 City Diner,0,南面,0.0,0.0,0.0
+快餐简餐,Reggies Chicago,Reggies Chicago,0,南面,0.0,0.0,0.0
+快餐简餐,Kasey's Tavern,Kasey's Tavern,0,南面,0.0,0.0,0.0
+快餐简餐,Fatso's last Stand,Fatso's last Stand,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Ruxbin Kitchen,Ruxbin Kitchen,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Frontier,Frontier,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Smoke Daddy Restaurant,Smoke Daddy Restaurant,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Jam,Jam,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Bar bar black sheep,Bar bar black sheep,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Lockdown Bar & Grill,Lockdown Bar & Grill,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Storefront Company,Storefront Company,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Bangers & Lace,Bangers & Lace,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Bite Cafe,Bite Cafe,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,The Little Goat Diner,The Little Goat Diner,0,West Side,0.0,0.0,0.0
+快餐简餐,Manny's Coffee Shop & Deli,Manny's Coffee Shop & Deli,0,West Side,0.0,0.0,0.0
+快餐简餐,Third Rail Tavern,Third Rail Tavern,0,West Side,0.0,0.0,0.0
+快餐简餐,The Red Canary,The Red Canary,0,West Side,0.0,0.0,0.0
+快餐简餐,Maudes liquor bar,Maudes liquor bar,0,West Side,0.0,0.0,0.0
+快餐简餐,Karyn's On Green,Karyn's On Green,0,West Side,0.0,0.0,0.0
+快餐简餐,Ing,Ing,0,West Side,0.0,0.0,0.0
+快餐简餐,The Black Sheep,The Black Sheep,0,West Side,0.0,0.0,0.0
+快餐简餐,Urban Union,Urban Union,0,West Side,0.0,0.0,0.0
+快餐简餐,The Aberdeen Tap,The Aberdeen Tap,0,West Side,0.0,0.0,0.0
+快餐简餐,Two Restaurant & Bar,Two Restaurant & Bar,0,West Side,0.0,0.0,0.0
+快餐简餐,West End Bar & Grille,West End Bar & Grille,0,West Side,0.0,0.0,0.0
+快餐简餐,the Coffee Alley,the Coffee Alley,0,West Side,0.0,0.0,0.0
+快餐简餐,Stax Cafe,Stax Cafe,0,West Side,0.0,0.0,0.0
+快餐简餐,Dylans Tavern & Grill,Dylans Tavern & Grill,0,West Side,0.0,0.0,0.0
+快餐简餐,Herms Hot Dog & Deli,Herms Hot Dog & Deli,0,West Side,0.0,0.0,0.0
+快餐简餐,West Town Tavern,West Town Tavern,0,West Side,0.0,0.0,0.0
+快餐简餐,Gio's Cafe & Deli,Gio's Cafe & Deli,0,Bridgeport Chinatown,0.0,0.0,0.0
+快餐简餐,Bridgeport Pasty Company,Bridgeport Pasty Company,0,Bridgeport Chinatown,0.0,0.0,0.0
+快餐简餐,Ricobene's,Ricobene's,0,Bridgeport Chinatown,0.0,0.0,0.0
+快餐简餐,Oliver's Cafe,Oliver's Cafe,0,Bridgeport Chinatown,0.0,0.0,0.0
+快餐简餐,Bacardi at the Park,Bacardi at the Park,0,Bridgeport Chinatown,0.0,0.0,0.0
+快餐简餐,Stage's Family Restaurant,Stage's Family Restaurant,0,Bridgeport Chinatown,0.0,0.0,0.0
+快餐简餐,Marketplace Cafe,Marketplace Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Zodiac Room,Zodiac Room,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cafe Nordstrom,Cafe Nordstrom,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mixed greens,Mixed greens,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,M Burger,M Burger,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Seasons 52,Seasons 52,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The SoupBox (E. Chicago Ave.),The SoupBox (E. Chicago Ave.),0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Terrace Rooftop Bar,The Terrace Rooftop Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chicago's Home of Chicken and Waffles,Chicago's Home of Chicken and Waffles,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Do - Rite Donuts,Do - Rite Donuts,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Boni Vino Restaurant,Boni Vino Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Quincy Grill on the River,Quincy Grill on the River,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Pittsfield Cafe,Pittsfield Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Bockwinkel's,Bockwinkel's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mid America Club,Mid America Club,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Infields,Infields,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Metropolitan Club,The Metropolitan Club,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Illinois Bar & Grill,Illinois Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,"Pastoral Artisan Cheese, Bread & Wine","Pastoral Artisan Cheese, Bread & Wine",0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,M Burger,M Burger,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Stocks & Blondes,Stocks & Blondes,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Perry's,Perry's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cosi,Cosi,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cosi,Cosi,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Art Institute of Chicago,Art Institute of Chicago,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Fat Johnnie's Famous Red Hots,Fat Johnnie's Famous Red Hots,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Doggies Inn,Doggies Inn,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,New Pindos,New Pindos,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Southport Grocery & Cafe,Southport Grocery & Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Hot Chocolate,Hot Chocolate,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lula Cafe,Lula Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Nookies Too,Nookies Too,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Nookies Tree,Nookies Tree,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Nookies,Nookies,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Salt & Pepper Diner,Salt & Pepper Diner,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cafe Too,Cafe Too,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Pony,The Pony,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Candlelite,Candlelite,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tweet,Tweet,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Eduardo's Enoteca,Eduardo's Enoteca,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Original Nottoli & Son Sausage Shop & Deli,The Original Nottoli & Son Sausage Shop & Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Frasca Pizzeria and Wine Bar,Frasca Pizzeria and Wine Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Calo Ristorante,Calo Ristorante,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Barnelli's Pasta Bowl,Barnelli's Pasta Bowl,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Zig Zag Kitchen,Zig Zag Kitchen,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Il Vicinato Ristorante,Il Vicinato Ristorante,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Forno Diablo,Forno Diablo,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Palette Bistro,Palette Bistro,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Halsted's Bar & Grill,Halsted's Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Grass Fed Bucktown,Grass Fed Bucktown,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Big & Littles,Big & Littles,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Katerina's,Katerina's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Sullivan's Steakhouse,Sullivan's Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Dapper's Restaurant,Dapper's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Home of The Hoagy,Home of The Hoagy,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Wonderburger Grill,Wonderburger Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chief O'Neill's,Chief O'Neill's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Staropolska Restaurant,Staropolska Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,J Alexander's Restaurant,J Alexander's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Johnny O'Hagan's Irish Pub and Restaurant,Johnny O'Hagan's Irish Pub and Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Wolfy's,Wolfy's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Byron's Hot Dog Haus,Byron's Hot Dog Haus,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chili Mac's 5-Way Chili,Chili Mac's 5-Way Chili,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Stella's Diner,Stella's Diner,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Keefer's,Keefer's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Fizz Bar & Grill,Fizz Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Brand BBQ Market,Brand BBQ Market,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Wildfire,Wildfire,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Franksville,Franksville,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Twin Anchors Restaurant-Tavern,Twin Anchors Restaurant-Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Smoque BBQ,Smoque BBQ,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tanzitaro American & Mexican Grill,Tanzitaro American & Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Over Easy,Over Easy,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,New York City Bagel Deli,New York City Bagel Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,John's Place,John's Place,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Bluebird,The Bluebird,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Phoebe's Cupcakes,Phoebe's Cupcakes,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,the joynt,the joynt,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Franks n' Dawgs,Franks n' Dawgs,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Theory Sports Bar & Grill,Theory Sports Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Elly's Pancake House Chicago,Elly's Pancake House Chicago,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,(K)new,(K)new,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Burger Bar Chicago,Burger Bar Chicago,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Meatloaf Bakery,The Meatloaf Bakery,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Dunlay's on the Square,Dunlay's on the Square,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lulu Belle's Pancake House,Lulu Belle's Pancake House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,M. Henrietta,M. Henrietta,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lillie's Q,Lillie's Q,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Kanela Breakfast Club,Kanela Breakfast Club,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Portage,The Portage,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Rustic House,Rustic House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Al Dente,Al Dente,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Globe Pub,The Globe Pub,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Farmhouse Tavern Restaurant,Farmhouse Tavern Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Jam and Honey,Jam and Honey,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,25 Degrees,25 Degrees,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,"Pastoral Artisan Cheese, Bread & Wine","Pastoral Artisan Cheese, Bread & Wine",0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Butcher & The Burger,Butcher & The Burger,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Trader Todd's,Trader Todd's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Meli Cafe,Meli Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cozy Corner Restaurant and Pancake House,Cozy Corner Restaurant and Pancake House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,ada st. 1664,ada st. 1664,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Peasantry,Peasantry,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,EL Ideas,EL Ideas,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cheesie's Pub and Grub,Cheesie's Pub and Grub,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tiny Lounge,Tiny Lounge,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Pearl's Place Restaurant,Pearl's Place Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Wood,Wood,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Crosby's Kitchen,Crosby's Kitchen,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Hash House a Go Go,Hash House a Go Go,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Perennial Virant,Perennial Virant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,NYC Bagel Deli,NYC Bagel Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Grandma J's Local Kitchen,Grandma J's Local Kitchen,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Senza,Senza,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Wells on Wells,Wells on Wells,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Razon,Razon,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,John Barleycorn - River North,John Barleycorn - River North,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,M Burger,M Burger,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Meatheads Burgers and Fries,Meatheads Burgers and Fries,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Flub a Dub Chubs,Flub a Dub Chubs,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Goddess and Grocer,The Goddess and Grocer,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Nuts on Clark,Nuts on Clark,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Rosati's California Style Deli,Rosati's California Style Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Home Run Inn,Home Run Inn,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Huck Finn Restaurant,Huck Finn Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Bad Apple,Bad Apple,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Leadbelly,Leadbelly,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Third Coast Cafe and Wine Bar,Third Coast Cafe and Wine Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tre Kronor,Tre Kronor,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Wishbone on Lincoln,Wishbone on Lincoln,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Olga's Delicatessen,Olga's Delicatessen,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,MK The Restaurant,MK The Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chester's Polish Sausage/Deli,Chester's Polish Sausage/Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Nic and Dino's Tripoli Tavern,Nic and Dino's Tripoli Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chicago Bagel Authority,Chicago Bagel Authority,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Green Zebra,Green Zebra,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Kuma's Too,Kuma's Too,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Endgrain,Endgrain,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Beatrix,Beatrix,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Alexander's Restaurant,Alexander's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,O'Malley's West Bar & Grill,O'Malley's West Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Holiday Club,Holiday Club,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,John's Restaurant and Lounge,John's Restaurant and Lounge,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Fondue Stube,Fondue Stube,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Foundation Room,The Foundation Room,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Pick Me Up Cafe,Pick Me Up Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Blue Door Farm Stand,Blue Door Farm Stand,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The SoupBox (N. Broadway),The SoupBox (N. Broadway),0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Yolk,Yolk,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Brownstone Tavern,Brownstone Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Dock at Montrose Beach,The Dock at Montrose Beach,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Hollywood Grill,Hollywood Grill,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Dick's Last Resort,Dick's Last Resort,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Savoy Restaurant & Grill,Savoy Restaurant & Grill,0,南面,0.0,0.0,0.0
+快餐简餐,Clarke's Diner,Clarke's Diner,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Buffalo Wings and Rings,Buffalo Wings and Rings,0,Bridgeport Chinatown,0.0,0.0,0.0
+快餐简餐,Wolfgang Puck Express,Wolfgang Puck Express,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,O'Briens,O'Briens,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Sports Edition Bar,Sports Edition Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Brioche Doree,Brioche Doree,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Seven Ten Lanes,Seven Ten Lanes,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Artist's Cafe,Artist's Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chicago Chop House,Chicago Chop House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Mecca Supper Club,The Mecca Supper Club,0,帕克里奇,0.0,0.0,0.0
+快餐简餐,Brickton,Brickton,0,帕克里奇,0.0,0.0,0.0
+快餐简餐,Hackney's,Hackney's,0,南面,0.0,0.0,0.0
+快餐简餐,Jewel-Osco,Jewel-Osco,0,南面,0.0,0.0,0.0
+快餐简餐,The Scout,The Scout,0,南面,0.0,0.0,0.0
+快餐简餐,Kroll's South Loop,Kroll's South Loop,0,南面,0.0,0.0,0.0
+快餐简餐,City Tavern,City Tavern,0,南面,0.0,0.0,0.0
+快餐简餐,720 South Bar,720 South Bar,0,南面,0.0,0.0,0.0
+快餐简餐,Weather Mark Tavern,Weather Mark Tavern,0,南面,0.0,0.0,0.0
+快餐简餐,Custom House,Custom House,0,南面,0.0,0.0,0.0
+快餐简餐,Blackie's,Blackie's,0,南面,0.0,0.0,0.0
+快餐简餐,Letizia's Natural Bakery,Letizia's Natural Bakery,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Jerry's Wicker Park,Jerry's Wicker Park,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Inn Joy,Inn Joy,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,The Boundary Chicago Tavern & Grille,The Boundary Chicago Tavern & Grille,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,The Southern,The Southern,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Happy Village,Happy Village,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,The Bedford,The Bedford,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Prasino,Prasino,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Glazed and Infused,Glazed and Infused,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Debonair Social Club,Debonair Social Club,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Trenchermen,Trenchermen,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Delish Diner and Bakery,Delish Diner and Bakery,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Carraige House,Carraige House,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,The Handlebar,The Handlebar,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Blue Line Club Car,Blue Line Club Car,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Mac's,Mac's,0,Wicker Park,0.0,0.0,0.0
+快餐简餐,Breakfast Club,Breakfast Club,0,West Side,0.0,0.0,0.0
+快餐简餐,Park Tavern,Park Tavern,0,West Side,0.0,0.0,0.0
+快餐简餐,The Silver Palm,The Silver Palm,0,West Side,0.0,0.0,0.0
+快餐简餐,Wishbone Restaurant,Wishbone Restaurant,0,West Side,0.0,0.0,0.0
+快餐简餐,Sushi Wabi,Sushi Wabi,0,West Side,0.0,0.0,0.0
+快餐简餐,Robinson's #1 Ribs - South Canal,Robinson's #1 Ribs - South Canal,0,West Side,0.0,0.0,0.0
+快餐简餐,West Egg Cafe on Monroe,West Egg Cafe on Monroe,0,West Side,0.0,0.0,0.0
+快餐简餐,Urban Belly,Urban Belly,0,West Side,0.0,0.0,0.0
+快餐简餐,Province,Province,0,West Side,0.0,0.0,0.0
+快餐简餐,Haymarket Brewery,Haymarket Brewery,0,West Side,0.0,0.0,0.0
+快餐简餐,Grange Hall Burger Bar,Grange Hall Burger Bar,0,West Side,0.0,0.0,0.0
+快餐简餐,Nellcote,Nellcote,0,West Side,0.0,0.0,0.0
+快餐简餐,Clutch,Clutch,0,West Side,0.0,0.0,0.0
+快餐简餐,City Winery Chicago,City Winery Chicago,0,West Side,0.0,0.0,0.0
+快餐简餐,Orange,Orange,0,West Side,0.0,0.0,0.0
+快餐简餐,"Dunkin' Donuts, Canal St","Dunkin' Donuts, Canal St",0,West Side,0.0,0.0,0.0
+快餐简餐,New Line Tavern,New Line Tavern,0,West Side,0.0,0.0,0.0
+快餐简餐,Metro Deli & Cafe,Metro Deli & Cafe,0,West Side,0.0,0.0,0.0
+快餐简餐,Alonti Deli,Alonti Deli,0,West Side,0.0,0.0,0.0
+快餐简餐,Sienna Italian Deli,Sienna Italian Deli,0,West Side,0.0,0.0,0.0
+快餐简餐,Boston Blackie's,Boston Blackie's,0,West Side,0.0,0.0,0.0
+快餐简餐,Ina's,Ina's,0,West Side,0.0,0.0,0.0
+快餐简餐,Sweet Maple Cafe,Sweet Maple Cafe,0,West Side,0.0,0.0,0.0
+快餐简餐,Paramount Room,Paramount Room,0,West Side,0.0,0.0,0.0
+快餐简餐,The Beer Bistro,The Beer Bistro,0,West Side,0.0,0.0,0.0
+快餐简餐,Cork & Kerry at the Park,Cork & Kerry at the Park,0,Bridgeport Chinatown,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mary's Cafe,Mary's Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,L'Appetito,L'Appetito,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Bijan's Bistro,Bijan's Bistro,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,D4 Irish Pub & Cafe,D4 Irish Pub & Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Wolfgang Puck Express,Wolfgang Puck Express,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Market House,Market House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Grill on the Alley,The Grill on the Alley,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chili's Grill & Bar,Chili's Grill & Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Pizzeria Due,Pizzeria Due,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Foodlife,Foodlife,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Drawing Room,Drawing Room,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,M Burger,M Burger,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,200 East On Chestnut,200 East On Chestnut,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,RB Grille,RB Grille,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Quay,Quay,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Terrace at Trump,The Terrace at Trump,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Pippin's Tavern,Pippin's Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tru,Tru,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Harold's Chicken Shack,Harold's Chicken Shack,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Heaven on Seven,Heaven on Seven,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Wave,Wave,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Fox & Obel Food Market Cafe,Fox & Obel Food Market Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,American Girl Place Cafe,American Girl Place Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Sopraffina,Sopraffina,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tempo Cafe,Tempo Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,676 Restaurant & Bar,676 Restaurant & Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Original Pancake House,Original Pancake House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Ribs 'n' Bibs,Ribs 'n' Bibs,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Morry's Deli,Morry's Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Potbelly Sandwich Works,Potbelly Sandwich Works,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Fresh Choice,Fresh Choice,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Corner Bakery Cafe,Corner Bakery Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Potbelly Sandwich Works,Potbelly Sandwich Works,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Washburne Cafe,Washburne Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Bar Below Chicago,The Bar Below Chicago,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Encore Liquid Lounge,Encore Liquid Lounge,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,312 Chicago,312 Chicago,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Ronnie's,Ronnie's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cosi,Cosi,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Plymouth Restaurant & Bar,Plymouth Restaurant & Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cavanaugh's,Cavanaugh's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Market Creations,Market Creations,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Patty Burgers,Patty Burgers,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,South Branch,South Branch,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Hoyt's Tavern,Hoyt's Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Magnolia Bakery,Magnolia Bakery,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Rudys Bar and Grille,Rudys Bar and Grille,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Sarah and Peer Pedersen Room,The Sarah and Peer Pedersen Room,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Dunkin' Donuts,Dunkin' Donuts,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Luke's Italian Beef,Luke's Italian Beef,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Hannah's Bretzel,Hannah's Bretzel,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tavern at the Park,Tavern at the Park,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chuck's Manufacturing,Chuck's Manufacturing,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Aria,Aria,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Heaven on Seven - N Wabash,Heaven on Seven - N Wabash,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Estelle's Kitchen,Estelle's Kitchen,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Rivers Euro American Bistro,Rivers Euro American Bistro,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Augustino's Rock and Roll Deli,Augustino's Rock and Roll Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Beef and Brandy restaurant and lounge,Beef and Brandy restaurant and lounge,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cosi,Cosi,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mama's Fish,Mama's Fish,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Pillars Social Cafe,Pillars Social Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Morsel,Morsel,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Morseland,Morseland,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Ricobene's,Ricobene's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,A Taste of Heaven,A Taste of Heaven,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Greenhouse Inn,Greenhouse Inn,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Bagel Restaurant & Deli,The Bagel Restaurant & Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Sweets & Savories,Sweets & Savories,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Pauline's,Pauline's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Alps East Restaurant,Alps East Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Ann Sather,Ann Sather,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Melrose Restaurant,Melrose Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Sally's Waffle Shoppe,Sally's Waffle Shoppe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,BIN 36,BIN 36,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Howl at the moon,Howl at the moon,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Gemini Bistro,Gemini Bistro,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Balena,Balena,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Reno,Reno,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Michael's Pizzeria & Grill,Michael's Pizzeria & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,P.J. Clarke's,P.J. Clarke's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Erie Cafe,Erie Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Father & Son Pizza,Father & Son Pizza,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Max's Italian Beef,Max's Italian Beef,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Crepes a Latte the cafe,Crepes a Latte the cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Huey's Hot Dogs,Huey's Hot Dogs,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Fat Cat,Fat Cat,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Jury's,Jury's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Silver Cloud Bar & Grill,Silver Cloud Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cafe Absinthe,Cafe Absinthe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Restaurant Ecuador,Restaurant Ecuador,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,R.J. Grunts,R.J. Grunts,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Stanley'sKitchen and Tap,Stanley'sKitchen and Tap,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Riverside Deli,Riverside Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Green Door Tavern,Green Door Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Declan's Irish Pub,Declan's Irish Pub,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chickie's,Chickie's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Celtic Crown Public House,Celtic Crown Public House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Irish Oak,The Irish Oak,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Athenian Room,Athenian Room,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mirabell Restaurant,Mirabell Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Efes Cafe,Efes Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Superdawg Drive-In,Superdawg Drive-In,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Redmond's,Redmond's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Golden Angel Restaurant,Golden Angel Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Bridget McNeill's Pub,Bridget McNeill's Pub,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Diner Grill,Diner Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,West River Cafe,West River Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,BUtterfield 8,BUtterfield 8,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Bub City,Bub City,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Glenn's Diner,Glenn's Diner,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Municipal Bar & Dining Co.,Municipal Bar & Dining Co.,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Smokin' Woody's Barbeque,Smokin' Woody's Barbeque,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,O'Brien's Restaurant,O'Brien's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Chicago Joe's,Chicago Joe's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Alice Bar-B-Que,Alice Bar-B-Que,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Feed,Feed,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Orbit Room,Orbit Room,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,D.S. Tequila Co.,D.S. Tequila Co.,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Gino's North,Gino's North,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cooper's,Cooper's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Udupi Palace Restaurant,Udupi Palace Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Beans n Bagels,Beans n Bagels,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Deleece Grill Pub (fka: Shochu),Deleece Grill Pub (fka: Shochu),0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Hub 51,Hub 51,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Parrot Cage - Washburne Culinary Institute,Parrot Cage - Washburne Culinary Institute,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,EPIC,EPIC,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Ceres' Table,Ceres' Table,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Rockit Bar and Grill - Wrigleyville,Rockit Bar and Grill - Wrigleyville,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Public House,Public House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Bridge House Tavern,Bridge House Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Michael Diversey's,Michael Diversey's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Brunch Restaurant,Brunch Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Old Town Social,Old Town Social,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Hamburger Mary's,Hamburger Mary's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lady Gregory's Bar and Restaurant,Lady Gregory's Bar and Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Central Kitchen and Tap,Central Kitchen and Tap,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,US Beer Co.,US Beer Co.,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,2 Sparrows,2 Sparrows,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Witts' Tavern Grill Patio,Witts' Tavern Grill Patio,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Crossroads,Crossroads,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lotties,Lotties,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Crew Bar and Grill,Crew Bar and Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,O'Donovan's Bar,O'Donovan's Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Houndstooth Saloon,Houndstooth Saloon,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Boston Market,Boston Market,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tavish Bar and Grill,Tavish Bar and Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Tavernita,Tavernita,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Nookies,Nookies,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Bread & Wine,Bread & Wine,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Kingsbury cafe street,Kingsbury cafe street,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Vines on Clark,Vines on Clark,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Southport & Irving,Southport & Irving,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Old Town Pour House,Old Town Pour House,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Citizen Bar,Citizen Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Belden Deli,Belden Deli,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Waterfront Cafe,The Waterfront Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Spring Cafe,Spring Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Untitled,Untitled,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Freestyle Food+Drink,Freestyle Food+Drink,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Fatty's Burgers,Fatty's Burgers,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,John Barleycorn,John Barleycorn,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Five Star,Five Star,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Baume & Brix,Baume & Brix,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Elizabeth,Elizabeth,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,D.O.C. Wine Bar,D.O.C. Wine Bar,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Red Ivy,Red Ivy,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Avenue Tavern,Avenue Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Edgewater Lounge,Edgewater Lounge,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Seven Ten Lounge,Seven Ten Lounge,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Crossing Tavern,Crossing Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mad River Bar & Grille,Mad River Bar & Grille,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Kirkwood Bar & Grill,Kirkwood Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Atlas Brewery,Atlas Brewery,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Ivy's Place,Ivy's Place,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Danny's Egghead Diner,Danny's Egghead Diner,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Kitsch'n On Roscoe,Kitsch'n On Roscoe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Kit Kat Lounge and Supper Club,Kit Kat Lounge and Supper Club,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Magnolia Cafe,Magnolia Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Coobah,Coobah,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lawrence Market,Lawrence Market,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Kopi A Traveler's Cafe,Kopi A Traveler's Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Crofton on Wells,Crofton on Wells,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Pita Pavilion,Pita Pavilion,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,La Salle Cafe,La Salle Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Gregory's Deli & Market,Gregory's Deli & Market,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,The Goddess & Grocer,The Goddess & Grocer,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Horse Thief Hollow,Horse Thief Hollow,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Boka Restaurant,Boka Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Orange,Orange,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cafe Brauer Beer Garden,Cafe Brauer Beer Garden,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Erwin An American Cafe,Erwin An American Cafe,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Dunlays on Clark,Dunlays on Clark,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Jane's,Jane's,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Green Dolphin Street,Green Dolphin Street,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Parson's Chicken & Fish,Parson's Chicken & Fish,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Rockbottom Restaurant,Rockbottom Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Al's #1 Italian Beef,Al's #1 Italian Beef,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Earth Mothers,Earth Mothers,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Back Porch (House of Blues Restaurant),Back Porch (House of Blues Restaurant),0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Goose Island Clybourn Brewpub,Goose Island Clybourn Brewpub,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lincoln Station,Lincoln Station,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Standard Market Grill,Standard Market Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Schubas Tavern and Harmony Grill,Schubas Tavern and Harmony Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Durkin’s Tavern,Durkin’s Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Soul Vegetarian East,Soul Vegetarian East,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Mickey's Bar & Patio,Mickey's Bar & Patio,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Newport Bar & Grill,Newport Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,John's Place,John's Place,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Blue Frog Bar & Grill,Blue Frog Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Southport Lanes & Billiards,Southport Lanes & Billiards,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Quenchers Saloon,Quenchers Saloon,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lindy's Chili & Gertie's Ice Cream,Lindy's Chili & Gertie's Ice Cream,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Schoolyard Tavern,Schoolyard Tavern,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Red Apple Restaurant,Red Apple Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Gaslight Bar and Grille,Gaslight Bar and Grille,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Daily Bar & Grill,Daily Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Big Top Restaurant,Big Top Restaurant,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Sam's Chicken and Rib,Sam's Chicken and Rib,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Deacon Brodies,Deacon Brodies,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Harvest on Huron,Harvest on Huron,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Lucky Grill,Lucky Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Summer House Santa Monica,Summer House Santa Monica,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Casey Morans,Casey Morans,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Cocktail,Cocktail,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Snickers Bar and Grill,Snickers Bar and Grill,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Coppervine,Coppervine,0,芝加哥其他,0.0,0.0,0.0
+快餐简餐,Hunter & Tails,Hunter & Tails,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Eddie V's,Eddie V's,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Kinmont,Kinmont,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Bubba Gump Shrimp Company,Bubba Gump Shrimp Company,0,芝加哥其他,0.0,0.0,0.0
+海鲜,East Bank Club,East Bank Club,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Matisse Tavern,Matisse Tavern,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Crab Loco,Crab Loco,0,West Side,0.0,0.0,0.0
+海鲜,Lawrence's Fisheries,Lawrence's Fisheries,0,Bridgeport Chinatown,0.0,0.0,0.0
+海鲜,"Half Shell, Inc","Half Shell, Inc",0,芝加哥其他,0.0,0.0,0.0
+海鲜,McCormick & Schmick's Seafood,McCormick & Schmick's Seafood,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Devon Seafood Grill,Devon Seafood Grill,0,芝加哥其他,0.0,0.0,0.0
+海鲜,L2O,L2O,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Joey's Shrimp House,Joey's Shrimp House,0,Wicker Park,0.0,0.0,0.0
+海鲜,Sofitel Chicago Water Tower,Sofitel Chicago Water Tower,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Calumet Fisheries,Calumet Fisheries,0,芝加哥其他,0.0,0.0,0.0
+海鲜,The Savoy,The Savoy,0,Wicker Park,0.0,0.0,0.0
+海鲜,Brown Bag Seafood Co,Brown Bag Seafood Co,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Shark's Fish & Chicken,Shark's Fish & Chicken,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Dharma Garden,Dharma Garden,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Smuggler's Cove,Smuggler's Cove,0,,0.0,0.0,0.0
+海鲜,Da Lobsta,Da Lobsta,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Goose Island Shrimp House,Goose Island Shrimp House,0,芝加哥其他,0.0,0.0,0.0
+海鲜,N9NE Steakhouse,N9NE Steakhouse,0,West Side,0.0,0.0,0.0
+海鲜,McCormick & Schmick's Seafood,McCormick & Schmick's Seafood,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Pearl Tavern,Pearl Tavern,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Chicken & Fish Shack Incorporated,Chicken & Fish Shack Incorporated,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Fish Bar,Fish Bar,0,芝加哥其他,0.0,0.0,0.0
+海鲜,New England Seafood Company Fish Market,New England Seafood Company Fish Market,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Snappy's Shrimp,Snappy's Shrimp,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Local Option,Local Option,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Mama Nena's Shrimp House,Mama Nena's Shrimp House,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Fulton's on the River,Fulton's on the River,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Nick's Fishmarket Grill,Nick's Fishmarket Grill,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Raw Bar & Grill,Raw Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+海鲜,King Crab Tavern & Seafood Grill,King Crab Tavern & Seafood Grill,0,芝加哥其他,0.0,0.0,0.0
+海鲜,Thai Bowl,Thai Bowl,0,West Side,0.0,0.0,0.0
+海鲜,Marina Cafe,Marina Cafe,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Gibsons Bar & Steakhouse,Gibsons Bar & Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Morton's Steakhouse,Morton's Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+烧烤,BBQ King House,BBQ King House,0,南面,0.0,0.0,0.0
+烧烤,小肥羊,小肥羊,0,,7.7,7.7,6.8
+烧烤,Gene & Georgetti's Restaurant,Gene & Georgetti's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Green Street Smoked Meats,Green Street Smoked Meats,0,West Side,0.0,0.0,0.0
+烧烤,Smokey's BBQ,Smokey's BBQ,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Risque Cafe,Risque Cafe,0,芝加哥其他,0.0,0.0,0.0
+烧烤,The Fifty/50,The Fifty/50,0,Wicker Park,0.0,0.0,0.0
+烧烤,Hony Tonk BBQ,Hony Tonk BBQ,0,West Side,0.0,0.0,0.0
+烧烤,Uptown Pizza & Barbecue,Uptown Pizza & Barbecue,0,芝加哥其他,0.0,0.0,0.0
+烧烤,County Barbeque Chicago,County Barbeque Chicago,0,West Side,0.0,0.0,0.0
+烧烤,Aloha Grill,Aloha Grill,0,芝加哥其他,0.0,0.0,0.0
+烧烤,87th Street Barbecue,87th Street Barbecue,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Horseshoe,Horseshoe,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Honey 1 BBQ,Honey 1 BBQ,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Honky Tonk BBQ,Honky Tonk BBQ,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Rub's Backcountry Smokehouse,Rub's Backcountry Smokehouse,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Milt's BBQ For The Perplexed,Milt's BBQ For The Perplexed,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Fat Willy's Rib Shack,Fat Willy's Rib Shack,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Lem's Bar-B-Q House,Lem's Bar-B-Q House,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Twisted Spoke,Twisted Spoke,0,West Side,0.0,0.0,0.0
+烧烤,Father & Son Restaurant,Father & Son Restaurant,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Chicago Kalbi Korean Restaurant,Chicago Kalbi Korean Restaurant,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Vinh Phat BBQ,Vinh Phat BBQ,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Sun Wah Bar-B-Q Restaurant,Sun Wah Bar-B-Q Restaurant,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Carson's Ribs,Carson's Ribs,0,芝加哥其他,0.0,0.0,0.0
+烧烤,The Piggery,The Piggery,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Wrigley BBQ,Wrigley BBQ,0,芝加哥其他,0.0,0.0,0.0
+烧烤,The Barn and Company,The Barn and Company,0,芝加哥其他,0.0,0.0,0.0
+烧烤,The Fireside Restaurant,The Fireside Restaurant,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Shor Restaurant - Hyatt Regency - McCormick Place,Shor Restaurant - Hyatt Regency - McCormick Place,0,芝加哥其他,0.0,0.0,0.0
+烧烤,FAT WILLY'S BBQ,FAT WILLY'S BBQ,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Dragon Ranch Moonshine & BBQ,Dragon Ranch Moonshine & BBQ,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Famous Dave's,Famous Dave's,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Wallace's Catfish Corner,Wallace's Catfish Corner,0,芝加哥其他,0.0,0.0,0.0
+烧烤,I57 Rib House,I57 Rib House,0,芝加哥其他,0.0,0.0,0.0
+烧烤,Old Crow Smokehouse,Old Crow Smokehouse,0,芝加哥其他,0.0,0.0,0.0
+比萨,Freddies On 31st Chicago,Freddies On 31st Chicago,0,Bridgeport Chinatown,0.0,0.0,0.0
+比萨,Giordano's,Giordano's,0,芝加哥其他,0.0,0.0,0.0
+比萨,Deep dish pizza chicago,Deep dish pizza chicago,0,芝加哥其他,0.0,0.0,0.0
+比萨,UNO Chicago Grill,UNO Chicago Grill,0,芝加哥其他,0.0,0.0,0.0
+比萨,Lou Malnati's Pizzeria,Lou Malnati's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Gino's Pizzeria,Gino's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Pizzeria Aroma,Pizzeria Aroma,0,芝加哥其他,0.0,0.0,0.0
+比萨,UNO Chicago Grill,UNO Chicago Grill,0,芝加哥其他,0.0,0.0,0.0
+比萨,Waldo Cooney's Pizza,Waldo Cooney's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Gino's East,Gino's East,0,芝加哥其他,0.0,0.0,0.0
+比萨,Sarpino's Pizzeria,Sarpino's Pizzeria,0,West Side,0.0,0.0,0.0
+比萨,Eastern Style Pizza,Eastern Style Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Antica Pizzeria,Antica Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Pizza Castle,Pizza Castle,0,芝加哥其他,0.0,0.0,0.0
+比萨,Chicago's Pizza,Chicago's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Sono Wood Fired,Sono Wood Fired,0,芝加哥其他,0.0,0.0,0.0
+比萨,Giordano's,Giordano's,0,芝加哥其他,0.0,0.0,0.0
+比萨,Lina's Pizza,Lina's Pizza,0,Bridgeport Chinatown,0.0,0.0,0.0
+比萨,California Pizza Kitchen,California Pizza Kitchen,0,芝加哥其他,0.0,0.0,0.0
+比萨,Vince's Pizza,Vince's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Positanos Pizza,Positanos Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Rosati's Pizza,Rosati's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Triano's Pizza,Triano's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Paterno's Pizza,Paterno's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Sano's Pizzeria,Sano's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Blaze Pizza,Blaze Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Roots Handmade Pizza,Roots Handmade Pizza,0,Wicker Park,0.0,0.0,0.0
+比萨,Phil's Pizza,Phil's Pizza,0,Bridgeport Chinatown,0.0,0.0,0.0
+比萨,Cholie's Pizza,Cholie's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,J B Alberto's Pizza,J B Alberto's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Villa Rosa Pizza & Restaurant,Villa Rosa Pizza & Restaurant,0,芝加哥其他,0.0,0.0,0.0
+比萨,Mista Pizza,Mista Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Pizzeria Serio,Pizzeria Serio,0,芝加哥其他,0.0,0.0,0.0
+比萨,Pizzeria da Nella Cucina Nepolatana,Pizzeria da Nella Cucina Nepolatana,0,芝加哥其他,0.0,0.0,0.0
+比萨,HomeMade Pizza Co,HomeMade Pizza Co,0,芝加哥其他,0.0,0.0,0.0
+比萨,Geneo's-Original Pizza,Geneo's-Original Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Obbie's Pizza,Obbie's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Falco's Pizza,Falco's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Chikago Pizzaria,Chikago Pizzaria,0,芝加哥其他,0.0,0.0,0.0
+比萨,New York Pizza,New York Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Flo & Santos,Flo & Santos,0,南面,0.0,0.0,0.0
+比萨,Lou Malnati's Pizzeria,Lou Malnati's Pizzeria,0,Wicker Park,0.0,0.0,0.0
+比萨,Piece,Piece,0,Wicker Park,0.0,0.0,0.0
+比萨,Pie Hole,Pie Hole,0,West Side,0.0,0.0,0.0
+比萨,Dominick's Finer Foods,Dominick's Finer Foods,0,West Side,0.0,0.0,0.0
+比萨,Giordano's,Giordano's,0,芝加哥其他,0.0,0.0,0.0
+比萨,Geneo's Pizza,Geneo's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Villa Rosa Restaurant & Pzzra,Villa Rosa Restaurant & Pzzra,0,芝加哥其他,0.0,0.0,0.0
+比萨,Marie's Liquor & Pizza,Marie's Liquor & Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Route 66,Route 66,0,芝加哥其他,0.0,0.0,0.0
+比萨,Sarpino's Pizzeria,Sarpino's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Pie Hole Pizza Joint,Pie Hole Pizza Joint,0,芝加哥其他,0.0,0.0,0.0
+比萨,Pizza Reggio's,Pizza Reggio's,0,芝加哥其他,0.0,0.0,0.0
+比萨,Nancy's Pizza,Nancy's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Congress Pizzeria,Congress Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Lonnie's Pizzaria,Lonnie's Pizzaria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Bricks,Bricks,0,芝加哥其他,0.0,0.0,0.0
+比萨,Pizza Capri,Pizza Capri,0,芝加哥其他,0.0,0.0,0.0
+比萨,Pane Pomodoro Restaurant,Pane Pomodoro Restaurant,0,芝加哥其他,0.0,0.0,0.0
+比萨,Frank's Pizzeria,Frank's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Bije's Grill & Bar,Bije's Grill & Bar,0,芝加哥其他,0.0,0.0,0.0
+比萨,Coluta's Pizza On Diversey,Coluta's Pizza On Diversey,0,芝加哥其他,0.0,0.0,0.0
+比萨,Bacci Pizzeria,Bacci Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Damiano's Pizzeria,Damiano's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Dante's Pizzeria,Dante's Pizzeria,0,,0.0,0.0,0.0
+比萨,Armands Pizzeria Express,Armands Pizzeria Express,0,帕克里奇,0.0,0.0,0.0
+比萨,redFLAME Pizzeria,redFLAME Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Paisano's Pizza,Paisano's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,My Pie,My Pie,0,芝加哥其他,0.0,0.0,0.0
+比萨,Coluta's Pizza,Coluta's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Rosati's Pizza,Rosati's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Milano's Pizza,Milano's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Naty's Pizza,Naty's Pizza,0,芝加哥其他,0.0,0.0,0.0
+比萨,Stella Barra Pizzeria,Stella Barra Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Rosati's Pizza,Rosati's Pizza,0,,6.9,6.9,6.9
+比萨,Reggio's Pizza,Reggio's Pizza,0,West Side,0.0,0.0,0.0
+比萨,Angie's,Angie's,0,芝加哥其他,0.0,0.0,0.0
+比萨,Bacci Pizzeria,Bacci Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Golden Crust Pizzeria,Golden Crust Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Gigio's Pizzeria,Gigio's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+比萨,Barry's Shrimp Shack and BBQ,Barry's Shrimp Shack and BBQ,0,芝加哥其他,0.0,0.0,0.0
+比萨,Pizza Capri,Pizza Capri,0,芝加哥其他,0.0,0.0,0.0
+比萨,Beggars Pizza,Beggars Pizza,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Forever Yogurt,Forever Yogurt,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Sprinkles Cupcakes,Sprinkles Cupcakes,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Devil Dawgs,Devil Dawgs,0,南面,0.0,0.0,0.0
+面包甜点,Au Bon Pain,Au Bon Pain,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Reuter's Bakery,Reuter's Bakery,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Bake,Bake,0,Wicker Park,0.0,0.0,0.0
+面包甜点,Ghirardelli Ice Cream & Chocolate Shop,Ghirardelli Ice Cream & Chocolate Shop,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Bakin' & Eggs,Bakin' & Eggs,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Jeni's Splendid Ice Creams,Jeni's Splendid Ice Creams,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Pan Hellenic,Pan Hellenic,0,West Side,0.0,0.0,0.0
+面包甜点,Phil Stefani's 437 Rush,Phil Stefani's 437 Rush,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Doughnut Vault,Doughnut Vault,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Terry's Toffee,Terry's Toffee,0,West Side,0.0,0.0,0.0
+面包甜点,Birchwood Kitchen,Birchwood Kitchen,0,Wicker Park,0.0,0.0,0.0
+面包甜点,Firecakes Donuts,Firecakes Donuts,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Toni Patisserie & Café,Toni Patisserie & Café,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Panes Bread Cafe,Panes Bread Cafe,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Swirlz Cupcakes,Swirlz Cupcakes,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Hershey's Chicago,Hershey's Chicago,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Sugar Bliss Cake Boutique,Sugar Bliss Cake Boutique,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Corner Bakery Cafe,Corner Bakery Cafe,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Chimney Cake Island,Chimney Cake Island,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Einstein Brothers Bagels,Einstein Brothers Bagels,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,The Solstice Bar,The Solstice Bar,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Red Mango,Red Mango,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Katherine Anne Confections,Katherine Anne Confections,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Azucar,Azucar,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Oberweis Dairy,Oberweis Dairy,0,Wicker Park,0.0,0.0,0.0
+面包甜点,Alliance Bakery,Alliance Bakery,0,Wicker Park,0.0,0.0,0.0
+面包甜点,Burke's Bacon Bar,Burke's Bacon Bar,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Cafe Selmarie,Cafe Selmarie,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Swedish Bakery,Swedish Bakery,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Tel Aviv Kosher Bakery,Tel Aviv Kosher Bakery,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Thai Pastry Restaurant,Thai Pastry Restaurant,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Pinkberry,Pinkberry,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Baker & Nosh,Baker & Nosh,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Fabcakes,Fabcakes,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Bittersweet,Bittersweet,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Victory's Banner,Victory's Banner,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Original Rainbow Cone,Original Rainbow Cone,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Margie's Candies,Margie's Candies,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Sweet Mandy B's,Sweet Mandy B's,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Scooter's Frozen Custard,Scooter's Frozen Custard,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Panera Bread,Panera Bread,0,南面,0.0,0.0,0.0
+面包甜点,Hoosier Mama Pie Company,Hoosier Mama Pie Company,0,Wicker Park,0.0,0.0,0.0
+面包甜点,Artopolis,Artopolis,0,West Side,0.0,0.0,0.0
+面包甜点,Flo,Flo,0,West Side,0.0,0.0,0.0
+面包甜点,Einstein Brothers Bagels,Einstein Brothers Bagels,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Jimmy John's,Jimmy John's,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,FreshBerry Frozen Yogurt Cafe,FreshBerry Frozen Yogurt Cafe,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Einstein Brothers Bagels,Einstein Brothers Bagels,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Au Bon Pain,Au Bon Pain,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Briazz,Briazz,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Crumbs Bake Shop,Crumbs Bake Shop,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Panera Bread,Panera Bread,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Einstein Bros. Bagels,Einstein Bros. Bagels,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Lutz Continental Cafe & Pastry,Lutz Continental Cafe & Pastry,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Bobtail Ice Cream,Bobtail Ice Cream,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Eli's Cheesecake World,Eli's Cheesecake World,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Red Hen Bakery,Red Hen Bakery,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Pane Caldo,Pane Caldo,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Sticky Fingers Gourmet Popcorn,Sticky Fingers Gourmet Popcorn,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Marcello's,Marcello's,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Pompei Bakery,Pompei Bakery,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Oak Mill Bakery,Oak Mill Bakery,0,Wicker Park,0.0,0.0,0.0
+面包甜点,Briazz,Briazz,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,The Cupcake Counter,The Cupcake Counter,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Let Them Eat Cake Cafe,Let Them Eat Cake Cafe,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Brett's Kitchen,Brett's Kitchen,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Cookies by Design,Cookies by Design,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+面包甜点,BR BASKIN ROBBINS,BR BASKIN ROBBINS(芝加哥西尔斯大厦店),0,West Side,0.0,0.0,0.0
+其他美食,Joy Yee's Noodle Shop,Joy Yee's Noodle Shop,0,南面,0.0,0.0,0.0
+其他美食,Grace,Grace,0,West Side,0.0,0.0,0.0
+其他美食,Alinea,Alinea,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Slice of Chicago Pizza Tours,Slice of Chicago Pizza Tours,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Sze Chuan Cuisine,Sze Chuan Cuisine,0,南面,0.0,0.0,0.0
+其他美食,Einstein Bros. Bagels,Einstein Bros. Bagels,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Downtown Dogs,Downtown Dogs,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ferro's,Ferro's,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Panera Bread,Panera Bread,0,南面,0.0,0.0,0.0
+其他美食,Crisp,Crisp,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Carriage House,Carriage House,0,Wicker Park,0.0,0.0,0.0
+其他美食,Coast Burger,Coast Burger,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Tank noodle,Tank noodle,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Lao Sze Chuan Restaurant Uptown,Lao Sze Chuan Restaurant Uptown,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Lee Wing Wah,Lee Wing Wah,0,南面,0.0,0.0,0.0
+其他美食,Italiasia,Italiasia,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dusek's Board & Beer,Dusek's Board & Beer,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Vapiano Chicago Downtown,Vapiano Chicago Downtown,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Tokyo Lunch Box & Sake Bar,Tokyo Lunch Box & Sake Bar,0,West Side,0.0,0.0,0.0
+其他美食,Piezano's Pizza & Grinder Co,Piezano's Pizza & Grinder Co,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Great Wall Restaurant,Great Wall Restaurant,0,南面,0.0,0.0,0.0
+其他美食,Nana Organic,Nana Organic,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,America's Dog,America's Dog,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Japonais by Morimoto,Japonais by Morimoto,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chicago Carry Out,Chicago Carry Out,0,南面,7.5,7.5,7.5
+其他美食,Mei's Kitchen,Mei's Kitchen,0,南面,0.0,0.0,0.0
+其他美食,Salonica,Salonica,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Terzo Piano,Terzo Piano,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jimmy John's,Jimmy John's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,South Kawa,South Kawa,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Bake for Me! Bakery & Cafe,Bake for Me! Bakery & Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Kentone's Drive In,Kentone's Drive In,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chinese Kitchen,Chinese Kitchen,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Oak Street Beach,Oak Street Beach,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Teavana,Teavana,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Robust Coffee Lounge,Robust Coffee Lounge,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ada Street,Ada Street,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Caribou Coffee,Caribou Coffee,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Firewater Saloon,Firewater Saloon,0,帕克里奇,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cheesecake Factory,Cheesecake Factory,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Grand Lux Cafe,Grand Lux Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts-Baskin Robbins,Dunkin' Donuts-Baskin Robbins,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Peet's Coffee & Tea,Peet's Coffee & Tea,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Choppers,Choppers,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jamba Juice,Jamba Juice,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Home Style Taste,Home Style Taste,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Pret a Manger,Pret a Manger,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Gold Coast Hot Dog,Gold Coast Hot Dog,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Teuscher Chocolates of Switzerland,Teuscher Chocolates of Switzerland,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Lao Shanghai,Lao Shanghai,0,南面,0.0,0.0,0.0
+其他美食,Murasaki Sake Lounge,Murasaki Sake Lounge,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Los Azares Mexican Grill,Los Azares Mexican Grill,0,帕克里奇,0.0,0.0,0.0
+其他美食,Snappy Dog,Snappy Dog,0,帕克里奇,0.0,0.0,0.0
+其他美食,Subway,Subway,0,帕克里奇,0.0,0.0,0.0
+其他美食,The Lobby,The Lobby,0,,0.0,0.0,0.0
+其他美食,Demitasse,Demitasse,0,West Side,0.0,0.0,0.0
+其他美食,Chicago Steak House,Chicago Steak House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Vie De France Restaurant,Vie De France Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chicago Kernel Gourmet Popcorn & MORE,Chicago Kernel Gourmet Popcorn & MORE,0,芝加哥其他,0.0,0.0,0.0
+其他美食,J J Fish,J J Fish,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Elliot's,Elliot's,0,帕克里奇,0.0,0.0,0.0
+其他美食,410 Club,410 Club,0,芝加哥其他,0.0,0.0,0.0
+其他美食,La Colombe Torrefaction,La Colombe Torrefaction,0,West Side,0.0,0.0,0.0
+其他美食,Yummy Thai,Yummy Thai,0,West Side,0.0,0.0,0.0
+其他美食,La Iguanita,La Iguanita,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Paseo Boricua,Paseo Boricua,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Brasa Roja,Brasa Roja,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Los Mangos Neveria Y Fruteria,Los Mangos Neveria Y Fruteria,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Baba's Famous Steak and Lemonade,Baba's Famous Steak and Lemonade,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Lucky's Sandwich Company,Lucky's Sandwich Company,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Saugatuck Coffee Company,Saugatuck Coffee Company,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Anna's Asian Bistro Ravenswood,Anna's Asian Bistro Ravenswood,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Uncle Remu's Madison,Uncle Remu's Madison,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Marianos,Marianos,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jimmy's Red Hots,Jimmy's Red Hots,0,芝加哥其他,0.0,0.0,0.0
+其他美食,In-N-Out Burger,In-N-Out Burger,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jamba Juice,Jamba Juice,0,West Side,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Blackwood BBQ,Blackwood BBQ,0,芝加哥其他,0.0,0.0,0.0
+其他美食,El Famous Burrito,El Famous Burrito,0,West Side,0.0,0.0,0.0
+其他美食,Zaytune Mediterranean Grill,Zaytune Mediterranean Grill,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Blues Burrito House,Blues Burrito House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Marc Burger,Marc Burger,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Smoothies N Such,Smoothies N Such,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Caffè Oliva,Caffè Oliva,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Gepade Caffe,Gepade Caffe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Spectrum Bar & Grill,Spectrum Bar & Grill,0,West Side,0.0,0.0,0.0
+其他美食,Cosi,Cosi,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The L Cafe,The L Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Close-up 2,Close-up 2,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Atruro Express,Atruro Express,0,West Side,0.0,0.0,0.0
+其他美食,Executive Fitness Center,Executive Fitness Center,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Salad House,Salad House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cafe Versace,Cafe Versace,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin Donuts,Dunkin Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,City Farms Market & Grill,City Farms Market & Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Al Fresco Dining In Grant Park,Al Fresco Dining In Grant Park,0,南面,0.0,0.0,0.0
+其他美食,Carbon,Carbon,0,Wicker Park,0.0,0.0,0.0
+其他美食,The Ogden,The Ogden,0,West Side,0.0,0.0,0.0
+其他美食,Turtle's Bar & Grill,Turtle's Bar & Grill,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Ravens,Ravens,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Piatto Pronto,Piatto Pronto,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Taco Joe Inc,Taco Joe Inc,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Fat Tommy's,Fat Tommy's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Harold's Chicken Shacks,Harold's Chicken Shacks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,China Kitchen,China Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他美食,M Burger Ontario,M Burger Ontario,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Great American Bagel Bakery,Great American Bagel Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,南面,0.0,0.0,0.0
+其他美食,Dos riccos,Dos riccos,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,南面,0.0,0.0,0.0
+其他美食,Manny's Deli,Manny's Deli,0,南面,0.0,0.0,0.0
+其他美食,UNO Chicago Grill,UNO Chicago Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,El Souk Restaurant,El Souk Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jin Thai,Jin Thai,0,芝加哥其他,0.0,0.0,0.0
+其他美食,IO Urban Roofscape,IO Urban Roofscape,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Centro,Centro,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Goddess and Grocer,The Goddess and Grocer,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mac Kelly's Greens & Things,Mac Kelly's Greens & Things,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Freshii Palmer House,Freshii Palmer House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pot Bellys,Pot Bellys,0,芝加哥其他,0.0,0.0,0.0
+其他美食,"Travelle - The Langham, Chicago","Travelle - The Langham, Chicago",0,芝加哥其他,0.0,0.0,0.0
+其他美食,Eppy's Cafe & Deli,Eppy's Cafe & Deli,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jimmy Johns,Jimmy Johns,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Potter's,Potter's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pei Wei Asian Diner,Pei Wei Asian Diner,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Glazed and Infused,Glazed and Infused,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jamba Juice,Jamba Juice,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Oysy,Oysy,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Food Life,Food Life,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Gold Coast Dogs,Gold Coast Dogs,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Morton's of Chicago,Morton's of Chicago,0,芝加哥其他,0.0,0.0,0.0
+其他美食,EJ Sushi,EJ Sushi,0,West Side,0.0,0.0,0.0
+其他美食,Floriole Bakery,Floriole Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chicken Works & Salad Company,Chicken Works & Salad Company,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Plush Pup,Plush Pup,0,帕克里奇,0.0,0.0,0.0
+其他美食,Bongo Room,Bongo Room,0,南面,0.0,0.0,0.0
+其他美食,Ed's Potsticker House,Ed's Potsticker House,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Vosges Haut-Chocolat,Vosges Haut-Chocolat,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Eno,Eno,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Daley's Restaurant,Daley's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Millennium Perk,Millennium Perk,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Silversmith Hotel and Suites,Silversmith Hotel and Suites,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Five Guys,Five Guys,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Joe Fish,Joe Fish,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Noodles by Takashi Yagihashi,Noodles by Takashi Yagihashi,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pockets,Pockets,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Third World Cafe,Third World Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Einstein Bros. Bagels,Einstein Bros. Bagels,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pizano's Pizza in The Loop,Pizano's Pizza in The Loop,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Flour & Stone,Flour & Stone,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Amuse,Amuse,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,帕克里奇,0.0,0.0,0.0
+其他美食,Mariscos El Veneno,Mariscos El Veneno,0,Wicker Park,0.0,0.0,0.0
+其他美食,Schwa,Schwa,0,Wicker Park,0.0,0.0,0.0
+其他美食,LM Bistro,LM Bistro,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Tin Lizzie,The Tin Lizzie,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Kurah Mediterranean Tapas,Kurah Mediterranean Tapas,0,南面,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Boston Market,Boston Market,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Original Pancake House,The Original Pancake House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Berghoff Cafe O'Hare,Berghoff Cafe O'Hare,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Wingstop - The Wing Experts,Wingstop - The Wing Experts,0,南面,0.0,0.0,0.0
+其他美食,Skybridge Restaurant & Bar,Skybridge Restaurant & Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Gaslight Club,Gaslight Club,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dim Sum House,Dim Sum House,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Flukys,Flukys,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mr.Spanky's,Mr.Spanky's,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,e.leaven Food Company,e.leaven Food Company,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mr. Gyros,Mr. Gyros,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Piano Terra,Piano Terra,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Old Town Pizza Pub,Old Town Pizza Pub,0,芝加哥其他,0.0,0.0,0.0
+其他美食,"Red Mango - Chicago, IL (Water Tower Place)","Red Mango - Chicago, IL (Water Tower Place)",0,芝加哥其他,0.0,0.0,0.0
+其他美食,Harold's Chicken Shack,Harold's Chicken Shack,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cedar's of Lebanon,Cedar's of Lebanon,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Great Wall Chinese Restaurant,Great Wall Chinese Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,China Ho Restaurant,China Ho Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ohio House Coffee Shop,Ohio House Coffee Shop,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mancini Pizzeria,Mancini Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Fat Willy's,Fat Willy's,0,,0.0,0.0,0.0
+其他美食,Overflow Coffee Bar,Overflow Coffee Bar,0,南面,0.0,0.0,0.0
+其他美食,Reggie's Music Joint,Reggie's Music Joint,0,南面,0.0,0.0,0.0
+其他美食,Asian Outpost,Asian Outpost,0,南面,0.0,0.0,0.0
+其他美食,Pita Belly Corp,Pita Belly Corp,0,南面,0.0,0.0,0.0
+其他美食,Artists Cafe On Wabash,Artists Cafe On Wabash,0,南面,0.0,0.0,0.0
+其他美食,Starfruit,Starfruit,0,Wicker Park,0.0,0.0,0.0
+其他美食,Nick's Bar Garden,Nick's Bar Garden,0,Wicker Park,0.0,0.0,0.0
+其他美食,Butterfly Sushi On Chicago,Butterfly Sushi On Chicago,0,Wicker Park,0.0,0.0,0.0
+其他美食,Janik's Cafe,Janik's Cafe,0,Wicker Park,0.0,0.0,0.0
+其他美食,De Pasada On Ashland,De Pasada On Ashland,0,Wicker Park,0.0,0.0,0.0
+其他美食,Black Bull,Black Bull,0,Wicker Park,0.0,0.0,0.0
+其他美食,Tozi,Tozi,0,Wicker Park,0.0,0.0,0.0
+其他美食,La Pasadita,La Pasadita,0,Wicker Park,0.0,0.0,0.0
+其他美食,Pie-Eyed Pizzeria,Pie-Eyed Pizzeria,0,Wicker Park,0.0,0.0,0.0
+其他美食,Small Bar,Small Bar,0,Wicker Park,0.0,0.0,0.0
+其他美食,Azzurra EnoTavola,Azzurra EnoTavola,0,Wicker Park,0.0,0.0,0.0
+其他美食,Simply Greens,Simply Greens,0,West Side,0.0,0.0,0.0
+其他美食,Tommy's Grill,Tommy's Grill,0,West Side,0.0,0.0,0.0
+其他美食,Holiday Grill & Bar,Holiday Grill & Bar,0,West Side,0.0,0.0,0.0
+其他美食,Jamba Juice,Jamba Juice,0,West Side,0.0,0.0,0.0
+其他美食,Sip Coffeehouse,Sip Coffeehouse,0,West Side,0.0,0.0,0.0
+其他美食,Carm's Beef & Italian Ice,Carm's Beef & Italian Ice,0,West Side,0.0,0.0,0.0
+其他美食,Protein Bar,Protein Bar,0,West Side,0.0,0.0,0.0
+其他美食,Lucky's Sandwich Company,Lucky's Sandwich Company,0,West Side,0.0,0.0,0.0
+其他美食,Specialty's Cafe & Bakery,Specialty's Cafe & Bakery,0,West Side,0.0,0.0,0.0
+其他美食,Cobra Lounge,Cobra Lounge,0,West Side,0.0,0.0,0.0
+其他美食,Caribou Coffee,Caribou Coffee,0,West Side,0.0,0.0,0.0
+其他美食,Vintage Lounge,Vintage Lounge,0,West Side,0.0,0.0,0.0
+其他美食,Stuffin-It Fresh,Stuffin-It Fresh,0,West Side,0.0,0.0,0.0
+其他美食,Pizzeria del Mercato,Pizzeria del Mercato,0,West Side,0.0,0.0,0.0
+其他美食,Dark Matter Coffee,Dark Matter Coffee,0,West Side,0.0,0.0,0.0
+其他美食,La Fournette,La Fournette,0,West Side,0.0,0.0,0.0
+其他美食,Jut's,Jut's,0,West Side,0.0,0.0,0.0
+其他美食,The Office,The Office,0,West Side,0.0,0.0,0.0
+其他美食,Bombon,Bombon,0,West Side,0.0,0.0,0.0
+其他美食,Futon Market Kitchen,Futon Market Kitchen,0,West Side,0.0,0.0,0.0
+其他美食,Bespoke Cuisine,Bespoke Cuisine,0,West Side,0.0,0.0,0.0
+其他美食,Scoops Ice Cream,Scoops Ice Cream,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Rocky's Chicago,Rocky's Chicago,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Sushi Natsuri,Sushi Natsuri,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chestnut Street Cafe,Chestnut Street Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Waffles Cafe,Waffles Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Homemade Pizza Co,Homemade Pizza Co,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Potbelly Sandwich Works,Potbelly Sandwich Works,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Native Foods Cafe,Native Foods Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jamba Juice,Jamba Juice,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,U.B. Dogs,U.B. Dogs,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Harry's Hot Dogs,Harry's Hot Dogs,0,芝加哥其他,0.0,0.0,0.0
+其他美食,I Love Sushi,I Love Sushi,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Caffe Rom,Caffe Rom,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cafe Corea,Cafe Corea,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Caribou Coffee,Caribou Coffee,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Columbia Yacht Club,Columbia Yacht Club,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ba Le Sandwichs,Ba Le Sandwichs,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Haute Sausage,Haute Sausage,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Glenwood,The Glenwood,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Hop Haus,Hop Haus,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Restaurante Cuetzala Gro,Restaurante Cuetzala Gro,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Common Cup,The Common Cup,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Brothers Sub,Brothers Sub,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Sol Café,Sol Café,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Towbar,Towbar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Sweet Attila's A Bake Shop,Sweet Attila's A Bake Shop,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Rogers Park Juice Bar in La Fitness,Rogers Park Juice Bar in La Fitness,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mr C's Midway Bar,Mr C's Midway Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Burrito Grande,Burrito Grande,0,芝加哥其他,0.0,0.0,0.0
+其他美食,La Tia,La Tia,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Shrimp Shack,Shrimp Shack,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pizza Nova Express,Pizza Nova Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,El Solazo,El Solazo,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Sammy's Country Kitchen,Sammy's Country Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Huck Finn Donuts & Snack Shops,Huck Finn Donuts & Snack Shops,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Granny-B's,Granny-B's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Andrisi's,Andrisi's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Windy City Hot Dogs Incorporated,Windy City Hot Dogs Incorporated,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jacky's Hot Dogs,Jacky's Hot Dogs,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Birrieria DE La Torre,Birrieria DE La Torre,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Nicky's Drive In,Nicky's Drive In,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pticek and Son Bakery,Pticek and Son Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Olympia Food Industries,Olympia Food Industries,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cortland s Garage,Cortland s Garage,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ristorante Al Teatro,Ristorante Al Teatro,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cafe Soroni,Cafe Soroni,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Whispers Cafe,Whispers Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,El Cubanito,El Cubanito,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dino's Pizzeria,Dino's Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Play Room,The Play Room,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Blue Light,Blue Light,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Knockbox Cafe',Knockbox Cafe',0,芝加哥其他,0.0,0.0,0.0
+其他美食,"Ivy's Burgers, Hot Dogs and Fries","Ivy's Burgers, Hot Dogs and Fries",0,芝加哥其他,0.0,0.0,0.0
+其他美食,Korner Shrimp House,Korner Shrimp House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Big G's Pizza,Big G's Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,IHOP,IHOP,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Tacos Nietos,Tacos Nietos,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Marie's Pizza and Liquors Official Page,Marie's Pizza and Liquors Official Page,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Wild Goose Bar & Grill,Wild Goose Bar & Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Zanzibar,Zanzibar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,China Lamp Restaurant,China Lamp Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chalavi,Chalavi,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Star Lounge Coffee,Star Lounge Coffee,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Monarch,The Monarch,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Red June,Red June,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Peeled,Peeled,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Tabaq Restaurant,Tabaq Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Maxwell Street Grill,Maxwell Street Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Excalibur,Excalibur,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Vosges Haut-Chocolat,Vosges Haut-Chocolat,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chicago Pita Kitchen,Chicago Pita Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他美食,El Cabrito Restaurant,El Cabrito Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pepe's Mexican Restaurant,Pepe's Mexican Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Paciugo,Paciugo,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Senor Pan Cafe,Senor Pan Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Rock Wrap & Roll,Rock Wrap & Roll,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Hero's Submarine Sandwich Shop,Hero's Submarine Sandwich Shop,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Azucar Tapas Restaurant and Cocktail Bar,Azucar Tapas Restaurant and Cocktail Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Lulu's Restaurant,Lulu's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Buzz: Killer Espresso,Buzz: Killer Espresso,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Old Fashioned Donuts,Old Fashioned Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Urban Vegan,Urban Vegan,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chicago Bagel Authority,Chicago Bagel Authority,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Grand China Express,Grand China Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Homemade Pizza Co.,Homemade Pizza Co.,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Roseland Pizza & Tacos,Roseland Pizza & Tacos,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Delilah's,Delilah's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Vanille Patisserie,Vanille Patisserie,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dram Shop LTD,Dram Shop LTD,0,芝加哥其他,0.0,0.0,0.0
+其他美食,La Cocina,La Cocina,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mullen's On Clark,Mullen's On Clark,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Beezzee Fresh Food,Beezzee Fresh Food,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Potbelly Sandwich Works,Potbelly Sandwich Works,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Grand Avenue Shrimp House Inc,Grand Avenue Shrimp House Inc,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Coleman's Barbeque,Coleman's Barbeque,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Cell Block,The Cell Block,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Full Shilling Public House,Full Shilling Public House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Sandwich Me In,Sandwich Me In,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Margie's Candies,Margie's Candies,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Hot Diggity Dogs,Hot Diggity Dogs,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Quick Bite Carry Outs,Quick Bite Carry Outs,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Palermo Bakery,Palermo Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jimmy John's,Jimmy John's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Yassa African & Caribbean,Yassa African & Caribbean,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dawali Mediterranean Kitchen,Dawali Mediterranean Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chicago Pizza,Chicago Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Old Town Ale Hse,Old Town Ale Hse,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mr Beef On Harlem LTD,Mr Beef On Harlem LTD,0,芝加哥其他,0.0,0.0,0.0
+其他美食,La Plena Resturant,La Plena Resturant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chubby Weiners,Chubby Weiners,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chicken Hut,Chicken Hut,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jimmy Jamms,Jimmy Jamms,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ssyal Ginseng House,Ssyal Ginseng House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Porretta's Banquets & Catering,Porretta's Banquets & Catering,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Taste of Lebenon Restaurant,Taste of Lebenon Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Juliana,Juliana,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jimmy John's,Jimmy John's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mom's BBQ,Mom's BBQ,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Giordano's,Giordano's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Naked Pizza Chicago,Naked Pizza Chicago,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Broasted Chicken Royal Inc,Broasted Chicken Royal Inc,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Burrito House,Burrito House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Foodstuffs,Foodstuffs,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Lets Get Poppin,Lets Get Poppin,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Forever Yogurt,Forever Yogurt,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Miller Pizza Company,Miller Pizza Company,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Lickity Split Frozen Custard & Sweets,Lickity Split Frozen Custard & Sweets,0,芝加哥其他,0.0,0.0,0.0
+其他美食,J and J Fish and Chicken Co,J and J Fish and Chicken Co,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Real Kitchen,Real Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Galbi City ( Korean B.B.Q Grill ),Galbi City ( Korean B.B.Q Grill ),0,芝加哥其他,0.0,0.0,0.0
+其他美食,First Slice,First Slice,0,芝加哥其他,0.0,0.0,0.0
+其他美食,New China,New China,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Giovanni's Pizza,Giovanni's Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Perennial Restaurant,Perennial Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Blue Sky Bakery & Cafe,Blue Sky Bakery & Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Saigon Bistro,Saigon Bistro,0,芝加哥其他,0.0,0.0,0.0
+其他美食,First Slice Pie Cafe,First Slice Pie Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Quiznos,Quiznos,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Hagen's Fish Market,Hagen's Fish Market,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Wild Hare,The Wild Hare,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Salam Restaurant,Salam Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,El Pacifico,El Pacifico,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jakes Pup In the Ruf,Jakes Pup In the Ruf,0,芝加哥其他,0.0,0.0,0.0
+其他美食,VIP Restaurant,VIP Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Sabor A Cafe Columbian,Sabor A Cafe Columbian,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Fast & Fresh,Fast & Fresh,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Brasa Roja,Brasa Roja,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dock's,Dock's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cal-Harbor Restaurant & Lounge,Cal-Harbor Restaurant & Lounge,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Harold's Chicken Shacks,Harold's Chicken Shacks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Hiro's Cafe,Hiro's Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Staropolska Restaurant in Logan Square,Staropolska Restaurant in Logan Square,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Paul Zakopane Harnas Restaurant,Paul Zakopane Harnas Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,North & Clark Cafe,North & Clark Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,J's Corner Hot Dogs,J's Corner Hot Dogs,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Homemade Pizza Company,Homemade Pizza Company,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chicago's Pizza,Chicago's Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Thai Grill & Noodle Bar,Thai Grill & Noodle Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Harolds Chicken Shack,Harolds Chicken Shack,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Donald's Famous Hot Dogs,Donald's Famous Hot Dogs,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Other Side Bar,The Other Side Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,4 Hermanos Too,4 Hermanos Too,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Rocky's Tacos,Rocky's Tacos,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Taco & Burrito House,Taco & Burrito House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Relish The Thought,Relish The Thought,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Roma's,Roma's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Smakosz Restaurant,Smakosz Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Teresa II Polish Restaurant,Teresa II Polish Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Borinquen Restaurant 2,Borinquen Restaurant 2,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jeff's Red Hots,Jeff's Red Hots,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Rosati's Pizza,Rosati's Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Olive Mediterranean Grill,Olive Mediterranean Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ferajna,Ferajna,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chuck E. Cheese's,Chuck E. Cheese's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Kouks Vintage Cafe,Kouks Vintage Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jimmy's Pizza Cafe,Jimmy's Pizza Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Thai Thank You,Thai Thank You,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pavone Restaurant,Pavone Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Redhot Ranch,Redhot Ranch,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mosul Kubba Incorporated,Mosul Kubba Incorporated,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mike's Place,Mike's Place,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Magic Jug,Magic Jug,0,芝加哥其他,0.0,0.0,0.0
+其他美食,El Roquita,El Roquita,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Hubble Hookah,Hubble Hookah,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Al's Pizza,Al's Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Julius Meinl,Julius Meinl,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pat's Pizza,Pat's Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Iona's Beverly Hills Cafe,Iona's Beverly Hills Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Carmela's Taqueria,Carmela's Taqueria,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jimmy John's,Jimmy John's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Drinking Bird,The Drinking Bird,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Kamehachi,Kamehachi,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Taqueria La Oaxaquena,Taqueria La Oaxaquena,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Family House of Pancakes,The Family House of Pancakes,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Diversey River Bowl,Diversey River Bowl,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Windy City Sweets,Windy City Sweets,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Tom and Wendee's Italian Ice,Tom and Wendee's Italian Ice,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Wang's,Wang's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Salaam Restaurant and Bakery,Salaam Restaurant and Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Garage Bar and Sandwiches,The Garage Bar and Sandwiches,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Teagschwendner,Teagschwendner,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Bridge Bar Chicago,Bridge Bar Chicago,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Taste of Asia,Taste of Asia,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Johnny Van's BBQ,Johnny Van's BBQ,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Bow Truss Coffee Roasters,Bow Truss Coffee Roasters,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Caribou Coffee,Caribou Coffee,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Kitchen 17,Kitchen 17,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Art of Chicken Restaurant,The Art of Chicken Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ground Control Restaurant,Ground Control Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Esencia Urban Kitchen,Esencia Urban Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Paleteria Arco Iris,Paleteria Arco Iris,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Gaslight Coffee Roasters,Gaslight Coffee Roasters,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Alaska Paleteria Y Neveria,Alaska Paleteria Y Neveria,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway Wrigleyville (Addison Red Line),Subway Wrigleyville (Addison Red Line),0,芝加哥其他,0.0,0.0,0.0
+其他美食,Northstar Restaurant,Northstar Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mackells Inn,Mackells Inn,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Blackthorn,Blackthorn,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jet's Pizza,Jet's Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Abundance Bakery,Abundance Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Big Shoulders Coffee Works,Big Shoulders Coffee Works,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Taqueria El Primo,Taqueria El Primo,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chicago Wingz Around the World,Chicago Wingz Around the World,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cafe Tola,Cafe Tola,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cellar Door Provisions,Cellar Door Provisions,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Maza,Maza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,El Pollo Real,El Pollo Real,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Polygon Cafe,Polygon Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Adagio Teas,Adagio Teas,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Edzo's Burger Shop - Lincoln Park,Edzo's Burger Shop - Lincoln Park,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Black Dog Gelato,Black Dog Gelato,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Coffee and Tea Exchange,The Coffee and Tea Exchange,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Bucks Four Star Grill,Bucks Four Star Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Branko's Submarines,Branko's Submarines,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Grand-Austin Restaurant,Grand-Austin Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Garfield Gyros,Garfield Gyros,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Masti Grill and Karaoke,Masti Grill and Karaoke,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Memos Tacos,Memos Tacos,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pie Hole Pizza Joint :: Andersonville So/Fo,Pie Hole Pizza Joint :: Andersonville So/Fo,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Turkey Chop,Turkey Chop,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Q Bbq,Q Bbq,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Blue Nile,Blue Nile,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Tea Gschwendner,Tea Gschwendner,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Think Simple Foods,Think Simple Foods,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mama Made Sweet Potata Pie,Mama Made Sweet Potata Pie,0,芝加哥其他,0.0,0.0,0.0
+其他美食,That's a Burger,That's a Burger,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Artemio's Bakery,Artemio's Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ipsento,Ipsento,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Nofriction Cafe,Nofriction Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cousin's Incredible Vitality,Cousin's Incredible Vitality,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Goosefoot,Goosefoot,0,芝加哥其他,0.0,0.0,0.0
+其他美食,4 suyos Peruvian cuisine,4 suyos Peruvian cuisine,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Gallery Bar Chicago,Gallery Bar Chicago,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Frango Cafe,Frango Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Gold Coast Dogs O'hare International Airport,Gold Coast Dogs O'hare International Airport,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Luigi Stefani Pizzeria,Luigi Stefani Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+其他美食,35th Street Red Hots,35th Street Red Hots,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Mellow Yellow Restaurant,Mellow Yellow Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cicchetti,Cicchetti,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Noodles & Company,Noodles & Company,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Macaroni Grill,Macaroni Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cityscape Bar,Cityscape Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,南面,0.0,0.0,0.0
+其他美食,Tony's Italian Deli,Tony's Italian Deli,0,帕克里奇,0.0,0.0,0.0
+其他美食,Bobtail Ice Cream and Coffee Company,Bobtail Ice Cream and Coffee Company,0,南面,0.0,0.0,0.0
+其他美食,Potbelly Sandwich Works,Potbelly Sandwich Works,0,南面,0.0,0.0,0.0
+其他美食,Bar Louie,Bar Louie,0,南面,0.0,0.0,0.0
+其他美食,Saint Anna Bakery & Cafe,Saint Anna Bakery & Cafe,0,南面,0.0,0.0,0.0
+其他美食,Jimmy Johns,Jimmy Johns,0,南面,0.0,0.0,0.0
+其他美食,Harold's Chicken Shacks,Harold's Chicken Shacks,0,南面,0.0,0.0,0.0
+其他美食,Tommy Guns Garage,Tommy Guns Garage,0,南面,0.0,0.0,0.0
+其他美食,Chiu Quon Bakery,Chiu Quon Bakery,0,南面,0.0,0.0,0.0
+其他美食,Enoteca Roma,Enoteca Roma,0,Wicker Park,0.0,0.0,0.0
+其他美食,Between Boutique Cafe and Lounge,Between Boutique Cafe and Lounge,0,Wicker Park,0.0,0.0,0.0
+其他美食,Homestead,Homestead,0,Wicker Park,0.0,0.0,0.0
+其他美食,Tuman's Tap and Grill,Tuman's Tap and Grill,0,Wicker Park,0.0,0.0,0.0
+其他美食,Harold's Chicken Shack,Harold's Chicken Shack,0,Wicker Park,0.0,0.0,0.0
+其他美食,Monlung Restaurant,Monlung Restaurant,0,Wicker Park,0.0,0.0,0.0
+其他美食,Pizano's Pizza,Pizano's Pizza,0,Wicker Park,0.0,0.0,0.0
+其他美食,mana foodbar,mana foodbar,0,Wicker Park,0.0,0.0,0.0
+其他美食,Native Foods Cafe,Native Foods Cafe,0,Wicker Park,0.0,0.0,0.0
+其他美食,Damatos bakery,Damatos bakery,0,West Side,0.0,0.0,0.0
+其他美食,Polk Street Pub,Polk Street Pub,0,West Side,0.0,0.0,0.0
+其他美食,The Crossroads Bar and Grill,The Crossroads Bar and Grill,0,West Side,0.0,0.0,0.0
+其他美食,Bottom Lounge,Bottom Lounge,0,West Side,0.0,0.0,0.0
+其他美食,Jewel Osco,Jewel Osco,0,West Side,0.0,0.0,0.0
+其他美食,Potbelly Sandwich Works,Potbelly Sandwich Works,0,West Side,0.0,0.0,0.0
+其他美食,De Lux Bar & Grill,De Lux Bar & Grill,0,West Side,0.0,0.0,0.0
+其他美食,Butterfly Sushi,Butterfly Sushi,0,West Side,0.0,0.0,0.0
+其他美食,Chicago Raw Food,Chicago Raw Food,0,West Side,0.0,0.0,0.0
+其他美食,Rooks Corner UIC,Rooks Corner UIC,0,West Side,0.0,0.0,0.0
+其他美食,Iguana Cafe,Iguana Cafe,0,West Side,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,West Side,0.0,0.0,0.0
+其他美食,"Old Fifth - Whiskey, Pizza & Social Fare","Old Fifth - Whiskey, Pizza & Social Fare",0,West Side,0.0,0.0,0.0
+其他美食,Sunny's Restaurant,Sunny's Restaurant,0,West Side,0.0,0.0,0.0
+其他美食,onesixty blue,onesixty blue,0,West Side,0.0,0.0,0.0
+其他美食,Wâfel,Wâfel,0,West Side,0.0,0.0,0.0
+其他美食,Coal Fire,Coal Fire,0,West Side,0.0,0.0,0.0
+其他美食,butterfly social club,butterfly social club,0,West Side,0.0,0.0,0.0
+其他美食,Cru Kitchen and Bar,Cru Kitchen and Bar,0,West Side,0.0,0.0,0.0
+其他美食,The Aviary,The Aviary,0,West Side,0.0,0.0,0.0
+其他美食,Mariano's,Mariano's,0,West Side,0.0,0.0,0.0
+其他美食,Lavazza Coffee Cafe,Lavazza Coffee Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chick-fil-A,Chick-fil-A,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Potbelly Sandwich Works,Potbelly Sandwich Works,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Second Story Bar,Second Story Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Park Hyatt Chicago,Park Hyatt Chicago,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ikram cafe,Ikram cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Margaritaville,Margaritaville,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Le Bar Chicago,Le Bar Chicago,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Berkshire room,The Berkshire room,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Soup Box,Soup Box,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Nile Restaurant,The Nile Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Specialty's Cafe & Bakery,Specialty's Cafe & Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Max's Take Out,Max's Take Out,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Protein Bar,Protein Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,IPO,IPO,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chicken Planet,Chicken Planet,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Goodwin's,Goodwin's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Exchange Restaurant,Exchange Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Vault,Vault,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Snuggery,Snuggery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Seventh,Seventh,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Roti Mediterranean Grill,Roti Mediterranean Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Which Wich?,Which Wich?,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Saucy Porka,Saucy Porka,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Potbelly Sandwich Works,Potbelly Sandwich Works,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Potbelly Sandwich Works,Potbelly Sandwich Works,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Hannah's Bretzel,Hannah's Bretzel,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Native Foods Café,Native Foods Café,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pret a Manger,Pret a Manger,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Taste of Peru,Taste of Peru,0,芝加哥其他,0.0,0.0,0.0
+其他美食,La Valentina Restaurant,La Valentina Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Harold's Chicken Shacks,Harold's Chicken Shacks,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Garifuna Flava,Garifuna Flava,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Costello Sandwich & Sides,Costello Sandwich & Sides,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Costello Sandwich & Sides,Costello Sandwich & Sides,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Rios d'Sudamerica,Rios d'Sudamerica,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Noodles Party,Noodles Party,0,芝加哥其他,0.0,0.0,0.0
+其他美食,I Monelli,I Monelli,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Nhu Lan Bakery,Nhu Lan Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cafe Marbella,Cafe Marbella,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Bristol,The Bristol,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ian's Pizza,Ian's Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,First Slice,First Slice,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Map Room,Map Room,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Yango's Grill,Yango's Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Havana,Havana,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Rocking Horse,The Rocking Horse,0,芝加哥其他,0.0,0.0,0.0
+其他美食,LM Le Restaurant,LM Le Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Gilt Bar,Gilt Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pork Shoppe,Pork Shoppe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Del Seoul,Del Seoul,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Revolution Brewing,Revolution Brewing,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Marge's Still,Marge's Still,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Bongo Room,The Bongo Room,0,芝加哥其他,0.0,0.0,0.0
+其他美食,PitchFork,PitchFork,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Huettenbar,Huettenbar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,La Gondola,La Gondola,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Uncle Joe's Jerk,Uncle Joe's Jerk,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Jolly Inn,Jolly Inn,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Nick's Gyros,Nick's Gyros,0,芝加哥其他,0.0,0.0,0.0
+其他美食,L26 Restaurant,L26 Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Tatas Chicago Pizzeria,Tatas Chicago Pizzeria,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Castaways,Castaways,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chipotle Mexican Grill,Chipotle Mexican Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Native Foods Cafe,Native Foods Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Beggar's Pizza,Beggar's Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Crepe Town,Crepe Town,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Murphy's Bleachers,Murphy's Bleachers,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cassava,Cassava,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Brown Sugar Bakery-Chicago,Brown Sugar Bakery-Chicago,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Marty's,Marty's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mr Pollo,Mr Pollo,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Twisted Sister Bakery,Twisted Sister Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,George Street Pub,George Street Pub,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Estelle's Cafe & Pub,Estelle's Cafe & Pub,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Sal's Deli,Sal's Deli,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Northdown CafÃ© & Taproom,Northdown CafÃ© & Taproom,0,芝加哥其他,0.0,0.0,0.0
+其他美食,S and T Provision,S and T Provision,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dicola's Seafood,Dicola's Seafood,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Maxwell's at the Club,Maxwell's at the Club,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Bar on Buena,The Bar on Buena,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Gene's Rooftop Beer and Wine Garden,Gene's Rooftop Beer and Wine Garden,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Great Food & Beverage Company,Great Food & Beverage Company,0,芝加哥其他,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Don Pedro Carnitas,Don Pedro Carnitas,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Rub BBQ Company,Rub BBQ Company,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Taco Bell,Taco Bell,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pizano's Pizza and Pasta Express,Pizano's Pizza and Pasta Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Glunz Tavern,The Glunz Tavern,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ms Biscuit,Ms Biscuit,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Crimson Lounge,Crimson Lounge,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pizzeria Deepo,Pizzeria Deepo,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Starbucks at Embassy Suites,Starbucks at Embassy Suites,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Philly's Best,Philly's Best,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Budacki's Drive In,Budacki's Drive In,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Garcia's Restaurant,Garcia's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Coffee Restaurant Sarajevo,Coffee Restaurant Sarajevo,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Lindo Michoacan,Lindo Michoacan,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Adriatic Restaurant,Adriatic Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cozy Noodle & Rice,Cozy Noodle & Rice,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Harolds Chicken Shack,Harolds Chicken Shack,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Polo Restaurant,Polo Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,La Bomba,La Bomba,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Birrias Huentitan Restaurant,Birrias Huentitan Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,La Humita,La Humita,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Kabul House Express,Kabul House Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Original Pancake House,Original Pancake House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Biagio,Biagio,0,芝加哥其他,0.0,0.0,0.0
+其他美食,4 Hermanos,4 Hermanos,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Mr D's Shish-Kabob's,Mr D's Shish-Kabob's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Billy Goat Tavern,Billy Goat Tavern,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Food For Thought - Lincolnwood,Food For Thought - Lincolnwood,0,芝加哥其他,0.0,0.0,0.0
+其他美食,J K Kabab House,J K Kabab House,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Campeche,Campeche,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Bismillah Restaurant,Bismillah Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Vietnam Restaurant,Vietnam Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Firehouse Steak,Firehouse Steak,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Chez Simo Bistro,Chez Simo Bistro,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Taqueria Amigo Chino Inc,Taqueria Amigo Chino Inc,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Matsuyachicago,Matsuyachicago,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Refinery,The Refinery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Isabel's Restaurant,Isabel's Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Enso Sushi & Bar,Enso Sushi & Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Tanta,Tanta,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The J. Parker,The J. Parker,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Hutch,Hutch,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Andies Restaurant & Catering -Montrose,Andies Restaurant & Catering -Montrose,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Bentley Tavern,The Bentley Tavern,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Horizon Cafe & Restaurant,Horizon Cafe & Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Radler,The Radler,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Blackfinn Ameripub - River North,Blackfinn Ameripub - River North,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dillman's,Dillman's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Blaze N Grill,Blaze N Grill,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Half Italian,Half Italian,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Del Friscos Double Eagle Steakhouse,Del Friscos Double Eagle Steakhouse,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Boardinghouse The,Boardinghouse The,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Billy Sunday,Billy Sunday,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dimo's Pizza,Dimo's Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Taqueria La Oaxaquena,Taqueria La Oaxaquena,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Ann Sather - North Clark,Ann Sather - North Clark,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Wing Chong Restaurant,Wing Chong Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Urban Market Cafe,Urban Market Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Steve's Gyros,Steve's Gyros,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Crazy Calabrese Pizza,Crazy Calabrese Pizza,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Banderas,Banderas,0,芝加哥其他,0.0,0.0,0.0
+其他美食,X/O Chicago,X/O Chicago,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Borinquen Restaurant,Borinquen Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Lyfe Kitchen,Lyfe Kitchen,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Toast Two,Toast Two,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dinkel's Bakery,Dinkel's Bakery,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dollop Coffee Co,Dollop Coffee Co,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Cafe Colao,Cafe Colao,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pizza Art Cafe,Pizza Art Cafe,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Big Jones,Big Jones,0,芝加哥其他,0.0,0.0,0.0
+其他美食,The Protein Bar,The Protein Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Hannah's Bretzel,Hannah's Bretzel,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Small Bar,Small Bar,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Simone's,Simone's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Vegetarian Express,Vegetarian Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Tortoise Club,Tortoise Club,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Bar Pastoral,Bar Pastoral,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Pl-zen,Pl-zen,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Loving Hut,Loving Hut,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Karyn's Fresh Corner,Karyn's Fresh Corner,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Vee-Vee's African Restaurant,Vee-Vee's African Restaurant,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Bottlefork,Bottlefork,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Semiramis,Semiramis,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Kramer's Health Foods,Kramer's Health Foods,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Fried Rice Express,Fried Rice Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dryhop Brewers,Dryhop Brewers,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Original Triple Crown Restaurant,Original Triple Crown Restaurant,0,Bridgeport Chinatown,0.0,0.0,0.0
+其他美食,Chefs Burger Bistro,Chefs Burger Bistro,0,芝加哥其他,0.0,0.0,0.0
+其他美食,7 on State,7 on State,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Homemade Pizza Company,Homemade Pizza Company,0,芝加哥其他,0.0,0.0,0.0
+其他美食,King Wah Express,King Wah Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Dairy Queen,Dairy Queen,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Blue Agave,Blue Agave,0,West Side,0.0,0.0,0.0
+其他美食,Cape Code,Cape Code,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Auntie Anne's,Auntie Anne's,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Off the Park,Off the Park,0,帕克里奇,0.0,0.0,0.0
+其他美食,Bubble Net Food Court,Bubble Net Food Court,0,南面,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Double A,Double A,0,芝加哥其他,0.0,0.0,0.0
+其他美食,Subway,Subway,0,芝加哥其他,0.0,0.0,0.0
+其他美食,America's Dog,America's Dog,0,芝加哥其他,0.0,0.0,0.0

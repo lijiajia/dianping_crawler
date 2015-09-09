@@ -1,0 +1,145 @@
+西餐,Dundee's,Dundee's,0,,7.5,7.6,7.3
+西餐,Dundee's Restaurant on the Waterfront,Dundee's Restaurant on the Waterfront,0,,7.4,7.4,7.3
+西餐,Golden Boat Chinese Restaurant,Golden Boat Chinese Restaurant,0,,6.7,6.9,6.9
+西餐,Salt House,Salt House,0,凯恩斯其他,7.5,7.7,7.7
+西餐,Ochre Restaurant,Ochre Restaurant,0,,7.2,7.2,7.3
+西餐,Raw Prawn Seafood Restaurant,Raw Prawn Seafood Restaurant,0,,7.3,7.3,7.3
+西餐,Tha Fish Seafood Restaurant,Tha Fish Seafood Restaurant,0,,7.3,7.3,7.3
+西餐,Taste Of China Restaurant,Taste Of China Restaurant,0,,6.7,6.8,6.3
+西餐,Kee Kong Chinese Restaurant,Kee Kong Chinese Restaurant,0,,7.6,6.9,7.2
+西餐,Nando's,Nando's,0,,7.2,7.2,7.2
+西餐,P.J.O'Brien's Irish Pub,P.J.O'Brien's Irish Pub,0,,7.4,7.4,7.4
+西餐,Splash Seafood Restaurant,Splash Seafood Restaurant,0,,7.2,7.2,7.2
+西餐,Seoul Plaza Korean Restaurant,Seoul Plaza Korean Restaurant,0,,6.9,6.9,6.9
+西餐,"Coco's Restaurant, Cairns , Qld","Coco's Restaurant, Cairns , Qld",0,,7.1,7.1,7.1
+西餐,Villa Romana Trattoria,Villa Romana Trattoria,0,,7.2,7.2,7.2
+西餐,Jenny's Chinese Restaurant,Jenny's Chinese Restaurant,0,,7.1,7.0,7.0
+西餐,Marinades Indian Restaurant,Marinades Indian Restaurant,0,,7.2,7.2,7.2
+西餐,Fetta's Greek Restaurant,Fetta's Greek Restaurant,0,,7.2,7.2,7.2
+西餐,Tandoori Nights Indian Restaurant Cairns,Tandoori Nights Indian Restaurant Cairns,0,,7.2,7.2,7.2
+西餐,Lan's Vietnamese Restaurant,Lan's Vietnamese Restaurant,0,,7.2,7.2,7.2
+西餐,Delhi Tadka Indian Restaurant,Delhi Tadka Indian Restaurant,0,,7.0,7.0,6.9
+西餐,Bayleaf Balinese Restaurant,Bayleaf Balinese Restaurant,0,,7.2,7.2,7.2
+西餐,China Palace Restaurant,China Palace Restaurant,0,,6.6,6.8,6.6
+西餐,Teshi's Restaurant,Teshi's Restaurant,0,,7.2,7.2,7.2
+西餐,Southside Seafood Restaurant,Southside Seafood Restaurant,0,,6.9,6.9,6.9
+西餐,The Taj Indian Restaurant,The Taj Indian Restaurant,0,,7.1,7.1,7.1
+西餐,Mizuna Restaurant - Novotel Oasis Cairns Resort,Mizuna Restaurant - Novotel Oasis Cairns Resort,0,,7.1,7.1,7.1
+西餐,Hungry Jacks Family Restaurant,Hungry Jacks Family Restaurant,0,,6.7,6.7,6.7
+西餐,Thai Restaurant Pattaya,Thai Restaurant Pattaya,0,,6.9,6.9,6.9
+西餐,Thai Pan Restaurant,Thai Pan Restaurant,0,,6.7,7.0,6.9
+西餐,C'est Bon,C'est Bon,0,,7.2,7.2,7.2
+西餐,KOH-YA Japanese BBQ Restaurant,KOH-YA Japanese BBQ Restaurant,0,,7.1,7.1,6.8
+西餐,La Porchetta,La Porchetta,0,,7.2,7.2,6.8
+西餐,Coral Garden Restaurant,Coral Garden Restaurant,0,,6.9,6.9,6.9
+西餐,Pedro's Pizzeria Italian Restaurant,Pedro's Pizzeria Italian Restaurant,0,,7.0,7.0,6.9
+西餐,Dundee's Restaurant On The Waterfront,Dundee's Restaurant On The Waterfront,0,凯恩斯其他,0.0,0.0,0.0
+西餐,Ganbaranba Noodle Collosseum,Ganbaranba Noodle Collosseum,0,凯恩斯其他,0.0,0.0,0.0
+西餐,la pizza,la pizza,0,,0.0,0.0,0.0
+西餐,Tamarind,Tamarind,0,凯恩斯其他,0.0,0.0,0.0
+西餐,La Pizza,La Pizza,0,,0.0,0.0,0.0
+海鲜,东海海鲜酒楼,东海海鲜酒楼,0,,6.4,6.6,6.7
+海鲜,Barnacle Bills,Barnacle Bills,0,,7.3,7.4,7.3
+海鲜,The Raw Prawn,The Raw Prawn,0,,7.1,7.1,7.1
+海鲜,饮食天海鲜酒家,饮食天海鲜酒家,0,,0.0,0.0,0.0
+咖啡厅,Cafe China Seafood Restaurant,Cafe China Seafood Restaurant,0,,7.5,7.0,7.0
+咖啡厅,Al Porto Cafe Restaurant,Al Porto Cafe Restaurant,0,,7.0,7.2,7.2
+咖啡厅,Coffee Bean Estate,Coffee Bean Estate,0,,6.7,7.5,7.2
+咖啡厅,Driftin' Coffee Bar Restaurant,Driftin' Coffee Bar Restaurant,0,,7.0,7.0,7.0
+咖啡厅,SUSHIDO Japanese Kitchen/Cafe,SUSHIDO Japanese Kitchen/Cafe,0,,6.9,6.9,6.9
+咖啡厅,Jamdrop Cafe,Jamdrop Cafe,0,,7.0,7.0,7.0
+咖啡厅,Flecker House Coffee Shop,Flecker House Coffee Shop,0,,7.1,6.8,6.8
+咖啡厅,Spoons Cafe,Spoons Cafe,0,,7.0,7.0,7.0
+咖啡厅,Flying Monkey Cafe,Flying Monkey Cafe,0,,7.2,7.6,7.6
+咖啡厅,Bagus Cafe,Bagus Cafe,0,,7.5,7.5,7.1
+咖啡厅,Double Shot Cafe,Double Shot Cafe,0,,7.1,7.3,7.1
+咖啡厅,Blackbird Espresso by Coffee NQ,Blackbird Espresso by Coffee NQ,0,,7.3,7.3,7.3
+咖啡厅,Coast Roast Coffee,Coast Roast Coffee,0,,7.2,7.2,7.2
+咖啡厅,Cafe Thailand,Cafe Thailand,0,,7.2,7.2,7.2
+咖啡厅,Green Ant Cantina,Green Ant Cantina,0,,7.2,7.2,7.2
+咖啡厅,Paleo Cafe Cairns,Paleo Cafe Cairns,0,,7.2,7.2,7.2
+咖啡厅,Ozmosis Cafe Kitchen,Ozmosis Cafe Kitchen,0,,7.2,7.2,7.2
+咖啡厅,Cafe Coco,Cafe Coco,0,,7.2,7.2,7.2
+咖啡厅,Byblos Cafe,Byblos Cafe,0,,7.1,7.1,7.0
+咖啡厅,Cairns Courtyard Cafe,Cairns Courtyard Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Terrazza,Cafe Terrazza,0,,7.1,7.0,7.0
+咖啡厅,Cafe Blue,Cafe Blue,0,,6.9,6.9,6.9
+咖啡厅,"Al Fresco's Cafe, Radisson Plaza Hotel","Al Fresco's Cafe, Radisson Plaza Hotel",0,,6.9,6.9,6.9
+咖啡厅,Chill Cafe Palm Cove,Chill Cafe Palm Cove,0,,7.2,7.2,7.2
+咖啡厅,Cafe China Noodle Bar,Cafe China Noodle Bar,0,,6.8,6.8,6.8
+咖啡厅,Sipping Duck Coffee,Sipping Duck Coffee,0,,7.1,7.1,7.1
+咖啡厅,Gloria Jean's Coffee,Gloria Jean's Coffee,0,,7.0,7.0,7.0
+咖啡厅,The Swiss Cake and Coffee Shop,The Swiss Cake and Coffee Shop,0,,7.2,7.2,7.2
+咖啡厅,Cafe Fika,Cafe Fika,0,,7.1,7.1,7.1
+咖啡厅,Havana Music Cafe,Havana Music Cafe,0,,7.2,7.2,7.2
+咖啡厅,Be'wiched cafe,Be'wiched cafe,0,,7.0,7.0,7.0
+咖啡厅,Botanic Gardens Restaurant Cafe,Botanic Gardens Restaurant Cafe,0,,6.8,6.8,7.2
+咖啡厅,Onigiri Cafe Omu,Onigiri Cafe Omu,0,,7.1,7.1,7.0
+咖啡厅,Ibiza Beach Bar Cafe,Ibiza Beach Bar Cafe,0,,6.8,6.8,7.2
+咖啡厅,Spill The Beans Coffee Bar,Spill The Beans Coffee Bar,0,,7.1,7.1,7.1
+咖啡厅,Caffiend Cafe Art Music,Caffiend Cafe Art Music,0,,7.2,7.2,7.2
+咖啡厅,Byblos Cafe,Byblos Cafe,0,,6.8,6.8,6.8
+咖啡厅,Muddy's Cafe,Muddy's Cafe,0,,6.8,6.8,7.1
+咖啡厅,Jamaica blue,Jamaica blue,0,,7.0,6.9,7.0
+咖啡厅,Hog's Breath Cafe,Hog's Breath Cafe,0,,7.2,7.2,7.2
+咖啡厅,Coffee 21,Coffee 21,0,,7.1,7.1,7.0
+咖啡厅,Blue Mango Cafe and Wine Bar,Blue Mango Cafe and Wine Bar,0,,7.0,7.1,6.9
+咖啡厅,La Summer House Cafe,La Summer House Cafe,0,,6.9,6.9,6.9
+咖啡厅,Industry One Coffee,Industry One Coffee,0,,7.1,7.1,7.1
+咖啡厅,A-Lure Fish Cafe,A-Lure Fish Cafe,0,,6.9,6.9,6.9
+咖啡厅,Billy's Coffee,Billy's Coffee,0,,7.1,7.1,7.1
+咖啡厅,Hides Coffee Cafe,Hides Coffee Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Byblos on Aplin,Cafe Byblos on Aplin,0,,6.9,6.9,6.9
+咖啡厅,The Coffee Club - Cairns Esplanade,The Coffee Club - Cairns Esplanade,0,,7.2,7.2,7.2
+咖啡厅,Bernie's Jazz and Piano Cafe,Bernie's Jazz and Piano Cafe,0,,7.2,7.2,7.2
+咖啡厅,Tia's Cafe in Cairns,Tia's Cafe in Cairns,0,,7.1,7.1,7.1
+咖啡厅,Smith Street Cafe,Smith Street Cafe,0,,7.0,7.0,7.0
+咖啡厅,Ten One Twenty Cafe,Ten One Twenty Cafe,0,,7.0,7.0,7.0
+咖啡厅,Wild Bean Cafe,Wild Bean Cafe,0,,7.2,7.2,7.2
+酒吧,Outback Jacks Bar and Grill,Outback Jacks Bar and Grill,0,,6.7,7.2,7.2
+酒吧,Sushi Paradise,Sushi Paradise,0,,7.7,7.2,7.2
+酒吧,Brothers Leagues Club,Brothers Leagues Club,0,,6.8,6.8,6.8
+酒吧,RSL Club Restaurant,RSL Club Restaurant,0,,7.2,7.2,7.2
+酒吧,Ba8 Lounge Bar,Ba8 Lounge Bar,0,,7.1,7.1,7.1
+酒吧,The Paddock Restaurant and Bar,The Paddock Restaurant and Bar,0,,7.1,7.1,7.1
+酒吧,The Crown Pub,The Crown Pub,0,,7.1,7.1,7.1
+酒吧,Riki Yakiniku Dining Bar,Riki Yakiniku Dining Bar,0,,7.0,7.0,7.0
+酒吧,Tiny's Juice Bar,Tiny's Juice Bar,0,,7.0,7.1,7.0
+酒吧,"Sauce Barbeque Restaurant, Bar and Grill","Sauce Barbeque Restaurant, Bar and Grill",0,,7.1,7.1,7.1
+酒吧,P.J. O'Brien's The Irish Pub,P.J. O'Brien's The Irish Pub,0,,6.8,6.8,6.8
+酒吧,Flinders Bar and Grill,Flinders Bar and Grill,0,,6.5,6.5,6.5
+面包甜点,Pie Face,Pie Face,0,,6.7,6.7,7.0
+面包甜点,Pie Face,Pie Face,0,,7.2,6.9,6.9
+面包甜点,Vanilla,Vanilla,0,,7.5,7.5,7.5
+面包甜点,Snow Yogurt,Snow Yogurt,0,,7.4,7.4,7.4
+面包甜点,Devine Gelato,Devine Gelato,0,,7.1,7.1,7.1
+面包甜点,Devine Gelato,Devine Gelato,0,,7.7,7.7,7.2
+面包甜点,The Sweet Bistrot,The Sweet Bistrot,0,,7.1,7.0,7.0
+面包甜点,Papparoti,Papparoti,0,,7.1,7.0,7.0
+面包甜点,test,test,0,Clifton Beach,0.0,0.0,0.0
+烧烤,Ihaw Ihaw Filipino Cuisine BBQ/GRILL,Ihaw Ihaw Filipino Cuisine BBQ/GRILL,0,,7.3,7.1,7.1
+快餐,McDonald's,McDonald's,0,,6.9,6.8,6.8
+快餐,Hungry Jack's,Hungry Jack's,0,,6.8,6.8,6.8
+快餐,麦当劳,麦当劳,0,,6.8,6.2,6.2
+快餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐,Subway,Subway,0,,7.0,7.0,7.0
+快餐,Uiy,Uiy,0,Trinity Beach,0.0,0.0,0.0
+快餐,Kghj,Kghj,0,Clifton Beach,0.0,0.0,0.0
+牛排,Waterbar & Grill Steakhouse,Waterbar & Grill Steakhouse,0,,7.4,7.4,7.4
+牛排,Fridays,Fridays,0,,6.9,6.9,6.9
+比萨,Pinocchio's Pizza,Pinocchio's Pizza,0,,7.0,7.0,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Houdini's Gourmet Pizza,Houdini's Gourmet Pizza,0,,7.2,7.2,7.2
+比萨,Eagle Boys Pizza - Cairns,Eagle Boys Pizza - Cairns,0,,6.9,6.9,6.9
+比萨,Pizza Haven,Pizza Haven,0,,6.9,6.9,6.9
+比萨,Pizza Capers Westcourt,Pizza Capers Westcourt,0,,6.9,6.9,6.9
+比萨,Domino's Pizza Cairns City,Domino's Pizza Cairns City,0,,7.0,7.0,7.0
+比萨,Hungry Possum's Pizza,Hungry Possum's Pizza,0,,6.9,6.9,6.9
+比萨,Pedro's Pizza,Pedro's Pizza,0,,7.0,7.0,7.0
+比萨,La Pizza,La Pizza,0,,7.2,6.8,7.2
+比萨,Ddgd,Ddgd,0,Trinity Beach,0.0,0.0,0.0
+比萨,tesTdsf,tesTdsf,0,Trinity Beach,0.0,0.0,0.0
+比萨,Igy,Igy,0,凯恩斯市区,0.0,0.0,0.0
+拉美烧烤,Uio,Uio,0,凯恩斯市区,0.0,0.0,0.0
+拉美烧烤,Ipop,Ipop,0,Palm Cove,0.0,0.0,0.0

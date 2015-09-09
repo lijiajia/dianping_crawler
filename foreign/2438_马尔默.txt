@@ -1,0 +1,347 @@
+意大利菜,Spot,Spot,0,马尔默市中心,7.7,7.7,7.7
+意大利菜,Epicure Brod & Vin,Epicure Brod & Vin,0,马尔默市中心,0.0,0.0,0.0
+意大利菜,V.e.s.p.a,V.e.s.p.a,0,其他,0.0,0.0,0.0
+意大利菜,Di Penco AB,Di Penco AB,0,其他,0.0,0.0,0.0
+意大利菜,Osteria qui,Osteria qui,0,其他,0.0,0.0,0.0
+意大利菜,Via Napoli,Via Napoli,0,其他,0.0,0.0,0.0
+意大利菜,Njutbar,Njutbar,0,马尔默市中心,0.0,0.0,0.0
+意大利菜,La Casita,La Casita,0,马尔默市中心,0.0,0.0,0.0
+意大利菜,Vapiano Emporia,Vapiano Emporia,0,马尔默市中心,0.0,0.0,0.0
+意大利菜,D-Vino,D-Vino,0,其他,0.0,0.0,0.0
+意大利菜,Zinzino Bar Och Gastro,Zinzino Bar Och Gastro,0,马尔默市中心,0.0,0.0,0.0
+意大利菜,Restaurante bar & grappa,Restaurante bar & grappa,0,马尔默市中心,0.0,0.0,0.0
+意大利菜,Just like mamas,Just like mamas,0,其他,0.0,0.0,0.0
+意大利菜,Slottsstadens Restaurang & Pizzeria,Slottsstadens Restaurang & Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Doc Italiano,Doc Italiano,0,其他,0.0,0.0,0.0
+意大利菜,La quiete,La quiete,0,马尔默市中心,0.0,0.0,0.0
+意大利菜,Gio di Penco,Gio di Penco,0,其他,0.0,0.0,0.0
+法国菜,Vollmers,Vollmers,0,马尔默市中心,0.0,0.0,0.0
+法国菜,Sture,Sture,0,马尔默市中心,0.0,0.0,0.0
+法国菜,La Bonne Vie,La Bonne Vie,0,马尔默市中心,0.0,0.0,0.0
+法国菜,La Couronne,La Couronne,0,马尔默市中心,0.0,0.0,0.0
+法国菜,Boulebar Malmo,Boulebar Malmo,0,马尔默市中心,0.0,0.0,0.0
+法国菜,Brasserie KP,Brasserie KP,0,马尔默市中心,0.0,0.0,0.0
+法国菜,Cafe le fil du Rasoir - Malmo,Cafe le fil du Rasoir - Malmo,0,其他,0.0,0.0,0.0
+墨西哥菜,Barbacoa mexican street food,Barbacoa mexican street food,0,马尔默市中心,0.0,0.0,0.0
+墨西哥菜,El patron,El patron,0,其他,0.0,0.0,0.0
+墨西哥菜,Los Arcos,Los Arcos,0,马尔默市中心,0.0,0.0,0.0
+墨西哥菜,Tacolito,Tacolito,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Pronto,Pronto,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Arstiderna i Kockska Huset,Arstiderna i Kockska Huset,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Steakhouse Lilla Torg,Steakhouse Lilla Torg,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Moccasin Vin&Kaerlighet,Moccasin Vin&Kaerlighet,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Victors,Victors,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Lilla Kafferosteriet,Lilla Kafferosteriet,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Moosehead,Moosehead,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Bastard,Bastard,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Söder Om Småland,Söder Om Småland,0,其他,0.0,0.0,0.0
+其他西餐,PlockePinn,PlockePinn,0,其他,0.0,0.0,0.0
+其他西餐,Rebell,Rebell,0,其他,0.0,0.0,0.0
+其他西餐,Saltimporten Canteen,Saltimporten Canteen,0,其他,0.0,0.0,0.0
+其他西餐,Sir Toby's,Sir Toby's,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Bromans Grill & Bar,Bromans Grill & Bar,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Pic Nic Baguetteria,Pic Nic Baguetteria,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,The Bishop Arms,The Bishop Arms,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,cafe siesta,cafe siesta,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Rosen Bar & Dining,Rosen Bar & Dining,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Max Hamburgerrestaurang,Max Hamburgerrestaurang,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,M pa Vaster,M pa Vaster,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Belle Epoque,Belle Epoque,0,其他,0.0,0.0,0.0
+其他西餐,Nostimo,Nostimo,0,其他,0.0,0.0,0.0
+其他西餐,Casual Street Food,Casual Street Food,0,其他,0.0,0.0,0.0
+其他西餐,Tusen & 2 Restaurang & Bar,Tusen & 2 Restaurang & Bar,0,其他,0.0,0.0,0.0
+其他西餐,The Spoonery,The Spoonery,0,其他,0.0,0.0,0.0
+其他西餐,Kamaki,Kamaki,0,其他,0.0,0.0,0.0
+其他西餐,A Mesa Brazil,A Mesa Brazil,0,其他,0.0,0.0,0.0
+其他西餐,El Patio,El Patio,0,其他,0.0,0.0,0.0
+其他西餐,Syltan,Syltan,0,其他,0.0,0.0,0.0
+其他西餐,Restaurang Kajutan,Restaurang Kajutan,0,其他,0.0,0.0,0.0
+其他西餐,Pizzeria Davidshall,Pizzeria Davidshall,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Akropolis,Akropolis,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Sockerbit,Sockerbit,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Te & Kaka,Te & Kaka,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Interpool Malmö,Interpool Malmö,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Kommendanthusets Kafe,Kommendanthusets Kafe,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Restaurang F,Restaurang F,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Lilla Husman,Lilla Husman,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Valfarden Kok & Kaffe,Valfarden Kok & Kaffe,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Kalk Brasserie & Grill,Kalk Brasserie & Grill,0,其他,0.0,0.0,0.0
+其他西餐,Marathon Gyros Pizza,Marathon Gyros Pizza,0,其他,0.0,0.0,0.0
+其他西餐,Jetzt,Jetzt,0,其他,0.0,0.0,0.0
+其他西餐,Far I Hatten,Far I Hatten,0,其他,0.0,0.0,0.0
+其他西餐,Bright bar & grill,Bright bar & grill,0,其他,0.0,0.0,0.0
+其他西餐,Restaurang Genuin,Restaurang Genuin,0,其他,0.0,0.0,0.0
+其他西餐,Xxxlutz,Xxxlutz,0,其他,0.0,0.0,0.0
+其他西餐,Sas & Kras,Sas & Kras,0,其他,0.0,0.0,0.0
+其他西餐,Fregatten Pub & Restaurang,Fregatten Pub & Restaurang,0,其他,0.0,0.0,0.0
+其他西餐,Broderstugan Kök & Bar,Broderstugan Kök & Bar,0,其他,0.0,0.0,0.0
+其他西餐,Aroma mat & dryck,Aroma mat & dryck,0,其他,0.0,0.0,0.0
+其他西餐,Stereo,Stereo,0,其他,0.0,0.0,0.0
+其他西餐,Monster Bar & Steakhouse,Monster Bar & Steakhouse,0,其他,0.0,0.0,0.0
+其他西餐,Krankajen 22,Krankajen 22,0,其他,0.0,0.0,0.0
+其他西餐,Royal picnic,Royal picnic,0,其他,0.0,0.0,0.0
+其他西餐,Roda Oliven,Roda Oliven,0,其他,0.0,0.0,0.0
+其他西餐,Restaurang Oversten,Restaurang Oversten,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Perssons Kök & Bar,Perssons Kök & Bar,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,HarrysPub & Restaurang,HarrysPub & Restaurang,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Basement Cafe,Basement Cafe,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Kramer Gastronomi & Bar,Kramer Gastronomi & Bar,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,La Empanada,La Empanada,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Salmsons Skafferi,Salmsons Skafferi,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Langkok,Langkok,0,其他,0.0,0.0,0.0
+其他西餐,La caravelle,La caravelle,0,其他,0.0,0.0,0.0
+其他西餐,Konditoria Hollandia,Konditoria Hollandia,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Www. Slottstradgardenskafe. Se,Www. Slottstradgardenskafe. Se,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Gozzip,Gozzip,0,马尔默市中心,0.0,0.0,0.0
+其他西餐,Barcelona Tapas Rest. & Festvaning,Barcelona Tapas Rest. & Festvaning,0,马尔默市中心,0.0,0.0,0.0
+中餐,Dim Sum,Dim Sum,0,马尔默市中心,0.0,0.0,0.0
+中餐,The Thai pad,The Thai pad,0,其他,0.0,0.0,0.0
+中餐,He Tian Beijing Duck Restaurant,He Tian Beijing Duck Restaurant,0,其他,0.0,0.0,0.0
+中餐,Noodlemarket,Noodlemarket,0,其他,0.0,0.0,0.0
+日韩料理,Scania Bar,Scania Bar,0,其他,0.0,0.0,0.0
+日韩料理,Chill out,Chill out,0,其他,0.0,0.0,0.0
+日韩料理,Izakaya KOI,Izakaya KOI,0,马尔默市中心,0.0,0.0,0.0
+日韩料理,Saiko,Saiko,0,其他,0.0,0.0,0.0
+日韩料理,SushiBaren,SushiBaren,0,其他,0.0,0.0,0.0
+日韩料理,HAI,HAI,0,马尔默市中心,0.0,0.0,0.0
+日韩料理,Yukai,Yukai,0,其他,0.0,0.0,0.0
+日韩料理,Nilsson Sushi,Nilsson Sushi,0,马尔默市中心,0.0,0.0,0.0
+日韩料理,Rose Garden Supreme,Rose Garden Supreme,0,马尔默市中心,0.0,0.0,0.0
+日韩料理,Gyoza Robo Bar,Gyoza Robo Bar,0,马尔默市中心,0.0,0.0,0.0
+日韩料理,Sushido,Sushido,0,其他,0.0,0.0,0.0
+日韩料理,Samurai-Sushi,Samurai-Sushi,0,其他,0.0,0.0,0.0
+日韩料理,Maguro Sushibar,Maguro Sushibar,0,其他,0.0,0.0,0.0
+日韩料理,"China Box, G.A.T","China Box, G.A.T",0,马尔默市中心,0.0,0.0,0.0
+日韩料理,Chill out,Chill out,0,其他,0.0,0.0,0.0
+更多亚洲菜,Rice & Soup,Rice & Soup,0,马尔默市中心,7.7,7.7,7.7
+更多亚洲菜,Vegegarden,Vegegarden,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Mrs. Saigon,Mrs. Saigon,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Malmö Ricemarket,Malmö Ricemarket,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Restaurang Asien,Restaurang Asien,0,其他,0.0,0.0,0.0
+更多亚洲菜,Niribili,Niribili,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thap Thim,Thap Thim,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Occo Restaurant,Occo Restaurant,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Thai Basilika,Thai Basilika,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Amore Restaurang,Amore Restaurang,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Masala House,Masala House,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Golden Shiva,Golden Shiva,0,其他,0.0,0.0,0.0
+更多亚洲菜,Tamnack Thai,Tamnack Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Srinin,Srinin,0,其他,0.0,0.0,0.0
+更多亚洲菜,Falafel N.1,Falafel N.1,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Indian Side,Indian Side,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Time Out,Time Out,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Satang Thai Restaurant,Satang Thai Restaurant,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Sapla Indisk Restaurang & Bar,Sapla Indisk Restaurang & Bar,0,其他,0.0,0.0,0.0
+更多亚洲菜,Tasty Spot,Tasty Spot,0,其他,0.0,0.0,0.0
+更多亚洲菜,Krua Thai Restaurang,Krua Thai Restaurang,0,其他,0.0,0.0,0.0
+更多亚洲菜,Indian Haweli,Indian Haweli,0,其他,0.0,0.0,0.0
+更多亚洲菜,Miss Asia,Miss Asia,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sushi station,Sushi station,0,其他,0.0,0.0,0.0
+更多亚洲菜,Korrapong Thairestaurang,Korrapong Thairestaurang,0,其他,0.0,0.0,0.0
+更多亚洲菜,Trong Dong,Trong Dong,0,其他,0.0,0.0,0.0
+更多亚洲菜,India,India,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Indian Flavour,Indian Flavour,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Holy monkey malmo,Holy monkey malmo,0,马尔默市中心,0.0,0.0,0.0
+更多亚洲菜,Ganesha,Ganesha,0,其他,0.0,0.0,0.0
+更多亚洲菜,indian curry hut,indian curry hut,0,其他,0.0,0.0,0.0
+快餐简餐,O'Learys - Malmo Central,O'Learys - Malmo Central,0,马尔默市中心,6.8,7.2,6.8
+快餐简餐,Texas Longhorn,Texas Longhorn,0,马尔默市中心,0.0,0.0,0.0
+快餐简餐,Restaurang T-bone,Restaurang T-bone,0,马尔默市中心,0.0,0.0,0.0
+快餐简餐,Peter Beier Chokolade,Peter Beier Chokolade,0,马尔默市中心,0.0,0.0,0.0
+快餐简餐,Frukostklubben,Frukostklubben,0,其他,0.0,0.0,0.0
+快餐简餐,Pizza Hut,Pizza Hut,0,马尔默市中心,0.0,0.0,0.0
+快餐简餐,Interpool Malmö,Interpool Malmö,0,马尔默市中心,0.0,0.0,0.0
+快餐简餐,Bronx Burgerbar,Bronx Burgerbar,0,马尔默市中心,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,马尔默市中心,0.0,0.0,0.0
+快餐简餐,SOT Steak och Tapas,SOT Steak och Tapas,0,马尔默市中心,0.0,0.0,0.0
+快餐简餐,Frost Cupcakes,Frost Cupcakes,0,马尔默市中心,0.0,0.0,0.0
+快餐简餐,Dubbel Dubbel,Dubbel Dubbel,0,其他,0.0,0.0,0.0
+快餐简餐,Bamboo City,Bamboo City,0,马尔默市中心,0.0,0.0,0.0
+快餐简餐,TGIFridays,TGIFridays,0,马尔默市中心,0.0,0.0,0.0
+快餐简餐,Metro,Metro,0,其他,0.0,0.0,0.0
+快餐简餐,O'Learys - Malmo Entre,O'Learys - Malmo Entre,0,其他,0.0,0.0,0.0
+快餐简餐,Jensen Bofhus,Jensen Bofhus,0,其他,0.0,0.0,0.0
+海鲜,La Roche,La Roche,0,马尔默市中心,0.0,0.0,0.0
+海鲜,Myteri,Myteri,0,马尔默市中心,0.0,0.0,0.0
+海鲜,Arstiderna By The Sea,Arstiderna By The Sea,0,其他,0.0,0.0,0.0
+海鲜,Malmo Fisk,Malmo Fisk,0,其他,0.0,0.0,0.0
+烧烤,Gamla Brogatan,Gamla Brogatan,0,马尔默市中心,0.0,0.0,0.0
+烧烤,Jospers Vin & Grill,Jospers Vin & Grill,0,马尔默市中心,0.0,0.0,0.0
+烧烤,Grillspecialisten,Grillspecialisten,0,其他,0.0,0.0,0.0
+烧烤,Barrack Steakhouse,Barrack Steakhouse,0,其他,0.0,0.0,0.0
+比萨,Casa Mia,Casa Mia,0,马尔默市中心,0.0,0.0,0.0
+比萨,Ristorante Modomio,Ristorante Modomio,0,马尔默市中心,0.0,0.0,0.0
+比萨,Pizzeria Pompei,Pizzeria Pompei,0,其他,0.0,0.0,0.0
+比萨,Forno d'Oro,Forno d'Oro,0,其他,0.0,0.0,0.0
+比萨,Doc Piazza Malmo,Doc Piazza Malmo,0,其他,0.0,0.0,0.0
+咖啡厅,Espresso House,Espresso House,0,马尔默市中心,0.0,0.0,0.0
+咖啡厅,Barista,Barista,0,马尔默市中心,0.0,0.0,0.0
+咖啡厅,Slottstradgardens Kafe,Slottstradgardens Kafe,0,马尔默市中心,0.0,0.0,0.0
+咖啡厅,Patisserie David,Patisserie David,0,马尔默市中心,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,马尔默市中心,0.0,0.0,0.0
+咖啡厅,Cafecafe Malmo,Cafecafe Malmo,0,马尔默市中心,0.0,0.0,0.0
+咖啡厅,Kapten Hammock Cafe,Kapten Hammock Cafe,0,马尔默市中心,0.0,0.0,0.0
+咖啡厅,Rosie's Coffee & Wine,Rosie's Coffee & Wine,0,其他,0.0,0.0,0.0
+面包甜点,Bageri Cafleet,Bageri Cafleet,0,马尔默市中心,0.0,0.0,0.0
+面包甜点,Gelatiamo Malmo,Gelatiamo Malmo,0,马尔默市中心,0.0,0.0,0.0
+面包甜点,Café Grannen,Café Grannen,0,其他,0.0,0.0,0.0
+面包甜点,Milstenen Kaffebar,Milstenen Kaffebar,0,马尔默市中心,0.0,0.0,0.0
+面包甜点,Organic Bakery & Deli,Organic Bakery & Deli,0,其他,0.0,0.0,0.0
+酒吧,Paddy's,Paddy's,0,马尔默市中心,0.0,0.0,0.0
+酒吧,The more bistro,The more bistro,0,其他,0.0,0.0,0.0
+酒吧,Tempo Bar & Kok,Tempo Bar & Kok,0,其他,0.0,0.0,0.0
+酒吧,Malmo Brygghus i Chokladfabriken,Malmo Brygghus i Chokladfabriken,0,其他,0.0,0.0,0.0
+酒吧,Riannas Bistro,Riannas Bistro,0,其他,0.0,0.0,0.0
+酒吧,The Green Lion Inn,The Green Lion Inn,0,马尔默市中心,0.0,0.0,0.0
+酒吧,Harem Bar&Restaurang,Harem Bar&Restaurang,0,其他,0.0,0.0,0.0
+酒吧,Debaser Malmo,Debaser Malmo,0,其他,0.0,0.0,0.0
+更多美食,Salt & Brygga,Salt & Brygga,0,其他,7.2,7.7,7.7
+更多美食,"Barista, Emporia Malmo","Barista, Emporia Malmo",0,其他,6.8,7.6,7.2
+更多美食,Fabriken,Fabriken,0,其他,0.0,0.0,0.0
+更多美食,Green Mango,Green Mango,0,其他,0.0,0.0,0.0
+更多美食,Tva Krogare,Tva Krogare,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Lemongrass,Lemongrass,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Lilla Koket,Lilla Koket,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Kin Long Restaurant,Kin Long Restaurant,0,其他,0.0,0.0,0.0
+更多美食,"Atmosfar, Restaurang AB","Atmosfar, Restaurang AB",0,马尔默市中心,0.0,0.0,0.0
+更多美食,Mello Yello Bar & Restaurang,Mello Yello Bar & Restaurang,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Smak MalmÖ Konsthall,Smak MalmÖ Konsthall,0,其他,0.0,0.0,0.0
+更多美食,Laziza - a taste of Lebanon,Laziza - a taste of Lebanon,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Piccolo Mondo HB,Piccolo Mondo HB,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Hollandia,Hollandia,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Johan P.,Johan P.,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Ambrosia,Ambrosia,0,其他,0.0,0.0,0.0
+更多美食,Korvhuset,Korvhuset,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Mrs Brown,Mrs Brown,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Kao's,Kao's,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Gustav Adolf Restaurant o. Cafe,Gustav Adolf Restaurant o. Cafe,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Sankt Markus Wine Cellar,Sankt Markus Wine Cellar,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Folk a Rock,Folk a Rock,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Drumbar Lilla Torg,Drumbar Lilla Torg,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Bloom in the park,Bloom in the park,0,其他,0.0,0.0,0.0
+更多美食,Bloom,Bloom,0,其他,0.0,0.0,0.0
+更多美食,Raw Food House,Raw Food House,0,其他,0.0,0.0,0.0
+更多美食,"Skeppsbron 2, Bar & Restaurang","Skeppsbron 2, Bar & Restaurang",0,马尔默市中心,0.0,0.0,0.0
+更多美食,"Espresso House, Västra Hamnen","Espresso House, Västra Hamnen",0,其他,0.0,0.0,0.0
+更多美食,Istanbul Restaurang & Bar,Istanbul Restaurang & Bar,0,其他,0.0,0.0,0.0
+更多美食,Bistro Royal,Bistro Royal,0,其他,0.0,0.0,0.0
+更多美食,La Barca Restaurang,La Barca Restaurang,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Bee Bar Malmö,Bee Bar Malmö,0,马尔默市中心,0.0,0.0,0.0
+更多美食,B.A.R naturlig krog & vinbar,B.A.R naturlig krog & vinbar,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Elysee,Elysee,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Restaurang Fagans,Restaurang Fagans,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Mando Steakhouse,Mando Steakhouse,0,马尔默市中心,0.0,0.0,0.0
+更多美食,"WEGA, Museirestaurangen","WEGA, Museirestaurangen",0,马尔默市中心,0.0,0.0,0.0
+更多美食,Tre Vänner,Tre Vänner,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Radhuskallaren,Radhuskallaren,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Wayne's Coffee,Wayne's Coffee,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Bishops Arms,Bishops Arms,0,马尔默市中心,0.0,0.0,0.0
+更多美食,La Trattoria,La Trattoria,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Falafel N.1,Falafel N.1,0,其他,0.0,0.0,0.0
+更多美食,Carib Kreol,Carib Kreol,0,其他,0.0,0.0,0.0
+更多美食,JP's,JP's,0,其他,0.0,0.0,0.0
+更多美食,Moriska Paviljongens Bistro,Moriska Paviljongens Bistro,0,其他,0.0,0.0,0.0
+更多美食,Malmo Opera Grill,Malmo Opera Grill,0,其他,0.0,0.0,0.0
+更多美食,Any Time,Any Time,0,其他,0.0,0.0,0.0
+更多美食,Custen Parla,Custen Parla,0,其他,0.0,0.0,0.0
+更多美食,Andrélunds Mat och Vin,Andrélunds Mat och Vin,0,其他,0.0,0.0,0.0
+更多美食,Jensens Bofhus,Jensens Bofhus,0,其他,0.0,0.0,0.0
+更多美食,Satori,Satori,0,其他,0.0,0.0,0.0
+更多美食,Smorgasbutiken Warldshuset Oresund,Smorgasbutiken Warldshuset Oresund,0,其他,0.0,0.0,0.0
+更多美食,Godvindas Malmö,Godvindas Malmö,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Pizzeria Cosmos,Pizzeria Cosmos,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Graffiti Cafe,Graffiti Cafe,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Pappas Flickor,Pappas Flickor,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Restaurang Smith,Restaurang Smith,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Kafe Agnez,Kafe Agnez,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Pickwick Blues Pub & Rest & Bar,Pickwick Blues Pub & Rest & Bar,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Granden,Granden,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Cafe Agnes,Cafe Agnes,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Spice Grill,Spice Grill,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Korv Deli,Korv Deli,0,马尔默市中心,0.0,0.0,0.0
+更多美食,"Var Tids Mat, Restaurang","Var Tids Mat, Restaurang",0,马尔默市中心,0.0,0.0,0.0
+更多美食,Noir Kaffekultur,Noir Kaffekultur,0,马尔默市中心,0.0,0.0,0.0
+更多美食,TGI Fridays Lilla Torg,TGI Fridays Lilla Torg,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Centiliter & Gram,Centiliter & Gram,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Malmo Kebab AB,Malmo Kebab AB,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Djakne Kaffebar,Djakne Kaffebar,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Hotel Mäster Johan,Hotel Mäster Johan,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Mosaik,Mosaik,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Kottbaren,Kottbaren,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Cosmopolitan Cafe,Cosmopolitan Cafe,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Falafel & Kebab Stationen,Falafel & Kebab Stationen,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Mattssons Musikpub,Mattssons Musikpub,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Bianchi Cafe and Cycles,Bianchi Cafe and Cycles,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Savoy Hotel,Savoy Hotel,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Thott,Thott,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Hamnmastaren pa Bagers plats,Hamnmastaren pa Bagers plats,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Sma Smorrebrod,Sma Smorrebrod,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Bla Baten,Bla Baten,0,马尔默市中心,0.0,0.0,0.0
+更多美食,The Glass Hall,The Glass Hall,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Filicori Zecchini,Filicori Zecchini,0,其他,0.0,0.0,0.0
+更多美食,Pub Vagabond /,Pub Vagabond /,0,其他,0.0,0.0,0.0
+更多美食,PederHans Restaurang,PederHans Restaurang,0,其他,0.0,0.0,0.0
+更多美食,Restaurang Bastis,Restaurang Bastis,0,其他,0.0,0.0,0.0
+更多美食,Restaurang Kniv & Gaffel,Restaurang Kniv & Gaffel,0,其他,0.0,0.0,0.0
+更多美食,Sampanen,Sampanen,0,其他,0.0,0.0,0.0
+更多美食,Burek House,Burek House,0,其他,0.0,0.0,0.0
+更多美食,Sodervarns Krog,Sodervarns Krog,0,其他,0.0,0.0,0.0
+更多美食,Restaurang Azalee,Restaurang Azalee,0,其他,0.0,0.0,0.0
+更多美食,Gamle Nobe,Gamle Nobe,0,其他,0.0,0.0,0.0
+更多美食,Balthazar,Balthazar,0,其他,0.0,0.0,0.0
+更多美食,Cafe Simpan,Cafe Simpan,0,其他,0.0,0.0,0.0
+更多美食,"Restaurang Plaka, Grekisk","Restaurang Plaka, Grekisk",0,其他,0.0,0.0,0.0
+更多美食,Häng Bar,Häng Bar,0,其他,0.0,0.0,0.0
+更多美食,Restaurang Mollan,Restaurang Mollan,0,其他,0.0,0.0,0.0
+更多美食,Trols Jins Kru,Trols Jins Kru,0,其他,0.0,0.0,0.0
+更多美食,Sodra Skolgatans Olkafe,Sodra Skolgatans Olkafe,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Amore,Pizzeria Amore,0,其他,0.0,0.0,0.0
+更多美食,Cafe Feed,Cafe Feed,0,其他,0.0,0.0,0.0
+更多美食,Chez Madame,Chez Madame,0,其他,0.0,0.0,0.0
+更多美食,Cafe & Restaurang Konsthallen,Cafe & Restaurang Konsthallen,0,其他,0.0,0.0,0.0
+更多美食,Campus,Campus,0,其他,0.0,0.0,0.0
+更多美食,Restaurang Ribersborg,Restaurang Ribersborg,0,其他,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,其他,0.0,0.0,0.0
+更多美食,Lean Grill & Bar,Lean Grill & Bar,0,其他,0.0,0.0,0.0
+更多美食,Jalla jalla,Jalla jalla,0,其他,0.0,0.0,0.0
+更多美食,Castello Pizzeria,Castello Pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Ikea Malmo,Ikea Malmo,0,其他,0.0,0.0,0.0
+更多美食,Le colise,Le colise,0,其他,0.0,0.0,0.0
+更多美食,Buffen,Buffen,0,其他,0.0,0.0,0.0
+更多美食,Ribergsborgs Kallbadhus,Ribergsborgs Kallbadhus,0,其他,0.0,0.0,0.0
+更多美食,Kina Restaurang Hang Zhou,Kina Restaurang Hang Zhou,0,其他,0.0,0.0,0.0
+更多美食,Konditori Valhall,Konditori Valhall,0,其他,0.0,0.0,0.0
+更多美食,Nathalies pa Pers krog,Nathalies pa Pers krog,0,其他,0.0,0.0,0.0
+更多美食,Molto Bene,Molto Bene,0,其他,0.0,0.0,0.0
+更多美食,Big Bowl,Big Bowl,0,其他,0.0,0.0,0.0
+更多美食,Restaurang Hamn & Peppar,Restaurang Hamn & Peppar,0,其他,0.0,0.0,0.0
+更多美食,Restaurang P2,Restaurang P2,0,其他,0.0,0.0,0.0
+更多美食,Restaurang Glasklart AB,Restaurang Glasklart AB,0,其他,0.0,0.0,0.0
+更多美食,Vastra Hamnens Pizzeria,Vastra Hamnens Pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Sun Li Garden,Sun Li Garden,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Restaurang Davidshall,Restaurang Davidshall,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Kafe Kungsgatan,Kafe Kungsgatan,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Jensens Bofhus,Jensens Bofhus,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Norman's Deli,Norman's Deli,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Restaurang Bollywood,Restaurang Bollywood,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Chili Bar & Restaurant,Chili Bar & Restaurant,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Konditori Amarant - kv Caroli,Konditori Amarant - kv Caroli,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Etage,Etage,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Tryne Till Knorr,Tryne Till Knorr,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Sushi Queen,Sushi Queen,0,马尔默市中心,0.0,0.0,0.0
+更多美食,Centralens Restaurang & Pub,Centralens Restaurang & Pub,0,马尔默市中心,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,其他,0.0,0.0,0.0
+更多美食,Stars and Stripes Emporia,Stars and Stripes Emporia,0,其他,0.0,0.0,0.0
+更多美食,Husie Pizzeria & Kebab,Husie Pizzeria & Kebab,0,其他,0.0,0.0,0.0
+更多美食,China Garden,China Garden,0,其他,0.0,0.0,0.0
+更多美食,Restaurang Nyhavn,Restaurang Nyhavn,0,其他,0.0,0.0,0.0
+更多美食,olcafet,olcafet,0,其他,0.0,0.0,0.0
+更多美食,Restaurang Bodoni,Restaurang Bodoni,0,其他,0.0,0.0,0.0
+更多美食,Lung Foon Restaurang,Lung Foon Restaurang,0,其他,0.0,0.0,0.0
+更多美食,"Shanghai, Restaurang","Shanghai, Restaurang",0,其他,0.0,0.0,0.0
+更多美食,Wok Kitchen,Wok Kitchen,0,其他,0.0,0.0,0.0
+更多美食,Akvariet,Akvariet,0,其他,0.0,0.0,0.0
+更多美食,Le Concert,Le Concert,0,马尔默市中心,0.0,0.0,0.0
+更多美食,"Hotel Jagersro, Best Western","Hotel Jagersro, Best Western",0,其他,0.0,0.0,0.0
+更多美食,Pa Besok,Pa Besok,0,其他,0.0,0.0,0.0
+更多美食,Greekway,Greekway,0,其他,0.0,0.0,0.0

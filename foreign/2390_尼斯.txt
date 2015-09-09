@@ -1,0 +1,1128 @@
+咖啡厅,starbucks,starbucks,0,,7.2,7.2,7.2
+咖啡厅,Malongo Cafe,Malongo Cafe,0,尼斯市中心,0.0,0.0,0.0
+咖啡厅,Tast in,Tast in,0,尼斯市中心,0.0,0.0,0.0
+咖啡厅,Le Fresh,Le Fresh,0,尼斯其他,0.0,0.0,0.0
+咖啡厅,La Chocolaterie du Palasi,La Chocolaterie du Palasi,0,尼斯海滨,0.0,0.0,0.0
+咖啡厅,Petit Pois Et Clafoutis,Petit Pois Et Clafoutis,0,尼斯市中心,0.0,0.0,0.0
+咖啡厅,Crema Di Cafe,Crema Di Cafe,0,尼斯海滨,0.0,0.0,0.0
+咖啡厅,Antonia's cafe & bar,Antonia's cafe & bar,0,尼斯市中心,0.0,0.0,0.0
+咖啡厅,Pink Cofee,Pink Cofee,0,尼斯海滨,0.0,0.0,0.0
+咖啡厅,Le Rosalina,Le Rosalina,0,尼斯市中心,0.0,0.0,0.0
+咖啡厅,HI Beach,HI Beach,0,尼斯市中心,0.0,0.0,0.0
+咖啡厅,Co-T-Cafe,Co-T-Cafe,0,尼斯市中心,0.0,0.0,0.0
+咖啡厅,Brulerie des Cafes Indien,Brulerie des Cafes Indien,0,尼斯市中心,0.0,0.0,0.0
+咖啡厅,Le BaR'Oc,Le BaR'Oc,0,尼斯市中心,0.0,0.0,0.0
+咖啡厅,DS delices,DS delices,0,尼斯海滨,0.0,0.0,0.0
+咖啡厅,Nice Life International Cafe and Meeting Place,Nice Life International Cafe and Meeting Place,0,尼斯海滨,0.0,0.0,0.0
+咖啡厅,Come Chez Moi,Come Chez Moi,0,尼斯海滨,0.0,0.0,0.0
+咖啡厅,Le Corsaire,Le Corsaire,0,尼斯海滨,0.0,0.0,0.0
+咖啡厅,starbucks,starbucks,0,,0.0,0.0,0.0
+法国菜,Boccacio,Boccacio,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Sejour Cafe,Le Sejour Cafe,0,,0.0,0.0,0.0
+法国菜,Chez Freddy,Chez Freddy,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Bacchus,Le Bacchus,0,尼斯市中心,0.0,0.0,0.0
+法国菜,cafe de la place garibaldi,cafe de la place garibaldi,0,,7.3,7.7,7.3
+法国菜,VIP'S Grill,VIP'S Grill,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L Authentic,L Authentic,0,尼斯市中心,7.2,7.5,7.2
+法国菜,blue beach,blue beach,0,尼斯海滨,6.9,7.1,7.1
+法国菜,Le Maori,Le Maori,0,尼斯市中心,6.8,7.2,6.8
+法国菜,Ma yucca ~Restaurant Franco-Japonais~,Ma yucca ~Restaurant Franco-Japonais~,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Chat Gourmand,Le Chat Gourmand,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Chez Papa Fred,Chez Papa Fred,0,费布伦,0.0,0.0,0.0
+法国菜,Melodynice,Melodynice,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Cambuse,La Cambuse,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Iris Cafe,Iris Cafe,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Bistrot Chez Memere,Bistrot Chez Memere,0,尼斯市中心,6.9,6.9,6.9
+法国菜,La Brasserie du Cours,La Brasserie du Cours,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Milo's,Le Milo's,0,尼斯市中心,5.9,5.9,5.9
+法国菜,Hotel Westminster,Hotel Westminster,0,尼斯市中心,6.9,7.0,7.0
+法国菜,Le Grand Cafe de Lyon,Le Grand Cafe de Lyon,0,尼斯市中心,6.5,6.8,6.5
+法国菜,La bonne heure,La bonne heure,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Restaurant le Lys Blanc,Restaurant le Lys Blanc,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La P'tite Cocotte,La P'tite Cocotte,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Frog,Le Frog,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Comptoir du Marche,Le Comptoir du Marche,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Jan,Jan,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Prom',Le Prom',0,尼斯海滨,0.0,0.0,0.0
+法国菜,Boomerang Café,Boomerang Café,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Chantecler,Le Chantecler,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Cafe Opera,Cafe Opera,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Regence Plage by Radisson Blu,Regence Plage by Radisson Blu,0,费布伦,0.0,0.0,0.0
+法国菜,Maison Gusto,Maison Gusto,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Nissaladière,La Nissaladière,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Vini Mundo,Vini Mundo,0,尼斯市中心,0.0,0.0,0.0
+法国菜,MT Kafe,MT Kafe,0,尼斯其他,0.0,0.0,0.0
+法国菜,Kei's Passion,Kei's Passion,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Bistrot d'Antoine,Le Bistrot d'Antoine,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Brunet Boulanger Patissier,Brunet Boulanger Patissier,0,尼斯火车站,0.0,0.0,0.0
+法国菜,La Dolce Momento,La Dolce Momento,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Coco & Rico,Coco & Rico,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Chez Palmyre,Chez Palmyre,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Quai des Anges,Quai des Anges,0,尼斯海滨,0.0,0.0,0.0
+法国菜,L'Aparte Cafe,L'Aparte Cafe,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Les Hussards,Les Hussards,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Bistro Saint Louis,Bistro Saint Louis,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Restaurant Don Camillo Creations,Restaurant Don Camillo Creations,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Pourquoi Pas,Pourquoi Pas,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L'Agua,L'Agua,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Bistrot Chaud-Vin,Bistrot Chaud-Vin,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L'Aromate Restaurant,L'Aromate Restaurant,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Caffe Vergnano 1882,Caffe Vergnano 1882,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Restaurant Le Patio,Restaurant Le Patio,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Petite Biche,La Petite Biche,0,尼斯火车站,0.0,0.0,0.0
+法国菜,Socca Tram,Socca Tram,0,尼斯其他,0.0,0.0,0.0
+法国菜,Marlone Cafe,Marlone Cafe,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Aphrodite,Aphrodite,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le King Brasserie,Le King Brasserie,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Petrossian,Petrossian,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Bistrot des Panissiers,Le Bistrot des Panissiers,0,尼斯火车站,0.0,0.0,0.0
+法国菜,Cafe Lea,Cafe Lea,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Rotisserie du Palais - Chez Norbert,Rotisserie du Palais - Chez Norbert,0,尼斯海滨,0.0,0.0,0.0
+法国菜,L'Acropole,L'Acropole,0,尼斯火车站,0.0,0.0,0.0
+法国菜,Bread,Bread,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Chez Anais,Chez Anais,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Morning cafe,Morning cafe,0,尼斯市中心,0.0,0.0,0.0
+法国菜,a casetta,a casetta,0,尼斯市中心,0.0,0.0,0.0
+法国菜,École Hôtelière et de Tourisme Paul Augier,École Hôtelière et de Tourisme Paul Augier,0,尼斯其他,0.0,0.0,0.0
+法国菜,Les Epicuriens,Les Epicuriens,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Petit Cafe,Le Petit Cafe,0,尼斯其他,0.0,0.0,0.0
+法国菜,Academie Culinaire Esccom,Academie Culinaire Esccom,0,尼斯火车站,0.0,0.0,0.0
+法国菜,Le Makassar,Le Makassar,0,尼斯火车站,0.0,0.0,0.0
+法国菜,HANgout Restaurant,HANgout Restaurant,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Meyerbeer Brasserie,Meyerbeer Brasserie,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Resto d'Hugo,Le Resto d'Hugo,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Roustide,La Roustide,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Table,La Table,0,尼斯市中心,0.0,0.0,0.0
+法国菜,11eme Art,11eme Art,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Bistrot Pirate,Le Bistrot Pirate,0,尼斯海滨,0.0,0.0,0.0
+法国菜,In Vino,In Vino,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Route du Miam,La Route du Miam,0,尼斯其他,0.0,0.0,0.0
+法国菜,L'Esprit Gourmand,L'Esprit Gourmand,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Cave de la tour,Cave de la tour,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Green Pepper,Green Pepper,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Bistrot du Port,Le Bistrot du Port,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Fougasserie,La Fougasserie,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Voyageur Nissart,Voyageur Nissart,0,尼斯火车站,0.0,0.0,0.0
+法国菜,Le Bouchon,Le Bouchon,0,尼斯其他,0.0,0.0,0.0
+法国菜,le Canon,le Canon,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L'uzine,L'uzine,0,尼斯海滨,0.0,0.0,0.0
+法国菜,L'Atelier,L'Atelier,0,尼斯市中心,0.0,0.0,0.0
+法国菜,le maquis,le maquis,0,尼斯海滨,0.0,0.0,0.0
+法国菜,G-Square,G-Square,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Mesclun,Le Mesclun,0,费布伦,0.0,0.0,0.0
+法国菜,La Petite Foret,La Petite Foret,0,尼斯其他,0.0,0.0,0.0
+法国菜,bella socca,bella socca,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Petite Syrah,La Petite Syrah,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Geneve,Le Geneve,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Josephine,Josephine,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Chat Noir Chat Blanc,Chat Noir Chat Blanc,0,尼斯海滨,0.0,0.0,0.0
+法国菜,L'Anis Etoile,L'Anis Etoile,0,尼斯其他,0.0,0.0,0.0
+法国菜,Comme chez vous,Comme chez vous,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Petit Lascaris,Le Petit Lascaris,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Chez Nana,Chez Nana,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Olive&Artichaut,Olive&Artichaut,0,尼斯海滨,0.0,0.0,0.0
+法国菜,L'actu,L'actu,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Citron Doux,Citron Doux,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Cafe Marche,Cafe Marche,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Rolancy,Rolancy,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Bel Oeil,Bel Oeil,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Cafe Mercier,Cafe Mercier,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Cave de l'Origine,La Cave de l'Origine,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Millesime,Millesime,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Caffé dell'Arte,Caffé dell'Arte,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Restaurant L'Instant,Restaurant L'Instant,0,尼斯其他,0.0,0.0,0.0
+法国菜,Lido PLage,Lido PLage,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Plage Miami beach,Plage Miami beach,0,费布伦,0.0,0.0,0.0
+法国菜,Jazz Cafe Brasserie,Jazz Cafe Brasserie,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Bistro,Le Bistro,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Brasserie Alsacienne,Brasserie Alsacienne,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Lou Ginestre,Lou Ginestre,0,费布伦,0.0,0.0,0.0
+法国菜,Mets and Cafe,Mets and Cafe,0,尼斯火车站,0.0,0.0,0.0
+法国菜,le gout d italie,le gout d italie,0,尼斯其他,0.0,0.0,0.0
+法国菜,Sporting Plage,Sporting Plage,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Bistro Gourmand,Le Bistro Gourmand,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Hotel Negresco's cafe,Hotel Negresco's cafe,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Siecle,Le Siecle,0,尼斯海滨,0.0,0.0,0.0
+法国菜,L'Oree du Port,L'Oree du Port,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Yolo Wine Bar,Yolo Wine Bar,0,尼斯其他,0.0,0.0,0.0
+法国菜,La Maison Bleue,La Maison Bleue,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L'Arche Saleya,L'Arche Saleya,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Table de Trois,La Table de Trois,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le First,Le First,0,尼斯其他,0.0,0.0,0.0
+法国菜,Panice,Panice,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Merenda,La Merenda,0,尼斯其他,0.0,0.0,0.0
+法国菜,La Reserve,La Reserve,0,尼斯其他,0.0,0.0,0.0
+法国菜,Sister's Lunch,Sister's Lunch,0,尼斯其他,0.0,0.0,0.0
+法国菜,Lou Pastrouil,Lou Pastrouil,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L'Univers de Christian Plumail,L'Univers de Christian Plumail,0,尼斯海滨,0.0,0.0,0.0
+法国菜,J. Multari Patisserie,J. Multari Patisserie,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Les Viviers,Les Viviers,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Dante Restaurant,Dante Restaurant,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Saint Germain,Le Saint Germain,0,尼斯市中心,0.0,0.0,0.0
+法国菜,TERRES DE TRUFFES,TERRES DE TRUFFES,0,尼斯海滨,0.0,0.0,0.0
+法国菜,L'Eclypse Cafe,L'Eclypse Cafe,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Auberge de L'acropolis,Auberge de L'acropolis,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Darlington Bistro,Darlington Bistro,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Gourmand´Isa,Gourmand´Isa,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Caffe D Angely,Caffe D Angely,0,尼斯其他,0.0,0.0,0.0
+法国菜,Nulle Pate Ailleurs,Nulle Pate Ailleurs,0,尼斯其他,0.0,0.0,0.0
+法国菜,Restaurant de la Victorine,Restaurant de la Victorine,0,尼斯其他,0.0,0.0,0.0
+法国菜,Brasserie le Magnan,Brasserie le Magnan,0,费布伦,0.0,0.0,0.0
+法国菜,Le Safari,Le Safari,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Brasserie De L'etoile,Brasserie De L'etoile,0,尼斯其他,0.0,0.0,0.0
+法国菜,Brasserie Le Grimaldi,Brasserie Le Grimaldi,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Rive Gauche,La Rive Gauche,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Paradice Restaurant Crêperie,Paradice Restaurant Crêperie,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Hussard,Le Hussard,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Les Brasseries Georges,Les Brasseries Georges,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Maison De La Pizza,La Maison De La Pizza,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Lycee Hotelier de Nice,Lycee Hotelier de Nice,0,尼斯其他,0.0,0.0,0.0
+法国菜,Le Badiane,Le Badiane,0,尼斯其他,0.0,0.0,0.0
+法国菜,Rosetti Serie,Rosetti Serie,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Cafe Grimaldi,Cafe Grimaldi,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Les Causeries de Blandine,Les Causeries de Blandine,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Carre Vert,Le Carre Vert,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Gargamelle,La Gargamelle,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Au gubernatis,Au gubernatis,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Traction,La Traction,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Pizzéria La Tonnelle,Pizzéria La Tonnelle,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Charlotte,Charlotte,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le 7eme Sens,Le 7eme Sens,0,尼斯市中心,0.0,0.0,0.0
+法国菜,gloss,gloss,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Clou D'Argent,Le Clou D'Argent,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Pizza Sud,Pizza Sud,0,尼斯海滨,0.0,0.0,0.0
+法国菜,In Vino Port,In Vino Port,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Vintage,Vintage,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Ferme Saleya,La Ferme Saleya,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Banane,La Banane,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le bistrot de l'atelier,Le bistrot de l'atelier,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Lion's Bar,Lion's Bar,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Papayou,Papayou,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Bistro du Fromager,Le Bistro du Fromager,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Cote Lounge,Cote Lounge,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Vigna,La Vigna,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Potiron Gourmet,Le Potiron Gourmet,0,费布伦,0.0,0.0,0.0
+法国菜,Atelier St Antoine,Atelier St Antoine,0,尼斯火车站,0.0,0.0,0.0
+法国菜,La Suite,La Suite,0,,0.0,0.0,0.0
+法国菜,Le Bistrot du Marche,Le Bistrot du Marche,0,尼斯其他,0.0,0.0,0.0
+法国菜,Aux Deux Chefs,Aux Deux Chefs,0,尼斯其他,0.0,0.0,0.0
+法国菜,A la Table du Marche,A la Table du Marche,0,尼斯其他,0.0,0.0,0.0
+法国菜,Tell un Ange,Tell un Ange,0,尼斯其他,0.0,0.0,0.0
+法国菜,Patoch's family,Patoch's family,0,尼斯其他,0.0,0.0,0.0
+法国菜,L'Altro Cose Cosi,L'Altro Cose Cosi,0,尼斯其他,0.0,0.0,0.0
+法国菜,La cave saint tropez,La cave saint tropez,0,尼斯其他,0.0,0.0,0.0
+法国菜,Ital Caffe,Ital Caffe,0,尼斯其他,0.0,0.0,0.0
+法国菜,L'Auberge de l'Aire Saint Michel,L'Auberge de l'Aire Saint Michel,0,尼斯其他,0.0,0.0,0.0
+法国菜,L'Escale,L'Escale,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Cyliano,Le Cyliano,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Brasserie La Fontaine,Brasserie La Fontaine,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L'oustaou,L'oustaou,0,尼斯市中心,0.0,0.0,0.0
+法国菜,I'Escalinada,I'Escalinada,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Felix Faure,Felix Faure,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L'Avenue,L'Avenue,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Parad Ice,Parad Ice,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Taverne de la Cote Bleue,La Taverne de la Cote Bleue,0,尼斯海滨,0.0,0.0,0.0
+法国菜,HOTEL 29 MAISON DU SEMINAIRE,HOTEL 29 MAISON DU SEMINAIRE,0,尼斯其他,0.0,0.0,0.0
+法国菜,PC Bistronomie,PC Bistronomie,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Pizza du Cours,La Pizza du Cours,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Brasserie Gal,Brasserie Gal,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Balthazar,Le Balthazar,0,费布伦,0.0,0.0,0.0
+法国菜,Brasserie Les Ponchettes,Brasserie Les Ponchettes,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Sarl Mora,Sarl Mora,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Fregate,La Fregate,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Cayenne K'fe,Cayenne K'fe,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Canne A Sucre,La Canne A Sucre,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Bistrot de l'ecole de Nice,Bistrot de l'ecole de Nice,0,尼斯市中心,0.0,0.0,0.0
+法国菜,le 22 septembre,le 22 septembre,0,尼斯市中心,0.0,0.0,0.0
+法国菜,au pizzaiolo,au pizzaiolo,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Il Palio,Il Palio,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Poulailler,Le Poulailler,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Les Compagnons de la Grappe,Les Compagnons de la Grappe,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Cafe des Chineurs,Le Cafe des Chineurs,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Urban Café,Urban Café,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Cantine de Lulu,La Cantine de Lulu,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L'Ovale,L'Ovale,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Zinc,Le Zinc,0,尼斯市中心,0.0,0.0,0.0
+法国菜,C'factory,C'factory,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Piazza,La Piazza,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Chez Moi,Chez Moi,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Bistrot,Le Bistrot,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Restaurant L'Authentic,Restaurant L'Authentic,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L'Olivier,L'Olivier,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Temple Bar,Le Temple Bar,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Tartare nice,Le Tartare nice,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Marlon Cafe,Marlon Cafe,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Leo's,Leo's,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Come Chez Moi,Come Chez Moi,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Restaurant Franchin,Restaurant Franchin,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le vieux bistro,Le vieux bistro,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Terrasse du Plaza,La Terrasse du Plaza,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Wayne's Bar,Wayne's Bar,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Spuntino,Spuntino,0,尼斯海滨,0.0,0.0,0.0
+法国菜,L'Esquinade,L'Esquinade,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Cafe du marche nice,Cafe du marche nice,0,费布伦,0.0,0.0,0.0
+法国菜,Restaurant de PaRIS,Restaurant de PaRIS,0,尼斯火车站,0.0,0.0,0.0
+法国菜,Brasserie du Commerce,Brasserie du Commerce,0,尼斯其他,0.0,0.0,0.0
+法国菜,Lou Passagin,Lou Passagin,0,尼斯其他,0.0,0.0,0.0
+法国菜,Le Homy's,Le Homy's,0,尼斯其他,0.0,0.0,0.0
+法国菜,Restaurant du Golf de Nice,Restaurant du Golf de Nice,0,尼斯其他,0.0,0.0,0.0
+法国菜,La Gaite-Nallino,La Gaite-Nallino,0,尼斯其他,0.0,0.0,0.0
+法国菜,Le Moulin De L'Oliveraie,Le Moulin De L'Oliveraie,0,尼斯其他,0.0,0.0,0.0
+法国菜,Au Rendez-vous des Amis,Au Rendez-vous des Amis,0,尼斯其他,0.0,0.0,0.0
+法国菜,Restaurant Simon,Restaurant Simon,0,尼斯其他,0.0,0.0,0.0
+法国菜,Les Merisiers,Les Merisiers,0,,0.0,0.0,0.0
+法国菜,L'Estive Du Mercantour,L'Estive Du Mercantour,0,尼斯其他,0.0,0.0,0.0
+法国菜,O Bar à Thym,O Bar à Thym,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L'Abbeye,L'Abbeye,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Gioffredo,Le Gioffredo,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Vinomania,Vinomania,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Fragola nice,Fragola nice,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Karr,Karr,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Chez Panisse Nice,Chez Panisse Nice,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Mangez-moi,Mangez-moi,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Mise Au Verre,La Mise Au Verre,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Giuseppe and Pepino,Giuseppe and Pepino,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Paradis du Fruit,Le Paradis du Fruit,0,尼斯市中心,0.0,0.0,0.0
+法国菜,vin/vin,vin/vin,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Table d'oc,La Table d'oc,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Opera plage,Opera plage,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Quai,Le Quai,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Marche,Le Marche,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Boulangerie Table d'Hotes,Boulangerie Table d'Hotes,0,尼斯海滨,0.0,0.0,0.0
+法国菜,LE COMPTOIR Beef & Wine,LE COMPTOIR Beef & Wine,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Brasserie Saleya,Brasserie Saleya,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Lunel,Le Lunel,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le Lodge,Le Lodge,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Cafe du Palais,Cafe du Palais,0,尼斯海滨,0.0,0.0,0.0
+法国菜,L'Espad'Or,L'Espad'Or,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Be Bap,Be Bap,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Piccada,La Piccada,0,费布伦,0.0,0.0,0.0
+法国菜,"La Terrasse Restaurant, Le Meridien Nice","La Terrasse Restaurant, Le Meridien Nice",0,费布伦,0.0,0.0,0.0
+法国菜,Chez Cane,Chez Cane,0,费布伦,0.0,0.0,0.0
+法国菜,Steack House,Steack House,0,尼斯火车站,0.0,0.0,0.0
+法国菜,Le Romi's,Le Romi's,0,尼斯其他,0.0,0.0,0.0
+法国菜,Restaurant Les Palmiers,Restaurant Les Palmiers,0,尼斯其他,0.0,0.0,0.0
+法国菜,Febus,Febus,0,尼斯其他,0.0,0.0,0.0
+法国菜,Nissa Socca,Nissa Socca,0,尼斯市中心,0.0,0.0,0.0
+法国菜,L'Abbaye,L'Abbaye,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Chez Marius,Chez Marius,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Liber'tea,Le Liber'tea,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Mirador,Le Mirador,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Savanna,Le Savanna,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Liber'tea,Le Liber'tea,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Tat-O-Titon,Tat-O-Titon,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Alberti,Alberti,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Civette Garibaldi,Civette Garibaldi,0,尼斯市中心,0.0,0.0,0.0
+法国菜,"Le Sully, hotel bar and restaurant","Le Sully, hotel bar and restaurant",0,尼斯市中心,0.0,0.0,0.0
+法国菜,O'Staff,O'Staff,0,尼斯市中心,0.0,0.0,0.0
+法国菜,La Renaissance,La Renaissance,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Bar Tip Top,Bar Tip Top,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Cafe Promenade,Cafe Promenade,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Chez Blandine,Chez Blandine,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Pizzeria du Cours,Pizzeria du Cours,0,尼斯海滨,0.0,0.0,0.0
+法国菜,Le flore,Le flore,0,尼斯海滨,0.0,0.0,0.0
+法国菜,L'Eclat du Cours,L'Eclat du Cours,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Coupole,La Coupole,0,尼斯海滨,0.0,0.0,0.0
+法国菜,La Marie Belle,La Marie Belle,0,尼斯海滨,0.0,0.0,0.0
+法国菜,L'Inizio,L'Inizio,0,费布伦,0.0,0.0,0.0
+法国菜,Le Gaspacho,Le Gaspacho,0,尼斯火车站,0.0,0.0,0.0
+法国菜,Coco Beach,Coco Beach,0,尼斯其他,0.0,0.0,0.0
+法国菜,Le Saint Paul,Le Saint Paul,0,尼斯其他,0.0,0.0,0.0
+法国菜,Atrium,Atrium,0,尼斯其他,0.0,0.0,0.0
+法国菜,Brasserie Flo,Brasserie Flo,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Bar Olympia,Bar Olympia,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le mas des Oliviers,Le mas des Oliviers,0,尼斯其他,0.0,0.0,0.0
+法国菜,L'instant,L'instant,0,尼斯市中心,0.0,0.0,0.0
+法国菜,Le Gaglio,Le Gaglio,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Mama delices,Mama delices,0,尼斯海滨,0.0,0.0,0.0
+酒吧,Pub Carlone,Pub Carlone,0,费布伦,0.0,0.0,0.0
+酒吧,Jazz Comédie Club,Jazz Comédie Club,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Le Petit Bouchon,Le Petit Bouchon,0,尼斯海滨,0.0,0.0,0.0
+酒吧,New Eve,New Eve,0,尼斯海滨,0.0,0.0,0.0
+酒吧,Le Ghost Pub,Le Ghost Pub,0,尼斯海滨,0.0,0.0,0.0
+酒吧,Bacchus Coffee,Bacchus Coffee,0,尼斯市中心,0.0,0.0,0.0
+酒吧,La Clef D'or,La Clef D'or,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Le 111,Le 111,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Caffe Bianco,Caffe Bianco,0,尼斯市中心,0.0,0.0,0.0
+酒吧,L'Oree du Port,L'Oree du Port,0,尼斯海滨,0.0,0.0,0.0
+酒吧,L'atelier du port,L'atelier du port,0,尼斯市中心,0.0,0.0,0.0
+酒吧,cave wilson,cave wilson,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Le Cafe des Fleurs,Le Cafe des Fleurs,0,尼斯海滨,0.0,0.0,0.0
+酒吧,Jazz Cafe Nice,Jazz Cafe Nice,0,尼斯海滨,0.0,0.0,0.0
+酒吧,The Scotch Tea House,The Scotch Tea House,0,尼斯海滨,0.0,0.0,0.0
+酒吧,L'Hydropathe,L'Hydropathe,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Nice art bistro,Nice art bistro,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Terroir Divin,Terroir Divin,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Queenie,Queenie,0,尼斯海滨,0.0,0.0,0.0
+酒吧,Bistro Romain,Bistro Romain,0,尼斯海滨,0.0,0.0,0.0
+酒吧,Le Quebec,Le Quebec,0,尼斯海滨,0.0,0.0,0.0
+酒吧,Mac Mahon,Mac Mahon,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Traminots,Traminots,0,尼斯市中心,0.0,0.0,0.0
+酒吧,L'Autre Instant,L'Autre Instant,0,尼斯海滨,0.0,0.0,0.0
+酒吧,Ma Nolan's Nice Port,Ma Nolan's Nice Port,0,尼斯海滨,0.0,0.0,0.0
+酒吧,Le Glam,Le Glam,0,尼斯其他,0.0,0.0,0.0
+酒吧,Le Kalliste,Le Kalliste,0,尼斯其他,0.0,0.0,0.0
+酒吧,Le Garibaldi,Le Garibaldi,0,尼斯市中心,0.0,0.0,0.0
+酒吧,le garibaldi,le garibaldi,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Restaurant Le Bellanda,Restaurant Le Bellanda,0,尼斯海滨,0.0,0.0,0.0
+酒吧,Le Corsaire,Le Corsaire,0,尼斯海滨,0.0,0.0,0.0
+酒吧,La Torche,La Torche,0,尼斯其他,0.0,0.0,0.0
+酒吧,The Wine Room,The Wine Room,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Le Comptoir Central Electrique,Le Comptoir Central Electrique,0,尼斯市中心,0.0,0.0,0.0
+酒吧,Le Riviera,Le Riviera,0,尼斯其他,0.0,0.0,0.0
+酒吧,L'auberge du Midi,L'auberge du Midi,0,尼斯其他,0.0,0.0,0.0
+酒吧,Air de Fete,Air de Fete,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,La Favola,La Favola,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,La Massara,La Massara,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Attimi,Attimi,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Via Latina,Via Latina,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Arlequin Gelati Italiani,Arlequin Gelati Italiani,0,尼斯火车站,0.0,0.0,0.0
+意大利菜,Flavio Da Milano,Flavio Da Milano,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Lou Ballagio Restaurant Pizzeria,Lou Ballagio Restaurant Pizzeria,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,La Petite Table,La Petite Table,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Cibo Bistrot,Cibo Bistrot,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Aroma Caffe,Aroma Caffe,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,La Spianata Bolognese,La Spianata Bolognese,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Pizza Napoli,Pizza Napoli,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Pizza Arson,Pizza Arson,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Juniperus,Juniperus,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,L'intimo,L'intimo,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Portovenere,Portovenere,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,La Tartane,La Tartane,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Restaurant ARSON,Restaurant ARSON,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Restaurant-tapas ALTO,Restaurant-tapas ALTO,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,La Belle Excuse,La Belle Excuse,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,La Pescheria,La Pescheria,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Pizza Coco,Pizza Coco,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Villa D'este,Villa D'este,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,La Baie D'Amalfi,La Baie D'Amalfi,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Crema Di Cafe,Crema Di Cafe,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Paradice Restaurant Crêperie,Paradice Restaurant Crêperie,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,San Marco,San Marco,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Don Carlo,Don Carlo,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Bloom,Bloom,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Pomodorissimo,Pomodorissimo,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Ville de Sienne,Ville de Sienne,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Carpe Diem,Carpe Diem,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Casa della Piadina,Casa della Piadina,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Spizzico,Spizzico,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,SI Snack Italia,SI Snack Italia,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Palao Bistrot,Palao Bistrot,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Restaurant BUBA,Restaurant BUBA,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Geppetto,Geppetto,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Grill d'Or,Grill d'Or,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Davisto Restaurant Italien,Davisto Restaurant Italien,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Papayou,Papayou,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,La locanda,La locanda,0,尼斯其他,0.0,0.0,0.0
+意大利菜,La Casa di Giorgio,La Casa di Giorgio,0,尼斯其他,0.0,0.0,0.0
+意大利菜,Cyrnos,Cyrnos,0,尼斯其他,0.0,0.0,0.0
+意大利菜,Pucci Restaurant,Pucci Restaurant,0,尼斯其他,0.0,0.0,0.0
+意大利菜,Vino & Cucina,Vino & Cucina,0,尼斯其他,0.0,0.0,0.0
+意大利菜,La Vita e bella,La Vita e bella,0,尼斯其他,0.0,0.0,0.0
+意大利菜,Al Barattolo,Al Barattolo,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Atmosphere Cafe,Atmosphere Cafe,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Le Gustoso,Le Gustoso,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Piazza Papa,Piazza Papa,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Restaurant Le Bienvenue,Restaurant Le Bienvenue,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Ristorante Carboni,Ristorante Carboni,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Rossosapore,Rossosapore,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Acquapazza,Acquapazza,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,La Sambora,La Sambora,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Kabana,Kabana,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Scuderia,Scuderia,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,La Voglia,La Voglia,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Il Vicoletto,Il Vicoletto,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,L'Altra Bottiglia,L'Altra Bottiglia,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Restaurant le Duo,Restaurant le Duo,0,尼斯火车站,0.0,0.0,0.0
+意大利菜,La Pomme d'Adam,La Pomme d'Adam,0,尼斯其他,0.0,0.0,0.0
+意大利菜,Tapas and Pasta,Tapas and Pasta,0,尼斯其他,0.0,0.0,0.0
+意大利菜,L'Auberge de Theo,L'Auberge de Theo,0,尼斯其他,0.0,0.0,0.0
+意大利菜,restaurant gracie mille,restaurant gracie mille,0,尼斯其他,0.0,0.0,0.0
+意大利菜,Piccola Italia,Piccola Italia,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Bar du Coin,Bar du Coin,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Chez Rolando,Chez Rolando,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Pizza La Bella,Pizza La Bella,0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Di piu,Di piu,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,La Trattoria,La Trattoria,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Le Local,Le Local,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,La Pizza Cresci,La Pizza Cresci,0,尼斯其他,0.0,0.0,0.0
+意大利菜,"Warm Up, Restaurant du Bowling","Warm Up, Restaurant du Bowling",0,尼斯市中心,0.0,0.0,0.0
+意大利菜,Giannino,Giannino,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,Gigi tavola autentica,Gigi tavola autentica,0,尼斯海滨,0.0,0.0,0.0
+意大利菜,La Tour De Pizz',La Tour De Pizz',0,尼斯其他,0.0,0.0,0.0
+墨西哥菜,Restaurant ,Restaurant ,0,尼斯市中心,0.0,0.0,0.0
+墨西哥菜,Shapko Bar,Shapko Bar,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Cafe de Nice,Cafe de Nice,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Mama delices,Mama delices,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Le Voilier Plage,Le Voilier Plage,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Le Mori's Bar,Le Mori's Bar,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Pizza Bisso,Pizza Bisso,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Regence Plage by Radisson Blu,Regence Plage by Radisson Blu,0,费布伦,0.0,0.0,0.0
+其他西餐,La Reine des Quiches,La Reine des Quiches,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Oliviera,Oliviera,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le Vertigo,Le Vertigo,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Soccatram,Soccatram,0,尼斯其他,0.0,0.0,0.0
+其他西餐,Alize Cafe,Alize Cafe,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Cafe Gecko,Cafe Gecko,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,A l'heure du the,A l'heure du the,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,La Cuisine d'Andre,La Cuisine d'Andre,0,尼斯其他,0.0,0.0,0.0
+其他西餐,Le Nicois,Le Nicois,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Aloha Green,Aloha Green,0,尼斯其他,0.0,0.0,0.0
+其他西餐,Lou Break Kfe Nice,Lou Break Kfe Nice,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le Soleil d'Asmara,Le Soleil d'Asmara,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Sarao Restaurant & Bar,Sarao Restaurant & Bar,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,La Socca d'Or,La Socca d'Or,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Cave 35,Cave 35,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le Vingt4,Le Vingt4,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le 57 Mille,Le 57 Mille,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le Bosphore,Le Bosphore,0,尼斯火车站,0.0,0.0,0.0
+其他西餐,Casa Nissa,Casa Nissa,0,尼斯其他,0.0,0.0,0.0
+其他西餐,L'Union,L'Union,0,尼斯其他,0.0,0.0,0.0
+其他西餐,Addis Ababa,Addis Ababa,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Sense,Sense,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Alounak,Alounak,0,尼斯火车站,0.0,0.0,0.0
+其他西餐,La Havane,La Havane,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,La Cita,La Cita,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Carre Llorca,Carre Llorca,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le Ligure Nice Restaurant,Le Ligure Nice Restaurant,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,L'Americano,L'Americano,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,l' Oracio,l' Oracio,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le Tartar,Le Tartar,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Orient Tasty,Orient Tasty,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Rio Minho,Rio Minho,0,,0.0,0.0,0.0
+其他西餐,The Scotch Tea House,The Scotch Tea House,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Le Jardin du Windsor - WI Jungle,Le Jardin du Windsor - WI Jungle,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,le Barbecue,le Barbecue,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le Domino,Le Domino,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Vinivore,Vinivore,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Lou Tranvoue,Lou Tranvoue,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Gousto,Gousto,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Le 3e,Le 3e,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,lou tapas,lou tapas,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Cote Lounge,Cote Lounge,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Envy,Envy,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Le Rif,Le Rif,0,尼斯火车站,0.0,0.0,0.0
+其他西餐,LE DEMODE,LE DEMODE,0,尼斯其他,0.0,0.0,0.0
+其他西餐,Porturegal Traiteur,Porturegal Traiteur,0,尼斯其他,0.0,0.0,0.0
+其他西餐,La Baie D'Azur,La Baie D'Azur,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,L'EssenCiel Panoramic Restaurant,L'EssenCiel Panoramic Restaurant,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Hippopotamus,Hippopotamus,0,尼斯火车站,0.0,0.0,0.0
+其他西餐,L'Estilha,L'Estilha,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Snug & Cellar Bar,Snug & Cellar Bar,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Tapaloca,Tapaloca,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Dutch Touch,Dutch Touch,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Via Verde Salad & Mozzarella Bar,Via Verde Salad & Mozzarella Bar,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Deli Bo,Deli Bo,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Cave Marta,Cave Marta,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,L' Effervescence,L' Effervescence,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Cafe Restaurant de la Bourse,Cafe Restaurant de la Bourse,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Mariline Bellavia,Mariline Bellavia,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Taca d'Oli,Taca d'Oli,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Gaglio,Gaglio,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le caspien,Le caspien,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Urban Café,Urban Café,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Sapore,Sapore,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Villa Garibaldi,Villa Garibaldi,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Frites City,Frites City,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Snack time,Snack time,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,O'minho,O'minho,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Safran,Safran,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,El Merkado,El Merkado,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Ma Nolan's Vieux Nice,Ma Nolan's Vieux Nice,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,L'Autre Instant,L'Autre Instant,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Paddys Bar,Paddys Bar,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,La Terrasse du Plaza,La Terrasse du Plaza,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,La Plassa,La Plassa,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Chez Giorgio,Chez Giorgio,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Ma Nolan's Nice Port,Ma Nolan's Nice Port,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,L'Esquinade,L'Esquinade,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,La Terrasse du Colonial Cafe,La Terrasse du Colonial Cafe,0,费布伦,0.0,0.0,0.0
+其他西餐,Chez Suzanne,Chez Suzanne,0,尼斯火车站,0.0,0.0,0.0
+其他西餐,Lou Pantail,Lou Pantail,0,尼斯其他,0.0,0.0,0.0
+其他西餐,Entre 2,Entre 2,0,尼斯其他,0.0,0.0,0.0
+其他西餐,Le Resto,Le Resto,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Restaurant La Mama,Restaurant La Mama,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Bistrot du Pin,Bistrot du Pin,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Gossip Bar Nice,Gossip Bar Nice,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le Sporting,Le Sporting,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Akathor,Akathor,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Le Timgad,Le Timgad,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Le Lodge,Le Lodge,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,La Villa Restaurant,La Villa Restaurant,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,La Piccada,La Piccada,0,费布伦,0.0,0.0,0.0
+其他西餐,Valrose Café,Valrose Café,0,尼斯其他,0.0,0.0,0.0
+其他西餐,Un Service Presque Parfait,Un Service Presque Parfait,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Cafe de La Place,Cafe de La Place,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le Foundouk,Le Foundouk,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Quick Burger,Quick Burger,0,尼斯市中心,0.0,0.0,0.0
+其他西餐,Le Pain a Table,Le Pain a Table,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,La Banquise,La Banquise,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,Zucca Magica Restaurant,Zucca Magica Restaurant,0,尼斯海滨,0.0,0.0,0.0
+其他西餐,McDonald's Nice Restaurant,McDonald's Nice Restaurant,0,尼斯火车站,0.0,0.0,0.0
+其他西餐,La terrasse,La terrasse,0,尼斯其他,0.0,0.0,0.0
+其他西餐,Bellota House,Bellota House,0,尼斯海滨,0.0,0.0,0.0
+中餐,Comme en Chine,Comme en Chine,0,尼斯海滨,0.0,0.0,0.0
+中餐,Le Shanghai,Le Shanghai,0,尼斯市中心,0.0,0.0,0.0
+中餐,Les secrets de Lili,Les secrets de Lili,0,尼斯火车站,0.0,0.0,0.0
+中餐,喜鹊居酒楼,喜鹊居酒楼,0,尼斯市中心,6.8,6.8,6.8
+中餐,Restaurant China,Restaurant China,0,尼斯火车站,0.0,0.0,0.0
+中餐,Workshop中国锅,Workshop中国锅,0,尼斯市中心,7.0,7.0,6.9
+中餐,Pekin Restaurant,Pekin Restaurant,0,尼斯市中心,6.8,6.8,7.7
+中餐,喜鹊居大酒楼,喜鹊居大酒楼,0,尼斯市中心,7.2,7.2,7.2
+中餐,Dan-Ly,Dan-Ly,0,尼斯火车站,0.0,0.0,0.0
+中餐,Saveurs D'Asie,Saveurs D'Asie,0,尼斯火车站,0.0,0.0,0.0
+中餐,China Town,China Town,0,尼斯其他,0.0,0.0,0.0
+中餐,Resto Leopard,Resto Leopard,0,尼斯火车站,0.0,0.0,0.0
+中餐,Panda Chine熊猫川菜馆,Panda Chine熊猫川菜馆,0,,0.0,0.0,0.0
+日韩料理,Campo di Fiori,Campo di Fiori,0,尼斯海滨,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,Arito Sushi,Arito Sushi,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,Jun Nice,Jun Nice,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,Kei's Passion,Kei's Passion,0,尼斯海滨,0.0,0.0,0.0
+日韩料理,Sushi Spirit NICE,Sushi Spirit NICE,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,Moschi sushi,Moschi sushi,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,kamogawa,kamogawa,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,I-Sushi,I-Sushi,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,100% Sushi,100% Sushi,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,Saison,Saison,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,By Sushi,By Sushi,0,费布伦,0.0,0.0,0.0
+日韩料理,Sushiya,Sushiya,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,Yami,Yami,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,Zen,Zen,0,尼斯火车站,0.0,0.0,0.0
+日韩料理,O'Sushi NICE ETOILE,O'Sushi NICE ETOILE,0,尼斯市中心,0.0,0.0,0.0
+日韩料理,Qiwi Sushi,Qiwi Sushi,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,Restaurant La Demi-Lune,Restaurant La Demi-Lune,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Festin d'Asie,Festin d'Asie,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Pho Paganini,Pho Paganini,0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,panasia,panasia,0,尼斯海滨,7.7,7.7,7.7
+更多亚洲菜,Mandarin (Le),Mandarin (Le),0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Spasso,Spasso,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Phi-Long,Phi-Long,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,O Mai,O Mai,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Baguette d'Argent,Baguette d'Argent,0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,May Ly,May Ly,0,费布伦,0.0,0.0,0.0
+更多亚洲菜,Wokshop,Wokshop,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Baguettes de bambou (Les),Baguettes de bambou (Les),0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,Crazy Wok,Crazy Wok,0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,La riviere des parfums,La riviere des parfums,0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,Lao Viet,Lao Viet,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Ho Nems Delices,Ho Nems Delices,0,尼斯其他,0.0,0.0,0.0
+更多亚洲菜,New Pai Lin,New Pai Lin,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,Banh Mei,Banh Mei,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Mad'In Viet,Mad'In Viet,0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,Thang Long,Thang Long,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Le Relais d'Asie,Le Relais d'Asie,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Restaurant Hanoi,Restaurant Hanoi,0,尼斯其他,0.0,0.0,0.0
+更多亚洲菜,Le Dragon Bleu,Le Dragon Bleu,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,La Mascotte,La Mascotte,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,bharati,bharati,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Lal Qila,Lal Qila,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,Bienvenue en Asie,Bienvenue en Asie,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,le Delhi Belhi,le Delhi Belhi,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,Phnom Penh,Phnom Penh,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,Chez Mi Mi,Chez Mi Mi,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Hymalaya,Hymalaya,0,费布伦,0.0,0.0,0.0
+更多亚洲菜,Wok 2 Nice,Wok 2 Nice,0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,Noori's Restaurant,Noori's Restaurant,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,AngKora,AngKora,0,尼斯其他,0.0,0.0,0.0
+更多亚洲菜,Plage Beau Rivage,Plage Beau Rivage,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,曼谷餐厅,曼谷餐厅,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Spice 7,Spice 7,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,pai-lin express,pai-lin express,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Sushi N Tea,Sushi N Tea,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,"Le Dragon D'Or, Restaurant Asiatique","Le Dragon D'Or, Restaurant Asiatique",0,尼斯其他,0.0,0.0,0.0
+更多亚洲菜,Indian Lounge,Indian Lounge,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Délices de Turquie,Délices de Turquie,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,Le Banthai,Le Banthai,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,La Maison d'Imma,La Maison d'Imma,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Tien Dat Tan,Tien Dat Tan,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,King Sushi,King Sushi,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Daar Djerba,Daar Djerba,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,Nha Trang,Nha Trang,0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,Soleil d'Asie,Soleil d'Asie,0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,Tandoori Flame,Tandoori Flame,0,尼斯其他,0.0,0.0,0.0
+更多亚洲菜,Adana,Adana,0,尼斯其他,0.0,0.0,0.0
+更多亚洲菜,Havelie,Havelie,0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,Pera,Pera,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,pamir,pamir,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Royal Kebab,Royal Kebab,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Indian Fast Food,Indian Fast Food,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Fuji,Fuji,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Le Bedouin - Chez Michel,Le Bedouin - Chez Michel,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Le Shalimar,Le Shalimar,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Suwon Korean Barbecue,Suwon Korean Barbecue,0,尼斯市中心,0.0,0.0,0.0
+更多亚洲菜,Achiana,Achiana,0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,Asia Food,Asia Food,0,尼斯其他,0.0,0.0,0.0
+更多亚洲菜,Aroy Thai,Aroy Thai,0,尼斯海滨,0.0,0.0,0.0
+更多亚洲菜,Fleur De Jade,Fleur De Jade,0,尼斯火车站,0.0,0.0,0.0
+更多亚洲菜,Madura,Madura,0,尼斯火车站,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,尼斯海滨,7.7,7.7,7.7
+快餐简餐,Chez L'Hollandais,Chez L'Hollandais,0,尼斯海滨,0.0,0.0,0.0
+快餐简餐,尼斯熊猫川菜中餐厅,尼斯熊猫川菜中餐厅,0,,7.7,7.7,7.7
+快餐简餐,Roadhouse,Roadhouse,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Rotisserie du Palais - Chez Norbert,Rotisserie du Palais - Chez Norbert,0,尼斯海滨,0.0,0.0,0.0
+快餐简餐,L instant T,L instant T,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Le 36 Bonap,Le 36 Bonap,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Bel Oeil,Bel Oeil,0,尼斯海滨,0.0,0.0,0.0
+快餐简餐,Le Woody's,Le Woody's,0,尼斯火车站,0.0,0.0,0.0
+快餐简餐,Caffé dell'Arte,Caffé dell'Arte,0,尼斯海滨,0.0,0.0,0.0
+快餐简餐,Nice Burger,Nice Burger,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Diavoletto,Diavoletto,0,尼斯海滨,0.0,0.0,0.0
+快餐简餐,Le Little Kfe,Le Little Kfe,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Polly and Cie,Polly and Cie,0,尼斯其他,0.0,0.0,0.0
+快餐简餐,BELL ITALIA,BELL ITALIA,0,尼斯海滨,0.0,0.0,0.0
+快餐简餐,Cheesesteakhouse,Cheesesteakhouse,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,The Cheese Steak House,The Cheese Steak House,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Le Sweeties,Le Sweeties,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Aux Délices de Lati,Aux Délices de Lati,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Debin ur Begad,Debin ur Begad,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,NOMAD Bar,NOMAD Bar,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Juke House Cafe,Juke House Cafe,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Le Statu.co,Le Statu.co,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Domenichine,Domenichine,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,La Vigna,La Vigna,0,尼斯海滨,0.0,0.0,0.0
+快餐简餐,Texas Truck,Texas Truck,0,尼斯其他,0.0,0.0,0.0
+快餐简餐,Buffalo Grill,Buffalo Grill,0,尼斯海滨,0.0,0.0,0.0
+快餐简餐,Emilie's Cookies,Emilie's Cookies,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Coffee Time,Coffee Time,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Kililie's Café,Kililie's Café,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Cafe Helene De Troie,Cafe Helene De Troie,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Bagel Story,Bagel Story,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,La Cave Rembrandt,La Cave Rembrandt,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,Le Blast,Le Blast,0,尼斯海滨,0.0,0.0,0.0
+快餐简餐,Wayne's Bar,Wayne's Bar,0,尼斯海滨,0.0,0.0,0.0
+快餐简餐,West Coast Diner,West Coast Diner,0,尼斯其他,0.0,0.0,0.0
+快餐简餐,De Vallis Cafe,De Vallis Cafe,0,尼斯市中心,0.0,0.0,0.0
+快餐简餐,50's Happy Diner,50's Happy Diner,0,尼斯市中心,0.0,0.0,0.0
+海鲜,Cafe De Turin,Cafe De Turin,322,尼斯市中心,0.0,0.0,0.0
+海鲜,Le Grand Bleu,Le Grand Bleu,0,尼斯海滨,7.3,7.3,7.3
+海鲜,El FurIoso,El FurIoso,0,尼斯市中心,6.7,6.7,6.7
+海鲜,La Grande Bleue,La Grande Bleue,0,尼斯火车站,0.0,0.0,0.0
+海鲜,Colin Coquillages,Colin Coquillages,0,尼斯其他,0.0,0.0,0.0
+海鲜,La Gauloise,La Gauloise,0,尼斯其他,0.0,0.0,0.0
+海鲜,Le Festival de la Moule,Le Festival de la Moule,0,尼斯海滨,0.0,0.0,0.0
+海鲜,La Grande Voile,La Grande Voile,0,尼斯海滨,0.0,0.0,0.0
+海鲜,L'Ecurie Restaurant,L'Ecurie Restaurant,0,尼斯市中心,0.0,0.0,0.0
+海鲜,Le Virginie,Le Virginie,0,尼斯市中心,0.0,0.0,0.0
+海鲜,Bistrot De L'Opera,Bistrot De L'Opera,0,尼斯其他,0.0,0.0,0.0
+烧烤,Beef House Nice,Beef House Nice,0,尼斯海滨,0.0,0.0,0.0
+烧烤,Bistrot des II Horloges,Bistrot des II Horloges,0,尼斯其他,0.0,0.0,0.0
+比萨,Da Vinci,Da Vinci,0,尼斯海滨,0.0,0.0,0.0
+比萨,Chez Cindy et Dominique,Chez Cindy et Dominique,0,尼斯市中心,0.0,0.0,0.0
+比萨,Le Jardin du Ray,Le Jardin du Ray,0,尼斯其他,0.0,0.0,0.0
+比萨,Pizza Gillou,Pizza Gillou,0,尼斯市中心,0.0,0.0,0.0
+比萨,L'Atelier de Julien,L'Atelier de Julien,0,尼斯市中心,0.0,0.0,0.0
+比萨,La Flara,La Flara,0,尼斯市中心,0.0,0.0,0.0
+比萨,Master Home (Le),Master Home (Le),0,尼斯市中心,0.0,0.0,0.0
+比萨,Pizza Paradise,Pizza Paradise,0,尼斯市中心,0.0,0.0,0.0
+比萨,Les Amoureux,Les Amoureux,0,尼斯海滨,0.0,0.0,0.0
+比萨,La Regina Pizza,La Regina Pizza,0,尼斯其他,0.0,0.0,0.0
+比萨,Daddy's pizza,Daddy's pizza,0,尼斯市中心,0.0,0.0,0.0
+比萨,Pizza Pili,Pizza Pili,0,尼斯海滨,0.0,0.0,0.0
+比萨,O FOUR NO,O FOUR NO,0,尼斯其他,0.0,0.0,0.0
+比萨,Marcus et Moi,Marcus et Moi,0,尼斯其他,0.0,0.0,0.0
+比萨,Chez Minet,Chez Minet,0,尼斯其他,0.0,0.0,0.0
+比萨,Le Pellegrini,Le Pellegrini,0,尼斯市中心,0.0,0.0,0.0
+比萨,Bip Bip Pizza,Bip Bip Pizza,0,尼斯市中心,0.0,0.0,0.0
+比萨,Nexus Caffe,Nexus Caffe,0,尼斯海滨,0.0,0.0,0.0
+比萨,Brasserie la Lorraine,Brasserie la Lorraine,0,尼斯海滨,0.0,0.0,0.0
+比萨,Gigi tavola autentica,Gigi tavola autentica,0,尼斯海滨,0.0,0.0,0.0
+比萨,Baila Pizza,Baila Pizza,0,尼斯其他,0.0,0.0,0.0
+面包甜点,Fenocchio,Fenocchio,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Creperie Ty-Jo,Creperie Ty-Jo,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Arlequin Gelati Italiani,Arlequin Gelati Italiani,0,尼斯火车站,0.0,0.0,0.0
+面包甜点,Glacier Roberto 1er,Glacier Roberto 1er,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Amorino Cafe,Amorino Cafe,0,尼斯海滨,0.0,0.0,0.0
+面包甜点,Crema di Gelato,Crema di Gelato,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,La Caze des Saveurs,La Caze des Saveurs,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Gelateria Meraviglia,Gelateria Meraviglia,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,La Chocolaterie du Palasi,La Chocolaterie du Palasi,0,尼斯海滨,0.0,0.0,0.0
+面包甜点,Le cafe du port,Le cafe du port,0,尼斯海滨,0.0,0.0,0.0
+面包甜点,"Oui, jelato","Oui, jelato",0,尼斯海滨,0.0,0.0,0.0
+面包甜点,Serrain Cappa,Serrain Cappa,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Pastry Plaisirs,Pastry Plaisirs,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Gelateria Azzurro,Gelateria Azzurro,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Pop-o-Thym,Pop-o-Thym,0,尼斯海滨,0.0,0.0,0.0
+面包甜点,LA VOIX DE SON MAITRE,LA VOIX DE SON MAITRE,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Haagen Dazs,Haagen Dazs,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Le Corentin,Le Corentin,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Casa del churros,Casa del churros,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Froody,Froody,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Galetaria Pinocchio,Galetaria Pinocchio,0,尼斯海滨,0.0,0.0,0.0
+面包甜点,Creperie Le Trimaran,Creperie Le Trimaran,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Nice Life International Cafe and Meeting Place,Nice Life International Cafe and Meeting Place,0,尼斯海滨,0.0,0.0,0.0
+面包甜点,Fournil St Francois,Fournil St Francois,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Cayenne K'fe,Cayenne K'fe,0,尼斯海滨,0.0,0.0,0.0
+面包甜点,Gelateria Pinocchio,Gelateria Pinocchio,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Le Coin Quotidien,Le Coin Quotidien,0,尼斯海滨,0.0,0.0,0.0
+面包甜点,Amarino,Amarino,0,尼斯其他,0.0,0.0,0.0
+面包甜点,Transat,Transat,0,尼斯市中心,0.0,0.0,0.0
+面包甜点,Patisserie Lac,Patisserie Lac,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Luna Rossa,Luna Rossa,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Flaveur,Flaveur,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Villa d'Este Restaurant,Villa d'Este Restaurant,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Table Alziari,La Table Alziari,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Hippopotamus,Hippopotamus,0,尼斯市中心,0.0,0.0,0.0
+其他美食,L'amour dans le four - Restaurant,L'amour dans le four - Restaurant,0,尼斯其他,7.2,7.2,7.2
+其他美食,Paul,Paul,0,尼斯其他,7.5,6.7,5.9
+其他美食,Brasserie L'F,Brasserie L'F,0,尼斯海滨,0.0,0.0,0.0
+其他美食,L'Escalinada,L'Escalinada,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Lu fran calin,Lu fran calin,0,尼斯市中心,0.0,0.0,0.0
+其他美食,GEPETTO,GEPETTO,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Luc Salsedo,Luc Salsedo,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Bistrot de la Vieille,Le Bistrot de la Vieille,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Art Gourmand (L'),Art Gourmand (L'),0,尼斯市中心,0.0,0.0,0.0
+其他美食,esterinada,esterinada,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Chez Acchiardo,Chez Acchiardo,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Pizza Fiorentina,Pizza Fiorentina,0,费布伦,0.0,0.0,0.0
+其他美食,Pecherie Saleya,Pecherie Saleya,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Restaurant Indochina,Restaurant Indochina,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Butterfly,Butterfly,0,尼斯其他,0.0,0.0,0.0
+其他美食,Les Filles,Les Filles,0,尼斯市中心,0.0,0.0,0.0
+其他美食,LE BOUDOIR,LE BOUDOIR,0,,0.0,0.0,0.0
+其他美食,Chez Vero,Chez Vero,0,费布伦,0.0,0.0,0.0
+其他美食,L'Antica,L'Antica,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Bistrot Gourmand,Bistrot Gourmand,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Iskender Kebab,Iskender Kebab,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Lafayette (Le),Lafayette (Le),0,尼斯市中心,0.0,0.0,0.0
+其他美食,L'Eden,L'Eden,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Pecheurs (Les),Pecheurs (Les),0,尼斯海滨,0.0,0.0,0.0
+其他美食,Kobe (Le),Kobe (Le),0,尼斯市中心,0.0,0.0,0.0
+其他美食,Lettuce & co,Lettuce & co,0,尼斯其他,0.0,0.0,0.0
+其他美食,Le Crazy ,Le Crazy ,0,尼斯市中心,0.0,0.0,0.0
+其他美食,L'Orchidee,L'Orchidee,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Ferme Fromagere,La Ferme Fromagere,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Sun Sea,Sun Sea,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Mayame - Nice,Mayame - Nice,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Boulangerie Gosset,Boulangerie Gosset,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Copropriete 10 Avenue Jean Medecin,Copropriete 10 Avenue Jean Medecin,0,尼斯市中心,0.0,0.0,0.0
+其他美食,la paimpolaise,la paimpolaise,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Pizz'Burger,Pizz'Burger,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Casa Pasta,La Casa Pasta,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Sixtepizza,Sixtepizza,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Eelam,Eelam,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Poseidon,Poseidon,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Comptoir,Le Comptoir,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Classic,Le Classic,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Boulangerie Imperiale,Boulangerie Imperiale,0,尼斯其他,0.0,0.0,0.0
+其他美食,Cote Pizza,Cote Pizza,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Le Farniente Restaurant,Le Farniente Restaurant,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Les Deux Canailles,Les Deux Canailles,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Pinkoffee,Pinkoffee,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Take off Pizza,Take off Pizza,0,费布伦,0.0,0.0,0.0
+其他美食,La Rossettisserie,La Rossettisserie,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Au moulin enchante,Au moulin enchante,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Au Petit Libanais,Au Petit Libanais,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Saint Jospeh Restaurant,Saint Jospeh Restaurant,0,尼斯其他,0.0,0.0,0.0
+其他美食,Chez Rene Socca,Chez Rene Socca,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Mercure Nice Promenade des Anglais Restaurant,Mercure Nice Promenade des Anglais Restaurant,0,尼斯海滨,0.0,0.0,0.0
+其他美食,GOOZII,GOOZII,0,,0.0,0.0,0.0
+其他美食,Sotto Sopra,Sotto Sopra,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Patisserie Chez Maitre Pierre,Patisserie Chez Maitre Pierre,0,尼斯海滨,0.0,0.0,0.0
+其他美食,La Pignatiera,La Pignatiera,0,尼斯其他,0.0,0.0,0.0
+其他美食,VIN SUR VIN,VIN SUR VIN,0,,0.0,0.0,0.0
+其他美食,A Buteghinna,A Buteghinna,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Salon de The Serge Serain,Salon de The Serge Serain,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Chez Mireille,Chez Mireille,0,尼斯市中心,0.0,0.0,0.0
+其他美食,L'Ardoise,L'Ardoise,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Focaccia chez Eric,La Focaccia chez Eric,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Dauphin Nicois,Le Dauphin Nicois,0,费布伦,0.0,0.0,0.0
+其他美食,Le Saint Geran,Le Saint Geran,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Aradhana,Aradhana,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Chez Domi,Chez Domi,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Restaurant L'Estocaficada,Restaurant L'Estocaficada,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Voci,Le Voci,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Lou Bistrot Nissart,Lou Bistrot Nissart,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Farfalla Br et Restaurant,Le Farfalla Br et Restaurant,0,尼斯市中心,0.0,0.0,0.0
+其他美食,LA TERRASSE,LA TERRASSE,0,,0.0,0.0,0.0
+其他美食,China Fast Food,China Fast Food,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Coquillages Andre,Coquillages Andre,0,尼斯其他,0.0,0.0,0.0
+其他美食,Cambodia,Cambodia,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Campanile Restaurant,Campanile Restaurant,0,尼斯其他,0.0,0.0,0.0
+其他美食,Restaurant Barracuda,Restaurant Barracuda,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Chez Jeff,Chez Jeff,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Chez Pipo,Chez Pipo,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Specialites Nicoise,Specialites Nicoise,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Restaurant Djourdjoura,Restaurant Djourdjoura,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Restaurant Hot Pot,Restaurant Hot Pot,0,尼斯火车站,0.0,0.0,0.0
+其他美食,la maison de marie,la maison de marie,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Pizza Carlone,Pizza Carlone,0,费布伦,0.0,0.0,0.0
+其他美食,Le grand balcon,Le grand balcon,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Castello,Le Castello,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Le Verger,Le Verger,0,尼斯其他,0.0,0.0,0.0
+其他美食,Chez Juliette,Chez Juliette,0,尼斯市中心,0.0,0.0,0.0
+其他美食,le macassar,le macassar,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Nocy-Be,Nocy-Be,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Kylian's,Le Kylian's,0,尼斯其他,0.0,0.0,0.0
+其他美食,Brasserie Le Gambetta,Brasserie Le Gambetta,0,尼斯其他,0.0,0.0,0.0
+其他美食,Le Regal,Le Regal,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Alexander's,Alexander's,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Villa Corleone,Villa Corleone,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Lechem Chamaym 2,Lechem Chamaym 2,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Barachois (Le),Barachois (Le),0,尼斯火车站,0.0,0.0,0.0
+其他美食,Chez Loulou,Chez Loulou,0,尼斯其他,0.0,0.0,0.0
+其他美食,Sud (Le),Sud (Le),0,尼斯市中心,0.0,0.0,0.0
+其他美食,Ark,Ark,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Castel Plage Restaurant,Castel Plage Restaurant,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Hostel Faubourg Montmartre,Hostel Faubourg Montmartre,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Le Sansas,Le Sansas,0,尼斯海滨,0.0,0.0,0.0
+其他美食,La Ribote II,La Ribote II,0,费布伦,0.0,0.0,0.0
+其他美食,La Broche,La Broche,0,尼斯火车站,0.0,0.0,0.0
+其他美食,libellule rouge,libellule rouge,0,尼斯其他,0.0,0.0,0.0
+其他美食,Fleur Cafe,Fleur Cafe,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Au Roi David,Au Roi David,0,尼斯海滨,0.0,0.0,0.0
+其他美食,La Socca,La Socca,0,费布伦,0.0,0.0,0.0
+其他美食,Planet Mafe,Planet Mafe,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Pizza du Mont Boron,Pizza du Mont Boron,0,尼斯其他,0.0,0.0,0.0
+其他美食,Bar le 115,Bar le 115,0,尼斯其他,0.0,0.0,0.0
+其他美食,La Maioun,La Maioun,0,尼斯其他,0.0,0.0,0.0
+其他美食,Le Petit Zinc,Le Petit Zinc,0,尼斯其他,0.0,0.0,0.0
+其他美食,Pizza du Soleil,Pizza du Soleil,0,尼斯其他,0.0,0.0,0.0
+其他美食,OLIVE&AMP;ARTICHAUT,OLIVE&AMP;ARTICHAUT,0,,0.0,0.0,0.0
+其他美食,DAVISTO,DAVISTO,0,,0.0,0.0,0.0
+其他美食,RESTAURANT JAN,RESTAURANT JAN,0,,0.0,0.0,0.0
+其他美食,LA FOCACCIA,LA FOCACCIA,0,,0.0,0.0,0.0
+其他美食,L'INDYANA,L'INDYANA,0,,0.0,0.0,0.0
+其他美食,LA CANTINE DE MATTHIEU,LA CANTINE DE MATTHIEU,0,,0.0,0.0,0.0
+其他美食,CAFé OPéRA,CAFé OPéRA,0,,0.0,0.0,0.0
+其他美食,Le Parasol,Le Parasol,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Restaurant de l'Horloge,Restaurant de l'Horloge,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Restaurant du Gesu,Restaurant du Gesu,0,尼斯市中心,0.0,0.0,0.0
+其他美食,L'Annexe,L'Annexe,0,尼斯其他,0.0,0.0,0.0
+其他美食,Hi Beach,Hi Beach,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Cocodile,Le Cocodile,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Les Caves du Bubbles,Les Caves du Bubbles,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Blue Beach Restaurant,Blue Beach Restaurant,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Palais de la Mediterranee Restaurant,Le Palais de la Mediterranee Restaurant,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Pizzeria la Nicoise,Pizzeria la Nicoise,0,尼斯其他,0.0,0.0,0.0
+其他美食,La Pierre Bise,La Pierre Bise,0,尼斯海滨,0.0,0.0,0.0
+其他美食,CASTING CAFE,CASTING CAFE,0,,0.0,0.0,0.0
+其他美食,RESTAURANT LE MARRAKECH,RESTAURANT LE MARRAKECH,0,,0.0,0.0,0.0
+其他美食,Restaurant L'Estrilha,Restaurant L'Estrilha,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Rubis,Le Rubis,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Hard Rock Cafe Nice,Hard Rock Cafe Nice,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Diva,Diva,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Pub Thor,Pub Thor,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Jardins du Capitole (Les),Jardins du Capitole (Les),0,尼斯海滨,0.0,0.0,0.0
+其他美食,Lollywood Bollywood,Lollywood Bollywood,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Place Rossetti,La Place Rossetti,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Casa Mia,Casa Mia,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Lao Vientiane,Lao Vientiane,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Yuzu Sushi Bar,Yuzu Sushi Bar,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Creamy Cow,Creamy Cow,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Peccati Di Gola,Peccati Di Gola,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Bar de la Bourse,Bar de la Bourse,0,尼斯市中心,0.0,0.0,0.0
+其他美食,L'Indyana,L'Indyana,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Bar a Manger,Le Bar a Manger,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Autre Chose Chez Christine,Autre Chose Chez Christine,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Chez Fabien,Chez Fabien,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Rive Droite,Rive Droite,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Restaurant Japonais Amada,Restaurant Japonais Amada,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Au Bretzel Chaud,Au Bretzel Chaud,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Pasta-Natou,Pasta-Natou,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Casbah (La),Casbah (La),0,尼斯市中心,0.0,0.0,0.0
+其他美食,Dai Long,Dai Long,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Saveurs & Anthocyanes,Saveurs & Anthocyanes,0,尼斯市中心,0.0,0.0,0.0
+其他美食,M'pizza,M'pizza,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Royal Kashmir,Royal Kashmir,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Gratta,La Gratta,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Les Distilleries Ideales,Les Distilleries Ideales,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Marlin,Le Marlin,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Fjord,Fjord,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Pappagallo,Pappagallo,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Cuisine Des Iles,Cuisine Des Iles,0,费布伦,0.0,0.0,0.0
+其他美食,Pizza Sun One,Pizza Sun One,0,费布伦,0.0,0.0,0.0
+其他美食,Aux Saveurs du Liban - Traiteur Libanais,Aux Saveurs du Liban - Traiteur Libanais,0,费布伦,0.0,0.0,0.0
+其他美食,La Table du Maroc Chez Oucine,La Table du Maroc Chez Oucine,0,尼斯火车站,0.0,0.0,0.0
+其他美食,La Cle des Champs,La Cle des Champs,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Le Circuit,Le Circuit,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Restaurant Saetone,Restaurant Saetone,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Lou Trambalan,Lou Trambalan,0,尼斯其他,0.0,0.0,0.0
+其他美食,Kiosque TinTin,Kiosque TinTin,0,尼斯其他,0.0,0.0,0.0
+其他美食,La Sousta,La Sousta,0,尼斯其他,0.0,0.0,0.0
+其他美食,L'Ambroisie,L'Ambroisie,0,尼斯其他,0.0,0.0,0.0
+其他美食,Côté Sud,Côté Sud,0,尼斯其他,0.0,0.0,0.0
+其他美食,Mother India,Mother India,0,尼斯其他,0.0,0.0,0.0
+其他美食,Aux Petits Plaisirs,Aux Petits Plaisirs,0,尼斯其他,0.0,0.0,0.0
+其他美食,Olympic L',Olympic L',0,尼斯其他,0.0,0.0,0.0
+其他美食,La Briciola,La Briciola,0,尼斯其他,0.0,0.0,0.0
+其他美食,Le Rendez-Vous,Le Rendez-Vous,0,尼斯其他,0.0,0.0,0.0
+其他美食,L'Autobus,L'Autobus,0,尼斯其他,0.0,0.0,0.0
+其他美食,Merenda,Merenda,0,尼斯其他,0.0,0.0,0.0
+其他美食,SAVEURS ET ANTHOCYANES,SAVEURS ET ANTHOCYANES,0,,0.0,0.0,0.0
+其他美食,L'ANE ROUGE,L'ANE ROUGE,0,,0.0,0.0,0.0
+其他美食,LA RéSERVE DE NICE,LA RéSERVE DE NICE,0,,0.0,0.0,0.0
+其他美食,CARRé LLORCA,CARRé LLORCA,0,,0.0,0.0,0.0
+其他美食,RESTAURANT GéSU,RESTAURANT GéSU,0,,0.0,0.0,0.0
+其他美食,LE SOCRATE,LE SOCRATE,0,,0.0,0.0,0.0
+其他美食,LE SIèCLE,LE SIèCLE,0,,0.0,0.0,0.0
+其他美食,LA MISE AU VERRE,LA MISE AU VERRE,0,,0.0,0.0,0.0
+其他美食,RESTAURANT PALOMA CANTINE,RESTAURANT PALOMA CANTINE,0,,0.0,0.0,0.0
+其他美食,DI PIù,DI PIù,0,,0.0,0.0,0.0
+其他美食,La Shounga,La Shounga,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Love,Love,0,尼斯海滨,0.0,0.0,0.0
+其他美食,La Renaissance,La Renaissance,0,尼斯市中心,0.0,0.0,0.0
+其他美食,O'Palermo,O'Palermo,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Suite,La Suite,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Cafe del Arte,Cafe del Arte,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Florida Beach,Florida Beach,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Royal Hotel Restaurant,Le Royal Hotel Restaurant,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Lou Nissart,Lou Nissart,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Imperial Buffet,Imperial Buffet,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Restaurant la Casita,Restaurant la Casita,0,尼斯其他,0.0,0.0,0.0
+其他美食,Mister Pizza,Mister Pizza,0,尼斯其他,0.0,0.0,0.0
+其他美食,La Claire Fontaine,La Claire Fontaine,0,尼斯市中心,0.0,0.0,0.0
+其他美食,le romarin,le romarin,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Novotal Cafe,Novotal Cafe,0,尼斯市中心,0.0,0.0,0.0
+其他美食,brasserie ALEXIS,brasserie ALEXIS,0,尼斯其他,0.0,0.0,0.0
+其他美食,O'Quotidien,O'Quotidien,0,尼斯其他,0.0,0.0,0.0
+其他美食,Le Transsiberien,Le Transsiberien,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Bar des Oiseaux,Bar des Oiseaux,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Romarin,Le Romarin,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Emma's Cupcakes Nice,Emma's Cupcakes Nice,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Cafe Le Notre,Cafe Le Notre,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Victoria,Le Victoria,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Feniera (La),Feniera (La),0,尼斯市中心,0.0,0.0,0.0
+其他美食,Villa Paradis,Villa Paradis,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Subway,Subway,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Kitchena,La Kitchena,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Big Ben,Big Ben,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Cosy,Le Cosy,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Part des Anges,La Part des Anges,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Petit Napoleon,Le Petit Napoleon,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Pinxcho,Pinxcho,0,尼斯市中心,0.0,0.0,0.0
+其他美食,L'Etage,L'Etage,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Lou Balico,Lou Balico,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Grand Cafe des Arts,Grand Cafe des Arts,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Au Vieux Four,Au Vieux Four,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Restaurant Davia,Restaurant Davia,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Tono,Le Tono,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Salade ou Sandwich,Salade ou Sandwich,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Fee des Saveurs,La Fee des Saveurs,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Crep'And Go,Crep'And Go,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La cantine,La cantine,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Restaurant Leviathan,Restaurant Leviathan,0,尼斯市中心,0.0,0.0,0.0
+其他美食,L'Atmosphere,L'Atmosphere,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Congres,Le Congres,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Restaurant Indien Bombay Palace,Restaurant Indien Bombay Palace,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Koudou,Le Koudou,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Sable d'Or,Sable d'Or,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Les Hussards Bleus,Les Hussards Bleus,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Raja,Le Raja,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Vesuvio,Le Vesuvio,0,尼斯海滨,0.0,0.0,0.0
+其他美食,26 Cours Saleya,26 Cours Saleya,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Spag,Spag,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Boros,Boros,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Tire bouchon,Le Tire bouchon,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Baud et Millet,Baud et Millet,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Assmahane,Assmahane,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Bijoux des glaces,Bijoux des glaces,0,费布伦,0.0,0.0,0.0
+其他美食,La Terrasse,La Terrasse,0,费布伦,0.0,0.0,0.0
+其他美食,Mambo Pizza,Mambo Pizza,0,费布伦,0.0,0.0,0.0
+其他美食,Le Pinata,Le Pinata,0,费布伦,0.0,0.0,0.0
+其他美食,Poupon et Marinette,Poupon et Marinette,0,费布伦,0.0,0.0,0.0
+其他美食,Empire de Chine (L'),Empire de Chine (L'),0,尼斯火车站,0.0,0.0,0.0
+其他美食,Restaurant d'Angleterre,Restaurant d'Angleterre,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Green n' Grill,Green n' Grill,0,尼斯火车站,0.0,0.0,0.0
+其他美食,La Veranda,La Veranda,0,尼斯火车站,0.0,0.0,0.0
+其他美食,La Flambee,La Flambee,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Andrea,Andrea,0,尼斯其他,0.0,0.0,0.0
+其他美食,Chez Icardo,Chez Icardo,0,尼斯其他,0.0,0.0,0.0
+其他美食,Brasserie du Col,Brasserie du Col,0,尼斯其他,0.0,0.0,0.0
+其他美食,Chez Simon,Chez Simon,0,尼斯其他,0.0,0.0,0.0
+其他美食,St. Isidore Pizza,St. Isidore Pizza,0,尼斯其他,0.0,0.0,0.0
+其他美食,Granny's,Granny's,0,尼斯其他,0.0,0.0,0.0
+其他美食,La Tit Pozz',La Tit Pozz',0,尼斯其他,0.0,0.0,0.0
+其他美食,la meranda,la meranda,0,尼斯其他,0.0,0.0,0.0
+其他美食,RESTAURANT SIMON,RESTAURANT SIMON,0,,0.0,0.0,0.0
+其他美食,LE CONGRéS,LE CONGRéS,0,,0.0,0.0,0.0
+其他美食,TEAM CAFE SPORT'S BAR &AMP; RESTAURANT,TEAM CAFE SPORT'S BAR &AMP; RESTAURANT,0,,0.0,0.0,0.0
+其他美食,Ô'QUOTIDIEN,Ô'QUOTIDIEN,0,,0.0,0.0,0.0
+其他美食,L'EMPIRE,L'EMPIRE,0,,0.0,0.0,0.0
+其他美食,AUX CRêPES KRAMPOUZ,AUX CRêPES KRAMPOUZ,0,,0.0,0.0,0.0
+其他美食,Amarena,Amarena,0,尼斯其他,0.0,0.0,0.0
+其他美食,Chez Theresa,Chez Theresa,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Beyrouth Nights,Beyrouth Nights,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Bouchon Provencal,Le Bouchon Provencal,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Chez Memere,Chez Memere,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Lenotre Nice,Lenotre Nice,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Planet Sushi,Planet Sushi,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Cafe Fesch,Cafe Fesch,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Aux Deux Palmiers,Aux Deux Palmiers,0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Brioche Doree,La Brioche Doree,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Les Choix d Anna,Les Choix d Anna,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Au Petit Gari,Au Petit Gari,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Columbus Cafe,Columbus Cafe,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Wazo Brunch,Wazo Brunch,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Jungle Art's,Jungle Art's,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Allo Pizzas,Allo Pizzas,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Allo Buffalo Ranch,Allo Buffalo Ranch,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Neptune Plage,Neptune Plage,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Civette du Cours,Civette du Cours,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Comptoir (Le),Comptoir (Le),0,尼斯海滨,0.0,0.0,0.0
+其他美食,Poco Loco,Poco Loco,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Le Choucas,Le Choucas,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Ruhl Plage,Ruhl Plage,0,费布伦,0.0,0.0,0.0
+其他美食,Cafeteria Flunch,Cafeteria Flunch,0,尼斯火车站,0.0,0.0,0.0
+其他美食,l'occitanie,l'occitanie,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Le Club Nautique de Nice Restaurant,Le Club Nautique de Nice Restaurant,0,尼斯其他,0.0,0.0,0.0
+其他美食,La Storia,La Storia,0,尼斯其他,0.0,0.0,0.0
+其他美食,Snack Chez Julien,Snack Chez Julien,0,尼斯其他,0.0,0.0,0.0
+其他美食,Bella Vista,Bella Vista,0,尼斯其他,0.0,0.0,0.0
+其他美食,La Chaumiere,La Chaumiere,0,尼斯其他,0.0,0.0,0.0
+其他美食,La Paiotte,La Paiotte,0,尼斯其他,0.0,0.0,0.0
+其他美食,LE GRAIN DE SEL,LE GRAIN DE SEL,0,,0.0,0.0,0.0
+其他美食,COMPTOIR DES TERROIRS NICE VALLéES,COMPTOIR DES TERROIRS NICE VALLéES,0,,0.0,0.0,0.0
+其他美食,Thuy Van,Thuy Van,0,尼斯市中心,0.0,0.0,0.0
+其他美食,bliss bar,bliss bar,0,尼斯市中心,0.0,0.0,0.0
+其他美食,L Heteroclite,L Heteroclite,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Delhi Darbar,Delhi Darbar,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Lou Pilha Leva,Lou Pilha Leva,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Saf Saf (Le),Saf Saf (Le),0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Victor Hugo,Le Victor Hugo,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Le Mail's,Le Mail's,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Sweet Africa,Sweet Africa,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Bagatelle,Bagatelle,0,尼斯市中心,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Restaurant de Strasbourg,Restaurant de Strasbourg,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Restaurant Elephant,Restaurant Elephant,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Gustave 5,Gustave 5,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Cote Sud,Cote Sud,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Stuzzico,Stuzzico,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Tapenade (La),Tapenade (La),0,尼斯海滨,0.0,0.0,0.0
+其他美食,Restaurant Cardillo's,Restaurant Cardillo's,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Pizzeria des Arcades,Pizzeria des Arcades,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Warm Up,Warm Up,0,费布伦,0.0,0.0,0.0
+其他美食,Le Bambou Plage,Le Bambou Plage,0,费布伦,0.0,0.0,0.0
+其他美食,Les Delices de la Creola Portugaise,Les Delices de la Creola Portugaise,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Asia Fast Food,Asia Fast Food,0,尼斯火车站,0.0,0.0,0.0
+其他美食,K.F.C Kentucky Fried Chicken,K.F.C Kentucky Fried Chicken,0,尼斯火车站,0.0,0.0,0.0
+其他美食,La Scala,La Scala,0,尼斯其他,0.0,0.0,0.0
+其他美食,Hamburger Quick Restaurant,Hamburger Quick Restaurant,0,尼斯其他,0.0,0.0,0.0
+其他美食,Restaurant Cicion,Restaurant Cicion,0,尼斯其他,0.0,0.0,0.0
+其他美食,AC BY MARRIOTT,AC BY MARRIOTT,0,,0.0,0.0,0.0
+其他美食,LE COLONIAL CAFé,LE COLONIAL CAFé,0,,0.0,0.0,0.0
+其他美食,BOCCACCIO,BOCCACCIO,0,,0.0,0.0,0.0
+其他美食,LA PéROUSE,LA PéROUSE,0,,0.0,0.0,0.0
+其他美食,109 quai des Etas Unis CI,109 quai des Etas Unis CI,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Casa Della Pasta,Casa Della Pasta,0,尼斯市中心,0.0,0.0,0.0
+其他美食,Bonne Fourchette (La),Bonne Fourchette (La),0,尼斯市中心,0.0,0.0,0.0
+其他美食,La Sirena,La Sirena,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Les Ponchettes,Les Ponchettes,0,尼斯海滨,0.0,0.0,0.0
+其他美食,Cyrnos,Cyrnos,0,尼斯火车站,0.0,0.0,0.0
+其他美食,Restaurant Bistrum,Restaurant Bistrum,0,尼斯其他,0.0,0.0,0.0
+其他美食,Le Gorbella,Le Gorbella,0,尼斯其他,0.0,0.0,0.0
+其他美食,NOVOTEL NICE CENTRE,NOVOTEL NICE CENTRE,0,,0.0,0.0,0.0
+其他美食,PARK INN NICE,PARK INN NICE,0,,0.0,0.0,0.0
+其他美食,ANIS HôTEL,ANIS HôTEL,0,,0.0,0.0,0.0
+其他美食,LE BISTROT DES VIVIERS,LE BISTROT DES VIVIERS,0,,0.0,0.0,0.0
+其他美食,HôTEL LE PANORAMIC,HôTEL LE PANORAMIC,0,,0.0,0.0,0.0
+其他美食,LE ZAZPI,LE ZAZPI,0,,0.0,0.0,0.0
+其他美食,BRASSERIE LE VIRGINE,BRASSERIE LE VIRGINE,0,,0.0,0.0,0.0
+其他美食,LE FEELING,LE FEELING,0,,0.0,0.0,0.0
+其他美食,ACHIANI,ACHIANI,0,,0.0,0.0,0.0
+其他美食,BRASSERIE PEPINO,BRASSERIE PEPINO,0,,0.0,0.0,0.0
+其他美食,TEACH ON MARS,TEACH ON MARS,0,,0.0,0.0,0.0
+其他美食,CANTINE BIO,CANTINE BIO,0,,0.0,0.0,0.0
+其他美食,NOVOTEL NICE ARENAS,NOVOTEL NICE ARENAS,0,,0.0,0.0,0.0
+其他美食,BUFALLO GRIL,BUFALLO GRIL,0,,0.0,0.0,0.0

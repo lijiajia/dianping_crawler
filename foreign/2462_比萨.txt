@@ -1,0 +1,604 @@
+意大利菜,Torre di Pisa,Torre di Pisa,0,比萨市中心,7.8,7.7,7.3
+意大利菜,Coccio Bar,Coccio Bar,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La taverna di Emma,La taverna di Emma,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Il Turista,Il Turista,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristoro Amaltea,Ristoro Amaltea,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Carta Gialla di G.Leonardi & C. SAS,La Carta Gialla di G.Leonardi & C. SAS,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Il Crudo,Il Crudo,0,比萨市中心,0.0,0.0,0.0
+意大利菜,trattoria Le Volte,trattoria Le Volte,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Osteria di Culegna,Osteria di Culegna,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristorante Enoteca IL TOSCANO,Ristorante Enoteca IL TOSCANO,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Yo!gurteria Pisa Yo,Yo!gurteria Pisa Yo,0,比萨市中心,0.0,0.0,0.0
+意大利菜,House Cafe,House Cafe,0,,0.0,0.0,0.0
+意大利菜,Sale e Pepe Bar Ristoro,Sale e Pepe Bar Ristoro,0,其他,0.0,0.0,0.0
+意大利菜,Gelateria La Piazzetta,Gelateria La Piazzetta,0,其他,0.0,0.0,0.0
+意大利菜,Caffetteria Tozzini,Caffetteria Tozzini,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Tuscany Restaurant,Tuscany Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,La Grotta del Borgo,La Grotta del Borgo,0,其他,0.0,0.0,0.0
+意大利菜,Vintage Drink&Food,Vintage Drink&Food,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Agriturismo la Sorgente,Agriturismo la Sorgente,0,其他,0.0,0.0,0.0
+意大利菜,Osteria San Paolo,Osteria San Paolo,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Caffe Letterario Volta Pagina,Caffe Letterario Volta Pagina,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Pub 2a Di Angelo Di Vita,Pizzeria Ristorante Pub 2a Di Angelo Di Vita,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Agriturismo Il Giglio Matto,Agriturismo Il Giglio Matto,0,其他,0.0,0.0,0.0
+意大利菜,Tenuta La Lupa Ristorante,Tenuta La Lupa Ristorante,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Osteria in domo,Osteria in domo,0,比萨市中心,0.0,0.0,0.0
+意大利菜,50,50,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Pizzeria La Spigolatrice,Pizzeria La Spigolatrice,0,其他,0.0,0.0,0.0
+意大利菜,Bar Caffe&Chocolate,Bar Caffe&Chocolate,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,La Cerbana,La Cerbana,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Enoteca Borgo di Vino,Enoteca Borgo di Vino,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Osteria i Santi,Osteria i Santi,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Villa Otium,Villa Otium,0,其他,0.0,0.0,0.0
+意大利菜,Spaghetteria ,Spaghetteria ,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristorante Squisitia,Ristorante Squisitia,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,Bella Napoli - Pizzeria,Bella Napoli - Pizzeria,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,Cafe Pasticceria I Miracoli,Cafe Pasticceria I Miracoli,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Buca San Ranieri,La Buca San Ranieri,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Soul Kitchen,Soul Kitchen,0,其他,0.0,0.0,0.0
+意大利菜,La Regginella,La Regginella,0,其他,0.0,0.0,0.0
+意大利菜,Osteria dei Mille,Osteria dei Mille,0,Barbaricina,0.0,0.0,0.0
+意大利菜,Zero Zero,Zero Zero,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristorante Rustichello,Ristorante Rustichello,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria La Scaletta,Ristorante Pizzeria La Scaletta,0,其他,0.0,0.0,0.0
+意大利菜,Osteria del Papero,Osteria del Papero,0,Barbaricina,0.0,0.0,0.0
+意大利菜,Pasticceria Siciliana Pisa,Pasticceria Siciliana Pisa,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Il Cantuccio di Federigo,Il Cantuccio di Federigo,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Lumiere,Lumiere,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Bettola,La Bettola,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Sagra degli Schiaffoni,Sagra degli Schiaffoni,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Il Pettirosso,Il Pettirosso,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Le Muse,Le Muse,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria la Rosa Dei Venti,Pizzeria la Rosa Dei Venti,0,其他,0.0,0.0,0.0
+意大利菜,Granel Di Senape,Granel Di Senape,0,其他,0.0,0.0,0.0
+意大利菜,Mister G,Mister G,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante pizzeria neccio,Ristorante pizzeria neccio,0,其他,0.0,0.0,0.0
+意大利菜,Gelateria e Caffetteria Biscuit,Gelateria e Caffetteria Biscuit,0,其他,0.0,0.0,0.0
+意大利菜,PIZZERIA D'ORO 1 di D'Elia Michele,PIZZERIA D'ORO 1 di D'Elia Michele,0,其他,0.0,0.0,0.0
+意大利菜,Las Vegas Pizzeria Ristorante,Las Vegas Pizzeria Ristorante,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,Pizzeria Antico Ristoro,Pizzeria Antico Ristoro,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,L'Alternativa,L'Alternativa,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,Corte Nuova,Corte Nuova,0,San Giusto,0.0,0.0,0.0
+意大利菜,Ristorante L'Europeo,Ristorante L'Europeo,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Andrea's,Ristorante Pizzeria Andrea's,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Delle Badie,Osteria Delle Badie,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Volturno,Ristorante Volturno,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Gusto al 129 - Pizzeria,Gusto al 129 - Pizzeria,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Circolo ARCI L'Alba,Circolo ARCI L'Alba,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Gelateria Coppelia,Gelateria Coppelia,0,比萨市中心,0.0,0.0,0.0
+意大利菜,L'Insalateria,L'Insalateria,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Vicolo Divino,Vicolo Divino,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Il Campano,Il Campano,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Osteria Del Porton Rosso,Osteria Del Porton Rosso,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristoro delle Vettovaglie,Ristoro delle Vettovaglie,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Hosteria da Fermento,Hosteria da Fermento,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristorante Modus Bibendi,Ristorante Modus Bibendi,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Alle Bandierine - Spaghetteria,Alle Bandierine - Spaghetteria,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Guardistalla,La Guardistalla,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Al Signor Mimmo,Al Signor Mimmo,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Gelateria Artigianale Dolcemente,Gelateria Artigianale Dolcemente,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Il Baronetto,Il Baronetto,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Orzo Bruno,Orzo Bruno,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristoro Piccadilly,Ristoro Piccadilly,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Betsabea,Betsabea,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Trattoria Nonna Rosa,Trattoria Nonna Rosa,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Borgolargo Caffe,Borgolargo Caffe,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Piccola Capri,La Piccola Capri,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Gioconda,La Gioconda,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Caffe dei Cavalieri,Caffe dei Cavalieri,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Caffe Pasticceria Dolce Pisa,Caffe Pasticceria Dolce Pisa,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Casa della Panna,Casa della Panna,0,比萨市中心,0.0,0.0,0.0
+意大利菜,L'Ostellino,L'Ostellino,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Mangio Italiano,Mangio Italiano,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Il Peperoncino,Il Peperoncino,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Antica Bottega di Pisa,Antica Bottega di Pisa,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristorante Da Mario,Ristorante Da Mario,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Osteria le Badie,Osteria le Badie,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Tiffany Cafe',Tiffany Cafe',0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Lo Schiaccianoci,Lo Schiaccianoci,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Restaurant Leopolda Pisa,Restaurant Leopolda Pisa,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Pizzeria Martino,Pizzeria Martino,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Gusto Giusto,Gusto Giusto,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Ancora Capodimonte,Ancora Capodimonte,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Osteria del Violino,Osteria del Violino,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Little Star Cafe,Little Star Cafe,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Restaurant Galileo,Restaurant Galileo,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Pane e Vino,Pane e Vino,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Hostaria Le Repubbliche Marinare,Hostaria Le Repubbliche Marinare,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Beni,Beni,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Le Muse DI Cappellini Sonia,Le Muse DI Cappellini Sonia,0,其他,0.0,0.0,0.0
+意大利菜,Sette Tavoli,Sette Tavoli,0,其他,0.0,0.0,0.0
+意大利菜,Tirreno 231,Tirreno 231,0,其他,0.0,0.0,0.0
+意大利菜,Osteria la Ciliegia,Osteria la Ciliegia,0,其他,0.0,0.0,0.0
+意大利菜,Ristoro Il Giardino Nascosto,Ristoro Il Giardino Nascosto,0,其他,0.0,0.0,0.0
+意大利菜,Il Giardino Di Poppa,Il Giardino Di Poppa,0,其他,0.0,0.0,0.0
+意大利菜,Teste e Lische,Teste e Lische,0,其他,0.0,0.0,0.0
+意大利菜,Peggio Palaia Pub,Peggio Palaia Pub,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Zara,Ristorante Zara,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante I PIONIERI di Santi Cinzia,Ristorante I PIONIERI di Santi Cinzia,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria Bar Voglia Matta,Pasticceria Bar Voglia Matta,0,其他,0.0,0.0,0.0
+意大利菜,Si e No,Si e No,0,其他,0.0,0.0,0.0
+意大利菜,La Rustichella da Francesco,La Rustichella da Francesco,0,其他,0.0,0.0,0.0
+意大利菜,Cigno Nero,Cigno Nero,0,其他,0.0,0.0,0.0
+意大利菜,Da Peppone,Da Peppone,0,其他,0.0,0.0,0.0
+意大利菜,I Marmocchi,I Marmocchi,0,其他,0.0,0.0,0.0
+意大利菜,Il Pizzomane,Il Pizzomane,0,其他,0.0,0.0,0.0
+意大利菜,"La bottega del parco, 11","La bottega del parco, 11",0,其他,0.0,0.0,0.0
+意大利菜,Trattoria da Nedo,Trattoria da Nedo,0,其他,0.0,0.0,0.0
+意大利菜,Osteria IL Ponte,Osteria IL Ponte,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Airone,Ristorante Airone,0,其他,0.0,0.0,0.0
+意大利菜,Arcimboldo Self Service Pizzeria,Arcimboldo Self Service Pizzeria,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,I Paccheri,I Paccheri,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria DA Mary,Ristorante Pizzeria DA Mary,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,Ristorante pizzeria rustichella via aurelia pisa,Ristorante pizzeria rustichella via aurelia pisa,0,San Giusto,0.0,0.0,0.0
+意大利菜,I Piaceri del Gusto,I Piaceri del Gusto,0,San Giusto,0.0,0.0,0.0
+意大利菜,La Baracchina di Roncolla,La Baracchina di Roncolla,0,其他,0.0,0.0,0.0
+意大利菜,Circolo ACLI Migliarino Pisano,Circolo ACLI Migliarino Pisano,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Antonietta,Ristorante Antonietta,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristorante da Inaco,Ristorante da Inaco,0,其他,0.0,0.0,0.0
+意大利菜,Agriturismo Il Pratone,Agriturismo Il Pratone,0,其他,0.0,0.0,0.0
+意大利菜,I Secoli,I Secoli,0,其他,0.0,0.0,0.0
+意大利菜,Gelateria Ghibli 2,Gelateria Ghibli 2,0,其他,0.0,0.0,0.0
+意大利菜,Ir Tegame,Ir Tegame,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Pergoletta,La Pergoletta,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Di qua d'Arno,Di qua d'Arno,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Osteria Pizzeria Il Fantasma dell'Opera,Osteria Pizzeria Il Fantasma dell'Opera,0,比萨市中心,0.0,0.0,0.0
+意大利菜,il Dado del Lumiere,il Dado del Lumiere,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Meloria Fried & Fish,La Meloria Fried & Fish,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Vineria di Piazza,Vineria di Piazza,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Pescaccia,La Pescaccia,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ambaraba Ristorante American Bar,Ambaraba Ristorante American Bar,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Lo Stuzzichiere,Lo Stuzzichiere,0,比萨市中心,0.0,0.0,0.0
+意大利菜,S.Omobono - Trattoria,S.Omobono - Trattoria,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Mani'omio Ristorante,Mani'omio Ristorante,0,比萨市中心,0.0,0.0,0.0
+意大利菜,enoteca TIRO VINO,enoteca TIRO VINO,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristoro Al Vecchio Teatro,Ristoro Al Vecchio Teatro,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Il Ristoro Di Frate Cipolla,Il Ristoro Di Frate Cipolla,0,比萨市中心,0.0,0.0,0.0
+意大利菜,circolo battichiodi,circolo battichiodi,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristorante Turiddo,Ristorante Turiddo,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Sud,Sud,0,比萨市中心,0.0,0.0,0.0
+意大利菜,BIOsteria Pisa Italy,BIOsteria Pisa Italy,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Osteria dei Cavalieri,Osteria dei Cavalieri,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Osteria del Tinti,Osteria del Tinti,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Alla Goccia,Alla Goccia,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Pasticceria Caffe Giacomo Baldini,Pasticceria Caffe Giacomo Baldini,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Trattoria della Faggiola,Trattoria della Faggiola,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Osteria le Logge,Osteria le Logge,0,比萨市中心,0.0,0.0,0.0
+意大利菜,I Miei Sapori,I Miei Sapori,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Toscana - Osteria,La Toscana - Osteria,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Paninoteca Il Canguro,Paninoteca Il Canguro,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Osteria la Toscana,Osteria la Toscana,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Al Bagno di Nerone,Al Bagno di Nerone,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristorante Poldino,Ristorante Poldino,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Pizzeria Le Colline,Pizzeria Le Colline,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Lissus Ristorante Pizzeria,Lissus Ristorante Pizzeria,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria La Cereria Alle Porte,Ristorante Pizzeria La Cereria Alle Porte,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Ristorante Al Ponte Della Cittadella,Ristorante Al Ponte Della Cittadella,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Caffe Italia,Caffe Italia,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Osteria Capodaglio,Osteria Capodaglio,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Orso Bianco,Orso Bianco,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,L'Artilafo,L'Artilafo,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Numero Undici,Numero Undici,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Bagus Wine & Food,Bagus Wine & Food,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Enoteca La dolce vite,Enoteca La dolce vite,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,La Piazzetta,La Piazzetta,0,其他,0.0,0.0,0.0
+意大利菜,La Fattoria di Baroni,La Fattoria di Baroni,0,其他,0.0,0.0,0.0
+意大利菜,"ristorante agriturismo Il Monticino,Palaia","ristorante agriturismo Il Monticino,Palaia",0,其他,0.0,0.0,0.0
+意大利菜,Bagno Alma Ristorante Pizzeria,Bagno Alma Ristorante Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Da Manuel,Da Manuel,0,其他,0.0,0.0,0.0
+意大利菜,Loweneck,Loweneck,0,其他,0.0,0.0,0.0
+意大利菜,Da Antonio,Da Antonio,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Bagno Tritone,Ristorante Bagno Tritone,0,其他,0.0,0.0,0.0
+意大利菜,L'imbarcadero,L'imbarcadero,0,其他,0.0,0.0,0.0
+意大利菜,Roca De Mar,Roca De Mar,0,其他,0.0,0.0,0.0
+意大利菜,Ristoro Re di Puglia,Ristoro Re di Puglia,0,其他,0.0,0.0,0.0
+意大利菜,Fortezza Di Pozzo,Fortezza Di Pozzo,0,其他,0.0,0.0,0.0
+意大利菜,Giglio Marino,Giglio Marino,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Melacanto,Osteria Melacanto,0,其他,0.0,0.0,0.0
+意大利菜,La fornace,La fornace,0,其他,0.0,0.0,0.0
+意大利菜,Pane e Rose,Pane e Rose,0,其他,0.0,0.0,0.0
+意大利菜,La Griglia di Varrone,La Griglia di Varrone,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante l'Ippodromo,Ristorante l'Ippodromo,0,其他,0.0,0.0,0.0
+意大利菜,Bar Amico,Bar Amico,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria Panna e Cioccolato,Pasticceria Panna e Cioccolato,0,其他,0.0,0.0,0.0
+意大利菜,Da'r Gallo,Da'r Gallo,0,其他,0.0,0.0,0.0
+意大利菜,Dunadonda,Dunadonda,0,其他,0.0,0.0,0.0
+意大利菜,La Vecchia Cascina,La Vecchia Cascina,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,Il Mio Capriccio - Ristorante Pizzeria,Il Mio Capriccio - Ristorante Pizzeria,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,Scalo 13,Scalo 13,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,Le Vele della Repubblica,Le Vele della Repubblica,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,La Cantina Dei Sapori,La Cantina Dei Sapori,0,San Giusto,0.0,0.0,0.0
+意大利菜,Gelateria Freddi Capricci,Gelateria Freddi Capricci,0,San Giusto,0.0,0.0,0.0
+意大利菜,I Sovrani,I Sovrani,0,Barbaricina,0.0,0.0,0.0
+意大利菜,Trattoria Pisakech,Trattoria Pisakech,0,其他,0.0,0.0,0.0
+意大利菜,Il Cavallino Blu,Il Cavallino Blu,0,其他,0.0,0.0,0.0
+意大利菜,Cannatella,Cannatella,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria La Ghiotteria,Trattoria La Ghiotteria,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Porton Rosso,Porton Rosso,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Trattoria del Borgo,Trattoria del Borgo,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Mimì Cafè,Mimì Cafè,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Pasticceria Salza,Pasticceria Salza,0,比萨市中心,0.0,0.0,0.0
+意大利菜,In Vino Veritas,In Vino Veritas,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Panineria Mordi E Fuggi,Panineria Mordi E Fuggi,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Reastaurant Bar Europeo,Reastaurant Bar Europeo,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Grotta,La Grotta,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Op Art Cafe,Op Art Cafe,0,比萨市中心,0.0,0.0,0.0
+意大利菜,La Pancia Piena,La Pancia Piena,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Osteria Santa Caterina,Osteria Santa Caterina,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Ristorante Duomo,Ristorante Duomo,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Trattoria Spaghetteria Da Lastri,Trattoria Spaghetteria Da Lastri,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Santa Maria,Santa Maria,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Antica Trattoria Da Bruno,Antica Trattoria Da Bruno,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Le Giare,Le Giare,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Sciue Sciue,Sciue Sciue,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,La Lupa Ghiotta,La Lupa Ghiotta,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Kinzica,Kinzica,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Le Scuderie,Le Scuderie,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Dabbe,Dabbe,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Pizzeria Martino,Pizzeria Martino,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Dolce Notte,Dolce Notte,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Cocktail and Drink Chicchessia,Cocktail and Drink Chicchessia,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Eleven Cafe Pisa,Eleven Cafe Pisa,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Enoteca L'Etichetta,Enoteca L'Etichetta,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Il Nuraghe,Il Nuraghe,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Le scimmie,Le scimmie,0,其他,0.0,0.0,0.0
+意大利菜,La Faeta,La Faeta,0,其他,0.0,0.0,0.0
+意大利菜,Bagno Meloria Ristorante Bar Pizzeria,Bagno Meloria Ristorante Bar Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Piropo Ristorante Pizzeria,Piropo Ristorante Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Gelatopoli,Gelatopoli,0,其他,0.0,0.0,0.0
+意大利菜,Forchetta,Forchetta,0,其他,0.0,0.0,0.0
+意大利菜,Alpaca Country House SRL,Alpaca Country House SRL,0,其他,0.0,0.0,0.0
+意大利菜,Parco Sportivo Tirrenia,Parco Sportivo Tirrenia,0,其他,0.0,0.0,0.0
+意大利菜,Il Cacciatore,Il Cacciatore,0,其他,0.0,0.0,0.0
+意大利菜,pionieri,pionieri,0,其他,0.0,0.0,0.0
+意大利菜,Moby Dick,Moby Dick,0,其他,0.0,0.0,0.0
+意大利菜,Marco Polo,Marco Polo,0,其他,0.0,0.0,0.0
+意大利菜,La piadineria,La piadineria,0,其他,0.0,0.0,0.0
+意大利菜,Il Podere,Il Podere,0,其他,0.0,0.0,0.0
+意大利菜,Bacchus,Bacchus,0,其他,0.0,0.0,0.0
+意大利菜,La Cucina Del Re,La Cucina Del Re,0,其他,0.0,0.0,0.0
+意大利菜,IL VELIERO alla foce,IL VELIERO alla foce,0,其他,0.0,0.0,0.0
+意大利菜,dai Pescatori di Bocca d'Arno,dai Pescatori di Bocca d'Arno,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante ippodromo san rossore,Ristorante ippodromo san rossore,0,其他,0.0,0.0,0.0
+意大利菜,La Rampa,La Rampa,0,其他,0.0,0.0,0.0
+意大利菜,Pulcinella Pizzeria,Pulcinella Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Hosteria il Malandrone,Hosteria il Malandrone,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Argini e Margini,Ristorante Argini e Margini,0,其他,0.0,0.0,0.0
+意大利菜,Primo Maggio,Primo Maggio,0,其他,0.0,0.0,0.0
+意大利菜,El Merendero,El Merendero,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Delle Corse,Trattoria Delle Corse,0,其他,0.0,0.0,0.0
+意大利菜,La Botte,La Botte,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Bar B & B Le Torri,Ristorante Bar B & B Le Torri,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,Abitalia Tower Plaza,Abitalia Tower Plaza,0,Barbaricina,0.0,0.0,0.0
+意大利菜,MENTA E ROSMARINO,MENTA E ROSMARINO,0,,6.9,6.9,6.9
+意大利菜,caffeDuomo,caffeDuomo,0,其他,0.0,0.0,0.0
+意大利菜,Jam,Jam,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Bazeel,Bazeel,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Gegè,Gegè,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Caffe Amadeus,Caffe Amadeus,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Arcanugly Club,Arcanugly Club,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Bar Roma,Bar Roma,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Pick a Flower,Pick a Flower,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Piccola Osteria di Andera il pescatore,Piccola Osteria di Andera il pescatore,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Rossosapore,Rossosapore,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Caffetteria Dantesca,Caffetteria Dantesca,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Pinocchio's,Pinocchio's,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Pizzeria Trattoria La Buca,Pizzeria Trattoria La Buca,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Antica Trattoria Rosemary,Antica Trattoria Rosemary,0,比萨市中心,0.0,0.0,0.0
+意大利菜,Trattoria Da Michele,Trattoria Da Michele,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Brasserie La Loggia,Brasserie La Loggia,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Vittorio Emanuele,Ristorante Pizzeria Vittorio Emanuele,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Caino Caffe',Caino Caffe',0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Ristorante Melacanto Laghi Malvaldo,Ristorante Melacanto Laghi Malvaldo,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,ristopizza l'arciere,ristopizza l'arciere,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Caffe Antico Toti,Caffe Antico Toti,0,圣马蒂诺,0.0,0.0,0.0
+意大利菜,Ristorante La Chicca,Ristorante La Chicca,0,其他,0.0,0.0,0.0
+意大利菜,Bar Nuovo Palazzo,Bar Nuovo Palazzo,0,其他,0.0,0.0,0.0
+意大利菜,sunlightpark,sunlightpark,0,其他,0.0,0.0,0.0
+意大利菜,Agriturismo Tenuta Il Pino,Agriturismo Tenuta Il Pino,0,其他,0.0,0.0,0.0
+意大利菜,Metro Pizza,Metro Pizza,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Barbarossa,Ristorante Pizzeria Barbarossa,0,其他,0.0,0.0,0.0
+意大利菜,PIZZERIA CLIFF,PIZZERIA CLIFF,0,其他,0.0,0.0,0.0
+意大利菜,I tre carnezzieri,I tre carnezzieri,0,其他,0.0,0.0,0.0
+意大利菜,Barbarossa,Barbarossa,0,其他,0.0,0.0,0.0
+意大利菜,Show Club Restaurant,Show Club Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,I 6 diavoli,I 6 diavoli,0,其他,0.0,0.0,0.0
+意大利菜,Gatto Rosso,Gatto Rosso,0,其他,0.0,0.0,0.0
+意大利菜,Le capanne,Le capanne,0,其他,0.0,0.0,0.0
+意大利菜,La Mangiatoia,La Mangiatoia,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,L'Arrosticino Pizzeria Pungilupo,L'Arrosticino Pizzeria Pungilupo,0,圣米凯莱,0.0,0.0,0.0
+意大利菜,Ristorante La Riva,Ristorante La Riva,0,San Giusto,0.0,0.0,0.0
+意大利菜,basilico fresco,basilico fresco,0,其他,0.0,0.0,0.0
+意大利菜,Hippo beach restaurant,Hippo beach restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Vecchia serafina,Vecchia serafina,0,其他,0.0,0.0,0.0
+意大利菜,Nonna Ilva,Nonna Ilva,0,其他,0.0,0.0,0.0
+其他西餐,Cantina Vasari,Cantina Vasari,0,其他,8.4,8.4,8.4
+其他西餐,Mondo Doner Kebab,Mondo Doner Kebab,0,圣马蒂诺,0.0,0.0,0.0
+其他西餐,pizz8matto,pizz8matto,0,圣马蒂诺,0.0,0.0,0.0
+其他西餐,House Cafe,House Cafe,0,,0.0,0.0,0.0
+其他西餐,Hamburgeria di Arnovivo,Hamburgeria di Arnovivo,0,圣米凯莱,0.0,0.0,0.0
+其他西餐,Ritros Bar,Ritros Bar,0,比萨市中心,0.0,0.0,0.0
+其他西餐,La Stanzina,La Stanzina,0,比萨市中心,0.0,0.0,0.0
+其他西餐,Osteria Bernardo,Osteria Bernardo,0,比萨市中心,0.0,0.0,0.0
+其他西餐,Spread - Cibo e Fantasia,Spread - Cibo e Fantasia,0,比萨市中心,0.0,0.0,0.0
+其他西餐,Circolo Culturale Greco Makedonia,Circolo Culturale Greco Makedonia,0,圣马蒂诺,0.0,0.0,0.0
+其他西餐,Il Bistrot,Il Bistrot,0,圣马蒂诺,0.0,0.0,0.0
+其他西餐,La Baracchina,La Baracchina,0,其他,0.0,0.0,0.0
+其他西餐,Mamma Laura del Bagno Arlecchino,Mamma Laura del Bagno Arlecchino,0,其他,0.0,0.0,0.0
+其他西餐,Il Ristoro dei Miei Amici,Il Ristoro dei Miei Amici,0,其他,0.0,0.0,0.0
+其他西餐,Ambaraba Ristorante American Bar,Ambaraba Ristorante American Bar,0,比萨市中心,0.0,0.0,0.0
+其他西餐,Bar Pasticceria Lando,Bar Pasticceria Lando,0,圣马蒂诺,0.0,0.0,0.0
+其他西餐,La Buca di Jovine Carmine,La Buca di Jovine Carmine,0,圣马蒂诺,0.0,0.0,0.0
+其他西餐,Pasticceria Giordano,Pasticceria Giordano,0,圣马蒂诺,0.0,0.0,0.0
+其他西餐,TIRRENIA doc CAFFE',TIRRENIA doc CAFFE',0,其他,0.0,0.0,0.0
+其他西餐,Farmacia Dei Sani,Farmacia Dei Sani,0,其他,0.0,0.0,0.0
+其他西餐,La Perla Cafe,La Perla Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Greco Itaca,Ristorante Greco Itaca,0,比萨市中心,0.0,0.0,0.0
+其他西餐,Skip!,Skip!,0,其他,0.0,0.0,0.0
+其他西餐,Lowengrube,Lowengrube,0,其他,0.0,0.0,0.0
+其他西餐,Bar Del Miracoli,Bar Del Miracoli,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Don Chisciotte,Ristorante Don Chisciotte,0,比萨市中心,0.0,0.0,0.0
+其他西餐,L'Amuri,L'Amuri,0,比萨市中心,0.0,0.0,0.0
+其他西餐,La Bodeguita,La Bodeguita,0,比萨市中心,0.0,0.0,0.0
+中餐,Ristorante cinese Fu Gui,Ristorante cinese Fu Gui,0,其他,0.0,0.0,0.0
+中餐,xin zhon guo,xin zhon guo,0,圣马蒂诺,0.0,0.0,0.0
+日韩料理,Ristorante Asuka,Ristorante Asuka,0,圣米凯莱,0.0,0.0,0.0
+日韩料理,Zen,Zen,0,圣马蒂诺,0.0,0.0,0.0
+日韩料理,Kobe sushi restaurant,Kobe sushi restaurant,0,圣马蒂诺,0.0,0.0,0.0
+更多亚洲菜,Tanduri,Tanduri,0,圣马蒂诺,0.0,0.0,0.0
+更多亚洲菜,Anatolia Kebap da Hasan,Anatolia Kebap da Hasan,0,比萨市中心,0.0,0.0,0.0
+更多亚洲菜,Namaste India Ristorante,Namaste India Ristorante,0,圣马蒂诺,0.0,0.0,0.0
+更多亚洲菜,GOLDEN CURRY,GOLDEN CURRY,0,圣马蒂诺,0.0,0.0,0.0
+更多亚洲菜,Shahzad Kebab,Shahzad Kebab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Indian Restaurant,Indian Restaurant,0,比萨市中心,0.0,0.0,0.0
+更多亚洲菜,Indian Foods and Kebab,Indian Foods and Kebab,0,比萨市中心,0.0,0.0,0.0
+更多亚洲菜,Pak Kashmir,Pak Kashmir,0,圣马蒂诺,0.0,0.0,0.0
+更多亚洲菜,Ristorante Indiano India Palace,Ristorante Indiano India Palace,0,圣马蒂诺,0.0,0.0,0.0
+更多亚洲菜,Bollywood Ritorante Indiano,Bollywood Ritorante Indiano,0,其他,0.0,0.0,0.0
+更多亚洲菜,Asian Fast Food,Asian Fast Food,0,其他,0.0,0.0,0.0
+快餐简餐,1950 American Diner,1950 American Diner,0,其他,0.0,0.0,0.0
+快餐简餐,Filter Coffee Lab,Filter Coffee Lab,0,比萨市中心,0.0,0.0,0.0
+快餐简餐,Peperosa Pisa,Peperosa Pisa,0,比萨市中心,0.0,0.0,0.0
+快餐简餐,Subway Pisa,Subway Pisa,0,比萨市中心,0.0,0.0,0.0
+快餐简餐,CiBO & CO.,CiBO & CO.,0,圣马蒂诺,0.0,0.0,0.0
+快餐简餐,San Domenico Birreria & Food,San Domenico Birreria & Food,0,圣马蒂诺,0.0,0.0,0.0
+快餐简餐,Braque Bistrot,Braque Bistrot,0,比萨市中心,0.0,0.0,0.0
+快餐简餐,Pizzeria Piccolo Mondo,Pizzeria Piccolo Mondo,0,圣马蒂诺,0.0,0.0,0.0
+快餐简餐,Cinema Caffe' Lanteri,Cinema Caffe' Lanteri,0,圣米凯莱,0.0,0.0,0.0
+快餐简餐,Siamo fritti,Siamo fritti,0,圣马蒂诺,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,圣米凯莱,0.0,0.0,0.0
+海鲜,La Taverna degli Amici,La Taverna degli Amici,0,圣米凯莱,0.0,0.0,0.0
+海鲜,Bagno Arlecchino di Costabile Agata,Bagno Arlecchino di Costabile Agata,0,其他,0.0,0.0,0.0
+海鲜,LA BUCA 2,LA BUCA 2,0,其他,0.0,0.0,0.0
+海鲜,Bagno Rosalba,Bagno Rosalba,0,其他,0.0,0.0,0.0
+海鲜,Dea Del Mare,Dea Del Mare,0,其他,0.0,0.0,0.0
+海鲜,Bagno Maestrale,Bagno Maestrale,0,其他,0.0,0.0,0.0
+海鲜,Niccheri,Niccheri,0,其他,0.0,0.0,0.0
+海鲜,Ristoro di Campalto,Ristoro di Campalto,0,其他,0.0,0.0,0.0
+海鲜,ristorante bar ,ristorante bar ,0,比萨市中心,0.0,0.0,0.0
+海鲜,Il Corallo,Il Corallo,0,其他,0.0,0.0,0.0
+烧烤,L'Officina della pizza,L'Officina della pizza,0,圣米凯莱,0.0,0.0,0.0
+比萨,Pizzeria Le Mura da Nonna Teta,Pizzeria Le Mura da Nonna Teta,0,比萨市中心,0.0,0.0,0.0
+比萨,San Domenico Bar,San Domenico Bar,0,比萨市中心,0.0,0.0,0.0
+比萨,Pizzeria Kiste Pizza & Wine,Pizzeria Kiste Pizza & Wine,0,比萨市中心,0.0,0.0,0.0
+比萨,Pizzeria Tavola Calda La Tana,Pizzeria Tavola Calda La Tana,0,比萨市中心,0.0,0.0,0.0
+比萨,Pizzeria da Manu,Pizzeria da Manu,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Voglia Di Pizza Di Frassi Roberta & C.,Pizzeria Voglia Di Pizza Di Frassi Roberta & C.,0,比萨市中心,0.0,0.0,0.0
+比萨,Pizzeria Navora,Pizzeria Navora,0,其他,0.0,0.0,0.0
+比萨,Pizzeria vasco,Pizzeria vasco,0,其他,0.0,0.0,0.0
+比萨,Il principe della pizza pisa,Il principe della pizza pisa,0,Barbaricina,0.0,0.0,0.0
+比萨,Bar Pizzeria Moonlight,Bar Pizzeria Moonlight,0,比萨市中心,0.0,0.0,0.0
+比萨,La Pizza Magica,La Pizza Magica,0,比萨市中心,0.0,0.0,0.0
+比萨,Pizzeria ,Pizzeria ,0,圣马蒂诺,0.0,0.0,0.0
+比萨,La Taverna di Pulcinella di Tamberi Patrizia,La Taverna di Pulcinella di Tamberi Patrizia,0,圣马蒂诺,0.0,0.0,0.0
+比萨,Pizzeria La ROsa,Pizzeria La ROsa,0,其他,0.0,0.0,0.0
+比萨,Giacomo Giannessi,Giacomo Giannessi,0,其他,0.0,0.0,0.0
+比萨,Pizzeria il ponte,Pizzeria il ponte,0,其他,0.0,0.0,0.0
+比萨,La Curva,La Curva,0,其他,0.0,0.0,0.0
+比萨,Pizzeriamartino Pisa,Pizzeriamartino Pisa,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Chimenti Special,Pizzeria Chimenti Special,0,San Giusto,0.0,0.0,0.0
+比萨,Pizzeria La Paradisea,Pizzeria La Paradisea,0,San Giusto,0.0,0.0,0.0
+比萨,Pizzeria La Tombola,Pizzeria La Tombola,0,比萨市中心,0.0,0.0,0.0
+比萨,Pizzeria le Ninfe,Pizzeria le Ninfe,0,其他,0.0,0.0,0.0
+比萨,bar pizzeria Antista,bar pizzeria Antista,0,比萨市中心,0.0,0.0,0.0
+比萨,Pizzeria L'Arancio,Pizzeria L'Arancio,0,比萨市中心,0.0,0.0,0.0
+比萨,L'antico Vicoletto,L'antico Vicoletto,0,比萨市中心,0.0,0.0,0.0
+比萨,Pizzeria ,Pizzeria ,0,圣马蒂诺,0.0,0.0,0.0
+比萨,pizzeria da pancino,pizzeria da pancino,0,圣马蒂诺,0.0,0.0,0.0
+比萨,Ristorante Bar Pizzeria I Due Laghi,Ristorante Bar Pizzeria I Due Laghi,0,其他,0.0,0.0,0.0
+比萨,il Cigliere,il Cigliere,0,其他,0.0,0.0,0.0
+比萨,Ristorante Il Toscano,Ristorante Il Toscano,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Pasquale,Pizzeria Pasquale,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Cabana,Pizzeria Cabana,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Funiculi,Pizzeria Funiculi,0,其他,0.0,0.0,0.0
+比萨,Il Fornaccio,Il Fornaccio,0,其他,0.0,0.0,0.0
+比萨,il Birbante pizzeria,il Birbante pizzeria,0,其他,0.0,0.0,0.0
+比萨,Cyrano,Cyrano,0,其他,0.0,0.0,0.0
+比萨,Il Maratoneta,Il Maratoneta,0,圣米凯莱,0.0,0.0,0.0
+比萨,Mediceo 15 Antipasteria Pizzeria,Mediceo 15 Antipasteria Pizzeria,0,比萨市中心,0.0,0.0,0.0
+比萨,La Greppia,La Greppia,0,比萨市中心,0.0,0.0,0.0
+比萨,Pizzeria Trattoria Toscana,Pizzeria Trattoria Toscana,0,比萨市中心,0.0,0.0,0.0
+比萨,Al Solito Posto,Al Solito Posto,0,其他,0.0,0.0,0.0
+比萨,Pizza a Go-go,Pizza a Go-go,0,其他,0.0,0.0,0.0
+比萨,A Tutta Pizza,A Tutta Pizza,0,,6.9,6.9,6.9
+比萨,Pizzeria La Svorta,Pizzeria La Svorta,0,圣马蒂诺,0.0,0.0,0.0
+比萨,Flashpizza,Flashpizza,0,圣马蒂诺,0.0,0.0,0.0
+比萨,Pura Vida,Pura Vida,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Rosa dei Venti,Pizzeria Rosa dei Venti,0,其他,0.0,0.0,0.0
+比萨,"Pizzeria Il Pomodoro, filmcafe","Pizzeria Il Pomodoro, filmcafe",0,其他,0.0,0.0,0.0
+比萨,L'Antico Ristoro 2,L'Antico Ristoro 2,0,其他,0.0,0.0,0.0
+咖啡厅,JACS bistrot - ristorante & pizza,JACS bistrot - ristorante & pizza,0,比萨市中心,0.0,0.0,0.0
+咖啡厅,Cellini,Cellini,0,比萨市中心,0.0,0.0,0.0
+咖啡厅,L'oca bianca,L'oca bianca,0,其他,0.0,0.0,0.0
+咖啡厅,Caffe Sospeso presso Libreria Ubik,Caffe Sospeso presso Libreria Ubik,0,圣马蒂诺,0.0,0.0,0.0
+咖啡厅,Cafe Enjoy,Cafe Enjoy,0,,6.7,6.7,6.7
+咖啡厅,Caffe Gambrinus,Caffe Gambrinus,0,圣马蒂诺,0.0,0.0,0.0
+面包甜点,Caffetteria Tribunale,Caffetteria Tribunale,0,比萨市中心,0.0,0.0,0.0
+面包甜点,Spaghetteria ,Spaghetteria ,0,比萨市中心,0.0,0.0,0.0
+面包甜点,Macumba,Macumba,0,比萨市中心,0.0,0.0,0.0
+面包甜点,Gelateria Manzi,Gelateria Manzi,0,其他,0.0,0.0,0.0
+面包甜点,Panificio Fratelli Borelli Massimo e Giovanni,Panificio Fratelli Borelli Massimo e Giovanni,0,比萨市中心,0.0,0.0,0.0
+面包甜点,La Panetteria Via San Lorenzo Pisa,La Panetteria Via San Lorenzo Pisa,0,比萨市中心,0.0,0.0,0.0
+面包甜点,Gelato Novi,Gelato Novi,0,San Giusto,0.0,0.0,0.0
+面包甜点,Gelateria De' Coltelli,Gelateria De' Coltelli,0,比萨市中心,0.0,0.0,0.0
+面包甜点,Pasticceria Le Dolci Tentazioni,Pasticceria Le Dolci Tentazioni,0,比萨市中心,0.0,0.0,0.0
+面包甜点,Gelato Dipendente,Gelato Dipendente,0,圣马蒂诺,0.0,0.0,0.0
+面包甜点,"Il Gelato, Qualita Naturale","Il Gelato, Qualita Naturale",0,圣马蒂诺,0.0,0.0,0.0
+面包甜点,Officina Del Gusto,Officina Del Gusto,0,其他,0.0,0.0,0.0
+面包甜点,Il Pellicano Neroazzurro2,Il Pellicano Neroazzurro2,0,圣米凯莱,0.0,0.0,0.0
+面包甜点,Pasticceria Lilli,Pasticceria Lilli,0,其他,0.0,0.0,0.0
+面包甜点,Bar Pasticceria Salsedo,Bar Pasticceria Salsedo,0,圣马蒂诺,0.0,0.0,0.0
+面包甜点,La Bottega del Gelato,La Bottega del Gelato,0,比萨市中心,0.0,0.0,0.0
+面包甜点,Gelateria Rufus,Gelateria Rufus,0,比萨市中心,0.0,0.0,0.0
+面包甜点,Cookiss Bakery,Cookiss Bakery,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Pedini Mariangela,Pasticceria Pedini Mariangela,0,其他,0.0,0.0,0.0
+面包甜点,Caffe Dell'ussero,Caffe Dell'ussero,0,比萨市中心,0.0,0.0,0.0
+面包甜点,Peter Pan Yogurteria Gelateria,Peter Pan Yogurteria Gelateria,0,圣马蒂诺,0.0,0.0,0.0
+面包甜点,L'incanto,L'incanto,0,其他,0.0,0.0,0.0
+酒吧,Gelateria Lo Sfzio,Gelateria Lo Sfzio,0,其他,0.0,0.0,0.0
+酒吧,Vero bistro pisa,Vero bistro pisa,0,圣马蒂诺,0.0,0.0,0.0
+酒吧,Lo Sfizio,Lo Sfizio,0,比萨市中心,0.0,0.0,0.0
+酒吧,Pane e dolci sapori,Pane e dolci sapori,0,比萨市中心,0.0,0.0,0.0
+酒吧,Millibar Wine and Cocktail Bar,Millibar Wine and Cocktail Bar,0,比萨市中心,0.0,0.0,0.0
+酒吧,Fulat,Fulat,0,比萨市中心,0.0,0.0,0.0
+酒吧,Segreto Loungebar,Segreto Loungebar,0,圣马蒂诺,0.0,0.0,0.0
+酒吧,Caffe' Teatro,Caffe' Teatro,0,比萨市中心,0.0,0.0,0.0
+酒吧,Sottobosco Libri & Cafe,Sottobosco Libri & Cafe,0,比萨市中心,0.0,0.0,0.0
+酒吧,Tree,Tree,0,比萨市中心,0.0,0.0,0.0
+酒吧,Queen Pizza,Queen Pizza,0,比萨市中心,0.0,0.0,0.0
+酒吧,Gelateria Dal Capitano,Gelateria Dal Capitano,0,其他,0.0,0.0,0.0
+酒吧,Caffe Miami,Caffe Miami,0,比萨市中心,0.0,0.0,0.0
+酒吧,Scottish Pub The Liars,Scottish Pub The Liars,0,圣马蒂诺,0.0,0.0,0.0
+酒吧,Caffe Drago,Caffe Drago,0,圣马蒂诺,0.0,0.0,0.0
+酒吧,Birra e acciughe,Birra e acciughe,0,其他,0.0,0.0,0.0
+酒吧,Settimelli,Settimelli,0,比萨市中心,0.0,0.0,0.0
+酒吧,Gelateria Il Cammeo Pisa,Gelateria Il Cammeo Pisa,0,比萨市中心,0.0,0.0,0.0
+酒吧,Arno Vivo,Arno Vivo,0,圣米凯莱,0.0,0.0,0.0
+酒吧,The Wall Lunch & American Bar,The Wall Lunch & American Bar,0,比萨市中心,0.0,0.0,0.0
+酒吧,E' il momento bar pasticceria,E' il momento bar pasticceria,0,,6.9,6.9,6.9
+更多美食,Caffetteria Pasticceria la Dolce Vita,Caffetteria Pasticceria la Dolce Vita,0,其他,0.0,0.0,0.0
+更多美食,Ristoro Al Vecchio Teatro Di Del Corso Giovanni,Ristoro Al Vecchio Teatro Di Del Corso Giovanni,0,比萨市中心,0.0,0.0,0.0
+更多美食,Pizzeria Il Montino,Pizzeria Il Montino,0,比萨市中心,0.0,0.0,0.0
+更多美食,Planet Food,Planet Food,0,其他,0.0,0.0,0.0
+更多美食,Nando,Nando,0,比萨市中心,0.0,0.0,0.0
+更多美食,Mediceo,Mediceo,0,比萨市中心,0.0,0.0,0.0
+更多美食,"Ristorante, Pizzeria, Bar ","Ristorante, Pizzeria, Bar ",0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Mr.Matthew,Pizzeria Mr.Matthew,0,比萨市中心,0.0,0.0,0.0
+更多美食,Lunasia Green Park Resort,Lunasia Green Park Resort,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria La Torre,Pizzeria La Torre,0,比萨市中心,0.0,0.0,0.0
+更多美食,Vegan Come Koala,Vegan Come Koala,0,其他,0.0,0.0,0.0
+更多美食,Euro kebab,Euro kebab,0,比萨市中心,0.0,0.0,0.0
+更多美食,Pasticceria Viola Di Viola Pasquale,Pasticceria Viola Di Viola Pasquale,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Yame Yame,Yame Yame,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Five Roses Bed & Breakfast,Five Roses Bed & Breakfast,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Pizzeria Rusticanella,Pizzeria Rusticanella,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Ristorante del Bagno Luana,Ristorante del Bagno Luana,0,其他,0.0,0.0,0.0
+更多美食,Mimi to Beach,Mimi to Beach,0,其他,0.0,0.0,0.0
+更多美食,pizzeria Easy Rider,pizzeria Easy Rider,0,其他,0.0,0.0,0.0
+更多美食,L'Oasi del Gelato,L'Oasi del Gelato,0,圣米凯莱,0.0,0.0,0.0
+更多美食,L'Altramarea,L'Altramarea,0,其他,0.0,0.0,0.0
+更多美食,Bar Pasticceria El Salvador,Bar Pasticceria El Salvador,0,比萨市中心,0.0,0.0,0.0
+更多美食,Ristorante al porto,Ristorante al porto,0,其他,0.0,0.0,0.0
+更多美食,Lunasia,Lunasia,0,其他,0.0,0.0,0.0
+更多美食,Batti Batti Blu,Batti Batti Blu,0,其他,0.0,0.0,0.0
+更多美食,Alle Antiche Navi,Alle Antiche Navi,0,比萨市中心,0.0,0.0,0.0
+更多美食,Ristorante Il Colonnino,Ristorante Il Colonnino,0,比萨市中心,0.0,0.0,0.0
+更多美食,Re Artu,Re Artu,0,比萨市中心,0.0,0.0,0.0
+更多美食,Ristoro del Vecchio Distretto,Ristoro del Vecchio Distretto,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Al Madina,Al Madina,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Bar Mocambo,Bar Mocambo,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Flash Pizza Di Mariani Simone,Flash Pizza Di Mariani Simone,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Kapperi!,Kapperi!,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Ristorante Martini,Ristorante Martini,0,其他,0.0,0.0,0.0
+更多美食,Cosmopolitan Golf & Country Club,Cosmopolitan Golf & Country Club,0,其他,0.0,0.0,0.0
+更多美食,Sunset Cafe,Sunset Cafe,0,其他,0.0,0.0,0.0
+更多美食,Ristorante il Grecale,Ristorante il Grecale,0,其他,0.0,0.0,0.0
+更多美食,L' Enoteca,L' Enoteca,0,其他,0.0,0.0,0.0
+更多美食,Marine One Club,Marine One Club,0,其他,0.0,0.0,0.0
+更多美食,La Panacea,La Panacea,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria La Mangiatoia,Pizzeria La Mangiatoia,0,Barbaricina,0.0,0.0,0.0
+更多美食,Pizzeria da Moise',Pizzeria da Moise',0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Trattoria Il Coccodrillo,Trattoria Il Coccodrillo,0,比萨市中心,0.0,0.0,0.0
+更多美食,Pizzeria Funiculi-Funicula,Pizzeria Funiculi-Funicula,0,比萨市中心,0.0,0.0,0.0
+更多美食,Piadineria La Piadona,Piadineria La Piadona,0,比萨市中心,0.0,0.0,0.0
+更多美食,Ristorante Pechino,Ristorante Pechino,0,比萨市中心,0.0,0.0,0.0
+更多美食,Trattoria Stelio,Trattoria Stelio,0,比萨市中心,0.0,0.0,0.0
+更多美食,Ristorante La Clessidra,Ristorante La Clessidra,0,比萨市中心,0.0,0.0,0.0
+更多美食,Pizzeria Nika,Pizzeria Nika,0,比萨市中心,0.0,0.0,0.0
+更多美食,Mr. Sgabeo,Mr. Sgabeo,0,比萨市中心,0.0,0.0,0.0
+更多美食,La Ghiotteria del Brennero,La Ghiotteria del Brennero,0,比萨市中心,0.0,0.0,0.0
+更多美食,Pizzeria Anche No,Pizzeria Anche No,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,La Credenza Club Enogastronomico,La Credenza Club Enogastronomico,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Keith Art Shop Cafe,Keith Art Shop Cafe,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Numero 11,Numero 11,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Pizzeria Il Pomo D'Oro,Pizzeria Il Pomo D'Oro,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Bagno Maddalena,Bagno Maddalena,0,其他,0.0,0.0,0.0
+更多美食,Dante and Ivana,Dante and Ivana,0,其他,0.0,0.0,0.0
+更多美食,Bagno Golf,Bagno Golf,0,其他,0.0,0.0,0.0
+更多美食,Trattoria gazelle,Trattoria gazelle,0,其他,0.0,0.0,0.0
+更多美食,Freddy Paranza,Freddy Paranza,0,其他,0.0,0.0,0.0
+更多美食,Carosello,Carosello,0,其他,0.0,0.0,0.0
+更多美食,Bollicine Cafe',Bollicine Cafe',0,其他,0.0,0.0,0.0
+更多美食,L'Obelisco,L'Obelisco,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Il Granaio,Ristorante Il Granaio,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Paradiso,Ristorante Pizzeria Paradiso,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Foresta,Ristorante Foresta,0,其他,0.0,0.0,0.0
+更多美食,Al Vecchio Braciere,Al Vecchio Braciere,0,其他,0.0,0.0,0.0
+更多美食,Zanobini Pasticceria,Zanobini Pasticceria,0,其他,0.0,0.0,0.0
+更多美食,Scalo 34,Scalo 34,0,其他,0.0,0.0,0.0
+更多美食,Retone 136,Retone 136,0,其他,0.0,0.0,0.0
+更多美食,La Basilica,La Basilica,0,其他,0.0,0.0,0.0
+更多美食,Barlume Cafe',Barlume Cafe',0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Poker D Assi Di Saviozzi & Saviozzi SNC,Pizzeria Poker D Assi Di Saviozzi & Saviozzi SNC,0,其他,0.0,0.0,0.0
+更多美食,Calamidoro Ristorante,Calamidoro Ristorante,0,其他,0.0,0.0,0.0
+更多美食,Caffe Del Borgo,Caffe Del Borgo,0,其他,0.0,0.0,0.0
+更多美食,Da Cucciolo - Trattoria,Da Cucciolo - Trattoria,0,其他,0.0,0.0,0.0
+更多美食,Ristorante A Casa Mia,Ristorante A Casa Mia,0,其他,0.0,0.0,0.0
+更多美食,Aphrodite,Aphrodite,0,其他,0.0,0.0,0.0
+更多美食,Blu Cafè Ristorante,Blu Cafè Ristorante,0,圣米凯莱,0.0,0.0,0.0
+更多美食,Ristorante dalla Signora Buona,Ristorante dalla Signora Buona,0,圣米凯莱,0.0,0.0,0.0
+更多美食,Pasticceria Buselli,Pasticceria Buselli,0,圣米凯莱,0.0,0.0,0.0
+更多美食,Pizzamania,Pizzamania,0,圣米凯莱,0.0,0.0,0.0
+更多美食,Caffe Frassi,Caffe Frassi,0,San Giusto,0.0,0.0,0.0
+更多美食,Totoo restaurant,Totoo restaurant,0,其他,0.0,0.0,0.0
+更多美食,Lega Navale,Lega Navale,0,其他,0.0,0.0,0.0
+更多美食,Il Pellicano Neroazzurro,Il Pellicano Neroazzurro,0,其他,0.0,0.0,0.0
+更多美食,Burger King,Burger King,0,其他,0.0,0.0,0.0
+更多美食,Pescheria L'isola Dei Gabbiani,Pescheria L'isola Dei Gabbiani,0,比萨市中心,0.0,0.0,0.0
+更多美食,La Mescita,La Mescita,0,比萨市中心,0.0,0.0,0.0
+更多美食,Giorgio,Giorgio,0,比萨市中心,0.0,0.0,0.0
+更多美食,Ristorante da Rino,Ristorante da Rino,0,比萨市中心,0.0,0.0,0.0
+更多美食,Meravigliosi Sapori,Meravigliosi Sapori,0,比萨市中心,0.0,0.0,0.0
+更多美食,Cafè I Miracoli and Pastry Store,Cafè I Miracoli and Pastry Store,0,比萨市中心,0.0,0.0,0.0
+更多美食,Il Penny,Il Penny,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Bar la Delizia,Bar la Delizia,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Ristorane Pizzeria La Cereria,Ristorane Pizzeria La Cereria,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,il maiale imperatore,il maiale imperatore,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,L'oasi,L'oasi,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Bar la Terrazza,Ristorante Bar la Terrazza,0,其他,0.0,0.0,0.0
+更多美食,Ristoro Lago Le Tamerici,Ristoro Lago Le Tamerici,0,其他,0.0,0.0,0.0
+更多美食,La Bottega Di Coltano,La Bottega Di Coltano,0,其他,0.0,0.0,0.0
+更多美食,Pia Para Ti,Pia Para Ti,0,其他,0.0,0.0,0.0
+更多美食,L'Arsella,L'Arsella,0,其他,0.0,0.0,0.0
+更多美食,La Rustica,La Rustica,0,其他,0.0,0.0,0.0
+更多美食,La Nuova Rampa,La Nuova Rampa,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Da Lara,Pizzeria Da Lara,0,比萨市中心,0.0,0.0,0.0
+更多美食,Cecco Rivolta,Cecco Rivolta,0,比萨市中心,0.0,0.0,0.0
+更多美食,Ti Gusto,Ti Gusto,0,比萨市中心,0.0,0.0,0.0
+更多美食,La Cocina Mexicana,La Cocina Mexicana,0,比萨市中心,0.0,0.0,0.0
+更多美食,Pizzeria Cassio,Pizzeria Cassio,0,比萨市中心,0.0,0.0,0.0
+更多美食,Bar Duomo,Bar Duomo,0,比萨市中心,0.0,0.0,0.0
+更多美食,Pisa Caffe,Pisa Caffe,0,比萨市中心,0.0,0.0,0.0
+更多美食,Bar Dei Miracoli,Bar Dei Miracoli,0,比萨市中心,0.0,0.0,0.0
+更多美食,Ristorante Emilio,Ristorante Emilio,0,比萨市中心,0.0,0.0,0.0
+更多美食,Wok World,Wok World,0,比萨市中心,0.0,0.0,0.0
+更多美食,Trattoria Il Viale,Trattoria Il Viale,0,圣马蒂诺,0.0,0.0,0.0
+更多美食,Sunlight Restaurant & Bar,Sunlight Restaurant & Bar,0,其他,0.0,0.0,0.0
+更多美食,Bagno Lomi,Bagno Lomi,0,其他,0.0,0.0,0.0
+更多美食,Primo Amore,Primo Amore,0,其他,0.0,0.0,0.0
+更多美食,La Perla,La Perla,0,其他,0.0,0.0,0.0
+更多美食,Toto,Toto,0,其他,0.0,0.0,0.0
+更多美食,Caffetteria Tosteria del Corso,Caffetteria Tosteria del Corso,0,其他,0.0,0.0,0.0
+更多美食,Chef Express,Chef Express,0,其他,0.0,0.0,0.0
+更多美食,Mastro Bistecca,Mastro Bistecca,0,其他,0.0,0.0,0.0
+更多美食,Salvini,Salvini,0,圣米凯莱,0.0,0.0,0.0

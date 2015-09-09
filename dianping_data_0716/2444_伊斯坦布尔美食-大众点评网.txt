@@ -1,0 +1,463 @@
+意大利菜,Domani
+意大利菜,Mezzaluna
+意大利菜,Mezzaluna
+其他西餐,Sultanahmet Koftecisi
+其他西餐,Altin Balik Fish House
+其他西餐,kumpir box
+其他西餐,Akbiyik Fish House
+其他西餐,Gulhane Kebab House
+其他西餐,Kosebasi
+其他西餐,Kosebasi
+其他西餐,Delicatessen
+其他西餐,Gunaydin
+其他西餐,Edirne Kirkpinar Lokantasi
+其他西餐,Sultanahmet Koftecisi
+其他西餐,Zeynel
+其他西餐,Gunaydin
+其他西餐,GunaydIn
+其他西餐,Istanbul
+其他西餐,Sultanahmet Koftecisi
+其他西餐,feslegen ev yemekleri
+其他西餐,Sultanahmet Koftecisi
+其他西餐,Teppanyaki Alaturka
+其他西餐,Istanbul
+其他西餐,Sultanahmet Koftecisi
+其他西餐,Kosebasi
+其他西餐,Edirne Kirkpinar Lokantasi
+其他西餐,Bloom
+其他西餐,Karadeniz Pide
+其他西餐,Edirne Kirkpinar Lokantasi
+中餐,东方中餐厅Great Dong Fang
+中餐,东方中餐厅
+中餐,galleria
+中餐,Quick China
+中餐,Sushico
+中餐,Sushico
+中餐,Sushico
+中餐,Little China
+日韩料理,Sushi Express
+更多亚洲菜,Havuzlu Restaurant
+快餐简餐,Popeyes Louisiana Kitchen
+快餐简餐,Popeyes Louisiana Kitchen
+快餐简餐,Burger King
+快餐简餐,Shake Shack
+快餐简餐,Bay Doner
+快餐简餐,Subway
+快餐简餐,McDonald's
+快餐简餐,McDonald's
+快餐简餐,Sbarro
+快餐简餐,McDonald's
+快餐简餐,McDonald's
+快餐简餐,McDonald's
+快餐简餐,McDonald's
+快餐简餐,KFC
+快餐简餐,Papa John's
+快餐简餐,Burger King
+快餐简餐,McDonald's
+快餐简餐,Burger King
+快餐简餐,Burger King
+快餐简餐,McDonald's
+快餐简餐,Burger King
+快餐简餐,Num num
+快餐简餐,Popeyes Louisiana Kitchen
+快餐简餐,Subway
+快餐简餐,McDonald's
+快餐简餐,Burger King
+快餐简餐,Burger King
+快餐简餐,Leon
+快餐简餐,Posh
+快餐简餐,Marmaris Bufe
+快餐简餐,Marmaris Bufe
+快餐简餐,Burger King
+快餐简餐,Burger King
+快餐简餐,Subway
+快餐简餐,KFC
+快餐简餐,Burger King
+快餐简餐,Subway
+快餐简餐,KFC
+快餐简餐,McDonald's
+快餐简餐,Popeyes Louisiana Kitchen
+快餐简餐,SOGUS KELLE
+海鲜,Sky Kamer Restaurant
+海鲜,Papalina Balik Restaurant
+烧烤,KOFTECISI SELIM USTA
+烧烤,Barbecue House
+烧烤,BBQ Chicken
+烧烤,Tarihi Karakoy Balik Lokantasi
+比萨,Ozi Pizza and Pasta
+比萨,Magic Akademi Pizza
+比萨,Pomodoro Pizza
+比萨,Don Pietro Pizza
+比萨,Domino's Pizza
+比萨,Little Caesars
+比萨,Domino's Pizza Sirkeci
+比萨,Domino's Pizza
+比萨,Domino's Pizza
+比萨,Fratelli la Bufala
+比萨,Domino's Pizza
+比萨,Pizza de Lavia
+比萨,Miss Pizza
+比萨,Domino's Pizza
+比萨,Pizza Max
+比萨,Titiz Turkish Pizza
+比萨,Mapi Makarna Pizza
+比萨,Pizza Bulls
+比萨,Domino's Pizza
+比萨,Metre Pizza
+比萨,Pizza Hut
+比萨,Little Caesars
+比萨,Pizza Hut
+比萨,Pizza Bulls
+咖啡厅,Starbuck
+咖啡厅,Esmer Cafe
+咖啡厅,Hard Rock Cafe Istanbul
+咖啡厅,Aruna Cafe
+咖啡厅,Mesale Cafe
+咖啡厅,The Local Cafe Restaurant
+咖啡厅,Mozaik Cafe
+咖啡厅,Cafe Nero
+咖啡厅,The House Cafe Istiklal Caddesi
+咖啡厅,Simit cafe
+咖啡厅,Elif'li Pasta Cafe
+咖啡厅,Gulhane Sark cafe restaurant
+咖啡厅,Palmiye Cafe Restaurant
+咖啡厅,rumeli cafe
+咖啡厅,Polo Cafe Bistro
+咖啡厅,MUA' Cafe
+咖啡厅,Son OsmanlI cafe
+咖啡厅,seatanbul cafe restaurant
+咖啡厅,Cafe Halic
+咖啡厅,Jazz Cafe
+咖啡厅,Kucuk Ev Cafe Restaurant
+咖啡厅,Bambi Cafe
+咖啡厅,Keyf-i Mekan Cafe And Restaurant
+咖啡厅,Grande Cafe Istanbul
+咖啡厅,istanbul anatolia cafe and restaurant
+咖啡厅,Siva Cafe Restaurant
+咖啡厅,Ashbaz Cafe Restaurant
+咖啡厅,"Velvet Cafe, Galata"
+咖啡厅,Oksijen Cafe
+咖啡厅,Middle East Cafe Restaurant
+咖啡厅,Cafe Pallet
+咖啡厅,Galata Konak Cafe
+咖啡厅,The House Cafe Ortakoy
+咖啡厅,Bambi Cafe
+咖啡厅,Harem's Cafe
+咖啡厅,Green Corner Cafe and Restaurant
+咖啡厅,Antique Turquoise Cafe Restaurant Bar
+咖啡厅,Ozsut Cafe
+咖啡厅,Cafe Lokum
+咖啡厅,Can Cafe
+咖啡厅,The House Cafe Corner
+咖啡厅,Nar Cafe
+咖啡厅,Kikas Cafe ve Restaurant
+咖啡厅,Cafe Life
+咖啡厅,Sultan Hostel Restaurant Cafe
+咖啡厅,Aladesamis cafe restaurant
+咖啡厅,Karemel Bakery Cafe
+咖啡厅,Pierre Lotti Cafe
+咖啡厅,Friends Cafe Restaurant
+咖啡厅,KARAKOYUM CAFE
+咖啡厅,Pancar Cafe
+咖啡厅,Smyrna Cafe/Bar
+咖啡厅,Cafe Zade
+咖啡厅,Duran Nargile Cafe
+咖啡厅,Coffee Caramela
+咖啡厅,Earth Cafe
+咖啡厅,Viyaduk Cafe Pendik
+咖啡厅,Mayk Cafe
+咖啡厅,Garden Cafe
+咖啡厅,Tikinti Cafe
+咖啡厅,Cafe Fessa
+咖啡厅,Fiskos Cafe
+咖啡厅,the beatles cafe
+咖啡厅,Golge Cafe
+咖啡厅,Kirni Cafe Restaurant
+咖啡厅,Mihrimah Sultan Cafe
+咖啡厅,Cafe Privato
+咖啡厅,Yoros Cafe Restaurant
+咖啡厅,Starbucks Coffee Ortakoy
+咖啡厅,Cajun Cafe Brasserie
+咖啡厅,Fes Cafe
+咖啡厅,Cafe Mese
+咖啡厅,Spectra Cafe Restaurant
+咖啡厅,Kybele Cafe Restaurant
+咖啡厅,Saray Restaurant Cafe
+咖啡厅,Seyru Sefa Cafe
+咖啡厅,Cafe Setup
+咖啡厅,Gala Life Cafe
+咖啡厅,holy coffee
+咖啡厅,Ara Cafe
+咖啡厅,Metropolis Cafe And Restaurant
+咖啡厅,Cafe Ambrosia
+咖啡厅,Magnaura Cafe
+咖啡厅,Big Family Cafe Shop
+咖啡厅,Molly's Cafe
+咖啡厅,Cafe Francais
+咖啡厅,Nuran's Design Gallery Cafe
+咖啡厅,Kakulem Nargile Cafe
+咖啡厅,Foodist Cafe
+咖啡厅,Maya's Corner
+咖啡厅,Findik Cafe Restaurant
+咖啡厅,Cafe Galata
+咖啡厅,Sultan Saray Cafe Restaurant
+咖啡厅,Cumhuriyet Nargile and Cafe
+咖啡厅,Cafe Kazanci
+咖啡厅,Gulhane Sur Cafe
+咖啡厅,Galata Istanbul Restaurant Cafe
+咖啡厅,Karabatak Cafe
+咖啡厅,PePo Cafe and Restaurant
+咖啡厅,Ada Cafe Bookstore
+咖啡厅,Pierre Loti Cafe
+咖啡厅,The Stonehouse Cafe
+咖啡厅,Kirpi Cafe and Restaurant
+咖啡厅,Cafe Zurich
+咖啡厅,Taya Hatun Cafe
+咖啡厅,Cafe Sehrim Istanbul
+咖啡厅,Zeynep Cafe
+咖啡厅,Alles Coffee and Shop
+咖啡厅,Ops Cafe Karakoy
+咖啡厅,Sirin Cafe
+咖啡厅,Mini Coffee
+咖啡厅,Mavra Cafe Design Workshop
+咖啡厅,La Paz Cafe Bar
+咖啡厅,Pell's Cafe
+咖啡厅,Simdi Cafe
+咖啡厅,Cafe Firuz
+咖啡厅,Swedish Coffee Point
+咖啡厅,Salt Cafe
+咖啡厅,Willabel Cafe Restaurant
+咖啡厅,Cafe Feride
+咖啡厅,Urban Cafe
+咖啡厅,Cafe de Paris /Teras
+咖啡厅,Mambocino Coffee Moda
+咖啡厅,Yer Cafe
+咖啡厅,ehli keyf cafe
+咖啡厅,Cuba Coffee Social Club
+咖啡厅,Misa Cafe
+咖啡厅,Cafe Zapata
+咖啡厅,Pasalimani Cafe
+咖啡厅,The Garden Restaurant - Cafe
+咖啡厅,Sheesha Cafe
+咖啡厅,Kav Cafe
+咖啡厅,Mek : Med Cafe Restaurant
+咖啡厅,Laterne Cafe
+咖啡厅,TXM People's Cafe Brasserie
+咖啡厅,Mirror Dilli Cafe
+咖啡厅,Cafe Du Levant
+咖啡厅,Mistrado coffee And Bistro
+咖啡厅,Maya Cafe
+咖啡厅,7edi Cafe And Restaurant
+咖啡厅,Orsent Cafe
+咖啡厅,Dotto Cafe Bistro
+咖啡厅,WESTSIDE Cafe + Bistro
+咖啡厅,NOSTALJI CAFE BAR RESTAURANT
+咖啡厅,My Hos Cafe Ve Restaurant
+咖啡厅,Art Cafe Restaurant
+咖啡厅,Durak Bufe Cafe
+咖啡厅,Gulhane Kandil Cafe
+咖啡厅,Baks Cafe
+咖啡厅,Namli Sarkuteri and Cafe
+咖啡厅,Ops Cafe Karakoy
+咖啡厅,Cafe Nord
+咖啡厅,Wisteria Restaurant Cafe
+咖啡厅,KV Restaurant Cafe Bar
+咖啡厅,Purple Wave Restaurant Cafe
+咖啡厅,The House Cafe Caddebostan
+咖啡厅,Degirmen cafe pastanesi
+咖啡厅,Saganak Cafe Restorant
+咖啡厅,Cafe La Porte
+咖啡厅,Fincan Cafe
+咖啡厅,Art Cafe
+咖啡厅,Balkon Cafe
+咖啡厅,Armani Cafe
+咖啡厅,Riva Cafe
+咖啡厅,Marmara Cafe
+咖啡厅,Niwa Cafe Bistro
+咖啡厅,Alperenler Aile Cafe Cay Bahcesi
+咖啡厅,Piraye Cafe Restaurant
+咖啡厅,Kampus Cafe
+咖啡厅,Newbackpackers Cafe restaurant
+咖啡厅,Kaylan Cafe
+咖啡厅,Sultan cafe Restaurant
+咖啡厅,Cafe Sebil
+咖啡厅,Limon Cafe
+咖啡厅,Orient Cafe
+咖啡厅,Limon Cafe Ev Yemekleri
+咖啡厅,Zeno Cafe
+咖啡厅,Kosebasi Nargile Cafe
+咖啡厅,Cafe Nove
+咖啡厅,Ozo Coffee House
+咖啡厅,Pas Coffee House
+咖啡厅,Ist Cafe Patisserie Restaurant
+咖啡厅,Tramvay cafe
+咖啡厅,Cihangir Patiserie Cafe
+咖啡厅,7Gr Art Coffee
+咖啡厅,Pera Museum Cafe
+咖啡厅,Kafka Cafe
+咖啡厅,Anne's Cafe
+咖啡厅,Caylak Cafe
+咖啡厅,Cafe Lumiere
+咖啡厅,Unicorn Modern Ev Yemekleri ve Cafe
+咖啡厅,Pati Cafe
+咖啡厅,J'adore
+咖啡厅,Babel Cafe Restaurant
+咖啡厅,Grand boulevard cafe istanbul
+咖啡厅,49 Cafe
+咖啡厅,Erciyes Cafe
+咖啡厅,Bahcee Cafe
+咖啡厅,Suadiye Cafe
+咖啡厅,Cafe Jerfi
+咖啡厅,Kirpi Cafe
+咖啡厅,Cafe Aydan
+咖啡厅,Dodo Cafe
+咖啡厅,180 Coffee Bakery
+咖啡厅,Cihangir Rose Marine Cafe Restaurant
+咖啡厅,Bahcede Sinek Cafe
+咖啡厅,La Viola Cafe
+咖啡厅,Ny-ist Cafe
+咖啡厅,Pasalimani Cafe Beltur
+咖啡厅,Cafe Sitare
+咖啡厅,fermentasyon cafe
+咖啡厅,Kafeka Nargile Cafe Restaurant
+咖啡厅,Cafe Marmara
+咖啡厅,Melza's Cafe
+咖啡厅,The Coffee Company
+咖啡厅,Italiano Cafe
+咖啡厅,Beyrouth Cafe Club
+咖啡厅,Mambocino Artisan Coffee Besiktas
+咖啡厅,Cafe Zone
+咖啡厅,Den Cafe
+咖啡厅,All Sports Cafe
+咖啡厅,Beltas Restoran Cafe
+咖啡厅,Ulus Cafe
+咖啡厅,Baylan Bebek Cafe
+咖啡厅,Quattro Cafe
+咖啡厅,All Sports Cafe Etiler
+咖啡厅,Rest Cafe Sanat
+咖啡厅,Liberta Cafe
+咖啡厅,Mosquito Cafe
+咖啡厅,Cinili Cafe
+咖啡厅,Han Cafe
+咖啡厅,dilek pasta cafe restaurant
+咖啡厅,Balon Cafe
+咖啡厅,Hurrem Sultan Cafe Restaurant
+咖啡厅,Hayat Cafe
+咖啡厅,Elif Cafe
+咖啡厅,Turko Baba Restaurant Cafe
+咖啡厅,Mitani Cafe
+咖啡厅,Palato Cafe Restaurant
+咖啡厅,Cafe Rumist
+咖啡厅,Cafe Eyfel
+咖啡厅,Franz Kafka Cafe
+咖啡厅,Cumhurriyet Cafe
+咖啡厅,A Plus Cafe Bistro
+咖啡厅,Erol Tas Kultur Merkez
+咖啡厅,Caffe Nero
+咖啡厅,Fez Cafe
+咖啡厅,Kaffeehaus
+面包甜点,MADO
+面包甜点,哈菲茨·穆斯塔法 1864
+面包甜点,Mado
+面包甜点,HafizmuStafa
+面包甜点,新利香西饼屋
+面包甜点,Mado
+面包甜点,Ab'bas Waffle
+面包甜点,Ozsut
+面包甜点,Ozsut
+面包甜点,Karakoy Gulluoglu
+面包甜点,Krispy Kreme Doughnuts
+面包甜点,Ozsut
+面包甜点,Bistro
+面包甜点,Ab'bas Waffle
+面包甜点,Ozsut
+面包甜点,Ozsut
+面包甜点,Bolulu Hasan Usta
+面包甜点,Bolulu Hasan Usta
+面包甜点,Le Pain Quotidien
+面包甜点,Koco
+面包甜点,Le Pain Quotidien
+面包甜点,蛋糕
+面包甜点,Paul
+酒吧,Cheers Soul Kitchen
+酒吧,Cozy Bar and Pub
+酒吧,Sirena Pub Restaurant
+酒吧,The sultan Pub
+酒吧,Midpoint
+酒吧,The Deck
+酒吧,Indigo Pub
+酒吧,Meyvemix Juice Bar
+酒吧,Sah Bar
+酒吧,Pub Salute
+酒吧,Gazebo
+酒吧,THE LOUNGE
+酒吧,Divan Hotel Pub
+酒吧,Baylo Bistro And Bar
+酒吧,Food Club
+酒吧,Paradise
+酒吧,Kuytu Bar Restaurant
+酒吧,City Lights Restaurant Bar
+酒吧,Red River Pub
+酒吧,Sortie Club
+酒吧,Limonata Restaurant and Bar
+酒吧,Tribeca
+酒吧,Taksim Karaoke Bar Restaurant
+酒吧,Civani Restaurant Bar
+酒吧,Midpoint
+酒吧,Burger Bar
+酒吧,London Pub
+酒吧,Midpoint
+酒吧,Old English Pub
+酒吧,Compass Restaurant and Bar
+酒吧,Wonderland
+酒吧,Burger Bar
+酒吧,Hamsi Pub
+酒吧,Safran Pub
+酒吧,Artefes Hotel Terrace Bar and Restaurant
+酒吧,Cistern Bistro Bar
+酒吧,Defne Bar and Restaurant
+酒吧,The North Shield Pub
+酒吧,Gar Pub Restaurant
+酒吧,360stanbulrestaurant
+酒吧,sofyal9
+更多美食,Big Chefs
+更多美食,Nicole Restaurant Istanbul
+更多美食,HD Iskender
+更多美食,Sutis
+更多美食,Sutis
+更多美食,Tandoori
+更多美食,Cookshop
+更多美食,Uludag Kebapcisi
+更多美食,Rossopomodoro
+更多美食,Adana Sofrasi
+更多美食,Sutis
+更多美食,Cookshop
+更多美食,Cookshop
+更多美食,HD iskender
+更多美食,街头小吃
+更多美食,Konuk Evi
+更多美食,哈姆迪肉餐厅
+更多美食,Balikci Sebahattin
+更多美食,Lale Cay Cahcesi
+更多美食,Antiochia
+更多美食,Karadeniz Aile Pide Ve Kebap Salonu
+更多美食,Pandeli
+更多美食,Patso 7
+更多美食,AQUA Restaurant
+更多美食,Haci Baba
+更多美食,Develi Restaurant
+更多美食,Duble Meze Bar
+更多美食,Selim usta Sultanahmet Koftecisi
+更多美食,Nimla Pastirmaci
+更多美食,"Konyalı,Sultanahmet"
+更多美食,Karaköy Güllüglu
+更多美食,Meshur Kuru Fasülyeci
+更多美食,Wan-na
+更多美食,Cennet
+更多美食,Colheti Cafe&Restaurant
+更多美食,iyasofras
+更多美食,Uludağ Florya(伊斯坦布分店)
+更多美食,uludaulus
+更多美食,Erenler Cay Bahcesi
+更多美食,Havan Restaurant
+更多美食,Boncuk Restaurant

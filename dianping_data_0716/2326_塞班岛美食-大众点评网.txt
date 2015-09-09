@@ -1,0 +1,95 @@
+法国菜,Dolphine
+意大利菜,amigo意式餐厅
+意大利菜,Giovanni's
+意大利菜,La Trattoria
+意大利菜,Dining & Bar 747
+墨西哥菜,Jonny's Bar & Grill
+墨西哥菜,Taco Bell
+其他西餐,Tony Roma's
+其他西餐,Country House
+其他西餐,Capricciosa卡布里乔莎餐厅
+其他西餐,KFC and Taco Bell
+其他西餐,haiku
+其他西餐,Cafe&Restaurant N@chan!chi
+其他西餐,乡村餐厅
+其他西餐,The Coffee Room N-106
+其他西餐,Coffee & Jazz
+其他西餐,Siberia Restaurant
+快餐简餐,麦当劳
+快餐简餐,军舰岛餐厅
+快餐简餐,Capricciosa卡布里乔莎餐厅
+快餐简餐,台湾牛肉面
+快餐简餐,聚友轩(中餐)
+快餐简餐,台湾牛肉面
+快餐简餐,大长今
+快餐简餐,Revolving Restaurant 360
+快餐简餐,Wild Bill's
+快餐简餐,麦当劳
+快餐简餐,聚友轩
+快餐简餐,乡村餐厅
+快餐简餐,Godfather's Bar
+快餐简餐,Cafe at the Park
+快餐简餐,Coffee Care Saipan
+快餐简餐,Shirley's Coffee Shop
+快餐简餐,Round Two
+快餐简餐,Oleai Beach Bar & Grill
+快餐简餐,East West
+快餐简餐,Gentle Brook Cafe
+海鲜,塞班悦泰自助餐厅（world cafe）
+海鲜,咪咪家的餐厅
+海鲜,广州小菜馆
+海鲜,HAIKU seafood
+海鲜,鳄鱼头海滩
+中餐,广州小菜馆
+中餐,大可以
+中餐,华山亭
+中餐,Happiness Chinese Restaurant
+中餐,The Shack-Saipan Beach Side Cafe
+日韩料理,金八
+日韩料理,Himawari
+日韩料理,将军
+日韩料理,Seoul One
+日韩料理,chun ji restaurant
+日韩料理,Miyako
+日韩料理,Myung Dong Korean Restaurant
+日韩料理,Tori Hide En
+日韩料理,Abyss Fisherman's Bar & Restaurant
+酒吧,gig酒吧
+酒吧,日落酒吧与烧烤餐厅
+酒吧,D'Elegance Cafe
+酒吧,GIG night club
+更多亚洲菜,Restaurant Truong
+更多亚洲菜,World Cafe Fiesta Resort & Spa Saipan
+更多亚洲菜,Thai House
+更多亚洲菜,spicy thai noodle place
+更多亚洲菜,Wild Bill's
+更多亚洲菜,阿格莱亚融合餐厅
+更多亚洲菜,Caravan Healthy Foods
+更多亚洲菜,Feel - Cafe & Bar
+更多亚洲菜,Island Dinning and Bar Aglala
+咖啡厅,hard rock
+咖啡厅,D'Elegance Cafe
+咖啡厅,The Naked Fish
+咖啡厅,The Shack-Saipan Beach Side Cafe
+披萨,American pizza & Grill
+披萨,American pizza & Grill
+披萨,American pizza & Grill
+面包甜点,Winchell's Donuts House
+面包甜点,subway
+面包甜点,GODIVA
+面包甜点,Sweet Escape
+烧烤,摩洛哥夜市
+烧烤,Sunset Beach BBQ
+烧烤,大长今
+烧烤,查莫洛夜市
+烧烤,Cafe&Restaurant N@chan!chi
+其他美食,海景酒家 Saipan Seaside ResTaurAnt
+其他美食,CoCo Restaurant
+其他美食,"Capricciosa, Saipan Garapan"
+其他美食,Shenanigans
+其他美食,Poon's Restaurant
+其他美食,Nami Restaurant
+其他美食,Nin-Nikuya Grotto
+其他美食,SOS Bar&Grill
+其他美食,Casa Urashima
+其他美食,Tropical Blendz

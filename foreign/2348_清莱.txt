@@ -1,0 +1,15 @@
+东南亚菜,Baimiao ResTaurAnt,Baimiao ResTaurAnt,0,清莱其他,7.2,6.4,6.8
+东南亚菜,Sukhothai,Sukhothai,0,,0.0,0.0,0.0
+江浙菜,云南饭店,云南饭店(清莱分店),0,,6.8,6.3,6.3
+酒吧,Cat Bar,Cat Bar,0,,0.0,0.0,0.0
+酒吧,Kaffee Hub,Kaffee Hub,0,,0.0,0.0,0.0
+小吃面食,大棚烫面面店,大棚烫面面店,0,,7.5,7.5,7.5
+西餐,Baimiao ResTaurAnt,Baimiao ResTaurAnt,0,清莱其他,7.2,6.4,6.8
+西餐,999 Restaurant,999 Restaurant,0,,6.9,6.9,6.9
+西餐,Nai Phol Tuan Restaurant,Nai Phol Tuan Restaurant,0,,0.0,0.0,0.0
+咖啡厅,冰激凌店,冰激凌店,0,清莱其他,7.2,6.4,6.8
+咖啡厅,Janine cafe,Janine cafe,0,,7.0,7.0,7.0
+咖啡厅,Le Petit Cafe',Le Petit Cafe',0,,0.0,0.0,0.0
+面包甜点,冰激凌店,冰激凌店,0,清莱其他,7.2,6.4,6.8
+快餐,素馨花餐厅,素馨花餐厅,0,,7.6,7.5,7.4
+其他中餐,云南人家,云南人家,0,清莱其他,0.0,0.0,0.0

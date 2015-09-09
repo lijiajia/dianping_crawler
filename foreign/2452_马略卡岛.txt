@@ -1,0 +1,2095 @@
+火锅,满洲里,满洲里,0,,0.0,0.0,0.0
+意大利菜,Toscana pizzeria,Toscana pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Laroc,Laroc,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria de Razza,Trattoria de Razza,0,其他,0.0,0.0,0.0
+意大利菜,Floridita mar y cielo,Floridita mar y cielo,0,其他,0.0,0.0,0.0
+意大利菜,Bons Aires,Bons Aires,0,其他,0.0,0.0,0.0
+意大利菜,Cucu,Cucu,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Classico Club Nautico Santa Ponsa,Ristorante Classico Club Nautico Santa Ponsa,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria BBQ Steakhouse La Fontanella,Ristorante Pizzeria BBQ Steakhouse La Fontanella,0,其他,0.0,0.0,0.0
+意大利菜,Fresh,Fresh,0,埃尔阿雷纳,0.0,0.0,0.0
+意大利菜,Il Bucaniere Playa de Palma,Il Bucaniere Playa de Palma,0,埃尔阿雷纳,0.0,0.0,0.0
+意大利菜,Pizzeria Don Vito,Pizzeria Don Vito,0,阿尔库迪亚,0.0,0.0,0.0
+意大利菜,Trattoria y Pizzeria la Trencadora,Trattoria y Pizzeria la Trencadora,0,阿尔库迪亚,0.0,0.0,0.0
+意大利菜,Cantonet,Cantonet,0,阿尔库迪亚,0.0,0.0,0.0
+意大利菜,Casa Vila,Casa Vila,0,波多黎各萨,0.0,0.0,0.0
+意大利菜,Pizzeria Trattoria Mamma Mia!,Pizzeria Trattoria Mamma Mia!,0,普拉亚斯马洛卡,0.0,0.0,0.0
+意大利菜,Pizzeria del Porto,Pizzeria del Porto,0,索列尔港,0.0,0.0,0.0
+意大利菜,Pomodoro,Pomodoro,0,其他,0.0,0.0,0.0
+意大利菜,Da Marcello Pizza e Pasta,Da Marcello Pizza e Pasta,0,其他,0.0,0.0,0.0
+意大利菜,Restaurante Venezia Da Luigi,Restaurante Venezia Da Luigi,0,其他,0.0,0.0,0.0
+意大利菜,Tomeu,Tomeu,0,其他,0.0,0.0,0.0
+意大利菜,La Fraschetta,La Fraschetta,0,其他,0.0,0.0,0.0
+意大利菜,Bukaro Ristorante Italiano,Bukaro Ristorante Italiano,0,其他,0.0,0.0,0.0
+意大利菜,Mama Mia,Mama Mia,0,其他,0.0,0.0,0.0
+意大利菜,Cafe Murada,Cafe Murada,0,其他,0.0,0.0,0.0
+意大利菜,Il Chiringo,Il Chiringo,0,其他,0.0,0.0,0.0
+意大利菜,The Room,The Room,0,其他,0.0,0.0,0.0
+意大利菜,Bianco e Rosso,Bianco e Rosso,0,其他,0.0,0.0,0.0
+意大利菜,St. Ambros trattoria italiana,St. Ambros trattoria italiana,0,其他,0.0,0.0,0.0
+意大利菜,La Bottega de Michele,La Bottega de Michele,0,其他,0.0,0.0,0.0
+意大利菜,Stefano's,Stefano's,0,其他,0.0,0.0,0.0
+意大利菜,Dolce Vita Restaurante,Dolce Vita Restaurante,0,其他,0.0,0.0,0.0
+意大利菜,Kikinda,Kikinda,0,其他,0.0,0.0,0.0
+意大利菜,Pasta Pasta,Pasta Pasta,0,其他,0.0,0.0,0.0
+意大利菜,Quinto Califa,Quinto Califa,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Magi,Ristorante Magi,0,其他,0.0,0.0,0.0
+意大利菜,Sa Font Bar De Vinos,Sa Font Bar De Vinos,0,其他,0.0,0.0,0.0
+意大利菜,Placa Vuit,Placa Vuit,0,其他,0.0,0.0,0.0
+意大利菜,Rossini Mare,Rossini Mare,0,其他,0.0,0.0,0.0
+意大利菜,ALMARE Restaurante y Mas,ALMARE Restaurante y Mas,0,其他,0.0,0.0,0.0
+意大利菜,Manduca,Manduca,0,其他,0.0,0.0,0.0
+意大利菜,Bar Sa Tanca,Bar Sa Tanca,0,其他,0.0,0.0,0.0
+意大利菜,pizzeria vesuvio,pizzeria vesuvio,0,其他,0.0,0.0,0.0
+意大利菜,U Lengo de Sant Magi Osteria Ligure,U Lengo de Sant Magi Osteria Ligure,0,其他,0.0,0.0,0.0
+意大利菜,il forno de cala ratjada,il forno de cala ratjada,0,其他,0.0,0.0,0.0
+意大利菜,PANNINO,PANNINO,0,其他,0.0,0.0,0.0
+意大利菜,proSecCo,proSecCo,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Obris,Pizzeria Obris,0,阿尔库迪亚,0.0,0.0,0.0
+意大利菜,Il Vicolo,Il Vicolo,0,帕曼诺瓦,0.0,0.0,0.0
+意大利菜,Eolo Pizzeria,Eolo Pizzeria,0,波多黎各萨,0.0,0.0,0.0
+意大利菜,L'Incanto,L'Incanto,0,普拉亚斯马洛卡,0.0,0.0,0.0
+意大利菜,Pavarotti,Pavarotti,0,其他,0.0,0.0,0.0
+意大利菜,Acqua Marina,Acqua Marina,0,其他,0.0,0.0,0.0
+意大利菜,Mamma Mia,Mamma Mia,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Coyote,Ristorante Pizzeria Coyote,0,其他,0.0,0.0,0.0
+意大利菜,Bella italia,Bella italia,0,其他,0.0,0.0,0.0
+意大利菜,Restaurante Portofino,Restaurante Portofino,0,其他,0.0,0.0,0.0
+意大利菜,Roma 1000,Roma 1000,0,其他,0.0,0.0,0.0
+意大利菜,Ritzi,Ritzi,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria San Marco,Pizzeria San Marco,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria da Giovanni,Trattoria da Giovanni,0,其他,0.0,0.0,0.0
+意大利菜,Osteria da Sandro,Osteria da Sandro,0,其他,0.0,0.0,0.0
+意大利菜,Portofino Hotel Restaurant,Portofino Hotel Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Bukaro,Bukaro,0,其他,0.0,0.0,0.0
+意大利菜,Cocco Portixol,Cocco Portixol,0,其他,0.0,0.0,0.0
+意大利菜,El Molino Mediterraneo,El Molino Mediterraneo,0,其他,0.0,0.0,0.0
+意大利菜,Restaurante La Sofia,Restaurante La Sofia,0,其他,0.0,0.0,0.0
+意大利菜,Piccola Italia,Piccola Italia,0,其他,0.0,0.0,0.0
+意大利菜,Mamma Rosa,Mamma Rosa,0,其他,0.0,0.0,0.0
+意大利菜,Il Porticato,Il Porticato,0,其他,0.0,0.0,0.0
+意大利菜,Serendipity,Serendipity,0,其他,0.0,0.0,0.0
+意大利菜,The Room,The Room,0,其他,0.0,0.0,0.0
+意大利菜,Restaurante Rossini,Restaurante Rossini,0,其他,0.0,0.0,0.0
+意大利菜,Il Migliore,Il Migliore,0,其他,0.0,0.0,0.0
+意大利菜,Restaurante Ublo,Restaurante Ublo,0,其他,0.0,0.0,0.0
+意大利菜,the Opera,the Opera,0,其他,0.0,0.0,0.0
+意大利菜,Il forno a legna,Il forno a legna,0,其他,0.0,0.0,0.0
+意大利菜,La Bruschetta,La Bruschetta,0,其他,0.0,0.0,0.0
+意大利菜,La Terraza de Bunyola,La Terraza de Bunyola,0,其他,0.0,0.0,0.0
+意大利菜,Sa Bodega,Sa Bodega,0,其他,0.0,0.0,0.0
+意大利菜,L'Atrio,L'Atrio,0,其他,0.0,0.0,0.0
+意大利菜,Cafe La Luna,Cafe La Luna,0,其他,0.0,0.0,0.0
+意大利菜,Las Palmeras,Las Palmeras,0,其他,0.0,0.0,0.0
+意大利菜,La Focaccia,La Focaccia,0,其他,0.0,0.0,0.0
+意大利菜,La Cantina,La Cantina,0,其他,0.0,0.0,0.0
+意大利菜,Made in Italy,Made in Italy,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante La Concha,Ristorante La Concha,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Son Matias Mar,Pizzeria Son Matias Mar,0,其他,0.0,0.0,0.0
+意大利菜,La Roca,La Roca,0,其他,0.0,0.0,0.0
+意大利菜,Il Colleseo,Il Colleseo,0,其他,0.0,0.0,0.0
+意大利菜,Don Giovanni,Don Giovanni,0,其他,0.0,0.0,0.0
+意大利菜,La Solana,La Solana,0,其他,0.0,0.0,0.0
+意大利菜,Massilia,Massilia,0,其他,0.0,0.0,0.0
+意大利菜,Le Pillar,Le Pillar,0,其他,0.0,0.0,0.0
+意大利菜,Tutto Pasta Ristorante,Tutto Pasta Ristorante,0,其他,0.0,0.0,0.0
+意大利菜,Galilea Trattoria & Lounge,Galilea Trattoria & Lounge,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Piero Rossi 1988,Ristorante Pizzeria Piero Rossi 1988,0,其他,0.0,0.0,0.0
+意大利菜,MADE IN ITALY,MADE IN ITALY,0,其他,0.0,0.0,0.0
+意大利菜,Taberna Marycielo,Taberna Marycielo,0,其他,0.0,0.0,0.0
+意大利菜,La Pergola Pizzeria,La Pergola Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Bambino Pizzeria,Bambino Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Aldente,Aldente,0,埃尔阿雷纳,0.0,0.0,0.0
+意大利菜,Cavallino Rosso,Cavallino Rosso,0,埃尔阿雷纳,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Piccola Stella,Ristorante Pizzeria Piccola Stella,0,埃尔阿雷纳,0.0,0.0,0.0
+意大利菜,Bacco,Bacco,0,帕曼诺瓦,0.0,0.0,0.0
+意大利菜,osteria il bugiardo e la gitana,osteria il bugiardo e la gitana,0,普拉亚斯马洛卡,0.0,0.0,0.0
+意大利菜,Antica Roma,Antica Roma,0,瑞格,0.0,0.0,0.0
+意大利菜,Il Postino,Il Postino,0,瑞格,0.0,0.0,0.0
+意大利菜,Vaumar,Vaumar,0,瑞格,0.0,0.0,0.0
+意大利菜,Ca n'Olesa,Ca n'Olesa,0,瑞格,0.0,0.0,0.0
+意大利菜,Antichi Sapori,Antichi Sapori,0,其他,0.0,0.0,0.0
+意大利菜,Ciao Bei,Ciao Bei,0,其他,0.0,0.0,0.0
+意大利菜,Mama Mia,Mama Mia,0,其他,0.0,0.0,0.0
+意大利菜,Mama Rosa,Mama Rosa,0,其他,0.0,0.0,0.0
+意大利菜,The Venetian,The Venetian,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Battiato,Trattoria Battiato,0,其他,0.0,0.0,0.0
+意大利菜,Pino,Pino,0,其他,0.0,0.0,0.0
+意大利菜,Colomba,Colomba,0,其他,0.0,0.0,0.0
+意大利菜,Goccia Di Latte,Goccia Di Latte,0,其他,0.0,0.0,0.0
+意大利菜,Il Grillo,Il Grillo,0,其他,0.0,0.0,0.0
+意大利菜,buona sera,buona sera,0,其他,0.0,0.0,0.0
+意大利菜,Piccolo Italia,Piccolo Italia,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Kompas,Pizzeria Kompas,0,其他,0.0,0.0,0.0
+意大利菜,La Bruschetta Nueva SL,La Bruschetta Nueva SL,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Di Trani,Pizzeria Di Trani,0,其他,0.0,0.0,0.0
+意大利菜,Via Appia,Via Appia,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Dil Porto,Trattoria Dil Porto,0,其他,0.0,0.0,0.0
+意大利菜,Ginos,Ginos,0,其他,0.0,0.0,0.0
+意大利菜,Il Tano 2,Il Tano 2,0,其他,0.0,0.0,0.0
+意大利菜,Milano,Milano,0,其他,0.0,0.0,0.0
+意大利菜,Il Gelato del Padrino,Il Gelato del Padrino,0,其他,0.0,0.0,0.0
+意大利菜,Paparazzi Restaurante,Paparazzi Restaurante,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Vesubio,Pizzeria Vesubio,0,其他,0.0,0.0,0.0
+意大利菜,La Tagliatella,La Tagliatella,0,其他,0.0,0.0,0.0
+意大利菜,La Tagliatella Zaragoza - Puerto Venecia,La Tagliatella Zaragoza - Puerto Venecia,0,其他,0.0,0.0,0.0
+意大利菜,Ca'n Cannoli,Ca'n Cannoli,0,瑞格,0.0,0.0,0.0
+意大利菜,Domenico,Domenico,0,索列尔港,0.0,0.0,0.0
+意大利菜,Diablito,Diablito,0,其他,0.0,0.0,0.0
+意大利菜,La Trattoria,La Trattoria,0,其他,0.0,0.0,0.0
+意大利菜,Vecchio Giovanni,Vecchio Giovanni,0,其他,0.0,0.0,0.0
+意大利菜,Appia Antica,Appia Antica,0,其他,0.0,0.0,0.0
+意大利菜,Il Napolitano,Il Napolitano,0,其他,0.0,0.0,0.0
+意大利菜,La Tagliatella Palma Mallorca,La Tagliatella Palma Mallorca,0,其他,0.0,0.0,0.0
+意大利菜,Alimentari,Alimentari,0,其他,0.0,0.0,0.0
+意大利菜,Ginos Ristorante,Ginos Ristorante,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Con Cocina,Pizzeria Con Cocina,0,其他,0.0,0.0,0.0
+意大利菜,Due,Due,0,其他,0.0,0.0,0.0
+意大利菜,Il Cuore Di Palma,Il Cuore Di Palma,0,马略卡岛,0.0,0.0,0.0
+意大利菜,Little Italy Restaurante- Pizzeria,Little Italy Restaurante- Pizzeria,0,阿尔库迪亚,0.0,0.0,0.0
+意大利菜,I Briganti,I Briganti,0,波多黎各萨,0.0,0.0,0.0
+意大利菜,B.i.a,B.i.a,0,瑞格,0.0,0.0,0.0
+意大利菜,O Sole Mio,O Sole Mio,0,瑞格,0.0,0.0,0.0
+意大利菜,Nonna Dina,Nonna Dina,0,其他,0.0,0.0,0.0
+意大利菜,Italian square,Italian square,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante El Tula,Ristorante El Tula,0,其他,0.0,0.0,0.0
+意大利菜,Magari,Magari,0,其他,0.0,0.0,0.0
+意大利菜,Giorgio,Giorgio,0,其他,0.0,0.0,0.0
+意大利菜,Real De Vellon,Real De Vellon,0,其他,0.0,0.0,0.0
+意大利菜,La Terrazza Port Andratx,La Terrazza Port Andratx,0,其他,0.0,0.0,0.0
+意大利菜,Alla Scala,Alla Scala,0,其他,0.0,0.0,0.0
+意大利菜,Bucaro,Bucaro,0,其他,0.0,0.0,0.0
+意大利菜,Caruso Restaurant Sa Coma,Caruso Restaurant Sa Coma,0,其他,0.0,0.0,0.0
+意大利菜,Piar,Piar,0,其他,0.0,0.0,0.0
+意大利菜,O solo mia,O solo mia,0,其他,0.0,0.0,0.0
+法国菜,Restaurant il Giardino,Restaurant il Giardino,0,阿尔库迪亚,0.0,0.0,0.0
+法国菜,La Petite Iglesia,La Petite Iglesia,0,其他,0.0,0.0,0.0
+法国菜,Fish and Soul,Fish and Soul,0,其他,0.0,0.0,0.0
+法国菜,Es Castell,Es Castell,0,其他,0.0,0.0,0.0
+法国菜,Creperie Cool,Creperie Cool,0,帕曼诺瓦,0.0,0.0,0.0
+墨西哥菜,La Bodega,La Bodega,0,其他,0.0,0.0,0.0
+墨西哥菜,Vintage Santa Catalina,Vintage Santa Catalina,0,其他,0.0,0.0,0.0
+墨西哥菜,El maquito,El maquito,0,其他,0.0,0.0,0.0
+墨西哥菜,Tex Mex Restaurant,Tex Mex Restaurant,0,埃尔阿雷纳,0.0,0.0,0.0
+墨西哥菜,Dakota TexMex,Dakota TexMex,0,阿尔库迪亚,0.0,0.0,0.0
+墨西哥菜,La Cantina De Frida Taqueria,La Cantina De Frida Taqueria,0,其他,0.0,0.0,0.0
+墨西哥菜,Tex Mex Sports Bar,Tex Mex Sports Bar,0,其他,0.0,0.0,0.0
+墨西哥菜,Tequila Ville,Tequila Ville,0,其他,0.0,0.0,0.0
+墨西哥菜,Dakotas,Dakotas,0,其他,0.0,0.0,0.0
+墨西哥菜,El Cuate,El Cuate,0,其他,0.0,0.0,0.0
+墨西哥菜,Mexico Bar,Mexico Bar,0,其他,0.0,0.0,0.0
+其他西餐,Ponderosa Beach,Ponderosa Beach,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,jamaica,jamaica,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Sa Torre,Restaurant Sa Torre,0,其他,0.0,0.0,0.0
+其他西餐,Oxygen Bar Porte de Alcudia,Oxygen Bar Porte de Alcudia,0,其他,0.0,0.0,0.0
+其他西餐,Bistro Ein-Stein Bar Cafeteria,Bistro Ein-Stein Bar Cafeteria,0,其他,0.0,0.0,0.0
+其他西餐,Mare Nostrum,Mare Nostrum,0,瑞格,0.0,0.0,0.0
+其他西餐,Coopers Bar,Coopers Bar,0,其他,0.0,0.0,0.0
+其他西餐,Welsh Mosquito,Welsh Mosquito,0,其他,0.0,0.0,0.0
+其他西餐,Mister Green,Mister Green,0,瑞格,0.0,0.0,0.0
+其他西餐,Restaurante Selani,Restaurante Selani,0,其他,0.0,0.0,0.0
+其他西餐,Bistro Steakhouse 800 Grad Celsius,Bistro Steakhouse 800 Grad Celsius,0,其他,0.0,0.0,0.0
+其他西餐,Scottish Corner,Scottish Corner,0,其他,0.0,0.0,0.0
+其他西餐,Es Torrent de Son Carrió,Es Torrent de Son Carrió,0,其他,0.0,0.0,0.0
+其他西餐,Don Pedro Cafe Bistro,Don Pedro Cafe Bistro,0,索列尔港,0.0,0.0,0.0
+其他西餐,Ses Oliveres,Ses Oliveres,0,其他,0.0,0.0,0.0
+其他西餐,Rope and Anchor,Rope and Anchor,0,其他,0.0,0.0,0.0
+其他西餐,Bon Profit,Bon Profit,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Tapa Negra,Tapa Negra,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Marisco,Restaurante Marisco,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Sa Casa,Sa Casa,0,其他,0.0,0.0,0.0
+其他西餐,Mitj & Mitj,Mitj & Mitj,0,其他,0.0,0.0,0.0
+其他西餐,Celler Bar Randa,Celler Bar Randa,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Can Gavella,Can Gavella,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Il Vivo,Il Vivo,0,其他,0.0,0.0,0.0
+其他西餐,El Bohemio,El Bohemio,0,其他,0.0,0.0,0.0
+其他西餐,D'alt des Coll,D'alt des Coll,0,其他,0.0,0.0,0.0
+其他西餐,Regina Steak House,Regina Steak House,0,其他,0.0,0.0,0.0
+其他西餐,Club Náutic S'Estanyol Restaurant,Club Náutic S'Estanyol Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,El Pilon,El Pilon,0,其他,0.0,0.0,0.0
+其他西餐,Es Raco des Port,Es Raco des Port,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante HPC Portocolom,Restaurante HPC Portocolom,0,其他,0.0,0.0,0.0
+其他西餐,Monkey Pizza & Bistro,Monkey Pizza & Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Antonio,Antonio,0,其他,0.0,0.0,0.0
+其他西餐,Flor de Sal,Flor de Sal,0,其他,0.0,0.0,0.0
+其他西餐,The Boatyard,The Boatyard,0,其他,0.0,0.0,0.0
+其他西餐,Ca's Patro March,Ca's Patro March,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Luis,Restaurante Luis,0,其他,0.0,0.0,0.0
+其他西餐,Es Bergant,Es Bergant,0,其他,0.0,0.0,0.0
+其他西餐,The Duke Restaurante,The Duke Restaurante,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Bruno,Restaurante Bruno,0,其他,0.0,0.0,0.0
+其他西餐,Es Mercat d'Olivar,Es Mercat d'Olivar,0,其他,0.0,0.0,0.0
+其他西餐,Es Castell,Es Castell,0,,0.0,0.0,0.0
+其他西餐,Bar Nou,Bar Nou,0,其他,0.0,0.0,0.0
+其他西餐,Paco's Funny Bunnies English Restaurant,Paco's Funny Bunnies English Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Miami,Restaurante Miami,0,其他,0.0,0.0,0.0
+其他西餐,Spira,Spira,0,其他,0.0,0.0,0.0
+其他西餐,Barlovento,Barlovento,0,其他,0.0,0.0,0.0
+其他西餐,Cappuccino Grand Cafe,Cappuccino Grand Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Moli de Sal Mallorca,Moli de Sal Mallorca,0,其他,0.0,0.0,0.0
+其他西餐,Beachbar S'Illot,Beachbar S'Illot,0,其他,0.0,0.0,0.0
+其他西餐,Sa Fusteria,Sa Fusteria,0,其他,0.0,0.0,0.0
+其他西餐,Casa Pepe,Casa Pepe,0,其他,0.0,0.0,0.0
+其他西餐,Ricky's Cafe Bistro,Ricky's Cafe Bistro,0,其他,0.0,0.0,0.0
+其他西餐,La Bodega,La Bodega,0,其他,0.0,0.0,0.0
+其他西餐,Las Palmeras,Las Palmeras,0,其他,0.0,0.0,0.0
+其他西餐,Oliu,Oliu,0,其他,0.0,0.0,0.0
+其他西餐,Tapas De Sa Caleta,Tapas De Sa Caleta,0,其他,0.0,0.0,0.0
+其他西餐,Los Amigos,Los Amigos,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Santi Pons,Restaurante Santi Pons,0,其他,0.0,0.0,0.0
+其他西餐,Can Costa,Can Costa,0,其他,0.0,0.0,0.0
+其他西餐,Bar - Restaurant Mantonia,Bar - Restaurant Mantonia,0,其他,0.0,0.0,0.0
+其他西餐,Quince,Quince,0,其他,0.0,0.0,0.0
+其他西餐,Finnegans pub & restaurant,Finnegans pub & restaurant,0,其他,0.0,0.0,0.0
+其他西餐,restaurante ronda63,restaurante ronda63,0,其他,0.0,0.0,0.0
+其他西餐,Liverpool Bar,Liverpool Bar,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Casa do Pulpo,Casa do Pulpo,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Can Torrat,Can Torrat,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,El Patio,El Patio,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Restaurante Brisas del Mediterraneo,Restaurante Brisas del Mediterraneo,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Rias Gallegas,Rias Gallegas,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Restaurante S'albufera,Restaurante S'albufera,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,The Gurkhas,The Gurkhas,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Britannia Pub,Britannia Pub,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Moma,Moma,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Portofino,Portofino,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,S'Amfora Restaurant,S'Amfora Restaurant,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Woody Woodpeckers,Woody Woodpeckers,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Trotters Bar,Trotters Bar,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Jolly Roger,Jolly Roger,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Luna's Grill,Luna's Grill,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,La Terraza,La Terraza,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Danny's Gastrobar,Danny's Gastrobar,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Posidonia-retaurante . mar i terra,Posidonia-retaurante . mar i terra,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Restaurant Miramar,Restaurant Miramar,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Ramon's Bar,Ramon's Bar,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Sgt. Pepper's,Sgt. Pepper's,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,SA Romana,SA Romana,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Can Costa Alcudia,Can Costa Alcudia,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Restaurante Satyricon,Restaurante Satyricon,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Sa Portassa,Sa Portassa,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,365 Restaurant,365 Restaurant,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Cafe Placa,Cafe Placa,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Dos Hermanas,Dos Hermanas,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Manzanas y Peras,Manzanas y Peras,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Bar Alhambra,Bar Alhambra,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,La Font del Gall,La Font del Gall,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Meson Son Caliu,Meson Son Caliu,0,帕曼诺瓦,0.0,0.0,0.0
+其他西餐,Mood Beach,Mood Beach,0,帕曼诺瓦,0.0,0.0,0.0
+其他西餐,Tango,Tango,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Tolos,Tolos,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Simbad,Simbad,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Restaurant Ca'n Josep,Restaurant Ca'n Josep,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Restaurante Brisa Marina,Restaurante Brisa Marina,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Celler la Parra,Celler la Parra,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Reial Club Nautic Port de Pollenca Restaurante,Reial Club Nautic Port de Pollenca Restaurante,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,O Lume,O Lume,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Hibiscus,Hibiscus,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Centric,Centric,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Neptuno Restaurant,Neptuno Restaurant,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Port 31,Port 31,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,El Posito,El Posito,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Ca'n Torrens,Ca'n Torrens,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Naciente,Naciente,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Na Ruixa,Na Ruixa,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,THE PINES CAFE/BAR,THE PINES CAFE/BAR,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Palms Bar Puerto Pollensa,Palms Bar Puerto Pollensa,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Bar Marinas,Bar Marinas,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Cal Dimoni,Cal Dimoni,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Es Celler,Es Celler,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Restaurant Na Creu,Restaurant Na Creu,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Daica,Daica,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Sis Pins,Sis Pins,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,El Gaucho (Asador Argentino),El Gaucho (Asador Argentino),0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Celler Sa Sini,Celler Sa Sini,0,瑞格,0.0,0.0,0.0
+其他西餐,Chaplins,Chaplins,0,瑞格,0.0,0.0,0.0
+其他西餐,Celler Can Amer,Celler Can Amer,0,瑞格,0.0,0.0,0.0
+其他西餐,JOAN MARC RESTAURANT,JOAN MARC RESTAURANT,0,瑞格,0.0,0.0,0.0
+其他西餐,Es Verger,Es Verger,0,瑞格,0.0,0.0,0.0
+其他西餐,Gustar,Gustar,0,瑞格,0.0,0.0,0.0
+其他西餐,restaurante buffet menestralia,restaurante buffet menestralia,0,瑞格,0.0,0.0,0.0
+其他西餐,Es Mirador de Monnaber' Restaurant,Es Mirador de Monnaber' Restaurant,0,瑞格,0.0,0.0,0.0
+其他西餐,Restaurant Es Canyis,Restaurant Es Canyis,0,索列尔港,0.0,0.0,0.0
+其他西餐,Ca's Mariner,Ca's Mariner,0,索列尔港,0.0,0.0,0.0
+其他西餐,La Casa Gallega,La Casa Gallega,0,其他,0.0,0.0,0.0
+其他西餐,Forty's,Forty's,0,其他,0.0,0.0,0.0
+其他西餐,Grill Argentino Cala Galiota,Grill Argentino Cala Galiota,0,其他,0.0,0.0,0.0
+其他西餐,Casa Heike,Casa Heike,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Bar Restaurant Drac,Cafe Bar Restaurant Drac,0,其他,0.0,0.0,0.0
+其他西餐,Cassai,Cassai,0,其他,0.0,0.0,0.0
+其他西餐,Alchemy,Alchemy,0,其他,0.0,0.0,0.0
+其他西餐,SA Cova Bar Restaurant,SA Cova Bar Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Miguel de Cala Pi,Restaurante Miguel de Cala Pi,0,其他,0.0,0.0,0.0
+其他西餐,TONYS BAR AND RESTAURANT,TONYS BAR AND RESTAURANT,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante La Marina,Restaurante La Marina,0,其他,0.0,0.0,0.0
+其他西餐,Tenis Rocamarina,Tenis Rocamarina,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Zocalo,Restaurante Zocalo,0,其他,0.0,0.0,0.0
+其他西餐,Porto Fino Restaurante,Porto Fino Restaurante,0,其他,0.0,0.0,0.0
+其他西餐,Port Petit,Port Petit,0,其他,0.0,0.0,0.0
+其他西餐,Acuarius,Acuarius,0,其他,0.0,0.0,0.0
+其他西餐,Momo,Momo,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Neptuno,Cafeteria Neptuno,0,其他,0.0,0.0,0.0
+其他西餐,Tapas Y Mas,Tapas Y Mas,0,其他,0.0,0.0,0.0
+其他西餐,Walshies Restaurant,Walshies Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Cala Ferrera Bar Maria,Restaurante Cala Ferrera Bar Maria,0,其他,0.0,0.0,0.0
+其他西餐,Bona Taula,Bona Taula,0,其他,0.0,0.0,0.0
+其他西餐,Es Babot Restaurant,Es Babot Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante El Barco,Restaurante El Barco,0,其他,0.0,0.0,0.0
+其他西餐,Cas Busso,Cas Busso,0,其他,0.0,0.0,0.0
+其他西餐,Es Mirador at Finca Son Sama,Es Mirador at Finca Son Sama,0,其他,0.0,0.0,0.0
+其他西餐,Bistro Mercat,Bistro Mercat,0,其他,0.0,0.0,0.0
+其他西餐,Cala Cap Falco,Cala Cap Falco,0,其他,0.0,0.0,0.0
+其他西餐,Tom Brown's,Tom Brown's,0,其他,0.0,0.0,0.0
+其他西餐,RAMBOS,RAMBOS,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Grill Manolo 's,Restaurante Grill Manolo 's,0,其他,0.0,0.0,0.0
+其他西餐,Bobby's Bistro & Bar,Bobby's Bistro & Bar,0,其他,0.0,0.0,0.0
+其他西餐,L'Escrivania,L'Escrivania,0,其他,0.0,0.0,0.0
+其他西餐,Meson del Rey,Meson del Rey,0,其他,0.0,0.0,0.0
+其他西餐,The Watering Hole,The Watering Hole,0,其他,0.0,0.0,0.0
+其他西餐,Miguel,Miguel,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Okay,Cafe Okay,0,其他,0.0,0.0,0.0
+其他西餐,Arkles,Arkles,0,其他,0.0,0.0,0.0
+其他西餐,Pie n Pint,Pie n Pint,0,其他,0.0,0.0,0.0
+其他西餐,Tuck Inn,Tuck Inn,0,其他,0.0,0.0,0.0
+其他西餐,Beach Club Gran Folies,Beach Club Gran Folies,0,其他,0.0,0.0,0.0
+其他西餐,La Gritta,La Gritta,0,其他,0.0,0.0,0.0
+其他西餐,Celia's,Celia's,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Illetas Playa,Restaurante Illetas Playa,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Rendezvous,Restaurante Rendezvous,0,其他,0.0,0.0,0.0
+其他西餐,La Cubita,La Cubita,0,其他,0.0,0.0,0.0
+其他西餐,Soma Restaurant & wine bar,Soma Restaurant & wine bar,0,其他,0.0,0.0,0.0
+其他西餐,La Tulipe,La Tulipe,0,其他,0.0,0.0,0.0
+其他西餐,Rocamar,Rocamar,0,其他,0.0,0.0,0.0
+其他西餐,Can Pep,Can Pep,0,其他,0.0,0.0,0.0
+其他西餐,Savantry Tapas,Savantry Tapas,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Safra 21,Restaurante Safra 21,0,其他,0.0,0.0,0.0
+其他西餐,Parrilla Buenos Aires,Parrilla Buenos Aires,0,其他,0.0,0.0,0.0
+其他西餐,Ola del Mar,Ola del Mar,0,其他,0.0,0.0,0.0
+其他西餐,Red Lion,Red Lion,0,其他,0.0,0.0,0.0
+其他西餐,Toni´s Bar,Toni´s Bar,0,其他,0.0,0.0,0.0
+其他西餐,Fawlty Towers,Fawlty Towers,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Contraste,Restaurante Contraste,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Es Mussol,Restaurant Es Mussol,0,其他,0.0,0.0,0.0
+其他西餐,Meson la Rueda,Meson la Rueda,0,其他,0.0,0.0,0.0
+其他西餐,Yates,Yates,0,其他,0.0,0.0,0.0
+其他西餐,Café Bar Oliva,Café Bar Oliva,0,其他,0.0,0.0,0.0
+其他西餐,Ca'n Manolo,Ca'n Manolo,0,其他,0.0,0.0,0.0
+其他西餐,La Taberna del Caracol,La Taberna del Caracol,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Toque,Restaurante Toque,0,其他,0.0,0.0,0.0
+其他西餐,La Pergola,La Pergola,0,其他,0.0,0.0,0.0
+其他西餐,Es Vivers,Es Vivers,0,其他,0.0,0.0,0.0
+其他西餐,Chez Camille,Chez Camille,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Carmen,Restaurant Carmen,0,其他,0.0,0.0,0.0
+其他西餐,The Little Welsh Bar,The Little Welsh Bar,0,其他,0.0,0.0,0.0
+其他西餐,Cafe La Lonja,Cafe La Lonja,0,其他,0.0,0.0,0.0
+其他西餐,Las Olas Bistro,Las Olas Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Forn de Sant Joan,Forn de Sant Joan,0,其他,0.0,0.0,0.0
+其他西餐,Ombu,Ombu,0,其他,0.0,0.0,0.0
+其他西餐,Sa Volta - La Cueva,Sa Volta - La Cueva,0,其他,0.0,0.0,0.0
+其他西餐,Tucana,Tucana,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Coto,Cafe Coto,0,其他,0.0,0.0,0.0
+其他西餐,Pinos Restaurante,Pinos Restaurante,0,其他,0.0,0.0,0.0
+其他西餐,Quina Creu,Quina Creu,0,其他,0.0,0.0,0.0
+其他西餐,Appetite Palma,Appetite Palma,0,其他,0.0,0.0,0.0
+其他西餐,0.13,0.13,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Ca'n Toni,Cafe Ca'n Toni,0,其他,0.0,0.0,0.0
+其他西餐,Gaudeix,Gaudeix,0,其他,0.0,0.0,0.0
+其他西餐,Zaranda,Zaranda,0,其他,0.0,0.0,0.0
+其他西餐,Bar Espana,Bar Espana,0,其他,0.0,0.0,0.0
+其他西餐,Taberna 5S,Taberna 5S,0,其他,0.0,0.0,0.0
+其他西餐,Lizarran,Lizarran,0,其他,0.0,0.0,0.0
+其他西餐,Tast,Tast,0,其他,0.0,0.0,0.0
+其他西餐,Asador Tierra Aranda,Asador Tierra Aranda,0,其他,0.0,0.0,0.0
+其他西餐,Deliciosa Marta,Deliciosa Marta,0,其他,0.0,0.0,0.0
+其他西餐,Bunker's,Bunker's,0,其他,0.0,0.0,0.0
+其他西餐,Horreo veinti3 restaurante,Horreo veinti3 restaurante,0,其他,0.0,0.0,0.0
+其他西餐,Tanto Amore,Tanto Amore,0,其他,0.0,0.0,0.0
+其他西餐,Tast Club,Tast Club,0,其他,0.0,0.0,0.0
+其他西餐,Es Rebost - Mallorca Etno Food,Es Rebost - Mallorca Etno Food,0,其他,0.0,0.0,0.0
+其他西餐,Mig i Mig,Mig i Mig,0,其他,0.0,0.0,0.0
+其他西餐,BEEWI,BEEWI,0,其他,0.0,0.0,0.0
+其他西餐,Los Amigos d Paco,Los Amigos d Paco,0,其他,0.0,0.0,0.0
+其他西餐,Lo diVino,Lo diVino,0,其他,0.0,0.0,0.0
+其他西餐,Wineing,Wineing,0,其他,0.0,0.0,0.0
+其他西餐,Canela,Canela,0,其他,0.0,0.0,0.0
+其他西餐,Bar Restaurante Sa Societat,Bar Restaurante Sa Societat,0,其他,0.0,0.0,0.0
+其他西餐,Rififi,Rififi,0,其他,0.0,0.0,0.0
+其他西餐,Rodeo Grill,Rodeo Grill,0,其他,0.0,0.0,0.0
+其他西餐,Bri restaurant,Bri restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Casa Gallega,Casa Gallega,0,其他,0.0,0.0,0.0
+其他西餐,Molt de Gust,Molt de Gust,0,其他,0.0,0.0,0.0
+其他西餐,JJs Restaurant and Bar,JJs Restaurant and Bar,0,其他,0.0,0.0,0.0
+其他西餐,The King's Head,The King's Head,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Amapola,Restaurante Amapola,0,其他,0.0,0.0,0.0
+其他西餐,The Rose and Crown,The Rose and Crown,0,其他,0.0,0.0,0.0
+其他西餐,Can Cera Gastro Bar,Can Cera Gastro Bar,0,其他,0.0,0.0,0.0
+其他西餐,Argos British Bar,Argos British Bar,0,其他,0.0,0.0,0.0
+其他西餐,Cala Millor,Cala Millor,0,其他,0.0,0.0,0.0
+其他西餐,The British Bulldog,The British Bulldog,0,其他,0.0,0.0,0.0
+其他西餐,Bar Parroquial,Bar Parroquial,0,其他,0.0,0.0,0.0
+其他西餐,El Taepo,El Taepo,0,其他,0.0,0.0,0.0
+其他西餐,Alma Mia,Alma Mia,0,其他,0.0,0.0,0.0
+其他西餐,Pepe's Bar,Pepe's Bar,0,其他,0.0,0.0,0.0
+其他西餐,Binicanella,Binicanella,0,其他,0.0,0.0,0.0
+其他西餐,Es Brollador,Es Brollador,0,其他,0.0,0.0,0.0
+其他西餐,Meson La Villa,Meson La Villa,0,其他,0.0,0.0,0.0
+其他西餐,Pegason y el Pajarito Enmascarado,Pegason y el Pajarito Enmascarado,0,其他,0.0,0.0,0.0
+其他西餐,1661 Cuina de Banyalbufar,1661 Cuina de Banyalbufar,0,其他,0.0,0.0,0.0
+其他西餐,Grill&Tapas Ca Nostra,Grill&Tapas Ca Nostra,0,其他,0.0,0.0,0.0
+其他西餐,Tapas & Restaurante Ca'n Sion,Tapas & Restaurante Ca'n Sion,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Parisien,Cafe Parisien,0,其他,0.0,0.0,0.0
+其他西餐,Tres Mes Tapas Bar,Tres Mes Tapas Bar,0,其他,0.0,0.0,0.0
+其他西餐,Sa Gripia Arta Mallorca,Sa Gripia Arta Mallorca,0,其他,0.0,0.0,0.0
+其他西餐,Sant Salvador,Sant Salvador,0,其他,0.0,0.0,0.0
+其他西餐,La Fragua,La Fragua,0,其他,0.0,0.0,0.0
+其他西餐,Nou Dos,Nou Dos,0,其他,0.0,0.0,0.0
+其他西餐,La Casita,La Casita,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Sa Mata,Restaurant Sa Mata,0,其他,0.0,0.0,0.0
+其他西餐,Es Port,Es Port,0,其他,0.0,0.0,0.0
+其他西餐,Reco D'Es Moll,Reco D'Es Moll,0,其他,0.0,0.0,0.0
+其他西餐,Escorat,Escorat,0,其他,0.0,0.0,0.0
+其他西餐,Heidi,Heidi,0,其他,0.0,0.0,0.0
+其他西餐,Es Port,Es Port,0,其他,0.0,0.0,0.0
+其他西餐,Corona Restaurant,Corona Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,El Olivo Restaurante,El Olivo Restaurante,0,其他,0.0,0.0,0.0
+其他西餐,Salvia Restaurant,Salvia Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Bar Sa Butigueta,Bar Sa Butigueta,0,其他,0.0,0.0,0.0
+其他西餐,Bens D'avall,Bens D'avall,0,其他,0.0,0.0,0.0
+其他西餐,Casa Alvaro,Casa Alvaro,0,其他,0.0,0.0,0.0
+其他西餐,Ca'n Ribes,Ca'n Ribes,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Scholl,Cafe Scholl,0,其他,0.0,0.0,0.0
+其他西餐,Cava,Cava,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Cafe Med,Restaurant Cafe Med,0,其他,0.0,0.0,0.0
+其他西餐,Sa Aturada,Sa Aturada,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Es Guix,Restaurante Es Guix,0,其他,0.0,0.0,0.0
+其他西餐,Cafe - Restaurante Paris,Cafe - Restaurante Paris,0,其他,0.0,0.0,0.0
+其他西餐,Ca'n Quet,Ca'n Quet,0,其他,0.0,0.0,0.0
+其他西餐,Beach Club,Beach Club,0,其他,0.0,0.0,0.0
+其他西餐,Marina Port Cafeteria,Marina Port Cafeteria,0,其他,0.0,0.0,0.0
+其他西餐,La Playa,La Playa,0,其他,0.0,0.0,0.0
+其他西餐,Sa Xarxa,Sa Xarxa,0,其他,0.0,0.0,0.0
+其他西餐,Boy,Boy,0,其他,0.0,0.0,0.0
+其他西餐,Sa Farinera de S'Horta,Sa Farinera de S'Horta,0,其他,0.0,0.0,0.0
+其他西餐,Portofino,Portofino,0,其他,0.0,0.0,0.0
+其他西餐,La Terrassa,La Terrassa,0,其他,0.0,0.0,0.0
+其他西餐,s'Embat,s'Embat,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Deia,Restaurante Deia,0,其他,0.0,0.0,0.0
+其他西餐,Hotel Roc Illetas Playa Restaurant,Hotel Roc Illetas Playa Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Jimmy's,Jimmy's,0,其他,0.0,0.0,0.0
+其他西餐,La Colmena,La Colmena,0,其他,0.0,0.0,0.0
+其他西餐,Il Faro,Il Faro,0,其他,0.0,0.0,0.0
+其他西餐,Can Lluc,Can Lluc,0,其他,0.0,0.0,0.0
+其他西餐,Tasca des Port,Tasca des Port,0,其他,0.0,0.0,0.0
+其他西餐,Mega Garden,Mega Garden,0,其他,0.0,0.0,0.0
+其他西餐,The Sea Club,The Sea Club,0,其他,0.0,0.0,0.0
+其他西餐,amadeus,amadeus,0,其他,0.0,0.0,0.0
+其他西餐,Tropical Paradise Bar,Tropical Paradise Bar,0,其他,0.0,0.0,0.0
+其他西餐,Sol y Sombra,Sol y Sombra,0,其他,0.0,0.0,0.0
+其他西餐,Las Olas,Las Olas,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Puig Major,Cafeteria Puig Major,0,其他,0.0,0.0,0.0
+其他西餐,Es Rustic Restaurant Cafe,Es Rustic Restaurant Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Llenaire Hotel Restaurant,Llenaire Hotel Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Buffet Jordi d' Es Reco,Buffet Jordi d' Es Reco,0,其他,0.0,0.0,0.0
+其他西餐,Sandras Sports Bar Cafe,Sandras Sports Bar Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Mels Bar,Mels Bar,0,其他,0.0,0.0,0.0
+其他西餐,The Tapas Club,The Tapas Club,0,其他,0.0,0.0,0.0
+其他西餐,La Perla Negra,La Perla Negra,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Porto Petro,Restaurante Porto Petro,0,其他,0.0,0.0,0.0
+其他西餐,Can Pescador,Can Pescador,0,其他,0.0,0.0,0.0
+其他西餐,The Sea Club Restaurant,The Sea Club Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Coco Lounge and Restaurant,Coco Lounge and Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Gecko,Gecko,0,其他,0.0,0.0,0.0
+其他西餐,Kalima Beach,Kalima Beach,0,其他,0.0,0.0,0.0
+其他西餐,Fashion Tapas,Fashion Tapas,0,其他,0.0,0.0,0.0
+其他西餐,Bon Sol,Bon Sol,0,其他,0.0,0.0,0.0
+其他西餐,El Ancla,El Ancla,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Caracas,Restaurante Caracas,0,其他,0.0,0.0,0.0
+其他西餐,Cocodrilo,Cocodrilo,0,其他,0.0,0.0,0.0
+其他西餐,Andreu Genestra Restaurant,Andreu Genestra Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Cana Levis Cafe I Mes,Cana Levis Cafe I Mes,0,其他,0.0,0.0,0.0
+其他西餐,Club Nautico de Sa Rapita,Club Nautico de Sa Rapita,0,其他,0.0,0.0,0.0
+其他西餐,Robinson crusoes,Robinson crusoes,0,其他,0.0,0.0,0.0
+其他西餐,Ca'n Antuna,Ca'n Antuna,0,其他,0.0,0.0,0.0
+其他西餐,SaTaronja,SaTaronja,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Tapas,Cafeteria Tapas,0,其他,0.0,0.0,0.0
+其他西餐,Steakhouse Tennis Ranxo Bonanza,Steakhouse Tennis Ranxo Bonanza,0,其他,0.0,0.0,0.0
+其他西餐,Toby Jug,Toby Jug,0,其他,0.0,0.0,0.0
+其他西餐,Xaloc,Xaloc,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Don Pepe,Restaurante Don Pepe,0,其他,0.0,0.0,0.0
+其他西餐,Sant Pere Beach,Sant Pere Beach,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Cala Mandia,Ristorante Cala Mandia,0,其他,0.0,0.0,0.0
+其他西餐,Ribes restaurang,Ribes restaurang,0,其他,0.0,0.0,0.0
+其他西餐,Sa font de n'Alis,Sa font de n'Alis,0,其他,0.0,0.0,0.0
+其他西餐,Albatros,Albatros,0,其他,0.0,0.0,0.0
+其他西餐,Mama Ines,Mama Ines,0,其他,0.0,0.0,0.0
+其他西餐,Dreams and Drinks,Dreams and Drinks,0,其他,0.0,0.0,0.0
+其他西餐,Ema del Mar,Ema del Mar,0,其他,0.0,0.0,0.0
+其他西餐,9 the Bar,9 the Bar,0,其他,0.0,0.0,0.0
+其他西餐,Arfur's Cabaret Bar,Arfur's Cabaret Bar,0,其他,0.0,0.0,0.0
+其他西餐,"Malibu on the Beach, Cala Ratjada","Malibu on the Beach, Cala Ratjada",0,其他,0.0,0.0,0.0
+其他西餐,Por Que No,Por Que No,0,其他,0.0,0.0,0.0
+其他西餐,Bar Cafeteria Sa Picada,Bar Cafeteria Sa Picada,0,其他,0.0,0.0,0.0
+其他西餐,Sa Tafona Caimari,Sa Tafona Caimari,0,其他,0.0,0.0,0.0
+其他西餐,Simply Delicious by Ronen,Simply Delicious by Ronen,0,其他,0.0,0.0,0.0
+其他西餐,Twenty Twenty,Twenty Twenty,0,其他,0.0,0.0,0.0
+其他西餐,Duque's Parilla,Duque's Parilla,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Casa Rufino Tapas y Paellas,Casa Rufino Tapas y Paellas,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Deutsches Eck,Deutsches Eck,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Restaurante Can Verdera Nou,Restaurante Can Verdera Nou,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Blu bar,Blu bar,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Honey Doner Kebap Pizzeria,Honey Doner Kebap Pizzeria,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Elisa,Elisa,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Club de Mar - Restaurante & Music Bar‏,Club de Mar - Restaurante & Music Bar‏,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Nevada's,Nevada's,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,White Rose Family Fun Pub,White Rose Family Fun Pub,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,12TO12 LOUNGE,12TO12 LOUNGE,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Cafeteria Plaza,Cafeteria Plaza,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,restaurant 35,restaurant 35,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,La Casa Gallega,La Casa Gallega,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Es Celler de Ca'n Joanet,Es Celler de Ca'n Joanet,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Restaurant S'Illot,Restaurant S'Illot,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Club Pollenca,Club Pollenca,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Bar Pont Roma,Bar Pont Roma,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Son Matias Garden,Son Matias Garden,0,帕曼诺瓦,0.0,0.0,0.0
+其他西餐,Bamboo Beach,Bamboo Beach,0,帕曼诺瓦,0.0,0.0,0.0
+其他西餐,Maria's Kitchen,Maria's Kitchen,0,帕曼诺瓦,0.0,0.0,0.0
+其他西餐,Restaurante torre playa,Restaurante torre playa,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Restaurante Corb Mari,Restaurante Corb Mari,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,La Fortalesa,La Fortalesa,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,The Codfather,The Codfather,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,La Bodeguita,La Bodeguita,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Hoposa Bahia Restaurant,Hoposa Bahia Restaurant,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Sal de Coco,Sal de Coco,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Hostal d'Algaida,Hostal d'Algaida,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,ca'n antonio,ca'n antonio,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,S'estanc Vell,S'estanc Vell,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Soultapas,Soultapas,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Sa Cuina De N' Aina Restaurant,Sa Cuina De N' Aina Restaurant,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Bar La Roda,Bar La Roda,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Sa Canyeta,Sa Canyeta,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Restaurante Lago,Restaurante Lago,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Es Mollet,Es Mollet,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Es Turo,Es Turo,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Sa Tasca Sa Coma,Sa Tasca Sa Coma,0,瑞格,0.0,0.0,0.0
+其他西餐,Es P'dal,Es P'dal,0,瑞格,0.0,0.0,0.0
+其他西餐,Celler C'an Marron,Celler C'an Marron,0,瑞格,0.0,0.0,0.0
+其他西餐,Dayla Vins i Tapes,Dayla Vins i Tapes,0,瑞格,0.0,0.0,0.0
+其他西餐,Font Torreta,Font Torreta,0,瑞格,0.0,0.0,0.0
+其他西餐,Bar Es Club,Bar Es Club,0,瑞格,0.0,0.0,0.0
+其他西餐,Las Palmeras,Las Palmeras,0,索列尔港,0.0,0.0,0.0
+其他西餐,Restaurante Bon Gust,Restaurante Bon Gust,0,索列尔港,0.0,0.0,0.0
+其他西餐,Taberna el Burladero,Taberna el Burladero,0,其他,0.0,0.0,0.0
+其他西餐,Bodega - Bar Ca'n Gori,Bodega - Bar Ca'n Gori,0,其他,0.0,0.0,0.0
+其他西餐,Sa Botiga,Sa Botiga,0,其他,0.0,0.0,0.0
+其他西餐,Piscis,Piscis,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Natalie,Restaurante Natalie,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante S'Amarador,Restaurante S'Amarador,0,其他,0.0,0.0,0.0
+其他西餐,Sa Terrassa,Sa Terrassa,0,其他,0.0,0.0,0.0
+其他西餐,Martha,Martha,0,其他,0.0,0.0,0.0
+其他西餐,La Vida,La Vida,0,其他,0.0,0.0,0.0
+其他西餐,Taberna Murciana,Taberna Murciana,0,其他,0.0,0.0,0.0
+其他西餐,La avenida,La avenida,0,其他,0.0,0.0,0.0
+其他西餐,The Taste of Texas,The Taste of Texas,0,其他,0.0,0.0,0.0
+其他西餐,Bodega,Bodega,0,其他,0.0,0.0,0.0
+其他西餐,Los Gauchos,Los Gauchos,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Sunset,Restaurant Sunset,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Mestral,Restaurante Mestral,0,其他,0.0,0.0,0.0
+其他西餐,Alegria,Alegria,0,其他,0.0,0.0,0.0
+其他西餐,Mhares Sea Club,Mhares Sea Club,0,其他,0.0,0.0,0.0
+其他西餐,La Dorada,La Dorada,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Halali,Cafeteria Halali,0,其他,0.0,0.0,0.0
+其他西餐,Bar Coral,Bar Coral,0,其他,0.0,0.0,0.0
+其他西餐,La finca,La finca,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante El Faro del Toro,Restaurante El Faro del Toro,0,其他,0.0,0.0,0.0
+其他西餐,Es Foc Blau,Es Foc Blau,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Asador Moli d'en Gaspar,Restaurante Asador Moli d'en Gaspar,0,其他,0.0,0.0,0.0
+其他西餐,Meson Cal Pulga,Meson Cal Pulga,0,其他,0.0,0.0,0.0
+其他西餐,La Terraza,La Terraza,0,其他,0.0,0.0,0.0
+其他西餐,Mano's Place,Mano's Place,0,其他,0.0,0.0,0.0
+其他西餐,Tango la vostra,Tango la vostra,0,其他,0.0,0.0,0.0
+其他西餐,E4:AN Bar & Restaurant,E4:AN Bar & Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Tauro,Restaurante Tauro,0,其他,0.0,0.0,0.0
+其他西餐,Happy House,Happy House,0,其他,0.0,0.0,0.0
+其他西餐,König von Mallorca Kultbistro,König von Mallorca Kultbistro,0,其他,0.0,0.0,0.0
+其他西餐,Bobs Place,Bobs Place,0,其他,0.0,0.0,0.0
+其他西餐,Charlotte Santa Ponsa,Charlotte Santa Ponsa,0,其他,0.0,0.0,0.0
+其他西餐,Malgrats y Canas,Malgrats y Canas,0,其他,0.0,0.0,0.0
+其他西餐,Meson del Mar,Meson del Mar,0,其他,0.0,0.0,0.0
+其他西餐,Jaira Restaurant,Jaira Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,The Glasgow Grill,The Glasgow Grill,0,其他,0.0,0.0,0.0
+其他西餐,Pepperpot Restaurant,Pepperpot Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Bar Cactus,Bar Cactus,0,其他,0.0,0.0,0.0
+其他西餐,Flanigan,Flanigan,0,其他,0.0,0.0,0.0
+其他西餐,San Remo Restaurante,San Remo Restaurante,0,其他,0.0,0.0,0.0
+其他西餐,Sa Finca,Sa Finca,0,其他,0.0,0.0,0.0
+其他西餐,Bodega Restaurante Tapas y Tintos,Bodega Restaurante Tapas y Tintos,0,其他,0.0,0.0,0.0
+其他西餐,Casa Juan Tapas,Casa Juan Tapas,0,其他,0.0,0.0,0.0
+其他西餐,Bar Bagari,Bar Bagari,0,其他,0.0,0.0,0.0
+其他西餐,LK Lounge,LK Lounge,0,其他,0.0,0.0,0.0
+其他西餐,Meson el quijote,Meson el quijote,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Flamingo,Restaurante Flamingo,0,其他,0.0,0.0,0.0
+其他西餐,La Gallega,La Gallega,0,其他,0.0,0.0,0.0
+其他西餐,Aloha,Aloha,0,其他,0.0,0.0,0.0
+其他西餐,Sa Mossegada,Sa Mossegada,0,其他,0.0,0.0,0.0
+其他西餐,Bungalow,Bungalow,0,其他,0.0,0.0,0.0
+其他西餐,Sa Farinera,Sa Farinera,0,其他,0.0,0.0,0.0
+其他西餐,Es Peixet,Es Peixet,0,其他,0.0,0.0,0.0
+其他西餐,La Bodeguita de Porto PI,La Bodeguita de Porto PI,0,其他,0.0,0.0,0.0
+其他西餐,Bens d'Avall,Bens d'Avall,0,其他,0.0,0.0,0.0
+其他西餐,BIGOTES BAR&brunch,BIGOTES BAR&brunch,0,其他,0.0,0.0,0.0
+其他西餐,"Rias de Vigo, Casa Alfonso","Rias de Vigo, Casa Alfonso",0,其他,0.0,0.0,0.0
+其他西餐,Cala Rotja,Cala Rotja,0,其他,0.0,0.0,0.0
+其他西餐,El Buey,El Buey,0,其他,0.0,0.0,0.0
+其他西餐,Es Vaixell,Es Vaixell,0,其他,0.0,0.0,0.0
+其他西餐,Hoyo 10,Hoyo 10,0,其他,0.0,0.0,0.0
+其他西餐,Ca'n Juanito,Ca'n Juanito,0,其他,0.0,0.0,0.0
+其他西餐,Mingo,Mingo,0,其他,0.0,0.0,0.0
+其他西餐,La Vinya de Santa Clara Wine Bar,La Vinya de Santa Clara Wine Bar,0,其他,0.0,0.0,0.0
+其他西餐,Amadipesment,Amadipesment,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Botiga Es Pes de Sa Palla,Cafe Botiga Es Pes de Sa Palla,0,其他,0.0,0.0,0.0
+其他西餐,Sa Fresca,Sa Fresca,0,其他,0.0,0.0,0.0
+其他西餐,Cellar Pages,Cellar Pages,0,其他,0.0,0.0,0.0
+其他西餐,L'ambigu,L'ambigu,0,其他,0.0,0.0,0.0
+其他西餐,Idem Cafe,Idem Cafe,0,其他,0.0,0.0,0.0
+其他西餐,La Juanita cuina fresca,La Juanita cuina fresca,0,其他,0.0,0.0,0.0
+其他西餐,Can perico santa ponsa,Can perico santa ponsa,0,其他,0.0,0.0,0.0
+其他西餐,Limon y Chelo,Limon y Chelo,0,其他,0.0,0.0,0.0
+其他西餐,Bar Joan Frau de Palma de Mallorca,Bar Joan Frau de Palma de Mallorca,0,其他,0.0,0.0,0.0
+其他西餐,Bros,Bros,0,其他,0.0,0.0,0.0
+其他西餐,Bodega San Antonio,Bodega San Antonio,0,其他,0.0,0.0,0.0
+其他西餐,Dimmock's Healthy Burger,Dimmock's Healthy Burger,0,其他,0.0,0.0,0.0
+其他西餐,Es Mercat Restaurante,Es Mercat Restaurante,0,其他,0.0,0.0,0.0
+其他西餐,Burladero,Burladero,0,其他,0.0,0.0,0.0
+其他西餐,Pintxo Gorgorito,Pintxo Gorgorito,0,其他,0.0,0.0,0.0
+其他西餐,Como me lo Como,Como me lo Como,0,其他,0.0,0.0,0.0
+其他西餐,Entrevins Menjar i Beure,Entrevins Menjar i Beure,0,其他,0.0,0.0,0.0
+其他西餐,Latabarra,Latabarra,0,其他,0.0,0.0,0.0
+其他西餐,Patron Lunares,Patron Lunares,0,其他,0.0,0.0,0.0
+其他西餐,El Raconet,El Raconet,0,其他,0.0,0.0,0.0
+其他西餐,Ginbo,Ginbo,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Bonaire,Cafe Bonaire,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante-Café Son Borguny,Restaurante-Café Son Borguny,0,其他,0.0,0.0,0.0
+其他西餐,The Sportsman Bar,The Sportsman Bar,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Sa Roqueta,Restaurante Sa Roqueta,0,其他,0.0,0.0,0.0
+其他西餐,Amor de Madre,Amor de Madre,0,其他,0.0,0.0,0.0
+其他西餐,Twins Chill Out,Twins Chill Out,0,其他,0.0,0.0,0.0
+其他西餐,Steakhouse Tango,Steakhouse Tango,0,其他,0.0,0.0,0.0
+其他西餐,Jamoneria Olmos 13 Barra Degustacion,Jamoneria Olmos 13 Barra Degustacion,0,其他,0.0,0.0,0.0
+其他西餐,Minimal de Fabrica,Minimal de Fabrica,0,其他,0.0,0.0,0.0
+其他西餐,El viejo Vizcacha,El viejo Vizcacha,0,其他,0.0,0.0,0.0
+其他西餐,69 bokados,69 bokados,0,其他,0.0,0.0,0.0
+其他西餐,Garage Rex Lounge Restaurant,Garage Rex Lounge Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Amigos,Cafeteria Amigos,0,其他,0.0,0.0,0.0
+其他西餐,Casa Enrique,Casa Enrique,0,其他,0.0,0.0,0.0
+其他西餐,La botana de Olivar,La botana de Olivar,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Perla del Mar,Restaurante Perla del Mar,0,其他,0.0,0.0,0.0
+其他西餐,La Terraza del Mar,La Terraza del Mar,0,其他,0.0,0.0,0.0
+其他西餐,Port Verd del Mar,Port Verd del Mar,0,其他,0.0,0.0,0.0
+其他西餐,S'Epoca,S'Epoca,0,其他,0.0,0.0,0.0
+其他西餐,Angelani,Angelani,0,其他,0.0,0.0,0.0
+其他西餐,ran de mar,ran de mar,0,其他,0.0,0.0,0.0
+其他西餐,BarBamboo,BarBamboo,0,其他,0.0,0.0,0.0
+其他西餐,Son Trobat,Son Trobat,0,其他,0.0,0.0,0.0
+其他西餐,Ca'n Julia,Ca'n Julia,0,其他,0.0,0.0,0.0
+其他西餐,Vall-Hermos,Vall-Hermos,0,其他,0.0,0.0,0.0
+其他西餐,Bonanza,Bonanza,0,其他,0.0,0.0,0.0
+其他西餐,Meson de Canyamel,Meson de Canyamel,0,其他,0.0,0.0,0.0
+其他西餐,Hermanos Jimenez,Hermanos Jimenez,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Finca Es Serral,Restaurante Finca Es Serral,0,其他,0.0,0.0,0.0
+其他西餐,S'estacio,S'estacio,0,其他,0.0,0.0,0.0
+其他西餐,Jardi d'Arta,Jardi d'Arta,0,其他,0.0,0.0,0.0
+其他西餐,Cases de Son Barbassa,Cases de Son Barbassa,0,其他,0.0,0.0,0.0
+其他西餐,Sa Teulera,Sa Teulera,0,其他,0.0,0.0,0.0
+其他西餐,La cabana,La cabana,0,其他,0.0,0.0,0.0
+其他西餐,Son Besso,Son Besso,0,其他,0.0,0.0,0.0
+其他西餐,El Cactus,El Cactus,0,其他,0.0,0.0,0.0
+其他西餐,Ca'n Manolo,Ca'n Manolo,0,其他,0.0,0.0,0.0
+其他西餐,Es Playa,Es Playa,0,其他,0.0,0.0,0.0
+其他西餐,Son Palou,Son Palou,0,其他,0.0,0.0,0.0
+其他西餐,Resturant Sant Pere,Resturant Sant Pere,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Paris,Cafeteria Paris,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante El Balear,Restaurante El Balear,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Sa Placa,Cafeteria Sa Placa,0,其他,0.0,0.0,0.0
+其他西餐,Dolcos 70,Dolcos 70,0,其他,0.0,0.0,0.0
+其他西餐,Ca'n Pere,Ca'n Pere,0,其他,0.0,0.0,0.0
+其他西餐,Don Pedro,Don Pedro,0,其他,0.0,0.0,0.0
+其他西餐,Upstairs Open Air Bar,Upstairs Open Air Bar,0,其他,0.0,0.0,0.0
+其他西餐,L'alba,L'alba,0,其他,0.0,0.0,0.0
+其他西餐,Eolobar,Eolobar,0,其他,0.0,0.0,0.0
+其他西餐,Natural Cafe qcute,Natural Cafe qcute,0,其他,0.0,0.0,0.0
+其他西餐,cafe bar teodoro,cafe bar teodoro,0,其他,0.0,0.0,0.0
+其他西餐,Bar Roma,Bar Roma,0,其他,0.0,0.0,0.0
+其他西餐,Los Angeles Bar and Resturante,Los Angeles Bar and Resturante,0,其他,0.0,0.0,0.0
+其他西餐,Sa Fonda,Sa Fonda,0,其他,0.0,0.0,0.0
+其他西餐,Cap Roig Restaurant,Cap Roig Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Café Creme,Café Creme,0,其他,0.0,0.0,0.0
+其他西餐,los pinos snack bar,los pinos snack bar,0,其他,0.0,0.0,0.0
+其他西餐,The Royal Oak,The Royal Oak,0,其他,0.0,0.0,0.0
+其他西餐,Pirates,Pirates,0,其他,0.0,0.0,0.0
+其他西餐,Lakeside,Lakeside,0,其他,0.0,0.0,0.0
+其他西餐,Ca N'Oms,Ca N'Oms,0,其他,0.0,0.0,0.0
+其他西餐,Fonda Llabres,Fonda Llabres,0,其他,0.0,0.0,0.0
+其他西餐,Cani del Porto,Cani del Porto,0,其他,0.0,0.0,0.0
+其他西餐,Bar Javi,Bar Javi,0,其他,0.0,0.0,0.0
+其他西餐,Golden Lion,Golden Lion,0,其他,0.0,0.0,0.0
+其他西餐,Yummy Yummys,Yummy Yummys,0,其他,0.0,0.0,0.0
+其他西餐,Oasis de Santa Maria,Oasis de Santa Maria,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Cala Barques,Restaurant Cala Barques,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante - Jardin Torrero,Restaurante - Jardin Torrero,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante la Posada,Restaurante la Posada,0,其他,0.0,0.0,0.0
+其他西餐,Mi Bodega Casa Luis,Mi Bodega Casa Luis,0,其他,0.0,0.0,0.0
+其他西餐,Monacos,Monacos,0,其他,0.0,0.0,0.0
+其他西餐,"El Olivar, Marriott Hotel","El Olivar, Marriott Hotel",0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Portobello,Restaurante Portobello,0,其他,0.0,0.0,0.0
+其他西餐,The Hideaway,The Hideaway,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Mestral,Restaurante Mestral,0,其他,0.0,0.0,0.0
+其他西餐,Panadera Bisanyes,Panadera Bisanyes,0,其他,0.0,0.0,0.0
+其他西餐,Domins Beach Bar,Domins Beach Bar,0,其他,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,其他,0.0,0.0,0.0
+其他西餐,Garden Lago,Garden Lago,0,其他,0.0,0.0,0.0
+其他西餐,Sinbad,Sinbad,0,其他,0.0,0.0,0.0
+其他西餐,Sacova,Sacova,0,其他,0.0,0.0,0.0
+其他西餐,Antony's Inca,Antony's Inca,0,其他,0.0,0.0,0.0
+其他西餐,Le Casinet,Le Casinet,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Sa Font Fresco,Cafe Sa Font Fresco,0,其他,0.0,0.0,0.0
+其他西餐,S'Alfabaguera,S'Alfabaguera,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Cafe Botiga Amadip.esment,Restaurante Cafe Botiga Amadip.esment,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Metget,Cafeteria Metget,0,其他,0.0,0.0,0.0
+其他西餐,Chiris,Chiris,0,其他,0.0,0.0,0.0
+其他西餐,Resteraunt Siroco,Resteraunt Siroco,0,其他,0.0,0.0,0.0
+其他西餐,Varadero,Varadero,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante cupidor,Restaurante cupidor,0,其他,0.0,0.0,0.0
+其他西餐,Swing,Swing,0,其他,0.0,0.0,0.0
+其他西餐,Donde Siempre,Donde Siempre,0,其他,0.0,0.0,0.0
+其他西餐,Las Palmeras,Las Palmeras,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Restaurante Buttery,Cafeteria Restaurante Buttery,0,其他,0.0,0.0,0.0
+其他西餐,Cibercafe,Cibercafe,0,其他,0.0,0.0,0.0
+其他西餐,Hostal Restaurante Playa,Hostal Restaurante Playa,0,其他,0.0,0.0,0.0
+其他西餐,Solleric,Solleric,0,其他,0.0,0.0,0.0
+其他西餐,Restuarant Cala Egos,Restuarant Cala Egos,0,其他,0.0,0.0,0.0
+其他西餐,La Bodega Restaurants,La Bodega Restaurants,0,其他,0.0,0.0,0.0
+其他西餐,Ca Na Pilar,Ca Na Pilar,0,其他,0.0,0.0,0.0
+其他西餐,Sa Terrassa,Sa Terrassa,0,其他,0.0,0.0,0.0
+其他西餐,Es Trenc,Es Trenc,0,其他,0.0,0.0,0.0
+其他西餐,Aries Bar and Grill,Aries Bar and Grill,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Dylans,Restaurant Dylans,0,其他,0.0,0.0,0.0
+其他西餐,Juans steak house,Juans steak house,0,其他,0.0,0.0,0.0
+其他西餐,Cheri's,Cheri's,0,其他,0.0,0.0,0.0
+其他西餐,Cala Mandia,Cala Mandia,0,其他,0.0,0.0,0.0
+其他西餐,Can Toni,Can Toni,0,其他,0.0,0.0,0.0
+其他西餐,Inca,Inca,0,其他,0.0,0.0,0.0
+其他西餐,Pie and a Pint,Pie and a Pint,0,其他,0.0,0.0,0.0
+其他西餐,Gastrobar Casal Solleric,Gastrobar Casal Solleric,0,其他,0.0,0.0,0.0
+其他西餐,Ca'n Pelut Centro,Ca'n Pelut Centro,0,其他,0.0,0.0,0.0
+其他西餐,Bar Total,Bar Total,0,其他,0.0,0.0,0.0
+其他西餐,la tasca restaurant,la tasca restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Samovar,Samovar,0,其他,0.0,0.0,0.0
+其他西餐,Dallas,Dallas,0,其他,0.0,0.0,0.0
+其他西餐,Asador Mediterrani,Asador Mediterrani,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Lay,Restaurante Lay,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante La Fortaleza,Restaurante La Fortaleza,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Gaby,Restaurante Gaby,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Olymp,Restaurant Olymp,0,其他,0.0,0.0,0.0
+其他西餐,Bar Bambu,Bar Bambu,0,其他,0.0,0.0,0.0
+其他西餐,Ca la Seu,Ca la Seu,0,其他,0.0,0.0,0.0
+其他西餐,Bar Espana,Bar Espana,0,其他,0.0,0.0,0.0
+其他西餐,Moli de Son Oms,Moli de Son Oms,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Imperial,Cafeteria Imperial,0,其他,0.0,0.0,0.0
+其他西餐,Mint Lounge,Mint Lounge,0,其他,0.0,0.0,0.0
+其他西餐,Bar Casa Miss,Bar Casa Miss,0,其他,0.0,0.0,0.0
+其他西餐,PITSTOP,PITSTOP,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Viena,Cafe Viena,0,其他,0.0,0.0,0.0
+其他西餐,Lamardevins,Lamardevins,0,,0.0,0.0,0.0
+其他西餐,Break,Break,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Restaurant Club Nautic Arenal,Restaurant Club Nautic Arenal,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,"Cafe Chispa , El Arenal","Cafe Chispa , El Arenal",0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Bridge,Bridge,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Brasserie Europa,Brasserie Europa,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Mar,Mar,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,MG-Cafe,MG-Cafe,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Restaurant Sa Frontera,Restaurant Sa Frontera,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Cafetería La Palmera,Cafetería La Palmera,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,El Club Restaurante Can Pastilla,El Club Restaurante Can Pastilla,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,La Taberna de Manu,La Taberna de Manu,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Mandragora Cafe,Mandragora Cafe,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Celler C'an Santy,Celler C'an Santy,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Sea Restaurant,Sea Restaurant,0,埃尔阿雷纳,0.0,0.0,0.0
+其他西餐,Restaurant Arco Iris,Restaurant Arco Iris,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Mirablau,Mirablau,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,sa teulada,sa teulada,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Frankies Bar,Frankies Bar,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Our Plaice,Our Plaice,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Ca'n Barraixet,Ca'n Barraixet,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Cal'lloro Hotel Restaurant,Cal'lloro Hotel Restaurant,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,L'illa Cafe & Bistro,L'illa Cafe & Bistro,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,New Jules Barbacoa,New Jules Barbacoa,0,阿尔库迪亚,0.0,0.0,0.0
+其他西餐,Cafe Carmencita,Cafe Carmencita,0,帕曼诺瓦,0.0,0.0,0.0
+其他西餐,Restaurante Brisas Palmanova,Restaurante Brisas Palmanova,0,帕曼诺瓦,0.0,0.0,0.0
+其他西餐,zanzis cafe bar,zanzis cafe bar,0,帕曼诺瓦,0.0,0.0,0.0
+其他西餐,Karen's Bar,Karen's Bar,0,帕曼诺瓦,0.0,0.0,0.0
+其他西餐,"Karens Bar, Palma Nova","Karens Bar, Palma Nova",0,帕曼诺瓦,0.0,0.0,0.0
+其他西餐,Rincon Del Mar,Rincon Del Mar,0,帕曼诺瓦,0.0,0.0,0.0
+其他西餐,El Cano,El Cano,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,MaKassaR,MaKassaR,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Restaurante Los Pescadores,Restaurante Los Pescadores,0,波多黎各萨,0.0,0.0,0.0
+其他西餐,Celler Ca'n Font,Celler Ca'n Font,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Ca na Miquela de ses Teuleres,Ca na Miquela de ses Teuleres,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Sal de Coco,Sal de Coco,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Sa Pambolieria,Sa Pambolieria,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Dolc y Dolc,Dolc y Dolc,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Restaurante Celler Ca's Padri Toni,Restaurante Celler Ca's Padri Toni,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Reco de Randa,Reco de Randa,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Restaurant Bulgaria,Restaurant Bulgaria,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Moli d'en Pau,Moli d'en Pau,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Tampico,Tampico,0,普拉亚斯马洛卡,0.0,0.0,0.0
+其他西餐,Es Raco de'n Jaume,Es Raco de'n Jaume,0,瑞格,0.0,0.0,0.0
+其他西餐,1661,1661,0,瑞格,0.0,0.0,0.0
+其他西餐,El Convent del Marques,El Convent del Marques,0,瑞格,0.0,0.0,0.0
+其他西餐,Tapas Txema,Tapas Txema,0,瑞格,0.0,0.0,0.0
+其他西餐,Restaurante Ca S' Hereu,Restaurante Ca S' Hereu,0,瑞格,0.0,0.0,0.0
+其他西餐,Traffic,Traffic,0,瑞格,0.0,0.0,0.0
+其他西餐,Sa Fonda Restaurant,Sa Fonda Restaurant,0,瑞格,0.0,0.0,0.0
+其他西餐,Milnoucentsu,Milnoucentsu,0,瑞格,0.0,0.0,0.0
+其他西餐,Cerveceria Pedrin,Cerveceria Pedrin,0,瑞格,0.0,0.0,0.0
+其他西餐,Cafeteria Hermanos Gutierrez,Cafeteria Hermanos Gutierrez,0,瑞格,0.0,0.0,0.0
+其他西餐,Bodega Blanquerna 8,Bodega Blanquerna 8,0,瑞格,0.0,0.0,0.0
+其他西餐,Bar Toni,Bar Toni,0,瑞格,0.0,0.0,0.0
+其他西餐,Gent d'ara,Gent d'ara,0,瑞格,0.0,0.0,0.0
+其他西餐,Cipriani,Cipriani,0,瑞格,0.0,0.0,0.0
+其他西餐,3 Punts,3 Punts,0,瑞格,0.0,0.0,0.0
+其他西餐,Restaurant Cas Pages,Restaurant Cas Pages,0,索列尔港,0.0,0.0,0.0
+其他西餐,Cellar des Port,Cellar des Port,0,索列尔港,0.0,0.0,0.0
+其他西餐,Bistro el Moll,Bistro el Moll,0,索列尔港,0.0,0.0,0.0
+其他西餐,Brasserie Los Geranios,Brasserie Los Geranios,0,索列尔港,0.0,0.0,0.0
+其他西餐,Pepe Aguado,Pepe Aguado,0,其他,0.0,0.0,0.0
+其他西餐,Piscis,Piscis,0,其他,0.0,0.0,0.0
+其他西餐,Asador las Brasas,Asador las Brasas,0,其他,0.0,0.0,0.0
+其他西餐,Regina,Regina,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante La Barbacoa,Restaurante La Barbacoa,0,其他,0.0,0.0,0.0
+其他西餐,Mama Rosa,Mama Rosa,0,其他,0.0,0.0,0.0
+其他西餐,Cas Patro,Cas Patro,0,其他,0.0,0.0,0.0
+其他西餐,Bar sa sala,Bar sa sala,0,其他,0.0,0.0,0.0
+其他西餐,El Ultimo Paraiso Restaurante Can Senae,El Ultimo Paraiso Restaurante Can Senae,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Sa Travessia,Restaurant Sa Travessia,0,其他,0.0,0.0,0.0
+其他西餐,Retaurante Vallbona,Retaurante Vallbona,0,其他,0.0,0.0,0.0
+其他西餐,Tot a Punt,Tot a Punt,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Can Norat,Restaurant Can Norat,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant s'estacio,Restaurant s'estacio,0,其他,0.0,0.0,0.0
+其他西餐,El Paso,El Paso,0,其他,0.0,0.0,0.0
+其他西餐,Nunu,Nunu,0,其他,0.0,0.0,0.0
+其他西餐,Spoon Restaurant,Spoon Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Tren de Soller station cafe,Tren de Soller station cafe,0,其他,0.0,0.0,0.0
+其他西餐,Pizzeria La Oca,Pizzeria La Oca,0,其他,0.0,0.0,0.0
+其他西餐,Arabic,Arabic,0,其他,0.0,0.0,0.0
+其他西餐,Meson Son Ferrer,Meson Son Ferrer,0,其他,0.0,0.0,0.0
+其他西餐,Pelicano,Pelicano,0,其他,0.0,0.0,0.0
+其他西餐,Cafeteria Jaime's,Cafeteria Jaime's,0,其他,0.0,0.0,0.0
+其他西餐,Lady Tavern,Lady Tavern,0,其他,0.0,0.0,0.0
+其他西餐,Grill 8,Grill 8,0,其他,0.0,0.0,0.0
+其他西餐,Gjokeredet,Gjokeredet,0,其他,0.0,0.0,0.0
+其他西餐,Nyoka,Nyoka,0,其他,0.0,0.0,0.0
+其他西餐,Bobs Cafe,Bobs Cafe,0,其他,0.0,0.0,0.0
+其他西餐,El Faro de Santa Ponca,El Faro de Santa Ponca,0,其他,0.0,0.0,0.0
+其他西餐,Sa Cova,Sa Cova,0,其他,0.0,0.0,0.0
+其他西餐,Bar Teleclub,Bar Teleclub,0,其他,0.0,0.0,0.0
+其他西餐,Bar ca'n Besso,Bar ca'n Besso,0,其他,0.0,0.0,0.0
+其他西餐,Berni's Bar,Berni's Bar,0,其他,0.0,0.0,0.0
+其他西餐,MED BAR Boutique Bistro Bar,MED BAR Boutique Bistro Bar,0,其他,0.0,0.0,0.0
+其他西餐,Bayernstuberl zum Hermann,Bayernstuberl zum Hermann,0,其他,0.0,0.0,0.0
+其他西餐,El Picador,El Picador,0,其他,0.0,0.0,0.0
+其他西餐,Cafe del Sol,Cafe del Sol,0,其他,0.0,0.0,0.0
+其他西餐,Casa Juan,Casa Juan,0,其他,0.0,0.0,0.0
+其他西餐,Tristans Bistro,Tristans Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Bistro Sandwichland,Bistro Sandwichland,0,其他,0.0,0.0,0.0
+其他西餐,S'assecador,S'assecador,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Riskal,Restaurante Riskal,0,其他,0.0,0.0,0.0
+其他西餐,Ca'n Bernat de Sa Parra,Ca'n Bernat de Sa Parra,0,其他,0.0,0.0,0.0
+其他西餐,Barlovento,Barlovento,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Cala Gamba,Restaurant Cala Gamba,0,其他,0.0,0.0,0.0
+其他西餐,"Cellar C,an Joanet","Cellar C,an Joanet",0,其他,0.0,0.0,0.0
+其他西餐,Port Bar Café,Port Bar Café,0,其他,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,其他,0.0,0.0,0.0
+其他西餐,El Pitufo Restaurante Pizzeria,El Pitufo Restaurante Pizzeria,0,其他,0.0,0.0,0.0
+其他西餐,Sal e Oil,Sal e Oil,0,其他,0.0,0.0,0.0
+其他西餐,Don Boletus,Don Boletus,0,其他,0.0,0.0,0.0
+其他西餐,Sa Cala,Sa Cala,0,其他,0.0,0.0,0.0
+其他西餐,Kfé,Kfé,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Club Náutico Portixol,Restaurante Club Náutico Portixol,0,其他,0.0,0.0,0.0
+其他西餐,Ses Delicies,Ses Delicies,0,其他,0.0,0.0,0.0
+其他西餐,Suomalainen Baari Bosque Pia ja Pepe,Suomalainen Baari Bosque Pia ja Pepe,0,其他,0.0,0.0,0.0
+其他西餐,Windsurfer Restaurant,Windsurfer Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Club Nautico Pescadores,Club Nautico Pescadores,0,其他,0.0,0.0,0.0
+其他西餐,Sa Llotja,Sa Llotja,0,其他,0.0,0.0,0.0
+其他西餐,Almazara,Almazara,0,其他,0.0,0.0,0.0
+其他西餐,Sazon,Sazon,0,其他,0.0,0.0,0.0
+其他西餐,Dolc sa Pobla,Dolc sa Pobla,0,其他,0.0,0.0,0.0
+其他西餐,Se te va la tapa,Se te va la tapa,0,其他,0.0,0.0,0.0
+其他西餐,Sa Bodegueta,Sa Bodegueta,0,其他,0.0,0.0,0.0
+其他西餐,Toys and Tapas,Toys and Tapas,0,其他,0.0,0.0,0.0
+其他西餐,Ca Na Merce Freidura De Pescado & Tapas,Ca Na Merce Freidura De Pescado & Tapas,0,其他,0.0,0.0,0.0
+其他西餐,Ca Sa Padrina,Ca Sa Padrina,0,其他,0.0,0.0,0.0
+中餐,Palacio Chino,Palacio Chino,0,其他,0.0,0.0,0.0
+中餐,don chon,don chon,0,阿尔库迪亚,0.0,0.0,0.0
+中餐,Shi Shan Xuan,Shi Shan Xuan,0,其他,0.0,0.0,0.0
+中餐,Sa Cova,Sa Cova,0,其他,0.0,0.0,0.0
+中餐,Sakura,Sakura,0,其他,0.0,0.0,0.0
+中餐,Restaurante Chino Bambu,Restaurante Chino Bambu,0,其他,0.0,0.0,0.0
+中餐,Happy Resteraunt,Happy Resteraunt,0,帕曼诺瓦,0.0,0.0,0.0
+中餐,"Dragon Rojo , Torrenova","Dragon Rojo , Torrenova",0,其他,0.0,0.0,0.0
+中餐,Gran Pekin,Gran Pekin,0,埃尔阿雷纳,0.0,0.0,0.0
+中餐,Restaurante Chino - Gran Muralla,Restaurante Chino - Gran Muralla,0,其他,0.0,0.0,0.0
+中餐,Sol de Oro,Sol de Oro,0,其他,0.0,0.0,0.0
+中餐,Pascalino,Pascalino,0,其他,0.0,0.0,0.0
+中餐,China town,China town,0,其他,0.0,0.0,0.0
+中餐,Bei Jing Duck,Bei Jing Duck,0,其他,0.0,0.0,0.0
+中餐,Casa del dragon,Casa del dragon,0,阿尔库迪亚,0.0,0.0,0.0
+中餐,Hong Kong Chinese,Hong Kong Chinese,0,阿尔库迪亚,0.0,0.0,0.0
+中餐,Peking Duck,Peking Duck,0,阿尔库迪亚,0.0,0.0,0.0
+中餐,Pato Peking,Pato Peking,0,其他,0.0,0.0,0.0
+中餐,No 1 Resturante Chino Magaluf,No 1 Resturante Chino Magaluf,0,其他,0.0,0.0,0.0
+中餐,Restaurante Chino Alegria CB.,Restaurante Chino Alegria CB.,0,其他,0.0,0.0,0.0
+中餐,Restaurante Chino,Restaurante Chino,0,其他,0.0,0.0,0.0
+中餐,China City,China City,0,其他,0.0,0.0,0.0
+中餐,Restaurante Shanghai,Restaurante Shanghai,0,阿尔库迪亚,0.0,0.0,0.0
+中餐,Hang Zhou IIII,Hang Zhou IIII,0,其他,0.0,0.0,0.0
+中餐,gran muralla,gran muralla,0,其他,0.0,0.0,0.0
+中餐,Tai Wan,Tai Wan,0,其他,0.0,0.0,0.0
+中餐,Yangguang restaurant,Yangguang restaurant,0,其他,0.0,0.0,0.0
+中餐,Serenity Coast,Serenity Coast,0,波多黎各萨,0.0,0.0,0.0
+中餐,Wok Wok,Wok Wok,0,其他,0.0,0.0,0.0
+日韩料理,Wok Shack,Wok Shack,0,其他,0.0,0.0,0.0
+日韩料理,Sushimio,Sushimio,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Beach,Sushi Beach,0,其他,0.0,0.0,0.0
+日韩料理,KOI Puerto de Andratx,KOI Puerto de Andratx,0,其他,0.0,0.0,0.0
+日韩料理,Wasabi Blue Palma,Wasabi Blue Palma,0,其他,0.0,0.0,0.0
+日韩料理,Wasabi Sushi bar & Restaurant,Wasabi Sushi bar & Restaurant,0,其他,0.0,0.0,0.0
+日韩料理,I love Japo,I love Japo,0,其他,0.0,0.0,0.0
+日韩料理,Daruma Restaurante Japones,Daruma Restaurante Japones,0,其他,0.0,0.0,0.0
+日韩料理,Cafe Fernando,Cafe Fernando,0,其他,0.0,0.0,0.0
+日韩料理,COAST by East,COAST by East,0,其他,0.0,0.0,0.0
+日韩料理,Zhero Star Sushi Bar & Coffee,Zhero Star Sushi Bar & Coffee,0,其他,0.0,0.0,0.0
+日韩料理,Sushi N1,Sushi N1,0,其他,0.0,0.0,0.0
+日韩料理,Temakao cafe,Temakao cafe,0,其他,0.0,0.0,0.0
+日韩料理,Sai Sushi & Grill,Sai Sushi & Grill,0,其他,0.0,0.0,0.0
+日韩料理,"Café del Mar, Calviá Beach Mallorca","Café del Mar, Calviá Beach Mallorca",0,其他,0.0,0.0,0.0
+日韩料理,Zhero Beach Club,Zhero Beach Club,0,其他,0.0,0.0,0.0
+日韩料理,Shobu Portixol,Shobu Portixol,0,其他,0.0,0.0,0.0
+日韩料理,Arume&Co,Arume&Co,0,其他,0.0,0.0,0.0
+日韩料理,La Nipona,La Nipona,0,其他,0.0,0.0,0.0
+日韩料理,Urban Sushi,Urban Sushi,0,其他,0.0,0.0,0.0
+日韩料理,Wasabi,Wasabi,0,其他,0.0,0.0,0.0
+日韩料理,Sakana Sushi,Sakana Sushi,0,帕曼诺瓦,0.0,0.0,0.0
+日韩料理,SIKI robata grill & sushi bar,SIKI robata grill & sushi bar,0,其他,0.0,0.0,0.0
+日韩料理,SushiGo,SushiGo,0,其他,0.0,0.0,0.0
+日韩料理,L'elephant Restaurant,L'elephant Restaurant,0,其他,0.0,0.0,0.0
+日韩料理,Sake no hana sushi bar & take away,Sake no hana sushi bar & take away,0,其他,0.0,0.0,0.0
+日韩料理,King Wok,King Wok,0,其他,0.0,0.0,0.0
+日韩料理,Local Numero 2,Local Numero 2,0,其他,0.0,0.0,0.0
+日韩料理,Finca Emocion,Finca Emocion,0,其他,0.0,0.0,0.0
+日韩料理,LLum de Sal Sushi,LLum de Sal Sushi,0,其他,0.0,0.0,0.0
+日韩料理,Yokojama,Yokojama,0,其他,0.0,0.0,0.0
+更多亚洲菜,Curry Lounge,Curry Lounge,0,其他,0.0,0.0,0.0
+更多亚洲菜,"Thai at the Tavern, Can Pastilla","Thai at the Tavern, Can Pastilla",0,埃尔阿雷纳,0.0,0.0,0.0
+更多亚洲菜,Grand Central,Grand Central,0,其他,0.0,0.0,0.0
+更多亚洲菜,Saffron Desi,Saffron Desi,0,其他,0.0,0.0,0.0
+更多亚洲菜,Maharaj,Maharaj,0,其他,0.0,0.0,0.0
+更多亚洲菜,Chi Lounge Mallorca,Chi Lounge Mallorca,0,其他,0.0,0.0,0.0
+更多亚洲菜,Spice of India,Spice of India,0,其他,0.0,0.0,0.0
+更多亚洲菜,Tandoori Night,Tandoori Night,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bindi Restaurante,Bindi Restaurante,0,其他,0.0,0.0,0.0
+更多亚洲菜,My Thai,My Thai,0,埃尔阿雷纳,0.0,0.0,0.0
+更多亚洲菜,Himalaya Indian Nepalese Restaurant,Himalaya Indian Nepalese Restaurant,0,阿尔库迪亚,0.0,0.0,0.0
+更多亚洲菜,My Thai,My Thai,0,帕曼诺瓦,0.0,0.0,0.0
+更多亚洲菜,India,India,0,其他,0.0,0.0,0.0
+更多亚洲菜,Rafael y Flora,Rafael y Flora,0,其他,0.0,0.0,0.0
+更多亚洲菜,Noa Restaurant,Noa Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Diferent,Restaurant Diferent,0,其他,0.0,0.0,0.0
+更多亚洲菜,Prosper Private Kitchen,Prosper Private Kitchen,0,其他,0.0,0.0,0.0
+更多亚洲菜,Villa Ampurdan,Villa Ampurdan,0,其他,0.0,0.0,0.0
+更多亚洲菜,Taste of India,Taste of India,0,其他,0.0,0.0,0.0
+更多亚洲菜,Maothai Marivent,Maothai Marivent,0,其他,0.0,0.0,0.0
+更多亚洲菜,Momo Seabar Portixol,Momo Seabar Portixol,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kashmir Balti,Kashmir Balti,0,其他,0.0,0.0,0.0
+更多亚洲菜,Opio Bar & Restaurant,Opio Bar & Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Diwali Indian Restaurante,Diwali Indian Restaurante,0,其他,0.0,0.0,0.0
+更多亚洲菜,Koh,Koh,0,其他,0.0,0.0,0.0
+更多亚洲菜,La India,La India,0,其他,0.0,0.0,0.0
+更多亚洲菜,Japonice,Japonice,0,其他,0.0,0.0,0.0
+更多亚洲菜,Vietnam Cafe,Vietnam Cafe,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bi bap,Bi bap,0,其他,0.0,0.0,0.0
+更多亚洲菜,Namaste India,Namaste India,0,其他,0.0,0.0,0.0
+更多亚洲菜,Baisakhi,Baisakhi,0,其他,0.0,0.0,0.0
+更多亚洲菜,Basmati Restaurante Hindu,Basmati Restaurante Hindu,0,其他,0.0,0.0,0.0
+更多亚洲菜,"Claxon, cruce de cocinas","Claxon, cruce de cocinas",0,其他,0.0,0.0,0.0
+更多亚洲菜,Kohinoor,Kohinoor,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kashmiri Balti,Kashmiri Balti,0,其他,0.0,0.0,0.0
+更多亚洲菜,Hymalaya Indian Resturant,Hymalaya Indian Resturant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Nawaab International Restaurant,Nawaab International Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,India House,India House,0,埃尔阿雷纳,0.0,0.0,0.0
+更多亚洲菜,Haweli,Haweli,0,埃尔阿雷纳,0.0,0.0,0.0
+更多亚洲菜,Spice,Spice,0,阿尔库迪亚,0.0,0.0,0.0
+更多亚洲菜,Namaste Indian Restaurant,Namaste Indian Restaurant,0,阿尔库迪亚,0.0,0.0,0.0
+更多亚洲菜,Casa Asiatica,Casa Asiatica,0,阿尔库迪亚,0.0,0.0,0.0
+更多亚洲菜,Los Curries,Los Curries,0,帕曼诺瓦,0.0,0.0,0.0
+更多亚洲菜,Kashmir,Kashmir,0,波多黎各萨,0.0,0.0,0.0
+更多亚洲菜,ZAB Thai Cuisine,ZAB Thai Cuisine,0,其他,0.0,0.0,0.0
+更多亚洲菜,The indie spice,The indie spice,0,其他,0.0,0.0,0.0
+更多亚洲菜,Wattana Thai Restaurant,Wattana Thai Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Himalaya,Himalaya,0,其他,0.0,0.0,0.0
+更多亚洲菜,Delfino,Delfino,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Tianyou,Restaurant Tianyou,0,其他,0.0,0.0,0.0
+更多亚洲菜,Fantastic Kitchen,Fantastic Kitchen,0,其他,0.0,0.0,0.0
+更多亚洲菜,Shamrock Palma Mallorca,Shamrock Palma Mallorca,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurante Sher E Punjab,Restaurante Sher E Punjab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Prince,Prince,0,其他,0.0,0.0,0.0
+更多亚洲菜,Delfinos,Delfinos,0,其他,0.0,0.0,0.0
+更多亚洲菜,Horapa wok,Horapa wok,0,其他,0.0,0.0,0.0
+更多亚洲菜,Maharaja Mahal,Maharaja Mahal,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurante Asia Buffet,Restaurante Asia Buffet,0,其他,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal Indian Tandoori Restaurant,Taj Mahal Indian Tandoori Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mirch Masala,Mirch Masala,0,其他,0.0,0.0,0.0
+更多亚洲菜,Nawaab,Nawaab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sufyan Indian Restaurant,Sufyan Indian Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sushian Portals,Sushian Portals,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sushian Paguera,Sushian Paguera,0,其他,0.0,0.0,0.0
+更多亚洲菜,TianYou Bar Restaurant,TianYou Bar Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kebab Gandhi,Kebab Gandhi,0,其他,0.0,0.0,0.0
+更多亚洲菜,East is East,East is East,0,其他,0.0,0.0,0.0
+更多亚洲菜,India Haus Tandoori,India Haus Tandoori,0,埃尔阿雷纳,0.0,0.0,0.0
+更多亚洲菜,Shree Ganesh Mallorca,Shree Ganesh Mallorca,0,埃尔阿雷纳,0.0,0.0,0.0
+更多亚洲菜,Taste of India,Taste of India,0,阿尔库迪亚,0.0,0.0,0.0
+更多亚洲菜,Kashmir,Kashmir,0,阿尔库迪亚,0.0,0.0,0.0
+更多亚洲菜,Aroma Curry,Aroma Curry,0,瑞格,0.0,0.0,0.0
+更多亚洲菜,Bollywood Restaurante,Bollywood Restaurante,0,瑞格,0.0,0.0,0.0
+更多亚洲菜,Maharaja,Maharaja,0,索列尔港,0.0,0.0,0.0
+更多亚洲菜,Thai El Toro,Thai El Toro,0,其他,0.0,0.0,0.0
+更多亚洲菜,Hang Zhou II,Hang Zhou II,0,其他,0.0,0.0,0.0
+更多亚洲菜,Delfin Loco,Delfin Loco,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mahal Tandoori Indian Restaurant,Mahal Tandoori Indian Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,La India,La India,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bengoli,Bengoli,0,其他,0.0,0.0,0.0
+更多亚洲菜,Jaipur Restaurante,Jaipur Restaurante,0,其他,0.0,0.0,0.0
+更多亚洲菜,Wok i mes,Wok i mes,0,其他,0.0,0.0,0.0
+更多亚洲菜,Royal Indian Restaurant,Royal Indian Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurante Bella Istambul,Restaurante Bella Istambul,0,其他,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal,Taj Mahal,0,其他,0.0,0.0,0.0
+更多亚洲菜,Taste of Punjab,Taste of Punjab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Indian Food Bar,Indian Food Bar,0,其他,0.0,0.0,0.0
+更多亚洲菜,Tokio,Tokio,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kashmir Indian Restaurant,Kashmir Indian Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thai Fusion,Thai Fusion,0,其他,0.0,0.0,0.0
+更多亚洲菜,Jaipur,Jaipur,0,其他,0.0,0.0,0.0
+更多亚洲菜,"Curry Cuisine, Palma Nova","Curry Cuisine, Palma Nova",0,马略卡岛,0.0,0.0,0.0
+更多亚洲菜,Little India,Little India,0,其他,0.0,0.0,0.0
+更多亚洲菜,COURTYARD,COURTYARD,0,其他,0.0,0.0,0.0
+更多亚洲菜,la india,la india,0,其他,0.0,0.0,0.0
+更多亚洲菜,Akbar Restaurant,Akbar Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,El Saluet,El Saluet,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thai Style,Thai Style,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sambal,Sambal,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sher E Punjab,Sher E Punjab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Winstans Bar & Restaurant,Winstans Bar & Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Aroma Tandoori,Aroma Tandoori,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kopitiam,Kopitiam,0,其他,0.0,0.0,0.0
+快餐简餐,Diablito,Diablito,0,其他,0.0,0.0,0.0
+快餐简餐,Nico's,Nico's,0,其他,0.0,0.0,0.0
+快餐简餐,Pizzeria Mamma Mia,Pizzeria Mamma Mia,0,其他,0.0,0.0,0.0
+快餐简餐,Garito CafeBarClub,Garito CafeBarClub,0,其他,0.0,0.0,0.0
+快餐简餐,Dakota Tex Mex,Dakota Tex Mex,0,阿尔库迪亚,0.0,0.0,0.0
+快餐简餐,Santafe Bar & Grill,Santafe Bar & Grill,0,波多黎各萨,0.0,0.0,0.0
+快餐简餐,Fat Annies,Fat Annies,0,其他,0.0,0.0,0.0
+快餐简餐,Son Vent,Son Vent,0,其他,0.0,0.0,0.0
+快餐简餐,Diner,Diner,0,其他,0.0,0.0,0.0
+快餐简餐,Hamburgueseria Es Canto,Hamburgueseria Es Canto,0,其他,0.0,0.0,0.0
+快餐简餐,Sucre Chic,Sucre Chic,0,普拉亚斯马洛卡,0.0,0.0,0.0
+快餐简餐,CafetO,CafetO,0,其他,0.0,0.0,0.0
+快餐简餐,Mr. Brooklyn Hot Dog,Mr. Brooklyn Hot Dog,0,其他,0.0,0.0,0.0
+快餐简餐,Deli & Cia,Deli & Cia,0,其他,0.0,0.0,0.0
+快餐简餐,Hot Dog Mania,Hot Dog Mania,0,其他,0.0,0.0,0.0
+快餐简餐,el prado steakhouse,el prado steakhouse,0,其他,0.0,0.0,0.0
+海鲜,Meson Dulcinea,Meson Dulcinea,0,阿尔库迪亚,0.0,0.0,0.0
+海鲜,Kingfisher Restaurant,Kingfisher Restaurant,0,其他,0.0,0.0,0.0
+海鲜,La Mejillonera,La Mejillonera,0,其他,0.0,0.0,0.0
+海鲜,Casa Manolo,Casa Manolo,0,其他,0.0,0.0,0.0
+海鲜,Restorante Los Poetas,Restorante Los Poetas,0,其他,0.0,0.0,0.0
+海鲜,la parada del mar - Santa Ponsa,la parada del mar - Santa Ponsa,0,其他,0.0,0.0,0.0
+海鲜,Galicia,Galicia,0,其他,0.0,0.0,0.0
+海鲜,Moli des Portitxol,Moli des Portitxol,0,其他,0.0,0.0,0.0
+海鲜,Restaurante Anfos,Restaurante Anfos,0,其他,0.0,0.0,0.0
+海鲜,Las Olas,Las Olas,0,瑞格,0.0,0.0,0.0
+海鲜,El Dorado,El Dorado,0,其他,0.0,0.0,0.0
+海鲜,Grand Cafe Del Mar,Grand Cafe Del Mar,0,埃尔阿雷纳,0.0,0.0,0.0
+海鲜,Restaurante Club Náutico Portixol,Restaurante Club Náutico Portixol,0,其他,0.0,0.0,0.0
+海鲜,Ostreria Platinum,Ostreria Platinum,0,其他,0.0,0.0,0.0
+海鲜,Marcelino,Marcelino,0,其他,0.0,0.0,0.0
+海鲜,Ostreria,Ostreria,0,其他,0.0,0.0,0.0
+海鲜,Marisqueria Galicia,Marisqueria Galicia,0,瑞格,0.0,0.0,0.0
+海鲜,Cuarto Creciente,Cuarto Creciente,0,其他,0.0,0.0,0.0
+海鲜,Es reim,Es reim,0,埃尔阿雷纳,0.0,0.0,0.0
+烧烤,Koa,Koa,0,其他,0.0,0.0,0.0
+烧烤,Block House,Block House,0,其他,0.0,0.0,0.0
+烧烤,Restaurante La Hacienda,Restaurante La Hacienda,0,其他,0.0,0.0,0.0
+烧烤,Rancho El Patio,Rancho El Patio,0,其他,0.0,0.0,0.0
+烧烤,Meson Gallego Son Caliu,Meson Gallego Son Caliu,0,其他,0.0,0.0,0.0
+烧烤,Tres Palas,Tres Palas,0,其他,0.0,0.0,0.0
+烧烤,ES Moli de Can Pere,ES Moli de Can Pere,0,埃尔阿雷纳,0.0,0.0,0.0
+烧烤,Club de Mar - Restaurante & Music Bar‏,Club de Mar - Restaurante & Music Bar‏,0,阿尔库迪亚,0.0,0.0,0.0
+烧烤,Sa Tafona de Son Fang,Sa Tafona de Son Fang,0,阿尔库迪亚,0.0,0.0,0.0
+烧烤,Bar Restaurante Laup,Bar Restaurante Laup,0,阿尔库迪亚,0.0,0.0,0.0
+烧烤,El Mojito,El Mojito,0,波多黎各萨,0.0,0.0,0.0
+烧烤,Restaurant Goli,Restaurant Goli,0,其他,0.0,0.0,0.0
+烧烤,Momos Rodizio Restaurant,Momos Rodizio Restaurant,0,其他,0.0,0.0,0.0
+烧烤,RESTAURANTE CASA SEXTO,RESTAURANTE CASA SEXTO,0,其他,0.0,0.0,0.0
+烧烤,Restaurante Pizzeria Nuevo Rancho,Restaurante Pizzeria Nuevo Rancho,0,其他,0.0,0.0,0.0
+烧烤,Cafe Bar Restaurant Ca'n Topa,Cafe Bar Restaurant Ca'n Topa,0,瑞格,0.0,0.0,0.0
+烧烤,La Tasca,La Tasca,0,其他,0.0,0.0,0.0
+烧烤,Private Cooking Mallorca,Private Cooking Mallorca,0,其他,0.0,0.0,0.0
+烧烤,Portixol Corner,Portixol Corner,0,其他,0.0,0.0,0.0
+烧烤,Restaurante Pequeño Mundo,Restaurante Pequeño Mundo,0,其他,0.0,0.0,0.0
+烧烤,Corner Grill,Corner Grill,0,其他,0.0,0.0,0.0
+烧烤,Restaurante Cafeteria Sol I Mar,Restaurante Cafeteria Sol I Mar,0,其他,0.0,0.0,0.0
+烧烤,Ureka,Ureka,0,其他,0.0,0.0,0.0
+烧烤,Restaurant Marquet,Restaurant Marquet,0,其他,0.0,0.0,0.0
+烧烤,FUSION CAFE LOUNGE,FUSION CAFE LOUNGE,0,其他,0.0,0.0,0.0
+比萨,Pa Torrat,Pa Torrat,0,普拉亚斯马洛卡,0.0,0.0,0.0
+比萨,Chillys bar pizza house,Chillys bar pizza house,0,瑞格,0.0,0.0,0.0
+比萨,Pizzeria Martha's,Pizzeria Martha's,0,其他,0.0,0.0,0.0
+比萨,Pizzeria La Plaza,Pizzeria La Plaza,0,其他,0.0,0.0,0.0
+比萨,Cyrano Resto Bar,Cyrano Resto Bar,0,其他,0.0,0.0,0.0
+比萨,Cafe latino restaurante,Cafe latino restaurante,0,其他,0.0,0.0,0.0
+比萨,Beachclub Paguera,Beachclub Paguera,0,其他,0.0,0.0,0.0
+比萨,El cafe de sa plaça,El cafe de sa plaça,0,其他,0.0,0.0,0.0
+比萨,Spaghetteria Casa Leone,Spaghetteria Casa Leone,0,其他,0.0,0.0,0.0
+比萨,Cala Moreya,Cala Moreya,0,阿尔库迪亚,0.0,0.0,0.0
+比萨,PLATJA BLAVA,PLATJA BLAVA,0,其他,0.0,0.0,0.0
+比萨,La Vila,La Vila,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Villa Patro,Pizzeria Villa Patro,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Dino,Pizzeria Dino,0,其他,0.0,0.0,0.0
+比萨,Pizza Capri,Pizza Capri,0,其他,0.0,0.0,0.0
+比萨,Cafetería Bar Camp De Mar,Cafetería Bar Camp De Mar,0,其他,0.0,0.0,0.0
+比萨,Ca Teva,Ca Teva,0,普拉亚斯马洛卡,0.0,0.0,0.0
+比萨,Restaurante Pizzeria Napoles,Restaurante Pizzeria Napoles,0,普拉亚斯马洛卡,0.0,0.0,0.0
+比萨,Pizzeria Can Pascal,Pizzeria Can Pascal,0,其他,0.0,0.0,0.0
+比萨,Cavatappi,Cavatappi,0,其他,0.0,0.0,0.0
+比萨,La Piazzetta,La Piazzetta,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Luna Gaucha,Pizzeria Luna Gaucha,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Giovanini,Pizzeria Giovanini,0,其他,0.0,0.0,0.0
+比萨,Gege Pizza,Gege Pizza,0,其他,0.0,0.0,0.0
+比萨,Javinapolitano,Javinapolitano,0,其他,0.0,0.0,0.0
+比萨,Kinotto,Kinotto,0,其他,0.0,0.0,0.0
+比萨,Pizza Pause,Pizza Pause,0,,6.9,6.9,6.9
+比萨,Restaurant - Pizzeria S'Arcada,Restaurant - Pizzeria S'Arcada,0,普拉亚斯马洛卡,0.0,0.0,0.0
+比萨,Pizzeria Can Joan,Pizzeria Can Joan,0,其他,0.0,0.0,0.0
+比萨,LaPenya,LaPenya,0,其他,0.0,0.0,0.0
+比萨,Zena,Zena,0,马略卡岛,0.0,0.0,0.0
+比萨,I love Pizza,I love Pizza,0,马略卡岛,0.0,0.0,0.0
+比萨,La Fusion Portals,La Fusion Portals,0,马略卡岛,0.0,0.0,0.0
+比萨,Pizzeria Cala Estancia,Pizzeria Cala Estancia,0,其他,0.0,0.0,0.0
+咖啡厅,Antiquari,Antiquari,0,其他,0.0,0.0,0.0
+咖啡厅,Varekai Cafe,Varekai Cafe,0,索列尔港,0.0,0.0,0.0
+咖啡厅,Pizzeria Italia,Pizzeria Italia,0,其他,0.0,0.0,0.0
+咖啡厅,cafe thalassa,cafe thalassa,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Troyen,Bar Troyen,0,埃尔阿雷纳,0.0,0.0,0.0
+咖啡厅,Brunel's Family Sports Bar Pto de Alcudia,Brunel's Family Sports Bar Pto de Alcudia,0,阿尔库迪亚,0.0,0.0,0.0
+咖啡厅,The London Pub,The London Pub,0,普拉亚斯马洛卡,0.0,0.0,0.0
+咖啡厅,Cat's whiskers,Cat's whiskers,0,其他,0.0,0.0,0.0
+咖啡厅,Harrys Bar,Harrys Bar,0,其他,0.0,0.0,0.0
+咖啡厅,Happy House,Happy House,0,其他,0.0,0.0,0.0
+咖啡厅,Cappuccino Palau March,Cappuccino Palau March,0,其他,0.0,0.0,0.0
+咖啡厅,Bagel,Bagel,0,其他,0.0,0.0,0.0
+咖啡厅,Bony's Bar,Bony's Bar,0,其他,0.0,0.0,0.0
+咖啡厅,Cappuccino Valldemossa,Cappuccino Valldemossa,0,其他,0.0,0.0,0.0
+咖啡厅,Cafè L'Algar,Cafè L'Algar,0,其他,0.0,0.0,0.0
+咖啡厅,Nana's,Nana's,0,埃尔阿雷纳,0.0,0.0,0.0
+咖啡厅,La Birreria,La Birreria,0,阿尔库迪亚,0.0,0.0,0.0
+咖啡厅,Cappuccino Puerto Portals,Cappuccino Puerto Portals,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe-Fraeulein-Mueller,Cafe-Fraeulein-Mueller,0,其他,0.0,0.0,0.0
+咖啡厅,Schwarzwald Cafe,Schwarzwald Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,cafe riva,cafe riva,0,其他,0.0,0.0,0.0
+咖啡厅,Cool Divers Cafe,Cool Divers Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Panininord,Panininord,0,其他,0.0,0.0,0.0
+咖啡厅,The Little Welsh Bar,The Little Welsh Bar,0,其他,0.0,0.0,0.0
+咖啡厅,Delicias Sa Coma,Delicias Sa Coma,0,其他,0.0,0.0,0.0
+咖啡厅,Cafeteria Picnic,Cafeteria Picnic,0,其他,0.0,0.0,0.0
+咖啡厅,Foodcrush,Foodcrush,0,其他,0.0,0.0,0.0
+咖啡厅,Xocolateria Arlequin,Xocolateria Arlequin,0,其他,0.0,0.0,0.0
+咖啡厅,Pizza Nova,Pizza Nova,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Albatros,Bar Albatros,0,其他,0.0,0.0,0.0
+咖啡厅,Karisma Cocktaillounge,Karisma Cocktaillounge,0,埃尔阿雷纳,0.0,0.0,0.0
+咖啡厅,Cafe Avenida,Cafe Avenida,0,阿尔库迪亚,0.0,0.0,0.0
+咖啡厅,Cafeteria Rotonda 6,Cafeteria Rotonda 6,0,帕曼诺瓦,0.0,0.0,0.0
+咖啡厅,Formentor Store,Formentor Store,0,波多黎各萨,0.0,0.0,0.0
+咖啡厅,Ca na Bel,Ca na Bel,0,普拉亚斯马洛卡,0.0,0.0,0.0
+咖啡厅,Bistro Cafe Es Reco,Bistro Cafe Es Reco,0,瑞格,0.0,0.0,0.0
+咖啡厅,Mm'agrada,Mm'agrada,0,其他,0.0,0.0,0.0
+咖啡厅,Dominique's Cafe Bar,Dominique's Cafe Bar,0,其他,0.0,0.0,0.0
+咖啡厅,Bar - Cafeteria Agua Marina,Bar - Cafeteria Agua Marina,0,其他,0.0,0.0,0.0
+咖啡厅,Cafeteria Lipari,Cafeteria Lipari,0,其他,0.0,0.0,0.0
+咖啡厅,Palma 80s Cafe,Palma 80s Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Dundret,Dundret,0,其他,0.0,0.0,0.0
+咖啡厅,El Perrito,El Perrito,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Sa Gavina,Bar Sa Gavina,0,其他,0.0,0.0,0.0
+咖啡厅,Drach Cafe,Drach Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Mallorcafe,Mallorcafe,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Restaurant Gran Via,Cafe Restaurant Gran Via,0,其他,0.0,0.0,0.0
+咖啡厅,Insieme,Insieme,0,其他,0.0,0.0,0.0
+咖啡厅,Cacao garden,Cacao garden,0,其他,0.0,0.0,0.0
+咖啡厅,Cafeteria Los Palmitos,Cafeteria Los Palmitos,0,,7.0,7.0,7.0
+咖啡厅,Cafeteria Happy,Cafeteria Happy,0,其他,0.0,0.0,0.0
+咖啡厅,Petit Cafe,Petit Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Es Tanif,Es Tanif,0,其他,0.0,0.0,0.0
+咖啡厅,Port Pesquer,Port Pesquer,0,其他,0.0,0.0,0.0
+咖啡厅,Es Classic de Na Teresa,Es Classic de Na Teresa,0,其他,0.0,0.0,0.0
+咖啡厅,The Upper Crust,The Upper Crust,0,其他,0.0,0.0,0.0
+咖啡厅,Charlotte Take Away Santa Ponsa,Charlotte Take Away Santa Ponsa,0,马略卡岛,0.0,0.0,0.0
+咖啡厅,Cafe Matias 1947,Cafe Matias 1947,0,普拉亚斯马洛卡,0.0,0.0,0.0
+咖啡厅,Cappuccino San Miguel,Cappuccino San Miguel,0,其他,0.0,0.0,0.0
+咖啡厅,La Cucina - Loredana & Sabine,La Cucina - Loredana & Sabine,0,其他,0.0,0.0,0.0
+咖啡厅,Shamrock fn place,Shamrock fn place,0,其他,0.0,0.0,0.0
+面包甜点,Smooy,Smooy,0,帕曼诺瓦,0.0,0.0,0.0
+面包甜点,Cala d'Ice,Cala d'Ice,0,其他,0.0,0.0,0.0
+面包甜点,Bonanza,Bonanza,0,其他,0.0,0.0,0.0
+面包甜点,The French Coffee Shop,The French Coffee Shop,0,其他,0.0,0.0,0.0
+面包甜点,Giovanni L,Giovanni L,0,其他,0.0,0.0,0.0
+面包甜点,Pierito fa il gelato,Pierito fa il gelato,0,其他,0.0,0.0,0.0
+面包甜点,Eiscafe Oso Polar,Eiscafe Oso Polar,0,埃尔阿雷纳,0.0,0.0,0.0
+面包甜点,Vecchia Maniera Gelateria Artigianale Italiana,Vecchia Maniera Gelateria Artigianale Italiana,0,阿尔库迪亚,0.0,0.0,0.0
+面包甜点,Cafeteria Es Port,Cafeteria Es Port,0,普拉亚斯马洛卡,0.0,0.0,0.0
+面包甜点,Yomi Fronzen Yogurt,Yomi Fronzen Yogurt,0,索列尔港,0.0,0.0,0.0
+面包甜点,Sa Fabrica des Gelats,Sa Fabrica des Gelats,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Playa Del Moro,Gelateria Playa Del Moro,0,其他,0.0,0.0,0.0
+面包甜点,Helederia Nanen,Helederia Nanen,0,其他,0.0,0.0,0.0
+面包甜点,Xocolat,Xocolat,0,埃尔阿雷纳,0.0,0.0,0.0
+面包甜点,Dona Vaniri,Dona Vaniri,0,阿尔库迪亚,0.0,0.0,0.0
+面包甜点,Sa Gelateria,Sa Gelateria,0,普拉亚斯马洛卡,0.0,0.0,0.0
+面包甜点,Cala Portals,Cala Portals,0,其他,0.0,0.0,0.0
+面包甜点,Gelati de Mar Bar,Gelati de Mar Bar,0,其他,0.0,0.0,0.0
+面包甜点,The Sweet Mallorca,The Sweet Mallorca,0,其他,0.0,0.0,0.0
+面包甜点,Panaderia Pasteleria Reina Maria Cristina,Panaderia Pasteleria Reina Maria Cristina,0,其他,0.0,0.0,0.0
+面包甜点,Curry Wurst Santa Ponsa,Curry Wurst Santa Ponsa,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Michelangelo,Gelateria Michelangelo,0,其他,0.0,0.0,0.0
+面包甜点,Sansibar Wine,Sansibar Wine,0,其他,0.0,0.0,0.0
+面包甜点,Yogomondo,Yogomondo,0,其他,0.0,0.0,0.0
+面包甜点,Aroma Café & Bistro,Aroma Café & Bistro,0,其他,0.0,0.0,0.0
+面包甜点,Bonanza - Cala Bona Harbour,Bonanza - Cala Bona Harbour,0,其他,0.0,0.0,0.0
+酒吧,Amigos Bar,Amigos Bar,0,其他,0.0,0.0,0.0
+酒吧,Lindley's Bar,Lindley's Bar,0,其他,0.0,0.0,0.0
+酒吧,The Prince William Pub,The Prince William Pub,0,其他,0.0,0.0,0.0
+酒吧,Bistro del Jardin,Bistro del Jardin,0,阿尔库迪亚,0.0,0.0,0.0
+酒吧,Glop's,Glop's,0,其他,0.0,0.0,0.0
+酒吧,The Little Tavern,The Little Tavern,0,其他,0.0,0.0,0.0
+酒吧,Central bar,Central bar,0,其他,0.0,0.0,0.0
+酒吧,The Posh Paddy,The Posh Paddy,0,其他,0.0,0.0,0.0
+酒吧,Spoon,Spoon,0,其他,0.0,0.0,0.0
+酒吧,Diva Bar,Diva Bar,0,其他,0.0,0.0,0.0
+酒吧,Flozzies Bar,Flozzies Bar,0,其他,0.0,0.0,0.0
+酒吧,Tims Bar,Tims Bar,0,其他,0.0,0.0,0.0
+酒吧,Abacanto,Abacanto,0,其他,0.0,0.0,0.0
+酒吧,Waikkiki Bar,Waikkiki Bar,0,其他,0.0,0.0,0.0
+酒吧,Sanddancers,Sanddancers,0,其他,0.0,0.0,0.0
+酒吧,Don Ron Heroes Bar,Don Ron Heroes Bar,0,其他,0.0,0.0,0.0
+酒吧,Sean's Place,Sean's Place,0,其他,0.0,0.0,0.0
+酒吧,PJ's Bar,PJ's Bar,0,其他,0.0,0.0,0.0
+酒吧,Mojito's Cuban Cafe,Mojito's Cuban Cafe,0,其他,0.0,0.0,0.0
+酒吧,Stereo Bar Magaluf,Stereo Bar Magaluf,0,其他,0.0,0.0,0.0
+酒吧,Sunshine Bistro,Sunshine Bistro,0,其他,0.0,0.0,0.0
+酒吧,Luna Bar,Luna Bar,0,其他,0.0,0.0,0.0
+酒吧,El Ancla,El Ancla,0,埃尔阿雷纳,0.0,0.0,0.0
+酒吧,Bar Hawaii,Bar Hawaii,0,阿尔库迪亚,0.0,0.0,0.0
+酒吧,Beach Bar Paraiso,Beach Bar Paraiso,0,阿尔库迪亚,0.0,0.0,0.0
+酒吧,Vamps Karaoke Disco Bar,Vamps Karaoke Disco Bar,0,阿尔库迪亚,0.0,0.0,0.0
+酒吧,Embat,Embat,0,波多黎各萨,0.0,0.0,0.0
+酒吧,Ca na Noe,Ca na Noe,0,普拉亚斯马洛卡,0.0,0.0,0.0
+酒吧,Bar Cabrera,Bar Cabrera,0,其他,0.0,0.0,0.0
+酒吧,Tirol Cerveceria,Tirol Cerveceria,0,其他,0.0,0.0,0.0
+酒吧,Escape,Escape,0,其他,0.0,0.0,0.0
+酒吧,The Soho Bar,The Soho Bar,0,其他,0.0,0.0,0.0
+酒吧,Havanna Bar,Havanna Bar,0,其他,0.0,0.0,0.0
+酒吧,Es Baret,Es Baret,0,其他,0.0,0.0,0.0
+酒吧,kurz & Gut,kurz & Gut,0,其他,0.0,0.0,0.0
+酒吧,Nana Cafe & Bistro,Nana Cafe & Bistro,0,其他,0.0,0.0,0.0
+酒吧,Lorien,Lorien,0,其他,0.0,0.0,0.0
+酒吧,Bali Restobar,Bali Restobar,0,其他,0.0,0.0,0.0
+酒吧,Bar Menta,Bar Menta,0,其他,0.0,0.0,0.0
+酒吧,Moli De Sal Paradisus,Moli De Sal Paradisus,0,其他,0.0,0.0,0.0
+酒吧,Pizza Nova Palma Nova Majorca,Pizza Nova Palma Nova Majorca,0,其他,0.0,0.0,0.0
+酒吧,Gelateria Italiana ,Gelateria Italiana ,0,埃尔阿雷纳,0.0,0.0,0.0
+酒吧,Cupido Bar,Cupido Bar,0,埃尔阿雷纳,0.0,0.0,0.0
+酒吧,Kioska 3,Kioska 3,0,阿尔库迪亚,0.0,0.0,0.0
+酒吧,Bar Sa Via,Bar Sa Via,0,瑞格,0.0,0.0,0.0
+酒吧,Tambucho,Tambucho,0,其他,0.0,0.0,0.0
+酒吧,Harp anb Shamrock Irish bar,Harp anb Shamrock Irish bar,0,其他,0.0,0.0,0.0
+酒吧,The Dubliner,The Dubliner,0,其他,0.0,0.0,0.0
+酒吧,Tropical Gardens,Tropical Gardens,0,其他,0.0,0.0,0.0
+酒吧,Morgan's Club Magalluf,Morgan's Club Magalluf,0,其他,0.0,0.0,0.0
+酒吧,ca sa viuda,ca sa viuda,0,其他,0.0,0.0,0.0
+酒吧,Carpe diem,Carpe diem,0,其他,0.0,0.0,0.0
+酒吧,Santa Bar,Santa Bar,0,其他,0.0,0.0,0.0
+酒吧,Cafe Atlantico Cocktail bar,Cafe Atlantico Cocktail bar,0,,0.0,0.0,0.0
+酒吧,Ego Afterwork Cafe and Bar,Ego Afterwork Cafe and Bar,0,其他,0.0,0.0,0.0
+酒吧,Pintxoteca,Pintxoteca,0,其他,0.0,0.0,0.0
+酒吧,Bar Deportivo La Salle,Bar Deportivo La Salle,0,其他,0.0,0.0,0.0
+酒吧,Esport,Esport,0,其他,0.0,0.0,0.0
+酒吧,BAR FARINA,BAR FARINA,0,,7.1,7.1,7.1
+酒吧,Cafe Miro,Cafe Miro,0,其他,0.0,0.0,0.0
+酒吧,Bar Central,Bar Central,0,,7.0,7.0,7.0
+酒吧,Bar Tony,Bar Tony,0,,6.9,6.9,6.9
+酒吧,Cafe Katzenberger,Cafe Katzenberger,0,其他,0.0,0.0,0.0
+酒吧,Celts Well,Celts Well,0,其他,0.0,0.0,0.0
+酒吧,MacGowan's,MacGowan's,0,其他,0.0,0.0,0.0
+酒吧,Copas Rotas,Copas Rotas,0,其他,0.0,0.0,0.0
+酒吧,L'espigo,L'espigo,0,其他,0.0,0.0,0.0
+酒吧,Blue Bar,Blue Bar,0,,6.8,6.8,7.1
+酒吧,Guiness House,Guiness House,0,其他,0.0,0.0,0.0
+酒吧,La Sangria,La Sangria,0,其他,0.0,0.0,0.0
+酒吧,Beer&biere,Beer&biere,0,其他,0.0,0.0,0.0
+更多美食,Caballito Del Mar,Caballito Del Mar,0,其他,7.2,7.7,7.2
+更多美食,Cal Bisbe Restaurant,Cal Bisbe Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Roland Restaurant,Roland Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Es Coll d'Os,Es Coll d'Os,0,其他,0.0,0.0,0.0
+更多美食,Mandala,Mandala,0,其他,0.0,0.0,0.0
+更多美食,Es Ginebro,Es Ginebro,0,瑞格,0.0,0.0,0.0
+更多美食,Trespais,Trespais,0,其他,0.0,0.0,0.0
+更多美食,Solo Calaratjada,Solo Calaratjada,0,其他,0.0,0.0,0.0
+更多美食,La Bodeguilla,La Bodeguilla,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Topogigio,Restaurante Topogigio,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Granada,Granada,0,其他,0.0,0.0,0.0
+更多美食,La Payesita,La Payesita,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Leon Rojo,Leon Rojo,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Mediterraneo 1930,Mediterraneo 1930,0,其他,0.0,0.0,0.0
+更多美食,La Boutique del Gelato,La Boutique del Gelato,0,其他,0.0,0.0,0.0
+更多美食,INDONESIA,INDONESIA,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Carabel Pub,Carabel Pub,0,其他,0.0,0.0,0.0
+更多美食,Es Pati,Es Pati,0,其他,0.0,0.0,0.0
+更多美食,Marsalada Cafe & Drinks,Marsalada Cafe & Drinks,0,其他,0.0,0.0,0.0
+更多美食,Taberna Vasca Goxua,Taberna Vasca Goxua,0,其他,0.0,0.0,0.0
+更多美食,Millor,Millor,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Es Mollet De S'illot,Restaurante Es Mollet De S'illot,0,其他,0.0,0.0,0.0
+更多美食,El Brio,El Brio,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Lua,Restaurante Lua,0,其他,0.0,0.0,0.0
+更多美食,Taste of India,Taste of India,0,其他,0.0,0.0,0.0
+更多美食,Picasso,Picasso,0,其他,0.0,0.0,0.0
+更多美食,Ikebana,Ikebana,0,其他,0.0,0.0,0.0
+更多美食,Moli de Vent,Moli de Vent,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Salvator,Pizzeria Salvator,0,其他,0.0,0.0,0.0
+更多美食,Sol y Vida,Sol y Vida,0,其他,0.0,0.0,0.0
+更多美食,Restaurante La Marina,Restaurante La Marina,0,其他,0.0,0.0,0.0
+更多美食,Es Pinaret,Es Pinaret,0,其他,0.0,0.0,0.0
+更多美食,Jose's restaurante e bar,Jose's restaurante e bar,0,其他,0.0,0.0,0.0
+更多美食,Robinson Crusoes,Robinson Crusoes,0,其他,0.0,0.0,0.0
+更多美食,Asador Es Teatre,Asador Es Teatre,0,其他,0.0,0.0,0.0
+更多美食,Campino,Campino,0,其他,0.0,0.0,0.0
+更多美食,Nostalgia,Nostalgia,0,其他,0.0,0.0,0.0
+更多美食,Hotel Cala Bona Cafeteria,Hotel Cala Bona Cafeteria,0,其他,0.0,0.0,0.0
+更多美食,Treff Bio Restaurant,Treff Bio Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Sonny's bar,Sonny's bar,0,其他,0.0,0.0,0.0
+更多美食,Es Bergant,Es Bergant,0,其他,0.0,0.0,0.0
+更多美食,El Bistro - Mallorca,El Bistro - Mallorca,0,其他,0.0,0.0,0.0
+更多美食,Curry&Style,Curry&Style,0,其他,0.0,0.0,0.0
+更多美食,LAOS Club,LAOS Club,0,其他,0.0,0.0,0.0
+更多美食,Paco's Restaurant,Paco's Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Al Fresco Deli,Al Fresco Deli,0,其他,0.0,0.0,0.0
+更多美食,Port Blanc Restaurant & Bar,Port Blanc Restaurant & Bar,0,其他,0.0,0.0,0.0
+更多美食,Sabarca Restaurant,Sabarca Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Las sirenas,Las sirenas,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Restaurante Del Sol,Restaurante Del Sol,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Sa Barca,Sa Barca,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Cuban Bar,Cuban Bar,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Purobeach Palma,Purobeach Palma,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Garlanda,Garlanda,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Meson Los Patos,Meson Los Patos,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Restaurante Sa Gavina - Pto Alcudia,Restaurante Sa Gavina - Pto Alcudia,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Twister,Twister,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Sa Caseta,Sa Caseta,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Bar Restaurante Lovento,Bar Restaurante Lovento,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Rancho Chico,Rancho Chico,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Bistro Mar,Bistro Mar,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Restaurante Gran China,Restaurante Gran China,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,la recoleta,la recoleta,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Bodega d'es Port,Bodega d'es Port,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Ca'n Punyetes,Ca'n Punyetes,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Petit Hotel Ca'n Simo Restaurant,Petit Hotel Ca'n Simo Restaurant,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Restaurant S'Arc,Restaurant S'Arc,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Bistro 1909,Bistro 1909,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,can CuarassA,can CuarassA,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Clivia,Clivia,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,La Posada de Ariant Restaurant,La Posada de Ariant Restaurant,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,La Fonda,La Fonda,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Celler El Moli,Celler El Moli,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,El Mecca PianoBar,El Mecca PianoBar,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Restaurante Lady Diana - Diana Beach,Restaurante Lady Diana - Diana Beach,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Mocubar,Mocubar,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Le P'tit Bistrot,Le P'tit Bistrot,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Bar Bon Dia,Bar Bon Dia,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Sparrow Bar,Sparrow Bar,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Mombasa cafe,Mombasa cafe,0,波多黎各萨,0.0,0.0,0.0
+更多美食,La Llonja,La Llonja,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Restaurante Bellaverde,Restaurante Bellaverde,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Restaurant Brisas,Restaurant Brisas,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Iru Restaurant,Iru Restaurant,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Restaurant Tribeca,Restaurant Tribeca,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Guru,Guru,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Trio Bar and Restaurant,Trio Bar and Restaurant,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Es 4 Vents,Es 4 Vents,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Restaurant Es Moli D,Restaurant Es Moli D,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Moli D,Moli D,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,El Sol Bar,El Sol Bar,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Restaurante Sa Cova,Restaurante Sa Cova,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,los Faroles Restaurante,los Faroles Restaurante,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Don Denis,Don Denis,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Chillax,Chillax,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Restaurante Monaco,Restaurante Monaco,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,La Pinta,La Pinta,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Moli des Torrent,Moli des Torrent,0,瑞格,0.0,0.0,0.0
+更多美食,Ecosenalla,Ecosenalla,0,瑞格,0.0,0.0,0.0
+更多美食,Sargantana,Sargantana,0,瑞格,0.0,0.0,0.0
+更多美食,Santi Taura Restaurante,Santi Taura Restaurante,0,瑞格,0.0,0.0,0.0
+更多美食,S`Angel,S`Angel,0,瑞格,0.0,0.0,0.0
+更多美食,Celler Can Carrossa,Celler Can Carrossa,0,瑞格,0.0,0.0,0.0
+更多美食,Ca Na Toneta,Ca Na Toneta,0,瑞格,0.0,0.0,0.0
+更多美食,Restaurante Es Passeig,Restaurante Es Passeig,0,索列尔港,0.0,0.0,0.0
+更多美食,Bar Jules,Bar Jules,0,索列尔港,0.0,0.0,0.0
+更多美食,Nunu Restaurant,Nunu Restaurant,0,索列尔港,0.0,0.0,0.0
+更多美食,Campo Sol,Campo Sol,0,索列尔港,0.0,0.0,0.0
+更多美食,Bar and Restaurant Agapanto,Bar and Restaurant Agapanto,0,索列尔港,0.0,0.0,0.0
+更多美食,EL PIRATA,EL PIRATA,0,索列尔港,0.0,0.0,0.0
+更多美食,"Sunset Bar, Cala Bona","Sunset Bar, Cala Bona",0,其他,0.0,0.0,0.0
+更多美食,Port Blau,Port Blau,0,其他,0.0,0.0,0.0
+更多美食,Strandkorb,Strandkorb,0,其他,0.0,0.0,0.0
+更多美食,Sa Foganya,Sa Foganya,0,其他,0.0,0.0,0.0
+更多美食,Es Punt,Es Punt,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Es Port,Restaurante Es Port,0,其他,0.0,0.0,0.0
+更多美食,Es Cantonet,Es Cantonet,0,其他,0.0,0.0,0.0
+更多美食,Mistral Restaurante,Mistral Restaurante,0,其他,0.0,0.0,0.0
+更多美食,Sa Fona,Sa Fona,0,其他,0.0,0.0,0.0
+更多美食,Stadthotel Santanyi & Restaurant,Stadthotel Santanyi & Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Es Moli de Santanyi,Restaurant Es Moli de Santanyi,0,其他,0.0,0.0,0.0
+更多美食,Tentol,Tentol,0,其他,0.0,0.0,0.0
+更多美食,Nevada,Nevada,0,其他,0.0,0.0,0.0
+更多美食,Porto Cari,Porto Cari,0,其他,0.0,0.0,0.0
+更多美食,Kalypso Tutti Frutti,Kalypso Tutti Frutti,0,其他,0.0,0.0,0.0
+更多美食,S'Ancora,S'Ancora,0,其他,0.0,0.0,0.0
+更多美食,Cheeki Tiki,Cheeki Tiki,0,其他,0.0,0.0,0.0
+更多美食,To-Do,To-Do,0,其他,0.0,0.0,0.0
+更多美食,Yacht Club Cala d'Or,Yacht Club Cala d'Or,0,其他,0.0,0.0,0.0
+更多美食,Indiana Johns,Indiana Johns,0,其他,0.0,0.0,0.0
+更多美食,Restaurante La Scala SL.,Restaurante La Scala SL.,0,其他,0.0,0.0,0.0
+更多美食,Bar Restaurante Rincon de Pepe,Bar Restaurante Rincon de Pepe,0,其他,0.0,0.0,0.0
+更多美食,Cafeteria Piscis,Cafeteria Piscis,0,其他,0.0,0.0,0.0
+更多美食,Andi,Andi,0,其他,0.0,0.0,0.0
+更多美食,Sa Placa,Sa Placa,0,其他,0.0,0.0,0.0
+更多美食,C'an Bernat,C'an Bernat,0,其他,0.0,0.0,0.0
+更多美食,Cafeteria Vistasol,Cafeteria Vistasol,0,其他,0.0,0.0,0.0
+更多美食,Can Tomeu,Can Tomeu,0,其他,0.0,0.0,0.0
+更多美食,La Oveja Negra,La Oveja Negra,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Viena Cas Concos,Restaurant Viena Cas Concos,0,其他,0.0,0.0,0.0
+更多美食,Rapa Nui,Rapa Nui,0,其他,0.0,0.0,0.0
+更多美食,Colon,Colon,0,其他,0.0,0.0,0.0
+更多美食,Florian,Florian,0,其他,0.0,0.0,0.0
+更多美食,Sa Llotja,Sa Llotja,0,其他,0.0,0.0,0.0
+更多美食,El Castillo del Bosque,El Castillo del Bosque,0,其他,0.0,0.0,0.0
+更多美食,El Toro Bistro Grill,El Toro Bistro Grill,0,其他,0.0,0.0,0.0
+更多美食,Aroma,Aroma,0,其他,0.0,0.0,0.0
+更多美食,Lord Nelson,Lord Nelson,0,其他,0.0,0.0,0.0
+更多美食,Krishna Indian Restaurant,Krishna Indian Restaurant,0,其他,0.0,0.0,0.0
+更多美食,The Blue Bar,The Blue Bar,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Maritimo,Restaurante Maritimo,0,其他,0.0,0.0,0.0
+更多美食,No.8 Bar & Grill,No.8 Bar & Grill,0,其他,0.0,0.0,0.0
+更多美食,Rhein Restaurant,Rhein Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Fat Sam's,Fat Sam's,0,其他,0.0,0.0,0.0
+更多美食,Old Vienna,Old Vienna,0,其他,0.0,0.0,0.0
+更多美食,Vivo,Vivo,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Es Centro,Restaurant Es Centro,0,其他,0.0,0.0,0.0
+更多美食,Jackie's,Jackie's,0,其他,0.0,0.0,0.0
+更多美食,El Ceibo,El Ceibo,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Xaloc,Restaurante Xaloc,0,其他,0.0,0.0,0.0
+更多美食,Croc's Bistro,Croc's Bistro,0,其他,0.0,0.0,0.0
+更多美食,Las Olas Bar & Restaurant,Las Olas Bar & Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Mrs Murphy's Kitchen,Mrs Murphy's Kitchen,0,其他,0.0,0.0,0.0
+更多美食,El Jardin,El Jardin,0,其他,0.0,0.0,0.0
+更多美食,The Pepper Pot,The Pepper Pot,0,其他,0.0,0.0,0.0
+更多美食,Scott's Family restaurant,Scott's Family restaurant,0,其他,0.0,0.0,0.0
+更多美食,Tahini: Sushi Bar & Restaurant,Tahini: Sushi Bar & Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Lila Portals Beach Restaurant & Bar,Lila Portals Beach Restaurant & Bar,0,其他,0.0,0.0,0.0
+更多美食,La Hacienda,La Hacienda,0,其他,0.0,0.0,0.0
+更多美食,Sa Llonja,Sa Llonja,0,其他,0.0,0.0,0.0
+更多美食,Signature Restaurant,Signature Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Villa Italia,Villa Italia,0,其他,0.0,0.0,0.0
+更多美食,Restaurante-Pizzeria Salvador,Restaurante-Pizzeria Salvador,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Roma,Restaurante Roma,0,其他,0.0,0.0,0.0
+更多美食,Portobello,Portobello,0,其他,0.0,0.0,0.0
+更多美食,SA SAL,SA SAL,0,其他,0.0,0.0,0.0
+更多美食,El Patio,El Patio,0,其他,0.0,0.0,0.0
+更多美食,El Coche,El Coche,0,其他,0.0,0.0,0.0
+更多美食,The Boathouse,The Boathouse,0,其他,0.0,0.0,0.0
+更多美食,Vent de Tramuntana,Vent de Tramuntana,0,其他,0.0,0.0,0.0
+更多美食,Casa Fernando,Casa Fernando,0,其他,0.0,0.0,0.0
+更多美食,Casa Jacinto,Casa Jacinto,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Na Burguesa,Restaurante Na Burguesa,0,其他,0.0,0.0,0.0
+更多美食,La Meme,La Meme,0,其他,0.0,0.0,0.0
+更多美食,Temple Natura,Temple Natura,0,其他,0.0,0.0,0.0
+更多美食,Lennox the Pub,Lennox the Pub,0,其他,0.0,0.0,0.0
+更多美食,Neo Cultural,Neo Cultural,0,其他,0.0,0.0,0.0
+更多美食,Restaurante La Boveda,Restaurante La Boveda,0,其他,0.0,0.0,0.0
+更多美食,La Taberna De La Boveda,La Taberna De La Boveda,0,其他,0.0,0.0,0.0
+更多美食,Tasu,Tasu,0,其他,0.0,0.0,0.0
+更多美食,Cafe Los Faroles,Cafe Los Faroles,0,其他,0.0,0.0,0.0
+更多美食,Bar Dia,Bar Dia,0,其他,0.0,0.0,0.0
+更多美食,Sadrassana Restaurant Cocteleria,Sadrassana Restaurant Cocteleria,0,其他,0.0,0.0,0.0
+更多美食,Casa Julio,Casa Julio,0,其他,0.0,0.0,0.0
+更多美食,Ca'n Joan De S'aigo,Ca'n Joan De S'aigo,0,其他,0.0,0.0,0.0
+更多美食,Vegetariano Bon Lloc,Vegetariano Bon Lloc,0,其他,0.0,0.0,0.0
+更多美食,La Baranda,La Baranda,0,其他,0.0,0.0,0.0
+更多美食,Sumaq Restaurante,Sumaq Restaurante,0,其他,0.0,0.0,0.0
+更多美食,Es Baluard,Es Baluard,0,其他,0.0,0.0,0.0
+更多美食,Puro Chef,Puro Chef,0,其他,0.0,0.0,0.0
+更多美食,Reina Mora,Reina Mora,0,其他,0.0,0.0,0.0
+更多美食,El Chaflan de PatxiEl Chaflan de Patxi Place page,El Chaflan de PatxiEl Chaflan de Patxi Place page,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Plaer Natural,Restaurante Plaer Natural,0,其他,0.0,0.0,0.0
+更多美食,Crazy Chef,Crazy Chef,0,其他,0.0,0.0,0.0
+更多美食,La 5a Puneta,La 5a Puneta,0,其他,0.0,0.0,0.0
+更多美食,Duke Restaurant,Duke Restaurant,0,其他,0.0,0.0,0.0
+更多美食,El Rancho Picadero,El Rancho Picadero,0,其他,0.0,0.0,0.0
+更多美食,Bodega La Rambla,Bodega La Rambla,0,其他,0.0,0.0,0.0
+更多美食,Basic,Basic,0,其他,0.0,0.0,0.0
+更多美食,Mercado del Olivar,Mercado del Olivar,0,其他,0.0,0.0,0.0
+更多美食,Misa Braseria,Misa Braseria,0,其他,0.0,0.0,0.0
+更多美食,Sa Pastanaga,Sa Pastanaga,0,其他,0.0,0.0,0.0
+更多美食,Capuccino San Miguel,Capuccino San Miguel,0,其他,0.0,0.0,0.0
+更多美食,Brassclub,Brassclub,0,其他,0.0,0.0,0.0
+更多美食,Kenna's Irish Bar & Restaurant,Kenna's Irish Bar & Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Mas Natural (+Ntrl),Mas Natural (+Ntrl),0,其他,0.0,0.0,0.0
+更多美食,Bar Casablanca,Bar Casablanca,0,其他,0.0,0.0,0.0
+更多美食,Restaurant URBA,Restaurant URBA,0,其他,0.0,0.0,0.0
+更多美食,Portixol Hotel,Portixol Hotel,0,其他,0.0,0.0,0.0
+更多美食,El Carrascal,El Carrascal,0,其他,0.0,0.0,0.0
+更多美食,Cafe de la Mar,Cafe de la Mar,0,其他,0.0,0.0,0.0
+更多美食,Restaurante El Sol,Restaurante El Sol,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria-restaurante Salvator,Pizzeria-restaurante Salvator,0,其他,0.0,0.0,0.0
+更多美食,Es Moli Den Bou,Es Moli Den Bou,0,其他,0.0,0.0,0.0
+更多美食,Es Vi,Es Vi,0,其他,0.0,0.0,0.0
+更多美食,Cafe Del Sol,Cafe Del Sol,0,其他,0.0,0.0,0.0
+更多美食,Ses Pruneres de JeverKate,Ses Pruneres de JeverKate,0,其他,0.0,0.0,0.0
+更多美食,Cheers Bar,Cheers Bar,0,其他,0.0,0.0,0.0
+更多美食,Melis,Melis,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Son Floriana,Restaurante Son Floriana,0,其他,0.0,0.0,0.0
+更多美食,The Rose Restaurant,The Rose Restaurant,0,其他,0.0,0.0,0.0
+更多美食,janet and john's,janet and john's,0,其他,0.0,0.0,0.0
+更多美食,Ca'n Costa,Ca'n Costa,0,其他,0.0,0.0,0.0
+更多美食,Meson Ca,Meson Ca,0,其他,0.0,0.0,0.0
+更多美食,Peperoncino,Peperoncino,0,其他,0.0,0.0,0.0
+更多美食,Sa Punta,Sa Punta,0,其他,0.0,0.0,0.0
+更多美食,Arandora,Arandora,0,其他,0.0,0.0,0.0
+更多美食,Cap Vermell,Cap Vermell,0,其他,0.0,0.0,0.0
+更多美食,Nou de sant pere,Nou de sant pere,0,其他,0.0,0.0,0.0
+更多美食,Son Tomas,Son Tomas,0,其他,0.0,0.0,0.0
+更多美食,Es Trast,Es Trast,0,其他,0.0,0.0,0.0
+更多美食,Can Paco,Can Paco,0,其他,0.0,0.0,0.0
+更多美食,Porxada de Sa Torre,Porxada de Sa Torre,0,其他,0.0,0.0,0.0
+更多美食,Vino e Cucina,Vino e Cucina,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Forn Nou,Restaurant Forn Nou,0,其他,0.0,0.0,0.0
+更多美食,La Calatrava,La Calatrava,0,其他,0.0,0.0,0.0
+更多美食,L'Orient Cafe,L'Orient Cafe,0,其他,0.0,0.0,0.0
+更多美食,La Chimenea,La Chimenea,0,其他,0.0,0.0,0.0
+更多美食,Euforia,Euforia,0,其他,0.0,0.0,0.0
+更多美食,Casa de Sa Miranda,Casa de Sa Miranda,0,其他,0.0,0.0,0.0
+更多美食,Cafe Noahs,Cafe Noahs,0,其他,0.0,0.0,0.0
+更多美食,Ses Ancores,Ses Ancores,0,其他,0.0,0.0,0.0
+更多美食,Valldemossa,Valldemossa,0,其他,0.0,0.0,0.0
+更多美食,Es Raco d'es Teix,Es Raco d'es Teix,0,其他,0.0,0.0,0.0
+更多美食,The Village Cafe,The Village Cafe,0,其他,0.0,0.0,0.0
+更多美食,Sebastian,Sebastian,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Casablanca,Restaurante Casablanca,0,其他,0.0,0.0,0.0
+更多美食,Cafe Soller,Cafe Soller,0,其他,0.0,0.0,0.0
+更多美食,Can Blau (Gran Hotel SÓller),Can Blau (Gran Hotel SÓller),0,其他,0.0,0.0,0.0
+更多美食,Petiti Celler Cas Carreter,Petiti Celler Cas Carreter,0,其他,0.0,0.0,0.0
+更多美食,Ca'n BoQueta,Ca'n BoQueta,0,其他,0.0,0.0,0.0
+更多美食,Can Nantuna,Can Nantuna,0,其他,0.0,0.0,0.0
+更多美食,Calzone Pizzeria,Calzone Pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Es Turo,Es Turo,0,其他,0.0,0.0,0.0
+更多美食,Beach Alm,Beach Alm,0,其他,0.0,0.0,0.0
+更多美食,The Beach Bar,The Beach Bar,0,其他,0.0,0.0,0.0
+更多美食,los Tucanes,los Tucanes,0,其他,0.0,0.0,0.0
+更多美食,Ca'n Nofre,Ca'n Nofre,0,其他,0.0,0.0,0.0
+更多美食,Cafeteria Dos Pins,Cafeteria Dos Pins,0,其他,0.0,0.0,0.0
+更多美食,Senzone Maricel,Senzone Maricel,0,其他,0.0,0.0,0.0
+更多美食,es Parc,es Parc,0,其他,0.0,0.0,0.0
+更多美食,Playa Dorada Aparthotel Restaurant,Playa Dorada Aparthotel Restaurant,0,其他,0.0,0.0,0.0
+更多美食,The Cottage Bar,The Cottage Bar,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Hotel Niu,Restaurant Hotel Niu,0,其他,0.0,0.0,0.0
+更多美食,Resturante Casa Henrique,Resturante Casa Henrique,0,其他,0.0,0.0,0.0
+更多美食,Royal Beach,Royal Beach,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Ca'n Pancho,Restaurante Ca'n Pancho,0,其他,0.0,0.0,0.0
+更多美食,Bar the Shine,Bar the Shine,0,其他,0.0,0.0,0.0
+更多美食,Harrys Bar and Restaurant,Harrys Bar and Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Maxime Restaurant,Maxime Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Restaurante EL Creole,Pizzeria Restaurante EL Creole,0,其他,0.0,0.0,0.0
+更多美食,Io Gelats Artesans,Io Gelats Artesans,0,其他,0.0,0.0,0.0
+更多美食,Hard Bike cafe,Hard Bike cafe,0,其他,0.0,0.0,0.0
+更多美食,The Q Lounge,The Q Lounge,0,其他,0.0,0.0,0.0
+更多美食,A D Weather Spoons,A D Weather Spoons,0,其他,0.0,0.0,0.0
+更多美食,Bistro Bel,Bistro Bel,0,其他,0.0,0.0,0.0
+更多美食,El Toro Verde,El Toro Verde,0,其他,0.0,0.0,0.0
+更多美食,Restaurante El Pescador,Restaurante El Pescador,0,其他,0.0,0.0,0.0
+更多美食,Cafeteria Colmar,Cafeteria Colmar,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Las Delicias,Restaurante Las Delicias,0,其他,0.0,0.0,0.0
+更多美食,El Asadito,El Asadito,0,其他,0.0,0.0,0.0
+更多美食,Bar Stefano,Bar Stefano,0,其他,0.0,0.0,0.0
+更多美食,Bar Samoa,Bar Samoa,0,其他,0.0,0.0,0.0
+更多美食,Sa Foradada,Sa Foradada,0,其他,0.0,0.0,0.0
+更多美食,Ibizza Pizzeria Cocktail Bar,Ibizza Pizzeria Cocktail Bar,0,其他,0.0,0.0,0.0
+更多美食,La Pizza Restaurante Portocolom,La Pizza Restaurante Portocolom,0,其他,0.0,0.0,0.0
+更多美食,Cafe & Sal,Cafe & Sal,0,其他,0.0,0.0,0.0
+更多美食,Wee Magee's,Wee Magee's,0,其他,0.0,0.0,0.0
+更多美食,sa vinya,sa vinya,0,其他,0.0,0.0,0.0
+更多美食,Cipriani's Bar Restaurant,Cipriani's Bar Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Cala Llamp,Cala Llamp,0,其他,0.0,0.0,0.0
+更多美食,Gran Cafe Antica Roma,Gran Cafe Antica Roma,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Toni II,Restaurant Toni II,0,其他,0.0,0.0,0.0
+更多美食,La Trattoria,La Trattoria,0,,0.0,0.0,0.0
+更多美食,Son Julia,Son Julia,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Sa Foganaya SL.,Sa Foganaya SL.,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Restaurante El Puerto,Restaurante El Puerto,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Atenas Restaurante,Atenas Restaurante,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Rafa's Restaurante,Rafa's Restaurante,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Hotel Rodes,Hotel Rodes,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Restaurante Just Enmig,Restaurante Just Enmig,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Gufo Mallorca SL.,Gufo Mallorca SL.,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Bar Piccadilly,Bar Piccadilly,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Pizzería Portobello,Pizzería Portobello,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Restaurant Maties,Restaurant Maties,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Restaurante Las Palmeras,Restaurante Las Palmeras,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Willy,Willy,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Asador La Traviata,Asador La Traviata,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Es Faro d'Aucanada,Es Faro d'Aucanada,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Nova Marina,Nova Marina,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Sa Bota,Sa Bota,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,RED RUM British PUB,RED RUM British PUB,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Redrum,Redrum,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Pipper's Restaurant & Sushi Bar,Pipper's Restaurant & Sushi Bar,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Es Canyar,Es Canyar,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Bon Gust,Bon Gust,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,5oceanos,5oceanos,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Ca'n Moixet,Ca'n Moixet,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Goyaviana,Goyaviana,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Loro Verde,Loro Verde,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Restaurante Ciro's,Restaurante Ciro's,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Abracadabra Pizza Restaurant,Abracadabra Pizza Restaurant,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Cappuccino Palma Nova,Cappuccino Palma Nova,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Gelateria Tutti Frutti,Gelateria Tutti Frutti,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,El Cruce Palmanova,El Cruce Palmanova,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Tamarells,Tamarells,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Restobuddhabar,Restobuddhabar,0,波多黎各萨,0.0,0.0,0.0
+更多美食,El Casinet,El Casinet,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Hoposa Daina Hotel Restaurant,Hoposa Daina Hotel Restaurant,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Restaurante Ca,Restaurante Ca,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Antic Celler Son Toreo,Antic Celler Son Toreo,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Pizzeria Xiroi,Pizzeria Xiroi,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Celler Son Toreo,Celler Son Toreo,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Es Grop,Es Grop,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Es Petit Jardí de Sencelles,Es Petit Jardí de Sencelles,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Alcudia,Alcudia,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Platja de Muro,Platja de Muro,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,La Isla del Gelato,La Isla del Gelato,0,瑞格,0.0,0.0,0.0
+更多美食,Pizza Made in Italy 2,Pizza Made in Italy 2,0,瑞格,0.0,0.0,0.0
+更多美食,C'an Tiro,C'an Tiro,0,瑞格,0.0,0.0,0.0
+更多美食,Roma,Roma,0,索列尔港,0.0,0.0,0.0
+更多美食,Don Caracol Meson,Don Caracol Meson,0,其他,0.0,0.0,0.0
+更多美食,Bar-Restaurante La Mallorquina,Bar-Restaurante La Mallorquina,0,其他,0.0,0.0,0.0
+更多美食,Restaurante S'ARROSSERIA,Restaurante S'ARROSSERIA,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria El 44,Pizzeria El 44,0,其他,0.0,0.0,0.0
+更多美食,Restaurante BERNA Pizzeria,Restaurante BERNA Pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Casa Poesia,Casa Poesia,0,其他,0.0,0.0,0.0
+更多美食,Pura Vida,Pura Vida,0,其他,0.0,0.0,0.0
+更多美食,Hostal Restaurant Bar Cala,Hostal Restaurant Bar Cala,0,其他,0.0,0.0,0.0
+更多美食,Es Vinyet,Es Vinyet,0,其他,0.0,0.0,0.0
+更多美食,Ano 1849,Ano 1849,0,其他,0.0,0.0,0.0
+更多美食,Cafe Pablo,Cafe Pablo,0,其他,0.0,0.0,0.0
+更多美食,Porto Petro,Porto Petro,0,其他,0.0,0.0,0.0
+更多美食,El Pescador,El Pescador,0,其他,0.0,0.0,0.0
+更多美食,Casablanca Restaurant,Casablanca Restaurant,0,其他,0.0,0.0,0.0
+更多美食,The Pirate,The Pirate,0,其他,0.0,0.0,0.0
+更多美食,La Sivina,La Sivina,0,其他,0.0,0.0,0.0
+更多美食,Restaurate Copador Bistro Inextuma,Restaurate Copador Bistro Inextuma,0,其他,0.0,0.0,0.0
+更多美食,Playa Marina,Playa Marina,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Es-Clos & Tapitas,Restaurant Es-Clos & Tapitas,0,其他,0.0,0.0,0.0
+更多美食,Bacco,Bacco,0,其他,0.0,0.0,0.0
+更多美食,Los Pinos,Los Pinos,0,其他,0.0,0.0,0.0
+更多美食,El Retorn,El Retorn,0,其他,0.0,0.0,0.0
+更多美食,Son Terrassa,Son Terrassa,0,其他,0.0,0.0,0.0
+更多美食,Bar Restaurante Bernando,Bar Restaurante Bernando,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Club Nautic Porto Colom,Restaurant Club Nautic Porto Colom,0,其他,0.0,0.0,0.0
+更多美食,Can Calent,Can Calent,0,其他,0.0,0.0,0.0
+更多美食,Restaurante El Campo de Porto Petro SL.,Restaurante El Campo de Porto Petro SL.,0,其他,0.0,0.0,0.0
+更多美食,Sa Canova,Sa Canova,0,其他,0.0,0.0,0.0
+更多美食,Placa 4 Cafe,Placa 4 Cafe,0,其他,0.0,0.0,0.0
+更多美食,Celler Sa Sinia,Celler Sa Sinia,0,其他,0.0,0.0,0.0
+更多美食,IL CARPACCIO,IL CARPACCIO,0,其他,0.0,0.0,0.0
+更多美食,Diablito Sea Lounge,Diablito Sea Lounge,0,其他,0.0,0.0,0.0
+更多美食,Sirocco,Sirocco,0,其他,0.0,0.0,0.0
+更多美食,Jaime,Jaime,0,其他,0.0,0.0,0.0
+更多美食,Sa Plaça,Sa Plaça,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Paco´s,Restaurante Paco´s,0,其他,0.0,0.0,0.0
+更多美食,N'Hereveta,N'Hereveta,0,其他,0.0,0.0,0.0
+更多美食,Le Pilar,Le Pilar,0,其他,0.0,0.0,0.0
+更多美食,Rebels,Rebels,0,其他,0.0,0.0,0.0
+更多美食,Rendezvous,Rendezvous,0,其他,0.0,0.0,0.0
+更多美食,Plaza del Mundo,Plaza del Mundo,0,其他,0.0,0.0,0.0
+更多美食,Las Terrazas de Bendinat,Las Terrazas de Bendinat,0,其他,0.0,0.0,0.0
+更多美食,Hapimag,Hapimag,0,其他,0.0,0.0,0.0
+更多美食,Chino ,Chino ,0,其他,0.0,0.0,0.0
+更多美食,Bugambilia,Bugambilia,0,其他,0.0,0.0,0.0
+更多美食,La Fiesta,La Fiesta,0,其他,0.0,0.0,0.0
+更多美食,La Gran Tortuga,La Gran Tortuga,0,其他,0.0,0.0,0.0
+更多美食,Horapathaikitchen,Horapathaikitchen,0,其他,0.0,0.0,0.0
+更多美食,Hacienda Brasil SL.,Hacienda Brasil SL.,0,其他,0.0,0.0,0.0
+更多美食,El Paradiso,El Paradiso,0,其他,0.0,0.0,0.0
+更多美食,Tristán Mar,Tristán Mar,0,其他,0.0,0.0,0.0
+更多美食,Siroco,Siroco,0,其他,0.0,0.0,0.0
+更多美食,Las Golondrinas,Las Golondrinas,0,其他,0.0,0.0,0.0
+更多美食,Bon Profit,Bon Profit,0,其他,0.0,0.0,0.0
+更多美食,Layn,Layn,0,其他,0.0,0.0,0.0
+更多美食,Os Canteiros,Os Canteiros,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Carrion II,Restaurante Carrion II,0,其他,0.0,0.0,0.0
+更多美食,Aqua,Aqua,0,其他,0.0,0.0,0.0
+更多美食,"Son Boronat, Restaurant ","Son Boronat, Restaurant ",0,其他,0.0,0.0,0.0
+更多美食,La Greppia Restaurante e Pizzeria,La Greppia Restaurante e Pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Shu-Bi-Dua,Restaurante Shu-Bi-Dua,0,其他,0.0,0.0,0.0
+更多美食,A Popa,A Popa,0,其他,0.0,0.0,0.0
+更多美食,Charlotte Cala Mayor,Charlotte Cala Mayor,0,其他,0.0,0.0,0.0
+更多美食,L'Almirant Tapas y Punto,L'Almirant Tapas y Punto,0,其他,0.0,0.0,0.0
+更多美食,Prohibition 1929 Speakeasy,Prohibition 1929 Speakeasy,0,其他,0.0,0.0,0.0
+更多美食,Monkey Pizza,Monkey Pizza,0,其他,0.0,0.0,0.0
+更多美食,Pizza & Pasta by Pomodoro,Pizza & Pasta by Pomodoro,0,其他,0.0,0.0,0.0
+更多美食,Club Nautico,Club Nautico,0,其他,0.0,0.0,0.0
+更多美食,Crepes Suzette Mallorca,Crepes Suzette Mallorca,0,其他,0.0,0.0,0.0
+更多美食,Sa Fonda,Sa Fonda,0,其他,0.0,0.0,0.0
+更多美食,La Placita,La Placita,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Rompeolas,Restaurante Rompeolas,0,其他,0.0,0.0,0.0
+更多美食,Cafe Lirico,Cafe Lirico,0,其他,0.0,0.0,0.0
+更多美食,Cafe Moderno,Cafe Moderno,0,其他,0.0,0.0,0.0
+更多美食,Abaco,Abaco,0,其他,0.0,0.0,0.0
+更多美食,Jazz Voyeur Club,Jazz Voyeur Club,0,其他,0.0,0.0,0.0
+更多美食,Hogan's Sports Bar & Restaurant,Hogan's Sports Bar & Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Cafe Capritxo,Cafe Capritxo,0,其他,0.0,0.0,0.0
+更多美食,Merendero Minyones,Merendero Minyones,0,其他,0.0,0.0,0.0
+更多美食,La Parada de los Monstruos,La Parada de los Monstruos,0,其他,0.0,0.0,0.0
+更多美食,Sa Llimona,Sa Llimona,0,其他,0.0,0.0,0.0
+更多美食,Rotana Restaurant,Rotana Restaurant,0,其他,0.0,0.0,0.0
+更多美食,13% Vinos / Tapas / Bistro,13% Vinos / Tapas / Bistro,0,其他,0.0,0.0,0.0
+更多美食,Ziva to Go,Ziva to Go,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Can Mateu,Restaurant Can Mateu,0,其他,0.0,0.0,0.0
+更多美食,Bar titanic cafe,Bar titanic cafe,0,其他,0.0,0.0,0.0
+更多美食,Three Lions,Three Lions,0,其他,0.0,0.0,0.0
+更多美食,Cappuccino Paseo Maritimo,Cappuccino Paseo Maritimo,0,其他,0.0,0.0,0.0
+更多美食,Sera que Si,Sera que Si,0,其他,0.0,0.0,0.0
+更多美食,1955,1955,0,其他,0.0,0.0,0.0
+更多美食,Mamma Mia Restaurant,Mamma Mia Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Mari-lin Cafe Lounge,Mari-lin Cafe Lounge,0,其他,0.0,0.0,0.0
+更多美食,Blue Jazz Club,Blue Jazz Club,0,其他,0.0,0.0,0.0
+更多美食,El Gallego,El Gallego,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Eco-Vegetaria,Restaurante Eco-Vegetaria,0,其他,0.0,0.0,0.0
+更多美食,Bahia Mediterraneo,Bahia Mediterraneo,0,其他,0.0,0.0,0.0
+更多美食,Fonda de Soller,Fonda de Soller,0,其他,0.0,0.0,0.0
+更多美食,Tokio,Tokio,0,其他,0.0,0.0,0.0
+更多美食,Orient Express,Orient Express,0,其他,0.0,0.0,0.0
+更多美食,Casa De La Abuela,Casa De La Abuela,0,其他,0.0,0.0,0.0
+更多美食,Origenes,Origenes,0,其他,0.0,0.0,0.0
+更多美食,Meson Ca'n Paco,Meson Ca'n Paco,0,其他,0.0,0.0,0.0
+更多美食,Restaurant S'oratori,Restaurant S'oratori,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Tigy'S,Restaurante Tigy'S,0,其他,0.0,0.0,0.0
+更多美食,La Tribu,La Tribu,0,其他,0.0,0.0,0.0
+更多美食,Es Calo,Es Calo,0,其他,0.0,0.0,0.0
+更多美食,Es Foguero,Es Foguero,0,其他,0.0,0.0,0.0
+更多美食,Wok,Wok,0,其他,0.0,0.0,0.0
+更多美食,Ca,Ca,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Restaurante Marfil,Pizzeria Restaurante Marfil,0,其他,0.0,0.0,0.0
+更多美食,Leo's,Leo's,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Pirandello,Pizzeria Pirandello,0,其他,0.0,0.0,0.0
+更多美食,El Salmon,El Salmon,0,其他,0.0,0.0,0.0
+更多美食,Es Vergeret,Es Vergeret,0,其他,0.0,0.0,0.0
+更多美食,Waikiki Bar,Waikiki Bar,0,其他,0.0,0.0,0.0
+更多美食,The Port Pub,The Port Pub,0,其他,0.0,0.0,0.0
+更多美食,Frank,Frank,0,其他,0.0,0.0,0.0
+更多美食,Caminito Bar,Caminito Bar,0,其他,0.0,0.0,0.0
+更多美食,Can Jimmy,Can Jimmy,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Alhambra,Pizzeria Alhambra,0,其他,0.0,0.0,0.0
+更多美食,Bufette Can Pistoleta SL.,Bufette Can Pistoleta SL.,0,其他,0.0,0.0,0.0
+更多美食,Grand Cafe Leslie,Grand Cafe Leslie,0,其他,0.0,0.0,0.0
+更多美食,Fonoll Mari Restaurant,Fonoll Mari Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Marisqueria-Freiduria El Rocio,Marisqueria-Freiduria El Rocio,0,其他,0.0,0.0,0.0
+更多美食,Ristorante La Piazzetta SL.,Ristorante La Piazzetta SL.,0,其他,0.0,0.0,0.0
+更多美食,La Cabana,La Cabana,0,其他,0.0,0.0,0.0
+更多美食,Gaudi,Gaudi,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Cassandra,Restaurante Cassandra,0,其他,0.0,0.0,0.0
+更多美食,La Locanda Paraiso Da Massino,La Locanda Paraiso Da Massino,0,其他,0.0,0.0,0.0
+更多美食,Pasta Pasta,Pasta Pasta,0,其他,0.0,0.0,0.0
+更多美食,Tapas Bar Llagost,Tapas Bar Llagost,0,其他,0.0,0.0,0.0
+更多美食,Konig Garten,Konig Garten,0,其他,0.0,0.0,0.0
+更多美食,O' Sole Mio,O' Sole Mio,0,其他,0.0,0.0,0.0
+更多美食,Los Amigos,Los Amigos,0,其他,0.0,0.0,0.0
+更多美食,Ses Rotges,Ses Rotges,0,其他,0.0,0.0,0.0
+更多美食,Los Olivos,Los Olivos,0,其他,0.0,0.0,0.0
+更多美食,Pasta Pasta Cala Agulla,Pasta Pasta Cala Agulla,0,其他,0.0,0.0,0.0
+更多美食,Cas Xorc,Cas Xorc,0,其他,0.0,0.0,0.0
+更多美食,Orient,Orient,0,其他,0.0,0.0,0.0
+更多美食,Restaurante del Nautico,Restaurante del Nautico,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Sa Pedrissa,Restaurante Sa Pedrissa,0,其他,0.0,0.0,0.0
+更多美食,Sa Fonda,Sa Fonda,0,其他,0.0,0.0,0.0
+更多美食,El Guia,El Guia,0,其他,0.0,0.0,0.0
+更多美食,Sa Cova,Sa Cova,0,其他,0.0,0.0,0.0
+更多美食,Sa Lluna Dolca,Sa Lluna Dolca,0,其他,0.0,0.0,0.0
+更多美食,Bar Stop,Bar Stop,0,其他,0.0,0.0,0.0
+更多美食,Sa Frontera,Sa Frontera,0,其他,0.0,0.0,0.0
+更多美食,Finca Ca N,Finca Ca N,0,其他,0.0,0.0,0.0
+更多美食,Mirador Ses Barques,Mirador Ses Barques,0,其他,0.0,0.0,0.0
+更多美食,Nassau Beach,Nassau Beach,0,其他,0.0,0.0,0.0
+更多美食,El Maritimo,El Maritimo,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Illeta,Restaurante Illeta,0,其他,0.0,0.0,0.0
+更多美食,Bar Lubumba,Bar Lubumba,0,其他,0.0,0.0,0.0
+更多美食,Ca'n Jaume,Ca'n Jaume,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Canyamel,Restaurante Canyamel,0,其他,0.0,0.0,0.0
+更多美食,Bar Diva,Bar Diva,0,其他,0.0,0.0,0.0
+更多美食,Hollywood,Hollywood,0,其他,0.0,0.0,0.0
+更多美食,Flanigan,Flanigan,0,其他,0.0,0.0,0.0
+更多美食,Hotel Rural Es Turo,Hotel Rural Es Turo,0,其他,0.0,0.0,0.0
+更多美食,Club Natura,Club Natura,0,其他,0.0,0.0,0.0
+更多美食,Hoposa Costa d'Or Hotel Restaurant,Hoposa Costa d'Or Hotel Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Lo de Faby,Lo de Faby,0,其他,0.0,0.0,0.0
+更多美食,Tora,Tora,0,其他,0.0,0.0,0.0
+更多美食,Angel Bar,Angel Bar,0,其他,0.0,0.0,0.0
+更多美食,Los Monteros,Los Monteros,0,其他,0.0,0.0,0.0
+更多美食,C'an Moreno,C'an Moreno,0,其他,0.0,0.0,0.0
+更多美食,Cavall Bernat,Cavall Bernat,0,其他,0.0,0.0,0.0
+更多美食,Gin & Tonic Corner,Gin & Tonic Corner,0,其他,0.0,0.0,0.0
+更多美食,Bar Xorri,Bar Xorri,0,其他,0.0,0.0,0.0
+更多美食,Tristan Bistrot,Tristan Bistrot,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Malgrat,Restaurant Malgrat,0,其他,0.0,0.0,0.0
+更多美食,Ca Na To Ne Ta,Ca Na To Ne Ta,0,其他,0.0,0.0,0.0
+更多美食,Bodega Barahona,Bodega Barahona,0,其他,0.0,0.0,0.0
+更多美食,Marisquería Can Jordi,Marisquería Can Jordi,0,其他,0.0,0.0,0.0
+更多美食,El Bungalow,El Bungalow,0,其他,0.0,0.0,0.0
+更多美食,Tristán,Tristán,0,其他,0.0,0.0,0.0
+更多美食,Ca'n Gallet,Ca'n Gallet,0,其他,0.0,0.0,0.0
+更多美食,Scallops,Scallops,0,其他,0.0,0.0,0.0
+更多美食,Pizzería Ca'nt Pelut,Pizzería Ca'nt Pelut,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Bens D'Avall,Restaurante Bens D'Avall,0,其他,0.0,0.0,0.0
+更多美食,Capitan Cook,Capitan Cook,0,其他,0.0,0.0,0.0
+更多美食,Es Raco De S`escorxador,Es Raco De S`escorxador,0,其他,0.0,0.0,0.0
+更多美食,Cafeteria Jam Jam,Cafeteria Jam Jam,0,其他,0.0,0.0,0.0
+更多美食,Las Delicias de Luci,Las Delicias de Luci,0,其他,0.0,0.0,0.0
+更多美食,Son Ferriol,Son Ferriol,0,其他,0.0,0.0,0.0
+更多美食,"Aroma, Mallorca","Aroma, Mallorca",0,其他,0.0,0.0,0.0
+更多美食,Restaurant Es Reco,Restaurant Es Reco,0,其他,0.0,0.0,0.0
+更多美食,Olivera,Olivera,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Es Coll de Sa Bataia,Restaurant Es Coll de Sa Bataia,0,其他,0.0,0.0,0.0
+更多美食,Ambassador Restaurant,Ambassador Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Bar Casablanca,Bar Casablanca,0,其他,0.0,0.0,0.0
+更多美食,Cafeteria Marisa,Cafeteria Marisa,0,其他,0.0,0.0,0.0
+更多美食,Salon De Shora,Salon De Shora,0,其他,0.0,0.0,0.0
+更多美食,SAi Café,SAi Café,0,其他,0.0,0.0,0.0
+更多美食,Restaurante-Pizzería Celta,Restaurante-Pizzería Celta,0,其他,0.0,0.0,0.0
+更多美食,Es Boci,Es Boci,0,其他,0.0,0.0,0.0
+更多美食,Vora Mar Tapas and Fish,Vora Mar Tapas and Fish,0,其他,0.0,0.0,0.0
+更多美食,Princess Restaurante,Princess Restaurante,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Arrecife,Restaurant Arrecife,0,其他,0.0,0.0,0.0
+更多美食,Woodys Bar,Woodys Bar,0,其他,0.0,0.0,0.0
+更多美食,Pambolieria Son Catiu,Pambolieria Son Catiu,0,其他,0.0,0.0,0.0
+更多美食,Bodega Del Sol,Bodega Del Sol,0,其他,0.0,0.0,0.0
+更多美食,Cafeteria Santana,Cafeteria Santana,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Alcazaba,Restaurante Alcazaba,0,其他,0.0,0.0,0.0
+更多美食,Margie's Portals Nous,Margie's Portals Nous,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Voramar,Restaurante Voramar,0,其他,0.0,0.0,0.0
+更多美食,Cafe Nautic,Cafe Nautic,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Porto Real SL.,Restaurante Porto Real SL.,0,,0.0,0.0,0.0
+更多美食,Panoramica Playa,Panoramica Playa,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Antonio Martinez Cidon,Antonio Martinez Cidon,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Restaure Pescara,Restaure Pescara,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Restaurante Sancho Panza,Restaurante Sancho Panza,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Anemoi restaurant & lounge,Anemoi restaurant & lounge,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Arenal,Arenal,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,12 Apostel,12 Apostel,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,La Bella Italia - Mallorca - Arenal,La Bella Italia - Mallorca - Arenal,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Tango Bar,Tango Bar,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Restaurante Punxuat,Restaurante Punxuat,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Dolce Freddo,Dolce Freddo,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Mejillonera,Mejillonera,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Cala Cana,Cala Cana,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Pizzeria Space,Pizzeria Space,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,Ben Fet,Ben Fet,0,埃尔阿雷纳,0.0,0.0,0.0
+更多美食,La Trattoria del Puerto,La Trattoria del Puerto,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Can Picafort 2000 SA.,Can Picafort 2000 SA.,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Balneario III,Balneario III,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Xujie Zhou,Xujie Zhou,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Ada Maria Amengual Martinez,Ada Maria Amengual Martinez,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Restaurant Blue Maritim,Restaurant Blue Maritim,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,GREGAL,GREGAL,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Cas Capella,Cas Capella,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Can Llabres,Can Llabres,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Cafeteria Tolo,Cafeteria Tolo,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Pizzeria Amalfitana,Pizzeria Amalfitana,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Restaurant Bonaire,Restaurant Bonaire,0,阿尔库迪亚,0.0,0.0,0.0
+更多美食,Restaurante Viceroy Of India,Restaurante Viceroy Of India,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Churchill,Churchill,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Stadium,Stadium,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Tomeu,Tomeu,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Hong Pan,Hong Pan,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Pizzeria Simsalabim Palmanova SL.,Pizzeria Simsalabim Palmanova SL.,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Pacha Mallorca,Pacha Mallorca,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Ses Forquetes,Ses Forquetes,0,帕曼诺瓦,0.0,0.0,0.0
+更多美食,Bar Pizzeria Don Corleone,Bar Pizzeria Don Corleone,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Ona Snacks&Bar,Ona Snacks&Bar,0,波多黎各萨,0.0,0.0,0.0
+更多美食,Restaurante Can Tronca,Restaurante Can Tronca,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Can Sant Cafe,Can Sant Cafe,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Cases de Son Sant Marti,Cases de Son Sant Marti,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Can Giovanni,Can Giovanni,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Brasilia,Brasilia,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Chino Gran Mandarin,Chino Gran Mandarin,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Sa Ximada,Sa Ximada,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Vent-i-mar Body and Soul,Vent-i-mar Body and Soul,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Restaurant Dunes Platja,Restaurant Dunes Platja,0,普拉亚斯马洛卡,0.0,0.0,0.0
+更多美食,Bar S'Olivera,Bar S'Olivera,0,瑞格,0.0,0.0,0.0
+更多美食,La Bodega,La Bodega,0,瑞格,0.0,0.0,0.0
+更多美食,Read s Hotel Restaurant,Read s Hotel Restaurant,0,瑞格,0.0,0.0,0.0
+更多美食,Bacchus Restaurant,Bacchus Restaurant,0,瑞格,0.0,0.0,0.0
+更多美食,Restaurante Can Arabi SL.,Restaurante Can Arabi SL.,0,瑞格,0.0,0.0,0.0
+更多美食,Cafe Dolc 88,Cafe Dolc 88,0,瑞格,0.0,0.0,0.0
+更多美食,Stromboli,Stromboli,0,瑞格,0.0,0.0,0.0
+更多美食,Restaurante Chino C'an Zhang,Restaurante Chino C'an Zhang,0,瑞格,0.0,0.0,0.0
+更多美食,Celler Sa Travessa,Celler Sa Travessa,0,瑞格,0.0,0.0,0.0
+更多美食,Restaurante Dona Irene,Restaurante Dona Irene,0,瑞格,0.0,0.0,0.0
+更多美食,Cafe Mercantil,Cafe Mercantil,0,瑞格,0.0,0.0,0.0
+更多美食,Antic Forn de Sa plaCa,Antic Forn de Sa plaCa,0,瑞格,0.0,0.0,0.0
+更多美食,Can Dameto,Can Dameto,0,瑞格,0.0,0.0,0.0
+更多美食,Ca'n Calco (Petit Hotel),Ca'n Calco (Petit Hotel),0,瑞格,0.0,0.0,0.0
+更多美食,Marina Restaurante,Marina Restaurante,0,瑞格,0.0,0.0,0.0
+更多美食,Yijian Shi,Yijian Shi,0,其他,0.0,0.0,0.0
+更多美食,Hidropark,Hidropark,0,其他,0.0,0.0,0.0
+更多美食,Vinoteca Bar Las Estrellas,Vinoteca Bar Las Estrellas,0,其他,0.0,0.0,0.0
+更多美食,Sa Pamboleria,Sa Pamboleria,0,其他,0.0,0.0,0.0
+更多美食,Sa Savina,Sa Savina,0,其他,0.0,0.0,0.0
+更多美食,Pensio Restaurante La Marina,Pensio Restaurante La Marina,0,其他,0.0,0.0,0.0
+更多美食,Ran de Mar,Ran de Mar,0,其他,0.0,0.0,0.0
+更多美食,Mercat Marktwirtschaft,Mercat Marktwirtschaft,0,其他,0.0,0.0,0.0
+更多美食,Ran de Mar,Ran de Mar,0,其他,0.0,0.0,0.0
+更多美食,Ca'n Martina,Ca'n Martina,0,其他,0.0,0.0,0.0
+更多美食,Es Mollet,Es Mollet,0,其他,0.0,0.0,0.0
+更多美食,Celler C An Xine,Celler C An Xine,0,其他,0.0,0.0,0.0
+更多美食,La CaRaCoLa,La CaRaCoLa,0,其他,0.0,0.0,0.0
+更多美食,Ca,Ca,0,其他,0.0,0.0,0.0
+更多美食,Ca'n Pep,Ca'n Pep,0,其他,0.0,0.0,0.0
+更多美食,CaLa Vista,CaLa Vista,0,其他,0.0,0.0,0.0
+更多美食,Woody's Bar and Restaurant,Woody's Bar and Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Cibarcafe,Cibarcafe,0,其他,0.0,0.0,0.0
+更多美食,Cristal D,Cristal D,0,其他,0.0,0.0,0.0
+更多美食,Bar Lovento,Bar Lovento,0,其他,0.0,0.0,0.0
+更多美食,Peter Beeck,Peter Beeck,0,其他,0.0,0.0,0.0
+更多美食,Los Amigos,Los Amigos,0,其他,0.0,0.0,0.0
+更多美食,Els Morras,Els Morras,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Berlin,Restaurante Berlin,0,其他,0.0,0.0,0.0
+更多美食,Miao You He Zhang,Miao You He Zhang,0,其他,0.0,0.0,0.0
+更多美食,Bar Telefono,Bar Telefono,0,其他,0.0,0.0,0.0
+更多美食,Ruiz Van Buuren SL.,Ruiz Van Buuren SL.,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Es Pamboliet,Restaurante Es Pamboliet,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Rustic,Restaurant Rustic,0,其他,0.0,0.0,0.0
+更多美食,Cafe Can,Cafe Can,0,其他,0.0,0.0,0.0
+更多美食,Repos,Repos,0,其他,0.0,0.0,0.0
+更多美食,restaurant Ca'l Reiet,restaurant Ca'l Reiet,0,其他,0.0,0.0,0.0
+更多美食,Galdent,Galdent,0,其他,0.0,0.0,0.0
+更多美食,Playa El Mago,Playa El Mago,0,其他,0.0,0.0,0.0
+更多美食,Balmoral Bar,Balmoral Bar,0,其他,0.0,0.0,0.0
+更多美食,Casa Garcia,Casa Garcia,0,其他,0.0,0.0,0.0
+更多美食,Pizza Hut,Pizza Hut,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Ca,Restaurante Ca,0,其他,0.0,0.0,0.0
+更多美食,Li Ying Chen Cao,Li Ying Chen Cao,0,其他,0.0,0.0,0.0
+更多美食,Miguel Angel Fontana Pueyo,Miguel Angel Fontana Pueyo,0,其他,0.0,0.0,0.0
+更多美食,Eastenders,Eastenders,0,其他,0.0,0.0,0.0
+更多美食,Cafe Katzenberger,Cafe Katzenberger,0,其他,0.0,0.0,0.0
+更多美食,Sucoon Indian Restaurant,Sucoon Indian Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Tomas Garcia Lopez,Tomas Garcia Lopez,0,其他,0.0,0.0,0.0
+更多美食,Sopranos,Sopranos,0,其他,0.0,0.0,0.0
+更多美食,Hesperia Playas de Mallorca Restaurant,Hesperia Playas de Mallorca Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Gran Cafe Antica Roma,Gran Cafe Antica Roma,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Caesar's,Restaurante Caesar's,0,其他,0.0,0.0,0.0
+更多美食,The Slurpin' Toad,The Slurpin' Toad,0,其他,0.0,0.0,0.0
+更多美食,Lollo Rosso SL.,Lollo Rosso SL.,0,其他,0.0,0.0,0.0
+更多美食,La Parrilla,La Parrilla,0,其他,0.0,0.0,0.0
+更多美食,Virtual Beach Club,Virtual Beach Club,0,其他,0.0,0.0,0.0
+更多美食,Steakhouse La Pampa,Steakhouse La Pampa,0,其他,0.0,0.0,0.0
+更多美食,Flic Flac,Flic Flac,0,其他,0.0,0.0,0.0
+更多美食,Jens,Jens,0,其他,0.0,0.0,0.0
+更多美食,Es Romani,Es Romani,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Cap d'es Toi,Restaurante Cap d'es Toi,0,其他,0.0,0.0,0.0
+更多美食,El patio,El patio,0,其他,0.0,0.0,0.0
+更多美食,Club Zodiac,Club Zodiac,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Savantry,Restaurante Savantry,0,其他,0.0,0.0,0.0
+更多美食,Qcute,Qcute,0,其他,0.0,0.0,0.0
+更多美食,La Consigna,La Consigna,0,其他,0.0,0.0,0.0
+更多美食,Pavarotti,Pavarotti,0,其他,0.0,0.0,0.0
+更多美食,Ses Comes,Ses Comes,0,其他,0.0,0.0,0.0
+更多美食,Golf de Bendinat,Golf de Bendinat,0,其他,0.0,0.0,0.0
+更多美食,El Penon 1957,El Penon 1957,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Hollywood,Restaurante Hollywood,0,其他,0.0,0.0,0.0
+更多美食,Es Palau de Sarros,Es Palau de Sarros,0,其他,0.0,0.0,0.0
+更多美食,BOLABOLA,BOLABOLA,0,其他,0.0,0.0,0.0
+更多美食,Istanbul Kebab,Istanbul Kebab,0,其他,0.0,0.0,0.0
+更多美食,Don Caracol,Don Caracol,0,其他,0.0,0.0,0.0
+更多美食,Hanburgo,Hanburgo,0,其他,0.0,0.0,0.0
+更多美食,Catalina Oliver Ors,Catalina Oliver Ors,0,其他,0.0,0.0,0.0
+更多美食,L'Arruzz,L'Arruzz,0,其他,0.0,0.0,0.0
+更多美食,El Tostaillo Tapas Bar,El Tostaillo Tapas Bar,0,其他,0.0,0.0,0.0
+更多美食,Delirio,Delirio,0,其他,0.0,0.0,0.0
+更多美食,El Divino,El Divino,0,其他,0.0,0.0,0.0
+更多美食,Astro,Astro,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Costa,Restaurant Costa,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Na,Restaurant Na,0,其他,0.0,0.0,0.0
+更多美食,Comida Casera,Comida Casera,0,其他,0.0,0.0,0.0
+更多美食,Cafe Santa Fe,Cafe Santa Fe,0,其他,0.0,0.0,0.0
+更多美食,"Avui Tenim, Restaurant i Mes","Avui Tenim, Restaurant i Mes",0,其他,0.0,0.0,0.0
+更多美食,Nautic,Nautic,0,其他,0.0,0.0,0.0
+更多美食,La Cantina del CN,La Cantina del CN,0,其他,0.0,0.0,0.0
+更多美食,Pizza Industria II,Pizza Industria II,0,其他,0.0,0.0,0.0
+更多美食,Tuttis Frozen Yogurt,Tuttis Frozen Yogurt,0,其他,0.0,0.0,0.0
+更多美食,Santa Eulalia,Santa Eulalia,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Provenzal,Restaurant Provenzal,0,其他,0.0,0.0,0.0
+更多美食,Pope,Pope,0,其他,0.0,0.0,0.0
+更多美食,El Tunel,El Tunel,0,其他,0.0,0.0,0.0
+更多美食,Marlis,Marlis,0,其他,0.0,0.0,0.0
+更多美食,Cafeteria Placa D'en Coll,Cafeteria Placa D'en Coll,0,其他,0.0,0.0,0.0
+更多美食,Chopin,Chopin,0,其他,0.0,0.0,0.0
+更多美食,Kung Fu,Kung Fu,0,其他,0.0,0.0,0.0
+更多美食,El Prado Steakhouse and Wine Bar,El Prado Steakhouse and Wine Bar,0,其他,0.0,0.0,0.0
+更多美食,CANTA NAPOLI,CANTA NAPOLI,0,其他,0.0,0.0,0.0
+更多美食,Bar Zoe,Bar Zoe,0,其他,0.0,0.0,0.0
+更多美食,Bar D'es Mercat,Bar D'es Mercat,0,其他,0.0,0.0,0.0
+更多美食,Zenzero Pasta y Mozzarella,Zenzero Pasta y Mozzarella,0,其他,0.0,0.0,0.0
+更多美食,Sa Fusio,Sa Fusio,0,其他,0.0,0.0,0.0
+更多美食,Mcdonald's,Mcdonald's,0,其他,0.0,0.0,0.0
+更多美食,Bar Cristian,Bar Cristian,0,其他,0.0,0.0,0.0
+更多美食,Pato Asado de Pekin,Pato Asado de Pekin,0,其他,0.0,0.0,0.0
+更多美食,Samurai Mallorca SL.,Samurai Mallorca SL.,0,其他,0.0,0.0,0.0
+更多美食,Son Bascos,Son Bascos,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Japonés He,Restaurante Japonés He,0,其他,0.0,0.0,0.0
+更多美食,Casa Eduardo,Casa Eduardo,0,其他,0.0,0.0,0.0
+更多美食,A Todo Vapor,A Todo Vapor,0,其他,0.0,0.0,0.0
+更多美食,Chantilly,Chantilly,0,其他,0.0,0.0,0.0
+更多美食,Paraiso,Paraiso,0,其他,0.0,0.0,0.0
+更多美食,Casa de Comestibles : Restaurante,Casa de Comestibles : Restaurante,0,其他,0.0,0.0,0.0
+更多美食,Es Celler de Manacor,Es Celler de Manacor,0,其他,0.0,0.0,0.0
+更多美食,Ichiban,Ichiban,0,其他,0.0,0.0,0.0
+更多美食,Txakoli,Txakoli,0,其他,0.0,0.0,0.0
+更多美食,Es Balco,Es Balco,0,其他,0.0,0.0,0.0
+更多美食,Jaleo,Jaleo,0,其他,0.0,0.0,0.0
+更多美食,Sur,Sur,0,其他,0.0,0.0,0.0
+更多美食,Moli D,Moli D,0,其他,0.0,0.0,0.0
+更多美食,La Fontana,La Fontana,0,其他,0.0,0.0,0.0
+更多美食,Refectori,Refectori,0,其他,0.0,0.0,0.0
+更多美食,Ristorante 13 y 1/2,Ristorante 13 y 1/2,0,其他,0.0,0.0,0.0
+更多美食,Los Rafaeles,Los Rafaeles,0,其他,0.0,0.0,0.0
+更多美食,Lizarran,Lizarran,0,其他,0.0,0.0,0.0
+更多美食,La Fontana,La Fontana,0,其他,0.0,0.0,0.0
+更多美食,La Suerte,La Suerte,0,其他,0.0,0.0,0.0
+更多美食,Santa Catalina Petit Restaunrant,Santa Catalina Petit Restaunrant,0,其他,0.0,0.0,0.0
+更多美食,Un Octavo,Un Octavo,0,其他,0.0,0.0,0.0
+更多美食,Trebol,Trebol,0,其他,0.0,0.0,0.0
+更多美食,El Diablito,El Diablito,0,其他,0.0,0.0,0.0

@@ -1,0 +1,37 @@
+意大利菜,Hot Pot,Hot Pot,0,蒙特戈湾,7.5,7.5,7.1
+快餐简餐,KFC,KFC,0,,7.1,7.0,7.0
+比萨,Chances Pizza,Chances Pizza,0,,7.2,7.2,7.2
+比萨,Jack Sprat Seafood and Pizza,Jack Sprat Seafood and Pizza,0,,7.2,7.2,7.2
+比萨,Lee's Pizza,Lee's Pizza,0,,6.9,7.0,7.0
+咖啡厅,M.G.'S Cafe Lounge,M.G.'S Cafe Lounge,0,,6.9,6.9,6.9
+咖啡厅,Yosch Cafe,Yosch Cafe,0,,7.1,7.1,7.0
+咖啡厅,Cafe Express,Cafe Express,0,,7.0,7.1,7.0
+咖啡厅,South Beach Cafe,South Beach Cafe,0,,7.0,7.0,7.0
+咖啡厅,Carlos' Cafe,Carlos' Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe le Matin,Cafe le Matin,0,,7.1,7.1,7.1
+咖啡厅,Cheap Thrill Corner,Cheap Thrill Corner,0,,7.6,7.6,7.2
+咖啡厅,Cool Spot,Cool Spot,0,,7.1,7.1,7.1
+咖啡厅,Red Bones Blues Cafe,Red Bones Blues Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Goa,Cafe Goa,0,,7.2,7.2,7.2
+咖啡厅,Susie's Cafe,Susie's Cafe,0,,6.9,6.9,6.9
+咖啡厅,Legend Cafe,Legend Cafe,0,,6.7,6.7,6.9
+咖啡厅,EITS Cafe,EITS Cafe,0,,7.2,7.2,7.7
+咖啡厅,Cru,Cru,0,,7.1,7.1,7.1
+咖啡厅,Rick's Cafe,Rick's Cafe,0,,6.8,6.8,7.2
+咖啡厅,Spanish Court Cafe,Spanish Court Cafe,0,,7.2,7.2,7.2
+咖啡厅,Don Fresh Lobsters,Don Fresh Lobsters,0,,7.1,7.1,7.0
+面包甜点,Sweet Daddy's,Sweet Daddy's,0,,6.9,6.9,6.9
+面包甜点,The Honey Pot,The Honey Pot,0,,6.9,6.9,6.9
+面包甜点,Island Twist on the Beach,Island Twist on the Beach,0,,7.1,7.1,7.1
+面包甜点,Coronation Bakery,Coronation Bakery,0,,7.3,7.3,6.8
+酒吧,Collette's Bar,Collette's Bar,0,,7.3,7.3,7.3
+酒吧,The Lobster House At Sunrise Club,The Lobster House At Sunrise Club,0,,7.2,7.2,7.2
+酒吧,Country and Western Roadside Pub,Country and Western Roadside Pub,0,,7.1,7.1,7.1
+酒吧,Daro's One Love Restaurant Bar Negril,Daro's One Love Restaurant Bar Negril,0,,7.0,7.1,7.1
+酒吧,Flavours Beach Bar and Restaurant,Flavours Beach Bar and Restaurant,0,,7.2,7.2,7.2
+酒吧,Cuddyz Sports Bar,Cuddyz Sports Bar,0,,7.1,7.1,7.1
+酒吧,Natural Mystic Bar,Natural Mystic Bar,0,,7.0,7.1,7.1
+酒吧,Spice Kitchen and Bar,Spice Kitchen and Bar,0,,7.0,7.0,7.0
+酒吧,June Plum Restaurant and Bar,June Plum Restaurant and Bar,0,,7.2,7.2,7.2
+酒吧,Canoe Bar,Canoe Bar,0,,7.2,7.2,7.2
+酒吧,Scallywags Bar n Grill,Scallywags Bar n Grill,0,,7.0,7.0,7.0

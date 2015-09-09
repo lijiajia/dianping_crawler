@@ -1,0 +1,14 @@
+快餐简餐,KFC,KFC,0,,7.1,7.0,6.7
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,MacDonalds,MacDonalds,0,,6.6,7.1,6.8
+快餐简餐,KFC,KFC,0,,7.0,7.0,6.9
+比萨,Pizza Queen,Pizza Queen,0,,6.9,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+咖啡厅,Brazilian Coffee,Brazilian Coffee,0,,7.6,7.5,7.6
+咖啡厅,Cozy Cafe,Cozy Cafe,0,,6.9,6.9,6.9
+咖啡厅,Shakespeare`s Cafe,Shakespeare`s Cafe,0,,6.9,6.9,6.9
+咖啡厅,City Cafe,City Cafe,0,,6.9,7.0,6.9
+咖啡厅,Grand Cafe',Grand Cafe',0,,7.0,7.0,7.0
+咖啡厅,Roastery coffee,Roastery coffee,0,,7.2,7.2,7.2
+咖啡厅,Paradise Inn Roof Cafe Windsor Palace,Paradise Inn Roof Cafe Windsor Palace,0,,6.9,6.9,6.9
+酒吧,Mix Juice,Mix Juice,0,,6.9,6.9,6.9

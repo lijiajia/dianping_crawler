@@ -1,0 +1,315 @@
+咖啡厅,Infuz,Infuz,0,第戎其他,0.0,0.0,0.0
+咖啡厅,Coffee and Muffin,Coffee and Muffin,0,第戎其他,0.0,0.0,0.0
+咖啡厅,Comptoir des colonies,Comptoir des colonies,0,第戎其他,0.0,0.0,0.0
+咖啡厅,Cafe de L'Industrie,Cafe de L'Industrie,0,第戎其他,0.0,0.0,0.0
+法国菜,Gallery 412,Gallery 412,0,第戎其他,0.0,0.0,0.0
+法国菜,Hotel Kyriad - Restaurant Chez Marco,Hotel Kyriad - Restaurant Chez Marco,0,第戎其他,0.0,0.0,0.0
+法国菜,Les tables du boeuf blanc,Les tables du boeuf blanc,0,第戎其他,0.0,0.0,0.0
+法国菜,L'age de Raisin,L'age de Raisin,0,第戎其他,0.0,0.0,0.0
+法国菜,Au pourquoi pas,Au pourquoi pas,0,第戎其他,0.0,0.0,0.0
+法国菜,La Fine Heure,La Fine Heure,0,第戎其他,0.0,0.0,0.0
+法国菜,Chez l'Bougnat du fond de la cour,Chez l'Bougnat du fond de la cour,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Declic,Le Declic,0,第戎其他,0.0,0.0,0.0
+法国菜,Dr Wine,Dr Wine,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Cordina,Le Cordina,0,第戎其他,0.0,0.0,0.0
+法国菜,Les Trois Ducs,Les Trois Ducs,0,第戎其他,0.0,0.0,0.0
+法国菜,Chez Noue,Chez Noue,0,第戎其他,0.0,0.0,0.0
+法国菜,La Maison des Cariatides,La Maison des Cariatides,0,第戎其他,0.0,0.0,0.0
+法国菜,Les Docks de Bourgogne,Les Docks de Bourgogne,0,第戎其他,0.0,0.0,0.0
+法国菜,La Chouette,La Chouette,0,第戎其他,0.0,0.0,0.0
+法国菜,La Petite Reine,La Petite Reine,0,第戎其他,0.0,0.0,0.0
+法国菜,Chez Leon,Chez Leon,0,第戎其他,0.0,0.0,0.0
+法国菜,La Place,La Place,0,第戎其他,0.0,0.0,0.0
+法国菜,Brasserie Amiral Roussin,Brasserie Amiral Roussin,0,第戎其他,0.0,0.0,0.0
+法国菜,le bouchon du palais,le bouchon du palais,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Grand Cafe,Le Grand Cafe,0,第戎其他,0.0,0.0,0.0
+法国菜,Victor et Gustave,Victor et Gustave,0,第戎其他,0.0,0.0,0.0
+法国菜,Les Congrés,Les Congrés,0,第戎其他,0.0,0.0,0.0
+法国菜,Carte Blanche,Carte Blanche,0,第戎其他,0.0,0.0,0.0
+法国菜,La Dame d'Aquitaine,La Dame d'Aquitaine,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Bistrot des Halles,Le Bistrot des Halles,0,第戎其他,0.0,0.0,0.0
+法国菜,Chez Copains,Chez Copains,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Pre aux Clercs,Le Pre aux Clercs,0,第戎其他,0.0,0.0,0.0
+法国菜,La Cloche,La Cloche,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Château Bourgogne,Le Château Bourgogne,0,第戎其他,0.0,0.0,0.0
+法国菜,Les Négociants,Les Négociants,0,第戎其他,0.0,0.0,0.0
+法国菜,Le petit roi de la lune,Le petit roi de la lune,0,第戎其他,0.0,0.0,0.0
+法国菜,Bistrot de la Republique,Bistrot de la Republique,0,第戎其他,0.0,0.0,0.0
+法国菜,Au Moulin à Vent,Au Moulin à Vent,0,第戎其他,0.0,0.0,0.0
+法国菜,La Grande Taverne,La Grande Taverne,0,第戎其他,0.0,0.0,0.0
+法国菜,Primavera,Primavera,0,第戎其他,0.0,0.0,0.0
+法国菜,Hostellerie des Marronniers,Hostellerie des Marronniers,0,第戎其他,0.0,0.0,0.0
+法国菜,Auberge de l'Aiguillon,Auberge de l'Aiguillon,0,第戎其他,0.0,0.0,0.0
+法国菜,LES REMPARTS,LES REMPARTS,0,第戎其他,0.0,0.0,0.0
+法国菜,La Flambee en Ville,La Flambee en Ville,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Piano Qui Fume,Le Piano Qui Fume,0,第戎其他,0.0,0.0,0.0
+法国菜,Le P'tit Rétro,Le P'tit Rétro,0,第戎其他,0.0,0.0,0.0
+法国菜,Carpe Diem,Carpe Diem,0,第戎其他,0.0,0.0,0.0
+法国菜,Alchimia Café & Galerie,Alchimia Café & Galerie,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Florentin,Le Florentin,0,第戎其他,0.0,0.0,0.0
+法国菜,Les Tramways,Les Tramways,0,第戎其他,0.0,0.0,0.0
+法国菜,L'Antre II Mondes,L'Antre II Mondes,0,第戎其他,0.0,0.0,0.0
+法国菜,Les gourmands disent,Les gourmands disent,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Concept,Le Concept,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Piano De Gaia,Le Piano De Gaia,0,第戎其他,0.0,0.0,0.0
+法国菜,Chapeau Rouge Restaurant William Frachot,Chapeau Rouge Restaurant William Frachot,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Germinal,Le Germinal,0,第戎其他,0.0,0.0,0.0
+法国菜,O'Bareuzai,O'Bareuzai,0,第戎其他,0.0,0.0,0.0
+法国菜,Hotel du Nord,Hotel du Nord,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Mirande,Le Mirande,0,第戎其他,0.0,0.0,0.0
+法国菜,La Taverne Berbisey,La Taverne Berbisey,0,第戎其他,0.0,0.0,0.0
+法国菜,Elle et Lui,Elle et Lui,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Bistrot de L'Amiral Restaurant,Le Bistrot de L'Amiral Restaurant,0,第戎其他,0.0,0.0,0.0
+法国菜,Rich' Bar,Rich' Bar,0,第戎其他,0.0,0.0,0.0
+法国菜,bistrot de l'hotel de ville dijon,bistrot de l'hotel de ville dijon,0,第戎其他,0.0,0.0,0.0
+法国菜,Les Caves a Jules,Les Caves a Jules,0,第戎其他,0.0,0.0,0.0
+法国菜,Taverne Des Halles,Taverne Des Halles,0,第戎其他,0.0,0.0,0.0
+法国菜,Dents de Loup,Dents de Loup,0,第戎其他,0.0,0.0,0.0
+法国菜,L'Escargot,L'Escargot,0,第戎其他,0.0,0.0,0.0
+法国菜,Les enfants terribles,Les enfants terribles,0,第戎其他,0.0,0.0,0.0
+法国菜,La Bourgogne,La Bourgogne,0,第戎其他,0.0,0.0,0.0
+法国菜,Bim,Bim,0,第戎其他,0.0,0.0,0.0
+法国菜,Cabaret Odysseo,Cabaret Odysseo,0,第戎其他,0.0,0.0,0.0
+法国菜,Les Bistrottines,Les Bistrottines,0,第戎其他,0.0,0.0,0.0
+法国菜,Restaurant Le Coin Repas,Restaurant Le Coin Repas,0,第戎其他,0.0,0.0,0.0
+法国菜,Le petit gascon,Le petit gascon,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Bory Creperie,Le Bory Creperie,0,第戎其他,0.0,0.0,0.0
+法国菜,Cafe Gourmand,Cafe Gourmand,0,第戎其他,0.0,0.0,0.0
+法国菜,La Comedie,La Comedie,0,第戎其他,0.0,0.0,0.0
+法国菜,Brasserie de l'Hotel de Ville,Brasserie de l'Hotel de Ville,0,第戎其他,0.0,0.0,0.0
+法国菜,L'Edito,L'Edito,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Triskell,Le Triskell,0,第戎其他,0.0,0.0,0.0
+法国菜,Cafeteria Flunch,Cafeteria Flunch,0,第戎其他,0.0,0.0,0.0
+法国菜,L'Imprimerie,L'Imprimerie,0,第戎其他,0.0,0.0,0.0
+法国菜,cote terrasse,cote terrasse,0,第戎其他,0.0,0.0,0.0
+法国菜,Les Deux Fontaines,Les Deux Fontaines,0,第戎其他,0.0,0.0,0.0
+法国菜,Pizzeria Di Léo,Pizzeria Di Léo,0,第戎其他,0.0,0.0,0.0
+法国菜,Au Bois Tordu,Au Bois Tordu,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Flagrant Delice,Le Flagrant Delice,0,第戎其他,0.0,0.0,0.0
+法国菜,Au Boeuf Carottes,Au Boeuf Carottes,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Petit Vatel,Le Petit Vatel,0,第戎其他,0.0,0.0,0.0
+法国菜,Verona,Verona,0,第戎其他,0.0,0.0,0.0
+法国菜,Brasserie la Lib,Brasserie la Lib,0,第戎其他,0.0,0.0,0.0
+法国菜,Caffe Cosi,Caffe Cosi,0,第戎其他,0.0,0.0,0.0
+法国菜,Le Jason,Le Jason,0,第戎其他,0.0,0.0,0.0
+酒吧,La part des Anges,La part des Anges,0,第戎其他,0.0,0.0,0.0
+酒吧,Le Beverly Pub,Le Beverly Pub,0,第戎其他,0.0,0.0,0.0
+酒吧,Les douanes,Les douanes,0,第戎其他,0.0,0.0,0.0
+酒吧,O gre du Vin,O gre du Vin,0,第戎其他,0.0,0.0,0.0
+酒吧,Les Berthom,Les Berthom,0,第戎其他,0.0,0.0,0.0
+酒吧,La cave se rebiffe,La cave se rebiffe,0,第戎其他,0.0,0.0,0.0
+酒吧,Bistrot le Quentin,Bistrot le Quentin,0,第戎其他,0.0,0.0,0.0
+酒吧,Caveau de la Chouette,Caveau de la Chouette,0,第戎其他,0.0,0.0,0.0
+酒吧,Restaurant Bodega Del Paso Dijon,Restaurant Bodega Del Paso Dijon,0,第戎其他,0.0,0.0,0.0
+酒吧,Pub Mac Callaghan,Pub Mac Callaghan,0,第戎其他,0.0,0.0,0.0
+酒吧,Les Grands Ducs,Les Grands Ducs,0,第戎其他,0.0,0.0,0.0
+酒吧,Le Cercle Jamaique,Le Cercle Jamaique,0,第戎其他,0.0,0.0,0.0
+酒吧,A l'assiette,A l'assiette,0,第戎其他,0.0,0.0,0.0
+意大利菜,Casa di Lola,Casa di Lola,0,第戎其他,0.0,0.0,0.0
+意大利菜,Little Italy,Little Italy,0,第戎其他,0.0,0.0,0.0
+意大利菜,In Teglia,In Teglia,0,第戎其他,0.0,0.0,0.0
+意大利菜,little Italie,little Italie,0,第戎其他,0.0,0.0,0.0
+意大利菜,Arp'Caffe,Arp'Caffe,0,第戎其他,0.0,0.0,0.0
+意大利菜,Marco polo& chalet,Marco polo& chalet,0,第戎其他,0.0,0.0,0.0
+意大利菜,Zena,Zena,0,第戎其他,0.0,0.0,0.0
+意大利菜,Pizza Passion,Pizza Passion,0,第戎其他,0.0,0.0,0.0
+意大利菜,Gina,Gina,0,第戎其他,0.0,0.0,0.0
+意大利菜,Version Latine,Version Latine,0,第戎其他,0.0,0.0,0.0
+意大利菜,LITTLE ITALY de Toison d'Or,LITTLE ITALY de Toison d'Or,0,第戎其他,0.0,0.0,0.0
+意大利菜,Pizza del Arte,Pizza del Arte,0,第戎其他,0.0,0.0,0.0
+意大利菜,La Scala,La Scala,0,第戎其他,0.0,0.0,0.0
+意大利菜,Le Duplex,Le Duplex,0,第戎其他,0.0,0.0,0.0
+意大利菜,La PIZZ ZOLA,La PIZZ ZOLA,0,第戎其他,0.0,0.0,0.0
+意大利菜,Restaurant Simpatico,Restaurant Simpatico,0,第戎其他,0.0,0.0,0.0
+其他西餐,La Cabane a Saumon,La Cabane a Saumon,0,第戎其他,0.0,0.0,0.0
+其他西餐,L'Assommoir Tome II,L'Assommoir Tome II,0,第戎其他,0.0,0.0,0.0
+其他西餐,Loiseau des Ducs,Loiseau des Ducs,0,第戎其他,0.0,0.0,0.0
+其他西餐,La Bon'heure,La Bon'heure,0,第戎其他,0.0,0.0,0.0
+其他西餐,Chez Ali,Chez Ali,0,第戎其他,0.0,0.0,0.0
+其他西餐,Tout a la Plancha,Tout a la Plancha,0,第戎其他,0.0,0.0,0.0
+其他西餐,Chez Bruno,Chez Bruno,0,第戎其他,0.0,0.0,0.0
+其他西餐,La Cuisine de Madeleine,La Cuisine de Madeleine,0,第戎其他,0.0,0.0,0.0
+其他西餐,French Burger,French Burger,0,第戎其他,0.0,0.0,0.0
+其他西餐,Le Marrakech,Le Marrakech,0,第戎其他,0.0,0.0,0.0
+其他西餐,Les Moulins Bleus,Les Moulins Bleus,0,第戎其他,0.0,0.0,0.0
+其他西餐,Le Plat C'bo,Le Plat C'bo,0,第戎其他,0.0,0.0,0.0
+其他西餐,La Braserade,La Braserade,0,第戎其他,0.0,0.0,0.0
+其他西餐,Al Fassia,Al Fassia,0,第戎其他,0.0,0.0,0.0
+其他西餐,Le Grain De Sel,Le Grain De Sel,0,第戎其他,0.0,0.0,0.0
+其他西餐,La Salsa Pelpa,La Salsa Pelpa,0,第戎其他,0.0,0.0,0.0
+其他西餐,Restaurant du Parc de la Colombiere,Restaurant du Parc de la Colombiere,0,第戎其他,0.0,0.0,0.0
+其他西餐,Latin'os restaurant,Latin'os restaurant,0,第戎其他,0.0,0.0,0.0
+其他西餐,Le palmier,Le palmier,0,第戎其他,0.0,0.0,0.0
+中餐,潮州城大酒楼,潮州城大酒楼,0,第戎其他,6.7,6.7,6.7
+中餐,华星酒家,华星酒家,0,第戎其他,6.9,6.9,6.9
+中餐,La Causerie des Mondes,La Causerie des Mondes,0,第戎其他,0.0,0.0,0.0
+中餐,XU -YI,XU -YI,0,第戎其他,0.0,0.0,0.0
+中餐,Le Panda de Chine,Le Panda de Chine,0,第戎其他,0.0,0.0,0.0
+中餐,Le Canard Laque,Le Canard Laque,0,第戎其他,0.0,0.0,0.0
+中餐,La Paillote,La Paillote,0,第戎其他,0.0,0.0,0.0
+日韩料理,sushi wabi,sushi wabi,0,第戎其他,0.0,0.0,0.0
+日韩料理,Restaurant Aki,Restaurant Aki,0,第戎其他,0.0,0.0,0.0
+日韩料理,Bento,Bento,0,第戎其他,0.0,0.0,0.0
+日韩料理,Sushi King,Sushi King,0,第戎其他,0.0,0.0,0.0
+日韩料理,Sushi Bar,Sushi Bar,0,第戎其他,0.0,0.0,0.0
+日韩料理,Sakura Sushi,Sakura Sushi,0,第戎其他,0.0,0.0,0.0
+快餐简餐,Bagel Tol,Bagel Tol,0,第戎其他,0.0,0.0,0.0
+快餐简餐,Saveur Concept Dijon,Saveur Concept Dijon,0,第戎其他,0.0,0.0,0.0
+快餐简餐,Harold's Bagels,Harold's Bagels,0,第戎其他,0.0,0.0,0.0
+快餐简餐,Ritchie's Diner,Ritchie's Diner,0,第戎其他,0.0,0.0,0.0
+快餐简餐,Le Bronx,Le Bronx,0,第戎其他,0.0,0.0,0.0
+快餐简餐,Les Friands Disent,Les Friands Disent,0,第戎其他,0.0,0.0,0.0
+快餐简餐,bagel Zee,bagel Zee,0,第戎其他,0.0,0.0,0.0
+快餐简餐,Best Bagels,Best Bagels,0,第戎其他,0.0,0.0,0.0
+快餐简餐,Tangoloco,Tangoloco,0,第戎其他,0.0,0.0,0.0
+快餐简餐,Grill & Cow,Grill & Cow,0,第戎其他,0.0,0.0,0.0
+快餐简餐,American Way,American Way,0,第戎其他,0.0,0.0,0.0
+快餐简餐,Bella Lena,Bella Lena,0,第戎其他,0.0,0.0,0.0
+更多亚洲菜,Eden Kebab,Eden Kebab,0,第戎其他,0.0,0.0,0.0
+更多亚洲菜,Mairig Kebab Theatre,Mairig Kebab Theatre,0,第戎其他,0.0,0.0,0.0
+更多亚洲菜,Le Village Mandarin,Le Village Mandarin,0,第戎其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant THAI&dijon,Restaurant THAI&dijon,0,第戎其他,0.0,0.0,0.0
+更多亚洲菜,Mon Sushi,Mon Sushi,0,第戎其他,0.0,0.0,0.0
+更多亚洲菜,Wok N Gril,Wok N Gril,0,第戎其他,0.0,0.0,0.0
+更多亚洲菜,Chez Tran,Chez Tran,0,第戎其他,0.0,0.0,0.0
+更多亚洲菜,Palais Nippon,Palais Nippon,0,第戎其他,0.0,0.0,0.0
+更多亚洲菜,Yamii,Yamii,0,第戎其他,0.0,0.0,0.0
+更多亚洲菜,AKASH,AKASH,0,第戎其他,0.0,0.0,0.0
+更多亚洲菜,Tiger Wok,Tiger Wok,0,第戎其他,0.0,0.0,0.0
+海鲜,Le Bout d'la Rue,Le Bout d'la Rue,0,第戎其他,0.0,0.0,0.0
+海鲜,Les Moules Zola,Les Moules Zola,0,第戎其他,0.0,0.0,0.0
+海鲜,IKEA ResTaurAnt Dijon,IKEA ResTaurAnt Dijon,0,第戎其他,0.0,0.0,0.0
+烧烤,Courtepaille,Courtepaille,0,第戎其他,0.0,0.0,0.0
+比萨,Pizza Paolo Toison d'Or,Pizza Paolo Toison d'Or,0,第戎其他,0.0,0.0,0.0
+比萨,Loft 34,Loft 34,0,第戎其他,0.0,0.0,0.0
+比萨,La villa,La villa,0,第戎其他,0.0,0.0,0.0
+面包甜点,"Aux Delices de la Chouette, Dijon","Aux Delices de la Chouette, Dijon",0,第戎其他,0.0,0.0,0.0
+面包甜点,Fabrice Gillotte Createur Chocolatier,Fabrice Gillotte Createur Chocolatier,0,第戎其他,0.0,0.0,0.0
+面包甜点,La Casa des Crepes,La Casa des Crepes,0,第戎其他,0.0,0.0,0.0
+面包甜点,Creperie Au domino,Creperie Au domino,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Carre Rouge,Le Carre Rouge,0,第戎其他,0.0,0.0,0.0
+其他美食,McDonald's Dijon Parc Valmy,McDonald's Dijon Parc Valmy,0,第戎其他,0.0,0.0,0.0
+其他美食,Dav'n'Co,Dav'n'Co,0,第戎其他,0.0,0.0,0.0
+其他美食,Coum Chez Nous,Coum Chez Nous,0,第戎其他,0.0,0.0,0.0
+其他美食,Stephane Derbord,Stephane Derbord,0,第戎其他,0.0,0.0,0.0
+其他美食,Bol et Tasse,Bol et Tasse,0,第戎其他,0.0,0.0,0.0
+其他美食,DZ'Envies,DZ'Envies,0,第戎其他,0.0,0.0,0.0
+其他美食,Brasserie La Concorde,Brasserie La Concorde,0,第戎其他,0.0,0.0,0.0
+其他美食,Restaurant Le Central Grill,Restaurant Le Central Grill,0,第戎其他,0.0,0.0,0.0
+其他美食,BamJam Café,BamJam Café,0,第戎其他,0.0,0.0,0.0
+其他美食,La Chaumine,La Chaumine,0,第戎其他,0.0,0.0,0.0
+其他美食,espresso-t,espresso-t,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Bistrot de Mary,Le Bistrot de Mary,0,第戎其他,0.0,0.0,0.0
+其他美食,au buffon chez Eddy,au buffon chez Eddy,0,第戎其他,0.0,0.0,0.0
+其他美食,Ma Bourgogne,Ma Bourgogne,0,第戎其他,0.0,0.0,0.0
+其他美食,Pepe Joseph,Pepe Joseph,0,第戎其他,0.0,0.0,0.0
+其他美食,Chaba Thai Restaurant,Chaba Thai Restaurant,0,第戎其他,0.0,0.0,0.0
+其他美食,PORTE GUILLAUME,PORTE GUILLAUME,0,,0.0,0.0,0.0
+其他美食,Les Jardins de la Cloche,Les Jardins de la Cloche,0,第戎其他,0.0,0.0,0.0
+其他美食,Marcelin Potiron,Marcelin Potiron,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Mediterraneen,Le Mediterraneen,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Sauvage,Le Sauvage,0,第戎其他,0.0,0.0,0.0
+其他美食,HOLIDAY INN CENTRE TOISON D'OR,HOLIDAY INN CENTRE TOISON D'OR,0,,0.0,0.0,0.0
+其他美食,Le Chabrot,Le Chabrot,0,第戎其他,0.0,0.0,0.0
+其他美食,New colonial,New colonial,0,第戎其他,0.0,0.0,0.0
+其他美食,Chez Septime,Chez Septime,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Petit Bouchon,Le Petit Bouchon,0,第戎其他,0.0,0.0,0.0
+其他美食,La Brioche Doree,La Brioche Doree,0,第戎其他,0.0,0.0,0.0
+其他美食,Central Sushi,Central Sushi,0,第戎其他,0.0,0.0,0.0
+其他美食,Les Oenophiles,Les Oenophiles,0,第戎其他,0.0,0.0,0.0
+其他美食,Cool Plus,Cool Plus,0,第戎其他,0.0,0.0,0.0
+其他美食,La Tartiflette,La Tartiflette,0,第戎其他,0.0,0.0,0.0
+其他美食,Gril'Laure,Gril'Laure,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Palazzio,Le Palazzio,0,第戎其他,0.0,0.0,0.0
+其他美食,Mairig Kebab Gare,Mairig Kebab Gare,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Theatre des Sens,Le Theatre des Sens,0,第戎其他,0.0,0.0,0.0
+其他美食,Restaurant Masami,Restaurant Masami,0,第戎其他,0.0,0.0,0.0
+其他美食,Akdeniz Restaurant,Akdeniz Restaurant,0,第戎其他,0.0,0.0,0.0
+其他美食,Olio E Farina,Olio E Farina,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Rousseau,Le Rousseau,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Bora,Le Bora,0,第戎其他,0.0,0.0,0.0
+其他美食,Chez Tran,Chez Tran,0,第戎其他,0.0,0.0,0.0
+其他美食,La Rotisserie,La Rotisserie,0,第戎其他,0.0,0.0,0.0
+其他美食,LE PLUS,LE PLUS,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Bol d'Or - Dijon,Le Bol d'Or - Dijon,0,第戎其他,0.0,0.0,0.0
+其他美食,L'Autre Entree,L'Autre Entree,0,第戎其他,0.0,0.0,0.0
+其他美食,La Maison Milliere,La Maison Milliere,0,第戎其他,0.0,0.0,0.0
+其他美食,La Mere Folle,La Mere Folle,0,第戎其他,0.0,0.0,0.0
+其他美食,Restaurant Campanile Centre,Restaurant Campanile Centre,0,第戎其他,0.0,0.0,0.0
+其他美食,Villa Chen,Villa Chen,0,第戎其他,0.0,0.0,0.0
+其他美食,Les P'tites Bouchées,Les P'tites Bouchées,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Somatino,Le Somatino,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Pharaon,Le Pharaon,0,第戎其他,0.0,0.0,0.0
+其他美食,La Guinguette,La Guinguette,0,第戎其他,0.0,0.0,0.0
+其他美食,La Fleur de Sel,La Fleur de Sel,0,第戎其他,0.0,0.0,0.0
+其他美食,Treize Lucioles,Treize Lucioles,0,第戎其他,0.0,0.0,0.0
+其他美食,La Coulee Verte Chez Matheo,La Coulee Verte Chez Matheo,0,第戎其他,0.0,0.0,0.0
+其他美食,Bollywood Lounge,Bollywood Lounge,0,第戎其他,0.0,0.0,0.0
+其他美食,Sushi d'or,Sushi d'or,0,第戎其他,0.0,0.0,0.0
+其他美食,Chez Grace,Chez Grace,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Carillon,Le Carillon,0,第戎其他,0.0,0.0,0.0
+其他美食,La Fringale,La Fringale,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Mayence,Le Mayence,0,第戎其他,0.0,0.0,0.0
+其他美食,La Licorne,La Licorne,0,第戎其他,0.0,0.0,0.0
+其他美食,Osaka,Osaka,0,第戎其他,0.0,0.0,0.0
+其他美食,My Wok,My Wok,0,第戎其他,0.0,0.0,0.0
+其他美食,Restaurant et Caveau de la Porte Guillaume,Restaurant et Caveau de la Porte Guillaume,0,第戎其他,0.0,0.0,0.0
+其他美食,Brasserie l'Alhambra,Brasserie l'Alhambra,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Smart,Le Smart,0,第戎其他,0.0,0.0,0.0
+其他美食,Pizzavenir,Pizzavenir,0,第戎其他,0.0,0.0,0.0
+其他美食,L'Entrecote,L'Entrecote,0,第戎其他,0.0,0.0,0.0
+其他美食,Couleur Cafe,Couleur Cafe,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Petit Fort,Le Petit Fort,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Viking,Le Viking,0,第戎其他,0.0,0.0,0.0
+其他美食,L'Epicurien,L'Epicurien,0,第戎其他,0.0,0.0,0.0
+其他美食,L'Epicerie & Cie,L'Epicerie & Cie,0,第戎其他,0.0,0.0,0.0
+其他美食,La Cantine,La Cantine,0,第戎其他,0.0,0.0,0.0
+其他美食,taj mahal,taj mahal,0,第戎其他,0.0,0.0,0.0
+其他美食,B9,B9,0,第戎其他,0.0,0.0,0.0
+其他美食,Au 3 Vauban,Au 3 Vauban,0,第戎其他,0.0,0.0,0.0
+其他美食,L'Espiguette,L'Espiguette,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Jacquemart,Le Jacquemart,0,第戎其他,0.0,0.0,0.0
+其他美食,Cafe A Tout Va Bien,Cafe A Tout Va Bien,0,第戎其他,0.0,0.0,0.0
+其他美食,La Ruelle,La Ruelle,0,第戎其他,0.0,0.0,0.0
+其他美食,Restaurant l'O,Restaurant l'O,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Dome,Le Dome,0,第戎其他,0.0,0.0,0.0
+其他美食,China Town,China Town,0,第戎其他,0.0,0.0,0.0
+其他美食,Restaurant l'Avenue,Restaurant l'Avenue,0,第戎其他,0.0,0.0,0.0
+其他美食,La Boucherie,La Boucherie,0,第戎其他,0.0,0.0,0.0
+其他美食,Pavillon Bacchus,Pavillon Bacchus,0,第戎其他,0.0,0.0,0.0
+其他美食,LES MOLIDORS,LES MOLIDORS,0,,0.0,0.0,0.0
+其他美食,CREP'EAT,CREP'EAT,0,第戎其他,0.0,0.0,0.0
+其他美食,VLV,VLV,0,第戎其他,0.0,0.0,0.0
+其他美食,Potimarron Le,Potimarron Le,0,第戎其他,0.0,0.0,0.0
+其他美食,Luna Sol,Luna Sol,0,第戎其他,0.0,0.0,0.0
+其他美食,Restaurant Waza,Restaurant Waza,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Vivaldi,Le Vivaldi,0,第戎其他,0.0,0.0,0.0
+其他美食,Dynastie,Dynastie,0,第戎其他,0.0,0.0,0.0
+其他美食,Osteria Italiana,Osteria Italiana,0,第戎其他,0.0,0.0,0.0
+其他美食,La Table Marocaine,La Table Marocaine,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Saint Fiacre,Le Saint Fiacre,0,第戎其他,0.0,0.0,0.0
+其他美食,Illico Pasta,Illico Pasta,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Clos des capucines,Le Clos des capucines,0,第戎其他,0.0,0.0,0.0
+其他美食,Quick Dijon Gare Hamburger Restaurant,Quick Dijon Gare Hamburger Restaurant,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Mandarin,Le Mandarin,0,第戎其他,0.0,0.0,0.0
+其他美食,Allo Nem,Allo Nem,0,第戎其他,0.0,0.0,0.0
+其他美食,Kitouko,Kitouko,0,第戎其他,0.0,0.0,0.0
+其他美食,Le Marche de l'Huitre,Le Marche de l'Huitre,0,第戎其他,0.0,0.0,0.0
+其他美食,Brasserie le Forum,Brasserie le Forum,0,第戎其他,0.0,0.0,0.0
+其他美食,Dominos'Pizza,Dominos'Pizza,0,第戎其他,0.0,0.0,0.0
+其他美食,Domino's Pizza Drapeau,Domino's Pizza Drapeau,0,第戎其他,0.0,0.0,0.0
+其他美食,KFC Dijon,KFC Dijon,0,第戎其他,0.0,0.0,0.0
+其他美食,Pizza le Chat Gris,Pizza le Chat Gris,0,第戎其他,0.0,0.0,0.0
+其他美食,La Case Creole,La Case Creole,0,第戎其他,0.0,0.0,0.0
+其他美食,Arelys Traiteur,Arelys Traiteur,0,第戎其他,0.0,0.0,0.0
+其他美食,Brasserie Le Parc valmy,Brasserie Le Parc valmy,0,第戎其他,0.0,0.0,0.0
+其他美食,Auberge de Sainte Foy,Auberge de Sainte Foy,0,第戎其他,0.0,0.0,0.0
+其他美食,Hippopotamus Elysees Franklin,Hippopotamus Elysees Franklin,0,第戎其他,0.0,0.0,0.0
+其他美食,AUX P TITS LOUPS,AUX P TITS LOUPS,0,,0.0,0.0,0.0
+其他美食,Gipsy,Gipsy,0,第戎其他,0.0,0.0,0.0
+其他美食,La Route de la Soie,La Route de la Soie,0,第戎其他,0.0,0.0,0.0
+其他美食,LE CHAMOIS,LE CHAMOIS,0,,0.0,0.0,0.0
+其他美食,PIZZA DI ROMA,PIZZA DI ROMA,0,,0.0,0.0,0.0
+其他美食,LES TROENS,LES TROENS,0,,0.0,0.0,0.0
+其他美食,BRASSERIE LE DAUPHINE,BRASSERIE LE DAUPHINE,0,,0.0,0.0,0.0
+其他美食,LE CHAMOIS,LE CHAMOIS,0,,0.0,0.0,0.0

@@ -1,0 +1,418 @@
+意大利菜,Restaurant Spaghettata,Restaurant Spaghettata,0,斯塔德赛奇姆,7.7,6.8,7.7
+意大利菜,Oliva,Oliva,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,La Bottega Toscana,La Bottega Toscana,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Trattoria A Proposito,Trattoria A Proposito,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Very Italian Pizza,Very Italian Pizza,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,"La Borsa, Trattoria","La Borsa, Trattoria",0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Mangiare,Mangiare,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Trattoria Borgo d' Aneto,Trattoria Borgo d' Aneto,0,菲杰诺德,0.0,0.0,0.0
+意大利菜,Lei,Lei,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,La Pizza,La Pizza,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Gusto,Gusto,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Lux,Lux,0,戴夫夏文,0.0,0.0,0.0
+意大利菜,Angelo Betti,Angelo Betti,0,努德,0.0,0.0,0.0
+意大利菜,Due Tonino,Due Tonino,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Messina,Ristorante Pizzeria Messina,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Panini,Panini,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Caffe Italia,Caffe Italia,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,O'Pazzo Pizzeria,O'Pazzo Pizzeria,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Happy Italy,Happy Italy,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Pasta Genova,Pasta Genova,0,戴夫夏文,0.0,0.0,0.0
+意大利菜,Da Gianfranco,Da Gianfranco,0,其他,0.0,0.0,0.0
+意大利菜,"La Vita E Bella, Nederland","La Vita E Bella, Nederland",0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+意大利菜,El Faro Andaluz,El Faro Andaluz,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Luciano Sicilia In Bocca,Luciano Sicilia In Bocca,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Rosa Bella,Rosa Bella,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Ristorante Napoli,Ristorante Napoli,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Ciao,Ciao,0,戴夫夏文,0.0,0.0,0.0
+意大利菜,La Zia Maria,La Zia Maria,0,戴夫夏文,0.0,0.0,0.0
+意大利菜,l' Italiano,l' Italiano,0,其他,0.0,0.0,0.0
+意大利菜,La Gaetano,La Gaetano,0,菲杰诺德,0.0,0.0,0.0
+意大利菜,Caffe Booon,Caffe Booon,0,努德,0.0,0.0,0.0
+意大利菜,Ciao Ciao,Ciao Ciao,0,努德,0.0,0.0,0.0
+意大利菜,Il Carretto,Il Carretto,0,沙鲁瓦,0.0,0.0,0.0
+意大利菜,Pizzeria Marco Polo,Pizzeria Marco Polo,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+意大利菜,Pane Amore E Fantasia,Pane Amore E Fantasia,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+意大利菜,Hello Pasta,Hello Pasta,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,La Salute,La Salute,0,其他,0.0,0.0,0.0
+意大利菜,La Stanze,La Stanze,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Basso Pasta Enzo,Basso Pasta Enzo,0,斯塔德赛奇姆,0.0,0.0,0.0
+意大利菜,Fabbrica,Fabbrica,0,菲杰诺德,0.0,0.0,0.0
+法国菜,Stockholm,Stockholm,0,斯塔德赛奇姆,7.2,7.7,7.7
+法国菜,De Harmonie,De Harmonie,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,Fred,Fred,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+法国菜,Cafe-Restaurant Rodin,Cafe-Restaurant Rodin,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,Euromast Tower,Euromast Tower,0,戴夫夏文,0.0,0.0,0.0
+法国菜,"Bistrot du Bac, Rotterdam","Bistrot du Bac, Rotterdam",0,菲杰诺德,0.0,0.0,0.0
+法国菜,Blender,Blender,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,MimosA restaurant,MimosA restaurant,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,Restaurant Amarone,Restaurant Amarone,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,Zinc,Zinc,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,De Prins van Terbregge,De Prins van Terbregge,0,其他,0.0,0.0,0.0
+法国菜,In den Rustwat,In den Rustwat,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+法国菜,Restaurant Brazzo,Restaurant Brazzo,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+法国菜,Karakter,Karakter,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,La Vilette,La Vilette,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,Divoza,Divoza,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,Brasserie Pierre,Brasserie Pierre,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,The Manhattan Brasserie & Bar,The Manhattan Brasserie & Bar,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,Humphreys Restaurant,Humphreys Restaurant,0,菲杰诺德,0.0,0.0,0.0
+法国菜,Restaurant De Jong,Restaurant De Jong,0,努德,0.0,0.0,0.0
+法国菜,Eetcafe Opa,Eetcafe Opa,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,L'Ouest,L'Ouest,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,Restaurant Zotte,Restaurant Zotte,0,其他,0.0,0.0,0.0
+法国菜,Blij,Blij,0,努德,0.0,0.0,0.0
+法国菜,Branco,Branco,0,努德,0.0,0.0,0.0
+法国菜,lookies,lookies,0,其他,0.0,0.0,0.0
+法国菜,1900,1900,0,,0.0,0.0,0.0
+法国菜,Hof van Charlois,Hof van Charlois,0,沙鲁瓦,0.0,0.0,0.0
+法国菜,De Film,De Film,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,Kroon en Van Andel,Kroon en Van Andel,0,斯塔德赛奇姆,0.0,0.0,0.0
+法国菜,Citroen,Citroen,0,菲杰诺德,0.0,0.0,0.0
+墨西哥菜,Popocatepetl,Popocatepetl,0,斯塔德赛奇姆,7.2,7.2,7.2
+墨西哥菜,Amigo,Amigo,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Airport Restaurant,Airport Restaurant,0,其他,7.6,7.6,7.6
+其他西餐,De Pelgrim,De Pelgrim,0,戴夫夏文,7.6,7.6,7.6
+其他西餐,Los Toros,Los Toros,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Vapiano,Vapiano,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Vessel 11,Vessel 11,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Kwiezien,Kwiezien,0,菲杰诺德,0.0,0.0,0.0
+其他西餐,Bierhandel De Pijp,Bierhandel De Pijp,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Wijnbar het Eigendom,Wijnbar het Eigendom,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Taberna Dushi,Taberna Dushi,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Boerengat,Boerengat,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+其他西餐,Hamburg,Hamburg,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Grand Cafe Prachtig,Grand Cafe Prachtig,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Wester paviljoen,Wester paviljoen,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,The mayflower,The mayflower,0,菲杰诺德,0.0,0.0,0.0
+其他西餐,Eetcafe van Stralen,Eetcafe van Stralen,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+其他西餐,El Gaucho,El Gaucho,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Ter Marsch & Co,Ter Marsch & Co,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Bagel Bakery & Burgers,Bagel Bakery & Burgers,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Gauchos aan de Plas,Gauchos aan de Plas,0,其他,0.0,0.0,0.0
+其他西餐,Hotel New York,Hotel New York,0,菲杰诺德,0.0,0.0,0.0
+其他西餐,Gauchos - aan de Maas,Gauchos - aan de Maas,0,菲杰诺德,0.0,0.0,0.0
+其他西餐,Bennie Beer,Bennie Beer,0,其他,0.0,0.0,0.0
+其他西餐,Lkkrr,Lkkrr,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+其他西餐,Z&M Veerhaven,Z&M Veerhaven,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Rokkaa,Rokkaa,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,restaurant La Stanza,restaurant La Stanza,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,la ENOTECA,la ENOTECA,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Eetcafé Het Gesprek,Eetcafé Het Gesprek,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,The Old Dutch,The Old Dutch,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Belgisch Biercafe Boudewijn,Belgisch Biercafe Boudewijn,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Grieks Restaurant Olympia,Grieks Restaurant Olympia,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Nostra,Nostra,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,"l'Ouest, wijnbar - lunch - diner","l'Ouest, wijnbar - lunch - diner",0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Antichic,Antichic,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Gauchos - Rotterdam Centrum,Gauchos - Rotterdam Centrum,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Steak & Bier,Steak & Bier,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Burger Trut,Burger Trut,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Stadshal Rotterdam,Stadshal Rotterdam,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Pannenkoekenboot Rotterdam,Pannenkoekenboot Rotterdam,0,戴夫夏文,0.0,0.0,0.0
+其他西餐,Abrikoos,Abrikoos,0,戴夫夏文,0.0,0.0,0.0
+其他西餐,'t Ouwe Bruggetje,'t Ouwe Bruggetje,0,戴夫夏文,0.0,0.0,0.0
+其他西餐,Uit Je Eigen Stad,Uit Je Eigen Stad,0,其他,0.0,0.0,0.0
+其他西餐,Eetcafe Facet,Eetcafe Facet,0,其他,0.0,0.0,0.0
+其他西餐,C.E.O,C.E.O,0,菲杰诺德,0.0,0.0,0.0
+其他西餐,Destino,Destino,0,努德,0.0,0.0,0.0
+其他西餐,Eethuis De Watertoren,Eethuis De Watertoren,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+其他西餐,Lokanta Proeflokaal,Lokanta Proeflokaal,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+其他西餐,De Hemel op Aarde,De Hemel op Aarde,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+其他西餐,De Tuin,De Tuin,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+其他西餐,Amuse,Amuse,0,其他,0.0,0.0,0.0
+其他西餐,Noord-West,Noord-West,0,其他,0.0,0.0,0.0
+其他西餐,Brutus Beer,Brutus Beer,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Veel Soeps,Veel Soeps,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Rotown,Rotown,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,New Fork,New Fork,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Hema restaurant,Hema restaurant,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Grieks restaurant Dionysos rotterdam,Grieks restaurant Dionysos rotterdam,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Sorbonne,Sorbonne,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Humphreys Restaurant,Humphreys Restaurant,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Haagse Bluf,Haagse Bluf,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Cafe Engels,Cafe Engels,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Camaron,Camaron,0,戴夫夏文,0.0,0.0,0.0
+其他西餐,Fritschy,Fritschy,0,戴夫夏文,0.0,0.0,0.0
+其他西餐,Barbecuehuis Tanger,Barbecuehuis Tanger,0,戴夫夏文,0.0,0.0,0.0
+其他西餐,Restaurant Le Havre,Restaurant Le Havre,0,戴夫夏文,0.0,0.0,0.0
+其他西餐,Het Eethuisje van Delfshaven,Het Eethuisje van Delfshaven,0,戴夫夏文,0.0,0.0,0.0
+其他西餐,Restaurant de Herberg,Restaurant de Herberg,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Kitsch & Kunst aan de Rotte,Restaurant Kitsch & Kunst aan de Rotte,0,其他,0.0,0.0,0.0
+其他西餐,'t Schielicht,'t Schielicht,0,其他,0.0,0.0,0.0
+其他西餐,Kostas de Griek,Kostas de Griek,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Keizershof,Restaurant Keizershof,0,其他,0.0,0.0,0.0
+其他西餐,Alto Douro,Alto Douro,0,菲杰诺德,0.0,0.0,0.0
+其他西餐,Roos Marijn,Roos Marijn,0,菲杰诺德,0.0,0.0,0.0
+其他西餐,Maria Bonita Brazilian Grill & Tapas Restaurant,Maria Bonita Brazilian Grill & Tapas Restaurant,0,菲杰诺德,0.0,0.0,0.0
+其他西餐,Tapasbar Terra,Tapasbar Terra,0,菲杰诺德,0.0,0.0,0.0
+其他西餐,Eetcafe 't Trefpunt II,Eetcafe 't Trefpunt II,0,努德,0.0,0.0,0.0
+其他西餐,Ahoy Horeca,Ahoy Horeca,0,沙鲁瓦,0.0,0.0,0.0
+其他西餐,"rotterdam, restaurant Koriander","rotterdam, restaurant Koriander",0,沙鲁瓦,0.0,0.0,0.0
+其他西餐,Quinta,Quinta,0,沙鲁瓦,0.0,0.0,0.0
+其他西餐,Boshut de Big,Boshut de Big,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+其他西餐,Eetcafé De Jonkheer,Eetcafé De Jonkheer,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+其他西餐,Raoul Lunchcafé,Raoul Lunchcafé,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,De Apres Skihut,De Apres Skihut,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Barcelona,Barcelona,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Plunzz,Plunzz,0,戴夫夏文,0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,其他,0.0,0.0,0.0
+其他西餐,Ketelbinkie,Ketelbinkie,0,菲杰诺德,0.0,0.0,0.0
+其他西餐,La Cazuela,La Cazuela,0,努德,0.0,0.0,0.0
+其他西餐,Magneetcafe,Magneetcafe,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+其他西餐,Parkzicht,Parkzicht,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Zen Eetcafe,Zen Eetcafe,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Restaurant Eendracht,Restaurant Eendracht,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,B14 and de Twijfelaar,B14 and de Twijfelaar,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Petit-Restaurant ,Petit-Restaurant ,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Boudoir,Boudoir,0,斯塔德赛奇姆,0.0,0.0,0.0
+其他西餐,Millers,Millers,0,戴夫夏文,0.0,0.0,0.0
+其他西餐,Eetcafe Barney Beer,Eetcafe Barney Beer,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+中餐,Sansan,Sansan,0,斯塔德赛奇姆,7.7,7.5,7.4
+中餐,de lange muur,de lange muur,0,斯塔德赛奇姆,7.7,7.7,7.7
+中餐,Asian Glories,Asian Glories,0,斯塔德赛奇姆,7.7,7.7,7.7
+中餐,Eethuis Bij Bao,Eethuis Bij Bao,0,斯塔德赛奇姆,0.0,0.0,0.0
+中餐,Grand Palace,Grand Palace,0,斯塔德赛奇姆,0.0,0.0,0.0
+中餐,Hong Kong Restaurant,Hong Kong Restaurant,0,斯塔德赛奇姆,0.0,0.0,0.0
+中餐,Kiem foei,Kiem foei,0,斯塔德赛奇姆,0.0,0.0,0.0
+中餐,Asia,Asia,0,普林斯亚历山大,0.0,0.0,0.0
+中餐,Multifood Corner,Multifood Corner,0,斯塔德赛奇姆,0.0,0.0,0.0
+中餐,Restaurant China Town,Restaurant China Town,0,斯塔德赛奇姆,0.0,0.0,0.0
+中餐,Oriental Express,Oriental Express,0,斯塔德赛奇姆,0.0,0.0,0.0
+中餐,Red Pepper,Red Pepper,0,斯塔德赛奇姆,0.0,0.0,0.0
+中餐,Eethuis Verre Oosten,Eethuis Verre Oosten,0,斯塔德赛奇姆,0.0,0.0,0.0
+中餐,Eat More,Eat More,0,其他,0.0,0.0,0.0
+中餐,Double Tree Restaurant,Double Tree Restaurant,0,斯塔德赛奇姆,0.0,0.0,0.0
+中餐,Wah Li,Wah Li,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+中餐,Wing Wah,Wing Wah,0,菲杰诺德,0.0,0.0,0.0
+中餐,De Gouden Wok Rotterdam BV,De Gouden Wok Rotterdam BV,0,戴夫夏文,0.0,0.0,0.0
+日韩料理,Sumo,Sumo,0,斯塔德赛奇姆,7.4,7.4,7.4
+日韩料理,Shabu Shabu - Rotterdam Center,Shabu Shabu - Rotterdam Center,0,斯塔德赛奇姆,7.2,6.8,7.2
+日韩料理,Izkaya Asian Touch Table Restaurant,Izkaya Asian Touch Table Restaurant,0,斯塔德赛奇姆,0.0,0.0,0.0
+日韩料理,Moshi Moshi,Moshi Moshi,0,斯塔德赛奇姆,0.0,0.0,0.0
+日韩料理,Itami,Itami,0,菲杰诺德,0.0,0.0,0.0
+日韩料理,Yamato,Yamato,0,斯塔德赛奇姆,0.0,0.0,0.0
+日韩料理,Kimchi Bar Restaurant Rotterdam,Kimchi Bar Restaurant Rotterdam,0,其他,0.0,0.0,0.0
+日韩料理,JApanese Cuisine Yama,JApanese Cuisine Yama,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Qube,Sushi Qube,0,斯塔德赛奇姆,0.0,0.0,0.0
+日韩料理,Sumo Japanese Sushi & Grill Restaurant,Sumo Japanese Sushi & Grill Restaurant,0,斯塔德赛奇姆,0.0,0.0,0.0
+日韩料理,Sushi Haven,Sushi Haven,0,戴夫夏文,0.0,0.0,0.0
+日韩料理,IIZO Sushi Café,IIZO Sushi Café,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Little V,Little V,0,斯塔德赛奇姆,7.7,7.2,7.2
+更多亚洲菜,Bazar,Bazar,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Dunya Lokanta,Dunya Lokanta,0,努德,0.0,0.0,0.0
+更多亚洲菜,Lulu,Lulu,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Satebar Indonesia,Satebar Indonesia,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Siriporn Thai Restaurant,Siriporn Thai Restaurant,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Munzur,Munzur,0,努德,0.0,0.0,0.0
+更多亚洲菜,Pho Vietnamese Restaurant & Noodle Bar,Pho Vietnamese Restaurant & Noodle Bar,0,其他,0.0,0.0,0.0
+更多亚洲菜,De Kleine Ondeugd,De Kleine Ondeugd,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多亚洲菜,Katak mas,Katak mas,0,普林斯亚历山大,0.0,0.0,0.0
+更多亚洲菜,YoYo! Fresh Tea Bar,YoYo! Fresh Tea Bar,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Satebar,Satebar,0,其他,0.0,0.0,0.0
+更多亚洲菜,Papaya,Papaya,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Umami Rotterdam,Umami Rotterdam,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Deli Bird,Deli Bird,0,菲杰诺德,0.0,0.0,0.0
+更多亚洲菜,Lime Leaf,Lime Leaf,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Minang Kabau Baru,Minang Kabau Baru,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多亚洲菜,Dewi Sri,Dewi Sri,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Restaurant Down Under,Restaurant Down Under,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Vivu,Vivu,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,See You See Me,See You See Me,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Staal Rotterdam,Staal Rotterdam,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Suwannaphom,Suwannaphom,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Zainab Roshni Mahal,Zainab Roshni Mahal,0,戴夫夏文,0.0,0.0,0.0
+更多亚洲菜,Sangam Tandoori,Sangam Tandoori,0,戴夫夏文,0.0,0.0,0.0
+更多亚洲菜,Obba,Obba,0,菲杰诺德,0.0,0.0,0.0
+更多亚洲菜,Hu Fusion,Hu Fusion,0,菲杰诺德,0.0,0.0,0.0
+更多亚洲菜,Curry's Centrum,Curry's Centrum,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多亚洲菜,Curry's,Curry's,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多亚洲菜,India Paradise,India Paradise,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多亚洲菜,Dennis Frietpaleis,Dennis Frietpaleis,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Warisan,Warisan,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Zenne,Zenne,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Mahzen,Mahzen,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Hung Kee,Hung Kee,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Sari Koering,Sari Koering,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Nazar,Nazar,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Dim Daily,Dim Daily,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Sweet Bali,Sweet Bali,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Boguette,Boguette,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Anugerah,Anugerah,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Eazie,Eazie,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Raden Mas Of Rotterdam,Raden Mas Of Rotterdam,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,YoYo! Fresh Tea Bar,YoYo! Fresh Tea Bar,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Wijn of Water,Wijn of Water,0,戴夫夏文,0.0,0.0,0.0
+更多亚洲菜,Park Restaurant,Park Restaurant,0,戴夫夏文,0.0,0.0,0.0
+更多亚洲菜,Eethuis Tadim,Eethuis Tadim,0,戴夫夏文,0.0,0.0,0.0
+更多亚洲菜,Durum Evi,Durum Evi,0,戴夫夏文,0.0,0.0,0.0
+更多亚洲菜,Kampong Kita,Kampong Kita,0,其他,0.0,0.0,0.0
+更多亚洲菜,Malakka,Malakka,0,其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Taj Mahal,Restaurant Taj Mahal,0,其他,0.0,0.0,0.0
+更多亚洲菜,Little Asia,Little Asia,0,其他,0.0,0.0,0.0
+更多亚洲菜,Yam Thai,Yam Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Meram,Meram,0,菲杰诺德,0.0,0.0,0.0
+更多亚洲菜,Sarnic,Sarnic,0,菲杰诺德,0.0,0.0,0.0
+更多亚洲菜,Soi 3,Soi 3,0,普林斯亚历山大,0.0,0.0,0.0
+更多亚洲菜,Sultan Lounge,Sultan Lounge,0,沙鲁瓦,0.0,0.0,0.0
+更多亚洲菜,Roopram Roti,Roopram Roti,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mi Fusion,Mi Fusion,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,MASTIKA,MASTIKA,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,Desi Village,Desi Village,0,戴夫夏文,0.0,0.0,0.0
+更多亚洲菜,Iskender,Iskender,0,沙鲁瓦,0.0,0.0,0.0
+更多亚洲菜,Light of India,Light of India,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多亚洲菜,Restaurant Blauw Rotterdam,Restaurant Blauw Rotterdam,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,falafel king,falafel king,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多亚洲菜,afobaka,afobaka,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+快餐简餐,Dudok,Dudok,0,斯塔德赛奇姆,7.7,7.4,7.4
+快餐简餐,Guliano,Guliano,0,斯塔德赛奇姆,7.9,7.9,7.9
+快餐简餐,Restaurant Chung,Restaurant Chung,0,斯塔德赛奇姆,0.0,0.0,0.0
+快餐简餐,Restaurant Paramount,Restaurant Paramount,0,斯塔德赛奇姆,0.0,0.0,0.0
+快餐简餐,L' Arancino,L' Arancino,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+快餐简餐,Poolcafe Delfshaven,Poolcafe Delfshaven,0,戴夫夏文,0.0,0.0,0.0
+快餐简餐,Alice in Cakeland,Alice in Cakeland,0,斯塔德赛奇姆,0.0,0.0,0.0
+快餐简餐,Restaurant Qip,Restaurant Qip,0,,0.0,0.0,0.0
+海鲜,森井日本料理,森井日本料理,0,,7.2,7.7,7.2
+海鲜,Schmidt Zeevis,Schmidt Zeevis,0,斯塔德赛奇姆,0.0,0.0,0.0
+海鲜,Vis aan de Maas,Vis aan de Maas,0,其他,0.0,0.0,0.0
+海鲜,Kaat Mossel,Kaat Mossel,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+海鲜,Las Palmas,Las Palmas,0,菲杰诺德,0.0,0.0,0.0
+海鲜,Zalmhuis,Zalmhuis,0,其他,0.0,0.0,0.0
+海鲜,De Zeespiegel,De Zeespiegel,0,,0.0,0.0,0.0
+海鲜,Harbour Club,Harbour Club,0,斯塔德赛奇姆,0.0,0.0,0.0
+海鲜,Kaap Vislokaal & Kookstudio,Kaap Vislokaal & Kookstudio,0,菲杰诺德,0.0,0.0,0.0
+烧烤,Granny's Grill,Granny's Grill,0,其他,0.0,0.0,0.0
+烧烤,Betty Beer,Betty Beer,0,斯塔德赛奇姆,0.0,0.0,0.0
+咖啡厅,Hopper,Hopper,0,斯塔德赛奇姆,0.0,0.0,0.0
+咖啡厅,Stobbe,Stobbe,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+咖啡厅,Proeflokaal Reijngoud,Proeflokaal Reijngoud,0,斯塔德赛奇姆,0.0,0.0,0.0
+咖啡厅,Coffee Company,Coffee Company,0,斯塔德赛奇姆,0.0,0.0,0.0
+咖啡厅,The Gallery Kitchen,The Gallery Kitchen,0,斯塔德赛奇姆,0.0,0.0,0.0
+咖啡厅,Café-ResTaurAnt Soif,Café-ResTaurAnt Soif,0,戴夫夏文,0.0,0.0,0.0
+面包甜点,Koekela,Koekela,0,斯塔德赛奇姆,7.7,7.7,7.7
+面包甜点,De IJssalon,De IJssalon,0,斯塔德赛奇姆,0.0,0.0,0.0
+面包甜点,Lof der Zoetheid,Lof der Zoetheid,0,努德,0.0,0.0,0.0
+面包甜点,Heavenly Cupcakes,Heavenly Cupcakes,0,戴夫夏文,0.0,0.0,0.0
+面包甜点,Vlaamsch Broodhuys,Vlaamsch Broodhuys,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+面包甜点,Vlaamsch Broodhuys,Vlaamsch Broodhuys,0,斯塔德赛奇姆,0.0,0.0,0.0
+面包甜点,Ten to Three Bakery,Ten to Three Bakery,0,斯塔德赛奇姆,0.0,0.0,0.0
+酒吧,Melief Bender,Melief Bender,0,斯塔德赛奇姆,0.0,0.0,0.0
+酒吧,De Witte Aap,De Witte Aap,0,斯塔德赛奇姆,0.0,0.0,0.0
+酒吧,Bar Tender,Bar Tender,0,斯塔德赛奇姆,0.0,0.0,0.0
+酒吧,SuS & Co,SuS & Co,0,斯塔德赛奇姆,0.0,0.0,0.0
+酒吧,O'Sheas Irish Pub,O'Sheas Irish Pub,0,斯塔德赛奇姆,0.0,0.0,0.0
+酒吧,Dizzy,Dizzy,0,戴夫夏文,0.0,0.0,0.0
+酒吧,Bird Rotterdam,Bird Rotterdam,0,努德,0.0,0.0,0.0
+酒吧,Le Nord,Le Nord,0,努德,0.0,0.0,0.0
+酒吧,De Hofnar Rotterdam,De Hofnar Rotterdam,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+酒吧,1900,1900,0,,0.0,0.0,0.0
+酒吧,Weimar 1890,Weimar 1890,0,斯塔德赛奇姆,0.0,0.0,0.0
+酒吧,Villa Kakelbont,Villa Kakelbont,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Tai Wu,Tai Wu,0,斯塔德赛奇姆,7.1,7.1,7.1
+更多美食,FG Restaurant,FG Restaurant,0,戴夫夏文,7.6,7.6,7.6
+更多美食,Cafe de Beurs,Cafe de Beurs,0,斯塔德赛奇姆,7.6,7.6,7.6
+更多美食,La Place Rotterdam Alexandrium,La Place Rotterdam Alexandrium,0,普林斯亚历山大,7.2,7.2,7.2
+更多美食,Bram Ladage,Bram Ladage,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Bed Rotterdam,Bed Rotterdam,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Wereldmuseum,Wereldmuseum,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Huson Restaurant,Huson Restaurant,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Zeezout,Zeezout,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Fjord-Rotterdam,Fjord-Rotterdam,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Spirit,Spirit,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多美食,Restaurant Mooii,Restaurant Mooii,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Dertien,Dertien,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Eeterij Vader Jacob,Eeterij Vader Jacob,0,普林斯亚历山大,0.0,0.0,0.0
+更多美食,Get Back,Get Back,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Breakaway,Breakaway,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,De Matroos en Het Meisje,De Matroos en Het Meisje,0,菲杰诺德,0.0,0.0,0.0
+更多美食,Cafe Pol,Cafe Pol,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,De Ballentent,De Ballentent,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Quartier du Port,Quartier du Port,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Rosso,Rosso,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Hudson Bar & Kitchen Rotterdam,Hudson Bar & Kitchen Rotterdam,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Open,Open,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Bagels & Beans,Bagels & Beans,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,PickNick,PickNick,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Level,Level,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,HMB Restaurant,HMB Restaurant,0,菲杰诺德,0.0,0.0,0.0
+更多美食,Restaurant Allure,Restaurant Allure,0,菲杰诺德,0.0,0.0,0.0
+更多美食,Eetcafé 't Trefpunt,Eetcafé 't Trefpunt,0,努德,0.0,0.0,0.0
+更多美食,Dutch Diner,Dutch Diner,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Nul 10,Nul 10,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Fugu,Fugu,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Werelds,Werelds,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,De Engel,De Engel,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Restaurant Sijf,Restaurant Sijf,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Chili Time,Chili Time,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Kade 4,Kade 4,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,urban espresso bar,urban espresso bar,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Lebkov,Lebkov,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,De Pasta Kantine,De Pasta Kantine,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Cafe-Restaurant Soif,Cafe-Restaurant Soif,0,戴夫夏文,0.0,0.0,0.0
+更多美食,Soit,Soit,0,戴夫夏文,0.0,0.0,0.0
+更多美食,Restaurant Look,Restaurant Look,0,戴夫夏文,0.0,0.0,0.0
+更多美食,Ono Japanese Dining,Ono Japanese Dining,0,菲杰诺德,0.0,0.0,0.0
+更多美食,Restaurant Café oKay,Restaurant Café oKay,0,菲杰诺德,0.0,0.0,0.0
+更多美食,FG Food Labs,FG Food Labs,0,努德,0.0,0.0,0.0
+更多美食,Zino,Zino,0,努德,0.0,0.0,0.0
+更多美食,Westerkaatje Noord,Westerkaatje Noord,0,努德,0.0,0.0,0.0
+更多美食,In de keuken van Floris,In de keuken van Floris,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多美食,Proeflokaal Kade 87,Proeflokaal Kade 87,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多美食,De smaak van Afrika,De smaak van Afrika,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多美食,StationsHuiskamer,StationsHuiskamer,0,其他,0.0,0.0,0.0
+更多美食,Brood & Sappies,Brood & Sappies,0,其他,0.0,0.0,0.0
+更多美食,Lunchroom Atlantic,Lunchroom Atlantic,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Van Vollenhoven,Van Vollenhoven,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Doppio,Doppio,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Viva Afrika,Viva Afrika,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Restaurant Doe Maar,Restaurant Doe Maar,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Nieuw Rotterdams Cafe,Nieuw Rotterdams Cafe,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,De Bakkerswinkel - Rotterdam,De Bakkerswinkel - Rotterdam,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Buiten,Buiten,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Stalles,Stalles,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Bagels & Beans,Bagels & Beans,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Grandcafe Het Witte Huis,Grandcafe Het Witte Huis,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Mexicano Mexican Grill Restaurant,Mexicano Mexican Grill Restaurant,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Wijnbar Jansen en van Dijk,Wijnbar Jansen en van Dijk,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Seth Poffertjes,Seth Poffertjes,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Gamasot,Gamasot,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Memory Lane,Memory Lane,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Verhip,Verhip,0,戴夫夏文,0.0,0.0,0.0
+更多美食,Eethuis Rhanny,Eethuis Rhanny,0,戴夫夏文,0.0,0.0,0.0
+更多美食,De Parel,De Parel,0,戴夫夏文,0.0,0.0,0.0
+更多美食,Bla Bla,Bla Bla,0,戴夫夏文,0.0,0.0,0.0
+更多美食,De Machinist,De Machinist,0,戴夫夏文,0.0,0.0,0.0
+更多美食,Chez Mo-I,Chez Mo-I,0,戴夫夏文,0.0,0.0,0.0
+更多美食,Arq,Arq,0,戴夫夏文,0.0,0.0,0.0
+更多美食,King Foeng,King Foeng,0,戴夫夏文,0.0,0.0,0.0
+更多美食,eetlokaal van de boer,eetlokaal van de boer,0,戴夫夏文,0.0,0.0,0.0
+更多美食,De Oude Plek,De Oude Plek,0,其他,0.0,0.0,0.0
+更多美食,Courzand,Courzand,0,其他,0.0,0.0,0.0
+更多美食,Eetcafe Kaandorp,Eetcafe Kaandorp,0,其他,0.0,0.0,0.0
+更多美食,Seve,Seve,0,其他,0.0,0.0,0.0
+更多美食,Abrazzo,Abrazzo,0,其他,0.0,0.0,0.0
+更多美食,'t Oude Raadhuis,'t Oude Raadhuis,0,其他,0.0,0.0,0.0
+更多美食,Brasserie De Verandering,Brasserie De Verandering,0,其他,0.0,0.0,0.0
+更多美食,Bergsche Plas,Bergsche Plas,0,菲杰诺德,0.0,0.0,0.0
+更多美食,"SS Rotterdam, Lido Restaurant","SS Rotterdam, Lido Restaurant",0,菲杰诺德,0.0,0.0,0.0
+更多美食,Bagels & Beans,Bagels & Beans,0,菲杰诺德,0.0,0.0,0.0
+更多美食,restaurant safir,restaurant safir,0,菲杰诺德,0.0,0.0,0.0
+更多美食,Trattoria Pietro,Trattoria Pietro,0,菲杰诺德,0.0,0.0,0.0
+更多美食,A La Plancha,A La Plancha,0,菲杰诺德,0.0,0.0,0.0
+更多美食,Restaurant Baku,Restaurant Baku,0,努德,0.0,0.0,0.0
+更多美食,Doen dorst en trek,Doen dorst en trek,0,努德,0.0,0.0,0.0
+更多美食,La Place Rotterdam Zuidplein,La Place Rotterdam Zuidplein,0,沙鲁瓦,0.0,0.0,0.0
+更多美食,Grand Cafe Hoofdstuk II,Grand Cafe Hoofdstuk II,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多美食,Rivero's,Rivero's,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多美食,The Wine Bar,The Wine Bar,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多美食,Grillhouse de Nijl,Grillhouse de Nijl,0,科拉林根-克鲁斯维克,0.0,0.0,0.0
+更多美食,Mozaik,Mozaik,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,La Cubanitas,La Cubanitas,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Idol's Chinees Wok Restaurant,Idol's Chinees Wok Restaurant,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Chez Amuse,Chez Amuse,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,Penny Pean,Penny Pean,0,斯塔德赛奇姆,0.0,0.0,0.0
+更多美食,stroom rotterdam,stroom rotterdam,0,戴夫夏文,0.0,0.0,0.0
+更多美食,Havenbinkie,Havenbinkie,0,其他,0.0,0.0,0.0
+更多美食,Eetcafe de Schuimspaan,Eetcafe de Schuimspaan,0,菲杰诺德,0.0,0.0,0.0
+更多美食,Café Floor,Café Floor,0,斯塔德赛奇姆,0.0,0.0,0.0

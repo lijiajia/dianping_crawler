@@ -1,0 +1,1138 @@
+意大利菜,Scampino
+意大利菜,Osman 30
+意大利菜,Marcellino
+意大利菜,Zippiri Gourmetwerkstatt & Wein-Bar
+意大利菜,Vapiano
+意大利菜,La Tagliatella
+意大利菜,Pizzeria Piccola L'Originale
+意大利菜,Mercato Deluxe
+意大利菜,L'Assaggio
+意大利菜,Pasta Bar
+意大利菜,Enoteca La Cantina
+意大利菜,Caminetto
+意大利菜,Rossini
+意大利菜,XII Apostel Koln
+意大利菜,Zucchini
+意大利菜,Ristorante Parmigiano
+意大利菜,Pizzeria Palazzo
+意大利菜,Ristorante Antica Roma
+意大利菜,Pizzeria Grande Milano
+意大利菜,Da Tullio
+意大利菜,San Remo
+意大利菜,Pizzeria Ciao Salvatore
+意大利菜,La Stella
+意大利菜,La Baia D'oro
+意大利菜,Collina's
+意大利菜,Pizza Pasta e Basta
+意大利菜,Fellini
+意大利菜,Etrusca
+意大利菜,Casa Nuova
+意大利菜,La Cena
+意大利菜,Rosticceria Massimo
+意大利菜,Cubana Bar
+意大利菜,Grande Milano
+意大利菜,L'Accento
+意大利菜,Ristorante Il Carpaccio
+意大利菜,La Piazzetta
+意大利菜,L'Osteria Pizza E Pasta
+意大利菜,4 Cani
+意大利菜,Bella Italia
+意大利菜,Alfredo
+意大利菜,Il mezzogiorno
+意大利菜,Eiscafe Raffaello Pin
+意大利菜,Trattoria Casa di Modica
+意大利菜,Montanara
+意大利菜,Trattoria Bennyssimo
+意大利菜,Koln
+意大利菜,Lo Sfizio
+意大利菜,Trattoria Bar Celentano
+意大利菜,Cucina di Rosa
+意大利菜,Fioretto
+意大利菜,Ristorante Ischia
+意大利菜,Il Valentino
+意大利菜,Salute
+意大利菜,Distinto
+意大利菜,Pizzeria Da Franco
+意大利菜,Peperoni Pizza Pasta Bar
+意大利菜,Ludari
+意大利菜,Casa di Biase
+意大利菜,La vecchia Trattoria
+意大利菜,Ristorante Pizzeria Italia
+意大利菜,Trattorio Palermo da Salvatore
+意大利菜,Quattro Cavalli
+意大利菜,Im Schofchen
+意大利菜,Maca-Ronni
+意大利菜,Grande Italia
+意大利菜,Eis Caffe TOTO
+意大利菜,Eiscafe Stella Doro
+意大利菜,Da Pino
+意大利菜,V!A Bene
+意大利菜,Buon Giorno
+意大利菜,Da Luigi
+意大利菜,Culinarius
+意大利菜,Il Forno
+意大利菜,Bistro Trattoria La Torre
+意大利菜,La Vita
+意大利菜,Natuzzi Café
+意大利菜,Sansone Due
+意大利菜,Ristorante Botticelli
+意大利菜,Luciano Il Ristorante
+意大利菜,La Dolce Vita
+意大利菜,La Gustosa
+意大利菜,Sant' Angelo - Bar & Trattoria
+意大利菜,Da Enzo
+意大利菜,Il Rustico
+意大利菜,Imperium Steakhaus
+意大利菜,Cafe Bistro Primo Piano
+意大利菜,Ristorante Il Valentino
+意大利菜,Palladio Cafe
+意大利菜,Del Bajazzo
+意大利菜,Trattoria Gelateria Perino
+意大利菜,Pizzeria Il Futuro
+意大利菜,Filippo Nisi
+意大利菜,Stuzzichino
+意大利菜,Novello
+意大利菜,Ars Vivendi
+意大利菜,vini diretti Caffe & Weinbar
+意大利菜,Eupener Hof
+意大利菜,Pizzeria-Ristorante Mare E Monti
+意大利菜,Giovanni's Ristorante & Pizzeria
+意大利菜,Da Enzo
+意大利菜,Amoroso
+意大利菜,Bayenthaler Grill & Pizzeria
+意大利菜,La Grotta
+意大利菜,Ristorante Arlecchino
+意大利菜,La Locanda
+意大利菜,Pinot De Pinot
+意大利菜,Ristorante Ramazzotti
+意大利菜,Cosa Nostra
+意大利菜,Il Cancello
+意大利菜,Pizza E Pasta
+意大利菜,Pan e Vin
+意大利菜,Amato Mio
+意大利菜,Campi im Funkhaus
+意大利菜,Da Massimo
+法国菜,Osman 30
+法国菜,Bistrot B
+法国菜,Amabile
+法国菜,Maison Blue
+法国菜,Le Moissonnier
+法国菜,Brasserie Fou
+法国菜,Le Bistrot 99
+法国菜,La Societe
+法国菜,Bado La Poele D or
+法国菜,Capricorn i Aries
+法国菜,Belgischer Hof
+法国菜,Oyster
+法国菜,Le Coq
+法国菜,Heising & Adelmann
+法国菜,Brauhaus Goldener Pflug
+法国菜,Epicerie Boucherie
+法国菜,W Restaurant
+法国菜,Dr. Wackes
+法国菜,Restaurant Petite France
+法国菜,Gustav-Eck
+法国菜,Le Bouffon - Epicerie Fine - Anja Krips
+法国菜,Maitre im Landhaus Kuckuck
+法国菜,Im Rosenstock
+法国菜,AU CHIMPANZÉ
+法国菜,Aborylang
+法国菜,Alter Wartesaal
+墨西哥菜,Maggiano's
+墨西哥菜,Cantina Mexicana
+墨西哥菜,Sausalitos
+墨西哥菜,Barrios
+墨西哥菜,Cafe Especial
+墨西哥菜,El Gato
+墨西哥菜,Cantina Conchita
+墨西哥菜,Coco Pancho
+墨西哥菜,Restaurant Maggioanos
+墨西哥菜,El Chico
+其他西餐,Gaffel am Dom
+其他西餐,Haxenhaus zum Rheingarten
+其他西餐,Frueh am Dom
+其他西餐,El Chango
+其他西餐,Maredo
+其他西餐,Bierhaus en d'r Salzgass
+其他西餐,Weinhaus Vogel
+其他西餐,Das kleine Steakhaus
+其他西餐,The Grill
+其他西餐,Brauerei zur Malzmuehle
+其他西餐,Brauhaus Putz
+其他西餐,Lommerzheim
+其他西餐,GASTSTAETTE IM MARIENGARTEN
+其他西餐,Basilicum
+其他西餐,Gilden im Zims
+其他西餐,Steakhouse Ponchos
+其他西餐,Restaurant Konrad
+其他西餐,Brauhaus Sunner im Walfisch
+其他西餐,Brauhaus Reissdorf
+其他西餐,Brauhaus ohne Namen
+其他西餐,Pantanal Rodizio
+其他西餐,Oma's Kuche
+其他西餐,"Restaurant Brucken, Cologne"
+其他西餐,Gaststatte Lederer
+其他西餐,Latino Cubana
+其他西餐,BierHaus am Rhein
+其他西餐,Kölsche Stuff
+其他西餐,Restaurant - Cafe Sankt Petersburg
+其他西餐,Dom Im Stapelhaus
+其他西餐,Haus Robinson
+其他西餐,Deutzer Fischhaus
+其他西餐,Gasthaus Goldenes Fass
+其他西餐,Steakhouse Royal
+其他西餐,The Tasty Pasty Company
+其他西餐,La Campana
+其他西餐,Jamas
+其他西餐,Die Fette Kuh
+其他西餐,Limani
+其他西餐,La Barra
+其他西餐,SPITZ
+其他西餐,HASE
+其他西餐,Cafe Reichard
+其他西餐,Paeffgen
+其他西餐,La Bodega Tapas Bar
+其他西餐,Jameson Distillery Pub and Restaurant
+其他西餐,Schreckenskammer
+其他西餐,Beef Brothers
+其他西餐,Plomari
+其他西餐,Gaststaette Bei Oma Kleinmann
+其他西餐,Tapeo Picus
+其他西餐,Bell Arte
+其他西餐,Manufactum Brot & Butter
+其他西餐,LyLy
+其他西餐,Aubele im Nussbaum
+其他西餐,Vintage
+其他西餐,Kartoeffelchen
+其他西餐,Joseph's Restaurant & Bar
+其他西餐,Comedia Wagenhalle
+其他西餐,Alteburger Hof
+其他西餐,Petite faim
+其他西餐,Magnus
+其他西餐,Meister Gerhard
+其他西餐,Al Salam
+其他西餐,Heller's Brauhaus
+其他西餐,Weinstube Bacchus
+其他西餐,Cafe Central
+其他西餐,Brauhaus-Muhlenkosch
+其他西餐,Bei dr Tant
+其他西餐,Villa Mat­hilde
+其他西餐,Reissdorf am Hahnentor
+其他西餐,Antk Brauhaus Sion-Braeues
+其他西餐,Heumarkt
+其他西餐,Keule
+其他西餐,Toro Negro
+其他西餐,Candia Koln
+其他西餐,Staendige Vertretung
+其他西餐,Kleine Glocke
+其他西餐,Neideck Bistro Restaurant
+其他西餐,Bieresel
+其他西餐,Cafe Printen Schmitz
+其他西餐,Slavia
+其他西餐,PEPE
+其他西餐,Em Krutzche
+其他西餐,maiBeck
+其他西餐,Maracana Rodizio
+其他西餐,Tapas Y Tapas
+其他西餐,Zimmermann's
+其他西餐,Rheinterrassen
+其他西餐,KLAAF Bistro & Restaurant
+其他西餐,Cafe Schmitz
+其他西餐,Freddy Schilling Die Hamburger Manufaktur
+其他西餐,Meersalz
+其他西餐,Flogaus
+其他西餐,Nada
+其他西餐,Wein Und Dine
+其他西餐,Zum Treppchen
+其他西餐,Alt Strunden
+其他西餐,Diogenis
+其他西餐,Lindental
+其他西餐,Bar im Hotel Regent
+其他西餐,Rosenrot
+其他西餐,Gaffel-Haus
+其他西餐,Haus Scholzen
+其他西餐,Meer sehen
+其他西餐,Selam
+其他西餐,Der Goldfisch
+其他西餐,Braustelle
+其他西餐,Trattoria Salento
+其他西餐,Essers Gasthaus
+其他西餐,Restaurant Athen's Koln
+其他西餐,Cafehaus Romerpark
+其他西餐,Cafe Dialog
+其他西餐,La Patata
+其他西餐,Cana
+其他西餐,Bistro Verde
+其他西餐,Turista Süd
+其他西餐,Opera Koln
+其他西餐,Gaststaette Spielplatz
+其他西餐,La capannina
+其他西餐,Leone im Rheinauhafen
+其他西餐,Ferkulum
+其他西餐,La Croque
+其他西餐,Bagutta
+其他西餐,A Caravela
+其他西餐,Metronom
+其他西餐,Feynsinn
+其他西餐,Hotelux Sovietbar
+其他西餐,Koschere Kantine Weiss
+其他西餐,Apadana
+其他西餐,Haas Café
+其他西餐,Manuela Tapas Restaurant
+其他西餐,Jonny Turista
+其他西餐,Pfeffermihle
+其他西餐,Hopper Restaurant Et Cetera
+其他西餐,Brennerei Weiss
+其他西餐,Sion am Ring
+其他西餐,Cafe Lichtenberg
+其他西餐,Gloria
+其他西餐,Maultasche
+其他西餐,Cappuvino
+其他西餐,Ech Kölsch
+其他西餐,Rosendorn
+其他西餐,Schwimmbad Sommer Garten
+其他西餐,Curry B.
+其他西餐,Cafe Konditorei Fromme
+其他西餐,Pure
+其他西餐,Schmittchen
+其他西餐,Oasis
+其他西餐,Kleines
+其他西餐,Orgelchen
+其他西餐,Restaurant La Fe
+其他西餐,Cafe Waschsalon
+其他西餐,Alcazar
+其他西餐,Petit Prince
+其他西餐,Residenz am Dom Alte Post
+其他西餐,Marcellus Cafe Restaurant
+其他西餐,L. Fritz im Hopper
+其他西餐,Heimatsuende
+其他西餐,Durst
+其他西餐,Leo bar restaurant
+其他西餐,Gasthaus Zur Linde
+其他西餐,Weissenburg
+其他西餐,La Casona
+其他西餐,Burgklause
+其他西餐,Wirtshaus Helfer
+其他西餐,Akti Grill
+其他西餐,Newport
+其他西餐,La Tranquera
+其他西餐,Trendis
+其他西餐,Dinea
+其他西餐,Asado
+其他西餐,Geißbockheim - Clubhaus des 1. FC Köln
+其他西餐,Bayenthaler
+其他西餐,Haidan's Bar & Restaurant
+其他西餐,Landgasthof Pohlhof
+其他西餐,Wienerwald Koln Arcaden
+其他西餐,Ristorante Selini
+其他西餐,Kolsch Kultur
+其他西餐,LUX Restaurant
+其他西餐,heckmanns
+其他西餐,BonFrit
+其他西餐,Bocksbeutel
+其他西餐,Cafe Krumel
+其他西餐,Erpel & Co
+其他西餐,Bratwurst manufaktur
+其他西餐,Hofbraustuben
+其他西餐,Sophias
+其他西餐,Alt Melaten - Adria Restaurant
+其他西餐,Brasserie Marienbild
+其他西餐,Alte Schmeide
+其他西餐,Colonia Brauhaus
+其他西餐,Hippodrom
+其他西餐,Nebenraum
+其他西餐,Saudade
+其他西餐,AU CHIMPANZÉ
+其他西餐,Kääzmann´s
+其他西餐,Adria
+其他西餐,Steaks aus aller Welt
+其他西餐,Bistro Miro
+其他西餐,Haus Odendahl
+其他西餐,Maredo
+其他西餐,Aura
+其他西餐,Burgerlich
+其他西餐,Alem-Mar
+其他西餐,Filmdose
+其他西餐,Riphahn
+其他西餐,Hacienda el rustico
+其他西餐,Columbus Restaurant
+其他西餐,Guten Abend
+其他西餐,Henkelmännchen
+其他西餐,Kopfsalat
+其他西餐,La Reina
+其他西餐,Dom Im Stepelhaus
+其他西餐,Johannisklause
+其他西餐,Stussers Brauhaus
+其他西餐,Rodenkirchener Kartoffelhaus
+其他西餐,Bootshaus Albatros
+其他西餐,Haus Schaffer
+其他西餐,Kaneo
+其他西餐,Die Malve Restaurant
+其他西餐,Sentimiento
+其他西餐,Die Aphrodite
+其他西餐,Litho
+其他西餐,Südwind-Restaurant
+其他西餐,Schwach&Sinn
+其他西餐,Cubana
+其他西餐,Fischers
+其他西餐,Trattoria Vesuvio
+其他西餐,Culux
+其他西餐,B.Easy
+其他西餐,3Frits
+其他西餐,Reisfeld
+其他西餐,Le Merou Restaurant
+其他西餐,Pan & Pani
+其他西餐,Haus Abels
+其他西餐,Bernstein am Rhein
+其他西餐,Kostas Taverne
+其他西餐,Haus Waldfrieden
+其他西餐,Elia
+其他西餐,Viertelkueche
+其他西餐,Gasthaus Fuhlingen
+其他西餐,Eleon im Haus Ettelt
+其他西餐,Geartudenhof
+中餐,Great Wall
+中餐,鲜入唯煮
+中餐,China Restaurant Tchang
+中餐,China-Town
+中餐,Ni Hao
+中餐,Big China
+中餐,Ginger
+中餐,New Konfuzius GmbHug
+中餐,Chen Xi
+中餐,Buddha's Eye
+中餐,China-Jumbo`s Buffet & Restaurant
+中餐,Asia Gourmet Hakka
+中餐,Yu Xin Lou Chinese Restaurant
+中餐,China Restaurant Canton
+中餐,Dong Kun
+中餐,China Garten
+中餐,Kim Van
+中餐,Mr. Wok
+日韩料理,Okinii
+日韩料理,Momotaro
+日韩料理,Bulgogi Haus
+日韩料理,Daitokai
+日韩料理,sweet sushi
+日韩料理,Black Karate
+日韩料理,meat.ing Korean BBQ
+日韩料理,Bento Box
+日韩料理,Fraulein ChiChi
+日韩料理,Son Nim
+日韩料理,Sushi am Ring
+日韩料理,Blue Marlin Sushi Bar
+日韩料理,Kintaro
+日韩料理,Sushiou
+日韩料理,sumo
+日韩料理,Fisch-Hof
+日韩料理,Sushi Haus Deutz
+日韩料理,Sushi Nara 2
+日韩料理,Sushien
+日韩料理,Namdaemun
+日韩料理,Sakura Running Sushi
+日韩料理,Shokudo
+日韩料理,Kiku Sushi
+日韩料理,Sumo Media Park - Japanese Bar & Restaurant
+日韩料理,Do Re Mi
+日韩料理,Sushi Ninja
+日韩料理,Mj Sushi
+日韩料理,Kyoto
+日韩料理,BEN's Cocktailbar & Restaurant
+日韩料理,Buffet Chang
+更多亚洲菜,Beirut
+更多亚洲菜,Nakhon Thai
+更多亚洲菜,Mongo's Restaurant
+更多亚洲菜,Taku
+更多亚洲菜,Lu
+更多亚洲菜,bonjour saigon
+更多亚洲菜,Haus Java
+更多亚洲菜,Indian Curry Basmati House
+更多亚洲菜,Kilim
+更多亚洲菜,My Indigo
+更多亚洲菜,Gaylord
+更多亚洲菜,Mangal
+更多亚洲菜,Yummy Town
+更多亚洲菜,Habibi
+更多亚洲菜,Kamasutra
+更多亚洲菜,Ginti Indische Restaurant
+更多亚洲菜,Mandalay
+更多亚洲菜,Kittichai
+更多亚洲菜,Chino Latino
+更多亚洲菜,Serithai
+更多亚洲菜,Ganesha
+更多亚洲菜,Thai Haus
+更多亚洲菜,Taj Mahal
+更多亚洲菜,Mai Thai
+更多亚洲菜,Thai Food
+更多亚洲菜,Warung Bayu
+更多亚洲菜,Royal Punjab
+更多亚洲菜,Nha Trang Viet-Thai Restaurant
+更多亚洲菜,Meti Thai
+更多亚洲菜,Kabul
+更多亚洲菜,Basmati
+更多亚洲菜,Lai Thai 2
+更多亚洲菜,Bistro Vietnam
+更多亚洲菜,Yuzu
+更多亚洲菜,Buy Buy
+更多亚洲菜,Noosou Koln
+更多亚洲菜,Kim's Imbiss
+更多亚洲菜,Karibik
+更多亚洲菜,Mingo Bar
+更多亚洲菜,Grill am Ring
+更多亚洲菜,Nagoya Sushi & Grill
+更多亚洲菜,Oz Harran Doydoy
+更多亚洲菜,Chang Thai
+更多亚洲菜,Cafe Heval
+更多亚洲菜,Mevlana Restaurant
+更多亚洲菜,Konak
+更多亚洲菜,Tasty India
+更多亚洲菜,Buy Buy
+更多亚洲菜,Aroy D Thai Food
+更多亚洲菜,MeiWok V
+更多亚洲菜,Ban Thai
+更多亚洲菜,Bombay Palace
+更多亚洲菜,Ano-Thai
+更多亚洲菜,Lakshmi
+更多亚洲菜,Rangoli
+更多亚洲菜,Saman Restaurant
+更多亚洲菜,Merheimer Hof
+更多亚洲菜,Yadaary Orienthaus
+更多亚洲菜,Bep Viet
+更多亚洲菜,Sidarta
+更多亚洲菜,Maharani
+更多亚洲菜,Kampung Indonesia
+快餐简餐,Farmer's
+快餐简餐,Hard Rock Cafe
+快餐简餐,Farmer's Steakhouse
+快餐简餐,Bay Area Burrito Company
+快餐简餐,Taco Loco
+快餐简餐,Berens Feinkost
+快餐简餐,ONA MOR Bar
+快餐简餐,Le PomPom
+快餐简餐,Joe Champs
+快餐简餐,Blanc de Blanc
+快餐简餐,Arizona
+快餐简餐,Pfeiler Grill
+快餐简餐,Pizza Hut
+快餐简餐,Moyos New Orleans Diner
+快餐简餐,Moyos
+快餐简餐,La Vision
+快餐简餐,Ranch House Restaurant
+快餐简餐,"Subway Subs, Sandwiches & Salads"
+快餐简餐,Anselmos Lilakissimo
+海鲜,Herings im Martinswinkel
+海鲜,Nordsee
+海鲜,Nordsee
+海鲜,新上海酒楼
+烧烤,Hafenterrasse am Schokoladenmuseum
+烧烤,Cologne Sportspark
+烧烤,Hemingway Downtown BBQ
+烧烤,Farmers Steakhouse
+比萨,Restaurant and Pizzeria Diana
+比萨,Tutto
+比萨,Ristorante Al Solito Posto
+比萨,Mama Leone
+比萨,Pane E Cioccolata
+比萨,Zur Faehre
+比萨,Il Nido
+比萨,Pizzeria Mamma Mia
+咖啡厅,Cafe Reichard
+咖啡厅,Starbucks
+咖啡厅,The Coffee Bean & Tea Leaf
+咖啡厅,Starbucks
+咖啡厅,Galestro Bar & Pasticceria
+咖啡厅,Miss Papki
+咖啡厅,Osho's Place
+咖啡厅,Cafe Extrablatt
+咖啡厅,Epi
+咖啡厅,Cafe Extrablatt
+咖啡厅,Leuchte Kaffeebar
+咖啡厅,Barista Köln
+咖啡厅,Cafe & Chocolaterie 20o
+咖啡厅,Cafecafe
+咖啡厅,Woyton im DuMont-Carre
+咖啡厅,All Bar One Köln
+咖啡厅,Kaffee & Kuchen
+咖啡厅,Cafe Franck
+咖啡厅,Hernando Cortez
+咖啡厅,Cafe Goltstein
+咖啡厅,Melange Orange
+咖啡厅,Wo ist Tom?
+咖啡厅,Café Rotkehlchen
+咖啡厅,Cafe Kult
+咖啡厅,Cafe Fromme
+咖啡厅,Cafe Scholl
+咖啡厅,Cafe Osterspey
+咖啡厅,Cafetiero Express
+咖啡厅,Kawa
+咖啡厅,Café Kram
+面包甜点,Mr.Cake CupCake Manufaktur Cologne
+面包甜点,Cafe Rico
+面包甜点,Eiscafe Tota
+面包甜点,Gelateria 4D
+面包甜点,Backerei Brockmann
+面包甜点,Merzenich Backereien
+面包甜点,Eiscafe Marco Polo
+面包甜点,Cafe Wahlen
+面包甜点,Villa Mat­hilde
+面包甜点,Cafe Riese
+面包甜点,Cafe Eigel
+面包甜点,Eis Engeln
+面包甜点,Eiscafe Breda
+面包甜点,Cafe Walter
+面包甜点,Backerei Balkhausen
+酒吧,MADE by REWE Waidmarkt
+酒吧,Papa Joe s Klimperkasten
+酒吧,Kleines Schwarzes
+酒吧,Cafe Stern am Rathaus
+酒吧,Sunner Keller
+酒吧,Six Pack Bar
+酒吧,Orange
+酒吧,Zulpicher Strasse
+酒吧,Brauhaus Quetsch
+酒吧,Weinstube Morio
+酒吧,Frueh em Tutt
+酒吧,Ivory Lounge
+酒吧,Gasthaus im Museum
+酒吧,Eckstein
+酒吧,Amadeus
+酒吧,Vier Jahreszeiten Bistro & Biomarkt
+酒吧,Qhof
+酒吧,Dos Equis
+酒吧,Caprici
+酒吧,Melody
+更多美食,Brauhaus Sion
+更多美食,Peters Brauhaus
+更多美食,Restaurant Fischermanns
+更多美食,Istanbul
+更多美食,Lowenbrau Koln Restaurant
+更多美食,LeiLei Restaurant China Lounge
+更多美食,Peking am Dom
+更多美食,Wein am Rhein
+更多美食,Ristorante Da Damiano
+更多美食,Il gelato
+更多美食,Dʌblju 
+更多美食,Im Hoefchen
+更多美食,Gilden Brauhaus
+更多美食,Modern China Hotpot Buffet
+更多美食,L'escalier
+更多美食,Hanse-Stube
+更多美食,Dostoevsky
+更多美食,Poisson
+更多美食,Puszta Hutte
+更多美食,El Gaucho - Argentinisches Restaurant
+更多美食,Alex
+更多美食,Toscanini
+更多美食,Ox & Klee
+更多美食,Hyatt-Terrasse
+更多美食,Das Kleine Stapelhauschen
+更多美食,Indian Masala
+更多美食,El Alli Oli
+更多美食,Brauerei Weissbräeu
+更多美食,Zur Tant
+更多美食,Nikko
+更多美食,Haus Mueller
+更多美食,La Teca
+更多美食,Bellevue
+更多美食,Osteria da Cristiano
+更多美食,Vreiheit
+更多美食,Gasthaus Brungs
+更多美食,Al Andalus
+更多美食,Holtmann s
+更多美食,Supasalad
+更多美食,Dominikaner
+更多美食,Glashaus Restaurant
+更多美食,Starbucks
+更多美食,Hotelux
+更多美食,La Galette
+更多美食,Cafe Era
+更多美食,paparazzi restaurant
+更多美食,Braunsfeld Restaurant
+更多美食,l'Orange
+更多美食,Aphrodite
+更多美食,Ristorante Sansone
+更多美食,Chez Mario
+更多美食,Haus Knott
+更多美食,Nudelhaus am Dom
+更多美食,Al Gufo
+更多美食,Restaurant Heule
+更多美食,Eiscafe Sagittario
+更多美食,Cafe Bo
+更多美食,Pizza Boy Junkersdorf
+更多美食,Zum Feierabend
+更多美食,Restaurant Fasika
+更多美食,Freddy Schilling Hamburger Manufaktur
+更多美食,Engelbat
+更多美食,Restaurant Im Wasserturm
+更多美食,Mederrano
+更多美食,Restaurant Colina
+更多美食,Gast und Weinhaus Brungs
+更多美食,Fassbender
+更多美食,Cafe Noa
+更多美食,Well Being Vegetarian Restaurant
+更多美食,Bastian's
+更多美食,Shaka Zulu
+更多美食,Meson El Cordobes
+更多美食,Brauhaus Em Kolsche Boor
+更多美食,Gruber's
+更多美食,Haus Schwan
+更多美食,Nh Köln-City
+更多美食,China Restaurant Konfuzius
+更多美食,Vivaldi
+更多美食,Ristorante IL Cavallino
+更多美食,Decksteiner Muhle
+更多美食,Rocios
+更多美食,La Guitarra
+更多美食,Pane e Vino
+更多美食,Rheinau
+更多美食,Rosebud
+更多美食,THE COFFEE GANG
+更多美食,Thali
+更多美食,El Inca
+更多美食,La Pachamama
+更多美食,Pinocchio
+更多美食,Vapiano Koln Habsburgerring
+更多美食,Bobotie
+更多美食,Die Wohngemeinschaft
+更多美食,Krua Thai
+更多美食,Bauturm Cafe
+更多美食,Herr Pimock
+更多美食,Restaurant Sweet & Chilli
+更多美食,Latino Loco
+更多美食,Christofs
+更多美食,Ponchos
+更多美食,Vier Jahreszeiten
+更多美食,Via Sistina Ristorante
+更多美食,Ristorante Via Bene
+更多美食,Eden Garten
+更多美食,Culinarius 2 - Culinarius In-Biss
+更多美食,King Wah
+更多美食,Royal Cupcakes
+更多美食,Tortchen Tortchen
+更多美食,Consilium
+更多美食,Bei Bepi
+更多美食,"Corkonian, The"
+更多美食,Karawane
+更多美食,Limbourg
+更多美食,Sorgenfrei
+更多美食,Curry Cologne
+更多美食,"Si, Claro"
+更多美食,H&A Tagesbar
+更多美食,Hallmackenreuther
+更多美食,McDonald's
+更多美食,Sion am Bahnhof
+更多美食,Acht
+更多美食,Em Haehnche
+更多美食,Jaipur
+更多美食,Jan von werth
+更多美食,Gado Gado
+更多美食,Maybach
+更多美食,Zum Kobes
+更多美食,Textilcafe
+更多美食,DIX
+更多美食,Purino
+更多美食,Dolce & Vita
+更多美食,Zur Alten Post
+更多美食,Waldschenke
+更多美食,Salon Schmitz
+更多美食,Fischermann's at Apropos Koeln
+更多美食,Falderhof
+更多美食,Sala Rim Naam
+更多美食,Tappo
+更多美食,Steinmetz
+更多美食,Al Caminetto
+更多美食,Sushi Ninja
+更多美食,Hof 18
+更多美食,Carlos
+更多美食,Trattoria Stella
+更多美食,Claudio
+更多美食,Jan's Restaurant in der Remise
+更多美食,Haus Schnackertz
+更多美食,Em Golde Kappes
+更多美食,Adolph's Gasthaus
+更多美食,Herr Schulz
+更多美食,Alekos
+更多美食,Goldmund Literatur Cafe
+更多美食,Trinachria
+更多美食,TripseBock
+更多美食,Feldkueche
+更多美食,Hdmona
+更多美食,Latte Macchiato
+更多美食,Oxin
+更多美食,Thaiimbiss Rim Khong
+更多美食,Tomatoes
+更多美食,Mainzer Hof
+更多美食,Keimaks
+更多美食,Limes Restaurant
+更多美食,Peperino
+更多美食,Meister Gerhard
+更多美食,Veedel Vital Koln
+更多美食,Bento Box
+更多美食,Weinhaus Sud
+更多美食,Dinnerclub
+更多美食,Tobioka
+更多美食,ecco
+更多美食,BAR Lotta
+更多美食,Severin Gaststätte
+更多美食,Del Bajazzo
+更多美食,La Esquina
+更多美食,Zum Alten Brauhaus
+更多美食,Gaststatte Wirtz
+更多美食,Em Scheffge
+更多美食,Fahrhaus
+更多美食,Rotonda Restaurant
+更多美食,Zum Salzruempchen
+更多美食,Tom Yam Gung
+更多美食,Khun Mae
+更多美食,Zarathustra
+更多美食,Manni's Rastorang
+更多美食,Viva Brasil
+更多美食,Pizza Mista
+更多美食,Bella Rosa
+更多美食,Roter Platz
+更多美食,Restaurant Mango
+更多美食,Buffet Chen
+更多美食,Beim Köelsche Jung
+更多美食,Haus Toller
+更多美食,Shepheard
+更多美食,Al Gambero
+更多美食,Alte Griechenschanke
+更多美食,Gate to India
+更多美食,Sadaf
+更多美食,Injera
+更多美食,Gedankengut
+更多美食,Zur Leckeren Pann
+更多美食,Mumbai Palace
+更多美食,Cafe Fleur
+更多美食,Thai Basilikum
+更多美食,Stadthausschanke
+更多美食,Hofer essBar
+更多美食,Stanton
+更多美食,Piccola L'originale Aachener Straße
+更多美食,La Buff
+更多美食,Metzgerei Schmitz
+更多美食,Burger King
+更多美食,Los Flamencos
+更多美食,Subway
+更多美食,Gertrudenhof am Neumarkt
+更多美食,Sion Brauhaus Gertrudenhof
+更多美食,La Fiamma
+更多美食,Speisekammer
+更多美食,Il Pazzo
+更多美食,Kolsch Pinte
+更多美食,Pfaffen Brauerei
+更多美食,Marx's Winebar
+更多美食,Ego
+更多美食,Grande Il Piatto Pizzeria
+更多美食,Delfter Haus
+更多美食,Ouzeria
+更多美食,Gir Keller
+更多美食,Biermuseum
+更多美食,Sonderbar
+更多美食,Laden fur Geniesser
+更多美食,China-Restaurant Shanghai
+更多美食,The Real Bagel Company
+更多美食,Bali
+更多美食,Bastard
+更多美食,Vinoteca Alfredo
+更多美食,Kabuki
+更多美食,Zur grunen Eck
+更多美食,Kaennchen
+更多美食,Rheinzeit
+更多美食,Magellan Wine Bar
+更多美食,Restaurant georgeM.
+更多美食,Maigrun
+更多美食,Planet Oriental Restaurant
+更多美食,La Brasserie
+更多美食,Sushi & More Hbf
+更多美食,Le Cro Bag
+更多美食,Schweinske Hauptbahnhof
+更多美食,Burger King
+更多美食,Dulce Ice Cream & Chocolate Köln-Hauptbahnhof
+更多美食,Cafetiero im Hauptbahnhof
+更多美食,McDonald's
+更多美食,Delice
+更多美食,Galestro Bar & Pasticceria
+更多美食,Stadtgarten-Restaurant
+更多美食,Elit
+更多美食,km 689 Cologne Beach Club
+更多美食,Kitchenette
+更多美食,Pizzeria Pinocchio
+更多美食,Oz Urfali Restaurant
+更多美食,Bosporus
+更多美食,Olaf'S Imbiss
+更多美食,unsicht-Bar Koln
+更多美食,Westflugel Das Kleine Lokal
+更多美食,Kandinsky
+更多美食,Hoai Viet
+更多美食,Em Altertuemche
+更多美食,Lapidarium
+更多美食,La Difference
+更多美食,Cafe Schnurrke
+更多美食,Pancho Villa
+更多美食,Big Daddy Cologne
+更多美食,Havana
+更多美食,Wirtshaus Spitz
+更多美食,Alte Feuerwache
+更多美食,Osteria
+更多美食,Oellig
+更多美食,Il Ponticello
+更多美食,Buyuk Harran Doy Doy
+更多美食,Em Hoettche
+更多美食,Buergerstube Strunden
+更多美食,Restaurant Zagreb
+更多美食,Knippschild's Restaurant
+更多美食,Rosenzeit
+更多美食,Heideklause
+更多美食,La Casa del Marisco
+更多美食,Restaurant 
+更多美食,Alte Reichspost
+更多美食,Bitzhof
+更多美食,Groov-Terrasse
+更多美食,Kostas
+更多美食,Zum Jagerhof
+更多美食,Pizzeria La Fornace
+更多美食,Kaiser Restaurant
+更多美食,Ratskeller
+更多美食,Dubrovnik
+更多美食,Carmeladchen - Cafe Und Kostlichkeiten
+更多美食,Haus Kranz
+更多美食,Der Feilenhof- Alte Schleiferei
+更多美食,Poller Fischerhaus
+更多美食,Pollerhaus
+更多美食,Haus Godorf
+更多美食,Whisky Depot
+更多美食,Delphi
+更多美食,Hauptsache
+更多美食,Haus Schmitz
+更多美食,Al Capriccio
+更多美食,Zum St. Martin
+更多美食,L'imprimerie
+更多美食,L'ambiente
+更多美食,Gasthaus-Wessel
+更多美食,Burger
+更多美食,Rather Hof
+更多美食,Gaststaette Jaegerhof
+更多美食,Reissdorf em Cornely
+更多美食,Resturant Sokrates
+更多美食,Culinarius
+更多美食,Petersberger Hof
+更多美食,ABS
+更多美食,Trattoria Riviera
+更多美食,Wirtshaus Solzer Klaaf
+更多美食,Saigon Pho
+更多美食,My Thai
+更多美食,Ha-Long Bucht
+更多美食,Jules Coffee & Restaurant
+更多美食,Pizzeria Portobello
+更多美食,Haus am See
+更多美食,Restaurant Palanta
+更多美食,Kyoto Running Sushi
+更多美食,restaurant Alborz
+更多美食,Albertus
+更多美食,Ristorante Bellavista Cavallaro
+更多美食,Grunlilie
+更多美食,Lieblings Kuche & Kuchen
+更多美食,Brasserie Marie
+更多美食,Da Siro
+更多美食,Restaurant Beijing
+更多美食,Tiziano
+更多美食,Signor Verde -Milchfreie Caffebar-
+更多美食,La Strada
+更多美食,Cafe Bonnen
+更多美食,Osteria Toscana
+更多美食,Kolsche Bodega
+更多美食,Lugar
+更多美食,Faro Ristorante Pizzeria
+更多美食,Sion im Birkenhof
+更多美食,Club Astoria
+更多美食,Cotta's
+更多美食,Schumacher
+更多美食,Alt Uesdorf
+更多美食,Borsen Restaurant Maitre
+更多美食,Restaurant Arena
+更多美食,Lannathai
+更多美食,Kolnisch Wasser
+更多美食,Bento Box Koln-West
+更多美食,"Dubai, Koln"
+更多美食,Taco Loco 3
+更多美食,LaTasca
+更多美食,China Restaurant Mandarin
+更多美食,Bei Mir zu Haus
+更多美食,Gasthaus im 1/4
+更多美食,Kornbrenner
+更多美食,McDonald's
+更多美食,Antica Osteria
+更多美食,Pizza Terminator
+更多美食,La Spendula
+更多美食,Korner's
+更多美食,Bistro Pause
+更多美食,Cafe Celli
+更多美食,Mitica Italia
+更多美食,Gernots Cafehaus Restaurant and Bar
+更多美食,Hansa Stube
+更多美食,Riehler Tal
+更多美食,Irodion
+更多美食,Zur alten Zollgrenze
+更多美食,Rennbahn
+更多美食,Jaegerhof
+更多美食,Museum of East Asian Art Cafeteria
+更多美食,Maria Eetcafe Koln
+更多美食,Limone
+更多美食,Weinlokal Secco
+更多美食,Cafe Sehnsucht
+更多美食,Konak
+更多美食,Pizzeria Piccola
+更多美食,Pizzeria Colosseum
+更多美食,Haus Eichendorff
+更多美食,Moselstubchen
+更多美食,Försterstube
+更多美食,Restaurant Pottgen
+更多美食,Maifeld Cafe-Bar-Restaurant
+更多美食,Trattoria Sicula
+更多美食,Wirtshaus Hotzenplotz
+更多美食,Bethlehem
+更多美食,EFFI
+更多美食,Akazienhof
+更多美食,Brauhaus am Kloster
+更多美食,La Serenissina
+更多美食,Alte Liebe
+更多美食,Hoeninger
+更多美食,Asiagourmet
+更多美食,Bier Und Brezel
+更多美食,Zum Schwan
+更多美食,Himmel Un Äd
+更多美食,Filos
+更多美食,Mar Y Sol
+更多美食,Ca'n Marcos - Der Kolsche Mallorquiner
+更多美食,Abyssinia
+更多美食,Falafel Salam
+更多美食,Oscar
+更多美食,Wolkenburg
+更多美食,Monte Christo
+更多美食,Rosenstock
+更多美食,Wackes Weinstube
+更多美食,Al Castello Romano
+更多美食,Nyam Nyam
+更多美食,Steakhaus Angusto
+更多美食,McDonalds
+更多美食,Wirtshaus-Schwejk
+更多美食,Yo
+更多美食,Beef Farm-Inn
+更多美食,Chicago Steakhouse
+更多美食,L'Antipasto
+更多美食,Buongusto
+更多美食,Klein-Koeln
+更多美食,Ambiance Am Dom
+更多美食,Gosch Sylt
+更多美食,Sansone
+更多美食,Kervansaray
+更多美食,Brauhaus Dellbrueck
+更多美食,McDonald's
+更多美食,Peking Garden
+更多美食,Eltzhof
+更多美食,Papillon Restaurant
+更多美食,Granarium
+更多美食,Kaiser Palast
+更多美食,Efes Pub
+更多美食,Bitzerhof
+更多美食,Surther Bootshaus
+更多美食,Temma Deli & Cafe
+更多美食,Gut Wistorfs
+更多美食,Em Birkebaumche
+更多美食,Em Neuenhof
+更多美食,Trattoria Siciliana
+更多美食,Pablo Tapas Bar
+更多美食,L'Apero
+更多美食,Brenner scher Hof
+更多美食,Restaurant Hotel Germania
+更多美食,Ehrenfelder Geissbock
+更多美食,Pizza Pazza
+更多美食,Gaststatte Zur Schmiede
+更多美食,djinn
+更多美食,Jaely's
+更多美食,Bistro Fritz
+更多美食,Herbrandt s
+更多美食,Wicleff
+更多美食,Iltiseck
+更多美食,Culinarius
+更多美食,Boquerones
+更多美食,Seepavillion
+更多美食,Koelsch & Co
+更多美食,The Root
+更多美食,FRITS
+更多美食,Gaffel-Stuebchen
+更多美食,Aeppel Store
+更多美食,Taqueria Especial
+更多美食,Höhns Dome Brasserie & Bar
+更多美食,Fonda
+更多美食,Louisiana
+更多美食,Restaurant zur Bottmuhle
+更多美食,Severins-Klause
+更多美食,Govindam
+更多美食,Stiefel
+更多美食,Taco Loco I
+更多美食,Playboyclub
+更多美食,SIN Koln
+更多美食,Zipps
+更多美食,Bons Restaurant
+更多美食,Tandoor Palace
+更多美食,Zur alten Munze
+更多美食,Pasta E Musica
+更多美食,Bruecken-Stuebchen
+更多美食,Gonzalez & Gonzalez
+更多美食,BAR TABAC
+更多美食,Suppenkaspar
+更多美食,Bangkok
+更多美食,Morgenstern
+更多美食,Mario's Trattoria
+更多美食,Taberna Flamenca
+更多美食,Don Quijote
+更多美食,Loewenbrau
+更多美食,Hammersteins
+更多美食,M 20
+更多美食,Eiscafe und Bistro Opera
+更多美食,La Pad Karl Heinz Kern
+更多美食,Limburger Hof
+更多美食,Alex Gaststatten Gesellschaft
+更多美食,Delix
+更多美食,Arkadia
+更多美食,Atelier Am Dom
+更多美食,Zeicafe
+更多美食,Banker's
+更多美食,Bistro Corner
+更多美食,Gezeiten
+更多美食,Monheimer Hof
+更多美食,Gross
+更多美食,Korfu
+更多美食,Cantina Latino Mexicana
+更多美食,Conde
+更多美食,B.W.
+更多美食,Demmer
+更多美食,C M B
+更多美食,Zur Lindenwirtin
+更多美食,San Marco
+更多美食,Cancun
+更多美食,Steakhaus El Dorado
+更多美食,Sysuco
+更多美食,Le Patron
+更多美食,La Modicana
+更多美食,Settantotto
+更多美食,Dellbrucker Schlemmerhusje
+更多美食,Anno Pomm
+更多美食,Alt Ostheim
+更多美食,Arenas
+更多美食,Sion Eck
+更多美食,Pizza Rakete
+更多美食,Ristorante Gatti
+更多美食,Em Ahle Kohberg
+更多美食,Central Kebab Haus
+更多美食,Steakhaus Die Fleischerei
+更多美食,Sion im Schaefer
+更多美食,Fruh Feinkosttheke
+更多美食,Haus Brecher
+更多美食,Schluters Bar & Restaurant
+更多美食,Im Braunsfeld
+更多美食,Immer Essen
+更多美食,Zum Funkhaus
+更多美食,George M.

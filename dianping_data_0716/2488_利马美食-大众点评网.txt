@@ -1,0 +1,75 @@
+意大利菜,Scena
+意大利菜,Mezzaluna
+其他西餐,Balthazar
+其他西餐,TROPICANA
+其他西餐,Tony Roma's
+日韩料理,Miso
+日韩料理,Wasabi
+日韩料理,Hikari
+日韩料理,Osaka
+快餐简餐,papizza
+快餐简餐,Papa John's
+快餐简餐,McDonald's
+快餐简餐,Chili's
+快餐简餐,Subway
+快餐简餐,La Baguette
+快餐简餐,Chili's
+快餐简餐,Friday's
+快餐简餐,Ichiban
+快餐简餐,McDonald's
+比萨,Mozza Pizza
+比萨,Villa Pizza
+比萨,Veggie Pizza Peru
+比萨,D'nnos Pizza
+比萨,Pizza Meter
+比萨,Pizza Hut
+咖啡厅,cafes la mexicana
+咖啡厅,News Cafe
+咖啡厅,Cafe de la Paz
+咖啡厅,Jam Box Bar Cafe
+咖啡厅,Illariy Cafeteria
+咖啡厅,Mezze Restaurant and Cafe
+咖啡厅,Dedalo arte y cafe
+咖啡厅,Puku Puku Cafe
+咖啡厅,Chala Costa Fusion
+咖啡厅,Rustica de la Costa Verde
+咖啡厅,Chef's Cafe
+咖啡厅,La Folie Cafe
+咖啡厅,Cafe Tostado
+咖啡厅,Sofa Cafe Larocmar
+咖啡厅,Bule Cafe
+咖啡厅,Cafe Bisetti
+咖啡厅,Cafe La Favorita
+咖啡厅,Cafe Cafe
+咖啡厅,Cafe 21
+咖啡厅,Montecristo Cafe - Restaurante
+咖啡厅,Nathano's Cafe
+咖啡厅,Cafe Ole
+咖啡厅,"Hard Rock Cafe, Lima"
+咖啡厅,Chifa My Home
+咖啡厅,Cafe del Museo
+咖啡厅,Dpaso Cafe Restobar
+咖啡厅,Patagonia
+咖啡厅,Life Cafe 
+酒吧,El Bar Verde
+酒吧,Malabar
+酒吧,Makoto Sushi bar
+酒吧,Club Huancabamba
+酒吧,Stragos Karaoke Bar Boxes
+酒吧,Salon Capon
+酒吧,Bar Ingles
+酒吧,Ayahuasca bar
+酒吧,Edo Sushi Bar
+酒吧,Key Club
+酒吧,La Esquina Wine Bar
+酒吧,Amadeus Piano Bar
+酒吧,Club Suizo
+酒吧,"Rouge Bar, Miraflores"
+酒吧,Victoria Bar
+酒吧,SASHIMITO Sushi Bar
+酒吧,828 Restaurante Bar
+酒吧,Edo Sushi Bar
+酒吧,Arabica Espresso Bar and Gastro Bar
+酒吧,Izakaya Sushi Bar
+酒吧,Chabuca Restaurant and Bar
+酒吧,Estadio Futbol Club Restaurant

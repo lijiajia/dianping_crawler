@@ -1,0 +1,53 @@
+西餐,The Fat Duck,The Fat Duck,0,,7.0,7.0,7.1
+西餐,Hippopotamus Restaurant,Hippopotamus Restaurant,0,,8.1,8.1,8.1
+西餐,Natraj Restaurant,Natraj Restaurant,0,,7.1,7.0,7.0
+西餐,Boulcott Street Bistro Restaurant,Boulcott Street Bistro Restaurant,0,,0.0,0.0,0.0
+西餐,Bisque on Bolton Restaurant,Bisque on Bolton Restaurant,0,惠灵顿市中心,0.0,0.0,0.0
+中餐厅,Yangtze Chinese Licensed Restaurant,Yangtze Chinese Licensed Restaurant,0,惠灵顿市中心,0.0,0.0,0.0
+中餐厅,Gordon Ramsay Plane Food,Gordon Ramsay Plane Food,0,,0.0,0.0,0.0
+湘菜,欧巴私房菜,欧巴私房菜,0,,8.0,8.0,8.0
+东南亚菜,Aroy Thai Express,Aroy Thai Express,0,惠灵顿市中心,0.0,0.0,0.0
+东南亚菜,The Original Thai Restaurant,The Original Thai Restaurant,0,惠灵顿其他,0.0,0.0,0.0
+东南亚菜,Thai Canium,Thai Canium,0,惠灵顿其他,0.0,0.0,0.0
+海鲜,Ortega Fish Shack,Ortega Fish Shack,0,,0.0,0.0,0.0
+日韩料理,COHAN,COHAN,0,,7.1,7.2,7.2
+咖啡厅,Wine Loft,Wine Loft,0,惠灵顿市中心,0.0,0.0,0.0
+酒吧,Plum Cafe,Plum Cafe,0,惠灵顿市中心,7.2,7.7,7.7
+酒吧,J J Murphy & Co,J J Murphy & Co,0,惠灵顿市中心,0.0,0.0,0.0
+酒吧,Kelburn Village Pub,Kelburn Village Pub,0,惠灵顿市中心,0.0,0.0,0.0
+酒吧,D4 on Featherston,D4 on Featherston,0,,0.0,0.0,0.0
+酒吧,Hawthorn Lounge,Hawthorn Lounge,0,维多利亚山,0.0,0.0,0.0
+酒吧,Muse on Allen,Muse on Allen,0,维多利亚山,0.0,0.0,0.0
+酒吧,Strathmore Local,Strathmore Local,0,惠灵顿其他,0.0,0.0,0.0
+酒吧,The Stadium Bar,The Stadium Bar,0,惠灵顿其他,0.0,0.0,0.0
+酒吧,Espressoholic,Espressoholic,0,惠灵顿其他,0.0,0.0,0.0
+酒吧,Garden Club,Garden Club,0,惠灵顿市中心,0.0,0.0,0.0
+酒吧,Mighty Mighty,Mighty Mighty,0,惠灵顿市中心,0.0,0.0,0.0
+酒吧,the brühaus,the brühaus,0,惠灵顿市中心,0.0,0.0,0.0
+酒吧,Fork and Brewer,Fork and Brewer,0,惠灵顿市中心,0.0,0.0,0.0
+酒吧,Confidential,Confidential,0,惠灵顿市中心,0.0,0.0,0.0
+快餐,Mojo Coffee - Gilmer Terrace,Mojo Coffee - Gilmer Terrace,0,惠灵顿市中心,7.4,7.4,7.4
+快餐,Kingston Takeaways,Kingston Takeaways,0,,7.2,7.2,7.2
+快餐,KFC Kilbirnie,KFC Kilbirnie,0,惠灵顿其他,6.6,6.7,6.7
+快餐,Midnight Espresso,Midnight Espresso,0,惠灵顿市中心,0.0,0.0,0.0
+快餐,Kapai,Kapai,0,惠灵顿其他,0.0,0.0,0.0
+快餐,Mojo Coffee - Summit,Mojo Coffee - Summit,0,惠灵顿市中心,0.0,0.0,0.0
+快餐,The Larder,The Larder,0,惠灵顿其他,0.0,0.0,0.0
+快餐,Caribbean Coffee House,Caribbean Coffee House,0,惠灵顿市中心,0.0,0.0,0.0
+快餐,Coucou French Cafe and Restaurant,Coucou French Cafe and Restaurant,0,惠灵顿其他,0.0,0.0,0.0
+快餐,Meow,Meow,0,惠灵顿市中心,0.0,0.0,0.0
+快餐,The Old Bank Arcade & Chambers,The Old Bank Arcade & Chambers,0,惠灵顿市中心,0.0,0.0,0.0
+快餐,The Roxy Cinema,The Roxy Cinema,0,惠灵顿其他,0.0,0.0,0.0
+快餐,Michael Fowler Centre,Michael Fowler Centre,0,惠灵顿市中心,0.0,0.0,0.0
+快餐,Simply Paris,Simply Paris,0,惠灵顿市中心,0.0,0.0,0.0
+快餐,Huckleberry Cafe,Huckleberry Cafe,0,惠灵顿其他,0.0,0.0,0.0
+快餐,Mojo Coffee - Kumutoto,Mojo Coffee - Kumutoto,0,,0.0,0.0,0.0
+快餐,Cafe On Plimmer,Cafe On Plimmer,0,惠灵顿市中心,0.0,0.0,0.0
+快餐,mojo,mojo,0,惠灵顿其他,0.0,0.0,0.0
+快餐,Gasoline Cafe,Gasoline Cafe,0,惠灵顿市中心,0.0,0.0,0.0
+快餐,Little Peckish Cafe,Little Peckish Cafe,0,惠灵顿市中心,0.0,0.0,0.0
+比萨,Pizza King,Pizza King,0,惠灵顿市中心,0.0,0.0,0.0
+比萨,Pizza Pomodoro,Pizza Pomodoro,0,,0.0,0.0,0.0
+其他中餐,Regal Chinese Restaurant 豪苑酒楼,Regal Chinese Restaurant 豪苑酒楼,0,,8.4,8.4,8.4
+其他中餐,欧巴私房菜,欧巴私房菜,0,,8.0,8.0,8.0
+其他中餐,北京楼,北京楼,0,,6.8,7.3,7.3

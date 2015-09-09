@@ -1,0 +1,30 @@
+中餐厅,溯品私房菜,溯品私房菜,0,,7.5,7.5,7.5
+海鲜,The Lighthouse,The Lighthouse,0,,7.1,7.1,7.3
+海鲜,White Rabbit,White Rabbit,0,索卡海滩,0.0,0.0,0.0
+酒吧,The aquaRium Bar And Bungalows,The aquaRium Bar And Bungalows,0,,7.2,7.2,7.2
+酒吧,"""The Deck"" Tapas Bar","""The Deck"" Tapas Bar",0,,7.5,8.1,8.1
+酒吧,Sky Bar,Sky Bar,0,,7.1,7.1,7.1
+酒吧,Bar From Home,Bar From Home,0,,7.1,7.1,7.1
+酒吧,The Terrace Restaurant and Bar,The Terrace Restaurant and Bar,0,,7.3,7.3,7.1
+酒吧,The Corner Bar,The Corner Bar,0,,6.9,6.9,6.9
+酒吧,Bamboo Bar,Bamboo Bar,0,,7.0,7.0,7.0
+酒吧,The Purple Midget Bar,The Purple Midget Bar,0,,7.1,7.1,7.0
+酒吧,高龙岛之花,高龙岛之花,0,西哈努克其他,0.0,0.0,0.0
+咖啡厅,The aquaRium Bar And Bungalows,The aquaRium Bar And Bungalows,0,,7.2,7.2,7.2
+咖啡厅,The Barista Cafe,The Barista Cafe,0,,7.6,7.6,7.6
+咖啡厅,Mango Cafe,Mango Cafe,0,,7.2,7.2,7.2
+西餐,Grand Restaurant Kampuchea Restaurant,Grand Restaurant Kampuchea Restaurant,0,,7.2,7.2,7.5
+西餐,New Sea View Villa Restaurant,New Sea View Villa Restaurant,0,,7.1,7.1,7.1
+西餐,Happa's Restaurant,Happa's Restaurant,0,,7.1,7.1,7.0
+西餐,Greek Cousine Restaurant,Greek Cousine Restaurant,0,,7.1,7.1,7.1
+西餐,Dau's Restaurant,Dau's Restaurant,0,,7.0,7.0,7.0
+西餐,Carpe Diem Restaurant,Carpe Diem Restaurant,0,,7.3,7.1,7.1
+西餐,Friends Forever Restaurant,Friends Forever Restaurant,0,,7.1,7.1,7.1
+西餐,Gekko Restaurant,Gekko Restaurant,0,,6.9,6.9,6.9
+西餐,Lemongrass Restaurant,Lemongrass Restaurant,0,,7.2,7.2,7.7
+西餐,Reef Resort Restaurant,Reef Resort Restaurant,0,,7.2,7.2,7.2
+西餐,The Bavarian Guesthouse and German Restaurant,The Bavarian Guesthouse and German Restaurant,0,,7.1,7.1,6.8
+比萨,Ecstatic Pizza,Ecstatic Pizza,0,,7.7,7.5,7.4
+比萨,happy Sihanouk Ville pizza,happy Sihanouk Ville pizza,0,,0.0,0.0,0.0
+比萨,happy sihanouk ville pizza,happy sihanouk ville pizza,0,,0.0,0.0,0.0
+比萨,happy sihanouk ville pizza,happy sihanouk ville pizza,0,,0.0,0.0,0.0

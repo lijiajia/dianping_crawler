@@ -1,0 +1,353 @@
+意大利菜,Bar Mediterraneo Salisburgo,Bar Mediterraneo Salisburgo,0,萨尔茨堡旧城,0.0,0.0,0.0
+意大利菜,Ristorante Girasole,Ristorante Girasole,0,麦克斯格兰/机场,0.0,0.0,0.0
+意大利菜,Enoteca Settemila a.C.,Enoteca Settemila a.C.,0,新城,0.0,0.0,0.0
+意大利菜,Trattoria La Campana da Enzo,Trattoria La Campana da Enzo,0,萨尔茨堡旧城,0.0,0.0,0.0
+意大利菜,Trattoria,Trattoria,0,斯查姆斯,0.0,0.0,0.0
+意大利菜,Bella Vita,Bella Vita,0,斯查姆斯,0.0,0.0,0.0
+意大利菜,Il Padrino,Il Padrino,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+意大利菜,Das Restaurant Wasserfall,Das Restaurant Wasserfall,0,萨尔茨堡旧城,0.0,0.0,0.0
+意大利菜,Nabucco,Nabucco,0,里登堡,0.0,0.0,0.0
+意大利菜,Café-Bistro Pepita,Café-Bistro Pepita,0,萨尔茨堡旧城,0.0,0.0,0.0
+意大利菜,Pasta e Vino,Pasta e Vino,0,新城,0.0,0.0,0.0
+意大利菜,Cafe Tiziana,Cafe Tiziana,0,新城,0.0,0.0,0.0
+意大利菜,Antichi Sapori,Antichi Sapori,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Gabriela,Trattoria Gabriela,0,雷伯德斯克伦-穆斯,0.0,0.0,0.0
+意大利菜,Sabroson,Sabroson,0,新城,0.0,0.0,0.0
+意大利菜,Trattoria Domani,Trattoria Domani,0,萨尔茨堡旧城,0.0,0.0,0.0
+意大利菜,L'Osteria Salzburg,L'Osteria Salzburg,0,萨尔茨堡旧城,0.0,0.0,0.0
+意大利菜,bellinis salzburg,bellinis salzburg,0,萨尔茨堡旧城,0.0,0.0,0.0
+意大利菜,Ristorante Da Alberto,Ristorante Da Alberto,0,新城,0.0,0.0,0.0
+意大利菜,La Bruschetta,La Bruschetta,0,新城,0.0,0.0,0.0
+意大利菜,Cafe Restaurant Engljaehringer,Cafe Restaurant Engljaehringer,0,麦克斯格兰/机场,0.0,0.0,0.0
+意大利菜,D&S,D&S,0,其他,0.0,0.0,0.0
+意大利菜,Tratoria Italia,Tratoria Italia,0,伊特辛,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria daGiacomo,Ristorante Pizzeria daGiacomo,0,诺恩泰尔,0.0,0.0,0.0
+意大利菜,Pizzeria Il Centro,Pizzeria Il Centro,0,萨尔茨堡旧城,0.0,0.0,0.0
+意大利菜,Al Dente,Al Dente,0,斯查姆斯,0.0,0.0,0.0
+意大利菜,Sole mio,Sole mio,0,,7.0,6.9,7.0
+意大利菜,Di Renzi,Di Renzi,0,萨尔茨堡旧城,0.0,0.0,0.0
+墨西哥菜,Pepe,Pepe,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,托马塞利咖啡馆,托马塞利咖啡馆,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Zum Hirschenwirt,Zum Hirschenwirt,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+其他西餐,St. Peter Stiftskeller - das Restaurant,St. Peter Stiftskeller - das Restaurant,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Zum fidelen Affen,Zum fidelen Affen,0,新城,0.0,0.0,0.0
+其他西餐,Restaurant Herzstuck Salzburg,Restaurant Herzstuck Salzburg,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+其他西餐,Wilder Mann,Wilder Mann,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Barenwirt,Barenwirt,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant zur Festung Hohensalzburg,Restaurant zur Festung Hohensalzburg,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Raschhofer's,Raschhofer's,0,萨尔兹堡-苏德,0.0,0.0,0.0
+其他西餐,Sternbrau,Sternbrau,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Guerilla Burger,Guerilla Burger,0,诺恩泰尔,0.0,0.0,0.0
+其他西餐,Cafe Classic,Cafe Classic,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Resch & Lieblich,Resch & Lieblich,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Purzelbaum,Purzelbaum,0,诺恩泰尔,0.0,0.0,0.0
+其他西餐,SCHATZ KONDITOREI Salzburg,SCHATZ KONDITOREI Salzburg,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Festungsrestaurant,Festungsrestaurant,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Die Gersberg-Alm,Die Gersberg-Alm,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant from Hotel Goldene Ente,Restaurant from Hotel Goldene Ente,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,magazin restaurant bar,magazin restaurant bar,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Zum Guten Hirten,Zum Guten Hirten,0,伊特辛,0.0,0.0,0.0
+其他西餐,K+K Restaurants am Waagplatz,K+K Restaurants am Waagplatz,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Restaurant Elefant,Restaurant Elefant,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Jazzit:Bar,Jazzit:Bar,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+其他西餐,Cafe Uni: Versum,Cafe Uni: Versum,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,restaurant Marchhart's,restaurant Marchhart's,0,里登堡,0.0,0.0,0.0
+其他西餐,Cantina Levante,Cantina Levante,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Nestroy im Schauspielhaus,Nestroy im Schauspielhaus,0,诺恩泰尔,0.0,0.0,0.0
+其他西餐,Gasthaus Zwettler's Stiftskeller,Gasthaus Zwettler's Stiftskeller,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Itzlingerhof,Itzlingerhof,0,伊特辛,0.0,0.0,0.0
+其他西餐,Cafe Bazar,Cafe Bazar,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Salzachgrill,Salzachgrill,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Weiserhof,Weiserhof,0,斯查姆斯,0.0,0.0,0.0
+其他西餐,Gasthof/Gasthaus Alter Fuchs,Gasthof/Gasthaus Alter Fuchs,0,新城,0.0,0.0,0.0
+其他西餐,S'Kloane Brauhaus,S'Kloane Brauhaus,0,斯查姆斯,0.0,0.0,0.0
+其他西餐,Goldene Kugel,Goldene Kugel,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Schloss Aigen,Schloss Aigen,0,艾根,0.0,0.0,0.0
+其他西餐,Paul Stube,Paul Stube,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Franziskischloessl,Franziskischloessl,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Auerhahn,Auerhahn,0,伊特辛,0.0,0.0,0.0
+其他西餐,Triangel,Triangel,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Fingerlos,Fingerlos,0,新城,0.0,0.0,0.0
+其他西餐,Niemetz,Niemetz,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Kaffeehäferl Salzburg,Kaffeehäferl Salzburg,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Mercure Salzburg City ,Mercure Salzburg City ,0,斯查姆斯,0.0,0.0,0.0
+其他西餐,St. Paul's Stub'n Beer Garden,St. Paul's Stub'n Beer Garden,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Leichtsinn,Leichtsinn,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+其他西餐,Doktorwirt,Doktorwirt,0,艾根,0.0,0.0,0.0
+其他西餐,Alter Fuchs,Alter Fuchs,0,新城,0.0,0.0,0.0
+其他西餐,Stieglbrau,Stieglbrau,0,新城,0.0,0.0,0.0
+其他西餐,Stazione Cafe Bar,Stazione Cafe Bar,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+其他西餐,Die Weisse,Die Weisse,0,斯查姆斯,0.0,0.0,0.0
+其他西餐,monchsberg 32,monchsberg 32,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Gasthaus Stadtalm Cafe,Gasthaus Stadtalm Cafe,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Flavour Weinbar Restaurant,Flavour Weinbar Restaurant,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Shrimps Bar & Restaurant,Shrimps Bar & Restaurant,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Restaurant & Bar Stadtwirt,Restaurant & Bar Stadtwirt,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Urbankeller,Urbankeller,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Die Geheime Specerey,Die Geheime Specerey,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Blaue Gans,Blaue Gans,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Steirische Weinstuben Weiss Christina,Steirische Weinstuben Weiss Christina,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+其他西餐,Cafe Habakuk,Cafe Habakuk,0,新城,0.0,0.0,0.0
+其他西餐,Refettorio,Refettorio,0,新城,0.0,0.0,0.0
+其他西餐,Fuxn Salzburger Volkswirtschaft,Fuxn Salzburger Volkswirtschaft,0,斯查姆斯,0.0,0.0,0.0
+其他西餐,Pitterkeller,Pitterkeller,0,新城,0.0,0.0,0.0
+其他西餐,Stieglkeller,Stieglkeller,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,An-Bing,An-Bing,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Carpe Diem,Carpe Diem,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Hotel Bristol,Hotel Bristol,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Riedenburg,Riedenburg,0,里登堡,0.0,0.0,0.0
+其他西餐,Poseidon,Poseidon,0,里登堡,0.0,0.0,0.0
+其他西餐,Pommes Boutique,Pommes Boutique,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Gastlokal Fridrich,Gastlokal Fridrich,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Zirkelwirt - Maxglan,Zirkelwirt - Maxglan,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Hauser-Stub'n,Hauser-Stub'n,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Restaurant Atelier,Restaurant Atelier,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Belucci,Ristorante Belucci,0,其他,0.0,0.0,0.0
+其他西餐,Wirtshaus Schlössl,Wirtshaus Schlössl,0,其他,0.0,0.0,0.0
+其他西餐,SOG,SOG,0,诺恩泰尔,0.0,0.0,0.0
+其他西餐,Hotel und Gasthof Hoelle,Hotel und Gasthof Hoelle,0,格内斯,0.0,0.0,0.0
+其他西餐,Herzl,Herzl,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Zum Eulenspiegel,Zum Eulenspiegel,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Yuen China Restaurant,Yuen China Restaurant,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Akropolis,Akropolis,0,斯查姆斯,0.0,0.0,0.0
+其他西餐,Goldener Hirsch Gmbh,Goldener Hirsch Gmbh,0,其他,0.0,0.0,0.0
+其他西餐,Dubliner,Dubliner,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Marc,Marc,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Hagenauer Stub'n,Hagenauer Stub'n,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Alt Salzburg,Alt Salzburg,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,BaustO,BaustO,0,新城,0.0,0.0,0.0
+其他西餐,Alchimiste Belge,Alchimiste Belge,0,新城,0.0,0.0,0.0
+其他西餐,Cafe Wernbacher,Cafe Wernbacher,0,新城,0.0,0.0,0.0
+其他西餐,"Hirschenwirt, Bio-Wirtshaus","Hirschenwirt, Bio-Wirtshaus",0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+其他西餐,Stiegl Braustuberl,Stiegl Braustuberl,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Restaurant Esszimmer,Restaurant Esszimmer,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Zur Einkehr,Zur Einkehr,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Cafe Restaurant im Gwandhaus,Cafe Restaurant im Gwandhaus,0,其他,0.0,0.0,0.0
+其他西餐,Augustiner Braustueberl,Augustiner Braustueberl,0,其他,0.0,0.0,0.0
+其他西餐,Krimpelstatter,Krimpelstatter,0,其他,0.0,0.0,0.0
+其他西餐,Weiherwirt GmbH,Weiherwirt GmbH,0,里登堡,0.0,0.0,0.0
+其他西餐,Zum Strasserwirt,Zum Strasserwirt,0,里登堡,0.0,0.0,0.0
+其他西餐,Gosser-Stub'n,Gosser-Stub'n,0,里登堡,0.0,0.0,0.0
+其他西餐,Gasthof Brandstaetter,Gasthof Brandstaetter,0,里佛令,0.0,0.0,0.0
+其他西餐,Ceconi's,Ceconi's,0,诺恩泰尔,0.0,0.0,0.0
+其他西餐,Luritzhofer's CafeCult im Kunstlerhaus,Luritzhofer's CafeCult im Kunstlerhaus,0,诺恩泰尔,0.0,0.0,0.0
+其他西餐,Knodlerei,Knodlerei,0,诺恩泰尔,0.0,0.0,0.0
+其他西餐,Reiterhof Moos,Reiterhof Moos,0,雷伯德斯克伦-穆斯,0.0,0.0,0.0
+其他西餐,Bloberger Hof,Bloberger Hof,0,雷伯德斯克伦-穆斯,0.0,0.0,0.0
+其他西餐,Schone Aussicht,Schone Aussicht,0,霍伊博格,0.0,0.0,0.0
+其他西餐,Holle,Holle,0,格内斯,0.0,0.0,0.0
+其他西餐,Pan e Vin,Pan e Vin,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Zum Mohren,Zum Mohren,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Bastians,Bastians,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Kaffeehaferl,Kaffeehaferl,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Maredo,Maredo,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Humboldt Stubn,Humboldt Stubn,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Braumeister,Braumeister,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Beverly,Beverly,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Gablerbrau,Gablerbrau,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Stadtkrug Restaurant,Stadtkrug Restaurant,0,新城,0.0,0.0,0.0
+其他西餐,Daily Joy Cafe Bar Bistro,Daily Joy Cafe Bar Bistro,0,新城,0.0,0.0,0.0
+其他西餐,Bruderlein Fein,Bruderlein Fein,0,新城,0.0,0.0,0.0
+其他西餐,Hofwirt,Hofwirt,0,新城,0.0,0.0,0.0
+其他西餐,Istra Enotek,Istra Enotek,0,新城,0.0,0.0,0.0
+其他西餐,Shakespeare,Shakespeare,0,新城,0.0,0.0,0.0
+其他西餐,Wirtshaus zum Hirsche,Wirtshaus zum Hirsche,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+其他西餐,Meli & Melo,Meli & Melo,0,斯查姆斯,0.0,0.0,0.0
+其他西餐,Gasthaus Kuglhof,Gasthaus Kuglhof,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Bodega Tapas Bar & Cafe,Bodega Tapas Bar & Cafe,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Gasthof zum Noisternig,Gasthof zum Noisternig,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Zum Buberlgut,Zum Buberlgut,0,其他,0.0,0.0,0.0
+其他西餐,BioBurgerMeister,BioBurgerMeister,0,其他,0.0,0.0,0.0
+其他西餐,Pfenninger Alm,Pfenninger Alm,0,其他,0.0,0.0,0.0
+其他西餐,Konditorei-Cafe Wagner Martin,Konditorei-Cafe Wagner Martin,0,里登堡,0.0,0.0,0.0
+其他西餐,Kohlpeter,Kohlpeter,0,里佛令,0.0,0.0,0.0
+其他西餐,Hubers Im Fischerwirt,Hubers Im Fischerwirt,0,里佛令,0.0,0.0,0.0
+其他西餐,Hartlwirt,Hartlwirt,0,里佛令,0.0,0.0,0.0
+其他西餐,Genussprojekt,Genussprojekt,0,里佛令,0.0,0.0,0.0
+其他西餐,Gasthaus Gärtnerwirt Salzburg-Itzling,Gasthaus Gärtnerwirt Salzburg-Itzling,0,伊特辛,0.0,0.0,0.0
+其他西餐,Kirchenwirt zu Itzling,Kirchenwirt zu Itzling,0,伊特辛,0.0,0.0,0.0
+其他西餐,Zur Kapelle,Zur Kapelle,0,伊特辛,0.0,0.0,0.0
+其他西餐,Gasthof Uberfuhr,Gasthof Uberfuhr,0,艾根,0.0,0.0,0.0
+其他西餐,Steinlechner- Jedermanns Wirtshaus,Steinlechner- Jedermanns Wirtshaus,0,艾根,0.0,0.0,0.0
+其他西餐,Restaurant Hellbrunn,Restaurant Hellbrunn,0,诺恩泰尔,0.0,0.0,0.0
+其他西餐,Mostwastl,Mostwastl,0,雷伯德斯克伦-穆斯,0.0,0.0,0.0
+其他西餐,Gasthof Reiterhof,Gasthof Reiterhof,0,雷伯德斯克伦-穆斯,0.0,0.0,0.0
+其他西餐,Restaurant Bar Schmederer,Restaurant Bar Schmederer,0,帕尔施,0.0,0.0,0.0
+其他西餐,Bierheuriger,Bierheuriger,0,帕尔施,0.0,0.0,0.0
+其他西餐,Andreas Hofer,Andreas Hofer,0,帕尔施,0.0,0.0,0.0
+其他西餐,Marios Taverna,Marios Taverna,0,其他,0.0,0.0,0.0
+其他西餐,ARGE Beisl,ARGE Beisl,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,La Stella,La Stella,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Mattseer Stiftskeller,Mattseer Stiftskeller,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Altstadtheuriger im Bruderhof,Altstadtheuriger im Bruderhof,0,新城,0.0,0.0,0.0
+其他西餐,Papeo,Papeo,0,新城,0.0,0.0,0.0
+其他西餐,Restaurant Mundenhamer,Restaurant Mundenhamer,0,新城,0.0,0.0,0.0
+其他西餐,Drei Hasen,Drei Hasen,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Vita @ Posthof,Vita @ Posthof,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Restaurant La Piazza,Restaurant La Piazza,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Café Pamina,Café Pamina,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Cafe Mozartwinkel,Cafe Mozartwinkel,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Cafe Stierwascher,Cafe Stierwascher,0,萨尔茨堡旧城,0.0,0.0,0.0
+其他西餐,Couscous & Tajine,Couscous & Tajine,0,新城,0.0,0.0,0.0
+其他西餐,LOKARL,LOKARL,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+其他西餐,Gasthaus Untersberg,Gasthaus Untersberg,0,麦克斯格兰/机场,0.0,0.0,0.0
+其他西餐,Interspar-Restaurant,Interspar-Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Petersbrunnhof,Petersbrunnhof,0,诺恩泰尔,0.0,0.0,0.0
+其他西餐,Interspar-Restaurant,Interspar-Restaurant,0,乐昂,0.0,0.0,0.0
+其他西餐,ROSSBRÄU,ROSSBRÄU,0,其他,0.0,0.0,0.0
+其他西餐,Zirklewirt,Zirklewirt,0,其他,0.0,0.0,0.0
+其他西餐,Mensa an der Universitat,Mensa an der Universitat,0,诺恩泰尔,0.0,0.0,0.0
+中餐,Lin's Garden,Lin's Garden,0,里登堡,0.0,0.0,0.0
+中餐,China Restaurant Chinatown,China Restaurant Chinatown,0,萨尔茨堡旧城,0.0,0.0,0.0
+中餐,Shanghai Town,Shanghai Town,0,新城,0.0,0.0,0.0
+中餐,Chinesische Mauer,Chinesische Mauer,0,艾根,0.0,0.0,0.0
+中餐,Happy Asia,Happy Asia,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+中餐,Peking,Peking,0,麦克斯格兰/机场,0.0,0.0,0.0
+中餐,Mandarin Chinese Restauranr,Mandarin Chinese Restauranr,0,斯查姆斯,0.0,0.0,0.0
+中餐,Fu China Restaurant,Fu China Restaurant,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+中餐,Asia Palace,Asia Palace,0,斯查姆斯,0.0,0.0,0.0
+日韩料理,Nagano,Nagano,0,萨尔茨堡旧城,0.0,0.0,0.0
+日韩料理,Hibiskus,Hibiskus,0,新城,0.0,0.0,0.0
+日韩料理,Fujiya,Fujiya,0,帕尔施,0.0,0.0,0.0
+日韩料理,Tokyo Bay,Tokyo Bay,0,乐昂,0.0,0.0,0.0
+日韩料理,TOKYO Japanese and Sushi Restaurant,TOKYO Japanese and Sushi Restaurant,0,新城,0.0,0.0,0.0
+更多亚洲菜,Bangkok,Bangkok,0,斯查姆斯,0.0,0.0,0.0
+更多亚洲菜,Pho 18,Pho 18,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多亚洲菜,My Indigo,My Indigo,0,新城,0.0,0.0,0.0
+更多亚洲菜,Spicy Spices,Spicy Spices,0,新城,0.0,0.0,0.0
+更多亚洲菜,Asia Kitchen,Asia Kitchen,0,新城,0.0,0.0,0.0
+更多亚洲菜,my Indigo Rudolfskai,my Indigo Rudolfskai,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多亚洲菜,Vietnamesisches Restaurant LongLong,Vietnamesisches Restaurant LongLong,0,乐昂,0.0,0.0,0.0
+更多亚洲菜,my Indigo Herrnau,my Indigo Herrnau,0,萨尔兹堡-苏德,0.0,0.0,0.0
+更多亚洲菜,Saran Essbar,Saran Essbar,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多亚洲菜,The Fox Bistro,The Fox Bistro,0,乐昂,0.0,0.0,0.0
+更多亚洲菜,Tajmahal,Tajmahal,0,斯查姆斯,0.0,0.0,0.0
+更多亚洲菜,Pan Asia,Pan Asia,0,麦克斯格兰/机场,0.0,0.0,0.0
+更多亚洲菜,Indigo,Indigo,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kathmandu Restaurant and Bar,Kathmandu Restaurant and Bar,0,里登堡,0.0,0.0,0.0
+更多亚洲菜,HUY Cook and Eat,HUY Cook and Eat,0,里佛令,0.0,0.0,0.0
+更多亚洲菜,Hanas Rasoi,Hanas Rasoi,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多亚洲菜,Maharaja,Maharaja,0,乐昂,0.0,0.0,0.0
+快餐简餐,Daimler's Bar & Grill,Daimler's Bar & Grill,0,萨尔茨堡旧城,0.0,0.0,0.0
+快餐简餐,Restaurant Zoos,Restaurant Zoos,0,萨尔兹堡-苏德,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,斯查姆斯,0.0,0.0,0.0
+快餐简餐,Lemonchilli,Lemonchilli,0,诺恩泰尔,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,萨尔茨堡旧城,0.0,0.0,0.0
+海鲜,Pescheria Backi,Pescheria Backi,0,新城,0.0,0.0,0.0
+烧烤,Balkan Grill Walter,Balkan Grill Walter,0,萨尔茨堡旧城,0.0,0.0,0.0
+烧烤,Mosty Grill,Mosty Grill,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+比萨,Ristorante Pizzeria Beccofino,Ristorante Pizzeria Beccofino,0,新城,0.0,0.0,0.0
+比萨,Schnaitl Pub,Schnaitl Pub,0,新城,0.0,0.0,0.0
+比萨,Da Ciro,Da Ciro,0,斯查姆斯,0.0,0.0,0.0
+比萨,Pizzamann,Pizzamann,0,伊特辛,0.0,0.0,0.0
+比萨,Pizza City,Pizza City,0,,0.0,0.0,0.0
+咖啡厅,托马塞利咖啡馆,托马塞利咖啡馆,0,萨尔茨堡旧城,0.0,0.0,0.0
+咖啡厅,Cafe-Konditorei Fürst,Cafe-Konditorei Fürst(萨尔斯堡一店),0,艾根,6.9,7.0,6.9
+咖啡厅,Cafe Wurfelzucker,Cafe Wurfelzucker,0,萨尔茨堡旧城,0.0,0.0,0.0
+咖啡厅,the heart of joy cafe,the heart of joy cafe,0,新城,0.0,0.0,0.0
+咖啡厅,Kaffee-Alchemie,Kaffee-Alchemie,0,萨尔茨堡旧城,0.0,0.0,0.0
+咖啡厅,Cafe Sacher,Cafe Sacher,0,萨尔茨堡旧城,0.0,0.0,0.0
+咖啡厅,Cup&Cino,Cup&Cino,0,新城,0.0,0.0,0.0
+咖啡厅,Cafe Mozart,Cafe Mozart,0,萨尔茨堡旧城,0.0,0.0,0.0
+咖啡厅,"Diva - Cupcakes, Coffee & Shop","Diva - Cupcakes, Coffee & Shop",0,新城,0.0,0.0,0.0
+咖啡厅,We Love Coffee Mozartsteg,We Love Coffee Mozartsteg,0,萨尔茨堡旧城,0.0,0.0,0.0
+咖啡厅,Stadtcafe,Stadtcafe,0,萨尔茨堡旧城,0.0,0.0,0.0
+咖啡厅,Cafe am Kai,Cafe am Kai,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Wiesenhof,Cafe Wiesenhof,0,,6.9,6.9,6.9
+咖啡厅,Cafe Haindl,Cafe Haindl,0,,6.9,6.9,6.9
+咖啡厅,Piazza Pizzeria Cafe - Restaurant,Piazza Pizzeria Cafe - Restaurant,0,,6.7,6.7,6.9
+咖啡厅,Café Pamina,Café Pamina,0,萨尔茨堡旧城,0.0,0.0,0.0
+咖啡厅,Cafe Getreidegasse,Cafe Getreidegasse,0,萨尔茨堡旧城,0.0,0.0,0.0
+咖啡厅,Republic,Republic,0,其他,0.0,0.0,0.0
+咖啡厅,Lackner's Cafe-Bistro,Lackner's Cafe-Bistro,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe-Konditorei Fürst,Cafe-Konditorei Fürst(萨尔斯堡二店),0,萨尔茨堡旧城,0.0,0.0,0.0
+面包甜点,Der 1. Original Brezlstand in Salzburg,Der 1. Original Brezlstand in Salzburg,0,萨尔茨堡旧城,0.0,0.0,0.0
+面包甜点,Balthazar Cafe and Sandwich Bar,Balthazar Cafe and Sandwich Bar,0,萨尔茨堡旧城,0.0,0.0,0.0
+面包甜点,Eisgrotte,Eisgrotte,0,新城,0.0,0.0,0.0
+面包甜点,Rialto,Rialto,0,萨尔茨堡旧城,0.0,0.0,0.0
+面包甜点,Cafe Konditorei Fuerst,Cafe Konditorei Fuerst,0,萨尔茨堡旧城,0.0,0.0,0.0
+面包甜点,220 GRAD,220 GRAD,0,萨尔茨堡旧城,0.0,0.0,0.0
+酒吧,Zipfer Bierhaus,Zipfer Bierhaus,0,萨尔茨堡旧城,0.0,0.0,0.0
+酒吧,Monkeys Cafe.Bar,Monkeys Cafe.Bar,0,萨尔茨堡旧城,0.0,0.0,0.0
+酒吧,Bistro Sheraton Salzburg,Bistro Sheraton Salzburg,0,新城,0.0,0.0,0.0
+酒吧,Murphy's Law Irish Pub,Murphy's Law Irish Pub,0,萨尔茨堡旧城,0.0,0.0,0.0
+酒吧,Fridrich,Fridrich,0,萨尔茨堡旧城,0.0,0.0,0.0
+酒吧,Salzburger Altstadtkeller,Salzburger Altstadtkeller,0,萨尔茨堡旧城,0.0,0.0,0.0
+酒吧,Cafe/ Bar Gluxfall Salzburg,Cafe/ Bar Gluxfall Salzburg,0,乐昂,0.0,0.0,0.0
+酒吧,Rossbrau Herrnau,Rossbrau Herrnau,0,萨尔兹堡-苏德,0.0,0.0,0.0
+酒吧,Republik Bar,Republik Bar,0,,6.9,6.9,6.9
+酒吧,Stagebar salzburg,Stagebar salzburg,0,萨尔茨堡旧城,0.0,0.0,0.0
+酒吧,Saitensprung,Saitensprung,0,其他,0.0,0.0,0.0
+更多美食,Scio's Specereyen,Scio's Specereyen,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Ambiente,Ambiente,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+更多美食,The Green Garden,The Green Garden,0,诺恩泰尔,0.0,0.0,0.0
+更多美食,Bar Mayday - Red Bull Hangar-7,Bar Mayday - Red Bull Hangar-7,0,麦克斯格兰/机场,0.0,0.0,0.0
+更多美食,Cappomio Kaigasse,Cappomio Kaigasse,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Backerei Holztrattner,Backerei Holztrattner,0,萨尔兹堡-苏德,0.0,0.0,0.0
+更多美食,Da Noi,Da Noi,0,萨尔兹堡-苏德,0.0,0.0,0.0
+更多美食,Wastlwirt,Wastlwirt,0,麦克斯格兰/机场,0.0,0.0,0.0
+更多美食,Hinterbruhl,Hinterbruhl,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Restaurant Schloss Monchstein,Restaurant Schloss Monchstein,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,COCO- Genuss nach Sri Lanka Art,COCO- Genuss nach Sri Lanka Art,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+更多美食,World of Asia,World of Asia,0,帕尔施,0.0,0.0,0.0
+更多美食,"Burgschenke, Burgsaal","Burgschenke, Burgsaal",0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Becher Kuchle,Becher Kuchle,0,新城,0.0,0.0,0.0
+更多美食,Badas Buffet,Badas Buffet,0,斯查姆斯,0.0,0.0,0.0
+更多美食,Zum 3 Genuss,Zum 3 Genuss,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+更多美食,Koechelverzeichnis,Koechelverzeichnis,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Paris Lodron,Paris Lodron,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Stary's Genusswelt,Stary's Genusswelt,0,麦克斯格兰/机场,0.0,0.0,0.0
+更多美食,Cafe Konditorei Melanie,Cafe Konditorei Melanie,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Acapulco,Restaurant Acapulco,0,伊特辛,0.0,0.0,0.0
+更多美食,Pomodoro,Pomodoro,0,格尼格尔,0.0,0.0,0.0
+更多美食,Restaurant Mercure Salzburg Kapuzinerberg,Restaurant Mercure Salzburg Kapuzinerberg,0,斯查姆斯,0.0,0.0,0.0
+更多美食,Austria Trend Hotel Europa Salzburg,Austria Trend Hotel Europa Salzburg,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+更多美食,Steinterrasse,Steinterrasse,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Mozarts Espresso Gourmet,Mozarts Espresso Gourmet,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,da Pippo,da Pippo,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Restaurant Mirabell,Restaurant Mirabell,0,新城,0.0,0.0,0.0
+更多美食,Picnic Musikcafe Bistro,Picnic Musikcafe Bistro,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Afro Cafe,Afro Cafe,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Maier's Gastro,Maier's Gastro,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Salzburg,Salzburg,0,新城,0.0,0.0,0.0
+更多美食,Kushi Hachi,Kushi Hachi,0,麦克斯格兰/机场,0.0,0.0,0.0
+更多美食,Brandtners Mithridat,Brandtners Mithridat,0,诺恩泰尔,0.0,0.0,0.0
+更多美食,Cafe Matteo,Cafe Matteo,0,诺恩泰尔,0.0,0.0,0.0
+更多美食,Gasthaus Pflegerbrucke,Gasthaus Pflegerbrucke,0,雷伯德斯克伦-穆斯,0.0,0.0,0.0
+更多美食,Herbert,Herbert,0,格内斯,0.0,0.0,0.0
+更多美食,Osteria Cavalli,Osteria Cavalli,0,里登堡,0.0,0.0,0.0
+更多美食,Il Sole,Il Sole,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Spaghetti & Co,Spaghetti & Co,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Steakhouse Obertrum,Steakhouse Obertrum,0,其他,0.0,0.0,0.0
+更多美食,Casablanca,Casablanca,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Ossi Spezialitaten,Ossi Spezialitaten,0,新城,0.0,0.0,0.0
+更多美食,Mangoes,Mangoes,0,新城,0.0,0.0,0.0
+更多美食,Cup n Cino,Cup n Cino,0,新城,0.0,0.0,0.0
+更多美食,Imlauer,Imlauer,0,新城,0.0,0.0,0.0
+更多美食,Pizza Pronto Salzburg,Pizza Pronto Salzburg,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+更多美食,Wiener Cafe & Restaurant Johann,Wiener Cafe & Restaurant Johann,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+更多美食,Boomerang Pub,Boomerang Pub,0,斯查姆斯,0.0,0.0,0.0
+更多美食,Airest Restaurant Globetrotter,Airest Restaurant Globetrotter,0,麦克斯格兰/机场,0.0,0.0,0.0
+更多美食,Nox,Nox,0,麦克斯格兰/机场,0.0,0.0,0.0
+更多美食,restaurant winter.garten,restaurant winter.garten,0,其他,0.0,0.0,0.0
+更多美食,Rossbrau Gastronomie,Rossbrau Gastronomie,0,其他,0.0,0.0,0.0
+更多美食,Wartenberg am Jakobsweg,Wartenberg am Jakobsweg,0,里登堡,0.0,0.0,0.0
+更多美食,Pizzeria Emporio,Pizzeria Emporio,0,伊特辛,0.0,0.0,0.0
+更多美食,Das Parasol,Das Parasol,0,萨尔兹堡-苏德,0.0,0.0,0.0
+更多美食,Pier 17,Pier 17,0,萨尔兹堡-苏德,0.0,0.0,0.0
+更多美食,Zum Lowenstern Restaurant,Zum Lowenstern Restaurant,0,格尼格尔,0.0,0.0,0.0
+更多美食,Uncle Van,Uncle Van,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Icezeit,Icezeit,0,新城,0.0,0.0,0.0
+更多美食,Bar Roque,Bar Roque,0,伊莉莎白-沃斯塔德,0.0,0.0,0.0
+更多美食,Prosecco,Prosecco,0,其他,0.0,0.0,0.0
+更多美食,Casino Restaurant,Casino Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Osteria da Ciccio,Osteria da Ciccio,0,里佛令,0.0,0.0,0.0
+更多美食,Restaurant Salieri,Restaurant Salieri,0,萨尔兹堡-苏德,0.0,0.0,0.0
+更多美食,Pliemgut,Pliemgut,0,艾根,0.0,0.0,0.0
+更多美食,Schachlwirt,Schachlwirt,0,雷伯德斯克伦-穆斯,0.0,0.0,0.0
+更多美食,Felsenkeller,Felsenkeller,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Symphonie Restaurant,Symphonie Restaurant,0,萨尔茨堡旧城,0.0,0.0,0.0
+更多美食,Fasties,Fasties,0,新城,0.0,0.0,0.0
+更多美食,Weinstockl,Weinstockl,0,麦克斯格兰/机场,0.0,0.0,0.0
+更多美食,Ashoka,Ashoka,0,里登堡,0.0,0.0,0.0
+更多美食,Donna's Thaikuche Thai Imbiss Salzburg,Donna's Thaikuche Thai Imbiss Salzburg,0,里登堡,0.0,0.0,0.0

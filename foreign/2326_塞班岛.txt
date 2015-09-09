@@ -1,0 +1,95 @@
+法国菜,Dolphine,Dolphine,0,其他城市,0.0,0.0,0.0
+意大利菜,amigo意式餐厅,amigo意式餐厅,0,,8.3,8.5,8.7
+意大利菜,Giovanni's,Giovanni's,0,加拉,0.0,0.0,0.0
+意大利菜,Dining & Bar 747,Dining & Bar 747,0,加拉,0.0,0.0,0.0
+意大利菜,La Trattoria,La Trattoria,0,其他城市,0.0,0.0,0.0
+墨西哥菜,Jonny's Bar & Grill,Jonny's Bar & Grill,0,加拉,0.0,0.0,0.0
+墨西哥菜,Taco Bell,Taco Bell,0,塞班岛,7.1,6.9,7.0
+其他西餐,Tony Roma's,Tony Roma's,235,塞班岛,8.9,8.9,8.9
+其他西餐,Country House,Country House,176,塞班岛,8.4,9.0,8.8
+其他西餐,Capricciosa卡布里乔莎餐厅,Capricciosa卡布里乔莎餐厅,112,,8.5,7.8,7.6
+其他西餐,KFC and Taco Bell,KFC and Taco Bell,0,,7.5,7.5,7.5
+其他西餐,Cafe&Restaurant N@chan!chi,Cafe&Restaurant N@chan!chi,0,加拉,0.0,0.0,0.0
+其他西餐,haiku,haiku,0,加拉,8.3,8.3,8.3
+其他西餐,乡村餐厅,乡村餐厅,0,,8.0,6.8,8.0
+其他西餐,The Coffee Room N-106,The Coffee Room N-106,0,其他城市,7.4,7.4,7.4
+其他西餐,Coffee & Jazz,Coffee & Jazz,0,其他城市,0.0,0.0,0.0
+其他西餐,Siberia Restaurant,Siberia Restaurant,0,其他城市,0.0,0.0,0.0
+快餐简餐,麦当劳,麦当劳,50,加拉,8.3,8.2,8.4
+快餐简餐,军舰岛餐厅,军舰岛餐厅,65,,7.1,6.8,6.9
+快餐简餐,Capricciosa卡布里乔莎餐厅,Capricciosa卡布里乔莎餐厅,112,,8.5,7.8,7.6
+快餐简餐,台湾牛肉面,台湾牛肉面,0,,7.8,7.2,7.4
+快餐简餐,聚友轩(中餐),聚友轩(中餐),0,,8.3,7.9,8.3
+快餐简餐,大长今,大长今,0,,7.0,7.1,7.3
+快餐简餐,台湾牛肉面,台湾牛肉面,0,,8.3,7.4,7.8
+快餐简餐,Revolving Restaurant 360,Revolving Restaurant 360,0,其他城市,0.0,0.0,0.0
+快餐简餐,Wild Bill's,Wild Bill's,0,加拉,0.0,0.0,0.0
+快餐简餐,麦当劳,麦当劳,0,加拉,7.5,7.5,7.5
+快餐简餐,Cafe at the Park,Cafe at the Park,0,其他城市,6.7,7.4,7.4
+快餐简餐,乡村餐厅,乡村餐厅,0,,8.0,6.8,8.0
+快餐简餐,聚友轩,聚友轩,0,,8.2,8.2,8.2
+快餐简餐,Godfather's Bar,Godfather's Bar,0,其他城市,6.7,6.7,6.7
+快餐简餐,Coffee Care Saipan,Coffee Care Saipan,0,其他城市,7.4,7.4,7.4
+快餐简餐,Shirley's Coffee Shop,Shirley's Coffee Shop,0,其他城市,7.3,7.3,7.3
+快餐简餐,Round Two,Round Two,0,其他城市,6.7,6.7,7.4
+快餐简餐,Oleai Beach Bar & Grill,Oleai Beach Bar & Grill,0,其他城市,0.0,0.0,0.0
+快餐简餐,East West,East West,0,其他城市,0.0,0.0,0.0
+快餐简餐,Gentle Brook Cafe,Gentle Brook Cafe,0,其他城市,0.0,0.0,0.0
+海鲜,塞班悦泰自助餐厅（world cafe）,塞班悦泰自助餐厅（world cafe）,125,加拉,8.3,8.6,8.4
+海鲜,咪咪家的餐厅,咪咪家的餐厅,0,塞班岛,7.7,7.6,8.2
+海鲜,广州小菜馆,广州小菜馆,0,,8.5,7.1,7.9
+海鲜,HAIKU seafood,HAIKU seafood,0,,8.3,8.3,8.3
+海鲜,鳄鱼头海滩,鳄鱼头海滩,0,塞班岛,0.0,0.0,0.0
+中餐,广州小菜馆,广州小菜馆,0,加拉,8.8,7.4,8.2
+中餐,大可以,大可以,141,加拉,8.3,7.8,8.1
+中餐,华山亭,华山亭,0,塞班岛,6.7,6.5,6.4
+中餐,Happiness Chinese Restaurant,Happiness Chinese Restaurant,0,加拉,7.3,7.1,6.8
+中餐,The Shack-Saipan Beach Side Cafe,The Shack-Saipan Beach Side Cafe,0,机场,0.0,0.0,0.0
+日韩料理,金八,金八,196,塞班岛,7.8,8.2,8.0
+日韩料理,Himawari,Himawari,92,其他城市,8.8,8.4,8.6
+日韩料理,将军,将军,0,塞班岛,7.5,7.2,7.3
+日韩料理,Seoul One,Seoul One,0,加拉,0.0,0.0,0.0
+日韩料理,Miyako,Miyako,0,其他城市,0.0,0.0,0.0
+日韩料理,chun ji restaurant,chun ji restaurant,0,加拉,7.0,6.7,6.7
+日韩料理,Myung Dong Korean Restaurant,Myung Dong Korean Restaurant,0,加拉,0.0,0.0,0.0
+日韩料理,Tori Hide En,Tori Hide En,0,其他城市,0.0,0.0,0.0
+日韩料理,Abyss Fisherman's Bar & Restaurant,Abyss Fisherman's Bar & Restaurant,0,其他城市,0.0,0.0,0.0
+酒吧,D'Elegance Cafe,D'Elegance Cafe,0,,7.0,6.7,7.0
+酒吧,gig酒吧,gig酒吧,0,,7.3,7.5,7.5
+酒吧,日落酒吧与烧烤餐厅,日落酒吧与烧烤餐厅,0,机场,0.0,0.0,0.0
+酒吧,GIG night club,GIG night club,0,,8.4,8.4,8.4
+更多亚洲菜,Restaurant Truong,Restaurant Truong,71,其他城市,8.4,8.3,8.1
+更多亚洲菜,World Cafe Fiesta Resort & Spa Saipan,World Cafe Fiesta Resort & Spa Saipan,0,加拉,8.0,7.7,7.7
+更多亚洲菜,Thai House,Thai House,0,其他城市,8.1,7.6,7.9
+更多亚洲菜,Wild Bill's,Wild Bill's,0,加拉,0.0,0.0,0.0
+更多亚洲菜,spicy thai noodle place,spicy thai noodle place,0,加拉,7.8,7.8,7.8
+更多亚洲菜,阿格莱亚融合餐厅,阿格莱亚融合餐厅,0,塞班岛,7.1,7.1,7.1
+更多亚洲菜,Caravan Healthy Foods,Caravan Healthy Foods,0,加拉,0.0,0.0,0.0
+更多亚洲菜,Feel - Cafe & Bar,Feel - Cafe & Bar,0,加拉,0.0,0.0,0.0
+更多亚洲菜,Island Dinning and Bar Aglala,Island Dinning and Bar Aglala,0,其他城市,0.0,0.0,0.0
+咖啡厅,hard rock,hard rock,229,塞班岛,8.0,8.5,8.5
+咖啡厅,D'Elegance Cafe,D'Elegance Cafe,0,,7.0,6.7,7.0
+咖啡厅,The Naked Fish,The Naked Fish,0,加拉,0.0,0.0,0.0
+咖啡厅,The Shack-Saipan Beach Side Cafe,The Shack-Saipan Beach Side Cafe,0,机场,0.0,0.0,0.0
+披萨,American pizza & Grill,American pizza & Grill,0,,0.0,0.0,0.0
+披萨,American pizza & Grill,American pizza & Grill,0,,0.0,0.0,0.0
+披萨,American pizza & Grill,American pizza & Grill,0,,0.0,0.0,0.0
+面包甜点,Winchell's Donuts House,Winchell's Donuts House,10,加拉,7.4,7.2,7.6
+面包甜点,subway,subway,30,加拉,7.6,7.4,7.3
+面包甜点,GODIVA,GODIVA,0,加拉,8.3,8.3,8.3
+面包甜点,Sweet Escape,Sweet Escape,0,其他城市,0.0,0.0,0.0
+烧烤,摩洛哥夜市,摩洛哥夜市,0,,6.8,6.5,6.4
+烧烤,Sunset Beach BBQ,Sunset Beach BBQ,0,其他城市,7.2,8.0,7.6
+烧烤,大长今,大长今,0,,7.0,7.1,7.3
+烧烤,查莫洛夜市,查莫洛夜市,0,塞班岛,7.3,7.3,7.3
+烧烤,Cafe&Restaurant N@chan!chi,Cafe&Restaurant N@chan!chi,0,加拉,0.0,0.0,0.0
+其他美食,海景酒家 Saipan Seaside ResTaurAnt,海景酒家 Saipan Seaside ResTaurAnt,0,塞班岛,7.1,6.8,7.3
+其他美食,CoCo Restaurant,CoCo Restaurant,0,加拉,8.1,7.4,7.6
+其他美食,"Capricciosa, Saipan Garapan","Capricciosa, Saipan Garapan",0,其他城市,8.3,7.9,7.6
+其他美食,Shenanigans,Shenanigans,0,其他城市,0.0,0.0,0.0
+其他美食,Poon's Restaurant,Poon's Restaurant,0,加拉,0.0,0.0,0.0
+其他美食,Nami Restaurant,Nami Restaurant,0,其他城市,0.0,0.0,0.0
+其他美食,Nin-Nikuya Grotto,Nin-Nikuya Grotto,0,加拉,0.0,0.0,0.0
+其他美食,SOS Bar&Grill,SOS Bar&Grill,0,加拉,0.0,0.0,0.0
+其他美食,Casa Urashima,Casa Urashima,0,其他城市,0.0,0.0,0.0
+其他美食,Tropical Blendz,Tropical Blendz,0,其他城市,0.0,0.0,0.0

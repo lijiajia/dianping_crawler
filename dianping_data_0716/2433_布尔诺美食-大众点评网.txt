@@ -1,0 +1,304 @@
+意大利菜,Il Mercato
+意大利菜,Pizza Zakki
+意大利菜,Grandeeza
+意大利菜,Ristorante Pizzeria Leonessa
+意大利菜,Ristorante Rialto
+意大利菜,Spolek
+意大利菜,Italia Bar Pizzeria
+意大利菜,Cattani Pasta Bar
+意大利菜,Pasta Di Gusto
+意大利菜,La Patas
+意大利菜,Cafe Tripoli
+意大利菜,Restaurant Cizare Leopolda
+意大利菜,Pizza Coloseum Brno
+意大利菜,Jet cafe
+意大利菜,Suzie's Pizzerie and Restaurant
+意大利菜,Piccolo Mondo
+意大利菜,Cafe encounter
+意大利菜,Carpe Diem
+意大利菜,Caruso PIzza
+意大利菜,Comodo
+意大利菜,Ristorante Italia
+意大利菜,Castellana Bistro
+意大利菜,Mariani Ristorante Pizzeria
+意大利菜,Fausto Coppi
+法国菜,La Bouchee
+法国菜,L' Eau Vive
+法国菜,Calypso
+法国菜,Ristorante l'Abbuffata
+墨西哥菜,Don Miguel
+墨西哥菜,Don Miguel's Bar
+其他西餐,U Blahovky
+其他西餐,Palazzo Restaurant
+其他西餐,Forhaus
+其他西餐,Wine cellar of the Moravian Bank of wine
+其他西餐,Restaurant Prominent
+其他西餐,Brabander Restaurant
+其他西餐,U vsech certu
+其他西餐,Bar Ktery Neexistuje
+其他西餐,Tulip Restaurant
+其他西餐,Kavarna Era
+其他西餐,Borgo Agnese
+其他西餐,Starobrno Brewery
+其他西餐,Pivovarska pivnice
+其他西餐,Skanzeen
+其他西餐,Adria
+其他西餐,Baroko Vinarna & Restaurant
+其他西餐,Spolek
+其他西餐,Hansen Restaurant
+其他西餐,Na Svabce
+其他西餐,Pivni Opice
+其他西餐,Cafe Steiner
+其他西餐,U Capa
+其他西餐,Pod Lekarnou
+其他西餐,Vegalite
+其他西餐,Vytopna
+其他西餐,Monte Bu restaurant a steakhouse
+其他西餐,Posledni Kapka
+其他西餐,En Elladi
+其他西餐,Campea
+其他西餐,Galerie a kavarna pod Petrovem
+其他西餐,Baker street
+其他西餐,"U Rytire, ...pivni a vinny bar"
+其他西餐,Vytopna restaurant caffe
+其他西餐,Vinnysklipek
+其他西餐,Don Pintxos
+其他西餐,Babinski Bistro
+其他西餐,Coffee Heaven
+其他西餐,Plzenka
+其他西餐,Restaurant U Rudeho Vola
+其他西餐,Restaurace a Pizzerie Tora
+其他西餐,"Rytirska Krcma, Brno"
+其他西餐,Kings Head Restaurant - Pub
+其他西餐,Szeged
+其他西餐,RESTAURACE NA VYHLIDCE aneb U CERNE BABY
+其他西餐,Myslivecky Klub Hubert
+其他西餐,Linden Restaurant
+其他西餐,A La Carte Restaurant
+其他西餐,Restaurant MITROVSKI
+其他西餐,Raj Hlinky
+其他西餐,Sklipecek
+其他西餐,Gyros Taverna Athena
+其他西餐,Cerveny drak
+其他西餐,Diva Bara
+其他西餐,Iron Horse
+其他西餐,StarobrnEnska restaurace
+其他西餐,Restaurace LLOYDS
+其他西餐,Tomato Fresh Restaurant
+其他西餐,Don Miguel's Bar
+其他西餐,U 3 Opic
+其他西餐,Bavorska
+其他西餐,Na Kytnerce
+其他西餐,The PUB Brno
+其他西餐,Varna
+其他西餐,Modra Ruze
+其他西餐,Drevena ruze
+其他西餐,Pivovar Magistr
+其他西餐,Plzensky dvur
+其他西餐,Na purkynce
+其他西餐,Club Desert
+其他西餐,Podobrazy Kavarna
+其他西餐,Zemanova kavarna
+其他西餐,Cernohorska pivnice
+其他西餐,U Hlucheho Zmije
+其他西餐,Stan's Grill
+其他西餐,Sklipek
+其他西餐,Bufet FI
+中餐,Shanghai Restaurant
+中餐,Chutne stesti
+日韩料理,Koishi
+日韩料理,Sushi Ya
+日韩料理,MOMO Sushi
+日韩料理,Kodo Japanese Restaurant
+更多亚洲菜,PadThai
+更多亚洲菜,Flavours
+更多亚洲菜,Anna Pura
+更多亚洲菜,Kupe
+更多亚洲菜,Satyam
+更多亚洲菜,Light of India
+更多亚洲菜,Buddha
+更多亚洲菜,Anapurna
+更多亚洲菜,Dessert
+快餐简餐,BUTCHER'S Grill & Pasta
+快餐简餐,Rosnicka
+海鲜,Pizzeria Belveder
+烧烤,Sunset restaurant
+烧烤,Monte Bu restaurant a steakhouse
+烧烤,Toulavy Kocour pub
+咖啡厅,Air Cafe
+咖啡厅,Cafe Mitte
+咖啡厅,AVIA
+咖啡厅,Cosmopolis Cafe
+咖啡厅,Placz Cafe
+咖啡厅,Galerie a kavarna pod Petrovem
+咖啡厅,Cafe Tungsram
+咖啡厅,Andel Cafe
+咖啡厅,Galerie caffe
+咖啡厅,Cafe Cocktail Bar Skrin
+咖啡厅,Rendez-vous Cafe
+咖啡厅,KLAFE
+咖啡厅,Cafe Coffee Day Emporio
+咖啡厅,Kavarna Pod Hodinami
+咖啡厅,Cafe Sixties
+咖啡厅,Galeryje 9
+面包甜点,Cafe DanaD
+面包甜点,La Bouche
+酒吧,Vinoteka Vinecko Brno
+酒吧,The Immigrant
+酒吧,Havana Club Bar
+酒吧,Cafe Onyx
+酒吧,Rendez-vous Cafe
+酒吧,U Fidela
+酒吧,Boby Centrum
+酒吧,Sound Caffe & Bar Vyhlidka
+酒吧,Dolni Oblast
+酒吧,Sklep
+更多美食,Pod Radnicnim Kolem
+更多美食,Pegas
+更多美食,Stopkova plzenska pivnice
+更多美食,Stredoveka krcma
+更多美食,Spalicek
+更多美食,Cosmopolis Cafe
+更多美食,Zelena kocka Pivarium
+更多美食,Hotel Slavia
+更多美食,Valoria
+更多美食,Rebio
+更多美食,Leporelo +
+更多美食,Vycep Na stojaka
+更多美食,Pavillon restaurant
+更多美食,Potrefena Husa
+更多美食,Bistro Franz
+更多美食,U Staryho Billa
+更多美食,Hostinec U Seminaru
+更多美食,Havana Restaurant
+更多美食,Italia Bar
+更多美食,Parnas Caffe
+更多美食,Two Faces Cocktail Bar Cafe
+更多美食,Caffe Fratelli
+更多美食,Rebio
+更多美食,Cafe Podnebi
+更多美食,Coctail Bar Aloha
+更多美食,Cerny Medved
+更多美食,Jakoby
+更多美食,Bohema
+更多美食,Laguna
+更多美食,Park Lane Cafe
+更多美食,La Strada
+更多美食,Espanola - Restaurante & Tapas Bar
+更多美食,Sabaidy
+更多美食,Klub Cestovatelu
+更多美食,Pivni a vinny senk Zelezna ruze
+更多美食,Fleda Music Club
+更多美食,Zelena Kocka
+更多美食,Sharingham
+更多美食,Tripoli Restaurant
+更多美食,Jazz bar U kouriciho kralika
+更多美食,Myslivna Restaurant
+更多美食,Sport bar ARENA
+更多美食,Whisky Bar Valevil
+更多美食,Whisky Bar
+更多美食,Mamut Pub
+更多美食,Kabaret Spacek
+更多美食,Vesela husa
+更多美食,Le Grand
+更多美食,Alimentari Italia - italske pochoutky
+更多美食,Empire 1 Josefska
+更多美食,Silingrak Cocktail Bar
+更多美食,Mazany Andel
+更多美食,Staropramen Koncept
+更多美食,Pod Spilberkem
+更多美食,Grill Bar Amsterdam
+更多美食,Empire 2 Svobodak
+更多美食,Stredoveka krcma
+更多美食,Ristorante Piazza
+更多美食,Highlander
+更多美食,Elektra Pub
+更多美食,U vsech certu (Dvorakova)
+更多美食,Jedna basen
+更多美食,U Josta
+更多美食,La Solitaire cafe & bar
+更多美食,"Sherlock Holmes Pub, s.r.o."
+更多美食,Panoptikum
+更多美食,Savoy
+更多美食,Cafe 99
+更多美食,Pomaly Bar
+更多美食,Thalie
+更多美食,East Village Bar & Diner
+更多美食,Kafec
+更多美食,Bistro Le Social
+更多美食,"U lavky, IBC"
+更多美食,Kolbaba
+更多美食,Akademicka kavarna a vinoteka
+更多美食,U Lucerny
+更多美食,4 Roses Restaurant
+更多美食,Sklenena Louka
+更多美食,Ctyri Ruze
+更多美食,Boulevard restaurant
+更多美食,Ekvador
+更多美食,Mydlo
+更多美食,Merci Restaurant
+更多美食,U Prumyslovky
+更多美食,Central Restaurant Cafe
+更多美食,Cafe 04
+更多美食,Biskupska Vinarna
+更多美食,Transistor
+更多美食,U Richarda
+更多美食,Steak House K1
+更多美食,Na Piave
+更多美食,Amfora
+更多美食,Hotel Sladovna
+更多美食,Green
+更多美食,Kanas
+更多美食,Yacht Club
+更多美食,John Silver Taverna
+更多美食,Zamecka restaurant Krtiny
+更多美食,U Kralovny Elisky
+更多美食,Nika
+更多美食,Pivni bar Marley
+更多美食,Pizzerie Tyrkys
+更多美食,U Drevaka
+更多美食,Al capone
+更多美食,Pohadkova hospudka
+更多美食,Noem Arch
+更多美食,U Sulaka
+更多美食,U pantatu
+更多美食,Steak House K1
+更多美食,Paladeo
+更多美食,Paladeo Restaurante
+更多美食,Velorex
+更多美食,Vista Restaurant
+更多美食,Gyropolis
+更多美食,Nordsee Galerie Vankovka
+更多美食,KFC Brno Masarykova
+更多美食,Royal Ricc
+更多美食,Zelena kocka Dalesicky Pivovarsky Restaurant
+更多美食,Plznicka u Formana
+更多美食,Vesela Vacice
+更多美食,Kafe do vany
+更多美食,Salon Daguerre
+更多美食,Restaurace Formanka
+更多美食,Divadelni sklep Nekonecno
+更多美食,Traubka
+更多美食,U Krouzku
+更多美食,Gingilla
+更多美食,La Peda
+更多美食,Wayland club
+更多美食,Cafe Gaviota
+更多美食,Restaurace Aura
+更多美食,Schnitzelhouse
+更多美食,Bowling Cihelna
+更多美食,A-Sporthotel Restaurant
+更多美食,"Kamenka, Duck bar"
+更多美食,Restaurace Spalicek
+更多美食,Chajovna
+更多美食,Freeland
+更多美食,Surda
+更多美食,U Kormidla
+更多美食,Paterlord
+更多美食,Zorbas
+更多美食,KINO ART - BAR PROMITACKA + KAVARNA ARTISTU
+更多美食,U Kastelana
+更多美食,Alterna
+更多美食,La Rossa
+更多美食,Hacienda Mexicana
+更多美食,Deja vu

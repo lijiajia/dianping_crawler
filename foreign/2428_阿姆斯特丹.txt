@@ -1,0 +1,2304 @@
+意大利菜,Hasta La Pasta,Hasta La Pasta,0,市中心(Amsterdam Centrum),8.4,6.9,8.2
+意大利菜,Il Tramezzino,Il Tramezzino,0,市中心(Amsterdam Centrum),7.8,7.8,7.8
+意大利菜,Al Ponte - Caffe' Italiano,Al Ponte - Caffe' Italiano,0,市中心(Amsterdam Centrum),8.3,8.3,8.3
+意大利菜,Bussia,Bussia,0,市中心(Amsterdam Centrum),8.1,8.5,8.1
+意大利菜,Casa Nostra,Casa Nostra,0,南区老城(Amsterdam Oud-Zuid),7.7,7.7,7.7
+意大利菜,Trattoria Caprese Amsterdam,Trattoria Caprese Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Julia's Pasta,Julia's Pasta,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Ristorante Il Fiore,Ristorante Il Fiore,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Gastronomia Gianni,Gastronomia Gianni,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+意大利菜,Caldi e freddi,Caldi e freddi,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+意大利菜,Pasta Pasta,Pasta Pasta,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Ristorante Pizzeria Doria,Ristorante Pizzeria Doria,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+意大利菜,Pizzeria-Lunchroom Amsterdam,Pizzeria-Lunchroom Amsterdam,0,市中心(Amsterdam Centrum),6.6,6.8,6.8
+意大利菜,Chicanos,Chicanos,0,市中心(Amsterdam Centrum),7.2,6.8,6.8
+意大利菜,Cafe-Restaurant IL Panorama,Cafe-Restaurant IL Panorama,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Palladio Restaurant,Palladio Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Restaurant D Antica,Restaurant D Antica,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Da Giorgio,Da Giorgio,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Casa di David,Casa di David,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Ciro Passami L'Olio,Ciro Passami L'Olio,0,旧西区(Oud-West),7.2,7.2,7.2
+意大利菜,Koffie Cultuur Centrum,Koffie Cultuur Centrum,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+意大利菜,Teatina,Teatina,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+意大利菜,Pasta e Basta,Pasta e Basta,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Ristorante Pepe,Ristorante Pepe,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Pane E Olio,Pane E Olio,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Antonio's Ristorante Italiano,Antonio's Ristorante Italiano,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Ponte Arcari,Ponte Arcari,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Restaurant Monteverde,Restaurant Monteverde,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,Pompa,Pompa,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,Vapiano,Vapiano,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Ristorante Savini,Ristorante Savini,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Sicilia,Sicilia,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+意大利菜,Pisa,Pisa,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Cichetti,Cichetti,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+意大利菜,Bar Italia,Bar Italia,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Trattoria Toto,Trattoria Toto,0,旧西区(Oud-West),7.2,7.2,7.2
+意大利菜,Domino's Pizza,Domino's Pizza,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+意大利菜,Calzone,Calzone,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+意大利菜,Roberto's,Roberto's,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,Libero,Libero,0,祖德马斯特尔(Zuideramstel),7.7,7.7,7.2
+意大利菜,Gustavino,Gustavino,0,祖德马斯特尔(Zuideramstel),7.1,6.8,7.1
+意大利菜,Wannemakers,Wannemakers,0,市中心(Amsterdam Centrum),7.2,7.7,7.2
+意大利菜,Pasta Factory,Pasta Factory,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,ristorante italano maria,ristorante italano maria,0,市中心(Amsterdam Centrum),6.7,7.0,6.7
+意大利菜,IL Pacioccone,IL Pacioccone,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+意大利菜,Lost in Amsterdam,Lost in Amsterdam,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Mondo Mediterraneo / Uptown,Mondo Mediterraneo / Uptown,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+意大利菜,Sogno,Sogno,0,旧西区(Oud-West),7.2,7.2,7.2
+意大利菜,Coffee Gallery,Coffee Gallery,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+意大利菜,Cucina Casalinga,Cucina Casalinga,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+意大利菜,Spaghetteria,Spaghetteria,0,南区老城(Amsterdam Oud-Zuid),7.3,7.1,7.1
+意大利菜,Segugio,Segugio,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Ristorante Italiano Peppino,Ristorante Italiano Peppino,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Pino Divino,Pino Divino,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Ristorante Pizzeria Piccolino,Ristorante Pizzeria Piccolino,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Trattoria Fantasia,Trattoria Fantasia,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Saturnino,Saturnino,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Frenzi,Frenzi,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,A Tavola,A Tavola,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Restaurant Gusto,Restaurant Gusto,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Poco Loco,Poco Loco,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Vapiano,Vapiano,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Pasta Bar,Pasta Bar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Hostaria,Hostaria,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Assaggi,Assaggi,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Burger's Patio,Burger's Patio,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Scossa Restaurant,Scossa Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Eetcafe Koevoet,Eetcafe Koevoet,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Toscanini,Toscanini,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Restaurant Toscana,Restaurant Toscana,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,De Pizzabakkers,De Pizzabakkers,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Dal Barone,Dal Barone,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,Bella Vista,Bella Vista,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,Sardegna,Sardegna,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,Bellini,Bellini,0,祖德马斯特尔(Zuideramstel),7.2,7.2,7.2
+意大利菜,Felicita,Felicita,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Ristorante Venezia,Ristorante Venezia,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Pizza Pino,Pizza Pino,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Rstorante Italiano ,Rstorante Italiano ,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+意大利菜,Palorma,Palorma,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Il Primo Ristorante,Il Primo Ristorante,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Le Cafeier,Le Cafeier,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Barista,Barista,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Lunch Cafe Blom,Lunch Cafe Blom,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Talia,Talia,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+意大利菜,San Tommaso - MG,San Tommaso - MG,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Renato's Pizzeria,Renato's Pizzeria,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.1
+意大利菜,Mangiancora,Mangiancora,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.0
+意大利菜,Gino,Gino,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+意大利菜,De Pizzakamer,De Pizzakamer,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+意大利菜,Scottadito,Scottadito,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.0
+意大利菜,L'Incontro Trattoria,L'Incontro Trattoria,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+意大利菜,Ristorante Due Napoletani,Ristorante Due Napoletani,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+意大利菜,Deegrollers,Deegrollers,0,旧西区(Oud-West),7.1,7.1,7.1
+意大利菜,Bloem op IJburg,Bloem op IJburg,0,海堡(Zeeburg),7.1,7.1,7.1
+意大利菜,Magazzino,Magazzino,0,海堡(Zeeburg),7.1,7.1,7.1
+意大利菜,Il Pecorino,Il Pecorino,0,北区(Amsterdam-Noord),7.1,7.1,7.1
+意大利菜,Bar Spek,Bar Spek,0,杜巴罗斯(De Baarsjes),7.1,7.1,7.1
+意大利菜,Porto Carrara,Porto Carrara,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+意大利菜,Ristorante Pizzeria Torino,Ristorante Pizzeria Torino,0,市中心(Amsterdam Centrum),7.0,7.1,7.1
+意大利菜,Caruso,Caruso,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+意大利菜,Mondo Mediterraneo / Eastside,Mondo Mediterraneo / Eastside,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+意大利菜,IJssalon Tofani,IJssalon Tofani,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+意大利菜,Ava Cyril,Ava Cyril,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+意大利菜,Banco-Solo,Banco-Solo,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+意大利菜,Pizzeria San Marco,Pizzeria San Marco,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+意大利菜,Massimo,Massimo,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+意大利菜,Mambo Pasta,Mambo Pasta,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+意大利菜,Trattoria Da Damiano Milano,Trattoria Da Damiano Milano,0,旧西区(Oud-West),7.0,7.0,6.9
+意大利菜,Picobello,Picobello,0,旧西区(Oud-West),6.9,6.9,6.9
+意大利菜,Horno la Maria,Horno la Maria,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+意大利菜,Carvallino,Carvallino,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+意大利菜,Lago Maggiore,Lago Maggiore,0,海堡(Zeeburg),7.0,7.0,6.9
+意大利菜,Pasta Vino,Pasta Vino,0,海堡(Zeeburg),7.0,7.0,7.0
+意大利菜,Noord,Noord,0,北区(Amsterdam-Noord),6.9,6.9,6.9
+意大利菜,Uliveto,Uliveto,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+意大利菜,La Storia della Vita,La Storia della Vita,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Il Boccalino,Il Boccalino,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Trattoria That's Amore,Trattoria That's Amore,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Utrechtsedwarstafel,Utrechtsedwarstafel,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Al Bacaro,Al Bacaro,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Marcello's Delicatessen,Marcello's Delicatessen,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+意大利菜,Sette Bello,Sette Bello,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Cucina Tipica Italiana,Cucina Tipica Italiana,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+意大利菜,Casa Di Sergio,Casa Di Sergio,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,O Sole Mio,O Sole Mio,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,ISOLA BELLA,ISOLA BELLA,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,La Madonnina,La Madonnina,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+意大利菜,Bella Regina,Bella Regina,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Vinomio,Vinomio,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Eatmosfera Ristorante,Eatmosfera Ristorante,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Sapori Del Mondo,Sapori Del Mondo,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Campo Di Fiori,Campo Di Fiori,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Pizzeria La Traviata,Pizzeria La Traviata,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+意大利菜,Panini,Panini,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Romana,Romana,0,市中心(Amsterdam Centrum),7.5,7.1,7.1
+意大利菜,Da Antonio,Da Antonio,0,市中心(Amsterdam Centrum),6.7,6.9,6.7
+意大利菜,Pianeta Terra,Pianeta Terra,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,La Piccola Trattoria Da Tonino,La Piccola Trattoria Da Tonino,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Cibo & Vino,Cibo & Vino,0,市中心(Amsterdam Centrum),7.1,7.3,7.1
+意大利菜,Assagio,Assagio,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+意大利菜,La Festa,La Festa,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,La Tosca,La Tosca,0,市中心(Amsterdam Centrum),6.5,6.5,6.5
+意大利菜,Cafe Piazza,Cafe Piazza,0,市中心(Amsterdam Centrum),7.2,7.7,7.2
+意大利菜,Quattro Gatti,Quattro Gatti,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Lagonda,Lagonda,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+意大利菜,Il Sogno Amsterdam,Il Sogno Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,The Views,The Views,0,市中心(Amsterdam Centrum),6.6,6.8,6.8
+意大利菜,Ristorante Italia Oggi,Ristorante Italia Oggi,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Bellino Italian Restaurant,Bellino Italian Restaurant,0,市中心(Amsterdam Centrum),6.8,7.1,6.8
+意大利菜,Il Mare,Il Mare,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Restaurant Come Back,Restaurant Come Back,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+意大利菜,Italian,Italian,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+意大利菜,Azzurro,Azzurro,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Bettola,Bettola,0,市中心(Amsterdam Centrum),6.9,7.0,6.9
+意大利菜,Restaurant dolce vita,Restaurant dolce vita,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,San Tommaso - WS,San Tommaso - WS,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Pizzeria Tivoli,Pizzeria Tivoli,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,San Stefano,San Stefano,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+意大利菜,La Perla,La Perla,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Cafe De Klepel,Cafe De Klepel,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+意大利菜,Cinema Paradiso,Cinema Paradiso,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+意大利菜,Il Mattarello,Il Mattarello,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+意大利菜,Pizzaria Orvieto,Pizzaria Orvieto,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,diVino Wine Bar,diVino Wine Bar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,Moods Coffee Corner,Moods Coffee Corner,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Pizzeria La Vita,Pizzeria La Vita,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+意大利菜,L' Arena,L' Arena,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+意大利菜,L'Arena,L'Arena,0,南区老城(Amsterdam Oud-Zuid),7.0,6.9,7.0
+意大利菜,Ristorante La Favola,Ristorante La Favola,0,南区老城(Amsterdam Oud-Zuid),7.1,7.3,7.1
+意大利菜,Pomorosso,Pomorosso,0,南区老城(Amsterdam Oud-Zuid),7.3,7.1,7.1
+意大利菜,Trattoria Triolo,Trattoria Triolo,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+意大利菜,Caffe 500,Caffe 500,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+意大利菜,Ciro 1939,Ciro 1939,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.7
+意大利菜,Ristorante Le 4 Stagioni,Ristorante Le 4 Stagioni,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,Yscuypje,Yscuypje,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+意大利菜,Restaurant Di Sale,Restaurant Di Sale,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,L'Ozio,L'Ozio,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,Restaurant Classico,Restaurant Classico,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,Caffe Parma,Caffe Parma,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,6.9
+意大利菜,Angoletto,Angoletto,0,南区老城(Amsterdam Oud-Zuid),6.9,6.7,6.7
+意大利菜,Vasso,Vasso,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,Italians Restaurant,Italians Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,6.8
+意大利菜,Canaleto,Canaleto,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+意大利菜,De Pizzabakkers Overtoom,De Pizzabakkers Overtoom,0,旧西区(Oud-West),7.1,7.1,7.1
+意大利菜,Frenzi Cucina,Frenzi Cucina,0,南区老城(Amsterdam Oud-Zuid),7.5,7.1,7.1
+意大利菜,Ristorante Italiano Fiorentino,Ristorante Italiano Fiorentino,0,旧西区(Oud-West),7.1,7.1,6.8
+意大利菜,Bella Vita,Bella Vita,0,旧西区(Oud-West),7.0,7.0,6.9
+意大利菜,Cantinetta Wine & Pasta,Cantinetta Wine & Pasta,0,旧西区(Oud-West),7.2,7.2,7.2
+意大利菜,Pizzeria Fuoco Vivo,Pizzeria Fuoco Vivo,0,旧西区(Oud-West),7.2,7.2,7.2
+意大利菜,Incanto,Incanto,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+意大利菜,Ferrara,Ferrara,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,7.0
+意大利菜,Mangiassai,Mangiassai,0,沃特格拉斯米尔(Watergraafsmeer),7.1,6.8,6.8
+意大利菜,Oost pizza pasta,Oost pizza pasta,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,7.0
+意大利菜,Gusto Di Casto,Gusto Di Casto,0,祖德马斯特尔(Zuideramstel),6.7,6.9,6.9
+意大利菜,Italiaans Eetcafe I Trulli,Italiaans Eetcafe I Trulli,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+意大利菜,Comfort Caffe,Comfort Caffe,0,海堡(Zeeburg),7.0,7.0,7.0
+意大利菜,Cafe Modern,Cafe Modern,0,北区(Amsterdam-Noord),7.6,7.2,7.2
+意大利菜,San Remo,San Remo,0,北区(Amsterdam-Noord),7.0,7.0,7.0
+意大利菜,PizzaPastaPanini,PizzaPastaPanini,0,阿姆斯特丹国际机场周边,6.9,6.7,6.9
+意大利菜,Bella Storia,Bella Storia,0,西部公园区(Westerpark),7.1,7.1,7.1
+意大利菜,Holy Ravioli,Holy Ravioli,0,西部公园区(Westerpark),7.1,7.0,7.0
+意大利菜,Pinsa's Restaurant,Pinsa's Restaurant,0,西部公园区(Westerpark),7.2,7.2,7.2
+意大利菜,Donna Sofia,Donna Sofia,0,其他,7.2,7.2,7.2
+意大利菜,Casa Di Maggio,Casa Di Maggio,0,杜巴罗斯(De Baarsjes),7.0,7.0,7.0
+意大利菜,Bella Italia,Bella Italia,0,杜巴罗斯(De Baarsjes),6.9,6.7,6.7
+意大利菜,San Giovanni,San Giovanni,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+意大利菜,La Madonna,La Madonna,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+意大利菜,Capri,Capri,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+意大利菜,Destra del Ponte,Destra del Ponte,0,市中心(Amsterdam Centrum),6.7,6.7,6.9
+意大利菜,Portofino,Portofino,0,市中心(Amsterdam Centrum),6.6,6.6,6.6
+法国菜,Riva,Riva,0,沃特格拉斯米尔(Watergraafsmeer),7.5,8.0,8.0
+法国菜,Sluizer,Sluizer,0,市中心(Amsterdam Centrum),7.0,7.5,7.5
+法国菜,La Brochette,La Brochette,0,祖德马斯特尔(Zuideramstel),7.5,7.5,7.5
+法国菜,Restaurant Johannes,Restaurant Johannes,0,市中心(Amsterdam Centrum),7.7,7.7,7.2
+法国菜,La Sirène,La Sirène,0,南区老城(Amsterdam Oud-Zuid),7.6,7.2,7.2
+法国菜,Le Camelia brasserie,Le Camelia brasserie,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+法国菜,Restaurant Vermont,Restaurant Vermont,0,祖德马斯特尔(Zuideramstel),7.1,7.1,7.1
+法国菜,Fashion’s Restaurant & Bar,Fashion’s Restaurant & Bar,0,斯洛特瓦特(Slotervaart),7.3,7.3,7.1
+法国菜,Volt,Volt,0,南区老城(Amsterdam Oud-Zuid),7.1,7.3,7.1
+法国菜,Grandcafe Hermes,Grandcafe Hermes,0,赫曾费尔德-斯洛特湖,7.2,7.2,7.2
+法国菜,Floor 17,Floor 17,0,斯洛特瓦特(Slotervaart),7.2,7.2,7.2
+法国菜,Humphrey's,Humphrey's,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Dik & Cunningham,Dik & Cunningham,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+法国菜,De Veranda,De Veranda,0,祖德马斯特尔(Zuideramstel),7.1,7.1,7.1
+法国菜,Taste of Okura,Taste of Okura,0,其他,6.9,6.9,6.9
+法国菜,Bordewijk,Bordewijk,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+法国菜,Beddington's,Beddington's,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,"Come Restaurant, Bar & Lounge","Come Restaurant, Bar & Lounge",0,市中心(Amsterdam Centrum),7.1,7.1,6.8
+法国菜,Brasserie FLO Amsterdam,Brasserie FLO Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Bord'Eau,Bord'Eau,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Van Vlaanderen,Van Vlaanderen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Gartine,Gartine,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+法国菜,Brasserie Maxie's,Brasserie Maxie's,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+法国菜,Wannemakers,Wannemakers,0,市中心(Amsterdam Centrum),7.2,7.7,7.2
+法国菜,Brasserie Blazer,Brasserie Blazer,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+法国菜,Restaurant Vermeer,Restaurant Vermeer,0,市中心(Amsterdam Centrum),7.7,7.7,7.2
+法国菜,Zaza's,Zaza's,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+法国菜,Small Talk Het Restaurant,Small Talk Het Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+法国菜,Berlagerie,Berlagerie,0,杜巴罗斯(De Baarsjes),6.9,6.9,6.9
+法国菜,Wijnbar Boelen & Boelen,Wijnbar Boelen & Boelen,0,南区老城(Amsterdam Oud-Zuid),7.3,7.1,7.1
+法国菜,Restaurant Bonjour,Restaurant Bonjour,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,'t Fornuis,'t Fornuis,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Land van Walem,Land van Walem,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Hoofdstad Brasserie,Hoofdstad Brasserie,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,The Dylan,The Dylan,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Luden,Luden,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Buffet Van Odette,Buffet Van Odette,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Van Harte,Van Harte,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Restaurant Seven Seas,Restaurant Seven Seas,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Christophe,Christophe,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Burger's Patio,Burger's Patio,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Noordwest,Noordwest,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Restaurant Simpel,Restaurant Simpel,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+法国菜,Mamouche,Mamouche,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+法国菜,Bicken,Bicken,0,旧西区(Oud-West),7.2,7.2,7.2
+法国菜,Het Bosch,Het Bosch,0,祖德马斯特尔(Zuideramstel),7.2,7.2,7.2
+法国菜,Brasserie Richard,Brasserie Richard,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+法国菜,RAZMATAZ,RAZMATAZ,0,西部公园区(Westerpark),7.2,7.2,7.2
+法国菜,Cafe Amsterdam,Cafe Amsterdam,0,西部公园区(Westerpark),7.2,7.2,7.2
+法国菜,Bloem 36,Bloem 36,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+法国菜,Brasserie OCCO,Brasserie OCCO,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+法国菜,Stadscafé van Mechelen,Stadscafé van Mechelen,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+法国菜,Pilsvogel,Pilsvogel,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+法国菜,Poptasi Pastry,Poptasi Pastry,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.0
+法国菜,Pastis,Pastis,0,旧西区(Oud-West),7.1,7.1,7.1
+法国菜,Restaurant Bidou,Restaurant Bidou,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+法国菜,vrijburcht cafe,vrijburcht cafe,0,海堡(Zeeburg),7.0,7.0,7.1
+法国菜,Creperie au Grand Marnier,Creperie au Grand Marnier,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+法国菜,The 5th / Fifth,The 5th / Fifth,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+法国菜,Cineac,Cineac,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+法国菜,Freddys Bar,Freddys Bar,0,其他,7.0,7.0,7.0
+法国菜,Manger Maintenant,Manger Maintenant,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+法国菜,Cafe Macy's,Cafe Macy's,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+法国菜,STACH-food,STACH-food,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+法国菜,Brasserie Lairesse,Brasserie Lairesse,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+法国菜,Dok48,Dok48,0,海堡(Zeeburg),7.0,7.0,7.0
+法国菜,Care de L Est,Care de L Est,0,海堡(Zeeburg),6.9,6.9,6.9
+法国菜,Grandpa's Bistro,Grandpa's Bistro,0,海堡(Zeeburg),6.9,6.9,6.9
+法国菜,Piet de Gruyter,Piet de Gruyter,0,西部公园区(Westerpark),6.9,7.0,7.0
+法国菜,La Suite,La Suite,0,杜巴罗斯(De Baarsjes),7.0,7.0,7.0
+法国菜,Le Rendez Vous,Le Rendez Vous,0,市中心(Amsterdam Centrum),6.8,6.8,7.1
+法国菜,Utrechtsedwarstafel,Utrechtsedwarstafel,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Le Zinc Et Les Autres,Le Zinc Et Les Autres,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Antoine,Antoine,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+法国菜,Elkaar,Elkaar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Bo Cinq,Bo Cinq,0,市中心(Amsterdam Centrum),7.2,6.8,7.2
+法国菜,Restaurant RED Amsterdam,Restaurant RED Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Restaurant Quartier Latin,Restaurant Quartier Latin,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+法国菜,L'Express,L'Express,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Thijs Restaurant,Thijs Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Vinkeles,Vinkeles,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Beems,Beems,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+法国菜,Bridges,Bridges,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,'t Markerhuisje,'t Markerhuisje,0,市中心(Amsterdam Centrum),7.0,7.1,7.0
+法国菜,Gebr. Hartering,Gebr. Hartering,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Restaurant Reflet,Restaurant Reflet,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Hemelse Modder,Hemelse Modder,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Moes,Moes,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Cannibale Royale,Cannibale Royale,0,其他,7.1,7.1,7.1
+法国菜,Restaurant Côte Ouest,Restaurant Côte Ouest,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Graves Restaurant - Wijnbar,Graves Restaurant - Wijnbar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,L'invite le Restaurant,L'invite le Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,De Compagnon,De Compagnon,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Van Speyk,Van Speyk,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Cafe De Klepel,Cafe De Klepel,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+法国菜,Karakter,Karakter,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+法国菜,De Belhamel,De Belhamel,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,Groene Lanteerne,Groene Lanteerne,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+法国菜,Daalder,Daalder,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+法国菜,De Gouden Reael,De Gouden Reael,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+法国菜,Cafe Reuring,Cafe Reuring,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+法国菜,Le Restaurant,Le Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+法国菜,Boulangerie1072,Boulangerie1072,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+法国菜,Pompidou,Pompidou,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+法国菜,Jaspers,Jaspers,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+法国菜,Restaurant Sinne,Restaurant Sinne,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+法国菜,Bond,Bond,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+法国菜,Brasserie Van Baerle,Brasserie Van Baerle,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+法国菜,Restaurant Elmar,Restaurant Elmar,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+法国菜,Juuls,Juuls,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+法国菜,Le Hollandais,Le Hollandais,0,南区老城(Amsterdam Oud-Zuid),7.1,7.3,7.1
+法国菜,Barrique Wijn Bar Restaurant,Barrique Wijn Bar Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.3,7.3,7.3
+法国菜,Brasserie SenT,Brasserie SenT,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+法国菜,The French Cafe,The French Cafe,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+法国菜,Spring,Spring,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+法国菜,Ondeugd,Ondeugd,0,南区老城(Amsterdam Oud-Zuid),7.1,6.8,7.1
+法国菜,Willems,Willems,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+法国菜,LAB111 Mediacafe,LAB111 Mediacafe,0,旧西区(Oud-West),7.1,7.1,7.1
+法国菜,A Table Amsterdam,A Table Amsterdam,0,旧西区(Oud-West),7.1,7.5,7.1
+法国菜,Du Cap amsterdam,Du Cap amsterdam,0,旧西区(Oud-West),7.0,6.9,7.0
+法国菜,Restaurant VandeMarkt,Restaurant VandeMarkt,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+法国菜,Rijsel,Rijsel,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+法国菜,Boom eten en drinken,Boom eten en drinken,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+法国菜,Bolenius,Bolenius,0,祖德马斯特尔(Zuideramstel),7.2,7.7,7.2
+法国菜,Manhattan Lounge Bar,Manhattan Lounge Bar,0,祖德马斯特尔(Zuideramstel),7.1,7.1,7.1
+法国菜,Cafe Vrijdag,Cafe Vrijdag,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+法国菜,Hotel de Goudfazant,Hotel de Goudfazant,0,北区(Amsterdam-Noord),7.2,7.2,7.2
+法国菜,Cafe Modern,Cafe Modern,0,北区(Amsterdam-Noord),7.6,7.2,7.2
+法国菜,Place Du Nord,Place Du Nord,0,北区(Amsterdam-Noord),7.0,7.1,7.0
+法国菜,Marius,Marius,0,西部公园区(Westerpark),7.2,7.2,7.2
+法国菜,Worst Wijncafé,Worst Wijncafé,0,西部公园区(Westerpark),7.1,7.1,7.1
+法国菜,Edel,Edel,0,杜巴罗斯(De Baarsjes),7.1,7.1,7.1
+法国菜,Sinfonia,Sinfonia,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+墨西哥菜,Agabi Santa Maria,Agabi Santa Maria,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+墨西哥菜,La Margarita,La Margarita,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+墨西哥菜,Chicanos,Chicanos,0,市中心(Amsterdam Centrum),7.2,6.8,6.8
+墨西哥菜,Tio Pepe,Tio Pepe,0,斯洛特瓦特(Slotervaart),7.2,7.2,7.2
+墨西哥菜,Caramba,Caramba,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+墨西哥菜,Alfonso's,Alfonso's,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+墨西哥菜,Cafe Restaurant Pacifico,Cafe Restaurant Pacifico,0,市中心(Amsterdam Centrum),6.8,6.4,6.8
+墨西哥菜,Burrito,Burrito,0,旧西区(Oud-West),7.1,7.1,7.1
+墨西哥菜,Matias,Matias,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+墨西哥菜,El Rancho Argentino,El Rancho Argentino,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+墨西哥菜,El Vino,El Vino,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+墨西哥菜,Rose's Cantina,Rose's Cantina,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+墨西哥菜,The Mexican,The Mexican,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+墨西哥菜,Guadalupe,Guadalupe,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+墨西哥菜,The Taco Shop,The Taco Shop,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+墨西哥菜,Tomatillo Tex-Mex To Go,Tomatillo Tex-Mex To Go,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Omelegg,Omelegg,0,南区老城(Amsterdam Oud-Zuid),0.0,0.0,0.0
+其他西餐,Albert Heijn,Albert Heijn,0,市中心(Amsterdam Centrum),7.5,7.1,7.1
+其他西餐,The Pantry,The Pantry,0,市中心(Amsterdam Centrum),7.6,7.6,7.6
+其他西餐,Hard Rock Cafe,Hard Rock Cafe,0,市中心(Amsterdam Centrum),8.0,8.0,8.0
+其他西餐,Pancake Corner,Pancake Corner,0,市中心(Amsterdam Centrum),7.4,6.9,7.4
+其他西餐,Moeders,Moeders,0,其他,7.6,7.6,7.2
+其他西餐,Dutch Kitchen,Dutch Kitchen,0,阿姆斯特丹国际机场周边,7.8,7.8,7.3
+其他西餐,The Pancake Bakery,The Pancake Bakery,0,市中心(Amsterdam Centrum),7.4,7.4,7.4
+其他西餐,Bluespoon,Bluespoon,0,市中心(Amsterdam Centrum),7.5,8.1,8.1
+其他西餐,FEBO,FEBO,0,市中心(Amsterdam Centrum),7.5,6.7,6.7
+其他西餐,Mas Y Mas,Mas Y Mas,0,市中心(Amsterdam Centrum),7.7,7.4,7.7
+其他西餐,Cafe Gambrinus,Cafe Gambrinus,0,南区老城(Amsterdam Oud-Zuid),7.5,7.5,7.5
+其他西餐,Burger Bar,Burger Bar,0,市中心(Amsterdam Centrum),7.5,7.5,7.5
+其他西餐,5&33,5&33,0,市中心(Amsterdam Centrum),7.5,8.1,6.5
+其他西餐,La Pampa,La Pampa,0,市中心(Amsterdam Centrum),7.3,7.3,7.0
+其他西餐,Max,Max,0,市中心(Amsterdam Centrum),7.0,7.1,7.1
+其他西餐,Flame,Flame,0,市中心(Amsterdam Centrum),6.9,6.4,6.4
+其他西餐,Habaron,Habaron,0,祖德马斯特尔(Zuideramstel),6.8,6.8,6.8
+其他西餐,Allstars,Allstars,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,d'Azur,d'Azur,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+其他西餐,Restaurant De Roode Leeuw,Restaurant De Roode Leeuw,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,De Oesterbar,De Oesterbar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Toro Dorado,Toro Dorado,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,de Luwte,de Luwte,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant Johannes,Restaurant Johannes,0,市中心(Amsterdam Centrum),7.7,7.7,7.2
+其他西餐,Biercafe Gollem,Biercafe Gollem,0,市中心(Amsterdam Centrum),7.2,7.2,7.7
+其他西餐,Lucius,Lucius,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant Anna,Restaurant Anna,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant As,Restaurant As,0,祖德马斯特尔(Zuideramstel),7.2,7.2,7.2
+其他西餐,Prego,Prego,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Lieve,Lieve,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Grand Cafe Amsterdam,Grand Cafe Amsterdam,0,阿姆斯特丹国际机场周边,7.1,7.1,7.1
+其他西餐,d'Overkant,d'Overkant,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Ill Cavallino Ristorante,Ill Cavallino Ristorante,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+其他西餐,Casa Juan,Casa Juan,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Greetje,Greetje,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,"DAKOTA'S CAFE, BAR & RESTAURANT","DAKOTA'S CAFE, BAR & RESTAURANT",0,阿姆斯特丹国际机场周边,6.9,6.9,7.0
+其他西餐,Olivar Restaurante Bar & Tapas,Olivar Restaurante Bar & Tapas,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cobra Cafe,Cobra Cafe,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Grandcafe Hermes,Grandcafe Hermes,0,赫曾费尔德-斯洛特湖,7.2,7.2,7.2
+其他西餐,Greek Waves Sea Food & Grill Restaurant,Greek Waves Sea Food & Grill Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,"Greenwoods, English Tea Room & Restaurant","Greenwoods, English Tea Room & Restaurant",0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Biercafe Gollem,Biercafe Gollem,0,南区老城(Amsterdam Oud-Zuid),6.9,7.1,7.1
+其他西餐,Stubbe's haring,Stubbe's haring,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Crazy Tapas Bar,Crazy Tapas Bar,0,市中心(Amsterdam Centrum),6.7,6.9,6.9
+其他西餐,Rancho Argentinian Grill II,Rancho Argentinian Grill II,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Vesper Bar,Vesper Bar,0,市中心(Amsterdam Centrum),7.5,7.5,7.5
+其他西餐,Versch,Versch,0,南区老城(Amsterdam Oud-Zuid),7.3,7.3,7.1
+其他西餐,Floor 17,Floor 17,0,斯洛特瓦特(Slotervaart),7.2,7.2,7.2
+其他西餐,Argentinos San Thomas - MG,Argentinos San Thomas - MG,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,CAU,CAU,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant d'Vijff Vlieghen,Restaurant d'Vijff Vlieghen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Argentinos,Argentinos,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Saint Morris Argentijns Restaurant,Saint Morris Argentijns Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Buon Appetito,Buon Appetito,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Palladium,Palladium,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Castillo Tapas y Steaks,Castillo Tapas y Steaks,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Tapas Bar Catala,Tapas Bar Catala,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Lunchcafe Nielsen,Lunchcafe Nielsen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant Open,Restaurant Open,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Caramba,Caramba,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,O'Reilly's Irish Pub,O'Reilly's Irish Pub,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,De sneeker pan,De sneeker pan,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Buenos Aires Restaurant Grill,Buenos Aires Restaurant Grill,0,赫曾费尔德-斯洛特湖,7.2,7.2,7.2
+其他西餐,Carousel Pancake House,Carousel Pancake House,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Bagels & Beans,Bagels & Beans,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Pata Negra II,Pata Negra II,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+其他西餐,Grand Cafe-Restaurant 1e klas,Grand Cafe-Restaurant 1e klas,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cedars Libanees Restaurant,Cedars Libanees Restaurant,0,斯洛特瓦特(Slotervaart),7.2,7.2,7.2
+其他西餐,Nostimo,Nostimo,0,西部公园区(Westerpark),7.3,7.1,7.1
+其他西餐,Grieks Restaurant Thalassa,Grieks Restaurant Thalassa,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,B&B Lunch Room,B&B Lunch Room,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Rijksen Restaurant,Rijksen Restaurant,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Resturant La vallade,Resturant La vallade,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+其他西餐,Baby Grill or San George Baby Grill,Baby Grill or San George Baby Grill,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+其他西餐,La Brasa,La Brasa,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Restaurant Merkelbach,Restaurant Merkelbach,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+其他西餐,Puerto Pata Negra,Puerto Pata Negra,0,海堡(Zeeburg),7.1,6.8,7.1
+其他西餐,Cafe-Hotel International,Cafe-Hotel International,0,市中心(Amsterdam Centrum),6.8,7.3,7.3
+其他西餐,Café van Daele,Café van Daele,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Febo,Febo,0,其他,7.1,7.1,7.1
+其他西餐,Bar-Restaurant Londen,Bar-Restaurant Londen,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafe Zurich,Cafe Zurich,0,杜巴罗斯(De Baarsjes),7.1,7.1,7.3
+其他西餐,Grand Cafe Mathilde,Grand Cafe Mathilde,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafe de Pijp,Cafe de Pijp,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Pompa,Pompa,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Gauchos - Korte Leidsedwarsstraat,Gauchos - Korte Leidsedwarsstraat,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,La Casa Argentina Grill Restaurant,La Casa Argentina Grill Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe De Prins,Cafe De Prins,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Dik & Cunningham,Dik & Cunningham,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Cafe Restaurant Kerkzicht,Cafe Restaurant Kerkzicht,0,巴德胡弗多普(Badhoevedorp),6.9,6.9,6.9
+其他西餐,De Piste,De Piste,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,1st Class,1st Class,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+其他西餐,Friet Point,Friet Point,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+其他西餐,Asian Caribbean,Asian Caribbean,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,The Winter Garden,The Winter Garden,0,其他,6.9,6.9,6.9
+其他西餐,Tapas restaurant Dos,Tapas restaurant Dos,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,De knijp,De knijp,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,De Stijl,De Stijl,0,斯洛特瓦特(Slotervaart),6.9,6.7,6.9
+其他西餐,Bruincafe t Centrum,Bruincafe t Centrum,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Restaurant De Nieuwe Poort,Restaurant De Nieuwe Poort,0,祖德马斯特尔(Zuideramstel),7.1,7.0,7.1
+其他西餐,De Carrousel Wetering Circuit,De Carrousel Wetering Circuit,0,祖德马斯特尔(Zuideramstel),7.1,7.1,7.1
+其他西餐,Caf Restaurant Sharm,Caf Restaurant Sharm,0,北区(Amsterdam-Noord),6.9,6.9,6.9
+其他西餐,Bar Baarsch,Bar Baarsch,0,杜巴罗斯(De Baarsjes),7.1,7.1,7.1
+其他西餐,Broodje Daan,Broodje Daan,0,杜巴罗斯(De Baarsjes),7.0,7.0,7.1
+其他西餐,Vlaamse Friet Snackland,Vlaamse Friet Snackland,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Brasserie Boven,Brasserie Boven,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+其他西餐,"Come Restaurant, Bar & Lounge","Come Restaurant, Bar & Lounge",0,市中心(Amsterdam Centrum),7.1,7.1,6.8
+其他西餐,Levant,Levant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Van Vlaanderen,Van Vlaanderen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Albina Restaurant,Albina Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,6.9
+其他西餐,Toon Grill,Toon Grill,0,南区老城(Amsterdam Oud-Zuid),7.0,7.1,7.1
+其他西餐,Koffiehuis van den Volksbond,Koffiehuis van den Volksbond,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,'t Stuivertje,'t Stuivertje,0,市中心(Amsterdam Centrum),7.6,7.6,7.2
+其他西餐,Tapas Restaurant L 'amour,Tapas Restaurant L 'amour,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+其他西餐,Foodism,Foodism,0,西部公园区(Westerpark),7.2,7.2,7.2
+其他西餐,Pata Negra,Pata Negra,0,市中心(Amsterdam Centrum),7.2,6.8,7.2
+其他西餐,Steakhouse Piet de Leeuw,Steakhouse Piet de Leeuw,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Beter Belegd,Beter Belegd,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Margarida,Margarida,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Grekas Deli,Grekas Deli,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,"Restaurant Dwars, Amsterdam","Restaurant Dwars, Amsterdam",0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Sunny's Burger Joint,Sunny's Burger Joint,0,市中心(Amsterdam Centrum),7.3,7.3,7.1
+其他西餐,George Deli U.S.A.,George Deli U.S.A.,0,市中心(Amsterdam Centrum),6.9,6.9,7.0
+其他西餐,Fred's Steak & Ribhouse,Fred's Steak & Ribhouse,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant Lastage,Restaurant Lastage,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Het Melkmeisje,Het Melkmeisje,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,La Paella,La Paella,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,DroversDog OudZuid,DroversDog OudZuid,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+其他西餐,Coco's Keuken - Andreas Ensemble,Coco's Keuken - Andreas Ensemble,0,斯洛特瓦特(Slotervaart),7.0,7.0,7.0
+其他西餐,Grieks Restaurant Plato,Grieks Restaurant Plato,0,赫曾费尔德-斯洛特湖,7.0,7.0,7.1
+其他西餐,De Witte Uyl,De Witte Uyl,0,,7.2,7.2,7.2
+其他西餐,Roberto's,Roberto's,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Maya's Grillsteakhouse,Maya's Grillsteakhouse,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Brasserie Vlaming - Amsterdam,Brasserie Vlaming - Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Gartine,Gartine,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+其他西餐,De Amsterdamsche Tram,De Amsterdamsche Tram,0,西港(Westpoort),7.1,7.1,7.1
+其他西餐,McDonalds Schiphol Airport,McDonalds Schiphol Airport,0,阿姆斯特丹国际机场周边,7.2,7.2,6.8
+其他西餐,DUTCH & delicious,DUTCH & delicious,0,其他,7.1,7.1,7.1
+其他西餐,"Twee Cheetahs Restaurant, Amsterdam Zoo","Twee Cheetahs Restaurant, Amsterdam Zoo",0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Oud Holland,Oud Holland,0,市中心(Amsterdam Centrum),6.8,7.2,7.2
+其他西餐,Restaurant El Asador,Restaurant El Asador,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+其他西餐,Smits Koffiehuis (Smits Coffeehouse),Smits Koffiehuis (Smits Coffeehouse),0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Alberto's la Forge,Alberto's la Forge,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Los Toros,Los Toros,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Mercat,Mercat,0,海堡(Zeeburg),6.8,6.8,7.2
+其他西餐,Sandwich Village,Sandwich Village,0,市中心(Amsterdam Centrum),6.8,6.8,7.1
+其他西餐,La Mancha,La Mancha,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Beulings,Beulings,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+其他西餐,Tunes Restaurant & Bar by Schilo,Tunes Restaurant & Bar by Schilo,0,,7.2,7.2,7.2
+其他西餐,Vlaams Friteshuis Vleminckx,Vlaams Friteshuis Vleminckx,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,The Lobby Restaurant and Bar,The Lobby Restaurant and Bar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,IL Pacioccone,IL Pacioccone,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+其他西餐,Tasca Bellota,Tasca Bellota,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Zaza's,Zaza's,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Midtown Grill,Midtown Grill,0,旧西区(Oud-West),7.2,7.2,7.2
+其他西餐,Ebeling,Ebeling,0,旧西区(Oud-West),6.9,6.9,6.9
+其他西餐,Podium Mozaiek,Podium Mozaiek,0,博斯恩伦默(Bos en Lommer),6.9,6.9,7.0
+其他西餐,Favorite Chicken & Ribs,Favorite Chicken & Ribs,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Cafe Restaurant Pacifico,Cafe Restaurant Pacifico,0,市中心(Amsterdam Centrum),6.8,6.4,6.8
+其他西餐,Bloesem Restaurant,Bloesem Restaurant,0,市中心(Amsterdam Centrum),7.3,7.3,7.1
+其他西餐,Wink,Wink,0,南区老城(Amsterdam Oud-Zuid),7.3,7.3,7.1
+其他西餐,Cafe Kale B.V.,Cafe Kale B.V.,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Café Hans en Grietje,Café Hans en Grietje,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Everything on a Stick,Everything on a Stick,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Le Pub Leidseplein,Le Pub Leidseplein,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant Spelt,Restaurant Spelt,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Chipsy King,Chipsy King,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+其他西餐,P. King,P. King,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant Portugalia,Restaurant Portugalia,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Brasserie Schiller,Brasserie Schiller,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,De Maria,De Maria,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Van Dobben,Van Dobben,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Lion Noir,Lion Noir,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Gauchos - Reguliersbreestraat,Gauchos - Reguliersbreestraat,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,La Place,La Place,0,北区(Amsterdam-Noord),7.2,7.2,7.2
+其他西餐,Eetcafe Het Pakhuis,Eetcafe Het Pakhuis,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Letcafe de Staalmeesters,Letcafe de Staalmeesters,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,The Goodies,The Goodies,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Kappitein Zeppos,Kappitein Zeppos,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant Haesje Claes,Restaurant Haesje Claes,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Buffet Van Odette,Buffet Van Odette,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant het Zwaantje,Restaurant het Zwaantje,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Bierfabriek,Bierfabriek,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Pieminister,Pieminister,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Gaucho's,Gaucho's,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,'t Loosje,'t Loosje,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Poco Loco,Poco Loco,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Keizersgracht 238,Keizersgracht 238,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Hoopman Irish Pub,Hoopman Irish Pub,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+其他西餐,Bistro Bij Ons,Bistro Bij Ons,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Argentine Steakhouse Amsterdam,Argentine Steakhouse Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Eatme,Eatme,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Mata Hari,Mata Hari,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Centra,Centra,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant Seven Seas,Restaurant Seven Seas,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cheese factory,Cheese factory,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Blom,Blom,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe Sonneveld,Cafe Sonneveld,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Meatballs,Meatballs,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Gauchos - Spuistraat,Gauchos - Spuistraat,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,De 2 Grieken,De 2 Grieken,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,De Vergulde Gaper,De Vergulde Gaper,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Scossa Restaurant,Scossa Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,de zagerij,de zagerij,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Van Gogh Cafe,Van Gogh Cafe,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Paso Doble,Paso Doble,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Bistrot Neuf,Bistrot Neuf,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Toscanini,Toscanini,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Duende,Duende,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe Restaurant Fidelio,Cafe Restaurant Fidelio,0,南区老城(Amsterdam Oud-Zuid),7.2,6.8,7.2
+其他西餐,Gauchos - Beethovenstraat,Gauchos - Beethovenstraat,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Restaurant District 5,Restaurant District 5,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,La Falote,La Falote,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Ctaste,Ctaste,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Braque,Braque,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Restaurant Simpel,Restaurant Simpel,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Mamouche,Mamouche,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Restaurant Stedelijk,Restaurant Stedelijk,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Girassol,Girassol,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+其他西餐,De Ysbreeker,De Ysbreeker,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+其他西餐,Brasserie Richard,Brasserie Richard,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Pllek,Pllek,0,北区(Amsterdam-Noord),7.2,7.2,7.2
+其他西餐,Cafe Amsterdam,Cafe Amsterdam,0,西部公园区(Westerpark),7.2,7.2,7.2
+其他西餐,Bar Lempicka,Bar Lempicka,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Lunchcafé De Spiegel,Lunchcafé De Spiegel,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Aphrodite,Aphrodite,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,BlinQ Amsterdam,BlinQ Amsterdam,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Villa Maria Restaurant-Amsterdam,Villa Maria Restaurant-Amsterdam,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Tia Rosa,Tia Rosa,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,De Pizzabakkers Plantage,De Pizzabakkers Plantage,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Lunchroom ,Lunchroom ,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafe 't Singeltje,Cafe 't Singeltje,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Noara's,Noara's,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,"Cafe Katoen,","Cafe Katoen,",0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Bordjes,Bordjes,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafe Chaos,Cafe Chaos,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+其他西餐,De Schutter,De Schutter,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafe de Doffer,Cafe de Doffer,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Brasserie Meuwese,Brasserie Meuwese,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafe Tisfris,Cafe Tisfris,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafe De Sluyswacht,Cafe De Sluyswacht,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+其他西餐,Koffiehaus van de Volksbond,Koffiehaus van de Volksbond,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Rico's Keldertje,Rico's Keldertje,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Cafe de Doelen,Cafe de Doelen,0,市中心(Amsterdam Centrum),7.1,7.1,7.3
+其他西餐,NRC Restaurant,NRC Restaurant,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafezinho,Cafezinho,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+其他西餐,Rosa & Rita,Rosa & Rita,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafe Cuba,Cafe Cuba,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Haringstal ,Haringstal ,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+其他西餐,'t Nieuwe Kafé,'t Nieuwe Kafé,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,La Casona,La Casona,0,其他,7.1,7.1,7.1
+其他西餐,Grand Cafe ZO,Grand Cafe ZO,0,,6.9,6.9,6.9
+其他西餐,Ricardo's in Odeon,Ricardo's in Odeon,0,其他,6.9,6.9,6.9
+其他西餐,Amigo Grill,Amigo Grill,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Croissanterie Jennifer,Croissanterie Jennifer,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Argentijns Restaurant Amigo,Argentijns Restaurant Amigo,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Argentijns Steakhouse La Gouch,Argentijns Steakhouse La Gouch,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Wil Graanstra's Frietkraam,Wil Graanstra's Frietkraam,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Cafe Kalkhoven,Cafe Kalkhoven,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Beurs Van Berlage,Beurs Van Berlage,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Hotel Old Quarter,Hotel Old Quarter,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Extra,Extra,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Brasserie Baton,Brasserie Baton,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Louis,Louis,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,San Tommaso - MG,San Tommaso - MG,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,De Blauwe Pan,De Blauwe Pan,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,De Eetkamer van de Jordaan,De Eetkamer van de Jordaan,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Couscousine,Couscousine,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafe Kobalt,Cafe Kobalt,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,G's,G's,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Tapasbar Castro,Tapasbar Castro,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Wild Moa,Wild Moa,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Stadscafé van Mechelen,Stadscafé van Mechelen,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Pekelhaaring,Pekelhaaring,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Restaurant Grand Café De Kroonprins,Restaurant Grand Café De Kroonprins,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Mafaldo,Mafaldo,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+其他西餐,Tapa Feliz,Tapa Feliz,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Restaurant MOZO,Restaurant MOZO,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+其他西餐,Oud-Zuid,Oud-Zuid,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Brasserie Van Dam,Brasserie Van Dam,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Pilsvogel,Pilsvogel,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Café Marie,Café Marie,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Lunchkiosk,Lunchkiosk,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Cafe Restaurant Toom,Cafe Restaurant Toom,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Parck,Parck,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Addis Ababa,Addis Ababa,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Cafe ZOUK,Cafe ZOUK,0,旧西区(Oud-West),7.1,7.1,7.1
+其他西餐,Zina,Zina,0,旧西区(Oud-West),7.1,7.1,7.1
+其他西餐,Narbonne,Narbonne,0,旧西区(Oud-West),7.1,7.0,7.0
+其他西餐,Cafe Vief,Cafe Vief,0,旧西区(Oud-West),6.9,6.9,6.9
+其他西餐,Blanko,Blanko,0,旧西区(Oud-West),7.1,7.1,7.1
+其他西餐,De Skeeve Skaes,De Skeeve Skaes,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+其他西餐,'t Wethoudertje,'t Wethoudertje,0,沃特格拉斯米尔(Watergraafsmeer),6.9,6.9,6.9
+其他西餐,Pica pica,Pica pica,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+其他西餐,Lalla Rookh,Lalla Rookh,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+其他西餐,Restaurant Goos,Restaurant Goos,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Brasserie Mauresque,Brasserie Mauresque,0,海堡(Zeeburg),7.1,7.1,7.1
+其他西餐,Steakhouse Roos,Steakhouse Roos,0,斯洛特瓦特(Slotervaart),7.1,7.1,7.1
+其他西餐,Pannenkoekenboot,Pannenkoekenboot,0,北区(Amsterdam-Noord),7.1,7.1,7.1
+其他西餐,Croissanterie Friends,Croissanterie Friends,0,西部公园区(Westerpark),7.1,7.1,7.1
+其他西餐,Nassau,Nassau,0,西部公园区(Westerpark),7.1,7.1,7.1
+其他西餐,Restaurant Queen of Sheba,Restaurant Queen of Sheba,0,西部公园区(Westerpark),7.1,7.1,7.1
+其他西餐,Grand Café Fossa,Grand Café Fossa,0,博斯恩伦默(Bos en Lommer),7.1,7.1,7.1
+其他西餐,De Huyschkaemer,De Huyschkaemer,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Cafe Het Hok,Cafe Het Hok,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Picnic Company,Picnic Company,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,De Groene Olifant,De Groene Olifant,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Wurst & Schnitzelhaus,Wurst & Schnitzelhaus,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Gala,Gala,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Cafe De Pels,Cafe De Pels,0,市中心(Amsterdam Centrum),7.0,7.1,7.0
+其他西餐,Bon Bon,Bon Bon,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Barok,Barok,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Wine Salon De Apotheek,Wine Salon De Apotheek,0,市中心(Amsterdam Centrum),7.0,7.1,7.1
+其他西餐,Place de la Fenetre,Place de la Fenetre,0,其他,7.0,7.1,7.0
+其他西餐,Café Renzo Piano,Café Renzo Piano,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+其他西餐,Van Den Berg's Broodjesbar,Van Den Berg's Broodjesbar,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Bistro & Argentijns Steakhouse,Bistro & Argentijns Steakhouse,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Restaurant Bolero,Restaurant Bolero,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,De Barderij,De Barderij,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+其他西餐,Steakhouse Evita,Steakhouse Evita,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Graven Molen,Graven Molen,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Claes Claesz in de Jordaan,Claes Claesz in de Jordaan,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Cafe Hegeraad,Cafe Hegeraad,0,市中心(Amsterdam Centrum),6.9,7.0,7.1
+其他西餐,Don Quijote Que Mas,Don Quijote Que Mas,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,HEERLIJK!,HEERLIJK!,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Café Bos,Café Bos,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.1
+其他西餐,Mr. Mix,Mr. Mix,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+其他西餐,Roc Elements,Roc Elements,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Eetcafe Volle Maan,Eetcafe Volle Maan,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Cafe Binnen Buiten,Cafe Binnen Buiten,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+其他西餐,Eetcafe Moos,Eetcafe Moos,0,南区老城(Amsterdam Oud-Zuid),7.0,7.1,7.1
+其他西餐,Castro aan de Amstel,Castro aan de Amstel,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+其他西餐,De Pijp,De Pijp,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+其他西餐,Broodje van Popov,Broodje van Popov,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Nina,Nina,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Dionysos,Dionysos,0,旧西区(Oud-West),7.0,7.0,7.0
+其他西餐,Voldaan Amsterdam,Voldaan Amsterdam,0,旧西区(Oud-West),6.9,6.9,6.9
+其他西餐,Anders,Anders,0,旧西区(Oud-West),6.9,6.9,6.9
+其他西餐,El Amor,El Amor,0,旧西区(Oud-West),7.0,7.0,7.0
+其他西餐,Streetkitchen,Streetkitchen,0,旧西区(Oud-West),7.1,7.1,7.1
+其他西餐,Eetcafe Ibis,Eetcafe Ibis,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,7.0
+其他西餐,Ibssa,Ibssa,0,沃特格拉斯米尔(Watergraafsmeer),6.9,6.9,6.9
+其他西餐,Snackbar Ernos,Snackbar Ernos,0,沃特格拉斯米尔(Watergraafsmeer),6.9,6.9,6.9
+其他西餐,Kleine Kalfje,Kleine Kalfje,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+其他西餐,Golan Restaurant,Golan Restaurant,0,祖德马斯特尔(Zuideramstel),6.9,7.0,6.9
+其他西餐,Brasserie Marion,Brasserie Marion,0,祖德马斯特尔(Zuideramstel),6.9,6.9,6.9
+其他西餐,Magnetico S114,Magnetico S114,0,海堡(Zeeburg),6.9,7.0,6.9
+其他西餐,Einde Van de Wereld,Einde Van de Wereld,0,海堡(Zeeburg),6.9,6.9,6.9
+其他西餐,Biologische snackbar 't PontStation,Biologische snackbar 't PontStation,0,北区(Amsterdam-Noord),6.9,6.9,6.9
+其他西餐,Mano a Mano,Mano a Mano,0,西部公园区(Westerpark),7.0,7.0,7.0
+其他西餐,De Aardige Pers,De Aardige Pers,0,西部公园区(Westerpark),7.0,7.0,7.0
+其他西餐,"Bagels & Beans, Bos en Lommerweg Amsterdam","Bagels & Beans, Bos en Lommerweg Amsterdam",0,博斯恩伦默(Bos en Lommer),7.0,7.0,7.0
+其他西餐,Sapori Pugliesi,Sapori Pugliesi,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Café Brecht,Café Brecht,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Restaurant La Cacerola,Restaurant La Cacerola,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Axum,Axum,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Myrabelle,Myrabelle,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe Onder de Ooievaar,Cafe Onder de Ooievaar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Aran Irish Pub,Aran Irish Pub,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,De Saloon,De Saloon,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Barbeque Castell,Barbeque Castell,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Pancake Corner,Pancake Corner,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+其他西餐,New York steakhouse,New York steakhouse,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Klaver 4 ontbijt- en lunchcafe,Klaver 4 ontbijt- en lunchcafe,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,De Blauwe Hollander,De Blauwe Hollander,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe De Spuyt,Cafe De Spuyt,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+其他西餐,Los Argentinos,Los Argentinos,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,El Vino,El Vino,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,T Eten en Drinken,T Eten en Drinken,0,市中心(Amsterdam Centrum),7.0,6.9,6.9
+其他西餐,De Smoeshaan,De Smoeshaan,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Van Leeuwen,Van Leeuwen,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Cafe Koosje,Cafe Koosje,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Do Brasil,Do Brasil,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Stoop & Stoop Eetcafe,Stoop & Stoop Eetcafe,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,La Luna Steakhouse Grill,La Luna Steakhouse Grill,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,cafe restaurant Neva,cafe restaurant Neva,0,市中心(Amsterdam Centrum),7.0,6.9,7.0
+其他西餐,Brug34,Brug34,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Santorini Greek Taverna,Santorini Greek Taverna,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Bariloche,Bariloche,0,市中心(Amsterdam Centrum),7.0,6.9,7.0
+其他西餐,Coco's Outback,Coco's Outback,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,U6,U6,0,市中心(Amsterdam Centrum),7.3,7.3,7.1
+其他西餐,B&B Lunchroom,B&B Lunchroom,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Neva,Neva,0,市中心(Amsterdam Centrum),7.3,7.3,7.1
+其他西餐,Cafe Tante Roosje,Cafe Tante Roosje,0,市中心(Amsterdam Centrum),7.0,6.9,6.9
+其他西餐,La Estancia Argentinian Grill,La Estancia Argentinian Grill,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Fame,Fame,0,市中心(Amsterdam Centrum),6.7,6.7,6.7
+其他西餐,De Zotte,De Zotte,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Café Langereis,Café Langereis,0,市中心(Amsterdam Centrum),7.1,7.1,7.5
+其他西餐,Restaurant Morlang,Restaurant Morlang,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Rose's Cantina,Rose's Cantina,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Los Amigos,Los Amigos,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Rancho III,Rancho III,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafe Eik en Linde,Cafe Eik en Linde,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,La Parrillada,La Parrillada,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant casa maria,Restaurant casa maria,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,El Torado Gril Restaurant,El Torado Gril Restaurant,0,市中心(Amsterdam Centrum),7.2,6.8,6.8
+其他西餐,Langendijk Eetcafe,Langendijk Eetcafe,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Avram Grill Argentijns,Avram Grill Argentijns,0,市中心(Amsterdam Centrum),7.1,6.8,6.8
+其他西餐,La Vaca Argentina,La Vaca Argentina,0,市中心(Amsterdam Centrum),7.1,6.8,7.1
+其他西餐,OCHO Latin Grill,OCHO Latin Grill,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Gulluoglu,Gulluoglu,0,市中心(Amsterdam Centrum),7.1,6.8,6.8
+其他西餐,Herengracht,Herengracht,0,市中心(Amsterdam Centrum),7.2,6.8,7.2
+其他西餐,Studio 2,Studio 2,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Frens Haringhandel,Frens Haringhandel,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe Het Molenpad,Cafe Het Molenpad,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Toastable,Toastable,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Grand Cafe Amstelhoeck,Grand Cafe Amstelhoeck,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Pianeta Terra,Pianeta Terra,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe Paerz,Cafe Paerz,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+其他西餐,Cafe De Gaeper,Cafe De Gaeper,0,市中心(Amsterdam Centrum),7.1,7.5,7.1
+其他西餐,Eetcafé Carel's 3,Eetcafé Carel's 3,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Burgerlijk Amsterdams,Burgerlijk Amsterdams,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Friet Steeg,Friet Steeg,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+其他西餐,Café Hoppe,Café Hoppe,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,El Rancho,El Rancho,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Alberto's Carreta,Alberto's Carreta,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,A la plancha,A la plancha,0,市中心(Amsterdam Centrum),7.1,6.8,7.1
+其他西餐,Restaurant Olijfje,Restaurant Olijfje,0,市中心(Amsterdam Centrum),7.2,7.7,7.2
+其他西餐,Cafe 'T Gasthuys,Cafe 'T Gasthuys,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Het Gasthuys,Het Gasthuys,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe Orff,Cafe Orff,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Balthazar's Keuken,Balthazar's Keuken,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Argentina Restaurant Los Santos,Argentina Restaurant Los Santos,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+其他西餐,Harry's Bar,Harry's Bar,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Restaurant Tomaz,Restaurant Tomaz,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Eetcafe de Jordaan,Eetcafe de Jordaan,0,市中心(Amsterdam Centrum),6.9,7.1,7.1
+其他西餐,Tin Pan Alley,Tin Pan Alley,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Admiraal,Admiraal,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Kilimanjaro,Kilimanjaro,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe Wheels,Cafe Wheels,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Thrill Grill,Thrill Grill,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,de Struisvogel,de Struisvogel,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Pancakes! Amsterdam,Pancakes! Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Orloff,Orloff,0,市中心(Amsterdam Centrum),7.1,7.1,7.3
+其他西餐,Bridges,Bridges,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Brasserie 3-5-3,Brasserie 3-5-3,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Noah’s Arq,Noah’s Arq,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Burger Zaken,Burger Zaken,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Van Kerkwijk,Van Kerkwijk,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Gebr. Hartering,Gebr. Hartering,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Bredero,Bredero,0,市中心(Amsterdam Centrum),7.0,6.9,6.9
+其他西餐,Cafe Piazza,Cafe Piazza,0,市中心(Amsterdam Centrum),7.2,7.7,7.2
+其他西餐,Bier Cafe (Beer Temple),Bier Cafe (Beer Temple),0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Pulitzers Bar,Pulitzers Bar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Dam Steakhouse,Dam Steakhouse,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Screaming Beans,Screaming Beans,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Bar Brandstof,Bar Brandstof,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Yip Fellows,Yip Fellows,0,市中心(Amsterdam Centrum),7.1,7.1,7.3
+其他西餐,Nomads,Nomads,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,'t Tuinfeest,'t Tuinfeest,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Hemelse Modder,Hemelse Modder,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Moes,Moes,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Players Bar,Players Bar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,De Passage,De Passage,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Broodje Mokum,Broodje Mokum,0,市中心(Amsterdam Centrum),6.9,7.1,7.1
+其他西餐,La Vida Argentinian Restaurant,La Vida Argentinian Restaurant,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Belushi's,Belushi's,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Brasserie De Poort,Brasserie De Poort,0,市中心(Amsterdam Centrum),7.2,6.8,7.2
+其他西餐,The Black Tiger Cafe,The Black Tiger Cafe,0,市中心(Amsterdam Centrum),6.8,6.8,7.1
+其他西餐,Fromagerie Crignon Culinair,Fromagerie Crignon Culinair,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Barraka,Barraka,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+其他西餐,Villa Zeezicht,Villa Zeezicht,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Sugar & Spice Bakery,Sugar & Spice Bakery,0,市中心(Amsterdam Centrum),7.1,7.1,7.3
+其他西餐,Wester Cafe,Wester Cafe,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Slainte Irish Pub,Slainte Irish Pub,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Azul,Azul,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Werck Restaurant,Werck Restaurant,0,市中心(Amsterdam Centrum),7.2,6.8,7.2
+其他西餐,Ponte Vecchio,Ponte Vecchio,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Brouwerij de Prael,Brouwerij de Prael,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Semhar,Semhar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe Brandon,Cafe Brandon,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Getto,Getto,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Argentinian Grill At James,Argentinian Grill At James,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Al Argentino,Al Argentino,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,De Haven van Texel,De Haven van Texel,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,De Prael Proeflokaal & Brouwerij,De Prael Proeflokaal & Brouwerij,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Apropos,Apropos,0,市中心(Amsterdam Centrum),7.0,6.9,7.0
+其他西餐,De Vergulde Lantaarn,De Vergulde Lantaarn,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Rio Bueno,Rio Bueno,0,市中心(Amsterdam Centrum),7.1,6.8,7.1
+其他西餐,Molly Malone's Irish Pub,Molly Malone's Irish Pub,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe Van Beeren,Cafe Van Beeren,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+其他西餐,Restaurant dolce vita,Restaurant dolce vita,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Burger Bar,Burger Bar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Grand Cafe-Restaurant,Grand Cafe-Restaurant,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+其他西餐,Ava Tomas,Ava Tomas,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,La Colina,La Colina,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Cafe De Groote Swaen,Cafe De Groote Swaen,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Cafe T Smalle,Cafe T Smalle,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Dwaze Zaken,Dwaze Zaken,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe P96,Cafe P96,0,市中心(Amsterdam Centrum),7.1,7.1,7.3
+其他西餐,MAX Restaurant Amsterdam,MAX Restaurant Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,De Eettuin,De Eettuin,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Van Speyk,Van Speyk,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe Restaurant Q Global Kitchen,Cafe Restaurant Q Global Kitchen,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+其他西餐,New Dorrius,New Dorrius,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Cafe The Flying Dutchman,Cafe The Flying Dutchman,0,市中心(Amsterdam Centrum),6.9,7.1,7.0
+其他西餐,CrepeBar,CrepeBar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Soup Kitchen,Soup Kitchen,0,市中心(Amsterdam Centrum),7.0,6.7,6.9
+其他西餐,Taberna Jottum,Taberna Jottum,0,市中心(Amsterdam Centrum),7.1,6.8,7.1
+其他西餐,Mena Gringo Restaurant,Mena Gringo Restaurant,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+其他西餐,Joselito,Joselito,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant Habsburg,Restaurant Habsburg,0,市中心(Amsterdam Centrum),7.1,6.8,6.8
+其他西餐,Boca's,Boca's,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Winkel 43,Winkel 43,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,De Belhamel,De Belhamel,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Las Marias - Argentijns Restaurant,Las Marias - Argentijns Restaurant,0,市中心(Amsterdam Centrum),7.1,7.1,6.8
+其他西餐,La Grotte Breakfastbar,La Grotte Breakfastbar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Vlaming eten & drinken,Vlaming eten & drinken,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Restaurant Luna,Restaurant Luna,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Piqniq,Piqniq,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,Pier 10,Pier 10,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Ibericus Amsterdam,Ibericus Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+其他西餐,De Blauwe Druif,De Blauwe Druif,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+其他西餐,Café de Oranjerie,Café de Oranjerie,0,市中心(Amsterdam Centrum),7.0,7.1,7.1
+其他西餐,Ramenas Hotel,Ramenas Hotel,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,t' Blaauwhooft,t' Blaauwhooft,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Restaurant I-Dock,Restaurant I-Dock,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Jefferson Bar-Restaurant,Jefferson Bar-Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+其他西餐,De Gouden Reael,De Gouden Reael,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+其他西餐,Fachade,Fachade,0,南区老城(Amsterdam Oud-Zuid),6.7,6.7,6.7
+其他西餐,De Hut,De Hut,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Carmel,Carmel,0,南区老城(Amsterdam Oud-Zuid),6.9,6.7,6.7
+其他西餐,Cafe Reuring,Cafe Reuring,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Eetcafé Dusart,Eetcafé Dusart,0,南区老城(Amsterdam Oud-Zuid),6.9,7.0,7.0
+其他西餐,Grannies,Grannies,0,阿姆斯特丹国际机场周边,7.1,7.1,7.1
+其他西餐,Woest Amsterdam,Woest Amsterdam,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,RUIS food&drinks,RUIS food&drinks,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Affourtit Eten & Drinken,Affourtit Eten & Drinken,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Maydanoz,Maydanoz,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,The College Restaurant,The College Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Boteco Lucio,Boteco Lucio,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,I Kriti,I Kriti,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Romios,Romios,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Restaurant Sinne,Restaurant Sinne,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+其他西餐,Wildschut,Wildschut,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Scandinavian Embassy,Scandinavian Embassy,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+其他西餐,Sovine,Sovine,0,南区老城(Amsterdam Oud-Zuid),7.3,7.3,7.3
+其他西餐,Griekse Taverna,Griekse Taverna,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Brasserie Van Baerle,Brasserie Van Baerle,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Bakken met passie,Bakken met passie,0,南区老城(Amsterdam Oud-Zuid),7.1,6.8,6.8
+其他西餐,De Duvel,De Duvel,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Cafe Schinkelhaven,Cafe Schinkelhaven,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Carlitos Gardel,Carlitos Gardel,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Bertram & Brood,Bertram & Brood,0,南区老城(Amsterdam Oud-Zuid),6.7,6.7,6.7
+其他西餐,G.D.R. Os Lusitanos,G.D.R. Os Lusitanos,0,南区老城(Amsterdam Oud-Zuid),7.3,7.1,7.1
+其他西餐,Martinot,Martinot,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Valerius eten & drinken,Valerius eten & drinken,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Barrique Wijn Bar Restaurant,Barrique Wijn Bar Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.3,7.3,7.3
+其他西餐,Taverna Barcelona,Taverna Barcelona,0,南区老城(Amsterdam Oud-Zuid),7.1,7.3,7.1
+其他西餐,Little Collins,Little Collins,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,De Wasserette,De Wasserette,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Adriani,Adriani,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+其他西餐,Sal Gorda,Sal Gorda,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Solo Eten en Drinken,Solo Eten en Drinken,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Brasserie de Joffers,Brasserie de Joffers,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Vamos a Ver,Vamos a Ver,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Restaurant Di Sale,Restaurant Di Sale,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Oresti's Taverna,Oresti's Taverna,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Restaurant Flinckx,Restaurant Flinckx,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Brasserie Klokspijs,Brasserie Klokspijs,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Barca,Barca,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Chamas,Chamas,0,南区老城(Amsterdam Oud-Zuid),7.0,7.1,7.0
+其他西餐,Cafe Kale de Grote,Cafe Kale de Grote,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Monte Cristo,Monte Cristo,0,南区老城(Amsterdam Oud-Zuid),7.0,7.1,7.0
+其他西餐,O'Donnel Irish Pub,O'Donnel Irish Pub,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Groot Melkhuis in Vondelpark,Groot Melkhuis in Vondelpark,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Caffepc,Caffepc,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Grootmoeders Pannenkoekenhuis,Grootmoeders Pannenkoekenhuis,0,旧西区(Oud-West),7.1,7.1,7.1
+其他西餐,Kaap de Goede Hoop,Kaap de Goede Hoop,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Toasty,Toasty,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Benson's BBQ & Grill,Benson's BBQ & Grill,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Daar Baand,Daar Baand,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Lalibela,Lalibela,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Fenan Klein Afrika,Fenan Klein Afrika,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Paloma Blanca,Paloma Blanca,0,旧西区(Oud-West),7.1,7.1,7.1
+其他西餐,Café de Toog,Café de Toog,0,旧西区(Oud-West),7.1,7.1,7.1
+其他西餐,Gollem's Proeflokaal,Gollem's Proeflokaal,0,旧西区(Oud-West),7.2,7.2,7.2
+其他西餐,Traiteur Peperwortel,Traiteur Peperwortel,0,旧西区(Oud-West),7.0,7.0,7.0
+其他西餐,Aron,Aron,0,旧西区(Oud-West),6.9,6.9,6.9
+其他西餐,Peper & Zout,Peper & Zout,0,旧西区(Oud-West),7.2,7.2,7.2
+其他西餐,WG Cafe,WG Cafe,0,旧西区(Oud-West),7.0,7.0,7.0
+其他西餐,Lunchroom Wilhelmina,Lunchroom Wilhelmina,0,旧西区(Oud-West),7.1,7.1,7.1
+其他西餐,Hap-Hmm,Hap-Hmm,0,旧西区(Oud-West),7.2,7.2,7.2
+其他西餐,Westers,Westers,0,旧西区(Oud-West),6.9,6.9,6.9
+其他西餐,Cafe Bosco,Cafe Bosco,0,旧西区(Oud-West),7.2,7.2,7.2
+其他西餐,Cafe Toussaint,Cafe Toussaint,0,旧西区(Oud-West),7.2,7.2,7.2
+其他西餐,Zest,Zest,0,旧西区(Oud-West),7.1,7.1,7.0
+其他西餐,Madrid,Madrid,0,旧西区(Oud-West),6.9,7.0,7.0
+其他西餐,Grieks eetcafe ,Grieks eetcafe ,0,旧西区(Oud-West),7.1,7.1,7.1
+其他西餐,Fier,Fier,0,旧西区(Oud-West),7.1,7.1,7.1
+其他西餐,De Liefde,De Liefde,0,旧西区(Oud-West),7.0,7.0,7.1
+其他西餐,Café 't Hooischip,Café 't Hooischip,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+其他西餐,Café-restaurant Hesp,Café-restaurant Hesp,0,沃特格拉斯米尔(Watergraafsmeer),6.8,6.8,7.2
+其他西餐,Tapas de Arroyo,Tapas de Arroyo,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.3
+其他西餐,Elsa's Jazz Cafe,Elsa's Jazz Cafe,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+其他西餐,Caf Vino Amsterdam,Caf Vino Amsterdam,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.0,7.0
+其他西餐,Cafe Restaurant 1900,Cafe Restaurant 1900,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,7.0
+其他西餐,Trouw,Trouw,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+其他西餐,Quatfass,Quatfass,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,7.0
+其他西餐,Sa Seada,Sa Seada,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.0,7.0
+其他西餐,Kees,Kees,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,6.9
+其他西餐,Aan de Amstel,Aan de Amstel,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+其他西餐,Griek's Restaurant Athene,Griek's Restaurant Athene,0,沃特格拉斯米尔(Watergraafsmeer),6.9,7.0,7.0
+其他西餐,Cafe Maxwell,Cafe Maxwell,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+其他西餐,De Biertuin,De Biertuin,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+其他西餐,Rosarium,Rosarium,0,祖德马斯特尔(Zuideramstel),7.1,7.1,7.1
+其他西餐,Bolenius,Bolenius,0,祖德马斯特尔(Zuideramstel),7.2,7.7,7.2
+其他西餐,Fitch & Shui,Fitch & Shui,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+其他西餐,La Vina Experience,La Vina Experience,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+其他西餐,Buffalo Steakhouse,Buffalo Steakhouse,0,南区老城(Amsterdam Oud-Zuid),6.8,7.1,6.8
+其他西餐,Eetcafe 't Vliegertje,Eetcafe 't Vliegertje,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Betty's,Betty's,0,祖德马斯特尔(Zuideramstel),7.7,7.2,7.2
+其他西餐,Mi Sueno,Mi Sueno,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+其他西餐,Sal Meijer,Sal Meijer,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+其他西餐,Blok 4,Blok 4,0,海堡(Zeeburg),6.9,7.0,6.9
+其他西餐,DroversDog Oost,DroversDog Oost,0,海堡(Zeeburg),7.1,7.1,7.1
+其他西餐,Studio K,Studio K,0,海堡(Zeeburg),6.8,6.8,7.1
+其他西餐,De Wereldbol,De Wereldbol,0,海堡(Zeeburg),7.0,7.0,7.0
+其他西餐,Pakhuis de Zwijger,Pakhuis de Zwijger,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+其他西餐,Landmarkt,Landmarkt,0,北区(Amsterdam-Noord),6.9,6.7,7.0
+其他西餐,Wilhelmina-Dok,Wilhelmina-Dok,0,市中心(Amsterdam Centrum),7.1,6.8,7.1
+其他西餐,Restaurant ,Restaurant ,0,北区(Amsterdam-Noord),7.0,7.0,7.0
+其他西餐,Jacques Jour,Jacques Jour,0,北区(Amsterdam-Noord),7.1,7.1,7.0
+其他西餐,Chefs Table,Chefs Table,0,北区(Amsterdam-Noord),7.0,7.0,7.0
+其他西餐,Lalezar,Lalezar,0,北区(Amsterdam-Noord),7.1,7.1,7.0
+其他西餐,Cathrien,Cathrien,0,北区(Amsterdam-Noord),7.0,7.0,7.0
+其他西餐,Murphy's Bar,Murphy's Bar,0,阿姆斯特丹国际机场周边,7.0,7.0,7.0
+其他西餐,Burger King,Burger King,0,阿姆斯特丹国际机场周边,7.1,7.1,6.8
+其他西餐,Meram Lounge,Meram Lounge,0,,6.9,6.9,6.9
+其他西餐,Azur Bleu,Azur Bleu,0,西部公园区(Westerpark),7.0,7.0,7.0
+其他西餐,Mitsos,Mitsos,0,西部公园区(Westerpark),7.1,7.0,7.0
+其他西餐,Flinders Cafe,Flinders Cafe,0,西部公园区(Westerpark),6.8,6.8,7.1
+其他西餐,San Pedro,San Pedro,0,西部公园区(Westerpark),6.8,6.8,6.8
+其他西餐,Restaurant Freud,Restaurant Freud,0,西部公园区(Westerpark),7.1,7.3,7.1
+其他西餐,Marius,Marius,0,西部公园区(Westerpark),7.2,7.2,7.2
+其他西餐,Bak restaurant,Bak restaurant,0,西部公园区(Westerpark),7.1,7.1,7.1
+其他西餐,Pont 13,Pont 13,0,西部公园区(Westerpark),7.2,7.2,7.2
+其他西餐,Restaurant B-eat,Restaurant B-eat,0,,6.9,6.9,6.9
+其他西餐,Toetanchamon,Toetanchamon,0,赫曾费尔德-斯洛特湖,7.1,7.1,7.1
+其他西餐,Ivo's Kitchen,Ivo's Kitchen,0,杜巴罗斯(De Baarsjes),7.0,7.0,7.0
+其他西餐,Radijs,Radijs,0,杜巴罗斯(De Baarsjes),7.1,7.1,7.1
+其他西餐,Fa. Speijkervet,Fa. Speijkervet,0,杜巴罗斯(De Baarsjes),7.1,7.1,7.1
+其他西餐,Cafe Pistou,Cafe Pistou,0,博斯恩伦默(Bos en Lommer),7.1,7.0,7.0
+其他西餐,De Halve Maen,De Halve Maen,0,巴德胡弗多普(Badhoevedorp),7.0,7.0,7.0
+其他西餐,Granada Restaurant,Granada Restaurant,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+其他西餐,Zorba De Griek,Zorba De Griek,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+其他西餐,Stanislavski Restaurant,Stanislavski Restaurant,0,市中心(Amsterdam Centrum),7.2,6.8,7.2
+其他西餐,La Vaca,La Vaca,0,市中心(Amsterdam Centrum),7.1,6.8,6.8
+其他西餐,Gespot,Gespot,0,市中心(Amsterdam Centrum),6.8,6.8,7.1
+其他西餐,San Giovanni,San Giovanni,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+其他西餐,Petit-Restaurant de Rozenboom,Petit-Restaurant de Rozenboom,0,市中心(Amsterdam Centrum),6.8,6.8,7.2
+其他西餐,Rembrandt Corner,Rembrandt Corner,0,市中心(Amsterdam Centrum),7.2,6.8,7.2
+其他西餐,De Pannekoekerkelder,De Pannekoekerkelder,0,市中心(Amsterdam Centrum),7.1,6.8,6.8
+其他西餐,TER Restaurant Steakhouse,TER Restaurant Steakhouse,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+其他西餐,Maria Steak House,Maria Steak House,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+其他西餐,Fogata,Fogata,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+其他西餐,Five Bells Bar and BBQ,Five Bells Bar and BBQ,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+其他西餐,Samba Kitchen Churrascaria rodizio,Samba Kitchen Churrascaria rodizio,0,南区老城(Amsterdam Oud-Zuid),6.8,7.1,6.8
+其他西餐,Barra,Barra,0,南区老城(Amsterdam Oud-Zuid),6.8,7.1,6.8
+其他西餐,Marnix,Marnix,0,市中心(Amsterdam Centrum),6.7,6.9,6.7
+其他西餐,Mmm eat,Mmm eat,0,海堡(Zeeburg),6.9,6.9,6.9
+其他西餐,Brasserie 't Plein,Brasserie 't Plein,0,北区(Amsterdam-Noord),6.9,6.9,6.9
+其他西餐,Icebar Amsterdam,Icebar Amsterdam,0,市中心(Amsterdam Centrum),6.3,6.8,6.3
+其他西餐,The Grand Amsterdam,The Grand Amsterdam,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+中餐,阿姆斯特丹福禄中餐馆,阿姆斯特丹福禄中餐馆,146,市中心(Amsterdam Centrum),7.2,7.0,7.2
+中餐,新皇酒楼,新皇酒楼,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+中餐,Nam Kee Chinatown,Nam Kee Chinatown,0,市中心(Amsterdam Centrum),6.9,6.2,6.4
+中餐,oriental city,oriental city,0,市中心(Amsterdam Centrum),8.0,8.0,8.0
+中餐,Restaurant Mandarijn,Restaurant Mandarijn,0,市中心(Amsterdam Centrum),6.6,7.2,7.2
+中餐,New King,New King,0,市中心(Amsterdam Centrum),7.1,6.8,6.7
+中餐,Nam Kee,Nam Kee,0,南区老城(Amsterdam Oud-Zuid),6.9,6.6,6.4
+中餐,海上皇宫,海上皇宫,0,市中心(Amsterdam Centrum),7.4,7.6,7.2
+中餐,Golden Chopsticks,Golden Chopsticks,0,市中心(Amsterdam Centrum),7.5,7.5,7.2
+中餐,Wing Kee,Wing Kee,0,市中心(Amsterdam Centrum),7.5,7.5,7.5
+中餐,Sichuan Food,Sichuan Food,0,市中心(Amsterdam Centrum),7.1,7.4,7.4
+中餐,Nam Kee Nieuwmarkt,Nam Kee Nieuwmarkt,0,市中心(Amsterdam Centrum),7.5,7.2,5.7
+中餐,China Si Chuan Kitchen,China Si Chuan Kitchen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,Lee Ka Chu - Taste of Culture,Lee Ka Chu - Taste of Culture,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+中餐,阿姆斯特丹福禄中餐馆,阿姆斯特丹福禄中餐馆,0,市中心(Amsterdam Centrum),8.4,8.4,8.4
+中餐,Kam Yin,Kam Yin,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+中餐,New China City,New China City,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+中餐,Mr Tongs,Mr Tongs,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,Wok King,Wok King,0,祖德马斯特尔(Zuideramstel),7.1,7.1,6.9
+中餐,东方美食128,东方美食128,0,南区老城(Amsterdam Oud-Zuid),7.5,7.1,7.1
+中餐,Wonder Wok,Wonder Wok,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+中餐,扎西德勒,扎西德勒,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,Lai & Wai - Asian Bistro,Lai & Wai - Asian Bistro,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,Nieuw Peking,Nieuw Peking,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+中餐,Tibetaanse restaurant Tibet,Tibetaanse restaurant Tibet,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,Uncle Wong,Uncle Wong,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+中餐,龙城私房菜,龙城私房菜,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,Wok To Go,Wok To Go,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+中餐,Hoi Tin,Hoi Tin,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+中餐,Four Leaves,Four Leaves,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+中餐,Coffee & Paste,Coffee & Paste,0,南区老城(Amsterdam Oud-Zuid),7.0,7.1,7.1
+中餐,Pagode,Pagode,0,旧西区(Oud-West),7.0,7.0,7.0
+中餐,Kam Kee,Kam Kee,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+中餐,Mandarin SI-CHUAN,Mandarin SI-CHUAN,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+中餐,San Lok,San Lok,0,斯洛特瓦特(Slotervaart),6.9,6.9,6.9
+中餐,Umami Amsterdam,Umami Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,Sherpa,Sherpa,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+中餐,Woo Bros,Woo Bros,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,Yang Ming Asian Cuisine,Yang Ming Asian Cuisine,0,博斯恩伦默(Bos en Lommer),7.0,6.7,6.9
+中餐,Snow Lion Tibetan Restaurant,Snow Lion Tibetan Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,Java Chinese-Indonesian Restaurant,Java Chinese-Indonesian Restaurant,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+中餐,Albina Restaurant,Albina Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,6.9
+中餐,Yu Family Kitchen,Yu Family Kitchen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,Himalayan Kitchen,Himalayan Kitchen,0,旧西区(Oud-West),7.2,7.2,7.2
+中餐,New Happy Corner,New Happy Corner,0,其他,7.0,7.0,7.0
+中餐,Norling Restaurant Amsterdam,Norling Restaurant Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,Mie Lobie,Mie Lobie,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,7.0
+中餐,Asia Dam,Asia Dam,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+中餐,Royal Mandarin,Royal Mandarin,0,市中心(Amsterdam Centrum),6.7,6.7,6.7
+中餐,Good Fortune,Good Fortune,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+中餐,Citea Amsterdam,Citea Amsterdam,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+中餐,Havenstad,Havenstad,0,海堡(Zeeburg),6.9,6.9,6.9
+中餐,wok2home,wok2home,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+中餐,Asian King Sushi Bar,Asian King Sushi Bar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+中餐,Dim Sum Court,Dim Sum Court,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+中餐,青木村,青木村,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+中餐,New San Kong,New San Kong,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,6.9
+中餐,Grannies,Grannies,0,阿姆斯特丹国际机场周边,7.1,7.1,7.1
+中餐,Fook Sing,Fook Sing,0,海堡(Zeeburg),7.0,7.1,7.1
+中餐,Chengdu,Chengdu,0,海堡(Zeeburg),7.0,7.0,7.0
+日韩料理,Umi Sushi & Grill,Umi Sushi & Grill,0,市中心(Amsterdam Centrum),8.3,8.3,7.9
+日韩料理,Korean Garden,Korean Garden,0,祖德马斯特尔(Zuideramstel),7.1,7.0,7.0
+日韩料理,Momo Restaurant,Momo Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+日韩料理,Hakata Senpachi,Hakata Senpachi,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.1
+日韩料理,Sushi Time,Sushi Time,0,祖德马斯特尔(Zuideramstel),7.1,7.1,7.1
+日韩料理,The Oyster Club,The Oyster Club,0,南区老城(Amsterdam Oud-Zuid),7.1,6.8,7.1
+日韩料理,Restaurant MuGen,Restaurant MuGen,0,旧西区(Oud-West),6.7,6.9,6.7
+日韩料理,Yamazato Restaurant,Yamazato Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+日韩料理,Miss Korea,Miss Korea,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+日韩料理,Kyoto,Kyoto,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+日韩料理,SUMO Sushi & Grill Restaurant,SUMO Sushi & Grill Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+日韩料理,Izakaya,Izakaya,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+日韩料理,Zushi,Zushi,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+日韩料理,Mitsukuni,Mitsukuni,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+日韩料理,Kagetsu,Kagetsu,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+日韩料理,Yumisushi,Yumisushi,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+日韩料理,Sake & Co,Sake & Co,0,市中心(Amsterdam Centrum),6.9,7.0,7.0
+日韩料理,Umami Amsterdam,Umami Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+日韩料理,"Shiki, Japanese Restaurant","Shiki, Japanese Restaurant",0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+日韩料理,Sushi Inn,Sushi Inn,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+日韩料理,Japans Delicatessenhuis Zen,Japans Delicatessenhuis Zen,0,南区老城(Amsterdam Oud-Zuid),7.0,7.1,7.0
+日韩料理,Hosokawa,Hosokawa,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+日韩料理,Sapporo Teppanyaki & Sushi Restaurant,Sapporo Teppanyaki & Sushi Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+日韩料理,Khan,Khan,0,祖德马斯特尔(Zuideramstel),7.1,7.0,7.0
+日韩料理,An,An,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+日韩料理,Umeno,Umeno,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+日韩料理,Shabu Shabu,Shabu Shabu,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+日韩料理,Asia Dam,Asia Dam,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+日韩料理,Hasekura,Hasekura,0,市中心(Amsterdam Centrum),7.1,6.8,6.8
+日韩料理,#NAME?,#NAME?,0,市中心(Amsterdam Centrum),6.8,6.8,6.6
+日韩料理,Tomo Sushi,Tomo Sushi,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+日韩料理,Japanse Restaurant Genki,Japanse Restaurant Genki,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+日韩料理,Japan Inn Yakitori,Japan Inn Yakitori,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+日韩料理,Tempura,Tempura,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+日韩料理,Haedanghwa,Haedanghwa,0,其他,6.9,6.9,6.9
+日韩料理,Suvi AsianFood Lounge,Suvi AsianFood Lounge,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.0
+日韩料理,Kaiko,Kaiko,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+日韩料理,Ikimasu,Ikimasu,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+日韩料理,Foam Cafe,Foam Cafe,0,市中心(Amsterdam Centrum),7.0,6.9,7.0
+日韩料理,Sushi eetcafe,Sushi eetcafe,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+日韩料理,Issa,Issa,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,6.9
+日韩料理,kagetsu,kagetsu,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+日韩料理,Mika,Mika,0,祖德马斯特尔(Zuideramstel),7.1,7.0,7.0
+日韩料理,Orandaya,Orandaya,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+日韩料理,Zen Japans Restaurant Sushi & Grill,Zen Japans Restaurant Sushi & Grill,0,海堡(Zeeburg),7.0,7.0,7.0
+日韩料理,Rice & Spice Asian Deli,Rice & Spice Asian Deli,0,市中心(Amsterdam Centrum),7.1,7.1,6.9
+日韩料理,Soho Sushi,Soho Sushi,0,市中心(Amsterdam Centrum),7.2,6.8,7.2
+日韩料理,Asian King Sushi Bar,Asian King Sushi Bar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+日韩料理,Tokyo Cafe,Tokyo Cafe,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+日韩料理,Wok & Zo,Wok & Zo,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+日韩料理,Ristiranti Sushi All You Can Eat Amsterdam,Ristiranti Sushi All You Can Eat Amsterdam,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+日韩料理,Akitsu,Akitsu,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+日韩料理,Le Fou Fow,Le Fou Fow,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+日韩料理,Genroku,Genroku,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+日韩料理,KOBE house,KOBE house,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+日韩料理,Morita-Ya,Morita-Ya,0,市中心(Amsterdam Centrum),7.0,7.1,7.0
+日韩料理,Sugoi! sushi,Sugoi! sushi,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+日韩料理,Teppanyaki Restaurant Sazanka,Teppanyaki Restaurant Sazanka,0,南区老城(Amsterdam Oud-Zuid),7.7,7.2,7.2
+日韩料理,Mangetsu Amsterdam,Mangetsu Amsterdam,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+日韩料理,Isakaya Amsterdam,Isakaya Amsterdam,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+日韩料理,Japans Restaurant Otaru,Japans Restaurant Otaru,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+日韩料理,Kagetsu Kastelenstraat,Kagetsu Kastelenstraat,0,祖德马斯特尔(Zuideramstel),7.1,7.1,7.1
+日韩料理,Takara,Takara,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+日韩料理,Osaka,Osaka,0,北区(Amsterdam-Noord),7.0,7.0,6.9
+日韩料理,Sushi One,Sushi One,0,西部公园区(Westerpark),6.7,6.9,6.9
+日韩料理,Asianking2,Asianking2,0,博斯恩伦默(Bos en Lommer),6.9,6.9,6.9
+更多亚洲菜,Artist,Artist,0,南区老城(Amsterdam Oud-Zuid),8.1,8.1,8.1
+更多亚洲菜,Restaurant DREAM,Restaurant DREAM,0,西部公园区(Westerpark),7.5,8.1,8.1
+更多亚洲菜,Eat Mode,Eat Mode,0,市中心(Amsterdam Centrum),6.3,6.7,6.1
+更多亚洲菜,Sama Sebo,Sama Sebo,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多亚洲菜,Momo Restaurant,Momo Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多亚洲菜,Lai & Wai - Asian Bistro,Lai & Wai - Asian Bistro,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Kantjil & de Tijger,Kantjil & de Tijger,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Balti House,Balti House,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多亚洲菜,Kularb Manee Thai Restaurant,Kularb Manee Thai Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Chutima's,Chutima's,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多亚洲菜,Mt.Everest Nepalese Resturent & indiaas,Mt.Everest Nepalese Resturent & indiaas,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多亚洲菜,Jasmine Thai Cuisine,Jasmine Thai Cuisine,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Malaysian restaurant Wau,Malaysian restaurant Wau,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Tempo Doeloe,Tempo Doeloe,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Blue Pepper,Blue Pepper,0,旧西区(Oud-West),7.2,7.2,7.2
+更多亚洲菜,Nooch,Nooch,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,srikandi,srikandi,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多亚洲菜,Xinh,Xinh,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Tandoor Special Indian Restaurant,Tandoor Special Indian Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Gandhi,Gandhi,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Izakaya,Izakaya,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多亚洲菜,White Elephant,White Elephant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Sie-Joe,Sie-Joe,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Royal Tandoori,Royal Tandoori,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Bird Thai Restaurant,Bird Thai Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Djago,Djago,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多亚洲菜,Cedars Libanees Restaurant,Cedars Libanees Restaurant,0,斯洛特瓦特(Slotervaart),7.2,7.2,7.2
+更多亚洲菜,Oriental Grill,Oriental Grill,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+更多亚洲菜,Yokiyo,Yokiyo,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Shanghai Noodle,Shanghai Noodle,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Bird Thai Snackbar,Bird Thai Snackbar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Semmy's,Semmy's,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+更多亚洲菜,Bollywood Indian Restaurant,Bollywood Indian Restaurant,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Sari Citra,Sari Citra,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多亚洲菜,Rice is Nice,Rice is Nice,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多亚洲菜,Restaurant Bir Bey,Restaurant Bir Bey,0,其他,7.0,7.0,7.0
+更多亚洲菜,Suvarnaphum,Suvarnaphum,0,斯洛特瓦特(Slotervaart),7.0,7.0,6.9
+更多亚洲菜,Vijay Dhaba,Vijay Dhaba,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多亚洲菜,Sherpa,Sherpa,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多亚洲菜,Nieuw Albina,Nieuw Albina,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,6.8
+更多亚洲菜,Levant,Levant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Yu Family Kitchen,Yu Family Kitchen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Blauw,Blauw,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多亚洲菜,Thai Phutakun,Thai Phutakun,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Toko Joyce,Toko Joyce,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Koh-i-Noor,Koh-i-Noor,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Anmol,Anmol,0,旧西区(Oud-West),7.0,7.0,7.0
+更多亚洲菜,Bir Tat,Bir Tat,0,博斯恩伦默(Bos en Lommer),7.3,7.3,7.1
+更多亚洲菜,Tasty Asia,Tasty Asia,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Billy Thai's Restaurant,Billy Thai's Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Shiva Indian Restaurant,Shiva Indian Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Sahan,Sahan,0,其他,7.1,7.1,7.1
+更多亚洲菜,Himalayan Kitchen,Himalayan Kitchen,0,旧西区(Oud-West),7.2,7.2,7.2
+更多亚洲菜,Paknam Pho,Paknam Pho,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Restaurant Korea,Restaurant Korea,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+更多亚洲菜,Thai Company,Thai Company,0,市中心(Amsterdam Centrum),7.0,6.9,7.0
+更多亚洲菜,Wagamama,Wagamama,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+更多亚洲菜,Shah-jahan,Shah-jahan,0,市中心(Amsterdam Centrum),7.7,7.7,7.2
+更多亚洲菜,Sing Sing,Sing Sing,0,南区老城(Amsterdam Oud-Zuid),7.0,6.9,7.0
+更多亚洲菜,Kartika,Kartika,0,旧西区(Oud-West),7.2,7.2,7.2
+更多亚洲菜,Indonesian Restaurant Sukabumi,Indonesian Restaurant Sukabumi,0,市中心(Amsterdam Centrum),6.8,7.1,6.6
+更多亚洲菜,Soenda Kelapa,Soenda Kelapa,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Puri Mas,Puri Mas,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Royal Thai,Royal Thai,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Meghna,Meghna,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Bangkok,Bangkok,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Dynasty,Dynasty,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Sampurna,Sampurna,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Thai Fusion,Thai Fusion,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Song Kwae Thai Food,Song Kwae Thai Food,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Purna Indian Restaurant,Purna Indian Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,A-Fusion,A-Fusion,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Long Pura,Long Pura,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Kooning van Siam,Kooning van Siam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Indiaas Restaurant VIjaya,Indiaas Restaurant VIjaya,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Aneka Rasa,Aneka Rasa,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Moti Mahal,Moti Mahal,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Rangoli Restaurant,Rangoli Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Thai & Co,Thai & Co,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Balraj,Balraj,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Bazar,Bazar,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多亚洲菜,Restaurant Thai Corner,Restaurant Thai Corner,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Banks,Banks,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多亚洲菜,Cafe Kadijk,Cafe Kadijk,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Best Thai,Best Thai,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Raan Phad Thai 2,Raan Phad Thai 2,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Samrat,Samrat,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Siam Thais Eetcafe,Siam Thais Eetcafe,0,其他,6.9,6.9,6.9
+更多亚洲菜,Maharaja of India,Maharaja of India,0,其他,7.1,7.1,7.1
+更多亚洲菜,Maesomjai,Maesomjai,0,其他,6.9,6.9,6.9
+更多亚洲菜,I love kebab,I love kebab,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Terang Boelan,Terang Boelan,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+更多亚洲菜,Eetcafe Kim,Eetcafe Kim,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多亚洲菜,Diya Indian Restaurant,Diya Indian Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多亚洲菜,Desa,Desa,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多亚洲菜,Toko Kokkita,Toko Kokkita,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,6.9
+更多亚洲菜,CousCous Club,CousCous Club,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多亚洲菜,Hello Sushi,Hello Sushi,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多亚洲菜,Amnol Indian Restaurant,Amnol Indian Restaurant,0,旧西区(Oud-West),7.1,6.8,6.8
+更多亚洲菜,Atlas,Atlas,0,旧西区(Oud-West),6.9,6.9,6.9
+更多亚洲菜,Beyrouth,Beyrouth,0,旧西区(Oud-West),7.1,7.1,7.1
+更多亚洲菜,Kervan Cafe & Restaurant,Kervan Cafe & Restaurant,0,沃特格拉斯米尔(Watergraafsmeer),6.9,6.9,6.9
+更多亚洲菜,Orbit Amsterdam,Orbit Amsterdam,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多亚洲菜,Naan Naam,Naan Naam,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多亚洲菜,Toko Asian Delight,Toko Asian Delight,0,其他,6.9,6.9,6.9
+更多亚洲菜,Donny's Fine Food and Cocktails,Donny's Fine Food and Cocktails,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多亚洲菜,Guru of India,Guru of India,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多亚洲菜,Nile Sphinx,Nile Sphinx,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+更多亚洲菜,Verse Pannekoeken en poffertjes,Verse Pannekoeken en poffertjes,0,市中心(Amsterdam Centrum),6.7,6.7,6.7
+更多亚洲菜,Thai Butterfly,Thai Butterfly,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多亚洲菜,Murugan,Murugan,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+更多亚洲菜,Kam Wah,Kam Wah,0,其他,7.0,7.0,7.0
+更多亚洲菜,Bunga Mawar,Bunga Mawar,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多亚洲菜,Masala Indian Restaurant,Masala Indian Restaurant,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多亚洲菜,Restaurant Saray,Restaurant Saray,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多亚洲菜,De Vredespijp,De Vredespijp,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多亚洲菜,Muang Thai,Muang Thai,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,6.7
+更多亚洲菜,Baan Pong,Baan Pong,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.1,6.9
+更多亚洲菜,Roopram Roti,Roopram Roti,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,6.9
+更多亚洲菜,MG Food,MG Food,0,沃特格拉斯米尔(Watergraafsmeer),6.9,6.9,6.9
+更多亚洲菜,Blaauw,Blaauw,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+更多亚洲菜,Mesken,Mesken,0,海堡(Zeeburg),7.0,7.0,7.0
+更多亚洲菜,Restaurant Antep Sofrasi Amsterdam,Restaurant Antep Sofrasi Amsterdam,0,海堡(Zeeburg),6.9,6.9,6.9
+更多亚洲菜,"Turks Restaurant Elmas, Amsterdam","Turks Restaurant Elmas, Amsterdam",0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多亚洲菜,Toros,Toros,0,其他,7.1,7.0,7.0
+更多亚洲菜,Mehtap,Mehtap,0,杜巴罗斯(De Baarsjes),6.9,6.9,6.9
+更多亚洲菜,Heavenly Made with Love,Heavenly Made with Love,0,市中心(Amsterdam Centrum),7.5,7.5,7.1
+更多亚洲菜,mayur,mayur,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Rice & Spice Asian Deli,Rice & Spice Asian Deli,0,市中心(Amsterdam Centrum),7.1,7.1,6.9
+更多亚洲菜,Na Siam,Na Siam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Take Thai,Take Thai,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Bojo Speciaal,Bojo Speciaal,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Soho Sushi,Soho Sushi,0,市中心(Amsterdam Centrum),7.2,6.8,7.2
+更多亚洲菜,Saigon Café,Saigon Café,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Bombay Inn,Bombay Inn,0,市中心(Amsterdam Centrum),7.1,7.1,6.8
+更多亚洲菜,Akbar Indian Restaurant,Akbar Indian Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Pelangi,Pelangi,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Memories of India,Memories of India,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Sahid Jaya,Sahid Jaya,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Mister Wok Lombok,Mister Wok Lombok,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Asian Kitchen,Asian Kitchen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Krua Thai Classic Restaurant,Krua Thai Classic Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Wok & Zo,Wok & Zo,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,cilubang,cilubang,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多亚洲菜,Dapur Kita,Dapur Kita,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多亚洲菜,Rakang Thai,Rakang Thai,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Mogil Indian Restaurant,Mogil Indian Restaurant,0,市中心(Amsterdam Centrum),6.7,6.7,6.9
+更多亚洲菜,Kathmandu Kitchen,Kathmandu Kitchen,0,市中心(Amsterdam Centrum),7.0,7.1,7.0
+更多亚洲菜,Divan,Divan,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Nyonya Malaysia Express,Nyonya Malaysia Express,0,市中心(Amsterdam Centrum),7.1,7.1,6.8
+更多亚洲菜,Koh-i-Noor,Koh-i-Noor,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Warie's Thai food,Warie's Thai food,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Me Naam Naan,Me Naam Naan,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Mae Somjai,Mae Somjai,0,市中心(Amsterdam Centrum),7.1,7.0,6.9
+更多亚洲菜,Middle East,Middle East,0,市中心(Amsterdam Centrum),7.0,6.7,6.7
+更多亚洲菜,Shoarma Mesut,Shoarma Mesut,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+更多亚洲菜,"Cook Kai, Thai Kitchen","Cook Kai, Thai Kitchen",0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Restaurant Chow,Restaurant Chow,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Soen,Soen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Kadijk,Kadijk,0,其他,7.0,7.0,7.0
+更多亚洲菜,Papatya,Papatya,0,其他,7.0,7.0,7.0
+更多亚洲菜,O-Cha,O-Cha,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,YoYo! Fresh Tea Bar,YoYo! Fresh Tea Bar,0,市中心(Amsterdam Centrum),7.0,7.1,7.0
+更多亚洲菜,Kamasutra,Kamasutra,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Top Thai,Top Thai,0,市中心(Amsterdam Centrum),7.1,7.1,6.8
+更多亚洲菜,Ghandi Indian Restaurant,Ghandi Indian Restaurant,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Geisha,Geisha,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Little Thai Prince,Little Thai Prince,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Maoz Vegetarian,Maoz Vegetarian,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Ganesha,Ganesha,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Ashoka Restaurant,Ashoka Restaurant,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+更多亚洲菜,MAX Restaurant Amsterdam,MAX Restaurant Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Ankara,Ankara,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,De Goudvis Club,De Goudvis Club,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多亚洲菜,Kinnaree Thai Cuisine,Kinnaree Thai Cuisine,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Ko-Chang,Ko-Chang,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多亚洲菜,Songkran,Songkran,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+更多亚洲菜,Namaskar,Namaskar,0,市中心(Amsterdam Centrum),7.1,7.1,6.8
+更多亚洲菜,Cafe Tabac,Cafe Tabac,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Som Tam Thai,Som Tam Thai,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多亚洲菜,Krua Buppha,Krua Buppha,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,6.9
+更多亚洲菜,Revan,Revan,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多亚洲菜,KiLim,KiLim,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多亚洲菜,Surya,Surya,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多亚洲菜,Pheun Thai,Pheun Thai,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,6.9
+更多亚洲菜,Dragon I,Dragon I,0,南区老城(Amsterdam Oud-Zuid),7.3,7.1,7.1
+更多亚洲菜,Zagros,Zagros,0,南区老城(Amsterdam Oud-Zuid),7.3,7.3,7.1
+更多亚洲菜,Puri Indonesia,Puri Indonesia,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,6.8
+更多亚洲菜,Djanoko,Djanoko,0,南区老城(Amsterdam Oud-Zuid),6.8,6.8,6.6
+更多亚洲菜,Moksi,Moksi,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多亚洲菜,KosebasI Amsterdam,KosebasI Amsterdam,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多亚洲菜,Eazie,Eazie,0,南区老城(Amsterdam Oud-Zuid),7.0,6.9,6.9
+更多亚洲菜,Taj Mahal,Taj Mahal,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多亚洲菜,Siriphon,Siriphon,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多亚洲菜,Neetu da Dhaba,Neetu da Dhaba,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多亚洲菜,Fan's Kitchen,Fan's Kitchen,0,旧西区(Oud-West),7.1,7.1,7.1
+更多亚洲菜,TOKO IKAN MAS,TOKO IKAN MAS,0,旧西区(Oud-West),7.0,7.1,7.0
+更多亚洲菜,Ko Chang Thai restaurant,Ko Chang Thai restaurant,0,旧西区(Oud-West),7.6,7.2,7.2
+更多亚洲菜,Mother India,Mother India,0,旧西区(Oud-West),7.1,7.1,7.0
+更多亚洲菜,iboenda Indonesian restaurant and takeaway,iboenda Indonesian restaurant and takeaway,0,旧西区(Oud-West),6.9,6.9,6.9
+更多亚洲菜,Kediri,Kediri,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.0,7.0
+更多亚洲菜,Indian Restaurant Natraj,Indian Restaurant Natraj,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.1,7.0
+更多亚洲菜,Konak,Konak,0,沃特格拉斯米尔(Watergraafsmeer),6.9,6.9,6.9
+更多亚洲菜,Hwa Won,Hwa Won,0,祖德马斯特尔(Zuideramstel),6.7,6.7,6.7
+更多亚洲菜,De Rijncantine,De Rijncantine,0,祖德马斯特尔(Zuideramstel),6.9,6.9,6.9
+更多亚洲菜,michiu,michiu,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+更多亚洲菜,Thai Tiger,Thai Tiger,0,海堡(Zeeburg),7.1,7.1,7.1
+更多亚洲菜,Yogya,Yogya,0,斯洛特瓦特(Slotervaart),7.0,7.0,7.0
+更多亚洲菜,Puspita,Puspita,0,北区(Amsterdam-Noord),7.0,7.0,7.0
+更多亚洲菜,Pasoek Thai Restaurant,Pasoek Thai Restaurant,0,北区(Amsterdam-Noord),7.3,7.1,7.1
+更多亚洲菜,JUN Indonesian Cuisine,JUN Indonesian Cuisine,0,西部公园区(Westerpark),7.2,7.2,7.2
+更多亚洲菜,Orontes West,Orontes West,0,西部公园区(Westerpark),7.1,7.1,7.0
+更多亚洲菜,Pie-Nong Thai,Pie-Nong Thai,0,西部公园区(Westerpark),6.7,6.9,6.9
+更多亚洲菜,Ada Lunch & Restaurant,Ada Lunch & Restaurant,0,赫曾费尔德-斯洛特湖,6.8,6.8,6.8
+更多亚洲菜,Konak Restaurant,Konak Restaurant,0,赫曾费尔德-斯洛特湖,7.1,7.0,7.0
+更多亚洲菜,Haweli Indian Restaurant,Haweli Indian Restaurant,0,杜巴罗斯(De Baarsjes),7.1,7.0,7.0
+更多亚洲菜,Kratiam Thai,Kratiam Thai,0,博斯恩伦默(Bos en Lommer),7.1,7.1,7.1
+更多亚洲菜,Betawi,Betawi,0,博斯恩伦默(Bos en Lommer),7.1,7.1,7.1
+更多亚洲菜,Tujuh Maret,Tujuh Maret,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+更多亚洲菜,Mai Thai,Mai Thai,0,市中心(Amsterdam Centrum),6.8,7.2,6.8
+更多亚洲菜,Coffee & Jazz,Coffee & Jazz,0,市中心(Amsterdam Centrum),7.1,6.8,6.8
+更多亚洲菜,Dosa,Dosa,0,旧西区(Oud-West),6.8,7.2,6.8
+更多亚洲菜,Miss Saigon,Miss Saigon,0,旧西区(Oud-West),7.1,7.1,6.8
+更多亚洲菜,Kiran's,Kiran's,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多亚洲菜,Maurya Indian Restaurant,Maurya Indian Restaurant,0,市中心(Amsterdam Centrum),6.8,6.8,6.6
+快餐简餐,小尿童薯条店,小尿童薯条店,25,市中心(Amsterdam Centrum),8.0,7.4,7.4
+快餐简餐,HEMA,HEMA,0,市中心(Amsterdam Centrum),7.3,7.0,7.1
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,市中心(Amsterdam Centrum),8.0,8.0,8.0
+快餐简餐,La Place Cafe,La Place Cafe,0,市中心(Amsterdam Centrum),7.5,7.5,7.5
+快餐简餐,Mediterranean Sandwich Bar,Mediterranean Sandwich Bar,0,阿姆斯特丹国际机场周边,7.3,7.3,7.3
+快餐简餐,Wagamama,Wagamama,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+快餐简餐,Starbucks,Starbucks,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,Greetje,Greetje,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,The Butcher,The Butcher,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+快餐简餐,Bagels & Beans,Bagels & Beans,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,Ron Blaauw Restaurant,Ron Blaauw Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+快餐简餐,Semmy's,Semmy's,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+快餐简餐,Sunny's Burger Joint,Sunny's Burger Joint,0,市中心(Amsterdam Centrum),7.3,7.3,7.1
+快餐简餐,Jordino,Jordino,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+快餐简餐,McDonald's,McDonald's,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+快餐简餐,Bubbles & Wines Wine and Champagne Bar,Bubbles & Wines Wine and Champagne Bar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,George W. P. A,George W. P. A,0,南区老城(Amsterdam Oud-Zuid),7.2,6.8,7.2
+快餐简餐,Satellite Sports Cafe,Satellite Sports Cafe,0,市中心(Amsterdam Centrum),7.2,6.8,6.8
+快餐简餐,Bagels & Beans,Bagels & Beans,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+快餐简餐,Bagels & Beans,Bagels & Beans,0,西部公园区(Westerpark),7.6,7.6,7.2
+快餐简餐,Mondo Mediterraneo / Uptown,Mondo Mediterraneo / Uptown,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+快餐简餐,Bagels & Beans,Bagels & Beans,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+快餐简餐,Favorite Chicken & Ribs,Favorite Chicken & Ribs,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+快餐简餐,Pizzeria Steakhouse,Pizzeria Steakhouse,0,市中心(Amsterdam Centrum),6.5,6.5,6.5
+快餐简餐,Bagels & Beans,Bagels & Beans,0,旧西区(Oud-West),7.1,7.3,7.1
+快餐简餐,Koepelcafe,Koepelcafe,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,Burgermeester,Burgermeester,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+快餐简餐,Bagels & Beans,Bagels & Beans,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+快餐简餐,Dauphine,Dauphine,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+快餐简餐,Loekie,Loekie,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+快餐简餐,Bakkerij Out,Bakkerij Out,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+快餐简餐,Bagels & Beans,Bagels & Beans,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+快餐简餐,Pancakes & Waffles,Pancakes & Waffles,0,其他,7.1,7.1,7.1
+快餐简餐,Burger King,Burger King,0,市中心(Amsterdam Centrum),7.1,6.8,6.8
+快餐简餐,G's,G's,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+快餐简餐,Americakes,Americakes,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+快餐简餐,Parck,Parck,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+快餐简餐,Mulliner's wijnlokaal,Mulliner's wijnlokaal,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+快餐简餐,Frozz & Oodlz - Leidsestraat,Frozz & Oodlz - Leidsestraat,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+快餐简餐,Downtown American Diner,Downtown American Diner,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+快餐简餐,Bagels & Beans,Bagels & Beans,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+快餐简餐,Rosticceria Italiana,Rosticceria Italiana,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+快餐简餐,Village Bagels,Village Bagels,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+快餐简餐,Bagels & Wraps,Bagels & Wraps,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+快餐简餐,Lombardo's,Lombardo's,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+快餐简餐,Bagels & Beans,Bagels & Beans,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,Sapori Del Mondo,Sapori Del Mondo,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,Frozz & Oodlz - Reguliersbreestraat,Frozz & Oodlz - Reguliersbreestraat,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+快餐简餐,Milk & Honey,Milk & Honey,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+快餐简餐,Broodje Bert,Broodje Bert,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,Dim Sum Court,Dim Sum Court,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+快餐简餐,Kfc Amsterdam,Kfc Amsterdam,0,市中心(Amsterdam Centrum),7.2,6.8,6.8
+快餐简餐,Melly's Cookie Bar,Melly's Cookie Bar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,Argentinian Grill At James,Argentinian Grill At James,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,Burger Bar,Burger Bar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,Rio Bueno,Rio Bueno,0,市中心(Amsterdam Centrum),7.1,6.8,7.1
+快餐简餐,Prix D'Ami,Prix D'Ami,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+快餐简餐,Cafe Restaurant Q Global Kitchen,Cafe Restaurant Q Global Kitchen,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+快餐简餐,Starbucks,Starbucks,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+快餐简餐,Cafe Tabac,Cafe Tabac,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+快餐简餐,Small World Catering,Small World Catering,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+快餐简餐,Burrito Maker,Burrito Maker,0,市中心(Amsterdam Centrum),6.9,7.0,6.9
+快餐简餐,Bagel Nash,Bagel Nash,0,南区老城(Amsterdam Oud-Zuid),6.9,7.0,6.9
+快餐简餐,Bagels & Beans,Bagels & Beans,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.3
+快餐简餐,Frozz & Oodlz - De Pijp,Frozz & Oodlz - De Pijp,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+快餐简餐,Renzo's,Renzo's,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+快餐简餐,Cafe Kaliber,Cafe Kaliber,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+快餐简餐,Manhattan Lounge Bar,Manhattan Lounge Bar,0,祖德马斯特尔(Zuideramstel),7.1,7.1,7.1
+快餐简餐,Caffe Esprit,Caffe Esprit,0,北区(Amsterdam-Noord),7.2,6.8,7.2
+快餐简餐,Harlem Soul Food,Harlem Soul Food,0,其他,7.2,7.2,7.2
+快餐简餐,Vis en Friet Amsterdam,Vis en Friet Amsterdam,0,南区老城(Amsterdam Oud-Zuid),6.9,6.7,6.7
+海鲜,The Seafood Bar,The Seafood Bar,0,南区老城(Amsterdam Oud-Zuid),7.9,7.9,7.9
+海鲜,Brasserie Bark,Brasserie Bark,0,南区老城(Amsterdam Oud-Zuid),7.4,7.4,7.4
+海鲜,d'Azur,d'Azur,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+海鲜,De Oesterbar,De Oesterbar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+海鲜,Toro Dorado,Toro Dorado,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+海鲜,La Sirène,La Sirène,0,南区老城(Amsterdam Oud-Zuid),7.6,7.2,7.2
+海鲜,Lucius,Lucius,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+海鲜,The Lobster House,The Lobster House,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+海鲜,Olivar Restaurante Bar & Tapas,Olivar Restaurante Bar & Tapas,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+海鲜,Visaandeschelde,Visaandeschelde,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+海鲜,The Harbour Club,The Harbour Club,0,海堡(Zeeburg),7.2,7.2,7.2
+海鲜,Palladium,Palladium,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+海鲜,Haringhandel Jonk,Haringhandel Jonk,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+海鲜,De knijp,De knijp,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+海鲜,Zouthaven,Zouthaven,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+海鲜,Eenvistweevis,Eenvistweevis,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+海鲜,Nevy,Nevy,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+海鲜,Stork,Stork,0,北区(Amsterdam-Noord),7.2,7.2,7.2
+烧烤,La Place Cafe,La Place Cafe,0,市中心(Amsterdam Centrum),7.5,7.5,7.5
+烧烤,Sport Club,Sport Club,0,市中心(Amsterdam Centrum),7.2,6.8,6.4
+烧烤,Argentinos San Thomas - MG,Argentinos San Thomas - MG,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+烧烤,CAU,CAU,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+烧烤,Yokiyo,Yokiyo,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+烧烤,Grillroom De Molen,Grillroom De Molen,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+烧烤,About Jackie,About Jackie,0,博斯恩伦默(Bos en Lommer),7.0,7.0,7.0
+烧烤,Maya's Grillsteakhouse,Maya's Grillsteakhouse,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+烧烤,Brasserie Vlaming - Amsterdam,Brasserie Vlaming - Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+烧烤,Marathonweg,Marathonweg,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+烧烤,Keizersgracht 238,Keizersgracht 238,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+烧烤,Brouw,Brouw,0,旧西区(Oud-West),7.0,7.0,7.0
+烧烤,Restaurant La Cacerola,Restaurant La Cacerola,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+烧烤,Barbeque Castell,Barbeque Castell,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+烧烤,Lombardo's,Lombardo's,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+烧烤,La Luna Steakhouse Grill,La Luna Steakhouse Grill,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+烧烤,De Nachtwacht,De Nachtwacht,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+烧烤,Restaurant Luna,Restaurant Luna,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+烧烤,'t Steakhouse,'t Steakhouse,0,南区老城(Amsterdam Oud-Zuid),7.1,6.8,7.1
+烧烤,Cafe Loetje,Cafe Loetje,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+烧烤,Brasserie SenT,Brasserie SenT,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+烧烤,San Cirillo,San Cirillo,0,市中心(Amsterdam Centrum),6.8,6.8,6.6
+烧烤,海爷烤串,海爷烤串,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+比萨,Marco Polo,Marco Polo,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+比萨,Restaurant DREAM,Restaurant DREAM,0,西部公园区(Westerpark),7.5,8.1,8.1
+比萨,Da Portare Via,Da Portare Via,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+比萨,BeGood,BeGood,0,其他,7.3,7.3,7.1
+比萨,Pomorosso Pizzeria,Pomorosso Pizzeria,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+比萨,Antonio's Ristorante Italiano,Antonio's Ristorante Italiano,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+比萨,Da Portare Via,Da Portare Via,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+比萨,Pizza Amsterdam,Pizza Amsterdam,0,旧西区(Oud-West),7.0,7.0,7.0
+比萨,New York Pizza,New York Pizza,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+比萨,Pazzi Italian Slow Food,Pazzi Italian Slow Food,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+比萨,Marathonweg,Marathonweg,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+比萨,Saturnino,Saturnino,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+比萨,Argentine Steakhouse Amsterdam,Argentine Steakhouse Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+比萨,Talia,Talia,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+比萨,Mangiancora,Mangiancora,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.0
+比萨,EL Shygh,EL Shygh,0,沃特格拉斯米尔(Watergraafsmeer),6.9,6.9,6.9
+比萨,De Pizzakamer,De Pizzakamer,0,西部公园区(Westerpark),7.0,7.1,7.0
+比萨,Pizza Pazzani,Pizza Pazzani,0,西部公园区(Westerpark),6.9,6.9,6.9
+比萨,Eatmosfera Ristorante,Eatmosfera Ristorante,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+比萨,Pizzeria Ristorante Firenze,Pizzeria Ristorante Firenze,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+比萨,San Tommaso - WS,San Tommaso - WS,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+比萨,Pizzeria Tivoli,Pizzeria Tivoli,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+比萨,La Perla,La Perla,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+比萨,SOTTO - pizza legale,SOTTO - pizza legale,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+比萨,Pink Flamingo Pizza,Pink Flamingo Pizza,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+比萨,Pizzeria Fuoco Vivo,Pizzeria Fuoco Vivo,0,旧西区(Oud-West),7.2,7.2,7.2
+比萨,Pinsa's Restaurant,Pinsa's Restaurant,0,西部公园区(Westerpark),7.2,7.2,7.2
+咖啡厅,星巴克,星巴克,0,阿姆斯特丹国际机场周边,7.0,6.9,6.8
+咖啡厅,Starbucks(阿姆斯特丹火车站),Starbucks(阿姆斯特丹火车站),0,市中心(Amsterdam Centrum),7.1,6.8,7.0
+咖啡厅,Luxembourg,Luxembourg,0,市中心(Amsterdam Centrum),7.5,7.5,7.5
+咖啡厅,Het Paleis,Het Paleis,0,阿姆斯特丹国际机场周边,7.3,7.3,7.3
+咖啡厅,星巴克,星巴克,0,阿姆斯特丹国际机场周边,7.3,7.3,7.3
+咖啡厅,HET PALEIS,HET PALEIS,0,阿姆斯特丹国际机场周边,6.9,6.9,6.9
+咖啡厅,Cafe Comunal,Cafe Comunal,0,,6.7,7.5,6.7
+咖啡厅,Kadinsky Coffeeshop,Kadinsky Coffeeshop,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+咖啡厅,De Tweede Kamer Coffeeshop,De Tweede Kamer Coffeeshop,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+咖啡厅,Coffeeshop Bluebird,Coffeeshop Bluebird,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+咖啡厅,420 Cafe,420 Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Le Pain Quotidien - Spuistraat,Le Pain Quotidien - Spuistraat,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Coffeeshop Hill Street Blues,Coffeeshop Hill Street Blues,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+咖啡厅,Cafe Het Paleis,Cafe Het Paleis,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Casa Juan,Casa Juan,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+咖啡厅,Cafe Welling,Cafe Welling,0,南区老城(Amsterdam Oud-Zuid),0.0,0.0,0.0
+咖啡厅,La boutique del caffe,La boutique del caffe,0,南区老城(Amsterdam Oud-Zuid),7.5,7.1,7.1
+咖啡厅,Coffeeshop Central,Coffeeshop Central,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+咖啡厅,Bagels & Beans,Bagels & Beans,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Coffee & Paste,Coffee & Paste,0,南区老城(Amsterdam Oud-Zuid),7.0,7.1,7.1
+咖啡厅,Banketbakkerij Kwekkeboom,Banketbakkerij Kwekkeboom,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,De taart van m'n tante,De taart van m'n tante,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+咖啡厅,Hofje van Wijs,Hofje van Wijs,0,市中心(Amsterdam Centrum),7.2,6.8,7.2
+咖啡厅,Puccini Bomboni,Puccini Bomboni,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Amaryylles Cafe,Amaryylles Cafe,0,其他,7.0,7.0,7.0
+咖啡厅,De laatste Kruimel,De laatste Kruimel,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+咖啡厅,Cafe Kuijper,Cafe Kuijper,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+咖啡厅,Le Pain Quotidien - Oud Zuid,Le Pain Quotidien - Oud Zuid,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+咖啡厅,Cafe Chocolat,Cafe Chocolat,0,,7.1,7.0,7.0
+咖啡厅,Broodbar,Broodbar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Berkhout,Berkhout,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Coffeeshop Balou,Coffeeshop Balou,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+咖啡厅,Bierfabriek,Bierfabriek,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Double Reggae,Double Reggae,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+咖啡厅,Meatballs,Meatballs,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Sweet Cup,Sweet Cup,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+咖啡厅,Lunchroom Downtown,Lunchroom Downtown,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Blauwe Brug,Blauwe Brug,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,De Schutter,De Schutter,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Bagels & Beans,Bagels & Beans,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Kaldi Amsterdam,Kaldi Amsterdam,0,市中心(Amsterdam Centrum),7.0,7.1,7.0
+咖啡厅,Gewaeght Cafe,Gewaeght Cafe,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Cafe De Gouden Florijn,Cafe De Gouden Florijn,0,市中心(Amsterdam Centrum),6.9,7.1,7.1
+咖啡厅,Cafe Barco,Cafe Barco,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Cafe De Nieuwe Lelie,Cafe De Nieuwe Lelie,0,市中心(Amsterdam Centrum),6.9,7.1,7.1
+咖啡厅,Betty Boop Coffeeshop,Betty Boop Coffeeshop,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+咖啡厅,Concertgebouw Cafe,Concertgebouw Cafe,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+咖啡厅,Kashmir Lounge,Kashmir Lounge,0,旧西区(Oud-West),7.0,7.1,7.1
+咖啡厅,Headfirst Coffee Roasters,Headfirst Coffee Roasters,0,旧西区(Oud-West),7.0,7.0,7.1
+咖啡厅,Coffee Room,Coffee Room,0,旧西区(Oud-West),7.0,7.1,7.0
+咖啡厅,Arena,Arena,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+咖啡厅,Restaurant Goos,Restaurant Goos,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+咖啡厅,Bouwman,Bouwman,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Patisserie Pompadour (lunchroom),Patisserie Pompadour (lunchroom),0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+咖啡厅,Coffeeshop Down Town,Coffeeshop Down Town,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+咖啡厅,Blincker,Blincker,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+咖啡厅,KOKO Coffee & Design,KOKO Coffee & Design,0,市中心(Amsterdam Centrum),6.9,7.0,7.0
+咖啡厅,Espresso Bar,Espresso Bar,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+咖啡厅,jennifers,jennifers,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+咖啡厅,Tazzina,Tazzina,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+咖啡厅,Two For Joy,Two For Joy,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+咖啡厅,Cafe Schilders,Cafe Schilders,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+咖啡厅,Diciotto,Diciotto,0,旧西区(Oud-West),7.0,7.0,7.0
+咖啡厅,Heavenly Made with Love,Heavenly Made with Love,0,市中心(Amsterdam Centrum),7.5,7.5,7.1
+咖啡厅,Cafe Noir,Cafe Noir,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+咖啡厅,Cafe Max,Cafe Max,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+咖啡厅,Balie,Balie,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Kuyt,Kuyt,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+咖啡厅,Krom Kafe Utrechstraat,Krom Kafe Utrechstraat,0,市中心(Amsterdam Centrum),7.0,7.1,7.1
+咖啡厅,Cafe Americain,Cafe Americain,0,市中心(Amsterdam Centrum),7.2,6.8,7.2
+咖啡厅,Zuivere Koffie,Zuivere Koffie,0,市中心(Amsterdam Centrum),7.1,7.1,7.5
+咖啡厅,Coffee to Walk,Coffee to Walk,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Cafe 't Lieverdje,Cafe 't Lieverdje,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+咖啡厅,Cafe Zwart,Cafe Zwart,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Eetcafe Singel 404,Eetcafe Singel 404,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Het Gasthuys,Het Gasthuys,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Filter,Filter,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+咖啡厅,Coffeeshop Basjoe,Coffeeshop Basjoe,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Orloff,Orloff,0,市中心(Amsterdam Centrum),7.1,7.1,7.3
+咖啡厅,Helena Primakoff,Helena Primakoff,0,阿姆斯特丹国际机场周边,7.0,7.0,7.0
+咖啡厅,CoffeeCompany,CoffeeCompany,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Van Beeren,Van Beeren,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,"Cafe del Mondo,","Cafe del Mondo,",0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+咖啡厅,Cut Throat Barber and Coffee,Cut Throat Barber and Coffee,0,市中心(Amsterdam Centrum),7.0,7.1,7.1
+咖啡厅,Captein & Co,Captein & Co,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,La Purete Coffee,La Purete Coffee,0,其他,7.0,7.0,7.0
+咖啡厅,Dr. Blend,Dr. Blend,0,其他,6.9,7.1,7.1
+咖啡厅,Sugar & Spice Bakery,Sugar & Spice Bakery,0,市中心(Amsterdam Centrum),7.1,7.1,7.3
+咖啡厅,Lunchcafe Dialoog,Lunchcafe Dialoog,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Coffee Connection,Coffee Connection,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Prins Heerlijk,Prins Heerlijk,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Dwaze Zaken,Dwaze Zaken,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Cafe de Tuin,Cafe de Tuin,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+咖啡厅,Vennington,Vennington,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+咖啡厅,Cafe De Blaffende Vis,Cafe De Blaffende Vis,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Cafe Baton,Cafe Baton,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Moods Coffee Corner,Moods Coffee Corner,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Dulac,Dulac,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+咖啡厅,Sane,Sane,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+咖啡厅,Two For Joy Coffee Roasters,Two For Joy Coffee Roasters,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+咖啡厅,Le Pain Quotidien - Beethoven,Le Pain Quotidien - Beethoven,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+咖啡厅,Le Pain Quotidien - de Pijp,Le Pain Quotidien - de Pijp,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+咖啡厅,Cafe Stigter,Cafe Stigter,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+咖啡厅,Scandinavian Embassy,Scandinavian Embassy,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+咖啡厅,Wash & Coffee,Wash & Coffee,0,南区老城(Amsterdam Oud-Zuid),7.0,6.9,7.0
+咖啡厅,Coffeeshop IBIZA,Coffeeshop IBIZA,0,南区老城(Amsterdam Oud-Zuid),0.0,0.0,0.0
+咖啡厅,Trakteren Koffie,Trakteren Koffie,0,旧西区(Oud-West),7.1,7.1,7.0
+咖啡厅,Beter & Leuk,Beter & Leuk,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.0,7.0
+咖啡厅,Ludwig Coffee Bar,Ludwig Coffee Bar,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.0
+咖啡厅,Boulevard,Boulevard,0,海堡(Zeeburg),7.0,7.0,6.9
+咖啡厅,Cafe 't Sluisje,Cafe 't Sluisje,0,北区(Amsterdam-Noord),7.0,7.0,7.1
+咖啡厅,Caffe Esprit,Caffe Esprit,0,北区(Amsterdam-Noord),7.2,6.8,7.2
+咖啡厅,Graaf Leopold,Graaf Leopold,0,西部公园区(Westerpark),7.0,7.0,7.1
+咖啡厅,Grand Cafe Het Paleis,Grand Cafe Het Paleis,0,,6.8,7.1,7.1
+咖啡厅,Ijsboutique,Ijsboutique,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+咖啡厅,Luna cafe,Luna cafe,0,其他,0.0,0.0,0.0
+面包甜点,De Bakkerswinkel Amsterdam South,De Bakkerswinkel Amsterdam South,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+面包甜点,Le Pain Quotidien - Spuistraat,Le Pain Quotidien - Spuistraat,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Niemeijer Bakkerij,Niemeijer Bakkerij,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Sugar 'N Ice,Sugar 'N Ice,0,市中心(Amsterdam Centrum),7.5,7.5,7.1
+面包甜点,Carousel Pancake House,Carousel Pancake House,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Banketbakkerij Kwekkeboom,Banketbakkerij Kwekkeboom,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+面包甜点,Zomerijs,Zomerijs,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+面包甜点,Vlaamsch Broodhuys,Vlaamsch Broodhuys,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+面包甜点,De taart van m'n tante,De taart van m'n tante,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+面包甜点,VanderDonk Chocolate,VanderDonk Chocolate,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+面包甜点,Vlaamse Friet Snackland,Vlaamse Friet Snackland,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+面包甜点,Metropolitan,Metropolitan,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Vlaamschbroodhuys,Vlaamschbroodhuys,0,旧西区(Oud-West),7.1,7.1,7.1
+面包甜点,Monte Pelmo,Monte Pelmo,0,其他,7.1,7.1,7.1
+面包甜点,De Vier Pilaren,De Vier Pilaren,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Puccini Bomboni,Puccini Bomboni,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,De laatste Kruimel,De laatste Kruimel,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+面包甜点,Jordino,Jordino,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+面包甜点,Le Pain Quotidien - Oud Zuid,Le Pain Quotidien - Oud Zuid,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+面包甜点,Bakkerij de Waal,Bakkerij de Waal,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+面包甜点,Ice & Bites,Ice & Bites,0,杜巴罗斯(De Baarsjes),6.9,6.9,7.0
+面包甜点,Broodbar,Broodbar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+面包甜点,La Fruteria juice bar,La Fruteria juice bar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+面包甜点,Patisserie Holtkamp,Patisserie Holtkamp,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,La Place,La Place,0,北区(Amsterdam-Noord),7.2,7.2,7.2
+面包甜点,Crepes en Waffles,Crepes en Waffles,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Australian Homemade,Australian Homemade,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+面包甜点,Hartenkaas,Hartenkaas,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+面包甜点,Pepper Mango,Pepper Mango,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+面包甜点,Bakkerij Kwakmann,Bakkerij Kwakmann,0,其他,6.9,6.9,6.9
+面包甜点,Croissanterie Hans Egstorf,Croissanterie Hans Egstorf,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+面包甜点,De Blauwe Pan,De Blauwe Pan,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+面包甜点,Creperie le Berger,Creperie le Berger,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+面包甜点,Friday Next,Friday Next,0,旧西区(Oud-West),7.1,7.1,7.1
+面包甜点,Hartog's Boterham,Hartog's Boterham,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.0,6.9
+面包甜点,Frozz & Oodlz - Leidsestraat,Frozz & Oodlz - Leidsestraat,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+面包甜点,Coffeeshop Down Town,Coffeeshop Down Town,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+面包甜点,Lunchroom Sapp,Lunchroom Sapp,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+面包甜点,Gelati Spot,Gelati Spot,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+面包甜点,Pisa Ijs,Pisa Ijs,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+面包甜点,B & B Luxe Lunch & Buffet Styling,B & B Luxe Lunch & Buffet Styling,0,祖德马斯特尔(Zuideramstel),6.9,6.9,6.9
+面包甜点,Village Bagels,Village Bagels,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+面包甜点,Dutch Homemade,Dutch Homemade,0,市中心(Amsterdam Centrum),7.3,7.3,7.3
+面包甜点,Kuyt,Kuyt,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+面包甜点,T Eten en Drinken,T Eten en Drinken,0,市中心(Amsterdam Centrum),7.0,6.9,6.9
+面包甜点,Cora,Cora,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+面包甜点,Coffee to Walk,Coffee to Walk,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Café Langereis,Café Langereis,0,市中心(Amsterdam Centrum),7.1,7.1,7.5
+面包甜点,"Magnum Pleasure Store, Amsterdam","Magnum Pleasure Store, Amsterdam",0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+面包甜点,Frozz & Oodlz - Reguliersbreestraat,Frozz & Oodlz - Reguliersbreestraat,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+面包甜点,Homemade,Homemade,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+面包甜点,Lanskroon,Lanskroon,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+面包甜点,Chocolaterie Pompadour,Chocolaterie Pompadour,0,市中心(Amsterdam Centrum),7.7,7.2,7.2
+面包甜点,Eetcafe Singel 404,Eetcafe Singel 404,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Pancakes! Amsterdam,Pancakes! Amsterdam,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Van Ness Cupcake,Van Ness Cupcake,0,市中心(Amsterdam Centrum),7.6,7.2,7.2
+面包甜点,Melly's Cookie Bar,Melly's Cookie Bar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,De Bakkerswinkel Amsterdam Centre,De Bakkerswinkel Amsterdam Centre,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Prix D'Ami,Prix D'Ami,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Winkel 43,Winkel 43,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+面包甜点,Le Fournil de Sebastian - French Bakery,Le Fournil de Sebastian - French Bakery,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+面包甜点,Le Pain Quotidien - Beethoven,Le Pain Quotidien - Beethoven,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+面包甜点,Le Pain Quotidien - de Pijp,Le Pain Quotidien - de Pijp,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+面包甜点,Ron Verboom Bakkerij,Ron Verboom Bakkerij,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+面包甜点,Frozz & Oodlz - De Pijp,Frozz & Oodlz - De Pijp,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+面包甜点,Bakkerrij Simon Meijssen,Bakkerrij Simon Meijssen,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+面包甜点,Coffee Plaza,Coffee Plaza,0,旧西区(Oud-West),7.0,7.0,7.0
+面包甜点,Mezzo IJssalon,Mezzo IJssalon,0,沃特格拉斯米尔(Watergraafsmeer),6.9,6.9,6.9
+面包甜点,Hotel de Goudfazant,Hotel de Goudfazant,0,北区(Amsterdam-Noord),7.2,7.2,7.2
+面包甜点,Frozz,Frozz,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+面包甜点,Ijsboutique,Ijsboutique,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+面包甜点,Kwekkeboom Patisserie,Kwekkeboom Patisserie,0,北区(Amsterdam-Noord),0.0,0.0,0.0
+面包甜点,Kwekkeboom Patisserie,Kwekkeboom Patisserie,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+面包甜点,Kwekkeboom Patisserie,Kwekkeboom Patisserie,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,The Bulldog夜店,The Bulldog夜店,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Blue,Blue,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,'t Doktertje,'t Doktertje,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Cafe Karpershoek,Cafe Karpershoek,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,最后酒馆,最后酒馆,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Int Aepjen,Int Aepjen,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,The Pilsener 酒吧,The Pilsener 酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Poollokaal De Gracht,Poollokaal De Gracht,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Melkweg,Melkweg,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Biercafe Gollem,Biercafe Gollem,0,市中心(Amsterdam Centrum),7.2,7.2,7.7
+酒吧,波本街,波本街,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Paradiso酒吧,Paradiso酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Smokey Coffeeshop,Smokey Coffeeshop,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,De Drie Fleschjes,De Drie Fleschjes,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Club Candela,Club Candela,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,威南德福京克酒厂,威南德福京克酒厂,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Door74,Door74,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Queen's Head同性恋酒吧,Queen's Head同性恋酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Brouwerij 't IJ 酿酒厂,Brouwerij 't IJ 酿酒厂,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Bimhuis爵士酒吧,Bimhuis爵士酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,t Arendsnest酒吧,t Arendsnest酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Mulligans爱尔兰音乐酒吧,Mulligans爱尔兰音乐酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Cafe Belgique,Cafe Belgique,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,卡萨布兰卡酒吧,卡萨布兰卡酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Alto 爵士咖啡馆,Alto 爵士咖啡馆,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Brasserie Tot Zo,Brasserie Tot Zo,0,斯洛特瓦特(Slotervaart),6.9,6.9,7.0
+酒吧,三姐妹酒吧,三姐妹酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Kapitein Zeppos,Kapitein Zeppos,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,晚餐俱乐部酒廊,晚餐俱乐部酒廊,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,In de Olofspoort,In de Olofspoort,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Café de Jaren,Café de Jaren,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Cafe Pollux,Cafe Pollux,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,St James's Gate Irish Pub,St James's Gate Irish Pub,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,De Buurvrouw酒吧,De Buurvrouw酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Buon Appetito,Buon Appetito,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Ron Gastrobar,Ron Gastrobar,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+酒吧,Club Smokey,Club Smokey,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Club NL,Club NL,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Dvars,Dvars,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Korsakoff夜店,Korsakoff夜店,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Maloe Melo夜店,Maloe Melo夜店,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,The Sopranos Piano Bar,The Sopranos Piano Bar,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Rijksen Restaurant,Rijksen Restaurant,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+酒吧,Cafe Chris,Cafe Chris,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Bar-Restaurant Londen,Bar-Restaurant Londen,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+酒吧,Grand Cafe Mathilde,Grand Cafe Mathilde,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+酒吧,West Pacific Westergasfabriek夜店,West Pacific Westergasfabriek夜店,0,西部公园区(Westerpark),0.0,0.0,0.0
+酒吧,Cafe De Prins,Cafe De Prins,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Mediterranean Sandwich Bar,Mediterranean Sandwich Bar,0,,7.0,7.0,6.9
+酒吧,Homegrown Fantasy,Homegrown Fantasy,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+酒吧,Restaurant Fyra,Restaurant Fyra,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Bubbles & Wines Wine and Champagne Bar,Bubbles & Wines Wine and Champagne Bar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,iT,iT,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Kop van Jut,Kop van Jut,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,The Lobby Restaurant and Bar,The Lobby Restaurant and Bar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,The Grape (De Druif)酒吧,The Grape (De Druif)酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Web,Web,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Big Shots Bar,Big Shots Bar,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Cafe Papeneiland,Cafe Papeneiland,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,CC Muziekcafé,CC Muziekcafé,0,南区老城(Amsterdam Oud-Zuid),0.0,0.0,0.0
+酒吧,Tipsy Amsterdam,Tipsy Amsterdam,0,西部公园区(Westerpark),0.0,0.0,0.0
+酒吧,De Saloon,De Saloon,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Restaurant Bonjour,Restaurant Bonjour,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Café Lux,Café Lux,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Café Weber,Café Weber,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Cue Bar,Cue Bar,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,The Old Bell,The Old Bell,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Arc酒吧,Arc酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Mix咖啡,Mix咖啡,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Amstel 54,Amstel 54,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Hoofdstad Brasserie,Hoofdstad Brasserie,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Dansen bij Jansen酒吧,Dansen bij Jansen酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,The Poolhole,The Poolhole,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Cafe Gallery Dante,Cafe Gallery Dante,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Cafe the Minds,Cafe the Minds,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Vyne,Vyne,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Cafe De Zwart,Cafe De Zwart,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Cotton Club,Cotton Club,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Mazzo夜店,Mazzo夜店,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,"Woodstock, Republiek & Solaris酒吧","Woodstock, Republiek & Solaris酒吧",0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,The Two Swans,The Two Swans,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,The Stork Tasting Room,The Stork Tasting Room,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Restaurant Fraiche,Restaurant Fraiche,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Het Molenpad,Het Molenpad,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Barney's,Barney's,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,OCCII,OCCII,0,南区老城(Amsterdam Oud-Zuid),0.0,0.0,0.0
+酒吧,Panama,Panama,0,海堡(Zeeburg),0.0,0.0,0.0
+酒吧,Cafe Tisfris,Cafe Tisfris,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+酒吧,Wolvenstraat 23,Wolvenstraat 23,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+酒吧,Betty Boop Coffeeshop,Betty Boop Coffeeshop,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+酒吧,De Huyschkaemer,De Huyschkaemer,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+酒吧,Cafe Remember,Cafe Remember,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+酒吧,Lijn 10,Lijn 10,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+酒吧,Cafe Trinity Bar,Cafe Trinity Bar,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+酒吧,Eetcafe Het Kalfje,Eetcafe Het Kalfje,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+酒吧,Barney's Uptown Coffeshop,Barney's Uptown Coffeshop,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+酒吧,Cafe Flinck,Cafe Flinck,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+酒吧,De Ebeling,De Ebeling,0,旧西区(Oud-West),7.0,7.1,7.1
+酒吧,Brasserie Restaurant Rubens Place,Brasserie Restaurant Rubens Place,0,北区(Amsterdam-Noord),7.0,7.0,6.9
+酒吧,Mankind,Mankind,0,市中心(Amsterdam Centrum),7.0,7.1,7.1
+酒吧,Mix a Match,Mix a Match,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+酒吧,Cafe Onder de Ooievaar,Cafe Onder de Ooievaar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+酒吧,Klaver 4 ontbijt- en lunchcafe,Klaver 4 ontbijt- en lunchcafe,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+酒吧,April 同性恋酒吧,April 同性恋酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,De Zotte,De Zotte,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Odeon,Odeon,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,De Brabantse Aap,De Brabantse Aap,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Spui Eigentijds,Spui Eigentijds,0,市中心(Amsterdam Centrum),7.0,7.1,7.1
+酒吧,La Tertulia Coffeeshop,La Tertulia Coffeeshop,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+酒吧,Saarein,Saarein,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+酒吧,Pulitzers Bar,Pulitzers Bar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+酒吧,'t Sluisje,'t Sluisje,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+酒吧,Getto,Getto,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,La Grotte Breakfastbar,La Grotte Breakfastbar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+酒吧,Vlaming eten & drinken,Vlaming eten & drinken,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+酒吧,Vakzuid夜店,Vakzuid夜店,0,南区老城(Amsterdam Oud-Zuid),0.0,0.0,0.0
+酒吧,Bond,Bond,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+酒吧,Le Garage,Le Garage,0,南区老城(Amsterdam Oud-Zuid),7.2,6.8,7.2
+酒吧,The French Cafe,The French Cafe,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+酒吧,Kingfisher,Kingfisher,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+酒吧,Barca,Barca,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+酒吧,Snooker Club OudWest,Snooker Club OudWest,0,旧西区(Oud-West),0.0,0.0,0.0
+酒吧,De Trut,De Trut,0,旧西区(Oud-West),0.0,0.0,0.0
+酒吧,阿兰爱尔兰酒吧,阿兰爱尔兰酒吧,0,北区(Amsterdam-Noord),0.0,0.0,0.0
+酒吧,Westerliefde,Westerliefde,0,西部公园区(Westerpark),6.9,6.9,6.9
+酒吧,De Vries,De Vries,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+酒吧,XtraCold酒吧,XtraCold酒吧,0,市中心(Amsterdam Centrum),0.0,0.0,0.0
+更多美食,Braziliaans Grill Restaurant Rodizio.nl,Braziliaans Grill Restaurant Rodizio.nl,0,市中心(Amsterdam Centrum),7.9,7.5,7.9
+更多美食,Cafe Heffer,Cafe Heffer,0,市中心(Amsterdam Centrum),8.0,7.6,7.5
+更多美食,Welcome Vietnam Restaurant,Welcome Vietnam Restaurant,0,市中心(Amsterdam Centrum),8.0,8.0,8.0
+更多美食,De Bijenkorf Department Store Restaurant,De Bijenkorf Department Store Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,& Samhoud Places,& Samhoud Places,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Halvemaan,Halvemaan,0,祖德马斯特尔(Zuideramstel),7.3,7.1,7.1
+更多美食,Dam Plaza,Dam Plaza,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Rijksmuseum cafe,Rijksmuseum cafe,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Restaurant Vandaag,Restaurant Vandaag,0,祖德马斯特尔(Zuideramstel),7.1,7.1,7.1
+更多美食,Players Food & Drinks (Leidseplein),Players Food & Drinks (Leidseplein),0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Mediacafe de Kroon,Mediacafe de Kroon,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Restaurant Circles,Restaurant Circles,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+更多美食,The Corner Restaurant,The Corner Restaurant,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Cafe de Wetering,Cafe de Wetering,0,市中心(Amsterdam Centrum),6.7,6.9,7.1
+更多美食,Cafe van Zuylen,Cafe van Zuylen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Singel 101 Restaurant,Singel 101 Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Chez Georges,Chez Georges,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Seasons Restaurant,Seasons Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Ristorante Trattoria La Stego,Ristorante Trattoria La Stego,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+更多美食,Enoteca,Enoteca,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+更多美食,Baut,Baut,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+更多美食,Indrapura,Indrapura,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Bar Moustache,Bar Moustache,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Rene's Croissanterie,Rene's Croissanterie,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Dabka,Dabka,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Lo Stivale d'Oro,Lo Stivale d'Oro,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Bagels & Beans,Bagels & Beans,0,南区老城(Amsterdam Oud-Zuid),7.3,7.3,7.3
+更多美食,Red Light Bar,Red Light Bar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,The Fat Dog,The Fat Dog,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Bakker Baard,Bakker Baard,0,西部公园区(Westerpark),6.9,6.9,6.9
+更多美食,Kerkstraat 59,Kerkstraat 59,0,市中心(Amsterdam Centrum),7.0,7.1,7.0
+更多美食,Albert Cuyp 67,Albert Cuyp 67,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,6.9
+更多美食,Mister Bubble Tea,Mister Bubble Tea,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+更多美食,Terrasmus,Terrasmus,0,博斯恩伦默(Bos en Lommer),6.9,6.9,6.9
+更多美食,Tagore,Tagore,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Spang Makandra,Spang Makandra,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,De Waaghals,De Waaghals,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Zuid Zeeland,Zuid Zeeland,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Spanjer en van Twist,Spanjer en van Twist,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Serre Restaurant,Serre Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Van Gogh Museum Cafe,Van Gogh Museum Cafe,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Restaurant Old School Amsterdam,Restaurant Old School Amsterdam,0,祖德马斯特尔(Zuideramstel),6.9,6.9,7.0
+更多美食,Caro Kookt,Caro Kookt,0,其他,7.1,7.1,7.1
+更多美食,Jerry's Eetcafe,Jerry's Eetcafe,0,海堡(Zeeburg),6.9,6.9,6.9
+更多美食,The Gallery,The Gallery,0,西部公园区(Westerpark),7.0,7.1,6.9
+更多美食,De Tokoman,De Tokoman,0,市中心(Amsterdam Centrum),7.0,7.0,6.9
+更多美食,Frank's Smoke House,Frank's Smoke House,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Cafe de Cantine,Cafe de Cantine,0,海堡(Zeeburg),7.0,7.0,7.0
+更多美食,Het Bestekje,Het Bestekje,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,Het Veronica Zendschip,Het Veronica Zendschip,0,北区(Amsterdam-Noord),7.0,6.9,7.0
+更多美食,Cafe De Omval,Cafe De Omval,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,7.0
+更多美食,Restaurant Delikeet,Restaurant Delikeet,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+更多美食,Juggle Juice Bar,Juggle Juice Bar,0,阿姆斯特丹国际机场周边,7.0,7.0,7.0
+更多美食,Scheltema,Scheltema,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Canton Restaurant,Canton Restaurant,0,其他,7.0,7.0,7.0
+更多美食,Badhuis,Badhuis,0,海堡(Zeeburg),7.1,7.1,7.1
+更多美食,Miranda Paviljoen,Miranda Paviljoen,0,祖德马斯特尔(Zuideramstel),7.0,7.0,6.9
+更多美食,Cafe Smit & Voogt,Cafe Smit & Voogt,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,La Rive,La Rive,0,市中心(Amsterdam Centrum),7.2,7.7,7.2
+更多美食,Asian Kitchen,Asian Kitchen,0,,7.0,6.9,6.9
+更多美食,Traiterie Chef,Traiterie Chef,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+更多美食,The Red Sun,The Red Sun,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,De Italiaan,De Italiaan,0,旧西区(Oud-West),7.2,7.2,7.2
+更多美食,Harmsen,Harmsen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Sinners in Heaven,Sinners in Heaven,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Restaurant Szmulewicz,Restaurant Szmulewicz,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,2B Lounge & Bar,2B Lounge & Bar,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Hutspot,Hutspot,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.1
+更多美食,eetcafe Compaenen,eetcafe Compaenen,0,旧西区(Oud-West),7.0,7.0,7.0
+更多美食,De Kas,De Kas,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+更多美食,Breitner,Breitner,0,市中心(Amsterdam Centrum),7.2,7.6,7.2
+更多美食,Cafe In de Waag,Cafe In de Waag,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Het Karbeel,Het Karbeel,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Brasserie Keyzer,Brasserie Keyzer,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Vondel Park 3 Kitchen & Bar,Vondel Park 3 Kitchen & Bar,0,南区老城(Amsterdam Oud-Zuid),7.1,6.8,7.1
+更多美食,Hotel Restaurant Larende,Hotel Restaurant Larende,0,旧西区(Oud-West),6.9,6.9,6.9
+更多美食,Senses Restaurant,Senses Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Majestic,Majestic,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Restaurant Teun,Restaurant Teun,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,De Kersentuin,De Kersentuin,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Foodware,Foodware,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Mama Maria,Mama Maria,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Casino Amsterdam,Casino Amsterdam,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+更多美食,Sorel's Midtown Bar and Lounge,Sorel's Midtown Bar and Lounge,0,旧西区(Oud-West),7.1,7.1,7.1
+更多美食,Kaap Kot,Kaap Kot,0,沃特格拉斯米尔(Watergraafsmeer),6.7,6.9,7.0
+更多美食,Golden Brown,Golden Brown,0,旧西区(Oud-West),7.0,7.0,7.0
+更多美食,Cafe Kostverloren,Cafe Kostverloren,0,旧西区(Oud-West),7.0,7.0,7.0
+更多美食,Soup En Zo,Soup En Zo,0,市中心(Amsterdam Centrum),7.6,7.2,7.2
+更多美食,Orontes,Orontes,0,南区老城(Amsterdam Oud-Zuid),7.5,7.1,7.1
+更多美食,A la Ferme,A la Ferme,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Blooker,Blooker,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,7.0
+更多美食,Eau de Vie,Eau de Vie,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Sara's Pancake House,Sara's Pancake House,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+更多美食,Restaurant In De Buurt,Restaurant In De Buurt,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Van De Kaart,Van De Kaart,0,市中心(Amsterdam Centrum),7.5,7.1,7.1
+更多美食,Park Plaza Brasserie,Park Plaza Brasserie,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+更多美食,Chang-i,Chang-i,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Te Pas,Te Pas,0,市中心(Amsterdam Centrum),7.2,7.7,7.2
+更多美食,Cafe de Raedt,Cafe de Raedt,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+更多美食,Rob Wigboldus Vishandel,Rob Wigboldus Vishandel,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,the kitchen,the kitchen,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+更多美食,Ciel Bleu Restaurant,Ciel Bleu Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Tjing Tjing,Tjing Tjing,0,南区老城(Amsterdam Oud-Zuid),7.5,7.1,7.1
+更多美食,Bakers & Roasters,Bakers & Roasters,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Vrolyk,Vrolyk,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Conservatorium Brasserie & Lounge Amsterdam,Conservatorium Brasserie & Lounge Amsterdam,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,The Colour Kitchen,The Colour Kitchen,0,斯洛特瓦特(Slotervaart),7.0,7.0,7.0
+更多美食,The Grasshopper,The Grasshopper,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+更多美食,Snappers Resto-Bar,Snappers Resto-Bar,0,其他,7.3,7.3,7.3
+更多美食,NeL,NeL,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,il palio,il palio,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,The Bulldog,The Bulldog,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Stacey's Pennywell Brasserie,Stacey's Pennywell Brasserie,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Grandcafe l'Opera,Grandcafe l'Opera,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Pastini,Pastini,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Cafe de Jaren,Cafe de Jaren,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Humphrey's Spuistraat,Humphrey's Spuistraat,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Brix,Brix,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Mappa,Mappa,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Restaurant Envy,Restaurant Envy,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Van Puffelen,Van Puffelen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,De Bekeerde Suster,De Bekeerde Suster,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Kaffe de Hoek,Kaffe de Hoek,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Lust,Lust,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Cafe Stevens,Cafe Stevens,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Looks Restaurant,Looks Restaurant,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Vliegende Schotel,Vliegende Schotel,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Teddy's Corner,Teddy's Corner,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,'Skek,'Skek,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Roem,Roem,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Wok to Walk,Wok to Walk,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,TerraZen Centre,TerraZen Centre,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,De Bolhoed,De Bolhoed,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Los Pilones,Los Pilones,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Los Pilones Cantina,Los Pilones Cantina,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Lof,Lof,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Cafe Thijssen,Cafe Thijssen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Il Boom! Taverna Romana,Il Boom! Taverna Romana,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,gent aan de schinkel,gent aan de schinkel,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Bouf,Bouf,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,L'Entrecote et les Dames,L'Entrecote et les Dames,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Buuf,Buuf,0,旧西区(Oud-West),7.2,7.2,7.2
+更多美食,Zus en Zus,Zus en Zus,0,旧西区(Oud-West),7.2,7.2,7.2
+更多美食,Loetje Oost,Loetje Oost,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+更多美食,Pompstation,Pompstation,0,海堡(Zeeburg),7.2,7.2,7.2
+更多美食,Eye,Eye,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Hannekes Boom,Hannekes Boom,0,市中心(Amsterdam Centrum),7.2,7.2,7.7
+更多美食,Amstel Brasserie at Hotel InterContinental,Amstel Brasserie at Hotel InterContinental,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Arabic Lounge,Arabic Lounge,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Restaurant Wenders,Restaurant Wenders,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Cafe Reynder,Cafe Reynder,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Lite/Dark Bar,Lite/Dark Bar,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+更多美食,Sabor Peruano Fuego,Sabor Peruano Fuego,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Pinocchio,Pinocchio,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Tante Roosje,Tante Roosje,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Repere,Repere,0,市中心(Amsterdam Centrum),7.1,7.0,7.1
+更多美食,Meneer Nilsson,Meneer Nilsson,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Promenade,Promenade,0,市中心(Amsterdam Centrum),6.9,7.1,6.9
+更多美食,Festina Lente,Festina Lente,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+更多美食,Lef,Lef,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Restaurant Sinck,Restaurant Sinck,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+更多美食,De Palmboom,De Palmboom,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Brasserie de Brakke Grond,Brasserie de Brakke Grond,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Hioding In Plain Sight,Hioding In Plain Sight,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Villa Nieuwmarkt,Villa Nieuwmarkt,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,The Bulldog Hotel,The Bulldog Hotel,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+更多美食,Verhulst,Verhulst,0,其他,7.1,7.1,7.1
+更多美食,Casa Foodstore,Casa Foodstore,0,其他,7.1,7.0,7.0
+更多美食,Warme Bakker,Warme Bakker,0,其他,6.9,6.9,6.9
+更多美食,Zomerrestaurant Vuurtoreneiland,Zomerrestaurant Vuurtoreneiland,0,其他,7.1,7.1,7.1
+更多美食,Queen,Queen,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Cafe Zool,Cafe Zool,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Mantoe,Mantoe,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,La Place - Amsterdam Openbare Bibliotheek,La Place - Amsterdam Openbare Bibliotheek,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Starbucks,Starbucks,0,市中心(Amsterdam Centrum),7.1,7.1,6.8
+更多美食,Pizzeria Steakhouse Bellino,Pizzeria Steakhouse Bellino,0,市中心(Amsterdam Centrum),7.1,7.1,6.9
+更多美食,Dragon Corner,Dragon Corner,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Istanbul Grill Restaurant,Istanbul Grill Restaurant,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Assaggio,Assaggio,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Caffe de Curtis,Caffe de Curtis,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Sla,Sla,0,市中心(Amsterdam Centrum),7.1,7.0,7.1
+更多美食,Proust,Proust,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Papeneiland Pub,Papeneiland Pub,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+更多美食,Stach Food,Stach Food,0,市中心(Amsterdam Centrum),7.1,7.1,7.0
+更多美食,Formocha,Formocha,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Zoet & Hartig,Zoet & Hartig,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Eetcafé Le Traffic,Eetcafé Le Traffic,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Café Bruis,Café Bruis,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多美食,Anne & Max,Anne & Max,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Cafe Bloemers,Cafe Bloemers,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Olive and Cookie,Olive and Cookie,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Cose Buone,Cose Buone,0,南区老城(Amsterdam Oud-Zuid),7.1,7.0,7.0
+更多美食,Cafe Gruter,Cafe Gruter,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Van Hoeck,Van Hoeck,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,'t Blauwe Theehuis,'t Blauwe Theehuis,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Forno Communale,Forno Communale,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Abyssinia,Abyssinia,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Laliberla Ethiopian Restaurant,Laliberla Ethiopian Restaurant,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Thai Khorat,Thai Khorat,0,旧西区(Oud-West),7.1,7.1,7.1
+更多美食,Overtaart House of Flavours,Overtaart House of Flavours,0,旧西区(Oud-West),7.1,7.1,7.1
+更多美食,Screaming Beans 2,Screaming Beans 2,0,旧西区(Oud-West),7.1,7.1,7.1
+更多美食,Planet Rose,Planet Rose,0,旧西区(Oud-West),7.1,7.3,7.1
+更多美食,Manoto,Manoto,0,旧西区(Oud-West),7.1,7.1,6.9
+更多美食,De Ruyschkamer,De Ruyschkamer,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.1,7.1
+更多美食,Bar Bukowski,Bar Bukowski,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.0,7.1
+更多美食,Marits Huiskamerrestaurant,Marits Huiskamerrestaurant,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,De Ponteneur,De Ponteneur,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+更多美食,Dapper Tutto,Dapper Tutto,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,7.0
+更多美食,n.a.p Amsterdam,n.a.p Amsterdam,0,海堡(Zeeburg),7.1,7.1,7.1
+更多美食,De Odessa,De Odessa,0,海堡(Zeeburg),7.1,7.1,7.1
+更多美食,Silk Road Restaurant,Silk Road Restaurant,0,海堡(Zeeburg),7.1,7.1,7.1
+更多美食,Loetje Aan 't IJ,Loetje Aan 't IJ,0,北区(Amsterdam-Noord),7.1,7.1,7.1
+更多美食,Paviljoen van Beuningen,Paviljoen van Beuningen,0,西部公园区(Westerpark),6.9,6.9,6.9
+更多美食,De Walvis,De Walvis,0,西部公园区(Westerpark),7.1,7.1,7.1
+更多美食,DopHert,DopHert,0,西部公园区(Westerpark),7.0,7.0,7.0
+更多美食,Eetcafe Noorderster,Eetcafe Noorderster,0,西部公园区(Westerpark),6.9,6.9,6.9
+更多美食,Deshima Lunch Service & Take Away,Deshima Lunch Service & Take Away,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Aguada cafe restaurant,Aguada cafe restaurant,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Le Berry,Le Berry,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Cafe Cox,Cafe Cox,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Pygma-lion,Pygma-lion,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Dorst Cafe,Dorst Cafe,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Rembrandt Bar,Rembrandt Bar,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,C'est Magnifique,C'est Magnifique,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Yogen Fruz,Yogen Fruz,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Replay Cafe,Replay Cafe,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,NOVEMBER,NOVEMBER,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,San Diego,San Diego,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Ristorante Italiano,Ristorante Italiano,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Susies Saloon,Susies Saloon,0,市中心(Amsterdam Centrum),6.9,7.0,7.0
+更多美食,Diep,Diep,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Cone Bar,Cone Bar,0,其他,7.0,7.0,7.0
+更多美食,Les Petites Puces,Les Petites Puces,0,其他,6.9,6.9,6.9
+更多美食,Bella Fruta,Bella Fruta,0,其他,6.9,6.9,6.9
+更多美食,De Blauwe Parade,De Blauwe Parade,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Cafe Oporto,Cafe Oporto,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Alal Food,Alal Food,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Hotel the Globe Sportsbar,Hotel the Globe Sportsbar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Tuin 10,Tuin 10,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Mercurius,Mercurius,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Oininio,Oininio,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Deksels! Lekkere Dingen,Deksels! Lekkere Dingen,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Cafe Kiebert,Cafe Kiebert,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,Hartig,Hartig,0,南区老城(Amsterdam Oud-Zuid),7.1,6.9,7.0
+更多美食,Croissanterie Eifeltoren,Croissanterie Eifeltoren,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多美食,Baan Thai,Baan Thai,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,Chiaro,Chiaro,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多美食,De Stadskantine,De Stadskantine,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,Boca's Park,Boca's Park,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多美食,Siempre,Siempre,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.1
+更多美食,Mech,Mech,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,6.9
+更多美食,Het Paardje,Het Paardje,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,Lunchcafe Bozz,Lunchcafe Bozz,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,Grand Cafe Restaurant Vrienden,Grand Cafe Restaurant Vrienden,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,Afghaans Restaurant Lemar,Afghaans Restaurant Lemar,0,旧西区(Oud-West),6.9,6.9,6.9
+更多美食,Chong Kee Restaurant,Chong Kee Restaurant,0,旧西区(Oud-West),6.9,6.9,6.9
+更多美食,Cafe Thuys,Cafe Thuys,0,旧西区(Oud-West),7.0,7.1,7.0
+更多美食,Patisserie Perlo,Patisserie Perlo,0,沃特格拉斯米尔(Watergraafsmeer),6.9,6.9,6.9
+更多美食,Café Blek,Café Blek,0,祖德马斯特尔(Zuideramstel),6.9,6.9,6.9
+更多美食,Diga,Diga,0,祖德马斯特尔(Zuideramstel),7.0,7.0,7.0
+更多美食,Blijburg aan Zee,Blijburg aan Zee,0,海堡(Zeeburg),7.0,6.9,7.1
+更多美食,Steiger 1,Steiger 1,0,海堡(Zeeburg),7.0,7.0,7.0
+更多美食,De Oude Taveerne Restaurant,De Oude Taveerne Restaurant,0,北区(Amsterdam-Noord),7.0,7.0,7.1
+更多美食,De Koffie Salon,De Koffie Salon,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Golden Temple,Golden Temple,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Todine,Todine,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,In de keuken,In de keuken,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Cafe Restaurant De Fles,Cafe Restaurant De Fles,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Comedy Cafe,Comedy Cafe,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Juice & Salad Café,Juice & Salad Café,0,市中心(Amsterdam Centrum),7.3,7.1,7.1
+更多美食,Dubbel Eten & Drinken,Dubbel Eten & Drinken,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Lunhroom Pompadour,Lunhroom Pompadour,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Fior Di Gelato,Fior Di Gelato,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Eetcafe Magere Brug,Eetcafe Magere Brug,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,NJOY cocktailbar,NJOY cocktailbar,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Mykonos,Mykonos,0,市中心(Amsterdam Centrum),6.8,6.5,6.8
+更多美食,Kitsch,Kitsch,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Mystique Amsterdam,Mystique Amsterdam,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Luminaa,Luminaa,0,市中心(Amsterdam Centrum),6.9,7.0,7.0
+更多美食,Suzy Wong,Suzy Wong,0,市中心(Amsterdam Centrum),6.9,7.0,7.0
+更多美食,Cafe De Klos,Cafe De Klos,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Mashua,Mashua,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Eetcafe De Gevulde Koe,Eetcafe De Gevulde Koe,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Hoftuin,Hoftuin,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Kitchen & Bar Van Rijn,Kitchen & Bar Van Rijn,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Grillroom Farao,Grillroom Farao,0,市中心(Amsterdam Centrum),6.9,7.0,6.7
+更多美食,Escape Caffe,Escape Caffe,0,市中心(Amsterdam Centrum),7.1,6.9,7.0
+更多美食,Three Sisters Grand Pub,Three Sisters Grand Pub,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,La Margarita Caribisch Cafe & Restaurant,La Margarita Caribisch Cafe & Restaurant,0,市中心(Amsterdam Centrum),6.9,6.7,6.9
+更多美食,Casa Peru,Casa Peru,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Bar Huf,Bar Huf,0,市中心(Amsterdam Centrum),7.0,7.1,7.1
+更多美食,Garlic Queen,Garlic Queen,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Grillroom Sabba,Grillroom Sabba,0,市中心(Amsterdam Centrum),7.0,7.0,6.7
+更多美食,Calf & Bloom,Calf & Bloom,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Het Terras,Het Terras,0,市中心(Amsterdam Centrum),7.0,6.9,7.0
+更多美食,Plancius,Plancius,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Tom Yam,Tom Yam,0,市中心(Amsterdam Centrum),7.0,6.9,6.9
+更多美食,Cafe Bern,Cafe Bern,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Lunchcafe Waterloo,Lunchcafe Waterloo,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Soup en Zo,Soup en Zo,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Tony's NY City Bagels,Tony's NY City Bagels,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Pannenkoekenhuis Upstairs,Pannenkoekenhuis Upstairs,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Arnold Cornelis,Arnold Cornelis,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+更多美食,BIHP Art Food Drinks,BIHP Art Food Drinks,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Restaurant De Nissen,Restaurant De Nissen,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Societe Wunderbar,Societe Wunderbar,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Toos en Roos,Toos en Roos,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Cafe de Engelbewaarder,Cafe de Engelbewaarder,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Brasserie Harkema,Brasserie Harkema,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,The Tara Irish Pub,The Tara Irish Pub,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Museumcafé Mokum,Museumcafé Mokum,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Proeverij 274,Proeverij 274,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Keuken van 1870,Keuken van 1870,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Cafe de Pool,Cafe de Pool,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+更多美食,Greenhouse Coffeshop,Greenhouse Coffeshop,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Sukasari,Sukasari,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Rainarai,Rainarai,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Blauw aan de Wal,Blauw aan de Wal,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,"Café de Dam, Louis Bar","Café de Dam, Louis Bar",0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Chao Phraya,Chao Phraya,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Pulitzers,Pulitzers,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Euro Pub,Euro Pub,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Ristorante Collina,Ristorante Collina,0,市中心(Amsterdam Centrum),6.9,6.7,6.7
+更多美食,Chinese boot (groen en rood),Chinese boot (groen en rood),0,其他,6.9,6.9,6.9
+更多美食,shisha,shisha,0,其他,6.9,6.9,6.9
+更多美食,Brouwerij Troost,Brouwerij Troost,0,其他,7.0,7.1,7.0
+更多美食,Venezia Del Nord,Venezia Del Nord,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,La Cubanita,La Cubanita,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Cafe de Oude Wester,Cafe de Oude Wester,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,De Drie Graefjes,De Drie Graefjes,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Lounge Cafe Saint Paul's (Lunchroom),Lounge Cafe Saint Paul's (Lunchroom),0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Cafe Emmelot,Cafe Emmelot,0,市中心(Amsterdam Centrum),6.9,6.9,7.0
+更多美食,Caffe il Momento,Caffe il Momento,0,市中心(Amsterdam Centrum),7.1,7.5,7.5
+更多美食,Anna Pavlovna,Anna Pavlovna,0,市中心(Amsterdam Centrum),7.1,7.3,7.3
+更多美食,Pizzeria ,Pizzeria ,0,市中心(Amsterdam Centrum),7.1,7.0,7.0
+更多美食,Cafe Tetra,Cafe Tetra,0,市中心(Amsterdam Centrum),6.7,6.9,6.9
+更多美食,De Bakkerswinkel Amsterdam West,De Bakkerswinkel Amsterdam West,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Lunchroom Ton van Joep,Lunchroom Ton van Joep,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Delifrance Damrak,Delifrance Damrak,0,市中心(Amsterdam Centrum),7.0,6.9,6.9
+更多美食,Maoz Falafel,Maoz Falafel,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+更多美食,Restaurant de Portugees,Restaurant de Portugees,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Restaurant View,Restaurant View,0,市中心(Amsterdam Centrum),6.8,7.2,7.2
+更多美食,Duke of Windsor,Duke of Windsor,0,市中心(Amsterdam Centrum),7.0,7.1,7.0
+更多美食,Casablanca Variete,Casablanca Variete,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,New Season,New Season,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,De Reiger,De Reiger,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,De Spaanse Ruiter,De Spaanse Ruiter,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+更多美食,Timmy's Pancake,Timmy's Pancake,0,市中心(Amsterdam Centrum),7.0,7.1,7.0
+更多美食,Tales and Spirits,Tales and Spirits,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Het Elfde Gebod,Het Elfde Gebod,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Proeflokaal de Ooievaar,Proeflokaal de Ooievaar,0,市中心(Amsterdam Centrum),6.9,7.0,7.1
+更多美食,Voc Cafe,Voc Cafe,0,市中心(Amsterdam Centrum),7.0,7.0,7.1
+更多美食,Japanese Pancake World,Japanese Pancake World,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,La Oliva,La Oliva,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Cafe Batavia 1920,Cafe Batavia 1920,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Kopke Adega,Kopke Adega,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Letting,Letting,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,The Silver Mirror,The Silver Mirror,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Smits koffiehuis,Smits koffiehuis,0,市中心(Amsterdam Centrum),6.9,7.0,7.0
+更多美食,Rokerij,Rokerij,0,市中心(Amsterdam Centrum),6.8,7.1,7.1
+更多美食,stout,stout,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Mamma Rosetta,Mamma Rosetta,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Vinnies Deli,Vinnies Deli,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Petit Gateau,Petit Gateau,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Eetcafe Rosereijn Amsterdam,Eetcafe Rosereijn Amsterdam,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,The movies,The movies,0,市中心(Amsterdam Centrum),7.0,7.1,7.0
+更多美食,Bickers aan de Werf,Bickers aan de Werf,0,市中心(Amsterdam Centrum),7.2,7.7,7.2
+更多美食,Restaurant PS,Restaurant PS,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Cafe Fonk,Cafe Fonk,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Op de Tuin,Op de Tuin,0,南区老城(Amsterdam Oud-Zuid),7.5,7.1,7.1
+更多美食,Supermercado,Supermercado,0,南区老城(Amsterdam Oud-Zuid),6.9,7.1,7.0
+更多美食,Thai Deum,Thai Deum,0,南区老城(Amsterdam Oud-Zuid),7.0,7.1,7.0
+更多美食,Restaurant Algiers,Restaurant Algiers,0,南区老城(Amsterdam Oud-Zuid),7.0,7.1,7.0
+更多美食,brasserie witteven,brasserie witteven,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,7.0
+更多美食,Julius Bar & Grill,Julius Bar & Grill,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,Azmarino,Azmarino,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Urban village,Urban village,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多美食,Bistro Zuid,Bistro Zuid,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,Cafe Sarphaat,Cafe Sarphaat,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Venkel Salades,Venkel Salades,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,Corner Bakery Amsterdam,Corner Bakery Amsterdam,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Eetcafe Lusthof,Eetcafe Lusthof,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,De Vondeltuin,De Vondeltuin,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.3
+更多美食,Sonny Falafel,Sonny Falafel,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Go Sushi,Go Sushi,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多美食,Pahop Thai,Pahop Thai,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,6.9
+更多美食,Mok Sam,Mok Sam,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多美食,Taco Mundo Amsterdam Oud Zuid,Taco Mundo Amsterdam Oud Zuid,0,南区老城(Amsterdam Oud-Zuid),6.7,7.0,6.7
+更多美食,Chocolate bar,Chocolate bar,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,Quinto,Quinto,0,南区老城(Amsterdam Oud-Zuid),7.1,7.1,7.1
+更多美食,De Badcuyp,De Badcuyp,0,南区老城(Amsterdam Oud-Zuid),7.0,7.0,7.0
+更多美食,Restaurant Oranjekade,Restaurant Oranjekade,0,市中心(Amsterdam Centrum),6.7,6.9,6.7
+更多美食,Rawshe,Rawshe,0,旧西区(Oud-West),7.3,7.3,7.1
+更多美食,Ter Brugge,Ter Brugge,0,旧西区(Oud-West),6.9,6.9,6.9
+更多美食,Fondue & Fondue,Fondue & Fondue,0,南区老城(Amsterdam Oud-Zuid),7.2,7.2,7.2
+更多美食,Sawaddee Ka,Sawaddee Ka,0,旧西区(Oud-West),7.2,7.2,7.2
+更多美食,Toko Surima,Toko Surima,0,旧西区(Oud-West),7.0,7.0,7.0
+更多美食,Restaurant Riaz,Restaurant Riaz,0,旧西区(Oud-West),7.0,7.0,7.0
+更多美食,Louter Cafe Restaurant,Louter Cafe Restaurant,0,旧西区(Oud-West),7.1,7.1,7.1
+更多美食,Stoop Eten en Drinken,Stoop Eten en Drinken,0,沃特格拉斯米尔(Watergraafsmeer),6.9,7.0,7.0
+更多美食,CANVAS op de 7e,CANVAS op de 7e,0,沃特格拉斯米尔(Watergraafsmeer),7.0,7.0,7.0
+更多美食,Café-Restaurant Polder,Café-Restaurant Polder,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+更多美食,Coffee Bru,Coffee Bru,0,沃特格拉斯米尔(Watergraafsmeer),6.9,7.1,7.1
+更多美食,Thaicoon,Thaicoon,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+更多美食,Contra 73,Contra 73,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,Walia ibex,Walia ibex,0,市中心(Amsterdam Centrum),7.0,7.0,7.0
+更多美食,spargo,spargo,0,沃特格拉斯米尔(Watergraafsmeer),7.2,7.2,7.2
+更多美食,Meram,Meram,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+更多美食,Serengeti,Serengeti,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.1
+更多美食,Elena's Pasta,Elena's Pasta,0,沃特格拉斯米尔(Watergraafsmeer),7.1,7.1,7.0
+更多美食,Oliver's,Oliver's,0,祖德马斯特尔(Zuideramstel),6.9,6.9,7.0
+更多美食,Koetjes en Kalfjes,Koetjes en Kalfjes,0,祖德马斯特尔(Zuideramstel),7.1,7.1,7.1
+更多美食,Uwe Majesteit,Uwe Majesteit,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多美食,Eten aan de Rijn,Eten aan de Rijn,0,祖德马斯特尔(Zuideramstel),7.1,7.1,7.1
+更多美食,Kushitei,Kushitei,0,南区老城(Amsterdam Oud-Zuid),6.9,6.7,6.7
+更多美食,Mchi Food & Drinks,Mchi Food & Drinks,0,海堡(Zeeburg),7.1,7.1,7.1
+更多美食,Restaurant I-grec,Restaurant I-grec,0,海堡(Zeeburg),7.0,7.0,7.0
+更多美食,Brasserie Plegat,Brasserie Plegat,0,海堡(Zeeburg),7.1,7.1,7.0
+更多美食,Wilde Zwijnen,Wilde Zwijnen,0,海堡(Zeeburg),7.2,7.2,7.2
+更多美食,Gare de L'est,Gare de L'est,0,海堡(Zeeburg),7.2,7.2,7.2
+更多美食,Praq,Praq,0,海堡(Zeeburg),7.0,7.1,7.0
+更多美食,Koffiehuis KHL,Koffiehuis KHL,0,海堡(Zeeburg),7.0,7.0,7.0
+更多美食,Cafe De Zuid,Cafe De Zuid,0,海堡(Zeeburg),7.1,7.1,7.1
+更多美食,Kompaszaal,Kompaszaal,0,海堡(Zeeburg),7.0,7.0,7.0
+更多美食,Cafe De Pont,Cafe De Pont,0,市中心(Amsterdam Centrum),7.2,7.2,7.2
+更多美食,Noorderlicht Cafe,Noorderlicht Cafe,0,北区(Amsterdam-Noord),7.2,6.8,7.2
+更多美食,IJ-Kantine,IJ-Kantine,0,北区(Amsterdam-Noord),7.2,6.8,7.2
+更多美食,Sowieso,Sowieso,0,西部公园区(Westerpark),7.0,7.0,7.0
+更多美食,yam yam trattoria- pizzeria,yam yam trattoria- pizzeria,0,西部公园区(Westerpark),7.2,7.2,7.2
+更多美食,De Culinaire Werkplaats,De Culinaire Werkplaats,0,西部公园区(Westerpark),7.0,7.0,7.0
+更多美食,Toko MC,Toko MC,0,西部公园区(Westerpark),7.0,7.0,7.0
+更多美食,Pacific Parc,Pacific Parc,0,西部公园区(Westerpark),7.0,6.9,7.0
+更多美食,Cafe West Pacific,Cafe West Pacific,0,西部公园区(Westerpark),7.0,7.0,7.0
+更多美食,MediaCafe Westergasfabriek,MediaCafe Westergasfabriek,0,西部公园区(Westerpark),6.9,6.9,6.9
+更多美食,Westergas Terras,Westergas Terras,0,西部公园区(Westerpark),7.0,7.0,7.0
+更多美食,Proef Amsterdam,Proef Amsterdam,0,西部公园区(Westerpark),7.1,7.1,7.1
+更多美食,Woods,Woods,0,西部公园区(Westerpark),7.0,6.9,6.9
+更多美食,REM Eiland,REM Eiland,0,西部公园区(Westerpark),7.2,7.2,7.2
+更多美食,Caffe Oslo,Caffe Oslo,0,其他,7.2,7.2,7.2
+更多美食,Rogh's Deli,Rogh's Deli,0,市中心(Amsterdam Centrum),7.6,7.2,7.2
+更多美食,Escape,Escape,0,,6.8,6.8,7.2
+更多美食,Wissenkerke Eten & Drinken,Wissenkerke Eten & Drinken,0,赫曾费尔德-斯洛特湖,7.0,7.1,7.0
+更多美食,In 't Vierde Baarsje,In 't Vierde Baarsje,0,杜巴罗斯(De Baarsjes),7.1,7.0,7.0
+更多美食,Warung Swietie,Warung Swietie,0,杜巴罗斯(De Baarsjes),7.0,6.9,6.9
+更多美食,Ram's Roti West,Ram's Roti West,0,杜巴罗斯(De Baarsjes),7.1,7.0,7.0
+更多美食,Natuurlijk Smullen,Natuurlijk Smullen,0,杜巴罗斯(De Baarsjes),7.0,7.0,7.0
+更多美食,Asian Plaza,Asian Plaza,0,博斯恩伦默(Bos en Lommer),7.0,6.9,7.0
+更多美食,Rainarai Westgasfabriek,Rainarai Westgasfabriek,0,博斯恩伦默(Bos en Lommer),7.1,7.1,7.1
+更多美食,Restaurant Syriana,Restaurant Syriana,0,巴德胡弗多普(Badhoevedorp),7.1,7.1,7.1
+更多美食,Amstelhaven,Amstelhaven,0,市中心(Amsterdam Centrum),6.8,6.6,7.1
+更多美食,Maximus,Maximus,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+更多美食,Little Buddha Amsterdam,Little Buddha Amsterdam,0,市中心(Amsterdam Centrum),6.8,6.8,7.2
+更多美食,Rancho VII,Rancho VII,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+更多美食,Heineken Hoek - Grand Cafe,Heineken Hoek - Grand Cafe,0,市中心(Amsterdam Centrum),6.8,6.8,7.2
+更多美食,Rain,Rain,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+更多美食,Sabor Latino Peru,Sabor Latino Peru,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+更多美食,Goa Coffeeshop,Goa Coffeeshop,0,市中心(Amsterdam Centrum),6.8,6.8,7.1
+更多美食,Ben Cohen,Ben Cohen,0,市中心(Amsterdam Centrum),6.8,6.8,6.8
+更多美食,LA BOCA,LA BOCA,0,市中心(Amsterdam Centrum),7.2,7.2,6.8
+更多美食,Café Ovidius,Café Ovidius,0,市中心(Amsterdam Centrum),6.8,6.8,7.2
+更多美食,Supperclub Cruise Amsterdam,Supperclub Cruise Amsterdam,0,市中心(Amsterdam Centrum),7.1,7.1,7.1
+更多美食,Grand Cafe Mynt,Grand Cafe Mynt,0,市中心(Amsterdam Centrum),6.8,6.8,7.2
+更多美食,Fifteen Amsterdam,Fifteen Amsterdam,0,海堡(Zeeburg),6.8,6.8,7.2
+更多美食,Restaurante Manolo Tapas Bar,Restaurante Manolo Tapas Bar,0,市中心(Amsterdam Centrum),6.7,6.7,6.7
+更多美食,le pot au feu,le pot au feu,0,市中心(Amsterdam Centrum),6.9,6.9,6.9
+更多美食,Douwe Egberts Cafe,Douwe Egberts Cafe,0,南区老城(Amsterdam Oud-Zuid),6.9,6.9,6.9
+更多美食,Warung Mini II,Warung Mini II,0,南区老城(Amsterdam Oud-Zuid),6.7,6.7,6.7
+更多美食,Broodjeszaak de Nieuwe Rai,Broodjeszaak de Nieuwe Rai,0,祖德马斯特尔(Zuideramstel),6.9,6.9,6.9
+更多美食,Juicy Details,Juicy Details,0,阿姆斯特丹国际机场周边,6.7,6.9,6.7
+更多美食,OPIUM Restaurant,OPIUM Restaurant,0,其他,6.9,6.9,6.9
+更多美食,Cafe St. George,Cafe St. George,0,市中心(Amsterdam Centrum),6.5,6.8,6.5
+更多美食,Teasers,Teasers,0,市中心(Amsterdam Centrum),0.0,0.0,0.0

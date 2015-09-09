@@ -1,0 +1,207 @@
+意大利菜,La Rosticceria
+意大利菜,Aqua Taverna
+意大利菜,Arte Italiana
+意大利菜,Gola Restaurant
+意大利菜,acqua
+意大利菜,Catari Plage
+法国菜,L'ile- Bistrot Cafe
+法国菜,La Maison de Catherine
+其他西餐,Niko's Taverna
+其他西餐,Passaggio
+其他西餐,Mourayio
+其他西餐,Petrino Aquarius Restaurant
+其他西餐,Kostas
+其他西餐,Paraportiani Taverna
+其他西餐,Roca Cookery
+其他西餐,Olla Mykonos
+其他西餐,Mamalouka
+其他西餐,Yialo-Yialo
+其他西餐,En Plo
+其他西餐,Vardaris
+其他西餐,Bakalo
+其他西餐,Fisherman Taverna
+其他西餐,Caesar's
+其他西餐,Meze On Port
+其他西餐,Joanna's Nikos Place
+其他西餐,Alegro Restaurant
+其他西餐,Phos Mykonos Restaurant
+其他西餐,Avra Restaurant - Garden
+其他西餐,Tavern To Steki Tou Poedpou
+其他西餐,Kuzina
+其他西餐,Nautilus
+其他西餐,Remezzo Restaurant and Bar
+其他西餐,Matthew Taverna
+其他西餐,Atlantida Restaurant
+其他西餐,Katerina's Bar & Restaurant
+其他西餐,Pepper Mykonos
+其他西餐,Liasti
+其他西餐,Kastro's
+其他西餐,Spilia
+其他西餐,Notos Beach Restaurant
+其他西餐,La Familia
+其他西餐,Kalua Mykonos
+其他西餐,Diles
+其他西餐,The Dublin Irish Pub Restaurant
+其他西餐,Chez Marias
+其他西餐,The Belvedere Club Restaurant
+其他西餐,La Casa
+其他西餐,Rouvera
+其他西餐,Restaurant Alefkandra
+其他西餐,Taverna La Luna
+其他西餐,Dublin Coffee
+其他西餐,YNot
+其他西餐,Ludmela Taverna Grill House
+其他西餐,Appaloosa Bar Restaurant
+其他西餐,Agios Sostis Tavern
+其他西餐,Kalita
+其他西餐,Lotus
+其他西餐,Alemagou Beach Bar
+其他西餐,Barbarola
+其他西餐,Funky Kitchen
+其他西餐,Kostantis Taverna
+其他西餐,Adva Panormos
+其他西餐,Kalosta
+其他西餐,Kikis Tavern
+其他西餐,Viva Mare
+其他西餐,To Koutouki tou limniou
+其他西餐,Markos Tavern
+其他西餐,Epistrofi
+其他西餐,Taverna Petran
+其他西餐,Unity Grill Pizzeria
+其他西餐,Pantelis Restaurant
+其他西餐,Semeli the Bar
+其他西餐,Yummy Mykonos
+其他西餐,Lady Finger
+其他西餐,YELLLOW foodies spot
+其他西餐,Ftelia Restaurant
+其他西餐,Cafe Yialos
+其他西餐,Kapari Restaurant at Hotel Princess of Mykonos
+其他西餐,Nostimon
+其他西餐,Barbarossa Restaurant
+其他西餐,Music Cafe
+其他西餐,Deliades Hotel
+其他西餐,Merolayia Restaurant
+其他西餐,Sunset Taverna
+其他西餐,Rouvera
+其他西餐,Leonidas
+其他西餐,Mykonos Resto
+其他西餐,Mykonos taverna
+其他西餐,Break Snack & Coffee
+其他西餐,Kostas' Veranda Restaurant
+其他西餐,Yefsi Event Restaurant
+其他西餐,Adelfia Taverna
+其他西餐,Soulatso Trattoria
+其他西餐,THREE3BAR
+其他西餐,Agrari Beach Restaurant
+其他西餐,THALASSA
+其他西餐,El Greco
+其他西餐,Nikolas Taverna
+其他西餐,Antoninis
+其他西餐,Alexis Restaurant
+其他西餐,NiSa Restaurant
+其他西餐,Salparo Seafood Tavern
+其他西餐,TASOS
+其他西餐,Ceaser's
+其他西餐,Mykonian Spiti
+其他西餐,Open Kitchen
+其他西餐,ALU bar-resto-lounge
+其他西餐,Axinaioi
+其他西餐,Ithaki
+其他西餐,Gourmeat
+日韩料理,Noodle Mykonos
+日韩料理,Kiku
+日韩料理,Sushi Med
+日韩料理,PEARL HARBOR Sushi Bar
+更多亚洲菜,Blue Ginger
+更多亚洲菜,Indian Palace
+更多亚洲菜,Jimmy's Place
+快餐简餐,SPILIA
+快餐简餐,Black Bull
+烧烤,Namma Barbecue
+比萨,Farina Restaurant
+咖啡厅,sunset cafe bar
+咖啡厅,"Point Cafe, Chora, Mykonos"
+咖啡厅,Veranda Cafe
+咖啡厅,Mandarini
+咖啡厅,Araxame
+咖啡厅,Cosmo Cafe
+面包甜点,Trio Bambini
+面包甜点,Gelarte Ice Cream
+面包甜点,Happyo
+面包甜点,Malama Cafe
+面包甜点,Casa Dolce Gelateria
+面包甜点,Suisse Cafe
+面包甜点,Davinci
+面包甜点,I Scream
+酒吧,小威尼斯
+酒吧,snack bar
+酒吧,Lola Bar-Cafe
+酒吧,Skandinavian Bar
+酒吧,Porta Bar Mykonos
+酒吧,Kastro Bar Mykonos
+酒吧,Alley Cocktail Bar
+酒吧,Montparnasse - The Piano Bar
+酒吧,Old Customs Cafe
+酒吧,Zorba's
+酒吧,Jackie O
+酒吧,Elysium Hotel Bar
+酒吧,Space Nightclub
+酒吧,Veranda Club-Cafe
+酒吧,Sea Breeze Cafe-Bar
+酒吧,Glam Mykonos
+酒吧,Hibiscus
+酒吧,Sunset Party at Elysium Hotel
+更多美食,Marco Polo
+更多美食,Opa Taverna
+更多美食,Nikos Gallop
+更多美食,D'Angelo Mykonos
+更多美食,Elia Beach Restaurant
+更多美食,Catari Ristorante Italiano
+更多美食,Jimmy's
+更多美食,Andreas & Maria
+更多美食,Nammos
+更多美食,Sakis Grill House
+更多美食,Kadena
+更多美食,Taverna Nicolas
+更多美食,Tasos Taverna
+更多美食,Aperanto Galazio
+更多美食,Aleka's Restaurant
+更多美食,Pinky Beach
+更多美食,Vasilikos bar-restaurant
+更多美食,Interni
+更多美食,Galleraki Cocktail Bar
+更多美食,Anna's Place
+更多美食,Madoupas Cafe
+更多美食,Thea
+更多美食,Kalammmakia Lakka
+更多美食,Matsuhisa Mykonos
+更多美食,Panormos beach restaurant bar
+更多美食,Nineteen75
+更多美食,Fish Taverna Lia
+更多美食,Taverna Apostolis
+更多美食,Bougazi Cafe
+更多美食,"Restaurtante Bar Oniro en Tagou, Mykonos"
+更多美食,Super Paradise
+更多美食,Tropicana Beach Restaurant
+更多美食,Blu-Blu Cafe Lounge Bar
+更多美食,Manoulas
+更多美食,Hippie Fish
+更多美食,Luv All Sea Bar
+更多美食,Vangelis Taverna
+更多美食,The Waves
+更多美食,Skaropoulos Pastry Shop
+更多美食,Hotel Tagoo Restaurant
+更多美食,Paradise Restaurant
+更多美食,Andriana's Tavern
+更多美食,La Meduse
+更多美食,Ilo-Ilo
+更多美食,Guilty Beach
+更多美食,Spilia Seaside Restaurant - Bar
+更多美食,La Piazzetta
+更多美食,Kouvaroti
+更多美食,Taverna Antonini
+更多美食,Kadena Cafe- Restaurant
+更多美食,Taverna Giavroutas
+更多美食,Squalo Bar Restaurant
+更多美食,Bellagio All Day Bar Restaurant
+更多美食,Rayo del Sol

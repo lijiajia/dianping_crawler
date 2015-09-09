@@ -1,0 +1,351 @@
+意大利菜,Luce,Luce,0,伯尔尼,7.7,7.7,7.7
+意大利菜,La Passion du Vin,La Passion du Vin,0,伯尔尼,0.0,0.0,0.0
+意大利菜,La Tavola Pronta,La Tavola Pronta,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Tredicipercento Restaurant & Weinbar,Tredicipercento Restaurant & Weinbar,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Casa d'Italia,Casa d'Italia,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Lorenzini and Du Theatre,Lorenzini and Du Theatre,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Restaurant Bella Vita,Restaurant Bella Vita,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Giardino,Giardino,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Spaghetti Factory,Spaghetti Factory,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Verdi,Verdi,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Pizzeria Molino Bern Thurm,Pizzeria Molino Bern Thurm,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Ristorante Pomodoro,Ristorante Pomodoro,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Grissino,Grissino,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Gioia,Gioia,0,伯尔尼,0.0,0.0,0.0
+意大利菜,De Fusco,De Fusco,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Da Vinci,Da Vinci,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Tre Fratelli,Tre Fratelli,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Zahringer,Zahringer,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Trattoria da Walter,Trattoria da Walter,0,其他,0.0,0.0,0.0
+意大利菜,Militargarten,Militargarten,0,,7.0,7.0,7.0
+意大利菜,Dolce Vita,Dolce Vita,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Restaurant Strada,Restaurant Strada,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Mappamondo,Mappamondo,0,伯尔尼,0.0,0.0,0.0
+意大利菜,Enoteca Bacchus,Enoteca Bacchus,0,,0.0,0.0,0.0
+意大利菜,Il Grotto,Il Grotto,0,,0.0,0.0,0.0
+意大利菜,La Vigna,La Vigna,0,伯尔尼,0.0,0.0,0.0
+意大利菜,La Vita,La Vita,0,,0.0,0.0,0.0
+法国菜,Wein&Sein mit Haerzbluet,Wein&Sein mit Haerzbluet,0,伯尔尼,0.0,0.0,0.0
+法国菜,Metzgerstuebli,Metzgerstuebli,0,伯尔尼,0.0,0.0,0.0
+法国菜,Waldheim,Waldheim,0,伯尔尼,0.0,0.0,0.0
+法国菜,Moleson,Moleson,0,伯尔尼,0.0,0.0,0.0
+法国菜,Brasserie Barengraben,Brasserie Barengraben,0,伯尔尼,0.0,0.0,0.0
+法国菜,Bistrot Marzer,Bistrot Marzer,0,伯尔尼,0.0,0.0,0.0
+法国菜,"Hotel National, Bern","Hotel National, Bern",0,伯尔尼,0.0,0.0,0.0
+法国菜,Harmonie,Harmonie,0,伯尔尼,0.0,0.0,0.0
+法国菜,Brasserie Obstberg,Brasserie Obstberg,0,伯尔尼,0.0,0.0,0.0
+法国菜,Les Terroirs,Les Terroirs,0,伯尔尼,0.0,0.0,0.0
+法国菜,La Marmite,La Marmite,0,,7.1,7.1,7.1
+法国菜,Fariboles,Fariboles,0,伯尔尼,0.0,0.0,0.0
+法国菜,Buner Restaurant & Vinothek,Buner Restaurant & Vinothek,0,伯尔尼,0.0,0.0,0.0
+墨西哥菜,Desperado Mexican Restaurant & Bar,Desperado Mexican Restaurant & Bar,0,伯尔尼,0.0,0.0,0.0
+墨西哥菜,El Mexicano,El Mexicano,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Rosengarten,Rosengarten,0,伯尔尼,6.8,7.7,6.8
+其他西餐,Le Mazot,Le Mazot,0,伯尔尼,6.8,6.8,6.8
+其他西餐,Mr. Pickwick Pub,Mr. Pickwick Pub,0,伯尔尼,7.2,7.2,7.2
+其他西餐,Altes Tramdepot,Altes Tramdepot,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Novotel Bern Expo,Novotel Bern Expo,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Brasserie Bits & Bites,Brasserie Bits & Bites,0,其他,0.0,0.0,0.0
+其他西餐,Meridiano,Meridiano,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Schuler Weinwirtschaft ,Schuler Weinwirtschaft ,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Entrecote Cafe Federal,Entrecote Cafe Federal,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Süder,Süder,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Brasserie 11,Brasserie 11,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Kloetzlikeller,Kloetzlikeller,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Eggholzli,Restaurant Eggholzli,0,其他,0.0,0.0,0.0
+其他西餐,Klosterli Weincafe,Klosterli Weincafe,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant Sassafraz,Restaurant Sassafraz,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant Brasserie Anker,Restaurant Brasserie Anker,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Falken,Falken,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Parlament,Parlament,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant Krone,Restaurant Krone,0,伯尔尼,0.0,0.0,0.0
+其他西餐,La Cavana,La Cavana,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Chez Edy,Chez Edy,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Du Nord,Du Nord,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant Commerce,Restaurant Commerce,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Casa Novo,Casa Novo,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Zebra,Zebra,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Buener,Buener,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Bistro Steinhalle,Bistro Steinhalle,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Steingarten,Steingarten,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Migros Restaurant,Migros Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Frohegg,Frohegg,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Marta,Marta,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Kornhaus cafe,Kornhaus cafe,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Goldener Schlussel,Goldener Schlussel,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant des Pyrenees,Restaurant des Pyrenees,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant zum Ausseren Stand,Restaurant zum Ausseren Stand,0,伯尔尼,0.0,0.0,0.0
+其他西餐,La Table de Urs Hauri,La Table de Urs Hauri,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Zimmermania,Zimmermania,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Specht,Specht,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant Alpenblick,Restaurant Alpenblick,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant Tramway,Restaurant Tramway,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Brasil Grill,Brasil Grill,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Marcel's Marcili,Marcel's Marcili,0,伯尔尼,0.0,0.0,0.0
+其他西餐,AS Restaurant,AS Restaurant,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Brasserie Mattenhof,Brasserie Mattenhof,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Blue Cat Bistro,Blue Cat Bistro,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant Bar Arlequin,Restaurant Bar Arlequin,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant zur alten Post,Restaurant zur alten Post,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Hotelbern,Hotelbern,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Churrascaria Maracana,Churrascaria Maracana,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Kung Fu Burger,Kung Fu Burger,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant Athen,Restaurant Athen,0,伯尔尼,0.0,0.0,0.0
+其他西餐,O'Bolles,O'Bolles,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Café Restaurant Viktoria,Café Restaurant Viktoria,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Cafe Vetter Herzog,Cafe Vetter Herzog,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Hotel Restaurant Jardin,Hotel Restaurant Jardin,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Restaurant Pizzeria Eintracht Perez,Restaurant Pizzeria Eintracht Perez,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Schloss-Bumpliz,Schloss-Bumpliz,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Zum Denkmal,Restaurant Zum Denkmal,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Kleine Schanze,Kleine Schanze,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Gut Gelaunt,Gut Gelaunt,0,伯尔尼,0.0,0.0,0.0
+其他西餐,7-Stube,7-Stube,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Al Parco,Al Parco,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Don Porfirio,Don Porfirio,0,,0.0,0.0,0.0
+其他西餐,Kappa Take Away,Kappa Take Away,0,,0.0,0.0,0.0
+其他西餐,Venezia aka Umut,Venezia aka Umut,0,,0.0,0.0,0.0
+其他西餐,Gasthof Krummholzbad,Gasthof Krummholzbad,0,,0.0,0.0,0.0
+其他西餐,POP-UP by Markus Arnold,POP-UP by Markus Arnold,0,,0.0,0.0,0.0
+其他西餐,Brunnhof,Brunnhof,0,,0.0,0.0,0.0
+其他西餐,Hotel Restaurant Goldener Schussel,Hotel Restaurant Goldener Schussel,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Ali Baba,Ali Baba,0,伯尔尼,0.0,0.0,0.0
+其他西餐,Grindelwaldstubli,Grindelwaldstubli,0,其他,0.0,0.0,0.0
+其他西餐,Wirtschaft zum Löwen,Wirtschaft zum Löwen,0,,0.0,0.0,0.0
+中餐,China Imperial,China Imperial,0,伯尔尼,5.9,6.8,6.8
+中餐,Mekong Beizli Huynh,Mekong Beizli Huynh,0,伯尔尼,0.0,0.0,0.0
+中餐,Boky,Boky,0,伯尔尼,0.0,0.0,0.0
+中餐,Tien Tien,Tien Tien,0,伯尔尼,0.0,0.0,0.0
+中餐,Fischermatteli,Fischermatteli,0,伯尔尼,0.0,0.0,0.0
+中餐,Cafeteria Siddharta,Cafeteria Siddharta,0,伯尔尼,0.0,0.0,0.0
+日韩料理,Sushi Bar Yamasaki,Sushi Bar Yamasaki,0,伯尔尼,0.0,0.0,0.0
+日韩料理,Nooch - Asian Kitchen,Nooch - Asian Kitchen,0,伯尔尼,0.0,0.0,0.0
+日韩料理,Japigo,Japigo,0,伯尔尼,0.0,0.0,0.0
+日韩料理,Kabuki,Kabuki,0,伯尔尼,0.0,0.0,0.0
+日韩料理,Restaurant Muesmatt,Restaurant Muesmatt,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Fugu-Nydegg,Fugu-Nydegg,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Namaste India,Namaste India,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Yu,Yu,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Okra,Okra,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Restaurant Aarbergerhof,Restaurant Aarbergerhof,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Pad Thai Restaurant - Take Away,Pad Thai Restaurant - Take Away,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Maharaja Palace,Maharaja Palace,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Plattform Restaurants,Plattform Restaurants,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,cha cha - Thai Positive Eating,cha cha - Thai Positive Eating,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Namamen,Namamen,0,其他,0.0,0.0,0.0
+更多亚洲菜,Curry House Bern,Curry House Bern,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Restaurant Sitar,Restaurant Sitar,0,,0.0,0.0,0.0
+更多亚洲菜,Quick Asian Food,Quick Asian Food,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,South Indian Food Court,South Indian Food Court,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Mishio,Mishio,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Punkt,Punkt,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Orient-Restaurant Chez Haydar,Orient-Restaurant Chez Haydar,0,其他,0.0,0.0,0.0
+更多亚洲菜,India4u,India4u,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Tang Soriya,Tang Soriya,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Restaurant & Take Away Asia Halong,Restaurant & Take Away Asia Halong,0,伯尔尼,0.0,0.0,0.0
+更多亚洲菜,Restaurant Akul,Restaurant Akul,0,伯尔尼,0.0,0.0,0.0
+快餐简餐,The BEEF Steakhouse & Bar,The BEEF Steakhouse & Bar,0,伯尔尼,0.0,0.0,0.0
+快餐简餐,Sonne Scheunenberg,Sonne Scheunenberg,0,其他,0.0,0.0,0.0
+快餐简餐,Cinematte,Cinematte,0,伯尔尼,0.0,0.0,0.0
+快餐简餐,Restaurant & Bar Indiana,Restaurant & Bar Indiana,0,伯尔尼,0.0,0.0,0.0
+快餐简餐,Sous le Pont - Reitschule,Sous le Pont - Reitschule,0,伯尔尼,0.0,0.0,0.0
+快餐简餐,Restaurant Papa Joe's,Restaurant Papa Joe's,0,伯尔尼,0.0,0.0,0.0
+快餐简餐,Entre Nous Bern,Entre Nous Bern,0,伯尔尼,0.0,0.0,0.0
+快餐简餐,Phils fresh,Phils fresh,0,,0.0,0.0,0.0
+海鲜,Azzurro Terra e Mare,Azzurro Terra e Mare,0,伯尔尼,0.0,0.0,0.0
+烧烤,嘉佳羊蝎子,嘉佳羊蝎子,0,,0.0,0.0,0.0
+比萨,Gasthof Strand,Gasthof Strand,0,伯尔尼,0.0,0.0,0.0
+比萨,La Tribuna,La Tribuna,0,伯尔尼,0.0,0.0,0.0
+比萨,Santa Lucia,Santa Lucia,0,伯尔尼,0.0,0.0,0.0
+比萨,Pizzeria Tonino,Pizzeria Tonino,0,,0.0,0.0,0.0
+比萨,Mega Pizza Kurier,Mega Pizza Kurier,0,,0.0,0.0,0.0
+比萨,Pizza&Pasta,Pizza&Pasta,0,,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee,Starbucks Coffee,0,伯尔尼,7.1,7.1,7.1
+咖啡厅,Einstein Kaffee und Rauchsalon,Einstein Kaffee und Rauchsalon,0,伯尔尼,0.0,0.0,0.0
+咖啡厅,Cafe Gruebi,Cafe Gruebi,0,,7.3,7.3,7.3
+咖啡厅,Monnier Confiserie,Monnier Confiserie,0,伯尔尼,0.0,0.0,0.0
+咖啡厅,Bistro Memory,Bistro Memory,0,,7.2,7.2,7.2
+咖啡厅,Adriano's Bar & Cafe,Adriano's Bar & Cafe,0,伯尔尼,0.0,0.0,0.0
+咖啡厅,Cafe Reber,Cafe Reber,0,,7.0,7.0,6.9
+咖啡厅,Mary's Cafe,Mary's Cafe,0,,7.1,6.8,7.1
+咖啡厅,Caffe Sattler,Caffe Sattler,0,伯尔尼,0.0,0.0,0.0
+咖啡厅,Cafe 3692,Cafe 3692,0,,7.1,7.1,7.1
+咖啡厅,Confiserie Abegglen,Confiserie Abegglen,0,伯尔尼,0.0,0.0,0.0
+面包甜点,La Chouette,La Chouette,0,伯尔尼,0.0,0.0,0.0
+面包甜点,Confiserie Eichenberger,Confiserie Eichenberger,0,伯尔尼,0.0,0.0,0.0
+面包甜点,Bohnenblust Cafe,Bohnenblust Cafe,0,伯尔尼,0.0,0.0,0.0
+酒吧,Schuler Weinwirtschaft ,Schuler Weinwirtschaft ,0,伯尔尼,0.0,0.0,0.0
+酒吧,Josephine Brasserie,Josephine Brasserie,0,伯尔尼,0.0,0.0,0.0
+酒吧,& Soehne,& Soehne,0,伯尔尼,0.0,0.0,0.0
+酒吧,Allegro Bar Kursaal Bern,Allegro Bar Kursaal Bern,0,伯尔尼,0.0,0.0,0.0
+酒吧,Bonbec,Bonbec,0,伯尔尼,0.0,0.0,0.0
+酒吧,Musigbistrot,Musigbistrot,0,伯尔尼,0.0,0.0,0.0
+酒吧,Volver Bar Tapas Cafe,Volver Bar Tapas Cafe,0,伯尔尼,0.0,0.0,0.0
+酒吧,Compass Bar,Compass Bar,0,伯尔尼,0.0,0.0,0.0
+酒吧,Klotzlikeller,Klotzlikeller,0,伯尔尼,0.0,0.0,0.0
+酒吧,Comeback,Comeback,0,伯尔尼,0.0,0.0,0.0
+酒吧,Turnhalle,Turnhalle,0,伯尔尼,0.0,0.0,0.0
+酒吧,Marians' Jazzroom,Marians' Jazzroom,0,伯尔尼,0.0,0.0,0.0
+酒吧,Restaurant Pont de Thielle,Restaurant Pont de Thielle,0,,0.0,0.0,0.0
+酒吧,Avocado Bar,Avocado Bar,0,,7.2,7.2,7.2
+酒吧,Shisha Bar,Shisha Bar,0,,6.9,6.9,6.9
+更多美食,"Kornhauskeller, Restaurant","Kornhauskeller, Restaurant",0,伯尔尼,8.3,8.3,8.5
+更多美食,Mille Sens,Mille Sens,0,伯尔尼,7.1,7.3,7.7
+更多美食,La Terrasse im Bellevue Palace,La Terrasse im Bellevue Palace,0,伯尔尼,0.0,0.0,0.0
+更多美食,Frohsinn,Frohsinn,0,伯尔尼,0.0,0.0,0.0
+更多美食,Domino,Domino,0,伯尔尼,0.0,0.0,0.0
+更多美食,Migros Marktgasse,Migros Marktgasse,0,伯尔尼,0.0,0.0,0.0
+更多美食,Jack's Brasserie (Hotel Schweizerhof),Jack's Brasserie (Hotel Schweizerhof),0,伯尔尼,0.0,0.0,0.0
+更多美食,Arirang Restaurant,Arirang Restaurant,0,伯尔尼,0.0,0.0,0.0
+更多美食,Veranda,Veranda,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Kirchenfeld,Restaurant Kirchenfeld,0,伯尔尼,0.0,0.0,0.0
+更多美食,Da Carlo,Da Carlo,0,伯尔尼,0.0,0.0,0.0
+更多美食,KAPITEL Bollwerk,KAPITEL Bollwerk,0,伯尔尼,0.0,0.0,0.0
+更多美食,Gelateria di Berna,Gelateria di Berna,0,伯尔尼,0.0,0.0,0.0
+更多美食,tingel kringel,tingel kringel,0,伯尔尼,0.0,0.0,0.0
+更多美食,La Piazzetta,La Piazzetta,0,其他,0.0,0.0,0.0
+更多美食,tibits,tibits,0,伯尔尼,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Rialto,Ristorante Pizzeria Rialto,0,伯尔尼,0.0,0.0,0.0
+更多美食,Schloss Reichenbach,Schloss Reichenbach,0,伯尔尼,0.0,0.0,0.0
+更多美食,A Familia Portuguesa,A Familia Portuguesa,0,伯尔尼,0.0,0.0,0.0
+更多美食,Schmiedstube,Schmiedstube,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Injera,Restaurant Injera,0,伯尔尼,0.0,0.0,0.0
+更多美食,"Della Casa, Restaurant","Della Casa, Restaurant",0,伯尔尼,0.0,0.0,0.0
+更多美食,Zunft zu Webern (Wabere),Zunft zu Webern (Wabere),0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Romer,Restaurant Romer,0,伯尔尼,0.0,0.0,0.0
+更多美食,Pangaa,Pangaa,0,伯尔尼,0.0,0.0,0.0
+更多美食,Il Ristorantino,Il Ristorantino,0,伯尔尼,0.0,0.0,0.0
+更多美食,China - Dalun GmbH,China - Dalun GmbH,0,伯尔尼,0.0,0.0,0.0
+更多美食,Eiger,Eiger,0,伯尔尼,0.0,0.0,0.0
+更多美食,Spitz,Spitz,0,伯尔尼,0.0,0.0,0.0
+更多美食,Coop Restaurant,Coop Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Spiga,Spiga,0,其他,0.0,0.0,0.0
+更多美食,Yooji's Westside,Yooji's Westside,0,其他,0.0,0.0,0.0
+更多美食,Da Bucolo,Da Bucolo,0,伯尔尼,0.0,0.0,0.0
+更多美食,Loetschberg AOC,Loetschberg AOC,0,伯尔尼,0.0,0.0,0.0
+更多美食,tibits,tibits,0,伯尔尼,0.0,0.0,0.0
+更多美食,Schoengruen,Schoengruen,0,其他,0.0,0.0,0.0
+更多美食,La Nonna,La Nonna,0,伯尔尼,0.0,0.0,0.0
+更多美食,Luna Llena,Luna Llena,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Löewen,Restaurant Löewen,0,,0.0,0.0,0.0
+更多美食,La Carbonara,La Carbonara,0,伯尔尼,0.0,0.0,0.0
+更多美食,Bahnhof-Weissenbuhl,Bahnhof-Weissenbuhl,0,,0.0,0.0,0.0
+更多美食,Felsenau,Felsenau,0,其他,0.0,0.0,0.0
+更多美食,Spiga Westside,Spiga Westside,0,其他,0.0,0.0,0.0
+更多美食,Gfeller am Baerenplatz,Gfeller am Baerenplatz,0,伯尔尼,0.0,0.0,0.0
+更多美食,"Restaurant Beaumont, Bern","Restaurant Beaumont, Bern",0,伯尔尼,0.0,0.0,0.0
+更多美食,Schwellenmaetteli Restaurants,Schwellenmaetteli Restaurants,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Casino Bern,Restaurant Casino Bern,0,伯尔尼,0.0,0.0,0.0
+更多美食,TAB TIM,TAB TIM,0,伯尔尼,0.0,0.0,0.0
+更多美食,Kornhaus Cafe und Keller,Kornhaus Cafe und Keller,0,伯尔尼,0.0,0.0,0.0
+更多美食,Cave Alpin,Cave Alpin,0,伯尔尼,0.0,0.0,0.0
+更多美食,Cesary Bar,Cesary Bar,0,伯尔尼,0.0,0.0,0.0
+更多美食,Volkshaus Bern,Volkshaus Bern,0,伯尔尼,0.0,0.0,0.0
+更多美食,Blauer Engel,Blauer Engel,0,伯尔尼,0.0,0.0,0.0
+更多美食,Grotto Ticino,Grotto Ticino,0,伯尔尼,0.0,0.0,0.0
+更多美食,Lokal,Lokal,0,伯尔尼,0.0,0.0,0.0
+更多美食,Cafe Bar Restaurant Kairo,Cafe Bar Restaurant Kairo,0,伯尔尼,0.0,0.0,0.0
+更多美食,Osteria Da Santo,Osteria Da Santo,0,其他,0.0,0.0,0.0
+更多美食,Bistrot Morillon,Bistrot Morillon,0,伯尔尼,0.0,0.0,0.0
+更多美食,La Cultina Schulrestaurant,La Cultina Schulrestaurant,0,伯尔尼,0.0,0.0,0.0
+更多美食,"Restaurant Weissenbuhl, Bern","Restaurant Weissenbuhl, Bern",0,伯尔尼,0.0,0.0,0.0
+更多美食,Punto,Punto,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Dampfzentrale,Restaurant Dampfzentrale,0,伯尔尼,0.0,0.0,0.0
+更多美食,Pizzeria Atlantico,Pizzeria Atlantico,0,伯尔尼,0.0,0.0,0.0
+更多美食,Ambassador,Ambassador,0,伯尔尼,0.0,0.0,0.0
+更多美食,Asia HuaKy,Asia HuaKy,0,伯尔尼,0.0,0.0,0.0
+更多美食,Las Alps,Las Alps,0,伯尔尼,0.0,0.0,0.0
+更多美食,Boxx Showroom,Boxx Showroom,0,伯尔尼,0.0,0.0,0.0
+更多美食,Garten Restaurant Marzilibrucke,Garten Restaurant Marzilibrucke,0,伯尔尼,0.0,0.0,0.0
+更多美食,Nocciolato Specialty Coffee House,Nocciolato Specialty Coffee House,0,伯尔尼,0.0,0.0,0.0
+更多美食,Xenia-Cafe,Xenia-Cafe,0,伯尔尼,0.0,0.0,0.0
+更多美食,Haus der Universitat,Haus der Universitat,0,伯尔尼,0.0,0.0,0.0
+更多美食,Fischerstubli,Fischerstubli,0,伯尔尼,0.0,0.0,0.0
+更多美食,Diagonal,Diagonal,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Cavallo Star,Restaurant Cavallo Star,0,伯尔尼,0.0,0.0,0.0
+更多美食,Way to India,Way to India,0,伯尔尼,0.0,0.0,0.0
+更多美食,Hier Und Jetzt,Hier Und Jetzt,0,伯尔尼,0.0,0.0,0.0
+更多美食,Santorini,Santorini,0,伯尔尼,0.0,0.0,0.0
+更多美食,7 Machos,7 Machos,0,伯尔尼,0.0,0.0,0.0
+更多美食,Energy Kitchen,Energy Kitchen,0,伯尔尼,0.0,0.0,0.0
+更多美食,Lirum Larum,Lirum Larum,0,伯尔尼,0.0,0.0,0.0
+更多美食,Odeon,Odeon,0,伯尔尼,0.0,0.0,0.0
+更多美食,Pizzeriatreff,Pizzeriatreff,0,伯尔尼,0.0,0.0,0.0
+更多美食,Leichtsinn,Leichtsinn,0,伯尔尼,0.0,0.0,0.0
+更多美食,Müehlirad,Müehlirad,0,伯尔尼,0.0,0.0,0.0
+更多美食,3 Eidgenossen,3 Eidgenossen,0,伯尔尼,0.0,0.0,0.0
+更多美食,Lo stuzzichino da Bellino,Lo stuzzichino da Bellino,0,伯尔尼,0.0,0.0,0.0
+更多美食,"Hotel zum Goldenen Adler, Bern","Hotel zum Goldenen Adler, Bern",0,伯尔尼,0.0,0.0,0.0
+更多美食,Pizzeria Treff Tapas Bar,Pizzeria Treff Tapas Bar,0,伯尔尼,0.0,0.0,0.0
+更多美食,Cote Sud Pizza & Pasta,Cote Sud Pizza & Pasta,0,伯尔尼,0.0,0.0,0.0
+更多美食,Cafe Litteraire,Cafe Litteraire,0,伯尔尼,0.0,0.0,0.0
+更多美食,Grock,Grock,0,伯尔尼,0.0,0.0,0.0
+更多美食,Barenhöefli Cafe & Lounge,Barenhöefli Cafe & Lounge,0,伯尔尼,0.0,0.0,0.0
+更多美食,Nordsud,Nordsud,0,伯尔尼,0.0,0.0,0.0
+更多美食,La tienda de Juan,La tienda de Juan,0,伯尔尼,0.0,0.0,0.0
+更多美食,Aerni Bar,Aerni Bar,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Beaulieu,Restaurant Beaulieu,0,伯尔尼,0.0,0.0,0.0
+更多美食,Cafe-Bar Parterre,Cafe-Bar Parterre,0,伯尔尼,0.0,0.0,0.0
+更多美食,Creperie Le Carrousel,Creperie Le Carrousel,0,伯尔尼,0.0,0.0,0.0
+更多美食,Curry Legend,Curry Legend,0,伯尔尼,0.0,0.0,0.0
+更多美食,Langgass-Stubli,Langgass-Stubli,0,伯尔尼,0.0,0.0,0.0
+更多美食,Seidenhof,Seidenhof,0,伯尔尼,0.0,0.0,0.0
+更多美食,Wartsaal,Wartsaal,0,伯尔尼,0.0,0.0,0.0
+更多美食,3 Dosha Restaurant,3 Dosha Restaurant,0,伯尔尼,0.0,0.0,0.0
+更多美食,Mont Liban,Mont Liban,0,伯尔尼,0.0,0.0,0.0
+更多美食,Genossenschaft Brasserie Lorraine,Genossenschaft Brasserie Lorraine,0,伯尔尼,0.0,0.0,0.0
+更多美食,Henris Restaurant,Henris Restaurant,0,伯尔尼,0.0,0.0,0.0
+更多美食,Caledonia,Caledonia,0,伯尔尼,0.0,0.0,0.0
+更多美食,Eleven,Eleven,0,伯尔尼,0.0,0.0,0.0
+更多美食,Calabrisella,Calabrisella,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Wylerbad,Restaurant Wylerbad,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Il Profeta,Restaurant Il Profeta,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Baren Oberbottigen,Restaurant Baren Oberbottigen,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Murifeld,Restaurant Murifeld,0,其他,0.0,0.0,0.0
+更多美食,Sternen,Sternen,0,其他,0.0,0.0,0.0
+更多美食,Cafe-Bar Tram Egge,Cafe-Bar Tram Egge,0,其他,0.0,0.0,0.0
+更多美食,Tea Room Blumenfeld,Tea Room Blumenfeld,0,其他,0.0,0.0,0.0
+更多美食,Piazza,Piazza,0,其他,0.0,0.0,0.0
+更多美食,Abruzzese,Abruzzese,0,其他,0.0,0.0,0.0
+更多美食,Piccola Napoli,Piccola Napoli,0,伯尔尼,0.0,0.0,0.0
+更多美食,la Stella,la Stella,0,伯尔尼,0.0,0.0,0.0
+更多美食,Pizzeria Davide,Pizzeria Davide,0,伯尔尼,0.0,0.0,0.0
+更多美食,Art Cafe,Art Cafe,0,伯尔尼,0.0,0.0,0.0
+更多美食,Piman thai Restaurant,Piman thai Restaurant,0,伯尔尼,0.0,0.0,0.0
+更多美食,Caffe Spettacolo,Caffe Spettacolo,0,伯尔尼,0.0,0.0,0.0
+更多美食,La Pizzeria,La Pizzeria,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Bellini Cafe Bar,Restaurant Bellini Cafe Bar,0,伯尔尼,0.0,0.0,0.0
+更多美食,Cowboys,Cowboys,0,伯尔尼,0.0,0.0,0.0
+更多美食,Altenberg Turkische Spezialitaten,Altenberg Turkische Spezialitaten,0,伯尔尼,0.0,0.0,0.0
+更多美食,Treffpunkt,Treffpunkt,0,伯尔尼,0.0,0.0,0.0
+更多美食,Restaurant Goût,Restaurant Goût,0,伯尔尼,0.0,0.0,0.0
+更多美食,Walter,Walter,0,伯尔尼,0.0,0.0,0.0
+更多美食,Campania,Campania,0,其他,0.0,0.0,0.0
+更多美食,Prima Luna,Prima Luna,0,,0.0,0.0,0.0
+更多美食,Restaurant Alibaba40,Restaurant Alibaba40,0,,0.0,0.0,0.0
+更多美食,Smart,Smart,0,,0.0,0.0,0.0
+更多美食,Don Quijote,Don Quijote,0,,0.0,0.0,0.0
+更多美食,Michelangelo,Michelangelo,0,,0.0,0.0,0.0
+更多美食,Agave,Agave,0,,0.0,0.0,0.0
+更多美食,Boomerang s,Boomerang s,0,,0.0,0.0,0.0
+更多美食,Schonau,Schonau,0,,0.0,0.0,0.0
+更多美食,RockGarden restuarant,RockGarden restuarant,0,,0.0,0.0,0.0
+更多美食,Il Padrino,Il Padrino,0,,0.0,0.0,0.0
+更多美食,Licia s Take-Away,Licia s Take-Away,0,,0.0,0.0,0.0
+更多美食,Cafe Ador,Cafe Ador,0,,0.0,0.0,0.0
+更多美食,Weyermannshaus O Camoes,Weyermannshaus O Camoes,0,,0.0,0.0,0.0
+更多美食,Cafe Arabesque,Cafe Arabesque,0,,0.0,0.0,0.0
+更多美食,Trucker-Bar,Trucker-Bar,0,,0.0,0.0,0.0
+更多美食,Burgernziel,Burgernziel,0,,0.0,0.0,0.0
+更多美食,Wok-Town,Wok-Town,0,伯尔尼,0.0,0.0,0.0
+更多美食,Ristorante Scala,Ristorante Scala,0,伯尔尼,0.0,0.0,0.0
+更多美食,Ringgenberg,Ringgenberg,0,伯尔尼,0.0,0.0,0.0
+更多美食,Bahnhöefli,Bahnhöefli,0,,0.0,0.0,0.0
+更多美食,Cafe Americano,Cafe Americano,0,,0.0,0.0,0.0
+更多美食,Flo's,Flo's,0,,0.0,0.0,0.0
+更多美食,Cafe-Bar Atlantis,Cafe-Bar Atlantis,0,,0.0,0.0,0.0
+更多美食,Toscana,Toscana,0,,0.0,0.0,0.0
+更多美食,Hitzberger Bern Spitalgasse,Hitzberger Bern Spitalgasse,0,,0.0,0.0,0.0
+更多美食,Allresto,Allresto,0,,0.0,0.0,0.0
+更多美食,La Luna Rossa,La Luna Rossa,0,,0.0,0.0,0.0
+更多美食,Du Bresil,Du Bresil,0,,0.0,0.0,0.0

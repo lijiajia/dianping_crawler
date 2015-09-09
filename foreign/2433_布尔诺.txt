@@ -1,0 +1,304 @@
+意大利菜,Il Mercato,Il Mercato,0,其他,0.0,0.0,0.0
+意大利菜,Grandeeza,Grandeeza,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Leonessa,Ristorante Pizzeria Leonessa,0,其他,0.0,0.0,0.0
+意大利菜,Pizza Zakki,Pizza Zakki,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Rialto,Ristorante Rialto,0,Pisarky,0.0,0.0,0.0
+意大利菜,Castellana Bistro,Castellana Bistro,0,Zidenice,0.0,0.0,0.0
+意大利菜,Spolek,Spolek,0,其他,0.0,0.0,0.0
+意大利菜,Italia Bar Pizzeria,Italia Bar Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Cattani Pasta Bar,Cattani Pasta Bar,0,其他,0.0,0.0,0.0
+意大利菜,Pasta Di Gusto,Pasta Di Gusto,0,其他,0.0,0.0,0.0
+意大利菜,La Patas,La Patas,0,其他,0.0,0.0,0.0
+意大利菜,Cafe Tripoli,Cafe Tripoli,0,其他,0.0,0.0,0.0
+意大利菜,Restaurant Cizare Leopolda,Restaurant Cizare Leopolda,0,其他,0.0,0.0,0.0
+意大利菜,Pizza Coloseum Brno,Pizza Coloseum Brno,0,其他,0.0,0.0,0.0
+意大利菜,Jet cafe,Jet cafe,0,其他,0.0,0.0,0.0
+意大利菜,Suzie's Pizzerie and Restaurant,Suzie's Pizzerie and Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Piccolo Mondo,Piccolo Mondo,0,其他,0.0,0.0,0.0
+意大利菜,Cafe encounter,Cafe encounter,0,其他,0.0,0.0,0.0
+意大利菜,Carpe Diem,Carpe Diem,0,其他,0.0,0.0,0.0
+意大利菜,Caruso PIzza,Caruso PIzza,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Italia,Ristorante Italia,0,Ponava,0.0,0.0,0.0
+意大利菜,Comodo,Comodo,0,Ponava,0.0,0.0,0.0
+意大利菜,Mariani Ristorante Pizzeria,Mariani Ristorante Pizzeria,0,Zidenice,0.0,0.0,0.0
+意大利菜,Fausto Coppi,Fausto Coppi,0,其他,0.0,0.0,0.0
+法国菜,La Bouchee,La Bouchee,0,其他,0.0,0.0,0.0
+法国菜,L' Eau Vive,L' Eau Vive,0,其他,0.0,0.0,0.0
+法国菜,Calypso,Calypso,0,其他,0.0,0.0,0.0
+法国菜,Ristorante l'Abbuffata,Ristorante l'Abbuffata,0,其他,0.0,0.0,0.0
+墨西哥菜,Don Miguel,Don Miguel,0,其他,0.0,0.0,0.0
+墨西哥菜,Don Miguel's Bar,Don Miguel's Bar,0,Kralovo Pole,0.0,0.0,0.0
+其他西餐,U Blahovky,U Blahovky,0,Pisarky,7.7,7.2,7.2
+其他西餐,Palazzo Restaurant,Palazzo Restaurant,0,其他,6.3,7.7,6.8
+其他西餐,Forhaus,Forhaus,0,其他,7.2,7.7,7.7
+其他西餐,Wine cellar of the Moravian Bank of wine,Wine cellar of the Moravian Bank of wine,0,Pisarky,6.1,6.1,6.1
+其他西餐,Adria,Adria,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Prominent,Restaurant Prominent,0,Pisarky,0.0,0.0,0.0
+其他西餐,Brabander Restaurant,Brabander Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,U vsech certu,U vsech certu,0,其他,0.0,0.0,0.0
+其他西餐,Bar Ktery Neexistuje,Bar Ktery Neexistuje,0,其他,0.0,0.0,0.0
+其他西餐,Tulip Restaurant,Tulip Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Kavarna Era,Kavarna Era,0,其他,0.0,0.0,0.0
+其他西餐,Borgo Agnese,Borgo Agnese,0,其他,0.0,0.0,0.0
+其他西餐,Starobrno Brewery,Starobrno Brewery,0,Pisarky,0.0,0.0,0.0
+其他西餐,Pivovarska pivnice,Pivovarska pivnice,0,Pisarky,0.0,0.0,0.0
+其他西餐,Na Kytnerce,Na Kytnerce,0,梅殿奇,0.0,0.0,0.0
+其他西餐,Skanzeen,Skanzeen,0,其他,0.0,0.0,0.0
+其他西餐,Baroko Vinarna & Restaurant,Baroko Vinarna & Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Spolek,Spolek,0,其他,0.0,0.0,0.0
+其他西餐,Hansen Restaurant,Hansen Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Na Svabce,Na Svabce,0,其他,0.0,0.0,0.0
+其他西餐,Pivni Opice,Pivni Opice,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Steiner,Cafe Steiner,0,其他,0.0,0.0,0.0
+其他西餐,U Capa,U Capa,0,其他,0.0,0.0,0.0
+其他西餐,Pod Lekarnou,Pod Lekarnou,0,其他,0.0,0.0,0.0
+其他西餐,Vegalite,Vegalite,0,其他,0.0,0.0,0.0
+其他西餐,Vytopna,Vytopna,0,Pisarky,0.0,0.0,0.0
+其他西餐,Monte Bu restaurant a steakhouse,Monte Bu restaurant a steakhouse,0,Pisarky,0.0,0.0,0.0
+其他西餐,Posledni Kapka,Posledni Kapka,0,其他,0.0,0.0,0.0
+其他西餐,En Elladi,En Elladi,0,其他,0.0,0.0,0.0
+其他西餐,Campea,Campea,0,其他,0.0,0.0,0.0
+其他西餐,Galerie a kavarna pod Petrovem,Galerie a kavarna pod Petrovem,0,其他,0.0,0.0,0.0
+其他西餐,Baker street,Baker street,0,其他,0.0,0.0,0.0
+其他西餐,"U Rytire, ...pivni a vinny bar","U Rytire, ...pivni a vinny bar",0,其他,0.0,0.0,0.0
+其他西餐,Vytopna restaurant caffe,Vytopna restaurant caffe,0,其他,0.0,0.0,0.0
+其他西餐,Vinnysklipek,Vinnysklipek,0,其他,0.0,0.0,0.0
+其他西餐,Don Pintxos,Don Pintxos,0,其他,0.0,0.0,0.0
+其他西餐,Babinski Bistro,Babinski Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Coffee Heaven,Coffee Heaven,0,其他,0.0,0.0,0.0
+其他西餐,Plzenka,Plzenka,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant U Rudeho Vola,Restaurant U Rudeho Vola,0,其他,0.0,0.0,0.0
+其他西餐,Restaurace a Pizzerie Tora,Restaurace a Pizzerie Tora,0,其他,0.0,0.0,0.0
+其他西餐,"Rytirska Krcma, Brno","Rytirska Krcma, Brno",0,其他,0.0,0.0,0.0
+其他西餐,Kings Head Restaurant - Pub,Kings Head Restaurant - Pub,0,其他,0.0,0.0,0.0
+其他西餐,Szeged,Szeged,0,其他,0.0,0.0,0.0
+其他西餐,RESTAURACE NA VYHLIDCE aneb U CERNE BABY,RESTAURACE NA VYHLIDCE aneb U CERNE BABY,0,其他,0.0,0.0,0.0
+其他西餐,Myslivecky Klub Hubert,Myslivecky Klub Hubert,0,其他,0.0,0.0,0.0
+其他西餐,Linden Restaurant,Linden Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,A La Carte Restaurant,A La Carte Restaurant,0,Pisarky,0.0,0.0,0.0
+其他西餐,Restaurant MITROVSKI,Restaurant MITROVSKI,0,Pisarky,0.0,0.0,0.0
+其他西餐,Raj Hlinky,Raj Hlinky,0,Pisarky,0.0,0.0,0.0
+其他西餐,Sklipecek,Sklipecek,0,Pisarky,0.0,0.0,0.0
+其他西餐,Cerveny drak,Cerveny drak,0,Ponava,0.0,0.0,0.0
+其他西餐,Gyros Taverna Athena,Gyros Taverna Athena,0,Ponava,0.0,0.0,0.0
+其他西餐,Diva Bara,Diva Bara,0,Ponava,0.0,0.0,0.0
+其他西餐,Iron Horse,Iron Horse,0,Ponava,0.0,0.0,0.0
+其他西餐,StarobrnEnska restaurace,StarobrnEnska restaurace,0,Ponava,0.0,0.0,0.0
+其他西餐,Restaurace LLOYDS,Restaurace LLOYDS,0,Ponava,0.0,0.0,0.0
+其他西餐,Tomato Fresh Restaurant,Tomato Fresh Restaurant,0,Ponava,0.0,0.0,0.0
+其他西餐,Don Miguel's Bar,Don Miguel's Bar,0,Kralovo Pole,0.0,0.0,0.0
+其他西餐,U 3 Opic,U 3 Opic,0,Kralovo Pole,0.0,0.0,0.0
+其他西餐,Bavorska,Bavorska,0,Kralovo Pole,0.0,0.0,0.0
+其他西餐,The PUB Brno,The PUB Brno,0,其他,0.0,0.0,0.0
+其他西餐,Varna,Varna,0,其他,0.0,0.0,0.0
+其他西餐,Modra Ruze,Modra Ruze,0,其他,0.0,0.0,0.0
+其他西餐,Drevena ruze,Drevena ruze,0,其他,0.0,0.0,0.0
+其他西餐,Pivovar Magistr,Pivovar Magistr,0,Ponava,0.0,0.0,0.0
+其他西餐,Plzensky dvur,Plzensky dvur,0,Ponava,0.0,0.0,0.0
+其他西餐,Na purkynce,Na purkynce,0,Kralovo Pole,0.0,0.0,0.0
+其他西餐,Club Desert,Club Desert,0,其他,0.0,0.0,0.0
+其他西餐,Podobrazy Kavarna,Podobrazy Kavarna,0,其他,0.0,0.0,0.0
+其他西餐,Zemanova kavarna,Zemanova kavarna,0,其他,0.0,0.0,0.0
+其他西餐,Cernohorska pivnice,Cernohorska pivnice,0,其他,0.0,0.0,0.0
+其他西餐,U Hlucheho Zmije,U Hlucheho Zmije,0,其他,0.0,0.0,0.0
+其他西餐,Stan's Grill,Stan's Grill,0,Ponava,0.0,0.0,0.0
+其他西餐,Sklipek,Sklipek,0,Ponava,0.0,0.0,0.0
+其他西餐,Bufet FI,Bufet FI,0,Ponava,0.0,0.0,0.0
+中餐,Shanghai Restaurant,Shanghai Restaurant,0,其他,6.8,6.8,6.3
+中餐,Chutne stesti,Chutne stesti,0,其他,0.0,0.0,0.0
+日韩料理,Koishi,Koishi,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Ya,Sushi Ya,0,其他,0.0,0.0,0.0
+日韩料理,MOMO Sushi,MOMO Sushi,0,其他,0.0,0.0,0.0
+日韩料理,Kodo Japanese Restaurant,Kodo Japanese Restaurant,0,Kralovo Pole,0.0,0.0,0.0
+更多亚洲菜,Flavours,Flavours,0,其他,0.0,0.0,0.0
+更多亚洲菜,PadThai,PadThai,0,Kralovo Pole,0.0,0.0,0.0
+更多亚洲菜,Anna Pura,Anna Pura,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kupe,Kupe,0,其他,0.0,0.0,0.0
+更多亚洲菜,Satyam,Satyam,0,Pisarky,0.0,0.0,0.0
+更多亚洲菜,Light of India,Light of India,0,Ponava,0.0,0.0,0.0
+更多亚洲菜,Buddha,Buddha,0,其他,0.0,0.0,0.0
+更多亚洲菜,Anapurna,Anapurna,0,其他,0.0,0.0,0.0
+更多亚洲菜,Dessert,Dessert,0,其他,0.0,0.0,0.0
+快餐简餐,BUTCHER'S Grill & Pasta,BUTCHER'S Grill & Pasta,0,Ponava,0.0,0.0,0.0
+快餐简餐,Rosnicka,Rosnicka,0,Pisarky,0.0,0.0,0.0
+海鲜,Pizzeria Belveder,Pizzeria Belveder,0,其他,0.0,0.0,0.0
+烧烤,Sunset restaurant,Sunset restaurant,0,其他,0.0,0.0,0.0
+烧烤,Toulavy Kocour pub,Toulavy Kocour pub,0,其他,0.0,0.0,0.0
+烧烤,Monte Bu restaurant a steakhouse,Monte Bu restaurant a steakhouse,0,Pisarky,0.0,0.0,0.0
+咖啡厅,Air Cafe,Air Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Mitte,Cafe Mitte,0,其他,0.0,0.0,0.0
+咖啡厅,AVIA,AVIA,0,其他,0.0,0.0,0.0
+咖啡厅,Cosmopolis Cafe,Cosmopolis Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Placz Cafe,Placz Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Galerie a kavarna pod Petrovem,Galerie a kavarna pod Petrovem,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Tungsram,Cafe Tungsram,0,其他,0.0,0.0,0.0
+咖啡厅,Andel Cafe,Andel Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Galerie caffe,Galerie caffe,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Cocktail Bar Skrin,Cafe Cocktail Bar Skrin,0,其他,0.0,0.0,0.0
+咖啡厅,Rendez-vous Cafe,Rendez-vous Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,KLAFE,KLAFE,0,Pisarky,0.0,0.0,0.0
+咖啡厅,Cafe Coffee Day Emporio,Cafe Coffee Day Emporio,0,其他,0.0,0.0,0.0
+咖啡厅,Kavarna Pod Hodinami,Kavarna Pod Hodinami,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Sixties,Cafe Sixties,0,其他,0.0,0.0,0.0
+咖啡厅,Galeryje 9,Galeryje 9,0,其他,0.0,0.0,0.0
+面包甜点,Cafe DanaD,Cafe DanaD,0,其他,0.0,0.0,0.0
+面包甜点,La Bouche,La Bouche,0,其他,0.0,0.0,0.0
+酒吧,Vinoteka Vinecko Brno,Vinoteka Vinecko Brno,0,其他,0.0,0.0,0.0
+酒吧,The Immigrant,The Immigrant,0,其他,0.0,0.0,0.0
+酒吧,Havana Club Bar,Havana Club Bar,0,其他,0.0,0.0,0.0
+酒吧,Cafe Onyx,Cafe Onyx,0,其他,0.0,0.0,0.0
+酒吧,Rendez-vous Cafe,Rendez-vous Cafe,0,其他,0.0,0.0,0.0
+酒吧,U Fidela,U Fidela,0,其他,0.0,0.0,0.0
+酒吧,Boby Centrum,Boby Centrum,0,Ponava,0.0,0.0,0.0
+酒吧,Sound Caffe & Bar Vyhlidka,Sound Caffe & Bar Vyhlidka,0,其他,0.0,0.0,0.0
+酒吧,Dolni Oblast,Dolni Oblast,0,Kralovo Pole,0.0,0.0,0.0
+酒吧,Sklep,Sklep,0,Pisarky,0.0,0.0,0.0
+更多美食,Pod Radnicnim Kolem,Pod Radnicnim Kolem,0,其他,7.7,7.7,7.7
+更多美食,Pegas,Pegas,0,其他,0.0,0.0,0.0
+更多美食,Stopkova plzenska pivnice,Stopkova plzenska pivnice,0,其他,0.0,0.0,0.0
+更多美食,Rebio,Rebio,0,其他,0.0,0.0,0.0
+更多美食,Spalicek,Spalicek,0,其他,0.0,0.0,0.0
+更多美食,Cosmopolis Cafe,Cosmopolis Cafe,0,其他,0.0,0.0,0.0
+更多美食,Zelena kocka Pivarium,Zelena kocka Pivarium,0,其他,0.0,0.0,0.0
+更多美食,Valoria,Valoria,0,其他,0.0,0.0,0.0
+更多美食,Leporelo +,Leporelo +,0,其他,0.0,0.0,0.0
+更多美食,Vycep Na stojaka,Vycep Na stojaka,0,其他,0.0,0.0,0.0
+更多美食,Pavillon restaurant,Pavillon restaurant,0,其他,0.0,0.0,0.0
+更多美食,Potrefena Husa,Potrefena Husa,0,其他,0.0,0.0,0.0
+更多美食,Bistro Franz,Bistro Franz,0,其他,0.0,0.0,0.0
+更多美食,U Staryho Billa,U Staryho Billa,0,其他,0.0,0.0,0.0
+更多美食,Hostinec U Seminaru,Hostinec U Seminaru,0,其他,0.0,0.0,0.0
+更多美食,Havana Restaurant,Havana Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Vista Restaurant,Vista Restaurant,0,梅殿奇,0.0,0.0,0.0
+更多美食,Le Grand,Le Grand,0,其他,0.0,0.0,0.0
+更多美食,Italia Bar,Italia Bar,0,其他,0.0,0.0,0.0
+更多美食,Stredoveka krcma,Stredoveka krcma,0,其他,0.0,0.0,0.0
+更多美食,Vesela Vacice,Vesela Vacice,0,其他,0.0,0.0,0.0
+更多美食,Wayland club,Wayland club,0,Pisarky,0.0,0.0,0.0
+更多美食,Parnas Caffe,Parnas Caffe,0,其他,0.0,0.0,0.0
+更多美食,Caffe Fratelli,Caffe Fratelli,0,其他,0.0,0.0,0.0
+更多美食,Rebio,Rebio,0,其他,0.0,0.0,0.0
+更多美食,Two Faces Cocktail Bar Cafe,Two Faces Cocktail Bar Cafe,0,其他,0.0,0.0,0.0
+更多美食,Cafe Podnebi,Cafe Podnebi,0,其他,0.0,0.0,0.0
+更多美食,Coctail Bar Aloha,Coctail Bar Aloha,0,其他,0.0,0.0,0.0
+更多美食,Cerny Medved,Cerny Medved,0,其他,0.0,0.0,0.0
+更多美食,Jakoby,Jakoby,0,其他,0.0,0.0,0.0
+更多美食,Bohema,Bohema,0,其他,0.0,0.0,0.0
+更多美食,Laguna,Laguna,0,其他,0.0,0.0,0.0
+更多美食,La Strada,La Strada,0,其他,0.0,0.0,0.0
+更多美食,Park Lane Cafe,Park Lane Cafe,0,其他,0.0,0.0,0.0
+更多美食,Espanola - Restaurante & Tapas Bar,Espanola - Restaurante & Tapas Bar,0,其他,0.0,0.0,0.0
+更多美食,Klub Cestovatelu,Klub Cestovatelu,0,其他,0.0,0.0,0.0
+更多美食,Sabaidy,Sabaidy,0,其他,0.0,0.0,0.0
+更多美食,Pivni a vinny senk Zelezna ruze,Pivni a vinny senk Zelezna ruze,0,Pisarky,0.0,0.0,0.0
+更多美食,Fleda Music Club,Fleda Music Club,0,Ponava,0.0,0.0,0.0
+更多美食,Zelena Kocka,Zelena Kocka,0,Ponava,0.0,0.0,0.0
+更多美食,Sharingham,Sharingham,0,其他,0.0,0.0,0.0
+更多美食,Myslivna Restaurant,Myslivna Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Tripoli Restaurant,Tripoli Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Jazz bar U kouriciho kralika,Jazz bar U kouriciho kralika,0,其他,0.0,0.0,0.0
+更多美食,Sport bar ARENA,Sport bar ARENA,0,其他,0.0,0.0,0.0
+更多美食,Mamut Pub,Mamut Pub,0,其他,0.0,0.0,0.0
+更多美食,Whisky Bar,Whisky Bar,0,其他,0.0,0.0,0.0
+更多美食,Whisky Bar Valevil,Whisky Bar Valevil,0,其他,0.0,0.0,0.0
+更多美食,Kabaret Spacek,Kabaret Spacek,0,其他,0.0,0.0,0.0
+更多美食,Vesela husa,Vesela husa,0,其他,0.0,0.0,0.0
+更多美食,Alimentari Italia - italske pochoutky,Alimentari Italia - italske pochoutky,0,其他,0.0,0.0,0.0
+更多美食,Empire 1 Josefska,Empire 1 Josefska,0,其他,0.0,0.0,0.0
+更多美食,Silingrak Cocktail Bar,Silingrak Cocktail Bar,0,其他,0.0,0.0,0.0
+更多美食,Mazany Andel,Mazany Andel,0,其他,0.0,0.0,0.0
+更多美食,Staropramen Koncept,Staropramen Koncept,0,其他,0.0,0.0,0.0
+更多美食,Pod Spilberkem,Pod Spilberkem,0,其他,0.0,0.0,0.0
+更多美食,Grill Bar Amsterdam,Grill Bar Amsterdam,0,其他,0.0,0.0,0.0
+更多美食,Empire 2 Svobodak,Empire 2 Svobodak,0,其他,0.0,0.0,0.0
+更多美食,Stredoveka krcma,Stredoveka krcma,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Piazza,Ristorante Piazza,0,其他,0.0,0.0,0.0
+更多美食,Highlander,Highlander,0,其他,0.0,0.0,0.0
+更多美食,U vsech certu (Dvorakova),U vsech certu (Dvorakova),0,其他,0.0,0.0,0.0
+更多美食,Elektra Pub,Elektra Pub,0,其他,0.0,0.0,0.0
+更多美食,Jedna basen,Jedna basen,0,其他,0.0,0.0,0.0
+更多美食,U Josta,U Josta,0,其他,0.0,0.0,0.0
+更多美食,La Solitaire cafe & bar,La Solitaire cafe & bar,0,其他,0.0,0.0,0.0
+更多美食,"Sherlock Holmes Pub, s.r.o.","Sherlock Holmes Pub, s.r.o.",0,其他,0.0,0.0,0.0
+更多美食,Panoptikum,Panoptikum,0,其他,0.0,0.0,0.0
+更多美食,Hotel Slavia,Hotel Slavia,0,其他,0.0,0.0,0.0
+更多美食,Savoy,Savoy,0,其他,0.0,0.0,0.0
+更多美食,Cafe 99,Cafe 99,0,其他,0.0,0.0,0.0
+更多美食,Pomaly Bar,Pomaly Bar,0,其他,0.0,0.0,0.0
+更多美食,Thalie,Thalie,0,其他,0.0,0.0,0.0
+更多美食,East Village Bar & Diner,East Village Bar & Diner,0,其他,0.0,0.0,0.0
+更多美食,Bistro Le Social,Bistro Le Social,0,其他,0.0,0.0,0.0
+更多美食,Kafec,Kafec,0,其他,0.0,0.0,0.0
+更多美食,Kolbaba,Kolbaba,0,其他,0.0,0.0,0.0
+更多美食,"U lavky, IBC","U lavky, IBC",0,其他,0.0,0.0,0.0
+更多美食,U Lucerny,U Lucerny,0,其他,0.0,0.0,0.0
+更多美食,Akademicka kavarna a vinoteka,Akademicka kavarna a vinoteka,0,其他,0.0,0.0,0.0
+更多美食,4 Roses Restaurant,4 Roses Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Sklenena Louka,Sklenena Louka,0,其他,0.0,0.0,0.0
+更多美食,Ctyri Ruze,Ctyri Ruze,0,其他,0.0,0.0,0.0
+更多美食,Ekvador,Ekvador,0,其他,0.0,0.0,0.0
+更多美食,Boulevard restaurant,Boulevard restaurant,0,其他,0.0,0.0,0.0
+更多美食,Merci Restaurant,Merci Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Mydlo,Mydlo,0,其他,0.0,0.0,0.0
+更多美食,U Prumyslovky,U Prumyslovky,0,其他,0.0,0.0,0.0
+更多美食,Central Restaurant Cafe,Central Restaurant Cafe,0,其他,0.0,0.0,0.0
+更多美食,Cafe 04,Cafe 04,0,其他,0.0,0.0,0.0
+更多美食,Biskupska Vinarna,Biskupska Vinarna,0,其他,0.0,0.0,0.0
+更多美食,Transistor,Transistor,0,其他,0.0,0.0,0.0
+更多美食,U Richarda,U Richarda,0,其他,0.0,0.0,0.0
+更多美食,Steak House K1,Steak House K1,0,其他,0.0,0.0,0.0
+更多美食,Na Piave,Na Piave,0,其他,0.0,0.0,0.0
+更多美食,Amfora,Amfora,0,其他,0.0,0.0,0.0
+更多美食,Hotel Sladovna,Hotel Sladovna,0,其他,0.0,0.0,0.0
+更多美食,Green,Green,0,其他,0.0,0.0,0.0
+更多美食,Yacht Club,Yacht Club,0,其他,0.0,0.0,0.0
+更多美食,Kanas,Kanas,0,其他,0.0,0.0,0.0
+更多美食,John Silver Taverna,John Silver Taverna,0,其他,0.0,0.0,0.0
+更多美食,Zamecka restaurant Krtiny,Zamecka restaurant Krtiny,0,其他,0.0,0.0,0.0
+更多美食,U Kralovny Elisky,U Kralovny Elisky,0,Pisarky,0.0,0.0,0.0
+更多美食,Nika,Nika,0,Pisarky,0.0,0.0,0.0
+更多美食,Pizzerie Tyrkys,Pizzerie Tyrkys,0,Pisarky,0.0,0.0,0.0
+更多美食,Pivni bar Marley,Pivni bar Marley,0,Pisarky,0.0,0.0,0.0
+更多美食,U Drevaka,U Drevaka,0,Ponava,0.0,0.0,0.0
+更多美食,Al capone,Al capone,0,Ponava,0.0,0.0,0.0
+更多美食,Pohadkova hospudka,Pohadkova hospudka,0,Ponava,0.0,0.0,0.0
+更多美食,Noem Arch,Noem Arch,0,Ponava,0.0,0.0,0.0
+更多美食,U pantatu,U pantatu,0,Zidenice,0.0,0.0,0.0
+更多美食,U Sulaka,U Sulaka,0,Rozdrojovice,0.0,0.0,0.0
+更多美食,Steak House K1,Steak House K1,0,Zidenice,0.0,0.0,0.0
+更多美食,Paladeo Restaurante,Paladeo Restaurante,0,Kralovo Pole,0.0,0.0,0.0
+更多美食,Paladeo,Paladeo,0,Kralovo Pole,0.0,0.0,0.0
+更多美食,Velorex,Velorex,0,Kralovo Pole,0.0,0.0,0.0
+更多美食,Gyropolis,Gyropolis,0,Slatina,0.0,0.0,0.0
+更多美食,Nordsee Galerie Vankovka,Nordsee Galerie Vankovka,0,其他,0.0,0.0,0.0
+更多美食,KFC Brno Masarykova,KFC Brno Masarykova,0,其他,0.0,0.0,0.0
+更多美食,Royal Ricc,Royal Ricc,0,其他,0.0,0.0,0.0
+更多美食,Zelena kocka Dalesicky Pivovarsky Restaurant,Zelena kocka Dalesicky Pivovarsky Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Plznicka u Formana,Plznicka u Formana,0,其他,0.0,0.0,0.0
+更多美食,Kafe do vany,Kafe do vany,0,其他,0.0,0.0,0.0
+更多美食,Salon Daguerre,Salon Daguerre,0,其他,0.0,0.0,0.0
+更多美食,Restaurace Formanka,Restaurace Formanka,0,其他,0.0,0.0,0.0
+更多美食,Divadelni sklep Nekonecno,Divadelni sklep Nekonecno,0,其他,0.0,0.0,0.0
+更多美食,Traubka,Traubka,0,其他,0.0,0.0,0.0
+更多美食,U Krouzku,U Krouzku,0,其他,0.0,0.0,0.0
+更多美食,Gingilla,Gingilla,0,Pisarky,0.0,0.0,0.0
+更多美食,La Peda,La Peda,0,Pisarky,0.0,0.0,0.0
+更多美食,Cafe Gaviota,Cafe Gaviota,0,Ponava,0.0,0.0,0.0
+更多美食,Schnitzelhouse,Schnitzelhouse,0,Ponava,0.0,0.0,0.0
+更多美食,Restaurace Aura,Restaurace Aura,0,Ponava,0.0,0.0,0.0
+更多美食,Bowling Cihelna,Bowling Cihelna,0,Ponava,0.0,0.0,0.0
+更多美食,A-Sporthotel Restaurant,A-Sporthotel Restaurant,0,Kralovo Pole,0.0,0.0,0.0
+更多美食,"Kamenka, Duck bar","Kamenka, Duck bar",0,其他,0.0,0.0,0.0
+更多美食,Restaurace Spalicek,Restaurace Spalicek,0,其他,0.0,0.0,0.0
+更多美食,Chajovna,Chajovna,0,其他,0.0,0.0,0.0
+更多美食,Freeland,Freeland,0,其他,0.0,0.0,0.0
+更多美食,Surda,Surda,0,其他,0.0,0.0,0.0
+更多美食,U Kormidla,U Kormidla,0,其他,0.0,0.0,0.0
+更多美食,Paterlord,Paterlord,0,其他,0.0,0.0,0.0
+更多美食,Zorbas,Zorbas,0,其他,0.0,0.0,0.0
+更多美食,KINO ART - BAR PROMITACKA + KAVARNA ARTISTU,KINO ART - BAR PROMITACKA + KAVARNA ARTISTU,0,其他,0.0,0.0,0.0
+更多美食,U Kastelana,U Kastelana,0,其他,0.0,0.0,0.0
+更多美食,Alterna,Alterna,0,Ponava,0.0,0.0,0.0
+更多美食,La Rossa,La Rossa,0,Ponava,0.0,0.0,0.0
+更多美食,Hacienda Mexicana,Hacienda Mexicana,0,Ponava,0.0,0.0,0.0
+更多美食,Deja vu,Deja vu,0,Kralovo Pole,0.0,0.0,0.0

@@ -1,0 +1,1527 @@
+咖啡厅,Cocodikawa,Cocodikawa,0,3e区,0.0,0.0,0.0
+咖啡厅,Le Kitchen Cafe,Le Kitchen Cafe,0,7e区,0.0,0.0,0.0
+咖啡厅,Cups,Cups,0,里昂其他,0.0,0.0,0.0
+咖啡厅,Mozzato,Mozzato,0,2e区,0.0,0.0,0.0
+咖啡厅,Bert's,Bert's,0,3e区,0.0,0.0,0.0
+咖啡厅,Le Florian,Le Florian,0,5e区,0.0,0.0,0.0
+咖啡厅,A chacun sa Tasse,A chacun sa Tasse,0,1e区,0.0,0.0,0.0
+咖啡厅,Cave des Voyageurs,Cave des Voyageurs,0,5e区,0.0,0.0,0.0
+咖啡厅,Café Cousu,Café Cousu,0,1e区,0.0,0.0,0.0
+咖啡厅,Zone Verte,Zone Verte,0,2e区,0.0,0.0,0.0
+咖啡厅,Chocathé,Chocathé,0,5e区,0.0,0.0,0.0
+咖啡厅,Le Savanah,Le Savanah,0,5e区,0.0,0.0,0.0
+咖啡厅,Café Leffe,Café Leffe,0,1e区,0.0,0.0,0.0
+咖啡厅,Daily Happy Food,Daily Happy Food,0,里昂其他,0.0,0.0,0.0
+法国菜,Paul Bocuse,Paul Bocuse,2100,,8.0,8.0,8.0
+法国菜,Brasserie Georges,Brasserie Georges,0,2e区,0.0,0.0,0.0
+法国菜,Le Grand Cafe Des Negociants,Le Grand Cafe Des Negociants,0,1e区,0.0,0.0,0.0
+法国菜,Le Restautante de Fourvière,Le Restautante de Fourvière,0,1e区,7.2,7.7,7.2
+法国菜,Leon de Lyon,Leon de Lyon,0,1e区,0.0,0.0,0.0
+法国菜,O Jardin,O Jardin,0,9e区,0.0,0.0,0.0
+法国菜,Notre Maison,Notre Maison,0,5e区,0.0,0.0,0.0
+法国菜,Diplomatico,Diplomatico,0,2e区,0.0,0.0,0.0
+法国菜,Brasserie Elite,Brasserie Elite,0,2e区,0.0,0.0,0.0
+法国菜,Le Bouchon des Carnivores,Le Bouchon des Carnivores,0,1e区,7.0,7.0,6.9
+法国菜,Restaurant du Soleil,Restaurant du Soleil,0,1e区,6.9,7.0,7.0
+法国菜,Le tire bouchon,Le tire bouchon,0,1e区,6.7,6.7,6.7
+法国菜,cafe des federations,cafe des federations,0,1e区,6.7,6.7,6.7
+法国菜,Institut Paul Bocuse,Institut Paul Bocuse,0,里昂其他,0.0,0.0,0.0
+法国菜,Silk,Silk,0,2e区,0.0,0.0,0.0
+法国菜,le Danton,le Danton,0,3e区,0.0,0.0,0.0
+法国菜,COTE CUISINE,COTE CUISINE,0,2e区,0.0,0.0,0.0
+法国菜,La Table de Pierre,La Table de Pierre,0,里昂其他,0.0,0.0,0.0
+法国菜,La Mere Brazier,La Mere Brazier,0,1e区,0.0,0.0,0.0
+法国菜,Ivan Healthy Food,Ivan Healthy Food,0,6e区,0.0,0.0,0.0
+法国菜,Jeremy Galvan Restaurant,Jeremy Galvan Restaurant,0,5e区,0.0,0.0,0.0
+法国菜,les trois domes,les trois domes,0,2e区,0.0,0.0,0.0
+法国菜,Brasserie L'Ouest,Brasserie L'Ouest,0,9e区,0.0,0.0,0.0
+法国菜,L'oracle de Rome - Saveurs Italiennes,L'oracle de Rome - Saveurs Italiennes,0,2e区,0.0,0.0,0.0
+法国菜,Brasserie des Monts d'Or,Brasserie des Monts d'Or,0,2e区,0.0,0.0,0.0
+法国菜,La Cocagne,La Cocagne,0,3e区,0.0,0.0,0.0
+法国菜,La Part Des Anges,La Part Des Anges,0,7e区,0.0,0.0,0.0
+法国菜,Cafe Bossan,Cafe Bossan,0,5e区,0.0,0.0,0.0
+法国菜,La marronierre,La marronierre,0,2e区,0.0,0.0,0.0
+法国菜,Snob,Snob,0,2e区,0.0,0.0,0.0
+法国菜,Le terrier du Lapin Blanc,Le terrier du Lapin Blanc,0,里昂其他,0.0,0.0,0.0
+法国菜,J C Pequet,J C Pequet,0,3e区,0.0,0.0,0.0
+法国菜,"Le Club Des Sandwiches, Aix En Provence","Le Club Des Sandwiches, Aix En Provence",0,,0.0,0.0,0.0
+法国菜,La Pergola,La Pergola,0,7e区,0.0,0.0,0.0
+法国菜,Le cuisineur,Le cuisineur,0,1e区,0.0,0.0,0.0
+法国菜,LE RIVA cafe,LE RIVA cafe,0,6e区,0.0,0.0,0.0
+法国菜,"Le PAP, Papoter Autour d'un Plat","Le PAP, Papoter Autour d'un Plat",0,2e区,0.0,0.0,0.0
+法国菜,La Tassee,La Tassee,0,2e区,0.0,0.0,0.0
+法国菜,Le Grand Café Lyonnais,Le Grand Café Lyonnais,0,2e区,0.0,0.0,0.0
+法国菜,Le Preskil,Le Preskil,0,2e区,0.0,0.0,0.0
+法国菜,La Gargotte,La Gargotte,0,1e区,0.0,0.0,0.0
+法国菜,Aux Petits Oignons,Aux Petits Oignons,0,6e区,0.0,0.0,0.0
+法国菜,Takao Takano,Takao Takano,0,6e区,0.0,0.0,0.0
+法国菜,La table d'Eugene,La table d'Eugene,0,1e区,0.0,0.0,0.0
+法国菜,Côté Berthelot,Côté Berthelot,0,8e区,0.0,0.0,0.0
+法国菜,Le Resto,Le Resto,0,里昂其他,0.0,0.0,0.0
+法国菜,L'Epicerie Comptoir,L'Epicerie Comptoir,0,6e区,0.0,0.0,0.0
+法国菜,Le Jaboulay,Le Jaboulay,0,7e区,0.0,0.0,0.0
+法国菜,Bistrot Jul,Bistrot Jul,0,5e区,0.0,0.0,0.0
+法国菜,Restaurant Toute une Histoire,Restaurant Toute une Histoire,0,2e区,0.0,0.0,0.0
+法国菜,Le Merciere,Le Merciere,0,2e区,0.0,0.0,0.0
+法国菜,La Table de Sébastien,La Table de Sébastien,0,6e区,0.0,0.0,0.0
+法国菜,Boutique Malatre,Boutique Malatre,0,6e区,0.0,0.0,0.0
+法国菜,Le Comptoir du Ney,Le Comptoir du Ney,0,6e区,0.0,0.0,0.0
+法国菜,Le Gourmet de Seze,Le Gourmet de Seze,0,6e区,0.0,0.0,0.0
+法国菜,The Crock'n'roll,The Crock'n'roll,0,1e区,0.0,0.0,0.0
+法国菜,La Madrague,La Madrague,0,3e区,0.0,0.0,0.0
+法国菜,Pampres Rouges,Pampres Rouges,0,5e区,0.0,0.0,0.0
+法国菜,L'Opéra-bouffe,L'Opéra-bouffe,0,1e区,0.0,0.0,0.0
+法国菜,Saveurs de PY,Saveurs de PY,0,4e区,0.0,0.0,0.0
+法国菜,KOS-I,KOS-I,0,9e区,0.0,0.0,0.0
+法国菜,PARADIS DU FRUIT,PARADIS DU FRUIT,0,里昂其他,0.0,0.0,0.0
+法国菜,Chez Hugon,Chez Hugon,0,1e区,0.0,0.0,0.0
+法国菜,Broc' Cafe,Broc' Cafe,0,2e区,0.0,0.0,0.0
+法国菜,Le Bistrot de Saint Paul,Le Bistrot de Saint Paul,0,5e区,0.0,0.0,0.0
+法国菜,Péniche Loupika Restaurant,Péniche Loupika Restaurant,0,2e区,0.0,0.0,0.0
+法国菜,Aux vieux murs,Aux vieux murs,0,1e区,0.0,0.0,0.0
+法国菜,Le Bouche a Oreille,Le Bouche a Oreille,0,里昂其他,0.0,0.0,0.0
+法国菜,Le Centre by Georges,Le Centre by Georges,0,2e区,0.0,0.0,0.0
+法国菜,Restaurant Le Maubert,Restaurant Le Maubert,0,3e区,0.0,0.0,0.0
+法国菜,Cafe Sillon,Cafe Sillon,0,里昂其他,0.0,0.0,0.0
+法国菜,Bistrot de Saint Jean,Bistrot de Saint Jean,0,5e区,0.0,0.0,0.0
+法国菜,la brasserie du nord,la brasserie du nord,0,6e区,0.0,0.0,0.0
+法国菜,Auberge de la Source,Auberge de la Source,0,9e区,0.0,0.0,0.0
+法国菜,Chez Leon,Chez Leon,0,6e区,0.0,0.0,0.0
+法国菜,La mere Jean,La mere Jean,0,2e区,0.0,0.0,0.0
+法国菜,L'Espace Brasserie,L'Espace Brasserie,0,2e区,0.0,0.0,0.0
+法国菜,Comptoir 113,Comptoir 113,0,3e区,0.0,0.0,0.0
+法国菜,Le Baronn,Le Baronn,0,5e区,0.0,0.0,0.0
+法国菜,Le Grand Cafe de Geneve,Le Grand Cafe de Geneve,0,6e区,0.0,0.0,0.0
+法国菜,Le Coq Hardi,Le Coq Hardi,0,里昂其他,0.0,0.0,0.0
+法国菜,Bistro Martine,Bistro Martine,0,2e区,0.0,0.0,0.0
+法国菜,Le Bistrot de Montchat,Le Bistrot de Montchat,0,3e区,0.0,0.0,0.0
+法国菜,Cafe de la Mairie,Cafe de la Mairie,0,5e区,0.0,0.0,0.0
+法国菜,Restaurant Pourquoi Pas,Restaurant Pourquoi Pas,0,6e区,0.0,0.0,0.0
+法国菜,Bistro B,Bistro B,0,6e区,0.0,0.0,0.0
+法国菜,Oh Paradis,Oh Paradis,0,1e区,0.0,0.0,0.0
+法国菜,L'Escarcelle,L'Escarcelle,0,1e区,0.0,0.0,0.0
+法国菜,la cuisine de Valerie,la cuisine de Valerie,0,里昂其他,0.0,0.0,0.0
+法国菜,Cafe Lobut,Cafe Lobut,0,里昂其他,0.0,0.0,0.0
+法国菜,Toi Toi Le Zinc,Toi Toi Le Zinc,0,里昂其他,0.0,0.0,0.0
+法国菜,L'Institution,L'Institution,0,2e区,0.0,0.0,0.0
+法国菜,Le Vivarais,Le Vivarais,0,2e区,0.0,0.0,0.0
+法国菜,Les Sales Gosses,Les Sales Gosses,0,1e区,0.0,0.0,0.0
+法国菜,JOLS Limonest,JOLS Limonest,0,里昂其他,0.0,0.0,0.0
+法国菜,Le Bistrot de Lyon,Le Bistrot de Lyon,0,2e区,0.0,0.0,0.0
+法国菜,Le Bistro Autrement,Le Bistro Autrement,0,3e区,0.0,0.0,0.0
+法国菜,Le Panier Du Chef,Le Panier Du Chef,0,5e区,0.0,0.0,0.0
+法国菜,"""Les garcons bouchers"" aux hal...","""Les garcons bouchers"" aux hal...",0,3e区,0.0,0.0,0.0
+法国菜,Le Comptoir d'Ainay,Le Comptoir d'Ainay,0,2e区,0.0,0.0,0.0
+法国菜,Flair,Flair,0,2e区,0.0,0.0,0.0
+法国菜,La Table de Suzanne,La Table de Suzanne,0,2e区,0.0,0.0,0.0
+法国菜,comptoir Thomas lyon,comptoir Thomas lyon,0,2e区,0.0,0.0,0.0
+法国菜,L'encart,L'encart,0,2e区,0.0,0.0,0.0
+法国菜,Le Trolley des Lumières,Le Trolley des Lumières,0,2e区,0.0,0.0,0.0
+法国菜,les 3 coups,les 3 coups,0,2e区,0.0,0.0,0.0
+法国菜,Polo Club,Polo Club,0,2e区,0.0,0.0,0.0
+法国菜,Burgundy Lounge,Burgundy Lounge,0,2e区,0.0,0.0,0.0
+法国菜,La Maison Marie,La Maison Marie,0,2e区,0.0,0.0,0.0
+法国菜,Palegrie,Palegrie,0,2e区,0.0,0.0,0.0
+法国菜,Le Lyon de l'Atlas,Le Lyon de l'Atlas,0,3e区,0.0,0.0,0.0
+法国菜,L'Ethic Café,L'Ethic Café,0,3e区,0.0,0.0,0.0
+法国菜,Bistrot des fauves,Bistrot des fauves,0,3e区,0.0,0.0,0.0
+法国菜,Le Petit Carron,Le Petit Carron,0,3e区,0.0,0.0,0.0
+法国菜,Le Tibouren,Le Tibouren,0,3e区,0.0,0.0,0.0
+法国菜,Le Bistrot du Theatre,Le Bistrot du Theatre,0,3e区,0.0,0.0,0.0
+法国菜,St Florent,St Florent,0,3e区,0.0,0.0,0.0
+法国菜,Wee-An,Wee-An,0,3e区,0.0,0.0,0.0
+法国菜,Le Bouchon des Berges,Le Bouchon des Berges,0,3e区,0.0,0.0,0.0
+法国菜,Cocotte et Chemises,Cocotte et Chemises,0,3e区,0.0,0.0,0.0
+法国菜,Cote Part Dieu,Cote Part Dieu,0,3e区,0.0,0.0,0.0
+法国菜,Frere et Soeur,Frere et Soeur,0,3e区,0.0,0.0,0.0
+法国菜,Soleil Bleu,Soleil Bleu,0,3e区,0.0,0.0,0.0
+法国菜,Une Table au Soleil,Une Table au Soleil,0,3e区,0.0,0.0,0.0
+法国菜,L'Ame Soeur,L'Ame Soeur,0,3e区,0.0,0.0,0.0
+法国菜,L'Epicerie Comptoir,L'Epicerie Comptoir,0,3e区,0.0,0.0,0.0
+法国菜,La Limonade de Marinette,La Limonade de Marinette,0,5e区,0.0,0.0,0.0
+法国菜,La Petite Table des Nuits,La Petite Table des Nuits,0,5e区,0.0,0.0,0.0
+法国菜,L'epiaison,L'epiaison,0,5e区,0.0,0.0,0.0
+法国菜,Au 14 Fevrier Vieux Lyon,Au 14 Fevrier Vieux Lyon,0,5e区,0.0,0.0,0.0
+法国菜,Cafe de la Cathedrale,Cafe de la Cathedrale,0,5e区,0.0,0.0,0.0
+法国菜,"Un, Deux, Trois","Un, Deux, Trois",0,5e区,0.0,0.0,0.0
+法国菜,Aux 24 Colonnes,Aux 24 Colonnes,0,5e区,0.0,0.0,0.0
+法国菜,Les Adrets,Les Adrets,0,5e区,0.0,0.0,0.0
+法国菜,Cosy Corner,Cosy Corner,0,5e区,0.0,0.0,0.0
+法国菜,Aoc,Aoc,0,6e区,0.0,0.0,0.0
+法国菜,La Table des Momes,La Table des Momes,0,6e区,0.0,0.0,0.0
+法国菜,ludovic b .restaurant,ludovic b .restaurant,0,6e区,0.0,0.0,0.0
+法国菜,Comme chez Moi,Comme chez Moi,0,6e区,0.0,0.0,0.0
+法国菜,Une Autre Histoire,Une Autre Histoire,0,6e区,0.0,0.0,0.0
+法国菜,le coeur en bouche,le coeur en bouche,0,6e区,0.0,0.0,0.0
+法国菜,Café Restaurant de la Mairie,Café Restaurant de la Mairie,0,6e区,0.0,0.0,0.0
+法国菜,Chez Moi,Chez Moi,0,6e区,0.0,0.0,0.0
+法国菜,Le Poivron Bleu,Le Poivron Bleu,0,6e区,0.0,0.0,0.0
+法国菜,LE 126,LE 126,0,6e区,0.0,0.0,0.0
+法国菜,Le Florentin,Le Florentin,0,6e区,0.0,0.0,0.0
+法国菜,Le Passe Temps,Le Passe Temps,0,6e区,0.0,0.0,0.0
+法国菜,les compagnons,les compagnons,0,6e区,0.0,0.0,0.0
+法国菜,M Restaurant,M Restaurant,0,6e区,0.0,0.0,0.0
+法国菜,L'aile ou la Cuisse,L'aile ou la Cuisse,0,6e区,0.0,0.0,0.0
+法国菜,Mon Bistrot A Moi,Mon Bistrot A Moi,0,6e区,0.0,0.0,0.0
+法国菜,Eskis,Eskis,0,1e区,0.0,0.0,0.0
+法国菜,Gourmix,Gourmix,0,1e区,0.0,0.0,0.0
+法国菜,La Creperie du Major,La Creperie du Major,0,1e区,0.0,0.0,0.0
+法国菜,Les P'tits Peres,Les P'tits Peres,0,1e区,0.0,0.0,0.0
+法国菜,Le Musee,Le Musee,0,1e区,0.0,0.0,0.0
+法国菜,bistrot verdi,bistrot verdi,0,1e区,0.0,0.0,0.0
+法国菜,L'Etincelle,L'Etincelle,0,1e区,0.0,0.0,0.0
+法国菜,Archange,Archange,0,1e区,0.0,0.0,0.0
+法国菜,Carré Royal,Carré Royal,0,1e区,0.0,0.0,0.0
+法国菜,Chez Albert,Chez Albert,0,1e区,0.0,0.0,0.0
+法国菜,Aux Trois Gaules,Aux Trois Gaules,0,1e区,0.0,0.0,0.0
+法国菜,Le Pavillon,Le Pavillon,0,1e区,0.0,0.0,0.0
+法国菜,Saveurs Partagées,Saveurs Partagées,0,1e区,0.0,0.0,0.0
+法国菜,Le Stadium,Le Stadium,0,7e区,0.0,0.0,0.0
+法国菜,Praline et Fleur de Sel,Praline et Fleur de Sel,0,7e区,0.0,0.0,0.0
+法国菜,"Vas-Y, Vas-Y","Vas-Y, Vas-Y",0,7e区,0.0,0.0,0.0
+法国菜,Chez Richard,Chez Richard,0,7e区,0.0,0.0,0.0
+法国菜,Balthaz'art,Balthaz'art,0,4e区,0.0,0.0,0.0
+法国菜,Les Enfants du Paradis,Les Enfants du Paradis,0,4e区,0.0,0.0,0.0
+法国菜,Cafe de la creche,Cafe de la creche,0,4e区,0.0,0.0,0.0
+法国菜,Le Bistrot Des Voraces,Le Bistrot Des Voraces,0,4e区,0.0,0.0,0.0
+法国菜,L'Antigny,L'Antigny,0,4e区,0.0,0.0,0.0
+法国菜,L'Epicerie Comptoir - Croix Rousse,L'Epicerie Comptoir - Croix Rousse,0,4e区,0.0,0.0,0.0
+法国菜,Le Canut et Les Gones,Le Canut et Les Gones,0,4e区,0.0,0.0,0.0
+法国菜,La Conciergerie,La Conciergerie,0,9e区,0.0,0.0,0.0
+法国菜,Le Clos de L'ange,Le Clos de L'ange,0,9e区,0.0,0.0,0.0
+法国菜,Domeva Brasserie,Domeva Brasserie,0,9e区,0.0,0.0,0.0
+法国菜,Culture Food Bouger Manger,Culture Food Bouger Manger,0,9e区,0.0,0.0,0.0
+法国菜,Cafe NOVA,Cafe NOVA,0,9e区,0.0,0.0,0.0
+法国菜,Chez André,Chez André,0,9e区,0.0,0.0,0.0
+法国菜,Le Coeur du Pitre,Le Coeur du Pitre,0,9e区,0.0,0.0,0.0
+法国菜,Café Comptoir du Commerce,Café Comptoir du Commerce,0,9e区,0.0,0.0,0.0
+法国菜,Mouton Benoit,Mouton Benoit,0,里昂其他,0.0,0.0,0.0
+法国菜,Le bistrot du cours,Le bistrot du cours,0,里昂其他,0.0,0.0,0.0
+法国菜,L'Instinct Gourmand,L'Instinct Gourmand,0,里昂其他,0.0,0.0,0.0
+法国菜,Le Beranger,Le Beranger,0,里昂其他,0.0,0.0,0.0
+法国菜,Saisons,Saisons,0,里昂其他,0.0,0.0,0.0
+法国菜,L'Express,L'Express,0,里昂其他,0.0,0.0,0.0
+法国菜,Pointe de Reve,Pointe de Reve,0,里昂其他,0.0,0.0,0.0
+法国菜,L’Entrecôte Blues,L’Entrecôte Blues,0,里昂其他,0.0,0.0,0.0
+法国菜,La Caborne,La Caborne,0,里昂其他,0.0,0.0,0.0
+法国菜,Guy Lassausaie,Guy Lassausaie,0,里昂其他,0.0,0.0,0.0
+法国菜,Le boeuf d'argent,Le boeuf d'argent,0,里昂其他,0.0,0.0,0.0
+法国菜,L'Atelier des Augustins,L'Atelier des Augustins,0,里昂其他,0.0,0.0,0.0
+法国菜,Le Bouchon Lustré,Le Bouchon Lustré,0,2e区,0.0,0.0,0.0
+法国菜,Maison Gamboni,Maison Gamboni,0,7e区,0.0,0.0,0.0
+法国菜,Au Rendez-Vous des Amis,Au Rendez-Vous des Amis,0,里昂其他,0.0,0.0,0.0
+法国菜,Chez M'man,Chez M'man,0,2e区,0.0,0.0,0.0
+法国菜,Auberge de l'Ile,Auberge de l'Ile,0,里昂其他,0.0,0.0,0.0
+法国菜,Zinc Zinc Café,Zinc Zinc Café,0,2e区,0.0,0.0,0.0
+法国菜,Le Republique,Le Republique,0,2e区,0.0,0.0,0.0
+法国菜,Palomas Chocolatier,Palomas Chocolatier,0,2e区,0.0,0.0,0.0
+法国菜,Brasserie Le Caveau,Brasserie Le Caveau,0,2e区,0.0,0.0,0.0
+法国菜,Brasserie 3 Rivieres,Brasserie 3 Rivieres,0,1e区,0.0,0.0,0.0
+法国菜,Docks 40,Docks 40,0,2e区,0.0,0.0,0.0
+法国菜,Chabert & Fils,Chabert & Fils,0,2e区,0.0,0.0,0.0
+法国菜,L'atelier d'Yvonne,L'atelier d'Yvonne,0,2e区,0.0,0.0,0.0
+法国菜,Toque Et Passion,Toque Et Passion,0,2e区,0.0,0.0,0.0
+法国菜,Le Petit Bugey,Le Petit Bugey,0,2e区,0.0,0.0,0.0
+法国菜,Brasserie l'Espace Carnot,Brasserie l'Espace Carnot,0,2e区,0.0,0.0,0.0
+法国菜,Creperie Le Dolmen,Creperie Le Dolmen,0,2e区,0.0,0.0,0.0
+法国菜,Bistrot Le Charité,Bistrot Le Charité,0,2e区,0.0,0.0,0.0
+法国菜,Alter Ego Cafe Restaurant,Alter Ego Cafe Restaurant,0,2e区,0.0,0.0,0.0
+法国菜,Aux Montagnards,Aux Montagnards,0,2e区,0.0,0.0,0.0
+法国菜,Ponts et Passerelles,Ponts et Passerelles,0,2e区,0.0,0.0,0.0
+法国菜,Les Culottes Longues,Les Culottes Longues,0,2e区,0.0,0.0,0.0
+法国菜,Au 6 Chez les Gones,Au 6 Chez les Gones,0,2e区,0.0,0.0,0.0
+法国菜,Chez Mounier,Chez Mounier,0,2e区,0.0,0.0,0.0
+法国菜,Grande Patisserie Bellecour,Grande Patisserie Bellecour,0,2e区,0.0,0.0,0.0
+法国菜,Le Little,Le Little,0,2e区,0.0,0.0,0.0
+法国菜,"La Voute, Chez Lea","La Voute, Chez Lea",0,2e区,0.0,0.0,0.0
+法国菜,Reconfort,Reconfort,0,2e区,0.0,0.0,0.0
+法国菜,Caffee Nef,Caffee Nef,0,2e区,0.0,0.0,0.0
+法国菜,Le Gône,Le Gône,0,2e区,0.0,0.0,0.0
+法国菜,La Traboulerie,La Traboulerie,0,2e区,0.0,0.0,0.0
+法国菜,Le Winch,Le Winch,0,2e区,0.0,0.0,0.0
+法国菜,Cafe du Jura,Cafe du Jura,0,2e区,0.0,0.0,0.0
+法国菜,Chez Sylvie,Chez Sylvie,0,2e区,0.0,0.0,0.0
+法国菜,Pique Nique en Ville,Pique Nique en Ville,0,2e区,0.0,0.0,0.0
+法国菜,L'etage,L'etage,0,2e区,0.0,0.0,0.0
+法国菜,Le Bistrot des Maquignons,Le Bistrot des Maquignons,0,2e区,0.0,0.0,0.0
+法国菜,Creperie Grain de Sel,Creperie Grain de Sel,0,2e区,0.0,0.0,0.0
+法国菜,Restaurant L'Effervescence,Restaurant L'Effervescence,0,2e区,0.0,0.0,0.0
+法国菜,Delice et sens,Delice et sens,0,2e区,0.0,0.0,0.0
+法国菜,La meuniere,La meuniere,0,2e区,0.0,0.0,0.0
+法国菜,Brasserie le Nord,Brasserie le Nord,0,2e区,0.0,0.0,0.0
+法国菜,L'esprit Bistrot Monplaisir,L'esprit Bistrot Monplaisir,0,3e区,0.0,0.0,0.0
+法国菜,La Table des Allumes,La Table des Allumes,0,3e区,0.0,0.0,0.0
+法国菜,Saveur du Palais,Saveur du Palais,0,3e区,0.0,0.0,0.0
+法国菜,Millenaire Le,Millenaire Le,0,3e区,0.0,0.0,0.0
+法国菜,Vieille Canaille,Vieille Canaille,0,3e区,0.0,0.0,0.0
+法国菜,Dulcinea,Dulcinea,0,3e区,0.0,0.0,0.0
+法国菜,Creperie La Blanche Hermine,Creperie La Blanche Hermine,0,3e区,0.0,0.0,0.0
+法国菜,Bateau Hermes,Bateau Hermes,0,3e区,0.0,0.0,0.0
+法国菜,Restaurant Terrasse Vert Tige,Restaurant Terrasse Vert Tige,0,3e区,0.0,0.0,0.0
+法国菜,Le Georgette,Le Georgette,0,3e区,0.0,0.0,0.0
+法国菜,Fourchette et camisole,Fourchette et camisole,0,3e区,0.0,0.0,0.0
+法国菜,L'harmonie des Saveurs,L'harmonie des Saveurs,0,3e区,0.0,0.0,0.0
+法国菜,Chez Pierre,Chez Pierre,0,3e区,0.0,0.0,0.0
+法国菜,le Ban des Vendanges,le Ban des Vendanges,0,3e区,0.0,0.0,0.0
+法国菜,Le Ciel de Lyon,Le Ciel de Lyon,0,3e区,0.0,0.0,0.0
+法国菜,La Table 101,La Table 101,0,3e区,0.0,0.0,0.0
+法国菜,La Cantine du Palais,La Cantine du Palais,0,3e区,0.0,0.0,0.0
+法国菜,Daniel et Denise,Daniel et Denise,0,3e区,0.0,0.0,0.0
+法国菜,Les Terrasses du Valdo,Les Terrasses du Valdo,0,5e区,0.0,0.0,0.0
+法国菜,Tonton Patate,Tonton Patate,0,5e区,0.0,0.0,0.0
+法国菜,Le Petit Carre,Le Petit Carre,0,5e区,0.0,0.0,0.0
+法国菜,La Pause Delices,La Pause Delices,0,5e区,0.0,0.0,0.0
+法国菜,Pierre et Martine,Pierre et Martine,0,5e区,0.0,0.0,0.0
+法国菜,Cafe Restaurant Du Soleil,Cafe Restaurant Du Soleil,0,5e区,0.0,0.0,0.0
+法国菜,Les Voutes de ST Georges,Les Voutes de ST Georges,0,5e区,0.0,0.0,0.0
+法国菜,La Machonnerie,La Machonnerie,0,5e区,0.0,0.0,0.0
+法国菜,Daniel & Denise Bouchon Lyonnais,Daniel & Denise Bouchon Lyonnais,0,5e区,0.0,0.0,0.0
+法国菜,Auberge Rabelais,Auberge Rabelais,0,5e区,0.0,0.0,0.0
+法国菜,Comme chez Mathilde,Comme chez Mathilde,0,5e区,0.0,0.0,0.0
+法国菜,Le coquemar,Le coquemar,0,5e区,0.0,0.0,0.0
+法国菜,Happy Friends Family,Happy Friends Family,0,5e区,0.0,0.0,0.0
+法国菜,Boulangerie du Palais,Boulangerie du Palais,0,5e区,0.0,0.0,0.0
+法国菜,Les Ventres Jaunes,Les Ventres Jaunes,0,5e区,0.0,0.0,0.0
+法国菜,Le Francois Villon,Le Francois Villon,0,5e区,0.0,0.0,0.0
+法国菜,Le Tire-Bouchon,Le Tire-Bouchon,0,5e区,0.0,0.0,0.0
+法国菜,Le Pique Assiette,Le Pique Assiette,0,5e区,0.0,0.0,0.0
+法国菜,Les Fines Gueules,Les Fines Gueules,0,5e区,0.0,0.0,0.0
+法国菜,Auberge le Baladin,Auberge le Baladin,0,5e区,0.0,0.0,0.0
+法国菜,l'Ane rouge,l'Ane rouge,0,5e区,0.0,0.0,0.0
+法国菜,Resto Halle,Resto Halle,0,6e区,0.0,0.0,0.0
+法国菜,Saumon et Cie,Saumon et Cie,0,6e区,0.0,0.0,0.0
+法国菜,Le Cafe du Peintre,Le Cafe du Peintre,0,6e区,0.0,0.0,0.0
+法国菜,Brasserie Le Splendid,Brasserie Le Splendid,0,6e区,0.0,0.0,0.0
+法国菜,Maison Clovis,Maison Clovis,0,6e区,0.0,0.0,0.0
+法国菜,Les Apprentis,Les Apprentis,0,6e区,0.0,0.0,0.0
+法国菜,Les Tables rondes,Les Tables rondes,0,6e区,0.0,0.0,0.0
+法国菜,Le Theodore,Le Theodore,0,6e区,0.0,0.0,0.0
+法国菜,Oliver's Restaurant,Oliver's Restaurant,0,6e区,0.0,0.0,0.0
+法国菜,Chez Alice,Chez Alice,0,6e区,0.0,0.0,0.0
+法国菜,Le Coq Rouge,Le Coq Rouge,0,6e区,0.0,0.0,0.0
+法国菜,Au Comptoir d'Alice,Au Comptoir d'Alice,0,6e区,0.0,0.0,0.0
+法国菜,Les Oliviers,Les Oliviers,0,6e区,0.0,0.0,0.0
+法国菜,Le Petit Duc,Le Petit Duc,0,6e区,0.0,0.0,0.0
+法国菜,12 avenue Foch,12 avenue Foch,0,6e区,0.0,0.0,0.0
+法国菜,La Scene,La Scene,0,6e区,0.0,0.0,0.0
+法国菜,La Hugonnière,La Hugonnière,0,1e区,0.0,0.0,0.0
+法国菜,Cafe Chenavard,Cafe Chenavard,0,1e区,0.0,0.0,0.0
+法国菜,Le Casse-Museau,Le Casse-Museau,0,1e区,0.0,0.0,0.0
+法国菜,Au Bon Temps,Au Bon Temps,0,1e区,0.0,0.0,0.0
+法国菜,Le Caro de Lyon,Le Caro de Lyon,0,1e区,0.0,0.0,0.0
+法国菜,Le Passage,Le Passage,0,1e区,0.0,0.0,0.0
+法国菜,La Remanence,La Remanence,0,1e区,0.0,0.0,0.0
+法国菜,La Poule au Pot,La Poule au Pot,0,1e区,0.0,0.0,0.0
+法国菜,Le Cafe des Federations,Le Cafe des Federations,0,1e区,0.0,0.0,0.0
+法国菜,Le Petit Flore,Le Petit Flore,0,1e区,0.0,0.0,0.0
+法国菜,Le Potiquet,Le Potiquet,0,1e区,0.0,0.0,0.0
+法国菜,Les Fils a Maman,Les Fils a Maman,0,1e区,0.0,0.0,0.0
+法国菜,Bistro Pizay,Bistro Pizay,0,1e区,0.0,0.0,0.0
+法国菜,RESTAURANT DELAMARE,RESTAURANT DELAMARE,0,1e区,0.0,0.0,0.0
+法国菜,Mommessin Restaurant et Vins,Mommessin Restaurant et Vins,0,1e区,0.0,0.0,0.0
+法国菜,Quai des arts,Quai des arts,0,1e区,0.0,0.0,0.0
+法国菜,La Tete de Lard,La Tete de Lard,0,1e区,0.0,0.0,0.0
+法国菜,Cafe de la Place,Cafe de la Place,0,1e区,0.0,0.0,0.0
+法国菜,Entre Nous,Entre Nous,0,1e区,0.0,0.0,0.0
+法国菜,Les Tables Claudiennes,Les Tables Claudiennes,0,1e区,0.0,0.0,0.0
+法国菜,La Serena,La Serena,0,1e区,0.0,0.0,0.0
+法国菜,La Table,La Table,0,1e区,0.0,0.0,0.0
+法国菜,Au Temps Perdu,Au Temps Perdu,0,1e区,0.0,0.0,0.0
+法国菜,Brazier Wine Bar,Brazier Wine Bar,0,1e区,0.0,0.0,0.0
+法国菜,Les grillons,Les grillons,0,1e区,0.0,0.0,0.0
+法国菜,le Jardin gourmand,le Jardin gourmand,0,1e区,0.0,0.0,0.0
+法国菜,La Maison Villemanzy,La Maison Villemanzy,0,1e区,0.0,0.0,0.0
+法国菜,Le Silo,Le Silo,0,7e区,0.0,0.0,0.0
+法国菜,Le 231,Le 231,0,7e区,0.0,0.0,0.0
+法国菜,L'Habit Rouge,L'Habit Rouge,0,7e区,0.0,0.0,0.0
+法国菜,La Fleur de Thym,La Fleur de Thym,0,7e区,0.0,0.0,0.0
+法国菜,Waina,Waina,0,7e区,0.0,0.0,0.0
+法国菜,l'assiette du vin,l'assiette du vin,0,4e区,0.0,0.0,0.0
+法国菜,Plato,Plato,0,4e区,0.0,0.0,0.0
+法国菜,La Fenotte,La Fenotte,0,4e区,0.0,0.0,0.0
+法国菜,brasserie des croix roussiens,brasserie des croix roussiens,0,4e区,0.0,0.0,0.0
+法国菜,Le comptoir du vin,Le comptoir du vin,0,4e区,0.0,0.0,0.0
+法国菜,Angus Steack House,Angus Steack House,0,4e区,0.0,0.0,0.0
+法国菜,Mon Pere etait limonadier,Mon Pere etait limonadier,0,4e区,0.0,0.0,0.0
+法国菜,Le Comptoir des Canuts,Le Comptoir des Canuts,0,4e区,0.0,0.0,0.0
+法国菜,Le Grain de Folie,Le Grain de Folie,0,4e区,0.0,0.0,0.0
+法国菜,Casseroles et Vieilles Gamelles,Casseroles et Vieilles Gamelles,0,4e区,0.0,0.0,0.0
+法国菜,Le Cosy,Le Cosy,0,4e区,0.0,0.0,0.0
+法国菜,Brasserie Lyon Plage,Brasserie Lyon Plage,0,4e区,0.0,0.0,0.0
+法国菜,Restaurant Les Tournesols,Restaurant Les Tournesols,0,9e区,0.0,0.0,0.0
+法国菜,L'Esprit Bistrot,L'Esprit Bistrot,0,9e区,0.0,0.0,0.0
+法国菜,Le Jardin d'a Cote,Le Jardin d'a Cote,0,9e区,0.0,0.0,0.0
+法国菜,LE GOUT DU JOUR,LE GOUT DU JOUR,0,9e区,0.0,0.0,0.0
+法国菜,Les Barges,Les Barges,0,里昂其他,0.0,0.0,0.0
+法国菜,Le Saint Vincent,Le Saint Vincent,0,里昂其他,0.0,0.0,0.0
+法国菜,chez les gones,chez les gones,0,里昂其他,0.0,0.0,0.0
+法国菜,La Closerie,La Closerie,0,里昂其他,0.0,0.0,0.0
+法国菜,Au Grand Large,Au Grand Large,0,里昂其他,0.0,0.0,0.0
+法国菜,Cocooning,Cocooning,0,里昂其他,0.0,0.0,0.0
+法国菜,Le Puy d'or,Le Puy d'or,0,里昂其他,0.0,0.0,0.0
+法国菜,La Gentil'Hordiere,La Gentil'Hordiere,0,里昂其他,0.0,0.0,0.0
+法国菜,Ver le Bonheur,Ver le Bonheur,0,里昂其他,0.0,0.0,0.0
+法国菜,Le Comedia,Le Comedia,0,里昂其他,0.0,0.0,0.0
+法国菜,Les Platanes,Les Platanes,0,里昂其他,0.0,0.0,0.0
+法国菜,Les Salins,Les Salins,0,2e区,0.0,0.0,0.0
+法国菜,le Celcius,le Celcius,0,2e区,0.0,0.0,0.0
+法国菜,Le Patagon Lyonnais,Le Patagon Lyonnais,0,2e区,0.0,0.0,0.0
+法国菜,Gumps Corner,Gumps Corner,0,2e区,0.0,0.0,0.0
+法国菜,Le pop rock,Le pop rock,0,2e区,0.0,0.0,0.0
+法国菜,Le Troquet des Sens,Le Troquet des Sens,0,2e区,0.0,0.0,0.0
+法国菜,Un moment a Part,Un moment a Part,0,2e区,0.0,0.0,0.0
+法国菜,Le Comptoir des Marronniers,Le Comptoir des Marronniers,0,2e区,0.0,0.0,0.0
+法国菜,Pignol,Pignol,0,2e区,0.0,0.0,0.0
+法国菜,Le Pandemonium,Le Pandemonium,0,2e区,0.0,0.0,0.0
+法国菜,le bar a tartine,le bar a tartine,0,2e区,0.0,0.0,0.0
+法国菜,La Table de Diane,La Table de Diane,0,2e区,0.0,0.0,0.0
+法国菜,La Mere Cottivet,La Mere Cottivet,0,2e区,0.0,0.0,0.0
+法国菜,Le Layon,Le Layon,0,2e区,0.0,0.0,0.0
+法国菜,Flam's,Flam's,0,2e区,0.0,0.0,0.0
+法国菜,L'Artisan Cuisinier,L'Artisan Cuisinier,0,3e区,0.0,0.0,0.0
+法国菜,Caviar Pour les Autres,Caviar Pour les Autres,0,3e区,0.0,0.0,0.0
+法国菜,Le Comptoir du 3eme,Le Comptoir du 3eme,0,3e区,0.0,0.0,0.0
+法国菜,Le Koodeta,Le Koodeta,0,3e区,0.0,0.0,0.0
+法国菜,101,101,0,3e区,0.0,0.0,0.0
+法国菜,Maison de l'Entrecote,Maison de l'Entrecote,0,3e区,0.0,0.0,0.0
+法国菜,Le Garage,Le Garage,0,3e区,0.0,0.0,0.0
+法国菜,Ouest Express - Part Dieu,Ouest Express - Part Dieu,0,3e区,0.0,0.0,0.0
+法国菜,La P'tite Ardoise,La P'tite Ardoise,0,5e区,0.0,0.0,0.0
+法国菜,Restaurant Campagne,Restaurant Campagne,0,5e区,0.0,0.0,0.0
+法国菜,Cafe de la Ficelle,Cafe de la Ficelle,0,5e区,0.0,0.0,0.0
+法国菜,Chez nous Cafe expo,Chez nous Cafe expo,0,5e区,0.0,0.0,0.0
+法国菜,La Chimere,La Chimere,0,5e区,0.0,0.0,0.0
+法国菜,Le Vieux Lyon,Le Vieux Lyon,0,5e区,0.0,0.0,0.0
+法国菜,La Trattoria,La Trattoria,0,5e区,0.0,0.0,0.0
+法国菜,Le Palais Saint Jean,Le Palais Saint Jean,0,5e区,0.0,0.0,0.0
+法国菜,Le Gourmand de Saint Jean,Le Gourmand de Saint Jean,0,5e区,0.0,0.0,0.0
+法国菜,Chez Martial,Chez Martial,0,5e区,0.0,0.0,0.0
+法国菜,Aux Trois Maries,Aux Trois Maries,0,5e区,0.0,0.0,0.0
+法国菜,Delices De Chef,Delices De Chef,0,6e区,0.0,0.0,0.0
+法国菜,Le Hall,Le Hall,0,6e区,0.0,0.0,0.0
+法国菜,Alex Restaurant,Alex Restaurant,0,6e区,0.0,0.0,0.0
+法国菜,Brasserie l'Est,Brasserie l'Est,0,6e区,0.0,0.0,0.0
+法国菜,Juliette,Juliette,0,6e区,0.0,0.0,0.0
+法国菜,Charolais Le,Charolais Le,0,6e区,0.0,0.0,0.0
+法国菜,Verdi,Verdi,0,6e区,0.0,0.0,0.0
+法国菜,le rive gauche,le rive gauche,0,6e区,0.0,0.0,0.0
+法国菜,Pell Mell,Pell Mell,0,6e区,0.0,0.0,0.0
+法国菜,La Brasserie du Hilton,La Brasserie du Hilton,0,6e区,0.0,0.0,0.0
+法国菜,Le comptoir lyonnais,Le comptoir lyonnais,0,1e区,0.0,0.0,0.0
+法国菜,Le Catalpa,Le Catalpa,0,1e区,0.0,0.0,0.0
+法国菜,Café 203,Café 203,0,1e区,0.0,0.0,0.0
+法国菜,Les Terrasses de Saint Pierre,Les Terrasses de Saint Pierre,0,1e区,0.0,0.0,0.0
+法国菜,Le Connetable,Le Connetable,0,1e区,0.0,0.0,0.0
+法国菜,Les Enfants Gates,Les Enfants Gates,0,1e区,0.0,0.0,0.0
+法国菜,The Monkey Club,The Monkey Club,0,1e区,0.0,0.0,0.0
+法国菜,Cousin Cousine & Co,Cousin Cousine & Co,0,1e区,0.0,0.0,0.0
+法国菜,Angelina,Angelina,0,1e区,0.0,0.0,0.0
+法国菜,Carnegie Club 239,Carnegie Club 239,0,7e区,0.0,0.0,0.0
+法国菜,Verso,Verso,0,7e区,0.0,0.0,0.0
+法国菜,Les 7 peches du plateau,Les 7 peches du plateau,0,4e区,0.0,0.0,0.0
+法国菜,La Famille,La Famille,0,4e区,0.0,0.0,0.0
+法国菜,Le Canut Sans Cervelle,Le Canut Sans Cervelle,0,4e区,0.0,0.0,0.0
+法国菜,Le Petit Ramoneur,Le Petit Ramoneur,0,4e区,0.0,0.0,0.0
+法国菜,Le Jardin des Dombes,Le Jardin des Dombes,0,4e区,0.0,0.0,0.0
+法国菜,Le PaillerOn,Le PaillerOn,0,4e区,0.0,0.0,0.0
+法国菜,L'Adresse,L'Adresse,0,9e区,0.0,0.0,0.0
+法国菜,Chez Simone,Chez Simone,0,9e区,0.0,0.0,0.0
+法国菜,Le Temps D'un Repas,Le Temps D'un Repas,0,9e区,0.0,0.0,0.0
+法国菜,Big Fernand,Big Fernand,0,里昂其他,0.0,0.0,0.0
+法国菜,L'endroit,L'endroit,0,里昂其他,0.0,0.0,0.0
+法国菜,Cafe Francais,Cafe Francais,0,里昂其他,0.0,0.0,0.0
+法国菜,Cousins cousines,Cousins cousines,0,里昂其他,0.0,0.0,0.0
+法国菜,Le lei,Le lei,0,里昂其他,0.0,0.0,0.0
+法国菜,Chrono Eat,Chrono Eat,0,里昂其他,0.0,0.0,0.0
+法国菜,Au Bord de l'Eau,Au Bord de l'Eau,0,里昂其他,0.0,0.0,0.0
+法国菜,Le porte-pot de l'ile barbe,Le porte-pot de l'ile barbe,0,里昂其他,0.0,0.0,0.0
+法国菜,Pizza Pai,Pizza Pai,0,里昂其他,0.0,0.0,0.0
+法国菜,Restaurant Tapeo,Restaurant Tapeo,0,2e区,0.0,0.0,0.0
+法国菜,Hyppopotamus,Hyppopotamus,0,2e区,0.0,0.0,0.0
+法国菜,Cafe Carnot,Cafe Carnot,0,2e区,0.0,0.0,0.0
+法国菜,La Melodie du Piano,La Melodie du Piano,0,2e区,0.0,0.0,0.0
+法国菜,Brasserie le Victor Hugo,Brasserie le Victor Hugo,0,2e区,0.0,0.0,0.0
+法国菜,Creperie du Musee,Creperie du Musee,0,2e区,0.0,0.0,0.0
+法国菜,La Crepe d'or,La Crepe d'or,0,2e区,0.0,0.0,0.0
+法国菜,bistrot des ARTS,bistrot des ARTS,0,2e区,0.0,0.0,0.0
+法国菜,Le Bon Bourgeois,Le Bon Bourgeois,0,2e区,0.0,0.0,0.0
+法国菜,Le Bouchon aux Vins,Le Bouchon aux Vins,0,2e区,0.0,0.0,0.0
+法国菜,Mercierexpress,Mercierexpress,0,2e区,0.0,0.0,0.0
+法国菜,La Manile,La Manile,0,2e区,0.0,0.0,0.0
+法国菜,Le Bistrot Autrement,Le Bistrot Autrement,0,3e区,0.0,0.0,0.0
+法国菜,L' Essentiel,L' Essentiel,0,3e区,0.0,0.0,0.0
+法国菜,Cuisines & Passions,Cuisines & Passions,0,3e区,0.0,0.0,0.0
+法国菜,Hippopotamus,Hippopotamus,0,3e区,0.0,0.0,0.0
+法国菜,Le Bistrot de La Fontaine,Le Bistrot de La Fontaine,0,5e区,0.0,0.0,0.0
+法国菜,Le BasiliK,Le BasiliK,0,5e区,0.0,0.0,0.0
+法国菜,Nulle pierre ailleurs,Nulle pierre ailleurs,0,5e区,0.0,0.0,0.0
+法国菜,La Tour Rose,La Tour Rose,0,5e区,0.0,0.0,0.0
+法国菜,At Grand Ma's,At Grand Ma's,0,5e区,0.0,0.0,0.0
+法国菜,A la Traboule,A la Traboule,0,5e区,0.0,0.0,0.0
+法国菜,Chez Louise,Chez Louise,0,5e区,0.0,0.0,0.0
+法国菜,Les Pieds Dans le Plat,Les Pieds Dans le Plat,0,5e区,0.0,0.0,0.0
+法国菜,L'Horloge,L'Horloge,0,6e区,0.0,0.0,0.0
+法国菜,Splendide,Splendide,0,6e区,0.0,0.0,0.0
+法国菜,Les Domaines Qui Montent,Les Domaines Qui Montent,0,6e区,0.0,0.0,0.0
+法国菜,La nonna autrement,La nonna autrement,0,6e区,0.0,0.0,0.0
+法国菜,le pavillon du parc,le pavillon du parc,0,6e区,0.0,0.0,0.0
+法国菜,Le panier a salade,Le panier a salade,0,1e区,0.0,0.0,0.0
+法国菜,Le Relais des Bergers,Le Relais des Bergers,0,1e区,0.0,0.0,0.0
+法国菜,Bar de la pecherie,Bar de la pecherie,0,1e区,0.0,0.0,0.0
+法国菜,203,203,0,1e区,0.0,0.0,0.0
+法国菜,Bistrot Pizay,Bistrot Pizay,0,1e区,0.0,0.0,0.0
+法国菜,Brasserie les Arcades,Brasserie les Arcades,0,1e区,0.0,0.0,0.0
+法国菜,des Deux Places Jean-Marc,des Deux Places Jean-Marc,0,1e区,0.0,0.0,0.0
+法国菜,Brasserie Debourg,Brasserie Debourg,0,7e区,0.0,0.0,0.0
+法国菜,Sushimasa,Sushimasa,0,7e区,0.0,0.0,0.0
+法国菜,L'Heur des Poetes,L'Heur des Poetes,0,4e区,0.0,0.0,0.0
+法国菜,La Cafe de la Soie,La Cafe de la Soie,0,4e区,0.0,0.0,0.0
+法国菜,Pot d'Anne,Pot d'Anne,0,9e区,0.0,0.0,0.0
+法国菜,Brasserie DERUELLE,Brasserie DERUELLE,0,里昂其他,0.0,0.0,0.0
+法国菜,Ninkasi Gratte ciel (SARL),Ninkasi Gratte ciel (SARL),0,里昂其他,0.0,0.0,0.0
+法国菜,Croco et Co,Croco et Co,0,里昂其他,0.0,0.0,0.0
+法国菜,Ginger Et Fred,Ginger Et Fred,0,里昂其他,0.0,0.0,0.0
+法国菜,Le gallion,Le gallion,0,里昂其他,0.0,0.0,0.0
+法国菜,Restaurant La Grange de Saint Jean,Restaurant La Grange de Saint Jean,0,,0.0,0.0,0.0
+法国菜,Chez Chabert,Chez Chabert,0,1e区,0.0,0.0,0.0
+法国菜,Antiq'y The,Antiq'y The,0,1e区,0.0,0.0,0.0
+法国菜,Le Patio,Le Patio,0,里昂其他,0.0,0.0,0.0
+酒吧,Brasserie Le Sud,Brasserie Le Sud,0,2e区,0.0,0.0,0.0
+酒吧,Sidolivier,Sidolivier,0,7e区,0.0,0.0,0.0
+酒吧,L'assiette du Parc,L'assiette du Parc,0,6e区,0.0,0.0,0.0
+酒吧,C Restaurant,C Restaurant,0,里昂其他,0.0,0.0,0.0
+酒吧,La Bouteillerie,La Bouteillerie,0,1e区,0.0,0.0,0.0
+酒吧,l'oiseau sur la branche,l'oiseau sur la branche,0,里昂其他,0.0,0.0,0.0
+酒吧,Le Vin des Vivants,Le Vin des Vivants,0,1e区,0.0,0.0,0.0
+酒吧,L'Instant Fromage,L'Instant Fromage,0,2e区,0.0,0.0,0.0
+酒吧,Selcius,Selcius,0,2e区,0.0,0.0,0.0
+酒吧,Le Poelon d'Or,Le Poelon d'Or,0,2e区,0.0,0.0,0.0
+酒吧,Bistro Ferrandiere,Bistro Ferrandiere,0,2e区,0.0,0.0,0.0
+酒吧,Pléthore & Balthazar,Pléthore & Balthazar,0,2e区,0.0,0.0,0.0
+酒吧,Victoria Hall,Victoria Hall,0,3e区,0.0,0.0,0.0
+酒吧,Live Station DIY,Live Station DIY,0,3e区,0.0,0.0,0.0
+酒吧,Arsenic,Arsenic,0,3e区,0.0,0.0,0.0
+酒吧,L' interlude cafe...,L' interlude cafe...,0,1e区,0.0,0.0,0.0
+酒吧,Au Petit Bouchon Chez Georges,Au Petit Bouchon Chez Georges,0,1e区,0.0,0.0,0.0
+酒吧,La Boheme,La Boheme,0,1e区,0.0,0.0,0.0
+酒吧,Le Fantome de l'Opera,Le Fantome de l'Opera,0,1e区,0.0,0.0,0.0
+酒吧,Paddy's Corner,Paddy's Corner,0,4e区,0.0,0.0,0.0
+酒吧,L'Atelier des Augustins,L'Atelier des Augustins,0,里昂其他,0.0,0.0,0.0
+酒吧,Le Broc'Bar,Le Broc'Bar,0,里昂其他,0.0,0.0,0.0
+酒吧,Le Carre des Saveurs,Le Carre des Saveurs,0,2e区,0.0,0.0,0.0
+酒吧,Jazzy's Corner,Jazzy's Corner,0,2e区,0.0,0.0,0.0
+酒吧,Le Ballon,Le Ballon,0,2e区,0.0,0.0,0.0
+酒吧,L'Authentique,L'Authentique,0,3e区,0.0,0.0,0.0
+酒吧,Le court circuit,Le court circuit,0,3e区,0.0,0.0,0.0
+酒吧,Chez Chabert,Chez Chabert,0,5e区,0.0,0.0,0.0
+酒吧,Le Comptoir Joa Lyon,Le Comptoir Joa Lyon,0,6e区,0.0,0.0,0.0
+酒吧,F&G City Cafe,F&G City Cafe,0,1e区,0.0,0.0,0.0
+酒吧,Bistrot D Un Jour,Bistrot D Un Jour,0,7e区,0.0,0.0,0.0
+酒吧,Tracteur ET Bigoudis,Tracteur ET Bigoudis,0,里昂其他,0.0,0.0,0.0
+酒吧,Le Bistrot Lafayette,Le Bistrot Lafayette,0,里昂其他,0.0,0.0,0.0
+酒吧,Bar de l'industrie,Bar de l'industrie,0,3e区,0.0,0.0,0.0
+酒吧,Marguerite Restaurant,Marguerite Restaurant,0,3e区,0.0,0.0,0.0
+酒吧,le caveau des gourmands,le caveau des gourmands,0,1e区,0.0,0.0,0.0
+酒吧,Café des Jacobins,Café des Jacobins,0,2e区,0.0,0.0,0.0
+酒吧,Leon de B.,Leon de B.,0,2e区,0.0,0.0,0.0
+酒吧,Ayers Rock Boat,Ayers Rock Boat,0,3e区,0.0,0.0,0.0
+意大利菜,Paella et Colori,Paella et Colori,0,6e区,0.0,0.0,0.0
+意大利菜,Chez Nicolo,Chez Nicolo,0,2e区,0.0,0.0,0.0
+意大利菜,Pizzeria Avarello,Pizzeria Avarello,0,2e区,0.0,0.0,0.0
+意大利菜,Sapori e Colori,Sapori e Colori,0,3e区,0.0,0.0,0.0
+意大利菜,L'Opéra-bouffe,L'Opéra-bouffe,0,1e区,0.0,0.0,0.0
+意大利菜,Quai 50,Quai 50,0,9e区,0.0,0.0,0.0
+意大利菜,Giovany's ristorante,Giovany's ristorante,0,5e区,0.0,0.0,0.0
+意大利菜,Le Rialto,Le Rialto,0,3e区,0.0,0.0,0.0
+意大利菜,Tutti Quanti,Tutti Quanti,0,3e区,0.0,0.0,0.0
+意大利菜,Villa Urbana,Villa Urbana,0,里昂其他,0.0,0.0,0.0
+意大利菜,Al Dente,Al Dente,0,5e区,0.0,0.0,0.0
+意大利菜,Caffé Italien,Caffé Italien,0,2e区,0.0,0.0,0.0
+意大利菜,Intermezzo lyon,Intermezzo lyon,0,2e区,0.0,0.0,0.0
+意大利菜,Pizzeria Napoli Chez Nicolo & Franco Morreale,Pizzeria Napoli Chez Nicolo & Franco Morreale,0,2e区,0.0,0.0,0.0
+意大利菜,Lello,Lello,0,3e区,0.0,0.0,0.0
+意大利菜,Restaurant Le 21 Ventuno,Restaurant Le 21 Ventuno,0,5e区,0.0,0.0,0.0
+意大利菜,Neroliva,Neroliva,0,6e区,0.0,0.0,0.0
+意大利菜,La Meditrina,La Meditrina,0,6e区,0.0,0.0,0.0
+意大利菜,Ma Table en Italie,Ma Table en Italie,0,6e区,0.0,0.0,0.0
+意大利菜,La Derniere Seance,La Derniere Seance,0,7e区,0.0,0.0,0.0
+意大利菜,L'Allegria Due - Ristorante Pizzeria,L'Allegria Due - Ristorante Pizzeria,0,里昂其他,0.0,0.0,0.0
+意大利菜,La villa pizzeria,La villa pizzeria,0,里昂其他,0.0,0.0,0.0
+意大利菜,La Toscane,La Toscane,0,里昂其他,0.0,0.0,0.0
+意大利菜,Fuxia Mercière,Fuxia Mercière,0,2e区,0.0,0.0,0.0
+意大利菜,Ti amo Maria,Ti amo Maria,0,2e区,0.0,0.0,0.0
+意大利菜,La Cantinetta,La Cantinetta,0,2e区,0.0,0.0,0.0
+意大利菜,MOMENTO SAPORI E VINI,MOMENTO SAPORI E VINI,0,2e区,0.0,0.0,0.0
+意大利菜,Caffe Milano,Caffe Milano,0,2e区,0.0,0.0,0.0
+意大利菜,Stella d'Oro,Stella d'Oro,0,2e区,0.0,0.0,0.0
+意大利菜,Fuxia,Fuxia,0,2e区,0.0,0.0,0.0
+意大利菜,Pizzalina,Pizzalina,0,3e区,0.0,0.0,0.0
+意大利菜,San Marco,San Marco,0,3e区,0.0,0.0,0.0
+意大利菜,Le Ferrari,Le Ferrari,0,3e区,0.0,0.0,0.0
+意大利菜,Sapori d'Italia,Sapori d'Italia,0,5e区,0.0,0.0,0.0
+意大利菜,Italia e sapore,Italia e sapore,0,6e区,0.0,0.0,0.0
+意大利菜,"La Novita, Ristorante Pizzeria","La Novita, Ristorante Pizzeria",0,6e区,0.0,0.0,0.0
+意大利菜,Café Riso Amaro,Café Riso Amaro,0,6e区,0.0,0.0,0.0
+意大利菜,Villa Bound,Villa Bound,0,6e区,0.0,0.0,0.0
+意大利菜,Via Veneto,Via Veneto,0,6e区,0.0,0.0,0.0
+意大利菜,La Monella,La Monella,0,6e区,0.0,0.0,0.0
+意大利菜,Chez Augusto,Chez Augusto,0,1e区,0.0,0.0,0.0
+意大利菜,Monte Santo,Monte Santo,0,1e区,0.0,0.0,0.0
+意大利菜,Nicolò e Maria,Nicolò e Maria,0,7e区,0.0,0.0,0.0
+意大利菜,La Lambretta,La Lambretta,0,7e区,0.0,0.0,0.0
+意大利菜,Osteria Valenti,Osteria Valenti,0,4e区,0.0,0.0,0.0
+意大利菜,Due,Due,0,9e区,0.0,0.0,0.0
+意大利菜,Via Roma,Via Roma,0,里昂其他,0.0,0.0,0.0
+意大利菜,La Casa Nostra,La Casa Nostra,0,里昂其他,0.0,0.0,0.0
+意大利菜,Francesca,Francesca,0,里昂其他,0.0,0.0,0.0
+意大利菜,Pizza Vito,Pizza Vito,0,2e区,0.0,0.0,0.0
+意大利菜,Chez Carlo,Chez Carlo,0,2e区,0.0,0.0,0.0
+意大利菜,Caffe Milano Merciere,Caffe Milano Merciere,0,2e区,0.0,0.0,0.0
+意大利菜,Vita Ristorante & Pizzeria,Vita Ristorante & Pizzeria,0,3e区,0.0,0.0,0.0
+意大利菜,Farfalla Caffe,Farfalla Caffe,0,6e区,0.0,0.0,0.0
+意大利菜,la nonna,la nonna,0,6e区,0.0,0.0,0.0
+意大利菜,Pizzeria Carlino,Pizzeria Carlino,0,1e区,0.0,0.0,0.0
+意大利菜,FUXIA,FUXIA,0,2e区,0.0,0.0,0.0
+意大利菜,LE MONALISA,LE MONALISA,0,2e区,0.0,0.0,0.0
+意大利菜,La Piazza Papa,La Piazza Papa,0,2e区,0.0,0.0,0.0
+意大利菜,Resto Pizza Tavola,Resto Pizza Tavola,0,3e区,0.0,0.0,0.0
+意大利菜,Le Chateau,Le Chateau,0,3e区,0.0,0.0,0.0
+意大利菜,Mi Piace,Mi Piace,0,3e区,0.0,0.0,0.0
+意大利菜,La Squadra,La Squadra,0,3e区,0.0,0.0,0.0
+意大利菜,Le Ness,Le Ness,0,6e区,0.0,0.0,0.0
+意大利菜,Barocco,Barocco,0,1e区,0.0,0.0,0.0
+意大利菜,Il Grissino,Il Grissino,0,1e区,0.0,0.0,0.0
+意大利菜,Carmelina,Carmelina,0,7e区,0.0,0.0,0.0
+意大利菜,PIZZA LATINO,PIZZA LATINO,0,7e区,0.0,0.0,0.0
+意大利菜,Caffe Baroni,Caffe Baroni,0,里昂其他,0.0,0.0,0.0
+墨西哥菜,La Cazuela y el Tequila,La Cazuela y el Tequila,0,1e区,0.0,0.0,0.0
+墨西哥菜,Go Mex,Go Mex,0,里昂其他,0.0,0.0,0.0
+墨西哥菜,Chango Mamboo,Chango Mamboo,0,6e区,0.0,0.0,0.0
+墨西哥菜,El Sombrero,El Sombrero,0,1e区,0.0,0.0,0.0
+墨西哥菜,Don Taco,Don Taco,0,2e区,0.0,0.0,0.0
+其他西餐,Grill Courtepaille,Grill Courtepaille,0,3e区,0.0,0.0,0.0
+其他西餐,Eggli,Eggli,0,3e区,0.0,0.0,0.0
+其他西餐,Petit Ogre,Petit Ogre,0,3e区,0.0,0.0,0.0
+其他西餐,Le Bistrot du Potager,Le Bistrot du Potager,0,1e区,0.0,0.0,0.0
+其他西餐,Eleven Bar Restaurant,Eleven Bar Restaurant,0,9e区,0.0,0.0,0.0
+其他西餐,Le Grill du Chateau de Sans Souci,Le Grill du Chateau de Sans Souci,0,里昂其他,0.0,0.0,0.0
+其他西餐,Plaza de Espana,Plaza de Espana,0,2e区,0.0,0.0,0.0
+其他西餐,Puerto Argentino,Puerto Argentino,0,3e区,0.0,0.0,0.0
+其他西餐,Les Loges,Les Loges,0,5e区,0.0,0.0,0.0
+其他西餐,Chalut Le,Chalut Le,0,2e区,0.0,0.0,0.0
+其他西餐,Yaafa,Yaafa,0,1e区,0.0,0.0,0.0
+其他西餐,Made In Fish,Made In Fish,0,2e区,0.0,0.0,0.0
+其他西餐,L'Emir aux mille et une nuits,L'Emir aux mille et une nuits,0,1e区,0.0,0.0,0.0
+其他西餐,L'Ange Di Vin,L'Ange Di Vin,0,2e区,0.0,0.0,0.0
+其他西餐,Le Colorado,Le Colorado,0,里昂其他,0.0,0.0,0.0
+其他西餐,Brasserie Midi Minuit,Brasserie Midi Minuit,0,2e区,0.0,0.0,0.0
+其他西餐,La Cantine du Village,La Cantine du Village,0,2e区,0.0,0.0,0.0
+其他西餐,"Salmon Fish, Lyon","Salmon Fish, Lyon",0,3e区,0.0,0.0,0.0
+其他西餐,Elephant and Castle,Elephant and Castle,0,5e区,0.0,0.0,0.0
+其他西餐,Campanile,Campanile,0,3e区,0.0,0.0,0.0
+其他西餐,Pléthore & Balthazar,Pléthore & Balthazar,0,2e区,0.0,0.0,0.0
+其他西餐,Hervé et Sophea,Hervé et Sophea,0,3e区,0.0,0.0,0.0
+其他西餐,Soul Food & Jazz Cafe,Soul Food & Jazz Cafe,0,5e区,0.0,0.0,0.0
+其他西餐,L'Aureus,L'Aureus,0,里昂其他,0.0,0.0,0.0
+其他西餐,Frite Alors,Frite Alors,0,1e区,0.0,0.0,0.0
+其他西餐,Caffé Italien,Caffé Italien,0,2e区,0.0,0.0,0.0
+其他西餐,Cuisine et dependance acte 2,Cuisine et dependance acte 2,0,2e区,0.0,0.0,0.0
+其他西餐,Cafe Marmot,Cafe Marmot,0,2e区,0.0,0.0,0.0
+其他西餐,A nous les Caprices,A nous les Caprices,0,2e区,0.0,0.0,0.0
+其他西餐,Grand Restaurant du Soleil chez Kadded,Grand Restaurant du Soleil chez Kadded,0,3e区,0.0,0.0,0.0
+其他西餐,Green Is Better,Green Is Better,0,3e区,0.0,0.0,0.0
+其他西餐,Sainte Russie,Sainte Russie,0,5e区,0.0,0.0,0.0
+其他西餐,Au P'tit Zinc,Au P'tit Zinc,0,5e区,0.0,0.0,0.0
+其他西餐,Le Bon Coin,Le Bon Coin,0,6e区,0.0,0.0,0.0
+其他西餐,Place des sens,Place des sens,0,6e区,0.0,0.0,0.0
+其他西餐,Milonga,Milonga,0,6e区,0.0,0.0,0.0
+其他西餐,La Cave D'a Cote,La Cave D'a Cote,0,1e区,0.0,0.0,0.0
+其他西餐,Les Burgers de Papa,Les Burgers de Papa,0,1e区,0.0,0.0,0.0
+其他西餐,Le Petit Persan,Le Petit Persan,0,1e区,0.0,0.0,0.0
+其他西餐,L'epicerie Culturelle,L'epicerie Culturelle,0,4e区,0.0,0.0,0.0
+其他西餐,L'Orange a la Cannelle,L'Orange a la Cannelle,0,9e区,0.0,0.0,0.0
+其他西餐,Chez André,Chez André,0,9e区,0.0,0.0,0.0
+其他西餐,Sassoun Traiteur,Sassoun Traiteur,0,里昂其他,0.0,0.0,0.0
+其他西餐,Le Hoggar,Le Hoggar,0,里昂其他,0.0,0.0,0.0
+其他西餐,Courte Paille,Courte Paille,0,9e区,0.0,0.0,0.0
+其他西餐,cafe tapas thomas,cafe tapas thomas,0,里昂其他,0.0,0.0,0.0
+其他西餐,Autour d'un Verre,Autour d'un Verre,0,里昂其他,0.0,0.0,0.0
+其他西餐,Razowski,Razowski,0,2e区,0.0,0.0,0.0
+其他西餐,Embuscade,Embuscade,0,2e区,0.0,0.0,0.0
+其他西餐,La Plage,La Plage,0,2e区,0.0,0.0,0.0
+其他西餐,Le Jardin de Berthe,Le Jardin de Berthe,0,2e区,0.0,0.0,0.0
+其他西餐,De La ... Et de La,De La ... Et de La,0,2e区,0.0,0.0,0.0
+其他西餐,Portugal no Coracao,Portugal no Coracao,0,3e区,0.0,0.0,0.0
+其他西餐,La Perle Caspienne,La Perle Caspienne,0,3e区,0.0,0.0,0.0
+其他西餐,cafe de Lyon,cafe de Lyon,0,3e区,0.0,0.0,0.0
+其他西餐,Alicante el Bario,Alicante el Bario,0,5e区,0.0,0.0,0.0
+其他西餐,Sambahia,Sambahia,0,5e区,0.0,0.0,0.0
+其他西餐,La nef des fous,La nef des fous,0,5e区,0.0,0.0,0.0
+其他西餐,Cafe Epicerie,Cafe Epicerie,0,5e区,0.0,0.0,0.0
+其他西餐,Mi Casa Es Tu Casa,Mi Casa Es Tu Casa,0,5e区,0.0,0.0,0.0
+其他西餐,The Smoking Dog Pub,The Smoking Dog Pub,0,5e区,0.0,0.0,0.0
+其他西餐,Le Pain de sucre,Le Pain de sucre,0,6e区,0.0,0.0,0.0
+其他西餐,Brasserie des Brotteaux,Brasserie des Brotteaux,0,6e区,0.0,0.0,0.0
+其他西餐,Miwam,Miwam,0,6e区,0.0,0.0,0.0
+其他西餐,33 Cite Restaurant,33 Cite Restaurant,0,6e区,0.0,0.0,0.0
+其他西餐,Mon histoire dans l'assiette,Mon histoire dans l'assiette,0,1e区,0.0,0.0,0.0
+其他西餐,Le Palais de la Biere,Le Palais de la Biere,0,1e区,0.0,0.0,0.0
+其他西餐,Pinch burger,Pinch burger,0,4e区,0.0,0.0,0.0
+其他西餐,Grand Cafe Prefecture,Grand Cafe Prefecture,0,里昂其他,0.0,0.0,0.0
+其他西餐,Brasserie 33 TNP,Brasserie 33 TNP,0,里昂其他,0.0,0.0,0.0
+其他西餐,Le Montana,Le Montana,0,里昂其他,0.0,0.0,0.0
+其他西餐,Elleixir,Elleixir,0,里昂其他,0.0,0.0,0.0
+其他西餐,Caffe Restaurant La Plancha,Caffe Restaurant La Plancha,0,里昂其他,0.0,0.0,0.0
+其他西餐,10 Fingers,10 Fingers,0,2e区,0.0,0.0,0.0
+其他西餐,Pain & Cie,Pain & Cie,0,2e区,0.0,0.0,0.0
+其他西餐,Petit Nego Lyon,Petit Nego Lyon,0,2e区,0.0,0.0,0.0
+其他西餐,9 Merciere,9 Merciere,0,2e区,0.0,0.0,0.0
+其他西餐,Le Touareg,Le Touareg,0,5e区,0.0,0.0,0.0
+其他西餐,James Joyce Pub,James Joyce Pub,0,5e区,0.0,0.0,0.0
+其他西餐,Du Comptoir a Ma Table,Du Comptoir a Ma Table,0,6e区,0.0,0.0,0.0
+其他西餐,Ninkasi,Ninkasi,0,1e区,0.0,0.0,0.0
+其他西餐,Le Petit Saint Petersbourg,Le Petit Saint Petersbourg,0,1e区,0.0,0.0,0.0
+其他西餐,Mi Barrio,Mi Barrio,0,1e区,0.0,0.0,0.0
+其他西餐,Cuisine et Croix-Roussiens,Cuisine et Croix-Roussiens,0,4e区,0.0,0.0,0.0
+其他西餐,Le petit dauphin,Le petit dauphin,0,里昂其他,0.0,0.0,0.0
+其他西餐,Le Moma,Le Moma,0,里昂其他,0.0,0.0,0.0
+其他西餐,Symphonie Orientale,Symphonie Orientale,0,2e区,0.0,0.0,0.0
+其他西餐,Ninkasi Sans Souci,Ninkasi Sans Souci,0,3e区,0.0,0.0,0.0
+其他西餐,Le Narguile gourmand,Le Narguile gourmand,0,3e区,0.0,0.0,0.0
+其他西餐,O Conways,O Conways,0,3e区,0.0,0.0,0.0
+其他西餐,Le Tramway Brasserie,Le Tramway Brasserie,0,3e区,0.0,0.0,0.0
+其他西餐,Quick Lyon Part Dieu,Quick Lyon Part Dieu,0,3e区,0.0,0.0,0.0
+其他西餐,Cote Sud,Cote Sud,0,1e区,0.0,0.0,0.0
+其他西餐,Chez Marli 100% Brasil,Chez Marli 100% Brasil,0,1e区,0.0,0.0,0.0
+其他西餐,la perle noire,la perle noire,0,1e区,0.0,0.0,0.0
+其他西餐,La Pachanguera,La Pachanguera,0,里昂其他,0.0,0.0,0.0
+其他西餐,Grill Courtepaille,Grill Courtepaille,0,里昂其他,0.0,0.0,0.0
+其他西餐,Pause et vous,Pause et vous,0,里昂其他,0.0,0.0,0.0
+其他西餐,Bonsoir Clara,Bonsoir Clara,0,2e区,0.0,0.0,0.0
+中餐,Chez Riz,Chez Riz,0,里昂其他,7.5,7.5,7.2
+中餐,Carnet de Voyage,Carnet de Voyage,0,1e区,0.0,0.0,0.0
+中餐,Dragon d'Or,Dragon d'Or,0,里昂其他,0.0,0.0,0.0
+中餐,Le Jardin de Chine,Le Jardin de Chine,0,2e区,0.0,0.0,0.0
+中餐,Taste And See,Taste And See,0,3e区,0.0,0.0,0.0
+中餐,Nouveau Hong Kong,Nouveau Hong Kong,0,6e区,0.0,0.0,0.0
+中餐,Les Gourmandises de Lily,Les Gourmandises de Lily,0,6e区,0.0,0.0,0.0
+中餐,La Chine,La Chine,0,2e区,0.0,0.0,0.0
+中餐,Gingko,Gingko,0,8e区,0.0,0.0,0.0
+中餐,Saveur d'Asie,Saveur d'Asie,0,6e区,0.0,0.0,0.0
+中餐,La Capitale,La Capitale,0,3e区,0.0,0.0,0.0
+中餐,Maison debeaux,Maison debeaux,0,里昂其他,0.0,0.0,0.0
+中餐,L'epicerie Pop,L'epicerie Pop,0,1e区,0.0,0.0,0.0
+中餐,New China,New China,0,里昂其他,0.0,0.0,0.0
+中餐,Little lyon,Little lyon,0,2e区,0.0,0.0,0.0
+中餐,La Joncque,La Joncque,0,4e区,0.0,0.0,0.0
+中餐,Tiger Wok,Tiger Wok,0,7e区,0.0,0.0,0.0
+中餐,Beijing 8,Beijing 8,0,里昂其他,0.0,0.0,0.0
+中餐,Maison Watami,Maison Watami,0,7e区,0.0,0.0,0.0
+中餐,Vaise Imperial,Vaise Imperial,0,9e区,0.0,0.0,0.0
+中餐,Voile de Chine,Voile de Chine,0,里昂其他,0.0,0.0,0.0
+中餐,Chez Ngyuen,Chez Ngyuen,0,里昂其他,0.0,0.0,0.0
+中餐,Sawadee Thai,Sawadee Thai,0,7e区,0.0,0.0,0.0
+中餐,Suelta Verde,Suelta Verde,0,6e区,0.0,0.0,0.0
+中餐,北京酒家,北京酒家,0,2e区,0.0,0.0,0.0
+日韩料理,Confluence Sushi,Confluence Sushi,0,2e区,0.0,0.0,0.0
+日韩料理,okawa,okawa,0,2e区,0.0,0.0,0.0
+日韩料理,Le Ras le Bol,Le Ras le Bol,0,3e区,0.0,0.0,0.0
+日韩料理,Noboru,Noboru,0,2e区,0.0,0.0,0.0
+日韩料理,Yoshi,Yoshi,0,4e区,0.0,0.0,0.0
+日韩料理,Restaurant Bap,Restaurant Bap,0,7e区,0.0,0.0,0.0
+日韩料理,Nikko,Nikko,0,6e区,0.0,0.0,0.0
+日韩料理,Kan Food,Kan Food,0,3e区,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,4e区,0.0,0.0,0.0
+日韩料理,Home Sushi,Home Sushi,0,9e区,0.0,0.0,0.0
+日韩料理,Neo Sushi,Neo Sushi,0,3e区,0.0,0.0,0.0
+日韩料理,matsuri Lyon Vaise,matsuri Lyon Vaise,0,里昂其他,0.0,0.0,0.0
+日韩料理,Goramen,Goramen,0,1e区,0.0,0.0,0.0
+日韩料理,Chez Fyfy,Chez Fyfy,0,2e区,0.0,0.0,0.0
+日韩料理,Restaurant Toyo,Restaurant Toyo,0,7e区,0.0,0.0,0.0
+日韩料理,Takeyama,Takeyama,0,2e区,0.0,0.0,0.0
+日韩料理,Lem Sushi,Lem Sushi,0,2e区,0.0,0.0,0.0
+日韩料理,Ahika,Ahika,0,里昂其他,0.0,0.0,0.0
+日韩料理,Le Fubuki,Le Fubuki,0,2e区,0.0,0.0,0.0
+日韩料理,Coreen Barbecue,Coreen Barbecue,0,2e区,0.0,0.0,0.0
+日韩料理,Sushi & Sushis,Sushi & Sushis,0,7e区,0.0,0.0,0.0
+日韩料理,Sakura,Sakura,0,7e区,0.0,0.0,0.0
+日韩料理,La Corée,La Corée,0,3e区,0.0,0.0,0.0
+日韩料理,Tokyo,Tokyo,0,3e区,0.0,0.0,0.0
+日韩料理,Imouto,Imouto,0,里昂其他,0.0,0.0,0.0
+日韩料理,Yzumi,Yzumi,0,6e区,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,2e区,0.0,0.0,0.0
+日韩料理,Toya,Toya,0,3e区,0.0,0.0,0.0
+日韩料理,matsuri Lyon Part Dieu,matsuri Lyon Part Dieu,0,6e区,0.0,0.0,0.0
+日韩料理,sushido,sushido,0,6e区,0.0,0.0,0.0
+日韩料理,Chez Terra,Chez Terra,0,6e区,0.0,0.0,0.0
+日韩料理,Le Minanee Japanese Restaurant,Le Minanee Japanese Restaurant,0,1e区,0.0,0.0,0.0
+日韩料理,La Yomogi,La Yomogi,0,1e区,0.0,0.0,0.0
+日韩料理,Toki,Toki,0,4e区,0.0,0.0,0.0
+日韩料理,Sakura,Sakura,0,里昂其他,0.0,0.0,0.0
+日韩料理,Planet Sushi,Planet Sushi,0,2e区,0.0,0.0,0.0
+日韩料理,Oto Oto,Oto Oto,0,3e区,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,6e区,0.0,0.0,0.0
+日韩料理,Goshi,Goshi,0,2e区,0.0,0.0,0.0
+日韩料理,Sushi Shop,Sushi Shop,0,2e区,0.0,0.0,0.0
+日韩料理,Meet Sushi,Meet Sushi,0,6e区,0.0,0.0,0.0
+日韩料理,Les COULISSES,Les COULISSES,0,6e区,0.0,0.0,0.0
+日韩料理,Miwa sushi,Miwa sushi,0,里昂其他,0.0,0.0,0.0
+快餐简餐,VS Restauration,VS Restauration,0,6e区,0.0,0.0,0.0
+快餐简餐,Café Vatel,Café Vatel,0,2e区,0.0,0.0,0.0
+快餐简餐,Cups,Cups,0,里昂其他,0.0,0.0,0.0
+快餐简餐,The rolling cantine,The rolling cantine,0,3e区,0.0,0.0,0.0
+快餐简餐,Cabalesta,Cabalesta,0,里昂其他,0.0,0.0,0.0
+快餐简餐,Hippopotamus,Hippopotamus,0,2e区,0.0,0.0,0.0
+快餐简餐,Franklin's Steakhouse,Franklin's Steakhouse,0,2e区,0.0,0.0,0.0
+快餐简餐,Johnny's Kitchen,Johnny's Kitchen,0,5e区,0.0,0.0,0.0
+快餐简餐,Pola Cafe,Pola Cafe,0,1e区,0.0,0.0,0.0
+快餐简餐,Guy and sons,Guy and sons,0,2e区,0.0,0.0,0.0
+快餐简餐,Kaffee Berlin,Kaffee Berlin,0,3e区,0.0,0.0,0.0
+快餐简餐,Fish Kiss,Fish Kiss,0,3e区,0.0,0.0,0.0
+快餐简餐,Butcher,Butcher,0,1e区,0.0,0.0,0.0
+快餐简餐,Best Bagels,Best Bagels,0,1e区,0.0,0.0,0.0
+快餐简餐,Buttercup Bakery and Tea Room,Buttercup Bakery and Tea Room,0,1e区,0.0,0.0,0.0
+快餐简餐,Hippopotamus,Hippopotamus,0,2e区,0.0,0.0,0.0
+快餐简餐,Best Bagels Lyon Merciere,Best Bagels Lyon Merciere,0,2e区,0.0,0.0,0.0
+快餐简餐,Le Bistrot des 4 Chapeaux,Le Bistrot des 4 Chapeaux,0,2e区,0.0,0.0,0.0
+快餐简餐,Manhattan Store,Manhattan Store,0,3e区,0.0,0.0,0.0
+快餐简餐,Hd dinner,Hd dinner,0,3e区,0.0,0.0,0.0
+快餐简餐,Boston Tavern,Boston Tavern,0,1e区,0.0,0.0,0.0
+快餐简餐,Ninkasi Croix-Rousse,Ninkasi Croix-Rousse,0,4e区,0.0,0.0,0.0
+快餐简餐,Big Fernand,Big Fernand,0,里昂其他,0.0,0.0,0.0
+快餐简餐,Baya Plancha,Baya Plancha,0,里昂其他,0.0,0.0,0.0
+快餐简餐,Bagelstein,Bagelstein,0,3e区,0.0,0.0,0.0
+快餐简餐,BIEH Vitton,BIEH Vitton,0,6e区,0.0,0.0,0.0
+快餐简餐,Regal house,Regal house,0,6e区,0.0,0.0,0.0
+快餐简餐,Le B7,Le B7,0,7e区,0.0,0.0,0.0
+快餐简餐,Bieh,Bieh,0,里昂其他,0.0,0.0,0.0
+快餐简餐,Bieh - Bourse,Bieh - Bourse,0,里昂其他,0.0,0.0,0.0
+更多亚洲菜,le karachi,le karachi,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Petit Grain,Petit Grain,0,2e区,0.0,0.0,0.0
+更多亚洲菜,Au Mao,Au Mao,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Asian Hall,Asian Hall,0,6e区,0.0,0.0,0.0
+更多亚洲菜,Sidi Bou Said,Sidi Bou Said,0,1e区,0.0,0.0,0.0
+更多亚洲菜,Ban Thai,Ban Thai,0,2e区,0.0,0.0,0.0
+更多亚洲菜,Le Mandarin,Le Mandarin,0,1e区,0.0,0.0,0.0
+更多亚洲菜,Tour d'Asie,Tour d'Asie,0,2e区,0.0,0.0,0.0
+更多亚洲菜,Porte de Tunis,Porte de Tunis,0,2e区,0.0,0.0,0.0
+更多亚洲菜,N.L .. Tacos.Pizza.Kebab,N.L .. Tacos.Pizza.Kebab,0,里昂其他,0.0,0.0,0.0
+更多亚洲菜,Le Penjab,Le Penjab,0,里昂其他,0.0,0.0,0.0
+更多亚洲菜,Minh Hui,Minh Hui,0,里昂其他,0.0,0.0,0.0
+更多亚洲菜,Woko,Woko,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Ô!Pâtesthaï,Ô!Pâtesthaï,0,6e区,0.0,0.0,0.0
+更多亚洲菜,Restaurant Cocoo,Restaurant Cocoo,0,1e区,0.0,0.0,0.0
+更多亚洲菜,Namdo,Namdo,0,6e区,0.0,0.0,0.0
+更多亚洲菜,Phnom Pich,Phnom Pich,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Vietnam City,Vietnam City,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Nam Sandwich,Nam Sandwich,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Le Vietnam,Le Vietnam,0,6e区,0.0,0.0,0.0
+更多亚洲菜,Maï Délices,Maï Délices,0,7e区,0.0,0.0,0.0
+更多亚洲菜,Tandoori,Tandoori,0,里昂其他,0.0,0.0,0.0
+更多亚洲菜,Asian like,Asian like,0,5e区,0.0,0.0,0.0
+更多亚洲菜,O Sushi Wok,O Sushi Wok,0,里昂其他,0.0,0.0,0.0
+更多亚洲菜,Parichart,Parichart,0,2e区,0.0,0.0,0.0
+更多亚洲菜,Les ZAGROS,Les ZAGROS,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Au Palais de Chine,Au Palais de Chine,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Pekin Express,Pekin Express,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Angkor Thom,Angkor Thom,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Restaurant Thai Demoiselle,Restaurant Thai Demoiselle,0,3e区,0.0,0.0,0.0
+更多亚洲菜,le royal indien,le royal indien,0,5e区,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal,Taj Mahal,0,6e区,0.0,0.0,0.0
+更多亚洲菜,La Cuisine au Wok,La Cuisine au Wok,0,2e区,0.0,0.0,0.0
+更多亚洲菜,Indochine Confluance,Indochine Confluance,0,2e区,0.0,0.0,0.0
+更多亚洲菜,L'Etoile d'Orient,L'Etoile d'Orient,0,2e区,0.0,0.0,0.0
+更多亚洲菜,Les Petits Siamois,Les Petits Siamois,0,2e区,0.0,0.0,0.0
+更多亚洲菜,Kaya,Kaya,0,3e区,0.0,0.0,0.0
+更多亚洲菜,La Jonque D'Or,La Jonque D'Or,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Tai Thu Traitteur,Tai Thu Traitteur,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Karachi,Karachi,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Coreen Barbecue Lyon 3,Coreen Barbecue Lyon 3,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Saveurs indiennes,Saveurs indiennes,0,5e区,0.0,0.0,0.0
+更多亚洲菜,Raj Mahal,Raj Mahal,0,5e区,0.0,0.0,0.0
+更多亚洲菜,Blue Elephant,Blue Elephant,0,6e区,0.0,0.0,0.0
+更多亚洲菜,Riviere Kwai,Riviere Kwai,0,1e区,0.0,0.0,0.0
+更多亚洲菜,Bangkok royal,Bangkok royal,0,1e区,0.0,0.0,0.0
+更多亚洲菜,Le Palais de l'Inde,Le Palais de l'Inde,0,9e区,0.0,0.0,0.0
+更多亚洲菜,Isis,Isis,0,里昂其他,0.0,0.0,0.0
+更多亚洲菜,Le Bosphore,Le Bosphore,0,里昂其他,0.0,0.0,0.0
+更多亚洲菜,Le Shalimar,Le Shalimar,0,2e区,0.0,0.0,0.0
+更多亚洲菜,indochine,indochine,0,3e区,0.0,0.0,0.0
+更多亚洲菜,The' Van,The' Van,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Mendo,Mendo,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Restaurant du Boeuf,Restaurant du Boeuf,0,5e区,0.0,0.0,0.0
+更多亚洲菜,Le restaurant de setha,Le restaurant de setha,0,5e区,0.0,0.0,0.0
+更多亚洲菜,Kebab de L'angle,Kebab de L'angle,0,4e区,0.0,0.0,0.0
+更多亚洲菜,Le Monde d'Angkor,Le Monde d'Angkor,0,9e区,0.0,0.0,0.0
+更多亚洲菜,La Maison Thai,La Maison Thai,0,里昂其他,0.0,0.0,0.0
+更多亚洲菜,Little Saigon,Little Saigon,0,里昂其他,0.0,0.0,0.0
+更多亚洲菜,Le village indien,Le village indien,0,里昂其他,0.0,0.0,0.0
+更多亚洲菜,Le Palais du Maroc,Le Palais du Maroc,0,3e区,0.0,0.0,0.0
+更多亚洲菜,La Grillade,La Grillade,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Semazen,Semazen,0,3e区,0.0,0.0,0.0
+更多亚洲菜,Jaipur Tandoori,Jaipur Tandoori,0,6e区,0.0,0.0,0.0
+更多亚洲菜,Kun Yang,Kun Yang,0,1e区,0.0,0.0,0.0
+更多亚洲菜,Rouge Tendance,Rouge Tendance,0,7e区,0.0,0.0,0.0
+海鲜,Chez Moss,Chez Moss,0,2e区,0.0,0.0,0.0
+海鲜,Maison Rousseau,Maison Rousseau,0,里昂其他,0.0,0.0,0.0
+海鲜,L'huitrier,L'huitrier,0,7e区,0.0,0.0,0.0
+海鲜,La Cabane à Huitres,La Cabane à Huitres,0,6e区,0.0,0.0,0.0
+海鲜,Chez Antonin,Chez Antonin,0,6e区,0.0,0.0,0.0
+海鲜,Assiette et Maree,Assiette et Maree,0,2e区,0.0,0.0,0.0
+海鲜,Carre Saone,Carre Saone,0,5e区,0.0,0.0,0.0
+海鲜,Merle,Merle,0,6e区,0.0,0.0,0.0
+海鲜,La Regate,La Regate,0,6e区,0.0,0.0,0.0
+海鲜,La Criee,La Criee,0,里昂其他,0.0,0.0,0.0
+海鲜,Bleu de Toi,Bleu de Toi,0,2e区,0.0,0.0,0.0
+烧烤,Hippopotamus - Republique,Hippopotamus - Republique,0,2e区,0.0,0.0,0.0
+烧烤,Buffalo Grill,Buffalo Grill,0,里昂其他,0.0,0.0,0.0
+烧烤,Buffalo Grill,Buffalo Grill,0,里昂其他,0.0,0.0,0.0
+比萨,Mamamia Pizza,Mamamia Pizza,0,7e区,0.0,0.0,0.0
+比萨,Giovani,Giovani,0,3e区,0.0,0.0,0.0
+比萨,Le Globe Trotter,Le Globe Trotter,0,3e区,0.0,0.0,0.0
+比萨,Le Grand Zampano,Le Grand Zampano,0,3e区,0.0,0.0,0.0
+比萨,Special Pizza,Special Pizza,0,2e区,0.0,0.0,0.0
+比萨,Bois pizza tradition,Bois pizza tradition,0,3e区,0.0,0.0,0.0
+比萨,La Scala Siciliana,La Scala Siciliana,0,3e区,0.0,0.0,0.0
+比萨,Pizza Pino,Pizza Pino,0,2e区,0.0,0.0,0.0
+比萨,Pizzeria Italia Nicolo Avarello,Pizzeria Italia Nicolo Avarello,0,2e区,0.0,0.0,0.0
+比萨,Pizzeria Napoli,Pizzeria Napoli,0,2e区,0.0,0.0,0.0
+比萨,Don Vito,Don Vito,0,3e区,0.0,0.0,0.0
+比萨,MAX CALL,MAX CALL,0,3e区,0.0,0.0,0.0
+比萨,Pizza Puce,Pizza Puce,0,4e区,0.0,0.0,0.0
+比萨,La Focaccia,La Focaccia,0,1e区,0.0,0.0,0.0
+比萨,Vapiano,Vapiano,0,7e区,0.0,0.0,0.0
+比萨,Pizzeria Volcano,Pizzeria Volcano,0,2e区,0.0,0.0,0.0
+比萨,Del Arte Lyon,Del Arte Lyon,0,3e区,0.0,0.0,0.0
+比萨,Stade 7,Stade 7,0,7e区,0.0,0.0,0.0
+比萨,Pizza PINO,Pizza PINO,0,,0.0,0.0,0.0
+面包甜点,Glacier Terre Adelice,Glacier Terre Adelice,0,5e区,0.0,0.0,0.0
+面包甜点,Haagen Dazs,Haagen Dazs,0,1e区,0.0,0.0,0.0
+面包甜点,Chocolaterie Philippe Bel,Chocolaterie Philippe Bel,0,2e区,0.0,0.0,0.0
+面包甜点,Café Vatel,Café Vatel,0,2e区,0.0,0.0,0.0
+面包甜点,Rene Nardonne,Rene Nardonne,0,5e区,0.0,0.0,0.0
+面包甜点,Pause & Vous,Pause & Vous,0,3e区,0.0,0.0,0.0
+面包甜点,Chez Guillemette,Chez Guillemette,0,2e区,0.0,0.0,0.0
+面包甜点,Bernachon,Bernachon,0,6e区,0.0,0.0,0.0
+面包甜点,Le Biniou,Le Biniou,0,3e区,0.0,0.0,0.0
+面包甜点,La Marquise,La Marquise,0,5e区,0.0,0.0,0.0
+面包甜点,Regal Glace,Regal Glace,0,2e区,0.0,0.0,0.0
+面包甜点,Haagen Dazs,Haagen Dazs,0,2e区,0.0,0.0,0.0
+面包甜点,Boulangerie De Saint Jean,Boulangerie De Saint Jean,0,5e区,0.0,0.0,0.0
+面包甜点,Creperie L'ecume,Creperie L'ecume,0,6e区,0.0,0.0,0.0
+面包甜点,Boulangerie Kayser,Boulangerie Kayser,0,1e区,0.0,0.0,0.0
+面包甜点,Moulin de Paiou Ecully,Moulin de Paiou Ecully,0,里昂其他,0.0,0.0,0.0
+面包甜点,L'echo des Galets,L'echo des Galets,0,2e区,0.0,0.0,0.0
+面包甜点,City Bagel's,City Bagel's,0,2e区,0.0,0.0,0.0
+面包甜点,Rene Nardone,Rene Nardone,0,5e区,0.0,0.0,0.0
+面包甜点,Creperie DES gones,Creperie DES gones,0,里昂其他,0.0,0.0,0.0
+面包甜点,Le banana,Le banana,0,5e区,0.0,0.0,0.0
+面包甜点,Chocathe,Chocathe,0,1e区,0.0,0.0,0.0
+其他美食,Le Restaurant de Fourviere,Le Restaurant de Fourviere,0,5e区,0.0,0.0,0.0
+其他美食,Brasserie Francotte,Brasserie Francotte,0,2e区,0.0,0.0,0.0
+其他美食,"Marina Café, lunch, goûter","Marina Café, lunch, goûter",0,6e区,0.0,0.0,0.0
+其他美食,Silk Brasserie,Silk Brasserie,0,2e区,0.0,0.0,0.0
+其他美食,Le Vin Gourmand,Le Vin Gourmand,0,3e区,0.0,0.0,0.0
+其他美食,Warwick Reine Astrid,Warwick Reine Astrid,0,6e区,0.0,0.0,0.0
+其他美食,Les Retrouvailles,Les Retrouvailles,0,5e区,0.0,0.0,0.0
+其他美食,BRASSERIE DES ECOLES,BRASSERIE DES ECOLES,0,,0.0,0.0,0.0
+其他美食,le gabion,le gabion,0,3e区,0.0,0.0,0.0
+其他美食,La petite auberge,La petite auberge,0,5e区,0.0,0.0,0.0
+其他美食,Dorodi Pastry,Dorodi Pastry,0,3e区,0.0,0.0,0.0
+其他美食,Amélie Crêperie,Amélie Crêperie,0,2e区,0.0,0.0,0.0
+其他美食,Le Machon Lyonnais,Le Machon Lyonnais,0,2e区,0.0,0.0,0.0
+其他美食,Brasserie Le 1900,Brasserie Le 1900,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Pre-Soir,Le Pre-Soir,0,1e区,0.0,0.0,0.0
+其他美食,Valdys,Valdys,0,3e区,0.0,0.0,0.0
+其他美食,LE DUO Sandwicherie,LE DUO Sandwicherie,0,里昂其他,0.0,0.0,0.0
+其他美食,Restaurant Montesanto Lyon,Restaurant Montesanto Lyon,0,1e区,0.0,0.0,0.0
+其他美食,Aux Amis de la Reunion,Aux Amis de la Reunion,0,3e区,0.0,0.0,0.0
+其他美食,DOMA,DOMA,0,1e区,0.0,0.0,0.0
+其他美食,Le Grange Blanche,Le Grange Blanche,0,3e区,0.0,0.0,0.0
+其他美食,Restaurant Lumiere Kebab,Restaurant Lumiere Kebab,0,里昂其他,0.0,0.0,0.0
+其他美食,La Movida,La Movida,0,2e区,0.0,0.0,0.0
+其他美食,American Sandwich,American Sandwich,0,2e区,0.0,0.0,0.0
+其他美食,Fenetre Sur Cour,Fenetre Sur Cour,0,9e区,0.0,0.0,0.0
+其他美食,Brasserie des Deux Avenues,Brasserie des Deux Avenues,0,3e区,0.0,0.0,0.0
+其他美食,MasterTacos,MasterTacos,0,3e区,0.0,0.0,0.0
+其他美食,Aoc Bar a Vins,Aoc Bar a Vins,0,5e区,0.0,0.0,0.0
+其他美食,Tonton pizza,Tonton pizza,0,里昂其他,0.0,0.0,0.0
+其他美食,Grande boucherie de Saint Jean,Grande boucherie de Saint Jean,0,5e区,0.0,0.0,0.0
+其他美食,Le Brunch Tonic,Le Brunch Tonic,0,1e区,0.0,0.0,0.0
+其他美食,Tonnerre de Brest Picot et Compagnie,Tonnerre de Brest Picot et Compagnie,0,里昂其他,0.0,0.0,0.0
+其他美食,L'Alexandrin,L'Alexandrin,0,3e区,0.0,0.0,0.0
+其他美食,Chez les garcons,Chez les garcons,0,6e区,0.0,0.0,0.0
+其他美食,L'antre d'E,L'antre d'E,0,1e区,0.0,0.0,0.0
+其他美食,rock'n eat,rock'n eat,0,2e区,0.0,0.0,0.0
+其他美食,Le Moment,Le Moment,0,9e区,0.0,0.0,0.0
+其他美食,Miko Sushi,Miko Sushi,0,里昂其他,0.0,0.0,0.0
+其他美食,Cannelle La,Cannelle La,0,5e区,0.0,0.0,0.0
+其他美食,Cuisine du sud,Cuisine du sud,0,5e区,0.0,0.0,0.0
+其他美食,L'Entrecote,L'Entrecote,0,1e区,0.0,0.0,0.0
+其他美食,Fing' & Chic,Fing' & Chic,0,6e区,0.0,0.0,0.0
+其他美食,La Cour des Loges,La Cour des Loges,0,5e区,0.0,0.0,0.0
+其他美食,Patisserie Roland,Patisserie Roland,0,4e区,0.0,0.0,0.0
+其他美食,La Divina,La Divina,0,9e区,0.0,0.0,0.0
+其他美食,Yamato,Yamato,0,9e区,0.0,0.0,0.0
+其他美食,La Gargouille,La Gargouille,0,5e区,0.0,0.0,0.0
+其他美食,La Cuisine,La Cuisine,0,1e区,0.0,0.0,0.0
+其他美食,Christian Tetedoie,Christian Tetedoie,0,5e区,0.0,0.0,0.0
+其他美食,Brasserie de Bondy,Brasserie de Bondy,0,5e区,0.0,0.0,0.0
+其他美食,Novotel Café,Novotel Café,0,7e区,0.0,0.0,0.0
+其他美食,Les Lyonnais Bouchon,Les Lyonnais Bouchon,0,5e区,0.0,0.0,0.0
+其他美食,Le cintra,Le cintra,0,2e区,0.0,0.0,0.0
+其他美食,Mai Thai,Mai Thai,0,3e区,0.0,0.0,0.0
+其他美食,La Terrasse,La Terrasse,0,3e区,0.0,0.0,0.0
+其他美食,STEAK &AMP; CO,STEAK &AMP; CO,0,,0.0,0.0,0.0
+其他美食,Bistrot de la Place,Bistrot de la Place,0,3e区,0.0,0.0,0.0
+其他美食,Bo Sushi,Bo Sushi,0,6e区,0.0,0.0,0.0
+其他美食,Lal Qila,Lal Qila,0,1e区,0.0,0.0,0.0
+其他美食,Oblik Cafe,Oblik Cafe,0,1e区,0.0,0.0,0.0
+其他美食,Il Palio,Il Palio,0,2e区,0.0,0.0,0.0
+其他美食,Chez Paul,Chez Paul,0,1e区,0.0,0.0,0.0
+其他美食,Mama Shelter Restaurant,Mama Shelter Restaurant,0,7e区,0.0,0.0,0.0
+其他美食,Un Coin de Provence,Un Coin de Provence,0,里昂其他,0.0,0.0,0.0
+其他美食,L'endroit Lyon 6,L'endroit Lyon 6,0,里昂其他,0.0,0.0,0.0
+其他美食,L'Ebullition,L'Ebullition,0,1e区,0.0,0.0,0.0
+其他美食,Le Bouchon Des Filles,Le Bouchon Des Filles,0,1e区,0.0,0.0,0.0
+其他美食,Restaurant Vatel,Restaurant Vatel,0,2e区,0.0,0.0,0.0
+其他美食,Maison Borie,Maison Borie,0,7e区,0.0,0.0,0.0
+其他美食,Scuzi,Scuzi,0,3e区,0.0,0.0,0.0
+其他美食,Pomme de Pain Lyon Part Dieu,Pomme de Pain Lyon Part Dieu,0,3e区,0.0,0.0,0.0
+其他美食,O Pad ThaI,O Pad ThaI,0,6e区,0.0,0.0,0.0
+其他美食,Le Café des Anges,Le Café des Anges,0,6e区,0.0,0.0,0.0
+其他美食,Le Jean Moulin,Le Jean Moulin,0,2e区,0.0,0.0,0.0
+其他美食,Mama Africa,Mama Africa,0,7e区,0.0,0.0,0.0
+其他美食,En Mets Fais Ce Qu'il Te Plait,En Mets Fais Ce Qu'il Te Plait,0,7e区,0.0,0.0,0.0
+其他美食,HIK-Haute Industrie Kulinaire,HIK-Haute Industrie Kulinaire,0,里昂其他,0.0,0.0,0.0
+其他美食,A L'abri du Vent,A L'abri du Vent,0,,0.0,0.0,0.0
+其他美食,Bateau Restaurant Hermes,Bateau Restaurant Hermes,0,2e区,0.0,0.0,0.0
+其他美食,L'annexe (Page Officiel),L'annexe (Page Officiel),0,2e区,0.0,0.0,0.0
+其他美食,Donuts Factory,Donuts Factory,0,2e区,0.0,0.0,0.0
+其他美食,Le Bienfait,Le Bienfait,0,2e区,0.0,0.0,0.0
+其他美食,Star,Star,0,3e区,0.0,0.0,0.0
+其他美食,Il Piccolo,Il Piccolo,0,3e区,0.0,0.0,0.0
+其他美食,Le Briey,Le Briey,0,3e区,0.0,0.0,0.0
+其他美食,Gamelle et Timbale,Gamelle et Timbale,0,3e区,0.0,0.0,0.0
+其他美食,Soline,Soline,0,3e区,0.0,0.0,0.0
+其他美食,L'amuse Bouche,L'amuse Bouche,0,3e区,0.0,0.0,0.0
+其他美食,Restaurant Bistrot & Cuisines,Restaurant Bistrot & Cuisines,0,3e区,0.0,0.0,0.0
+其他美食,Cavavin Lyon,Cavavin Lyon,0,5e区,0.0,0.0,0.0
+其他美食,Le Fromager De Saint Georges,Le Fromager De Saint Georges,0,5e区,0.0,0.0,0.0
+其他美食,Restaurant Golbasi,Restaurant Golbasi,0,5e区,0.0,0.0,0.0
+其他美食,Le Bistrouille,Le Bistrouille,0,5e区,0.0,0.0,0.0
+其他美食,Le Scorsese,Le Scorsese,0,6e区,0.0,0.0,0.0
+其他美食,Café L'Edgar Quinet,Café L'Edgar Quinet,0,6e区,0.0,0.0,0.0
+其他美食,Caffe Roma,Caffe Roma,0,6e区,0.0,0.0,0.0
+其他美食,U Capricciu,U Capricciu,0,6e区,0.0,0.0,0.0
+其他美食,Treize et Trois,Treize et Trois,0,1e区,0.0,0.0,0.0
+其他美食,7 o Bistro,7 o Bistro,0,7e区,0.0,0.0,0.0
+其他美食,TSF Café Comptoir,TSF Café Comptoir,0,7e区,0.0,0.0,0.0
+其他美食,Bento House,Bento House,0,7e区,0.0,0.0,0.0
+其他美食,restaurant le cent-onze,restaurant le cent-onze,0,7e区,0.0,0.0,0.0
+其他美食,Pasta Luna,Pasta Luna,0,4e区,0.0,0.0,0.0
+其他美食,Le Bistrot Fait Sa Broc (Lyon - Croix Rousse),Le Bistrot Fait Sa Broc (Lyon - Croix Rousse),0,4e区,0.0,0.0,0.0
+其他美食,23 Restaurant - Caviste Bio,23 Restaurant - Caviste Bio,0,里昂其他,0.0,0.0,0.0
+其他美食,Le plaza,Le plaza,0,里昂其他,0.0,0.0,0.0
+其他美食,La Caveja de Lyon-Villeurbanne,La Caveja de Lyon-Villeurbanne,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Canaletto,Le Canaletto,0,里昂其他,0.0,0.0,0.0
+其他美食,L'Antik'Air,L'Antik'Air,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Roccasecca,Le Roccasecca,0,里昂其他,0.0,0.0,0.0
+其他美食,O Temps Suspendu,O Temps Suspendu,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Comptoir des Fees,Le Comptoir des Fees,0,里昂其他,0.0,0.0,0.0
+其他美食,PIZZA POUCE,PIZZA POUCE,0,里昂其他,0.0,0.0,0.0
+其他美食,L'Origo,L'Origo,0,里昂其他,0.0,0.0,0.0
+其他美食,FOURCHETTES &AMP; CAMISOLE,FOURCHETTES &AMP; CAMISOLE,0,,0.0,0.0,0.0
+其他美食,LES TERRASSES DE LYON,LES TERRASSES DE LYON,0,,0.0,0.0,0.0
+其他美食,L'AMBOISE,L'AMBOISE,0,,0.0,0.0,0.0
+其他美食,JOUR DE MARCHé,JOUR DE MARCHé,0,,0.0,0.0,0.0
+其他美食,L'ÂME SœUR,L'ÂME SœUR,0,,0.0,0.0,0.0
+其他美食,L'ARTISTE ET LE CUISINIER,L'ARTISTE ET LE CUISINIER,0,,0.0,0.0,0.0
+其他美食,MAISON GERMAINS,MAISON GERMAINS,0,,0.0,0.0,0.0
+其他美食,BUENOS AIRES,BUENOS AIRES,0,,0.0,0.0,0.0
+其他美食,LA PALOMA DEL SOL,LA PALOMA DEL SOL,0,,0.0,0.0,0.0
+其他美食,LE PALéGRIé,LE PALéGRIé,0,,0.0,0.0,0.0
+其他美食,LE PETIT FRERE,LE PETIT FRERE,0,,0.0,0.0,0.0
+其他美食,TOMO,TOMO,0,,0.0,0.0,0.0
+其他美食,Restaurant L'Amphitryon,Restaurant L'Amphitryon,0,3e区,0.0,0.0,0.0
+其他美食,Saveurs d'Orient,Saveurs d'Orient,0,2e区,0.0,0.0,0.0
+其他美食,la menthe,la menthe,0,2e区,0.0,0.0,0.0
+其他美食,LES BELLES SAISONS,LES BELLES SAISONS,0,,0.0,0.0,0.0
+其他美食,Mattsam Restaurant Messob,Mattsam Restaurant Messob,0,6e区,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,1e区,0.0,0.0,0.0
+其他美食,la place,la place,0,里昂其他,0.0,0.0,0.0
+其他美食,Vapiano Lyon Confluence,Vapiano Lyon Confluence,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Balmoral,Le Balmoral,0,1e区,0.0,0.0,0.0
+其他美食,Gochi Gerland,Gochi Gerland,0,里昂其他,0.0,0.0,0.0
+其他美食,Leon de Bruxelles Lyon Rue Merciere,Leon de Bruxelles Lyon Rue Merciere,0,2e区,0.0,0.0,0.0
+其他美食,Delice'Croc,Delice'Croc,0,3e区,0.0,0.0,0.0
+其他美食,Edo,Edo,0,里昂其他,0.0,0.0,0.0
+其他美食,Yamato,Yamato,0,里昂其他,0.0,0.0,0.0
+其他美食,La Maison Thaï,La Maison Thaï,0,里昂其他,0.0,0.0,0.0
+其他美食,Gang Nam,Gang Nam,0,里昂其他,0.0,0.0,0.0
+其他美食,L'Atelier Cote Rhone,L'Atelier Cote Rhone,0,里昂其他,0.0,0.0,0.0
+其他美食,Bateau Bellona,Bateau Bellona,0,里昂其他,0.0,0.0,0.0
+其他美食,Burger & Wine,Burger & Wine,0,2e区,0.0,0.0,0.0
+其他美食,C. Com. Avant,C. Com. Avant,0,2e区,0.0,0.0,0.0
+其他美食,Yokohama,Yokohama,0,2e区,0.0,0.0,0.0
+其他美食,Le Saint Cochon,Le Saint Cochon,0,2e区,0.0,0.0,0.0
+其他美食,institut paul bocuse,institut paul bocuse,0,2e区,0.0,0.0,0.0
+其他美食,Le Plazza,Le Plazza,0,2e区,0.0,0.0,0.0
+其他美食,Entr'acte,Entr'acte,0,2e区,0.0,0.0,0.0
+其他美食,Le Saint Tropez,Le Saint Tropez,0,2e区,0.0,0.0,0.0
+其他美食,Au Grand Mechant Loup,Au Grand Mechant Loup,0,2e区,0.0,0.0,0.0
+其他美食,T-Maki Shop,T-Maki Shop,0,2e区,0.0,0.0,0.0
+其他美食,Un Saint Jean Hiver,Un Saint Jean Hiver,0,2e区,0.0,0.0,0.0
+其他美食,Le Chabada Cafe,Le Chabada Cafe,0,2e区,0.0,0.0,0.0
+其他美食,Foll'Envie,Foll'Envie,0,3e区,0.0,0.0,0.0
+其他美食,Le Baladin,Le Baladin,0,3e区,0.0,0.0,0.0
+其他美食,Aromatik,Aromatik,0,3e区,0.0,0.0,0.0
+其他美食,le soleil levan,le soleil levan,0,3e区,0.0,0.0,0.0
+其他美食,L'art et la maniere,L'art et la maniere,0,3e区,0.0,0.0,0.0
+其他美食,Umai,Umai,0,3e区,0.0,0.0,0.0
+其他美食,Piment & Citronnelle,Piment & Citronnelle,0,3e区,0.0,0.0,0.0
+其他美食,Doshilack,Doshilack,0,3e区,0.0,0.0,0.0
+其他美食,Thanh-Binh,Thanh-Binh,0,3e区,0.0,0.0,0.0
+其他美食,Tandoor,Tandoor,0,3e区,0.0,0.0,0.0
+其他美食,Café Restaurant 136 Avenue,Café Restaurant 136 Avenue,0,3e区,0.0,0.0,0.0
+其他美食,CLASS CROUTE,CLASS CROUTE,0,3e区,0.0,0.0,0.0
+其他美食,Le Jardin du Bambou,Le Jardin du Bambou,0,3e区,0.0,0.0,0.0
+其他美食,Le P'tit Bouchon,Le P'tit Bouchon,0,3e区,0.0,0.0,0.0
+其他美食,Le Morgon,Le Morgon,0,3e区,0.0,0.0,0.0
+其他美食,Le Crayon,Le Crayon,0,3e区,0.0,0.0,0.0
+其他美食,Chez Eux,Chez Eux,0,3e区,0.0,0.0,0.0
+其他美食,Les Marionnettes,Les Marionnettes,0,5e区,0.0,0.0,0.0
+其他美食,Les Caprices de Sophie,Les Caprices de Sophie,0,5e区,0.0,0.0,0.0
+其他美食,Restaurant Peshawar,Restaurant Peshawar,0,5e区,0.0,0.0,0.0
+其他美食,Jasmin Garden,Jasmin Garden,0,5e区,0.0,0.0,0.0
+其他美食,Hong Ha,Hong Ha,0,5e区,0.0,0.0,0.0
+其他美食,Les Fleurs du malt le Bar,Les Fleurs du malt le Bar,0,5e区,0.0,0.0,0.0
+其他美食,Chez Jules Boulangerie,Chez Jules Boulangerie,0,5e区,0.0,0.0,0.0
+其他美食,Japontori,Japontori,0,6e区,0.0,0.0,0.0
+其他美食,Cheres cousines,Cheres cousines,0,6e区,0.0,0.0,0.0
+其他美食,Oncle Dik,Oncle Dik,0,6e区,0.0,0.0,0.0
+其他美食,Le Dragon Celeste,Le Dragon Celeste,0,6e区,0.0,0.0,0.0
+其他美食,L'Inattendu,L'Inattendu,0,6e区,0.0,0.0,0.0
+其他美食,Le Trocadero,Le Trocadero,0,6e区,0.0,0.0,0.0
+其他美食,Restaurant Cazenove,Restaurant Cazenove,0,6e区,0.0,0.0,0.0
+其他美食,Andre Melkonyan,Andre Melkonyan,0,6e区,0.0,0.0,0.0
+其他美食,Le Second Souffle,Le Second Souffle,0,1e区,0.0,0.0,0.0
+其他美食,cafe des confederations,cafe des confederations,0,1e区,0.0,0.0,0.0
+其他美食,Le Garet,Le Garet,0,1e区,0.0,0.0,0.0
+其他美食,L'Arc en Ciel,L'Arc en Ciel,0,1e区,0.0,0.0,0.0
+其他美食,La Table D'Hippolyte,La Table D'Hippolyte,0,1e区,0.0,0.0,0.0
+其他美食,No & Compagnie,No & Compagnie,0,1e区,0.0,0.0,0.0
+其他美食,Le potager des halles,Le potager des halles,0,1e区,0.0,0.0,0.0
+其他美食,Le Bouchon de l'Opera,Le Bouchon de l'Opera,0,1e区,0.0,0.0,0.0
+其他美食,Laureline's Corner Cakes-Cupcakes a Lyon,Laureline's Corner Cakes-Cupcakes a Lyon,0,1e区,0.0,0.0,0.0
+其他美食,les feuillants,les feuillants,0,1e区,0.0,0.0,0.0
+其他美食,Cafe Mokxa - La Boite A Cafe,Cafe Mokxa - La Boite A Cafe,0,1e区,0.0,0.0,0.0
+其他美食,La Mangue Amere,La Mangue Amere,0,1e区,0.0,0.0,0.0
+其他美食,Apsara,Apsara,0,7e区,0.0,0.0,0.0
+其他美食,L'Echalote,L'Echalote,0,7e区,0.0,0.0,0.0
+其他美食,Le Chevreul,Le Chevreul,0,7e区,0.0,0.0,0.0
+其他美食,Wasabi,Wasabi,0,7e区,0.0,0.0,0.0
+其他美食,Bouillet,Bouillet,0,4e区,0.0,0.0,0.0
+其他美食,Itadaki,Itadaki,0,4e区,0.0,0.0,0.0
+其他美食,Le Substrat,Le Substrat,0,4e区,0.0,0.0,0.0
+其他美食,Le Delta,Le Delta,0,9e区,0.0,0.0,0.0
+其他美食,John Rosiak,John Rosiak,0,9e区,0.0,0.0,0.0
+其他美食,Bollywood Tandoor,Bollywood Tandoor,0,里昂其他,0.0,0.0,0.0
+其他美食,Villa Dei Cesari,Villa Dei Cesari,0,里昂其他,0.0,0.0,0.0
+其他美食,Rizpai,Rizpai,0,里昂其他,0.0,0.0,0.0
+其他美食,Pizz'Appel,Pizz'Appel,0,里昂其他,0.0,0.0,0.0
+其他美食,les terrasses d'alex,les terrasses d'alex,0,里昂其他,0.0,0.0,0.0
+其他美食,Piazza Italia,Piazza Italia,0,里昂其他,0.0,0.0,0.0
+其他美食,La Storia Nostra,La Storia Nostra,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Rive Droite,Le Rive Droite,0,里昂其他,0.0,0.0,0.0
+其他美食,L'appart 68,L'appart 68,0,里昂其他,0.0,0.0,0.0
+其他美食,LA TERRASSE DE L'ANTIQUAILLE,LA TERRASSE DE L'ANTIQUAILLE,0,,0.0,0.0,0.0
+其他美食,THE HAPPY TIMES,THE HAPPY TIMES,0,,0.0,0.0,0.0
+其他美食,THE SALMON SHOP,THE SALMON SHOP,0,,0.0,0.0,0.0
+其他美食,ARGENSON,ARGENSON,0,,0.0,0.0,0.0
+其他美食,APPELEZ-MOI ROSE,APPELEZ-MOI ROSE,0,,0.0,0.0,0.0
+其他美食,LE MONT LIBAN,LE MONT LIBAN,0,,0.0,0.0,0.0
+其他美食,BATEAU BELLONA,BATEAU BELLONA,0,,0.0,0.0,0.0
+其他美食,L'ESPRIT BISTROT GARIBALDI,L'ESPRIT BISTROT GARIBALDI,0,,0.0,0.0,0.0
+其他美食,L'HARMONIE DES VINS,L'HARMONIE DES VINS,0,,0.0,0.0,0.0
+其他美食,TOUT LE MONDE à TABLE,TOUT LE MONDE à TABLE,0,,0.0,0.0,0.0
+其他美食,Brasserie de la Cite Internationale,Brasserie de la Cite Internationale,0,6e区,0.0,0.0,0.0
+其他美食,L'Equinoxe,L'Equinoxe,0,9e区,0.0,0.0,0.0
+其他美食,La Grange de Saint Jean,La Grange de Saint Jean,0,5e区,0.0,0.0,0.0
+其他美食,Minanee,Minanee,0,1e区,0.0,0.0,0.0
+其他美食,Restaurant Kyriad,Restaurant Kyriad,0,里昂其他,0.0,0.0,0.0
+其他美食,Cote Jardin,Cote Jardin,0,3e区,0.0,0.0,0.0
+其他美食,Le Petit Glouton,Le Petit Glouton,0,5e区,0.0,0.0,0.0
+其他美食,Le Caveau,Le Caveau,0,里昂其他,0.0,0.0,0.0
+其他美食,Moody's Dinner Club,Moody's Dinner Club,0,里昂其他,0.0,0.0,0.0
+其他美食,L'Epicerie,L'Epicerie,0,里昂其他,0.0,0.0,0.0
+其他美食,Engimono,Engimono,0,里昂其他,0.0,0.0,0.0
+其他美食,Alto Gusto,Alto Gusto,0,2e区,0.0,0.0,0.0
+其他美食,Rem's,Rem's,0,2e区,0.0,0.0,0.0
+其他美食,Bistro Boeuf,Bistro Boeuf,0,2e区,0.0,0.0,0.0
+其他美食,Restaurant des Iles,Restaurant des Iles,0,2e区,0.0,0.0,0.0
+其他美食,Au Vilain Petit Canard,Au Vilain Petit Canard,0,2e区,0.0,0.0,0.0
+其他美食,Restaurant Thomas,Restaurant Thomas,0,2e区,0.0,0.0,0.0
+其他美食,Cafe Mademoiselle,Cafe Mademoiselle,0,2e区,0.0,0.0,0.0
+其他美食,Cafe Comptoir Abel,Cafe Comptoir Abel,0,2e区,0.0,0.0,0.0
+其他美食,Raconte-moi la Terre,Raconte-moi la Terre,0,2e区,0.0,0.0,0.0
+其他美食,L'Institut,L'Institut,0,2e区,0.0,0.0,0.0
+其他美食,L'Hostel,L'Hostel,0,2e区,0.0,0.0,0.0
+其他美食,L'Acteur,L'Acteur,0,2e区,0.0,0.0,0.0
+其他美食,Detends-Toi,Detends-Toi,0,2e区,0.0,0.0,0.0
+其他美食,1Solites Cafe,1Solites Cafe,0,2e区,0.0,0.0,0.0
+其他美食,L'Epicerie,L'Epicerie,0,2e区,0.0,0.0,0.0
+其他美食,Cuisine et Dependance,Cuisine et Dependance,0,2e区,0.0,0.0,0.0
+其他美食,Jols Saint Antoine,Jols Saint Antoine,0,2e区,0.0,0.0,0.0
+其他美食,KOM A LA MEZON,KOM A LA MEZON,0,2e区,0.0,0.0,0.0
+其他美食,Le Stepharo,Le Stepharo,0,2e区,0.0,0.0,0.0
+其他美食,King Marcel,King Marcel,0,2e区,0.0,0.0,0.0
+其他美食,L'Aile ou la Cuisse,L'Aile ou la Cuisse,0,2e区,0.0,0.0,0.0
+其他美食,Comptoir de la Bourse,Comptoir de la Bourse,0,2e区,0.0,0.0,0.0
+其他美食,Le Genova,Le Genova,0,3e区,0.0,0.0,0.0
+其他美食,Bar le Sherrington,Bar le Sherrington,0,3e区,0.0,0.0,0.0
+其他美食,P4,P4,0,3e区,0.0,0.0,0.0
+其他美食,Chez Thibault,Chez Thibault,0,3e区,0.0,0.0,0.0
+其他美食,A la Guill'on dine,A la Guill'on dine,0,3e区,0.0,0.0,0.0
+其他美食,Donatella,Donatella,0,3e区,0.0,0.0,0.0
+其他美食,Gasikara,Gasikara,0,3e区,0.0,0.0,0.0
+其他美食,L.S. Le Baraban,L.S. Le Baraban,0,3e区,0.0,0.0,0.0
+其他美食,de l'autre cote du pont,de l'autre cote du pont,0,3e区,0.0,0.0,0.0
+其他美食,A vos papilles,A vos papilles,0,3e区,0.0,0.0,0.0
+其他美食,Les Garcons Bouchers,Les Garcons Bouchers,0,3e区,0.0,0.0,0.0
+其他美食,Pizz'Appel,Pizz'Appel,0,3e区,0.0,0.0,0.0
+其他美食,Scarol'ine,Scarol'ine,0,3e区,0.0,0.0,0.0
+其他美食,Le Fennec,Le Fennec,0,3e区,0.0,0.0,0.0
+其他美食,A ma Vigne,A ma Vigne,0,3e区,0.0,0.0,0.0
+其他美食,Coq Sandwich,Coq Sandwich,0,3e区,0.0,0.0,0.0
+其他美食,Le Bistroteur,Le Bistroteur,0,3e区,0.0,0.0,0.0
+其他美食,Autour du Monde,Autour du Monde,0,3e区,0.0,0.0,0.0
+其他美食,Si...Pres,Si...Pres,0,3e区,0.0,0.0,0.0
+其他美食,El Chiringuito,El Chiringuito,0,3e区,0.0,0.0,0.0
+其他美食,"Saladbar green is better, Lyon","Saladbar green is better, Lyon",0,3e区,0.0,0.0,0.0
+其他美食,Le Zanzibar,Le Zanzibar,0,3e区,0.0,0.0,0.0
+其他美食,Le Val d'Isere,Le Val d'Isere,0,3e区,0.0,0.0,0.0
+其他美食,Star Ferry,Star Ferry,0,3e区,0.0,0.0,0.0
+其他美食,Ristorante Chez Maurizio,Ristorante Chez Maurizio,0,5e区,0.0,0.0,0.0
+其他美食,La Morille,La Morille,0,5e区,0.0,0.0,0.0
+其他美食,Epate-Moi,Epate-Moi,0,5e区,0.0,0.0,0.0
+其他美食,Le Cafe-Epicerie,Le Cafe-Epicerie,0,5e区,0.0,0.0,0.0
+其他美食,L'Eau Salee,L'Eau Salee,0,5e区,0.0,0.0,0.0
+其他美食,Le Comptoir du Boeuf,Le Comptoir du Boeuf,0,5e区,0.0,0.0,0.0
+其他美食,Sol cafe,Sol cafe,0,5e区,0.0,0.0,0.0
+其他美食,Mexico Lindo,Mexico Lindo,0,5e区,0.0,0.0,0.0
+其他美食,Maitre Boeuf,Maitre Boeuf,0,5e区,0.0,0.0,0.0
+其他美食,Le Cabaretier,Le Cabaretier,0,5e区,0.0,0.0,0.0
+其他美食,Les Berthom,Les Berthom,0,5e区,0.0,0.0,0.0
+其他美食,Wallace,Wallace,0,5e区,0.0,0.0,0.0
+其他美食,Le Contretete,Le Contretete,0,5e区,0.0,0.0,0.0
+其他美食,Carpe Diem,Carpe Diem,0,6e区,0.0,0.0,0.0
+其他美食,Restaurant Lale,Restaurant Lale,0,6e区,0.0,0.0,0.0
+其他美食,Le Panda,Le Panda,0,6e区,0.0,0.0,0.0
+其他美食,Bugeautin Le,Bugeautin Le,0,6e区,0.0,0.0,0.0
+其他美食,V.Bar,V.Bar,0,6e区,0.0,0.0,0.0
+其他美食,La Table De Celine,La Table De Celine,0,6e区,0.0,0.0,0.0
+其他美食,Georges Blanc,Georges Blanc,0,6e区,0.0,0.0,0.0
+其他美食,Le Bouchon des Antiquaires,Le Bouchon des Antiquaires,0,6e区,0.0,0.0,0.0
+其他美食,Sarl Himawari Yang,Sarl Himawari Yang,0,6e区,0.0,0.0,0.0
+其他美食,CHEZ THOMAS,CHEZ THOMAS,0,6e区,0.0,0.0,0.0
+其他美食,La Louve Romaine,La Louve Romaine,0,6e区,0.0,0.0,0.0
+其他美食,B.Bleu,B.Bleu,0,6e区,0.0,0.0,0.0
+其他美食,Printemps Le,Printemps Le,0,6e区,0.0,0.0,0.0
+其他美食,le Dekale,le Dekale,0,6e区,0.0,0.0,0.0
+其他美食,Le Paddock,Le Paddock,0,6e区,0.0,0.0,0.0
+其他美食,President Le,President Le,0,6e区,0.0,0.0,0.0
+其他美食,Butcherbrother,Butcherbrother,0,1e区,0.0,0.0,0.0
+其他美食,Mamma,Mamma,0,1e区,0.0,0.0,0.0
+其他美食,Restaurant Alyssaar Syrien,Restaurant Alyssaar Syrien,0,1e区,0.0,0.0,0.0
+其他美食,Goman Etsu,Goman Etsu,0,1e区,0.0,0.0,0.0
+其他美食,Magali et Martin,Magali et Martin,0,1e区,0.0,0.0,0.0
+其他美食,L'antiquaire,L'antiquaire,0,1e区,0.0,0.0,0.0
+其他美食,l'escale des saveurs,l'escale des saveurs,0,1e区,0.0,0.0,0.0
+其他美食,La Gratinee,La Gratinee,0,1e区,0.0,0.0,0.0
+其他美食,Les Filaos,Les Filaos,0,1e区,0.0,0.0,0.0
+其他美食,Les Chats Siamois,Les Chats Siamois,0,1e区,0.0,0.0,0.0
+其他美食,Le Z,Le Z,0,1e区,0.0,0.0,0.0
+其他美食,La Boname de Bruno,La Boname de Bruno,0,1e区,0.0,0.0,0.0
+其他美食,Demoiselles de Rochefort,Demoiselles de Rochefort,0,1e区,0.0,0.0,0.0
+其他美食,La Belle Equipe,La Belle Equipe,0,1e区,0.0,0.0,0.0
+其他美食,Le Venezia,Le Venezia,0,7e区,0.0,0.0,0.0
+其他美食,Jols,Jols,0,7e区,0.0,0.0,0.0
+其他美食,Fabrice Moya,Fabrice Moya,0,7e区,0.0,0.0,0.0
+其他美食,Casa Flavio,Casa Flavio,0,7e区,0.0,0.0,0.0
+其他美食,Mezo Mada,Mezo Mada,0,4e区,0.0,0.0,0.0
+其他美食,Le Cinoche,Le Cinoche,0,4e区,0.0,0.0,0.0
+其他美食,restaurant la bodeguita cubana,restaurant la bodeguita cubana,0,4e区,0.0,0.0,0.0
+其他美食,le verre et l'assiette,le verre et l'assiette,0,9e区,0.0,0.0,0.0
+其他美食,Le Carnel,Le Carnel,0,8e区,0.0,0.0,0.0
+其他美食,Street Fast Food,Street Fast Food,0,8e区,0.0,0.0,0.0
+其他美食,Le Fleurie,Le Fleurie,0,8e区,0.0,0.0,0.0
+其他美食,Arome Sandwicherie,Arome Sandwicherie,0,里昂其他,0.0,0.0,0.0
+其他美食,Caffe milano,Caffe milano,0,里昂其他,0.0,0.0,0.0
+其他美食,La Caselina,La Caselina,0,里昂其他,0.0,0.0,0.0
+其他美食,Indian Prince,Indian Prince,0,里昂其他,0.0,0.0,0.0
+其他美食,Anticipation,Anticipation,0,里昂其他,0.0,0.0,0.0
+其他美食,Star,Star,0,里昂其他,0.0,0.0,0.0
+其他美食,La Rose Rouge,La Rose Rouge,0,里昂其他,0.0,0.0,0.0
+其他美食,Cafe 9,Cafe 9,0,里昂其他,0.0,0.0,0.0
+其他美食,Mykonos,Mykonos,0,里昂其他,0.0,0.0,0.0
+其他美食,"LA BRUNOISE 4, Rue Alexandre Boutin","LA BRUNOISE 4, Rue Alexandre Boutin",0,里昂其他,0.0,0.0,0.0
+其他美食,Akdeniz,Akdeniz,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Don Camillo,Le Don Camillo,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Maolli,Le Maolli,0,里昂其他,0.0,0.0,0.0
+其他美食,Restaurant du Chateau de la Tour de Salvagny,Restaurant du Chateau de la Tour de Salvagny,0,里昂其他,0.0,0.0,0.0
+其他美食,Brasserie Rosa Parks,Brasserie Rosa Parks,0,里昂其他,0.0,0.0,0.0
+其他美食,Le 21 sur vin,Le 21 sur vin,0,里昂其他,0.0,0.0,0.0
+其他美食,LE LAFAYETTE,LE LAFAYETTE,0,,0.0,0.0,0.0
+其他美食,LE MONDRIAN,LE MONDRIAN,0,,0.0,0.0,0.0
+其他美食,TOUTES LES COULEURS,TOUTES LES COULEURS,0,,0.0,0.0,0.0
+其他美食,CAFE MULLER,CAFE MULLER,0,,0.0,0.0,0.0
+其他美食,NAMDO,NAMDO,0,,0.0,0.0,0.0
+其他美食,LE POMPEI,LE POMPEI,0,,0.0,0.0,0.0
+其他美食,LE JARDIN INTéRIEUR,LE JARDIN INTéRIEUR,0,,0.0,0.0,0.0
+其他美食,BAR RESTAURANT FLORA,BAR RESTAURANT FLORA,0,,0.0,0.0,0.0
+其他美食,LE PETIT GADIN,LE PETIT GADIN,0,,0.0,0.0,0.0
+其他美食,LE LIBAN VERT,LE LIBAN VERT,0,,0.0,0.0,0.0
+其他美食,CAFé CHANTECLER,CAFé CHANTECLER,0,,0.0,0.0,0.0
+其他美食,STREET ART,STREET ART,0,,0.0,0.0,0.0
+其他美食,MY SOIRéE,MY SOIRéE,0,,0.0,0.0,0.0
+其他美食,VAL CITY,VAL CITY,0,,0.0,0.0,0.0
+其他美食,IBIZA CAFé,IBIZA CAFé,0,,0.0,0.0,0.0
+其他美食,SHACK BBQ,SHACK BBQ,0,,0.0,0.0,0.0
+其他美食,L'ATTRAPE-COEURS,L'ATTRAPE-COEURS,0,,0.0,0.0,0.0
+其他美食,BISTROT RIVE GAUCHE,BISTROT RIVE GAUCHE,0,,0.0,0.0,0.0
+其他美食,L'ACTE 1,L'ACTE 1,0,,0.0,0.0,0.0
+其他美食,LE BOUCHON DE VAISE,LE BOUCHON DE VAISE,0,,0.0,0.0,0.0
+其他美食,Le Pain de la Cite,Le Pain de la Cite,0,里昂其他,0.0,0.0,0.0
+其他美食,Les Domaines Qui Montent,Les Domaines Qui Montent,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Melise,Le Melise,0,里昂其他,0.0,0.0,0.0
+其他美食,Pralus,Pralus,0,里昂其他,0.0,0.0,0.0
+其他美食,Angelina,Angelina,0,里昂其他,0.0,0.0,0.0
+其他美食,Maison Saveur Restaurant,Maison Saveur Restaurant,0,里昂其他,0.0,0.0,0.0
+其他美食,Deux Filles en Cusine,Deux Filles en Cusine,0,里昂其他,0.0,0.0,0.0
+其他美食,Frites Alors,Frites Alors,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Bistrot du Boulevard,Le Bistrot du Boulevard,0,里昂其他,0.0,0.0,0.0
+其他美食,Rue le Bec,Rue le Bec,0,2e区,0.0,0.0,0.0
+其他美食,Le Garde Manger Cafe,Le Garde Manger Cafe,0,2e区,0.0,0.0,0.0
+其他美食,Le Conde,Le Conde,0,2e区,0.0,0.0,0.0
+其他美食,La Brioche Doree,La Brioche Doree,0,2e区,0.0,0.0,0.0
+其他美食,Bagelstein,Bagelstein,0,2e区,0.0,0.0,0.0
+其他美食,Aux Trois Cochons - Le Pere Fillion,Aux Trois Cochons - Le Pere Fillion,0,2e区,0.0,0.0,0.0
+其他美食,Eden Rock,Eden Rock,0,2e区,0.0,0.0,0.0
+其他美食,Le Bouchon Lustre,Le Bouchon Lustre,0,2e区,0.0,0.0,0.0
+其他美食,Du Cote de Chez Xane,Du Cote de Chez Xane,0,2e区,0.0,0.0,0.0
+其他美食,Cafe du Marche,Cafe du Marche,0,2e区,0.0,0.0,0.0
+其他美食,Little Italy,Little Italy,0,2e区,0.0,0.0,0.0
+其他美食,Lolo Quoi,Lolo Quoi,0,2e区,0.0,0.0,0.0
+其他美食,Les Gamineries,Les Gamineries,0,2e区,0.0,0.0,0.0
+其他美食,La Bourse,La Bourse,0,2e区,0.0,0.0,0.0
+其他美食,Le Rockefeller,Le Rockefeller,0,3e区,0.0,0.0,0.0
+其他美食,Zagros,Zagros,0,3e区,0.0,0.0,0.0
+其他美食,Maison Charrie,Maison Charrie,0,3e区,0.0,0.0,0.0
+其他美食,Bernaldaise La,Bernaldaise La,0,3e区,0.0,0.0,0.0
+其他美食,La brasserie du Palais,La brasserie du Palais,0,3e区,0.0,0.0,0.0
+其他美食,La Fonda,La Fonda,0,5e区,0.0,0.0,0.0
+其他美食,Daniel Et Denise,Daniel Et Denise,0,5e区,0.0,0.0,0.0
+其他美食,Le Laurencin,Le Laurencin,0,5e区,0.0,0.0,0.0
+其他美食,Le Balladin,Le Balladin,0,5e区,0.0,0.0,0.0
+其他美食,Katmandou,Katmandou,0,5e区,0.0,0.0,0.0
+其他美食,Passionnement Truffes,Passionnement Truffes,0,6e区,0.0,0.0,0.0
+其他美食,Le Sixieme,Le Sixieme,0,6e区,0.0,0.0,0.0
+其他美食,Label Hélène,Label Hélène,0,6e区,0.0,0.0,0.0
+其他美食,Les Intimes,Les Intimes,0,6e区,0.0,0.0,0.0
+其他美食,Le Mogador,Le Mogador,0,6e区,0.0,0.0,0.0
+其他美食,Pepperoni,Pepperoni,0,6e区,0.0,0.0,0.0
+其他美食,Risto Casareccio,Risto Casareccio,0,6e区,0.0,0.0,0.0
+其他美食,Steff,Steff,0,6e区,0.0,0.0,0.0
+其他美食,El Tex-Mex,El Tex-Mex,0,1e区,0.0,0.0,0.0
+其他美食,Les Muses De L'Opera,Les Muses De L'Opera,0,1e区,0.0,0.0,0.0
+其他美食,Le Falafel,Le Falafel,0,1e区,0.0,0.0,0.0
+其他美食,Carnegie Hall,Carnegie Hall,0,7e区,0.0,0.0,0.0
+其他美食,A KGB Cercle Souping,A KGB Cercle Souping,0,7e区,0.0,0.0,0.0
+其他美食,Cafe Chanteclerc,Cafe Chanteclerc,0,4e区,0.0,0.0,0.0
+其他美食,Grand Cafe de la Soierie,Grand Cafe de la Soierie,0,4e区,0.0,0.0,0.0
+其他美食,L'Assiette du Marche,L'Assiette du Marche,0,9e区,0.0,0.0,0.0
+其他美食,La Cour des Miracles,La Cour des Miracles,0,9e区,0.0,0.0,0.0
+其他美食,Bartavelle La,Bartavelle La,0,里昂其他,0.0,0.0,0.0
+其他美食,Les Berges,Les Berges,0,里昂其他,0.0,0.0,0.0
+其他美食,Chez Paolino,Chez Paolino,0,里昂其他,0.0,0.0,0.0
+其他美食,La Bellecolombe,La Bellecolombe,0,里昂其他,0.0,0.0,0.0
+其他美食,Le 109 restaurant,Le 109 restaurant,0,里昂其他,0.0,0.0,0.0
+其他美食,Fee Maison,Fee Maison,0,里昂其他,0.0,0.0,0.0
+其他美食,Brasserie Le Kleber,Brasserie Le Kleber,0,里昂其他,0.0,0.0,0.0
+其他美食,LA BILLEBAUDE,LA BILLEBAUDE,0,,0.0,0.0,0.0
+其他美食,SUN'S CAFé,SUN'S CAFé,0,,0.0,0.0,0.0
+其他美食,LE PETIT REGAL,LE PETIT REGAL,0,,0.0,0.0,0.0
+其他美食,LA PARENTHESE,LA PARENTHESE,0,,0.0,0.0,0.0
+其他美食,BISTROT DE LA TOUR,BISTROT DE LA TOUR,0,,0.0,0.0,0.0
+其他美食,BELLOTA-BELLOTA® LYON,BELLOTA-BELLOTA® LYON,0,,0.0,0.0,0.0
+其他美食,L'éLéMENTAIRE,L'éLéMENTAIRE,0,,0.0,0.0,0.0
+其他美食,LE CHAUDRON DES GONES,LE CHAUDRON DES GONES,0,,0.0,0.0,0.0
+其他美食,TOYA,TOYA,0,,0.0,0.0,0.0
+其他美食,LE GANATHAIN,LE GANATHAIN,0,,0.0,0.0,0.0
+其他美食,MYRELINGUES,MYRELINGUES,0,,0.0,0.0,0.0
+其他美食,DIONYSOS,DIONYSOS,0,,0.0,0.0,0.0
+其他美食,LE CHATEL,LE CHATEL,0,,0.0,0.0,0.0
+其他美食,LE CANARD LAQUE,LE CANARD LAQUE,0,,0.0,0.0,0.0
+其他美食,LE SAINT LAURENT,LE SAINT LAURENT,0,,0.0,0.0,0.0
+其他美食,LE COMPTOIR DE LA PIZZA,LE COMPTOIR DE LA PIZZA,0,,0.0,0.0,0.0
+其他美食,MS PIZZA,MS PIZZA,0,,0.0,0.0,0.0
+其他美食,LE BISTROT D'A CôTé,LE BISTROT D'A CôTé,0,,0.0,0.0,0.0
+其他美食,AU 240,AU 240,0,,0.0,0.0,0.0
+其他美食,TIME PIZZA,TIME PIZZA,0,,0.0,0.0,0.0
+其他美食,CHRONO PIZZA,CHRONO PIZZA,0,,0.0,0.0,0.0
+其他美食,A LA BELLE EPOQUE,A LA BELLE EPOQUE,0,,0.0,0.0,0.0
+其他美食,LE NIEUPORT,LE NIEUPORT,0,,0.0,0.0,0.0
+其他美食,LE CAP,LE CAP,0,,0.0,0.0,0.0
+其他美食,TOUTANCANON,TOUTANCANON,0,,0.0,0.0,0.0
+其他美食,LITTLE ITALY,LITTLE ITALY,0,,0.0,0.0,0.0
+其他美食,CAFé RESTAURANT L'ESCAPADE,CAFé RESTAURANT L'ESCAPADE,0,,0.0,0.0,0.0
+其他美食,LE TANDEM,LE TANDEM,0,,0.0,0.0,0.0
+其他美食,LES GARçONS CHASSEURS,LES GARçONS CHASSEURS,0,,0.0,0.0,0.0
+其他美食,WANTHITA THAI STREET FOOD,WANTHITA THAI STREET FOOD,0,,0.0,0.0,0.0
+其他美食,LE BOUCHON SULLY,LE BOUCHON SULLY,0,,0.0,0.0,0.0
+其他美食,ALLO-PIZZA LYON 4,ALLO-PIZZA LYON 4,0,,0.0,0.0,0.0
+其他美食,PIZZERIA IL FICO,PIZZERIA IL FICO,0,,0.0,0.0,0.0
+其他美食,LE DUPLEX,LE DUPLEX,0,,0.0,0.0,0.0
+其他美食,RECTO VERSO,RECTO VERSO,0,,0.0,0.0,0.0
+其他美食,LA MAMA S&AMP;I,LA MAMA S&AMP;I,0,,0.0,0.0,0.0
+其他美食,LE JEU DE QUILLES,LE JEU DE QUILLES,0,,0.0,0.0,0.0
+其他美食,RESTAURANT PRAIRIAL,RESTAURANT PRAIRIAL,0,,0.0,0.0,0.0
+其他美食,ZINC ZINC,ZINC ZINC,0,,0.0,0.0,0.0
+其他美食,VAPIANO LYON GERLAND,VAPIANO LYON GERLAND,0,,0.0,0.0,0.0
+其他美食,LE 110 VINS,LE 110 VINS,0,,0.0,0.0,0.0
+其他美食,LA PETITE MAISON THAï,LA PETITE MAISON THAï,0,,0.0,0.0,0.0
+其他美食,AUX DéLICES DE JADE,AUX DéLICES DE JADE,0,,0.0,0.0,0.0
+其他美食,PIZZA'PENTES,PIZZA'PENTES,0,,0.0,0.0,0.0
+其他美食,Rambaud Nautic Chez Francis,Rambaud Nautic Chez Francis,0,2e区,0.0,0.0,0.0
+其他美食,Autogrill,Autogrill,0,2e区,0.0,0.0,0.0
+其他美食,Le Piccadilly,Le Piccadilly,0,2e区,0.0,0.0,0.0
+其他美食,Mama'caroni,Mama'caroni,0,2e区,0.0,0.0,0.0
+其他美食,A la Peche aux Moules,A la Peche aux Moules,0,2e区,0.0,0.0,0.0
+其他美食,Mister Patate,Mister Patate,0,2e区,0.0,0.0,0.0
+其他美食,Hippopotamus,Hippopotamus,0,2e区,0.0,0.0,0.0
+其他美食,Cafe Perl,Cafe Perl,0,2e区,0.0,0.0,0.0
+其他美食,Les Lyonnais Celestins,Les Lyonnais Celestins,0,2e区,0.0,0.0,0.0
+其他美食,Houblonnerie La,Houblonnerie La,0,2e区,0.0,0.0,0.0
+其他美食,La Route des Pates,La Route des Pates,0,2e区,0.0,0.0,0.0
+其他美食,Les Enfants Terribles,Les Enfants Terribles,0,2e区,0.0,0.0,0.0
+其他美食,Eat Sushi,Eat Sushi,0,2e区,0.0,0.0,0.0
+其他美食,Suelta Verde,Suelta Verde,0,2e区,0.0,0.0,0.0
+其他美食,Restaurant Le Saint Joseph,Restaurant Le Saint Joseph,0,2e区,0.0,0.0,0.0
+其他美食,Hippopotamus,Hippopotamus,0,2e区,0.0,0.0,0.0
+其他美食,Planet Sushi Lyon,Planet Sushi Lyon,0,2e区,0.0,0.0,0.0
+其他美食,quartz,quartz,0,2e区,0.0,0.0,0.0
+其他美食,Le Temps d'une Pause,Le Temps d'une Pause,0,3e区,0.0,0.0,0.0
+其他美食,Le Maryse Bastie,Le Maryse Bastie,0,3e区,0.0,0.0,0.0
+其他美食,Le Ravel,Le Ravel,0,3e区,0.0,0.0,0.0
+其他美食,La Table Exotique LYON,La Table Exotique LYON,0,3e区,0.0,0.0,0.0
+其他美食,Restaurant Mosaique,Restaurant Mosaique,0,3e区,0.0,0.0,0.0
+其他美食,Le Ferber,Le Ferber,0,3e区,0.0,0.0,0.0
+其他美食,Ciel Ouvert,Ciel Ouvert,0,3e区,0.0,0.0,0.0
+其他美食,La Luna,La Luna,0,3e区,0.0,0.0,0.0
+其他美食,Les Dunes,Les Dunes,0,3e区,0.0,0.0,0.0
+其他美食,Ninkasi Guillotiere,Ninkasi Guillotiere,0,3e区,0.0,0.0,0.0
+其他美食,Brasserie Le Sapristi,Brasserie Le Sapristi,0,3e区,0.0,0.0,0.0
+其他美食,L'aristo bar,L'aristo bar,0,3e区,0.0,0.0,0.0
+其他美食,Autogrill,Autogrill,0,3e区,0.0,0.0,0.0
+其他美食,Pepperoni,Pepperoni,0,3e区,0.0,0.0,0.0
+其他美食,River Boat,River Boat,0,3e区,0.0,0.0,0.0
+其他美食,Veneziano,Veneziano,0,5e区,0.0,0.0,0.0
+其他美食,Testa d'Oca,Testa d'Oca,0,5e区,0.0,0.0,0.0
+其他美食,Le Phosphore,Le Phosphore,0,5e区,0.0,0.0,0.0
+其他美食,Le Refuge,Le Refuge,0,5e区,0.0,0.0,0.0
+其他美食,Quand les Poules auronts des Dents,Quand les Poules auronts des Dents,0,5e区,0.0,0.0,0.0
+其他美食,Teppan Yaki,Teppan Yaki,0,5e区,0.0,0.0,0.0
+其他美食,Le Rocambole,Le Rocambole,0,5e区,0.0,0.0,0.0
+其他美食,La Carretta,La Carretta,0,5e区,0.0,0.0,0.0
+其他美食,Baduila,Baduila,0,5e区,0.0,0.0,0.0
+其他美食,Papagayo Le,Papagayo Le,0,5e区,0.0,0.0,0.0
+其他美食,Le 15,Le 15,0,6e区,0.0,0.0,0.0
+其他美食,Le Ravi,Le Ravi,0,6e区,0.0,0.0,0.0
+其他美食,Le Damier Des Brotteaux,Le Damier Des Brotteaux,0,6e区,0.0,0.0,0.0
+其他美食,Terrazzura,Terrazzura,0,6e区,0.0,0.0,0.0
+其他美食,7 Neuf Cafe,7 Neuf Cafe,0,1e区,0.0,0.0,0.0
+其他美食,L'Ocean,L'Ocean,0,1e区,0.0,0.0,0.0
+其他美食,Dominotier Le,Dominotier Le,0,1e区,0.0,0.0,0.0
+其他美食,Le Summertime,Le Summertime,0,1e区,0.0,0.0,0.0
+其他美食,L'Opus,L'Opus,0,1e区,0.0,0.0,0.0
+其他美食,Moulin Joli Brasserie Hotel de Ville,Moulin Joli Brasserie Hotel de Ville,0,1e区,0.0,0.0,0.0
+其他美食,L'Anda'Luz,L'Anda'Luz,0,1e区,0.0,0.0,0.0
+其他美食,la luz,la luz,0,1e区,0.0,0.0,0.0
+其他美食,Buddy Burd,Buddy Burd,0,1e区,0.0,0.0,0.0
+其他美食,Brasserie du Parc de Gerland,Brasserie du Parc de Gerland,0,7e区,0.0,0.0,0.0
+其他美食,Ninkasi Gerland,Ninkasi Gerland,0,7e区,0.0,0.0,0.0
+其他美食,LA PATATERIE,LA PATATERIE,0,7e区,0.0,0.0,0.0
+其他美食,France Quick SA,France Quick SA,0,7e区,0.0,0.0,0.0
+其他美食,Cafe du Gros Caillou,Cafe du Gros Caillou,0,4e区,0.0,0.0,0.0
+其他美食,Bel Canto Le,Bel Canto Le,0,4e区,0.0,0.0,0.0
+其他美食,Mimi La Praline,Mimi La Praline,0,4e区,0.0,0.0,0.0
+其他美食,Les Sales Gosses en Aparte,Les Sales Gosses en Aparte,0,9e区,0.0,0.0,0.0
+其他美食,La Playa,La Playa,0,9e区,0.0,0.0,0.0
+其他美食,Francesca,Francesca,0,9e区,0.0,0.0,0.0
+其他美食,Le Mecy,Le Mecy,0,9e区,0.0,0.0,0.0
+其他美食,Restaurant Grain de Riz,Restaurant Grain de Riz,0,9e区,0.0,0.0,0.0
+其他美食,Le Bourgogne,Le Bourgogne,0,9e区,0.0,0.0,0.0
+其他美食,Un singe en Hiver,Un singe en Hiver,0,9e区,0.0,0.0,0.0
+其他美食,Rouge Tendance,Rouge Tendance,0,8e区,0.0,0.0,0.0
+其他美食,So Brunch,So Brunch,0,里昂其他,0.0,0.0,0.0
+其他美食,Pizza Pai de La Part Dieu,Pizza Pai de La Part Dieu,0,里昂其他,0.0,0.0,0.0
+其他美食,Magenta Le,Magenta Le,0,里昂其他,0.0,0.0,0.0
+其他美食,Brasserie de la poste,Brasserie de la poste,0,里昂其他,0.0,0.0,0.0
+其他美食,La Brasserie du Theatre,La Brasserie du Theatre,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Taka,Le Taka,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Marrakech,Le Marrakech,0,里昂其他,0.0,0.0,0.0
+其他美食,Mosaik kebab,Mosaik kebab,0,里昂其他,0.0,0.0,0.0
+其他美食,La Boucle,La Boucle,0,里昂其他,0.0,0.0,0.0
+其他美食,Buldo,Buldo,0,里昂其他,0.0,0.0,0.0
+其他美食,Le Bien-Etre,Le Bien-Etre,0,里昂其他,0.0,0.0,0.0
+其他美食,Le B! Bistrot Carnot,Le B! Bistrot Carnot,0,里昂其他,0.0,0.0,0.0
+其他美食,LE TABLIER,LE TABLIER,0,,0.0,0.0,0.0
+其他美食,BRASSERIE DU SQUARE,BRASSERIE DU SQUARE,0,,0.0,0.0,0.0
+其他美食,PIZZERIA LE CHâTEAU,PIZZERIA LE CHâTEAU,0,,0.0,0.0,0.0
+其他美食,BISTROT COMOEDIA,BISTROT COMOEDIA,0,,0.0,0.0,0.0
+其他美食,LE BARYTON,LE BARYTON,0,,0.0,0.0,0.0
+其他美食,LA CRIéE,LA CRIéE,0,,0.0,0.0,0.0
+其他美食,Le Marronnier,Le Marronnier,0,2e区,0.0,0.0,0.0
+其他美食,Le Galyon,Le Galyon,0,2e区,0.0,0.0,0.0
+其他美食,Yinitial,Yinitial,0,2e区,0.0,0.0,0.0
+其他美食,Resto Pirate,Resto Pirate,0,5e区,0.0,0.0,0.0
+其他美食,Friendly Cafe,Friendly Cafe,0,1e区,0.0,0.0,0.0
+其他美食,Caban'a Cafe,Caban'a Cafe,0,7e区,0.0,0.0,0.0
+其他美食,Speed Burger,Speed Burger,0,7e区,0.0,0.0,0.0
+其他美食,LA FéE VERTE,LA FéE VERTE,0,,0.0,0.0,0.0
+其他美食,LA CANTINE DU PALAIS,LA CANTINE DU PALAIS,0,,0.0,0.0,0.0
+其他美食,LE BISTROT DE LA PASSERELLE,LE BISTROT DE LA PASSERELLE,0,,0.0,0.0,0.0
+其他美食,LA COQUETTE,LA COQUETTE,0,,0.0,0.0,0.0
+其他美食,L'OLYMPIC,L'OLYMPIC,0,,0.0,0.0,0.0
+其他美食,DOMEVA CAFFE,DOMEVA CAFFE,0,,0.0,0.0,0.0
+其他美食,LE GARAGE,LE GARAGE,0,,0.0,0.0,0.0
+其他美食,L'ALBEMARLE,L'ALBEMARLE,0,,0.0,0.0,0.0
+其他美食,BRASSERIE DES ARCADES,BRASSERIE DES ARCADES,0,,0.0,0.0,0.0
+其他美食,LE SOLEIL LEVANT,LE SOLEIL LEVANT,0,,0.0,0.0,0.0
+其他美食,LA JONQUE,LA JONQUE,0,,0.0,0.0,0.0
+其他美食,TAPAS CLUB,TAPAS CLUB,0,,0.0,0.0,0.0
+其他美食,DOMO,DOMO,0,,0.0,0.0,0.0
+其他美食,ALDO PIZZA,ALDO PIZZA,0,,0.0,0.0,0.0
+其他美食,LA BRESSANE,LA BRESSANE,0,,0.0,0.0,0.0
+其他美食,LA TABLE DE SUZANNE,LA TABLE DE SUZANNE,0,,0.0,0.0,0.0
+其他美食,GASTON RESTAURANT AGRICOLE,GASTON RESTAURANT AGRICOLE,0,,0.0,0.0,0.0
+其他美食,GNOME ET RHôNE CAFé,GNOME ET RHôNE CAFé,0,,0.0,0.0,0.0
+其他美食,CAFé LéONE,CAFé LéONE,0,,0.0,0.0,0.0
+其他美食,Bà Hà,Bà Hà,0,,0.0,0.0,0.0
+其他美食,FLEUVE BLEU,FLEUVE BLEU,0,,0.0,0.0,0.0
+其他美食,NOUVEAU PAVILLON,NOUVEAU PAVILLON,0,,0.0,0.0,0.0
+其他美食,PALAIS DU SOURIRE,PALAIS DU SOURIRE,0,,0.0,0.0,0.0
+其他美食,O CANTINHO DE PORTUGAL,O CANTINHO DE PORTUGAL,0,,0.0,0.0,0.0
+其他美食,SAYAT NOVA,SAYAT NOVA,0,,0.0,0.0,0.0
+其他美食,L'ALBARON,L'ALBARON,0,,0.0,0.0,0.0
+其他美食,LA CLéA NOA,LA CLéA NOA,0,,0.0,0.0,0.0
+其他美食,AUX 2 COLLOMBES,AUX 2 COLLOMBES,0,,0.0,0.0,0.0
+其他美食,IBIS STYLES LA PART-DIEU,IBIS STYLES LA PART-DIEU,0,,0.0,0.0,0.0
+其他美食,IBIS KITCHEN RESTAURANT,IBIS KITCHEN RESTAURANT,0,,0.0,0.0,0.0
+其他美食,CHEZ GRAND MèRE,CHEZ GRAND MèRE,0,,0.0,0.0,0.0
+其他美食,LA CANTINE DES SALES GOSSES,LA CANTINE DES SALES GOSSES,0,,0.0,0.0,0.0
+其他美食,LE WALDECK,LE WALDECK,0,,0.0,0.0,0.0
+其他美食,CAFÉ DU 7EME ART,CAFÉ DU 7EME ART,0,,0.0,0.0,0.0
+其他美食,LE FIL DES SAISONS,LE FIL DES SAISONS,0,,0.0,0.0,0.0
+其他美食,HARMONIE DES SENS,HARMONIE DES SENS,0,,0.0,0.0,0.0

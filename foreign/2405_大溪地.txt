@@ -1,0 +1,82 @@
+意大利菜,L'Api'zzeria,L'Api'zzeria,0,大溪地其他,0.0,0.0,0.0
+意大利菜,Comptoir Del Pasta,Comptoir Del Pasta,0,大溪地其他,0.0,0.0,0.0
+意大利菜,Lou Pescado,Lou Pescado,0,大溪地其他,0.0,0.0,0.0
+法国菜,Restaurant Le Sully,Restaurant Le Sully,0,大溪地其他,0.0,0.0,0.0
+法国菜,The Lotus Restaurant,The Lotus Restaurant,0,大溪地其他,0.0,0.0,0.0
+法国菜,Le Coco's,Le Coco's,0,大溪地其他,0.0,0.0,0.0
+法国菜,Le Retro,Le Retro,0,大溪地其他,0.0,0.0,0.0
+法国菜,LE CORAIL RESTAURANT,LE CORAIL RESTAURANT,0,大溪地其他,7.5,6.7,6.7
+法国菜,Au Piment Rouge,Au Piment Rouge,0,大溪地其他,0.0,0.0,0.0
+法国菜,Chez Ikofe,Chez Ikofe,0,大溪地其他,0.0,0.0,0.0
+法国菜,Le Lion d'or,Le Lion d'or,0,大溪地其他,0.0,0.0,0.0
+法国菜,La corbeille d'eau,La corbeille d'eau,0,大溪地其他,0.0,0.0,0.0
+法国菜,Charlie Chaplin Bar,Charlie Chaplin Bar,0,大溪地其他,0.0,0.0,0.0
+法国菜,Le Market Coffee,Le Market Coffee,0,大溪地其他,0.0,0.0,0.0
+法国菜,Chez Remy,Chez Remy,0,大溪地其他,0.0,0.0,0.0
+法国菜,Le Carre,Le Carre,0,,0.0,0.0,0.0
+法国菜,Blue Banana,Blue Banana,0,大溪地其他,0.0,0.0,0.0
+法国菜,Crêperie la Boule Rouge,Crêperie la Boule Rouge,0,大溪地其他,0.0,0.0,0.0
+法国菜,Star Studio,Star Studio,0,大溪地其他,0.0,0.0,0.0
+法国菜,Cote Jardin,Cote Jardin,0,大溪地其他,0.0,0.0,0.0
+法国菜,Le Montana,Le Montana,0,大溪地其他,0.0,0.0,0.0
+法国菜,Club House,Club House,0,大溪地其他,0.0,0.0,0.0
+法国菜,Le Cigalon,Le Cigalon,0,大溪地其他,0.0,0.0,0.0
+法国菜,Le Grillardin,Le Grillardin,0,大溪地其他,0.0,0.0,0.0
+法国菜,Terre-Mer,Terre-Mer,0,大溪地其他,0.0,0.0,0.0
+法国菜,Vigne en Verre,Vigne en Verre,0,大溪地其他,0.0,0.0,0.0
+法国菜,Bouchon Lyonnais,Bouchon Lyonnais,0,大溪地其他,0.0,0.0,0.0
+法国菜,Villa gourmande,Villa gourmande,0,大溪地其他,0.0,0.0,0.0
+法国菜,white.restaurant,white.restaurant,0,大溪地其他,0.0,0.0,0.0
+法国菜,White Restaurant,White Restaurant,0,大溪地其他,0.0,0.0,0.0
+其他西餐,SANDS BAR AND RESTAURANT,SANDS BAR AND RESTAURANT,0,大溪地其他,6.7,6.7,6.7
+其他西餐,REEF RESTAURANT,REEF RESTAURANT,0,大溪地其他,5.9,6.7,5.9
+其他西餐,Taumatai,Taumatai,0,大溪地其他,0.0,0.0,0.0
+其他西餐,Te Va'a Tere,Te Va'a Tere,0,大溪地其他,0.0,0.0,0.0
+其他西餐,Chez Aro,Chez Aro,0,大溪地其他,0.0,0.0,0.0
+其他西餐,CAFE VERDE,CAFE VERDE,0,大溪地其他,0.0,0.0,0.0
+其他西餐,L'escale du France,L'escale du France,0,大溪地其他,0.0,0.0,0.0
+其他西餐,Western Grill,Western Grill,0,大溪地其他,0.0,0.0,0.0
+其他西餐,La Boussole,La Boussole,0,大溪地其他,0.0,0.0,0.0
+其他西餐,La Plage de Maui,La Plage de Maui,0,大溪地其他,0.0,0.0,0.0
+其他西餐,snack christiane,snack christiane,0,大溪地其他,0.0,0.0,0.0
+其他西餐,Snack Teahupoo,Snack Teahupoo,0,大溪地其他,0.0,0.0,0.0
+其他西餐,Captain Bligh,Captain Bligh,0,大溪地其他,0.0,0.0,0.0
+中餐,snack Myriam,snack Myriam,0,大溪地其他,0.0,0.0,0.0
+中餐,Restaurant Pitate Mamao,Restaurant Pitate Mamao,0,大溪地其他,0.0,0.0,0.0
+中餐,Restaurant Jimmy,Restaurant Jimmy,0,大溪地其他,0.0,0.0,0.0
+更多亚洲菜,Shabu Zen,Shabu Zen,0,大溪地其他,0.0,0.0,0.0
+更多亚洲菜,Le Mandarin,Le Mandarin,0,大溪地其他,0.0,0.0,0.0
+快餐简餐,The Lucky House,The Lucky House,0,大溪地其他,0.0,0.0,0.0
+快餐简餐,Roulotte Titi et Vivi,Roulotte Titi et Vivi,0,大溪地其他,0.0,0.0,0.0
+烧烤,Bloody Marys,Bloody Marys,0,大溪地其他,7.5,7.5,6.8
+烧烤,Maru'Kafe,Maru'Kafe,0,大溪地其他,0.0,0.0,0.0
+比萨,Majestic pizza,Majestic pizza,0,大溪地其他,0.0,0.0,0.0
+咖啡厅,Le Cafe du Marche,Le Cafe du Marche,0,大溪地其他,0.0,0.0,0.0
+咖啡厅,Morrison's Cafe,Morrison's Cafe,0,,0.0,0.0,0.0
+面包甜点,Creperie le Margouillat,Creperie le Margouillat,0,大溪地其他,0.0,0.0,0.0
+面包甜点,Chocolatine,Chocolatine,0,大溪地其他,0.0,0.0,0.0
+面包甜点,Drink Up !,Drink Up !,0,大溪地其他,0.0,0.0,0.0
+酒吧,O 3 Filous,O 3 Filous,0,大溪地其他,0.0,0.0,0.0
+酒吧,Polynesian Bar at Le Royal Tahitien,Polynesian Bar at Le Royal Tahitien,0,大溪地其他,0.0,0.0,0.0
+酒吧,Punavai Lounge Bar,Punavai Lounge Bar,0,大溪地其他,0.0,0.0,0.0
+酒吧,Quinn’s Bar,Quinn’s Bar,0,,0.0,0.0,0.0
+酒吧,Lafayette Bar,Lafayette Bar,0,,0.0,0.0,0.0
+更多美食,Chez Loula et Remy,Chez Loula et Remy,0,大溪地其他,0.0,0.0,0.0
+更多美食,L'o a la bouche,L'o a la bouche,0,大溪地其他,0.0,0.0,0.0
+更多美食,Les Petits Ventres,Les Petits Ventres,0,大溪地其他,0.0,0.0,0.0
+更多美食,La Villa Tahiti,La Villa Tahiti,0,大溪地其他,0.0,0.0,0.0
+更多美食,Tot's,Tot's,0,大溪地其他,0.0,0.0,0.0
+更多美食,La Marquisienne,La Marquisienne,0,大溪地其他,0.0,0.0,0.0
+更多美食,L'Apetahi,L'Apetahi,0,大溪地其他,0.0,0.0,0.0
+更多美食,La Plantation Restaurant,La Plantation Restaurant,0,大溪地其他,0.0,0.0,0.0
+更多美食,Les 3 Brasseurs,Les 3 Brasseurs,0,大溪地其他,0.0,0.0,0.0
+更多美食,Pink Coconut,Pink Coconut,0,大溪地其他,0.0,0.0,0.0
+更多美食,Quai des Iles,Quai des Iles,0,大溪地其他,0.0,0.0,0.0
+更多美食,Le Restaurant - Bar du Musee Gaguin,Le Restaurant - Bar du Musee Gaguin,0,大溪地其他,0.0,0.0,0.0
+更多美食,L'Agora,L'Agora,0,大溪地其他,0.0,0.0,0.0
+更多美食,La Casa Mahina,La Casa Mahina,0,大溪地其他,0.0,0.0,0.0
+更多美食,Le Tiare,Le Tiare,0,大溪地其他,0.0,0.0,0.0
+更多美食,Ocean Restaurant,Ocean Restaurant,0,大溪地其他,0.0,0.0,0.0
+更多美食,Relais de la Maroto,Relais de la Maroto,0,大溪地其他,0.0,0.0,0.0
+更多美食,Vahinerii tea house,Vahinerii tea house,0,大溪地其他,0.0,0.0,0.0
+更多美食,Le Belvedere,Le Belvedere,0,大溪地其他,0.0,0.0,0.0

@@ -1,0 +1,262 @@
+日本料理,一兰拉面,一兰拉面,0,福冈,8.9,8.3,8.6
+日本料理,ひょうたん寿司,ひょうたん寿司,0,福冈,8.3,7.9,8.5
+日本料理,博多一幸舍,博多一幸舍,0,博多,7.8,7.7,8.0
+日本料理,博多華味鳥,博多華味鳥,0,福冈,8.5,8.5,8.5
+日本料理,河太郎,河太郎,0,福冈,7.9,7.9,7.9
+日本料理,御膳屋,御膳屋,0,福冈,7.9,8.4,8.4
+日本料理,一兰拉面,一兰拉面,0,福冈,7.3,7.3,7.6
+日本料理,札幌蟹本家,札幌蟹本家,0,,8.3,8.3,8.3
+日本料理,八兵卫,八兵卫,0,福冈,7.1,7.1,7.5
+日本料理,河太郎,河太郎,0,,7.2,7.1,7.2
+日本料理,戦国焼鳥 家康,戦国焼鳥 家康,0,其他,7.4,7.4,7.5
+日本料理,もつ鍋おおやま亭,もつ鍋おおやま亭,0,,6.8,7.4,6.7
+日本料理,もつ鍋 慶州,もつ鍋 慶州,0,福冈,6.0,6.0,6.0
+日本料理,天神路边摊关东煮,天神路边摊关东煮,0,,7.1,7.1,7.1
+日本料理,欧風ライスカレーケンズ,欧風ライスカレーケンズ,0,博多,8.1,6.7,7.4
+日本料理,Chikae Fukuoka,Chikae Fukuoka,0,福冈,8.2,8.2,8.2
+日本料理,ポムの樹,ポムの樹,0,博多,7.4,6.7,7.4
+日本料理,一风堂,一风堂,0,,7.3,7.9,7.3
+日本料理,Tempura no Hirao,Tempura no Hirao,0,福冈,8.3,6.7,7.4
+日本料理,禅,禅,0,博多,7.4,7.4,7.4
+日本料理,梅之花,梅之花,0,其他,7.6,7.6,7.6
+日本料理,大阪王将,大阪王将,0,福冈,6.7,6.7,6.7
+日本料理,二男坊拉面,二男坊拉面,0,博多,6.5,6.5,6.8
+日本料理,玄海丸 回转寿司,玄海丸 回转寿司,0,福冈,7.3,7.3,7.3
+日本料理,和心とんかつ あんず,和心とんかつ あんず,0,福冈,7.3,7.3,7.3
+日本料理,鉄なべ,鉄なべ,0,福冈,7.3,7.3,7.3
+日本料理,駅弁屋たい!,駅弁屋たい!,0,博多,6.1,6.1,6.7
+日本料理,西松屋,西松屋,0,,6.7,6.7,7.1
+日本料理,やまちゃん,やまちゃん,0,福冈,7.4,6.1,7.4
+日本料理,水たき長野,水たき長野,0,福冈,7.3,7.3,7.3
+日本料理,麺劇場玄瑛,麺劇場玄瑛,0,福冈,6.7,8.1,7.4
+日本料理,Yoshizukaunagiya Honten,Yoshizukaunagiya Honten,0,福冈,0.0,0.0,0.0
+日本料理,人形町今半,人形町今半,0,博多,7.5,7.5,8.4
+日本料理,Tenjin Nobunaga Nishidori,Tenjin Nobunaga Nishidori,0,福冈,0.0,0.0,0.0
+日本料理,Kyushuno Shun Hakatarou,Kyushuno Shun Hakatarou,0,福冈,0.0,0.0,0.0
+日本料理,Chikaehonpo,Chikaehonpo,0,福冈,0.0,0.0,0.0
+日本料理,Hakata Motsunabe Yamanaka Akasakaten,Hakata Motsunabe Yamanaka Akasakaten,0,福冈,0.0,0.0,0.0
+日本料理,Chinya,Chinya,0,福冈,0.0,0.0,0.0
+日本料理,Tonkatsuhamakatsu,Tonkatsuhamakatsu,0,福冈,0.0,0.0,0.0
+日本料理,Hakata meibutsu Motsunabe Shoraku Hakata Station,Hakata meibutsu Motsunabe Shoraku Hakata Station,0,福冈,0.0,0.0,0.0
+日本料理,博多華味鳥(天神店Tenjin),博多華味鳥(天神店Tenjin),0,福冈,8.4,8.4,8.4
+日本料理,Kappo Yoshida,Kappo Yoshida,0,福冈,0.0,0.0,0.0
+日本料理,Fukuoka Nadaman (Grand Hyatt Fukuoka),Fukuoka Nadaman (Grand Hyatt Fukuoka),0,福冈,0.0,0.0,0.0
+日本料理,Ajinomasafuku,Ajinomasafuku,0,福冈,0.0,0.0,0.0
+日本料理,Shimmiura Tenjin-branch,Shimmiura Tenjin-branch,0,福冈,0.0,0.0,0.0
+日本料理,Oreno Kappo Hakata Nakasu,Oreno Kappo Hakata Nakasu,0,福冈,0.0,0.0,0.0
+日本料理,Yamazato,Yamazato,0,福冈,0.0,0.0,0.0
+日本料理,Okiyoshokudo,Okiyoshokudo,0,福冈,0.0,0.0,0.0
+日本料理,Hakata Ikkosha Hakata Honten,Hakata Ikkosha Hakata Honten,0,福冈,0.0,0.0,0.0
+日本料理,おむすび村 本店,おむすび村 本店,0,博多,5.9,6.7,6.7
+日本料理,暖暮拉面,暖暮拉面,0,,0.0,0.0,0.0
+日本料理,Seimonbarai,Seimonbarai,0,福冈,0.0,0.0,0.0
+日本料理,Gohanya Shobo-an,Gohanya Shobo-an,0,福冈,0.0,0.0,0.0
+日本料理,Kaikisuikafegarado,Kaikisuikafegarado,0,福冈,0.0,0.0,0.0
+日本料理,Ippudo Tao Fukuoka,Ippudo Tao Fukuoka,0,福冈,0.0,0.0,0.0
+日本料理,Irish Pub The Hakata Harp,Irish Pub The Hakata Harp,0,福冈,0.0,0.0,0.0
+日本料理,Hakata Ryotei Naginoki Nakasu,Hakata Ryotei Naginoki Nakasu,0,福冈,0.0,0.0,0.0
+日本料理,Benkei,Benkei,0,福冈,0.0,0.0,0.0
+日本料理,La Rochelle Fukuoka,La Rochelle Fukuoka,0,福冈,0.0,0.0,0.0
+日本料理,Motsuko,Motsuko,0,福冈,0.0,0.0,0.0
+日本料理,Suganoya JR Hakata City,Suganoya JR Hakata City,0,福冈,0.0,0.0,0.0
+日本料理,Mansakuya,Mansakuya,0,福冈,0.0,0.0,0.0
+日本料理,"Osaka Osho, Tenjin Shintencho","Osaka Osho, Tenjin Shintencho",0,福冈,0.0,0.0,0.0
+日本料理,Horyo,Horyo,0,福冈,0.0,0.0,0.0
+日本料理,Ikedaya,Ikedaya,0,福冈,0.0,0.0,0.0
+日本料理,Gotetsu,Gotetsu,0,福冈,0.0,0.0,0.0
+日本料理,Torizen Nakasu,Torizen Nakasu,0,福冈,0.0,0.0,0.0
+日本料理,Tatsumi Sushi,Tatsumi Sushi,0,福冈,0.0,0.0,0.0
+日本料理,Ajiishi,Ajiishi,0,福冈,0.0,0.0,0.0
+日本料理,Gyumotsu Nabe Oishi Sumiyoshi,Gyumotsu Nabe Oishi Sumiyoshi,0,福冈,0.0,0.0,0.0
+日本料理,Kyofumotsutokoro Echigoya Imaizumi (toku) Branch,Kyofumotsutokoro Echigoya Imaizumi (toku) Branch,0,福冈,0.0,0.0,0.0
+日本料理,Suzukake Honten,Suzukake Honten,0,福冈,0.0,0.0,0.0
+日本料理,Torita,Torita,0,福冈,0.0,0.0,0.0
+日本料理,Mutsuryu Akasaka,Mutsuryu Akasaka,0,福冈,0.0,0.0,0.0
+日本料理,Hidechan Ramen,Hidechan Ramen,0,福冈,0.0,0.0,0.0
+日本料理,Ichifuji,Ichifuji,0,福冈,0.0,0.0,0.0
+日本料理,Isogai,Isogai,0,福冈,0.0,0.0,0.0
+日本料理,Kawasho,Kawasho,0,福冈,0.0,0.0,0.0
+日本料理,"Ichiniisan, JR Hakata City","Ichiniisan, JR Hakata City",0,福冈,0.0,0.0,0.0
+日本料理,Kushisho,Kushisho,0,福冈,0.0,0.0,0.0
+日本料理,Kyo Hayashiya,Kyo Hayashiya,0,福冈,0.0,0.0,0.0
+日本料理,Kiharu,Kiharu,0,福冈,0.0,0.0,0.0
+日本料理,Hakata Kurotetsu Honten,Hakata Kurotetsu Honten,0,福冈,0.0,0.0,0.0
+日本料理,Kushisho Hakata Eki Chikushiguchi,Kushisho Hakata Eki Chikushiguchi,0,福冈,0.0,0.0,0.0
+日本料理,"Serena, Hotel Nikko Fukuoka","Serena, Hotel Nikko Fukuoka",0,福冈,0.0,0.0,0.0
+日本料理,Kingyo,Kingyo,0,福冈,0.0,0.0,0.0
+日本料理,Ippudo Sannoten,Ippudo Sannoten,0,,0.0,0.0,0.0
+日本料理,Kamameshi Victoria,Kamameshi Victoria,0,福冈,0.0,0.0,0.0
+日本料理,"Sake Dining Sagakura, Fukuoka","Sake Dining Sagakura, Fukuoka",0,福冈,0.0,0.0,0.0
+日本料理,La Carrozza,La Carrozza,0,,0.0,0.0,0.0
+日本料理,Kitchen Yumeya,Kitchen Yumeya,0,福冈,0.0,0.0,0.0
+日本料理,Chikaeikaunta,Chikaeikaunta,0,福冈,0.0,0.0,0.0
+日本料理,Honke Fujiyoshi,Honke Fujiyoshi,0,福冈,0.0,0.0,0.0
+日本料理,Nakasu Takasho,Nakasu Takasho,0,福冈,0.0,0.0,0.0
+日本料理,Hakata Kira,Hakata Kira,0,福冈,0.0,0.0,0.0
+日本料理,Keishu,Keishu,0,福冈,0.0,0.0,0.0
+日本料理,Hakatahaanmidori Tenjin-branch,Hakatahaanmidori Tenjin-branch,0,福冈,0.0,0.0,0.0
+日本料理,Shizuku,Shizuku,0,,6.9,6.9,6.9
+日本料理,Campbell Early,Campbell Early,0,福冈,0.0,0.0,0.0
+日本料理,Manjuya,Manjuya,0,福冈,0.0,0.0,0.0
+日本料理,Madonna Maiala,Madonna Maiala,0,福冈,0.0,0.0,0.0
+日本料理,Daimyo Niwaka,Daimyo Niwaka,0,福冈,0.0,0.0,0.0
+日本料理,Hango Zosui no mise Yama,Hango Zosui no mise Yama,0,福冈,0.0,0.0,0.0
+日本料理,Gyukaku Nishiku Ishimaru,Gyukaku Nishiku Ishimaru,0,福冈,0.0,0.0,0.0
+日本料理,"Motsunabe Nagamasa, Hakata Ekimae","Motsunabe Nagamasa, Hakata Ekimae",0,福冈,0.0,0.0,0.0
+日本料理,Umenohana,Umenohana,0,,7.1,7.1,7.1
+日本料理,牛もつ鍋おおいし,牛もつ鍋おおいし(住吉店),0,博多,0.0,0.0,0.0
+日本料理,九州郷土料理 蕨,九州郷土料理 蕨,0,博多,0.0,0.0,0.0
+日本料理,Grillかわむら,Grillかわむら,0,,0.0,0.0,0.0
+日本料理,福岡なだ万,福岡なだ万,0,博多,0.0,0.0,0.0
+日本料理,カレーとケーキの店さら,カレーとケーキの店さら,0,福冈,0.0,0.0,0.0
+日本料理,古香庵,古香庵,0,福冈,0.0,0.0,0.0
+日本料理,Hakatahanamidori Nakasu-honten,Hakatahanamidori Nakasu-honten,0,福冈,0.0,0.0,0.0
+日本料理,石蔵,石蔵,0,博多,0.0,0.0,0.0
+日本料理,お石茶屋,お石茶屋,0,福冈,0.0,0.0,0.0
+日本料理,清流庵,清流庵,0,其他,0.0,0.0,0.0
+日本料理,水月庵,水月庵,0,福冈,0.0,0.0,0.0
+日本料理,大和屋風見鶏,大和屋風見鶏,0,福冈,0.0,0.0,0.0
+日本料理,博多柳川屋,博多柳川屋,0,博多,0.0,0.0,0.0
+日本料理,分子料理,分子料理,0,福冈,0.0,0.0,0.0
+日本料理,中村屋,中村屋,0,,0.0,0.0,0.0
+日本料理,虎玄多,虎玄多,0,博多,0.0,0.0,0.0
+日本料理,宝雲亭,宝雲亭,0,博多,0.0,0.0,0.0
+中餐,Hilton Fukuoka Sea Hawk Chinese Restaurant Bokairo,Hilton Fukuoka Sea Hawk Chinese Restaurant Bokairo,0,福冈,7.5,8.4,7.5
+中餐,中华料理 小城人家,中华料理 小城人家,0,,7.1,7.1,7.1
+中餐,Hassenkaku Honten,Hassenkaku Honten,0,福冈,0.0,0.0,0.0
+中餐,Daimeitantanmen,Daimeitantanmen,0,福冈,0.0,0.0,0.0
+中餐,Chugokuryorikoro,Chugokuryorikoro,0,福冈,0.0,0.0,0.0
+中餐,Taikanen,Taikanen,0,福冈,0.0,0.0,0.0
+中餐,Hakata Dumplings Yushin (Sumiyoshi),Hakata Dumplings Yushin (Sumiyoshi),0,福冈,0.0,0.0,0.0
+中餐,Taori,Taori,0,福冈,0.0,0.0,0.0
+中餐,Takechan,Takechan,0,福冈,0.0,0.0,0.0
+韩国料理,札幌蟹本家,札幌蟹本家,0,,8.3,8.3,8.3
+东南亚菜,食为天中华特色美食,食为天中华特色美食,0,,7.9,7.9,7.9
+东南亚菜,Thai street food tavern Gamlangdii,Thai street food tavern Gamlangdii,0,福冈,0.0,0.0,0.0
+东南亚菜,Kebabooz,Kebabooz,0,福冈,0.0,0.0,0.0
+西式正餐,大東園,大東園,0,福冈,8.0,8.3,8.0
+西式正餐,Pietro Canalcity,Pietro Canalcity,0,福冈,0.0,0.0,0.0
+西式正餐,Crowne Cafe,Crowne Cafe,0,福冈,0.0,0.0,0.0
+西式正餐,Swiss cuisine Chalet,Swiss cuisine Chalet,0,福冈,0.0,0.0,0.0
+西式正餐,Lecafe Hyattregency Fukuoka,Lecafe Hyattregency Fukuoka,0,福冈,0.0,0.0,0.0
+西式正餐,Georges Marceau,Georges Marceau,0,福冈,0.0,0.0,0.0
+西式正餐,Cantina Elborracho,Cantina Elborracho,0,福冈,0.0,0.0,0.0
+西式正餐,Yomenya Goemon Fukuoka Wajiro,Yomenya Goemon Fukuoka Wajiro,0,福冈,0.0,0.0,0.0
+西式正餐,Hakata Hamburg Koga,Hakata Hamburg Koga,0,福冈,0.0,0.0,0.0
+西式正餐,With The Style,With The Style,0,福冈,0.0,0.0,0.0
+西式正餐,Wadamon,Wadamon,0,福冈,0.0,0.0,0.0
+西式正餐,Pietro Corte,Pietro Corte,0,福冈,0.0,0.0,0.0
+西式正餐,The Villas,The Villas,0,福冈,0.0,0.0,0.0
+西式正餐,Bisutoromitsu,Bisutoromitsu,0,福冈,0.0,0.0,0.0
+西式正餐,Hama no French,Hama no French,0,福冈,0.0,0.0,0.0
+西式正餐,Gokoku Keyakitoriten,Gokoku Keyakitoriten,0,福冈,0.0,0.0,0.0
+西式正餐,La regia,La regia,0,福冈,0.0,0.0,0.0
+西式正餐,BISTRO IUKI,BISTRO IUKI,0,博多,0.0,0.0,0.0
+西式正餐,Bar Vita,Bar Vita,0,博多,0.0,0.0,0.0
+西式快餐,麦当劳,麦当劳,0,福冈,7.3,7.3,7.3
+西式快餐,"Brooklyn Parlor, Hakata","Brooklyn Parlor, Hakata",0,福冈,0.0,0.0,0.0
+西式快餐,Pittsueriafarina,Pittsueriafarina,0,福冈,0.0,0.0,0.0
+西式快餐,McDonald's Meino Hama Konan,McDonald's Meino Hama Konan,0,福冈,0.0,0.0,0.0
+西式快餐,Pizzeria da Ciruzzo,Pizzeria da Ciruzzo,0,福冈,0.0,0.0,0.0
+西式快餐,McDonald's Yakuin,McDonald's Yakuin,0,福冈,0.0,0.0,0.0
+西式快餐,Pizzeria Da Gaetan,Pizzeria Da Gaetan,0,福冈,0.0,0.0,0.0
+海鲜,杂鱼屋,杂鱼屋,0,福冈,8.2,8.2,7.8
+海鲜,Sushihigaki,Sushihigaki,0,福冈,0.0,0.0,0.0
+海鲜,Isoragi,Isoragi,0,福冈,0.0,0.0,0.0
+海鲜,Fujiken,Fujiken,0,福冈,0.0,0.0,0.0
+海鲜,Fukuoshokudo,Fukuoshokudo,0,福冈,0.0,0.0,0.0
+海鲜,Zauo Honten,Zauo Honten,0,福冈,0.0,0.0,0.0
+海鲜,Kurokawa,Kurokawa,0,福冈,0.0,0.0,0.0
+海鲜,Ishimatsu,Ishimatsu,0,福冈,0.0,0.0,0.0
+海鲜,Maruhide Sengyoten,Maruhide Sengyoten,0,福冈,0.0,0.0,0.0
+海鲜,Hakata Chisoshu Ozeki,Hakata Chisoshu Ozeki,0,福冈,0.0,0.0,0.0
+海鲜,Hakatamakanaiya,Hakatamakanaiya,0,福冈,0.0,0.0,0.0
+火锅,鑫牛火锅,鑫牛火锅,0,博多,0.0,0.0,0.0
+火锅,重庆时时彩平台,重庆时时彩平台,0,其他,0.0,0.0,0.0
+烧烤,多牛烧肉,多牛烧肉,0,博多,8.2,7.4,8.2
+烧烤,博多みやちく,博多みやちく,0,福冈,7.3,7.3,7.3
+小吃,一兰拉面,一兰拉面,0,福冈,8.8,8.4,8.6
+小吃,一兰拉面,一兰拉面,0,福冈,8.4,8.4,8.4
+小吃,一风堂,一风堂,0,福冈,7.4,7.7,7.7
+小吃,长崎亭,长崎亭,0,福冈,8.0,8.0,8.0
+小吃,一风堂,一风堂,0,,7.3,7.9,7.3
+小吃,博多らーめんShinShin,博多らーめんShinShin,0,福冈,7.3,7.3,7.9
+小吃,Hakata Ippudo Hakata Station,Hakata Ippudo Hakata Station,0,福冈,0.0,0.0,0.0
+小吃,Ichiran Canalcity Hakataten,Ichiran Canalcity Hakataten,0,福冈,0.0,0.0,0.0
+小吃,Murata,Murata,0,福冈,0.0,0.0,0.0
+小吃,Genki ippai,Genki ippai,0,福冈,0.0,0.0,0.0
+小吃,Karonoron,Karonoron,0,福冈,0.0,0.0,0.0
+小吃,Daichinodon,Daichinodon,0,福冈,0.0,0.0,0.0
+小吃,Ganso Akanoren Secchan Ramen,Ganso Akanoren Secchan Ramen,0,福冈,0.0,0.0,0.0
+小吃,Inaba Udon Hakata Deitos,Inaba Udon Hakata Deitos,0,福冈,0.0,0.0,0.0
+小吃,Gansohakatadaruma,Gansohakatadaruma,0,福冈,0.0,0.0,0.0
+小吃,Shibaraku Nishishin,Shibaraku Nishishin,0,福冈,0.0,0.0,0.0
+小吃,Nagahama Number One Gion-branch,Nagahama Number One Gion-branch,0,福冈,0.0,0.0,0.0
+小吃,Inabaudon,Inabaudon,0,福冈,0.0,0.0,0.0
+小吃,Udon Taira,Udon Taira,0,福冈,0.0,0.0,0.0
+小吃,Hakata Ikkosya Hakata DEITOS,Hakata Ikkosya Hakata DEITOS,0,福冈,0.0,0.0,0.0
+小吃,Makino Udon Kukoten,Makino Udon Kukoten,0,福冈,0.0,0.0,0.0
+小吃,Ide Chanpon Odo,Ide Chanpon Odo,0,福冈,0.0,0.0,0.0
+小吃,Nadai Ramentei Hakata Station Chikagai,Nadai Ramentei Hakata Station Chikagai,0,福冈,0.0,0.0,0.0
+小吃,Sukesan Udon Hashimoto,Sukesan Udon Hashimoto,0,福冈,0.0,0.0,0.0
+小吃,Dosanko,Dosanko,0,福冈,0.0,0.0,0.0
+小吃,Umaumareisenten,Umaumareisenten,0,福冈,0.0,0.0,0.0
+小吃,Ganso Nikuniku Udon Nakasu,Ganso Nikuniku Udon Nakasu,0,福冈,0.0,0.0,0.0
+小吃,Yamachan,Yamachan,0,福冈,0.0,0.0,0.0
+小吃,Taihoramen,Taihoramen,0,福冈,0.0,0.0,0.0
+小吃,Chukaryorigyozari,Chukaryorigyozari,0,福冈,0.0,0.0,0.0
+小吃,Chukasobagoya,Chukasobagoya,0,福冈,0.0,0.0,0.0
+小吃,Gansonagahamaya,Gansonagahamaya,0,福冈,0.0,0.0,0.0
+小吃,Gansonikunikudon,Gansonikunikudon,0,福冈,0.0,0.0,0.0
+小吃,Hakata Mechankotei Hakozaki,Hakata Mechankotei Hakozaki,0,福冈,0.0,0.0,0.0
+小吃,Menchankotei,Menchankotei,0,福冈,0.0,0.0,0.0
+小吃,Makoto Udon,Makoto Udon,0,福冈,0.0,0.0,0.0
+小吃,Komugiya Hakozaki,Komugiya Hakozaki,0,福冈,0.0,0.0,0.0
+咖啡厅,星巴克,星巴克,0,福冈,7.3,7.3,7.3
+咖啡厅,moomin Bakery&Cafe,moomin Bakery&Cafe,0,福冈,7.8,7.8,7.8
+咖啡厅,Starbucks Coffee Hotel Centraza Hakata,Starbucks Coffee Hotel Centraza Hakata,0,福冈,0.0,0.0,0.0
+咖啡厅,Kikutakekohido,Kikutakekohido,0,福冈,0.0,0.0,0.0
+咖啡厅,Tokio IMS-media,Tokio IMS-media,0,福冈,0.0,0.0,0.0
+咖啡厅,J Cafe,J Cafe,0,福冈,0.0,0.0,0.0
+咖啡厅,Cafe Bimi,Cafe Bimi,0,福冈,0.0,0.0,0.0
+咖啡厅,Le cafe,Le cafe,0,,6.9,6.9,6.9
+咖啡厅,Coffee House Corbeille,Coffee House Corbeille,0,,7.0,7.0,7.0
+咖啡厅,Media Cafe Popeye Kokura Ekikita,Media Cafe Popeye Kokura Ekikita,0,,6.9,6.9,6.9
+咖啡厅,Green Gables,Green Gables,0,,7.0,7.0,7.0
+咖啡厅,Machiya Cafe Kamakura,Machiya Cafe Kamakura,0,,6.9,6.9,6.9
+咖啡厅,Shunsai Kitchen Hug Cafe,Shunsai Kitchen Hug Cafe,0,,6.9,6.9,6.9
+咖啡厅,Travel Cafe Station Hotel Kokura,Travel Cafe Station Hotel Kokura,0,,6.9,7.0,7.1
+咖啡厅,ELLE CAFE,ELLE CAFE,0,博多,0.0,0.0,0.0
+咖啡厅,自家焙煎珈琲 蘭館,自家焙煎珈琲 蘭館,0,福冈,0.0,0.0,0.0
+咖啡厅,寺田屋,寺田屋,0,福冈,0.0,0.0,0.0
+面包甜点,キルフェボン,キルフェボン,0,福冈,7.9,8.0,8.0
+面包甜点,il FORNO del MIGNON,il FORNO del MIGNON,0,博多,7.4,6.7,7.4
+面包甜点,Horakumanju,Horakumanju,0,福冈,0.0,0.0,0.0
+面包甜点,Jurokku,Jurokku,0,福冈,0.0,0.0,0.0
+面包甜点,Maison Kayser,Maison Kayser,0,福冈,0.0,0.0,0.0
+面包甜点,artisanal bakery Fururu,artisanal bakery Fururu,0,福冈,0.0,0.0,0.0
+面包甜点,Patisserie Petit Jour,Patisserie Petit Jour,0,福冈,0.0,0.0,0.0
+面包甜点,Kawabatazenzai Square,Kawabatazenzai Square,0,福冈,0.0,0.0,0.0
+面包甜点,ViTo Tenjin,ViTo Tenjin,0,福冈,0.0,0.0,0.0
+面包甜点,Santa Ojisan's Ishigama Bakery,Santa Ojisan's Ishigama Bakery,0,,7.0,7.0,7.0
+面包甜点,Merci,Merci,0,,6.9,6.9,6.9
+面包甜点,tokio岩田屋三越,tokio岩田屋三越,0,福冈,0.0,0.0,0.0
+面包甜点,RILL BAGEL,RILL BAGEL,0,博多,0.0,0.0,0.0
+面包甜点,PATISSERIE Jacques,PATISSERIE Jacques,0,福冈,0.0,0.0,0.0
+面包甜点,tokio岩田屋,tokio岩田屋(久留米店),0,,0.0,0.0,0.0
+面包甜点,かさの家,かさの家,0,福冈,0.0,0.0,0.0
+面包甜点,tokioイムズ店,tokioイムズ店,0,,0.0,0.0,0.0
+酒吧,スイッチ,スイッチ,0,,6.9,6.9,7.1
+酒吧,Hakatamotsunabe Nijuyon Hakatastationminaminigoten,Hakatamotsunabe Nijuyon Hakatastationminaminigoten,0,福冈,0.0,0.0,0.0
+酒吧,Iwaen Daihakatabldg,Iwaen Daihakatabldg,0,福冈,0.0,0.0,0.0
+酒吧,Hard Rock Cafe Fukuoka,Hard Rock Cafe Fukuoka,0,福冈,0.0,0.0,0.0
+酒吧,Vege Style Dining,Vege Style Dining,0,福冈,0.0,0.0,0.0
+酒吧,Dolce,Dolce,0,,7.0,6.9,6.9
+酒吧,Ume no Hana Dazaifu Bessou Shizen-an,Ume no Hana Dazaifu Bessou Shizen-an,0,,7.1,7.3,7.3
+酒吧,Moji Club,Moji Club,0,,6.9,6.9,6.9
+酒吧,Restaurant Mitsui Club,Restaurant Mitsui Club,0,,6.8,6.8,7.1
+酒吧,Kichen&Bar ants,Kichen&Bar ants,0,博多,0.0,0.0,0.0
+酒吧,筑后川花火大会,筑后川花火大会,0,其他,0.0,0.0,0.0
+其他美食,Mitsubachi,Mitsubachi,0,福冈,0.0,0.0,0.0
+其他美食,Rakutenchi Tenjinhonten,Rakutenchi Tenjinhonten,0,福冈,0.0,0.0,0.0
+其他美食,Anton,Anton,0,福冈,0.0,0.0,0.0

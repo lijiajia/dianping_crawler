@@ -1,0 +1,27 @@
+意大利菜,Casalingo,Casalingo,0,,7.1,7.1,7.1
+意大利菜,Tavolino,Tavolino,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.7,7.0,6.9
+海鲜,Green Valley Restaurant,Green Valley Restaurant,0,,7.2,7.2,7.2
+烧烤,金东府韩国烧烤,金东府韩国烧烤,0,,0.0,0.0,0.0
+比萨,Pizza Al Reef,Pizza Al Reef,0,,7.1,7.0,7.0
+比萨,Pizza Forno,Pizza Forno,0,,7.0,7.1,7.0
+咖啡厅,indoor cafe Amman,indoor cafe Amman,0,,7.6,7.6,7.6
+咖啡厅,Cafe Jara,Cafe Jara,0,,7.0,7.0,7.1
+咖啡厅,Al kofieah Cafe,Al kofieah Cafe,0,,6.9,6.9,6.9
+咖啡厅,Coffee Shop Ayola,Coffee Shop Ayola,0,,7.2,7.2,7.2
+咖啡厅,Rotana Cafe,Rotana Cafe,0,,6.9,6.9,6.9
+咖啡厅,56 Cafe,56 Cafe,0,,7.0,6.9,7.0
+咖啡厅,Caffe Strada,Caffe Strada,0,,7.0,7.0,7.0
+咖啡厅,Cafe de Paris,Cafe de Paris,0,,6.7,6.7,6.9
+咖啡厅,Pizza Roma Cafe,Pizza Roma Cafe,0,,7.2,7.2,7.2
+咖啡厅,Caribou Coffee Zain Abdoun,Caribou Coffee Zain Abdoun,0,,7.1,7.0,7.1
+咖啡厅,Caribou Coffee Galleria Mall,Caribou Coffee Galleria Mall,0,,7.1,7.0,7.1
+咖啡厅,Have a Green Day,Have a Green Day,0,,7.0,7.0,7.0
+咖啡厅,Eco-Tourism Cafe,Eco-Tourism Cafe,0,,6.9,7.0,7.0
+咖啡厅,Rumi Cafe,Rumi Cafe,0,,7.0,7.0,7.0
+面包甜点,Gelato Uno,Gelato Uno,0,,7.1,7.1,7.1
+面包甜点,Royce' choloclate,Royce' choloclate,0,安曼,0.0,0.0,0.0
+酒吧,V,V,0,,7.0,7.1,7.1
+酒吧,Cantaloupe Gastro Pub,Cantaloupe Gastro Pub,0,,7.2,7.2,7.2
+酒吧,Turtle Green Tea Bar,Turtle Green Tea Bar,0,,7.2,7.2,7.2
+酒吧,The Library Lounge and Cigar Bar,The Library Lounge and Cigar Bar,0,,7.1,7.1,7.3

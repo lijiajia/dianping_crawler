@@ -1,0 +1,41 @@
+意大利菜,Dolce Vita,Dolce Vita,0,,7.1,6.8,6.8
+其他西餐,El Molino,El Molino,0,,7.1,7.1,7.1
+快餐简餐,McDonald's,McDonald's,0,,6.8,7.2,7.2
+比萨,Panino Pizza Pasta y Vino,Panino Pizza Pasta y Vino,0,,7.7,7.7,7.7
+比萨,La Pizza Carlo,La Pizza Carlo,0,,7.2,7.2,7.2
+比萨,Restaurant Mia Pizza,Restaurant Mia Pizza,0,,7.1,7.3,7.1
+咖啡厅,Cafe Morena,Cafe Morena,0,,8.5,8.5,8.0
+咖啡厅,Kushka...Fe Cafe Restaurante,Kushka...Fe Cafe Restaurante,0,,7.2,7.2,7.2
+咖啡厅,Tabasco Cafe,Tabasco Cafe,0,,7.1,7.1,7.1
+咖啡厅,MAP Cafe,MAP Cafe,0,,7.2,7.2,7.2
+咖啡厅,Super Cafe Extra,Super Cafe Extra,0,,6.9,6.9,6.9
+咖啡厅,Cafe Loco,Cafe Loco,0,,7.2,7.6,7.6
+咖啡厅,Triskel Cafe/galeria De Arte,Triskel Cafe/galeria De Arte,0,,7.1,7.1,7.1
+咖啡厅,Sara: The Organic Cafe Bistro,Sara: The Organic Cafe Bistro,0,,7.2,7.2,7.2
+咖啡厅,Restaurant Cafe Bar Pucara,Restaurant Cafe Bar Pucara,0,,7.2,7.2,7.2
+咖啡厅,Cafe de la Paz,Cafe de la Paz,0,,7.2,7.2,7.2
+咖啡厅,Bagdad Cafe,Bagdad Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Ayllu,Cafe Ayllu,0,,7.2,7.2,7.2
+咖啡厅,Laggart Club Cafe Cultural,Laggart Club Cafe Cultural,0,,7.1,7.0,7.1
+咖啡厅,Cafe Richarry,Cafe Richarry,0,,7.1,7.1,7.1
+咖啡厅,Cafe Ayllu,Cafe Ayllu,0,,7.1,7.1,7.1
+咖啡厅,Sonqo Cafe,Sonqo Cafe,0,,7.1,7.1,7.0
+咖啡厅,Cafe Pasteleria Nevada,Cafe Pasteleria Nevada,0,,7.1,7.1,7.1
+咖啡厅,Jack's Cafe,Jack's Cafe,0,,7.2,7.2,7.2
+咖啡厅,La cholita cafe,La cholita cafe,0,,7.1,7.0,7.0
+咖啡厅,Bagel Cafe,Bagel Cafe,0,,7.0,7.0,7.0
+咖啡厅,Misky Cafe,Misky Cafe,0,,6.9,6.9,6.9
+咖啡厅,Green Point,Green Point,0,,7.7,7.2,7.2
+咖啡厅,Cafe Restaurant Aldea Yanapay,Cafe Restaurant Aldea Yanapay,0,,7.2,7.2,7.2
+咖啡厅,Cafe Allyu,Cafe Allyu,0,,7.0,7.0,6.9
+咖啡厅,Cafe Dos X 3,Cafe Dos X 3,0,,7.2,7.2,7.2
+咖啡厅,Cafe Punchay,Cafe Punchay,0,,7.1,7.1,7.3
+咖啡厅,Encuentros Cafe,Encuentros Cafe,0,,7.0,7.0,7.0
+咖啡厅,Plus Cafe Restaurant,Plus Cafe Restaurant,0,,7.1,7.1,7.1
+面包甜点,Sweet Temptation,Sweet Temptation,0,,6.7,6.7,6.7
+酒吧,Indigo,Indigo,0,,7.2,7.2,7.2
+酒吧,Paddy's Irish Pub,Paddy's Irish Pub,0,,7.2,7.2,7.2
+酒吧,"Muse, Too","Muse, Too",0,,7.0,7.0,7.0
+酒吧,Bar Cusco,Bar Cusco,0,,7.0,7.0,7.0
+酒吧,Prana Raw Food Bar,Prana Raw Food Bar,0,,7.1,7.1,7.0
+酒吧,Aguaymanto Resto Bar,Aguaymanto Resto Bar,0,,7.2,7.2,7.2

@@ -1,0 +1,1116 @@
+咖啡厅,Starbucks Coffee,Starbucks Coffee,0,,7.4,6.6,7.3
+咖啡厅,starbucks the linq,starbucks the linq,0,拉斯维加斯大道,8.4,8.4,8.4
+咖啡厅,ciao ciao cafe&bar,ciao ciao cafe&bar,0,拉斯维加斯大道,6.7,7.5,5.9
+咖啡厅,Blizz Yogurt Las Vegas,Blizz Yogurt Las Vegas,0,,0.0,0.0,0.0
+咖啡厅,Avery's Coffee Shop,Avery's Coffee Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+咖啡厅,La Belle Terre Bread Bakery & Café,La Belle Terre Bread Bakery & Café,0,,0.0,0.0,0.0
+咖啡厅,Palio,Palio,0,,0.0,0.0,0.0
+咖啡厅,Superbook Deli,Superbook Deli,0,,0.0,0.0,0.0
+咖啡厅,Bronze Cafe,Bronze Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+咖啡厅,Coffee Pub,Coffee Pub,0,拉斯维加斯其它,0.0,0.0,0.0
+咖啡厅,Juice Express,Juice Express,0,,0.0,0.0,0.0
+咖啡厅,The Beat Coffeehouse,The Beat Coffeehouse,0,老城区(弗里蒙特街),0.0,0.0,0.0
+咖啡厅,Sambalatte,Sambalatte,0,拉斯维加斯其它,0.0,0.0,0.0
+咖啡厅,Ceres,Ceres,0,拉斯维加斯其它,0.0,0.0,0.0
+咖啡厅,Grand Cafe,Grand Cafe,0,拉斯维加斯北部,0.0,0.0,0.0
+咖啡厅,Fresh Mama Freshetarian Cafe,Fresh Mama Freshetarian Cafe,0,,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,,7.0,6.9,6.9
+咖啡厅,Seattle's Best Coffee,Seattle's Best Coffee,0,拉斯维加斯其它,0.0,0.0,0.0
+咖啡厅,Va Bene Caffe,Va Bene Caffe,0,,0.0,0.0,0.0
+咖啡厅,Grape Street Cafe,Grape Street Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+咖啡厅,Victory's Cafe,Victory's Cafe,0,,7.1,7.1,7.1
+咖啡厅,Cafe Rio Mexican Grill,Cafe Rio Mexican Grill,0,,7.1,7.1,7.1
+咖啡厅,Jack in the Box,Jack in the Box,0,,6.9,6.9,6.9
+咖啡厅,Waffles Cafe,Waffles Cafe,0,,7.0,7.0,7.0
+咖啡厅,Mermaid Cafe,Mermaid Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+咖啡厅,Jack in the Box,Jack in the Box,0,,7.0,7.0,7.0
+意大利菜,Wolfgang Puck Bar & Grill at MGM Grand,Wolfgang Puck Bar & Grill at MGM Grand,0,,0.0,0.0,0.0
+意大利菜,Otto Enoteca Pizzeria,Otto Enoteca Pizzeria,400,,8.4,8.4,8.4
+意大利菜,Sensi,Sensi,0,,0.0,0.0,0.0
+意大利菜,Fiamma Trattoria & Bar,Fiamma Trattoria & Bar,0,,8.1,8.1,8.1
+意大利菜,Trattoria Reggiano,Trattoria Reggiano,0,,7.3,7.3,7.3
+意大利菜,Tintoretto Restaurant,Tintoretto Restaurant,0,,0.0,0.0,0.0
+意大利菜,Bacio Italian Cuisine,Bacio Italian Cuisine,0,,0.0,0.0,0.0
+意大利菜,Trevi,Trevi,0,,0.0,0.0,0.0
+意大利菜,Piero's Italian Cuisine,Piero's Italian Cuisine,0,,0.0,0.0,0.0
+意大利菜,Regale Italian Eatery,Regale Italian Eatery,0,,0.0,0.0,0.0
+意大利菜,Olive Garden,Olive Garden,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Carmine's,Carmine's,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Andiamo Italian Steakhouse,Andiamo Italian Steakhouse,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Parma by Chef Marc,Parma by Chef Marc,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Pasta Pirate,Pasta Pirate,0,老城区(弗里蒙特街),0.0,0.0,0.0
+意大利菜,Pasta Cucina,Pasta Cucina,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Fellini's,Fellini's,0,拉斯维加斯大道,0.0,0.0,0.0
+意大利菜,Il Mulino,Il Mulino,0,,0.0,0.0,0.0
+意大利菜,Nora's Cuisine,Nora's Cuisine,0,,0.0,0.0,0.0
+意大利菜,LA Subs,LA Subs,0,,0.0,0.0,0.0
+意大利菜,Red Rock Pizza,Red Rock Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Aurelios Pizza,Aurelios Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,joes pizza,joes pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Giorgio Caffe & Ristorante at Mandalay Bay,Giorgio Caffe & Ristorante at Mandalay Bay,0,,0.0,0.0,0.0
+意大利菜,Mezzo Bistro & Wine,Mezzo Bistro & Wine,0,拉斯维加斯北部,0.0,0.0,0.0
+意大利菜,Brio Tuscan Grille,Brio Tuscan Grille,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Dom DeMarco's Pizzeria & Bar,Dom DeMarco's Pizzeria & Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Spiedini Ristorante,Spiedini Ristorante,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Mikado Restaurant at The Mirage,Mikado Restaurant at The Mirage,0,,0.0,0.0,0.0
+意大利菜,Mob Bar,Mob Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Vivido Gelato,Vivido Gelato,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Grimaldi,Grimaldi,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,"Those Guys Pies - Pizza, Fingers & Cheesesteaks","Those Guys Pies - Pizza, Fingers & Cheesesteaks",0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Olive Garden,Olive Garden,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Tap House,Tap House,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Salvatore's,Salvatore's,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Otto,Otto,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Siena Italian Trattoria,Siena Italian Trattoria,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,North End Pizza,North End Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,La Piazza,La Piazza,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Chicago Joe's,Chicago Joe's,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Mark Rich's New York Pasta and Pizza,Mark Rich's New York Pasta and Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Olive Garden,Olive Garden,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Buca di Beppo (Summerlin),Buca di Beppo (Summerlin),0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Carrabba's Italian Grill,Carrabba's Italian Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Lucio Ristorante,Lucio Ristorante,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Fellini's Italian Restaurant,Fellini's Italian Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Adar Kosher Pizza Restaurant,Adar Kosher Pizza Restaurant,0,,0.0,0.0,0.0
+意大利菜,Rosati's Pizza,Rosati's Pizza,0,拉斯维加斯北部,0.0,0.0,0.0
+意大利菜,Street of New York Pizza,Street of New York Pizza,0,拉斯维加斯北部,0.0,0.0,0.0
+意大利菜,Via Veneto,Via Veneto,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Lombardi's,Lombardi's,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Novecento 900 Degrees,Novecento 900 Degrees,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Verdi Restaurant Pizza,Verdi Restaurant Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Macaroni Grill,Macaroni Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Fazoli's,Fazoli's,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Napoli Pizza & Restaurant,Napoli Pizza & Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+意大利菜,Grand'italia,Grand'italia,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,Hyde Bellagio,Hyde Bellagio,0,,0.0,0.0,0.0
+酒吧,Tao夜店,Tao夜店,0,,6.7,8.3,8.3
+酒吧,Hogs N Heifers Saloon,Hogs N Heifers Saloon,0,老城区(弗里蒙特街),0.0,0.0,0.0
+酒吧,时代广场酒吧,时代广场酒吧,0,,0.0,0.0,0.0
+酒吧,XS Nightclub,XS Nightclub,0,,0.0,0.0,0.0
+酒吧,Encore Beach Club,Encore Beach Club,0,,0.0,0.0,0.0
+酒吧,ghostbar,ghostbar,0,,0.0,0.0,0.0
+酒吧,Todd English P.U.B.,Todd English P.U.B.,0,,0.0,0.0,0.0
+酒吧,The Lady Sylvia,The Lady Sylvia,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,Don't Tell Mama,Don't Tell Mama,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,Red Feather Coffee Pub,Red Feather Coffee Pub,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,Level 107 Lounge,Level 107 Lounge,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,Beach Club Bar & Grill,Beach Club Bar & Grill,0,,0.0,0.0,0.0
+酒吧,Downtown Cocktail Room,Downtown Cocktail Room,0,老城区(弗里蒙特街),0.0,0.0,0.0
+酒吧,Rhumbar,Rhumbar,0,,0.0,0.0,0.0
+酒吧,Canyon Club夜店,Canyon Club夜店,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,Haze,Haze,0,,0.0,0.0,0.0
+酒吧,Banger Brewing,Banger Brewing,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,Rumjungle夜店,Rumjungle夜店,0,,0.0,0.0,0.0
+酒吧,J.C. Wooloughan Irish Pub,J.C. Wooloughan Irish Pub,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,Frankie's Tiki Room,Frankie's Tiki Room,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,Atomic Liquors,Atomic Liquors,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,The Garage,The Garage,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,The Lounge at The Palms,The Lounge at The Palms,0,,0.0,0.0,0.0
+酒吧,Tangerine夜店,Tangerine夜店,0,,0.0,0.0,0.0
+酒吧,Bar + Bistro @ The Arts Factory,Bar + Bistro @ The Arts Factory,0,拉斯维加斯大道,0.0,0.0,0.0
+酒吧,Dino's Lounge,Dino's Lounge,0,拉斯维加斯大道,0.0,0.0,0.0
+酒吧,Insert Coin(s),Insert Coin(s),0,老城区(弗里蒙特街),0.0,0.0,0.0
+酒吧,The Cellar Lounge Las Vegas,The Cellar Lounge Las Vegas,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,美丽酒吧,美丽酒吧,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,Pogo's Tavern,Pogo's Tavern,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,VooDoo Lounge,VooDoo Lounge,0,,0.0,0.0,0.0
+酒吧,Huntridge Package Liquor,Huntridge Package Liquor,0,老城区(弗里蒙特街),0.0,0.0,0.0
+酒吧,B&B Burger & Beer,B&B Burger & Beer,0,,0.0,0.0,0.0
+酒吧,Bunkhouse Saloon夜店,Bunkhouse Saloon夜店,0,拉斯维加斯其它,0.0,0.0,0.0
+酒吧,Mandalay bay beach bar and grill,Mandalay bay beach bar and grill,0,,0.0,0.0,0.0
+酒吧,Martinez Taco Bar,Martinez Taco Bar,0,,6.9,6.9,6.9
+酒吧,Cheetah's,Cheetah's,0,拉斯维加斯大道,0.0,0.0,0.0
+酒吧,Gabe's Bar夜店,Gabe's Bar夜店,0,拉斯维加斯北部,0.0,0.0,0.0
+酒吧,P T's Pub,P T's Pub,0,,6.9,6.9,6.9
+酒吧,Morrissey's Irish Pub,Morrissey's Irish Pub,0,,6.9,6.9,6.9
+酒吧,Dairy Queen,Dairy Queen,0,,6.9,6.9,6.9
+酒吧,Palace Station’s Oyster Bar,Palace Station’s Oyster Bar,0,,0.0,0.0,0.0
+法国菜,Wynn,Wynn,309,,8.0,8.9,8.6
+法国菜,Circus Buffet,Circus Buffet,0,,6.8,6.9,6.8
+法国菜,Le Village Buffet at Paris Las Vegas,Le Village Buffet at Paris Las Vegas,0,,0.0,0.0,0.0
+法国菜,Eiffel Tower Restaurant at Paris Las Vegas,Eiffel Tower Restaurant at Paris Las Vegas,0,,7.5,8.0,8.0
+法国菜,Joel Robuchon,Joel Robuchon,0,,7.4,8.1,7.4
+法国菜,LAS VEGAS BUFFET,LAS VEGAS BUFFET,0,,6.9,6.9,6.9
+法国菜,Michael Mina at Bellagio,Michael Mina at Bellagio,0,,0.0,0.0,0.0
+法国菜,Le Cafe Ile St Louis at Paris Hotel,Le Cafe Ile St Louis at Paris Hotel,0,,7.4,6.7,7.4
+法国菜,ENVY steakhouse,ENVY steakhouse,0,,7.0,6.9,7.0
+法国菜,Bouchon,Bouchon,0,,0.0,0.0,0.0
+法国菜,Andre's at the Monte Carlo,Andre's at the Monte Carlo,0,,0.0,0.0,0.0
+法国菜,L'Atelier de Joel Robuchon,L'Atelier de Joel Robuchon,0,,0.0,0.0,0.0
+法国菜,Patisserie Manon,Patisserie Manon,0,拉斯维加斯其它,0.0,0.0,0.0
+法国菜,Payard Patisserie & Bistro,Payard Patisserie & Bistro,0,,0.0,0.0,0.0
+法国菜,Alize at the Palms,Alize at the Palms,0,,0.0,0.0,0.0
+法国菜,Top of the World Restaurant at the Stratosphere,Top of the World Restaurant at the Stratosphere,0,拉斯维加斯其它,0.0,0.0,0.0
+法国菜,Mix - Las Vegas,Mix - Las Vegas,0,,0.0,0.0,0.0
+法国菜,Pamplemousse French Restaurant,Pamplemousse French Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+法国菜,Cafe de Paris,Cafe de Paris,0,拉斯维加斯其它,0.0,0.0,0.0
+法国菜,Tinoco's Bistro,Tinoco's Bistro,0,拉斯维加斯其它,0.0,0.0,0.0
+法国菜,Baidu China Bistro,Baidu China Bistro,0,,0.0,0.0,0.0
+法国菜,Marche Bacchus,Marche Bacchus,0,拉斯维加斯其它,0.0,0.0,0.0
+法国菜,Technique at Le Cordon Bleu,Technique at Le Cordon Bleu,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Tacos el Gordo,Tacos el Gordo,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Border Grill - Las Vegas,Border Grill - Las Vegas,0,,8.4,8.4,8.4
+墨西哥菜,Chipotle,Chipotle,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Jaleo,Jaleo,0,,0.0,0.0,0.0
+墨西哥菜,Cabo Wabo Cantina,Cabo Wabo Cantina,0,,0.0,0.0,0.0
+墨西哥菜,La Salsa,La Salsa,0,,0.0,0.0,0.0
+墨西哥菜,Tacos Mexico,Tacos Mexico,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Dona Maria's Tamale Shop,Dona Maria's Tamale Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Nacho Daddy,Nacho Daddy,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Lindo Michoacan,Lindo Michoacan,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,El Sombrero Cafe,El Sombrero Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Chipotle Mexican Grill,Chipotle Mexican Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,El Pescador Restaurant,El Pescador Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Rubio's,Rubio's,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Mi Tierra,Mi Tierra,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Cabo,Cabo,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Macayo's Mexican Kitchen,Macayo's Mexican Kitchen,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Cabo Mexican Restaurant,Cabo Mexican Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Hussong's Las Vegas in Mandalay Place,Hussong's Las Vegas in Mandalay Place,0,,0.0,0.0,0.0
+墨西哥菜,Leticia's Mexican Cocina,Leticia's Mexican Cocina,0,拉斯维加斯北部,0.0,0.0,0.0
+墨西哥菜,Baja Miguels,Baja Miguels,0,,0.0,0.0,0.0
+墨西哥菜,Michoacan Gourmet Mexican Restaurant,Michoacan Gourmet Mexican Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Ramon Ayal'a Cocina & Cantina,Ramon Ayal'a Cocina & Cantina,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Rubio's,Rubio's,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,El Calderon,El Calderon,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Cabo,Cabo,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Viva Mercado's Mexican Bar and Grill,Viva Mercado's Mexican Bar and Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Los Tacos,Los Tacos,0,老城区(弗里蒙特街),0.0,0.0,0.0
+墨西哥菜,Casa Don Juan,Casa Don Juan,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Super Mex,Super Mex,0,,0.0,0.0,0.0
+墨西哥菜,Esmeralda's Cafe,Esmeralda's Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,La Comida,La Comida,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Mamacita's,Mamacita's,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Cantina Laredo,Cantina Laredo,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Chinita Mexican Bar & Grill,Chinita Mexican Bar & Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Serranos Mexican Food,Serranos Mexican Food,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Don Tortaco Mexican Grill,Don Tortaco Mexican Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Tacos Mexico,Tacos Mexico,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Tacos El Burrito Loco,Tacos El Burrito Loco,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Salsa Loca Mexican Grill,Salsa Loca Mexican Grill,0,,0.0,0.0,0.0
+墨西哥菜,Frijoles,Frijoles,0,,0.0,0.0,0.0
+墨西哥菜,Coasta Cantina,Coasta Cantina,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Cardena's Market,Cardena's Market,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Macayo Vegas,Macayo Vegas,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Pepe's Taco's 2,Pepe's Taco's 2,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Garduno's,Garduno's,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,El Burrito Mexican Restaurant,El Burrito Mexican Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Wahoo's Fish Taco,Wahoo's Fish Taco,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Dona Maria Summerlin,Dona Maria Summerlin,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,Salted Lime,Salted Lime,0,,0.0,0.0,0.0
+墨西哥菜,El Herradero,El Herradero,0,,0.0,0.0,0.0
+墨西哥菜,Prickly Pear Bar & Grille,Prickly Pear Bar & Grille,0,拉斯维加斯其它,0.0,0.0,0.0
+墨西哥菜,El Pollo Loco,El Pollo Loco,0,,6.9,6.9,6.9
+其他西餐,Outback 牛排馆,Outback 牛排馆,0,拉斯维加斯大道,7.3,7.3,7.1
+其他西餐,Ruth's Chris Steakhouse,Ruth's Chris Steakhouse,0,,0.0,0.0,0.0
+其他西餐,Pink's Hot Dogs,Pink's Hot Dogs,0,,8.3,8.3,8.3
+其他西餐,P.U.B,P.U.B,0,,7.9,7.3,7.3
+其他西餐,Morels French Steakhouse & Bistro,Morels French Steakhouse & Bistro,0,,7.4,7.4,7.4
+其他西餐,Ron's Steakhouse - Arizona Charlie's Decatur,Ron's Steakhouse - Arizona Charlie's Decatur,0,拉斯维加斯其它,8.3,8.3,8.3
+其他西餐,McCall's Heartland Grill,McCall's Heartland Grill,0,拉斯维加斯大道,0.0,0.0,0.0
+其他西餐,Marrakech Moroccan Restaurant,Marrakech Moroccan Restaurant,0,,0.0,0.0,0.0
+其他西餐,Viva Las Arepas,Viva Las Arepas,0,拉斯维加斯大道,7.2,7.2,7.2
+其他西餐,Delmonico Steakhouse,Delmonico Steakhouse,0,,0.0,0.0,0.0
+其他西餐,The Steakhouse,The Steakhouse,0,,0.0,0.0,0.0
+其他西餐,BLT Steak,BLT Steak,0,,0.0,0.0,0.0
+其他西餐,Golden Steer Steak House,Golden Steer Steak House,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Gordon Ramsay BurGr,Gordon Ramsay BurGr,0,,0.0,0.0,0.0
+其他西餐,Broadway Burger Bar and Grill,Broadway Burger Bar and Grill,0,,0.0,0.0,0.0
+其他西餐,Palm Grille,Palm Grille,0,,0.0,0.0,0.0
+其他西餐,Jean Georges Steakhouse,Jean Georges Steakhouse,0,,0.0,0.0,0.0
+其他西餐,Herbs and Rye,Herbs and Rye,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Florida Cafe Cuban Restaurant,Florida Cafe Cuban Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Mundo,Mundo,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他西餐,Seasons Buffet,Seasons Buffet,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Fleming's Prime Steakhouse & Wine Bar,Fleming's Prime Steakhouse & Wine Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Aloha Specialties Restaurant,Aloha Specialties Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Cheeseburger Las Vegas,Cheeseburger Las Vegas,0,,0.0,0.0,0.0
+其他西餐,Grand Cafe,Grand Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,In-N-Out Burger,In-N-Out Burger,0,,0.0,0.0,0.0
+其他西餐,Gordon Biersch Brewery ResTaurAnt,Gordon Biersch Brewery ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,The Broiler,The Broiler,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,POPS Pride of Philly Steak,POPS Pride of Philly Steak,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Weinerschnitzel,Weinerschnitzel,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Marble Slab Creamery,Marble Slab Creamery,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Island Flavor,Island Flavor,0,,0.0,0.0,0.0
+其他西餐,Sababa,Sababa,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Wienerschnitzel,Wienerschnitzel,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,,0.0,0.0,0.0
+其他西餐,Grind Burger Bar & Lounge,Grind Burger Bar & Lounge,0,,0.0,0.0,0.0
+其他西餐,Julian Serrano,Julian Serrano,0,,0.0,0.0,0.0
+其他西餐,Market Grille Cafe,Market Grille Cafe,0,拉斯维加斯北部,0.0,0.0,0.0
+其他西餐,Flame Steakhouse,Flame Steakhouse,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他西餐,Cous Cous Mediterranean Cafe,Cous Cous Mediterranean Cafe,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他西餐,Via Brasil Steakhouse,Via Brasil Steakhouse,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,SC Prime Steakhouse & Bar,SC Prime Steakhouse & Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Firefly Tapas Kitchen & Bar,Firefly Tapas Kitchen & Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Salvadoreno Restaurant,Salvadoreno Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,The Lakes Lounge Restaurant and Gaming Bar,The Lakes Lounge Restaurant and Gaming Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Echo and Rig,Echo and Rig,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Yassou Greek Grill Cafe,Yassou Greek Grill Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Beso,Beso,0,,0.0,0.0,0.0
+其他西餐,Bagatelle Las Vegas,Bagatelle Las Vegas,0,,0.0,0.0,0.0
+其他西餐,Cornish Pasty Co,Cornish Pasty Co,0,大道以东,0.0,0.0,0.0
+其他西餐,Haifa Restaurant,Haifa Restaurant,0,,0.0,0.0,0.0
+其他西餐,Panini Cafe,Panini Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,J C Wooloughan's Irish Pub,J C Wooloughan's Irish Pub,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Charcoal Room,Charcoal Room,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Nine Fine Irishmen,Nine Fine Irishmen,0,,0.0,0.0,0.0
+其他西餐,Rincon Criollo,Rincon Criollo,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Carnegie St. Deli,Carnegie St. Deli,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,IHOP Maryland Blvd,IHOP Maryland Blvd,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Las Pupusas,Las Pupusas,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Embers,Embers,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Paymon's Mediterranean Cafe,Paymon's Mediterranean Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,T-Bones Chophouse,T-Bones Chophouse,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Wendy's,Wendy's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Gyro Time Restaurant,Gyro Time Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Grimmaldis shops of the pallazzo,Grimmaldis shops of the pallazzo,0,,0.0,0.0,0.0
+其他西餐,Pegasus,Pegasus,0,,0.0,0.0,0.0
+其他西餐,Aloha Hawaiian BBQ,Aloha Hawaiian BBQ,0,拉斯维加斯北部,0.0,0.0,0.0
+其他西餐,Bottles + Burgers By Double Helix,Bottles + Burgers By Double Helix,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Chipotle Mexican Grill,Chipotle Mexican Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,English's Quintessentially British,English's Quintessentially British,0,,0.0,0.0,0.0
+其他西餐,San Lorenzo Room,San Lorenzo Room,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,B&B Burger & Beer,B&B Burger & Beer,0,,0.0,0.0,0.0
+其他西餐,Slidin' thru,Slidin' thru,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Jack's Irish Pub,Jack's Irish Pub,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Lulu's Hawaiian BBQ,Lulu's Hawaiian BBQ,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Montana Meat Co,Montana Meat Co,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Posh burger Bistro,Posh burger Bistro,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Abx American Burger,Abx American Burger,0,拉斯维加斯其它,0.0,0.0,0.0
+其他西餐,Burgr Gordon Ramsey,Burgr Gordon Ramsey,0,,0.0,0.0,0.0
+其他西餐,Bistro 57,Bistro 57,0,,0.0,0.0,0.0
+中餐,Noodle Asia,Noodle Asia,0,,7.1,7.3,6.7
+中餐,Mr. Beijing,Mr. Beijing,0,,7.9,7.5,8.1
+中餐,妈妈家,妈妈家,0,,7.5,7.5,7.5
+中餐,Beijing Noodle No. 9,Beijing Noodle No. 9,0,,6.7,7.4,6.5
+中餐,Blossom,Blossom,0,,8.4,8.4,8.4
+中餐,川味坊,川味坊,0,拉斯维加斯大道,7.5,7.5,7.5
+中餐,Hakkasan,Hakkasan,0,,8.4,8.4,8.0
+中餐,Ping Pang Pong,Ping Pang Pong,0,,0.0,0.0,0.0
+中餐,Pho Kim Long II,Pho Kim Long II,0,,0.0,0.0,0.0
+中餐,Noodle Shop,Noodle Shop,0,,0.0,0.0,0.0
+中餐,Pick Up Stix,Pick Up Stix,0,,7.3,7.3,6.8
+中餐,China Star,China Star,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,Panda Express,Panda Express,0,,6.7,7.0,6.7
+中餐,Mings,Mings,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,Yami Yami,Yami Yami,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,Da Sheng Restaurant,Da Sheng Restaurant,0,,0.0,0.0,0.0
+中餐,Thai Vegas,Thai Vegas,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,Sushi King,Sushi King,0,,0.0,0.0,0.0
+中餐,Peking Market,Peking Market,0,,0.0,0.0,0.0
+中餐,China a Go Go,China a Go Go,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,Diamond China Restaurant,Diamond China Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,Fortunes,Fortunes,0,,0.0,0.0,0.0
+中餐,Chang of Las Vegas,Chang of Las Vegas,0,,0.0,0.0,0.0
+中餐,Food Express Chinese Restaurant,Food Express Chinese Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,King & I at the Lakes,King & I at the Lakes,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,Dona Norma Restaurant,Dona Norma Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,Chinois,Chinois,0,,0.0,0.0,0.0
+中餐,Binion's Cafe,Binion's Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,Cook On Wok,Cook On Wok,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,Chinatown Plaza,Chinatown Plaza,0,,0.0,0.0,0.0
+中餐,Krazy Buffet,Krazy Buffet,0,,0.0,0.0,0.0
+中餐,New York Chinese Restaurant,New York Chinese Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,Chin's,Chin's,0,拉斯维加斯其它,0.0,0.0,0.0
+中餐,美国泰斯特,美国泰斯特,0,拉斯维加斯大道,0.0,0.0,0.0
+日韩料理,Todai Restaurant,Todai Restaurant,0,,7.6,7.7,7.7
+日韩料理,Nobu,Nobu,0,,0.0,0.0,0.0
+日韩料理,Tao Restaurant and Nightclub,Tao Restaurant and Nightclub,0,,7.0,8.4,8.2
+日韩料理,Sushisamba,Sushisamba,0,,7.7,8.1,8.5
+日韩料理,Sushi 21,Sushi 21,0,,8.3,8.3,8.3
+日韩料理,Yellowtail,Yellowtail,0,,7.3,7.3,7.3
+日韩料理,Makino at Premium Outlets,Makino at Premium Outlets,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Rice & Company,Rice & Company,0,,0.0,0.0,0.0
+日韩料理,Yummy Grill Sushi,Yummy Grill Sushi,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Sushi King,Sushi King,0,,0.0,0.0,0.0
+日韩料理,Bar Masa at Aria,Bar Masa at Aria,0,,0.0,0.0,0.0
+日韩料理,Sushi Roku,Sushi Roku,0,,0.0,0.0,0.0
+日韩料理,Soyo Korean Barstaurant,Soyo Korean Barstaurant,0,,0.0,0.0,0.0
+日韩料理,Kobe Sushi Bistro Seafood & Grill,Kobe Sushi Bistro Seafood & Grill,0,,0.0,0.0,0.0
+日韩料理,Sushi Fever,Sushi Fever,0,,0.0,0.0,0.0
+日韩料理,Yamaguchi Sushi,Yamaguchi Sushi,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Island Style,Island Style,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Hachi,Hachi,0,,0.0,0.0,0.0
+日韩料理,Sato-Ya,Sato-Ya,0,,0.0,0.0,0.0
+日韩料理,Soul Two,Soul Two,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Hyakumi Japanese Restaurant,Hyakumi Japanese Restaurant,0,,0.0,0.0,0.0
+日韩料理,Kobe Sushi Bar,Kobe Sushi Bar,0,,0.0,0.0,0.0
+日韩料理,Sushi On Summerlin,Sushi On Summerlin,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Hamada of Japan at the Polo Towers,Hamada of Japan at the Polo Towers,0,,0.0,0.0,0.0
+日韩料理,Shizen Japanese Restaurant,Shizen Japanese Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,KoMex Fusion Express,KoMex Fusion Express,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Sushi Loca,Sushi Loca,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Narita Sushi Bar,Narita Sushi Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Ohjah Japanese Steakhouse and Hibachi,Ohjah Japanese Steakhouse and Hibachi,0,,0.0,0.0,0.0
+日韩料理,Naka Sushi,Naka Sushi,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Sushi-Ko,Sushi-Ko,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Hamada Asian Village,Hamada Asian Village,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Tokyo Japanese Restaurant,Tokyo Japanese Restaurant,0,大道以东,0.0,0.0,0.0
+日韩料理,Island Sushi & Grill Express,Island Sushi & Grill Express,0,老城区(弗里蒙特街),0.0,0.0,0.0
+日韩料理,Sushi Mon,Sushi Mon,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Kona Grill,Kona Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Tokyoto Sushi,Tokyoto Sushi,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Osaka,Osaka,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Mijori Restaurant,Mijori Restaurant,0,大道以东,0.0,0.0,0.0
+日韩料理,Sushi Bar Sage,Sushi Bar Sage,0,拉斯维加斯北部,0.0,0.0,0.0
+日韩料理,Maru,Maru,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Samurai Sam's,Samurai Sam's,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Nozomi,Nozomi,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,E-Jo Korean Restaurant,E-Jo Korean Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Yoko Hama Sushi,Yoko Hama Sushi,0,拉斯维加斯其它,0.0,0.0,0.0
+日韩料理,Momotaro Sushi & Shabu Shabu Bar,Momotaro Sushi & Shabu Shabu Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Ping Pang Pong,Ping Pang Pong,0,,0.0,0.0,0.0
+更多亚洲菜,Cravings Buffet at The Mirage,Cravings Buffet at The Mirage,0,,0.0,0.0,0.0
+更多亚洲菜,Pho Kim Long II,Pho Kim Long II,0,,0.0,0.0,0.0
+更多亚洲菜,Jasmine,Jasmine,0,,7.2,7.7,7.7
+更多亚洲菜,Pin-Kaow Thai Cuisine Restaurant,Pin-Kaow Thai Cuisine Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Red 8 Chinese Bistro,Red 8 Chinese Bistro,0,,6.8,6.8,6.8
+更多亚洲菜,Pho So 1,Pho So 1,0,,0.0,0.0,0.0
+更多亚洲菜,Noodle Shop,Noodle Shop,0,,0.0,0.0,0.0
+更多亚洲菜,Marrakech Moroccan Restaurant,Marrakech Moroccan Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Noodle Exchange,Noodle Exchange,0,,0.0,0.0,0.0
+更多亚洲菜,Shilla Restaurant,Shilla Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Le Thai,Le Thai,0,老城区(弗里蒙特街),0.0,0.0,0.0
+更多亚洲菜,Weera Thai Restaurant,Weera Thai Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Ginseng 3,Ginseng 3,0,,0.0,0.0,0.0
+更多亚洲菜,Ocha Restaurant,Ocha Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,India Oven,India Oven,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Amena Bakery & Deli,Amena Bakery & Deli,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Nittaya's Secret Kitchen,Nittaya's Secret Kitchen,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Pin-Kaow Thai Cuisine Restaurant,Pin-Kaow Thai Cuisine Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Namaste Indian Cuisine,Namaste Indian Cuisine,0,大道以东,0.0,0.0,0.0
+更多亚洲菜,Komol Restaurant,Komol Restaurant,0,大道以东,0.0,0.0,0.0
+更多亚洲菜,Thai Cuisine,Thai Cuisine,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Archi's Thai Cafe,Archi's Thai Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Jayde Fuzion,Jayde Fuzion,0,,0.0,0.0,0.0
+更多亚洲菜,Thai Grill,Thai Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,David Wong's Pan Asian,David Wong's Pan Asian,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,El Ausente,El Ausente,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Argana Moroccan Restaurant,Argana Moroccan Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Yummy Grill & Sushi,Yummy Grill & Sushi,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Pink Ginger,Pink Ginger,0,,0.0,0.0,0.0
+更多亚洲菜,Samosa Factory,Samosa Factory,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,808 Tapas,808 Tapas,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Viet Bistro,Viet Bistro,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Sam Woo BBQ,Sam Woo BBQ,0,,0.0,0.0,0.0
+更多亚洲菜,Thai BBQ,Thai BBQ,0,拉斯维加斯大道,0.0,0.0,0.0
+更多亚洲菜,Mount Everest India's Cuisine,Mount Everest India's Cuisine,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Lillie's Asian Cuisine,Lillie's Asian Cuisine,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Kabob Korner,Kabob Korner,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Buldogis Gourmet Hot Dogs,Buldogis Gourmet Hot Dogs,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Osaka Japanese Cuisine,Osaka Japanese Cuisine,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,P.F. Chang's,P.F. Chang's,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Lilly's Thai and Vietnamese,Lilly's Thai and Vietnamese,0,,0.0,0.0,0.0
+更多亚洲菜,Poppy Den,Poppy Den,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Pei Wei Asian Diner,Pei Wei Asian Diner,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Prommares Thai Food,Prommares Thai Food,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Tea Time Cafe,Tea Time Cafe,0,拉斯维加斯北部,0.0,0.0,0.0
+更多亚洲菜,Pad Thai Restaurant,Pad Thai Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Shalimar Fine Indian Cuisine,Shalimar Fine Indian Cuisine,0,,0.0,0.0,0.0
+更多亚洲菜,Sammy's Woodfired Pizza & Grill - Flamingo,Sammy's Woodfired Pizza & Grill - Flamingo,0,,0.0,0.0,0.0
+更多亚洲菜,Saffron Flavors of India,Saffron Flavors of India,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,China Tango Bistro,China Tango Bistro,0,拉斯维加斯其它,0.0,0.0,0.0
+更多亚洲菜,Pam Real Thai,Pam Real Thai,0,,0.0,0.0,0.0
+更多亚洲菜,Cafe De Cebu,Cafe De Cebu,0,,0.0,0.0,0.0
+快餐简餐,Bacchanal Buffet,Bacchanal Buffet,308,,7.7,7.9,7.6
+快餐简餐,The Buffet at Bellagio Las Vegas,The Buffet at Bellagio Las Vegas,283,,7.2,7.6,7.6
+快餐简餐,麦当劳,麦当劳,0,,6.7,6.4,6.6
+快餐简餐,如意,如意,0,,7.3,7.0,7.0
+快餐简餐,SW Steakhouse,SW Steakhouse,0,,0.0,0.0,0.0
+快餐简餐,Wicked Spoon Buffet,Wicked Spoon Buffet,0,,7.5,8.1,8.1
+快餐简餐,Wolfgang Puck Bar & Grill at MGM Grand,Wolfgang Puck Bar & Grill at MGM Grand,0,,0.0,0.0,0.0
+快餐简餐,Sensi,Sensi,0,,0.0,0.0,0.0
+快餐简餐,Jack in the Box,Jack in the Box,0,,6.8,6.7,6.7
+快餐简餐,Picasso,Picasso,0,,7.5,7.5,8.1
+快餐简餐,MGM Grand Buffet,MGM Grand Buffet,0,,7.2,7.2,7.2
+快餐简餐,Cravings Buffet at The Mirage,Cravings Buffet at The Mirage,0,,0.0,0.0,0.0
+快餐简餐,In-N-Out Burger,In-N-Out Burger,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,"Joe's Seafood, Prime Steak and Stone Crab","Joe's Seafood, Prime Steak and Stone Crab",0,,7.2,7.5,7.5
+快餐简餐,Cafe Bellagio,Cafe Bellagio,0,,0.0,0.0,0.0
+快餐简餐,American Coney Island,American Coney Island,0,老城区(弗里蒙特街),8.4,8.4,8.4
+快餐简餐,Nathan's,Nathan's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Nathan's Famous,Nathan's Famous,0,,8.4,8.4,8.4
+快餐简餐,Hard Rock Cafe Las Vegas Strip,Hard Rock Cafe Las Vegas Strip,0,,7.5,8.4,7.5
+快餐简餐,"The Buffet at Stratosphere Casino, Hotel & Tower","The Buffet at Stratosphere Casino, Hotel & Tower",0,拉斯维加斯大道,6.7,6.7,6.1
+快餐简餐,Grand Lux Cafe,Grand Lux Cafe,0,,6.7,6.7,6.7
+快餐简餐,Denny's,Denny's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Pick Up Stix,Pick Up Stix,0,,6.9,6.9,6.9
+快餐简餐,Hash House A Go Go,Hash House A Go Go,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Public House At Luxor Hotel,Public House At Luxor Hotel,0,,0.0,0.0,0.0
+快餐简餐,Bally's Sterling Brunch,Bally's Sterling Brunch,0,,0.0,0.0,0.0
+快餐简餐,The Cheesecake Factory,The Cheesecake Factory,0,,0.0,0.0,0.0
+快餐简餐,Delmonico Steakhouse,Delmonico Steakhouse,0,,0.0,0.0,0.0
+快餐简餐,Denny's,Denny's,0,,0.0,0.0,0.0
+快餐简餐,Mingo Kitchen Lounge,Mingo Kitchen Lounge,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Stir Lounge at the Platinum Hotel,Stir Lounge at the Platinum Hotel,0,,0.0,0.0,0.0
+快餐简餐,Cheesecake Revue,Cheesecake Revue,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,In-N-Out Burger,In-N-Out Burger,0,,0.0,0.0,0.0
+快餐简餐,Sam's Town Firelight Buffet,Sam's Town Firelight Buffet,0,,0.0,0.0,0.0
+快餐简餐,Top of the world restaurant,Top of the world restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,IHOP,IHOP,0,拉斯维加斯大道,0.0,0.0,0.0
+快餐简餐,Stripburger,Stripburger,0,,0.0,0.0,0.0
+快餐简餐,Lola's,Lola's,0,拉斯维加斯大道,0.0,0.0,0.0
+快餐简餐,Garden Cafe,Garden Cafe,0,,0.0,0.0,0.0
+快餐简餐,Vic & Anthony's Steakhouse - Las Vegas,Vic & Anthony's Steakhouse - Las Vegas,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Wolfgang Puck Pizzeria & Cucina,Wolfgang Puck Pizzeria & Cucina,0,,0.0,0.0,0.0
+快餐简餐,Piero's Italian Cuisine,Piero's Italian Cuisine,0,,0.0,0.0,0.0
+快餐简餐,The Pub,The Pub,0,,0.0,0.0,0.0
+快餐简餐,Snack Bar at the Bellagio,Snack Bar at the Bellagio,0,,0.0,0.0,0.0
+快餐简餐,Neiman Marcus Caafe,Neiman Marcus Caafe,0,,0.0,0.0,0.0
+快餐简餐,Aureole,Aureole,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,The Cheesecake Factory,The Cheesecake Factory,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Wild,Wild,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Commonwealth Las Vegas,Commonwealth Las Vegas,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Alize at the Palms,Alize at the Palms,0,,0.0,0.0,0.0
+快餐简餐,BLT Burger,BLT Burger,0,,0.0,0.0,0.0
+快餐简餐,Wetzel's Pretzels,Wetzel's Pretzels,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Nordstrom Marketplace Cafe,Nordstrom Marketplace Cafe,0,,0.0,0.0,0.0
+快餐简餐,Binion's Ranch Steakhouse,Binion's Ranch Steakhouse,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Restaurant at Golden Gate Hotel & Casino,Restaurant at Golden Gate Hotel & Casino,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Du-Par's Restaurant and Bakery,Du-Par's Restaurant and Bakery,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Hash House a Go Go Plaza Hotel,Hash House a Go Go Plaza Hotel,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Hugo's Cellar,Hugo's Cellar,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,The Country Club,The Country Club,0,,0.0,0.0,0.0
+快餐简餐,Round Table,Round Table,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Omelet House Summerlin,Omelet House Summerlin,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Bonanno's New York Pizzeria,Bonanno's New York Pizzeria,0,,0.0,0.0,0.0
+快餐简餐,Omelet House,Omelet House,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Brendan's Irish Pub,Brendan's Irish Pub,0,,0.0,0.0,0.0
+快餐简餐,In-N-Out Burger,In-N-Out Burger,0,,0.0,0.0,0.0
+快餐简餐,Victorian Room,Victorian Room,0,,0.0,0.0,0.0
+快餐简餐,Addiction,Addiction,0,,0.0,0.0,0.0
+快餐简餐,Burger Bar,Burger Bar,0,,0.0,0.0,0.0
+快餐简餐,Bonanza Lounge,Bonanza Lounge,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Lou's Diner,Lou's Diner,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Denny's,Denny's,0,,0.0,0.0,0.0
+快餐简餐,Sao Paulo Cafe,Sao Paulo Cafe,0,,0.0,0.0,0.0
+快餐简餐,Feast Buffet at Palace Station,Feast Buffet at Palace Station,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Cafe Heidelberg Beer & Wine Cellar,Cafe Heidelberg Beer & Wine Cellar,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Magnolia's Veranda,Magnolia's Veranda,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Marie Callender's,Marie Callender's,0,拉斯维加斯大道,0.0,0.0,0.0
+快餐简餐,Boston Pizza,Boston Pizza,0,拉斯维加斯大道,0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,,0.0,0.0,0.0
+快餐简餐,Roxy's Diner,Roxy's Diner,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Rainbow's End Natural Foods,Rainbow's End Natural Foods,0,大道以东,0.0,0.0,0.0
+快餐简餐,Chili's Grill & Bar,Chili's Grill & Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Fatburger,Fatburger,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Ruby Tuesday,Ruby Tuesday,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Kopper Keg,Kopper Keg,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Gritz Cafe,Gritz Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Vanguard Lounge,Vanguard Lounge,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Burgundy Room,Burgundy Room,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Wild Burger,Wild Burger,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Wine 5 Cafe,Wine 5 Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Magoo's,Magoo's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Cafe Zupas,Cafe Zupas,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Baked Fried Grilled: Chicken Strips,Baked Fried Grilled: Chicken Strips,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Schlotzsky's,Schlotzsky's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Hennessey's Tavern,Hennessey's Tavern,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Aria Coffee Shop,Aria Coffee Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,"Tony Roma's Ribs, Seafood, & Steaks","Tony Roma's Ribs, Seafood, & Steaks",0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Artisan Fine Dining Room,Artisan Fine Dining Room,0,拉斯维加斯大道,0.0,0.0,0.0
+快餐简餐,Dick's Last Resort,Dick's Last Resort,0,,0.0,0.0,0.0
+快餐简餐,PBR Rockbar & Grill,PBR Rockbar & Grill,0,,0.0,0.0,0.0
+快餐简餐,The Cafe,The Cafe,0,,0.0,0.0,0.0
+快餐简餐,Mickie Finnz,Mickie Finnz,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Heart Attack Grill,Heart Attack Grill,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Oscar's Steakhouse,Oscar's Steakhouse,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Yard House - Red Rock Casino,Yard House - Red Rock Casino,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,DW Bistro,DW Bistro,0,,0.0,0.0,0.0
+快餐简餐,Babystacks Cafe,Babystacks Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,M&M Soul Food Restaurant,M&M Soul Food Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Montesano's Italian Deli,Montesano's Italian Deli,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Mikado Restaurant at The Mirage,Mikado Restaurant at The Mirage,0,,0.0,0.0,0.0
+快餐简餐,Velveteen Rabbit,Velveteen Rabbit,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Great Links Hot Dogs and Grill,Great Links Hot Dogs and Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Triple 7 Brewpub,Triple 7 Brewpub,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Triple George Grill,Triple George Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Eat.,Eat.,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Four Kegs Sports Pub,Four Kegs Sports Pub,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Rocco's New York Italian Deli,Rocco's New York Italian Deli,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Outback Steakhouse,Outback Steakhouse,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Islands,Islands,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Five Guys,Five Guys,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Big Dog's Draft House,Big Dog's Draft House,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Jason's Deli,Jason's Deli,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,O'aces Bar & Grill,O'aces Bar & Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Tenaya Creek Restaurant & Brewery,Tenaya Creek Restaurant & Brewery,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Sonio's Cafe,Sonio's Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Our Families Country Cafe,Our Families Country Cafe,0,,0.0,0.0,0.0
+快餐简餐,A Cut Above Restaurant,A Cut Above Restaurant,0,,0.0,0.0,0.0
+快餐简餐,Count Vamp'd Bar & Grill,Count Vamp'd Bar & Grill,0,,0.0,0.0,0.0
+快餐简餐,Big Dog's Cafe & Casino,Big Dog's Cafe & Casino,0,,0.0,0.0,0.0
+快餐简餐,Panda Express,Panda Express,0,,6.9,6.9,6.9
+快餐简餐,Courtyard Grill & Buffet,Courtyard Grill & Buffet,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Ruby's Diner,Ruby's Diner,0,,0.0,0.0,0.0
+快餐简餐,Outback Steak House,Outback Steak House,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Denny's,Denny's,0,,7.0,7.1,7.1
+快餐简餐,Tiffany's Cafe,Tiffany's Cafe,0,拉斯维加斯大道,0.0,0.0,0.0
+快餐简餐,The Goodwich,The Goodwich,0,拉斯维加斯大道,0.0,0.0,0.0
+快餐简餐,Jersey Mike's Subs,Jersey Mike's Subs,0,,0.0,0.0,0.0
+快餐简餐,Cafe Vettro,Cafe Vettro,0,,0.0,0.0,0.0
+快餐简餐,Smashburger,Smashburger,0,拉斯维加斯北部,0.0,0.0,0.0
+快餐简餐,EllaEm's Soul Food,EllaEm's Soul Food,0,拉斯维加斯北部,0.0,0.0,0.0
+快餐简餐,Tony Roma's - Fremont Hotel,Tony Roma's - Fremont Hotel,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Lappert's Ice Cream,Lappert's Ice Cream,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Garfield's Restaurant,Garfield's Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,El Fidel,El Fidel,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Windy City Beef N Dogs,Windy City Beef N Dogs,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Applebee's,Applebee's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Rise & Shine,Rise & Shine,0,,0.0,0.0,0.0
+快餐简餐,Rock 'N'oodles,Rock 'N'oodles,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Rachel's Kitchen,Rachel's Kitchen,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,777 Restaurant and Brewery,777 Restaurant and Brewery,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,IHOP,IHOP,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Buffet at Red Rock Casino,Buffet at Red Rock Casino,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Sincity Burgers Centennial,Sincity Burgers Centennial,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,The Commissary Latin Kitchen by Richard Sandoval,The Commissary Latin Kitchen by Richard Sandoval,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Second Street Grill,Second Street Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Lillie Langtry's,Lillie Langtry's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Huntridge Drug Store Restaurant,Huntridge Drug Store Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Rachel's Kitchen,Rachel's Kitchen,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,D Grill,D Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Park On Fremont,Park On Fremont,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Mimi's Cafe,Mimi's Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Feast Buffet at Red Rock Resort,Feast Buffet at Red Rock Resort,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Shari's Diner,Shari's Diner,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Claim Jumper,Claim Jumper,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Hush Puppy,Hush Puppy,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Lucille's Smokehouse Bar-B-Que,Lucille's Smokehouse Bar-B-Que,0,,0.0,0.0,0.0
+快餐简餐,BJ's Brewhouse,BJ's Brewhouse,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Three Angry Wives Pub,Three Angry Wives Pub,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,I Love Yogurt,I Love Yogurt,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Rachel's Kitchen,Rachel's Kitchen,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Honey Salt,Honey Salt,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Panera Bread,Panera Bread,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Chicago Hot dog,Chicago Hot dog,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Ogden's Hops & Harvest,Ogden's Hops & Harvest,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Foundation Room,Foundation Room,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,The Cracked Egg,The Cracked Egg,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Vintner Grill,Vintner Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Dita's,Dita's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,The Cracked Egg,The Cracked Egg,0,,0.0,0.0,0.0
+快餐简餐,Weeziana Gumbo & More,Weeziana Gumbo & More,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Blueberry Hill Family Restaurant,Blueberry Hill Family Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Polish Deli,Polish Deli,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Nevada Chicken Cafe,Nevada Chicken Cafe,0,,0.0,0.0,0.0
+快餐简餐,Greenburgh Deli,Greenburgh Deli,0,,0.0,0.0,0.0
+快餐简餐,Artisan Hotel Boutiques Mood Restaurant,Artisan Hotel Boutiques Mood Restaurant,0,拉斯维加斯大道,0.0,0.0,0.0
+快餐简餐,Snick's Place,Snick's Place,0,拉斯维加斯大道,0.0,0.0,0.0
+快餐简餐,Stan Fulton Bistro at UNLV,Stan Fulton Bistro at UNLV,0,,0.0,0.0,0.0
+快餐简餐,American Grill,American Grill,0,,0.0,0.0,0.0
+快餐简餐,Mimi's Cafe -Northwest,Mimi's Cafe -Northwest,0,拉斯维加斯北部,0.0,0.0,0.0
+快餐简餐,Winchell's Pub & Grill,Winchell's Pub & Grill,0,拉斯维加斯北部,0.0,0.0,0.0
+快餐简餐,Courthouse Bar & Grill,Courthouse Bar & Grill,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Zax,Zax,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,The San Francisco Shrimp Bar & Deli,The San Francisco Shrimp Bar & Deli,0,老城区(弗里蒙特街),0.0,0.0,0.0
+快餐简餐,Promenade Cafe,Promenade Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Cafe Sienna,Cafe Sienna,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,John Cutter,John Cutter,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Rendezvous Cafe,Rendezvous Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Tony Roma's - Summerlin,Tony Roma's - Summerlin,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Menchie's,Menchie's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Waterside Cafe,Waterside Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Sierra Gold,Sierra Gold,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Wine Bar @ Tivioli Village,Wine Bar @ Tivioli Village,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Fireside Restaurant & Tavern,Fireside Restaurant & Tavern,0,,0.0,0.0,0.0
+快餐简餐,Bob Taylor's Original Ranch House,Bob Taylor's Original Ranch House,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Carson Street Cafe,Carson Street Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Drink and Drag,Drink and Drag,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Bennys Bullpen,Bennys Bullpen,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,The Melting Pot,The Melting Pot,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Feast Buffet at Santa Fe Station,Feast Buffet at Santa Fe Station,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Which Wich,Which Wich,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Rampart Buffet,Rampart Buffet,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Festival Buffet,Festival Buffet,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Steiner's Pub,Steiner's Pub,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Wildfire Casino Restaurant,Wildfire Casino Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Landry's Seafood House,Landry's Seafood House,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Springs Cafe,Springs Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Taco Bell,Taco Bell,0,,6.9,6.9,6.9
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Denny's,Denny's,0,,7.1,7.1,7.1
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,Denny's,Denny's,0,,6.9,6.9,6.9
+快餐简餐,Burger King,Burger King,0,,6.9,6.9,6.9
+快餐简餐,Carl's Jr.,Carl's Jr.,0,,6.9,6.9,6.9
+快餐简餐,Poke Express,Poke Express,0,,7.1,7.0,6.9
+快餐简餐,Subway,Subway,0,,6.9,6.9,6.9
+快餐简餐,Sonic Drive-In,Sonic Drive-In,0,,7.0,7.0,7.0
+快餐简餐,KFC,KFC,0,,6.9,6.9,6.9
+快餐简餐,Arby's,Arby's,0,,7.1,7.1,7.1
+快餐简餐,Santa Fe Mining Co,Santa Fe Mining Co,0,拉斯维加斯北部,0.0,0.0,0.0
+快餐简餐,Chez Napoleon,Chez Napoleon,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Arby's,Arby's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,North Forty Saloon and Barbeque,North Forty Saloon and Barbeque,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Lumberjacks Restaurant,Lumberjacks Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Smoothie King,Smoothie King,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Luca's Cafe & Deli,Luca's Cafe & Deli,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Dotty's,Dotty's,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Bomas,Bomas,0,,0.0,0.0,0.0
+快餐简餐,The Griddle,The Griddle,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,Johnny Rockets,Johnny Rockets,0,拉斯维加斯其它,0.0,0.0,0.0
+快餐简餐,The Coffee Shop,The Coffee Shop,0,,0.0,0.0,0.0
+快餐简餐,Golden Grill,Golden Grill,0,老城区(弗里蒙特街),0.0,0.0,0.0
+海鲜,The Boiling Crab,The Boiling Crab,0,,0.0,0.0,0.0
+海鲜,Red Lobster,Red Lobster,0,拉斯维加斯其它,8.2,8.2,8.2
+海鲜,The Oyster Bar,The Oyster Bar,0,,7.5,6.7,7.5
+海鲜,Michael Mina at Bellagio,Michael Mina at Bellagio,0,,0.0,0.0,0.0
+海鲜,Oyster Bay Seafood LLC,Oyster Bay Seafood LLC,0,,0.0,0.0,0.0
+海鲜,R Steak & Seafood,R Steak & Seafood,0,,0.0,0.0,0.0
+海鲜,Village Seafood Buffet,Village Seafood Buffet,0,,0.0,0.0,0.0
+海鲜,RM Seafood Mandalay Bay Hotel,RM Seafood Mandalay Bay Hotel,0,,0.0,0.0,0.0
+海鲜,The Crab Corner,The Crab Corner,0,,0.0,0.0,0.0
+海鲜,Red Square,Red Square,0,,0.0,0.0,0.0
+海鲜,Joe's Crab Shack,Joe's Crab Shack,0,拉斯维加斯其它,0.0,0.0,0.0
+海鲜,Shucks Tavern and Oyster Bar,Shucks Tavern and Oyster Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+海鲜,Fish Spot,Fish Spot,0,拉斯维加斯北部,0.0,0.0,0.0
+烧烤,H & H Barbeque,H & H Barbeque,0,拉斯维加斯其它,0.0,0.0,0.0
+烧烤,Texas Barbecue,Texas Barbecue,0,拉斯维加斯其它,0.0,0.0,0.0
+烧烤,Famous Dave's Bar-B-Que,Famous Dave's Bar-B-Que,0,拉斯维加斯其它,0.0,0.0,0.0
+烧烤,John Mull's Road Killl Grill,John Mull's Road Killl Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+烧烤,St. Tropez Buffet,St. Tropez Buffet,0,拉斯维加斯其它,0.0,0.0,0.0
+烧烤,Famous Dave's,Famous Dave's,0,,7.2,7.2,7.2
+烧烤,Dick's Last Resort,Dick's Last Resort,0,,0.0,0.0,0.0
+烧烤,L L Hawaiian BBQ,L L Hawaiian BBQ,0,,0.0,0.0,0.0
+烧烤,Sam Woo BBQ,Sam Woo BBQ,0,,0.0,0.0,0.0
+烧烤,Lucille's Smokehouse Bar-B-Que,Lucille's Smokehouse Bar-B-Que,0,,0.0,0.0,0.0
+烧烤,Mahalo Express,Mahalo Express,0,老城区(弗里蒙特街),0.0,0.0,0.0
+烧烤,Lynyrd Skynyrd BBQ & Beer Excalibur Hotel & Casino,Lynyrd Skynyrd BBQ & Beer Excalibur Hotel & Casino,0,拉斯维加斯其它,0.0,0.0,0.0
+烧烤,Sassy Sal's BBQ,Sassy Sal's BBQ,0,,7.1,7.1,7.1
+比萨,Five50,Five50,0,,0.0,0.0,0.0
+比萨,Villa Pizza,Villa Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Pop Up Pizza,Pop Up Pizza,0,老城区(弗里蒙特街),0.0,0.0,0.0
+比萨,Secret Pizza,Secret Pizza,0,,0.0,0.0,0.0
+比萨,New York Pizzeria - NYNY Hotel and Casino,New York Pizzeria - NYNY Hotel and Casino,0,,0.0,0.0,0.0
+比萨,Nora's Cuisine,Nora's Cuisine,0,,0.0,0.0,0.0
+比萨,Mr. Jim's Pizza,Mr. Jim's Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Sicilian Pizza,Sicilian Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Manhattan Pizza,Manhattan Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Northside Nathans,Northside Nathans,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Pizza Rock,Pizza Rock,0,老城区(弗里蒙特街),0.0,0.0,0.0
+比萨,Metro Pizza,Metro Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Uncle Joe's Pizza,Uncle Joe's Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Radio City Pizza,Radio City Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Project Pie,Project Pie,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Rocco's NY Pizzeria,Rocco's NY Pizzeria,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Viva Pizza,Viva Pizza,0,,0.0,0.0,0.0
+比萨,Mr. Eatz,Mr. Eatz,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,The Pizza Kings,The Pizza Kings,0,,6.7,6.9,6.9
+比萨,Happy's Pizza,Happy's Pizza,0,,6.9,6.7,6.9
+比萨,Broadway Pizzeria,Broadway Pizzeria,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Albo Pizza,Albo Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Sorrento Pizza,Sorrento Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Manhattan Pizza,Manhattan Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Pizza Lounge,Pizza Lounge,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,East Side Pizza,East Side Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Paris Pizza,Paris Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,Sammy's Woodfired Pizza & Grill - Flamingo,Sammy's Woodfired Pizza & Grill - Flamingo,0,,0.0,0.0,0.0
+比萨,Radio City Pizzeria,Radio City Pizzeria,0,拉斯维加斯其它,0.0,0.0,0.0
+比萨,CiCi's Pizza,CiCi's Pizza,0,,6.9,6.9,6.9
+比萨,Monte's Pizza Restaurant,Monte's Pizza Restaurant,0,,6.9,6.9,6.9
+比萨,UNCLE Angelo's Pizza Joint,UNCLE Angelo's Pizza Joint,0,,6.9,6.9,6.9
+比萨,Papa John's Pizza,Papa John's Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Hut,Pizza Hut,0,,6.9,6.9,6.9
+比萨,Little Caesars,Little Caesars,0,,7.0,7.0,6.9
+比萨,Aurelio's Pizza,Aurelio's Pizza,0,,7.0,7.1,7.0
+比萨,Domino's Pizza,Domino's Pizza,0,,7.0,7.0,6.9
+比萨,Rosati's Pizza,Rosati's Pizza,0,,7.1,7.1,7.1
+比萨,Rocco's Newyork Pizza,Rocco's Newyork Pizza,0,,7.0,7.0,7.0
+比萨,Chuck E. Cheese's,Chuck E. Cheese's,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Sprinkles Cupcakes,Sprinkles Cupcakes,0,,0.0,0.0,0.0
+面包甜点,Cafe Gelato,Cafe Gelato,0,,0.0,0.0,0.0
+面包甜点,Jean Philippe Patisserie - Bellagio,Jean Philippe Patisserie - Bellagio,0,,7.6,7.6,7.6
+面包甜点,Jean Philippe Patisserie - Aria Resort,Jean Philippe Patisserie - Aria Resort,0,,7.6,7.6,7.6
+面包甜点,Blizz Frozen Yogurt,Blizz Frozen Yogurt,0,,7.0,7.0,7.0
+面包甜点,Bally's Sterling Brunch,Bally's Sterling Brunch,0,,0.0,0.0,0.0
+面包甜点,Chang of Las Vegas,Chang of Las Vegas,0,,0.0,0.0,0.0
+面包甜点,Art of Flavors Gelato,Art of Flavors Gelato,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Pies Unlimited,Pies Unlimited,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Cupkates by Kate,Cupkates by Kate,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Retro Bakery,Retro Bakery,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Freed's Bakery,Freed's Bakery,0,,0.0,0.0,0.0
+面包甜点,Rocky Mountain Chocolate Factory,Rocky Mountain Chocolate Factory,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,The Cupcakery,The Cupcakery,0,,0.0,0.0,0.0
+面包甜点,Baskin-Robbins,Baskin-Robbins,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Dulce Donuts,Dulce Donuts,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Pink Box Doughnuts,Pink Box Doughnuts,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Beau Monde Bakery,Beau Monde Bakery,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Los Pinguino,Los Pinguino,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Carlo's Bakery,Carlo's Bakery,0,,0.0,0.0,0.0
+面包甜点,Chocolate & Spice Bakery,Chocolate & Spice Bakery,0,,0.0,0.0,0.0
+面包甜点,Gigi's Cupcakes,Gigi's Cupcakes,0,,0.0,0.0,0.0
+面包甜点,Bagel Corner Deli & Bakery,Bagel Corner Deli & Bakery,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Streetcar Po-Boys,Streetcar Po-Boys,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,The Bagel Cafe,The Bagel Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Roasted bean,Roasted bean,0,,0.0,0.0,0.0
+面包甜点,Golden Spoon,Golden Spoon,0,拉斯维加斯其它,0.0,0.0,0.0
+面包甜点,Extreme Pita,Extreme Pita,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Wynn Buffet,Wynn Buffet,0,,7.4,7.7,7.3
+其他美食,The Buffet at Aria,The Buffet at Aria,0,,8.4,7.8,8.4
+其他美食,Panda Express,Panda Express,0,,8.1,8.1,8.1
+其他美食,The Great Steak & Potato Co.,The Great Steak & Potato Co.,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Tower Pizzeria,Tower Pizzeria,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,,8.3,7.4,7.4
+其他美食,In-N-Out Burger,In-N-Out Burger,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Four Queens Hotel and Casino,Four Queens Hotel and Casino,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Carl's Jr.,Carl's Jr.,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Hogs and Heifers,Hogs and Heifers,0,老城区(弗里蒙特街),7.3,7.3,6.8
+其他美食,Barista Bagels and More,Barista Bagels and More,0,,0.0,0.0,0.0
+其他美食,Carnival World Buffet,Carnival World Buffet,0,,6.8,7.2,6.8
+其他美食,Sugarcane,Sugarcane,0,,0.0,0.0,0.0
+其他美食,Subway,Subway,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Auntie Anne's,Auntie Anne's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Red Rock Canyon Casino and Spa,Red Rock Canyon Casino and Spa,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Garden Court Buffet,Garden Court Buffet,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,The Cracked Egg,The Cracked Egg,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Jack in the Box,Jack in the Box,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Hawaiian Style Poke,Hawaiian Style Poke,0,,0.0,0.0,0.0
+其他美食,Kaew Thai,Kaew Thai,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Prima Pizza & Deli,Prima Pizza & Deli,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Port of Subs,Port of Subs,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Bistro Buffet,Bistro Buffet,0,,0.0,0.0,0.0
+其他美食,Grand Lux Cafe,Grand Lux Cafe,0,,0.0,0.0,0.0
+其他美食,Carl's Jr.,Carl's Jr.,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Sourdough Cafe,Sourdough Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Outback Steakhouse,Outback Steakhouse,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Galanga Thai Eatery,Galanga Thai Eatery,0,,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,,0.0,0.0,0.0
+其他美食,Banana Leaf Cafe,Banana Leaf Cafe,0,,0.0,0.0,0.0
+其他美食,Wing Heaven - Las Vegas,Wing Heaven - Las Vegas,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Charlie's Down Under,Charlie's Down Under,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,L & L Hawaiian Barbecue,L & L Hawaiian Barbecue,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Nothing Bundt Cakes,Nothing Bundt Cakes,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,IHOP,IHOP,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Smokin' Barbie BBQ,Smokin' Barbie BBQ,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Dirty South,Dirty South,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,La Mojarra Loca,La Mojarra Loca,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Longhornbar-b-que,Longhornbar-b-que,0,,0.0,0.0,0.0
+其他美食,It's A Grind,It's A Grind,0,,0.0,0.0,0.0
+其他美食,Sidebar,Sidebar,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Capriotti's,Capriotti's,0,,0.0,0.0,0.0
+其他美食,Luv-It Frozen Custard,Luv-It Frozen Custard,0,拉斯维加斯大道,0.0,0.0,0.0
+其他美食,Kimy's Deli,Kimy's Deli,0,,0.0,0.0,0.0
+其他美食,Red Rock Casino Resort Spa,Red Rock Casino Resort Spa,0,,0.0,0.0,0.0
+其他美食,El Nopal,El Nopal,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Buffet Asia,Buffet Asia,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Griffin,The Griffin,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,El Pollo Loco,El Pollo Loco,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Firefly Kitchen & Bar,Firefly Kitchen & Bar,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,Redwood Bar & Grill,Redwood Bar & Grill,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,RED SUSHI,RED SUSHI,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,Chicago Brewing Company,Chicago Brewing Company,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,The Egg & I,The Egg & I,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Blueberry Hill Family Restaurant,Blueberry Hill Family Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Vons,Vons,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Plate Buffet,The Plate Buffet,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Studio Cafe,Studio Cafe,0,,0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Minus V Mc Lv,Minus V Mc Lv,0,,0.0,0.0,0.0
+其他美食,CatHouse at Luxor,CatHouse at Luxor,0,,0.0,0.0,0.0
+其他美食,California Club,California Club,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,Mansion Dining Room,Mansion Dining Room,0,,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,China One,China One,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,In-N-Out Burger,In-N-Out Burger,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Oyster Bar in the Suncoast Casino,The Oyster Bar in the Suncoast Casino,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Capriotti's Sandwich Shop,Capriotti's Sandwich Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Vince Neil's Tatuado and Cantina,Vince Neil's Tatuado and Cantina,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Subway,Subway,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Nathan's Famous,Nathan's Famous,0,,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Fat Boy Restaurant,Fat Boy Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Farmer Boys,Farmer Boys,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Olive Garden,Olive Garden,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Juarez Border Food,Juarez Border Food,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Babystacks Cafe,Babystacks Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Akimi's Snacks,Akimi's Snacks,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Fanny's Bistro & Deli,Fanny's Bistro & Deli,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Asadas Tacos,Asadas Tacos,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Simply Pure by Chef Stacey Dougan,Simply Pure by Chef Stacey Dougan,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Jimmy John's,Jimmy John's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Roberto's Taco Shop,Roberto's Taco Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Papa John's,Papa John's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Jersey Mike's Subs,Jersey Mike's Subs,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Wingstop,Wingstop,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Smoke Ranch Junction,Smoke Ranch Junction,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Firehouse Subs,Firehouse Subs,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Capriotti's Sandwich Shop,Capriotti's Sandwich Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Zaba's Mexican Grill,Zaba's Mexican Grill,0,,0.0,0.0,0.0
+其他美食,Sun City Cafe,Sun City Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Rocket Fizz,Rocket Fizz,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Capriotti's Sandwich Shop,Capriotti's Sandwich Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Sushi Bomb,Sushi Bomb,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Poppy's Frozen Yogurt,Poppy's Frozen Yogurt,0,,0.0,0.0,0.0
+其他美食,Westside Grill Incorporated,Westside Grill Incorporated,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Fugisan,Fugisan,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Mr D's Sportsbar & Grill,Mr D's Sportsbar & Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Capriotti's Sandwich Shop,Capriotti's Sandwich Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Food Express,Food Express,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Joe's New York Pizza,Joe's New York Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Los Tacos,Los Tacos,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Doc Holiday Saloon,Doc Holiday Saloon,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Ohjah Japanese Steakhouse Sushi and Hibachi,Ohjah Japanese Steakhouse Sushi and Hibachi,0,,0.0,0.0,0.0
+其他美食,The Lift,The Lift,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Dominos Pizza,Dominos Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Cafe de Manila,Cafe de Manila,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Moon Doggies,Moon Doggies,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Golden Nugget Buffet,Golden Nugget Buffet,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Paradise Buffet and Cafe,Paradise Buffet and Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Subway,Subway,0,,0.0,0.0,0.0
+其他美食,Gordon Biersch,Gordon Biersch,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Internet Cafe,Internet Cafe,0,,0.0,0.0,0.0
+其他美食,Nathan's Famous,Nathan's Famous,0,,0.0,0.0,0.0
+其他美食,Cafe Cortez,Cafe Cortez,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,Chart House Restaurant,Chart House Restaurant,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,Grand Cafe at Redrock Resort,Grand Cafe at Redrock Resort,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Heidi's Brooklyn Deli,Heidi's Brooklyn Deli,0,,0.0,0.0,0.0
+其他美食,Waffles Cafe,Waffles Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Raising Cane's Chicken Fingers,Raising Cane's Chicken Fingers,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Baladie Cafe,Baladie Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Los Molcajetes,Los Molcajetes,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Restaurant At Los Prados,Restaurant At Los Prados,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,MTO Café,MTO Café,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Pinches Taco,Pinches Taco,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Grotto,Grotto,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Jamm's Restaurant,Jamm's Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Sunshine Cafe,Sunshine Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Roberto's Taco Shop,Roberto's Taco Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Chili's,Chili's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Ben & Jerry's,Ben & Jerry's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Leone Cafe,Leone Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Cabana Grill,Cabana Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Roberto's Taco Shop,Roberto's Taco Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Sweet Tomatoes,Sweet Tomatoes,0,,0.0,0.0,0.0
+其他美食,Firehouse Subs,Firehouse Subs,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Johnny Rockets,Johnny Rockets,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Kabuki Japanese Restaurant,Kabuki Japanese Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Roadrunner Saloon,Roadrunner Saloon,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Settebello,Settebello,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Chop Chop Wok,Chop Chop Wok,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Sultan's Grill,Sultan's Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Go Raw Cafe,Go Raw Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Tropical Smoothie Cafe,Tropical Smoothie Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Ohana Hawaiian Barbeque,Ohana Hawaiian Barbeque,0,,0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Marnee Thai Restaurant,Marnee Thai Restaurant,0,,0.0,0.0,0.0
+其他美食,"Braddah's Island Style - burritos, bowls & tacos","Braddah's Island Style - burritos, bowls & tacos",0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Applebee's,Applebee's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Real Donuts,Real Donuts,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Fatburger,Fatburger,0,,0.0,0.0,0.0
+其他美食,The Village Restaurant,The Village Restaurant,0,,0.0,0.0,0.0
+其他美食,Cafe Rio,Cafe Rio,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Little Hong Kong,Little Hong Kong,0,,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,La Fiesta Restaurant,La Fiesta Restaurant,0,拉斯维加斯大道,0.0,0.0,0.0
+其他美食,Chinese Village Restaurant,Chinese Village Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Badger Cafe,Badger Cafe,0,,0.0,0.0,0.0
+其他美食,Sammys Woodfired Pizza,Sammys Woodfired Pizza,0,拉斯维加斯北部,0.0,0.0,0.0
+其他美食,Krispy Kreme Doughnuts,Krispy Kreme Doughnuts,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,Chicago Brewing Company,Chicago Brewing Company,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Angel Park Golf Club,Angel Park Golf Club,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Fatburger,Fatburger,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,New York Pizza & Pasta,New York Pizza & Pasta,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Opa!,Opa!,0,,0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,,0.0,0.0,0.0
+其他美食,Rockin Tacos,Rockin Tacos,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Pizza Natali,Pizza Natali,0,,0.0,0.0,0.0
+其他美食,Philly Cheesesteak Factory,Philly Cheesesteak Factory,0,,0.0,0.0,0.0
+其他美食,Little Dumpling,Little Dumpling,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Aloha Kitchen,Aloha Kitchen,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Port of Subs,Port of Subs,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Seven Seas Restaurant & Lounge,Seven Seas Restaurant & Lounge,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Jack in the Box,Jack in the Box,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Cafe Rio,Cafe Rio,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Bj's Restaurant and Brewhouse,Bj's Restaurant and Brewhouse,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Capriotti's Sandwich Shop,Capriotti's Sandwich Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Zaba's Mexican Grill,Zaba's Mexican Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,L&L Hawaiian Barbecue,L&L Hawaiian Barbecue,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Above the Crust,Above the Crust,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Divine Eatery,Divine Eatery,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Jerry's Nugget Casino,Jerry's Nugget Casino,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,La Palapa,La Palapa,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Market Street Cafe,Market Street Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Noble Roman's,Noble Roman's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Downtown Grand Hotel,The Downtown Grand Hotel,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Las Vegas Country Saloon,The Las Vegas Country Saloon,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Rosati's Pizza,Rosati's Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Round Table Pizza,Round Table Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Baja Fresh,Baja Fresh,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Subway,Subway,0,,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Fatburger,Fatburger,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Steiner's A Nevada Style Pub,Steiner's A Nevada Style Pub,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Teriyaki Madness,Teriyaki Madness,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,IHOP,IHOP,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Krazy Buffet,Krazy Buffet,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Subway,Subway,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Subway,Subway,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Steiner's,Steiner's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Little Caesars,Little Caesars,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Smashburger,Smashburger,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Kerry's Sports Pub Pizza and Grille,Kerry's Sports Pub Pizza and Grille,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Village Pub and Casino-Summerlin,Village Pub and Casino-Summerlin,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Guthrie's,Guthrie's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Del Taco,Del Taco,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Wendy's,Wendy's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Ballys-Las Vegas Restaurants,Ballys-Las Vegas Restaurants,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Bachi Burger - Summerlin,Bachi Burger - Summerlin,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Red Ribbon Bake Shop,Red Ribbon Bake Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Burger King,Burger King,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Sabatino's Ny Pizzeria,Sabatino's Ny Pizzeria,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Cilantro Tacos,Cilantro Tacos,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Jack in the Box,Jack in the Box,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Cracked Egg,The Cracked Egg,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Tony's Mexican Food,Tony's Mexican Food,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Martinis,Martinis,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Westcliff Station,Westcliff Station,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Wild Sage,Wild Sage,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Carmel Room,Carmel Room,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Rachel's Kitchen,Rachel's Kitchen,0,,0.0,0.0,0.0
+其他美食,Sweet Tomatoes,Sweet Tomatoes,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Jack in the Box,Jack in the Box,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Triple Play,Triple Play,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Villa Pizza,Villa Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Little Kitchen Cafe,The Little Kitchen Cafe,0,,0.0,0.0,0.0
+其他美食,WAKE UP Coffee CAFE,WAKE UP Coffee CAFE,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Shutters Bar at the Rio,Shutters Bar at the Rio,0,,0.0,0.0,0.0
+其他美食,Al's Beef,Al's Beef,0,,0.0,0.0,0.0
+其他美食,The Egg Works,The Egg Works,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Als' Doughnuts - Cafe Burger,Als' Doughnuts - Cafe Burger,0,,0.0,0.0,0.0
+其他美食,Chicken Connection,Chicken Connection,0,,0.0,0.0,0.0
+其他美食,Kiefer's,Kiefer's,0,,0.0,0.0,0.0
+其他美食,Krazy Sushi,Krazy Sushi,0,拉斯维加斯北部,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,Brass Lounge,Brass Lounge,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,Cafelatte,Cafelatte,0,老城区(弗里蒙特街),0.0,0.0,0.0
+其他美食,Caffe Gelato,Caffe Gelato,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Excalibur Roundtable Buffet,Excalibur Roundtable Buffet,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Edge Of Town Bar & Grill,The Edge Of Town Bar & Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Panera Bread,Panera Bread,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Subway,Subway,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Beano's Casino,Beano's Casino,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Pepe's Tacos,Pepe's Tacos,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Cupcakery,The Cupcakery,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Shawarma Vegas,Shawarma Vegas,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Crepe,The Crepe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Ohjah Japanese Steakhouse Sushi & Hibachi Rainbow,Ohjah Japanese Steakhouse Sushi & Hibachi Rainbow,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Starbucks,Starbucks,0,,0.0,0.0,0.0
+其他美食,Bon Breads,Bon Breads,0,,0.0,0.0,0.0
+其他美食,Heidi's Brooklyn Deli,Heidi's Brooklyn Deli,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Jersey Mike's Subs,Jersey Mike's Subs,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Hooters,Hooters,0,,0.0,0.0,0.0
+其他美食,Roberto's Taco Shop,Roberto's Taco Shop,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Great Wall Chinese Restaurant,Great Wall Chinese Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Romano's Macaroni Grill,Romano's Macaroni Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Decatur Package Liquor,Decatur Package Liquor,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Daddy's Delights,Daddy's Delights,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Zingers,Zingers,0,,0.0,0.0,0.0
+其他美食,In-N-Out Burger,In-N-Out Burger,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,CiCi's Pizza,CiCi's Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Panda Express,Panda Express,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Lava,Lava,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,China One,China One,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Farm Cafe,The Farm Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Subway,Subway,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Subway,Subway,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Big Ern's BBQ,Big Ern's BBQ,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Stewart & Ogden,Stewart & Ogden,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Lanai Express,Lanai Express,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Outside Inn,Outside Inn,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Smashburger,Smashburger,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Famous Dave's,Famous Dave's,0,,0.0,0.0,0.0
+其他美食,Denny's,Denny's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Road Runner Grand Canyon,Road Runner Grand Canyon,0,,0.0,0.0,0.0
+其他美食,Toros Spanish Kitchen & Gaming,Toros Spanish Kitchen & Gaming,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,,0.0,0.0,0.0
+其他美食,Johnny Rockets,Johnny Rockets,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Original Pancake House,The Original Pancake House,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Winchell's,Winchell's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Sonny's Saloon & Casino,Sonny's Saloon & Casino,0,,0.0,0.0,0.0
+其他美食,Landmark Deli,Landmark Deli,0,,0.0,0.0,0.0
+其他美食,Puff Lounge,Puff Lounge,0,,0.0,0.0,0.0
+其他美食,Las Palmas Mexican Grill,Las Palmas Mexican Grill,0,大道以东,0.0,0.0,0.0
+其他美食,Dairy Queen,Dairy Queen,0,拉斯维加斯北部,0.0,0.0,0.0
+其他美食,Something's Brewing Cafe,Something's Brewing Cafe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Pho Rose,Pho Rose,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Rocky's Philly Cheese Steaks,Rocky's Philly Cheese Steaks,0,,0.0,0.0,0.0
+其他美食,Dim Sum and Seafood Chinese Restaurant,Dim Sum and Seafood Chinese Restaurant,0,,0.0,0.0,0.0
+其他美食,Restaurant Central,Restaurant Central,0,,0.0,0.0,0.0
+其他美食,Subway,Subway,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,All Star Donuts,All Star Donuts,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,On the Border,On the Border,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Chili's Grill & Bar,Chili's Grill & Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Red Robin Gourmet Burgers,Red Robin Gourmet Burgers,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Timbers Bar & Grill,Timbers Bar & Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,New Grand China,New Grand China,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,El Pollo Loco,El Pollo Loco,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Carl's Jr.,Carl's Jr.,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Jack in the Box,Jack in the Box,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Del Taco,Del Taco,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Buffalo Wild Wings Grill & Bar,Buffalo Wild Wings Grill & Bar,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Italia Express,Italia Express,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,City Centre Caffe,City Centre Caffe,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Olympic Garden,Olympic Garden,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Noble Roman's Pizza,Noble Roman's Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Valerios City Bakery,Valerios City Bakery,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Del Taco,Del Taco,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,El Pollo Loco,El Pollo Loco,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Carl's Jr.,Carl's Jr.,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Samurai Sam's Teriyaki Grill,Samurai Sam's Teriyaki Grill,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Long John Silver's,Long John Silver's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Jollibee,Jollibee,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Einstein Bros Bagels,Einstein Bros Bagels,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Fatburger,Fatburger,0,,0.0,0.0,0.0
+其他美食,Einstein Bros,Einstein Bros,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Dunkin' Donuts,Dunkin' Donuts,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Upper Crust Pizza,Upper Crust Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Subway,Subway,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,The Coffee Bean & Tea Leaf,The Coffee Bean & Tea Leaf,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Odgen's Hops & Harvest,Odgen's Hops & Harvest,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Omaha Steaks,Omaha Steaks,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Leopold's Bakery & Catery,Leopold's Bakery & Catery,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,,0.0,0.0,0.0
+其他美食,McDonald's,McDonald's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,CiCi's Pizza,CiCi's Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Domino's Pizza,Domino's Pizza,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Pei Wei Asian Diner,Pei Wei Asian Diner,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Subway,Subway,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Papa John's,Papa John's,0,,0.0,0.0,0.0
+其他美食,Carl's Jr.,Carl's Jr.,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,A&W Restaurant,A&W Restaurant,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,IHOP,IHOP,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,New Jumbo Buffet,New Jumbo Buffet,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Prince Restaurant,Prince Restaurant,0,,0.0,0.0,0.0
+其他美食,Long John Silver's,Long John Silver's,0,拉斯维加斯其它,0.0,0.0,0.0
+其他美食,Wallstreet Cafe,Wallstreet Cafe,0,拉斯维加斯其它,0.0,0.0,0.0

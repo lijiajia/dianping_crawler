@@ -1,0 +1,81 @@
+意大利菜,La Cantina
+意大利菜,Bella Italia
+意大利菜,ISOLA
+快餐简餐,KFC
+快餐简餐,Mitico
+快餐简餐,Subway Buitengracht
+海鲜,Ocean Basket
+比萨,NY Slice Pizza
+比萨,Bruegels Pizza Studio
+比萨,I love Pizza Khaya
+比萨,The Pizza Shack
+比萨,Diva Pizza
+比萨,Scooters Pizza
+咖啡厅,Africa Cafe
+咖啡厅,Truth Coffee HQ
+咖啡厅,Woolworth Cafe
+咖啡厅,Cafe Caprice
+咖啡厅,Cafe Pescado
+咖啡厅,Nelson's Eye
+咖啡厅,The Bayside Cafe
+咖啡厅,Dizzys Cafe
+咖啡厅,Driftwoods Cafe
+咖啡厅,Bolo'bolo - Anarchist Infoshop and Vegan Cafe
+咖啡厅,Empire Cafe
+咖啡厅,Cafe Puerto Cabo
+咖啡厅,Crust Cafe
+咖啡厅,Ice Cafe
+咖啡厅,Bella Vegan Cafe
+咖啡厅,Bootlegger Coffee Company
+咖啡厅,Lelapa - The Home
+咖啡厅,Cafe D'Arts
+咖啡厅,Cafe Zanne
+咖啡厅,Gaslight Cafe
+咖啡厅,Buzz Cafe
+咖啡厅,Deluxe Urban Cafe
+咖啡厅,Pink Coffee Boutique
+咖啡厅,C'est La Vie
+咖啡厅,District CAFE
+咖啡厅,Kalk Bay Cafe
+咖啡厅,GUSTO Cafeteria
+咖啡厅,miao
+咖啡厅,Cafe Paradiso
+咖啡厅,Wellness Cafe
+咖啡厅,Sequoia Cafe
+咖啡厅,Toby's Coffee Shop
+咖啡厅,Cafe Frank
+咖啡厅,St.George's Cafe
+咖啡厅,Cafe Sante
+咖啡厅,Red Sofa Cafe
+咖啡厅,Bread Milk and Honey
+咖啡厅,Aroma Cafe Restaurant
+咖啡厅,Harbour View Cafe and Restaurant
+咖啡厅,Cafe Mojito
+咖啡厅,Birds Boutique Cafe
+咖啡厅,Courtyard Cafe
+咖啡厅,Cafe Haas
+咖啡厅,shoreline cafe
+咖啡厅,New York Bagels
+咖啡厅,Rcaffe Coffee Shop
+咖啡厅,Chocolat Cafe
+咖啡厅,Caturra Coffee Bar
+面包甜点,Tri Bakery
+面包甜点,Jason Bakery
+面包甜点,Marcelinho Bakery
+面包甜点,Isabella's Cake and Food Shop
+酒吧,Bombay Bicycle Club
+酒吧,Blakes Bar
+酒吧,Twankey Bar
+酒吧,Chiccos Espresso Bar
+酒吧,Rafikis Restaurant/bar
+酒吧,Aces'n'spades Bar
+酒吧,Elephant and Barrel Village Pub
+酒吧,Ours
+酒吧,The Diplomatic Bar and Restaurant Pty (Ltd)
+酒吧,Brian's Pub
+酒吧,The Pot Luck Club
+酒吧,Shimmy Beach Club
+酒吧,Characters Restaurant and Bar
+更多美食,La Boheme
+更多美食,A Touch of Madness - Victorian Quaffery
+更多美食,La Perla

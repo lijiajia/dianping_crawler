@@ -1,0 +1,418 @@
+意大利菜,Restaurant Spaghettata
+意大利菜,Oliva
+意大利菜,La Bottega Toscana
+意大利菜,Vapiano
+意大利菜,Trattoria A Proposito
+意大利菜,Very Italian Pizza
+意大利菜,Lei
+意大利菜,La Pizza
+意大利菜,Gusto
+意大利菜,"La Borsa, Trattoria"
+意大利菜,Lux
+意大利菜,Angelo Betti
+意大利菜,Due Tonino
+意大利菜,Ristorante Pizzeria Messina
+意大利菜,Panini
+意大利菜,Mangiare
+意大利菜,Caffe Italia
+意大利菜,O'Pazzo Pizzeria
+意大利菜,Happy Italy
+意大利菜,Pasta Genova
+意大利菜,Da Gianfranco
+意大利菜,Trattoria Borgo d' Aneto
+意大利菜,"La Vita E Bella, Nederland"
+意大利菜,El Faro Andaluz
+意大利菜,Luciano Sicilia In Bocca
+意大利菜,Rosa Bella
+意大利菜,Ristorante Napoli
+意大利菜,Ciao
+意大利菜,La Zia Maria
+意大利菜,l' Italiano
+意大利菜,La Gaetano
+意大利菜,Caffe Booon
+意大利菜,Ciao Ciao
+意大利菜,Il Carretto
+意大利菜,Pizzeria Marco Polo
+意大利菜,Pane Amore E Fantasia
+意大利菜,Hello Pasta
+意大利菜,La Salute
+意大利菜,La Stanze
+意大利菜,Basso Pasta Enzo
+意大利菜,Fabbrica
+法国菜,Stockholm
+法国菜,De Harmonie
+法国菜,Fred
+法国菜,Cafe-Restaurant Rodin
+法国菜,Blender
+法国菜,MimosA restaurant
+法国菜,Restaurant Amarone
+法国菜,Humphreys Restaurant
+法国菜,Eetcafe Opa
+法国菜,Zinc
+法国菜,Euromast Tower
+法国菜,De Prins van Terbregge
+法国菜,"Bistrot du Bac, Rotterdam"
+法国菜,In den Rustwat
+法国菜,Restaurant Brazzo
+法国菜,La Vilette
+法国菜,Divoza
+法国菜,Brasserie Pierre
+法国菜,The Manhattan Brasserie & Bar
+法国菜,Restaurant De Jong
+法国菜,Karakter
+法国菜,L'Ouest
+法国菜,Restaurant Zotte
+法国菜,Blij
+法国菜,Branco
+法国菜,lookies
+法国菜,1900
+法国菜,De Film
+法国菜,Kroon en Van Andel
+法国菜,Citroen
+法国菜,Hof van Charlois
+墨西哥菜,Popocatepetl
+墨西哥菜,Amigo
+其他西餐,De Pelgrim
+其他西餐,Airport Restaurant
+其他西餐,Vapiano
+其他西餐,Vessel 11
+其他西餐,Kwiezien
+其他西餐,Bierhandel De Pijp
+其他西餐,Los Toros
+其他西餐,Wijnbar het Eigendom
+其他西餐,Taberna Dushi
+其他西餐,Boerengat
+其他西餐,la ENOTECA
+其他西餐,Uit Je Eigen Stad
+其他西餐,The mayflower
+其他西餐,Eetcafe van Stralen
+其他西餐,New Fork
+其他西餐,Eetcafe 't Trefpunt II
+其他西餐,El Gaucho
+其他西餐,Ter Marsch & Co
+其他西餐,Bagel Bakery & Burgers
+其他西餐,Gauchos aan de Plas
+其他西餐,Hotel New York
+其他西餐,Gauchos - aan de Maas
+其他西餐,Z&M Veerhaven
+其他西餐,Grand Cafe Prachtig
+其他西餐,Rokkaa
+其他西餐,restaurant La Stanza
+其他西餐,Wester paviljoen
+其他西餐,Hamburg
+其他西餐,Eetcafé Het Gesprek
+其他西餐,The Old Dutch
+其他西餐,Belgisch Biercafe Boudewijn
+其他西餐,Grieks Restaurant Olympia
+其他西餐,"l'Ouest, wijnbar - lunch - diner"
+其他西餐,Nostra
+其他西餐,Antichic
+其他西餐,Gauchos - Rotterdam Centrum
+其他西餐,Steak & Bier
+其他西餐,Burger Trut
+其他西餐,Stadshal Rotterdam
+其他西餐,Pannenkoekenboot Rotterdam
+其他西餐,Abrikoos
+其他西餐,'t Ouwe Bruggetje
+其他西餐,Eetcafe Facet
+其他西餐,C.E.O
+其他西餐,Destino
+其他西餐,Eethuis De Watertoren
+其他西餐,Lokanta Proeflokaal
+其他西餐,De Hemel op Aarde
+其他西餐,De Tuin
+其他西餐,Amuse
+其他西餐,Noord-West
+其他西餐,Brutus Beer
+其他西餐,Veel Soeps
+其他西餐,Rotown
+其他西餐,Hema restaurant
+其他西餐,Grieks restaurant Dionysos rotterdam
+其他西餐,Sorbonne
+其他西餐,Humphreys Restaurant
+其他西餐,Haagse Bluf
+其他西餐,Cafe Engels
+其他西餐,Camaron
+其他西餐,Fritschy
+其他西餐,Restaurant Le Havre
+其他西餐,Barbecuehuis Tanger
+其他西餐,Het Eethuisje van Delfshaven
+其他西餐,Restaurant de Herberg
+其他西餐,Restaurant Kitsch & Kunst aan de Rotte
+其他西餐,'t Schielicht
+其他西餐,Kostas de Griek
+其他西餐,Restaurant Keizershof
+其他西餐,Alto Douro
+其他西餐,Roos Marijn
+其他西餐,Maria Bonita Brazilian Grill & Tapas Restaurant
+其他西餐,Tapasbar Terra
+其他西餐,"rotterdam, restaurant Koriander"
+其他西餐,Ahoy Horeca
+其他西餐,Quinta
+其他西餐,Eetcafé De Jonkheer
+其他西餐,Boshut de Big
+其他西餐,Raoul Lunchcafé
+其他西餐,De Apres Skihut
+其他西餐,Barcelona
+其他西餐,Plunzz
+其他西餐,Bennie Beer
+其他西餐,McDonald's
+其他西餐,Ketelbinkie
+其他西餐,La Cazuela
+其他西餐,Lkkrr
+其他西餐,Magneetcafe
+其他西餐,Parkzicht
+其他西餐,Zen Eetcafe
+其他西餐,Restaurant Eendracht
+其他西餐,B14 and de Twijfelaar
+其他西餐,Petit-Restaurant 
+其他西餐,Boudoir
+其他西餐,Millers
+其他西餐,Eetcafe Barney Beer
+中餐,Sansan
+中餐,de lange muur
+中餐,Asian Glories
+中餐,Eethuis Bij Bao
+中餐,Hong Kong Restaurant
+中餐,Multifood Corner
+中餐,Oriental Express
+中餐,Wah Li
+中餐,Kiem foei
+中餐,Asia
+中餐,Grand Palace
+中餐,Restaurant China Town
+中餐,Red Pepper
+中餐,Eethuis Verre Oosten
+中餐,Eat More
+中餐,Double Tree Restaurant
+中餐,Wing Wah
+中餐,De Gouden Wok Rotterdam BV
+日韩料理,Sumo
+日韩料理,Shabu Shabu - Rotterdam Center
+日韩料理,Izkaya Asian Touch Table Restaurant
+日韩料理,Moshi Moshi
+日韩料理,Itami
+日韩料理,Yamato
+日韩料理,Sushi Qube
+日韩料理,Sushi Haven
+日韩料理,Kimchi Bar Restaurant Rotterdam
+日韩料理,JApanese Cuisine Yama
+日韩料理,Sumo Japanese Sushi & Grill Restaurant
+日韩料理,IIZO Sushi Café
+更多亚洲菜,Little V
+更多亚洲菜,Bazar
+更多亚洲菜,Restaurant Down Under
+更多亚洲菜,Dunya Lokanta
+更多亚洲菜,Lulu
+更多亚洲菜,Satebar Indonesia
+更多亚洲菜,Siriporn Thai Restaurant
+更多亚洲菜,Munzur
+更多亚洲菜,Pho Vietnamese Restaurant & Noodle Bar
+更多亚洲菜,De Kleine Ondeugd
+更多亚洲菜,Staal Rotterdam
+更多亚洲菜,Katak mas
+更多亚洲菜,YoYo! Fresh Tea Bar
+更多亚洲菜,Satebar
+更多亚洲菜,Papaya
+更多亚洲菜,Umami Rotterdam
+更多亚洲菜,Deli Bird
+更多亚洲菜,Desi Village
+更多亚洲菜,Dewi Sri
+更多亚洲菜,Vivu
+更多亚洲菜,See You See Me
+更多亚洲菜,Suwannaphom
+更多亚洲菜,Zainab Roshni Mahal
+更多亚洲菜,Sangam Tandoori
+更多亚洲菜,Obba
+更多亚洲菜,Hu Fusion
+更多亚洲菜,Curry's Centrum
+更多亚洲菜,Curry's
+更多亚洲菜,India Paradise
+更多亚洲菜,Dennis Frietpaleis
+更多亚洲菜,Warisan
+更多亚洲菜,Zenne
+更多亚洲菜,Mahzen
+更多亚洲菜,Hung Kee
+更多亚洲菜,Sari Koering
+更多亚洲菜,Nazar
+更多亚洲菜,Lime Leaf
+更多亚洲菜,Dim Daily
+更多亚洲菜,Sweet Bali
+更多亚洲菜,Boguette
+更多亚洲菜,Anugerah
+更多亚洲菜,Eazie
+更多亚洲菜,Raden Mas Of Rotterdam
+更多亚洲菜,YoYo! Fresh Tea Bar
+更多亚洲菜,Wijn of Water
+更多亚洲菜,Park Restaurant
+更多亚洲菜,Eethuis Tadim
+更多亚洲菜,Durum Evi
+更多亚洲菜,Kampong Kita
+更多亚洲菜,Malakka
+更多亚洲菜,Restaurant Taj Mahal
+更多亚洲菜,Little Asia
+更多亚洲菜,Yam Thai
+更多亚洲菜,Meram
+更多亚洲菜,Sarnic
+更多亚洲菜,Soi 3
+更多亚洲菜,Sultan Lounge
+更多亚洲菜,Mi Fusion
+更多亚洲菜,MASTIKA
+更多亚洲菜,Iskender
+更多亚洲菜,Light of India
+更多亚洲菜,Minang Kabau Baru
+更多亚洲菜,Roopram Roti
+更多亚洲菜,Restaurant Blauw Rotterdam
+更多亚洲菜,falafel king
+更多亚洲菜,afobaka
+快餐简餐,Dudok
+快餐简餐,Guliano
+快餐简餐,Restaurant Chung
+快餐简餐,Restaurant Paramount
+快餐简餐,L' Arancino
+快餐简餐,Poolcafe Delfshaven
+快餐简餐,Alice in Cakeland
+快餐简餐,Restaurant Qip
+海鲜,森井日本料理
+海鲜,Schmidt Zeevis
+海鲜,Vis aan de Maas
+海鲜,Kaat Mossel
+海鲜,Las Palmas
+海鲜,Zalmhuis
+海鲜,De Zeespiegel
+海鲜,Harbour Club
+海鲜,Kaap Vislokaal & Kookstudio
+烧烤,Granny's Grill
+烧烤,Betty Beer
+咖啡厅,Hopper
+咖啡厅,Stobbe
+咖啡厅,Proeflokaal Reijngoud
+咖啡厅,Coffee Company
+咖啡厅,The Gallery Kitchen
+咖啡厅,Café-ResTaurAnt Soif
+面包甜点,Koekela
+面包甜点,De IJssalon
+面包甜点,Vlaamsch Broodhuys
+面包甜点,Lof der Zoetheid
+面包甜点,Heavenly Cupcakes
+面包甜点,Vlaamsch Broodhuys
+面包甜点,Ten to Three Bakery
+酒吧,Melief Bender
+酒吧,De Witte Aap
+酒吧,Bar Tender
+酒吧,De Hofnar Rotterdam
+酒吧,SuS & Co
+酒吧,O'Sheas Irish Pub
+酒吧,Dizzy
+酒吧,Bird Rotterdam
+酒吧,Le Nord
+酒吧,1900
+酒吧,Weimar 1890
+酒吧,Villa Kakelbont
+更多美食,Tai Wu
+更多美食,FG Restaurant
+更多美食,Cafe de Beurs
+更多美食,La Place Rotterdam Alexandrium
+更多美食,Wereldmuseum
+更多美食,Huson Restaurant
+更多美食,Zeezout
+更多美食,Fjord-Rotterdam
+更多美食,Bram Ladage
+更多美食,Spirit
+更多美食,Restaurant Allure
+更多美食,Bed Rotterdam
+更多美食,Restaurant Mooii
+更多美食,Dertien
+更多美食,Eeterij Vader Jacob
+更多美食,Get Back
+更多美食,Breakaway
+更多美食,Lebkov
+更多美食,Cafe Pol
+更多美食,Mexicano Mexican Grill Restaurant
+更多美食,Gamasot
+更多美食,De Ballentent
+更多美食,Quartier du Port
+更多美食,Rosso
+更多美食,Hudson Bar & Kitchen Rotterdam
+更多美食,Open
+更多美食,Bagels & Beans
+更多美食,PickNick
+更多美食,Level
+更多美食,HMB Restaurant
+更多美食,La Cubanitas
+更多美食,Nul 10
+更多美食,Fugu
+更多美食,Werelds
+更多美食,De Engel
+更多美食,Restaurant Sijf
+更多美食,Chili Time
+更多美食,Kade 4
+更多美食,urban espresso bar
+更多美食,De Pasta Kantine
+更多美食,Cafe-Restaurant Soif
+更多美食,Restaurant Look
+更多美食,Soit
+更多美食,De Matroos en Het Meisje
+更多美食,Ono Japanese Dining
+更多美食,Restaurant Café oKay
+更多美食,FG Food Labs
+更多美食,Zino
+更多美食,Westerkaatje Noord
+更多美食,In de keuken van Floris
+更多美食,Proeflokaal Kade 87
+更多美食,De smaak van Afrika
+更多美食,StationsHuiskamer
+更多美食,Brood & Sappies
+更多美食,Lunchroom Atlantic
+更多美食,Van Vollenhoven
+更多美食,Doppio
+更多美食,Viva Afrika
+更多美食,Restaurant Doe Maar
+更多美食,Nieuw Rotterdams Cafe
+更多美食,De Bakkerswinkel - Rotterdam
+更多美食,Buiten
+更多美食,Stalles
+更多美食,Bagels & Beans
+更多美食,Grandcafe Het Witte Huis
+更多美食,Wijnbar Jansen en van Dijk
+更多美食,Seth Poffertjes
+更多美食,Memory Lane
+更多美食,Dutch Diner
+更多美食,Eethuis Rhanny
+更多美食,Verhip
+更多美食,De Parel
+更多美食,Bla Bla
+更多美食,De Machinist
+更多美食,Chez Mo-I
+更多美食,Arq
+更多美食,King Foeng
+更多美食,eetlokaal van de boer
+更多美食,De Oude Plek
+更多美食,Courzand
+更多美食,Eetcafe Kaandorp
+更多美食,Seve
+更多美食,Abrazzo
+更多美食,'t Oude Raadhuis
+更多美食,Brasserie De Verandering
+更多美食,Bergsche Plas
+更多美食,"SS Rotterdam, Lido Restaurant"
+更多美食,Bagels & Beans
+更多美食,restaurant safir
+更多美食,Trattoria Pietro
+更多美食,A La Plancha
+更多美食,Restaurant Baku
+更多美食,Doen dorst en trek
+更多美食,Eetcafé 't Trefpunt
+更多美食,La Place Rotterdam Zuidplein
+更多美食,Grand Cafe Hoofdstuk II
+更多美食,Rivero's
+更多美食,Grillhouse de Nijl
+更多美食,The Wine Bar
+更多美食,Mozaik
+更多美食,Idol's Chinees Wok Restaurant
+更多美食,Chez Amuse
+更多美食,Penny Pean
+更多美食,stroom rotterdam
+更多美食,Havenbinkie
+更多美食,Eetcafe de Schuimspaan
+更多美食,Café Floor

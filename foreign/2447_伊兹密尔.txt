@@ -1,0 +1,1440 @@
+意大利菜,Rozette Cafe,Rozette Cafe,0,,0.0,0.0,0.0
+意大利菜,Mia Plus,Mia Plus,0,,0.0,0.0,0.0
+意大利菜,Atatepe Life Center,Atatepe Life Center,0,,0.0,0.0,0.0
+意大利菜,Mint Restaurant,Mint Restaurant,0,,0.0,0.0,0.0
+意大利菜,Cafe dodici,Cafe dodici,0,,0.0,0.0,0.0
+意大利菜,Peperino Pizza Italiana,Peperino Pizza Italiana,0,,0.0,0.0,0.0
+意大利菜,Punto Italiano Ristorante,Punto Italiano Ristorante,0,,0.0,0.0,0.0
+意大利菜,Il Sogno,Il Sogno,0,,0.0,0.0,0.0
+意大利菜,Ristorente Pizzeria Venedik,Ristorente Pizzeria Venedik,0,,0.0,0.0,0.0
+意大利菜,Cafe Reci s,Cafe Reci s,0,,0.0,0.0,0.0
+意大利菜,Pizza Venedik Express,Pizza Venedik Express,0,,0.0,0.0,0.0
+意大利菜,La Capria Restaurant,La Capria Restaurant,0,,0.0,0.0,0.0
+意大利菜,Mezzaluna,Mezzaluna,0,,0.0,0.0,0.0
+意大利菜,Mezzaluna Çeşme,Mezzaluna Çeşme,0,,0.0,0.0,0.0
+意大利菜,Coco Loco,Coco Loco,0,,0.0,0.0,0.0
+意大利菜,Macaroni,Macaroni,0,,0.0,0.0,0.0
+意大利菜,Cordelio Coffee And Beer House,Cordelio Coffee And Beer House,0,,0.0,0.0,0.0
+意大利菜,Cafe Adria İce,Cafe Adria İce,0,,0.0,0.0,0.0
+意大利菜,Bistrom,Bistrom,0,,0.0,0.0,0.0
+意大利菜,Trattoria Levantes,Trattoria Levantes,0,,0.0,0.0,0.0
+意大利菜,Sbarro,Sbarro,0,,0.0,0.0,0.0
+意大利菜,Papitza,Papitza,0,,0.0,0.0,0.0
+意大利菜,My Grill,My Grill,0,,0.0,0.0,0.0
+意大利菜,Mexita,Mexita,0,,0.0,0.0,0.0
+意大利菜,Langoletto,Langoletto,0,,0.0,0.0,0.0
+意大利菜,Papryca,Papryca,0,,0.0,0.0,0.0
+意大利菜,By Marco,By Marco,0,,0.0,0.0,0.0
+意大利菜,Lavanta,Lavanta,0,,0.0,0.0,0.0
+意大利菜,Caffe il Porto,Caffe il Porto,0,,0.0,0.0,0.0
+意大利菜,La Campana Restaurant,La Campana Restaurant,0,,0.0,0.0,0.0
+意大利菜,Hayal Kahvesi,Hayal Kahvesi,0,,0.0,0.0,0.0
+意大利菜,Mezzaluna,Mezzaluna,0,,0.0,0.0,0.0
+意大利菜,barInak cafe,barInak cafe,0,,0.0,0.0,0.0
+法国菜,Agamemnon A La Carte ResTaurAnt,Agamemnon A La Carte ResTaurAnt,0,,0.0,0.0,0.0
+法国菜,Rcs Cafe,Rcs Cafe,0,,0.0,0.0,0.0
+法国菜,Saint Tropez Restaurant,Saint Tropez Restaurant,0,,0.0,0.0,0.0
+法国菜,Arpége Patisserie,Arpége Patisserie,0,,0.0,0.0,0.0
+法国菜,Leone Patisserie,Leone Patisserie,0,,0.0,0.0,0.0
+墨西哥菜,Chickinn,Chickinn,0,,0.0,0.0,0.0
+墨西哥菜,Cancun,Cancun,0,,0.0,0.0,0.0
+墨西哥菜,Cactus Italian-Mexican Restaurant,Cactus Italian-Mexican Restaurant,0,,0.0,0.0,0.0
+墨西哥菜,La Vie,La Vie,0,,0.0,0.0,0.0
+墨西哥菜,Tex Mex,Tex Mex,0,,0.0,0.0,0.0
+其他西餐,Balikci Hasan,Balikci Hasan,0,,7.7,7.7,7.7
+其他西餐,Sembol Kebap Salonu,Sembol Kebap Salonu,0,,7.2,6.8,6.8
+其他西餐,Kofteci Ramiz,Kofteci Ramiz,0,,7.2,7.7,7.7
+其他西餐,Dost Pide,Dost Pide,0,,6.8,6.8,6.8
+其他西餐,Nur Un MuTfagi,Nur Un MuTfagi,0,,0.0,0.0,0.0
+其他西餐,Nur Pide,Nur Pide,0,,0.0,0.0,0.0
+其他西餐,Topcu,Topcu,0,,0.0,0.0,0.0
+其他西餐,Sofra,Sofra,0,,0.0,0.0,0.0
+其他西餐,Bay Doner,Bay Doner,0,,0.0,0.0,0.0
+其他西餐,Haci Baba Pide,Haci Baba Pide,0,,0.0,0.0,0.0
+其他西餐,Cundamey Cafe,Cundamey Cafe,0,,0.0,0.0,0.0
+其他西餐,Marjinal Doner,Marjinal Doner,0,,0.0,0.0,0.0
+其他西餐,Kakule Restaurant,Kakule Restaurant,0,,0.0,0.0,0.0
+其他西餐,Ehli Keyif Restaurant,Ehli Keyif Restaurant,0,,0.0,0.0,0.0
+其他西餐,Durumcu Mustafa,Durumcu Mustafa,0,,0.0,0.0,0.0
+其他西餐,Melisa Pide,Melisa Pide,0,,0.0,0.0,0.0
+其他西餐,Sen Kofte,Sen Kofte,0,,0.0,0.0,0.0
+其他西餐,Hanimeli Dantela,Hanimeli Dantela,0,,0.0,0.0,0.0
+其他西餐,Meshur Trakya Koftecisi,Meshur Trakya Koftecisi,0,,0.0,0.0,0.0
+其他西餐,Korkoz,Korkoz,0,,0.0,0.0,0.0
+其他西餐,Lezzet DurAgi,Lezzet DurAgi,0,,0.0,0.0,0.0
+其他西餐,Hanimeli,Hanimeli,0,,0.0,0.0,0.0
+其他西餐,BurSa Iskender,BurSa Iskender,0,,0.0,0.0,0.0
+其他西餐,Seckin Pide,Seckin Pide,0,,0.0,0.0,0.0
+其他西餐,Hotel Kaya,Hotel Kaya,0,,0.0,0.0,0.0
+其他西餐,Site Lokantasi,Site Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Bizim Eller Manti Ve Yemek Salonu,Bizim Eller Manti Ve Yemek Salonu,0,,0.0,0.0,0.0
+其他西餐,Nazilli Pide,Nazilli Pide,0,,0.0,0.0,0.0
+其他西餐,BurCu Ev Yemekleri Salonu,BurCu Ev Yemekleri Salonu,0,,0.0,0.0,0.0
+其他西餐,Arzu Pide Salonlari,Arzu Pide Salonlari,0,,0.0,0.0,0.0
+其他西餐,Onur Kebap Salonu,Onur Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Uc Kuyular Bufe,Uc Kuyular Bufe,0,,0.0,0.0,0.0
+其他西餐,Lezzet Lokantasi,Lezzet Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Ozkebabistan,Ozkebabistan,0,,0.0,0.0,0.0
+其他西餐,Bonjour ResTaurAnt,Bonjour ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Camalti ResTaurAnt,Camalti ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Aslar DurUm Dunyasi,Aslar DurUm Dunyasi,0,,0.0,0.0,0.0
+其他西餐,Ozgercek BurSa,Ozgercek BurSa,0,,0.0,0.0,0.0
+其他西餐,Meryemce Manti Evi,Meryemce Manti Evi,0,,0.0,0.0,0.0
+其他西餐,Gozde Ev Yemekleri,Gozde Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,Reis Restaurant,Reis Restaurant,0,,0.0,0.0,0.0
+其他西餐,Cimende Cilgin Doner,Cimende Cilgin Doner,0,,0.0,0.0,0.0
+其他西餐,Konyali Muhammet Usta,Konyali Muhammet Usta,0,,0.0,0.0,0.0
+其他西餐,Izmirspor Lokantasi,Izmirspor Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Altin Doner,Altin Doner,0,,0.0,0.0,0.0
+其他西餐,Badem Restaurant,Badem Restaurant,0,,0.0,0.0,0.0
+其他西餐,Tayfa Restaurant,Tayfa Restaurant,0,,0.0,0.0,0.0
+其他西餐,Altin Kapi,Altin Kapi,0,,0.0,0.0,0.0
+其他西餐,Cafe Cookie,Cafe Cookie,0,,0.0,0.0,0.0
+其他西餐,Ozsercan Doner Ve Yemek Salonu,Ozsercan Doner Ve Yemek Salonu,0,,0.0,0.0,0.0
+其他西餐,Safak Pide,Safak Pide,0,,0.0,0.0,0.0
+其他西餐,Odemis Koftecisi,Odemis Koftecisi,0,,0.0,0.0,0.0
+其他西餐,Gol De Koftee,Gol De Koftee,0,,0.0,0.0,0.0
+其他西餐,AraBul Doner,AraBul Doner,0,,0.0,0.0,0.0
+其他西餐,AraSta ResTaurAnt,AraSta ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Elhamra s,Elhamra s,0,,0.0,0.0,0.0
+其他西餐,AltinCam Doner,AltinCam Doner,0,,0.0,0.0,0.0
+其他西餐,Yaylacik,Yaylacik,0,,0.0,0.0,0.0
+其他西餐,Kasik-La,Kasik-La,0,,0.0,0.0,0.0
+其他西餐,Forbes Pide Kebap Ve Yemek Salonu,Forbes Pide Kebap Ve Yemek Salonu,0,,0.0,0.0,0.0
+其他西餐,Berrin Hanim in MuTfagi,Berrin Hanim in MuTfagi,0,,0.0,0.0,0.0
+其他西餐,Yeni Numan,Yeni Numan,0,,0.0,0.0,0.0
+其他西餐,Turkevi,Turkevi,0,,0.0,0.0,0.0
+其他西餐,Hasir Ocakbasi Kobalak,Hasir Ocakbasi Kobalak,0,,0.0,0.0,0.0
+其他西餐,Ocak Bufe,Ocak Bufe,0,,0.0,0.0,0.0
+其他西餐,Gozde Pide,Gozde Pide,0,,0.0,0.0,0.0
+其他西餐,Koftecim,Koftecim,0,,0.0,0.0,0.0
+其他西餐,Oz Guven Pide Salonu,Oz Guven Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Kofteci Ecemin Yeri,Kofteci Ecemin Yeri,0,,0.0,0.0,0.0
+其他西餐,Meze s Ev UrUnleri,Meze s Ev UrUnleri,0,,0.0,0.0,0.0
+其他西餐,Simal Bufe,Simal Bufe,0,,0.0,0.0,0.0
+其他西餐,Isci Lokantasi,Isci Lokantasi,0,,0.0,0.0,0.0
+其他西餐,BayinDir Lokantasi,BayinDir Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Efsane Cilgin Doner,Efsane Cilgin Doner,0,,0.0,0.0,0.0
+其他西餐,Beyaz Kosk Vedat Ustanin Yeri,Beyaz Kosk Vedat Ustanin Yeri,0,,0.0,0.0,0.0
+其他西餐,Dream DurUm,Dream DurUm,0,,0.0,0.0,0.0
+其他西餐,Kismet Lokantasi,Kismet Lokantasi,0,,0.0,0.0,0.0
+其他西餐,ErzurUmlu Ali Usta,ErzurUmlu Ali Usta,0,,0.0,0.0,0.0
+其他西餐,Vintes Defne Kebap SaraYi,Vintes Defne Kebap SaraYi,0,,0.0,0.0,0.0
+其他西餐,GulyurDu Lokantasi,GulyurDu Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Kirimli Manti Evi,Kirimli Manti Evi,0,,0.0,0.0,0.0
+其他西餐,Huzur Kebap,Huzur Kebap,0,,0.0,0.0,0.0
+其他西餐,Antepliler,Antepliler,0,,0.0,0.0,0.0
+其他西餐,Yaren Lokantasi,Yaren Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Ozlem Nigde Soguscusu,Ozlem Nigde Soguscusu,0,,0.0,0.0,0.0
+其他西餐,Pamukkale Pide,Pamukkale Pide,0,,0.0,0.0,0.0
+其他西餐,Star Bufe,Star Bufe,0,,0.0,0.0,0.0
+其他西餐,Burcu Bufe,Burcu Bufe,0,,0.0,0.0,0.0
+其他西餐,Aktas Bufe,Aktas Bufe,0,,0.0,0.0,0.0
+其他西餐,Hisar Pide Salonu,Hisar Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Altin Kurek Pide Salonu,Altin Kurek Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Ornek Sofra,Ornek Sofra,0,,0.0,0.0,0.0
+其他西餐,Asiyan Lokantisi,Asiyan Lokantisi,0,,0.0,0.0,0.0
+其他西餐,Yildirim Doner Evi,Yildirim Doner Evi,0,,0.0,0.0,0.0
+其他西餐,Oznur Pide ve Kebap Salonu,Oznur Pide ve Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Melisa Lokantasi,Melisa Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Aydin Pide Salonu,Aydin Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Hanciogullari Doner ve Pide,Hanciogullari Doner ve Pide,0,,0.0,0.0,0.0
+其他西餐,Jackson s,Jackson s,0,,0.0,0.0,0.0
+其他西餐,Havuzbasi Restaurant,Havuzbasi Restaurant,0,,0.0,0.0,0.0
+其他西餐,Yadigar,Yadigar,0,,0.0,0.0,0.0
+其他西餐,Petek Doner,Petek Doner,0,,0.0,0.0,0.0
+其他西餐,Ayyildiz Lokantasi,Ayyildiz Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Kahramanlar Lokantasi,Kahramanlar Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Soguscu Mehmet in Yeri,Soguscu Mehmet in Yeri,0,,0.0,0.0,0.0
+其他西餐,Saim in Yeri,Saim in Yeri,0,,0.0,0.0,0.0
+其他西餐,Ozlem Doner Salonu,Ozlem Doner Salonu,0,,0.0,0.0,0.0
+其他西餐,Uckuyular Pide Doner,Uckuyular Pide Doner,0,,0.0,0.0,0.0
+其他西餐,Ikra Doner ve Kebap Salonu,Ikra Doner ve Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Ikram Doner Salonu,Ikram Doner Salonu,0,,0.0,0.0,0.0
+其他西餐,Donerci Fuat,Donerci Fuat,0,,0.0,0.0,0.0
+其他西餐,Sevgi Bufe,Sevgi Bufe,0,,0.0,0.0,0.0
+其他西餐,Basak Pide Salonu,Basak Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Nazar Pide Kebap,Nazar Pide Kebap,0,,0.0,0.0,0.0
+其他西餐,Iscan Pide Salonu,Iscan Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Bahar Lokantasi,Bahar Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Fatih Pide Kofte Salonu,Fatih Pide Kofte Salonu,0,,0.0,0.0,0.0
+其他西餐,Beysehir Lokantasi,Beysehir Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Odemis Kofte Kebap Salonu,Odemis Kofte Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Senyuz Doner,Senyuz Doner,0,,0.0,0.0,0.0
+其他西餐,Engin Kardesler Lokanta,Engin Kardesler Lokanta,0,,0.0,0.0,0.0
+其他西餐,Acar Pide ve Doner,Acar Pide ve Doner,0,,0.0,0.0,0.0
+其他西餐,Kosem Bufe,Kosem Bufe,0,,0.0,0.0,0.0
+其他西餐,Pala Donercisi,Pala Donercisi,0,,0.0,0.0,0.0
+其他西餐,Oz Gercek Doner Kebap Salonu,Oz Gercek Doner Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Poligon Sofrasi,Poligon Sofrasi,0,,0.0,0.0,0.0
+其他西餐,Sark Lokantasi,Sark Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Karadeniz Lokantasi,Karadeniz Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Ilgi Lezzet Evi,Ilgi Lezzet Evi,0,,0.0,0.0,0.0
+其他西餐,Bakan Pide,Bakan Pide,0,,0.0,0.0,0.0
+其他西餐,Halit Ustanin Yeri,Halit Ustanin Yeri,0,,0.0,0.0,0.0
+其他西餐,Dadas Lokantasi,Dadas Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Meshur Cigerci,Meshur Cigerci,0,,0.0,0.0,0.0
+其他西餐,Pembe Ana,Pembe Ana,0,,0.0,0.0,0.0
+其他西餐,Mangal Pide Salonu,Mangal Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Elvan Doner,Elvan Doner,0,,0.0,0.0,0.0
+其他西餐,Gecit Lokantasi,Gecit Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Soydan Lokantasi,Soydan Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Gulum Antep,Gulum Antep,0,,0.0,0.0,0.0
+其他西餐,Red Mill ResTaurAnt,Red Mill ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Merve Pide,Merve Pide,0,,0.0,0.0,0.0
+其他西餐,Tarihi Han Kebap,Tarihi Han Kebap,0,,0.0,0.0,0.0
+其他西餐,Eti Tandir,Eti Tandir,0,,0.0,0.0,0.0
+其他西餐,Ayakustu Kokorec,Ayakustu Kokorec,0,,0.0,0.0,0.0
+其他西餐,Hakan Pide,Hakan Pide,0,,0.0,0.0,0.0
+其他西餐,Malgaca Art Cafe,Malgaca Art Cafe,0,,0.0,0.0,0.0
+其他西餐,Beyaz Sofra,Beyaz Sofra,0,,0.0,0.0,0.0
+其他西餐,Kahyaoglu Doner Salonu,Kahyaoglu Doner Salonu,0,,0.0,0.0,0.0
+其他西餐,ErzurUm Manti Evi,ErzurUm Manti Evi,0,,0.0,0.0,0.0
+其他西餐,DurUm Evi,DurUm Evi,0,,0.0,0.0,0.0
+其他西餐,Yildirim Corba Ve Pide Salonu,Yildirim Corba Ve Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Anadolu Sofrasi,Anadolu Sofrasi,0,,0.0,0.0,0.0
+其他西餐,Simge Bufe,Simge Bufe,0,,0.0,0.0,0.0
+其他西餐,YoresEl Lezzet,YoresEl Lezzet,0,,0.0,0.0,0.0
+其他西餐,Can Kofte,Can Kofte,0,,0.0,0.0,0.0
+其他西餐,Kofteci Hakki Usta,Kofteci Hakki Usta,0,,0.0,0.0,0.0
+其他西餐,Kardelen Lokantasi,Kardelen Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Ozenen Pide Ve Kebap Salonu,Ozenen Pide Ve Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Gozlemecim,Gozlemecim,0,,0.0,0.0,0.0
+其他西餐,Alancha,Alancha,0,,0.0,0.0,0.0
+其他西餐,Recepusta,Recepusta,0,,0.0,0.0,0.0
+其他西餐,Kosebasi Kordon,Kosebasi Kordon,0,,0.0,0.0,0.0
+其他西餐,Yengec Restaurant,Yengec Restaurant,0,,0.0,0.0,0.0
+其他西餐,Kofteci Salih,Kofteci Salih,0,,0.0,0.0,0.0
+其他西餐,Bergama Koftecisi,Bergama Koftecisi,0,,0.0,0.0,0.0
+其他西餐,Dagmaran Kahvalti Evi,Dagmaran Kahvalti Evi,0,,0.0,0.0,0.0
+其他西餐,Sakiz Alsancak Restaurant,Sakiz Alsancak Restaurant,0,,0.0,0.0,0.0
+其他西餐,Tavaci Recep Usta,Tavaci Recep Usta,0,,0.0,0.0,0.0
+其他西餐,Kemer 6,Kemer 6,0,,0.0,0.0,0.0
+其他西餐,Sakiz Restaurant,Sakiz Restaurant,0,,0.0,0.0,0.0
+其他西餐,Kismet Lokantasi,Kismet Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Damla Restaurant,Damla Restaurant,0,,0.0,0.0,0.0
+其他西餐,Adil Muftuoglu,Adil Muftuoglu,0,,0.0,0.0,0.0
+其他西餐,Eko Pub,Eko Pub,0,,0.0,0.0,0.0
+其他西餐,Tepekule A7 Sehir Kulubu,Tepekule A7 Sehir Kulubu,0,,0.0,0.0,0.0
+其他西餐,Midpoint,Midpoint,0,,0.0,0.0,0.0
+其他西餐,Balik Pisiricisi -Veli Usta,Balik Pisiricisi -Veli Usta,0,,0.0,0.0,0.0
+其他西餐,Kaplan Dag Restaurant,Kaplan Dag Restaurant,0,,0.0,0.0,0.0
+其他西餐,Mado,Mado,0,,0.0,0.0,0.0
+其他西餐,Konyali Etli Ekmek,Konyali Etli Ekmek,0,,0.0,0.0,0.0
+其他西餐,korfez restaurant,korfez restaurant,0,,0.0,0.0,0.0
+其他西餐,Topcu,Topcu,0,,0.0,0.0,0.0
+其他西餐,Kalehan Otel Restaurant,Kalehan Otel Restaurant,0,,0.0,0.0,0.0
+其他西餐,Park Pide Salonu,Park Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Dukkan Steak House,Dukkan Steak House,0,,0.0,0.0,0.0
+其他西餐,Konyali,Konyali,0,,0.0,0.0,0.0
+其他西餐,Yuzde Yuz,Yuzde Yuz,0,,0.0,0.0,0.0
+其他西餐,Cigerci Sinan,Cigerci Sinan,0,,0.0,0.0,0.0
+其他西餐,Bogazici Restaurant Uckuyular,Bogazici Restaurant Uckuyular,0,,0.0,0.0,0.0
+其他西餐,Kircicegi,Kircicegi,0,,0.0,0.0,0.0
+其他西餐,Servet in Yeri,Servet in Yeri,0,,0.0,0.0,0.0
+其他西餐,Pino Restaurant,Pino Restaurant,0,,0.0,0.0,0.0
+其他西餐,Bogazici Restaurant,Bogazici Restaurant,0,,0.0,0.0,0.0
+其他西餐,Etcibasi Restaurant,Etcibasi Restaurant,0,,0.0,0.0,0.0
+其他西餐,Donercim,Donercim,0,,0.0,0.0,0.0
+其他西餐,Ciğerci Mustafa Ustanın Yeri,Ciğerci Mustafa Ustanın Yeri,0,,0.0,0.0,0.0
+其他西餐,Doyuran Manisa Kebap Salonu,Doyuran Manisa Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Tyna Cafe,Tyna Cafe,0,,0.0,0.0,0.0
+其他西餐,Teos Park Restaurant Bar,Teos Park Restaurant Bar,0,,0.0,0.0,0.0
+其他西餐,Antepli Ramazan Usta,Antepli Ramazan Usta,0,,0.0,0.0,0.0
+其他西餐,Kofteci Remzi,Kofteci Remzi,0,,0.0,0.0,0.0
+其他西餐,Yenice,Yenice,0,,0.0,0.0,0.0
+其他西餐,Cafe Plaza,Cafe Plaza,0,,0.0,0.0,0.0
+其他西餐,Sen Manti House,Sen Manti House,0,,0.0,0.0,0.0
+其他西餐,Luciano,Luciano,0,,0.0,0.0,0.0
+其他西餐,Kahve dunyasi,Kahve dunyasi,0,,0.0,0.0,0.0
+其他西餐,Deniz Kent Restaurant,Deniz Kent Restaurant,0,,0.0,0.0,0.0
+其他西餐,Keyif Restaurant,Keyif Restaurant,0,,0.0,0.0,0.0
+其他西餐,Sisim Cafe Restaurant,Sisim Cafe Restaurant,0,,0.0,0.0,0.0
+其他西餐,Ugur Lokantasi,Ugur Lokantasi,0,,0.0,0.0,0.0
+其他西餐,En Gozde,En Gozde,0,,0.0,0.0,0.0
+其他西餐,Tusan Restaurant,Tusan Restaurant,0,,0.0,0.0,0.0
+其他西餐,Karagöz Cafe,Karagöz Cafe,0,,0.0,0.0,0.0
+其他西餐,Kolcuoglu Restaurant,Kolcuoglu Restaurant,0,,0.0,0.0,0.0
+其他西餐,Sakipaga Doner House,Sakipaga Doner House,0,,0.0,0.0,0.0
+其他西餐,Izmir Girit Lokantasi,Izmir Girit Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Mis Doner,Mis Doner,0,,0.0,0.0,0.0
+其他西餐,Kordelya Cafe,Kordelya Cafe,0,,0.0,0.0,0.0
+其他西餐,cafe solen,cafe solen,0,,0.0,0.0,0.0
+其他西餐,Ozkanlar Kaan Pide ve Kebap Salonu,Ozkanlar Kaan Pide ve Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Horasan Balık Pişiricisi,Horasan Balık Pişiricisi,0,,0.0,0.0,0.0
+其他西餐,Bizim Soguscu Murat,Bizim Soguscu Murat,0,,0.0,0.0,0.0
+其他西餐,Kahve Diyari,Kahve Diyari,0,,0.0,0.0,0.0
+其他西餐,Ankara Donercisi,Ankara Donercisi,0,,0.0,0.0,0.0
+其他西餐,Elias restaurant izmir,Elias restaurant izmir,0,,0.0,0.0,0.0
+其他西餐,Meshur Nazilli Pide ve Corba Salonu,Meshur Nazilli Pide ve Corba Salonu,0,,0.0,0.0,0.0
+其他西餐,01 Adana Sofrasi,01 Adana Sofrasi,0,,0.0,0.0,0.0
+其他西餐,Kapari Bahce,Kapari Bahce,0,,0.0,0.0,0.0
+其他西餐,Zaim Usta,Zaim Usta,0,,0.0,0.0,0.0
+其他西餐,Bizim Ev Yemekleri,Bizim Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,Numan Pide,Numan Pide,0,,0.0,0.0,0.0
+其他西餐,My Borrek,My Borrek,0,,0.0,0.0,0.0
+其他西餐,Rihtim Restaurant,Rihtim Restaurant,0,,0.0,0.0,0.0
+其他西餐,Manisa Kebap,Manisa Kebap,0,,0.0,0.0,0.0
+其他西餐,Teras Balik Restaurant Yeni Foca,Teras Balik Restaurant Yeni Foca,0,,0.0,0.0,0.0
+其他西餐,Bacim,Bacim,0,,0.0,0.0,0.0
+其他西餐,Urfa Sofrasi,Urfa Sofrasi,0,,0.0,0.0,0.0
+其他西餐,Seven Pide Lahmacun Salonu,Seven Pide Lahmacun Salonu,0,,0.0,0.0,0.0
+其他西餐,Denizim Manti Evi,Denizim Manti Evi,0,,0.0,0.0,0.0
+其他西餐,Sevim Lokantasi,Sevim Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Donerci Orhan Rahmanoglu,Donerci Orhan Rahmanoglu,0,,0.0,0.0,0.0
+其他西餐,Cigerci Zarif,Cigerci Zarif,0,,0.0,0.0,0.0
+其他西餐,Buca Pide Salonu,Buca Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Ora Lahmacun,Ora Lahmacun,0,,0.0,0.0,0.0
+其他西餐,Ozev Iskender Doner Salonu,Ozev Iskender Doner Salonu,0,,0.0,0.0,0.0
+其他西餐,Manisali Birtat,Manisali Birtat,0,,0.0,0.0,0.0
+其他西餐,Pamuk Pide Lahmacun,Pamuk Pide Lahmacun,0,,0.0,0.0,0.0
+其他西餐,Ali Pasa Cay ve Doner Evi,Ali Pasa Cay ve Doner Evi,0,,0.0,0.0,0.0
+其他西餐,Rasim Usta nin Yeri,Rasim Usta nin Yeri,0,,0.0,0.0,0.0
+其他西餐,Windows On The Bay Restaurant,Windows On The Bay Restaurant,0,,0.0,0.0,0.0
+其他西餐,Sanliurfa Kebap Salonu,Sanliurfa Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Temiz Mandira,Temiz Mandira,0,,0.0,0.0,0.0
+其他西餐,Naci Usta Restaurant,Naci Usta Restaurant,0,,0.0,0.0,0.0
+其他西餐,Aquarium Restaurant,Aquarium Restaurant,0,,0.0,0.0,0.0
+其他西餐,Meyhane Sisim,Meyhane Sisim,0,,0.0,0.0,0.0
+其他西餐,Itfaiye Restaurant,Itfaiye Restaurant,0,,0.0,0.0,0.0
+其他西餐,Donerim Fantasya,Donerim Fantasya,0,,0.0,0.0,0.0
+其他西餐,Kervan Doner Kebap Ve Pide Salonu,Kervan Doner Kebap Ve Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Manisali Birtat,Manisali Birtat,0,,0.0,0.0,0.0
+其他西餐,Cumhur Kaptan s place,Cumhur Kaptan s place,0,,0.0,0.0,0.0
+其他西餐,Ezo Ocakbasi,Ezo Ocakbasi,0,,0.0,0.0,0.0
+其他西餐,Tas Plak,Tas Plak,0,,0.0,0.0,0.0
+其他西餐,Bizim Lokanta,Bizim Lokanta,0,,0.0,0.0,0.0
+其他西餐,Bisquitte,Bisquitte,0,,0.0,0.0,0.0
+其他西餐,Ucyol Pide Salonu,Ucyol Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Bir Lokma,Bir Lokma,0,,0.0,0.0,0.0
+其他西餐,Anadolu Ev Isi,Anadolu Ev Isi,0,,0.0,0.0,0.0
+其他西餐,Komagene,Komagene,0,,0.0,0.0,0.0
+其他西餐,Oz KaraDeniz Doner Kebap,Oz KaraDeniz Doner Kebap,0,,0.0,0.0,0.0
+其他西餐,Tike,Tike,0,,0.0,0.0,0.0
+其他西餐,Tarkan in Yeri Ev Yemekleri,Tarkan in Yeri Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,Kuzine Ev Yemekleri,Kuzine Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,Benel LahmacUn Salonu,Benel LahmacUn Salonu,0,,0.0,0.0,0.0
+其他西餐,Titizce Turk MuTfagi,Titizce Turk MuTfagi,0,,0.0,0.0,0.0
+其他西餐,Hanende,Hanende,0,,0.0,0.0,0.0
+其他西餐,Girit MuTfagi,Girit MuTfagi,0,,0.0,0.0,0.0
+其他西餐,Asi Cig Kofteci,Asi Cig Kofteci,0,,0.0,0.0,0.0
+其他西餐,Girit MuTfagi,Girit MuTfagi,0,,0.0,0.0,0.0
+其他西餐,Koftehane Cine Kofte,Koftehane Cine Kofte,0,,0.0,0.0,0.0
+其他西餐,Cafem,Cafem,0,,0.0,0.0,0.0
+其他西餐,Cimen Ustanin Yeri,Cimen Ustanin Yeri,0,,0.0,0.0,0.0
+其他西餐,Sakizaki Restaurant,Sakizaki Restaurant,0,,0.0,0.0,0.0
+其他西餐,Lezzet Diyari,Lezzet Diyari,0,,0.0,0.0,0.0
+其他西餐,Mismis Cafe,Mismis Cafe,0,,0.0,0.0,0.0
+其他西餐,Cigkoftem,Cigkoftem,0,,0.0,0.0,0.0
+其他西餐,Çorbacı Sebo,Çorbacı Sebo,0,,0.0,0.0,0.0
+其他西餐,Hakiki Haci Baba Koftecisi,Hakiki Haci Baba Koftecisi,0,,0.0,0.0,0.0
+其他西餐,Pita Doner,Pita Doner,0,,0.0,0.0,0.0
+其他西餐,Meshur Melemenci Selo Baba  Nin Yeri,Meshur Melemenci Selo Baba  Nin Yeri,0,,0.0,0.0,0.0
+其他西餐,Hangel,Hangel,0,,0.0,0.0,0.0
+其他西餐,Lezzet Pide,Lezzet Pide,0,,0.0,0.0,0.0
+其他西餐,Cigkoftem,Cigkoftem,0,,0.0,0.0,0.0
+其他西餐,Karizma Restaurant,Karizma Restaurant,0,,0.0,0.0,0.0
+其他西餐,Tatlises Cig Kofte,Tatlises Cig Kofte,0,,0.0,0.0,0.0
+其他西餐,Tatlises Cig Kofte,Tatlises Cig Kofte,0,,0.0,0.0,0.0
+其他西餐,Naturel Mersin Tantuni,Naturel Mersin Tantuni,0,,0.0,0.0,0.0
+其他西餐,Mestan Restaurant,Mestan Restaurant,0,,0.0,0.0,0.0
+其他西餐,Tatlises Cig Kofte,Tatlises Cig Kofte,0,,0.0,0.0,0.0
+其他西餐,Yorukoglu pide kebap salonu,Yorukoglu pide kebap salonu,0,,0.0,0.0,0.0
+其他西餐,Damak Tadi Restaurant,Damak Tadi Restaurant,0,,0.0,0.0,0.0
+其他西餐,Sevgiyolu Pide Kebap,Sevgiyolu Pide Kebap,0,,0.0,0.0,0.0
+其他西餐,Konya Sofrasi,Konya Sofrasi,0,,0.0,0.0,0.0
+其他西餐,Beyaz Kosk Restaurant,Beyaz Kosk Restaurant,0,,0.0,0.0,0.0
+其他西餐,Kent Corba Pide Kebap,Kent Corba Pide Kebap,0,,0.0,0.0,0.0
+其他西餐,Feslegen Pide ve Lahmacun Salonu,Feslegen Pide ve Lahmacun Salonu,0,,0.0,0.0,0.0
+其他西餐,Sanat Kafe,Sanat Kafe,0,,0.0,0.0,0.0
+其他西餐,Saray Mutfagi,Saray Mutfagi,0,,0.0,0.0,0.0
+其他西餐,9 Eylul Et Lokantasi,9 Eylul Et Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Can Pide Ve Lahmacun Salonu,Can Pide Ve Lahmacun Salonu,0,,0.0,0.0,0.0
+其他西餐,Durumcu Aybar Dede,Durumcu Aybar Dede,0,,0.0,0.0,0.0
+其他西餐,Asil Pide Salonu,Asil Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Ozenen Pide,Ozenen Pide,0,,0.0,0.0,0.0
+其他西餐,Yenidogan Corba,Yenidogan Corba,0,,0.0,0.0,0.0
+其他西餐,Deniz Pide Ve Doner Salonu,Deniz Pide Ve Doner Salonu,0,,0.0,0.0,0.0
+其他西餐,Koftecim,Koftecim,0,,0.0,0.0,0.0
+其他西餐,Radika,Radika,0,,0.0,0.0,0.0
+其他西餐,One Way,One Way,0,,0.0,0.0,0.0
+其他西餐,Beyaz Cafe Bar Restaurant,Beyaz Cafe Bar Restaurant,0,,0.0,0.0,0.0
+其他西餐,Asmaalti Restaurant,Asmaalti Restaurant,0,,0.0,0.0,0.0
+其他西餐,Asli Pide,Asli Pide,0,,0.0,0.0,0.0
+其他西餐,Koshe Lahmacun Pide,Koshe Lahmacun Pide,0,,0.0,0.0,0.0
+其他西餐,Keyf-i Sefa Restaurant,Keyf-i Sefa Restaurant,0,,0.0,0.0,0.0
+其他西餐,KOFTECiM,KOFTECiM,0,,0.0,0.0,0.0
+其他西餐,Yali Konak 1841,Yali Konak 1841,0,,0.0,0.0,0.0
+其他西餐,Mutfak Girit,Mutfak Girit,0,,0.0,0.0,0.0
+其他西餐,Lezzet Bufe,Lezzet Bufe,0,,0.0,0.0,0.0
+其他西餐,Club Makara,Club Makara,0,,0.0,0.0,0.0
+其他西餐,Kofteci Rasim,Kofteci Rasim,0,,0.0,0.0,0.0
+其他西餐,Tuz Biber,Tuz Biber,0,,0.0,0.0,0.0
+其他西餐,Battalbey Cigkofte,Battalbey Cigkofte,0,,0.0,0.0,0.0
+其他西餐,Bizim Donerci Erhan Usta nin Doneri,Bizim Donerci Erhan Usta nin Doneri,0,,0.0,0.0,0.0
+其他西餐,Saray Kofte Salonu,Saray Kofte Salonu,0,,0.0,0.0,0.0
+其他西餐,Seymen Turk Sofrasi,Seymen Turk Sofrasi,0,,0.0,0.0,0.0
+其他西餐,Ulamisli Dedem Park Lokantasi,Ulamisli Dedem Park Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Sultanahmet Koftecisi,Sultanahmet Koftecisi,0,,0.0,0.0,0.0
+其他西餐,Seker Ege,Seker Ege,0,,0.0,0.0,0.0
+其他西餐,TikinAk,TikinAk,0,,0.0,0.0,0.0
+其他西餐,Onur Bufe,Onur Bufe,0,,0.0,0.0,0.0
+其他西餐,Tire Kebapcisi Ali Usta,Tire Kebapcisi Ali Usta,0,,0.0,0.0,0.0
+其他西餐,Gaziantep Bereket Sofrasi,Gaziantep Bereket Sofrasi,0,,0.0,0.0,0.0
+其他西餐,Osmanli Asirlik Lezzet,Osmanli Asirlik Lezzet,0,,0.0,0.0,0.0
+其他西餐,Loujain,Loujain,0,,0.0,0.0,0.0
+其他西餐,Bi Yedim Manti Ve Ev Yemekleri,Bi Yedim Manti Ve Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,UrFali Bedir in Yeri,UrFali Bedir in Yeri,0,,0.0,0.0,0.0
+其他西餐,Meshur Soguscu Celal,Meshur Soguscu Celal,0,,0.0,0.0,0.0
+其他西餐,MesTa ResTaurAnt,MesTa ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Gokce Pide,Gokce Pide,0,,0.0,0.0,0.0
+其他西餐,Can ResTaurAnt,Can ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,EsEn Doner,EsEn Doner,0,,0.0,0.0,0.0
+其他西餐,Kibar Doyum Evi,Kibar Doyum Evi,0,,0.0,0.0,0.0
+其他西餐,Maya Yemek Evi,Maya Yemek Evi,0,,0.0,0.0,0.0
+其他西餐,Radika,Radika,0,,0.0,0.0,0.0
+其他西餐,Kapari Ev Yemekleri,Kapari Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,KaraTas Doner,KaraTas Doner,0,,0.0,0.0,0.0
+其他西餐,Kahvalti Evi,Kahvalti Evi,0,,0.0,0.0,0.0
+其他西餐,Meshur Soguscu Huseyin Usta,Meshur Soguscu Huseyin Usta,0,,0.0,0.0,0.0
+其他西餐,Peximet,Peximet,0,,0.0,0.0,0.0
+其他西餐,Yeni DoyurAn,Yeni DoyurAn,0,,0.0,0.0,0.0
+其他西餐,Pufcu TurAn,Pufcu TurAn,0,,0.0,0.0,0.0
+其他西餐,Kofteci Ramiz,Kofteci Ramiz,0,,0.0,0.0,0.0
+其他西餐,Smyrna Lokantasi,Smyrna Lokantasi,0,,0.0,0.0,0.0
+其他西餐,AltinDag Et Lokontasi,AltinDag Et Lokontasi,0,,0.0,0.0,0.0
+其他西餐,FesLegen Yemek Evi,FesLegen Yemek Evi,0,,0.0,0.0,0.0
+其他西餐,Bolca Doner,Bolca Doner,0,,0.0,0.0,0.0
+其他西餐,Osteria Cafe,Osteria Cafe,0,,0.0,0.0,0.0
+其他西餐,Cati ResTaurAnt,Cati ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,MuTfak Ev Yemekleri,MuTfak Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,Nadide Gozleme Evi,Nadide Gozleme Evi,0,,0.0,0.0,0.0
+其他西餐,KaraCa Bufe,KaraCa Bufe,0,,0.0,0.0,0.0
+其他西餐,Citir Tez Yemek Evi,Citir Tez Yemek Evi,0,,0.0,0.0,0.0
+其他西餐,Ala Kebap,Ala Kebap,0,,0.0,0.0,0.0
+其他西餐,Buklum Manti Evi,Buklum Manti Evi,0,,0.0,0.0,0.0
+其他西餐,Antakyalilar Kagit Kebap,Antakyalilar Kagit Kebap,0,,0.0,0.0,0.0
+其他西餐,YesIlova Pide,YesIlova Pide,0,,0.0,0.0,0.0
+其他西餐,Dombili Kokorec,Dombili Kokorec,0,,0.0,0.0,0.0
+其他西餐,Battal Bey,Battal Bey,0,,0.0,0.0,0.0
+其他西餐,7A Cafe And ResTaurAnt,7A Cafe And ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Mahir Yemek,Mahir Yemek,0,,0.0,0.0,0.0
+其他西餐,Cigli Pide,Cigli Pide,0,,0.0,0.0,0.0
+其他西餐,KardesLer Pide Kebab ResTaurAnt,KardesLer Pide Kebab ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Ankara Lokantasi,Ankara Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Inegol Koftecisi Kemal Usta,Inegol Koftecisi Kemal Usta,0,,0.0,0.0,0.0
+其他西餐,Gulgun Pide,Gulgun Pide,0,,0.0,0.0,0.0
+其他西餐,Nostalji,Nostalji,0,,0.0,0.0,0.0
+其他西餐,Bizim Mutfak,Bizim Mutfak,0,,0.0,0.0,0.0
+其他西餐,Artemis Restoran,Artemis Restoran,0,,0.0,0.0,0.0
+其他西餐,Balkan Pide Kebap Pizza Salonu,Balkan Pide Kebap Pizza Salonu,0,,0.0,0.0,0.0
+其他西餐,Meeting Point cafe,Meeting Point cafe,0,,0.0,0.0,0.0
+其他西餐,Mumlu Meyhane,Mumlu Meyhane,0,,0.0,0.0,0.0
+其他西餐,Gizli Bahce,Gizli Bahce,0,,0.0,0.0,0.0
+其他西餐,Ali Usta,Ali Usta,0,,0.0,0.0,0.0
+其他西餐,Mavra Restaurant,Mavra Restaurant,0,,0.0,0.0,0.0
+其他西餐,Capa Lokantasi,Capa Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Guven Bufe,Guven Bufe,0,,0.0,0.0,0.0
+其他西餐,Gaziantep Durum Evi,Gaziantep Durum Evi,0,,0.0,0.0,0.0
+其他西餐,Bakscafe,Bakscafe,0,,0.0,0.0,0.0
+其他西餐,Fatih Pide ve Kebap Salonu,Fatih Pide ve Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Koray Usta nin Yeri,Koray Usta nin Yeri,0,,0.0,0.0,0.0
+其他西餐,Yoruk Obasi Restaurant,Yoruk Obasi Restaurant,0,,0.0,0.0,0.0
+其他西餐,Kumes Restaurant,Kumes Restaurant,0,,0.0,0.0,0.0
+其他西餐,Nese Kofte,Nese Kofte,0,,0.0,0.0,0.0
+其他西餐,Maci s Restaurant,Maci s Restaurant,0,,0.0,0.0,0.0
+其他西餐,Sultan Ciftligi,Sultan Ciftligi,0,,0.0,0.0,0.0
+其他西餐,Odemis Konak Restaurant,Odemis Konak Restaurant,0,,0.0,0.0,0.0
+其他西餐,Ora Lahmacun,Ora Lahmacun,0,,0.0,0.0,0.0
+其他西餐,Oz Manisali Mert Kebap Salonu,Oz Manisali Mert Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Köfteci Erol,Köfteci Erol,0,,0.0,0.0,0.0
+其他西餐,Hisaronu Donercisi,Hisaronu Donercisi,0,,0.0,0.0,0.0
+其他西餐,Safak Lokantasi,Safak Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Duygu Yapanlar Pide ve Kebap Salonu,Duygu Yapanlar Pide ve Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Altin kapi Restaurant,Altin kapi Restaurant,0,,0.0,0.0,0.0
+其他西餐,Konyali Ahmet Usta,Konyali Ahmet Usta,0,,0.0,0.0,0.0
+其他西餐,Gece & Gunduz Cigkofte,Gece & Gunduz Cigkofte,0,,0.0,0.0,0.0
+其他西餐,Fasil Bufe 35,Fasil Bufe 35,0,,0.0,0.0,0.0
+其他西餐,KardesLer Izgara Salonu,KardesLer Izgara Salonu,0,,0.0,0.0,0.0
+其他西餐,Bizim Donerci,Bizim Donerci,0,,0.0,0.0,0.0
+其他西餐,Oba Pide Ve Kebap Salonu,Oba Pide Ve Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Kavuk Cig Kofte Salonu,Kavuk Cig Kofte Salonu,0,,0.0,0.0,0.0
+其他西餐,NaturEl Doner,NaturEl Doner,0,,0.0,0.0,0.0
+其他西餐,Gol Bufe,Gol Bufe,0,,0.0,0.0,0.0
+其他西餐,Yaylacik Et Lokantasi,Yaylacik Et Lokantasi,0,,0.0,0.0,0.0
+其他西餐,SanliurFa DurUmevi,SanliurFa DurUmevi,0,,0.0,0.0,0.0
+其他西餐,Pidecimmm Ergen,Pidecimmm Ergen,0,,0.0,0.0,0.0
+其他西餐,Ergen Simit,Ergen Simit,0,,0.0,0.0,0.0
+其他西餐,Dort MevSim Corba Salonu,Dort MevSim Corba Salonu,0,,0.0,0.0,0.0
+其他西餐,Serkan,Serkan,0,,0.0,0.0,0.0
+其他西餐,Kucuk Park Ekmek AraSi,Kucuk Park Ekmek AraSi,0,,0.0,0.0,0.0
+其他西餐,Cici 37,Cici 37,0,,0.0,0.0,0.0
+其他西餐,Ziyafet,Ziyafet,0,,0.0,0.0,0.0
+其他西餐,Bizim InEgol Koftecisi,Bizim InEgol Koftecisi,0,,0.0,0.0,0.0
+其他西餐,Cigli Pide,Cigli Pide,0,,0.0,0.0,0.0
+其他西餐,Uysal Pide,Uysal Pide,0,,0.0,0.0,0.0
+其他西餐,Tantunici,Tantunici,0,,0.0,0.0,0.0
+其他西餐,Bereket Doner,Bereket Doner,0,,0.0,0.0,0.0
+其他西餐,Cafe Sillion,Cafe Sillion,0,,0.0,0.0,0.0
+其他西餐,Roof Garden,Roof Garden,0,,0.0,0.0,0.0
+其他西餐,Cazibe Kebap,Cazibe Kebap,0,,0.0,0.0,0.0
+其他西餐,Arzum Pide,Arzum Pide,0,,0.0,0.0,0.0
+其他西餐,DurUmcu Memo,DurUmcu Memo,0,,0.0,0.0,0.0
+其他西餐,Izmir Kofte,Izmir Kofte,0,,0.0,0.0,0.0
+其他西餐,KaraTay,KaraTay,0,,0.0,0.0,0.0
+其他西餐,Cimende Cilgin Doner,Cimende Cilgin Doner,0,,0.0,0.0,0.0
+其他西餐,Sariayvaz Doner Ve Kebap Salonu,Sariayvaz Doner Ve Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Mardin Kebap Evi,Mardin Kebap Evi,0,,0.0,0.0,0.0
+其他西餐,KaraDeniz Pide,KaraDeniz Pide,0,,0.0,0.0,0.0
+其他西餐,Donerci,Donerci,0,,0.0,0.0,0.0
+其他西餐,DemirhinDi Osmanli Kahvesi,DemirhinDi Osmanli Kahvesi,0,,0.0,0.0,0.0
+其他西餐,5 Kofte,5 Kofte,0,,0.0,0.0,0.0
+其他西餐,Ipek Pide,Ipek Pide,0,,0.0,0.0,0.0
+其他西餐,CimCim MakarnaCim,CimCim MakarnaCim,0,,0.0,0.0,0.0
+其他西餐,SevIlen Pide,SevIlen Pide,0,,0.0,0.0,0.0
+其他西餐,Yagmur Bufe,Yagmur Bufe,0,,0.0,0.0,0.0
+其他西餐,Kofteci SevKi,Kofteci SevKi,0,,0.0,0.0,0.0
+其他西餐,Merkez Doner,Merkez Doner,0,,0.0,0.0,0.0
+其他西餐,IkinCi AdresIm ResTaurAnt,IkinCi AdresIm ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Namli Ciger,Namli Ciger,0,,0.0,0.0,0.0
+其他西餐,Kayseri Manti Ve Ev Yemekleri,Kayseri Manti Ve Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,Cadde Bostanli,Cadde Bostanli,0,,0.0,0.0,0.0
+其他西餐,Gunduz Doner Salonu,Gunduz Doner Salonu,0,,0.0,0.0,0.0
+其他西餐,Hanimeli Bufe,Hanimeli Bufe,0,,0.0,0.0,0.0
+其他西餐,Oz Mersin Tantuni,Oz Mersin Tantuni,0,,0.0,0.0,0.0
+其他西餐,KardesLer Sandwich,KardesLer Sandwich,0,,0.0,0.0,0.0
+其他西餐,Sultan Yemek Evi,Sultan Yemek Evi,0,,0.0,0.0,0.0
+其他西餐,Miya Cafe,Miya Cafe,0,,0.0,0.0,0.0
+其他西餐,Medari Girit,Medari Girit,0,,0.0,0.0,0.0
+其他西餐,Tramvay Lezzet DurAgi,Tramvay Lezzet DurAgi,0,,0.0,0.0,0.0
+其他西餐,DinCer Sandvic,DinCer Sandvic,0,,0.0,0.0,0.0
+其他西餐,Rumeli Koftecisi,Rumeli Koftecisi,0,,0.0,0.0,0.0
+其他西餐,Hanedan Sofrasi,Hanedan Sofrasi,0,,0.0,0.0,0.0
+其他西餐,Amasyali Kocaboluk,Amasyali Kocaboluk,0,,0.0,0.0,0.0
+其他西餐,Dogam ResTaurAnt,Dogam ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Bostanli Corbacisi,Bostanli Corbacisi,0,,0.0,0.0,0.0
+其他西餐,Toros Kofte,Toros Kofte,0,,0.0,0.0,0.0
+其他西餐,Osmanli MuTfagi,Osmanli MuTfagi,0,,0.0,0.0,0.0
+其他西餐,Ege Tabldot,Ege Tabldot,0,,0.0,0.0,0.0
+其他西餐,Ege Kebap,Ege Kebap,0,,0.0,0.0,0.0
+其他西餐,TepSi Kebap,TepSi Kebap,0,,0.0,0.0,0.0
+其他西餐,Hazel,Hazel,0,,0.0,0.0,0.0
+其他西餐,Kardelen Kebap,Kardelen Kebap,0,,0.0,0.0,0.0
+其他西餐,Ali Baba KomuRde Izgara Evi,Ali Baba KomuRde Izgara Evi,0,,0.0,0.0,0.0
+其他西餐,Battalbey Cigkofte,Battalbey Cigkofte,0,,0.0,0.0,0.0
+其他西餐,Corbaci Ali Osman,Corbaci Ali Osman,0,,0.0,0.0,0.0
+其他西餐,Tabakici Ev Yemekleri,Tabakici Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,Altin Kapi,Altin Kapi,0,,0.0,0.0,0.0
+其他西餐,Donercibasi,Donercibasi,0,,0.0,0.0,0.0
+其他西餐,Kardelen Im Bufe,Kardelen Im Bufe,0,,0.0,0.0,0.0
+其他西餐,Meshur Odemis Pide,Meshur Odemis Pide,0,,0.0,0.0,0.0
+其他西餐,Ankara Yaprak Doner Salonu,Ankara Yaprak Doner Salonu,0,,0.0,0.0,0.0
+其他西餐,Aslanin Yeri,Aslanin Yeri,0,,0.0,0.0,0.0
+其他西餐,Cigkoftem,Cigkoftem,0,,0.0,0.0,0.0
+其他西餐,Yelgok Lokanta,Yelgok Lokanta,0,,0.0,0.0,0.0
+其他西餐,Beylerbeyi Sogus Kokorec,Beylerbeyi Sogus Kokorec,0,,0.0,0.0,0.0
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta,Meshur Adiyaman Cig Koftecisi Omer Usta,0,,0.0,0.0,0.0
+其他西餐,Caferium,Caferium,0,,0.0,0.0,0.0
+其他西餐,Ozer in Yeri,Ozer in Yeri,0,,0.0,0.0,0.0
+其他西餐,Meshur Adiyaman Cig Koftecisi Omer Usta,Meshur Adiyaman Cig Koftecisi Omer Usta,0,,0.0,0.0,0.0
+其他西餐,PinArlar Bufe,PinArlar Bufe,0,,0.0,0.0,0.0
+其他西餐,Suleyman Usta Et Lokantasi,Suleyman Usta Et Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Hunerli Eller,Hunerli Eller,0,,0.0,0.0,0.0
+其他西餐,Bab-i Ali,Bab-i Ali,0,,0.0,0.0,0.0
+其他西餐,Ahmet Say Bufe,Ahmet Say Bufe,0,,0.0,0.0,0.0
+其他西餐,Elazigli Cigkofteci Saim Usta,Elazigli Cigkofteci Saim Usta,0,,0.0,0.0,0.0
+其他西餐,Ora LahmacUn,Ora LahmacUn,0,,0.0,0.0,0.0
+其他西餐,Elif Pide Salonu,Elif Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Alican ResTaurAnt,Alican ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Gece & Gunduz Cigkofte,Gece & Gunduz Cigkofte,0,,0.0,0.0,0.0
+其他西餐,Kofteci MuRat,Kofteci MuRat,0,,0.0,0.0,0.0
+其他西餐,SevIm Lokantasi,SevIm Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Bornova Doner,Bornova Doner,0,,0.0,0.0,0.0
+其他西餐,Duygu Pide,Duygu Pide,0,,0.0,0.0,0.0
+其他西餐,Adnan Usta Ev Yemekleri,Adnan Usta Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,Salzburg,Salzburg,0,,0.0,0.0,0.0
+其他西餐,Kahramanlar Balik,Kahramanlar Balik,0,,0.0,0.0,0.0
+其他西餐,Mezopotomya,Mezopotomya,0,,0.0,0.0,0.0
+其他西餐,Agadan Kebap,Agadan Kebap,0,,0.0,0.0,0.0
+其他西餐,Sakli Bahce Kebap Salonu,Sakli Bahce Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,RozinAnte,RozinAnte,0,,0.0,0.0,0.0
+其他西餐,Krokan ResTaurAnt,Krokan ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Carsi Lokantasi,Carsi Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Metro Pide,Metro Pide,0,,0.0,0.0,0.0
+其他西餐,Yeni Saglik Kofte Salonu,Yeni Saglik Kofte Salonu,0,,0.0,0.0,0.0
+其他西餐,Park Meydan Cafe,Park Meydan Cafe,0,,0.0,0.0,0.0
+其他西餐,Miss Gain Coffee,Miss Gain Coffee,0,,0.0,0.0,0.0
+其他西餐,Meshur Oz Manisali,Meshur Oz Manisali,0,,0.0,0.0,0.0
+其他西餐,Yoruk Evi,Yoruk Evi,0,,0.0,0.0,0.0
+其他西餐,Battalbey Cigkofte,Battalbey Cigkofte,0,,0.0,0.0,0.0
+其他西餐,Battalbey Cigkofte,Battalbey Cigkofte,0,,0.0,0.0,0.0
+其他西餐,Battalbey Cigkofte,Battalbey Cigkofte,0,,0.0,0.0,0.0
+其他西餐,Battalbey,Battalbey,0,,0.0,0.0,0.0
+其他西餐,Riza nin Pide Salonu,Riza nin Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Bayburi ResTaurAnt,Bayburi ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Isik Pide,Isik Pide,0,,0.0,0.0,0.0
+其他西餐,Beyaz Saray Corba Pide Kebap Salonu,Beyaz Saray Corba Pide Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Belo Kuzu Kokorec,Belo Kuzu Kokorec,0,,0.0,0.0,0.0
+其他西餐,Bay Doner,Bay Doner,0,,0.0,0.0,0.0
+其他西餐,Narcicegi,Narcicegi,0,,0.0,0.0,0.0
+其他西餐,Sekerlicay Ev Yemekleri,Sekerlicay Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,Saray Donerci,Saray Donerci,0,,0.0,0.0,0.0
+其他西餐,Kahverengi Kafe,Kahverengi Kafe,0,,0.0,0.0,0.0
+其他西餐,Cig Kofteci Ahmet Aybak,Cig Kofteci Ahmet Aybak,0,,0.0,0.0,0.0
+其他西餐,Kaptan Doner,Kaptan Doner,0,,0.0,0.0,0.0
+其他西餐,Hanimaga ResTaurAnt,Hanimaga ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Gunes Bufe Doner Ve Kebap Salonu,Gunes Bufe Doner Ve Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Buyrun Gozleme,Buyrun Gozleme,0,,0.0,0.0,0.0
+其他西餐,Harika Doner,Harika Doner,0,,0.0,0.0,0.0
+其他西餐,Ugur Pide,Ugur Pide,0,,0.0,0.0,0.0
+其他西餐,Cilgin Kanatci,Cilgin Kanatci,0,,0.0,0.0,0.0
+其他西餐,Carlsberg Beer House,Carlsberg Beer House,0,,0.0,0.0,0.0
+其他西餐,Marmaris Bufe,Marmaris Bufe,0,,0.0,0.0,0.0
+其他西餐,Frenk Isot Kebap,Frenk Isot Kebap,0,,0.0,0.0,0.0
+其他西餐,Defne Yemekevi,Defne Yemekevi,0,,0.0,0.0,0.0
+其他西餐,Selim Usta,Selim Usta,0,,0.0,0.0,0.0
+其他西餐,Donerhane,Donerhane,0,,0.0,0.0,0.0
+其他西餐,Cafe Xtra,Cafe Xtra,0,,0.0,0.0,0.0
+其他西餐,Tasfirin MuTfagi,Tasfirin MuTfagi,0,,0.0,0.0,0.0
+其他西餐,Cafe Tamtam,Cafe Tamtam,0,,0.0,0.0,0.0
+其他西餐,Oltu Cag Kebap Salonu,Oltu Cag Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Tugce Doner,Tugce Doner,0,,0.0,0.0,0.0
+其他西餐,Gulum Antep,Gulum Antep,0,,0.0,0.0,0.0
+其他西餐,Kofteci Musti,Kofteci Musti,0,,0.0,0.0,0.0
+其他西餐,Sevilen Pide,Sevilen Pide,0,,0.0,0.0,0.0
+其他西餐,Oz Urfa Ocakbasi,Oz Urfa Ocakbasi,0,,0.0,0.0,0.0
+其他西餐,Ethem Babanin Yeri,Ethem Babanin Yeri,0,,0.0,0.0,0.0
+其他西餐,Memnune Hanim,Memnune Hanim,0,,0.0,0.0,0.0
+其他西餐,Zeytinalti,Zeytinalti,0,,0.0,0.0,0.0
+其他西餐,HacI Baba sis Kofte,HacI Baba sis Kofte,0,,0.0,0.0,0.0
+其他西餐,Akdeniz Tantuni,Akdeniz Tantuni,0,,0.0,0.0,0.0
+其他西餐,Kucuk Ev Corba Salonu,Kucuk Ev Corba Salonu,0,,0.0,0.0,0.0
+其他西餐,Pilavci Halil Usta,Pilavci Halil Usta,0,,0.0,0.0,0.0
+其他西餐,Gercek Bursa Doner Salonu,Gercek Bursa Doner Salonu,0,,0.0,0.0,0.0
+其他西餐,Elit Cafe,Elit Cafe,0,,0.0,0.0,0.0
+其他西餐,Efes Lokantasi,Efes Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Evisi Ev Yemekleri,Evisi Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,Oz Servet Pide ve Lahmacun Salonu,Oz Servet Pide ve Lahmacun Salonu,0,,0.0,0.0,0.0
+其他西餐,Cappadocia Restaurant,Cappadocia Restaurant,0,,0.0,0.0,0.0
+其他西餐,Coffeeco Restaurant,Coffeeco Restaurant,0,,0.0,0.0,0.0
+其他西餐,Lokanta Acibiber,Lokanta Acibiber,0,,0.0,0.0,0.0
+其他西餐,Kofteci Mehmet in Yeri,Kofteci Mehmet in Yeri,0,,0.0,0.0,0.0
+其他西餐,Ora Lahmacun,Ora Lahmacun,0,,0.0,0.0,0.0
+其他西餐,Donerci Vahap Usta,Donerci Vahap Usta,0,,0.0,0.0,0.0
+其他西餐,Seyrekgol Hobipark,Seyrekgol Hobipark,0,,0.0,0.0,0.0
+其他西餐,Gaziantep Ikram,Gaziantep Ikram,0,,0.0,0.0,0.0
+其他西餐,Nobili Park,Nobili Park,0,,0.0,0.0,0.0
+其他西餐,Lesmire Cafe,Lesmire Cafe,0,,0.0,0.0,0.0
+其他西餐,Lezistan,Lezistan,0,,0.0,0.0,0.0
+其他西餐,popcorn,popcorn,0,,0.0,0.0,0.0
+其他西餐,Konyali Etli Ekmek ve Firin Kebabi,Konyali Etli Ekmek ve Firin Kebabi,0,,0.0,0.0,0.0
+其他西餐,Bahcelievler Seref Usta,Bahcelievler Seref Usta,0,,0.0,0.0,0.0
+其他西餐,Kircicegi,Kircicegi,0,,0.0,0.0,0.0
+其他西餐,Aksoy Pide Salonu,Aksoy Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Meshur Kuyum Pide,Meshur Kuyum Pide,0,,0.0,0.0,0.0
+其他西餐,Sini Kosk Restaurant,Sini Kosk Restaurant,0,,0.0,0.0,0.0
+其他西餐,Mola Cafe,Mola Cafe,0,,0.0,0.0,0.0
+其他西餐,Isik Lokantasi,Isik Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Orenay Restaurant,Orenay Restaurant,0,,0.0,0.0,0.0
+其他西餐,Eliacik Lokantasi,Eliacik Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Kordon Grill Restaurant,Kordon Grill Restaurant,0,,0.0,0.0,0.0
+其他西餐,Formul Kofte,Formul Kofte,0,,0.0,0.0,0.0
+其他西餐,Kofteci Remzi,Kofteci Remzi,0,,0.0,0.0,0.0
+其他西餐,Halepisi,Halepisi,0,,0.0,0.0,0.0
+其他西餐,Ozen Kardesler Pide Corba Kebap Salonu,Ozen Kardesler Pide Corba Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Cinaralti Cafe,Cinaralti Cafe,0,,0.0,0.0,0.0
+其他西餐,Mehmet'in yeri,Mehmet'in yeri,0,,0.0,0.0,0.0
+其他西餐,Kervansaray,Kervansaray,0,,0.0,0.0,0.0
+其他西餐,Level 9,Level 9,0,,0.0,0.0,0.0
+其他西餐,Gora Pide,Gora Pide,0,,0.0,0.0,0.0
+其他西餐,Karşıyaka Sardunaki Restaurant,Karşıyaka Sardunaki Restaurant,0,,0.0,0.0,0.0
+其他西餐,Bergama,Bergama,0,,0.0,0.0,0.0
+其他西餐,Yore Manisa Kebap,Yore Manisa Kebap,0,,0.0,0.0,0.0
+其他西餐,Kumrucu Izzet,Kumrucu Izzet,0,,0.0,0.0,0.0
+其他西餐,Koyum,Koyum,0,,0.0,0.0,0.0
+其他西餐,Altinoluk Et Ve Balik Retoranti,Altinoluk Et Ve Balik Retoranti,0,,0.0,0.0,0.0
+其他西餐,Tarihi Kemeralti Lokantasi,Tarihi Kemeralti Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Atlihan Restaurant,Atlihan Restaurant,0,,0.0,0.0,0.0
+其他西餐,Yoruk Ali,Yoruk Ali,0,,0.0,0.0,0.0
+其他西餐,Dort Mevsim Ocakbasi,Dort Mevsim Ocakbasi,0,,0.0,0.0,0.0
+其他西餐,Kekik Restaurant,Kekik Restaurant,0,,0.0,0.0,0.0
+其他西餐,Lamia Restaurant,Lamia Restaurant,0,,0.0,0.0,0.0
+其他西餐,Luci Doner,Luci Doner,0,,0.0,0.0,0.0
+其他西餐,Ayipek Doner Kebap Salonu,Ayipek Doner Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Kuyum Pide Salonu,Kuyum Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Alsancak Boyoz Firini,Alsancak Boyoz Firini,0,,0.0,0.0,0.0
+其他西餐,Kofteci Ramiz,Kofteci Ramiz,0,,0.0,0.0,0.0
+其他西餐,Kofte Yerim,Kofte Yerim,0,,0.0,0.0,0.0
+其他西餐,Busra Pide,Busra Pide,0,,0.0,0.0,0.0
+其他西餐,Battalbey Cigkofte,Battalbey Cigkofte,0,,0.0,0.0,0.0
+其他西餐,Ankara Donercisi,Ankara Donercisi,0,,0.0,0.0,0.0
+其他西餐,Baca Restaurant,Baca Restaurant,0,,0.0,0.0,0.0
+其他西餐,Hosta Piknik,Hosta Piknik,0,,0.0,0.0,0.0
+其他西餐,Altınkapı Restaurant,Altınkapı Restaurant,0,,0.0,0.0,0.0
+其他西餐,ismet usta,ismet usta,0,,0.0,0.0,0.0
+其他西餐,Pidecim,Pidecim,0,,0.0,0.0,0.0
+其他西餐,Nadir Usta nin Yeri,Nadir Usta nin Yeri,0,,0.0,0.0,0.0
+其他西餐,Cafe Eski Usul,Cafe Eski Usul,0,,0.0,0.0,0.0
+其他西餐,Selera Restaurant,Selera Restaurant,0,,0.0,0.0,0.0
+其他西餐,Sunay Kebap Pide Lahmacun Salonu,Sunay Kebap Pide Lahmacun Salonu,0,,0.0,0.0,0.0
+其他西餐,Yeni Ankara Donercisi,Yeni Ankara Donercisi,0,,0.0,0.0,0.0
+其他西餐,Nar Cafe,Nar Cafe,0,,0.0,0.0,0.0
+其他西餐,Peximet,Peximet,0,,0.0,0.0,0.0
+其他西餐,Koylum,Koylum,0,,0.0,0.0,0.0
+其他西餐,Pavurya Restaurant,Pavurya Restaurant,0,,0.0,0.0,0.0
+其他西餐,Nezih Pide,Nezih Pide,0,,0.0,0.0,0.0
+其他西餐,Nefis Park Pide Salonu,Nefis Park Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Loca Cafe ResTaurAnt,Loca Cafe ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Nazar Boncugu Corbacisi,Nazar Boncugu Corbacisi,0,,0.0,0.0,0.0
+其他西餐,OzgenLer Pide Kebap,OzgenLer Pide Kebap,0,,0.0,0.0,0.0
+其他西餐,Meshur Kumrucu Ozkan,Meshur Kumrucu Ozkan,0,,0.0,0.0,0.0
+其他西餐,UrFali KardesLer,UrFali KardesLer,0,,0.0,0.0,0.0
+其他西餐,Movedo,Movedo,0,,0.0,0.0,0.0
+其他西餐,Pideci,Pideci,0,,0.0,0.0,0.0
+其他西餐,Oz Aydin Pide,Oz Aydin Pide,0,,0.0,0.0,0.0
+其他西餐,Oz Mersin Tantuni,Oz Mersin Tantuni,0,,0.0,0.0,0.0
+其他西餐,BarakA,BarakA,0,,0.0,0.0,0.0
+其他西餐,Kebapci Ismet,Kebapci Ismet,0,,0.0,0.0,0.0
+其他西餐,TLG ChickEn,TLG ChickEn,0,,0.0,0.0,0.0
+其他西餐,EvIm ResTaurAnt Cafe,EvIm ResTaurAnt Cafe,0,,0.0,0.0,0.0
+其他西餐,YanikeFe Cop Sis,YanikeFe Cop Sis,0,,0.0,0.0,0.0
+其他西餐,Samsun Pide Evi,Samsun Pide Evi,0,,0.0,0.0,0.0
+其他西餐,Yaşam Çiçeği,Yaşam Çiçeği,0,,0.0,0.0,0.0
+其他西餐,Kultur Cafe,Kultur Cafe,0,,0.0,0.0,0.0
+其他西餐,Arzu Pide,Arzu Pide,0,,0.0,0.0,0.0
+其他西餐,Bak Bi ResTaurAnt,Bak Bi ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,DurUmcu Ozcan Usta,DurUmcu Ozcan Usta,0,,0.0,0.0,0.0
+其他西餐,Ikbal ResTaurAnt,Ikbal ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Elit Pide Ve Kebap,Elit Pide Ve Kebap,0,,0.0,0.0,0.0
+其他西餐,Homini Girtlak,Homini Girtlak,0,,0.0,0.0,0.0
+其他西餐,Karcicegi UrFa Sofrasi,Karcicegi UrFa Sofrasi,0,,0.0,0.0,0.0
+其他西餐,FlaminGo Park ResTaurAnt Ve Cafe,FlaminGo Park ResTaurAnt Ve Cafe,0,,0.0,0.0,0.0
+其他西餐,Lezzital,Lezzital,0,,0.0,0.0,0.0
+其他西餐,Son UrAfli nin Yeri,Son UrAfli nin Yeri,0,,0.0,0.0,0.0
+其他西餐,Gel Gor Gari,Gel Gor Gari,0,,0.0,0.0,0.0
+其他西餐,Konyalim Etli Ekmek,Konyalim Etli Ekmek,0,,0.0,0.0,0.0
+其他西餐,Celebi Turk MuTfagi,Celebi Turk MuTfagi,0,,0.0,0.0,0.0
+其他西餐,CesNili ResTaurAnt,CesNili ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Gel Gor Gari,Gel Gor Gari,0,,0.0,0.0,0.0
+其他西餐,Cimende Cilgin Doner,Cimende Cilgin Doner,0,,0.0,0.0,0.0
+其他西餐,Donerci Omer Usta nin Yeri,Donerci Omer Usta nin Yeri,0,,0.0,0.0,0.0
+其他西餐,Kofteci Rasim,Kofteci Rasim,0,,0.0,0.0,0.0
+其他西餐,Doydum Lezzet Dunyasi,Doydum Lezzet Dunyasi,0,,0.0,0.0,0.0
+其他西餐,Destina Life,Destina Life,0,,0.0,0.0,0.0
+其他西餐,Dombili Pide,Dombili Pide,0,,0.0,0.0,0.0
+其他西餐,Cafe Soncare Koftecisi,Cafe Soncare Koftecisi,0,,0.0,0.0,0.0
+其他西餐,Lezzet DurAgi,Lezzet DurAgi,0,,0.0,0.0,0.0
+其他西餐,KayinTi Ev Yemekleri,KayinTi Ev Yemekleri,0,,0.0,0.0,0.0
+其他西餐,Adiyamanli Zeynel Usta,Adiyamanli Zeynel Usta,0,,0.0,0.0,0.0
+其他西餐,Yel Degirmeni ResTaurAnt,Yel Degirmeni ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Tarihi Adana Asmaalti,Tarihi Adana Asmaalti,0,,0.0,0.0,0.0
+其他西餐,Mayla,Mayla,0,,0.0,0.0,0.0
+其他西餐,Omur Bufe,Omur Bufe,0,,0.0,0.0,0.0
+其他西餐,Basak Doner,Basak Doner,0,,0.0,0.0,0.0
+其他西餐,Ora LahmacUn,Ora LahmacUn,0,,0.0,0.0,0.0
+其他西餐,Cimbomlu Meshur Soguscu,Cimbomlu Meshur Soguscu,0,,0.0,0.0,0.0
+其他西餐,Cigerimsin,Cigerimsin,0,,0.0,0.0,0.0
+其他西餐,Artemis Doner,Artemis Doner,0,,0.0,0.0,0.0
+其他西餐,Elit,Elit,0,,0.0,0.0,0.0
+其他西餐,Ankara Donercisi,Ankara Donercisi,0,,0.0,0.0,0.0
+其他西餐,Lezzeti Sahane,Lezzeti Sahane,0,,0.0,0.0,0.0
+其他西餐,Obur Doner,Obur Doner,0,,0.0,0.0,0.0
+其他西餐,Kemeralti Koftecisi,Kemeralti Koftecisi,0,,0.0,0.0,0.0
+其他西餐,Ilknur Pide Ve LahmacUn Salonu,Ilknur Pide Ve LahmacUn Salonu,0,,0.0,0.0,0.0
+其他西餐,Cankaya DurUmcusu,Cankaya DurUmcusu,0,,0.0,0.0,0.0
+其他西餐,Meshur AlaturKa Cig Koftecisi,Meshur AlaturKa Cig Koftecisi,0,,0.0,0.0,0.0
+其他西餐,Altin Ev Kebap Salonu,Altin Ev Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,Guven Yemekci,Guven Yemekci,0,,0.0,0.0,0.0
+其他西餐,SanliurFa Ocak Basi,SanliurFa Ocak Basi,0,,0.0,0.0,0.0
+其他西餐,Deryam Pide Ve Corba Salonu,Deryam Pide Ve Corba Salonu,0,,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,,0.0,0.0,0.0
+其他西餐,Tatoglu Cig Kofte,Tatoglu Cig Kofte,0,,0.0,0.0,0.0
+其他西餐,Hira Corba Ve Yemek Evi,Hira Corba Ve Yemek Evi,0,,0.0,0.0,0.0
+其他西餐,Natur DurUmcu,Natur DurUmcu,0,,0.0,0.0,0.0
+其他西餐,Guleryuz Lokantasi,Guleryuz Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Elazigli Cigkofteci Saim Usta,Elazigli Cigkofteci Saim Usta,0,,0.0,0.0,0.0
+其他西餐,Parlar Yeni Yemek,Parlar Yeni Yemek,0,,0.0,0.0,0.0
+其他西餐,TurUncu Cafe,TurUncu Cafe,0,,0.0,0.0,0.0
+其他西餐,HLM Cigkofte,HLM Cigkofte,0,,0.0,0.0,0.0
+其他西餐,HLM Cigkofte,HLM Cigkofte,0,,0.0,0.0,0.0
+其他西餐,Park Pide,Park Pide,0,,0.0,0.0,0.0
+其他西餐,Sogus Dunyasi,Sogus Dunyasi,0,,0.0,0.0,0.0
+其他西餐,San Pide,San Pide,0,,0.0,0.0,0.0
+其他西餐,Isot Cigkofte,Isot Cigkofte,0,,0.0,0.0,0.0
+其他西餐,Ulu Pide Kebap Salonu,Ulu Pide Kebap Salonu,0,,0.0,0.0,0.0
+其他西餐,MarjinAl Doner,MarjinAl Doner,0,,0.0,0.0,0.0
+其他西餐,Mr. Kebap,Mr. Kebap,0,,0.0,0.0,0.0
+其他西餐,Hatay Ocakbasi,Hatay Ocakbasi,0,,0.0,0.0,0.0
+其他西餐,HLM Cigkofte,HLM Cigkofte,0,,0.0,0.0,0.0
+其他西餐,HLM Cigkofte,HLM Cigkofte,0,,0.0,0.0,0.0
+其他西餐,Hatay Sandviccisi,Hatay Sandviccisi,0,,0.0,0.0,0.0
+其他西餐,Izmir Cankaya Lokantasi,Izmir Cankaya Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Santral Pide Kebap,Santral Pide Kebap,0,,0.0,0.0,0.0
+其他西餐,Tatli Asim,Tatli Asim,0,,0.0,0.0,0.0
+其他西餐,Bizbize Cafe ResTaurAnt,Bizbize Cafe ResTaurAnt,0,,0.0,0.0,0.0
+其他西餐,Konak Doner Salonu,Konak Doner Salonu,0,,0.0,0.0,0.0
+其他西餐,Donerci Cemil,Donerci Cemil,0,,0.0,0.0,0.0
+其他西餐,NOA Cafe,NOA Cafe,0,,0.0,0.0,0.0
+其他西餐,Mina Kebap,Mina Kebap,0,,0.0,0.0,0.0
+其他西餐,Mersi Cafe,Mersi Cafe,0,,0.0,0.0,0.0
+其他西餐,Dedem Doner Evi,Dedem Doner Evi,0,,0.0,0.0,0.0
+其他西餐,Seher Lokantasi,Seher Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Bahar Lokantasi,Bahar Lokantasi,0,,0.0,0.0,0.0
+其他西餐,Ziyafet Pide Cag Kebap,Ziyafet Pide Cag Kebap,0,,0.0,0.0,0.0
+其他西餐,Battalbey Cig Kofte,Battalbey Cig Kofte,0,,0.0,0.0,0.0
+其他西餐,Doganer Pide Salonu,Doganer Pide Salonu,0,,0.0,0.0,0.0
+其他西餐,Akhisar Kofte,Akhisar Kofte,0,,0.0,0.0,0.0
+其他西餐,Kalite Doner,Kalite Doner,0,,0.0,0.0,0.0
+其他西餐,BurSa Doner,BurSa Doner,0,,0.0,0.0,0.0
+其他西餐,Ikram Doner,Ikram Doner,0,,0.0,0.0,0.0
+其他西餐,Ikram Doner,Ikram Doner,0,,0.0,0.0,0.0
+其他西餐,Odemis Kebap,Odemis Kebap,0,,0.0,0.0,0.0
+其他西餐,Yaren Doner Evi,Yaren Doner Evi,0,,0.0,0.0,0.0
+其他西餐,Soydan ResTaurAn,Soydan ResTaurAn,0,,0.0,0.0,0.0
+中餐,Red Dragon Chinese Restaurant,Red Dragon Chinese Restaurant,0,,0.0,0.0,0.0
+中餐,Emperor Chinese,Emperor Chinese,0,,0.0,0.0,0.0
+中餐,Dragon Cıty Chinese Restaurant,Dragon Cıty Chinese Restaurant,0,,0.0,0.0,0.0
+中餐,Sushi Co,Sushi Co,0,,0.0,0.0,0.0
+中餐,Chinese resTaurAnt,Chinese resTaurAnt,0,,0.0,0.0,0.0
+日韩料理,China Town,China Town,0,,0.0,0.0,0.0
+更多亚洲菜,Tea,Tea,0,,0.0,0.0,0.0
+更多亚洲菜,Sushico,Sushico,0,,0.0,0.0,0.0
+快餐简餐,Carsi Bufe,Carsi Bufe,0,,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,Ata Bufe,Ata Bufe,0,,0.0,0.0,0.0
+快餐简餐,Cafe MuKo,Cafe MuKo,0,,0.0,0.0,0.0
+快餐简餐,Aciktim Fehim Abi,Aciktim Fehim Abi,0,,0.0,0.0,0.0
+快餐简餐,HamuDu,HamuDu,0,,0.0,0.0,0.0
+快餐简餐,burger king,burger king,0,,0.0,0.0,0.0
+快餐简餐,Energy,Energy,0,,0.0,0.0,0.0
+快餐简餐,Tay Tay Bufe,Tay Tay Bufe,0,,0.0,0.0,0.0
+快餐简餐,ACO,ACO,0,,0.0,0.0,0.0
+快餐简餐,Alsancak BurGer,Alsancak BurGer,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,,0.0,0.0,0.0
+快餐简餐,Vital Fresh,Vital Fresh,0,,0.0,0.0,0.0
+快餐简餐,Meshur SusurLuk Tostcusu,Meshur SusurLuk Tostcusu,0,,0.0,0.0,0.0
+快餐简餐,Kumru Dunyasi,Kumru Dunyasi,0,,0.0,0.0,0.0
+快餐简餐,TurUnc Cafe,TurUnc Cafe,0,,0.0,0.0,0.0
+快餐简餐,Tost Dunyasi,Tost Dunyasi,0,,0.0,0.0,0.0
+快餐简餐,Kabasakal KomuRde Sandvic,Kabasakal KomuRde Sandvic,0,,0.0,0.0,0.0
+快餐简餐,Velioglu BurGer,Velioglu BurGer,0,,0.0,0.0,0.0
+快餐简餐,Ender Kumru,Ender Kumru,0,,0.0,0.0,0.0
+快餐简餐,By Kumrucu,By Kumrucu,0,,0.0,0.0,0.0
+快餐简餐,Sreg Fast Food,Sreg Fast Food,0,,0.0,0.0,0.0
+快餐简餐,Bufe Gonca,Bufe Gonca,0,,0.0,0.0,0.0
+快餐简餐,Luwi Fastfood,Luwi Fastfood,0,,0.0,0.0,0.0
+快餐简餐,Su Kafe,Su Kafe,0,,0.0,0.0,0.0
+快餐简餐,Kumas Bufe,Kumas Bufe,0,,0.0,0.0,0.0
+快餐简餐,AltAy Kokarec,AltAy Kokarec,0,,0.0,0.0,0.0
+快餐简餐,Pinar Sandvic Bufe,Pinar Sandvic Bufe,0,,0.0,0.0,0.0
+快餐简餐,Kral Doner,Kral Doner,0,,0.0,0.0,0.0
+快餐简餐,Furkan Burger,Furkan Burger,0,,0.0,0.0,0.0
+快餐简餐,Durak Doner,Durak Doner,0,,0.0,0.0,0.0
+快餐简餐,Obur Bufe,Obur Bufe,0,,0.0,0.0,0.0
+快餐简餐,Gul Bufe,Gul Bufe,0,,0.0,0.0,0.0
+快餐简餐,Doydum Kokorec,Doydum Kokorec,0,,0.0,0.0,0.0
+快餐简餐,Meydan Bufe,Meydan Bufe,0,,0.0,0.0,0.0
+快餐简餐,Sefa Cafe,Sefa Cafe,0,,0.0,0.0,0.0
+快餐简餐,Balkan Bufe,Balkan Bufe,0,,0.0,0.0,0.0
+快餐简餐,Yildiz Bufe,Yildiz Bufe,0,,0.0,0.0,0.0
+快餐简餐,Osmanogullari Otokent Bufe,Osmanogullari Otokent Bufe,0,,0.0,0.0,0.0
+快餐简餐,Cemal Kizilkaya Bufe,Cemal Kizilkaya Bufe,0,,0.0,0.0,0.0
+快餐简餐,Arda Bufe,Arda Bufe,0,,0.0,0.0,0.0
+快餐简餐,Kordon Bufe,Kordon Bufe,0,,0.0,0.0,0.0
+快餐简餐,Aydin Bufe,Aydin Bufe,0,,0.0,0.0,0.0
+快餐简餐,Ardic Fast Food,Ardic Fast Food,0,,0.0,0.0,0.0
+快餐简餐,Fil Pide,Fil Pide,0,,0.0,0.0,0.0
+快餐简餐,Bay Doner,Bay Doner,0,,0.0,0.0,0.0
+快餐简餐,Kumru & Kumru,Kumru & Kumru,0,,0.0,0.0,0.0
+快餐简餐,Sami Babanin Yeri,Sami Babanin Yeri,0,,0.0,0.0,0.0
+快餐简餐,Sandvic Bufesi,Sandvic Bufesi,0,,0.0,0.0,0.0
+快餐简餐,Lop Lop Kokorec,Lop Lop Kokorec,0,,0.0,0.0,0.0
+快餐简餐,Lop Lop Kokorec,Lop Lop Kokorec,0,,0.0,0.0,0.0
+快餐简餐,Pembe Bufe,Pembe Bufe,0,,0.0,0.0,0.0
+快餐简餐,Selale Kumrucu Salih,Selale Kumrucu Salih,0,,0.0,0.0,0.0
+快餐简餐,Emmioglu Bufe,Emmioglu Bufe,0,,0.0,0.0,0.0
+快餐简餐,AsuCan,AsuCan,0,,0.0,0.0,0.0
+快餐简餐,Asansor,Asansor,0,,0.0,0.0,0.0
+快餐简餐,Subway,Subway,0,,0.0,0.0,0.0
+快餐简餐,Kumrucu Sevki,Kumrucu Sevki,0,,0.0,0.0,0.0
+快餐简餐,Meshur Hisaronu Sogus,Meshur Hisaronu Sogus,0,,0.0,0.0,0.0
+快餐简餐,Kumrucu Eyup,Kumrucu Eyup,0,,0.0,0.0,0.0
+快餐简餐,Sandwich Store,Sandwich Store,0,,0.0,0.0,0.0
+快餐简餐,Friends,Friends,0,,0.0,0.0,0.0
+快餐简餐,Ugur Kokorec,Ugur Kokorec,0,,0.0,0.0,0.0
+快餐简餐,Kumrucu Riza,Kumrucu Riza,0,,0.0,0.0,0.0
+快餐简餐,Cifte Kumrular,Cifte Kumrular,0,,0.0,0.0,0.0
+快餐简餐,Meshur Ahmet Usta,Meshur Ahmet Usta,0,,0.0,0.0,0.0
+快餐简餐,Marin Korfez Restaurant,Marin Korfez Restaurant,0,,0.0,0.0,0.0
+快餐简餐,Ohannes Burger,Ohannes Burger,0,,0.0,0.0,0.0
+快餐简餐,Friends,Friends,0,,0.0,0.0,0.0
+快餐简餐,Breadli,Breadli,0,,0.0,0.0,0.0
+快餐简餐,Ekmekici,Ekmekici,0,,0.0,0.0,0.0
+快餐简餐,Carsi Cafe,Carsi Cafe,0,,0.0,0.0,0.0
+快餐简餐,Toster,Toster,0,,0.0,0.0,0.0
+快餐简餐,Vision Port,Vision Port,0,,0.0,0.0,0.0
+快餐简餐,Konak Bufe,Konak Bufe,0,,0.0,0.0,0.0
+快餐简餐,Miswich,Miswich,0,,0.0,0.0,0.0
+快餐简餐,Kumrucu Dede,Kumrucu Dede,0,,0.0,0.0,0.0
+快餐简餐,Ekmekici,Ekmekici,0,,0.0,0.0,0.0
+快餐简餐,Bayrak Bufe,Bayrak Bufe,0,,0.0,0.0,0.0
+快餐简餐,Cico Bufe,Cico Bufe,0,,0.0,0.0,0.0
+快餐简餐,Enbordo Komurde Sandavic Evi,Enbordo Komurde Sandavic Evi,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,Ege Cafe,Ege Cafe,0,,0.0,0.0,0.0
+快餐简餐,Kumru Kumru,Kumru Kumru,0,,0.0,0.0,0.0
+快餐简餐,Melis Bufe,Melis Bufe,0,,0.0,0.0,0.0
+快餐简餐,Ekmekici,Ekmekici,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,RA Fast Food,RA Fast Food,0,,0.0,0.0,0.0
+快餐简餐,Cafe Kirmizi,Cafe Kirmizi,0,,0.0,0.0,0.0
+快餐简餐,Tomurcuk Bufe,Tomurcuk Bufe,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,KayinTi Bufe,KayinTi Bufe,0,,0.0,0.0,0.0
+快餐简餐,Karsiyakali Salih,Karsiyakali Salih,0,,0.0,0.0,0.0
+快餐简餐,Kumrucu Yusuf,Kumrucu Yusuf,0,,0.0,0.0,0.0
+快餐简餐,Oruclar,Oruclar,0,,0.0,0.0,0.0
+快餐简餐,KardesLer Bufe,KardesLer Bufe,0,,0.0,0.0,0.0
+快餐简餐,Crazy ChockEn,Crazy ChockEn,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,Ozerener Bufe,Ozerener Bufe,0,,0.0,0.0,0.0
+快餐简餐,Idil Cafe,Idil Cafe,0,,0.0,0.0,0.0
+快餐简餐,SafinAz,SafinAz,0,,0.0,0.0,0.0
+快餐简餐,Kumrucu SevKi,Kumrucu SevKi,0,,0.0,0.0,0.0
+快餐简餐,A And A Cifte Kumrular Plus,A And A Cifte Kumrular Plus,0,,0.0,0.0,0.0
+快餐简餐,Igdeli Cafe,Igdeli Cafe,0,,0.0,0.0,0.0
+快餐简餐,Zeytin Cafe,Zeytin Cafe,0,,0.0,0.0,0.0
+快餐简餐,Kumrucu Omur,Kumrucu Omur,0,,0.0,0.0,0.0
+快餐简餐,Kokorecci Baki Usta,Kokorecci Baki Usta,0,,0.0,0.0,0.0
+快餐简餐,Inciralti Turkuaz Cafe,Inciralti Turkuaz Cafe,0,,0.0,0.0,0.0
+快餐简餐,Lozan Sandwich,Lozan Sandwich,0,,0.0,0.0,0.0
+快餐简餐,Mia Cafe,Mia Cafe,0,,0.0,0.0,0.0
+快餐简餐,Ercan BurGer,Ercan BurGer,0,,0.0,0.0,0.0
+快餐简餐,Pasa Kokorec,Pasa Kokorec,0,,0.0,0.0,0.0
+快餐简餐,Can Bufe,Can Bufe,0,,0.0,0.0,0.0
+快餐简餐,Lezzet Kafeterya,Lezzet Kafeterya,0,,0.0,0.0,0.0
+快餐简餐,PinAr Bufe,PinAr Bufe,0,,0.0,0.0,0.0
+快餐简餐,Ugrak Kahvalti Ve Yemek Salonu,Ugrak Kahvalti Ve Yemek Salonu,0,,0.0,0.0,0.0
+快餐简餐,Samsun Pide Evi,Samsun Pide Evi,0,,0.0,0.0,0.0
+快餐简餐,Aynali Bufe,Aynali Bufe,0,,0.0,0.0,0.0
+快餐简餐,Buse Fast Food,Buse Fast Food,0,,0.0,0.0,0.0
+快餐简餐,Tadim,Tadim,0,,0.0,0.0,0.0
+快餐简餐,Vitamin Kumpir,Vitamin Kumpir,0,,0.0,0.0,0.0
+快餐简餐,TurKfast,TurKfast,0,,0.0,0.0,0.0
+快餐简餐,Hisaronu Sogus,Hisaronu Sogus,0,,0.0,0.0,0.0
+快餐简餐,AltinMasa,AltinMasa,0,,0.0,0.0,0.0
+快餐简餐,Mola Cafe,Mola Cafe,0,,0.0,0.0,0.0
+快餐简餐,Yalicin Vitamin Cafe,Yalicin Vitamin Cafe,0,,0.0,0.0,0.0
+快餐简餐,Altin Masa,Altin Masa,0,,0.0,0.0,0.0
+快餐简餐,Acarlar,Acarlar,0,,0.0,0.0,0.0
+快餐简餐,Food Service,Food Service,0,,0.0,0.0,0.0
+快餐简餐,Altin Kalp Bufe,Altin Kalp Bufe,0,,0.0,0.0,0.0
+快餐简餐,Yarim - Ekmek,Yarim - Ekmek,0,,0.0,0.0,0.0
+快餐简餐,Loti,Loti,0,,0.0,0.0,0.0
+快餐简餐,KirinTi,KirinTi,0,,0.0,0.0,0.0
+快餐简餐,Vitamin Kumpir,Vitamin Kumpir,0,,0.0,0.0,0.0
+快餐简餐,Kumrucu Adres Cafe,Kumrucu Adres Cafe,0,,0.0,0.0,0.0
+快餐简餐,Temel Reis,Temel Reis,0,,0.0,0.0,0.0
+快餐简餐,Azdin Bufe,Azdin Bufe,0,,0.0,0.0,0.0
+快餐简餐,Inci Fast Food,Inci Fast Food,0,,0.0,0.0,0.0
+快餐简餐,Kardesler Bufe,Kardesler Bufe,0,,0.0,0.0,0.0
+快餐简餐,Mimoza Bufe,Mimoza Bufe,0,,0.0,0.0,0.0
+快餐简餐,McDonald s,McDonald s,0,,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,,0.0,0.0,0.0
+快餐简餐,Ezgi Bufe,Ezgi Bufe,0,,0.0,0.0,0.0
+快餐简餐,Ohannes Burger,Ohannes Burger,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,Baks Bakery,Baks Bakery,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,Lop Lop Kokorec,Lop Lop Kokorec,0,,0.0,0.0,0.0
+快餐简餐,Efes Bufe,Efes Bufe,0,,0.0,0.0,0.0
+快餐简餐,Bornovali Cemil Usta,Bornovali Cemil Usta,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,,0.0,0.0,0.0
+快餐简餐,Ekmekici,Ekmekici,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,Sampiyon Kokorec,Sampiyon Kokorec,0,,0.0,0.0,0.0
+快餐简餐,King Hotdog,King Hotdog,0,,0.0,0.0,0.0
+快餐简餐,Malibu Cafe,Malibu Cafe,0,,0.0,0.0,0.0
+快餐简餐,Sanador Cafe,Sanador Cafe,0,,0.0,0.0,0.0
+快餐简餐,Tetik Cafe,Tetik Cafe,0,,0.0,0.0,0.0
+快餐简餐,Poyraz Bufe,Poyraz Bufe,0,,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,,0.0,0.0,0.0
+快餐简餐,Cafe Sandvic,Cafe Sandvic,0,,0.0,0.0,0.0
+快餐简餐,Efes Bufe,Efes Bufe,0,,0.0,0.0,0.0
+快餐简餐,Baris Bufe,Baris Bufe,0,,0.0,0.0,0.0
+快餐简餐,Ercan Bufe,Ercan Bufe,0,,0.0,0.0,0.0
+快餐简餐,Elibol Sandvic Bufesi,Elibol Sandvic Bufesi,0,,0.0,0.0,0.0
+快餐简餐,AkpinAr Kokorec,AkpinAr Kokorec,0,,0.0,0.0,0.0
+快餐简餐,Cafe Antre,Cafe Antre,0,,0.0,0.0,0.0
+快餐简餐,BLC Portakal,BLC Portakal,0,,0.0,0.0,0.0
+快餐简餐,Kardelen Bufe,Kardelen Bufe,0,,0.0,0.0,0.0
+快餐简餐,Kirmizi Kofte,Kirmizi Kofte,0,,0.0,0.0,0.0
+快餐简餐,Opera Cafe,Opera Cafe,0,,0.0,0.0,0.0
+快餐简餐,Pars Kafe,Pars Kafe,0,,0.0,0.0,0.0
+快餐简餐,Park Bufe,Park Bufe,0,,0.0,0.0,0.0
+快餐简餐,Cafe SirinYer,Cafe SirinYer,0,,0.0,0.0,0.0
+快餐简餐,Elit Bufe,Elit Bufe,0,,0.0,0.0,0.0
+快餐简餐,KFC,KFC,0,,0.0,0.0,0.0
+快餐简餐,Tarasa Nostalji,Tarasa Nostalji,0,,0.0,0.0,0.0
+快餐简餐,Citi Piti Sandvic Ve Kumru,Citi Piti Sandvic Ve Kumru,0,,0.0,0.0,0.0
+海鲜,Roma,Roma,0,,7.0,7.0,6.9
+海鲜,Deniz Restaurant,Deniz Restaurant,0,,0.0,0.0,0.0
+海鲜,Zoka Balik Evi,Zoka Balik Evi,0,,0.0,0.0,0.0
+海鲜,Mola Su UrUnleri Balik Evi,Mola Su UrUnleri Balik Evi,0,,0.0,0.0,0.0
+海鲜,Roda Balik ResTaurAnt,Roda Balik ResTaurAnt,0,,0.0,0.0,0.0
+海鲜,Sefler ResTaurAnt,Sefler ResTaurAnt,0,,0.0,0.0,0.0
+海鲜,Deniz Restaurant,Deniz Restaurant,0,,0.0,0.0,0.0
+海鲜,Gayik ResTaurAnt,Gayik ResTaurAnt,0,,0.0,0.0,0.0
+海鲜,Altin Fish,Altin Fish,0,,0.0,0.0,0.0
+海鲜,Clup Ali ResTaurAnt,Clup Ali ResTaurAnt,0,,0.0,0.0,0.0
+海鲜,Mavi Merlin,Mavi Merlin,0,,0.0,0.0,0.0
+海鲜,Mavi Yengec,Mavi Yengec,0,,0.0,0.0,0.0
+海鲜,Kordonboyu Fish Cook,Kordonboyu Fish Cook,0,,0.0,0.0,0.0
+海鲜,Fisho,Fisho,0,,0.0,0.0,0.0
+海鲜,Fisho ResTaurAnt,Fisho ResTaurAnt,0,,0.0,0.0,0.0
+海鲜,BalikzaDe,BalikzaDe,0,,0.0,0.0,0.0
+海鲜,Dokumun Yeri Balik Pisiricisi,Dokumun Yeri Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Keyif ResToran,Keyif ResToran,0,,0.0,0.0,0.0
+海鲜,Hisaronu Balik Pisiricisi,Hisaronu Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Meshur Halikarnas Balik Pisiricisi,Meshur Halikarnas Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Meshur Balik Pisiricisi,Meshur Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Taytisin Yeri,Taytisin Yeri,0,,0.0,0.0,0.0
+海鲜,Denizici Balik Pisiricisi,Denizici Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Veli Usta Balik Pisiricisi,Veli Usta Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Gumus Balik Restaurant,Gumus Balik Restaurant,0,,0.0,0.0,0.0
+海鲜,Erdeniz Restaurant,Erdeniz Restaurant,0,,0.0,0.0,0.0
+海鲜,Midyeli,Midyeli,0,,0.0,0.0,0.0
+海鲜,Veli Usta Balik Pisiricisi,Veli Usta Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Hisar Balik,Hisar Balik,0,,0.0,0.0,0.0
+海鲜,Sahil Restaurant Urla,Sahil Restaurant Urla,0,,0.0,0.0,0.0
+海鲜,Adabeyi Balik Restaurant,Adabeyi Balik Restaurant,0,,0.0,0.0,0.0
+海鲜,Port Alacati Niyazi,Port Alacati Niyazi,0,,0.0,0.0,0.0
+海鲜,Gemi Restaurant,Gemi Restaurant,0,,0.0,0.0,0.0
+海鲜,35lik Meyhane,35lik Meyhane,0,,0.0,0.0,0.0
+海鲜,Yengec,Yengec,0,,0.0,0.0,0.0
+海鲜,Fishi,Fishi,0,,0.0,0.0,0.0
+海鲜,Fish House,Fish House,0,,0.0,0.0,0.0
+海鲜,Balikcim,Balikcim,0,,0.0,0.0,0.0
+海鲜,Tabaklar Balik Lokantasi,Tabaklar Balik Lokantasi,0,,0.0,0.0,0.0
+海鲜,Kordonboyu Balik Pisiricisi,Kordonboyu Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Birinci Kordon Balik Pisiricisi,Birinci Kordon Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Teos Taxi Cafe Restaurant,Teos Taxi Cafe Restaurant,0,,0.0,0.0,0.0
+海鲜,Focali,Focali,0,,0.0,0.0,0.0
+海鲜,Eray Restaurant,Eray Restaurant,0,,0.0,0.0,0.0
+海鲜,Umit Restaurant,Umit Restaurant,0,,0.0,0.0,0.0
+海鲜,Ali nin Yeri Ildiri Balik Restaurant,Ali nin Yeri Ildiri Balik Restaurant,0,,0.0,0.0,0.0
+海鲜,Fish Cooker,Fish Cooker,0,,0.0,0.0,0.0
+海鲜,Bizim Balıkçı,Bizim Balıkçı,0,,0.0,0.0,0.0
+海鲜,Mercan Balik Evi,Mercan Balik Evi,0,,0.0,0.0,0.0
+海鲜,Gunes Restorant,Gunes Restorant,0,,0.0,0.0,0.0
+海鲜,Alsancak Balik,Alsancak Balik,0,,0.0,0.0,0.0
+海鲜,Atakent Balik Market Pisiricisi,Atakent Balik Market Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Ela Balikcilik,Ela Balikcilik,0,,0.0,0.0,0.0
+海鲜,Istanbul ResTaurAnt,Istanbul ResTaurAnt,0,,0.0,0.0,0.0
+海鲜,Kosem Et & Balik,Kosem Et & Balik,0,,0.0,0.0,0.0
+海鲜,CesMe Balik Evi,CesMe Balik Evi,0,,0.0,0.0,0.0
+海鲜,Citlembik Balik Evi,Citlembik Balik Evi,0,,0.0,0.0,0.0
+海鲜,Korfez Restaurant,Korfez Restaurant,0,,0.0,0.0,0.0
+海鲜,Taka Balik Evi,Taka Balik Evi,0,,0.0,0.0,0.0
+海鲜,DUT Restaurant Cafe Bar,DUT Restaurant Cafe Bar,0,,0.0,0.0,0.0
+海鲜,Sirince Balik Evi,Sirince Balik Evi,0,,0.0,0.0,0.0
+海鲜,Yusuf un Yeri,Yusuf un Yeri,0,,0.0,0.0,0.0
+海鲜,Pina Restaurant,Pina Restaurant,0,,0.0,0.0,0.0
+海鲜,Sirincan Restaurant,Sirincan Restaurant,0,,0.0,0.0,0.0
+海鲜,Balikci & Balikci,Balikci & Balikci,0,,0.0,0.0,0.0
+海鲜,Bornova Balik Pisiricisi,Bornova Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Asci Balik ResTaurAnt,Asci Balik ResTaurAnt,0,,0.0,0.0,0.0
+海鲜,Halikarnas Balik Pisiricisi,Halikarnas Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Kos Raki Balik ResTaurAnt,Kos Raki Balik ResTaurAnt,0,,0.0,0.0,0.0
+海鲜,BaraKuda Balik Keyfi,BaraKuda Balik Keyfi,0,,0.0,0.0,0.0
+海鲜,Kubi nin Yeri Balik Pisiricisi,Kubi nin Yeri Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Papalina,Papalina,0,,0.0,0.0,0.0
+海鲜,Yalin Balik,Yalin Balik,0,,0.0,0.0,0.0
+海鲜,Celep Restaurant,Celep Restaurant,0,,0.0,0.0,0.0
+海鲜,Kordon Balik Pisiricisi,Kordon Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Mercan Balik Restaurant,Mercan Balik Restaurant,0,,0.0,0.0,0.0
+海鲜,Kent Restaurant,Kent Restaurant,0,,0.0,0.0,0.0
+海鲜,Marti Balik Bahcesi,Marti Balik Bahcesi,0,,0.0,0.0,0.0
+海鲜,BATTI BALIK MEYHANE,BATTI BALIK MEYHANE,0,,0.0,0.0,0.0
+海鲜,Kirmizi Balik Pisiricisi,Kirmizi Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Girit Adasi Balikevi,Girit Adasi Balikevi,0,,0.0,0.0,0.0
+海鲜,Meshur Midyeci Ahmet,Meshur Midyeci Ahmet,0,,0.0,0.0,0.0
+海鲜,EminOnu Balik Pisiricisi,EminOnu Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,KaraDeniz ResTaurAnt,KaraDeniz ResTaurAnt,0,,0.0,0.0,0.0
+海鲜,Mavi Balik,Mavi Balik,0,,0.0,0.0,0.0
+海鲜,Omur Balik Lokantasi,Omur Balik Lokantasi,0,,0.0,0.0,0.0
+海鲜,Ucyol Balik Pisiricisi,Ucyol Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Nokta Balik Pisiricisi,Nokta Balik Pisiricisi,0,,0.0,0.0,0.0
+海鲜,Adabeyi,Adabeyi,0,,0.0,0.0,0.0
+海鲜,Derya ResTaurAnt,Derya ResTaurAnt,0,,0.0,0.0,0.0
+海鲜,Denizkizi,Denizkizi,0,,0.0,0.0,0.0
+海鲜,Deniz Yildizi,Deniz Yildizi,0,,0.0,0.0,0.0
+海鲜,Felica ResTaurAnt,Felica ResTaurAnt,0,,0.0,0.0,0.0
+烧烤,Bolu Mangal,Bolu Mangal,0,,7.7,7.7,7.7
+烧烤,Edina Cafe,Edina Cafe,0,,0.0,0.0,0.0
+烧烤,Rodop Köftecisi,Rodop Köftecisi,0,,0.0,0.0,0.0
+烧烤,Tunc Da Cilgin Doner,Tunc Da Cilgin Doner,0,,0.0,0.0,0.0
+烧烤,Moment Park,Moment Park,0,,0.0,0.0,0.0
+比萨,Pizza Pizza,Pizza Pizza,0,,6.9,6.9,6.9
+比萨,Pizza Pack,Pizza Pack,0,,0.0,0.0,0.0
+比萨,Domino s Pizza,Domino s Pizza,0,,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,,0.0,0.0,0.0
+比萨,Pizza Roma,Pizza Roma,0,,0.0,0.0,0.0
+比萨,Pizza Kulesi,Pizza Kulesi,0,,0.0,0.0,0.0
+比萨,Villa Grilla,Villa Grilla,0,,0.0,0.0,0.0
+比萨,Piu Pizza,Piu Pizza,0,,0.0,0.0,0.0
+比萨,Ozen Pide Ve Pizza Salonu,Ozen Pide Ve Pizza Salonu,0,,0.0,0.0,0.0
+比萨,Pizza Villa Iguana,Pizza Villa Iguana,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Ding Dong Pizza,Ding Dong Pizza,0,,0.0,0.0,0.0
+比萨,Spice Pizza,Spice Pizza,0,,0.0,0.0,0.0
+比萨,Pizza Pizzeria,Pizza Pizzeria,0,,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,,0.0,0.0,0.0
+比萨,Pizza Kare,Pizza Kare,0,,0.0,0.0,0.0
+比萨,Pizza Pizza,Pizza Pizza,0,,0.0,0.0,0.0
+比萨,My Rose Pizza,My Rose Pizza,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Pizza Da Ravelle,Pizza Da Ravelle,0,,0.0,0.0,0.0
+比萨,Vebas,Vebas,0,,0.0,0.0,0.0
+比萨,Pizza Pizza,Pizza Pizza,0,,0.0,0.0,0.0
+比萨,Pizza Pizza,Pizza Pizza,0,,0.0,0.0,0.0
+比萨,Pizza Pizza,Pizza Pizza,0,,0.0,0.0,0.0
+比萨,Derinn s Pizza Restaurant,Derinn s Pizza Restaurant,0,,0.0,0.0,0.0
+比萨,Pizza Gold,Pizza Gold,0,,0.0,0.0,0.0
+比萨,Pizza Pizza,Pizza Pizza,0,,0.0,0.0,0.0
+比萨,Pizza Tomato,Pizza Tomato,0,,0.0,0.0,0.0
+比萨,Pizza Venedik Express,Pizza Venedik Express,0,,0.0,0.0,0.0
+比萨,Pizza Tomato,Pizza Tomato,0,,0.0,0.0,0.0
+比萨,Pizza Tomato,Pizza Tomato,0,,0.0,0.0,0.0
+比萨,Pizza Tomato,Pizza Tomato,0,,0.0,0.0,0.0
+比萨,Pizza Venedik Express,Pizza Venedik Express,0,,0.0,0.0,0.0
+比萨,Pizza Pizza,Pizza Pizza,0,,0.0,0.0,0.0
+比萨,Coskun Pide ve Pizza Salonu,Coskun Pide ve Pizza Salonu,0,,0.0,0.0,0.0
+比萨,Pizza Metro s,Pizza Metro s,0,,0.0,0.0,0.0
+比萨,Villa Grilla,Villa Grilla,0,,0.0,0.0,0.0
+比萨,Villa Grilla,Villa Grilla,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Piyoncazza,Piyoncazza,0,,0.0,0.0,0.0
+比萨,Piyoncazza,Piyoncazza,0,,0.0,0.0,0.0
+比萨,Illa Pizza,Illa Pizza,0,,0.0,0.0,0.0
+比萨,Pizza Port,Pizza Port,0,,0.0,0.0,0.0
+比萨,Seckin Pide & Pizza,Seckin Pide & Pizza,0,,0.0,0.0,0.0
+比萨,Spice Ev Yemekler,Spice Ev Yemekler,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Pizza Port,Pizza Port,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Milano Pizza,Milano Pizza,0,,0.0,0.0,0.0
+比萨,Pizza Venedik Express,Pizza Venedik Express,0,,0.0,0.0,0.0
+比萨,Shotzy,Shotzy,0,,0.0,0.0,0.0
+比萨,Pizza Pizza,Pizza Pizza,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Buca Pizza,Buca Pizza,0,,0.0,0.0,0.0
+比萨,Pizza Pizza,Pizza Pizza,0,,0.0,0.0,0.0
+比萨,Pizza Pizza,Pizza Pizza,0,,0.0,0.0,0.0
+比萨,Panaroma Pizza,Panaroma Pizza,0,,0.0,0.0,0.0
+比萨,My Pizza World,My Pizza World,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+比萨,Destina Expres,Destina Expres,0,,0.0,0.0,0.0
+比萨,Pizza Stop,Pizza Stop,0,,0.0,0.0,0.0
+比萨,Pizza Park,Pizza Park,0,,0.0,0.0,0.0
+比萨,Panino Fabs,Panino Fabs,0,,0.0,0.0,0.0
+比萨,Pasaport Pizza,Pasaport Pizza,0,,0.0,0.0,0.0
+咖啡厅,Tat Cafe Restaurant,Tat Cafe Restaurant,0,,7.5,7.7,7.5
+咖啡厅,Cadir Cafe,Cadir Cafe,0,,7.1,7.1,7.1
+咖啡厅,Mersel Cafe Fast Food,Mersel Cafe Fast Food,0,,7.1,7.0,7.1
+咖啡厅,Celsus Cafe,Celsus Cafe,0,,7.5,7.5,7.5
+咖啡厅,Oz Garden Cafe,Oz Garden Cafe,0,,7.1,7.1,7.1
+咖啡厅,Hadrian Cafe bar,Hadrian Cafe bar,0,,7.1,7.0,7.0
+咖啡厅,Cafe Turco,Cafe Turco,0,,6.9,6.9,6.9
+咖啡厅,Cafe Carpouza,Cafe Carpouza,0,,7.1,7.1,7.3
+咖啡厅,Sky Bar Cafe,Sky Bar Cafe,0,,7.1,7.1,7.1
+咖啡厅,Ayasuluk Cafe,Ayasuluk Cafe,0,,7.1,7.1,7.1
+咖啡厅,Sanita,Sanita,0,,0.0,0.0,0.0
+咖啡厅,Starbucks Alsancak,Starbucks Alsancak,0,,0.0,0.0,0.0
+咖啡厅,SiesTa Cafe,SiesTa Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe inn,Cafe inn,0,,0.0,0.0,0.0
+咖啡厅,EvVel ZaMan İçinDe Cafe,EvVel ZaMan İçinDe Cafe,0,,0.0,0.0,0.0
+咖啡厅,Omer Usta,Omer Usta,0,,0.0,0.0,0.0
+咖啡厅,My House Cafe,My House Cafe,0,,0.0,0.0,0.0
+咖啡厅,Ozsut SirinYer,Ozsut SirinYer,0,,0.0,0.0,0.0
+咖啡厅,The Qantin restaurant cafe,The Qantin restaurant cafe,0,,0.0,0.0,0.0
+咖啡厅,Villa Beyaz,Villa Beyaz,0,,0.0,0.0,0.0
+咖啡厅,Kahve Diyari,Kahve Diyari,0,,0.0,0.0,0.0
+咖啡厅,Mercan Cafe,Mercan Cafe,0,,0.0,0.0,0.0
+咖啡厅,Deep Cafe,Deep Cafe,0,,0.0,0.0,0.0
+咖啡厅,Novel Cafe,Novel Cafe,0,,0.0,0.0,0.0
+咖啡厅,Kahve DurAgi,Kahve DurAgi,0,,0.0,0.0,0.0
+咖啡厅,Pulp Kitchen,Pulp Kitchen,0,,0.0,0.0,0.0
+咖啡厅,Lemnos Cafe,Lemnos Cafe,0,,0.0,0.0,0.0
+咖啡厅,The Lounge,The Lounge,0,,0.0,0.0,0.0
+咖啡厅,Sir Winston Tea,Sir Winston Tea,0,,0.0,0.0,0.0
+咖啡厅,Deniz Cafe,Deniz Cafe,0,,0.0,0.0,0.0
+咖啡厅,Cafe Tarz,Cafe Tarz,0,,0.0,0.0,0.0
+咖啡厅,Sir WinSton House Cafe,Sir WinSton House Cafe,0,,0.0,0.0,0.0
+咖啡厅,Sut cicegi,Sut cicegi,0,,0.0,0.0,0.0
+咖啡厅,Kahve Bahane,Kahve Bahane,0,,0.0,0.0,0.0
+咖啡厅,Babil Cafe Restaurant,Babil Cafe Restaurant,0,,0.0,0.0,0.0
+咖啡厅,Green Cafe,Green Cafe,0,,0.0,0.0,0.0
+咖啡厅,SaMis Cafe,SaMis Cafe,0,,0.0,0.0,0.0
+咖啡厅,KafePi Kordon Lounge,KafePi Kordon Lounge,0,,0.0,0.0,0.0
+面包甜点,Gundogdu Lokma Tatli,Gundogdu Lokma Tatli,0,,0.0,0.0,0.0
+面包甜点,Celal Usta BurMa Kadayiflari,Celal Usta BurMa Kadayiflari,0,,0.0,0.0,0.0
+面包甜点,Mennan Sutlu Tatli ve Dondurmalari,Mennan Sutlu Tatli ve Dondurmalari,0,,0.0,0.0,0.0
+面包甜点,Kirkkat Baklavacibasi,Kirkkat Baklavacibasi,0,,0.0,0.0,0.0
+面包甜点,Kirkkat Baklavacibasi,Kirkkat Baklavacibasi,0,,0.0,0.0,0.0
+面包甜点,Kirkkat Baklavacibasi,Kirkkat Baklavacibasi,0,,0.0,0.0,0.0
+面包甜点,Big Waffle,Big Waffle,0,,0.0,0.0,0.0
+面包甜点,Sidki Usta Tatlilari,Sidki Usta Tatlilari,0,,0.0,0.0,0.0
+面包甜点,Nokta 2 Tatlicisi Ahmet Usta,Nokta 2 Tatlicisi Ahmet Usta,0,,0.0,0.0,0.0
+面包甜点,Sidki Usta Tatlilari,Sidki Usta Tatlilari,0,,0.0,0.0,0.0
+面包甜点,Diyarbakir BurMa Kadayifcisi,Diyarbakir BurMa Kadayifcisi,0,,0.0,0.0,0.0
+面包甜点,Alimoglu Baklavalari,Alimoglu Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Celal Usta BurMa Kadayiflari,Celal Usta BurMa Kadayiflari,0,,0.0,0.0,0.0
+面包甜点,Bolulu Hasan Usta,Bolulu Hasan Usta,0,,0.0,0.0,0.0
+面包甜点,Canlioglu Baklavalari,Canlioglu Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Bolulu Hasan Usta,Bolulu Hasan Usta,0,,0.0,0.0,0.0
+面包甜点,Canlioglu Baklavalari,Canlioglu Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Baris Usta Unlu Mamulleri,Baris Usta Unlu Mamulleri,0,,0.0,0.0,0.0
+面包甜点,Sidki Usta Tatlilari,Sidki Usta Tatlilari,0,,0.0,0.0,0.0
+面包甜点,Agam Baklavalari,Agam Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Bolulu Hasan Usta,Bolulu Hasan Usta,0,,0.0,0.0,0.0
+面包甜点,Rumeli Pastanesi,Rumeli Pastanesi,0,,0.0,0.0,0.0
+面包甜点,Akinin Yeri,Akinin Yeri,0,,0.0,0.0,0.0
+面包甜点,Sevinc Pastanesi,Sevinc Pastanesi,0,,0.0,0.0,0.0
+面包甜点,Reyhan Pastanesi,Reyhan Pastanesi,0,,0.0,0.0,0.0
+面包甜点,Bravo Patiserie,Bravo Patiserie,0,,0.0,0.0,0.0
+面包甜点,Waffle ci Akin,Waffle ci Akin,0,,0.0,0.0,0.0
+面包甜点,Saray Pastanesi,Saray Pastanesi,0,,0.0,0.0,0.0
+面包甜点,Waffle Mania,Waffle Mania,0,,0.0,0.0,0.0
+面包甜点,Eden Dondurma Waffle,Eden Dondurma Waffle,0,,0.0,0.0,0.0
+面包甜点,Ozsut,Ozsut,0,,0.0,0.0,0.0
+面包甜点,Saim Usta,Saim Usta,0,,0.0,0.0,0.0
+面包甜点,Tatli Dunyasi,Tatli Dunyasi,0,,0.0,0.0,0.0
+面包甜点,Cikolata Istasyonu,Cikolata Istasyonu,0,,0.0,0.0,0.0
+面包甜点,Cikolata Istasyonu,Cikolata Istasyonu,0,,0.0,0.0,0.0
+面包甜点,Tatbak,Tatbak,0,,0.0,0.0,0.0
+面包甜点,Kunefeci Hacioglu,Kunefeci Hacioglu,0,,0.0,0.0,0.0
+面包甜点,Celal Usta BurMa Kadayiflari,Celal Usta BurMa Kadayiflari,0,,0.0,0.0,0.0
+面包甜点,Ozsut,Ozsut,0,,0.0,0.0,0.0
+面包甜点,Alimoglu Baklavalari,Alimoglu Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Ozsut,Ozsut,0,,0.0,0.0,0.0
+面包甜点,SpesSo Waffle,SpesSo Waffle,0,,0.0,0.0,0.0
+面包甜点,Ozsut,Ozsut,0,,0.0,0.0,0.0
+面包甜点,GaziantepLi Uluoglu Baklavalari,GaziantepLi Uluoglu Baklavalari,0,,0.0,0.0,0.0
+面包甜点,GaziantepLi Uluoglu Baklavalari,GaziantepLi Uluoglu Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Baldo Rumelili Latif Usta Dondurma,Baldo Rumelili Latif Usta Dondurma,0,,0.0,0.0,0.0
+面包甜点,Ozsut,Ozsut,0,,0.0,0.0,0.0
+面包甜点,Foca Balkaymak,Foca Balkaymak,0,,0.0,0.0,0.0
+面包甜点,Patisserie D Oret,Patisserie D Oret,0,,0.0,0.0,0.0
+面包甜点,46 Edem Waffle,46 Edem Waffle,0,,0.0,0.0,0.0
+面包甜点,Fistik Mistik Gaziantep Baklavacisi,Fistik Mistik Gaziantep Baklavacisi,0,,0.0,0.0,0.0
+面包甜点,GaziantepLi Kamil Usta,GaziantepLi Kamil Usta,0,,0.0,0.0,0.0
+面包甜点,Ugur DondurMa,Ugur DondurMa,0,,0.0,0.0,0.0
+面包甜点,Kirkkat Baklavacibasi,Kirkkat Baklavacibasi,0,,0.0,0.0,0.0
+面包甜点,Ozsut,Ozsut,0,,0.0,0.0,0.0
+面包甜点,Calikusu LokmacIsi,Calikusu LokmacIsi,0,,0.0,0.0,0.0
+面包甜点,Agam Baklavalari,Agam Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Agam Baklavalari,Agam Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Agam Baklavalari,Agam Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Gaziantep Sultan Baklavalari,Gaziantep Sultan Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Gelato,Gelato,0,,0.0,0.0,0.0
+面包甜点,NaturEl LokmacIlik,NaturEl LokmacIlik,0,,0.0,0.0,0.0
+面包甜点,Agam Baklavalari,Agam Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Saim Usta,Saim Usta,0,,0.0,0.0,0.0
+面包甜点,Bolulu Hasan Usta,Bolulu Hasan Usta,0,,0.0,0.0,0.0
+面包甜点,Waffle'ci Akin,Waffle'ci Akin,0,,0.0,0.0,0.0
+面包甜点,Kirkkat Baklavacibasi,Kirkkat Baklavacibasi,0,,0.0,0.0,0.0
+面包甜点,Gaziantepli Uluoglu Baklavalari,Gaziantepli Uluoglu Baklavalari,0,,0.0,0.0,0.0
+面包甜点,Ozsut,Ozsut,0,,0.0,0.0,0.0
+面包甜点,Ozsut,Ozsut,0,,0.0,0.0,0.0
+面包甜点,Waffle Art,Waffle Art,0,,0.0,0.0,0.0
+面包甜点,Altin Oklava,Altin Oklava,0,,0.0,0.0,0.0
+面包甜点,YogurTcu Hasan,YogurTcu Hasan,0,,0.0,0.0,0.0
+面包甜点,Ayakustu Asure Evi,Ayakustu Asure Evi,0,,0.0,0.0,0.0
+酒吧,Cafe Del Mundo,Cafe Del Mundo,0,,0.0,0.0,0.0
+酒吧,Uzum Cafe,Uzum Cafe,0,,0.0,0.0,0.0
+酒吧,EvVel ZaMan İçinDe Cafe,EvVel ZaMan İçinDe Cafe,0,,0.0,0.0,0.0
+酒吧,Drunken Duck,Drunken Duck,0,,0.0,0.0,0.0
+酒吧,Sunset,Sunset,0,,0.0,0.0,0.0
+酒吧,Berlin s Cocktail Bar,Berlin s Cocktail Bar,0,,0.0,0.0,0.0
+酒吧,via-a-vis,via-a-vis,0,,0.0,0.0,0.0
+酒吧,Sirince Sarap Evi,Sirince Sarap Evi,0,,0.0,0.0,0.0
+更多美食,Pirpirim Ocakbasi Restaurant,Pirpirim Ocakbasi Restaurant,0,,0.0,0.0,0.0
+更多美食,Nur Pide Kebap Corba Salonu,Nur Pide Kebap Corba Salonu,0,,0.0,0.0,0.0
+更多美食,Mekkan,Mekkan,0,,0.0,0.0,0.0
+更多美食,Saray,Saray,0,,0.0,0.0,0.0
+更多美食,Manzara Restaurant,Manzara Restaurant,0,,0.0,0.0,0.0
+更多美食,BOCUK,BOCUK,0,,0.0,0.0,0.0
+更多美食,Kosem Lokantasi,Kosem Lokantasi,0,,0.0,0.0,0.0
+更多美食,Efes Gemi Cafe Restaurant,Efes Gemi Cafe Restaurant,0,,0.0,0.0,0.0
+更多美食,Alin s Kordon,Alin s Kordon,0,,0.0,0.0,0.0
+更多美食,Konyali Ahmet Usta,Konyali Ahmet Usta,0,,0.0,0.0,0.0
+更多美食,Irmak ResTaurAnt,Irmak ResTaurAnt,0,,0.0,0.0,0.0
+更多美食,Cafe De Bugun,Cafe De Bugun,0,,0.0,0.0,0.0
+更多美食,Natre,Natre,0,,0.0,0.0,0.0
+更多美食,Yapicioglu Pide,Yapicioglu Pide,0,,0.0,0.0,0.0
+更多美食,Akmanisa Kebap,Akmanisa Kebap,0,,0.0,0.0,0.0
+更多美食,Babacan Kebap Salonu,Babacan Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,Halim Usta Altin Nazar Kebap ve Pide Salonu,Halim Usta Altin Nazar Kebap ve Pide Salonu,0,,0.0,0.0,0.0
+更多美食,Eyvan Ocakbasi,Eyvan Ocakbasi,0,,0.0,0.0,0.0
+更多美食,Palandoken Kebap,Palandoken Kebap,0,,0.0,0.0,0.0
+更多美食,Efe Sofrasi,Efe Sofrasi,0,,0.0,0.0,0.0
+更多美食,YesIlkose,YesIlkose,0,,0.0,0.0,0.0
+更多美食,Moda Yelken ResTaurAnt,Moda Yelken ResTaurAnt,0,,0.0,0.0,0.0
+更多美食,BasdurAk Donercisi,BasdurAk Donercisi,0,,0.0,0.0,0.0
+更多美食,Beyaz Kosk,Beyaz Kosk,0,,0.0,0.0,0.0
+更多美食,Karbeyaz,Karbeyaz,0,,0.0,0.0,0.0
+更多美食,Hacegan ResTaurAnt,Hacegan ResTaurAnt,0,,0.0,0.0,0.0
+更多美食,Cafe La Cigale,Cafe La Cigale,0,,0.0,0.0,0.0
+更多美食,Equinox,Equinox,0,,0.0,0.0,0.0
+更多美食,Siva,Siva,0,,0.0,0.0,0.0
+更多美食,MIKO,MIKO,0,,0.0,0.0,0.0
+更多美食,Cumba Restaurant,Cumba Restaurant,0,,0.0,0.0,0.0
+更多美食,By Cicogna,By Cicogna,0,,0.0,0.0,0.0
+更多美食,Servet Pide Kebap,Servet Pide Kebap,0,,0.0,0.0,0.0
+更多美食,Doga Cafe,Doga Cafe,0,,0.0,0.0,0.0
+更多美食,Kule,Kule,0,,0.0,0.0,0.0
+更多美食,Noni s House,Noni s House,0,,0.0,0.0,0.0
+更多美食,Furun Cafe,Furun Cafe,0,,0.0,0.0,0.0
+更多美食,EGE PARK,EGE PARK,0,,0.0,0.0,0.0
+更多美食,Izmir Konagi Restaurant,Izmir Konagi Restaurant,0,,0.0,0.0,0.0
+更多美食,Pepe Rosso,Pepe Rosso,0,,0.0,0.0,0.0
+更多美食,Sevim Lokantasi,Sevim Lokantasi,0,,0.0,0.0,0.0
+更多美食,ferdi baba,ferdi baba,0,,0.0,0.0,0.0
+更多美食,Leman Kultur,Leman Kultur,0,,0.0,0.0,0.0
+更多美食,Alin s Cafe,Alin s Cafe,0,,0.0,0.0,0.0
+更多美食,Sakizz Waffle House,Sakizz Waffle House,0,,0.0,0.0,0.0
+更多美食,floryalI,floryalI,0,,0.0,0.0,0.0
+更多美食,Efe Pide ve Kebap,Efe Pide ve Kebap,0,,0.0,0.0,0.0
+更多美食,Smyrna,Smyrna,0,,0.0,0.0,0.0
+更多美食,Seven Sages Winery and Vineyards,Seven Sages Winery and Vineyards,0,,0.0,0.0,0.0
+更多美食,Pasarella Restaurant,Pasarella Restaurant,0,,0.0,0.0,0.0
+更多美食,Lingo Lingo,Lingo Lingo,0,,0.0,0.0,0.0
+更多美食,Kardelen Pide Salonu,Kardelen Pide Salonu,0,,0.0,0.0,0.0
+更多美食,Equador Restaurant,Equador Restaurant,0,,0.0,0.0,0.0
+更多美食,melanie,melanie,0,,0.0,0.0,0.0
+更多美食,Tire Kebabi,Tire Kebabi,0,,0.0,0.0,0.0
+更多美食,212 Manti Evi,212 Manti Evi,0,,0.0,0.0,0.0
+更多美食,Naci Usta ResTaurAnt,Naci Usta ResTaurAnt,0,,0.0,0.0,0.0
+更多美食,Myrna Restaurant,Myrna Restaurant,0,,0.0,0.0,0.0
+更多美食,Kardesler Kebap Ve Meyve Suyu Salonu,Kardesler Kebap Ve Meyve Suyu Salonu,0,,0.0,0.0,0.0
+更多美食,Beyaz Cafe Restaurant,Beyaz Cafe Restaurant,0,,0.0,0.0,0.0
+更多美食,Arda Mangal,Arda Mangal,0,,0.0,0.0,0.0
+更多美食,Cesa Cigkofte,Cesa Cigkofte,0,,0.0,0.0,0.0
+更多美食,Fondue Restaurant,Fondue Restaurant,0,,0.0,0.0,0.0
+更多美食,Bulvar Pilic,Bulvar Pilic,0,,0.0,0.0,0.0
+更多美食,Brasserie Restaurant,Brasserie Restaurant,0,,0.0,0.0,0.0
+更多美食,Asmin Cafe,Asmin Cafe,0,,0.0,0.0,0.0
+更多美食,Bergama Kebap,Bergama Kebap,0,,0.0,0.0,0.0
+更多美食,Egeby Ocakbasi,Egeby Ocakbasi,0,,0.0,0.0,0.0
+更多美食,Bordo,Bordo,0,,0.0,0.0,0.0
+更多美食,Unalan UrFa Kebapcisi,Unalan UrFa Kebapcisi,0,,0.0,0.0,0.0
+更多美食,Fogo ResTaurAnt,Fogo ResTaurAnt,0,,0.0,0.0,0.0
+更多美食,Nizam Usta Oltu Cag Kebap,Nizam Usta Oltu Cag Kebap,0,,0.0,0.0,0.0
+更多美食,SutcIcegi Tatlicisi Kucukyali Subesi,SutcIcegi Tatlicisi Kucukyali Subesi,0,,0.0,0.0,0.0
+更多美食,Tavukcu MuRat,Tavukcu MuRat,0,,0.0,0.0,0.0
+更多美食,Lara s Express Cafe,Lara s Express Cafe,0,,0.0,0.0,0.0
+更多美食,Popeyes Louisiana Kitchen,Popeyes Louisiana Kitchen,0,,0.0,0.0,0.0
+更多美食,Al-Ga,Al-Ga,0,,0.0,0.0,0.0
+更多美食,AntepLi nin Yeri,AntepLi nin Yeri,0,,0.0,0.0,0.0
+更多美食,Arda Kebap Salonu,Arda Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,S&B Kahvalti Cafe,S&B Kahvalti Cafe,0,,0.0,0.0,0.0
+更多美食,Livia Cafe,Livia Cafe,0,,0.0,0.0,0.0
+更多美食,Baris Ocakbasi,Baris Ocakbasi,0,,0.0,0.0,0.0
+更多美食,Ayder Restaurant,Ayder Restaurant,0,,0.0,0.0,0.0
+更多美食,Micasa,Micasa,0,,0.0,0.0,0.0
+更多美食,La Sera Restaurant,La Sera Restaurant,0,,0.0,0.0,0.0
+更多美食,Kanatci Ocakbasi,Kanatci Ocakbasi,0,,0.0,0.0,0.0
+更多美食,Liman Restaurant,Liman Restaurant,0,,0.0,0.0,0.0
+更多美食,Baks Bakery,Baks Bakery,0,,0.0,0.0,0.0
+更多美食,Ora,Ora,0,,0.0,0.0,0.0
+更多美食,Mini Mangal,Mini Mangal,0,,0.0,0.0,0.0
+更多美食,Margaux Restaurant,Margaux Restaurant,0,,0.0,0.0,0.0
+更多美食,Kadioglu Kebap Evi,Kadioglu Kebap Evi,0,,0.0,0.0,0.0
+更多美食,Oz Urfa Cemal Usta,Oz Urfa Cemal Usta,0,,0.0,0.0,0.0
+更多美食,Gul Kebap,Gul Kebap,0,,0.0,0.0,0.0
+更多美食,Rome ResTaurAnt,Rome ResTaurAnt,0,,0.0,0.0,0.0
+更多美食,Ege By,Ege By,0,,0.0,0.0,0.0
+更多美食,Lezzet 35,Lezzet 35,0,,0.0,0.0,0.0
+更多美食,Cc11,Cc11,0,,0.0,0.0,0.0
+更多美食,Oz UrFa Pide,Oz UrFa Pide,0,,0.0,0.0,0.0
+更多美食,Koroglu Kebap Pide Ve Corba Salonu,Koroglu Kebap Pide Ve Corba Salonu,0,,0.0,0.0,0.0
+更多美食,La Cena ResTaurAnt,La Cena ResTaurAnt,0,,0.0,0.0,0.0
+更多美食,Bistro AlaturCa,Bistro AlaturCa,0,,0.0,0.0,0.0
+更多美食,Papatya Pide Ve Kebap Salonu,Papatya Pide Ve Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,Camli Keyif Kahvalti Salonu,Camli Keyif Kahvalti Salonu,0,,0.0,0.0,0.0
+更多美食,KeskinOglu,KeskinOglu,0,,0.0,0.0,0.0
+更多美食,Tavukchum,Tavukchum,0,,0.0,0.0,0.0
+更多美食,Oz Efe Manisali Kebap,Oz Efe Manisali Kebap,0,,0.0,0.0,0.0
+更多美食,The Port,The Port,0,,0.0,0.0,0.0
+更多美食,Cagdas Kebap Salonu,Cagdas Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,Halil Ibrahim Sofrasi Odemis Kebap Salonu,Halil Ibrahim Sofrasi Odemis Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,Swiss Kanton,Swiss Kanton,0,,0.0,0.0,0.0
+更多美食,EquinOx,EquinOx,0,,0.0,0.0,0.0
+更多美食,Balkaymak Kahvalti Salonu,Balkaymak Kahvalti Salonu,0,,0.0,0.0,0.0
+更多美食,MTK Balik Evi,MTK Balik Evi,0,,0.0,0.0,0.0
+更多美食,Cadde Ustu,Cadde Ustu,0,,0.0,0.0,0.0
+更多美食,Mis Ziyade,Mis Ziyade,0,,0.0,0.0,0.0
+更多美食,Harran Sofrasi,Harran Sofrasi,0,,0.0,0.0,0.0
+更多美食,Orkide Kebap Saolunu,Orkide Kebap Saolunu,0,,0.0,0.0,0.0
+更多美食,Konyali Ahmet Usta,Konyali Ahmet Usta,0,,0.0,0.0,0.0
+更多美食,Fistikli,Fistikli,0,,0.0,0.0,0.0
+更多美食,Sisko Fast,Sisko Fast,0,,0.0,0.0,0.0
+更多美食,Alacati Life Hotel,Alacati Life Hotel,0,,0.0,0.0,0.0
+更多美食,Dinc Pide Kebap Salonu,Dinc Pide Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,Ali Baba Restaurant,Ali Baba Restaurant,0,,0.0,0.0,0.0
+更多美食,Gulum Antep,Gulum Antep,0,,0.0,0.0,0.0
+更多美食,Center Meat Restaurant,Center Meat Restaurant,0,,0.0,0.0,0.0
+更多美食,Muzom,Muzom,0,,0.0,0.0,0.0
+更多美食,Cigli Park Cafe,Cigli Park Cafe,0,,0.0,0.0,0.0
+更多美食,Doganer Pide Salonu,Doganer Pide Salonu,0,,0.0,0.0,0.0
+更多美食,Denizpark Cafe Restaurant,Denizpark Cafe Restaurant,0,,0.0,0.0,0.0
+更多美食,Rosemary,Rosemary,0,,0.0,0.0,0.0
+更多美食,Mercan Restaurant,Mercan Restaurant,0,,0.0,0.0,0.0
+更多美食,Nam Kebap Salonu,Nam Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,BIZIM RESTAURANT,BIZIM RESTAURANT,0,,0.0,0.0,0.0
+更多美食,Erdogan Kebap,Erdogan Kebap,0,,0.0,0.0,0.0
+更多美食,baryum,baryum,0,,0.0,0.0,0.0
+更多美食,Manisali Kebap 1970,Manisali Kebap 1970,0,,0.0,0.0,0.0
+更多美食,Cavitin Yeri,Cavitin Yeri,0,,0.0,0.0,0.0
+更多美食,Balikci,Balikci,0,,0.0,0.0,0.0
+更多美食,Bahcelievler Pide Salonu,Bahcelievler Pide Salonu,0,,0.0,0.0,0.0
+更多美食,Kitchenette,Kitchenette,0,,0.0,0.0,0.0
+更多美食,Samdan Restaurant,Samdan Restaurant,0,,0.0,0.0,0.0
+更多美食,Baydoner,Baydoner,0,,0.0,0.0,0.0
+更多美食,Kitchenette,Kitchenette,0,,0.0,0.0,0.0
+更多美食,Sark Sofrasi,Sark Sofrasi,0,,0.0,0.0,0.0
+更多美食,Reng-i Sefa,Reng-i Sefa,0,,0.0,0.0,0.0
+更多美食,LE Trio ResTaurAnt,LE Trio ResTaurAnt,0,,0.0,0.0,0.0
+更多美食,KitchenetTe,KitchenetTe,0,,0.0,0.0,0.0
+更多美食,NezirzaDe,NezirzaDe,0,,0.0,0.0,0.0
+更多美食,SinAn Ustanin Yeri,SinAn Ustanin Yeri,0,,0.0,0.0,0.0
+更多美食,Metro Sogus,Metro Sogus,0,,0.0,0.0,0.0
+更多美食,UrFa Ocakbasi,UrFa Ocakbasi,0,,0.0,0.0,0.0
+更多美食,YesIlyurt Kebap,YesIlyurt Kebap,0,,0.0,0.0,0.0
+更多美食,Punta ResTaurAnt,Punta ResTaurAnt,0,,0.0,0.0,0.0
+更多美食,Can Pide Kebap,Can Pide Kebap,0,,0.0,0.0,0.0
+更多美食,GuldurEn Kebap,GuldurEn Kebap,0,,0.0,0.0,0.0
+更多美食,Gulsahin Kebap Salonu,Gulsahin Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,Anil Pide Kebap Salonu,Anil Pide Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,Adana Sofrasi,Adana Sofrasi,0,,0.0,0.0,0.0
+更多美食,Asmaalti ResTaurAnt,Asmaalti ResTaurAnt,0,,0.0,0.0,0.0
+更多美食,Bonzai ResTaurAnt,Bonzai ResTaurAnt,0,,0.0,0.0,0.0
+更多美食,Guven Kebap,Guven Kebap,0,,0.0,0.0,0.0
+更多美食,Efeoglu Pide Ve Kebap Salonu,Efeoglu Pide Ve Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,Adem Usta,Adem Usta,0,,0.0,0.0,0.0
+更多美食,AltinCam Ocakbasi ResToran,AltinCam Ocakbasi ResToran,0,,0.0,0.0,0.0
+更多美食,Park Corba Ve Kebap Salonu,Park Corba Ve Kebap Salonu,0,,0.0,0.0,0.0
+更多美食,Doyum,Doyum,0,,0.0,0.0,0.0
+更多美食,Alacati Pide,Alacati Pide,0,,0.0,0.0,0.0

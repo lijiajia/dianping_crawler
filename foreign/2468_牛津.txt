@@ -1,0 +1,632 @@
+意大利菜,Bella Italia,Bella Italia,0,其他,7.5,7.5,7.5
+意大利菜,Prezzo - Oxford,Prezzo - Oxford,0,其他,0.0,0.0,0.0
+意大利菜,Avanti,Avanti,0,其他,0.0,0.0,0.0
+意大利菜,Mamma Mia Pizzeria,Mamma Mia Pizzeria,0,牛津市界限,0.0,0.0,0.0
+意大利菜,Verde Pizzeria and Trattoria,Verde Pizzeria and Trattoria,0,其他,0.0,0.0,0.0
+意大利菜,Gino's Spaghetti House,Gino's Spaghetti House,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Trattoria Mario,Pizzeria Trattoria Mario,0,其他,0.0,0.0,0.0
+意大利菜,ASK,ASK,0,其他,0.0,0.0,0.0
+意大利菜,Ricardo's,Ricardo's,0,其他,0.0,0.0,0.0
+意大利菜,Zizzi - Oxford,Zizzi - Oxford,0,其他,0.0,0.0,0.0
+意大利菜,Villa Marina,Villa Marina,0,,0.0,0.0,0.0
+意大利菜,La Cucina,La Cucina,0,其他,0.0,0.0,0.0
+意大利菜,1855,1855,0,其他,0.0,0.0,0.0
+意大利菜,Mamma Mia Jericho,Mamma Mia Jericho,0,其他,0.0,0.0,0.0
+意大利菜,Cibo!,Cibo!,0,牛津市界限,0.0,0.0,0.0
+意大利菜,Pizza Artisan,Pizza Artisan,0,其他,0.0,0.0,0.0
+意大利菜,Pizza Express,Pizza Express,0,其他,0.0,0.0,0.0
+意大利菜,Strada Italian Restaurant,Strada Italian Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Added Ingredients,Added Ingredients,0,,0.0,0.0,0.0
+意大利菜,Zizzi - Henley,Zizzi - Henley,0,,0.0,0.0,0.0
+意大利菜,Fabio's,Fabio's,0,,0.0,0.0,0.0
+意大利菜,Antico Restaurant,Antico Restaurant,0,,0.0,0.0,0.0
+意大利菜,Casa Nostra,Casa Nostra,0,,0.0,0.0,0.0
+意大利菜,Caffe Nero,Caffe Nero,0,,0.0,0.0,0.0
+意大利菜,Luna Caprese,Luna Caprese,0,牛津市界限,0.0,0.0,0.0
+意大利菜,AskItalian Oxford,AskItalian Oxford,0,其他,0.0,0.0,0.0
+意大利菜,Ask Oxford,Ask Oxford,0,其他,0.0,0.0,0.0
+意大利菜,Freud,Freud,0,其他,0.0,0.0,0.0
+法国菜,The Grand Cafe,The Grand Cafe,0,其他,7.6,7.6,7.6
+法国菜,Brasserie Blanc,Brasserie Blanc,0,其他,7.7,7.7,7.7
+法国菜,Maison Blanc - Oxford,Maison Blanc - Oxford,0,其他,0.0,0.0,0.0
+法国菜,Restaurant at the Bull at Burford Hotel,Restaurant at the Bull at Burford Hotel,0,,0.0,0.0,0.0
+法国菜,Pierre Victoire,Pierre Victoire,0,其他,0.0,0.0,0.0
+法国菜,Cote Brasserie - Oxford,Cote Brasserie - Oxford,0,其他,0.0,0.0,0.0
+法国菜,The Old Bookbinders Ale House,The Old Bookbinders Ale House,0,其他,0.0,0.0,0.0
+法国菜,Crepesomania,Crepesomania,0,其他,0.0,0.0,0.0
+法国菜,Maison Blanc,Maison Blanc,0,其他,0.0,0.0,0.0
+法国菜,Rick's Cafe,Rick's Cafe,0,其他,0.0,0.0,0.0
+法国菜,Cafe Rouge - Henley,Cafe Rouge - Henley,0,其他,0.0,0.0,0.0
+法国菜,Cafe Rouge - Oxford,Cafe Rouge - Oxford,0,其他,0.0,0.0,0.0
+法国菜,Cafe Rouge - Witney,Cafe Rouge - Witney,0,,0.0,0.0,0.0
+墨西哥菜,Las Iguanas - Oxford,Las Iguanas - Oxford,0,其他,7.2,7.2,7.2
+墨西哥菜,Mission Burrito,Mission Burrito,0,其他,0.0,0.0,0.0
+墨西哥菜,The Mission,The Mission,0,其他,0.0,0.0,0.0
+其他西餐,The White House,The White House,0,其他,0.0,0.0,0.0
+其他西餐,Quod Brasserie & Bar,Quod Brasserie & Bar,0,其他,7.1,7.1,7.1
+其他西餐,Nando's - Oxford (George Street),Nando's - Oxford (George Street),0,其他,6.5,6.5,6.5
+其他西餐,The Punter,The Punter,0,其他,7.7,7.7,7.7
+其他西餐,Wig & Pen,Wig & Pen,0,其他,7.7,6.8,6.8
+其他西餐,Bella Italia,Bella Italia,0,其他,7.5,7.5,7.5
+其他西餐,The Crown,The Crown,0,其他,7.5,7.5,7.5
+其他西餐,George And Danver,George And Danver,0,其他,7.4,7.4,7.4
+其他西餐,Sainsburys,Sainsburys,0,其他,7.3,7.3,7.3
+其他西餐,The Fish,The Fish,0,,0.0,0.0,0.0
+其他西餐,Las Iguanas - Oxford,Las Iguanas - Oxford,0,其他,7.2,7.2,7.2
+其他西餐,Byron Oxford,Byron Oxford,0,其他,0.0,0.0,0.0
+其他西餐,The Oxford Retreat,The Oxford Retreat,0,其他,0.0,0.0,0.0
+其他西餐,Manos,Manos,0,其他,0.0,0.0,0.0
+其他西餐,Taylors Deli,Taylors Deli,0,其他,0.0,0.0,0.0
+其他西餐,Browns Bar & Brasserie Oxford,Browns Bar & Brasserie Oxford,0,其他,0.0,0.0,0.0
+其他西餐,The Three Pigeons,The Three Pigeons,0,,0.0,0.0,0.0
+其他西餐,The Dashwood,The Dashwood,0,,0.0,0.0,0.0
+其他西餐,Mill House Hotel and Restaurant,Mill House Hotel and Restaurant,0,,0.0,0.0,0.0
+其他西餐,The Partridge Inn,The Partridge Inn,0,其他,0.0,0.0,0.0
+其他西餐,The Bell Inn,The Bell Inn,0,其他,0.0,0.0,0.0
+其他西餐,The Olives Restaurant,The Olives Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,The Dolphin,The Dolphin,0,其他,0.0,0.0,0.0
+其他西餐,The Royal Sun,The Royal Sun,0,其他,0.0,0.0,0.0
+其他西餐,The Fleur de Lys,The Fleur de Lys,0,其他,0.0,0.0,0.0
+其他西餐,Magdalen Arms,Magdalen Arms,0,其他,0.0,0.0,0.0
+其他西餐,Pierre Victoire,Pierre Victoire,0,其他,0.0,0.0,0.0
+其他西餐,Verde Pizzeria and Trattoria,Verde Pizzeria and Trattoria,0,其他,0.0,0.0,0.0
+其他西餐,"The Big Bang, Oxford","The Big Bang, Oxford",0,其他,0.0,0.0,0.0
+其他西餐,Butchers' Arms,Butchers' Arms,0,其他,0.0,0.0,0.0
+其他西餐,The Old Bookbinders Ale House,The Old Bookbinders Ale House,0,其他,0.0,0.0,0.0
+其他西餐,Bodrums,Bodrums,0,其他,0.0,0.0,0.0
+其他西餐,The Eagle and Child,The Eagle and Child,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Coco,Cafe Coco,0,其他,0.0,0.0,0.0
+其他西餐,The Grapes Pub,The Grapes Pub,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant at the Randolph,Restaurant at the Randolph,0,其他,0.0,0.0,0.0
+其他西餐,Old Parsonage Bar & Restaurant,Old Parsonage Bar & Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,The Folly,The Folly,0,其他,0.0,0.0,0.0
+其他西餐,66a @ The Cotswold Lodge Hotel,66a @ The Cotswold Lodge Hotel,0,牛津市界限,0.0,0.0,0.0
+其他西餐,St Giles Café,St Giles Café,0,其他,0.0,0.0,0.0
+其他西餐,St Aldates Tavern,St Aldates Tavern,0,其他,0.0,0.0,0.0
+其他西餐,Al-Andalus Tapas,Al-Andalus Tapas,0,其他,0.0,0.0,0.0
+其他西餐,The White Hart,The White Hart,0,牛津市界限,0.0,0.0,0.0
+其他西餐,Barefoot Storytellers Cafe,Barefoot Storytellers Cafe,0,牛津市界限,0.0,0.0,0.0
+其他西餐,Iffley Blue,Iffley Blue,0,其他,0.0,0.0,0.0
+其他西餐,The Red Lion,The Red Lion,0,其他,0.0,0.0,0.0
+其他西餐,The Waterside Restaurant,The Waterside Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Patisserie Valerie,Patisserie Valerie,0,其他,0.0,0.0,0.0
+其他西餐,The Victoria,The Victoria,0,其他,0.0,0.0,0.0
+其他西餐,Rose & Crown,Rose & Crown,0,牛津市界限,0.0,0.0,0.0
+其他西餐,The Angel,The Angel,0,其他,0.0,0.0,0.0
+其他西餐,The Baskerville,The Baskerville,0,,0.0,0.0,0.0
+其他西餐,The Highwayman,The Highwayman,0,,0.0,0.0,0.0
+其他西餐,The Peacock Country Inn,The Peacock Country Inn,0,,0.0,0.0,0.0
+其他西餐,Horse and Groom,Horse and Groom,0,其他,0.0,0.0,0.0
+其他西餐,The Red Lion,The Red Lion,0,,0.0,0.0,0.0
+其他西餐,The Crown Inn,The Crown Inn,0,,0.0,0.0,0.0
+其他西餐,Five Horseshoes,Five Horseshoes,0,其他,0.0,0.0,0.0
+其他西餐,The Mill,The Mill,0,,0.0,0.0,0.0
+其他西餐,Bear at Home,Bear at Home,0,,0.0,0.0,0.0
+其他西餐,Shepherds hut ewelme,Shepherds hut ewelme,0,其他,0.0,0.0,0.0
+其他西餐,Nando's - Oxford (Cowley Road),Nando's - Oxford (Cowley Road),0,其他,0.0,0.0,0.0
+其他西餐,Garden Cafe at Restore,Garden Cafe at Restore,0,其他,0.0,0.0,0.0
+其他西餐,Mediterranean Fish Bar,Mediterranean Fish Bar,0,其他,0.0,0.0,0.0
+其他西餐,The Bull Inn,The Bull Inn,0,,0.0,0.0,0.0
+其他西餐,Browns,Browns,0,其他,0.0,0.0,0.0
+其他西餐,Kings Arms Pub and Restaurant,Kings Arms Pub and Restaurant,0,,0.0,0.0,0.0
+其他西餐,The Square,The Square,0,其他,0.0,0.0,0.0
+其他西餐,Bread & Milk Deli,Bread & Milk Deli,0,其他,0.0,0.0,0.0
+其他西餐,"Vale and Downland Museum , Wantage","Vale and Downland Museum , Wantage",0,,0.0,0.0,0.0
+其他西餐,Cafe Buendia,Cafe Buendia,0,,0.0,0.0,0.0
+其他西餐,Magda Lamb Cafe,Magda Lamb Cafe,0,,0.0,0.0,0.0
+其他西餐,Grocers Cafe,Grocers Cafe,0,,0.0,0.0,0.0
+其他西餐,"County Cafe, Aston Pottery","County Cafe, Aston Pottery",0,其他,0.0,0.0,0.0
+其他西餐,Otters Restaurant,Otters Restaurant,0,,0.0,0.0,0.0
+其他西餐,The Three Horseshoes,The Three Horseshoes,0,,0.0,0.0,0.0
+其他西餐,Hanwell,Hanwell,0,其他,0.0,0.0,0.0
+其他西餐,Cafe at the Old Flight House,Cafe at the Old Flight House,0,,0.0,0.0,0.0
+其他西餐,Oxfork,Oxfork,0,其他,0.0,0.0,0.0
+其他西餐,The Rusty Bicycle,The Rusty Bicycle,0,其他,0.0,0.0,0.0
+其他西餐,Malikas,Malikas,0,其他,0.0,0.0,0.0
+其他西餐,The Oxford Blue,The Oxford Blue,0,其他,0.0,0.0,0.0
+其他西餐,Greece Greek Taverna Oxford,Greece Greek Taverna Oxford,0,其他,0.0,0.0,0.0
+其他西餐,Moya,Moya,0,其他,0.0,0.0,0.0
+其他西餐,Oxford's Grill,Oxford's Grill,0,其他,0.0,0.0,0.0
+其他西餐,Cous Cous Cafe,Cous Cous Cafe,0,其他,0.0,0.0,0.0
+其他西餐,The Chequers,The Chequers,0,其他,0.0,0.0,0.0
+其他西餐,The Rose,The Rose,0,其他,0.0,0.0,0.0
+其他西餐,The Jam Factory,The Jam Factory,0,其他,0.0,0.0,0.0
+其他西餐,Sultan Restaurant,Sultan Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Pieminister,Pieminister,0,其他,0.0,0.0,0.0
+其他西餐,The Missing Bean,The Missing Bean,0,其他,0.0,0.0,0.0
+其他西餐,Bill's Restaurant - Oxford,Bill's Restaurant - Oxford,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Creme,Cafe Creme,0,其他,0.0,0.0,0.0
+其他西餐,The Red Lion,The Red Lion,0,其他,0.0,0.0,0.0
+其他西餐,The Lamb and Flag,The Lamb and Flag,0,其他,0.0,0.0,0.0
+其他西餐,The Mirabai,The Mirabai,0,其他,0.0,0.0,0.0
+其他西餐,The Standard,The Standard,0,其他,0.0,0.0,0.0
+其他西餐,The Jericho Cafe,The Jericho Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Jacobs and Field,Jacobs and Field,0,其他,0.0,0.0,0.0
+其他西餐,The Royal Oak,The Royal Oak,0,其他,0.0,0.0,0.0
+其他西餐,The Black Boy,The Black Boy,0,其他,0.0,0.0,0.0
+其他西餐,The Anchor Inn Oxford,The Anchor Inn Oxford,0,牛津市界限,0.0,0.0,0.0
+其他西餐,Portabello Restaurant Bar & Grill,Portabello Restaurant Bar & Grill,0,牛津市界限,0.0,0.0,0.0
+其他西餐,Dew Drop Inn,Dew Drop Inn,0,牛津市界限,0.0,0.0,0.0
+其他西餐,La Bodega Tapas,La Bodega Tapas,0,其他,0.0,0.0,0.0
+其他西餐,The Half Moon,The Half Moon,0,,0.0,0.0,0.0
+其他西餐,The Fir Tree,The Fir Tree,0,其他,0.0,0.0,0.0
+其他西餐,The Swan & Castle,The Swan & Castle,0,其他,0.0,0.0,0.0
+其他西餐,Mortons,Mortons,0,其他,0.0,0.0,0.0
+其他西餐,Bure Farm,Bure Farm,0,,0.0,0.0,0.0
+其他西餐,Hacketts Coffe Bar & Bistro,Hacketts Coffe Bar & Bistro,0,牛津市界限,0.0,0.0,0.0
+其他西餐,Browns Cafe,Browns Cafe,0,其他,0.0,0.0,0.0
+其他西餐,The Boot Inn,The Boot Inn,0,其他,0.0,0.0,0.0
+其他西餐,Baytree,Baytree,0,其他,0.0,0.0,0.0
+其他西餐,White Horse,White Horse,0,其他,0.0,0.0,0.0
+其他西餐,The King William Pub,The King William Pub,0,其他,0.0,0.0,0.0
+其他西餐,The White Horse,The White Horse,0,其他,0.0,0.0,0.0
+其他西餐,The Vine inn,The Vine inn,0,,0.0,0.0,0.0
+其他西餐,Cafe Baba,Cafe Baba,0,其他,0.0,0.0,0.0
+其他西餐,Arbat,Arbat,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Loco,Cafe Loco,0,其他,0.0,0.0,0.0
+其他西餐,Tick Tock Cafe,Tick Tock Cafe,0,其他,0.0,0.0,0.0
+其他西餐,The Royal Blenheim,The Royal Blenheim,0,其他,0.0,0.0,0.0
+其他西餐,Jolly Farmers,Jolly Farmers,0,其他,0.0,0.0,0.0
+其他西餐,La Tasca - Oxford,La Tasca - Oxford,0,其他,0.0,0.0,0.0
+其他西餐,Brasserie and Bar at Malmaison - Oxford,Brasserie and Bar at Malmaison - Oxford,0,其他,0.0,0.0,0.0
+其他西餐,The West Cornwall Pasty Company,The West Cornwall Pasty Company,0,其他,0.0,0.0,0.0
+其他西餐,Gourmet Burger Kitchen,Gourmet Burger Kitchen,0,其他,0.0,0.0,0.0
+其他西餐,The Four Candles,The Four Candles,0,其他,0.0,0.0,0.0
+其他西餐,Three Goats Heads,Three Goats Heads,0,其他,0.0,0.0,0.0
+其他西餐,Crisis Skylight Oxford Cafe,Crisis Skylight Oxford Cafe,0,其他,0.0,0.0,0.0
+其他西餐,O'Neill's,O'Neill's,0,其他,0.0,0.0,0.0
+其他西餐,Red Lion Pub,Red Lion Pub,0,其他,0.0,0.0,0.0
+其他西餐,Ashmolean Dining Room,Ashmolean Dining Room,0,其他,0.0,0.0,0.0
+其他西餐,The Britannia Inn,The Britannia Inn,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Noir Wine Bar & Restaurant,Cafe Noir Wine Bar & Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,The Jericho,The Jericho,0,其他,0.0,0.0,0.0
+其他西餐,The White Hart,The White Hart,0,其他,0.0,0.0,0.0
+其他西餐,The Fat Fox Inn,The Fat Fox Inn,0,,0.0,0.0,0.0
+其他西餐,Kitsons-,Kitsons-,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Bakehouse,Cafe Bakehouse,0,其他,0.0,0.0,0.0
+其他西餐,The Royal Oak,The Royal Oak,0,其他,0.0,0.0,0.0
+其他西餐,Crumbs,Crumbs,0,,0.0,0.0,0.0
+其他西餐,Kings Arms Hotel & Restaurant,Kings Arms Hotel & Restaurant,0,,0.0,0.0,0.0
+其他西餐,Church House Bar and Restaurant,Church House Bar and Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,The Turnpike,The Turnpike,0,其他,0.0,0.0,0.0
+其他西餐,The Panini Shop,The Panini Shop,0,其他,0.0,0.0,0.0
+其他西餐,The Birdcage,The Birdcage,0,,0.0,0.0,0.0
+其他西餐,"The Swan Inn, Long Hanborough","The Swan Inn, Long Hanborough",0,,0.0,0.0,0.0
+其他西餐,The Mermaid Inn,The Mermaid Inn,0,其他,0.0,0.0,0.0
+其他西餐,Smarts Fish & Chip Shop,Smarts Fish & Chip Shop,0,,0.0,0.0,0.0
+其他西餐,The Pickled Ploughman Pub,The Pickled Ploughman Pub,0,,0.0,0.0,0.0
+其他西餐,Pickled Ploughman,Pickled Ploughman,0,,0.0,0.0,0.0
+其他西餐,The Boot Inn,The Boot Inn,0,其他,0.0,0.0,0.0
+其他西餐,Ady's Cafe,Ady's Cafe,0,其他,0.0,0.0,0.0
+其他西餐,The George and Dragon,The George and Dragon,0,其他,0.0,0.0,0.0
+其他西餐,The Red Lion,The Red Lion,0,,0.0,0.0,0.0
+其他西餐,The Red Lion,The Red Lion,0,,0.0,0.0,0.0
+其他西餐,Kings Arms,Kings Arms,0,其他,0.0,0.0,0.0
+其他西餐,The Swan Inn,The Swan Inn,0,其他,0.0,0.0,0.0
+其他西餐,Daylesford Organic Farmshop & Cafe,Daylesford Organic Farmshop & Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Hotel du Vin - Henley-on-Thames,Hotel du Vin - Henley-on-Thames,0,,0.0,0.0,0.0
+其他西餐,The Chequers,The Chequers,0,,0.0,0.0,0.0
+其他西餐,Holiday inn Oxford,Holiday inn Oxford,0,其他,0.0,0.0,0.0
+其他西餐,The Extraordinary Hare,The Extraordinary Hare,0,,0.0,0.0,0.0
+其他西餐,Cafe Rendezvous,Cafe Rendezvous,0,其他,0.0,0.0,0.0
+其他西餐,Cherry Tree Inn,Cherry Tree Inn,0,其他,0.0,0.0,0.0
+其他西餐,The Roebuck Inn,The Roebuck Inn,0,,0.0,0.0,0.0
+其他西餐,The Leatherne Bottel,The Leatherne Bottel,0,其他,0.0,0.0,0.0
+其他西餐,Luscombes Restaurant,Luscombes Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,The Old Anchor Inn,The Old Anchor Inn,0,,0.0,0.0,0.0
+其他西餐,The White Horse,The White Horse,0,,0.0,0.0,0.0
+其他西餐,The Quince Tree,The Quince Tree,0,其他,0.0,0.0,0.0
+其他西餐,The Four Horseshoes Checkendon,The Four Horseshoes Checkendon,0,其他,0.0,0.0,0.0
+其他西餐,The Longwall,The Longwall,0,其他,0.0,0.0,0.0
+其他西餐,The William Morris,The William Morris,0,其他,0.0,0.0,0.0
+其他西餐,Oxford Fish and Chip shop,Oxford Fish and Chip shop,0,其他,0.0,0.0,0.0
+其他西餐,The James Street Tavern,The James Street Tavern,0,其他,0.0,0.0,0.0
+其他西餐,The Cowley Retreat,The Cowley Retreat,0,其他,0.0,0.0,0.0
+其他西餐,Santorini Taverna & Ouzeri,Santorini Taverna & Ouzeri,0,其他,0.0,0.0,0.0
+其他西餐,Route 66,Route 66,0,其他,0.0,0.0,0.0
+其他西餐,Joe's,Joe's,0,其他,0.0,0.0,0.0
+其他西餐,Morton's Cafe,Morton's Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Brothers coffee cafe,Brothers coffee cafe,0,其他,0.0,0.0,0.0
+其他西餐,Portwell Angel,Portwell Angel,0,其他,0.0,0.0,0.0
+其他西餐,The Cape of Good Hope,The Cape of Good Hope,0,其他,0.0,0.0,0.0
+其他西餐,News Cafe,News Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Old Fire Station,Old Fire Station,0,其他,0.0,0.0,0.0
+其他西餐,La Croissanterie,La Croissanterie,0,其他,0.0,0.0,0.0
+其他西餐,Queens Lane Coffee Shop,Queens Lane Coffee Shop,0,其他,0.0,0.0,0.0
+其他西餐,White Horse,White Horse,0,其他,0.0,0.0,0.0
+其他西餐,Brittania Inn,Brittania Inn,0,其他,0.0,0.0,0.0
+其他西餐,Bar Meze,Bar Meze,0,其他,0.0,0.0,0.0
+其他西餐,Hariet's Tea Room and Bakeryr,Hariet's Tea Room and Bakeryr,0,其他,0.0,0.0,0.0
+其他西餐,The Bell,The Bell,0,,0.0,0.0,0.0
+其他西餐,The Shaven Crown,The Shaven Crown,0,,0.0,0.0,0.0
+其他西餐,Cafe Puccino's,Cafe Puccino's,0,其他,0.0,0.0,0.0
+其他西餐,Oxford Rendezvous,Oxford Rendezvous,0,其他,0.0,0.0,0.0
+其他西餐,Roosters Piri Piri,Roosters Piri Piri,0,其他,0.0,0.0,0.0
+其他西餐,La Plaza,La Plaza,0,其他,0.0,0.0,0.0
+其他西餐,The Easington,The Easington,0,,0.0,0.0,0.0
+其他西餐,Grand Union,Grand Union,0,其他,0.0,0.0,0.0
+其他西餐,The Plough Inn,The Plough Inn,0,,0.0,0.0,0.0
+其他西餐,Welcome Break Oxford,Welcome Break Oxford,0,其他,0.0,0.0,0.0
+其他西餐,North Arms Inn,North Arms Inn,0,其他,0.0,0.0,0.0
+其他西餐,The Ricketty Press,The Ricketty Press,0,其他,0.0,0.0,0.0
+其他西餐,The Boat,The Boat,0,其他,0.0,0.0,0.0
+中餐,Noodle Nation Oxford,Noodle Nation Oxford,0,其他,7.2,7.2,7.2
+中餐,ZHENG RESTAURANT,ZHENG RESTAURANT,0,其他,7.7,7.7,7.7
+中餐,The Opium Den,The Opium Den,0,其他,6.4,6.6,6.4
+中餐,So Jo,So Jo,0,Oxford City Center,7.5,7.5,7.1
+中餐,SoJo,SoJo,0,其他,7.7,7.7,7.7
+中餐,SunRise,SunRise,0,,0.0,0.0,0.0
+中餐,Afternoon Tea at Macdonald Randolph Hotel,Afternoon Tea at Macdonald Randolph Hotel,0,其他,7.7,7.7,7.7
+中餐,Yummy Cafe,Yummy Cafe,0,其他,7.2,6.8,7.2
+中餐,The Dancing Dragon,The Dancing Dragon,0,牛津市界限,7.2,7.2,7.2
+中餐,The Rose Tree Restaurant,The Rose Tree Restaurant,0,其他,7.2,7.7,7.7
+中餐,Formosan,Formosan,0,其他,0.0,0.0,0.0
+中餐,Koi,Koi,0,其他,0.0,0.0,0.0
+中餐,Dong Dong Noodle House,Dong Dong Noodle House,0,其他,0.0,0.0,0.0
+中餐,Chef Imperial,Chef Imperial,0,其他,0.0,0.0,0.0
+中餐,Oriental Condor,Oriental Condor,0,其他,0.0,0.0,0.0
+中餐,Gurkha Village Nepalese Restaurant,Gurkha Village Nepalese Restaurant,0,,0.0,0.0,0.0
+中餐,Top Wok,Top Wok,0,其他,0.0,0.0,0.0
+中餐,Xian,Xian,0,牛津市界限,0.0,0.0,0.0
+中餐,Beijing Gourmet,Beijing Gourmet,0,,0.0,0.0,0.0
+中餐,Yin Hong,Yin Hong,0,,0.0,0.0,0.0
+中餐,Red Star Noodle Bar,Red Star Noodle Bar,0,其他,0.0,0.0,0.0
+中餐,The First Floor Restaurant,The First Floor Restaurant,0,其他,0.0,0.0,0.0
+中餐,Mr Rice,Mr Rice,0,,0.0,0.0,0.0
+中餐,Beijing Diner,Beijing Diner,0,其他,0.0,0.0,0.0
+中餐,Liaison,Liaison,0,其他,0.0,0.0,0.0
+中餐,Oriental Express,Oriental Express,0,其他,0.0,0.0,0.0
+中餐,The Real China,The Real China,0,其他,0.0,0.0,0.0
+中餐,"Annies Tea Rooms, Thrupp, Kidlington, Oxfordshire","Annies Tea Rooms, Thrupp, Kidlington, Oxfordshire",0,其他,0.0,0.0,0.0
+中餐,Rosemary,Rosemary,0,其他,0.0,0.0,0.0
+中餐,specials,specials,0,其他,0.0,0.0,0.0
+日韩料理,Edamame,Edamame,0,其他,7.7,7.3,7.3
+日韩料理,Moshi,Moshi,0,其他,7.2,7.2,6.8
+日韩料理,The Rose Tree Restaurant,The Rose Tree Restaurant,0,其他,7.2,7.7,7.7
+日韩料理,The Bamboo,The Bamboo,0,其他,6.8,7.2,7.2
+日韩料理,YO! Sushi,YO! Sushi,0,其他,0.0,0.0,0.0
+日韩料理,Sooshe,Sooshe,0,其他,0.0,0.0,0.0
+日韩料理,Taberu Japanese Restaurant,Taberu Japanese Restaurant,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Corner,Sushi Corner,0,其他,0.0,0.0,0.0
+更多亚洲菜,ZHENG RESTAURANT,ZHENG RESTAURANT,0,其他,7.7,7.7,7.7
+更多亚洲菜,Jee Saheb,Jee Saheb,0,牛津市界限,7.2,7.2,7.2
+更多亚洲菜,Chiang Mai Kitchen,Chiang Mai Kitchen,0,其他,7.2,7.2,7.2
+更多亚洲菜,The One,The One,0,其他,7.2,7.2,7.2
+更多亚洲菜,Bangkok House,Bangkok House,0,其他,6.8,7.2,7.2
+更多亚洲菜,Oli's Thai,Oli's Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Rafus Curry Corner,Rafus Curry Corner,0,其他,0.0,0.0,0.0
+更多亚洲菜,Chutney's,Chutney's,0,其他,0.0,0.0,0.0
+更多亚洲菜,Shezan,Shezan,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Bangkok Kittchen.,The Bangkok Kittchen.,0,其他,0.0,0.0,0.0
+更多亚洲菜,Gurkha Spice,Gurkha Spice,0,其他,0.0,0.0,0.0
+更多亚洲菜,Masoom's,Masoom's,0,,0.0,0.0,0.0
+更多亚洲菜,Al-Salam,Al-Salam,0,其他,0.0,0.0,0.0
+更多亚洲菜,Spice Lounge,Spice Lounge,0,牛津市界限,0.0,0.0,0.0
+更多亚洲菜,Aziz,Aziz,0,,0.0,0.0,0.0
+更多亚洲菜,Qumins Restaurant,Qumins Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Yeti Nepalese Restaurant,Yeti Nepalese Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kadai & Naan,Kadai & Naan,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thai Orchid,Thai Orchid,0,其他,0.0,0.0,0.0
+更多亚洲菜,Temple Lounge,Temple Lounge,0,其他,0.0,0.0,0.0
+更多亚洲菜,Red Star Noodle Bar,Red Star Noodle Bar,0,其他,0.0,0.0,0.0
+更多亚洲菜,The First Floor Restaurant,The First Floor Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bodrum Kebab House,Bodrum Kebab House,0,其他,0.0,0.0,0.0
+更多亚洲菜,YO! Sushi,YO! Sushi,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Viceroy Tandoori,The Viceroy Tandoori,0,其他,0.0,0.0,0.0
+更多亚洲菜,Yummy Thai,Yummy Thai,0,,0.0,0.0,0.0
+更多亚洲菜,Bengal Spice,Bengal Spice,0,,0.0,0.0,0.0
+更多亚洲菜,Oxy Oriental,Oxy Oriental,0,其他,0.0,0.0,0.0
+更多亚洲菜,Raj,Raj,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Spice Room,The Spice Room,0,其他,0.0,0.0,0.0
+更多亚洲菜,Karma,Karma,0,其他,0.0,0.0,0.0
+更多亚洲菜,everest nepalese restaurant and bar,everest nepalese restaurant and bar,0,其他,0.0,0.0,0.0
+更多亚洲菜,Malikas,Malikas,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mirch Masala,Mirch Masala,0,其他,0.0,0.0,0.0
+更多亚洲菜,Majliss,Majliss,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Old Tom Pub,The Old Tom Pub,0,其他,0.0,0.0,0.0
+更多亚洲菜,Dosapark,Dosapark,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Mirabai,The Mirabai,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Standard,The Standard,0,其他,0.0,0.0,0.0
+更多亚洲菜,The White Horse Thai Restaurant,The White Horse Thai Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Saffron Restaurant,Saffron Restaurant,0,牛津市界限,0.0,0.0,0.0
+更多亚洲菜,Plaza Cuisine,Plaza Cuisine,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Raj Tandoori,The Raj Tandoori,0,,0.0,0.0,0.0
+更多亚洲菜,Delhi Indian Takeaway,Delhi Indian Takeaway,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sherpa Nepalese Cafe Restaurant,Sherpa Nepalese Cafe Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Rajasthan Oxford,Rajasthan Oxford,0,其他,0.0,0.0,0.0
+更多亚洲菜,itsu,itsu,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bombay Restaurant,Bombay Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Royal India,The Royal India,0,其他,0.0,0.0,0.0
+更多亚洲菜,Asian Mama,Asian Mama,0,其他,0.0,0.0,0.0
+更多亚洲菜,Al-Zaib Indian Khana,Al-Zaib Indian Khana,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Spice Guru,The Spice Guru,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thame Tandoori,Thame Tandoori,0,其他,0.0,0.0,0.0
+更多亚洲菜,Spice Merchant - Henley on Thames,Spice Merchant - Henley on Thames,0,其他,0.0,0.0,0.0
+更多亚洲菜,Giggling Squid,Giggling Squid,0,其他,0.0,0.0,0.0
+更多亚洲菜,Gulshan Brasserie,Gulshan Brasserie,0,其他,0.0,0.0,0.0
+更多亚洲菜,Tiffins,Tiffins,0,其他,0.0,0.0,0.0
+更多亚洲菜,Indian Pantry,Indian Pantry,0,其他,0.0,0.0,0.0
+更多亚洲菜,Elaichi Restaurant,Elaichi Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Arzoo,Arzoo,0,,0.0,0.0,0.0
+更多亚洲菜,Purple Mango,Purple Mango,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thai Orchid,Thai Orchid,0,其他,0.0,0.0,0.0
+更多亚洲菜,Cafe Spice,Cafe Spice,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Indian Room,The Indian Room,0,其他,0.0,0.0,0.0
+更多亚洲菜,The Oxford Thai,The Oxford Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Anglo Asian Resturant,Anglo Asian Resturant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bar Meze,Bar Meze,0,其他,0.0,0.0,0.0
+更多亚洲菜,Cinnamon Tree,Cinnamon Tree,0,其他,0.0,0.0,0.0
+更多亚洲菜,Aziz Express,Aziz Express,0,其他,0.0,0.0,0.0
+更多亚洲菜,Wok N Go,Wok N Go,0,其他,0.0,0.0,0.0
+更多亚洲菜,Arzoo,Arzoo,0,其他,0.0,0.0,0.0
+快餐简餐,东方不败点心烧腊中菜小厨,东方不败点心烧腊中菜小厨,0,牛津市界限,7.0,7.2,7.4
+快餐简餐,Chaba Thai,Chaba Thai,0,其他,0.0,0.0,0.0
+快餐简餐,Maxwell's,Maxwell's,0,其他,7.2,7.2,7.2
+快餐简餐,Manos,Manos,0,其他,0.0,0.0,0.0
+快餐简餐,Taylors Deli,Taylors Deli,0,其他,0.0,0.0,0.0
+快餐简餐,The Deli Didcot,The Deli Didcot,0,,0.0,0.0,0.0
+快餐简餐,Atomic Burger,Atomic Burger,0,其他,0.0,0.0,0.0
+快餐简餐,Delice,Delice,0,其他,0.0,0.0,0.0
+快餐简餐,The Rusty Bicycle,The Rusty Bicycle,0,其他,0.0,0.0,0.0
+快餐简餐,Organic Deli Cafe,Organic Deli Cafe,0,其他,0.0,0.0,0.0
+快餐简餐,Shakespeare's,Shakespeare's,0,其他,0.0,0.0,0.0
+快餐简餐,The Mitre Beefeater,The Mitre Beefeater,0,其他,0.0,0.0,0.0
+快餐简餐,Route 66,Route 66,0,其他,0.0,0.0,0.0
+快餐简餐,Coffee Republic Cowley,Coffee Republic Cowley,0,其他,0.0,0.0,0.0
+快餐简餐,Wahoo,Wahoo,0,其他,0.0,0.0,0.0
+快餐简餐,Deli Licious,Deli Licious,0,其他,0.0,0.0,0.0
+快餐简餐,StrEAT Cuisine,StrEAT Cuisine,0,其他,0.0,0.0,0.0
+快餐简餐,Sofi de France,Sofi de France,0,其他,0.0,0.0,0.0
+快餐简餐,Bloomers,Bloomers,0,,0.0,0.0,0.0
+快餐简餐,Chariots And Cherry Pie,Chariots And Cherry Pie,0,,0.0,0.0,0.0
+快餐简餐,基督教堂学院,基督教堂学院,0,,0.0,0.0,0.0
+快餐简餐,莫顿学院,莫顿学院,0,,0.0,0.0,0.0
+快餐简餐,West Cornwall Pasty Company,West Cornwall Pasty Company,0,其他,0.0,0.0,0.0
+快餐简餐,Frankie and Benny's,Frankie and Benny's,0,其他,0.0,0.0,0.0
+海鲜,The Crown Inn,The Crown Inn,0,,0.0,0.0,0.0
+海鲜,Fishers,Fishers,0,其他,0.0,0.0,0.0
+海鲜,Loch Fyne Restaurant,Loch Fyne Restaurant,0,其他,0.0,0.0,0.0
+海鲜,The fish,The fish,0,其他,0.0,0.0,0.0
+烧烤,Cleaver,Cleaver,0,其他,0.0,0.0,0.0
+比萨,Mamma Mia Pizzeria,Mamma Mia Pizzeria,0,牛津市界限,0.0,0.0,0.0
+比萨,Bodrums,Bodrums,0,其他,0.0,0.0,0.0
+比萨,ASK,ASK,0,其他,0.0,0.0,0.0
+比萨,Zizzi - Oxford,Zizzi - Oxford,0,其他,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,其他,0.0,0.0,0.0
+比萨,Pizza House,Pizza House,0,,0.0,0.0,0.0
+比萨,Atomic Pizza,Atomic Pizza,0,其他,0.0,0.0,0.0
+比萨,The White Rabbit,The White Rabbit,0,其他,0.0,0.0,0.0
+比萨,Mamma Mia Jericho,Mamma Mia Jericho,0,其他,0.0,0.0,0.0
+比萨,The Fir Tree,The Fir Tree,0,其他,0.0,0.0,0.0
+比萨,Fire and Stone,Fire and Stone,0,,0.0,0.0,0.0
+比萨,Primavera Pizza,Primavera Pizza,0,其他,0.0,0.0,0.0
+比萨,Pizza House,Pizza House,0,其他,0.0,0.0,0.0
+比萨,Pizza Hut Banbury Cross Retail Park,Pizza Hut Banbury Cross Retail Park,0,其他,0.0,0.0,0.0
+比萨,Domino's Pizza Banbury,Domino's Pizza Banbury,0,其他,0.0,0.0,0.0
+咖啡厅,The Grand Cafe,The Grand Cafe,0,其他,7.6,7.6,7.6
+咖啡厅,Pret a manger,Pret a manger,0,其他,6.8,7.7,6.8
+咖啡厅,Boswells,Boswells,0,其他,0.0,0.0,0.0
+咖啡厅,War memory garden,War memory garden,0,Oxford City Center,0.0,0.0,0.0
+咖啡厅,Vaults & Garden Cafe,Vaults & Garden Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Yellow Submarine,Yellow Submarine,0,其他,0.0,0.0,0.0
+咖啡厅,"The Big Bang, Oxford","The Big Bang, Oxford",0,其他,0.0,0.0,0.0
+咖啡厅,Thirsty Meeples,Thirsty Meeples,0,其他,0.0,0.0,0.0
+咖啡厅,Old Town Deli And Cafe,Old Town Deli And Cafe,0,,0.0,0.0,0.0
+咖啡厅,Style Acre at Savages,Style Acre at Savages,0,,0.0,0.0,0.0
+咖啡厅,Pukeko Coffee,Pukeko Coffee,0,其他,0.0,0.0,0.0
+咖啡厅,Granola,Granola,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Nero,Cafe Nero,0,其他,0.0,0.0,0.0
+咖啡厅,"The Barns Cafe, Abingdon","The Barns Cafe, Abingdon",0,,0.0,0.0,0.0
+咖啡厅,Quarter Horse Coffee,Quarter Horse Coffee,0,其他,0.0,0.0,0.0
+咖啡厅,Rick's Cafe,Rick's Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Georgina's Cafe,Georgina's Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Zappi's Bike Cafe,Zappi's Bike Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Combibos Coffee,Combibos Coffee,0,其他,0.0,0.0,0.0
+咖啡厅,George & Davis,George & Davis,0,其他,0.0,0.0,0.0
+咖啡厅,Brew,Brew,0,其他,0.0,0.0,0.0
+咖啡厅,The Keen Bean Coffee Club,The Keen Bean Coffee Club,0,其他,0.0,0.0,0.0
+咖啡厅,George and Delila,George and Delila,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Loco,Cafe Loco,0,其他,0.0,0.0,0.0
+咖啡厅,Crisis Skylight Oxford Cafe,Crisis Skylight Oxford Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Heroes,Heroes,0,其他,0.0,0.0,0.0
+咖啡厅,Number 24 Cafe,Number 24 Cafe,0,,0.0,0.0,0.0
+咖啡厅,The Old Studio,The Old Studio,0,其他,0.0,0.0,0.0
+咖啡厅,The Lounge Cafe,The Lounge Cafe,0,,0.0,0.0,0.0
+咖啡厅,Waterfront Cafe,Waterfront Cafe,0,,0.0,0.0,0.0
+咖啡厅,Download Cafe,Download Cafe,0,,0.0,0.0,0.0
+咖啡厅,Bhs,Bhs,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe 1071,Cafe 1071,0,其他,0.0,0.0,0.0
+咖啡厅,Java&Co,Java&Co,0,其他,0.0,0.0,0.0
+咖啡厅,Coffee Republic,Coffee Republic,0,其他,0.0,0.0,0.0
+咖啡厅,Green's Cafe,Green's Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,AkiPort,AkiPort,0,Grandpont,0.0,0.0,0.0
+咖啡厅,Nortons Cafe Bar,Nortons Cafe Bar,0,,0.0,0.0,0.0
+咖啡厅,Patisserie Valerie,Patisserie Valerie,0,,0.0,0.0,0.0
+咖啡厅,Thorntons,Thorntons,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Coco at The Royal Oxford Hotel,Cafe Coco at The Royal Oxford Hotel,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Golden Cross Oxford,Cafe Golden Cross Oxford,0,其他,0.0,0.0,0.0
+面包甜点,Ben's Cookies,Ben's Cookies,0,其他,0.0,0.0,0.0
+面包甜点,The Shake Shop,The Shake Shop,0,,0.0,0.0,0.0
+面包甜点,Hotel Chocolate,Hotel Chocolate,0,牛津市界限,7.7,7.7,7.7
+面包甜点,Formosan Tea Bar,Formosan Tea Bar,0,其他,7.7,7.7,7.7
+面包甜点,Jimbob's Baguettes,Jimbob's Baguettes,0,其他,0.0,0.0,0.0
+面包甜点,Thirsty Meeples,Thirsty Meeples,0,其他,0.0,0.0,0.0
+面包甜点,Ricardo's,Ricardo's,0,其他,0.0,0.0,0.0
+面包甜点,Quarter Horse Coffee,Quarter Horse Coffee,0,其他,0.0,0.0,0.0
+面包甜点,Zappi's Bike Cafe,Zappi's Bike Cafe,0,其他,0.0,0.0,0.0
+面包甜点,Organic Deli Cafe,Organic Deli Cafe,0,其他,0.0,0.0,0.0
+面包甜点,George & Davis,George & Davis,0,其他,0.0,0.0,0.0
+面包甜点,Indulge Dessert Parlour,Indulge Dessert Parlour,0,其他,0.0,0.0,0.0
+面包甜点,The Buttery,The Buttery,0,其他,0.0,0.0,0.0
+酒吧,Quod Brasserie & Bar,Quod Brasserie & Bar,0,其他,7.1,7.1,7.1
+酒吧,Eagle and Child Pub,Eagle and Child Pub,0,其他,7.2,7.7,7.7
+酒吧,Duke Of Monmouth,Duke Of Monmouth,0,Grandpont,0.0,0.0,0.0
+酒吧,The Chequers,The Chequers,0,,0.0,0.0,0.0
+酒吧,Whistlers,Whistlers,0,其他,0.0,0.0,0.0
+酒吧,The Folly,The Folly,0,其他,0.0,0.0,0.0
+酒吧,The White Horse,The White Horse,0,其他,0.0,0.0,0.0
+酒吧,Rose & Crown,Rose & Crown,0,牛津市界限,0.0,0.0,0.0
+酒吧,The Plough West Hanney,The Plough West Hanney,0,,0.0,0.0,0.0
+酒吧,King s' Arms,King s' Arms,0,,0.0,0.0,0.0
+酒吧,The Queen Victoria,The Queen Victoria,0,,0.0,0.0,0.0
+酒吧,The Horns,The Horns,0,其他,0.0,0.0,0.0
+酒吧,The Rose & Crown,The Rose & Crown,0,其他,0.0,0.0,0.0
+酒吧,The Bell Inn,The Bell Inn,0,,0.0,0.0,0.0
+酒吧,King's Arms,King's Arms,0,其他,0.0,0.0,0.0
+酒吧,Raoul's,Raoul's,0,其他,0.0,0.0,0.0
+酒吧,The Royal Oak,The Royal Oak,0,其他,0.0,0.0,0.0
+酒吧,Portabello Restaurant Bar & Grill,Portabello Restaurant Bar & Grill,0,牛津市界限,0.0,0.0,0.0
+酒吧,Red Lion,Red Lion,0,其他,0.0,0.0,0.0
+酒吧,The Bullnose Morris- Hungry Horse,The Bullnose Morris- Hungry Horse,0,其他,0.0,0.0,0.0
+酒吧,The Catweazle Club,The Catweazle Club,0,其他,0.0,0.0,0.0
+酒吧,Big Society,Big Society,0,其他,0.0,0.0,0.0
+酒吧,Port Mahon,Port Mahon,0,其他,0.0,0.0,0.0
+酒吧,The Bear Tavern,The Bear Tavern,0,其他,0.0,0.0,0.0
+酒吧,All Bar One Oxford,All Bar One Oxford,0,其他,0.0,0.0,0.0
+酒吧,O'Neill's,O'Neill's,0,其他,0.0,0.0,0.0
+酒吧,The Jericho,The Jericho,0,其他,0.0,0.0,0.0
+酒吧,The Angel and Greyhound,The Angel and Greyhound,0,其他,0.0,0.0,0.0
+酒吧,Pinto Lounge,Pinto Lounge,0,其他,0.0,0.0,0.0
+酒吧,Wild lime bar and kitchen,Wild lime bar and kitchen,0,,0.0,0.0,0.0
+酒吧,Bird in Hand,Bird in Hand,0,,0.0,0.0,0.0
+酒吧,The Trout at Tadpole Bridge,The Trout at Tadpole Bridge,0,,0.0,0.0,0.0
+酒吧,Lamb and flag,Lamb and flag,0,其他,0.0,0.0,0.0
+酒吧,Tavern Bar & Courtyard,Tavern Bar & Courtyard,0,其他,0.0,0.0,0.0
+酒吧,The Plough,The Plough,0,,0.0,0.0,0.0
+酒吧,The Dukes Cut,The Dukes Cut,0,其他,0.0,0.0,0.0
+酒吧,StrEAT Cuisine,StrEAT Cuisine,0,其他,0.0,0.0,0.0
+酒吧,The Boat House,The Boat House,0,,0.0,0.0,0.0
+酒吧,The Flower Pot,The Flower Pot,0,其他,0.0,0.0,0.0
+酒吧,Half Moon,Half Moon,0,其他,0.0,0.0,0.0
+酒吧,Lola Lo Oxford,Lola Lo Oxford,0,其他,0.0,0.0,0.0
+酒吧,Far From The Madding Crowd,Far From The Madding Crowd,0,其他,0.0,0.0,0.0
+酒吧,The Royal Standard,The Royal Standard,0,其他,0.0,0.0,0.0
+更多美食,Rice Box,Rice Box,0,其他,7.7,7.7,7.7
+更多美食,Wok and Roll,Wok and Roll,0,其他,6.8,6.8,6.8
+更多美食,The Oxford Kitchen,The Oxford Kitchen,0,牛津市界限,8.4,6.7,8.4
+更多美食,Paddyfields,Paddyfields,0,其他,7.7,7.7,7.7
+更多美食,Posh Fish,Posh Fish,0,其他,7.5,7.5,7.5
+更多美食,LB's,LB's,0,牛津市界限,6.8,7.2,7.2
+更多美食,Huffkins Renowned Bakery and Tearooms,Huffkins Renowned Bakery and Tearooms,0,其他,0.0,0.0,0.0
+更多美食,Al-Shami,Al-Shami,0,其他,7.2,7.2,7.2
+更多美食,Gee's Restaurant,Gee's Restaurant,0,牛津市界限,0.0,0.0,0.0
+更多美食,Brookes Restaurant,Brookes Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Giraffe,Giraffe,0,其他,0.0,0.0,0.0
+更多美食,The Prince of Wales,The Prince of Wales,0,其他,0.0,0.0,0.0
+更多美食,The Chequers Inn,The Chequers Inn,0,,0.0,0.0,0.0
+更多美食,Crumbs Wheatley,Crumbs Wheatley,0,,0.0,0.0,0.0
+更多美食,Cherwell Boathouse Restaurant,Cherwell Boathouse Restaurant,0,牛津市界限,0.0,0.0,0.0
+更多美食,The Garden at The Gardener's Arms,The Garden at The Gardener's Arms,0,牛津市界限,0.0,0.0,0.0
+更多美食,Door 74,Door 74,0,其他,0.0,0.0,0.0
+更多美食,Le Kesh,Le Kesh,0,其他,0.0,0.0,0.0
+更多美食,Joe's Bar & Grill,Joe's Bar & Grill,0,牛津市界限,0.0,0.0,0.0
+更多美食,makan la,makan la,0,其他,0.0,0.0,0.0
+更多美食,Siam House Thai Restaurant,Siam House Thai Restaurant,0,其他,0.0,0.0,0.0
+更多美食,The Horse & Jockey,The Horse & Jockey,0,,0.0,0.0,0.0
+更多美食,The Crown Inn,The Crown Inn,0,其他,0.0,0.0,0.0
+更多美食,The Rickety Press,The Rickety Press,0,其他,0.0,0.0,0.0
+更多美食,Wagamama - Oxford,Wagamama - Oxford,0,其他,0.0,0.0,0.0
+更多美食,Chez Gaston,Chez Gaston,0,牛津市界限,0.0,0.0,0.0
+更多美食,Will's Deli,Will's Deli,0,其他,0.0,0.0,0.0
+更多美食,The Olive Branch,The Olive Branch,0,,0.0,0.0,0.0
+更多美食,The Red Lion,The Red Lion,0,其他,0.0,0.0,0.0
+更多美食,The Ferryboat,The Ferryboat,0,其他,0.0,0.0,0.0
+更多美食,The Plowden Arms,The Plowden Arms,0,,0.0,0.0,0.0
+更多美食,Hassan's Kebab Van,Hassan's Kebab Van,0,其他,0.0,0.0,0.0
+更多美食,Ahmed's Bar B-Q,Ahmed's Bar B-Q,0,其他,0.0,0.0,0.0
+更多美食,Fernando's Cafe,Fernando's Cafe,0,其他,0.0,0.0,0.0
+更多美食,Sandwich Phillers,Sandwich Phillers,0,,0.0,0.0,0.0
+更多美食,The Duck on the Pond,The Duck on the Pond,0,其他,0.0,0.0,0.0
+更多美食,BBQ BITES,BBQ BITES,0,其他,0.0,0.0,0.0
+更多美食,Art Cafe,Art Cafe,0,其他,0.0,0.0,0.0
+更多美食,Annora,Annora,0,其他,0.0,0.0,0.0
+更多美食,Magic Cafe,Magic Cafe,0,其他,0.0,0.0,0.0
+更多美食,The Kazbar,The Kazbar,0,其他,0.0,0.0,0.0
+更多美食,4500 Miles From Delhi,4500 Miles From Delhi,0,其他,0.0,0.0,0.0
+更多美食,Nosebag Restaurant Ltd,Nosebag Restaurant Ltd,0,其他,0.0,0.0,0.0
+更多美食,Turl Street Kitchen,Turl Street Kitchen,0,其他,0.0,0.0,0.0
+更多美食,The Turf Tavern,The Turf Tavern,0,其他,0.0,0.0,0.0
+更多美食,Duke Of Cambridge,Duke Of Cambridge,0,其他,0.0,0.0,0.0
+更多美食,Jacobs Chop House,Jacobs Chop House,0,其他,0.0,0.0,0.0
+更多美食,Branca Restaurant and Bar,Branca Restaurant and Bar,0,其他,0.0,0.0,0.0
+更多美食,Angrid Thai Canteen,Angrid Thai Canteen,0,其他,0.0,0.0,0.0
+更多美食,Cairo Cafe,Cairo Cafe,0,牛津市界限,0.0,0.0,0.0
+更多美食,Oxford Kebab House - Persian Cuisine,Oxford Kebab House - Persian Cuisine,0,其他,0.0,0.0,0.0
+更多美食,Kebab Kidz,Kebab Kidz,0,其他,0.0,0.0,0.0
+更多美食,Hong Kong House,Hong Kong House,0,牛津市界限,0.0,0.0,0.0
+更多美食,Beefeater Grill - The Longwall,Beefeater Grill - The Longwall,0,其他,0.0,0.0,0.0
+更多美食,The Plough Pub & Restaurant,The Plough Pub & Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Easington House,Easington House,0,其他,0.0,0.0,0.0
+更多美食,Isis Farmhouse,Isis Farmhouse,0,其他,0.0,0.0,0.0
+更多美食,Temptations dessert parlour,Temptations dessert parlour,0,其他,0.0,0.0,0.0
+更多美食,Head of the River Restaurant,Head of the River Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Pomegranate kitchen,Pomegranate kitchen,0,其他,0.0,0.0,0.0
+更多美食,Il Principe,Il Principe,0,其他,0.0,0.0,0.0
+更多美食,Meli,Meli,0,其他,0.0,0.0,0.0
+更多美食,Pizza Express,Pizza Express,0,其他,0.0,0.0,0.0
+更多美食,The High Table Brasserie & Bar,The High Table Brasserie & Bar,0,其他,0.0,0.0,0.0
+更多美食,Kebab Kid,Kebab Kid,0,其他,0.0,0.0,0.0
+更多美食,Falafel House,Falafel House,0,其他,0.0,0.0,0.0
+更多美食,Jude the Obscure,Jude the Obscure,0,其他,0.0,0.0,0.0
+更多美食,Cafe Bonjour,Cafe Bonjour,0,其他,0.0,0.0,0.0
+更多美食,Ali's kebab van,Ali's kebab van,0,其他,0.0,0.0,0.0
+更多美食,The natural bread company,The natural bread company,0,其他,0.0,0.0,0.0
+更多美食,Mumu's Gelataria Cafe,Mumu's Gelataria Cafe,0,其他,0.0,0.0,0.0
+更多美食,Florio Bar & Kitchen,Florio Bar & Kitchen,0,牛津市界限,0.0,0.0,0.0
+更多美食,Living Room - Oxford,Living Room - Oxford,0,其他,0.0,0.0,0.0
+更多美食,Fleece,Fleece,0,其他,0.0,0.0,0.0
+更多美食,The Swan Inn Restaurant,The Swan Inn Restaurant,0,,0.0,0.0,0.0
+更多美食,The Spread Eagle,The Spread Eagle,0,,0.0,0.0,0.0
+更多美食,Bell,Bell,0,,0.0,0.0,0.0
+更多美食,The Beer Tree,The Beer Tree,0,,0.0,0.0,0.0
+更多美食,Thai Bangla,Thai Bangla,0,,0.0,0.0,0.0
+更多美食,The Greyhound,The Greyhound,0,,0.0,0.0,0.0
+更多美食,The Fox Inn,The Fox Inn,0,,0.0,0.0,0.0
+更多美食,The Eyston Arms,The Eyston Arms,0,,0.0,0.0,0.0
+更多美食,Peppers Bistro,Peppers Bistro,0,其他,0.0,0.0,0.0
+更多美食,The Angel Restaurant,The Angel Restaurant,0,,0.0,0.0,0.0
+更多美食,The Red Lion,The Red Lion,0,,0.0,0.0,0.0
+更多美食,The Kingham Plough Restaurant,The Kingham Plough Restaurant,0,其他,0.0,0.0,0.0
+更多美食,The George and Dragon,The George and Dragon,0,,0.0,0.0,0.0
+更多美食,Red Lion Pub,Red Lion Pub,0,,0.0,0.0,0.0
+更多美食,The Sir Charles Napier,The Sir Charles Napier,0,其他,0.0,0.0,0.0
+更多美食,The Quince Tree Restaurant,The Quince Tree Restaurant,0,其他,0.0,0.0,0.0
+更多美食,The Merry Miller,The Merry Miller,0,,0.0,0.0,0.0
+更多美食,The Dun Cow,The Dun Cow,0,,0.0,0.0,0.0
+更多美食,Duke of Marlborough,Duke of Marlborough,0,,0.0,0.0,0.0
+更多美食,Olives Delicatessen,Olives Delicatessen,0,其他,0.0,0.0,0.0
+更多美食,Costa Coffee,Costa Coffee,0,其他,0.0,0.0,0.0
+更多美食,D's Caribbean Takeaway,D's Caribbean Takeaway,0,其他,0.0,0.0,0.0
+更多美食,Tsangs Kitchen,Tsangs Kitchen,0,其他,0.0,0.0,0.0
+更多美食,giraffe,giraffe,0,其他,0.0,0.0,0.0
+更多美食,Excelsior cafe,Excelsior cafe,0,其他,0.0,0.0,0.0
+更多美食,Refresh Cafe,Refresh Cafe,0,其他,0.0,0.0,0.0
+更多美食,Najar's Place,Najar's Place,0,其他,0.0,0.0,0.0
+更多美食,Pret a Manger,Pret a Manger,0,其他,0.0,0.0,0.0
+更多美食,Woca Cafe,Woca Cafe,0,其他,0.0,0.0,0.0
+更多美食,The Pie Emporium,The Pie Emporium,0,其他,0.0,0.0,0.0
+更多美食,The Cornish Pasty Shop,The Cornish Pasty Shop,0,其他,0.0,0.0,0.0
+更多美食,La Croissanterie,La Croissanterie,0,其他,0.0,0.0,0.0
+更多美食,Fat Boyz Pizza,Fat Boyz Pizza,0,其他,0.0,0.0,0.0
+更多美食,The Carpenters Arms - Indian Cavern,The Carpenters Arms - Indian Cavern,0,,0.0,0.0,0.0
+更多美食,Oxford Thyme,Oxford Thyme,0,牛津市界限,0.0,0.0,0.0
+更多美食,Mediterranean Fish Bar,Mediterranean Fish Bar,0,Grandpont,0.0,0.0,0.0
+更多美食,Folly Bridge Inn,Folly Bridge Inn,0,Grandpont,0.0,0.0,0.0
+更多美食,Prince Of Wales,Prince Of Wales,0,,0.0,0.0,0.0
+更多美食,Wealh's Restaurant & Bistro,Wealh's Restaurant & Bistro,0,其他,0.0,0.0,0.0
+更多美食,King's Arms,King's Arms,0,其他,0.0,0.0,0.0
+更多美食,The New Inn,The New Inn,0,其他,0.0,0.0,0.0
+更多美食,Domino's Pizza Oxford - Kidlington,Domino's Pizza Oxford - Kidlington,0,其他,0.0,0.0,0.0
+更多美食,Caffino & Istanbul Restaurant,Caffino & Istanbul Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Hi-Lo,Hi-Lo,0,其他,0.0,0.0,0.0
+更多美食,Hobgoblin,Hobgoblin,0,其他,0.0,0.0,0.0
+更多美食,Aangon Indian Restaurant,Aangon Indian Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Camera,Camera,0,其他,0.0,0.0,0.0
+更多美食,KFC,KFC,0,其他,0.0,0.0,0.0
+更多美食,Oxybox2go2,Oxybox2go2,0,其他,0.0,0.0,0.0
+更多美食,Bell and Compass,Bell and Compass,0,其他,0.0,0.0,0.0
+更多美食,Brassey Restaurant,Brassey Restaurant,0,,0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,其他,0.0,0.0,0.0
+更多美食,The Hare at West Hendred,The Hare at West Hendred,0,,0.0,0.0,0.0
+更多美食,The Wobbly Wheel,The Wobbly Wheel,0,其他,0.0,0.0,0.0
+更多美食,PIEMINSTER,PIEMINSTER,0,其他,0.0,0.0,0.0

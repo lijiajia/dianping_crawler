@@ -1,0 +1,53 @@
+西餐,Hippopotamus Restaurant
+西餐,The Fat Duck
+西餐,Natraj Restaurant
+西餐,Boulcott Street Bistro Restaurant
+西餐,Bisque on Bolton Restaurant
+中餐厅,Yangtze Chinese Licensed Restaurant
+中餐厅,Gordon Ramsay Plane Food
+湘菜,欧巴私房菜
+东南亚菜,The Original Thai Restaurant
+东南亚菜,Aroy Thai Express
+东南亚菜,Thai Canium
+海鲜,Ortega Fish Shack
+日韩料理,COHAN
+咖啡厅,Wine Loft
+酒吧,Plum Cafe
+酒吧,D4 on Featherston
+酒吧,J J Murphy & Co
+酒吧,Kelburn Village Pub
+酒吧,the brühaus
+酒吧,Hawthorn Lounge
+酒吧,Muse on Allen
+酒吧,Strathmore Local
+酒吧,The Stadium Bar
+酒吧,Espressoholic
+酒吧,Mighty Mighty
+酒吧,Garden Club
+酒吧,Fork and Brewer
+酒吧,Confidential
+快餐,Mojo Coffee - Gilmer Terrace
+快餐,Kingston Takeaways
+快餐,KFC Kilbirnie
+快餐,Midnight Espresso
+快餐,Meow
+快餐,Mojo Coffee - Summit
+快餐,Caribbean Coffee House
+快餐,The Larder
+快餐,Coucou French Cafe and Restaurant
+快餐,Kapai
+快餐,The Old Bank Arcade & Chambers
+快餐,Michael Fowler Centre
+快餐,The Roxy Cinema
+快餐,Simply Paris
+快餐,Mojo Coffee - Kumutoto
+快餐,Huckleberry Cafe
+快餐,Cafe On Plimmer
+快餐,mojo
+快餐,Gasoline Cafe
+快餐,Little Peckish Cafe
+比萨,Pizza Pomodoro
+比萨,Pizza King
+其他中餐,Regal Chinese Restaurant 豪苑酒楼
+其他中餐,北京楼
+其他中餐,欧巴私房菜

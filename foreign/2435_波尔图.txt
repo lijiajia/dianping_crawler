@@ -1,0 +1,597 @@
+意大利菜,PIMMS Restaurante,PIMMS Restaurante,0,老城,7.4,8.2,8.2
+意大利菜,Terra,Terra,0,杜罗河,0.0,0.0,0.0
+意大利菜,Coiso & Tal,Coiso & Tal,0,老城,0.0,0.0,0.0
+意大利菜,La Ricotta,La Ricotta,0,圣伊尔德方索,0.0,0.0,0.0
+意大利菜,Ginjal Restaurante,Ginjal Restaurante,0,圣伊尔德方索,0.0,0.0,0.0
+意大利菜,Casa da Foz,Casa da Foz,0,杜罗河,0.0,0.0,0.0
+意大利菜,BH,BH,0,杜罗河,0.0,0.0,0.0
+意大利菜,Pizza & Drinks- Casa da Baixa,Pizza & Drinks- Casa da Baixa,0,老城,0.0,0.0,0.0
+意大利菜,Tram Restaurante,Tram Restaurante,0,老城,0.0,0.0,0.0
+意大利菜,A Pasta Ristorante,A Pasta Ristorante,0,老城,0.0,0.0,0.0
+意大利菜,Esse Baixa,Esse Baixa,0,老城,0.0,0.0,0.0
+意大利菜,S Martino Restaurant /Bar / Pizzaria,S Martino Restaurant /Bar / Pizzaria,0,圣伊尔德方索,0.0,0.0,0.0
+意大利菜,Alforno Foz,Alforno Foz,0,杜罗河,0.0,0.0,0.0
+意大利菜,Toscano,Toscano,0,拉马尔德,0.0,0.0,0.0
+意大利菜,Presto Pizza,Presto Pizza,0,拉马尔德,0.0,0.0,0.0
+意大利菜,Pasta Caffe Ristorante Italiana,Pasta Caffe Ristorante Italiana,0,其他,0.0,0.0,0.0
+意大利菜,Pizzaria Maramao,Pizzaria Maramao,0,其他,0.0,0.0,0.0
+意大利菜,Apasta ristorante,Apasta ristorante,0,老城,0.0,0.0,0.0
+意大利菜,La Cantinetta,La Cantinetta,0,圣伊尔德方索,0.0,0.0,0.0
+意大利菜,Restaurante Nhac Nhac,Restaurante Nhac Nhac,0,杜罗河,0.0,0.0,0.0
+法国菜,Restaurante Cafeina,Restaurante Cafeina,0,杜罗河,0.0,0.0,0.0
+法国菜,Les Delices de Clarisse,Les Delices de Clarisse,0,杜罗河,0.0,0.0,0.0
+墨西哥菜,La cantinita,La cantinita,0,老城,0.0,0.0,0.0
+其他西餐,Chez Lapin,Chez Lapin,0,老城,7.2,7.2,7.1
+其他西餐,Jimao Tapas e Vinhos,Jimao Tapas e Vinhos,0,老城,6.8,7.2,7.7
+其他西餐,Brasao Cervejaria,Brasao Cervejaria,0,圣伊尔德方索,7.7,7.7,7.7
+其他西餐,Restaurante Astoria,Restaurante Astoria,0,老城,7.2,7.2,7.7
+其他西餐,Book Restaurante,Book Restaurante,0,老城,6.8,7.2,7.2
+其他西餐,Restaurante Great,Restaurante Great,0,帕拉尼奥斯,7.6,7.6,7.6
+其他西餐,Restaurante Capa Negra II,Restaurante Capa Negra II,0,杜罗河,7.5,6.8,7.2
+其他西餐,bbGourmet Maiorca,bbGourmet Maiorca,0,马萨雷罗斯,5.9,5.9,5.9
+其他西餐,Brasa dos Leoes,Brasa dos Leoes,0,老城,0.0,0.0,0.0
+其他西餐,Rui Paula DOP,Rui Paula DOP,0,老城,0.0,0.0,0.0
+其他西餐,O Restaurante da Alzira,O Restaurante da Alzira,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Churraqueira A Brasa,Restaurante Churraqueira A Brasa,0,老城,0.0,0.0,0.0
+其他西餐,Aurora,Aurora,0,老城,0.0,0.0,0.0
+其他西餐,A Grade,A Grade,0,老城,0.0,0.0,0.0
+其他西餐,Antunes,Antunes,0,,0.0,0.0,0.0
+其他西餐,Pedro Lemos Restaurante,Pedro Lemos Restaurante,0,杜罗河,0.0,0.0,0.0
+其他西餐,"Canelas de Coelho, Porto","Canelas de Coelho, Porto",0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Terra,Terra,0,杜罗河,0.0,0.0,0.0
+其他西餐,Casa Lopes,Casa Lopes,0,老城,0.0,0.0,0.0
+其他西餐,O Comercial,O Comercial,0,老城,0.0,0.0,0.0
+其他西餐,Das Tripas Coracao,Das Tripas Coracao,0,老城,0.0,0.0,0.0
+其他西餐,"Munchie , The Burger Kitchen","Munchie , The Burger Kitchen",0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Casa da Musica,Restaurante Casa da Musica,0,西杜费塔,0.0,0.0,0.0
+其他西餐,ODE Porto Wine House,ODE Porto Wine House,0,老城,0.0,0.0,0.0
+其他西餐,BUGO Art Burgers,BUGO Art Burgers,0,其他,0.0,0.0,0.0
+其他西餐,Casa Agricola,Casa Agricola,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,Papavinhos,Papavinhos,0,老城,0.0,0.0,0.0
+其他西餐,Reitoria,Reitoria,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Maria Rita,Restaurante Maria Rita,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Restaurante Triunfante 2,Restaurante Triunfante 2,0,邦芬,0.0,0.0,0.0
+其他西餐,Avenida Cafe & Restaurante,Avenida Cafe & Restaurante,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Pastelaria Tupi,Pastelaria Tupi,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,New Yorker Bar,New Yorker Bar,0,拉马尔德,0.0,0.0,0.0
+其他西餐,"Acepipe, Porto","Acepipe, Porto",0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Café Restaurant Java,Café Restaurant Java,0,老城,0.0,0.0,0.0
+其他西餐,Taberna Galeria de Paris,Taberna Galeria de Paris,0,老城,0.0,0.0,0.0
+其他西餐,Ernesto,Ernesto,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Nuno Alvares,Restaurante Nuno Alvares,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Clerigos Vinhos & Petiscos,Clerigos Vinhos & Petiscos,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Madureira,Restaurante Madureira,0,邦芬,0.0,0.0,0.0
+其他西餐,Jovianos Grill,Jovianos Grill,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,Khan el Khalili - Casa de Cha Egipcia,Khan el Khalili - Casa de Cha Egipcia,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Moreda,Moreda,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Alicantina,Alicantina,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Cafe Restaurante Piolho,Cafe Restaurante Piolho,0,其他,0.0,0.0,0.0
+其他西餐,Bacalhau,Bacalhau,0,老城,0.0,0.0,0.0
+其他西餐,Douro Wine Flights,Douro Wine Flights,0,老城,0.0,0.0,0.0
+其他西餐,Fish Fixe,Fish Fixe,0,老城,0.0,0.0,0.0
+其他西餐,O Mercado,O Mercado,0,老城,0.0,0.0,0.0
+其他西餐,Cometa Restaurante,Cometa Restaurante,0,老城,0.0,0.0,0.0
+其他西餐,Essencia Lusa Restaurante Tradicional,Essencia Lusa Restaurante Tradicional,0,老城,0.0,0.0,0.0
+其他西餐,Churrasqueira Do Infante,Churrasqueira Do Infante,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Traca,Restaurante Traca,0,老城,0.0,0.0,0.0
+其他西餐,Caravela da Ribeira,Caravela da Ribeira,0,老城,0.0,0.0,0.0
+其他西餐,Taberna Santo Antonio,Taberna Santo Antonio,0,老城,0.0,0.0,0.0
+其他西餐,Adega Tipica Sao Joao,Adega Tipica Sao Joao,0,老城,0.0,0.0,0.0
+其他西餐,O Caracas,O Caracas,0,老城,0.0,0.0,0.0
+其他西餐,Casa de Pasto Adega Ribatejo,Casa de Pasto Adega Ribatejo,0,老城,0.0,0.0,0.0
+其他西餐,Virtudes Restaurante & Wine Bar,Virtudes Restaurante & Wine Bar,0,老城,0.0,0.0,0.0
+其他西餐,Arroz de Forno,Arroz de Forno,0,老城,0.0,0.0,0.0
+其他西餐,Rei dos Galos de Amarante,Rei dos Galos de Amarante,0,老城,0.0,0.0,0.0
+其他西餐,Casa de Santo António,Casa de Santo António,0,老城,0.0,0.0,0.0
+其他西餐,Taberna d'Avó,Taberna d'Avó,0,老城,0.0,0.0,0.0
+其他西餐,Folias de Baco,Folias de Baco,0,老城,0.0,0.0,0.0
+其他西餐,Yours Bistrô,Yours Bistrô,0,老城,0.0,0.0,0.0
+其他西餐,Miss'Opo,Miss'Opo,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Braganca,Restaurante Braganca,0,老城,0.0,0.0,0.0
+其他西餐,Clube 3C,Clube 3C,0,老城,0.0,0.0,0.0
+其他西餐,Casa do Carmo,Casa do Carmo,0,老城,0.0,0.0,0.0
+其他西餐,La Boheme Entre Amis,La Boheme Entre Amis,0,老城,0.0,0.0,0.0
+其他西餐,Ze Bota,Ze Bota,0,老城,0.0,0.0,0.0
+其他西餐,Tascö,Tascö,0,老城,0.0,0.0,0.0
+其他西餐,OPortobar,OPortobar,0,老城,0.0,0.0,0.0
+其他西餐,Solar Moinho de Vento,Solar Moinho de Vento,0,老城,0.0,0.0,0.0
+其他西餐,Lagostim,Lagostim,0,老城,0.0,0.0,0.0
+其他西餐,O Marinheiro,O Marinheiro,0,老城,0.0,0.0,0.0
+其他西餐,Andor Violeta,Andor Violeta,0,老城,0.0,0.0,0.0
+其他西餐,Camafeu,Camafeu,0,老城,0.0,0.0,0.0
+其他西餐,Nabos da Pucara,Nabos da Pucara,0,老城,0.0,0.0,0.0
+其他西餐,Tapas Club Lounge Bar,Tapas Club Lounge Bar,0,老城,0.0,0.0,0.0
+其他西餐,Baixa Burguer,Baixa Burguer,0,老城,0.0,0.0,0.0
+其他西餐,"RUA, Tapas & Music Bar","RUA, Tapas & Music Bar",0,老城,0.0,0.0,0.0
+其他西餐,Museu D'Avo,Museu D'Avo,0,老城,0.0,0.0,0.0
+其他西餐,Patuá,Patuá,0,老城,0.0,0.0,0.0
+其他西餐,Tribeca Jazz Club & Restaurante,Tribeca Jazz Club & Restaurante,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Casa Guedes,Casa Guedes,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,eLeBe Baixa,eLeBe Baixa,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Duas de Letra,Duas de Letra,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Casa Dos pregos Venham Mais 5,Casa Dos pregos Venham Mais 5,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Palco,Palco,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Restaurante Roma,Restaurante Roma,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Cafe Embaixador,Cafe Embaixador,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Flor dos Congregados,Flor dos Congregados,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Costume Bistro,Costume Bistro,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Escondidinho,Escondidinho,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Novo Paris,Novo Paris,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Restaurante Abadia Do Porto,Restaurante Abadia Do Porto,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,O Cacula,O Cacula,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Restaurante Pedro dos Frangos,Restaurante Pedro dos Frangos,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,O Buraco,O Buraco,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,17 Restaurante & Bar,17 Restaurante & Bar,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,confeitaria cunha,confeitaria cunha,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Kardoso,Kardoso,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Taberna Regional Dom Castro,Taberna Regional Dom Castro,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Conga,Conga,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Frida - Cocina Mestiza,Frida - Cocina Mestiza,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Real Hamburgueria Portuguesa,Real Hamburgueria Portuguesa,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Lado B,Lado B,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Churrascao Gaucho,Churrascao Gaucho,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Em Carne Viva,Em Carne Viva,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Olhinhos do Polvo,Olhinhos do Polvo,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Vinhas d Alho,Vinhas d Alho,0,其他,0.0,0.0,0.0
+其他西餐,Postigo do Carvao,Postigo do Carvao,0,其他,0.0,0.0,0.0
+其他西餐,Copos&Cusquices,Copos&Cusquices,0,其他,0.0,0.0,0.0
+其他西餐,Bull&Bear,Bull&Bear,0,其他,0.0,0.0,0.0
+其他西餐,Casinha Sao Joao,Casinha Sao Joao,0,,0.0,0.0,0.0
+其他西餐,Taberna do Barqueiro,Taberna do Barqueiro,0,其他,0.0,0.0,0.0
+其他西餐,Cozinha do manel,Cozinha do manel,0,邦芬,0.0,0.0,0.0
+其他西餐,Casa Aleixo,Casa Aleixo,0,邦芬,0.0,0.0,0.0
+其他西餐,Restaurante Casa Ines,Restaurante Casa Ines,0,邦芬,0.0,0.0,0.0
+其他西餐,Portucale,Portucale,0,邦芬,0.0,0.0,0.0
+其他西餐,Solar D'Alegria,Solar D'Alegria,0,邦芬,0.0,0.0,0.0
+其他西餐,Francesinha Café,Francesinha Café,0,邦芬,0.0,0.0,0.0
+其他西餐,O Pombeiro,O Pombeiro,0,帕拉尼奥斯,0.0,0.0,0.0
+其他西餐,Yuko,Yuko,0,帕拉尼奥斯,0.0,0.0,0.0
+其他西餐,O Paparico,O Paparico,0,帕拉尼奥斯,0.0,0.0,0.0
+其他西餐,A Cozinha Do Martinho,A Cozinha Do Martinho,0,帕拉尼奥斯,0.0,0.0,0.0
+其他西餐,Monchique Bar Restaurante,Monchique Bar Restaurante,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,Grelhador da Boavista,Grelhador da Boavista,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,O Carteiro Restaurante,O Carteiro Restaurante,0,杜罗河,0.0,0.0,0.0
+其他西餐,A Capoeira Restaurante,A Capoeira Restaurante,0,杜罗河,0.0,0.0,0.0
+其他西餐,Foz Velha,Foz Velha,0,杜罗河,0.0,0.0,0.0
+其他西餐,Cepa Peixe,Cepa Peixe,0,杜罗河,0.0,0.0,0.0
+其他西餐,Tentacoes no Prato,Tentacoes no Prato,0,杜罗河,0.0,0.0,0.0
+其他西餐,Cafeina Wine & Tapas,Cafeina Wine & Tapas,0,杜罗河,0.0,0.0,0.0
+其他西餐,Cepa Torta,Cepa Torta,0,杜罗河,0.0,0.0,0.0
+其他西餐,Essencia Restaurante Vegetariano,Essencia Restaurante Vegetariano,0,拉马尔德,0.0,0.0,0.0
+其他西餐,Oporto Mercearia,Oporto Mercearia,0,老城,0.0,0.0,0.0
+其他西餐,Vino Logia,Vino Logia,0,老城,0.0,0.0,0.0
+其他西餐,Retiro Do Jardim Taberna,Retiro Do Jardim Taberna,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Universal,Restaurante Universal,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Marinho's,Marinho's,0,帕拉尼奥斯,0.0,0.0,0.0
+其他西餐,O Bobys,O Bobys,0,老城,0.0,0.0,0.0
+其他西餐,Alma Portuense,Alma Portuense,0,其他,0.0,0.0,0.0
+其他西餐,Casa Mara,Casa Mara,0,其他,0.0,0.0,0.0
+其他西餐,Tasquinha Dos Sabores,Tasquinha Dos Sabores,0,其他,0.0,0.0,0.0
+其他西餐,Biscuit,Biscuit,0,其他,0.0,0.0,0.0
+其他西餐,Trilhos do Tomilho,Trilhos do Tomilho,0,老城,0.0,0.0,0.0
+其他西餐,Casa Filha da Mae Preta,Casa Filha da Mae Preta,0,老城,0.0,0.0,0.0
+其他西餐,O Muro,O Muro,0,老城,0.0,0.0,0.0
+其他西餐,D. Tonho,D. Tonho,0,老城,0.0,0.0,0.0
+其他西餐,Porto Escondido,Porto Escondido,0,老城,0.0,0.0,0.0
+其他西餐,Pipas Bar,Pipas Bar,0,老城,0.0,0.0,0.0
+其他西餐,Azeitoneira do Porto,Azeitoneira do Porto,0,老城,0.0,0.0,0.0
+其他西餐,Taverna do Infante,Taverna do Infante,0,老城,0.0,0.0,0.0
+其他西餐,Cozzza Rio,Cozzza Rio,0,老城,0.0,0.0,0.0
+其他西餐,Verso em Pedra,Verso em Pedra,0,老城,0.0,0.0,0.0
+其他西餐,O Bom Talher,O Bom Talher,0,老城,0.0,0.0,0.0
+其他西餐,Tipico o Fado,Tipico o Fado,0,老城,0.0,0.0,0.0
+其他西餐,Porto a Noite,Porto a Noite,0,老城,0.0,0.0,0.0
+其他西餐,PROVA wine food & pleasure,PROVA wine food & pleasure,0,老城,0.0,0.0,0.0
+其他西餐,Tea Point,Tea Point,0,老城,0.0,0.0,0.0
+其他西餐,Caldeireiros,Caldeireiros,0,老城,0.0,0.0,0.0
+其他西餐,Adega Vila Mea,Adega Vila Mea,0,老城,0.0,0.0,0.0
+其他西餐,Tropical Restaurante - Snack Bar,Tropical Restaurante - Snack Bar,0,老城,0.0,0.0,0.0
+其他西餐,O Rapido,O Rapido,0,老城,0.0,0.0,0.0
+其他西餐,Chic Dream,Chic Dream,0,老城,0.0,0.0,0.0
+其他西餐,Porto & Virgula,Porto & Virgula,0,老城,0.0,0.0,0.0
+其他西餐,Cordoaria,Cordoaria,0,老城,0.0,0.0,0.0
+其他西餐,Cafe e Restaurante Ancora d'Ouro,Cafe e Restaurante Ancora d'Ouro,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante e Churrasqueira Papagaio,Restaurante e Churrasqueira Papagaio,0,老城,0.0,0.0,0.0
+其他西餐,Tapas na Boca,Tapas na Boca,0,老城,0.0,0.0,0.0
+其他西餐,O Almada,O Almada,0,老城,0.0,0.0,0.0
+其他西餐,Aviz,Aviz,0,老城,0.0,0.0,0.0
+其他西餐,Invicto Gastropub,Invicto Gastropub,0,老城,0.0,0.0,0.0
+其他西餐,Café Vitória,Café Vitória,0,老城,0.0,0.0,0.0
+其他西餐,Champanheria da Baixa,Champanheria da Baixa,0,老城,0.0,0.0,0.0
+其他西餐,Restaurant Salmao,Restaurant Salmao,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Cafe Brasil,Cafe Brasil,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Subway,Subway,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Lima 5,Lima 5,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,"Confeitaria Imperio, Lda","Confeitaria Imperio, Lda",0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,D. Rodrigo,D. Rodrigo,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Restaurante Palmeira,Restaurante Palmeira,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,icarai,icarai,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Grande Hotel do Porto,Grande Hotel do Porto,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Restaurante Aquario Marisqueiro,Restaurante Aquario Marisqueiro,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,ZAZA Sandwiches and Bar,ZAZA Sandwiches and Bar,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,A Rampinha,A Rampinha,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Churrasqueira lameiras,Churrasqueira lameiras,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Restaurante Senhor Abade,Restaurante Senhor Abade,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Restaurante Lusiada,Restaurante Lusiada,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,ristorante Casa Paraiso 2 Porto,ristorante Casa Paraiso 2 Porto,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Restaurante Paju,Restaurante Paju,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Bom de Sal,Bom de Sal,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Arquivo,Arquivo,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Cervejaria Diu,Cervejaria Diu,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Rotundaboavista,Rotundaboavista,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Chamico LDA,Chamico LDA,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Confeitaria Petulia,Confeitaria Petulia,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Terrella,Restaurante Terrella,0,其他,0.0,0.0,0.0
+其他西餐,Nova Era Restaurante,Nova Era Restaurante,0,邦芬,0.0,0.0,0.0
+其他西餐,Bar Belga - GABERO,Bar Belga - GABERO,0,邦芬,0.0,0.0,0.0
+其他西餐,Restaurante Manuel Alves,Restaurante Manuel Alves,0,邦芬,0.0,0.0,0.0
+其他西餐,Casa da Picanha,Casa da Picanha,0,邦芬,0.0,0.0,0.0
+其他西餐,Café Imperador,Café Imperador,0,邦芬,0.0,0.0,0.0
+其他西餐,Adega Rio Douro,Adega Rio Douro,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,Restaurante Campo Alegre,Restaurante Campo Alegre,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,Franganito,Franganito,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,Bom sucesso gourmet,Bom sucesso gourmet,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,Restaurante Cervejaria PortoBeer,Restaurante Cervejaria PortoBeer,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,O Fernando,O Fernando,0,杜罗河,0.0,0.0,0.0
+其他西餐,Popular da Foz,Popular da Foz,0,杜罗河,0.0,0.0,0.0
+其他西餐,Melhor Sabor,Melhor Sabor,0,杜罗河,0.0,0.0,0.0
+其他西餐,Prima Dona,Prima Dona,0,杜罗河,0.0,0.0,0.0
+其他西餐,Sensível,Sensível,0,杜罗河,0.0,0.0,0.0
+其他西餐,Restaurante de Serralves,Restaurante de Serralves,0,拉马尔德,0.0,0.0,0.0
+其他西餐,Deck Foz,Deck Foz,0,其他,0.0,0.0,0.0
+其他西餐,Alibaba Kebab Hauss - Shopping Arrabida,Alibaba Kebab Hauss - Shopping Arrabida,0,其他,0.0,0.0,0.0
+其他西餐,Casulinha Rest,Casulinha Rest,0,其他,0.0,0.0,0.0
+其他西餐,Mal Cozinhado,Mal Cozinhado,0,老城,0.0,0.0,0.0
+其他西餐,O Gancho,O Gancho,0,老城,0.0,0.0,0.0
+其他西餐,My God,My God,0,老城,0.0,0.0,0.0
+其他西餐,Taverna BEBEVOS,Taverna BEBEVOS,0,老城,0.0,0.0,0.0
+其他西餐,Adega Conde,Adega Conde,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Silva Bar,Restaurante Silva Bar,0,老城,0.0,0.0,0.0
+其他西餐,Solar do Patio,Solar do Patio,0,老城,0.0,0.0,0.0
+其他西餐,A Parte,A Parte,0,老城,0.0,0.0,0.0
+其他西餐,Alfandegadouro,Alfandegadouro,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Brazuca,Restaurante Brazuca,0,老城,0.0,0.0,0.0
+其他西餐,Paulista,Paulista,0,老城,0.0,0.0,0.0
+其他西餐,Pao Quente Muralhas Do Olival Porto,Pao Quente Muralhas Do Olival Porto,0,老城,0.0,0.0,0.0
+其他西餐,Bufete Marina,Bufete Marina,0,老城,0.0,0.0,0.0
+其他西餐,Max,Max,0,老城,0.0,0.0,0.0
+其他西餐,Pastelaria Bela Torre Restaurante,Pastelaria Bela Torre Restaurante,0,老城,0.0,0.0,0.0
+其他西餐,Confeitaria Primar,Confeitaria Primar,0,老城,0.0,0.0,0.0
+其他西餐,O Calhambeque,O Calhambeque,0,老城,0.0,0.0,0.0
+其他西餐,Estrela D'ouro,Estrela D'ouro,0,老城,0.0,0.0,0.0
+其他西餐,Oli Restaurante,Oli Restaurante,0,老城,0.0,0.0,0.0
+其他西餐,Bokas Bar,Bokas Bar,0,老城,0.0,0.0,0.0
+其他西餐,"Combinacoes Improvaveis, Gourmet & Regional, Lda","Combinacoes Improvaveis, Gourmet & Regional, Lda",0,老城,0.0,0.0,0.0
+其他西餐,Republica Cachorros,Republica Cachorros,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Santos Dias & Monteiro Lda,Santos Dias & Monteiro Lda,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Armazem do Caffe,Armazem do Caffe,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Nova Adega S. Romao,Nova Adega S. Romao,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Restaurante A Regaleira,Restaurante A Regaleira,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,RESTAURANTE ESTRELA DO ORIENTE,RESTAURANTE ESTRELA DO ORIENTE,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Sweet.Moments,Sweet.Moments,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Namura Restaurante Caffebar,Namura Restaurante Caffebar,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Wok to Walk,Wok to Walk,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Casa de 3,Casa de 3,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Restaurante Kool,Restaurante Kool,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Restaurante Snoopy,Restaurante Snoopy,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Restaurante Redondo da Ramada Alta,Restaurante Redondo da Ramada Alta,0,西杜费塔,0.0,0.0,0.0
+其他西餐,|Vintage Restaurante || Club|,|Vintage Restaurante || Club|,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Ritual prova,Ritual prova,0,,0.0,0.0,0.0
+其他西餐,Barba Negra,Barba Negra,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante My Palace,Restaurante My Palace,0,其他,0.0,0.0,0.0
+其他西餐,Cufra Grill,Cufra Grill,0,其他,0.0,0.0,0.0
+其他西餐,A Tendinha do Marques,A Tendinha do Marques,0,,0.0,0.0,0.0
+其他西餐,Restaurante Kim-Kim,Restaurante Kim-Kim,0,,0.0,0.0,0.0
+其他西餐,La Pausa,La Pausa,0,其他,0.0,0.0,0.0
+其他西餐,Casa Louro,Casa Louro,0,,0.0,0.0,0.0
+其他西餐,Rocinha,Rocinha,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Marinho,Cafe Marinho,0,邦芬,0.0,0.0,0.0
+其他西餐,Casa do Parao,Casa do Parao,0,邦芬,0.0,0.0,0.0
+其他西餐,Restaurante ,Restaurante ,0,邦芬,0.0,0.0,0.0
+其他西餐,Churrasqueira Petisqueira do Freixo,Churrasqueira Petisqueira do Freixo,0,邦芬,0.0,0.0,0.0
+其他西餐,Cafe Novo Dia,Cafe Novo Dia,0,邦芬,0.0,0.0,0.0
+其他西餐,Restaurante Casa Carioca,Restaurante Casa Carioca,0,邦芬,0.0,0.0,0.0
+其他西餐,Triumphante II,Triumphante II,0,邦芬,0.0,0.0,0.0
+其他西餐,Restaurante Caetano,Restaurante Caetano,0,邦芬,0.0,0.0,0.0
+其他西餐,Taberna Ze Do Telhado,Taberna Ze Do Telhado,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,Morfeu,Morfeu,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,restaurante Arte,restaurante Arte,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,Leitao Do Ze,Leitao Do Ze,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,Brasserie De L'Entrecote,Brasserie De L'Entrecote,0,杜罗河,0.0,0.0,0.0
+其他西餐,Cervejaria Portugalia,Cervejaria Portugalia,0,杜罗河,0.0,0.0,0.0
+其他西餐,Restaurante Panoramico,Restaurante Panoramico,0,杜罗河,0.0,0.0,0.0
+其他西餐,Restaurante QB,Restaurante QB,0,杜罗河,0.0,0.0,0.0
+其他西餐,Museu dos Presuntos,Museu dos Presuntos,0,杜罗河,0.0,0.0,0.0
+其他西餐,Confeitaria Batista,Confeitaria Batista,0,杜罗河,0.0,0.0,0.0
+其他西餐,Bar tolo meu,Bar tolo meu,0,杜罗河,0.0,0.0,0.0
+其他西餐,Restaurante Novas Geracoes,Restaurante Novas Geracoes,0,杜罗河,0.0,0.0,0.0
+其他西餐,Praia dos Ingleses,Praia dos Ingleses,0,杜罗河,0.0,0.0,0.0
+其他西餐,A Mascara,A Mascara,0,杜罗河,0.0,0.0,0.0
+其他西餐,Varanda da Barra,Varanda da Barra,0,杜罗河,0.0,0.0,0.0
+其他西餐,Terrasse,Terrasse,0,杜罗河,0.0,0.0,0.0
+其他西餐,Restaurante Corte Real,Restaurante Corte Real,0,杜罗河,0.0,0.0,0.0
+其他西餐,Terroir,Terroir,0,杜罗河,0.0,0.0,0.0
+其他西餐,Praia do Homem do Leme,Praia do Homem do Leme,0,杜罗河,0.0,0.0,0.0
+其他西餐,Portugalia,Portugalia,0,拉马尔德,0.0,0.0,0.0
+其他西餐,Restaurante O Farol,Restaurante O Farol,0,其他,0.0,0.0,0.0
+其他西餐,Talao de Controlo N,Talao de Controlo N,0,老城,0.0,0.0,0.0
+其他西餐,Boa Vida,Boa Vida,0,老城,0.0,0.0,0.0
+其他西餐,Armazem do Sal,Armazem do Sal,0,老城,0.0,0.0,0.0
+其他西餐,Peza Arroz,Peza Arroz,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Downing Street,Restaurante Downing Street,0,老城,0.0,0.0,0.0
+其他西餐,Restaurante Douro,Restaurante Douro,0,老城,0.0,0.0,0.0
+其他西餐,Tribuna,Tribuna,0,老城,0.0,0.0,0.0
+其他西餐,Café Ceuta,Café Ceuta,0,老城,0.0,0.0,0.0
+其他西餐,PontoBeer Restaurante Cervejaria,PontoBeer Restaurante Cervejaria,0,,0.0,0.0,0.0
+其他西餐,twins,twins,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante Hellenikon,Restaurante Hellenikon,0,帕拉尼奥斯,0.0,0.0,0.0
+其他西餐,Comer em casa,Comer em casa,0,马萨雷罗斯,0.0,0.0,0.0
+其他西餐,Restaurante Bartolomeo's,Restaurante Bartolomeo's,0,杜罗河,0.0,0.0,0.0
+其他西餐,Petisco.como,Petisco.como,0,西杜费塔,0.0,0.0,0.0
+其他西餐,Papas na Lingua,Papas na Lingua,0,老城,0.0,0.0,0.0
+其他西餐,Maria Sardinha,Maria Sardinha,0,老城,0.0,0.0,0.0
+其他西餐,Baga Wine & Gourmet,Baga Wine & Gourmet,0,老城,0.0,0.0,0.0
+其他西餐,sessenta setenta,sessenta setenta,0,老城,0.0,0.0,0.0
+其他西餐,Manuel Azevedo Garcia,Manuel Azevedo Garcia,0,老城,0.0,0.0,0.0
+其他西餐,Churrasqueira Central Dos Clerigos,Churrasqueira Central Dos Clerigos,0,老城,0.0,0.0,0.0
+其他西餐,Aurora,Aurora,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Zsa Zsa,Zsa Zsa,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,A Brasileira,A Brasileira,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,Casa de Pasto,Casa de Pasto,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,tapas e +,tapas e +,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,The Lingerie Restaurant - Wine Bar & Tapas,The Lingerie Restaurant - Wine Bar & Tapas,0,圣伊尔德方索,0.0,0.0,0.0
+其他西餐,l Fresco Restaurant & Wine Bar,l Fresco Restaurant & Wine Bar,0,其他,0.0,0.0,0.0
+其他西餐,Restaurante O Beco,Restaurante O Beco,0,杜罗河,0.0,0.0,0.0
+中餐,Restaurante Nova China,Restaurante Nova China,0,圣伊尔德方索,7.4,7.4,7.4
+中餐,Restaurante China Amizade,Restaurante China Amizade,0,邦芬,0.0,0.0,0.0
+中餐,Restaurante Zhong Guo,Restaurante Zhong Guo,0,其他,0.0,0.0,0.0
+中餐,King - Long,King - Long,0,圣伊尔德方索,0.0,0.0,0.0
+日韩料理,Ichiban,Ichiban,0,杜罗河,0.0,0.0,0.0
+日韩料理,Kaikou sushi bar,Kaikou sushi bar,0,老城,0.0,0.0,0.0
+日韩料理,Gull,Gull,0,马萨雷罗斯,0.0,0.0,0.0
+日韩料理,Restaurante Medit,Restaurante Medit,0,拉马尔德,0.0,0.0,0.0
+日韩料理,Restaurante Buri,Restaurante Buri,0,马萨雷罗斯,0.0,0.0,0.0
+日韩料理,Genki Sushi Restaurant,Genki Sushi Restaurant,0,拉马尔德,0.0,0.0,0.0
+日韩料理,Sushiana,Sushiana,0,拉马尔德,0.0,0.0,0.0
+日韩料理,Fuji,Fuji,0,圣伊尔德方索,0.0,0.0,0.0
+日韩料理,Katsu Sushi Bar,Katsu Sushi Bar,0,老城,0.0,0.0,0.0
+日韩料理,Teppan - Sushi & Teppanyaki,Teppan - Sushi & Teppanyaki,0,其他,0.0,0.0,0.0
+日韩料理,Kanpai Fusion Sushi,Kanpai Fusion Sushi,0,杜罗河,0.0,0.0,0.0
+日韩料理,Noori,Noori,0,其他,0.0,0.0,0.0
+日韩料理,Baixa 22,Baixa 22,0,老城,0.0,0.0,0.0
+日韩料理,Yes sushi,Yes sushi,0,马萨雷罗斯,0.0,0.0,0.0
+日韩料理,Noa Restaurante Tapas Bar,Noa Restaurante Tapas Bar,0,西杜费塔,0.0,0.0,0.0
+日韩料理,Musaxi,Musaxi,0,帕拉尼奥斯,0.0,0.0,0.0
+日韩料理,Sushihana Sushi-Bar,Sushihana Sushi-Bar,0,拉马尔德,0.0,0.0,0.0
+日韩料理,Nigiri,Nigiri,0,马萨雷罗斯,0.0,0.0,0.0
+日韩料理,Restaurante,Restaurante,0,马萨雷罗斯,0.0,0.0,0.0
+日韩料理,Jesse Sushi & Restaurante,Jesse Sushi & Restaurante,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sushi Place Foz,Sushi Place Foz,0,杜罗河,0.0,0.0,0.0
+更多亚洲菜,Mendi,Mendi,0,马萨雷罗斯,0.0,0.0,0.0
+更多亚洲菜,Gosho,Gosho,0,马萨雷罗斯,0.0,0.0,0.0
+更多亚洲菜,Thali,Thali,0,老城,0.0,0.0,0.0
+更多亚洲菜,Wok Eat,Wok Eat,0,老城,0.0,0.0,0.0
+更多亚洲菜,Kyodai,Kyodai,0,老城,0.0,0.0,0.0
+更多亚洲菜,Restaurante Portugandhi,Restaurante Portugandhi,0,圣伊尔德方索,0.0,0.0,0.0
+更多亚洲菜,Will Restaurante Sushi Bar,Will Restaurante Sushi Bar,0,老城,0.0,0.0,0.0
+更多亚洲菜,O Oriente no Porto,O Oriente no Porto,0,老城,0.0,0.0,0.0
+更多亚洲菜,Sabores do Sebouh,Sabores do Sebouh,0,老城,0.0,0.0,0.0
+更多亚洲菜,Indian Tandoori,Indian Tandoori,0,邦芬,0.0,0.0,0.0
+更多亚洲菜,Joshua's Shoarma (Norte Shopping),Joshua's Shoarma (Norte Shopping),0,其他,0.0,0.0,0.0
+快餐简餐,Wine Quay Bar,Wine Quay Bar,0,老城,0.0,0.0,0.0
+快餐简餐,Bar Ponte Pensil,Bar Ponte Pensil,0,老城,0.0,0.0,0.0
+快餐简餐,Mosaico de Sabores,Mosaico de Sabores,0,老城,0.0,0.0,0.0
+快餐简餐,Porto Bagel Cafe,Porto Bagel Cafe,0,老城,0.0,0.0,0.0
+快餐简餐,Taberna do Largo,Taberna do Largo,0,老城,0.0,0.0,0.0
+快餐简餐,Mercearia Das Flores,Mercearia Das Flores,0,老城,0.0,0.0,0.0
+快餐简餐,McDonalds Porto,McDonalds Porto,0,圣伊尔德方索,0.0,0.0,0.0
+快餐简餐,Essencia Restaurante Vegetariano,Essencia Restaurante Vegetariano,0,拉马尔德,0.0,0.0,0.0
+快餐简餐,Ristorante pizzeria san martino frasellus porto,Ristorante pizzeria san martino frasellus porto,0,杜罗河,0.0,0.0,0.0
+海鲜,旭日升酒楼,旭日升酒楼,0,,7.7,7.7,7.7
+海鲜,Restaurante Astoria,Restaurante Astoria,0,老城,7.2,7.2,7.7
+海鲜,Sardinha Alfandega,Sardinha Alfandega,0,其他,0.0,0.0,0.0
+海鲜,A Marina,A Marina,0,老城,0.0,0.0,0.0
+海鲜,Gambamar,Gambamar,0,马萨雷罗斯,0.0,0.0,0.0
+烧烤,churascaria fogo de chao,churascaria fogo de chao,0,其他,0.0,0.0,0.0
+烧烤,Churrascaria Domingos,Churrascaria Domingos,0,西杜费塔,0.0,0.0,0.0
+烧烤,Pedro dos Frangos,Pedro dos Frangos,0,圣伊尔德方索,0.0,0.0,0.0
+烧烤,Champanheria Da Baixa Bistro,Champanheria Da Baixa Bistro,0,圣伊尔德方索,0.0,0.0,0.0
+烧烤,Cafe Restaurante Celia,Cafe Restaurante Celia,0,西杜费塔,0.0,0.0,0.0
+烧烤,A Tendinha do Marques,A Tendinha do Marques,0,,0.0,0.0,0.0
+烧烤,Dom Brasas,Dom Brasas,0,帕拉尼奥斯,0.0,0.0,0.0
+比萨,O Cacula,O Cacula,0,圣伊尔德方索,0.0,0.0,0.0
+比萨,Pizzeria Meidin,Pizzeria Meidin,0,邦芬,0.0,0.0,0.0
+比萨,Pizzeria Meidin,Pizzeria Meidin,0,西杜费塔,0.0,0.0,0.0
+比萨,Pizza Hut Foz,Pizza Hut Foz,0,杜罗河,0.0,0.0,0.0
+比萨,PontoBeer Restaurante Cervejaria,PontoBeer Restaurante Cervejaria,0,,0.0,0.0,0.0
+咖啡厅,Cafe Majestic,Cafe Majestic,0,圣伊尔德方索,7.2,7.7,7.5
+咖啡厅,As 7 Maravilhas,As 7 Maravilhas,0,老城,0.0,0.0,0.0
+咖啡厅,Leitaria Da Baixa,Leitaria Da Baixa,0,其他,0.0,0.0,0.0
+咖啡厅,Nata Lisboa,Nata Lisboa,0,圣伊尔德方索,0.0,0.0,0.0
+咖啡厅,A Loja dos Pasteis de Chaves,A Loja dos Pasteis de Chaves,0,圣伊尔德方索,0.0,0.0,0.0
+咖啡厅,Leitaria da Quinta do Paço,Leitaria da Quinta do Paço,0,老城,0.0,0.0,0.0
+咖啡厅,Rota do Chá,Rota do Chá,0,老城,0.0,0.0,0.0
+咖啡厅,Maus Habitos,Maus Habitos,0,圣伊尔德方索,0.0,0.0,0.0
+咖啡厅,Cafe Sao Nicolau,Cafe Sao Nicolau,0,老城,0.0,0.0,0.0
+咖啡厅,Livraria da Baixa,Livraria da Baixa,0,老城,0.0,0.0,0.0
+咖啡厅,Pinguim Cafe,Pinguim Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Casa Aberta,Casa Aberta,0,杜罗河,0.0,0.0,0.0
+咖啡厅,Sensível,Sensível,0,杜罗河,0.0,0.0,0.0
+咖啡厅,Almanaque,Almanaque,0,老城,0.0,0.0,0.0
+咖啡厅,Aliadu's,Aliadu's,0,圣伊尔德方索,0.0,0.0,0.0
+咖啡厅,Bar Do Henrique,Bar Do Henrique,0,帕拉尼奥斯,0.0,0.0,0.0
+咖啡厅,Sukiya,Sukiya,0,坎帕纳,0.0,0.0,0.0
+面包甜点,Cafe Progresso,Cafe Progresso,0,老城,0.0,0.0,0.0
+面包甜点,Chá Clube,Chá Clube,0,其他,0.0,0.0,0.0
+面包甜点,O Melhor Bolo De Chocolate Do Mundo,O Melhor Bolo De Chocolate Do Mundo,0,老城,0.0,0.0,0.0
+面包甜点,La Bombarde,La Bombarde,0,杜罗河,0.0,0.0,0.0
+面包甜点,Armazem do Caffe Porto Baixa,Armazem do Caffe Porto Baixa,0,老城,0.0,0.0,0.0
+面包甜点,"Sincelo, Porto","Sincelo, Porto",0,老城,0.0,0.0,0.0
+面包甜点,Farggi Baixa Porto,Farggi Baixa Porto,0,圣伊尔德方索,0.0,0.0,0.0
+面包甜点,Confeitaria Tamisa,Confeitaria Tamisa,0,老城,0.0,0.0,0.0
+面包甜点,Linha de Costumes,Linha de Costumes,0,圣伊尔德方索,0.0,0.0,0.0
+酒吧,Hot Five Jazz & Blues Club,Hot Five Jazz & Blues Club,0,老城,0.0,0.0,0.0
+酒吧,Vinologia,Vinologia,0,拉马尔德,0.0,0.0,0.0
+酒吧,Casta,Casta,0,老城,0.0,0.0,0.0
+酒吧,Pub O Baril,Pub O Baril,0,帕拉尼奥斯,0.0,0.0,0.0
+酒吧,Patuá,Patuá,0,老城,0.0,0.0,0.0
+酒吧,Lado B,Lado B,0,西杜费塔,0.0,0.0,0.0
+酒吧,Galeria de Paris,Galeria de Paris,0,老城,0.0,0.0,0.0
+酒吧,E Pra Poncha,E Pra Poncha,0,老城,0.0,0.0,0.0
+酒吧,Breyner85,Breyner85,0,西杜费塔,0.0,0.0,0.0
+酒吧,A Vindimeira,A Vindimeira,0,老城,0.0,0.0,0.0
+酒吧,We Love Porto Bar & Club,We Love Porto Bar & Club,0,老城,0.0,0.0,0.0
+酒吧,Beira Douro,Beira Douro,0,老城,0.0,0.0,0.0
+酒吧,DON GRILON,DON GRILON,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,O Assador Tipico,O Assador Tipico,0,老城,7.4,7.4,7.4
+更多美食,O Caseiro,O Caseiro,0,圣伊尔德方索,7.5,6.7,7.5
+更多美食,Cafe Guarany,Cafe Guarany,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Confeitaria do Bolhao,Confeitaria do Bolhao,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Churrasqueira America Paraiso Do Churrasco,Churrasqueira America Paraiso Do Churrasco,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Larica,Larica,0,老城,0.0,0.0,0.0
+更多美食,Adega de São Nicolau,Adega de São Nicolau,0,老城,0.0,0.0,0.0
+更多美食,Tropical Burguer Boavista,Tropical Burguer Boavista,0,马萨雷罗斯,0.0,0.0,0.0
+更多美食,Mcdonald's Boavista,Mcdonald's Boavista,0,马萨雷罗斯,0.0,0.0,0.0
+更多美食,Restaurante Madureira's,Restaurante Madureira's,0,西杜费塔,0.0,0.0,0.0
+更多美食,O melhor Rissol do mundo,O melhor Rissol do mundo,0,马萨雷罗斯,0.0,0.0,0.0
+更多美食,Cafe Muralha da Barca,Cafe Muralha da Barca,0,老城,0.0,0.0,0.0
+更多美食,Restaurante Lider,Restaurante Lider,0,帕拉尼奥斯,0.0,0.0,0.0
+更多美食,Petisco Da Liberdade,Petisco Da Liberdade,0,其他,0.0,0.0,0.0
+更多美食,Le Coin,Le Coin,0,马萨雷罗斯,0.0,0.0,0.0
+更多美食,Ora Viva Restaurante,Ora Viva Restaurante,0,老城,0.0,0.0,0.0
+更多美食,Peter Cafe Sport Porto,Peter Cafe Sport Porto,0,老城,0.0,0.0,0.0
+更多美食,Casa da Horta,Casa da Horta,0,老城,0.0,0.0,0.0
+更多美食,Forno Velho,Forno Velho,0,老城,0.0,0.0,0.0
+更多美食,Lsd Largo de Sao Domingos,Lsd Largo de Sao Domingos,0,老城,0.0,0.0,0.0
+更多美食,Novo Mondo,Novo Mondo,0,老城,0.0,0.0,0.0
+更多美食,A Tasquinha,A Tasquinha,0,老城,0.0,0.0,0.0
+更多美食,Padaria Ribeiro Express,Padaria Ribeiro Express,0,老城,0.0,0.0,0.0
+更多美食,Cafe Santiago,Cafe Santiago,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Cafe Santiago F,Cafe Santiago F,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,The Traveller Caffé,The Traveller Caffé,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Amorefreto Gelados & Ca,Amorefreto Gelados & Ca,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Coma,Coma,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Restaurante Bufete Fase,Restaurante Bufete Fase,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Casa Paraíso,Casa Paraíso,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Palacio do Freixo,Palacio do Freixo,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Casa D'Ouro,Restaurante Casa D'Ouro,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Cufra,Restaurante Cufra,0,其他,0.0,0.0,0.0
+更多美食,Oporto Restaurante,Oporto Restaurante,0,其他,0.0,0.0,0.0
+更多美食,Casa Nanda,Casa Nanda,0,邦芬,0.0,0.0,0.0
+更多美食,Casa de Pasto da Palmeira,Casa de Pasto da Palmeira,0,杜罗河,0.0,0.0,0.0
+更多美食,Tavi Confeitaria,Tavi Confeitaria,0,杜罗河,0.0,0.0,0.0
+更多美食,Portarossa,Portarossa,0,杜罗河,0.0,0.0,0.0
+更多美食,Mesa,Mesa,0,杜罗河,0.0,0.0,0.0
+更多美食,Confeitaria Duvalia,Confeitaria Duvalia,0,马萨雷罗斯,0.0,0.0,0.0
+更多美食,Algo Mais Restaurante,Algo Mais Restaurante,0,拉马尔德,0.0,0.0,0.0
+更多美食,O Serrano,O Serrano,0,老城,0.0,0.0,0.0
+更多美食,Cafe do Cais,Cafe do Cais,0,老城,0.0,0.0,0.0
+更多美食,Restaurante Avo Maria,Restaurante Avo Maria,0,老城,0.0,0.0,0.0
+更多美食,Tia Orlanda,Tia Orlanda,0,老城,0.0,0.0,0.0
+更多美食,Casa da Mariquinhas,Casa da Mariquinhas,0,老城,0.0,0.0,0.0
+更多美食,Restaurante Casa Balsas,Restaurante Casa Balsas,0,老城,0.0,0.0,0.0
+更多美食,Cosinha Dos Loios,Cosinha Dos Loios,0,老城,0.0,0.0,0.0
+更多美食,Restaurante Casa Viuva,Restaurante Casa Viuva,0,老城,0.0,0.0,0.0
+更多美食,Liquid Baixa Porto,Liquid Baixa Porto,0,老城,0.0,0.0,0.0
+更多美食,Luso,Luso,0,老城,0.0,0.0,0.0
+更多美食,Churrasqueira Moura,Churrasqueira Moura,0,老城,0.0,0.0,0.0
+更多美食,Restaurante O Golfinho - Porto,Restaurante O Golfinho - Porto,0,老城,0.0,0.0,0.0
+更多美食,Twosushi,Twosushi,0,老城,0.0,0.0,0.0
+更多美食,Pontual,Pontual,0,老城,0.0,0.0,0.0
+更多美食,Quintal Bioshop,Quintal Bioshop,0,西杜费塔,0.0,0.0,0.0
+更多美食,Nakite Restaurante Vegetariano,Nakite Restaurante Vegetariano,0,西杜费塔,0.0,0.0,0.0
+更多美食,Ze De Braga,Ze De Braga,0,西杜费塔,0.0,0.0,0.0
+更多美食,BUuh! e etc,BUuh! e etc,0,西杜费塔,0.0,0.0,0.0
+更多美食,Migalhas,Migalhas,0,西杜费塔,0.0,0.0,0.0
+更多美食,Pimenta & Chocolate,Pimenta & Chocolate,0,西杜费塔,0.0,0.0,0.0
+更多美食,Restaurante Rosa das Iscas,Restaurante Rosa das Iscas,0,西杜费塔,0.0,0.0,0.0
+更多美食,Syngular,Syngular,0,西杜费塔,0.0,0.0,0.0
+更多美食,Cafeteria Pintainho,Cafeteria Pintainho,0,其他,0.0,0.0,0.0
+更多美食,Rogerio do Redondo,Rogerio do Redondo,0,邦芬,0.0,0.0,0.0
+更多美食,Vila Gale Hotels,Vila Gale Hotels,0,邦芬,0.0,0.0,0.0
+更多美食,Murca No Porto,Murca No Porto,0,邦芬,0.0,0.0,0.0
+更多美食,Churrasqueira Cidade,Churrasqueira Cidade,0,帕拉尼奥斯,0.0,0.0,0.0
+更多美食,Cervejaria Galiza,Cervejaria Galiza,0,马萨雷罗斯,0.0,0.0,0.0
+更多美食,Quattro Amici,Quattro Amici,0,马萨雷罗斯,0.0,0.0,0.0
+更多美食,Treze % Restaurante,Treze % Restaurante,0,杜罗河,0.0,0.0,0.0
+更多美食,Al Forno Cafe,Al Forno Cafe,0,杜罗河,0.0,0.0,0.0
+更多美食,BB Villa Restaurante,BB Villa Restaurante,0,拉马尔德,0.0,0.0,0.0
+更多美食,sushinaka,sushinaka,0,拉马尔德,0.0,0.0,0.0
+更多美食,Restaurante Monte Aventino,Restaurante Monte Aventino,0,坎帕纳,0.0,0.0,0.0
+更多美食,Leitao e Coisas,Leitao e Coisas,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Irmao Linos,Restaurante Irmao Linos,0,其他,0.0,0.0,0.0
+更多美食,Restaurante Farol Da Boa Nova,Restaurante Farol Da Boa Nova,0,老城,0.0,0.0,0.0
+更多美食,A Canastra da Ribeira,A Canastra da Ribeira,0,老城,0.0,0.0,0.0
+更多美食,Escondidinho do Barredo,Escondidinho do Barredo,0,老城,0.0,0.0,0.0
+更多美食,RC Mamma Nostra,RC Mamma Nostra,0,老城,0.0,0.0,0.0
+更多美食,Real Feytoria,Real Feytoria,0,老城,0.0,0.0,0.0
+更多美食,Forno Vehlo,Forno Vehlo,0,老城,0.0,0.0,0.0
+更多美食,Cafetaria Da Casa Museu Guerra Junqueiro,Cafetaria Da Casa Museu Guerra Junqueiro,0,老城,0.0,0.0,0.0
+更多美食,Cafe Oasis da Se,Cafe Oasis da Se,0,老城,0.0,0.0,0.0
+更多美食,A Provinciana,A Provinciana,0,老城,0.0,0.0,0.0
+更多美食,Sugarland Candy Bar,Sugarland Candy Bar,0,老城,0.0,0.0,0.0
+更多美食,Clerigos Cafe e Brasserie,Clerigos Cafe e Brasserie,0,老城,0.0,0.0,0.0
+更多美食,Bubbles,Bubbles,0,老城,0.0,0.0,0.0
+更多美食,Real Indiana Baixa Do Porto,Real Indiana Baixa Do Porto,0,老城,0.0,0.0,0.0
+更多美食,Restaurante Romao,Restaurante Romao,0,老城,0.0,0.0,0.0
+更多美食,Bibo Porto,Bibo Porto,0,老城,0.0,0.0,0.0
+更多美食,Picasso,Picasso,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Quanto E Doce,Quanto E Doce,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Neptuno,Neptuno,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Restaurante Sao Paulo,Restaurante Sao Paulo,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Estrella de Oriente,Estrella de Oriente,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Confeitaria Imperio II,Confeitaria Imperio II,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Bico Doce restaurante confeiteria,Bico Doce restaurante confeiteria,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,17,17,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Praca Marques de Pombal,Praca Marques de Pombal,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,O BURAQUINHO,O BURAQUINHO,0,西杜费塔,0.0,0.0,0.0
+更多美食,A Cantarinha Cafe,A Cantarinha Cafe,0,西杜费塔,0.0,0.0,0.0
+更多美食,O Afonso - Snack Bar - Francesinhas,O Afonso - Snack Bar - Francesinhas,0,西杜费塔,0.0,0.0,0.0
+更多美食,Confeitaria Da Lapa,Confeitaria Da Lapa,0,西杜费塔,0.0,0.0,0.0
+更多美食,Capa Verde,Capa Verde,0,西杜费塔,0.0,0.0,0.0
+更多美食,Restaurante Grao D'Ouro,Restaurante Grao D'Ouro,0,西杜费塔,0.0,0.0,0.0
+更多美食,Cafe Orfeu,Cafe Orfeu,0,其他,0.0,0.0,0.0
+更多美食,TOAST,TOAST,0,其他,0.0,0.0,0.0
+更多美食,Restaurante/Snack Bar Abreu,Restaurante/Snack Bar Abreu,0,帕拉尼奥斯,0.0,0.0,0.0
+更多美食,Cenaculo,Cenaculo,0,帕拉尼奥斯,0.0,0.0,0.0
+更多美食,Mcdonald's,Mcdonald's,0,帕拉尼奥斯,0.0,0.0,0.0
+更多美食,Convivio,Convivio,0,马萨雷罗斯,0.0,0.0,0.0
+更多美食,Restaurante Varanda Do Sol,Restaurante Varanda Do Sol,0,杜罗河,0.0,0.0,0.0
+更多美食,Maison du Muselet,Maison du Muselet,0,杜罗河,0.0,0.0,0.0
+更多美食,Menu da Foz,Menu da Foz,0,杜罗河,0.0,0.0,0.0
+更多美食,BAGOS DOURO - FOZ,BAGOS DOURO - FOZ,0,杜罗河,0.0,0.0,0.0
+更多美食,Francesinhas,Francesinhas,0,杜罗河,0.0,0.0,0.0
+更多美食,Gokobe - Sushi Bar / Teppan-yakki,Gokobe - Sushi Bar / Teppan-yakki,0,杜罗河,0.0,0.0,0.0
+更多美食,Ibar,Ibar,0,杜罗河,0.0,0.0,0.0
+更多美食,BRestaurant,BRestaurant,0,拉马尔德,0.0,0.0,0.0
+更多美食,Restaurante Casa Machado,Restaurante Casa Machado,0,坎帕纳,0.0,0.0,0.0
+更多美食,Meet Porto,Meet Porto,0,其他,0.0,0.0,0.0
+更多美食,Restaurante E Residencial Caldeira,Restaurante E Residencial Caldeira,0,老城,0.0,0.0,0.0
+更多美食,Boca do Lobo,Boca do Lobo,0,老城,0.0,0.0,0.0
+更多美食,Máximo Café - Bar,Máximo Café - Bar,0,老城,0.0,0.0,0.0
+更多美食,Restaurante Nova Europa,Restaurante Nova Europa,0,其他,0.0,0.0,0.0
+更多美食,Lusco Fusco Caffe Bar,Lusco Fusco Caffe Bar,0,帕拉尼奥斯,0.0,0.0,0.0
+更多美食,12 Caffe,12 Caffe,0,马萨雷罗斯,0.0,0.0,0.0
+更多美食,Clik,Clik,0,杜罗河,0.0,0.0,0.0
+更多美食,Restaurante Casa Do Tenis,Restaurante Casa Do Tenis,0,拉马尔德,0.0,0.0,0.0
+更多美食,Abbitus,Abbitus,0,拉马尔德,0.0,0.0,0.0
+更多美食,O Assador Porto,O Assador Porto,0,拉马尔德,0.0,0.0,0.0
+更多美食,Presuntaria Antiga,Presuntaria Antiga,0,其他,0.0,0.0,0.0
+更多美食,Trinc'arte,Trinc'arte,0,老城,0.0,0.0,0.0
+更多美食,Atelier Cafe,Atelier Cafe,0,老城,0.0,0.0,0.0
+更多美食,Mister Cafe,Mister Cafe,0,老城,0.0,0.0,0.0
+更多美食,Clube da Gula,Clube da Gula,0,老城,0.0,0.0,0.0
+更多美食,Il caffe di roma,Il caffe di roma,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Magestic Cafe,Magestic Cafe,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Cafe Lounge Casal,Cafe Lounge Casal,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Al Forno Baixa,Al Forno Baixa,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Beringela,Beringela,0,圣伊尔德方索,0.0,0.0,0.0
+更多美食,Artemisia,Artemisia,0,西杜费塔,0.0,0.0,0.0
+更多美食,Le chien qui fume,Le chien qui fume,0,西杜费塔,0.0,0.0,0.0
+更多美食,Franoisco churrasqueira,Franoisco churrasqueira,0,西杜费塔,0.0,0.0,0.0
+更多美食,Triplex,Triplex,0,其他,0.0,0.0,0.0
+更多美食,Real Indiana Edificio Transparente,Real Indiana Edificio Transparente,0,其他,0.0,0.0,0.0
+更多美食,Kyodai Sushi Bar and Terrace,Kyodai Sushi Bar and Terrace,0,马萨雷罗斯,0.0,0.0,0.0
+更多美食,Restaurante Shis,Restaurante Shis,0,杜罗河,0.0,0.0,0.0
+更多美食,Bar restaurante Praia da Luz,Bar restaurante Praia da Luz,0,杜罗河,0.0,0.0,0.0
+更多美食,Restaurante-Bar Corte Real,Restaurante-Bar Corte Real,0,杜罗河,0.0,0.0,0.0

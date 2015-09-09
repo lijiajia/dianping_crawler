@@ -1,0 +1,73 @@
+意大利菜,Bella Italia,Bella Italia,0,,6.9,6.9,6.9
+法国菜,La Terrasse,La Terrasse,0,,6.9,6.9,6.9
+其他西餐,Mash British curry house,Mash British curry house,0,,7.1,7.1,7.1
+其他西餐,Hooters,Hooters,0,,7.1,7.1,7.1
+日韩料理,Maru Botana,Maru Botana,0,,7.2,7.2,7.2
+日韩料理,Maru Botana Nextdoor,Maru Botana Nextdoor,0,,7.0,6.9,6.9
+日韩料理,Osaka,Osaka,0,,7.2,7.2,7.2
+更多亚洲菜,Lotus Neo Thai,Lotus Neo Thai,0,,7.2,7.2,7.2
+快餐简餐,McDonald's,McDonald's,0,,7.2,7.2,7.2
+烧烤,BBQ Town,BBQ Town,0,,7.0,7.0,7.0
+比萨,Kentucky Pizza - Hollywood,Kentucky Pizza - Hollywood,0,,7.0,6.9,6.9
+比萨,Pizza Free,Pizza Free,0,,6.7,6.9,6.9
+咖啡厅,Cafe Tortoni,Cafe Tortoni,0,,7.1,7.5,7.1
+咖啡厅,Havanna Café,Havanna Café,0,,7.1,7.1,7.1
+咖啡厅,Cafe San Juan,Cafe San Juan,0,,7.2,7.2,7.2
+咖啡厅,Army Cafe,Army Cafe,0,,7.1,7.1,7.1
+咖啡厅,Havanna Cafe,Havanna Cafe,0,,7.2,7.2,7.2
+咖啡厅,Dos Escudos Cafe,Dos Escudos Cafe,0,,7.6,7.2,7.2
+咖啡厅,Rio Cafe,Rio Cafe,0,,7.2,7.2,7.2
+咖啡厅,Coffee Town,Coffee Town,0,,7.0,7.1,7.0
+咖啡厅,gout cafe,gout cafe,0,,7.1,7.1,7.1
+咖啡厅,Deli House Cafe,Deli House Cafe,0,,7.0,7.0,7.0
+咖啡厅,Victoria Brown Coffee and Bar,Victoria Brown Coffee and Bar,0,,7.1,7.1,7.1
+咖啡厅,Cafe des Art,Cafe des Art,0,,7.1,7.1,7.1
+咖啡厅,El Farolito de la Costa,El Farolito de la Costa,0,,7.0,7.0,7.0
+咖啡厅,Cafe Relax 3,Cafe Relax 3,0,,7.0,7.0,7.0
+咖啡厅,Cafe San Bernardo,Cafe San Bernardo,0,,6.9,6.9,7.0
+咖啡厅,The Coffee Store,The Coffee Store,0,,7.1,7.1,7.1
+咖啡厅,Lulu Cafe,Lulu Cafe,0,,6.9,6.9,6.9
+咖啡厅,Cafe Ditali,Cafe Ditali,0,,7.1,7.1,7.1
+咖啡厅,Voulez Vous Cafe,Voulez Vous Cafe,0,,7.3,7.1,7.1
+咖啡厅,Patagonia grill alto palermo,Patagonia grill alto palermo,0,,7.1,7.1,6.9
+咖啡厅,Cafe Lattente,Cafe Lattente,0,,7.2,7.2,7.2
+咖啡厅,Cafe Orleans,Cafe Orleans,0,,6.8,7.1,6.8
+咖啡厅,天涯,天涯,0,,0.0,0.0,0.0
+面包甜点,Freddo (Flores店 ),Freddo (Flores店 ),0,其他,7.1,6.8,7.1
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,,7.2,7.2,7.2
+面包甜点,Angelina,Angelina,0,,6.9,6.9,6.9
+酒吧,La Alhambra,La Alhambra,0,,7.1,7.1,6.9
+酒吧,Bar Plaza Dorrego San Telmo,Bar Plaza Dorrego San Telmo,0,,7.2,7.2,7.2
+酒吧,Sushi Club Palermo Hollywood,Sushi Club Palermo Hollywood,0,,7.2,6.8,7.2
+酒吧,Margarita,Margarita,0,,7.1,7.3,7.3
+酒吧,Chaco Bar,Chaco Bar,0,,7.0,7.0,7.0
+酒吧,Sugar Bar,Sugar Bar,0,,7.1,6.8,7.1
+酒吧,El Club De La Milanesa,El Club De La Milanesa,0,,7.1,6.8,7.1
+酒吧,Lucinda Bar,Lucinda Bar,0,,6.9,6.9,6.9
+酒吧,AQP resto bar,AQP resto bar,0,,7.0,7.0,6.9
+酒吧,Pura Vida Juice Bar,Pura Vida Juice Bar,0,,7.0,7.0,7.0
+酒吧,La Posada Parrilla Bar,La Posada Parrilla Bar,0,,7.1,7.1,7.1
+酒吧,Bar La Academia,Bar La Academia,0,,7.1,7.1,7.1
+酒吧,bar restaurante ,bar restaurante ,0,,7.0,6.9,7.0
+酒吧,le bar,le bar,0,,7.1,7.1,7.3
+酒吧,Iruya Resto Bar,Iruya Resto Bar,0,,7.0,7.0,7.0
+酒吧,Club Danes,Club Danes,0,,7.1,7.1,7.1
+酒吧,Oak Bar,Oak Bar,0,,7.1,7.1,7.1
+酒吧,Macondo Bar,Macondo Bar,0,,6.9,6.9,6.9
+酒吧,Bar UnoSieteSieteUno,Bar UnoSieteSieteUno,0,,6.9,7.1,7.0
+酒吧,Florentina,Florentina,0,,6.9,6.9,6.9
+酒吧,Pekin Bar de Pizza,Pekin Bar de Pizza,0,,7.0,6.9,7.0
+酒吧,Mole Bar,Mole Bar,0,,7.0,7.0,7.0
+酒吧,Boris Club de Jazz Resto Bar,Boris Club de Jazz Resto Bar,0,,7.2,7.2,7.2
+酒吧,Omm Bar,Omm Bar,0,,7.1,7.1,7.1
+酒吧,Frank's Bar,Frank's Bar,0,,7.2,7.2,7.7
+酒吧,Club Hungaria,Club Hungaria,0,,7.1,7.1,6.8
+酒吧,Zelaitxo Resto Bar,Zelaitxo Resto Bar,0,,6.9,6.9,6.9
+酒吧,Plan B,Plan B,0,,7.0,7.0,7.0
+酒吧,Gargola Salon Privado,Gargola Salon Privado,0,,7.0,7.0,7.0
+酒吧,Bretannia Bar,Bretannia Bar,0,,6.9,6.9,6.9
+酒吧,Bar portuario,Bar portuario,0,,7.0,6.9,7.0
+酒吧,Jobs Bar,Jobs Bar,0,,6.8,6.8,7.1
+酒吧,Almacen Secreto Club,Almacen Secreto Club,0,,6.8,7.1,6.8
+更多美食,Accademia,Accademia,0,,7.0,7.0,7.0
+更多美食,Little Rose,Little Rose,0,,7.2,7.2,7.2

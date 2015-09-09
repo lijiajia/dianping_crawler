@@ -1,0 +1,122 @@
+中餐,Spices
+西式快餐,California Pizza Kitchen
+西式快餐,Domino's Pizza
+西式快餐,US Pizza
+西式快餐,Pizza Hut
+西式快餐,Pizza Hut
+西式快餐,Pizza By The Bay
+西式快餐,Domino's Pizza
+西式快餐,Domino's Pizza
+西式快餐,Sal's Pizza
+西式快餐,Domino's Pizza
+西式快餐,Domino's Pizza
+西式快餐,Aura
+西式快餐,Pizza Casa Versova
+西式快餐,Juno's Pizza
+咖啡厅,Cosat coffee
+咖啡厅,Salt Water Cafe
+咖啡厅,Costa Coffee
+咖啡厅,Pondicherry Cafe
+咖啡厅,Mahesh Lunch Home
+咖啡厅,Starbucks Coffee
+咖啡厅,Leopold Cafe and Bar
+咖啡厅,Home Town Cafe
+咖啡厅,Gloria Jeans Coffee
+咖啡厅,Cafe Mocha
+咖啡厅,Cafe Moshe's
+咖啡厅,Cafe Chokolade
+咖啡厅,Cafe Coffee day
+咖啡厅,Cafe Coffee Day
+咖啡厅,Cafe Coffee Day
+咖啡厅,Polpo Cafe
+咖啡厅,Jai Hind Lunch Home
+咖啡厅,Cafe Moshe's
+咖啡厅,Green Onion Resturant
+咖啡厅,Costa Coffee
+咖啡厅,Cafe Bean Garu
+咖啡厅,Mocha
+咖啡厅,Cafe Royal
+咖啡厅,Hard Rock Cafe
+咖啡厅,Cafe Noorani
+咖啡厅,Cafe Mondegar
+咖啡厅,Cafe Mysore
+咖啡厅,Cafe B9
+咖啡厅,Hard Rock Cafe
+咖啡厅,Mani's Lunch Home
+咖啡厅,Salt Water Cafe
+咖啡厅,Cafe Coffee Day
+咖啡厅,Cafe Moshe’s
+咖啡厅,Pratap Lunch Home
+咖啡厅,Sundance Cafe
+咖啡厅,Ayyappa Dosa Corner
+咖啡厅,Costa Coffee
+咖啡厅,Jai Hind Lunch Home
+咖啡厅,The Teapot Cafe
+咖啡厅,Cooling Tower Cafe
+咖啡厅,Poornima Cafe
+咖啡厅,Madras Cafe
+咖啡厅,Cafe Mangii
+咖啡厅,Time and Again
+咖啡厅,Sky Cafe Restaurant
+咖啡厅,Modern Cafe
+咖啡厅,Fareed Seekh Kawab Corner
+咖啡厅,Cafe Excelsior
+咖啡厅,Green Court
+咖啡厅,Vinay Health Home
+咖啡厅,Cafe Millitary
+咖啡厅,Costa Coffee
+咖啡厅,Serpis' Wild Side Cafe
+咖啡厅,Modern Lunch Home
+咖啡厅,Cafe Nizari
+咖啡厅,Jaihind Lunch Home
+咖啡厅,Fresh Catch
+咖啡厅,Cafe Madras
+咖啡厅,Home Chef
+咖啡厅,MOCHA
+咖啡厅,Harish Lunch Home
+咖啡厅,Oven Fresh
+咖啡厅,Cafe Mailoo
+咖啡厅,Manis Lunch Home
+咖啡厅,Open House Cafe And Bar
+咖啡厅,Hometown Cafe
+咖啡厅,Dunkin' Donuts
+咖啡厅,Di Bella Coffee
+咖啡厅,The Birdsong Organic Cafe
+咖啡厅,Konkan Cafe
+咖啡厅,Cafe Mangii
+咖啡厅,Cafe Coffee Day
+咖啡厅,Cooling Tower Cafe and Bar
+咖啡厅,cafe fridos
+面包甜点,Sweet Passions
+面包甜点,sk bakery and sk aweets
+面包甜点,Sassanian Bakery
+面包甜点,Le Pain Quotidien
+面包甜点,Hearsch Bakery
+面包甜点,Le Pain Quotidien
+酒吧,Bayview Bar
+酒吧,Shanghai Club
+酒吧,Noodle Bar
+酒吧,F Bar
+酒吧,Mantra Dining Bar
+酒吧,Gokul Bar
+酒吧,Saltwater Bar and Restaurant
+酒吧,Arola - Restaurant and Bar
+酒吧,Sheesha Sky Lounge
+酒吧,The Blue Frog Club
+酒吧,Apoorva Bar and Restaurant
+酒吧,The Eau Bar
+酒吧,Lido Bar
+酒吧,Barista Lavazza Espresso Bar
+酒吧,Barista Lavazza Espresso Bar
+酒吧,Harbour Bar
+酒吧,Ssltwater bar and restaurant
+酒吧,Cha Bar
+酒吧,Kobe Sizzler And Snack Bar
+酒吧,Rasna Punjab Restaurant And Bar
+酒吧,Indigo
+酒吧,Hotel Yograj Bar and Restaurant
+酒吧,F Lounge Diner Bar
+酒吧,The Acres Club
+酒吧,Ruby's Bar and Grill
+酒吧,Indus cocktail bar and tandoor
+酒吧,Uno Bar

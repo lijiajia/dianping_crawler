@@ -1,0 +1,1594 @@
+意大利菜,L'Antica Pizzeria da Michele,L'Antica Pizzeria da Michele,0,医院区域,0.0,0.0,0.0
+意大利菜,Ristorante Novecento,Ristorante Novecento,0,市中心附近,0.0,0.0,0.0
+意大利菜,Franco,Franco,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,Trattoria da Nennella,Trattoria da Nennella,0,滨水区,0.0,0.0,0.0
+意大利菜,Mattozzi Giardino di Napoli,Mattozzi Giardino di Napoli,0,医院区域,0.0,0.0,0.0
+意大利菜,Terrazza Calabritto,Terrazza Calabritto,0,滨水区,0.0,0.0,0.0
+意大利菜,Ristorante Astroni,Ristorante Astroni,0,郊区,0.0,0.0,0.0
+意大利菜,La Cantina dei Lazzari,La Cantina dei Lazzari,0,其他,0.0,0.0,0.0
+意大利菜,'O Barett loungebar,'O Barett loungebar,0,大学区域,0.0,0.0,0.0
+意大利菜,Palepoli,Palepoli,0,滨水区,0.0,0.0,0.0
+意大利菜,A' Tiella E Patrizia E Ninona,A' Tiella E Patrizia E Ninona,0,滨水区,0.0,0.0,0.0
+意大利菜,Pausa Pranzo,Pausa Pranzo,0,詹图尔科,0.0,0.0,0.0
+意大利菜,Pandorino e Torromacco,Pandorino e Torromacco,0,滨水区,0.0,0.0,0.0
+意大利菜,La Bottegaccia,La Bottegaccia,0,大学区域,0.0,0.0,0.0
+意大利菜,Trattoria Da Papa',Trattoria Da Papa',0,其他,0.0,0.0,0.0
+意大利菜,Convivium Colonna by Enoteca Mercadante,Convivium Colonna by Enoteca Mercadante,0,滨水区,0.0,0.0,0.0
+意大利菜,Pasticceria Gelateria Charlot,Pasticceria Gelateria Charlot,0,大学区域,0.0,0.0,0.0
+意大利菜,O cono e Napule,O cono e Napule,0,市中心附近,0.0,0.0,0.0
+意大利菜,Il Chicco D'oro (Mexico),Il Chicco D'oro (Mexico),0,滨水区,0.0,0.0,0.0
+意大利菜,Osteria San Pasquale,Osteria San Pasquale,0,市中心附近,0.0,0.0,0.0
+意大利菜,Momo,Momo,0,滨水区,0.0,0.0,0.0
+意大利菜,11 Gradi,11 Gradi,0,其他,0.0,0.0,0.0
+意大利菜,Pizza Regina,Pizza Regina,0,滨水区,0.0,0.0,0.0
+意大利菜,Monidee Cafe',Monidee Cafe',0,滨水区,0.0,0.0,0.0
+意大利菜,Pa-tata,Pa-tata,0,滨水区,0.0,0.0,0.0
+意大利菜,Rossopomodoro,Rossopomodoro,0,其他,0.0,0.0,0.0
+意大利菜,"La Terrazza dell'Excelsior, Napoli","La Terrazza dell'Excelsior, Napoli",0,滨水区,0.0,0.0,0.0
+意大利菜,Caruso Roof Garden Restaurant,Caruso Roof Garden Restaurant,0,滨水区,0.0,0.0,0.0
+意大利菜,Trattoria dei milanesi,Trattoria dei milanesi,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,Ristorantino dell'Avvocato,Ristorantino dell'Avvocato,0,滨水区,0.0,0.0,0.0
+意大利菜,A' Cucina Ra Casa Mia,A' Cucina Ra Casa Mia,0,滨水区,0.0,0.0,0.0
+意大利菜,Napoli,Napoli,0,滨水区,0.0,0.0,0.0
+意大利菜,PdM 360 Gradi,PdM 360 Gradi,0,滨水区,0.0,0.0,0.0
+意大利菜,Osteria da Antonio,Osteria da Antonio,0,滨水区,0.0,0.0,0.0
+意大利菜,La Cantina del Sole,La Cantina del Sole,0,大学区域,0.0,0.0,0.0
+意大利菜,MAMMINA,MAMMINA,0,其他,0.0,0.0,0.0
+意大利菜,Al 53,Al 53,0,大学区域,0.0,0.0,0.0
+意大利菜,Ampressa Ampress,Ampressa Ampress,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,D'Angeli,D'Angeli,0,医院区域,0.0,0.0,0.0
+意大利菜,Gusto & Gusto,Gusto & Gusto,0,滨水区,0.0,0.0,0.0
+意大利菜,Zazà,Zazà,0,其他,0.0,0.0,0.0
+意大利菜,Da Ciro,Da Ciro,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria San Ferdinando,Trattoria San Ferdinando,0,滨水区,0.0,0.0,0.0
+意大利菜,Arfe,Arfe,0,滨水区,0.0,0.0,0.0
+意大利菜,Marsui,Marsui,0,滨水区,0.0,0.0,0.0
+意大利菜,Antica Pizzeria Leone dal 1923,Antica Pizzeria Leone dal 1923,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria Leone di Russo Alfredo,Pasticceria Leone di Russo Alfredo,0,其他,0.0,0.0,0.0
+意大利菜,Kanathe,Kanathe,0,其他,0.0,0.0,0.0
+意大利菜,SoloPizza ViaManzoni,SoloPizza ViaManzoni,0,其他,0.0,0.0,0.0
+意大利菜,Chapeau Restaurant,Chapeau Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Bar Torrefazione Tico,Bar Torrefazione Tico,0,其他,0.0,0.0,0.0
+意大利菜,Charly Restaurant,Charly Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria da peppe,Trattoria da peppe,0,其他,0.0,0.0,0.0
+意大利菜,Bar Pasticceria Battaglia,Bar Pasticceria Battaglia,0,其他,0.0,0.0,0.0
+意大利菜,Vintage Wine Bar,Vintage Wine Bar,0,其他,0.0,0.0,0.0
+意大利菜,Pescalo & Mangialo,Pescalo & Mangialo,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante e pizzeria Alba,Ristorante e pizzeria Alba,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria Palmarola,Pasticceria Palmarola,0,其他,0.0,0.0,0.0
+意大利菜,Arcobaleno Di Sapori,Arcobaleno Di Sapori,0,其他,0.0,0.0,0.0
+意大利菜,La graffa griffata,La graffa griffata,0,其他,0.0,0.0,0.0
+意大利菜,Villa Del Vecchio Pozzo,Villa Del Vecchio Pozzo,0,郊区,0.0,0.0,0.0
+意大利菜,Mangiapresto,Mangiapresto,0,詹图尔科,0.0,0.0,0.0
+意大利菜,Trattoria Da Alfredo,Trattoria Da Alfredo,0,詹图尔科,0.0,0.0,0.0
+意大利菜,pirone enzo,pirone enzo,0,蒙泰桑托,0.0,0.0,0.0
+意大利菜,Pizzeria Brandi,Pizzeria Brandi,0,滨水区,0.0,0.0,0.0
+意大利菜,Da Michele,Da Michele,0,滨水区,0.0,0.0,0.0
+意大利菜,Pizzeria Bellini,Pizzeria Bellini,0,大学区域,0.0,0.0,0.0
+意大利菜,Pizzeria Da Michele,Pizzeria Da Michele,0,其他,0.0,0.0,0.0
+意大利菜,Mimi Alla Ferrovia,Mimi Alla Ferrovia,0,医院区域,0.0,0.0,0.0
+意大利菜,Vanity Chef,Vanity Chef,0,其他,0.0,0.0,0.0
+意大利菜,O' Cerriglio Trattoria Tipica,O' Cerriglio Trattoria Tipica,0,其他,0.0,0.0,0.0
+意大利菜,Pescheria lo squalo,Pescheria lo squalo,0,其他,0.0,0.0,0.0
+意大利菜,Made in Sud,Made in Sud,0,滨水区,0.0,0.0,0.0
+意大利菜,Trattoria Marino,Trattoria Marino,0,滨水区,0.0,0.0,0.0
+意大利菜,Ristorante Napoli Mia,Ristorante Napoli Mia,0,滨水区,0.0,0.0,0.0
+意大利菜,Cantina San Teodoro,Cantina San Teodoro,0,滨水区,0.0,0.0,0.0
+意大利菜,Da Bruno,Da Bruno,0,滨水区,0.0,0.0,0.0
+意大利菜,Vinarium,Vinarium,0,滨水区,0.0,0.0,0.0
+意大利菜,L'Osteria,L'Osteria,0,滨水区,0.0,0.0,0.0
+意大利菜,Muu Muuzzarella Lounge,Muu Muuzzarella Lounge,0,滨水区,0.0,0.0,0.0
+意大利菜,Mangiafoglia,Mangiafoglia,0,滨水区,0.0,0.0,0.0
+意大利菜,La Taverna del Brigante,La Taverna del Brigante,0,滨水区,0.0,0.0,0.0
+意大利菜,L'Ostricaio,L'Ostricaio,0,滨水区,0.0,0.0,0.0
+意大利菜,Poldo Pub,Poldo Pub,0,滨水区,0.0,0.0,0.0
+意大利菜,Osteria Il Gobbetto,Osteria Il Gobbetto,0,滨水区,0.0,0.0,0.0
+意大利菜,Al Cucciolo Bohemien,Al Cucciolo Bohemien,0,滨水区,0.0,0.0,0.0
+意大利菜,Caffe Mastracchio,Caffe Mastracchio,0,滨水区,0.0,0.0,0.0
+意大利菜,Il Comandante,Il Comandante,0,滨水区,0.0,0.0,0.0
+意大利菜,Bar Tavola Calda Giovannone,Bar Tavola Calda Giovannone,0,滨水区,0.0,0.0,0.0
+意大利菜,Bar Augustus,Bar Augustus,0,滨水区,0.0,0.0,0.0
+意大利菜,Good Food,Good Food,0,滨水区,0.0,0.0,0.0
+意大利菜,Spiedo d'Oro,Spiedo d'Oro,0,滨水区,0.0,0.0,0.0
+意大利菜,Bubble Six,Bubble Six,0,大学区域,0.0,0.0,0.0
+意大利菜,La Tana di Partenope,La Tana di Partenope,0,大学区域,0.0,0.0,0.0
+意大利菜,South 'O Pub,South 'O Pub,0,大学区域,0.0,0.0,0.0
+意大利菜,Trattoria Da Pina,Trattoria Da Pina,0,大学区域,0.0,0.0,0.0
+意大利菜,Ecomesara',Ecomesara',0,大学区域,0.0,0.0,0.0
+意大利菜,Pizzeria & Ristorante Re Ferdinando,Pizzeria & Ristorante Re Ferdinando,0,大学区域,0.0,0.0,0.0
+意大利菜,Pulcinella Bistrò,Pulcinella Bistrò,0,大学区域,0.0,0.0,0.0
+意大利菜,Palazzo Petrucci Ristorante,Palazzo Petrucci Ristorante,0,大学区域,0.0,0.0,0.0
+意大利菜,Sedili Cafe',Sedili Cafe',0,大学区域,0.0,0.0,0.0
+意大利菜,Caffe Mexico,Caffe Mexico,0,大学区域,0.0,0.0,0.0
+意大利菜,Il Cuoco Galante,Il Cuoco Galante,0,大学区域,0.0,0.0,0.0
+意大利菜,L'Enoteca del Grottino,L'Enoteca del Grottino,0,大学区域,0.0,0.0,0.0
+意大利菜,Il Buono il Brutto il Cattivo,Il Buono il Brutto il Cattivo,0,其他,0.0,0.0,0.0
+意大利菜,Nonna Anna,Nonna Anna,0,其他,0.0,0.0,0.0
+意大利菜,Tartufi Che Passione,Tartufi Che Passione,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Vigliena,Pizzeria Vigliena,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante L'Angolo del Gusto,Pizzeria Ristorante L'Angolo del Gusto,0,其他,0.0,0.0,0.0
+意大利菜,Friggitoria Vomero,Friggitoria Vomero,0,其他,0.0,0.0,0.0
+意大利菜,Dalle Figlie Di Iorio,Dalle Figlie Di Iorio,0,其他,0.0,0.0,0.0
+意大利菜,991 Novenoveuno,991 Novenoveuno,0,其他,0.0,0.0,0.0
+意大利菜,Hostaria La Campanella,Hostaria La Campanella,0,其他,0.0,0.0,0.0
+意大利菜,Uno Bis,Uno Bis,0,其他,0.0,0.0,0.0
+意大利菜,Funny Bistrot,Funny Bistrot,0,其他,0.0,0.0,0.0
+意大利菜,Antica osteria del borgo,Antica osteria del borgo,0,其他,0.0,0.0,0.0
+意大利菜,Ciucco e Satollo,Ciucco e Satollo,0,其他,0.0,0.0,0.0
+意大利菜,Bar della Via,Bar della Via,0,其他,0.0,0.0,0.0
+意大利菜,Smoke Ciro,Smoke Ciro,0,其他,0.0,0.0,0.0
+意大利菜,Carmnella,Carmnella,0,其他,0.0,0.0,0.0
+意大利菜,Mondo Pizza,Mondo Pizza,0,其他,0.0,0.0,0.0
+意大利菜,Da Vittorio Presto e Bene,Da Vittorio Presto e Bene,0,其他,0.0,0.0,0.0
+意大利菜,Rosticceria La Padella,Rosticceria La Padella,0,其他,0.0,0.0,0.0
+意大利菜,Carraturo,Carraturo,0,其他,0.0,0.0,0.0
+意大利菜,I Tre Fratelli,I Tre Fratelli,0,其他,0.0,0.0,0.0
+意大利菜,I Locandieri,I Locandieri,0,其他,0.0,0.0,0.0
+意大利菜,Cantina del Gallo,Cantina del Gallo,0,其他,0.0,0.0,0.0
+意大利菜,Friggi Pescheria e' Masaniello,Friggi Pescheria e' Masaniello,0,其他,0.0,0.0,0.0
+意大利菜,Io e Lei,Io e Lei,0,其他,0.0,0.0,0.0
+意大利菜,La Grotta,La Grotta,0,其他,0.0,0.0,0.0
+意大利菜,Le Cantine dei Petrone,Le Cantine dei Petrone,0,其他,0.0,0.0,0.0
+意大利菜,Imperatore S.A.S.,Imperatore S.A.S.,0,其他,0.0,0.0,0.0
+意大利菜,Hosteria Sepe,Hosteria Sepe,0,其他,0.0,0.0,0.0
+意大利菜,Capri naif,Capri naif,0,其他,0.0,0.0,0.0
+意大利菜,Tavernetta Colauri,Tavernetta Colauri,0,其他,0.0,0.0,0.0
+意大利菜,La Pagliarella,La Pagliarella,0,其他,0.0,0.0,0.0
+意大利菜,I Giardini di Bacco,I Giardini di Bacco,0,其他,0.0,0.0,0.0
+意大利菜,Antica Masseria Fioretti,Antica Masseria Fioretti,0,其他,0.0,0.0,0.0
+意大利菜,Agriturismo Tirone,Agriturismo Tirone,0,其他,0.0,0.0,0.0
+意大利菜,Hosteria La vela,Hosteria La vela,0,郊区,0.0,0.0,0.0
+意大利菜,Pub Paulette,Pub Paulette,0,郊区,0.0,0.0,0.0
+意大利菜,Acquolina Ristorante Pizzeria,Acquolina Ristorante Pizzeria,0,郊区,0.0,0.0,0.0
+意大利菜,Osteria E Pizzeria Rugantino,Osteria E Pizzeria Rugantino,0,郊区,0.0,0.0,0.0
+意大利菜,Panificio Rescigno,Panificio Rescigno,0,郊区,0.0,0.0,0.0
+意大利菜,Chapeaux Loungebar,Chapeaux Loungebar,0,郊区,0.0,0.0,0.0
+意大利菜,Fiordipizza,Fiordipizza,0,郊区,0.0,0.0,0.0
+意大利菜,T'appost,T'appost,0,郊区,0.0,0.0,0.0
+意大利菜,Casa Cantoniera,Casa Cantoniera,0,郊区,0.0,0.0,0.0
+意大利菜,Il Gatto e la Volpe,Il Gatto e la Volpe,0,郊区,0.0,0.0,0.0
+意大利菜,DoppioZero - Bar & Tavola Calda,DoppioZero - Bar & Tavola Calda,0,郊区,0.0,0.0,0.0
+意大利菜,Tigela,Tigela,0,郊区,0.0,0.0,0.0
+意大利菜,Ristorante e Pizzeria EurosoldinoNaples,Ristorante e Pizzeria EurosoldinoNaples,0,郊区,0.0,0.0,0.0
+意大利菜,Mascolo Il Panuozzo Italiano,Mascolo Il Panuozzo Italiano,0,郊区,0.0,0.0,0.0
+意大利菜,Vini e Cucina Moccia,Vini e Cucina Moccia,0,郊区,0.0,0.0,0.0
+意大利菜,Al Frustino d'Oro,Al Frustino d'Oro,0,郊区,0.0,0.0,0.0
+意大利菜,Antica Trattoria e Pizzeria Da Donato,Antica Trattoria e Pizzeria Da Donato,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,Vittoria,Vittoria,0,医院区域,0.0,0.0,0.0
+意大利菜,'O Murzill Sapurit,'O Murzill Sapurit,0,医院区域,0.0,0.0,0.0
+意大利菜,Pizzeria 110 e Lode,Pizzeria 110 e Lode,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Il Grotto Pub E Grill,Il Grotto Pub E Grill,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,La Taverna di Toto',La Taverna di Toto',0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Porkis,Porkis,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Pizzeria F.lli Oliva,Pizzeria F.lli Oliva,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Trattoria da Luisa,Trattoria da Luisa,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Tripperia O'Russ,Tripperia O'Russ,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria ,Ristorante Pizzeria ,0,詹图尔科,0.0,0.0,0.0
+意大利菜,Fare Piu,Fare Piu,0,詹图尔科,0.0,0.0,0.0
+意大利菜,Ristorante Hosteria Dei Sapori,Ristorante Hosteria Dei Sapori,0,蒙泰桑托,0.0,0.0,0.0
+意大利菜,Hostaria Mediterraneo,Hostaria Mediterraneo,0,市中心附近,0.0,0.0,0.0
+意大利菜,Rotonda Belvedere,Rotonda Belvedere,0,其他,0.0,0.0,0.0
+意大利菜,Pulcinella a Santa Brigida - Locanda d'autore,Pulcinella a Santa Brigida - Locanda d'autore,0,滨水区,0.0,0.0,0.0
+意大利菜,Villa Capodimonte,Villa Capodimonte,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Cibi Cotti - La Cucina della Nonna,Cibi Cotti - La Cucina della Nonna,0,其他,0.0,0.0,0.0
+意大利菜,Ciro napoli,Ciro napoli,0,其他,0.0,0.0,0.0
+意大利菜,Saturday cafe,Saturday cafe,0,,0.0,0.0,0.0
+意大利菜,Ristorante Bar Pizzeria Ermenegildo,Ristorante Bar Pizzeria Ermenegildo,0,其他,0.0,0.0,0.0
+意大利菜,Mad'in food,Mad'in food,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Da Pasqualino,Pizzeria Da Pasqualino,0,其他,0.0,0.0,0.0
+意大利菜,Al Barcadero,Al Barcadero,0,滨水区,0.0,0.0,0.0
+意大利菜,Canta Napoli,Canta Napoli,0,滨水区,0.0,0.0,0.0
+意大利菜,La Locanda del Nero,La Locanda del Nero,0,滨水区,0.0,0.0,0.0
+意大利菜,Il Basilico,Il Basilico,0,滨水区,0.0,0.0,0.0
+意大利菜,Fresco trattoria,Fresco trattoria,0,滨水区,0.0,0.0,0.0
+意大利菜,Antica Pasticceria Vincenzo Bellavia,Antica Pasticceria Vincenzo Bellavia,0,滨水区,0.0,0.0,0.0
+意大利菜,La Casa Di Ninetta,La Casa Di Ninetta,0,滨水区,0.0,0.0,0.0
+意大利菜,El poble,El poble,0,滨水区,0.0,0.0,0.0
+意大利菜,Il Peperoncino Birichino,Il Peperoncino Birichino,0,滨水区,0.0,0.0,0.0
+意大利菜,Penguin,Penguin,0,滨水区,0.0,0.0,0.0
+意大利菜,Piazza Vittoria S.A.S. Di Ainis Carmine & C.,Piazza Vittoria S.A.S. Di Ainis Carmine & C.,0,滨水区,0.0,0.0,0.0
+意大利菜,La ciofeca cafe,La ciofeca cafe,0,滨水区,0.0,0.0,0.0
+意大利菜,Trattoria Da Peppino,Trattoria Da Peppino,0,滨水区,0.0,0.0,0.0
+意大利菜,Il Cellaio Carni E Vini,Il Cellaio Carni E Vini,0,滨水区,0.0,0.0,0.0
+意大利菜,Clu,Clu,0,滨水区,0.0,0.0,0.0
+意大利菜,Clandalu Art Club,Clandalu Art Club,0,滨水区,0.0,0.0,0.0
+意大利菜,Santarella Wine,Santarella Wine,0,滨水区,0.0,0.0,0.0
+意大利菜,Antica latteria,Antica latteria,0,滨水区,0.0,0.0,0.0
+意大利菜,66 Fusion Bar,66 Fusion Bar,0,滨水区,0.0,0.0,0.0
+意大利菜,Noi Del Manzoni,Noi Del Manzoni,0,滨水区,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Mattozzi,Ristorante Pizzeria Mattozzi,0,滨水区,0.0,0.0,0.0
+意大利菜,Trattoria il Castello,Trattoria il Castello,0,滨水区,0.0,0.0,0.0
+意大利菜,Pizzeria Manfredi,Pizzeria Manfredi,0,滨水区,0.0,0.0,0.0
+意大利菜,Gastronomia Salumeria Casolaro,Gastronomia Salumeria Casolaro,0,滨水区,0.0,0.0,0.0
+意大利菜,Enoteca Mercadante,Enoteca Mercadante,0,滨水区,0.0,0.0,0.0
+意大利菜,Locanda 'Ntretella,Locanda 'Ntretella,0,滨水区,0.0,0.0,0.0
+意大利菜,Ristorante e Pizzeria Eurosoldino,Ristorante e Pizzeria Eurosoldino,0,滨水区,0.0,0.0,0.0
+意大利菜,Pallino,Pallino,0,滨水区,0.0,0.0,0.0
+意大利菜,Hosteria Napoletana,Hosteria Napoletana,0,滨水区,0.0,0.0,0.0
+意大利菜,Pizzeria Nennella,Pizzeria Nennella,0,滨水区,0.0,0.0,0.0
+意大利菜,Pizzeria Da Eduardo,Pizzeria Da Eduardo,0,滨水区,0.0,0.0,0.0
+意大利菜,Lo Spacco,Lo Spacco,0,滨水区,0.0,0.0,0.0
+意大利菜,7 Soldi,7 Soldi,0,滨水区,0.0,0.0,0.0
+意大利菜,Sofi,Sofi,0,滨水区,0.0,0.0,0.0
+意大利菜,Valu',Valu',0,滨水区,0.0,0.0,0.0
+意大利菜,Mandara,Mandara,0,滨水区,0.0,0.0,0.0
+意大利菜,O'Break,O'Break,0,滨水区,0.0,0.0,0.0
+意大利菜,Tripperia Fiorenzano,Tripperia Fiorenzano,0,滨水区,0.0,0.0,0.0
+意大利菜,Da Attilio,Da Attilio,0,滨水区,0.0,0.0,0.0
+意大利菜,La Taverna del Buongustaio,La Taverna del Buongustaio,0,滨水区,0.0,0.0,0.0
+意大利菜,Pizzeria 900,Pizzeria 900,0,滨水区,0.0,0.0,0.0
+意大利菜,Masaniello,Masaniello,0,大学区域,0.0,0.0,0.0
+意大利菜,La Taverna a Santa Chiara,La Taverna a Santa Chiara,0,大学区域,0.0,0.0,0.0
+意大利菜,Trattoria da Alfredo,Trattoria da Alfredo,0,大学区域,0.0,0.0,0.0
+意大利菜,La Figlia del Presidente,La Figlia del Presidente,0,大学区域,0.0,0.0,0.0
+意大利菜,Vyta Napoli,Vyta Napoli,0,大学区域,0.0,0.0,0.0
+意大利菜,Panuozzeria Mascolo in piazza Dante,Panuozzeria Mascolo in piazza Dante,0,大学区域,0.0,0.0,0.0
+意大利菜,Rosticceria Vaco E Presse,Rosticceria Vaco E Presse,0,大学区域,0.0,0.0,0.0
+意大利菜,Friggitoria Verace,Friggitoria Verace,0,大学区域,0.0,0.0,0.0
+意大利菜,Ristorante from1926,Ristorante from1926,0,大学区域,0.0,0.0,0.0
+意大利菜,La Locanda del grifo,La Locanda del grifo,0,大学区域,0.0,0.0,0.0
+意大利菜,La Campagnola,La Campagnola,0,大学区域,0.0,0.0,0.0
+意大利菜,Osteria Da Carmela,Osteria Da Carmela,0,大学区域,0.0,0.0,0.0
+意大利菜,La Cantina di Via Sapienza,La Cantina di Via Sapienza,0,大学区域,0.0,0.0,0.0
+意大利菜,Lombardi 1892,Lombardi 1892,0,大学区域,0.0,0.0,0.0
+意大利菜,Osteria da Vittorio,Osteria da Vittorio,0,其他,0.0,0.0,0.0
+意大利菜,Michele,Michele,0,其他,0.0,0.0,0.0
+意大利菜,Colantuono's Steak and Grill,Colantuono's Steak and Grill,0,其他,0.0,0.0,0.0
+意大利菜,Pizze e Pizze,Pizze e Pizze,0,其他,0.0,0.0,0.0
+意大利菜,Wine 33,Wine 33,0,其他,0.0,0.0,0.0
+意大利菜,Grangusto,Grangusto,0,其他,0.0,0.0,0.0
+意大利菜,Mascagni,Mascagni,0,其他,0.0,0.0,0.0
+意大利菜,Fratelli Caponi,Fratelli Caponi,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Osteria Il Garum,Ristorante Osteria Il Garum,0,其他,0.0,0.0,0.0
+意大利菜,La Cantina Donna Elena,La Cantina Donna Elena,0,其他,0.0,0.0,0.0
+意大利菜,Il MozzaRe,Il MozzaRe,0,其他,0.0,0.0,0.0
+意大利菜,Murphy's Law - Scottish Pub,Murphy's Law - Scottish Pub,0,其他,0.0,0.0,0.0
+意大利菜,Pasticceria - Rosticceria ,Pasticceria - Rosticceria ,0,其他,0.0,0.0,0.0
+意大利菜,Pub McCool's,Pub McCool's,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Vomero,Trattoria Vomero,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Malinconico,Trattoria Malinconico,0,其他,0.0,0.0,0.0
+意大利菜,Leone trattoria pizzeria,Leone trattoria pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,Harnold's Ristopub,Harnold's Ristopub,0,其他,0.0,0.0,0.0
+意大利菜,Victoria Platz,Victoria Platz,0,其他,0.0,0.0,0.0
+意大利菜,Gastronomia La Viennese,Gastronomia La Viennese,0,其他,0.0,0.0,0.0
+意大利菜,Charles de Gaulle,Charles de Gaulle,0,其他,0.0,0.0,0.0
+意大利菜,Don Raffaele,Don Raffaele,0,其他,0.0,0.0,0.0
+意大利菜,Sempre Pizza,Sempre Pizza,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria La Centenaria,Pizzeria La Centenaria,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Vesi,Pizzeria Vesi,0,其他,0.0,0.0,0.0
+意大利菜,Akuna Matata,Akuna Matata,0,其他,0.0,0.0,0.0
+意大利菜,Bar Calise,Bar Calise,0,其他,0.0,0.0,0.0
+意大利菜,Gelateria IL BACIO,Gelateria IL BACIO,0,其他,0.0,0.0,0.0
+意大利菜,Da Sabatino,Da Sabatino,0,,0.0,0.0,0.0
+意大利菜,Il Giglio Rosso,Il Giglio Rosso,0,其他,0.0,0.0,0.0
+意大利菜,Vini&Cucina Dalle Sorelle 1910,Vini&Cucina Dalle Sorelle 1910,0,其他,0.0,0.0,0.0
+意大利菜,Villa Maylea,Villa Maylea,0,,0.0,0.0,0.0
+意大利菜,Rischiatutto,Rischiatutto,0,其他,0.0,0.0,0.0
+意大利菜,El Poble,El Poble,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante la Contessa,Ristorante la Contessa,0,其他,0.0,0.0,0.0
+意大利菜,trattoria del bosco antonietta simonetti,trattoria del bosco antonietta simonetti,0,其他,0.0,0.0,0.0
+意大利菜,Palmieri Iolanda Ristorante Pizzeria,Palmieri Iolanda Ristorante Pizzeria,0,其他,0.0,0.0,0.0
+意大利菜,101 Sensitive Restaurant,101 Sensitive Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,La Vela,La Vela,0,郊区,0.0,0.0,0.0
+意大利菜,Lucrezio Cafe,Lucrezio Cafe,0,郊区,0.0,0.0,0.0
+意大利菜,Giuseppone a mare,Giuseppone a mare,0,郊区,0.0,0.0,0.0
+意大利菜,Villa Vittoria,Villa Vittoria,0,郊区,0.0,0.0,0.0
+意大利菜,O Pisotto (il Pisotto),O Pisotto (il Pisotto),0,郊区,0.0,0.0,0.0
+意大利菜,Da Gennaro,Da Gennaro,0,郊区,0.0,0.0,0.0
+意大利菜,Da Armando,Da Armando,0,郊区,0.0,0.0,0.0
+意大利菜,Restaurant ,Restaurant ,0,郊区,0.0,0.0,0.0
+意大利菜,Fralegio,Fralegio,0,郊区,0.0,0.0,0.0
+意大利菜,Nereidi,Nereidi,0,郊区,0.0,0.0,0.0
+意大利菜,Paradisoblanco,Paradisoblanco,0,郊区,0.0,0.0,0.0
+意大利菜,Trattoria da Vittorio,Trattoria da Vittorio,0,郊区,0.0,0.0,0.0
+意大利菜,Carminuccio a Mergellina,Carminuccio a Mergellina,0,郊区,0.0,0.0,0.0
+意大利菜,Dal Delicato,Dal Delicato,0,郊区,0.0,0.0,0.0
+意大利菜,I Primi,I Primi,0,郊区,0.0,0.0,0.0
+意大利菜,Pub Pizzeria 'La Sosta',Pub Pizzeria 'La Sosta',0,郊区,0.0,0.0,0.0
+意大利菜,Bar Tico Mania,Bar Tico Mania,0,郊区,0.0,0.0,0.0
+意大利菜,La Porchetteria,La Porchetteria,0,郊区,0.0,0.0,0.0
+意大利菜,Squisito 1962,Squisito 1962,0,郊区,0.0,0.0,0.0
+意大利菜,Guest House pub birreria,Guest House pub birreria,0,郊区,0.0,0.0,0.0
+意大利菜,Sale e pepe,Sale e pepe,0,郊区,0.0,0.0,0.0
+意大利菜,Alba da Tommaso,Alba da Tommaso,0,郊区,0.0,0.0,0.0
+意大利菜,Al Saraga,Al Saraga,0,郊区,0.0,0.0,0.0
+意大利菜,Pizzeria Alberto,Pizzeria Alberto,0,郊区,0.0,0.0,0.0
+意大利菜,Vini e Cucina,Vini e Cucina,0,郊区,0.0,0.0,0.0
+意大利菜,Pizzeria da Pasquale,Pizzeria da Pasquale,0,郊区,0.0,0.0,0.0
+意大利菜,Da Mario,Da Mario,0,郊区,0.0,0.0,0.0
+意大利菜,tenuta astroni,tenuta astroni,0,郊区,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Festa,Ristorante Pizzeria Festa,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,Trattoria PP2,Trattoria PP2,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,La Cantina dei Mille,La Cantina dei Mille,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,La Taberna Del Re Leone,La Taberna Del Re Leone,0,医院区域,0.0,0.0,0.0
+意大利菜,Antica Osteria Pisano,Antica Osteria Pisano,0,医院区域,0.0,0.0,0.0
+意大利菜,Pizzeria Borgo Antico di Pasquale Piscopo,Pizzeria Borgo Antico di Pasquale Piscopo,0,医院区域,0.0,0.0,0.0
+意大利菜,Maccaro,Maccaro,0,医院区域,0.0,0.0,0.0
+意大利菜,A Figlia d'o Luciano,A Figlia d'o Luciano,0,医院区域,0.0,0.0,0.0
+意大利菜,La Reggia DI Puglisi,La Reggia DI Puglisi,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Antica pizzeria e trattoria del Leone,Antica pizzeria e trattoria del Leone,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Tarallificio Leopoldo,Tarallificio Leopoldo,0,蒙泰桑托,0.0,0.0,0.0
+意大利菜,Gianni e Genny,Gianni e Genny,0,蒙泰桑托,0.0,0.0,0.0
+意大利菜,Pizzeria E Friggitoria Friggi Friggi,Pizzeria E Friggitoria Friggi Friggi,0,市中心附近,0.0,0.0,0.0
+意大利菜,Lucignolo Bella Pizza - Group Celio,Lucignolo Bella Pizza - Group Celio,0,市中心附近,0.0,0.0,0.0
+意大利菜,Antica Pizzeria dell'Angelo,Antica Pizzeria dell'Angelo,0,圣克罗切,0.0,0.0,0.0
+意大利菜,Pony Express,Pony Express,0,圣克罗切,0.0,0.0,0.0
+意大利菜,Dany's Cafe,Dany's Cafe,0,其他,0.0,0.0,0.0
+意大利菜,La tana dei mascalzoni,La tana dei mascalzoni,0,其他,0.0,0.0,0.0
+意大利菜,Cafferteria Marino,Cafferteria Marino,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Soli 7,Pizzeria Soli 7,0,其他,0.0,0.0,0.0
+意大利菜,Anteus,Anteus,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Al Moiariello,Ristorante Al Moiariello,0,其他,0.0,0.0,0.0
+意大利菜,La Scialuppa,La Scialuppa,0,滨水区,0.0,0.0,0.0
+意大利菜,O' Chiaiese,O' Chiaiese,0,滨水区,0.0,0.0,0.0
+意大利菜,Antonio e Antonio,Antonio e Antonio,0,滨水区,0.0,0.0,0.0
+意大利菜,Ristorante Da Modesta,Ristorante Da Modesta,0,滨水区,0.0,0.0,0.0
+意大利菜,Penelope Pizza Grill,Penelope Pizza Grill,0,滨水区,0.0,0.0,0.0
+意大利菜,Luise,Luise,0,滨水区,0.0,0.0,0.0
+意大利菜,Poseidone,Poseidone,0,滨水区,0.0,0.0,0.0
+意大利菜,Pizza Amore e Fantasia,Pizza Amore e Fantasia,0,滨水区,0.0,0.0,0.0
+意大利菜,Ettore,Ettore,0,滨水区,0.0,0.0,0.0
+意大利菜,Antichi Sapori,Antichi Sapori,0,滨水区,0.0,0.0,0.0
+意大利菜,Attori e Spettatori,Attori e Spettatori,0,滨水区,0.0,0.0,0.0
+意大利菜,Cap'Alice,Cap'Alice,0,滨水区,0.0,0.0,0.0
+意大利菜,Toto Sapore,Toto Sapore,0,滨水区,0.0,0.0,0.0
+意大利菜,Trattoria Pizzeria Nardones,Trattoria Pizzeria Nardones,0,滨水区,0.0,0.0,0.0
+意大利菜,La Passione di Sofi,La Passione di Sofi,0,滨水区,0.0,0.0,0.0
+意大利菜,Nene Bistrot Restaurant,Nene Bistrot Restaurant,0,滨水区,0.0,0.0,0.0
+意大利菜,Caffetteria Medina,Caffetteria Medina,0,滨水区,0.0,0.0,0.0
+意大利菜,Trattoria Medina,Trattoria Medina,0,滨水区,0.0,0.0,0.0
+意大利菜,PePe Nero,PePe Nero,0,滨水区,0.0,0.0,0.0
+意大利菜,Fresco Vomero,Fresco Vomero,0,滨水区,0.0,0.0,0.0
+意大利菜,La Cantina Della Tofa,La Cantina Della Tofa,0,滨水区,0.0,0.0,0.0
+意大利菜,Antica Spaghetteria Francesco e Maria Sofia,Antica Spaghetteria Francesco e Maria Sofia,0,大学区域,0.0,0.0,0.0
+意大利菜,La Campagnola,La Campagnola,0,大学区域,0.0,0.0,0.0
+意大利菜,Toto Sapore,Toto Sapore,0,其他,0.0,0.0,0.0
+意大利菜,South Italy Food,South Italy Food,0,其他,0.0,0.0,0.0
+意大利菜,La Barrique,La Barrique,0,其他,0.0,0.0,0.0
+意大利菜,Mama Eat,Mama Eat,0,其他,0.0,0.0,0.0
+意大利菜,Tonino,Tonino,0,其他,0.0,0.0,0.0
+意大利菜,Il Porto Dei Sapori,Il Porto Dei Sapori,0,其他,0.0,0.0,0.0
+意大利菜,Da Ciro,Da Ciro,0,其他,0.0,0.0,0.0
+意大利菜,Steak Grill,Steak Grill,0,其他,0.0,0.0,0.0
+意大利菜,Wine33,Wine33,0,其他,0.0,0.0,0.0
+意大利菜,Europeo di Mattozzi,Europeo di Mattozzi,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Gorizia,Pizzeria Gorizia,0,其他,0.0,0.0,0.0
+意大利菜,Ambrosino,Ambrosino,0,其他,0.0,0.0,0.0
+意大利菜,Antica Pizzeria del Borgo Orefici,Antica Pizzeria del Borgo Orefici,0,其他,0.0,0.0,0.0
+意大利菜,Vienm a Truva',Vienm a Truva',0,其他,0.0,0.0,0.0
+意大利菜,Arx Cafe',Arx Cafe',0,其他,0.0,0.0,0.0
+意大利菜,Hot Dog City,Hot Dog City,0,其他,0.0,0.0,0.0
+意大利菜,Rosticceria Magia,Rosticceria Magia,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante al Rifugio,Ristorante al Rifugio,0,其他,0.0,0.0,0.0
+意大利菜,Oliva,Oliva,0,其他,0.0,0.0,0.0
+意大利菜,Pub Vecchia America,Pub Vecchia America,0,其他,0.0,0.0,0.0
+意大利菜,Il Re della Focaccia,Il Re della Focaccia,0,其他,0.0,0.0,0.0
+意大利菜,L'Antica Taverna,L'Antica Taverna,0,其他,0.0,0.0,0.0
+意大利菜,Big Pit,Big Pit,0,其他,0.0,0.0,0.0
+意大利菜,Antica Gastronomia Ferrieri,Antica Gastronomia Ferrieri,0,其他,0.0,0.0,0.0
+意大利菜,Lucas Pub,Lucas Pub,0,其他,0.0,0.0,0.0
+意大利菜,Bourbon Street,Bourbon Street,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria pizzeria Donna Carmela,Trattoria pizzeria Donna Carmela,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante La Brace,Ristorante La Brace,0,其他,0.0,0.0,0.0
+意大利菜,Pizzazza,Pizzazza,0,其他,0.0,0.0,0.0
+意大利菜,Cruisè,Cruisè,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria La Lucerna,Ristorante Pizzeria La Lucerna,0,其他,0.0,0.0,0.0
+意大利菜,Don Antonio,Don Antonio,0,,0.0,0.0,0.0
+意大利菜,Fratelli la Bufala,Fratelli la Bufala,0,其他,0.0,0.0,0.0
+意大利菜,Le Castellane,Le Castellane,0,郊区,0.0,0.0,0.0
+意大利菜,Marchese Golosonone,Marchese Golosonone,0,郊区,0.0,0.0,0.0
+意大利菜,Il Marchese Golosone,Il Marchese Golosone,0,郊区,0.0,0.0,0.0
+意大利菜,Pasticceria C.Arfè,Pasticceria C.Arfè,0,郊区,0.0,0.0,0.0
+意大利菜,Magnam,Magnam,0,郊区,0.0,0.0,0.0
+意大利菜,Dieci Pasta e Ceci,Dieci Pasta e Ceci,0,郊区,0.0,0.0,0.0
+意大利菜,Ciro a Mergellina,Ciro a Mergellina,0,郊区,0.0,0.0,0.0
+意大利菜,Mamadou Ristorante steak house e pizzeria,Mamadou Ristorante steak house e pizzeria,0,郊区,0.0,0.0,0.0
+意大利菜,A cammisa do' re',A cammisa do' re',0,郊区,0.0,0.0,0.0
+意大利菜,Trattoria da Emilio,Trattoria da Emilio,0,郊区,0.0,0.0,0.0
+意大利菜,Comm Cucina Mamma,Comm Cucina Mamma,0,郊区,0.0,0.0,0.0
+意大利菜,da pasqualino,da pasqualino,0,郊区,0.0,0.0,0.0
+意大利菜,Il Braciere,Il Braciere,0,郊区,0.0,0.0,0.0
+意大利菜,Masseria del Borro,Masseria del Borro,0,郊区,0.0,0.0,0.0
+意大利菜,Trattoria Avellinese,Trattoria Avellinese,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,Ristorante Caffetteria Iris,Ristorante Caffetteria Iris,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,La Cucina DI Mamma,La Cucina DI Mamma,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Trattoria Pizzeria Scugnizzi Napoletani,Trattoria Pizzeria Scugnizzi Napoletani,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Hosteria pizzeria mareluna,Hosteria pizzeria mareluna,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,A Figlia Do Marenaro,A Figlia Do Marenaro,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Sui Binari del Tram,Sui Binari del Tram,0,詹图尔科,0.0,0.0,0.0
+意大利菜,Il Vigneto,Il Vigneto,0,圣克罗切,0.0,0.0,0.0
+意大利菜,Scioscio,Scioscio,0,滨水区,0.0,0.0,0.0
+意大利菜,Regina Margherita Napoli,Regina Margherita Napoli,0,滨水区,0.0,0.0,0.0
+意大利菜,Vanilla Cafe,Vanilla Cafe,0,滨水区,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Hache',Ristorante Pizzeria Hache',0,滨水区,0.0,0.0,0.0
+意大利菜,Borgo Antico,Borgo Antico,0,滨水区,0.0,0.0,0.0
+意大利菜,A' Tiella,A' Tiella,0,滨水区,0.0,0.0,0.0
+意大利菜,La Garconne,La Garconne,0,滨水区,0.0,0.0,0.0
+意大利菜,Glamour Wine lounge bar Restaurant,Glamour Wine lounge bar Restaurant,0,滨水区,0.0,0.0,0.0
+意大利菜,L.U.I.S.E.,L.U.I.S.E.,0,滨水区,0.0,0.0,0.0
+意大利菜,Il Re Gusto,Il Re Gusto,0,滨水区,0.0,0.0,0.0
+意大利菜,Rossosapore,Rossosapore,0,滨水区,0.0,0.0,0.0
+意大利菜,Il Ritrovo,Il Ritrovo,0,滨水区,0.0,0.0,0.0
+意大利菜,"Caffe Borbone, Napels","Caffe Borbone, Napels",0,滨水区,0.0,0.0,0.0
+意大利菜,Ristorante Salone dei Principi,Ristorante Salone dei Principi,0,滨水区,0.0,0.0,0.0
+意大利菜,Pizza e Baba,Pizza e Baba,0,滨水区,0.0,0.0,0.0
+意大利菜,Locanda don vincenzo AMBROSINO,Locanda don vincenzo AMBROSINO,0,滨水区,0.0,0.0,0.0
+意大利菜,Renzo & Lucia Restaurant,Renzo & Lucia Restaurant,0,滨水区,0.0,0.0,0.0
+意大利菜,Armando Scaturchio,Armando Scaturchio,0,滨水区,0.0,0.0,0.0
+意大利菜,Il Cerasiello,Il Cerasiello,0,大学区域,0.0,0.0,0.0
+意大利菜,E Io Pago,E Io Pago,0,大学区域,0.0,0.0,0.0
+意大利菜,Ristorante Da Gigino,Ristorante Da Gigino,0,大学区域,0.0,0.0,0.0
+意大利菜,Cafetteria San Domenico,Cafetteria San Domenico,0,大学区域,0.0,0.0,0.0
+意大利菜,Antica Pizzeria Port'Alba,Antica Pizzeria Port'Alba,0,大学区域,0.0,0.0,0.0
+意大利菜,Napule è,Napule è,0,大学区域,0.0,0.0,0.0
+意大利菜,Trattoria da Fortuna,Trattoria da Fortuna,0,大学区域,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Vesi,Ristorante Pizzeria Vesi,0,大学区域,0.0,0.0,0.0
+意大利菜,La Tiella,La Tiella,0,其他,0.0,0.0,0.0
+意大利菜,Da Don Giovanni,Da Don Giovanni,0,其他,0.0,0.0,0.0
+意大利菜,Naxos Pub,Naxos Pub,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Caprese,Trattoria Caprese,0,其他,0.0,0.0,0.0
+意大利菜,Azar Cafe,Azar Cafe,0,其他,0.0,0.0,0.0
+意大利菜,Archivio Storico,Archivio Storico,0,其他,0.0,0.0,0.0
+意大利菜,Irish Pub Vanvitelli,Irish Pub Vanvitelli,0,其他,0.0,0.0,0.0
+意大利菜,Vintage,Vintage,0,其他,0.0,0.0,0.0
+意大利菜,Buatta,Buatta,0,其他,0.0,0.0,0.0
+意大利菜,La Carnalona,La Carnalona,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Tredici,Trattoria Tredici,0,其他,0.0,0.0,0.0
+意大利菜,Ipub,Ipub,0,其他,0.0,0.0,0.0
+意大利菜,Murzillo,Murzillo,0,其他,0.0,0.0,0.0
+意大利菜,Cuopp' House,Cuopp' House,0,其他,0.0,0.0,0.0
+意大利菜,La Bettola,La Bettola,0,其他,0.0,0.0,0.0
+意大利菜,Gran Caffe' Novara,Gran Caffe' Novara,0,其他,0.0,0.0,0.0
+意大利菜,AVocedomare,AVocedomare,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante al bellini napoli,Ristorante al bellini napoli,0,其他,0.0,0.0,0.0
+意大利菜,Le Votiche club,Le Votiche club,0,其他,0.0,0.0,0.0
+意大利菜,Lo Sgonfiotto,Lo Sgonfiotto,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Al Terrazzo,Pizzeria Al Terrazzo,0,其他,0.0,0.0,0.0
+意大利菜,Napoli Napoli,Napoli Napoli,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Villa Anna,Ristorante Pizzeria Villa Anna,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Da Sofia,Pizzeria Da Sofia,0,其他,0.0,0.0,0.0
+意大利菜,Ciao Restaurant,Ciao Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Taverna dei Gaga,Taverna dei Gaga,0,其他,0.0,0.0,0.0
+意大利菜,O' Cancellino,O' Cancellino,0,其他,0.0,0.0,0.0
+意大利菜,Il lazzaretto,Il lazzaretto,0,郊区,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria El Sombrero,Ristorante Pizzeria El Sombrero,0,郊区,0.0,0.0,0.0
+意大利菜,Bar Del Mare,Bar Del Mare,0,郊区,0.0,0.0,0.0
+意大利菜,Pizzeria Giulia,Pizzeria Giulia,0,郊区,0.0,0.0,0.0
+意大利菜,Le 2 Perle,Le 2 Perle,0,郊区,0.0,0.0,0.0
+意大利菜,La Brasserie Ristomusic,La Brasserie Ristomusic,0,郊区,0.0,0.0,0.0
+意大利菜,Bella Figliola,Bella Figliola,0,郊区,0.0,0.0,0.0
+意大利菜,Virgin Active Cafe,Virgin Active Cafe,0,郊区,0.0,0.0,0.0
+意大利菜,Mc. Gregor Chicken,Mc. Gregor Chicken,0,郊区,0.0,0.0,0.0
+意大利菜,La Bistecca,La Bistecca,0,郊区,0.0,0.0,0.0
+意大利菜,Al Caminetto,Al Caminetto,0,郊区,0.0,0.0,0.0
+意大利菜,ristorante pizzeria LO SQUALO,ristorante pizzeria LO SQUALO,0,郊区,0.0,0.0,0.0
+意大利菜,Chalet Primavera,Chalet Primavera,0,郊区,0.0,0.0,0.0
+意大利菜,A Taverna E l'Astice,A Taverna E l'Astice,0,郊区,0.0,0.0,0.0
+意大利菜,Fratelli La Bufala Mergellina,Fratelli La Bufala Mergellina,0,郊区,0.0,0.0,0.0
+意大利菜,Veliero Tortuga,Veliero Tortuga,0,郊区,0.0,0.0,0.0
+意大利菜,La Capannina Rossa Sas DI Moccia Raffaele E C,La Capannina Rossa Sas DI Moccia Raffaele E C,0,郊区,0.0,0.0,0.0
+意大利菜,Festa & C,Festa & C,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,SARRACINO Risto Pub,SARRACINO Risto Pub,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,Rosellino Trattoria Pizzeria,Rosellino Trattoria Pizzeria,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+意大利菜,Antica Pizzeria Donna Regina,Antica Pizzeria Donna Regina,0,医院区域,0.0,0.0,0.0
+意大利菜,Pasticceria Primavera,Pasticceria Primavera,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,La poesia,La poesia,0,帕多瓦植物园,0.0,0.0,0.0
+意大利菜,Frittole,Frittole,0,圣克罗切,0.0,0.0,0.0
+意大利菜,La Luna,La Luna,0,其他,0.0,0.0,0.0
+意大利菜,O'Chiaiese,O'Chiaiese,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Gino Sorbillo,Pizzeria Gino Sorbillo,0,,0.0,0.0,0.0
+意大利菜,Taverna Ho La La,Taverna Ho La La,0,,0.0,0.0,0.0
+意大利菜,Pizz Amore e Fantasia,Pizz Amore e Fantasia,0,,0.0,0.0,0.0
+意大利菜,Il Re Pollo,Il Re Pollo,0,,0.0,0.0,0.0
+意大利菜,Sauth Italy,Sauth Italy,0,,0.0,0.0,0.0
+意大利菜,Bavaro,Bavaro,0,,0.0,0.0,0.0
+意大利菜,Sole Ricevimenti,Sole Ricevimenti,0,,0.0,0.0,0.0
+意大利菜,La Graffetteria,La Graffetteria,0,,0.0,0.0,0.0
+意大利菜,Oltremare S.A.S,Oltremare S.A.S,0,,0.0,0.0,0.0
+意大利菜,PA. TA. PA,PA. TA. PA,0,,0.0,0.0,0.0
+意大利菜,Bar Birillo D Oro Centro Scommesse,Bar Birillo D Oro Centro Scommesse,0,,0.0,0.0,0.0
+意大利菜,Much More,Much More,0,滨水区,0.0,0.0,0.0
+意大利菜,Tommasino s.r.l.,Tommasino s.r.l.,0,大学区域,0.0,0.0,0.0
+意大利菜,Pizzeria Ristorante Fratelli Aiello,Pizzeria Ristorante Fratelli Aiello,0,大学区域,0.0,0.0,0.0
+意大利菜,Trattoria 69,Trattoria 69,0,其他,0.0,0.0,0.0
+意大利菜,Pizzaioli Napoletani,Pizzaioli Napoletani,0,其他,0.0,0.0,0.0
+意大利菜,"Obika Mozzarella Bar, Capodichino","Obika Mozzarella Bar, Capodichino",0,其他,0.0,0.0,0.0
+意大利菜,Frittole,Frittole,0,圣克罗切,0.0,0.0,0.0
+意大利菜,Fratelli Gagliano SAS,Fratelli Gagliano SAS,0,,0.0,0.0,0.0
+意大利菜,La Locanda Degli Zii S.A.S.,La Locanda Degli Zii S.A.S.,0,,0.0,0.0,0.0
+意大利菜,Villa Cilento,Villa Cilento,0,,0.0,0.0,0.0
+意大利菜,La Romantica Pasticceria,La Romantica Pasticceria,0,,0.0,0.0,0.0
+意大利菜,L amico Pastaio,L amico Pastaio,0,,0.0,0.0,0.0
+意大利菜,Trattoria De Rosa,Trattoria De Rosa,0,,0.0,0.0,0.0
+意大利菜,Bar Passalacqua Di Passalacqua Claudio,Bar Passalacqua Di Passalacqua Claudio,0,,0.0,0.0,0.0
+意大利菜,Pizzeria Scorza Ciro,Pizzeria Scorza Ciro,0,,0.0,0.0,0.0
+意大利菜,la tana degli artisti,la tana degli artisti,0,,0.0,0.0,0.0
+意大利菜,Il Nuovo Vesuvio,Il Nuovo Vesuvio,0,,0.0,0.0,0.0
+意大利菜,Koicos,Koicos,0,,0.0,0.0,0.0
+意大利菜,Ristorante Oste oscuro,Ristorante Oste oscuro,0,,0.0,0.0,0.0
+意大利菜,Galleria Toffini Gourmet Restaurant,Galleria Toffini Gourmet Restaurant,0,,0.0,0.0,0.0
+意大利菜,Madame Bonbon,Madame Bonbon,0,,0.0,0.0,0.0
+意大利菜,Pasticceria Al Paladino Di Palladino Roberto,Pasticceria Al Paladino Di Palladino Roberto,0,,0.0,0.0,0.0
+意大利菜,Mc Offex,Mc Offex,0,,0.0,0.0,0.0
+意大利菜,Le Millionaire 2 SRL,Le Millionaire 2 SRL,0,,0.0,0.0,0.0
+意大利菜,Pizzeria Tonino,Pizzeria Tonino,0,,0.0,0.0,0.0
+意大利菜,Villa Hertha,Villa Hertha,0,,0.0,0.0,0.0
+意大利菜,Old Food Ball,Old Food Ball,0,,0.0,0.0,0.0
+意大利菜,Fondazione Domenico Colasanto,Fondazione Domenico Colasanto,0,,0.0,0.0,0.0
+意大利菜,da Massimo e Salvatore,da Massimo e Salvatore,0,,0.0,0.0,0.0
+意大利菜,Maluan Lounge Cafè,Maluan Lounge Cafè,0,,0.0,0.0,0.0
+意大利菜,Pasticceria Florence,Pasticceria Florence,0,,0.0,0.0,0.0
+意大利菜,Cooking S.R.L.,Cooking S.R.L.,0,,0.0,0.0,0.0
+意大利菜,Arts Cafe Napoli,Arts Cafe Napoli,0,,0.0,0.0,0.0
+意大利菜,Maninà,Maninà,0,,0.0,0.0,0.0
+意大利菜,Pizzeria Ma.Vi. Srl,Pizzeria Ma.Vi. Srl,0,,0.0,0.0,0.0
+意大利菜,mate,mate,0,,0.0,0.0,0.0
+意大利菜,La Ciotola,La Ciotola,0,,0.0,0.0,0.0
+意大利菜,Da restaurant,Da restaurant,0,,0.0,0.0,0.0
+意大利菜,DRestaurant,DRestaurant,0,,0.0,0.0,0.0
+意大利菜,Cordon Bleu,Cordon Bleu,0,,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria,Ristorante Pizzeria,0,,0.0,0.0,0.0
+意大利菜,aerogrill S.P.A.,aerogrill S.P.A.,0,,0.0,0.0,0.0
+意大利菜,Porta Venosa,Porta Venosa,0,,0.0,0.0,0.0
+意大利菜,Cibo,Cibo,0,,0.0,0.0,0.0
+意大利菜,A Taverna E Zi Carmela,A Taverna E Zi Carmela,0,,0.0,0.0,0.0
+意大利菜,Friggitoria Morelli,Friggitoria Morelli,0,,0.0,0.0,0.0
+意大利菜,Amis,Amis,0,,0.0,0.0,0.0
+意大利菜,Live Show Restaurant,Live Show Restaurant,0,,0.0,0.0,0.0
+意大利菜,La Cuccumella,La Cuccumella,0,,0.0,0.0,0.0
+意大利菜,Le Meraviglie Del Gusto,Le Meraviglie Del Gusto,0,,0.0,0.0,0.0
+意大利菜,Il Cortile,Il Cortile,0,,0.0,0.0,0.0
+意大利菜,Vittorio,Vittorio,0,,0.0,0.0,0.0
+意大利菜,Girulà,Girulà,0,,0.0,0.0,0.0
+意大利菜,Dolci Momenti,Dolci Momenti,0,,0.0,0.0,0.0
+意大利菜,La Creperie,La Creperie,0,,0.0,0.0,0.0
+意大利菜,"Pizza e Sfizi, Napoli","Pizza e Sfizi, Napoli",0,,0.0,0.0,0.0
+意大利菜,Troncone Salvatore SAS,Troncone Salvatore SAS,0,,0.0,0.0,0.0
+意大利菜,Circolo Canottieri Napoli,Circolo Canottieri Napoli,0,,0.0,0.0,0.0
+意大利菜,Club Nautico Della Vela,Club Nautico Della Vela,0,,0.0,0.0,0.0
+意大利菜,Napoli,Napoli,0,,0.0,0.0,0.0
+意大利菜,Antichi Sapori Partenopei,Antichi Sapori Partenopei,0,,0.0,0.0,0.0
+意大利菜,Ristorante Bar Pasticceria F.lli Seccia,Ristorante Bar Pasticceria F.lli Seccia,0,,0.0,0.0,0.0
+意大利菜,Ristorante Brescia,Ristorante Brescia,0,,0.0,0.0,0.0
+意大利菜,'a Scarpetta,'a Scarpetta,0,,0.0,0.0,0.0
+意大利菜,Pescheria di Napoli,Pescheria di Napoli,0,,0.0,0.0,0.0
+意大利菜,BeBoo,BeBoo,0,,0.0,0.0,0.0
+意大利菜,Essegi s.r.l.,Essegi s.r.l.,0,,0.0,0.0,0.0
+意大利菜,Alba,Alba,0,,0.0,0.0,0.0
+法国菜,La RaTaTouille,La RaTaTouille,0,滨水区,0.0,0.0,0.0
+墨西哥菜,El Moccolo,El Moccolo,0,其他,0.0,0.0,0.0
+墨西哥菜,Mata Ristopub,Mata Ristopub,0,其他,0.0,0.0,0.0
+墨西哥菜,El Merenderos,El Merenderos,0,,0.0,0.0,0.0
+其他西餐,Penguin cafe,Penguin cafe,0,滨水区,0.0,0.0,0.0
+其他西餐,Marino,Marino,0,滨水区,0.0,0.0,0.0
+其他西餐,Wine Cafe da Mario,Wine Cafe da Mario,0,大学区域,0.0,0.0,0.0
+其他西餐,Amici Miei,Amici Miei,0,滨水区,0.0,0.0,0.0
+其他西餐,Pizzeria Bella Napoli,Pizzeria Bella Napoli,0,郊区,0.0,0.0,0.0
+其他西餐,La Focaccia,La Focaccia,0,滨水区,0.0,0.0,0.0
+其他西餐,Ciro a Santa Lucia,Ciro a Santa Lucia,0,滨水区,0.0,0.0,0.0
+其他西餐,George's Restaurant,George's Restaurant,0,滨水区,0.0,0.0,0.0
+其他西餐,Sorbillo,Sorbillo,0,大学区域,0.0,0.0,0.0
+其他西餐,Zazà,Zazà,0,其他,0.0,0.0,0.0
+其他西餐,La Cantinella,La Cantinella,0,滨水区,0.0,0.0,0.0
+其他西餐,Mare e Mare,Mare e Mare,0,其他,0.0,0.0,0.0
+其他西餐,Just-Love Ristoloungebar,Just-Love Ristoloungebar,0,其他,0.0,0.0,0.0
+其他西餐,Brown Sugar Birreria Belga,Brown Sugar Birreria Belga,0,其他,0.0,0.0,0.0
+其他西餐,Antica Cucina Napoletana di Gaetano Romano,Antica Cucina Napoletana di Gaetano Romano,0,其他,0.0,0.0,0.0
+其他西餐,Gustibus,Gustibus,0,其他,0.0,0.0,0.0
+其他西餐,unFILOdOLIO,unFILOdOLIO,0,郊区,0.0,0.0,0.0
+其他西餐,Al Duomo,Al Duomo,0,医院区域,0.0,0.0,0.0
+其他西餐,Milagros Gastrobar,Milagros Gastrobar,0,滨水区,0.0,0.0,0.0
+其他西餐,Anhelo Caffe & Bistrot,Anhelo Caffe & Bistrot,0,滨水区,0.0,0.0,0.0
+其他西餐,Veranda,Veranda,0,滨水区,0.0,0.0,0.0
+其他西餐,Nativus,Nativus,0,滨水区,0.0,0.0,0.0
+其他西餐,Locanda N'Tretella,Locanda N'Tretella,0,滨水区,0.0,0.0,0.0
+其他西餐,Veritas,Veritas,0,滨水区,0.0,0.0,0.0
+其他西餐,PizzaioliVeraci Toledo,PizzaioliVeraci Toledo,0,滨水区,0.0,0.0,0.0
+其他西餐,Vini e Cucina da Mario e Fabiana,Vini e Cucina da Mario e Fabiana,0,滨水区,0.0,0.0,0.0
+其他西餐,O' Greco,O' Greco,0,大学区域,0.0,0.0,0.0
+其他西餐,Bayern Haus,Bayern Haus,0,其他,0.0,0.0,0.0
+其他西餐,O Talebano,O Talebano,0,其他,0.0,0.0,0.0
+其他西餐,Scugnizzi Vomero,Scugnizzi Vomero,0,其他,0.0,0.0,0.0
+其他西餐,Shambl,Shambl,0,其他,0.0,0.0,0.0
+其他西餐,la Patatineria,la Patatineria,0,其他,0.0,0.0,0.0
+其他西餐,Villa Meridiane,Villa Meridiane,0,其他,0.0,0.0,0.0
+其他西餐,Donnanna,Donnanna,0,郊区,0.0,0.0,0.0
+其他西餐,Lilli Sapore Pub,Lilli Sapore Pub,0,郊区,0.0,0.0,0.0
+其他西餐,Villa Diamante,Villa Diamante,0,郊区,0.0,0.0,0.0
+其他西餐,PubLo,PubLo,0,郊区,0.0,0.0,0.0
+其他西餐,Friggitoria Mediterranea,Friggitoria Mediterranea,0,郊区,0.0,0.0,0.0
+其他西餐,Cioccolateria artigianale PILUC,Cioccolateria artigianale PILUC,0,郊区,0.0,0.0,0.0
+其他西餐,Enotrattoria Casetta Rossa,Enotrattoria Casetta Rossa,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+其他西餐,"Pizza & Sfizi, Pollon","Pizza & Sfizi, Pollon",0,阿纳尔道卢奇科索,0.0,0.0,0.0
+其他西餐,La Campagnola - Pizzeria & Trattoria,La Campagnola - Pizzeria & Trattoria,0,帕多瓦植物园,0.0,0.0,0.0
+其他西餐,Ristorante Pizzeria ,Ristorante Pizzeria ,0,詹图尔科,0.0,0.0,0.0
+其他西餐,Penny Black Waterfront,Penny Black Waterfront,0,滨水区,0.0,0.0,0.0
+其他西餐,Bar dell'Ovo,Bar dell'Ovo,0,滨水区,0.0,0.0,0.0
+其他西餐,Uno Barrato,Uno Barrato,0,滨水区,0.0,0.0,0.0
+其他西餐,Ba-Bar kitchen bar,Ba-Bar kitchen bar,0,滨水区,0.0,0.0,0.0
+其他西餐,L'Altro Loco,L'Altro Loco,0,滨水区,0.0,0.0,0.0
+其他西餐,Clandalu Art Club,Clandalu Art Club,0,滨水区,0.0,0.0,0.0
+其他西餐,Konig Taverna Bavarese,Konig Taverna Bavarese,0,滨水区,0.0,0.0,0.0
+其他西餐,Pescheria Mattiucci,Pescheria Mattiucci,0,滨水区,0.0,0.0,0.0
+其他西餐,Trattoria bausan,Trattoria bausan,0,滨水区,0.0,0.0,0.0
+其他西餐,Churra Napoli,Churra Napoli,0,滨水区,0.0,0.0,0.0
+其他西餐,La Locanda dei Borboni,La Locanda dei Borboni,0,滨水区,0.0,0.0,0.0
+其他西餐,Fast burger,Fast burger,0,滨水区,0.0,0.0,0.0
+其他西餐,Trattoria Da Nenella,Trattoria Da Nenella,0,滨水区,0.0,0.0,0.0
+其他西餐,La focacceria,La focacceria,0,滨水区,0.0,0.0,0.0
+其他西餐,Alberto's,Alberto's,0,滨水区,0.0,0.0,0.0
+其他西餐,Trattoria Le Zendraglie,Trattoria Le Zendraglie,0,滨水区,0.0,0.0,0.0
+其他西餐,Chipstreet Toledo,Chipstreet Toledo,0,滨水区,0.0,0.0,0.0
+其他西餐,'A Canzuncella,'A Canzuncella,0,大学区域,0.0,0.0,0.0
+其他西餐,La Taverna Dell'Arte,La Taverna Dell'Arte,0,大学区域,0.0,0.0,0.0
+其他西餐,Neapolis,Neapolis,0,大学区域,0.0,0.0,0.0
+其他西餐,Buona Merenda,Buona Merenda,0,大学区域,0.0,0.0,0.0
+其他西餐,Il Cuoppo Friggitori Napoletani,Il Cuoppo Friggitori Napoletani,0,大学区域,0.0,0.0,0.0
+其他西餐,I Love Pizza,I Love Pizza,0,其他,0.0,0.0,0.0
+其他西餐,Napoli 1820,Napoli 1820,0,其他,0.0,0.0,0.0
+其他西餐,O cafone,O cafone,0,其他,0.0,0.0,0.0
+其他西餐,Swig Music Bar,Swig Music Bar,0,其他,0.0,0.0,0.0
+其他西餐,Beef and Burger BAB,Beef and Burger BAB,0,其他,0.0,0.0,0.0
+其他西餐,Oca Nera Irish Pub,Oca Nera Irish Pub,0,其他,0.0,0.0,0.0
+其他西餐,Hot Gyros,Hot Gyros,0,其他,0.0,0.0,0.0
+其他西餐,Morrigan,Morrigan,0,其他,0.0,0.0,0.0
+其他西餐,Trattoria del Buongustaio,Trattoria del Buongustaio,0,其他,0.0,0.0,0.0
+其他西餐,La Cucina di Elvira,La Cucina di Elvira,0,其他,0.0,0.0,0.0
+其他西餐,Scusate Il Ritardo,Scusate Il Ritardo,0,其他,0.0,0.0,0.0
+其他西餐,Bulldog Pub,Bulldog Pub,0,其他,0.0,0.0,0.0
+其他西餐,The Bagpipe Scottish Pub,The Bagpipe Scottish Pub,0,其他,0.0,0.0,0.0
+其他西餐,Nottingham Pub,Nottingham Pub,0,其他,0.0,0.0,0.0
+其他西餐,Pub Hillside,Pub Hillside,0,其他,0.0,0.0,0.0
+其他西餐,Frank Malone,Frank Malone,0,其他,0.0,0.0,0.0
+其他西餐,The Penny Black Pub,The Penny Black Pub,0,其他,0.0,0.0,0.0
+其他西餐,Tutta N'ata Storia,Tutta N'ata Storia,0,其他,0.0,0.0,0.0
+其他西餐,"Osteria Toto, Eduardo E Pasta E Fagioli","Osteria Toto, Eduardo E Pasta E Fagioli",0,其他,0.0,0.0,0.0
+其他西餐,Viktoria Platz,Viktoria Platz,0,其他,0.0,0.0,0.0
+其他西餐,Kosazka Sabava,Kosazka Sabava,0,其他,0.0,0.0,0.0
+其他西餐,Pizzeria Bruno,Pizzeria Bruno,0,其他,0.0,0.0,0.0
+其他西餐,'A Fenestella,'A Fenestella,0,郊区,0.0,0.0,0.0
+其他西餐,Pizzeria Posillipo,Pizzeria Posillipo,0,郊区,0.0,0.0,0.0
+其他西餐,Eat Enjoy,Eat Enjoy,0,郊区,0.0,0.0,0.0
+其他西餐,La Sacrestia,La Sacrestia,0,郊区,0.0,0.0,0.0
+其他西餐,Pizzeria DANIELE,Pizzeria DANIELE,0,市中心附近,0.0,0.0,0.0
+其他西餐,Dal Ghiottone,Dal Ghiottone,0,其他,0.0,0.0,0.0
+其他西餐,La Gaiola Ristorante Pizzeria Posillipo,La Gaiola Ristorante Pizzeria Posillipo,0,其他,0.0,0.0,0.0
+其他西餐,Pennyblack,Pennyblack,0,滨水区,0.0,0.0,0.0
+其他西餐,IL Transatlantico,IL Transatlantico,0,滨水区,0.0,0.0,0.0
+其他西餐,Camarillo Brillo,Camarillo Brillo,0,滨水区,0.0,0.0,0.0
+其他西餐,Al Muerzo,Al Muerzo,0,滨水区,0.0,0.0,0.0
+其他西餐,Parakalo,Parakalo,0,滨水区,0.0,0.0,0.0
+其他西餐,Mojito,Mojito,0,滨水区,0.0,0.0,0.0
+其他西餐,Churra',Churra',0,滨水区,0.0,0.0,0.0
+其他西餐,Anna Bellavita,Anna Bellavita,0,滨水区,0.0,0.0,0.0
+其他西餐,Lombardi A Santa Chiara,Lombardi A Santa Chiara,0,大学区域,0.0,0.0,0.0
+其他西餐,St James,St James,0,大学区域,0.0,0.0,0.0
+其他西餐,Burgertime,Burgertime,0,其他,0.0,0.0,0.0
+其他西餐,La Cantina Di Triunfo,La Cantina Di Triunfo,0,其他,0.0,0.0,0.0
+其他西餐,Trattoria Degli Orti Napoli,Trattoria Degli Orti Napoli,0,其他,0.0,0.0,0.0
+其他西餐,Sea Side,Sea Side,0,其他,0.0,0.0,0.0
+其他西餐,Pub Birreria Krugel,Pub Birreria Krugel,0,其他,0.0,0.0,0.0
+其他西餐,'o Cuppitiello,'o Cuppitiello,0,其他,0.0,0.0,0.0
+其他西餐,Blackwood Pub,Blackwood Pub,0,其他,0.0,0.0,0.0
+其他西餐,Tilgher Pub,Tilgher Pub,0,其他,0.0,0.0,0.0
+其他西餐,Hickory Guinness Pub,Hickory Guinness Pub,0,其他,0.0,0.0,0.0
+其他西餐,Beckett Pub,Beckett Pub,0,其他,0.0,0.0,0.0
+其他西餐,Covo dei Briganti,Covo dei Briganti,0,其他,0.0,0.0,0.0
+其他西餐,Peacock English Pub,Peacock English Pub,0,其他,0.0,0.0,0.0
+其他西餐,La Fazenda,La Fazenda,0,郊区,0.0,0.0,0.0
+其他西餐,Ristorante Pizzeria 10 Maggio 87,Ristorante Pizzeria 10 Maggio 87,0,郊区,0.0,0.0,0.0
+其他西餐,Barfly,Barfly,0,郊区,0.0,0.0,0.0
+其他西餐,Lo Scoglio Frisio,Lo Scoglio Frisio,0,郊区,0.0,0.0,0.0
+其他西餐,Da Corrado,Da Corrado,0,帕多瓦植物园,0.0,0.0,0.0
+其他西餐,Bistrot Del Metro,Bistrot Del Metro,0,其他,0.0,0.0,0.0
+其他西餐,La Focacciata,La Focacciata,0,其他,0.0,0.0,0.0
+其他西餐,I Re Di Napoli,I Re Di Napoli,0,滨水区,0.0,0.0,0.0
+其他西餐,Fattoria del Borgo,Fattoria del Borgo,0,滨水区,0.0,0.0,0.0
+其他西餐,Orange,Orange,0,滨水区,0.0,0.0,0.0
+其他西餐,mare rosso,mare rosso,0,滨水区,0.0,0.0,0.0
+其他西餐,Kebab.com,Kebab.com,0,滨水区,0.0,0.0,0.0
+其他西餐,Pizzabistro De Vita,Pizzabistro De Vita,0,其他,0.0,0.0,0.0
+其他西餐,Sketch Club,Sketch Club,0,其他,0.0,0.0,0.0
+其他西餐,Gustoso,Gustoso,0,其他,0.0,0.0,0.0
+其他西餐,Elounda,Elounda,0,其他,0.0,0.0,0.0
+其他西餐,El Pajaro,El Pajaro,0,其他,0.0,0.0,0.0
+其他西餐,Norreys' Inn,Norreys' Inn,0,其他,0.0,0.0,0.0
+其他西餐,Mr Ferdy's,Mr Ferdy's,0,其他,0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,其他,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,郊区,0.0,0.0,0.0
+其他西餐,Via Partenope Rossopomodo,Via Partenope Rossopomodo,0,滨水区,0.0,0.0,0.0
+其他西餐,"Mister Angus, Napoli","Mister Angus, Napoli",0,滨水区,0.0,0.0,0.0
+其他西餐,Meat Grill Food,Meat Grill Food,0,滨水区,0.0,0.0,0.0
+其他西餐,Zorbas,Zorbas,0,滨水区,0.0,0.0,0.0
+其他西餐,Papaloca,Papaloca,0,大学区域,0.0,0.0,0.0
+其他西餐,Da Gennaro E Titina,Da Gennaro E Titina,0,大学区域,0.0,0.0,0.0
+其他西餐,Coquus,Coquus,0,其他,0.0,0.0,0.0
+其他西餐,Calido Pub,Calido Pub,0,其他,0.0,0.0,0.0
+其他西餐,A Tavern e L'astice,A Tavern e L'astice,0,郊区,0.0,0.0,0.0
+其他西餐,Magn e  Press,Magn e  Press,0,,0.0,0.0,0.0
+其他西餐,Taverna Sativula,Taverna Sativula,0,,0.0,0.0,0.0
+其他西餐,La Bannera,La Bannera,0,,0.0,0.0,0.0
+其他西餐,Il Mastro Fornaio SRL,Il Mastro Fornaio SRL,0,,0.0,0.0,0.0
+中餐,La Citta' D'oro,La Citta' D'oro,0,滨水区,0.0,0.0,0.0
+中餐,La Muraglia,La Muraglia,0,其他,0.0,0.0,0.0
+中餐,Ristorante Bella Cina,Ristorante Bella Cina,0,滨水区,0.0,0.0,0.0
+中餐,Rosticceria Cinese Fen Yan,Rosticceria Cinese Fen Yan,0,郊区,0.0,0.0,0.0
+中餐,Ru. Yi,Ru. Yi,0,其他,0.0,0.0,0.0
+日韩料理,Kobe one,Kobe one,0,滨水区,0.0,0.0,0.0
+日韩料理,Jorudan Sushi,Jorudan Sushi,0,其他,0.0,0.0,0.0
+日韩料理,'Osushi,'Osushi,0,其他,0.0,0.0,0.0
+日韩料理,Marshal,Marshal,0,滨水区,0.0,0.0,0.0
+日韩料理,Romeo sushi bar and restaurant,Romeo sushi bar and restaurant,0,滨水区,0.0,0.0,0.0
+日韩料理,Konoha Sushi,Konoha Sushi,0,滨水区,0.0,0.0,0.0
+日韩料理,Jap-One,Jap-One,0,滨水区,0.0,0.0,0.0
+日韩料理,Tender,Tender,0,滨水区,0.0,0.0,0.0
+日韩料理,It's,It's,0,滨水区,0.0,0.0,0.0
+日韩料理,Giappo Sushi Bar Belledonne,Giappo Sushi Bar Belledonne,0,滨水区,0.0,0.0,0.0
+日韩料理,Kukai Nibu,Kukai Nibu,0,滨水区,0.0,0.0,0.0
+日韩料理,Il Sushivendolo,Il Sushivendolo,0,其他,0.0,0.0,0.0
+日韩料理,Nero Sushi Japanese Restaurant,Nero Sushi Japanese Restaurant,0,滨水区,0.0,0.0,0.0
+日韩料理,Ristorante Giapponese Hachi,Ristorante Giapponese Hachi,0,其他,0.0,0.0,0.0
+日韩料理,Yao Restaurant,Yao Restaurant,0,郊区,0.0,0.0,0.0
+日韩料理,Ristorante Giapponese Tokyo 2,Ristorante Giapponese Tokyo 2,0,郊区,0.0,0.0,0.0
+日韩料理,Zen 2,Zen 2,0,大学区域,0.0,0.0,0.0
+日韩料理,Merliani 360,Merliani 360,0,其他,0.0,0.0,0.0
+日韩料理,Wasabi Go,Wasabi Go,0,其他,0.0,0.0,0.0
+日韩料理,Voga,Voga,0,其他,0.0,0.0,0.0
+日韩料理,One,One,0,,0.0,0.0,0.0
+更多亚洲菜,Istanbul Doner Kebab & Asian Restaurant Sas,Istanbul Doner Kebab & Asian Restaurant Sas,0,其他,0.0,0.0,0.0
+更多亚洲菜,Vero Gusto del Kebab,Vero Gusto del Kebab,0,大学区域,0.0,0.0,0.0
+更多亚洲菜,Shisha,Shisha,0,滨水区,0.0,0.0,0.0
+更多亚洲菜,Aladin Kebab,Aladin Kebab,0,其他,0.0,0.0,0.0
+更多亚洲菜,Baba bawa,Baba bawa,0,大学区域,0.0,0.0,0.0
+更多亚洲菜,Amir,Amir,0,大学区域,0.0,0.0,0.0
+更多亚洲菜,Mu Napoli,Mu Napoli,0,滨水区,0.0,0.0,0.0
+更多亚洲菜,Fashion Wok,Fashion Wok,0,滨水区,0.0,0.0,0.0
+更多亚洲菜,Il Buono Delle Donne,Il Buono Delle Donne,0,其他,0.0,0.0,0.0
+更多亚洲菜,Ristorante Giada,Ristorante Giada,0,滨水区,0.0,0.0,0.0
+更多亚洲菜,Il Caffe Arabo,Il Caffe Arabo,0,大学区域,0.0,0.0,0.0
+更多亚洲菜,Antonio La Trippa,Antonio La Trippa,0,其他,0.0,0.0,0.0
+快餐简餐,Antica Salumeria Pane 1864,Antica Salumeria Pane 1864,0,大学区域,0.0,0.0,0.0
+快餐简餐,Missporco,Missporco,0,其他,0.0,0.0,0.0
+快餐简餐,Largo La Pizza,Largo La Pizza,0,大学区域,0.0,0.0,0.0
+快餐简餐,|Bentornata Elena || Bistrot & Lifestyle|,|Bentornata Elena || Bistrot & Lifestyle|,0,其他,0.0,0.0,0.0
+快餐简餐,B and B,B and B,0,大学区域,0.0,0.0,0.0
+快餐简餐,Starbestcofee,Starbestcofee,0,大学区域,0.0,0.0,0.0
+快餐简餐,Another Beer,Another Beer,0,其他,0.0,0.0,0.0
+快餐简餐,Salumeria Genovese,Salumeria Genovese,0,其他,0.0,0.0,0.0
+快餐简餐,Hades Live Music Pub,Hades Live Music Pub,0,其他,0.0,0.0,0.0
+快餐简餐,Pappa,Pappa,0,其他,0.0,0.0,0.0
+快餐简餐,Wall Street Ristopub & Grill,Wall Street Ristopub & Grill,0,其他,0.0,0.0,0.0
+快餐简餐,Benvenuti Al Sud,Benvenuti Al Sud,0,其他,0.0,0.0,0.0
+快餐简餐,La Focaccia,La Focaccia,0,郊区,0.0,0.0,0.0
+快餐简餐,Chips & Beer,Chips & Beer,0,滨水区,0.0,0.0,0.0
+快餐简餐,Cakeappeal,Cakeappeal,0,滨水区,0.0,0.0,0.0
+快餐简餐,Il Viaggiatore,Il Viaggiatore,0,大学区域,0.0,0.0,0.0
+快餐简餐,Charcuterie esposito,Charcuterie esposito,0,大学区域,0.0,0.0,0.0
+快餐简餐,Bread House,Bread House,0,其他,0.0,0.0,0.0
+快餐简餐,WO World Fast Food,WO World Fast Food,0,其他,0.0,0.0,0.0
+快餐简餐,Il Regno Delle Carni,Il Regno Delle Carni,0,其他,0.0,0.0,0.0
+快餐简餐,Guyot winebar,Guyot winebar,0,其他,0.0,0.0,0.0
+快餐简餐,Artigiani del gusto,Artigiani del gusto,0,其他,0.0,0.0,0.0
+快餐简餐,Polleria Carizzi,Polleria Carizzi,0,其他,0.0,0.0,0.0
+快餐简餐,Gastronomia Sorge,Gastronomia Sorge,0,其他,0.0,0.0,0.0
+快餐简餐,Six Pub & Grill,Six Pub & Grill,0,郊区,0.0,0.0,0.0
+快餐简餐,Elettroforno,Elettroforno,0,郊区,0.0,0.0,0.0
+快餐简餐,Girarrosto Coccode',Girarrosto Coccode',0,其他,0.0,0.0,0.0
+快餐简餐,La Piazzetta,La Piazzetta,0,滨水区,0.0,0.0,0.0
+快餐简餐,Pub birreria A'zingara,Pub birreria A'zingara,0,滨水区,0.0,0.0,0.0
+快餐简餐,Stairs Coffee Shop,Stairs Coffee Shop,0,其他,0.0,0.0,0.0
+快餐简餐,Biby & Dudy,Biby & Dudy,0,其他,0.0,0.0,0.0
+快餐简餐,GRANDPRIX American Grill,GRANDPRIX American Grill,0,郊区,0.0,0.0,0.0
+快餐简餐,Rock Cafe,Rock Cafe,0,滨水区,0.0,0.0,0.0
+快餐简餐,Cafe Gourmet,Cafe Gourmet,0,滨水区,0.0,0.0,0.0
+快餐简餐,el Sombrero,el Sombrero,0,其他,0.0,0.0,0.0
+快餐简餐,La Parmense,La Parmense,0,其他,0.0,0.0,0.0
+快餐简餐,Salumeria Il Casale,Salumeria Il Casale,0,其他,0.0,0.0,0.0
+快餐简餐,Antica Salumeria Licenziato,Antica Salumeria Licenziato,0,其他,0.0,0.0,0.0
+快餐简餐,Citta del Gusto,Citta del Gusto,0,郊区,0.0,0.0,0.0
+快餐简餐,Pasticceria Dolci Momenti,Pasticceria Dolci Momenti,0,,0.0,0.0,0.0
+快餐简餐,Mi Sfizio,Mi Sfizio,0,,0.0,0.0,0.0
+快餐简餐,Wurstel,Wurstel,0,,0.0,0.0,0.0
+快餐简餐,Senza glutine,Senza glutine,0,,0.0,0.0,0.0
+快餐简餐,Doc Food,Doc Food,0,,0.0,0.0,0.0
+海鲜,Trattoria A Pignata,Trattoria A Pignata,0,滨水区,0.0,0.0,0.0
+海鲜,Crudore,Crudore,0,滨水区,0.0,0.0,0.0
+海鲜,Marechiaro,Marechiaro,0,郊区,0.0,0.0,0.0
+海鲜,L.U.I.S.E,L.U.I.S.E,0,滨水区,0.0,0.0,0.0
+海鲜,Trattoria Castel Dell Ovo,Trattoria Castel Dell Ovo,0,滨水区,0.0,0.0,0.0
+海鲜,La Casetta Rossa,La Casetta Rossa,0,,0.0,0.0,0.0
+海鲜,Ristorante Tres Joly,Ristorante Tres Joly,0,郊区,0.0,0.0,0.0
+海鲜,A Cucina Di Mamma,A Cucina Di Mamma,0,医院区域,0.0,0.0,0.0
+海鲜,Fish Experience,Fish Experience,0,其他,0.0,0.0,0.0
+海鲜,Osteria da Mark's,Osteria da Mark's,0,其他,0.0,0.0,0.0
+烧烤,Ristorante Pizzeria Parco Margherita,Ristorante Pizzeria Parco Margherita,0,滨水区,0.0,0.0,0.0
+烧烤,Zio Jack,Zio Jack,0,滨水区,0.0,0.0,0.0
+烧烤,Hornbill,Hornbill,0,滨水区,0.0,0.0,0.0
+烧烤,Cantina La Barbera,Cantina La Barbera,0,其他,0.0,0.0,0.0
+烧烤,Il Macello,Il Macello,0,滨水区,0.0,0.0,0.0
+烧烤,Himmel Und Holle,Himmel Und Holle,0,其他,0.0,0.0,0.0
+烧烤,Macellegria,Macellegria,0,郊区,0.0,0.0,0.0
+烧烤,Pizza Bra',Pizza Bra',0,大学区域,0.0,0.0,0.0
+烧烤,Cerrone Burger Pub,Cerrone Burger Pub,0,郊区,0.0,0.0,0.0
+烧烤,Tortora house grill,Tortora house grill,0,滨水区,0.0,0.0,0.0
+比萨,Pizzeria addu carmeniell,Pizzeria addu carmeniell,0,郊区,0.0,0.0,0.0
+比萨,Pizzeria Marchese di Marletta Patrizia,Pizzeria Marchese di Marletta Patrizia,0,其他,0.0,0.0,0.0
+比萨,Girarrosto add'o Brigante,Girarrosto add'o Brigante,0,其他,0.0,0.0,0.0
+比萨,Carpe diem,Carpe diem,0,滨水区,0.0,0.0,0.0
+比萨,Pizzeria Paprika Napoli,Pizzeria Paprika Napoli,0,其他,0.0,0.0,0.0
+比萨,Pizzeria da Gaetano (a Porta Capuana),Pizzeria da Gaetano (a Porta Capuana),0,其他,0.0,0.0,0.0
+比萨,Pizza Art,Pizza Art,0,市中心附近,0.0,0.0,0.0
+比萨,Pizzeria De Martino Marco,Pizzeria De Martino Marco,0,医院区域,0.0,0.0,0.0
+比萨,Antica Pizzeria Prigiobbo,Antica Pizzeria Prigiobbo,0,滨水区,0.0,0.0,0.0
+比萨,Add'e Guagliun - Pizzeria,Add'e Guagliun - Pizzeria,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Donna Sophia,Pizzeria Donna Sophia,0,大学区域,0.0,0.0,0.0
+比萨,Pizzeria Starita a Materdei,Pizzeria Starita a Materdei,0,其他,0.0,0.0,0.0
+比萨,Olio & Pomodoro,Olio & Pomodoro,0,其他,0.0,0.0,0.0
+比萨,Pizzeria del Popolo,Pizzeria del Popolo,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+比萨,Pizzeria Fortuna,Pizzeria Fortuna,0,医院区域,0.0,0.0,0.0
+比萨,Rossopomodoro Napoli Centro,Rossopomodoro Napoli Centro,0,滨水区,0.0,0.0,0.0
+比萨,Carminiello,Carminiello,0,其他,0.0,0.0,0.0
+比萨,Antica Pizzeria e Friggitoria Di Matteo,Antica Pizzeria e Friggitoria Di Matteo,0,大学区域,0.0,0.0,0.0
+比萨,Da Pellone,Da Pellone,0,市中心附近,0.0,0.0,0.0
+比萨,Pizzeria San Gennaro,Pizzeria San Gennaro,0,大学区域,0.0,0.0,0.0
+比萨,La Gardenia di Anna Formicola Sas,La Gardenia di Anna Formicola Sas,0,其他,0.0,0.0,0.0
+比萨,Al Punto Giusto,Al Punto Giusto,0,医院区域,0.0,0.0,0.0
+比萨,Rossopomodoro,Rossopomodoro,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Mimi,Pizzeria Mimi,0,滨水区,0.0,0.0,0.0
+比萨,Pizzeria Errico,Pizzeria Errico,0,滨水区,0.0,0.0,0.0
+比萨,Pizzeria Add'ò Guaglione,Pizzeria Add'ò Guaglione,0,其他,0.0,0.0,0.0
+比萨,solo pizza napoli via alessandro manzoni,solo pizza napoli via alessandro manzoni,0,其他,0.0,0.0,0.0
+比萨,Napoli Pizzeria la Bufalina,Napoli Pizzeria la Bufalina,0,其他,0.0,0.0,0.0
+比萨,Napol,Napol,0,其他,0.0,0.0,0.0
+比萨,Pizzeria de Stefano,Pizzeria de Stefano,0,其他,0.0,0.0,0.0
+比萨,pizza e' coccos',pizza e' coccos',0,其他,0.0,0.0,0.0
+比萨,Pizzeria Ristorante Scugnizzo di Rubino Ciro,Pizzeria Ristorante Scugnizzo di Rubino Ciro,0,其他,0.0,0.0,0.0
+比萨,La Ruota,La Ruota,0,其他,0.0,0.0,0.0
+比萨,Pizzafest,Pizzafest,0,其他,0.0,0.0,0.0
+比萨,Maestri Pizzaioli,Maestri Pizzaioli,0,其他,0.0,0.0,0.0
+比萨,Vera Margherita,Vera Margherita,0,郊区,0.0,0.0,0.0
+比萨,Pizzeria Leopardi,Pizzeria Leopardi,0,郊区,0.0,0.0,0.0
+比萨,Pellone Ciro,Pellone Ciro,0,郊区,0.0,0.0,0.0
+比萨,La Masardona,La Masardona,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+比萨,Azzurra,Azzurra,0,医院区域,0.0,0.0,0.0
+比萨,Pizzeria Oliva da Concettina ai 3 Santi,Pizzeria Oliva da Concettina ai 3 Santi,0,帕多瓦植物园,0.0,0.0,0.0
+比萨,Pizzeria Alberto & Figli,Pizzeria Alberto & Figli,0,帕多瓦植物园,0.0,0.0,0.0
+比萨,La Regina dei Tribunali,La Regina dei Tribunali,0,大学区域,0.0,0.0,0.0
+比萨,Rossopomodoro,Rossopomodoro,0,滨水区,0.0,0.0,0.0
+比萨,La Fortuna,La Fortuna,0,其他,0.0,0.0,0.0
+比萨,Napoli,Napoli,0,滨水区,0.0,0.0,0.0
+比萨,Brasilia,Brasilia,0,滨水区,0.0,0.0,0.0
+比萨,Pizzeria Al 22,Pizzeria Al 22,0,滨水区,0.0,0.0,0.0
+比萨,Nonna Pizza,Nonna Pizza,0,大学区域,0.0,0.0,0.0
+比萨,Pizzeria Attanasio,Pizzeria Attanasio,0,大学区域,0.0,0.0,0.0
+比萨,Pizzeria Antonio e Gigi Sorbillo,Pizzeria Antonio e Gigi Sorbillo,0,大学区域,0.0,0.0,0.0
+比萨,Antica Pizzeria ,Antica Pizzeria ,0,大学区域,0.0,0.0,0.0
+比萨,Le Sorelle Bandiera,Le Sorelle Bandiera,0,大学区域,0.0,0.0,0.0
+比萨,Bellini,Bellini,0,大学区域,0.0,0.0,0.0
+比萨,Pizzeria Capasso,Pizzeria Capasso,0,大学区域,0.0,0.0,0.0
+比萨,Pizzeria La Notizia,Pizzeria La Notizia,0,其他,0.0,0.0,0.0
+比萨,La Residenziale,La Residenziale,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Lampo 2,Pizzeria Lampo 2,0,其他,0.0,0.0,0.0
+比萨,Fresco,Fresco,0,其他,0.0,0.0,0.0
+比萨,Fermo Pizza,Fermo Pizza,0,其他,0.0,0.0,0.0
+比萨,Cilea,Cilea,0,其他,0.0,0.0,0.0
+比萨,Angolo del Paradiso,Angolo del Paradiso,0,其他,0.0,0.0,0.0
+比萨,May Freends,May Freends,0,其他,0.0,0.0,0.0
+比萨,Alba,Alba,0,其他,0.0,0.0,0.0
+比萨,O'Luciano Di Grossi Annunziata,O'Luciano Di Grossi Annunziata,0,其他,0.0,0.0,0.0
+比萨,Mascolo,Mascolo,0,其他,0.0,0.0,0.0
+比萨,Pizza Prestige,Pizza Prestige,0,其他,0.0,0.0,0.0
+比萨,Strapizzami,Strapizzami,0,其他,0.0,0.0,0.0
+比萨,Mascolo Panozzeria Pizzeria Ristorante,Mascolo Panozzeria Pizzeria Ristorante,0,其他,0.0,0.0,0.0
+比萨,Trattoria Santa Chiara Srl,Trattoria Santa Chiara Srl,0,郊区,0.0,0.0,0.0
+比萨,Fratelli Portoghese,Fratelli Portoghese,0,郊区,0.0,0.0,0.0
+比萨,Pollon,Pollon,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+比萨,Pizzeria Tutino,Pizzeria Tutino,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+比萨,Pizzeria Michele via Martucci,Pizzeria Michele via Martucci,0,医院区域,0.0,0.0,0.0
+比萨,Antica Pizzeria Vincenzo Costa,Antica Pizzeria Vincenzo Costa,0,医院区域,0.0,0.0,0.0
+比萨,New Fantasy Pizzeria,New Fantasy Pizzeria,0,其他,0.0,0.0,0.0
+比萨,Pizzeria del Museo MAMT,Pizzeria del Museo MAMT,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Sorbillo,Pizzeria Sorbillo,0,滨水区,0.0,0.0,0.0
+比萨,Taverna Paradiso,Taverna Paradiso,0,滨水区,0.0,0.0,0.0
+比萨,Myway,Myway,0,滨水区,0.0,0.0,0.0
+比萨,Regine Dello Zio,Regine Dello Zio,0,滨水区,0.0,0.0,0.0
+比萨,Pizzeria Spaccanapoli Rosticceria,Pizzeria Spaccanapoli Rosticceria,0,大学区域,0.0,0.0,0.0
+比萨,Pizzeria Vesi,Pizzeria Vesi,0,大学区域,0.0,0.0,0.0
+比萨,Il Pizzaiolo del Presidente,Il Pizzaiolo del Presidente,0,大学区域,0.0,0.0,0.0
+比萨,Pizzeria I Corsari,Pizzeria I Corsari,0,其他,0.0,0.0,0.0
+比萨,Solo Pizza,Solo Pizza,0,其他,0.0,0.0,0.0
+比萨,Trianon al Vomero,Trianon al Vomero,0,其他,0.0,0.0,0.0
+比萨,Ciao Pizza,Ciao Pizza,0,其他,0.0,0.0,0.0
+比萨,Magnopizza,Magnopizza,0,其他,0.0,0.0,0.0
+比萨,Starlight,Starlight,0,其他,0.0,0.0,0.0
+比萨,Henry VIII,Henry VIII,0,其他,0.0,0.0,0.0
+比萨,Da Carluccio,Da Carluccio,0,其他,0.0,0.0,0.0
+比萨,Pizzeria E Ristorante Da Raffaele,Pizzeria E Ristorante Da Raffaele,0,郊区,0.0,0.0,0.0
+比萨,Trianon da Ciro,Trianon da Ciro,0,医院区域,0.0,0.0,0.0
+比萨,Putipu Pizza Cafe,Putipu Pizza Cafe,0,滨水区,0.0,0.0,0.0
+比萨,Sorbillo Lievito Madre al Mare,Sorbillo Lievito Madre al Mare,0,滨水区,0.0,0.0,0.0
+比萨,Pizzeria Ettore Napoli,Pizzeria Ettore Napoli,0,滨水区,0.0,0.0,0.0
+比萨,Manfredoca Napoli,Manfredoca Napoli,0,滨水区,0.0,0.0,0.0
+比萨,Olio E Pomodoro,Olio E Pomodoro,0,滨水区,0.0,0.0,0.0
+比萨,Taverna Del Cerriglio,Taverna Del Cerriglio,0,大学区域,0.0,0.0,0.0
+比萨,Pizzeria Sciù Scià,Pizzeria Sciù Scià,0,大学区域,0.0,0.0,0.0
+比萨,Al Manzoni,Al Manzoni,0,其他,0.0,0.0,0.0
+比萨,Ristorante Principe Umberto,Ristorante Principe Umberto,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Gigante,Pizzeria Gigante,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Gorizia,Pizzeria Gorizia,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Leone Arenella Napoli,Pizzeria Leone Arenella Napoli,0,其他,0.0,0.0,0.0
+比萨,Pellone Mario,Pellone Mario,0,郊区,0.0,0.0,0.0
+比萨,Pizzeria Da Roberto,Pizzeria Da Roberto,0,郊区,0.0,0.0,0.0
+比萨,Pizzeria Pellone DI Pellone Raffaele,Pizzeria Pellone DI Pellone Raffaele,0,郊区,0.0,0.0,0.0
+比萨,Antica pizzeria Cumana,Antica pizzeria Cumana,0,郊区,0.0,0.0,0.0
+比萨,Pizzeria la Poesia Napoli,Pizzeria la Poesia Napoli,0,医院区域,0.0,0.0,0.0
+比萨,pallino's,pallino's,0,圣克罗切,0.0,0.0,0.0
+比萨,Pizza Anema E Core Ex La Pizza Di Ciro,Pizza Anema E Core Ex La Pizza Di Ciro,0,,0.0,0.0,0.0
+比萨,La Tavernetta add o Masticiello,La Tavernetta add o Masticiello,0,,0.0,0.0,0.0
+比萨,Rockeat Di Noteegusto,Rockeat Di Noteegusto,0,,0.0,0.0,0.0
+比萨,C'e' Pizza Per Te,C'e' Pizza Per Te,0,,0.0,0.0,0.0
+比萨,Manicomio Antica Pizzeria Milanese,Manicomio Antica Pizzeria Milanese,0,滨水区,0.0,0.0,0.0
+比萨,Pizzeria E Io Pago,Pizzeria E Io Pago,0,大学区域,0.0,0.0,0.0
+比萨,The Lion King,The Lion King,0,,0.0,0.0,0.0
+比萨,Napoli,Napoli,0,,0.0,0.0,0.0
+比萨,Bar Re Edoardo,Bar Re Edoardo,0,,0.0,0.0,0.0
+比萨,Di Girolamo Giuseppe,Di Girolamo Giuseppe,0,,0.0,0.0,0.0
+比萨,PIZZE',PIZZE',0,,0.0,0.0,0.0
+比萨,Raggio di Sole,Raggio di Sole,0,,0.0,0.0,0.0
+比萨,La Pizza,La Pizza,0,,0.0,0.0,0.0
+咖啡厅,Caffetteria del Maresciallo,Caffetteria del Maresciallo,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+咖啡厅,Caffè Mexico,Caffè Mexico,0,医院区域,7.1,6.7,6.7
+咖啡厅,Caffè Gambrinus,Caffè Gambrinus,0,大学区域,6.7,7.0,6.9
+咖啡厅,Caffetteria Dante,Caffetteria Dante,0,医院区域,6.7,6.9,6.9
+咖啡厅,Tentazioni Cafe,Tentazioni Cafe,0,,0.0,0.0,0.0
+咖啡厅,Caffetteria Angela,Caffetteria Angela,0,大学区域,0.0,0.0,0.0
+咖啡厅,Caffetteria Mary,Caffetteria Mary,0,滨水区,0.0,0.0,0.0
+咖啡厅,Bistrot & WineCafe DivinoAmore,Bistrot & WineCafe DivinoAmore,0,大学区域,0.0,0.0,0.0
+咖啡厅,Gran Bar del Sole,Gran Bar del Sole,0,郊区,0.0,0.0,0.0
+咖啡厅,Gran Caffe Gambrinus,Gran Caffe Gambrinus,0,滨水区,0.0,0.0,0.0
+咖啡厅,CamBIOvita,CamBIOvita,0,滨水区,0.0,0.0,0.0
+咖啡厅,Caffetteria Vanvitelli,Caffetteria Vanvitelli,0,其他,0.0,0.0,0.0
+咖啡厅,Caffetteria pasticceria del mare,Caffetteria pasticceria del mare,0,其他,0.0,0.0,0.0
+咖啡厅,Bar Maria,Bar Maria,0,其他,0.0,0.0,0.0
+咖啡厅,Caffe Belledonne,Caffe Belledonne,0,其他,0.0,0.0,0.0
+咖啡厅,Caffe Del Professore,Caffe Del Professore,0,滨水区,0.0,0.0,0.0
+咖啡厅,Biobar,Biobar,0,其他,0.0,0.0,0.0
+咖啡厅,Chalet Delle Palme,Chalet Delle Palme,0,郊区,0.0,0.0,0.0
+咖啡厅,Pagi's,Pagi's,0,詹图尔科,0.0,0.0,0.0
+咖啡厅,Bar Delle Ragazze,Bar Delle Ragazze,0,其他,0.0,0.0,0.0
+咖啡厅,Le Bar,Le Bar,0,滨水区,0.0,0.0,0.0
+咖啡厅,Dolce Vita,Dolce Vita,0,其他,0.0,0.0,0.0
+咖啡厅,Gran Caffe Roma,Gran Caffe Roma,0,其他,0.0,0.0,0.0
+咖啡厅,Emotion Cafe,Emotion Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Caffe Lanzillo,Caffe Lanzillo,0,其他,0.0,0.0,0.0
+咖啡厅,DaMa Caffe,DaMa Caffe,0,,0.0,0.0,0.0
+咖啡厅,Bar Meri,Bar Meri,0,,0.0,0.0,0.0
+咖啡厅,Caffeina,Caffeina,0,,0.0,0.0,0.0
+咖啡厅,Habana Cafe,Habana Cafe,0,,0.0,0.0,0.0
+咖啡厅,Beautifull Coffee,Beautifull Coffee,0,,0.0,0.0,0.0
+面包甜点,Barril,Barril,0,滨水区,0.0,0.0,0.0
+面包甜点,Pasticceria Carraturo,Pasticceria Carraturo,0,医院区域,7.0,7.0,6.9
+面包甜点,CASA INFANTE,CASA INFANTE,0,大学区域,6.9,7.0,6.7
+面包甜点,Mamat Food,Mamat Food,0,其他,0.0,0.0,0.0
+面包甜点,Pastisseria Capriccio di Salvatore Capparelli,Pastisseria Capriccio di Salvatore Capparelli,0,大学区域,0.0,0.0,0.0
+面包甜点,Gelatosità,Gelatosità,0,其他,0.0,0.0,0.0
+面包甜点,Casa Infante,Casa Infante,0,滨水区,0.0,0.0,0.0
+面包甜点,La Grafferia,La Grafferia,0,滨水区,0.0,0.0,0.0
+面包甜点,Dolce Idea di Gennaro Bottone,Dolce Idea di Gennaro Bottone,0,滨水区,0.0,0.0,0.0
+面包甜点,Nababeria,Nababeria,0,滨水区,0.0,0.0,0.0
+面包甜点,Slurp,Slurp,0,大学区域,0.0,0.0,0.0
+面包甜点,Gran Caffe Ciorfito,Gran Caffe Ciorfito,0,大学区域,0.0,0.0,0.0
+面包甜点,Pasticceria Mignone,Pasticceria Mignone,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria & Caffetteria Gianna,Pasticceria & Caffetteria Gianna,0,其他,0.0,0.0,0.0
+面包甜点,Gran Bar del Sole,Gran Bar del Sole,0,郊区,0.0,0.0,0.0
+面包甜点,Zi Teresa Unica Sede dal 1890,Zi Teresa Unica Sede dal 1890,0,滨水区,0.0,0.0,0.0
+面包甜点,Il Gelatiere,Il Gelatiere,0,滨水区,0.0,0.0,0.0
+面包甜点,Il Fornaretto,Il Fornaretto,0,滨水区,0.0,0.0,0.0
+面包甜点,Gay Odin,Gay Odin,0,滨水区,0.0,0.0,0.0
+面包甜点,L'Ebbrezza di Noe,L'Ebbrezza di Noe,0,滨水区,0.0,0.0,0.0
+面包甜点,La Sfogliatella Mary,La Sfogliatella Mary,0,滨水区,0.0,0.0,0.0
+面包甜点,Motus,Motus,0,滨水区,0.0,0.0,0.0
+面包甜点,Officina Gelati,Officina Gelati,0,滨水区,0.0,0.0,0.0
+面包甜点,Pericotti Giuseppe-eredi Grieco Clara,Pericotti Giuseppe-eredi Grieco Clara,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Otranto,Gelateria Otranto,0,其他,0.0,0.0,0.0
+面包甜点,The City Pub,The City Pub,0,其他,0.0,0.0,0.0
+面包甜点,L'angolo del Gelato,L'angolo del Gelato,0,其他,0.0,0.0,0.0
+面包甜点,Evercream,Evercream,0,其他,0.0,0.0,0.0
+面包甜点,Pizzeria D'auria,Pizzeria D'auria,0,其他,0.0,0.0,0.0
+面包甜点,Siani senza glutine,Siani senza glutine,0,其他,0.0,0.0,0.0
+面包甜点,La Cioccolateria Silva,La Cioccolateria Silva,0,其他,0.0,0.0,0.0
+面包甜点,Il Pizzicagnolo,Il Pizzicagnolo,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria e Tarallificio Tonino,Pasticceria e Tarallificio Tonino,0,其他,0.0,0.0,0.0
+面包甜点,L'eden Il paradiso del gusto,L'eden Il paradiso del gusto,0,郊区,0.0,0.0,0.0
+面包甜点,L'Oasi del Gusto,L'Oasi del Gusto,0,郊区,0.0,0.0,0.0
+面包甜点,Gran Bar D'Ago,Gran Bar D'Ago,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+面包甜点,Gelato e Cioccolato,Gelato e Cioccolato,0,医院区域,0.0,0.0,0.0
+面包甜点,Pasticceria Bar Al Capriccio,Pasticceria Bar Al Capriccio,0,医院区域,0.0,0.0,0.0
+面包甜点,Mr Panino,Mr Panino,0,蒙泰桑托,0.0,0.0,0.0
+面包甜点,Birdy's Bakery,Birdy's Bakery,0,滨水区,0.0,0.0,0.0
+面包甜点,Pasticceria Varriale,Pasticceria Varriale,0,滨水区,0.0,0.0,0.0
+面包甜点,Fantasia Gelati,Fantasia Gelati,0,滨水区,0.0,0.0,0.0
+面包甜点,Mennella napoli,Mennella napoli,0,滨水区,0.0,0.0,0.0
+面包甜点,Gelateria Cerasella,Gelateria Cerasella,0,滨水区,0.0,0.0,0.0
+面包甜点,La Yogurteria Napoli - Chiaia,La Yogurteria Napoli - Chiaia,0,滨水区,0.0,0.0,0.0
+面包甜点,Offficina gelati,Offficina gelati,0,滨水区,0.0,0.0,0.0
+面包甜点,Giovanni Scaturchio,Giovanni Scaturchio,0,大学区域,0.0,0.0,0.0
+面包甜点,Remygelo,Remygelo,0,其他,0.0,0.0,0.0
+面包甜点,La Yogurteria Vomero,La Yogurteria Vomero,0,其他,0.0,0.0,0.0
+面包甜点,Panificio Di Pinto,Panificio Di Pinto,0,其他,0.0,0.0,0.0
+面包甜点,Add'o Cafone,Add'o Cafone,0,其他,0.0,0.0,0.0
+面包甜点,Camillo's Pub,Camillo's Pub,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Santoro,Pasticceria Santoro,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria del Gallo,Gelateria del Gallo,0,其他,0.0,0.0,0.0
+面包甜点,Bell'e Mamma,Bell'e Mamma,0,其他,0.0,0.0,0.0
+面包甜点,Pasticceria Volpe,Pasticceria Volpe,0,其他,0.0,0.0,0.0
+面包甜点,Babbo Mio,Babbo Mio,0,其他,0.0,0.0,0.0
+面包甜点,Gelateria Bilancione,Gelateria Bilancione,0,郊区,0.0,0.0,0.0
+面包甜点,Addore ' e Pane,Addore ' e Pane,0,蒙泰桑托,0.0,0.0,0.0
+面包甜点,Pasticceria Amoroso,Pasticceria Amoroso,0,其他,0.0,0.0,0.0
+面包甜点,YO! Yogurteria Napoli,YO! Yogurteria Napoli,0,其他,0.0,0.0,0.0
+面包甜点,King Ice Gelateria,King Ice Gelateria,0,其他,0.0,0.0,0.0
+面包甜点,Piadina Ailo,Piadina Ailo,0,滨水区,0.0,0.0,0.0
+面包甜点,La Porchetteria Epomeo,La Porchetteria Epomeo,0,其他,0.0,0.0,0.0
+面包甜点,Napoli Centrale,Napoli Centrale,0,其他,0.0,0.0,0.0
+面包甜点,Cotto E Mangiato,Cotto E Mangiato,0,其他,0.0,0.0,0.0
+面包甜点,Tre lire,Tre lire,0,滨水区,0.0,0.0,0.0
+面包甜点,Good Fellas,Good Fellas,0,滨水区,0.0,0.0,0.0
+面包甜点,Charlie Bread,Charlie Bread,0,其他,0.0,0.0,0.0
+面包甜点,Il Granaio,Il Granaio,0,其他,0.0,0.0,0.0
+面包甜点,Pane e dolcezze,Pane e dolcezze,0,其他,0.0,0.0,0.0
+面包甜点,Infinite Bonta,Infinite Bonta,0,其他,0.0,0.0,0.0
+面包甜点,Gli Sfizi Del Pane,Gli Sfizi Del Pane,0,其他,0.0,0.0,0.0
+面包甜点,Pizzeria Paninoteca la Dolce Sosta,Pizzeria Paninoteca la Dolce Sosta,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+面包甜点,Bacetti e baguette,Bacetti e baguette,0,,0.0,0.0,0.0
+面包甜点,Antico Forno delle Sfogliatelle Calde Fratelli,Antico Forno delle Sfogliatelle Calde Fratelli,0,,0.0,0.0,0.0
+面包甜点,Le Due Sicilie,Le Due Sicilie,0,,0.0,0.0,0.0
+面包甜点,La Dolce Primavera,La Dolce Primavera,0,,0.0,0.0,0.0
+面包甜点,Gelateria Copacabana,Gelateria Copacabana,0,,0.0,0.0,0.0
+面包甜点,Soul Bar,Soul Bar,0,,0.0,0.0,0.0
+面包甜点,Magnum Pleasure Store,Magnum Pleasure Store,0,,0.0,0.0,0.0
+面包甜点,gallucci cisterna dell olio,gallucci cisterna dell olio,0,,0.0,0.0,0.0
+面包甜点,Voglia di Pane,Voglia di Pane,0,,0.0,0.0,0.0
+酒吧,Bar Spagnuolo,Bar Spagnuolo,0,滨水区,0.0,0.0,0.0
+酒吧,Gran Caffe Scagliola,Gran Caffe Scagliola,0,大学区域,0.0,0.0,0.0
+酒吧,Vittoria Black & White,Vittoria Black & White,0,其他,0.0,0.0,0.0
+酒吧,Caffetteria Marsal,Caffetteria Marsal,0,滨水区,0.0,0.0,0.0
+酒吧,Birreria Babette,Birreria Babette,0,郊区,0.0,0.0,0.0
+酒吧,New Sapedicafe Loungebar,New Sapedicafe Loungebar,0,郊区,0.0,0.0,0.0
+酒吧,Les Belles Choses Pub,Les Belles Choses Pub,0,滨水区,0.0,0.0,0.0
+酒吧,Miami Barroom,Miami Barroom,0,滨水区,0.0,0.0,0.0
+酒吧,UNIBAR,UNIBAR,0,其他,0.0,0.0,0.0
+酒吧,Bar Mexico degli Artisti,Bar Mexico degli Artisti,0,其他,0.0,0.0,0.0
+酒吧,Gran caffe Arenella,Gran caffe Arenella,0,其他,0.0,0.0,0.0
+酒吧,Bar forturella,Bar forturella,0,郊区,0.0,0.0,0.0
+酒吧,Vineapolis,Vineapolis,0,郊区,0.0,0.0,0.0
+酒吧,Core e Cafe,Core e Cafe,0,詹图尔科,0.0,0.0,0.0
+酒吧,Borgo Vittoria Gastrobirreria,Borgo Vittoria Gastrobirreria,0,滨水区,0.0,0.0,0.0
+酒吧,Aurelio,Aurelio,0,滨水区,0.0,0.0,0.0
+酒吧,Enoteca Belledonne,Enoteca Belledonne,0,滨水区,0.0,0.0,0.0
+酒吧,Ceraldi Caffe',Ceraldi Caffe',0,滨水区,0.0,0.0,0.0
+酒吧,Gran Caffe Neapolis,Gran Caffe Neapolis,0,大学区域,0.0,0.0,0.0
+酒吧,Il Mantegno,Il Mantegno,0,大学区域,0.0,0.0,0.0
+酒吧,Voglia di graffe,Voglia di graffe,0,大学区域,0.0,0.0,0.0
+酒吧,Portico 340,Portico 340,0,大学区域,0.0,0.0,0.0
+酒吧,Gramsci Cafe Ristopub,Gramsci Cafe Ristopub,0,其他,0.0,0.0,0.0
+酒吧,Napoli Napoli,Napoli Napoli,0,其他,0.0,0.0,0.0
+酒吧,Pizzeria Da Mario,Pizzeria Da Mario,0,其他,0.0,0.0,0.0
+酒吧,Mirecla,Mirecla,0,其他,0.0,0.0,0.0
+酒吧,Fuori Menu,Fuori Menu,0,其他,0.0,0.0,0.0
+酒吧,Il cornettone,Il cornettone,0,其他,0.0,0.0,0.0
+酒吧,Birra & Bollicine,Birra & Bollicine,0,郊区,0.0,0.0,0.0
+酒吧,O Murzillo,O Murzillo,0,郊区,0.0,0.0,0.0
+酒吧,Caffe' Vanvitelli,Caffe' Vanvitelli,0,帕多瓦植物园,0.0,0.0,0.0
+酒吧,Les Chic,Les Chic,0,市中心附近,0.0,0.0,0.0
+酒吧,la spaghettata di zi assunta,la spaghettata di zi assunta,0,滨水区,0.0,0.0,0.0
+酒吧,Bar la Posta,Bar la Posta,0,大学区域,0.0,0.0,0.0
+酒吧,Vite Vite,Vite Vite,0,大学区域,0.0,0.0,0.0
+酒吧,Port Douglas,Port Douglas,0,其他,0.0,0.0,0.0
+酒吧,Birra ed Oltre,Birra ed Oltre,0,其他,0.0,0.0,0.0
+酒吧,Gran Caffe Monzu,Gran Caffe Monzu,0,其他,0.0,0.0,0.0
+酒吧,Diamond Cafe,Diamond Cafe,0,其他,0.0,0.0,0.0
+酒吧,Johnny B Goode,Johnny B Goode,0,其他,0.0,0.0,0.0
+酒吧,El Bocadito,El Bocadito,0,其他,0.0,0.0,0.0
+酒吧,The Unusual London Pub,The Unusual London Pub,0,其他,0.0,0.0,0.0
+酒吧,Binario Calmo,Binario Calmo,0,其他,0.0,0.0,0.0
+酒吧,Pasticceria Sorella Napoli,Pasticceria Sorella Napoli,0,其他,0.0,0.0,0.0
+酒吧,pasticceria azzurro,pasticceria azzurro,0,其他,0.0,0.0,0.0
+酒吧,Bunny Club,Bunny Club,0,郊区,0.0,0.0,0.0
+酒吧,Chalet Ciro,Chalet Ciro,0,郊区,0.0,0.0,0.0
+酒吧,Bar Gran Mexico Napoli,Bar Gran Mexico Napoli,0,大学区域,0.0,0.0,0.0
+酒吧,Harnold's,Harnold's,0,其他,0.0,0.0,0.0
+酒吧,Cantiere Pub,Cantiere Pub,0,其他,0.0,0.0,0.0
+酒吧,Blue Moon,Blue Moon,0,其他,0.0,0.0,0.0
+酒吧,Tennent's Tavern,Tennent's Tavern,0,滨水区,0.0,0.0,0.0
+酒吧,Leopoldo Cafebar di Leopoldo Infante,Leopoldo Cafebar di Leopoldo Infante,0,滨水区,0.0,0.0,0.0
+酒吧,Caffe Fuori dal Comune,Caffe Fuori dal Comune,0,滨水区,0.0,0.0,0.0
+酒吧,Peppe Spritz,Peppe Spritz,0,大学区域,0.0,0.0,0.0
+酒吧,Saint Tropez,Saint Tropez,0,其他,0.0,0.0,0.0
+酒吧,Il Baretto,Il Baretto,0,其他,0.0,0.0,0.0
+酒吧,Goodfellas Club Pub,Goodfellas Club Pub,0,其他,0.0,0.0,0.0
+酒吧,Blancafe,Blancafe,0,其他,0.0,0.0,0.0
+酒吧,Cafe Baguette,Cafe Baguette,0,其他,0.0,0.0,0.0
+酒吧,Mata,Mata,0,其他,0.0,0.0,0.0
+酒吧,Menhir,Menhir,0,其他,0.0,0.0,0.0
+酒吧,Dragon Cafe,Dragon Cafe,0,其他,0.0,0.0,0.0
+酒吧,Miranapoli,Miranapoli,0,郊区,0.0,0.0,0.0
+酒吧,Paradise Pizzeria Pub,Paradise Pizzeria Pub,0,郊区,0.0,0.0,0.0
+酒吧,Al Bambu',Al Bambu',0,郊区,0.0,0.0,0.0
+酒吧,Bar Blasius,Bar Blasius,0,郊区,0.0,0.0,0.0
+酒吧,Mama Cafe Lounge Bar,Mama Cafe Lounge Bar,0,郊区,0.0,0.0,0.0
+酒吧,La Bavarese,La Bavarese,0,郊区,0.0,0.0,0.0
+酒吧,Cellini Lounge Bar,Cellini Lounge Bar,0,市中心附近,0.0,0.0,0.0
+酒吧,MAYPUB,MAYPUB,0,,0.0,0.0,0.0
+酒吧,Bar Old Coffee,Bar Old Coffee,0,,0.0,0.0,0.0
+酒吧,Caffe Cortese,Caffe Cortese,0,,0.0,0.0,0.0
+酒吧,Buck Curt Bar,Buck Curt Bar,0,,0.0,0.0,0.0
+酒吧,Pizzeria Rosso Peperone,Pizzeria Rosso Peperone,0,,0.0,0.0,0.0
+酒吧,Donnaromita srl,Donnaromita srl,0,,0.0,0.0,0.0
+酒吧,Pastisserie S. Capparelli,Pastisserie S. Capparelli,0,其他,0.0,0.0,0.0
+酒吧,La Cambusa,La Cambusa,0,,0.0,0.0,0.0
+酒吧,Trinity Cafe,Trinity Cafe,0,,0.0,0.0,0.0
+酒吧,La Taverna del Taffio,La Taverna del Taffio,0,,0.0,0.0,0.0
+酒吧,L Antica Volta,L Antica Volta,0,,0.0,0.0,0.0
+酒吧,La Bufalina Snc,La Bufalina Snc,0,,0.0,0.0,0.0
+酒吧,Caffe Roma,Caffe Roma,0,,0.0,0.0,0.0
+更多美食,'O Scugnizzo,'O Scugnizzo,0,郊区,0.0,0.0,0.0
+更多美食,Dolcezze Siciliane,Dolcezze Siciliane,0,其他,0.0,0.0,0.0
+更多美食,Pizza Margherita,Pizza Margherita,0,滨水区,0.0,0.0,0.0
+更多美食,O Core E Napule,O Core E Napule,0,帕多瓦植物园,0.0,0.0,0.0
+更多美食,Pizzeria La Regina,Pizzeria La Regina,0,其他,0.0,0.0,0.0
+更多美食,Angeli,Angeli,0,滨水区,0.0,0.0,0.0
+更多美食,Teatro San Carlo,Teatro San Carlo,0,滨水区,0.0,0.0,0.0
+更多美食,Trattoria & Pizzeria F.lli Cifuni,Trattoria & Pizzeria F.lli Cifuni,0,其他,0.0,0.0,0.0
+更多美食,O'Munagiello Pizzeria,O'Munagiello Pizzeria,0,滨水区,0.0,0.0,0.0
+更多美食,Pizzeria Trattoria Pullicene,Pizzeria Trattoria Pullicene,0,市中心附近,0.0,0.0,0.0
+更多美食,Trattoria da Don Alfonso,Trattoria da Don Alfonso,0,詹图尔科,0.0,0.0,0.0
+更多美食,Trattoria e Pizzeria Antica Capri,Trattoria e Pizzeria Antica Capri,0,滨水区,0.0,0.0,0.0
+更多美食,Osteria La Svolta,Osteria La Svolta,0,滨水区,0.0,0.0,0.0
+更多美食,Pizzeria Tutino Giuseppe,Pizzeria Tutino Giuseppe,0,滨水区,0.0,0.0,0.0
+更多美食,Ristorante Il Grottino Verde,Ristorante Il Grottino Verde,0,滨水区,0.0,0.0,0.0
+更多美食,LaTasca bar,LaTasca bar,0,滨水区,0.0,0.0,0.0
+更多美食,La Focaccia,La Focaccia,0,滨水区,0.0,0.0,0.0
+更多美食,Leon D'oro,Leon D'oro,0,大学区域,0.0,0.0,0.0
+更多美食,Baccalaria,Baccalaria,0,大学区域,0.0,0.0,0.0
+更多美食,Pizzeria da Michele,Pizzeria da Michele,0,郊区,0.0,0.0,0.0
+更多美食,Pizzeria Pellone,Pizzeria Pellone,0,其他,0.0,0.0,0.0
+更多美食,Maktub,Maktub,0,滨水区,0.0,0.0,0.0
+更多美食,Cioccolato Foresta,Cioccolato Foresta,0,滨水区,0.0,0.0,0.0
+更多美食,Oasi Chiaia,Oasi Chiaia,0,滨水区,0.0,0.0,0.0
+更多美食,Libri & Caffe,Libri & Caffe,0,滨水区,0.0,0.0,0.0
+更多美食,Bar Dany 2000,Bar Dany 2000,0,滨水区,0.0,0.0,0.0
+更多美食,Opera,Opera,0,大学区域,0.0,0.0,0.0
+更多美食,Squisitezze Napoletane,Squisitezze Napoletane,0,大学区域,0.0,0.0,0.0
+更多美食,nea,nea,0,大学区域,0.0,0.0,0.0
+更多美食,La Stella di Napoli,La Stella di Napoli,0,其他,0.0,0.0,0.0
+更多美食,Rist Salvatore Alla Riviera,Rist Salvatore Alla Riviera,0,其他,0.0,0.0,0.0
+更多美食,Villa Andrea di Isernia,Villa Andrea di Isernia,0,其他,0.0,0.0,0.0
+更多美食,Pasticceria Liccardo,Pasticceria Liccardo,0,其他,0.0,0.0,0.0
+更多美食,Bar Mexico,Bar Mexico,0,其他,0.0,0.0,0.0
+更多美食,Alpen Beer,Alpen Beer,0,其他,0.0,0.0,0.0
+更多美食,Antica Cioccolateria Napoletana,Antica Cioccolateria Napoletana,0,其他,0.0,0.0,0.0
+更多美食,Fabiolotto,Fabiolotto,0,其他,0.0,0.0,0.0
+更多美食,Bar Pasticceria Corvino-Citarella,Bar Pasticceria Corvino-Citarella,0,其他,0.0,0.0,0.0
+更多美食,La Focaccia Dal 1962,La Focaccia Dal 1962,0,其他,0.0,0.0,0.0
+更多美食,Yostrike,Yostrike,0,其他,0.0,0.0,0.0
+更多美食,Al Vigneto D'oro,Al Vigneto D'oro,0,其他,0.0,0.0,0.0
+更多美食,pizzeria donn' amalia,pizzeria donn' amalia,0,其他,0.0,0.0,0.0
+更多美食,Pasticceria Sirdaco,Pasticceria Sirdaco,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Abbate Gaetano EC. Snc,Pizzeria Abbate Gaetano EC. Snc,0,其他,0.0,0.0,0.0
+更多美食,Pasticceria Napoletana,Pasticceria Napoletana,0,郊区,0.0,0.0,0.0
+更多美食,La Botteghina,La Botteghina,0,郊区,0.0,0.0,0.0
+更多美食,Pizzeria Gallo,Pizzeria Gallo,0,郊区,0.0,0.0,0.0
+更多美食,Panificio del Carmine,Panificio del Carmine,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+更多美食,Tiramisu,Tiramisu,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+更多美食,Pasticceria Poppella,Pasticceria Poppella,0,帕多瓦植物园,0.0,0.0,0.0
+更多美食,Pizzeria Vesi,Pizzeria Vesi,0,大学区域,0.0,0.0,0.0
+更多美食,Sartu,Sartu,0,其他,0.0,0.0,0.0
+更多美食,Hotel Excelsior,Hotel Excelsior,0,滨水区,0.0,0.0,0.0
+更多美食,La Locanda di Robin Hood,La Locanda di Robin Hood,0,滨水区,0.0,0.0,0.0
+更多美食,Pignatelli Caffetteria Trattoria,Pignatelli Caffetteria Trattoria,0,滨水区,0.0,0.0,0.0
+更多美食,Bausan 53,Bausan 53,0,滨水区,0.0,0.0,0.0
+更多美食,Trattoria Da Ettore,Trattoria Da Ettore,0,滨水区,0.0,0.0,0.0
+更多美食,La Volpe Sbronza,La Volpe Sbronza,0,滨水区,0.0,0.0,0.0
+更多美食,Osteria Don Maccarone,Osteria Don Maccarone,0,滨水区,0.0,0.0,0.0
+更多美食,Ristorante - Pizzeria Maestri Dal 1937,Ristorante - Pizzeria Maestri Dal 1937,0,滨水区,0.0,0.0,0.0
+更多美食,PIZZERIA NAPOLI IN BOCCA,PIZZERIA NAPOLI IN BOCCA,0,滨水区,0.0,0.0,0.0
+更多美食,Osteria l'Angolino,Osteria l'Angolino,0,滨水区,0.0,0.0,0.0
+更多美食,La Locanda del Viaggiatore,La Locanda del Viaggiatore,0,大学区域,0.0,0.0,0.0
+更多美食,Pizzeria Giuliano,Pizzeria Giuliano,0,大学区域,0.0,0.0,0.0
+更多美食,Caffe Vesuvio Due,Caffe Vesuvio Due,0,大学区域,0.0,0.0,0.0
+更多美食,Portanova Cafe,Portanova Cafe,0,大学区域,0.0,0.0,0.0
+更多美食,L'isola Che Non C'e,L'isola Che Non C'e,0,大学区域,0.0,0.0,0.0
+更多美食,Bar Nilo,Bar Nilo,0,大学区域,0.0,0.0,0.0
+更多美食,Teranga Worldwide Pub,Teranga Worldwide Pub,0,大学区域,0.0,0.0,0.0
+更多美食,Add'a' Signora a Mergellina,Add'a' Signora a Mergellina,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Vomero,Pizzeria Vomero,0,其他,0.0,0.0,0.0
+更多美食,Biancobio,Biancobio,0,其他,0.0,0.0,0.0
+更多美食,Caffe Antico Mexico Srl Bar Torrefazione,Caffe Antico Mexico Srl Bar Torrefazione,0,其他,0.0,0.0,0.0
+更多美食,Taverna Del Conte,Taverna Del Conte,0,其他,0.0,0.0,0.0
+更多美食,Diwine,Diwine,0,其他,0.0,0.0,0.0
+更多美食,Bar Salvo,Bar Salvo,0,其他,0.0,0.0,0.0
+更多美食,Mi Vida,Mi Vida,0,其他,0.0,0.0,0.0
+更多美食,Gustomania,Gustomania,0,其他,0.0,0.0,0.0
+更多美食,Ristopub C'e Che C'e,Ristopub C'e Che C'e,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Friggitoria Da Asporto Peppe & Figli,Pizzeria Friggitoria Da Asporto Peppe & Figli,0,其他,0.0,0.0,0.0
+更多美食,Burnin' Beer Room,Burnin' Beer Room,0,其他,0.0,0.0,0.0
+更多美食,Pescheria Capri,Pescheria Capri,0,其他,0.0,0.0,0.0
+更多美食,Bar Mexico,Bar Mexico,0,其他,0.0,0.0,0.0
+更多美食,Pizza Ciro,Pizza Ciro,0,其他,0.0,0.0,0.0
+更多美食,Trianon Moffa,Trianon Moffa,0,其他,0.0,0.0,0.0
+更多美食,Vesuvio Trattoria e Pizzeria,Vesuvio Trattoria e Pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Lido Marechiaro,Ristorante Lido Marechiaro,0,郊区,0.0,0.0,0.0
+更多美食,Le Cascine,Le Cascine,0,郊区,0.0,0.0,0.0
+更多美食,Intenso Fusion Bar,Intenso Fusion Bar,0,郊区,0.0,0.0,0.0
+更多美食,Baia 2 Frati,Baia 2 Frati,0,郊区,0.0,0.0,0.0
+更多美食,Ciarly,Ciarly,0,郊区,0.0,0.0,0.0
+更多美食,Il Miracolo dei Pesci,Il Miracolo dei Pesci,0,郊区,0.0,0.0,0.0
+更多美食,Pizza e Contorni,Pizza e Contorni,0,郊区,0.0,0.0,0.0
+更多美食,Fantasia Gelati,Fantasia Gelati,0,郊区,0.0,0.0,0.0
+更多美食,Agliara,Agliara,0,郊区,0.0,0.0,0.0
+更多美食,Ristorante Bannera,Ristorante Bannera,0,郊区,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Bernadette,Ristorante Pizzeria Bernadette,0,郊区,0.0,0.0,0.0
+更多美食,Palummella,Palummella,0,郊区,0.0,0.0,0.0
+更多美食,James Joyce Irish Pub,James Joyce Irish Pub,0,郊区,0.0,0.0,0.0
+更多美食,A Casa di Federico,A Casa di Federico,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+更多美食,Trattoria Tipica di Giovanni,Trattoria Tipica di Giovanni,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+更多美食,Ristorante da Leonardo,Ristorante da Leonardo,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+更多美食,Pasticceria Vittorio Carraturo,Pasticceria Vittorio Carraturo,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+更多美食,De' figliole,De' figliole,0,医院区域,0.0,0.0,0.0
+更多美食,I Buongustai,I Buongustai,0,医院区域,0.0,0.0,0.0
+更多美食,E Pronto o Mangia,E Pronto o Mangia,0,帕多瓦植物园,0.0,0.0,0.0
+更多美食,Purperia da zi' Rafele,Purperia da zi' Rafele,0,帕多瓦植物园,0.0,0.0,0.0
+更多美食,Pizzeria Rosa,Pizzeria Rosa,0,帕多瓦植物园,0.0,0.0,0.0
+更多美食,Vecchia Napoli,Vecchia Napoli,0,蒙泰桑托,0.0,0.0,0.0
+更多美食,Brasiliano,Brasiliano,0,滨水区,0.0,0.0,0.0
+更多美食,Palazzo Petrucci Pizzeria,Palazzo Petrucci Pizzeria,0,其他,0.0,0.0,0.0
+更多美食,Tuberland,Tuberland,0,其他,0.0,0.0,0.0
+更多美食,Pasticceria Bellavia,Pasticceria Bellavia,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Da Patrizia,Trattoria Da Patrizia,0,滨水区,0.0,0.0,0.0
+更多美食,Transatlantico,Transatlantico,0,滨水区,0.0,0.0,0.0
+更多美食,Da Pietro,Da Pietro,0,滨水区,0.0,0.0,0.0
+更多美食,Stella Ristorante Pizzeria,Stella Ristorante Pizzeria,0,滨水区,0.0,0.0,0.0
+更多美食,Ristorazione Napoli s.r.l.,Ristorazione Napoli s.r.l.,0,滨水区,0.0,0.0,0.0
+更多美食,Toto e Peppino,Toto e Peppino,0,滨水区,0.0,0.0,0.0
+更多美食,Gran Bar Riviera,Gran Bar Riviera,0,滨水区,0.0,0.0,0.0
+更多美食,Ristorante Marco's,Ristorante Marco's,0,滨水区,0.0,0.0,0.0
+更多美食,Umberto,Umberto,0,滨水区,0.0,0.0,0.0
+更多美食,San Carlo,San Carlo,0,滨水区,0.0,0.0,0.0
+更多美食,Happy Rock,Happy Rock,0,滨水区,0.0,0.0,0.0
+更多美食,Da Antonio,Da Antonio,0,滨水区,0.0,0.0,0.0
+更多美食,Mondo Pizza,Mondo Pizza,0,滨水区,0.0,0.0,0.0
+更多美食,Moccia,Moccia,0,滨水区,0.0,0.0,0.0
+更多美食,El Sielo Raso,El Sielo Raso,0,滨水区,0.0,0.0,0.0
+更多美食,Trattoria dell'Oca,Trattoria dell'Oca,0,滨水区,0.0,0.0,0.0
+更多美食,Chiquita Fruit Bar,Chiquita Fruit Bar,0,滨水区,0.0,0.0,0.0
+更多美食,Osteria della Mattonella,Osteria della Mattonella,0,滨水区,0.0,0.0,0.0
+更多美食,Pasticcerie Leopoldo S.R.L,Pasticcerie Leopoldo S.R.L,0,滨水区,0.0,0.0,0.0
+更多美食,Il Soldino,Il Soldino,0,滨水区,0.0,0.0,0.0
+更多美食,Nu Murzill Sapurito,Nu Murzill Sapurito,0,滨水区,0.0,0.0,0.0
+更多美食,La Chiacchierata,La Chiacchierata,0,滨水区,0.0,0.0,0.0
+更多美食,Le Arcate,Le Arcate,0,滨水区,0.0,0.0,0.0
+更多美食,D'Angelo,D'Angelo,0,滨水区,0.0,0.0,0.0
+更多美食,Pintauro,Pintauro,0,滨水区,0.0,0.0,0.0
+更多美食,'A Taverna Do Re,'A Taverna Do Re,0,滨水区,0.0,0.0,0.0
+更多美食,Trattoria Castel Nuovo,Trattoria Castel Nuovo,0,滨水区,0.0,0.0,0.0
+更多美食,Locanda Maliziusella,Locanda Maliziusella,0,滨水区,0.0,0.0,0.0
+更多美食,Osteria Degli Angioini,Osteria Degli Angioini,0,滨水区,0.0,0.0,0.0
+更多美食,Caffetteria Marino,Caffetteria Marino,0,滨水区,0.0,0.0,0.0
+更多美食,Ciro a Medina,Ciro a Medina,0,滨水区,0.0,0.0,0.0
+更多美食,Bar Caffetteria Montella,Bar Caffetteria Montella,0,滨水区,0.0,0.0,0.0
+更多美食,La Vecchia Cantina,La Vecchia Cantina,0,滨水区,0.0,0.0,0.0
+更多美食,Trattoria Casillo,Trattoria Casillo,0,滨水区,0.0,0.0,0.0
+更多美食,Ma Tu Vulive'a Pizza,Ma Tu Vulive'a Pizza,0,大学区域,0.0,0.0,0.0
+更多美食,Drago d'oro,Drago d'oro,0,大学区域,0.0,0.0,0.0
+更多美食,Mangia e Bevi,Mangia e Bevi,0,大学区域,0.0,0.0,0.0
+更多美食,Osteria La Chitarra,Osteria La Chitarra,0,大学区域,0.0,0.0,0.0
+更多美食,Amico Bio,Amico Bio,0,大学区域,0.0,0.0,0.0
+更多美食,Un Sorriso Integrale,Un Sorriso Integrale,0,大学区域,0.0,0.0,0.0
+更多美食,Bar dell'Epoca,Bar dell'Epoca,0,大学区域,0.0,0.0,0.0
+更多美食,Antica Trattoria da Carmine,Antica Trattoria da Carmine,0,大学区域,0.0,0.0,0.0
+更多美食,Cibi Cotti,Cibi Cotti,0,其他,0.0,0.0,0.0
+更多美食,i sapori del cantone,i sapori del cantone,0,,0.0,0.0,0.0
+更多美食,La Ninfea,La Ninfea,0,其他,0.0,0.0,0.0
+更多美食,Manino Ristorante,Manino Ristorante,0,其他,0.0,0.0,0.0
+更多美食,Tokio SAS,Tokio SAS,0,其他,0.0,0.0,0.0
+更多美食,La Cueva,La Cueva,0,其他,0.0,0.0,0.0
+更多美食,La Nuova Quercia,La Nuova Quercia,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Giapponese Tokyo,Ristorante Giapponese Tokyo,0,其他,0.0,0.0,0.0
+更多美食,Il Gallo Nero,Il Gallo Nero,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Tasso,Pizzeria Tasso,0,其他,0.0,0.0,0.0
+更多美食,'Na Tarantella,'Na Tarantella,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Da Stefy,Pizzeria Da Stefy,0,其他,0.0,0.0,0.0
+更多美食,La Pizzettata,La Pizzettata,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Acunzo,Ristorante Acunzo,0,其他,0.0,0.0,0.0
+更多美食,L'Arte della Pizza,L'Arte della Pizza,0,其他,0.0,0.0,0.0
+更多美食,Antica Cantina di Sica,Antica Cantina di Sica,0,其他,0.0,0.0,0.0
+更多美食,Fantasia Gelati,Fantasia Gelati,0,其他,0.0,0.0,0.0
+更多美食,La Paranza,La Paranza,0,其他,0.0,0.0,0.0
+更多美食,Il Panuozzo D'oro,Il Panuozzo D'oro,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Bella Figliola,Pizzeria Bella Figliola,0,其他,0.0,0.0,0.0
+更多美食,Osteria Donna Teresa,Osteria Donna Teresa,0,其他,0.0,0.0,0.0
+更多美食,Cucina Casareccia Da Peppe,Cucina Casareccia Da Peppe,0,其他,0.0,0.0,0.0
+更多美食,Speedy Pita,Speedy Pita,0,其他,0.0,0.0,0.0
+更多美食,Magn Magn,Magn Magn,0,其他,0.0,0.0,0.0
+更多美食,Herr Daniel,Herr Daniel,0,其他,0.0,0.0,0.0
+更多美食,Mr. Gusto,Mr. Gusto,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Salvator Rosa,Pizzeria Salvator Rosa,0,其他,0.0,0.0,0.0
+更多美食,Bar Gianni,Bar Gianni,0,其他,0.0,0.0,0.0
+更多美食,Antica Pasticceria Cuori di Sfogliatella,Antica Pasticceria Cuori di Sfogliatella,0,其他,0.0,0.0,0.0
+更多美食,Bergantino,Bergantino,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria D' Elia,Pizzeria D' Elia,0,其他,0.0,0.0,0.0
+更多美食,O spass dal 1945,O spass dal 1945,0,其他,0.0,0.0,0.0
+更多美食,Rocco e i suoi Fratelli,Rocco e i suoi Fratelli,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Le Nonnerie,Trattoria Le Nonnerie,0,其他,0.0,0.0,0.0
+更多美食,Pasticceria Colmayer Antonio,Pasticceria Colmayer Antonio,0,其他,0.0,0.0,0.0
+更多美食,O' Ficciaiuolo,O' Ficciaiuolo,0,,0.0,0.0,0.0
+更多美食,Starita,Starita,0,其他,0.0,0.0,0.0
+更多美食,Ke Bar,Ke Bar,0,,0.0,0.0,0.0
+更多美食,Chez Moi,Chez Moi,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Da Gennaro,Pizzeria Da Gennaro,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Da Pasquale Di Di Marino Antonietta,Pizzeria Da Pasquale Di Di Marino Antonietta,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Capozzella,Pizzeria Capozzella,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Trattoria La Nuova Italia SAS,Pizzeria Trattoria La Nuova Italia SAS,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Calasole,Ristorante Calasole,0,郊区,0.0,0.0,0.0
+更多美食,Ristorante Carolina Celotto Di Carolina Celotto,Ristorante Carolina Celotto Di Carolina Celotto,0,郊区,0.0,0.0,0.0
+更多美食,Il Ciclope,Il Ciclope,0,郊区,0.0,0.0,0.0
+更多美食,Enrique's,Enrique's,0,郊区,0.0,0.0,0.0
+更多美食,La Voglia Calda,La Voglia Calda,0,郊区,0.0,0.0,0.0
+更多美食,Villa Caracciolo,Villa Caracciolo,0,郊区,0.0,0.0,0.0
+更多美食,Le Due Palme,Le Due Palme,0,郊区,0.0,0.0,0.0
+更多美食,Pizzeria di Napoli,Pizzeria di Napoli,0,郊区,0.0,0.0,0.0
+更多美食,Pizzaioli Veraci,Pizzaioli Veraci,0,郊区,0.0,0.0,0.0
+更多美食,Ristorante Villa Astronia,Ristorante Villa Astronia,0,郊区,0.0,0.0,0.0
+更多美食,I sapori della piazza,I sapori della piazza,0,郊区,0.0,0.0,0.0
+更多美食,Bar Pasticceria Agrillo,Bar Pasticceria Agrillo,0,郊区,0.0,0.0,0.0
+更多美食,Glory Pub,Glory Pub,0,郊区,0.0,0.0,0.0
+更多美食,Ricomincio da Tre,Ricomincio da Tre,0,郊区,0.0,0.0,0.0
+更多美食,Le Ancore,Le Ancore,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+更多美食,La Brace,La Brace,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+更多美食,Bar Tico,Bar Tico,0,医院区域,0.0,0.0,0.0
+更多美食,Sfogliatelle e Baba' di Scuotto Maria,Sfogliatelle e Baba' di Scuotto Maria,0,医院区域,0.0,0.0,0.0
+更多美食,M Gallery Palazzo Caracciolo,M Gallery Palazzo Caracciolo,0,医院区域,0.0,0.0,0.0
+更多美食,Ristorante La Cucina,Ristorante La Cucina,0,医院区域,0.0,0.0,0.0
+更多美食,Kilo,Kilo,0,詹图尔科,0.0,0.0,0.0
+更多美食,Le Dolcezze Napoletane,Le Dolcezze Napoletane,0,其他,0.0,0.0,0.0
+更多美食,Panificio E Pasticceria Antonio Rescigno,Panificio E Pasticceria Antonio Rescigno,0,其他,0.0,0.0,0.0
+更多美食,'O Tabaccaro,'O Tabaccaro,0,其他,0.0,0.0,0.0
+更多美食,Cafe la Nuit,Cafe la Nuit,0,其他,0.0,0.0,0.0
+更多美食,O Peccato E S. Eligio,O Peccato E S. Eligio,0,其他,0.0,0.0,0.0
+更多美食,La Bersagliera,La Bersagliera,0,滨水区,0.0,0.0,0.0
+更多美食,Rosolino,Rosolino,0,滨水区,0.0,0.0,0.0
+更多美食,Nexxt Pub & Grill,Nexxt Pub & Grill,0,滨水区,0.0,0.0,0.0
+更多美食,Trattoria Medina alla Riviera,Trattoria Medina alla Riviera,0,滨水区,0.0,0.0,0.0
+更多美食,Torre degli Aironi,Torre degli Aironi,0,滨水区,0.0,0.0,0.0
+更多美食,Corcovado Club,Corcovado Club,0,滨水区,0.0,0.0,0.0
+更多美食,Gran Caffe La Caffettiera,Gran Caffe La Caffettiera,0,滨水区,0.0,0.0,0.0
+更多美食,Da Dora,Da Dora,0,滨水区,0.0,0.0,0.0
+更多美食,Donna Margherita,Donna Margherita,0,滨水区,0.0,0.0,0.0
+更多美食,Gran Caffe' Cimmino,Gran Caffe' Cimmino,0,滨水区,0.0,0.0,0.0
+更多美食,Antica Osteria da Tonino,Antica Osteria da Tonino,0,滨水区,0.0,0.0,0.0
+更多美食,Caffe D'Epoca,Caffe D'Epoca,0,滨水区,0.0,0.0,0.0
+更多美食,Il Pomodorino,Il Pomodorino,0,滨水区,0.0,0.0,0.0
+更多美食,Hosteria Toledo,Hosteria Toledo,0,滨水区,0.0,0.0,0.0
+更多美食,SoloPizza,SoloPizza,0,滨水区,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Mattozzi,Ristorante Pizzeria Mattozzi,0,滨水区,0.0,0.0,0.0
+更多美食,Gelateria della Scimmia,Gelateria della Scimmia,0,滨水区,0.0,0.0,0.0
+更多美食,Trattoria Pizzeria Pepenero,Trattoria Pizzeria Pepenero,0,滨水区,0.0,0.0,0.0
+更多美食,Il Pomodorino,Il Pomodorino,0,大学区域,0.0,0.0,0.0
+更多美食,Timpani e Tempura,Timpani e Tempura,0,大学区域,0.0,0.0,0.0
+更多美食,La Stanza del Gusto,La Stanza del Gusto,0,大学区域,0.0,0.0,0.0
+更多美食,L'etto,L'etto,0,大学区域,0.0,0.0,0.0
+更多美食,ORANGE RISTORANTE BRACERIA,ORANGE RISTORANTE BRACERIA,0,其他,0.0,0.0,0.0
+更多美食,Il Vinacciolo,Il Vinacciolo,0,其他,0.0,0.0,0.0
+更多美食,El Sombrero Grill,El Sombrero Grill,0,其他,0.0,0.0,0.0
+更多美食,La Caraffa,La Caraffa,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Acunzo,Pizzeria Acunzo,0,其他,0.0,0.0,0.0
+更多美食,Biotic,Biotic,0,其他,0.0,0.0,0.0
+更多美食,Steak House,Steak House,0,其他,0.0,0.0,0.0
+更多美食,Charigot,Charigot,0,其他,0.0,0.0,0.0
+更多美食,Biergarten Pub,Biergarten Pub,0,其他,0.0,0.0,0.0
+更多美食,Casa Alfonso,Casa Alfonso,0,其他,0.0,0.0,0.0
+更多美食,Sanimorsi,Sanimorsi,0,其他,0.0,0.0,0.0
+更多美食,Ristorante la Torre,Ristorante la Torre,0,其他,0.0,0.0,0.0
+更多美食,Dolce Vita,Dolce Vita,0,其他,0.0,0.0,0.0
+更多美食,Ciottolo,Ciottolo,0,其他,0.0,0.0,0.0
+更多美食,Alaska Pub,Alaska Pub,0,其他,0.0,0.0,0.0
+更多美食,Mamma Oliva,Mamma Oliva,0,其他,0.0,0.0,0.0
+更多美食,La Spaghettata,La Spaghettata,0,其他,0.0,0.0,0.0
+更多美食,New Around Midnight,New Around Midnight,0,其他,0.0,0.0,0.0
+更多美食,Jack Pub,Jack Pub,0,其他,0.0,0.0,0.0
+更多美食,Il Ciottolo,Il Ciottolo,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Il Polipo,Ristorante Il Polipo,0,其他,0.0,0.0,0.0
+更多美食,Casa Lerario Restaurant,Casa Lerario Restaurant,0,其他,0.0,0.0,0.0
+更多美食,La Cantina del Gastronauta,La Cantina del Gastronauta,0,其他,0.0,0.0,0.0
+更多美食,Fratelli La Bufala,Fratelli La Bufala,0,其他,0.0,0.0,0.0
+更多美食,Magno Pizza,Magno Pizza,0,其他,0.0,0.0,0.0
+更多美食,Fratelli La Bufala,Fratelli La Bufala,0,其他,0.0,0.0,0.0
+更多美食,Ferrieri Punto Uno,Ferrieri Punto Uno,0,其他,0.0,0.0,0.0
+更多美食,La Taverna di Bacco,La Taverna di Bacco,0,其他,0.0,0.0,0.0
+更多美食,Pizzazza,Pizzazza,0,其他,0.0,0.0,0.0
+更多美食,e Vicchiarelle,e Vicchiarelle,0,其他,0.0,0.0,0.0
+更多美食,Fantasie Di Napoli,Fantasie Di Napoli,0,其他,0.0,0.0,0.0
+更多美食,Ristorante La Fontanella,Ristorante La Fontanella,0,其他,0.0,0.0,0.0
+更多美食,Il faretto,Il faretto,0,郊区,0.0,0.0,0.0
+更多美食,Da Cicciotto,Da Cicciotto,0,郊区,0.0,0.0,0.0
+更多美食,Rosiello,Rosiello,0,郊区,0.0,0.0,0.0
+更多美食,La Mescita,La Mescita,0,郊区,0.0,0.0,0.0
+更多美食,Sbrescia,Sbrescia,0,郊区,0.0,0.0,0.0
+更多美食,Al Poeta,Al Poeta,0,郊区,0.0,0.0,0.0
+更多美食,Blackwood Pub & Grill,Blackwood Pub & Grill,0,郊区,0.0,0.0,0.0
+更多美食,Reginella,Reginella,0,郊区,0.0,0.0,0.0
+更多美食,'O Calamaro,'O Calamaro,0,郊区,0.0,0.0,0.0
+更多美食,Don Salvatore,Don Salvatore,0,郊区,0.0,0.0,0.0
+更多美食,Pizzeria Fratelli Cafasso,Pizzeria Fratelli Cafasso,0,郊区,0.0,0.0,0.0
+更多美食,Chiquitos,Chiquitos,0,郊区,0.0,0.0,0.0
+更多美食,Paddy's Pub,Paddy's Pub,0,郊区,0.0,0.0,0.0
+更多美食,Taverna del Mangione,Taverna del Mangione,0,郊区,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria da Tonino,Ristorante Pizzeria da Tonino,0,郊区,0.0,0.0,0.0
+更多美食,Ristorante I D'Avino,Ristorante I D'Avino,0,郊区,0.0,0.0,0.0
+更多美食,Il Figlio del Presidente,Il Figlio del Presidente,0,医院区域,0.0,0.0,0.0
+更多美食,Amabile,Amabile,0,詹图尔科,0.0,0.0,0.0
+更多美食,Pizzeria Aiello,Pizzeria Aiello,0,市中心附近,0.0,0.0,0.0
+更多美食,Caffe Ferrieri,Caffe Ferrieri,0,其他,0.0,0.0,0.0
+更多美食,Trattoria da Umberto,Trattoria da Umberto,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Ciro,Ristorante Ciro,0,滨水区,0.0,0.0,0.0
+更多美食,Pizzeria del Borgo,Pizzeria del Borgo,0,滨水区,0.0,0.0,0.0
+更多美食,Ciro al Borgo Marinaro,Ciro al Borgo Marinaro,0,滨水区,0.0,0.0,0.0
+更多美食,I Partenopei,I Partenopei,0,滨水区,0.0,0.0,0.0
+更多美食,Magno,Magno,0,滨水区,0.0,0.0,0.0
+更多美食,Dante e Beatrice,Dante e Beatrice,0,滨水区,0.0,0.0,0.0
+更多美食,Chiatamon 16,Chiatamon 16,0,滨水区,0.0,0.0,0.0
+更多美食,Il Posto Accanto,Il Posto Accanto,0,滨水区,0.0,0.0,0.0
+更多美食,Pizzeria Fresco,Pizzeria Fresco,0,滨水区,0.0,0.0,0.0
+更多美食,La Cantinella Club di Napoli,La Cantinella Club di Napoli,0,滨水区,0.0,0.0,0.0
+更多美食,I Masanielli,I Masanielli,0,滨水区,0.0,0.0,0.0
+更多美食,Orange,Orange,0,滨水区,0.0,0.0,0.0
+更多美食,Texas Old West,Texas Old West,0,滨水区,0.0,0.0,0.0
+更多美食,Rosati,Rosati,0,滨水区,0.0,0.0,0.0
+更多美食,Cafe Amedeus,Cafe Amedeus,0,滨水区,0.0,0.0,0.0
+更多美食,Caffe Rosati,Caffe Rosati,0,滨水区,0.0,0.0,0.0
+更多美食,Cup Cap's coffee,Cup Cap's coffee,0,滨水区,0.0,0.0,0.0
+更多美食,Caffe San Carlo,Caffe San Carlo,0,滨水区,0.0,0.0,0.0
+更多美食,L.U.I.S.E.,L.U.I.S.E.,0,滨水区,0.0,0.0,0.0
+更多美食,Fratelli La Bufala,Fratelli La Bufala,0,滨水区,0.0,0.0,0.0
+更多美食,Bar Luciano,Bar Luciano,0,滨水区,0.0,0.0,0.0
+更多美食,Fratelli La Bufala,Fratelli La Bufala,0,滨水区,0.0,0.0,0.0
+更多美食,La Terrazza dei Barbanti,La Terrazza dei Barbanti,0,滨水区,0.0,0.0,0.0
+更多美食,Gelateria Del Gesu' Srl,Gelateria Del Gesu' Srl,0,大学区域,0.0,0.0,0.0
+更多美食,Texas Bar Pub,Texas Bar Pub,0,大学区域,0.0,0.0,0.0
+更多美食,Intra Moenia,Intra Moenia,0,大学区域,0.0,0.0,0.0
+更多美食,Volver Cafe,Volver Cafe,0,大学区域,0.0,0.0,0.0
+更多美食,Il Picaro,Il Picaro,0,其他,0.0,0.0,0.0
+更多美食,Bar San Francesco,Bar San Francesco,0,其他,0.0,0.0,0.0
+更多美食,China Town,China Town,0,其他,0.0,0.0,0.0
+更多美食,Chipstar,Chipstar,0,其他,0.0,0.0,0.0
+更多美食,L'Antico Caffe,L'Antico Caffe,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Vanvitelli,Trattoria Vanvitelli,0,其他,0.0,0.0,0.0
+更多美食,Sfizi e Contorni,Sfizi e Contorni,0,其他,0.0,0.0,0.0
+更多美食,Caffetteria Umberto,Caffetteria Umberto,0,其他,0.0,0.0,0.0
+更多美食,Tiffany,Tiffany,0,其他,0.0,0.0,0.0
+更多美食,Pizza e Contorni,Pizza e Contorni,0,其他,0.0,0.0,0.0
+更多美食,Eccellenze Campane,Eccellenze Campane,0,其他,0.0,0.0,0.0
+更多美食,Il Carnaio,Il Carnaio,0,其他,0.0,0.0,0.0
+更多美食,OneMore,OneMore,0,其他,0.0,0.0,0.0
+更多美食,Fish Experiences,Fish Experiences,0,其他,0.0,0.0,0.0
+更多美食,Caffetteria Bernini,Caffetteria Bernini,0,其他,0.0,0.0,0.0
+更多美食,Emilio,Emilio,0,其他,0.0,0.0,0.0
+更多美食,Madani,Madani,0,其他,0.0,0.0,0.0
+更多美食,Dea Cafe,Dea Cafe,0,其他,0.0,0.0,0.0
+更多美食,Gran Caffe Medaglie D'oro,Gran Caffe Medaglie D'oro,0,其他,0.0,0.0,0.0
+更多美食,Miseria e Nobilta SRL,Miseria e Nobilta SRL,0,其他,0.0,0.0,0.0
+更多美食,Sinclair Scottish Pub,Sinclair Scottish Pub,0,其他,0.0,0.0,0.0
+更多美食,Cavour,Cavour,0,其他,0.0,0.0,0.0
+更多美食,Bar Ballantines 12,Bar Ballantines 12,0,其他,0.0,0.0,0.0
+更多美食,El Picasso,El Picasso,0,其他,0.0,0.0,0.0
+更多美食,La Tana dell'Arte,La Tana dell'Arte,0,其他,0.0,0.0,0.0
+更多美食,Da Mario,Da Mario,0,其他,0.0,0.0,0.0
+更多美食,Ristopesce,Ristopesce,0,其他,0.0,0.0,0.0
+更多美食,Regine' Show,Regine' Show,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Gorizia,Pizzeria Gorizia,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Basilio,Ristorante Basilio,0,,0.0,0.0,0.0
+更多美食,Jemming,Jemming,0,其他,0.0,0.0,0.0
+更多美食,Mascolo,Mascolo,0,其他,0.0,0.0,0.0
+更多美食,CIRO a Santa Brigida,CIRO a Santa Brigida,0,,0.0,0.0,0.0
+更多美食,Taverna Mariposa,Taverna Mariposa,0,其他,0.0,0.0,0.0
+更多美食,Al Faro,Al Faro,0,郊区,0.0,0.0,0.0
+更多美食,Al Pruneto,Al Pruneto,0,郊区,0.0,0.0,0.0
+更多美食,La Sierra,La Sierra,0,郊区,0.0,0.0,0.0
+更多美食,Voga Club,Voga Club,0,郊区,0.0,0.0,0.0
+更多美食,Il Serpentone,Il Serpentone,0,郊区,0.0,0.0,0.0
+更多美食,Pizzeria Campegna,Pizzeria Campegna,0,郊区,0.0,0.0,0.0
+更多美食,La Bella Figliola,La Bella Figliola,0,郊区,0.0,0.0,0.0
+更多美食,Al Gambero Rosso SNC,Al Gambero Rosso SNC,0,郊区,0.0,0.0,0.0
+更多美食,Gran Bar Franco,Gran Bar Franco,0,郊区,0.0,0.0,0.0
+更多美食,Pub Addo'Papusc,Pub Addo'Papusc,0,郊区,0.0,0.0,0.0
+更多美食,Rama Beach,Rama Beach,0,郊区,0.0,0.0,0.0
+更多美食,Zi Totonno a Mergellina,Zi Totonno a Mergellina,0,郊区,0.0,0.0,0.0
+更多美食,Hotel Ideal Restaurant,Hotel Ideal Restaurant,0,阿纳尔道卢奇科索,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria La Reggia,Ristorante Pizzeria La Reggia,0,帕多瓦植物园,0.0,0.0,0.0
+更多美食,Bella Briana,Bella Briana,0,其他,0.0,0.0,0.0
+更多美食,Doria83,Doria83,0,,0.0,0.0,0.0
+更多美食,Bellavista SAS Di Pacifico Assunta,Bellavista SAS Di Pacifico Assunta,0,,0.0,0.0,0.0
+更多美食,Jolly Pizza Sant  Antimo,Jolly Pizza Sant  Antimo,0,,0.0,0.0,0.0
+更多美食,La Cantinetta,La Cantinetta,0,,0.0,0.0,0.0
+更多美食,Cos E Pazz,Cos E Pazz,0,,0.0,0.0,0.0
+更多美食,Antico Caffe Moro,Antico Caffe Moro,0,,0.0,0.0,0.0
+更多美食,Napul e',Napul e',0,,0.0,0.0,0.0
+更多美食,The Break - La Pausa,The Break - La Pausa,0,,0.0,0.0,0.0
+更多美食,Pizzeria Pepito's,Pizzeria Pepito's,0,,0.0,0.0,0.0
+更多美食,Restaurant Le Dogon Chez Affou,Restaurant Le Dogon Chez Affou,0,,0.0,0.0,0.0
+更多美食,ebymax,ebymax,0,,0.0,0.0,0.0
+更多美食,Bosco,Bosco,0,,0.0,0.0,0.0
+更多美食,Bar Be Bop Di Francesco Fasciglione,Bar Be Bop Di Francesco Fasciglione,0,,0.0,0.0,0.0
+更多美食,Ristorante E Pizzeria Fratem,Ristorante E Pizzeria Fratem,0,,0.0,0.0,0.0
+更多美食,Sapori&Saperi,Sapori&Saperi,0,滨水区,0.0,0.0,0.0
+更多美食,El Bocadillo,El Bocadillo,0,滨水区,0.0,0.0,0.0
+更多美食,Giappo Cilea,Giappo Cilea,0,其他,0.0,0.0,0.0
+更多美食,Villa Annie,Villa Annie,0,其他,0.0,0.0,0.0
+更多美食,Al Sarago,Al Sarago,0,其他,0.0,0.0,0.0
+更多美食,La Fila,La Fila,0,市中心附近,0.0,0.0,0.0
+更多美食,Elephant Thai,Elephant Thai,0,,0.0,0.0,0.0
+更多美食,Magnan Magnan te vene appettit,Magnan Magnan te vene appettit,0,,0.0,0.0,0.0
+更多美食,El Chico,El Chico,0,,0.0,0.0,0.0
+更多美食,O Primm O Secondo e O Terzo,O Primm O Secondo e O Terzo,0,,0.0,0.0,0.0
+更多美食,Megaris,Megaris,0,,0.0,0.0,0.0
+更多美食,Lamanna Rosa,Lamanna Rosa,0,,0.0,0.0,0.0
+更多美食,Ristor. Pizzeria Monnalisa SAS,Ristor. Pizzeria Monnalisa SAS,0,,0.0,0.0,0.0
+更多美食,Pizzeria Nana Di Riccio Ciro,Pizzeria Nana Di Riccio Ciro,0,,0.0,0.0,0.0
+更多美食,Nuovo Bar Mexico 70,Nuovo Bar Mexico 70,0,,0.0,0.0,0.0
+更多美食,Voce  e Notte,Voce  e Notte,0,,0.0,0.0,0.0
+更多美食,Accademia,Accademia,0,,0.0,0.0,0.0
+更多美食,Zi Tetesa,Zi Tetesa,0,,0.0,0.0,0.0
+更多美食,Quisimangia,Quisimangia,0,,0.0,0.0,0.0
+更多美食,Nas E Can,Nas E Can,0,,0.0,0.0,0.0
+更多美食,Girarrosto a legna pulcino può,Girarrosto a legna pulcino può,0,,0.0,0.0,0.0
+更多美食,Panificio Pizzeria Marigliano,Panificio Pizzeria Marigliano,0,,0.0,0.0,0.0
+更多美食,Pizzeria (Pizza Amore E Fantasia),Pizzeria (Pizza Amore E Fantasia),0,,0.0,0.0,0.0
+更多美食,Gran Caffe  Veglia,Gran Caffe  Veglia,0,,0.0,0.0,0.0
+更多美食,Villa Gardenia,Villa Gardenia,0,,0.0,0.0,0.0
+更多美食,BereVino WineBar,BereVino WineBar,0,,0.0,0.0,0.0
+更多美食,Esposito Arcangelo,Esposito Arcangelo,0,,0.0,0.0,0.0
+更多美食,Pizzeria o sole MIO,Pizzeria o sole MIO,0,,0.0,0.0,0.0
+更多美食,Ristorante Cinese Dong Wenbiao,Ristorante Cinese Dong Wenbiao,0,,0.0,0.0,0.0
+更多美食,Il Pozzo Arcigola Slow Food,Il Pozzo Arcigola Slow Food,0,,0.0,0.0,0.0
+更多美食,Las 3 Hermanas,Las 3 Hermanas,0,,0.0,0.0,0.0
+更多美食,BALMORAL Scottish Pub,BALMORAL Scottish Pub,0,,0.0,0.0,0.0
+更多美食,Hermanas De Cafe,Hermanas De Cafe,0,,0.0,0.0,0.0
+更多美食,Rosticceria Cavour,Rosticceria Cavour,0,,0.0,0.0,0.0
+更多美食,Taverna Del Contadino,Taverna Del Contadino,0,,0.0,0.0,0.0
+更多美食,A luna rossa pisani napoli,A luna rossa pisani napoli,0,,0.0,0.0,0.0
+更多美食,Ristorante La Siesta,Ristorante La Siesta,0,,0.0,0.0,0.0
+更多美食,Bio Forneria e Gastronomia,Bio Forneria e Gastronomia,0,,0.0,0.0,0.0
+更多美食,Il Veliero,Il Veliero,0,,0.0,0.0,0.0
+更多美食,Angels Risto-Pub,Angels Risto-Pub,0,,0.0,0.0,0.0
+更多美食,La Marisqueria,La Marisqueria,0,,0.0,0.0,0.0
+更多美食,Pizzeria Amicizia,Pizzeria Amicizia,0,,0.0,0.0,0.0
+更多美食,Ristorante La Perla Di Napoli,Ristorante La Perla Di Napoli,0,,0.0,0.0,0.0
+更多美食,Jebili s Discopub-birreria - Ristorante,Jebili s Discopub-birreria - Ristorante,0,,0.0,0.0,0.0
+更多美食,26 Rosticceria,26 Rosticceria,0,,0.0,0.0,0.0
+更多美食,Acunzo,Acunzo,0,,0.0,0.0,0.0
+更多美食,Cuoco a domicilio,Cuoco a domicilio,0,,0.0,0.0,0.0
+更多美食,Ristorante Bar Da Gaetano,Ristorante Bar Da Gaetano,0,,0.0,0.0,0.0
+更多美食,Cicciotto E Alessandro,Cicciotto E Alessandro,0,,0.0,0.0,0.0
+更多美食,Alimentari Coscia,Alimentari Coscia,0,,0.0,0.0,0.0
+更多美食,Gra.Fe.Sas Di Graziano Antonietta C.,Gra.Fe.Sas Di Graziano Antonietta C.,0,,0.0,0.0,0.0
+更多美食,M' 'o Vec' io,M' 'o Vec' io,0,,0.0,0.0,0.0
+更多美食,Pizzeria E' Ci Voleva,Pizzeria E' Ci Voleva,0,,0.0,0.0,0.0
+更多美食,Vespro SRL,Vespro SRL,0,,0.0,0.0,0.0
+更多美食,Pollo Re Di Ruggiero Anna,Pollo Re Di Ruggiero Anna,0,,0.0,0.0,0.0
+更多美食,Cenacolo Belvedere,Cenacolo Belvedere,0,,0.0,0.0,0.0
+更多美食,Bernadette Sas Di Vecchione Pina,Bernadette Sas Di Vecchione Pina,0,,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria O Cafettier,Ristorante Pizzeria O Cafettier,0,,0.0,0.0,0.0
+更多美食,Ristorante Santa Lucia,Ristorante Santa Lucia,0,,0.0,0.0,0.0
+更多美食,Da Arnaldone,Da Arnaldone,0,,0.0,0.0,0.0
+更多美食,Bar Mario,Bar Mario,0,,0.0,0.0,0.0
+更多美食,Caffe Caruso,Caffe Caruso,0,,0.0,0.0,0.0
+更多美食,Chicago Club,Chicago Club,0,,0.0,0.0,0.0
+更多美食,Pizza Forte SAS Di Gallo,Pizza Forte SAS Di Gallo,0,,0.0,0.0,0.0
+更多美食,Il Caffe Del San Domingo,Il Caffe Del San Domingo,0,,0.0,0.0,0.0
+更多美食,Sciue Sciue Trattoria Napoletana,Sciue Sciue Trattoria Napoletana,0,,0.0,0.0,0.0
+更多美食,Caffetteria Caravaggio,Caffetteria Caravaggio,0,,0.0,0.0,0.0
+更多美食,Pasticceria de Michele,Pasticceria de Michele,0,,0.0,0.0,0.0
+更多美食,Mezzogiorno Dei Fuochi,Mezzogiorno Dei Fuochi,0,,0.0,0.0,0.0
+更多美食,Izzo Forni SRL,Izzo Forni SRL,0,,0.0,0.0,0.0
+更多美食,Pizzaman Di Ferrillo Maurizio,Pizzaman Di Ferrillo Maurizio,0,,0.0,0.0,0.0

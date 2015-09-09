@@ -1,0 +1,3005 @@
+西班牙菜,Restaurante Marinero,Restaurante Marinero,0,扩展区(Eixample),7.5,7.5,7.5
+西班牙菜,Lolita Taperia,Lolita Taperia,0,旧城区(Ciutat Vella),6.7,7.5,7.5
+地中海美食,Restaurante-Bar-Tapas Ferran,Restaurante-Bar-Tapas Ferran,0,,7.7,7.7,7.7
+自助餐,Restaurante La Vaca Paca,Restaurante La Vaca Paca,0,扩展区(Eixample),7.2,6.8,7.3
+自助餐,Timeline,Timeline,0,,6.9,6.9,6.9
+粤菜,王稹,王稹,0,扩展区(Eixample),7.1,6.9,6.9
+粤菜,沃克和波尔餐厅,沃克和波尔餐厅,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Pasta Bar,Pasta Bar,0,旧城区(Ciutat Vella),7.8,8.2,8.2
+意大利菜,Restaurant Brown33,Restaurant Brown33,0,扩展区(Eixample),7.0,7.2,7.5
+意大利菜,GINOS VIA LAIETANA,GINOS VIA LAIETANA,0,扩展区(Eixample),6.7,7.4,7.4
+意大利菜,Mamma Mia,Mamma Mia,0,圣马蒂(Sant Martí),7.2,7.4,7.2
+意大利菜,xemei,xemei,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+意大利菜,Pizza Emporio,Pizza Emporio,0,扩展区(Eixample),7.2,6.8,6.8
+意大利菜,Da Greco,Da Greco,0,恩典区(Gràcia),7.2,7.2,7.2
+意大利菜,La Bella Napoli,La Bella Napoli,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+意大利菜,Il Golfo di Napoli,Il Golfo di Napoli,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+意大利菜,Ginos,Ginos,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+意大利菜,LA CARBONARA,LA CARBONARA,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,To Be,To Be,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,El Chicle,El Chicle,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+意大利菜,Dolcezze Salate,Dolcezze Salate,0,奥尔塔-吉纳德(Horta-Guinardó),7.0,7.0,7.0
+意大利菜,Gusto Italiano,Gusto Italiano,0,勒科尔茨(Les Corts),7.7,7.2,7.2
+意大利菜,La Lasagneria,La Lasagneria,0,恩典区(Gràcia),7.3,7.3,7.3
+意大利菜,Brasseria Steakhouse Rossini,Brasseria Steakhouse Rossini,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Pizza Smilo,Pizza Smilo,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Via Margutta,Via Margutta,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,La Bella Napoli,La Bella Napoli,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Buoni e Cattivi,Buoni e Cattivi,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Le Cucine Mandarosso,Le Cucine Mandarosso,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,La Villa,La Villa,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,La Bella Donna,La Bella Donna,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+意大利菜,Giraluna,Giraluna,0,圣-蒙特惠奇(Sants-Montjuïc),7.3,7.3,7.3
+意大利菜,Il Mestolo,Il Mestolo,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Stuzzichini,Stuzzichini,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+意大利菜,La Piemontesa,La Piemontesa,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Mandarosso Pastis,Mandarosso Pastis,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+意大利菜,La Tagliatella - Barceloneta,La Tagliatella - Barceloneta,0,,7.1,7.1,7.1
+意大利菜,Rino Restaurant,Rino Restaurant,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+意大利菜,Los Inmortales,Los Inmortales,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,La Girgola,La Girgola,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Ristorante Gravin,Ristorante Gravin,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Restaurante Margherita,Restaurante Margherita,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,La Tagliatella,La Tagliatella,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Il Commendatore S.L.,Il Commendatore S.L.,0,其他,7.1,7.1,7.1
+意大利菜,La Capricciosa,La Capricciosa,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Il Magazzino,Il Magazzino,0,扩展区(Eixample),7.1,7.1,7.3
+意大利菜,Raffaello,Raffaello,0,圣-蒙特惠奇(Sants-Montjuïc),6.8,7.1,6.8
+意大利菜,Macchina Pasta Bar,Macchina Pasta Bar,0,恩典区(Gràcia),7.2,7.2,7.2
+意大利菜,Pappa e Citti,Pappa e Citti,0,恩典区(Gràcia),7.7,7.2,7.2
+意大利菜,Luna Rossa,Luna Rossa,0,圣马蒂(Sant Martí),6.6,6.6,6.6
+意大利菜,Piu Restaurant,Piu Restaurant,0,扩展区(Eixample),7.0,7.0,7.0
+意大利菜,Limonxello,Limonxello,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+意大利菜,Mamarosa Beach Restaurant,Mamarosa Beach Restaurant,0,圣马蒂(Sant Martí),7.2,6.8,7.2
+意大利菜,Canta Napoli,Canta Napoli,0,恩典区(Gràcia),6.9,6.9,6.9
+意大利菜,Bellagio Trattoria,Bellagio Trattoria,0,扩展区(Eixample),7.1,7.1,6.8
+意大利菜,La Piazzenza,La Piazzenza,0,扩展区(Eixample),6.8,6.8,6.8
+意大利菜,Cafe & Te,Cafe & Te,0,扩展区(Eixample),6.8,6.8,6.8
+意大利菜,Terra Mia,Terra Mia,0,奥尔塔-吉纳德(Horta-Guinardó),7.5,7.1,7.1
+意大利菜,L'Angolo Italiano,L'Angolo Italiano,0,扩展区(Eixample),6.9,6.9,6.9
+意大利菜,Bellebuon,Bellebuon,0,奥尔塔-吉纳德(Horta-Guinardó),7.5,7.5,7.1
+意大利菜,Due Spaghi,Due Spaghi,0,旧城区(Ciutat Vella),7.3,7.3,7.1
+意大利菜,Restaurante Don Angelo,Restaurante Don Angelo,0,扩展区(Eixample),7.3,7.3,7.1
+意大利菜,Restaurante Il Vecchio Porto,Restaurante Il Vecchio Porto,0,,7.2,7.2,7.2
+意大利菜,Il Gusto Italiano,Il Gusto Italiano,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Iurantia,Iurantia,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Massimo,Massimo,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,I Buoni Amici,I Buoni Amici,0,扩展区(Eixample),7.2,6.8,7.2
+意大利菜,El Taronget,El Taronget,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Via Dei Mille,Via Dei Mille,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Le Comptoir Marseillais - VITALI PIZZA,Le Comptoir Marseillais - VITALI PIZZA,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Restaurante Boga,Restaurante Boga,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Oviso,Oviso,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Little Italy,Little Italy,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,La Locanda,La Locanda,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,murivecchi,murivecchi,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Pizzeria Fabian,Pizzeria Fabian,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Buenas Migas,Buenas Migas,0,恩典区(Gràcia),7.2,7.2,7.2
+意大利菜,La Tarantella,La Tarantella,0,恩典区(Gràcia),7.2,7.2,7.2
+意大利菜,La Vespa Burger Bar,La Vespa Burger Bar,0,恩典区(Gràcia),7.2,7.2,7.2
+意大利菜,Sol i LLuna,Sol i LLuna,0,恩典区(Gràcia),7.2,7.2,7.2
+意大利菜,La Tagliatella,La Tagliatella,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+意大利菜,Tramonti 1980,Tramonti 1980,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+意大利菜,Ginos,Ginos,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+意大利菜,Pizzeria Canta Napoli,Pizzeria Canta Napoli,0,其他,6.9,6.9,6.9
+意大利菜,Rostisseria Le Tentazioni,Rostisseria Le Tentazioni,0,其他,7.1,7.1,7.1
+意大利菜,Els Napolitans,Els Napolitans,0,扩展区(Eixample),7.1,7.1,6.8
+意大利菜,San Trop,San Trop,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Triki Traga,Triki Traga,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Nabucco Tiramisu,Nabucco Tiramisu,0,扩展区(Eixample),7.1,7.0,7.1
+意大利菜,Pasta Nostra - Villarroel,Pasta Nostra - Villarroel,0,扩展区(Eixample),6.9,6.9,6.9
+意大利菜,Il Massone Ristorante & Pizzeria,Il Massone Ristorante & Pizzeria,0,扩展区(Eixample),7.1,7.1,7.0
+意大利菜,La Toscana II,La Toscana II,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Inmortales Il Ristorante,Inmortales Il Ristorante,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Restaurante Giardinetto,Restaurante Giardinetto,0,扩展区(Eixample),7.1,7.3,7.3
+意大利菜,restaurante carboni e pasta,restaurante carboni e pasta,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+意大利菜,La Tagliatella,La Tagliatella,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+意大利菜,Tiella Llibertat,Tiella Llibertat,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+意大利菜,Peccato di Gola,Peccato di Gola,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+意大利菜,Da Paolo,Da Paolo,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+意大利菜,Deseos Restaurant,Deseos Restaurant,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+意大利菜,Tantarantan,Tantarantan,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+意大利菜,Pizza Que?,Pizza Que?,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+意大利菜,Panino Silvestre,Panino Silvestre,0,Sarrià-Sant Gervasi,7.5,7.1,7.1
+意大利菜,IL Giardinetto,IL Giardinetto,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+意大利菜,Caffe Blu,Caffe Blu,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+意大利菜,Specchio Magico,Specchio Magico,0,恩典区(Gràcia),7.1,7.1,7.1
+意大利菜,C'era una Volta Restaurant,C'era una Volta Restaurant,0,恩典区(Gràcia),7.1,7.1,7.0
+意大利菜,Trattoria Lac Majur,Trattoria Lac Majur,0,恩典区(Gràcia),6.9,6.9,6.9
+意大利菜,I que?,I que?,0,恩典区(Gràcia),7.0,7.0,7.0
+意大利菜,Cent vint-i-nou,Cent vint-i-nou,0,恩典区(Gràcia),7.0,7.1,7.0
+意大利菜,Bimba Trattoria,Bimba Trattoria,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+意大利菜,El Felino,El Felino,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Pizzeria Cafeteria Soprano,Pizzeria Cafeteria Soprano,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+意大利菜,Restaurant Del Barri,Restaurant Del Barri,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+意大利菜,Etrac Pizzeria,Etrac Pizzeria,0,其他,6.9,6.9,6.9
+意大利菜,Superpizza,Superpizza,0,诺巴里斯(Nou Barris),6.9,6.9,6.9
+意大利菜,Pizza Marzano - heron city,Pizza Marzano - heron city,0,诺巴里斯(Nou Barris),6.9,6.9,6.9
+意大利菜,Gli angeli,Gli angeli,0,扩展区(Eixample),6.9,6.9,6.9
+意大利菜,La Tagliatella,La Tagliatella,0,扩展区(Eixample),7.0,6.7,6.9
+意大利菜,nonsolopizza,nonsolopizza,0,扩展区(Eixample),7.0,7.0,6.9
+意大利菜,Savona,Savona,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Restaurante Bene Asai,Restaurante Bene Asai,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+意大利菜,Invisible,Invisible,0,Sarrià-Sant Gervasi,7.0,7.1,7.0
+意大利菜,Restaurante Il Drago,Restaurante Il Drago,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+意大利菜,Stuzzichini,Stuzzichini,0,恩典区(Gràcia),7.0,7.0,7.0
+意大利菜,La Tagliatella,La Tagliatella,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+意大利菜,Pizzeria Italiana Yo Claudio,Pizzeria Italiana Yo Claudio,0,诺巴里斯(Nou Barris),6.9,6.9,6.9
+意大利菜,Pizzeria Il Malandrino,Pizzeria Il Malandrino,0,诺巴里斯(Nou Barris),7.0,6.9,7.0
+意大利菜,La Tagliatella C.C. L'Illa Diagonal,La Tagliatella C.C. L'Illa Diagonal,0,其他,7.0,7.0,7.0
+意大利菜,Ginos Maremagnum,Ginos Maremagnum,0,,7.1,7.1,7.1
+意大利菜,Taca de cafe,Taca de cafe,0,,7.1,7.1,7.1
+意大利菜,Meson Errioxa,Meson Errioxa,0,,7.0,6.9,6.9
+意大利菜,MONTY Cafe,MONTY Cafe,0,,7.0,7.0,7.0
+意大利菜,Buon Appetito Barceloneta,Buon Appetito Barceloneta,0,,7.1,7.1,7.1
+意大利菜,Buon Appetito,Buon Appetito,0,,7.2,7.2,7.2
+意大利菜,Bestial,Bestial,0,,7.2,6.8,7.2
+意大利菜,Paralelo 91,Paralelo 91,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Monte D'Oro Barcelona,Monte D'Oro Barcelona,0,扩展区(Eixample),7.0,7.0,7.0
+意大利菜,Vesuvius,Vesuvius,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Dai Mo,Dai Mo,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Mandi Mandi,Mandi Mandi,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,O Sole Mio Comte Borell,O Sole Mio Comte Borell,0,扩展区(Eixample),7.1,7.1,6.8
+意大利菜,Donizetti,Donizetti,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Casa Robin Hood,Casa Robin Hood,0,扩展区(Eixample),7.2,7.7,7.2
+意大利菜,Domu,Domu,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Piazze D'Italia,Piazze D'Italia,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Trattoria Veneta,Trattoria Veneta,0,扩展区(Eixample),7.1,7.3,7.1
+意大利菜,Gusto Restaurante,Gusto Restaurante,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Divina Pasta,Divina Pasta,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Giorgio Barcelona,Giorgio Barcelona,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,La Verde Umbria,La Verde Umbria,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,La Gondola,La Gondola,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Buongiorno Pizzeria,Buongiorno Pizzeria,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Toto,Toto,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Piu di pasta e pizza,Piu di pasta e pizza,0,扩展区(Eixample),6.8,7.1,7.1
+意大利菜,La Tagliatella,La Tagliatella,0,扩展区(Eixample),6.8,6.8,6.8
+意大利菜,Pizza Roma,Pizza Roma,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Pizzeria Focacceria Toscana,Pizzeria Focacceria Toscana,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Topo Gigio,Topo Gigio,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Restaurante Regola D,Restaurante Regola D,0,扩展区(Eixample),7.0,7.0,7.0
+意大利菜,La Sangiovesa,La Sangiovesa,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Restaurante Cafeteria Palermo,Restaurante Cafeteria Palermo,0,扩展区(Eixample),7.0,7.0,7.0
+意大利菜,La Tagliatlella,La Tagliatlella,0,扩展区(Eixample),7.0,6.9,7.0
+意大利菜,Al Passatore,Al Passatore,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,La Minerva,La Minerva,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Nuccia E Lina,Nuccia E Lina,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,A Gianni,A Gianni,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Fratteli La Bufala,Fratteli La Bufala,0,扩展区(Eixample),7.0,7.0,7.0
+意大利菜,PerBacco!,PerBacco!,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Wine Bar Cafe,Wine Bar Cafe,0,扩展区(Eixample),7.3,7.3,7.3
+意大利菜,El Oso Goloso,El Oso Goloso,0,扩展区(Eixample),7.1,7.1,7.1
+意大利菜,Ristorante Eden,Ristorante Eden,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Come una volta,Come una volta,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Il Mercante Di Venezia,Il Mercante Di Venezia,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Cuatro Bar Barcelona,Cuatro Bar Barcelona,0,旧城区(Ciutat Vella),7.1,7.5,7.1
+意大利菜,Sports Bar Italian Food,Sports Bar Italian Food,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Ideal,Ideal,0,旧城区(Ciutat Vella),6.3,6.3,6.3
+意大利菜,Amorino,Amorino,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Caruso,Caruso,0,旧城区(Ciutat Vella),7.2,6.8,7.2
+意大利菜,Pizzeria Cerveceria Gilda,Pizzeria Cerveceria Gilda,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+意大利菜,Pizzeria Horno de Lena,Pizzeria Horno de Lena,0,旧城区(Ciutat Vella),7.1,7.1,7.0
+意大利菜,La Tagliatella,La Tagliatella,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+意大利菜,Puttanesca,Puttanesca,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+意大利菜,Gran Torino Garage Bar,Gran Torino Garage Bar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Made in Sicily,Made in Sicily,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+意大利菜,Carabassa,Carabassa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,La Pizza Pazza,La Pizza Pazza,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+意大利菜,La Tagliatella,La Tagliatella,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+意大利菜,La Pizzaiola,La Pizzaiola,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+意大利菜,Bellamia Gelateria Italiana,Bellamia Gelateria Italiana,0,旧城区(Ciutat Vella),7.3,7.1,7.1
+意大利菜,Gelaaati Di Marco,Gelaaati Di Marco,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Bombay City,Bombay City,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+意大利菜,Caputxes,Caputxes,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Gelateria Gocce di Latte,Gelateria Gocce di Latte,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Spritz,Spritz,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+意大利菜,gusto del born,gusto del born,0,旧城区(Ciutat Vella),7.5,7.1,7.1
+意大利菜,Perla Nera Barcelona,Perla Nera Barcelona,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+意大利菜,Morelia restaurant,Morelia restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Blau Cucina e Caffé,Blau Cucina e Caffé,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+意大利菜,maccaroni,maccaroni,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+意大利菜,Obe Restaurant,Obe Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Meneghina,Meneghina,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,El Perro Blu,El Perro Blu,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+意大利菜,Alta Italia,Alta Italia,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Santa Piadina,Santa Piadina,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,Tres i no res,Tres i no res,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+意大利菜,La Cucchiarella,La Cucchiarella,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+意大利菜,Jaleo,Jaleo,0,旧城区(Ciutat Vella),7.1,7.0,7.1
+意大利菜,Pizzeria Apricale Bellissimo,Pizzeria Apricale Bellissimo,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,6.9,6.9
+意大利菜,Pizzeria Los Amigos,Pizzeria Los Amigos,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+意大利菜,L'Angolino,L'Angolino,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+意大利菜,Napoletani D.O.C.,Napoletani D.O.C.,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+意大利菜,Pizzeria Ciutat Comtal,Pizzeria Ciutat Comtal,0,圣-蒙特惠奇(Sants-Montjuïc),6.8,6.8,6.8
+意大利菜,Putxinellis,Putxinellis,0,圣-蒙特惠奇(Sants-Montjuïc),7.5,7.1,7.1
+意大利菜,mario's pizza nostra,mario's pizza nostra,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+意大利菜,Ristorante Pizzeria Mamma Italian,Ristorante Pizzeria Mamma Italian,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+意大利菜,Mamma Lucia,Mamma Lucia,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.5,7.1
+意大利菜,Vivaldi,Vivaldi,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+意大利菜,Tan taran tan blau,Tan taran tan blau,0,Sarrià-Sant Gervasi,7.3,7.1,7.1
+意大利菜,Isabella's,Isabella's,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+意大利菜,La Focaccia,La Focaccia,0,Sarrià-Sant Gervasi,7.6,7.6,7.2
+意大利菜,La Tagliatella Barcelona - Sarria - Sant Gervasi,La Tagliatella Barcelona - Sarria - Sant Gervasi,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+意大利菜,Algust,Algust,0,Sarrià-Sant Gervasi,7.0,6.9,7.0
+意大利菜,La Burratta,La Burratta,0,Sarrià-Sant Gervasi,7.0,7.0,6.9
+意大利菜,Restaurante Ideal Collserola,Restaurante Ideal Collserola,0,Sarrià-Sant Gervasi,6.7,6.7,6.9
+意大利菜,De Gustibus Italiae,De Gustibus Italiae,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+意大利菜,Sarrietto,Sarrietto,0,Sarrià-Sant Gervasi,7.1,7.0,7.0
+意大利菜,L'Osteria del Contadino,L'Osteria del Contadino,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+意大利菜,Sapor d'Italia,Sapor d'Italia,0,Sarrià-Sant Gervasi,7.0,7.1,7.0
+意大利菜,Restaurante Pizzeria Verona,Restaurante Pizzeria Verona,0,Sarrià-Sant Gervasi,6.7,7.0,6.9
+意大利菜,Restaurante Da Raimondo,Restaurante Da Raimondo,0,Sarrià-Sant Gervasi,7.1,7.3,7.1
+意大利菜,Da Pietro Corner,Da Pietro Corner,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+意大利菜,Madre Lievito,Madre Lievito,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+意大利菜,Restaurante La Mar bella,Restaurante La Mar bella,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+意大利菜,Piazza Grande,Piazza Grande,0,圣马蒂(Sant Martí),7.7,7.2,7.2
+意大利菜,Melocomo,Melocomo,0,圣马蒂(Sant Martí),7.3,7.1,7.3
+意大利菜,O' Principe,O' Principe,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+意大利菜,InRed,InRed,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+意大利菜,La Dolce Vita,La Dolce Vita,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+意大利菜,La Tarantella,La Tarantella,0,恩典区(Gràcia),7.0,7.0,7.0
+意大利菜,Sasha restaurant,Sasha restaurant,0,恩典区(Gràcia),6.9,7.0,7.0
+意大利菜,Monelli,Monelli,0,恩典区(Gràcia),6.7,6.7,6.9
+意大利菜,Casa de Pizzas,Casa de Pizzas,0,恩典区(Gràcia),7.0,7.0,7.0
+意大利菜,El Molinet Coffee Bar,El Molinet Coffee Bar,0,恩典区(Gràcia),7.0,7.0,7.0
+意大利菜,La Piadina,La Piadina,0,恩典区(Gràcia),7.0,7.0,7.0
+意大利菜,Il Giardinetto de Gracia,Il Giardinetto de Gracia,0,恩典区(Gràcia),7.1,7.1,6.8
+意大利菜,SNB (Salerno Napoli Barcelona),SNB (Salerno Napoli Barcelona),0,勒科尔茨(Les Corts),7.2,7.2,7.2
+意大利菜,Restaurante Il Cuoco,Restaurante Il Cuoco,0,勒科尔茨(Les Corts),7.0,6.9,6.9
+意大利菜,Mo Te Magno,Mo Te Magno,0,扩展区(Eixample),7.0,7.0,6.9
+意大利菜,Tuscania Food and Wine,Tuscania Food and Wine,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,A Angelo Marcelo,A Angelo Marcelo,0,扩展区(Eixample),7.2,7.2,7.2
+意大利菜,Restaurante Austral,Restaurante Austral,0,扩展区(Eixample),6.7,6.9,6.9
+意大利菜,Il Piccolo.Focone Ristorante Pizzeria,Il Piccolo.Focone Ristorante Pizzeria,0,圣马蒂(Sant Martí),7.3,7.1,7.1
+意大利菜,Terraza Positano,Terraza Positano,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.1,7.1
+意大利菜,La Cucina di Pulcinella,La Cucina di Pulcinella,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.0,7.0
+意大利菜,Restaurante e Bar ,Restaurante e Bar ,0,奥尔塔-吉纳德(Horta-Guinardó),7.0,7.1,7.0
+意大利菜,Que Pasta!,Que Pasta!,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.1,7.1
+意大利菜,Al Fagotto,Al Fagotto,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.1,7.1
+意大利菜,Ristorante Roma,Ristorante Roma,0,圣马蒂(Sant Martí),7.2,7.6,7.2
+意大利菜,Restaurante Pizzeria La Vela,Restaurante Pizzeria La Vela,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+意大利菜,La mamadera,La mamadera,0,圣安德鲁(Sant Andreu),6.9,6.9,6.9
+意大利菜,Pizzeria Fidenza,Pizzeria Fidenza,0,圣安德鲁(Sant Andreu),7.1,6.8,6.8
+意大利菜,Restaurante Ginos,Restaurante Ginos,0,圣安德鲁(Sant Andreu),7.2,6.8,6.8
+意大利菜,Pizzeria Il Duomo & La Mole,Pizzeria Il Duomo & La Mole,0,圣安德鲁(Sant Andreu),7.3,7.3,7.1
+意大利菜,O Sole Mio Entenca,O Sole Mio Entenca,0,扩展区(Eixample),6.8,6.8,6.8
+意大利菜,Ciao Roma barcelona,Ciao Roma barcelona,0,扩展区(Eixample),6.8,6.8,7.1
+意大利菜,Mamarosa,Mamarosa,0,扩展区(Eixample),6.8,7.1,7.1
+意大利菜,Pizza Emporio la Rambla,Pizza Emporio la Rambla,0,旧城区(Ciutat Vella),6.8,6.8,6.8
+意大利菜,Il pomo d'oro,Il pomo d'oro,0,旧城区(Ciutat Vella),6.8,7.1,6.8
+意大利菜,Pizzeria La Perla Negra,Pizzeria La Perla Negra,0,旧城区(Ciutat Vella),7.2,6.8,6.8
+意大利菜,La tagliatella,La tagliatella,0,圣-蒙特惠奇(Sants-Montjuïc),6.8,6.8,6.8
+意大利菜,Caffe di San Marco,Caffe di San Marco,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+意大利菜,Pizza Nostra,Pizza Nostra,0,圣马蒂(Sant Martí),6.8,6.8,6.8
+意大利菜,Valentina,Valentina,0,勒科尔茨(Les Corts),6.8,6.8,7.1
+意大利菜,The Pharaoh,The Pharaoh,0,扩展区(Eixample),6.8,7.1,7.1
+意大利菜,Toscana Calle Independencia,Toscana Calle Independencia,0,圣马蒂(Sant Martí),7.1,6.8,6.8
+意大利菜,Segafredo Espresso Barcelona,Segafredo Espresso Barcelona,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,6.8,7.1
+意大利菜,La Tagliatella la Maquinista,La Tagliatella la Maquinista,0,圣安德鲁(Sant Andreu),6.8,6.8,6.8
+意大利菜,Cantonata,Cantonata,0,扩展区(Eixample),6.7,6.7,6.7
+意大利菜,Bello Italy,Bello Italy,0,旧城区(Ciutat Vella),6.7,6.9,6.9
+意大利菜,"Restaurante Pastafiore, barcelona","Restaurante Pastafiore, barcelona",0,旧城区(Ciutat Vella),6.7,6.7,6.7
+意大利菜,El Pomo De Oro,El Pomo De Oro,0,恩典区(Gràcia),6.9,6.9,6.9
+意大利菜,Pane e Vino,Pane e Vino,0,扩展区(Eixample),0.0,0.0,0.0
+意大利菜,Picatta,Picatta,0,扩展区(Eixample),0.0,0.0,0.0
+法国菜,O' Gracia Restaurant,O' Gracia Restaurant,0,恩典区(Gràcia),7.2,7.2,7.2
+法国菜,El Chicle,El Chicle,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+法国菜,En Aparte,En Aparte,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+法国菜,Brasserie du Gothique,Brasserie du Gothique,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+法国菜,Tarte & Quiche,Tarte & Quiche,0,扩展区(Eixample),7.1,7.1,7.1
+法国菜,Creperie Bretonne Anaick,Creperie Bretonne Anaick,0,,7.2,6.8,7.2
+法国菜,Trio,Trio,0,扩展区(Eixample),7.0,7.1,7.1
+法国菜,Crocante,Crocante,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+法国菜,Tibidabo,Tibidabo,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+法国菜,GUST,GUST,0,扩展区(Eixample),7.0,7.0,7.0
+法国菜,Cafe 1907 Restaurante,Cafe 1907 Restaurante,0,Sarrià-Sant Gervasi,7.6,7.2,7.2
+法国菜,Chez Coco,Chez Coco,0,扩展区(Eixample),7.2,7.2,7.2
+法国菜,Cafe Emma,Cafe Emma,0,扩展区(Eixample),7.2,7.2,7.2
+法国菜,Restaurante Chaplin,Restaurante Chaplin,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+法国菜,L'ou com balla,L'ou com balla,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+法国菜,Creps al Born,Creps al Born,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+法国菜,Sol i LLuna,Sol i LLuna,0,恩典区(Gràcia),7.2,7.2,7.2
+法国菜,Creperie Les 3 Pommes,Creperie Les 3 Pommes,0,扩展区(Eixample),7.1,7.1,7.1
+法国菜,La Brioche,La Brioche,0,扩展区(Eixample),7.1,7.0,7.0
+法国菜,Piratas,Piratas,0,扩展区(Eixample),7.1,7.1,7.1
+法国菜,Au Port de la Lune,Au Port de la Lune,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+法国菜,Restaurante Creperie Bretonne,Restaurante Creperie Bretonne,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+法国菜,Borges & Go Cafeteria,Borges & Go Cafeteria,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+法国菜,Bistro Zum Zeig,Bistro Zum Zeig,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+法国菜,L'Armari,L'Armari,0,恩典区(Gràcia),7.0,7.0,7.0
+法国菜,La Petite Fondue,La Petite Fondue,0,扩展区(Eixample),6.8,6.8,6.8
+法国菜,Can Miserias,Can Miserias,0,扩展区(Eixample),7.2,7.2,7.2
+法国菜,l'Office,l'Office,0,扩展区(Eixample),7.2,7.2,7.2
+法国菜,Le petit Bergerac,Le petit Bergerac,0,扩展区(Eixample),7.2,7.2,7.2
+法国菜,Épicerie,Épicerie,0,扩展区(Eixample),7.1,7.1,7.1
+法国菜,La Minerva,La Minerva,0,扩展区(Eixample),7.2,7.2,7.2
+法国菜,Belgious Avinyo,Belgious Avinyo,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+法国菜,Le Bistrot d'Amelie,Le Bistrot d'Amelie,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+法国菜,Bar Salvador,Bar Salvador,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+法国菜,Brasserie Flo Barcelona,Brasserie Flo Barcelona,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+法国菜,En Ville,En Ville,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+法国菜,Zumzeig Bistrot,Zumzeig Bistrot,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+法国菜,Once Upon a Time,Once Upon a Time,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+法国菜,Cheese's Art,Cheese's Art,0,Sarrià-Sant Gervasi,7.2,6.8,6.8
+法国菜,la Cave,la Cave,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+法国菜,Creperia BCN,Creperia BCN,0,勒科尔茨(Les Corts),7.1,7.1,6.9
+法国菜,La Gargola,La Gargola,0,勒科尔茨(Les Corts),7.0,7.1,7.1
+法国菜,Roca Moo,Roca Moo,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+法国菜,Celler de Tapas,Celler de Tapas,0,诺巴里斯(Nou Barris),7.1,7.1,7.1
+墨西哥菜,Rosa Negra,Rosa Negra,0,旧城区(Ciutat Vella),8.1,7.5,8.1
+墨西哥菜,Restaurante El Ultimo Agave,Restaurante El Ultimo Agave,0,扩展区(Eixample),7.2,7.2,7.2
+墨西哥菜,Restaurante pizzeria Company 670 Barcelona,Restaurante pizzeria Company 670 Barcelona,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+墨西哥菜,Cantina Mariachi,Cantina Mariachi,0,圣马蒂(Sant Martí),6.8,7.1,6.8
+墨西哥菜,Tacos Tacos,Tacos Tacos,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+墨西哥菜,La Taqueria,La Taqueria,0,扩展区(Eixample),7.2,7.2,7.2
+墨西哥菜,La Hacienda,La Hacienda,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+墨西哥菜,Zahara,Zahara,0,,7.2,7.2,7.2
+墨西哥菜,Bar Upiaywasi,Bar Upiaywasi,0,旧城区(Ciutat Vella),6.8,6.8,7.1
+墨西哥菜,El Alebrije Restaurant Mexicano & Cantina,El Alebrije Restaurant Mexicano & Cantina,0,扩展区(Eixample),7.2,7.2,7.2
+墨西哥菜,Margarita Blue,Margarita Blue,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+墨西哥菜,Rita Blue,Rita Blue,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+墨西哥菜,Rosa del Raval,Rosa del Raval,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+墨西哥菜,Cielito Lindo,Cielito Lindo,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+墨西哥菜,Restaurante Andele,Restaurante Andele,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+墨西哥菜,MEXCLA Tapas y Cocteleria Mexicana,MEXCLA Tapas y Cocteleria Mexicana,0,恩典区(Gràcia),7.2,7.2,7.2
+墨西哥菜,Mezcaleria La Divina,Mezcaleria La Divina,0,旧城区(Ciutat Vella),7.0,7.1,7.0
+墨西哥菜,Ay Caramba!,Ay Caramba!,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+墨西哥菜,Los Chiles,Los Chiles,0,圣马蒂(Sant Martí),7.1,7.1,7.0
+墨西哥菜,Taco Love,Taco Love,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+墨西哥菜,Taberna el Antojo,Taberna el Antojo,0,旧城区(Ciutat Vella),7.0,7.0,7.1
+墨西哥菜,Taquerías Tamarindo,Taquerías Tamarindo,0,其他,7.2,7.2,7.2
+墨西哥菜,La Heladeria Mexicana,La Heladeria Mexicana,0,,7.2,7.2,7.2
+墨西哥菜,La Coronela,La Coronela,0,,7.2,6.8,7.2
+墨西哥菜,Dsantos Casa Cocktail Restaurant,Dsantos Casa Cocktail Restaurant,0,扩展区(Eixample),7.1,7.1,7.1
+墨西哥菜,Restaurante El Rincon Maya,Restaurante El Rincon Maya,0,扩展区(Eixample),7.2,7.2,6.8
+墨西哥菜,Le Frida,Le Frida,0,扩展区(Eixample),6.9,7.0,6.9
+墨西哥菜,Guakamola,Guakamola,0,扩展区(Eixample),7.0,7.0,7.0
+墨西哥菜,Las Mananitas,Las Mananitas,0,扩展区(Eixample),7.2,7.2,7.2
+墨西哥菜,Bendito Taco,Bendito Taco,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+墨西哥菜,|Kulas Burgers||Tapas||Cocktails|,|Kulas Burgers||Tapas||Cocktails|,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+墨西哥菜,Vinda,Vinda,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+墨西哥菜,Tlaxcal,Tlaxcal,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+墨西哥菜,El Pachuco,El Pachuco,0,旧城区(Ciutat Vella),7.3,7.1,7.1
+墨西哥菜,El Mexicano de Arizala,El Mexicano de Arizala,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,6.9,6.9
+墨西哥菜,Panchito,Panchito,0,Sarrià-Sant Gervasi,7.2,7.2,6.8
+墨西哥菜,Hola Manito,Hola Manito,0,恩典区(Gràcia),6.8,7.2,7.2
+墨西哥菜,Chido One,Chido One,0,恩典区(Gràcia),7.2,7.2,7.2
+墨西哥菜,Burrito Chihuahua,Burrito Chihuahua,0,勒科尔茨(Les Corts),6.7,6.7,6.7
+墨西哥菜,Chilam Balam,Chilam Balam,0,扩展区(Eixample),6.8,6.8,6.8
+墨西哥菜,Casa Mexicana,Casa Mexicana,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+墨西哥菜,La trajinera,La trajinera,0,扩展区(Eixample),0.0,0.0,0.0
+墨西哥菜,Los Azulejos,Los Azulejos,0,旧城区(Ciutat Vella),7.2,6.8,7.2
+墨西哥菜,Blue Beach Bar,Blue Beach Bar,0,圣-蒙特惠奇(Sants-Montjuïc),6.8,7.1,7.1
+墨西哥菜,Cantina Machito,Cantina Machito,0,恩典区(Gràcia),6.8,6.8,7.2
+墨西哥菜,Cantina Mexicana,Cantina Mexicana,0,恩典区(Gràcia),7.1,7.1,7.1
+墨西哥菜,Musa Barcelona,Musa Barcelona,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+其他西餐,La Fonda,La Fonda,113,旧城区(Ciutat Vella),7.5,7.3,6.4
+其他西餐,Restaurante Ferran,Restaurante Ferran,0,旧城区(Ciutat Vella),8.7,8.9,8.7
+其他西餐,Cerveceria Catalana,Cerveceria Catalana,0,扩展区(Eixample),8.5,8.6,8.3
+其他西餐,Nogal 1,Nogal 1,130,扩展区(Eixample),8.5,8.4,8.5
+其他西餐,Tapa Tapa,Tapa Tapa,0,恩典区(Gràcia),7.0,7.3,7.0
+其他西餐,Marina Moncho's,Marina Moncho's,0,,7.9,8.2,8.1
+其他西餐,La Barca Del Salamanca,La Barca Del Salamanca,0,圣马蒂(Sant Martí),7.7,7.3,7.3
+其他西餐,Marina Bay,Marina Bay,0,,6.5,7.0,6.5
+其他西餐,Les Quinze Nits,Les Quinze Nits,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,El Asador de Aranda,El Asador de Aranda,0,扩展区(Eixample),7.9,7.9,7.9
+其他西餐,La Paradeta,La Paradeta,0,扩展区(Eixample),8.2,7.2,7.5
+其他西餐,El Rey de la Gamba 1,El Rey de la Gamba 1,0,,8.1,8.1,7.7
+其他西餐,Paco Meralgo,Paco Meralgo,0,扩展区(Eixample),8.2,7.9,7.9
+其他西餐,Bar Central la Boqueria,Bar Central la Boqueria,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,Los Caracoles,Los Caracoles,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,Alkimia,Alkimia,0,扩展区(Eixample),7.7,7.5,7.5
+其他西餐,Caelis,Caelis,0,扩展区(Eixample),7.8,7.8,7.8
+其他西餐,Arcano,Arcano,0,旧城区(Ciutat Vella),7.7,7.7,7.7
+其他西餐,Jaime Beriestain,Jaime Beriestain,0,扩展区(Eixample),7.2,7.6,7.2
+其他西餐,La Fonda del Port Olimpic,La Fonda del Port Olimpic,0,圣马蒂(Sant Martí),7.0,7.1,7.0
+其他西餐,Ciutat Comtat,Ciutat Comtat,0,扩展区(Eixample),8.0,8.0,7.5
+其他西餐,ABaC Restaurant,ABaC Restaurant,0,Sarrià-Sant Gervasi,7.6,8.1,8.1
+其他西餐,Restaurante Nuria,Restaurante Nuria,0,旧城区(Ciutat Vella),7.8,7.8,7.8
+其他西餐,Taller de Tapas,Taller de Tapas,0,旧城区(Ciutat Vella),7.3,7.3,7.3
+其他西餐,Hofmann La Seca Terrassa,Hofmann La Seca Terrassa,0,旧城区(Ciutat Vella),8.0,8.0,8.0
+其他西餐,Restaurante El Mall,Restaurante El Mall,0,圣-蒙特惠奇(Sants-Montjuïc),8.4,8.3,8.3
+其他西餐,Orio BCN Gotic,Orio BCN Gotic,0,旧城区(Ciutat Vella),7.6,7.1,7.6
+其他西餐,Xurreria Dels Banys Nous,Xurreria Dels Banys Nous,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,Paella del Arte,Paella del Arte,0,扩展区(Eixample),8.1,6.0,8.1
+其他西餐,Pastelerias Mauri,Pastelerias Mauri,0,扩展区(Eixample),7.5,7.5,7.5
+其他西餐,Hisop,Hisop,0,扩展区(Eixample),7.5,7.0,7.5
+其他西餐,"Moments at Mandarin Oriental, Barcelona","Moments at Mandarin Oriental, Barcelona",0,扩展区(Eixample),8.1,8.1,8.1
+其他西餐,Cuines Santa Caterina,Cuines Santa Caterina,0,旧城区(Ciutat Vella),7.5,7.5,7.5
+其他西餐,Via Veneto,Via Veneto,0,Sarrià-Sant Gervasi,8.0,8.5,8.0
+其他西餐,Costa Gallega Restaurant,Costa Gallega Restaurant,0,扩展区(Eixample),7.4,7.2,7.2
+其他西餐,Bastaix,Bastaix,0,旧城区(Ciutat Vella),8.1,8.1,8.1
+其他西餐,7 Portes,7 Portes,0,旧城区(Ciutat Vella),8.1,8.1,8.1
+其他西餐,Torre d'Alta Mar,Torre d'Alta Mar,0,,7.5,8.0,7.5
+其他西餐,El Rey de la Gamba-2,El Rey de la Gamba-2,0,,7.5,7.0,7.2
+其他西餐,El Xampanyet,El Xampanyet,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,Taller de Tapas,Taller de Tapas,0,旧城区(Ciutat Vella),8.0,7.5,8.0
+其他西餐,Mariscco,Mariscco,0,扩展区(Eixample),7.6,7.6,7.4
+其他西餐,Xup Xup Restaurant,Xup Xup Restaurant,0,,8.0,8.0,8.0
+其他西餐,Caramba,Caramba,0,扩展区(Eixample),8.1,8.1,8.1
+其他西餐,Mussol Casp,Mussol Casp,0,扩展区(Eixample),7.9,7.9,7.9
+其他西餐,Can Cargolet,Can Cargolet,0,扩展区(Eixample),8.1,6.4,6.9
+其他西餐,Petit Comite,Petit Comite,0,扩展区(Eixample),7.0,8.0,8.0
+其他西餐,La Pubilla,La Pubilla,0,恩典区(Gràcia),7.3,7.3,7.3
+其他西餐,Restaurante el Porvenir,Restaurante el Porvenir,0,扩展区(Eixample),7.6,7.6,7.6
+其他西餐,Ikibana Paralelo,Ikibana Paralelo,0,扩展区(Eixample),8.0,8.0,8.0
+其他西餐,Llamber Barcelona,Llamber Barcelona,0,旧城区(Ciutat Vella),7.3,7.3,7.3
+其他西餐,El Vaso de Oro,El Vaso de Oro,0,其他,0.0,0.0,0.0
+其他西餐,Jai-Ca,Jai-Ca,0,其他,0.0,0.0,0.0
+其他西餐,Hugo,Hugo,0,旧城区(Ciutat Vella),7.7,7.7,7.7
+其他西餐,Tapes Gaudí,Tapes Gaudí,0,扩展区(Eixample),7.4,7.2,7.7
+其他西餐,Lactuca Buffet,Lactuca Buffet,0,扩展区(Eixample),6.7,6.9,6.7
+其他西餐,Enrique Tomas,Enrique Tomas,0,旧城区(Ciutat Vella),7.5,7.5,8.0
+其他西餐,Flamant Restaurant,Flamant Restaurant,0,扩展区(Eixample),7.5,7.5,7.5
+其他西餐,Tapas 24,Tapas 24,0,扩展区(Eixample),7.2,7.6,7.6
+其他西餐,La Rita,La Rita,0,扩展区(Eixample),0.0,0.0,0.0
+其他西餐,Elche,Elche,0,圣-蒙特惠奇(Sants-Montjuïc),7.5,7.5,7.5
+其他西餐,La Neura,La Neura,0,扩展区(Eixample),8.2,8.4,8.2
+其他西餐,Casa Alfonso,Casa Alfonso,0,扩展区(Eixample),7.0,7.2,7.4
+其他西餐,Compostela,Compostela,0,旧城区(Ciutat Vella),7.6,7.2,7.2
+其他西餐,Sensi,Sensi,0,旧城区(Ciutat Vella),7.3,7.3,7.3
+其他西餐,Can Mano,Can Mano,0,,7.0,7.0,7.0
+其他西餐,La Pepita,La Pepita,0,圣-蒙特惠奇(Sants-Montjuïc),7.4,7.5,7.5
+其他西餐,La Flauta,La Flauta,0,扩展区(Eixample),7.5,7.1,7.5
+其他西餐,Recasens,Recasens,0,圣马蒂(Sant Martí),7.3,7.3,7.3
+其他西餐,Tenorio,Tenorio,0,扩展区(Eixample),7.5,7.5,7.5
+其他西餐,La Vinoteca Torres,La Vinoteca Torres,0,扩展区(Eixample),7.5,7.5,7.0
+其他西餐,La Esquinica,La Esquinica,0,诺巴里斯(Nou Barris),7.5,7.3,7.5
+其他西餐,Taverna del Bisbe,Taverna del Bisbe,0,旧城区(Ciutat Vella),8.1,7.2,7.5
+其他西餐,Piscolabis,Piscolabis,0,勒科尔茨(Les Corts),8.1,8.1,7.5
+其他西餐,El Viejo Pop,El Viejo Pop,0,旧城区(Ciutat Vella),8.1,8.1,8.1
+其他西餐,Restaurante Santa Anna,Restaurante Santa Anna,0,旧城区(Ciutat Vella),7.4,7.4,7.4
+其他西餐,Restaurante Can Cargol,Restaurante Can Cargol,0,扩展区(Eixample),7.5,7.5,7.1
+其他西餐,Quimet & Quimet,Quimet & Quimet,0,圣-蒙特惠奇(Sants-Montjuïc),7.4,7.4,7.6
+其他西餐,Restaurante El Raco,Restaurante El Raco,0,旧城区(Ciutat Vella),7.7,7.4,7.4
+其他西餐,Restaurant Teleferic,Restaurant Teleferic,0,扩展区(Eixample),7.3,7.3,7.3
+其他西餐,Galeria Cosmo,Galeria Cosmo,0,扩展区(Eixample),7.3,7.5,7.7
+其他西餐,Volta al Mon,Volta al Mon,0,扩展区(Eixample),7.4,7.6,7.4
+其他西餐,Casa de Tapas Cañota,Casa de Tapas Cañota,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,Face to Face,Face to Face,0,扩展区(Eixample),7.0,7.3,7.1
+其他西餐,Bar Pinotxo,Bar Pinotxo,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Bormuth,Bormuth,0,旧城区(Ciutat Vella),7.2,7.3,6.9
+其他西餐,Cera 23,Cera 23,0,旧城区(Ciutat Vella),7.1,7.1,7.3
+其他西餐,Orio Born,Orio Born,0,旧城区(Ciutat Vella),6.2,6.8,6.8
+其他西餐,Barraca,Barraca,0,其他,0.0,0.0,0.0
+其他西餐,La Gambeta,La Gambeta,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+其他西餐,Tapa Tapa,Tapa Tapa,0,其他,0.0,0.0,0.0
+其他西餐,Bravo,Bravo,0,,6.7,7.5,7.0
+其他西餐,sukaldari,sukaldari,0,旧城区(Ciutat Vella),6.8,6.8,7.2
+其他西餐,Jamon Experience,Jamon Experience,0,旧城区(Ciutat Vella),7.1,6.9,6.7
+其他西餐,Kiosko Universal,Kiosko Universal,0,旧城区(Ciutat Vella),7.5,7.0,7.5
+其他西餐,Menta Fresa & Chocolate,Menta Fresa & Chocolate,0,,7.0,6.9,7.0
+其他西餐,Restaurante Navarra,Restaurante Navarra,0,扩展区(Eixample),6.8,6.8,7.2
+其他西餐,Restaurant La Poma,Restaurant La Poma,0,旧城区(Ciutat Vella),7.1,7.1,8.0
+其他西餐,Miño,Miño,0,旧城区(Ciutat Vella),7.5,7.1,7.1
+其他西餐,Tosca,Tosca,0,旧城区(Ciutat Vella),7.0,7.5,7.5
+其他西餐,Pudding,Pudding,0,扩展区(Eixample),7.3,6.9,7.3
+其他西餐,Cerveceria Berlin,Cerveceria Berlin,0,勒科尔茨(Les Corts),6.8,6.8,7.9
+其他西餐,Gustos,Gustos,0,其他,6.9,6.9,6.9
+其他西餐,La Venta,La Venta,0,Sarrià-Sant Gervasi,7.9,7.9,7.9
+其他西餐,Raco De La Vila,Raco De La Vila,0,扩展区(Eixample),7.5,8.0,7.5
+其他西餐,Restaurante Grill Room,Restaurante Grill Room,0,旧城区(Ciutat Vella),7.4,7.7,7.4
+其他西餐,Bilbao-Berria,Bilbao-Berria,0,旧城区(Ciutat Vella),7.4,7.4,7.4
+其他西餐,Nass Restaurant Barcelona,Nass Restaurant Barcelona,0,,7.1,7.2,7.2
+其他西餐,Toc de Mar,Toc de Mar,0,,7.2,7.6,7.4
+其他西餐,L'arros,L'arros,0,,7.5,7.5,7.5
+其他西餐,Els Tres Tombs,Els Tres Tombs,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Bar Restaurante Teruel,Bar Restaurante Teruel,0,,6.7,6.7,6.6
+其他西餐,Genove 1911,Genove 1911,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,Taller de Tapas,Taller de Tapas,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,Restaurante L,Restaurante L,0,扩展区(Eixample),0.0,0.0,0.0
+其他西餐,"Tapeo, anem de tapes","Tapeo, anem de tapes",0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,Restaurant Montiel,Restaurant Montiel,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,La Bodegueta del Poble Sec,La Bodegueta del Poble Sec,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,El Corte Ingles,El Corte Ingles,0,旧城区(Ciutat Vella),6.8,7.2,6.8
+其他西餐,Restaurante Tibet,Restaurante Tibet,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.1,7.1
+其他西餐,Abrassame,Abrassame,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Can Majo,Can Majo,0,,7.2,7.2,7.2
+其他西餐,Taller de Tapas,Taller de Tapas,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+其他西餐,Bilbao,Bilbao,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,jamón y vino,jamón y vino,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,El Corte Ingles,El Corte Ingles,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Moncho's Barcelona,Moncho's Barcelona,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Restaurante Carballeira,Restaurante Carballeira,0,,7.2,7.2,7.2
+其他西餐,Babilonia,Babilonia,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,ARTAPAS BARCELONA,ARTAPAS BARCELONA,0,扩展区(Eixample),7.0,7.1,7.0
+其他西餐,Top Tapas,Top Tapas,0,旧城区(Ciutat Vella),6.3,6.3,6.8
+其他西餐,La Cava Universal,La Cava Universal,0,旧城区(Ciutat Vella),7.1,6.8,7.1
+其他西餐,Bar Santa Fe,Bar Santa Fe,0,圣马蒂(Sant Martí),7.6,7.6,7.6
+其他西餐,El Corte Ingles (Centro Comercial Meridiana).,El Corte Ingles (Centro Comercial Meridiana).,0,圣安德鲁(Sant Andreu),6.9,6.9,6.9
+其他西餐,Comedorclandestino,Comedorclandestino,0,Sarrià-Sant Gervasi,7.3,7.3,7.3
+其他西餐,Comerc 24,Comerc 24,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Nectari Restaurant,Nectari Restaurant,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Taller de Tapas,Taller de Tapas,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,El Asador De Aranda,El Asador De Aranda,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,Centric Canalla,Centric Canalla,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Els Pescadors,Els Pescadors,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,El Cangrejo Loco,El Cangrejo Loco,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Restaurante Santiaguino,Restaurante Santiaguino,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Bar Bodega l'Electricitat,Bar Bodega l'Electricitat,0,,7.2,7.2,7.2
+其他西餐,Ikra,Ikra,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Dulcinea,Dulcinea,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurant Ipar-Txoko,Restaurant Ipar-Txoko,0,恩典区(Gràcia),7.2,6.8,6.8
+其他西餐,Granja Petitbo,Granja Petitbo,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,De Tapa Madre,De Tapa Madre,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Can Vador,Can Vador,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,La Fonda Paisa,La Fonda Paisa,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,O,O,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Restaurant La Salut,Restaurant La Salut,0,恩典区(Gràcia),7.1,7.1,7.1
+其他西餐,EspaiBCN Clos Montblanc,EspaiBCN Clos Montblanc,0,其他,7.0,7.1,7.1
+其他西餐,Meson Las Delicias,Meson Las Delicias,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.1,7.1
+其他西餐,Nostrum,Nostrum,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Dionissos,Dionissos,0,圣马蒂(Sant Martí),7.1,7.1,6.8
+其他西餐,El pebrot i el petit cargol,El pebrot i el petit cargol,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,6.8
+其他西餐,Asador De Lugo,Asador De Lugo,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+其他西餐,Restaurant Sise,Restaurant Sise,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Zafra,Zafra,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Restaurante pizzeria Company 670 Barcelona,Restaurante pizzeria Company 670 Barcelona,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+其他西餐,Bar Marina,Bar Marina,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+其他西餐,Restaurant Casa Agusti,Restaurant Casa Agusti,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+其他西餐,Lata-Barra,Lata-Barra,0,其他,6.9,6.9,6.9
+其他西餐,Cafe Veranda,Cafe Veranda,0,扩展区(Eixample),7.0,7.0,7.0
+其他西餐,Brasseria Llesqueria Juanma,Brasseria Llesqueria Juanma,0,扩展区(Eixample),6.9,6.9,6.9
+其他西餐,Cathedral Restaurant,Cathedral Restaurant,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+其他西餐,Tickets,Tickets,0,其他,7.2,7.2,7.2
+其他西餐,Ramen Can,Ramen Can,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+其他西餐,Do,Do,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Patagonia Beef & Wine,Patagonia Beef & Wine,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Xiringuito Escriba,Xiringuito Escriba,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Angle Barcelona,Angle Barcelona,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Betlem Miscel.lania Gastronomica,Betlem Miscel.lania Gastronomica,0,扩展区(Eixample),7.7,7.2,7.2
+其他西餐,La Torreta del Parc Guell,La Torreta del Parc Guell,0,恩典区(Gràcia),6.4,6.8,6.8
+其他西餐,Divinus Rosello,Divinus Rosello,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,La Coctelera,La Coctelera,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+其他西餐,El Corte Ingles,El Corte Ingles,0,旧城区(Ciutat Vella),6.8,6.8,6.8
+其他西餐,Sandro,Sandro,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+其他西餐,O'vall D'ouro,O'vall D'ouro,0,扩展区(Eixample),7.0,7.0,6.9
+其他西餐,Lolita Taperia,Lolita Taperia,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Restaurante Salamanca,Restaurante Salamanca,0,,7.2,7.2,7.2
+其他西餐,Cavamar,Cavamar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Alegra restaurant,Alegra restaurant,0,其他,7.2,7.2,7.2
+其他西餐,Lla Vacca Pacca,Lla Vacca Pacca,0,扩展区(Eixample),7.0,7.0,6.9
+其他西餐,Fabrica Moritz Cerveceria,Fabrica Moritz Cerveceria,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Gastropub Xalupada,Gastropub Xalupada,0,扩展区(Eixample),7.1,7.3,7.3
+其他西餐,El Cafe de Ferran,El Cafe de Ferran,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+其他西餐,L'Olive,L'Olive,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Gran bodega Restaurante,Gran bodega Restaurante,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,Picazzo,Picazzo,0,扩展区(Eixample),6.9,6.7,6.7
+其他西餐,Divinus,Divinus,0,扩展区(Eixample),6.8,6.8,7.2
+其他西餐,La Mar de Bo,La Mar de Bo,0,,6.8,6.8,7.2
+其他西餐,Monja,Monja,0,其他,0.0,0.0,0.0
+其他西餐,Bar del Pla,Bar del Pla,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,Tapas Place,Tapas Place,0,扩展区(Eixample),6.6,6.6,6.6
+其他西餐,Jaica Bar,Jaica Bar,0,,7.2,7.2,7.2
+其他西餐,El Tiet Taver-Teca,El Tiet Taver-Teca,0,扩展区(Eixample),7.7,7.2,7.2
+其他西餐,Spoonik,Spoonik,0,恩典区(Gràcia),7.7,7.7,7.7
+其他西餐,Grand place,Grand place,0,扩展区(Eixample),7.1,7.1,7.0
+其他西餐,Bar Clemen's,Bar Clemen's,0,旧城区(Ciutat Vella),7.7,7.2,7.2
+其他西餐,Manolete,Manolete,0,其他,7.6,7.2,7.2
+其他西餐,Bar CASI,Bar CASI,0,恩典区(Gràcia),7.2,7.7,7.2
+其他西餐,Topik,Topik,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Tapa Tape,Tapa Tape,0,扩展区(Eixample),6.9,6.9,6.9
+其他西餐,Blavis,Blavis,0,Sarrià-Sant Gervasi,7.5,7.5,7.1
+其他西餐,La casa del jamon,La casa del jamon,0,扩展区(Eixample),6.9,6.9,6.9
+其他西餐,El Punto,El Punto,0,扩展区(Eixample),7.3,7.1,7.1
+其他西餐,Reserva Iberica,Reserva Iberica,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+其他西餐,La Baguetina Catalana,La Baguetina Catalana,0,扩展区(Eixample),6.3,6.3,6.3
+其他西餐,La Bodegueta Provenca,La Bodegueta Provenca,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Fonda Gaig,Fonda Gaig,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Cachitos,Cachitos,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,The Mirror Restaurant,The Mirror Restaurant,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,El Santo del Born,El Santo del Born,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Los Bellota,Los Bellota,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Lizarran,Lizarran,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Los Cachitos,Los Cachitos,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,bilbao bernia,bilbao bernia,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Ikibana Restaurant and Lounge,Ikibana Restaurant and Lounge,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Bodega 1900,Bodega 1900,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Roig Robi,Roig Robi,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Ten's Barcelona,Ten's Barcelona,0,,7.2,7.2,7.2
+其他西餐,Que Bueno Que Viniste,Que Bueno Que Viniste,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Pa i Trago,Pa i Trago,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Gaucho'S,Gaucho'S,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,El Cafe de la Casa de les Lletres,El Cafe de la Casa de les Lletres,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Bacoa Gourmet Burger Universidad,Bacoa Gourmet Burger Universidad,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,"Acoma Cafe Bar Tapas, Barcelona","Acoma Cafe Bar Tapas, Barcelona",0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,DOQ BARCELONA Restaurant & Cocktail Bar,DOQ BARCELONA Restaurant & Cocktail Bar,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Can Travi Nou,Can Travi Nou,0,奥尔塔-吉纳德(Horta-Guinardó),7.2,7.2,7.2
+其他西餐,La Braseria del Portus,La Braseria del Portus,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Sonora Sport Tavern,Sonora Sport Tavern,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Braseria El Glop,Braseria El Glop,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,La Taberna del Cura,La Taberna del Cura,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Aitor Restaurant,Aitor Restaurant,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Casa Chelis,Casa Chelis,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,La Mary,La Mary,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,Districte Born Tapas,Districte Born Tapas,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurante Cheriff,Restaurante Cheriff,0,,7.2,7.2,7.2
+其他西餐,La Taguara Areperia,La Taguara Areperia,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurant Allium,Restaurant Allium,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Taperia Princesa,Taperia Princesa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Pulperia,La Pulperia,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Cent Onze,Cent Onze,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurante Tantarantana,Restaurante Tantarantana,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Taverna Can Margarit,Taverna Can Margarit,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,L'Amfora,L'Amfora,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,Patron Restaurant,Patron Restaurant,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Pitarra,Pitarra,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Ohla Gastrobar,Ohla Gastrobar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Masqmenos,Masqmenos,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Coure,Coure,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Egypte,Egypte,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurante Pla de la Garsa,Restaurante Pla de la Garsa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Morrysom,Morrysom,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,La Masia del Born,La Masia del Born,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Bodega Joan,Bodega Joan,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,El Portalon,El Portalon,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Brasserie du Gothique,Brasserie du Gothique,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurante El Chato,Restaurante El Chato,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Mont Bar,Mont Bar,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Hostal de Rita,Hostal de Rita,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Lizarran Camp Nou,Lizarran Camp Nou,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+其他西餐,Terraza La Isabela,Terraza La Isabela,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Buena Vida,La Buena Vida,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Casa Guinart,Casa Guinart,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Tablao De Carmen,Tablao De Carmen,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,Casa Aliaga,Casa Aliaga,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Castell de Xativa,Castell de Xativa,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Bar Celta,Bar Celta,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Dias Denorte,Dias Denorte,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Pepito Restaurante,Pepito Restaurante,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Boca Chica,Boca Chica,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,La Viblia Wine Restaurant,La Viblia Wine Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Pulperia A'Gudina,Pulperia A'Gudina,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Yumcha,Yumcha,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,Menja Futur,Menja Futur,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+其他西餐,Atrium Restaurant,Atrium Restaurant,0,扩展区(Eixample),7.0,7.1,7.0
+其他西餐,La Fonda Marina,La Fonda Marina,0,圣安德鲁(Sant Andreu),7.1,7.1,7.1
+其他西餐,Senyor Vermut,Senyor Vermut,0,扩展区(Eixample),7.3,7.3,7.3
+其他西餐,Giraluna,Giraluna,0,圣-蒙特惠奇(Sants-Montjuïc),7.3,7.3,7.3
+其他西餐,Don Picanton,Don Picanton,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+其他西餐,Indigo Restaurant,Indigo Restaurant,0,圣马蒂(Sant Martí),6.8,6.8,6.8
+其他西餐,BARCELONA PIPUS,BARCELONA PIPUS,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+其他西餐,Navia Restaurant,Navia Restaurant,0,,7.1,7.1,7.1
+其他西餐,Nou Mediterrani,Nou Mediterrani,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,La Conca,La Conca,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Cerveseria Morizt,Cerveseria Morizt,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,La Bella Istanbul,La Bella Istanbul,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+其他西餐,Candela Raval,Candela Raval,0,旧城区(Ciutat Vella),7.1,6.8,7.1
+其他西餐,Belgious Poble Nou,Belgious Poble Nou,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+其他西餐,Elephant Restaurant & Lounge Club,Elephant Restaurant & Lounge Club,0,扩展区(Eixample),7.3,7.3,7.1
+其他西餐,Beltxenea,Beltxenea,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Tarte & Quiche,Tarte & Quiche,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Restaurante El Asador de Aranda,Restaurante El Asador de Aranda,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Restaurante Nineteen,Restaurante Nineteen,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,Bar Quiosc Modern,Bar Quiosc Modern,0,旧城区(Ciutat Vella),7.1,7.0,7.1
+其他西餐,"La Cueva de 1900, Barcelona","La Cueva de 1900, Barcelona",0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,Marcos Restaurant,Marcos Restaurant,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,MAT Bar,MAT Bar,0,扩展区(Eixample),7.0,7.0,7.0
+其他西餐,Polleria Fontana,Polleria Fontana,0,恩典区(Gràcia),7.1,7.1,7.1
+其他西餐,Tres Encinas,Tres Encinas,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Opera Garden,Opera Garden,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+其他西餐,Life,Life,0,Sarrià-Sant Gervasi,6.8,7.1,7.1
+其他西餐,El Mato de Pedralbes,El Mato de Pedralbes,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+其他西餐,La Reina,La Reina,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,El Practic,El Practic,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+其他西餐,Genis Cafe,Genis Cafe,0,,7.1,7.1,7.1
+其他西餐,Bar Ski,Bar Ski,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,The glass,The glass,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+其他西餐,Kasbah,Kasbah,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+其他西餐,El Raco de Bauti,El Raco de Bauti,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+其他西餐,Gild International,Gild International,0,扩展区(Eixample),6.9,6.9,6.9
+其他西餐,Xativa la Arrosseria,Xativa la Arrosseria,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+其他西餐,La Masia del Rocxi,La Masia del Rocxi,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Nostromo,Nostromo,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,Joanet,Joanet,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,Restaurante Triton,Restaurante Triton,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+其他西餐,El Raco del Mercat,El Raco del Mercat,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Neo Barcelona,Neo Barcelona,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Bomboneria Pons,Bomboneria Pons,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.0,7.0
+其他西餐,Garlana,Garlana,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+其他西餐,Corella - Hotel NH Podium,Corella - Hotel NH Podium,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Urban grill,Urban grill,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,Trobador Rossello,Trobador Rossello,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,L'Arbre D'en Llorenc,L'Arbre D'en Llorenc,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+其他西餐,CALIU,CALIU,0,圣马蒂(Sant Martí),7.0,7.1,7.1
+其他西餐,Cerveceria Muntanya,Cerveceria Muntanya,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+其他西餐,Ca La Monyos,Ca La Monyos,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Hogan's Barcelona,Hogan's Barcelona,0,旧城区(Ciutat Vella),6.9,7.1,7.0
+其他西餐,Mendieta,Mendieta,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+其他西餐,Mabel The Granja,Mabel The Granja,0,圣马蒂(Sant Martí),7.1,7.1,6.8
+其他西餐,Blanc,Blanc,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Restaurante Condal,Restaurante Condal,0,扩展区(Eixample),7.0,7.1,7.1
+其他西餐,O,O,0,扩展区(Eixample),6.9,6.9,6.9
+其他西餐,Domo Restaurant & Lounge Bar,Domo Restaurant & Lounge Bar,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+其他西餐,La Laia,La Laia,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Viena,Viena,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurante La Palmera,Restaurante La Palmera,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Bodega La Palma,Bodega La Palma,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Torna,La Torna,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Suculent,Suculent,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,samsara,samsara,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Restaurante Bistronou,Restaurante Bistronou,0,扩展区(Eixample),0.0,0.0,0.0
+其他西餐,Bar Llacuna,Bar Llacuna,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+其他西餐,Restaurante Can Ubaldo,Restaurante Can Ubaldo,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+其他西餐,La Gardunya,La Gardunya,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Gallera,La Gallera,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+其他西餐,L'Ombra,L'Ombra,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+其他西餐,Vincci Arena,Vincci Arena,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,7.0,7.0
+其他西餐,Les Neus,Les Neus,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.1,7.0
+其他西餐,Fair Play BCN,Fair Play BCN,0,圣安德鲁(Sant Andreu),7.0,7.0,7.0
+其他西餐,SIBAR PALAU,SIBAR PALAU,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+其他西餐,El Rincon Criollo,El Rincon Criollo,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Valentina,Valentina,0,旧城区(Ciutat Vella),6.9,7.1,7.0
+其他西餐,L'Antiquari,L'Antiquari,0,旧城区(Ciutat Vella),6.9,7.0,7.0
+其他西餐,El Caliu de Gracia,El Caliu de Gracia,0,恩典区(Gràcia),7.0,7.0,6.9
+其他西餐,bar restaurante Can Jordi,bar restaurante Can Jordi,0,圣安德鲁(Sant Andreu),7.0,7.0,7.0
+其他西餐,El bar del Paco,El bar del Paco,0,旧城区(Ciutat Vella),7.0,7.1,7.0
+其他西餐,L'Antic de Sants,L'Antic de Sants,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+其他西餐,Bopan Plaza Molina,Bopan Plaza Molina,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+其他西餐,L'orquidia,L'orquidia,0,扩展区(Eixample),7.0,7.0,6.9
+其他西餐,Paella,Paella,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+其他西餐,"EL Racó, Ronda Universitat","EL Racó, Ronda Universitat",0,旧城区(Ciutat Vella),7.0,7.0,7.0
+其他西餐,La Marina,La Marina,0,圣马蒂(Sant Martí),7.0,7.0,6.9
+其他西餐,3 Restaurante,3 Restaurante,0,扩展区(Eixample),7.0,7.0,7.0
+其他西餐,Pan y Vino,Pan y Vino,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+其他西餐,Pan & Oli,Pan & Oli,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+其他西餐,Seventeen Restaurant,Seventeen Restaurant,0,扩展区(Eixample),7.0,7.0,7.0
+其他西餐,El Tablo Carmen,El Tablo Carmen,0,,7.0,7.0,7.1
+其他西餐,Xampu Xampany,Xampu Xampany,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+其他西餐,The Echo Healthy Restaurant,The Echo Healthy Restaurant,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+其他西餐,Casa Calvet,Casa Calvet,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,El Tinglado De Moncho's,El Tinglado De Moncho's,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Dass Restaurant,Dass Restaurant,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Ottavio barcelona,Ottavio barcelona,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+其他西餐,Ca L' Andreu,Ca L' Andreu,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,Tapa Tapa,Tapa Tapa,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Pampero,Pampero,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Restaurante Arola,Restaurante Arola,0,,7.2,7.2,7.2
+其他西餐,Norai Raval,Norai Raval,0,旧城区(Ciutat Vella),7.1,7.3,7.3
+其他西餐,Wok Chao,Wok Chao,0,圣马蒂(Sant Martí),6.9,6.7,6.9
+其他西餐,Bel-Luna Jazz Club,Bel-Luna Jazz Club,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,Visit Restaurant,Visit Restaurant,0,旧城区(Ciutat Vella),7.0,7.0,7.1
+其他西餐,L'Espai Ferrer i Guardia,L'Espai Ferrer i Guardia,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+其他西餐,Sor Rita Bar,Sor Rita Bar,0,旧城区(Ciutat Vella),6.8,7.1,7.1
+其他西餐,El Mos,El Mos,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,La Tertulia,La Tertulia,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+其他西餐,Gelida,Gelida,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Pepa Tomate,Pepa Tomate,0,恩典区(Gràcia),7.2,6.8,7.2
+其他西餐,Bar Cañete,Bar Cañete,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurant Bar Picasso,Restaurant Bar Picasso,0,圣马蒂(Sant Martí),6.3,6.3,6.3
+其他西餐,Moncho's House,Moncho's House,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+其他西餐,Cerveseria D'or,Cerveseria D'or,0,其他,7.0,7.0,7.0
+其他西餐,Don Ulpiano,Don Ulpiano,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Restaurante Lasarte,Restaurante Lasarte,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Santa Eulalia Cafe,Santa Eulalia Cafe,0,扩展区(Eixample),7.0,7.0,7.0
+其他西餐,Tapa Tapissima,Tapa Tapissima,0,扩展区(Eixample),6.9,6.9,6.9
+其他西餐,Ca l'isidre,Ca l'isidre,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Lonja de tapas,Lonja de tapas,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Crocante,Crocante,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+其他西餐,Tibidabo,Tibidabo,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,Can Culleretes,Can Culleretes,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Taberna Del Bierzo,La Taberna Del Bierzo,0,勒科尔茨(Les Corts),7.1,7.1,6.8
+其他西餐,Pampa mia,Pampa mia,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+其他西餐,Honey Cafetería,Honey Cafetería,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+其他西餐,41 Degrees,41 Degrees,0,扩展区(Eixample),7.7,7.7,7.2
+其他西餐,La Cuina d'en Garriga,La Cuina d'en Garriga,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Bar Restaurant Tasca I Vins,Bar Restaurant Tasca I Vins,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Restaurante Margherita,Restaurante Margherita,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Mussol,Mussol,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Restaurante El Mussol,Restaurante El Mussol,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Maritim Restaurant,Maritim Restaurant,0,,7.2,7.2,7.2
+其他西餐,Patisserie (Bomboneria) Mauri 103,Patisserie (Bomboneria) Mauri 103,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Il Caffe Di Franceso,Il Caffe Di Franceso,0,其他,6.9,6.9,6.9
+其他西餐,Cafe Blu,Cafe Blu,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+其他西餐,Barroc Cafe,Barroc Cafe,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+其他西餐,Pitin Bar,Pitin Bar,0,旧城区(Ciutat Vella),6.8,7.1,7.1
+其他西餐,Restaurante Somorrostro,Restaurante Somorrostro,0,,7.2,7.2,7.2
+其他西餐,La Monyos,La Monyos,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+其他西餐,Mandarina Restaurant,Mandarina Restaurant,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+其他西餐,Dionisos,Dionisos,0,,7.2,6.8,7.2
+其他西餐,El Pescadito Frito,El Pescadito Frito,0,扩展区(Eixample),7.1,7.1,6.8
+其他西餐,Cuidat Comtal,Cuidat Comtal,0,扩展区(Eixample),7.2,7.2,7.6
+其他西餐,El Gran Cafe,El Gran Cafe,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Casa Delfin,Casa Delfin,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Onofre,Onofre,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Lauria 2,Lauria 2,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+其他西餐,Restaurante Addis Abeba,Restaurante Addis Abeba,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,New York Cafeteria Bar,New York Cafeteria Bar,0,圣安德鲁(Sant Andreu),6.9,6.9,6.9
+其他西餐,Compostella,Compostella,0,圣安德鲁(Sant Andreu),7.0,7.0,7.0
+其他西餐,Big J Burger,Big J Burger,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Tablao Flamenco Patio Andaluz,Tablao Flamenco Patio Andaluz,0,扩展区(Eixample),6.4,6.4,6.4
+其他西餐,Cafe de la Pedrera,Cafe de la Pedrera,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Trobador Rambla Catalunya,Trobador Rambla Catalunya,0,旧城区(Ciutat Vella),6.8,6.8,6.8
+其他西餐,Bubo,Bubo,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Gallito,Gallito,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Fres Co,Fres Co,0,旧城区(Ciutat Vella),6.8,7.2,7.2
+其他西餐,Bar del Convent,Bar del Convent,0,旧城区(Ciutat Vella),7.0,7.0,7.1
+其他西餐,Fragua Grill,Fragua Grill,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Ànima bcn,Ànima bcn,0,勒科尔茨(Les Corts),7.2,7.7,7.2
+其他西餐,Dones de Foc,Dones de Foc,0,扩展区(Eixample),7.1,7.5,7.1
+其他西餐,Cafe & Te,Cafe & Te,0,其他,6.7,6.7,6.9
+其他西餐,Restaurante Sesamo,Restaurante Sesamo,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Gelonch,Gelonch,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Cientoocho,Cientoocho,0,扩展区(Eixample),7.2,7.7,7.2
+其他西餐,Petit boqueria,Petit boqueria,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Baguetina Catalana,La Baguetina Catalana,0,旧城区(Ciutat Vella),6.3,6.3,6.3
+其他西餐,Ferran 59,Ferran 59,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,El Pinar,El Pinar,0,旧城区(Ciutat Vella),7.1,7.0,7.1
+其他西餐,Vasi Restaurant,Vasi Restaurant,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+其他西餐,Teresa,Teresa,0,圣马蒂(Sant Martí),7.3,7.1,7.1
+其他西餐,Restaurante La Torreta de Escorial,Restaurante La Torreta de Escorial,0,恩典区(Gràcia),7.1,7.1,7.1
+其他西餐,Pizzeria Gambrino,Pizzeria Gambrino,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+其他西餐,Fandango Les Corts,Fandango Les Corts,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+其他西餐,Cafeteria Cervesseria Belles Arts II,Cafeteria Cervesseria Belles Arts II,0,勒科尔茨(Les Corts),6.7,6.7,6.7
+其他西餐,La Dansa de les Mil i una Nit,La Dansa de les Mil i una Nit,0,扩展区(Eixample),7.0,7.0,7.0
+其他西餐,Cal Pinxo Platja,Cal Pinxo Platja,0,,7.2,7.2,7.2
+其他西餐,Vic Braseria,Vic Braseria,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Bar Bodega Quimet,Bar Bodega Quimet,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,Mescladis,Mescladis,0,旧城区(Ciutat Vella),7.1,6.8,7.1
+其他西餐,Abrelatas,Abrelatas,0,圣-蒙特惠奇(Sants-Montjuïc),7.3,7.3,7.3
+其他西餐,Homenatge,Homenatge,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+其他西餐,Barlovento,Barlovento,0,圣马蒂(Sant Martí),7.1,6.8,6.8
+其他西餐,El Toc de Gracia Restaurant,El Toc de Gracia Restaurant,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Lo Fantastic,Lo Fantastic,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+其他西餐,Mussol Arenas,Mussol Arenas,0,扩展区(Eixample),6.8,7.2,7.2
+其他西餐,Cabanela,Cabanela,0,扩展区(Eixample),7.3,7.3,7.1
+其他西餐,Lonja de Tapas Pla de Palau,Lonja de Tapas Pla de Palau,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurante Molina,Restaurante Molina,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+其他西餐,Xorus,Xorus,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,La Pepita,La Pepita,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Con Gracia,Con Gracia,0,恩典区(Gràcia),7.2,7.7,7.2
+其他西餐,Pappa e Citti,Pappa e Citti,0,恩典区(Gràcia),7.7,7.2,7.2
+其他西餐,Casa Calavet,Casa Calavet,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+其他西餐,Casa Tomasa,Casa Tomasa,0,,7.2,7.2,7.2
+其他西餐,383 Restaurant,383 Restaurant,0,扩展区(Eixample),7.0,6.9,7.0
+其他西餐,Restaurante Cullera de Boix,Restaurante Cullera de Boix,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurante El Refugio,Restaurante El Refugio,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+其他西餐,Divinus,Divinus,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Mitxel la,Mitxel la,0,扩展区(Eixample),6.9,6.9,6.9
+其他西餐,Mixtel.la restaurant,Mixtel.la restaurant,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Tapa Fina,Tapa Fina,0,圣-蒙特惠奇(Sants-Montjuïc),6.3,6.3,6.8
+其他西餐,Gaudi Bakery,Gaudi Bakery,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,La Fitora,La Fitora,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Zahara,Zahara,0,,7.2,7.2,7.2
+其他西餐,Atrium,Atrium,0,圣马蒂(Sant Martí),7.1,7.0,7.0
+其他西餐,La Panxa del Bisbe,La Panxa del Bisbe,0,恩典区(Gràcia),7.7,7.2,7.2
+其他西餐,Magnum 7 Portes,Magnum 7 Portes,0,圣马蒂(Sant Martí),7.0,6.7,7.0
+其他西餐,Carabela Juice n Cocktail Cafe,Carabela Juice n Cocktail Cafe,0,,7.1,7.1,7.1
+其他西餐,Eutopia,Eutopia,0,恩典区(Gràcia),7.1,7.3,7.3
+其他西餐,Galeria Rosa Blanca,Galeria Rosa Blanca,0,扩展区(Eixample),6.7,6.7,6.7
+其他西餐,La Bona Pinta,La Bona Pinta,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,PaTapas,PaTapas,0,旧城区(Ciutat Vella),7.2,6.8,7.2
+其他西餐,Casa Leopoldo,Casa Leopoldo,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Maylex Bistrot,Maylex Bistrot,0,扩展区(Eixample),7.2,7.7,7.2
+其他西餐,Restaurante Bacco,Restaurante Bacco,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Lubina,La Lubina,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Gorria,Gorria,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Cerveceria Naviera Hosteleria Alemana,Cerveceria Naviera Hosteleria Alemana,0,旧城区(Ciutat Vella),6.3,6.3,6.3
+其他西餐,Milano Cocktail Bar,Milano Cocktail Bar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Bar Pinotex,Bar Pinotex,0,旧城区(Ciutat Vella),7.1,7.3,7.1
+其他西餐,La Llossa,La Llossa,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Bar La Cueva,Bar La Cueva,0,恩典区(Gràcia),6.7,6.9,6.9
+其他西餐,Drolma,Drolma,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,El Rodizio,El Rodizio,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,la catalana,la catalana,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Las Euras,Las Euras,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+其他西餐,Pans & Company,Pans & Company,0,扩展区(Eixample),7.2,7.2,6.8
+其他西餐,Alsur Cafe,Alsur Cafe,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Roca Bar,Roca Bar,0,扩展区(Eixample),7.2,6.8,7.2
+其他西餐,Bahia Do Porto Mar,Bahia Do Porto Mar,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+其他西餐,Central Cafe Pelai,Central Cafe Pelai,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,Casa Emma,Casa Emma,0,恩典区(Gràcia),7.0,7.0,7.0
+其他西餐,Ole Mallorca,Ole Mallorca,0,扩展区(Eixample),7.0,7.0,7.0
+其他西餐,El Raco D'en Pep,El Raco D'en Pep,0,奥尔塔-吉纳德(Horta-Guinardó),6.9,6.9,6.9
+其他西餐,O.M.G BARCELONA,O.M.G BARCELONA,0,圣马蒂(Sant Martí),7.1,7.0,7.0
+其他西餐,EL PETIT REBOST,EL PETIT REBOST,0,恩典区(Gràcia),7.0,7.0,7.0
+其他西餐,Bo Restaurant,Bo Restaurant,0,圣-蒙特惠奇(Sants-Montjuïc),6.8,6.8,7.2
+其他西餐,El Chipiron,El Chipiron,0,,6.8,6.8,7.2
+其他西餐,Maitea Taberna,Maitea Taberna,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Los Alfonsinos,Los Alfonsinos,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Restaurante Can Pineda,Restaurante Can Pineda,0,扩展区(Eixample),7.7,7.2,7.2
+其他西餐,El Cafe D'en Victor,El Cafe D'en Victor,0,旧城区(Ciutat Vella),6.8,6.8,6.8
+其他西餐,Alsur Cafe (Palau),Alsur Cafe (Palau),0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Carlitos,Carlitos,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,Mi Gracia,Mi Gracia,0,恩典区(Gràcia),7.2,7.7,7.2
+其他西餐,Bar Restaurante La Llesca,Bar Restaurante La Llesca,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,La Botiga,La Botiga,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+其他西餐,Marisco Reial,Marisco Reial,0,旧城区(Ciutat Vella),6.8,7.2,7.2
+其他西餐,Bar Upiaywasi,Bar Upiaywasi,0,旧城区(Ciutat Vella),6.8,6.8,7.1
+其他西餐,Restaurante EDEN,Restaurante EDEN,0,圣-蒙特惠奇(Sants-Montjuïc),6.8,6.8,6.8
+其他西餐,Cafe & Te,Cafe & Te,0,扩展区(Eixample),6.8,6.8,6.8
+其他西餐,Restaurante L'Alianca del Poble Nou,Restaurante L'Alianca del Poble Nou,0,圣马蒂(Sant Martí),6.8,6.8,6.8
+其他西餐,Restaurante Qu-Qu,Restaurante Qu-Qu,0,扩展区(Eixample),6.8,6.8,7.2
+其他西餐,Bodega La Peninsular,Bodega La Peninsular,0,,7.7,7.7,7.2
+其他西餐,Wow,Wow,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Ceviche 103,Ceviche 103,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Bar Venezia,Bar Venezia,0,扩展区(Eixample),7.0,7.1,7.0
+其他西餐,Bar Marfil,Bar Marfil,0,扩展区(Eixample),6.9,7.0,7.0
+其他西餐,elPassatge del Murmuri,elPassatge del Murmuri,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Cerueceria,Cerueceria,0,旧城区(Ciutat Vella),6.9,7.0,6.9
+其他西餐,My Way,My Way,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Cafe 1907 Restaurante,Cafe 1907 Restaurante,0,Sarrià-Sant Gervasi,7.6,7.2,7.2
+其他西餐,Koska Taverna,Koska Taverna,0,圣马蒂(Sant Martí),7.2,7.6,7.2
+其他西餐,Lactuca,Lactuca,0,旧城区(Ciutat Vella),6.8,6.8,6.8
+其他西餐,18 Octobre,18 Octobre,0,圣马蒂(Sant Martí),7.0,7.1,7.0
+其他西餐,Andu,Andu,0,圣安德鲁(Sant Andreu),7.2,7.2,7.2
+其他西餐,El Convent,El Convent,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,La Roda,La Roda,0,圣马蒂(Sant Martí),0.0,0.0,0.0
+其他西餐,Port Vell,Port Vell,0,,7.2,7.2,7.2
+其他西餐,Cheriff,Cheriff,0,,7.2,7.2,6.8
+其他西餐,Blanc Restaurant and Lounge,Blanc Restaurant and Lounge,0,,7.1,7.1,7.1
+其他西餐,Cerveceria Pepe,Cerveceria Pepe,0,扩展区(Eixample),6.9,7.0,7.0
+其他西餐,Tapas Gaudi,Tapas Gaudi,0,扩展区(Eixample),6.8,6.8,6.8
+其他西餐,Rekons,Rekons,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Banitsa Pasteleria,Banitsa Pasteleria,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,WOW Cafe & Bar,WOW Cafe & Bar,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Restaurante Ponsa,Restaurante Ponsa,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,Bellvedere,Bellvedere,0,扩展区(Eixample),7.0,7.0,7.0
+其他西餐,Velodromo Bar,Velodromo Bar,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,El Boliche del Gordo Cabrera,El Boliche del Gordo Cabrera,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Maria Cristina,Maria Cristina,0,扩展区(Eixample),7.0,6.7,6.9
+其他西餐,Cor Caliu,Cor Caliu,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Romero Restaurante,Romero Restaurante,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,El Colectivo,El Colectivo,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,La Botifarreria,La Botifarreria,0,旧城区(Ciutat Vella),7.1,6.8,6.8
+其他西餐,Resolis,Resolis,0,旧城区(Ciutat Vella),7.7,7.2,7.2
+其他西餐,Teresa Carles,Teresa Carles,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Casa Marina,Casa Marina,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Kata Restaurant,Kata Restaurant,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Marcelino,Marcelino,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+其他西餐,El Bon Menjar,El Bon Menjar,0,扩展区(Eixample),7.0,7.0,7.0
+其他西餐,Casa Mariol Wine Bar,Casa Mariol Wine Bar,0,扩展区(Eixample),7.0,7.0,7.0
+其他西餐,Restaurante Asador de Ariza,Restaurante Asador de Ariza,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+其他西餐,El Jardi de L,El Jardi de L,0,奥尔塔-吉纳德(Horta-Guinardó),7.2,7.2,7.2
+其他西餐,El Miardor del Carmelo I,El Miardor del Carmelo I,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.1,7.0
+其他西餐,Els Pollos de Llull,Els Pollos de Llull,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,La Burguesa,La Burguesa,0,,7.2,7.2,7.2
+其他西餐,Bistro Triple Sec,Bistro Triple Sec,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,7.0
+其他西餐,Baserri Taberna,Baserri Taberna,0,旧城区(Ciutat Vella),7.0,6.9,6.9
+其他西餐,Snack 55,Snack 55,0,扩展区(Eixample),6.8,6.8,6.8
+其他西餐,Can Ramonet,Can Ramonet,0,,7.2,6.8,7.2
+其他西餐,"Gabriel Restaurant, Tapes & Cafe","Gabriel Restaurant, Tapes & Cafe",0,旧城区(Ciutat Vella),6.8,6.8,7.2
+其他西餐,La Lola de las Arenas,La Lola de las Arenas,0,扩展区(Eixample),6.8,6.8,7.2
+其他西餐,Restaurante Sukaldary,Restaurante Sukaldary,0,Sarrià-Sant Gervasi,6.7,6.9,6.7
+其他西餐,Adlivitum,Adlivitum,0,扩展区(Eixample),6.9,6.9,6.9
+其他西餐,Bella Tapa,Bella Tapa,0,旧城区(Ciutat Vella),6.3,6.8,6.3
+其他西餐,Baribau,Baribau,0,扩展区(Eixample),7.7,7.7,7.2
+其他西餐,Salterio,Salterio,0,旧城区(Ciutat Vella),7.2,7.2,7.7
+其他西餐,Jules Verne,Jules Verne,0,旧城区(Ciutat Vella),6.3,6.3,6.3
+其他西餐,Restaurant Gat Blau,Restaurant Gat Blau,0,扩展区(Eixample),7.6,7.2,7.2
+其他西餐,Gipsy Lou,Gipsy Lou,0,旧城区(Ciutat Vella),7.2,7.6,7.6
+其他西餐,Zim,Zim,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+其他西餐,La Chirusa,La Chirusa,0,扩展区(Eixample),7.1,7.3,7.3
+其他西餐,Tándem BCN,Tándem BCN,0,扩展区(Eixample),7.3,7.3,7.1
+其他西餐,La Particcela,La Particcela,0,扩展区(Eixample),7.1,7.1,7.1
+其他西餐,La Gilda,La Gilda,0,扩展区(Eixample),7.3,7.3,7.3
+其他西餐,Restaurante Mi Rincon,Restaurante Mi Rincon,0,扩展区(Eixample),7.1,7.3,7.1
+其他西餐,La Tasca del Corral,La Tasca del Corral,0,旧城区(Ciutat Vella),7.1,7.1,7.3
+其他西餐,Palosanto Tapas Bar,Palosanto Tapas Bar,0,旧城区(Ciutat Vella),7.3,7.3,7.3
+其他西餐,Due Spaghi,Due Spaghi,0,旧城区(Ciutat Vella),7.3,7.3,7.1
+其他西餐,Restaurante Pirineus 1935,Restaurante Pirineus 1935,0,恩典区(Gràcia),7.3,7.3,7.3
+其他西餐,Buenas Migas,Buenas Migas,0,,7.2,7.2,7.2
+其他西餐,Restaurante Paco Alcalde,Restaurante Paco Alcalde,0,,7.2,7.2,7.2
+其他西餐,Surf House Barcelona,Surf House Barcelona,0,,7.2,7.2,7.2
+其他西餐,Santa Marta,Santa Marta,0,,7.2,7.2,7.2
+其他西餐,Can Sole,Can Sole,0,,7.2,7.2,7.2
+其他西餐,Bitacora,Bitacora,0,,7.2,7.2,7.2
+其他西餐,Rosti Restaurant,Rosti Restaurant,0,,7.2,7.2,7.2
+其他西餐,Cerveceria 100 Montaditos,Cerveceria 100 Montaditos,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,August,August,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Bohemic,Bohemic,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Mediterrani,Mediterrani,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Visual Restaurant Panoramic,Visual Restaurant Panoramic,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Dionisos,Dionisos,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Segons Mercat Tapas,Segons Mercat Tapas,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Iurantia,Iurantia,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Cafe Tomate,Cafe Tomate,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,A Casa Portuguesa,A Casa Portuguesa,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Restaurante PIlar,Restaurante PIlar,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Bench restaurant,Bench restaurant,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,L'Auca Restaurant,L'Auca Restaurant,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,La Ternerita,La Ternerita,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,El Nou de Granados,El Nou de Granados,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Origens,Origens,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,EL Argentino,EL Argentino,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Cata 1.81,Cata 1.81,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,The George Payne,The George Payne,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Oval,Oval,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Gate 15,Gate 15,0,Sarrià-Sant Gervasi,0.0,0.0,0.0
+其他西餐,EL ARGENTINO - Viento Del Plata,EL ARGENTINO - Viento Del Plata,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,The Philharmonic,The Philharmonic,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,George and Dragon Barcelona,George and Dragon Barcelona,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Alba Granados,Alba Granados,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,La Polpa,La Polpa,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Restaurante argentino El Calafate,Restaurante argentino El Calafate,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Restaurante Quixote,Restaurante Quixote,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,YourBurg,YourBurg,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Loria,Loria,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,El Filete Ruso,El Filete Ruso,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Fantastico,Fantastico,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,NoNoNo,NoNoNo,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,El Taronget,El Taronget,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Cafe San Telmo,Cafe San Telmo,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Kilo,Kilo,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Miguelitos,Miguelitos,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Can Ravell,Can Ravell,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Negro Carbon,Negro Carbon,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Creyon Cafe,Creyon Cafe,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Le Comptoir Marseillais - VITALI PIZZA,Le Comptoir Marseillais - VITALI PIZZA,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Bosc de les Fades,Bosc de les Fades,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Margarita Blue,Margarita Blue,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Rabbit Hole - Irish Bar,Rabbit Hole - Irish Bar,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+其他西餐,Flaherty's Irish Pub,Flaherty's Irish Pub,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Tablao Cordobes,Tablao Cordobes,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Guell Tapas,Guell Tapas,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Castanya,La Castanya,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Crema Canela,La Crema Canela,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Rita Blue,Rita Blue,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Shalom,Shalom,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Bar del Pi,Bar del Pi,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,L'Antic Forn,L'Antic Forn,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Bagauda,Bagauda,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurante Menage A Trois,Restaurante Menage A Trois,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Julivert Meu,Julivert Meu,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Lluna Restaurant,La Lluna Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Belushi's,Belushi's,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Cerveceria 100 Montaditos,Cerveceria 100 Montaditos,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Cerveceria 100 Montaditos,Cerveceria 100 Montaditos,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Obama's,Obama's,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Safra 18,Safra 18,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Afrodita Restaurant,Afrodita Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Agut,Agut,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Vitae Restaurant,Vitae Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Cerveteca,La Cerveteca,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurant Braseria Cátedra,Restaurant Braseria Cátedra,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Bliss,Bliss,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurante Xaloc,Restaurante Xaloc,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Sagardi BCN Gotic,Sagardi BCN Gotic,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Dunnes Irish Bar Barcelona,Dunnes Irish Bar Barcelona,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Gavinet,Gavinet,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La llavor dels origens,La llavor dels origens,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Set de Born,Set de Born,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Euskal Etxea,Euskal Etxea,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Bosco Food & Drinks,Bosco Food & Drinks,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Little Italy,Little Italy,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurante Pirineos,Restaurante Pirineos,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Patxoca,Patxoca,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,la bascula,la bascula,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Mercat Princesa,Mercat Princesa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,TAPADU,TAPADU,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Set de Gotic,Set de Gotic,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Loft Del Born,Loft Del Born,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Saboc,Saboc,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Alsur Cafe (El Born),Alsur Cafe (El Born),0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Arabia,Arabia,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Reunion Cafe Restaurant,Reunion Cafe Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Meson David,Meson David,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Pizzas l'Avia Restaurant,Pizzas l'Avia Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Biblioteca Gourmande Restaurant,La Biblioteca Gourmande Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Veronica,La Veronica,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,O'Toxo Tres Hermanos,O'Toxo Tres Hermanos,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Fidel Bar,Fidel Bar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Silenus,Silenus,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Carmelitas,Carmelitas,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Mamacafe,Mamacafe,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Restaurant Ca L'Estevet,Restaurant Ca L'Estevet,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,El Club Hamburguesa,El Club Hamburguesa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Mucci's,Mucci's,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Xaica Restaurant,Xaica Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,La Ginesta,La Ginesta,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+其他西餐,Cafe Mandacaru,Cafe Mandacaru,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,El Sortidor,El Sortidor,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,Luki,Luki,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,Restaurant Abrevadero,Restaurant Abrevadero,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,El Duende De Poble Sec,El Duende De Poble Sec,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,Santa Burg,Santa Burg,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+其他西餐,L'Oliana,L'Oliana,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,Dos Torres,Dos Torres,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,Guana,Guana,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,Restaurante Silvestre,Restaurante Silvestre,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,Freixa Tradicio,Freixa Tradicio,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,St.remy,St.remy,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,Cheri,Cheri,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,La Balsa,La Balsa,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+其他西餐,ELS TRES PORQUETS,ELS TRES PORQUETS,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Can Xurrades,Can Xurrades,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Buenas Migas,Buenas Migas,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,La Caleta de Gracia,La Caleta de Gracia,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Ugarit,Ugarit,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,SMS Delicies,SMS Delicies,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Restaurante El Rebost de la Plana,Restaurante El Rebost de la Plana,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Orxateria Asturies,Orxateria Asturies,0,恩典区(Gràcia),0.0,0.0,0.0
+其他西餐,La Llavor del Origens,La Llavor del Origens,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Taverna El Glop,Taverna El Glop,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,Lalola,Lalola,0,恩典区(Gràcia),7.2,7.2,7.2
+其他西餐,La Tertulia,La Tertulia,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+其他西餐,Mosaic,Mosaic,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+其他西餐,Vinitus Barcelona,Vinitus Barcelona,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+其他西餐,The Michael Collins Irish Bar,The Michael Collins Irish Bar,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Restaurante La Cupula,Restaurante La Cupula,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Firo tast,Firo tast,0,扩展区(Eixample),7.2,7.2,7.2
+其他西餐,Buenas Migas - Focacceria,Buenas Migas - Focacceria,0,奥尔塔-吉纳德(Horta-Guinardó),7.2,7.2,7.2
+其他西餐,La Bota del Raco,La Bota del Raco,0,奥尔塔-吉纳德(Horta-Guinardó),7.2,7.2,7.2
+其他西餐,Tapas Locas,Tapas Locas,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+其他西餐,Cullera de Boix Boqueria,Cullera de Boix Boqueria,0,,7.2,7.2,7.2
+其他西餐,La Llesca,La Llesca,0,圣安德鲁(Sant Andreu),7.2,7.2,7.2
+中餐,双胜园饭店Tai Wan Restaurant,双胜园饭店Tai Wan Restaurant,95,扩展区(Eixample),8.2,7.5,7.9
+中餐,松鹤楼,松鹤楼,0,扩展区(Eixample),8.6,8.5,8.7
+中餐,四川火锅,四川火锅,0,扩展区(Eixample),6.2,6.5,6.0
+中餐,食号私房菜,食号私房菜,0,旧城区(Ciutat Vella),8.5,8.8,8.8
+中餐,He Cheng,He Cheng,0,圣马蒂(Sant Martí),7.7,6.9,7.0
+中餐,Out of China,Out of China,0,扩展区(Eixample),8.0,8.0,8.0
+中餐,朝阳,朝阳,0,恩典区(Gràcia),7.3,6.3,7.3
+中餐,上海1930,上海1930,0,扩展区(Eixample),0.0,0.0,0.0
+中餐,Son Hao,Son Hao,0,扩展区(Eixample),7.5,8.1,8.1
+中餐,杰ResTaurAnte,杰ResTaurAnte,0,扩展区(Eixample),7.1,7.1,7.1
+中餐,海城,海城,0,扩展区(Eixample),7.0,6.9,6.9
+中餐,Chun Yue,Chun Yue,0,圣马蒂(Sant Martí),7.4,7.4,7.5
+中餐,YingBin Bar-Restaurante,YingBin Bar-Restaurante,0,扩展区(Eixample),7.4,7.4,8.1
+中餐,Dimsum Wok,Dimsum Wok,0,扩展区(Eixample),7.0,7.2,7.5
+中餐,寶安酒樓 Bo-on,寶安酒樓 Bo-on,0,扩展区(Eixample),7.2,7.2,7.2
+中餐,Caelum,Caelum,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+中餐,Restaurante Chino Internacional,Restaurante Chino Internacional,0,旧城区(Ciutat Vella),5.5,5.5,5.5
+中餐,Da Yin He,Da Yin He,0,旧城区(Ciutat Vella),6.7,5.5,5.2
+中餐,溪口美食村,溪口美食村,0,恩典区(Gràcia),7.7,7.7,7.7
+中餐,Rio Azul,Rio Azul,0,扩展区(Eixample),7.1,7.1,7.1
+中餐,陈纪,陈纪,0,扩展区(Eixample),7.2,6.8,6.8
+中餐,L'Olla de Si Chuan,L'Olla de Si Chuan,0,扩展区(Eixample),7.2,7.2,7.2
+中餐,Restaurante Atlantida,Restaurante Atlantida,0,扩展区(Eixample),6.9,6.9,6.9
+中餐,Oriente City,Oriente City,0,扩展区(Eixample),7.1,7.0,7.0
+中餐,Hai Tian,Hai Tian,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+中餐,Chocolat-box,Chocolat-box,0,扩展区(Eixample),6.9,6.9,6.9
+中餐,四川,四川,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+中餐,Restaurante Wei Chang Pon,Restaurante Wei Chang Pon,0,奥尔塔-吉纳德(Horta-Guinardó),7.0,7.0,7.0
+中餐,Restaurant International 08002 Barcelona,Restaurant International 08002 Barcelona,0,圣安德鲁(Sant Andreu),6.7,6.7,6.7
+中餐,Restaurante Chino Gracia,Restaurante Chino Gracia,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,6.9,7.0
+中餐,Restaurante Rosi Hu,Restaurante Rosi Hu,0,扩展区(Eixample),6.9,6.7,6.7
+中餐,Restaurante Lee,Restaurante Lee,0,恩典区(Gràcia),6.9,6.9,6.9
+中餐,Hitomi,Hitomi,0,扩展区(Eixample),7.0,7.0,7.1
+中餐,Confucio,Confucio,0,扩展区(Eixample),6.9,6.9,6.9
+中餐,Jiang Zhe,Jiang Zhe,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+中餐,"Fu Lin, Chinese Restaurant","Fu Lin, Chinese Restaurant",0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+中餐,Restaurante Chino Oriente Europa,Restaurante Chino Oriente Europa,0,扩展区(Eixample),6.9,7.0,7.0
+中餐,Restaurante Xines Castell,Restaurante Xines Castell,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+中餐,Restaurante Aleluya,Restaurante Aleluya,0,旧城区(Ciutat Vella),6.9,6.9,6.7
+中餐,Rio Dragon,Rio Dragon,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.1,7.0
+中餐,Restaurante Chino Hoy,Restaurante Chino Hoy,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+中餐,Yumcha,Yumcha,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+中餐,Restaurante Tibetano Potala,Restaurante Tibetano Potala,0,其他,7.1,7.1,7.1
+中餐,Restaurante Condendo,Restaurante Condendo,0,扩展区(Eixample),6.9,6.9,6.9
+中餐,Tetereria,Tetereria,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+中餐,Caballo de oro,Caballo de oro,0,恩典区(Gràcia),7.0,7.1,7.0
+中餐,Restaurante Chino China Ctiy,Restaurante Chino China Ctiy,0,扩展区(Eixample),6.9,6.9,6.9
+中餐,La Gran Muralla,La Gran Muralla,0,扩展区(Eixample),7.0,7.0,7.0
+中餐,Restaurante Calo Amista,Restaurante Calo Amista,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+中餐,Restaurante Hanabishi,Restaurante Hanabishi,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+中餐,Jardin de Chen,Jardin de Chen,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+中餐,Restaurante Tarandes,Restaurante Tarandes,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+中餐,TouHou,TouHou,0,扩展区(Eixample),7.0,6.9,6.9
+中餐,Restaurante Prosperidad,Restaurante Prosperidad,0,恩典区(Gràcia),6.9,6.9,6.9
+中餐,Orilla del Mar,Orilla del Mar,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+中餐,Restaurante Chin Jua,Restaurante Chin Jua,0,勒科尔茨(Les Corts),7.0,7.0,6.9
+中餐,Gran Gozo,Gran Gozo,0,扩展区(Eixample),7.1,7.1,7.0
+中餐,Dim Sum Restaurant,Dim Sum Restaurant,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+中餐,La Paz,La Paz,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+中餐,Caj Chai,Caj Chai,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+中餐,Restaurante Aguila,Restaurante Aguila,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+中餐,Wok La Vila,Wok La Vila,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+中餐,Zen Sushi creativo,Zen Sushi creativo,0,扩展区(Eixample),6.8,6.8,6.8
+中餐,wow!boba :: Bubble Tea World,wow!boba :: Bubble Tea World,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+中餐,Restaurante Confucio,Restaurante Confucio,0,旧城区(Ciutat Vella),7.1,7.1,6.9
+中餐,Xines Orient,Xines Orient,0,旧城区(Ciutat Vella),6.7,6.7,6.7
+中餐,Restaurante El Oso Panda,Restaurante El Oso Panda,0,恩典区(Gràcia),6.9,7.0,6.9
+中餐,Can Melo Restaurante,Can Melo Restaurante,0,扩展区(Eixample),7.1,7.0,7.0
+中餐,Restaurante Ming,Restaurante Ming,0,圣马蒂(Sant Martí),6.7,6.9,7.0
+中餐,Restaurante Tien -tsing,Restaurante Tien -tsing,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+中餐,潮州佬饭店,潮州佬饭店,0,扩展区(Eixample),0.0,0.0,0.0
+中餐,和平饭店,和平饭店,0,扩展区(Eixample),0.0,0.0,0.0
+中餐,徐记面馆,徐记面馆,0,,0.0,0.0,0.0
+中餐,和平饭店 Rest.Chino La Paz,和平饭店 Rest.Chino La Paz,0,扩展区(Eixample),0.0,0.0,0.0
+日韩料理,Shunka,Shunka,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+日韩料理,Tokyo-Sushi,Tokyo-Sushi,0,旧城区(Ciutat Vella),8.1,8.1,8.1
+日韩料理,Cuines Santa Caterina,Cuines Santa Caterina,0,旧城区(Ciutat Vella),7.5,7.5,7.5
+日韩料理,Sakura,Sakura,0,,7.6,7.6,7.6
+日韩料理,Ikibana Paralelo,Ikibana Paralelo,0,扩展区(Eixample),8.0,8.0,8.0
+日韩料理,Wok Street Diagonal Mar,Wok Street Diagonal Mar,0,圣马蒂(Sant Martí),7.5,7.5,7.5
+日韩料理,Restaurante Japonés Mikasa,Restaurante Japonés Mikasa,0,扩展区(Eixample),7.5,7.5,8.1
+日韩料理,Udon Arenas,Udon Arenas,0,扩展区(Eixample),7.0,7.0,7.0
+日韩料理,Kaitensushi He,Kaitensushi He,0,扩展区(Eixample),6.5,6.7,6.7
+日韩料理,Umo,Umo,0,圣-蒙特惠奇(Sants-Montjuïc),6.8,6.8,6.8
+日韩料理,Wok Street Sagrada Familia,Wok Street Sagrada Familia,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Bomi,Bomi,0,扩展区(Eixample),7.1,7.0,7.0
+日韩料理,Yashima,Yashima,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+日韩料理,Shibui,Shibui,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Red Ant Noodle Bar,Red Ant Noodle Bar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,Feeling restaurant,Feeling restaurant,0,扩展区(Eixample),7.1,7.1,7.1
+日韩料理,Ramen Can,Ramen Can,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+日韩料理,Ramen-ya Hiro,Ramen-ya Hiro,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,restaurant japones AI YA,restaurant japones AI YA,0,扩展区(Eixample),7.0,7.0,7.0
+日韩料理,Topik,Topik,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Nanaya,Nanaya,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+日韩料理,Ikibana Restaurant and Lounge,Ikibana Restaurant and Lounge,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,Yoshino,Yoshino,0,扩展区(Eixample),7.2,6.8,6.8
+日韩料理,Restaurante Japones Tempura-ya,Restaurante Japones Tempura-ya,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Bun Sichi,Bun Sichi,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Yamadori,Yamadori,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Machiroku,Machiroku,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,La Cereria,La Cereria,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+日韩料理,Restaurante Sushi-ya,Restaurante Sushi-ya,0,诺巴里斯(Nou Barris),7.2,7.2,7.2
+日韩料理,Icho,Icho,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+日韩料理,ON SUSHI Restaurant,ON SUSHI Restaurant,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Dos Palillos,Dos Palillos,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,Nomo,Nomo,0,恩典区(Gràcia),7.2,7.2,7.2
+日韩料理,Restaurante Japones Ta Mi,Restaurante Japones Ta Mi,0,扩展区(Eixample),7.1,7.1,7.1
+日韩料理,"Mishima Sushi Bar, Barcelona","Mishima Sushi Bar, Barcelona",0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.1,7.1
+日韩料理,Futami,Futami,0,扩展区(Eixample),7.1,7.1,7.1
+日韩料理,Kibuka,Kibuka,0,恩典区(Gràcia),7.2,7.2,7.2
+日韩料理,Wok Oyisi,Wok Oyisi,0,扩展区(Eixample),7.0,7.0,6.9
+日韩料理,Nakayoshi,Nakayoshi,0,扩展区(Eixample),7.0,7.0,7.0
+日韩料理,Vila Verd,Vila Verd,0,扩展区(Eixample),6.9,6.9,6.9
+日韩料理,Tian fu,Tian fu,0,扩展区(Eixample),7.0,7.0,6.9
+日韩料理,Ukai,Ukai,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+日韩料理,Kirin,Kirin,0,旧城区(Ciutat Vella),6.4,6.4,6.4
+日韩料理,Restaurante Tokio-Susmi,Restaurante Tokio-Susmi,0,旧城区(Ciutat Vella),6.9,6.9,7.0
+日韩料理,Udon Born,Udon Born,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,Restaurante Japones Ogura,Restaurante Japones Ogura,0,其他,7.0,7.0,7.0
+日韩料理,Yu ja,Yu ja,0,扩展区(Eixample),7.1,7.1,7.1
+日韩料理,El Wok Verdi,El Wok Verdi,0,恩典区(Gràcia),7.1,7.0,7.1
+日韩料理,UDON Glories,UDON Glories,0,圣马蒂(Sant Martí),7.0,6.9,7.0
+日韩料理,Minamo,Minamo,0,扩展区(Eixample),7.2,7.7,7.2
+日韩料理,Una mica de Japo,Una mica de Japo,0,扩展区(Eixample),7.1,7.1,7.1
+日韩料理,Tokioto,Tokioto,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+日韩料理,Han In,Han In,0,扩展区(Eixample),7.1,7.3,7.1
+日韩料理,Sunset lounge bar,Sunset lounge bar,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+日韩料理,Sakuraya,Sakuraya,0,,7.0,7.0,7.0
+日韩料理,Soban,Soban,0,扩展区(Eixample),7.1,7.1,7.0
+日韩料理,Nagoya-Jyo,Nagoya-Jyo,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+日韩料理,UDON Diagonal Mar,UDON Diagonal Mar,0,圣马蒂(Sant Martí),7.0,7.0,6.9
+日韩料理,Koy Shunka,Koy Shunka,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,Besushi,Besushi,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+日韩料理,Nakashita,Nakashita,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,Akashi Gallery,Akashi Gallery,0,扩展区(Eixample),7.7,7.7,7.7
+日韩料理,Why Restaurant and Sushi Bar,Why Restaurant and Sushi Bar,0,扩展区(Eixample),7.1,7.3,7.3
+日韩料理,Shingari,Shingari,0,扩展区(Eixample),7.0,6.9,6.9
+日韩料理,El Japones del Tragaluz,El Japones del Tragaluz,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Kaede,Kaede,0,Sarrià-Sant Gervasi,7.1,7.3,7.1
+日韩料理,El Japones,El Japones,0,旧城区(Ciutat Vella),7.1,6.8,7.1
+日韩料理,Kibuka,Kibuka,0,恩典区(Gràcia),7.2,7.2,6.8
+日韩料理,San Kil,San Kil,0,恩典区(Gràcia),7.1,7.1,7.1
+日韩料理,Nagano,Nagano,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Big Fish,Big Fish,0,Sarrià-Sant Gervasi,7.1,6.8,6.8
+日韩料理,Restaurante Luri,Restaurante Luri,0,Sarrià-Sant Gervasi,7.1,7.0,7.0
+日韩料理,Restaurante Japones Yutaka II,Restaurante Japones Yutaka II,0,扩展区(Eixample),6.9,6.9,6.9
+日韩料理,Usagui,Usagui,0,Sarrià-Sant Gervasi,7.1,7.1,7.3
+日韩料理,Kin Sushi Bar,Kin Sushi Bar,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Restaurante IKI BARCELONA,Restaurante IKI BARCELONA,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Kynoto Sushi Bar,Kynoto Sushi Bar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,Mercat Princesa,Mercat Princesa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,Kuo,Kuo,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+日韩料理,Negro-rojo,Negro-rojo,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+日韩料理,El Cercle,El Cercle,0,其他,7.1,7.1,7.1
+日韩料理,Sushibo,Sushibo,0,扩展区(Eixample),7.1,7.1,7.1
+日韩料理,Best of Japan Restaurant,Best of Japan Restaurant,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+日韩料理,Yamane,Yamane,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+日韩料理,Daruma,Daruma,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+日韩料理,Sushi Nomi,Sushi Nomi,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+日韩料理,Nomo Market,Nomo Market,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+日韩料理,Taverna Miu,Taverna Miu,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+日韩料理,Sushi & Tapes,Sushi & Tapes,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+日韩料理,Momi & Toy's,Momi & Toy's,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+日韩料理,BCN Sushi Bar (CC Diagonal Mar),BCN Sushi Bar (CC Diagonal Mar),0,圣马蒂(Sant Martí),7.1,7.1,6.8
+日韩料理,Sushifresh,Sushifresh,0,恩典区(Gràcia),7.1,7.1,7.1
+日韩料理,K'wai-K'wai,K'wai-K'wai,0,圣安德鲁(Sant Andreu),7.1,7.1,7.1
+日韩料理,Chikuyotei,Chikuyotei,0,扩展区(Eixample),7.0,7.0,7.0
+日韩料理,Nagomi,Nagomi,0,扩展区(Eixample),7.0,6.9,7.0
+日韩料理,Simpu,Simpu,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+日韩料理,Sushi YA 2,Sushi YA 2,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+日韩料理,Sushiexpress Mercat Galvany,Sushiexpress Mercat Galvany,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+日韩料理,Yoshinoya-8,Yoshinoya-8,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+日韩料理,Restaurante Teppan-Ya,Restaurante Teppan-Ya,0,扩展区(Eixample),7.0,7.0,7.0
+日韩料理,Restaurante Kobe,Restaurante Kobe,0,诺巴里斯(Nou Barris),7.0,7.0,7.0
+日韩料理,Maruya,Maruya,0,其他,7.0,7.0,7.0
+日韩料理,Baritimo,Baritimo,0,,7.1,7.1,7.1
+日韩料理,Market,Market,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Misaki,Misaki,0,扩展区(Eixample),7.1,7.1,7.1
+日韩料理,Midori Sushi,Midori Sushi,0,扩展区(Eixample),7.2,7.2,7.2
+日韩料理,Katafuchi,Katafuchi,0,扩展区(Eixample),7.0,7.1,7.0
+日韩料理,Hanabishi,Hanabishi,0,扩展区(Eixample),7.3,7.1,7.1
+日韩料理,Ginza,Ginza,0,扩展区(Eixample),6.8,7.1,6.8
+日韩料理,Restaurante Kaitensushi,Restaurante Kaitensushi,0,扩展区(Eixample),6.7,6.9,6.9
+日韩料理,Elj Apo Nes,Elj Apo Nes,0,扩展区(Eixample),7.1,7.1,7.1
+日韩料理,Kimochi,Kimochi,0,扩展区(Eixample),6.7,6.7,6.9
+日韩料理,Rio Teppan,Rio Teppan,0,扩展区(Eixample),7.6,7.2,7.2
+日韩料理,Koku Kitchen,Koku Kitchen,0,旧城区(Ciutat Vella),7.2,7.7,7.2
+日韩料理,Temaki-ya,Temaki-ya,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,Matsuri,Matsuri,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,ICHIBAN,ICHIBAN,0,旧城区(Ciutat Vella),7.1,6.8,6.8
+日韩料理,Doble Zer00,Doble Zer00,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+日韩料理,The Tatami Room,The Tatami Room,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+日韩料理,Pakta Restaurant,Pakta Restaurant,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.7,7.2
+日韩料理,Yamamoto,Yamamoto,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+日韩料理,Sushi Shop,Sushi Shop,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+日韩料理,Sushi Side,Sushi Side,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+日韩料理,Fuji,Fuji,0,Sarrià-Sant Gervasi,7.0,7.1,7.1
+日韩料理,Nagisa,Nagisa,0,Sarrià-Sant Gervasi,6.9,6.9,7.0
+日韩料理,Wagokoro,Wagokoro,0,Sarrià-Sant Gervasi,7.7,7.7,7.2
+日韩料理,Miso,Miso,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+日韩料理,Restaurante Edo,Restaurante Edo,0,Sarrià-Sant Gervasi,7.1,7.1,6.8
+日韩料理,El Japones @22,El Japones @22,0,圣马蒂(Sant Martí),7.0,6.9,7.0
+日韩料理,Holly Sushi,Holly Sushi,0,圣马蒂(Sant Martí),7.1,7.1,6.8
+日韩料理,Wasabi,Wasabi,0,恩典区(Gràcia),7.2,7.2,7.2
+日韩料理,Toyo Restaurant Japones,Toyo Restaurant Japones,0,恩典区(Gràcia),7.2,6.8,6.8
+日韩料理,Monster Sushi,Monster Sushi,0,恩典区(Gràcia),7.2,7.2,7.2
+日韩料理,Kaguya-Hime,Kaguya-Hime,0,恩典区(Gràcia),7.1,7.1,7.1
+日韩料理,Yen,Yen,0,恩典区(Gràcia),7.1,7.1,7.1
+日韩料理,Wakasa,Wakasa,0,恩典区(Gràcia),7.6,7.2,7.2
+日韩料理,Take-Ya,Take-Ya,0,恩典区(Gràcia),7.0,6.9,7.0
+日韩料理,Kim,Kim,0,恩典区(Gràcia),7.0,6.9,6.7
+日韩料理,La cuina de l'Uribou,La cuina de l'Uribou,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+日韩料理,UDON L'Illa,UDON L'Illa,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+日韩料理,Teppan'yaki,Teppan'yaki,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+日韩料理,oishii sushi,oishii sushi,0,圣安德鲁(Sant Andreu),7.0,7.1,7.1
+日韩料理,Dango Barcelona,Dango Barcelona,0,扩展区(Eixample),0.0,0.0,0.0
+日韩料理,Soba sushi & lounge,Soba sushi & lounge,0,勒科尔茨(Les Corts),0.0,0.0,0.0
+日韩料理,Bwok Comida Natural,Bwok Comida Natural,0,扩展区(Eixample),6.8,6.8,6.8
+日韩料理,Mitsui,Mitsui,0,扩展区(Eixample),6.8,6.8,6.8
+日韩料理,Hanagin,Hanagin,0,扩展区(Eixample),7.1,6.8,6.8
+日韩料理,Sushi Fusion,Sushi Fusion,0,扩展区(Eixample),7.1,6.8,7.1
+日韩料理,Restaurante Kiku Chan,Restaurante Kiku Chan,0,勒科尔茨(Les Corts),6.8,7.2,6.8
+日韩料理,Tou Kichi Rou,Tou Kichi Rou,0,勒科尔茨(Les Corts),6.8,7.1,6.8
+日韩料理,Fu-Getsudou,Fu-Getsudou,0,扩展区(Eixample),6.9,6.9,6.9
+日韩料理,Shi Man to,Shi Man to,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+日韩料理,Sushi Shop,Sushi Shop,0,圣马蒂(Sant Martí),6.7,6.7,6.9
+日韩料理,Arce Restaurante,Arce Restaurante,0,圣马蒂(Sant Martí),6.6,6.6,6.6
+日韩料理,Hello Sushi,Hello Sushi,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+日韩料理,Riba Sushi,Riba Sushi,0,扩展区(Eixample),0.0,0.0,0.0
+更多亚洲菜,Wok Dao,Wok Dao,0,旧城区(Ciutat Vella),7.5,6.8,7.0
+更多亚洲菜,Wok to Walk,Wok to Walk,0,旧城区(Ciutat Vella),7.9,7.2,7.2
+更多亚洲菜,Thai Gardens Barcelona,Thai Gardens Barcelona,0,扩展区(Eixample),7.5,7.5,7.5
+更多亚洲菜,Son Hao,Son Hao,0,扩展区(Eixample),7.5,8.1,8.1
+更多亚洲菜,A la Turca,A la Turca,0,扩展区(Eixample),7.6,7.6,7.6
+更多亚洲菜,Wok Street Diagonal Mar,Wok Street Diagonal Mar,0,圣马蒂(Sant Martí),7.5,7.5,7.5
+更多亚洲菜,"Bun Bo Vietnam, Raval","Bun Bo Vietnam, Raval",0,奥尔塔-吉纳德(Horta-Guinardó),8.1,7.0,7.0
+更多亚洲菜,Udon Arenas,Udon Arenas,0,扩展区(Eixample),7.0,7.0,7.0
+更多亚洲菜,Da Yin He,Da Yin He,0,旧城区(Ciutat Vella),6.7,5.5,5.2
+更多亚洲菜,Wok Street Sagrada Familia,Wok Street Sagrada Familia,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,El rey de Istanbul,El rey de Istanbul,0,扩展区(Eixample),7.1,7.1,7.1
+更多亚洲菜,Wokimarket,Wokimarket,0,,7.2,7.2,7.2
+更多亚洲菜,Bombay Spicy,Bombay Spicy,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Divan,Divan,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多亚洲菜,King Donner,King Donner,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多亚洲菜,Thai Siam,Thai Siam,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多亚洲菜,Dim Sum Wok,Dim Sum Wok,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Thai Gracia,Thai Gracia,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Restaurante Egipte,Restaurante Egipte,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Mayura,Mayura,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Thai Thai,Thai Thai,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Thailandes Thai Restaurant,Thailandes Thai Restaurant,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Dostrece,Dostrece,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,BUN BO VIETNAM,BUN BO VIETNAM,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Zeeshan Kebabish,Zeeshan Kebabish,0,旧城区(Ciutat Vella),7.2,7.2,6.8
+更多亚洲菜,Bangkok Cafe,Bangkok Cafe,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+更多亚洲菜,CLDC,CLDC,0,,7.2,7.2,7.2
+更多亚洲菜,Dos Palillos,Dos Palillos,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Pho Bar Barcelona,Pho Bar Barcelona,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Restaurante Hanin Coreano,Restaurante Hanin Coreano,0,扩展区(Eixample),7.1,7.1,7.1
+更多亚洲菜,Tomoe,Tomoe,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多亚洲菜,UDON Travessera,UDON Travessera,0,扩展区(Eixample),7.1,7.1,7.1
+更多亚洲菜,Ebano Lounge,Ebano Lounge,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多亚洲菜,Indochine Ly Leap,Indochine Ly Leap,0,扩展区(Eixample),7.1,7.1,7.1
+更多亚洲菜,Restaurant P12 CAt,Restaurant P12 CAt,0,扩展区(Eixample),6.9,6.9,6.9
+更多亚洲菜,Asian Curry Lounge,Asian Curry Lounge,0,圣马蒂(Sant Martí),7.0,7.0,6.9
+更多亚洲菜,Restaurant Xines Gracia,Restaurant Xines Gracia,0,旧城区(Ciutat Vella),7.0,7.0,6.9
+更多亚洲菜,Jasmine Thai Restaurant,Jasmine Thai Restaurant,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+更多亚洲菜,Asian Restaurant,Asian Restaurant,0,恩典区(Gràcia),7.1,7.1,7.0
+更多亚洲菜,Bunga Raya,Bunga Raya,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多亚洲菜,Tandoori Nights,Tandoori Nights,0,旧城区(Ciutat Vella),6.9,7.0,7.0
+更多亚洲菜,Hitit,Hitit,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多亚洲菜,Wok Show,Wok Show,0,扩展区(Eixample),7.1,7.1,7.1
+更多亚洲菜,Restaurant Tai Feng,Restaurant Tai Feng,0,扩展区(Eixample),6.9,7.0,6.9
+更多亚洲菜,Udon Born,Udon Born,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Restaurante Namaste,Restaurante Namaste,0,扩展区(Eixample),7.2,7.2,6.8
+更多亚洲菜,Petit Bangkok,Petit Bangkok,0,恩典区(Gràcia),7.2,7.2,7.2
+更多亚洲菜,UDON Glories,UDON Glories,0,圣马蒂(Sant Martí),7.0,6.9,7.0
+更多亚洲菜,Restaurante Tai,Restaurante Tai,0,扩展区(Eixample),7.1,7.1,7.0
+更多亚洲菜,Swagatam Bar-Restaurant Hindu,Swagatam Bar-Restaurant Hindu,0,恩典区(Gràcia),7.2,7.7,7.2
+更多亚洲菜,Capitol de Vietnam,Capitol de Vietnam,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Jerusalem Restaurante - Shisha Bar,Jerusalem Restaurante - Shisha Bar,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多亚洲菜,Indochine,Indochine,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多亚洲菜,UDON Diagonal Mar,UDON Diagonal Mar,0,圣马蒂(Sant Martí),7.0,7.0,6.9
+更多亚洲菜,Restaurant Keko,Restaurant Keko,0,扩展区(Eixample),7.0,7.0,7.0
+更多亚洲菜,Sitar Restaurant,Sitar Restaurant,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+更多亚洲菜,Fig Tree,Fig Tree,0,其他,7.0,7.0,7.0
+更多亚洲菜,Akashi Gallery,Akashi Gallery,0,扩展区(Eixample),7.7,7.7,7.7
+更多亚洲菜,Capet,Capet,0,其他,7.0,7.1,7.0
+更多亚洲菜,Restaurant Hola Nepal,Restaurant Hola Nepal,0,扩展区(Eixample),7.3,7.1,7.1
+更多亚洲菜,elPassatge del Murmuri,elPassatge del Murmuri,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Restaurante Seoul,Restaurante Seoul,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Lizzarran,Lizzarran,0,圣-蒙特惠奇(Sants-Montjuïc),6.7,6.9,6.9
+更多亚洲菜,Bar Nanit,Bar Nanit,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Restaurante Govinda,Restaurante Govinda,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,El Rosal,El Rosal,0,旧城区(Ciutat Vella),6.7,6.7,6.9
+更多亚洲菜,MOTI MAHAL,MOTI MAHAL,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Tandoor,Tandoor,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,KHANA,KHANA,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,BEMBI,BEMBI,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Rangoli,Rangoli,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Shalom,Shalom,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Arabia,Arabia,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,La Vietnamita Born,La Vietnamita Born,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Maharaja,Maharaja,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Nice Spice,Nice Spice,0,圣马蒂(Sant Martí),7.2,7.2,6.8
+更多亚洲菜,La Vietnamita,La Vietnamita,0,恩典区(Gràcia),7.2,7.2,7.2
+更多亚洲菜,Restaurant Indian Shanti,Restaurant Indian Shanti,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+更多亚洲菜,MAGNOLIA,MAGNOLIA,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+更多亚洲菜,sukur,sukur,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+更多亚洲菜,Mar Brava,Mar Brava,0,,7.1,7.1,6.7
+更多亚洲菜,Sultan Sofrasi,Sultan Sofrasi,0,扩展区(Eixample),7.1,7.0,7.0
+更多亚洲菜,Surya Barcelona,Surya Barcelona,0,扩展区(Eixample),7.1,7.1,7.1
+更多亚洲菜,Himalaya,Himalaya,0,扩展区(Eixample),7.1,7.1,7.1
+更多亚洲菜,Bar Restaurante YAFFA,Bar Restaurante YAFFA,0,扩展区(Eixample),6.9,6.9,6.9
+更多亚洲菜,Cafe Yafa,Cafe Yafa,0,扩展区(Eixample),6.9,6.9,6.9
+更多亚洲菜,Adil Tandoori Restaurant Bar,Adil Tandoori Restaurant Bar,0,旧城区(Ciutat Vella),7.0,7.1,7.1
+更多亚洲菜,Narin,Narin,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多亚洲菜,Abou-khalil,Abou-khalil,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多亚洲菜,Pure Cuisine,Pure Cuisine,0,圣马蒂(Sant Martí),7.1,7.1,6.8
+更多亚洲菜,Taj Indian Tandoori,Taj Indian Tandoori,0,恩典区(Gràcia),6.9,6.9,6.9
+更多亚洲菜,Lokanta,Lokanta,0,恩典区(Gràcia),7.1,7.1,7.1
+更多亚洲菜,Gado gado,Gado gado,0,恩典区(Gràcia),7.1,7.1,7.1
+更多亚洲菜,Restaurante Ta-Tung,Restaurante Ta-Tung,0,恩典区(Gràcia),7.1,7.1,7.1
+更多亚洲菜,Ugarit Villa Olimpica,Ugarit Villa Olimpica,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多亚洲菜,La Caravana,La Caravana,0,其他,7.1,7.1,6.9
+更多亚洲菜,Ristorante Cinese Dong Lin,Ristorante Cinese Dong Lin,0,扩展区(Eixample),7.0,7.0,7.0
+更多亚洲菜,Mount Everest,Mount Everest,0,扩展区(Eixample),6.9,7.1,6.9
+更多亚洲菜,Sano Juice,Sano Juice,0,扩展区(Eixample),7.0,7.0,7.0
+更多亚洲菜,La Trufa Negra,La Trufa Negra,0,扩展区(Eixample),7.0,7.0,7.0
+更多亚洲菜,Sushi YA 2,Sushi YA 2,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多亚洲菜,Restaurante Sharasad,Restaurante Sharasad,0,扩展区(Eixample),7.0,6.9,6.7
+更多亚洲菜,Natural Kebap,Natural Kebap,0,圣马蒂(Sant Martí),7.1,7.0,7.1
+更多亚洲菜,Asian Amb Gracia,Asian Amb Gracia,0,恩典区(Gràcia),7.0,7.0,7.0
+更多亚洲菜,La Salud,La Salud,0,恩典区(Gràcia),7.0,7.1,7.0
+更多亚洲菜,Shoko Beach Front Restaurant,Shoko Beach Front Restaurant,0,,7.2,7.2,7.2
+更多亚洲菜,A la Turca,A la Turca,0,扩展区(Eixample),6.7,6.7,6.7
+更多亚洲菜,Rafi,Rafi,0,扩展区(Eixample),7.1,7.0,7.0
+更多亚洲菜,Spices of India,Spices of India,0,扩展区(Eixample),7.1,7.0,7.0
+更多亚洲菜,OM India Floridablanca,OM India Floridablanca,0,扩展区(Eixample),7.1,7.1,6.8
+更多亚洲菜,Restaurante Namaste II,Restaurante Namaste II,0,扩展区(Eixample),7.1,7.1,7.1
+更多亚洲菜,El Petit Buda,El Petit Buda,0,扩展区(Eixample),6.9,6.9,6.9
+更多亚洲菜,Dana Damasquina 1,Dana Damasquina 1,0,扩展区(Eixample),7.0,7.1,7.0
+更多亚洲菜,El Pato Loco,El Pato Loco,0,扩展区(Eixample),6.9,7.0,6.9
+更多亚洲菜,UDON Eixample,UDON Eixample,0,扩展区(Eixample),7.1,7.1,7.1
+更多亚洲菜,Restaurante XIX Kebab,Restaurante XIX Kebab,0,扩展区(Eixample),7.3,7.1,7.1
+更多亚洲菜,Sindur,Sindur,0,扩展区(Eixample),7.7,7.2,7.2
+更多亚洲菜,annapurna restaurant,annapurna restaurant,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Rani India,Rani India,0,扩展区(Eixample),7.2,7.2,7.2
+更多亚洲菜,Jaipur Palace,Jaipur Palace,0,扩展区(Eixample),6.8,6.8,6.8
+更多亚洲菜,Restaurante Hindu,Restaurante Hindu,0,扩展区(Eixample),6.9,7.0,6.9
+更多亚洲菜,Pizza Virona,Pizza Virona,0,扩展区(Eixample),7.0,7.0,7.0
+更多亚洲菜,El Cocinero de Damasco,El Cocinero de Damasco,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多亚洲菜,Luna de Istanbul,Luna de Istanbul,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多亚洲菜,Rajah,Rajah,0,旧城区(Ciutat Vella),7.2,7.2,6.8
+更多亚洲菜,Zishan Kebabish,Zishan Kebabish,0,旧城区(Ciutat Vella),7.0,7.1,7.0
+更多亚洲菜,Flor de Maig,Flor de Maig,0,旧城区(Ciutat Vella),7.1,7.1,6.8
+更多亚洲菜,La Taverneta,La Taverneta,0,旧城区(Ciutat Vella),7.2,7.6,7.6
+更多亚洲菜,Buen Bocado,Buen Bocado,0,旧城区(Ciutat Vella),7.1,7.0,6.9
+更多亚洲菜,Bo de B,Bo de B,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,El falafel de Shani,El falafel de Shani,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多亚洲菜,Bombay City,Bombay City,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多亚洲菜,Doble Zer00,Doble Zer00,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Shalimar,Shalimar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Carlota Akaneya,Carlota Akaneya,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多亚洲菜,Pacifico y Sur,Pacifico y Sur,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多亚洲菜,La Fíbula,La Fíbula,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+更多亚洲菜,Indian Sabor,Indian Sabor,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.0,6.9
+更多亚洲菜,BISMAD,BISMAD,0,圣-蒙特惠奇(Sants-Montjuïc),7.6,7.6,7.2
+更多亚洲菜,Ho Chih Mihn,Ho Chih Mihn,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+更多亚洲菜,Wagokoro,Wagokoro,0,Sarrià-Sant Gervasi,7.7,7.7,7.2
+更多亚洲菜,Xe Wu,Xe Wu,0,Sarrià-Sant Gervasi,6.9,7.0,6.9
+更多亚洲菜,Madnoo Foods,Madnoo Foods,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+更多亚洲菜,Holly Sushi,Holly Sushi,0,圣马蒂(Sant Martí),7.1,7.1,6.8
+更多亚洲菜,Kyoka,Kyoka,0,圣马蒂(Sant Martí),7.1,7.1,7.0
+更多亚洲菜,"Jap-thai, barcelona","Jap-thai, barcelona",0,恩典区(Gràcia),7.1,7.1,7.1
+更多亚洲菜,Monster Sushi,Monster Sushi,0,恩典区(Gràcia),7.2,7.2,7.2
+更多亚洲菜,kathmandu,kathmandu,0,恩典区(Gràcia),7.1,7.1,6.8
+更多亚洲菜,"Momos, Tapes amb palillos","Momos, Tapes amb palillos",0,恩典区(Gràcia),7.2,7.2,7.2
+更多亚洲菜,Himali,Himali,0,恩典区(Gràcia),7.1,7.1,6.8
+更多亚洲菜,Luna De Estanbul,Luna De Estanbul,0,恩典区(Gràcia),7.0,6.9,7.0
+更多亚洲菜,Karakala,Karakala,0,恩典区(Gràcia),7.2,7.2,7.2
+更多亚洲菜,Woki Market,Woki Market,0,恩典区(Gràcia),7.2,7.2,7.2
+更多亚洲菜,Veg World India,Veg World India,0,恩典区(Gràcia),7.2,7.2,7.2
+更多亚洲菜,Restaurante Sannin,Restaurante Sannin,0,恩典区(Gràcia),7.3,7.1,7.1
+更多亚洲菜,UDON L'Illa,UDON L'Illa,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+更多亚洲菜,Restaurante Fiore Les Corts Barcelona,Restaurante Fiore Les Corts Barcelona,0,勒科尔茨(Les Corts),6.7,6.9,6.7
+更多亚洲菜,Aladdin Restaurante,Aladdin Restaurante,0,扩展区(Eixample),7.2,6.8,7.2
+更多亚洲菜,Restaurant Me,Restaurant Me,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+更多亚洲菜,Salman Tandoori,Salman Tandoori,0,圣马蒂(Sant Martí),7.2,7.2,6.8
+更多亚洲菜,Udon Maquinista,Udon Maquinista,0,圣安德鲁(Sant Andreu),6.9,7.0,7.0
+更多亚洲菜,Gandhi Restaurante Hindu,Gandhi Restaurante Hindu,0,扩展区(Eixample),7.1,7.1,7.1
+更多亚洲菜,Prive,Prive,0,扩展区(Eixample),7.1,6.8,7.1
+更多亚洲菜,Delicias Kosher,Delicias Kosher,0,旧城区(Ciutat Vella),6.8,7.2,6.8
+更多亚洲菜,Restaurante Bollywood,Restaurante Bollywood,0,旧城区(Ciutat Vella),6.8,6.8,6.8
+更多亚洲菜,Mesopotamia,Mesopotamia,0,恩典区(Gràcia),7.1,7.1,7.1
+快餐简餐,食号私房菜,食号私房菜,0,旧城区(Ciutat Vella),8.5,8.8,8.8
+快餐简餐,La Txapela,La Txapela,0,,7.9,7.9,7.6
+快餐简餐,Restaurant Wok Gu Barcelona,Restaurant Wok Gu Barcelona,0,圣-蒙特惠奇(Sants-Montjuïc),7.5,7.2,7.5
+快餐简餐,Volta al Mon,Volta al Mon,0,扩展区(Eixample),7.4,7.6,7.4
+快餐简餐,Luzia,Luzia,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+快餐简餐,Brunch & Cake,Brunch & Cake,0,扩展区(Eixample),7.2,7.3,7.2
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+快餐简餐,Petritxol Cafe,Petritxol Cafe,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Tast-Ller,Tast-Ller,0,旧城区(Ciutat Vella),7.3,7.3,7.3
+快餐简餐,Dostrece,Dostrece,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Mont Bar,Mont Bar,0,扩展区(Eixample),7.2,7.2,7.2
+快餐简餐,Terraza La Isabela,Terraza La Isabela,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Pho Bar Barcelona,Pho Bar Barcelona,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Carlota Restaurant,Carlota Restaurant,0,扩展区(Eixample),7.1,7.3,7.1
+快餐简餐,"La Cueva de 1900, Barcelona","La Cueva de 1900, Barcelona",0,旧城区(Ciutat Vella),7.1,7.1,7.1
+快餐简餐,Colmado de Sol,Colmado de Sol,0,圣马蒂(Sant Martí),7.1,7.1,7.0
+快餐简餐,La Campana,La Campana,0,旧城区(Ciutat Vella),7.0,7.1,7.0
+快餐简餐,99 Moto Bar,99 Moto Bar,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+快餐简餐,Fair Play BCN,Fair Play BCN,0,圣安德鲁(Sant Andreu),7.0,7.0,7.0
+快餐简餐,Dim Sum House,Dim Sum House,0,其他,7.0,7.0,7.0
+快餐简餐,Bel-Luna Jazz Club,Bel-Luna Jazz Club,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+快餐简餐,Big J Burger,Big J Burger,0,扩展区(Eixample),7.2,7.2,7.2
+快餐简餐,Travel & Cake,Travel & Cake,0,扩展区(Eixample),7.5,7.1,7.1
+快餐简餐,La Garriga,La Garriga,0,扩展区(Eixample),7.1,7.1,7.1
+快餐简餐,Foster's Hollywood,Foster's Hollywood,0,扩展区(Eixample),7.2,7.2,7.2
+快餐简餐,Milano Cocktail Bar,Milano Cocktail Bar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Bella Italia,Bella Italia,0,扩展区(Eixample),7.1,7.1,7.1
+快餐简餐,B.B.Q. Ribs,B.B.Q. Ribs,0,圣马蒂(Sant Martí),6.8,6.8,6.8
+快餐简餐,Pepburg,Pepburg,0,勒科尔茨(Les Corts),6.7,6.9,6.7
+快餐简餐,Bistro Triple Sec,Bistro Triple Sec,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,7.0
+快餐简餐,Sweet Dreams,Sweet Dreams,0,旧城区(Ciutat Vella),7.7,7.2,7.2
+快餐简餐,Belushi's,Belushi's,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Gavinet,Gavinet,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Mosquito,Mosquito,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Santa Burg,Santa Burg,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+快餐简餐,ELS TRES PORQUETS,ELS TRES PORQUETS,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+快餐简餐,El Fornet D'en Rossend,El Fornet D'en Rossend,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+快餐简餐,La font de les muses,La font de les muses,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+快餐简餐,Big J's Burger,Big J's Burger,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+快餐简餐,Burger Umami,Burger Umami,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+快餐简餐,Betty's Burgers,Betty's Burgers,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+快餐简餐,The Dog is Hot!,The Dog is Hot!,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+快餐简餐,La Tasqueta de la Sogra,La Tasqueta de la Sogra,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+快餐简餐,Vai Moana,Vai Moana,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+快餐简餐,Mama's Cafe,Mama's Cafe,0,恩典区(Gràcia),7.1,7.1,7.1
+快餐简餐,Avenue Bar,Avenue Bar,0,恩典区(Gràcia),7.0,7.0,7.0
+快餐简餐,Timeline Bar,Timeline Bar,0,恩典区(Gràcia),7.1,7.1,7.1
+快餐简餐,Al Punt,Al Punt,0,恩典区(Gràcia),7.3,7.3,7.1
+快餐简餐,Paprika Gourmet,Paprika Gourmet,0,扩展区(Eixample),7.0,7.1,7.0
+快餐简餐,Starbucks,Starbucks,0,,7.1,7.1,7.1
+快餐简餐,Pastisseria Bareche,Pastisseria Bareche,0,扩展区(Eixample),6.9,6.9,6.9
+快餐简餐,Bread and Circuses Barcelona,Bread and Circuses Barcelona,0,圣安德鲁(Sant Andreu),7.1,7.1,7.1
+快餐简餐,Burger Barcelona,Burger Barcelona,0,,7.1,7.0,7.0
+快餐简餐,Sant Carles 13,Sant Carles 13,0,,7.0,7.0,7.1
+快餐简餐,Foster's Hollywood,Foster's Hollywood,0,旧城区(Ciutat Vella),7.1,7.1,7.0
+快餐简餐,Grizzly 72 Sports Bar,Grizzly 72 Sports Bar,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+快餐简餐,El Vermutet,El Vermutet,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+快餐简餐,The Fastnet Pub,The Fastnet Pub,0,诺巴里斯(Nou Barris),7.0,7.0,7.0
+快餐简餐,itztli cocina mexicana,itztli cocina mexicana,0,,7.0,6.9,6.7
+快餐简餐,Andreu Xarcuteria i Tastets,Andreu Xarcuteria i Tastets,0,,7.1,7.1,7.1
+快餐简餐,Juanita LaLa,Juanita LaLa,0,,7.0,7.0,7.0
+快餐简餐,Cafe Chapultepec,Cafe Chapultepec,0,扩展区(Eixample),7.1,7.1,6.8
+快餐简餐,Pink Elephant Restaurant and Cocktail Bar,Pink Elephant Restaurant and Cocktail Bar,0,扩展区(Eixample),7.2,7.2,7.2
+快餐简餐,Gas Bar,Gas Bar,0,圣安德鲁(Sant Andreu),7.1,7.1,7.1
+快餐简餐,Peggy Sue,Peggy Sue,0,扩展区(Eixample),7.2,7.2,7.2
+快餐简餐,Travel Bar,Travel Bar,0,旧城区(Ciutat Vella),6.8,6.8,7.2
+快餐简餐,|Kulas Burgers||Tapas||Cocktails|,|Kulas Burgers||Tapas||Cocktails|,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+快餐简餐,Nevermind Bar,Nevermind Bar,0,旧城区(Ciutat Vella),6.8,7.1,7.5
+快餐简餐,Milk Bar & Bistro,Milk Bar & Bistro,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,The Benedict Bcn,The Benedict Bcn,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Home Cooking at Magnolia Restaurant,Home Cooking at Magnolia Restaurant,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+快餐简餐,Bootleg Cafe,Bootleg Cafe,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Zona d'Ombra,Zona d'Ombra,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,"Bernie's Diner, Grill & Bar, Barcelona","Bernie's Diner, Grill & Bar, Barcelona",0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Big J's Burger (Via Laietana),Big J's Burger (Via Laietana),0,旧城区(Ciutat Vella),7.1,7.1,7.1
+快餐简餐,Lolita Bakery,Lolita Bakery,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Picnic Restaurant,Picnic Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+快餐简餐,Cerveceria Jazz,Cerveceria Jazz,0,圣-蒙特惠奇(Sants-Montjuïc),7.3,7.3,7.1
+快餐简餐,Restaurant M.i.n.E,Restaurant M.i.n.E,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+快餐简餐,Bang Bang,Bang Bang,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+快餐简餐,Leciel de Sarria,Leciel de Sarria,0,Sarrià-Sant Gervasi,7.0,7.1,7.0
+快餐简餐,O.K. Sarria,O.K. Sarria,0,Sarrià-Sant Gervasi,7.2,6.8,6.8
+快餐简餐,Twins Burger,Twins Burger,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+快餐简餐,Esperit de vi,Esperit de vi,0,圣马蒂(Sant Martí),7.0,6.9,7.0
+快餐简餐,La Perla de Oro,La Perla de Oro,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+快餐简餐,Muns,Muns,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+快餐简餐,Bobby Gin,Bobby Gin,0,恩典区(Gràcia),7.2,7.2,7.2
+快餐简餐,Andreu Xarcuteria i Tastets,Andreu Xarcuteria i Tastets,0,勒科尔茨(Les Corts),7.1,7.0,6.7
+快餐简餐,Mas Xarcuters,Mas Xarcuters,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+快餐简餐,Daniela Bakery,Daniela Bakery,0,圣马蒂(Sant Martí),7.0,7.0,7.1
+快餐简餐,Restaurant Me,Restaurant Me,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+快餐简餐,Telepizza,Telepizza,0,其他,6.6,6.6,6.6
+快餐简餐,Nyam Nyam,Nyam Nyam,0,圣安德鲁(Sant Andreu),6.9,6.9,6.9
+快餐简餐,Ribs,Ribs,0,,6.8,6.8,7.1
+快餐简餐,Tommy Mel's,Tommy Mel's,0,,7.2,7.2,7.2
+快餐简餐,Travel Bar Port,Travel Bar Port,0,旧城区(Ciutat Vella),6.8,6.8,7.2
+快餐简餐,Ribs,Ribs,0,圣马蒂(Sant Martí),6.8,7.1,7.1
+快餐简餐,foster's hollywood,foster's hollywood,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+快餐简餐,Good Sign,Good Sign,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+快餐简餐,Chez Bruno,Chez Bruno,0,扩展区(Eixample),6.6,6.6,6.6
+快餐简餐,WOK VERDI,WOK VERDI,0,扩展区(Eixample),0.0,0.0,0.0
+快餐简餐,徐记面馆,徐记面馆,0,,0.0,0.0,0.0
+快餐简餐,TXIRIMIRI,TXIRIMIRI,0,扩展区(Eixample),0.0,0.0,0.0
+海鲜,Restaurante Ferran,Restaurante Ferran,0,旧城区(Ciutat Vella),8.7,8.9,8.7
+海鲜,Botafumeiro,Botafumeiro,0,恩典区(Gràcia),7.8,8.4,8.0
+海鲜,La Paradeta,La Paradeta,0,旧城区(Ciutat Vella),8.0,7.6,7.6
+海鲜,Restaurante Japones Wok Arc de Triomf,Restaurante Japones Wok Arc de Triomf,0,旧城区(Ciutat Vella),7.6,7.7,7.3
+海鲜,Marina Moncho's,Marina Moncho's,0,,7.9,8.2,8.1
+海鲜,Yutaka,Yutaka,0,扩展区(Eixample),7.4,6.8,8.0
+海鲜,La Barca Del Salamanca,La Barca Del Salamanca,0,圣马蒂(Sant Martí),7.7,7.3,7.3
+海鲜,El Rey de la Gamba 1,El Rey de la Gamba 1,0,,8.1,8.1,7.7
+海鲜,Cal Pep,Cal Pep,0,旧城区(Ciutat Vella),8.0,7.0,8.0
+海鲜,La Fonda del Port Olimpic,La Fonda del Port Olimpic,0,圣马蒂(Sant Martí),7.0,7.1,7.0
+海鲜,Mariscco Reial,Mariscco Reial,0,旧城区(Ciutat Vella),7.8,7.8,7.2
+海鲜,La Paradeta,La Paradeta,0,,8.0,7.5,7.5
+海鲜,Torre d'Alta Mar,Torre d'Alta Mar,0,,7.5,8.0,7.5
+海鲜,El Rey de la Gamba-2,El Rey de la Gamba-2,0,,7.5,7.0,7.2
+海鲜,Mariscco,Mariscco,0,扩展区(Eixample),7.6,7.6,7.4
+海鲜,Can Mano,Can Mano,0,,7.0,7.0,7.0
+海鲜,La Gambeta,La Gambeta,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+海鲜,Torre de Alta Mar,Torre de Alta Mar,0,,7.2,7.2,7.2
+海鲜,Restaurante El Rey de la Gamba Puerto Olimpico,Restaurante El Rey de la Gamba Puerto Olimpico,0,圣马蒂(Sant Martí),0.0,0.0,0.0
+海鲜,Abrassame,Abrassame,0,扩展区(Eixample),7.2,7.2,7.2
+海鲜,Can Majo,Can Majo,0,,7.2,7.2,7.2
+海鲜,Camarote de en Tomas,Camarote de en Tomas,0,圣-蒙特惠奇(Sants-Montjuïc),7.3,7.1,7.1
+海鲜,Moncho's Barcelona,Moncho's Barcelona,0,恩典区(Gràcia),7.2,7.2,7.2
+海鲜,Restaurante Carballeira,Restaurante Carballeira,0,,7.2,7.2,7.2
+海鲜,Rias de Galicia,Rias de Galicia,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+海鲜,Restaurante Santiaguino,Restaurante Santiaguino,0,扩展区(Eixample),7.2,7.2,7.2
+海鲜,Bar Bodega l'Electricitat,Bar Bodega l'Electricitat,0,,7.2,7.2,7.2
+海鲜,O,O,0,扩展区(Eixample),7.1,7.1,7.1
+海鲜,Peixample,Peixample,0,扩展区(Eixample),7.0,7.0,7.0
+海鲜,Tickets,Tickets,0,其他,7.2,7.2,7.2
+海鲜,Xiringuito Escriba,Xiringuito Escriba,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+海鲜,La Paradeta Meridiana,La Paradeta Meridiana,0,圣安德鲁(Sant Andreu),7.1,7.0,7.0
+海鲜,Restaurante Salamanca,Restaurante Salamanca,0,,7.2,7.2,7.2
+海鲜,La FLipper,La FLipper,0,扩展区(Eixample),6.7,6.7,6.7
+海鲜,The Mirror Restaurant,The Mirror Restaurant,0,扩展区(Eixample),7.2,7.2,7.2
+海鲜,La Barca del Pescador,La Barca del Pescador,0,扩展区(Eixample),7.2,7.2,7.2
+海鲜,The Fishop,The Fishop,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+海鲜,Casa Chelis,Casa Chelis,0,扩展区(Eixample),7.2,7.2,7.2
+海鲜,Bar Celta,Bar Celta,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+海鲜,Dias Denorte,Dias Denorte,0,扩展区(Eixample),7.2,7.2,7.2
+海鲜,Pulperia A'Gudina,Pulperia A'Gudina,0,扩展区(Eixample),7.2,7.2,7.2
+海鲜,Fishhh!,Fishhh!,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+海鲜,Suculent,Suculent,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+海鲜,Casa Castro,Casa Castro,0,诺巴里斯(Nou Barris),7.0,7.0,7.0
+海鲜,Tabarca Langosta's Club,Tabarca Langosta's Club,0,扩展区(Eixample),7.0,7.0,7.0
+海鲜,El Tinglado De Moncho's,El Tinglado De Moncho's,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+海鲜,Restaurante Marisqueria Dopazo,Restaurante Marisqueria Dopazo,0,圣安德鲁(Sant Andreu),7.1,7.1,7.1
+海鲜,Fishop paseo de gracia,Fishop paseo de gracia,0,恩典区(Gràcia),7.1,7.0,7.0
+海鲜,La Bara del Salamanca,La Bara del Salamanca,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+海鲜,Norai Raval,Norai Raval,0,旧城区(Ciutat Vella),7.1,7.3,7.3
+海鲜,Restaurante Marenostrum,Restaurante Marenostrum,0,扩展区(Eixample),6.9,6.9,6.9
+海鲜,Restorante el Regulador,Restorante el Regulador,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+海鲜,Oasis,Oasis,0,圣安德鲁(Sant Andreu),7.1,7.0,6.9
+海鲜,Cal Pinxo Platja,Cal Pinxo Platja,0,,7.2,7.2,7.2
+海鲜,Marisk,Marisk,0,Sarrià-Sant Gervasi,7.1,7.1,6.8
+海鲜,Libelina 2,Libelina 2,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+海鲜,Casa Leopoldo,Casa Leopoldo,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+海鲜,Los Pajaritos,Los Pajaritos,0,圣马蒂(Sant Martí),7.1,7.1,6.8
+海鲜,La Lubina,La Lubina,0,扩展区(Eixample),7.2,7.2,7.2
+海鲜,El Chipiron,El Chipiron,0,,6.8,6.8,7.2
+海鲜,Restaurante EDEN,Restaurante EDEN,0,圣-蒙特惠奇(Sants-Montjuïc),6.8,6.8,6.8
+海鲜,Restaurante L'Alianca del Poble Nou,Restaurante L'Alianca del Poble Nou,0,圣马蒂(Sant Martí),6.8,6.8,6.8
+海鲜,Can Ros,Can Ros,0,,7.2,7.2,7.2
+海鲜,Can Ramonet,Can Ramonet,0,,7.2,6.8,7.2
+海鲜,Ria de Vigo,Ria de Vigo,0,,7.2,6.8,7.2
+海鲜,Can Sole,Can Sole,0,,7.2,7.2,7.2
+海鲜,Cafe Tomate,Cafe Tomate,0,扩展区(Eixample),7.2,7.2,7.2
+海鲜,DGust Born,DGust Born,0,旧城区(Ciutat Vella),7.1,6.8,7.1
+海鲜,Sibarit's,Sibarit's,0,圣安德鲁(Sant Andreu),7.0,7.0,7.0
+海鲜,El Xiringo,El Xiringo,0,,7.2,7.2,7.2
+海鲜,La Gavina,La Gavina,0,,7.2,7.2,7.2
+海鲜,Restaurante Siempre Vivas,Restaurante Siempre Vivas,0,,6.9,7.0,7.0
+海鲜,Mares,Mares,0,扩展区(Eixample),6.9,6.9,6.9
+海鲜,Brasseria Gallega,Brasseria Gallega,0,扩展区(Eixample),7.1,7.1,6.8
+海鲜,Cafe Kafka,Cafe Kafka,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+海鲜,Espai Kru,Espai Kru,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+海鲜,Restaurant Koxkera,Restaurant Koxkera,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+海鲜,Montalban - Casa Jose,Montalban - Casa Jose,0,,7.6,7.2,7.2
+海鲜,Can Manel,Can Manel,0,诺巴里斯(Nou Barris),7.2,7.2,7.2
+海鲜,Suquet de L'Almirall,Suquet de L'Almirall,0,诺巴里斯(Nou Barris),7.2,7.2,7.2
+海鲜,HAHA!MARISCO,HAHA!MARISCO,0,诺巴里斯(Nou Barris),7.1,7.0,7.1
+海鲜,Restaurant Emperador,Restaurant Emperador,0,旧城区(Ciutat Vella),7.2,6.8,7.2
+海鲜,Vitaminas del Mar Moncho's,Vitaminas del Mar Moncho's,0,圣-蒙特惠奇(Sants-Montjuïc),6.8,6.8,6.8
+海鲜,Restaurante Boo,Restaurante Boo,0,圣马蒂(Sant Martí),0.0,0.0,0.0
+海鲜,Botafumeiro,Botafumeiro,0,恩典区(Gràcia),0.0,0.0,0.0
+海鲜,Choquito,Choquito,0,扩展区(Eixample),0.0,0.0,0.0
+烧烤,果木烤鸭,果木烤鸭,0,,7.7,7.7,7.7
+烧烤,El Viejo Pop,El Viejo Pop,0,旧城区(Ciutat Vella),8.1,8.1,8.1
+烧烤,Orio Born,Orio Born,0,旧城区(Ciutat Vella),6.2,6.8,6.8
+烧烤,Hard Rock Cafe,Hard Rock Cafe,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+烧烤,Restaurante Balmes/Rossello,Restaurante Balmes/Rossello,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,El Asador De Aranda,El Asador De Aranda,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+烧烤,Can Vador,Can Vador,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,La flor de gracia,La flor de gracia,0,恩典区(Gràcia),7.0,7.0,7.0
+烧烤,Patagonia Beef & Wine,Patagonia Beef & Wine,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,Barcelona rambla brasil,Barcelona rambla brasil,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+烧烤,La Braseria del Portus,La Braseria del Portus,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+烧烤,Bodega Joan,Bodega Joan,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,CALIU,CALIU,0,圣马蒂(Sant Martí),7.0,7.1,7.1
+烧烤,Bar La Pepa,Bar La Pepa,0,扩展区(Eixample),7.1,7.0,7.0
+烧烤,The Coconut Club,The Coconut Club,0,旧城区(Ciutat Vella),7.0,6.9,6.9
+烧烤,Pampero,Pampero,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,Taberna la llesca,Taberna la llesca,0,恩典区(Gràcia),7.0,7.0,7.0
+烧烤,La Taverna,La Taverna,0,扩展区(Eixample),6.9,6.9,6.9
+烧烤,Restaurante El Asador de Burgos,Restaurante El Asador de Burgos,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,Happy Bar & Grill,Happy Bar & Grill,0,旧城区(Ciutat Vella),6.8,7.2,7.2
+烧烤,Las 7 Maravillas,Las 7 Maravillas,0,扩展区(Eixample),7.6,7.6,7.2
+烧烤,Velvet Lounge,Velvet Lounge,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+烧烤,Fragua Grill,Fragua Grill,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+烧烤,Vic Braseria,Vic Braseria,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,336,336,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,Sitar Restaurant,Sitar Restaurant,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+烧烤,El Rodizio,El Rodizio,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,O.M.G BARCELONA,O.M.G BARCELONA,0,圣马蒂(Sant Martí),7.1,7.0,7.0
+烧烤,El Boliche del Gordo Cabrera,El Boliche del Gordo Cabrera,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,Heart Burger,Heart Burger,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+烧烤,Betty's Burgers,Betty's Burgers,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+烧烤,Rincon de Sanabria,Rincon de Sanabria,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+烧烤,La Cueva del tio Jesus,La Cueva del tio Jesus,0,圣安德鲁(Sant Andreu),7.1,7.1,7.1
+烧烤,Cerveceria Conde Dracula,Cerveceria Conde Dracula,0,诺巴里斯(Nou Barris),7.1,7.1,7.1
+烧烤,Braseria ,Braseria ,0,诺巴里斯(Nou Barris),7.1,7.0,7.0
+烧烤,La Terrassa de l'Aiguajoc,La Terrassa de l'Aiguajoc,0,扩展区(Eixample),7.1,7.1,7.0
+烧烤,B Burger,B Burger,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,Burger Rock,Burger Rock,0,扩展区(Eixample),7.1,7.1,7.1
+烧烤,Igueldo,Igueldo,0,扩展区(Eixample),7.2,7.2,7.2
+烧烤,La Republica,La Republica,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+烧烤,Devil's Kitchen,Devil's Kitchen,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+烧烤,Hotspot Lounge,Hotspot Lounge,0,旧城区(Ciutat Vella),6.9,6.9,7.0
+烧烤,Bismillah Raval Kebabish,Bismillah Raval Kebabish,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+烧烤,Carlota Akaneya,Carlota Akaneya,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+烧烤,Restaurant Can Manel,Restaurant Can Manel,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+烧烤,Can Vador Illa Diagonal,Can Vador Illa Diagonal,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+烧烤,Restaurante Peruano Andino,Restaurante Peruano Andino,0,扩展区(Eixample),6.9,6.9,6.9
+烧烤,El Caliu de l'Eixample,El Caliu de l'Eixample,0,扩展区(Eixample),6.8,6.8,6.8
+烧烤,Sidreria san Fermin,Sidreria san Fermin,0,旧城区(Ciutat Vella),6.6,6.6,6.6
+比萨,Pizzeria La Nova Fontana,Pizzeria La Nova Fontana,0,Sarrià-Sant Gervasi,7.6,7.2,7.2
+比萨,Mamma Mia,Mamma Mia,0,圣马蒂(Sant Martí),7.2,7.4,7.2
+比萨,Restaurant Pizzeria L'Amagatall,Restaurant Pizzeria L'Amagatall,0,圣马蒂(Sant Martí),7.3,7.3,7.1
+比萨,Restaurante Balmes/Rossello,Restaurante Balmes/Rossello,0,扩展区(Eixample),7.2,7.2,7.2
+比萨,La Bella Napoli,La Bella Napoli,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+比萨,Gusto Italiano,Gusto Italiano,0,勒科尔茨(Les Corts),7.7,7.2,7.2
+比萨,La Baguetina Catalana,La Baguetina Catalana,0,扩展区(Eixample),6.3,6.3,6.3
+比萨,Zian Restaurant and Pizzeria,Zian Restaurant and Pizzeria,0,扩展区(Eixample),7.2,7.2,7.2
+比萨,La Villa,La Villa,0,扩展区(Eixample),7.2,7.2,7.2
+比萨,Greenshots,Greenshots,0,扩展区(Eixample),7.1,7.1,7.1
+比萨,Vitto,Vitto,0,扩展区(Eixample),7.0,7.0,7.0
+比萨,"EL Racó, Ronda Universitat","EL Racó, Ronda Universitat",0,旧城区(Ciutat Vella),7.0,7.0,7.0
+比萨,La Naturale,La Naturale,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+比萨,La Baguetina Catalana,La Baguetina Catalana,0,旧城区(Ciutat Vella),6.3,6.3,6.3
+比萨,Abrelatas,Abrelatas,0,圣-蒙特惠奇(Sants-Montjuïc),7.3,7.3,7.3
+比萨,Limonxello,Limonxello,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+比萨,ll Corsaro Nero,ll Corsaro Nero,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+比萨,Pizza Virona,Pizza Virona,0,扩展区(Eixample),6.9,7.0,6.7
+比萨,Eslice,Eslice,0,旧城区(Ciutat Vella),7.3,7.3,7.1
+比萨,Restaurante Don Angelo,Restaurante Don Angelo,0,扩展区(Eixample),7.3,7.3,7.1
+比萨,August,August,0,扩展区(Eixample),7.2,7.2,7.2
+比萨,La Locanda,La Locanda,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+比萨,N.A.P. Neapolitan Authentic Pizza,N.A.P. Neapolitan Authentic Pizza,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+比萨,Pizzas l'Avia Restaurant,Pizzas l'Avia Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+比萨,La Veronica,La Veronica,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+比萨,Prado de Flores,Prado de Flores,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+比萨,La burrata,La burrata,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+比萨,Pizza Paco,Pizza Paco,0,其他,7.1,7.1,7.1
+比萨,La Tradizional,La Tradizional,0,扩展区(Eixample),7.0,6.9,7.0
+比萨,La Pizza Loca,La Pizza Loca,0,Sarrià-Sant Gervasi,7.0,7.0,6.9
+比萨,Brown Pizza,Brown Pizza,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+比萨,Gent del Barri,Gent del Barri,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+比萨,Domino Bar,Domino Bar,0,扩展区(Eixample),7.2,7.2,7.2
+比萨,La Verde Umbria,La Verde Umbria,0,扩展区(Eixample),7.2,7.2,7.2
+比萨,"El Racó, Còrsega","El Racó, Còrsega",0,扩展区(Eixample),6.9,6.9,6.9
+比萨,San Remo Restaurant and Pizzaria,San Remo Restaurant and Pizzaria,0,扩展区(Eixample),6.3,6.3,6.8
+比萨,Come una volta,Come una volta,0,扩展区(Eixample),7.2,7.2,7.2
+比萨,The Wild Rover Irish Pub,The Wild Rover Irish Pub,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+比萨,Sports Bar Italian Food,Sports Bar Italian Food,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+比萨,Sports Bar Restaurant,Sports Bar Restaurant,0,旧城区(Ciutat Vella),6.7,6.7,6.9
+比萨,Pizzeria Cerveceria Gilda,Pizzeria Cerveceria Gilda,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+比萨,Raco deBonsucces,Raco deBonsucces,0,旧城区(Ciutat Vella),7.3,7.3,7.3
+比萨,Tiana,Tiana,0,旧城区(Ciutat Vella),7.1,7.0,7.1
+比萨,Tarantino Pizzeria,Tarantino Pizzeria,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+比萨,Pizzeria San Marino,Pizzeria San Marino,0,旧城区(Ciutat Vella),7.1,7.0,7.0
+比萨,La Placita Bcn Horneria,La Placita Bcn Horneria,0,旧城区(Ciutat Vella),7.0,7.1,7.0
+比萨,Pizza Concept,Pizza Concept,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+比萨,Pizzeria L'Antica Napoli,Pizzeria L'Antica Napoli,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+比萨,Pizzeria Los Amigos,Pizzeria Los Amigos,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+比萨,La Strada Pizza Barcelona,La Strada Pizza Barcelona,0,圣-蒙特惠奇(Sants-Montjuïc),7.6,7.2,7.2
+比萨,mario's pizza nostra,mario's pizza nostra,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+比萨,Madre Lievito,Madre Lievito,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+比萨,Pizza Bulls,Pizza Bulls,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+比萨,Messie Pizza,Messie Pizza,0,恩典区(Gràcia),7.1,7.1,7.1
+比萨,Attica Pizzeria,Attica Pizzeria,0,恩典区(Gràcia),7.1,7.1,6.9
+比萨,La Nata,La Nata,0,勒科尔茨(Les Corts),7.0,7.0,6.9
+比萨,Ristorante Roma,Ristorante Roma,0,圣马蒂(Sant Martí),7.2,7.6,7.2
+比萨,Genis pizza,Genis pizza,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+比萨,Pizzeria Diego,Pizzeria Diego,0,圣安德鲁(Sant Andreu),6.9,6.9,7.0
+比萨,Pizzeria Fidenza,Pizzeria Fidenza,0,圣安德鲁(Sant Andreu),7.1,6.8,6.8
+比萨,La Bruixa,La Bruixa,0,圣安德鲁(Sant Andreu),7.0,7.0,7.0
+比萨,Pizzeria Maruzzella,Pizzeria Maruzzella,0,诺巴里斯(Nou Barris),7.1,6.9,7.0
+比萨,Fragola,Fragola,0,诺巴里斯(Nou Barris),7.1,7.1,7.1
+比萨,La Pizza del Born,La Pizza del Born,0,诺巴里斯(Nou Barris),7.2,6.8,6.8
+比萨,Fratelli la Bufala,Fratelli la Bufala,0,扩展区(Eixample),7.2,6.8,6.8
+比萨,La Mamma,La Mamma,0,扩展区(Eixample),6.8,6.8,6.8
+比萨,Bar Piranya,Bar Piranya,0,恩典区(Gràcia),6.8,7.1,6.8
+比萨,Seventy pizza,Seventy pizza,0,扩展区(Eixample),6.9,6.9,6.9
+比萨,Il Gondoliere Di Venezia,Il Gondoliere Di Venezia,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+咖啡厅,Escriba Rambla,Escriba Rambla,0,恩典区(Gràcia),0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,旧城区(Ciutat Vella),7.5,7.5,7.5
+咖啡厅,afiparc,afiparc,0,,7.0,6.7,6.7
+咖啡厅,Tosca,Tosca,0,旧城区(Ciutat Vella),7.0,7.5,7.5
+咖啡厅,DelaCrem,DelaCrem,0,扩展区(Eixample),6.3,7.1,7.1
+咖啡厅,La Nena,La Nena,0,恩典区(Gràcia),7.2,7.2,7.2
+咖啡厅,Chocolat-box,Chocolat-box,0,扩展区(Eixample),6.9,6.9,6.9
+咖啡厅,Bar Santa Fe,Bar Santa Fe,0,圣马蒂(Sant Martí),7.6,7.6,7.6
+咖啡厅,El cafe Blueproject,El cafe Blueproject,0,旧城区(Ciutat Vella),7.3,7.3,7.1
+咖啡厅,El Cafeto,El Cafeto,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+咖啡厅,Dino Pan,Dino Pan,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+咖啡厅,Le Pain Quotidien,Le Pain Quotidien,0,扩展区(Eixample),7.2,6.8,7.2
+咖啡厅,Granja La Pallaresa,Granja La Pallaresa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+咖啡厅,Quimet,Quimet,0,奥尔塔-吉纳德(Horta-Guinardó),7.2,7.2,7.2
+咖啡厅,Cup and Cake Barcelona,Cup and Cake Barcelona,0,扩展区(Eixample),7.2,7.2,7.2
+咖啡厅,Bracafe,Bracafe,0,扩展区(Eixample),7.1,7.1,7.1
+咖啡厅,Candela Raval,Candela Raval,0,旧城区(Ciutat Vella),7.1,6.8,7.1
+咖啡厅,Draco's Bar,Draco's Bar,0,勒科尔茨(Les Corts),7.0,7.1,7.0
+咖啡厅,Bendito's Platos,Bendito's Platos,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+咖啡厅,Okinawa,Okinawa,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+咖啡厅,ikastola,ikastola,0,圣马蒂(Sant Martí),7.0,6.9,7.0
+咖啡厅,Tandoori Nights,Tandoori Nights,0,旧城区(Ciutat Vella),6.9,7.0,7.0
+咖啡厅,Fresh and Go Barcelona,Fresh and Go Barcelona,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+咖啡厅,L'Espai Ferrer i Guardia,L'Espai Ferrer i Guardia,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+咖啡厅,Moncho's House,Moncho's House,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+咖啡厅,Honey Cafetería,Honey Cafetería,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+咖啡厅,Mimos Frozen Yogurt,Mimos Frozen Yogurt,0,旧城区(Ciutat Vella),7.5,7.5,7.1
+咖啡厅,Taller de pasta,Taller de pasta,0,扩展区(Eixample),7.0,7.1,7.0
+咖啡厅,Cafe de la Pedrera,Cafe de la Pedrera,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+咖啡厅,Gelateria italiana Pagliotta,Gelateria italiana Pagliotta,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+咖啡厅,Restaurante Molina,Restaurante Molina,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+咖啡厅,Ximenetas Tradicional,Ximenetas Tradicional,0,旧城区(Ciutat Vella),7.1,7.0,7.0
+咖啡厅,Satan´s Coffee Corner,Satan´s Coffee Corner,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+咖啡厅,Central Cafe Pelai,Central Cafe Pelai,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+咖啡厅,Lennon,Lennon,0,恩典区(Gràcia),7.0,7.1,7.1
+咖啡厅,Puiggros,Puiggros,0,扩展区(Eixample),7.2,7.2,7.2
+咖啡厅,Strata Bakery,Strata Bakery,0,扩展区(Eixample),7.2,7.2,7.2
+咖啡厅,Stoke Bar,Stoke Bar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+咖啡厅,Sopa,Sopa,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+咖啡厅,Tartinecafe,Tartinecafe,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+咖啡厅,Collage Barcelona,Collage Barcelona,0,旧城区(Ciutat Vella),7.2,7.6,7.6
+咖啡厅,Spice Cafe,Spice Cafe,0,圣-蒙特惠奇(Sants-Montjuïc),7.5,7.5,7.5
+咖啡厅,Palosanto Tapas Bar,Palosanto Tapas Bar,0,旧城区(Ciutat Vella),7.3,7.3,7.3
+咖啡厅,Oval,Oval,0,扩展区(Eixample),7.2,7.2,7.2
+咖啡厅,Muy Mio,Muy Mio,0,扩展区(Eixample),7.2,7.2,7.2
+咖啡厅,Restaurant Braseria Cátedra,Restaurant Braseria Cátedra,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+咖啡厅,Alsur Cafe (El Born),Alsur Cafe (El Born),0,旧城区(Ciutat Vella),7.2,7.2,7.2
+咖啡厅,"Pastisseria Hand Made, un rajolí de pau","Pastisseria Hand Made, un rajolí de pau",0,其他,7.1,7.1,7.1
+咖啡厅,Cafè Tolstoi,Cafè Tolstoi,0,扩展区(Eixample),7.1,7.1,7.1
+咖啡厅,Peperoncino Snack Bar,Peperoncino Snack Bar,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+咖啡厅,Giulietta Cafe,Giulietta Cafe,0,扩展区(Eixample),7.1,7.1,7.1
+咖啡厅,Tomato,Tomato,0,扩展区(Eixample),7.1,7.1,7.1
+咖啡厅,Bar Restaurant Els Tres Bots,Bar Restaurant Els Tres Bots,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+咖啡厅,Buenas Migas - Sant Pere,Buenas Migas - Sant Pere,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+咖啡厅,Muy Mio Plaza,Muy Mio Plaza,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+咖啡厅,Ideal Poblenou,Ideal Poblenou,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+咖啡厅,La Garchetta,La Garchetta,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+咖啡厅,Cafe Parc Belmont,Cafe Parc Belmont,0,扩展区(Eixample),7.1,7.1,7.1
+咖啡厅,Skye coffee co,Skye coffee co,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+咖啡厅,Demasie Cafe,Demasie Cafe,0,扩展区(Eixample),7.0,7.0,7.0
+咖啡厅,Joys Cafe,Joys Cafe,0,扩展区(Eixample),6.9,6.9,6.9
+咖啡厅,Bar Galicia,Bar Galicia,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+咖啡厅,L'Atelier by amis,L'Atelier by amis,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+咖啡厅,SandwiChez Capità Arenas,SandwiChez Capità Arenas,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+咖啡厅,Can Clot,Can Clot,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+咖啡厅,Bitte! Wurst,Bitte! Wurst,0,其他,7.1,7.1,7.0
+咖啡厅,Fusion Lounge Restaurante,Fusion Lounge Restaurante,0,,7.0,7.0,7.0
+咖啡厅,Nakupenda,Nakupenda,0,,7.0,7.1,7.0
+咖啡厅,365 Cafe,365 Cafe,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+咖啡厅,MONO Risto-Bar,MONO Risto-Bar,0,扩展区(Eixample),7.5,7.1,7.1
+咖啡厅,Takashi Ochiai Pastisseria,Takashi Ochiai Pastisseria,0,扩展区(Eixample),7.2,7.2,7.2
+咖啡厅,Parisii Bistrot,Parisii Bistrot,0,扩展区(Eixample),7.1,7.1,7.1
+咖啡厅,La Parada,La Parada,0,扩展区(Eixample),7.0,7.0,7.0
+咖啡厅,Charlot Cafe,Charlot Cafe,0,扩展区(Eixample),7.1,7.3,7.3
+咖啡厅,Foc i Oli,Foc i Oli,0,扩展区(Eixample),7.5,7.1,7.1
+咖啡厅,"Jamaica coffee shop, barcelona","Jamaica coffee shop, barcelona",0,扩展区(Eixample),6.9,6.9,7.0
+咖啡厅,Sabores Mokarico,Sabores Mokarico,0,扩展区(Eixample),7.0,7.0,7.0
+咖啡厅,MILO GRILL,MILO GRILL,0,扩展区(Eixample),7.6,7.2,7.2
+咖啡厅,Verdaguer Cafe,Verdaguer Cafe,0,扩展区(Eixample),6.9,6.9,6.9
+咖啡厅,Artisa,Artisa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+咖啡厅,baguetta cataluyna,baguetta cataluyna,0,旧城区(Ciutat Vella),6.7,6.7,6.7
+咖啡厅,Centeral cafe,Centeral cafe,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+咖啡厅,"Butifarring, entrepans a la brasa","Butifarring, entrepans a la brasa",0,旧城区(Ciutat Vella),7.1,7.1,7.1
+咖啡厅,"Nata Lisboa, Barcelona","Nata Lisboa, Barcelona",0,旧城区(Ciutat Vella),7.0,7.0,7.0
+咖啡厅,Pastisseria i salode te Brunells,Pastisseria i salode te Brunells,0,旧城区(Ciutat Vella),7.5,7.1,7.1
+咖啡厅,Demasie,Demasie,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+咖啡厅,Blau Cucina e Caffé,Blau Cucina e Caffé,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+咖啡厅,Elsa y Fred,Elsa y Fred,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+咖啡厅,Foxy Bar,Foxy Bar,0,旧城区(Ciutat Vella),7.1,7.1,7.3
+咖啡厅,Caravelle,Caravelle,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+咖啡厅,Lletraferit,Lletraferit,0,旧城区(Ciutat Vella),6.9,7.0,7.0
+咖啡厅,SandwiChez Amigó,SandwiChez Amigó,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+咖啡厅,Via Cafe,Via Cafe,0,Sarrià-Sant Gervasi,7.0,7.1,7.0
+咖啡厅,Il Fuoco Pizzeria,Il Fuoco Pizzeria,0,Sarrià-Sant Gervasi,6.9,6.7,6.7
+咖啡厅,Xocolate's,Xocolate's,0,Sarrià-Sant Gervasi,7.1,7.1,7.0
+咖啡厅,Bodega Padua Bar-Restaurante,Bodega Padua Bar-Restaurante,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+咖啡厅,Bar L'Entrepa,Bar L'Entrepa,0,Sarrià-Sant Gervasi,6.9,6.9,7.0
+咖啡厅,Lo Pinyol,Lo Pinyol,0,恩典区(Gràcia),7.0,7.0,7.0
+咖啡厅,Cafè Lorca,Cafè Lorca,0,恩典区(Gràcia),7.0,7.0,7.1
+咖啡厅,Shhh...No se lo digas a Nadie,Shhh...No se lo digas a Nadie,0,恩典区(Gràcia),6.8,6.8,6.8
+咖啡厅,Elephanta,Elephanta,0,恩典区(Gràcia),7.1,7.1,7.1
+咖啡厅,Yogo Love Frozen Yogurt,Yogo Love Frozen Yogurt,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+咖啡厅,Agricantus Cafe,Agricantus Cafe,0,勒科尔茨(Les Corts),7.3,7.3,7.1
+咖啡厅,Chill Bar Barcelona,Chill Bar Barcelona,0,扩展区(Eixample),7.2,7.2,7.2
+咖啡厅,Le Coq & The Burg,Le Coq & The Burg,0,扩展区(Eixample),7.7,7.2,7.2
+咖啡厅,La Boulangerie,La Boulangerie,0,扩展区(Eixample),7.0,7.0,7.0
+咖啡厅,Rubick,Rubick,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+咖啡厅,Restaurante e Bar ,Restaurante e Bar ,0,奥尔塔-吉纳德(Horta-Guinardó),7.0,7.1,7.0
+咖啡厅,El Nou,El Nou,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+咖啡厅,Restaurante Leka,Restaurante Leka,0,圣马蒂(Sant Martí),7.1,7.3,7.1
+咖啡厅,Insolita Gea,Insolita Gea,0,扩展区(Eixample),7.1,7.1,7.1
+咖啡厅,Caffe di San Marco,Caffe di San Marco,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+咖啡厅,Segafredo Espresso Barcelona,Segafredo Espresso Barcelona,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,6.8,7.1
+咖啡厅,Le Capuccino,Le Capuccino,0,旧城区(Ciutat Vella),6.9,6.7,6.7
+咖啡厅,Cappuccino Crema & Cafe,Cappuccino Crema & Cafe,0,旧城区(Ciutat Vella),6.4,6.4,6.8
+咖啡厅,Farggi,Farggi,0,扩展区(Eixample),0.0,0.0,0.0
+咖啡厅,365cafe,365cafe,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+咖啡厅,Bauma,Bauma,0,扩展区(Eixample),0.0,0.0,0.0
+咖啡厅,Granja La Pallaresa,Granja La Pallaresa,0,扩展区(Eixample),0.0,0.0,0.0
+面包甜点,Farggi,Farggi,0,恩典区(Gràcia),7.0,6.7,6.7
+面包甜点,Vioko,Vioko,0,扩展区(Eixample),7.5,7.5,7.4
+面包甜点,Starbucks,Starbucks,0,旧城区(Ciutat Vella),7.5,7.5,7.5
+面包甜点,elFornet,elFornet,0,,6.9,6.9,6.9
+面包甜点,Mannà Gelats,Mannà Gelats,0,其他,7.7,7.7,7.7
+面包甜点,Restaurante Japonés Mikasa,Restaurante Japonés Mikasa,0,扩展区(Eixample),7.5,7.5,8.1
+面包甜点,El Tio Che,El Tio Che,0,圣马蒂(Sant Martí),7.3,7.3,7.4
+面包甜点,Planelles Donat,Planelles Donat,0,扩展区(Eixample),7.0,6.7,7.0
+面包甜点,Happy Pills,Happy Pills,0,扩展区(Eixample),6.9,6.7,6.7
+面包甜点,Pastisseria la Colmena,Pastisseria la Colmena,0,旧城区(Ciutat Vella),7.5,7.5,7.5
+面包甜点,Sabadell,Sabadell,0,,6.9,6.9,7.0
+面包甜点,Brunch & Cake,Brunch & Cake,0,扩展区(Eixample),7.2,7.3,7.2
+面包甜点,DelaCrem,DelaCrem,0,扩展区(Eixample),6.3,7.1,7.1
+面包甜点,La Nena,La Nena,0,恩典区(Gràcia),7.2,7.2,7.2
+面包甜点,Cafe Marti,Cafe Marti,0,扩展区(Eixample),7.1,7.1,7.0
+面包甜点,Hansel Pa de Barcelona,Hansel Pa de Barcelona,0,扩展区(Eixample),7.1,7.1,7.1
+面包甜点,Granier,Granier,0,扩展区(Eixample),6.9,6.9,6.9
+面包甜点,Le Pain Quotidien,Le Pain Quotidien,0,扩展区(Eixample),7.2,6.8,7.2
+面包甜点,Petritxol Cafe,Petritxol Cafe,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,Creps amb Gràcia,Creps amb Gràcia,0,恩典区(Gràcia),7.1,7.1,7.1
+面包甜点,Baluard Bakery,Baluard Bakery,0,,7.7,7.2,7.2
+面包甜点,Boldu,Boldu,0,扩展区(Eixample),7.5,7.1,7.1
+面包甜点,Dolso,Dolso,0,扩展区(Eixample),7.2,6.8,6.8
+面包甜点,Chok - The Chocolate Kitchen,Chok - The Chocolate Kitchen,0,旧城区(Ciutat Vella),7.7,7.2,7.2
+面包甜点,A Tu Bola,A Tu Bola,0,旧城区(Ciutat Vella),7.6,7.2,7.2
+面包甜点,Granja La Pallaresa,Granja La Pallaresa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,Forn de Pa,Forn de Pa,0,,6.9,6.9,6.9
+面包甜点,Bodevici Bioconcept Helados Ecologicos,Bodevici Bioconcept Helados Ecologicos,0,恩典区(Gràcia),7.1,7.1,7.1
+面包甜点,Belgious Poble Nou,Belgious Poble Nou,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+面包甜点,Dino Pan,Dino Pan,0,扩展区(Eixample),7.1,7.1,7.1
+面包甜点,La Granja,La Granja,0,其他,7.1,7.1,7.1
+面包甜点,La Campana,La Campana,0,旧城区(Ciutat Vella),7.0,7.1,7.0
+面包甜点,"Haagen-Dazs, Barcelona","Haagen-Dazs, Barcelona",0,扩展区(Eixample),7.1,7.1,7.1
+面包甜点,Forn Boix,Forn Boix,0,旧城区(Ciutat Vella),7.0,7.1,7.1
+面包甜点,Foix de Sarria,Foix de Sarria,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+面包甜点,Sweet Gaufre,Sweet Gaufre,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+面包甜点,La Cure Gourmande,La Cure Gourmande,0,旧城区(Ciutat Vella),7.0,7.0,7.1
+面包甜点,ikastola,ikastola,0,圣马蒂(Sant Martí),7.0,6.9,7.0
+面包甜点,Cremeria Toscana,Cremeria Toscana,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,Farggi,Farggi,0,扩展区(Eixample),7.2,6.8,7.2
+面包甜点,El Petit Princep,El Petit Princep,0,扩展区(Eixample),7.3,7.3,7.1
+面包甜点,Blats Flequers,Blats Flequers,0,扩展区(Eixample),7.3,7.3,7.1
+面包甜点,Mimos Frozen Yogurt,Mimos Frozen Yogurt,0,旧城区(Ciutat Vella),7.5,7.5,7.1
+面包甜点,Primavera Cafe,Primavera Cafe,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.5,7.1
+面包甜点,Dino Italian Gelato,Dino Italian Gelato,0,圣安德鲁(Sant Andreu),7.1,7.1,7.1
+面包甜点,La guingueta,La guingueta,0,,7.1,7.1,7.1
+面包甜点,Bubo,Bubo,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,Gelateria italiana Pagliotta,Gelateria italiana Pagliotta,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+面包甜点,Gaudi Bakery,Gaudi Bakery,0,扩展区(Eixample),7.2,7.2,7.2
+面包甜点,Pasteleria Abril,Pasteleria Abril,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+面包甜点,Pasteleria Escriba Gran Via,Pasteleria Escriba Gran Via,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,Sweet Dreams,Sweet Dreams,0,旧城区(Ciutat Vella),7.7,7.2,7.2
+面包甜点,Snomelk,Snomelk,0,旧城区(Ciutat Vella),7.3,7.3,7.1
+面包甜点,Pretiola,Pretiola,0,,7.3,7.3,7.3
+面包甜点,Buenas Migas,Buenas Migas,0,,7.2,7.2,7.2
+面包甜点,Restaurante IKI BARCELONA,Restaurante IKI BARCELONA,0,扩展区(Eixample),7.2,7.2,7.2
+面包甜点,Espai sucre,Espai sucre,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,Pizzeria Fabian,Pizzeria Fabian,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,El Fornet D'en Rossend,El Fornet D'en Rossend,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+面包甜点,Zucker Haus,Zucker Haus,0,扩展区(Eixample),7.1,7.1,7.1
+面包甜点,Diamante Cafeteria,Diamante Cafeteria,0,扩展区(Eixample),6.9,6.9,6.9
+面包甜点,Creperie Les 3 Pommes,Creperie Les 3 Pommes,0,扩展区(Eixample),7.1,7.1,7.1
+面包甜点,Pastisseries la Montserratina,Pastisseries la Montserratina,0,旧城区(Ciutat Vella),7.1,7.0,7.0
+面包甜点,Buenas Migas - Sant Pere,Buenas Migas - Sant Pere,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+面包甜点,Gelateria Arcobaleno,Gelateria Arcobaleno,0,旧城区(Ciutat Vella),7.1,7.0,7.0
+面包甜点,Tutti frutti barcelona,Tutti frutti barcelona,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+面包甜点,Dessert 41,Dessert 41,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+面包甜点,Pou de Glaç,Pou de Glaç,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+面包甜点,Pacific forn cafe,Pacific forn cafe,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+面包甜点,dole,dole,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+面包甜点,L'Obrador del Moli,L'Obrador del Moli,0,Sarrià-Sant Gervasi,7.1,7.1,7.0
+面包甜点,Momi & Toy's,Momi & Toy's,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+面包甜点,Pastisseria Montserrat,Pastisseria Montserrat,0,恩典区(Gràcia),7.1,7.1,7.1
+面包甜点,Xocolatíssim,Xocolatíssim,0,恩典区(Gràcia),6.9,6.9,6.9
+面包甜点,Amelia Bakery,Amelia Bakery,0,恩典区(Gràcia),6.9,6.9,6.9
+面包甜点,Casa e Bottega,Casa e Bottega,0,恩典区(Gràcia),6.9,6.9,6.9
+面包甜点,La Cremona,La Cremona,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+面包甜点,Casa Vives,Casa Vives,0,其他,7.0,6.9,6.7
+面包甜点,Gelateria Rambla,Gelateria Rambla,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+面包甜点,Creperie Bretonne Annaick,Creperie Bretonne Annaick,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.0
+面包甜点,Borges & Go Cafeteria,Borges & Go Cafeteria,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+面包甜点,Lukumas,Lukumas,0,恩典区(Gràcia),7.0,6.9,6.9
+面包甜点,Arlequino.helados,Arlequino.helados,0,,6.9,6.9,6.9
+面包甜点,Yogo Love C&M SL,Yogo Love C&M SL,0,,7.0,7.1,7.1
+面包甜点,Dino Pan,Dino Pan,0,扩展区(Eixample),7.2,7.2,7.2
+面包甜点,Granier Panes Artesanos,Granier Panes Artesanos,0,扩展区(Eixample),7.1,7.1,7.1
+面包甜点,Takashi Ochiai Pastisseria,Takashi Ochiai Pastisseria,0,扩展区(Eixample),7.2,7.2,7.2
+面包甜点,La pastisseria Barcelona,La pastisseria Barcelona,0,扩展区(Eixample),7.2,7.2,7.2
+面包甜点,Horchaterie La Valenciana,Horchaterie La Valenciana,0,扩展区(Eixample),7.0,7.1,7.0
+面包甜点,Dolci Parole,Dolci Parole,0,扩展区(Eixample),7.2,7.2,7.2
+面包甜点,El Moli Vell,El Moli Vell,0,扩展区(Eixample),7.1,7.1,7.1
+面包甜点,Artisa,Artisa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,Stick House,Stick House,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+面包甜点,Cake's Garden,Cake's Garden,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+面包甜点,Belgious Avinyo,Belgious Avinyo,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,The Box,The Box,0,旧城区(Ciutat Vella),7.2,7.7,7.7
+面包甜点,Conesa Artesans de l'entrepa,Conesa Artesans de l'entrepa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,Gelaaati Di Marco,Gelaaati Di Marco,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,cheese me,cheese me,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,"Bernie's Diner, Grill & Bar, Barcelona","Bernie's Diner, Grill & Bar, Barcelona",0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,Chocolateria Valor Barcelona,Chocolateria Valor Barcelona,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+面包甜点,Pans & Company,Pans & Company,0,旧城区(Ciutat Vella),6.8,7.2,6.8
+面包甜点,Churreria Layetana,Churreria Layetana,0,旧城区(Ciutat Vella),7.7,7.2,7.2
+面包甜点,Lolita Bakery,Lolita Bakery,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+面包甜点,Victoria's Cakes,Victoria's Cakes,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+面包甜点,Oriol Balaguer,Oriol Balaguer,0,Sarrià-Sant Gervasi,7.0,7.0,6.9
+面包甜点,Crusto,Crusto,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+面包甜点,Pizza Market Sarria,Pizza Market Sarria,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+面包甜点,Krampus,Krampus,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+面包甜点,Carrot Cafe,Carrot Cafe,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+面包甜点,Gelateria Palazzolo,Gelateria Palazzolo,0,圣马蒂(Sant Martí),7.1,7.1,7.0
+面包甜点,Ottimo Gelats,Ottimo Gelats,0,恩典区(Gràcia),7.0,7.0,7.0
+面包甜点,Llagurt,Llagurt,0,恩典区(Gràcia),7.1,7.1,7.0
+面包甜点,Yogo Love Frozen Yogurt,Yogo Love Frozen Yogurt,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+面包甜点,Arlequino.Helados,Arlequino.Helados,0,扩展区(Eixample),7.0,7.0,7.0
+面包甜点,La Boulangerie,La Boulangerie,0,扩展区(Eixample),7.0,7.0,7.0
+面包甜点,Ilodi Cafeteria & Gelateria,Ilodi Cafeteria & Gelateria,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.1,7.0
+面包甜点,Kuren's Bubbles & Yogurt,Kuren's Bubbles & Yogurt,0,其他,7.0,7.0,7.0
+面包甜点,Dolcevitaly,Dolcevitaly,0,圣-蒙特惠奇(Sants-Montjuïc),7.3,7.1,7.1
+面包甜点,Hofmann Pastisseria,Hofmann Pastisseria,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Bodega Monumental,Bodega Monumental,0,圣-蒙特惠奇(Sants-Montjuïc),0.0,0.0,0.0
+酒吧,PinOtxo Bar,PinOtxo Bar,0,扩展区(Eixample),7.0,6.7,7.2
+酒吧,London Bar,London Bar,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,La Tasqueta De Blai,La Tasqueta De Blai,0,圣-蒙特惠奇(Sants-Montjuïc),0.0,0.0,0.0
+酒吧,Barnabier,Barnabier,0,圣-蒙特惠奇(Sants-Montjuïc),0.0,0.0,0.0
+酒吧,Cera 23,Cera 23,0,旧城区(Ciutat Vella),7.1,7.1,7.3
+酒吧,La Tasqueta 1800,La Tasqueta 1800,0,扩展区(Eixample),7.1,7.1,7.1
+酒吧,Old Fashioned - Gin Tonic & Cocktail Bar,Old Fashioned - Gin Tonic & Cocktail Bar,0,恩典区(Gràcia),0.0,0.0,0.0
+酒吧,Ultramarinos Bar,Ultramarinos Bar,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Barcelona Pipa Club,Barcelona Pipa Club,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Sub Rosa,Sub Rosa,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Jamboree,Jamboree,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Al Maximo,Al Maximo,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Cocktail Bar Boadas,Cocktail Bar Boadas,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Ice Bar Barcelona,Ice Bar Barcelona,0,,0.0,0.0,0.0
+酒吧,Rubi Bar,Rubi Bar,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,El Bosc de les Fades,El Bosc de les Fades,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Hook,Hook,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Jazz S' Club/Cafe,Jazz S' Club/Cafe,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Sugar,Sugar,0,Sarrià-Sant Gervasi,0.0,0.0,0.0
+酒吧,La Macarena,La Macarena,0,Sarrià-Sant Gervasi,0.0,0.0,0.0
+酒吧,Harlem Jazz Club,Harlem Jazz Club,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,H1898,H1898,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,Sidecar Factory Club,Sidecar Factory Club,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Xiampi Xampany,Xiampi Xampany,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Luz de Gas,Luz de Gas,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,New York,New York,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Chez Chloé,Chez Chloé,0,圣-蒙特惠奇(Sants-Montjuïc),0.0,0.0,0.0
+酒吧,Dow Jones,Dow Jones,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,7 Sins Lounge & Music Bar,7 Sins Lounge & Music Bar,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,SUMMUM Nightbar,SUMMUM Nightbar,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Aurora,Aurora,0,Sarrià-Sant Gervasi,0.0,0.0,0.0
+酒吧,Absenta Bar,Absenta Bar,0,,0.0,0.0,0.0
+酒吧,La Concha,La Concha,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Astoria Barcelona,Astoria Barcelona,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,El Paraigua,El Paraigua,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Benidorm,Benidorm,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,The Loch Inn,The Loch Inn,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Bar 68 Barcelona,Bar 68 Barcelona,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Bar Premier,Bar Premier,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Petit Pau Restaurant,Petit Pau Restaurant,0,圣-蒙特惠奇(Sants-Montjuïc),7.5,7.5,7.5
+酒吧,Mesdvi,Mesdvi,0,圣马蒂(Sant Martí),7.3,7.3,7.3
+酒吧,Elephant Restaurant & Lounge Club,Elephant Restaurant & Lounge Club,0,勒科尔茨(Les Corts),0.0,0.0,0.0
+酒吧,Torres de Avila,Torres de Avila,0,圣-蒙特惠奇(Sants-Montjuïc),0.0,0.0,0.0
+酒吧,Sea Club,Sea Club,0,,0.0,0.0,0.0
+酒吧,Cat Bar,Cat Bar,0,,7.2,7.2,7.2
+酒吧,Shoko Club,Shoko Club,0,,0.0,0.0,0.0
+酒吧,LP Bar,LP Bar,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,City Hall Club,City Hall Club,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Blondie Bar,Blondie Bar,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,La Carballeda,La Carballeda,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Bar Pastis,Bar Pastis,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Barroc,Barroc,0,圣马蒂(Sant Martí),0.0,0.0,0.0
+酒吧,Nostromo,Nostromo,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+酒吧,El Raco del Mercat,El Raco del Mercat,0,扩展区(Eixample),7.1,7.1,7.1
+酒吧,Bar Moon,Bar Moon,0,扩展区(Eixample),7.0,7.1,7.0
+酒吧,Draco's Bar,Draco's Bar,0,勒科尔茨(Les Corts),7.0,7.1,7.0
+酒吧,Bar Picaparet,Bar Picaparet,0,,6.9,6.9,6.9
+酒吧,L'Ombra,L'Ombra,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+酒吧,El Cangrejo,El Cangrejo,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+酒吧,Cafe Catalina,Cafe Catalina,0,,7.0,6.9,6.9
+酒吧,La Taberna Del Bierzo,La Taberna Del Bierzo,0,勒科尔茨(Les Corts),7.1,7.1,6.8
+酒吧,Pitin Bar,Pitin Bar,0,旧城区(Ciutat Vella),6.8,7.1,7.1
+酒吧,Ànima bcn,Ànima bcn,0,勒科尔茨(Les Corts),7.2,7.7,7.2
+酒吧,Sunset lounge bar,Sunset lounge bar,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+酒吧,Barcellona,Barcellona,0,旧城区(Ciutat Vella),7.1,7.1,6.8
+酒吧,Eutopia,Eutopia,0,恩典区(Gràcia),7.1,7.3,7.3
+酒吧,Bar Pinotex,Bar Pinotex,0,旧城区(Ciutat Vella),7.1,7.3,7.1
+酒吧,Ole Mallorca,Ole Mallorca,0,扩展区(Eixample),7.0,7.0,7.0
+酒吧,Alsur Cafe (Palau),Alsur Cafe (Palau),0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,Koska Taverna,Koska Taverna,0,圣马蒂(Sant Martí),7.2,7.6,7.2
+酒吧,Morro Fi,Morro Fi,0,扩展区(Eixample),7.0,7.0,7.0
+酒吧,Stoke Bar,Stoke Bar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,Sor Rita,Sor Rita,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Espai Barroc,Espai Barroc,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Colombo,Colombo,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Cassette Bar,Cassette Bar,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Rouge,Rouge,0,圣-蒙特惠奇(Sants-Montjuïc),0.0,0.0,0.0
+酒吧,Sala Apolo,Sala Apolo,0,圣-蒙特惠奇(Sants-Montjuïc),0.0,0.0,0.0
+酒吧,Gipsy Lou,Gipsy Lou,0,旧城区(Ciutat Vella),7.2,7.6,7.6
+酒吧,Cerveceria 100 Montaditos,Cerveceria 100 Montaditos,0,扩展区(Eixample),7.2,7.2,7.2
+酒吧,La Confiteria,La Confiteria,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Il Gusto Italiano,Il Gusto Italiano,0,扩展区(Eixample),7.2,7.2,7.2
+酒吧,Café Dietrich,Café Dietrich,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,La Fira,La Fira,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Muy Mio,Muy Mio,0,扩展区(Eixample),7.2,7.2,7.2
+酒吧,Costa Breve,Costa Breve,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Kentucky,Kentucky,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Rabbit Hole - Irish Bar,Rabbit Hole - Irish Bar,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Flaherty's Irish Pub,Flaherty's Irish Pub,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,Stereo Bar,Stereo Bar,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Karma,Karma,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Malpaso,Malpaso,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Le Bouchon,Le Bouchon,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,Ryan's Irish Pub,Ryan's Irish Pub,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Ginger,Ginger,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,The Palace Bar,The Palace Bar,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Suborn,Suborn,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,McCarthy's Irish Bar,McCarthy's Irish Bar,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Bar Marsella,Bar Marsella,0,旧城区(Ciutat Vella),6.8,6.8,7.2
+酒吧,La Biblioteca Gourmande Restaurant,La Biblioteca Gourmande Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,Fidel Bar,Fidel Bar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,Bar Bodega Fortuny,Bar Bodega Fortuny,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Bar Six,Bar Six,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Cafe Mandacaru,Cafe Mandacaru,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+酒吧,Tinta Roja,Tinta Roja,0,圣-蒙特惠奇(Sants-Montjuïc),0.0,0.0,0.0
+酒吧,La Cova del Drac,La Cova del Drac,0,Sarrià-Sant Gervasi,0.0,0.0,0.0
+酒吧,"Linea 6,25","Linea 6,25",0,Sarrià-Sant Gervasi,0.0,0.0,0.0
+酒吧,Dos Rombos,Dos Rombos,0,恩典区(Gràcia),0.0,0.0,0.0
+酒吧,Teatreneu,Teatreneu,0,恩典区(Gràcia),0.0,0.0,0.0
+酒吧,Havana Mojito,Havana Mojito,0,圣马蒂(Sant Martí),0.0,0.0,0.0
+酒吧,Touch Music Karaoke,Touch Music Karaoke,0,圣马蒂(Sant Martí),0.0,0.0,0.0
+酒吧,Magic,Magic,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Platillos,Platillos,0,其他,6.9,6.9,6.9
+酒吧,Dublins,Dublins,0,其他,6.9,6.9,6.9
+酒吧,Xixbar,Xixbar,0,扩展区(Eixample),7.1,7.1,7.1
+酒吧,"cuberlina,Barcelona Spain","cuberlina,Barcelona Spain",0,扩展区(Eixample),6.9,6.9,6.9
+酒吧,Porqueno Bar,Porqueno Bar,0,扩展区(Eixample),7.1,7.1,6.9
+酒吧,En Diagonal,En Diagonal,0,扩展区(Eixample),7.1,7.1,7.1
+酒吧,Molly's Fair City,Molly's Fair City,0,旧城区(Ciutat Vella),7.3,7.3,7.3
+酒吧,Aurora Angel Bar,Aurora Angel Bar,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+酒吧,Ryans Paradis,Ryans Paradis,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+酒吧,Stromboli,Stromboli,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+酒吧,410 Cocktail Bar,410 Cocktail Bar,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+酒吧,Muy Mio Plaza,Muy Mio Plaza,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+酒吧,Comiols,Comiols,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+酒吧,Kinky Boots Bar,Kinky Boots Bar,0,圣马蒂(Sant Martí),7.0,7.1,7.0
+酒吧,Chiringuito Relevant,Chiringuito Relevant,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+酒吧,Tatin Bistró,Tatin Bistró,0,扩展区(Eixample),7.1,7.1,7.1
+酒吧,Bar la granja,Bar la granja,0,其他,6.9,6.9,6.9
+酒吧,Cocteleria Torre Rosa,Cocteleria Torre Rosa,0,圣安德鲁(Sant Andreu),7.1,7.1,7.1
+酒吧,Tasca El Corral,Tasca El Corral,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+酒吧,Taberna el Antojo,Taberna el Antojo,0,旧城区(Ciutat Vella),7.0,7.0,7.1
+酒吧,Casa Almirall,Casa Almirall,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+酒吧,La Surena Cerveceria,La Surena Cerveceria,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+酒吧,Vinos y Max,Vinos y Max,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+酒吧,L'Atelier by amis,L'Atelier by amis,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+酒吧,Cambalache Club,Cambalache Club,0,恩典区(Gràcia),7.0,7.0,7.1
+酒吧,Ale&Hop,Ale&Hop,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+酒吧,Tarannà Café,Tarannà Café,0,扩展区(Eixample),7.2,7.2,7.2
+酒吧,MONO Risto-Bar,MONO Risto-Bar,0,扩展区(Eixample),7.5,7.1,7.1
+酒吧,Africa Tamarane,Africa Tamarane,0,扩展区(Eixample),7.2,7.2,7.2
+酒吧,La Martinera,La Martinera,0,扩展区(Eixample),7.0,7.0,7.0
+酒吧,Ba-Ba-ReeBa,Ba-Ba-ReeBa,0,恩典区(Gràcia),7.0,7.0,7.0
+酒吧,Nick Havanna,Nick Havanna,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Meatpacking Bistro,Meatpacking Bistro,0,扩展区(Eixample),7.2,7.2,7.2
+酒吧,New Chaps,New Chaps,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,Morryssom,Morryssom,0,扩展区(Eixample),7.1,7.1,7.1
+酒吧,Bar Centro Gallego Barcelona,Bar Centro Gallego Barcelona,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,Bar International Beer,Bar International Beer,0,旧城区(Ciutat Vella),6.8,7.2,7.2
+酒吧,Las cuevas de Sorte,Las cuevas de Sorte,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+酒吧,Milk Bar & Bistro,Milk Bar & Bistro,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,The Benedict Bcn,The Benedict Bcn,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,Tres Flores,Tres Flores,0,旧城区(Ciutat Vella),7.3,7.1,7.1
+酒吧,Optimus,Optimus,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+酒吧,Ziryab Fusion Wine and Tapas Bar,Ziryab Fusion Wine and Tapas Bar,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,Numero nueve,Numero nueve,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+酒吧,Taverne Del Besbe Barcelone,Taverne Del Besbe Barcelone,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+酒吧,No Sé?,No Sé?,0,旧城区(Ciutat Vella),7.1,7.3,7.3
+酒吧,Como el agua,Como el agua,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+酒吧,Bass Bar,Bass Bar,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+酒吧,Foxy Bar,Foxy Bar,0,旧城区(Ciutat Vella),7.1,7.1,7.3
+酒吧,Caravelle,Caravelle,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+酒吧,Lola & lo,Lola & lo,0,旧城区(Ciutat Vella),7.1,7.0,7.0
+酒吧,Oddland,Oddland,0,旧城区(Ciutat Vella),6.9,7.0,7.0
+酒吧,Una Mas Bar,Una Mas Bar,0,旧城区(Ciutat Vella),7.7,7.7,7.7
+酒吧,Black Velvet,Black Velvet,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,7.1,7.0
+酒吧,Snooker Bar,Snooker Bar,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+酒吧,Zanzibar,Zanzibar,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+酒吧,Bar Nat,Bar Nat,0,Sarrià-Sant Gervasi,0.0,0.0,0.0
+酒吧,Base Nautica de la Mar Bella,Base Nautica de la Mar Bella,0,圣马蒂(Sant Martí),0.0,0.0,0.0
+酒吧,El Bocao,El Bocao,0,圣马蒂(Sant Martí),7.1,7.1,6.8
+酒吧,"la terreta, Taverna Valenciana","la terreta, Taverna Valenciana",0,扩展区(Eixample),7.1,7.5,7.5
+酒吧,Hola Manito,Hola Manito,0,恩典区(Gràcia),6.8,7.2,7.2
+酒吧,Bikini,Bikini,0,勒科尔茨(Les Corts),0.0,0.0,0.0
+酒吧,"Bar Teruel, barcelona","Bar Teruel, barcelona",0,圣马蒂(Sant Martí),7.0,7.0,7.0
+酒吧,El Dogo Negre,El Dogo Negre,0,圣马蒂(Sant Martí),7.0,7.1,7.1
+酒吧,Toca Teca,Toca Teca,0,圣安德鲁(Sant Andreu),7.7,7.2,7.2
+酒吧,La Grangeta,La Grangeta,0,圣安德鲁(Sant Andreu),6.9,7.0,6.9
+酒吧,Gimeno Cigar Shop,Gimeno Cigar Shop,0,,0.0,0.0,0.0
+酒吧,Mama Cuisine,Mama Cuisine,0,诺巴里斯(Nou Barris),6.7,7.0,6.9
+酒吧,Bar Martinez,Bar Martinez,0,诺巴里斯(Nou Barris),7.0,7.0,7.0
+酒吧,Taverria del bisbe,Taverria del bisbe,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+酒吧,Bar Electric,Bar Electric,0,恩典区(Gràcia),6.7,6.7,6.7
+酒吧,Bar Gran Vía,Bar Gran Vía,0,扩展区(Eixample),0.0,0.0,0.0
+酒吧,enka2,enka2,0,,0.0,0.0,0.0
+酒吧,Icebarcelona,Icebarcelona,0,,0.0,0.0,0.0
+酒吧,Bar cerveceria La Plaza,Bar cerveceria La Plaza,0,圣-蒙特惠奇(Sants-Montjuïc),0.0,0.0,0.0
+更多美食,Cafe de L'Opera,Cafe de L'Opera,0,旧城区(Ciutat Vella),7.6,7.6,7.6
+更多美食,Farga Diagonal,Farga Diagonal,0,扩展区(Eixample),8.2,8.2,8.2
+更多美食,Ruixian sushi,Ruixian sushi,0,圣-蒙特惠奇(Sants-Montjuïc),8.3,8.3,8.2
+更多美食,Neyras,Neyras,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+更多美食,El Glop de la Rambla,El Glop de la Rambla,0,旧城区(Ciutat Vella),7.5,7.2,7.9
+更多美食,La Muscleria,La Muscleria,0,扩展区(Eixample),0.0,0.0,0.0
+更多美食,Cafe Granja Viader,Cafe Granja Viader,0,旧城区(Ciutat Vella),8.0,8.0,8.0
+更多美食,W Bar,W Bar,0,,8.0,8.0,8.0
+更多美食,Restaurante Filigrana,Restaurante Filigrana,0,圣-蒙特惠奇(Sants-Montjuïc),7.5,7.5,8.0
+更多美食,Restaurante Hofmann,Restaurante Hofmann,0,Sarrià-Sant Gervasi,8.4,7.9,7.9
+更多美食,9 Reinas,9 Reinas,0,扩展区(Eixample),7.5,7.5,7.5
+更多美食,El Quim de la Boqueria,El Quim de la Boqueria,0,旧城区(Ciutat Vella),7.3,7.3,7.5
+更多美食,La Oveja Negra,La Oveja Negra,0,旧城区(Ciutat Vella),7.1,7.5,7.5
+更多美食,Lactuca,Lactuca,0,扩展区(Eixample),7.5,7.5,7.5
+更多美食,Bar Mut,Bar Mut,0,扩展区(Eixample),7.5,7.5,7.5
+更多美食,Memorias de China,Memorias de China,0,Sarrià-Sant Gervasi,8.1,7.5,8.1
+更多美食,Kunming,Kunming,0,Sarrià-Sant Gervasi,7.9,7.9,7.8
+更多美食,La Txapela,La Txapela,0,扩展区(Eixample),7.6,7.6,7.6
+更多美食,Masaya,Masaya,0,Sarrià-Sant Gervasi,7.6,7.2,7.6
+更多美食,Restaurante Portonovo,Restaurante Portonovo,0,圣-蒙特惠奇(Sants-Montjuïc),8.0,7.5,8.0
+更多美食,Pez Vela Chiringuito,Pez Vela Chiringuito,0,,7.5,8.1,7.5
+更多美食,Miu Japones,Miu Japones,0,扩展区(Eixample),7.9,7.9,7.9
+更多美食,Pastisseria Hofmann,Pastisseria Hofmann,0,旧城区(Ciutat Vella),7.9,7.5,7.5
+更多美食,Hotel Catalonia Barcelona 505,Hotel Catalonia Barcelona 505,0,Sarrià-Sant Gervasi,7.5,8.4,8.3
+更多美食,Meson cinco jotas,Meson cinco jotas,0,扩展区(Eixample),7.3,7.1,7.3
+更多美食,El Cochinillo Loco,El Cochinillo Loco,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Yawu Restaurant Japones,Yawu Restaurant Japones,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,L'Ostia,L'Ostia,0,,8.1,8.1,8.1
+更多美食,Cal Pinxo,Cal Pinxo,0,,7.0,7.0,7.1
+更多美食,Burger King,Burger King,0,旧城区(Ciutat Vella),6.8,7.5,6.7
+更多美食,Wave,Wave,0,,7.5,7.5,7.5
+更多美食,KFC,KFC,0,扩展区(Eixample),7.0,7.0,6.7
+更多美食,Restaurante Cal Boter,Restaurante Cal Boter,0,恩典区(Gràcia),7.2,7.3,7.5
+更多美食,Cerveceria Colon,Cerveceria Colon,0,旧城区(Ciutat Vella),5.4,6.5,5.6
+更多美食,El Nou Ramonet,El Nou Ramonet,0,,7.5,8.0,7.5
+更多美食,Blai 9,Blai 9,0,圣-蒙特惠奇(Sants-Montjuïc),7.5,8.2,8.2
+更多美食,Sagardi BCN Centre,Sagardi BCN Centre,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Tragaluz,Tragaluz,0,扩展区(Eixample),7.0,8.0,8.0
+更多美食,Gram Biologic,Gram Biologic,0,,6.9,6.9,6.9
+更多美食,El Principal del Tragaluz,El Principal del Tragaluz,0,扩展区(Eixample),7.5,7.5,7.5
+更多美食,Smudy Juice Bar,Smudy Juice Bar,0,扩展区(Eixample),6.9,6.9,6.8
+更多美食,Magatzem del port,Magatzem del port,0,,8.1,8.1,8.1
+更多美食,Bar Santa Marta,Bar Santa Marta,0,,7.0,7.0,7.0
+更多美食,Restaurante Xamfra Gaudi,Restaurante Xamfra Gaudi,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,El Xalet,El Xalet,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+更多美食,Enoteca Restaurant,Enoteca Restaurant,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+更多美食,Restaurant Neichel,Restaurant Neichel,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+更多美食,La Terraza del Claris,La Terraza del Claris,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Boadas,Boadas,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Restaurante Kaiku,Restaurante Kaiku,0,,7.2,7.2,7.2
+更多美食,Hai Cheng,Hai Cheng,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,La Paradeta El Born,La Paradeta El Born,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Mc Donald's,Mc Donald's,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Pita Inn,Pita Inn,0,旧城区(Ciutat Vella),6.7,6.7,6.7
+更多美食,Restaurante Cargolet Picant,Restaurante Cargolet Picant,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+更多美食,Il Caffe di Francesco,Il Caffe di Francesco,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Big Fish,Big Fish,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Rene,Rene,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Restaurant La Font de Prades,Restaurant La Font de Prades,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+更多美食,Restaurante Rincón de León,Restaurante Rincón de León,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,La Bodegueta,La Bodegueta,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Bar Restaurante Olimpiada 92,Bar Restaurante Olimpiada 92,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Ancora,Ancora,0,,6.9,6.9,6.9
+更多美食,Restaurante Macao,Restaurante Macao,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+更多美食,Restaurante Xiscarexantar,Restaurante Xiscarexantar,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,Restaurante Can Roca,Restaurante Can Roca,0,圣安德鲁(Sant Andreu),7.1,7.0,7.0
+更多美食,La Generosa,La Generosa,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Museo Jamon Arenas,Museo Jamon Arenas,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+更多美食,SandwiChez,SandwiChez,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+更多美食,Frankfurt Diagonal SL.,Frankfurt Diagonal SL.,0,勒科尔茨(Les Corts),7.0,7.1,7.0
+更多美食,O Centollo Ria De Vigo Restaurante,O Centollo Ria De Vigo Restaurante,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,inopia,inopia,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Pura Brasa,Pura Brasa,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Restaurante Mango,Restaurante Mango,0,勒科尔茨(Les Corts),6.8,6.8,6.8
+更多美食,Oleum,Oleum,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+更多美食,Els quatre Gats,Els quatre Gats,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,H3,H3,0,旧城区(Ciutat Vella),6.8,7.1,6.8
+更多美食,Torres,Torres,0,扩展区(Eixample),7.1,6.8,7.1
+更多美食,Restaurante Mayo,Restaurante Mayo,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,maoz,maoz,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Orange Claris Cafe,Orange Claris Cafe,0,扩展区(Eixample),7.1,6.8,7.1
+更多美食,Restaurante L,Restaurante L,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多美食,Cafe Zurich,Cafe Zurich,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Khalijia,Khalijia,0,圣马蒂(Sant Martí),7.0,6.9,7.0
+更多美食,Samoa,Samoa,0,扩展区(Eixample),6.8,6.8,6.8
+更多美食,speakeasy Dry Martini,speakeasy Dry Martini,0,扩展区(Eixample),0.0,0.0,0.0
+更多美食,La Tagliatella Enric Granados,La Tagliatella Enric Granados,0,其他,6.9,6.9,6.7
+更多美食,Sakura,Sakura,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+更多美食,Omeia Middle Eastern Restaurant,Omeia Middle Eastern Restaurant,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.3,7.1
+更多美食,Windsor,Windsor,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Shanghai,Shanghai,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Loidi,Loidi,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,Pollo Rico,Pollo Rico,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Pomarada,Pomarada,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,El Yantar de la Ribera,El Yantar de la Ribera,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,L'Aldila,L'Aldila,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+更多美食,Fastvinic,Fastvinic,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Aguaribay,Aguaribay,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+更多美食,Parco,Parco,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,Bar Ramon,Bar Ramon,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Restaurante Vivanda,Restaurante Vivanda,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,La Barceloneta,La Barceloneta,0,,7.2,7.2,7.2
+更多美食,Agua,Agua,0,,7.2,7.2,7.2
+更多美食,Habana Vieja Restaurant Cubano,Habana Vieja Restaurant Cubano,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Bar Lobo,Bar Lobo,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,L'eucaliptus,L'eucaliptus,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Can Kenji,Can Kenji,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,Els peixeters de la mediterrania,Els peixeters de la mediterrania,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+更多美食,Boca Grande,Boca Grande,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Gran Foc,Gran Foc,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Bar Calders,Bar Calders,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,La Mar Salada,La Mar Salada,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Can Punyetes,Can Punyetes,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,La Rueda,La Rueda,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Restaurante Biocenter,Restaurante Biocenter,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Passadis del Pep,Passadis del Pep,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,La Bombeta,La Bombeta,0,,7.2,7.2,7.2
+更多美食,Cacao Sampaka,Cacao Sampaka,0,扩展区(Eixample),7.2,6.8,7.2
+更多美食,Woki Organic Market,Woki Organic Market,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Vegetalia,Vegetalia,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Creps Barcelona,Creps Barcelona,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,1881 per Sagardi,1881 per Sagardi,0,,7.2,7.2,7.2
+更多美食,Restaurante Bodega Sepulveda,Restaurante Bodega Sepulveda,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Il Pomo d'Oro,Il Pomo d'Oro,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,El Jabali,El Jabali,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,El Atril,El Atril,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Elisabets,Elisabets,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Bracafe Barcelona,Bracafe Barcelona,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Café Vienés Jazz Club,Café Vienés Jazz Club,0,恩典区(Gràcia),6.9,7.1,6.9
+更多美食,Restaurante Cantabria,Restaurante Cantabria,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,Corsega (els gallegos catalans),Corsega (els gallegos catalans),0,其他,6.9,6.9,6.9
+更多美食,El Raconet d'Urgell,El Raconet d'Urgell,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Restaurante Jardi,Restaurante Jardi,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Japones Fukuya,Restaurante Japones Fukuya,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+更多美食,Lonja De Tapas Jaume 1,Lonja De Tapas Jaume 1,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,La Taberna de la Ronda,La Taberna de la Ronda,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Ardevol,Ardevol,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,El Jardi de l'Angel,El Jardi de l'Angel,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,The Garden,The Garden,0,勒科尔茨(Les Corts),7.1,7.1,7.3
+更多美食,starbucks,starbucks,0,旧城区(Ciutat Vella),7.1,7.1,7.3
+更多美食,Starbucks,Starbucks,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Casa Paloma,Casa Paloma,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Restaurante Tossa,Restaurante Tossa,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,EL SECRET DEL TALL,EL SECRET DEL TALL,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,limbo,limbo,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Gades,Gades,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Catalina,Catalina,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,Alexandra,Alexandra,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Alapiedra,Restaurante Alapiedra,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Myramar 2,Myramar 2,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+更多美食,Restaurante Dirty Dut,Restaurante Dirty Dut,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Quo Vadis,Quo Vadis,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Hamburgueseria Chelsea,Hamburgueseria Chelsea,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,Restaurante Contraste,Restaurante Contraste,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+更多美食,Restaurante Alvar,Restaurante Alvar,0,其他,6.9,6.9,6.9
+更多美食,Capitol I,Capitol I,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Restaurante Les Brases del Passatge,Restaurante Les Brases del Passatge,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,El Eden de Laforja,El Eden de Laforja,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,Restaurante el Lagar,Restaurante el Lagar,0,其他,7.0,7.1,7.1
+更多美食,Cinemateca S.c.p.,Cinemateca S.c.p.,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Cocteleria Fígaro,Restaurante Cocteleria Fígaro,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Pasteleria Viladecans,Pasteleria Viladecans,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+更多美食,No Te Rajes,No Te Rajes,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Labarreta,Labarreta,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Maxi & Max,Maxi & Max,0,其他,6.9,6.9,6.9
+更多美食,Restaurante L,Restaurante L,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Black Cafe Cocktail Bar,Black Cafe Cocktail Bar,0,恩典区(Gràcia),7.0,7.1,7.1
+更多美食,comerc 24/carles abellan,comerc 24/carles abellan,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Quinto Pino,Quinto Pino,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,L'Esbarzer,L'Esbarzer,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+更多美食,Tapa,Tapa,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,"La Rambla, 96","La Rambla, 96",0,旧城区(Ciutat Vella),7.1,7.5,7.5
+更多美食,Restaurante El Triangulo de las Cors,Restaurante El Triangulo de las Cors,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+更多美食,Ca la Margui,Ca la Margui,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Hotel Espana,Hotel Espana,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Rosat's Cerveceria,Rosat's Cerveceria,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,Can Milà Escribà,Can Milà Escribà,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,La Cua Curta,La Cua Curta,0,,7.1,7.1,7.1
+更多美食,Antic Arenas Cafe 1934,Antic Arenas Cafe 1934,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Smudy Juice Bar Arenas,Smudy Juice Bar Arenas,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Gallery Center,Gallery Center,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,La Dolce Vita,La Dolce Vita,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Wok Chiew,Wok Chiew,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Bar Bacaro,Bar Bacaro,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Self Naturista,Self Naturista,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Let's Wok,Let's Wok,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+更多美食,El Rebost de la Maria,El Rebost de la Maria,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Non solo pizza,Non solo pizza,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Avalon by Ramon Freixa,Avalon by Ramon Freixa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Can Eusebio,Can Eusebio,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+更多美食,Jamon Experience,Jamon Experience,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,el faro azul,el faro azul,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Asia in wok,Asia in wok,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Urban,Urban,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Restaurant Pulitzer,Restaurant Pulitzer,0,旧城区(Ciutat Vella),7.0,7.0,6.9
+更多美食,Rendez-Vous al Born,Rendez-Vous al Born,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Paris Condal,Paris Condal,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Terraza La Dolce Vita,Terraza La Dolce Vita,0,恩典区(Gràcia),6.9,6.9,6.9
+更多美食,RIBS Diagonal Mar,RIBS Diagonal Mar,0,其他,7.0,7.0,7.0
+更多美食,Bar Nike,Bar Nike,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Piano,Restaurante Piano,0,圣马蒂(Sant Martí),7.0,7.1,7.0
+更多美食,ff,ff,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Agata,Agata,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Mito Cuina Asiatica,Mito Cuina Asiatica,0,Sarrià-Sant Gervasi,7.1,7.1,6.8
+更多美食,Restaurante Jumilla,Restaurante Jumilla,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+更多美食,Restaurante Chiu-Chiu,Restaurante Chiu-Chiu,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Viduca,Viduca,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+更多美食,taberna foxos,taberna foxos,0,,7.0,7.0,7.0
+更多美食,Ty Bihan Restaurant,Ty Bihan Restaurant,0,扩展区(Eixample),7.0,7.1,7.0
+更多美食,Restaurante Mora,Restaurante Mora,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Onuba,Restaurante Onuba,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+更多美食,Restaurante Montserrat,Restaurante Montserrat,0,圣马蒂(Sant Martí),7.1,7.0,7.1
+更多美食,Aroma Sant Gervasi,Aroma Sant Gervasi,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+更多美食,Casa Maria,Casa Maria,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Sumoll,Sumoll,0,圣安德鲁(Sant Andreu),7.0,7.0,7.0
+更多美食,Restaurante Piramide,Restaurante Piramide,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,El Lumi,El Lumi,0,恩典区(Gràcia),6.9,6.9,6.9
+更多美食,Mamma Mia,Mamma Mia,0,奥尔塔-吉纳德(Horta-Guinardó),6.9,6.9,6.9
+更多美食,El Celler del Rocxi,El Celler del Rocxi,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+更多美食,Rebeka restaurante,Rebeka restaurante,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Tapas Tapes Restaurant,Tapas Tapes Restaurant,0,其他,6.9,6.9,6.9
+更多美食,Restaurante El Caseron,Restaurante El Caseron,0,勒科尔茨(Les Corts),7.1,7.0,7.0
+更多美食,La Taverna de Hofmann,La Taverna de Hofmann,0,其他,7.0,7.0,7.0
+更多美食,Restaurante Yague,Restaurante Yague,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,El Menjador de Can Ravel,El Menjador de Can Ravel,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Coreano - Fusion Han-Na,Restaurante Coreano - Fusion Han-Na,0,扩展区(Eixample),7.0,7.1,7.1
+更多美食,Restaurant Ramen-ya.Kintaro,Restaurant Ramen-ya.Kintaro,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Restaurante St.gallen,Restaurante St.gallen,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,El cochinillo loco,El cochinillo loco,0,旧城区(Ciutat Vella),7.0,6.9,6.9
+更多美食,Claravia - Novotel Diagonal,Claravia - Novotel Diagonal,0,其他,6.9,6.9,6.9
+更多美食,Red lounge,Red lounge,0,,6.9,6.9,6.9
+更多美食,La Caleta de Sants,La Caleta de Sants,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.1,7.0
+更多美食,Sumum,Sumum,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Trotamundo Tapas,Trotamundo Tapas,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,La Casita,La Casita,0,,7.1,7.1,7.1
+更多美食,Leku,Leku,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+更多美食,Bar Lafuente,Bar Lafuente,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,Els Porxos,Els Porxos,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Burger King,Burger King,0,扩展区(Eixample),7.2,6.8,6.8
+更多美食,Viena Diagonal Mar,Viena Diagonal Mar,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,Restaurante Kikiriki,Restaurante Kikiriki,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,Cafeteria Parc Guell,Cafeteria Parc Guell,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,Mos Art Restaurante,Mos Art Restaurante,0,其他,6.9,6.9,6.9
+更多美食,Pasteleria Lepanto,Pasteleria Lepanto,0,其他,7.1,7.1,7.0
+更多美食,Casa Joana,Casa Joana,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,Troika Dellicatessen,Troika Dellicatessen,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Tangerina,Tangerina,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,Central Cafe,Central Cafe,0,勒科尔茨(Les Corts),7.1,6.8,7.1
+更多美食,Bracafe,Bracafe,0,扩展区(Eixample),7.0,7.0,6.9
+更多美食,la perla,la perla,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,Ocean Pacific Wok,Ocean Pacific Wok,0,圣安德鲁(Sant Andreu),6.7,6.9,6.7
+更多美食,Les Tres a la Cuina,Les Tres a la Cuina,0,恩典区(Gràcia),7.3,7.1,7.1
+更多美食,Monvinic,Monvinic,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Restaurante Cabaneros,Restaurante Cabaneros,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+更多美食,La Pineda Xarcuteria,La Pineda Xarcuteria,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Xalet de Montjuic,Xalet de Montjuic,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+更多美食,Restaurante Tetuan 9,Restaurante Tetuan 9,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Casa Varela,Casa Varela,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Souvenirs Emporio,Souvenirs Emporio,0,扩展区(Eixample),6.9,6.9,7.0
+更多美食,Federal Cafe,Federal Cafe,0,扩展区(Eixample),7.2,6.8,7.2
+更多美食,Yin Du,Yin Du,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Sotavento Restaurante,Sotavento Restaurante,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Chiringuitodelsol,Chiringuitodelsol,0,,6.9,6.9,6.9
+更多美食,aQistoi,aQistoi,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Estrella Restaurante,Estrella Restaurante,0,圣马蒂(Sant Martí),6.9,6.7,6.7
+更多美食,La Rambla 31,La Rambla 31,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,El Born,El Born,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,mainaro,mainaro,0,扩展区(Eixample),7.1,7.1,7.0
+更多美食,Diversus,Diversus,0,旧城区(Ciutat Vella),7.0,7.0,7.1
+更多美食,Bar Brutal,Bar Brutal,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+更多美食,Ta-Tung,Ta-Tung,0,Sarrià-Sant Gervasi,7.1,7.0,7.0
+更多美食,Casa Palet,Casa Palet,0,Sarrià-Sant Gervasi,7.0,7.0,7.0
+更多美食,Los Inmortales,Los Inmortales,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+更多美食,Can Punyetes,Can Punyetes,0,恩典区(Gràcia),7.0,7.0,7.0
+更多美食,Central 134,Central 134,0,扩展区(Eixample),7.3,7.3,7.1
+更多美食,Thai Lounge,Thai Lounge,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Trobador Enric Granados,Trobador Enric Granados,0,扩展区(Eixample),6.8,6.8,6.8
+更多美食,Petra,Petra,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Kharma Restaurante,Kharma Restaurante,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Temporada Paradis Restaurant,Temporada Paradis Restaurant,0,勒科尔茨(Les Corts),7.0,6.9,7.0
+更多美食,Restaurante El Ruedo,Restaurante El Ruedo,0,圣马蒂(Sant Martí),7.0,7.0,6.9
+更多美食,La Giraldilla,La Giraldilla,0,扩展区(Eixample),7.0,7.1,7.0
+更多美食,Restaurant Zian,Restaurant Zian,0,扩展区(Eixample),6.7,6.7,6.7
+更多美食,Restaurante L,Restaurante L,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Bar Mundial,Bar Mundial,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,100 Montaditos,100 Montaditos,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+更多美食,Fosters Hollywood,Fosters Hollywood,0,勒科尔茨(Les Corts),7.0,7.0,7.0
+更多美食,Can Cortada,Can Cortada,0,奥尔塔-吉纳德(Horta-Guinardó),6.8,7.2,7.2
+更多美食,tapas bar,tapas bar,0,其他,7.0,7.0,7.0
+更多美食,Caffe Urgell,Caffe Urgell,0,圣安德鲁(Sant Andreu),7.0,7.0,7.0
+更多美食,Can Paixano (La Xampanyeria),Can Paixano (La Xampanyeria),0,,7.2,7.2,7.2
+更多美食,Restaurante L,Restaurante L,0,扩展区(Eixample),7.0,6.9,7.0
+更多美食,Cafe Restaurant DHUB,Cafe Restaurant DHUB,0,勒科尔茨(Les Corts),6.9,7.0,7.0
+更多美食,Restaurante Pikako,Restaurante Pikako,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Guru,Guru,0,旧城区(Ciutat Vella),6.9,7.0,7.0
+更多美食,Dunkin' Donuts,Dunkin' Donuts,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Catalunya,Catalunya,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.0
+更多美食,Restaurante La Bodega,Restaurante La Bodega,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Kiosko Gourmet Burger,Kiosko Gourmet Burger,0,,7.2,7.2,7.2
+更多美食,Monk,Monk,0,扩展区(Eixample),7.0,7.0,6.9
+更多美食,Buenas Migas,Buenas Migas,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Las Sorrentinas,Las Sorrentinas,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Tram tram,Tram tram,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Reial Club Maritim,Reial Club Maritim,0,,7.1,7.1,7.1
+更多美食,l'univers,l'univers,0,,6.9,6.9,6.9
+更多美食,Josephine,Josephine,0,扩展区(Eixample),7.2,6.8,7.2
+更多美食,Cerveceria Baviera,Cerveceria Baviera,0,旧城区(Ciutat Vella),6.3,6.3,6.3
+更多美食,La Informal,La Informal,0,旧城区(Ciutat Vella),7.1,6.8,7.1
+更多美食,Macrobiotic Zen,Macrobiotic Zen,0,旧城区(Ciutat Vella),7.3,7.1,7.1
+更多美食,Simbad Restaurante,Simbad Restaurante,0,扩展区(Eixample),7.0,7.0,6.9
+更多美食,Restaurante Chino,Restaurante Chino,0,圣马蒂(Sant Martí),6.9,7.0,6.9
+更多美食,Biofusio Papaya Cafe Lounge & Bar,Biofusio Papaya Cafe Lounge & Bar,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,Brunos Pizza,Brunos Pizza,0,圣马蒂(Sant Martí),7.0,7.0,6.9
+更多美食,Pans & Company,Pans & Company,0,扩展区(Eixample),6.6,6.8,6.6
+更多美食,Divina Pedralbes,Divina Pedralbes,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+更多美食,La Royale,La Royale,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Restaurante Els jardinets de Gracia,Restaurante Els jardinets de Gracia,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,Eclipse,Eclipse,0,,7.2,7.2,7.2
+更多美食,Salt,Salt,0,,7.2,6.8,7.2
+更多美食,Gambito Bcn,Gambito Bcn,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Manairo,Manairo,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Fonda Espanya Restaurante,Fonda Espanya Restaurante,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,JJ Restaurante,JJ Restaurante,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+更多美食,Sants,Sants,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,6.8
+更多美食,Ribelino's,Ribelino's,0,勒科尔茨(Les Corts),6.7,6.7,6.7
+更多美食,Biergarten Princesa Sofia,Biergarten Princesa Sofia,0,勒科尔茨(Les Corts),7.1,6.8,7.1
+更多美食,Tapas Palace,Tapas Palace,0,扩展区(Eixample),6.5,6.8,6.5
+更多美食,Bracafe,Bracafe,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Restaurante Pousada Caballito Blanco,Restaurante Pousada Caballito Blanco,0,恩典区(Gràcia),7.0,7.0,7.0
+更多美食,Restaurant La Roca,Restaurant La Roca,0,诺巴里斯(Nou Barris),7.0,7.0,7.0
+更多美食,Hotel Avenida Palace Restaurant,Hotel Avenida Palace Restaurant,0,扩展区(Eixample),7.0,7.0,7.1
+更多美食,Campechano Merendero,Campechano Merendero,0,扩展区(Eixample),6.8,6.6,6.8
+更多美食,Stop Cafeteria,Stop Cafeteria,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Fresc Co,Fresc Co,0,扩展区(Eixample),6.9,7.0,6.9
+更多美食,La Bodegueta,La Bodegueta,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.1,7.0
+更多美食,Rita Rouge,Rita Rouge,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Lucano,Lucano,0,扩展区(Eixample),6.8,6.8,6.8
+更多美食,Cañas y Tapas,Cañas y Tapas,0,圣马蒂(Sant Martí),6.9,7.0,6.9
+更多美食,DaLuca Ristorante,DaLuca Ristorante,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Che Burritos Restaurant,Che Burritos Restaurant,0,其他,7.0,7.0,6.9
+更多美食,Bar-Restaurante Fernando,Bar-Restaurante Fernando,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,La Chlmenea,La Chlmenea,0,圣马蒂(Sant Martí),7.0,7.0,6.9
+更多美食,Anfora,Anfora,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,La Cantina dels Mariners ,La Cantina dels Mariners ,0,,6.9,6.9,6.9
+更多美食,Flor de Maig,Flor de Maig,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+更多美食,Terra - Ca la Nurri,Terra - Ca la Nurri,0,圣马蒂(Sant Martí),7.0,7.0,7.0
+更多美食,Rodrigo,Rodrigo,0,旧城区(Ciutat Vella),6.8,6.8,6.8
+更多美食,La Rosa del Desierto,La Rosa del Desierto,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,The Palau de la Musica,The Palau de la Musica,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Cafe Turo,Cafe Turo,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Somodo,Somodo,0,恩典区(Gràcia),7.7,7.2,7.2
+更多美食,Cafe de la Ribera,Cafe de la Ribera,0,旧城区(Ciutat Vella),7.2,6.8,7.2
+更多美食,Fondo do mar,Fondo do mar,0,扩展区(Eixample),6.6,6.6,6.8
+更多美食,Restaurante Mango,Restaurante Mango,0,,6.8,6.8,6.8
+更多美食,Amaya,Amaya,0,其他,7.2,7.2,7.2
+更多美食,Restaurant Tasca i Vins,Restaurant Tasca i Vins,0,,6.8,6.8,6.8
+更多美食,Restaurante El Chipiron de Moncho,Restaurante El Chipiron de Moncho,0,,6.8,6.8,7.2
+更多美食,Citrus Restaurantus,Citrus Restaurantus,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Pans & Company,Pans & Company,0,扩展区(Eixample),6.9,7.0,7.0
+更多美食,Restaurante Portoles,Restaurante Portoles,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Granja Elena,Granja Elena,0,圣-蒙特惠奇(Sants-Montjuïc),7.7,7.2,7.2
+更多美食,Pizzeria de la Farandula,Pizzeria de la Farandula,0,扩展区(Eixample),6.7,6.7,6.7
+更多美食,Moritz,Moritz,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Chiqui Bar,Chiqui Bar,0,扩展区(Eixample),7.0,7.1,7.0
+更多美食,Piscolabis Rambla,Piscolabis Rambla,0,扩展区(Eixample),7.2,6.8,7.2
+更多美食,Stile Bcn,Stile Bcn,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Il Pomo D'Oro,Il Pomo D'Oro,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Fishop,Fishop,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Cava Universal,Cava Universal,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多美食,Cerveceria,Cerveceria,0,旧城区(Ciutat Vella),6.3,6.3,6.3
+更多美食,El Callejon,El Callejon,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Chocolat-Box,Chocolat-Box,0,旧城区(Ciutat Vella),7.3,7.1,7.1
+更多美食,Origens 99.9,Origens 99.9,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Restaurant Sauc S.c.p.,Restaurant Sauc S.c.p.,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Restaurante Picadero 5,Restaurante Picadero 5,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Chiringuito Sahara Beach Bar,Chiringuito Sahara Beach Bar,0,圣马蒂(Sant Martí),7.0,6.9,7.0
+更多美食,Burger King,Burger King,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Riera 29,Riera 29,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,Mcdonald S,Mcdonald S,0,恩典区(Gràcia),6.9,6.9,6.9
+更多美食,Taller de Tapas,Taller de Tapas,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+更多美食,La Vaqueria,La Vaqueria,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+更多美食,Pizza Luna,Pizza Luna,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,Bar Restaurant Cerveseria a Veiga,Bar Restaurant Cerveseria a Veiga,0,奥尔塔-吉纳德(Horta-Guinardó),7.0,7.0,7.0
+更多美食,La Oca Mar,La Oca Mar,0,圣马蒂(Sant Martí),6.9,7.0,7.0
+更多美食,Eyescream and Friends,Eyescream and Friends,0,,7.2,7.6,7.2
+更多美食,Burger King,Burger King,0,圣安德鲁(Sant Andreu),6.9,7.0,6.9
+更多美食,Restaurante Living,Restaurante Living,0,旧城区(Ciutat Vella),6.6,6.6,6.6
+更多美食,Il Capriccio Del Cafe,Il Capriccio Del Cafe,0,其他,6.9,6.9,6.9
+更多美食,Brutus. Restaurantes gigantes,Brutus. Restaurantes gigantes,0,圣安德鲁(Sant Andreu),6.9,6.9,6.9
+更多美食,Restaurante Yamashita YU,Restaurante Yamashita YU,0,扩展区(Eixample),6.8,6.8,6.8
+更多美食,Restaurante Neoclasic,Restaurante Neoclasic,0,扩展区(Eixample),6.6,6.8,6.8
+更多美食,Bar Cerveceria Pepe,Bar Cerveceria Pepe,0,圣-蒙特惠奇(Sants-Montjuïc),6.7,6.7,6.9
+更多美食,"Wok You , Potosi","Wok You , Potosi",0,圣安德鲁(Sant Andreu),6.9,6.9,6.9
+更多美食,Store Cafe,Store Cafe,0,恩典区(Gràcia),6.8,6.8,6.8
+更多美食,Tapa i Apat,Tapa i Apat,0,旧城区(Ciutat Vella),6.3,6.3,6.8
+更多美食,Formatgeria La Seu,Formatgeria La Seu,0,旧城区(Ciutat Vella),7.5,7.1,7.1
+更多美食,Colibri Vodka & Gin,Colibri Vodka & Gin,0,旧城区(Ciutat Vella),7.1,7.5,7.1
+更多美食,PANAM75,PANAM75,0,圣马蒂(Sant Martí),7.5,7.5,7.5
+更多美食,Babèlia Books & Coffee,Babèlia Books & Coffee,0,扩展区(Eixample),7.3,7.3,7.1
+更多美食,koyshunka,koyshunka,0,旧城区(Ciutat Vella),7.3,7.1,7.1
+更多美食,Santa Ceviche,Santa Ceviche,0,圣-蒙特惠奇(Sants-Montjuïc),7.3,7.1,7.1
+更多美食,La Trifula,La Trifula,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.3,7.1
+更多美食,Restaurant Mercedes,Restaurant Mercedes,0,Sarrià-Sant Gervasi,7.3,7.1,7.1
+更多美食,filferro,filferro,0,,7.2,7.2,7.2
+更多美食,Restaurant Els Ocellets,Restaurant Els Ocellets,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,La Clara Restaurant,La Clara Restaurant,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Restaurante Retorno,Restaurante Retorno,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Un Posto Al Sole,Un Posto Al Sole,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Restaurante Taktika Berri,Restaurante Taktika Berri,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,La Taverna del Clinic,La Taverna del Clinic,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,hanoi,hanoi,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Semproniana,Semproniana,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,La Camarga,La Camarga,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Crusto,Crusto,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Ca La Nuri,Ca La Nuri,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Palacio del Flamenco,Palacio del Flamenco,0,扩展区(Eixample),6.8,7.2,7.2
+更多美食,Laie Libreria Cafe,Laie Libreria Cafe,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Zaatar Vegetariano,Zaatar Vegetariano,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Ajoblanco Tapas-Restaurante Cocktail&Bar,Ajoblanco Tapas-Restaurante Cocktail&Bar,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,"Sagas - Pagesos, Cuiners & Co.","Sagas - Pagesos, Cuiners & Co.",0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Restaurante El Paraguayo,Restaurante El Paraguayo,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,iposa,iposa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Tapas Royale,Tapas Royale,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Rossini,Rossini,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Cafe Ocana,Cafe Ocana,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Restaurante Romesco,Restaurante Romesco,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Forns del Pi,Forns del Pi,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Juicy Jones,Juicy Jones,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Restaurante Papitu,Restaurante Papitu,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Sagarra,Sagarra,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Menage a Trois,Menage a Trois,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,ATN Restaurant,ATN Restaurant,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,FARGA Gran Via,FARGA Gran Via,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Los Pergaminos,Los Pergaminos,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Dao Kaitensushi,Dao Kaitensushi,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,L'Ascensor,L'Ascensor,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Teranga,Teranga,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Neri,Neri,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,La Vinya del Senyor,La Vinya del Senyor,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,La Carassa,La Carassa,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Carpe Diem Lounge Club,Carpe Diem Lounge Club,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,La Tinaja,La Tinaja,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Restaurante Txirimiri,Restaurante Txirimiri,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Ikkiu,Ikkiu,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Betawi,Betawi,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Pim Pam Burger,Pim Pam Burger,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,El Bestiari,El Bestiari,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Dans Le Noir,Dans Le Noir,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Can Lluis,Can Lluis,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Kapadokya,Kapadokya,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Organic,Organic,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Bouzu,Bouzu,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Marmalade,Marmalade,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Mam i teca,Mam i teca,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Veggie Garden,Veggie Garden,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Restaurante L'hortet,Restaurante L'hortet,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,7 Sins,7 Sins,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Vinilo,Vinilo,0,旧城区(Ciutat Vella),7.2,7.2,7.2
+更多美食,Taverna La Parra,Taverna La Parra,0,圣-蒙特惠奇(Sants-Montjuïc),7.2,7.2,7.2
+更多美食,Dime,Dime,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Nuba,Nuba,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Ken Restaurante,Ken Restaurante,0,Sarrià-Sant Gervasi,7.2,7.2,6.8
+更多美食,Restaurante Octubre 18,Restaurante Octubre 18,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,A Contraluz,A Contraluz,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,antigua,antigua,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Bodega Granados,Bodega Granados,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Habaluc,Habaluc,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,Restaurante Mirablau,Restaurante Mirablau,0,Sarrià-Sant Gervasi,7.2,7.2,7.2
+更多美食,La Orquidea,La Orquidea,0,圣马蒂(Sant Martí),7.2,7.2,7.2
+更多美食,La Cervesera Artesana,La Cervesera Artesana,0,恩典区(Gràcia),6.8,7.2,7.2
+更多美食,Restaurante El Patio Latino,Restaurante El Patio Latino,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,Restaurante La Singular,Restaurante La Singular,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,Restaurante Sol Soler,Restaurante Sol Soler,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,Restaurante Envalira,Restaurante Envalira,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,Arrosseria Xativa,Arrosseria Xativa,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,Restaurante Salambo,Restaurante Salambo,0,恩典区(Gràcia),7.2,7.2,7.2
+更多美食,A canto,A canto,0,勒科尔茨(Les Corts),0.0,0.0,0.0
+更多美食,Fragments cafe,Fragments cafe,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+更多美食,La Tagliatella,La Tagliatella,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+更多美食,Negro,Negro,0,勒科尔茨(Les Corts),7.2,7.2,7.2
+更多美食,El Senorio,El Senorio,0,扩展区(Eixample),7.2,7.2,7.2
+更多美食,Bar Kasparo,Bar Kasparo,0,其他,7.2,7.2,7.2
+更多美食,Fenicia,Fenicia,0,,7.2,7.2,7.2
+更多美食,Bar Ra,Bar Ra,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+更多美食,Corcega,Corcega,0,扩展区(Eixample),0.0,0.0,0.0
+更多美食,los Anos Locos,los Anos Locos,0,Sarrià-Sant Gervasi,0.0,0.0,0.0
+更多美食,Ovella Negra,Ovella Negra,0,圣马蒂(Sant Martí),0.0,0.0,0.0
+更多美食,Restaurante Rincon de Aragon,Restaurante Rincon de Aragon,0,旧城区(Ciutat Vella),0.0,0.0,0.0
+更多美食,Pizzeria El Uru,Pizzeria El Uru,0,其他,6.9,6.9,6.9
+更多美食,Celler de Ronda,Celler de Ronda,0,其他,7.1,7.1,7.1
+更多美食,El Drac de Sant Jordi,El Drac de Sant Jordi,0,其他,6.9,6.9,6.9
+更多美食,El Refugio del Puerto,El Refugio del Puerto,0,,7.1,7.1,7.1
+更多美食,Rumbanroll,Rumbanroll,0,,7.1,7.1,7.1
+更多美食,22,22,0,,6.9,6.9,6.9
+更多美食,Ca la Montse,Ca la Montse,0,,7.1,7.1,7.1
+更多美食,Pasatapas Barcelona,Pasatapas Barcelona,0,,6.9,6.9,6.9
+更多美食,El Sexto Continente,El Sexto Continente,0,,7.1,7.1,7.1
+更多美食,Restaurante Spicca,Restaurante Spicca,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,L,L,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,El Cafe d'en Victor i Anna,El Cafe d'en Victor i Anna,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Druida,Druida,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Galicia,Galicia,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Casa Lucio,Casa Lucio,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,El Ambiente del Sur,El Ambiente del Sur,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Bar Rosso,Bar Rosso,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,El Rebost Iberic,El Rebost Iberic,0,扩展区(Eixample),7.1,7.1,6.8
+更多美食,Planet Cafe,Planet Cafe,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,bacco,bacco,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Can Pollastre,Can Pollastre,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Rocafe,Restaurante Rocafe,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Menjador Casa de Comidas,Menjador Casa de Comidas,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Orotava,Orotava,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Caballito blanco,Caballito blanco,0,扩展区(Eixample),7.1,7.1,6.8
+更多美食,Hanoi II,Hanoi II,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,Restaurante Sorrento,Restaurante Sorrento,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Il Rigoletto Da Ciro,Il Rigoletto Da Ciro,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,vinyaroel,vinyaroel,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Terrat Rooftop,Terrat Rooftop,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Aixopluc,Aixopluc,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Sant Jordi,Restaurante Sant Jordi,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante El Barkito,Restaurante El Barkito,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,I Sapori d'Italia,I Sapori d'Italia,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Valentin,Valentin,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,DADA Cafe Barcelona,DADA Cafe Barcelona,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Solera Gallega,Solera Gallega,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,La Taberneta,La Taberneta,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Felt Lounge,Felt Lounge,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Les Gens Que L'Aime Pub,Les Gens Que L'Aime Pub,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,La Delizia,La Delizia,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Colmado Murria,Colmado Murria,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Mas I Mas,Mas I Mas,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Fishh!,Fishh!,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Can Punyetes,Can Punyetes,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Gimlet,Gimlet,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Las Cazuelitas Mexicanas,Las Cazuelitas Mexicanas,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,DOLCE & VITA,DOLCE & VITA,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Gurqui,Gurqui,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Restaurante Mandongo,Restaurante Mandongo,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,BCGB Bar Restaurante Centro Gallego Barcelona,BCGB Bar Restaurante Centro Gallego Barcelona,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Ramblaquarantau,Ramblaquarantau,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Zzumo Mas Barcelona,Zzumo Mas Barcelona,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Cafe Puda Manel,Cafe Puda Manel,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Leticia,Leticia,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,La Duquesa,La Duquesa,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Bar Karpanta,Bar Karpanta,0,旧城区(Ciutat Vella),7.1,7.0,6.9
+更多美食,CLASSIC GOTIC,CLASSIC GOTIC,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Refresca Tea,Refresca Tea,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Cafe Milans,Cafe Milans,0,旧城区(Ciutat Vella),7.0,7.1,7.0
+更多美食,La Ria Taberna,La Ria Taberna,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多美食,Pei Mong,Pei Mong,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Restaurante Can Gabi,Restaurante Can Gabi,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Tostaderos Bon Mercat,Tostaderos Bon Mercat,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,El Soplo,El Soplo,0,旧城区(Ciutat Vella),7.0,7.1,7.1
+更多美食,kankanbar,kankanbar,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,La Musa de la Cuina,La Musa de la Cuina,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Copetin,Copetin,0,旧城区(Ciutat Vella),6.8,7.1,7.1
+更多美食,Miramelindo,Miramelindo,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Sunrise Doner Kebab,Sunrise Doner Kebab,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Arcangelo Burger,Arcangelo Burger,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Formatgeria Simo,Formatgeria Simo,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Vintage,Vintage,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Bocatta,Bocatta,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Ciudadela Park,Ciudadela Park,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Triptic,Triptic,0,旧城区(Ciutat Vella),7.1,7.1,7.0
+更多美食,La Llotja,La Llotja,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,La Monroe,La Monroe,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Madame Jazmine,Madame Jazmine,0,旧城区(Ciutat Vella),7.1,6.8,7.1
+更多美食,Eat Caribbean,Eat Caribbean,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Bar-Restaurante Muy Buenas,Bar-Restaurante Muy Buenas,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Bar Amistat Premia,Bar Amistat Premia,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Bistrot BCN,Restaurante Bistrot BCN,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Aquarella,Aquarella,0,旧城区(Ciutat Vella),7.0,7.1,7.0
+更多美食,Cafe Cafe,Cafe Cafe,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Bar Estudiantil,Bar Estudiantil,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Castell del Brull,Castell del Brull,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,Bracafe Mineria. Cafes Del Brasil. Desde 1929,Bracafe Mineria. Cafes Del Brasil. Desde 1929,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+更多美食,Bar Ramallo,Bar Ramallo,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+更多美食,La Briciola,La Briciola,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,San Telmo,San Telmo,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+更多美食,Funicular,Funicular,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,Restaurante El Rinconcito del Espino,Restaurante El Rinconcito del Espino,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+更多美食,Raco del Madu,Raco del Madu,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+更多美食,Restaurante Oliveta,Restaurante Oliveta,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,Restaurante Xandri,Restaurante Xandri,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,6.9
+更多美食,Moncau Restaurant Bar,Moncau Restaurant Bar,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+更多美食,Terra d'Escudella,Terra d'Escudella,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,Pizzeria Ciao,Pizzeria Ciao,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+更多美食,Lolita,Lolita,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.1
+更多美食,Restaurante Gran Galicia,Restaurante Gran Galicia,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.3,7.1
+更多美食,Restaurant Hydrogen,Restaurant Hydrogen,0,圣-蒙特惠奇(Sants-Montjuïc),7.1,7.1,7.0
+更多美食,Volcan Dorado,Volcan Dorado,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+更多美食,A nosa casa,A nosa casa,0,圣-蒙特惠奇(Sants-Montjuïc),6.9,6.9,6.9
+更多美食,Farga Beethoven,Farga Beethoven,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,keik,keik,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,Le Quattro Stagioni,Le Quattro Stagioni,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,mariona,mariona,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,5 Hermanos,5 Hermanos,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,el pa torrat,el pa torrat,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,gouthier,gouthier,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,Bistrot de Bruno,Bistrot de Bruno,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+更多美食,La Rectoria De Palou,La Rectoria De Palou,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,Restaurante Casi Casi,Restaurante Casi Casi,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+更多美食,Bar Treze,Bar Treze,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,Buenas Migas,Buenas Migas,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,Albert Llarden Pastisser,Albert Llarden Pastisser,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+更多美食,Yamana Cafe & Bar,Yamana Cafe & Bar,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,Degustacions Padua,Degustacions Padua,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+更多美食,Bar Mandri,Bar Mandri,0,Sarrià-Sant Gervasi,7.1,7.1,7.1
+更多美食,Cenario,Cenario,0,Sarrià-Sant Gervasi,6.9,6.9,6.9
+更多美食,Restaurante Kuletos,Restaurante Kuletos,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,El Rustic,El Rustic,0,圣马蒂(Sant Martí),7.1,7.1,6.9
+更多美食,Jamon Jamon,Jamon Jamon,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,Restaurante Sumo,Restaurante Sumo,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Via 45,Via 45,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,El Roble,El Roble,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,La Birreria,La Birreria,0,恩典区(Gràcia),7.0,7.1,7.0
+更多美食,Musta Shawarma,Musta Shawarma,0,恩典区(Gràcia),7.1,7.0,7.0
+更多美食,Restaurant Beefshop,Restaurant Beefshop,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,tacabanda,tacabanda,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,Maxi Restaurante,Maxi Restaurante,0,恩典区(Gràcia),7.1,7.1,6.8
+更多美食,Restaurante Adonis,Restaurante Adonis,0,恩典区(Gràcia),7.1,6.8,7.1
+更多美食,Restaurante Sporting,Restaurante Sporting,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,Amir De Nit,Amir De Nit,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,Mirasol,Mirasol,0,恩典区(Gràcia),6.9,6.9,6.9
+更多美食,Pizzeria Lucania Ii,Pizzeria Lucania Ii,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,Rustico,Rustico,0,恩典区(Gràcia),6.9,6.9,6.9
+更多美食,Amrit,Amrit,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,Equinox Verdi,Equinox Verdi,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,La Taina,La Taina,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,Cafe Camelia,Cafe Camelia,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,Restaurante Namaskar Nepal,Restaurante Namaskar Nepal,0,恩典区(Gràcia),7.1,7.1,7.1
+更多美食,El Raco de Dalt,El Raco de Dalt,0,恩典区(Gràcia),6.9,6.9,6.9
+更多美食,L'altre caliu,L'altre caliu,0,勒科尔茨(Les Corts),7.1,7.1,7.0
+更多美食,La Tarantella Les Corts Barcelona,La Tarantella Les Corts Barcelona,0,勒科尔茨(Les Corts),6.9,6.9,6.9
+更多美食,Verd and Co de Barcelona,Verd and Co de Barcelona,0,勒科尔茨(Les Corts),7.1,6.8,7.1
+更多美食,L'Arrosseria Xàtiva,L'Arrosseria Xàtiva,0,勒科尔茨(Les Corts),7.1,7.1,7.1
+更多美食,La Cantina Mexicana,La Cantina Mexicana,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Restaurante Casa Julio,Restaurante Casa Julio,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Yogufruta,Yogufruta,0,扩展区(Eixample),7.1,7.0,7.0
+更多美食,Restaurante Trencadis,Restaurante Trencadis,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,Tasta'mm Bodega,Tasta'mm Bodega,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Restaurante Can Alma,Restaurante Can Alma,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Baci d'Angelo Confiteria Artesanal Europea,Baci d'Angelo Confiteria Artesanal Europea,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,La Queixalada D'en Marcelino,La Queixalada D'en Marcelino,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Brut Bar's,Brut Bar's,0,圣马蒂(Sant Martí),7.1,7.1,7.0
+更多美食,Asagaya,Asagaya,0,扩展区(Eixample),7.1,7.0,7.0
+更多美食,Xiringuito.aigua,Xiringuito.aigua,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.0,7.1
+更多美食,Tradicion Moderna,Tradicion Moderna,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.1,7.1
+更多美食,La Gamba Roja,La Gamba Roja,0,奥尔塔-吉纳德(Horta-Guinardó),6.9,6.9,6.9
+更多美食,Il trastevere,Il trastevere,0,奥尔塔-吉纳德(Horta-Guinardó),7.1,7.1,7.1
+更多美食,Farggi,Farggi,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,Bambu Beach Bar,Bambu Beach Bar,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,La Boheme Cafe,La Boheme Cafe,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Library Lounge,Library Lounge,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,La Collita,La Collita,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,Restaurante Moreno,Restaurante Moreno,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Singular food,Singular food,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,mo-ma,mo-ma,0,圣马蒂(Sant Martí),6.9,6.9,6.9
+更多美食,Bar Bharma,Bar Bharma,0,圣马蒂(Sant Martí),7.1,7.1,7.1
+更多美食,Restaurante Atipic,Restaurante Atipic,0,其他,7.1,7.1,7.0
+更多美食,Pizza Ravalo,Pizza Ravalo,0,其他,7.1,6.8,7.1
+更多美食,Xalana Bar Restaurante,Xalana Bar Restaurante,0,,7.1,7.1,7.1
+更多美食,Fujiyama,Fujiyama,0,圣安德鲁(Sant Andreu),7.1,7.0,6.9
+更多美食,La Frontera,La Frontera,0,圣安德鲁(Sant Andreu),6.9,6.9,6.9
+更多美食,Marisqueria Esthvan,Marisqueria Esthvan,0,圣安德鲁(Sant Andreu),6.9,6.9,6.9
+更多美食,Sapore di Mare,Sapore di Mare,0,圣安德鲁(Sant Andreu),7.1,7.1,7.1
+更多美食,Freak & DO,Freak & DO,0,圣安德鲁(Sant Andreu),7.1,7.1,7.1
+更多美食,Rodri,Rodri,0,诺巴里斯(Nou Barris),6.9,6.9,6.9
+更多美食,Maria Gloria Criado Balastegui,Maria Gloria Criado Balastegui,0,诺巴里斯(Nou Barris),6.9,6.9,6.9
+更多美食,Quesbo,Quesbo,0,诺巴里斯(Nou Barris),6.9,6.9,6.9
+更多美食,La Forquilla,La Forquilla,0,诺巴里斯(Nou Barris),6.9,6.9,6.9
+更多美食,La Piccola Roma,La Piccola Roma,0,诺巴里斯(Nou Barris),7.0,7.1,7.0
+更多美食,Hermanos Tomas,Hermanos Tomas,0,诺巴里斯(Nou Barris),7.1,7.1,7.1
+更多美食,Restaurant L'Anxova,Restaurant L'Anxova,0,其他,6.9,6.9,6.9
+更多美食,Fenix Lounge,Fenix Lounge,0,其他,6.9,6.9,7.0
+更多美食,El Portalo de Sant Andreu,El Portalo de Sant Andreu,0,圣安德鲁(Sant Andreu),7.0,7.0,7.0
+更多美食,Boix Zal,Boix Zal,0,其他,6.9,6.9,6.9
+更多美食,Bolet - Cuina Feta,Bolet - Cuina Feta,0,其他,6.9,6.9,6.9
+更多美食,Princesa z3,Princesa z3,0,,7.0,7.0,7.0
+更多美食,Bella Istambul,Bella Istambul,0,,6.9,6.9,6.9
+更多美食,Planet Rous,Planet Rous,0,,6.9,6.9,6.9
+更多美食,La Donuteria,La Donuteria,0,扩展区(Eixample),7.1,7.0,7.0
+更多美食,Tootsie,Tootsie,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Gran Época,Gran Época,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Qbobcn,Qbobcn,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Maur,Maur,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Restaurante Vilarroel 100,Restaurante Vilarroel 100,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Yasmin,Restaurante Yasmin,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Kaduxe,Kaduxe,0,扩展区(Eixample),7.0,6.9,7.0
+更多美食,"Snack Bar Bassy, Barcelona","Snack Bar Bassy, Barcelona",0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Genova Milano,Genova Milano,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Bacus Restaurante,Bacus Restaurante,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,El Llagar de Granda,El Llagar de Granda,0,扩展区(Eixample),7.0,6.9,7.0
+更多美食,Bonita Lounge,Bonita Lounge,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Japones Miu,Restaurante Japones Miu,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Cafe Lateral,Cafe Lateral,0,扩展区(Eixample),6.9,7.0,7.0
+更多美食,Posto Pubblico,Posto Pubblico,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,El Jardin de Oro,El Jardin de Oro,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Corce 193,Restaurante Corce 193,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante&Wine Bar,Restaurante&Wine Bar,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,nono,nono,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,El Raco d'en Balta,El Raco d'en Balta,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Restaurante Lazaro,Restaurante Lazaro,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Restaurante El Ejecutivo,Restaurante El Ejecutivo,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Crepsi Coffee,Crepsi Coffee,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Inti Barcelona,Inti Barcelona,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante As Neves,Restaurante As Neves,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Bo-de-debo Bar,Bo-de-debo Bar,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Bon,Bon,0,扩展区(Eixample),7.1,7.0,7.0
+更多美食,Restaurante O,Restaurante O,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Granja Bruselas,Granja Bruselas,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Can Buj,Can Buj,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,La Mostra,La Mostra,0,扩展区(Eixample),7.1,7.1,7.1
+更多美食,La despensa de Laforja,La despensa de Laforja,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Restaurant Atlas,Restaurant Atlas,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Alboran,Alboran,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Faustino Estevez Alvarez,Faustino Estevez Alvarez,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,El Mar Cucine,El Mar Cucine,0,扩展区(Eixample),6.9,6.9,6.9
+更多美食,Restaurante Bellaterra,Restaurante Bellaterra,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,Subway,Subway,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多美食,Ala Turca,Ala Turca,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Genaro Degustacio',Genaro Degustacio',0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多美食,Organic Tapas,Organic Tapas,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多美食,Anima,Anima,0,旧城区(Ciutat Vella),7.1,7.1,7.0
+更多美食,Taberna d'en Bot,Taberna d'en Bot,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,O'Pinyeiro Bar Bodega,O'Pinyeiro Bar Bodega,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,La Tete,La Tete,0,旧城区(Ciutat Vella),7.1,7.0,7.0
+更多美食,La Cereria,La Cereria,0,旧城区(Ciutat Vella),7.1,7.0,7.0
+更多美食,Shinjuku,Shinjuku,0,旧城区(Ciutat Vella),7.1,7.0,7.0
+更多美食,Restaurante Meliton,Restaurante Meliton,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Con K,Con K,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Nicasso,Nicasso,0,旧城区(Ciutat Vella),7.0,7.1,7.0
+更多美食,alastruey,alastruey,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多美食,Upicasso Bar,Upicasso Bar,0,旧城区(Ciutat Vella),6.9,7.0,7.0
+更多美食,Bar Joan,Bar Joan,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多美食,Alter ego,Alter ego,0,旧城区(Ciutat Vella),6.9,7.0,6.9
+更多美食,La Focaccia,La Focaccia,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,Montana,Montana,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,El Raco de L'Alba,El Raco de L'Alba,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,La Rioja Barcelona Bar,La Rioja Barcelona Bar,0,旧城区(Ciutat Vella),7.1,7.1,7.1
+更多美食,Casa Blanca,Casa Blanca,0,扩展区(Eixample),7.0,7.0,7.0
+更多美食,hiposa,hiposa,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多美食,PopUp Restaurant Barcelona,PopUp Restaurant Barcelona,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,original pizza,original pizza,0,旧城区(Ciutat Vella),7.0,6.7,6.9
+更多美食,Betty Ford's,Betty Ford's,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多美食,Bar Pizzería Pepe,Bar Pizzería Pepe,0,旧城区(Ciutat Vella),6.9,6.9,6.9
+更多美食,C3 bar,C3 bar,0,旧城区(Ciutat Vella),7.0,7.0,7.0
+更多美食,Salzburg Cerveceria,Salzburg Cerveceria,0,旧城区(Ciutat Vella),7.0,7.0,6.9
+更多美食,Terra Gourmet,Terra Gourmet,0,圣-蒙特惠奇(Sants-Montjuïc),7.0,7.0,7.0
+更多美食,Telepizza,Telepizza,0,勒科尔茨(Les Corts),6.9,6.9,6.9

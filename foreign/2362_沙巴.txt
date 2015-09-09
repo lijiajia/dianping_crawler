@@ -1,0 +1,443 @@
+东南亚菜,新记肉骨茶,新记肉骨茶,35,,8.7,7.4,8.3
+东南亚菜,冯业,冯业,26,,8.4,7.8,7.9
+东南亚菜,五星海南家乡鸡饭和烧腊,五星海南家乡鸡饭和烧腊,31,亚庇市中心,7.6,7.2,7.3
+东南亚菜,天桥底榴莲水果市场,天桥底榴莲水果市场,35,,8.2,6.8,7.5
+东南亚菜,怡丰茶室,怡丰茶室,19,,8.8,7.5,8.0
+东南亚菜,味雅鸡饭茶餐室,味雅鸡饭茶餐室,21,,7.9,7.0,7.6
+东南亚菜,大德古早味肉骨茶,大德古早味肉骨茶,0,,8.8,8.3,9.0
+东南亚菜,沙巴餐厅 Sabah Restoran,沙巴餐厅 Sabah Restoran,0,沙巴其他,7.5,8.4,8.4
+东南亚菜,食之秘,食之秘,34,,8.0,7.3,7.6
+东南亚菜,金记肉骨茶(金明茶室),金记肉骨茶(金明茶室),0,,8.1,7.6,8.0
+东南亚菜,旺角茶餐厅,旺角茶餐厅,21,,7.0,6.9,6.8
+东南亚菜,国民鱼滑面,国民鱼滑面,0,,7.7,7.3,7.6
+东南亚菜,肉骨茶王,肉骨茶王,0,,8.0,7.8,8.0
+东南亚菜,88肉骨茶,88肉骨茶,0,,7.1,7.1,7.8
+东南亚菜,娘惹情,娘惹情,0,,7.7,7.9,7.7
+东南亚菜,金兴利茶室,金兴利茶室,0,,7.4,6.7,7.2
+东南亚菜,Aruba Bar at First Beach,Aruba Bar at First Beach,0,,0.0,0.0,0.0
+东南亚菜,handicraft market,handicraft market,0,,6.3,6.1,6.2
+东南亚菜,Tigris Cafe,Tigris Cafe,0,,6.8,6.7,6.8
+东南亚菜,大利茶餐厅,大利茶餐厅,0,,6.8,6.7,6.8
+东南亚菜,瓊南豐茶室,瓊南豐茶室,0,,8.2,7.4,8.2
+东南亚菜,Spice Island,Spice Island,0,,0.0,0.0,0.0
+东南亚菜,Shuangtian Seafood,Shuangtian Seafood,0,,0.0,0.0,0.0
+东南亚菜,Tambayan at Kainang Filipino Beverly Hills Branch,Tambayan at Kainang Filipino Beverly Hills Branch,0,,0.0,0.0,0.0
+东南亚菜,小二肉骨茶,小二肉骨茶,0,,7.1,7.1,7.1
+东南亚菜,Kak Nong Restaurant,Kak Nong Restaurant,0,,0.0,0.0,0.0
+东南亚菜,满布海鲜饭店,满布海鲜饭店,0,仙本那,7.1,6.6,6.8
+东南亚菜,古晋,古晋,0,沙巴其他,7.0,6.7,6.7
+东南亚菜,新万泰,新万泰,0,亚庇市中心,6.8,6.4,6.4
+东南亚菜,Asian Restaurant,Asian Restaurant,0,,6.6,7.1,7.1
+东南亚菜,Cristao Cafe & Grill,Cristao Cafe & Grill,0,,0.0,0.0,0.0
+东南亚菜,大老二港式口味,大老二港式口味,0,亚庇市中心,6.4,6.4,6.4
+东南亚菜,super faczah cafeteria,super faczah cafeteria,0,亚庇市中心,6.4,6.4,6.4
+东南亚菜,Wishbone Art Cafe,Wishbone Art Cafe,0,,0.0,0.0,0.0
+东南亚菜,Sugar Bun Cafe,Sugar Bun Cafe,0,,0.0,0.0,0.0
+东南亚菜,Borneo 1945 Museum Kopitiam,Borneo 1945 Museum Kopitiam,0,,0.0,0.0,0.0
+东南亚菜,岩石咖啡屋,岩石咖啡屋,0,,0.0,0.0,0.0
+东南亚菜,Mai Yai Thai Royal Orchid Restaurant,Mai Yai Thai Royal Orchid Restaurant,0,亚庇市中心,0.0,0.0,0.0
+东南亚菜,Hua Hing Seafood Restaurant,Hua Hing Seafood Restaurant,0,,0.0,0.0,0.0
+东南亚菜,Mai Yai Thai Orchid,Mai Yai Thai Orchid,0,,0.0,0.0,0.0
+东南亚菜,Aesha Corner,Aesha Corner,0,,0.0,0.0,0.0
+东南亚菜,Kah Hiong Ngau Chap,Kah Hiong Ngau Chap,0,,0.0,0.0,0.0
+东南亚菜,Wisma BTC Restaurant,Wisma BTC Restaurant,0,,0.0,0.0,0.0
+东南亚菜,The Place,The Place,0,,0.0,0.0,0.0
+东南亚菜,Mr Ho's Fine Foods,Mr Ho's Fine Foods,0,,0.0,0.0,0.0
+东南亚菜,Circle Restaurant Le Meridien Kota Kinabalu,Circle Restaurant Le Meridien Kota Kinabalu,0,,0.0,0.0,0.0
+东南亚菜,"English Tea House & Restaurant, Kota Kinabalu","English Tea House & Restaurant, Kota Kinabalu",0,,0.0,0.0,0.0
+东南亚菜,New Rahmat Restoran,New Rahmat Restoran,0,,0.0,0.0,0.0
+东南亚菜,Bits & Bites,Bits & Bites,0,,0.0,0.0,0.0
+东南亚菜,Kampung Nelayan,Kampung Nelayan,0,,0.0,0.0,0.0
+东南亚菜,Mango Garden Restaurant,Mango Garden Restaurant,0,,0.0,0.0,0.0
+东南亚菜,Tham Nak Thai,Tham Nak Thai,0,,0.0,0.0,0.0
+东南亚菜,金糖Gam Tong(Hong Kong Recipe),金糖Gam Tong(Hong Kong Recipe),0,,0.0,0.0,0.0
+东南亚菜,金明茶室,金明茶室,0,,0.0,0.0,0.0
+东南亚菜,Restaurant Sri Melati,Restaurant Sri Melati,0,,0.0,0.0,0.0
+东南亚菜,佑记肉骨茶,佑记肉骨茶,0,亚庇市郊,0.0,0.0,0.0
+东南亚菜,spice iland,spice iland,0,,0.0,0.0,0.0
+东南亚菜,Kedai Kopi Mei Mei,Kedai Kopi Mei Mei,0,亚庇市中心,0.0,0.0,0.0
+东南亚菜,海龙城,海龙城,0,,0.0,0.0,0.0
+东南亚菜,金糖Gam Tong(Hong Kong Recipe),金糖Gam Tong(Hong Kong Recipe),0,亚庇市中心,0.0,0.0,0.0
+东南亚菜,新中华,新中华,0,,0.0,0.0,0.0
+东南亚菜,桃园餐厅,桃园餐厅,0,,0.0,0.0,0.0
+东南亚菜,Uncle Jimmy Cuisine,Uncle Jimmy Cuisine,0,,0.0,0.0,0.0
+东南亚菜,Sabah Spoon,Sabah Spoon,0,,0.0,0.0,0.0
+东南亚菜,利增茶餐厅 Legend Coffee Tea,利增茶餐厅 Legend Coffee Tea,0,,0.0,0.0,0.0
+马来小吃,一品烧腊,一品烧腊,0,,7.7,7.6,8.3
+马来小吃,Wrapped,Wrapped,0,沙巴其他,0.0,0.0,0.0
+海鲜,大茄来海鲜餐厅,大茄来海鲜餐厅,117,,9.1,7.9,8.3
+海鲜,双天海鲜楼,双天海鲜楼,142,,9.0,7.5,8.1
+海鲜,华兴海鲜楼,华兴海鲜楼,145,,8.9,7.5,8.3
+海鲜,渔人码头,渔人码头,166,,9.1,9.1,9.1
+海鲜,食唯鲜,食唯鲜,144,,9.1,9.0,9.1
+海鲜,金陵生猛海鲜饭檔,金陵生猛海鲜饭檔,124,,8.2,7.3,8.1
+海鲜,珍珠海鲜酒家,珍珠海鲜酒家,134,,7.0,6.6,7.4
+海鲜,龙虾王,龙虾王,0,,8.6,8.0,8.4
+海鲜,海王城,海王城,175,,7.3,7.2,7.1
+海鲜,Tanjung Aru Seafood Restaurant,Tanjung Aru Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,金宝海鲜餐厅,金宝海鲜餐厅,0,沙巴其他,7.9,7.3,7.6
+海鲜,佳扬海鲜餐厅,佳扬海鲜餐厅,0,,8.2,8.2,8.2
+海鲜,Gayang Seafood Restaurant,Gayang Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,IKAN IKAN SEAFOOD RESTAURANT,IKAN IKAN SEAFOOD RESTAURANT,0,,7.3,6.9,7.2
+海鲜,海中宝餐厅,海中宝餐厅,0,,6.5,7.3,7.0
+海鲜,晶喜海鲜楼,晶喜海鲜楼,0,,8.1,7.9,8.1
+海鲜,森森海鲜,森森海鲜,0,,7.1,6.7,6.9
+海鲜,肥妈,肥妈,0,仙本那,7.7,7.4,7.5
+海鲜,馥苑海鲜酒家,馥苑海鲜酒家,0,,0.0,0.0,0.0
+海鲜,海王城,海王城,0,,0.0,0.0,0.0
+海鲜,天旺海鲜酒楼,天旺海鲜酒楼,0,仙本那,7.2,6.8,7.2
+海鲜,Sabah Fish Marketing Sdn Bhd,Sabah Fish Marketing Sdn Bhd,0,,8.3,7.3,7.3
+海鲜,Welcome Seafood Restaurant,Welcome Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,不夜天海鲜楼,不夜天海鲜楼,0,,5.9,5.9,6.7
+海鲜,古村海鲜餐厅,古村海鲜餐厅,0,沙巴其他,5.4,5.4,5.4
+海鲜,天下客海鲜楼,天下客海鲜楼,0,,7.5,7.5,7.7
+海鲜,隆美茶餐室,隆美茶餐室,0,,7.5,6.7,7.4
+海鲜,美香海鲜,美香海鲜,0,沙巴其他,7.2,7.0,6.8
+海鲜,Grand Portview Restaurant,Grand Portview Restaurant,0,,0.0,0.0,0.0
+海鲜,Salut Seafood Restaurant,Salut Seafood Restaurant,0,,7.4,7.4,7.4
+海鲜,田老爷城市海鲜餐厅,田老爷城市海鲜餐厅,0,,7.7,7.2,6.8
+海鲜,罗叔私房菜,罗叔私房菜,0,,7.4,7.4,7.4
+海鲜,Chinese Restaurant,Chinese Restaurant,0,,6.7,6.7,6.7
+海鲜,肥妈海鲜楼,肥妈海鲜楼,0,,7.7,7.2,7.2
+海鲜,Wee Kee,Wee Kee,0,,7.1,7.1,7.0
+海鲜,晶喜海鲜楼(香港),晶喜海鲜楼(香港),0,,7.7,7.2,7.7
+海鲜,Kedai Makan Pukat,Kedai Makan Pukat,0,沙巴其他,0.0,0.0,0.0
+海鲜,Alu Alu Cafe,Alu Alu Cafe,0,,0.0,0.0,0.0
+海鲜,Sri Maju Steamboat,Sri Maju Steamboat,0,,0.0,0.0,0.0
+海鲜,Windbell Seafood Restaurant,Windbell Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Lobster King Seafood Restaurant,Lobster King Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Twin-Sky Seafood Restaurant,Twin-Sky Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Ocean King,Ocean King,0,,0.0,0.0,0.0
+海鲜,Sim Sim Seafood,Sim Sim Seafood,0,沙巴其他,0.0,0.0,0.0
+海鲜,Sri Tanjung,Sri Tanjung,0,,0.0,0.0,0.0
+海鲜,Maxim's Seafood Restaurant,Maxim's Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Luyang Seafood Restaurant,Luyang Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Restoran Seafood Sim-Sim 88,Restoran Seafood Sim-Sim 88,0,沙巴其他,0.0,0.0,0.0
+海鲜,Salut Seafood,Salut Seafood,0,,0.0,0.0,0.0
+海鲜,Be ringgits Seafood Restaurant,Be ringgits Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Ikan Ikan Live Seafood Restaurant,Ikan Ikan Live Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Trig Hill Restaurant,Trig Hill Restaurant,0,沙巴其他,0.0,0.0,0.0
+海鲜,Ocean Treasure Live Seafood Restaurant,Ocean Treasure Live Seafood Restaurant,0,沙巴其他,0.0,0.0,0.0
+海鲜,Port View Seafood Village,Port View Seafood Village,0,,0.0,0.0,0.0
+海鲜,Old Village Seafood Restaurant,Old Village Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Grand Port View Seafood Restaurant Sdn Bhd,Grand Port View Seafood Restaurant Sdn Bhd,0,,0.0,0.0,0.0
+海鲜,凯达库板山兴,凯达库板山兴,0,,0.0,0.0,0.0
+海鲜,Port View Seafood Village Sdn. Bhd.,Port View Seafood Village Sdn. Bhd.,0,,0.0,0.0,0.0
+海鲜,新阿拉法特餐馆,新阿拉法特餐馆,0,,0.0,0.0,0.0
+海鲜,Fung Seng Seafood Supplier Sdn. Bhd.,Fung Seng Seafood Supplier Sdn. Bhd.,0,,0.0,0.0,0.0
+海鲜,Global Ocean Seafood Sdn. Bhd.,Global Ocean Seafood Sdn. Bhd.,0,,0.0,0.0,0.0
+海鲜,S L Seafood Products Sdn. Bhd.,S L Seafood Products Sdn. Bhd.,0,,0.0,0.0,0.0
+海鲜,天旺海鲜楼,天旺海鲜楼,0,,0.0,0.0,0.0
+海鲜,Tangerine restaurant,Tangerine restaurant,0,,0.0,0.0,0.0
+海鲜,Lucky Seafood Restaurant,Lucky Seafood Restaurant,0,沙巴其他,0.0,0.0,0.0
+海鲜,Atlantis Seafood Restaurant,Atlantis Seafood Restaurant,0,沙巴其他,0.0,0.0,0.0
+海鲜,Deep Sea Seafood Restaurant Sdn. Bhd.,Deep Sea Seafood Restaurant Sdn. Bhd.,0,,0.0,0.0,0.0
+海鲜,Fook Soon Seafood Cold Storage,Fook Soon Seafood Cold Storage,0,,0.0,0.0,0.0
+海鲜,美人鱼的梦Mantanani Dream,美人鱼的梦Mantanani Dream,0,沙巴其他,0.0,0.0,0.0
+中餐,老街沙巴特產專賣店,老街沙巴特產專賣店,50,亚庇市区,8.6,8.2,8.2
+中餐,金沙园生肉面,金沙园生肉面,17,,8.1,7.2,7.9
+中餐,知味海鲜餐厅,知味海鲜餐厅,0,,7.8,7.5,8.3
+中餐,洪金买饭店,洪金买饭店,0,,7.7,6.9,7.3
+中餐,Five Sails,Five Sails,0,,7.5,7.7,7.5
+中餐,家香生肉面,家香生肉面,0,,7.5,7.3,7.3
+中餐,峰粥,峰粥,0,,8.2,8.2,8.2
+中餐,猪脚王,猪脚王,0,沙巴其他,7.7,7.7,7.7
+中餐,简铺寨土菜馆,简铺寨土菜馆,0,,6.9,6.9,6.9
+中餐,banana餐厅,banana餐厅,0,,6.7,6.7,7.4
+中餐,Good Taste Restaurant,Good Taste Restaurant,0,,0.0,0.0,0.0
+中餐,The Chinese Restaurant,The Chinese Restaurant,0,,0.0,0.0,0.0
+中餐,Kedai Kopi Wah Juan,Kedai Kopi Wah Juan,0,,0.0,0.0,0.0
+中餐,Penang Food Centre,Penang Food Centre,0,,0.0,0.0,0.0
+中餐,Super Tanker,Super Tanker,0,沙巴其他,0.0,0.0,0.0
+中餐,Harbour Garden Cafe,Harbour Garden Cafe,0,沙巴其他,0.0,0.0,0.0
+中餐,Gam Tong HONGKONG restaurant,Gam Tong HONGKONG restaurant,0,,0.0,0.0,0.0
+中餐,New Man Tai,New Man Tai,0,,0.0,0.0,0.0
+中餐,Ming Ge Cafe,Ming Ge Cafe,0,,0.0,0.0,0.0
+中餐,Leslie Cafe,Leslie Cafe,0,,0.0,0.0,0.0
+中餐,Port View Seafood Village,Port View Seafood Village,0,,0.0,0.0,0.0
+中餐,Xing Wan Pan Mien,Xing Wan Pan Mien,0,,0.0,0.0,0.0
+中餐,东方茶餐厅,东方茶餐厅,0,,0.0,0.0,0.0
+中餐,家嫂肉菇板面,家嫂肉菇板面,0,,0.0,0.0,0.0
+中餐,丽雅四川菜馆,丽雅四川菜馆,0,亚庇市中心,0.0,0.0,0.0
+中餐,手工面,手工面,0,亚庇市区,0.0,0.0,0.0
+日韩料理,Hi Seoul Korean Restaurant,Hi Seoul Korean Restaurant,0,,7.0,7.0,7.0
+日韩料理,Michi Japanese Restaurant 1 Borneo Hypermall,Michi Japanese Restaurant 1 Borneo Hypermall,0,,0.0,0.0,0.0
+日韩料理,Koreana Restaurant,Koreana Restaurant,0,,0.0,0.0,0.0
+日韩料理,Koganei Japanese Restaurant,Koganei Japanese Restaurant,0,,0.0,0.0,0.0
+西式正餐,English Tea House & Restaurant,English Tea House & Restaurant,0,,0.0,0.0,0.0
+西式正餐,Scuba Junkie Restaurant,Scuba Junkie Restaurant,0,沙巴其他,0.0,0.0,0.0
+西式正餐,Harbour Bistro Cafe,Harbour Bistro Cafe,0,沙巴其他,0.0,0.0,0.0
+西式正餐,d'Northstar Bistro,d'Northstar Bistro,0,沙巴其他,0.0,0.0,0.0
+西式正餐,Palomino,Palomino,0,沙巴其他,0.0,0.0,0.0
+西式正餐,A'Roma Ristorante,A'Roma Ristorante,0,亚庇市中心,0.0,0.0,0.0
+西式快餐,佑记肉骨茶,佑记肉骨茶,34,,8.1,7.0,7.3
+西式快餐,Old Town White Coffee Karamunsing,Old Town White Coffee Karamunsing,21,,7.4,7.3,7.1
+西式快餐,KFC Kkia TerminAl 2,KFC Kkia TerminAl 2,0,,7.4,6.7,6.7
+西式快餐,娘惹屋,娘惹屋,0,,7.1,7.1,7.5
+西式快餐,First Beach Cafe,First Beach Cafe,0,,7.5,6.9,6.3
+西式快餐,KFC (Sabah) Sdn. Bhd.,KFC (Sabah) Sdn. Bhd.,0,沙巴其他,7.8,7.5,7.4
+西式快餐,Old Town White Coffee City Mall,Old Town White Coffee City Mall,0,,7.5,7.5,7.5
+西式快餐,The Coffee Bean & Tea Leaf Damai,The Coffee Bean & Tea Leaf Damai,0,,8.3,8.1,7.5
+西式快餐,Berjaya Starbucks Coffee Co Sdn Bhd,Berjaya Starbucks Coffee Co Sdn Bhd,0,,7.4,7.4,7.3
+西式快餐,Al Fresco,Al Fresco,0,,0.0,0.0,0.0
+西式快餐,Pizza Hut Gaya Street,Pizza Hut Gaya Street,0,,7.2,7.0,7.0
+西式快餐,Pizza Hut Restaurant Sdn. Bhd.,Pizza Hut Restaurant Sdn. Bhd.,0,,6.8,6.8,6.8
+西式快餐,McDonald's @ Jalan Sulaman,McDonald's @ Jalan Sulaman,0,,7.1,7.1,7.1
+西式快餐,KFC @ Taman Indah Permai,KFC @ Taman Indah Permai,0,,7.0,6.9,7.0
+西式快餐,Pizza Hut Plaza Damai,Pizza Hut Plaza Damai,0,,8.3,8.3,8.3
+西式快餐,Mcdonald's Api-Api Centre,Mcdonald's Api-Api Centre,0,,6.9,6.9,6.9
+西式快餐,Manggomlx,Manggomlx,0,,6.8,7.1,6.8
+西式快餐,Pasta Pasta,Pasta Pasta,0,,0.0,0.0,0.0
+西式快餐,McDonald's @ Kkia,McDonald's @ Kkia,0,,6.1,6.7,6.7
+西式快餐,KFC Papar,KFC Papar,0,沙巴其他,7.1,7.1,7.1
+西式快餐,Dome Cafe,Dome Cafe,0,,7.1,7.1,7.1
+西式快餐,KFC @ One Borneo,KFC @ One Borneo,0,,6.7,6.9,6.9
+西式快餐,BOMBERS BURGER,BOMBERS BURGER,0,,0.0,0.0,0.0
+西式快餐,Party Play Lifestyle Cafe,Party Play Lifestyle Cafe,0,,0.0,0.0,0.0
+西式快餐,Kenny Rogers Roasters,Kenny Rogers Roasters,0,,0.0,0.0,0.0
+西式快餐,Borneo Restaurant,Borneo Restaurant,0,,0.0,0.0,0.0
+西式快餐,Starbucks,Starbucks,0,,0.0,0.0,0.0
+西式快餐,Classic Hours Cafe & Dining,Classic Hours Cafe & Dining,0,沙巴其他,0.0,0.0,0.0
+西式快餐,Kafe Kaki5,Kafe Kaki5,0,,0.0,0.0,0.0
+西式快餐,Fressh Juice Cafe / Bar / Take Away,Fressh Juice Cafe / Bar / Take Away,0,,0.0,0.0,0.0
+西式快餐,Ooze by Hing's Corner,Ooze by Hing's Corner,0,,0.0,0.0,0.0
+西式快餐,Hot Rod Sausage House and Beer Garden,Hot Rod Sausage House and Beer Garden,0,,0.0,0.0,0.0
+西式快餐,CHUB's Grill,CHUB's Grill,0,,0.0,0.0,0.0
+西式快餐,Brooklyn Restaurant,Brooklyn Restaurant,0,,0.0,0.0,0.0
+西式快餐,Pizza Hut Kota Kinabalu,Pizza Hut Kota Kinabalu,0,,0.0,0.0,0.0
+西式快餐,新来兴茶室,新来兴茶室,0,沙巴其他,0.0,0.0,0.0
+西式快餐,Soho Cafe,Soho Cafe,0,,0.0,0.0,0.0
+西式快餐,Cafe Boleh Restaurant,Cafe Boleh Restaurant,0,,0.0,0.0,0.0
+西式快餐,Oldtown White Coffee Karamunsing,Oldtown White Coffee Karamunsing,0,,0.0,0.0,0.0
+西式快餐,UPPERSTAR Cafe & Bar,UPPERSTAR Cafe & Bar,0,沙巴其他,0.0,0.0,0.0
+西式快餐,海丰美食馆,海丰美食馆,0,沙巴其他,0.0,0.0,0.0
+西式快餐,TASTES ITALY,TASTES ITALY,0,亚庇市中心,0.0,0.0,0.0
+西式快餐,I love Simple Lifestyle Cafe,I love Simple Lifestyle Cafe,0,,0.0,0.0,0.0
+西式快餐,KEDAI KOPI 33(1),KEDAI KOPI 33(1),0,,0.0,0.0,0.0
+西式快餐,Kfc Beverly Hills,Kfc Beverly Hills,0,沙巴其他,0.0,0.0,0.0
+西式快餐,KFC @ Lido,KFC @ Lido,0,沙巴其他,0.0,0.0,0.0
+西式快餐,Coast,Coast,0,沙巴其他,0.0,0.0,0.0
+酒吧,Velvet Bar & Grill,Velvet Bar & Grill,0,,6.9,7.5,7.5
+酒吧,upstar,upstar,0,,7.4,8.2,7.4
+酒吧,沙巴香格里拉日落酒吧,沙巴香格里拉日落酒吧,0,,8.4,8.4,8.4
+酒吧,cock&bull,cock&bull,0,,7.1,6.9,6.9
+酒吧,BB cafe,BB cafe,0,沙巴其他,7.4,8.1,7.4
+酒吧,Balin Roof Garden Bar & Bistro,Balin Roof Garden Bar & Bistro,0,,0.0,0.0,0.0
+酒吧,Bintang Cafe and Restaurant,Bintang Cafe and Restaurant,0,沙巴其他,0.0,0.0,0.0
+酒吧,"Table No.1, Tanjung Aru","Table No.1, Tanjung Aru",0,,0.0,0.0,0.0
+酒吧,ARTHUR BAR,ARTHUR BAR,0,,0.0,0.0,0.0
+酒吧,Cowboy Bar KK,Cowboy Bar KK,0,,0.0,0.0,0.0
+酒吧,IceBar@1Borneo,IceBar@1Borneo,0,,0.0,0.0,0.0
+酒吧,Jugs Sports Bar,Jugs Sports Bar,0,,0.0,0.0,0.0
+更多亚洲菜,The Chicken Rice Shop,The Chicken Rice Shop,0,,0.0,0.0,0.0
+更多亚洲菜,Restaurant Choice,Restaurant Choice,0,,0.0,0.0,0.0
+更多亚洲菜,Habeeb,Habeeb,0,,0.0,0.0,0.0
+更多亚洲菜,K.Sanba's Curry Specials,K.Sanba's Curry Specials,0,,0.0,0.0,0.0
+更多亚洲菜,Restoran bismillah,Restoran bismillah,0,,0.0,0.0,0.0
+更多亚洲菜,KFC,KFC,0,沙巴其他,0.0,0.0,0.0
+更多亚洲菜,Bismi Curry House,Bismi Curry House,0,,0.0,0.0,0.0
+更多亚洲菜,Nyonya House,Nyonya House,0,,0.0,0.0,0.0
+更多亚洲菜,Moon Bell Restaurant,Moon Bell Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Kohinoor,Kohinoor,0,,0.0,0.0,0.0
+更多亚洲菜,Jothy's Fish Head Curry and Banana Leaf Restaurant,Jothy's Fish Head Curry and Banana Leaf Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,10AM Cafe,10AM Cafe,0,,0.0,0.0,0.0
+更多亚洲菜,Yuit Cheong,Yuit Cheong,0,,0.0,0.0,0.0
+更多亚洲菜,The Asian,The Asian,0,,0.0,0.0,0.0
+更多亚洲菜,Chicken Naan Tandoori House,Chicken Naan Tandoori House,0,,0.0,0.0,0.0
+更多亚洲菜,Koki Bandung,Koki Bandung,0,,0.0,0.0,0.0
+更多亚洲菜,Devis,Devis,0,,0.0,0.0,0.0
+更多亚洲菜,Tasty Soto House,Tasty Soto House,0,,0.0,0.0,0.0
+更多亚洲菜,Sri Latha Curry House,Sri Latha Curry House,0,,0.0,0.0,0.0
+更多亚洲菜,Buhuri Curry House,Buhuri Curry House,0,沙巴其他,0.0,0.0,0.0
+更多亚洲菜,Maggie Cafe,Maggie Cafe,0,,0.0,0.0,0.0
+更多亚洲菜,tomato restaurant,tomato restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Lemongrass Pancake House,Lemongrass Pancake House,0,沙巴其他,0.0,0.0,0.0
+更多亚洲菜,Grace Park - Grace Square,Grace Park - Grace Square,0,,0.0,0.0,0.0
+更多亚洲菜,The Eatery,The Eatery,0,沙巴其他,0.0,0.0,0.0
+更多亚洲菜,Mabul Cafe,Mabul Cafe,0,沙巴其他,0.0,0.0,0.0
+更多亚洲菜,Restaurant Keng Wan Hing,Restaurant Keng Wan Hing,0,,0.0,0.0,0.0
+更多亚洲菜,Deco Cafe,Deco Cafe,0,,0.0,0.0,0.0
+烧烤,丽都美食广场,丽都美食广场,0,,7.3,6.8,6.8
+烧烤,Breeze Beach Club,Breeze Beach Club,0,,0.0,0.0,0.0
+烧烤,Archie D Corner,Archie D Corner,0,,0.0,0.0,0.0
+烧烤,Dreamland Coffee House,Dreamland Coffee House,0,,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,,6.9,6.9,6.9
+咖啡厅,利增 legend coffee tea,利增 legend coffee tea,0,,8.1,7.3,7.4
+咖啡厅,成兴茶餐厅,成兴茶餐厅,0,,7.7,6.9,7.2
+咖啡厅,Palm Cafe,Palm Cafe,0,,6.8,6.6,6.7
+咖啡厅,First Beach Cafe,First Beach Cafe,0,,0.0,0.0,0.0
+咖啡厅,发记茶餐室,发记茶餐室,0,,0.0,0.0,0.0
+咖啡厅,Coffee Bean @ Damai Phase 2,Coffee Bean @ Damai Phase 2,0,,7.0,7.1,7.1
+咖啡厅,Viet Cafe,Viet Cafe,0,,0.0,0.0,0.0
+咖啡厅,Marry Me Sandowichi,Marry Me Sandowichi,0,,0.0,0.0,0.0
+咖啡厅,"Kedai Loi Hin, Bornion Centre","Kedai Loi Hin, Bornion Centre",0,,0.0,0.0,0.0
+咖啡厅,Kopi Ping Cafe,Kopi Ping Cafe,0,,0.0,0.0,0.0
+咖啡厅,Hilltop coffee shop,Hilltop coffee shop,0,,0.0,0.0,0.0
+咖啡厅,Crepe Express,Crepe Express,0,,0.0,0.0,0.0
+咖啡厅,Coffee Bean & Tea Leaf,Coffee Bean & Tea Leaf,0,,0.0,0.0,0.0
+咖啡厅,G Cafe,G Cafe,0,,0.0,0.0,0.0
+咖啡厅,发记茶餐室,发记茶餐室,0,,0.0,0.0,0.0
+咖啡厅,OLD TOWN WHITE COFFEE,OLD TOWN WHITE COFFEE,0,,0.0,0.0,0.0
+咖啡厅,Suteramaya Cafe,Suteramaya Cafe,0,,0.0,0.0,0.0
+咖啡厅,Jia Yan Coffee Shop,Jia Yan Coffee Shop,0,沙巴其他,0.0,0.0,0.0
+咖啡厅,巴林屋顶花园咖啡座,巴林屋顶花园咖啡座,0,,0.0,0.0,0.0
+咖啡厅,Cock and Bull Jesselton Point,Cock and Bull Jesselton Point,0,,0.0,0.0,0.0
+咖啡厅,Tawau Citi Cafe,Tawau Citi Cafe,0,,0.0,0.0,0.0
+面包甜点,富源茶餐厅,富源茶餐厅,21,,7.9,7.8,7.6
+面包甜点,琼万兴,琼万兴,0,,7.9,7.4,8.0
+面包甜点,沙巴榴莲王,沙巴榴莲王,0,亚庇市中心,7.1,6.8,6.6
+面包甜点,Smoothieci,Smoothieci,0,,7.5,7.5,7.5
+面包甜点,Black Ball--Original Taiwanese Tea & Dessert,Black Ball--Original Taiwanese Tea & Dessert,0,,6.9,6.9,6.9
+面包甜点,仙q甜品,仙q甜品,0,,5.9,5.9,5.9
+面包甜点,7 Heaven,7 Heaven,0,,6.9,6.9,6.9
+面包甜点,sugar spice,sugar spice,0,,6.7,6.7,6.9
+面包甜点,7 Heaven,7 Heaven,0,沙巴其他,0.0,0.0,0.0
+面包甜点,峰甜品,峰甜品,0,沙巴其他,0.0,0.0,0.0
+面包甜点,Mr. Bread,Mr. Bread,0,,0.0,0.0,0.0
+面包甜点,"Mee & Cake House, Wisma Merdeka","Mee & Cake House, Wisma Merdeka",0,,0.0,0.0,0.0
+面包甜点,Hai Joo Bakery & Confectionery Sdn. Bhd.,Hai Joo Bakery & Confectionery Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+面包甜点,Novelty Bakery & Confectionery Sdn. Bhd.,Novelty Bakery & Confectionery Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+面包甜点,Meinga Bakery & Confectionery Sdn. Bhd.,Meinga Bakery & Confectionery Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+面包甜点,Home Bakery Jiney park,Home Bakery Jiney park,0,沙巴其他,0.0,0.0,0.0
+面包甜点,Boutique Cupcakes,Boutique Cupcakes,0,,0.0,0.0,0.0
+面包甜点,Consolidated Foodchem Sdn. Bhd.,Consolidated Foodchem Sdn. Bhd.,0,,0.0,0.0,0.0
+面包甜点,Pelangi Bakery Shop,Pelangi Bakery Shop,0,,0.0,0.0,0.0
+其他美食,怡豐叻沙茶餐室,怡豐叻沙茶餐室,22,,9.0,7.4,8.2
+其他美食,Old Town White Coffee,Old Town White Coffee,23,沙巴其他,8.5,8.7,8.3
+其他美食,Little Italy,Little Italy,75,,8.3,8.5,8.3
+其他美食,SunSet Bar at Shangri-La's Tanjung Aru Resort and,SunSet Bar at Shangri-La's Tanjung Aru Resort and,0,,8.0,8.5,7.6
+其他美食,香宫,香宫,0,,7.4,7.5,7.7
+其他美食,田老爷城市海鲜餐厅,田老爷城市海鲜餐厅,126,沙巴其他,7.1,6.8,7.3
+其他美食,Cafe TATU at Shangri-La's Tanjung Aru Resort and S,Cafe TATU at Shangri-La's Tanjung Aru Resort and S,0,,6.8,7.4,7.0
+其他美食,阿龙饮食店,阿龙饮食店,0,,7.9,6.6,7.4
+其他美食,皇悦,皇悦,0,,7.7,7.6,7.6
+其他美食,Kak Nong Restaurant,Kak Nong Restaurant,0,,7.6,8.1,8.3
+其他美食,Coco-Joe's,Coco-Joe's,0,,7.3,7.3,7.2
+其他美食,Al Fresco,Al Fresco,0,,7.0,7.3,7.3
+其他美食,Bella Italia,Bella Italia,0,,7.4,7.5,6.9
+其他美食,Sri Melaka Restaurant,Sri Melaka Restaurant,0,,8.4,7.7,7.7
+其他美食,Peppino Restaurant,Peppino Restaurant,0,,7.5,7.5,7.5
+其他美食,English Tea House and Restaurant,English Tea House and Restaurant,0,,6.8,7.0,6.8
+其他美食,Naan,Naan,0,斗亚兰,6.7,6.7,7.4
+其他美食,Cool Box Ice Cream Bar at Shangri-La's Tanjung Aru,Cool Box Ice Cream Bar at Shangri-La's Tanjung Aru,0,,6.8,7.2,7.2
+其他美食,"The Chicken Rice Shop @ Borneo Hypermall, Sabah","The Chicken Rice Shop @ Borneo Hypermall, Sabah",0,,6.9,6.9,6.9
+其他美食,Texas Grill Restaurant & Bar,Texas Grill Restaurant & Bar,0,,7.0,7.0,7.0
+其他美食,New Market,New Market,0,沙巴其他,0.0,0.0,0.0
+其他美食,Sapi Kafe,Sapi Kafe,0,沙巴其他,7.0,6.9,6.9
+其他美食,King Cheong,King Cheong,0,,0.0,0.0,0.0
+其他美食,Plantation Cafe,Plantation Cafe,0,,0.0,0.0,0.0
+其他美食,Hawaii Restaurant,Hawaii Restaurant,0,,0.0,0.0,0.0
+其他美食,Sapporo,Sapporo,0,,0.0,0.0,0.0
+其他美食,Jwpk Holdings Emperors Treasure Wishbone,Jwpk Holdings Emperors Treasure Wishbone,0,,0.0,0.0,0.0
+其他美食,Peppino,Peppino,0,沙巴其他,0.0,0.0,0.0
+其他美食,甜心,甜心,0,,0.0,0.0,0.0
+其他美食,Kah Hiong Ngiu Chap 家乡牛什,Kah Hiong Ngiu Chap 家乡牛什,0,,0.0,0.0,0.0
+其他美食,Ferdinand's,Ferdinand's,0,亚庇周边岛屿,0.0,0.0,0.0
+其他美食,Kedai Mui Hong,Kedai Mui Hong,0,斗亚兰,0.0,0.0,0.0
+其他美食,Burger King @ Segama Complex,Burger King @ Segama Complex,0,沙巴其他,0.0,0.0,0.0
+其他美食,Island Tom Yam,Island Tom Yam,0,沙巴其他,0.0,0.0,0.0
+其他美食,Resipi Ibu Restoran and Katering,Resipi Ibu Restoran and Katering,0,沙巴其他,0.0,0.0,0.0
+其他美食,K. Sanba's Curry Specials,K. Sanba's Curry Specials,0,,0.0,0.0,0.0
+其他美食,Pizza Hut Tawau,Pizza Hut Tawau,0,沙巴其他,0.0,0.0,0.0
+其他美食,Spark Prestige Sdn. Bhd.,Spark Prestige Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Chuan Kee Chan,Chuan Kee Chan,0,,0.0,0.0,0.0
+其他美食,Bridge 7 & 8,Bridge 7 & 8,0,沙巴其他,0.0,0.0,0.0
+其他美食,Taluwang Sdn. Bhd.,Taluwang Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,whos the boss restaurant 24hours,whos the boss restaurant 24hours,0,沙巴其他,0.0,0.0,0.0
+其他美食,Syarikat Lui Kim Chock Sdn. Bhd.,Syarikat Lui Kim Chock Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Jothy's Curry Banana Leaf Restaurant,Jothy's Curry Banana Leaf Restaurant,0,,0.0,0.0,0.0
+其他美食,Kohinoor North Indian Restaurant,Kohinoor North Indian Restaurant,0,,0.0,0.0,0.0
+其他美食,Natural Green House,Natural Green House,0,,0.0,0.0,0.0
+其他美食,Yien Sang Trading Sdn. Bhd.,Yien Sang Trading Sdn. Bhd.,0,,0.0,0.0,0.0
+其他美食,mohideen restoran,mohideen restoran,0,,0.0,0.0,0.0
+其他美食,Coast Restaurant & Bar at Shangri-La's Rasa Ria Re,Coast Restaurant & Bar at Shangri-La's Rasa Ria Re,0,沙巴其他,0.0,0.0,0.0
+其他美食,California Grill,California Grill,0,,0.0,0.0,0.0
+其他美食,Lian Soon Noodles Factory Co,Lian Soon Noodles Factory Co,0,沙巴其他,0.0,0.0,0.0
+其他美食,Kemmas Enterprise Sdn Bhd,Kemmas Enterprise Sdn Bhd,0,沙巴其他,0.0,0.0,0.0
+其他美食,Cary's Kamayan Restaurant,Cary's Kamayan Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,Hamzah Bin Kario,Hamzah Bin Kario,0,沙巴其他,0.0,0.0,0.0
+其他美食,Spinnaker Restaurant,Spinnaker Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,Pulau Labuan Restaurant,Pulau Labuan Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,Blue Wave Lounge & Restaurant,Blue Wave Lounge & Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,Syarikat Lui Kim Chock Sdn. Bhd.,Syarikat Lui Kim Chock Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Syarikat Perniagaan Cheep Hing (K) Sdn Bhd,Syarikat Perniagaan Cheep Hing (K) Sdn Bhd,0,沙巴其他,0.0,0.0,0.0
+其他美食,Chin Chang Sdn. Bhd.,Chin Chang Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Vegetarian Sandakan,Vegetarian Sandakan,0,沙巴其他,0.0,0.0,0.0
+其他美食,Ngan Yin Groundnut Factory Sdn Bhd,Ngan Yin Groundnut Factory Sdn Bhd,0,沙巴其他,0.0,0.0,0.0
+其他美食,Senang Selesa Sdn. Bhd.,Senang Selesa Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Nam Chai Restaurant Bah Kut Teh,Nam Chai Restaurant Bah Kut Teh,0,沙巴其他,0.0,0.0,0.0
+其他美食,Widegrowth Marine Products Sdn. Bhd.,Widegrowth Marine Products Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,京华美食餐室II(亚庇分行),京华美食餐室II(亚庇分行),0,沙巴其他,0.0,0.0,0.0
+其他美食,Highborn Corporation Sdn Bhd,Highborn Corporation Sdn Bhd,0,沙巴其他,0.0,0.0,0.0
+其他美食,Farah Catering & Restaurant,Farah Catering & Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,Apple Food & Drink Corner,Apple Food & Drink Corner,0,沙巴其他,0.0,0.0,0.0
+其他美食,Restoran Kheng Hong,Restoran Kheng Hong,0,沙巴其他,0.0,0.0,0.0
+其他美食,Restoran Jawa Timur Ranau,Restoran Jawa Timur Ranau,0,沙巴其他,0.0,0.0,0.0
+其他美食,Syarikat Lui Kim Chock Sdn. Bhd.,Syarikat Lui Kim Chock Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Nissin Food Manufacturing Sdn Bhd,Nissin Food Manufacturing Sdn Bhd,0,沙巴其他,0.0,0.0,0.0
+其他美食,Restaurant Remember Eat,Restaurant Remember Eat,0,沙巴其他,0.0,0.0,0.0
+其他美食,Tuaran Spoon Restoran,Tuaran Spoon Restoran,0,沙巴其他,0.0,0.0,0.0
+其他美食,Restoran Heng Loong,Restoran Heng Loong,0,沙巴其他,0.0,0.0,0.0
+其他美食,Ipoh Restaurant,Ipoh Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,Better Prospects Sdn. Bhd.,Better Prospects Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Comtrad,Comtrad,0,沙巴其他,0.0,0.0,0.0
+其他美食,Krishna Fish Head Curry Restaurant,Krishna Fish Head Curry Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,Thirutjexim,Thirutjexim,0,沙巴其他,0.0,0.0,0.0
+其他美食,Twinine Sdn. Bhd.,Twinine Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Taiwan Product Trading Company,Taiwan Product Trading Company,0,沙巴其他,0.0,0.0,0.0
+其他美食,Million Ocean Fisheries (M) Sdn. Bhd.,Million Ocean Fisheries (M) Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Riang Yee Sdn. Bhd.,Riang Yee Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Happy Vines,Happy Vines,0,沙巴其他,0.0,0.0,0.0
+其他美食,Restaurant Leong Wing Wah,Restaurant Leong Wing Wah,0,沙巴其他,0.0,0.0,0.0
+其他美食,Friendly Restaurant,Friendly Restaurant,0,,0.0,0.0,0.0
+其他美食,2Friend Home Recipe,2Friend Home Recipe,0,,0.0,0.0,0.0
+其他美食,"Burger King, Putatan","Burger King, Putatan",0,沙巴其他,0.0,0.0,0.0
+其他美食,Restoran Sri Asiana,Restoran Sri Asiana,0,沙巴其他,0.0,0.0,0.0
+其他美食,Choice Restaurant,Choice Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,MA Catering Sdn. Bhd.,MA Catering Sdn. Bhd.,0,,0.0,0.0,0.0
+其他美食,Juvitha & Lojingki Enterprise,Juvitha & Lojingki Enterprise,0,沙巴其他,0.0,0.0,0.0
+其他美食,Pra's Corner,Pra's Corner,0,,0.0,0.0,0.0
+其他美食,Kedai Kopi Wan Wan,Kedai Kopi Wan Wan,0,沙巴其他,0.0,0.0,0.0
+其他美食,ManTai Restaurant,ManTai Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,Borneo Wild Treasure Restaurant,Borneo Wild Treasure Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,Angliss Foods Sdn Bhd,Angliss Foods Sdn Bhd,0,,0.0,0.0,0.0
+其他美食,Lee Nyet Seng,Lee Nyet Seng,0,沙巴其他,0.0,0.0,0.0
+其他美食,Restoran Kiong Kee,Restoran Kiong Kee,0,沙巴其他,0.0,0.0,0.0
+其他美食,Kilang Mee Loong Tat,Kilang Mee Loong Tat,0,沙巴其他,0.0,0.0,0.0
+其他美食,Sungai Wang Restoran,Sungai Wang Restoran,0,沙巴其他,0.0,0.0,0.0
+其他美食,Tang Aik Sea Products Sdn. Bhd.,Tang Aik Sea Products Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Angkasa (Sabah) Sdn. Bhd.,Angkasa (Sabah) Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Sabah Sea Produce Sdn. Bhd.,Sabah Sea Produce Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Kedai Makan Nam Choon,Kedai Makan Nam Choon,0,沙巴其他,0.0,0.0,0.0
+其他美食,Restoran Tawakkal,Restoran Tawakkal,0,沙巴其他,0.0,0.0,0.0
+其他美食,J & H Trading,J & H Trading,0,沙巴其他,0.0,0.0,0.0
+其他美食,Lee Kong Restaurant,Lee Kong Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,"English Tea House and Restaurant, Kota Kinabalu","English Tea House and Restaurant, Kota Kinabalu",0,,0.0,0.0,0.0
+其他美食,Rasa Nyonya Restaurant,Rasa Nyonya Restaurant,0,,0.0,0.0,0.0
+其他美食,Donggonggon Open Market,Donggonggon Open Market,0,沙巴其他,0.0,0.0,0.0
+其他美食,Restoran Lee Garden,Restoran Lee Garden,0,沙巴其他,0.0,0.0,0.0
+其他美食,Syarikat Hing Lee Fishing (Sabah) Sdn. Bhd.,Syarikat Hing Lee Fishing (Sabah) Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,May Flower Restaurant,May Flower Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,Super Tanker Restaurant,Super Tanker Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,PappaRich City Mall,PappaRich City Mall,0,,0.0,0.0,0.0
+其他美食,Chung Chee Kieong,Chung Chee Kieong,0,,0.0,0.0,0.0
+其他美食,Hai Leng Fishery Sdn. Bhd.,Hai Leng Fishery Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Salim's Curry House,Salim's Curry House,0,,0.0,0.0,0.0
+其他美食,Tong Guan Food Products Sdn. Bhd.,Tong Guan Food Products Sdn. Bhd.,0,,0.0,0.0,0.0
+其他美食,Cocoon Restaurant & Bar,Cocoon Restaurant & Bar,0,沙巴其他,0.0,0.0,0.0
+其他美食,Mango- Thai Inspired Cuisine,Mango- Thai Inspired Cuisine,0,沙巴其他,0.0,0.0,0.0
+其他美食,"The Chicken Rice Shop @ Warisan Square, Kota Kinab","The Chicken Rice Shop @ Warisan Square, Kota Kinab",0,沙巴其他,0.0,0.0,0.0
+其他美食,The Cchat Room,The Cchat Room,0,沙巴其他,0.0,0.0,0.0
+其他美食,Transworld Agencies Sdn. Bhd.,Transworld Agencies Sdn. Bhd.,0,沙巴其他,0.0,0.0,0.0
+其他美食,Jin Mui Restaurant,Jin Mui Restaurant,0,亚庇国际机场周边,0.0,0.0,0.0
+其他美食,Restaurant Masakan Sedup,Restaurant Masakan Sedup,0,亚庇国际机场周边,0.0,0.0,0.0
+其他美食,Kedai Kopi Man Hui Wei,Kedai Kopi Man Hui Wei,0,,0.0,0.0,0.0
+其他美食,Lee Kai Shang,Lee Kai Shang,0,,0.0,0.0,0.0
+其他美食,New Luyang Restaurant,New Luyang Restaurant,0,,0.0,0.0,0.0
+其他美食,Canton House Restaurant,Canton House Restaurant,0,,0.0,0.0,0.0
+其他美食,Gardenia Grill Room,Gardenia Grill Room,0,,0.0,0.0,0.0
+其他美食,Grazie Ristorante Pizzeria Caffe,Grazie Ristorante Pizzeria Caffe,0,沙巴其他,0.0,0.0,0.0
+其他美食,Gerai Makanan Hong Kee Stall,Gerai Makanan Hong Kee Stall,0,,0.0,0.0,0.0
+其他美食,PappaRich @ Karamunsing,PappaRich @ Karamunsing,0,,0.0,0.0,0.0
+其他美食,Anjappar Chettinad Restaurant,Anjappar Chettinad Restaurant,0,沙巴其他,0.0,0.0,0.0
+其他美食,Nishiki Japanese Restaurant,Nishiki Japanese Restaurant,0,沙巴其他,0.0,0.0,0.0

@@ -1,0 +1,1316 @@
+意大利菜,Dunne and Crescenzi,Dunne and Crescenzi,0,都柏林市中心,7.7,7.7,7.7
+意大利菜,I monelli,I monelli,0,拉尼拉格/达特里,0.0,0.0,0.0
+意大利菜,San Lorenzo's,San Lorenzo's,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Juniors,Juniors,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Wallace's Asti,Wallace's Asti,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Carluccio's,Carluccio's,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Bottega Toffoli,Bottega Toffoli,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Milano,Milano,0,其他,0.0,0.0,0.0
+意大利菜,Toto Ristorante Italiano,Toto Ristorante Italiano,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Little Caesars,Little Caesars,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Il Primo,Il Primo,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Unicorn Restaurant,Unicorn Restaurant,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Mamma Mia Deli Cafe Bar,Mamma Mia Deli Cafe Bar,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Pizza e Porchetta,Pizza e Porchetta,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Il Posto Restaurant,Il Posto Restaurant,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Steps of Rome,Steps of Rome,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Terrazzo Italia Restaurant,Terrazzo Italia Restaurant,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Pacino's,Pacino's,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Fiorentina Retaurant,Fiorentina Retaurant,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,IL VICOLETTO,IL VICOLETTO,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,La Dolce Vita,La Dolce Vita,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Cafe Topolis,Cafe Topolis,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Caffe' Italiano,Caffe' Italiano,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Il Baccaro,Il Baccaro,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Ciao Bella Roma,Ciao Bella Roma,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Botticelli,Botticelli,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Nico's,Nico's,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Bar Italia,Bar Italia,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,The Italian Corner,The Italian Corner,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Panem,Panem,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Wallace's Taverna,Wallace's Taverna,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Enoteca delle Langhe,Enoteca delle Langhe,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Taste of Emilia,Taste of Emilia,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Romano's,Romano's,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Doppio Zero,Doppio Zero,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,il fornaio,il fornaio,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,The Italian Connection,The Italian Connection,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Cafe Cucina,Cafe Cucina,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Il Sereno,Il Sereno,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Da Mimmo,Da Mimmo,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Il Corvo,Il Corvo,0,北部中心,0.0,0.0,0.0
+意大利菜,Little Venice,Little Venice,0,北部中心,0.0,0.0,0.0
+意大利菜,Enoteca Torino,Enoteca Torino,0,都伯林西郊,0.0,0.0,0.0
+意大利菜,Bellagio Restaurant,Bellagio Restaurant,0,拉尼拉格/达特里,0.0,0.0,0.0
+意大利菜,Pinocchio Italian restaurant & Wine bar,Pinocchio Italian restaurant & Wine bar,0,拉尼拉格/达特里,0.0,0.0,0.0
+意大利菜,Geovani's,Geovani's,0,,0.0,0.0,0.0
+意大利菜,Millars Kitchen,Millars Kitchen,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Sweet Nosh,Sweet Nosh,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Pizza Stop,Pizza Stop,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Little Caesars,Little Caesars,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Mexico to Rome,Mexico to Rome,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,La Gondola,La Gondola,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Bar Italia IFSC,Bar Italia IFSC,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Bel Cibo Deli Pizzeria,Bel Cibo Deli Pizzeria,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Il Vignardo Restaurant,Il Vignardo Restaurant,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Peppe Restaurant,Peppe Restaurant,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Bianconi's Bistro,Bianconi's Bistro,0,巴尔斯布里奇,0.0,0.0,0.0
+意大利菜,Marios Trattoria,Marios Trattoria,0,巴尔斯布里奇,0.0,0.0,0.0
+意大利菜,Bellucci Italian Restaurant & Cocktail Bar,Bellucci Italian Restaurant & Cocktail Bar,0,巴尔斯布里奇,0.0,0.0,0.0
+意大利菜,Quattro 4 Pizza,Quattro 4 Pizza,0,巴尔斯布里奇,0.0,0.0,0.0
+意大利菜,Picasso Restaurant,Picasso Restaurant,0,北部中心,0.0,0.0,0.0
+意大利菜,Dall' Italiano,Dall' Italiano,0,北部中心,0.0,0.0,0.0
+意大利菜,Monto Cafe,Monto Cafe,0,都伯林西郊,0.0,0.0,0.0
+意大利菜,La Terrazza,La Terrazza,0,,0.0,0.0,0.0
+意大利菜,Maximilian's Taste of Italy,Maximilian's Taste of Italy,0,其他,0.0,0.0,0.0
+意大利菜,Coppa Cafe,Coppa Cafe,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Calzone Cafe,Calzone Cafe,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Mama Roma,Mama Roma,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Milanos clarion,Milanos clarion,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,La Pizza,La Pizza,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Cucina2,Cucina2,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Sand Bar,Sand Bar,0,北部中心,0.0,0.0,0.0
+意大利菜,Eataly,Eataly,0,北部中心,0.0,0.0,0.0
+意大利菜,Mulino,Mulino,0,北部中心,0.0,0.0,0.0
+意大利菜,Il Fornaio Raheny,Il Fornaio Raheny,0,北部中心,0.0,0.0,0.0
+意大利菜,Er Buchetto Caffe Italiano,Er Buchetto Caffe Italiano,0,拉尼拉格/达特里,0.0,0.0,0.0
+意大利菜,Milano,Milano,0,拉尼拉格/达特里,0.0,0.0,0.0
+意大利菜,Le Caprice,Le Caprice,0,都柏林市中心,0.0,0.0,0.0
+意大利菜,Casa Pasta & Pizza Donnybrook,Casa Pasta & Pizza Donnybrook,0,巴尔斯布里奇,0.0,0.0,0.0
+意大利菜,Jamies,Jamies,0,北部中心,0.0,0.0,0.0
+意大利菜,Expresso Bar Cafe,Expresso Bar Cafe,0,都伯林西郊,0.0,0.0,0.0
+意大利菜,Lisa's Trattoria,Lisa's Trattoria,0,拉尼拉格/达特里,0.0,0.0,0.0
+意大利菜,Martino's Trattoria,Martino's Trattoria,0,拉尼拉格/达特里,0.0,0.0,0.0
+意大利菜,Al Versuvio,Al Versuvio,0,其他,0.0,0.0,0.0
+意大利菜,Don Mimi Pizzeria,Don Mimi Pizzeria,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Peploe's,Peploe's,0,都柏林市中心,7.4,7.4,7.4
+法国菜,The Blackboard Bistro,The Blackboard Bistro,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Bloom Brasserie,Bloom Brasserie,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Chez Max,Chez Max,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Pearl Brasserie,Pearl Brasserie,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Restaurant Patrick Guilbaud,Restaurant Patrick Guilbaud,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Locks Brasserie,Locks Brasserie,0,都柏林市中心,0.0,0.0,0.0
+法国菜,L'Gueuleton,L'Gueuleton,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Pichet,Pichet,0,都柏林市中心,0.0,0.0,0.0
+法国菜,The French Paradox Wine Shop & Wine Bar,The French Paradox Wine Shop & Wine Bar,0,巴尔斯布里奇,0.0,0.0,0.0
+法国菜,Lemon Crepe and Coffe Co.,Lemon Crepe and Coffe Co.,0,都柏林市中心,0.0,0.0,0.0
+法国菜,La Maison,La Maison,0,都柏林市中心,0.0,0.0,0.0
+法国菜,La Ruelle,La Ruelle,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Christophe's,Christophe's,0,都柏林市中心,0.0,0.0,0.0
+法国菜,The Green Room Restaurant,The Green Room Restaurant,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Saison,Saison,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Harrys Kitchen,Harrys Kitchen,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Brioche,Brioche,0,都柏林市中心,0.0,0.0,0.0
+法国菜,The Dawson,The Dawson,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Whitefriar Grill,Whitefriar Grill,0,都柏林市中心,0.0,0.0,0.0
+法国菜,La Cave,La Cave,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Meet & Meat,Meet & Meat,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Fallon & Byrne,Fallon & Byrne,0,都柏林市中心,0.0,0.0,0.0
+法国菜,The Green Hen,The Green Hen,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Chez Max,Chez Max,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Les Freres Jacques,Les Freres Jacques,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Caffe Parigi,Caffe Parigi,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Le Bon Crubeen,Le Bon Crubeen,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Dublin Wine Rooms,Dublin Wine Rooms,0,都柏林市中心,0.0,0.0,0.0
+法国菜,Brownes Brasserie,Brownes Brasserie,0,巴尔斯布里奇,0.0,0.0,0.0
+法国菜,La Reserve Brasserie,La Reserve Brasserie,0,拉尼拉格/达特里,0.0,0.0,0.0
+法国菜,Brioche,Brioche,0,拉尼拉格/达特里,0.0,0.0,0.0
+法国菜,"Clodagh's Kitchen, Blackrock","Clodagh's Kitchen, Blackrock",0,其他,0.0,0.0,0.0
+法国菜,Cafe Provence,Cafe Provence,0,,0.0,0.0,0.0
+法国菜,Fafie's Galettes Limited,Fafie's Galettes Limited,0,都柏林市中心,0.0,0.0,0.0
+法国菜,The Library,The Library,0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,Azteca,Azteca,0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,The Hungry Mexican,The Hungry Mexican,0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,EL Porko Loco,EL Porko Loco,0,,0.0,0.0,0.0
+墨西哥菜,El Paso Restaurant,El Paso Restaurant,0,,0.0,0.0,0.0
+墨西哥菜,Pablo Picante,Pablo Picante,0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,Boojum,Boojum,0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,Acapulco,Acapulco,0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,Tolteca Mexican Style Grill,Tolteca Mexican Style Grill,0,巴尔斯布里奇,0.0,0.0,0.0
+墨西哥菜,Tuzo Mexican Kitchen,Tuzo Mexican Kitchen,0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,"Mama's Revenge Burrito Hut, Dublin, Ireland","Mama's Revenge Burrito Hut, Dublin, Ireland",0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,Cactus Jacks,Cactus Jacks,0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,Solas Bar,Solas Bar,0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,Burritos and Blues,Burritos and Blues,0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,Break for the Border,Break for the Border,0,都柏林市中心,0.0,0.0,0.0
+墨西哥菜,Saburritos,Saburritos,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Pig's Ear,The Pig's Ear,0,都柏林市中心,7.2,7.7,7.2
+其他西餐,Millstone Restaurant,Millstone Restaurant,0,都柏林市中心,7.4,7.4,6.0
+其他西餐,Arlington Hotel and Knightsbridge Bar,Arlington Hotel and Knightsbridge Bar,0,都柏林市中心,6.8,7.2,7.2
+其他西餐,Chapter One,Chapter One,0,都柏林市中心,7.2,7.2,7.6
+其他西餐,Fitzgerald's,Fitzgerald's,0,都柏林市中心,6.3,6.3,6.3
+其他西餐,Jack O'Rourkes,Jack O'Rourkes,0,,7.4,6.7,6.7
+其他西餐,Fire Restaurant,Fire Restaurant,0,都柏林市中心,7.3,7.3,7.3
+其他西餐,Zaragoza,Zaragoza,0,都柏林市中心,7.2,7.2,7.2
+其他西餐,Bakers Bar & Irish Restaurant,Bakers Bar & Irish Restaurant,0,都柏林市中心,7.7,7.2,7.2
+其他西餐,Boulevard Cafe,Boulevard Cafe,0,都柏林市中心,7.7,6.8,7.7
+其他西餐,Murphys Ice Cream,Murphys Ice Cream,0,都柏林市中心,7.2,6.8,7.2
+其他西餐,The Old Mill Restaurant,The Old Mill Restaurant,0,都柏林市中心,7.2,6.8,7.2
+其他西餐,Bewleys Cafe,Bewleys Cafe,0,都柏林市中心,6.8,6.8,6.8
+其他西餐,Salamanca,Salamanca,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Probus Wines,Probus Wines,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Sabor Brazil,Sabor Brazil,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Ryans parkgate street dublin,Ryans parkgate street dublin,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Fade Street Social - The Restaurant,Fade Street Social - The Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,L. Mulligan Grocer,L. Mulligan Grocer,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Fade Street Social,Fade Street Social,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Seven Social,Seven Social,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,House Dublin,House Dublin,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Brasserie Le Pont,Brasserie Le Pont,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Market Bar,The Market Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Greenhouse,The Greenhouse,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Citron,Citron,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,101 Talbot Street,101 Talbot Street,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,One Pico,One Pico,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Davy Byrne's,Davy Byrne's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,3rd Still Restaurant (The Old Jameson Distillery),3rd Still Restaurant (The Old Jameson Distillery),0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Hot Stove Restaurant,The Hot Stove Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Roast Restaurant,Roast Restaurant,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Seagrass,Seagrass,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Patriots Inn,The Patriots Inn,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cill Airne,Cill Airne,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Juno's Cafe,Juno's Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Third Space,Third Space,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Stir Restaurant,Stir Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Yacht,The Yacht,0,北部中心,0.0,0.0,0.0
+其他西餐,Elephant & Castle,Elephant & Castle,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,WJ Kavanagh's,WJ Kavanagh's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,"Beshoff Bros (Howth, Clontarf & Mespil Road)","Beshoff Bros (Howth, Clontarf & Mespil Road)",0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Copper Alley Bistro,Copper Alley Bistro,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Brasserie 7,Brasserie 7,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Dux & Co.,Dux & Co.,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Mullingar House,Mullingar House,0,都伯林西郊,0.0,0.0,0.0
+其他西餐,ha'penny bridge cafe,ha'penny bridge cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cleaver East,Cleaver East,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,O'donoghue's Bar,O'donoghue's Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Dakota‎,Dakota‎,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Boteco Brazil,Boteco Brazil,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Black Lion,The Black Lion,0,其他,0.0,0.0,0.0
+其他西餐,The Green Room Restaurant,The Green Room Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Portobello Bar,The Portobello Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Den - in landsdown Hotel Dublin,The Den - in landsdown Hotel Dublin,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Fresh - The Good Food Market,Fresh - The Good Food Market,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cafe Restaurant RIBA,Cafe Restaurant RIBA,0,,0.0,0.0,0.0
+其他西餐,Bewleys Coffee,Bewleys Coffee,0,,0.0,0.0,0.0
+其他西餐,Finnegans's of Dalkey,Finnegans's of Dalkey,0,,0.0,0.0,0.0
+其他西餐,The Table,The Table,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Barge,The Barge,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Noshington,Noshington,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Farm,Farm,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Camden Rotisserie,Camden Rotisserie,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Dax Restaurant,Dax Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Green Nineteen,Green Nineteen,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,BoBos,BoBos,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cafe Bliss,Cafe Bliss,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,L'Ecrivain,L'Ecrivain,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,SEARSONS of Baggot St.,SEARSONS of Baggot St.,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Las Tapas de Lola,Las Tapas de Lola,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Fumbally,The Fumbally,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,F.X. BUCKLEY Steakhouse,F.X. BUCKLEY Steakhouse,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Brookwood,Brookwood,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Mc Grattans,Mc Grattans,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Oil Can Harry's,Oil Can Harry's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Saddle Room Restaurant,The Saddle Room Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cellar Restaurant,Cellar Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Hatch and Sons,Hatch and Sons,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Town Kildare Street,Town Kildare Street,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Peruke & Periwig,Peruke & Periwig,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,37 Dawson Street,37 Dawson Street,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Sheehan's,Sheehan's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Chatham Brasserie,Chatham Brasserie,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Grafton Lounge,The Grafton Lounge,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Kitchen,Kitchen,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Thorntons Restaurant,Thorntons Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Bia Bar,Bia Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Hairy Lemon,The Hairy Lemon,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Bagots Hutton,Bagots Hutton,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Dada Moroccan Cuisine,Dada Moroccan Cuisine,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Marco Pierre White Steakhouse and Grill,Marco Pierre White Steakhouse and Grill,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Lovinspoon,Lovinspoon,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Brewbakers Cafe,Brewbakers Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Blarney Inn,Blarney Inn,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Pepper Pot,The Pepper Pot,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Brasserie Sixty6,Brasserie Sixty6,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Farm Restaurants,Farm Restaurants,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Manning's Bakery,Manning's Bakery,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Coppinger Row,Coppinger Row,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Le Petit Parisien,Le Petit Parisien,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Rustic Stone,The Rustic Stone,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,South Street Restaurant,South Street Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Port House,The Port House,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Olesya's Wine Bar,Olesya's Wine Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Old Stand,Old Stand,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Arthurs Pub,Arthurs Pub,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Odessa Club & Restaurant,Odessa Club & Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Exchequer,The Exchequer,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Salamanca,Salamanca,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Stag's Head,Stag's Head,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,O'Neills Bar and Restaurant,O'Neills Bar and Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,O'Neill's,O'Neill's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Bankers Bar,The Bankers Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Bobos Burgers,Bobos Burgers,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Trinity Bar & Venue,Trinity Bar & Venue,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,NEDE Restaurant,NEDE Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Smyth and Gray,Smyth and Gray,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Larder,The Larder,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Taste of Brazil - Cozinha Brasileira,Taste of Brazil - Cozinha Brasileira,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,O'Neills Victorian Pub,O'Neills Victorian Pub,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Zaytoon Restaurants,Zaytoon Restaurants,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Port House Pintxo,The Port House Pintxo,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,O'Flaherty's At The Old Storehouse,O'Flaherty's At The Old Storehouse,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Vintage Cocktail Club,Vintage Cocktail Club,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Old Storehouse,The Old Storehouse,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Quays Irish Restaurant,The Quays Irish Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Tea Room,Tea Room,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Shack Restaurant,The Shack Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Auld Dubliner,Auld Dubliner,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Boxty House,The Boxty House,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,O'Sullivans,O'Sullivans,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Ruby Duck Cafe,Ruby Duck Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Gogarty's Pub,Gogarty's Pub,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Exchange,The Exchange,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Atrium Lounge,The Atrium Lounge,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Ha'Penny Bridge Inn,Ha'Penny Bridge Inn,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Pifko,Pifko,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Merchant's Arch Bar & Restaurant,The Merchant's Arch Bar & Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,PHX Bistro,PHX Bistro,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,D'Vine Wine Bar,D'Vine Wine Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Boar's Head,The Boar's Head,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Silk Road Cafe,Silk Road Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Gin Palace,Gin Palace,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Nancy Hands Bar & Restaurant,Nancy Hands Bar & Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Oval Bar,The Oval Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Madigan's Pub Abbey Street,Madigan's Pub Abbey Street,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Sheries Cafe Bar,Sheries Cafe Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Grand Central,Grand Central,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,ely bar & brasserie,ely bar & brasserie,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Oscars Cafe Bar Smithfield,Oscars Cafe Bar Smithfield,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cobblestone Pub,Cobblestone Pub,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Black Sheep,The Black Sheep,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,robert reade public house,robert reade public house,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cafe Oasis,Cafe Oasis,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Flanagans,Flanagans,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Brew Dock,The Brew Dock,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Celt Pub,The Celt Pub,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Madigans Pub O'Connell Street,Madigans Pub O'Connell Street,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Kingfisher,Kingfisher,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Parnell Heritage Bar & Grill,The Parnell Heritage Bar & Grill,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,McGettigans Cookhouse & Bar,McGettigans Cookhouse & Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Murray's Pub,Murray's Pub,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Busker's,Busker's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Eden Bar & Grill,Eden Bar & Grill,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Porterhouse North,Porterhouse North,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Havana Tapas Bar,Havana Tapas Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Johnny Fox's Pub,Johnny Fox's Pub,0,,0.0,0.0,0.0
+其他西餐,The Brasserie at Bewleys Hotel Ballsbridge,The Brasserie at Bewleys Hotel Ballsbridge,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Bistro Martello,Bistro Martello,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Mulberry Garden,Mulberry Garden,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,O'Connells in Donnybrook,O'Connells in Donnybrook,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Bella Cuba,Bella Cuba,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Roly's Bistro,Roly's Bistro,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,The Canal Bank Cafe,The Canal Bank Cafe,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,The Sussex,The Sussex,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Mulligans of Sandymount,Mulligans of Sandymount,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Keshk Cafe,Keshk Cafe,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,The 51 Bar,The 51 Bar,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,The Oarsman,The Oarsman,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Corfu Greek Restaurant,Corfu Greek Restaurant,0,北部中心,0.0,0.0,0.0
+其他西餐,Restaurant 1014,Restaurant 1014,0,北部中心,0.0,0.0,0.0
+其他西餐,Kennedy's Food Store,Kennedy's Food Store,0,北部中心,0.0,0.0,0.0
+其他西餐,Brian Boro Bar,Brian Boro Bar,0,北部中心,0.0,0.0,0.0
+其他西餐,The Botanic House,The Botanic House,0,北部中心,0.0,0.0,0.0
+其他西餐,Fagan's Pub,Fagan's Pub,0,北部中心,0.0,0.0,0.0
+其他西餐,The Cheese Pantry,The Cheese Pantry,0,北部中心,0.0,0.0,0.0
+其他西餐,The Ivy House,The Ivy House,0,北部中心,0.0,0.0,0.0
+其他西餐,La Mere Zou,La Mere Zou,0,北部中心,0.0,0.0,0.0
+其他西餐,the Cake Cafe,the Cake Cafe,0,北部中心,0.0,0.0,0.0
+其他西餐,Le Plancha,Le Plancha,0,,0.0,0.0,0.0
+其他西餐,Clontarf Castle,Clontarf Castle,0,,0.0,0.0,0.0
+其他西餐,Browns Barn,Browns Barn,0,都伯林西郊,0.0,0.0,0.0
+其他西餐,Vaughan's Eatery at Vaughan's Eagle House,Vaughan's Eatery at Vaughan's Eagle House,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,Bijou Cafe Bistro,Bijou Cafe Bistro,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,Mayfield Deli & Eatery,Mayfield Deli & Eatery,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,161 Cafe Bistro,161 Cafe Bistro,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,La Bodega,La Bodega,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,The Butchers Grill,The Butchers Grill,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,An Bhialann,An Bhialann,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,The Village Cafe,The Village Cafe,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,Coopers Cafe,Coopers Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Old Harbour Bar (Arthur's),The Old Harbour Bar (Arthur's),0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Abrakebabra,Abrakebabra,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Abrakebabra,Abrakebabra,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Rock Lobster at Harvey Nichols,Rock Lobster at Harvey Nichols,0,,0.0,0.0,0.0
+其他西餐,Brascos,Brascos,0,,0.0,0.0,0.0
+其他西餐,Cafe Provence,Cafe Provence,0,,0.0,0.0,0.0
+其他西餐,Spur Steakhouse,Spur Steakhouse,0,,0.0,0.0,0.0
+其他西餐,Kavanaghs Temple Pub,Kavanaghs Temple Pub,0,其他,0.0,0.0,0.0
+其他西餐,The Exchequer Wine Bar,The Exchequer Wine Bar,0,其他,0.0,0.0,0.0
+其他西餐,Uisce Restaurant at Hilton,Uisce Restaurant at Hilton,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Bibi's Cafe,Bibi's Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Devitt's Pub,Devitt's Pub,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cafe Sofia,Cafe Sofia,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Bath Pub,The Bath Pub,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Gasworks Bar,The Gasworks Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Wilde The Restaurant at The Westbury,Wilde The Restaurant at The Westbury,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Milano,Milano,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,the Clarendon Bar,the Clarendon Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Pygmalion Restaurant & Bar,Pygmalion Restaurant & Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Bear,Bear,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Eddie Rocket's,Eddie Rocket's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Jo'Burger Town,Jo'Burger Town,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,KC Peaches wine cave restaurant,KC Peaches wine cave restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cafe Bar H,Cafe Bar H,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Brasserie,The Brasserie,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Sweeney's,Sweeney's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Chorus cafe,Chorus cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Foggy Dew,Foggy Dew,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Turk's Head,Turk's Head,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Czech Inn,The Czech Inn,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Gourmet Burger Kitchen,Gourmet Burger Kitchen,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Half Moon Crepes & Coffee,Half Moon Crepes & Coffee,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Vertigo Bar,Vertigo Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Gourmet Burger Kitchen,Gourmet Burger Kitchen,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Frankies Steakhouse and Bar,Frankies Steakhouse and Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Ormond Wine Bar,The Ormond Wine Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Brewery Lane,Brewery Lane,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,cassidy's,cassidy's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Quay 16 Restauarant,Quay 16 Restauarant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Lagoona,Lagoona,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Nando's,Nando's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Harbour Master Bar and Restaurant,Harbour Master Bar and Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Kylemore at the Spire,Kylemore at the Spire,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Earl Bakery and Restaurant,The Earl Bakery and Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Walsh's Stoneybatter,Walsh's Stoneybatter,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,the admiral,the admiral,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cleary's tea room,Cleary's tea room,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Toddy's Bar and Bistro,Toddy's Bar and Bistro,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,SLICE,SLICE,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Seven,Seven,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Soulful Bistro,Soulful Bistro,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Streetscafe,Streetscafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Aurora cafe bar gastropub,Aurora cafe bar gastropub,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Aussie BBQ,Aussie BBQ,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Woodstock,Woodstock,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Foley's,Foley's,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Kiely's of Donnybrook,Kiely's of Donnybrook,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,The Greenery,The Greenery,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,The Restaurant @ Donnybrook,The Restaurant @ Donnybrook,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Hampton Hotel Bistro,Hampton Hotel Bistro,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Horse Show House,Horse Show House,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Mary Mac's Bar,Mary Mac's Bar,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Bellamy's,Bellamy's,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Cafe Java,Cafe Java,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Clyde Court Hotel,Clyde Court Hotel,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,The Bram Stoker Restaurant,The Bram Stoker Restaurant,0,北部中心,0.0,0.0,0.0
+其他西餐,Canters Restaurant,Canters Restaurant,0,北部中心,0.0,0.0,0.0
+其他西餐,Gilbert and Wright,Gilbert and Wright,0,北部中心,0.0,0.0,0.0
+其他西餐,Gravediggers,Gravediggers,0,北部中心,0.0,0.0,0.0
+其他西餐,Jazz Chinese and Thai Restaurant,Jazz Chinese and Thai Restaurant,0,北部中心,0.0,0.0,0.0
+其他西餐,The Dandelion Restaurant,The Dandelion Restaurant,0,,0.0,0.0,0.0
+其他西餐,Mc Garry's Pub Harolds Cross,Mc Garry's Pub Harolds Cross,0,都伯林西郊,0.0,0.0,0.0
+其他西餐,Phoenix Cafe,Phoenix Cafe,0,都伯林西郊,0.0,0.0,0.0
+其他西餐,Rody Boland,Rody Boland,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,HonesTea Cafe & Deli,HonesTea Cafe & Deli,0,其他,0.0,0.0,0.0
+其他西餐,The Dundrum House,The Dundrum House,0,波特马诺克,0.0,0.0,0.0
+其他西餐,Cafe Solo,Cafe Solo,0,,0.0,0.0,0.0
+其他西餐,Dungeon,Dungeon,0,其他,0.0,0.0,0.0
+其他西餐,Ristorante Tomasso,Ristorante Tomasso,0,其他,0.0,0.0,0.0
+其他西餐,Deadmans Inn,Deadmans Inn,0,,0.0,0.0,0.0
+其他西餐,The Gallery Cafe & Restaurant,The Gallery Cafe & Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Red Cow Steakhouse & Grill,Red Cow Steakhouse & Grill,0,,0.0,0.0,0.0
+其他西餐,Soundbites,Soundbites,0,其他,0.0,0.0,0.0
+其他西餐,House of Tea,House of Tea,0,其他,0.0,0.0,0.0
+其他西餐,The Leaf and Bean,The Leaf and Bean,0,其他,0.0,0.0,0.0
+其他西餐,Canal Boat Restaurant,Canal Boat Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Sip & Slurp,Sip & Slurp,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Terrace,The Terrace,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,SR Frango,SR Frango,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cafe Joly,Cafe Joly,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Sinnotts Bar,Sinnotts Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Amanda J's,Amanda J's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Crunch Cafe,Crunch Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Still,Still,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Pasta Fresca,Pasta Fresca,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Eddie Rockets,Eddie Rockets,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Scruffy Murphy's,Scruffy Murphy's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Quinlans - The Black Lion,Quinlans - The Black Lion,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Marks and Spencer Restaurant,Marks and Spencer Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Alfie's Restaurant,Alfie's Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Restaurant At Brown Thomas,The Restaurant At Brown Thomas,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Cathedral Cafe,The Cathedral Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Little Green,The Little Green,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cafe Cairo,Cafe Cairo,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,SpeakEasy Cafe Bar,SpeakEasy Cafe Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Lombard Townhouse Restaurant,The Lombard Townhouse Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Bruno's,Bruno's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Side door cafe dublino,Side door cafe dublino,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,GBK temple bar,GBK temple bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Legends,Legends,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Leo Burdock,Leo Burdock,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Fryery,The Fryery,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Hanley's Cornish Pasties,Hanley's Cornish Pasties,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Mac Turcaill's,Mac Turcaill's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Chaplins Bar,Chaplins Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,O'Reilly's Sub Lounge,O'Reilly's Sub Lounge,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Tp Smiths,Tp Smiths,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Del Rio's Cafe,Del Rio's Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Le Phare Coffee Shop,Le Phare Coffee Shop,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Bonza Pies,Bonza Pies,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Green Room,The Green Room,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,ChillOut Break Cafe,ChillOut Break Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Beshoff Restaurant,Beshoff Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Polski sklep,Polski sklep,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Sab Inn Cafe,Sab Inn Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Budapest Restaurant,Budapest Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Madigan's Bar Connolly Station,Madigan's Bar Connolly Station,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,In Cahoots Cafe,In Cahoots Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Benny's Chicken,Benny's Chicken,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Hanlon's Bar & Restaurant,Hanlon's Bar & Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Paul's Bistro & Wine Bar,Paul's Bistro & Wine Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Brasserie at Bewley's Hotel Leopardstown,The Brasserie at Bewley's Hotel Leopardstown,0,,0.0,0.0,0.0
+其他西餐,Real Gourmet Burger,Real Gourmet Burger,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Berkeley Brasserie,Berkeley Brasserie,0,巴尔斯布里奇,0.0,0.0,0.0
+其他西餐,Pebble beach bar Dublin,Pebble beach bar Dublin,0,北部中心,0.0,0.0,0.0
+其他西餐,ten fourteen,ten fourteen,0,北部中心,0.0,0.0,0.0
+其他西餐,food Room,food Room,0,北部中心,0.0,0.0,0.0
+其他西餐,Beaumont House,Beaumont House,0,北部中心,0.0,0.0,0.0
+其他西餐,Coolquoy Lodge Pub and Restaurant,Coolquoy Lodge Pub and Restaurant,0,,0.0,0.0,0.0
+其他西餐,McGowans of Harolds Cross,McGowans of Harolds Cross,0,都伯林西郊,0.0,0.0,0.0
+其他西餐,Acorn Cafe Wine Bistro,Acorn Cafe Wine Bistro,0,都伯林西郊,0.0,0.0,0.0
+其他西餐,Anar Restaurant,Anar Restaurant,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,MondeGreen Eaterie at The Terenure Inn,MondeGreen Eaterie at The Terenure Inn,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,Smyth's Pub,Smyth's Pub,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,Rathmines inn,Rathmines inn,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,Clodaghs Kitchen,Clodaghs Kitchen,0,,0.0,0.0,0.0
+其他西餐,Alcock and Brown,Alcock and Brown,0,,0.0,0.0,0.0
+其他西餐,Hibernian Bistro,Hibernian Bistro,0,其他,0.0,0.0,0.0
+其他西餐,Frankie & Johnnies Steakhouse,Frankie & Johnnies Steakhouse,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Kobra Bar,Kobra Bar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Welligton,The Welligton,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Village,The Village,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Slaney,The Slaney,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Francesca's Restaurant,Francesca's Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Ocean Bar & Restaurant,Ocean Bar & Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,O'sheas Irish Restaurant,O'sheas Irish Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,O'Reillys of Templebar,O'Reillys of Templebar,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Caffe Brazil,Caffe Brazil,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Loft Bar and Grill,The Loft Bar and Grill,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Bleu Note Bar & Club,Bleu Note Bar & Club,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,La Belle Fontaine,La Belle Fontaine,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Cafe Lemonade,Cafe Lemonade,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Oslo Bar and Bean & Gone Coffee Shop,Oslo Bar and Bean & Gone Coffee Shop,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Smiths of Phibsboro,Smiths of Phibsboro,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Tir na nog Caife,Tir na nog Caife,0,北部中心,0.0,0.0,0.0
+其他西餐,"The Breffni, Blackrock, Co Dublin","The Breffni, Blackrock, Co Dublin",0,北部中心,0.0,0.0,0.0
+其他西餐,Fitzroy & Flinders,Fitzroy & Flinders,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,Peggy Kelly's,Peggy Kelly's,0,拉尼拉格/达特里,0.0,0.0,0.0
+其他西餐,L'ecrevain,L'ecrevain,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Blue Ginger Cafe Restaurant,Blue Ginger Cafe Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,O'Donoghue's,O'Donoghue's,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Foley's Bar & Restaurant,Foley's Bar & Restaurant,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Avoca Cafe,Avoca Cafe,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,The Curch,The Curch,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,murrys bar and grill,murrys bar and grill,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Beshoffs,Beshoffs,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Flannagans Dublin Ireland,Flannagans Dublin Ireland,0,都柏林市中心,0.0,0.0,0.0
+其他西餐,Hedigans The Brian Boru,Hedigans The Brian Boru,0,北部中心,0.0,0.0,0.0
+其他西餐,Reeds on the River,Reeds on the River,0,北部中心,0.0,0.0,0.0
+其他西餐,Bloom,Bloom,0,都伯林西郊,0.0,0.0,0.0
+中餐,Hilan Chinese,Hilan Chinese,0,都柏林市中心,7.3,7.2,7.3
+中餐,Jimmy Chungs,Jimmy Chungs,0,都柏林市中心,7.2,7.2,7.2
+中餐,Orchid Sichuan,Orchid Sichuan,0,巴尔斯布里奇,7.7,7.7,7.7
+中餐,Imperial,Imperial,0,都柏林市中心,5.9,5.9,5.9
+中餐,Mandarin House,Mandarin House,0,都柏林市中心,0.0,0.0,0.0
+中餐,Lee Kee,Lee Kee,0,都柏林市中心,0.0,0.0,0.0
+中餐,Golden Elephant,Golden Elephant,0,都柏林市中心,0.0,0.0,0.0
+中餐,Eatzen Chinese Restaurant,Eatzen Chinese Restaurant,0,都柏林市中心,0.0,0.0,0.0
+中餐,New Millenium,New Millenium,0,都柏林市中心,0.0,0.0,0.0
+中餐,Ming Court,Ming Court,0,都柏林市中心,0.0,0.0,0.0
+中餐,Kites Chinese Restauant,Kites Chinese Restauant,0,巴尔斯布里奇,0.0,0.0,0.0
+中餐,Tian Yuan,Tian Yuan,0,都柏林市中心,0.0,0.0,0.0
+中餐,Emperor Malaysian Restaurant & Cafe,Emperor Malaysian Restaurant & Cafe,0,都柏林市中心,0.0,0.0,0.0
+中餐,Ka Shing,Ka Shing,0,都柏林市中心,0.0,0.0,0.0
+中餐,Chief Changs Buffet,Chief Changs Buffet,0,其他,0.0,0.0,0.0
+中餐,The Rising Phoenix,The Rising Phoenix,0,都伯林西郊,0.0,0.0,0.0
+中餐,Pulau Penang City Centre North,Pulau Penang City Centre North,0,都柏林市中心,0.0,0.0,0.0
+中餐,Zao Noodle Bar Limited,Zao Noodle Bar Limited,0,北部中心,0.0,0.0,0.0
+中餐,Chief Chang's Buffet,Chief Chang's Buffet,0,北部中心,0.0,0.0,0.0
+中餐,New Hin Keng,New Hin Keng,0,其他,0.0,0.0,0.0
+中餐,Aurora,Aurora,0,,0.0,0.0,0.0
+中餐,Rickshaw,Rickshaw,0,,0.0,0.0,0.0
+中餐,Captain America's,Captain America's,0,都柏林市中心,0.0,0.0,0.0
+中餐,Furama Chinese Restaurant,Furama Chinese Restaurant,0,巴尔斯布里奇,0.0,0.0,0.0
+中餐,WONGS,WONGS,0,北部中心,0.0,0.0,0.0
+中餐,Golden Palace,Golden Palace,0,北部中心,0.0,0.0,0.0
+中餐,New Emperor Chinese Restaurant,New Emperor Chinese Restaurant,0,都伯林机场,0.0,0.0,0.0
+中餐,Zen Restaurant,Zen Restaurant,0,拉尼拉格/达特里,0.0,0.0,0.0
+中餐,Treasures,Treasures,0,,0.0,0.0,0.0
+中餐,Wong's Chinese Restaurant,Wong's Chinese Restaurant,0,北部中心,0.0,0.0,0.0
+中餐,Hong Hop,Hong Hop,0,,0.0,0.0,0.0
+中餐,The Orchid,The Orchid,0,,0.0,0.0,0.0
+日韩料理,Yamamori Sushi,Yamamori Sushi,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Yamamori Izakaya,Yamamori Izakaya,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Ayumi-Ya,Ayumi-Ya,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Kokoro Sushi and Bento,Kokoro Sushi and Bento,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Musashi Japanese Restaurant,Musashi Japanese Restaurant,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Michie Sushi,Michie Sushi,0,巴尔斯布里奇,0.0,0.0,0.0
+日韩料理,Tippenyaki,Tippenyaki,0,拉尼拉格/达特里,0.0,0.0,0.0
+日韩料理,Sushi King,Sushi King,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Zakura,Zakura,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Yamamori Noodles,Yamamori Noodles,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Ukiyo Bar,Ukiyo Bar,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Banyi Japanese Dining,Banyi Japanese Dining,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Rafa's Temaki,Rafa's Temaki,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Fujiyama Restaurant,Fujiyama Restaurant,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,J2 grill & Sushi bar,J2 grill & Sushi bar,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Musashi Sushi and Bar IFSC,Musashi Sushi and Bar IFSC,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Arisu,Arisu,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Geisha Asian Restaurant,Geisha Asian Restaurant,0,北部中心,0.0,0.0,0.0
+日韩料理,Tani Sushi,Tani Sushi,0,拉尼拉格/达特里,0.0,0.0,0.0
+日韩料理,Wagamama,Wagamama,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Gochi Japanese Bistro,Gochi Japanese Bistro,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Koishi,Koishi,0,巴尔斯布里奇,0.0,0.0,0.0
+日韩料理,10 Thousand Restaurant,10 Thousand Restaurant,0,其他,0.0,0.0,0.0
+日韩料理,Musashi,Musashi,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,10 Thousand World Restaurant,10 Thousand World Restaurant,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Arirang,Arirang,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Sakura Sushi,Sakura Sushi,0,拉尼拉格/达特里,0.0,0.0,0.0
+日韩料理,Mitsuba Japanese Restaurant,Mitsuba Japanese Restaurant,0,都柏林市中心,0.0,0.0,0.0
+日韩料理,Musashi Dublin,Musashi Dublin,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,M&L Chinese Restaurant,M&L Chinese Restaurant,0,都柏林市中心,7.5,7.3,7.3
+更多亚洲菜,Camile,Camile,0,拉尼拉格/达特里,7.2,6.8,6.8
+更多亚洲菜,Langkawi,Langkawi,0,巴尔斯布里奇,6.8,7.2,7.2
+更多亚洲菜,Mao Chatham Row,Mao Chatham Row,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Chili Club,Chili Club,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Diep le Shaker,Diep le Shaker,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,indian summer,indian summer,0,,0.0,0.0,0.0
+更多亚洲菜,Thai Orchid,Thai Orchid,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Damascus Gate,Damascus Gate,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Saba,Saba,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Delhi O'Deli,Delhi O'Deli,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Indian Curry House,Indian Curry House,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bachelor's Wok,Bachelor's Wok,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Far East Restaurant,Far East Restaurant,0,都伯林西郊,0.0,0.0,0.0
+更多亚洲菜,Mehek,Mehek,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多亚洲菜,Baan Thai Leopardstown,Baan Thai Leopardstown,0,,0.0,0.0,0.0
+更多亚洲菜,Ananda Restaurant,Ananda Restaurant,0,,0.0,0.0,0.0
+更多亚洲菜,Monty's of Kathmandu,Monty's of Kathmandu,0,,0.0,0.0,0.0
+更多亚洲菜,Konkan,Konkan,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Ambala,Ambala,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Opium,Opium,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Neon,Neon,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Jaipur,Jaipur,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Jewel in the Crown,Jewel in the Crown,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Umi Falafel,Umi Falafel,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Kathmandu Kitchen Nepalese & Indian Restaurant,Kathmandu Kitchen Nepalese & Indian Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,King Charlie's Malaysian & Chinese Restaurant,King Charlie's Malaysian & Chinese Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,StirCrazy,StirCrazy,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Pho Ta,Pho Ta,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Chameleon Restaurant,Chameleon Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Koh Restaurant & Cocktail Lounge,Koh Restaurant & Cocktail Lounge,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Govindas,Govindas,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Madina Desi Curry Co.,Madina Desi Curry Co.,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Aobaba,Aobaba,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Thai Spice,Thai Spice,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Pho Viet,Pho Viet,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Spice of India,Spice of India,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Ruposhi Indian Restaurant,Ruposhi Indian Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Kinara Kitchen,Kinara Kitchen,0,巴尔斯布里奇,0.0,0.0,0.0
+更多亚洲菜,Baan Thai Ballsbridge,Baan Thai Ballsbridge,0,巴尔斯布里奇,0.0,0.0,0.0
+更多亚洲菜,Alladin's Cafe & Restaurant,Alladin's Cafe & Restaurant,0,巴尔斯布里奇,0.0,0.0,0.0
+更多亚洲菜,Kinara,Kinara,0,北部中心,0.0,0.0,0.0
+更多亚洲菜,Chilli Banana,Chilli Banana,0,北部中心,0.0,0.0,0.0
+更多亚洲菜,Mint Cottage,Mint Cottage,0,北部中心,0.0,0.0,0.0
+更多亚洲菜,Tamara,Tamara,0,,0.0,0.0,0.0
+更多亚洲菜,Kundan Tandoori,Kundan Tandoori,0,,0.0,0.0,0.0
+更多亚洲菜,Sawadee Thai,Sawadee Thai,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多亚洲菜,Vermilion,Vermilion,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多亚洲菜,Charlie's,Charlie's,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Kathmandu Nepalese Restaurant,Kathmandu Nepalese Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Bistro Spice,Bistro Spice,0,,0.0,0.0,0.0
+更多亚洲菜,Shakira,Shakira,0,,0.0,0.0,0.0
+更多亚洲菜,Swai Malaysian Restaurant,Swai Malaysian Restaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Yo Thai,Yo Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Passion 4 Food,Passion 4 Food,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Govinda's,Govinda's,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Samsara Bar,Samsara Bar,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Wok Inn Noodle Bar,Wok Inn Noodle Bar,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Diep Noodle Bar,Diep Noodle Bar,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Yum Thai,Yum Thai,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Siam Thai,Siam Thai,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Bamboo Restaurant,Bamboo Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Falafel and Kebab,Falafel and Kebab,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Mai Thai,Mai Thai,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Indian Curry Club,Indian Curry Club,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Saga,Saga,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Indie Spice,Indie Spice,0,巴尔斯布里奇,0.0,0.0,0.0
+更多亚洲菜,Vagya,Vagya,0,北部中心,0.0,0.0,0.0
+更多亚洲菜,Okra Green,Okra Green,0,北部中心,0.0,0.0,0.0
+更多亚洲菜,OCHA Teppanyaki & Sushi Bar,OCHA Teppanyaki & Sushi Bar,0,北部中心,0.0,0.0,0.0
+更多亚洲菜,Cinnamon,Cinnamon,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多亚洲菜,Jaipur,Jaipur,0,波特马诺克,0.0,0.0,0.0
+更多亚洲菜,Kurdish Cafe,Kurdish Cafe,0,其他,0.0,0.0,0.0
+更多亚洲菜,Indian Ocean,Indian Ocean,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Papaya,Papaya,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Faat Baat,Faat Baat,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Nyonya Malaysian Restaurant,Nyonya Malaysian Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Marhaba,Marhaba,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Shan Restaurant,Shan Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,MoonSoon Cafe,MoonSoon Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Istanbull Restaurant,Istanbull Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Hot Wok Bar Noodle,Hot Wok Bar Noodle,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Spicy Bite,Spicy Bite,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Rupsha,Rupsha,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Jewel in the Crown,Jewel in the Crown,0,巴尔斯布里奇,0.0,0.0,0.0
+更多亚洲菜,Indigo,Indigo,0,北部中心,0.0,0.0,0.0
+更多亚洲菜,Kanoodle,Kanoodle,0,北部中心,0.0,0.0,0.0
+更多亚洲菜,Casa Pasta,Casa Pasta,0,北部中心,0.0,0.0,0.0
+更多亚洲菜,Bombay Pantry,Bombay Pantry,0,北部中心,0.0,0.0,0.0
+更多亚洲菜,Zao restaurant,Zao restaurant,0,北部中心,0.0,0.0,0.0
+更多亚洲菜,Mao At Home - Tallaght,Mao At Home - Tallaght,0,,0.0,0.0,0.0
+更多亚洲菜,Diep at Home,Diep at Home,0,,0.0,0.0,0.0
+更多亚洲菜,Meghna Tandoori,Meghna Tandoori,0,都伯林西郊,0.0,0.0,0.0
+更多亚洲菜,Salt & Pepper Indian Restaurant and Takeaway,Salt & Pepper Indian Restaurant and Takeaway,0,都伯林西郊,0.0,0.0,0.0
+更多亚洲菜,Thai Thai,Thai Thai,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多亚洲菜,Graces Garden,Graces Garden,0,其他,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal,Taj Mahal,0,其他,0.0,0.0,0.0
+更多亚洲菜,Kebabish Tandoori,Kebabish Tandoori,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Golden Spice,Golden Spice,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Afsana Tandoori,Afsana Tandoori,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,full house,full house,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Namaste India,Namaste India,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Abacus Restaurant,Abacus Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Tasty Hut,Tasty Hut,0,都柏林市中心,0.0,0.0,0.0
+更多亚洲菜,Khans Balti House,Khans Balti House,0,巴尔斯布里奇,0.0,0.0,0.0
+快餐简餐,Eddie Rocket's City Diner,Eddie Rocket's City Diner,0,都柏林市中心,6.8,6.8,6.8
+快餐简餐,Crackbird,Crackbird,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Alfie Byrne's by Galway Bay Brewery,Alfie Byrne's by Galway Bay Brewery,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,"Bunsen, Wexford st, dublin","Bunsen, Wexford st, dublin",0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Farmer Browns Market and Eatery,Farmer Browns Market and Eatery,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Chopped,Chopped,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Angel Park Eatery,Angel Park Eatery,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Hard Rock Cafe,Hard Rock Cafe,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,T.G.I Fridays,T.G.I Fridays,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,El Paso Restaurant,El Paso Restaurant,0,,0.0,0.0,0.0
+快餐简餐,Food Game,Food Game,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Shanahan's on the Green,Shanahan's on the Green,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Gotham Cafe,Gotham Cafe,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,KC Peaches Cafe & Delicatessen,KC Peaches Cafe & Delicatessen,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,The Counter,The Counter,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Pitt Bros,Pitt Bros,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Rick's Burgers,Rick's Burgers,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Darkey Kellys,Darkey Kellys,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Staple Foods,Staple Foods,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,J.W. Sweetman,J.W. Sweetman,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Carr & O'Connell,Carr & O'Connell,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Seven Wonders Ifsc,Seven Wonders Ifsc,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Broadway Pizza Parlour,Broadway Pizza Parlour,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,The Woolshed,The Woolshed,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Bleecker Street Cafe Bar,Bleecker Street Cafe Bar,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Maia Restaurant,Maia Restaurant,0,巴尔斯布里奇,0.0,0.0,0.0
+快餐简餐,Beckett & Bull,Beckett & Bull,0,拉尼拉格/达特里,0.0,0.0,0.0
+快餐简餐,Tribeca,Tribeca,0,拉尼拉格/达特里,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Alfie's Bar & Grill at the Conrad Hotel,Alfie's Bar & Grill at the Conrad Hotel,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Harrys on the Green,Harrys on the Green,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Dunne and Crescenzi Casa,Dunne and Crescenzi Casa,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,The Pig and Heifer,The Pig and Heifer,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Starbucks - College Green,Starbucks - College Green,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Irish Film Institute Restaurant,Irish Film Institute Restaurant,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Thunder Road Cafe,Thunder Road Cafe,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Worscht - world of gourmet sausages,Worscht - world of gourmet sausages,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Cafe Manila,Cafe Manila,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Eddie Rockets,Eddie Rockets,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Supermac's,Supermac's,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,BluApple,BluApple,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Brunos Takeaway,Brunos Takeaway,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Jo Burger Rathmines,Jo Burger Rathmines,0,拉尼拉格/达特里,0.0,0.0,0.0
+快餐简餐,Hobarts at Ranelagh,Hobarts at Ranelagh,0,拉尼拉格/达特里,0.0,0.0,0.0
+快餐简餐,Dillingers,Dillingers,0,拉尼拉格/达特里,0.0,0.0,0.0
+快餐简餐,TGI FRIDAYS,TGI FRIDAYS,0,,0.0,0.0,0.0
+快餐简餐,Swiss Deli,Swiss Deli,0,,0.0,0.0,0.0
+快餐简餐,Credo,Credo,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,T.G.I. Fridays,T.G.I. Fridays,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Captain Americas,Captain Americas,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Le Petit Cafe,Le Petit Cafe,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Burger King,Burger King,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Funky Feeds at the Sweeney mongrel,Funky Feeds at the Sweeney mongrel,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,TGI ridays,TGI ridays,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Mc Cabes Deli,Mc Cabes Deli,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,J's Noodle & Sushi bar,J's Noodle & Sushi bar,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,The Rolling Doughnut,The Rolling Doughnut,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Firehouse Pizza Ireland,Firehouse Pizza Ireland,0,北部中心,0.0,0.0,0.0
+快餐简餐,Cabana Cafe,Cabana Cafe,0,都伯林西郊,0.0,0.0,0.0
+快餐简餐,TGI Friday's,TGI Friday's,0,,0.0,0.0,0.0
+快餐简餐,Copan,Copan,0,拉尼拉格/达特里,0.0,0.0,0.0
+快餐简餐,Tri Fridays,Tri Fridays,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,McDonald's,McDonald's,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,Buffalo 19,Buffalo 19,0,拉尼拉格/达特里,0.0,0.0,0.0
+快餐简餐,巧面馆,巧面馆,0,,0.0,0.0,0.0
+快餐简餐,TGI Fridays,TGI Fridays,0,其他,0.0,0.0,0.0
+快餐简餐,Cracked bird,Cracked bird,0,都柏林市中心,0.0,0.0,0.0
+快餐简餐,杨员外家常菜馆,杨员外家常菜馆,0,,0.0,0.0,0.0
+快餐简餐,杨员外家常菜yang's restraunt,杨员外家常菜yang's restraunt,0,,0.0,0.0,0.0
+海鲜,"Lobster Pot, The","Lobster Pot, The",0,巴尔斯布里奇,7.7,7.7,7.7
+海鲜,The Cliff Town House Hotel and Restaurant,The Cliff Town House Hotel and Restaurant,0,都柏林市中心,7.7,7.7,7.7
+海鲜,Bite,Bite,0,都柏林市中心,0.0,0.0,0.0
+海鲜,F.X.Buckley. Steakhouse Crow Street Temple Bar,F.X.Buckley. Steakhouse Crow Street Temple Bar,0,都柏林市中心,0.0,0.0,0.0
+海鲜,Viva,Viva,0,都柏林市中心,0.0,0.0,0.0
+海鲜,Matt The Thresher,Matt The Thresher,0,都柏林市中心,0.0,0.0,0.0
+海鲜,Super Miss Sue,Super Miss Sue,0,都柏林市中心,0.0,0.0,0.0
+海鲜,Leo Burdock's,Leo Burdock's,0,都柏林市中心,0.0,0.0,0.0
+海鲜,The Lord Edward,The Lord Edward,0,都柏林市中心,0.0,0.0,0.0
+海鲜,Ryan's & F.X. Buckley Steakhouse,Ryan's & F.X. Buckley Steakhouse,0,都柏林市中心,0.0,0.0,0.0
+海鲜,Malones Fish and Chips,Malones Fish and Chips,0,都柏林市中心,0.0,0.0,0.0
+海鲜,Rock Lobster,Rock Lobster,0,巴尔斯布里奇,0.0,0.0,0.0
+海鲜,Hemmingway's Restaurant,Hemmingway's Restaurant,0,北部中心,0.0,0.0,0.0
+海鲜,Lincoln's Inn,Lincoln's Inn,0,都柏林市中心,0.0,0.0,0.0
+烧烤,Bison Bar and BBQ,Bison Bar and BBQ,0,都柏林市中心,0.0,0.0,0.0
+烧烤,Marco Pierre White Courtyard,Marco Pierre White Courtyard,0,巴尔斯布里奇,0.0,0.0,0.0
+烧烤,Lumanti of Nepal,Lumanti of Nepal,0,拉尼拉格/达特里,0.0,0.0,0.0
+烧烤,Morrison Grill,Morrison Grill,0,都柏林市中心,0.0,0.0,0.0
+比萨,Ray's Pizza,Ray's Pizza,0,都柏林市中心,0.0,0.0,0.0
+比萨,Paulie's Pizza,Paulie's Pizza,0,都柏林市中心,0.0,0.0,0.0
+比萨,Four Star Pizza,Four Star Pizza,0,巴尔斯布里奇,0.0,0.0,0.0
+比萨,The Bernard Shaw,The Bernard Shaw,0,都柏林市中心,0.0,0.0,0.0
+比萨,Skinflint,Skinflint,0,都柏林市中心,0.0,0.0,0.0
+比萨,Independent Pizza Co,Independent Pizza Co,0,北部中心,0.0,0.0,0.0
+比萨,Base Wood Fired Pizza,Base Wood Fired Pizza,0,拉尼拉格/达特里,0.0,0.0,0.0
+比萨,Milano Dublin - Clarion Quay,Milano Dublin - Clarion Quay,0,都柏林市中心,0.0,0.0,0.0
+比萨,Mizzoni Pizza & Pasta Co,Mizzoni Pizza & Pasta Co,0,波特马诺克,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,都柏林市中心,6.8,6.8,6.8
+咖啡厅,Listons Food Store,Listons Food Store,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Matt the Rashers,Matt the Rashers,0,都伯林西郊,0.0,0.0,0.0
+咖啡厅,Brother Hubbard,Brother Hubbard,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Rhubarb Cafe Deli,Rhubarb Cafe Deli,0,巴尔斯布里奇,0.0,0.0,0.0
+咖啡厅,Crave Cafe,Crave Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Cafe BIA,Cafe BIA,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Mish Mash,Mish Mash,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,巴尔斯布里奇,0.0,0.0,0.0
+咖啡厅,Voila,Voila,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,The Bald Barista,The Bald Barista,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,The Bell & Pot,The Bell & Pot,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Fixx Coffeehouse,Fixx Coffeehouse,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Metro Cafes Limited,Metro Cafes Limited,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Accents Coffee & Tea Lounge,Accents Coffee & Tea Lounge,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,The Art of Coffee,The Art of Coffee,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Limetree Cafe,Limetree Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Caffe Juliano's,Caffe Juliano's,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,The Stage Door Cafe,The Stage Door Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Brick Alley Cafe,Brick Alley Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Cinnamon Cafe,Cinnamon Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Anderson's Creperie,Anderson's Creperie,0,北部中心,0.0,0.0,0.0
+咖啡厅,Cup,Cup,0,拉尼拉格/达特里,0.0,0.0,0.0
+咖啡厅,HX46,HX46,0,拉尼拉格/达特里,0.0,0.0,0.0
+咖啡厅,Costa Coffee,Costa Coffee,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Caffe Cagliostro,Caffe Cagliostro,0,其他,0.0,0.0,0.0
+咖啡厅,3FE (3rd Floor Espresso),3FE (3rd Floor Espresso),0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,The Humble Bean,The Humble Bean,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Browns Bar & Cafe,Browns Bar & Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Walter Mitty's,Walter Mitty's,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Flux Cafe Science Gallery,Flux Cafe Science Gallery,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,The Cappuccino Bar,The Cappuccino Bar,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Dwarf Jar,Dwarf Jar,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Simon's Place,Simon's Place,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,The Twisted Pepper,The Twisted Pepper,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Coffee 2 Go,Coffee 2 Go,0,巴尔斯布里奇,0.0,0.0,0.0
+咖啡厅,The Tea Rooms,The Tea Rooms,0,北部中心,0.0,0.0,0.0
+咖啡厅,Olive Cafe,Olive Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,"Promenade Cafe,Dublin","Promenade Cafe,Dublin",0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Cafe Sol,Cafe Sol,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,O'Briens,O'Briens,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Cafe Jagos,Cafe Jagos,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Dublin Food Co-Op,Dublin Food Co-Op,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Cross Cafe,Cross Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Busyfeet & Coco Cafe,Busyfeet & Coco Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Starbucks Coffee Shop,Starbucks Coffee Shop,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Coffeeangel,Coffeeangel,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Foxy Friars Coffee Shop,Foxy Friars Coffee Shop,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,"Mugs, dalkey, dublin","Mugs, dalkey, dublin",0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,The Granary Cafe,The Granary Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Country Cafe,Country Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,D2 Coffee House,D2 Coffee House,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Cafe Aroma,Cafe Aroma,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Brambles Cafe Jervis Street Shopping Centre,Brambles Cafe Jervis Street Shopping Centre,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Clodagh's Kitchen,Clodagh's Kitchen,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Brasilia Cafe,Brasilia Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,TJ.s Coffee Bar,TJ.s Coffee Bar,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,A Goose on the Loose,A Goose on the Loose,0,巴尔斯布里奇,0.0,0.0,0.0
+咖啡厅,Roxy's,Roxy's,0,北部中心,0.0,0.0,0.0
+咖啡厅,Andersons Food Hall & Cafe,Andersons Food Hall & Cafe,0,北部中心,0.0,0.0,0.0
+咖啡厅,River Cafe,River Cafe,0,北部中心,0.0,0.0,0.0
+咖啡厅,itsa@IMMA Cafe,itsa@IMMA Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Caffe Noto,Caffe Noto,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,D2 Coffee House,D2 Coffee House,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,O Shea's,O Shea's,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Bean & Gone Cafe,Bean & Gone Cafe,0,都柏林市中心,0.0,0.0,0.0
+咖啡厅,Homemade By Clodagh,Homemade By Clodagh,0,其他,0.0,0.0,0.0
+咖啡厅,The Grand Central Cafe Bar,The Grand Central Cafe Bar,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Gino's Gelato,Gino's Gelato,0,都柏林市中心,8.3,6.7,6.7
+面包甜点,queen of tarts,queen of tarts,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Yogism Frozen Yogurt,Yogism Frozen Yogurt,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,il Valentino,il Valentino,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,The Bakehouse,The Bakehouse,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Hansel and Gretel Bakery & Patisserie,Hansel and Gretel Bakery & Patisserie,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Antoinette's Bakery,Antoinette's Bakery,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Candy Cafe,Candy Cafe,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Olive Green Espresso Bar,Olive Green Espresso Bar,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Lolly and Cooks,Lolly and Cooks,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,The Dawson Lounge,The Dawson Lounge,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Kilkenny Cafe and Restaurant,Kilkenny Cafe and Restaurant,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Honest To Goodness,Honest To Goodness,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,The Bakery,The Bakery,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,The Pieman Cafe,The Pieman Cafe,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,The Sweetest Thing,The Sweetest Thing,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,The Lovely Food Company,The Lovely Food Company,0,都伯林西郊,0.0,0.0,0.0
+面包甜点,The Black Apple Cafe,The Black Apple Cafe,0,拉尼拉格/达特里,0.0,0.0,0.0
+面包甜点,Bear Market Coffee,Bear Market Coffee,0,其他,0.0,0.0,0.0
+面包甜点,Cheesecake Dublin,Cheesecake Dublin,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Sasha House Petite,Sasha House Petite,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Butlers Chocolate Cafe,Butlers Chocolate Cafe,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Oxmantown,Oxmantown,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Furlong & Kehoe,Furlong & Kehoe,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Shakes Milkshake Bar,Shakes Milkshake Bar,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Little Delights Bakery Cafe,Little Delights Bakery Cafe,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Lemon Jelly Cafe,Lemon Jelly Cafe,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,Java Bay Restaurant,Java Bay Restaurant,0,都柏林市中心,0.0,0.0,0.0
+面包甜点,CafeByDay,CafeByDay,0,北部中心,0.0,0.0,0.0
+面包甜点,Bake My Day,Bake My Day,0,都伯林西郊,0.0,0.0,0.0
+酒吧,Oliver St. John Gogarty's酒吧,Oliver St. John Gogarty's酒吧,0,都柏林市中心,7.4,7.4,7.4
+酒吧,Ely Wine Bar,Ely Wine Bar,0,都柏林市中心,6.7,7.4,7.4
+酒吧,Temple Bar Pub酒吧,Temple Bar Pub酒吧,0,都柏林市中心,6.8,7.2,7.2
+酒吧,黄铜头颅酒吧,黄铜头颅酒吧,0,都柏林市中心,7.2,7.7,7.7
+酒吧,Winding Stair,Winding Stair,0,都柏林市中心,0.0,0.0,0.0
+酒吧,O'Donoghue's酒吧,O'Donoghue's酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Bridge Bar and Grill,Bridge Bar and Grill,0,都柏林市中心,0.0,0.0,0.0
+酒吧,ely gastro bar,ely gastro bar,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Camden Kitchen,Camden Kitchen,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Dax Cafe Bar,Dax Cafe Bar,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Cafe Restaurant RIBA,Cafe Restaurant RIBA,0,,0.0,0.0,0.0
+酒吧,John Kavanagh (Grave Diggers),John Kavanagh (Grave Diggers),0,其他,0.0,0.0,0.0
+酒吧,Doheny and Nesbitt,Doheny and Nesbitt,0,都柏林市中心,0.0,0.0,0.0
+酒吧,John Kehoe's,John Kehoe's,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Hairy Lemon酒吧,Hairy Lemon酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Davy Byrnes,Davy Byrnes,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Long Hall,The Long Hall,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Grogan's Castle Lounge夜店,Grogan's Castle Lounge夜店,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Vicar Street,Vicar Street,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Stag's Head,Stag's Head,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Peadar Kearney's,Peadar Kearney's,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Hippety's,Hippety's,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Bad Bobs,Bad Bobs,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Quays Bar,The Quays Bar,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Palace酒吧,The Palace酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Cassidys,Cassidys,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Ferryman酒吧,The Ferryman酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,River Bar,River Bar,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Cellar Bar,The Cellar Bar,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Panti Bar,Panti Bar,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Mulligan's,Mulligan's,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The O2,The O2,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Searsons,Searsons,0,巴尔斯布里奇,0.0,0.0,0.0
+酒吧,The Waterloo Bar & Grill,The Waterloo Bar & Grill,0,巴尔斯布里奇,0.0,0.0,0.0
+酒吧,Vat House Bar夜店,Vat House Bar夜店,0,北部中心,0.0,0.0,0.0
+酒吧,Anseo酒吧,Anseo酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Vintage Cocktail Club,Vintage Cocktail Club,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Whelan's,Whelan's,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Baggot Inn,The Baggot Inn,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Sinnot's酒吧,Sinnot's酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Dandelion,Dandelion,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Neary's,Neary's,0,都柏林市中心,0.0,0.0,0.0
+酒吧,McDaid's夜店,McDaid's夜店,0,都柏林市中心,0.0,0.0,0.0
+酒吧,公爵酒吧,公爵酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Thomas House,The Thomas House,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The George同性恋酒吧,The George同性恋酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Brogan's Bar,Brogan's Bar,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Fitzsimons酒吧,Fitzsimons酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,筛子酒吧,筛子酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Academy Dublin,The Academy Dublin,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Sackville Lounge酒吧,Sackville Lounge酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Brannigan's,Brannigan's,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Molloys Pub,Molloys Pub,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Mulligans,Mulligans,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Mc Gowans of Phibsboro,Mc Gowans of Phibsboro,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Vanilla NightClub,Vanilla NightClub,0,巴尔斯布里奇,0.0,0.0,0.0
+酒吧,O'Shea's Merchant夜店,O'Shea's Merchant夜店,0,巴尔斯布里奇,0.0,0.0,0.0
+酒吧,Pepper Brasserie & Grill,Pepper Brasserie & Grill,0,北部中心,0.0,0.0,0.0
+酒吧,The Cat & Cage,The Cat & Cage,0,北部中心,0.0,0.0,0.0
+酒吧,Deputy mayor,Deputy mayor,0,,0.0,0.0,0.0
+酒吧,C Central Bar,C Central Bar,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Crawdaddy酒吧,Crawdaddy酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Hourican's,Hourican's,0,都柏林市中心,0.0,0.0,0.0
+酒吧,克莱斯特尔夜店,克莱斯特尔夜店,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Lost Society,Lost Society,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Scruffy Murphy's,Scruffy Murphy's,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Mercantile酒吧,Mercantile酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Front Lounge,Front Lounge,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Slattery's,Slattery's,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Traffic夜店,Traffic夜店,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Pint,The Pint,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Le Monde Cafe Bar,Le Monde Cafe Bar,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Vault,The Vault,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Glimmer Man Pub,The Glimmer Man Pub,0,都柏林市中心,0.0,0.0,0.0
+酒吧,McCloskeys,McCloskeys,0,巴尔斯布里奇,0.0,0.0,0.0
+酒吧,It's a 4,It's a 4,0,巴尔斯布里奇,0.0,0.0,0.0
+酒吧,Dylanbar,Dylanbar,0,巴尔斯布里奇,0.0,0.0,0.0
+酒吧,The Brian Boru,The Brian Boru,0,北部中心,0.0,0.0,0.0
+酒吧,Rosie O' Gradys,Rosie O' Gradys,0,都伯林西郊,0.0,0.0,0.0
+酒吧,Everleigh Garden,Everleigh Garden,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Inn on the Green,Inn on the Green,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Graingers The Fountain Bar & Restaurant,Graingers The Fountain Bar & Restaurant,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Cocoon酒吧,Cocoon酒吧,0,都柏林市中心,0.0,0.0,0.0
+酒吧,President's Bar,President's Bar,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Georges Bistro,Georges Bistro,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Purty Kitchen,The Purty Kitchen,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Bar 52,Bar 52,0,都柏林市中心,0.0,0.0,0.0
+酒吧,Kudos Bar,Kudos Bar,0,都柏林市中心,0.0,0.0,0.0
+酒吧,James Joyce Bar and Venue,James Joyce Bar and Venue,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Vaults夜店,The Vaults夜店,0,都柏林市中心,0.0,0.0,0.0
+酒吧,The Autobahn Roadhouse,The Autobahn Roadhouse,0,北部中心,0.0,0.0,0.0
+酒吧,Trocadero Dublin,Trocadero Dublin,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Bruxelles,Bruxelles,0,都柏林市中心,6.7,6.7,7.4
+更多美食,Arlington Hotel O'Connell Bridge Restaurant,Arlington Hotel O'Connell Bridge Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Gerry's Coffee Shop,Gerry's Coffee Shop,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Dining Room at the Ariel House,Dining Room at the Ariel House,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Mourne Seafood Bar,Mourne Seafood Bar,0,其他,0.0,0.0,0.0
+更多美食,The Lotts Cafe Bar,The Lotts Cafe Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Wuff,Wuff,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Kanum,Kanum,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Herbstreet,Herbstreet,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Kimchi,Kimchi,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Rotana Cafe,Rotana Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Ravi's Kitchen,Ravi's Kitchen,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Avoca,Avoca,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Toner's,Toner's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Dublin City Food,Dublin City Food,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Chesterfields Restaurant,Chesterfields Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,1900,1900,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Butlers,Butlers,0,都柏林市中心,0.0,0.0,0.0
+更多美食,La Dolce Vita,La Dolce Vita,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Oliver St John Gogarty,Oliver St John Gogarty,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Epicurean Food Hall,Epicurean Food Hall,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Chophouse Gastro Pub,The Chophouse Gastro Pub,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Ginger Man,Ginger Man,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Kennedys,Kennedys,0,都柏林市中心,0.0,0.0,0.0
+更多美食,ICE at the Four Seasons Hotel Dublin,ICE at the Four Seasons Hotel Dublin,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Hilton Dublin Kilmainham Restaurant,Hilton Dublin Kilmainham Restaurant,0,都伯林西郊,0.0,0.0,0.0
+更多美食,The Farmhouse Cafe,The Farmhouse Cafe,0,都伯林西郊,0.0,0.0,0.0
+更多美食,Michel Patisserie,Michel Patisserie,0,其他,0.0,0.0,0.0
+更多美食,Charming Noodles,Charming Noodles,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Tap House,Tap House,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Urbun,Urbun,0,,0.0,0.0,0.0
+更多美食,Seasons at the Regency Airport,Seasons at the Regency Airport,0,其他,0.0,0.0,0.0
+更多美食,Alex Restaurant,Alex Restaurant,0,都伯林西郊,0.0,0.0,0.0
+更多美食,Against the Grain,Against the Grain,0,其他,0.0,0.0,0.0
+更多美食,Salt at Avoca,Salt at Avoca,0,其他,0.0,0.0,0.0
+更多美食,Fern House,Fern House,0,其他,0.0,0.0,0.0
+更多美食,Little Jerusalem,Little Jerusalem,0,其他,0.0,0.0,0.0
+更多美食,Cracked Nut,Cracked Nut,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Bleeding Horse,Bleeding Horse,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Peacock Green,Peacock Green,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Chai Yo,Chai Yo,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Restaurant at The Schoolhouse,The Restaurant at The Schoolhouse,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Green Bench Cafe,Green Bench Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Isabel's,Isabel's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Doheny & Nesbitt,Doheny & Nesbitt,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Dobbins Wine Bar,Dobbins Wine Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Etto,Etto,0,都柏林市中心,0.0,0.0,0.0
+更多美食,O'Donoghue's,O'Donoghue's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Hugo's,Hugo's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Lord Mayor's Lounge,Lord Mayor's Lounge,0,都柏林市中心,0.0,0.0,0.0
+更多美食,No. 27 Bar & Lounge,No. 27 Bar & Lounge,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Cafe en Seine,Cafe en Seine,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Darwins Restaurant,Darwins Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Bite of Life,Bite of Life,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Peter's Pub,Peter's Pub,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Kehoe's,Kehoe's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Brooks Hotel,Brooks Hotel,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Cafe Novo,Cafe Novo,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Bewley's Oriental Cafe,Bewley's Oriental Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Long Hall,Long Hall,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Urban Picnic,Urban Picnic,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Il Caffe di Napoli,Il Caffe di Napoli,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Gourmet Food Parlour,Gourmet Food Parlour,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Blazing Salads Food Co.,Blazing Salads Food Co.,0,都柏林市中心,0.0,0.0,0.0
+更多美食,El Bahia,El Bahia,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Cornucopia Restaurant,Cornucopia Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Brewery Bar @ Guinness Storehouse,Brewery Bar @ Guinness Storehouse,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Keoghs,Keoghs,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Bank on College Green,The Bank on College Green,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Toscana Restaurant,Toscana Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Queen of Tarts,Queen of Tarts,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Marker Bar,The Marker Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Mezza Lebanese Restaurant,Mezza Lebanese Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,O'Shea's Merchant,O'Shea's Merchant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Porterhouse Temple Bar,The Porterhouse Temple Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Luigi Malones,Luigi Malones,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Joy of Cha,Joy of Cha,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Temple Bar,Temple Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Farringtons,Farringtons,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Gallaher & Co Bistro & Coffee House,Gallaher & Co Bistro & Coffee House,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Mint Bar,The Mint Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,SOUP DRAGON,SOUP DRAGON,0,都柏林市中心,0.0,0.0,0.0
+更多美食,"The Church, Cafe, Bar & Restaurant","The Church, Cafe, Bar & Restaurant",0,都柏林市中心,0.0,0.0,0.0
+更多美食,O'Sheas,O'Sheas,0,都柏林市中心,0.0,0.0,0.0
+更多美食,147 Deli,147 Deli,0,都柏林市中心,0.0,0.0,0.0
+更多美食,"Cedar Tree, The","Cedar Tree, The",0,都柏林市中心,0.0,0.0,0.0
+更多美食,Paddy Cullen's,Paddy Cullen's,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,The Wild Goose Grill,The Wild Goose Grill,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Rowleys Bistro,Rowleys Bistro,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Al Boschetto,Al Boschetto,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Rigby's,Rigby's,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Forest Avenue,Forest Avenue,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,O'Brien's,O'Brien's,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,La Peniche,La Peniche,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Dylan Hotel,Dylan Hotel,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Marcel's,Marcel's,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Moloughney's Restaurant,Moloughney's Restaurant,0,北部中心,0.0,0.0,0.0
+更多美食,Bay Restaurant,Bay Restaurant,0,北部中心,0.0,0.0,0.0
+更多美食,Downstairs Restaurant and Bar,Downstairs Restaurant and Bar,0,北部中心,0.0,0.0,0.0
+更多美食,The Sideline Bistro,The Sideline Bistro,0,北部中心,0.0,0.0,0.0
+更多美食,Bang Restaurant,Bang Restaurant,0,北部中心,0.0,0.0,0.0
+更多美食,Restaurant FortyOne,Restaurant FortyOne,0,北部中心,0.0,0.0,0.0
+更多美食,Dali's,Dali's,0,北部中心,0.0,0.0,0.0
+更多美食,Market Canteen,Market Canteen,0,北部中心,0.0,0.0,0.0
+更多美食,Pink Elephant,Pink Elephant,0,,0.0,0.0,0.0
+更多美食,Halfway House,Halfway House,0,都伯林西郊,0.0,0.0,0.0
+更多美食,Brambles Cafe Bistro,Brambles Cafe Bistro,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Six West Bistro,Six West Bistro,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Coda Eatery,Coda Eatery,0,其他,0.0,0.0,0.0
+更多美食,Thunders Bakery and Deli,Thunders Bakery and Deli,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Millhouse,The Millhouse,0,其他,0.0,0.0,0.0
+更多美食,The Cock Tavern,The Cock Tavern,0,波特马诺克,0.0,0.0,0.0
+更多美食,Mes Amis,Mes Amis,0,,0.0,0.0,0.0
+更多美食,The Tranquil Tea Rooms,The Tranquil Tea Rooms,0,其他,0.0,0.0,0.0
+更多美食,Mc Mahons,Mc Mahons,0,其他,0.0,0.0,0.0
+更多美食,Tamarama Cafe,Tamarama Cafe,0,其他,0.0,0.0,0.0
+更多美食,Odeon Nite Bar,Odeon Nite Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,D two,D two,0,都柏林市中心,0.0,0.0,0.0
+更多美食,McGrattans Pub,McGrattans Pub,0,都柏林市中心,0.0,0.0,0.0
+更多美食,D4 Urban Cafe,D4 Urban Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Art Tea at The Merrion Hotel,Art Tea at The Merrion Hotel,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Beanhive,Beanhive,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Tigers Pan Asian and Cocktail Club,Tigers Pan Asian and Cocktail Club,0,都柏林市中心,0.0,0.0,0.0
+更多美食,National Museum Cafe,National Museum Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Verres en Vers,Verres en Vers,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Buenos Aires Grill Dublin,Buenos Aires Grill Dublin,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Il Fico Sicilian Cafe,Il Fico Sicilian Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Oolong Flower POWER,Oolong Flower POWER,0,都柏林市中心,0.0,0.0,0.0
+更多美食,National Gallery Cafe,National Gallery Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Eastwood and Mays,Eastwood and Mays,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Damson Diner,Damson Diner,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Bailey Bar Dublin,The Bailey Bar Dublin,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Kaph,Kaph,0,都柏林市中心,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Butler's Chocolate Cafe,Butler's Chocolate Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Good World Restaurant,Good World Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Food Gallery,The Food Gallery,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Itsa,Itsa,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Library Bar at Central Hotel Dublin,The Library Bar at Central Hotel Dublin,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Gibsons DELI & BAKERY,Gibsons DELI & BAKERY,0,都柏林市中心,0.0,0.0,0.0
+更多美食,BitterSweet cafe&salad bar,BitterSweet cafe&salad bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Keogh's Of Trinity Street,Keogh's Of Trinity Street,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Taste of Everest,Taste of Everest,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Rooftop Lounge,The Rooftop Lounge,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Iskanders Kebab Shop,Iskanders Kebab Shop,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Beirut Express,Beirut Express,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Costa Coffee,Costa Coffee,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Falafel Lounge,Falafel Lounge,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Tante Zoe's,Tante Zoe's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,DiFontaine's Pizzeria,DiFontaine's Pizzeria,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Milano Restaurant,Milano Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Bad Ass Cafe,Bad Ass Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Roasted Brown Cafe,Roasted Brown Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Terrace Restaurant at Temple Bar Hotel,Terrace Restaurant at Temple Bar Hotel,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Palm Tree Restaurant,The Palm Tree Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Joy of Coffee,Joy of Coffee,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Tea Garden,Tea Garden,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Sin E Dublin,Sin E Dublin,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Southbank at the Ferryman,The Southbank at the Ferryman,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Jack Nealon's,Jack Nealon's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Foam Cafe and Gallery,Foam Cafe and Gallery,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Fitzgeralds,Fitzgeralds,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Leo Burdocks,Leo Burdocks,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Iveagh Bar,Iveagh Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Flowing Tide,Flowing Tide,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Ann's Bakery,Ann's Bakery,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Cafe Carlo,Cafe Carlo,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Paris Bakery and Pastry,Paris Bakery and Pastry,0,都柏林市中心,0.0,0.0,0.0
+更多美食,D One Bar and Restaurant,D One Bar and Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Groomes Bar & Bistro,Groomes Bar & Bistro,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Lebanese Chef Restaurant,Lebanese Chef Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,DELISUZ,DELISUZ,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Munchies,Munchies,0,,0.0,0.0,0.0
+更多美食,Eatery 120,Eatery 120,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Punjabi by Nature Indian Restaurants,Punjabi by Nature Indian Restaurants,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Embassy grill,Embassy grill,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,The Swan,The Swan,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Dunne and Crescenzi - Seafort Ave.,Dunne and Crescenzi - Seafort Ave.,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Millers Pizza,Millers Pizza,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Green Land Cafe,Green Land Cafe,0,北部中心,0.0,0.0,0.0
+更多美食,Maples Bistro Restaurant,Maples Bistro Restaurant,0,北部中心,0.0,0.0,0.0
+更多美食,Starry Kitchen,Starry Kitchen,0,北部中心,0.0,0.0,0.0
+更多美食,Skylon Restaurant,Skylon Restaurant,0,北部中心,0.0,0.0,0.0
+更多美食,Cumiskeys,Cumiskeys,0,都伯林西郊,0.0,0.0,0.0
+更多美食,The Hole in the Wall,The Hole in the Wall,0,都伯林西郊,0.0,0.0,0.0
+更多美食,Marios Italian Restaurant,Marios Italian Restaurant,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Delicate Essence,Delicate Essence,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Howards Way,Howards Way,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Kafka Cafe Bar,Kafka Cafe Bar,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Little Jerusalem,Little Jerusalem,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Manifesto,Manifesto,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Antica Venezia,Antica Venezia,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Madigans Earl Street,Madigans Earl Street,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Russell's,Russell's,0,其他,0.0,0.0,0.0
+更多美食,Cottage Café at The Seamus Ennis Cultural Centre,Cottage Café at The Seamus Ennis Cultural Centre,0,其他,0.0,0.0,0.0
+更多美食,Giovanni's Pizzeria Restaurant Malahide Dublin,Giovanni's Pizzeria Restaurant Malahide Dublin,0,,0.0,0.0,0.0
+更多美食,The Druid's Chair,The Druid's Chair,0,其他,0.0,0.0,0.0
+更多美食,Little Brazil,Little Brazil,0,其他,0.0,0.0,0.0
+更多美食,Boylands Brasserie,Boylands Brasserie,0,其他,0.0,0.0,0.0
+更多美食,Courtyard Bar and Grill,Courtyard Bar and Grill,0,其他,0.0,0.0,0.0
+更多美食,Gurmans,Gurmans,0,其他,0.0,0.0,0.0
+更多美食,Gormet Burger Kitchen,Gormet Burger Kitchen,0,其他,0.0,0.0,0.0
+更多美食,Rico's,Rico's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Nelly's,Nelly's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Birdcage Bakery,The Birdcage Bakery,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Baxter & Greene,Baxter & Greene,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Morels at Stephen's Hall,Morels at Stephen's Hall,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Hartigan's,Hartigan's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Saagar - Dublin,Saagar - Dublin,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Amber Grill,Amber Grill,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Cruzzo,Cruzzo,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Writer's Lounge,Writer's Lounge,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Tulsi,Tulsi,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Coastal Cafe & Wine Bar,Coastal Cafe & Wine Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Fado Restaurant,Fado Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Terrace at the Merrion Hotel,The Terrace at the Merrion Hotel,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Lloyd's Brasserie,Lloyd's Brasserie,0,都柏林市中心,0.0,0.0,0.0
+更多美食,O'Dwyer's,O'Dwyer's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Red Rose Cafe,Red Rose Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Sandwich Symphony,Sandwich Symphony,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Lille Ceasers,Lille Ceasers,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Busy Beans Cafe,Busy Beans Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Loft Cafe,The Loft Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Mizzoni's Pizza & Pasta,Mizzoni's Pizza & Pasta,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Hogan's,Hogan's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Runner Bean,Runner Bean,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Trentunos,Trentunos,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Globe,The Globe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Pause Cafe',Pause Cafe',0,都柏林市中心,0.0,0.0,0.0
+更多美食,TokiDoki Noodle Bar,TokiDoki Noodle Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Pizza Hut,Pizza Hut,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Thomas Read,Thomas Read,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Chocolate Bar,Chocolate Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Club M,Club M,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Cafe Irie,Cafe Irie,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Abreu's Cafe,Abreu's Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Octagon Bar,Octagon Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Eliza Blues Restaurant,Eliza Blues Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Long Stone,Long Stone,0,都柏林市中心,0.0,0.0,0.0
+更多美食,La Gondola Italian Restaurant,La Gondola Italian Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Carlise Cafe Bar,Carlise Cafe Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Fusciardi Cafe,Fusciardi Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Irish Nights,Irish Nights,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Connells bar/restaurant,Connells bar/restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Excise Grill,Excise Grill,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Burger King,Burger King,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Chicken republic,Chicken republic,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Lurve,Lurve,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Makati Avenue,Makati Avenue,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Centra Foodhall,Centra Foodhall,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Insomnia Coffee Company,Insomnia Coffee Company,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Paddy's Place,Paddy's Place,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Rayhoon,Rayhoon,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Papa's Pizza,Papa's Pizza,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Easons Bookstore Cafe,Easons Bookstore Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,The Ivy at Clery's,The Ivy at Clery's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Oscar's Restaurant,Oscar's Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Taste of Cairo,Taste of Cairo,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Gate Hotel,Gate Hotel,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Midnight Express,Midnight Express,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Il Pomo Doro,Il Pomo Doro,0,都柏林市中心,0.0,0.0,0.0
+更多美食,LaSala,LaSala,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Subway Phibsborough,Subway Phibsborough,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Colnskeagh Mosque And Islamic Cultural Centre,Colnskeagh Mosque And Islamic Cultural Centre,0,,0.0,0.0,0.0
+更多美食,The Merrion Inn,The Merrion Inn,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Donnybrook Hall,Donnybrook Hall,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Ocras,Ocras,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Oliviers,Oliviers,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Coopers Restaurant,Coopers Restaurant,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Druid's Restaurant at Lansdowne Hotel,Druid's Restaurant at Lansdowne Hotel,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Expresso Bar,Expresso Bar,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Smyth's,Smyth's,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,"The Yacht Pub, Ringsend","The Yacht Pub, Ringsend",0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Han Yang,Han Yang,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Annagh House,Annagh House,0,北部中心,0.0,0.0,0.0
+更多美食,The Big Blue Bus,The Big Blue Bus,0,北部中心,0.0,0.0,0.0
+更多美食,Jamuna,Jamuna,0,北部中心,0.0,0.0,0.0
+更多美食,The Mintleaf,The Mintleaf,0,北部中心,0.0,0.0,0.0
+更多美食,Douglas and Kaldi,Douglas and Kaldi,0,北部中心,0.0,0.0,0.0
+更多美食,Marsella's Takeaway,Marsella's Takeaway,0,北部中心,0.0,0.0,0.0
+更多美食,Hamburger Bar,Hamburger Bar,0,北部中心,0.0,0.0,0.0
+更多美食,The Cock and Bull Coolock,The Cock and Bull Coolock,0,北部中心,0.0,0.0,0.0
+更多美食,Station House,Station House,0,北部中心,0.0,0.0,0.0
+更多美食,Pink Elephant,Pink Elephant,0,北部中心,0.0,0.0,0.0
+更多美食,Shutters,Shutters,0,北部中心,0.0,0.0,0.0
+更多美食,Four Star Pizza Finglas,Four Star Pizza Finglas,0,北部中心,0.0,0.0,0.0
+更多美食,The Brasserie At Bewley's Hotel Dublin Airport,The Brasserie At Bewley's Hotel Dublin Airport,0,,0.0,0.0,0.0
+更多美食,Burnell Grill,Burnell Grill,0,,0.0,0.0,0.0
+更多美食,The Hub Crumlin,The Hub Crumlin,0,都伯林西郊,0.0,0.0,0.0
+更多美食,Capri Take Away,Capri Take Away,0,都伯林西郊,0.0,0.0,0.0
+更多美食,Papa Johns,Papa Johns,0,都伯林西郊,0.0,0.0,0.0
+更多美食,Posh Nosh,Posh Nosh,0,都伯林西郊,0.0,0.0,0.0
+更多美食,Myos Pub,Myos Pub,0,,0.0,0.0,0.0
+更多美食,Spice Guru Rathgar - Indian Takeaway,Spice Guru Rathgar - Indian Takeaway,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Bombay Pantry,Bombay Pantry,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,SABA TO GO,SABA TO GO,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Cafe Moda,Cafe Moda,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Martinos Italian Trattoria,Martinos Italian Trattoria,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Mario's,Mario's,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Cinnamon Restaurant,Cinnamon Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Refuel The Park Cafe,Refuel The Park Cafe,0,其他,0.0,0.0,0.0
+更多美食,"Bracken Court, Hotel","Bracken Court, Hotel",0,其他,0.0,0.0,0.0
+更多美食,The Galway Hooker,The Galway Hooker,0,其他,0.0,0.0,0.0
+更多美食,Pinheads Pizza,Pinheads Pizza,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Bu-Ali,Bu-Ali,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Shake Shack,Shake Shack,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Fitzers Cafes,Fitzers Cafes,0,都柏林市中心,0.0,0.0,0.0
+更多美食,La Stampa,La Stampa,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Wright's Foodcourt,Wright's Foodcourt,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Pyg Cafe,Pyg Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Crystal Boat Chinese Restaurant,Crystal Boat Chinese Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Apache Pizza,Apache Pizza,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Hsq Cafe,Hsq Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Sseduced,Sseduced,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Temple Take Out,Temple Take Out,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Cafe Gertrude,Cafe Gertrude,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Sinatra's Bar & Grill,Sinatra's Bar & Grill,0,都柏林市中心,0.0,0.0,0.0
+更多美食,KFC,KFC,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Keatings,Keatings,0,都柏林市中心,0.0,0.0,0.0
+更多美食,John M Keating Bar & Cafe,John M Keating Bar & Cafe,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Homemade by Clodagh @ Arnotts,Homemade by Clodagh @ Arnotts,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Hazelbrook House,Hazelbrook House,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Abacus Chinese Buffet,Abacus Chinese Buffet,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Grill Bar and Bistro,Grill Bar and Bistro,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Fatima House B&B,Fatima House B&B,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Brasserie Restaurant,Brasserie Restaurant,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Milanos Restaurant,Milanos Restaurant,0,巴尔斯布里奇,0.0,0.0,0.0
+更多美食,Tibors Bistro,Tibors Bistro,0,北部中心,0.0,0.0,0.0
+更多美食,Swiss Cottage Restaurant,Swiss Cottage Restaurant,0,北部中心,0.0,0.0,0.0
+更多美食,Autobahn,Autobahn,0,北部中心,0.0,0.0,0.0
+更多美食,Pizza Hut,Pizza Hut,0,北部中心,0.0,0.0,0.0
+更多美食,Brasserie & Bar,Brasserie & Bar,0,,0.0,0.0,0.0
+更多美食,McDonalds,McDonalds,0,,0.0,0.0,0.0
+更多美食,Black Swan At Palmerstown House,Black Swan At Palmerstown House,0,,0.0,0.0,0.0
+更多美食,Royal Tandoori,Royal Tandoori,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Poppadom Takeaway,Poppadom Takeaway,0,拉尼拉格/达特里,0.0,0.0,0.0
+更多美食,Clodagh's Kitchen,Clodagh's Kitchen,0,,0.0,0.0,0.0
+更多美食,Alex Cocktail Bar,Alex Cocktail Bar,0,都柏林市中心,0.0,0.0,0.0
+更多美食,Jerusalem Restaurant,Jerusalem Restaurant,0,都柏林市中心,0.0,0.0,0.0
+更多美食,KC Peaches,KC Peaches,0,都柏林市中心,0.0,0.0,0.0
+更多美食,O'Reilly's,O'Reilly's,0,都柏林市中心,0.0,0.0,0.0
+更多美食,O'CONNELLS PUB,O'CONNELLS PUB,0,都柏林市中心,0.0,0.0,0.0

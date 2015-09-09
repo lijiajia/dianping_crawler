@@ -1,0 +1,673 @@
+西餐,Crust Gourmet Pizza Bar
+西餐,Artisan
+西餐,Domino's Pizza
+西餐,Guzman Y Gomez
+西餐,Dolce & Salato
+西餐,Ciao Italia
+西餐,Courgette Restaurant
+西餐,The Waterfront Restaurant
+西餐,sumo salad ANU
+西餐,Pizza Arte
+西餐,Ardeche Restaurant
+西餐,The Restaurant
+西餐,Pizza Capers Gungahlin
+西餐,Aubergine Restaurant
+西餐,Domino's Pizza
+西餐,Ruchi South Indian Restaurant
+西餐,mamma's terrasa
+西餐,Teatro Vivaldi Restaurant
+西餐,Domino's Pizza Conder
+西餐,Jehangir Indian Restaurant
+西餐,Plaka Pizza Take Away & Restaurant
+西餐,Nando's
+西餐,Saigon Restaurant
+西餐,Alto Restaurant
+西餐,Jasmine House Family Asian Restaurant
+西餐,Domino's Pizza South Canberra
+西餐,Greenleaf Persian Restaurant
+西餐,Pizza Capers Holt
+西餐,Pizza Hut
+西餐,Sultan's Turkish Pide Takeaway Restaurant
+西餐,Erindale Vietnamese Restaurant
+西餐,Punjabi Hut Indian Restaurant
+西餐,Crust Gourmet Pizza Bar
+西餐,大发光火梵蒂冈
+西餐,Cicerello's
+西餐,Crust Gourmet Pizza Bar
+西餐,Nyonya Restaurant
+西餐,Zucchini Brothers Pizza & Pasta
+西餐,Pho Viet Family Restaurant
+西餐,Garden Atrium Restaurant
+西餐,Mossard's Restaurant
+西餐,Pizza Hut Dickson
+西餐,My's Restaurant
+西餐,Green Bamboo Vietnamese Restaurant
+西餐,Domino's Pizza Erindale
+西餐,Tien Vietnamese Restaurant
+西餐,Kingsland Vegetarian Restaurant
+西餐,Kevin's Place Asian Restaurant
+西餐,Karuna Vegetarian Restaurant
+西餐,Zeffirelli Pizza Restaurant
+西餐,Tandoor Indian Restaurant
+西餐,Tai Ping Asian Restaurant
+西餐,Turk' Oz Pide Restaurant
+西餐,Encore Pizza - Mawson
+西餐,Encore Pizza - Florey
+西餐,Matador Restaurant
+西餐,Morks Restaurant
+西餐,Woodstock Steak & Pizza House
+西餐,Kinh Do Vietnamese Restaurant
+西餐,Tuan's Vietnamese Restaurant
+西餐,Encore Pizza - Macquarie
+西餐,Encore Pizza - Wanniasa
+西餐,La Cantina Restaurant
+西餐,Domino's Pizza
+西餐,Santa Lucia
+西餐,Family Food Court Restaurant
+西餐,Phnom Penh Restaurant
+西餐,Rubicon Restaurant
+西餐,Berroca Restaurant
+西餐,Domino's Pizza
+西餐,Restaurant 83
+西餐,Griffith Vietnamese Restaurant
+西餐,Ranif North Indian Restaurant
+西餐,Turkish Delight Restaurant
+西餐,Paprika Asian Restaurant
+西餐,Domino's Pizza Dickson
+西餐,Redsalt Restaurant
+西餐,Podfood Restaurant
+西餐,Element Restaurant
+西餐,Turkish Pide House Restaurant
+西餐,Pinocchios Italian Restaurant
+西餐,The Green Herring Restaurant
+西餐,Mirchi Indian Restaurant
+西餐,Indian Affair Restaurant
+西餐,2602 Restaurant Ainslie
+西餐,Golden King Restaurant
+西餐,Plaka Restaurant
+西餐,Water Margin Restaurant
+西餐,The Ridge Organic Restaurant
+西餐,Mamak Corner Restaurant
+西餐,Bella Vista Restaurant
+西餐,El Dorado Steakhouse Restaurant
+西餐,Crust Gourmet Pizza Bar
+西餐,China Town Restaurant
+西餐,Masala Hut Indian Restaurant
+西餐,Taj Agra Restaurant
+西餐,Alanya Restaurant
+西餐,Sculpture Garden Restaurant
+西餐,Kushi Restaurant
+西餐,The Belmore Restaurant
+西餐,Legends Spanish Restaurant
+西餐,Harem Turkish Restaurant
+西餐,Crust Gourmet Pizza Bar
+西餐,The Lobby Restaurant
+西餐,Saffron Restaurant
+西餐,Column Restaurant
+西餐,Pangea Restaurant
+西餐,Tims Restaurant
+西餐,Choices Vietnamese Restaurant
+西餐,La Dolce Vita Restaurant
+西餐,Hoang Hau Restaurant
+西餐,Ginseng Restaurant
+西餐,Cape Cod Restaurant
+西餐,Scuzi Pizza Trattoria
+西餐,Shalimar Indian Restaurant
+西餐,Taj Mahal Indian Restaurant
+西餐,That Pizza Place
+西餐,Blue Elephant Indo Lanka Restaurant
+西餐,Charcoal Restaurant
+西餐,African Restaurant
+西餐,La Scala Restaurant
+西餐,Turkish Pide House Restaurant
+西餐,Dieci Italian Restaurant
+西餐,Crust Gourmet Pizza Bar
+西餐,Zaraz Restaurant
+中餐厅,水井坊
+中餐厅,Can Tho Vietmanese & Chinese Restaurant
+中餐厅,水井坊
+中餐厅,Prince Palace Chinese Restaurant
+中餐厅,The Asian Take Away
+中餐厅,Sammy's Kitchen
+中餐厅,新香港茶餐厅New Hong Kong Cafe
+中餐厅,Sammy's Kitchen
+中餐厅,Sammy's Kitchen
+中餐厅,Nicholls Chinese Food
+中餐厅,Four Rivers Sichuan Chinese Restaurant
+中餐厅,水井坊
+中餐厅,Chinese Inn Restaurant
+中餐厅,Chinese Kitchen
+中餐厅,Regal Chinese Restaurant
+中餐厅,Spring Garden Chinese Restaurant
+中餐厅,Chinese Hotplate
+中餐厅,Lakeside Chinese Restaurant
+中餐厅,White China
+中餐厅,Panda Chinese Restaurant
+中餐厅,Noble Palace Chinese Seafood Restaurant
+中餐厅,Sin Yau Garden Chinese Restaurant
+中餐厅,Golden Ocean Chinese Restaurant
+中餐厅,New Wing Chinese Restaurant
+中餐厅,Lisa Chinese Restaurant
+中餐厅,New Cathay Chinese Restaurant
+中餐厅,New Asia Chinese Restaurant
+东南亚菜,Papparich
+东南亚菜,Lemon Grass Thai Restaurant
+东南亚菜,Thai Herb Restaurants
+东南亚菜,Lemon Grass Thai
+东南亚菜,Thai Cornar
+东南亚菜,Lime leaves Thai Restaurant
+东南亚菜,Gungahlin Thai Kitchen
+东南亚菜,Thai House
+东南亚菜,Thai Amarin Erindale
+东南亚菜,Bangkok Garden Thai Restaurant
+东南亚菜,Charlie's Sala Thai Restaurant
+东南亚菜,Suko Thai Restaurant
+东南亚菜,Thai Station
+东南亚菜,Soi-8 Thai On Griffith
+东南亚菜,Thai Aromas
+东南亚菜,Erawan Thai Restaurant
+东南亚菜,Thai House
+东南亚菜,Thai Spice
+东南亚菜,Little Thailand Restaurant
+东南亚菜,Thai Garden Restaurant
+东南亚菜,Thai Ayutthaya
+东南亚菜,Two Sisters Lao Thai Cuisine
+东南亚菜,River Kwai Thai Restaurant
+东南亚菜,The Thai Korach
+东南亚菜,Thai Time
+东南亚菜,Abell's Kopi Tiam
+东南亚菜,Baan Latsamy Thai Restaurant
+东南亚菜,Little Saigon
+东南亚菜,Thai Amarin
+东南亚菜,Taste of Himalayaa
+东南亚菜,Thai Chiang Rai
+东南亚菜,Deakin Thai Cuisine
+东南亚菜,ZenYai Thai
+东南亚菜,Thai Room Thai Restaurant
+东南亚菜,Sawadee Thai Restaurant
+东南亚菜,Alice Thai Restaurant
+海鲜,Ocean Fresh Seafood
+海鲜,Fresko Seafood
+海鲜,Maestral Seafood Restaurant
+海鲜,Con's Steak and Seafood Restaurant
+海鲜,Ocean Fresh Seafoods
+海鲜,Waterfront ResTaurAnt
+上海菜,Shanghai Dumpling Cafe
+日韩料理,KAGAWA JAPANESE CUISINE
+日韩料理,Iori Japanese Restaurant
+日韩料理,Cocorea Korean Restaurant
+日韩料理,Shogun Japanese Restaurant
+日韩料理,Tasuke Japanese Restaurant
+日韩料理,Coo Japanese Izakaya
+粤菜,香港茶餐厅
+粤菜,Canton Chinese Restaurant
+咖啡厅,Dobinsons Bakery Cafe
+咖啡厅,Manta Ray Cafe
+咖啡厅,Da Rosario
+咖啡厅,EsPresSo Room
+咖啡厅,Gloria Jeans Coffees
+咖啡厅,Tree Eight
+咖啡厅,Gloria Jeans Coffees
+咖啡厅,Coffee Cherry Bean
+咖啡厅,Uniconner coffee
+咖啡厅,Queen's Terrace Cafe
+咖啡厅,Fyshwick Fresh Food Markets
+咖啡厅,The Coffee Club - Belconnen
+咖啡厅,QUEEN'S TERRACE CAFE'
+咖啡厅,Deeks Health Bakery & Cafe
+咖啡厅,Cake Lovers
+咖啡厅,The Brothers' Oven
+咖啡厅,Whisk Bakery & Pattisserie
+咖啡厅,Act Coffee Supplies
+咖啡厅,Black Magic Coffee Cart
+咖啡厅,Ankina Coffee
+咖啡厅,The Fresh Roast Coffee House
+咖啡厅,Euro Coffee Machine Service
+咖啡厅,Simco Fresh Meats
+咖啡厅,The Jazz Apple Cafe
+酒吧,Jamie's
+酒吧,Sage Restaurant
+酒吧,Cube Nightclub
+酒吧,King O'Malley's
+酒吧,Water's Edge Restaurant
+酒吧,The Uni Pub
+酒吧,Wig & Pen
+酒吧,The Lighthouse Pub
+酒吧,Bicicletta Provedore and Cellar
+酒吧,Soju Girl
+酒吧,Ellacure Restaurant
+酒吧,PJ O'Reilly's
+酒吧,HAILES KARAOKE
+酒吧,Ais Swimming School
+酒吧,P.J O'Reilly's
+酒吧,ANU Bar
+酒吧,Da Nunzio Caffe Bar and Ristorante
+酒吧,The Sports Club Kaleen
+酒吧,Western District Rugby Union Club
+酒吧,Hellenic Club of Canberra
+酒吧,Hellenic Club
+酒吧,The Lakes Golf Club
+酒吧,Rocksalt
+酒吧,Durham Castle Arms
+酒吧,Holy Grail
+酒吧,"g'ILT Cafe, Cocktail Bar and Restaurant"
+酒吧,Public Bar & Dining Room
+酒吧,Isabella's Cafe and Bar
+酒吧,Tulip Lounge
+酒吧,Booze and Balls
+酒吧,Speed dating @ Minque
+酒吧,Canberra Services Club
+酒吧,Benchmark Wine Bar
+酒吧,Pelagic Bar & Dining
+酒吧,Mooseheads
+酒吧,Debacle
+酒吧,honky tonks
+酒吧,Waldorf On London
+酒吧,Tongue & Groove
+酒吧,Hippos Lounge
+酒吧,Transit Bar
+酒吧,Muddle Bar
+酒吧,Thirst Wine Bar & Eatery
+酒吧,The Phoenix Pub
+酒吧,Zipp Restaurant Bar
+酒吧,Jam Restaurant Bar
+酒吧,City Labor Club
+酒吧,Ojo Café and Bar
+酒吧,Parlour Wine Room
+酒吧,Siren Bar & Restaurant
+酒吧,Firestone Pizzeria | Bar
+酒吧,The Artisan
+酒吧,The George Harcourt Inn
+酒吧,The Duxton
+酒吧,Delissio Restaurant & Bar
+酒吧,Trinity Bar (Canberra)
+酒吧,O'Neill's of Dickson
+酒吧,Gryphons Caffe Bar
+酒吧,Old Canberra Inn
+酒吧,Wood Duck Inn
+酒吧,The Basement
+酒吧,jdd Partners
+酒吧,Binara One
+酒吧,Sub-Urban
+酒吧,Ha Ha Bar & Cafe
+酒吧,Kippax Tavern
+酒吧,The Mawson Club
+酒吧,Belluci's
+酒吧,Tennis Act
+酒吧,Jerrabomberra Hotel & Bottle Shop
+酒吧,Fraser Tavern
+面包甜点,Breadtop
+面包甜点,Gelatissimo
+面包甜点,La Florentina Bakery
+面包甜点,Bakers Delight
+面包甜点,Donut King
+面包甜点,Bakery & DelicatesSen
+面包甜点,Bakers Delight(InsideWest)
+面包甜点,Byron Bay Cookie Company
+面包甜点,The Flute Bakery
+面包甜点,Elaine's Gourmet Pies
+面包甜点,Asian Delights Bakery
+面包甜点,Bakers Delight Riverside Plaza
+面包甜点,Kingston National Bakery
+面包甜点,好吃嘴
+面包甜点,Silo Bakery
+面包甜点,Deeks Bakery & Cafe
+面包甜点,Kiwi Kitchen
+面包甜点,Saigon Southland Bakery
+面包甜点,210 Degrees Patisserie & Bakery
+面包甜点,Muffin Break
+面包甜点,Market Bake House
+面包甜点,Muffin Break
+面包甜点,Essentials Pide Bread
+面包甜点,The Cookie Man
+面包甜点,Leon Hot Bake
+面包甜点,Brindabella Bakehouse
+面包甜点,Bakery Culture
+面包甜点,Buttercup Bakeries
+面包甜点,Vogel's Bread
+面包甜点,Golden Oven Ngunnawal Bakery
+面包甜点,VIP Pies Bakery
+面包甜点,Crave Cookies
+面包甜点,Oven Pick
+面包甜点,Bakers Delight Cooleman Court
+面包甜点,Weetangera Bakery
+面包甜点,Tony's Patisserie
+面包甜点,Vina Bake House
+面包甜点,Florey Bakery
+面包甜点,Golden Oven Bakery
+面包甜点,Muffin Break
+面包甜点,Golden Oven Bakery
+面包甜点,Cakes by Casey
+面包甜点,The Oven Door
+面包甜点,Saigon Hot Bake
+面包甜点,Oriental Hot Bread
+面包甜点,Kambah Bakery
+面包甜点,Spence Family Bakery
+面包甜点,Italian Continental Bakery
+面包甜点,Jamison Bakery
+面包甜点,Curtin Bakery
+面包甜点,Stacked Cakes
+面包甜点,Ayvante Weddings
+面包甜点,The Cake Lady
+面包甜点,A Taste of Honey
+面包甜点,Cornucopia Bakery
+面包甜点,Golden Crust Bakehouse
+面包甜点,Croissant D'Or
+烧烤,Origin
+烧烤,Tosung Charcoal BBQ
+日本料理,Wagamama
+日本料理,Wasabi Manuka
+日本料理,Wasabi
+快餐,Grill's
+快餐,Koko Black
+快餐,Spicy Ginger Cuisine
+快餐,Gus' Cafe
+快餐,The Pancake Parlour
+快餐,Michel's Patisserie
+快餐,Wok Me
+快餐,Harvest
+快餐,Coffee Guru
+快餐,Degree Cafe
+快餐,Max Brenner Chocolate Bar
+快餐,Lido Cafe & Bar
+快餐,Saigon Fresh
+快餐,Coffee Guru Jamison
+快餐,McDonald's
+快餐,Fig Tree Cafe
+快餐,Emission Cafe
+快餐,Redrock Cafe
+快餐,McDonald's
+快餐,The Kitchen Cabinet
+快餐,Ricardo's Cafe
+快餐,Giannis Cafe
+快餐,The Coffee Club - Gungahlin
+快餐,Ona @ Benjamin
+快餐,The Front
+快餐,Beess & Co Cafe
+快餐,Retro Café
+快餐,Tilley's
+快餐,The Gods Cafe And Bar
+快餐,"As You Like It, The Street Theatre"
+快餐,Coffee Club
+快餐,The Coffee Club - Westfield Woden
+快餐,Oporto
+快餐,Subway® Restaurant
+快餐,Calypso Cafe Greenway
+快餐,KFC
+快餐,McDonald's Belconnen Food Court
+快餐,Lollipop's Playland & Cafe
+快餐,The Copper Kettle Cafe
+快餐,The Crepe Cafe
+快餐,Sizzle Cafe
+快餐,ONA Coffee
+快餐,Paparazzi
+快餐,Outpost Cafe
+快餐,Pie Face
+快餐,Besati
+快餐,The Purple Pickle Cafe
+快餐,Don Cafe
+快餐,My Rainbow-Dreams
+快餐,Cherry Seed
+快餐,Gloria Jean's Coffees
+快餐,Mitchell Cafe & Takeaway
+快餐,Ivy Cafe
+快餐,Upper Class Cafe Takeaway
+快餐,Coffee on the Go
+快餐,Chapman Cafe
+快餐,Avion Cafe
+快餐,C.J's Cafe
+快餐,Cafe Hoz
+快餐,Brewbar Cafe
+快餐,Glasshouse Express
+快餐,Lanyon Cafe
+快餐,The Fat Goanna Cafe
+快餐,Wagonga Coffee
+快餐,Industry Cafe
+快餐,Cafe Ritrovo
+快餐,Sour Cherry
+快餐,Vickys Cafe
+快餐,Mocca Espresso Lounge
+快餐,Gloria Jean's Coffees
+快餐,Dakota Cafe & Bar
+快餐,IL Covo
+快餐,Mizzuna Cafe & Bar University Of Canberra
+快餐,The Joy Industry Lic'd Cafe
+快餐,Michels Patisserie Lanyon
+快餐,Jindebah Cafe
+快餐,Cafe Gaudi
+快餐,Buzz Cafe
+快餐,Sfoglia Cafe Patisserie
+快餐,Central Cafe Canberra
+快餐,Little Chef Cafe
+快餐,Bread & Butter
+快餐,Bay Tree Cafe
+快餐,Boom Espresso
+快餐,Borneo Coffee
+快餐,Cafe Racer
+快餐,This Cafe
+快餐,Michels Patisserie Erindale
+快餐,Black Pepper Cafe & Bar
+快餐,Fyshwick Cafe & Bakery
+快餐,Wheely Good Coffee
+快餐,Pellegrino's Cafe
+快餐,Coffee Guru
+快餐,Coffee Ole
+快餐,Hardwick's Cafe & Bistro @ WBLC
+快餐,The Wildberry Cafe
+快餐,Du Jour Restaurant
+快餐,Finish Line Cafe
+快餐,Craigel's Bagels
+快餐,Farmers Daughter
+快餐,Eat Your Words
+快餐,Homestead Cafe
+快餐,Luscious Cafe
+快餐,Cafe 60mil
+快餐,Far from the Madding Crowd
+快餐,Hansel & Gretel Wholesale
+快餐,Red Brick Espresso
+快餐,Emmanouil's Cafe
+快餐,Plumb On Tennant
+快餐,Tastebud Kebabs
+快餐,Mokambo Caffe
+快餐,Cafe Charisma
+快餐,Hello Cafe
+快餐,Praga Cafe
+快餐,My Cafe
+快餐,Michels Patisserie Gungahlin
+快餐,Scope Mount Stromlo
+快餐,King Street Cafe
+快餐,Chocolate Olive
+快餐,Cafe Mochalat
+快餐,Cafe Childers
+快餐,Cafe Injoy
+快餐,Canberra Airport Cafe
+快餐,Group Seven Espresso
+快餐,Xchange on London
+快餐,CremAdiction Cafe
+快餐,Antz Pantz Cafe
+快餐,Trevs @ Dickson
+快餐,Dash Coffee HIA
+快餐,Parkview Cafe
+快餐,Sky Lite Cafe
+快餐,Cafe Freedom
+快餐,Oaktree Cafe
+快餐,Calypso Cafe
+快餐,Little Bean
+快餐,Pure Oxygen
+快餐,Cafe H2o
+快餐,The Nun
+快餐,Swirl Catering Caterers Canberra
+快餐,Praga Cafe & Restaurant
+快餐,Addis Cafe - Restaurant
+快餐,Rodney's Garden Cafe
+快餐,Synergy Cafe @ CSIRO
+快餐,Wilbur's Cafe Bar
+快餐,The Palette Cafe
+快餐,Spill The Beans
+快餐,Quince & Almond
+快餐,Tea Break Cafe
+快餐,Blue Fez Woden
+快餐,Inhouse Cafe
+快餐,Coffee Guru
+快餐,Snak-A-Tak
+快餐,Beyond Q
+快餐,Tradesmen's Union Club Canberra
+快餐,A Bite To Eat A Drink As Well
+快餐,Tulip's Cafe Catering
+快餐,Hume Cafe & Takeaway
+快餐,Hudsons of Dickson
+快餐,Eagle Boys Pizza
+快餐,Isabella's Cafe & Bar
+快餐,Subway® Restaurant
+快餐,Oporto
+快餐,La Piazza Cafe Restaurant
+快餐,McDonald's
+快餐,Oporto
+快餐,Sutton Cafe
+快餐,Cornerstone Brasserie & Cafe @ Wests Rugby Club
+快餐,Connect Cafe & Bar
+快餐,E.U. Cafe
+快餐,Cafe De Chine
+快餐,Subway Canberra Airport
+快餐,KFC
+快餐,McDonald's Family Restaurants
+快餐,ZenQ
+快餐,Simple Bites Cafe
+快餐,Cafe Copenhagen
+快餐,Caffe e cibo
+快餐,Just A Bite
+快餐,Orange Bean
+快餐,Caffe Dalmo
+快餐,Deli Marco
+快餐,Maria's Cafe-A-Roma
+快餐,The Courtyard Cafe
+快餐,Divine & Delicious
+快餐,Babar Cafe & Bar
+快餐,Curtin Gourmet
+快餐,Mocca Centra
+快餐,Cafe Allara
+快餐,Cafe Momo
+快餐,Phat Burger Cafe and Catering
+快餐,Flattery Cafe @ Farrer
+快餐,Hog's Breath Cafe
+快餐,Fantasy Donuts
+快餐,Sakeenas Cafe
+快餐,Ads Cafe
+快餐,Little Pickle Cafe
+快餐,Lava Espresso
+快餐,Michels Patisserie Woden Valley
+快餐,Cooleman Lucky Kiosk
+快餐,Gloria Jean's Coffees
+快餐,Lakeside Cafe
+快餐,Coffee Guru
+快餐,Cafe Rocco
+快餐,TK's Fare Go Cafe & Restaurant
+快餐,Red Hill Lookout
+快餐,Coffee Guru
+快餐,3 Seeds
+快餐,EQ Cafe and Lounge
+快餐,Robbo's Harley-Davidson
+快餐,Country Heir Interiors & Cafe
+快餐,Plunge Cafe & Florist
+快餐,Adore Tea Australia
+快餐,Kidcity Play Centre
+快餐,Portrait Cafe & Catering
+快餐,Cafe Galileo
+快餐,Coffers Cafe
+快餐,Cuiseum
+快餐,Zucchero Pastry & Cafe
+快餐,Ona Cafe Manuka
+快餐,My Cafe In Manuka
+快餐,Bittersweet
+快餐,Cafe Bellaccinos at AG
+快餐,Charmers Coffee Lounge & Restaurant
+快餐,Mint Leaf Cafe
+快餐,The Daily Grind Cafe
+快餐,Pork Barrel Cafe
+快餐,Cafe Lella
+快餐,ACT Rugby Union Club
+快餐,Cino Espresso
+快餐,Ironbark
+快餐,Renaissance Cafe
+快餐,Urban Pantry
+快餐,Idelic
+快餐,Cafe Sofya
+快餐,Double Shot Caffe-Expresso Bar
+快餐,Kingston Grind
+快餐,Aroma Beans
+快餐,Artoven Patisserie
+快餐,Gabby's Cafe
+快餐,MBE Business Service Centre
+快餐,Kingston Hotel
+快餐,Hotel Kurrajong
+快餐,The Promenade Cafe
+快餐,McDonald's Manuka
+快餐,Curry Kitchen
+快餐,Little Brussels Belgian Beer Cafe
+快餐,Indo Cafe
+快餐,The Glasshouse Cafe
+快餐,Hog's Breath Cafe
+快餐,Coffee Guru
+快餐,Pie Face
+快餐,Gloria Jean's Coffees
+快餐,The Coffee Club
+快餐,RawSugar Cafe
+快餐,Cafe Moda
+快餐,Italian Bite Trattoria Civic
+快餐,Cafe Fontaine
+快餐,City West Cafe & Takeaway
+快餐,City Edge Cafe
+快餐,Court 10 Cafe
+快餐,Coffee Guru City West
+快餐,Blue Gum Cafe
+快餐,Cafe Evropi
+快餐,Hobart Coffee Lounge
+快餐,Bean in the City
+快餐,Stone Wall Cafe
+快餐,Barocca
+快餐,Two Before Ten - Coffee Roasters
+快餐,Andrews Coffee Lounge
+快餐,Food With Flair
+快餐,Terrace Cafe
+快餐,Cafe 54
+快餐,Blue Olive Cafe
+快餐,La Posada
+快餐,Mooreish On Moore
+快餐,Red Belly Black Cafe
+快餐,Valentino's Cafe
+快餐,Enter Cafe
+快餐,The Barracks LAN Games & Internet Cafe
+快餐,Lonsdale Street Roasters
+快餐,Antigo Cafe & Bar
+快餐,Lunch Bunch
+快餐,Deliziosa
+快餐,Loui
+快餐,Cafe Essen
+快餐,Suga-Cube
+快餐,N1 IT Services Canberra
+快餐,Seven Seas Fish Cafe
+快餐,The Bakery Cafe
+快餐,Babar Cafe & Bar
+快餐,Blend Cafe
+快餐,Tosolini's
+快餐,Shui Jing Fang Restaurant
+快餐,Quatro Restaurant & Cafe
+快餐,Tonic Espresso
+快餐,Canberra Club
+快餐,My Coffee Cup
+快餐,Cafe Cibalia
+快餐,Red Gecko Cafe & Bar
+快餐,Akuna Cafe
+快餐,Ferrari's On Mort
+快餐,Cafe Pazzini
+快餐,Rani's Indian Restaurant & Cafe
+快餐,Cream
+快餐,Gelatissimo Canberra City
+快餐,The Tea Centre
+快餐,Cafe Bamboo
+快餐,Cafe Macchiato Bourbon Bar
+快餐,Banana Leaf Restaurant & Cafe
+快餐,McDonald's Canberra Centre
+快餐,McDonald's
+快餐,Noodle Cafe
+快餐,Rej Cafe & Restaurant

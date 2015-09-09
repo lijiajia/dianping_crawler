@@ -1,0 +1,230 @@
+意大利菜,L'Osteria,L'Osteria,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Plaza,Plaza,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Leo's Ristorante,Leo's Ristorante,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Via Veneto,Via Veneto,0,安瑞斯,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Sapori,Ristorante Pizzeria Sapori,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,mamma mia,mamma mia,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Trattoria Cielo,Trattoria Cielo,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,La Cantina - Intermezzo Italiano,La Cantina - Intermezzo Italiano,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Il Castello,Il Castello,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Pizzeria Luna Rossa,Pizzeria Luna Rossa,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Le Vante,Le Vante,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Il Faro,Il Faro,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Die Pizzerei,Die Pizzerei,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Restaurant Pizzeria Passage,Restaurant Pizzeria Passage,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Tasties,Tasties,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Solo Vino,Solo Vino,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Trattoria de Peppino,Trattoria de Peppino,0,霍廷,0.0,0.0,0.0
+意大利菜,Da Giovanni,Da Giovanni,0,霍廷,0.0,0.0,0.0
+意大利菜,Due Sicilie,Due Sicilie,0,霍廷,0.0,0.0,0.0
+意大利菜,Villaggio 7,Villaggio 7,0,霍廷,0.0,0.0,0.0
+意大利菜,Vapiano,Vapiano,0,安瑞斯,0.0,0.0,0.0
+意大利菜,Peperoncino,Peperoncino,0,霍廷,0.0,0.0,0.0
+意大利菜,Cafe Toscana,Cafe Toscana,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Pizzeria Romantica,Pizzeria Romantica,0,因斯布鲁克市中心,0.0,0.0,0.0
+意大利菜,Ristorante Republica,Ristorante Republica,0,因斯布鲁克市中心,0.0,0.0,0.0
+法国菜,Chez Nico,Chez Nico,0,因斯布鲁克市中心,0.0,0.0,0.0
+法国菜,De Thierry,De Thierry,0,因斯布鲁克市中心,0.0,0.0,0.0
+法国菜,Le Gourmand,Le Gourmand,0,因斯布鲁克市中心,0.0,0.0,0.0
+墨西哥菜,Mexico Arriba,Mexico Arriba,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Restaurant Bierwirt,Restaurant Bierwirt,0,安瑞斯,0.0,0.0,0.0
+其他西餐,Cammerlaender,Cammerlaender,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Stiftskeller,Stiftskeller,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Ebi's,Ebi's,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Wirtshaus Scoeneck,Wirtshaus Scoeneck,0,霍廷,0.0,0.0,0.0
+其他西餐,Restaurant Goldenes Dachl,Restaurant Goldenes Dachl,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Konrads Austrian Steaks,Konrads Austrian Steaks,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Lichtblick,Lichtblick,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Pavillon,Pavillon,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Kaiserstube,Kaiserstube,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Cafe Central,Cafe Central,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Elferhaus,Elferhaus,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Goldener Adler,Goldener Adler,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Weinhaus Happ,Weinhaus Happ,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Johannesstuberl,Johannesstuberl,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Gastgarten zur Eiche,Gastgarten zur Eiche,0,霍廷,0.0,0.0,0.0
+其他西餐,Tiroler Weinstube,Tiroler Weinstube,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Restaurant Bar Der Loewe,Restaurant Bar Der Loewe,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Gasthaus Fink,Gasthaus Fink,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Restaurant Bar Glasmalerei,Restaurant Bar Glasmalerei,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Breakfast Club,Breakfast Club,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Woodfire,Woodfire,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,EcoLounge by Jabinger,EcoLounge by Jabinger,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Europa Stueberl,Europa Stueberl,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,11er Haus,11er Haus,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Lewisch,Lewisch,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Defreggerstube,Defreggerstube,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Tiroler Bauernkeller,Tiroler Bauernkeller,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Zum Griechen,Zum Griechen,0,霍廷,0.0,0.0,0.0
+其他西餐,Markt Schiff Fischrestaurant Peer,Markt Schiff Fischrestaurant Peer,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Kellerstüberl Wild,Kellerstüberl Wild,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Ottoburg,Ottoburg,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Piano bar,Piano bar,0,其他,0.0,0.0,0.0
+其他西餐,Schwarzer Adler,Schwarzer Adler,0,其他,0.0,0.0,0.0
+其他西餐,Uni-Cafe,Uni-Cafe,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Cafe im Hof,Cafe im Hof,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Restaurant Sitzwohl,Restaurant Sitzwohl,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Wurst Und Wonne,Wurst Und Wonne,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,TREIBHAUS,TREIBHAUS,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Fischerhausl,Fischerhausl,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Restaurant Panorama,Restaurant Panorama,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Schutzhaus,Schutzhaus,0,其他,0.0,0.0,0.0
+其他西餐,Buzihutte,Buzihutte,0,其他,0.0,0.0,0.0
+其他西餐,Alfred Millers Schoneck,Alfred Millers Schoneck,0,霍廷,0.0,0.0,0.0
+其他西餐,Cafe Restaurant Weiherburg,Cafe Restaurant Weiherburg,0,霍廷,0.0,0.0,0.0
+其他西餐,Steneck,Steneck,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Tapabar,Tapabar,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Stieglbrau,Stieglbrau,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Wurstel Siggi,Wurstel Siggi,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Retro Cafe Bar,Retro Cafe Bar,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Akropolis,Akropolis,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Flo Jos Masi,Flo Jos Masi,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Cafe Munding,Cafe Munding,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Weisses Rossl Restaurant,Weisses Rossl Restaurant,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Interspar-Restaurant,Interspar-Restaurant,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,die Wilderin,die Wilderin,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Cafe Elektra,Cafe Elektra,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Steakhouse,Steakhouse,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Hofgarten,Hofgarten,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Agidihof,Agidihof,0,其他,0.0,0.0,0.0
+其他西餐,Wirtshaus Nattererboden,Wirtshaus Nattererboden,0,其他,0.0,0.0,0.0
+其他西餐,Alpenlounge Seegrube,Alpenlounge Seegrube,0,其他,0.0,0.0,0.0
+其他西餐,360o,360o,0,其他,0.0,0.0,0.0
+其他西餐,Villa Blanka,Villa Blanka,0,霍廷,0.0,0.0,0.0
+其他西餐,Gipfelstube,Gipfelstube,0,其他,0.0,0.0,0.0
+其他西餐,"Wild West, Steaks, Burger & More","Wild West, Steaks, Burger & More",0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Theresienbraeu,Theresienbraeu,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Cafe Martin,Cafe Martin,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Gasthaus Anich,Gasthaus Anich,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Krahvogel,Krahvogel,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Caffe Restaurant Der Grieche,Caffe Restaurant Der Grieche,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Manna Delikatessencafe,Manna Delikatessencafe,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Orangerie,Orangerie,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Villa Masianco,Villa Masianco,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Schmankerl Gastro,Schmankerl Gastro,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Jausenstation Vogelhutte,Jausenstation Vogelhutte,0,其他,0.0,0.0,0.0
+其他西餐,Planotzenhof,Planotzenhof,0,其他,0.0,0.0,0.0
+其他西餐,Gasthof Oelberg,Gasthof Oelberg,0,霍廷,0.0,0.0,0.0
+其他西餐,Berchtoldshof,Berchtoldshof,0,Innsbruck Airport,0.0,0.0,0.0
+其他西餐,Fischernhausl,Fischernhausl,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Lowenhaus,Lowenhaus,0,因斯布鲁克市中心,0.0,0.0,0.0
+其他西餐,Cafe im Turm,Cafe im Turm,0,其他,0.0,0.0,0.0
+其他西餐,Hottinger Alm,Hottinger Alm,0,其他,0.0,0.0,0.0
+其他西餐,Wienerwald,Wienerwald,0,因斯布鲁克市中心,0.0,0.0,0.0
+中餐,China-Restaurant Canton,China-Restaurant Canton,0,因斯布鲁克市中心,0.0,0.0,0.0
+中餐,Lotos,Lotos,0,因斯布鲁克市中心,0.0,0.0,0.0
+中餐,China Restaurant Kaiser,China Restaurant Kaiser,0,因斯布鲁克市中心,0.0,0.0,0.0
+中餐,Sun Rise II,Sun Rise II,0,因斯布鲁克市中心,0.0,0.0,0.0
+中餐,China Restaurant Goldener Stern,China Restaurant Goldener Stern,0,因斯布鲁克市中心,0.0,0.0,0.0
+日韩料理,Japanisches Restaurant KAI,Japanisches Restaurant KAI,0,霍廷,0.0,0.0,0.0
+日韩料理,Wang Fu,Wang Fu,0,因斯布鲁克市中心,0.0,0.0,0.0
+日韩料理,Noodlelicious & more,Noodlelicious & more,0,因斯布鲁克市中心,0.0,0.0,0.0
+日韩料理,Kenzi,Kenzi,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Thai-Li,Thai-Li,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Himal Nepal Kitchen,Himal Nepal Kitchen,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Haikky,Haikky,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Little India,Little India,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Indisches Restaurant Rama,Indisches Restaurant Rama,0,霍廷,0.0,0.0,0.0
+更多亚洲菜,Yun,Yun,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,my IndigoInnsbruck DEZ,my IndigoInnsbruck DEZ,0,安瑞斯,0.0,0.0,0.0
+更多亚洲菜,Shambala Retsaurant,Shambala Retsaurant,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Thai-Li-Ba,Thai-Li-Ba,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Namaste India Deluxe,Namaste India Deluxe,0,Innsbruck Airport,0.0,0.0,0.0
+更多亚洲菜,Madhuban Restaurant,Madhuban Restaurant,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Soultans Feinkost,Soultans Feinkost,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Kijsana 36,Kijsana 36,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Victoria's Sushi Bar,Victoria's Sushi Bar,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,my Indigo Innsbruck Rathaus,my Indigo Innsbruck Rathaus,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Everest Inn,Everest Inn,0,霍廷,0.0,0.0,0.0
+更多亚洲菜,Shere Punjab,Shere Punjab,0,霍廷,0.0,0.0,0.0
+更多亚洲菜,Teppan Wok,Teppan Wok,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,Noi Original Thai Kuche,Noi Original Thai Kuche,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多亚洲菜,sahib,sahib,0,因斯布鲁克市中心,0.0,0.0,0.0
+快餐简餐,Happy Wok 快乐餐厅,Happy Wok 快乐餐厅,0,因斯布鲁克市中心,7.2,7.2,7.0
+快餐简餐,Strudel-Cafe Kroell,Strudel-Cafe Kroell,0,因斯布鲁克市中心,0.0,0.0,0.0
+快餐简餐,Harly Coffee Bar,Harly Coffee Bar,0,安瑞斯,0.0,0.0,0.0
+快餐简餐,Block7 Diner,Block7 Diner,0,因斯布鲁克市中心,0.0,0.0,0.0
+快餐简餐,Runningwok,Runningwok,0,其他,0.0,0.0,0.0
+快餐简餐,"Restaurant, Italiener,Il Gusto da Leonardo","Restaurant, Italiener,Il Gusto da Leonardo",0,因斯布鲁克市中心,0.0,0.0,0.0
+海鲜,Peer's Fischiff,Peer's Fischiff,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Gemelli,Pizzeria Gemelli,0,因斯布鲁克市中心,7.7,7.2,7.7
+比萨,Da Piero,Da Piero,0,因斯布鲁克市中心,0.0,0.0,0.0
+比萨,Prendi Pizza,Prendi Pizza,0,因斯布鲁克市中心,0.0,0.0,0.0
+比萨,Ristorante Parma,Ristorante Parma,0,因斯布鲁克市中心,0.0,0.0,0.0
+比萨,Il Dottore,Il Dottore,0,因斯布鲁克市中心,0.0,0.0,0.0
+咖啡厅,Cafe am Tivoli,Cafe am Tivoli,0,因斯布鲁克市中心,0.0,0.0,0.0
+咖啡厅,Café-Bar Moustache,Café-Bar Moustache,0,因斯布鲁克市中心,0.0,0.0,0.0
+咖啡厅,Dom Cafe-Bar,Dom Cafe-Bar,0,其他,0.0,0.0,0.0
+咖啡厅,Cafe Katzung,Cafe Katzung,0,因斯布鲁克市中心,0.0,0.0,0.0
+咖啡厅,Cafe Konditorei Zimt & Zucker,Cafe Konditorei Zimt & Zucker,0,因斯布鲁克市中心,0.0,0.0,0.0
+咖啡厅,Cafe Sacher,Cafe Sacher,0,因斯布鲁克市中心,0.0,0.0,0.0
+咖啡厅,Herzog-Friedrich Cafe-Restaurant,Herzog-Friedrich Cafe-Restaurant,0,因斯布鲁克市中心,0.0,0.0,0.0
+咖啡厅,Wolke7,Wolke7,0,其他,0.0,0.0,0.0
+面包甜点,Amorino Innsbruck,Amorino Innsbruck,0,因斯布鲁克市中心,0.0,0.0,0.0
+面包甜点,Der Baecker Ruetz,Der Baecker Ruetz,0,因斯布鲁克市中心,0.0,0.0,0.0
+面包甜点,Konditorei - Cafe Valier,Konditorei - Cafe Valier,0,因斯布鲁克市中心,0.0,0.0,0.0
+面包甜点,Stefans Brotmanufaktur,Stefans Brotmanufaktur,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Archiv Congress,Archiv Congress,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Cafe Sailer,Cafe Sailer,0,Innsbruck Airport,0.0,0.0,0.0
+酒吧,Rox Musicbar,Rox Musicbar,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,5th Floor in the Penz,5th Floor in the Penz,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Café-Bar Moustache,Café-Bar Moustache,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Bella e Monella,Bella e Monella,0,米劳,0.0,0.0,0.0
+酒吧,Dom Cafe-Bar,Dom Cafe-Bar,0,其他,0.0,0.0,0.0
+酒吧,Invinum,Invinum,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Wettercafe,Wettercafe,0,其他,0.0,0.0,0.0
+酒吧,Erlköenig Bar,Erlköenig Bar,0,其他,0.0,0.0,0.0
+酒吧,Limerick Bill's,Limerick Bill's,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Weekender,Weekender,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Das Schindler,Das Schindler,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Adlers Hotel Restaurant,Adlers Hotel Restaurant,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Bacchus,Bacchus,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Bar 360,Bar 360,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,"Moderne, Innsbruck","Moderne, Innsbruck",0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,360o,360o,0,其他,0.0,0.0,0.0
+酒吧,Safari,Safari,0,霍廷,0.0,0.0,0.0
+酒吧,The Limmerick Bill,The Limmerick Bill,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Stadtcafe,Stadtcafe,0,因斯布鲁克市中心,0.0,0.0,0.0
+酒吧,Kapuziner Café Bar Biergarten,Kapuziner Café Bar Biergarten,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Restaurant Sailer,Restaurant Sailer,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Testa Rossa Am Stadtturm,Testa Rossa Am Stadtturm,0,其他,0.0,0.0,0.0
+更多美食,Dengg,Dengg,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Trattoria Tropea,Trattoria Tropea,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Privilege Dinner Club,Privilege Dinner Club,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Alpinpark,Restaurant Alpinpark,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Stefan's,Stefan's,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Ristorante & Pizzeria ,Ristorante & Pizzeria ,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Burkia,Burkia,0,Innsbruck Airport,0.0,0.0,0.0
+更多美食,Austria Trend Hotel Congress Innsbruck Restaurant,Austria Trend Hotel Congress Innsbruck Restaurant,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Pizzeria Crocodiles,Pizzeria Crocodiles,0,其他,0.0,0.0,0.0
+更多美食,Grauer Bar,Grauer Bar,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,"Bodega Ronda, Tapas y Mas","Bodega Ronda, Tapas y Mas",0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Ristorante-Pizzeria Venezia,Ristorante-Pizzeria Venezia,0,其他,0.0,0.0,0.0
+更多美食,Baguette Bistro Betriebs,Baguette Bistro Betriebs,0,霍廷,0.0,0.0,0.0
+更多美食,OLEX Restaurant,OLEX Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Andechs,Andechs,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Gasthof zum Schupfen,Gasthof zum Schupfen,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Salute,Pizzeria Salute,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Goessers,Goessers,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Gasthaus Milchstuberl,Gasthaus Milchstuberl,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Batzenhausl,Restaurant Batzenhausl,0,其他,0.0,0.0,0.0
+更多美食,Nordsee,Nordsee,0,其他,0.0,0.0,0.0
+更多美食,Oishi Sushi Bar,Oishi Sushi Bar,0,其他,0.0,0.0,0.0
+更多美食,Fuji Japan-Asia-Restaurant,Fuji Japan-Asia-Restaurant,0,霍廷,0.0,0.0,0.0
+更多美食,Pizzeria Napoli,Pizzeria Napoli,0,霍廷,0.0,0.0,0.0
+更多美食,Buren Wirt,Buren Wirt,0,霍廷,0.0,0.0,0.0
+更多美食,Cafe Heidi Conditorie Eigentler,Cafe Heidi Conditorie Eigentler,0,其他,0.0,0.0,0.0
+更多美食,Bahnhofsrestaurant City Point,Bahnhofsrestaurant City Point,0,其他,0.0,0.0,0.0
+更多美食,Reform Martin Vollwert Bistro,Reform Martin Vollwert Bistro,0,其他,0.0,0.0,0.0
+更多美食,Sensei Sushi Bar,Sensei Sushi Bar,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Cafe Kunstpause,Cafe Kunstpause,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,FloJos,FloJos,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Maria von Burgund,Maria von Burgund,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Insieme,Insieme,0,其他,0.0,0.0,0.0
+更多美食,Schiessstand,Schiessstand,0,霍廷,0.0,0.0,0.0
+更多美食,Kranebitterhof,Kranebitterhof,0,Innsbruck Airport,0.0,0.0,0.0
+更多美食,Taminda ModeCafe,Taminda ModeCafe,0,其他,0.0,0.0,0.0
+更多美食,Mcdonald's Restaurant,Mcdonald's Restaurant,0,因斯布鲁克市中心,0.0,0.0,0.0
+更多美食,Cafe Pension Alpina,Cafe Pension Alpina,0,其他,0.0,0.0,0.0
+更多美食,Cafe & Bar Moskau,Cafe & Bar Moskau,0,其他,0.0,0.0,0.0
+更多美食,Waldorf,Waldorf,0,霍廷,0.0,0.0,0.0

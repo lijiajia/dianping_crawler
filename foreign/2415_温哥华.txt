@@ -1,0 +1,137 @@
+意大利菜,Caffe Artigiano,Caffe Artigiano,0,温哥华市中心,8.3,8.1,8.1
+意大利菜,Top of Vancouver,Top of Vancouver,0,,7.5,7.9,7.5
+意大利菜,The Boathouse Restaurant,The Boathouse Restaurant,0,温哥华市中心,6.8,7.2,7.2
+意大利菜,Regional Tasting lounge,Regional Tasting lounge,0,温哥华市中心,0.0,0.0,0.0
+意大利菜,Fuel Restaurant,Fuel Restaurant,0,温哥华市中心,0.0,0.0,0.0
+意大利菜,Templeton,Templeton,0,温哥华市中心,0.0,0.0,0.0
+意大利菜,CinCin Ristorante,CinCin Ristorante,0,温哥华市中心,0.0,0.0,0.0
+意大利菜,Q4 al Centro,Q4 al Centro,0,温哥华市中心,0.0,0.0,0.0
+意大利菜,Gastropod餐馆,Gastropod餐馆,0,,0.0,0.0,0.0
+意大利菜,惠斯勒餐厅,惠斯勒餐厅,0,,0.0,0.0,0.0
+法国菜,The KEG,The KEG,0,,7.5,7.4,7.4
+法国菜,Lumiere,Lumiere,0,温哥华市中心,0.0,0.0,0.0
+其他西餐,Hawksworth Restaurant,Hawksworth Restaurant,0,,7.0,7.1,7.0
+其他西餐,Chop Steakhouse & Bar - Richmond,Chop Steakhouse & Bar - Richmond,0,机场,7.2,7.2,7.2
+其他西餐,Felicos,Felicos,0,,7.2,7.2,7.2
+其他西餐,Gotham,Gotham,0,,7.1,7.1,7.0
+其他西餐,WEST,WEST,0,,7.0,7.0,7.0
+其他西餐,HY's,HY's,0,,7.0,6.9,7.0
+其他西餐,Caffe Artigiano,Caffe Artigiano,0,温哥华市中心,7.6,7.2,7.2
+其他西餐,蝶恋花中西餐厅,蝶恋花中西餐厅,0,,7.2,7.2,7.2
+其他西餐,Araxi,Araxi,0,其他,7.1,7.1,7.1
+其他西餐,Audrey s Moment,Audrey s Moment,0,温哥华市中心,6.8,7.7,7.7
+其他西餐,Hy s Steakhouse,Hy s Steakhouse,0,温哥华市中心,0.0,0.0,0.0
+中餐,上海一只鼎,上海一只鼎,0,,8.1,7.4,7.1
+中餐,半岛公馆,半岛公馆,0,,7.4,7.6,7.6
+中餐,湘緣湖南食府,湘緣湖南食府,0,温哥华市中心,7.8,6.9,7.3
+中餐,海港大酒楼,海港大酒楼,0,,8.4,8.5,8.4
+中餐,重庆刘一手火锅,重庆刘一手火锅,0,机场,7.5,7.5,7.8
+中餐,颐东海鲜酒楼,颐东海鲜酒楼,0,其他,7.6,7.5,7.5
+中餐,Empire Chinese Cuisine,Empire Chinese Cuisine,0,其他,7.3,7.1,7.1
+中餐,Deer Garden Signatures,Deer Garden Signatures,0,其他,7.6,7.5,7.1
+中餐,北京小吃街,北京小吃街,0,,6.8,6.7,6.8
+中餐,金百乐海鲜酒家,金百乐海鲜酒家,0,机场,8.4,8.3,8.3
+中餐,老西安,老西安,0,机场,8.2,7.9,7.9
+中餐,赵记汤馆,赵记汤馆,0,,7.4,6.9,6.9
+中餐,小龙记,小龙记,0,,8.1,6.7,7.5
+中餐,汉记面家,汉记面家,0,温哥华市中心,5.3,5.9,6.2
+中餐,聚湘村,聚湘村,0,温哥华市中心,8.3,8.3,7.4
+中餐,上海金典,上海金典,0,机场,7.0,7.0,6.5
+中餐,Phnom Penh Restaurant,Phnom Penh Restaurant,0,温哥华市中心,7.3,6.6,6.6
+中餐,功夫面,功夫面,0,温哥华市中心,7.4,6.7,6.7
+中餐,嘉好海鲜美食之家,嘉好海鲜美食之家,0,,7.1,6.9,7.1
+中餐,鲍粤轩,鲍粤轩,0,机场,8.3,7.4,7.4
+中餐,大可以,大可以,0,,7.0,7.0,7.0
+中餐,功夫面,功夫面,0,机场,7.4,7.4,7.4
+中餐,北京饭店,北京饭店,0,温哥华市中心,7.1,6.8,7.1
+中餐,梅园,梅园,0,机场,7.1,6.8,7.1
+中餐,百乐潮州酒家,百乐潮州酒家,0,机场,7.2,7.2,7.2
+中餐,Chef Hung Taiwanese Beef Noodle,Chef Hung Taiwanese Beef Noodle,0,西尾,7.2,6.8,7.2
+中餐,尚品海鲜面馆,尚品海鲜面馆,0,机场,7.1,7.1,7.1
+中餐,玉庭轩,玉庭轩,0,其他,6.8,6.8,6.2
+中餐,HK BBQ Master,HK BBQ Master,0,其他,7.5,7.2,7.2
+中餐,幸运海鲜酒家,幸运海鲜酒家,0,其他,7.5,6.8,7.1
+中餐,New Peace Chinese Restaurant,New Peace Chinese Restaurant,0,耶鲁镇,6.7,6.7,6.7
+中餐,香香妞川菜私房料理,香香妞川菜私房料理,0,温哥华市中心,0.0,0.0,0.0
+中餐,胖娃京川菜馆,胖娃京川菜馆,0,温哥华市中心,0.0,0.0,0.0
+中餐,火锅世家,火锅世家,0,温哥华市中心,0.0,0.0,0.0
+中餐,重庆秦妈火锅,重庆秦妈火锅,0,温哥华市中心,0.0,0.0,0.0
+中餐,白石海滨风景区北京饭店,白石海滨风景区北京饭店,0,温哥华市中心,0.0,0.0,0.0
+中餐,TSUI HANG VILLAGE,TSUI HANG VILLAGE,0,耶鲁镇,0.0,0.0,0.0
+中餐,鹿鸣春,鹿鸣春,0,温哥华市中心,0.0,0.0,0.0
+中餐,东北面馆,东北面馆,0,机场,0.0,0.0,0.0
+日韩料理,Miku Restaurant,Miku Restaurant,0,温哥华市中心,8.1,8.4,7.9
+日韩料理,Santouka Japanese Ramen,Santouka Japanese Ramen,0,温哥华市中心,7.6,7.1,7.5
+日韩料理,Gyo-O 魚王,Gyo-O 魚王,0,,6.8,6.8,7.4
+日韩料理,Tojo s寿司店,Tojo s寿司店,0,,7.5,7.1,7.5
+日韩料理,虎连坊,虎连坊,0,,7.0,6.9,7.0
+日韩料理,VANVAN JANPANSES TAPAS IZAKAYA,VANVAN JANPANSES TAPAS IZAKAYA,0,温哥华市中心,7.7,7.7,7.7
+日韩料理,Kingyo,Kingyo,0,温哥华市中心,7.2,6.8,6.8
+日韩料理,Kitanoya Guu Richmond,Kitanoya Guu Richmond,0,,7.0,7.0,7.0
+日韩料理,Tojo,Tojo,0,西尾,7.1,7.0,7.0
+日韩料理,Haroo Restaurant,Haroo Restaurant,0,,7.0,6.9,7.0
+日韩料理,Toku Japanese Restaurant,Toku Japanese Restaurant,0,机场,7.2,7.2,7.2
+日韩料理,Taka s Sushi,Taka s Sushi,0,温哥华市中心,0.0,0.0,0.0
+日韩料理,味太郎,味太郎,0,温哥华市中心,0.0,0.0,0.0
+日韩料理,鲑鱼屋,鲑鱼屋,0,温哥华市中心,0.0,0.0,0.0
+日韩料理,原烧Posh,原烧Posh,0,温哥华市中心,0.0,0.0,0.0
+日韩料理,韩川豆腐锅,韩川豆腐锅,0,温哥华市中心,0.0,0.0,0.0
+日韩料理,味藏 Aji-Kura Ramen & Sushi,味藏 Aji-Kura Ramen & Sushi,0,温哥华市中心,0.0,0.0,0.0
+更多亚洲菜,Kim House Japanese Bis,Kim House Japanese Bis,0,,7.5,7.5,7.5
+更多亚洲菜,Pho Khang Vietnamese Restaurant,Pho Khang Vietnamese Restaurant,0,,7.1,7.1,7.1
+更多亚洲菜,Pho Queen Restaurant,Pho Queen Restaurant,0,,6.9,6.9,7.0
+更多亚洲菜,泰麻鲜双人火锅,泰麻鲜双人火锅,0,温哥华市中心,0.0,0.0,0.0
+快餐简餐,Denny's,Denny's,42,,7.0,7.0,6.8
+快餐简餐,九记,九记,0,,7.3,6.8,6.7
+快餐简餐,japadog,japadog,0,温哥华市中心,8.2,6.8,7.7
+快餐简餐,王记-台湾牛肉面,王记-台湾牛肉面,0,,7.1,6.8,7.1
+快餐简餐,Tropika 星马印餐厅,Tropika 星马印餐厅,0,,7.5,7.5,7.5
+快餐简餐,IHOP,IHOP,0,,6.9,6.9,7.0
+快餐简餐,White spot,White spot,0,,6.9,7.0,7.0
+快餐简餐,火锅世家,火锅世家,0,温哥华市中心,0.0,0.0,0.0
+快餐简餐,金边小馆,金边小馆,0,,0.0,0.0,0.0
+快餐简餐,邦德厨房,邦德厨房,0,,0.0,0.0,0.0
+快餐简餐,家乡小吃 Hometown Food,家乡小吃 Hometown Food,0,,0.0,0.0,0.0
+海鲜,新瑞华海鲜酒家,新瑞华海鲜酒家(Richmond总店),0,,8.3,8.0,7.8
+海鲜,The Fish Shack,The Fish Shack,0,,8.0,8.0,7.8
+海鲜,Rodney's Oyster House,Rodney's Oyster House,0,,7.6,7.0,7.3
+海鲜,名都海鲜酒家,名都海鲜酒家,0,,7.5,7.9,7.9
+海鲜,西湖海鲜酒家,西湖海鲜酒家,0,,7.5,7.3,8.1
+海鲜,嫁‘Ge'冷 潮州菜,嫁‘Ge'冷 潮州菜,0,,7.1,6.8,6.8
+海鲜,The Sandbar Seafood Restaurant,The Sandbar Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,帝皇海鲜酒家,帝皇海鲜酒家,0,温哥华市中心,0.0,0.0,0.0
+海鲜,加乐海鲜酒家,加乐海鲜酒家,0,温哥华市中心,0.0,0.0,0.0
+海鲜,Prince Seafood Restaurant,Prince Seafood Restaurant,0,,0.0,0.0,0.0
+海鲜,Steveston Seafood House,Steveston Seafood House,0,温哥华市中心,0.0,0.0,0.0
+海鲜,Brass Monkey,Brass Monkey,0,,0.0,0.0,0.0
+烧烤,串香居烧烤,串香居烧烤,0,温哥华市中心,7.5,7.0,7.0
+烧烤,SURA Korean BBQ,SURA Korean BBQ,0,机场,7.4,7.4,7.4
+比萨,Steveston Pizza Company,Steveston Pizza Company,0,,0.0,0.0,0.0
+咖啡厅,Thierry Chocolaterie Patisserie Cafe,Thierry Chocolaterie Patisserie Cafe,0,,7.7,8.1,7.4
+咖啡厅,Cactus Club Cafe,Cactus Club Cafe,0,,6.5,7.5,6.8
+咖啡厅,Waves Coffee House,Waves Coffee House,0,,7.9,7.9,7.9
+咖啡厅,樱茶屋 Blossom Teas,樱茶屋 Blossom Teas,0,,7.5,7.2,7.5
+咖啡厅,Blue Water Cafe + Raw Bar,Blue Water Cafe + Raw Bar,0,,7.2,6.5,6.5
+咖啡厅,sun's coffee,sun's coffee,0,,8.0,7.3,8.0
+咖啡厅,Medina Cafe,Medina Cafe,0,,6.9,7.0,7.0
+咖啡厅,Coffee Bar,Coffee Bar,0,,7.0,7.0,7.0
+咖啡厅,Cimona Cafe,Cimona Cafe,0,,7.5,7.5,7.5
+咖啡厅,Mario's  Coffee  Express,Mario's  Coffee  Express,0,,7.1,7.0,7.0
+咖啡厅,Mink A Chocolate Cafe,Mink A Chocolate Cafe,0,,6.9,6.9,6.7
+咖啡厅,QQ Bubble Tea & Coffee,QQ Bubble Tea & Coffee,0,其他,7.7,7.2,7.7
+咖啡厅,Starbucks,Starbucks,0,西尾,6.8,6.8,6.8
+咖啡厅,Thomas Haas Patisserie,Thomas Haas Patisserie,0,,8.4,8.4,8.4
+咖啡厅,Tastylife Cafe,Tastylife Cafe,0,温哥华市中心,0.0,0.0,0.0
+面包甜点,Cheesecake Etc,Cheesecake Etc,0,,8.5,8.0,8.0
+面包甜点,Bella Gelateria And Gelato,Bella Gelateria And Gelato,0,温哥华市中心,7.8,7.3,6.3
+面包甜点,Cobs Bread Bakery,Cobs Bread Bakery,0,,6.7,6.9,6.9
+面包甜点,Terra Breads,Terra Breads,0,格兰威尔南部,6.8,6.4,6.4
+面包甜点,雪贝尔蛋糕,雪贝尔蛋糕,0,温哥华市中心,0.0,0.0,0.0
+面包甜点,ChocolaTas,ChocolaTas,0,,0.0,0.0,0.0
+酒吧,Cin Cin Ristorante + Bar,Cin Cin Ristorante + Bar,0,,6.6,6.8,6.7
+酒吧,Merchant's oyster bar,Merchant's oyster bar,0,,7.1,6.8,6.8
+酒吧,QQ Bubble Tea & Coffee,QQ Bubble Tea & Coffee,0,其他,7.7,7.2,7.7
+酒吧,YEW resTaurAnt + Bar,YEW resTaurAnt + Bar,0,,0.0,0.0,0.0
+更多美食,Richmond Public Market,Richmond Public Market,0,,0.0,0.0,0.0
+更多美食,QQ Gelato,QQ Gelato,0,温哥华市中心,0.0,0.0,0.0
+更多美食,Capers,Capers,0,温哥华市中心,0.0,0.0,0.0

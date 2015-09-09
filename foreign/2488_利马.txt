@@ -1,0 +1,75 @@
+意大利菜,Scena,Scena,0,,7.2,7.2,7.2
+意大利菜,Mezzaluna,Mezzaluna,0,,6.7,6.9,6.9
+其他西餐,TROPICANA,TROPICANA,0,,7.1,7.1,7.1
+其他西餐,Tony Roma's,Tony Roma's,0,,7.2,7.2,7.2
+其他西餐,Balthazar,Balthazar,0,,7.1,7.1,7.1
+日韩料理,Miso,Miso,0,,7.1,7.0,7.0
+日韩料理,Wasabi,Wasabi,0,,7.2,6.8,7.2
+日韩料理,Hikari,Hikari,0,,7.1,7.1,7.1
+日韩料理,Osaka,Osaka,0,,7.2,7.2,7.2
+快餐简餐,papizza,papizza,0,,7.1,7.0,7.1
+快餐简餐,Subway,Subway,0,,6.8,6.8,6.8
+快餐简餐,Papa John's,Papa John's,0,,7.1,6.8,6.8
+快餐简餐,McDonald's,McDonald's,0,,6.9,6.9,6.9
+快餐简餐,Chili's,Chili's,0,,7.2,7.2,7.2
+快餐简餐,La Baguette,La Baguette,0,,7.2,7.2,7.2
+快餐简餐,Chili's,Chili's,0,,7.1,6.8,7.1
+快餐简餐,Friday's,Friday's,0,,7.2,7.2,7.2
+快餐简餐,Ichiban,Ichiban,0,,7.1,7.1,7.1
+快餐简餐,McDonald's,McDonald's,0,,6.6,6.8,6.8
+比萨,Mozza Pizza,Mozza Pizza,0,,7.1,7.0,7.0
+比萨,Pizza Meter,Pizza Meter,0,,7.1,7.0,7.0
+比萨,Villa Pizza,Villa Pizza,0,,7.1,7.1,7.1
+比萨,Veggie Pizza Peru,Veggie Pizza Peru,0,,7.2,7.2,7.2
+比萨,D'nnos Pizza,D'nnos Pizza,0,,6.8,6.8,6.8
+比萨,Pizza Hut,Pizza Hut,0,,7.1,7.1,6.8
+咖啡厅,cafes la mexicana,cafes la mexicana,0,,7.1,7.0,7.1
+咖啡厅,News Cafe,News Cafe,0,,7.2,7.2,7.2
+咖啡厅,Jam Box Bar Cafe,Jam Box Bar Cafe,0,,7.0,7.1,7.1
+咖啡厅,Illariy Cafeteria,Illariy Cafeteria,0,,7.1,7.1,7.1
+咖啡厅,Dedalo arte y cafe,Dedalo arte y cafe,0,,7.1,7.1,7.1
+咖啡厅,Puku Puku Cafe,Puku Puku Cafe,0,,7.7,7.7,7.2
+咖啡厅,Cafe de la Paz,Cafe de la Paz,0,,7.2,7.2,7.2
+咖啡厅,Bule Cafe,Bule Cafe,0,,7.1,7.0,7.1
+咖啡厅,Mezze Restaurant and Cafe,Mezze Restaurant and Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe La Favorita,Cafe La Favorita,0,,7.0,7.1,7.0
+咖啡厅,Cafe Ole,Cafe Ole,0,,6.9,7.0,7.0
+咖啡厅,Cafe del Museo,Cafe del Museo,0,,7.2,7.2,7.7
+咖啡厅,Chala Costa Fusion,Chala Costa Fusion,0,,7.2,7.2,7.2
+咖啡厅,Rustica de la Costa Verde,Rustica de la Costa Verde,0,,7.2,7.2,7.2
+咖啡厅,Chef's Cafe,Chef's Cafe,0,,7.2,7.2,7.2
+咖啡厅,La Folie Cafe,La Folie Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe Tostado,Cafe Tostado,0,,7.1,7.1,7.1
+咖啡厅,Sofa Cafe Larocmar,Sofa Cafe Larocmar,0,,7.1,7.1,7.1
+咖啡厅,Cafe Bisetti,Cafe Bisetti,0,,7.1,7.1,7.1
+咖啡厅,Cafe Cafe,Cafe Cafe,0,,7.2,7.2,7.2
+咖啡厅,Cafe 21,Cafe 21,0,,7.1,7.1,7.1
+咖啡厅,Montecristo Cafe - Restaurante,Montecristo Cafe - Restaurante,0,,6.8,6.8,7.1
+咖啡厅,Nathano's Cafe,Nathano's Cafe,0,,7.1,7.0,7.0
+咖啡厅,"Hard Rock Cafe, Lima","Hard Rock Cafe, Lima",0,,7.2,7.2,7.2
+咖啡厅,Chifa My Home,Chifa My Home,0,,7.1,7.1,7.1
+咖啡厅,Dpaso Cafe Restobar,Dpaso Cafe Restobar,0,,7.0,7.0,7.0
+咖啡厅,Patagonia,Patagonia,0,,6.8,6.8,7.1
+咖啡厅,Life Cafe ,Life Cafe ,0,,7.1,7.1,7.1
+酒吧,El Bar Verde,El Bar Verde,0,,6.7,7.4,8.2
+酒吧,Malabar,Malabar,0,,7.2,7.2,7.2
+酒吧,Makoto Sushi bar,Makoto Sushi bar,0,,7.2,7.2,7.2
+酒吧,Club Huancabamba,Club Huancabamba,0,,6.9,6.9,6.9
+酒吧,Stragos Karaoke Bar Boxes,Stragos Karaoke Bar Boxes,0,,7.0,7.0,7.0
+酒吧,Salon Capon,Salon Capon,0,,7.0,7.0,7.0
+酒吧,Ayahuasca bar,Ayahuasca bar,0,,7.2,7.2,7.2
+酒吧,Edo Sushi Bar,Edo Sushi Bar,0,,7.1,7.1,7.1
+酒吧,Key Club,Key Club,0,,7.0,7.0,7.0
+酒吧,Estadio Futbol Club Restaurant,Estadio Futbol Club Restaurant,0,,7.2,7.2,7.2
+酒吧,La Esquina Wine Bar,La Esquina Wine Bar,0,,7.2,7.2,7.2
+酒吧,Amadeus Piano Bar,Amadeus Piano Bar,0,,7.1,7.1,7.1
+酒吧,Club Suizo,Club Suizo,0,,7.0,6.9,7.0
+酒吧,"Rouge Bar, Miraflores","Rouge Bar, Miraflores",0,,7.0,7.0,7.0
+酒吧,Victoria Bar,Victoria Bar,0,,7.0,6.9,7.0
+酒吧,SASHIMITO Sushi Bar,SASHIMITO Sushi Bar,0,,6.9,6.9,6.9
+酒吧,828 Restaurante Bar,828 Restaurante Bar,0,,7.0,7.0,7.1
+酒吧,Edo Sushi Bar,Edo Sushi Bar,0,,7.2,7.2,7.2
+酒吧,Arabica Espresso Bar and Gastro Bar,Arabica Espresso Bar and Gastro Bar,0,,7.0,7.0,7.0
+酒吧,Bar Ingles,Bar Ingles,0,,7.1,7.1,7.1
+酒吧,Izakaya Sushi Bar,Izakaya Sushi Bar,0,,7.0,7.0,7.0
+酒吧,Chabuca Restaurant and Bar,Chabuca Restaurant and Bar,0,,7.1,7.1,7.1

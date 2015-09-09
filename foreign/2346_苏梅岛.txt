@@ -1,0 +1,647 @@
+泰国菜,SabeinGlae ResTaurAnt,SabeinGlae ResTaurAnt,147,拉迈海滩,8.5,8.3,7.9
+泰国菜,Green Bird,Green Bird,69,查汶海滩,8.4,7.0,8.2
+泰国菜,Zazen Restaurant,Zazen Restaurant,204,博弗,8.9,9.2,9.2
+泰国菜,Will Wait Restaurant,Will Wait Restaurant,76,苏梅岛其他,7.7,7.6,8.0
+泰国菜,Mit Samui Restaurant,Mit Samui Restaurant,130,查汶海滩,7.2,6.4,6.5
+泰国菜,Khaw Glong Thai Restaurant,Khaw Glong Thai Restaurant,89,博弗,9.0,8.5,8.9
+泰国菜,Rostiland,Rostiland,72,拉迈海滩,8.7,8.3,8.1
+泰国菜,Ark Bar Garden Beach Resort Restaurant,Ark Bar Garden Beach Resort Restaurant,0,博弗,7.9,8.5,8.3
+泰国菜,Green Bird,Green Bird(查汶大街店),0,博弗,7.6,7.1,7.9
+泰国菜,Green Bird,Green Bird,0,博弗,7.2,6.3,7.2
+泰国菜,Phensiri Thai Bistro,Phensiri Thai Bistro,0,查汶海滩,8.8,8.9,8.9
+泰国菜,Ninja Crepes,Ninja Crepes,0,博弗,7.4,6.8,7.4
+泰国菜,OceanKiss,OceanKiss,0,查汶海滩,0.0,0.0,0.0
+泰国菜,The Kitchen Table,The Kitchen Table,0,博弗,8.0,8.4,7.7
+泰国菜,ZENZIBAR Beach Bar & Restaurant,ZENZIBAR Beach Bar & Restaurant,0,博弗,7.9,7.5,8.1
+泰国菜,Terminal D,Terminal D,0,查汶海滩,7.8,8.0,8.1
+泰国菜,Tarua Samui Seafood,Tarua Samui Seafood,0,华斯纳,0.0,0.0,0.0
+泰国菜,Asador BBQ grill house,Asador BBQ grill house,0,苏梅岛其他,8.5,8.1,8.1
+泰国菜,Mr Crab,Mr Crab,0,苏梅岛其他,8.1,7.4,8.0
+泰国菜,rct restaurant,rct restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Seafood Palate,Seafood Palate,0,,8.6,8.6,8.6
+泰国菜,Happy Elephant,Happy Elephant,0,博弗,0.0,0.0,0.0
+泰国菜,Green Bird,Green Bird(Bo Put店),0,查汶海滩,7.4,7.3,7.5
+泰国菜,Latest Recipe Le Meridien,Latest Recipe Le Meridien,0,拉迈海滩,7.5,8.3,8.3
+泰国菜,Anong Restaurant,Anong Restaurant,0,博弗,0.0,0.0,0.0
+泰国菜,Dining on the rock,Dining on the rock,0,苏梅岛其他,7.2,7.5,7.0
+泰国菜,Long Table at Choengmon,Long Table at Choengmon,0,博弗,0.0,0.0,0.0
+泰国菜,The Island View Restaurant,The Island View Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,The Hut,The Hut,0,博弗,0.0,0.0,0.0
+泰国菜,Nuch's Green Ta'lay Restaurant,Nuch's Green Ta'lay Restaurant,0,达灵岩,0.0,0.0,0.0
+泰国菜,Tumzaab,Tumzaab,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Galanga Restaurant,Galanga Restaurant,0,博弗,0.0,0.0,0.0
+泰国菜,Sabeinglae Restaurant,Sabeinglae Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Poppies,Poppies,0,查汶海滩,0.0,0.0,0.0
+泰国菜,The Five Islands,The Five Islands,0,,0.0,0.0,0.0
+泰国菜,The Page,The Page,0,苏梅岛其他,7.9,7.9,7.9
+泰国菜,Sala Thai Restaurant Chaweng Beach,Sala Thai Restaurant Chaweng Beach,0,崇文海滩,0.0,0.0,0.0
+泰国菜,Smile House Restaurant,Smile House Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Baitong Restaurant Chaweng Beach,Baitong Restaurant Chaweng Beach,0,邦珀尔,0.0,0.0,0.0
+泰国菜,Mango Tree Restaurant,Mango Tree Restaurant,0,纳通,0.0,0.0,0.0
+泰国菜,Onion Restaurant,Onion Restaurant,0,查汶海滩,7.0,6.7,6.7
+泰国菜,Budsaba,Budsaba,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Asador Steak House,Asador Steak House,0,查汶海滩,0.0,0.0,0.0
+泰国菜,The Jungle Club Restaurant,The Jungle Club Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Krua Bophut,Krua Bophut,0,博弗,0.0,0.0,0.0
+泰国菜,Long Table Restaurant,Long Table Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Charming,Charming,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Da Papa,Da Papa,0,查汶海滩,0.0,0.0,0.0
+泰国菜,The Terrace,The Terrace,0,纳通,0.0,0.0,0.0
+泰国菜,Kob Thai Restaurant,Kob Thai Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Eat Sense Beach Restaurant Samui,Eat Sense Beach Restaurant Samui,0,博弗,0.0,0.0,0.0
+泰国菜,TawaNN,TawaNN,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,The Farmer Restaurant and Bar,The Farmer Restaurant and Bar,0,湄南海滩,0.0,0.0,0.0
+泰国菜,Samui Paleang Restaurant,Samui Paleang Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Bamboo Beach Bar Cafe & Restaurant,Bamboo Beach Bar Cafe & Restaurant,0,达灵岩,0.0,0.0,0.0
+泰国菜,The Beach Club @ Buri Rasa,The Beach Club @ Buri Rasa,0,博弗,0.0,0.0,0.0
+泰国菜,Sri Nuan,Sri Nuan,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,Samui Kangaroo,Samui Kangaroo,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,a garden,a garden,0,苏梅岛其他,8.0,8.0,8.0
+泰国菜,Walkabout Bar & Grill,Walkabout Bar & Grill,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,The Gourmet Terrace,The Gourmet Terrace,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,The Chef,The Chef,0,查汶海滩,0.0,0.0,0.0
+泰国菜,The Page,The Page,0,达灵岩,0.0,0.0,0.0
+泰国菜,Patio Restaurant,Patio Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Ammatara Restaurant,Ammatara Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,BAN'S,BAN'S,0,苏梅岛其他,7.0,7.2,7.0
+泰国菜,Sala Thai Restaurant,Sala Thai Restaurant,0,苏梅岛其他,7.0,6.9,7.0
+泰国菜,Djouns. Lounge & Shishas,Djouns. Lounge & Shishas,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,French Kiss Thanod,French Kiss Thanod,0,达灵岩,0.0,0.0,0.0
+泰国菜,Samui Wine Oasis,Samui Wine Oasis,0,博弗,0.0,0.0,0.0
+泰国菜,King Busch Reggae Beach,King Busch Reggae Beach,0,博弗,0.0,0.0,0.0
+泰国菜,The Lounge,The Lounge,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Miam Miam,Miam Miam,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,I - Talay Nasai Garden & Restaurant,I - Talay Nasai Garden & Restaurant,0,达灵岩,0.0,0.0,0.0
+泰国菜,The Orchid Restaurant & Bar,The Orchid Restaurant & Bar,0,博弗,0.0,0.0,0.0
+泰国菜,Sea One Restaurant,Sea One Restaurant,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,La Taverna,La Taverna,0,博弗,0.0,0.0,0.0
+泰国菜,Honey Seafood Restaurant,Honey Seafood Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Baobab,Baobab,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Chef's Table,Chef's Table,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Golden Elephant,Golden Elephant,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,Swing Bar,Swing Bar,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,Armando's Beach Restaurant,Armando's Beach Restaurant,0,邦珀尔,0.0,0.0,0.0
+泰国菜,Vinothek,Vinothek,0,达灵岩,0.0,0.0,0.0
+泰国菜,Tiamo,Tiamo,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Vikasa Cafe,Vikasa Cafe,0,博弗,0.0,0.0,0.0
+泰国菜,Lamai veggie,Lamai veggie,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,Frog and Gecko,Frog and Gecko,0,博弗,0.0,0.0,0.0
+泰国菜,Villa Daudet,Villa Daudet,0,博弗,0.0,0.0,0.0
+泰国菜,The Singing Frog Maenam,The Singing Frog Maenam,0,湄南海滩,0.0,0.0,0.0
+泰国菜,Arun@Samui,Arun@Samui,0,湄南海滩,0.0,0.0,0.0
+泰国菜,Beach Road Bar and Cafe,Beach Road Bar and Cafe,0,博弗,0.0,0.0,0.0
+泰国菜,Saffron at Banyan Tree Samui,Saffron at Banyan Tree Samui,0,博弗,0.0,0.0,0.0
+泰国菜,Nirvana,Nirvana,0,湄南海滩,0.0,0.0,0.0
+泰国菜,John's Garden,John's Garden,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Curry Pot Indian Restaurant,Curry Pot Indian Restaurant,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,Nature Bar,Nature Bar,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Jasmine Restaurant and Bar,Jasmine Restaurant and Bar,0,博弗,0.0,0.0,0.0
+泰国菜,Drink Gallery,Drink Gallery,0,博弗,0.0,0.0,0.0
+泰国菜,Kiree,Kiree,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,Akbar Indian and Thai Restaurant,Akbar Indian and Thai Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Made In,Made In,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,89 Thaifood Restaurant,89 Thaifood Restaurant,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,Ploy Restaurant,Ploy Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Ali Baba Indian Restaurant,Ali Baba Indian Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Red Snapper Restaurant & Bar,Red Snapper Restaurant & Bar,0,博弗,0.0,0.0,0.0
+泰国菜,Spa Samui,Spa Samui,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,Apple Restaurant,Apple Restaurant,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,Tandoori Nights,Tandoori Nights,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Krua Thai Restaurant,Krua Thai Restaurant,0,华斯纳,0.0,0.0,0.0
+泰国菜,Shambala,Shambala,0,华斯纳,0.0,0.0,0.0
+泰国菜,Charlie Chaplin Restaurant & Bar,Charlie Chaplin Restaurant & Bar,0,博弗,0.0,0.0,0.0
+泰国菜,Stonefish,Stonefish,0,博弗,0.0,0.0,0.0
+泰国菜,Mamma Roma,Mamma Roma,0,博弗,0.0,0.0,0.0
+泰国菜,Top Thai Food,Top Thai Food,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Sweden Bar & Restaurant Samui,Sweden Bar & Restaurant Samui,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Garland Samui,Garland Samui,0,博弗,0.0,0.0,0.0
+泰国菜,Pandora Restaurant,Pandora Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Imchai Thaifood,Imchai Thaifood,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Romantic bamboo,Romantic bamboo,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,55 Crepe Bar & Kitchen,55 Crepe Bar & Kitchen,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Mix Bistro,Mix Bistro,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Infinity Restaurant,Infinity Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,"Sopa, Plai Laem, Koh Samui","Sopa, Plai Laem, Koh Samui",0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,My place bar&restaurant,My place bar&restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Au Cafe Des Arts,Au Cafe Des Arts,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Ivory Restaurant,Ivory Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Khaosan Restaurant,Khaosan Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Your Place Bar,Your Place Bar,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Relax @ Samui,Relax @ Samui,0,湄南海滩,0.0,0.0,0.0
+泰国菜,Yuvraj Indian & Thai Restaurant,Yuvraj Indian & Thai Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,The Dining Room at Rocky's Boutique Resort,The Dining Room at Rocky's Boutique Resort,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Radiance Restaurant,Radiance Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Le Brin de Riz,Le Brin de Riz,0,博弗,0.0,0.0,0.0
+泰国菜,San Remo Lounge,San Remo Lounge,0,湄南海滩,0.0,0.0,0.0
+泰国菜,NO Stress,NO Stress,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Lucky Restaurant,Lucky Restaurant,0,华斯纳,0.0,0.0,0.0
+泰国菜,The Pier,The Pier,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,La Dolce Vita,La Dolce Vita,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Jahn at Conrad Koh Samui,Jahn at Conrad Koh Samui,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Kingfisher,Kingfisher,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,Kokomiko Restaurant,Kokomiko Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Sala Thai,Sala Thai,0,博弗,0.0,0.0,0.0
+泰国菜,Sambora restaurant,Sambora restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,kao pad thai,kao pad thai,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Poom's Place,Poom's Place,0,湄南海滩,0.0,0.0,0.0
+泰国菜,Coast Restaurant,Coast Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,The French touch,The French touch,0,达灵岩,0.0,0.0,0.0
+泰国菜,Chill @ Hip Restaurant,Chill @ Hip Restaurant,0,博弗,0.0,0.0,0.0
+泰国菜,Basilicom,Basilicom,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Tor Charm Samui,Tor Charm Samui,0,查汶海滩,0.0,0.0,0.0
+泰国菜,samui rock cafe,samui rock cafe,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Crystal Restaurant,Crystal Restaurant,0,华斯纳,0.0,0.0,0.0
+泰国菜,Cocooning Hotel Restaurant,Cocooning Hotel Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Oasis,Oasis,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Sonja's Thai Cooking Class and Restaurant,Sonja's Thai Cooking Class and Restaurant,0,湄南海滩,0.0,0.0,0.0
+泰国菜,Captain Kirk,Captain Kirk,0,博弗,0.0,0.0,0.0
+泰国菜,Luna Hut Restaurant,Luna Hut Restaurant,0,湄南海滩,0.0,0.0,0.0
+泰国菜,The Height,The Height,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,The Barge,The Barge,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Uncle Rang Restaurant,Uncle Rang Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Twisted Thai,Twisted Thai,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Beach Republic,Beach Republic,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Lan Lamai Restaurant,Lan Lamai Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Baan Chantra Restaurant,Baan Chantra Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Ying Yang Restaurant,Ying Yang Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Big Johns Restaurant at The Lipa Lovely Resort,Big Johns Restaurant at The Lipa Lovely Resort,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Harry's Bar,Harry's Bar,0,湄南海滩,0.0,0.0,0.0
+泰国菜,Dining on the hill,Dining on the hill,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Restaurant @ Bandara Resort & Spa,Restaurant @ Bandara Resort & Spa,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Larn Ta Lay Restaurant,Larn Ta Lay Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,La Voile,La Voile,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Samui Lounge,Samui Lounge,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Alimundo Suono,Alimundo Suono,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Pa'Do Traiteur,Pa'Do Traiteur,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Hacienda Beach Restaurant,Hacienda Beach Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Utopia Restaurant,Utopia Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Ta's Cafe & CrunChies,Ta's Cafe & CrunChies,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Som Restaurant,Som Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Rocky's Boutique Resort Restaurant,Rocky's Boutique Resort Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Beryl Bar,Beryl Bar,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Restaurant K-Siri,Restaurant K-Siri,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Ageha Sushi,Ageha Sushi,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Addy Siam Cooking Class and Restaurant,Addy Siam Cooking Class and Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Le Cabanon,Le Cabanon,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,The Friendly Frog,The Friendly Frog,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Tropicana,Tropicana,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Little Holland,Little Holland,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Khun Anna Restaurant & Bar,Khun Anna Restaurant & Bar,0,华斯纳,0.0,0.0,0.0
+泰国菜,Seaside Bungalows Restaurant,Seaside Bungalows Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,My Friend,My Friend,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Krua Savoey Restaurant,Krua Savoey Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Lare Lae,Lare Lae,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Ma Maison,Ma Maison,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Rocky Bar,Rocky Bar,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Gecko Bar Hill,Gecko Bar Hill,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Frenchy's Hotel and Restaurant,Frenchy's Hotel and Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Khun Ying,Khun Ying,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Balance Restaurant,Balance Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,To Day,To Day,0,拉迈海滩,0.0,0.0,0.0
+泰国菜,Orgasmic,Orgasmic,0,博弗,0.0,0.0,0.0
+泰国菜,Krua Thai Restaurant,Krua Thai Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Il Salotto Samui restaurant,Il Salotto Samui restaurant,0,博弗,0.0,0.0,0.0
+泰国菜,Thai Spices at Thai House Beach Resort,Thai Spices at Thai House Beach Resort,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Merante,Merante,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Padma Restaurant,Padma Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Chef Chom's Thai Restaurant,Chef Chom's Thai Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Andanan Steak House,Andanan Steak House,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Samui Spice,Samui Spice,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Restaurant Sea Wrap,Restaurant Sea Wrap,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Captain's Choice Restaurant,Captain's Choice Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Sunshine Gourmet,Sunshine Gourmet,0,华斯纳,0.0,0.0,0.0
+泰国菜,Buco Restaurant and Bar,Buco Restaurant and Bar,0,华斯纳,0.0,0.0,0.0
+泰国菜,The Duke Pub & Restaurant Koh Samui Thailand,The Duke Pub & Restaurant Koh Samui Thailand,0,查汶海滩,0.0,0.0,0.0
+泰国菜,bai pho,bai pho,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Buco Restaurant,Buco Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Pott restaurant,Pott restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Thai Food 1,Thai Food 1,0,达灵岩,0.0,0.0,0.0
+泰国菜,Mimosa Restaurant,Mimosa Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Breezy Restaurant,Breezy Restaurant,0,查汶海滩,0.0,0.0,0.0
+泰国菜,ห้องอาหารกานดาบุรี รีสอร์ท แอนด์ สปา,ห้องอาหารกานดาบุรี รีสอร์ท แอนด์ สปา,0,查汶海滩,0.0,0.0,0.0
+泰国菜,ร้านกาแฟวาวี สาขาหาดเฉวง (เกาะสมุย),ร้านกาแฟวาวี สาขาหาดเฉวง (เกาะสมุย),0,博弗,0.0,0.0,0.0
+泰国菜,4K Restaurant,4K Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Six Sense,Six Sense,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ สมุยลิฟวิ่งสแควร์,สตาร์บัคส์ สมุยลิฟวิ่งสแควร์,0,博弗,0.0,0.0,0.0
+泰国菜,Dara Samui,Dara Samui,0,查汶海滩,0.0,0.0,0.0
+泰国菜,สตาร์บัคส์ สมุย,สตาร์บัคส์ สมุย,0,博弗,0.0,0.0,0.0
+泰国菜,@Art Samui Thailand,@Art Samui Thailand,0,博弗,0.0,0.0,0.0
+泰国菜,Azure,Azure,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Villa Bianca,Villa Bianca,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,KHAN BABA,KHAN BABA,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,No.1 Restaurant & Bar,No.1 Restaurant & Bar,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Thai Garden ReataurAnt,Thai Garden ReataurAnt,0,查汶海滩,0.0,0.0,0.0
+泰国菜,Tam Thai Restaurant ร้านอาหารตำไทย,Tam Thai Restaurant ร้านอาหารตำไทย,0,博弗,0.0,0.0,0.0
+泰国菜,ห้างหุ้นส่วนจำกัด ลีลา เอ็นเตอร์ไพรส์,ห้างหุ้นส่วนจำกัด ลีลา เอ็นเตอร์ไพรส์,0,博弗,0.0,0.0,0.0
+泰国菜,คอฟฟี่เวิล์ด โลตัสสมุย,คอฟฟี่เวิล์ด โลตัสสมุย,0,博弗,0.0,0.0,0.0
+泰国菜,Poppies,Poppies,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Samui Sense Beach Resort Restaurant,Samui Sense Beach Resort Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+泰国菜,Infinity Restaurant,Infinity Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+中餐,忆·苏梅精致中餐,忆·苏梅精致中餐,63,查汶海滩,8.1,8.1,8.6
+中餐,德华香港海鲜酒家,德华香港海鲜酒家,154,查汶海滩,8.7,8.8,8.5
+中餐,大食代,大食代,0,查汶海滩,6.8,6.8,7.2
+中餐,Barrio Latino,Barrio Latino,0,拉迈海滩,0.0,0.0,0.0
+中餐,Namcha Samui,Namcha Samui,0,苏梅岛其他,0.0,0.0,0.0
+中餐,忆苏梅精致中华私房菜,忆苏梅精致中华私房菜,0,查汶海滩,0.0,0.0,0.0
+海鲜,Crab,Crab,141,查汶海滩,6.8,6.6,6.6
+海鲜,Tree Tops,Tree Tops,0,查汶海滩,7.4,8.4,8.3
+海鲜,真珠大饭店,真珠大饭店,0,博弗,7.3,7.6,7.8
+海鲜,Red Lobster,Red Lobster,0,,7.8,7.8,8.6
+海鲜,ZENZIBAR Beach Bar & Restaurant,ZENZIBAR Beach Bar & Restaurant,0,博弗,7.9,7.5,8.1
+海鲜,Bang Po Seafood,Bang Po Seafood,0,邦珀尔,8.6,8.2,8.2
+海鲜,Samui Seafood Grill & Restaurant,Samui Seafood Grill & Restaurant,0,博弗,7.1,7.8,7.0
+海鲜,Jubilee Restaurant,Jubilee Restaurant,0,苏梅岛其他,6.5,6.1,7.0
+海鲜,忆苏梅精致中餐厅,忆苏梅精致中餐厅,0,,7.3,7.0,7.0
+海鲜,The address,The address,0,博弗,0.0,0.0,0.0
+海鲜,Galanga Restaurant,Galanga Restaurant,0,查汶海滩,7.9,7.4,6.9
+海鲜,Sabeinglae Restaurant,Sabeinglae Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+海鲜,Big John Seafood Restaurant,Big John Seafood Restaurant,0,苏梅岛其他,7.7,7.7,7.2
+海鲜,w酒店餐厅,w酒店餐厅,0,,7.5,8.4,8.4
+海鲜,南园岛餐厅,南园岛餐厅,0,苏梅岛其他,6.6,7.0,6.6
+海鲜,ta yai hut restaurant,ta yai hut restaurant,0,,7.1,7.1,7.1
+海鲜,Big Jew Seafood,Big Jew Seafood,0,纳通,7.5,7.5,7.5
+海鲜,French Kiss Thanod,French Kiss Thanod,0,达灵岩,0.0,0.0,0.0
+海鲜,Andaman Steak and Seafood,Andaman Steak and Seafood,0,博弗,0.0,0.0,0.0
+海鲜,Chef's Table,Chef's Table,0,查汶海滩,0.0,0.0,0.0
+海鲜,Golden Elephant,Golden Elephant,0,拉迈海滩,0.0,0.0,0.0
+海鲜,Tandoori Nights,Tandoori Nights,0,苏梅岛其他,0.0,0.0,0.0
+海鲜,RockPool,RockPool,0,达灵岩,0.0,0.0,0.0
+海鲜,My place bar&restaurant,My place bar&restaurant,0,苏梅岛其他,0.0,0.0,0.0
+海鲜,Shades Beach Restaurant & Wine Bar,Shades Beach Restaurant & Wine Bar,0,博弗,0.0,0.0,0.0
+海鲜,Krua Savoey Restaurant,Krua Savoey Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+海鲜,Samui Seafood Grill & Restaurant,Samui Seafood Grill & Restaurant,0,博弗,0.0,0.0,0.0
+海鲜,Chun Chim Seafood,Chun Chim Seafood,0,苏梅岛其他,0.0,0.0,0.0
+海鲜,Big Chiu Seafood,Big Chiu Seafood,0,苏梅岛其他,0.0,0.0,0.0
+日韩料理,Namu,Namu,0,,0.0,0.0,0.0
+日韩料理,Otaru Sushi Japanese Restaurant,Otaru Sushi Japanese Restaurant,0,博弗,7.2,7.5,7.2
+日韩料理,Fuji Restaurant,Fuji Restaurant,0,查汶海滩,0.0,0.0,0.0
+日韩料理,Air Bar,Air Bar,0,苏梅岛其他,0.0,0.0,0.0
+日韩料理,ZEN,ZEN,0,查汶海滩,7.5,7.5,7.5
+日韩料理,Yayoi,Yayoi,0,查汶海滩,7.5,7.5,7.5
+日韩料理,Chai Dee Samui,Chai Dee Samui,0,博弗,0.0,0.0,0.0
+日韩料理,Sushi & Steak,Sushi & Steak,0,苏梅岛其他,0.0,0.0,0.0
+日韩料理,Suikin(Pan Asian Restaurant),Suikin(Pan Asian Restaurant),0,苏梅岛其他,0.0,0.0,0.0
+日韩料理,Otaru Sushi Japanese Restaurant,Otaru Sushi Japanese Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+日韩料理,Hagi,Hagi,0,苏梅岛其他,0.0,0.0,0.0
+日韩料理,ร้านอาหารญี่ปุ่นฟูจิ ทนาบูติคโฮเต็ล,ร้านอาหารญี่ปุ่นฟูจิ ทนาบูติคโฮเต็ล,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Rostiland,Rostiland,72,拉迈海滩,8.7,8.3,8.1
+西式正餐,Top Ten Restaurant and Bar,Top Ten Restaurant and Bar,114,博弗,7.0,7.5,7.8
+西式正餐,Phensiri Thai Bistro,Phensiri Thai Bistro,0,查汶海滩,8.8,8.9,8.9
+西式正餐,OceanKiss,OceanKiss,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Happy Elephant,Happy Elephant,0,博弗,0.0,0.0,0.0
+西式正餐,Vecchia Napoli restaurante and pizzarira,Vecchia Napoli restaurante and pizzarira,0,博弗,0.0,0.0,0.0
+西式正餐,Olivio,Olivio,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Long Table at Choengmon,Long Table at Choengmon,0,博弗,0.0,0.0,0.0
+西式正餐,Pizza Del Sol,Pizza Del Sol,0,拉迈海滩,0.0,0.0,0.0
+西式正餐,Prego (Amari Palm Reef Resort),Prego (Amari Palm Reef Resort),0,博弗,0.0,0.0,0.0
+西式正餐,The Coffee Club,The Coffee Club,0,查汶海滩,0.0,0.0,0.0
+西式正餐,SANTA FE,SANTA FE,0,查汶海滩,7.8,8.3,8.3
+西式正餐,Flames ResTaurAnt,Flames ResTaurAnt,0,达灵岩,7.8,7.6,7.6
+西式正餐,SANTAFE',SANTAFE',0,查汶海滩,7.6,7.6,7.6
+西式正餐,Coconut Willy's,Coconut Willy's,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Tree Tops,Tree Tops,0,查汶海滩,6.8,8.1,8.1
+西式正餐,Jahn at Conrad Koh Samui,Jahn at Conrad Koh Samui,0,苏梅岛其他,8.3,8.3,8.3
+西式正餐,Ocean 11,Ocean 11,0,博弗,0.0,0.0,0.0
+西式正餐,Long Table Restaurant,Long Table Restaurant,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Juzza Pizza,Juzza Pizza,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Da Papa,Da Papa,0,查汶海滩,0.0,0.0,0.0
+西式正餐,The Terrace,The Terrace,0,纳通,0.0,0.0,0.0
+西式正餐,Rock Pool Restaurant,Rock Pool Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Frenchy's,Frenchy's,0,博弗,7.1,7.1,7.1
+西式正餐,The Larder,The Larder,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Cafe Olivie,Cafe Olivie,0,,8.2,7.4,8.2
+西式正餐,Duomo Restaurant,Duomo Restaurant,0,查汶海滩,0.0,0.0,0.0
+西式正餐,The Beach Club @ Buri Rasa,The Beach Club @ Buri Rasa,0,博弗,0.0,0.0,0.0
+西式正餐,Olive Tree Greek Traditional Restaurant,Olive Tree Greek Traditional Restaurant,0,博弗,0.0,0.0,0.0
+西式正餐,Zaap Siam Restaurant,Zaap Siam Restaurant,0,博弗,7.0,7.0,6.9
+西式正餐,Le Napoleon,Le Napoleon,0,拉迈海滩,0.0,0.0,0.0
+西式正餐,H Bistro at Hansar Samui,H Bistro at Hansar Samui,0,博弗,0.0,0.0,0.0
+西式正餐,Samui Wine Oasis,Samui Wine Oasis,0,博弗,0.0,0.0,0.0
+西式正餐,Antica Locanda,Antica Locanda,0,达灵岩,0.0,0.0,0.0
+西式正餐,Pasta a Go Go,Pasta a Go Go,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Baobab,Baobab,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Gringos Cantina Mexican Restaurant,Gringos Cantina Mexican Restaurant,0,博弗,0.0,0.0,0.0
+西式正餐,Risto Bar Rino,Risto Bar Rino,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Le Salon de Ti,Le Salon de Ti,0,博弗,0.0,0.0,0.0
+西式正餐,Swing Bar,Swing Bar,0,拉迈海滩,0.0,0.0,0.0
+西式正餐,La Cuisine,La Cuisine,0,达灵岩,0.0,0.0,0.0
+西式正餐,Armando's Beach Restaurant,Armando's Beach Restaurant,0,邦珀尔,0.0,0.0,0.0
+西式正餐,Vinothek,Vinothek,0,达灵岩,0.0,0.0,0.0
+西式正餐,Barracuda Restaurant,Barracuda Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Ad Hoc Beach Cafe,Ad Hoc Beach Cafe,0,博弗,0.0,0.0,0.0
+西式正餐,Lazy Wave,Lazy Wave,0,博弗,0.0,0.0,0.0
+西式正餐,Le Scalette,Le Scalette,0,达灵岩,0.0,0.0,0.0
+西式正餐,John's Garden,John's Garden,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Fifty-Six Fusion Cuisine,Fifty-Six Fusion Cuisine,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Jasmine Restaurant and Bar,Jasmine Restaurant and Bar,0,博弗,0.0,0.0,0.0
+西式正餐,Made In,Made In,0,拉迈海滩,0.0,0.0,0.0
+西式正餐,Red Snapper Restaurant & Bar,Red Snapper Restaurant & Bar,0,博弗,0.0,0.0,0.0
+西式正餐,Shambala,Shambala,0,华斯纳,0.0,0.0,0.0
+西式正餐,Charlie Chaplin Restaurant & Bar,Charlie Chaplin Restaurant & Bar,0,博弗,0.0,0.0,0.0
+西式正餐,Mamma Roma,Mamma Roma,0,博弗,0.0,0.0,0.0
+西式正餐,Sweden Bar & Restaurant Samui,Sweden Bar & Restaurant Samui,0,查汶海滩,0.0,0.0,0.0
+西式正餐,La Plage Rouge,La Plage Rouge,0,拉迈海滩,0.0,0.0,0.0
+西式正餐,Emerald Bar and Restaurant,Emerald Bar and Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,RockPool,RockPool,0,达灵岩,0.0,0.0,0.0
+西式正餐,Nettuno,Nettuno,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,The Boudoir,The Boudoir,0,邦珀尔,0.0,0.0,0.0
+西式正餐,Romantic bamboo,Romantic bamboo,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,55 Crepe Bar & Kitchen,55 Crepe Bar & Kitchen,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Sean Sabai Home and Ristobar,Sean Sabai Home and Ristobar,0,华斯纳,0.0,0.0,0.0
+西式正餐,Le Pecore Nere,Le Pecore Nere,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,La Bonne Franquette,La Bonne Franquette,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Caffe' e Cucina,Caffe' e Cucina,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Le Brin de Riz,Le Brin de Riz,0,博弗,0.0,0.0,0.0
+西式正餐,The Place...,The Place...,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,San Remo Lounge,San Remo Lounge,0,湄南海滩,0.0,0.0,0.0
+西式正餐,le Fla'mm'ekueche Koh Samui,le Fla'mm'ekueche Koh Samui,0,华斯纳,0.0,0.0,0.0
+西式正餐,NO Stress,NO Stress,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,l' Osteria Samui,l' Osteria Samui,0,拉迈海滩,0.0,0.0,0.0
+西式正餐,Marco Polo,Marco Polo,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Le Rendez-Vous,Le Rendez-Vous,0,纳通,0.0,0.0,0.0
+西式正餐,Fai - the dining experience,Fai - the dining experience,0,达灵岩,0.0,0.0,0.0
+西式正餐,The French touch,The French touch,0,达灵岩,0.0,0.0,0.0
+西式正餐,Churrasco Steak House,Churrasco Steak House,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Chill @ Hip Restaurant,Chill @ Hip Restaurant,0,博弗,0.0,0.0,0.0
+西式正餐,Basilicom,Basilicom,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Billabong Surf Club,Billabong Surf Club,0,博弗,0.0,0.0,0.0
+西式正餐,Sonja's Thai Cooking Class and Restaurant,Sonja's Thai Cooking Class and Restaurant,0,湄南海滩,0.0,0.0,0.0
+西式正餐,Pazzo Italian & Wine Bar,Pazzo Italian & Wine Bar,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,The Height,The Height,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Twisted Thai,Twisted Thai,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Alla Baia Restaurant,Alla Baia Restaurant,0,博弗,0.0,0.0,0.0
+西式正餐,Beach Republic,Beach Republic,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Ying Yang Restaurant,Ying Yang Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Baci Italian,Baci Italian,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Via Vai,Via Vai,0,达灵岩,0.0,0.0,0.0
+西式正餐,Rik's Bar & Restaurant,Rik's Bar & Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Ochos Steakhouse at Akaryn,Ochos Steakhouse at Akaryn,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Le Jaroen,Le Jaroen,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Samui Lounge,Samui Lounge,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Alimundo Suono,Alimundo Suono,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Pa'Do Traiteur,Pa'Do Traiteur,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Hacienda Beach Restaurant,Hacienda Beach Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Le Cabanon,Le Cabanon,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,The Delice of The Garden,The Delice of The Garden,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Ma Maison,Ma Maison,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Tapas Barcelona,Tapas Barcelona,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Yellow Hut Pub,Yellow Hut Pub,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,TERRAZZE Italian Restaurant,TERRAZZE Italian Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Il Tempio,Il Tempio,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Gusto,Gusto,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Tropical Murphys Irish Pub & Restaurant,Tropical Murphys Irish Pub & Restaurant,0,达灵岩,0.0,0.0,0.0
+西式正餐,Krua Thai Restaurant,Krua Thai Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,Il Salotto Samui restaurant,Il Salotto Samui restaurant,0,博弗,0.0,0.0,0.0
+西式正餐,The Mexican,The Mexican,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,W koh samui,W koh samui,0,博弗,0.0,0.0,0.0
+西式正餐,Asador,Asador,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Azure,Azure,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,TawaNN,TawaNN,0,苏梅岛其他,0.0,0.0,0.0
+西式正餐,T-Bone,T-Bone,0,查汶海滩,0.0,0.0,0.0
+西式正餐,Spago,Spago,0,博弗,0.0,0.0,0.0
+西式快餐,Big Buddha Cafe (BBC),Big Buddha Cafe (BBC),0,博弗,7.4,8.3,7.6
+西式快餐,Rice,Rice,0,查汶海滩,0.0,0.0,0.0
+西式快餐,La Lanterna,La Lanterna,0,查汶海滩,0.0,0.0,0.0
+西式快餐,Villa Daudet,Villa Daudet,0,博弗,0.0,0.0,0.0
+西式快餐,Nature Bar,Nature Bar,0,苏梅岛其他,0.0,0.0,0.0
+西式快餐,Da Gio' Lamai Beach Restaurant,Da Gio' Lamai Beach Restaurant,0,邦珀尔,0.0,0.0,0.0
+西式快餐,The Seaside steakhouse,The Seaside steakhouse,0,博弗,0.0,0.0,0.0
+西式快餐,Nigel's Pizza & BBQ Catering Service,Nigel's Pizza & BBQ Catering Service,0,博弗,0.0,0.0,0.0
+西式快餐,Aroma Boutique,Aroma Boutique,0,苏梅岛其他,0.0,0.0,0.0
+西式快餐,Celli's,Celli's,0,苏梅岛其他,0.0,0.0,0.0
+西式快餐,Samui Shamrock,Samui Shamrock,0,苏梅岛其他,0.0,0.0,0.0
+西式快餐,Relax @ Samui,Relax @ Samui,0,湄南海滩,0.0,0.0,0.0
+西式快餐,Lucky Restaurant,Lucky Restaurant,0,华斯纳,0.0,0.0,0.0
+西式快餐,La Dolce Vita,La Dolce Vita,0,查汶海滩,0.0,0.0,0.0
+西式快餐,La Fabrique Samui,La Fabrique Samui,0,拉迈海滩,0.0,0.0,0.0
+西式快餐,Captain Kirk,Captain Kirk,0,博弗,0.0,0.0,0.0
+西式快餐,Authentik Snack,Authentik Snack,0,拉迈海滩,0.0,0.0,0.0
+西式快餐,Boulangerie Patisserie Francaise,Boulangerie Patisserie Francaise,0,拉迈海滩,0.0,0.0,0.0
+西式快餐,La Voile,La Voile,0,苏梅岛其他,0.0,0.0,0.0
+西式快餐,La Palma,La Palma,0,苏梅岛其他,0.0,0.0,0.0
+西式快餐,KFC 肯德基,KFC 肯德基,0,查汶海滩,0.0,0.0,0.0
+西式快餐,"Mcdonald's Restaurant (Lamai Beach, Koh Samui)","Mcdonald's Restaurant (Lamai Beach, Koh Samui)",0,拉迈海滩,0.0,0.0,0.0
+西式快餐,Pizza Paradiso,Pizza Paradiso,0,苏梅岛其他,0.0,0.0,0.0
+西式快餐,Magic Cup Coffee,Magic Cup Coffee,0,博弗,0.0,0.0,0.0
+酒吧,The Cliff bar & Grill,The Cliff bar & Grill,414,,8.1,8.6,8.3
+酒吧,Ark Bar Garden Beach Resort Restaurant,Ark Bar Garden Beach Resort Restaurant,0,博弗,7.9,8.5,8.3
+酒吧,WOOBAR,WOOBAR,0,苏梅岛其他,7.5,8.1,8.1
+酒吧,John's Garden Restaurant and bar,John's Garden Restaurant and bar,0,湄南海滩,8.3,8.3,8.3
+酒吧,Azure Bar Grill,Azure Bar Grill,0,达灵岩,7.0,7.0,7.0
+酒吧,King Busch Reggae Beach,King Busch Reggae Beach,0,博弗,0.0,0.0,0.0
+酒吧,The Orchid Restaurant & Bar,The Orchid Restaurant & Bar,0,博弗,0.0,0.0,0.0
+酒吧,Woobar,Woobar,0,,7.0,7.1,7.1
+酒吧,Legends Bar,Legends Bar,0,苏梅岛其他,0.0,0.0,0.0
+酒吧,Freedon Beach Sunset Bar,Freedon Beach Sunset Bar,0,,7.1,7.1,7.1
+酒吧,Emerald Bar and Restaurant,Emerald Bar and Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+酒吧,Monkey Bar,Monkey Bar,0,,7.1,7.1,7.1
+酒吧,Oseana Floating Bar Samui,Oseana Floating Bar Samui,0,苏梅岛其他,0.0,0.0,0.0
+酒吧,Relax Restaurant and Bar,Relax Restaurant and Bar,0,,7.1,7.1,7.1
+酒吧,Rob's Bar,Rob's Bar,0,,6.9,6.9,6.9
+酒吧,Bamboo Bar,Bamboo Bar,0,查汶海滩,0.0,0.0,0.0
+酒吧,Billabong Surf Club,Billabong Surf Club,0,博弗,0.0,0.0,0.0
+酒吧,Jellyfish Food:Bar,Jellyfish Food:Bar,0,,6.9,6.9,6.9
+酒吧,Glow Lounge,Glow Lounge,0,苏梅岛其他,0.0,0.0,0.0
+酒吧,Bar Ice Samui,Bar Ice Samui,0,,0.0,0.0,0.0
+酒吧,Hookah Lounge Lamai Beach,Hookah Lounge Lamai Beach,0,拉迈海滩,0.0,0.0,0.0
+酒吧,ARK Bar,ARK Bar,0,,0.0,0.0,0.0
+酒吧,Taeng Corner Bar,Taeng Corner Bar,0,,0.0,0.0,0.0
+酒吧,THE LOUNGE,THE LOUNGE,0,,0.0,0.0,0.0
+酒吧,Bar Solo,Bar Solo,0,,0.0,0.0,0.0
+酒吧,AC bar,AC bar,0,,0.0,0.0,0.0
+酒吧,your place,your place,0,苏梅岛其他,0.0,0.0,0.0
+酒吧,Drink Gallery,Drink Gallery,0,,0.0,0.0,0.0
+酒吧,play boy,play boy,0,,0.0,0.0,0.0
+酒吧,Fi Kitchen&Bar Restaurant,Fi Kitchen&Bar Restaurant,0,博弗,0.0,0.0,0.0
+更多亚洲菜,Tree Tops,Tree Tops,0,查汶海滩,7.4,8.4,8.3
+更多亚洲菜,LE SIAM,LE SIAM,0,,7.1,7.6,6.9
+更多亚洲菜,FOOD PARK,FOOD PARK,0,查汶海滩,6.7,7.1,6.7
+更多亚洲菜,Lamphu Home Healthy Cuisine,Lamphu Home Healthy Cuisine,0,拉迈海滩,0.0,0.0,0.0
+更多亚洲菜,Tandoori Hut,Tandoori Hut,0,查汶海滩,0.0,0.0,0.0
+更多亚洲菜,Curry Hut India,Curry Hut India,0,华斯纳,0.0,0.0,0.0
+更多亚洲菜,Seen & Meen,Seen & Meen,0,博弗,0.0,0.0,0.0
+更多亚洲菜,Live India,Live India,0,拉迈海滩,0.0,0.0,0.0
+更多亚洲菜,Fifty-Six Fusion Cuisine,Fifty-Six Fusion Cuisine,0,苏梅岛其他,0.0,0.0,0.0
+更多亚洲菜,CK VIETNAMESE CUISINE,CK VIETNAMESE CUISINE,0,苏梅岛其他,0.0,0.0,0.0
+更多亚洲菜,Curry Pot,Curry Pot,0,拉迈海滩,0.0,0.0,0.0
+更多亚洲菜,Tandoori Palace,Tandoori Palace,0,苏梅岛其他,0.0,0.0,0.0
+更多亚洲菜,The Pirate Restaurant & Bar,The Pirate Restaurant & Bar,0,苏梅岛其他,0.0,0.0,0.0
+更多亚洲菜,Curry Pot Indian Restaurant,Curry Pot Indian Restaurant,0,查汶海滩,0.0,0.0,0.0
+更多亚洲菜,Msafiri Indian Restaurant,Msafiri Indian Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+更多亚洲菜,Kohinoor Indian Restaurant,Kohinoor Indian Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+烧烤,The Cliff Bar and Grill,The Cliff Bar and Grill,0,拉迈海滩,8.6,8.7,8.7
+烧烤,Copacabana,Copacabana,0,,6.8,7.6,7.3
+烧烤,Full Moon,Full Moon,0,博弗,0.0,0.0,0.0
+烧烤,Dr. Frogs Bar & Grill,Dr. Frogs Bar & Grill,0,拉迈海滩,0.0,0.0,0.0
+烧烤,The Shack Bar And Grill,The Shack Bar And Grill,0,博弗,0.0,0.0,0.0
+烧烤,查汶小厨房,查汶小厨房,0,,6.8,6.8,6.8
+烧烤,Out of Africa Barbecue,Out of Africa Barbecue,0,查汶海滩,0.0,0.0,0.0
+烧烤,Well Done Grill Mae Nam,Well Done Grill Mae Nam,0,博弗,0.0,0.0,0.0
+烧烤,Beef Paradise,Beef Paradise,0,查汶海滩,0.0,0.0,0.0
+烧烤,Ploy Restaurant,Ploy Restaurant,0,查汶海滩,0.0,0.0,0.0
+烧烤,Barracuda Bar & Grill,Barracuda Bar & Grill,0,查汶海滩,0.0,0.0,0.0
+烧烤,Outback Bar & Restaurant,Outback Bar & Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+烧烤,Zico's Brazilian Bar and Grill,Zico's Brazilian Bar and Grill,0,苏梅岛其他,0.0,0.0,0.0
+烧烤,Bondi Aussie Bar & Grill,Bondi Aussie Bar & Grill,0,华斯纳,0.0,0.0,0.0
+烧烤,Bubba's American Bar and Grill,Bubba's American Bar and Grill,0,查汶海滩,0.0,0.0,0.0
+烧烤,Bamboo Bar and Grill Koh Samui,Bamboo Bar and Grill Koh Samui,0,博弗,0.0,0.0,0.0
+烧烤,Bondi Aussie Bar & Grill,Bondi Aussie Bar & Grill,0,查汶海滩,0.0,0.0,0.0
+烧烤,Crystal Restaurant,Crystal Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+小吃,Lamai Night Plaza,Lamai Night Plaza,0,,8.2,7.8,8.0
+小吃,大食代,大食代,0,查汶海滩,6.8,6.8,7.2
+咖啡厅,Green Bird,Green Bird,0,,7.1,7.0,7.5
+咖啡厅,Starbucks Coffee,Starbucks Coffee,0,博弗,7.9,7.9,7.9
+咖啡厅,AMBER,AMBER,0,苏梅岛其他,8.0,8.0,8.0
+咖啡厅,Cafe 69,Cafe 69,0,博弗,0.0,0.0,0.0
+咖啡厅,Urban cafe,Urban cafe,0,,7.5,7.5,7.5
+咖啡厅,StarFish and Coffee,StarFish and Coffee,0,苏梅岛其他,7.3,7.3,7.3
+咖啡厅,Magnolia Cafe,Magnolia Cafe,0,查汶海滩,0.0,0.0,0.0
+咖啡厅,Starfish and Coffee,Starfish and Coffee,0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,Zest,Zest,0,苏梅岛其他,7.0,7.1,6.9
+咖啡厅,STARFISH AND COFFEE Boutique Restaurant,STARFISH AND COFFEE Boutique Restaurant,0,,0.0,0.0,0.0
+咖啡厅,Lamphu Home Healthy Cuisine,Lamphu Home Healthy Cuisine,0,拉迈海滩,0.0,0.0,0.0
+咖啡厅,Sweet Sisters Cafe,Sweet Sisters Cafe,0,华斯纳,0.0,0.0,0.0
+咖啡厅,Tanya's Cafe,Tanya's Cafe,0,查汶海滩,0.0,0.0,0.0
+咖啡厅,The Deep Cafe,The Deep Cafe,0,,7.3,7.1,7.1
+咖啡厅,Boy's Organic Coffee,Boy's Organic Coffee,0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,The Coffee Club,The Coffee Club,0,,7.1,7.1,7.0
+咖啡厅,Lolamui Cafe,Lolamui Cafe,0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,Big Buddha Cafe (BBC),Big Buddha Cafe (BBC),0,博弗,0.0,0.0,0.0
+咖啡厅,Ton Sai Cafe & Restaurant,Ton Sai Cafe & Restaurant,0,纳通,0.0,0.0,0.0
+咖啡厅,The Coffee Club - Central Festival Samui,The Coffee Club - Central Festival Samui,0,,7.1,7.1,7.1
+咖啡厅,Masalas Asia cafe,Masalas Asia cafe,0,,6.9,6.9,6.9
+咖啡厅,Jamin Cafe',Jamin Cafe',0,拉迈海滩,0.0,0.0,0.0
+咖啡厅,Blue Elephant Cafe,Blue Elephant Cafe,0,,7.0,7.0,7.0
+咖啡厅,The Cha - Kafae,The Cha - Kafae,0,查汶海滩,0.0,0.0,0.0
+咖啡厅,Cafe del Mar,Cafe del Mar,0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,The Big Buddha Coffee Shop,The Big Buddha Coffee Shop,0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,Germans Tour Coffee,Germans Tour Coffee,0,,7.1,7.3,7.1
+咖啡厅,"June's About Art Cafe, Bophut, Koh Samui","June's About Art Cafe, Bophut, Koh Samui",0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,Coffee Gecko Koh Samui,Coffee Gecko Koh Samui,0,博弗,0.0,0.0,0.0
+咖啡厅,Island Cafe,Island Cafe,0,,7.1,7.3,7.3
+咖啡厅,Coffee Cup,Coffee Cup,0,,7.1,7.1,7.0
+咖啡厅,Cafe Bamisi,Cafe Bamisi,0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,Piccolo,Piccolo,0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,Palm Grove Cafe & Restaurant,Palm Grove Cafe & Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,New Hut Cafe,New Hut Cafe,0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,Beach Cafe Restaurant Talay,Beach Cafe Restaurant Talay,0,湄南海滩,0.0,0.0,0.0
+咖啡厅,Cafe Uno Chaweng,Cafe Uno Chaweng,0,达灵岩,0.0,0.0,0.0
+咖啡厅,Green Burger,Green Burger,0,,7.1,7.0,6.9
+咖啡厅,Southern Coffee,Southern Coffee,0,,0.0,0.0,0.0
+咖啡厅,Chill Out Cafe,Chill Out Cafe,0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,Sunset Cafe,Sunset Cafe,0,苏梅岛其他,0.0,0.0,0.0
+咖啡厅,正宗咖啡店,正宗咖啡店,0,,0.0,0.0,0.0
+面包甜点,哈根达斯,哈根达斯,0,,7.5,7.5,7.5
+面包甜点,Noonie Shave Ice,Noonie Shave Ice,0,查汶海滩,0.0,0.0,0.0
+面包甜点,Pancake Man,Pancake Man,0,博弗,0.0,0.0,0.0
+面包甜点,WW Will Wait Bakery & Restaurant,WW Will Wait Bakery & Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+面包甜点,Angela's Bakery & Cafe,Angela's Bakery & Cafe,0,博弗,0.0,0.0,0.0
+面包甜点,Samui Delice,Samui Delice,0,查汶海滩,0.0,0.0,0.0
+面包甜点,auntie Anne's,auntie Anne's,0,,0.0,0.0,0.0
+其他美食,Mitra Samui Resturant,Mitra Samui Resturant,152,查汶海滩,7.2,6.4,7.5
+其他美食,斯文森冰淇淋,斯文森冰淇淋,36,苏梅岛其他,7.7,7.6,8.0
+其他美食,Eat Sense Beach Restaurant Samui,Eat Sense Beach Restaurant Samui,0,博弗,7.7,8.1,7.6
+其他美食,Big Horn Steak House,Big Horn Steak House,0,,8.2,7.7,8.3
+其他美食,Charming,Charming,0,查汶海滩,7.9,7.9,7.9
+其他美食,Spirit House,Spirit House,0,查汶海滩,7.0,7.6,7.3
+其他美食,Dining on the Rocks,Dining on the Rocks,0,崇文海滩,0.0,0.0,0.0
+其他美食,Koseng Restaurant,Koseng Restaurant,0,湄南海滩,7.5,8.0,8.5
+其他美食,Noori India,Noori India,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Bai Tong,Bai Tong,0,博弗,7.0,7.5,6.3
+其他美食,Red Snapper Restaurant & Bar,Red Snapper Restaurant & Bar,0,博弗,6.6,7.3,7.4
+其他美食,Red Moon,Red Moon,0,博弗,0.0,0.0,0.0
+其他美食,The View,The View,0,博弗,0.0,0.0,0.0
+其他美食,Happy Elephant,Happy Elephant,0,苏梅岛其他,6.9,8.1,7.4
+其他美食,Siam Dreams,Siam Dreams,0,查汶海滩,0.0,0.0,0.0
+其他美食,The Fisherman's Outlet,The Fisherman's Outlet,0,博弗,0.0,0.0,0.0
+其他美食,Kandaburi Resort & Spa,Kandaburi Resort & Spa,0,查汶海滩,7.0,7.0,7.0
+其他美食,Sunset Restaurant,Sunset Restaurant,0,纳通,8.1,8.1,8.1
+其他美食,Nikki Beach,Nikki Beach,0,纳通,6.9,7.0,7.0
+其他美食,King Fisher,King Fisher,0,博弗,7.0,6.9,6.9
+其他美食,Dining on the Rocks,Dining on the Rocks,0,查汶海滩,7.1,7.1,7.1
+其他美食,Nikki Beach Koh Samui,Nikki Beach Koh Samui,0,纳通,0.0,0.0,0.0
+其他美食,Dr Frogs Bar & Grill,Dr Frogs Bar & Grill,0,苏梅岛其他,8.1,8.1,8.1
+其他美食,The Rose and Crown,The Rose and Crown,0,查汶海滩,0.0,0.0,0.0
+其他美食,Baskin-Robbins,Baskin-Robbins,0,博弗,7.0,7.0,6.9
+其他美食,Spago',Spago',0,查汶海滩,0.0,0.0,0.0
+其他美食,La Flambee de Sana,La Flambee de Sana,0,纳通,0.0,0.0,0.0
+其他美食,L'Escale,L'Escale,0,查汶海滩,0.0,0.0,0.0
+其他美食,Coco Tam's,Coco Tam's,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Ocean Kiss,Ocean Kiss,0,查汶海滩,0.0,0.0,0.0
+其他美食,Swiss Garden Restaurant,Swiss Garden Restaurant,0,邦珀尔,0.0,0.0,0.0
+其他美食,The Black Pearl,The Black Pearl,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Mama's Burger,Mama's Burger,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,About Cafe' Koh Samui,About Cafe' Koh Samui,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Bikini Bar,Bikini Bar,0,拉迈海滩,0.0,0.0,0.0
+其他美食,Pinocchio,Pinocchio,0,博弗,0.0,0.0,0.0
+其他美食,Boat Noodle Shop Tore Charm,Boat Noodle Shop Tore Charm,0,查汶海滩,0.0,0.0,0.0
+其他美食,Karma Sutra,Karma Sutra,0,博弗,0.0,0.0,0.0
+其他美食,El Dorado,El Dorado,0,达灵岩,0.0,0.0,0.0
+其他美食,Lebanon Station,Lebanon Station,0,查汶海滩,0.0,0.0,0.0
+其他美食,Uncle Noi,Uncle Noi,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Islander,Islander,0,查汶海滩,0.0,0.0,0.0
+其他美食,Bono,Bono,0,博弗,0.0,0.0,0.0
+其他美食,Chilli,Chilli,0,查汶海滩,0.0,0.0,0.0
+其他美食,Sala Thai Restaurant,Sala Thai Restaurant,0,拉迈海滩,0.0,0.0,0.0
+其他美食,Jun Hom,Jun Hom,0,纳通,0.0,0.0,0.0
+其他美食,Reggae pub,Reggae pub,0,查汶海滩,0.0,0.0,0.0
+其他美食,Latest Recipe,Latest Recipe,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Amala,Amala,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Rasta Baby,Rasta Baby,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Lords Bar,Lords Bar,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Red Brick Cafe,Red Brick Cafe,0,博弗,0.0,0.0,0.0
+其他美食,The Bistro at Rocky's Boutique Resort,The Bistro at Rocky's Boutique Resort,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Chom Dao,Chom Dao,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Mr. Phu,Mr. Phu,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Leelavadee,Leelavadee,0,查汶海滩,0.0,0.0,0.0
+其他美食,Bellini,Bellini,0,查汶海滩,0.0,0.0,0.0
+其他美食,Dr Frogs,Dr Frogs,0,拉迈海滩,0.0,0.0,0.0
+其他美食,Karma Sutra,Karma Sutra,0,博弗,0.0,0.0,0.0
+其他美食,The Samui Arms2,The Samui Arms2,0,纳通,0.0,0.0,0.0
+其他美食,Captain Kirk,Captain Kirk,0,博弗,0.0,0.0,0.0
+其他美食,Moonlight Hotel,Moonlight Hotel,0,博弗,0.0,0.0,0.0
+其他美食,Dream On,Dream On,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,I-talay Nasai & Restaurant Samui,I-talay Nasai & Restaurant Samui,0,达灵岩,0.0,0.0,0.0
+其他美食,CK Vietnamese Cusine,CK Vietnamese Cusine,0,博弗,0.0,0.0,0.0
+其他美食,The Mangrove,The Mangrove,0,拉迈海滩,0.0,0.0,0.0
+其他美食,Namu,Namu,0,博弗,0.0,0.0,0.0
+其他美食,Big Rock Restaurant,Big Rock Restaurant,0,,0.0,0.0,0.0
+其他美食,Ibis Samui Bophut Hotel,Ibis Samui Bophut Hotel,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Rocky,Rocky,0,拉迈海滩,0.0,0.0,0.0
+其他美食,Zazen,Zazen,0,纳通,0.0,0.0,0.0
+其他美食,Siam Dreams,Siam Dreams,0,博弗,0.0,0.0,0.0
+其他美食,Menu Phangan,Menu Phangan,0,达灵岩,0.0,0.0,0.0
+其他美食,Ocean 11 Restaurant,Ocean 11 Restaurant,0,博弗,0.0,0.0,0.0
+其他美食,Krua bophut,Krua bophut,0,博弗,0.0,0.0,0.0
+其他美食,Drop Inn,Drop Inn,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Prego,Prego,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Orgasmic,Orgasmic,0,博弗,0.0,0.0,0.0
+其他美食,Grindos Cantina,Grindos Cantina,0,查汶海滩,0.0,0.0,0.0
+其他美食,The Pier,The Pier,0,博弗,0.0,0.0,0.0
+其他美食,Chez Andy,Chez Andy,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Chomtalay Restaurant,Chomtalay Restaurant,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Nuch's Green Ta'lay Restaurant,Nuch's Green Ta'lay Restaurant,0,达灵岩,0.0,0.0,0.0
+其他美食,Barrio Latino,Barrio Latino,0,拉迈海滩,0.0,0.0,0.0
+其他美食,ZICK ZACK | Austrian Beach Restaurant | Koh Samui,ZICK ZACK | Austrian Beach Restaurant | Koh Samui,0,拉迈海滩,0.0,0.0,0.0
+其他美食,San Remo Lounge Ltd.,San Remo Lounge Ltd.,0,博弗,0.0,0.0,0.0
+其他美食,BANGKOK - SAMUI RESTAURANT,BANGKOK - SAMUI RESTAURANT,0,纳通,0.0,0.0,0.0
+其他美食,Green Olive,Green Olive,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Bellini,Bellini,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Khrua Sawoei,Khrua Sawoei,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Chao Ko,Chao Ko,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Ko Kaeo,Ko Kaeo,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Bevery Hill,Bevery Hill,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Betelnut @ Buri Sasa,Betelnut @ Buri Sasa,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Zico,Zico,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Pisces '99,Pisces '99,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Royal Siam,Royal Siam,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Poppies,Poppies,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Le Café des Arts,Le Café des Arts,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Prasuthon,Prasuthon,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Churrasco Steak House,Churrasco Steak House,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Dining on the rocks,Dining on the rocks,0,苏梅岛其他,0.0,0.0,0.0
+其他美食,Under the star. Amarin Victoria Resort,Under the star. Amarin Victoria Resort,0,湄南海滩,0.0,0.0,0.0
+其他美食,CURRY POT India,CURRY POT India,0,博弗,0.0,0.0,0.0
+其他美食,Lotus Pond,Lotus Pond,0,纳通,0.0,0.0,0.0
+其他美食,Ristorante il Tempio,Ristorante il Tempio,0,拉迈海滩,0.0,0.0,0.0
+其他美食,L'Ocean,L'Ocean,0,苏梅岛其他,0.0,0.0,0.0

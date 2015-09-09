@@ -1,0 +1,1290 @@
+意大利菜,Da Pasquale,Da Pasquale,0,其他,8.4,7.5,8.4
+意大利菜,Ristorante Rustico,Ristorante Rustico,0,法兰克福市中心,7.4,7.4,7.4
+意大利菜,Papanova,Papanova,0,法兰克福Nordend,8.1,7.4,7.4
+意大利菜,Pizzeria Amalfi,Pizzeria Amalfi,0,其他,7.5,5.9,5.9
+意大利菜,Cucina delle Grazie,Cucina delle Grazie,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Gallo Nero,Gallo Nero,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Quattro,Quattro,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Ristorante Sardegna,Ristorante Sardegna,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Gusto Restaurant,Gusto Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Rosso de Sera,Rosso de Sera,0,南市中心,0.0,0.0,0.0
+意大利菜,Ristorante Paninoteca,Ristorante Paninoteca,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Losteria,Losteria,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Topo Gigio,Topo Gigio,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Ristorante & Pizzeria Nuraghe,Ristorante & Pizzeria Nuraghe,0,北市中心,0.0,0.0,0.0
+意大利菜,Trattoria Amici,Trattoria Amici,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Die Leiter,Die Leiter,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Ristorante Leon d'Oro,Ristorante Leon d'Oro,0,奥斯坦登,0.0,0.0,0.0
+意大利菜,Da Cimino,Da Cimino,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Casa Nova,Casa Nova,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Carmelo Greco,Ristorante Carmelo Greco,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Brighella,Ristorante Brighella,0,北市中心,0.0,0.0,0.0
+意大利菜,Bella Roma,Bella Roma,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Ristorante Vita Vera,Ristorante Vita Vera,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Trattoria Florian,Trattoria Florian,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Dal Pescatore,Dal Pescatore,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Bistro Golf Range Frankfurt,Bistro Golf Range Frankfurt,0,法兰克福Nieder-Eschbach-Harhe,0.0,0.0,0.0
+意大利菜,Gioia,Gioia,0,其他,0.0,0.0,0.0
+意大利菜,La Contessa,La Contessa,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Bacco Delicatezza Cucina Italiana,Bacco Delicatezza Cucina Italiana,0,其他,0.0,0.0,0.0
+意大利菜,Cron am Hafen,Cron am Hafen,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Trattoria Casa Mia,Trattoria Casa Mia,0,其他,0.0,0.0,0.0
+意大利菜,Cavallino,Cavallino,0,法兰克福西,0.0,0.0,0.0
+意大利菜,Cucina Mediterraneo,Cucina Mediterraneo,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Zimt & Koriander,Zimt & Koriander,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,La Tagliatella Skyline,La Tagliatella Skyline,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Pasta Davini,Pasta Davini,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Daniel's Ristorante Italiano,Daniel's Ristorante Italiano,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Alte Kanzlei,Alte Kanzlei,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,La Scuderia,La Scuderia,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Paolo - Ristorante Pizzaria,Paolo - Ristorante Pizzaria,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,L'Unico,L'Unico,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Vai Vai,Vai Vai,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Casa Isoletta,Casa Isoletta,0,其他,0.0,0.0,0.0
+意大利菜,Gennaro's Restaurant,Gennaro's Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria Promis,Trattoria Promis,0,其他,0.0,0.0,0.0
+意大利菜,Trattoria i Siciliani,Trattoria i Siciliani,0,其他,0.0,0.0,0.0
+意大利菜,Nummer 16,Nummer 16,0,奥斯坦登,0.0,0.0,0.0
+意大利菜,Trattoria Paparazzi,Trattoria Paparazzi,0,奥斯坦登,0.0,0.0,0.0
+意大利菜,Fontana di Trevi,Fontana di Trevi,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Portofino,Portofino,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,La Dolce Vita,La Dolce Vita,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Ristorante Boccaccio,Ristorante Boccaccio,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Trattoria Alessandro,Trattoria Alessandro,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Florian,Florian,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,La Vita,La Vita,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Da Nico,Da Nico,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Osteria Delizie,Osteria Delizie,0,其他,0.0,0.0,0.0
+意大利菜,Mondo Bianco,Mondo Bianco,0,其他,0.0,0.0,0.0
+意大利菜,La Terrazza,La Terrazza,0,法兰克福North West,0.0,0.0,0.0
+意大利菜,Damiro Westseite,Damiro Westseite,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Mare Blu,Mare Blu,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Lucullus,Lucullus,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Bistro Salvatore,Bistro Salvatore,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Incantina,Incantina,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,L'olivastro,L'olivastro,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Gregorelli's,Gregorelli's,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Garibaldi,Garibaldi,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Charlot,Charlot,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Mario & Lino Pizzeria,Mario & Lino Pizzeria,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Armonia Ristorante,Armonia Ristorante,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Brizzis,Brizzis,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Mezzanotte,Mezzanotte,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,La Stalla,La Stalla,0,其他,0.0,0.0,0.0
+意大利菜,Restaurant & Weinbar Olive,Restaurant & Weinbar Olive,0,其他,0.0,0.0,0.0
+意大利菜,Rinaldo Rinaldini,Rinaldo Rinaldini,0,其他,0.0,0.0,0.0
+意大利菜,Da Paolo,Da Paolo,0,其他,0.0,0.0,0.0
+意大利菜,Pizzeria Italia 90,Pizzeria Italia 90,0,其他,0.0,0.0,0.0
+意大利菜,A Casa di Tomilaia,A Casa di Tomilaia,0,其他,0.0,0.0,0.0
+意大利菜,Restaurant Marcellino,Restaurant Marcellino,0,奥斯坦登,0.0,0.0,0.0
+意大利菜,La Vela,La Vela,0,奥斯坦登,0.0,0.0,0.0
+意大利菜,Ristorante La Duchessa,Ristorante La Duchessa,0,奥斯坦登,0.0,0.0,0.0
+意大利菜,Locanda Della Torre,Locanda Della Torre,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Bistro Ristorante Rucola,Bistro Ristorante Rucola,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Vinesso,Vinesso,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Villa Lauda,Villa Lauda,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Pizzeria Terranova,Pizzeria Terranova,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Osteria L'Isola Sarda,Osteria L'Isola Sarda,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Trattoria Fritto Misto,Trattoria Fritto Misto,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Da Michele,Da Michele,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,new-in-town home:frankfurt,new-in-town home:frankfurt,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Ristorante Tridico,Ristorante Tridico,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Café Latté,Café Latté,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Pane e Vino,Pane e Vino,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Amici,Amici,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Osteria Divino,Osteria Divino,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Spektrum,Spektrum,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Da Marietto,Da Marietto,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Ristorante da Luca,Ristorante da Luca,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Ristorante Il Cavallino,Ristorante Il Cavallino,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Botticelli,Ristorante Pizzeria Botticelli,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Trattoria Europa,Trattoria Europa,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Atelier,Atelier,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Mania,Mania,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Safo,Osteria Safo,0,其他,0.0,0.0,0.0
+意大利菜,Da Mario,Da Mario,0,其他,0.0,0.0,0.0
+意大利菜,La Traviata,La Traviata,0,其他,0.0,0.0,0.0
+意大利菜,Pizza & Pasta Factory (Sachsenhausen),Pizza & Pasta Factory (Sachsenhausen),0,其他,0.0,0.0,0.0
+意大利菜,Dick & Doof,Dick & Doof,0,其他,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria Dino,Ristorante Pizzeria Dino,0,其他,0.0,0.0,0.0
+意大利菜,Restaurant La Favola,Restaurant La Favola,0,其他,0.0,0.0,0.0
+意大利菜,Da Bruno,Da Bruno,0,其他,0.0,0.0,0.0
+意大利菜,Ziopepe,Ziopepe,0,奥斯坦登,0.0,0.0,0.0
+意大利菜,Da Franco,Da Franco,0,奥斯坦登,0.0,0.0,0.0
+意大利菜,Trattoria Little Italy,Trattoria Little Italy,0,法兰克福西,0.0,0.0,0.0
+意大利菜,Mint.,Mint.,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Ristorante Pizzeria BELLA MIA,Ristorante Pizzeria BELLA MIA,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Da Leone,Da Leone,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Tavo,Tavo,0,其他,0.0,0.0,0.0
+意大利菜,A Tavola,A Tavola,0,其他,0.0,0.0,0.0
+意大利菜,Osteria Zio Pepe,Osteria Zio Pepe,0,奥斯坦登,0.0,0.0,0.0
+意大利菜,e Basta!,e Basta!,0,法兰克福Nordend,0.0,0.0,0.0
+意大利菜,Ciceri Trattoria e Pizzeria,Ciceri Trattoria e Pizzeria,0,法兰克福North West,0.0,0.0,0.0
+意大利菜,Leons,Leons,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Leons italienisches Restaurant,Leons italienisches Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+意大利菜,Buzzano,Buzzano,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Osteria Amici,Osteria Amici,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Tommasi Ristorante & Pizzeria,Tommasi Ristorante & Pizzeria,0,韦斯滕德,0.0,0.0,0.0
+意大利菜,Da Malena,Da Malena,0,法兰克福Nordend,0.0,0.0,0.0
+法国菜,Restaurant Francais,Restaurant Francais,0,法兰克福市中心,8.4,8.4,8.4
+法国菜,Zarges,Zarges,0,法兰克福市中心,7.4,8.3,7.4
+法国菜,Baguette Jeanette,Baguette Jeanette,0,奥斯坦登,7.4,8.0,7.4
+法国菜,Erno's Bistro,Erno's Bistro,0,韦斯滕德,0.0,0.0,0.0
+法国菜,Chalet 18,Chalet 18,0,韦斯滕德,0.0,0.0,0.0
+法国菜,Maaschanz,Maaschanz,0,其他,0.0,0.0,0.0
+法国菜,Restaurant Emma Metzler,Restaurant Emma Metzler,0,其他,0.0,0.0,0.0
+法国菜,Mon Amie Maxi,Mon Amie Maxi,0,韦斯滕德,0.0,0.0,0.0
+法国菜,Brasserie Ici,Brasserie Ici,0,韦斯滕德,0.0,0.0,0.0
+法国菜,Lobster Weinbistro,Lobster Weinbistro,0,其他,0.0,0.0,0.0
+法国菜,Coq Au Vin,Coq Au Vin,0,其他,0.0,0.0,0.0
+法国菜,Brueckenkeller,Brueckenkeller,0,法兰克福市中心,0.0,0.0,0.0
+法国菜,Knoblauch,Knoblauch,0,韦斯滕德,0.0,0.0,0.0
+法国菜,Allgaiers,Allgaiers,0,韦斯滕德,0.0,0.0,0.0
+法国菜,La Cigale,La Cigale,0,韦斯滕德,0.0,0.0,0.0
+法国菜,Cafe a la Carte,Cafe a la Carte,0,法兰克福市中心,0.0,0.0,0.0
+法国菜,Kties,Kties,0,其他,0.0,0.0,0.0
+法国菜,Crell Cuisine,Crell Cuisine,0,法兰克福Nordend,0.0,0.0,0.0
+法国菜,Coq au Vin,Coq au Vin,0,其他,0.0,0.0,0.0
+墨西哥菜,Joe Pena's,Joe Pena's,0,韦斯滕德,8.5,8.0,8.0
+墨西哥菜,Tacohaus,Tacohaus,0,韦斯滕德,0.0,0.0,0.0
+墨西哥菜,La Mex Lounge,La Mex Lounge,0,法兰克福市中心,0.0,0.0,0.0
+墨西哥菜,Yumas,Yumas,0,法兰克福市中心,0.0,0.0,0.0
+墨西哥菜,El Pacifico,El Pacifico,0,法兰克福Nordend,0.0,0.0,0.0
+墨西哥菜,Chipotle - Skyline Plaza,Chipotle - Skyline Plaza,0,法兰克福市中心,0.0,0.0,0.0
+墨西哥菜,Tequila,Tequila,0,法兰克福市中心,0.0,0.0,0.0
+墨西哥菜,Sausalitos Frankfurt,Sausalitos Frankfurt,0,韦斯滕德,0.0,0.0,0.0
+墨西哥菜,La Tabla Rasa Bar y Restaurante,La Tabla Rasa Bar y Restaurante,0,韦斯滕德,0.0,0.0,0.0
+墨西哥菜,la cantina,la cantina,0,其他,0.0,0.0,0.0
+墨西哥菜,Cantina Mescal,Cantina Mescal,0,其他,0.0,0.0,0.0
+其他西餐,Das Wirtshaus,Das Wirtshaus,0,法兰克福市中心,7.3,7.3,7.0
+其他西餐,Baseler Eck,Baseler Eck,0,法兰克福市中心,8.5,7.9,7.9
+其他西餐,Block House Restaurant,Block House Restaurant,0,法兰克福市中心,8.0,8.0,8.0
+其他西餐,Bonamente Steakhouse,Bonamente Steakhouse,0,法兰克福市中心,8.2,8.2,7.4
+其他西餐,Maredo,Maredo,0,法兰克福市中心,7.1,7.1,7.1
+其他西餐,Conrad's Restaurant,Conrad's Restaurant,0,法兰克福市中心,7.0,7.0,6.9
+其他西餐,Atschel,Atschel,0,其他,7.7,7.7,7.2
+其他西餐,绿茵阁,绿茵阁,0,,6.9,6.9,6.9
+其他西餐,O'Reilly's Frankfurt,O'Reilly's Frankfurt,0,法兰克福市中心,6.7,6.7,6.7
+其他西餐,Veritas,Veritas,0,其他,8.3,7.4,8.3
+其他西餐,Paris' Bar,Paris' Bar,0,其他,8.4,7.5,6.7
+其他西餐,Germania,Germania,0,其他,7.4,7.1,7.4
+其他西餐,Mondo Bar Cafe,Mondo Bar Cafe,0,其他,7.1,7.5,7.5
+其他西餐,Heroes Burgers,Heroes Burgers,0,法兰克福Nordend,7.4,8.0,8.0
+其他西餐,Greek ResTruant,Greek ResTruant,0,,6.8,7.3,7.3
+其他西餐,Restaurant Medici,Restaurant Medici,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Restaurant Druckwasserwerk,Restaurant Druckwasserwerk,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Steinernes Haus,Steinernes Haus,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Apfelwein Wagner,Apfelwein Wagner,0,其他,0.0,0.0,0.0
+其他西餐,Villa Merton at the Union International Club,Villa Merton at the Union International Club,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Cafe Hauptwache,Cafe Hauptwache,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Restaurant Unterschweinstiege,Restaurant Unterschweinstiege,0,其他,0.0,0.0,0.0
+其他西餐,Zum Storch Am Dom,Zum Storch Am Dom,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Paulaner,Paulaner,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Ariston,Ariston,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Romer Pils Brunnen,Romer Pils Brunnen,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Panino,Panino,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Buffalo Steakhaus,Buffalo Steakhaus,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Picknickbank,Picknickbank,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Lohninger,Lohninger,0,其他,0.0,0.0,0.0
+其他西餐,Waxy`s,Waxy`s,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Tigerpalast Restaurant,Tigerpalast Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Schwarzer Stern,Schwarzer Stern,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Restaurant im Hilton Garden Inn Hotel,Restaurant im Hilton Garden Inn Hotel,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Taverne,Restaurant Taverne,0,其他,0.0,0.0,0.0
+其他西餐,Gasthaus zum Eiserner Steg,Gasthaus zum Eiserner Steg,0,其他,0.0,0.0,0.0
+其他西餐,Paulaner in The Squaire,Paulaner in The Squaire,0,,0.0,0.0,0.0
+其他西餐,Kakadu's,Kakadu's,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Zu den 12 Aposteln,Zu den 12 Aposteln,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Koenig Bistro & Bar,Koenig Bistro & Bar,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Solber Faessje,Solber Faessje,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Schreiber-Heyne,Schreiber-Heyne,0,其他,0.0,0.0,0.0
+其他西餐,Max on One im Jumeirah Frankfurt,Max on One im Jumeirah Frankfurt,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Zum Gemalten Haus,Zum Gemalten Haus,0,其他,0.0,0.0,0.0
+其他西餐,Alexis Sorbas,Alexis Sorbas,0,其他,0.0,0.0,0.0
+其他西餐,Zur Schoenen Mullerin,Zur Schoenen Mullerin,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Klosterhof,Klosterhof,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Der Fette Bulle,Der Fette Bulle,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Schuch's Restaurant,Schuch's Restaurant,0,南市中心,0.0,0.0,0.0
+其他西餐,Restaurant Omonia,Restaurant Omonia,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Leon Restaurant,Leon Restaurant,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Surf'n Turf,Surf'n Turf,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Weinsinn,Weinsinn,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Restaurant Ponte,Restaurant Ponte,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Apfelwein Dax,Apfelwein Dax,0,其他,0.0,0.0,0.0
+其他西餐,Mutter Ernst,Mutter Ernst,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Dauth-Schneider,Dauth-Schneider,0,其他,0.0,0.0,0.0
+其他西餐,Fichte Kraenzi,Fichte Kraenzi,0,其他,0.0,0.0,0.0
+其他西餐,Oosten,Oosten,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Maredo,Maredo,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,MainNizza,MainNizza,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Speisekammer,Speisekammer,0,法兰克福North West,0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,其他,0.0,0.0,0.0
+其他西餐,Alte Zollwache,Alte Zollwache,0,法兰克福西,0.0,0.0,0.0
+其他西餐,Tower Bar and Restaurant,Tower Bar and Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Bagel Brothers,Bagel Brothers,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Restaurant Weidemann,Restaurant Weidemann,0,其他,0.0,0.0,0.0
+其他西餐,Best Worscht in Town,Best Worscht in Town,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Ojo de Agua,Ojo de Agua,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Cafehaus Siesmayer,Cafehaus Siesmayer,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Lorsbacher Thal,Lorsbacher Thal,0,其他,0.0,0.0,0.0
+其他西餐,Mi Casa Tu Casa,Mi Casa Tu Casa,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Zur Buchscheer,Zur Buchscheer,0,其他,0.0,0.0,0.0
+其他西餐,Frankfurter Kueche,Frankfurter Kueche,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Fellners,Fellners,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Gasthaus zum Loewen Frankfurt,Gasthaus zum Loewen Frankfurt,0,法兰克福西,0.0,0.0,0.0
+其他西餐,Zur Stalburg,Zur Stalburg,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Bockenheimer Weinkontor,Bockenheimer Weinkontor,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Roseli,Roseli,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Persia,Persia,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Best Worscht in Town,Best Worscht in Town,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Der Kultimbiss,Der Kultimbiss,0,其他,0.0,0.0,0.0
+其他西餐,Empanadiso,Empanadiso,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Restaurant Maximilian,Restaurant Maximilian,0,北市中心,0.0,0.0,0.0
+其他西餐,Restaurant Adolon,Restaurant Adolon,0,其他,0.0,0.0,0.0
+其他西餐,McDonald's & McCafé,McDonald's & McCafé,0,其他,0.0,0.0,0.0
+其他西餐,Wursthelden,Wursthelden,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Caracol,Caracol,0,其他,0.0,0.0,0.0
+其他西餐,Nonna Restaurant,Nonna Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Frankfurter Äpfelwein Botschaft,Frankfurter Äpfelwein Botschaft,0,南市中心,0.0,0.0,0.0
+其他西餐,Rodizio Grill,Rodizio Grill,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Fiedberger Warte,Fiedberger Warte,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,O’Dwyers’s Irish Pub,O’Dwyers’s Irish Pub,0,其他,0.0,0.0,0.0
+其他西餐,Zum Alten Frankfurter,Zum Alten Frankfurter,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Schlippche,Schlippche,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Kentucky Fried Chicken,Kentucky Fried Chicken,0,其他,0.0,0.0,0.0
+其他西餐,Classico,Classico,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,The Black Bulls,The Black Bulls,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Best Worscht in Town,Best Worscht in Town,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Vini Da Sabatini,Vini Da Sabatini,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Parthenon,Parthenon,0,其他,0.0,0.0,0.0
+其他西餐,Kanonesteppel,Kanonesteppel,0,其他,0.0,0.0,0.0
+其他西餐,Zum Eichkatzerl,Zum Eichkatzerl,0,其他,0.0,0.0,0.0
+其他西餐,Gerbermuhle,Gerbermuhle,0,其他,0.0,0.0,0.0
+其他西餐,Schoneberger Gasthaus & Bar,Schoneberger Gasthaus & Bar,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Apfelwein Solzer,Apfelwein Solzer,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Megaron,Megaron,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Zum Standesamtchen,Zum Standesamtchen,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Don Juan,Don Juan,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Restaurant Marktstubb,Restaurant Marktstubb,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Tapas Locas,Tapas Locas,0,其他,0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Central Park Corner,Central Park Corner,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Wunderbar,Wunderbar,0,法兰克福西,0.0,0.0,0.0
+其他西餐,Haxen Reichert,Haxen Reichert,0,法兰克福西,0.0,0.0,0.0
+其他西餐,Goldener Engel,Goldener Engel,0,其他,0.0,0.0,0.0
+其他西餐,Centro Cultural De Gallego,Centro Cultural De Gallego,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Ebert's Suppenstube,Ebert's Suppenstube,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Buster Pasta,Buster Pasta,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Heidi und Paul,Heidi und Paul,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Zum Bitburger,Zum Bitburger,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Buena Vista,Buena Vista,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Yours Australian Bar,Yours Australian Bar,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Apfelwein Klaus,Apfelwein Klaus,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Fox and Hound,Fox and Hound,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Frankfurt and Friends,Frankfurt and Friends,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Oceans Restaurant Bar Lounge,Oceans Restaurant Bar Lounge,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,KISH,KISH,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Rosa,Rosa,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,La Boveda,La Boveda,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Galicia,Galicia,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Landwehrstubchen,Landwehrstubchen,0,其他,0.0,0.0,0.0
+其他西餐,Edelweiss,Edelweiss,0,其他,0.0,0.0,0.0
+其他西餐,Espanita,Espanita,0,其他,0.0,0.0,0.0
+其他西餐,Textor,Textor,0,其他,0.0,0.0,0.0
+其他西餐,Exenberger,Exenberger,0,其他,0.0,0.0,0.0
+其他西餐,Burgermeister,Burgermeister,0,其他,0.0,0.0,0.0
+其他西餐,Borussia,Borussia,0,其他,0.0,0.0,0.0
+其他西餐,Zum Grauen Bock,Zum Grauen Bock,0,其他,0.0,0.0,0.0
+其他西餐,Bodega Los Gitanos,Bodega Los Gitanos,0,其他,0.0,0.0,0.0
+其他西餐,Exenberger Die Werkskantine,Exenberger Die Werkskantine,0,其他,0.0,0.0,0.0
+其他西餐,Bier-Hannes,Bier-Hannes,0,其他,0.0,0.0,0.0
+其他西餐,Zur golden Kron Historischer Gasthof u. Weinhandel,Zur golden Kron Historischer Gasthof u. Weinhandel,0,其他,0.0,0.0,0.0
+其他西餐,Gref-Voelsings Rindswurst,Gref-Voelsings Rindswurst,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Destino Tapas Bar,Destino Tapas Bar,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Malepartus,Malepartus,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Weisse Lilie,Weisse Lilie,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Wolfgangs,Wolfgangs,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Zur Sonne,Zur Sonne,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Mosebach,Mosebach,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Estragon,Estragon,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Der Eintracht,Der Eintracht,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Rinks,Rinks,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Fette Henne,Fette Henne,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Casa Pintor,Casa Pintor,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Griechisches Restaurant Meltemi,Griechisches Restaurant Meltemi,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Schandis Persische Spezialitaten,Schandis Persische Spezialitaten,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Nibelungenschanke,Nibelungenschanke,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Zum Lahmen Esel,Zum Lahmen Esel,0,法兰克福North West,0.0,0.0,0.0
+其他西餐,Drosselbart,Drosselbart,0,北市中心,0.0,0.0,0.0
+其他西餐,Sandwicher,Sandwicher,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Back-Factory,Back-Factory,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Restaurant Table - zu Tisch bei Michael Frank,Restaurant Table - zu Tisch bei Michael Frank,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Roemer Bembel,Roemer Bembel,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Main Wurschtl,Main Wurschtl,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Liebfrauenberger,Liebfrauenberger,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Swiss Break,Swiss Break,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Bodega Barcelona,Bodega Barcelona,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Comedor,Comedor,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Frohsinn,Frohsinn,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Der Grieche,Der Grieche,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Cafe Rosso,Cafe Rosso,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Hamburger am Turm,Hamburger am Turm,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Herr Franz,Herr Franz,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,24th Avenue Restaurant,24th Avenue Restaurant,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Upper Westside,Upper Westside,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Arche Nova,Arche Nova,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Matildas Kitchen,Matildas Kitchen,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Scheffler,Scheffler,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Watra,Watra,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Restaurant Am Spargel,Restaurant Am Spargel,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Marche Airport Frankfurt,Marche Airport Frankfurt,0,其他,0.0,0.0,0.0
+其他西餐,Bayern Stub'n im Sheraton Congress Hotel Frankfurt,Bayern Stub'n im Sheraton Congress Hotel Frankfurt,0,其他,0.0,0.0,0.0
+其他西餐,Gass Apfelweinwirtschaft,Gass Apfelweinwirtschaft,0,其他,0.0,0.0,0.0
+其他西餐,Waldhotel Hensel's Felsenkeller,Waldhotel Hensel's Felsenkeller,0,其他,0.0,0.0,0.0
+其他西餐,Qualitatseck,Qualitatseck,0,其他,0.0,0.0,0.0
+其他西餐,Alacati,Alacati,0,其他,0.0,0.0,0.0
+其他西餐,Il Gusto Casagrande,Il Gusto Casagrande,0,其他,0.0,0.0,0.0
+其他西餐,Depot 1899,Depot 1899,0,其他,0.0,0.0,0.0
+其他西餐,Zum Feuerradchen,Zum Feuerradchen,0,其他,0.0,0.0,0.0
+其他西餐,Amélie's Wohnzimmer - das kleine Café,Amélie's Wohnzimmer - das kleine Café,0,其他,0.0,0.0,0.0
+其他西餐,La Trinca,La Trinca,0,其他,0.0,0.0,0.0
+其他西餐,Klaane Sachsenhauser,Klaane Sachsenhauser,0,其他,0.0,0.0,0.0
+其他西餐,Leon Garcias,Leon Garcias,0,其他,0.0,0.0,0.0
+其他西餐,Pfifferling,Pfifferling,0,其他,0.0,0.0,0.0
+其他西餐,Zur Krone Kelterei Bornschier,Zur Krone Kelterei Bornschier,0,其他,0.0,0.0,0.0
+其他西餐,Altes Zollhaus,Altes Zollhaus,0,其他,0.0,0.0,0.0
+其他西餐,El Che,El Che,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Stones,Stones,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,yours sports bar,yours sports bar,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Philippi Taverna Ouzeri,Philippi Taverna Ouzeri,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Gambrinus am Eck,Gambrinus am Eck,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Bodega El Amigo,Bodega El Amigo,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Holzkopp,Holzkopp,0,法兰克福西,0.0,0.0,0.0
+其他西餐,Am Bruennchen,Am Bruennchen,0,法兰克福西,0.0,0.0,0.0
+其他西餐,Zum Goldene Lowe,Zum Goldene Lowe,0,南市中心,0.0,0.0,0.0
+其他西餐,Blaue Adria,Blaue Adria,0,南市中心,0.0,0.0,0.0
+其他西餐,Zum Reifenburg,Zum Reifenburg,0,南市中心,0.0,0.0,0.0
+其他西餐,Pistazie,Pistazie,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Mika,Mika,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Mampf,Mampf,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Logenhaus Frankfurt,Logenhaus Frankfurt,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Harvey s,Harvey s,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Apfelweinwirtschaft Frank,Apfelweinwirtschaft Frank,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Alhambra,Alhambra,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Gaststätte Niewo,Gaststätte Niewo,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Tower-Cafe,Tower-Cafe,0,法兰克福Nieder-Eschbach-Harhe,0.0,0.0,0.0
+其他西餐,Papiermuhle,Papiermuhle,0,法兰克福North West,0.0,0.0,0.0
+其他西餐,Burger Baby,Burger Baby,0,其他,0.0,0.0,0.0
+其他西餐,Binding-Schirn,Binding-Schirn,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Helium,Helium,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Burger King,Burger King,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Auch Wolfgang's,Auch Wolfgang's,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Taska 100,Taska 100,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Safran Restaurant,Safran Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Taverna Parga,Taverna Parga,0,其他,0.0,0.0,0.0
+其他西餐,Platzhirsch Wirtshaus am Main,Platzhirsch Wirtshaus am Main,0,其他,0.0,0.0,0.0
+其他西餐,Homburger Hof,Homburger Hof,0,其他,0.0,0.0,0.0
+其他西餐,Haus Ronneburg,Haus Ronneburg,0,其他,0.0,0.0,0.0
+其他西餐,McDonald's,McDonald's,0,法兰克福西,0.0,0.0,0.0
+其他西餐,Lamoraga Frankfurt,Lamoraga Frankfurt,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Olympion Palas,Olympion Palas,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Zum Schwarzen Stern,Zum Schwarzen Stern,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Cooky s,Cooky s,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Gaststaette zur Staufenmauer,Gaststaette zur Staufenmauer,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Hardys Finest,Hardys Finest,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Fidelio,Fidelio,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Exedra,Exedra,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,KUBU am Opernplatz,KUBU am Opernplatz,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,1a-Bavaria,1a-Bavaria,0,法兰克福市中心,0.0,0.0,0.0
+其他西餐,Gargantua,Gargantua,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Matildas Kitchen,Matildas Kitchen,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Kunzes Erben,Kunzes Erben,0,韦斯滕德,0.0,0.0,0.0
+其他西餐,Ristorante Mediterraneo,Ristorante Mediterraneo,0,其他,0.0,0.0,0.0
+其他西餐,Havanita Restaurant,Havanita Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Klabunt,Klabunt,0,奥斯坦登,0.0,0.0,0.0
+其他西餐,Knossos,Knossos,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Flipper,Flipper,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Suppe Dippe,Suppe Dippe,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Pasteis do Piri,Pasteis do Piri,0,法兰克福Nordend,0.0,0.0,0.0
+其他西餐,Barrio Tap Bar,Barrio Tap Bar,0,其他,0.0,0.0,0.0
+中餐,Palms Garden,Palms Garden,0,法兰克福市中心,7.7,7.4,7.4
+中餐,san san,san san,0,法兰克福市中心,8.3,8.3,8.3
+中餐,小上海,小上海,0,法兰克福市中心,8.5,7.7,8.0
+中餐,港丽休闲餐厅,港丽休闲餐厅,0,法兰克福市中心,7.5,7.5,7.4
+中餐,China Restaurant Kaiser,China Restaurant Kaiser,0,法兰克福市中心,6.6,7.0,7.1
+中餐,鼎鼎盛 DingDingSheng,鼎鼎盛 DingDingSheng,0,法兰克福市中心,7.7,6.6,6.7
+中餐,China Restaurant Yan Jing,China Restaurant Yan Jing,0,法兰克福市中心,7.6,6.5,5.6
+中餐,Mr Wu 面,Mr Wu 面,0,,7.6,8.0,7.8
+中餐,China Restaurant Peking Ente,China Restaurant Peking Ente,0,法兰克福市中心,7.8,7.8,7.5
+中餐,Ichiban Taiwan Restaurant,Ichiban Taiwan Restaurant,0,法兰克福市中心,7.9,8.0,7.9
+中餐,Dim Sum Haus,Dim Sum Haus,0,法兰克福市中心,7.4,6.7,7.4
+中餐,Jinmel's Kitchen,Jinmel's Kitchen,0,法兰克福North West,7.2,7.2,7.2
+中餐,Bistro Hong Kong,Bistro Hong Kong,0,韦斯滕德,6.8,6.8,7.2
+中餐,China Restaurant Yung,China Restaurant Yung,0,北市中心,0.0,0.0,0.0
+中餐,Kowloon City,Kowloon City,0,法兰克福Nordend,0.0,0.0,0.0
+中餐,Petits Lam Freres,Petits Lam Freres,0,法兰克福市中心,0.0,0.0,0.0
+中餐,Panu,Panu,0,法兰克福市中心,0.0,0.0,0.0
+中餐,China Leckerbissen,China Leckerbissen,0,法兰克福市中心,0.0,0.0,0.0
+中餐,Chinarestaurant Jasmin,Chinarestaurant Jasmin,0,法兰克福市中心,0.0,0.0,0.0
+中餐,Taklamakan,Taklamakan,0,其他,0.0,0.0,0.0
+日韩料理,Jingjing Asia Restaurant,Jingjing Asia Restaurant,0,其他,7.9,7.6,7.6
+日韩料理,Home Ramen,Home Ramen,0,奥斯坦登,8.5,8.5,8.5
+日韩料理,Higematsu,Higematsu,0,法兰克福市中心,8.4,6.7,7.5
+日韩料理,Coco,Coco,0,法兰克福市中心,7.5,7.5,7.5
+日韩料理,Kabuki Frankfurt,Kabuki Frankfurt,0,法兰克福市中心,8.0,8.0,8.0
+日韩料理,Sushi Stars,Sushi Stars,0,法兰克福市中心,6.1,6.1,6.1
+日韩料理,Zenzakan,Zenzakan,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Fujiwara,Fujiwara,0,其他,0.0,0.0,0.0
+日韩料理,Moriki,Moriki,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Mr. Lee,Mr. Lee,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Mangetsu,Mangetsu,0,韦斯滕德,0.0,0.0,0.0
+日韩料理,Sushi am Main,Sushi am Main,0,韦斯滕德,0.0,0.0,0.0
+日韩料理,Iwase,Iwase,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Matsuri,Matsuri,0,韦斯滕德,0.0,0.0,0.0
+日韩料理,Muku,Muku,0,其他,0.0,0.0,0.0
+日韩料理,Nomu Sushi Bar Frankfurt,Nomu Sushi Bar Frankfurt,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Restaurant Yumeya,Restaurant Yumeya,0,韦斯滕德,0.0,0.0,0.0
+日韩料理,MIKUNI,MIKUNI,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Sushi Boy,Sushi Boy,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Sushimoto,Sushimoto,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,My Sushi,My Sushi,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Hankook,Hankook,0,其他,0.0,0.0,0.0
+日韩料理,Iroha,Iroha,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Kamon Sushi-Bar,Kamon Sushi-Bar,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Hama Sushi,Hama Sushi,0,韦斯滕德,0.0,0.0,0.0
+日韩料理,SuperKato,SuperKato,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Misho,Misho,0,韦斯滕德,0.0,0.0,0.0
+日韩料理,Sushi Sho,Sushi Sho,0,,0.0,0.0,0.0
+日韩料理,Sushiedo,Sushiedo,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Sushi Circle,Sushi Circle,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Okinawa Suppen Shop,Okinawa Suppen Shop,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Circle,Sushi Circle,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Sushisho im Maritim Hotel,Sushisho im Maritim Hotel,0,韦斯滕德,0.0,0.0,0.0
+日韩料理,Asia Restaurant Hahaa,Asia Restaurant Hahaa,0,法兰克福西,0.0,0.0,0.0
+日韩料理,Arirang,Arirang,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Mama Kim,Mama Kim,0,韦斯滕德,0.0,0.0,0.0
+日韩料理,T-style,T-style,0,韦斯滕德,0.0,0.0,0.0
+日韩料理,Sushi King,Sushi King,0,韦斯滕德,0.0,0.0,0.0
+日韩料理,SUSHIKO,SUSHIKO,0,其他,0.0,0.0,0.0
+日韩料理,Tawaraya,Tawaraya,0,奥斯坦登,0.0,0.0,0.0
+日韩料理,Kinya,Kinya,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Sushiedo Frankfurt Zeil,Sushiedo Frankfurt Zeil,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Silla,Silla,0,其他,0.0,0.0,0.0
+日韩料理,Shinjuku,Shinjuku,0,奥斯坦登,0.0,0.0,0.0
+日韩料理,Sushi Circle,Sushi Circle,0,奥斯坦登,0.0,0.0,0.0
+日韩料理,Bistro okame,Bistro okame,0,南市中心,0.0,0.0,0.0
+日韩料理,Sama Sushi,Sama Sushi,0,法兰克福Nordend,0.0,0.0,0.0
+日韩料理,Sushi Circle,Sushi Circle,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Mikasa japanisches Restaurant,Mikasa japanisches Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Seoul,Seoul,0,法兰克福市中心,0.0,0.0,0.0
+日韩料理,Issen,Issen,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,san san,san san,0,法兰克福市中心,8.3,8.3,8.3
+更多亚洲菜,China Paradies,China Paradies,0,法兰克福市中心,7.9,8.5,7.9
+更多亚洲菜,Kim´s Pho,Kim´s Pho,0,法兰克福市中心,6.7,7.1,7.5
+更多亚洲菜,Jade - Magic Wok,Jade - Magic Wok,0,法兰克福市中心,7.1,7.4,7.4
+更多亚洲菜,Chi Chi Thai,Chi Chi Thai,0,法兰克福Nordend,7.5,7.5,7.5
+更多亚洲菜,Selera Malaysian Restaurant,Selera Malaysian Restaurant,0,法兰克福市中心,7.4,7.4,7.4
+更多亚洲菜,Toh-Thong Thai Cuisine,Toh-Thong Thai Cuisine,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Jewel Of India,Jewel Of India,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Suvadee Thai Restaurant,Suvadee Thai Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Taj Tandoori,Taj Tandoori,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,The Ivory Club,The Ivory Club,0,,0.0,0.0,0.0
+更多亚洲菜,COA - Cuisine of Asia,COA - Cuisine of Asia,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,COA - Cuisine of Asia,COA - Cuisine of Asia,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Thai Express,Thai Express,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Sumela,Sumela,0,法兰克福西,0.0,0.0,0.0
+更多亚洲菜,Meyer's Restaurant & Bar,Meyer's Restaurant & Bar,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Koh Samui,Koh Samui,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Rama V,Rama V,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Saravana Bhavan,Saravana Bhavan,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Ivory Club,Ivory Club,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Mera Masala,Mera Masala,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Aroydee,Aroydee,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Thai Express,Thai Express,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Hamsilos & Schenk,Hamsilos & Schenk,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,MoschMosch,MoschMosch,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,King Corner,King Corner,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thai Wok,Thai Wok,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Bayram Kebab House,Bayram Kebab House,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Ban Thai,Ban Thai,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Indian Curry House,Indian Curry House,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Coa Cuisine of Asia,Coa Cuisine of Asia,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Anar Kali,Anar Kali,0,其他,0.0,0.0,0.0
+更多亚洲菜,Indian Restaurant Ruchi,Indian Restaurant Ruchi,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Taj Mahal,Taj Mahal,0,其他,0.0,0.0,0.0
+更多亚洲菜,MoschMosch,MoschMosch,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Lam Freres,Lam Freres,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Mosch Mosch,Mosch Mosch,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Thong Thai,Thong Thai,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Vina Licious,Vina Licious,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Hafez,Hafez,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Hoechster Kebaphaus,Hoechster Kebaphaus,0,法兰克福西,0.0,0.0,0.0
+更多亚洲菜,Thai Time,Thai Time,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Urfa Kebaphaus,Urfa Kebaphaus,0,法兰克福西,0.0,0.0,0.0
+更多亚洲菜,L'Emir,L'Emir,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Kekik,Kekik,0,法兰克福西,0.0,0.0,0.0
+更多亚洲菜,My Wok,My Wok,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Alter Bahnhof,Alter Bahnhof,0,其他,0.0,0.0,0.0
+更多亚洲菜,Spice Kitchen,Spice Kitchen,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Mala Min,Mala Min,0,法兰克福西,0.0,0.0,0.0
+更多亚洲菜,Zeil Kebap,Zeil Kebap,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Lahore Kebab House,Lahore Kebab House,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Namaste India,Namaste India,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Binh Minh,Binh Minh,0,奥斯坦登,0.0,0.0,0.0
+更多亚洲菜,Little India,Little India,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Mae Timm's,Mae Timm's,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,"Bangkok, Thai Restaurant","Bangkok, Thai Restaurant",0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Indian Restaurant Spice,Indian Restaurant Spice,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Indigo Indian Restaurant,Indigo Indian Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Shahi Curry,Shahi Curry,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Sumela II,Sumela II,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Restaurant Toan,Restaurant Toan,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Phuket Thai Imbiss,Phuket Thai Imbiss,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Delhi Tandoori,Delhi Tandoori,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Thai Snack,Thai Snack,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Quan Van,Quan Van,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Konak - Restaurant & Bar,Konak - Restaurant & Bar,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Banjara,Banjara,0,其他,0.0,0.0,0.0
+更多亚洲菜,Udon,Udon,0,其他,0.0,0.0,0.0
+更多亚洲菜,Bombay Palace,Bombay Palace,0,其他,0.0,0.0,0.0
+更多亚洲菜,Koylu-Doner,Koylu-Doner,0,其他,0.0,0.0,0.0
+更多亚洲菜,Indian Village,Indian Village,0,奥斯坦登,0.0,0.0,0.0
+更多亚洲菜,Diya Restaurant,Diya Restaurant,0,奥斯坦登,0.0,0.0,0.0
+更多亚洲菜,Restaurant Ganesha,Restaurant Ganesha,0,奥斯坦登,0.0,0.0,0.0
+更多亚洲菜,Vipho,Vipho,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Phoin,Phoin,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Indian Chilli,Indian Chilli,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,my Indigo Frankfurt Markthalle,my Indigo Frankfurt Markthalle,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Maharaja,Maharaja,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Nuy's Thai Imbiss Pattaya,Nuy's Thai Imbiss Pattaya,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Bollywood Chilly,Bollywood Chilly,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Mayur Indian Restaurant,Mayur Indian Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Kom San,Kom San,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Anatolia,Anatolia,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Punjabi Dhaba,Punjabi Dhaba,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Palace of India,Palace of India,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Fahri Baba Kebab Haus,Fahri Baba Kebab Haus,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Bistro Sahin,Bistro Sahin,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Tap Tim Thai,Tap Tim Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Vietrice,Vietrice,0,其他,0.0,0.0,0.0
+更多亚洲菜,Maharani,Maharani,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thai-Restaurant Ruan Mhai,Thai-Restaurant Ruan Mhai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mamoona Cuisine,Mamoona Cuisine,0,奥斯坦登,0.0,0.0,0.0
+更多亚洲菜,Asia Snack Thai Imbiss,Asia Snack Thai Imbiss,0,奥斯坦登,0.0,0.0,0.0
+更多亚洲菜,doneria,doneria,0,奥斯坦登,0.0,0.0,0.0
+更多亚洲菜,Giggle Pea,Giggle Pea,0,法兰克福西,0.0,0.0,0.0
+更多亚洲菜,Asia Imbiss Hahaa,Asia Imbiss Hahaa,0,法兰克福西,0.0,0.0,0.0
+更多亚洲菜,Asia Gourmet,Asia Gourmet,0,法兰克福西,0.0,0.0,0.0
+更多亚洲菜,Phad Thai,Phad Thai,0,南市中心,0.0,0.0,0.0
+更多亚洲菜,Monkeys Nudels Bar e.K.,Monkeys Nudels Bar e.K.,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Taste of India,Taste of India,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Mr. Samosa,Mr. Samosa,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Thai Art,Thai Art,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Thai Bistro Papaya,Thai Bistro Papaya,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Palmen,Palmen,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Mai Vien,Mai Vien,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Balik Fischrestaurant,Balik Fischrestaurant,0,其他,0.0,0.0,0.0
+更多亚洲菜,Thai Sky,Thai Sky,0,其他,0.0,0.0,0.0
+更多亚洲菜,Gaylord,Gaylord,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Cigkoeftem,Cigkoeftem,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Doy Doy,Doy Doy,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Bombay Palace,Bombay Palace,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Mywok-Thai,Mywok-Thai,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Doener Kebap,Doener Kebap,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Mai Kai,Mai Kai,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Mongol,Mongol,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Aiso,Aiso,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Doy Doy,Doy Doy,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Urfa69,Urfa69,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Sohar's Koscher-Restaurant,Sohar's Koscher-Restaurant,0,韦斯滕德,0.0,0.0,0.0
+更多亚洲菜,Moti Mahal,Moti Mahal,0,其他,0.0,0.0,0.0
+更多亚洲菜,Almas,Almas,0,其他,0.0,0.0,0.0
+更多亚洲菜,Sumela III,Sumela III,0,其他,0.0,0.0,0.0
+更多亚洲菜,2A Noodle Bar & More,2A Noodle Bar & More,0,法兰克福Nordend,0.0,0.0,0.0
+更多亚洲菜,Chin Thai Haus,Chin Thai Haus,0,法兰克福Nieder-Eschbach-Harhe,0.0,0.0,0.0
+更多亚洲菜,Merkez Kebap Haus,Merkez Kebap Haus,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Merkez Doener Haus,Merkez Doener Haus,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Lemon Thai,Lemon Thai,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Tamnak Thai,Tamnak Thai,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Nedim,Nedim,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Lahore Palace,Lahore Palace,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Entenhaus,Entenhaus,0,法兰克福市中心,0.0,0.0,0.0
+更多亚洲菜,Main Thai,Main Thai,0,其他,0.0,0.0,0.0
+更多亚洲菜,Mongo's Restaurant,Mongo's Restaurant,0,奥斯坦登,0.0,0.0,0.0
+更多亚洲菜,Massalazone,Massalazone,0,法兰克福Nordend,0.0,0.0,0.0
+快餐简餐,麦当劳,麦当劳,0,法兰克福Nordend,7.9,7.9,7.9
+快餐简餐,Champions - The American Sports Bar & Restaurant,Champions - The American Sports Bar & Restaurant,0,韦斯滕德,0.0,0.0,0.0
+快餐简餐,Ranch and Sea,Ranch and Sea,0,韦斯滕德,0.0,0.0,0.0
+快餐简餐,Block House,Block House,0,韦斯滕德,0.0,0.0,0.0
+快餐简餐,Louisiana,Louisiana,0,法兰克福Nordend,0.0,0.0,0.0
+快餐简餐,Chicago Meatpackers,Chicago Meatpackers,0,法兰克福市中心,0.0,0.0,0.0
+快餐简餐,Hooters American Sports Bar,Hooters American Sports Bar,0,其他,0.0,0.0,0.0
+快餐简餐,Die Kuh die lacht,Die Kuh die lacht,0,法兰克福市中心,0.0,0.0,0.0
+快餐简餐,Sam's Sportsbar,Sam's Sportsbar,0,其他,0.0,0.0,0.0
+快餐简餐,Meyer Feinkost,Meyer Feinkost,0,其他,0.0,0.0,0.0
+快餐简餐,|Lucullus NERO || THE SQUAIRE Frankfurt|,|Lucullus NERO || THE SQUAIRE Frankfurt|,0,其他,0.0,0.0,0.0
+快餐简餐,Chicago Meatpackers Riverside,Chicago Meatpackers Riverside,0,法兰克福市中心,0.0,0.0,0.0
+快餐简餐,Luna Burger,Luna Burger,0,法兰克福市中心,0.0,0.0,0.0
+快餐简餐,Connection 5,Connection 5,0,其他,0.0,0.0,0.0
+快餐简餐,Burrito Bande,Burrito Bande,0,法兰克福Nordend,0.0,0.0,0.0
+快餐简餐,BrauStil,BrauStil,0,法兰克福Nordend,0.0,0.0,0.0
+快餐简餐,PURE Restaurant,PURE Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+快餐简餐,Chillers - American Sportsbar & Restaurant,Chillers - American Sportsbar & Restaurant,0,其他,0.0,0.0,0.0
+快餐简餐,Diner American Bar & Restaurant,Diner American Bar & Restaurant,0,法兰克福Nordend,0.0,0.0,0.0
+海鲜,Fleming's Club,Fleming's Club,0,法兰克福市中心,8.4,8.4,8.4
+海鲜,Alims Fischimbiss,Alims Fischimbiss,0,法兰克福市中心,7.7,7.2,7.2
+海鲜,Nordsee,Nordsee,0,其他,7.6,7.2,7.6
+海鲜,Fisch Franke,Fisch Franke,0,法兰克福市中心,0.0,0.0,0.0
+海鲜,Dorade am Main,Dorade am Main,0,其他,0.0,0.0,0.0
+海鲜,Baders Fisch Deli,Baders Fisch Deli,0,韦斯滕德,0.0,0.0,0.0
+海鲜,Brauns Fisch Restaurant,Brauns Fisch Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+比萨,Bagutta Pizza Culture,Bagutta Pizza Culture,0,其他,7.4,7.1,6.8
+比萨,Pizzeria 7 Bello,Pizzeria 7 Bello,0,法兰克福市中心,0.0,0.0,0.0
+比萨,VAPIANO,VAPIANO,0,法兰克福市中心,0.0,0.0,0.0
+比萨,Zum Schwan,Zum Schwan,0,法兰克福西,0.0,0.0,0.0
+比萨,Punto Pasta,Punto Pasta,0,法兰克福市中心,0.0,0.0,0.0
+比萨,Pizzeria Cimino Da Rosa,Pizzeria Cimino Da Rosa,0,法兰克福North West,0.0,0.0,0.0
+比萨,Cafe-Weinbar Settimo Cielo,Cafe-Weinbar Settimo Cielo,0,法兰克福Nordend,0.0,0.0,0.0
+比萨,Al Terrazzino,Al Terrazzino,0,法兰克福Nordend,0.0,0.0,0.0
+比萨,Pizza Pasta Scialpi,Pizza Pasta Scialpi,0,法兰克福市中心,0.0,0.0,0.0
+比萨,Pizzeria Elba,Pizzeria Elba,0,韦斯滕德,0.0,0.0,0.0
+比萨,Ristorante Romanella,Ristorante Romanella,0,韦斯滕德,0.0,0.0,0.0
+比萨,Pizzeria Ristorante Ciao,Pizzeria Ristorante Ciao,0,其他,0.0,0.0,0.0
+比萨,Ristorante Pizzeria Da Cimino,Ristorante Pizzeria Da Cimino,0,其他,0.0,0.0,0.0
+比萨,Saravini,Saravini,0,奥斯坦登,0.0,0.0,0.0
+比萨,Pizzeria Rusticale,Pizzeria Rusticale,0,南市中心,0.0,0.0,0.0
+比萨,Forno d'Oro II,Forno d'Oro II,0,法兰克福Nordend,0.0,0.0,0.0
+比萨,Punto e Pasta,Punto e Pasta,0,法兰克福Nieder-Eschbach-Harhe,0.0,0.0,0.0
+比萨,Bologna,Bologna,0,北市中心,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,法兰克福市中心,0.0,0.0,0.0
+比萨,Pizzeria Buongiorno,Pizzeria Buongiorno,0,韦斯滕德,0.0,0.0,0.0
+比萨,Pizzeria Da Angelo,Pizzeria Da Angelo,0,其他,0.0,0.0,0.0
+比萨,Pizza Hut,Pizza Hut,0,奥斯坦登,0.0,0.0,0.0
+比萨,Pizzeria Marotta,Pizzeria Marotta,0,奥斯坦登,0.0,0.0,0.0
+比萨,Il Gambero,Il Gambero,0,奥斯坦登,0.0,0.0,0.0
+比萨,Pizzeria Diablo,Pizzeria Diablo,0,法兰克福西,0.0,0.0,0.0
+比萨,Pizzeria Kiara,Pizzeria Kiara,0,法兰克福西,0.0,0.0,0.0
+比萨,Pizzeria Marinella,Pizzeria Marinella,0,法兰克福Nordend,0.0,0.0,0.0
+比萨,Pizzeria Isolabella,Pizzeria Isolabella,0,法兰克福North West,0.0,0.0,0.0
+比萨,Pizzeria la Cravatta,Pizzeria la Cravatta,0,其他,0.0,0.0,0.0
+比萨,Bella Sena,Bella Sena,0,其他,0.0,0.0,0.0
+比萨,Joey's Pizza Service,Joey's Pizza Service,0,其他,0.0,0.0,0.0
+比萨,Ristorant-Pizzeria Da Severino,Ristorant-Pizzeria Da Severino,0,南市中心,0.0,0.0,0.0
+比萨,Pizzeria bei Nadine,Pizzeria bei Nadine,0,法兰克福市中心,0.0,0.0,0.0
+比萨,Pizzeria Dal Bianco,Pizzeria Dal Bianco,0,其他,0.0,0.0,0.0
+比萨,Pizzeria Nic Nac,Pizzeria Nic Nac,0,法兰克福西,0.0,0.0,0.0
+咖啡厅,法兰克福机场 Momento Bar 面包店,法兰克福机场 Momento Bar 面包店,0,法兰克福机场,8.2,8.2,8.2
+咖啡厅,Coffee Fellows 法兰克福机场店,Coffee Fellows 法兰克福机场店,0,法兰克福机场,7.9,7.9,7.9
+咖啡厅,Kaffee Wackers,Kaffee Wackers,0,法兰克福市中心,7.4,7.0,7.0
+咖啡厅,Starbucks Coffee,Starbucks Coffee,0,其他,8.2,8.2,8.2
+咖啡厅,绿茵阁,绿茵阁,0,,6.9,6.9,6.9
+咖啡厅,Stadel Museum,Stadel Museum,0,,7.2,7.2,7.2
+咖啡厅,Starbucks,Starbucks,0,,7.4,7.4,7.4
+咖啡厅,Starbucks(法兰克福火车站),Starbucks(法兰克福火车站),0,法兰克福Nordend,7.0,7.0,7.0
+咖啡厅,Starbucks(Hauptwache),Starbucks(Hauptwache),0,法兰克福Nordend,7.0,7.0,7.0
+咖啡厅,Cafe Karin,Cafe Karin,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Metropol,Metropol,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Maincafe,Maincafe,0,其他,0.0,0.0,0.0
+咖啡厅,Coffee Fellows,Coffee Fellows,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Cafe Kante,Cafe Kante,0,法兰克福Nordend,0.0,0.0,0.0
+咖啡厅,Cafe Wacker,Cafe Wacker,0,奥斯坦登,0.0,0.0,0.0
+咖啡厅,Cafe Im Liebighaus,Cafe Im Liebighaus,0,其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Cafe Extrablatt,Cafe Extrablatt,0,韦斯滕德,0.0,0.0,0.0
+咖啡厅,Hotel-Restaurant-Cafe Schoene Aussicht,Hotel-Restaurant-Cafe Schoene Aussicht,0,其他,0.0,0.0,0.0
+咖啡厅,Nespresso Boutique,Nespresso Boutique,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,McDonald's & McCafé,McDonald's & McCafé,0,其他,0.0,0.0,0.0
+咖啡厅,Phoenix Tea,Phoenix Tea,0,法兰克福Nordend,0.0,0.0,0.0
+咖啡厅,Cafe Laumer,Cafe Laumer,0,韦斯滕德,0.0,0.0,0.0
+咖啡厅,Cafe Bohne,Cafe Bohne,0,奥斯坦登,0.0,0.0,0.0
+咖啡厅,Liman 'Da,Liman 'Da,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Wisser's Cafe,Wisser's Cafe,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Cafe Diesseits,Cafe Diesseits,0,韦斯滕德,0.0,0.0,0.0
+咖啡厅,Cafe Bar Schopenhauer,Cafe Bar Schopenhauer,0,法兰克福Nordend,0.0,0.0,0.0
+咖啡厅,Cafe Liebfrauenberg,Cafe Liebfrauenberg,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Schirn Cafe,Schirn Cafe,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Cafe Mozart,Cafe Mozart,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Cafe Hugendubel,Cafe Hugendubel,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,韦斯滕德,0.0,0.0,0.0
+咖啡厅,Cafe Albatross,Cafe Albatross,0,韦斯滕德,0.0,0.0,0.0
+咖啡厅,Cafe Crumble,Cafe Crumble,0,韦斯滕德,0.0,0.0,0.0
+咖啡厅,Moloko+,Moloko+,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Broetchenmacher,Broetchenmacher,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Café Latté,Café Latté,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Espressivo Cafe & Bar,Espressivo Cafe & Bar,0,韦斯滕德,0.0,0.0,0.0
+咖啡厅,Rosterei Wissmuller,Rosterei Wissmuller,0,韦斯滕德,0.0,0.0,0.0
+咖啡厅,Cafe Plazz,Cafe Plazz,0,韦斯滕德,0.0,0.0,0.0
+咖啡厅,Hoppenworth & Ploch,Hoppenworth & Ploch,0,韦斯滕德,0.0,0.0,0.0
+咖啡厅,Lesecafe,Lesecafe,0,其他,0.0,0.0,0.0
+咖啡厅,Das Schiffer Cafe,Das Schiffer Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Mokkaria,Mokkaria,0,奥斯坦登,0.0,0.0,0.0
+咖啡厅,Confisserie Patisserie Graff,Confisserie Patisserie Graff,0,南市中心,0.0,0.0,0.0
+咖啡厅,Merianbad Cafe,Merianbad Cafe,0,法兰克福Nordend,0.0,0.0,0.0
+咖啡厅,Cafe Wacker,Cafe Wacker,0,法兰克福Nordend,0.0,0.0,0.0
+咖啡厅,Kaffeemacherei,Kaffeemacherei,0,法兰克福Nordend,0.0,0.0,0.0
+咖啡厅,Cafe Cardamom,Cafe Cardamom,0,法兰克福Nordend,0.0,0.0,0.0
+咖啡厅,Nordlicht,Nordlicht,0,法兰克福Nordend,0.0,0.0,0.0
+咖啡厅,Cafe Stones,Cafe Stones,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Cafe Weidenweber,Cafe Weidenweber,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Hofmann Authentic Food,Hofmann Authentic Food,0,其他,0.0,0.0,0.0
+咖啡厅,Starbucks,Starbucks,0,法兰克福市中心,0.0,0.0,0.0
+咖啡厅,Café Lemon,Café Lemon,0,其他,0.0,0.0,0.0
+咖啡厅,MyFavorite Sandwich,MyFavorite Sandwich,0,韦斯滕德,0.0,0.0,0.0
+咖啡厅,Cafe Scheidswald,Cafe Scheidswald,0,奥斯坦登,0.0,0.0,0.0
+咖啡厅,La Maison du Pain,La Maison du Pain,0,奥斯坦登,0.0,0.0,0.0
+咖啡厅,Cafe Lido,Cafe Lido,0,法兰克福Nordend,0.0,0.0,0.0
+面包甜点,bitazza,bitazza,0,法兰克福机场,7.3,7.3,7.3
+面包甜点,圣诞果脯蛋糕快闪店,圣诞果脯蛋糕快闪店,0,,7.7,7.2,7.7
+面包甜点,Gelateria De Nardi,Gelateria De Nardi,0,法兰克福Nordend,7.0,6.9,6.9
+面包甜点,Bitter & Zart,Bitter & Zart,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Dunkin' Donuts,Dunkin' Donuts,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Iimori Konditorei Pattisserie,Iimori Konditorei Pattisserie,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Eis Christina,Eis Christina,0,法兰克福Nordend,0.0,0.0,0.0
+面包甜点,Haagen Dazs,Haagen Dazs,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Konditorei Hollhorst,Konditorei Hollhorst,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Eiscafe Fontanella,Eiscafe Fontanella,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Le CroBag,Le CroBag,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Ried Back,Ried Back,0,法兰克福North West,0.0,0.0,0.0
+面包甜点,Heberers Snack'n Coffee,Heberers Snack'n Coffee,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Kamps Backstube,Kamps Backstube,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Dulce Chocolate & Ice Cream,Dulce Chocolate & Ice Cream,0,其他,0.0,0.0,0.0
+面包甜点,Heavenly Delight Cupcakes,Heavenly Delight Cupcakes,0,其他,0.0,0.0,0.0
+面包甜点,La Maison du Pain,La Maison du Pain,0,法兰克福Nordend,0.0,0.0,0.0
+面包甜点,Millie's Cookies,Millie's Cookies,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Eis Cafe Dazzi,Eis Cafe Dazzi,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Eiscafé Alberto,Eiscafé Alberto,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Naschwerkstatt,Naschwerkstatt,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Moevenpick Cafe Frankfurt Airport,Moevenpick Cafe Frankfurt Airport,0,韦斯滕德,0.0,0.0,0.0
+面包甜点,La Maison du Pain,La Maison du Pain,0,韦斯滕德,0.0,0.0,0.0
+面包甜点,La Maison du Pain,La Maison du Pain,0,其他,0.0,0.0,0.0
+面包甜点,Amélie's Wohnzimmer - das kleine Café,Amélie's Wohnzimmer - das kleine Café,0,其他,0.0,0.0,0.0
+面包甜点,Biz-Zi Ice,Biz-Zi Ice,0,其他,0.0,0.0,0.0
+面包甜点,Eis Café Cristallo,Eis Café Cristallo,0,其他,0.0,0.0,0.0
+面包甜点,Coo Coo,Coo Coo,0,奥斯坦登,0.0,0.0,0.0
+面包甜点,Eissalon Riviera,Eissalon Riviera,0,法兰克福西,0.0,0.0,0.0
+面包甜点,Eiscafe Dolomiti,Eiscafe Dolomiti,0,法兰克福西,0.0,0.0,0.0
+面包甜点,Eissalon Cortina,Eissalon Cortina,0,南市中心,0.0,0.0,0.0
+面包甜点,Sotto Zero,Sotto Zero,0,南市中心,0.0,0.0,0.0
+面包甜点,Zeit fuer Brot,Zeit fuer Brot,0,法兰克福Nordend,0.0,0.0,0.0
+面包甜点,Eiscafe Michielin,Eiscafe Michielin,0,法兰克福Nordend,0.0,0.0,0.0
+面包甜点,Eis-Cafe Olimpio,Eis-Cafe Olimpio,0,法兰克福Nordend,0.0,0.0,0.0
+面包甜点,Eis Milano,Eis Milano,0,其他,0.0,0.0,0.0
+面包甜点,Eis Venezia,Eis Venezia,0,法兰克福西,0.0,0.0,0.0
+面包甜点,Italienische Backerei,Italienische Backerei,0,法兰克福North West,0.0,0.0,0.0
+面包甜点,Cookie in the Box,Cookie in the Box,0,法兰克福市中心,0.0,0.0,0.0
+面包甜点,Jenny's Cupcakes,Jenny's Cupcakes,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Paulaner am Dom,Paulaner am Dom,0,法兰克福Nordend,6.9,7.3,6.7
+酒吧,JU 52,JU 52,0,其他,8.2,8.2,7.4
+酒吧,Binding Stuebchen,Binding Stuebchen,0,法兰克福市中心,7.2,7.2,7.2
+酒吧,sky,sky,0,法兰克福市中心,7.1,6.8,6.8
+酒吧,Yacht Club,Yacht Club,0,法兰克福市中心,6.6,6.6,6.6
+酒吧,Oscar's,Oscar's,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Frankfurter Botschaft,Frankfurter Botschaft,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Erno's Bistro,Erno's Bistro,0,韦斯滕德,0.0,0.0,0.0
+酒吧,Mantis Bar & Grill,Mantis Bar & Grill,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Jimmy's Bar,Jimmy's Bar,0,韦斯滕德,0.0,0.0,0.0
+酒吧,JFK's Bar & Lounge,JFK's Bar & Lounge,0,其他,0.0,0.0,0.0
+酒吧,Autorenbar Im Steigenberger Frankfurter Hof,Autorenbar Im Steigenberger Frankfurter Hof,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Harry's New York Bar,Harry's New York Bar,0,其他,0.0,0.0,0.0
+酒吧,Main Tower,Main Tower,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Casablanca Bar,Casablanca Bar,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,King Kamehameha Club,King Kamehameha Club,0,奥斯坦登,0.0,0.0,0.0
+酒吧,Livity Frankfurt,Livity Frankfurt,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Brasserie du sud,Brasserie du sud,0,其他,0.0,0.0,0.0
+酒吧,Maingold,Maingold,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Alte Schiffsmeldestelle Hochst,Alte Schiffsmeldestelle Hochst,0,其他,0.0,0.0,0.0
+酒吧,Roomers Bar,Roomers Bar,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Bar Lemons and Limes,Bar Lemons and Limes,0,其他,0.0,0.0,0.0
+酒吧,Balalaika Bar & Music Venue,Balalaika Bar & Music Venue,0,其他,0.0,0.0,0.0
+酒吧,Bockenheimer Stubb,Bockenheimer Stubb,0,韦斯滕德,0.0,0.0,0.0
+酒吧,Dachgarten im Hotel Nizza,Dachgarten im Hotel Nizza,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,La Stanza Cafe + Winebar,La Stanza Cafe + Winebar,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Birmingham Pub,Birmingham Pub,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Sansibar,Sansibar,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Batschkapp,Batschkapp,0,法兰克福North West,0.0,0.0,0.0
+酒吧,Gibson Club,Gibson Club,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Fleming's Restaurant & Wine Bar,Fleming's Restaurant & Wine Bar,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Bar ohne Namen,Bar ohne Namen,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Sullivan Bar,Sullivan Bar,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Dortmunder Pils Treff,Dortmunder Pils Treff,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,22nd Lounge & Bar,22nd Lounge & Bar,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Nacht Leben,Nacht Leben,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,XS-Lounge,XS-Lounge,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Bar Fiftyfour,Bar Fiftyfour,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Luna Bar,Luna Bar,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Myer s Bar,Myer s Bar,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Zum Schweijk,Zum Schweijk,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Lucky's Manhattan,Lucky's Manhattan,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Cafe Bar Switchboard,Cafe Bar Switchboard,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Eppstein Eck,Eppstein Eck,0,韦斯滕德,0.0,0.0,0.0
+酒吧,Sky Lounge,Sky Lounge,0,其他,0.0,0.0,0.0
+酒吧,Gasthof Zum Hirsch,Gasthof Zum Hirsch,0,其他,0.0,0.0,0.0
+酒吧,Bistro Bella Donna,Bistro Bella Donna,0,其他,0.0,0.0,0.0
+酒吧,Hoppers,Hoppers,0,其他,0.0,0.0,0.0
+酒吧,Stereobar,Stereobar,0,其他,0.0,0.0,0.0
+酒吧,Eis Café Cristallo,Eis Café Cristallo,0,其他,0.0,0.0,0.0
+酒吧,Ginnheimer Wirtshaus,Ginnheimer Wirtshaus,0,北市中心,0.0,0.0,0.0
+酒吧,Long Island Lounge,Long Island Lounge,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,The Stall,The Stall,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Club Travolta,Club Travolta,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Pulse,Pulse,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Nusoul,Nusoul,0,奥斯坦登,0.0,0.0,0.0
+酒吧,Central,Central,0,法兰克福市中心,0.0,0.0,0.0
+酒吧,Celsius Bistro,Celsius Bistro,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Ding Ding Sheng,Ding Ding Sheng,0,法兰克福市中心,6.7,6.5,6.7
+更多美食,Salzkammer,Salzkammer,0,法兰克福市中心,8.3,8.3,8.3
+更多美食,Weinstube im Roemer,Weinstube im Roemer,0,法兰克福市中心,6.7,7.5,7.5
+更多美食,Restaurant Pak Choi,Restaurant Pak Choi,0,法兰克福市中心,7.1,7.4,6.8
+更多美食,Immer Satt,Immer Satt,0,韦斯滕德,7.5,7.5,6.7
+更多美食,Chez IMA,Chez IMA,0,法兰克福市中心,6.8,6.8,6.8
+更多美食,Roomers,Roomers,0,法兰克福市中心,8.2,8.2,8.2
+更多美食,Il Vecchio Muro,Il Vecchio Muro,0,法兰克福西,8.1,8.1,8.1
+更多美食,Alex,Alex,0,其他,7.4,8.0,8.0
+更多美食,Mian Hausgemachte Nudeln,Mian Hausgemachte Nudeln,0,法兰克福市中心,7.1,7.1,7.1
+更多美食,Shangrila Restaurant,Shangrila Restaurant,0,法兰克福市中心,6.7,6.7,6.7
+更多美食,Le Parc,Le Parc,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Restaurant Flavors,Restaurant Flavors,0,其他,0.0,0.0,0.0
+更多美食,Signatures Veranda Restaurant,Signatures Veranda Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Riz,Riz,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Alten Limpurg,Alten Limpurg,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Walden Essen Trinken Leben e.K.,Walden Essen Trinken Leben e.K.,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Localino Da Cimino,Localino Da Cimino,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Brasserie An Der Alten Oper,Brasserie An Der Alten Oper,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Lokalbahnhof,Lokalbahnhof,0,其他,0.0,0.0,0.0
+更多美食,Weidenhof,Weidenhof,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Leib & Seele,Leib & Seele,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Maruyasu Import-Export GmbH,Maruyasu Import-Export GmbH,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Kaefer's at Frankfurt Airport,Kaefer's at Frankfurt Airport,0,其他,0.0,0.0,0.0
+更多美食,Haus Wertheym,Haus Wertheym,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Der Loewe,Der Loewe,0,法兰克福西,0.0,0.0,0.0
+更多美食,Walon & Rosetti,Walon & Rosetti,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Restaurant Sevres im Hotel Hessischer Hof,Restaurant Sevres im Hotel Hessischer Hof,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Natur-Bar,Natur-Bar,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Brasserie M,Brasserie M,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Holbein's,Holbein's,0,其他,0.0,0.0,0.0
+更多美食,Main Tower Restaurant & Bar,Main Tower Restaurant & Bar,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Bier Stiefel,Bier Stiefel,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Opera,Opera,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Buenos Aires,Buenos Aires,0,其他,0.0,0.0,0.0
+更多美食,Im Herzen Afrikas,Im Herzen Afrikas,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,MAINKAI CAFE,MAINKAI CAFE,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Klapper 33,Klapper 33,0,其他,0.0,0.0,0.0
+更多美食,Palais Quartier,Palais Quartier,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Savanna,Savanna,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Claudia's Steak & Weinhaus,Claudia's Steak & Weinhaus,0,其他,0.0,0.0,0.0
+更多美食,Moevenpick Hotel Frankfurt City,Moevenpick Hotel Frankfurt City,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Leonhards,Leonhards,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Restaurant Faces,Restaurant Faces,0,其他,0.0,0.0,0.0
+更多美食,Luftikus,Luftikus,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Sachsenhauser Warte,Sachsenhauser Warte,0,其他,0.0,0.0,0.0
+更多美食,Maxie Eisen,Maxie Eisen,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Meat Us,Meat Us,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,la famiglia,la famiglia,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Zwolf Apostel,Zwolf Apostel,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Fennischfuchser,Fennischfuchser,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Hani Restaurant,Hani Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Pacific Colors,Pacific Colors,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,African House,African House,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Zum Rad,Zum Rad,0,其他,0.0,0.0,0.0
+更多美食,Maritim,Maritim,0,,0.0,0.0,0.0
+更多美食,Restaurant Goldmund im Literaturhaus Frankfurt,Restaurant Goldmund im Literaturhaus Frankfurt,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Caravan,Caravan,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Wondergood,Wondergood,0,奥斯坦登,0.0,0.0,0.0
+更多美食,NAIV,NAIV,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Zum Adler,Zum Adler,0,北市中心,0.0,0.0,0.0
+更多美食,Zum Baeren,Zum Baeren,0,法兰克福西,0.0,0.0,0.0
+更多美食,My Thai Airport,My Thai Airport,0,其他,0.0,0.0,0.0
+更多美食,Il Doge,Il Doge,0,其他,0.0,0.0,0.0
+更多美食,Starbucks,Starbucks,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,kilimanjaro,kilimanjaro,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Ima kitchen,Ima kitchen,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Restaurant Embassy,Restaurant Embassy,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Laube Liebe Hoffnung,Laube Liebe Hoffnung,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,GrandSeven Restaurant & Bar,GrandSeven Restaurant & Bar,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Landhaus Alte Scheune,Landhaus Alte Scheune,0,其他,0.0,0.0,0.0
+更多美食,China Restaurant Palms Garden,China Restaurant Palms Garden,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Messina Pizzeria Ristorante,Messina Pizzeria Ristorante,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Okyay Schnellrestaurant,Okyay Schnellrestaurant,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,China Garten,China Garten,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Theaterrestaurant Fundus,Theaterrestaurant Fundus,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Nordsee,Nordsee,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Classico Maritim,Classico Maritim,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Cafe Chokolino,Cafe Chokolino,0,其他,0.0,0.0,0.0
+更多美食,Mosel-Eck,Mosel-Eck,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,HaLong,HaLong,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Restaurant Mikan,Restaurant Mikan,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Restaurant Kang-Nam,Restaurant Kang-Nam,0,其他,0.0,0.0,0.0
+更多美食,Gute Stute,Gute Stute,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Asian Bar im Hotel Hilton Frankfurt,Asian Bar im Hotel Hilton Frankfurt,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Schlemmermeyer,Schlemmermeyer,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Kakao - Kaffeehaus Nussknacker,Kakao - Kaffeehaus Nussknacker,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Eden,Eden,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Cosmopolitan Restaurant,Cosmopolitan Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Imbissstube Worscht Korbsche,Imbissstube Worscht Korbsche,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Alex Skyline Plaza,Alex Skyline Plaza,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Eckhaus,Eckhaus,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Fabrik,Fabrik,0,其他,0.0,0.0,0.0
+更多美食,Apfelweinlokal Friedberger Warte,Apfelweinlokal Friedberger Warte,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Cafe Kleinmarkthalle,Cafe Kleinmarkthalle,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Sicilia,Sicilia,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Lohrberg Schanke,Lohrberg Schanke,0,其他,0.0,0.0,0.0
+更多美食,Der Goldene Wok,Der Goldene Wok,0,法兰克福西,0.0,0.0,0.0
+更多美食,Starbucks Coffee,Starbucks Coffee,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Leonhard'S,Leonhard'S,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Bahia Restaurante y Bar Cafe,Bahia Restaurante y Bar Cafe,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Cojo Restaurant,Cojo Restaurant,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Volare,Volare,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Kleine Anna,Kleine Anna,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Freitagskueche,Freitagskueche,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Loft Fifty Two,Loft Fifty Two,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Bistro Weingeist,Bistro Weingeist,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,kaffeewerk espressionist,kaffeewerk espressionist,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Calabria,Calabria,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Da Rosario,Da Rosario,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Savory,Savory,0,南市中心,0.0,0.0,0.0
+更多美食,Restaurant Zum Mirko,Restaurant Zum Mirko,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Momberger,Momberger,0,法兰克福North West,0.0,0.0,0.0
+更多美食,Gleis 25,Gleis 25,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Restaurant Toelzer Stube,Restaurant Toelzer Stube,0,其他,0.0,0.0,0.0
+更多美食,Margarete,Margarete,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Kameha Suite Frankfurt,Kameha Suite Frankfurt,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Pasta e Panini,Pasta e Panini,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Jasper's,Jasper's,0,其他,0.0,0.0,0.0
+更多美食,Doepfner's im Maingau,Doepfner's im Maingau,0,其他,0.0,0.0,0.0
+更多美食,Goldman Restaurant,Goldman Restaurant,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Sonamu,Sonamu,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Chairs,Chairs,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Echt,Echt,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Exil,Exil,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,AROMA,AROMA,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Blumen - Restaurant in der Bar,Blumen - Restaurant in der Bar,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Groessenwahn,Groessenwahn,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Micha Bubble Tea Station,Micha Bubble Tea Station,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Cafe im Frankfurter Kunstverein,Cafe im Frankfurter Kunstverein,0,其他,0.0,0.0,0.0
+更多美食,Tausend u. Eine Nacht,Tausend u. Eine Nacht,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Gua Xian,Gua Xian,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Pizzeria Cassavia,Pizzeria Cassavia,0,法兰克福西,0.0,0.0,0.0
+更多美食,Mama Mia,Mama Mia,0,法兰克福西,0.0,0.0,0.0
+更多美食,Planet Food,Planet Food,0,法兰克福西,0.0,0.0,0.0
+更多美食,La Taverna,La Taverna,0,法兰克福西,0.0,0.0,0.0
+更多美食,Haus Kuhwald,Haus Kuhwald,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Osaka,Osaka,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Around the World,Around the World,0,其他,0.0,0.0,0.0
+更多美食,Thai Snack Frischer Wok,Thai Snack Frischer Wok,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Nha Trang,Nha Trang,0,法兰克福North West,0.0,0.0,0.0
+更多美食,Alegria im Lindner Congrss Hotel,Alegria im Lindner Congrss Hotel,0,法兰克福西,0.0,0.0,0.0
+更多美食,Messina,Messina,0,法兰克福North West,0.0,0.0,0.0
+更多美食,Sushi Live,Sushi Live,0,其他,0.0,0.0,0.0
+更多美食,Manitou,Manitou,0,其他,0.0,0.0,0.0
+更多美食,Gaddezwersch,Gaddezwersch,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Restaurant Sandelmuhle,Restaurant Sandelmuhle,0,法兰克福North West,0.0,0.0,0.0
+更多美食,Mr. Pizza,Mr. Pizza,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,McDonald's,McDonald's,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Pizzeria ''Zur Goldenen Rose'',Pizzeria ''Zur Goldenen Rose'',0,法兰克福西,0.0,0.0,0.0
+更多美食,Roemerbembel,Roemerbembel,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Indian Curry House,Indian Curry House,0,其他,0.0,0.0,0.0
+更多美食,African Queen,African Queen,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Seven Swans,Seven Swans,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Langosch am Main,Langosch am Main,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Coa Frankfurt,Coa Frankfurt,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Lalibela,Lalibela,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Stella,Stella,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Bull und Bear,Bull und Bear,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Vinum,Vinum,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,OpernCafe,OpernCafe,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Piu Allegro,Piu Allegro,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Urban Kitchen,Urban Kitchen,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Mare e Monti,Mare e Monti,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,"Cross Bar, Lounge, Cafe","Cross Bar, Lounge, Cafe",0,韦斯滕德,0.0,0.0,0.0
+更多美食,Orfeo Bistro,Orfeo Bistro,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Andalucia,Andalucia,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Restaurant Feldbergblick,Restaurant Feldbergblick,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Kaefer's Bistro,Kaefer's Bistro,0,其他,0.0,0.0,0.0
+更多美食,Colosseo,Colosseo,0,其他,0.0,0.0,0.0
+更多美食,Oheim GmbH,Oheim GmbH,0,其他,0.0,0.0,0.0
+更多美食,Schweizer's,Schweizer's,0,其他,0.0,0.0,0.0
+更多美食,Grand Cru,Grand Cru,0,其他,0.0,0.0,0.0
+更多美食,Pinienhof,Pinienhof,0,其他,0.0,0.0,0.0
+更多美食,Erbgut,Erbgut,0,其他,0.0,0.0,0.0
+更多美食,Schreiber Heynes Proletariat,Schreiber Heynes Proletariat,0,其他,0.0,0.0,0.0
+更多美食,Affentorschaenke,Affentorschaenke,0,其他,0.0,0.0,0.0
+更多美食,Fichtekranzi,Fichtekranzi,0,其他,0.0,0.0,0.0
+更多美食,Ran Tan,Ran Tan,0,其他,0.0,0.0,0.0
+更多美食,Chambre d'amis,Chambre d'amis,0,其他,0.0,0.0,0.0
+更多美食,New Brick,New Brick,0,其他,0.0,0.0,0.0
+更多美食,Borsalino,Borsalino,0,其他,0.0,0.0,0.0
+更多美食,Biancalani Cucina,Biancalani Cucina,0,其他,0.0,0.0,0.0
+更多美食,Jamy's Burger,Jamy's Burger,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Das Leben ist schoen...,Das Leben ist schoen...,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Chimichurri,Chimichurri,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Zum Zehnthof,Zum Zehnthof,0,法兰克福西,0.0,0.0,0.0
+更多美食,Frankfurter Hof Seppche,Frankfurter Hof Seppche,0,法兰克福西,0.0,0.0,0.0
+更多美食,LoftaGE,LoftaGE,0,南市中心,0.0,0.0,0.0
+更多美食,Hausener Dorfkrug,Hausener Dorfkrug,0,南市中心,0.0,0.0,0.0
+更多美食,O-Ton,O-Ton,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Mirador,Mirador,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Wiesenlust,Wiesenlust,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Gingko,Gingko,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Familienbetrieb,Familienbetrieb,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Olbia,Olbia,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Eat `n,Eat `n,0,北市中心,0.0,0.0,0.0
+更多美食,Urban Kitchen,Urban Kitchen,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Salvator,Salvator,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Pizzeria Koriander,Pizzeria Koriander,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Cetin,Cetin,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Fleischerei Gobel,Fleischerei Gobel,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Pazzapazza,Pazzapazza,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,mc2 lounge,mc2 lounge,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Gosch Fisch-Bistro,Gosch Fisch-Bistro,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Plank,Plank,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Fine Dining Metropolitan,Fine Dining Metropolitan,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Acapulco,Acapulco,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Central Grill,Central Grill,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Dean & David,Dean & David,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Velvet,Velvet,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Hofgarten,Hofgarten,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Commerzbankkantine,Commerzbankkantine,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Unser Taeglich Brot,Unser Taeglich Brot,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Bistro Flammbelle,Bistro Flammbelle,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Restaurant Schroffensteins Darstellbar,Restaurant Schroffensteins Darstellbar,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Souper,Souper,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Club Michel City,Club Michel City,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Euro Deli,Euro Deli,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Safir,Safir,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Cafetiero,Cafetiero,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Nordsee,Nordsee,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Klingers,Klingers,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,El-Rayyan,El-Rayyan,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Bidlabu – Bistro und Bar,Bidlabu – Bistro und Bar,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Palmengarten Gastronomie & Kulturgesellschaft,Palmengarten Gastronomie & Kulturgesellschaft,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Kaminzimmer,Kaminzimmer,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Sushi am Main,Sushi am Main,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Casa Vip,Casa Vip,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Westend Brunch,Westend Brunch,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Dao Gia,Dao Gia,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Saladchen,Saladchen,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Pielok,Pielok,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Cafe Casablanca,Cafe Casablanca,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Pizzeria Peppino,Pizzeria Peppino,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Bistro Carioca,Bistro Carioca,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Villa Bonn,Villa Bonn,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Taboo,Taboo,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Lafleur,Lafleur,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Westbar,Westbar,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Cafe Basaglia,Cafe Basaglia,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Bullys Burger,Bullys Burger,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Reuter's,Reuter's,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Gundi,Gundi,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Dionysos,Dionysos,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Villa Leonhardi,Villa Leonhardi,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Bistro Teheran,Bistro Teheran,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Biondo,Biondo,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Casanostra,Casanostra,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Take Off,Take Off,0,其他,0.0,0.0,0.0
+更多美食,Lemons & Limes,Lemons & Limes,0,其他,0.0,0.0,0.0
+更多美食,Weller Backerei and Konditorie,Weller Backerei and Konditorie,0,其他,0.0,0.0,0.0
+更多美食,Escobar,Escobar,0,其他,0.0,0.0,0.0
+更多美食,Bummelbahn,Bummelbahn,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Roma,Pizzeria Roma,0,其他,0.0,0.0,0.0
+更多美食,Der fliegende Italiener,Der fliegende Italiener,0,其他,0.0,0.0,0.0
+更多美食,Krone,Krone,0,其他,0.0,0.0,0.0
+更多美食,Marjan,Marjan,0,其他,0.0,0.0,0.0
+更多美食,Wega,Wega,0,其他,0.0,0.0,0.0
+更多美食,Worscht Company,Worscht Company,0,其他,0.0,0.0,0.0
+更多美食,36 Grad,36 Grad,0,其他,0.0,0.0,0.0
+更多美食,Frischer Wok,Frischer Wok,0,其他,0.0,0.0,0.0
+更多美食,Caffe Fellini,Caffe Fellini,0,其他,0.0,0.0,0.0
+更多美食,Kaliko,Kaliko,0,其他,0.0,0.0,0.0
+更多美食,Struwwelpeter,Struwwelpeter,0,其他,0.0,0.0,0.0
+更多美食,Wallnuss,Wallnuss,0,其他,0.0,0.0,0.0
+更多美食,Amir Libanesische Spezialitaten,Amir Libanesische Spezialitaten,0,其他,0.0,0.0,0.0
+更多美食,Pizza Petro,Pizza Petro,0,其他,0.0,0.0,0.0
+更多美食,Conmoto,Conmoto,0,其他,0.0,0.0,0.0
+更多美食,Zu den drei Steubern,Zu den drei Steubern,0,其他,0.0,0.0,0.0
+更多美食,Alte Liebe,Alte Liebe,0,其他,0.0,0.0,0.0
+更多美食,Sapa Sushi,Sapa Sushi,0,其他,0.0,0.0,0.0
+更多美食,Jazz Life,Jazz Life,0,其他,0.0,0.0,0.0
+更多美食,Diwan,Diwan,0,其他,0.0,0.0,0.0
+更多美食,Hugo Brasserie & Bar,Hugo Brasserie & Bar,0,其他,0.0,0.0,0.0
+更多美食,Fenstergucker,Fenstergucker,0,其他,0.0,0.0,0.0
+更多美食,Grill-Haus,Grill-Haus,0,其他,0.0,0.0,0.0
+更多美食,Speak easy,Speak easy,0,其他,0.0,0.0,0.0
+更多美食,Ambassel,Ambassel,0,其他,0.0,0.0,0.0
+更多美食,Kastanie,Kastanie,0,其他,0.0,0.0,0.0
+更多美食,La Perla,La Perla,0,其他,0.0,0.0,0.0
+更多美食,Kneipchen,Kneipchen,0,其他,0.0,0.0,0.0
+更多美食,King Creole,King Creole,0,其他,0.0,0.0,0.0
+更多美食,Tennisanlage Eckenheim Peter Fussenich,Tennisanlage Eckenheim Peter Fussenich,0,其他,0.0,0.0,0.0
+更多美食,Trattoria Culinaria,Trattoria Culinaria,0,其他,0.0,0.0,0.0
+更多美食,Zur Alten Post,Zur Alten Post,0,其他,0.0,0.0,0.0
+更多美食,Pizzeria Biertonne,Pizzeria Biertonne,0,其他,0.0,0.0,0.0
+更多美食,Moevenpick Hotel Restaurant,Moevenpick Hotel Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Thairestaurant Bua-Thong,Thairestaurant Bua-Thong,0,其他,0.0,0.0,0.0
+更多美食,Obsthof am Steinberg,Obsthof am Steinberg,0,其他,0.0,0.0,0.0
+更多美食,Hesse Wirtschaft,Hesse Wirtschaft,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Quantum,Quantum,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Sue's Soul Kitchen,Sue's Soul Kitchen,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Urfa Kebap Haus Frankfurt mit Kohlegrill,Urfa Kebap Haus Frankfurt mit Kohlegrill,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Alt Byblos,Alt Byblos,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Halle der Helden,Halle der Helden,0,奥斯坦登,0.0,0.0,0.0
+更多美食,El Nigo Steakhaus,El Nigo Steakhaus,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Edelkiosk,Edelkiosk,0,奥斯坦登,0.0,0.0,0.0
+更多美食,De Vadder,De Vadder,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Zum dicken Fritz,Zum dicken Fritz,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Null Grad,Null Grad,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Pizzeria Dick und Doof,Pizzeria Dick und Doof,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Gickelschlag,Gickelschlag,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Der Buchwald,Der Buchwald,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Himalaya Laternchen,Himalaya Laternchen,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Zur blauen Adria,Zur blauen Adria,0,法兰克福西,0.0,0.0,0.0
+更多美食,Kemtong,Kemtong,0,法兰克福西,0.0,0.0,0.0
+更多美食,Gaststatte Mainlust,Gaststatte Mainlust,0,法兰克福西,0.0,0.0,0.0
+更多美食,Ruderclub Griesheim,Ruderclub Griesheim,0,法兰克福西,0.0,0.0,0.0
+更多美食,Mezzaluna,Mezzaluna,0,法兰克福西,0.0,0.0,0.0
+更多美食,Hainer Hof,Hainer Hof,0,法兰克福西,0.0,0.0,0.0
+更多美食,La Fenice,La Fenice,0,南市中心,0.0,0.0,0.0
+更多美食,Pizzeria Rusticale,Pizzeria Rusticale,0,南市中心,0.0,0.0,0.0
+更多美食,Brasserie & Wine Bar,Brasserie & Wine Bar,0,南市中心,0.0,0.0,0.0
+更多美食,Zur Giesskanne,Zur Giesskanne,0,南市中心,0.0,0.0,0.0
+更多美食,Ypsilon Cafe und Restaurant,Ypsilon Cafe und Restaurant,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Mondnacht Frankfurt am Main,Mondnacht Frankfurt am Main,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Pizzeria Al Pinocchio,Pizzeria Al Pinocchio,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,shisan,shisan,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Berger's,Berger's,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Little Italy,Little Italy,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Hue,Hue,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Charivari,Charivari,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Prigk Thai,Prigk Thai,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Suvarnabhum,Suvarnabhum,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Moksha,Moksha,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Bellavista,Bellavista,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Odyssee,Odyssee,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,relax,relax,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Kulturcaffee Odysee,Kulturcaffee Odysee,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,IN+ART INos+ARTos,IN+ART INos+ARTos,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Backstage,Backstage,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Umi Sushi,Umi Sushi,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Wein Baecher,Wein Baecher,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Clubhaus 1880,Clubhaus 1880,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Zum Einhorn,Zum Einhorn,0,法兰克福Nieder-Eschbach-Harhe,0.0,0.0,0.0
+更多美食,Ristorante Pizzeria Da Aldo,Ristorante Pizzeria Da Aldo,0,法兰克福Nieder-Eschbach-Harhe,0.0,0.0,0.0
+更多美食,Il Gondoliere,Il Gondoliere,0,法兰克福North West,0.0,0.0,0.0
+更多美食,Mutz,Mutz,0,法兰克福North West,0.0,0.0,0.0
+更多美食,Park Avenue,Park Avenue,0,法兰克福North West,0.0,0.0,0.0
+更多美食,Ginnheimer Schone Aussicht,Ginnheimer Schone Aussicht,0,北市中心,0.0,0.0,0.0
+更多美食,da Claudio,da Claudio,0,北市中心,0.0,0.0,0.0
+更多美食,Restaurant Niddagarten,Restaurant Niddagarten,0,北市中心,0.0,0.0,0.0
+更多美食,Ortliebs Scheune,Ortliebs Scheune,0,北市中心,0.0,0.0,0.0
+更多美食,Mr. Clou am Hauptbahnhof,Mr. Clou am Hauptbahnhof,0,其他,0.0,0.0,0.0
+更多美食,Rosisten 2,Rosisten 2,0,其他,0.0,0.0,0.0
+更多美食,Berry,Berry,0,其他,0.0,0.0,0.0
+更多美食,MainStrand,MainStrand,0,其他,0.0,0.0,0.0
+更多美食,Backenköhler,Backenköhler,0,,0.0,0.0,0.0
+更多美食,El Rayyan,El Rayyan,0,,0.0,0.0,0.0
+更多美食,Chalet Multilounge,Chalet Multilounge,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Restaurant African Palace,Restaurant African Palace,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Food Rockers,Food Rockers,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Taifun,Taifun,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Pik-Dame,Pik-Dame,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Nachtleben,Nachtleben,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Asia Snack,Asia Snack,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Le Figaro,Le Figaro,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Oberschweinstiege,Oberschweinstiege,0,其他,0.0,0.0,0.0
+更多美食,The Cooking Ape,The Cooking Ape,0,其他,0.0,0.0,0.0
+更多美食,Grillhaus,Grillhaus,0,其他,0.0,0.0,0.0
+更多美食,Dreikoenigskeller,Dreikoenigskeller,0,其他,0.0,0.0,0.0
+更多美食,Big Ebbel - Mercure Hotel Frankfurt Eschborn Ost,Big Ebbel - Mercure Hotel Frankfurt Eschborn Ost,0,,0.0,0.0,0.0
+更多美食,Forno D'Oro 1,Forno D'Oro 1,0,其他,0.0,0.0,0.0
+更多美食,Burgerhaus Nieder-Erlenbach,Burgerhaus Nieder-Erlenbach,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Abessina,Restaurant Abessina,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Sombrero,Sombrero,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Bernemer Brunnchen,Bernemer Brunnchen,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Opatija,Opatija,0,法兰克福西,0.0,0.0,0.0
+更多美食,Himalajahaus,Himalajahaus,0,法兰克福西,0.0,0.0,0.0
+更多美食,Mbao Su,Mbao Su,0,法兰克福西,0.0,0.0,0.0
+更多美食,Tavolara,Tavolara,0,法兰克福西,0.0,0.0,0.0
+更多美食,Zum Jordan,Zum Jordan,0,南市中心,0.0,0.0,0.0
+更多美食,Il Quadrifoglio,Il Quadrifoglio,0,南市中心,0.0,0.0,0.0
+更多美食,EDMW Gastronomie,EDMW Gastronomie,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Koylum Grill Haus,Koylum Grill Haus,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Tierra Verde Essbar,Tierra Verde Essbar,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Sampan,Sampan,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Luise - Cafe&Weinbar,Luise - Cafe&Weinbar,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Zum Goldenen Lowen,Zum Goldenen Lowen,0,法兰克福Nieder-Eschbach-Harhe,0.0,0.0,0.0
+更多美食,Miramir,Miramir,0,北市中心,0.0,0.0,0.0
+更多美食,Grossmanns Restaurant,Grossmanns Restaurant,0,法兰克福西,0.0,0.0,0.0
+更多美食,Silk Bed Restaurant,Silk Bed Restaurant,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Cocoon Club,Cocoon Club,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Tatie,Tatie,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Fluggi,Fluggi,0,其他,0.0,0.0,0.0
+更多美食,Kastanienwald,Kastanienwald,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Piccolo Mondo,Piccolo Mondo,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Ciao Ciao,Ciao Ciao,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Ebisu,Ebisu,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,WAX - Panini & Coffee,WAX - Panini & Coffee,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Tarte Flambee,Tarte Flambee,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,GinYuu,GinYuu,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Kaffee-Bar Papillon,Kaffee-Bar Papillon,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Cafe Douglas,Cafe Douglas,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Chiquita Fruit Bar,Chiquita Fruit Bar,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Spago,Spago,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,China Box,China Box,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Restaurant Frohsinn,Restaurant Frohsinn,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Balducci,Balducci,0,法兰克福市中心,0.0,0.0,0.0
+更多美食,Remise,Remise,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Restaurant PEARL by Mirko Reeh,Restaurant PEARL by Mirko Reeh,0,韦斯滕德,0.0,0.0,0.0
+更多美食,K & K im Westend,K & K im Westend,0,韦斯滕德,0.0,0.0,0.0
+更多美食,LebensLauf,LebensLauf,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Bastos,Bastos,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Da Romeo,Da Romeo,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Krua Thai,Krua Thai,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Bodega Luciano,Bodega Luciano,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Bistrorante Luca,Bistrorante Luca,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Heck Meck,Heck Meck,0,韦斯滕德,0.0,0.0,0.0
+更多美食,La,La,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Dalli Dalli Stuebchen,Dalli Dalli Stuebchen,0,韦斯滕德,0.0,0.0,0.0
+更多美食,Manna,Manna,0,其他,0.0,0.0,0.0
+更多美食,Artemis,Artemis,0,其他,0.0,0.0,0.0
+更多美食,Schweizer 96,Schweizer 96,0,其他,0.0,0.0,0.0
+更多美食,Mogks Bierstubb,Mogks Bierstubb,0,其他,0.0,0.0,0.0
+更多美食,Saint Clichy,Saint Clichy,0,其他,0.0,0.0,0.0
+更多美食,Dauth's Hinnerkopp,Dauth's Hinnerkopp,0,其他,0.0,0.0,0.0
+更多美食,Sternstunde,Sternstunde,0,其他,0.0,0.0,0.0
+更多美食,Ms. Wodan,Ms. Wodan,0,其他,0.0,0.0,0.0
+更多美食,Da Stefano,Da Stefano,0,其他,0.0,0.0,0.0
+更多美食,Zur Krone,Zur Krone,0,其他,0.0,0.0,0.0
+更多美食,Ristorante Classico Inh.Tuwari Ashwani Kumar,Ristorante Classico Inh.Tuwari Ashwani Kumar,0,其他,0.0,0.0,0.0
+更多美食,Restaurant Stadthalle Bergen,Restaurant Stadthalle Bergen,0,其他,0.0,0.0,0.0
+更多美食,Zum Lemp,Zum Lemp,0,其他,0.0,0.0,0.0
+更多美食,Metropol,Metropol,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Luster,Luster,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Schweitzer Rostihaus Munderich,Schweitzer Rostihaus Munderich,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Blueberry Hill,Blueberry Hill,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Salatschmiede,Salatschmiede,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Abbuzze,Abbuzze,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Bornheimer Ratskeller,Bornheimer Ratskeller,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Schmaerrnche,Schmaerrnche,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Zur Eulenburg,Zur Eulenburg,0,奥斯坦登,0.0,0.0,0.0
+更多美食,Bistrorante La Rosa,Bistrorante La Rosa,0,法兰克福西,0.0,0.0,0.0
+更多美食,Unterliederbacher Kebabhaus,Unterliederbacher Kebabhaus,0,法兰克福西,0.0,0.0,0.0
+更多美食,Osteria Enoteca,Osteria Enoteca,0,南市中心,0.0,0.0,0.0
+更多美食,Filiale,Filiale,0,南市中心,0.0,0.0,0.0
+更多美食,Akebono,Akebono,0,南市中心,0.0,0.0,0.0
+更多美食,Alt Praunheim,Alt Praunheim,0,南市中心,0.0,0.0,0.0
+更多美食,Das 21.Jahrhundert,Das 21.Jahrhundert,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Quer,Quer,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Culux,Culux,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Gaststatte Rink,Gaststatte Rink,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Chili Queen,Chili Queen,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Joel,Joel,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Manolya,Manolya,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Wanners,Wanners,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Unter den Linden,Unter den Linden,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Egenolff - Wein+Essen,Egenolff - Wein+Essen,0,法兰克福Nordend,0.0,0.0,0.0
+更多美食,Solber-Eck,Solber-Eck,0,法兰克福North West,0.0,0.0,0.0
+更多美食,Zum Elfer,Zum Elfer,0,法兰克福North West,0.0,0.0,0.0
+更多美食,Buonarotti Restaurant,Buonarotti Restaurant,0,北市中心,0.0,0.0,0.0
+更多美食,Bruschetta & Crostini,Bruschetta & Crostini,0,北市中心,0.0,0.0,0.0
+更多美食,Habemus Pizza,Habemus Pizza,0,其他,0.0,0.0,0.0
+更多美食,Palastbar-Restaurant,Palastbar-Restaurant,0,,0.0,0.0,0.0
+更多美食,Adina,Adina,0,,0.0,0.0,0.0

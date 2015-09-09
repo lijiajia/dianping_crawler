@@ -1,0 +1,207 @@
+意大利菜,La Rosticceria,La Rosticceria,0,其他,0.0,0.0,0.0
+意大利菜,Aqua Taverna,Aqua Taverna,0,其他,0.0,0.0,0.0
+意大利菜,Arte Italiana,Arte Italiana,0,其他,0.0,0.0,0.0
+意大利菜,Gola Restaurant,Gola Restaurant,0,其他,0.0,0.0,0.0
+意大利菜,acqua,acqua,0,其他,0.0,0.0,0.0
+意大利菜,Catari Plage,Catari Plage,0,其他,0.0,0.0,0.0
+法国菜,L'ile- Bistrot Cafe,L'ile- Bistrot Cafe,0,其他,0.0,0.0,0.0
+法国菜,La Maison de Catherine,La Maison de Catherine,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Niko's Taverna,Niko's Taverna,0,米克诺斯城,7.6,7.6,7.7
+其他西餐,Passaggio,Passaggio,0,米克诺斯城,7.2,7.6,7.4
+其他西餐,Mourayio,Mourayio,0,米克诺斯城,8.4,8.4,8.4
+其他西餐,Petrino Aquarius Restaurant,Petrino Aquarius Restaurant,0,卡拉法提,8.0,8.2,8.2
+其他西餐,Kostas,Kostas,0,其他,7.5,7.5,7.5
+其他西餐,Roca Cookery,Roca Cookery,0,其他,6.7,8.4,7.5
+其他西餐,Mamalouka,Mamalouka,0,米克诺斯城,6.7,7.5,7.5
+其他西餐,Yialo-Yialo,Yialo-Yialo,0,普拉提斯加,7.5,7.1,7.5
+其他西餐,Olla Mykonos,Olla Mykonos,0,米克诺斯城,6.7,7.5,7.5
+其他西餐,En Plo,En Plo,0,其他,7.5,7.5,7.5
+其他西餐,Paraportiani Taverna,Paraportiani Taverna,0,其他,7.3,7.3,7.3
+其他西餐,Vardaris,Vardaris,0,其他,6.8,6.8,7.2
+其他西餐,Meze On Port,Meze On Port,0,托罗斯,0.0,0.0,0.0
+其他西餐,Bakalo,Bakalo,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Remezzo Restaurant and Bar,Remezzo Restaurant and Bar,0,其他,0.0,0.0,0.0
+其他西餐,Fisherman Taverna,Fisherman Taverna,0,阿诺梅拉,0.0,0.0,0.0
+其他西餐,Alegro Restaurant,Alegro Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Phos Mykonos Restaurant,Phos Mykonos Restaurant,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Kuzina,Kuzina,0,欧诺斯,0.0,0.0,0.0
+其他西餐,Matthew Taverna,Matthew Taverna,0,托罗斯,0.0,0.0,0.0
+其他西餐,Avra Restaurant - Garden,Avra Restaurant - Garden,0,其他,0.0,0.0,0.0
+其他西餐,Caesar's,Caesar's,0,其他,0.0,0.0,0.0
+其他西餐,Joanna's Nikos Place,Joanna's Nikos Place,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Pepper Mykonos,Pepper Mykonos,0,其他,0.0,0.0,0.0
+其他西餐,Liasti,Liasti,0,其他,0.0,0.0,0.0
+其他西餐,Spilia,Spilia,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Notos Beach Restaurant,Notos Beach Restaurant,0,普拉提斯加,0.0,0.0,0.0
+其他西餐,Kalua Mykonos,Kalua Mykonos,0,超级天堂,0.0,0.0,0.0
+其他西餐,Diles,Diles,0,其他,0.0,0.0,0.0
+其他西餐,Restaurant Alefkandra,Restaurant Alefkandra,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Rouvera,Rouvera,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Atlantida Restaurant,Atlantida Restaurant,0,普拉提斯加,0.0,0.0,0.0
+其他西餐,Katerina's Bar & Restaurant,Katerina's Bar & Restaurant,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Tavern To Steki Tou Poedpou,Tavern To Steki Tou Poedpou,0,其他,0.0,0.0,0.0
+其他西餐,Nautilus,Nautilus,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Kastro's,Kastro's,0,其他,0.0,0.0,0.0
+其他西餐,Taverna La Luna,Taverna La Luna,0,其他,0.0,0.0,0.0
+其他西餐,La Familia,La Familia,0,其他,0.0,0.0,0.0
+其他西餐,YNot,YNot,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Kikis Tavern,Kikis Tavern,0,Panormos,0.0,0.0,0.0
+其他西餐,Funky Kitchen,Funky Kitchen,0,其他,0.0,0.0,0.0
+其他西餐,The Dublin Irish Pub Restaurant,The Dublin Irish Pub Restaurant,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Chez Marias,Chez Marias,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,The Belvedere Club Restaurant,The Belvedere Club Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,La Casa,La Casa,0,其他,0.0,0.0,0.0
+其他西餐,Unity Grill Pizzeria,Unity Grill Pizzeria,0,其他,0.0,0.0,0.0
+其他西餐,Cafe Yialos,Cafe Yialos,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Dublin Coffee,Dublin Coffee,0,托罗斯,0.0,0.0,0.0
+其他西餐,Appaloosa Bar Restaurant,Appaloosa Bar Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Agios Sostis Tavern,Agios Sostis Tavern,0,其他,0.0,0.0,0.0
+其他西餐,Kalita,Kalita,0,其他,0.0,0.0,0.0
+其他西餐,Lotus,Lotus,0,其他,0.0,0.0,0.0
+其他西餐,Alemagou Beach Bar,Alemagou Beach Bar,0,其他,0.0,0.0,0.0
+其他西餐,Barbarola,Barbarola,0,其他,0.0,0.0,0.0
+其他西餐,Kostantis Taverna,Kostantis Taverna,0,欧诺斯,0.0,0.0,0.0
+其他西餐,Kalosta,Kalosta,0,Panormos,0.0,0.0,0.0
+其他西餐,Adva Panormos,Adva Panormos,0,Panormos,0.0,0.0,0.0
+其他西餐,Viva Mare,Viva Mare,0,普拉提斯加,0.0,0.0,0.0
+其他西餐,Agrari Beach Restaurant,Agrari Beach Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,To Koutouki tou limniou,To Koutouki tou limniou,0,其他,0.0,0.0,0.0
+其他西餐,Markos Tavern,Markos Tavern,0,其他,0.0,0.0,0.0
+其他西餐,Epistrofi,Epistrofi,0,其他,0.0,0.0,0.0
+其他西餐,Taverna Petran,Taverna Petran,0,其他,0.0,0.0,0.0
+其他西餐,Pantelis Restaurant,Pantelis Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Semeli the Bar,Semeli the Bar,0,其他,0.0,0.0,0.0
+其他西餐,Yummy Mykonos,Yummy Mykonos,0,其他,0.0,0.0,0.0
+其他西餐,Lady Finger,Lady Finger,0,其他,0.0,0.0,0.0
+其他西餐,YELLLOW foodies spot,YELLLOW foodies spot,0,其他,0.0,0.0,0.0
+其他西餐,Ftelia Restaurant,Ftelia Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Kapari Restaurant at Hotel Princess of Mykonos,Kapari Restaurant at Hotel Princess of Mykonos,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Nostimon,Nostimon,0,欧诺斯,0.0,0.0,0.0
+其他西餐,Barbarossa Restaurant,Barbarossa Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Music Cafe,Music Cafe,0,其他,0.0,0.0,0.0
+其他西餐,Deliades Hotel,Deliades Hotel,0,其他,0.0,0.0,0.0
+其他西餐,Merolayia Restaurant,Merolayia Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Sunset Taverna,Sunset Taverna,0,其他,0.0,0.0,0.0
+其他西餐,Rouvera,Rouvera,0,其他,0.0,0.0,0.0
+其他西餐,Leonidas,Leonidas,0,其他,0.0,0.0,0.0
+其他西餐,Mykonos Resto,Mykonos Resto,0,其他,0.0,0.0,0.0
+其他西餐,Mykonos taverna,Mykonos taverna,0,其他,0.0,0.0,0.0
+其他西餐,Break Snack & Coffee,Break Snack & Coffee,0,其他,0.0,0.0,0.0
+其他西餐,Kostas' Veranda Restaurant,Kostas' Veranda Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Yefsi Event Restaurant,Yefsi Event Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Adelfia Taverna,Adelfia Taverna,0,其他,0.0,0.0,0.0
+其他西餐,Soulatso Trattoria,Soulatso Trattoria,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Ludmela Taverna Grill House,Ludmela Taverna Grill House,0,普塞罗,0.0,0.0,0.0
+其他西餐,THREE3BAR,THREE3BAR,0,其他,0.0,0.0,0.0
+其他西餐,El Greco,El Greco,0,其他,0.0,0.0,0.0
+其他西餐,Nikolas Taverna,Nikolas Taverna,0,超级天堂,0.0,0.0,0.0
+其他西餐,THALASSA,THALASSA,0,卡拉法提,0.0,0.0,0.0
+其他西餐,Antoninis,Antoninis,0,其他,0.0,0.0,0.0
+其他西餐,Alexis Restaurant,Alexis Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,NiSa Restaurant,NiSa Restaurant,0,其他,0.0,0.0,0.0
+其他西餐,Salparo Seafood Tavern,Salparo Seafood Tavern,0,其他,0.0,0.0,0.0
+其他西餐,TASOS,TASOS,0,其他,0.0,0.0,0.0
+其他西餐,Ceaser's,Ceaser's,0,其他,0.0,0.0,0.0
+其他西餐,Mykonian Spiti,Mykonian Spiti,0,其他,0.0,0.0,0.0
+其他西餐,Open Kitchen,Open Kitchen,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,ALU bar-resto-lounge,ALU bar-resto-lounge,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Axinaioi,Axinaioi,0,米克诺斯城,0.0,0.0,0.0
+其他西餐,Ithaki,Ithaki,0,欧诺斯,0.0,0.0,0.0
+其他西餐,Gourmeat,Gourmeat,0,欧诺斯,0.0,0.0,0.0
+日韩料理,Noodle Mykonos,Noodle Mykonos,0,其他,7.5,7.5,7.5
+日韩料理,Kiku,Kiku,0,其他,0.0,0.0,0.0
+日韩料理,Sushi Med,Sushi Med,0,其他,0.0,0.0,0.0
+日韩料理,PEARL HARBOR Sushi Bar,PEARL HARBOR Sushi Bar,0,其他,0.0,0.0,0.0
+更多亚洲菜,Blue Ginger,Blue Ginger,0,米克诺斯城,0.0,0.0,0.0
+更多亚洲菜,Indian Palace,Indian Palace,0,其他,0.0,0.0,0.0
+更多亚洲菜,Jimmy's Place,Jimmy's Place,0,其他,0.0,0.0,0.0
+快餐简餐,SPILIA,SPILIA,0,,7.1,7.0,7.0
+快餐简餐,Black Bull,Black Bull,0,其他,0.0,0.0,0.0
+烧烤,Namma Barbecue,Namma Barbecue,0,其他,0.0,0.0,0.0
+比萨,Farina Restaurant,Farina Restaurant,0,其他,0.0,0.0,0.0
+咖啡厅,sunset cafe bar,sunset cafe bar,0,,7.7,7.1,5.9
+咖啡厅,"Point Cafe, Chora, Mykonos","Point Cafe, Chora, Mykonos",0,其他,7.4,8.0,7.4
+咖啡厅,Mandarini,Mandarini,0,米克诺斯城,0.0,0.0,0.0
+咖啡厅,Veranda Cafe,Veranda Cafe,0,其他,0.0,0.0,0.0
+咖啡厅,Araxame,Araxame,0,其他,0.0,0.0,0.0
+咖啡厅,Cosmo Cafe,Cosmo Cafe,0,米克诺斯城,0.0,0.0,0.0
+面包甜点,Malama Cafe,Malama Cafe,0,欧诺斯,0.0,0.0,0.0
+面包甜点,Trio Bambini,Trio Bambini,0,米克诺斯城,0.0,0.0,0.0
+面包甜点,Gelarte Ice Cream,Gelarte Ice Cream,0,其他,0.0,0.0,0.0
+面包甜点,Casa Dolce Gelateria,Casa Dolce Gelateria,0,米克诺斯城,0.0,0.0,0.0
+面包甜点,Happyo,Happyo,0,其他,0.0,0.0,0.0
+面包甜点,Suisse Cafe,Suisse Cafe,0,其他,0.0,0.0,0.0
+面包甜点,Davinci,Davinci,0,其他,0.0,0.0,0.0
+面包甜点,I Scream,I Scream,0,其他,0.0,0.0,0.0
+酒吧,小威尼斯,小威尼斯,0,米克诺斯城,7.8,8.1,7.8
+酒吧,snack bar,snack bar,0,,6.8,6.8,7.1
+酒吧,Lola Bar-Cafe,Lola Bar-Cafe,0,其他,0.0,0.0,0.0
+酒吧,Skandinavian Bar,Skandinavian Bar,0,其他,0.0,0.0,0.0
+酒吧,Porta Bar Mykonos,Porta Bar Mykonos,0,其他,0.0,0.0,0.0
+酒吧,Kastro Bar Mykonos,Kastro Bar Mykonos,0,其他,0.0,0.0,0.0
+酒吧,Alley Cocktail Bar,Alley Cocktail Bar,0,其他,0.0,0.0,0.0
+酒吧,Montparnasse - The Piano Bar,Montparnasse - The Piano Bar,0,其他,0.0,0.0,0.0
+酒吧,Old Customs Cafe,Old Customs Cafe,0,米克诺斯城,0.0,0.0,0.0
+酒吧,Zorba's,Zorba's,0,其他,0.0,0.0,0.0
+酒吧,Jackie O,Jackie O,0,其他,0.0,0.0,0.0
+酒吧,Hibiscus,Hibiscus,0,米克诺斯城,0.0,0.0,0.0
+酒吧,Elysium Hotel Bar,Elysium Hotel Bar,0,其他,0.0,0.0,0.0
+酒吧,Space Nightclub,Space Nightclub,0,其他,0.0,0.0,0.0
+酒吧,Veranda Club-Cafe,Veranda Club-Cafe,0,其他,0.0,0.0,0.0
+酒吧,Sea Breeze Cafe-Bar,Sea Breeze Cafe-Bar,0,其他,0.0,0.0,0.0
+酒吧,Glam Mykonos,Glam Mykonos,0,其他,0.0,0.0,0.0
+酒吧,Sunset Party at Elysium Hotel,Sunset Party at Elysium Hotel,0,其他,0.0,0.0,0.0
+更多美食,Marco Polo,Marco Polo,0,米克诺斯城,7.7,7.7,8.1
+更多美食,Opa Taverna,Opa Taverna,0,米克诺斯城,7.1,7.3,7.7
+更多美食,Nikos Gallop,Nikos Gallop,0,普塞罗,7.9,7.9,7.9
+更多美食,D'Angelo Mykonos,D'Angelo Mykonos,0,其他,8.4,7.5,8.4
+更多美食,Tasos Taverna,Tasos Taverna,0,超级天堂,0.0,0.0,0.0
+更多美食,Nammos,Nammos,0,米克诺斯城,0.0,0.0,0.0
+更多美食,Andreas & Maria,Andreas & Maria,0,米克诺斯城,0.0,0.0,0.0
+更多美食,Elia Beach Restaurant,Elia Beach Restaurant,0,阿基亚安娜,0.0,0.0,0.0
+更多美食,Kadena,Kadena,0,其他,0.0,0.0,0.0
+更多美食,Aperanto Galazio,Aperanto Galazio,0,欧诺斯,0.0,0.0,0.0
+更多美食,Taverna Nicolas,Taverna Nicolas,0,米克诺斯城,0.0,0.0,0.0
+更多美食,Vasilikos bar-restaurant,Vasilikos bar-restaurant,0,阿吉欧尼斯,0.0,0.0,0.0
+更多美食,Thea,Thea,0,其他,0.0,0.0,0.0
+更多美食,Catari Ristorante Italiano,Catari Ristorante Italiano,0,其他,0.0,0.0,0.0
+更多美食,Sakis Grill House,Sakis Grill House,0,其他,0.0,0.0,0.0
+更多美食,Aleka's Restaurant,Aleka's Restaurant,0,欧诺斯,0.0,0.0,0.0
+更多美食,Pinky Beach,Pinky Beach,0,其他,0.0,0.0,0.0
+更多美食,Interni,Interni,0,米克诺斯城,0.0,0.0,0.0
+更多美食,Jimmy's,Jimmy's,0,其他,0.0,0.0,0.0
+更多美食,Galleraki Cocktail Bar,Galleraki Cocktail Bar,0,米克诺斯城,0.0,0.0,0.0
+更多美食,Anna's Place,Anna's Place,0,其他,0.0,0.0,0.0
+更多美食,Madoupas Cafe,Madoupas Cafe,0,其他,0.0,0.0,0.0
+更多美食,Kalammmakia Lakka,Kalammmakia Lakka,0,其他,0.0,0.0,0.0
+更多美食,Matsuhisa Mykonos,Matsuhisa Mykonos,0,其他,0.0,0.0,0.0
+更多美食,Panormos beach restaurant bar,Panormos beach restaurant bar,0,Panormos,0.0,0.0,0.0
+更多美食,Nineteen75,Nineteen75,0,其他,0.0,0.0,0.0
+更多美食,Fish Taverna Lia,Fish Taverna Lia,0,其他,0.0,0.0,0.0
+更多美食,Taverna Apostolis,Taverna Apostolis,0,其他,0.0,0.0,0.0
+更多美食,Bougazi Cafe,Bougazi Cafe,0,其他,0.0,0.0,0.0
+更多美食,"Restaurtante Bar Oniro en Tagou, Mykonos","Restaurtante Bar Oniro en Tagou, Mykonos",0,其他,0.0,0.0,0.0
+更多美食,Super Paradise,Super Paradise,0,其他,0.0,0.0,0.0
+更多美食,Tropicana Beach Restaurant,Tropicana Beach Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Blu-Blu Cafe Lounge Bar,Blu-Blu Cafe Lounge Bar,0,米克诺斯城,0.0,0.0,0.0
+更多美食,Hippie Fish,Hippie Fish,0,阿吉欧尼斯,0.0,0.0,0.0
+更多美食,Manoulas,Manoulas,0,阿吉欧尼斯,0.0,0.0,0.0
+更多美食,Luv All Sea Bar,Luv All Sea Bar,0,其他,0.0,0.0,0.0
+更多美食,Vangelis Taverna,Vangelis Taverna,0,其他,0.0,0.0,0.0
+更多美食,The Waves,The Waves,0,其他,0.0,0.0,0.0
+更多美食,Skaropoulos Pastry Shop,Skaropoulos Pastry Shop,0,其他,0.0,0.0,0.0
+更多美食,Hotel Tagoo Restaurant,Hotel Tagoo Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Paradise Restaurant,Paradise Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Andriana's Tavern,Andriana's Tavern,0,其他,0.0,0.0,0.0
+更多美食,La Meduse,La Meduse,0,其他,0.0,0.0,0.0
+更多美食,Ilo-Ilo,Ilo-Ilo,0,米克诺斯城,0.0,0.0,0.0
+更多美食,Guilty Beach,Guilty Beach,0,Panormos,0.0,0.0,0.0
+更多美食,Spilia Seaside Restaurant - Bar,Spilia Seaside Restaurant - Bar,0,米克诺斯城,0.0,0.0,0.0
+更多美食,La Piazzetta,La Piazzetta,0,其他,0.0,0.0,0.0
+更多美食,Kouvaroti,Kouvaroti,0,其他,0.0,0.0,0.0
+更多美食,Taverna Antonini,Taverna Antonini,0,其他,0.0,0.0,0.0
+更多美食,Kadena Cafe- Restaurant,Kadena Cafe- Restaurant,0,其他,0.0,0.0,0.0
+更多美食,Taverna Giavroutas,Taverna Giavroutas,0,米克诺斯城,0.0,0.0,0.0
+更多美食,Squalo Bar Restaurant,Squalo Bar Restaurant,0,米克诺斯城,0.0,0.0,0.0
+更多美食,Bellagio All Day Bar Restaurant,Bellagio All Day Bar Restaurant,0,欧诺斯,0.0,0.0,0.0
+更多美食,Rayo del Sol,Rayo del Sol,0,Panormos,0.0,0.0,0.0
